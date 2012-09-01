@@ -28,17 +28,17 @@ Enabling authorities:
 
 ***AATCC*** means the American Association of Textile Chemists and Colorists; (*AATCC*)
 
-***accessory mass***[Repealed, SOR/2008-258, s. 1]
+***accessory mass***[Repealed, SOR/2008-258, s. 1]
 
 ***Act*** means the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md); (*Loi*)
 
-***adjacent seat*** means a designated seating position so located that a portion of its occupant space is not more than 25.4 cm from an emergency exit for a distance of at least 38.1 cm measured horizontally and parallel to the emergency exit; (*siège adjacent*)
+***adjacent seat*** means a designated seating position so located that a portion of its occupant space is not more than 25.4 cm from an emergency exit for a distance of at least 38.1 cm measured horizontally and parallel to the emergency exit; (*siège adjacent*)
 
 ***adjustment hardware*** means hardware designed for adjusting the size of a seat belt assembly to fit the user, including such hardware as may be integral with a buckle, a retractor or attachment hardware; (*pièces de réglage*)
 
-***agricultural commodity trailer***[Repealed, SOR/99-357, s. 1]
+***agricultural commodity trailer***[Repealed, SOR/99-357, s. 1]
 
-***aiming reference plane***[Repealed, SOR/96-366, s. 1]
+***aiming reference plane***[Repealed, SOR/96-366, s. 1]
 
 ***air bag*** means an inflatable automatic occupant protection system that may be deployed when a collision occurs; (*sac gonflable*)
 
@@ -48,38 +48,38 @@ Enabling authorities:
 
 ***ambient temperature*** means the surrounding air temperature measured at such a distance from a vehicle under test that the temperature is not significantly affected by heat from the vehicle; (*température ambiante*)
 
-***American specifications vehicle***[Repealed, SOR/95-147, s. 1]
+***American specifications vehicle***[Repealed, SOR/95-147, s. 1]
 
 ***ANSI*** means the American National Standards Institute; (*ANSI*)
 
-***ANS Z26***[Repealed, SOR/94-717, s. 1]
+***ANS Z26***[Repealed, SOR/94-717, s. 1]
 
 ***ANSI Z26 Safety Code — 1990*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Code, Standard ANSI/SAE Z26.1 — 1990, published November 1990 and reprinted February 1992. (*code de sécurité ANSI Z26 — 1990*)
 
-***ANSI Z26 Safety Standard — 1996*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard, Standard ANSI/SAE Z26.1-1996, published on August 11,1997. (*norme de sécurité ANSI Z26 — 1996*)
+***ANSI Z26 Safety Standard — 1996*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard, Standard ANSI/SAE Z26.1-1996, published on August 11,1997. (*norme de sécurité ANSI Z26 — 1996*)
 
-***anthropomorphic test device*** means, except in section 202 of Schedule IV, a representation of a human being used in the measurement of the conditions that a human being would experience in a vehicle when the vehicle is subjected to approved test methods; (*dispositif anthropomorphe d’essai*)
+***anthropomorphic test device*** means, except in section 202 of Schedule IV, a representation of a human being used in the measurement of the conditions that a human being would experience in a vehicle when the vehicle is subjected to approved test methods; (*dispositif anthropomorphe d’essai*)
 
 ***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
 - **(a)** sensing the rate of angular rotation of the wheels,
 - **(b)** transmitting signals regarding the rate of wheel angular rotation to one or more controlling devices that interpret those signals and generate responsive controlling output signals, and
 - **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage** ou **ABS*)
 
-***antilock system***[Repealed, SOR/97-200, s. 1]
+***antilock system***[Repealed, SOR/97-200, s. 1]
 
 ***antique reproduction vehicle*** means a vehicle that is designed to be a scaled reproduction of an antique vehicle and
 - **(a)** may contain contemporary design components,
-- **(b)** has a motor that produces 8 kW (10.73 bhp) or less,
+- **(b)** has a motor that produces 8 kW (10.73 bhp) or less,
 - **(c)** is intended for use exclusively in parades, exhibitions and demonstrations, and
 - **(d)** bears a label, permanently affixed in a conspicuous position, stating that the vehicle is not to be used for public transportation, but is intended for use in parades, exhibitions and demonstrations; (*réplique d’ancien modèle*)
 
-***antique vehicle*** means a vehicle more than 30 years old that, when restored to a condition comparable to that on the date of its manufacture, retains the original components or incorporates replacement components with original design characteristics; (*ancien modèle*)
+***antique vehicle*** means a vehicle more than 30 years old that, when restored to a condition comparable to that on the date of its manufacture, retains the original components or incorporates replacement components with original design characteristics; (*ancien modèle*)
 
 ***approved*** means approved by the Minister; (*approuvé*)
 
-***armour***[Repealed, SOR/2007-180, s. 1]
+***armour***[Repealed, SOR/2007-180, s. 1]
 
-***assembler***[Repealed, SOR/95-147, s. 1]
+***assembler***[Repealed, SOR/95-147, s. 1]
 
 ***ASTM*** means the American Society for Testing Materials; (*ASTM*)
 
@@ -101,23 +101,23 @@ Enabling authorities:
 
 ***battery charging tell-tale*** means a signal that, when alight, indicates that the battery is not being charged; (*témoin de charge*)
 
-***beam contributor***[Repealed, SOR/96-366, s. 1]
+***beam contributor***[Repealed, SOR/96-366, s. 1]
 
-***blister***[Repealed, SOR/2007-180, s. 1]
+***blister***[Repealed, SOR/2007-180, s. 1]
 
 ***body type*** means the general configuration or shape of a vehicle distinguished by the number of doors or windows, cargo carrying features, the roofline (e.g., sedan, fastback, hatchback) or other characteristics; (*type de carrosserie*)
 
-***bonded construction sealed beam headlamp***[Repealed, SOR/96-366, s. 1]
+***bonded construction sealed beam headlamp***[Repealed, SOR/96-366, s. 1]
 
-***booster cushion***[Repealed, SOR/98-160, s. 1]
+***booster cushion***[Repealed, SOR/98-160, s. 1]
 
-***brake fluid***[Repealed, SOR/2007-180, s. 1]
+***brake fluid***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose***[Repealed, SOR/2007-180, s. 1]
+***brake hose***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose assembly***[Repealed, SOR/2007-180, s. 1]
+***brake hose assembly***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose end fitting***[Repealed, SOR/2007-180, s. 1]
+***brake hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
 ***brake power assist unit*** means a device installed in a hydraulic brake system that reduces the amount of muscular force that a driver must apply to actuate the system, and that, if inoperative, does not prevent the driver from braking the vehicle by a continued application of muscular force on the service brake control; (*unité d’assistance de frein*)
 
@@ -127,9 +127,9 @@ Enabling authorities:
 
 ***buckle*** means a quick-release connector that secures a person in a seat belt assembly; (*attache*)
 
-***built-in booster cushion*** means a device that is designed as an integral part of a vehicle seating system, for the purpose of seating in an elevated position a person who weighs at least 18 kg (40 pounds), in order to adapt an adult seat belt assembly of the motor vehicle to the person; (*coussin d’appoint intégré*)
+***built-in booster cushion*** means a device that is designed as an integral part of a vehicle seating system, for the purpose of seating in an elevated position a person who weighs at least 18 kg (40 pounds), in order to adapt an adult seat belt assembly of the motor vehicle to the person; (*coussin d’appoint intégré*)
 
-***built-in child restraint system*** means a device, except a Type 1 or Type 2 seat belt assembly, that is designed to restrain a child and that is an integral part of a vehicle seating system; (*ensemble intégré de retenue d’enfant*)
+***built-in child restraint system*** means a device, except a Type 1 or Type 2 seat belt assembly, that is designed to restrain a child and that is an integral part of a vehicle seating system; (*ensemble intégré de retenue d’enfant*)
 
 ***built-in dual-purpose restraint system*** means a device that combines the function of a built-in child restraint system and a built-in booster cushion; (*ensemble intégré de retenue à double usage*)
 
@@ -137,32 +137,32 @@ Enabling authorities:
 
 ***bus trailer*** means a vehicle having a designated seating capacity of more than 10 and designed primarily to be drawn behind another vehicle; (*remorque-autobus*)
 
-***C-dolly*** means a trailer converter dolly that is equipped with a single axle that is self-steering and with a coupling that is so designed that when the trailer converter dolly is coupled to a towing trailer, the trailer converter dolly cannot pivot horizontally with respect to the towing trailer; (*chariot de conversion de type C*)
+***C-dolly*** means a trailer converter dolly that is equipped with a single axle that is self-steering and with a coupling that is so designed that when the trailer converter dolly is coupled to a towing trailer, the trailer converter dolly cannot pivot horizontally with respect to the towing trailer; (*chariot de conversion de type C*)
 
 ***cable reel trailer*** means a vehicle designed to be drawn behind another vehicle for the exclusive purpose of carrying a drum or reel of cable; (*chariot dérouleur*)
 
 ***cargo-carrying capacity*** means the mass that is equal to or less than the result obtained by subtracting from the gross vehicle weight rating the sum of
 - **(a)** the unloaded vehicle mass,
-- **(b)** the product obtained by multiplying the designated seating capacity by 54 kg, in the case of a school bus, or by 68 kg, in any other case, and
+- **(b)** the product obtained by multiplying the designated seating capacity by 54 kg, in the case of a school bus, or by 68 kg, in any other case, and
 - **(c)** in the case of a vehicle having living or sanitary accommodations, the mass of its fresh water, hot water and propane tanks, but not its waste water tanks, when full; (*capacité de chargement*)
 
 ***chassis-cab*** means an incomplete vehicle, other than an incomplete trailer, with a completed occupant compartment that requires only the addition of a cargo-carrying surface, work-performing equipment or a load-bearing component to perform its intended functions. (*châssis-cabine*)
 
 ***check digit*** means a single number or the letter “X” used to verify the accuracy of the transcription of the vehicle identification number; (*unité de contrôle*)
 
-***child*** means a person whose mass is between 9 kg (20 pounds) and 22 kg (48 pounds) inclusive; (*enfant*)
+***child*** means a person whose mass is between 9 kg (20 pounds) and 22 kg (48 pounds) inclusive; (*enfant*)
 
-***child restraint system***[Repealed, SOR/98-160, s. 1]
+***child restraint system***[Repealed, SOR/98-160, s. 1]
 
-***chipping***[Repealed, SOR/2007-180, s. 1]
+***chipping***[Repealed, SOR/2007-180, s. 1]
 
 ***CMVSS*** is an abbreviation for Canada Motor Vehicle Safety Standard; (*NSVAC*)
 
-***competition car***[Repealed, SOR/2000-182, s. 1]
+***competition car***[Repealed, SOR/2000-182, s. 1]
 
-***competition motorcycle***[Repealed, SOR/2000-182, s. 1]
+***competition motorcycle***[Repealed, SOR/2000-182, s. 1]
 
-***competition snowmobile***[Repealed, SOR/2000-182, s. 1]
+***competition snowmobile***[Repealed, SOR/2000-182, s. 1]
 
 ***competition vehicle*** means a vehicle that is designed for use exclusively in closed-course competition and
 - **(a)** bears a label affixed by the manufacturer stating, in both official languages, that the vehicle is a competition vehicle and is for use exclusively in closed-course competition, or
@@ -170,11 +170,11 @@ Enabling authorities:
 
 ***completed vehicle*** means a vehicle that needs no further manufacturing operations to perform its intended function, other than the addition of readily attachable components, such as mirrors or tire and rim assemblies, or minor finishing operations such as painting; (*véhicule complet*)
 
-***compliance label*** means the label required to be applied to a completed vehicle under section 6 or 6.6; (*étiquette de conformité*)
+***compliance label*** means the label required to be applied to a completed vehicle under section 6 or 6.6; (*étiquette de conformité*)
 
-***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé*or*GNC*)
+***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé** or **GNC*)
 
-***contactable surface***[Repealed, SOR/98-160, s. 1]
+***contactable surface***[Repealed, SOR/98-160, s. 1]
 
 ***control*** means the part of a device that enables the driver to bring about a change in the state or functioning of a vehicle or vehicle component; (*commande*)
 
@@ -186,23 +186,23 @@ Enabling authorities:
 
 ***curb weight*** means the weight of a vehicle with standard equipment and carrying its maximum capacity of fuel, oil and coolant and includes the weight of any air-conditioning equipment on the vehicle and the amount by which the weight of any optional engine with which the vehicle is equipped exceeds the weight of the standard engine; (*poids à vide*)
 
-***custom restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***custom restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
 ***cutaway chassis*** means an incomplete vehicle that has the back of the cab cut out for the intended installation of a structure that permits access from the driver’s area to the back of the vehicle; (*châssis tronqué*)
 
-***daytime running lamp*** means, for the purposes of section 108 of Schedule IV, a lamp used to improve the visibility of a vehicle when the vehicle is viewed from the front in daylight; (*feu de jour*)
+***daytime running lamp*** means, for the purposes of section 108 of Schedule IV, a lamp used to improve the visibility of a vehicle when the vehicle is viewed from the front in daylight; (*feu de jour*)
 
 ***demountable rim*** means a supporting member for a tire or tire and tube assembly, that does not have a permanently attached centre component; (*jante amovible*)
 
-***designated seating capacity*** means the number of designated seating positions provided in a vehicle or, in the case of a motor home that has a GVWR greater than 4 536 kg, may, at the option of the manufacturer, mean the number of sleeping positions provided in the motor home; (*nombre désigné de places assises*)
+***designated seating capacity*** means the designated seating capacity determined in accordance with section 2.3; (*nombre désigné de places assises*)
 
-***designated seating position*** means any plan view position capable of accommodating a person at least as large as a 5th percentile adult female where the overall seat configuration and design and the vehicle design are such that the position is likely to be used as a seating position while the vehicle is in motion, but does not include any plan view position of temporary or folding jump seats or other auxiliary seating accommodation; (*place assise désignée*)
+***designated seating position*** means a location in a vehicle that is likely to be used as a seating position and that has a seating surface width of at least 330 mm; (*place assise désignée*)
 
 ***disc wheel*** means a supporting member for a tire or tire and tube assembly, comprising a rim with a dish-shaped component that is permanently attached to the inner circumference of the rim; (*roue à disque*)
 
 ***display*** means an indicator, a tell-tale or an alphanumeric readout, or a collection of indicators, tell-tales and alphanumeric readouts, on the instrument panel of a vehicle; (*affichage*)
 
-***distributor***[Repealed, SOR/95-147, s. 1]
+***distributor***[Repealed, SOR/95-147, s. 1]
 
 ***driver*** means the occupant of a vehicle seated immediately behind the steering control system; (*conducteur*)
 
@@ -210,7 +210,7 @@ Enabling authorities:
 
 ***ECE*** means the United Nations Economic Commission for Europe, Inland Transport Committee; (*CEE*)
 
-***effective projected luminous lens area***[Repealed, SOR/96-366, s. 1]
+***effective projected luminous lens area***[Repealed, SOR/96-366, s. 1]
 
 ***emergency brake*** means a mechanism designed to stop a vehicle after a failure of the service brake system; (*frein de secours*)
 
@@ -221,7 +221,7 @@ Enabling authorities:
 ***enclosed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** is designed to travel on two wheels in contact with the ground,
-- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
 - **(d)** has a structure partially or fully enclosing the driver and passenger that is an integral part of the vehicle chassis; (*motocyclette à habitacle fermé*)
 
 ***engine coolant temperature indicator*** means a device that presents information concerning the temperature of the coolant; (*indicateur de température du liquide de refroidissement*)
@@ -230,7 +230,7 @@ Enabling authorities:
 
 ***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net power or other characteristics; (*type de moteur*)
 
-***ERBP***[Repealed, SOR/2007-180, s. 1]
+***ERBP***[Repealed, SOR/2007-180, s. 1]
 
 ***final-stage manufacturer*** means a company that performs the manufacturing operations on an incomplete vehicle that turn the incomplete vehicle into a completed vehicle; (*fabricant à l’étape finale*)
 
@@ -244,7 +244,7 @@ Enabling authorities:
 
 ***forward control configuration*** means a configuration in which more than half of the engine length is rearward of the foremost point of the windshield base and the steering wheel hub is in the forward quarter of the vehicle length; (*type à cabine avancée*)
 
-***free length***[Repealed, SOR/2007-180, s. 1]
+***free length***[Repealed, SOR/2007-180, s. 1]
 
 ***front outboard designated seating position*** means the driver’s designated seating position and the forwardmost right outboard designated seating position, but does not include a school bus passenger designated seating position; (*place assise désignée extérieure avant*)
 
@@ -260,13 +260,13 @@ Enabling authorities:
 
 ***fuel system*** means all components used to store fuel or supply fuel to a vehicle engine; (*circuit d’alimentation en carburant*)
 
-***full trailer***, for the purposes of Technical Standards Document No. 121, Air Brake Systems, means a trailer, except a pole trailer, that is equipped with two or more axles that support the entire weight of the trailer and its load; (*remorque complète*)
+***full trailer***, for the purposes of Technical Standards Document No. 121, Air Brake Systems, means a trailer, except a pole trailer, that is equipped with two or more axles that support the entire weight of the trailer and its load; (*remorque complète*)
 
-***gasoline***[Repealed, SOR/2002-187, s. 1]
+***gasoline***[Repealed, SOR/2002-187, s. 1]
 
 ***glazing material manufacturer*** means a person engaged in the business of fabricating, laminating or tempering glazing material. (*fabricant de vitrages*)
 
-***grade***[Repealed, SOR/2007-180, s. 1]
+***grade***[Repealed, SOR/2007-180, s. 1]
 
 ***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu** or **PNBE*)
 
@@ -274,13 +274,13 @@ Enabling authorities:
 
 ***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
-***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
+***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
 
 ***hardware***, when used in relation to a seat belt assembly, means any metal or rigid plastic part; (*pièces*)
 
-***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
+***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
 
-***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
+***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
 
 ***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
 
@@ -288,11 +288,11 @@ Enabling authorities:
 
 ***hearse*** means a vehicle that contains only one row of occupant seats, is designed exclusively for transporting a body and casket and is equipped with features to secure a casket in place during the operation of the vehicle; (*corbillard*)
 
-***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
+***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
 ***heavy hauler trailer*** means a trailer that has
 - **(a)** brake lines designed to adapt to separation or extension of the vehicle frame, or
-- **(b)** a body that consists of only a platform the primary cargo-carrying surface of which is not more than 101.6 cm (40 inches) above the ground in an unloaded condition, but may include sides that are designed for easy removal and a permanent front end structure; (*remorque lourde*)
+- **(b)** a body that consists of only a platform the primary cargo-carrying surface of which is not more than 101.6 cm (40 inches) above the ground in an unloaded condition, but may include sides that are designed for easy removal and a permanent front end structure; (*remorque lourde*)
 
 ***high-pressure portion of the fuel system*** means, for a vehicle that uses LPG or CNG as a source of energy for its propulsion, all the components of the fuel system from and including the fuel container to, but not including, the first stage regulator; (*partie haute pression du circuit d’alimentation en carburant*)
 
@@ -300,13 +300,13 @@ Enabling authorities:
 
 ***hydraulic brake system*** means a system that uses hydraulic fluid as a medium for transmitting force from a service brake control to the service brake, and that may incorporate a brake power assist unit or a brake power unit; (*système de freinage hydraulique*)
 
-***hydraulic system mineral oil***[Repealed, SOR/2007-180, s. 1]
+***hydraulic system mineral oil***[Repealed, SOR/2007-180, s. 1]
 
 ***idle position*** means the position of the throttle at which it first comes in contact with an engine idle speed control appropriate for existing conditions according to the manufacturers’ recommendations respecting engine speed adjustments for a cold engine, air conditioning, emission control and throttle setting devices; (*position de ralenti*)
 
-***imported used vehicle***[Repealed, SOR/92-173, s. 1]
+***imported used vehicle***[Repealed, SOR/92-173, s. 1]
 
-***importer***[Repealed, SOR/95-147, s. 1]
+***importer***[Repealed, SOR/95-147, s. 1]
 
 ***incomplete trailer*** means a vehicle, other than a vehicle imported temporarily for special purposes, that is capable of being drawn and that consists, at a minimum, of a chassis structure and suspension system but needs further manufacturing operations performed on it to become a completed vehicle; (*remorque incomplète*)
 
@@ -318,97 +318,97 @@ Enabling authorities:
 
 ***indicator*** means the part of an instrument that shows the quantity of the physical characteristic that the instrument is designed to sense; (*indicateur*)
 
-***infant*** means a person whose mass is less than 9 kg; (*bébé*)
+***infant*** means a person whose mass is less than 9 kg; (*bébé*)
 
-***infant restraint system***[Repealed, SOR/98-160, s. 1]
+***infant restraint system***[Repealed, SOR/98-160, s. 1]
 
-***information label*** means the label required to be applied to an incomplete vehicle under section 6.2 or 6.4; (*étiquette informative*)
+***information label*** means the label required to be applied to an incomplete vehicle under section 6.2 or 6.4; (*étiquette informative*)
 
-***information readout display***[Repealed, SOR/93-31, s. 1]
+***information readout display***[Repealed, SOR/93-31, s. 1]
 
-***initial brake temperature***[Repealed, SOR/99-357, s. 1]
+***initial brake temperature***[Repealed, SOR/99-357, s. 1]
 
-***inspector***[Repealed, SOR/95-147, s. 1]
+***inspector***[Repealed, SOR/95-147, s. 1]
 
-***integral headlamp aiming device***[Repealed, SOR/96-366, s. 1]
+***integral headlamp aiming device***[Repealed, SOR/96-366, s. 1]
 
 ***intermediate manufacturer*** means a company, other than an incomplete vehicle manufacturer or final-stage manufacturer, that performs manufacturing operations on an incomplete vehicle; (*fabricant intermédiaire*)
 
-***IRHD***[Repealed, SOR/2007-180, s. 1]
+***IRHD***[Repealed, SOR/2007-180, s. 1]
 
 ***leaded gasoline*** means gasoline that contains more than
-- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
-- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence au plomb*)
+- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
+- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence au plomb*)
 
-***light duty vehicle***[Repealed, SOR/2001-35, s. 1]
+***light duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
-***lightly loaded vehicle weight***[Repealed, SOR/99-357, s. 1]
+***lightly loaded vehicle weight***[Repealed, SOR/99-357, s. 1]
 
-***light source***[Repealed, SOR/96-366, s. 1]
+***light source***[Repealed, SOR/96-366, s. 1]
 
 ***light-truck tire*** or ***LT tire*** means a tire designated by its manufacturer as primarily intended for use on lightweight trucks or multi-purpose passenger vehicles; (*pneu pour camion léger*)
 
 ***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
-- **(b)** has a maximum speed of 70 km/h or less,
-- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
+- **(b)** has a maximum speed of 70 km/h or less,
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
 - **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette à vitesse limitée*)
 
 ***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
 
 ***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié** ou **GPL*)
 
-***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
+***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
 ***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
 
-***lower connector system*** means a system consisting of two connectors that each fit inside a checking device that has the envelope dimensions shown in Figure 10 of Schedule 10 to the [Motor Vehicle Restraint Systems and Booster Cushions Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/159.md), are attached to the lower part of a restraint system or booster cushion in a manner that does not allow for their removal without the use of tools, and enable the restraint system or booster cushion to be securely attached to a lower universal anchorage system of a vehicle; (*système d’attaches inférieures*)
+***lower connector system*** means a system consisting of two connectors that each fit inside a checking device that has the envelope dimensions shown in Figure 10 of Schedule 10 to the [Motor Vehicle Restraint Systems and Booster Cushions Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/159.md), are attached to the lower part of a restraint system or booster cushion in a manner that does not allow for their removal without the use of tools, and enable the restraint system or booster cushion to be securely attached to a lower universal anchorage system of a vehicle; (*système d’attaches inférieures*)
 
 ***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower part of a restraint system or booster cushion to a vehicle and that transfers loads from the restraint system or booster cushion and its occupant to the vehicle structure or seat; (*dispositif universel d’ancrages d’attaches inférieurs*)
 
 ***low-speed vehicle*** means a vehicle, other than a restricted-use motorcycle or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed for use primarily on streets and roads where access and the use of other classes of vehicles are controlled by law or agreement,
 - **(b)** travels on four wheels,
-- **(c)** is powered by an electric power train (an electric motor and, if present, a transmission) that is designed to allow the vehicle to attain a speed of 32 km/h but not more than 40 km/h in a distance of 1.6 km on a paved level surface,
+- **(c)** is powered by an electric power train (an electric motor and, if present, a transmission) that is designed to allow the vehicle to attain a speed of 32 km/h but not more than 40 km/h in a distance of 1.6 km on a paved level surface,
 - **(d)** does not use fuel as an on-board source of energy, and
-- **(e)** has a GVWR of less than 1 361 kg; (*véhicule à basse vitesse*)
+- **(e)** has a GVWR of less than 1 361 kg; (*véhicule à basse vitesse*)
 
 ***make*** means the name that a manufacturer applies to a group of vehicles; (*marque*)
 
-***manual seat belt assembly*** means, with respect to a Type 1 or Type 2 seat belt assembly, an assembly that requires a deliberate action on the part of the occupant of a vehicle to be activated; (*ceinture de sécurité manuelle*)
+***manual seat belt assembly*** means, with respect to a Type 1 or Type 2 seat belt assembly, an assembly that requires a deliberate action on the part of the occupant of a vehicle to be activated; (*ceinture de sécurité manuelle*)
 
-***manufacturer***[Repealed, SOR/95-147, s. 1]
+***manufacturer***[Repealed, SOR/95-147, s. 1]
 
 ***master lighting switch*** means a switch with one or more operational positions that controls the tail lamps, parking lamp, licence plate lamp, side marker lamps and headlamps and may control identification lamps and clearance lamps; (*commutateur général d’éclairage*)
 
-***maximum load***[Repealed, SOR/2008-258, s. 1]
+***maximum load***[Repealed, SOR/2008-258, s. 1]
 
-***maximum loaded vehicle mass***[Repealed, SOR/2008-258, s. 1]
+***maximum loaded vehicle mass***[Repealed, SOR/2008-258, s. 1]
 
-***maximum speed*** means, with respect to a motorcycle, the speed specified by the manufacturer as the highest speed that the motorcycle is capable of attaining, measured in accordance with section 5.3; (*vitesse maximale*)
+***maximum speed*** means, with respect to a motorcycle, the speed specified by the manufacturer as the highest speed that the motorcycle is capable of attaining, measured in accordance with section 5.3; (*vitesse maximale*)
 
-***minibike***[Repealed, SOR/88-268, s. 1]
+***minibike***[Repealed, SOR/88-268, s. 1]
 
 ***Minister*** means the Minister of Transport; (*ministre*)
 
-***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
+***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
 
-***mobility-impaired occupant*** means a person whose mass is 9 kg or more and who, for orthopaedic reasons or because of the person’s build or other physical characteristics, is unable to use a child restraint system or a Type 1 or Type 2 seat belt; (*occupant à mobilité réduite*)
+***mobility-impaired occupant*** means a person whose mass is 9 kg or more and who, for orthopaedic reasons or because of the person’s build or other physical characteristics, is unable to use a child restraint system or a Type 1 or Type 2 seat belt; (*occupant à mobilité réduite*)
 
 ***model*** means the name that a manufacturer applies to a family of vehicles of the same class, make, line, series and body type; (*modèle*)
 
 ***model year*** means the year used to designate a discrete vehicle model irrespective of the calendar year in which the vehicle was actually produced, so long as the period of such production is less than two years; (*année de modèle*)
 
-***moped***[Repealed, SOR/88-268, s. 1]
+***moped***[Repealed, SOR/88-268, s. 1]
 
 ***motorcycle*** means a vehicle that is of the subclasses enclosed motorcycle, open motorcycle, limited-speed motorcycle or motor tricycle, and
 - **(a)** is designed to travel on not more than three wheels in contact with the ground,
-- **(b)** has a minimum wheel rim diameter of 250 mm, and
-- **(c)** has a minimum wheelbase of 1 016 mm,
+- **(b)** has a minimum wheel rim diameter of 250 mm, and
+- **(c)** has a minimum wheelbase of 1 016 mm,
 
 but does not include a power-assisted bicycle, a restricted-use motorcycle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
 
-***motor driven cycle***[Repealed, SOR/88-268, s. 1]
+***motor driven cycle***[Repealed, SOR/88-268, s. 1]
 
 ***motor home*** means a multi-purpose passenger vehicle that is designed to provide temporary residential accommodations, as evidenced by the presence of at least four of the following:
 - **(a)** cooking facilities,
@@ -422,63 +422,63 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(a)** is designed to travel on three wheels that are in contact with the ground and symmetrically arranged in relation to the longitudinal median plane,
 - **(b)** has seating on which the driver and passenger must sit astride,
 - **(c)** has not more than four designated seating positions,
-- **(d)** has a GVWR of 1 000 kg or less,
-- **(e)** has a maximum speed of more than 70 km/h, and
+- **(d)** has a GVWR of 1 000 kg or less,
+- **(e)** has a maximum speed of more than 70 km/h, and
 - **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur* )
 
-***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
+***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
 
-***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”***[Repealed, SOR/2007-180, s. 1]
+***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”***[Repealed, SOR/2007-180, s. 1]
 
-***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluid”***[Repealed, SOR/95-536, s. 7]
+***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluid”***[Repealed, SOR/95-536, s. 7]
 
-***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
+***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
 
-***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
+***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
 
-***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
+***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
 
 ***multi-purpose passenger vehicle*** means a vehicle having a designated seating capacity of 10 or less that is constructed either on a truck chassis or with special features for occasional off-road operation, but does not include an air cushion vehicle, an all-terrain vehicle, a golf cart, a low-speed vehicle, a passenger car, a three-wheeled vehicle, a truck or a vehicle imported temporarily for special purposes; (*véhicule de tourisme à usages multiples*)
 
 ***non-locking retractor*** means a retractor that does not have a locking mechanism, from which the webbing can be extended to substantially its full length by a small external force, that provides no adjustment for assembly length and that need not be capable of sustaining restraint forces at maximum webbing extension; (*rétracteur sans blocage*)
 
-***normal load***[Repealed, SOR/2008-258, s. 1]
+***normal load***[Repealed, SOR/2008-258, s. 1]
 
-***normal occupants’ mass***[Repealed, SOR/2008-258, s. 1]
+***normal occupants’ mass***[Repealed, SOR/2008-258, s. 1]
 
-***occupant*** means a person or manikin seated in a vehicle and, unless otherwise specified, means a person or manikin having the dimensions and weight of a 95th percentile adult male; (*occupant*)
+***occupant*** means a person or manikin seated in a vehicle and, unless otherwise specified, means a person or manikin having the dimensions and weight of a 95th percentile adult male; (*occupant*)
 
-***occupant compartment air space***[Repealed, SOR/2007-180, s. 1]
+***occupant compartment air space***[Repealed, SOR/2007-180, s. 1]
 
-***occupant distribution***[Repealed, SOR/2008-258, s. 1]
+***occupant distribution***[Repealed, SOR/2008-258, s. 1]
 
 ***occupant space*** means the space directly above the seat and footwell, bounded vertically by the ceiling and horizontally by the normally positioned seat back and the nearest obstruction of occupant motion in the direction the seat faces; (*espace d’occupant*)
 
-***off-road motorcycle***[Repealed, SOR/88-268, s. 1]
+***off-road motorcycle***[Repealed, SOR/88-268, s. 1]
 
 ***oil pressure indicator*** means a device that presents information concerning the pressure of the oil in the engine lubrication circuit; (*indicateur de pression d’huile*)
 
 ***oil pressure tell-tale*** means a signal that, when alight, indicates that the oil pressure in the engine lubrication circuit is below the normal operating limit prescribed by the manufacturer; (*témoin de pression d’huile*)
 
-***on-highway vehicle***[Repealed, SOR/2004-250, s. 1]
+***on-highway vehicle***[Repealed, SOR/2004-250, s. 1]
 
-***on-off-highway vehicle***[Repealed, SOR/2004-250, s. 1]
+***on-off-highway vehicle***[Repealed, SOR/2004-250, s. 1]
 
 ***open-body type vehicle*** means a vehicle that has no top over the occupant compartment or that has a top over the occupant compartment that can be installed or removed by the operator of the vehicle; (*véhicule de type ouvert*)
 
 ***open motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** is designed to travel on two wheels in contact with the ground or, if the wheels are asymmetrically arranged in relation to the longitudinal median plane, three wheels in contact with the ground,
-- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm,
-- **(d)** has a maximum speed of more than 70 km/h, and
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm,
+- **(d)** has a maximum speed of more than 70 km/h, and
 - **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
 
-***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
+***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
 - **(a)** two or more separate light sources or a single light source that operates in different ways,
 - **(b)** one lens totally or partly in common, and
 - **(c)** a common lamp body; (*feux combinés optiquement*)
 
-***optional item***[Repealed, SOR/2008-258, s. 1]
+***optional item***[Repealed, SOR/2008-258, s. 1]
 
 ***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
 
@@ -486,19 +486,19 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***parking brake*** means a mechanism designed to prevent the movement of a stationary vehicle; (*frein de stationnement*)
 
-***parking mechanism***[Repealed, SOR/99-357, s. 1]
+***parking mechanism***[Repealed, SOR/99-357, s. 1]
 
 ***passenger car*** means a vehicle having a designated seating capacity of 10 or less, but does not include an all-terrain vehicle, a competition vehicle, a low-speed vehicle, a multi-purpose passenger vehicle, an antique reproduction vehicle, a motorcycle, a truck, a trailer, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*voiture de tourisme*)
 
-***passenger car tire*** means a tire intended for use on passenger cars, multi-purpose passenger vehicles and trucks with a GVWR of 4 536 kg or less; (*pneu pour voiture de tourisme*)
+***passenger car tire*** means a tire intended for use on passenger cars, multi-purpose passenger vehicles and trucks with a GVWR of 4 536 kg or less; (*pneu pour voiture de tourisme*)
 
-***passive occupant protection***[Repealed, SOR/93-5, s. 1]
+***passive occupant protection***[Repealed, SOR/93-5, s. 1]
 
-***passive restraint system***[Repealed, SOR/93-5, s. 1]
+***passive restraint system***[Repealed, SOR/93-5, s. 1]
 
 ***pelvic restraint*** means a seat belt assembly or portion thereof intended to restrain movement of the pelvis; (*ceinture sous-abdominale*)
 
-***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
+***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
 ***plant of manufacture*** means the plant at which the manufacturer affixes the vehicle identification number; (*usine de construction*)
 
@@ -509,42 +509,42 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(b)** is designed to travel on not more than three wheels in contact with the ground,
 - **(c)** is capable of being propelled by muscular power,
 - **(d)** has one or more electric motors that have, singly or in combination, the following characteristics:
-	- **(i)** it has a total continuous power output rating, measured at the shaft of each motor, of 500 W or less,
+	- **(i)** it has a total continuous power output rating, measured at the shaft of each motor, of 500 W or less,
 	- **(ii)** if it is engaged by the use of muscular power, power assistance immediately ceases when the muscular power ceases,
 	- **(iii)** if it is engaged by the use of an accelerator controller, power assistance immediately ceases when the brakes are applied, and
-	- **(iv)** it is incapable of providing further assistance when the bicycle attains a speed of 32 km/h on level ground,
+	- **(iv)** it is incapable of providing further assistance when the bicycle attains a speed of 32 km/h on level ground,
 - **(e)** bears a label that is permanently affixed by the manufacturer and appears in a conspicuous location stating, in both official languages, that the vehicle is a power-assisted bicycle as defined in this subsection, and
 - **(f)** has one of the following safety features,
 	- **(i)** an enabling mechanism to turn the electric motor on and off that is separate from the accelerator controller and fitted in such a manner that it is operable by the driver, or
-	- **(ii)** a mechanism that prevents the motor from being engaged before the bicycle attains a speed of 3 km/h; (*bicyclette assistée*)
+	- **(ii)** a mechanism that prevents the motor from being engaged before the bicycle attains a speed of 3 km/h; (*bicyclette assistée*)
 
-***power-operated roof panel***[Repealed, SOR/2007-180, s. 1]
+***power-operated roof panel***[Repealed, SOR/2007-180, s. 1]
 
 ***power-operated roof panel system*** means a panel or panels in the roof of a vehicle that move on slides or hinges, the opening or closing of which is operated by a power source within the vehicle, but does not include a convertible top system; (*système de toit ouvrant à commande électrique*)
 
-***prescribed class*** means a class of vehicle listed in Schedule III or the class of incomplete vehicle prescribed under subsection 4(1.1); (*catégorie réglementaire*)
+***prescribed class*** means a class of vehicle listed in Schedule III or the class of incomplete vehicle prescribed under subsection 4(1.1); (*catégorie réglementaire*)
 
-***prime glazing material manufacturer***[Repealed, SOR/2002-187, s. 1]
+***prime glazing material manufacturer***[Repealed, SOR/2002-187, s. 1]
 
-***production options mass***[Repealed, SOR/2008-258, s. 1]
+***production options mass***[Repealed, SOR/2008-258, s. 1]
 
-***production restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***production restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
-***pulpwood trailer***[Repealed, SOR/99-357, s. 1]
+***pulpwood trailer***[Repealed, SOR/99-357, s. 1]
 
 ***push-out window*** means a vehicle window designed to open outward to provide for emergency egress; (*fenêtre basculante*)
 
-***readily removable window*** means a window that can be quickly and completely removed from a vehicle without tools and, in the case of a bus having a GVWR of more than 4 535.9 kg (10,000 pounds), shall include a push-out window and a window mounted in an emergency exit that can be manually pushed out of its location in the vehicle without the use of tools, regardless of whether the window remains hinged at one side to the vehicle; (*fenêtre amovible*)
+***readily removable window*** means a window that can be quickly and completely removed from a vehicle without tools and, in the case of a bus having a GVWR of more than 4 535.9 kg (10,000 pounds), shall include a push-out window and a window mounted in an emergency exit that can be manually pushed out of its location in the vehicle without the use of tools, regardless of whether the window remains hinged at one side to the vehicle; (*fenêtre amovible*)
 
 ***rear outboard designated seating position*** means any outboard designated seating position that is to the rear of a front outboard designated seating position, but does not include a designated seating position adjacent to a walkway located between the seat and the side of the vehicle interior that is designed to allow access to more rearward seating positions; (*place assise désignée extérieure arrière*)
 
 ***recreational trailer*** means a trailer designed to provide temporary living accommodation for travel, vacation or recreational use; (*remorque de camping*)
 
-***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
+***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
 
 ***restraint system*** means a removable device designed to be installed in a vehicle for use in the restraint of an infant, a child or a mobility-impaired occupant but does not include booster cushions or vehicle seat belts; (*ensemble de retenue*)
 
-***restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
 ***restricted-use motorcycle*** means a vehicle, excluding a power-assisted bicycle, a competition vehicle and a vehicle imported temporarily for special purposes, but including an all-terrain vehicle designed primarily for recreational use, that:
 - **(a)** has steering handlebars,
@@ -554,43 +554,45 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***retractor*** means a device for storing part or all of the webbing in a seat belt assembly; (*rétracteur*)
 
-***rim base***[Repealed, SOR/2008-258, s. 1]
+***rim base***[Repealed, SOR/2008-258, s. 1]
 
 ***rim diameter*** means the nominal diameter of the bead seat; (*diamètre de jante*)
 
-***rim size designation***[Repealed, SOR/2008-258, s. 1]
+***rim size designation***[Repealed, SOR/2008-258, s. 1]
 
-***rim type designation***[Repealed, SOR/2008-258, s. 1]
+***rim type designation***[Repealed, SOR/2008-258, s. 1]
 
-***rim width***[Repealed, SOR/2008-258, s. 1]
+***rim width***[Repealed, SOR/2008-258, s. 1]
 
-***rupture***[Repealed, SOR/2007-180, s. 1]
+***rupture***[Repealed, SOR/2007-180, s. 1]
 
 ***SAE*** means the Society of Automotive Engineers, Inc. (SAE International); (*SAE*)
 
-***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
+***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
 
 ***school bus*** means a bus designed or equipped primarily to carry students to and from school; (*autobus scolaire*)
 
-***scuffing***[Repealed, SOR/2007-180, s. 1]
+***scuffing***[Repealed, SOR/2007-180, s. 1]
 
-***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
+***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
 
 ***seat anchorage*** means any component that transfers a vehicle seat load to the vehicle structure; (*ancrage du siège*)
 
-***seat back retainer***[Repealed, SOR/2007-180, s. 1]
+***seat back retainer***[Repealed, SOR/2007-180, s. 1]
 
 ***seat belt anchorage*** means any component of a vehicle, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle whose failure causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
 
 ***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident and includes all necessary buckles and other fasteners and all attachment hardware; (*ceinture de sécurité*)
 
-***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
+***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
 - **(a)** establishes the rearmost normal design driving or riding position of each designated seating position, taking into account all modes of adjustment — horizontal, vertical and tilt — in a vehicle,
-- **(b)** has X, Y and Z coordinates, as defined in section 3.3 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), established relative to the designed vehicle structure,
+- **(b)** has X, Y and Z coordinates, as defined in section 3.3 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), established relative to the designed vehicle structure,
 - **(c)** simulates the position of the pivot centre of the human torso and thigh, and
-- **(d)** is the reference point employed to position the H-Point template with the 95th percentile leg, as described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
+- **(d)** is the reference point employed to position the H-Point template with the 95th percentile leg, as described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
 
-***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
+***seating surface width*** means the maximum width of a seating surface when it is measured in a zone extending from a transverse vertical plane that is 150 mm behind the front leading surface of that seating surface to a transverse vertical plane that is 250 mm behind that front leading surface, measured horizontally and longitudinally; (*largeur de la surface de siège*)
+
+***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
 
 ***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*) 
 
@@ -598,9 +600,11 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***service brake*** means the primary mechanism designed to stop a vehicle; (*frein de service*)
 
-***sloughing***[Repealed, SOR/2007-180, s. 1]
+***shoulder reference point*** means the point 563 mm above the H-point along the torso line; (*point de référence de l’épaule*)
 
-***snowmobile*** means a vehicle, excluding a competition vehicle and a vehicle imported temporarily for special purposes, but including a snowmobile conversion vehicle, that has a mass of not more than 450 kg, is designed primarily for travel on snow, has one or more steering skis and is driven by means of an endless belt or belts in contact with the ground; (*motoneige*)
+***sloughing***[Repealed, SOR/2007-180, s. 1]
+
+***snowmobile*** means a vehicle, excluding a competition vehicle and a vehicle imported temporarily for special purposes, but including a snowmobile conversion vehicle, that has a mass of not more than 450 kg, is designed primarily for travel on snow, has one or more steering skis and is driven by means of an endless belt or belts in contact with the ground; (*motoneige*)
 
 ***snowmobile conversion vehicle*** means a vehicle designed to be capable of conversion to a snowmobile by the repositioning or addition of parts; (*véhicule convertible en motoneige*)
 
@@ -612,11 +616,11 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***special driver accommodation*** includes a driver’s seat that is designed to be removable or that has extended adjustment capability to allow a person to transfer from a wheelchair to the driver’s seat; (*place du conducteur particulière*)
 
-***speed attainable in 1.6 km (1 mile)*** means the speed attainable by accelerating at maximum rate from a standing start for 1.6 km on a level surface; (*vitesse à 1,6 km (1 mille)*)
+***speed attainable in 1.6 km (1 mile)*** means the speed attainable by accelerating at maximum rate from a standing start for 1.6 km on a level surface; (*vitesse à 1,6 km (1 mille)*)
 
-***speed attainable in 3.2 km (2 miles)*** means the speed attainable by accelerating at maximum rate from a standing start for 3.2 km on a level surface; (*vitesse à 3,2 km (2 milles)*)
+***speed attainable in 3.2 km (2 miles)*** means the speed attainable by accelerating at maximum rate from a standing start for 3.2 km on a level surface; (*vitesse à 3,2 km (2 milles)*)
 
-***spike stop*** means a stop resulting from the application of 889.6 N (200 pounds) of force on the service brake control in 0.08 second; (*arrêt d’urgence*)
+***spike stop*** means a stop resulting from the application of 889.6 N (200 pounds) of force on the service brake control in 0.08 second; (*arrêt d’urgence*)
 
 ***split service brake system*** means a brake system consisting of two or more subsystems actuated by a single control, designed so that a single failure in any subsystem (such as a leakage-type failure of a pressure component of a hydraulic subsystem, except for the structural failure of a housing that is common to two or more subsystems, or an electrical failure in an electrical subsystem) does not impair the operation of any other subsystem; (*système de frein de service partagé*)
 
@@ -628,7 +632,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***steering shaft*** means a component that transmits steering torque from the steering wheel to the steering gear; (*arbre de direction*)
 
-***stickiness***[Repealed, SOR/2007-180, s. 1]
+***stickiness***[Repealed, SOR/2007-180, s. 1]
 
 ***stopping distance*** means the distance travelled by a vehicle from the point at which force is applied to the brake control to the point at which the vehicle reaches a full stop; (*distance d’arrêt*)
 
@@ -638,16 +642,16 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***tell-tale*** means an optical signal that, when alight, indicates the actuation of a device, correct or defective functioning or condition, or failure to function; (*témoin*)
 
-***tether belt hook***[Repealed, SOR/98-457, s. 1]
+***tether belt hook***[Repealed, SOR/98-457, s. 1]
 
 ***tether strap*** means a device that is fitted with a tether strap hook and secured to the rigid structure of a restraint system and that transfers the load from that system to the user-ready tether anchorage; (*courroie d’attache*)
 
-***tether strap hook*** means a device that has an interface profile shown in Figure 1 of section 210.1 of Schedule IV and is used to attach a tether strap to a user-ready tether anchorage; (*crochet de la courroie d’attache*)
+***tether strap hook*** means a device that has an interface profile shown in Figure 1 of section 210.1 of Schedule IV and is used to attach a tether strap to a user-ready tether anchorage; (*crochet de la courroie d’attache*)
 
 ***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed to travel on three wheels in contact with the ground,
 - **(b)** has no more than four designated seating positions, and
-- **(c)** has a GVWR of 1 000 kg or less; (*véhicule à trois roues*)
+- **(c)** has a GVWR of 1 000 kg or less; (*véhicule à trois roues*)
 
 ***throttle*** means the component of the fuel metering device that
 - **(a)** connects to the driver-operated accelerator control system, and
@@ -659,33 +663,33 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***trailer converter dolly*** means a conversion chassis that is equipped with one or more axles, a lower half of a fifth-wheel coupling and one or two drawbars, but does not include a vehicle imported temporarily for special purposes; (*chariot de conversion*)
 
-***transparent cover***[Repealed, SOR/96-366, s. 1]
+***transparent cover***[Repealed, SOR/96-366, s. 1]
 
 ***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes, a vehicle designed for operation exclusively off-road or a low-speed vehicle; (*camion*)
 
 ***truck tractor*** means a truck designed primarily for drawing other vehicles and not constructed for carrying any load other than a part of the weight of the vehicle and load drawn, and includes a vehicle designed to accept a fifth-wheel coupling but does not include a crane-equipped breakdown vehicle; (*camion-tracteur*)
 
-***Type 1***[Repealed, SOR/2007-180, s. 1]
+***Type 1***[Repealed, SOR/2007-180, s. 1]
 
-***type 1 headlamp***[Repealed, SOR/91-692, s. 1]
+***type 1 headlamp***[Repealed, SOR/91-692, s. 1]
 
-***Type 1 seat belt assembly*** means a pelvic restraint; (*ceinture de sécurité de type 1*)
+***Type 1 seat belt assembly*** means a pelvic restraint; (*ceinture de sécurité de type 1*)
 
-***Type 2***[Repealed, SOR/2007-180, s. 1]
+***Type 2***[Repealed, SOR/2007-180, s. 1]
 
-***type 2 headlamp***[Repealed, SOR/91-692, s. 1]
+***type 2 headlamp***[Repealed, SOR/91-692, s. 1]
 
-***Type 2 seat belt assembly*** means a combination pelvic and upper torso restraint; (*ceinture de sécurité de type 2*)
+***Type 2 seat belt assembly*** means a combination pelvic and upper torso restraint; (*ceinture de sécurité de type 2*)
 
-***Type 2A***[Repealed, SOR/2007-180, s. 1]
+***Type 2A***[Repealed, SOR/2007-180, s. 1]
 
-***Type 2A shoulder belt*** means an upper torso restraint for use only in conjunction with a pelvic restraint to constitute a Type 2 seat belt assembly; (*ceinture diagonale de type 2A*)
+***Type 2A shoulder belt*** means an upper torso restraint for use only in conjunction with a pelvic restraint to constitute a Type 2 seat belt assembly; (*ceinture diagonale de type 2A*)
 
 ***unit magnification mirror*** means a plane or flat mirror with a reflective surface through which the angular height and width of the image of an object is equal to the angular height and width of the object when viewed directly at the same distance except for flaws that do not exceed normal manufacturing tolerances and includes a prismatic day-night adjustment rearview mirror that provides unit magnification in one of its positions; (*miroir plan*)
 
 ***unleaded gasoline*** means gasoline that contains not more than
-- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
-- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence sans plomb*)
+- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
+- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence sans plomb*)
 
 ***unloaded vehicle mass*** means the mass of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity but without cargo or occupants; (*masse du véhicule sans charge*)
 
@@ -693,27 +697,27 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***upper torso restraint*** means a portion of a seat belt assembly intended to restrain movement of the chest and shoulder regions; (*ceinture-baudrier*)
 
-***used vehicle***[Repealed, SOR/91-425, s. 1]
+***used vehicle***[Repealed, SOR/91-425, s. 1]
 
 ***user-ready tether anchorage*** means a device that transfers tether strap loads from a restraint system to the vehicle structure or a seat structure and is designed to accept directly a tether strap hook without requiring any other device to be installed to accept the tether strap hook; (*ancrage d’attache prêt à utiliser*)
 
-***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
+***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
 
 ***variable brake proportioning system*** means a system that has one or more proportioning devices that automatically change the brake pressure ratio between any two or more wheels to compensate for changes in wheel loading resulting from static load changes or dynamic weight transfer, or from deceleration; (*compensateur de freinage*)
 
-***variable proportioning brake system***[Repealed, SOR/97-200, s. 1]
+***variable proportioning brake system***[Repealed, SOR/97-200, s. 1]
 
-***vehicle***[Repealed, SOR/95-536, s. 7]
+***vehicle***[Repealed, SOR/95-536, s. 7]
 
-***vehicle capacity mass***[Repealed, SOR/2008-258, s. 1]
+***vehicle capacity mass***[Repealed, SOR/2008-258, s. 1]
 
 ***vehicle fuel tank capacity*** means
 - **(a)** the volume of fuel left at the bottom of the tank when the fuel pump of the vehicle can no longer draw fuel from the tank
 
 plus
-- **(b)** the volume of fuel that can be pumped into the tank through the filler pipe when the vehicle is on a level surface and the volume of fuel referred to in paragraph (a) is already in the tank,
+- **(b)** the volume of fuel that can be pumped into the tank through the filler pipe when the vehicle is on a level surface and the volume of fuel referred to in paragraph (a) is already in the tank,
 
-except that the volume of fuel referred to in paragraph (b) does not include any volume of fuel that can be pumped into the fuel tank filler neck or into the space above the fuel tank filler neck; (*capacité du réservoir de carburant du véhicule*)
+except that the volume of fuel referred to in paragraph (b) does not include any volume of fuel that can be pumped into the fuel tank filler neck or into the space above the fuel tank filler neck; (*capacité du réservoir de carburant du véhicule*)
 
 ***vehicle identification number*** means a number consisting of arabic numerals, roman letters, or both that the manufacturer assigns to the vehicle for identification purposes; (*numéro d’identification du véhicule*)
 
@@ -726,26 +730,28 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 - **(b)** an interior element of design intended to provide the vertical clearance necessary to permit a person in a wheelchair to move between the level change device and the driver’s position or to occupy that position, and
 - **(c)** a driver’s seating position that is equipped with an adaptive control or special driver accommodation to enable persons who have limited use of their arms or legs to operate a vehicle; (*véhicule fabriqué pour être conduit par une personne handicapée*)
 
-***walk-in van*** means a van type of truck in which a person having a height of 1 700 mm can enter the occupant compartment in an upright position by a front door; (*fourgon à accès en position debout*)
+***walk-in van*** means a van type of truck in which a person having a height of 1 700 mm can enter the occupant compartment in an upright position by a front door; (*fourgon à accès en position debout*)
 
-***weather side***[Repealed, SOR/2008-258, s. 1]
+***weather side***[Repealed, SOR/2008-258, s. 1]
 
 ***webbing*** means a narrow band of fabric woven with continuous filling yarns and finished selvages; (*sangle*)
 
-***wet ERBP***[Repealed, SOR/2007-180, s. 1]
+***wet ERBP***[Repealed, SOR/2007-180, s. 1]
+
+***wheelchair location*** means a location in a vehicle that is designed to be used to secure an occupied wheelchair; (*emplacement pour fauteuil roulant*)
 
 ***work vehicle*** means a vehicle designed primarily for the performance of work in the construction of works of civil engineering and in maintenance, that is not constructed on a truck-chassis or truck-type chassis, but does not include a tractor or any vehicle designed primarily to be drawn behind another vehicle. (*véhicule de travail*)
 
-***5th percentile adult female*** means a person having as physical characteristics a mass of 46.3 kg, height of 1499 mm, erect sitting height of 785 mm, normal sitting height of 752 mm, hip sitting breadth of 325 mm, hip sitting circumference of 925 mm, waist sitting circumference of 599 mm, chest depth of 191 mm, bust circumference of 775 mm, chest upper circumference of 757 mm, chest lower circumference of 676 mm, knee height of 455 mm, popliteal height of 356 mm, elbow rest height of 180 mm, thigh clearance height of 104 mm, buttock-to-knee length of 518 mm, buttock-to-poples length of 432 mm, elbow-to-elbow breadth of 312 mm and seat breadth of 312 mm; (*5<sup>e</sup> percentile adulte du sexe féminin*)
+***5th percentile adult female*** means a person having as physical characteristics a mass of 46.3 kg, height of 1499 mm, erect sitting height of 785 mm, normal sitting height of 752 mm, hip sitting breadth of 325 mm, hip sitting circumference of 925 mm, waist sitting circumference of 599 mm, chest depth of 191 mm, bust circumference of 775 mm, chest upper circumference of 757 mm, chest lower circumference of 676 mm, knee height of 455 mm, popliteal height of 356 mm, elbow rest height of 180 mm, thigh clearance height of 104 mm, buttock-to-knee length of 518 mm, buttock-to-poples length of 432 mm, elbow-to-elbow breadth of 312 mm and seat breadth of 312 mm; (*5<sup>e</sup> percentile adulte du sexe féminin*)
 
-***50th percentile adult male*** means a person having as physical characteristics a mass of 74.4 kg plus or minus 1.4 kg, erect sitting height of 907 mm plus or minus 3 mm, hip sitting breadth of 373 mm plus or minus 18 mm, hip sitting circumference of 1067 mm, waist sitting circumference of 813 mm plus or minus 15 mm, chest depth of 236 mm plus or minus 5 mm and chest circumference of 950 mm plus or minus 15 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*)
+***50th percentile adult male*** means a person having as physical characteristics a mass of 74.4 kg plus or minus 1.4 kg, erect sitting height of 907 mm plus or minus 3 mm, hip sitting breadth of 373 mm plus or minus 18 mm, hip sitting circumference of 1067 mm, waist sitting circumference of 813 mm plus or minus 15 mm, chest depth of 236 mm plus or minus 5 mm and chest circumference of 950 mm plus or minus 15 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*)
 
-***50th percentile six-year-old child*** means a person having as physical characteristics a mass of 21.5 kg, erect sitting height of 645 mm, hip sitting breadth of 213 mm, hip sitting circumference of 607 mm and waist sitting circumference of 528 mm; (*50<sup>e</sup> percentile enfant de six ans*)
+***50th percentile six-year-old child*** means a person having as physical characteristics a mass of 21.5 kg, erect sitting height of 645 mm, hip sitting breadth of 213 mm, hip sitting circumference of 607 mm and waist sitting circumference of 528 mm; (*50<sup>e</sup> percentile enfant de six ans*)
 
-***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
+***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
-- **(2)** [Repealed, SOR/2009-318, s. 1]
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1.
+- **(2)** [Repealed, SOR/2009-318, s. 1]
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1.
 
 
 
@@ -764,8 +770,8 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ## Number of Wheels
 
 
-**2.2** Two wheels are considered to be one wheel if they are mounted on the same axle and the distance between the centres of their areas of contact with the ground is less than 460 mm.
-> SOR/2003-272, s. 2; SOR/2009-318, s. 2.
+**2.2** For the purpose of determining the number of wheels on a motorcycle or a three-wheeled vehicle, two wheels are considered to be one wheel if they are mounted on the same axle and the distance between the centres of their areas of contact with the ground is less than 460 mm.
+> SOR/2003-272, s. 2; SOR/2009-318, s. 2; SOR/2011-264, s. 2.
 
 
 
@@ -774,8 +780,56 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ## Designated Seating Capacity
 
 
-**2.3** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the central space is not capable of being used as a seating position.
-> SOR/2009-318, s. 2.
+**2.3** 
+
+- **(1)** Subject to subsections (2) and (3), the designated seating capacity of a vehicle is the sum of the number of designated seating positions and wheelchair locations in the vehicle.
+
+- **(2)** The designated seating capacity of a motor home that has a GVWR greater than 4 536 kg may, at the option of the manufacturer, be the number of sleeping positions in the motor home.
+
+- **(3)** If a folding or removable seat is positioned at one or more wheelchair locations, the greater of the following shall be used for the purposes of subsection (1):
+	- **(a)** the number of designated seating positions that the seat contains, and
+	- **(b)** the number of wheelchair locations.
+> SOR/2009-318, s. 2; SOR/2011-264, s. 2.
+
+
+
+
+
+## Number of Designated Seating Positions
+
+
+**2.4** 
+
+- **(1)** In subsection (3), ***measurement zone*** means the zone extending from a transverse vertical plane that is 150 mm behind the front leading surface of a seating surface to a transverse vertical plane that is 250 mm behind that front leading surface, measured horizontally and longitudinally.
+
+- **(2)** If a location in a vehicle that is likely to be used as a seating position has a seating surface width of at least 700 mm, the number of designated seating positions at that location shall be determined by using whichever of the following formulae is applicable and rounding the quotient down to the nearest whole number:
+	- **(a)** if the location has a seating surface width of less than 1 400 mm,
+```
+N = W / X
+```
+where 
+- **N** is the number of designated seating positions,
+- **W** is the seating surface width in millimetres, and
+- **X** is 350 or, at the option of the manufacturer, a number that is chosen by the manufacturer and is less than 350 but not less than 330; and
+	- **(b)** if the location has a seating surface width of 1 400 mm or more,
+```
+N = W / X
+```
+where
+- **N** is the number of designated seating positions,
+- **W** is the seating surface width in millimetres, and
+- **X** is 450 or, at the option of the manufacturer, a number that is chosen by the manufacturer and is less than 450 but not less than 330.
+
+- **(3)** Adjacent seating surfaces are considered to form a single seating surface, unless
+	- **(a)** the seating surfaces are separated by a fixed trimmed surface that has an unpadded top surface and that has a width of not less than 140 mm in each transverse vertical plane, as measured in the measurement zone;
+	- **(b)** the seating surfaces are separated by a void whose cross section in each transverse vertical plane within the measurement zone is a rectangle that is not less than 140 mm wide and not less than 140 mm deep, and the top edge of the cross section in each of those planes is congruent with the transverse horizontal line that intersects the lowest point on the portion of the top profile of the seating surfaces that lie within the plane;
+	- **(c)** interior trim interrupts a line drawn between the H-points of adjacent seating surfaces; or
+	- **(d)** the seating surfaces are adjacent outboard seats, and the lateral distance between each point on the seat cushion of one seat and each point on the seat cushion of the other seat is not less than 140 mm.
+
+- **(4)** Folding, removable and adjustable seats must be measured in the configuration that results in the largest seating surface width.
+
+- **(5)** The number of designated seating positions in a bench type seat in a school bus shall be the number of seating positions determined in accordance with subsection 222(5) of Schedule IV.
+> SOR/2009-318, s. 2; SOR/2011-264, s. 2.
 
 
 
@@ -784,14 +838,14 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ## Prescribed Class of a Vehicle
 
 
-**2.4** 
+**2.5** 
 
-- **(1)** In order to determine the prescribed class of a vehicle, any space in the vehicle designed for use by a person in a wheelchair is deemed to contain four designated seating positions for the purpose of determining the designated seating capacity if
+- **(1)** For the purpose of determining the prescribed class of a vehicle, any wheelchair location is considered to be equivalent to four locations for the purpose of determining the designated seating capacity if
 	- **(a)** the vehicle was designed to have a designated seating capacity of more than 10; and
-	- **(b)** any of the intended designated seating positions are replaced by a space designed for use by a person in a wheelchair.
+	- **(b)** any of the intended designated seating positions are replaced by a wheelchair location.
 
-- **(2)** In order to determine the prescribed class of a vehicle resulting from the alteration of a bus by the replacement of any designated seating position with a space designed for use by a person in a wheelchair, the space may, at the option of the manufacturer, be considered to be equivalent to four designated seating positions for the purpose of calculating the designated seating capacity.
-> SOR/2009-318, s. 2.
+- **(2)** For the purpose of determining the prescribed class of a vehicle resulting from the alteration of a bus by the replacement of any designated seating position with a wheelchair location, the location may, at the option of the manufacturer, be considered to be equivalent to four locations for the purpose of determining the designated seating capacity.
+> SOR/2011-264, s. 2.
 
 
 
@@ -2184,7 +2238,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>210</td>
-<td>Seat Belt Assembly Anchorages</td>
+<td>Seat Belt Anchorages</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2808,14 +2862,14 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3.
 
 
 
 
 ### **SCHEDULE IV** 
-**(Sections 2, 5 and 6 and subsection 12(3))**
-> [SOR/95-147, s. 6].
+**(Subsections 2(1) and 2.4(5) and sections 5, 6 and 12)**
+> [SOR/95-147, s. 6; SOR/2011-264, s. 4].
 
 
 **PART I** 
@@ -2895,7 +2949,7 @@ Issued in Ottawa on _________________________, 20_________________________
 
 - **(4)** Where colour coding is used to identify the extreme positions of heating and air-conditioning system controls, the hot extreme shall be identified by the colour red and the cold extreme shall be identified by the colour blue.
 
-- **(5)** An identification, similar to the corresponding identification symbol in Table I to this section, that is recognizable by the driver in daylight, that is located on or adjacent to the relevant hand-operated control and that appears to be upright when the control is in the off position shall be provided for
+- **(5)** An identification, similar to the corresponding identification symbol in Table I to this section, that is recognizable by the driver in daylight, that is located on or adjacent to the relevant hand-operated control and that appears to be upright when the control is in the off position shall be provided for
 	- **(a)** the clearance lamps, identification lamps and side marker lamps switch, if separate from the master lighting switch;
 	- **(b)** the hazard warning system;
 	- **(c)** the headlamp upper and lower beams, except where operated by a control located on the left side of the steering column adjacent to the steering wheel;
@@ -2910,7 +2964,7 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(l)** the windshield wiping system; and
 	- **(m)** the electronic stability control system off control.
 
-- **(6)** Notwithstanding subsections (3) and (5), the requirement that the identification appear to be upright does not apply
+- **(6)** Notwithstanding subsections (3) and (5), the requirement that the identification appear to be upright does not apply
 	- **(a)** to a horn control that is located on a steering wheel or to a control that adjusts by means of a rotary motion and does not have an off position; or
 	- **(b)** to an automatic vehicle speed control located on the steering wheel, or on the steering wheel hub or spokes, when the vehicle, aligned to the manufacturer’s specifications, has the steering wheel positioned for the vehicle to travel in a direction other than straight forward.
 
@@ -2918,9 +2972,9 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(a)** be illuminated whenever the headlamps are activated; and
 	- **(b)** when illuminated, emit light at one of at least two levels of intensity, one of which is so low as to be barely discernible to a driver whose eyes have adapted to dark ambient road conditions.
 
-- **(8)** When the headlamps are being flashed or operated as daytime running lamps at a reduced light intensity, it is not necessary to illuminate the controls for the systems referred to in subsection (7).
+- **(8)** When the headlamps are being flashed or operated as daytime running lamps at a reduced light intensity, it is not necessary to illuminate the controls for the systems referred to in subsection (7).
 
-- **(9)** Subject to subsections (10) to (12), the following displays, where fitted on a vehicle with a GVWR of 4 536 kg (10,000 pounds) or less, shall be accompanied by an identification similar to the identification for that display shown in Table II to this section, in a position that appears to be upright, on or adjacent to the display it identifies:
+- **(9)** Subject to subsections (10) to (12), the following displays, where fitted on a vehicle with a GVWR of 4 536 kg (10,000 pounds) or less, shall be accompanied by an identification similar to the identification for that display shown in Table II to this section, in a position that appears to be upright, on or adjacent to the display it identifies:
 	- **(a)** the headlamp upper beam tell-tale;
 	- **(b)** the turn signal tell-tale;
 	- **(c)** the hazard warning tell-tale;
@@ -2939,23 +2993,23 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(p)** the electronic stability control system malfunction tell-tale; and
 	- **(q)** the electronic stability control system off tell-tale.
 
-- **(9.1)** Where fitted on a passenger car or three-wheeled vehicle, the following displays, a description of which is given in section 135 of this Schedule and in TSD 135, mentioned in that section, shall be in the colour specified in Table II to this section:
+- **(9.1)** Where fitted on a passenger car or three-wheeled vehicle, the following displays, a description of which is given in section 135 of this Schedule and in TSD 135, mentioned in that section, shall be in the colour specified in Table II to this section:
 	- **(a)** the variable brake proportioning system malfunction;
 	- **(b)** the parking brake applied;
 	- **(c)** the low brake fluid condition;
 	- **(d)** the gross loss of brake pressure condition; and
 	- **(e)** the brake lining wear-out condition.
 
-- **(10)** The indicators referred to in paragraphs (9)(e) to (h), (k) and (l) and the indicator for the automatic transmission control position shall
+- **(10)** The indicators referred to in paragraphs (9)(e) to (h), (k) and (l) and the indicator for the automatic transmission control position shall
 	- **(a)** be illuminated whenever the headlamps are activated; and
 	- **(b)** when illuminated, emit light at one of at least two levels of intensity, one of which is so low as to be barely discernible to a driver whose eyes have adapted to dark ambient road conditions.
 
-- **(11)** When the headlamps are being flashed or operated as daytime running lamps, it is not necessary for the indicators referred to in section 10 to be illuminated.
+- **(11)** When the headlamps are being flashed or operated as daytime running lamps, it is not necessary for the indicators referred to in section 10 to be illuminated.
 
-- **(12)** Where tell-tales are fitted with the corresponding indicators referred to in any of paragraphs (9)(e) to (h), the identification required by subsection (9) may be omitted from the tell-tale.
+- **(12)** Where tell-tales are fitted with the corresponding indicators referred to in any of paragraphs (9)(e) to (h), the identification required by subsection (9) may be omitted from the tell-tale.
 
 - **(13)** A tell-tale, while activated,
-	- **(a)** shall, where a colour is specified for that tell-tale in Table II to this section, be of that colour;
+	- **(a)** shall, where a colour is specified for that tell-tale in Table II to this section, be of that colour;
 	- **(b)** shall be of a colour that contrasts with its background;
 	- **(c)** in the case of a tell-tale that identifies the headlamp upper beam, the turn signal, the hazard warning signal, the seat belt or a brake system malfunction, shall not be adjustable to a level that makes it invisible under any lighting condition; and
 	- **(d)** shall be identifiable by the driver under all lighting conditions.
@@ -2964,9 +3018,9 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(a)** while identifying a malfunction or vehicle condition that it is designed to identify; or
 	- **(b)** during a bulb check conducted when the engine is turned on.
 
-- **(15)** Notwithstanding subsections (13) and (14), if the headlamp upper beam tell-tale is illuminated when the upper beam headlamps are operated as daytime running lamps at reduced voltage, the headlamp upper beam tell-tale shall emit light of an intensity that is discernibly lower than the intensity of the light emitted when the upper beam headlamps are operated at regular voltage, except that the headlamp upper beam tell-tale may flash at full intensity in the event of a malfunction of the daytime running lamps.
+- **(15)** Notwithstanding subsections (13) and (14), if the headlamp upper beam tell-tale is illuminated when the upper beam headlamps are operated as daytime running lamps at reduced voltage, the headlamp upper beam tell-tale shall emit light of an intensity that is discernibly lower than the intensity of the light emitted when the upper beam headlamps are operated at regular voltage, except that the headlamp upper beam tell-tale may flash at full intensity in the event of a malfunction of the daytime running lamps.
 
-- **(16)** Illumination that is provided in the driver’s compartment of a vehicle and that is not subject to subsection (7), (10) or (13) shall
+- **(16)** Illumination that is provided in the driver’s compartment of a vehicle and that is not subject to subsection (7), (10) or (13) shall
 	- **(a)** have a means of being turned off;
 	- **(b)** be manually or automatically adjustable to provide at least two levels of brightness; or
 	- **(c)** be of an intensity such that it is barely discernible to a driver whose eyes have adapted to dark ambient roadway conditions.
@@ -2975,186 +3029,139 @@ Issued in Ottawa on _________________________, 20_________________________
 
 - **(18)** Odometers and trip record counters shall be calibrated in kilometres.
 
-- **(18.1)** Notwithstanding subsection (18), the odometer and trip record counter may be calibrated in miles if a label is applied in the vicinity of the odometer stating that the vehicle odometer reads in miles.
+- **(18.1)** Notwithstanding subsection (18), the odometer and trip record counter may be calibrated in miles if a label is applied in the vicinity of the odometer stating that the vehicle odometer reads in miles.
 
-- **(19)** In addition to the identification required by subsections (5) and (9), a manufacturer may use the symbols that are included in International Organization for Standardization (ISO) International Standard ISO 2575, entitled Road Vehicles - Symbols for controls, indicators and tell-tales, 4th edition, 1982.
+- **(19)** In addition to the identification required by subsections (5) and (9), a manufacturer may use the symbols that are included in International Organization for Standardization (ISO) International Standard ISO 2575, entitled Road Vehicles - Symbols for controls, indicators and tell-tales, 4th edition, 1982.
 
-- **(20)** A tell-tale or indicator listed in Table II to this section shall be activated
+- **(20)** A tell-tale or indicator listed in Table II to this section shall be activated
 	- **(a)** at the beginning of the vehicle’s operating condition to which it relates; or
-	- **(b)** in the case of a seat belt tell-tale, as required by section 208 of this schedule.
+	- **(b)** in the case of a seat belt tell-tale, as required by section 208 of this schedule.
 
 - 
-#### TABLE I / TABLEAU I 
+#### TABLE I
 <table>
-<h4>Symbols for Identifying Controls / Symboles D’Identification Des Commandes</h4>
+<h4>Symbols for Identifying Controls</h4>
 <tr>
 <th>Control</th>
 <th>Identification</th>
-<th>Commande</th>
 </tr>
 <tr>
 <td>Clearance lamps, identification lamps and side marker lamps</td>
 <td>
-> Image: Symbol showing two circles side-by-side with three lines radiating off of each of them.
+> Image: Symbol showing two circles side-by-side with three lines radiating off of each of them
+<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
+
+<sup><a href='#fn_Ind3902_hq_13485'>[3]</a></sup>
+
+
+
 </td>
-<td><sup>1</sup>
-
-<sup>3</sup>
-
-
-
-</td>
-<td>Feux de gabarit, feux d’identification et feux de position latéraux</td>
 </tr>
 <tr>
 <td>Master lighting switch</td>
 <td>
-> Image: Symbol showing a circle with a square box on top with seven lines radiating off of it.
+> Image: Symbol showing a circle with a square box on top with seven lines radiating off of it
+<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
+
 </td>
-<td><sup>1</sup></td>
-<td>Commutateur général d’éclairage</td>
 </tr>
 <tr>
 <td>Headlamp upper and lower beams</td>
 <td>
-> Image: Symbol showing a half-circle with five lines radiating off its left side.
+> Image: Symbol showing a half-circle with five lines radiating off its left side
+<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
+
+<sup><a href='#fn_Ind3902_hq_13485'>[3]</a></sup>
+
+
+
 </td>
-<td><sup>1</sup>
-
-<sup>3</sup>
-
-
-
-</td>
-<td>Faisceaux-route et faisceaux-croisement des projecteurs</td>
 </tr>
 <tr>
 <td>Turn signals</td>
 <td>
-> Image: Symbol showing two white arrows with a black outline facing away from each other.
+> Image: Symbol showing two white arrows with a black outline facing away from each other
+<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
+
+<sup><a href='#fn_Ind3902_hq_13484'>[2]</a></sup>
+
+
+
 </td>
-<td><sup>1</sup>
-
-<sup>2</sup>
-
-
-
-</td>
-<td>Clignotants</td>
 </tr>
 <tr>
 <td>Hazard warning signal</td>
 <td>
-> Image: Symbol showing a small triangle inside a big triangle.
+> Image: Symbol showing a small triangle inside a big triangle
+<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
+
 </td>
-<td><sup>1</sup></td>
-<td>Signal des feux d’avertissement</td>
 </tr>
 <tr>
 <td>Windshield wiper</td>
 <td>
-> Image: Symbol showing a windshield with a wiper blade on top.
+> Image: Symbol showing a windshield with a wiper blade on top
 </td>
-<td></td>
-<td>Essuie-glace de pare-brise</td>
 </tr>
 <tr>
 <td>Windshield washer</td>
 <td>
-> Image: Symbol showing a windshield with a dotted line running through it and over top of it on both sides.
+> Image: Symbol showing a windshield with a dotted line running through it and over top of it on both sides
 </td>
-<td></td>
-<td>Lave-glace de pare-brise</td>
 </tr>
 <tr>
 <td>Windshield wiper and washer</td>
 <td>
-> Image: Symbol showing a windshield with a wiper blade on top and a dotted line running through it and over top of it on both sides.
+> Image: Symbol showing a windshield with a wiper blade on top and a dotted line running through it and over top of it on both sides
 </td>
-<td></td>
-<td>Essuie-glace et lave-glace de pare-brise combinés</td>
 </tr>
 <tr>
 <td>Heating and air conditioning fan</td>
 <td>
-> Image: Symbol showing a black fan with four blades.
+> Image: Symbol showing a black fan with four blades
+<sup><a href='#fn_Ind3902_hq_13484'>[2]</a></sup>
+
 </td>
-<td><sup>2</sup></td>
-<td>Ventilateur du système de chauffage et de climatisation</td>
 </tr>
 <tr>
 <td>Windscreen defogging and defrosting</td>
 <td>
-> Image: Symbol showing a windshield heating vent with three squiggly lines radiating from it.
+> Image: Symbol showing a windshield heating vent with three squiggly lines radiating from it
 </td>
-<td></td>
-<td>Dégivrage et désembuage du pare-brise</td>
 </tr>
 <tr>
 <td>Rear window defogging and defrosting</td>
 <td>
-> Image: Symbol showing a rectangular heating vent with three squiggly lines radiating from it.
+> Image: Symbol showing a rectangular heating vent with three squiggly lines radiating from it
 </td>
-<td></td>
-<td>Dégivrage et désembuage de la lunette arrière</td>
 </tr>
 <tr>
 <td>Horn</td>
 <td>
-> Image: Symbol showing the black outline of a trumpet.
+> Image: Symbol showing the black outline of a trumpet
 </td>
-<td></td>
-<td>Avertisseur sonore</td>
 </tr>
 <tr>
 <td>Electronic stability control system off</td>
 <td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off.
-</td>
-<td></td>
-<td>Désactivation du système de contrôle électronique de la stabilité</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>**1** Framed areas of the symbol may be solid.
-
-</td>
-<td></td>
-<td>**1** La partie encadrée du symbole peut-être pleine.
-
-</td>
-</tr>
-<tr>
-<td>**2** Outline may be used alone.
-
-</td>
-<td></td>
-<td>**2** Il est permis d’utiliser seulement le contour.
-
-</td>
-</tr>
-<tr>
-<td>**3** Symbol not required if function is combined with master lighting switch.
-
-</td>
-<td></td>
-<td>**3** Le symbole n’est pas nécessaire si la commande est couplée au commutateur général d’éclairage.
-
+> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off
 </td>
 </tr>
 </table>
 
-#### TABLE II / TABLEAU II
+
+<a name='fn_Ind3902_hq_13483'><sup>1</sup></a>: Framed areas of the symbol may be solid.<br />
+
+<a name='fn_Ind3902_hq_13484'><sup>2</sup></a>: Outline may be used alone.<br />
+
+<a name='fn_Ind3902_hq_13485'><sup>3</sup></a>: Symbol not required if function is combined with master lighting switch.<br />
+#### TABLE II
 <table>
-<h4>Identification of Displays / Identification Des Affichages</h4>
+<h4>Identification of Displays</h4>
 <tr>
 <th>Display</th>
 <th>Tell-tale Colour</th>
 <th>Identification</th>
-<th>Couleur du témoin</th>
-<th>Affichage</th>
 </tr>
 <tr>
 <td>Headlamp upper beam</td>
@@ -3162,226 +3169,140 @@ Issued in Ottawa on _________________________, 20_________________________
 
 or
 
-
-
 GREEN
 
-
+<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td><sup>5</sup></td>
 <td>
-> Image: Symbol showing a half-circle with five lines radiating off its left side.
-</td>
-<td><sup>1</sup></td>
-<td>BLEU
-
-ou
-
-
-
-VERT
-
-
+> Image: Symbol showing a half-circle with five lines radiating off its left side
+<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
 
 </td>
-<td><sup>5</sup></td>
-<td>Faisceaux-route des projecteurs</td>
 </tr>
 <tr>
 <td>Turn signals</td>
 <td>GREEN</td>
-<td></td>
 <td>
-> Image: Symbol showing two white arrows with a black outline facing away from each other.
+> Image: Symbol showing two white arrows with a black outline facing away from each other
+<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
+
+<sup><a href='#fn_Ind3902_hq_13487'>[2]</a></sup>
+
+
+
 </td>
-<td><sup>1</sup>
-
-<sup>2</sup>
-
-
-
-</td>
-<td>VERT</td>
-<td></td>
-<td>Clignotants</td>
 </tr>
 <tr>
 <td>Hazard warning signal</td>
-<td>RED</td>
-<td><sup>5</sup></td>
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
+
+</td>
 <td>
-> Image: Symbol showing a small triangle inside a big triangle.
+> Image: Symbol showing a small triangle inside a big triangle
+<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
+
+<sup><a href='#fn_Ind3902_hq_13488'>[3]</a></sup>
+
+
+
 </td>
-<td><sup>1</sup>
-
-<sup>3</sup>
-
-
-
-</td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Feux d’avertissement</td>
 </tr>
 <tr>
 <td>Seat belt</td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>
-> Image: Symbol showing a person sitting and wearing a seatbelt.
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
+
 </td>
-<td><sup>4</sup></td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Ceinture de sécurité</td>
+<td>
+> Image: Symbol showing a person sitting and wearing a seatbelt
+<sup><a href='#fn_Ind3902_hq_13489'>[4]</a></sup>
+
+</td>
 </tr>
 <tr>
 <td>Fuel level</td>
 <td></td>
-<td></td>
 <td>
-> Image: Symbol showing a gas pump.
+> Image: Symbol showing a gas pump
+<sup><a href='#fn_Ind3902_hq_13489'>[4]</a></sup>
+
 </td>
-<td><sup>4</sup></td>
-<td></td>
-<td></td>
-<td>Niveau de carburant</td>
 </tr>
 <tr>
 <td>Engine oil pressure</td>
 <td></td>
-<td></td>
 <td>
-> Image: Symbol showing a container of oil with a black drip.
+> Image: Symbol showing a container of oil with a black drip
+<sup><a href='#fn_Ind3902_hq_13492'>[7]</a></sup>
+
 </td>
-<td><sup>7</sup></td>
-<td></td>
-<td></td>
-<td>Pression d’huile du moteur</td>
 </tr>
 <tr>
 <td>Engine coolant temperature</td>
 <td></td>
-<td></td>
 <td>
-> Image: Symbol showing a thermometer with wavy lines underneath.
+> Image: Symbol showing a thermometer with wavy lines underneath
+<sup><a href='#fn_Ind3902_hq_13492'>[7]</a></sup>
+
 </td>
-<td><sup>7</sup></td>
-<td></td>
-<td></td>
-<td>Température du liquide de refroidissement</td>
 </tr>
 <tr>
 <td>Battery charging condition</td>
 <td></td>
-<td></td>
 <td>
-> Image: Symbol showing a battery with a positive and negative terminal.
+> Image: Symbol showing a battery with a positive and negative terminal
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td>Charge de la batterie</td>
 </tr>
 <tr>
 <td>Brake system malfunction</td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>
-> Image: Symbol showing a circle with an exclamation point inside parentheses.
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
+
 </td>
-<td><sup>6</sup></td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Mauvais fonctionnement du système de freinage</td>
+<td>
+> Image: Symbol showing a circle with an exclamation point inside parentheses
+<sup><a href='#fn_Ind3902_hq_13491'>[6]</a></sup>
+
+</td>
 </tr>
 <tr>
 <td>Air brake low pressure</td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>Type optional/
-
-marque optionnelle
-
-
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Basse pression des freins à air comprimé</td>
+<td>Type optional</td>
 </tr>
 <tr>
 <td>Antilock brake system malfunction</td>
 <td>YELLOW</td>
-<td></td>
 <td>
-> Image: Symbol showing a circle with the letters “ABS” inside parentheses.
+> Image: Symbol showing a circle with the letters “ABS” inside parentheses
 </td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Mauvais fonctionnement du dispositif de frein antiblocage</td>
 </tr>
 <tr>
 <td>Variable brake proportioning system malfunction <sup>6</sup></td>
 <td>YELLOW</td>
-<td></td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
-
-</td>
-<td>JAUNE</td>
-<td></td>
-<td>Mauvais fonctionnement du compensateur de freinage <sup>6</sup></td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Parking brake applied <sup>6</sup></td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Frein de stationnement appliqué <sup>6</sup></td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Low brake fluid condition</td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Bas niveau de liquide de frein</td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Gross loss of brake pressure condition</td>
-<td>RED</td>
-<td><sup>5</sup></td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
+<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td>ROUGE</td>
-<td><sup>5</sup></td>
-<td>Perte totale de pression du système de freinage</td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Brake lining wear-out condition</td>
@@ -3389,183 +3310,76 @@ choix du fabricant
 
 or
 
-
-
 YELLOW
 
-
-
-</td>
-<td><sup>5</sup></td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
+<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
 
 </td>
-<td>ROUGE
-
-ou
-
-
-
-JAUNE
-
-
-
-</td>
-<td><sup>5</sup></td>
-<td>Usure des garnitures de frein</td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Automatic transmission control position</td>
-<td>Manufacturer’s option/
-
-choix du fabricant
-
-
-
-</td>
-<td>Position de la commande de la boîte de vitesses automatique</td>
+<td>Manufacturer’s option</td>
 </tr>
 <tr>
 <td>Speedometer</td>
 <td>km/h</td>
-<td>Indicateur de vitesse</td>
 </tr>
 <tr>
 <td>Odometer</td>
-<td><sup>8</sup></td>
-<td>Odomètre</td>
+<td><sup><a href='#fn_Ind3902_hq_13493'>[8]</a></sup></td>
 </tr>
 <tr>
 <td>Low tire pressure that does not identify which tire has low pressure (including tire pressure monitoring system malfunction)</td>
 <td>YELLOW</td>
-<td></td>
 <td>
-> Image: Symbol showing three-quarters of a circle with a flat bottom with an exclamation point inside.
+> Image: Symbol showing three-quarters of a circle with a flat bottom with an exclamation point inside
 </td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Faible pression des pneus qui n’indique pas dans quel pneu la pression est faible (y compris le mauvais fonctionnement du système de surveillance de la pression des pneus)</td>
 </tr>
 <tr>
 <td>Low tire pressure that identifies which tire has low pressure (including tire pressure monitoring system malfunction)</td>
 <td>YELLOW</td>
-<td></td>
 <td>
-> Image: Symbol showing a car from the top.
+> Image: Symbol showing a car from the top
 </td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Faible pression des pneus qui indique dans quel pneu la pression est faible (y compris le mauvais fonctionnement du système de surveillance de la pression des pneus)</td>
 </tr>
 <tr>
 <td>Tire pressure monitoring system malfunction</td>
 <td>YELLOW</td>
-<td></td>
 <td>**TPMS**</td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Mauvais fonctionnement du système de surveillance de la pression des pneus</td>
 </tr>
 <tr>
 <td>Electronic stability control system or related systems malfunction</td>
 <td>YELLOW</td>
-<td></td>
 <td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words or/ou, Esc.
+> Image: Symbol showing the back of a car with squiggly lines below and the words or/ou, Esc
 </td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité ou de systèmes connexes</td>
 </tr>
 <tr>
 <td>Electronic stability control system off</td>
 <td>YELLOW</td>
-<td></td>
 <td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off.
-</td>
-<td></td>
-<td>JAUNE</td>
-<td></td>
-<td>Désactivation du système de contrôle électronique de la stabilité</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>**1** Framed areas of the symbol may be solid.
-
-</td>
-<td>**1** Les parties encadrées du symbole peuvent être pleines.
-
-</td>
-</tr>
-<tr>
-<td>**2** The left and right arrows may be separated if arrows operate independently flashing green lights.
-
-</td>
-<td>**2** Il est permis de dissocier les flèches si leur fonctionnement est indépendant (lumière verte clignotante).
-
-</td>
-</tr>
-<tr>
-<td>**3** Hazard warning signal is not required when independently operated turn signal lights flash simultaneously as hazard warning lights.
-
-</td>
-<td>**3** Des feux d’avertissement ne sont pas nécessaires lorsque les clignotants servent également de feux d’avertissement.
-
-</td>
-</tr>
-<tr>
-<td>**4** Outline may be used alone.
-
-</td>
-<td>**4** Il est permis d’utiliser seulement le contour.
-
-</td>
-</tr>
-<tr>
-<td>**5** Red may be red-orange. Blue may be blue-green.
-
-</td>
-<td>**5** Il est permis d’utiliser le rouge-orange au lieu du rouge et le bleu-vert au lieu du bleu.
-
-</td>
-</tr>
-<tr>
-<td>**6** If a single tell-tale is used to indicate more than one brake system condition, use the brake system malfunction symbol.
-
-</td>
-<td>**6** Si un seul témoin est employé pour indiquer plus d’une condition du système de freinage, employer le symbole de mauvais fonctionnement du système de freinage.
-
-</td>
-</tr>
-<tr>
-<td>**7** Combination of the engine oil pressure symbol and the engine coolant temperature symbol in a single tell-tale is permitted.
-
-</td>
-<td>**7** Il est permis d’utiliser un même témoin pour le symbole de la pression d’huile du moteur et le symbole de la température du liquide de refroidissement.
-
-</td>
-</tr>
-<tr>
-<td>**8** The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.
-
-</td>
-<td>**8** L’unité de mesure, si elle est indiquée, est le « km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
-
+> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off
 </td>
 </tr>
 </table>
 
+
+<a name='fn_Ind3902_hq_13486'><sup>1</sup></a>: Framed areas of the symbol may be solid.<br />
+
+<a name='fn_Ind3902_hq_13487'><sup>2</sup></a>: The left and right arrows may be separated if arrows operate independently flashing green lights.<br />
+
+<a name='fn_Ind3902_hq_13488'><sup>3</sup></a>: Hazard warning signal is not required when independently operated turn signal lights flash simultaneously as hazard warning lights.<br />
+
+<a name='fn_Ind3902_hq_13489'><sup>4</sup></a>: Outline may be used alone.<br />
+
+<a name='fn_Ind3902_hq_13490'><sup>5</sup></a>: Red may be red-orange. Blue may be blue-green.<br />
+
+<a name='fn_Ind3902_hq_13491'><sup>6</sup></a>: If a single tell-tale is used to indicate more than one brake system condition, use the brake system malfunction symbol.<br />
+
+<a name='fn_Ind3902_hq_13492'><sup>7</sup></a>: Combination of the engine oil pressure symbol and the engine coolant temperature symbol in a single tell-tale is permitted.<br />
+
+<a name='fn_Ind3902_hq_13493'><sup>8</sup></a>: The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.<br />
 > SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2..
 
 
@@ -3582,23 +3396,23 @@ choix du fabricant
 		- **(i)** movement between any forward and reverse drive position may be made only through a neutral position,
 		- **(ii)** in the case of a steering-column-mounted control, movement from the neutral position to any forward drive position may be made in a clockwise direction only, and
 		- **(iii)** the park position, if included in the sequence, is located at the end of the sequence adjacent to the reverse drive position; and
-	- **(b)** one forward drive position that, in vehicles having more than one forward transmission gear ratio, provides a greater degree of engine braking than the highest speed transmission ratio at speeds below 40 km/h.
+	- **(b)** one forward drive position that, in vehicles having more than one forward transmission gear ratio, provides a greater degree of engine braking than the highest speed transmission ratio at speeds below 40 km/h.
 
 - **(2)** On any vehicle equipped with an automatic transmission, a motor used for the vehicle’s propulsion must not be started by setting the ignition switch to the position used to start the motor if the transmission control is in a forward or reverse drive position.
 
-- **(2.1)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and a transmission control sequence that includes a park position, the transmission control must not be capable of shifting from the park position to the forward or reverse drive position — while a motor used for the vehicle’s propulsion is in use — unless the service brake pedal is depressed or the service brakes are otherwise engaged.
+- **(2.1)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and a transmission control sequence that includes a park position, the transmission control must not be capable of shifting from the park position to the forward or reverse drive position — while a motor used for the vehicle’s propulsion is in use — unless the service brake pedal is depressed or the service brakes are otherwise engaged.
 
-- **(3)** Subject to subsection (5), where the transmission control sequence includes a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when
+- **(3)** Subject to subsection (5), where the transmission control sequence includes a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when
 	- **(a)** the ignition switch is set to the position where the transmission can be shifted; or
 	- **(b)** the transmission control is not in the park position.
 
-- **(4)** Subject to subsection (5), if the transmission control sequence does not include a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when the ignition switch is set to the position where the engine is capable of operation.
+- **(4)** Subject to subsection (5), if the transmission control sequence does not include a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when the ignition switch is set to the position where the engine is capable of operation.
 
 - **(5)** The identification of transmission control positions need not be displayed when the ignition switch is set to the position used to start the vehicle.
 
 - **(6)** The identification of the transmission control positions and sequence, on vehicles equipped with a manual transmission, shall be permanently displayed in view of the driver.
 
-- **(7)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and is equipped with a manual transmission, a motor used for the vehicle’s propulsion must not be started by setting the ignition switch to the position used to start the motor unless the clutch pedal is depressed or the drive train is otherwise disengaged.
+- **(7)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and is equipped with a manual transmission, a motor used for the vehicle’s propulsion must not be started by setting the ignition switch to the position used to start the motor unless the clutch pedal is depressed or the drive train is otherwise disengaged.
 
 - **(8)** In this section, ***drive train*** means the components that transfer motive power from the motor to the drive wheels.
 > SOR/95-164, s. 4; SOR/97-421, ss. 4, 22(F); SOR/2003-189, s. 1; SOR/2003-272, s. 34; SOR/2006-94, s. 4(E); SOR/2007-246, s. 2..
@@ -3612,35 +3426,35 @@ choix du fabricant
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
 
-- **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
+- **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
 - **(2.1)** A three-wheeled vehicle that is equipped with a windshield shall be equipped with a windshield defrosting and defogging system.
 
 - **(3)** In the case of a passenger car or a three-wheeled vehicle, the windshield defrosting and defogging system shall
-	- **(a)** meet the requirements of section 3 of SAE Recommended Practice J902 Passenger Car Windshield Defrosting Systems, (August 1964), when tested in accordance with paragraph (b) except that the areas referred to in that section as “critical area” and “entire windshield” shall be as referred to in subsection (1) of this section; and
-	- **(b)** be tested in accordance with such of the portions of paragraphs 4.1 to 4.4.7 of SAE Recommended Practice J902, (August 1964), or SAE Recommended Practice J902a, (March 1967), as are applicable to that system.
+	- **(a)** meet the requirements of section 3 of SAE Recommended Practice J902 Passenger Car Windshield Defrosting Systems, (August 1964), when tested in accordance with paragraph (b) except that the areas referred to in that section as “critical area” and “entire windshield” shall be as referred to in subsection (1) of this section; and
+	- **(b)** be tested in accordance with such of the portions of paragraphs 4.1 to 4.4.7 of SAE Recommended Practice J902, (August 1964), or SAE Recommended Practice J902a, (March 1967), as are applicable to that system.
 
-- **(4)** Despite the testing requirements set out in subsection (3) for the windshield defrosting and defogging system of a passenger car or three-wheeled vehicle,
+- **(4)** Despite the testing requirements set out in subsection (3) for the windshield defrosting and defogging system of a passenger car or three-wheeled vehicle,
 	- **(a)** in the case of a passenger car or three-wheeled vehicle equipped with a heating system other than a heat exchanger type that uses the engine’s coolant as a means to supply the heat to the heat exchanger, the procedure specified by the vehicle’s manufacturer for cold weather starting shall be followed during the entire test period, except that the use of a power or heat source external to the vehicle is not permitted;
 	- **(b)** in the case of all other passenger cars and three-wheeled vehicles,
-		- **(i)** during the entire test period, the engine speed shall not exceed 1,500 revolutions per minute in neutral gear or the engine speed and load shall not exceed the speed and load at 40 km/h (25 miles per hour) in the manufacturer’s recommended gear with road load, or
-		- **(ii)** during the first 5 minutes of the test period, the warm-up procedure recommended by the vehicle’s manufacturer for cold weather starting shall be followed and during the last 35 minutes of the test period, the procedure referred to in subparagraph (i) shall be followed;
-	- **(c)** a room air change of 90 times per hour is not required;
+		- **(i)** during the entire test period, the engine speed shall not exceed 1,500 revolutions per minute in neutral gear or the engine speed and load shall not exceed the speed and load at 40 km/h (25 miles per hour) in the manufacturer’s recommended gear with road load, or
+		- **(ii)** during the first 5 minutes of the test period, the warm-up procedure recommended by the vehicle’s manufacturer for cold weather starting shall be followed and during the last 35 minutes of the test period, the procedure referred to in subparagraph (i) shall be followed;
+	- **(c)** a room air change of 90 times per hour is not required;
 	- **(d)** the windshield wipers may be used during the test if they are operated without manual assistance;
-	- **(e)** one or two windows may be open a total of 25 mm;
+	- **(e)** one or two windows may be open a total of 25 mm;
 	- **(f)** the defroster blower may be turned on at any time;
-	- **(g)** the wind velocity is at any level from 0 to 3 km/h; and
-	- **(h)** the test chamber temperature and the wind velocity shall be measured after the engine has been started, at the forwardmost point of the vehicle or a point 91.4 cm (36 inches) from the base of the windshield, whichever is farther forward, at a level halfway between the top and the bottom of the windshield on the vehicle centreline.
+	- **(g)** the wind velocity is at any level from 0 to 3 km/h; and
+	- **(h)** the test chamber temperature and the wind velocity shall be measured after the engine has been started, at the forwardmost point of the vehicle or a point 91.4 cm (36 inches) from the base of the windshield, whichever is farther forward, at a level halfway between the top and the bottom of the windshield on the vehicle centreline.
 > SOR/97-264, s. 1; SOR/2003-272, s. 8; SOR/2008-104, s. 9..
 
 
@@ -3652,49 +3466,49 @@ choix du fabricant
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
 
-***plan view reference line*** means, 
-- **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
+***plan view reference line*** means,
+- **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
-- **(3)** Subject to subsection (3.1), every vehicle shall have a power-driven windshield wiping system that has at least two frequencies or speeds and that has, irrespective of engine speed and engine load,
-	- **(a)** one frequency or speed of at least 45 cycles per minute;
-	- **(b)** a difference of at least 15 cycles per minute between the highest frequency or speed and one of the lower frequencies or speeds; and
-	- **(c)** the lower frequency or speed referred to in paragraph (b) equal to at least 20 cycles per minute.
+- **(3)** Subject to subsection (3.1), every vehicle shall have a power-driven windshield wiping system that has at least two frequencies or speeds and that has, irrespective of engine speed and engine load,
+	- **(a)** one frequency or speed of at least 45 cycles per minute;
+	- **(b)** a difference of at least 15 cycles per minute between the highest frequency or speed and one of the lower frequencies or speeds; and
+	- **(c)** the lower frequency or speed referred to in paragraph (b) equal to at least 20 cycles per minute.
 
-- **(3.1)** A three-wheeled vehicle that is equipped with a windshield shall have a windshield wiping system that conforms to the requirements of subsection (3).
+- **(3.1)** A three-wheeled vehicle that is equipped with a windshield shall have a windshield wiping system that conforms to the requirements of subsection (3).
 
-- **(4)** Compliance with subsection (3) shall be demonstrated by testing under the conditions specified in sections 4.1.1 and 4.1.2 of SAE Recommended Practice J903a, (May 1966).
+- **(4)** Compliance with subsection (3) shall be demonstrated by testing under the conditions specified in sections 4.1.1 and 4.1.2 of SAE Recommended Practice J903a, (May 1966).
 
-- **(5)** In the case of a passenger car or a three-wheeled vehicle, the windshield wiping system, when tested wet in accordance with SAE Recommended Practice J903a (May 1966), shall wipe the percentage of areas A, B and C of the windshield that
-	- **(a)** is specified in Column II of whichever of Tables I, II, III or IV to this section is applicable; and
-	- **(b)** is within the area bounded by a perimeter line on the glazing surface 25 mm from the edge of the daylight opening.
+- **(5)** In the case of a passenger car or a three-wheeled vehicle, the windshield wiping system, when tested wet in accordance with SAE Recommended Practice J903a (May 1966), shall wipe the percentage of areas A, B and C of the windshield that
+	- **(a)** is specified in Column II of whichever of Tables I, II, III or IV to this section is applicable; and
+	- **(b)** is within the area bounded by a perimeter line on the glazing surface 25 mm from the edge of the daylight opening.
 
-- **(6)** Subject to subsection (7), every vehicle shall have a windshield washing system that meets the requirements of SAE Recommended Practice J942, Passenger Car Windshield Washer Systems (November 1965), except that the words “the effective wipe pattern defined in SAE J903, paragraph 3.1.2” in paragraph 3.1 of SAE Recommended Practice J942 shall be replaced
-	- **(a)** in the case of a passenger car or a three-wheeled vehicle, by the words “the areas established in accordance with the definition of areas A, B and C in subsection (1) of Canada Motor Vehicle Safety Standard No. 104”; and
+- **(6)** Subject to subsection (7), every vehicle shall have a windshield washing system that meets the requirements of SAE Recommended Practice J942, Passenger Car Windshield Washer Systems (November 1965), except that the words “the effective wipe pattern defined in SAE J903, paragraph 3.1.2” in paragraph 3.1 of SAE Recommended Practice J942 shall be replaced
+	- **(a)** in the case of a passenger car or a three-wheeled vehicle, by the words “the areas established in accordance with the definition of areas A, B and C in subsection (1) of Canada Motor Vehicle Safety Standard No. 104”; and
 	- **(b)** in the case of a multi-purpose passenger vehicle, truck or bus, by the words “the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing”.
 
-- **(7)** A three-wheeled vehicle that is equipped with a windshield shall have a windshield washing system that meets the requirements of subsection (6).
+- **(7)** A three-wheeled vehicle that is equipped with a windshield shall have a windshield washing system that meets the requirements of subsection (6).
 
 - 
 #### TABLE I
 <table>
-<h4>Passenger Cars and Three-Wheeled Vehicles of Less Than 1 520 mm Overall Width</h4>
+<h4>Passenger Cars and Three-Wheeled Vehicles of Less Than 1 520 mm Overall Width</h4>
 <tr>
 <th>Column I</th>
 <th>Column II</th>
@@ -3704,29 +3518,11 @@ choix du fabricant
 <th>Column VI</th>
 </tr>
 <tr>
-<th></th>
-<th>Minimum</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Percentage</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>to be</th>
+<th>Area</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
-<th>Area</th>
-<th>wiped</th>
 <th>Left</th>
 <th>Right</th>
 <th>Up</th>
@@ -3760,7 +3556,7 @@ choix du fabricant
 
 #### TABLE II
 <table>
-<h4>Passenger Cars and Three-Wheeled Vehicles of 1 520 mm or More But Less Than 1 630 mm Overall Width</h4>
+<h4>Passenger Cars and Three-Wheeled Vehicles of 1 520 mm or More But Less Than 1 630 mm Overall Width</h4>
 <tr>
 <th>Column I</th>
 <th>Column II</th>
@@ -3770,29 +3566,11 @@ choix du fabricant
 <th>Column VI</th>
 </tr>
 <tr>
-<th></th>
-<th>Minimum</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Percentage</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>to be</th>
+<th>Area</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
-<th>Area</th>
-<th>wiped</th>
 <th>Left</th>
 <th>Right</th>
 <th>Up</th>
@@ -3826,7 +3604,7 @@ choix du fabricant
 
 #### TABLE III
 <table>
-<h4>Passenger Cars and Three-Wheeled Vehicles of 1 630 mm or More But Less Than 1 730 mm Overall Width</h4>
+<h4>Passenger Cars and Three-Wheeled Vehicles of 1 630 mm or More But Less Than 1 730 mm Overall Width</h4>
 <tr>
 <th>Column I</th>
 <th>Column II</th>
@@ -3836,29 +3614,11 @@ choix du fabricant
 <th>Column VI</th>
 </tr>
 <tr>
-<th></th>
-<th>Minimum</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Percentage</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>to be</th>
+<th>Area</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
-<th>Area</th>
-<th>wiped</th>
 <th>Left</th>
 <th>Right</th>
 <th>Up</th>
@@ -3892,7 +3652,7 @@ choix du fabricant
 
 #### TABLE IV
 <table>
-<h4>Passenger Cars and Three-Wheeled Vehicles of 1 730 mm or More Overall Width</h4>
+<h4>Passenger Cars and Three-Wheeled Vehicles of 1 730 mm or More Overall Width</h4>
 <tr>
 <th>Column I</th>
 <th>Column II</th>
@@ -3902,29 +3662,11 @@ choix du fabricant
 <th>Column VI</th>
 </tr>
 <tr>
-<th></th>
-<th>Minimum</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Percentage</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>to be</th>
+<th>Area</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
-<th>Area</th>
-<th>wiped</th>
 <th>Left</th>
 <th>Right</th>
 <th>Up</th>
@@ -4048,13 +3790,13 @@ choix du fabricant
 
 **108** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, motorcycle and trailer shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment (TSD 108), as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, motorcycle and trailer shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment (TSD 108), as amended from time to time.
 
 - **(1.1)** Every three-wheeled vehicle shall be equipped with the lamps, retroreflective devices and associated equipment required by TSD 108 for passenger cars.
 
 - **(2)** Every restricted-use motorcycle shall be equipped with the reflex reflectors required for motorcycles by S5.1.1 of TSD 108.
 
-- **(3)** Lamps, retroreflective devices and associated equipment required by this section shall be designed, installed and visible in accordance with the requirements of TSD 108, except Figures 11 to 14, 16, 18, 21 and 22.
+- **(3)** Lamps, retroreflective devices and associated equipment required by this section shall be designed, installed and visible in accordance with the requirements of TSD 108, except Figures 11 to 14, 16, 18, 21 and 22.
 
 - **(4)** Lamps, retroreflective devices and associated equipment on a vehicle may conform to the applicable SAE standards and recommended practices contained in the 1994 SAE Handbook instead of the applicable SAE standards and recommended practices referred to in this section or TSD 108.
 
@@ -4069,17 +3811,17 @@ choix du fabricant
 
 - **(7)** For the purposes of this section, the expression ***motor driven cycle*** used in TSD 108 means ***limited-speed motorcycle***.
 
-### Technical Standards Document No. 108
+### Technical Standards Document No. 108
 
 
 #### Required Motor Vehicle Lighting Equipment — S5.1 of TSD 108
 
 
-- **(8)** Despite S5.1.1 of TSD 108, lamps and retroreflective devices that are contained within the same physical assembly as a headlamp and conform to the requirements of S7.4(h) of TSD 108 in respect of resistance to corrosion, dust and humidity are not required to be subjected to the corrosion, dust and moisture tests required by any of the SAE standards or recommended practices listed in Tables I and III of TSD 108.
+- **(8)** Despite S5.1.1 of TSD 108, lamps and retroreflective devices that are contained within the same physical assembly as a headlamp and conform to the requirements of S7.4(h) of TSD 108 in respect of resistance to corrosion, dust and humidity are not required to be subjected to the corrosion, dust and moisture tests required by any of the SAE standards or recommended practices listed in Tables I and III of TSD 108.
 
 - **(9)** [Reserved]
 
-- **(10)** If reflective material referred to in S5.1.1.4 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the material conforms to the performance standards prescribed by that section shall be the sum of the entrance angle specified in Table 1 or Table 1A of SAE Standard J594f, Reflex Reflectors (January 1977), and the angle, measured on the horizontal centreline of the material, by which the material deviates from the vertical.
+- **(10)** If reflective material referred to in S5.1.1.4 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the material conforms to the performance standards prescribed by that section shall be the sum of the entrance angle specified in Table 1 or Table 1A of SAE Standard J594f, Reflex Reflectors (January 1977), and the angle, measured on the horizontal centreline of the material, by which the material deviates from the vertical.
 
 - **(11)** S5.1.1.12 and S5.1.1.21 of TSD 108 do not apply.
 
@@ -4090,11 +3832,11 @@ choix du fabricant
 #### Location of Required Equipment — S5.3 of TSD 108
 
 
-- **(14)** For the purposes of S5.3 and Table II of TSD 108, the location of rear identification lamps on a van trailer with side-opening rear doors conforms to that section if the lamps are located as close as practicable to the top of the vehicle
-	- **(a)** above or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends at least 25 mm above the rear doors; or
-	- **(b)** above or below or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends less than 25 mm above the rear doors.
+- **(14)** For the purposes of S5.3 and Table II of TSD 108, the location of rear identification lamps on a van trailer with side-opening rear doors conforms to that section if the lamps are located as close as practicable to the top of the vehicle
+	- **(a)** above or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends at least 25 mm above the rear doors; or
+	- **(b)** above or below or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends less than 25 mm above the rear doors.
 
-- **(14.1)** Despite S5.3 and Table IV of TSD 108, the tail lamps, stop lamps and parking lamps on a motor tricycle shall be installed in accordance with the requirements of S5.3 and Table IV of TSD 108 for tail lamps, stop lamps and parking lamps installed on a passenger car.
+- **(14.1)** Despite S5.3 and Table IV of TSD 108, the tail lamps, stop lamps and parking lamps on a motor tricycle shall be installed in accordance with the requirements of S5.3 and Table IV of TSD 108 for tail lamps, stop lamps and parking lamps installed on a passenger car.
 
 - **(15)** [Reserved]
 
@@ -4103,7 +3845,7 @@ choix du fabricant
 
 - **(16)** S5.5.1 and S5.5.2 of TSD 108 do not apply to a motorcycle that is fitted with a single beam headlamp.
 
-- **(17)** Subject to subsection (18), the headlamp, tail lamp and licence plate lamp of a motorcycle shall be continuously activated when the engine is operating.
+- **(17)** Subject to subsection (18), the headlamp, tail lamp and licence plate lamp of a motorcycle shall be continuously activated when the engine is operating.
 
 - **(18)** The headlamp, tail lamp and licence plate lamp of a motorcycle may remain off after the engine is started until the motorcycle is set in motion by its own power for the first time.
 
@@ -4111,36 +3853,32 @@ choix du fabricant
 	- **(a)** the front fog lamps on the vehicle are activated in a steady-burning state other than as daytime running lamps; or
 	- **(b)** the rear fog lamps on the vehicle are activated in a steady-burning state.
 
-- **(20)** The requirements of S5.5.11 of TSD 108 are replaced by the daytime running lamp requirements of subsections (44) to (65).
+- **(20)** The requirements of S5.5.11 of TSD 108 are replaced by the daytime running lamp requirements of subsections (44) to (65).
 
 #### Conspicuity Systems — S5.7 of TSD 108
 
 
-- **(21)** Despite S5.7 of TSD 108, the colour of retroreflective sheeting applied in accordance with S5.7.1.4.1(a) and S5.7.1.4.2 of TSD 108 may be white, yellow, white and yellow or white and red, in accordance with S5.7.1.2 of TSD 108 or section 3.1.3, 3.1.2 or 3.1.1, respectively, of SAE Standard J578, Color Specification (May 1988).
+- **(21)** Despite S5.7 of TSD 108, the colour of retroreflective sheeting applied in accordance with S5.7.1.4.1(a) and S5.7.1.4.2 of TSD 108 may be white, yellow, white and yellow or white and red, in accordance with S5.7.1.2 of TSD 108 or section 3.1.3, 3.1.2 or 3.1.1, respectively, of SAE Standard J578, Color Specification (May 1988).
 
-- **(22)** If the retroreflective sheeting referred to in S5.7.1.2 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the sheeting conforms to the photometric requirements prescribed by that section shall be the sum of the entrance angle specified in column 1 of Figure 29 of TSD 108 and the angle, measured at the horizontal centreline of the sheeting, by which the sheeting deviates from the vertical.
+- **(22)** If the retroreflective sheeting referred to in S5.7.1.2 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the sheeting conforms to the photometric requirements prescribed by that section shall be the sum of the entrance angle specified in column 1 of Figure 29 of TSD 108 and the angle, measured at the horizontal centreline of the sheeting, by which the sheeting deviates from the vertical.
 
-- **(23)** The retroreflective sheeting applied to the rear of a trailer in accordance with S5.7.1.4.1(c) of TSD 108 shall be located not more than 760 mm above the road surface and extend to within 450 mm of the extreme outer edges of the trailer.
+- **(23)** The retroreflective sheeting applied to the rear of a trailer in accordance with S5.7.1.4.1(c) of TSD 108 shall be located not more than 760 mm above the road surface and extend to within 450 mm of the extreme outer edges of the trailer.
 
 - **(24)** If a vehicle is equipped with yellow retroreflective sheeting, the sheeting shall conform to the photometric requirements set out in the table to this subsection:
 #### TABLE
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
+<th>Grade</th>
+<th>Entrance Angle (in degrees)</th>
 <th>Minimum Coefficient of Retroreflection (cd/lx/m<sup>2</sup>)</th>
 </tr>
 <tr>
-<th>Item</th>
-<th>Grade</th>
-<th>Entrance Angle (in degrees)</th>
 <th>Observation Angle of 0.2°</th>
 <th>Observation Angle of 0.5°</th>
 </tr>
@@ -4217,13 +3955,13 @@ choix du fabricant
 
 - **(26)** Despite S5.1.1 of TSD 108, S7.3.7(a) and S7.3.8(a) of TSD 108 do not apply to the headlamps on a passenger car, multi-purpose passenger vehicle, truck, bus or three-wheeled vehicle.
 
-- **(27)** Despite S7.3.7(e)(8) of TSD 108, the figures to which a deflectometer referred to in section 4.5 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986), shall be designed to conform are those specified in a standard or recommended practice issued by the SAE or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
+- **(27)** Despite S7.3.7(e)(8) of TSD 108, the figures to which a deflectometer referred to in section 4.5 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986), shall be designed to conform are those specified in a standard or recommended practice issued by the SAE or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
 - **(28)** Despite S7.3.8(c)(2) of TSD 108, the figures to which the special adapter and the deflectometer shall be designed to conform are those specified in a standard or recommended practice issued by the SAE or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
-- **(29)** The aiming mechanism of every headlamp assembly and front fog lamp assembly shall conform to section 5.13.5 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
+- **(29)** The aiming mechanism of every headlamp assembly and front fog lamp assembly shall conform to section 5.13.5 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
 
-- **(30)** Headlamp assemblies and front fog lamp assemblies incorporating retaining rings shall conform to section 5.23.2 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
+- **(30)** Headlamp assemblies and front fog lamp assemblies incorporating retaining rings shall conform to section 5.23.2 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
 
 - **(31)** In addition to conforming to the requirements of S7.3 of TSD 108, sealed beam headlamps with plastic lenses or reflectors shall conform to S7.4(g) and (h) of TSD 108.
 
@@ -4239,7 +3977,7 @@ choix du fabricant
 		- **(i)** S7.8.2 of TSD 108, except that no horizontal aim mechanism need be provided, and
 		- **(ii)** S7.8.2.2, S7.8.3 and S7.8.5.1(c) of TSD 108.
 
-- **(41)** For the purpose of demonstrating the compliance of a headlamp assembly with the torque deflection test described in S7.8.5.1(a) of TSD 108, the downward torque of 2.25 N•m (20 lb.-in.) shall be measured at the aiming reference plane, as defined in S4 of TSD 108.
+- **(41)** For the purpose of demonstrating the compliance of a headlamp assembly with the torque deflection test described in S7.8.5.1(a) of TSD 108, the downward torque of 2.25 N•m (20 lb.-in.) shall be measured at the aiming reference plane, as defined in S4 of TSD 108.
 
 - **(42)** The information contained in a label referred to in S7.8.5.2(b) of TSD 108 shall be in both official languages.
 
@@ -4255,51 +3993,51 @@ choix du fabricant
 
 - **(44)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall be equipped with two daytime running lamps or, if the daytime running lamps are optically combined with the upper beams of the headlamps, with two or four daytime running lamps.
 
-- **(45)** A daytime running lamp shall be white, yellow or white to yellow, in accordance with sections 3.1.3, 3.1.2 or 3.1.3.1, respectively, of SAE Standard J578, Color Specification (May 1988).
+- **(45)** A daytime running lamp shall be white, yellow or white to yellow, in accordance with sections 3.1.3, 3.1.2 or 3.1.3.1, respectively, of SAE Standard J578, Color Specification (May 1988).
 
 - **(46)** A daytime running lamp that is not optically combined with a headlamp shall conform to SAE Recommended Practice J575, Tests for Motor Vehicle Lighting Devices and Components (December 1988).
 
-- **(47)** Subject to subsection (47.1), a daytime running lamp that is not optically combined with another lamp or is optically combined with a lamp, other than a front fog lamp, that is not required by this section shall be designed to conform to SAE Recommended Practice J2087, Daytime Running Lamps for Use on Motor Vehicles (August 1991), including the photometric values set out in Table 2 of that Recommended Practice, except that
+- **(47)** Subject to subsection (47.1), a daytime running lamp that is not optically combined with another lamp or is optically combined with a lamp, other than a front fog lamp, that is not required by this section shall be designed to conform to SAE Recommended Practice J2087, Daytime Running Lamps for Use on Motor Vehicles (August 1991), including the photometric values set out in Table 2 of that Recommended Practice, except that
 	- **(a)** the maximum luminous intensity at any test point shall be 3 000 cd;
-	- **(b)** the lamp is not required to conform to section 6.2 of that Recommended Practice; and
-	- **(c)** the effective projected luminous lens area of the lamp may be less than 40 cm<sup>2</sup>.
+	- **(b)** the lamp is not required to conform to section 6.2 of that Recommended Practice; and
+	- **(c)** the effective projected luminous lens area of the lamp may be less than 40 cm<sup>2</sup>.
 
-- **(47.1)** A daytime running lamp that is not optically combined with another lamp may conform to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
+- **(47.1)** A daytime running lamp that is not optically combined with another lamp may conform to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
 
-- **(47.2)** A daytime running lamp that is optically combined with a front turn signal lamp or a parking lamp shall conform to subsection (47).
+- **(47.2)** A daytime running lamp that is optically combined with a front turn signal lamp or a parking lamp shall conform to subsection (47).
 
 - **(48)** A daytime running lamp that is optically combined with a headlamp shall
 	- **(a)** if combined with the lower beam of a headlamp that is designed to conform to the photometric requirements of this section, operate at
 		- **(i)** normal operating voltage,
 		- **(ii)** in the case of a DC (direct current) system, not less than 75% and not more than 92% of the normal operating voltage, or
 		- **(iii)** in the case of an AC (alternating current) system or a modulated voltage system, the equivalent root mean square of not less than 75% and not more than 92% of the normal operating voltage;
-	- **(b)** if combined with the lower beam of a headlamp that is designed to conform to the photometric requirements of section 108.1, operate at
+	- **(b)** if combined with the lower beam of a headlamp that is designed to conform to the photometric requirements of section 108.1, operate at
 		- **(i)** normal operating voltage,
 		- **(ii)** in the case of a DC (direct current) system, not less than 86% and not more than 92% of the normal operating voltage, or
 		- **(iii)** in the case of an AC (alternating current) system or a modulated voltage system, the equivalent root mean square of not less than 86% and not more than 92% of the normal operating voltage; and
-	- **(c)** if combined with the upper beam of a headlamp, be designed to provide a luminous intensity of not less than 2 000 cd and not more than 7 000 cd at test point H-V.
+	- **(c)** if combined with the upper beam of a headlamp, be designed to provide a luminous intensity of not less than 2 000 cd and not more than 7 000 cd at test point H-V.
 
-- **(49)** For the purpose of determining if a daytime running lamp conforms to subsection (48), the daytime running lamp shall be tested in accordance with S11 of TSD 108.
+- **(49)** For the purpose of determining if a daytime running lamp conforms to subsection (48), the daytime running lamp shall be tested in accordance with S11 of TSD 108.
 
-- **(50)** A daytime running lamp that is optically combined with a headlamp or headlamps in which two filaments operate together to provide the daytime running lamp function shall conform to the photometric requirements of paragraph (48)(c) when
+- **(50)** A daytime running lamp that is optically combined with a headlamp or headlamps in which two filaments operate together to provide the daytime running lamp function shall conform to the photometric requirements of paragraph (48)(c) when
 	- **(a)** the daytime running lamp is provided by
 		- **(i)** an upper beam that is provided by two filaments in the headlamp,
 		- **(ii)** an upper beam and a lower beam of the headlamp, or
 		- **(iii)** an upper beam of the headlamp, and a lower beam or upper beam of another headlamp; and
 	- **(b)** the luminous intensities at the test point H-V of each headlamp, tested in accordance with S10 of TSD 108, are added together.
 
-- **(51)** If a daytime running lamp is optically combined with a headlamp that is activated in its concealed position, the daytime running lamp shall conform to subsection (47), (48) or (50).
+- **(51)** If a daytime running lamp is optically combined with a headlamp that is activated in its concealed position, the daytime running lamp shall conform to subsection (47), (48) or (50).
 
-- **(52)** A daytime running lamp may be optically combined with a front fog lamp that conforms to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
+- **(52)** A daytime running lamp may be optically combined with a front fog lamp that conforms to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
 
-- **(53)** Despite subsections (45) to (52), a vehicle may be equipped with a daytime running light system that conforms to Canadian Standards Association Standard CAN/CSA-D603-88, Daytime Running Light Systems (April 1988), other than a Type 4 and Type 5 system (reduced voltage upper beam headlamps), as indicated in Table 1 of the Standard, if
-	- **(a)** the daytime running light system is installed in accordance with the instructions referred to in section 8.2 of the Standard; and
-	- **(b)** if the vehicle is equipped with gaseous-discharge lower beam headlamps, only a Type 1 system (normal voltage lower beam headlamp) or a Type 6 or Type 7 system (separate lamps other than headlamps), as indicated in Table 1 of the Standard, is used.
+- **(53)** Despite subsections (45) to (52), a vehicle may be equipped with a daytime running light system that conforms to Canadian Standards Association Standard CAN/CSA-D603-88, Daytime Running Light Systems (April 1988), other than a Type 4 and Type 5 system (reduced voltage upper beam headlamps), as indicated in Table 1 of the Standard, if
+	- **(a)** the daytime running light system is installed in accordance with the instructions referred to in section 8.2 of the Standard; and
+	- **(b)** if the vehicle is equipped with gaseous-discharge lower beam headlamps, only a Type 1 system (normal voltage lower beam headlamp) or a Type 6 or Type 7 system (separate lamps other than headlamps), as indicated in Table 1 of the Standard, is used.
 
 #### Switching
 
 
-- **(54)** Subject to subsections (55) and (56), daytime running lamps shall be on continuously when the engine is operating and the master lighting switch is not in the headlamps on position.
+- **(54)** Subject to subsections (55) and (56), daytime running lamps shall be on continuously when the engine is operating and the master lighting switch is not in the headlamps on position.
 
 - **(55)** Daytime running lamps may switch off
 	- **(a)** while the automatic transmission control is in the park or neutral position;
@@ -4315,7 +4053,7 @@ choix du fabricant
 - **(58)** If the lower beams of the headlamps operating at normal operating voltage are used as daytime running lamps,
 	- **(a)** it shall not be possible to activate the upper beams of the headlamps except for signalling purposes;
 	- **(b)** if there is a tell-tale that is automatically activated, and visible to the driver, in dark ambient light conditions to indicate that the tail lamps, licence plate lamps, side marker lamps and parking lamps are switched off, those lamps shall not come on automatically; and
-	- **(c)** if there is no tell-tale that is automatically activated, and visible to the driver,the lamps referred to in paragraph (b)
+	- **(c)** if there is no tell-tale that is automatically activated, and visible to the driver,the lamps referred to in paragraph (b)
 		- **(i)** shall come on automatically and remain on in all ambient light conditions, or
 		- **(ii)** shall come on automatically in dark ambient light conditions.
 
@@ -4326,23 +4064,23 @@ choix du fabricant
 #### Visibility
 
 
-- **(61)** Daytime running lamps that are not optically combined with another lamp required by this section shall be located at the same height, as far apart as practicable and not less than 380 mm and not more than 2 110 mm above the road surface, measured from the H-V axis of the lamp with the vehicle at curb mass.
+- **(61)** Daytime running lamps that are not optically combined with another lamp required by this section shall be located at the same height, as far apart as practicable and not less than 380 mm and not more than 2 110 mm above the road surface, measured from the H-V axis of the lamp with the vehicle at curb mass.
 
 - **(62)** A daytime running lamp shall be visible from any point contained within the solid angle bounded by vertical planes 20° to the left and right of, and horizontal planes 10° above and below, the H-V axis of the lamp.
 
-- **(63)** If the distance, measured on a vertical transverse plane, from the H-V axis of a front turn signal lamp to the exposed edge of the lens of a daytime running lamp that is not optically combined with the turn signal lamp is less than 100 mm,
-	- **(a)** the turn signal lamp shall conform to the photometric requirements of Table 3 of SAE Standard J588, Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width (November 1984), using a luminous intensity multiplier of 2.5;
-	- **(b)** the luminous intensity of the daytime running lamp shall be not more than 2 600 cd at any point in the beam; or
+- **(63)** If the distance, measured on a vertical transverse plane, from the H-V axis of a front turn signal lamp to the exposed edge of the lens of a daytime running lamp that is not optically combined with the turn signal lamp is less than 100 mm,
+	- **(a)** the turn signal lamp shall conform to the photometric requirements of Table 3 of SAE Standard J588, Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width (November 1984), using a luminous intensity multiplier of 2.5;
+	- **(b)** the luminous intensity of the daytime running lamp shall be not more than 2 600 cd at any point in the beam; or
 	- **(c)** the daytime running lamp shall switch off while the turn signal lamp is flashing.
 
-- **(64)** The inner surface of a transparent component, through which light emitted by a daytime running lamp that conforms to subsection (51) passes, shall be accessible for cleaning without the use of any tool designed specifically for vehicles.
+- **(64)** The inner surface of a transparent component, through which light emitted by a daytime running lamp that conforms to subsection (51) passes, shall be accessible for cleaning without the use of any tool designed specifically for vehicles.
 
 - **(65)** A daytime running lamp shall conform to the requirements of S5.1.3 and S5.3 of TSD 108.
 
 ### Expiry Date
 
 
-- **(66)** This section expires on January 1, 2015.
+- **(66)** This section expires on January 1, 2015.
 > SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2..
 
 
@@ -4354,36 +4092,36 @@ choix du fabricant
 
 **108.1** 
 
-- **(1)** As an alternative to the headlamps required by section 108 of this Schedule, passenger cars, multi-purpose passenger vehicles, buses and trucks may be equipped with headlamps that emit white light and that
+- **(1)** As an alternative to the headlamps required by section 108 of this Schedule, passenger cars, multi-purpose passenger vehicles, buses and trucks may be equipped with headlamps that emit white light and that
 	- **(a)** comply with
-		- **(i)** ECE Regulation No. 8, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11), as amended from time to time,
-		- **(ii)** ECE Regulation No. 20, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H4 Lamps), as amended from time to time,
-		- **(iii)** ECE Regulation No. 31, Uniform Provisions Concerning the Approval of Halogen Sealed-beam Unit (HSB Unit) Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both, as amended from time to time,
-		- **(iv)** ECE Regulation No. 98, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Equipped with Gas-discharge Light Sources, as amended from time to time, or
-		- **(v)** ECE Regulation No. 112, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time;
+		- **(i)** ECE Regulation No. 8, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11), as amended from time to time,
+		- **(ii)** ECE Regulation No. 20, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H4 Lamps), as amended from time to time,
+		- **(iii)** ECE Regulation No. 31, Uniform Provisions Concerning the Approval of Halogen Sealed-beam Unit (HSB Unit) Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both, as amended from time to time,
+		- **(iv)** ECE Regulation No. 98, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Equipped with Gas-discharge Light Sources, as amended from time to time, or
+		- **(v)** ECE Regulation No. 112, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time;
 	- **(b)** despite the requirements of the ECE Regulations referred to in this section, are set to be used on vehicles designed to travel on the right-hand side of the road;
 	- **(c)** provide two upper beams and two lower beams;
 	- **(d)** conform to
 		- **(i)** paragraphs S5.1.2, S5.5.9, S7.4(g) and (h), S7.8.2, S7.8.2.1(a) and (b), S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108, and
-		- **(ii)** subsections 108(29) and, if applicable, (30);
-	- **(e)** comply with sections 5.1.2, 5.1.4 and, if applicable, 5.1.6 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986);
+		- **(ii)** subsections 108(29) and, if applicable, (30);
+	- **(e)** comply with sections 5.1.2, 5.1.4 and, if applicable, 5.1.6 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986);
 	- **(f)** are fitted with bulbs that conform to
-		- **(i)** a document referred to in paragraph 108(5)(a) or the information provided pursuant to paragraph 108(5)(b), and
+		- **(i)** a document referred to in paragraph 108(5)(a) or the information provided pursuant to paragraph 108(5)(b), and
 		- **(ii)** paragraphs S7.7 of TSD 108, except that the “DOT” symbol referred to in paragraphs S7.7(a) and (e)(7) is not required; and
 	- **(g)** when activated in a steady-burning state, do not have any styling ornament or other feature, such as a translucent cover or grill, in front of the lens.
 
-- **(2)** As an alternative to the headlamps required by section 108, motorcycles may be equipped with headlamps that emit white light and that
+- **(2)** As an alternative to the headlamps required by section 108, motorcycles may be equipped with headlamps that emit white light and that
 	- **(a)** provide one upper beam and one lower beam, or two upper beams and two lower beams;
 	- **(b)** comply with
-		- **(i)** subparagraphs (1)(a)(i) to (iii) and (v) and paragraphs (1)(b) and (d) to (f),
-		- **(ii)** ECE Regulation No. 57, Uniform Provisions Concerning the Approval of Headlamps for Motor Cycles and Vehicles Treated as Such, as amended from time to time,
-		- **(iii)** ECE Regulation No. 72, Uniform Provisions Concerning the Approval of Motor Cycle Headlamps Emitting an Asymmetrical Passing Beam and a Driving Beam and Equipped with Halogen Lamps (HS1 Lamps), as amended from time to time, or
-		- **(iv)** ECE Regulation No. 113, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting a Symmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time; and
-	- **(c)** conform to subsections 108(12), (29) and, if applicable, (30).
+		- **(i)** subparagraphs (1)(a)(i) to (iii) and (v) and paragraphs (1)(b) and (d) to (f),
+		- **(ii)** ECE Regulation No. 57, Uniform Provisions Concerning the Approval of Headlamps for Motor Cycles and Vehicles Treated as Such, as amended from time to time,
+		- **(iii)** ECE Regulation No. 72, Uniform Provisions Concerning the Approval of Motor Cycle Headlamps Emitting an Asymmetrical Passing Beam and a Driving Beam and Equipped with Halogen Lamps (HS1 Lamps), as amended from time to time, or
+		- **(iv)** ECE Regulation No. 113, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting a Symmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time; and
+	- **(c)** conform to subsections 108(12), (29) and, if applicable, (30).
 
 - **(3)** As an alternative to the requirements of the ECE Regulations referred to in this section, headlamps fitted on a vehicle may emit white light as specified in SAE Standard J578, Color Specification (May 1988).
 
-- **(4)** For the purposes of this section, the following requirements of the ECE Regulations referred to in subsections (1) and (2) do not apply:
+- **(4)** For the purposes of this section, the following requirements of the ECE Regulations referred to in subsections (1) and (2) do not apply:
 	- **(a)** any requirements respecting the approval process;
 	- **(b)** any requirements respecting the marking of approved headlamps; and
 	- **(c)** any requirements respecting
@@ -4391,7 +4129,7 @@ choix du fabricant
 		- **(ii)** the penalties for non-conformity of production, and
 		- **(iii)** the modification of a headlamp type and extension of approval.
 
-- **(5)** The total intensity of the upper beams of the headlamps of a vehicle equipped pursuant to this section shall not exceed 225,000 cd at any point in the beam pattern when measured at 12 V.
+- **(5)** The total intensity of the upper beams of the headlamps of a vehicle equipped pursuant to this section shall not exceed 225,000 cd at any point in the beam pattern when measured at 12 V.
 
 - **(6)** Except for headlamps with plastic lenses, wipers may be fitted to the headlamps of a vehicle equipped pursuant to this section, if the headlamps conform to all of the applicable photometric requirements when the wipers are stopped in any position in front of the lenses.
 
@@ -4404,31 +4142,31 @@ choix du fabricant
 
 
 
-### Tire Selection and Rims for Motor Vehicles With a GVWR of 4 536 KG or Less (Standard 110)
+### Tire Selection and Rims for Motor Vehicles With a GVWR of 4 536 KG or Less (Standard 110)
 
 
 #### General
 
 **110** 
 
-- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
+- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
 
 #### Technical Standards Document No. 110
 
 
-- **(2)** Except as provided in subsections (3) and (4), the information specified in sections S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
-	- **(a)** in both official languages on one vehicle placard, as shown in Figure 3, or, if the manufacturer chooses to use a tire inflation pressure label, on one placard and one label, as shown in Figures 3 and 6; or
-	- **(b)** in each official language on two vehicle placards, as shown in Figures 1 and 2, or, if the manufacturer chooses to use a tire inflation pressure label, on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
+- **(2)** Except as provided in subsections (3) and (4), the information specified in sections S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
+	- **(a)** in both official languages on one vehicle placard, as shown in Figure 3, or, if the manufacturer chooses to use a tire inflation pressure label, on one placard and one label, as shown in Figures 3 and 6; or
+	- **(b)** in each official language on two vehicle placards, as shown in Figures 1 and 2, or, if the manufacturer chooses to use a tire inflation pressure label, on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
 
 - **(3)** The information specified in section S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label in accordance with paragraph (2)(a) shall appear either
-	- **(a)** in the form of the symbol number N.03 for Operator’s manual, operation instructions, that is included in International Standard ISO 2575, entitled Road vehicles — Symbols for controls, indicators and tell-tales, 7th edition, May 1, 2004; or
-	- **(b)** in both official languages on one placard, as shown in Figure 3, or on one placard and one label, as shown in Figures 3 and 6.
+	- **(a)** in the form of the symbol number N.03 for Operator’s manual, operation instructions, that is included in International Standard ISO 2575, entitled Road vehicles — Symbols for controls, indicators and tell-tales, 7th edition, May 1, 2004; or
+	- **(b)** in both official languages on one placard, as shown in Figure 3, or on one placard and one label, as shown in Figures 3 and 6.
 
-- **(4)** The information specified in section S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label in accordance with paragraph 2(b) shall appear either
-	- **(a)** in the form of the symbol number N.03 specified in paragraph (3)(a); or
-	- **(b)** in each official language on two placards, as shown in Figures 1 and 2, or on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
+- **(4)** The information specified in section S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label in accordance with paragraph 2(b) shall appear either
+	- **(a)** in the form of the symbol number N.03 specified in paragraph (3)(a); or
+	- **(b)** in each official language on two placards, as shown in Figures 1 and 2, or on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
 
-- **(5)** The words “Voir le manuel de l’usager pour plus de renseignements” of the French version of the information specified in section S4.3(f) of TSD 110 may, at the option of the manufacturer, be replaced by the words “Voir le guide du propriétaire pour plus de renseignements”, “Voir le manuel du propriétaire pour plus de renseignements” or “Voir le guide de l’automobiliste pour plus de renseignements”.
+- **(5)** The words “*Voir le manuel de l’usager pour plus de renseignements*” of the French version of the information specified in section S4.3(f) of TSD 110 may, at the option of the manufacturer, be replaced by the words “*Voir le guide du propriétaire pour plus de renseignements*”, “*Voir le manuel du propriétaire pour plus de renseignements*” or “*Voir le guide de l’automobiliste pour plus de renseignements*”.
 
 - **(6)** The information specified in section S4.3.3 of TSD 110 shall be in both official languages.
 
@@ -4443,28 +4181,28 @@ choix du fabricant
 #### Load Range Identification Symbol
 
 
-- **(8)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or after the tire size designation on the vehicle placard or tire inflation pressure label.
+- **(8)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or after the tire size designation on the vehicle placard or tire inflation pressure label.
 
 #### Compliance
 
 
-- **(9)** Until August 31, 2009, the motor vehicles and tire rims referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
+- **(9)** Until August 31, 2009, the motor vehicles and tire rims referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
 
 #### Expiry Date
 
 
-- **(10)** This section expires on August 1, 2013.
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b).
+- **(10)** This section expires on August 1, 2013.
+> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b)
 
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b).
+> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b)
 
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b).
+> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b)
 
-> Image: Symbol showing Tire Inflation Pressure Label, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b).
+> Image: Symbol showing Tire Inflation Pressure Label, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b)
 
-> Image: Symbol showing Tire Inflation Pressure Label, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b).
+> Image: Symbol showing Tire Inflation Pressure Label, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b)
 
-> Image: Symbol showing Tire Inflation Pressure Label, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b).
+> Image: Symbol showing Tire Inflation Pressure Label, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b)
 
 > SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8..
 
@@ -4481,12 +4219,12 @@ choix du fabricant
 - **(1)** Any mirror referred to in this section that is installed on a vehicle shall
 	- **(a)** have a stable support;
 	- **(b)** be adjustable in the horizontal and vertical directions;
-	- **(c)** be a unit magnification mirror, except in the cases referred to in subsection (6), paragraph (13)(b) and subsection (16);
+	- **(c)** be a unit magnification mirror, except in the cases referred to in subsection (6), paragraph (13)(b) and subsection (16);
 	- **(d)** be free of sharp points or edges that could cause an injury to an occupant of the vehicle or to a pedestrian;
-	- **(e)** except in the case of a System B mirror installed on a school bus that has a forward control configuration, be installed so that the driver’s field of view through the mirror is not obscured by the portion of the windshield that is not wiped by the windshield wipers or by any opaque portion of the vehicle structure; and
+	- **(e)** except in the case of a System B mirror installed on a school bus that has a forward control configuration, be installed so that the driver’s field of view through the mirror is not obscured by the portion of the windshield that is not wiped by the windshield wipers or by any opaque portion of the vehicle structure; and
 	- **(f)** in the case of an outside rearview mirror, have no greater protrusion beyond the perimeter of the vehicle than is necessary to meet the field-of-view requirements for the mirror prescribed in this section.
 
-- **(2)** A rearview mirror referred to in subsection (7) or (11) or paragraph (26)(a) shall be capable of adjustment from within the occupant compartment of the vehicle.
+- **(2)** A rearview mirror referred to in subsection (7) or (11) or paragraph (26)(a) shall be capable of adjustment from within the occupant compartment of the vehicle.
 
 - **(3)** The average reflectance of a mirror referred to in this section shall be determined in accordance with SAE Standard J964, Test Procedure for Determining Reflectivity of Rear View Mirrors (June 1992).
 
@@ -4494,45 +4232,45 @@ choix du fabricant
 
 - **(5)** A mirror referred to in this section that is a multiple reflectance mirror shall have a daytime reflectance level of at least 35 per cent and a night-time reflectance level of at least 4 per cent. In the event of electrical failure, the mirror shall be adjustable, either manually or automatically, to a reflectance level of at least 35 per cent.
 
-- **(6)** An outside rearview mirror referred to in paragraph (7)(b) or subsection (26) or (27) that is installed on the side of the vehicle opposite the driver’s side may be convex if
+- **(6)** An outside rearview mirror referred to in paragraph (7)(b) or subsection (26) or (27) that is installed on the side of the vehicle opposite the driver’s side may be convex if
 	- **(a)** its reflective surface area is equal to or greater than the reflective surface area that a unit magnification mirror must have in accordance with that paragraph or subsection;
-	- **(b)** its average radius of curvature is not less than 890 mm (35 inches) and not greater than 1 800 mm (71.5 inches); and
-	- **(c)** the radius of curvature at any point does not deviate by more than 12.5 per cent from the average of any five radius-of-curvature measurements made on its reflective surface at least 6 mm (0.25 inch) from the edge of the image display.
+	- **(b)** its average radius of curvature is not less than 890 mm (35 inches) and not greater than 1 800 mm (71.5 inches); and
+	- **(c)** the radius of curvature at any point does not deviate by more than 12.5 per cent from the average of any five radius-of-curvature measurements made on its reflective surface at least 6 mm (0.25 inch) from the edge of the image display.
 
 #### Passenger Cars and Three-wheeled Vehicles
 > [SOR/2003-272, s. 13]
 
 
 
-- **(7)** An inside rearview mirror shall be installed on every passenger car and three-wheeled vehicle and shall, under the conditions prescribed in subsection (8),
+- **(7)** An inside rearview mirror shall be installed on every passenger car and three-wheeled vehicle and shall, under the conditions prescribed in subsection (8),
 	- **(a)** provide the driver with a field of view to the rear that
 		- **(i)** is not less than 20° measured horizontally rearward from the projected eye point, and
-		- **(ii)** extends to the horizon and includes a point on the road surface not more than 60 m (200 feet) directly behind the vehicle; or
-	- **(b)** where the inside rearview mirror does not provide the field of view to the rear described in paragraph (a), be accompanied, on the side opposite the driver’s side, by an outside rearview mirror that has not less than 90 per cent of the reflective surface area of an outside rearview mirror installed pursuant to subsection (11).
+		- **(ii)** extends to the horizon and includes a point on the road surface not more than 60 m (200 feet) directly behind the vehicle; or
+	- **(b)** where the inside rearview mirror does not provide the field of view to the rear described in paragraph (a), be accompanied, on the side opposite the driver’s side, by an outside rearview mirror that has not less than 90 per cent of the reflective surface area of an outside rearview mirror installed pursuant to subsection (11).
 
-- **(8)** For the purposes of subsection (7), the vehicle shall be on a level road surface and loaded with the lighter of the following loads, calculated on the basis of the driver and each occupant weighing 68 kg (150 pounds):
+- **(8)** For the purposes of subsection (7), the vehicle shall be on a level road surface and loaded with the lighter of the following loads, calculated on the basis of the driver and each occupant weighing 68 kg (150 pounds):
 	- **(a)** a driver and four other occupants, and
 	- **(b)** an occupant in each designated seating position.
 
-- **(9)** A field of view to the rear described in paragraph (7)(a) may be partially obscured by seated occupants or head restraints.
+- **(9)** A field of view to the rear described in paragraph (7)(a) may be partially obscured by seated occupants or head restraints.
 
-- **(10)** An inside rearview mirror referred to in subsection (7), if situated in the head impact area, shall, when the reflective surface of the mirror is subjected to a force of 400 N (90 pounds) in any direction that is not more than 45° from the forward longitudinal direction, deflect, collapse or break away without leaving sharp edges.
+- **(10)** An inside rearview mirror referred to in subsection (7), if situated in the head impact area, shall, when the reflective surface of the mirror is subjected to a force of 400 N (90 pounds) in any direction that is not more than 45° from the forward longitudinal direction, deflect, collapse or break away without leaving sharp edges.
 
 - **(11)** An outside rearview mirror shall be installed on the driver’s side of every passenger car and three-wheeled vehicle in such a manner as to provide the driver with a field of view to the rear on a level road surface that
 	- **(a)** may be partially obscured by the rear body or fender contours;
 	- **(b)** extends to the horizon; and
-	- **(c)** includes a line measuring 2.5 m (8 feet) perpendicular to and outboard from the vertical longitudinal plane tangent to the driver’s side of the vehicle at its widest part, at a point 10.6 m (35 feet) behind the eyes of the driver seated with the driver’s seat in the rearmost position.
+	- **(c)** includes a line measuring 2.5 m (8 feet) perpendicular to and outboard from the vertical longitudinal plane tangent to the driver’s side of the vehicle at its widest part, at a point 10.6 m (35 feet) behind the eyes of the driver seated with the driver’s seat in the rearmost position.
 
-- **(12)** For the purposes of subsections (7), (9) and (11), the field of view to the rear of the driver shall be evaluated by using
+- **(12)** For the purposes of subsections (7), (9) and (11), the field of view to the rear of the driver shall be evaluated by using
 	- **(a)** the location of the driver’s eye reference points for the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a, Passenger Car Driver’s Eye Range (August 1967); or
-	- **(b)** the driver’s eye reference points at a nominal location appropriate for any 95th percentile adult male driver.
+	- **(b)** the driver’s eye reference points at a nominal location appropriate for any 95th percentile adult male driver.
 
 #### Motorcycles
 
 
-- **(13)** Every motorcycle shall have, mounted on each side so that the horizontal centre of each reflective surface of the mirror is at least 280 mm (11 inches) outward from the longitudinal centreline of the motorcycle,
-	- **(a)** a rearview mirror with not less than 80 cm<sup>2</sup> (12.5 square inches) of reflective surface area; or
-	- **(b)** a convex rearview mirror with not less than 64.5 cm<sup>2</sup> (10 square inches) of reflective surface area and an average radius of curvature that is not less than 510 mm (20 inches) and not greater than 1 800 mm (71.5 inches).
+- **(13)** Every motorcycle shall have, mounted on each side so that the horizontal centre of each reflective surface of the mirror is at least 280 mm (11 inches) outward from the longitudinal centreline of the motorcycle,
+	- **(a)** a rearview mirror with not less than 80 cm<sup>2</sup> (12.5 square inches) of reflective surface area; or
+	- **(b)** a convex rearview mirror with not less than 64.5 cm<sup>2</sup> (10 square inches) of reflective surface area and an average radius of curvature that is not less than 510 mm (20 inches) and not greater than 1 800 mm (71.5 inches).
 
 #### School Buses
 
@@ -4540,104 +4278,104 @@ choix du fabricant
 ##### General
 
 
-- **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
+- **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
 	- **(a)** a 50/50 male-to-female ratio must be used for the male/female mix; and
-	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
+	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
 	- **(c)** [Repealed, SOR/2008-72, s. 2]
 
-- **(15)** For the purposes of subsections (16) to (25),
-	- **(a)** cylinders A, D and E shall be 0.305 m (1 foot) high and 0.305 m (1 foot) in diameter;
-	- **(b)** cylinders B and C shall be 0.915 m (3 feet) high and 0.305 m (1 foot) in diameter; and
+- **(15)** For the purposes of subsections (16) to (25),
+	- **(a)** cylinders A, D and E shall be 0.305 m (1 foot) high and 0.305 m (1 foot) in diameter;
+	- **(b)** cylinders B and C shall be 0.915 m (3 feet) high and 0.305 m (1 foot) in diameter; and
 	- **(c)** cylinders A, B, C, D and E shall be of a colour that provides a high contrast with the road surface on which the bus is parked.
 
 ##### Requirements
 
 
 - **(16)** Every school bus shall have the following two outside mirror systems:
-	- **(a)** System A, which consists, on each side of the school bus, of one unit magnification mirror that conforms to subsection (18) and one convex mirror that conforms to subsection (19); and
-	- **(b)** System B, which consists, on each side of the school bus, of one convex mirror that conforms to subsections (20) to (24).
+	- **(a)** System A, which consists, on each side of the school bus, of one unit magnification mirror that conforms to subsection (18) and one convex mirror that conforms to subsection (19); and
+	- **(b)** System B, which consists, on each side of the school bus, of one convex mirror that conforms to subsections (20) to (24).
 
-- **(17)** A System A mirror and System B mirror shall conform to the provisions referred to in subsection (16) at any driver’s eye position, when they are adjusted in accordance with the manufacturer’s instructions.
+- **(17)** A System A mirror and System B mirror shall conform to the provisions referred to in subsection (16) at any driver’s eye position, when they are adjusted in accordance with the manufacturer’s instructions.
 
-- **(18)** Each System A unit magnification mirror shall have a reflective surface area of not less than 325 cm<sup>2</sup> (50 square inches) that provides, at the driver’s eye position, a field of view that includes a continuous view rearward, of the side of the school bus and the road surface, which view shall begin no farther than 60 m (200 feet) rearward of the mirror’s surface and extend to the horizon when measured on a level road, as illustrated in Figure 1.
+- **(18)** Each System A unit magnification mirror shall have a reflective surface area of not less than 325 cm<sup>2</sup> (50 square inches) that provides, at the driver’s eye position, a field of view that includes a continuous view rearward, of the side of the school bus and the road surface, which view shall begin no farther than 60 m (200 feet) rearward of the mirror’s surface and extend to the horizon when measured on a level road, as illustrated in Figure 1.
 
 - **(19)** Each System A convex mirror shall
-	- **(a)** provide, at the driver’s eye position, a field of view that includes continuous and complete views as illustrated in Figure 1,
+	- **(a)** provide, at the driver’s eye position, a field of view that includes continuous and complete views as illustrated in Figure 1,
 		- **(i)** rearward,
-		- **(ii)** of the ground, which view overlaps the field of view provided by the unit magnification mirror described in subsection (18),
+		- **(ii)** of the ground, which view overlaps the field of view provided by the unit magnification mirror described in subsection (18),
 		- **(iii)** of the side of the bus,
-		- **(iv)** in the mirror installed on the side opposite the driver’s side, of cylinders B and D, placed in accordance with subsection (25), and
-		- **(v)** in the mirror installed on the driver’s side, of cylinders C and E, placed in accordance with subsection (25);
-	- **(b)** have an average radius of curvature of not less than 482 mm (19 inches); and
-	- **(c)** have a radius of curvature that does not deviate at any point by more than 12.5 per cent from the average of any five radius-of-curvature measurements taken at least 6 mm (0.25 inch) from the edge of the reflective surface.
+		- **(iv)** in the mirror installed on the side opposite the driver’s side, of cylinders B and D, placed in accordance with subsection (25), and
+		- **(v)** in the mirror installed on the driver’s side, of cylinders C and E, placed in accordance with subsection (25);
+	- **(b)** have an average radius of curvature of not less than 482 mm (19 inches); and
+	- **(c)** have a radius of curvature that does not deviate at any point by more than 12.5 per cent from the average of any five radius-of-curvature measurements taken at least 6 mm (0.25 inch) from the edge of the reflective surface.
 
 - **(20)** Each System B mirror shall be installed so that
-	- **(a)** the distance from the driver’s eye position to the centre of the mirror is at least 95.25 cm (37.5 inches); and
+	- **(a)** the distance from the driver’s eye position to the centre of the mirror is at least 95.25 cm (37.5 inches); and
 	- **(b)** the slope of the mirror surface has no discontinuities.
 
-- **(21)** Each System B mirror shall provide a field of view that includes continuous and complete views at the driver’s eye position, as illustrated in Figure 1, of
+- **(21)** Each System B mirror shall provide a field of view that includes continuous and complete views at the driver’s eye position, as illustrated in Figure 1, of
 	- **(a)** the ground from the front bumper forward to a point where direct observation of the ground is possible;
-	- **(b)** the ground and the side of the bus rearward of the front bumper, extending to and overlapping the field of view provided by the System A convex mirror;
-	- **(c)** in the case of a mirror installed on the side opposite the driver’s side, of cylinders A and B, placed in accordance with subsection (25), and
-	- **(d)** in the case of a mirror installed on the driver’s side, of cylinders A and C, placed in accordance with subsection (25).
+	- **(b)** the ground and the side of the bus rearward of the front bumper, extending to and overlapping the field of view provided by the System A convex mirror;
+	- **(c)** in the case of a mirror installed on the side opposite the driver’s side, of cylinders A and B, placed in accordance with subsection (25), and
+	- **(d)** in the case of a mirror installed on the driver’s side, of cylinders A and C, placed in accordance with subsection (25).
 
-- **(22)** The images of cylinders A, B and C, placed in accordance with subsection (25), that are reflected in each System B mirror shall meet the following requirements:
-	- **(a)** the shortest angular width of the image shall be no less than 3 minutes of arc, measured using the following equation:
+- **(22)** The images of cylinders A, B and C, placed in accordance with subsection (25), that are reflected in each System B mirror shall meet the following requirements:
+	- **(a)** the shortest angular width of the image shall be no less than 3 minutes of arc, measured using the following equation:
 ```
 X/D ≥ 0,000873
 ```
 where
 - **X** is the width of the image of the cylinder on the reflective surface,
 - **D** is the distance between the centre point of the driver’s eye position and the centre of the reflective surface, and
-- **0.000873** is the tangent of 3 minutes of arc; and
-	- **(b)** the shortest angular length of the image shall be no less than 9 minutes of arc, measured using the following equation:
+- **0.000873** is the tangent of 3 minutes of arc; and
+	- **(b)** the shortest angular length of the image shall be no less than 9 minutes of arc, measured using the following equation:
 ```
 Y/D ≥ 0,002618
 ```
 where
 - **Y** is the length of the image of the cylinder on the reflective surface,
 - **D** is the distance between the centre point of the driver’s eye position and the centre of the reflective surface, and
-- **0.002618** is the tangent of 9 minutes of arc.
+- **0.002618** is the tangent of 9 minutes of arc.
 
-- **(23)** For the purposes of subsection (22), a comparison chart, such as the one shown in Figure 2, may be used to measure the angular width and angular length of an image of a cylinder, where
+- **(23)** For the purposes of subsection (22), a comparison chart, such as the one shown in Figure 2, may be used to measure the angular width and angular length of an image of a cylinder, where
 	- **(a)** the comparison chart is placed in a vertical plane that contains the image to be evaluated;
 	- **(b)** the plane of the comparison chart is perpendicular to the line of sight;
 	- **(c)** the image of the cylinder and the comparison chart are visible through the still or video camera’s viewfinder;
 	- **(d)** a photograph is taken at the driver’s eye position; and
 	- **(e)** the image of the cylinder is larger than the references shown on the comparison chart.
 
-- **(24)** Images reflected in each System B mirror shall be located no less than 3 minutes of arc from the edge of the reflective surface, when measured at the driver’s eye position.
+- **(24)** Images reflected in each System B mirror shall be located no less than 3 minutes of arc from the edge of the reflective surface, when measured at the driver’s eye position.
 
 ##### Testing
 
 
-- **(25)** A System A mirror and a System B mirror shall be tested as follows:
-	- **(a)** cylinders A, B, C, D and E shall be placed at the following locations, as illustrated in Figure 1, with measurements taken from the centre of the cylinder, as viewed from above:
+- **(25)** A System A mirror and a System B mirror shall be tested as follows:
+	- **(a)** cylinders A, B, C, D and E shall be placed at the following locations, as illustrated in Figure 1, with measurements taken from the centre of the cylinder, as viewed from above:
 		- **(i)** cylinder A shall be placed in front of the bus so that its centre passes through the bus’s longitudinal centreline and its top is directly visible through the portion of the windshield wiped by the windshield wipers at the driver’s eye position,
-		- **(ii)** cylinder B shall be placed on the side opposite the driver’s side at a point where the cylinder is entirely visible through the convex mirrors of both System A and System B on that side so that its centre falls in a vertical plane that is 2 m (6.6 feet) to the right of, and perpendicular to, a vertical plane tangent to the bus’s most outboard surface,
-		- **(iii)** cylinder C shall be placed on the driver’s side at a point where the cylinder is entirely visible through the convex mirrors of both System A and System B on that side so that its centre falls in a vertical plane that is 2 m (6.6 feet) to the left of, and perpendicular to, a vertical plane tangent to the bus’s most outboard surface,
-		- **(iv)** cylinder D shall be placed on the side opposite the driver’s side so that its centre falls in the vertical plane that passes through the centreline of the bus’s rear-wheel axle and that is 2 m (6.6 feet) to the right of the bus’s most outboard surface, and
-		- **(v)** cylinder E shall be placed on the driver’s side so that its centre falls in the vertical plane that passes through the centreline of the bus’s rear-wheel axle and that is 2 m (6.6 feet) to the left of the bus’s most outboard surface;
+		- **(ii)** cylinder B shall be placed on the side opposite the driver’s side at a point where the cylinder is entirely visible through the convex mirrors of both System A and System B on that side so that its centre falls in a vertical plane that is 2 m (6.6 feet) to the right of, and perpendicular to, a vertical plane tangent to the bus’s most outboard surface,
+		- **(iii)** cylinder C shall be placed on the driver’s side at a point where the cylinder is entirely visible through the convex mirrors of both System A and System B on that side so that its centre falls in a vertical plane that is 2 m (6.6 feet) to the left of, and perpendicular to, a vertical plane tangent to the bus’s most outboard surface,
+		- **(iv)** cylinder D shall be placed on the side opposite the driver’s side so that its centre falls in the vertical plane that passes through the centreline of the bus’s rear-wheel axle and that is 2 m (6.6 feet) to the right of the bus’s most outboard surface, and
+		- **(v)** cylinder E shall be placed on the driver’s side so that its centre falls in the vertical plane that passes through the centreline of the bus’s rear-wheel axle and that is 2 m (6.6 feet) to the left of the bus’s most outboard surface;
 	- **(b)** every mirror shall be adjusted in accordance with the manufacturer’s recommendations to the driver’s eye position and is not to be moved or readjusted during testing for that eye position but may be readjusted for subsequent tests for different eye positions;
 	- **(c)** a still or video camera shall be positioned so that its image plane is located at the driver’s eye point in such a manner that the reflective surface is visible to the camera through the windows of the bus;
-	- **(d)** for a specific driver’s eye position, the requirements of subsections (16) to (25) shall be satisfied with the still or video camera positioned at either the left or right eye point;
+	- **(d)** for a specific driver’s eye position, the requirements of subsections (16) to (25) shall be satisfied with the still or video camera positioned at either the left or right eye point;
 	- **(e)** the still or video camera shall be supported so as to allow pivoting
 		- **(i)** in the vertical and horizontal planes of its image plane to no greater than the maximum allowable limits of eye rotation specified in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and
 		- **(ii)** in the horizontal plane of its image plane to no greater than the maximum allowable limit of neck rotation specified in SAE Recommended Practice J1050, at a point corresponding to the neck pivot point as specified in that Recommended Practice, only after the maximum limits of eye rotation have been reached;
 	- **(f)** all of the still or video camera observations shall be done with the service door of the bus closed and the stop signal arm fully retracted; and
-	- **(g)** for the purposes of subsection (21), the front bumper shall be the forwardmost structural contour of the bumper excluding the fasteners, protruding discrete bumper stops, and any attached accessories such as crossing control arms, which shall be removed prior to testing.
+	- **(g)** for the purposes of subsection (21), the front bumper shall be the forwardmost structural contour of the bumper excluding the fasteners, protruding discrete bumper stops, and any attached accessories such as crossing control arms, which shall be removed prior to testing.
 
 #### Other Vehicles
 
 
-- **(26)** Every multi-purpose passenger vehicle, truck and bus, with a GVWR of 4 536 kg (10,000 pounds) or less, other than a school bus, shall have
+- **(26)** Every multi-purpose passenger vehicle, truck and bus, with a GVWR of 4 536 kg (10,000 pounds) or less, other than a school bus, shall have
 	- **(a)** the following rearview mirrors, namely,
-		- **(i)** an inside rearview mirror that meets the requirements of subsections (7), (9) and (10),
-		- **(ii)** on the driver’s side, an outside rearview mirror that meets the field-of-view requirements of subsection (11), and
+		- **(i)** an inside rearview mirror that meets the requirements of subsections (7), (9) and (10),
+		- **(ii)** on the driver’s side, an outside rearview mirror that meets the field-of-view requirements of subsection (11), and
 		- **(iii)** on the side opposite the driver’s side, an outside rearview mirror that has not less than 90 per cent of the reflective surface area of the outside rearview mirror installed on the driver’s side; or
-	- **(b)** on each side of the vehicle, an outside rearview mirror of which not less than 125 cm<sup>2</sup> (19.5 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
+	- **(b)** on each side of the vehicle, an outside rearview mirror of which not less than 125 cm<sup>2</sup> (19.5 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
 
-- **(27)** Every multi-purpose passenger vehicle, truck and bus with a GVWR of more than 4 536 kg (10,000 pounds), other than a school bus, shall have on each side of the vehicle an outside rearview mirror of which not less than 325 cm<sup>2</sup> (50 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
+- **(27)** Every multi-purpose passenger vehicle, truck and bus with a GVWR of more than 4 536 kg (10,000 pounds), other than a school bus, shall have on each side of the vehicle an outside rearview mirror of which not less than 325 cm<sup>2</sup> (50 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
 
 #### Shipment
 
@@ -4645,9 +4383,9 @@ where
 - **(28)** A company may ship a vehicle bearing a compliance label or information label, as the case may be, on which no outside mirrors have been installed, if the applicable outside mirrors and all of the hardware that is necessary for their mounting accompany the vehicle and all of the holes that are necessary for mounting those mirrors have been made in the sheet metal of the vehicle.
 
 - 
-> Image: Diagram showing Fields of View of System A and System B Mirrors with descriptions.
+> Image: Diagram showing Fields of View of System A and System B Mirrors with descriptions
 
-> Image: Diagram showing a comparison chart between 3 and 9 minutes of arc.
+> Image: Diagram showing a comparison chart between 3 and 9 minutes of arc
 NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN SUBSECTION 111(2)
 
 
@@ -4680,11 +4418,11 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **114** 
 
-- **(1)** With the exception of a walk-in van, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 114, Theft Protection and Rollaway Prevention (TSD 114), as amended from time to time.
+- **(1)** With the exception of a walk-in van, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 114, Theft Protection and Rollaway Prevention (TSD 114), as amended from time to time.
 
 - **(2)** The term ***self-mobility*** in TSD 114 means movement of a vehicle under its own power.
 
-- **(3)** Subsection (1) expires on January 1, 2015.
+- **(3)** Subsection (1) expires on January 1, 2015.
 
 #### Immobilization System
 
@@ -4692,8 +4430,8 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that conforms to
 	- **(a)** one of the following sets of requirements as modified by subsection (22), (23) or (24):
 		- **(i)** the requirements of section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada,
-		- **(ii)** the general and particular specifications that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), in the version in effect on August 8, 2007, or
-		- **(iii)** the general and particular specifications that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Provisions Concerning the Protection of Motor Vehicles Against Unauthorized Use, in the version in effect on February 10, 2009; or
+		- **(ii)** the general and particular specifications that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), in the version in effect on August 8, 2007, or
+		- **(iii)** the general and particular specifications that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Provisions Concerning the Protection of Motor Vehicles Against Unauthorized Use, in the version in effect on February 10, 2009; or
 	- **(b)** the requirements set out in subsections (8) to (21).
 
 - **(5)** A vehicle equipped with an immobilization system shall be accompanied by the following written information:
@@ -4704,7 +4442,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(7)** In this section, ***disarming device*** means a physical device that contains or transmits the code that disarms the immobilization system of a vehicle.
 
-- **(8)** Subject to subsection (9), an immobilization system shall arm automatically within a period of not more than 1 minute after the disarming device is removed from the vehicle, if the vehicle remains in a mode of operation other than “accessory” or “on” throughout that period.
+- **(8)** Subject to subsection (9), an immobilization system shall arm automatically within a period of not more than 1 minute after the disarming device is removed from the vehicle, if the vehicle remains in a mode of operation other than “accessory” or “on” throughout that period.
 
 - **(9)** If the disarming device is a keypad or biometric identifier, the immobilization system shall arm automatically within a period of not more than 1 minute after the motors used for the vehicle’s propulsion are turned off, if the vehicle remains in a mode of operation other than “accessory” or “on” throughout that period.
 
@@ -4717,7 +4455,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(c)** disarming occurs automatically by the presence of a disarming device and the device is inside the vehicle.
 
 - **(11)** If armed, the immobilization system
-	- **(a)** shall prevent the vehicle from moving more than 3 m under its own power by inhibiting the operation of at least one electronic control unit; and
+	- **(a)** shall prevent the vehicle from moving more than 3 m under its own power by inhibiting the operation of at least one electronic control unit; and
 	- **(b)** shall not have any impact on the vehicle’s brake system except that it may prevent regenerative braking and the release of the parking brake.
 
 - **(12)** During the disarming process, a code shall be sent to the inhibited electronic control unit in order to allow the vehicle to move under its own power.
@@ -4727,27 +4465,27 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(14)** When the normal starting procedure requires that the disarming device mechanically latch into a receptacle and the device is physically separate from the ignition switch key, one or more motors used for the vehicle’s propulsion shall start only after the device is removed from that receptacle.
 
 - **(15)** The immobilization system shall conform to the following requirements:
-	- **(a)** it shall have a minimum capacity of 50,000 code variants;
+	- **(a)** it shall have a minimum capacity of 50,000 code variants;
 	- **(b)** it shall not be disarmed by a code that can disarm all other immobilization systems of the same make and model; and
-	- **(c)** subject to subsection (16), it shall not have the capacity to process more than 5,000 codes within 24 hours;
+	- **(c)** subject to subsection (16), it shall not have the capacity to process more than 5,000 codes within 24 hours;
 
-- **(16)** If an immobilization system uses rolling or encrypted codes, it may conform to the following requirements, instead of the requirement set out in paragraph (15)(c):
-	- **(a)** the probability of obtaining the correct code within 24 hours shall not exceed 4 per cent; and
-	- **(b)** it shall not be possible to disarm the system by re-transmitting in any sequence the previous 5 codes generated by the system.
+- **(16)** If an immobilization system uses rolling or encrypted codes, it may conform to the following requirements, instead of the requirement set out in paragraph (15)(c):
+	- **(a)** the probability of obtaining the correct code within 24 hours shall not exceed 4 per cent; and
+	- **(b)** it shall not be possible to disarm the system by re-transmitting in any sequence the previous 5 codes generated by the system.
 
 - **(17)** The immobilization system shall be designed so that, when tested as installed in the vehicle,
 	- **(a)** neither the replacement of an original immobilization system component with a manufacturer’s replacement component nor the addition of a manufacturer’s component can be completed without the use of software; and
-	- **(b)** it is not possible for the vehicle to move under its own power for at least 5 minutes after the beginning of the replacement or addition of a component referred to in paragraph (a).
+	- **(b)** it is not possible for the vehicle to move under its own power for at least 5 minutes after the beginning of the replacement or addition of a component referred to in paragraph (a).
 
-- **(18)** The immobilization system’s conformity to subsection (17) shall be demonstrated by testing that is carried out without damaging the vehicle.
+- **(18)** The immobilization system’s conformity to subsection (17) shall be demonstrated by testing that is carried out without damaging the vehicle.
 
 - **(19)** Paragraph (17)(b) does not apply to the addition of a disarming device that requires the use of another disarming device that is validated by the immobilization system.
 
-- **(20)** The immobilization system shall be designed so that it can neither be bypassed nor rendered ineffective in a manner that would allow a vehicle to move under its own power, or be disarmed, using one or more of the tools and equipment listed in subsection (21),
-	- **(a)** within a period of less than 5 minutes, when tested as installed in the vehicle; or
-	- **(b)** within a period of less than 2.5 minutes, when bench-tested outside the vehicle.
+- **(20)** The immobilization system shall be designed so that it can neither be bypassed nor rendered ineffective in a manner that would allow a vehicle to move under its own power, or be disarmed, using one or more of the tools and equipment listed in subsection (21),
+	- **(a)** within a period of less than 5 minutes, when tested as installed in the vehicle; or
+	- **(b)** within a period of less than 2.5 minutes, when bench-tested outside the vehicle.
 
-- **(21)** During a test referred to in subsection (20), only the following tools or equipment may be used:
+- **(21)** During a test referred to in subsection (20), only the following tools or equipment may be used:
 	- **(a)** scissors, wire strippers, wire cutters and electrical wires;
 	- **(b)** a hammer, a slide hammer, a chisel, a punch, a wrench, a screwdriver and pliers;
 	- **(c)** steel rods and spikes;
@@ -4757,21 +4495,21 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(g)** a battery operated jigsaw.
 
 - **(22)** The requirements set out in National Standard of Canada CAN/ULC-S338-98 are modified as follows:
-	- **(a)** the requirements respecting non-OEM systems as defined in section 2 of that document and respecting local noise regulations do not apply;
+	- **(a)** the requirements respecting non-OEM systems as defined in section 2 of that document and respecting local noise regulations do not apply;
 	- **(b)** a reference to a “manufacturer of the electronic immobilization system” is to be read as a reference to a “manufacturer”; and
-	- **(c)** subsection 8.1 is to be read as follows: “Transponders and remote controls shall be in sealed enclosures that conform to the requirements of Subsections 12.1, General, and 12.2, Normal Operation.”
+	- **(c)** subsection 8.1 is to be read as follows: “Transponders and remote controls shall be in sealed enclosures that conform to the requirements of Subsections 12.1, General, and 12.2, Normal Operation.”
 
 - **(23)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
-	- **(b)** all references to paragraph 33 do not apply;
-	- **(c)** for the purposes of paragraph 31.7, the word ***rapidly*** means less than 5 minutes and the words ***time consuming*** mean at least 5 minutes; and
+	- **(b)** all references to paragraph 33 do not apply;
+	- **(c)** for the purposes of paragraph 31.7, the word ***rapidly*** means less than 5 minutes and the words ***time consuming*** mean at least 5 minutes; and
 	- **(d)** despite any statement to the contrary in paragraphs 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system.
 
 - **(24)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
-	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
+	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
 	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
-	- **(d)** all references to paragraph 8.4 do not apply.
+	- **(d)** all references to paragraph 8.4 do not apply.
 > SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1..
 
 
@@ -4781,20 +4519,20 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **115** 
 
-- **(1)** Every vehicle shall have a vehicle identification number and that vehicle identification number shall not be the same as the vehicle identification number of a vehicle having a model year of 1980 or later manufactured within the preceding 60 years.
+- **(1)** Every vehicle shall have a vehicle identification number and that vehicle identification number shall not be the same as the vehicle identification number of a vehicle having a model year of 1980 or later manufactured within the preceding 60 years.
 
 - **(1.1)** A vehicle that is manufactured from an incomplete vehicle shall bear the vehicle identification number assigned by the incomplete vehicle manufacturer.
 
 - **(1.2)** Where a vehicle identification number is stated on a label bearing a statement of compliance affixed to a vehicle and the vehicle is altered, the vehicle identification number shall apply to the altered vehicle.
 
-- **(2)** Subject to subsection (2.1), the vehicle identification number of each vehicle shall
+- **(2)** Subject to subsection (2.1), the vehicle identification number of each vehicle shall
 	- **(a)** be composed of capital, sanserif characters;
 	- **(b)** be sunk into, embossed on or imprinted, clearly and indelibly, and in such a manner that the vehicle identification number cannot be removed without damaging or defacing the plate, label or vehicle, on
 		- **(i)** an integral or structural part of the vehicle other than the dash-board pad or dash-board cover,
 		- **(ii)** the dash-board or dash-board cover if it is not designed to be replaced following an air bag deployment, or
-		- **(iii)** a separate plate or label that is permanently affixed in a location referred to in subparagraph (i) or (ii); and
-	- **(c)** in the case of a low-speed vehicle, multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less, be
-		- **(i)** composed of characters having a minimum height of 4 mm,
+		- **(iii)** a separate plate or label that is permanently affixed in a location referred to in subparagraph (i) or (ii); and
+	- **(c)** in the case of a low-speed vehicle, multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less, be
+		- **(i)** composed of characters having a minimum height of 4 mm,
 		- **(ii)** located inside the occupant compartment, and
 		- **(iii)** without any part of such vehicle being removed, readable through the vehicle glazing under daylight conditions by an observer having 20/20 vision Snellen whose eyepoint is located outside the vehicle adjacent to the left windshield pillar.
 
@@ -4802,67 +4540,66 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(a)** be composed of capital, sans serif characters;
 	- **(b)** be sunk into, embossed on, imprinted on or permanently affixed on the right exterior vertical surface of the track tunnel;
 	- **(c)** be difficult to remove, replace or alter without detection;
-	- **(d)** be composed of characters having a minimum height of 4 mm;
+	- **(d)** be composed of characters having a minimum height of 4 mm;
 	- **(e)** be legible and indelible;
 	- **(f)** be legible without any part of the vehicle having to be removed; and
 	- **(g)** be protected from corrosion.
 
-- **(2.2)** At the option of the manufacturer, the vehicle identification number may also be displayed in a bar code format that shall meet the requirements of section 5.6 of guideline AIAG B-10, Trading Partner Labels Implementation Guideline (February, 2000), except for the specifications respecting code density and dimensions, which shall meet the requirements of section 4.1 of standard AIAG B-2, Vehicle Identification Number Label Standard (June, 1988).
+- **(2.2)** At the option of the manufacturer, the vehicle identification number may also be displayed in a bar code format that shall meet the requirements of section 5.6 of guideline AIAG B-10, Trading Partner Labels Implementation Guideline (February, 2000), except for the specifications respecting code density and dimensions, which shall meet the requirements of section 4.1 of standard AIAG B-2, Vehicle Identification Number Label Standard (June, 1988).
 
 - **(2.3)** Every bar coded vehicle identification number shall be displayed on
 	- **(a)** the vehicle’s compliance or information label; or
-	- **(b)** a separate label that is applied beside the compliance or information label in accordance with paragraphs 7(a) and (b) of these Regulations.
+	- **(b)** a separate label that is applied beside the compliance or information label in accordance with paragraphs 7(a) and (b) of these Regulations.
 
-- **(2.4)** If the vehicle identification number is displayed on a label in a bar code format, it need not, until September 1, 2012, also be applied to the vehicle in accordance with paragraph 115(2)(b), but may, at the option of the manufacturer, be sunk into, embossed on or imprinted, clearly and indelibly, on
+- **(2.4)** If the vehicle identification number is displayed on a label in a bar code format, it need not, until September 1, 2012, also be applied to the vehicle in accordance with paragraph 115(2)(b), but may, at the option of the manufacturer, be sunk into, embossed on or imprinted, clearly and indelibly, on
 	- **(a)** any part of the vehicle that is not designed to be removed except for repair, other than glazing; or
 	- **(b)** a separate plate or label that is permanently affixed to a part referred to in paragraph (a).
 
-- **(3)** The vehicle identification number of any vehicle shall be alphanumeric and shall be composed of 17 characters as follows:
+- **(3)** The vehicle identification number of any vehicle shall be alphanumeric and shall be composed of 17 characters as follows:
 	- **(a)** the first three characters, the third of which shall not be “9”, shall uniquely identify the manufacturer and the class of vehicle, if the manufacturer manufactures 1,000 or more vehicles of a prescribed class annually;
 	- **(a.1)** the first three characters, the third of which shall be “9”, and the twelfth to fourteenth characters shall uniquely identify the manufacturer and the class of vehicle, if the manufacturer manufactures less than 1,000 vehicles of a prescribed class annually;
-	- **(b)** the fourth to eighth characters, inclusive, shall uniquely identify the decipherable information for the vehicle as set out in Column II of Table I, except that
-		- **(i)** the seventh character shall be alphabetic for a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less,
-		- **(ii)** subject to subparagraph (i), the characters and their positioning may be determined by the manufacturer, and
-		- **(iii)** in the case of an incomplete vehicle to be completed as a trailer, the decipherable information required for an incomplete vehicle in column II of Table I shall be that for a trailer;
-	- **(c)** the ninth character shall be the check digit determined in accordance with subsections (7) and (8) after all other characters have been determined by the manufacturer;
-	- **(d)** the tenth character shall be the code that corresponds to the vehicle model year as set out in Table II;
+	- **(b)** the fourth to eighth characters, inclusive, shall uniquely identify the decipherable information for the vehicle as set out in Column II of Table I, except that
+		- **(i)** the seventh character shall be alphabetic for a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less,
+		- **(ii)** subject to subparagraph (i), the characters and their positioning may be determined by the manufacturer, and
+		- **(iii)** in the case of an incomplete vehicle to be completed as a trailer, the decipherable information required for an incomplete vehicle in column II of Table I shall be that for a trailer;
+	- **(c)** the ninth character shall be the check digit determined in accordance with subsections (7) and (8) after all other characters have been determined by the manufacturer;
+	- **(d)** the tenth character shall be the code that corresponds to the vehicle model year as set out in Table II;
 	- **(e)** the eleventh character shall identify the plant of manufacture of the vehicle;
 	- **(f)** the twelfth to seventeenth characters shall be sequentially assigned by the manufacturer during the manufacturing process, if the manufacturer manufactures 1,000 or more vehicles of a prescribed class annually;
 	- **(g)** the fifteenth to seventeenth characters shall be sequentially assigned by the manufacturer during the manufacturing process, if the manufacturer manufactures less than 1,000 vehicles of a prescribed class annually; and
-	- **(h)** the fourteenth to seventeenth characters shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less.
+	- **(h)** the fourteenth to seventeenth characters shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less.
 
 - **(4)** [Repealed, SOR/2004-250, s. 3]
 
-- **(5)** Each character used in a vehicle identification number shall be one of the Arabic numerals or Roman letters specified in Table III.
+- **(5)** Each character used in a vehicle identification number shall be one of the Arabic numerals or Roman letters specified in Table III.
 
 - **(6)** [Repealed, SOR/88-535, s. 1]
 
-- **(7)** The check digit referred to in paragraph (3)(c) shall be determined by
+- **(7)** The check digit referred to in paragraph (3)(c) shall be determined by
 	- **(a)** assigning to each numeral of the vehicle identification number the actual mathematical value of that numeral;
-	- **(b)** assigning to each letter the mathematical value for that letter specified in Table IV;
-	- **(c)** multiplying the assigned value for each character of the vehicle identification number by the weight factor set out opposite that character in Table V; and
-	- **(d)** adding together the numbers obtained under paragraph (c) and dividing the total by 11.
+	- **(b)** assigning to each letter the mathematical value for that letter specified in Table IV;
+	- **(c)** multiplying the assigned value for each character of the vehicle identification number by the weight factor set out opposite that character in Table V; and
+	- **(d)** adding together the numbers obtained under paragraph (c) and dividing the total by 11.
 
-- **(8)** The fractional portion of the quotient obtained by paragraph (7)(d), multiplied by 11, shall be the check digit, except that if that product is 10, the check digit shall be X.
+- **(8)** The fractional portion of the quotient obtained by paragraph (7)(d), multiplied by 11, shall be the check digit, except that if that product is 10, the check digit shall be X.
 
 - **(9)** The Minister may require manufacturers of vehicles in respect of which this section applies to submit to the Minister those characters that uniquely identify a vehicle including, where applicable, the twelfth to fourteenth characters, inclusive, that constitute part of the identifier, for each make and class of vehicle manufactured and, in all cases, the information necessary to decipher the characters in vehicle identification numbers.
 
 - **(10)** If a character in a vehicle identification number identifies engine net power, the engine net power represented by that character shall not differ by more than 10 per cent from the actual engine net power.
 
-- **(11)** Manufacturers of vehicles in respect of which this section applies shall apply to the Canadian Vehicle Manufacturers’ Association for the characters referred to in paragraphs 3(a) and (a.1) that uniquely identify the manufacturer and class of vehicle.
+- **(11)** Manufacturers of vehicles in respect of which this section applies shall apply to the Canadian Vehicle Manufacturers’ Association for the characters referred to in paragraphs 3(a) and (a.1) that uniquely identify the manufacturer and class of vehicle.
 
-- **(12)** Despite subsections (1) to (11), every vehicle having a model year of 2009 or earlier shall comply with the requirements of this section as it read on the day before the day on which this subsection came into force.
+- **(12)** Despite subsections (1) to (11), every vehicle having a model year of 2009 or earlier shall comply with the requirements of this section as it read on the day before the day on which this subsection came into force.
 
 - 
 #### TABLE I
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Class of Vehicle</th>
 <th>Decipherable Information</th>
 </tr>
@@ -4874,12 +4611,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <tr>
 <td>2</td>
 <td>Multi-purpose passenger vehicle</td>
-<td>Make, line, series, body type, engine type and gross vehicle weight rating. In addition, for multipurpose passenger vehicles with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
+<td>Make, line, series, body type, engine type and gross vehicle weight rating. In addition, for multipurpose passenger vehicles with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Truck</td>
-<td>Make, model or line, series, chassis, cab type, engine type, brake system and gross vehicle weight rating. In addition, for trucks with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
+<td>Make, model or line, series, chassis, cab type, engine type, brake system and gross vehicle weight rating. In addition, for trucks with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5051,23 +4788,21 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <table>
 <h4>Authorized Characters</h4>
 <tr>
-<td>Numbers:</td>
-</tr>
-<tr>
-<td>1234567890
+<td>Numbers:
 
-</td>
-</tr>
-<tr>
-<td>Letters:</td>
-</tr>
-<tr>
-<td>ABCDEFGHJKLMNPRSTUVWXYZ
+1234567890
 
-</td>
-</tr>
-<tr>
-<td>All spaces provided for in the vehicle identification number must be occupied by a character specified in this table.
+
+
+Letters:
+
+ABCDEFGHJKLMNPRSTUVWXYZ
+
+
+
+All spaces provided for in the vehicle identification number must be occupied by a character specified in this table.
+
+
 
 </td>
 </tr>
@@ -5122,123 +4857,24 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <table>
 <h4>Character and Weight Factor</h4>
 <tr>
-<td></td>
-<td>lst</td>
-<td></td>
-<td>8</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>2nd</td>
-<td></td>
-<td>7</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>3rd</td>
-<td></td>
-<td>6</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>4th</td>
-<td></td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>5th</td>
-<td></td>
-<td>4</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>6th</td>
-<td></td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>7th</td>
-<td></td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>8th</td>
-<td></td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>9th</td>
-<td></td>
-<td>0</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>10th</td>
-<td></td>
-<td>9</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>11th</td>
-<td></td>
-<td>8</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>12th</td>
-<td></td>
-<td>7</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>13th</td>
-<td></td>
-<td>6</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>14th</td>
-<td></td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>15th</td>
-<td></td>
-<td>4</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>16th</td>
-<td></td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>17th</td>
-<td></td>
-<td>2</td>
-<td></td>
+<td>
+- lst  8
+- 2nd  7
+- 3rd  6
+- 4th  5
+- 5th  4
+- 6th  3
+- 7th  2
+- 8th  10
+- 9th  0
+- 10th  9
+- 11th  8
+- 12th  7
+- 13th  6
+- 14th  5
+- 15th  4
+- 16th  3
+- 17th  2</td>
 </tr>
 </table>
 
@@ -5331,47 +4967,47 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 
 
-### Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4 536 KG (Standard 120)
+### Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4 536 KG (Standard 120)
 
 
 #### General
 
 **120** 
 
-- **(1)** Every motor vehicle with a GVWR of more than 4 536 kg, except vehicles imported temporarily for special purposes, every three-wheeled vehicle equipped with tires other than passenger car tires, every motorcycle except motor tricycles equipped with passenger car tires, and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4,536 kg (TSD 120), as amended from time to time.
+- **(1)** Every motor vehicle with a GVWR of more than 4 536 kg, except vehicles imported temporarily for special purposes, every three-wheeled vehicle equipped with tires other than passenger car tires, every motorcycle except motor tricycles equipped with passenger car tires, and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4 536 kg (TSD 120), as amended from time to time.
 
 #### Technical Standards Document No. 120
 
 
 - **(2)** In addition to the requirements set out in section S5.1.3 of TSD 120, used or retreaded tires installed on a bus, trailer, trailer converter dolly or truck shall
 	- **(a)** not have been the subject of a notice of defect;
-	- **(b)** have a tread depth greater than 1.5 mm; and
+	- **(b)** have a tread depth greater than 1.5 mm; and
 	- **(c)** have been originally manufactured to comply with
 		- **(i)** in the case of used tires, the requirements of the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), and
-		- **(ii)** in the case of retreaded tires, Schedule V to the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), the United States Federal Motor Vehicle Safety Standard No. 119 or the Japanese Industrial Standard JIS D4230.
+		- **(ii)** in the case of retreaded tires, Schedule V to the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), the United States Federal Motor Vehicle Safety Standard No. 119 or the Japanese Industrial Standard JIS D4230.
 
 - **(3)** The label information specified in section S5.3 of TSD 120 shall be in both official languages.
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
 
 #### Load Range Identification Symbol
 
 
-- **(5)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or on the tire information label.
+- **(5)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or on the tire information label.
 
 #### Compliance
 
 
-- **(6)** Compliance with subsection (3) is only required after August 31, 2009.
+- **(6)** Compliance with subsection (3) is only required after August 31, 2009.
 
 #### Expiry Date
 
 
-- **(7)** This section expires on August 1, 2013.
+- **(7)** This section expires on August 1, 2013.
 > SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9..
 
 
@@ -5381,17 +5017,17 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **121** 
 
-- **(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to the requirements of TSD 121, as amended from time to time.
+- **(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to the requirements of TSD 121, as amended from time to time.
 
 - **(2)** When a truck or bus is equipped with a front brake pressure limiting valve, that valve shall be automatic and shall operate while the service brakes are applied.
 
-- **(3)** Every antilock brake system malfunction indicator referred to in S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
+- **(3)** Every antilock brake system malfunction indicator referred to in S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
 
-- **(4)** Despite S5.2.3.3(a) of TSD 121, in addition to conforming to the requirements of S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that conforms to the requirements of S5.2.3.3(b) to (d) of TSD 121.
+- **(4)** Despite S5.2.3.3(a) of TSD 121, in addition to conforming to the requirements of S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that conforms to the requirements of S5.2.3.3(b) to (d) of TSD 121.
 
 - **(5)** The test of the parking brake static retardation force that is referred to in S5.6.1 of TSD 121 shall be conducted in both the forward and rearward directions.
 
-- **(6)** This section expires on June 1, 2013.
+- **(6)** This section expires on June 1, 2013.
 > SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F)..
 
 
@@ -5405,21 +5041,21 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 **122** 
 
 - **(1)** Every motorcycle shall conform to
-	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
-	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
+	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
+	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
 
-- **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
+- **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
 
 - **(3)** Every motorcycle shall have a mark containing the symbol “DOT” followed by a reference to the type of brake fluid recommended by the manufacturer.
 
 - **(4)** The mark shall
 	- **(a)** be permanently affixed and of a colour that contrasts with its background, or be engraved or embossed;
-	- **(b)** be located, so as to be visible without obstruction, either on or within 101.6 mm of the brake-fluid reservoir filler plug or cap; and
-	- **(c)** have letters and numbers at least 2.38 mm in height.
+	- **(b)** be located, so as to be visible without obstruction, either on or within 101.6 mm of the brake-fluid reservoir filler plug or cap; and
+	- **(c)** have letters and numbers at least 2.38 mm in height.
 
-- **(5)** Beginning on September 1, 2011, the English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
-“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
-« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
+- **(5)** Beginning on September 1, 2011, the English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
+“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
+« *AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé.* »
 
 #### Technical Standards Document No. 122
 
@@ -5430,42 +5066,42 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 		- **(i)** a motorcycle that is designed to travel on three wheels in contact with the ground, or
 		- **(ii)** a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar.
 
-- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II of section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
+- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II of section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
 
 - **(8)** The vehicle mass referred to in S6.1 of TSD 122 is limited to a maximum value equal to the GVWR of the motorcycle.
 
 - **(9)** Despite S5.4, S5.5, S7.6, S7.7 and S7.8 of TSD 122, a limited-speed motorcycle shall conform to the test requirements set out in those sections.
 
-- **(10)** Despite S6.6 of TSD 122, the wind velocity shall be not more than 5 m/s.
+- **(10)** Despite S6.6 of TSD 122, the wind velocity shall be not more than 5 m/s.
 
-- **(11)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.6 km (1 mile).
+- **(11)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.6 km (1 mile).
 
-#### ECE Regulation No. 78
+#### ECE Regulation No. 78
 
 
 - **(12)** For the purposes of this section,
-	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
-	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
-	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on three wheels in contact with the ground and symmetrically arranged in relation to the longitudinal median plane, and that has a maximum speed of more than 50 km/h.
+	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
+	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
+	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on three wheels in contact with the ground and symmetrically arranged in relation to the longitudinal median plane, and that has a maximum speed of more than 50 km/h.
 
-- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1), the term ***three-wheeled vehicle*** used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
+- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1), the term “three-wheeled vehicle” used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
 
-- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
+- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
 
-- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
+- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
 
-- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
+- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
 
-- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
+- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
 
-- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
+- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
 
 #### Expiry Date
 
 
-- **(19)** This section expires on April 1, 2015.
+- **(19)** This section expires on April 1, 2015.
 > SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3..
 
 
@@ -5540,7 +5176,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
 
-- **(2)** The word “ARRÊT” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
+- **(2)** The word “*ARRÊT*” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
 
 - **(3)** This section expires on January 31, 2016.
 > SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3..
@@ -5590,76 +5226,76 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(a)** at each designated seating position, by placing the pivot point of the measuring device,
 	- **(i)** for seats that are adjustable fore and aft, at
 		- **(A)** the seating reference point, and
-		- **(B)** a point 130 mm (five inches) horizontally forward of the seating reference point displaced vertically 20 mm (0.75 inches) or a distance equal to the rise that results from a 130 mm (five inches) forward adjustment of the seat, and
+		- **(B)** a point 130 mm (five inches) horizontally forward of the seating reference point displaced vertically 20 mm (0.75 inches) or a distance equal to the rise that results from a 130 mm (five inches) forward adjustment of the seat, and
 	- **(ii)** for seats that are not adjustable fore and aft, at the seating reference point,
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
-- **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
+- **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
 ***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
 
 ***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
-- **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
-- **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
+- **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
+- **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
 
-- **(2)** This section applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg (10,000 pounds) or less.
+- **(2)** This section applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg (10,000 pounds) or less.
 
-- **(3)** Subject to subsection (3.2), the instrument panel of a vehicle shall be constructed so that the deceleration of a spherical head form with a weight of 6,8 kg (15 pounds) and a diameter of 165 mm (6.5 inches) does not exceed 80 g continuously for more than 3 ms when the area of the instrument panel that is within the head impact area is impacted in accordance with the test procedure referred to in subsection (3.1) at a relative velocity of
-	- **(a)** 19.3 km/h, in the case of a vehicle that is equipped, at the right front outboard designated seating position, with an air bag and a Type 2 manual seat belt assembly that conform to section 208; and
-	- **(b)** 24 km/h (15 mph), in the case of any other vehicle.
+- **(3)** Subject to subsection (3.2), the instrument panel of a vehicle shall be constructed so that the deceleration of a spherical head form with a weight of 6,8 kg (15 pounds) and a diameter of 165 mm (6.5 inches) does not exceed 80 g continuously for more than 3 ms when the area of the instrument panel that is within the head impact area is impacted in accordance with the test procedure referred to in subsection (3.1) at a relative velocity of
+	- **(a)** 19.3 km/h, in the case of a vehicle that is equipped, at the right front outboard designated seating position, with an air bag and a Type 2 manual seat belt assembly that conform to section 208; and
+	- **(b)** 24 km/h (15 mph), in the case of any other vehicle.
 
 - **(3.1)** The test of the instrument panel shall be performed in accordance with SAE Recommended Practice, “Motor Vehicle Instrument Panel Laboratory Impact Test Procedure — Head Area — SAE J921b” (November 1971) and using the instrumentation whose performance is specified in SAE Recommended Practice, “Instrumentation For Impact Tests — SAE J211” (October 1988) except that
-	- **(a)** the origin of the line tangent to the surface of the instrument panel shall be a point on a transverse horizontal line through a point 130 mm (5 inches) horizontally forward of the seating reference point of the front outboard designated seating position, displaced vertically 19 mm (0.75 inches) or a distance equal to the rise in the seating reference point that results from a 130 mm (5 inch) forward adjustment of the seat; and
+	- **(a)** the origin of the line tangent to the surface of the instrument panel shall be a point on a transverse horizontal line through a point 130 mm (5 inches) horizontally forward of the seating reference point of the front outboard designated seating position, displaced vertically 19 mm (0.75 inches) or a distance equal to the rise in the seating reference point that results from a 130 mm (5 inch) forward adjustment of the seat; and
 	- **(b)** the impact shall be directed in a vertical plane parallel to the longitudinal axis of the vehicle or in a plane normal to the surface at the point of contact.
 
-- **(3.2)** Subsection (3) does not apply to
+- **(3.2)** Subsection (3) does not apply to
 	- **(a)** console assemblies;
-	- **(b)** areas less than 130 mm (5 inches) from the junction of the instrument panel and the inside of the side structure of the body;
+	- **(b)** areas less than 130 mm (5 inches) from the junction of the instrument panel and the inside of the side structure of the body;
 	- **(c)** areas closer to the junction of the windshield and the instrument panel than those areas that are capable of being contacted by the head form with the windshield in place;
 	- **(d)** areas outboard of all points on the line of contact of the head form with the instrument panel when the head form is moved along the inboard side of a vertical longitudinal plane tangent to the inboard edge of the steering wheel; or
 	- **(e)** areas below any point at which a vertical line is tangent to the rearmost surface of the instrument panel.
 
-- **(4)** Subject to subsection (4.1), the seats of a vehicle shall be constructed so that the deceleration of a spherical head form with a weight of 6,8 kg (15 pounds) and a diameter of 165 mm (6.5 inches) does not exceed 80 g continuously for more than 3 ms when the area of a seatback that is within the head impact area is impacted, at a relative velocity of 24 km/h (15 miles per hour), in accordance with SAE Recommended Practice, “Motor Vehicle Seatback Assembly Laboratory Impact Test Procedure — Head Area — SAE J346” (June 1971) using the instrumentation whose performance is specified in SAE Recommended Practice, “Instrumentation For Impact Tests — SAE J211” (October 1988), except that
+- **(4)** Subject to subsection (4.1), the seats of a vehicle shall be constructed so that the deceleration of a spherical head form with a weight of 6,8 kg (15 pounds) and a diameter of 165 mm (6.5 inches) does not exceed 80 g continuously for more than 3 ms when the area of a seatback that is within the head impact area is impacted, at a relative velocity of 24 km/h (15 miles per hour), in accordance with SAE Recommended Practice, “Motor Vehicle Seatback Assembly Laboratory Impact Test Procedure — Head Area — SAE J346” (June 1971) using the instrumentation whose performance is specified in SAE Recommended Practice, “Instrumentation For Impact Tests — SAE J211” (October 1988), except that
 	- **(a)** the origin of the line tangent to the uppermost component of the seatback frame shall be a point on a transverse horizontal line through the seating reference point of the appropriate rear outboard designated seating position, with adjustable forward seats in their rearmost design driving position and reclinable forward seatbacks in their normal design position;
 	- **(b)** the impact shall be directed in a vertical plane parallel to the longitudinal axis of the vehicle or in a plane normal to the surface at the point of contact;
 	- **(c)** in the case of
 		- **(i)** a seat without head restraints, each test shall be performed
-			- **(A)** in respect of each individual split seatback or bucket seat seatback, between two points each situated 100 mm (4 inches) outboard of its centreline, and
-			- **(B)** in respect of each bench seat seatback, between two points each situated 100 mm (4 inches) outboard of the centreline of each outboard designated seating position, and
+			- **(A)** in respect of each individual split seatback or bucket seat seatback, between two points each situated 100 mm (4 inches) outboard of its centreline, and
+			- **(B)** in respect of each bench seat seatback, between two points each situated 100 mm (4 inches) outboard of the centreline of each outboard designated seating position, and
 		- **(ii)** a seat with head restraints, each test shall be conducted at a point on the centreline of each head restraint with the head restraint in place at its lowest adjusted position; and
-	- **(d)** in the case of a type of seat that is installed in more than one body style, tests conducted at the foremost and rearmost positions identified by the application of paragraph (a) shall be deemed to be conclusive for all intermediate positions.
+	- **(d)** in the case of a type of seat that is installed in more than one body style, tests conducted at the foremost and rearmost positions identified by the application of paragraph (a) shall be deemed to be conclusive for all intermediate positions.
 
-- **(4.1)** Subsection (4) does not apply in respect of
-	- **(a)** seats installed in a school bus that complies with section 222 when tested in accordance with Motor Vehicle Safety Test Methods, section 222, “School Bus Passenger Seating and Crash Protection” (December 19, 1983);
+- **(4.1)** Subsection (4) does not apply in respect of
+	- **(a)** seats installed in a school bus that complies with section 222 when tested in accordance with Motor Vehicle Safety Test Methods, section 222, “School Bus Passenger Seating and Crash Protection” (December 19, 1983);
 	- **(b)** the rearmost seats;
 	- **(c)** side-facing seats;
 	- **(d)** back-to-back seats;
 	- **(e)** folding auxiliary jump seats; and
 	- **(f)** temporary seats.
 
-- **(5)** Subject to subsection (7), every interior compartment door located in an instrument panel, console, seatback or side panel adjacent to an outboard designated seating position shall remain closed when
-	- **(a)** the interior compartment door latch system is tested by being subjected to a force equal to an inertia load of 10 g in a horizontal transverse direction and an inertia load of 10 g in a vertical direction, in accordance with SAE Recommended Practice, “Passenger Car Side Door Latch Systems — SAE J839” (July 1982);
+- **(5)** Subject to subsection (7), every interior compartment door located in an instrument panel, console, seatback or side panel adjacent to an outboard designated seating position shall remain closed when
+	- **(a)** the interior compartment door latch system is tested by being subjected to a force equal to an inertia load of 10 g in a horizontal transverse direction and an inertia load of 10 g in a vertical direction, in accordance with SAE Recommended Practice, “Passenger Car Side Door Latch Systems — SAE J839” (July 1982);
 	- **(b)** one of the following tests is conducted, namely,
-		- **(i)** the vehicle is tested by being impacted perpendicularly into a fixed collision barrier at a forward longitudinal velocity of 48 km/h (30 miles per hour), or
-		- **(ii)** the interior compartment door latch system is tested by being subjected to a force equal to a horizontal inertia load of 30 g in a longitudinal direction, in accordance with SAE Recommended Practice, “Passenger Car Side Door Latch Systems — SAE J839” (July 1982); and
-	- **(c)** the instrument panel or seatback is tested in accordance with subsection (3) or (4), as the case may be.
+		- **(i)** the vehicle is tested by being impacted perpendicularly into a fixed collision barrier at a forward longitudinal velocity of 48 km/h (30 miles per hour), or
+		- **(ii)** the interior compartment door latch system is tested by being subjected to a force equal to a horizontal inertia load of 30 g in a longitudinal direction, in accordance with SAE Recommended Practice, “Passenger Car Side Door Latch Systems — SAE J839” (July 1982); and
+	- **(c)** the instrument panel or seatback is tested in accordance with subsection (3) or (4), as the case may be.
 
 - **(6)** [Repealed, SOR/92-689, s. 1]
 
 - **(7)** All interior compartment door assemblies that have a locking device shall be tested with the locking device in an unlocked position.
 
-- **(8)** A sun visor shall be provided at each front outboard designated seating position on every vehicle and shall be constructed of, or covered with, energy absorbing material and so mounted that each mounting shall not have a rigid material edge with a radius of less than 3 mm (0.125 inch) that is statically contactable by a spherical head form with a diameter of 165 mm (6.5 inches).
+- **(8)** A sun visor shall be provided at each front outboard designated seating position on every vehicle and shall be constructed of, or covered with, energy absorbing material and so mounted that each mounting shall not have a rigid material edge with a radius of less than 3 mm (0.125 inch) that is statically contactable by a spherical head form with a diameter of 165 mm (6.5 inches).
 
-- **(9)** Each arm-rest installed on a vehicle, other than an arm-rest referred to in subsection (10), shall meet at least one of the following performance requirements:
-	- **(a)** be constructed of energy absorbing material that collapses laterally at least 50 mm (2 inches) without permitting contact with any underlying rigid material;
+- **(9)** Each arm-rest installed on a vehicle, other than an arm-rest referred to in subsection (10), shall meet at least one of the following performance requirements:
+	- **(a)** be constructed of energy absorbing material that collapses laterally at least 50 mm (2 inches) without permitting contact with any underlying rigid material;
 	- **(b)** be constructed
-		- **(i)** of energy absorbing material that collapses to within 32 mm (1.25 inches) of a rigid test panel surface without permitting contact with any rigid material, and
-		- **(ii)** so that the vertical height of any rigid material between 13 mm (0.5 inches) and 32 mm (1.25 inches) from the panel surface is not less than 25 mm (1 inch); and
-	- **(c)** when measured vertically in side elevation, provide at least 50 mm (2 inches) of coverage within the pelvic impact area along not less than 50 mm (2 inches) of its length.
+		- **(i)** of energy absorbing material that collapses to within 32 mm (1.25 inches) of a rigid test panel surface without permitting contact with any rigid material, and
+		- **(ii)** so that the vertical height of any rigid material between 13 mm (0.5 inches) and 32 mm (1.25 inches) from the panel surface is not less than 25 mm (1 inch); and
+	- **(c)** when measured vertically in side elevation, provide at least 50 mm (2 inches) of coverage within the pelvic impact area along not less than 50 mm (2 inches) of its length.
 
 - **(10)** Each arm-rest that folds into the seat back or between two seat backs of a vehicle shall
-	- **(a)** comply with subsection (9); or
+	- **(a)** comply with subsection (9); or
 	- **(b)** be constructed of or covered with energy absorbing material.
 > SOR/83-138, s. 2; SOR/86-453, s. 2; SOR/92-689, s. 1; SOR/94-374, s. 5(F); SOR/94-692, s. 2(F); SOR/97-447, s. 4; SOR/2006-94, s. 4(E)..
 
@@ -5670,11 +5306,11 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **202** 
 
-- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
+- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
 
-- **(2)** Until August 31, 2012, a vehicle referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
+- **(2)** Until August 31, 2012, a vehicle referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
 
-- **(3)** This section expires on March 1, 2014.
+- **(3)** This section expires on March 1, 2014.
 > SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1..
 
 
@@ -5686,13 +5322,13 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(1)** The steering control system of a vehicle shall be constructed in such a manner that no component or attachment — including any horn actuating mechanism — is capable, during normal driving manoeuvres, of catching the driver’s clothing or the driver’s jewellery, such as a watch, a ring or a bracelet other than a bracelet with loosely attached or dangling members.
 
-- **(2)** Subject to subsection (4), the steering control system of every passenger car and three-wheeled vehicle and every multi-purpose passenger vehicle, bus and truck — other than a walk-in van — with a GVWR of 4 536  kg or less shall be tested in accordance with SAE Recommended Practice J944, Steering Control System — Passenger Car — Laboratory Test Procedure (June 1980).
+- **(2)** Subject to subsection (4), the steering control system of every passenger car and three-wheeled vehicle and every multi-purpose passenger vehicle, bus and truck — other than a walk-in van — with a GVWR of 4 536 kg or less shall be tested in accordance with SAE Recommended Practice J944, Steering Control System — Passenger Car — Laboratory Test Procedure (June 1980).
 
-- **(3)** The following requirements with respect to the steering control system shall be met during the test referred to in subsection (2):
-	- **(a)** the system shall be impacted by a body block at a relative velocity of 24 km/h;
+- **(3)** The following requirements with respect to the steering control system shall be met during the test referred to in subsection (2):
+	- **(a)** the system shall be impacted by a body block at a relative velocity of 24 km/h;
 	- **(b)** the impact force developed on the chest of the body block and transmitted to the system shall not exceed 11 120 N, except for intervals with a cumulative duration of not more than 3 ms.
 
-- **(4)** Subsections (2) and (3) do not apply to a vehicle that complies with the requirements set out in subsections 208(22) and (23).
+- **(4)** Subsections (2) and (3) do not apply to a vehicle that complies with the requirements set out in subsections 208(22) and (23).
 > SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E); SOR/2009-121, s. 2..
 
 
@@ -5703,10 +5339,10 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 **204** 
 
 - **(1)** Every passenger car and three-wheeled vehicle and every multi-purpose passenger vehicle, bus and truck — other than a walk-in van — with a GVWR of 4 536 kg or less and an unloaded vehicle mass of 2 495 kg or less shall be tested
-	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
-	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(2)** During the test referred to in subsection (1), the upper end of the steering column and steering shaft shall not be displaced more than 127 mm in a horizontal rearward direction parallel to the longitudinal axis of the vehicle in relation to an undisturbed point in the vehicle. The displacement shall be equivalent to the maximum dynamic movement of the upper end of the steering column and steering shaft during the test.
+- **(2)** During the test referred to in subsection (1), the upper end of the steering column and steering shaft shall not be displaced more than 127 mm in a horizontal rearward direction parallel to the longitudinal axis of the vehicle in relation to an undisturbed point in the vehicle. The displacement shall be equivalent to the maximum dynamic movement of the upper end of the steering column and steering shaft during the test.
 > SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5; SOR/2009-121, s. 2..
 
 
@@ -5716,38 +5352,38 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **205** 
 
-- **(1)** For the purposes of this section, ***bus***, ***motorhome***, ***multi-purpose passenger vehicle***, ***passenger car***, ***readily removable windows***, ***trailer***, and ***truck*** in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
+- **(1)** For the purposes of this section, ***bus***, ***motorhome***, ***multi-purpose passenger vehicle***, ***passenger car***, ***readily removable windows***, ***trailer***, and ***truck*** in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
 
 - **(2)** For the purposes of this section, the definition ***motor vehicle*** in the ANSI Z26 Safety Standard — 1996 does not apply.
 
-- **(3)** Subject to subsections (4) to (13), each piece of glazing material for use in a vehicle, except a trailer other than a bus trailer, shall meet the requirements of the ANSI Z26 Safety Standard — 1996.
+- **(3)** Subject to subsections (4) to (13), each piece of glazing material for use in a vehicle, except a trailer other than a bus trailer, shall meet the requirements of the ANSI Z26 Safety Standard — 1996.
 
-- **(4)** In the event of any inconsistency or conflict between the requirements for items 1 to 16B listed in section 4.2 of the ANSI Z26 Safety Standard — 1996 and the requirements shown in Table 1 of that Standard, the latter shall prevail.
+- **(4)** In the event of any inconsistency or conflict between the requirements for items 1 to 16B listed in section 4.2 of the ANSI Z26 Safety Standard — 1996 and the requirements shown in Table 1 of that Standard, the latter shall prevail.
 
 - **(5)** Any glazing material for use in a multi-purpose passenger vehicle shall meet the requirements specified in the ANSI Z26 Safety Standard — 1996 for glazing material for use in trucks.
 
 - **(5.1)** Any glazing material for use in a three-wheeled vehicle shall meet the requirements specified in the ANSI Z26 Safety Standard — 1996 for glazing materials for use in passenger cars.
 
-- **(6)** Despite section 6 of the ANSI Z26 Safety Standard — 1996, the exposed edges of tempered glazing material installed in school buses need not be banded.
+- **(6)** Despite section 6 of the ANSI Z26 Safety Standard — 1996, the exposed edges of tempered glazing material installed in school buses need not be banded.
 
-- **(7)** Instead of using the procedures described in the ANSI Z26 Safety Standard — 1996 for tests 1 and 16 described in that Standard, those tests may be conducted using the procedures described for tests 1 and 16 in the ANSI Z26 Safety Code — 1990.
+- **(7)** Instead of using the procedures described in the ANSI Z26 Safety Standard — 1996 for tests 1 and 16 described in that Standard, those tests may be conducted using the procedures described for tests 1 and 16 in the ANSI Z26 Safety Code — 1990.
 
-- **(8)** Instead of using the steel frame made in accordance with Figure 1 in the ANSI Z26 Safety Standard — 1996 required for tests 6, 8 to 14, 26 and 29 described in that Standard, those tests may be conducted using a maple or similar hardwood frame made in accordance with Figure 1 in the ANSI Z26 Safety Code — 1990.
+- **(8)** Instead of using the steel frame made in accordance with Figure 1 in the ANSI Z26 Safety Standard — 1996 required for tests 6, 8 to 14, 26 and 29 described in that Standard, those tests may be conducted using a maple or similar hardwood frame made in accordance with Figure 1 in the ANSI Z26 Safety Code — 1990.
 
-- **(9)** Instead of conducting the fracture test using the procedure for test 7 described in the ANSI Z26 Safety Standard — 1996 and testing the specimens specified in that test, the fracture test may be conducted using the following procedure:
+- **(9)** Instead of conducting the fracture test using the procedure for test 7 described in the ANSI Z26 Safety Standard — 1996 and testing the specimens specified in that test, the fracture test may be conducted using the following procedure:
 	- **(a)** test the uncracked and unbroken specimens remaining from test 6 described in the ANSI Z26 Safety Standard — 1996;
-	- **(b)** continue the procedure for test 6 by increasing the height from which the sphere is dropped by increments of 305 mm starting from a height of 3.35 m until each specimen is broken; and
-	- **(c)** interpret the results in accordance with test 7.
+	- **(b)** continue the procedure for test 6 by increasing the height from which the sphere is dropped by increments of 305 mm starting from a height of 3.35 m until each specimen is broken; and
+	- **(c)** interpret the results in accordance with test 7.
 
-- **(10)** When conducting tests 9 and 12 described in the ANSI Z26 Safety Standard — 1996, the specimens of the glazing materials listed in item 14 of section 4 of the ANSI Z26 Safety Standard — 1996 may be clamped in the frame of the holding fixture.
+- **(10)** When conducting tests 9 and 12 described in the ANSI Z26 Safety Standard — 1996, the specimens of the glazing materials listed in item 14 of section 4 of the ANSI Z26 Safety Standard — 1996 may be clamped in the frame of the holding fixture.
 
-- **(11)** When conducting test 26 described in the ANSI Z26 Safety Standard — 1996, the specimens of the glazing materials listed in item 14 of section 4 of the ANSI Z26 Safety Standard — 1996 shall be clamped in the frame of the holding fixture.
+- **(11)** When conducting test 26 described in the ANSI Z26 Safety Standard — 1996, the specimens of the glazing materials listed in item 14 of section 4 of the ANSI Z26 Safety Standard — 1996 shall be clamped in the frame of the holding fixture.
 
-- **(12)** Any plastic glazing material that meets the requirements of item 7 of section 4 of the ANSI Z26 Safety Standard — 1996 may be used in that portion of a motorcycle windshield that is below an imaginary horizontal plane located 380 mm vertically above the lowest seating position.
+- **(12)** Any plastic glazing material that meets the requirements of item 7 of section 4 of the ANSI Z26 Safety Standard — 1996 may be used in that portion of a motorcycle windshield that is below an imaginary horizontal plane located 380 mm vertically above the lowest seating position.
 
 - **(13)** Each piece of glazing material installed in a vehicle shall be legibly and permanently marked with
-	- **(a)** the appropriate marking required by section 7 of the ANSI Z26 Safety Standard — 1996; and
-	- **(b)** an approved code mark, assigned by the Minister to the glazing material manufacturer, in letters and numbers not less than 1.8 mm in height.
+	- **(a)** the appropriate marking required by section 7 of the ANSI Z26 Safety Standard — 1996; and
+	- **(b)** an approved code mark, assigned by the Minister to the glazing material manufacturer, in letters and numbers not less than 1.8 mm in height.
 > SOR/82-656, s. 4; SOR/84-336, s. 1; SOR/86-161, s. 2; SOR/88-268, s. 11; SOR/93-5, s. 3(F); SOR/94-670, s. 2(F); SOR/94-717, s. 2; SOR/2002-55, s. 16; SOR/2002-187, s. 2; SOR/2003-272, s. 22; SOR/2004-250, s. 4; SOR/2006-94, s. 4(E)..
 
 
@@ -5757,19 +5393,19 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **206** 
 
-- **(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
-	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
-	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
+- **(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
+	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
+	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
 
-- **(2)** Subject to subsection (5), until August 31, 2011, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with the requirements of TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
+- **(2)** Subject to subsection (5), until August 31, 2011, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with the requirements of TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
 
-- **(3)** Beginning on September 1, 2011, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
+- **(3)** Beginning on September 1, 2011, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
 
-- **(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
+- **(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
-- **(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
+- **(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
 
-- **(6)** This section expires on June 1, 2013.
+- **(6)** This section expires on June 1, 2013.
 > SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1..
 
 
@@ -5779,35 +5415,15 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **207** 
 
-- **(1)** Each vehicle shall have an occupant seat for the driver and such occupant seat and all other occupant seats except a side-facing seat or a bus passenger seat shall, when subjected to Motor Vehicle Safety Test Methods, Section 207, Anchorage of Seats, approved December 7, 1973, withstand, when installed in the vehicle
-	- **(a)** in any position to which it can be adjusted,
-		- **(i)** the application of a force equal to 20 times the weight of the seat applied separately in
-			- **(A)** a forward, and
-			- **(B)** a rearwardlongitudinal direction through the centre of gravity of the seat, and
-simultaneously, in the case of a seat having one or more seat belt assemblies attached directly to it,
-		- **(ii)** the application of a force equal to the total load imposed on the seat by simultaneous application in the directions referred to in clauses (i)(A) and (B) of the respective loads required by section 210 of this Schedule for the seat belt assemblies so attached; and
-	- **(b)** in its rearmost position, application of a force that
-		- **(i)** produces a moment of 3,300 pound-inches about the seating reference point for each designated seating position for which the occupant seat is designed, and
-		- **(ii)** is applied to the upper seat back or the upper cross-member of the seat back
-			- **(A)** in a rearward longitudinal direction for forward-facing seats, and
-			- **(B)** in a forward longitudinal direction for rearward-facing seats.
+- **(1)** Every passenger car, three-wheeled vehicle, truck, bus and multi-purpose passenger vehicle shall conform to the requirements of Technical Standards Document No. 207, Anchorage of Seats (TSD 207), as amended from time to time.
 
-- **(2)** Except for vertical movement of non-locking suspension type occupant seats in trucks or buses, no occupant seat shall change its position adjustment during any application of force referred to in paragraphs (1)(a) and (b).
+- **(2)** The label referred to in S4.4 of TSD 207 shall be in both official languages.
 
-- **(3)** Except in the case of a passenger seat in a bus and a seat having a back that is only adjustable for the comfort of the occupant, a hinged or folding occupant seat or occupant seat back shall be equipped with
-	- **(a)** a self-locking device for restraining the hinged or folding seat or seat back, and
-	- **(b)** a control for releasing the self-locking device.
+- **(3)** In the case of a truck or multi-purpose passenger vehicle with a GVWR greater than 4 563 kg or a motor home, a seat that is labelled in accordance with S4.4 of TSD 207 is not considered to be a designated seating position.
 
-- **(4)** Where a designated seating position is immediately behind a seat equipped with the self-locking device referred to in subsection (3), the control for releasing the device shall be readily accessible to
-	- **(a)** the occupant of the seat equipped with the device; and
-	- **(b)** the occupant of the designated seating position immediately behind such seat if access to the control is required in order to allow him to exit from the vehicle.
+- **(4)** This section expires on September 1, 2017.
+> SOR/2011-264, s. 5..
 
-- **(5)** The self-locking device referred to in subsection (3) shall not release or fail when
-	- **(a)** in the case of a forward-facing seat, a forward longitudinal force equal to 20 times the weight of the hinged or folding portion of the seat is applied through the centre of gravity of that portion of the seat;
-	- **(b)** in the case of a rearward-facing seat, a rearward longitudinal force equal to eight times the weight of the hinged or folding portion of the seat is applied through the centre of gravity of that portion of the seat; and
-	- **(c)** subjected to an acceleration of 20 g in the longitudinal direction opposite to that in which the seat folds.
-
-- **(6)** Seats not intended for occupancy while the vehicle is in motion shall bear a conspicuous label that so states in English and in French.
 
 
 
@@ -5818,80 +5434,80 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 
 **208** 
 
-- **(1)** Subject to subsections (2.1) and (8) to (10), every vehicle shall be equipped at each front outboard designated seating position with a Type 2 manual seat belt assembly that
+- **(1)** Subject to subsections (2.1) and (8) to (10), every vehicle shall be equipped at each front outboard designated seating position with a Type 2 manual seat belt assembly that
 	- **(a)** has a non-detachable upper torso restraint; and
 	- **(b)** is capable of adjustment by means of an emergency-locking retractor.
 
-- **(2)** Subject to subsections (3) and (4), every passenger car and three-wheeled vehicle and every truck, bus or multi-purpose passenger vehicle with a GVWR of 4 536 kg or less, other than a school bus or motor home, shall be equipped at each forward-facing rear outboard designated seating position with a Type 2 manual seat belt assembly that
+- **(2)** Subject to subsections (3) and (4), every passenger car and three-wheeled vehicle and every truck, bus or multi-purpose passenger vehicle with a GVWR of 4 536 kg or less, other than a school bus or motor home, shall be equipped at each forward-facing rear outboard designated seating position with a Type 2 manual seat belt assembly that
 	- **(a)** has a non-detachable upper torso restraint; and
 	- **(b)** is capable of adjustment by means of an emergency-locking retractor.
 
-- **(2.1)** Every enclosed motorcycle shall be equipped at each designated seating position with a Type 2 manual seat belt assembly that
+- **(2.1)** Every enclosed motorcycle shall be equipped at each designated seating position with a Type 2 manual seat belt assembly that
 	- **(a)** has a non-detachable upper torso restraint; and
 	- **(b)** is capable of adjustment by means of an emergency-locking retractor.
 
-- **(3)** A vehicle that has a rear outboard designated seating position that has a seat that can be adjusted to face forward and to face in any other direction may be equipped with a Type 2 manual seat belt assembly that
+- **(3)** A vehicle that has a rear outboard designated seating position that has a seat that can be adjusted to face forward and to face in any other direction may be equipped with a Type 2 manual seat belt assembly that
 	- **(a)** when the seat is placed in any direction in which it can be occupied while the vehicle is in motion, has a pelvic restraint that can be adjusted by means of an emergency-locking retractor; and
-	- **(b)** when the seat is placed in the forward-facing direction, has a Type 2A shoulder belt that can be adjusted by means of an emergency-locking retractor.
+	- **(b)** when the seat is placed in the forward-facing direction, has a Type 2A shoulder belt that can be adjusted by means of an emergency-locking retractor.
 
-- **(4)** A vehicle that has a rear outboard designated seating position that has a seat designed by the manufacturer to be removable shall meet the requirements of subsection (2) or, where the seat can be adjusted to face forward and to face in any other direction, the requirements of subsection (3).
+- **(4)** A vehicle that has a rear outboard designated seating position that has a seat designed by the manufacturer to be removable shall meet the requirements of subsection (2) or, where the seat can be adjusted to face forward and to face in any other direction, the requirements of subsection (3).
 
-- **(5)** A seat belt assembly required pursuant to subsection (4) may be detachable at either its upper or lower anchorage point, but not at both anchorage points.
+- **(5)** A seat belt assembly required pursuant to subsection (4) may be detachable at either its upper or lower anchorage point, but not at both anchorage points.
 
-- **(6)** Subject to subsection (9), every vehicle, other than a bus that has a GVWR greater than 4 536 kg or a school bus, shall be equipped with a Type 1 or Type 2 manual seat belt assembly at each designated seating position, other than a front outboard designated seating position or a rear outboard designated seating position.
+- **(6)** Subject to subsection (9), every vehicle, other than a bus that has a GVWR greater than 4 536 kg or a school bus, shall be equipped with a Type 1 or Type 2 manual seat belt assembly at each designated seating position, other than a front outboard designated seating position or a rear outboard designated seating position.
 
-- **(7)** The seat belt assembly referred to in subsection (6) shall
-	- **(a)** in the case of a Type 1 or Type 2 manual seat belt assembly, have a pelvic restraint that can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device; and
-	- **(b)** in the case of a Type 2 manual seat belt assembly, have an upper torso restraint that can be adjusted by means of an emergency-locking retractor or a manual adjusting device.
+- **(7)** The seat belt assembly referred to in subsection (6) shall
+	- **(a)** in the case of a Type 1 or Type 2 manual seat belt assembly, have a pelvic restraint that can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device; and
+	- **(b)** in the case of a Type 2 manual seat belt assembly, have an upper torso restraint that can be adjusted by means of an emergency-locking retractor or a manual adjusting device.
 
-- **(8)** A walk-in van that has a GVWR of 4 536 kg or less may be equipped at the driver’s designated seating position with a Type 1 manual seat belt assembly that can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor.
+- **(8)** A walk-in van that has a GVWR of 4 536 kg or less may be equipped at the driver’s designated seating position with a Type 1 manual seat belt assembly that can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor.
 
-- **(9)** A truck or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg
-	- **(a)** may be equipped at each front outboard designated seating position with a Type 1 manual seat belt assembly; and
-	- **(b)** shall be equipped at each forward-facing rear outboard designated seating position with a Type 1 or Type 2 manual seat belt assembly.
+- **(9)** A truck or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg
+	- **(a)** may be equipped at each front outboard designated seating position with a Type 1 manual seat belt assembly; and
+	- **(b)** shall be equipped at each forward-facing rear outboard designated seating position with a Type 1 or Type 2 manual seat belt assembly.
 
-- **(10)** A bus that has a GVWR greater than 4 536 kg shall be equipped at the driver’s designated seating position with a Type 1 manual seat belt assembly, or a Type 2 manual seat belt assembly the upper torso restraint of which can be adjusted by means of an emergency-locking retractor.
+- **(10)** A bus that has a GVWR greater than 4 536 kg shall be equipped at the driver’s designated seating position with a Type 1 manual seat belt assembly, or a Type 2 manual seat belt assembly the upper torso restraint of which can be adjusted by means of an emergency-locking retractor.
 
 - **(10.1)** In the case of a motor home, the number of designated seating positions with seat belts shall not be less than the number of sleeping positions.
 
-- **(11)** Where a Type 1 manual seat belt assembly or the pelvic restraint portion of a Type 2 manual seat belt assembly is installed at a front outboard designated seating position of a truck, bus or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg, the seat belt assembly shall be capable of adjustment by means of an emergency-locking retractor or an automatic-locking retractor.
+- **(11)** Where a Type 1 manual seat belt assembly or the pelvic restraint portion of a Type 2 manual seat belt assembly is installed at a front outboard designated seating position of a truck, bus or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg, the seat belt assembly shall be capable of adjustment by means of an emergency-locking retractor or an automatic-locking retractor.
 
-- **(12)** An automatic-locking retractor referred to in paragraph (7)(a) and subsections (8) and (11) shall
-	- **(a)** engage the next locking position when a length of seat belt webbing between 19 mm and 77 mm has moved into the retractor, as measured from an initial position determined by extending the seat belt webbing to 75 per cent of its total length from the retractor; and
+- **(12)** An automatic-locking retractor referred to in paragraph (7)(a) and subsections (8) and (11) shall
+	- **(a)** engage the next locking position when a length of seat belt webbing between 19 mm and 77 mm has moved into the retractor, as measured from an initial position determined by extending the seat belt webbing to 75 per cent of its total length from the retractor; and
 	- **(b)** if used on a vehicle seat that has a suspension system, be attached to the suspended portion of the vehicle seat.
 
 #### Seat Belt Fit Requirements
 
 
-- **(13)** A Type 2 manual seat belt assembly shall be constructed such that, when a 50th percentile adult male occupant is secured in place by the seat belt assembly, the intersection of the upper torso restraint and the pelvic restraint shall be at least 150 mm from the front vertical centreline of the occupant, measured along the centreline of the pelvic restraint, with
+- **(13)** A Type 2 manual seat belt assembly shall be constructed such that, when a 50th percentile adult male occupant is secured in place by the seat belt assembly, the intersection of the upper torso restraint and the pelvic restraint shall be at least 150 mm from the front vertical centreline of the occupant, measured along the centreline of the pelvic restraint, with
 	- **(a)** any upper torso restraint manual adjusting device adjusted in accordance with the manufacturer’s instructions;
 	- **(b)** the seat adjusted to its rearmost and lowest position; and
 	- **(c)** the seat back adjusted to the manufacturer’s nominal design riding position.
 
-- **(14)** When the seat is placed in any position, the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every pelvic restraint shall
-	- **(a)** at the driver’s designated seating position, be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male; and
-	- **(b)** at all of the other designated seating positions, be adjustable to fit any occupant whose dimensions range from those of a 50th percentile six-year-old child to those of a 95th percentile adult male.
+- **(14)** When the seat is placed in any position, the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every pelvic restraint shall
+	- **(a)** at the driver’s designated seating position, be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male; and
+	- **(b)** at all of the other designated seating positions, be adjustable to fit any occupant whose dimensions range from those of a 50th percentile six-year-old child to those of a 95th percentile adult male.
 
-- **(15)** When the seat is placed in any position, the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every upper torso restraint shall be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male.
+- **(15)** When the seat is placed in any position, the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every upper torso restraint shall be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male.
 
 #### Warning Systems
 
 
-- **(16)** A vehicle that has a GVWR of 4 536 kg or less, other than a school bus, shall be equipped with
-	- **(a)** a tell-tale that emits a continuous or flashing warning light that is visible to the driver seated in the normal driving position, and a warning system that simultaneously emits a continuous or intermittent audible warning signal, for a period of 4 to 8 seconds; or
-	- **(b)** a tell-tale that emits, for not less than 60 seconds, a continuous or flashing warning light that is visible to the driver seated in the normal driving position, and a warning system that emits a continuous or intermittent audible warning signal for a period of 4 to 8 seconds.
+- **(16)** A vehicle that has a GVWR of 4 536 kg or less, other than a school bus, shall be equipped with
+	- **(a)** a tell-tale that emits a continuous or flashing warning light that is visible to the driver seated in the normal driving position, and a warning system that simultaneously emits a continuous or intermittent audible warning signal, for a period of 4 to 8 seconds; or
+	- **(b)** a tell-tale that emits, for not less than 60 seconds, a continuous or flashing warning light that is visible to the driver seated in the normal driving position, and a warning system that emits a continuous or intermittent audible warning signal for a period of 4 to 8 seconds.
 
-- **(17)** The tell-tale referred to in subsection (16) shall be activated when
+- **(17)** The tell-tale referred to in subsection (16) shall be activated when
 	- **(a)** the ignition switch of the vehicle is moved to the “on” or “start” position; or
 	- **(b)** the ignition switch of the vehicle is moved to the “on” or “start” position and
 		- **(i)** the seat belt latch mechanism of the pelvic restraint located at the driver’s designated seating position is not fastened, or
-		- **(ii)** the pelvic restraint located at the driver’s designated seating position is extended less than 100 mm from the normal stowed position.
+		- **(ii)** the pelvic restraint located at the driver’s designated seating position is extended less than 100 mm from the normal stowed position.
 
-- **(18)** The warning system referred to in subsection (16) shall be activated when the ignition switch of the vehicle is moved to the “on” or “start” position and
+- **(18)** The warning system referred to in subsection (16) shall be activated when the ignition switch of the vehicle is moved to the “on” or “start” position and
 	- **(a)** the seat belt latch mechanism of the pelvic restraint located at the driver’s designated seating position is not fastened; or
-	- **(b)** the pelvic restraint located at the driver’s designated seating position is extended less than 100 mm from the normal stowed position.
+	- **(b)** the pelvic restraint located at the driver’s designated seating position is extended less than 100 mm from the normal stowed position.
 
-- **(19)** The tell-tale referred to in subsection (16) shall display the identification symbol for the seat belt set out in Table II to section 101.
+- **(19)** The tell-tale referred to in subsection (16) shall display the identification symbol for the seat belt set out in Table II to section 101.
 
 #### Release Mechanisms
 
@@ -5903,37 +5519,37 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 #### Crash Protection Requirements
 
 
-- **(21)** Every passenger car and every truck, bus or multi-purpose passenger vehicle that has a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, other than a vehicle manufactured for operation by persons with disabilities, shall comply with the crash protection requirements set out in subsection (22).
+- **(21)** Every passenger car and every truck, bus or multi-purpose passenger vehicle that has a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, other than a vehicle manufactured for operation by persons with disabilities, shall comply with the crash protection requirements set out in subsection (22).
 
-- **(21.1)** Every three-wheeled vehicle shall, at the option of the manufacturer, either comply with the crash test requirements set out in subsection (22) or display on one or more labels, permanently affixed in view of the front seat occupants, in letters of not less than six points in height, the following statement: “This vehicle does not comply with the requirements of the dynamic crash test set out in CMVSS 208/Ce véhicule n’est pas conforme aux exigences de l’essai de collision dynamique prévu par la NSVAC 208.”
+- **(21.1)** Every three-wheeled vehicle shall, at the option of the manufacturer, either comply with the crash test requirements set out in subsection (22) or display on one or more labels, permanently affixed in view of the front seat occupants, in letters of not less than six points in height, the following statement: “This vehicle does not comply with the requirements of the dynamic crash test set out in CMVSS 208 / *Ce véhicule n’est pas conforme aux exigences de l’essai de collision dynamique prévu par la NSVAC 208.*”
 
-- **(21.2)** If the label referred to in subsection (21.1) is displayed in a vehicle, the English and French versions of the owner’s manual shall include the statement on the label.
+- **(21.2)** If the label referred to in subsection (21.1) is displayed in a vehicle, the English and French versions of the owner’s manual shall include the statement on the label.
 
-- **(22)** Where a vehicle is tested in accordance with subsection (23), during the test
+- **(22)** Where a vehicle is tested in accordance with subsection (23), during the test
 	- **(a)** each anthropomorphic test device shall be completely contained within the outer surface of the vehicle occupant compartment;
 	- **(b)** the resultant acceleration at the centre of gravity of the head of each anthropomorphic test device
-		- **(i)** shall not exceed 80 g when acting from in front of the test device’s coronal plane, except where it is established that the maximum resultant acceleration above 80 g is caused by another part of the anthropomorphic test device striking its head, or
+		- **(i)** shall not exceed 80 g when acting from in front of the test device’s coronal plane, except where it is established that the maximum resultant acceleration above 80 g is caused by another part of the anthropomorphic test device striking its head, or
 		- **(ii)** if an air bag is installed at the designated seating position, may be such that the value of the expression
 ```
 
-> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device.
+> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device
 
 ```
 does not exceed 700, where
 - **a** is the resultant acceleration at the centre of gravity of the head expressed as a multiple of g,
 - **g** is the acceleration due to gravity, and
-- **t** <sub>1</sub>** and t** <sub>2</sub>are any two points in time during the impact, expressed in seconds, that are separated by an interval of not more than 15 ms;
+- **t** <sub>1</sub>** and t** <sub>2</sub>are any two points in time during the impact, expressed in seconds, that are separated by an interval of not more than 15 ms;
 	- **(c)** compression deflection of the sternum relative to the spine of the upper thorax of each anthropomorphic test device
-		- **(i)** shall not exceed 50 mm, or
-		- **(ii)** in the case of a vehicle with a GVWR greater than 2 722 kg, shall not exceed 60 mm; and
-	- **(d)** the axially transmitted force through each upper leg of each anthropomorphic test device shall not exceed 10 kN.
+		- **(i)** shall not exceed 50 mm, or
+		- **(ii)** in the case of a vehicle with a GVWR greater than 2 722 kg, shall not exceed 60 mm; and
+	- **(d)** the axially transmitted force through each upper leg of each anthropomorphic test device shall not exceed 10 kN.
 
-- **(23)** Subject to subsection (23.1), when a vehicle is tested, it shall be tested
+- **(23)** Subject to subsection (23.1), when a vehicle is tested, it shall be tested
 	- **(a)** in accordance with the conditions set out in Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996);
-	- **(b)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
-	- **(c)** with an anthropomorphic test device that complies with the Code of Federal Regulations of the United States, title 49, part 572, subpart E (October 1994) placed at each front outboard designated seating position and secured by the seat belt assembly at that position.
+	- **(b)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(c)** with an anthropomorphic test device that complies with the Code of Federal Regulations of the United States, title 49, part 572, subpart E (October 1994) placed at each front outboard designated seating position and secured by the seat belt assembly at that position.
 
-- **(23.1)** For the purposes of paragraph (23)(a), when a three-wheeled vehicle is tested, it shall be loaded in accordance with paragraph S2.2.1 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996).
+- **(23.1)** For the purposes of paragraph (23)(a), when a three-wheeled vehicle is tested, it shall be loaded in accordance with paragraph S2.2.1 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996).
 
 #### Air Bags
 
@@ -5944,7 +5560,7 @@ does not exceed 700, where
 
 - **(25)** Passenger cars, three-wheeled vehicles, trucks, buses and multi-purpose passenger vehicles may be equipped with a manual air bag cut-off switch to deactivate an air bag installed at the right front outboard designated seating position if
 	- **(a)** the vehicle has no forward-facing designated seating position to the rear of the front designated seating positions; or
-	- **(b)** the distance between the rearward surface of the front seat back and forward surface of the rear seat back is less than 720 mm, as measured in accordance with Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996).
+	- **(b)** the distance between the rearward surface of the front seat back and forward surface of the rear seat back is less than 720 mm, as measured in accordance with Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996).
 
 - **(26)** If a vehicle is equipped at a designated seating position with an air bag, the vehicle shall, if scheduled maintenance or replacement of the air bag is required, have a label permanently affixed within the occupant compartment of the vehicle stating, in letters of not less than 6 points in height, in both official languages, the manufacturer’s recommended maintenance or replacement schedule by
 	- **(a)** month and year;
@@ -5960,39 +5576,39 @@ does not exceed 700, where
 - **(28)** Where a vehicle is equipped at a designated seating position with an air bag, the English and French versions of the owner’s manual shall include
 	- **(a)** if scheduled maintenance or replacement of the air bag is required, instructions concerning the maintenance or replacement;
 	- **(b)** a description of the air bag;
-	- **(c)** the warnings set out in subsection (27);
+	- **(c)** the warnings set out in subsection (27);
 	- **(d)** the warning not to place any objects over the air bag or between the air bag and the occupant; and
 	- **(e)** if the vehicle is equipped with a manual air bag cut-off switch,
 		- **(i)** instructions concerning the operation of the cut-off switch,
 		- **(ii)** a statement that the cut-off switch is installed only for use when a rearward-facing child restraint system or infant restraint system is installed in the right front outboard designated seating position, and
-		- **(iii)** a warning about the safety consequences of using the cut-off switch in circumstances other than those referred to in subparagraph (ii).
+		- **(iii)** a warning about the safety consequences of using the cut-off switch in circumstances other than those referred to in subparagraph (ii).
 
 #### Tension-relieving Devices
 
 
-- **(29)** Where a vehicle that has a GVWR of 4 536 kg or less is equipped at a designated seating position with a Type 2 manual seat belt assembly that has a tension-relieving device that permits the introduction of slack in the webbing of the upper torso restraint, the vehicle shall be equipped with a means that automatically cancels any slack in that webbing when
+- **(29)** Where a vehicle that has a GVWR of 4 536 kg or less is equipped at a designated seating position with a Type 2 manual seat belt assembly that has a tension-relieving device that permits the introduction of slack in the webbing of the upper torso restraint, the vehicle shall be equipped with a means that automatically cancels any slack in that webbing when
 	- **(a)** the latch plate is released; or
 	- **(b)** one of the following doors is opened, namely,
 		- **(i)** the vehicle door closest to that position, where the assembly is at a front outboard designated seating position or a rear outboard designated seating position, and
 		- **(ii)** either vehicle door that normally enables an occupant of the seating position to exit the vehicle, where the assembly is at any other designated seating position.
 
-- **(30)** The English and French versions of the owner’s manual for a vehicle referred to in subsection (29) shall
+- **(30)** The English and French versions of the owner’s manual for a vehicle referred to in subsection (29) shall
 	- **(a)** explain the functioning of the tension-relieving device;
 	- **(b)** state the maximum amount of slack, in millimetres, that is recommended by the manufacturer to be introduced into the upper torso restraint under normal conditions of use; and
 	- **(c)** warn that the introduction of slack beyond the recommended amount could significantly reduce the effectiveness of the seat belt assembly in the event of an impact.
 
-- **(31)** Notwithstanding subsection (29), in the case of an open-body type vehicle with no doors, a tension-relieving device may be deactivated manually.
+- **(31)** Notwithstanding subsection (29), in the case of an open-body type vehicle with no doors, a tension-relieving device may be deactivated manually.
 
-- **(32)** Where a vehicle is tested in accordance with subsection (23) and the vehicle is equipped at a front outboard designated seating position with a seat belt assembly that has a tension-relieving device that permits the introduction of slack in the webbing of the upper torso restraint, that webbing shall be adjusted to introduce the maximum amount of slack that is recommended in the owner’s manual under normal conditions of use or, where the owner’s manual does not contain such a recommendation, to the maximum amount of slack possible.
+- **(32)** Where a vehicle is tested in accordance with subsection (23) and the vehicle is equipped at a front outboard designated seating position with a seat belt assembly that has a tension-relieving device that permits the introduction of slack in the webbing of the upper torso restraint, that webbing shall be adjusted to introduce the maximum amount of slack that is recommended in the owner’s manual under normal conditions of use or, where the owner’s manual does not contain such a recommendation, to the maximum amount of slack possible.
 
 #### Accessibility of Seat Belts
 
 
 - **(33)** Any seat belt assembly latch plate that is located outboard of a front outboard designated seating position of a vehicle shall be located within the outboard reach envelope, as obtained in accordance with Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996), of either the outboard arm or inboard arm when the latch plate is in its normal stowed position.
 
-- **(34)** There shall be sufficient clearance between a front outboard designated seating position seat and the side of the vehicle interior to allow a clearance test block that conforms to the dimensions set out in Figure 2 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996) unhindered transit to the latch plate or buckle of any seat belt assembly that is located outboard of that front outboard designated seating position.
+- **(34)** There shall be sufficient clearance between a front outboard designated seating position seat and the side of the vehicle interior to allow a clearance test block that conforms to the dimensions set out in Figure 2 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996) unhindered transit to the latch plate or buckle of any seat belt assembly that is located outboard of that front outboard designated seating position.
 
-- **(35)** The webbing of an upper torso restraint and pelvic restraint installed in a vehicle at a front outboard designated seating position, where tested in accordance with this section and under the conditions set out in section 5 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996), shall automatically retract to a stowed position
+- **(35)** The webbing of an upper torso restraint and pelvic restraint installed in a vehicle at a front outboard designated seating position, where tested in accordance with this section and under the conditions set out in section 5 of Test Method 208 — Occupant Restraint Systems in Frontal Impact (December 1996), shall automatically retract to a stowed position
 	- **(a)** in the case of a vehicle with no doors,
 		- **(i)** where the seat belt assembly has no tension-relieving device, when the latch plate is released, and
 		- **(ii)** where the seat belt assembly has a tension-relieving device, when the tension-relieving device is deactivated; and
@@ -6004,12 +5620,12 @@ does not exceed 700, where
 	- **(a)** one of the following parts, namely, the latch plate, the buckle or the webbing, shall be maintained on top of or above the seat cushion under normal conditions; and
 	- **(b)** the remaining two seat belt assembly parts shall be maintained in an accessible position under normal conditions.
 
-- **(38)** Subsection (37) does not apply where
+- **(38)** Subsection (37) does not apply where
 	- **(a)** the seat cushions are movable and movement of both the seat cushions and the seat back enables the seat back to be used for a function other than seating;
 	- **(b)** the seats are removable; or
 	- **(c)** the seats are movable and enable the space normally occupied by the seat to be used for a function other than seating.
 
-- **(39)** The buckle and latch plate referred to in subsection (37) shall not pass through any seat belt webbing guides or conduits that are provided and shall not fall behind the seat where the seat belt is completely retracted or, if the belt is non-retractable, where the belt buckle is unlatched and, in either case,
+- **(39)** The buckle and latch plate referred to in subsection (37) shall not pass through any seat belt webbing guides or conduits that are provided and shall not fall behind the seat where the seat belt is completely retracted or, if the belt is non-retractable, where the belt buckle is unlatched and, in either case,
 	- **(a)** the seat is moved to any position to which it is designed to be adjusted; and
 	- **(b)** if the seat back is foldable, the seat back is, starting from the manufacturer’s nominal design riding position, folded forward as far as possible and then moved backward into the initial position.
 
@@ -6018,11 +5634,11 @@ does not exceed 700, where
 #### Transitional Provisions
 
 
-- **(41)** Trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less and that are manufactured before September 1, 1998 need not comply with the requirement of subsection (21).
+- **(41)** Trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less and that are manufactured before September 1, 1998 need not comply with the requirement of subsection (21).
 
-- **(42)** Passenger cars manufactured before September 1, 1998 need not comply with paragraph (22)(b).
+- **(42)** Passenger cars manufactured before September 1, 1998 need not comply with paragraph (22)(b).
 
-- **(43)** Passenger cars manufactured before September 1, 1999, and trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, manufactured on or after September 1, 1998 but before September 1, 2000, need not comply with paragraph (22)(c) if, during the test referred to in subsection (23), a compression deflection of the sternum relative to the upper thorax portion of the spine of each anthropomorphic test device does not exceed 65 mm.
+- **(43)** Passenger cars manufactured before September 1, 1999, and trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, manufactured on or after September 1, 1998 but before September 1, 2000, need not comply with paragraph (22)(c) if, during the test referred to in subsection (23), a compression deflection of the sternum relative to the upper thorax portion of the spine of each anthropomorphic test device does not exceed 65 mm.
 > SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F)..
 
 
@@ -6114,54 +5730,54 @@ does not exceed 700, where
 
 **210** 
 
-- **(1)** The following seat belt anchorages shall be installed in a designated seating position in respect of which a seat belt assembly has been installed under section 208:
+- **(1)** The following seat belt anchorages shall be installed in a designated seating position in respect of which a seat belt assembly has been installed under section 208:
 	- **(a)** if a Type 1 seat belt assembly has been installed, seat belt anchorages for a pelvic restraint; or
 	- **(b)** if a Type 2 seat belt assembly has been installed, seat belt anchorages for a combination pelvic and upper torso restraint.
 
-- **(2)** Only the strength test requirements set out in subsections (7) to (10) apply to enclosed motorcycles.
+- **(2)** Only the strength test requirements set out in subsections (7) to (10) apply to enclosed motorcycles.
 
 - **(2.1)** [Repealed, SOR/2008-72, s. 7]
 
 #### Anchorage Positioning Requirements
 
 
-- **(3)** A seat belt anchorage for the pelvic portion of a seat belt assembly shall be located at least 165 mm laterally from the other seat belt anchorage of that seat belt, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of such means.
+- **(3)** A seat belt anchorage for the pelvic portion of a seat belt assembly shall be located at least 165 mm laterally from the other seat belt anchorage of that seat belt, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of such means.
 
 - **(4)** In the case of a seat belt assembly in which
-	- **(a)** the seat belt passes outside the seat or between the seat cushions without bearing on the seat structure, as illustrated in Figure 1 of SAE Recommended Practice J383 (June 1995), a line from
+	- **(a)** the seat belt passes outside the seat or between the seat cushions without bearing on the seat structure, as illustrated in Figure 1 of SAE Recommended Practice J383 (June 1995), a line from
 		- **(i)** in the case of a seat that has no travel, the seating reference point,
-		- **(ii)** in the case of a seat with a travel of not more than 70 mm, where the travel is intended for use by an occupant, the H-point with the seat in its rearmost position within that range of travel, or
-		- **(iii)** in the case of a seat with a travel of more than 70 mm, a point 64 mm to the fore of, and 10 mm above, the seating reference point
+		- **(ii)** in the case of a seat with a travel of not more than 70 mm, where the travel is intended for use by an occupant, the H-point with the seat in its rearmost position within that range of travel, or
+		- **(iii)** in the case of a seat with a travel of more than 70 mm, a point 64 mm to the fore of, and 10 mm above, the seating reference point
 to the nearest contact point of the belt with the seat belt anchorage shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°;
-	- **(b)** the seat belt bears on the seat structure, as illustrated in Figure 3 of SAE Recommended Practice J383 (June 1995),
+	- **(b)** the seat belt bears on the seat structure, as illustrated in Figure 3 of SAE Recommended Practice J383 (June 1995),
 		- **(i)** the seat belt anchorage shall be aft of the rearmost contact point of the belt on the seat frame with the seat in its rearmost position, and
 		- **(ii)** the line from the seating reference point to the nearest contact point of the seat belt with the seat frame shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°; and
 	- **(c)** the seat belt anchorage is on the seat structure, the line from the seating reference point to the nearest contact point of the belt with the anchorage shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°.
 
-- **(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of the means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383, Motor Vehicle Seat Belt Anchorages — Design Recommendations (June 1995), with reference to an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), where
-	- **(a)** the H-Point of the template is located at the unique Design H-Point of the seat, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full rearward and full downward position of the seat; and
+- **(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of the means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383, Motor Vehicle Seat Belt Anchorages — Design Recommendations (June 1995), with reference to an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), where
+	- **(a)** the H-Point of the template is located at the unique Design H-Point of the seat, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full rearward and full downward position of the seat; and
 	- **(b)** the torso line of the template is at the same angle to the vertical plane as the seat back with the seat adjusted to its full rearward and full downward position and the seat back in its most upright position.
 
-- **(6)** In the case of each adjustable seat belt anchorage for the upper end of an upper torso restraint, the mid-point of the range of adjustment of the anchorage or the position that is suitable for a 50th percentile adult male, if that position is specified in the owner’s manual, shall be located within the range referred to in subsection (5).
+- **(6)** In the case of each adjustable seat belt anchorage for the upper end of an upper torso restraint, the mid-point of the range of adjustment of the anchorage or the position that is suitable for a 50th percentile adult male, if that position is specified in the owner’s manual, shall be located within the range referred to in subsection (5).
 
 #### Strength Requirements
 
 
-- **(7)** Except in the case of side-facing seats, when the seat belt anchorages for a Type 1 seat belt assembly or for the pelvic portion of a Type 2 seat belt assembly that is equipped with a detachable upper torso restraint are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2006) by applying a force of 22 241 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
+- **(7)** When the seat belt anchorages for a Type 1 seat belt assembly or for the pelvic portion of a Type 2 seat belt assembly that is equipped with a detachable upper torso restraint are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2010) by applying a force of 22 241 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
 
-- **(8)** When the seat belt anchorages for the pelvic portion and for the upper torso portion of a Type 2 seat belt assembly are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2006) by simultaneously applying a force of 13 345 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
+- **(8)** When the seat belt anchorages for the pelvic portion and for the upper torso portion of a Type 2 seat belt assembly are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2010) by simultaneously applying a force of 13 345 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
 
 - **(9)** [Repealed, SOR/2003-57, s. 1]
 
 - **(10)** Seat belt anchorages for designated seating positions that face in the same direction shall be tested by simultaneously loading the seat belt assemblies attached to the anchorages, where the anchorages are
 	- **(a)** common to the same seat; or
-	- **(b)** laterally adjacent but not common to the same seat and at least one of the anchorages is located within 305 mm of the anchorage for the adjacent seating position, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of those means.
+	- **(b)** laterally adjacent but not common to the same seat and at least one of the anchorages is located within 305 mm of the anchorage for the adjacent seating position, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of those means.
 
 #### Information Respecting Restraint Systems
 
 
-- **(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less and rear designated seating positions, other than a school bus, shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
-> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14; SOR/2008-72, s. 7..
+- **(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less and rear designated seating positions, other than a school bus, shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
+> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14; SOR/2008-72, s. 7; SOR/2011-264, s. 6..
 
 
 
@@ -6173,12 +5789,12 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 **210.1** 
 
-- **(1)** Subject to subsection (2), this section applies to every
+- **(1)** Subject to subsection (2), this section applies to every
 	- **(a)** passenger car;
 	- **(b)** three-wheeled vehicle;
-	- **(c)** multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less;
+	- **(c)** multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less;
 	- **(d)** school bus; and
-	- **(e)** bus, other than a school bus, with a GVWR of 4 536 kg or less.
+	- **(e)** bus, other than a school bus, with a GVWR of 4 536 kg or less.
 
 - **(2)** This section does not apply to
 	- **(a)** a designated seating position at which a built-in child restraint system is provided that is not part of a removable vehicle seat; or
@@ -6187,7 +5803,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 #### General
 
 
-- **(3)** Subject to subsection (3.3), a user-ready tether anchorage shall be installed in a vehicle, other than a convertible or an open-body type vehicle,
+- **(3)** Subject to subsection (3.3), a user-ready tether anchorage shall be installed in a vehicle, other than a convertible or an open-body type vehicle,
 	- **(a)** for each forward-facing designated seating position, other than that of the driver, in a vehicle that has only one row of forward-facing designated seating positions;
 	- **(b)** for each forward-facing designated seating position in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
 	- **(c)** for all forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has less than five designated seating positions;
@@ -6201,18 +5817,18 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 - **(3.2)** [Repealed, SOR/2008-72, s. 8]
 
-- **(3.3)** If a lower universal anchorage system is installed in a designated passenger seating position in the first row of designated seating positions in accordance with subsection 210.2(8) one user-ready tether anchorage shall be installed in that designated seating position.
+- **(3.3)** If a lower universal anchorage system is installed in a designated passenger seating position in the first row of designated seating positions in accordance with subsection 210.2(8) one user-ready tether anchorage shall be installed in that designated seating position.
 
-- **(3.4)** The number of user-ready tether anchorages required in the second row of designated seating positions under subsection (3) may be reduced by one if a user-ready tether anchorage is installed in the first row in accordance with subsection (3.3).
+- **(3.4)** The number of user-ready tether anchorages required in the second row of designated seating positions under subsection (3) may be reduced by one if a user-ready tether anchorage is installed in the first row in accordance with subsection (3.3).
 
-- **(4)** The portion of a user-ready tether anchorage that is designed to bind with the tether strap hook shall be readily accessible and, if under a cover, the cover shall be identified by one of the symbols or the mirror image of one of the symbols set out in Figure 2 and shall be removable without the use of tools.
+- **(4)** The portion of a user-ready tether anchorage that is designed to bind with the tether strap hook shall be readily accessible and, if under a cover, the cover shall be identified by one of the symbols or the mirror image of one of the symbols set out in Figure 2 and shall be removable without the use of tools.
 
 #### Tether Anchorage Positioning
 
 
-- **(5)** Subject to subsections (5.1) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), if
+- **(5)** Subject to subsections (5.1) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), if
 	- **(a)** the H-Point of the template is located
-		- **(i)** at the unique Design H-Point of the designated seating position, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full downward and full rearward position of the seat, or
+		- **(i)** at the unique Design H-Point of the designated seating position, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full downward and full rearward position of the seat, or
 		- **(ii)** in the case of a designated seating position that is equipped with a lower universal anchorage system, midway between the two lower universal anchorage system bars;
 	- **(b)** the torso line of the template is at the same angle to the vertical plane as the vehicle seat back with the seat adjusted to its full rearward and full downward position and the seat back in its most upright position; and
 	- **(c)** the template is positioned in the vertical longitudinal plane that contains the H-point of the template.
@@ -6221,29 +5837,29 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 - **(6)** [Repealed, SOR/2008-72, s. 8]
 
-- **(7)** The portion of a user-ready tether anchorage in a vehicle that is designed to bind with the tether strap hook may be located outside the shaded zone referred to in subsection (5), if no part of the shaded zone is accessible without removing a seating component of the vehicle and the vehicle is equipped with a routing device that
+- **(7)** The portion of a user-ready tether anchorage in a vehicle that is designed to bind with the tether strap hook may be located outside the shaded zone referred to in subsection (5), if no part of the shaded zone is accessible without removing a seating component of the vehicle and the vehicle is equipped with a routing device that
 	- **(a)** ensures that the tether strap functions as if the portion of the anchorage designed to bind with the tether strap hook were located within the shaded zone;
-	- **(b)** is at least 65 mm behind the torso line, in the case of a non-rigid-webbing-type routing device or a deployable routing device, or at least 100 mm behind the torso line, in the case of a fixed rigid routing device; and
-	- **(c)** when tested after being installed as it is intended to be used, is of sufficient strength to withstand, with the user-ready tether anchorage, the force referred to in subsection (8).
+	- **(b)** is at least 65 mm behind the torso line, in the case of a non-rigid-webbing-type routing device or a deployable routing device, or at least 100 mm behind the torso line, in the case of a fixed rigid routing device; and
+	- **(c)** when tested after being installed as it is intended to be used, is of sufficient strength to withstand, with the user-ready tether anchorage, the force referred to in subsection (8).
 
 #### Strength Requirements
 
 
-- **(8)** Subject to subsection (10), every user-ready tether anchorage in a row of designated seating positions shall, when tested, withstand the application of a force of 10 000 N
+- **(8)** Subject to subsection (10), every user-ready tether anchorage in a row of designated seating positions shall, when tested, withstand the application of a force of 10 000 N
 	- **(a)** applied by means of one of the following types of test devices, installed as a child restraint system would be in accordance with the vehicle manufacturer’s installation instructions, namely,
-		- **(i)** a test device shown in Figures 12 to 16, or
-		- **(ii)** a test device shown in Figures 7 and 8 of section 210.2, in the case of a designated seating position having a lower universal anchorage system;
+		- **(i)** a test device shown in Figures 12 to 16, or
+		- **(ii)** a test device shown in Figures 7 and 8 of section 210.2, in the case of a designated seating position having a lower universal anchorage system;
 	- **(b)** applied
-		- **(i)** in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, and
+		- **(i)** in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, and
 		- **(ii)** initially, along a line above the horizontal line, at an angle of 10° ± 5° to it.
-	- **(c)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
-	- **(d)** maintained at a 10 000-N level for a minimum of one second.
+	- **(c)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
+	- **(d)** maintained at a 10 000-N level for a minimum of one second.
 
 - **(9)** [Repealed, SOR/2008-72, s. 8]
 
-- **(10)** If the zones in which tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems simultaneously, both portions of the tether anchorage that are designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) applied to both portions simultaneously.
+- **(10)** If the zones in which tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems simultaneously, both portions of the tether anchorage that are designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) applied to both portions simultaneously.
 
-- **(11)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one user-ready tether anchorage and a distance of 400 mm or more, measured in accordance with Figure 20, separates the midpoints of adjacent designated seating positions, the force referred to in subsection (8) or (10), as the case may be, shall be applied simultaneously to each user-ready tether anchorage in the manner specified in that subsection.
+- **(11)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one user-ready tether anchorage and a distance of 400 mm or more, measured in accordance with Figure 20, separates the midpoints of adjacent designated seating positions, the force referred to in subsection (8) or (10), as the case may be, shall be applied simultaneously to each user-ready tether anchorage in the manner specified in that subsection.
 
 - **(12)** The strength requirement tests shall be conducted with the vehicle seat adjusted to its full rearward and full downward position and the seat back in its most upright position.
 
@@ -6251,426 +5867,206 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 <table>
 <tr>
 <td>
-> Image: Diagram showing Interface Profile of Tether Strap Hook with measurements and descriptions.
+> Image: Diagram showing Interface Profile of Tether Strap Hook with measurements and descriptions
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1. Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2. Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>Figure 1 — Interface Profile of Tether Strap Hook</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover with a symbol of a child in a child seat and an anchor attached to the top of the child seat.
+> Image: Diagram showing Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover with a symbol of a child in a child seat and an anchor attached to the top of the child seat
+
+
+###### Notes
+
+- **1** Dimensions in mm
+- **2** Drawing not to scale
+- **3** Symbol may be embossed
+- **4** Colour of the symbol is at the option of the manufacturer
+- 
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1. Dimensions in mm</td>
-</tr>
-<tr>
-<td>2. Drawing not to scale</td>
-</tr>
-<tr>
-<td>3. Symbol may be embossed</td>
-</tr>
-<tr>
-<td>4. Colour of the symbol is at the option of the manufacturer</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>Figure 2 -- Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram of the Side View, User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Diagram of the Side View, User-ready Tether Anchorage Location with measurements and descriptions
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
+- **3** Drawing not to scale
+- **4** “R” Point: Shoulder reference point
+- **5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“R” Point: Shoulder reference point</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
-</tr>
-<tr>
-<td>6</td>
-<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td>7</td>
-<td>“M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 3 -- Side View, User-ready Tether Anchorage Location</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Diagram showing Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location with measurements and descriptions
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
+- **3** Drawing not to scale
+- **4** “R” Point: Shoulder reference point
+- **5** “V”: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“R” Point: Shoulder reference point</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“V”: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
-</tr>
-<tr>
-<td>6</td>
-<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td>7</td>
-<td>“M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 4 — Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Plan View (R-plane Cross Section), User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Diagram showing Plan View (R-plane Cross Section), User-ready Tether Anchorage Location with measurements and descriptions
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
+- **3** Drawing not to scale
+- **4** “R” Point: Shoulder reference point
+- **5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“R” Point: Shoulder reference point</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
-</tr>
-<tr>
-<td>6</td>
-<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 5 — Plan View (R-plane Cross Section), User-ready Tether Anchorage Location</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Front View, User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Diagram showing Front View, User-ready Tether Anchorage Location with measurements and descriptions
+
+
+###### Notes
+
+- **1** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
+- **2** Drawing not to scale
+- **3** “R” Point: Shoulder reference point
+- **4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
+- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>3</td>
-<td>“R” Point: Shoulder reference point</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 6 — Front View, User-ready Tether Anchorage Location</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Three-dimensional Schematic View of User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Diagram showing Three-dimensional Schematic View of User-ready Tether Anchorage Location with measurements and descriptions
+
+
+###### Notes
+
+- **1** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
+- **2** Drawing not to scale
+- **3** “R” Point: Shoulder reference point
+- **4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
+- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>3</td>
-<td>“R” Point: Shoulder reference point</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 7 — Three-dimensional Schematic View of User-ready Tether Anchorage Location</td>
 </tr>
 </table>
 Figures 8 to 11 [Repealed, SOR/2008-72, s. 8]
 
 
-> Image: Diagram showing Three-dimensional Schematic View of the Static Force Application Test Device.
+> Image: Diagram showing Three-dimensional Schematic View of the Static Force Application Test Device
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Side View, Static Force Application Test Device with measurements and descriptions.
+> Image: Diagram showing Side View, Static Force Application Test Device with measurements and descriptions
+
+
+###### Notes
+
+- **1** Material: 6061-T6-910 Aluminum
+- **2** Dimensions in mm, except where otherwise indicated
+- **3** Drawing not to scale
+- **4** Break all outside corners
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Material: 6061-T6-910 Aluminum</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Break all outside corners</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 13 -- Side View, Static Force Application Test Device</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Plan View, Static Force Application Test Device with measurements and descriptions.
+> Image: Diagram showing Plan View, Static Force Application Test Device with measurements and descriptions
+
+
+###### Notes
+
+- **1** Material: 6061-T6-910 Aluminum
+- **2** Dimensions in mm, except where otherwise indicated
+- **3** Drawing not to scale
+- **4** Break all outside corners and lightning hole edges approximately 1.5 mm
+- **5** Break edges of vehicle seat belt path holes at least 44 mm
+- **6** “B” = approximately 0.8 mm
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Material: 6061-T6-910 Aluminum</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Break all outside corners and lightning hole edges approximately 1.5 mm</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Break edges of vehicle seat belt path holes at least 44 mm</td>
-</tr>
-<tr>
-<td>6</td>
-<td>“B” = approximately 0.8 mm</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 14 -- Plan View, Static Force Application Test Device</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Front View, Static Force Application Test Device with measurements and descriptions.
+> Image: Diagram showing Front View, Static Force Application Test Device with measurements and descriptions
+
+
+###### Notes
+
+- **1** Material: 6061-T6-910 Aluminum
+- **2** Dimensions in mm, except where otherwise indicated
+- **3** Drawing not to scale
+- **4** “B” = approximately 0.8 mm
+- **5** “C” = approximately 3.2 mm
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Material: 6061-T6-910 Aluminum</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>“B” = approximately 0.8 mm</td>
-</tr>
-<tr>
-<td>5</td>
-<td>“C” = approximately 3.2 mm</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 15 -- Front View, Static Force Application Test Device</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Cross Bar, Static Force Application Test Device with measurements and descriptions.
+> Image: Diagram showing Cross Bar, Static Force Application Test Device with measurements and descriptions
+
+
+###### Notes
+
+- **1** Material: Steel
+- **2** Dimensions in mm, except where otherwise indicated
+- **3** Drawing not to scale
+- **4** Break all outside corners approximately 1.5 mm
+- **5** Surfaces and edges are not to be machined unless otherwise specified for tolerance
+- **6** Saw-cut or stock size material whenever possible
+- **7** Construction to be securely welded
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Material: Steel</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Break all outside corners approximately 1.5 mm</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Surfaces and edges are not to be machined unless otherwise specified for tolerance</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Saw-cut or stock size material whenever possible</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Construction to be securely welded</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 16 -- Cross Bar, Static Force Application Test Device</td>
 </tr>
 </table>
 Figures 17 and 18 [Repealed, SOR/2002-205, s. 3]
@@ -6681,38 +6077,22 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 <table>
 <tr>
 <td>
-> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
+> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions
+
+
+###### **Legend:**
+
+- **d =****centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**
+- **D =****distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**
+- **SgRP =****seating reference point**
+
+###### **Notes:**
+
+- **1** **Drawing not to scale**
+- **2** **The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**
+- **3** **The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**
+
 </td>
-</tr>
-<tr>
-<td>**Legend:**</td>
-</tr>
-<tr>
-<td>**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**</td>
-</tr>
-<tr>
-<td>**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**</td>
-</tr>
-<tr>
-<td>**SgRP = seating reference point**</td>
-</tr>
-<tr>
-<td>**Notes:**</td>
-</tr>
-<tr>
-<td>**1. Drawing not to scale**</td>
-</tr>
-<tr>
-<td>**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**</td>
-</tr>
-<tr>
-<td>**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>**Figure 20 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**</td>
 </tr>
 </table>
 
@@ -6728,11 +6108,11 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 **210.2** 
 
-- **(1)** Subject to subsection (2), this section applies to every
+- **(1)** Subject to subsection (2), this section applies to every
 	- **(a)** passenger car;
 	- **(a.1)** three-wheeled vehicle;
-	- **(b)** multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less;
-	- **(c)** bus, other than a school bus, with a GVWR of 4 536 kg or less; and
+	- **(b)** multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less;
+	- **(c)** bus, other than a school bus, with a GVWR of 4 536 kg or less; and
 	- **(d)** school bus.
 
 - **(2)** This section does not apply to
@@ -6740,8 +6120,8 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 	- **(b)** a bus that has only one row of forward-facing designated seating positions rearward of the driver’s seat;
 	- **(c)** a vehicle that is not equipped with a manual cut-off switch to deactivate the frontal air bag that is installed at the right front outboard designated seating position when any restraint system or booster cushion is installed and
 		- **(i)** has only one row of forward-facing designated seating positions,
-		- **(ii)** cannot accommodate, because of the location of transmission or suspension components, the installation of the bars of a lower universal anchorage system to permit the attachment to them of a child restraint fixture as shown in Figure 1 in a seating position located to the rear of the first row of seating positions, or
-		- **(iii)** has no seating position located to the rear of the first row of seating positions that is able to accommodate a child restraint fixture shown in Figures 2 to 4; or
+		- **(ii)** cannot accommodate, because of the location of transmission or suspension components, the installation of the bars of a lower universal anchorage system to permit the attachment to them of a child restraint fixture as shown in Figure 1 in a seating position located to the rear of the first row of seating positions, or
+		- **(iii)** has no seating position located to the rear of the first row of seating positions that is able to accommodate a child restraint fixture shown in Figures 2 to 4; or
 	- **(d)** a hearse.
 
 #### General
@@ -6749,13 +6129,13 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 - **(3)** A lower universal anchorage system consists of two straight horizontal bars that
 	- **(a)** are transverse to the longitudinal axis of the vehicle;
-	- **(b)** have a diameter of 6 mm ± 0.1 mm and a length, measured in accordance with Figure 12, of not less than 25 mm;
-	- **(c)** are parallel, with collinear centroidal longitudinal axes, and are spaced laterally so that they permit the lower connectors on a child restraint fixture, shown in Figures 2 to 4, to be attached to them over the entire length of the lower connectors;
+	- **(b)** have a diameter of 6 mm ± 0.1 mm and a length, measured in accordance with Figure 12, of not less than 25 mm;
+	- **(c)** are parallel, with collinear centroidal longitudinal axes, and are spaced laterally so that they permit the lower connectors on a child restraint fixture, shown in Figures 2 to 4, to be attached to them over the entire length of the lower connectors;
 	- **(d)** are an integral and permanent part of a vehicle seat or seat anchorage or the structure of the vehicle such that they can be removed only with the use of tools;
-	- **(e)** are rigidly attached to a vehicle seat or seat anchorage or the structure of the vehicle so that they will not deform more than 5 mm when subjected to a force of 100 N in any direction with the vehicle seat adjusted in the vehicle to its full rearward and full downward position and the seat back adjusted in the nominal design riding position; and
-	- **(f)** permit a checking device to be attached to them over the entire width of the checking device, with a gap of less than 1 mm between the surface of the bars and line M, shown in Figure 5.
+	- **(e)** are rigidly attached to a vehicle seat or seat anchorage or the structure of the vehicle so that they will not deform more than 5 mm when subjected to a force of 100 N in any direction with the vehicle seat adjusted in the vehicle to its full rearward and full downward position and the seat back adjusted in the nominal design riding position; and
+	- **(f)** permit a checking device to be attached to them over the entire width of the checking device, with a gap of less than 1 mm between the surface of the bars and line M, shown in Figure 5.
 
-- **(4)** Subject to subsections (7) and (8), a lower universal anchorage system shall be installed
+- **(4)** Subject to subsections (7) and (8), a lower universal anchorage system shall be installed
 	- **(a)** in one forward-facing designated seating position, other than that of the driver, in a vehicle that has only one row of forward-facing designated seating positions;
 	- **(b)** in two forward-facing designated seating positions in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
 	- **(c)** in two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multi-purpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions;
@@ -6768,9 +6148,9 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 - **(6)** A lower universal anchorage system shall be installed only at a designated seating position that is equipped with a user-ready tether anchorage, except in the case of a convertible or an open-body type vehicle.
 
-- **(7)** The number of lower universal anchorage systems required in a vehicle under subsection (4) may be reduced by the number of built-in child restraint systems installed in the vehicle.
+- **(7)** The number of lower universal anchorage systems required in a vehicle under subsection (4) may be reduced by the number of built-in child restraint systems installed in the vehicle.
 
-- **(8)** Except in the case of a bus, if the distance between the rearward surface of the front seat back and the forward surface of the rear seat back is less than 720 mm, as measured in accordance with Figure 6, a lower universal anchorage system may be installed in a designated passenger seating position in the first row of designated seating positions instead of in the second row of designated seating positions if the vehicle is equipped with the manual cut-off switch referred to in paragraph (2)(c).
+- **(8)** Except in the case of a bus, if the distance between the rearward surface of the front seat back and the forward surface of the rear seat back is less than 720 mm, as measured in accordance with Figure 6, a lower universal anchorage system may be installed in a designated passenger seating position in the first row of designated seating positions instead of in the second row of designated seating positions if the vehicle is equipped with the manual cut-off switch referred to in paragraph (2)(c).
 
 - **(9)** A vehicle that is equipped with a seat that slides sideways or that can be installed in any other seating position in the vehicle shall meet the requirements of this section with the seat adjusted in any adjustment position.
 
@@ -6779,75 +6159,75 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 #### Lower Universal Anchorage System Positioning
 
 
-- **(11)** Each bar of the lower universal anchorage system shall be installed so that a child restraint fixture can be attached to the system as shown in Figure 1.
+- **(11)** Each bar of the lower universal anchorage system shall be installed so that a child restraint fixture can be attached to the system as shown in Figure 1.
 
-- **(12)** For the purposes of subsection (11), the vehicle seat shall be adjusted to its full rearward and full downward position, with the seat back in the nominal design riding position and the child restraint fixture shown in Figures 2 and 3 or in Figure 4 installed in the seat.
+- **(12)** For the purposes of subsection (11), the vehicle seat shall be adjusted to its full rearward and full downward position, with the seat back in the nominal design riding position and the child restraint fixture shown in Figures 2 and 3 or in Figure 4 installed in the seat.
 
 #### Strength Requirements
 
 
 - **(13)** A lower universal anchorage system installed in a row of designated seating positions shall not separate completely from the vehicle seat or seat anchorage or the structure of the vehicle when tested
-	- **(a)** subject to subsection (15), by pulling with a force of 15 000 N, which force is
-		- **(i)** applied by means of a test device shown in Figures 7 and 8 that is installed using both the associated user-ready tether anchorage and the lower universal anchorage system as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions,
-		- **(ii)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N,
+	- **(a)** subject to subsection (15), by pulling with a force of 15 000 N, which force is
+		- **(i)** applied by means of a test device shown in Figures 7 and 8 that is installed using both the associated user-ready tether anchorage and the lower universal anchorage system as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions,
+		- **(ii)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N,
 		- **(iii)** applied initially, along a line above the horizontal line, at an angle of 10° ± 5° to it,
-		- **(iv)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s, and
-		- **(v)** maintained at a level of 15 000 N for a minimum of one second; and
-	- **(b)** by pulling with a force of 5 000 N, which force is
-		- **(i)** applied by means of a test device shown in Figures 7 and 8 that is installed as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions using both the user ready tether anchorage and the lower universal anchorage system or, at the manufacturer’s option, using only the lower universal anchorage system,
-		- **(ii)** applied along a vertical longitudinal plane that is at an angle of 75º ± 5º to either side of a vertical longitudinal plane that is parallel to the vehicle’s longitudinal centre line, through the X point on the test device, starting with a pre-load force of 500 N,
+		- **(iv)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s, and
+		- **(v)** maintained at a level of 15 000 N for a minimum of one second; and
+	- **(b)** by pulling with a force of 5 000 N, which force is
+		- **(i)** applied by means of a test device shown in Figures 7 and 8 that is installed as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions using both the user ready tether anchorage and the lower universal anchorage system or, at the manufacturer’s option, using only the lower universal anchorage system,
+		- **(ii)** applied along a vertical longitudinal plane that is at an angle of 75º ± 5º to either side of a vertical longitudinal plane that is parallel to the vehicle’s longitudinal centre line, through the X point on the test device, starting with a pre-load force of 500 N,
 		- **(iii)** applied initially, along a horizontal line or along any line below or above that line that is at an angle to that line of not more than 5°,
-		- **(iv)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s, and
-		- **(v)** maintained at a level of 5 000 N for a minimum of 1 second.
+		- **(iv)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s, and
+		- **(v)** maintained at a level of 5 000 N for a minimum of 1 second.
 
-- **(14)** When a force of 5 000 N is applied in accordance with paragraph (13)(b), the lower universal anchorage system shall not permit the X point on the test device to be displaced in the direction of the applied force by more than 125 mm if the test device is installed in an outboard designated seating position or by more than 150 mm if the test device is installed in an inboard designated seating position.
+- **(14)** When a force of 5 000 N is applied in accordance with paragraph (13)(b), the lower universal anchorage system shall not permit the X point on the test device to be displaced in the direction of the applied force by more than 125 mm if the test device is installed in an outboard designated seating position or by more than 150 mm if the test device is installed in an inboard designated seating position.
 
-- **(15)** A lower universal anchorage system installed in a designated seating position that is not equipped with an associated user-ready tether anchorage shall be tested by the application of a force of 11 000 N that is
-	- **(a)** applied by means of a test device shown in Figures 7 and 8 that is installed using only the lower universal anchorage system;
-	- **(b)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N;
+- **(15)** A lower universal anchorage system installed in a designated seating position that is not equipped with an associated user-ready tether anchorage shall be tested by the application of a force of 11 000 N that is
+	- **(a)** applied by means of a test device shown in Figures 7 and 8 that is installed using only the lower universal anchorage system;
+	- **(b)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N;
 	- **(c)** applied initially, along a line above the horizontal line, at an angle of 10° ± 5° to it;
-	- **(d)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
-	- **(e)** maintained at a level of 11 000 N for a minimum of one second.
+	- **(d)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
+	- **(e)** maintained at a level of 11 000 N for a minimum of one second.
 
 #### Test Requirements
 
 
-- **(16)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one lower universal anchorage system and a distance of 400 mm or more, measured in accordance with Figure 9, separates the midpoints of any adjacent designated seating positions, the force referred to in subsection (13) or (15) shall be applied simultaneously to each anchorage system in the manner specified in that subsection.
+- **(16)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one lower universal anchorage system and a distance of 400 mm or more, measured in accordance with Figure 9, separates the midpoints of any adjacent designated seating positions, the force referred to in subsection (13) or (15) shall be applied simultaneously to each anchorage system in the manner specified in that subsection.
 
 - **(17)** The strength requirement tests shall be carried out under the following conditions:
 	- **(a)** the vehicle seat is installed in the vehicle;
 	- **(b)** the vehicle seat is adjusted to its full rearward and full downward position;
 	- **(c)** the vehicle seat back is adjusted in the nominal design riding position;
 	- **(d)** the head restraints, if installed at a designated seating position that is equipped with a lower universal anchorage system, are adjusted in accordance with the manufacturer’s instructions; and
-	- **(e)** a rearward force of 135 N ± 15 N is applied to the centre of the lower front crossbar of the test device shown in Figures 7 and 8 to press the test device against the seat back as the position of the lower connectors of the test device is adjusted to remove slack or tension.
+	- **(e)** a rearward force of 135 N ± 15 N is applied to the centre of the lower front crossbar of the test device shown in Figures 7 and 8 to press the test device against the seat back as the position of the lower connectors of the test device is adjusted to remove slack or tension.
 
-- **(17.1)** Despite subsection (17), in the case of a bus, the strength requirement tests may be carried out when the vehicle seat is not installed in the vehicle if
-	- **(a)** the user-ready tether anchorage is installed on the vehicle seat in accordance with the tether anchorage positioning requirements of section 210.1 for a designated seating position of the vehicle;
+- **(17.1)** Despite subsection (17), in the case of a bus, the strength requirement tests may be carried out when the vehicle seat is not installed in the vehicle if
+	- **(a)** the user-ready tether anchorage is installed on the vehicle seat in accordance with the tether anchorage positioning requirements of section 210.1 for a designated seating position of the vehicle;
 	- **(b)** the structure on which the seat is installed, the seat anchorage and all associated hardware are equivalent to those used when the vehicle seat is installed in the vehicle; and
-	- **(c)** a rearward force of 135 N ± 15 N is applied to the centre of the lower front crossbar of the test device shown in Figures 7 and 8 to press the test device against the seat back as the position of the lower connectors of the test device is adjusted to remove slack or tension.
+	- **(c)** a rearward force of 135 N ± 15 N is applied to the centre of the lower front crossbar of the test device shown in Figures 7 and 8 to press the test device against the seat back as the position of the lower connectors of the test device is adjusted to remove slack or tension.
 
 #### Information Respecting Lower Universal Anchorage Systems
 
 
-- **(18)** Subject to subsections (19) and (20), if a lower universal anchorage system is not visible along a line making an upward angle of at least 30° with the horizontal plane without compression of the seat cushion or seat back of the seating position, the presence of each bar of the system shall be indicated by the symbol shown in Figure 10, consisting of a circle containing a pictogram, which symbol shall meet the following conditions:
+- **(18)** Subject to subsections (19) and (20), if a lower universal anchorage system is not visible along a line making an upward angle of at least 30° with the horizontal plane without compression of the seat cushion or seat back of the seating position, the presence of each bar of the system shall be indicated by the symbol shown in Figure 10, consisting of a circle containing a pictogram, which symbol shall meet the following conditions:
 	- **(a)** the pictogram shall contrast with the background of the circle;
 	- **(b)** the circle shall contrast with its background, namely, the seat back or seat cushion of the vehicle;
-	- **(c)** its centre shall be located no more than 25 mm from the vertical longitudinal plane that passes through the centre of each bar of the system;
-	- **(d)** it shall be marked on the seat back or on the seat cushion of the vehicle in accordance with Figure 11; and
+	- **(c)** its centre shall be located no more than 25 mm from the vertical longitudinal plane that passes through the centre of each bar of the system;
+	- **(d)** it shall be marked on the seat back or on the seat cushion of the vehicle in accordance with Figure 11; and
 	- **(e)** it shall be permanently marked by any means in a manner that makes it impossible to remove without defacing or destruction.
 
-- **(19)** In the case of a foldable lower universal anchorage system, its presence shall be indicated by the symbol shown in Figure 10 marked in accordance with subsection (18) or marked on the mechanism for deploying each bar of the foldable system and visible at the junction of the seat back and the seat cushion when the system is in the folded position.
+- **(19)** In the case of a foldable lower universal anchorage system, its presence shall be indicated by the symbol shown in Figure 10 marked in accordance with subsection (18) or marked on the mechanism for deploying each bar of the foldable system and visible at the junction of the seat back and the seat cushion when the system is in the folded position.
 
-- **(20)** In the case of a lower universal anchorage system hidden by one or more covers, its presence may be indicated by the symbol shown in Figure 10 marked on each cover in the following cases:
+- **(20)** In the case of a lower universal anchorage system hidden by one or more covers, its presence may be indicated by the symbol shown in Figure 10 marked on each cover in the following cases:
 	- **(a)** the covers are not entirely removable; or
-	- **(b)** the system is visible in accordance with subsection (18) if the covers are entirely removed.
+	- **(b)** the system is visible in accordance with subsection (18) if the covers are entirely removed.
 
 - **(21)** [Repealed, SOR/2008-72, s. 9]
 
 - **(22)** The English and French versions of the owner’s manual for a vehicle that is equipped with a lower universal anchorage system shall contain the following information:
-	- **(a)** if the symbol shown in Figure 10 is marked on a seat back, seat cushion or cover over the lower universal anchorage system, an explanation that the symbol indicates the presence of a lower universal anchorage system, and a reproduction of the symbol;
-	- **(b)** [Repealed, SOR/2008-72, s. 9]
-	- **(c)** an identification, by means of the symbol shown in Figure 10 or any other mark used to indicate the presence of a lower universal anchorage system, as applicable, of the designated seating positions that are equipped with a lower universal anchorage system;
+	- **(a)** if the symbol shown in Figure 10 is marked on a seat back, seat cushion or cover over the lower universal anchorage system, an explanation that the symbol indicates the presence of a lower universal anchorage system, and a reproduction of the symbol;
+	- **(b)** [Repealed, SOR/2008-72, s. 9]
+	- **(c)** an identification, by means of the symbol shown in Figure 10 or any other mark used to indicate the presence of a lower universal anchorage system, as applicable, of the designated seating positions that are equipped with a lower universal anchorage system;
 	- **(d)** if the vehicle is equipped with a foldable system, instructions on how to deploy the system;
 	- **(e)** if the vehicle is equipped with head restraints at the seating positions equipped with a lower universal anchorage system, instructions on the correct manner of adjusting the head restraints for use with user-ready tether anchorages;
 	- **(f)** if the vehicle has more than one row of designated seating positions, a statement that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position; and
@@ -6857,323 +6237,169 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 <table>
 <tr>
 <td>
-> Image: Diagram showing Lower Universal Anchorage System Positioning with measurements and description.
+> Image: Diagram showing Lower Universal Anchorage System Positioning with measurements and description
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 1 — Lower Universal Anchorage System Positioning</td>
 </tr>
 </table>
 
-> Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture.
+> Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Side, Back and Top Views of Child Restraint Fixture with measurements and description.
+> Image: Diagram showing Side, Back and Top Views of Child Restraint Fixture with measurements and description
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 3 — Side, Back and Top Views of Child Restraint Fixture</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed with measurements and description.
+> Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed with measurements and description
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 4 — Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions with measurements and description.
+> Image: Diagram showing Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions with measurements and description
+
+
+###### Notes:
+
+- **1** Dimensions in mm, except where otherwise indicated
+- **2** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Notes:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 5 — Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Distance Between Rows of Designated Seating Positions with measurements.
+> Image: Diagram showing Distance Between Rows of Designated Seating Positions with measurements
+
+
+###### Legend
+
+- **1** Highest point of the rear seat cushion in the vertical longitudinal plane that passes through the centre of the driver’s seat cushion, if the vehicle is equipped with front bucket seats, or through the centre of the steering wheel rim, if the vehicle is equipped with a front bench seat
+- **2** Longitudinal horizontal line tangent to point 1, extending between point 3 and point 4. The length of line 2 is defined as L<sub>CR</sub>
+- **3** Rearward surface of the front seat back along line 2
+- **4** Forward surface of the rear seat back along line 2
+- **5** L<sub>CR</sub> - The distance between the rearward surface of the front seat back and the forward surface of the rear seat back
+
+###### Notes
+
+- **1** Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions and, if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost positions, the closest adjustment position to the rear of the midpoint is used.
+- **2** Place adjustable seat backs in the nominal design riding position as recommended by the manufacturer, in the manner specified by the manufacturer. Place adjustable anchorages in the nominal design riding position recommended by the manufacturer for a 50th percentile adult male occupant. Place each adjustable head restraint in its highest adjustment position. Adjustable lumbar supports are positioned so that the lumbar support is in its least firm adjustment position.
+
 </td>
-</tr>
-<tr>
-<td>Legend</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Highest point of the rear seat cushion in the vertical longitudinal plane that passes through the centre of the driver’s seat cushion, if the vehicle is equipped with front bucket seats, or through the centre of the steering wheel rim, if the vehicle is equipped with a front bench seat</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Longitudinal horizontal line tangent to point 1, extending between point 3 and point 4. The length of line 2 is defined as L<sub>CR</sub></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Rearward surface of the front seat back along line 2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Forward surface of the rear seat back along line 2</td>
-</tr>
-<tr>
-<td>5</td>
-<td>L<sub>CR</sub> - The distance between the rearward surface of the front seat back and the forward surface of the rear seat back</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions and, if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost positions, the closest adjustment position to the rear of the midpoint is used.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Place adjustable seat backs in the nominal design riding position as recommended by the manufacturer, in the manner specified by the manufacturer. Place adjustable anchorages in the nominal design riding position recommended by the manufacturer for a 50th percentile adult male occupant. Place each adjustable head restraint in its highest adjustment position. Adjustable lumbar supports are positioned so that the lumbar support is in its least firm adjustment position.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 6 — Distance Between Rows of Designated Seating Positions</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test with measurements and descriptions.
+> Image: Diagram showing Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test with measurements and descriptions
+
+
+###### Notes
+
+- **1** Dimensions in mm, except where otherwise indicated.
+- **2** Drawing not to scale.
+- **3** Material: Unless otherwise indicated, steel, mild steel rectangular tubing 50 mm by 75 mm of 3 mm nominal thickness, with 6 mm thick force application test device attachment point plate.
+- **4** Securely welded construction.
+- **5** Pin dimensions: overall height: 16 mm; small diameter height: 6.75 mm; large diameter: 10 mm; small diameter: 8 mm.
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Dimensions in mm, except where otherwise indicated.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Drawing not to scale.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Material: Unless otherwise indicated, steel, mild steel rectangular tubing 50 mm by 75 mm of 3 mm nominal thickness, with 6 mm thick force application test device attachment point plate.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Securely welded construction.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Pin dimensions: overall height: 16 mm; small diameter height: 6.75 mm; large diameter: 10 mm; small diameter: 8 mm.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 7 — Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test</td>
 </tr>
 </table>
 
-> Image: Diagram showing Three-dimensional Schematic Views of the Static Force Application Test Device for Strength Requirements Test.
+> Image: Diagram showing Three-dimensional Schematic Views of the Static Force Application Test Device for Strength Requirements Test
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
+> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions
+
+
+###### Legend:
+
+- **d =** centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)
+- **D =** distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position
+- **SgRP =** seating reference point
+
+###### Notes:
+
+- **1** Drawing not to scale
+- **2** The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position
+- **3** The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes
+
 </td>
-</tr>
-<tr>
-<td>Legend:</td>
-</tr>
-<tr>
-<td>d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)</td>
-</tr>
-<tr>
-<td>D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position</td>
-</tr>
-<tr>
-<td>SgRP = seating reference point</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Notes:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td>2</td>
-<td>The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position</td>
-</tr>
-<tr>
-<td>3</td>
-<td>The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 9 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Lower Universal Anchorage System Symbol with measurements.
+> Image: Diagram showing Lower Universal Anchorage System Symbol with measurements
+
+
+###### Notes
+
+- **1** Drawing not to scale.
+- **2** Symbol may be shown in mirror image.
+- **3** Colour of the symbol at choice of manufacturer.
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Symbol may be shown in mirror image.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Colour of the symbol at choice of manufacturer.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 10 — Lower Universal Anchorage System Symbol</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle with measurements and descriptions.
+> Image: Diagram showing Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle with measurements and descriptions
+
+
+###### Notes
+
+- **1** Drawing not to scale.
+- **2** 50 mm ≤ a ≤ 100 mm.
+- **3** b = 100 mm ± 25 mm.
+
 </td>
-</tr>
-<tr>
-<td>Notes</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>50 mm ≤ a ≤ 100 mm.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>b = 100 mm ± 25 mm.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 11 — Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Width of Lower Universal Anchorage Bar, Top View with measurement.
+> Image: Diagram showing Width of Lower Universal Anchorage Bar, Top View with measurement
+Note: Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Note: Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 12 — Width of Lower Universal Anchorage Bar, Top View</td>
 </tr>
 </table>
 
@@ -7190,18 +6416,18 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 **212** 
 
 - **(1)** This section does not apply to
-	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536  kg; or
+	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536 kg; or
 	- **(b)** forward control configuration vehicles, walk-in vans or open-body type vehicles with fold down or removable windshields.
 
 - **(2)** A vehicle to which this section applies shall be tested
-	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
-	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(3)** During the test referred to in subsection (2), the vehicle shall retain
+- **(3)** During the test referred to in subsection (2), the vehicle shall retain
 	- **(a)** not less than 50 per cent of the windshield periphery on each side of the vehicle longitudinal centre line, if equipped with an air bag at a front designated seating position; and
 	- **(b)** not less than 75 per cent of the windshield periphery, if not equipped with an air bag at a front designated seating position.
 
-- **(4)** The test referred to in subsection (2) shall be conducted on the windshield mounting material and on all vehicle components in direct contact with the mounting material at a temperature that is not less than –9°C and not more than 43°C.
+- **(4)** The test referred to in subsection (2) shall be conducted on the windshield mounting material and on all vehicle components in direct contact with the mounting material at a temperature that is not less than –9°C and not more than 43°C.
 
 - **(5) to (8)** [Repealed, SOR/2009-121, s. 3]
 > SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F); SOR/2009-121, s. 3..
@@ -7217,88 +6443,88 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 **213.4** 
 
 - **(1)** Every built-in child restraint system and built-in booster cushion, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007) in any of the positions that the system, cushion, or vehicle seat can be used while the vehicle is in motion, shall,
-	- **(a)** exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces that have a radius of less than 6.4 mm (1/4 inch) or surfaces that have protrusions greater than 9.5 mm (3/8 inch) above the immediate adjacent surrounding contactable surface of any structural element of the system;
+	- **(a)** exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces that have a radius of less than 6.4 mm (¼ inch) or surfaces that have protrusions greater than 9.5 mm (3/8 inch) above the immediate adjacent surrounding contactable surface of any structural element of the system;
 	- **(b)** remain in the same adjustment position during the testing as it was immediately before the testing began, where the system is adjustable to different positions; and
-	- **(c)** be constructed only of materials that conform to the requirements of section 302.
+	- **(c)** be constructed only of materials that conform to the requirements of section 302.
 
-- **(2)** Every built-in child restraint system when tested in accordance with subsection (1) shall, subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that has
-	- **(a)** a height, measured along the system seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the child restraint system from the lowest point on the system seating surface that is contactable by the buttocks of the seated anthropomorphic test device, of at least 500 mm (20 inches); and
-	- **(b)** a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 500 mm (20 inches) specified in paragraph (a).
+- **(2)** Every built-in child restraint system when tested in accordance with subsection (1) shall, subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that has
+	- **(a)** a height, measured along the system seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the child restraint system from the lowest point on the system seating surface that is contactable by the buttocks of the seated anthropomorphic test device, of at least 500 mm (20 inches); and
+	- **(b)** a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 500 mm (20 inches) specified in paragraph (a).
 
-- **(3)** Every built-in rear facing child restraint system, when tested in accordance with subsection (1) shall
+- **(3)** Every built-in rear facing child restraint system, when tested in accordance with subsection (1) shall
 	- **(a)** not allow the angle between the system’s back support surface and the vertical to exceed 70° at any time during impact simulation; and
 	- **(b)** retain all portions of the anthropometric test device within the system so that no portion of the target point on either side of the device’s head passes through the transverse orthogonal planes whose intersection contains the forward-most and top-most points on the built-in child restraint system surfaces.
 
-- **(4)** Every built-in booster cushion, when tested in accordance with subsection (1) shall
-	- **(a)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the cushion and that
-		- **(i)** has a height, measured along the cushion seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the cushion from the lowest point on the cushion seating surface that is contactable by the buttocks of the seated anthropometric test device, of at least 560 mm (22 inches), and
-		- **(ii)** has a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 560 mm (22 inches) specified in subparagraph (i); and
-	- **(b)** limit to no more than 305 mm (12 inches) from the initial position the distance either knee pivot can extend in the forward longitudinal direction.
+- **(4)** Every built-in booster cushion, when tested in accordance with subsection (1) shall
+	- **(a)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the cushion and that
+		- **(i)** has a height, measured along the cushion seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the cushion from the lowest point on the cushion seating surface that is contactable by the buttocks of the seated anthropometric test device, of at least 560 mm (22 inches), and
+		- **(ii)** has a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 560 mm (22 inches) specified in subparagraph (i); and
+	- **(b)** limit to no more than 305 mm (12 inches) from the initial position the distance either knee pivot can extend in the forward longitudinal direction.
 
-- **(5)** Every front-facing built-in child restraint system and built-in booster cushion, when tested in accordance with subsection (1), shall
+- **(5)** Every front-facing built-in child restraint system and built-in booster cushion, when tested in accordance with subsection (1), shall
 	- **(a)** not allow the angle between the system’s or cushion’s back support surface and the system’s or cushion’s seating surface to be less than 45° at the completion of the test;
-	- **(b)** limit the resultant acceleration at the location of the accelerometer mounted in the anthropometric test device upper thorax to not more than 60 g, except for intervals of acceleration the cumulative duration of which is not more than 3 ms;
-	- **(c)** limit to not more than 80 g the maximum resultant acceleration of the centre of gravity of the head of the anthropometric test device during forward movement, except where it has been established that the maximum resultant acceleration above 80 g is caused by another part of the anthropometric test device striking its head; and
-	- **(d)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that limits the rearward rotation of the anthropomorphic test device’s head so that the angle between the head and the torso is at no time during the impact testing greater than 45° as compared to the head-torso angle prior to the test.
+	- **(b)** limit the resultant acceleration at the location of the accelerometer mounted in the anthropometric test device upper thorax to not more than 60 g, except for intervals of acceleration the cumulative duration of which is not more than 3 ms;
+	- **(c)** limit to not more than 80 g the maximum resultant acceleration of the centre of gravity of the head of the anthropometric test device during forward movement, except where it has been established that the maximum resultant acceleration above 80 g is caused by another part of the anthropometric test device striking its head; and
+	- **(d)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that limits the rearward rotation of the anthropomorphic test device’s head so that the angle between the head and the torso is at no time during the impact testing greater than 45° as compared to the head-torso angle prior to the test.
 
-- **(6)** Notwithstanding the requirements of paragraph (2)(a), a built-in child restraint system with side supports extending at least 100 mm (4 inches) forward from the padded surface of the portion of the restraint system provided for support of the child’s head shall have a width of not less than 150 mm (6 inches), measured in the horizontal plane at the height of 500 mm (20 inches).
+- **(6)** Notwithstanding the requirements of paragraph (2)(a), a built-in child restraint system with side supports extending at least 100 mm (4 inches) forward from the padded surface of the portion of the restraint system provided for support of the child’s head shall have a width of not less than 150 mm (6 inches), measured in the horizontal plane at the height of 500 mm (20 inches).
 
-- **(7)** Every built-in child restraint system shall provide a surface for the support of the child’s back that has a continuous surface area of not less than 54 800 mm<sup>2</sup> (85 square inches).
+- **(7)** Every built-in child restraint system shall provide a surface for the support of the child’s back that has a continuous surface area of not less than 54 800 mm<sup>2</sup> (85 square inches).
 
-- **(8)** Where a built-in child restraint system provides surfaces for the support of the child’s torso, these surfaces shall have a continuous surface area of not less than 15 250 mm<sup>2</sup> (24 square inches) for each surface.
+- **(8)** Where a built-in child restraint system provides surfaces for the support of the child’s torso, these surfaces shall have a continuous surface area of not less than 15 250 mm<sup>2</sup> (24 square inches) for each surface.
 
 - **(9)** Except for surfaces designed to restrain a child, no built-in child restraint system shall have a fixed or movable surface that
 	- **(a)** is directly in front of the child; or
 	- **(b)** may come into contact with the child when the system is in use.
 
-- **(10)** Each horizontal cross-section of each built-in child restraint system surface that is designed to restrain forward movement of the child’s torso shall be flat or concave and each vertical longitudinal cross-section shall be flat or convex with a radius of curvature of the underlying structure of not less than 50 mm (2 inches).
+- **(10)** Each horizontal cross-section of each built-in child restraint system surface that is designed to restrain forward movement of the child’s torso shall be flat or concave and each vertical longitudinal cross-section shall be flat or convex with a radius of curvature of the underlying structure of not less than 50 mm (2 inches).
 
-- **(11)** No portion of a rigid structural component within or underlying a contactable surface of a built-in child restraint system or a built-in booster cushion shall, with any padding or other flexible overlay material removed, have a height of more than 9.5 mm (3/8 inch) above any immediately adjacent restraint system surface or any exposed edge with a radius of less than 6.4 mm (1/4 inch).
+- **(11)** No portion of a rigid structural component within or underlying a contactable surface of a built-in child restraint system or a built-in booster cushion shall, with any padding or other flexible overlay material removed, have a height of more than 9.5 mm (3/8 inch) above any immediately adjacent restraint system surface or any exposed edge with a radius of less than 6.4 mm (¼ inch).
 
 - **(12)** The webbing of belts that are provided with a built-in child restraint system and used to restrain a child within the system shall
 	- **(a)** after being subjected to abrasion as specified in section S5.3(c) of TSD 209 have a breaking strength of not less than 75 per cent of the strength of the unabraded webbing;
-	- **(b)** meet the requirements of sections S4.2(e) and (f) of TSD 209 and subsections 209(4) to (7) of Schedule IV to these Regulations; and
-	- **(c)** if contactable by the torso of the anthropometric test device when the system is tested dynamically, have a width of not less than 38 mm (11/2 inches) when measured as specified in section S5.1(a) of TSD 209.
+	- **(b)** meet the requirements of sections S4.2(e) and (f) of TSD 209 and subsections 209(4) to (7) of Schedule IV to these Regulations; and
+	- **(c)** if contactable by the torso of the anthropometric test device when the system is tested dynamically, have a width of not less than 38 mm (1½ inches) when measured as specified in section S5.1(a) of TSD 209.
 
 - **(13)** Every belt buckle and item of belt adjustment hardware used in a built-in child restraint system shall conform to the requirements of sections S4.3(a)(1) and (2) and S4.3(b) and (g) of TSD 209.
 
 - **(14)** Any buckle of a built-in child restraint system belt assembly that is designed to restrain a child shall in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007),
 	- **(a)** before dynamic testing,
-		- **(i)** not release when a force of less than 40 N (9 pounds) is applied, and
-		- **(ii)** release where a force of 40 N (9 pounds) to 62 N (14 pounds) is applied;
-	- **(b)** after dynamic testing, release where a force of not more than 71 N (16 pounds) is applied; and
-	- **(c)** have a push button to be used for applying the release force with a minimum surface area of 385 mm<sup>2</sup> (0.6 square inch) and with a minimum linear dimension of 10 mm (0.4 inch).
+		- **(i)** not release when a force of less than 40 N (9 pounds) is applied, and
+		- **(ii)** release where a force of 40 N (9 pounds) to 62 N (14 pounds) is applied;
+	- **(b)** after dynamic testing, release where a force of not more than 71 N (16 pounds) is applied; and
+	- **(c)** have a push button to be used for applying the release force with a minimum surface area of 385 mm<sup>2</sup> (0.6 square inch) and with a minimum linear dimension of 10 mm (0.4 inch).
 
 - **(15)** Every belt that is part of a built-in child restraint system and that is designed to restrain the child
-	- **(a)** shall be adjustable to snugly fit any child whose height and weight are within the ranges recommended in accordance with paragraph (17)(a) and who is positioned in the system in accordance with the instructions required by subsection (19); and
+	- **(a)** shall be adjustable to snugly fit any child whose height and weight are within the ranges recommended in accordance with paragraph (17)(a) and who is positioned in the system in accordance with the instructions required by subsection (19); and
 	- **(b)** shall not, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), impose on the child any loads that result from the mass of the system, or from the mass of any part of the vehicle into which the child restraint system is built.
 
 - **(16)** Every built-in child restraint system shall, when the anthropometric test device is positioned in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), provide
 	- **(a)** upper torso restraint in the form of
 		- **(i)** belts passing over each shoulder of the anthropometric test device,
-		- **(ii)** a fixed or movable surface that complies with subsection (10), or
+		- **(ii)** a fixed or movable surface that complies with subsection (10), or
 		- **(iii)** in the case of a rear-facing child restraint system, a single diagonal belt passing over one shoulder or belts passing over each shoulder or the anthropometric test device;
 	- **(b)** lower torso restraint in the form of
 		- **(i)** a lap belt assembly making an angle between 45° and 90° with the built-in child restrain system seating surface at the lap belt attachment points, or
-		- **(ii)** a fixed or movable surface that complies with subsection (10), and
+		- **(ii)** a fixed or movable surface that complies with subsection (10), and
 	- **(c)** if a front-facing built-in child restraint system, crotch restraint in the form of
 		- **(i)** a crotch belt connectable to the lap belt or other device used to restrain the lower torso, or
-		- **(ii)** a fixed or movable surface that complies with subsection (10).
+		- **(ii)** a fixed or movable surface that complies with subsection (10).
 
-- **(17)** Every built-in child restraint system and built-in booster cushion shall have indelibly printed on them, or otherwise permanently affixed to them, a label in both English and French, in a prominent location in letters and numerals of not less than 10 point and on a contrasting background,
+- **(17)** Every built-in child restraint system and built-in booster cushion shall have indelibly printed on them, or otherwise permanently affixed to them, a label in both English and French, in a prominent location in letters and numerals of not less than 10 point and on a contrasting background,
 	- **(a)** a statement indicating
 		- **(i)** in the case of a built-in child restraint system, the weight and height range of the children for whom it is designed, as recommended by the manufacturer, and
-		- **(ii)** in the case of a built-in booster cushion, that it is for use by persons who weigh at least 18 kg (40 pounds) and who are at least the minimum height recommended by the manufacturer;
+		- **(ii)** in the case of a built-in booster cushion, that it is for use by persons who weigh at least 18 kg (40 pounds) and who are at least the minimum height recommended by the manufacturer;
 	- **(b)** a statement warning that failure to follow the manufacturer’s instructions on the use of the system or the cushion can result in the person striking the vehicle’s interior during a sudden stop or crash;
 	- **(c)** in the case of a built-in child restraint system that has belts designed to restrain the child, a statement to adjust snugly the belts provided with the system around the child; and
 	- **(d)** in the case of a rear-facing built-in child restraint system, a statement indicating that the child be placed in the rear-facing position.
 
-- **(18)** The weights and heights referred to in paragraph (17)(a) shall be expressed with the metric measurements stated first, followed by the equivalent imperial measurements in parentheses.
+- **(18)** The weights and heights referred to in paragraph (17)(a) shall be expressed with the metric measurements stated first, followed by the equivalent imperial measurements in parentheses.
 
 - **(19)** Every built-in child restraint system and built-in booster cushion shall be accompanied by printed instructions in both English and French that provide a step-by-step procedure, including appropriate diagrams, for using the built-in child restraint system or built-in booster cushion, for positioning a person in the system or on the cushion, for adjusting the belts provided and, if applicable, for adjusting the restraint harness to fit the person.
 
-- **(20)** The instructions referred to in subsection (19) shall
-	- **(a)** explain the immediate consequences of not following the instructions for proper use of the child restraint system in accordance with subsections (17) and (19); and
+- **(20)** The instructions referred to in subsection (19) shall
+	- **(a)** explain the immediate consequences of not following the instructions for proper use of the child restraint system in accordance with subsections (17) and (19); and
 	- **(b)** in the case of a seat with a built-in child restraint system or built-in booster cushion that is removable from the vehicle by means of a latch mechanism, state that the system or cushion, or the vehicle seat, or both, should be securely latched to the vehicle whether occupied or not.
 > SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18..
 
@@ -7311,37 +6537,37 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 - **(1)** In this section,
 
-***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*) 
+***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*)
 
-***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*) 
+***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*)
 
-***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*) 
+***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*)
 
-- **(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
+- **(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
 	- **(a)** when tested with the seats removed,
-		- **(i)** an initial crush resistance of not less than 10.01 kN,
-		- **(ii)** an intermediate crush resistance of not less than 15.57 kN, and
-		- **(iii)** a peak crush resistance of not less than two times the curb mass of the vehicle or 31.14 kN, whichever is the lesser; or
+		- **(i)** an initial crush resistance of not less than 10.01 kN,
+		- **(ii)** an intermediate crush resistance of not less than 15.57 kN, and
+		- **(iii)** a peak crush resistance of not less than two times the curb mass of the vehicle or 31.14 kN, whichever is the lesser; or
 	- **(b)** when tested with the seats installed,
-		- **(i)** an initial crush resistance of not less than 10.01 kN,
-		- **(ii)** an intermediate crush resistance of not less than 19.46 kN, and
-		- **(iii)** a peak crush resistance of not less than three and one- half times the curb mass of the vehicle or 53.38 kN, whichever is the lesser.
+		- **(i)** an initial crush resistance of not less than 10.01 kN,
+		- **(ii)** an intermediate crush resistance of not less than 19.46 kN, and
+		- **(iii)** a peak crush resistance of not less than three and one- half times the curb mass of the vehicle or 53.38 kN, whichever is the lesser.
 
-- **(3)** For the purposes of paragraph (2)(a), only those seats that may affect any load applied during the test must be removed from the vehicle.
+- **(3)** For the purposes of paragraph (2)(a), only those seats that may affect any load applied during the test must be removed from the vehicle.
 
-- **(4)** Subsection (2) does not apply in respect of
+- **(4)** Subsection (2) does not apply in respect of
 	- **(a)** the detachable side doors of a vehicle that is designed to be used without side doors;
 	- **(b)** the side doors of a walk-in van; or
-	- **(c)** the side doors of a vehicle where, with an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995) positioned in any seat, the seat adjusted to any position and the seat back placed in accordance with subsection (6),
-		- **(i)** no point on a 254 mm horizontal longitudinal line passing through and bisected by the H-point falls within the transverse, horizontal projection of the door’s opening, or
-		- **(ii)** no point on a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 254 mm from the innermost point on the inside surface of the door, which point is situated vertically between the H-point and shoulder reference point of the template and longitudinally between the front edge of the cushion with the seat adjusted to its forwardmost position and the rear edge of the cushion with the seat adjusted to its rearmost position, as illustrated in the figure.
+	- **(c)** the side doors of a vehicle where, with an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995) positioned in any seat, the seat adjusted to any position and the seat back placed in accordance with subsection (6),
+		- **(i)** no point on a 254 mm horizontal longitudinal line passing through and bisected by the H-point falls within the transverse, horizontal projection of the door’s opening, or
+		- **(ii)** no point on a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 254 mm from the innermost point on the inside surface of the door, which point is situated vertically between the H-point and shoulder reference point of the template and longitudinally between the front edge of the cushion with the seat adjusted to its forwardmost position and the rear edge of the cushion with the seat adjusted to its rearmost position, as illustrated in the figure.
 
-- **(5)** Where a vehicle has seat anchoring hardware, the conditions set out in paragraph (4)(c) shall be met with any seat recommended by the manufacturer installed in any position for which there is seat anchoring hardware.
+- **(5)** Where a vehicle has seat anchoring hardware, the conditions set out in paragraph (4)(c) shall be met with any seat recommended by the manufacturer installed in any position for which there is seat anchoring hardware.
 
-- **(6)** For the purposes of paragraph (4)(c), the seat back shall be placed in the manufacturer’s nominal design riding position in the manner specified by the manufacturer or, if the manner is not specified by the manufacturer, at the first detent rearward of 25° from the vertical, with every adjustable head restraint placed in its highest adjustment position and the adjustable lumbar support placed so that it is set in its released, full-back position.
+- **(6)** For the purposes of paragraph (4)(c), the seat back shall be placed in the manufacturer’s nominal design riding position in the manner specified by the manufacturer or, if the manner is not specified by the manufacturer, at the first detent rearward of 25° from the vertical, with every adjustable head restraint placed in its highest adjustment position and the adjustable lumbar support placed so that it is set in its released, full-back position.
 
 - 
-> Image: Diagram showing the Door Clearance with measurements and descriptions.
+> Image: Diagram showing the Door Clearance with measurements and descriptions
 
 > SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E); SOR/2007-180, s. 17..
 
@@ -7353,12 +6579,12 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 **215** 
 
 - **(1)** A passenger car shall be equipped with bumpers that conform to either
-	- **(a)** the requirements set out in paragraph 6, and the low-speed-impact test procedure set out in Annex 3 — except for paragraph 4 of that Annex, of ECE Regulation No. 42 — Uniform Provisions Concerning the Approval of Vehicles with Regard to Their Front and Rear Protective Devices (Bumpers, etc.), in the version dated June 12, 2007, as amended after that date by any amendment in the 00 series of amendments; or
-	- **(b)** the requirements, conditions and test procedures set out in title 49, part 581, of the Code of Federal Regulations of the United States (revised as of October 1, 2006).
+	- **(a)** the requirements set out in paragraph 6, and the low-speed-impact test procedure set out in Annex 3 — except for paragraph 4 of that Annex, of ECE Regulation No. 42 — Uniform Provisions Concerning the Approval of Vehicles with Regard to Their Front and Rear Protective Devices (Bumpers, etc.), in the version dated June 12, 2007, as amended after that date by any amendment in the 00 series of amendments; or
+	- **(b)** the requirements, conditions and test procedures set out in title 49, part 581, of the Code of Federal Regulations of the United States (revised as of October 1, 2006).
 
-- **(2)** Until August 31, 2009, a passenger car may conform either to the requirements of this section in its current version or as it read before the coming into force of these Regulations.
+- **(2)** Until August 31, 2009, a passenger car may conform either to the requirements of this section in its current version or as it read before the coming into force of these Regulations.
 
-- **(3)** A passenger car shall conform to the requirements of this section as of September 1, 2009.
+- **(3)** A passenger car shall conform to the requirements of this section as of September 1, 2009.
 > SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F); SOR/2008-199, s. 1..
 
 
@@ -7384,12 +6610,12 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 **217** 
 
-- **(1)** Subsections (2) and (2.1) do not apply to a windshield or a window of a size such that the length of the smallest chord along the surface of the glazing passing through the centroid is less than 200 mm (8 in.).
+- **(1)** Subsections (2) and (2.1) do not apply to a windshield or a window of a size such that the length of the smallest chord along the surface of the glazing passing through the centroid is less than 200 mm (8 in.).
 
-- **(2)** Every window glazing and surrounding window frame in a bus shall be retained by its surrounding structure in a manner that prevents the formation of an opening large enough to admit the passage of a sphere with a diameter of 100 mm (4 inches) that is pressed through the opening by a force of 22 N (5 pounds) including the weight of the sphere, when the window is tested according to the procedure set out in subsection (2.1).
+- **(2)** Every window glazing and surrounding window frame in a bus shall be retained by its surrounding structure in a manner that prevents the formation of an opening large enough to admit the passage of a sphere with a diameter of 100 mm (4 inches) that is pressed through the opening by a force of 22 N (5 pounds) including the weight of the sphere, when the window is tested according to the procedure set out in subsection (2.1).
 
-- **(2.1)** Under the conditions set out in subsections (24) and (25), an increasing force shall be applied to the head form specified in Figure 4 to this section to cause it to move at a velocity of 51 mm per minute (2 in. per minute) from a point inside the vehicle that is at the centroid of the window glazing in a direction that is outward and perpendicular to the undisturbed surface of the glazing until one of the following occurs:
-	- **(a)** the force equals 5 300 N (1,200 lb.);
+- **(2.1)** Under the conditions set out in subsections (24) and (25), an increasing force shall be applied to the head form specified in Figure 4 to this section to cause it to move at a velocity of 51 mm per minute (2 in. per minute) from a point inside the vehicle that is at the centroid of the window glazing in a direction that is outward and perpendicular to the undisturbed surface of the glazing until one of the following occurs:
+	- **(a)** the force equals 5 300 N (1,200 lb.);
 	- **(b)** cracks have developed that penetrate to a depth of at least 80 per cent of the thickness of the glazing and radiate outward from the point of contact of the head form to two or more points at the window frame;
 	- **(c)** the glazing shatters; or
 	- **(d)** the inner surface of the glazing at the centroid has moved perpendicularly to the undisturbed surface of the glazing a distance equal to the square root of the length of the smallest chord along the surface of the glazing passing through the centroid divided by
@@ -7397,35 +6623,35 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 		- **(ii)** 2, where the distance is measured in inches.
 
 - **(3)** Every bus, other than a school bus and a bus manufactured for the purpose of transporting persons under physical restraint, shall be provided with unobstructed openings for rapidly urgent egress, the combined areas of which, when measured
-	- **(a)** in square centimetres, is equal to at least 430 times the number of designated seating positions on the bus; or
-	- **(b)** in square inches, is equal to at least 67 times the number of designated seating positions on the bus.
+	- **(a)** in square centimetres, is equal to at least 430 times the number of designated seating positions on the bus; or
+	- **(b)** in square inches, is equal to at least 67 times the number of designated seating positions on the bus.
 
-- **(4)** A minimum of 40 per cent of the combined areas of the unobstructed openings required by subsection (3) shall be provided on each side of the bus.
+- **(4)** A minimum of 40 per cent of the combined areas of the unobstructed openings required by subsection (3) shall be provided on each side of the bus.
 
-- **(5)** In determining the combined areas of unobstructed openings provided in a bus, no emergency exit, regardless of its actual area, shall be deemed to measure more than 3 450 cm<sup>2</sup> (536 square inches).
+- **(5)** In determining the combined areas of unobstructed openings provided in a bus, no emergency exit, regardless of its actual area, shall be deemed to measure more than 3 450 cm<sup>2</sup> (536 square inches).
 
-- **(6)** Subject to subsection (7), the unobstructed openings required by subsection (3) shall be provided in every bus with a GVWR of more than 4 536 kg (10,000 lb.) by
+- **(6)** Subject to subsection (7), the unobstructed openings required by subsection (3) shall be provided in every bus with a GVWR of more than 4 536 kg (10,000 lb.) by
 	- **(a)** at least one side door for each three designated seating positions in the vehicle; or
-	- **(b)** side exits and at least one rear emergency exit that meets the requirements of subsections (11) to (14) when the bus is upright and when it is overturned on its side and any occupant is standing facing the rear emergency exit.
+	- **(b)** side exits and at least one rear emergency exit that meets the requirements of subsections (11) to (14) when the bus is upright and when it is overturned on its side and any occupant is standing facing the rear emergency exit.
 
-- **(7)** Where the configuration of a bus described in subsection (6) precludes the installation of an accessible rear emergency exit, the bus shall be equipped in its rear half with a roof emergency exit that meets the requirements of subsections (11) to (14) when the bus is overturned on its side and any occupant is standing facing the roof emergency exit.
+- **(7)** Where the configuration of a bus described in subsection (6) precludes the installation of an accessible rear emergency exit, the bus shall be equipped in its rear half with a roof emergency exit that meets the requirements of subsections (11) to (14) when the bus is overturned on its side and any occupant is standing facing the roof emergency exit.
 
-- **(8)** The unobstructed openings required by subsection (3) shall be provided in every bus with a GVWR of 4 536 kg (10,000 lb.) or less by
-	- **(a)** devices that meet the requirements of subsections (11) to (14) and do not use remote controls or central power systems;
-	- **(b)** windows that can be opened manually to a position providing an opening large enough to admit unobstructed passage of an ellipsoid, with its major axis parallel to the longitudinal axis of the vehicle, that is generated by the rotation about its minor axis of an ellipse having a major axis of 500 mm (20 inches) and a minor axis of 330 mm (13 inches); or
+- **(8)** The unobstructed openings required by subsection (3) shall be provided in every bus with a GVWR of 4 536 kg (10,000 lb.) or less by
+	- **(a)** devices that meet the requirements of subsections (11) to (14) and do not use remote controls or central power systems;
+	- **(b)** windows that can be opened manually to a position providing an opening large enough to admit unobstructed passage of an ellipsoid, with its major axis parallel to the longitudinal axis of the vehicle, that is generated by the rotation about its minor axis of an ellipse having a major axis of 500 mm (20 inches) and a minor axis of 330 mm (13 inches); or
 	- **(c)** doors.
 
 - **(9)** Every school bus shall be provided with, at the option of the manufacturer,
-	- **(a)** one rear emergency door that opens outward and is hinged on the right side for a bus with a GVWR of more than 4 536 kg (10,000 lb.);
-	- **(b)** at least one rear emergency door that opens outward and is hinged on either side for a bus with a GVWR of 4 536 kg (10,000 lb.) or less; or
+	- **(a)** one rear emergency door that opens outward and is hinged on the right side for a bus with a GVWR of more than 4 536 kg (10,000 lb.);
+	- **(b)** at least one rear emergency door that opens outward and is hinged on either side for a bus with a GVWR of 4 536 kg (10,000 lb.) or less; or
 	- **(c)** the following emergency exits, namely,
 		- **(i)** one emergency door
 			- **(A)** hinged on its forward side, and
 			- **(B)** located on the left side of the bus in the rear half of the bus passenger compartment, and
 		- **(ii)** one push-out rear window that
-			- **(A)** provides a minimum opening clearance 400 mm (16 in.) high and 1 200 mm (48 in.) wide,
-			- **(B)** is capable of being released by the operation of not more than two mechanisms that are located in the high-force access region as shown in Figure 3C and that do not have to be operated simultaneously, and
-			- **(C)** for release and opening, requires a force of not more than 180 N (40 lb.) applied in the directions specified in subsections (13) and (14).
+			- **(A)** provides a minimum opening clearance 400 mm (16 in.) high and 1 200 mm (48 in.) wide,
+			- **(B)** is capable of being released by the operation of not more than two mechanisms that are located in the high-force access region as shown in Figure 3C and that do not have to be operated simultaneously, and
+			- **(C)** for release and opening, requires a force of not more than 180 N (40 lb.) applied in the directions specified in subsections (13) and (14).
 
 - **(10)** Every school bus shall be provided with a warning system that shall
 	- **(a)** be activated when the vehicle ignition is in the ON position and
@@ -7434,73 +6660,73 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 		- **(iii)** one or more emergency exits are not in the fully closed position; and
 	- **(b)** generate a continuous warning sound audible at the driver’s seating position and in the immediate vicinity of the emergency door or push-out window that caused the system to be activated.
 
-- **(11)** Every push-out window or other emergency exit not required by subsection (9) shall have one or two release mechanisms located within the access regions shown in Figure 1, Figure 2 or Figure 3.
+- **(11)** Every push-out window or other emergency exit not required by subsection (9) shall have one or two release mechanisms located within the access regions shown in Figure 1, Figure 2 or Figure 3.
 
-- **(12)** The lower edge of the low-force access region in Figure 1 and the lower edge of region B of the high-force access region in Figure 2 shall be located
-	- **(a)** 130 mm (five inches) above the adjacent seat, or
-	- **(b)** if an arm rest is fitted, 50 mm (two inches) above the arm rest,
+- **(12)** The lower edge of the low-force access region in Figure 1 and the lower edge of region B of the high-force access region in Figure 2 shall be located
+	- **(a)** 130 mm (five inches) above the adjacent seat, or
+	- **(b)** if an arm rest is fitted, 50 mm (two inches) above the arm rest,
 whichever is the higher.
 
-- **(13)** When tested in accordance with the conditions set out in subsections (24) and (26) both before and after the window retention test described by subsection (2), every emergency exit of a bus, other than an emergency door required by subsection (9), shall allow manual release of the exit release mechanism by an occupant using, at the option of the manufacturer,
-	- **(a)** a low-force application of not more than 90 N (20 pounds) in a rotational or linear direction if the emergency exit release mechanism is located as shown in Figure 1 or Figure 3 of this section; or
-	- **(b)** a high-force application of not more than 270 N (60 pounds) in a linear direction perpendicular to the undisturbed emergency exit surface if the emergency exit release mechanism is located as shown in Figure 2 or Figure 3 of this section.
+- **(13)** When tested in accordance with the conditions set out in subsections (24) and (26) both before and after the window retention test described by subsection (2), every emergency exit of a bus, other than an emergency door required by subsection (9), shall allow manual release of the exit release mechanism by an occupant using, at the option of the manufacturer,
+	- **(a)** a low-force application of not more than 90 N (20 pounds) in a rotational or linear direction if the emergency exit release mechanism is located as shown in Figure 1 or Figure 3 of this section; or
+	- **(b)** a high-force application of not more than 270 N (60 pounds) in a linear direction perpendicular to the undisturbed emergency exit surface if the emergency exit release mechanism is located as shown in Figure 2 or Figure 3 of this section.
 
-- **(14)** Every emergency exit release mechanism shall require for its operation not more than two applications of force, one of which must differ by 90 to 180 degrees from the direction of the initial push-out motion of the emergency exit.
+- **(14)** Every emergency exit release mechanism shall require for its operation not more than two applications of force, one of which must differ by 90 to 180 degrees from the direction of the initial push-out motion of the emergency exit.
 
-- **(15)** Under the conditions set out in subsections (24) and (26), both before and after the window retention test described in subsection (2.1), every school bus emergency door shall be capable of being manually released by one person, from inside and outside the bus, using a force not exceeding 180 N (40 lb.) that is applied
-	- **(a)** within the access region for high forces shown in Figure 3B to this section for a side emergency exit door and in Figure 3D to this section for a rear emergency exit door;
+- **(15)** Under the conditions set out in subsections (24) and (26), both before and after the window retention test described in subsection (2.1), every school bus emergency door shall be capable of being manually released by one person, from inside and outside the bus, using a force not exceeding 180 N (40 lb.) that is applied
+	- **(a)** within the access region for high forces shown in Figure 3B to this section for a side emergency exit door and in Figure 3D to this section for a rear emergency exit door;
 	- **(b)** in any direction from outside the bus; or
 	- **(c)** in an upward direction from inside the bus.
 
 - **(16)** Every school bus emergency door release mechanism shall be capable of being operated without the use of remote controls or tools and shall function independently of the vehicle’s power system.
 
-- **(17)** Every emergency exit of a bus, other than an emergency door required by subsection (9), shall, after the release mechanism has been operated, be capable of being opened outward manually by an occupant, using the force applications described in subsection (13), to a position providing an opening large enough to allow the unobstructed passage of the ellipsoid described in paragraph (8)(b).
+- **(17)** Every emergency exit of a bus, other than an emergency door required by subsection (9), shall, after the release mechanism has been operated, be capable of being opened outward manually by an occupant, using the force applications described in subsection (13), to a position providing an opening large enough to allow the unobstructed passage of the ellipsoid described in paragraph (8)(b).
 
-- **(18)** Under the conditions set out in subsections (24) and (26), both before and after the window retention test described in subsection (2.1), every emergency exit door of a school bus shall, after the release mechanism has been operated, be capable of being opened outward manually by one person to a position that provides
-	- **(a)** in the case of a side emergency exit door, an opening at least 1 143 mm (45 in.) high and 610 mm (24 in.) wide located so that a vertical transverse plane tangent to the rearmost point of the closest seat back passes through the forward edge of the side emergency exit door; and
-	- **(b)** in the case of a rear emergency exit door, an opening at least 610 mm (24 in.) wide that allows the unobstructed passage of a rectangular parallelepiped that measures l 143 mm (45 in.) in height, 305 mm (12 in.) in width perpendicular to the sides of the bus, and 610 mm (24 in.) in depth parallel to the sides of the bus, the bottom of which remains within 25 mm (1 in.) of the floor at all times during its passage through the opening.
+- **(18)** Under the conditions set out in subsections (24) and (26), both before and after the window retention test described in subsection (2.1), every emergency exit door of a school bus shall, after the release mechanism has been operated, be capable of being opened outward manually by one person to a position that provides
+	- **(a)** in the case of a side emergency exit door, an opening at least 1 143 mm (45 in.) high and 610 mm (24 in.) wide located so that a vertical transverse plane tangent to the rearmost point of the closest seat back passes through the forward edge of the side emergency exit door; and
+	- **(b)** in the case of a rear emergency exit door, an opening at least 610 mm (24 in.) wide that allows the unobstructed passage of a rectangular parallelepiped that measures l 143 mm (45 in.) in height, 305 mm (12 in.) in width perpendicular to the sides of the bus, and 610 mm (24 in.) in depth parallel to the sides of the bus, the bottom of which remains within 25 mm (1 in.) of the floor at all times during its passage through the opening.
 
-- **(18.1)** After insertion of a rectangular parallelepiped described in paragraph (18)(b), a rear emergency exit door or, where there are two rear emergency exit doors, both doors, shall be capable of being closed and latched.
+- **(18.1)** After insertion of a rectangular parallelepiped described in paragraph (18)(b), a rear emergency exit door or, where there are two rear emergency exit doors, both doors, shall be capable of being closed and latched.
 
-- **(18.2)** A school bus that has a GVWR of less than 4 536 kg (10,000 lb.) and two rear doors that function as emergency exit doors shall have
+- **(18.2)** A school bus that has a GVWR of less than 4 536 kg (10,000 lb.) and two rear doors that function as emergency exit doors shall have
 	- **(a)** a single release mechanism that simultaneously opens both rear doors in a manner such that neither rear door can interfere with the opening of the other rear door under any circumstances;
-	- **(b)** hinging and latching mechanisms that prevent the rear doors from opening when they are closed and fully latched and, under the conditions set out in subsections (24) and (26), a force of 9 000 N (2,000 lb.) is applied perpendicularly to any part of the door other than the window glass by a circular steel plate having a diameter of 150 mm (6 in.) and a thickness of 13 mm (1/2 in.); and
-	- **(c)** a single interior handle that operates the latching mechanisms and that is situated within 150 mm (6 in.) of a vertical plane equidistant from both sides of the aisle leading to the rear doors when the rear doors are closed and fully latched.
+	- **(b)** hinging and latching mechanisms that prevent the rear doors from opening when they are closed and fully latched and, under the conditions set out in subsections (24) and (26), a force of 9 000 N (2,000 lb.) is applied perpendicularly to any part of the door other than the window glass by a circular steel plate having a diameter of 150 mm (6 in.) and a thickness of 13 mm (½ in.); and
+	- **(c)** a single interior handle that operates the latching mechanisms and that is situated within 150 mm (6 in.) of a vertical plane equidistant from both sides of the aisle leading to the rear doors when the rear doors are closed and fully latched.
 
-- **(18.3)** The rear doors of a school bus referred to in subsection (18.2) shall, under the conditions set out in subsections (24) and (26) and, after undergoing the test specified in paragraph (18.2)(b), be capable of being opened from outside and inside the bus using a force not exceeding 180 N (40 lb.).
+- **(18.3)** The rear doors of a school bus referred to in subsection (18.2) shall, under the conditions set out in subsections (24) and (26) and, after undergoing the test specified in paragraph (18.2)(b), be capable of being opened from outside and inside the bus using a force not exceeding 180 N (40 lb.).
 
-- **(19)** Every push-out window or other emergency exit in a bus shall, for the purposes of identification and operation, be identified with a label located within 150 mm (six inches) of its release mechanism bearing words in both official languages or an approved symbol that identifies the emergency exit, and followed by concise operation instructions in both official languages, except that school bus emergency exits shall be identified in accordance with the requirements of subsection (23).
+- **(19)** Every push-out window or other emergency exit in a bus shall, for the purposes of identification and operation, be identified with a label located within 150 mm (six inches) of its release mechanism bearing words in both official languages or an approved symbol that identifies the emergency exit, and followed by concise operation instructions in both official languages, except that school bus emergency exits shall be identified in accordance with the requirements of subsection (23).
 
-- **(20)** Where a release mechanism is not located within the occupant space of an adjacent seat, a label indicating the location of the nearest release mechanism in both official languages and meeting the requirements of subsection (21) shall be placed within the occupant space.
+- **(20)** Where a release mechanism is not located within the occupant space of an adjacent seat, a label indicating the location of the nearest release mechanism in both official languages and meeting the requirements of subsection (21) shall be placed within the occupant space.
 
-- **(21)** The marking on every label referred to in subsections (19) and (20) shall be legible to an occupant with corrected visual acuity corresponding to a Snellen ratio of 20/40 who is a person described in
-	- **(a)** paragraph (22)(a), (b) or (c) when the locations described in the other two of those paragraphs are occupied; and
-	- **(b)** paragraph (22)(d) or (e) when the only source of light is the normal night time illumination of the bus interior and the occupant is a person described in subsection (22).
+- **(21)** The marking on every label referred to in subsections (19) and (20) shall be legible to an occupant with corrected visual acuity corresponding to a Snellen ratio of 20/40 who is a person described in
+	- **(a)** paragraph (22)(a), (b) or (c) when the locations described in the other two of those paragraphs are occupied; and
+	- **(b)** paragraph (22)(d) or (e) when the only source of light is the normal night time illumination of the bus interior and the occupant is a person described in subsection (22).
 
-- **(22)** For the purposes of subsection (21), the following persons are described:
+- **(22)** For the purposes of subsection (21), the following persons are described:
 	- **(a)** a person seated in the adjacent seat;
 	- **(b)** a person seated in the seat directly adjoining the adjacent seat;
 	- **(c)** a person standing in the aisle location that is closest to the adjacent seat;
 	- **(d)** a person standing in the aisle location nearest to the emergency exit when the exit has no adjacent seat; or
 	- **(e)** a person lying with his back against the floor opposite the roof emergency exit if the vehicle is so equipped.
 
-- **(23)** Each school bus emergency exit provided in accordance with subsection (9) shall
-	- **(a)** be identified as “Emergency Door” and “Porte de secours” or “Emergency Exit” and “Issue de secours” or “Sortie de secours”, whichever is applicable, in letters at least 50 mm (2 in.) high of a colour that contrasts with its background located at the top of or directly above the emergency door or exit on both the inside and outside surfaces of the bus; and
-	- **(b)** have concise operating instructions describing the motions and, if applicable, sequence of motions necessary to unlatch and open the emergency door or exit, in letters at least 9.5 mm (3/8 in.) high of a colour that contrasts with its background, located within 150 mm (6 in.) of the release mechanism on the inside surface of the bus.
+- **(23)** Each school bus emergency exit provided in accordance with subsection (9) shall
+	- **(a)** be identified as “Emergency Door” and “*Porte de secours*” or “Emergency Exit” and “*Issue de secours*” or “*Sortie de secours*”, whichever is applicable, in letters at least 50 mm (2 in.) high of a colour that contrasts with its background located at the top of or directly above the emergency door or exit on both the inside and outside surfaces of the bus; and
+	- **(b)** have concise operating instructions describing the motions and, if applicable, sequence of motions necessary to unlatch and open the emergency door or exit, in letters at least 9.5 mm (3/8 in.) high of a colour that contrasts with its background, located within 150 mm (6 in.) of the release mechanism on the inside surface of the bus.
 
-- **(24)** For the purposes of subsections (2), (13), (15), (17) and (18)
+- **(24)** For the purposes of subsections (2), (13), (15), (17) and (18)
 	- **(a)** the vehicle shall be on a flat, horizontal surface; and
 	- **(b)** the temperature inside and outside shall be maintained between 20°C and 30°C (70°F and 85°F) for a period of four hours immediately preceding the tests and during the tests.
 
-- **(25)** For the purpose of subsection (2), all windows installed in the vehicle shall be closed and latched in the manner intended for normal bus operation if latches are provided, except that to demonstrate compliance of windows installed in folding doors, the test need not be performed with the doors installed in the vehicle.
+- **(25)** For the purpose of subsection (2), all windows installed in the vehicle shall be closed and latched in the manner intended for normal bus operation if latches are provided, except that to demonstrate compliance of windows installed in folding doors, the test need not be performed with the doors installed in the vehicle.
 
-- **(26)** For the purposes of subsections (13), (15), (17) and (18), all seats, arm rests and interior objects near the windows of the vehicle shall be adjusted for normal use with the seats in the upright position.
+- **(26)** For the purposes of subsections (13), (15), (17) and (18), all seats, arm rests and interior objects near the windows of the vehicle shall be adjusted for normal use with the seats in the upright position.
 
 - 
 <table>
 <tr>
 <td>
-> Image: Diagram showing Low-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions.
+> Image: Diagram showing Low-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions
 
 
 ###### Notes:
@@ -7517,7 +6743,7 @@ whichever is the higher.
 <table>
 <tr>
 <td>
-> Image: Diagram showing High-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions.
+> Image: Diagram showing High-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions
 
 
 ###### Notes:
@@ -7539,7 +6765,7 @@ whichever is the higher.
 
 
 
-> Image: Diagram showing the Roof Emergency Exit with measurements and descriptions.
+> Image: Diagram showing the Roof Emergency Exit with measurements and descriptions
 
 
 ###### Notes:
@@ -7551,7 +6777,7 @@ whichever is the higher.
 </tr>
 <tr>
 <td>
-> Image: Diagram showing the Side Emergency Exit with measurements and descriptions.
+> Image: Diagram showing the Side Emergency Exit with measurements and descriptions
 
 
 ###### Notes:
@@ -7563,7 +6789,7 @@ whichever is the higher.
 </tr>
 <tr>
 <td>
-> Image: Diagram showing the Rear Emergency Exit with Rear Obstruction with measurements and descriptions.
+> Image: Diagram showing the Rear Emergency Exit with Rear Obstruction with measurements and descriptions
 
 
 ###### Notes:
@@ -7576,7 +6802,7 @@ whichever is the higher.
 </tr>
 <tr>
 <td>
-> Image: Diagram showing the Rear Emergency Exit without Rear Obstruction with measurements and descriptions.
+> Image: Diagram showing the Rear Emergency Exit without Rear Obstruction with measurements and descriptions
 
 
 ###### Notes:
@@ -7589,7 +6815,7 @@ whichever is the higher.
 </tr>
 </table>
 
-> Image: Diagram showing the Head Form with measurements and descriptions.
+> Image: Diagram showing the Head Form with measurements and descriptions
 
 > SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F); SOR/2009-330, s. 5..
 
@@ -7604,40 +6830,40 @@ whichever is the higher.
 
 ***daylight opening*** or ***DLO*** means the maximum unobstructed opening through the glazing surface including reveal or garnish mouldings adjoining the surface, as measured parallel to the outer surface of the glazing material. (***ouverture de jour***or***OJ***)
 
-***protected zone*** means the space displayed in the figure to this section and enclosed as set out in subsection (6). (*zone protégée*)
+***protected zone*** means the space displayed in the figure to this section and enclosed as set out in subsection (6). (*zone protégée*)
 
 ***protected zone template*** means a template cut or formed from type DB, cut cell styrofoam to the dimensions of the protected zone. (*gabarit de zone protégée*)
 
 - **(2)** This section does not apply in respect of
-	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536 kg; or
+	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536 kg; or
 	- **(b)** a vehicle having a forward control configuration, a walk-in van or an open-body type vehicle with a fold-down or removable windshield.
 
 - **(3)** A vehicle to which this section applies shall be tested
-	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
-	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(4)** During the test referred to in subsection (3), no part of the vehicle outside the occupant compartment, other than the windshield mouldings or other components designed to be normally in contact with the windshield glazing, shall penetrate
-	- **(a)** the windshield protected zone template to any depth in excess of 6 mm; or
+- **(4)** During the test referred to in subsection (3), no part of the vehicle outside the occupant compartment, other than the windshield mouldings or other components designed to be normally in contact with the windshield glazing, shall penetrate
+	- **(a)** the windshield protected zone template to any depth in excess of 6 mm; or
 	- **(b)** the inner surface of the portion of the windshield glazing that is within the DLO below the windshield protected zone.
 
 - **(5)** The lower boundary of the windshield protected zone displayed in the figure to this section shall be determined as follows:
-	- **(a)** place a rigid sphere having a diameter of 165 mm and a mass of 6.8 kg in such a position that it simultaneously contacts the inner surface of the windshield glazing and the surface of the instrument panel, including any padding, and if the positioning of the sphere is obstructed by steering controls or other accessories or equipment, the accessories or equipment may be removed while the sphere is being positioned;
+	- **(a)** place a rigid sphere having a diameter of 165 mm and a mass of 6.8 kg in such a position that it simultaneously contacts the inner surface of the windshield glazing and the surface of the instrument panel, including any padding, and if the positioning of the sphere is obstructed by steering controls or other accessories or equipment, the accessories or equipment may be removed while the sphere is being positioned;
 	- **(b)** draw the locus of points on the inner surface of the windshield glazing contacted by the sphere across the width of the instrument panel, and, from the outermost of those points of contact, extend the locus line horizontally to the edges of the glazing material;
-	- **(c)** draw a line on the inner surface of the windshield glazing below and at a distance of 13 mm from the locus line drawn in accordance with paragraph (b);
+	- **(c)** draw a line on the inner surface of the windshield glazing below and at a distance of 13 mm from the locus line drawn in accordance with paragraph (b);
 	- **(d)** project the line drawn in accordance with paragraph (c) longitudinally on the outer surface of the windshield glazing and the resulting line is the lower boundary of the windshield protected zone.
 
 - **(6)** The windshield protected zone displayed in the figure to this section is the space enclosed by
 	- **(a)** the outer surface of the windshield glazing;
-	- **(b)** the locus of points 76 mm outward along perpendiculars drawn to each point on the outer surface of the windshield glazing; and
-	- **(c)** the locus of lines forming a 45-degree angle with the outer surface of the windshield glazing at each point along the top and side edges of the outer surface of the windshield glazing and the lower boundary of the windshield protected zone determined in accordance with subsection (5) in the plane perpendicular to the edge at that point.
+	- **(b)** the locus of points 76 mm outward along perpendiculars drawn to each point on the outer surface of the windshield glazing; and
+	- **(c)** the locus of lines forming a 45-degree angle with the outer surface of the windshield glazing at each point along the top and side edges of the outer surface of the windshield glazing and the lower boundary of the windshield protected zone determined in accordance with subsection (5) in the plane perpendicular to the edge at that point.
 
-- **(7)** For the purposes of subsection (6), ***outer surface of the windshield glazing*** means the outer surface of the windshield glazing as configured before the test referred to in subsection (3).
+- **(7)** For the purposes of subsection (6), ***outer surface of the windshield glazing*** means the outer surface of the windshield glazing as configured before the test referred to in subsection (3).
 
 - 
 <table>
 <tr>
 <td>
-> Image: Diagram of the Windshield Protected Zone with measurements and descriptions.
+> Image: Diagram of the Windshield Protected Zone with measurements and descriptions
 Note: Drawing not to scale
 
 </td>
@@ -7669,36 +6895,36 @@ Note: Drawing not to scale
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)
 
-- **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
+- **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
 	- **(b)** doors, windows, ventilation panels, engine access covers or destination sign covers;
 	- **(c)** trim or decorative parts that do not contribute to the strength of a body panel joint;
-	- **(d)** interior maintenance access panels that are 305 mm or less when measured across any two points on the diametrically opposite sides of the opening; or
+	- **(d)** interior maintenance access panels that are 305 mm or less when measured across any two points on the diametrically opposite sides of the opening; or
 	- **(e)** all exterior maintenance access panels.
 
-- **(3)** Subject to subsection (4), when tested in accordance with Test Method 221, School Bus Body Joint Strength (October 20, 2000), every body panel joint shall be capable of sustaining, without separation, a tensile force that is equal to 60% of the breaking tensile strength within the weakest body panel component attached by the joint.
+- **(3)** Subject to subsection (4), when tested in accordance with Test Method 221, School Bus Body Joint Strength (October 20, 2000), every body panel joint shall be capable of sustaining, without separation, a tensile force that is equal to 60% of the breaking tensile strength within the weakest body panel component attached by the joint.
 
-- **(4)** A body panel joint is not required to be tested if a test specimen cannot be obtained in accordance with Test Method 221, School Bus Body Joint Strength (October 20, 2000) or it has only one discrete fastener or spot weld.
+- **(4)** A body panel joint is not required to be tested if a test specimen cannot be obtained in accordance with Test Method 221, School Bus Body Joint Strength (October 20, 2000) or it has only one discrete fastener or spot weld.
 
-- **(5)** Despite subsection (2), the maintenance access panels referred to in paragraph (2)(d) shall have no unattached segment at the joint longer than 110 mm.
+- **(5)** Despite subsection (2), the maintenance access panels referred to in paragraph (2)(d) shall have no unattached segment at the joint longer than 110 mm.
 
-- **(6)** On or before January 14, 2002, a school bus having a GVWR of more than 4,536 kg may conform to this section or to section 221 as it read before the coming into force of this section.
+- **(6)** On or before January 14, 2002, a school bus having a GVWR of more than 4,536 kg may conform to this section or to section 221 as it read before the coming into force of this section.
 
-- **(7)** On or before January 14, 2002, a school bus having a GVWR of 4,536 kg or less may conform to this section.
+- **(7)** On or before January 14, 2002, a school bus having a GVWR of 4,536 kg or less may conform to this section.
 
-- **(8)** After January 14, 2002, every school bus shall conform to this section.
+- **(8)** After January 14, 2002, every school bus shall conform to this section.
 > SOR/80-160, s. 2; SOR/97-421, s. 17; SOR/2001-36, s. 1..
 
 
@@ -7710,89 +6936,89 @@ Note: Drawing not to scale
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
-- **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes:
+- **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
-- **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
-- **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
+- **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
+- **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*)
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)
 
-- **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
+- **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
-- **(3)** Any particular passenger seat of a school bus used as a test specimen when the school bus is subjected to the test methods referred to in subsection (2), need not meet further requirements after having been subjected to the requirements of
-	- **(a)** subsections (6) and (9); or
-	- **(b)** subsection (7), (8), (11) or (12).
+- **(3)** Any particular passenger seat of a school bus used as a test specimen when the school bus is subjected to the test methods referred to in subsection (2), need not meet further requirements after having been subjected to the requirements of
+	- **(a)** subsections (6) and (9); or
+	- **(b)** subsection (7), (8), (11) or (12).
 
 - **(4)** Passenger seats on a school bus shall face directly either the front or the rear of the vehicle.
 
-- **(5)** The number of seating positions in a bench type seat shall be obtained by dividing the bench width measured in millimetres or inches by 381 mm or 15 inches, as the case may be, and rounding the quotient to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof.
+- **(5)** The number of seating positions in a bench type seat shall be obtained by dividing the bench width measured in millimetres or inches by 381 mm or 15 inches, as the case may be, and rounding the quotient to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof.
 
 - **(6)** Every school bus passenger seat shall be equipped with a seat back having
 	- **(a)** a height of not less than
-		- **(i)** 508 mm (20 inches) above the seating reference point, where the seat faces the front of the vehicle, and
-		- **(ii)** 762 mm (30 inches) above the seating reference point, where the seat faces the rear of the vehicle; and
-	- **(b)** a front surface area of not less than 90 per cent of the seat bench width measured in millimetres or inches multiplied by 508 mm or 20 inches, as the case may be, that is
+		- **(i)** 508 mm (20 inches) above the seating reference point, where the seat faces the front of the vehicle, and
+		- **(ii)** 762 mm (30 inches) above the seating reference point, where the seat faces the rear of the vehicle; and
+	- **(b)** a front surface area of not less than 90 per cent of the seat bench width measured in millimetres or inches multiplied by 508 mm or 20 inches, as the case may be, that is
 		- **(i)** above the horizontal plane that passes through the seating reference point, and
-		- **(ii)** below the horizontal plane that passes through a point 508 mm or 20 inches above the seating reference point.
+		- **(ii)** below the horizontal plane that passes through a point 508 mm or 20 inches above the seating reference point.
 
-- **(7)** Where a school bus passenger seat that has another seat behind it is subjected to forward performance tests as specified in the test methods referred to in subsection (2)
-	- **(a)** the seat back force/deflection curve shall fall within the zone specified in Figure 1;
-	- **(b)** the seat back deflection shall not exceed 356 mm (14 inches), as determined from the force/deflection curve;
-	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat or restraining barrier in its originally installed position;
+- **(7)** Where a school bus passenger seat that has another seat behind it is subjected to forward performance tests as specified in the test methods referred to in subsection (2)
+	- **(a)** the seat back force/deflection curve shall fall within the zone specified in Figure 1;
+	- **(b)** the seat back deflection shall not exceed 356 mm (14 inches), as determined from the force/deflection curve;
+	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat or restraining barrier in its originally installed position;
 	- **(d)** the seat shall not separate from the vehicle at any attachment point;
 	- **(e)** the seat components shall not separate at any attachment point; and
-	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 452W Nm (4000W inch-pounds), as determined from the force/deflection curve.
+	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 452W Nm (4000W inch-pounds), as determined from the force/deflection curve.
 
-- **(7.1)** In subsection (7), ***force/deflection curve*** means,
-	- **(a)** for the purposes of paragraphs (7)(a) and (b), the force applied by means of the upper loading bar and the forward travel distance of the pivot attachment point of the upper loading bar, measured from the point at which the initial application of 44.5 N (10 pounds) of force is attained; and
-	- **(b)** for the purposes of paragraph (7)(f), the force applied by means of the upper loading bar and the forward and rearward travel distance of the pivot attachment point of the upper loading bar measured from the position at which the initial application of 44.5 N (10 pounds) of force is attained.
+- **(7.1)** In subsection (7), ***force/deflection curve*** means,
+	- **(a)** for the purposes of paragraphs (7)(a) and (b), the force applied by means of the upper loading bar and the forward travel distance of the pivot attachment point of the upper loading bar, measured from the point at which the initial application of 44.5 N (10 pounds) of force is attained; and
+	- **(b)** for the purposes of paragraph (7)(f), the force applied by means of the upper loading bar and the forward and rearward travel distance of the pivot attachment point of the upper loading bar measured from the position at which the initial application of 44.5 N (10 pounds) of force is attained.
 
-- **(8)** Where a school bus passenger seat that has another seat behind it is subjected to rearward performance tests as specified in the test methods referred to in subsection (2),
-	- **(a)** the seat back force shall not exceed 9 876 N (2,200 pounds), as determined from the force/deflection curve;
-	- **(b)** the seat back deflection shall not exceed 250 mm (10 inches), as determined by the force/deflection curve;
-	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat in its originally installed position;
+- **(8)** Where a school bus passenger seat that has another seat behind it is subjected to rearward performance tests as specified in the test methods referred to in subsection (2),
+	- **(a)** the seat back force shall not exceed 9 876 N (2,200 pounds), as determined from the force/deflection curve;
+	- **(b)** the seat back deflection shall not exceed 250 mm (10 inches), as determined by the force/deflection curve;
+	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat in its originally installed position;
 	- **(d)** the seat shall not separate from the vehicle at any attachment point;
 	- **(e)** the seat components shall not separate at any attachment point; and
-	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 316.4 W Nm (2800W inch-pounds), as determined from the force/deflection curve.
+	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 316.4 W Nm (2800W inch-pounds), as determined from the force/deflection curve.
 
-- **(8.1)** In subsection (8) ***force/deflection curve*** means
-	- **(a)** for the purposes of paragraphs (8)(a) and (b), the force applied by means of the loading bar and the rearward travel distance of the pivot attachment point of the loading bar measured from the point at which the initial application of 222.4 N (50 pounds) of force is attained; and
-	- **(b)** for the purposes of paragraph (8)(f), the force applied by means of the loading bar and the rearward and forward travel distance of the pivot attachment point of the loading bar measured from the position at which the initial application of 222.4 N (50 pounds) of force is attained.
+- **(8.1)** In subsection (8) ***force/deflection curve*** means
+	- **(a)** for the purposes of paragraphs (8)(a) and (b), the force applied by means of the loading bar and the rearward travel distance of the pivot attachment point of the loading bar measured from the point at which the initial application of 222.4 N (50 pounds) of force is attained; and
+	- **(b)** for the purposes of paragraph (8)(f), the force applied by means of the loading bar and the rearward and forward travel distance of the pivot attachment point of the loading bar measured from the position at which the initial application of 222.4 N (50 pounds) of force is attained.
 
 - **(9)** No seat cushion with which a school bus passenger seat is equipped shall, where all the manual attachment devices between the seat and the seat cushion are in the manufacturer’s designed position for attachment, separate from the seat at any attachment point when subjected to an upward force of five times the seat cushion weight, applied in any period of not less than one nor more than two seconds, and maintained for five seconds.
 
-- **(10)** A restraining barrier shall be provided forward of any designated seating position that does not have the rear surface of another school bus passenger seat within 610 mm (24 inches) of the seating reference point, measured along a horizontal line through the seating reference point in the forward direction, such that
-	- **(a)** the horizontal distance between the restraining barrier’s rear surface and the seating reference point of the seat in front of which it is required is not more than 610 mm (24 inches);
+- **(10)** A restraining barrier shall be provided forward of any designated seating position that does not have the rear surface of another school bus passenger seat within 610 mm (24 inches) of the seating reference point, measured along a horizontal line through the seating reference point in the forward direction, such that
+	- **(a)** the horizontal distance between the restraining barrier’s rear surface and the seating reference point of the seat in front of which it is required is not more than 610 mm (24 inches);
 	- **(b)** the position and rear surface area of the restraining barrier shall be such that, in a front projected view of the bus, each point of the barrier’s perimeter coincides with or lies outside of the perimeter of the seat back of the seat for which it is required; and
-	- **(c)** when subjected to a forward force, as specified in the test methods referred to in subsection (2), the restraining barrier shall meet all the requirements specified in paragraphs (7)(a), (b), (d), (e) and (f) as they apply to a seat, and the restraining barrier deflection shall not interfere with normal door operation.
+	- **(c)** when subjected to a forward force, as specified in the test methods referred to in subsection (2), the restraining barrier shall meet all the requirements specified in paragraphs (7)(a), (b), (d), (e) and (f) as they apply to a seat, and the restraining barrier deflection shall not interfere with normal door operation.
 
-- **(11)** When any contactable surface of a school bus within the head protection zones is impacted from any direction by a head form test device, as specified in the test methods referred to in subsection (2),
-	- **(a)** at 6.7 m/s (22 feet per second),
+- **(11)** When any contactable surface of a school bus within the head protection zones is impacted from any direction by a head form test device, as specified in the test methods referred to in subsection (2),
+	- **(a)** at 6.7 m/s (22 feet per second),
 		- **(i)** the axial acceleration at the centre of gravity of the head form test device shall be such that the expression
 ```
 
-> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device.
+> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device
 
 ```
 shall not exceed 1,000, where “a” is the axial acceleration expressed as a multiple of “g” (the acceleration due to gravity), and t<sub>1</sub> and t<sub>2</sub> are any two points in time during the impact, and
-		- **(ii)** the energy necessary to deflect the impacted material shall be not less than 4.52 Nm (40 inch-pounds) before the force level on the head form test device exceeds 667 N (150 pounds); and
-	- **(b)** at 1.5 m/s (five feet per second) the contact area on the head form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
+		- **(ii)** the energy necessary to deflect the impacted material shall be not less than 4.52 Nm (40 inch-pounds) before the force level on the head form test device exceeds 667 N (150 pounds); and
+	- **(b)** at 1.5 m/s (five feet per second) the contact area on the head form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
 
-- **(12)** When any point on the rear surface of a part of a seat back or restraining barrier within the leg protection zone is impacted from any direction by a knee form test device, as specified in the test methods referred to in subsection (2) at 4.88 m/s (16 feet per second)
-	- **(a)** the resisting force of the impacted material shall not exceed 2 669 N (600 pounds); and
-	- **(b)** the contact area on the knee form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
+- **(12)** When any point on the rear surface of a part of a seat back or restraining barrier within the leg protection zone is impacted from any direction by a knee form test device, as specified in the test methods referred to in subsection (2) at 4.88 m/s (16 feet per second)
+	- **(a)** the resisting force of the impacted material shall not exceed 2 669 N (600 pounds); and
+	- **(b)** the contact area on the knee form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
 
 - **(13)** Every school bus passenger seat shall be fastened to the floor of the bus by bolts that have nuts and locking devices such as lock washers.
 
 - 
-> Image: Diagram showing the Force / Deflection Zone.
+> Image: Diagram showing the Force / Deflection Zone
 
 > SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1..
 
@@ -7808,145 +7034,121 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*) 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*)
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)
 
 ### Application
 
 
-- **(2)** This section applies to every trailer with a GVWR of 4 536 kg or more other than
+- **(2)** This section applies to every trailer with a GVWR of 4 536 kg or more other than
 	- **(a)** a pole trailer, a pulpwood trailer, a wheels back trailer or a trailer designed to be used as temporary living quarters;
 	- **(b)** a low-chassis trailer; and
-	- **(c)** a trailer designed to interact with, or having, work-performing equipment located in or moving through the area that would be occupied by a horizontal member that meets the configuration requirements of subsections (6) to (8).
+	- **(c)** a trailer designed to interact with, or having, work-performing equipment located in or moving through the area that would be occupied by a horizontal member that meets the configuration requirements of subsections (6) to (8).
 
 ### Rear Impact Guard Requirement
 
 
-- **(3)** Every trailer shall be equipped with a rear impact guard that meets the configuration requirements of subsections (5) to (8), as well as the applicable test requirements of subsections (9) to (12) when tested in accordance with Test Method 223 – Rear Impact Guard (December 2003).
+- **(3)** Every trailer shall be equipped with a rear impact guard that meets the configuration requirements of subsections (5) to (8), as well as the applicable test requirements of subsections (9) to (12) when tested in accordance with Test Method 223 – Rear Impact Guard (December 2003).
 
-- **(4)** Until September 1, 2007, instead of being equipped with a rear impact guard in accordance with subsection (3), at the option of the manufacturer who installs the rear impact guard, a trailer may be equipped with a rear impact guard that is installed in accordance with Technical Standards Document No. 224 Rear Impact Protection, as amended from time to time and labelled in accordance with section 571.223 of the Code of Federal Regulations of the United States, Title 49 (revised as of October 1, 2000).
+- **(4)** Until September 1, 2007, instead of being equipped with a rear impact guard in accordance with subsection (3), at the option of the manufacturer who installs the rear impact guard, a trailer may be equipped with a rear impact guard that is installed in accordance with Technical Standards Document No. 224 Rear Impact Protection, as amended from time to time and labelled in accordance with section 571.223 of the Code of Federal Regulations of the United States, Title 49 (revised as of October 1, 2000).
 
 ### Configuration Requirements
 
 
-- **(5)** The horizontal member of a rear impact guard shall have a cross-sectional vertical height of at least 100 mm at any point across the guard width when installed on a trailer.
+- **(5)** The horizontal member of a rear impact guard shall have a cross-sectional vertical height of at least 100 mm at any point across the guard width when installed on a trailer.
 
-- **(6)** The outermost surfaces of the horizontal member shall extend outboard to within 100 mm of the longitudinal vertical planes that are tangent to the side extremities, but shall not extend outboard of those planes.
+- **(6)** The outermost surfaces of the horizontal member shall extend outboard to within 100 mm of the longitudinal vertical planes that are tangent to the side extremities, but shall not extend outboard of those planes.
 
-- **(7)** When the trailer is resting on level ground, unloaded, with its full capacity of fuel, its tires inflated and its air suspension, if so equipped, pressurized in accordance with the manufacturer’s recommendations, the ground clearance shall not exceed 560 mm at any point across the full width of the horizontal member. However, rounded corners may curve upward within 255 mm of the longitudinal vertical planes that are tangent to the side extremities.
+- **(7)** When the trailer is resting on level ground, unloaded, with its full capacity of fuel, its tires inflated and its air suspension, if so equipped, pressurized in accordance with the manufacturer’s recommendations, the ground clearance shall not exceed 560 mm at any point across the full width of the horizontal member. However, rounded corners may curve upward within 255 mm of the longitudinal vertical planes that are tangent to the side extremities.
 
-- **(8)** At any height above the ground clearance, the rearmost surface of the horizontal member shall be located as close as practicable to a transverse vertical plane tangent to the rear extremity of the trailer, and no more than 305 mm forward of that plane, as shown in Figure 1. However, the horizontal member may extend rearward of the plane.
+- **(8)** At any height above the ground clearance, the rearmost surface of the horizontal member shall be located as close as practicable to a transverse vertical plane tangent to the rear extremity of the trailer, and no more than 305 mm forward of that plane, as shown in Figure 1. However, the horizontal member may extend rearward of the plane.
 
 ### Test Requirements
 
 
-- **(9)** Every rear impact guard shall demonstrate resistance to the following forces applied at the P1 and P2 test locations shown in Figure 2 by deflecting no more than 125 mm:
-	- **(a)** 50 000 N at test location P1 on either the left or the right side of the guard if it is symmetrical, but both sides must be independently tested if the guard is not symmetrical; and
-	- **(b)** 50 000 N at test location P2.
+- **(9)** Every rear impact guard shall demonstrate resistance to the following forces applied at the P1 and P2 test locations shown in Figure 2 by deflecting no more than 125 mm:
+	- **(a)** 50 000 N at test location P1 on either the left or the right side of the guard if it is symmetrical, but both sides must be independently tested if the guard is not symmetrical; and
+	- **(b)** 50 000 N at test location P2.
 
-- **(10)** Subject to subsection (11), every rear impact guard shall,
-	- **(a)** by deflecting no more than 125 mm, demonstrate resistance to a uniform test load of at least 350 000 N, which shall be applied uniformly across the horizontal member by a uniform load application structure centred on the guard, as shown in Figure 2 of Test Method 223 – Rear Impact Guard (December 2003);
-	- **(b)** in the case of a guard that demonstrates resistance to a uniform test load of 700 000 N or less, other than a hydraulic guard or one installed on a tanker trailer, absorb by plastic deformation at least 20 000 J of energy within the first 125 mm of deflection; and
-	- **(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
+- **(10)** Subject to subsection (11), every rear impact guard shall,
+	- **(a)** by deflecting no more than 125 mm, demonstrate resistance to a uniform test load of at least 350 000 N, which shall be applied uniformly across the horizontal member by a uniform load application structure centred on the guard, as shown in Figure 2 of Test Method 223 – Rear Impact Guard (December 2003);
+	- **(b)** in the case of a guard that demonstrates resistance to a uniform test load of 700 000 N or less, other than a hydraulic guard or one installed on a tanker trailer, absorb by plastic deformation at least 20 000 J of energy within the first 125 mm of deflection; and
+	- **(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
 
-- **(11)** In the case of a rear impact guard that is symmetrical about the longitudinal vertical plane passing through the centre of the horizontal member, one half of the guard may be tested in accordance with subsection (12) if it is completely severed from the portion of the guard not being tested.
+- **(11)** In the case of a rear impact guard that is symmetrical about the longitudinal vertical plane passing through the centre of the horizontal member, one half of the guard may be tested in accordance with subsection (12) if it is completely severed from the portion of the guard not being tested.
 
 - **(12)** When one half of a rear impact guard is tested it shall,
-	- **(a)** by deflecting no more than 125 mm, demonstrate resistance to a test load of at least 175 000 N, which shall be applied
-		- **(i)** uniformly across the tested portion of the horizontal member by a uniform load application structure centred on that portion, as shown in Figure 2 of Test Method 223 – Rear Impact Guard (December 2003), or
-		- **(ii)** by a single point load at one of the P3 test locations on the tested portion of the horizontal member, as shown in Figure 2;
-	- **(b)** in the case of a tested portion of a horizontal member that demonstrates resistance to a test load of 350 000 N or less, other than a hydraulic guard or one installed on a tanker trailer, absorb by plastic deformation at least 10 000 J of energy within the first 125 mm of deflection; and
-	- **(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
+	- **(a)** by deflecting no more than 125 mm, demonstrate resistance to a test load of at least 175 000 N, which shall be applied
+		- **(i)** uniformly across the tested portion of the horizontal member by a uniform load application structure centred on that portion, as shown in Figure 2 of Test Method 223 – Rear Impact Guard (December 2003), or
+		- **(ii)** by a single point load at one of the P3 test locations on the tested portion of the horizontal member, as shown in Figure 2;
+	- **(b)** in the case of a tested portion of a horizontal member that demonstrates resistance to a test load of 350 000 N or less, other than a hydraulic guard or one installed on a tanker trailer, absorb by plastic deformation at least 10 000 J of energy within the first 125 mm of deflection; and
+	- **(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
 
 - 
 <table>
 <tr>
 <td>
-> Image: Diagram showing a side view of a trailer with measurements and descriptions.
+> Image: Diagram showing a side view of a trailer with measurements and descriptions
+
+
+###### Note:
+
+- **1** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Note:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 1 — Side View of Trailer</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing a rear view of a trailer with measurements and descriptions.
+> Image: Diagram showing a rear view of a trailer with measurements and descriptions
+
+
+###### Note:
+
+- **1** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Note:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 2 — Rear View of Trailer</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing the Load Application Test for a trailer with descriptions.
+> Image: Diagram showing the Load Application Test for a trailer with descriptions
+
+
+###### Note:
+
+- **1** Drawing not to scale
+
 </td>
-</tr>
-<tr>
-<td>Note:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Drawing not to scale</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 3 — Load Application Test</td>
 </tr>
 </table>
 
@@ -7976,33 +7178,33 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 **301.1** 
 
-- **(1)** Subject to subsections (3) and (3.1), a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall meet the requirements of subsection (2) when tested in accordance with Test Method 301.1 — LPG Fuel System Integrity (February 28, 2004),
-	- **(a)** in the case of a vehicle with a GVWR of 4 536 kg or less,
-		- **(i)** by the vehicle impacting a fixed collision barrier that is at any angle of up to 30° in either direction to the perpendicular to the vehicle’s line of travel while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h,
-		- **(ii)** by a collision barrier travelling at 48 km/h impacting the vehicle from the rear, and
-		- **(iii)** by a collision barrier travelling at 32 km/h impacting the vehicle laterally on either side; and
-	- **(b)** in the case of a vehicle with a GVWR of more than 4 536 kg, by a moving contoured barrier assembly travelling at any speed up to and including 48 km/h impacting the vehicle at any point and any angle.
+- **(1)** Subject to subsections (3) and (3.1), a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall meet the requirements of subsection (2) when tested in accordance with Test Method 301.1 — LPG Fuel System Integrity (February 28, 2004),
+	- **(a)** in the case of a vehicle with a GVWR of 4 536 kg or less,
+		- **(i)** by the vehicle impacting a fixed collision barrier that is at any angle of up to 30° in either direction to the perpendicular to the vehicle’s line of travel while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h,
+		- **(ii)** by a collision barrier travelling at 48 km/h impacting the vehicle from the rear, and
+		- **(iii)** by a collision barrier travelling at 32 km/h impacting the vehicle laterally on either side; and
+	- **(b)** in the case of a vehicle with a GVWR of more than 4 536 kg, by a moving contoured barrier assembly travelling at any speed up to and including 48 km/h impacting the vehicle at any point and any angle.
 
-- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.1 – LPG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
+- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.1 – LPG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
 
-- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.1 – LPG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
+- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.1 – LPG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
 
-- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
+- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
 
-- **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
+- **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
 	- **(a)** fuel spillage from the fuel system after each impact from the moment of the impact until one-half hour after motion of the vehicle ceases shall not exceed 142 g;
 	- **(b)** the temperature-corrected pressure in the high-pressure portion of the fuel system shall not decrease to less than 95 per cent of the initial system pressure during the one-half hour period after motion of the vehicle ceases; and
 	- **(c)** the fuel container shall remain attached to the vehicle at a minimum of one attachment point.
 
-- **(3)** Instead of complying with subsections (1) and (2), a vehicle, other than a school bus, that is equipped with a fuel system that uses LPG as a source of energy for its propulsion may comply with
-	- **(a)** the version of National Standard of Canada CAN/CGA-12.2, Propane Fuel System Components for Use on Highway Vehicles, that, despite any statement to the contrary in that Standard, is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; and
-	- **(b)** section 4, Installation of Propane Fuel Systems and Tanks on Highway Vehicles, of the version of National Standard of Canada CAN/CGA-B149.5, Installation Code for Propane Fuel Systems and Tanks on Highway Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
+- **(3)** Instead of complying with subsections (1) and (2), a vehicle, other than a school bus, that is equipped with a fuel system that uses LPG as a source of energy for its propulsion may comply with
+	- **(a)** the version of National Standard of Canada CAN/CGA-12.2, Propane Fuel System Components for Use on Highway Vehicles, that, despite any statement to the contrary in that Standard, is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; and
+	- **(b)** section 4, Installation of Propane Fuel Systems and Tanks on Highway Vehicles, of the version of National Standard of Canada CAN/CGA-B149.5, Installation Code for Propane Fuel Systems and Tanks on Highway Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
 		- **(i)** any requirement to obtain an approval from an authority having jurisdiction or an inspection authority of a province or territory, and
 		- **(ii)** any requirement for the inspection or requalification of a fuel system or tank after the main assembly of the vehicle has been completed.
 
-- **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall comply with the standards referred to in subsection (3).
+- **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall comply with the standards referred to in subsection (3).
 
-- **(4)** A manufacturer of a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standard referred to in subsection (3) with which the vehicle complies.
+- **(4)** A manufacturer of a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standard referred to in subsection (3) with which the vehicle complies.
 
 - **(5)** [Repealed, SOR/2004-89, s. 2]
 > SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20..
@@ -8014,23 +7216,23 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 **301.2** 
 
-- **(1)** Subject to subsections (3) and (3.1), a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall meet the requirements of subsection (2) when tested in accordance with Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004),
-	- **(a)** in the case of a vehicle with a GVWR of 4 536 kg or less,
-		- **(i)** by the vehicle impacting a fixed collision barrier that is at any angle of up to 30° in either direction to the perpendicular to the vehicle’s line of travel while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h,
-		- **(ii)** by a collision barrier travelling at 48 km/h impacting the vehicle from the rear, and
-		- **(iii)** by a collision barrier travelling at 32 km/h impacting the vehicle laterally on either side; and
-	- **(b)** in the case of a vehicle with a GVWR of more than 4 536 kg, by a moving contoured barrier assembly travelling at any speed up to and including 48 km/h impacting the vehicle at any point and any angle.
+- **(1)** Subject to subsections (3) and (3.1), a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall meet the requirements of subsection (2) when tested in accordance with Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004),
+	- **(a)** in the case of a vehicle with a GVWR of 4 536 kg or less,
+		- **(i)** by the vehicle impacting a fixed collision barrier that is at any angle of up to 30° in either direction to the perpendicular to the vehicle’s line of travel while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h,
+		- **(ii)** by a collision barrier travelling at 48 km/h impacting the vehicle from the rear, and
+		- **(iii)** by a collision barrier travelling at 32 km/h impacting the vehicle laterally on either side; and
+	- **(b)** in the case of a vehicle with a GVWR of more than 4 536 kg, by a moving contoured barrier assembly travelling at any speed up to and including 48 km/h impacting the vehicle at any point and any angle.
 
-- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
+- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
 
-- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
+- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
 
-- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
+- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
 
-- **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
+- **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
 	- **(a)** the fuel container shall remain attached to the vehicle at a minimum of one attachment point; and
-	- **(b)** when the pressure in the high-pressure portion of the fuel system is the greater of the maximum operating pressure and 20 680 kPa, this pressure shall not decrease during the 60-minute period after each impact by more than the greater of
-		- **(i)** 1 062 kPa, and
+	- **(b)** when the pressure in the high-pressure portion of the fuel system is the greater of the maximum operating pressure and 20 680 kPa, this pressure shall not decrease during the 60-minute period after each impact by more than the greater of
+		- **(i)** 1 062 kPa, and
 		- **(ii)** the product, expressed in kPa, obtained using the following formula:
 ```
 895 (T/V<sub>FS</sub>)
@@ -8039,17 +7241,17 @@ where
 - **T** is the ambient temperature of the test gas in degrees Kelvin, and
 - **V** <sub>FS</sub>is the volume of the high-pressure portion of the fuel system in litres.
 
-- **(3)** Instead of complying with subsection (1), a vehicle, other than a school bus, that is equipped with a fuel system that uses CNG as a source of energy for its propulsion may comply with section 4 of the version of Canadian Standards Association Standard CSA B109, Natural Gas for Vehicles Installation Code, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
+- **(3)** Instead of complying with subsection (1), a vehicle, other than a school bus, that is equipped with a fuel system that uses CNG as a source of energy for its propulsion may comply with section 4 of the version of Canadian Standards Association Standard CSA B109, Natural Gas for Vehicles Installation Code, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
 	- **(a)** any requirement to obtain an approval from, or to act under the supervision of, an authority having jurisdiction or the boiler and pressure vessel inspection authority of a province or territory; and
 	- **(b)** any requirement respecting inspection, service or repair after the main assembly of the vehicle has been completed.
 
-- **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall comply with the standard referred to in subsection (3).
+- **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall comply with the standard referred to in subsection (3).
 
 - **(4)** Only a CNG cylinder that is marked in accordance with the marking requirements in one of the following standards to indicate that the cylinder complies with that standard may be installed on a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion:
-	- **(a)** the version of Canadian Standards Association Standard CSA B51, Part 2, High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; or
-	- **(b)** the version of American National Standard ANSI/AGA - NGV2, Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard.
+	- **(a)** the version of Canadian Standards Association Standard CSA B51, Part 2, High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; or
+	- **(b)** the version of American National Standard ANSI/AGA - NGV2, Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard.
 
-- **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
+- **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
 
 - **(6)** [Repealed, SOR/2004-89, s. 3]
 > SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21..
@@ -8061,26 +7263,26 @@ where
 
 **301.3** 
 
-- **(1)** A three-wheeled vehicle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J288, Snowmobile Fuel Tanks (revised version of November 1983), except that section 1 of that Practice does not apply.
+- **(1)** A three-wheeled vehicle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J288, Snowmobile Fuel Tanks (revised version of November 1983), except that section 1 of that Practice does not apply.
 
 - **(2)** For the purposes of this section,
-	- **(a)** the word “should” in sections 3.2, 3.3 and 4.3 and in the footnote on page 5 of SAE Recommended Practice J288 shall be interpreted as expressing an obligation;
-	- **(b)** the words “snowmobile fuel” in sections 3.2, 4.3 and 4.5 of SAE Recommended Practice J288 shall be read as “unleaded gasoline”; and
-	- **(c)** the word “snowmobile” in sections 4.3 and 4.5 of SAE Recommended Practice J288 shall be read as “vehicle”.
+	- **(a)** the word “should” in sections 3.2, 3.3 and 4.3 and in the footnote on page 5 of SAE Recommended Practice J288 shall be interpreted as expressing an obligation;
+	- **(b)** the words “snowmobile fuel” in sections 3.2, 4.3 and 4.5 of SAE Recommended Practice J288 shall be read as “unleaded gasoline”; and
+	- **(c)** the word “snowmobile” in sections 4.3 and 4.5 of SAE Recommended Practice J288 shall be read as “vehicle”.
 
-- **(3)** Subject to subsection (5), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J1241, Fuel and Lubricant Tanks for Motorcycles (revised version of November 1999), except that section 1 of that Practice does not apply.
+- **(3)** Subject to subsection (5), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J1241, Fuel and Lubricant Tanks for Motorcycles (revised version of November 1999), except that section 1 of that Practice does not apply.
 
 - **(4)** For the purposes of this section,
-	- **(a)** the words “rated fuel capacity” in SAE Recommended Practice J1241 shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations; and
-	- **(b)** the words “significant effect” in sections 5.2.3 and 5.3.3 of SAE Recommended Practice J1241 shall be read as “any effect resulting in the cracking or leaking of the tank”.
+	- **(a)** the words “rated fuel capacity” in SAE Recommended Practice J1241 shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations; and
+	- **(b)** the words “significant effect” in sections 5.2.3 and 5.3.3 of SAE Recommended Practice J1241 shall be read as “any effect resulting in the cracking or leaking of the tank”.
 
-- **(5)** Instead of complying with subsection (3), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion may meet the requirements of the following parts of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles, as amended from time to time,
-	- **(a)** Annex I, except that section 1.0 does not apply; and
-	- **(b)** Appendix 1 to Annex I, except that sections 2.2 and 4 of that Appendix do not apply.
+- **(5)** Instead of complying with subsection (3), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion may meet the requirements of the following parts of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles, as amended from time to time,
+	- **(a)** Annex I, except that section 1.0 does not apply; and
+	- **(b)** Appendix 1 to Annex I, except that sections 2.2 and 4 of that Appendix do not apply.
 
-- **(6)** For the purposes of this section, the words “rated capacity” and “nominal capacity” in Annex I and Appendix 1 to Annex I of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations.
+- **(6)** For the purposes of this section, the words “rated capacity” and “nominal capacity” in Annex I and Appendix 1 to Annex I of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations.
 
-- **(7)** Motorcycles that are manufactured before September 1, 2004 need not comply with this section.
+- **(7)** Motorcycles that are manufactured before September 1, 2004 need not comply with this section.
 > SOR/2003-272, s. 31..
 
 
@@ -8162,18 +7364,18 @@ where
 
 **505** 
 
-- **(1)** Subject to subsection (2), the height of the centre of mass, shown in Figure 1, of a motor tricycle or a three-wheeled vehicle shall not exceed one and a half times the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2.
+- **(1)** Subject to subsection (2), the height of the centre of mass, shown in Figure 1, of a motor tricycle or a three-wheeled vehicle shall not exceed one and a half times the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2.
 
-- **(2)** Subsection (1) does not apply to a motor tricycle designed in such a way that it leans during a turning manoeuvre in the same direction as the turn.
+- **(2)** Subsection (1) does not apply to a motor tricycle designed in such a way that it leans during a turning manoeuvre in the same direction as the turn.
 
 - **(3)** The total weight of a motor tricycle or three-wheeled vehicle on all its front wheels, as measured at the tire-ground interfaces, shall be not less than 25 per cent and not greater than 70 per cent of the loaded weight of that vehicle.
 
 - **(4)** The loaded weight of a motor tricycle or three-wheeled vehicle and the location of its centre of mass shall be determined under the following conditions:
 	- **(a)** the fuel tank is filled to any level from 90 to 95 per cent of the vehicle fuel tank capacity;
-	- **(b)** a 50th percentile adult male anthropomorphic test device or an equivalent mass is located at every front outboard designated seating position but, if an equivalent mass is used, its centre of mass shall coincide, within 12 mm in the vertical dimension and 12 mm in the horizontal dimension, with a point 6 mm below the position of the H-point as determined by using the equipment and procedures specified in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 414 mm and 401 mm, respectively, instead of the 50th percentile values specified in Table 1 of that standard; and
+	- **(b)** a 50th percentile adult male anthropomorphic test device or an equivalent mass is located at every front outboard designated seating position but, if an equivalent mass is used, its centre of mass shall coincide, within 12 mm in the vertical dimension and 12 mm in the horizontal dimension, with a point 6 mm below the position of the H-point as determined by using the equipment and procedures specified in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 414 mm and 401 mm, respectively, instead of the 50th percentile values specified in Table 1 of that standard; and
 	- **(c)** adjustable seats are placed in the adjustment position that is midway between the forward-most and rearmost positions and, if separately adjustable in a vertical direction, shall be at the lowest position but, if an adjustment position does not exist midway between the forward-most and rearmost positions, the closest adjustment position to the rear of the midpoint shall be used.
 
-- **(5)** For a motor tricycle or three-wheeled vehicle with one wheel at the front and two wheels at the rear, the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2, shall be determined using the equation
+- **(5)** For a motor tricycle or three-wheeled vehicle with one wheel at the front and two wheels at the rear, the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2, shall be determined using the equation
 ```
 d = L sin (arctan (t / 2W))
 ```
@@ -8183,7 +7385,7 @@ where
 - **t** is the width of the wheel track of the rear axle; and
 - **W** is the wheelbase.
 
-- **(6)** For a motor tricycle or three-wheeled vehicle with two wheels at the front and one wheel at the rear, the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2, shall be determined using the equation
+- **(6)** For a motor tricycle or three-wheeled vehicle with two wheels at the front and one wheel at the rear, the horizontal distance from the centre of mass to the nearest roll axis, shown in Figure 2, shall be determined using the equation
 ```
 d = (W – L) sin (arctan (t / 2W ))
 ```
@@ -8199,54 +7401,32 @@ where
 <table>
 <tr>
 <td>
-> Image: Diagram showing the Side View of a Motor Tricycle with measurements and descriptions.
+> Image: Diagram showing the Side View of a Motor Tricycle with measurements and descriptions
+
+
+###### Legend
+
+- h is the height of the centre of mass
+- L is the longitudinal distance between the centre of mass and the centre of the front axle
+- W is the wheelbase
+
 </td>
-</tr>
-<tr>
-<td>Legend</td>
-</tr>
-<tr>
-<td>h is the height of the centre of mass</td>
-</tr>
-<tr>
-<td>L is the longitudinal distance between the centre of mass and the centre of the front axle</td>
-</tr>
-<tr>
-<td>W is the wheelbase</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 1 — Side View</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td>
-> Image: Diagram showing the Top View of a Motor Tricycle with measurements and descriptions.
+> Image: Diagram showing the Top View of a Motor Tricycle with measurements and descriptions
+
+
+###### Legend
+
+- d is the horizontal distance from the centre of mass to the nearest roll axis
+- t is the width of the wheel track of the front or rear axle
+- W is the wheelbase
+
 </td>
-</tr>
-<tr>
-<td>Legend</td>
-</tr>
-<tr>
-<td>d is the horizontal distance from the centre of mass to the nearest roll axis</td>
-</tr>
-<tr>
-<td>t is the width of the wheel track of the front or rear axle</td>
-</tr>
-<tr>
-<td>W is the wheelbase</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Figure 2 — Top View</td>
 </tr>
 </table>
 
@@ -8275,7 +7455,7 @@ where
 		- **(iv)** the disc wheels, or
 		- **(v)** the tires.
 
-- **(3)** The rated load carrying capacity referred to in paragraphs 2(a) and (b) for suspension springs, axles, hubs, disc wheels, spoke wheels, demountable rims or tires shall
+- **(3)** The rated load carrying capacity referred to in paragraphs 2(a) and (b) for suspension springs, axles, hubs, disc wheels, spoke wheels, demountable rims or tires shall
 	- **(a)** be measured at the tire-ground interface; and
 	- **(b)** except in the case of heavy hauler trailers, be the continuous service ratings supplied by the respective manufacturers of the suspension springs, axles, hubs, disc wheels, spoke wheels, demountable rims or tires.
 > SOR/79-940, s. 10; SOR/97-421, s. 14(E)..
@@ -8298,67 +7478,67 @@ where
 - **(1)** Every C-dolly shall be equipped with
 	- **(a)** an automotive-type or a turntable-type self-steering mechanism;
 	- **(b)** a means to return the wheels to within one degree of the straight-ahead position whenever any steering force applied to the wheels is removed;
-	- **(c)** a device that automatically locks the steering mechanism in the straight-ahead position in the event of a failure of the means referred to in paragraph (b); and
+	- **(c)** a device that automatically locks the steering mechanism in the straight-ahead position in the event of a failure of the means referred to in paragraph (b); and
 	- **(d)** a device
 		- **(i)** that includes a switch by means of which the driver can, while seated in the normal driving position in the cab of the truck towing the C-dolly, lock the steering mechanism in the straight-ahead position, or unlock it,
 		- **(ii)** that locks the steering mechanism in the straight-ahead position in the event that the control for the device fails or the power supply to the device terminates, and
-		- **(iii)** that includes, in both official languages, the information specified in subparagraphs (12)(b)(i) and (ii) on the switch referred in subparagraph (i) or on a label affixed near that switch.
+		- **(iii)** that includes, in both official languages, the information specified in subparagraphs (12)(b)(i) and (ii) on the switch referred in subparagraph (i) or on a label affixed near that switch.
 
-- **(2)** Every C-dolly shall have a GAWR of 9 100 kg.
+- **(2)** Every C-dolly shall have a GAWR of 9 100 kg.
 
 - **(3)** The longitudinal distance on a C-dolly, measured on the longitudinal centre-line from a point aligned with the centre of the coupling to a point aligned with the centre of the axle, shall be no greater than 2 m.
 
 - **(4)** Where the coupling on a C-dolly consists of a single component, that coupling shall have
 	- **(a)** a static load rating of
-		- **(i)** 800 kN in the longitudinal direction, and
-		- **(ii)** 80 kN in the lateral direction; and
-	- **(b)** a static moment rating of 76.2 kN.m about the longitudinal axis of the C-dolly.
+		- **(i)** 800 kN in the longitudinal direction, and
+		- **(ii)** 80 kN in the lateral direction; and
+	- **(b)** a static moment rating of 76.2 kN.m about the longitudinal axis of the C-dolly.
 
 - **(5)** Where the coupling on a C-dolly consists of two metal eyes, the two eyes shall
-	- **(a)** be separated laterally by a distance of 762 mm ± 2 mm;
+	- **(a)** be separated laterally by a distance of 762 mm ± 2 mm;
 	- **(b)** be equidistant from the longitudinal centre-line of the C-dolly;
-	- **(c)** have a mounting height of 900 mm ± 10 mm, when the C-dolly is not loaded; and
+	- **(c)** have a mounting height of 900 mm ± 10 mm, when the C-dolly is not loaded; and
 	- **(d)** each have a static load rating of
-		- **(i)** 400 kN in the longitudinal direction,
-		- **(ii)** 100 kN in the vertical direction, and
-		- **(iii)** 40 kN in the lateral direction.
+		- **(i)** 400 kN in the longitudinal direction,
+		- **(ii)** 100 kN in the vertical direction, and
+		- **(iii)** 40 kN in the lateral direction.
 
-- **(6)** Where a C-dolly is tested in accordance with the Motor Vehicle Safety Test Methods, Section 903 - C-dolly (October 1, 1992), published by the Department of Transport,
-	- **(a)** the axis of rotation of a turntable-type steering mechanism shall not deviate from the vertical by more than 0.5 degree;
-	- **(b)** the kingpin axes of an automotive-type steering mechanism shall not deviate from the vertical by more than 0.5 degree;
+- **(6)** Where a C-dolly is tested in accordance with the Motor Vehicle Safety Test Methods, Section 903 - C-dolly (October 1, 1992), published by the Department of Transport,
+	- **(a)** the axis of rotation of a turntable-type steering mechanism shall not deviate from the vertical by more than 0.5 degree;
+	- **(b)** the kingpin axes of an automotive-type steering mechanism shall not deviate from the vertical by more than 0.5 degree;
 	- **(c)** the steering mechanism shall keep the wheels within one degree of the straight-ahead position when the steering mechanism is subjected to
-		- **(i)** a lateral force of 22 320 N that is applied to a point located 50 mm behind the centre of the tire contact patch, or
-		- **(ii)** a longitudinal force of 8 930 N that is applied through the centre of one of the tires in the case of a C-dolly that is equipped with one tire on each side, and through the centre of one of the dual tires and wheel assemblies in the case of a C-dolly that is equipped with two tires on each side; and
-	- **(d)** the steering mechanism shall not permit the wheels to move beyond one degree from the straight-ahead position unless the steering mechanism is subjected to a force exceeding the force referred to in subparagraph (c)(i) or (ii).
+		- **(i)** a lateral force of 22 320 N that is applied to a point located 50 mm behind the centre of the tire contact patch, or
+		- **(ii)** a longitudinal force of 8 930 N that is applied through the centre of one of the tires in the case of a C-dolly that is equipped with one tire on each side, and through the centre of one of the dual tires and wheel assemblies in the case of a C-dolly that is equipped with two tires on each side; and
+	- **(d)** the steering mechanism shall not permit the wheels to move beyond one degree from the straight-ahead position unless the steering mechanism is subjected to a force exceeding the force referred to in subparagraph (c)(i) or (ii).
 
-- **(7)** Where a C-dolly is equipped with a pressurized hydraulic or pneumatic system that provides the means referred to in paragraph (1)(b), the system shall
+- **(7)** Where a C-dolly is equipped with a pressurized hydraulic or pneumatic system that provides the means referred to in paragraph (1)(b), the system shall
 	- **(a)** be independent of the brake system of the C-dolly;
 	- **(b)** be fitted with a pressure gauge that indicates
-		- **(i)** the minimum pressure required to meet the requirements of paragraphs (1)(b) and (6)(c) and (d), and
+		- **(i)** the minimum pressure required to meet the requirements of paragraphs (1)(b) and (6)(c) and (d), and
 		- **(ii)** the amount of pressure in the system; and
 	- **(c)** not permit any adjustment of the steering force.
 
-- **(8)** Every C-dolly referred to in subsection (7) shall bear a label, in both official languages, that states the minimum pressure referred to in paragraph (7)(b).
+- **(8)** Every C-dolly referred to in subsection (7) shall bear a label, in both official languages, that states the minimum pressure referred to in paragraph (7)(b).
 
-- **(9)** Every pressure gauge referred to in subsection (7) and every manual valve and switch, if any, that forms part of a system referred to in that subsection, and every label referred to in subsection (8), shall be protected from adverse weather conditions.
+- **(9)** Every pressure gauge referred to in subsection (7) and every manual valve and switch, if any, that forms part of a system referred to in that subsection, and every label referred to in subsection (8), shall be protected from adverse weather conditions.
 
-- **(10)** Every C-dolly that is subjected to a torsion test conducted in accordance with the Motor Vehicle Safety Test Methods, Section 903 - C-dolly (October 1, 1992), published by the Department of Transport, shall have a torsional stiffness of at least 3 000 N.m/degree with respect to the longitudinal direction, and shall be capable of sustaining a torque of at least 45 000 N.m in either direction without incurring a residual deformation that exceeds 0.5 degree.
+- **(10)** Every C-dolly that is subjected to a torsion test conducted in accordance with the Motor Vehicle Safety Test Methods, Section 903 - C-dolly (October 1, 1992), published by the Department of Transport, shall have a torsional stiffness of at least 3 000 N.m/degree with respect to the longitudinal direction, and shall be capable of sustaining a torque of at least 45 000 N.m in either direction without incurring a residual deformation that exceeds 0.5 degree.
 
 - **(11)** Where a C-dolly is equipped with a device that is intended to lock the steering mechanism automatically according to the speed of the C-dolly, that device shall
-	- **(a)** lock the steering mechanism in the straight-ahead position when the C-dolly is travelling at a speed of 60 km/h and keep the steering mechanism locked when the C-dolly is travelling at a speed greater than 60 km/h; and
-	- **(b)** unlock the steering mechanism when the C-dolly is travelling at a speed of 50 km/h and keep the steering mechanism unlocked when the C-dolly is travelling at a speed less than 50 km/h.
+	- **(a)** lock the steering mechanism in the straight-ahead position when the C-dolly is travelling at a speed of 60 km/h and keep the steering mechanism locked when the C-dolly is travelling at a speed greater than 60 km/h; and
+	- **(b)** unlock the steering mechanism when the C-dolly is travelling at a speed of 50 km/h and keep the steering mechanism unlocked when the C-dolly is travelling at a speed less than 50 km/h.
 
 - **(12)** Every C-dolly shall
 	- **(a)** have a flat surface that is horizontal when the C-dolly is not loaded and when the centre of the coupling on the C-dolly is held at the mounting height in accordance with the manufacturer’s design; and
 	- **(b)** bear a label, in both official languages, that states
-		- **(i)** that the steering mechanism should be locked when the C-dolly is travelling at a speed of 60 km/h or more on any slippery or unpaved road, and that the steering mechanism should be unlocked when the C-dolly is travelling at a speed of 50 km/h or less, and
+		- **(i)** that the steering mechanism should be locked when the C-dolly is travelling at a speed of 60 km/h or more on any slippery or unpaved road, and that the steering mechanism should be unlocked when the C-dolly is travelling at a speed of 50 km/h or less, and
 		- **(ii)** that the C-dolly shall not be attached to a straight truck.
 
-- **(13)** The flat surface referred to in paragraph (12)(a) shall be
-	- **(a)** at least 30 cm in length, measured longitudinally;
-	- **(b)** at least 5 cm in width, measured laterally;
+- **(13)** The flat surface referred to in paragraph (12)(a) shall be
+	- **(a)** at least 30 cm in length, measured longitudinally;
+	- **(b)** at least 5 cm in width, measured laterally;
 	- **(c)** accessible from both sides of the C-dolly; and
-	- **(d)** within 50 cm of the coupling of the C-dolly.
+	- **(d)** within 50 cm of the coupling of the C-dolly.
 > SOR/93-146, s. 4; SOR/2008-104, s. 22..
 
 
@@ -8370,20 +7550,20 @@ where
 
 - **(1)** Every trailer that is designed to tow a C-dolly shall be equipped with a coupling to connect the trailer to the C-dolly.
 
-- **(2)** Where a coupling referred to in subsection (1) consists of a single component, the coupling shall have
+- **(2)** Where a coupling referred to in subsection (1) consists of a single component, the coupling shall have
 	- **(a)** a static load rating of
-		- **(i)** 800 kN in the longitudinal direction, and
-		- **(ii)** 80 kN in the lateral direction; and
-	- **(b)** a static moment rating of 76.2 kN.m about the longitudinal axis of the C-dolly.
+		- **(i)** 800 kN in the longitudinal direction, and
+		- **(ii)** 80 kN in the lateral direction; and
+	- **(b)** a static moment rating of 76.2 kN.m about the longitudinal axis of the C-dolly.
 
-- **(3)** Where a coupling referred to in subsection (1) consists of two separate hitches, the hitches shall
-	- **(a)** be separated laterally by a distance of 762 mm ± 2 mm;
+- **(3)** Where a coupling referred to in subsection (1) consists of two separate hitches, the hitches shall
+	- **(a)** be separated laterally by a distance of 762 mm ± 2 mm;
 	- **(b)** be equidistant from the longitudinal centre-line of the trailer;
-	- **(c)** have a mounting height of 900 mm ± 10 mm, when the trailer is not loaded; and
+	- **(c)** have a mounting height of 900 mm ± 10 mm, when the trailer is not loaded; and
 	- **(d)** each have a static load rating of
-		- **(i)** 400 kN in the longitudinal direction,
-		- **(ii)** 100 kN in the vertical direction, and
-		- **(iii)** 40 kN in the lateral direction.
+		- **(i)** 400 kN in the longitudinal direction,
+		- **(ii)** 100 kN in the vertical direction, and
+		- **(iii)** 40 kN in the lateral direction.
 > SOR/93-146, s. 4; SOR/2008-104, s. 23..
 
 
@@ -8395,23 +7575,23 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)
 
-- **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
+- **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
 - **(3)** Every trailer shall, for the purpose of affixing cargo, be equipped with at least the number of cargo anchoring devices determined in accordance with the formula
 ```
-N = M / 2 000 kg
+N = M / 2 000 kg
 ```
 where
 - **N** is the minimum number of cargo anchoring devices, rounded up to the next even whole number; and
 - **M** is the cargo carrying capacity of the trailer, calculated as the difference between its gross vehicle weight rating and its curb mass, expressed in kilograms.
 
-- **(4)** The minimum number of cargo anchoring devices determined in accordance with subsection (3) shall, when tested in accordance with Test Method 905-Trailer Cargo Anchoring Devices (August 1998), withstand a force of at least 67 000 N applied in an upward vertical direction.
+- **(4)** The minimum number of cargo anchoring devices determined in accordance with subsection (3) shall, when tested in accordance with Test Method 905-Trailer Cargo Anchoring Devices (August 1998), withstand a force of at least 67 000 N applied in an upward vertical direction.
 > SOR/98-595, s. 2..
 
 
@@ -8421,7 +7601,7 @@ where
 
 **906** Every snowmobile trailer shall be equipped with
 - **(a)** one or more tie-down cross bars located in such a manner as to be capable of clamping the skis of as many snowmobiles as the trailer is capable of carrying; and
-- **(b)** tie-down points to which each snowmobile can be secured by ropes or straps and that are of sufficient strength to withstand a force of 2 224.11 N (500 pounds) applied separately from any direction to each tie-down point.
+- **(b)** tie-down points to which each snowmobile can be secured by ropes or straps and that are of sufficient strength to withstand a force of 2 224.11 N (500 pounds) applied separately from any direction to each tie-down point.
 > SOR/2003-359, s. 4.
 
 
