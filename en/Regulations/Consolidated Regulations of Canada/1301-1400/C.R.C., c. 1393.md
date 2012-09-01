@@ -24,14 +24,18 @@ Enabling authorities:
 ## Interpretation
 
 
-**2** In these Regulations,
+**2** The following definitions apply in these Regulations.
 
-***Act*** means the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md); (*Loi*)
+***Act*** means the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md). (*Loi*)
 
 ***a(f) Ultimate*** and ***a(f) and a(m) Ultimate*** Tables means the tables so entitled appearing in the “Mortality of Annuitants 1900-1920” published on behalf of the Institute of Actuaries and The Faculty of Actuaries in Scotland, 1924. (*Table a(f) Ultimate** et **Table a(f) et a(m) Ultimate*)
 
-***valuation day*** means the day on which the commuted value referred to in subsection 12.1(1) of the Act is transferred. (*date d’évaluation*) 
-> SOR/2003-232, s. 1.
+***authorized advisor*** means a member of the Force, a person employed in the public service or a person whose services were retained by the Minister for the purposes of the Act. (*conseiller autorisé*)
+
+***Commissioner*** has the same meaning as in subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md). (*commissaire*)
+
+***valuation day*** means the day on which the transfer value referred to in subsection 12.1(1) of the Act is transferred. (*date d’évaluation*) 
+> SOR/2003-232, s. 1; SOR/2012-124, ss. 1, 31.
 
 
 
@@ -50,7 +54,9 @@ Enabling authorities:
 
 
 
-**3** For the purpose of the definition ***active service*** in subsection 3(1) of the Act,
+**3** 
+
+- **(1)** For the purpose of the definition ***active service*** in subsection 3(1) of the Act,
 
 ***active service*** means full-time service as a member of
 - **(a)** a component of the naval, army or air forces of Canada while that component was on active service having been placed on active service by the Governor in Council pursuant to the Militia Act<sup><a href='#footnote1_e'>[1]</a></sup>, or
@@ -59,7 +65,9 @@ Enabling authorities:
 <a name='footnote1_e'><sup>1</sup></a>: Revoked by S.C., 1950, c. 43, s. 250.<br />
 
 ***veterans’ hospital*** means, with respect to any person, any place where that person underwent on an in-patient basis, or on an out-patient basis with allowances, treatment authorized by the Department of Veterans Affairs, the Department of Pensions and National Health or the Department of Soldiers’ Civil Re-establishment. (*hôpital des anciens combattants*) 
-> SOR/93-219, s. 2.
+
+- **(2)** For the purposes of paragraphs (b) to (d) of the definition ***service in the Force*** in subsection 3(1) of the Act, a “police officer” is any person who is considered to be a police officer for the purposes of paragraph (b) of the definition ***public safety occupation*** in subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
+> SOR/93-219, s. 2; SOR/2012-124, s. 2.
 
 
 
@@ -78,9 +86,7 @@ Enabling authorities:
 
 **5** 
 
-- **(1)** Any period of service of a person as a special constable in the Force before April 1, 1960, or any period of service of a person as a member of a provincial or municipal police force of a province or municipality with which the Governor in Council has entered into an arrangement under section 5 of the former Act, or with which the Minister has entered into an arrangement under section 20 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), may be counted as service in the Force for the purposes of Parts I and II of the Act.
-
-- **(2)** Notwithstanding subsection (1), a period of service of a person as a member of a provincial or municipal police force described in subsection (1) may be counted as service in the Force for the purposes of Part II of the Act only if his service in the force has been continuous since the date of absorption of that police force into the Force and the disability sustained during that period, in respect of which the application for pension under that Part is made, is a disability for which that person is not and was not eligible to receive compensation under a law of a province that provides for the payment of workmen’s compensation.
+- **(1) and (2)** [Repealed, SOR/2012-124, s. 3]
 
 - **(3)** For the purposes of paragraph 8(2)(c) of the Act, a period of service of less than 90 days means any period of service in a fiscal year in which the aggregate number of days during which a person has been employed is less than 90, but does not include any period of service that may be counted pursuant to
 	- **(a)** clause 6(b)(ii)(A) of the Act;
@@ -88,7 +94,7 @@ Enabling authorities:
 	- **(c)** section 24 of the Act, where the service
 		- **(i)** immediately precedes the day on which the member becomes a contributor, or
 		- **(ii)** is part of a continuous period of service of at least 90 days that begins in one fiscal year and ends in the succeeding fiscal year.
-> SOR/93-219, s. 2; SOR/2001-130, s. 2(F).
+> SOR/93-219, s. 2; SOR/2001-130, s. 2(F); SOR/2012-124, s. 3.
 
 
 
@@ -381,53 +387,221 @@ where
 
 
 
-## Payments by Instalments
+## Election to Pay for a Period of Service
+
+
+
+### Election Under Paragraph 6(b) of the Act
+
+
+
+#### Terms of Payment and Default
 
 
 **9** 
 
-- **(1)** Where a contributor has elected to pay in instalments for any period of service for which he has elected to pay into the Superannuation Account for life, or for a period of years not greater than life, such payments shall be made in the following manner:
-	- **(a)** the first instalment shall be due and payable on the first day of the month next following the month of election and succeeding instalments monthly thereafter during the term selected by the contributor, computed in accordance with Canadian Life Table No. 2 (1941), Males or Females, as the case may be, with interest at the rate of four per cent per annum; and
-	- **(b)** the contributor may from time to time amend his payment plan to provide for payment of the instalments still to be paid in a lump sum or by larger monthly instalments on a basis similar to that described in paragraph (a), calculated as of the date of the amendment.
+- **(1)** A contributor who opts to pay by instalments for a period of service referred to in paragraph 6(b) of the Act shall pay by monthly instalments.
 
-- **(2)** Where a contributor has opted, pursuant to subsection 8(5) of the Act, to pay an amount in instalments for a duration of less than for life, and financial hardship unforeseen by the contributor at the date of the option would be caused by the requirement to continue to pay such instalments, on application to the Minister by the contributor, the contributor may pay the amount owing in instalments over a period not exceeding three times the period over which the instalments would be paid under subsection 8(5) of the Act or 15 years, whichever is the lesser, commencing as of the first day of the month following the month in which the application is received.
+- **(2)** The instalments shall be payable on the first day of each month after the day on which the contributor elects to pay for the period of service until the earlier of
+	- **(a)** the end of the period that is chosen by the contributor, which must be no later than the later of 20 years and the participant’s 65th birthday, and
+	- **(b)** the contributor’s death.
 
-- **(3)** Where a contributor defaults in respect of any instalment payable by him, the Minister shall forthwith demand payment from the contributor of the amount in default (except that where a contributor is on leave of absence without pay the Minister shall not make such a demand until he ceases so to be on leave of absence) and thereupon the amount in default, with interest as provided in subsection (7) to the date of demand, shall be payable
-	- **(a)** in a lump sum immediately, or
-	- **(b)** in monthly instalments for the lesser of
-		- **(i)** the life of the contributor, or
-		- **(ii)** the remainder of the period during which instalments under subsection (1) are to be paid,
-as the contributor elects, the value of which, calculated as of the date of election of the contributor under this subsection, in accordance with Canadian Life Table No. 2 (1941) Males or Females, as the case may be, with interest at the rate of four per cent per annum, is the amount that is in default with interest to the date of demand; and if the contributor does not elect within 30 days from the date of the demand, he shall be deemed to have chosen the method of payment specified in paragraph (b).
+- **(3)** The instalments shall be payable in equal amounts that shall not be less than $5.00, except the last one, and be calculated using the mortality rates used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the contributor elects to pay for the period of service or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report, and shall bear interest, compounded annually, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the report.
+> SOR/93-219, s. 2; SOR/95-571, s. 1; SOR/2012-124, s. 4.
 
-- **(4)** A contributor to whom subsection (3) applies, in lieu of making an election under that subsection, may, before the expiration of the 30-day period mentioned therein, elect, subject to the approval of the Minister, to pay the instalments in default, with interest (notwithstanding subsection (7)) at the rate of four per cent per annum from the due date of each defaulted instalment until payment thereof, over a period equal to the period that the contributor is in default, such period to commence
-	- **(a)** 30 days after the end of the period during which the contributor is paying the contributions mentioned in subsection (1) that were not in default, or
-	- **(b)** on the last day of the month in which the contributor makes an election under this subsection,
-whichever is the later; and if the contributor dies before all of the said instalments, together with interest as provided in this section, are paid, the unpaid instalments, together with interest as provided in this section, may be recovered in the manner described in subsection (6).
 
-- **(5)** Where a contributor ceases to be a member of the Force and becomes entitled to any benefit under the Act before the amount payable by him under this section is paid, recovery may be made at any time by retention by way of deduction or set-off out of the benefit payable to the contributor
-	- **(a)** in a lump sum immediately, or
-	- **(b)** in monthly instalments for the lesser of
-		- **(i)** the life of the contributor, or
-		- **(ii)** the remainder of the period during which instalments under subsection (1) are to be paid,
-as the contributor elects, the value of which, calculated as of the date of election of the contributor under this subsection in accordance with Canadian Life Table No. 2 (1941), Males or Females, as the case may be, is the amount payable by him under this section with interest at the rate of four per cent per annum.
 
-- **(6)** Where an amount payable by a contributor under the Act is unpaid at the time of death of the contributor, that amount may be recovered from any allowance payable under the Act to the surviving spouse or children of the contributor, at the option of the recipient,
-	- **(a)** by reservation of a lump sum immediately on the allowance becoming payable; or
-	- **(b)** by reservation from the monthly instalment of the allowance of an amount equal to the amount of any instalment payable by the contributor under this section prior to the death of the contributor or 30 per cent of the gross amount of the monthly instalment, whichever is the lesser.
 
-- **(6.1)** Notwithstanding subsection (6), where payment pursuant to that subsection would cause financial hardship to the recipient, the recipient may choose to pay the amount payable by reservation from the monthly instalment of the allowance of an amount not less than 15 per cent of the gross monthly allowance.
+**9.01** 
 
-- **(7)** Where an amount that is payable by a contributor or a recipient is paid after the day on which it is due, there shall, in addition, be payable interest on that amount at the rate of four per cent per annum from the due date until the day on which it is paid or demand is made in accordance with this section for payment of the amount due, whichever first occurs.
+- **(1)** A person may, at any time, do one or both of the following:
+	- **(a)** prepay any amount that remains unpaid in respect of an election to pay for a period of service referred to in paragraph 6(b) of the Act;
+	- **(b)** decrease the period of instalments by increasing the amount of the remaining instalments.
 
-- **(8)** Notwithstanding anything in this section,
-	- **(a)** where the contributor or his personal representative or the recipient pays in full an amount that is due under this section before the expiration of 30 days from the due date, interest is not payable thereon;
-	- **(b)** where, after a demand is made by the Minister under this section for payment of an amount including interest, that amount is paid in full before the expiration of 30 days from the date of demand, interest is not payable under subsection (7) with respect thereto; and
-	- **(c)** where a contributor has authorized or directed that the amount payable by him under this section be deducted from moneys payable to him by or on behalf of Her Majesty and the contributor is in default because those deductions have not been made, interest is not payable under subsections (4) and (7) on an amount equal to the deductions that have not been so made.
+- **(2)** A person who makes a partial prepayment may request that the period of instalments remain the same or be decreased.
 
-- **(9)** For the purposes of this section, a demand by or on behalf of the Minister for payment of an amount is deemed to have been made on the day on which a letter, demanding payment, signed by or on behalf of the Minister and addressed to the contributor or recipient, as the case may be, is placed in the mail.
+- **(3)** In all cases, the adjustment of the period of instalments and of the remaining instalments shall be made on the first day of the month after the day on which the request is made, in accordance with subsections 9(2) and (3), except that the actuarial valuation report is the one that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the request is made or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report.
+> SOR/2012-124, s. 4.
 
-- **(10)** Nothing in this section prohibits a person from paying at any time before it is due any amount payable by him, or that is deductible from any benefit payable to him, under this section.
-> SOR/93-219, s. 2; SOR/95-571, s. 1.
+
+
+
+**9.02** 
+
+- **(1)** A contributor who does not pay an instalment before or on the day on which it is due is in default of payment.
+
+- **(2)** Notice shall be sent to the contributor as soon as feasible after the default.
+
+- **(3)** However, if the contributor is on leave without pay or if the contributor has ceased to be a member of the Force and is entitled to an annual allowance or a deferred annuity that has not yet become payable, the notice shall be sent to the contributor as soon as feasible after the day on which the contributor returns to work or the payment of the allowance or annuity begins.
+> SOR/2012-124, s. 4.
+
+
+
+
+**9.03** 
+
+- **(1)** The contributor shall, within 30 days after the day on which the notice of default is sent,
+	- **(a)** pay the arrears, together with interest, in a lump sum; or
+	- **(b)** opt to pay the arrears in monthly instalments over a period that corresponds to the period beginning on the day on which the contributor first defaults on the payment and ending on the day on which the notice is sent.
+
+- **(2)** Arrears that are paid in a lump sum shall bear interest, compounded annually, beginning on the day of the payment default and ending on the day on which the notice of default is sent, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the notice is sent or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report.
+
+- **(3)** Arrears that are paid in monthly instalments shall bear interest, compounded annually, beginning on the day of the payment default and ending on the day on which the payment is received by the Commissioner, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the contributor exercises the option or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report.
+
+- **(4)** The instalments shall begin on the later of
+	- **(a)** the first day of the month after the end of the period that was chosen under paragraph 9(2)(a), and
+	- **(b)** the first day of the month after the day on which the contributor exercises the option.
+> SOR/2012-124, s. 4.
+
+
+
+
+**9.04** A contributor who does not choose one of the options set out in subsection 9.03(1) within the time limit shall pay the arrears, together with interest calculated in accordance with subsection 9.03(2), in monthly instalments that shall be
+- **(a)** calculated using the mortality rates used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the notice of default is sent or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report, and shall bear interest, compounded annually, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the report; and
+- **(b)** payable on the first day of each month after the day on which the notice is sent, until the earlier of
+	- **(i)** the end of the remainder of the period that was chosen under paragraph 9(2)(a), and
+	- **(ii)** the contributor’s death.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Unpaid Instalments when a Contributor Ceases to be a Member of the Force
+
+
+**9.05** 
+
+- **(1)** The unpaid instalments referred to in subsection 8(6) of the Act shall be reserved
+	- **(a)** if the contributor is entitled to a lump sum benefit, in a lump sum; or
+	- **(b)** in any other case, in a lump sum or in monthly instalments equal to those that the contributor was paying before having ceased to be a member of the Force, at the contributor’s option.
+
+- **(2)** The reservations shall begin in the month in which the pension benefit begins.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Financial Hardship
+
+
+**9.06** 
+
+- **(1)** A contributor who establishes that undue financial hardship, which was unforeseen at the time the election was made, will be caused if the contributor is required to continue to pay the instalments may triple the length of the period that was chosen under paragraph 9(2)(a), up to a maximum of 15 years.
+
+- **(2)** The remaining instalments shall be adjusted, in accordance with subsection 9(3), on the first day of the month after the day on which the request is made, except that the actuarial valuation report is the one that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the request is made or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Interest Not Payable
+
+
+**9.07** An amount shall not bear interest if
+- **(a)** despite authorization, it was not reserved for administrative reasons;
+- **(b)** it is paid within 30 days after the day on which it became payable; or
+- **(c)** a notice of default has been sent in respect of the amount, together with interest, and it is paid within 30 days after the day on which the notice is sent.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Amount Payable by Reservation on Contributor’s Death
+
+
+**9.08** The unpaid amount referred to in subsection 8(7) of the Act shall be recovered, at the option of the recipient,
+- **(a)** by reservation of the total amount from the first monthly instalment of the allowance payable;
+- **(b)** by reservation from the monthly instalments of the allowance of an amount equal to the monthly instalment paid by the contributor, up to a maximum of 30% of the monthly instalment of the allowance; or
+- **(c)** if the recipient establishes that those terms of recovery will cause financial hardship, by reservation from the monthly instalments of the allowance of an amount not less than 15% of those monthly instalments.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+### Election Under Clause 6(b)(ii)(L), (N), (O) or (P) of the Act
+
+
+
+#### Amount to be Paid
+
+
+**9.09** 
+
+- **(1)** For the purposes of paragraph 7(1)(i) of the Act, the amount to be paid for a period of service referred to in clause 6(b)(ii)(L), (O) or (P) of the Act is the actuarial present value of the pension benefits that have accrued under the Act in respect of the period of service, that value being determined on valuation day on a going concern basis and in accordance with the methods and assumptions used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before valuation day or, if that report was laid before Parliament in the month in which valuation day occurs or in the preceding month, of the report that was laid before Parliament immediately before that report.
+
+- **(2)** For the purposes of subsection (1), ***valuation day*** means
+	- **(a)** the day on which this subsection comes into force, if the contributor makes the election referred to in clause 6(b)(ii)(L), (O) or (P) of the Act within one year after that day;
+	- **(b)** the day on which the contributor most recently became a contributor, if the contributor most recently became a contributor after the day on which this subsection comes into force and makes the election within one year after the day on which the contributor most recently became a contributor; or
+	- **(c)** the day on which the contributor makes the election, in any other case.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Lump Sum Payment
+
+
+**9.091** A contributor who opts to pay for a period of service referred to in clause 6(b)(ii)(L), (N), (O) or (P) of the Act in a lump sum shall ensure that the amount to be paid, despite paragraph 8(5)(a) of the Act, is received by the Commissioner within 30 days after the day on which the Commissioner sends a notice to the contributor of the amount to be paid.
+> SOR/2012-124, s. 4.
+
+
+
+
+**9.092** The amount to be paid shall bear interest, compounded annually, beginning on the first day of the month after the day on which the election is made and ending on the last day of the month that precedes the day on which the payment is received, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the payment is received or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report.
+> SOR/2012-124, s. 4.
+
+
+
+
+**9.093** 
+
+- **(1)** If the amount to be paid is received by the Commissioner in full within the time limit set out in section 9.091, the period of service in respect of which the election was made shall be counted as pensionable service.
+
+- **(2)** If the amount to be paid is not received by the Commissioner in full within that time limit, the period of service in respect of which the election was made shall be counted as pensionable service, beginning with the part that is most recent in point of time, in the same proportion as the amount that is received by the Commissioner within that time limit bears to the amount to be paid.
+
+- **(3)** If the period of service in respect of which the election was made that is not counted in whole as pensionable service includes periods of full-time service and periods of part-time service, each of those periods shall be counted as pensionable service, beginning with the part that is most recent in point of time, in the same proportion as the amount that is received by the Commissioner bears to the amount to be paid.
+> SOR/2012-124, s. 4.
+
+
+
+
+**9.094** A contributor’s election to pay for a period of service referred to in clause 6(b)(ii)(L), (N), (O) or (P) of the Act is void if the contributor opts to pay in a lump sum and does not pay into the Retirement Compensation Arrangements Account established under the [Special Retirement Arrangements Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20I.md), within the time limit set out in section 9.091, any amount required to be paid under section 57 or 58 of the Retirement Compensation Arrangements Regulations, No. 1 for the part of the period of service in respect of which the election was made that is counted as pensionable service.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Annual Rate of Pay
+
+
+**9.095** For the purposes of paragraph 10(4)(b) of the Act, the annual rate of pay that the contributor is deemed to have received during a period of service referred to in clause 6(b)(ii)(L), (O) or (P) of the Act is
+- **(a)** if the contributor was a full-time member on valuation day, within the meaning of subsection 9.09(2), the pay authorized to be paid to the contributor on that day; or
+- **(b)** if the contributor was then a part-time member, the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member on that day or, if the contributor was then engaged to work concurrently in more than one position, the total of the amounts determined for each position by the formula
+```
+A x B/C
+```
+where
+- **A** is the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member on that day,
+- **B** is the weekly average of the hours of work for which the contributor was engaged, and
+- **C** is the total of the weekly averages of the hours of work for which the contributor was engaged in all positions.
+> SOR/2012-124, s. 4.
+
+
+
+
+
+#### Transitional
+
+
+**9.096** Section 9 as it read before the day on which sections 9 to 9.095 came into force shall continue to apply to elections made under paragraph 6(b) of the Act before that day.
+> SOR/2012-124, s. 4.
 
 
 
@@ -548,7 +722,7 @@ the contribution that the contributor shall pay into the Superannuation Account 
 	- **(a)** in respect of a period of leave of absence without pay that ends on or after December 1, 1995, at any time during the period that begins three months after the period of leave commenced and ends three months after the day on which the contributor returns to duty in a position in respect of which the contributor is required under section 7 or 36 of the Act to contribute to the Superannuation Account and in a capacity other than on leave without pay from another position in the Force; and
 	- **(b)** in respect of a period of leave of absence without pay that ended before December 1, 1995 and in respect of which the contributor has not, before that day, made all of the contributions required pursuant to section 10 in respect of that period, at any time before all of those contributions have been made.
 
-- **(2)** A contributor may revoke an election made under subsection 6.1(1) of the Act if the contributor received, from a person employed in the Force or the Public Service whose ordinary duties included the giving of advice respecting the counting of service under the Act, erroneous or misleading information regarding
+- **(2)** A contributor may revoke an election made under subsection 6.1(1) of the Act if the contributor received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information regarding
 	- **(a)** the amount that would otherwise have been required to be contributed in respect of the period in relation to which the election was made;
 	- **(b)** the amount that would be required to be contributed, or any other conditions that would apply, if the contributor were to make an election under clause 6(b)(ii)(K) of the Act;
 	- **(c)** the resulting benefit that would have been provided by the addition to the contributor’s pensionable service credit of the period in respect of which the election was made; or
@@ -557,7 +731,7 @@ the contribution that the contributor shall pay into the Superannuation Account 
 - **(3)** A revocation under subsection (2) applies to the entire period of service in respect of which the election was made.
 
 - **(4)** A revocation under subsection (2) shall be made within three months after the day on which the contributor received written acknowledgement that the information referred to in that subsection was erroneous or misleading.
-> SOR/95-571, s. 3.
+> SOR/95-571, s. 3; SOR/2012-124, s. 5.
 
 
 
@@ -603,15 +777,81 @@ the contribution that the contributor shall pay into the Superannuation Account 
 - **(2)** Notwithstanding subsection 8(2) of the Act, an election made after October 30, 1998 in respect of any period of service that includes service after December 31, 1989 that would be void under that subsection is void only if, 60 days after being notified by the Minister that the Minister of National Revenue has issued a certification referred to in subsection (1), the elector is entitled to count the period of service to which the certification relates for the purposes of any superannuation or pension benefit of a kind referred to in subsection 7(2), other than a superannuation or pension benefit payable under Part I of the Act.
 
 - **(3)** Subsection 24(3) of the Act does not apply to a person who elects under subsection 24(1) of the Act after January 30, 1999 in respect of a period of service that includes service after December 31, 1989, if the Minister of National Revenue refuses to issue the certification referred to in subsection (1).
-> SOR/98-531, s. 3.
+
+- **(4)** Despite clause 6(a)(ii)(C) of the Act, a contributor shall not count as pensionable service any period of service after December 31, 1989 in relation to which an agreement was entered into by the Minister under subsection 24.1(2) of the Act unless a certification referred to in subsection (1) has been issued.
+> SOR/98-531, s. 3; SOR/2012-124, s. 6.
 
 
 
 
-**11.2** Notwithstanding section 6 of the Act, an election made after October 30, 1998 to count any period of service as pensionable service is void in respect of any period of service in respect of which
-- **(a)** pension benefits did not accrue under the defined benefit provision of a pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-- **(b)** contributions were not made by or on behalf of the employee under a money purchase provision of a pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> SOR/98-531, s. 3.
+**11.2** For the purposes of clause 6(b)(ii)(L) of the Act, the periods of service are those in respect of which pension benefits have accrued under a pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> SOR/98-531, s. 3; SOR/2012-124, s. 7.
+
+
+
+
+**11.3** An election referred to in clause 6(b)(ii)(O) of the Act for a period of service in respect of which there was a payment of a transfer value in accordance with section 22 of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md) or section 13.01 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) may be made only if the contributor had not previously had an opportunity to elect for that period of service under either of those Acts.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.4** A contributor shall make the election referred to in clause 6(b)(ii)(L), (O) or (P) of the Act no later than the day on which the contributor ceases to be a member of the Force.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.5** Despite subsection 8(1) of the Act, a contributor who is no longer a member of the Force who received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information in respect of any election referred to in clauses 6(b)(ii)(L) to (P) of the Act and who did not make the election while a member, may make the election within one year after the day on which the advisor sent the contributor the corrected information or, if it is later, within one year after the day on which this section comes into force.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.6** 
+
+- **(1)** Any part of a period of service referred to in clause 6(b)(ii)(L) of the Act during which the contributor worked part-time is credited to the contributor in the proportion determined by the formula
+```
+A/B
+```
+where
+- **A** is the number of hours of work per week for which the contributor was engaged during the part; and
+- **B** is the number of hours of work per week for which the contributor would have been engaged during the part if the contributor had worked full-time.
+
+- **(2)** If the pension benefits that have accrued in respect of the period of service were subject to a division under a pension plan that was subject to the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or an equivalent provincial Act, only the part of the period of service that corresponds to the portion of the benefits that remain accrued to the contributor is, after confirmation of the division by the employer, credited to the contributor.
+
+- **(3)** In either case, the total period of service is taken into account in determining eligibility for a benefit.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.7** 
+
+- **(1)** If the pension benefits that have accrued in respect of a period of service referred to in clause 6(b)(ii)(O) or (P) of the Act were subject to a division under the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md), only the part of the period of service that corresponds to the portion of the benefits that remain accrued to the contributor is, after confirmation of the division by the employer, credited to the contributor.
+
+- **(2)** The total period of service is taken into account in determining eligibility for a benefit.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.8** Paragraph 8(2)(c) of the Act does not apply to the election made under any of clauses 6(b)(ii)(L) to (P) of the Act.
+> SOR/2012-124, s. 7.
+
+
+
+
+**11.9** 
+
+- **(1)** An election referred to in clause 6(b)(ii)(L), (O) or (P) of the Act shall be made on the Form set out in Schedule IV, and that election need not be witnessed.
+
+- **(2)** The election is made on the day on which the form is signed.
+
+- **(3)** Despite subsection 8(1) of the Act, a contributor who makes the election referred to in clause 6(b)(ii)(L), (O) or (P) within one year after the day on which subsection 9.09(2) comes into force or, if the contributor most recently became a contributor after that day, within one year after the day on which the contributor most recently became a contributor shall send the election to the Commissioner within one month after the day on which the form is signed.
+
+- **(4)** The day on which the election is sent is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed, with the date of the postmark being evidence of that day.
+> SOR/2012-124, s. 7.
 
 
 
@@ -626,53 +866,97 @@ the contribution that the contributor shall pay into the Superannuation Account 
 
 
 ## Revocation of Elections
+> [SOR/2012-124, s. 8(F)]
+
 
 
 **13** 
 
-- **(1)** An election made by a contributor under the Act to pay for a period of service may, with the consent of the Minister, be revoked by the contributor in whole or in part
-	- **(a)** as to payments made and to be made for the period of service mentioned in the election, if the contributor received erroneous information, or misleading information in writing from a member of the Force or a person employed in the Public Service who normally gives information as to the amount required to be paid under the Act for service, and the contributor in making the election honestly acted upon that erroneous or misleading information; or
-	- **(b)** as to payments to be made for the period of service mentioned in the election, if undue financial hardship, that was unforeseen by the contributor at the time he made the election, may be caused to him if he is required to continue to pay for that period of service.
+- **(1)** A contributor who elected to pay for a period of service under Part I of the Act may revoke the election
+	- **(a)** as to payments made and to be made for any period of service, or any part of a period of service, in respect of which the election was made,
+		- **(i)** if the contributor received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information about the amount to be paid or the consequences of the election on the contributor’s benefits and, in making the election, acted on that information, or
+		- **(ii)** if, after having made the election, the contributor became entitled to count the period of service in the calculation of pension benefits other than those provided for under the Act;
+	- **(b)** as to payments to be made for any period of service, or any part of a period of service, in respect of which the election was made,
+		- **(i)** if undue financial hardship that was unforeseen at the time the election was made will be caused if the contributor is required to continue to make the payments,
+		- **(ii)** if, at the commencement date of the contributor’s annuity, the monthly instalments that the contributor pays are greater than the increase, calculated in accordance with section 10 of the Act, in the monthly amount of the benefits payable that results from the election, or
+		- **(iii)** after the contributor has attained 60 years of age, if the monthly instalments that the contributor pays are greater than the increase, calculated in accordance with section 10 of the Act, in the monthly amount of the benefits payable that would result from the election if the contributor were to begin to receive an annuity;
+	- **(c)** as to payments made for any period of service in respect of which the election was made, or those to be made, or both, at the contributor’s option, if that period of service was mentioned by the contributor inadvertently;
+	- **(d)** if the contributor received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information in respect of any election referred to in subparagraph 6(b)(ii) of the Act, failed to make the election and then made the election after having received the corrected information from such an advisor and while a member of the Force; or
+	- **(e)** if the contributor received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information in respect of any election referred to in clauses 6(b)(ii)(L) to (P) of the Act, failed to make the election while a member of the Force and then made the election after having received the corrected information from such an advisor and having ceased to be a member.
 
-- **(2)** A contributor who revokes an election under subsection (1) shall pay to Her Majesty an amount in respect of any benefit accruing to him during the subsistance of the election, as a consequence of his having elected, as the Minister determines in accordance with Canadian Life Table No. 2 (1941) Males or Females, as the case may be, together with interest at the rate of four per cent per annum.
+- **(1.1)** A contributor who wholly revokes an election in the circumstance set out in paragraph (1)(c) may elect to pay for the period of service for which the contributor intended to pay in the initial election.
+
+- **(1.2)** The contributor shall make the election within six months after the day on which the contributor revoked the initial election, and it is deemed to have been made on the day on which the initial election was made.
+
+- **(1.3)** A contributor who revokes an election in the circumstances set out in paragraph (1)(d) or (e) is deemed to have made the same election on the day after the day on which the contributor received the erroneous or misleading information.
+
+- **(2)** A contributor who revokes an election in the circumstances set out in subparagraph (1)(a)(ii) or paragraph (1)(b) shall pay an amount equal to the mortality charges that relate to the benefits that have accrued as a result of the election before it was revoked, that amount being calculated using the mortality rates used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the election was revoked or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report, and bearing interest, compounded annually, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the report.
 
 - **(3)** Any amount required to be paid by a contributor under subsection (2) may be recovered on behalf of Her Majesty as a debt due to the Crown from any benefit payable under the Act to or in respect of the contributor, without prejudice to any other recourse available to Her Majesty with respect to the recovery thereof.
 
-- **(4)** Where a contributor who revokes an election under subsection (1) has paid any amount pursuant to the election, the amount so paid shall be applied, firstly, in payment of the amount required to be paid by the contributor under subsection (2), and the remainder of the amount, if any, shall be applied as follows:
-	- **(a)** if the contributor has revoked the election in whole under paragraph (1)(a), the remainder of the amount shall be refunded to him; and
-	- **(b)** in any other case, the remainder of the amount shall be applied towards the purchase of that portion of the period of service mentioned in the election that has not been revoked, calculated in accordance with the provisions of the Act under which the election was made, and if any of the said amount remains thereafter, it shall be refunded to the contributor.
+- **(4)** Any amount paid by a contributor who revokes an election is applied in payment of the amount referred to in subsection (2) and the remainder is applied in payment of any part of the period of service that remains credited to the contributor, the amount to be paid being calculated in accordance with the provisions of the Act under which the election was made and the remainder, if any, being refunded to the contributor.
 
 - **(5)** Where a contributor revokes an election under subsection (1) and further payments are required to be made by him, he shall make those payments in such amount and in such manner as the Minister determines and such payments shall be applied, firstly, in payment of the amount required to be paid by the contributor under subsection (2) if that amount has not already been paid, and the remainder of such payments, if any, shall be applied towards the purchase of that portion of the period of service (as determined by the Minister) mentioned in the election that has not been revoked, calculated in accordance with the provisions of the Act under which the election was made.
+> SOR/2012-124, s. 9.
+
 
 
 
 
 ## Revocation of Option
-
-
-**14** Subject to section 15, where a contributor has exercised an option under section 11 or 12 of the Act, or has been deemed to have exercised an option under subsection 9(4) of the Act, he may, with the consent of the Minister, revoke the option and exercise a new option if the contributor received from a member of the Force or a person employed in the Public Service who normally gives information as to the benefits in respect of which the contributor may be entitled to exercise an option on ceasing to be a member of the Force erroneous or misleading information in respect of
-- **(a)** the amount, nature or type of any such benefit; or
-- **(b)** the procedures required to be followed to constitute a valid exercise of an option.
-> SOR/93-219, s. 2.
+> [SOR/2012-124, s. 10(F)]
 
 
 
+**14** 
 
-**15** No option referred to in section 14 of these Regulations may be revoked and no new option under section 11 or 12 of the Act may be exercised unless
-- **(a)** the contributor applies to the Minister to revoke the option and to exercise a new option within three months of the day on which he became aware that erroneous or misleading information had been given to him or, in the case of a contributor who ceased to be a member of the Force prior to June 28, 1977, within such period as the Minister may fix;
-- **(b)** the contributor, in exercising an option under section 11 or 12 of the Act, or having been deemed pursuant to subsection 9(4) of the Act to have exercised an option, acted upon the erroneous or misleading information referred to in section 14 and would have made a different choice of benefit or would have exercised the option at an earlier time had there been no erroneous or misleading information given; and
-- **(c)** subject to section 17, any payment made to the contributor in respect of any benefit accruing to him during the subsistence of the option that he made under section 11 or 12 of the Act is repaid by the contributor within 30 days of being notified by the Minister of the amount of payment to be repaid.
-> SOR/86-981, s. 1; SOR/93-219, s. 2.
+- **(1)** The circumstances referred to in subsection 9(5) of the Act under which a contributor may revoke an option that the contributor has exercised under paragraph 11(3)(b) or (9)(b) of the Act, or is deemed under subsection 9(4) of the Act to have exercised, and exercise a new option exist if
+	- **(a)** the contributor received erroneous or misleading information from an authorized advisor who normally gives information about the benefits in respect of which a contributor may exercise an option on ceasing to be a member of the Force; and
+	- **(b)** that information was in respect of the amount, nature or type of the benefits in respect of which the contributor could have exercised an option, the procedures required to be followed to constitute a valid exercise of an option or an agreement referred to in subsection 24.1(2) of the Act.
+
+- **(2)** A contributor who has received erroneous or misleading information may, in the circumstances set out in paragraphs (1)(a) and (b), revoke an option that the contributor has exercised under subsection 12(2) of the Act and exercise a new option; a contributor may also, in the same circumstances, revoke an option that the contributor has exercised under subsection 12.1(1) of the Act.
+> SOR/93-219, s. 2; SOR/2012-124, s. 11.
 
 
 
 
-**16** Where the Minister consents to the revocation of an option and the exercise of a new option under section 14, the new option shall be effective on the date that the previous option was exercised or was deemed to have been exercised under the Act unless the Minister otherwise prescribes.
+**15** An option shall not be revoked under subsection 9(5) of the Act or subsection 14(2) and a new option shall not be exercised unless
+- **(a)** the contributor exercised or failed to exercise the option on the basis of the erroneous or misleading information referred to in section 14 but would have made a different choice of benefit or would have exercised the option at an earlier time had there been no erroneous or misleading information given;
+- **(b)** the contributor repays the benefits that resulted from the option and that were paid to the contributor
+	- **(i)** subject to section 17, within 30 days after the day on which the notice that advises the contributor of the amount to be repaid is sent, if the contributor exercised the option under paragraph 11(3)(b) or (9)(b) or subsection 12(2) of the Act or was deemed under subsection 9(4) of the Act to have exercised the option, or
+	- **(ii)** within three months after that day, if the contributor exercised the option under subsection 12.1(1) of the Act;
+- **(c)** any benefits that resulted from the option and that were paid to the contributor under the Retirement Compensation Arrangements Regulations, No. 1 are repaid by the contributor to the Retirement Compensation Arrangements Account established under the [Special Retirement Arrangements Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20I.md) within the same time limits as provided for the repayment of the benefits under paragraph (b);
+- **(d)** in the case of a contributor who revokes an option for a benefit under subsection 12.1(1) of the Act based on having received erroneous or misleading information in respect of the amount of any benefit under section 11, 12 or 12.1 of the Act, the information about the amount of a benefit to which the contributor was entitled was at least 5% different from the actual amount of that benefit; and
+- **(e)** the option is revoked and the new option is exercised within
+	- **(i)** in the case of an option exercised under paragraph 11(3)(b) or (9)(b) or subsection 12(2) of the Act or an option that was deemed under subsection 9(4) of the Act to have been exercised, three months after the day on which the contributor became aware that the information that the contributor had received was erroneous or misleading, or
+	- **(ii)** in the case of an option exercised under subsection 12.1(1) of the Act, the later of three months after the day on which the contributor became aware that the information that the contributor had received was erroneous or misleading and six months after the day on which this subparagraph comes into force.
+> SOR/86-981, s. 1; SOR/93-219, s. 2; SOR/2012-124, s. 11.
 
 
 
-**17** Where a new option exercised by a contributor under section 14 results in the payment of an annuity or supplementary benefit and repayment pursuant to paragraph 15(c) would cause undue financial hardship to the contributor, the contributor may choose to make the repayment, in approximately equal monthly instalments, by reservation from the annuity or supplementary benefit payable pursuant to the new option of an amount not less than 10 per cent of the gross monthly amount of the annuity or supplementary benefit.
-> SOR/95-571, s. 4.
+
+**16** 
+
+- **(1)** The circumstances referred to in subsection 9(5) of the Act under which a contributor who ceased to be a member of the Force and was employed by an eligible employer may revoke an option that the contributor exercised under paragraph 11(3)(b) or (9)(b) of the Act, or is deemed under subsection 9(4) of the Act to have exercised, and exercise a new option exist if
+	- **(a)** the contributor has not yet received a benefit under the Act; and
+	- **(b)** the contributor, on ceasing to be a member of the Force,
+		- **(i)** reasonably expected that an agreement referred to in subsection 24.1(2) of the Act would be entered into and
+			- **(A)** no such agreement had been entered into at the time the contributor applied to revoke the option, or
+			- **(B)** the agreement was entered into after the contributor ceased to be a member of the Force but the contributor’s pensionable service could not be transferred under the agreement, or
+		- **(ii)** took all necessary actions to transfer the contributor’s pensionable service to the eligible employer but, through no fault on the part of the contributor, the transfer could not be validly completed.
+
+- **(2)** A contributor who ceased to be a member of the Force and was employed by an eligible employer may, in the circumstances set out in paragraphs (1)(a) and (b), revoke an option that the contributor has exercised under subsection 12(2) of the Act and exercise a new option; a contributor may also, in the same circumstances, revoke an option that the contributor has exercised under subsection 12.1(1) of the Act.
+
+- **(3)** The contributor shall exercise the new option within three months after the day on which the notice, which advises the contributor that the transfer of the contributor’s pensionable service to the eligible employer was not possible, is sent.
+
+- **(4)** The new option shall be effective on the day on which the contributor exercised, or was deemed to have exercised, the previous option.
+> SOR/2012-124, s. 11.
+
+
+
+
+**17** A contributor who, as a result of the exercise of a new option under subsection 9(5) of the Act or subsection 14(2) or 16(2), is entitled to an annuity, and to whom undue financial hardship that was unforeseen at the time the option was exercised will be caused if the contributor is required to make the repayment referred to in subparagraph 15(b)(i), may make the repayment in approximately equal monthly instalments, by reservation from the annuity, of an amount not less than 10% of the gross monthly amount of the annuity and any supplementary benefit that relates to it.
+> SOR/95-571, s. 4; SOR/2012-124, s. 11.
 
 
 
@@ -713,7 +997,7 @@ A/50 x B x C/D
 ```
 where
 - **A** is the number of years in the segment;
-- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 15, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
+- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 14, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
 - **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
 - **D** is the normal number of hours of work per week for full-time members.
 
@@ -742,7 +1026,7 @@ where
 - **F** is the normal number of hours of work per week for full-time members.
 
 
-> SOR/2006-134, s. 5; SOR/2007-283, s. 2.
+> SOR/2006-134, s. 5; SOR/2007-283, s. 2; SOR/2012-124, s. 30.
 
 
 
@@ -787,12 +1071,12 @@ A x B x C/D x 1%
 ```
 where
 - **A** is the number of years of the segment;
-- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 15, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
+- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 14, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
 - **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
 - **D** is the normal number of hours of work per week for full-time members.
 
 - **(1.2)** For the purposes of variable “B” in subsection (1.1), the pay of the contributor shall be determined in accordance with section 17.3 of the Royal Canadian Mounted Police Superannuation Regulations.
-> SOR/2006-134, s. 5; SOR/2007-283, s. 4.
+> SOR/2006-134, s. 5; SOR/2007-283, s. 4; SOR/2012-124, s. 30.
 
 
 
@@ -869,7 +1153,9 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 	- **(a)** is or has been enrolled in a course requiring full-time attendance substantially without interruption at a school or university, a declaration in a form satisfactory to the Commissioner and signed by a responsible officer of that school or university, certifying as to such enrolment; and
 	- **(b)** is or has been for a period of time, in full-time attendance at a school or university substantially without interruption, a declaration of such attendance in a form satisfactory to the Commissioner and signed by such child.
 
-- **(2)** In this section and section 19 ***Commissioner*** has the same meaning as in the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+- **(2)** [Repealed, SOR/2012-124, s. 12]
+> SOR/2012-124, s. 12.
+
 
 
 
@@ -1015,14 +1301,56 @@ if the officer or the contributor holding a rank in the Force
 ## Medical Examination
 
 
+
+### Election Under Clause 6(b)(ii)(L), (N), (O) or (P) of the Act
+
+
+**26.1** 
+
+- **(1)** A contributor who makes an election referred to in clause 6(b)(ii)(L) of the Act shall undergo a medical examination referred to in paragraph 8(2)(b) of the Act only if the contributor makes the election more than one year after the day on which subsection 9.09(2) comes into force or the day on which the contributor most recently became a contributor, if the contributor most recently became a contributor after the day on which that subsection comes into force, and the contributor opts to pay by instalments.
+
+- **(2)** A contributor who makes an election referred to in clause 6(b)(ii)(N) of the Act under clause 6(b)(ii)(J) of the Act shall undergo a medical examination referred to in paragraph 8(2)(b) of the Act only if the contributor opts to pay by instalments.
+
+- **(3)** A contributor who makes an election referred to in clause 6(b)(ii)(O) or (P) of the Act more than one year after the day on which subsection 9.09(2) comes into force or the day on which the contributor most recently became a contributor, if the contributor most recently became a contributor after the day on which that subsection comes into force, and who opts to pay by instalments shall undergo a medical examination.
+> SOR/2012-124, s. 13.
+
+
+
+
+**26.2** 
+
+- **(1)** A contributor shall undergo the medical examination referred to in paragraph 8(2)(b) of the Act or in subsection 26.1(3) within six months before or after the day on which the election is made.
+
+- **(2)** If, through no fault on the part of the contributor, the contributor is unable to undergo the medical examination before the end of that period, the period shall be extended by six months.
+
+- **(3)** The medical examination shall be performed by any physician who is authorized to practise medicine in the jurisdiction in which the examination is performed.
+
+- **(4)** The contributor shall have passed the medical examination if the physician certifies in writing that the contributor has a life expectancy of at least five years.
+
+- **(5)** A contributor to whom subsection 26.1(1), (2) or (3) applies who does not pass the medical examination shall pay the amount to be paid for the period of service in respect of which the election was made within 30 days after the day on which the notice that advises the contributor of the amount is sent.
+
+- **(6)** If the contributor pays the amount to be paid in full within that time limit, the period of service in respect of which the election was made shall be counted as pensionable service.
+
+- **(7)** If the contributor does not pay the amount to be paid in full within that time limit, the period of service in respect of which the election was made shall be counted as pensionable service, beginning with the part that is most recent in point of time, in the same proportion as the amount paid bears to the amount to be paid.
+
+- **(8)** If the period of service in respect of which the election was made that is not counted in whole as pensionable service includes periods of full-time service and periods of part-time service, each of those periods shall be counted as pensionable service, beginning with the part that is most recent in point of time, in the same proportion as the amount paid bears to the amount to be paid.
+> SOR/2012-124, s. 13.
+
+
+
+
+
+### Disability
+
+
 **27** 
 
-- **(1)** Every medical examination required by paragraph 8(2)(b) of the Act shall be undergone by the person required to be examined within such time before or after the making of the election by that person as is prescribed by the Commissioner.
+- **(1)** [Repealed, SOR/2012-124, s. 14]
 
 - **(2)** A contributor who has not reached 60 years of age but who has become entitled under subsection 12(1) of the Act to an immediate annuity, in respect of a disability previously incurred by him, shall undergo medical examinations, until he reaches 60 years of age, at such times and at such places as the Commissioner may determine.
 
 - **(3)** A report in accordance with such form as is prescribed by the Commissioner concerning each medical examination undergone by a contributor under this section shall be made to the Commissioner as soon as practicable after the conclusion of the examination.
-> SOR/93-219, s. 2.
+> SOR/93-219, s. 2; SOR/2012-124, s. 14.
 
 
 
@@ -1165,7 +1493,9 @@ plus
 ## Capitalized Value
 
 
-**32** Where, pursuant to Part I of the Act, it is necessary to determine the capitalized value of an annuity or annual allowance, the capitalized value shall be computed on the basis of the Canadian Life Table Number 2 (1941), Males or Females, as the case may be, together with interest at the rate of four per cent per annum.
+**32** The capitalized value of an annuity or annual allowance referred to in Part I of the Act shall be calculated using the mortality rates used in the preparation of the actuarial valuation report that was most recently laid before Parliament, in accordance with section 30 of the Act, before the day on which the contributor ceases to be a member of the Force or, if that report was laid before Parliament in the month in which that day falls or in the preceding month, of the report that was laid before Parliament immediately before that report and shall bear interest, compounded annually, at a rate equal to the projected rate of return of the Royal Canadian Mounted Police Pension Fund that was used in the preparation of the report.
+> SOR/2012-124, s. 15.
+
 
 
 
@@ -1196,12 +1526,12 @@ plus
 
 **35** 
 
-- **(1)** Notwithstanding section 34, a contributor may make an election after the expiration of the period provided for in that section where the contributor has received in writing, from a person employed in the Royal Canadian Mounted Police or in Public Service whose ordinary duties included the giving of advice respecting the election,
+- **(1)** Despite section 34, a contributor may make an election after the end of the period set out in that section if the contributor received, from an authorized advisor who normally gives information about these matters,
 	- **(a)** erroneous or misleading information regarding the period during which the contributor could make an election; or
 	- **(b)** materially erroneous or misleading information regarding the amount of the reduction of the contributor’s annuity or annual allowance or the amount of the immediate annual allowance to which the spouse would be entitled.
 
 - **(2)** An election may be made under subsection (1) not later than three months after the day on which a written notice containing the correct information is sent to the contributor.
-> SOR/94-347, s. 1.
+> SOR/94-347, s. 1; SOR/2012-124, s. 16.
 
 
 
@@ -1333,8 +1663,8 @@ plus
 
 
 
-**45** For the purposes of the determinations referred to in sections 42 and 43, the rates of interest set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries, effective September 1, 1993, shall be the rates of fully indexed pensions.
-> SOR/94-347, s. 1.
+**45** For the purposes of the determinations referred to in sections 42 and 43, the rates of interest determined in accordance with the section entitled “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time, are the rates for fully indexed pensions.
+> SOR/94-347, s. 1; SOR/2012-124, s. 17.
 
 
 
@@ -1346,7 +1676,7 @@ plus
 **46** 
 
 - **(1)** A contributor who has made an election may revise the level of reduction where
-	- **(a)** the contributor, prior to making the election, received in writing, from a person employed in the Royal Canadian Mounted Police or the Public Service whose ordinary duties include the giving of advice respecting the election, materially erroneous or misleading information regarding the amount of the reduction of the contributor’s annuity or annual allowance or the amount of the immediate annual allowance to which the spouse would be entitled; or
+	- **(a)** the contributor, before making the election, received, from an authorized advisor who normally gives information about these matters, materially erroneous or misleading information regarding the amount of the reduction of the contributor’s annuity or annual allowance or the amount of the immediate annual allowance to which the spouse would be entitled; or
 	- **(b)** the amount of the annuity or annual allowance that is payable to the contributor is adjusted in accordance with the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md) after the day on which the election was made.
 
 - **(2)** A contributor may revoke an election where
@@ -1358,7 +1688,7 @@ plus
 	- **(b)** within three months after the day on which the annuity or annual allowance is adjusted in accordance with the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md).
 
 - **(4)** A revision of the level of reduction or a revocation of an election is effective on the day on which it is sent.
-> SOR/94-347, s. 1; SOR/98-531, s. 6.
+> SOR/94-347, s. 1; SOR/98-531, s. 6; SOR/2012-124, s. 18.
 
 
 
@@ -1444,7 +1774,7 @@ plus
 
 **53** 
 
-- **(1)** For the purposes of paragraphs 11(1)(a), (2)(a), (3)(a), (5)(a), (7)(a) and (8)(a), subsections 11(11) and 13(3) and section 14 of the Act, the prescribed period is two years.
+- **(1)** For the purposes of paragraphs 11(1)(a), (2)(a), (3)(a), (5)(a), (7)(a) and (8)(a), subsections 11(11), 12.1(1) and 13(3) and section 14 of the Act, the prescribed period is two years.
 
 - **(2)** For the purposes of subparagraph 11(9)(b)(iii) of the Act, the prescribed number of years is 10 years.
 
@@ -1457,7 +1787,7 @@ plus
 - **(6)** For the purposes of paragraph 11(9)(a) and clause 11(9)(b)(iii)(B) of the Act, the prescribed number of years of pensionable service is 30 years.
 
 - **(7)** For the purposes of subsection 11(12) of the Act, the prescribed period is 35 years.
-> SOR/2003-232, s. 2.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 19.
 
 
 
@@ -1477,7 +1807,9 @@ plus
 
 
 
-## Commuted Value
+## Transfer Value
+> [SOR/2012-124, s. 20]
+
 
 
 
@@ -1486,15 +1818,15 @@ plus
 
 **55** 
 
-- **(1)** Subject to subsection (3), a contributor described in subsection 12.1(1) of the Act who holds a rank in the Force is entitled to exercise an option for a commuted value determined in accordance with sections 61 to 65 if the annuity to which the contributor is entitled becomes payable after the date of exercising the option.
+- **(1)** Subject to subsection (3), a contributor described in subsection 12.1(1) of the Act who holds a rank in the Force is entitled to exercise an option for a transfer value determined in accordance with sections 61 to 65 if the annuity to which the contributor is entitled becomes payable after the date of exercising the option.
 
-- **(2)** Subject to subsection (3), a contributor described in subsection 12.1(1) of the Act who does not hold a rank in the Force is entitled to exercise an option for a commuted value determined in accordance with sections 61 to 65 if the annuity to which the contributor is entitled becomes payable after the date of exercising the option and if
+- **(2)** Subject to subsection (3), a contributor described in subsection 12.1(1) of the Act who does not hold a rank in the Force is entitled to exercise an option for a transfer value determined in accordance with sections 61 to 65 if the annuity to which the contributor is entitled becomes payable after the date of exercising the option and if
 	- **(a)** in the case of a contributor who ceases to be a member of the Force on or after the day on which this section comes into force, the contributor is less than the age referred to in subsection 54(1) on the day on which the contributor ceases to be a member of the Force;
 	- **(b)** in the case of a contributor who ceased to be a member of the Force on or after September 14, 1999 but before the day on which this section comes into force, the contributor was less than 50 years of age on the day on which the contributor ceased to be a member of the Force; and
 	- **(c)** in the case of a contributor who ceased to be a member of the Force before September 14, 1999, the contributor was less than 50 years of age on September 14, 1999.
 
-- **(3)** A contributor described in subsection 12.1(1) of the Act who becomes entitled to a deferred annuity under subsection 12(2) of the Act is entitled to exercise an option for a commuted value determined in accordance with sections 61 to 65 if the contributor is less than 50 years of age on the day on which the contributor becomes entitled to the deferred annuity.
-> SOR/2003-232, s. 2.
+- **(3)** A contributor described in subsection 12.1(1) of the Act who becomes entitled to a deferred annuity under subsection 12(2) of the Act is entitled to exercise an option for a transfer value determined in accordance with sections 61 to 65 if the contributor is less than 50 years of age on the day on which the contributor becomes entitled to the deferred annuity.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 31.
 
 
 
@@ -1503,32 +1835,32 @@ plus
 ### Time Limits
 
 
-**56** Subject to section 58, a contributor who ceases to be a member of the Force on or after the day on which this section comes into force and who wishes to exercise an option for a commuted value must do so within one year after the day on which the contributor ceases to be a member of the Force.
-> SOR/2003-232, s. 2.
+**56** Subject to section 58, a contributor who ceases to be a member of the Force on or after the day on which this section comes into force and who wishes to exercise an option for a transfer value must do so within one year after the day on which the contributor ceases to be a member of the Force.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 31.
 
 
 
 
 **57** 
 
-- **(1)** Subject to subsection (2) and section 58, a contributor who ceased to be a member of the Force before the day on which this section comes into force and who wishes to exercise an option for a commuted value must do so on or before the later of
+- **(1)** Subject to subsection (2) and section 58, a contributor who ceased to be a member of the Force before the day on which this section comes into force and who wishes to exercise an option for a transfer value must do so on or before the later of
 	- **(a)** one year after the day on which this section comes into force, and
-	- **(b)** the day that is six months after the day on which the Minister sends a written notice to the contributor stating that the contributor is entitled to exercise an option for a commuted value.
+	- **(b)** the day that is six months after the day on which the Minister sends a written notice to the contributor stating that the contributor is entitled to exercise an option for a transfer value.
 
-- **(2)** A contributor described in subsection (1) may exercise an option for a commuted value after the day provided for in that subsection, but within the period prescribed by subsection (4), if the contributor establishes that the notice referred to in paragraph (1)(b) was not received.
+- **(2)** A contributor described in subsection (1) may exercise an option for a  transfer value after the day provided for in that subsection, but within the period prescribed by subsection (4), if the contributor establishes that the notice referred to in paragraph (1)(b) was not received.
 
-- **(3)** If a contributor establishes that the notice referred to in paragraph (1)(b) was not received, the Minister shall immediately send a written notice to the contributor stating that the contributor is entitled to exercise an option for a commuted value.
+- **(3)** If a contributor establishes that the notice referred to in paragraph (1)(b) was not received, the Minister shall immediately send a written notice to the contributor stating that the contributor is entitled to exercise an option for a transfer value.
 
 - **(4)** An option may be exercised within three months after the day on which the notice referred to in subsection (3) is sent, but in no case may an option be exercised after the contributor has commenced to receive an annuity or an annual allowance under the Act in respect of the contributor’s pensionable service.
-> SOR/2003-232, s. 2.
+> SOR/2003-232, s. 2; SOR/2012-124, ss. 31, 32(E).
 
 
 
 
-**58** A contributor described in subsection 55(3) who wishes to exercise an option for a commuted value must do so on or before the later of
+**58** A contributor described in subsection 55(3) who wishes to exercise an option for a transfer value must do so on or before the later of
 - **(a)** one year after the day on which this section comes into force, and
 - **(b)** the day that is one year after the day on which the contributor becomes entitled to a deferred annuity under subsection 12(2) of the Act.
-> SOR/2003-232, s. 2.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 31.
 
 
 
@@ -1539,41 +1871,45 @@ plus
 
 **59** 
 
-- **(1)** An option for a commuted value must be
+- **(1)** An option for a transfer value must be
 	- **(a)** exercised in writing;
 	- **(b)** dated and signed by the contributor; and
 	- **(c)** sent to the Minister, or to a person designated by the Minister, within the applicable period referred to in sections 56 to 58.
 
-- **(2)** An option for a commuted value is deemed to be exercised on the day on which it is sent in accordance with paragraph (1)(c).
-> SOR/2003-232, s. 2.
+- **(2)** An option for a transfer value is deemed to be exercised on the day on which it is sent in accordance with paragraph (1)(c).
+> SOR/2003-232, s. 2; SOR/2012-124, ss. 31, 32(E).
 
 
 
 
 
-### Irrevocability
+### Void Option
+> [SOR/2012-124, s. 21]
+
 
 
 **60** 
 
-- **(1)** Subject to subsection (2), an option for a commuted value is irrevocable.
+- **(1)** [Repealed, SOR/2012-124, s. 22]
 
-- **(2)** If a contributor who has exercised an option for a commuted value is re-appointed to or re-enlists in the Force and is required to make contributions under section 5 of the Act before valuation day, the exercise of the option for the commuted value is void.
-> SOR/2003-232, s. 2.
-
-
+- **(2)** If a contributor who has exercised an option for a transfer value is re-appointed to or re-enlists in the Force and is required to make contributions under section 5 of the Act before valuation day, the exercise of the option for the transfer value is void.
+> SOR/2003-232, s. 2; SOR/2012-124, ss. 22, 31.
 
 
 
-### Determination of Commuted Value
+
+
+### Determination of Transfer Value
+> [SOR/2012-124, s. 31]
+
 
 
 **61** 
 
-- **(1)** Subject to subsection (2), the commuted value to which a contributor is entitled is a lump sum amount equal to the actuarial present value on valuation day of the accrued pension benefits that would be payable to or in respect of the contributor under the Act.
+- **(1)** Subject to subsection (2), the transfer value to which a contributor is entitled is a lump sum amount equal to the actuarial present value on valuation day of the accrued pension benefits that would be payable to or in respect of the contributor under the Act.
 
-- **(2)** In the case of a lump sum amount referred to in subsection (1) that is less than the amount of a return of contributions that would be payable on valuation day if the contributor were eligible to receive a return of contributions, the commuted value to which the contributor is entitled is a lump sum amount equal to the amount of that return of contributions.
-> SOR/2003-232, s. 2.
+- **(2)** In the case of a lump sum amount referred to in subsection (1) that is less than the amount of a return of contributions that would be payable on valuation day if the contributor were eligible to receive a return of contributions, the transfer value to which the contributor is entitled is a lump sum amount equal to the amount of that return of contributions.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 31.
 
 
 
@@ -1590,13 +1926,13 @@ plus
 
 - **(1)** In a determination of the actuarial present value of the accrued pension benefits referred to in subsection 61(1), the following actuarial assumptions are to be used:
 	- **(a)** the mortality rates for contributors and survivors, including mortality projection factors, shall be those used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act;
-	- **(b)** the interest rates shall be the interest rates for fully indexed pensions determined in the manner set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries, effective September 1, 1993, adjusted by the interest rates for non-indexed pensions determined in the manner set out in the Recommendations to take into account the provisions of Part III of the Act;
+	- **(b)** the interest rates are the interest rates for fully indexed pensions — adjusted by the interest rates for unindexed pensions to take into account Part III of the Act — determined in accordance with the section entitled “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time;
 	- **(c)** the probability that a contributor will have a survivor shall be based on the rates regarding the average age and eligibility status of survivors at the death of a contributor used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act;
 	- **(d)** the probability that a contributor will be survived by children shall be based on the rates regarding the assumed number, average age and eligibility status of children at the death of a contributor used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act; and
 	- **(e)** the probability that a contributor will become entitled to a benefit by reason of disability shall be based on the disability incidence rates used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act, taking into account the probability set out in that report, in the case of a compulsory retirement from the Force due to disability, that there would be immediate eligibility for Canada Pension Plan or Quebec Pension Plan disability benefits.
 
 - **(2)** The actuarial valuation report referred to in paragraphs (1)(a) and (c) to (e) is the actuarial valuation report most recently laid before Parliament in accordance with section 30 of the Act before valuation day or, if that report was laid before Parliament in the month in which valuation day occurs or in the preceding month, the report that was laid before Parliament immediately previous to that report.
-> SOR/2003-232, s. 2.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 23.
 
 
 
@@ -1605,8 +1941,8 @@ plus
 
 - **(1)** Subject to subsection (2), a contributor’s pensionable service is that which is to the credit of the contributor on the day on which the contributor ceases to be a member of the Force.
 
-- **(2)** For the purposes of subsection 12.1(2) of the Act, the pensionable service to the credit of a contributor who has elected to pay for a period of pensionable service by means of instalments shall include only the portion of the pensionable service subject to the election that corresponds to the payments that were made or ought to have been made on or before valuation day.
-> SOR/2003-232, s. 2.
+- **(2)** For the purposes of subsection 12.1(3) of the Act, the pensionable service to the credit of a contributor who has elected to pay for a period of pensionable service by means of instalments shall include only the portion of the pensionable service subject to the election that corresponds to the payments that were made or ought to have been made on or before valuation day.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 24.
 
 
 
@@ -1625,8 +1961,8 @@ plus
 ### Prescribed Retirement Savings Plan or Fund
 
 
-**66** A retirement savings plan prescribed for the purposes of section 26 of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) is prescribed as a kind of retirement savings plan or fund for the purposes of paragraph 12.1(1)(b) of the Act.
-> SOR/2003-232, s. 2.
+**66** A retirement savings plan prescribed for the purposes of section 26 of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) is prescribed as a kind of retirement savings plan or fund for the purposes of paragraph 12.1(2)(b) of the Act.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 25.
 
 
 
@@ -1635,18 +1971,20 @@ plus
 ### Prescribed Immediate and Deferred Life Annuity
 
 
-**67** An immediate life annuity and a deferred life annuity, as those terms are defined in subsection 2(1) of the [Pension Benefits Standards Regulations, 1985](/en/Regulations/Statutory%20Orders%20and%20Regulations/87/19.md), are prescribed as a kind of immediate life annuity and a kind of deferred life annuity for the purposes of paragraph 12.1(1)(c) of the Act.
-> SOR/2003-232, s. 2.
+**67** An immediate life annuity and a deferred life annuity, as those terms are defined in subsection 2(1) of the [Pension Benefits Standards Regulations, 1985](/en/Regulations/Statutory%20Orders%20and%20Regulations/87/19.md), are prescribed as a kind of immediate life annuity and a kind of deferred life annuity for the purposes of paragraph 12.1(2)(c) of the Act.
+> SOR/2003-232, s. 2; SOR/2012-124, s. 26.
 
 
 
 
 
-### Adaptation of Subsection 12.1(1) of the Act
+### Adaptation of Subsection 12.1(2) of the Act
+> [SOR/2012-124, s. 27]
 
 
-**68** For the purposes of subsection 12.1(1) of the Act, if the commuted value determined in accordance with sections 61 to 65 exceeds the amount that may, in accordance with section 8517 of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md), be transferred to a retirement savings plan or fund, or to a financial institution for the purchase of an immediate or deferred life annuity, the excess amount shall be paid to the contributor.
-> SOR/2003-232, s. 2.
+
+**68** For the purposes of subsection 12.1(2) of the Act, if the transfer value determined in accordance with sections 61 to 65 exceeds the amount that may, in accordance with section 8517 of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md), be transferred to a retirement savings plan or fund, or to a financial institution for the purchase of an immediate or deferred life annuity, the excess amount shall be paid to the contributor.
+> SOR/2003-232, s. 2; SOR/2012-124, ss. 28, 31.
 
 
 
@@ -1655,8 +1993,35 @@ plus
 ### Transfer When Contributor Is Deceased
 
 
-**69** If the commuted value cannot be transferred in accordance with subsection 12.1(1) of the Act because the contributor is deceased, the commuted value shall be paid to the estate of the contributor.
-> SOR/2003-232, s. 2.
+**69** If the transfer value cannot be transferred in accordance with subsection 12.1(2) of the Act because the contributor is deceased, the transfer value shall be paid to the estate of the contributor.
+> SOR/2003-232, s. 2; SOR/2012-124, ss. 28, 31.
+
+
+
+
+
+## Transfer Agreements
+
+
+**70** For the purposes of subsection 24.1(1) of the Act, a pension plan is a pension plan registered under section 147.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) with at least 10 active participants on the day that the eligible employer enters into an agreement under subsection 24.1(2) of the Act.
+> SOR/2012-124, s. 29.
+
+
+
+
+**71** For the purposes of clause 6(a)(ii)(C) of the Act, an employee may count a period of service as pensionable service to the following extent and subject to the following terms and conditions:
+- **(a)** any part of a period of service during which the contributor worked part-time is counted in the proportion determined by the formula set out in subsection 11.6(1), and the total period of service is taken into account in determining eligibility for a benefit;
+- **(b)** any period of service in respect of which the amount referred to in a demand for funds, made to an eligible employer in respect of an employee in accordance with an agreement referred to in subsection 24.1(2) of the Act, has not been paid in total by an employer, is
+	- **(i)** if the period includes only full-time service, counted, beginning with the part that is most recent in point of time, in the same proportion as the amount paid by the employer bears to the amount referred to in the demand for funds, or
+	- **(ii)** if the period includes both full-time service and part-time service, converted to full-time service and costed as a period of full-time service, with the counted part being the most recent in point of time; and
+- **(c)** if the pension benefits that have accrued in respect of the period of service were subject to a division under a pension plan that was subject to the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or an equivalent provincial Act, only the part of the period of service that corresponds to the portion of the benefits that remain accrued to the employee is, after confirmation of the division by the eligible employer, counted and the total period of service is taken into account in determining eligibility for a benefit.
+> SOR/2012-124, s. 29.
+
+
+
+
+**72** For the purposes of paragraph 10(4)(b) of the Act, the annual rate of pay that the contributor is deemed to have received during a period of service that is counted as a period of pensionable service under clause 6(a)(ii)(C) of the Act is determined in accordance with section 9.095, except that the valuation day is the one that is set out in the agreement referred to in subsection 24.1(2) of the Act.
+> SOR/2012-124, s. 29.
 
 
 
@@ -2503,92 +2868,6 @@ Royal Canadian Mounted Police Superannuation Act
 
 
 
-## Election to Become a Contributor
-
-(Applicable to a member of the Force who is subject to the [Royal Canadian Mounted Police Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20R-10.md) and who elects to become a contributor under the R.C.M.P. Superannuation Act within one year of the coming into force of the R.C.M.P. Superannuation Act.)
-
-
-
-**PART I** 
-### Election and Manner of Payment
-
-**1** I, 
-____________________
-(Christian Names) (Surname) Reg. No. _________________________ a 
-____________________
-(Rank) of the Royal Canadian Mounted Police hereby elect to become a contributor under the Royal Canadian Mounted Police Superannuation Act effective this date. I understand that I am entitled to count as pensionable service any period of service in the Force that I was entitled to count for pension purposes under Part II or III of the former Act and that, upon the making of this election, I shall be deemed to have elected to pay for that service for the purposes of Part I of this Act. I further understand that if I wish to elect to pay for the whole or any part of any other pensionable service, for which I may elect to pay under the R.C.M.P. Superannuation Act, such further election must be made within one year of the date of this election. I further understand that upon the making of this election I cease to be entitled to any benefit under Part II or III of the former Act.
-
-Date of Birth 
-____________________
-Day/Month/Year Marital Status 
-____________________
-S M W
-
-
-
-
-**2** I will make payment in the following manner: (Place “x” in appropriate block.)
-
-**☐ (a)** In a lump sum at the time of making this election or, if the cost is not known, within one month from date of demand;
-
-
-
-**☐ (b)** In monthly instalments computed in accordance with Canadian Life Table No. 2 (1941), males four per cent or females four per cent, and the first instalment is due and payable commencing the first day of the month following the month in which this election is made.
-
-
-
-Period: _________________________&nbsp;&nbsp;&nbsp;&nbsp; Amount: _________________________
-
-
-
-
-**3** I further understand that this election is void unless I have passed a medical examination within such time before or after the making of this election as the Commissioner prescribes.
-
-
-Signed at 
-____________________
-(Place) this_________________________ day of 
-____________________
-(Month) 19_________________________
-
-
-Witnessed as to signature
-
-
-
-____________________
-(Signature of Witness)&nbsp;&nbsp;&nbsp;&nbsp;
-____________________
-(Signature of Elector)
-
-
-**NOTE:** This form is to be completed in four copies; one copy to be retained by the elector; the original and remaining two copies to be returned to: The Commissioner, R.C.M. Police, Ottawa, Ontario, without delay.
-
-
-
-
-
-TO BE COMPLETED BY THE FORCE
-
-
-
-**PART II** 
-### Certification
-
-Direction to the Chief Treasury Officer:
-
-
-The terms and conditions of the R.C.M.P. Superannuation Act with regard to the forwarding of this election within one year after the coming into force of this Act have been met, the contributor has successfully completed a medical examination and it will be in order to commence deductions from his “pay” in accordance with section 5 and subsection 8(5) of this Act.
-
-
-<p><br />(Commissioner, R.C.M. Police)<br /></p>
-
-
-
-Royal Canadian Mounted Police Superannuation Act
-
-
-
 ## Election to Pay for Prior Pensionable Service
 
 (This election must be completed and forwarded to the Commissioner, R.C.M. Police, Ottawa, Ontario, within the prescribed time limit.)
@@ -2664,7 +2943,7 @@ S M W
 
 
 
-**☐ (b)** In monthly instalments, computed  in accordance with Canadian Life Table No. 2  (1941) males four per cent or  females four per cent,  and  the  first  instalment  is  due  and payable commencing  the first day of the month following the month in which this election  is made and  continuing until the  total arrears of contributions are fully paid.
+**☐ (b)** in monthly instalments, to be paid beginning the first day of the month after the day on which the election was made, until full payment has been made.
 
 
 
@@ -2789,6 +3068,401 @@ ____________________
 **NOTE:** This form is to be completed  in four copies: one copy to  be retained by the elector; the original and remaining two copies to be returned to: The Commissioner, R.C.M. Police, Ottawa, Ontario.
 
 
-> SOR/93-219, ss. 2, 3(F).
+> SOR/93-219, ss. 2, 3(F); SOR/2012-124, s. 33.
+
+
+
+
+### SCHEDULE IV** / ** ANNEXE IV
+**(Subsection 11.9(1) / *(paragraphe 11.9(1)*)**
+## Election referred to in clause 6(b)(ii)(L), (O) or (P) of the Act / Choix visé aux divisions 6b)(ii)(L), (O) ou (P) de la Loi
+### **SERVICE BUYBACK FORM – FORMULAIRE DE RACHAT DE SERVICE**
+## Royal Canadian Mounted Police (RCMP) Pension Plan
+## Régime de pension de retraite de la Gendarmerie royale du Canada (GRC)
+Complete this form to purchase the following types of service:
+
+*Veuillez remplir le présent formulaire pour racheter les types de service suivants :*
+
+
+<table>
+<tr>
+<td>Service with another Canadian pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (other than federal public sector pension plans).</td>
+<td>*Service assujetti à un autre régime de pension canadien agréé en vertu de la Loi de l’impôt sur le revenu (mis à part les régimes de pension du secteur public fédéral).*</td>
+</tr>
+<tr>
+<td>Service for which you received a transfer value or a commuted value under the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md) (RCMPSA), the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md) (CFSA) or the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) (PSSA).</td>
+<td>*Service pour lequel vous avez reçu une valeur de transfert ou une valeur escomptée en vertu de la Loi sur la pension de retraite de la Gendarmerie royale du Canada (LPRGRC), de la Loi sur la pension de retraite des Forces canadiennes (LPRFC) ou de la Loi sur la pension de la fonction publique (LPFP).*</td>
+</tr>
+<tr>
+<td>RCMP service previously transferred out under a pension transfer agreement that is no longer to your credit under the plan to which it was transferred.</td>
+<td>*Service accompli à la GRC ayant été transféré à un autre régime en vertu d’un accord de transfert de pension et qui n’est plus à votre crédit selon cet autre régime.*</td>
+</tr>
+</table>
+
+
+
+This information is being collected for the purpose of the administration of the RCMPSA. Failure to provide the required information will result in the pension administrator being unable to process this form. Personal information provided on this form is protected under the provisions of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) and will be included in Personal Information Banks RCMP PPE 802 and 806.
+
+*Ces renseignements sont recueillis pour l’application de la LPRGRC. Le refus de fournir les renseignements demandés empêchera l’administrateur du régime de pension de traiter ce formulaire. Les renseignements personnels fournis sont protégés en vertu de la Loi sur la protection des renseignements personnels et seront versés dans les fichiers de renseignements personnels RCMP PPE 802 et 806.*
+
+
+
+
+
+
+
+
+## Contributor’s Personal Information – Renseignements personnels au sujet du contributeur
+
+
+
+
+<table>
+<tr>
+<td>Surname – *Nom*</td>
+<td>Regimental No. – *N<sup>o</sup> matricule*</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Given Names – *Prénoms*</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Date of Birth (YYYY-MM-DD) – *Date de naissance (AAAA-MM-JJ)*</td>
+<td>Sex – *Sexe*</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Preferred Language (√)</td>
+<td>English – *Anglais*</td>
+<td>French – *Français*</td>
+</tr>
+<tr>
+<td>*Langue préférée (√)*</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Preferred Telephone No.</td>
+<td></td>
+</tr>
+<tr>
+<td>*N<sup>o</sup> de téléphone préféré*</td>
+<td></td>
+</tr>
+<tr>
+<td>Home Address – *Adresse du domicile*</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>City – *Ville*</td>
+<td>Province</td>
+</tr>
+<tr>
+<td>Postal Code – *Code postal*</td>
+<td>Country – *Pays*</td>
+</tr>
+</table>
+
+Carefully read the instructions before completing the following part of this form.
+
+*Lire attentivement les directives avant de remplir la partie ci-après du formulaire.*
+
+
+
+
+**I choose to pay for the following service for pension purposes.**
+
+**Je choisis de racheter les périodes de service ci-dessous en vue de ma pension.**
+
+
+
+
+
+
+Service with another Canadian pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (other than federal public sector pension plans):
+
+
+
+*Service assujetti à un autre régime de pension canadien agréé en vertu de la Loi de l’impôt sur le revenu (mis à part les régimes de pension du secteur public fédéral) :*
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<td>Employer (Name and Address)</td>
+<td>From/*Du*</td>
+<td>To/*Au*</td>
+</tr>
+<tr>
+<td>*Employeur (nom et adresse)*</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+
+
+Service for which I received a transfer value or a commuted value under the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md) (RCMPSA), the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md) (CFSA) or the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) (PSSA):
+
+
+
+*Service pour lequel j’ai reçu une valeur de transfert ou une valeur escomptée en vertu de la Loi sur la pension de retraite de la Gendarmerie royale du Canada (LPRGRC), de la Loi sur la pension de retraite des Forces canadiennes (LPRFC) ou de la Loi sur la pension de la fonction publique (LPFP) :*
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<td></td>
+<td>Date of Discharge/*Date de libération*</td>
+<td>From/*Du*</td>
+<td>To/*Au*</td>
+</tr>
+<tr>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+</tr>
+<tr>
+<td>RCMP/*GRC*</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CF/*FC*</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PS/*FP*</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+
+
+RCMP service previously transferred out under a pension transfer agreement that is no longer to my credit under the plan to which it was transferred :
+
+
+
+*Service accompli à la GRC ayant été transféré à un autre régime en vertu d’un accord de transfert de pension et qui n’est plus à mon crédit selon cet autre régime :*
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<td>Date of Discharge/*Date de libération*</td>
+<td>From/*Du*</td>
+<td>To/*Au*</td>
+</tr>
+<tr>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+<td>(YYYY-MM-DD/*AAAA-MM-JJ*)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+
+
+
+
+## Method of Payment – Mode De Paiement
+
+
+
+
+Payment may be made in a lump sum or by monthly instalments, or both :
+
+*Vous pouvez payer en une somme globale ou par mensualités, ou les deux :*
+
+
+
+### **OPTION 1**
+
+<table>
+<tr>
+<td></td>
+<td>□</td>
+<td>I elect to pay a lump sum of $ _________________________.</td>
+</tr>
+<tr>
+<td>*Je choisis de verser une somme globale de _________________________$.*</td>
+</tr>
+<tr>
+<td></td>
+<td>Cheque</td>
+<td>Bank Draft</td>
+<td>Money Order</td>
+</tr>
+<tr>
+<td></td>
+<td>□</td>
+<td></td>
+<td>□</td>
+<td></td>
+<td>□</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>*Chèque*</td>
+<td>*Traite*</td>
+<td>*Mandat*</td>
+</tr>
+<tr>
+<td>Cheques, bank drafts and money orders shall be made payable to the Receiver General.</td>
+</tr>
+<tr>
+<td>*Les chèques, traites et mandats sont faits à l’ordre du receveur général.*</td>
+</tr>
+<tr>
+<td></td>
+<td>Transfer from a Registered Retirement Savings Plan (RRSP)</td>
+</tr>
+<tr>
+<td>□</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>*Transfert d’un régime enregistré d’épargne-retraite (REER)*</td>
+</tr>
+<tr>
+<td></td>
+<td>Transfer from a Registered Pension Plan (RPP)</td>
+</tr>
+<tr>
+<td>□</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>*Transfert d’un régime de pension agréé (RPA)*</td>
+</tr>
+</table>
+
+
+### **OPTION 2**
+
+<table>
+<tr>
+<td></td>
+<td>□</td>
+<td>I elect to pay by monthly instalments of $ _________________________.</td>
+</tr>
+<tr>
+<td>*Je choisis de payer par mensualités de _________________________$.*</td>
+</tr>
+<tr>
+<td>Minimum Monthly Deduction</td>
+<td>OR</td>
+<td></td>
+<td>Monthly Deduction of $_________________________</td>
+</tr>
+<tr>
+<td>□</td>
+<td></td>
+<td>□</td>
+<td></td>
+</tr>
+<tr>
+<td>*Retenue mensuelle minimale*</td>
+<td>OU</td>
+<td></td>
+<td>*Retenue mensuelle de _________________________$*</td>
+</tr>
+</table>
+
+
+
+
+## Acknowledgement
+## Déclaration officielle
+
+I have read and fully understand the above and the attached instructions. I understand that in most circumstances an election for prior service is a binding and irrevocable agreement. I understand that the original form must be sent to the address provided in the instructions within one month after the day on which it is signed.
+
+
+*J’ai pris connaissance des dispositions ci-dessus et des directives ci-jointes, et je les comprends parfaitement. Je sais que, dans la plupart des cas, un choix exercé à l’égard d’une période de service antérieure constitue un engagement contraignant et irrévocable. Je sais que l’original du formulaire doit être envoyé à l’adresse indiquée dans les directives au plus tard un mois après la date de ma signature.*
+
+
+
+____________________
+Signature of Contributor/*Signature du contributeur*&nbsp;&nbsp;&nbsp;&nbsp;
+____________________
+Date (YYYY-MM-DD/*AAAA-MM-JJ*)
+
+
+Retain a copy of this form for your records.
+
+
+*Conservez une copie du présent formulaire dans vos dossiers.*
+
+
+> SOR/2012-124, s. 34.
 
 
