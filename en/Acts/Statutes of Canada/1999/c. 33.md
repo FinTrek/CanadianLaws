@@ -7885,7 +7885,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **7** Lead
 
 
-**8** Mercury
+**8** Mercury and its compounds
 
 
 **9** Vinyl Chloride
@@ -8432,7 +8432,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **120** Chlorinated alkanes that have the molecular formula C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> in which 10 ≤ n ≤ 20
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40.
+**125** Polychlorinated naphthalenes, which have the molecular formula C<sub>10</sub>H<sub>8–n</sub>Cl<sub>n</sub> in which “n” is greater than 1
+
+
+**126** Hydrazine, which has the molecular formula N<sub>2</sub>H<sub>4</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189.
 
 
 
