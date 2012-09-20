@@ -6306,7 +6306,7 @@ jonction avec la riv. Satah
 <td>2</td>
 <td>Rivière Yellowknife entre le lac Prosperous (62°39′ de latitude N. et 114°15′ de longitude O.) et le lac Bluefish</td>
 <td>Toutes</td>
-<td>1<sup>er</sup> septembre — 30 septembre</td>
+<td>1<sup>er</sup> septembre — 30 septembre</td>
 <td>Pêche sportive</td>
 </tr>
 <tr>
@@ -6341,9 +6341,16 @@ jonction avec la riv. Satah
 <td>7 août — 15 septembre</td>
 <td>Pêche sportive</td>
 </tr>
+<tr>
+<td>8</td>
+<td>Ruisseau Baker (62°29′10″ de latitude N., 114°21′36″ de longitude O.)</td>
+<td>Toutes</td>
+<td>15 avril — 15 juin</td>
+<td>Pêche sportive</td>
+</tr>
 </table>
 
-> DORS/81-119, art. 13; DORS/82-425, art. 1; DORS/87-508, art. 6; DORS/88-256, art. 3; DORS/91-447, art. 3; DORS/2009-83, art. 2 et 3.
+> DORS/81-119, art. 13; DORS/82-425, art. 1; DORS/87-508, art. 6; DORS/88-256, art. 3; DORS/91-447, art. 3; DORS/2009-83, art. 2 et 3; DORS/2012-185, art. 1.
 
 
 
