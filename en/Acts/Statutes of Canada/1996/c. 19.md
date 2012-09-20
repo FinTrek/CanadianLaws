@@ -1390,7 +1390,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 ### **SCHEDULE I** 
 **(Sections 2 to 7, 29, 55 and 60)**
-** 1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
+**1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
 
 **(1)** Opium
 
@@ -1931,7 +1931,7 @@ but not including
 
 **14** Phencyclidine (1-(1-phenylcyclohexyl)piperidine), its salts, derivatives and analogues and salts of derivatives and analogues, including:
 
-**(1)** Ketamine (2-(2-chlorophenyl)-2-(methylamino)cyclohexanone) 
+**(1)** Ketamine (2-(2-chlorophenyl)-2-(methylamino)cyclohexanone)
 
 
 
@@ -2001,10 +2001,13 @@ but not including
 **17** Tilidine (ethyl2–(dimethylamino)–1–phenyl–3–cyclohexene–1–carboxylate), its salts, derivatives and salts of derivatives
 
 
+**17.1** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+
+
 **18** Methamphetamine (N,α-dimethylbenzeneethanamine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 
 
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; SOR/2012-176.
 
 
 
