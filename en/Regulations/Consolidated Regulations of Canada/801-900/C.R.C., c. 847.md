@@ -6341,9 +6341,16 @@ Junction of Satah R.
 <td>August 7 — September 15</td>
 <td>Sport fishing</td>
 </tr>
+<tr>
+<td>8</td>
+<td>Baker Creek (Latitude 62°29′10″N., Longitude 114°21′36″W.)</td>
+<td>All species</td>
+<td>April 15 — June 15</td>
+<td>Sport fishing</td>
+</tr>
 </table>
 
-> SOR/81-119, s. 13; SOR/82-425, s. 1; SOR/87-508, s. 6; SOR/88-256, s. 3; SOR/91-447, s. 3; SOR/2009-83, ss. 2, 3.
+> SOR/81-119, s. 13; SOR/82-425, s. 1; SOR/87-508, s. 6; SOR/88-256, s. 3; SOR/91-447, s. 3; SOR/2009-83, ss. 2, 3; SOR/2012-185, s. 1.
 
 
 
