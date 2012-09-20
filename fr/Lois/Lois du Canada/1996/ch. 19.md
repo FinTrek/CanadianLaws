@@ -1964,10 +1964,13 @@ mais non compris :
 **17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
 
 
+**17.1** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
+
+
 **18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 
 
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; DORS/2012-176.
 
 
 
