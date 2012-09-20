@@ -35939,7 +35939,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **19** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
 - **20** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1.
+- **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1.
 
 
 
