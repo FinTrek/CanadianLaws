@@ -7601,7 +7601,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **7** Plomb
 
 
-**8** Mercure
+**8** Mercure et ses composés
 
 
 **9** Chlorure de vinyle
@@ -7726,7 +7726,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **46** Le chlorure de tributyltétradécylphosphonium dont la formule moléculaire est C<sub>26</sub>H<sub>56</sub>P•Cl
 
 
-**47** Bromochlorométhane, dont la formule moléculaire est CH<sub>2</sub>BrC1
+**47** Bromochlorométhane, dont la formule moléculaire est CH<sub>2</sub>BrCl
 
 
 **48** Acétaldéhyde, dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>O
@@ -8148,7 +8148,13 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **120** Les alcanes chlorés dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> où 10 ≤ n ≤ 20
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40.
+**125** Naphtalènes polychlorés, dont la formule moléculaire est C<sub>10</sub>H<sub>8–n</sub>Cl<sub>n</sub> où « n » est plus grand que 1
+
+
+**126** Hydrazine, dont la formule moléculaire est N<sub>2</sub>H<sub>4</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189.
 
 
 
