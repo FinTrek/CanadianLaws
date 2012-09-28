@@ -1232,6 +1232,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Bunibonibee Cree Nation</td>
+<td>Council of the Bunibonibee Cree Nation</td>
+<td>Reserves of the Bunibonibee Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Canupawakpa Dakota First Nation</td>
 <td>Council of the Canupawakpa Dakota First Nation</td>
 <td>Reserve of the Canupawakpa Dakota First Nation</td>
@@ -1239,7 +1245,7 @@ where
 </tr>
 <tr>
 <td>Chemawawin Cree Nation</td>
-<td>Council of the Chemawawin Cree Nation </td>
+<td>Council of the Chemawawin Cree Nation</td>
 <td>Reserves of the Chemawawin Cree Nation</td>
 <td>Manitoba</td>
 </tr>
@@ -1259,6 +1265,12 @@ where
 <td>Dakota Tipi</td>
 <td>Council of the Dakota Tipi</td>
 <td>Reserve of the Dakota Tipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Ebb and Flow</td>
+<td>Council of Ebb and Flow</td>
+<td>Reserve of Ebb and Flow</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1322,6 +1334,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Kinonjeoshtegon First Nation</td>
+<td>Council of the Kinonjeoshtegon First Nation</td>
+<td>Reserves of the Kinonjeoshtegon First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Lake Manitoba First Nation</td>
 <td>Council of the Lake Manitoba First Nation</td>
 <td>Reserve of the Lake Manitoba First Nation</td>
@@ -1382,6 +1400,12 @@ where
 <td>Saskatchewan</td>
 </tr>
 <tr>
+<td>Nekaneet</td>
+<td>Council of Nekaneet</td>
+<td>Each reserve of Nekaneet that is not shared with another band</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
 <td>Nisichawayasihk Cree Nation</td>
 <td>Council of the Nisichawayasihk Cree Nation</td>
 <td>Reserves of the Nisichawayasihk Cree Nation</td>
@@ -1400,9 +1424,27 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Opaskwayak Cree Nation</td>
+<td>Council of the Opaskwayak Cree Nation</td>
+<td>Reserves of the Opaskwayak Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>O-Pipon-Na-Piwin Cree Nation</td>
+<td>Council of the O-Pipon-Na-Piwin Cree Nation</td>
+<td>Reserve of the O-Pipon-Na-Piwin Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Pauingassi First Nation</td>
 <td>Council of the Pauingassi First Nation</td>
 <td>Reserve of the Pauingassi First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Peguis</td>
+<td>Council of Peguis</td>
+<td>Reserves of Peguis</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1484,9 +1526,9 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
-<td>St. Theresa Point First Nation </td>
-<td>Council of the St. Theresa Point First Nation </td>
-<td>Reserves of the St. Theresa Point First Nation </td>
+<td>St. Theresa Point First Nation</td>
+<td>Council of the St. Theresa Point First Nation</td>
+<td>Reserves of the St. Theresa Point First Nation</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1551,6 +1593,6 @@ where
 </tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25, 199, 200.
 
 
