@@ -32,9 +32,9 @@ Enabling authorities:
 - **(c)** traffic on the sea coast of Canada and on the salt water bays, gulfs and harbours of Canada, and
 - **(d)** traffic on the Great Lakes and inland waters of Canada; (*véhicule*)
 
-***Department*** means the Department of National Health and Welfare; (*ministère*)
+***Department*** means the Department of Health or the Public Health Agency of Canada; (*ministère*)
 
-***Minister*** means the Minister of National Health and Welfare; (*Ministre*)
+***Minister*** means the Minister of Health; (*Ministre*)
 
 ***potable water*** means water that is free of pathogenic bacteria and is of such a composition that, when five 10-millilitre portions thereof are examined according to the standard procedure outlined in the latest edition of Standard Methods for the Examination of Water and Sewage, published by the American Public Health Association, not more than one portion thereof shows the presence of organisms of the coliform group, that is to say, the most probable number is not greater than 2.2 per 100 millilitres; (*eau potable*)
 
@@ -43,6 +43,8 @@ Enabling authorities:
 ***raw water*** means water that is not potable water; (*eau brute*)
 
 ***vessel*** means any boat, ship or other mode of transportation by water that is used in any traffic mentioned in the definition ***conveyance***. (*navire*)
+> SOR/2012-201, s. 1.
+
 
 
 
