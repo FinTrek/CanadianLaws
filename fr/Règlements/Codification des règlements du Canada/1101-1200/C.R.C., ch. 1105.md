@@ -28,9 +28,9 @@ Autorités habilitantes :
 
 ***eau potable*** désigne une eau qui est exempte de bactéries pathogènes et dont la composition est telle que, lorsque cinq portions de 10 millilitres de ladite eau sont analysées selon la méthode normalisée donnée dans la plus récente édition de Standard Methods for the Examination of Water and Sewage, publiée par l’American Public Health Association, la présence d’organismes du groupe coliforme ne se manifeste que dans au plus une seule portion de ladite eau, c’est-à-dire que le nombre le plus probable desdits organismes ne dépasse pas 2.2 par 100 millilitres; (*potable water*)
 
-***ministère*** désigne le ministère de la Santé nationale et du Bien-être social; (*Department*)
+***ministère*** désigne le ministère de la Santé ou l’Agence de la santé publique du Canada; (*Department*)
 
-***Ministre*** désigne le ministre de la Santé nationale et du Bien-être social; (*Minister*)
+***Ministre*** désigne le ministre de la Santé; (*Minister*)
 
 ***navire*** désigne tout bateau, vaisseau ou autre mode de transport par eau utilisé dans tout service mentionné dans la définition de ***véhicule***; (*vessel*)
 
@@ -43,6 +43,8 @@ Autorités habilitantes :
 - **b)** le service interprovincial,
 - **c)** le cabotage sur les côtes maritimes du Canada et dans les baies, golfes et ports d’eau de mer du Canada, et
 - **d)** le service sur les Grands lacs et sur les autres eaux navigables du Canada. (*conveyance*)
+> DORS/2012-201, art. 1.
+
 
 
 
