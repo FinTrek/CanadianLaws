@@ -1225,6 +1225,12 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Nation Crie de Bunibonibee</td>
+<td>Conseil de la Nation Crie de Bunibonibee</td>
+<td>Réserves de la Nation Crie de Bunibonibee</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Canupawakpa Dakota</td>
 <td>Conseil de la Première Nation de Canupawakpa Dakota</td>
 <td>Réserve de la Première Nation de Canupawakpa Dakota</td>
@@ -1252,6 +1258,12 @@ où :
 <td>Dakota Tipi</td>
 <td>Conseil de Dakota Tipi</td>
 <td>Réserve de Dakota Tipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Ebb and Flow</td>
+<td>Conseil de Ebb and Flow</td>
+<td>Réserve de Ebb and Flow</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1315,6 +1327,12 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Première Nation de Kinonjeoshtegon</td>
+<td>Conseil de la Première Nation de Kinonjeoshtegon</td>
+<td>Réserves de la Première Nation de Kinonjeoshtegon</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Lake Manitoba</td>
 <td>Conseil de la Première Nation de Lake Manitoba</td>
 <td>Réserve de la Première Nation de Lake Manitoba</td>
@@ -1375,6 +1393,12 @@ où :
 <td>Saskatchewan</td>
 </tr>
 <tr>
+<td>Nekaneet</td>
+<td>Conseil de Nekaneet</td>
+<td>Toute réserve de Nekaneet non partagée avec une autre bande</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
 <td>Nation crie de Nisichawayasihk</td>
 <td>Conseil de la Nation crie de Nisichawayasihk</td>
 <td>Réserves de la Nation crie de Nisichawayasihk</td>
@@ -1393,9 +1417,27 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Nation Crie de Opaskwayak</td>
+<td>Conseil de la Nation Crie de Opaskwayak</td>
+<td>Réserves de la Nation Crie de Opaskwayak</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation Crie O-Pipon-na-Piwin</td>
+<td>Conseil de la Nation Crie O-Pipon-na-Piwin</td>
+<td>Réserve de la Nation Crie O-Pipon-na-Piwin</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Pauingassi</td>
 <td>Conseil de la Première Nation de Pauingassi</td>
 <td>Réserve de la Première Nation de Pauingassi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Peguis</td>
+<td>Conseil de Peguis</td>
+<td>Réserves de Peguis</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1550,6 +1592,6 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181; DORS/2012-25.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181; DORS/2012-25, 199, 200.
 
 
