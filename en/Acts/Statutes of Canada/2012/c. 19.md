@@ -4719,7 +4719,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndD416_hq_12952'>[*]</a></sup>**(2)** Subsection 713(2) and sections 721 to 723, 726 and 741 to 751 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndD416_hq_12952'><sup>*</sup></a>: [Note: Subsection 713(2) and sections 721 to 723, 726 and 741 to 751 not in force.]<br />
+<a name='fn_IndD416_hq_12952'><sup>*</sup></a>: [Note: Subsection 713(2) and sections 721 to 723, 726 and 741 to 751 in force September 30, 2012, *see* SI/2012-75.]<br />
 
 
 
