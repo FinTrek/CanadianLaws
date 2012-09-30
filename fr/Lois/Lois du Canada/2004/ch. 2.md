@@ -57,50 +57,50 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***activité réglementée***[Abrogée, 2012, ch. 19, art. 713]
 
-***Agence*** L’Agence canadienne de contrôle de la procréation assistée constituée par le paragraphe 21(1).
+***Agence***[Abrogée, 2012, ch. 19, art. 713]
 
 ***autorisation***[Abrogée, 2012, ch. 19, art. 713]
 
 ***chimère***
 - **a)** Embryon dans lequel a été introduite au moins une cellule provenant d’une autre forme de vie;
-- **b)** embryon consistant en cellules provenant de plusieurs embryons, foetus ou êtres humains.
+- **b)** embryon consistant en cellules provenant de plusieurs embryons, foetus ou êtres humains. (*chimera*)
 
-***clone humain*** Embryon qui est issu de la manipulation du matériel reproductif humain ou de l’embryon in vitro et qui contient des compléments diploïdes de chromosomes provenant d’un seul être humain, d’un seul foetus ou d’un seul embryon, vivants ou non.
+***clone humain*** Embryon qui est issu de la manipulation du matériel reproductif humain ou de l’embryon in vitro et qui contient des compléments diploïdes de chromosomes provenant d’un seul être humain, d’un seul foetus ou d’un seul embryon, vivants ou non. (*human clone*)
 
 ***consentement***[Abrogée, 2012, ch. 19, art. 713]
 
 ***donneur***
 - **a)** S’agissant du matériel reproductif humain, s’entend de la personne du corps de laquelle il a été obtenu, à titre onéreux ou gratuit;
-- **b)** s’agissant d’embryons in vitro, s’entend au sens des règlements.
+- **b)** s’agissant d’embryons in vitro, s’entend au sens des règlements. (*donor*)
 
-***embryon*** Organisme humain jusqu’au cinquante-sixième jour de développement suivant la fécondation ou la création, compte non tenu de toute période au cours de laquelle son développement est suspendu. Est également visée par la présente définition toute cellule dérivée d’un tel organisme et destinée à la création d’un être humain.
+***embryon*** Organisme humain jusqu’au cinquante-sixième jour de développement suivant la fécondation ou la création, compte non tenu de toute période au cours de laquelle son développement est suspendu. Est également visée par la présente définition toute cellule dérivée d’un tel organisme et destinée à la création d’un être humain. (*embryo*)
 
-***embryon in vitro*** Embryon qui existe en dehors du corps d’un être humain.
+***embryon in vitro*** Embryon qui existe en dehors du corps d’un être humain. (*in vitro embryo*)
 
-***foetus*** Organisme humain à compter du cinquante-septième jour de développement suivant la fécondation ou la création jusqu’à la naissance, compte non tenu de toute période au cours de laquelle son développement est suspendu.
+***foetus*** Organisme humain à compter du cinquante-septième jour de développement suivant la fécondation ou la création jusqu’à la naissance, compte non tenu de toute période au cours de laquelle son développement est suspendu. (*foetus*)
 
-***gène*** Sont assimilés au gène la séquence nucléotidique d’origine et le gène ou la séquence nucléotidique créés artificiellement.
+***gène*** Sont assimilés au gène la séquence nucléotidique d’origine et le gène ou la séquence nucléotidique créés artificiellement. (*gene*)
 
-***génome*** La totalité de la séquence d’acide désoxyribonucléique d’une cellule donnée.
+***génome*** La totalité de la séquence d’acide désoxyribonucléique d’une cellule donnée. (*genome*)
 
 ***hybride***
 - **a)** Ovule humain fertilisé par un spermatozoïde d’une autre forme de vie;
 - **b)** ovule d’une autre forme de vie fertilisé par un spermatozoïde humain;
 - **c)** ovule humain dans lequel a été introduit le noyau d’une cellule d’une autre forme de vie;
 - **d)** ovule d’une autre forme de vie dans lequel a été introduit le noyau d’une cellule humaine;
-- **e)** ovule humain ou d’une autre forme de vie qui, de quelque autre façon, contient des compléments haploïdes de chromosomes d’origine humaine et d’une autre forme de vie.
+- **e)** ovule humain ou d’une autre forme de vie qui, de quelque autre façon, contient des compléments haploïdes de chromosomes d’origine humaine et d’une autre forme de vie. (*hybrid*)
 
-***matériel reproductif humain*** Gène humain, cellule humaine, y compris un ovule ou un spermatozoïde, ou toute partie de ceux-ci.
+***matériel reproductif humain*** Gène humain, cellule humaine, y compris un ovule ou un spermatozoïde, ou toute partie de ceux-ci. (*human reproductive material*)
 
-***mère porteuse*** Personne de sexe féminin qui porte un embryon ou un foetus issu d’une technique de procréation assistée et provenant des gènes d’un ou de plusieurs donneurs, avec l’intention de remettre l’enfant à un donneur ou à une autre personne à la naissance.
+***mère porteuse*** Personne de sexe féminin qui porte un embryon ou un foetus issu d’une technique de procréation assistée et provenant des gènes d’un ou de plusieurs donneurs, avec l’intention de remettre l’enfant à un donneur ou à une autre personne à la naissance. (*surrogate mother*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***ovule*** ovule humain, mature ou non.
+***ovule*** ovule humain, mature ou non. (*ovum*)
 
 ***renseignement médical***[Abrogée, 2012, ch. 19, art. 713]
 
-***spermatozoïde*** Spermatozoïde humain, mature ou non.
+***spermatozoïde*** Spermatozoïde humain, mature ou non. (*sperm*)
 
 ***technique de procréation assistée***[Abrogée, 2012, ch. 19, art. 713]
 > 2004, ch. 2, art. 3; 2012, ch. 19, art. 713.
@@ -298,283 +298,90 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre est responsable de la politique du gouvernement du Canada en matière de procréation assistée et de toute autre question qui, à son avis, est liée aux questions prévues par la présente loi.
 
-**Responsabilité de l’Agence**
+- **(2)** [Abrogé, 2012, ch. 19, art. 721]
+> 2004, ch. 2, art. 20; 2012, ch. 19, art. 721.
 
-- **(2)** Le ministre est responsable de l’Agence.
 
 
 
+**21** [Abrogé, 2012, ch. 19, art. 722]
 
-## Agence canadienne de contrôle de la procréation assistée
 
 
+**22** [Abrogé, 2012, ch. 19, art. 722]
 
-**Constitution**
 
-**21** 
 
-- **(1)** Est constituée l’Agence canadienne de contrôle de la procréation assistée, dotée de la personnalité morale; l’Agence ne peut exercer ses attributions qu’à titre de mandataire de Sa Majesté.
+**23** [Abrogé, 2012, ch. 19, art. 722]
 
-**Siège**
 
-- **(2)** Le siège de l’Agence est situé au Canada, en un lieu fixé par le gouverneur en conseil.
 
-**Application de la [Loi sur les langues officielles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2031%20(4e%20suppl.).md)**
+**24** [Abrogé, 2012, ch. 19, art. 722]
 
-- **(3)** La [Loi sur les langues officielles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2031%20(4e%20suppl.).md) s’applique à l’Agence.
 
 
+**25** [Abrogé, 2012, ch. 19, art. 722]
 
 
-**Mission**
 
-**22** Dans le cadre de sa mission — qui relève de la procréation assistée et des autres questions prévues par la présente loi —, l’Agence est chargée de :
-- **a)** protéger et promouvoir la santé et la sécurité ainsi que la dignité humaine et les droits de la personne au Canada;
-- **b)** promouvoir l’application de principes d’éthique.
+**26** [Abrogé, 2012, ch. 19, art. 722]
 
 
 
+**27** [Abrogé, 2012, ch. 19, art. 722]
 
-**Principes**
 
-**23** L’Agence exerce ses pouvoirs d’une manière compatible avec les principes établis à l’article 2.
 
+**28** [Abrogé, 2012, ch. 19, art. 722]
 
 
 
-**Pouvoirs de l’Agence**
+**29** [Abrogé, 2012, ch. 19, art. 722]
 
-**24** 
 
-- **(1)** L’Agence peut :
-	- **a)** exercer les pouvoirs relatifs aux autorisations qui lui sont conférés par la présente loi;
-	- **b)** conseiller le ministre sur la procréation assistée ainsi que sur toute autre question prévue par la présente loi;
-	- **c)** surveiller et analyser, tant au Canada qu’à l’étranger, l’évolution de la procréation assistée ainsi que de toute autre question prévue par la présente loi;
-	- **d)** consulter, tant au Canada qu’à l’étranger, des personnes ou des organisations;
-	- **e)** obtenir, analyser et gérer les renseignements médicaux relatifs aux activités réglementées;
-	- **f)** informer le public et les milieux professionnels sur la procréation assistée et toute autre question prévue par la présente loi — ainsi que sur leur réglementation dans le cadre de la présente loi — et sur les facteurs de risque liés à l’infertilité;
-	- **g)** désigner des inspecteurs et des analystes pour le contrôle d’application de la présente loi;
-	- **h)** exercer toutes autres attributions qui sont nécessaires à la réalisation de sa mission.
 
-**Conseils et renseignements**
+**30** [Abrogé, 2012, ch. 19, art. 722]
 
-- **(2)** L’Agence fournit au ministre, sur demande :
-	- **a)** des conseils sur la procréation assistée ainsi que sur toute autre question qu’il juge indiquée;
-	- **b)** les renseignements médicaux autres que l’identité d’une personne ou des renseignements susceptibles de servir à identifier une personne;
-	- **c)** des renseignements sur son administration et sa gestion.
 
 
+**31** [Abrogé, 2012, ch. 19, art. 722]
 
 
-**Instructions ministérielles**
 
-**25** 
+**32** [Abrogé, 2012, ch. 19, art. 722]
 
-- **(1)** Le ministre peut donner à l’Agence des instructions impératives en matière d’orientation quant à l’exercice de ses pouvoirs.
 
-**Restriction**
 
-- **(2)** Les instructions n’ont pas d’effet sur les questions relatives à des personnes déterminées dont l’Agence est déjà saisie à la date où elles sont données.
+**33** [Abrogé, 2012, ch. 19, art. 722]
 
-**Caractère non réglementaire**
 
-- **(3)** Les instructions ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
 
+**34** [Abrogé, 2012, ch. 19, art. 722]
 
 
 
-**Conseil d’administration**
+**35** [Abrogé, 2012, ch. 19, art. 722]
 
-**26** 
 
-- **(1)** Le conseil d’administration de l’Agence est composé d’au plus douze membres — les administrateurs —, dont le président du conseil et le président-directeur général.
 
-**Critères de nomination**
+**36** [Abrogé, 2012, ch. 19, art. 722]
 
-- **(2)** Les administrateurs doivent représenter une variété de milieux et de disciplines utiles à la mission de l’Agence.
 
-**Temps partiel**
 
-- **(3)** Les administrateurs exercent leurs fonctions à temps partiel.
+**37** [Abrogé, 2012, ch. 19, art. 722]
 
-**Nomination et mandat des administrateurs**
 
-- **(4)** Le gouverneur en conseil nomme les administrateurs pour un mandat d’au plus trois ans; les administrateurs initiaux sont nommés pour des mandats qui sont, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus le tiers des administrateurs.
 
-**Renouvellement de mandat**
+**38** [Abrogé, 2012, ch. 19, art. 722]
 
-- **(5)** Les administrateurs sont nommés à titre amovible et peuvent recevoir un nouveau mandat.
 
-**Maintien en poste**
 
-- **(6)** L’administrateur qui n’est pas remplacé après l’expiration de son mandat reste en poste jusqu’à ce que son successeur soit nommé.
+**39** [Abrogé, 2012, ch. 19, art. 722]
 
-**Non-application**
 
-- **(7)** Les paragraphes (3) à (6) ne s’appliquent ni au président du conseil ni au président-directeur général.
 
-**Conflits d’intérêts**
 
-- **(8)** Ne peut occuper la charge d’administrateur quiconque est titulaire d’une autorisation ou en demande une, ou encore est un administrateur, un dirigeant, un actionnaire ou un associé du titulaire d’une telle autorisation ou d’une personne qui en demande une.
-> 2004, ch. 2, art. 26; 2010, ch. 12, art. 1656.
-
-
-
-
-
-**Réunions**
-
-**27** Le conseil d’administration tient au Canada, aux date, heure et lieu de son choix, un minimum de deux réunions par an.
-
-
-
-
-**Participation des sous-ministres de la Santé**
-
-**28** Le sous-ministre de la Santé, ou son substitut, et la personne choisie, en leur sein, par les sous-ministres des ministères responsables de la santé dans les provinces, ou le substitut de cette personne choisi par eux, peuvent assister aux réunions du conseil d’administration et participer aux délibérations.
-
-
-
-
-**Administrateurs**
-
-**29** Les administrateurs, à l’exception du président-directeur général :
-- **a)** reçoivent, pour leur participation aux réunions du conseil d’administration ou de ses comités ou l’exercice d’autres fonctions, la rémunération que fixe le gouverneur en conseil;
-- **b)** sont réputés faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la Loi sur l’aéronautique;
-- **c)** ont droit aux frais de déplacement et de séjour entraînés par l’exercice, hors du lieu de leur résidence habituelle, de leurs fonctions.
-
-
-
-
-**Gestion de l’Agence**
-
-**30** Le conseil d’administration est chargé d’assurer la direction générale de l’Agence, notamment par :
-- **a)** la fourniture de conseils au ministre sur la procréation assistée ainsi que sur toute autre question prévue par la présente loi et sur toute question soumise à l’Agence par le ministre;
-- **b)** l’approbation des objectifs et des politiques opérationnelles de l’Agence;
-- **c)** l’approbation du budget de l’Agence;
-- **d)** l’évaluation du rendement de l’Agence.
-
-
-
-
-**Règlements administratifs**
-
-**31** Avec l’approbation du gouverneur en conseil, le conseil d’administration peut, par règlement administratif, régir la conduite de ses travaux et celle de ses activités en général.
-
-
-
-
-**Délégation**
-
-**32** 
-
-- **(1)** Sous réserve du paragraphe (2), le conseil d’administration peut, par règlement administratif, déléguer ses attributions à l’un de ses comités ou au président-directeur général, y compris les attributions prévues aux articles 44, 46, 52, 54, 55, 58, 59 et 64.
-
-**Exception**
-
-- **(2)** Le conseil d’administration ne peut déléguer les pouvoirs visés aux articles 40, 41 ou 42 ou la fourniture de conseils au ministre, l’approbation des objectifs et des politiques opérationnelles de l’Agence, l’approbation du budget de l’Agence et la prise des règlements administratifs.
-
-
-
-
-**Groupes consultatifs**
-
-**33** 
-
-- **(1)** Le conseil d’administration peut, par règlement administratif, constituer des groupes consultatifs chargés d’étudier toute question qu’il leur soumet et de présenter un rapport et des recommandations à cet égard.
-
-**Composition**
-
-- **(2)** Le règlement administratif constituant un groupe consultatif peut prévoir que celui-ci peut compter parmi ses membres des personnes autres que des administrateurs.
-
-**Honoraires**
-
-- **(3)** Les membres d’un groupe consultatif qui ne sont pas des administrateurs peuvent recevoir pour leurs services la rémunération fixée par les règlements administratifs de l’Agence.
-
-
-
-
-**Président du conseil**
-
-**34** 
-
-- **(1)** Le gouverneur en conseil nomme, à titre amovible, le président du conseil pour un mandat renouvelable d’au plus trois ans.
-
-**Fonctions**
-
-- **(2)** Le président du conseil préside les réunions du conseil d’administration et peut exercer les attributions que lui confèrent les règlements administratifs de l’Agence.
-
-
-
-
-**Vice-président du conseil**
-
-**35** 
-
-- **(1)** Le conseil d’administration choisit un vice-président du conseil en son sein.
-
-**Intérim**
-
-- **(2)** En cas d’absence ou d’empêchement du président du conseil ou de vacance de son poste, la présidence du conseil est assumée par le vice-président du conseil.
-
-
-
-
-**Nomination du président-directeur général**
-
-**36** 
-
-- **(1)** Le gouverneur en conseil nomme, à titre amovible, le président-directeur général de l’Agence pour un mandat renouvelable d’au plus cinq ans.
-
-**Premier dirigeant**
-
-- **(2)** Le président-directeur général est le premier dirigeant de l’Agence; à ce titre, il en assure la direction et contrôle la gestion de son personnel; il peut en outre exercer les attributions que lui confèrent les règlements administratifs de l’Agence.
-
-**Délégation**
-
-- **(3)** Le président-directeur général peut déléguer à tout dirigeant de l’Agence les attributions qui lui sont conférées sous le régime de la présente loi ou de toute autre loi.
-
-**Intérim du président-directeur général**
-
-- **(4)** En cas d’absence ou d’empêchement du président-directeur général ou de vacance de son poste, le conseil d’administration peut autoriser un dirigeant de l’Agence à assurer l’intérim; l’intérim ne peut cependant dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
-
-
-
-
-**Rémunération et avantages — président-directeur général**
-
-**37** Le président-directeur général :
-- **a)** reçoit la rémunération que fixe le gouverneur en conseil;
-- **b)** a droit aux frais de déplacement et de séjour entraînés par l’exercice, hors de son lieu habituel de travail, de ses fonctions.
-
-
-
-
-**Exercice d’attributions par les dirigeants et le personnel**
-
-**38** Les dirigeants et les membres du personnel de l’Agence ayant la compétence voulue peuvent exercer les attributions de l’Agence.
-
-
-
-
-**Conclusion d’ententes**
-
-**39** 
-
-- **(1)** L’Agence peut conclure avec un ministère ou organisme fédéral, avec tout autre gouvernement ou tout organisme de celui-ci ou avec toute personne ou organisation des contrats, ententes ou autres arrangements sous le nom de Sa Majesté du chef du Canada ou le sien.
-
-**Biens**
-
-- **(2)** Les biens acquis par l’Agence appartiennent à Sa Majesté du chef du Canada et peuvent être détenus sous le nom de celle-ci ou le sien.
-
-**Actions en justice**
-
-- **(3)** À l’égard des droits et obligations qu’elle assume sous le nom de Sa Majesté du chef du Canada ou le sien, l’Agence peut rester en justice sous son propre nom devant les tribunaux qui seraient compétents si elle n’était pas mandataire de Sa Majesté.
-
-
-
-
-## Mise en oeuvre
+## Exécution et contrôle d’application
 
 
 **40** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 724]
@@ -616,10 +423,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 > 2004, ch. 2, art. 44; 2012, ch. 19, art. 725.
 
 
-
-
-
-## Inspection et contrôle d’application
 
 
 
@@ -1023,7 +826,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur l'accès à l’information
+### Loi sur l’accès à l’information
 
 
 **72** [Modification]
