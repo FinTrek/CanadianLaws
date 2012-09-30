@@ -4719,7 +4719,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind30A5_hq_12949'>[*]</a></sup>**(2)** Le paragraphe 713(2) et les articles 721 à 723, 726 et 741 à 751 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind30A5_hq_12949'><sup>*</sup></a>: [Note : Paragraphe 713(2) et articles 721 à 723, 726 et 741 à 751 non en vigueur.]<br />
+<a name='fn_Ind30A5_hq_12949'><sup>*</sup></a>: [Note : Paragraphe 713(2) et articles 721 à 723, 726 et 741 à 751 en vigueur le 30 septembre 2012, *voir* TR/2012-75.]<br />
 
 
 
