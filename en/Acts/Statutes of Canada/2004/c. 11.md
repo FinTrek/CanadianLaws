@@ -644,7 +644,7 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 ## Coordinating Amendments
 
 
-**53** [Amendment]
+**53** [Repealed, 2012, c. 19, s. 751]
 
 
 
