@@ -55,54 +55,54 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** The following definitions apply in this Act.
 
-***Agency*** means the Assisted Human Reproduction Agency of Canada established by subsection 21(1).
+***Agency***[Repealed, 2012, c. 19, s. 713]
 
 ***assisted reproduction procedure***[Repealed, 2012, c. 19, s. 713]
 
-***chimera*** means
+***chimera*** means
 - **(a)** an embryo into which a cell of any non-human life form has been introduced; or
-- **(b)** an embryo that consists of cells of more than one embryo, foetus or human being.
+- **(b)** an embryo that consists of cells of more than one embryo, foetus or human being. (*chimère*)
 
 ***consent***[Repealed, 2012, c. 19, s. 713]
 
 ***controlled activity***[Repealed, 2012, c. 19, s. 713]
 
-***donor*** means
+***donor*** means
 - **(a)** in relation to human reproductive material, the individual from whose body it was obtained, whether for consideration or not; and
-- **(b)** in relation to an *in vitro* embryo, a donor as defined in the regulations.
+- **(b)** in relation to an *in vitro* embryo, a donor as defined in the regulations. (*donneur*)
 
-***embryo*** means a human organism during the first 56 days of its development following fertilization or creation, excluding any time during which its development has been suspended, and includes any cell derived from such an organism that is used for the purpose of creating a human being.
+***embryo*** means a human organism during the first 56 days of its development following fertilization or creation, excluding any time during which its development has been suspended, and includes any cell derived from such an organism that is used for the purpose of creating a human being. (*embryon*)
 
-***foetus*** means a human organism during the period of its development beginning on the fifty-seventh day following fertilization or creation, excluding any time during which its development has been suspended, and ending at birth.
+***foetus*** means a human organism during the period of its development beginning on the fifty-seventh day following fertilization or creation, excluding any time during which its development has been suspended, and ending at birth. (*foetus*)
 
-***gene*** includes a nucleotide sequence, and an artificially created gene or nucleotide sequence.
+***gene*** includes a nucleotide sequence, and an artificially created gene or nucleotide sequence. (*gène*)
 
-***genome*** means the totality of the deoxyribonucleic acid sequence of a particular cell.
+***genome*** means the totality of the deoxyribonucleic acid sequence of a particular cell. (*génome*)
 
 ***health reporting information***[Repealed, 2012, c. 19, s. 713]
 
-***human clone*** means an embryo that, as a result of the manipulation of human reproductive material or an *in vitro* embryo, contains a diploid set of chromosomes obtained from a single — living or deceased — human being, foetus or embryo.
+***human clone*** means an embryo that, as a result of the manipulation of human reproductive material or an *in vitro* embryo, contains a diploid set of chromosomes obtained from a single — living or deceased — human being, foetus or embryo. (*clone humain*)
 
-***human reproductive material*** means a sperm, ovum or other human cell or a human gene, and includes a part of any of them.
+***human reproductive material*** means a sperm, ovum or other human cell or a human gene, and includes a part of any of them. (*matériel reproductif humain*)
 
-***hybrid***means
+***hybrid*** means
 - **(a)** a human ovum that has been fertilized by a sperm of a non-human life form;
 - **(b)** an ovum of a non-human life form that has been fertilized by a human sperm;
 - **(c)** a human ovum into which the nucleus of a cell of a non-human life form has been introduced;
 - **(d)** an ovum of a non-human life form into which the nucleus of a human cell has been introduced; or
-- **(e)** a human ovum or an ovum of a non-human life form that otherwise contains haploid sets of chromosomes from both a human being and a non-human life form.
+- **(e)** a human ovum or an ovum of a non-human life form that otherwise contains haploid sets of chromosomes from both a human being and a non-human life form. (*hybride*)
 
-****in vitro* embryo*** means an embryo that exists outside the body of a human being.
+****in vitro* embryo*** means an embryo that exists outside the body of a human being. (*embryon *in vitro**)
 
 ***licence***[Repealed, 2012, c. 19, s. 713]
 
-***Minister*** means the Minister of Health.
+***Minister*** means the Minister of Health. (*ministre*)
 
-***ovum*** means a human ovum, whether mature or not.
+***ovum*** means a human ovum, whether mature or not. (*ovule*)
 
-***sperm*** means a human sperm, whether mature or not.
+***sperm*** means a human sperm, whether mature or not. (*spermatozoïde*)
 
-***surrogate mother*** means a female person who — with the intention of surrendering the child at birth to a donor or another person — carries an embryo or foetus that was conceived by means of an assisted reproduction procedure and derived from the genes of a donor or donors.
+***surrogate mother*** means a female person who — with the intention of surrendering the child at birth to a donor or another person — carries an embryo or foetus that was conceived by means of an assisted reproduction procedure and derived from the genes of a donor or donors. (*mère porteuse*)
 > 2004, c. 2, s. 3; 2012, c. 19, s. 713.
 
 
@@ -298,284 +298,90 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The Minister is responsible for the policy of the Government of Canada respecting assisted human reproduction and any other matter that, in the opinion of the Minister, relates to the subject-matter of this Act.
 
-**Agency**
+- **(2)** [Repealed, 2012, c. 19, s. 721]
+> 2004, c. 2, s. 20; 2012, c. 19, s. 721.
 
-- **(2)** The Minister is responsible for the Agency.
 
 
 
+**21** [Repealed, 2012, c. 19, s. 722]
 
-## Assisted Human Reproduction Agency of Canada
 
 
+**22** [Repealed, 2012, c. 19, s. 722]
 
-**Agency established**
 
-**21** 
 
-- **(1)** The Assisted Human Reproduction Agency of Canada is hereby established as a body corporate that may exercise powers and perform duties only as an agent of Her Majesty in right of Canada.
+**23** [Repealed, 2012, c. 19, s. 722]
 
-**Head office**
 
-- **(2)** The head office of the Agency shall be at a place in Canada designated by the Governor in Council.
 
-**Application of [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md)**
+**24** [Repealed, 2012, c. 19, s. 722]
 
-- **(3)** The [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md) applies to the Agency.
 
 
+**25** [Repealed, 2012, c. 19, s. 722]
 
 
-**Objectives**
 
-**22** The objectives of the Agency are
-- **(a)** to protect and promote the health and safety, and the human dignity and human rights, of Canadians, and
-- **(b)** to foster the application of ethical principles,
-in relation to assisted human reproduction and other matters to which this Act applies.
+**26** [Repealed, 2012, c. 19, s. 722]
 
 
 
+**27** [Repealed, 2012, c. 19, s. 722]
 
-**Principles**
 
-**23** The Agency shall exercise its powers in a manner consistent with the principles set out in section 2.
 
+**28** [Repealed, 2012, c. 19, s. 722]
 
 
 
-**Powers of Agency**
+**29** [Repealed, 2012, c. 19, s. 722]
 
-**24** 
 
-- **(1)** The Agency may
-	- **(a)** exercise the powers in relation to licences under this Act;
-	- **(b)** provide advice to the Minister on assisted human reproduction and other matters to which this Act applies;
-	- **(c)** monitor and evaluate developments within Canada and internationally in assisted human reproduction and other matters to which this Act applies;
-	- **(d)** consult persons and organizations within Canada and internationally;
-	- **(e)** collect, analyse and manage health reporting information relating to controlled activities;
-	- **(f)** provide information to the public and to the professions respecting assisted human reproduction and other matters to which this Act applies, and their regulation under this Act, and respecting risk factors associated with infertility;
-	- **(g)** designate inspectors and analysts for the enforcement of this Act; and
-	- **(h)** do anything that is reasonably necessary or incidental to achieving the Agency's objectives.
 
-**Advice to Minister**
+**30** [Repealed, 2012, c. 19, s. 722]
 
-- **(2)** On request by the Minister, the Agency shall provide
-	- **(a)** advice on issues pertaining to assisted human reproduction and other matters that the Minister considers appropriate;
-	- **(b)** health reporting information, other than the identity of any person — or information that can reasonably be expected to be used in the identification of any person; and
-	- **(c)** information concerning the general administration and management of the Agency's affairs.
 
 
+**31** [Repealed, 2012, c. 19, s. 722]
 
 
-**Policy directions**
 
-**25** 
+**32** [Repealed, 2012, c. 19, s. 722]
 
-- **(1)** The Minister may issue policy directions to the Agency concerning the exercise of any of its powers, and the Agency shall give effect to directions so issued.
 
-**Exception**
 
-- **(2)** Policy directions issued by the Minister may not affect a matter that is before the Agency at the time they are issued and that relates to a particular person.
+**33** [Repealed, 2012, c. 19, s. 722]
 
-**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(3)** Policy directions issued by the Minister are not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
 
+**34** [Repealed, 2012, c. 19, s. 722]
 
 
 
-**Board of directors**
+**35** [Repealed, 2012, c. 19, s. 722]
 
-**26** 
 
-- **(1)** There shall be a board of directors of the Agency consisting of not more than 12 members, including a Chairperson and the President of the Agency.
 
-**Appointment criteria**
+**36** [Repealed, 2012, c. 19, s. 722]
 
-- **(2)** The membership of the board of directors must reflect a range of backgrounds and disciplines relevant to the Agency's objectives.
 
-**Part-time service**
 
-- **(3)** The members of the board of directors shall perform their duties and functions on a part-time basis.
+**37** [Repealed, 2012, c. 19, s. 722]
 
-**Term of office**
 
-- **(4)** A member of the board shall be appointed by the Governor in Council for a term not exceeding three years. Each initial member of the board shall be appointed to hold office for a term that will ensure, so far as possible, the expiry in any one year of the terms of office of not more than one third of the members.
 
-**Removal and reappointment**
+**38** [Repealed, 2012, c. 19, s. 722]
 
-- **(5)** A member of the board shall be appointed to hold office during pleasure, and is eligible for reappointment.
 
-**Continuation in office**
 
-- **(6)** If no successor is appointed to take office on the expiry of a member's term of appointment, the member continues in office until a successor is appointed.
+**39** [Repealed, 2012, c. 19, s. 722]
 
-**Provisions not applicable**
 
-- **(7)** Subsections (3) to (6) do not apply to the Chairperson or the President.
 
-**Persons not eligible to be directors**
 
-- **(8)** A person is not eligible to be a member of the board of directors if they hold a licence or are an applicant for a licence or a director, officer, shareholder or partner of a licensee or applicant for a licence.
-> 2004, c. 2, s. 26; 2010, c. 12, s. 1656.
-
-
-
-
-
-**Meetings**
-
-**27** The board of directors may determine the times and the places in Canada of its meetings, but it shall meet at least twice a year.
-
-
-
-
-**Participation of deputy ministers**
-
-**28** The Deputy Minister of Health, or an alternate designated by the Deputy Minister of Health, and a person nominated by the deputy ministers of the departments responsible for health in the provinces from among their number, or an alternate so nominated, are entitled to attend meetings of the board of directors and speak to any matter under consideration at the meeting.
-
-
-
-
-**Members of the board**
-
-**29** Each member of the board of directors, except the President of the Agency,
-- **(a)** shall be paid the remuneration fixed by the Governor in Council for attendance at meetings of the board of directors or any of its committees or for the performance of other duties;
-- **(b)** is deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
-- **(c)** is entitled to be reimbursed for reasonable travel and living expenses incurred by the member in the course of performing their duties while absent from their ordinary place of residence.
-
-
-
-
-**Management of Agency**
-
-**30** The board of directors is responsible for the overall management of the Agency, including
-- **(a)** the provision of advice to the Minister on assisted human reproduction and other matters to which this Act applies, or on any matter referred to the Agency by the Minister;
-- **(b)** the approval of the Agency's goals and operational policies;
-- **(c)** the approval of the Agency's budget; and
-- **(d)** the evaluation of the Agency's performance.
-
-
-
-
-**By-laws**
-
-**31** The board of directors may, with the approval of the Governor in Council, make by-laws for the regulation of its proceedings and generally for the conduct of its activities.
-
-
-
-
-**Delegation**
-
-**32** 
-
-- **(1)** Subject to subsection (2), the board of directors may, by by-law, delegate any of the Agency's powers and duties to a committee of the board or the President, including powers and duties under sections 44, 46, 52, 54, 55, 58, 59 and 64.
-
-**Exceptions**
-
-- **(2)** The board of directors may not delegate its powers under section 40, 41 or 42 or any of its powers or duties with respect to the provision of advice to the Minister, the approval of the Agency's goals and operational policies, the approval of its budget and the making of by-laws.
-
-
-
-
-**Advisory panels**
-
-**33** 
-
-- **(1)** The board of directors may, by by-law, establish advisory panels to examine, report on and make recommendations with respect to any issue referred to the panels by the board.
-
-**Outside members**
-
-- **(2)** A by-law establishing an advisory panel may provide for the inclusion of persons who are not members of the board.
-
-**Fees**
-
-- **(3)** Members of an advisory panel who are not members of the board may be paid remuneration for their services as fixed by the Agency's by-laws.
-
-
-
-
-**Appointment of Chairperson**
-
-**34** 
-
-- **(1)** The Chairperson of the board of directors shall be appointed by the Governor in Council to hold office during pleasure for a term of not more than three years, and is eligible for reappointment.
-
-**Functions of Chairperson**
-
-- **(2)** The Chairperson shall preside at meetings of the board of directors, and may exercise the powers and shall perform the duties assigned by the Agency's by-laws.
-
-
-
-
-**Election of Vice-Chairperson**
-
-**35** 
-
-- **(1)** The board of directors shall elect one of its members to be Vice-Chairperson.
-
-**Replacing Chairperson**
-
-- **(2)** In the event of the absence or incapacity of the Chairperson or a vacancy in that office, the Vice-Chairperson may exercise the powers and shall perform the duties of the Chairperson.
-
-
-
-
-**Appointment of President**
-
-**36** 
-
-- **(1)** The President of the Agency shall be appointed by the Governor in Council to hold office during pleasure for a term of not more than five years, and is eligible for reappointment.
-
-**Chief executive officer**
-
-- **(2)** The President is the chief executive officer of the Agency and has supervision over and direction of the work and staff of the Agency, and may exercise the powers and shall perform the duties assigned by the Agency's by-laws.
-
-**Delegation**
-
-- **(3)** The President may delegate to any officer of the Agency any power conferred or duty imposed on the President by or under this or any other Act.
-
-**Acting President**
-
-- **(4)** In the event of the absence or incapacity of the President or a vacancy in that office, the board of directors may authorize an officer of the Agency to act as President, but no person may act as President for a period exceeding 90 days without the approval of the Governor in Council.
-
-
-
-
-**President's pay and benefits**
-
-**37** The President
-- **(a)** shall be paid the remuneration fixed by the Governor in Council; and
-- **(b)** is entitled to be reimbursed for reasonable travel and living expenses incurred by the President in the course of performing duties while absent from the President's ordinary place of work.
-
-
-
-
-**Exercise of powers by officers and employees**
-
-**38** An officer or employee of the Agency may exercise any power and perform any duty of the Agency if the officer or employee is appointed to serve in a capacity appropriate to the exercise of the power or performance of the duty.
-
-
-
-
-**Contracts and arrangements**
-
-**39** 
-
-- **(1)** The Agency may enter into contracts, agreements, memoranda of understanding and other arrangements with a department or agency of the Government of Canada, with any other government or any of its agencies or with any person or organization, either in its own name or in the name of Her Majesty in right of Canada.
-
-**Title to property**
-
-- **(2)** Property acquired by the Agency is property of Her Majesty in right of Canada, and title to it may be held in the Agency's name or in Her Majesty's name.
-
-**Legal proceedings**
-
-- **(3)** Actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Agency, whether in its own name or in the name of Her Majesty in right of Canada, may be brought or taken by or against the Agency in the name of the Agency in any court that would have jurisdiction if the Agency were not an agent of Her Majesty.
-
-
-
-
-## Administration
+## Administration and Enforcement
 
 
 **40** [Repealed before coming into force, 2012, c. 19, s. 724]
@@ -617,10 +423,6 @@ in relation to assisted human reproduction and other matters to which this Act a
 > 2004, c. 2, s. 44; 2012, c. 19, s. 725.
 
 
-
-
-
-## Inspection and Enforcement
 
 
 
