@@ -640,7 +640,7 @@ French version only***administrateur général*** L’administrateur général n
 ## Dispositions de coordination
 
 
-**53** [Modification]
+**53** [Abrogé, 2012, ch. 19, art. 751]
 
 
 
