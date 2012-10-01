@@ -37,17 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009.
+***Agreement*** means the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009. (*Accord*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Joint Commission*** means the Joint Commission established under Article 13-1 of the Agreement.
+***Joint Commission*** means the Joint Commission established under Article 13-1 of the Agreement. (*Commission mixte*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
-***related agreement*** means
+***related agreement*** means
 - **(a)** the Agreement on the Environment between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009; or
-- **(b)** the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009.
+- **(b)** the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009. (*accord connexe*)
 
 
 
@@ -385,7 +385,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind2EBD_hq_12835'>[*]</a></sup>**46** This Act, other than sections 44 and 45, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2EBD_hq_12835'><sup>*</sup></a>: [Note: Sections 44 and 45 in force on assent June 29, 2012.]<br />
+<a name='fn_Ind2EBD_hq_12835'><sup>*</sup></a>: [Note: Sections 44 and 45 in force on assent June 29, 2012; Act, other than sections 44 and 45, in force October 1, 2012, *see* SI/2012-71.]<br />
 
 
 
