@@ -54,6 +54,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada–Israel Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
 
+***Canada–Jordan Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md).
+
 ***Canada–Peru Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
 
 ***Canada–United States Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
@@ -90,6 +92,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***initial rate*** means the rate of customs duty that applies before any reductions are made under this Act.
 
 ***Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
+
+***Jordan*** means the land territory, the air space and the internal waters and territorial sea over which the Hashemite Kingdom of Jordan exercises sovereignty.
 
 ***Liechtenstein*** means the land territory and air space of Liechtenstein.
 
@@ -150,7 +154,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32.
 
 
 
@@ -182,6 +186,8 @@ Costa Rica
 
 Iceland
 
+Jordan
+
 Liechtenstein
 
 Norway
@@ -191,7 +197,7 @@ Peru
 Switzerland
 
 
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33.
 
 
 
@@ -295,12 +301,13 @@ Switzerland
 		- **(vii)** subsection 71.01(1),
 		- **(viii)** subsection 71.1(2),
 		- **(ix)** subsection 71.5(1),
-		- **(x)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(x)** subsection 71.6(1),
+		- **(xi)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44.
 
 
 
@@ -622,6 +629,8 @@ Switzerland
 
 ***IT*** refers to the Iceland Tariff.
 
+***JT*** refers to the Jordan Tariff.
+
 ***LDCT*** refers to the Least Developed Country Tariff.
 
 ***MFN*** refers to the Most-Favoured-Nation Tariff.
@@ -639,7 +648,7 @@ Switzerland
 ***SLT*** refers to the Switzerland–Liechtenstein Tariff.
 
 ***UST*** refers to the United States Tariff.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44.
 
 
 
@@ -1636,6 +1645,41 @@ Switzerland
 
 
 
+#### Jordan Tariff
+
+
+
+**Application of JT**
+
+**52.4** 
+
+- **(1)** Subject to section 24, goods that originate in Jordan are entitled to the Jordan Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “JT” in relation to goods entitled to the Jordan Tariff, the Jordan Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for JT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “JT” in relation to goods entitled to the Jordan Tariff, the Jordan Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Rounding of specific rates**
+
+- **(4)** If a reduction under subsection (3) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(5)** If a reduction under subsection (3) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(6)** If a reduction under subsection (3) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2012, c. 18, s. 36.
+
+
+
+
+
 **DIVISION 4** 
 ### Special Measures, Emergency Measures and  Safeguards
 
@@ -2416,6 +2460,50 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
+
+#### Bilateral Emergency Measures — Jordan
+
+
+
+**Order by Governor in Council**
+
+**71.6** 
+
+- **(1)** Subject to subsections (2) and (3), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.018(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.094) of that Act, that goods that are entitled to the Jordan Tariff are, as a result of that entitlement, being imported in such increased quantities in absolute terms and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 52.4;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty set out in the List of Tariff Provisions that is in effect in respect of those goods at that time, may not exceed the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Jordan Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods immediately before the coming into force of this subsection, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods at the time the order is made.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** may not be made more than twice during the period beginning on the coming into force of this subsection and ending on the date that is 10 years after the coming into force of this subsection in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may be made after the date that is 10 years after the coming into force of this subsection only if it is based on an agreement between the Government of Canada and the Government of Jordan relating to the application of subsection (1).
+
+**Application of measures a second time**
+
+- **(3)** A measure referred to in an order made under subsection (1) may be applied a second time if the period that has elapsed since the initial application of the measure ended is equal to at least two years.
+
+**Rate of duty when order ceases to have effect**
+
+- **(4)** If an order made under subsection (1) ceases to have effect in a particular calendar year, the rate of customs duty applicable to the goods after the order ceases to have effect is the rate of customs duty that is applicable in accordance with section 52.4.
+
+**Definition of principal cause**
+
+- **(5)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+
+**Reference to customs duty in effect**
+
+- **(6)** For the purposes of paragraph (1)(b), the Most-Favoured Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is,
+	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+> 2012, c. 18, s. 37.
+
+
+
+
 **72** [Repealed, 2011, c. 24, s. 128]
 
 
@@ -2649,8 +2737,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(f)** subsection 70(2);
 - **(g)** subsection 71.01(1);
 - **(h)** subsection 71.1(2);
-- **(i)** subsection 71.5(1).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129.
+- **(i)** subsection 71.5(1);
+- **(j)** subsection 71.6(1).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44.
 
 
 
@@ -3689,6 +3778,8 @@ Iceland
 
 Israel or another CIFTA beneficiary
 
+Jordan
+
 Liechtenstein
 
 Norway
@@ -3708,6 +3799,8 @@ Costa Rica
 
 Israel or another CIFTA beneficiary
 
+Jordan
+
 Peru
 
 
@@ -3716,7 +3809,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39.
 
 
 
