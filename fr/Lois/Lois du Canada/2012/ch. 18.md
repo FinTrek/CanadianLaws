@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009.
+***Accord*** L’Accord de libre-échange entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009. (*Agreement*)
 
-***accord connexe*** L’un ou l’autre des accords suivants :
+***accord connexe*** L’un ou l’autre des accords suivants :
 - **a)** l’Accord sur l’environnement entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009;
-- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009.
+- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009. (*related agreement*)
 
-***Commission mixte*** La commission mixte établie aux termes de l’article 13-1 de l’Accord.
+***Commission mixte*** La commission mixte établie aux termes de l’article 13-1 de l’Accord. (*Joint Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
@@ -385,7 +385,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndE2B1_hq_12834'>[*]</a></sup>**46** La présente loi, à l’exception des articles 44 et 45, entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndE2B1_hq_12834'><sup>*</sup></a>: [Note : Articles 44 et 45 en vigueur à la sanction le 29 juin 2012.]<br />
+<a name='fn_IndE2B1_hq_12834'><sup>*</sup></a>: [Note : Articles 44 et 45 en vigueur à la sanction le 29 juin 2012; loi, à l’exception des articles 44 et 45, en vigueur le 1<sup>er</sup> octobre 2012, *voir* TR/2012-71.]<br />
 
 
 
