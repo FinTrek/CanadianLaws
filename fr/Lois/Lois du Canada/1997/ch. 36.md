@@ -56,6 +56,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
 
+***Accord de libre-échange Canada-Jordanie*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
+
 ***Accord de libre-échange Canada-Pérou*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md). 
 
 ***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
@@ -88,6 +90,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** zone économique exclusive et plateau continental de l’Islande.
 
 ***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
+
+***Jordanie*** Le territoire terrestre, l’espace aérien, les eaux intérieures et la mer territoriale sur lesquels le Royaume hachémite de Jordanie exerce sa souveraineté.
 
 ***Liechtenstein*** Territoire terrestre et espace aérien du Liechtenstein.
 
@@ -150,7 +154,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32.
 
 
 
@@ -180,6 +184,8 @@ Costa Rica
 
 Islande
 
+Jordanie
+
 Liechtenstein
 
 Norvège
@@ -191,7 +197,7 @@ Pérou
 Suisse
 
 
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33.
 
 
 
@@ -295,12 +301,13 @@ Suisse
 		- **(vii)** le paragraphe 71.01(1),
 		- **(viii)** le paragraphe 71.1(2),
 		- **(ix)** le paragraphe 71.5(1),
-		- **(x)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(x)** le paragraphe 71.6(1),
+		- **(xi)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44.
 
 
 
@@ -606,7 +613,7 @@ Suisse
 
 ***NPF*** Tarif de la nation la plus favorisée.
 
-***TACI*** Tarif de l’accord Canada–Israël.
+***TACI*** Tarif de l’accord Canada-Israël.
 
 ***TAU*** Tarif de l’Australie.
 
@@ -619,6 +626,8 @@ Suisse
 ***TÉU*** Tarif des États-Unis.
 
 ***TI*** Tarif de l’Islande.
+
+***TJ*** Tarif de la Jordanie.
 
 ***TM*** Tarif du Mexique.
 
@@ -636,8 +645,8 @@ Suisse
 
 ***TPMD*** Tarif des pays les moins développés.
 
-***TSL*** Tarif de Suisse–Liechtenstein.
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116.
+***TSL*** Tarif de Suisse-Liechtenstein.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44.
 
 
 
@@ -1634,6 +1643,41 @@ Suisse
 
 
 
+#### Tarif de la Jordanie
+
+
+
+**Application du TJ**
+
+**52.4** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires de la Jordanie bénéficient des taux du tarif de la Jordanie.
+
+**Taux final « A » pour le TJ**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TJ » pour des marchandises qui bénéficient du tarif de la Jordanie, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TJ**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TJ » pour des marchandises qui bénéficient du tarif de la Jordanie, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Arrondissement des taux spécifiques**
+
+- **(4)** Dans le cas où le taux spécifique réduit en application du paragraphe (3) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(5)** Dans le cas où le taux réduit en application du paragraphe (3) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application du paragraphe (3) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2012, ch. 18, art. 36.
+
+
+
+
+
 **SECTION 4** 
 ### Mesures spéciales, mesures d’urgence et mesures de sauvegarde
 
@@ -2364,6 +2408,48 @@ Pérou
 
 
 
+
+#### Mesures d’urgence bilatérales : Jordanie
+
+
+
+**Décret de mesures temporaires**
+
+**71.6** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.018(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.094) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de la Jordanie, importées en quantité tellement accrue, en termes absolus, et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 52.4;
+	- **b)** s’agissant de marchandises sur lesquelles un droit de douane est imposé sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard le jour précédant la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles visées à l’alinéa b), les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard le jour précédant la date d’entrée en vigueur du présent paragraphe ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret :
+	- **a)** ne peut être pris plus de deux fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le jour de son dixième anniversaire et, le cas échéant, ne demeure en vigueur que pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut être pris, après le dixième anniversaire de la date d’entrée en vigueur du présent paragraphe, qu’aux termes d’un accord conclu entre le gouvernement du Canada et celui de la Jordanie portant sur l’application du paragraphe (1).
+
+**Application d’une mesure pour la deuxième fois**
+
+- **(3)** La mesure visée au paragraphe (1) ne peut être prise une deuxième fois que si la période qui s’est écoulée depuis l’expiration de sa première application est d’au moins deux ans.
+
+**Taux à la cessation d’effet**
+
+- **(4)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui applicable en conformité avec l’article 52.4.
+
+**Définition de cause principale**
+
+- **(5)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mention du taux applicable**
+
+- **(6)** Pour l’application de l’alinéa (1)b), le taux de droits de douane du tarif de la nation la plus favorisée en vigueur est :
+	- **a)** à l’égard des légumes frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires qui leur est applicable;
+	- **b)** à l’égard des fruits frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires qui leur est applicable.
+> 2012, ch. 18, art. 37.
+
+
+
+
 **72** [Abrogé, 2011, ch. 24, art. 128]
 
 
@@ -2579,7 +2665,7 @@ Pérou
 
 **Marchandises en transit**
 
-**79** Il peut être prévu, dans un décret pris en vertu de l’une des dispositions ci-après, que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date :
+**79** Il peut être prévu, dans tout décret pris en vertu de l’une des dispositions ci-après, que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date :
 - **a)** le paragraphe 53(2);
 - **b)** le paragraphe 55(1);
 - **c)** l’article 60;
@@ -2588,8 +2674,9 @@ Pérou
 - **f)** le paragraphe 70(2);
 - **g)** le paragraphe 71.01(1);
 - **h)** le paragraphe 71.1(2);
-- **i)** le paragraphe 71.5(1).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129.
+- **i)** le paragraphe 71.5(1);
+- **j)** le paragraphe 71.6(1).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44.
 
 
 
@@ -3586,7 +3673,7 @@ Pérou
 - **a)** pour l’application de l’article 101, préciser :
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
 	- **(ii)** les justificatifs nécessaires pour établir l’exportation des marchandises;
-- **b)** définir ***accessoire au commerce international des marchandises***, ***ancien résident***, ***bagage***, ***moyen de transport***, ***résident ***, ***résident temporaire*** et ***temporairement***, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
+- **b)** définir ***accessoire au commerce international des marchandises***, ***ancien résident***, ***bagage***, ***moyen de transport***, ***résident***, ***résident temporaire*** et ***temporairement***, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
 - **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
 - **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
 	- **(i)** fixer les conditions de l’importation des moyens de transport,
@@ -3621,6 +3708,8 @@ Islande
 
 Israël ou autre bénéficiaire de l’ALÉCI
 
+Jordanie
+
 Liechtenstein
 
 Norvège
@@ -3640,6 +3729,8 @@ Costa Rica
 
 Israël ou autre bénéficiaire de l’ALÉCI
 
+Jordanie
+
 pays ALÉNA
 
 Pérou
@@ -3650,7 +3741,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39.
 
 
 
