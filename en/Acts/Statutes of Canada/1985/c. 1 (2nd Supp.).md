@@ -57,6 +57,8 @@
 
 ***cigar***[Repealed, 2002, c. 22, s. 328]
 
+***CJFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md);
+
 ***Colombia*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***Commissioner***[Repealed, 2005, c. 38, s. 60]
@@ -101,16 +103,9 @@
 
 ***forfeit*** means forfeit to Her Majesty in right of Canada;
 
-***free trade agreement*** means NAFTA, CCFTA, CCRFTA, CEFTA, CIFTA, CPFTA or CCOFTA;
+***free trade agreement*** means an agreement set out in column 2 of Part 1 of the schedule;
 
-***free trade partner*** means 
-- **(a)** a NAFTA country,
-- **(b)** Chile,
-- **(c)** Costa Rica,
-- **(d)** Israel or another CIFTA beneficiary,
-- **(e)** an EFTA state,
-- **(f)** Peru, or
-- **(g)** Colombia;
+***free trade partner*** means a country or territory set out in column 1 of Part 1 of the schedule;
 
 ***goods***, for greater certainty, includes conveyances, animals and any document in any form;
 
@@ -127,6 +122,8 @@
 ***internal waters***[Repealed, 1996, c. 31, s. 73]
 
 ***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+
+***Jordan*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
@@ -150,22 +147,21 @@
 
 ***Peru*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment*** means, in respect of goods, entitlement to whichever tariff set out in column 3 of Part 1 of the schedule is applicable in the circumstances;
 
-***preferential tariff treatment under CCOFTA*** means, in respect of goods, entitlement to the Colombia Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CCFTA***[Repealed, 2012, c. 18, s. 24]
 
-***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CCOFTA***[Repealed, 2012, c. 18, s. 24]
 
-***preferential tariff treatment under CEFTA*** means, in respect of goods, entitlement to the rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) in respect of one of the following tariffs: 
-- **(a)** the Iceland Tariff,
-- **(b)** the Norway Tariff, or
-- **(c)** the Switzerland–Liechtenstein Tariff;
+***preferential tariff treatment under CCRFTA***[Repealed, 2012, c. 18, s. 24]
 
-***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CEFTA***[Repealed, 2012, c. 18, s. 24]
 
-***preferential tariff treatment under CPFTA*** means, in respect of goods, entitlement to the Peru Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CIFTA***[Repealed, 2012, c. 18, s. 24]
 
-***preferential tariff treatment under NAFTA*** means, in respect of goods, entitlement to the United States Tariff, the Mexico Tariff or the Mexico–United States Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CPFTA***[Repealed, 2012, c. 18, s. 24]
+
+***preferential tariff treatment under NAFTA***[Repealed, 2012, c. 18, s. 24]
 
 ***prescribed*** means 
 - **(a)** in respect of a form or the manner of filing a form, authorized by the Minister,
@@ -234,16 +230,7 @@
 
 ***wine***[Repealed, 2002, c. 22, s. 328]
 
-**Preferential tariff treatment**
-
-- **(1.2)** For the purposes of this Act, a reference to preferential tariff treatment under a free trade agreement shall be read as a reference to whichever of the following is applicable in the circumstances:
-	- **(a)** preferential tariff treatment under NAFTA;
-	- **(b)** preferential tariff treatment under CCFTA;
-	- **(b.1)** preferential tariff treatment under CCOFTA;
-	- **(c)** preferential tariff treatment under CCRFTA;
-	- **(d)** preferential tariff treatment under CIFTA;
-	- **(e)** preferential tariff treatment under CEFTA;or
-	- **(f)** preferential tariff treatment under CPFTA.
+- **(1.2)** [Repealed, 2012, c. 18, s. 24]
 
 **Electronic records**
 
@@ -268,7 +255,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24.
 
 
 
@@ -1500,7 +1487,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(5)** Preferential tariff treatment under a free trade agreement may be denied or withdrawn in respect of goods for which that treatment is claimed if the importer, owner or other person required to furnish proof of origin of the goods under this section fails to comply with any provision of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or any regulation made under either of those Acts, concerning that preferential tariff treatment.
 
 - **(6)** [Repealed, 1997, c. 14, s. 37]
-> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37.
+> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37; 2012, c. 18, s. 25(F).
 
 
 
@@ -1748,7 +1735,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Basis of statement**
 
 - **(2)** A statement referred to in subsection (1) must include any findings of fact or law on which it was based.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162; 2012, c. 18, s. 26(F).
 
 
 
@@ -1789,7 +1776,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 
 
-#### Denial or Withdrawal of Benefit of Preferential Tariff Treatment under NAFTA, CCFTA, CCRFTA, CPFTA or CCOFTA
+#### Denial or Withdrawal of Benefit of Preferential Tariff Treatment Under Certain Free Trade Agreements
 
 
 
@@ -1797,12 +1784,12 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **42.4** 
 
-- **(1)** In this section, ***identical goods*** has the meaning assigned to that expression by Article 514 of NAFTA, Article E-14 of CCFTA, Article V.14 of CCRFTA, Article 423 of CPFTA or Article 423 of CCOFTA, as the case may be.
+- **(1)** In this section, ***identical goods*** has the meaning assigned to that expression by the provision, set out in column 2 of Part 2 of the schedule, of an agreement set out in column 1.
 
-**Denial or withdrawal of benefit — NAFTA country, Chile, Costa Rica, Peru or Colombia**
+**Denial or withdrawal of benefit — specified countries**
 
-- **(2)** Notwithstanding section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Minister may, subject to the prescribed conditions, deny or withdraw preferential tariff treatment under NAFTA, CCFTA, CCRFTA, CPFTA or CCOFTA in respect of goods for which that treatment is claimed if the exporter or producer of the goods has made false representations that identical goods exported or produced by that exporter or producer and for which that treatment was claimed were eligible for that treatment.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26.
+- **(2)** Notwithstanding section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter or producer of the goods has made false representations that identical goods exported or produced by that exporter or producer and for which that treatment was claimed were eligible for that treatment.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26; 2012, c. 18, s. 27.
 
 
 
@@ -1845,7 +1832,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 - **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section shall, before goods are imported, on application by any member of a prescribed class that is made within the prescribed time, in the prescribed manner and in the prescribed form containing the prescribed information, give an advance ruling with respect to
 	- **(a)** whether the goods qualify as originating goods and are entitled to the benefit of preferential tariff treatment under a free trade agreement;
-	- **(b)** in the case of goods  exported  from  a NAFTA country, from Chile, from Costa Rica, from an EFTA state, from Peru or from Colombia, any matter, other than those referred to in paragraphs (a) and (c), concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA, in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA, in Article 28(2) of Annex C of CEFTA, in paragraph 1 of Article 419 of CPFTA or in paragraph 1 of Article 419 of CCOFTA, as the case may be; and
+	- **(b)** in the case of goods exported from a country or territory set out in column 1 of Part 3 of the schedule, any matter, other than those referred to in paragraphs (a) and (c), concerning those goods that is set out in the provision set out in column 2; and
 	- **(c)** the tariff classification of the goods.
 
 **Regulations**
@@ -1855,7 +1842,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71; 2009, c. 6, s. 26, c. 16, ss. 33, 56; 2010, c. 4, s. 27.
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71; 2009, c. 6, s. 26, c. 16, ss. 33, 56; 2010, c. 4, s. 27; 2012, c. 18, s. 28.
 
 
 
@@ -2729,7 +2716,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 	- **(b)** the quantity released is less than the quantity in respect of which duties were paid;
 	- **(c)** they are of a quality inferior to that in respect of which duties were paid;
 	- **(c.1)** the goods were exported from a NAFTA country or from Chile but no claim for preferential tariff treatment under NAFTA or no claim for preferential tariff treatment under CCFTA, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
-	- **(c.11)** the goods were imported from Costa Rica, from an EFTA state, from Israel or another CIFTA beneficiary, from Peru or from Colombia but no claim for preferential tariff treatment under CCRFTA, CEFTA, CIFTA, CPFTA or CCOFTA, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
+	- **(c.11)** the goods were imported from Israel or another CIFTA beneficiary or from a country or territory set out in column 1 of Part 4 of the schedule but no claim for preferential tariff treatment under CIFTA or an agreement set out in column 2, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
 	- **(c.2)** [Repealed, 1997, c. 14, s. 43]
 	- **(d)** the calculation of duties owing was based on a clerical, typographical or similar error;
 	- **(e)** the duties were paid or overpaid as a result of an error in the determination under subsection 58(2) of origin (other than in the circumstances described in paragraph (c.1) or (c.11)), tariff classification or value for duty in respect of the goods and the determination has not been the subject of a decision under any of sections 59 to 61;
@@ -2781,7 +2768,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Application of refund**
 
 - **(8)** A person of a prescribed class may apply, within four years after goods are accounted for under subsection 32(1), (3) or (5), in prescribed circumstances and under prescribed conditions, the amount of any refund to which they are entitled under this section to the payment of any amount for which they are liable or may become liable under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337; 2009, c. 6, s. 27, c. 16, ss. 34, 56; 2010, c. 4, s. 28.
+> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337; 2009, c. 6, s. 27, c. 16, ss. 34, 56; 2010, c. 4, s. 28; 2012, c. 18, s. 29.
 
 
 
@@ -5825,36 +5812,18 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 	- **(i)** prescribing anything that is by any provision of this Act to be prescribed by the Governor in Council; and
 	- **(j)** generally, to carry out the purposes and provisions of this Act.
 
-**Idem**
+**Regulations**
 
-- **(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapters Three and Five of NAFTA and any other matters, as may be agreed on from time to time by the NAFTA countries.
+- **(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of a chapter or provision, set out in column 2 of Part 5 of the schedule, of an agreement set out in column 1 and any other matters that may be agreed on from time to time by the parties to that agreement.
 
-**Uniform Regulations**
-
-- **(1.2)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapters C and E of CCFTA and any other matters that may be agreed on from time to time by the parties to CCFTA.
-
-**Regulations — CCOFTA**
-
-- **(1.21)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapter Four of CCOFTA and any other matters that may be agreed on from time to time by the parties to CCOFTA.
-
-**Uniform Regulations**
-
-- **(1.3)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapters III and V of CCRFTA and any other matters that may be agreed on from time to time by the parties to CCRFTA.
-
-**Regulations: CEFTA**
-
-- **(1.4)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapter II and Annex C of CEFTA and any other matters that may be agreed on from time to time by the parties to CEFTA.
-
-**Regulations — CPFTA**
-
-- **(1.5)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapter Four of CPFTA and any other matters that may be agreed on from time to time by the parties to CPFTA.
+- **(1.2) to (1.5)** [Repealed, 2012, c. 18, s. 30]
 
 **Regulations prescribing rate of interest**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29; 2012, c. 18, s. 30.
 
 
 
@@ -5999,8 +5968,210 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 
 
-### **SCHEDULES I TO IV** 
-[Amendments]
+### **SCHEDULE** 
+**(Subsection 2(1), section 42.4, paragraphs 43.1(1)(b) and 74(1)(c.11) and subsection 164(1.1))**
+#### PART 1
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+<tr>
+<th>Country or Territory</th>
+<th>Agreement</th>
+<th>Tariff</th>
+</tr>
+<tr>
+<td>Chile</td>
+<td>CCFTA</td>
+<td>Chile Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>Colombia</td>
+<td>CCOFTA</td>
+<td>Colombia Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>Costa Rica</td>
+<td>CCRFTA</td>
+<td>Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>EFTA State</td>
+<td>CEFTA</td>
+<td>Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>Israel or another CIFTA beneficiary</td>
+<td>CIFTA</td>
+<td>Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>Jordan</td>
+<td>CJFTA</td>
+<td>Jordan Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>NAFTA country</td>
+<td>NAFTA</td>
+<td>United States Tariff, Mexico Tariff or Mexico–United States Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
+<td>Peru</td>
+<td>CPFTA</td>
+<td>Peru Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+</table>
 
+#### PART 2
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Agreement</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>CCFTA</td>
+<td>Article E-14</td>
+</tr>
+<tr>
+<td>CCOFTA</td>
+<td>Article 423</td>
+</tr>
+<tr>
+<td>CCRFTA</td>
+<td>Article V.14</td>
+</tr>
+<tr>
+<td>CJFTA</td>
+<td>Article 5-11</td>
+</tr>
+<tr>
+<td>CPFTA</td>
+<td>Article 423</td>
+</tr>
+<tr>
+<td>NAFTA</td>
+<td>Article 514</td>
+</tr>
+</table>
+
+#### PART 3
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Country or Territory</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>Chile</td>
+<td>paragraph 1 of Article E-09 of CCFTA</td>
+</tr>
+<tr>
+<td>Colombia</td>
+<td>paragraph 1 of Article 419 of CCOFTA</td>
+</tr>
+<tr>
+<td>Costa Rica</td>
+<td>paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA</td>
+</tr>
+<tr>
+<td>EFTA State</td>
+<td>Article 28(2) of Annex C of CEFTA</td>
+</tr>
+<tr>
+<td>Jordan</td>
+<td>paragraph 10 of Article 6-2 of CJFTA</td>
+</tr>
+<tr>
+<td>NAFTA country</td>
+<td>paragraph 1 of Article 509 of NAFTA</td>
+</tr>
+<tr>
+<td>Peru</td>
+<td>paragraph 1 of Article 419 of CPFTA</td>
+</tr>
+</table>
+
+#### PART 4
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Country or Territory</th>
+<th>Agreement</th>
+</tr>
+<tr>
+<td>Colombia</td>
+<td>CCOFTA</td>
+</tr>
+<tr>
+<td>Costa Rica</td>
+<td>CCRFTA</td>
+</tr>
+<tr>
+<td>EFTA State</td>
+<td>CEFTA</td>
+</tr>
+<tr>
+<td>Jordan</td>
+<td>CJFTA</td>
+</tr>
+<tr>
+<td>Peru</td>
+<td>CPFTA</td>
+</tr>
+</table>
+
+#### PART 5
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Agreement</th>
+<th>Chapter or Provision</th>
+</tr>
+<tr>
+<td>CCFTA</td>
+<td>Chapters C and E</td>
+</tr>
+<tr>
+<td>CCOFTA</td>
+<td>Chapter Four</td>
+</tr>
+<tr>
+<td>CCRFTA</td>
+<td>Chapters III and V</td>
+</tr>
+<tr>
+<td>CEFTA</td>
+<td>Chapter II and Annex C</td>
+</tr>
+<tr>
+<td>CJFTA</td>
+<td>Chapter Five</td>
+</tr>
+<tr>
+<td>CPFTA</td>
+<td>Chapter Four</td>
+</tr>
+<tr>
+<td>NAFTA</td>
+<td>Chapters Three and Five</td>
+</tr>
+</table>
+
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31.
 
 
