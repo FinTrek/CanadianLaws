@@ -8432,13 +8432,25 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **120** Chlorinated alkanes that have the molecular formula C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> in which 10 ≤ n ≤ 20
 
 
+**121** Benzene, 1,2-dimethoxy-4-(2-propenyl)-, which has the molecular formula C<sub>11</sub>H<sub>14</sub>O<sub>2</sub>
+
+
+**122** Vanadium pentoxide, which has the molecular formula V<sub>2</sub>O<sub>5</sub>
+
+
+**123** Oxirane, 2,2′,2′′,2′′′-[1,2-ethanediylidenetetrakis(4,1-phenyleneoxymethylene)]tetrakis-, which has the molecular formula C<sub>38</sub>H<sub>38</sub>O<sub>8</sub>
+
+
+**124** Bromic acid, potassium salt, which has the molecular formula KBrO<sub>3</sub>
+
+
 **125** Polychlorinated naphthalenes, which have the molecular formula C<sub>10</sub>H<sub>8–n</sub>Cl<sub>n</sub> in which “n” is greater than 1
 
 
 **126** Hydrazine, which has the molecular formula N<sub>2</sub>H<sub>4</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219.
 
 
 
