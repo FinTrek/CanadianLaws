@@ -50069,11 +50069,13 @@ par
 - Abilene Christian University, Abilene, Texas
 - Academy of the New Church, The, Bryn Athyn, Pennsylvanie
 - Adams State College, Alamosa, Colorado
+- Adler School of Professional Psychology, Chicago, Illinois
 - Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, Californie
 - American Graduate School of International Management, Glendale, Arizona
 - American International College, Springfield, Massachussetts
+- American Jewish University, Bel Air, Californie
 - American University, The, Washington, District de Columbia
 - American University in Cairo, The, New York, New York
 - Amherst College, Amherst, Massachusetts
@@ -50098,6 +50100,7 @@ par
 - Beloit College, Beloit, Wisconsin
 - Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
+- Berklee College of Music, Boston, Massachusetts
 - Beth Medrash Govoha, Lakewood, New Jersey
 - Bethel College, Mishawaka, Indiana
 - Bethel College, North Newton, Kansas
@@ -50126,11 +50129,13 @@ par
 - Case Western Reserve University, Cleveland, Ohio
 - Catholic University of America, The, Washington, District de Columbia
 - Cedarville College, Cedarville, Ohio
+- Centenary College, Hackettstown, New Jersey
 - Central Michigan University, Mount Pleasant, Michigan
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
 - Christendom College, Front Royal, Virginie
 - City University, Bellevue, Washington
 - City University of New York, The, John Jay College of Criminal Justice, New York, New York
+- City University of Seattle, Bellevue, Washington
 - Claremont McKenna College, Claremont, Californie
 - Clark University, Worcester, Massachusetts
 - Clarkson University, Potsdam, New York
@@ -50223,8 +50228,10 @@ par
 - Johns Hopkins University, The, Baltimore, Maryland
 - Juilliard School, The, New York, New York
 - Kansas State University, Manhattan, Kansas
+- Kent State University, Kent, Ohio
 - Kenyon College, Gambier, Ohio
 - Kettering University, Flint, Michigan
+- Kuyper College, Grand Rapids, Michigan
 - Lafayette College, Easton, Pennsylvanie
 - Lake Superior State University, Sault Ste-Marie, Michigan
 - Lawrence Technological University, Southfield, Michigan
@@ -50242,6 +50249,7 @@ par
 - Macalester College, St. Paul, Minnesota
 - Magdalen College, Warner, New Hampshire
 - Maharishi University of Management, Fairfield, Iowa
+- Manchester College, North Manchester, Indiana
 - Manhattanville College, Purchase, New York
 - Mankato State University, Mankato, Minnesota
 - Maranatha Baptist Bible College, Watertown, Wisconsin
@@ -50299,6 +50307,7 @@ par
 - Ohio College of Podiatric Medicine, Cleveland, Ohio
 - Ohio State University, The, Columbus, Ohio
 - Ohio University, Athens, Ohio
+- Ohr Somayach/Joseph Tanenbaum Educational Center, Monsey, New York
 - Old Dominion University, Norfolk, Virginie
 - Oral Roberts University, Tulsa, Oklahoma
 - Oregon State University, Corvallis, Oregon
@@ -50308,11 +50317,16 @@ par
 - Pacific Union College, Angwin, Californie
 - Pacific University, Forest Grove, Oregon
 - Palm Beach Atlantic College, West Palm Beach, Floride
+- Palm Beach Atlantic University, West Palm Beach, Floride
 - Palmer College of Chiropractic, Davenport, Iowa
+- Palmer College of Chiropractic-West, San Jose, Californie
 - Palmer College of Chiropractic-West, Sunnyvale, Californie
 - Park College, Kansas City, Missouri
+- Park University, Parkville, Missouri
 - Pennsylvania College of Podiatric Medicine, Philadelphie, Pennsylvanie
 - Pennsylvania State University, The, University Park, Pennsylvanie
+- Pepperdine University, Malibu, Californie
+- Philadelphia Biblical University, Langhorne, Pennsylvanie
 - Philadelphia College of Bible, Langhorne, Pennsylvanie
 - Philadelphia University, Philadelphie, Pennsylvanie
 - Pine Manor College, Chestnut Hill, Massachusetts
@@ -50322,6 +50336,7 @@ par
 - Principia College, The, Elsah, Illinois
 - Providence College, Providence, Rhode Island
 - Purdue University, Lafayette, Indiana
+- Rabbinical College Bobover Yeshiva Bnei Zion, Brooklyn, New York
 - Rabbinical College of America, Morristown, New Jersey
 - Rabbinical College of Long Island, Long Beach, New York
 - Rabbinical Seminary of America, Forest Hills, New York
@@ -50334,17 +50349,19 @@ par
 - Roberts Wesleyan College, North Chili, New York
 - Rochester Institute of Technology, Rochester, New York
 - Rockefeller University, New York, New York
+- Rollins College, Winter Park, Floride
 - Rush University, Chicago, Illinois
 - Rutgers — The State University, New Brunswick, New Jersey
 - St. Bonaventure University, St. Bonaventure, New York
-- Saint John’s University, Collegeville, Minnesota
 - St. John’s College, Annapolis, Maryland
 - St. John’s College, Santa Fe, New Mexico
+- Saint John’s University, Collegeville, Minnesota
 - St. John’s University, Jamaica, New York
 - St. Lawrence University, Canton, New York
 - Saint Louis University, Saint Louis, Missouri
-- Saint Olaf College, Northfield, Minnesota
+- Saint Mary’s University of Minnesota, Winona, Minnesota
 - St. Mary’s University of San Antonio, San Antonio, Texas
+- Saint Olaf College, Northfield, Minnesota
 - St. Vladimir’s Orthodox Theological Seminary, Crestwood, New York
 - San Francisco State College, San Francisco, Californie
 - San José State University, San José, Californie
@@ -50361,16 +50378,19 @@ par
 - Skidmore College, Saratoga Springs, New York
 - Smith College, The, Northampton, Massachusetts
 - South Dakota School of Mines and Technology, Rapid City, Dakota du Sud
+- Southeastern University, Lakeland, Floride
 - Southern Adventist University, Collegedale, Tennessee
 - Southern Illinois University of Carbondale, Carbondale, Illinois
 - Southern Methodist University, Dallas, Texas
 - Southwestern Adventist College, Keene, Texas
+- Southwestern Adventist University, Keene, Texas
 - Spring Arbor College, Spring Arbor, Michigan
 - Springfield College, Springfield, Massachusetts
 - State University College at Oswego, Oswego, New York
 - State University College at Potsdam, Potsdam, New York
 - State University of New York at Binghamton, Binghamton, New York
 - State University of New York at Buffalo, Buffalo, New York
+- State University of New York at Geneseo, Geneseo, New York
 - State University of New York at Stony Brook, Stony Brook, New York
 - State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
 - Stephens College, Columbia, Missouri
@@ -50391,6 +50411,7 @@ par
 - Texas Woman’s University, Denton, Texas
 - The Herman M. Finch University of Health Sciences/The Chicago Medical School, North Chicago, Illinois
 - Thomas Aquinas College, Santa Paula, Californie
+- Thunderbird School of Global Management, Glendale, Arizona
 - Touro College, New York, New York
 - Trinity Bible College, Ellendale, Dakota du Nord
 - Trinity Christian College, Palos Heights, Illinois
@@ -50406,6 +50427,7 @@ par
 - Union Institute & University, Cincinnati, Ohio
 - Union Theological Seminary, New York, New York
 - Union University, Jackson, Tennessee
+- University at Albany, State University of New York, Albany, New York
 - University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
 - University of Arizona, The, Tucson, Arizona
@@ -50426,6 +50448,7 @@ par
 - University of Delaware, Newark, Delaware
 - University of Denver, Denver, Colorado
 - University of Detroit Mercy, Detroit, Michigan
+- University of Findlay, The, Findlay, Ohio
 - University of Florida, Gainesville, Floride
 - University of Georgia, The, Athens, Georgie
 - University of Hawaii, Honolulu, Hawaii
@@ -50473,6 +50496,7 @@ par
 - University of Vermont, Burlington, Vermont
 - University of Virginia, Charlottesville, Virginie
 - University of Washington, Seattle, Washington
+- University of Western States, Portland, Oregon
 - University of Wisconsin, Madison, Wisconsin
 - University of Wyoming, The, Laramie, Wyoming
 - Utah State University of Agriculture and Applied Science, Logan, Utah
@@ -50507,6 +50531,7 @@ par
 - William Tyndale College, Farmington Hills, Michigan
 - Williams College, Williamstown, Massachusetts
 - Wittenberg University, Springfield, Ohio
+- Woods Hole Oceanographic Institution, Woods Hole, Massachusetts
 - Wright State University, Dayton, Ohio
 - Yale University, New Haven, Connecticut
 - Yeshiva Ohr Elchonon Chabad/West Coast Talmudic Seminary, Los Angeles, Californie
@@ -50554,6 +50579,7 @@ par
 - University of Strathclyde, Glasgow, Écosse
 - University of Surrey, Guildford, Surrey, Angleterre
 - University of Sussex, Brighton, Angleterre
+- University of Ulster, Newtonabbey, Irlande du Nord
 - University of Wales, Cardiff, Pays de Galles
 
 
@@ -50628,6 +50654,7 @@ par
 
 **14** Les universités situées en République populaire de Chine qui sont prescrites par l’article 3503 sont les suivantes :
 - Nanjing University, Nanjing
+- Peking University, Beijing
 
 
 **15** Les universités situées en Jamaïque qui sont prescrites par l’article 3503 sont les suivantes :
@@ -50636,10 +50663,14 @@ par
 
 **16** Pour l’application de l’article 3503, l’université située en Italie est la suivante :
 - John Cabot University, Rome
+- Pontifical University of the Holy Cross, Rome
 
 
 **17** Les universités suivantes, situées en Australie, sont désignées pour l’application de l’article 3503 :
 - Adelaide University, Adélaïde
+- Australian National University, Canberra
+- Avondale College, Cooranbong
+- Monash University, Victoria
 - Queensland University of Technology, Brisbane
 - University of Melbourne, The, Parkville
 - University of Queensland, The, Brisbane
@@ -50653,6 +50684,7 @@ par
 
 **19** Les universités suivantes, situées en Afrique du Sud, sont désignées pour l’application de l’article 3503 :
 - University of Cape Town, Rondebosch
+- University of KwaZulu-Natal, Durban
 - University of Natal, Durban
 - University of the Witwatersrand, The, Johannesburg
 
@@ -50687,7 +50719,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1, 2, 5 à 7 et 9.
 
 
 
