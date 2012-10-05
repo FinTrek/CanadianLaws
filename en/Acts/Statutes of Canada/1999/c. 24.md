@@ -1349,8 +1349,103 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <td>Skawahlook</td>
 <td>August 5, 2010</td>
 </tr>
+<tr>
+<td>59</td>
+<td>Cowichan Tribes</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td>Haisla</td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td>St. Mary’s</td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td>Shuswap</td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td>Stz’uminus</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td>Williams Lake</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td>Skowkale</td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td>Yakweakwioose</td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td>Aitchelitz</td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td>Alexis Nakota Sioux</td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td>Tsuu T’ina</td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td>One Arrow</td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td>Long Plain</td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td>Buffalo Point</td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td>Bingwi Neyaashi Anishinaabek</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td>Beausoleil</td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td>Montagnais du Lac St-Jean</td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td>Miawpukek</td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td>Membertou</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217.
 
 
