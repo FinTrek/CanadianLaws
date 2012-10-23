@@ -270,8 +270,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Toutefois, l’article 9 s’applique à tout renseignement contenu dans ce fichier qui a trait soit à une infraction désignée, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
-> 2000, ch. 10, art. 9; 2005, ch. 25, art. 19.
+- **(2)** Toutefois, l’article 9 s’applique à tout renseignement contenu dans ce fichier qui a trait soit à une infraction grave avec violence, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
+> 2000, ch. 10, art. 9; 2005, ch. 25, art. 19; 2012, ch. 1, art. 202.
 
 
 
@@ -325,8 +325,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Toutefois, les paragraphes 10(6) et (7) s’appliquent à la destruction des substances corporelles qui ont trait soit à une infraction désignée, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
-> 2000, ch. 10, art. 11; 2005, ch. 25, art. 21.
+- **(2)** Toutefois, les paragraphes 10(6) et (7) s’appliquent à la destruction des substances corporelles qui ont trait soit à une infraction grave avec violence, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
+> 2000, ch. 10, art. 11; 2005, ch. 25, art. 21; 2012, ch. 1, art. 203.
 
 
 
