@@ -64,7 +64,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***conference*** means a group of persons who are convened to give advice in accordance with section 19.
 
-***confirmed delivery service***means certified or registered mail or any other method of service that provides proof of delivery.
+***confirmed delivery service*** means certified or registered mail or any other method of service that provides proof of delivery.
 
 ***custodial portion***, with respect to a youth sentence imposed on a young person under paragraph 42(2)(n), (o), (q) or (r), means the period of time, or the portion of the young person’s youth sentence, that must be served in custody before he or she begins to serve the remainder under supervision in the community subject to conditions under paragraph 42(2)(n) or under conditional supervision under paragraph 42(2)(o), (q) or (r).
 
@@ -80,13 +80,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***pre-sentence report*** means a report on the personal and family history and present environment of a young person made in accordance with section 40.
 
-***presumptive offence*** means
-- **(a)** an offence committed, or alleged to have been committed, by a young person who has attained the age of fourteen years, or, in a province where the lieutenant governor in council has fixed an age greater than fourteen years under section 61, the age so fixed, under one of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md):
-	- **(i)** section 231 or 235 (first degree murder or second degree murder within the meaning of section 231),
-	- **(ii)** section 239 (attempt to commit murder),
-	- **(iii)** section 232, 234 or 236 (manslaughter), or
-	- **(iv)** section 273 (aggravated sexual assault); or
-- **(b)** a serious violent offence for which an adult is liable to imprisonment for a term of more than two years committed, or alleged to have been committed, by a young person after the coming into force of section 62 (adult sentence) and after the young person has attained the age of fourteen years, or, in a province where the lieutenant governor in council has fixed an age greater than fourteen years under section 61, the age so fixed, if at the time of the commission or alleged commission of the offence at least two judicial determinations have been made under subsection 42(9), at different proceedings, that the young person has committed a serious violent offence.
+***presumptive offence***[Repealed, 2012, c. 1, s. 167]
 
  ou ***provincial director*** means a person, a group or class of persons or a body appointed or designated by or under an Act of the legislature of a province or by the lieutenant governor in council of a province or his or her delegate to perform in that province, either generally or in a specific case, any of the duties or functions of a provincial director under this Act.
 
@@ -96,7 +90,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***review board*** means a review board referred to in subsection 87(2).
 
-***serious violent offence*** means an offence in the commission of which a young person causes or attempts to cause serious bodily harm.
+***serious offence*** means an indictable offence under an Act of Parliament for which the maximum punishment is imprisonment for five years or more.
+
+***serious violent offence*** means an offence under one of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md):
+- **(a)** section 231 or 235 (first degree murder or second degree murder);
+- **(b)** section 239 (attempt to commit murder);
+- **(c)** section 232, 234 or 236 (manslaughter); or
+- **(d)** section 273 (aggravated sexual assault).
+
+***violent offence*** means
+- **(a)** an offence committed by a young person that includes as an element the causing of bodily harm;
+- **(b)** an attempt or a threat to commit an offence referred to in paragraph (a); or
+- **(c)** an offence in the commission of which a young person endangers the life or safety of another person by creating a substantial likelihood of causing bodily harm.
 
 ***young person*** means a person who is or, in the absence of evidence to the contrary, appears to be twelve years old or older, but less than eighteen years old and, if the context requires, includes any person who is charged under this Act with having committed an offence while he or she was a young person or who is found guilty of an offence under this Act.
 
@@ -117,7 +122,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Descriptive cross-references**
 
 - **(3)** If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.
-> 2002, c. 1, s. 2, c. 7, s. 274.
+> 2002, c. 1, s. 2, c. 7, s. 274; 2012, c. 1, s. 167.
 
 
 
@@ -132,12 +137,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **3** 
 
 - **(1)** The following principles apply in this Act:
-	- **(a)** the youth criminal justice system is intended to
-		- **(i)** prevent crime by addressing the circumstances underlying a young person’s offending behaviour,
-		- **(ii)** rehabilitate young persons who commit offences and reintegrate them into society, and
-		- **(iii)** ensure that a young person is subject to meaningful consequences for his or her offence
-in order to promote the long-term protection of the public;
-	- **(b)** the criminal justice system for young persons must be separate from that of adults and emphasize the following:
+	- **(a)** the youth criminal justice system is intended to protect the public by
+		- **(i)** holding young persons accountable through measures that are proportionate to the seriousness of the offence and the degree of responsibility of the young person,
+		- **(ii)** promoting the rehabilitation and reintegration of young persons who have committed offences, and
+		- **(iii)** supporting the prevention of crime by referring young persons to programs or agencies in the community to address the circumstances underlying their offending behaviour;
+	- **(b)** the criminal justice system for young persons must be separate from that of adults, must be based on the principle of diminished moral blameworthiness or culpability and must emphasize the following:
 		- **(i)** rehabilitation and reintegration,
 		- **(ii)** fair and proportionate accountability that is consistent with the greater dependency of young persons and their reduced level of maturity,
 		- **(iii)** enhanced procedural protection to ensure that young persons are treated fairly and that their rights, including their right to privacy, are protected,
@@ -157,6 +161,8 @@ in order to promote the long-term protection of the public;
 **Act to be liberally construed**
 
 - **(2)** This Act shall be liberally construed so as to ensure that young persons are dealt with in accordance with the principles set out in subsection (1).
+> 2002, c. 1, s. 3; 2012, c. 1, s. 168.
+
 
 
 
@@ -714,9 +720,30 @@ the justice or youth justice court before which the hearing, trial or review is 
 
 - **(1)** A youth justice court judge or a justice shall not detain a young person in custody prior to being sentenced as a substitute for appropriate child protection, mental health or other social measures.
 
-**Detention presumed unnecessary**
+**Justification for detention in custody**
 
-- **(2)** In considering whether the detention of a young person is necessary for the protection or safety of the public under paragraph 515(10)(b) (substantial likelihood — commit an offence or interfere with the administration of justice) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a youth justice court or a justice shall presume that detention is not necessary under that paragraph if the young person could not, on being found guilty, be committed to custody on the grounds set out in paragraphs 39(1)(a) to (c) (restrictions on committal to custody).
+- **(2)** A youth justice court judge or a justice may order that a young person be detained in custody only if
+	- **(a)** the young person has been charged with
+		- **(i)** a serious offence, or
+		- **(ii)** an offence other than a serious offence, if they have a history that indicates a pattern of either outstanding charges or findings of guilt;
+	- **(b)** the judge or justice is satisfied, on a balance of probabilities,
+		- **(i)** that there is a substantial likelihood that, before being dealt with according to law, the young person will not appear in court when required by law to do so,
+		- **(ii)** that detention is necessary for the protection or safety of the public, including any victim of or witness to the offence, having regard to all the circumstances, including a substantial likelihood that the young person will, if released from custody, commit a serious offence, or
+		- **(iii)** in the case where the young person has been charged with a serious offence and detention is not justified under subparagraph (i) or (ii), that there are exceptional circumstances that warrant detention and that detention is necessary to maintain confidence in the administration of justice, having regard to the principles set out in section 3 and to all the circumstances, including
+			- **(A)** the apparent strength of the prosecution’s case,
+			- **(B)** the gravity of the offence,
+			- **(C)** the circumstances surrounding the commission of the offence, including whether a firearm was used, and
+			- **(D)** the fact that the young person is liable, on being found guilty, for a potentially lengthy custodial sentence; and
+	- **(c)** the judge or justice is satisfied, on a balance of probabilities, that no condition or combination of conditions of release would, depending on the justification on which the judge or justice relies under paragraph (b),
+		- **(i)** reduce, to a level below substantial, the likelihood that the young person would not appear in court when required by law to do so,
+		- **(ii)** offer adequate protection to the public from the risk that the young person might otherwise present, or
+		- **(iii)** maintain confidence in the administration of justice.
+
+**Onus**
+
+- **(3)** The onus of satisfying the youth justice court judge or the justice as to the matters referred to in subsection (2) is on the Attorney General.
+> 2002, c. 1, s. 29; 2012, c. 1, s. 169.
+
 
 
 
@@ -812,11 +839,9 @@ the justice or youth justice court before which the hearing, trial or review is 
 
 - **(1)** A young person against whom an information or indictment is laid must first appear before a youth justice court judge or a justice, and the judge or justice shall
 	- **(a)** cause the information or indictment to be read to the young person;
-	- **(b)** if the young person is not represented by counsel, inform the young person of the right to retain and instruct counsel;
-	- **(c)** if notified under subsection 64(2) (intention to seek adult sentence) or if section 16 (status of accused uncertain) applies, inform the young person that the youth justice court might, if the young person is found guilty, order that an adult sentence be imposed; and
-	- **(d)** if the young person is charged with having committed an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1), inform the young person in the following words of the consequences of being charged with such an offence:An adult sentence will be imposed if you are found guilty unless the court orders that you are not liable to an adult sentence and that a youth sentence must be imposed.
-
-
+	- **(b)** if the young person is not represented by counsel, inform the young person of the right to retain and instruct counsel; and
+	- **(c)** if notified under subsection 64(2) (intention to seek adult sentence) or if section 16 (status of accused uncertain) applies, inform the young person that the youth justice court might, if the young person is found guilty, order that an adult sentence be imposed.
+	- **(d)** [Repealed, 2012, c. 1, s. 170]
 
 **Waiver**
 
@@ -836,7 +861,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 **If youth justice court not satisfied**
 
 - **(5)** If the youth justice court is not satisfied that a young person understands the matters set out in subsection (3), the court shall direct that the young person be represented by counsel.
-> 2002, c. 1, s. 32, c. 13, s. 91.
+> 2002, c. 1, s. 32, c. 13, s. 91; 2012, c. 1, s. 170.
 
 
 
@@ -1022,9 +1047,9 @@ the justice or youth justice court before which the hearing, trial or review is 
 
 - **(3)** Section 10 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies if a person is convicted of contempt of court under subsection 27(4) (failure of parent to attend court).
 
-**Appeals to be heard together**
+**Appeals heard together**
 
-- **(4)** A judicial determination under subsection 42(9) (judicial determination of serious violent offence), or an order under subsection 72(1) (court order — adult or youth sentence), 75(3) (ban on publication) or 76(1) (placement when subject to adult sentence), may be appealed as part of the sentence and, unless the court to which the appeal is taken otherwise orders, if more than one of these is appealed they must be part of the same appeal proceeding.
+- **(4)** An order under subsection 72(1) or (1.1) (adult or youth sentence), 75(2) (lifting of ban on publication) or 76(1) (placement when subject to adult sentence) may be appealed as part of the sentence and, unless the court to which the appeal is taken otherwise orders, if more than one of these is appealed they must be part of the same appeal proceeding.
 
 **Appeals for summary conviction offences**
 
@@ -1053,6 +1078,8 @@ the justice or youth justice court before which the hearing, trial or review is 
 **No appeal from youth sentence on review**
 
 - **(11)** No appeal lies from a youth sentence under section 59 or any of sections 94 to 96.
+> 2002, c. 1, s. 37; 2012, c. 1, s. 171.
+
 
 
 
@@ -1078,11 +1105,14 @@ the justice or youth justice court before which the hearing, trial or review is 
 	- **(a)** the sentence must not result in a punishment that is greater than the punishment that would be appropriate for an adult who has been convicted of the same offence committed in similar circumstances;
 	- **(b)** the sentence must be similar to the sentences imposed in the region on similar young persons found guilty of the same offence committed in similar circumstances;
 	- **(c)** the sentence must be proportionate to the seriousness of the offence and the degree of responsibility of the young person for that offence;
-	- **(d)** all available sanctions other than custody that are reasonable in the circumstances should be considered for all young persons, with particular attention to the circumstances of aboriginal young persons; and
+	- **(d)** all available sanctions other than custody that are reasonable in the circumstances should be considered for all young persons, with particular attention to the circumstances of aboriginal young persons;
 	- **(e)** subject to paragraph (c), the sentence must
 		- **(i)** be the least restrictive sentence that is capable of achieving the purpose set out in subsection (1),
 		- **(ii)** be the one that is most likely to rehabilitate the young person and reintegrate him or her into society, and
-		- **(iii)** promote a sense of responsibility in the young person, and an acknowledgement of the harm done to victims and the community.
+		- **(iii)** promote a sense of responsibility in the young person, and an acknowledgement of the harm done to victims and the community; and
+	- **(f)** subject to paragraph (c), the sentence may have the following objectives:
+		- **(i)** to denounce unlawful conduct, and
+		- **(ii)** to deter the young person from committing offences.
 
 **Factors to be considered**
 
@@ -1093,6 +1123,8 @@ the justice or youth justice court before which the hearing, trial or review is 
 	- **(d)** the time spent in detention by the young person as a result of the offence;
 	- **(e)** the previous findings of guilt of the young person; and
 	- **(f)** any other aggravating and mitigating circumstances related to the young person or the offence that are relevant to the purpose and principles set out in this section.
+> 2002, c. 1, s. 38; 2012, c. 1, s. 172.
+
 
 
 
@@ -1104,7 +1136,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 - **(1)** A youth justice court shall not commit a young person to custody under section 42 (youth sentences) unless
 	- **(a)** the young person has committed a violent offence;
 	- **(b)** the young person has failed to comply with non-custodial sentences;
-	- **(c)** the young person has committed an indictable offence for which an adult would be liable to imprisonment for a term of more than two years and has a history that indicates a pattern of findings of guilt under this Act or the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985; or
+	- **(c)** the young person has committed an indictable offence for which an adult would be liable to imprisonment for a term of more than two years and has a history that indicates a pattern of either extrajudicial sanctions or of findings of guilt or of both under this Act or the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985; or
 	- **(d)** in exceptional cases where the young person has committed an indictable offence, the aggravating circumstances of the offence are such that the imposition of a non-custodial sentence would be inconsistent with the purpose and principles set out in section 38.
 
 **Alternatives to custody**
@@ -1141,6 +1173,8 @@ the justice or youth justice court before which the hearing, trial or review is 
 **Reasons**
 
 - **(9)** If a youth justice court imposes a youth sentence that includes a custodial portion, the court shall state the reasons why it has determined that a non-custodial sentence is not adequate to achieve the purpose set out in subsection 38(1), including, if applicable, the reasons why the case is an exceptional case under paragraph (1)(d).
+> 2002, c. 1, s. 39; 2012, c. 1, s. 173.
+
 
 
 
@@ -1256,7 +1290,7 @@ require the provincial director to cause to be prepared a pre-sentence report in
 	- **(l)** subject to subsection (3) (agreement of provincial director), order the young person into an intensive support and supervision program approved by the provincial director;
 	- **(m)** subject to subsection (3) (agreement of provincial director) and section 54, order the young person to attend a non-residential program approved by the provincial director, at the times and on the terms that the court may fix, for a maximum of two hundred and forty hours, over a period not exceeding six months;
 	- **(n)** make a custody and supervision order with respect to the young person, ordering that a period be served in custody and that a second period — which is one half as long as the first — be served, subject to sections 97 (conditions to be included) and 98 (continuation of custody), under supervision in the community subject to conditions, the total of the periods not to exceed two years from the date of the coming into force of the order or, if the young person is found guilty of an offence for which the punishment provided by the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or any other Act of Parliament is imprisonment for life, three years from the date of coming into force of the order;
-	- **(o)** in the case of an offence set out in subparagraph (a)(ii), (iii) or (iv) of the definition “presumptive offence” in subsection 2(1), make a custody and supervision order in respect of the young person for a specified period not exceeding three years from the date of committal that orders the young person to be committed into a continuous period of custody for the first portion of the sentence and, subject to subsection 104(1) (continuation of custody), to serve the remainder of the sentence under conditional supervision in the community in accordance with section 105;
+	- **(o)** in the case of an offence set out in section 239 (attempt to commit murder), 232, 234 or 236 (manslaughter) or 273 (aggravated sexual assault) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), make a custody and supervision order in respect of the young person for a specified period not exceeding three years from the date of committal that orders the young person to be committed into a continuous period of custody for the first portion of the sentence and, subject to subsection 104(1) (continuation of custody), to serve the remainder of the sentence under conditional supervision in the community in accordance with section 105;
 	- **(p)** subject to subsection (5), make a deferred custody and supervision order that is for a specified period not exceeding six months, subject to the conditions set out in subsection 105(2), and to any conditions set out in subsection 105(3) that the court considers appropriate;
 	- **(q)** order the young person to serve a sentence not to exceed
 		- **(i)** in the case of first degree murder, ten years comprised of
@@ -1296,7 +1330,7 @@ The periods in custody and under supervision in the community may be changed if 
 **Deferred custody and supervision order**
 
 - **(5)** The court may make a deferred custody and supervision order under paragraph (2)(p) if
-	- **(a)** the young person is found guilty of an offence that is not a serious violent offence; and
+	- **(a)** the young person is found guilty of an offence other than one in the commission of which a young person causes or attempts to cause serious bodily harm; and
 	- **(b)** it is consistent with the purpose and principles set out in section 38 and the restrictions on custody set out in section 39.
 
 **Application of sections 106 to 109**
@@ -1307,8 +1341,8 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(7)** A youth justice court may make an intensive rehabilitative custody and supervision order under paragraph (2)(r) in respect of a young person only if
 	- **(a)** either
-		- **(i)** the young person has been found guilty of an offence under one of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), namely, section 231 or 235 (first degree murder or second degree murder within the meaning of section 231), section 239 (attempt to commit murder), section 232, 234 or 236 (manslaughter) or section 273 (aggravated sexual assault), or
-		- **(ii)** the young person has been found guilty of a serious violent offence for which an adult is liable to imprisonment for a term of more than two years, and the young person had previously been found guilty at least twice of a serious violent offence;
+		- **(i)** the young person has been found guilty of a serious violent offence, or
+		- **(ii)** the young person has been found guilty of an offence, in the commission of which the young person caused or attempted to cause serious bodily harm and for which an adult is liable to imprisonment for a term of more than two years, and the young person had previously been found guilty at least twice of such an offence;
 	- **(b)** the young person is suffering from a mental illness or disorder, a psychological disorder or an emotional disturbance;
 	- **(c)** a plan of treatment and intensive supervision has been developed for the young person, and there are reasonable grounds to believe that the plan might reduce the risk of the young person repeating the offence or committing a serious violent offence; and
 	- **(d)** the provincial director has determined that an intensive rehabilitative custody and supervision program is available and that the young person’s participation in the program is appropriate.
@@ -1317,13 +1351,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(8)** Nothing in this section abrogates or derogates from the rights of a young person regarding consent to physical or mental health treatment or care.
 
-**Determination by court**
-
-- **(9)** On application of the Attorney General after a young person is found guilty of an offence, and after giving both parties an opportunity to be heard, the youth justice court may make a judicial determination that the offence is a serious violent offence and endorse the information or indictment accordingly.
-
-**Appeals**
-
-- **(10)** For the purposes of an appeal in accordance with section 37, a determination under subsection (9) is part of the sentence.
+- **(9) and (10)** [Repealed, 2012, c. 1, s. 174]
 
 **Inconsistency**
 
@@ -1359,6 +1387,8 @@ The periods in custody and under supervision in the community may be changed if 
 **Sentence continues when adult**
 
 - **(17)** Subject to sections 89, 92 and 93 (provisions related to placement in adult facilities) of this Act and section 743.5 (transfer of jurisdiction) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a youth sentence imposed on a young person continues in effect in accordance with its terms after the young person becomes an adult.
+> 2002, c. 1, s. 42; 2012, c. 1, s. 174.
+
 
 
 
@@ -1754,32 +1784,15 @@ The periods in custody and under supervision in the community may be changed if 
 ### Adult Sentence and Election
 
 
-
-**Age for purpose of presumptive offences**
-
-**61** The lieutenant governor in council of a province may by order fix an age greater than fourteen years but not more than sixteen years for the purpose of the application of the provisions of this Act relating to presumptive offences.
+**61** [Repealed, 2012, c. 1, s. 175]
 
 
 
-
-**Imposition of adult sentence**
-
-**62** An adult sentence shall be imposed on a young person who is found guilty of an indictable offence for which an adult is liable to imprisonment for a term of more than two years in the following cases:
-- **(a)** in the case of a presumptive offence, if the youth justice court makes an order under subsection 70(2) or paragraph 72(1)(b); or
-- **(b)** in any other case, if the youth justice court makes an order under subsection 64(5) or paragraph 72(1)(b) in relation to an offence committed after the young person attained the age of fourteen years.
+**62** [Repealed, 2012, c. 1, s. 175]
 
 
 
-
-**Application by young person**
-
-**63** 
-
-- **(1)** A young person who is charged with, or found guilty of, a presumptive offence may, at any time before evidence is called as to sentence or, where no evidence is called, before submissions are made as to sentence, make an application for an order that he or she is not liable to an adult sentence and that a youth sentence must be imposed.
-
-**Application unopposed**
-
-- **(2)** If the Attorney General gives notice to the youth justice court that the Attorney General does not oppose the application, the youth justice court shall, without a hearing, order that the young person, if found guilty, is not liable to an adult sentence and that a youth sentence must be imposed.
+**63** [Repealed, 2012, c. 1, s. 175]
 
 
 
@@ -1788,37 +1801,35 @@ The periods in custody and under supervision in the community may be changed if 
 
 **64** 
 
-- **(1)** The Attorney General may, following an application under subsection 42(9) (judicial determination of serious violent offence), if any is made, and before evidence is called as to sentence or, where no evidence is called, before submissions are made as to sentence, make an application for an order that a young person is liable to an adult sentence if the young person is or has been found guilty of an offence, other than a presumptive offence, for which an adult is liable to imprisonment for a term of more than two years, that was committed after the young person attained the age of fourteen years.
+- **(1)** The Attorney General may, before evidence is called as to sentence or, if no evidence is called, before submissions are made as to sentence, make an application to the youth justice court for an order that a young person is liable to an adult sentence if the young person is or has been found guilty of an offence for which an adult is liable to imprisonment for a term of more than two years and that was committed after the young person attained the age of 14 years.
+
+**Obligation**
+
+- **(1.1)** The Attorney General must consider whether it would be appropriate to make an application under subsection (1) if the offence is a serious violent offence and was committed after the young person attained the age of 14 years. If, in those circumstances, the Attorney General decides not to make an application, the Attorney General shall advise the youth justice court before the young person enters a plea or with leave of the court before the commencement of the trial.
+
+**Order fixing age**
+
+- **(1.2)** The lieutenant governor in council of a province may by order fix an age greater than 14 years but not greater than 16 years for the purpose of subsection (1.1).
 
 **Notice of intention to seek adult sentence**
 
-- **(2)** If the Attorney General intends to seek an adult sentence for an offence by making an application under subsection (1), or by establishing that the offence is a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1), the Attorney General shall, before the young person enters a plea or with leave of the youth justice court before the commencement of the trial, give notice to the young person and the youth justice court of the intention to seek an adult sentence.
+- **(2)** If the Attorney General intends to seek an adult sentence for an offence by making an application under subsection (1), the Attorney General shall, before the young person enters a plea or with leave of the youth justice court before the commencement of the trial, give notice to the young person and the youth justice court of the intention to seek an adult sentence.
 
 **Included offences**
 
 - **(3)** A notice of intention to seek an adult sentence given in respect of an offence is notice in respect of any included offence of which the young person is found guilty for which an adult is liable to imprisonment for a term of more than two years.
 
-**Notice to young person**
-
-- **(4)** If a young person is charged with an offence, other than an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1), and the Attorney General intends to establish, after a finding of guilt, that the offence is a serious violent offence and a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1) for which the young person is liable to an adult sentence, the Attorney General shall, before the young person enters a plea or, with leave of the youth justice court under subsection (2), before the commencement of the trial, give notice of that intention to the young person.
-
-**Application unopposed**
-
-- **(5)** If the young person gives notice to the youth justice court that the young person does not oppose the application for an adult sentence, the youth justice court shall, without a hearing, order that if the young person is found guilty of an offence for which an adult is liable to imprisonment for a term of more than two years, an adult sentence must be imposed.
+- **(4) and (5)** [Repealed, 2012, c. 1, s. 176]
+> 2002, c. 1, s. 64; 2012, c. 1, s. 176.
 
 
 
 
-**Presumption does not apply**
-
-**65** If the Attorney General at any stage of proceedings gives notice to the youth justice court that an adult sentence will not be sought in respect of a young person who is alleged to have committed an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1), the court shall order that the young person is not liable to an adult sentence, and the court shall order a ban on publication of information that would identify the young person as having been dealt with under this Act.
+**65** [Repealed, 2012, c. 1, s. 177]
 
 
 
-
-**No election if youth sentence**
-
-**66** If the youth justice court has made an order under subsection 63(2) or section 65 before a young person is required to be put to an election under section 67, the young person shall not be put to an election unless the young person is alleged to have committed first degree murder or second degree murder within the meaning of section 231 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+**66** [Repealed, 2012, c. 1, s. 177]
 
 
 
@@ -1827,8 +1838,8 @@ The periods in custody and under supervision in the community may be changed if 
 
 **67** 
 
-- **(1)** Subject to section 66, the youth justice court shall, before a young person enters a plea, put the young person to his or her election in the words set out in subsection (2) if
-	- **(a)** the young person is charged with having committed an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1);
+- **(1)** The youth justice court shall, before a young person enters a plea, put the young person to his or her election in the words set out in subsection (2) if
+	- **(a)** [Repealed, 2012, c. 1, s. 178]
 	- **(b)** the Attorney General has given notice under subsection 64(2) of the intention to seek an adult sentence for an offence committed after the young person has attained the age of fourteen years;
 	- **(c)** the young person is charged with having committed first or second degree murder within the meaning of section 231 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) before the young person has attained the age of fourteen years; or
 	- **(d)** the person to whom section 16 (status of accused uncertain) applies is charged with having, after attaining the age of fourteen years, committed an offence for which an adult would be entitled to an election under section 536 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or over which a superior court of criminal jurisdiction would have exclusive jurisdiction under section 469 of that Act.
@@ -1841,8 +1852,8 @@ The periods in custody and under supervision in the community may be changed if 
 
 **Election — Nunavut**
 
-- **(3)** Subject to section 66, in respect of proceedings in Nunavut, the youth justice court shall, before a young person enters a plea, put the young person to his or her election in the words set out in subsection (4) if
-	- **(a)** the young person is charged with having committed an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1);
+- **(3)** In respect of proceedings in Nunavut, the youth justice court shall, before a young person enters a plea, put the young person to his or her election in the words set out in subsection (4) if
+	- **(a)** [Repealed, 2012, c. 1, s. 178]
 	- **(b)** the Attorney General has given notice under subsection 64(2) of the intention to seek an adult sentence for an offence committed after the young person has attained the age of fourteen years;
 	- **(c)** the young person is charged with having committed first or second degree murder within the meaning of section 231 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) before the young person has attained the age of fourteen years; or
 	- **(d)** the person to whom section 16 (status of accused uncertain) applies is charged with having, after attaining the age of fourteen years, committed an offence for which an adult would be entitled to an election under section 536.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
@@ -1886,98 +1897,70 @@ The periods in custody and under supervision in the community may be changed if 
 - **(9)** Proceedings under this Act before a judge without a jury or a court composed of a judge and jury or, in Nunavut, a judge of the Nunavut Court of Justice acting as a youth justice court, with or without a jury, as the case may be, shall be conducted in accordance with the provisions of Parts XIX (indictable offences — trial without jury) and XX (procedure in jury trials and general provisions) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any modifications that the circumstances require, except that
 	- **(a)** the provisions of this Act respecting the protection of privacy of young persons prevail over the provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
 	- **(b)** the young person is entitled to be represented in court by counsel if the young person is removed from court in accordance with subsection 650(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2002, c. 1, s. 67, c. 13, s. 91.
+> 2002, c. 1, s. 67, c. 13, s. 91; 2012, c. 1, s. 178.
 
 
 
 
-
-**Proof of notice under subsection 64(4)**
-
-**68** 
-
-- **(1)** When a young person is found guilty of an offence, other than an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1), committed after he or she attained the age of fourteen years, and the Attorney General seeks to establish that the offence is a serious violent offence and a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1), the Attorney General must satisfy the youth justice court that the young person, before entering a plea, was given notice under subsection 64(4) (intention to prove prior serious violent offences).
-
-**Determination of serious violent offence**
-
-- **(2)** If the youth justice court is satisfied that the young person was given notice under subsection 64(4) (intention to prove prior serious violent offences), the Attorney General may make an application in accordance with subsection 42(9) (judicial determination of serious violent offence).
-
-**Inquiry by court and proof**
-
-- **(3)** If the youth justice court determines that the offence is a serious violent offence, it shall ask whether the young person admits to the previous judicial determinations of serious violent offences made at different proceedings. If the young person does not admit to any of it, the Attorney General may adduce evidence as proof of the previous judicial determinations in accordance with section 667 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any modifications that the circumstances require. For the purposes of that section, a certified copy of the information or indictment endorsed in accordance with subsection 42(9) (judicial determination of serious violent offence) or a certified copy of a court decision is deemed to be a certificate.
-
-**Determination by court**
-
-- **(4)** If the youth justice court, after making its inquiry under subsection (3), is satisfied that the offence is a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1), the youth justice court shall endorse the information or indictment accordingly.
-
-**Determination by court**
-
-- **(5)** If the youth justice court, after making its inquiry under subsection (3), is not satisfied that the offence is a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1), the Attorney General may make an application under subsection 64(1) (application for adult sentence).
+**68** [Repealed, 2012, c. 1, s. 179]
 
 
-
-
-**Paragraph (a) presumptive offence — included offences**
 
 **69** 
 
-- **(1)** If a young person who is charged with an offence set out in paragraph (a) of the definition ***presumptive offence*** in subsection 2(1) is found guilty of committing an included offence for which an adult is liable to imprisonment for a term of more than two years, other than another presumptive offence set out in that paragraph,
-	- **(a)** the Attorney General may make an application under subsection 64(1) (application for adult sentence) without the necessity of giving notice under subsection 64(2), if the finding of guilt is for an offence that is not a presumptive offence; or
-	- **(b)** subsections 68(2) to (5) apply without the necessity of the Attorney General giving notice under subsection 64(2) (intention to seek adult sentence) or (4) (intention to prove prior serious violent offences), if the finding of guilt is for an offence that would be a presumptive offence within the meaning of paragraph (b) of the definition ***presumptive offence*** in subsection 2(1) if a judicial determination is made that the offence is a serious violent offence and on proof of previous judicial determinations of a serious violent offence.
+- **(1)** [Repealed, 2012, c. 1, s. 180]
 
-**Other serious offences — included offences**
+**Included offences**
 
-- **(2)** If the Attorney General has given notice under subsection 64(2) of the intention to seek an adult sentence and the young person, after he or she has attained the age of fourteen years, is found guilty of committing an included offence for which an adult is liable to imprisonment for a term of more than two years, the Attorney General may make an application under subsection 64(1) (application for adult sentence) or seek to apply the provisions of section 68.
-
+- **(2)** If the Attorney General has given notice under subsection 64(2) of the intention to seek an adult sentence and the young person is found guilty of an included offence for which an adult is liable to imprisonment for a term of more than two years, committed after he or she has attained the age of 14 years, the Attorney General may make an application under subsection 64(1) (application for adult sentence).
+> 2002, c. 1, s. 69; 2012, c. 1, s. 180.
 
 
 
-**Inquiry by court to young person**
 
-**70** 
-
-- **(1)** The youth justice court, after hearing an application under subsection 42(9) (judicial determination of serious violent offence), if any is made, and before evidence is called or, where no evidence is called, before submissions are made as to sentence, shall inquire whether a young person wishes to make an application under subsection 63(1) (application for youth sentence) and if so, whether the Attorney General would oppose it, if
-	- **(a)** the young person has been found guilty of a presumptive offence;
-	- **(b)** the young person has not already made an application under subsection 63(1); and
-	- **(c)** no order has been made under section 65 (young person not liable to adult sentence).
-
-**No application by young person**
-
-- **(2)** If the young person indicates that he or she does not wish to make an application under subsection 63(1) (application for youth sentence) or fails to give an indication, the court shall order that an adult sentence be imposed.
+**70** [Repealed, 2012, c. 1, s. 181]
 
 
 
 
 **Hearing — adult sentences**
 
-**71** The youth justice court shall, at the commencement of the sentencing hearing, hold a hearing in respect of an application under subsection 63(1) (application for youth sentence) or 64(1) (application for adult sentence), unless the court has received notice that the application is not opposed. Both parties and the parents of the young person shall be given an opportunity to be heard at the hearing.
+**71** The youth justice court shall, at the commencement of the sentencing hearing, hold a hearing in respect of an application under subsection 64(1) (application for adult sentence), unless the court has received notice that the application is not opposed. Both parties and the parents of the young person shall be given an opportunity to be heard at the hearing.
+> 2002, c. 1, s. 71; 2012, c. 1, s. 182.
 
 
 
 
-**Test — adult sentences**
+
+**Order of adult sentence**
 
 **72** 
 
-- **(1)** In making its decision on an application heard in accordance with section 71, the youth justice court shall consider the seriousness and circumstances of the offence, and the age, maturity, character, background and previous record of the young person and any other factors that the court considers relevant, and
-	- **(a)** if it is of the opinion that a youth sentence imposed in accordance with the purpose and principles set out in subparagraph 3(1)(b)(ii) and section 38 would have sufficient length to hold the young person accountable for his or her offending behaviour, it shall order that the young person is not liable to an adult sentence and that a youth sentence must be imposed; and
-	- **(b)** if it is of the opinion that a youth sentence imposed in accordance with the purpose and principles set out in subparagraph 3(1)(b)(ii) and section 38 would not have sufficient length to hold the young person accountable for his or her offending behaviour, it shall order that an adult sentence be imposed.
+- **(1)** The youth justice court shall order that an adult sentence be imposed if it is satisfied that
+	- **(a)** the presumption of diminished moral blameworthiness or culpability of the young person is rebutted; and
+	- **(b)** a youth sentence imposed in accordance with the purpose and principles set out in subparagraph 3(1)(b)(ii) and section 38 would not be of sufficient length to hold the young person accountable for his or her offending behaviour.
+
+**Order of youth sentence**
+
+- **(1.1)** If the youth justice court is not satisfied that an order should be made under subsection (1), it shall order that the young person is not liable to an adult sentence and that a youth sentence must be imposed.
 
 **Onus**
 
-- **(2)** The onus of satisfying the youth justice court as to the matters referred to in subsection (1) is with the applicant.
+- **(2)** The onus of satisfying the youth justice court as to the matters referred to in subsection (1) is on the Attorney General.
 
-**Pre-sentence reports**
+**Pre-sentence report**
 
-- **(3)** In making its decision, the youth justice court shall consider a pre-sentence report.
+- **(3)** In making an order under subsection (1) or (1.1), the youth justice court shall consider the pre-sentence report.
 
 **Court to state reasons**
 
 - **(4)** When the youth justice court makes an order under this section, it shall state the reasons for its decision.
 
-**Appeals**
+**Appeal**
 
-- **(5)** For the purposes of an appeal in accordance with section 37, an order under subsection (1) is part of the sentence.
+- **(5)** For the purposes of an appeal in accordance with section 37, an order under subsection (1) or (1.1) is part of the sentence.
+> 2002, c. 1, s. 72; 2012, c. 1, s. 183.
+
 
 
 
@@ -1986,11 +1969,13 @@ The periods in custody and under supervision in the community may be changed if 
 
 **73** 
 
-- **(1)** When the youth justice court makes an order under subsection 64(5) or 70(2) or paragraph 72(1)(b) in respect of a young person, the court shall, on a finding of guilt, impose an adult sentence on the young person.
+- **(1)** When the youth justice court makes an order under subsection 72(1) in respect of a young person, the court shall, on a finding of guilt, impose an adult sentence on the young person.
 
 **Court must impose youth sentence**
 
-- **(2)** When the youth justice court makes an order under subsection 63(2), section 65 or paragraph 72(1)(a) in respect of a young person, the court shall, on a finding of guilt, impose a youth sentence on the young person.
+- **(2)** When the youth justice court makes an order under subsection 72(1.1) in respect of a young person, the court shall, on a finding of guilt, impose a youth sentence on the young person.
+> 2002, c. 1, s. 73; 2012, c. 1, s. 184.
+
 
 
 
@@ -2012,23 +1997,25 @@ The periods in custody and under supervision in the community may be changed if 
 
 
 
-**Inquiry by the court to the young person**
+**Decision regarding lifting of publication ban**
 
 **75** 
 
-- **(1)** If the youth justice court imposes a youth sentence in respect of a young person who has been found guilty of having committed a presumptive offence set out in paragraph (a) of the definition ***presumptive offence*** in subsection 2(1), or an offence under paragraph (b) of that definition for which the Attorney General has given notice under subsection 64(2) (intention to seek adult sentence), the court shall at the sentencing hearing inquire whether the young person or the Attorney General wishes to make an application under subsection (3) for a ban on publication.
+- **(1)** When the youth justice court imposes a youth sentence on a young person who has been found guilty of a violent offence, the court shall decide whether it is appropriate to make an order lifting the ban on publication of information that would identify the young person as having been dealt with under this Act as referred to in subsection 110(1).
 
-**No application for a ban**
+**Order**
 
-- **(2)** If the young person and the Attorney General both indicate that they do not wish to make an application under subsection (3), the court shall endorse the information or indictment accordingly.
+- **(2)** A youth justice court may order a lifting of the ban on publication if the court determines, taking into account the purpose and principles set out in sections 3 and 38, that the young person poses a significant risk of committing another violent offence and the lifting of the ban is necessary to protect the public against that risk.
 
-**Order for a ban**
+**Onus**
 
-- **(3)** On application of the young person or the Attorney General, a youth justice court may order a ban on publication of information that would identify the young person as having been dealt with under this Act if the court considers it appropriate in the circumstances, taking into account the importance of rehabilitating the young person and the public interest.
+- **(3)** The onus of satisfying the youth justice court as to the appropriateness of lifting the ban is on the Attorney General.
 
 **Appeals**
 
-- **(4)** For the purposes of an appeal in accordance with section 37, an order under subsection (3) is part of the sentence.
+- **(4)** For the purposes of an appeal in accordance with section 37, an order under subsection (2) is part of the sentence.
+> 2002, c. 1, s. 75; 2012, c. 1, s. 185.
+
 
 
 
@@ -2042,11 +2029,9 @@ The periods in custody and under supervision in the community may be changed if 
 	- **(b)** a provincial correctional facility for adults; or
 	- **(c)** if the sentence is for two years or more, a penitentiary.
 
-**When young person subject to adult penalties**
+**Young person under age of 18**
 
-- **(2)** The youth justice court that sentences a young person under subsection (1) shall, unless it is satisfied that to do so would not be in the best interests of the young person or would jeopardize the safety of others,
-	- **(a)** if the young person is under the age of eighteen years at the time that he or she is sentenced, order that he or she be placed in a youth custody facility; and
-	- **(b)** if the young person is eighteen years old or older at the time that he or she is sentenced, order that he or she not be placed in a youth custody facility and order that any portion of the sentence be served in a provincial correctional facility for adults or, if the sentence is two years or more, in a penitentiary.
+- **(2)** No young person who is under the age of 18 years is to serve any portion of the imprisonment in a provincial correctional facility for adults or a penitentiary.
 
 **Opportunity to be heard**
 
@@ -2078,6 +2063,8 @@ The periods in custody and under supervision in the community may be changed if 
 **Limit — age twenty**
 
 - **(9)** No young person shall remain in a youth custody facility under this section after the young person attains the age of twenty years, unless the youth justice court that makes the order under subsection (1) or reviews the placement under subsection (6) is satisfied that remaining in the youth custody facility would be in the best interests of the young person and would not jeopardize the safety of others.
+> 2002, c. 1, s. 76; 2012, c. 1, s. 186.
+
 
 
 
@@ -2130,7 +2117,9 @@ The periods in custody and under supervision in the community may be changed if 
 
 **Procedure for application or notice**
 
-**81** An application or a notice to the court under section 63, 64, 65 or 76 must be made or given orally, in the presence of the other party, or in writing with a copy served personally on the other party.
+**81** An application or a notice to the court under section 64 or 76 must be made or given orally, in the presence of the other party, or in writing with a copy served personally on the other party.
+> 2002, c. 1, s. 81; 2012, c. 1, s. 187.
+
 
 
 
@@ -2145,7 +2134,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(1)** Subject to section 12 (examination as to previous convictions) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md), if a young person is found guilty of an offence, and a youth justice court directs under paragraph 42(2)(b) that the young person be discharged absolutely, or the youth sentence, or any disposition made under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, has ceased to have effect, other than an order under section 51 (mandatory prohibition order) of this Act or section 20.1 (mandatory prohibition order) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), the young person is deemed not to have been found guilty or convicted of the offence except that
 	- **(a)** the young person may plead *autrefois convict* in respect of any subsequent charge relating to the offence;
-	- **(b)** a youth justice court may consider the finding of guilt in considering an application under subsection 63(1) (application for youth sentence) or 64(1) (application for adult sentence);
+	- **(b)** a youth justice court may consider the finding of guilt in considering an application under subsection 64(1) (application for adult sentence);
 	- **(c)** any court or justice may consider the finding of guilt in considering an application for judicial interim release or in considering what sentence to impose for any offence; and
 	- **(d)** the National Parole Board or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md).
 
@@ -2164,9 +2153,9 @@ The periods in custody and under supervision in the community may be changed if 
 **Finding of guilt not a previous conviction**
 
 - **(4)** A finding of guilt under this Act is not a previous conviction for the purposes of any offence under any Act of Parliament for which a greater punishment is prescribed by reason of previous convictions, except for
-	- **(a)** the purpose of establishing that an offence is a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1); or
+	- **(a)** [Repealed, 2012, c. 1, s. 188]
 	- **(b)** the purpose of determining the adult sentence to be imposed.
-> 2002, c. 1, s. 82; 2012, c. 1, s. 156.
+> 2002, c. 1, s. 82; 2012, c. 1, ss. 156, 188.
 
 
 
@@ -2923,14 +2912,14 @@ For greater certainty, an order under this subsection may be made without a hear
 
 - **(2)** Subsection (1) does not apply
 	- **(a)** in a case where the information relates to a young person who has received an adult sentence;
-	- **(b)** subject to sections 65 (young person not liable to adult sentence) and 75 (youth sentence imposed despite presumptive offence), in a case where the information relates to a young person who has received a youth sentence for an offence set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1), or an offence set out in paragraph (b) of that definition for which the Attorney General has given notice under subsection 64(2) (intention to seek adult sentence); and
+	- **(b)** in a case where the information relates to a young person who has received a youth sentence for a violent offence and the youth justice court has ordered a lifting of the publication ban under subsection 75(2); and
 	- **(c)** in a case where the publication of information is made in the course of the administration of justice, if it is not the purpose of the publication to make the information known in the community.
 
 **Exception**
 
 - **(3)** A young person referred to in subsection (1) may, after he or she attains the age of eighteen years, publish or cause to be published information that would identify him or her as having been dealt with under this Act or the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, provided that he or she is not in custody pursuant to either Act at the time of the publication.
 
-***Ex parte* application for leave to publish**
+**Ex parte application for leave to publish**
 
 - **(4)** A youth justice court judge shall, on the *ex parte* application of a peace officer, make an order permitting any person to publish information that identifies a young person as having committed or allegedly committed an indictable offence, if the judge is satisfied that
 	- **(a)** there is reason to believe that the young person is a danger to others; and
@@ -2943,6 +2932,8 @@ For greater certainty, an order under this subsection may be made without a hear
 **Application for leave to publish**
 
 - **(6)** The youth justice court may, on the application of a young person referred to in subsection (1), make an order permitting the young person to publish information that would identify him or her as having been dealt with under this Act or the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, if the court is satisfied that the publication would not be contrary to the young person’s best interests or the public interest.
+> 2002, c. 1, s. 110; 2012, c. 1, s. 189.
+
 
 
 
@@ -3007,6 +2998,10 @@ For greater certainty, an order under this subsection may be made without a hear
 
 - **(1)** A record relating to any offence alleged to have been committed by a young person, including the original or a copy of any fingerprints or photographs of the young person, may be kept by any police force responsible for or participating in the investigation of the offence.
 
+**Extrajudicial measures**
+
+- **(1.1)** The police force shall keep a record of any extrajudicial measures that they use to deal with young persons.
+
 **Police records**
 
 - **(2)** When a young person is charged with having committed an offence in respect of which an adult may be subjected to any measurement, process or operation referred to in the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), the police force responsible for the investigation of the offence may provide a record relating to the offence to the Royal Canadian Mounted Police. If the young person is found guilty of the offence, the police force shall provide the record.
@@ -3014,6 +3009,8 @@ For greater certainty, an order under this subsection may be made without a hear
 **Records held by R.C.M.P.**
 
 - **(3)** The Royal Canadian Mounted Police shall keep the records provided under subsection (2) in the central repository that the Commissioner of the Royal Canadian Mounted Police may, from time to time, designate for the purpose of keeping criminal history files or records of offenders or keeping records for the identification of offenders.
+> 2002, c. 1, s. 115; 2012, c. 1, s. 190.
+
 
 
 
@@ -3152,7 +3149,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(10)** Despite anything in this Act, when a young person is found guilty of an offence that results in a prohibition order being made, and the order is still in force at the end of the applicable period for which access to a record kept in respect of the order may be given under subsection (2),
 	- **(a)** the record kept by the Royal Canadian Mounted Police pursuant to subsection 115(3) may be disclosed only to establish the existence of the order for purposes of law enforcement; and
 	- **(b)** the record referred to in section 114 that is kept by the youth justice court may be disclosed only to establish the existence of the order in any offence involving a breach of the order.
-> 2002, c. 1, s. 119; 2012, c. 1, s. 157.
+> 2002, c. 1, s. 119; 2012, c. 1, ss. 157, 191(F).
 
 
 
@@ -3178,8 +3175,8 @@ For greater certainty, an order under this subsection may be made without a hear
 **Period of access**
 
 - **(3)** For the purposes of subsections (1) and (2), the period of access to a record kept under subsection 115(3) in respect of an offence is the following:
-	- **(a)** if the offence is an indictable offence, other than a presumptive offence, the period starting at the end of the applicable period set out in paragraphs 119(2)(h) to (j) and ending five years later; and
-	- **(b)** if the offence is an offence set out in paragraph (a) of the definition ***presumptive offence*** in subsection 2(1) or an offence set out in paragraph (b) of that definition for which the Attorney General has given notice under subsection 64(2) (intention to seek adult sentence), the period starting at the end of the applicable period set out in paragraphs 119(2)(h) to (j) and continuing indefinitely.
+	- **(a)** if the offence is an indictable offence, other than an offence referred to in paragraph (b), the period starting at the end of the applicable period set out in paragraphs 119(2)(h) to (j) and ending five years later; and
+	- **(b)** if the offence is a serious violent offence for which the Attorney General has given notice under subsection 64(2) (intention to seek adult sentence), the period starting at the end of the applicable period set out in paragraphs 119(2)(h) to (j) and continuing indefinitely.
 
 **Subsequent offences as young person**
 
@@ -3200,7 +3197,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(6)** If, during the period of access to a record under subsection (3), the young person is convicted of an additional offence set out in the schedule, committed when he or she was an adult,
 	- **(a)** this Part no longer applies to the record and the record shall be dealt with as a record of an adult and may be included on the automated criminal conviction records retrieval system maintained by the Royal Canadian Mounted Police; and
 	- **(b)** for the purposes of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), the finding of guilt in respect of the offence for which the record is kept is deemed to be a conviction.
-> 2002, c. 1, s. 120; 2012, c. 1, s. 158.
+> 2002, c. 1, s. 120; 2012, c. 1, ss. 158, 192.
 
 
 
@@ -3951,13 +3948,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 
 
 
-
-**Offences committed before this section in force**
-
-**160** Any person who, before the coming into force of this section, while he or she was a young person, committed an offence in respect of which no proceedings were commenced before the coming into force of this section shall be dealt with under this Act as if the offence occurred after the coming into force of this section, except that
-- **(a)** paragraph 62(a) applies only if the offence is one set out in paragraph (a) of the definition “presumptive offence” in subsection 2(1) and the young person was at least sixteen years old at the time of its commission;
-- **(b)** paragraph 110(2)(b) does not apply in respect of the offence; and
-- **(c)** paragraph 42(2)(r) applies in respect of the offence only if the young person consents to its application.
+**160** [Repealed, 2012, c. 1, s. 193]
 
 
 
@@ -3982,9 +3973,11 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 
 
 
-**Proceedings commence with information**
+**Commencement of proceedings**
 
-**162** For the purposes of sections 158 to 160, proceedings are commenced by the laying of an information or indictment.
+**162** For the purposes of sections 158 and 159, proceedings are commenced by the laying of an information or indictment.
+> 2002, c. 1, s. 162; 2012, c. 1, s. 194.
+
 
 
 
