@@ -88,7 +88,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***provincial parole board*** has the same meaning as in Part II;
 
- ou ***sentence*** means a sentence of imprisonment and includes a sentence imposed by a foreign entity on a Canadian offender who has been transferred to Canada under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md) and a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
+ ou ***sentence*** means a sentence of imprisonment and includes 
+- **(a)** a sentence imposed by a foreign entity on a Canadian offender who has been transferred to Canada under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md), and
+- **(b)** a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) consisting of a custodial portion and a portion to be served under supervision in the community subject to conditions under paragraph 42(2)(n) of that Act or under conditional supervision under paragraph 42(2)(o), (q) or (r) of that Act;
 
 ***Service*** means the Correctional Service of Canada described in section 5;
 
@@ -113,7 +115,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, s. 52
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 196
 
 
 
@@ -1891,15 +1893,16 @@ but does not include a person whose only sentence is a sentence being served int
 **References to expiration of sentence**
 
 - **(2)** For the purposes of this Part, a reference to the expiration according to law of the sentence of an offender shall be read as a reference to the day on which the sentence expires, without taking into account
-	- **(a)** any period during which the offender could be entitled to statutory release; or
-	- **(b)** any remission that stands to the credit of the offender on the coming into force of this section.
+	- **(a)** any period during which the offender could be entitled to statutory release;
+	- **(b)** in the case of a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), the portion to be served under supervision in the community subject to conditions under paragraph 42(2)(n) of that Act or under conditional supervision under paragraph 42(2)(o), (q) or (r) of that Act; or
+	- **(c)** any remission that stands to the credit of the offender on November 1, 1992.
 
 **Exercise of powers, etc.**
 
 - **(3)** Except as otherwise provided by this Part or by the regulations,
 	- **(a)** powers, duties and functions assigned to the Commissioner by or pursuant to this Part may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions assigned to the institutional head by or pursuant to this Part may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, s. 70
+> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, ss. 70, 197
 
 
 
