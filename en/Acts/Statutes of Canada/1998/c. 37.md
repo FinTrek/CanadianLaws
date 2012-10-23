@@ -275,9 +275,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(2)** Section 9 nevertheless applies to information in the convicted offenders index in relation to
-	- **(a)** a presumptive offence within the meaning of subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
+	- **(a)** a serious violent offence as defined in subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
 	- **(b)** a record to which subsection 120(6) of that Act applies.
-> 2000, c. 10, s. 9; 2005, c. 25, s. 19.
+> 2000, c. 10, s. 9; 2005, c. 25, s. 19; 2012, c. 1, s. 202.
 
 
 
@@ -332,9 +332,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(2)** Subsections 10(6) and (7) nevertheless apply to the destruction of stored bodily substances of a young person that relate to
-	- **(a)** a presumptive offence within the meaning of subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
+	- **(a)** a serious violent offence as defined in subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
 	- **(b)** a record to which subsection 120(6) of that Act applies.
-> 2000, c. 10, s. 11; 2005, c. 25, s. 21.
+> 2000, c. 10, s. 11; 2005, c. 25, s. 21; 2012, c. 1, s. 203.
 
 
 
