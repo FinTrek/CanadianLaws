@@ -71,7 +71,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les montants d’argent, excédant les plafonds réglementaires, lorsqu’ils sont possédés sans autorisation;
 - **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier.
 
- ou ***peine*** ou ***peine d’emprisonnement*** S’entend notamment d’une peine spécifique imposée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et d’une peine d’emprisonnement imposée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
+ ou ***peine*** ou ***peine d’emprisonnement*** S’entend notamment :  
+- **a) ** d’une peine d’emprisonnement infligée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md);
+- **b) ** d’une peine spécifique infligée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), laquelle comprend la partie purgée sous garde et celle purgée sous surveillance au sein de la collectivité en application de l’alinéa 42(2)n) de cette loi ou en liberté sous condition en application des alinéas 42(2)o), q) ou r) de cette loi.
 
 ***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
 
@@ -96,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52 et 196
 
 
 
@@ -1735,12 +1737,15 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Mention de l’expiration légale de la peine**
 
-- **(2)** Pour l’application de la présente partie, la mention de l’expiration légale de la peine que purge un délinquant s’entend du jour d’expiration de la peine compte non tenu de la libération d’office à laquelle il pourrait avoir droit, ni des réductions de peine à son actif lors de l’entrée en vigueur du présent article.
+- **(2)** Pour l’application de la présente partie, la mention de l’expiration légale de la peine que purge un délinquant s’entend du jour d’expiration de la peine compte non tenu :
+	- **a)** de la libération d’office à laquelle il pourrait avoir droit;
+	- **b)** dans le cas d’une peine spécifique infligée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), de la partie de la peine purgée sous surveillance au sein de la collectivité en application de l’alinéa 42(2)n) de cette loi ou en liberté sous condition en application des alinéas 42(2)o), q) ou r) de cette loi;
+	- **c)** des réductions de peine à son actif en date du 1<sup>er</sup> novembre 1992.
 
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70 et 197
 
 
 
