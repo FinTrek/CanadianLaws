@@ -76,15 +76,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***infraction*** Toute infraction créée par une loi fédérale ou par ses textes d’application : règlement, règle, ordre, décret, arrêté, règlement administratif ou ordonnance, à l’exclusion des ordonnances des Territoires du Nord-Ouest et des lois de la Législature du Yukon ou de celle du Nunavut.
 
-***infraction désignée***
-- **a)** Toute infraction visée à l’une des dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) énumérées ci-après et commise ou alléguée avoir été commise par un adolescent après qu’il a atteint l’âge de quatorze ans ou, dans le cas où le lieutenant-gouverneur en conseil de la province a fixé un âge de plus de quatorze ans en vertu de l’article 61, l’âge ainsi fixé :
-	- **(i)** les articles 231 ou 235 (meurtre au premier ou au deuxième degré),
-	- **(ii)** l’article 239 (tentative de meurtre),
-	- **(iii)** les articles 232, 234 ou 236 (homicide involontaire coupable),
-	- **(iv)** l’article 273 (agression sexuelle grave);
-- **b)** toute infraction grave avec violence pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans commise ou alléguée avoir été commise par un adolescent après l’entrée en vigueur de l’article 62 (peine applicable aux adultes) et après qu’il a atteint l’âge de quatorze ans ou, dans le cas où le lieutenant-gouverneur en conseil de la province a fixé un âge de plus de quatorze ans en vertu de l’article 61, l’âge ainsi fixé, dans le cas où il a déjà été décidé en vertu du paragraphe 42(9), à au moins deux reprises et lors de poursuites distinctes, que celui-ci a commis une infraction grave avec violence.
+***infraction avec violence*** Selon le cas :
+- **a)** infraction commise par un adolescent dont l’un des éléments constitutifs est l’infliction de lésions corporelles;
+- **b)** tentative ou menace de commettre l’infraction visée à l’alinéa a);
+- **c)** infraction commise par un adolescent au cours de la perpétration de laquelle il met en danger la vie ou la sécurité d’une autre personne en créant une probabilité marquée qu’il en résulte des lésions corporelles.
 
-***infraction grave avec violence*** Toute infraction commise par un adolescent et au cours de la perpétration de laquelle celui-ci cause des lésions corporelles graves ou tente d’en causer.
+***infraction désignée***[Abrogée, 2012, ch. 1, art. 167]
+
+***infraction grave*** Tout acte criminel prévu par une loi fédérale et passible d’un emprisonnement maximal de cinq ans ou plus.
+
+***infraction grave avec violence*** Toute infraction visée à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+- **a)** les articles 231 ou 235 (meurtre au premier ou au deuxième degré);
+- **b)** l’article 239 (tentative de meurtre);
+- **c)** les articles 232, 234 ou 236 (homicide involontaire coupable);
+- **d)** l’article 273 (agression sexuelle grave).
 
 ***juge du tribunal pour adolescents*** Tout juge du tribunal pour adolescents visé à l’article 13.
 
@@ -119,7 +124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2002, ch. 1, art. 2, ch. 7, art. 274.
+> 2002, ch. 1, art. 2, ch. 7, art. 274; 2012, ch. 1, art. 167.
 
 
 
@@ -133,20 +138,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** 
 
-- **(1)** Les principes suivants s’appliquent à la présente loi :
-	- **a)** le système de justice pénale pour adolescents vise à prévenir le crime par la suppression des causes sous-jacentes à la criminalité chez les adolescents, à les réadapter et à les réinsérer dans la société et à assurer la prise de mesures leur offrant des perspectives positives en vue de favoriser la protection durable du public;
-	- **b)** le système de justice pénale pour les adolescents doit être distinct de celui pour les adultes et mettre l’accent sur :
+- **(1)** Les principes suivants s’appliquent à la présente loi :
+	- **a)** le système de justice pénale pour adolescents vise à protéger le public de la façon suivante :
+		- **(i)** obliger les adolescents à répondre de leurs actes au moyen de mesures proportionnées à la gravité de l’infraction et au degré de responsabilité,
+		- **(ii)** favoriser la réadaptation et la réinsertion sociale des adolescents ayant commis des infractions,
+		- **(iii)** contribuer à la prévention du crime par le renvoi des adolescents à des programmes ou à des organismes communautaires en vue de supprimer les causes sous-jacentes à la criminalité chez ceux-ci;
+	- **b)** le système de justice pénale pour les adolescents doit être distinct de celui pour les adultes, être fondé sur le principe de culpabilité morale moins élevée et mettre l’accent sur :
 		- **(i)** leur réadaptation et leur réinsertion sociale,
 		- **(ii)** une responsabilité juste et proportionnelle, compatible avec leur état de dépendance et leur degré de maturité,
 		- **(iii)** la prise de mesures procédurales supplémentaires pour leur assurer un traitement équitable et la protection de leurs droits, notamment en ce qui touche leur vie privée,
 		- **(iv)** la prise de mesures opportunes qui établissent clairement le lien entre le comportement délictueux et ses conséquences,
 		- **(v)** la diligence et la célérité avec lesquelles doivent intervenir les personnes chargées de l’application de la présente loi, compte tenu du sens qu’a le temps dans la vie des adolescents;
-	- **c)** les mesures prises à l’égard des adolescents, en plus de respecter le principe de la responsabilité juste et proportionnelle, doivent viser à :
+	- **c)** les mesures prises à l’égard des adolescents, en plus de respecter le principe de la responsabilité juste et proportionnelle, doivent viser à :
 		- **(i)** renforcer leur respect pour les valeurs de la société,
 		- **(ii)** favoriser la réparation des dommages causés à la victime et à la collectivité,
 		- **(iii)** leur offrir des perspectives positives, compte tenu de leurs besoins et de leur niveau de développement, et, le cas échéant, faire participer leurs père et mère, leur famille étendue, les membres de leur collectivité et certains organismes sociaux ou autres à leur réadaptation et leur réinsertion sociale,
 		- **(iv)** prendre en compte tant les différences ethniques, culturelles, linguistiques et entre les sexes que les besoins propres aux adolescents autochtones et à d’autres groupes particuliers d’adolescents;
-	- **d)** des règles spéciales s’appliquent aux procédures intentées contre les adolescents. Au titre de celles-ci :
+	- **d)** des règles spéciales s’appliquent aux procédures intentées contre les adolescents. Au titre de celles-ci :
 		- **(i)** les adolescents jouissent, et ce personnellement, de droits et libertés, notamment le droit de se faire entendre dans le cadre des procédures conduisant à des décisions qui les touchent — sauf la décision d’entamer des poursuites — et de prendre part à ces procédures, ces droits et libertés étant assortis de mesures de protection spéciales,
 		- **(ii)** les victimes doivent être traitées avec courtoisie et compassion, sans qu’il ne soit porté atteinte à leur dignité ou à leur vie privée, et doivent subir le moins d’inconvénients possible du fait de leur participation au système de justice pénale pour les adolescents,
 		- **(iii)** elles doivent aussi être informées des procédures intentées contre l’adolescent et avoir l’occasion d’y participer et d’y être entendues,
@@ -155,6 +163,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Souplesse d’interprétation**
 
 - **(2)** La présente loi doit faire l’objet d’une interprétation large garantissant aux adolescents un traitement conforme aux principes énoncés au paragraphe (1).
+> 2002, ch. 1, art. 3; 2012, ch. 1, art. 168.
+
 
 
 
@@ -705,9 +715,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La détention sous garde avant le prononcé de la peine ne doit pas se substituer à des services de protection de la jeunesse ou de santé mentale, ou à d’autres mesures sociales plus appropriés.
 
-**Détention interdite**
+**Motifs justifiant la détention**
 
-- **(2)** Le tribunal pour adolescents ou le juge présume que la détention de l’adolescent n’est pas nécessaire pour la protection ou la sécurité du public au titre de l’alinéa 515(10)b) (probabilité marquée de commission d’une infraction criminelle ou d’atteinte à l’administration de la justice) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans le cas où l’adolescent, sur déclaration de culpabilité, ne pourrait être placé sous garde en vertu des alinéas 39(1)a) à c) (restrictions au placement sous garde).
+- **(2)** Le juge du tribunal pour adolescents ou le juge de paix ne peut ordonner la détention sous garde que si les conditions suivantes sont réunies :
+	- **a)** l’adolescent est accusé d’une infraction grave ou, si plusieurs accusations pèsent toujours contre lui ou qu’il a fait l’objet de plusieurs déclarations de culpabilité, d’une infraction autre qu’une infraction grave;
+	- **b)** le juge est convaincu, selon la prépondérance des probabilités :
+		- **(i)** soit qu’il y a une probabilité marquée qu’avant d’être soumis à la justice l’adolescent ne se présentera pas devant le tribunal lorsqu’il sera légalement tenu de le faire,
+		- **(ii)** soit que sa détention est nécessaire pour la protection ou la sécurité du public, notamment celle des victimes et des témoins de l’infraction, eu égard aux circonstances, dont la probabilité marquée que l’adolescent, s’il est mis en liberté, commettra une infraction grave,
+		- **(iii)** soit, dans le cas où l’adolescent est accusé d’une infraction grave et que sa détention n’est pas justifiée en vertu du sous-alinéa (i) ou (ii), que des circonstances exceptionnelles justifient sa détention et que celle-ci est nécessaire pour ne pas miner la confiance du public envers l’administration de la justice, eu égard aux principes énumérés à l’article 3 et compte tenu de toutes les circonstances, notamment les suivantes :
+			- **(A)** le fait que l’accusation paraît bien fondée,
+			- **(B)** la gravité de l’infraction,
+			- **(C)** les circonstances entourant la perpétration de l’infraction, y compris l’usage d’une arme à feu,
+			- **(D)** le fait que l’adolescent encourt, en cas de déclaration de culpabilité, une longue peine de placement sous garde;
+	- **c)** le juge est convaincu, selon la prépondérance des probabilités, qu’aucune condition de mise en liberté ou combinaison de conditions de mise en liberté, en fonction de la justification sur laquelle le juge s’est basé en vertu de l’alinéa b) :
+		- **(i)** soit n’amoindrirait la probabilité que l’adolescent ne se présente pas devant le tribunal lorsqu’il est légalement tenu de le faire,
+		- **(ii)** soit ne protégerait suffisamment le public contre le risque que présenterait par ailleurs l’adolescent,
+		- **(iii)** soit ne suffirait à maintenir la confiance du public envers l’administration de la justice.
+
+**Charge de la preuve**
+
+- **(3)** Il incombe au procureur général de convaincre le juge du tribunal ou le juge de paix de l’existence des conditions visées au paragraphe (2).
+> 2002, ch. 1, art. 29; 2012, ch. 1, art. 169.
+
 
 
 
@@ -803,13 +832,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** L’adolescent qui fait l’objet d’une dénonciation ou d’un acte d’accusation doit d’abord comparaître devant un juge du tribunal pour adolescents ou un juge de paix, lequel :
+- **(1)** L’adolescent qui fait l’objet d’une dénonciation ou d’un acte d’accusation doit d’abord comparaître devant un juge du tribunal pour adolescents ou un juge de paix, lequel :
 	- **a)** fait lire la dénonciation ou l’acte d’accusation à l’adolescent;
 	- **b)** l’informe, le cas échéant, qu’il a droit d’avoir recours à un avocat;
-	- **c)** l’informe, s’il a reçu l’avis visé au paragraphe 64(2) (avis de demande d’assujettissement à la peine applicable aux adultes) ou si l’article 16 (incertitude sur le statut de l’accusé) s’applique, que le tribunal pour adolescents peut, en cas de déclaration de culpabilité, l’assujettir à la peine applicable aux adultes;
-	- **d)** dans le cas où l’adolescent est accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1), l’informe dans les termes suivants des conséquences qui découlent d’une telle accusation :Si vous êtes déclaré coupable, il vous sera imposé la peine applicable aux adultes à moins que le tribunal n’ordonne que vous ne soyez pas assujetti à cette peine et qu’une peine spécifique vous soit imposée.
-
-
+	- **c)** l’informe, s’il a reçu l’avis visé au paragraphe 64(2) (avis de demande d’assujettissement à la peine applicable aux adultes) ou si l’article 16 (incertitude sur le statut de l’accusé) s’applique, que le tribunal pour adolescents peut, en cas de déclaration de culpabilité, l’assujettir à la peine applicable aux adultes.
+	- **d)** [Abrogé, 2012, ch. 1, art. 170]
 
 **Renonciation**
 
@@ -817,7 +844,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Cas où l’adolescent n’est pas représenté par un avocat**
 
-- **(3)** Dans le cas où l’adolescent n’est pas représenté par un avocat, le juge du tribunal pour adolescents, avant d’accepter un plaidoyer, doit :
+- **(3)** Dans le cas où l’adolescent n’est pas représenté par un avocat, le juge du tribunal pour adolescents, avant d’accepter un plaidoyer, doit :
 	- **a)** s’assurer que l’adolescent a bien compris l’accusation dont il fait l’objet;
 	- **b)** s’il est passible de la peine applicable aux adultes, l’informer des conséquences qu’entraînerait son assujettissement à cette peine et de la procédure à suivre pour demander l’imposition d’une peine spécifique;
 	- **c)** lui expliquer qu’il peut plaider coupable ou non coupable ou, si les paragraphes 67(1) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes) ou (3) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes — Nunavut) s’appliquent, qu’il peut choisir d’être jugé par un juge du tribunal pour adolescents sans jury et sans enquête préliminaire ou d’être jugé par un juge sans jury après une enquête préliminaire ou encore par un tribunal composé d’un juge et d’un jury après une enquête préliminaire, une telle enquête n’étant tenue dans l’un ou l’autre cas qu’à sa demande ou à la demande du poursuivant.
@@ -829,7 +856,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas où le tribunal n’est pas convaincu que l’accusation est bien comprise**
 
 - **(5)** Lorsque le tribunal pour adolescents n’est pas convaincu que l’adolescent comprend bien les points énoncés au paragraphe (3), il doit ordonner qu’un avocat lui soit désigné.
-> 2002, ch. 1, art. 32, ch. 13, art. 91.
+> 2002, ch. 1, art. 32, ch. 13, art. 91; 2012, ch. 1, art. 170.
 
 
 
@@ -1014,7 +1041,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Appel de certaines peines ou décisions**
 
-- **(4)** Les décisions prononcées en vertu du paragraphe 42(9) (décision — infraction grave avec violence) et les ordonnances rendues en vertu des paragraphes 72(1) (décision — peine applicable aux adultes ou peine spécifique), 75(3) (décision — interdiction de publier) ou 76(1) (décision — placement en cas de peine applicable aux adultes) peuvent être portées en appel comme partie de la peine; si plusieurs de celles-ci sont portées en appel, les appels sont réunis, sauf décision contraire du tribunal d’appel.
+- **(4)** Les ordonnances rendues en vertu des paragraphes 72(1) ou (1.1) (peine applicable aux adultes ou peine spécifique), 75(2) (levée de l’interdiction de publication) ou 76(1) (placement en cas de peine applicable aux adultes) peuvent être portées en appel comme partie de la peine; si plusieurs de celles-ci sont portées en appel, les appels sont réunis, sauf décision contraire du tribunal d’appel.
 
 **Appels dans le cas de déclaration sommaire de culpabilité**
 
@@ -1043,6 +1070,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peines non susceptibles d’appel**
 
 - **(11)** Les peines spécifiques imposées en vertu des articles 59 ou 94 à 96 ne sont pas susceptibles d’appel.
+> 2002, ch. 1, art. 37; 2012, ch. 1, art. 171.
+
 
 
 
@@ -1064,25 +1093,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Principes de détermination de la peine**
 
-- **(2)** Le tribunal pour adolescents détermine la peine spécifique à imposer conformément aux principes énoncés à l’article 3 et aux principes suivants :
+- **(2)** Le tribunal pour adolescents détermine la peine spécifique à imposer conformément aux principes énoncés à l’article 3 et aux principes suivants :
 	- **a)** la peine ne doit en aucun cas aboutir à une peine plus grave que celle qui serait indiquée dans le cas d’un adulte coupable de la même infraction commise dans des circonstances semblables;
 	- **b)** la peine doit être semblable à celle qui serait imposée dans la région à d’autres adolescents se trouvant dans une situation semblable pour la même infraction commise dans des circonstances semblables;
 	- **c)** la peine doit être proportionnelle à la gravité de l’infraction et au degré de responsabilité de l’adolescent à l’égard de l’infraction;
 	- **d)** toutes les sanctions applicables, à l’exception du placement sous garde, qui sont justifiées dans les circonstances doivent faire l’objet d’un examen, plus particulièrement en ce qui concerne les adolescents autochtones;
-	- **e)** sous réserve de l’alinéa c), la peine doit :
+	- **e)** sous réserve de l’alinéa c), la peine doit :
 		- **(i)** être la moins contraignante possible pour atteindre l’objectif mentionné au paragraphe (1),
 		- **(ii)** lui offrir les meilleures chances de réadaptation et de réinsertion sociale,
-		- **(iii)** susciter le sens et la conscience de ses responsabilités, notamment par la reconnaissance des dommages causés à la victime et à la collectivité.
+		- **(iii)** susciter le sens et la conscience de ses responsabilités, notamment par la reconnaissance des dommages causés à la victime et à la collectivité;
+	- **f)** sous réserve de l’alinéa c), la peine peut viser :
+		- **(i)** à dénoncer un comportement illicite,
+		- **(ii)** à dissuader l’adolescent de récidiver.
 
 **Facteurs à prendre en compte lors de la détermination de la peine**
 
-- **(3)** Le tribunal détermine la peine spécifique à imposer en tenant également compte :
+- **(3)** Le tribunal détermine la peine spécifique à imposer en tenant également compte :
 	- **a)** du degré de participation de l’adolescent à l’infraction;
 	- **b)** des dommages causés à la victime et du fait qu’ils ont été causés intentionnellement ou étaient raisonnablement prévisibles;
 	- **c)** de la réparation par l’adolescent des dommages causés à la victime ou à la collectivité;
 	- **d)** du temps passé en détention par suite de l’infraction;
 	- **e)** des déclarations de culpabilité antérieures de l’adolescent;
 	- **f)** des autres circonstances aggravantes ou atténuantes liées à la perpétration de l’infraction ou à la situation de l’adolescent et pertinentes au titre des principes et objectif énoncés au présent article.
+> 2002, ch. 1, art. 38; 2012, ch. 1, art. 172.
+
 
 
 
@@ -1091,10 +1125,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **39** 
 
-- **(1)** Le tribunal pour adolescents n’impose une peine comportant le placement sous garde en application de l’article 42 (peines spécifiques) que si, selon le cas :
+- **(1)** Le tribunal pour adolescents n’impose une peine comportant le placement sous garde en application de l’article 42 (peines spécifiques) que si, selon le cas :
 	- **a)** l’adolescent a commis une infraction avec violence;
 	- **b)** il n’a pas respecté les peines ne comportant pas de placement sous garde qui lui ont déjà été imposées;
-	- **c)** il a commis un acte criminel pour lequel un adulte est passible d’une peine d’emprisonnement de plus de deux ans après avoir fait l’objet de plusieurs déclarations de culpabilité dans le cadre de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985);
+	- **c)** il a commis un acte criminel pour lequel un adulte est passible d’une peine d’emprisonnement de plus de deux ans, après avoir fait l’objet de plusieurs sanctions extrajudiciaires ou déclarations de culpabilité — ou toute combinaison de celles-ci — dans le cadre de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985);
 	- **d)** il s’agit d’un cas exceptionnel où l’adolescent a commis un acte criminel et où les circonstances aggravantes de la perpétration de celui-ci sont telles que l’imposition d’une peine ne comportant pas de placement sous garde enfreindrait les principes et objectif énoncés à l’article 38.
 
 **Solutions de rechange**
@@ -1103,7 +1137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Facteurs à prendre en compte**
 
-- **(3)** Dans le cadre de son examen, il tient compte des observations faites sur :
+- **(3)** Dans le cadre de son examen, il tient compte des observations faites sur :
 	- **a)** les mesures de rechange à sa disposition;
 	- **b)** le fait que l’adolescent se conformera vraisemblablement ou non à une peine ne comportant pas de placement sous garde, compte tenu du fait qu’il s’y soit ou non conformé par le passé;
 	- **c)** les mesures de rechange imposées à des adolescents pour des infractions semblables commises dans des circonstances semblables.
@@ -1131,6 +1165,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision motivée**
 
 - **(9)** Toute peine spécifique comportant une période de garde doit donner les motifs pour lesquels une peine spécifique ne comportant pas de placement sous garde ne suffirait pas pour atteindre l’objectif mentionné au paragraphe 38(1), y compris, le cas échéant, les motifs pour lesquels il s’agit d’un cas exceptionnel visé à l’alinéa (1)d).
+> 2002, ch. 1, art. 39; 2012, ch. 1, art. 173.
+
 
 
 
@@ -1230,11 +1266,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Peine spécifique**
 
-- **(2)** Sous réserve des autres dispositions de la présente loi, dans le cas où il déclare un adolescent coupable d’une infraction et lui impose une peine spécifique, le tribunal lui impose l’une des sanctions ci-après en la combinant éventuellement avec une ou plusieurs autres compatibles entre elles; dans le cas où l’infraction est le meurtre au premier ou le meurtre au deuxième degré au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le tribunal lui impose la sanction visée à l’alinéa q) ou aux sous-alinéas r)(ii) ou (iii) et, le cas échéant, toute autre sanction prévue au présent article qu’il estime indiquée :
+- **(2)** Sous réserve des autres dispositions de la présente loi, dans le cas où il déclare un adolescent coupable d’une infraction et lui impose une peine spécifique, le tribunal lui impose l’une des sanctions ci-après en la combinant éventuellement avec une ou plusieurs autres compatibles entre elles; dans le cas où l’infraction est le meurtre au premier ou le meurtre au deuxième degré au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le tribunal lui impose la sanction visée à l’alinéa q) ou aux sous-alinéas r)(ii) ou (iii) et, le cas échéant, toute autre sanction prévue au présent article qu’il estime indiquée :
 	- **a)** une réprimande;
 	- **b)** l’absolution inconditionnelle, décrétée par ordonnance, s’il estime que cette mesure est préférable pour l’adolescent et non contraire à l’intérêt public;
 	- **c)** l’absolution, décrétée par ordonnance, aux conditions que le tribunal estime indiquées et l’éventuelle obligation pour l’adolescent de se présenter au directeur provincial et de se soumettre à sa surveillance;
-	- **d)** l’imposition à l’adolescent d’une amende maximale de 1 000 $ dont il fixe éventuellement les dates et modalités de paiement;
+	- **d)** l’imposition à l’adolescent d’une amende maximale de 1 000 $ dont il fixe éventuellement les dates et modalités de paiement;
 	- **e)** le versement par l’adolescent d’une somme au profit d’une personne, aux dates et selon les modalités éventuellement fixées par le tribunal, à titre d’indemnité soit pour perte de biens ou dommages causés à ceux-ci, soit pour perte de revenu ou de soutien, soit pour perte pécuniaire antérieure au procès dans la province de Québec — ou pour dommages spéciaux ailleurs au Canada — afférents à des lésions corporelles résultant de l’infraction et dont le montant peut être aisément déterminé, les autres dommages-intérêts dans la province de Québec, et les dommages-intérêts généraux dans les autres provinces, étant exclus dans le cadre de la peine;
 	- **f)** la restitution soit à leur propriétaire soit à leur possesseur légitime au moment de l’infraction, dans le délai fixé par le tribunal, des biens obtenus par suite de l’infraction;
 	- **g)** en cas de vente à un acquéreur de bonne foi des biens obtenus par suite de l’infraction, le remboursement par l’adolescent à l’acquéreur, aux dates et selon les modalités fixées par le tribunal, d’une somme ne dépassant pas le prix que celui-ci avait payé, lorsque la restitution des biens à leur propriétaire ou à toute autre personne a été faite ou ordonnée;
@@ -1245,12 +1281,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **l)** sous réserve du paragraphe (3) (consentement du directeur provincial), l’obligation pour l’adolescent, imposée par ordonnance, de suivre un programme d’assistance et de surveillance intensives approuvé par le directeur provincial;
 	- **m)** sous réserve du paragraphe (3) (consentement du directeur provincial) et de l’article 54, l’obligation pour l’adolescent, imposée par ordonnance, de fréquenter un lieu où est offert un programme approuvé par le directeur provincial, aux dates et selon les modalités fixées par le tribunal, à condition que la durée de celui-ci n’excède pas deux cent quarante heures sur une période d’au plus six mois;
 	- **n)** l’imposition, par une ordonnance de placement et de surveillance, d’une peine maximale de deux ans à compter de sa mise à exécution ou, dans le cas où l’adolescent est déclaré coupable d’une infraction passible de l’emprisonnement à vie prévue par le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou par toute autre loi fédérale, d’une peine maximale de trois ans à compter de sa mise à exécution, dont une période est purgée sous garde, laquelle est suivie d’une autre — dont la durée est la moitié de la première — à purger, sous réserve des articles 97 (conditions obligatoires) et 98 (maintien sous garde), sous surveillance au sein de la collectivité;
-	- **o)** dans le cas d’une infraction visée aux sous-alinéas a)(ii), (iii) ou (iv) de la définition de « infraction désignée » au paragraphe 2(1), l’imposition, par une ordonnance de placement et de surveillance, d’une peine maximale, sous réserve du paragraphe 104(1) (prolongation de la garde), de trois ans à compter de sa mise à exécution, dont une partie est purgée sous garde de façon continue et l’autre en liberté sous condition au sein de la collectivité aux conditions fixées conformément à l’article 105;
+	- **o)** dans le cas d’une infraction prévue aux articles 239 (tentative de meurtre), 232, 234 ou 236 (homicide involontaire coupable) ou 273 (agression sexuelle grave) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), l’imposition, par une ordonnance de placement et de surveillance, d’une peine maximale de trois ans à compter de sa mise à exécution, dont une partie est purgée sous garde de façon continue et, sous réserve du paragraphe 104(1) (prolongation de la garde), l’autre en liberté sous condition au sein de la collectivité aux conditions fixées conformément à l’article 105;
 	- **p)** sous réserve du paragraphe (5), l’assujettissement de l’adolescent à une ordonnance de placement et de surveillance d’une période d’au plus six mois, dont l’application est différée, sous réserve des conditions mentionnées au paragraphe 105(2), et de celles mentionnées au paragraphe 105(3) que le tribunal estime indiquées;
-	- **q)** l’imposition par ordonnance :
+	- **q)** l’imposition par ordonnance :
 		- **(i)** dans le cas d’un meurtre au premier degré, d’une peine maximale de dix ans consistant, d’une part, en une mesure de placement sous garde, exécutée de façon continue, pour une période maximale de six ans à compter de sa mise à exécution, sous réserve du paragraphe 104(1) (prolongation de la garde), et, d’autre part, en la mise en liberté sous condition au sein de la collectivité conformément à l’article 105,
 		- **(ii)** dans le cas d’un meurtre au deuxième degré, d’une peine maximale de sept ans consistant, d’une part, en une mesure de placement sous garde, exécutée de façon continue, pour une période maximale de quatre ans à compter de sa mise à exécution, sous réserve du paragraphe 104(1) (prolongation de la garde), et, d’autre part, en la mise en liberté sous condition au sein de la collectivité conformément à l’article 105;
-	- **r)** sous réserve du paragraphe (7), l’imposition, par une ordonnance de placement et de surveillance dans le cadre d’un programme intensif de réadaptation, d’une peine maximale :
+	- **r)** sous réserve du paragraphe (7), l’imposition, par une ordonnance de placement et de surveillance dans le cadre d’un programme intensif de réadaptation, d’une peine maximale :
 		- **(i)** sous réserve du paragraphe 104(1) (prolongation de la garde), de deux ans à compter de sa mise à exécution ou, dans le cas où l’adolescent est déclaré coupable d’une infraction passible de l’emprisonnement à vie prévue par le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou par toute autre loi fédérale, de trois ans à compter de sa mise à exécution, dont une partie est purgée sous garde de façon continue dans le cadre d’un programme intensif de réadaptation et l’autre en liberté sous condition au sein de la collectivité aux conditions fixées conformément à l’article 105,
 		- **(ii)** dans le cas d’un meurtre au premier degré, de dix ans consistant, d’une part, en une mesure de placement sous garde, exécutée de façon continue dans le cadre d’un programme intensif de réadaptation, pour une période maximale de six ans à compter de sa mise à exécution, sous réserve du paragraphe 104(1) (prolongation de la garde), et, d’autre part, en la mise en liberté sous condition au sein de la collectivité conformément à l’article 105,
 		- **(iii)** dans le cas d’un meurtre au deuxième degré, de sept ans consistant, d’une part, en une mesure de placement sous garde, exécutée de façon continue dans le cadre d’un programme intensif de réadaptation, pour une période maximale de quatre ans à compter de sa mise à exécution, sous réserve du paragraphe 104(1) (prolongation de la garde), et, d’autre part, en la mise en liberté sous condition au sein de la collectivité conformément à l’article 105;
@@ -1262,7 +1298,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Déclaration du tribunal**
 
-- **(4)** Lorsqu’il rend l’ordonnance de placement et de surveillance prévue à l’alinéa (2)n), le tribunal pour adolescents est tenu de faire la déclaration suivante à l’égard de cette ordonnance :Vous devez purger (*indiquer le nombre de jours ou de mois à purger*) sous garde, suivi de (*indiquer la moitié du nombre de jours ou de mois mentionné ci-dessus*) à purger sous surveillance au sein de la collectivité aux conditions fixées.
+- **(4)** Lorsqu’il rend l’ordonnance de placement et de surveillance prévue à l’alinéa (2)n), le tribunal pour adolescents est tenu de faire la déclaration suivante à l’égard de cette ordonnance :Vous devez purger (*indiquer le nombre de jours ou de mois à purger*) sous garde, suivi de (*indiquer la moitié du nombre de jours ou de mois mentionné ci-dessus*) à purger sous surveillance au sein de la collectivité aux conditions fixées.
 
 S’il y a manquement à l’une de ces conditions durant la période de surveillance au sein de la collectivité, vous pourrez être ramené sous garde pour y purger le reste de cette période.
 
@@ -1274,8 +1310,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Ordonnance différée de placement sous garde et de surveillance**
 
-- **(5)** Le tribunal pour adolescents peut rendre une ordonnance différée de placement sous garde et de surveillance en application de l’alinéa (2)p) lorsque :
-	- **a)** d’une part, l’adolescent a été déclaré coupable d’une infraction autre qu’une infraction grave avec violence;
+- **(5)** Le tribunal pour adolescents peut rendre une ordonnance différée de placement sous garde et de surveillance en application de l’alinéa (2)p) lorsque :
+	- **a)** d’une part, l’adolescent a été déclaré coupable d’une infraction autre qu’une infraction au cours de la perpétration de laquelle un adolescent cause ou tente de causer des lésions corporelles graves;
 	- **b)** d’autre part, l’ordonnance est compatible avec les principes et objectif de la détermination de la peine énoncés à l’article 38 et les restrictions applicables au placement sous garde visées à l’article 39.
 
 **Application des articles 106 à 109**
@@ -1284,10 +1320,10 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Programme intensif de réadaptation**
 
-- **(7)** Le tribunal pour adolescents ne peut rendre l’ordonnance visée à l’alinéa (2)r) que si les conditions suivantes sont réunies :
-	- **a)** l’adolescent a été déclaré coupable :
-		- **(i)** soit d’une infraction visée aux articles 231 ou 235 (meurtre au premier ou au deuxième degré), 239 (tentative de meurtre), 232, 234 ou 236 (homicide involontaire coupable) ou 273 (agression sexuelle grave) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
-		- **(ii)** soit d’une infraction grave avec violence pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, dans le cas où l’adolescent a déjà été déclaré coupable, au moins deux fois, d’une infraction grave avec violence;
+- **(7)** Le tribunal pour adolescents ne peut rendre l’ordonnance visée à l’alinéa (2)r) que si les conditions suivantes sont réunies :
+	- **a)** l’adolescent a été déclaré coupable :
+		- **(i)** soit d’une infraction grave avec violence,
+		- **(ii)** soit d’une infraction, commise par un adolescent et au cours de la perpétration de laquelle celui-ci cause des lésions corporelles graves ou tente d’en causer, pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, dans le cas où l’adolescent a déjà été déclaré coupable, au moins deux fois, d’une telle infraction;
 	- **b)** il souffre d’une maladie ou de troubles d’ordre mental, d’un dérèglement d’ordre psychologique ou de troubles émotionnels;
 	- **c)** un projet de traitement et d’étroite surveillance a été élaboré pour répondre à ses besoins et il existe des motifs raisonnables de croire que la mise en oeuvre de ce projet pourrait permettre de réduire les risques qu’il commette une infraction grave avec violence;
 	- **d)** le directeur provincial conclut qu’un tel projet est disponible et que la participation de l’adolescent au projet est indiquée.
@@ -1296,13 +1332,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 - **(8)** Le présent article n’a pas pour effet de porter atteinte aux droits de l’adolescent en matière de consentement à la prestation de soins de santé physique ou mentale.
 
-**Décision du tribunal**
-
-- **(9)** Le tribunal pour adolescents peut, à la demande du procureur général, après avoir donné aux parties l’occasion de présenter des observations, décider que l’infraction dont l’adolescent a été déclaré coupable est une infraction grave avec violence et faire mention de ce fait sur la dénonciation ou l’acte d’accusation.
-
-**Appel**
-
-- **(10)** Pour l’application de l’article 37, la décision rendue en vertu du paragraphe (9) fait partie de la peine.
+- **(9) et (10)** [Abrogés, 2012, ch. 1, art. 174]
 
 **Incompatibilité**
 
@@ -1314,7 +1344,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Peines consécutives**
 
-- **(13)** Sous réserve des paragraphes (15) et (16), le tribunal pour adolescents peut ordonner que soient purgées consécutivement les peines qu’il impose à l’adolescent en application des alinéas (2)n), o), q) ou r) lorsque celui-ci, selon le cas :
+- **(13)** Sous réserve des paragraphes (15) et (16), le tribunal pour adolescents peut ordonner que soient purgées consécutivement les peines qu’il impose à l’adolescent en application des alinéas (2)n), o), q) ou r) lorsque celui-ci, selon le cas :
 	- **a)** est, au moment du prononcé de la peine, assujetti à une peine imposée en application de l’un de ces alinéas;
 	- **b)** est déclaré coupable de plus d’une infraction prévue à l’un de ces alinéas.
 
@@ -1328,7 +1358,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Durée de peines prononcées à des dates différentes**
 
-- **(16)** Les règles ci-après s’appliquent dans le cas où une peine spécifique est imposée au titre du présent article relativement à une infraction commise par l’adolescent pendant la durée d’application de peines spécifiques :
+- **(16)** Les règles ci-après s’appliquent dans le cas où une peine spécifique est imposée au titre du présent article relativement à une infraction commise par l’adolescent pendant la durée d’application de peines spécifiques :
 	- **a)** la durée de la peine est déterminée en conformité avec les paragraphes (14) et (15);
 	- **b)** les effets qu’elle comporte peuvent s’ajouter à ceux des peines antérieures;
 	- **c)** la durée totale d’application des peines peut être supérieure à trois ans et, dans le cas où cette nouvelle infraction ou l’une des infractions antérieures est le meurtre au premier degré ou le meurtre au deuxième degré au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), leur durée totale continue peut être supérieure, dans le cas d’un meurtre au premier degré, à dix ans et, dans le cas d’un meurtre au deuxième degré, à sept ans.
@@ -1336,6 +1366,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Durée d’application des peines spécifiques**
 
 - **(17)** Sous réserve des articles 89, 92 et 93 (dispositions relatives au placement en établissement pour adultes) de la présente loi et de l’article 743.5 (transfert de compétence) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute peine spécifique prononcée à l’endroit d’un adolescent continue à produire ses effets après qu’il a atteint l’âge adulte.
+> 2002, ch. 1, art. 42; 2012, ch. 1, art. 174.
+
 
 
 
@@ -1727,32 +1759,15 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 ### Peine applicable aux adultes et choix de la procédure
 
 
-
-**Fixation de l’âge pour l’application des dispositions relatives aux infractions désignées**
-
-**61** Le lieutenant-gouverneur en conseil d’une province peut, par décret, fixer un âge de plus de quatorze ans mais d’au plus seize ans pour l’application des dispositions de la présente loi relatives aux infractions désignées.
+**61** [Abrogé, 2012, ch. 1, art. 175]
 
 
 
-
-**Assujettissement à la peine applicable aux adultes**
-
-**62** La peine applicable aux adultes est imposée à l’adolescent déclaré coupable d’une infraction pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans lorsque :
-- **a)** dans le cas d’une infraction désignée, le tribunal rend l’ordonnance visée au paragraphe 70(2) ou à l’alinéa 72(1)b);
-- **b)** dans le cas d’une autre infraction commise par l’adolescent après qu’il a atteint l’âge de quatorze ans, le tribunal rend l’ordonnance visée au paragraphe 64(5) ou à l’alinéa 72(1)b).
+**62** [Abrogé, 2012, ch. 1, art. 175]
 
 
 
-
-**Demande de l’adolescent**
-
-**63** 
-
-- **(1)** L’adolescent accusé ou déclaré coupable d’une infraction désignée peut, avant la présentation d’éléments de preuve ou, à défaut de présentation de tels éléments, avant la présentation d’observations dans le cadre de l’audience pour la détermination de la peine, adresser au tribunal une demande de non-assujettissement à la peine applicable aux adultes et d’imposition d’une peine spécifique.
-
-**Non-opposition du procureur général**
-
-- **(2)** S’il reçoit du procureur général un avis de non-opposition à la demande, le tribunal ordonne, sans tenir audience, en cas de déclaration de culpabilité de l’adolescent, le non-assujettissement de celui-ci à la peine applicable aux adultes et l’imposition d’une peine spécifique.
+**63** [Abrogé, 2012, ch. 1, art. 175]
 
 
 
@@ -1761,37 +1776,35 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **64** 
 
-- **(1)** Le procureur général peut, après présentation de la demande visée au paragraphe 42(9) (décision — infraction grave avec violence), le cas échéant, et avant la présentation d’éléments de preuve ou, à défaut de présentation de tels éléments, avant la présentation d’observations dans le cadre de l’audience pour la détermination de la peine, demander au tribunal l’assujettissement de l’adolescent à la peine applicable aux adultes si celui-ci est ou a été déclaré coupable d’une infraction, autre qu’une infraction désignée, commise après qu’il a atteint l’âge de quatorze ans et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
+- **(1)** Le procureur général peut, avant la présentation d’éléments de preuve ou, à défaut de présentation de tels éléments, avant la présentation d’observations dans le cadre de l’audience pour la détermination de la peine, demander au tribunal pour adolescents l’assujettissement de l’adolescent à la peine applicable aux adultes si celui-ci est ou a été déclaré coupable d’une infraction commise après avoir atteint l’âge de quatorze ans et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
+
+**Obligation**
+
+- **(1.1)** Le procureur général doit déterminer s’il y a lieu de présenter une demande en vertu du paragraphe (1) lorsque, d’une part, l’infraction est une infraction grave avec violence et, d’autre part, l’adolescent l’a commise après avoir atteint l’âge de quatorze ans. Si, dans ces circonstances, il décide de ne pas présenter une telle demande, il doit en aviser le tribunal avant la présentation du plaidoyer ou, avec l’autorisation de celui-ci, avant le début du procès.
+
+**Décret fixant l’âge**
+
+- **(1.2)** Le lieutenant-gouverneur en conseil d’une province peut, par décret, fixer un âge de plus de quatorze ans mais d’au plus seize ans pour l’application du paragraphe (1.1).
 
 **Avis du procureur général au tribunal**
 
-- **(2)** S’il entend obtenir l’assujettissement à la peine applicable aux adultes soit en présentant la demande visée au paragraphe (1), soit en prouvant que l’infraction est une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1), le procureur général doit, avant la présentation du plaidoyer ou, avec l’autorisation du tribunal, à tout moment avant le début du procès, aviser l’adolescent et le tribunal pour adolescents de son intention de demander l’assujettissement.
+- **(2)** S’il cherche à obtenir l’assujettissement à la peine applicable aux adultes en présentant la demande visée au paragraphe (1), le procureur général doit, avant la présentation du plaidoyer ou, avec l’autorisation du tribunal, avant le début du procès, aviser l’adolescent et le tribunal de son intention de demander l’assujettissement.
 
 **Infractions incluses**
 
 - **(3)** L’avis donné conformément au paragraphe (2) à l’égard d’une infraction est valable à l’égard de toute infraction incluse dont l’adolescent est déclaré coupable et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
 
-**Avis du procureur général à l’adolescent**
-
-- **(4)** S’il entend, en cas de déclaration de culpabilité, établir par la preuve des condamnations antérieures que l’infraction non mentionnée à l’alinéa a) de la définition de « infraction désignée » au paragraphe 2(1) dont l’adolescent est accusé est une infraction désignée visée à l’alinéa b) de cette définition passible de la peine applicable aux adultes, le procureur général doit, avant la présentation du plaidoyer ou, avec l’autorisation du tribunal au titre du paragraphe (2), à tout moment avant le début du procès, en donner un avis à l’adolescent.
-
-**Non-opposition de l’adolescent**
-
-- **(5)** S’il reçoit de l’adolescent un avis de non-opposition à la demande d’assujettissement à la peine applicable aux adultes, le tribunal ordonne, sans tenir audience, que celui-ci y soit assujetti s’il est déclaré coupable d’une infraction pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans.
+- **(4) et (5)** [Abrogés, 2012, ch. 1, art. 176]
+> 2002, ch. 1, art. 64; 2012, ch. 1, art. 176.
 
 
 
 
-**Non-assujettissement à l’initiative du procureur général**
-
-**65** S’il reçoit du procureur général, à toute phase des poursuites, un avis selon lequel la peine applicable aux adultes ne sera pas requise contre l’adolescent accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1), le tribunal ordonne le non-assujettissement de l’adolescent à cette peine et interdit la publication de tout renseignement permettant de constater que celui-ci a fait l’objet de mesures prises sous le régime de la présente loi.
+**65** [Abrogé, 2012, ch. 1, art. 177]
 
 
 
-
-**Non-application du choix en cas de peine spécifique**
-
-**66** L’adolescent qui bénéficie d’une ordonnance de non-assujettissement au titre du paragraphe 63(2) ou de l’article 65 n’a plus à faire le choix prévu à l’article 67, sauf si l’infraction qui lui est imputée est le meurtre au premier degré ou le meurtre au deuxième degré au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+**66** [Abrogé, 2012, ch. 1, art. 177]
 
 
 
@@ -1800,8 +1813,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **67** 
 
-- **(1)** Sous réserve de l’article 66, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (2) lorsque :
-	- **a)** soit l’adolescent est accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1);
+- **(1)** Le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (2) lorsque :
+	- **a)** [Abrogé, 2012, ch. 1, art. 178]
 	- **b)** soit le procureur général a donné, au titre du paragraphe 64(2), avis de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après qu’il a atteint l’âge de quatorze ans;
 	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
 	- **d)** soit l’adolescent est visé à l’article 16 (incertitude sur le statut de l’accusé) et est accusé d’une infraction qu’il aurait commise après avoir atteint l’âge de quatorze ans et à l’égard de laquelle un adulte aurait le droit de faire un choix au titre de l’article 536 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’égard de laquelle une cour supérieure de juridiction criminelle aurait eu compétence exclusive au titre de l’article 469 de cette loi.
@@ -1814,8 +1827,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Choix en cas d’infraction grave : Nunavut**
 
-- **(3)** Sous réserve de l’article 66, dans une procédure au Nunavut, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (4) lorsque :
-	- **a)** soit l’adolescent est accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1);
+- **(3)** Dans une procédure au Nunavut, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (4) lorsque :
+	- **a)** [Abrogé, 2012, ch. 1, art. 178]
 	- **b)** soit le procureur général a donné avis en vertu du paragraphe 64(2) de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après avoir atteint l’âge de quatorze ans;
 	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
 	- **d)** soit l’adolescent est visé à l’article 16 (incertitude sur le statut de l’accusé) et est accusé d’une infraction qu’il aurait commise après avoir atteint l’âge de quatorze ans et à l’égard de laquelle un adulte aurait le droit de faire un choix au titre de l’article 536.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
@@ -1857,87 +1870,60 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(9)** Les poursuites intentées sous le régime de la présente loi devant un juge sans jury ou un tribunal composé d’un juge et d’un jury ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, sont régies par les parties XIX (actes criminels — procès sans jury) et XX (procédures lors d’un procès devant jury — dispositions générales) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires, sauf que :
 	- **a)** les dispositions de la présente loi relatives à la protection de la vie privée des adolescents l’emportent sur les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** l’adolescent a le droit d’être représenté par un avocat si le tribunal le fait éloigner en application du paragraphe 650(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2002, ch. 1, art. 67, ch. 13, art. 91.
+> 2002, ch. 1, art. 67, ch. 13, art. 91; 2012, ch. 1, art. 178.
 
 
 
 
-
-**Preuve de l’avis mentionné au par. 64(4)**
-
-**68** 
-
-- **(1)** Dans le cas où l’adolescent est déclaré coupable d’une infraction, non mentionnée à l’alinéa a) de la définition de « infraction désignée » au paragraphe 2(1), commise après qu’il a atteint l’âge de quatorze ans, et que le procureur général entend établir que l’infraction est une infraction grave avec violence et une infraction désignée visée à l’alinéa b) de cette définition, celui-ci doit démontrer au tribunal pour adolescents que l’adolescent a reçu, avant la présentation de son plaidoyer, l’avis mentionné au paragraphe 64(4) (avis — preuve des condamnations antérieures).
-
-**Présentation de la demande**
-
-- **(2)** Si le tribunal est convaincu que l’adolescent a reçu l’avis mentionné au paragraphe 64(4) (avis — preuve des condamnations antérieures), le procureur général peut présenter la demande prévue au paragraphe 42(9) (décision — infraction grave avec violence).
-
-**Preuve des déclarations de culpabilité antérieures**
-
-- **(3)** S’il décide que l’infraction est une infraction grave avec violence, le tribunal s’informe auprès de l’adolescent s’il admet avoir déjà fait l’objet, lors de poursuites distinctes, de décisions le reconnaissant coupable d’infractions graves avec violence; si l’adolescent ne l’admet pas, le procureur général peut faire la preuve de ces décisions conformément à l’article 667 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires. Pour l’application de cet article, la copie certifiée conforme de la dénonciation ou de l’acte d’accusation portant la mention visée au paragraphe 42(9) (décision — infraction grave avec violence) ou d’une décision du tribunal est assimilée à un certificat.
-
-**Décision du tribunal**
-
-- **(4)** S’il est convaincu, après s’être conformé au paragraphe (3), que l’infraction est une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1), le tribunal fait mention de ce fait sur la dénonciation ou l’acte d’accusation.
-
-**Décision du tribunal**
-
-- **(5)** Si le tribunal, après s’être conformé au paragraphe (3), n’est pas convaincu que l’infraction est une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1), le procureur général peut présenter la demande d’assujettissement au titre du paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes).
+**68** [Abrogé, 2012, ch. 1, art. 179]
 
 
-
-
-**Infraction incluse**
 
 **69** 
 
-- **(1)** Dans le cas où un adolescent accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1) est déclaré coupable d’une infraction incluse pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, à l’exception d’une autre infraction désignée visée à cet alinéa, les règles suivantes s’appliquent :
-	- **a)** si l’infraction dont l’adolescent a été déclaré coupable n’est pas une infraction désignée, le procureur général peut présenter la demande d’assujettissement au titre du paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes) sans avoir à donner l’avis mentionné au paragraphe 64(2);
-	- **b)** si l’infraction dont l’adolescent a été déclaré coupable est une infraction qui serait une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1) en cas de décision par le tribunal établissant qu’il s’agit d’une infraction grave avec violence et de preuve des décisions antérieures relatives à la perpétration de telles infractions, les paragraphes 68(2) à (5) s’appliquent sans qu’il soit nécessaire de donner l’avis mentionné aux paragraphes 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes) ou (4) (avis — preuve des condamnations antérieures).
+- **(1)** [Abrogé, 2012, ch. 1, art. 180]
 
 **Infraction incluse**
 
-- **(2)** Dans le cas où il a donné avis, en vertu du paragraphe 64(2), de son intention de demander l’imposition de la peine applicable aux adultes à un adolescent qui a commis une infraction après qu’il a atteint l’âge de quatorze ans et que celui-ci est déclaré coupable d’une infraction incluse pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, le procureur général peut présenter la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes) ou demander l’application de l’article 68.
+- **(2)** Dans le cas où il a donné avis, en application du paragraphe 64(2), de son intention de demander l’assujettissement à la peine applicable aux adultes de l’adolescent qui a été déclaré coupable d’une infraction incluse qu’il a commise après avoir atteint l’âge de quatorze ans et pour laquelle un adulte serait passible d’une peine d’emprisonnement de plus de deux ans, le procureur général peut présenter la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes).
+> 2002, ch. 1, art. 69; 2012, ch. 1, art. 180.
 
 
 
 
-**Rappel par le tribunal**
-
-**70** 
-
-- **(1)** Le tribunal pour adolescents, après la présentation de la demande visée au paragraphe 42(9) (décision — infraction grave avec violence), le cas échéant, et avant la présentation d’éléments de preuve ou, à défaut de présentation de tels éléments, avant la présentation d’observations dans le cadre de l’audience pour la détermination de la peine, vérifie si l’adolescent déclaré coupable d’une infraction désignée — aucune ordonnance n’ayant été rendue au titre de l’article 65 (non-assujettissement à la peine applicable aux adultes) — désire présenter la demande de non-assujettissement visée au paragraphe 63(1) (demande de non-assujettissement à la peine applicable aux adultes) et, dans l’affirmative, si le procureur général entend s’y opposer.
-
-**Ordonnance du tribunal**
-
-- **(2)** Si l’adolescent exprime sa volonté de ne pas présenter la demande en question ou omet de se prononcer sur la présentation de celle-ci, le tribunal ordonne son assujettissement à la peine applicable aux adultes.
+**70** [Abrogé, 2012, ch. 1, art. 181]
 
 
 
 
 **Audition des demandes**
 
-**71** Sauf si elle a fait l’objet d’un avis de non-opposition, le tribunal saisi de la demande visée aux paragraphes 63(1) (demande de non-assujettissement à la peine applicable aux adultes) ou 64(1) (demande d’assujettissement à la peine applicable aux adultes) procède à l’audition de celle-ci dès le début de l’audience pour la détermination de la peine; il donne aux deux parties et aux père et mère de l’adolescent l’occasion de se faire entendre.
+**71** Le tribunal pour adolescents saisi de la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes) procède à l’audition de celle-ci au début de l’audience pour la détermination de la peine, sauf si la demande a fait l’objet d’un avis de non-opposition. Il donne aux deux parties et aux père et mère de l’adolescent l’occasion de se faire entendre.
+> 2002, ch. 1, art. 71; 2012, ch. 1, art. 182.
 
 
 
 
-**Ordonnance d’assujettissement ou de non-assujettissement**
+
+**Ordonnance d’assujettissement à une peine applicable aux adultes**
 
 **72** 
 
-- **(1)** Pour décider de la demande entendue conformément à l’article 71, le tribunal pour adolescents tient compte de la gravité de l’infraction et des circonstances de sa perpétration et de l’âge, de la maturité, de la personnalité, des antécédents et des condamnations antérieures de l’adolescent et de tout autre élément qu’il estime pertinent et :
-	- **a)** dans le cas où il estime qu’une peine spécifique conforme aux principes et objectif énoncés au sous-alinéa 3(1)b)(ii) et à l’article 38 est d’une durée suffisante pour tenir l’adolescent responsable de ses actes délictueux, il ordonne le non-assujettissement à la peine applicable aux adultes et l’imposition d’une peine spécifique;
-	- **b)** dans le cas contraire, il ordonne l’imposition de la peine applicable aux adultes.
+- **(1)** Le tribunal pour adolescents ordonne l’assujettissement à la peine applicable aux adultes s’il est convaincu que :
+	- **a)** la présomption de culpabilité morale moins élevée dont bénéficie l’adolescent est réfutée;
+	- **b)** une peine spécifique conforme aux principes et objectif énoncés au sous-alinéa 3(1)b)(ii) et à l’article 38 ne serait pas d’une durée suffisante pour obliger l’adolescent à répondre de ses actes délictueux.
 
-**Fardeau**
+**Ordonnance d’assujettissement à une peine spécifique**
 
-- **(2)** Il incombe au demandeur de démontrer que les conditions énoncées au paragraphe (1) sont remplies.
+- **(1.1)** Dans le cas contraire, il ordonne le non-assujettissement à la peine applicable aux adultes et l’imposition d’une peine spécifique.
+
+**Charge de la preuve**
+
+- **(2)** Il incombe au procureur général de convaincre le tribunal de l’existence des conditions visées au paragraphe (1).
 
 **Rapport préalable au prononcé de la peine**
 
-- **(3)** Pour prononcer la peine visée au paragraphe (1), le tribunal pour adolescents doit examiner le rapport prédécisionnel.
+- **(3)** Pour rendre l’ordonnance visée aux paragraphes (1) ou (1.1), le tribunal doit examiner le rapport prédécisionnel.
 
 **Motifs de l’ordonnance**
 
@@ -1945,7 +1931,9 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Appel**
 
-- **(5)** Pour l’application de l’article 37, l’ordonnance rendue en vertu du paragraphe (1) fait partie de la peine.
+- **(5)** Pour l’application de l’article 37, l’ordonnance rendue en vertu des paragraphes (1) ou (1.1) fait partie de la peine.
+> 2002, ch. 1, art. 72; 2012, ch. 1, art. 183.
+
 
 
 
@@ -1954,11 +1942,13 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **73** 
 
-- **(1)** Dans le cas où il rend l’ordonnance visée aux paragraphes 64(5) ou 70(2) ou à l’alinéa 72(1)b) et que l’adolescent est déclaré coupable de l’infraction, le tribunal lui impose la peine applicable aux adultes.
+- **(1)** Dans le cas où il rend l’ordonnance visée au paragraphe 72(1) et que l’adolescent est déclaré coupable de l’infraction, le tribunal pour adolescents lui impose la peine applicable aux adultes.
 
 **Imposition d’une peine spécifique**
 
-- **(2)** Dans le cas où il rend l’ordonnance visée au paragraphe 63(2), à l’article 65 ou à l’alinéa 72(1)a) et que l’adolescent est déclaré coupable de l’infraction, le tribunal lui impose une peine spécifique.
+- **(2)** Dans le cas où il rend l’ordonnance visée au paragraphe 72(1.1) et que l’adolescent est déclaré coupable de l’infraction, le tribunal lui impose une peine spécifique.
+> 2002, ch. 1, art. 73; 2012, ch. 1, art. 184.
+
 
 
 
@@ -1980,23 +1970,25 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 
 
-**Rappel du tribunal**
+**Décision à l’égard de l’interdiction de publication**
 
 **75** 
 
-- **(1)** S’il impose une peine spécifique à l’adolescent déclaré coupable d’une infraction qui soit est visée à l’alinéa a) de la définition de ***infraction désignée*** au paragraphe 2(1), soit est visée à l’alinéa b) de cette définition et a fait l’objet de l’avis mentionné au paragraphe 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes), le tribunal pour adolescents, dans le cadre de l’audience pour la détermination de la peine, vérifie si l’adolescent ou le procureur général entend demander l’ordonnance de non-publication visée au paragraphe (3).
+- **(1)** Lorsqu’il impose une peine spécifique à l’adolescent déclaré coupable d’une infraction avec violence, le tribunal pour adolescents décide s’il est indiqué de rendre une ordonnance levant l’interdiction prévue au paragraphe 110(1) de publier tout renseignement de nature à révéler que l’adolescent a fait l’objet de mesures prises sous le régime de la présente loi.
 
-**Absence de demande**
+**Ordonnance**
 
-- **(2)** Si l’adolescent et le procureur général expriment leur volonté de ne pas présenter la demande en question, le tribunal en fait état sur la dénonciation ou l’acte d’accusation.
+- **(2)** Le tribunal peut rendre une ordonnance levant l’interdiction de publication s’il est convaincu, compte tenu de l’importance des principes et objectif énoncés aux articles 3 et 38, qu’il y a un risque important que l’adolescent commette à nouveau une infraction avec violence et que la levée de l’interdiction est nécessaire pour protéger le public contre ce risque.
 
-**Interdiction**
+**Charge de la preuve**
 
-- **(3)** Le juge du tribunal pour adolescents peut par ordonnance, à la demande du procureur général ou de l’adolescent, interdire la publication de tout renseignement permettant de constater que celui-ci a fait l’objet de mesures prises sous le régime de la présente loi s’il l’estime indiqué dans les circonstances, compte tenu de l’intérêt public et de l’importance de la réadaptation de l’adolescent.
+- **(3)** Il incombe au procureur général de convaincre le tribunal que l’ordonnance est indiquée dans les circonstances.
 
 **Appel**
 
-- **(4)** Pour l’application de l’article 37, l’ordonnance rendue en vertu du paragraphe (3) fait partie de la peine.
+- **(4)** Pour l’application de l’article 37, l’ordonnance rendue en vertu du paragraphe (2) fait partie de la peine.
+> 2002, ch. 1, art. 75; 2012, ch. 1, art. 185.
+
 
 
 
@@ -2005,16 +1997,14 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **76** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi — sauf les paragraphes (2) et (9) et les articles 79 et 80 — ou à toute autre loi fédérale, lorsque l’adolescent passible de la peine applicable aux adultes est condamné à une peine d’emprisonnement, le tribunal pour adolescents doit ordonner que l’adolescent purge tout ou partie de sa peine :
+- **(1)** Par dérogation à toute autre disposition de la présente loi — sauf les paragraphes (2) et (9) et les articles 79 et 80 — ou à toute autre loi fédérale, lorsque l’adolescent passible de la peine applicable aux adultes est condamné à une peine d’emprisonnement, le tribunal pour adolescents doit ordonner que l’adolescent purge tout ou partie de sa peine :
 	- **a)** soit dans un lieu de garde à l’écart de tout adulte qui y est détenu ou sous garde;
 	- **b)** soit dans un établissement correctionnel provincial pour adultes;
 	- **c)** soit, dans le cas d’une peine de deux ans ou plus, dans un pénitencier.
 
-**Facteurs à considérer**
+**Adolescent âgé de moins de dix-huit ans**
 
-- **(2)** Le tribunal qui impose une peine au titre du paragraphe (1) doit, à moins qu’il ne soit convaincu que cela n’est pas dans l’intérêt de l’adolescent ou menace la sécurité d’autres personnes :
-	- **a)** si l’adolescent est âgé de moins de dix-huit ans au moment du prononcé de la peine, ordonner son placement dans un lieu de garde;
-	- **b)** si l’adolescent est âgé de dix-huit ans ou plus au moment du prononcé de la peine, ordonner qu’il ne soit pas placé dans un lieu de garde et qu’il purge toute partie de la peine dans un établissement correctionnel provincial pour adultes ou, si la peine d’emprisonnement est de deux ans ou plus, dans un pénitencier.
+- **(2)** Aucun adolescent âgé de moins de dix-huit ans ne peut purger tout ou partie de sa peine dans un établissement correctionnel provincial pour adultes ou un pénitencier.
 
 **Possibilité de se faire entendre**
 
@@ -2030,7 +2020,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Examen**
 
-- **(6)** Le tribunal doit, sur demande, examiner le placement sous garde de l’adolescent en vertu du présent article; s’il est convaincu que les circonstances qui ont donné lieu à l’ordonnance originelle ont changé de façon importante, il peut, après avoir donné la possibilité de se faire entendre à l’adolescent, à ses père ou mère, au procureur général, au directeur provincial et aux représentants des systèmes correctionnels fédéral et provincial, ordonner que l’adolescent soit placé :
+- **(6)** Le tribunal doit, sur demande, examiner le placement sous garde de l’adolescent en vertu du présent article; s’il est convaincu que les circonstances qui ont donné lieu à l’ordonnance originelle ont changé de façon importante, il peut, après avoir donné la possibilité de se faire entendre à l’adolescent, à ses père ou mère, au procureur général, au directeur provincial et aux représentants des systèmes correctionnels fédéral et provincial, ordonner que l’adolescent soit placé :
 	- **a)** soit dans un lieu de garde à l’écart de tout adulte qui y est détenu ou sous garde;
 	- **b)** soit dans un établissement correctionnel provincial pour adultes;
 	- **c)** soit, dans le cas d’une peine d’emprisonnement de deux ans ou plus, dans un pénitencier.
@@ -2046,6 +2036,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Limite d’âge**
 
 - **(9)** Aucun adolescent ne doit demeurer dans un lieu de garde aux termes du présent article après avoir atteint l’âge de vingt ans, sauf si le tribunal qui rend l’ordonnance en vertu du paragraphe (1) ou examine le placement en vertu du paragraphe (6) est convaincu que l’adolescent — dans son propre intérêt et pour éviter de mettre en danger la sécurité d’autres personnes — devrait y demeurer.
+> 2002, ch. 1, art. 76; 2012, ch. 1, art. 186.
+
 
 
 
@@ -2098,7 +2090,9 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Demandes et avis**
 
-**81** Les demandes visées aux articles 63, 64 et 76 sont faites, et les avis au tribunal visés aux articles 63, 64, 65 et 76 sont donnés, soit oralement, en présence de l’autre partie, soit par écrit, avec copie signifiée personnellement à celle-ci.
+**81** Les demandes visées aux articles 64 et 76 sont faites, et les avis au tribunal visés à ces articles sont donnés, soit oralement, en présence de l’autre partie, soit par écrit, avec copie signifiée personnellement à celle-ci.
+> 2002, ch. 1, art. 81; 2012, ch. 1, art. 187.
+
 
 
 
@@ -2113,7 +2107,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 - **(1)** Sous réserve de l’article 12 (interrogatoire sur condamnations antérieures) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), la déclaration de culpabilité visant un adolescent est réputée n’avoir jamais existé dans le cas où soit le tribunal pour adolescents a ordonné l’absolution inconditionnelle de l’adolescent en vertu de l’alinéa 42(2)b), soit la peine spécifique imposée sous le régime de la présente loi, ainsi que toute décision rendue sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), à l’égard de l’infraction, à l’exception de l’ordonnance d’interdiction visée à l’article 51 (ordonnance d’interdiction obligatoire) de la présente loi ou à l’article 20.1 (ordonnance d’interdiction obligatoire) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ont cessé de produire leurs effets. Toutefois il demeure entendu que :
 	- **a)** l’adolescent peut invoquer la défense d’autrefois convict à l’occasion de toute accusation subséquente se rapportant à l’infraction;
-	- **b)** le tribunal pour adolescents peut tenir compte de la déclaration de culpabilité lorsqu’il examine une demande visée aux paragraphes 63(1) (demande de non-assujettissement à la peine applicable aux adultes) ou 64(1) (demande d’assujettissement à la peine applicable aux adultes);
+	- **b)** le tribunal pour adolescents peut tenir compte de la déclaration de culpabilité lorsqu’il examine la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes);
 	- **c)** tout tribunal ou juge de paix peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de mise en liberté provisoire par voie judiciaire ou lorsqu’il doit prononcer une peine à l’égard d’une infraction;
 	- **d)** la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md).
 
@@ -2132,9 +2126,9 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 **Inexistence de la matière de récidive**
 
 - **(4)** En cas de perpétration d’une infraction à une loi fédérale pour laquelle il est prévu une peine plus sévère en cas de récidive, il n’est pas tenu compte de la déclaration de culpabilité intervenue sous le régime de la présente loi, sauf s’il s’agit :
-	- **a)** soit de prouver qu’une infraction est une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1);
-	- **b)** soit de déterminer la peine applicable aux adultes à imposer.
-> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156.
+	- **a)** [Abrogé, 2012, ch. 1, art. 188]
+	- **b)** de déterminer la peine applicable aux adultes à imposer.
+> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156 et 188.
 
 
 
@@ -2869,9 +2863,9 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Restriction**
 
-- **(2)** Le paragraphe (1) ne s’applique pas lorsque les renseignements :
+- **(2)** Le paragraphe (1) ne s’applique pas lorsque les renseignements :
 	- **a)** concernent un adolescent à qui a été imposée une peine applicable aux adultes;
-	- **b)** concernent un adolescent à qui a été imposée une peine spécifique pour une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1) ou pour une infraction visée à l’alinéa b) de cette définition à l’égard de laquelle le procureur général a donné l’avis mentionné au paragraphe 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes), sous réserve des articles 65 (non-assujettissement à la peine applicable aux adultes à l’initiative du procureur général) et 75 (imposition d’une peine spécifique pour une infraction désignée);
+	- **b)** concernent un adolescent à qui a été imposée une peine spécifique pour une infraction avec violence et à l’égard duquel le tribunal pour adolescents a rendu, en vertu du paragraphe 75(2), une ordonnance levant l’interdiction de publication;
 	- **c)** sont publiés dans le cadre de l’administration de la justice, à condition toutefois que la publication ne vise pas à diffuser les renseignements dans la collectivité.
 
 **Exception**
@@ -2880,7 +2874,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Demande ex parte d’autorisation de publication**
 
-- **(4)** Sur demande *ex parte* présentée par un agent de la paix, le juge du tribunal pour adolescents rend une ordonnance autorisant la publication de tout renseignement révélant l’identité d’un adolescent qui a commis un acte criminel ou à qui un acte criminel est imputé, s’il est convaincu que :
+- **(4)** Sur demande *ex parte* présentée par un agent de la paix, le juge du tribunal pour adolescents rend une ordonnance autorisant la publication de tout renseignement révélant l’identité d’un adolescent qui a commis un acte criminel ou à qui un acte criminel est imputé, s’il est convaincu que :
 	- **a)** d’une part, il y a des raisons de croire que l’adolescent est dangereux pour autrui;
 	- **b)** d’autre part, la publication des renseignements s’impose pour faciliter l’arrestation de l’adolescent.
 
@@ -2891,6 +2885,8 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **Demande d’autorisation de publication**
 
 - **(6)** Le tribunal peut, à la demande de l’adolescent concerné, autoriser celui-ci à publier tous renseignements permettant de savoir qu’il a fait l’objet de mesures prises sous le régime de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), s’il est convaincu qu’une telle publication n’est pas contraire à l’intérêt de l’adolescent ou à l’intérêt public.
+> 2002, ch. 1, art. 110; 2012, ch. 1, art. 189.
+
 
 
 
@@ -2953,6 +2949,10 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 - **(1)** Le corps de police qui a mené une enquête sur une infraction imputée à un adolescent, ou qui a participé à une telle enquête, peut tenir un dossier relatif à celle-ci comportant, notamment, l’original ou une reproduction des empreintes digitales ou de toute photographie de l’adolescent.
 
+**Mesures extrajudiciaires**
+
+- **(1.1)** Il incombe au corps de police de tenir un dossier à l’égard des mesures extrajudiciaires qu’il prend à l’endroit de tout adolescent.
+
 **Dépôt du dossier de police**
 
 - **(2)** Lorsqu’un adolescent est inculpé d’une infraction pour laquelle l’adulte qui l’aurait commise aurait pu être soumis aux mensurations et autres opérations prévues par la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md), le corps de police qui a mené l’enquête peut communiquer à la Gendarmerie royale du Canada le dossier relatif à l’infraction. Si l’adolescent est déclaré coupable de l’infraction, le corps de police est alors tenu de lui communiquer le dossier.
@@ -2960,6 +2960,8 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **Répertoire de la Gendarmerie royale du Canada**
 
 - **(3)** La Gendarmerie royale du Canada conserve les dossiers qui lui sont communiqués en vertu du paragraphe (2) dans un répertoire central désigné par le commissaire de la Gendarmerie royale du Canada aux fins de conservation soit d’antécédents criminels ou de dossiers sur des contrevenants, soit de renseignements permettant de les identifier.
+> 2002, ch. 1, art. 115; 2012, ch. 1, art. 190.
+
 
 
 
@@ -3012,7 +3014,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **119** 
 
-- **(1)** Sous réserve des paragraphes (4) à (6), lorsqu’elles en font la demande, les personnes ci-après, à compter de la création du dossier jusqu’à l’expiration de la période applicable visée au paragraphe (2), ont accès aux dossiers tenus en application de l’article 114 et peuvent avoir accès aux dossiers tenus en application des articles 115 et 116 :
+- **(1)** Sous réserve des paragraphes (4) à (6), lorsqu’elles en font la demande, les personnes ci-après, à compter de la création du dossier jusqu’à l’expiration de la période applicable visée au paragraphe (2), ont accès aux dossiers tenus en application de l’article 114 et peuvent avoir accès aux dossiers tenus en application des articles 115 et 116 :
 	- **a)** l’adolescent qui fait l’objet du dossier;
 	- **b)** l’avocat de l’adolescent ou son représentant;
 	- **c)** le procureur général;
@@ -3026,23 +3028,23 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 	- **k)** toute personne occupant les fonctions d’ombudsman, de commissaire à la vie privée ou de commissaire à l’information, quelle que soit sa désignation officielle, en vue d’exercer les attributions qui lui sont confiées en vertu d’une loi fédérale ou provinciale dans le cadre d’une enquête portant sur une plainte relative au dossier;
 	- **l)** tout coroner ou toute personne occupant les fonctions de conseiller à l’enfance, quelle que soit sa désignation officielle, en vue d’exercer les attributions qui lui sont confiées en vertu d’une loi fédérale ou provinciale;
 	- **m)** toute personne, pour l’application de la [Loi sur les armes à feu](/fr/Lois/Lois%20du%20Canada/1995/ch.%2039.md);
-	- **n)** tout membre du personnel ou mandataire d’un ministère ou d’un organisme public canadien ou tout membre du personnel d’une organisation avec qui un tel ministère ou organisme a conclu une entente, en vue, selon le cas :
+	- **n)** tout membre du personnel ou mandataire d’un ministère ou d’un organisme public canadien ou tout membre du personnel d’une organisation avec qui un tel ministère ou organisme a conclu une entente, en vue, selon le cas :
 		- **(i)** d’exercer ses attributions sous le régime de la présente loi,
 		- **(ii)** de surveiller l’adolescent ou de s’en occuper même devenu adulte, ou de mener une enquête à son égard en vertu d’une loi provinciale sur la protection de la jeunesse,
 		- **(iii)** d’examiner une demande de libération sous condition ou une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) présentée par l’adolescent même devenu adulte,
 		- **(iv)** de veiller à l’observation d’une ordonnance d’interdiction rendue sous le régime d’une loi fédérale ou provinciale,
 		- **(v)** d’appliquer une peine spécifique purgée sous garde dans un établissement correctionnel provincial pour adultes ou un pénitencier;
-	- **o)** toute personne, pour vérifier l’existence d’un casier judiciaire dans le cas où la vérification est exigée par le gouvernement du Canada ou par une municipalité en matière de recrutement de personnel ou de bénévoles ou de fourniture de services;
+	- **o)** toute personne, pour vérifier l’existence d’un casier judiciaire dans le cas où la vérification est exigée par le gouvernement du Canada ou d’une province ou par une municipalité en matière de recrutement de personnel ou de bénévoles ou de fourniture de services;
 	- **p)** tout employé ou mandataire du gouvernement fédéral, à des fins statistiques prévues par la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
 	- **q)** tout accusé ou avocat de celui-ci, sur dépôt d’une déclaration sous serment attestant la nécessité d’avoir accès au dossier pour pouvoir présenter une défense pleine et entière;
 	- **r)** toute personne désignée — à titre individuel ou au titre de son appartenance à une catégorie déterminée — par le gouverneur en conseil ou le lieutenant-gouverneur en conseil d’une province à une fin précisée et dans la mesure autorisée par l’un ou l’autre, selon le cas;
-	- **s)** toute autre personne — à titre individuel ou au titre de son appartenance à une catégorie déterminée — que le juge du tribunal pour adolescents estime avoir un intérêt légitime dans le dossier, dans la mesure qu’il autorise, s’il est convaincu qu’il est souhaitable d’y donner accès :
+	- **s)** toute autre personne — à titre individuel ou au titre de son appartenance à une catégorie déterminée — que le juge du tribunal pour adolescents estime avoir un intérêt légitime dans le dossier, dans la mesure qu’il autorise, s’il est convaincu qu’il est souhaitable d’y donner accès :
 		- **(i)** soit dans l’intérêt public, à des fins de recherche ou de statistiques,
 		- **(ii)** soit dans l’intérêt de la bonne administration de la justice.
 
 **Période d’accès**
 
-- **(2)** La période d’accès mentionnée au paragraphe (1) est :
+- **(2)** La période d’accès mentionnée au paragraphe (1) est :
 	- **a)** si l’adolescent a fait l’objet d’une sanction extrajudiciaire, de deux ans à compter du moment où celui-ci consent à collaborer à sa mise en oeuvre conformément à l’alinéa 10(2)c);
 	- **b)** s’il est acquitté de l’infraction visée par le dossier, pour une raison autre qu’un verdict de non-responsabilité criminelle pour cause de troubles mentaux, de deux mois à compter de l’expiration du délai d’appel ou de trois mois à compter de l’issue de toutes les procédures d’appel;
 	- **c)** si l’accusation est rejetée autrement que par acquittement ou est retirée, ou que l’adolescent est déclaré coupable de l’infraction et fait l’objet d’une réprimande, de deux mois à compter du rejet, du retrait ou de la déclaration de culpabilité;
@@ -3051,7 +3053,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 	- **f)** si l’adolescent est déclaré coupable de l’infraction et fait l’objet d’une absolution sous conditions, de trois ans à compter de la déclaration de culpabilité;
 	- **g)** sous réserve des alinéas i) et j) et du paragraphe (9), si l’adolescent est déclaré coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, de trois ans à compter de l’exécution complète de la peine spécifique relative à cette infraction;
 	- **h)** sous réserve des alinéas i) et j) et du paragraphe (9), si l’adolescent est déclaré coupable d’un acte criminel, de cinq ans à compter de l’exécution complète de la peine spécifique relative à cet acte criminel;
-	- **i)** sous réserve du paragraphe (9), si, au cours de la période visée aux alinéas g) ou h), l’adolescent est déclaré coupable d’une infraction punissable sur déclaration sommaire de culpabilité, celle des périodes suivantes qui expire la dernière :
+	- **i)** sous réserve du paragraphe (9), si, au cours de la période visée aux alinéas g) ou h), l’adolescent est déclaré coupable d’une infraction punissable sur déclaration sommaire de culpabilité, celle des périodes suivantes qui expire la dernière :
 		- **(i)** la période visée aux alinéas g) ou h), selon le cas,
 		- **(ii)** trois ans à compter de l’exécution complète de la peine spécifique relative à cette infraction;
 	- **j)** sous réserve du paragraphe (9), si, au cours de la période visée aux alinéas g) ou h), l’adolescent est déclaré coupable d’un acte criminel, de cinq ans à compter de l’exécution complète de la peine relative à cet acte criminel.
@@ -3062,7 +3064,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Dossiers relatifs à certaines mesures extrajudiciaires**
 
-- **(4)** Seules les personnes mentionnées ci-après ont accès au dossier tenu en application des articles 115 ou 116 à l’égard des mesures extrajudiciaires, à l’exception des sanctions extrajudiciaires, dont a fait l’objet un adolescent, et uniquement dans les cas suivants :
+- **(4)** Seules les personnes mentionnées ci-après ont accès au dossier tenu en application des articles 115 ou 116 à l’égard des mesures extrajudiciaires, à l’exception des sanctions extrajudiciaires, dont a fait l’objet un adolescent, et uniquement dans les cas suivants :
 	- **a)** un agent de la paix ou le procureur général, pour décider s’il convient d’avoir encore recours à de telles mesures à l’égard de l’adolescent;
 	- **b)** un membre d’un groupe consultatif, pour décider laquelle de ces mesures convient en l’espèce;
 	- **c)** un agent de la paix, le procureur général ou un membre d’un groupe consultatif, lorsque l’accès s’avère nécessaire pour traiter du cas visé par le dossier;
@@ -3086,17 +3088,17 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Application des règles générales**
 
-- **(9)** Si, au cours de la période visée aux alinéas (2)g) à j), l’adolescent devenu adulte est déclaré coupable d’une infraction :
+- **(9)** Si, au cours de la période visée aux alinéas (2)g) à j), l’adolescent devenu adulte est déclaré coupable d’une infraction :
 	- **a)** l’article 82 (effet d’une absolution inconditionnelle ou de l’expiration de la période d’application des peines) ne s’applique pas à lui à l’égard de l’infraction visée par le dossier tenu en application des articles 114 à 116;
 	- **b)** la présente partie ne s’applique plus au dossier et celui-ci est traité comme s’il était un dossier d’adulte;
 	- **c)** pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), la déclaration de culpabilité à l’égard de l’infraction visée par le dossier est réputée être une condamnation.
 
 **Dossier relatif à une infraction entraînant une ordonnance d’interdiction**
 
-- **(10)** Par dérogation aux autres dispositions de la présente loi, lorsque l’adolescent est déclaré coupable d’une infraction qui entraîne une ordonnance d’interdiction et que celle-ci est toujours en vigueur à l’expiration de la période applicable visée au paragraphe (2) :
+- **(10)** Par dérogation aux autres dispositions de la présente loi, lorsque l’adolescent est déclaré coupable d’une infraction qui entraîne une ordonnance d’interdiction et que celle-ci est toujours en vigueur à l’expiration de la période applicable visée au paragraphe (2) :
 	- **a)** les dossiers de la Gendarmerie royale du Canada visés au paragraphe 115(3) ne peuvent être communiqués que pour établir l’existence de l’ordonnance en vue du contrôle d’application de la loi;
 	- **b)** les dossiers visés à l’article 114 tenus par le tribunal pour adolescents à l’égard de l’ordonnance ne peuvent être communiqués que pour établir l’existence de l’ordonnance en cas d’infraction contrevenant à celle-ci.
-> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157.
+> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157 et 191(F).
 
 
 
@@ -3122,8 +3124,8 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 **Périodes d’accès**
 
 - **(3)** La période pendant laquelle les personnes mentionnées aux paragraphes (1) et (2) peuvent avoir accès au dossier tenu en application du paragraphe 115(3) est :
-	- **a)** dans le cas d’un adolescent déclaré coupable d’un acte criminel, à l’exception d’une infraction désignée, de cinq ans à compter de l’expiration de la période applicable visée aux alinéas 119(2)h) à j);
-	- **b)** dans le cas d’un adolescent déclaré coupable d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1) ou d’une infraction visée à l’alinéa b) de cette définition à l’égard de laquelle le procureur général a donné l’avis prévu au paragraphe 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes), une période indéfinie à compter de l’expiration de la période applicable visée aux alinéas 119(2)h) à j).
+	- **a)** dans le cas d’un adolescent déclaré coupable d’un acte criminel, à l’exception d’une infraction visée à l’alinéa b), de cinq ans à compter de l’expiration de la période applicable visée aux alinéas 119(2)h) à j);
+	- **b)** dans le cas d’un adolescent déclaré coupable d’une infraction grave avec violence à l’égard de laquelle le procureur général a donné l’avis prévu au paragraphe 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes), une période indéfinie à compter de l’expiration de la période applicable visée aux alinéas 119(2)h) à j).
 
 **Récidive : adolescents**
 
@@ -3144,7 +3146,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(6)** Si, au cours de la période applicable visée au paragraphe (3), l’adolescent devenu adulte est à nouveau déclaré coupable d’une infraction mentionnée à l’annexe :
 	- **a)** la présente partie ne s’applique plus au dossier, et celui-ci est traité comme s’il était un dossier d’adulte et peut être versé au fichier automatisé des relevés des condamnations criminelles géré par la Gendarmerie royale du Canada;
 	- **b)** pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), la déclaration de culpabilité à l’égard de l’infraction visée par le dossier est réputée être une condamnation.
-> 2002, ch. 1, art. 120; 2012, ch. 1, art. 158.
+> 2002, ch. 1, art. 120; 2012, ch. 1, art. 158 et 192.
 
 
 
@@ -3891,13 +3893,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 
 
 
-
-**Infractions commises avant l’entrée en vigueur du présent article**
-
-**160** Toute personne qui, avant l’entrée en vigueur du présent article, a commis, alors qu’elle était dans l’adolescence, une infraction qui n’a fait l’objet d’aucune poursuite avant cette entrée en vigueur doit faire l’objet des mesures prévues par la présente loi, comme si l’infraction avait été commise après cette entrée en vigueur, sauf que :
-- **a)** l’alinéa 62a) ne s’applique qu’à une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1) commise par un adolescent âgé d’au moins seize ans;
-- **b)** l’alinéa 110(2)b) ne s’applique pas à l’infraction;
-- **c)** l’alinéa 42(2)r) ne s’applique à l’infraction que si l’adolescent y consent.
+**160** [Abrogé, 2012, ch. 1, art. 193]
 
 
 
@@ -3923,7 +3919,9 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 
 **Dépôt d’une dénonciation ou d’un acte d’accusation**
 
-**162** Pour l’application des articles 158 à 160, les poursuites sont intentées à compter du dépôt de la dénonciation ou de l’acte d’accusation.
+**162** Pour l’application des articles 158 et 159, les poursuites sont intentées par dépôt de la dénonciation ou de l’acte d’accusation.
+> 2002, ch. 1, art. 162; 2012, ch. 1, art. 194.
+
 
 
 
