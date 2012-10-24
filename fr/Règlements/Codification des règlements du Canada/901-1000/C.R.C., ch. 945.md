@@ -50073,7 +50073,6 @@ par
 - Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, Californie
-- American Graduate School of International Management, Glendale, Arizona
 - American International College, Springfield, Massachussetts
 - American Jewish University, Bel Air, Californie
 - American University, The, Washington, District de Columbia
@@ -50133,7 +50132,6 @@ par
 - Central Michigan University, Mount Pleasant, Michigan
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
 - Christendom College, Front Royal, Virginie
-- City University, Bellevue, Washington
 - City University of New York, The, John Jay College of Criminal Justice, New York, New York
 - City University of Seattle, Bellevue, Washington
 - Claremont McKenna College, Claremont, Californie
@@ -50316,18 +50314,14 @@ par
 - Pacific Lutheran University, Tacoma, Washington
 - Pacific Union College, Angwin, Californie
 - Pacific University, Forest Grove, Oregon
-- Palm Beach Atlantic College, West Palm Beach, Floride
 - Palm Beach Atlantic University, West Palm Beach, Floride
 - Palmer College of Chiropractic, Davenport, Iowa
 - Palmer College of Chiropractic-West, San Jose, Californie
-- Palmer College of Chiropractic-West, Sunnyvale, Californie
-- Park College, Kansas City, Missouri
 - Park University, Parkville, Missouri
 - Pennsylvania College of Podiatric Medicine, Philadelphie, Pennsylvanie
 - Pennsylvania State University, The, University Park, Pennsylvanie
 - Pepperdine University, Malibu, Californie
 - Philadelphia Biblical University, Langhorne, Pennsylvanie
-- Philadelphia College of Bible, Langhorne, Pennsylvanie
 - Philadelphia University, Philadelphie, Pennsylvanie
 - Pine Manor College, Chestnut Hill, Massachusetts
 - Pomona College, Claremont, Californie
@@ -50342,7 +50336,6 @@ par
 - Rabbinical Seminary of America, Forest Hills, New York
 - Reconstructionist Rabbinical College, Wyncote, Pennsylvanie
 - Reed College, Portland, Oregon
-- Reformed Bible College, Grand Rapids, Michigan
 - Reformed Theological Seminary, Jackson, Mississippi
 - Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
@@ -50371,7 +50364,6 @@ par
 - Scripps Research Institute, The, La Jolla, Californie
 - Seattle Pacific University, Seattle, Washington
 - Seattle University, Seattle, Washington
-- Sherman College of Straight Chiropractic, Spartanburg, Caroline du Sud
 - Simmons College, Boston, Massachusetts
 - Simpson College, Indianola, Iowa
 - Simpson College, Redding, Californie
@@ -50382,10 +50374,8 @@ par
 - Southern Adventist University, Collegedale, Tennessee
 - Southern Illinois University of Carbondale, Carbondale, Illinois
 - Southern Methodist University, Dallas, Texas
-- Southwestern Adventist College, Keene, Texas
 - Southwestern Adventist University, Keene, Texas
 - Spring Arbor College, Spring Arbor, Michigan
-- Springfield College, Springfield, Massachusetts
 - State University College at Oswego, Oswego, New York
 - State University College at Potsdam, Potsdam, New York
 - State University of New York at Binghamton, Binghamton, New York
@@ -50395,7 +50385,6 @@ par
 - State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
 - Stephens College, Columbia, Missouri
 - Stevens Institute of Technology, Hoboken, New Jersey
-- Sunbridge College, Chestnut Ridge, New York
 - Swarthmore College, Swarthmore, Pennsylvania
 - Syracuse University, Syracuse, New York
 - Tabor College, Hillsboro, Kansas
@@ -50456,7 +50445,6 @@ par
 - University of Idaho, Moscow, Idaho
 - University of Illinois, Urbana, Illinois
 - University of Iowa, Iowa City, Iowa
-- University of Judaism, Los Angeles, Californie
 - University of Kansas, Lawrence, Kansas
 - University of Kentucky, Lexington, Kentucky
 - University of Maine, Orono, Maine
@@ -50513,10 +50501,8 @@ par
 - Wayne State University, Detroit, Michigan
 - Wellesley College, Wellesley, Massachusetts
 - Wesleyan University, Middletown, Connecticut
-- Western Baptist College, Salem, Oregon
 - Western Conservative Baptist Seminary, Portland, Oregon
 - Western Michigan University, Kalamazoo, Michigan
-- Western States Chiropractic College, Portland, Oregon
 - Western University of Health Sciences, Pomona, Californie
 - Western Washington University, Bellingham, Washington
 - Westfield State College, Westfield, Massachusetts
@@ -50528,7 +50514,6 @@ par
 - Whitman College, Walla Walla, Washington
 - Whittier College, Whittier, Californie
 - Whitworth College, Spokane, Washington
-- William Tyndale College, Farmington Hills, Michigan
 - Williams College, Williamstown, Massachusetts
 - Wittenberg University, Springfield, Ohio
 - Woods Hole Oceanographic Institution, Woods Hole, Massachusetts
@@ -50595,7 +50580,6 @@ par
 
 
 **4** Les universités situées en Autriche qui sont prescrites par l’article 3503 sont les suivantes :
-- L’Université de Vienne, Vienne
 - WU Vienna University of Economics and Business, Vienna
 
 
@@ -50615,7 +50599,6 @@ par
 
 **8** Les universités situées en Israël qui sont prescrites par l’article 3503 sont les suivantes :
 - École biblique et archéologique française, Jérusalem
-- Institut Weizmann des Sciences, Rehovot
 - Jerusalem College for Women, Bayit-Vegan, Jerusalem
 - Jerusalem College of Technology, Jerusalem
 - L’Université Bar-Ilan, Ramat-Gan
@@ -50674,18 +50657,15 @@ par
 - Queensland University of Technology, Brisbane
 - University of Melbourne, The, Parkville
 - University of Queensland, The, Brisbane
-- University of Sydney, The, Sydney
 - University of Tasmania, Hobart
 
 
-**18** L’université suivante, située en Croatie, est désignée pour l’application de l’article 3503 :
-- University of Zagreb, Zagreb
+**18** [Abrogé, DORS/2012-218, art. 8]
 
 
 **19** Les universités suivantes, situées en Afrique du Sud, sont désignées pour l’application de l’article 3503 :
 - University of Cape Town, Rondebosch
 - University of KwaZulu-Natal, Durban
-- University of Natal, Durban
 - University of the Witwatersrand, The, Johannesburg
 
 
@@ -50719,7 +50699,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1, 2, 5 à 7 et 9.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9.
 
 
 
