@@ -50248,7 +50248,6 @@ by
 - Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, California
-- American Graduate School of International Management, Glendale, Arizona
 - American International College, Springfield, Massachusetts
 - American Jewish University, Bel Air, California
 - American University, The, Washington, District of Columbia
@@ -50308,7 +50307,6 @@ by
 - Central Michigan University, Mount Pleasant, Michigan
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
 - Christendom College, Front Royal, Virginia
-- City University, Bellevue, Washington
 - City University of New York, The, John Jay College of Criminal Justice, New York, New York
 - City University of Seattle, Bellevue, Washington
 - Claremont McKenna College, Claremont, California
@@ -50491,18 +50489,14 @@ by
 - Pacific Lutheran University, Tacoma, Washington
 - Pacific Union College, Angwin, California
 - Pacific University, Forest Grove, Oregon
-- Palm Beach Atlantic College, West Palm Beach, Florida
 - Palm Beach Atlantic University, West Palm Beach, Florida
 - Palmer College of Chiropractic, Davenport, Iowa
 - Palmer College of Chiropractic-West, San Jose, California
-- Palmer College of Chiropractic-West, Sunnyvale, California
-- Park College, Kansas City, Missouri
 - Park University, Parkville, Missouri
 - Pennsylvania College of Podiatric Medicine, Philadelphia, Pennsylvania
 - Pennsylvania State University, The, University Park, Pennsylvania
 - Pepperdine University, Malibu, California
 - Philadelphia Biblical University, Langhorne, Pennsylvania
-- Philadelphia College of Bible, Langhorne, Pennsylvania
 - Philadelphia University, Philadelphia, Pennsylvania
 - Pine Manor College, Chestnut Hill, Massachusetts
 - Pomona College, Claremont, California
@@ -50517,7 +50511,6 @@ by
 - Rabbinical Seminary of America, Forest Hills, New York
 - Reconstructionist Rabbinical College, Wyncote, Pennsylvania
 - Reed College, Portland, Oregon
-- Reformed Bible College, Grand Rapids, Michigan
 - Reformed Theological Seminary, Jackson, Mississippi
 - Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
@@ -50546,7 +50539,6 @@ by
 - Scripps Research Institute, The, La Jolla, California
 - Seattle Pacific College, Seattle, Washington
 - Seattle Pacific University, Seattle, Washington
-- Sherman College of Straight Chiropractic, Spartonburq, South Carolina
 - Simmons College, Boston, Massachusetts
 - Simpson College, Indianola, Iowa
 - Simpson College, Redding, California
@@ -50557,10 +50549,8 @@ by
 - Southern Adventist University, Collegedale, Tennessee
 - Southern Illinois University of Carbondale, Carbondale, Illinois
 - Southern Methodist University, Dallas, Texas
-- Southwestern Adventist College, Keene, Texas
 - Southwestern Adventist University, Keene, Texas
 - Spring Arbor College, Spring Arbor, Michigan
-- Springfield College, Springfield, Massachusetts
 - State University College at Oswego, Oswego, New York
 - State University College at Potsdam, Potsdam, New York
 - State University of New York at Binghamton, Binghamton, New York
@@ -50570,7 +50560,6 @@ by
 - State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
 - Stephens College, Columbia, Missouri
 - Stevens Institute of Technology, Hoboken, New Jersey
-- Sunbridge College, Chestnut Ridge, New York
 - Swarthmore College, Swarthmore, Pennsylvania
 - Syracuse University, Syracuse, New York
 - Tabor College, Hillsboro, Kansas
@@ -50631,7 +50620,6 @@ by
 - University of Idaho, Moscow, Idaho
 - University of Illinois, Urbana, Illinois
 - University of Iowa, Iowa City, Iowa
-- University of Judaism, Los Angeles, California
 - University of Kansas, Lawrence, Kansas
 - University of Kentucky, Lexington, Kentucky
 - University of Maine, Orono, Maine
@@ -50688,10 +50676,8 @@ by
 - Wayne State University, Detroit, Michigan
 - Wellesley College, Wellesley, Massachusetts
 - Wesleyan University, Middletown, Connecticut
-- Western Baptist College, Salem, Oregon
 - Western Conservative Baptist Seminary, Portland, Oregon
 - Western Michigan University, Kalamazoo, Michigan
-- Western States Chiropractic College, Portland, Oregon
 - Western University of Health Sciences, Pomona, California
 - Western Washington University, Bellingham, Washington
 - Westfield State College, Westfield, Massachusetts
@@ -50704,7 +50690,6 @@ by
 - Whitman College, Walla Walla, Washington
 - Whittier College, Whittier, California
 - Whitworth College, Spokane, Washington
-- William Tyndale College, Farmington Hills, Michigan
 - Williams College, Willamstown, Massachusetts
 - Wittenberg University, Springfield, Ohio
 - Woods Hole Oceanographic Institution, Woods Hole, Massachusetts
@@ -50771,7 +50756,6 @@ by
 
 
 **4** The universities situated in Austria that are prescribed by section 3503 are the following:
-- University of Vienna, Vienna
 - WU Vienna University of Economics and Business, Vienna
 
 
@@ -50799,7 +50783,6 @@ by
 - Technion-Israel Institute of Technology, Haifa
 - Tel-Aviv University, Tel-Aviv
 - University of Haifa, Haifa
-- Weizmann Institute of Science, Rehovot
 - Yeshivat Aish Hatorah, Jerusalem
 
 
@@ -50850,18 +50833,15 @@ by
 - Queensland University of Technology, Brisbane
 - University of Melbourne, The, Parkville
 - University of Queensland, The, Brisbane
-- University of Sydney, The, Sydney
 - University of Tasmania, Hobart
 
 
-**18** The university situated in the Republic of Croatia that is prescribed by section 3503 is the following:
-- University of Zagreb, Zagreb
+**18** [Repealed, SOR/2012-218, s. 8]
 
 
 **19** The universities situated in South Africa that are prescribed by section 3503 are the following:
 - University of Cape Town, Rondebosch
 - University of KwaZulu-Natal, Durban
-- University of Natal, Durban
 - University of the Witwatersrand, The, Johannesburg
 
 
@@ -50895,7 +50875,7 @@ by
 - University of Tartu, Tartu
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1, 2, 5 to 7, 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9.
 
 
 
