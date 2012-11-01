@@ -8166,7 +8166,13 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **126** Hydrazine, dont la formule moléculaire est N<sub>2</sub>H<sub>4</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219.
+**127** Hexabromocyclododécane, dont la formule moléculaire est C<sub>12</sub>H<sub>18</sub>Br<sub>6</sub>
+
+
+**128** Quinoléine, dont la formule moléculaire est C<sub>9</sub>H<sub>7</sub>N
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235.
 
 
 
