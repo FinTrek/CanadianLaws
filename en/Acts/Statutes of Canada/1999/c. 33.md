@@ -8450,7 +8450,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **126** Hydrazine, which has the molecular formula N<sub>2</sub>H<sub>4</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219.
+**127** Hexabromocyclododecane, which has the molecular formula C<sub>12</sub>H<sub>18</sub>Br<sub>6</sub>
+
+
+**128** Quinoline, which has the molecular formula C<sub>9</sub>H<sub>7</sub>N
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235.
 
 
 
