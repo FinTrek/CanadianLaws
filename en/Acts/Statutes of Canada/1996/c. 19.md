@@ -209,7 +209,17 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Punishment**
 
 - **(3)** Every person who contravenes subsection (1) or (2)
-	- **(a)** subject to subsection (4), where the subject-matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life;
+	- **(a)** subject to paragraph (a.1), if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life, and
+		- **(i)** to a minimum punishment of imprisonment for a term of one year if
+			- **(A)** the person committed the offence for the benefit of, at the direction of or in association with a criminal organization, as defined in subsection 467.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+			- **(B)** the person used or threatened to use violence in committing the offence,
+			- **(C)** the person carried, used or threatened to use a weapon in committing the offence, or
+			- **(D)** the person was convicted of a designated substance offence, or had served a term of imprisonment for a designated substance offence, within the previous 10 years, or
+		- **(ii)** to a minimum punishment of imprisonment for a term of two years if
+			- **(A)** the person committed the offence in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of 18 years,
+			- **(B)** the person committed the offence in a prison, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or on its grounds, or
+			- **(C)** the person used the services of a person under the age of 18 years, or involved such a person, in committing the offence;
+	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II in an amount that is not more than the amount set out for that substance in Schedule VII, is guilty of an indictable offence and liable to imprisonment for a term of not more than five years less a day;
 	- **(b)** where the subject-matter of the offence is a substance included in Schedule III,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
@@ -217,17 +227,17 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
 
-**Punishment in respect of specified substance**
-
-- **(4)** Every person who contravenes subsection (1) or (2), where the subject-matter of the offence is a substance included in Schedule II in an amount that does not exceed the amount set out for that substance in Schedule VII, is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years less a day.
+- **(4)** [Repealed, 2012, c. 1, s. 39]
 
 **Interpretation**
 
-- **(5)** For the purposes of applying subsection (3) or (4) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III or IV includes a reference to any substance represented or held out to be a substance included in that Schedule.
+- **(5)** For the purposes of applying subsection (3) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III or IV includes a reference to any substance represented or held out to be a substance included in that Schedule.
 
 **Interpretation**
 
-- **(6)** For the purposes of subsection (4) and Schedule VII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance.
+- **(6)** For the purposes of paragraph (3)(a.1) and Schedule VII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance.
+> 1996, c. 19, s. 5; 2012, c. 1, s. 39.
+
 
 
 
@@ -245,13 +255,19 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Punishment**
 
 - **(3)** Every person who contravenes subsection (1) or (2)
-	- **(a)** where the subject-matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life;
+	- **(a)** if the subject matter of the offence is a substance included in Schedule I in an amount that is not more than one kilogram, or in Schedule II, is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment for a term of one year if
+		- **(i)** the offence is committed for the purposes of trafficking,
+		- **(ii)** the person, while committing the offence, abused a position of trust or authority, or
+		- **(iii)** the person had access to an area that is restricted to authorized persons and used that access to commit the offence;
+	- **(a.1)** if the subject matter of the offence is a substance included in Schedule I in an amount that is more than one kilogram, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of two years;
 	- **(b)** where the subject-matter of the offence is a substance included in Schedule III or VI,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
 	- **(c)** where the subject-matter of the offence is a substance included in Schedule IV or V,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
+> 1996, c. 19, s. 6; 2012, c. 1, s. 40.
+
 
 
 
@@ -265,14 +281,33 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Punishment**
 
 - **(2)** Every person who contravenes subsection (1)
-	- **(a)** where the subject-matter of the offence is a substance included in Schedule I or II, other than cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for life;
-	- **(b)** where the subject-matter of the offence is cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for a term not exceeding seven years;
+	- **(a)** if the subject matter of the offence is a substance included in Schedule I, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of three years if any of the factors set out in subsection (3) apply and for a term of two years in any other case;
+	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II, other than cannabis (marijuana), is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment
+		- **(i)** for a term of one year if the production is for the purpose of trafficking, or
+		- **(ii)** for a term of 18 months if the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply;
+	- **(b)** if the subject matter of the offence is cannabis (marijuana), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years, and to a minimum punishment of
+		- **(i)** imprisonment for a term of six months if the number of plants produced is less than 201 and more than five, and the production is for the purpose of trafficking,
+		- **(ii)** imprisonment for a term of nine months if the number of plants produced is less than 201 and more than five, the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply,
+		- **(iii)** imprisonment for a term of one year if the number of plants produced is more than 200 and less than 501,
+		- **(iv)** imprisonment for a term of 18 months if the number of plants produced is more than 200 and less than 501 and any of the factors set out in subsection (3) apply,
+		- **(v)** imprisonment for a term of two years if the number of plants produced is more than 500, or
+		- **(vi)** imprisonment for a term of three years if the number of plants produced is more than 500 and any of the factors set out in subsection (3) apply;
 	- **(c)** where the subject-matter of the offence is a substance included in Schedule III,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
 	- **(d)** where the subject-matter of the offence is a substance included in Schedule IV,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
+
+**Factors**
+
+- **(3)** The following factors must be taken into account in applying paragraphs (2)(a) to (b):
+	- **(a)** the person used real property that belongs to a third party in committing the offence;
+	- **(b)** the production constituted a potential security, health or safety hazard to persons under the age of 18 years who were in the location where the offence was committed or in the immediate area;
+	- **(c)** the production constituted a potential public safety hazard in a residential area; or
+	- **(d)** the person set or placed a trap, device or other thing that is likely to cause death or bodily harm to another person in the location where the offence was committed or in the immediate area, or permitted such a trap, device or other thing to remain or be placed in that location or area.
+> 1996, c. 19, s. 7; 2012, c. 1, s. 41.
+
 
 
 
@@ -291,7 +326,35 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 
 
-**8. and 9** [Repealed, 2001, c. 32, s. 48]
+
+### Notice
+
+
+
+**Notice**
+
+**8** The court is not required to impose a minimum punishment unless it is satisfied that the offender, before entering a plea, was notified of the possible imposition of a minimum punishment for the offence in question and of the Attorney General’s intention to prove any factors in relation to the offence that would lead to the imposition of a minimum punishment.
+> 2012, c. 1, s. 42.
+
+
+
+
+
+### Report to Parliament
+
+
+
+**Review**
+
+**9** 
+
+- **(1)** Within five years after this section comes into force, a comprehensive review of the provisions and operation of this Act, including a cost-benefit analysis of mandatory minimum sentences, shall be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
+
+**Report**
+
+- **(2)** The committee referred to in subsection (1) shall, within one year after a review is undertaken under that subsection, submit a report to Parliament including a statement of any changes that the committee recommends.
+> 2012, c. 1, s. 42.
+
 
 
 
@@ -306,9 +369,9 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 - **(1)** Without restricting the generality of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the fundamental purpose of any sentence for an offence under this Part is to contribute to the respect for the law and the maintenance of a just, peaceful and safe society while encouraging rehabilitation, and treatment in appropriate circumstances, of offenders and acknowledging the harm done to victims and to the community.
 
-**Circumstances to take into consideration**
+**Factors to take into consideration**
 
-- **(2)** If a person is convicted of a designated substance offence, the court imposing sentence on the person shall consider any relevant aggravating factors including that the person
+- **(2)** If a person is convicted of a designated substance offence for which the court is not required to impose a minimum punishment, the court imposing sentence on the person shall consider any relevant aggravating factors including that the person
 	- **(a)** in relation to the commission of the offence,
 		- **(i)** carried, used or threatened to use a weapon,
 		- **(ii)** used or threatened to use violence,
@@ -320,7 +383,17 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Reasons**
 
 - **(3)** If, under subsection (1), the court is satisfied of the existence of one or more of the aggravating factors enumerated in paragraphs (2)(a) to (c), but decides not to sentence the person to imprisonment, the court shall give reasons for that decision.
-> 1996, c. 19, s. 10; 1999, c. 5, s. 49.
+
+**Drug treatment court program**
+
+- **(4)** A court sentencing a person who is convicted of an offence under this Part may delay sentencing to enable the offender
+	- **(a)** to participate in a drug treatment court program approved by the Attorney General; or
+	- **(b)** to attend a treatment program under subsection 720(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Minimum punishment**
+
+- **(5)** If the offender successfully completes a program under subsection (4), the court is not required to impose the minimum punishment for the offence for which the person was convicted.
+> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43.
 
 
 
@@ -1390,624 +1463,190 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 ### **SCHEDULE I** 
 **(Sections 2 to 7, 29, 55 and 60)**
-**1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
-
-**(1)** Opium
-
-
-
-**(2)** Codeine (methylmorphine)
-
-
-
-**(3)** Morphine (7,8–didehydro–4,5–epoxy–17–methylmorphinan–3,6–diol)
-
-
-
-**(4)** Thebaine (paramorphine)
-
-
-
-and the salts, derivatives and salts of derivatives of the substances set out in subitems (1) to (4), including:
-
-
-
-**(5)** Acetorphine (acetyletorphine)
-
-
-
-**(6)** Acetyldihydrocodeine (4,5–epoxy–3–methoxy–17–methylmorphinan–6–ol acetate)
-
-
-
-**(7)** Benzylmorphine (7,8–didehydro–4,5–epoxy–17–methyl–3–(phenylmethoxy) morphinan–6–ol)
-
-
-
-**(8)** Codoxime (dihydrocodeinone O–(carboxymethyl) oxime)
-
-
-
-**(9)** Desomorphine (dihydrodeoxymorphine)
-
-
-
-**(10)** Diacetylmorphine (heroin)
-
-
-
-**(11)** Dihydrocodeine (4,5–epoxy–3–methoxy–17–methylmorphinan–6–ol)
-
-
-
-**(12)** Dihydromorphine (4,5–epoxy–17–methylmorphinan–3,6–diol)
-
-
-
-**(13)** Ethylmorphine (7,8–didehydro–4,5–epoxy–3–ethoxy–17–methylmorphinan–6–ol)
-
-
-
-**(14)** Etorphine (tetrahydro–7α–(1–hydroxy–1–methyl-butyl)–6,14–endo–ethenooripavine)
-
-
-
-**(15)** Hydrocodone (dihydrocodeinone)
-
-
-
-**(16)** Hydromorphinol (dihydro–14–hydroxymorphine)
-
-
-
-**(17)** Hydromorphone (dihydromorphinone)
-
-
-
-**(18)** Methyldesorphine (Δ6–deoxy–6–methylmorphine)
-
-
-
-**(19)** Methyldihydromorphine (dihydro–6–methylmorphine)
-
-
-
-**(20)** Metopon (dihydromethylmorphinone)
-
-
-
-**(21)** Morphine–N–oxide (morphine oxide)
-
-
-
-**(22)** Myrophine (benzylmorphine myristate)
-
-
-
-**(23)** Nalorphine (N–allylnormorphine)
-
-
-
-**(24)** Nicocodine (6–nicotinylcodeine)
-
-
-
-**(25)** Nicomorphine (dinicotinylmorphine)
-
-
-
-**(26)** Norcodeine (N–desmethylcodeine)
-
-
-
-**(27)** Normorphine (N–desmethylmorphine)
-
-
-
-**(28)** Oxycodone (dihydrohydroxycodeinone)
-
-
-
-**(29)** Oxymorphone (dihydrohydroxymorphinone)
-
-
-
-**(30)** Pholcodine (3–[2–(4–morpholinyl)ethyl]morphine)
-
-
-
-**(31)** Thebacon (acetyldihydrocodeinone)
-
-
-
-but not including
-
-
-
-**(32)** Apomorphine (5,6,6a,7–tetrahydro–6–methyl–4H–dibenzo[de,g]quinoline–10,11–diol)
-
-
-
-**(33)** Cyprenorphine (N–(cyclopropylmethyl)–6,7,8,14–tetrahydro–7α–(1–hydroxy–1–methylethyl)–6,14–endo–ethenonororipavine)
-
-
-
-**(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
-
-
-
-**(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
-
-
-
-**(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
-
-
-
-**(35)** Narcotine (6,7–dimethoxy–3–(5,6,7,8–tetra-hydro–4–methoxy–6–methyl–1,3–dioxolos [4,5–g]isoquinolin–5–yl)–1(3H)–isobenzofuranone)
-
-
-
-**(36)** Papaverine (1–[(3,4–dimethoxyphenyl)methyl]–6,7–dimethoxyisoquinoline)
-
-
-
-**(37)** Poppy seed
-
-
-
-
-**2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
-
-**(1)** Coca leaves
-
-
-
-**(2)** Cocaine (benzoylmethylecgonine)
-
-
-
-**(3)** Ecgonine (3–hydroxy–2–tropane carboxylic acid)
-
-
-
-
-**3** Phenylpiperidines, their intermediates, salts, derivatives and analogues and salts of intermediates, derivatives and analogues, including:
-
-**(1)** Allylprodine (3–allyl–1–methyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(2)** Alphameprodine (α–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(3)** Alphaprodine (α–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(4)** Anileridine (ethyl 1–[2–(p–aminophenyl)ethyl]–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(5)** Betameprodine (ß–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(6)** Betaprodine (ß–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(7)** Benzethidine (ethyl 1–(2–benzyloxyethyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(8)** Diphenoxylate (ethyl 1–(3–cyano–3,3–diphenylpropyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(9)** Difenoxin (1–(3–cyano–3,3–diphenylpropyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(10)** Etoxeridine (ethyl 1–[2–(2–hydroxyethoxy) ethyl]–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(11)** Furethidine (ethyl 1–(2–tetrahydrofurfury loxyethyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(12)** Hydroxypethidine (ethyl 4–(m–hydroxyphenyl)–1–methylpiperidine–4–carboxylate)
-
-
-
-**(13)** Ketobemidone (1–[4–(m–hydroxyphenyl)–1–methyl–4–piperidyl]–1–propanone)
-
-
-
-**(14)** Methylphenylisonipecotonitrile (4–cyano–1–methyl–4–phenylpiperidine)
-
-
-
-**(15)** Morpheridine (ethyl 1–(2–morpholinoethyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(16)** Norpethidine (ethyl 4–phenylpiperidine–4–carboxylate)
-
-
-
-**(17)** Pethidine (ethyl 1–methyl–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(18)** Phenoperidine (ethyl 1–(3–hydroxy–3–phenylpropyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(19)** Piminodine (ethyl 1–[3–(phenylamino)propyl]–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(20)** Properidine (isopropyl 1–methyl–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(21)** Trimeperidine (1,2,5–trimethyl–4–phenyl–4–piperidinol propionate)
-
-
-
-**(22)** Pethidine Intermediate C (1–methyl–4–phenylpiperidine–4–carboxylate)
-
-
-
-but not including
-
-
-
-**(23)** Carbamethidine (ethyl 1–(2–carbamylethyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-**(24)** Oxpheneridine (ethyl 1–(2–hydroxy–2–phenylethyl)–4–phenylpiperidine–4–carboxylate)
-
-
-
-
-**4** Phenazepines, their salts, derivatives and salts of derivatives including:
-
-**(1)** Proheptazine (hexahydro–1,3–dimethyl–4–phenyl–1H–azepin–4–ol propionate)
-
-
-
-but not including
-
-
-
-**(2)** Ethoheptazine (ethyl hexahydro–1–methyl–4–phenyl–azepine–4–carboxylate)
-
-
-
-**(3)** Metethoheptazine (ethyl hexahydro–1,3–dimethyl–4–phenylazepine–4–carboxylate)
-
-
-
-**(4)** Metheptazine (ethyl hexahydro–1,2–dimethyl–4–phenylazepine–4–carboxylate)
-
-
-
-
-**5** Amidones, their intermediates, salts, derivatives and salts of intermediates and derivatives including:
-
-**(1)** Dimethylaminodiphenylbutanonitrile (4–cyano–2–dimethylamino–4,4–diphenylbutane)
-
-
-
-**(2)** Dipipanone (4,4–diphenyl–6–piperidino–3–heptanone)
-
-
-
-**(3)** Isomethadone (6–dimethylamino–5–methyl–4,4–diphenyl–3–hexanone)
-
-
-
-**(4)** Methadone (6–dimethylamino–4,4–diphenyl–3–heptanone)
-
-
-
-**(5)** Normethadone (6–dimethylamino–4,4–diphenyl–3–hexanone)
-
-
-
-**(6)** Norpipanone (4,4–diphenyl–6–piperidino–3–hexanone)
-
-
-
-**(7)** Phenadoxone (6–morpholino–4,4–diphenyl–3–heptanone)
-
-
-
-
-**6** Methadols, their salts, derivatives and salts of derivatives including:
-
-**(1)** Acetylmethadol (6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
-
-
-
-**(2)** Alphacetylmethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
-
-
-
-**(3)** Alphamethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol)
-
-
-
-**(4)** Betacetylmethadol (ß–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
-
-
-
-**(5)** Betamethadol (ß–6–dimethylamino–4,4–diphenyl–3–heptanol)
-
-
-
-**(6)** Dimepheptanol (6–dimethylamino–4,4–diphenyl–3–heptanol)
-
-
-
-**(7)** Noracymethadol (α–6–methylamino–4,4–diphenyl–3–heptanol acetate)
-
-
-
-
-**7** Phenalkoxams, their salts, derivatives and salts of derivatives including:
-
-**(1)** Dimenoxadol (dimethylaminoethyl 1–ethoxy–1,1–diphenylacetate)
-
-
-
-**(2)** Dioxaphetyl butyrate (ethyl 2,2–diphenyl–4–morpholinobutyrate)
-
-
-
-**(3)** Dextropropoxyphene ([S–(R*,S*)]–α–[2–(dimethylamino)–1–methylethyl]–α–phenylbenzeneethanol, propanoate ester)
-
-
-
-
-**8** Thiambutenes, their salts, derivatives and salts of derivatives including:
-
-**(1)** Diethylthiambutene (N,N–diethyl–1–methyl–3,3–di–2–thienylallylamine)
-
-
-
-**(2)** Dimethylthiambutene (N,N,1–trimethyl–3,3–di–2–thienylallylamine)
-
-
-
-**(3)** Ethylmethylthiambutene (N–ethyl–N,1–dimethyl–3,3–di–2–thienylallylamine)
-
-
-
-
-**9** Moramides, their intermediates, salts, derivatives and salts of intermediates and derivatives including:
-
-**(1)** Dextromoramide (d–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl)pyrrolidine)
-
-
-
-**(2)** Diphenylmorpholinoisovaleric acid (2–methyl–3–morpholino–1,1–diphenylpropionic acid)
-
-
-
-**(3)** Levomoramide (l–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl)pyrrolidine)
-
-
-
-**(4)** Racemoramide (d,l–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl) pyrrolidine)
-
-
-
-
-**10** Morphinans, their salts, derivatives and salts of derivatives including:
-
-**(1)** Buprenorphine (17–(cyclopropylmethyl)–α–(1,1–dimethylethyl)–4,5–epoxy–18,19–dihydro–3–hydroxy–6–methoxy–α–methyl–6,14–ethenomorphinan–7–methanol)
-
-
-
-**(2)** Drotebanol (6ß,14–dihydroxy–3,4–dimethoxy–17–methylmorphinan)
-
-
-
-**(3)** Levomethorphan (l–3–methoxy–17–methylmorphinan)
-
-
-
-**(4)** Levorphanol (l–3–hydroxy–17–methylmorphinan)
-
-
-
-**(5)** Levophenacylmorphan (l–3–hydroxy–17–phenacylmorphinan)
-
-
-
-**(6)** Norlevorphanol (l–3–hydroxymorphinan)
-
-
-
-**(7)** Phenomorphan (3–hydroxy–17–(2–phenylethyl)morphinan)
-
-
-
-**(8)** Racemethorphan (d,1–3–methoxy–17–methylmorphinan)
-
-
-
-**(9)** Racemorphan (*d,l*–3–hydroxy–N–methylmorphinan)
-
-
-
-but not including
-
-
-
-**(10)** Dextromethorphan (d–1,2,3,9,10,10a–hexahydro–6–methoxy–11–methyl–4H–10,4a–iminoethano–phenanthren)
-
-
-
-**(11)** Dextrorphan (d–1,2,3,9,10,10a–hexahydro–11–methyl–4H–10,4a–iminoethanophenanthren–6–ol)
-
-
-
-**(12)** Levallorphan (l–11–allyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
-
-
-
-**(13)** Levargorphan (l–11–propargyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
-
-
-
-**(14)** Butorphanol (17–(cyclobutylmethyl)morphinan–3,14–diol)
-
-
-
-**(15)** Nalbuphine (17–(cyclobutylmethyl)–4,5α–epoxymorphinan–3,6α, 14–triol)
-
-
-
-
-**11** Benzazocines, their salts, derivatives and salts of derivatives including:
-
-**(1)** Phenazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–phenethyl–2,6–methano–3–benzazocin–8–ol)
-
-
-
-**(2)** Metazocine (1,2,3,4,5,6–hexahydro–3,6,11–trimethyl–2,6–methano–3–benzazocin–8–ol)
-
-
-
-**(3)** Pentazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(3–methyl–2–butenyl)–2,6–methano–3–benzazocin–8–ol)
-
-
-
-but not including
-
-
-
-**(4)** Cyclazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(cyclopropylmethyl)–2,6–methano–3–benzazocin–8–ol)
-
-
-
-
-**12** Ampromides, their salts, derivatives and salts of derivatives including:
-
-**(1)** Diampromide (N–[2–(methylphenethylamino)propyl] propionanilide)
-
-
-
-**(2)** Phenampromide (N–(1–methyl–2–piperidino) ethyl) propionanilide)
-
-
-
-**(3)** Propiram (N–(1–methyl–2–piperidinoethyl)–N–2–pyridylpropionamide)
-
-
-
-
-**13** Benzimidazoles, their salts, derivatives and salts of derivatives including:
-
-**(1)** Clonitazene (2–(p–chlorobenzyl)–1–diethylaminoethyl–5–nitrobenzimidazole)
-
-
-
-**(2)** Etonitazene (2–(p–ethoxybenzyl)–1–diethylaminoethyl–5–nitrobenzimidazole)
-
-
-
-**(3)** Bezitramide (1–(3–cyano–3,3–diphenylpropyl)–4–(2–oxo–3–propionyl–1–benzimidazolinyl)–piperidine)
-
-
-
-
-**14** Phencyclidine (1-(1-phenylcyclohexyl)piperidine), its salts, derivatives and analogues and salts of derivatives and analogues, including:
-
-**(1)** Ketamine (2-(2-chlorophenyl)-2-(methylamino)cyclohexanone)
-
-
-
-
-**15** Piritramide (1–(3–cyano–3,3–diphenylpropyl)–4–(1–piperidino)piperidine–4–carboxylic acid amide), its salts, derivatives and salts of derivatives
-
-
-**16** Fentanyls, their salts, derivatives, and analogues and salts of derivatives and analogues, including:
-
-**(1)** Acetyl–α–methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] acetanilide)
-
-
-
-**(2)** Alfentanil (N–[1–[2–(4–ethyl–4,5–dihydro–5–oxo–1H–tetrazol–1–yl)ethyl]–4–(methoxymethyl)–4–piperidyl]propionanilide)
-
-
-
-**(3)** Carfentanil (methyl 4–[(1–oxopropyl)phenylamino]–1–(2–phenethyl)–4–piperidinecarboxylate)
-
-
-
-**(4)** p–Fluorofentanyl (4′fluoro–N–(1–phenethyl–4–piperidyl) propionanilide)
-
-
-
-**(5)** Fentanyl (N–(1–phenethyl–4–piperidyl) propionanilide)
-
-
-
-**(6)** ß–Hydroxyfentanyl (N–[1–(ß–hydroxyphenethyl)–4–piperidyl] propionanilide)
-
-
-
-**(7)** ß–Hydroxy–3–methylfentanyl (N–[1–(ß–hydroxyphenethyl)–3–methyl–4–piperidyl] propionanilide)
-
-
-
-**(8)** α–Methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] propionanilide)
-
-
-
-**(9)** α–Methylthiofentanyl (N–[1–[1–methyl–2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
-
-
-
-**(10)** 3–Methylfentanyl (N–(3–methyl–1–phenethyl–4–piperidyl) propionanilide)
-
-
-
-**(11)** 3–Methylthiofentanyl (N–[3–methyl–1–[2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
-
-
-
-**(11.1)** Remifentanil (dimethyl 4-carboxy-4-(N-phenylpropionamido)-1-piperidinepropionate)
-
-
-
-**(12)** Sufentanil (N–[4–(methoxymethyl)–1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
-
-
-
-**(13)** Thiofentanyl (N–[1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
-
-
-
-
-**17** Tilidine (ethyl2–(dimethylamino)–1–phenyl–3–cyclohexene–1–carboxylate), its salts, derivatives and salts of derivatives
-
-
-**17.1** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-
-
-**18** Methamphetamine (N,α-dimethylbenzeneethanamine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-
-
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; SOR/2012-176.
+- **1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
+- **(1)** Opium
+- **(2)** Codeine (methylmorphine)
+- **(3)** Morphine (7,8–didehydro–4,5–epoxy–17–methylmorphinan–3,6–diol)
+- **(4)** Thebaine (paramorphine)
+- and the salts, derivatives and salts of derivatives of the substances set out in subitems (1) to (4), including:
+- **(5)** Acetorphine (acetyletorphine)
+- **(6)** Acetyldihydrocodeine (4,5–epoxy–3–methoxy–17–methylmorphinan–6–ol acetate)
+- **(7)** Benzylmorphine (7,8–didehydro–4,5–epoxy–17–methyl–3–(phenylmethoxy) morphinan–6–ol)
+- **(8)** Codoxime (dihydrocodeinone O–(carboxymethyl) oxime)
+- **(9)** Desomorphine (dihydrodeoxymorphine)
+- **(10)** Diacetylmorphine (heroin)
+- **(11)** Dihydrocodeine (4,5–epoxy–3–methoxy–17–methylmorphinan–6–ol)
+- **(12)** Dihydromorphine (4,5–epoxy–17–methylmorphinan–3,6–diol)
+- **(13)** Ethylmorphine (7,8–didehydro–4,5–epoxy–3–ethoxy–17–methylmorphinan–6–ol)
+- **(14)** Etorphine (tetrahydro–7α–(1–hydroxy–1–methyl-butyl)–6,14–endo–ethenooripavine)
+- **(15)** Hydrocodone (dihydrocodeinone)
+- **(16)** Hydromorphinol (dihydro–14–hydroxymorphine)
+- **(17)** Hydromorphone (dihydromorphinone)
+- **(18)** Methyldesorphine (Δ6–deoxy–6–methylmorphine)
+- **(19)** Methyldihydromorphine (dihydro–6–methylmorphine)
+- **(20)** Metopon (dihydromethylmorphinone)
+- **(21)** Morphine–N–oxide (morphine oxide)
+- **(22)** Myrophine (benzylmorphine myristate)
+- **(23)** Nalorphine (N–allylnormorphine)
+- **(24)** Nicocodine (6–nicotinylcodeine)
+- **(25)** Nicomorphine (dinicotinylmorphine)
+- **(26)** Norcodeine (N–desmethylcodeine)
+- **(27)** Normorphine (N–desmethylmorphine)
+- **(28)** Oxycodone (dihydrohydroxycodeinone)
+- **(29)** Oxymorphone (dihydrohydroxymorphinone)
+- **(30)** Pholcodine (3–[2–(4–morpholinyl)ethyl]morphine)
+- **(31)** Thebacon (acetyldihydrocodeinone)
+- but not including
+- **(32)** Apomorphine (5,6,6a,7–tetrahydro–6–methyl–4H–dibenzo[de,g]quinoline–10,11–diol)
+- **(33)** Cyprenorphine (N–(cyclopropylmethyl)–6,7,8,14–tetrahydro–7α–(1–hydroxy–1–methylethyl)–6,14–endo–ethenonororipavine)
+- **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
+- **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
+- **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
+- **(35)** Narcotine (6,7–dimethoxy–3–(5,6,7,8–tetra-hydro–4–methoxy–6–methyl–1,3–dioxolos [4,5–g]isoquinolin–5–yl)–1(3H)–isobenzofuranone)
+- **(36)** Papaverine (1–[(3,4–dimethoxyphenyl)methyl]–6,7–dimethoxyisoquinoline)
+- **(37)** Poppy seed
+- **2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
+- **(1)** Coca leaves
+- **(2)** Cocaine (benzoylmethylecgonine)
+- **(3)** Ecgonine (3–hydroxy–2–tropane carboxylic acid)
+- **3** Phenylpiperidines, their intermediates, salts, derivatives and analogues and salts of intermediates, derivatives and analogues, including:
+- **(1)** Allylprodine (3–allyl–1–methyl–4–phenyl–4–piperidinol propionate)
+- **(2)** Alphameprodine (α–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
+- **(3)** Alphaprodine (α–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
+- **(4)** Anileridine (ethyl 1–[2–(p–aminophenyl)ethyl]–4–phenylpiperidine–4–carboxylate)
+- **(5)** Betameprodine (ß–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
+- **(6)** Betaprodine (ß–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
+- **(7)** Benzethidine (ethyl 1–(2–benzyloxyethyl)–4–phenylpiperidine–4–carboxylate)
+- **(8)** Diphenoxylate (ethyl 1–(3–cyano–3,3–diphenylpropyl)–4–phenylpiperidine–4–carboxylate)
+- **(9)** Difenoxin (1–(3–cyano–3,3–diphenylpropyl)–4–phenylpiperidine–4–carboxylate)
+- **(10)** Etoxeridine (ethyl 1–[2–(2–hydroxyethoxy) ethyl]–4–phenylpiperidine–4–carboxylate)
+- **(11)** Furethidine (ethyl 1–(2–tetrahydrofurfury loxyethyl)–4–phenylpiperidine–4–carboxylate)
+- **(12)** Hydroxypethidine (ethyl 4–(m–hydroxyphenyl)–1–methylpiperidine–4–carboxylate)
+- **(13)** Ketobemidone (1–[4–(m–hydroxyphenyl)–1–methyl–4–piperidyl]–1–propanone)
+- **(14)** Methylphenylisonipecotonitrile (4–cyano–1–methyl–4–phenylpiperidine)
+- **(15)** Morpheridine (ethyl 1–(2–morpholinoethyl)–4–phenylpiperidine–4–carboxylate)
+- **(16)** Norpethidine (ethyl 4–phenylpiperidine–4–carboxylate)
+- **(17)** Pethidine (ethyl 1–methyl–4–phenylpiperidine–4–carboxylate)
+- **(18)** Phenoperidine (ethyl 1–(3–hydroxy–3–phenylpropyl)–4–phenylpiperidine–4–carboxylate)
+- **(19)** Piminodine (ethyl 1–[3–(phenylamino)propyl]–4–phenylpiperidine–4–carboxylate)
+- **(20)** Properidine (isopropyl 1–methyl–4–phenylpiperidine–4–carboxylate)
+- **(21)** Trimeperidine (1,2,5–trimethyl–4–phenyl–4–piperidinol propionate)
+- **(22)** Pethidine Intermediate C (1–methyl–4–phenylpiperidine–4–carboxylate)
+- but not including
+- **(23)** Carbamethidine (ethyl 1–(2–carbamylethyl)–4–phenylpiperidine–4–carboxylate)
+- **(24)** Oxpheneridine (ethyl 1–(2–hydroxy–2–phenylethyl)–4–phenylpiperidine–4–carboxylate)
+- **4** Phenazepines, their salts, derivatives and salts of derivatives including:
+- **(1)** Proheptazine (hexahydro–1,3–dimethyl–4–phenyl–1H–azepin–4–ol propionate)
+- but not including
+- **(2)** Ethoheptazine (ethyl hexahydro–1–methyl–4–phenyl–azepine–4–carboxylate)
+- **(3)** Metethoheptazine (ethyl hexahydro–1,3–dimethyl–4–phenylazepine–4–carboxylate)
+- **(4)** Metheptazine (ethyl hexahydro–1,2–dimethyl–4–phenylazepine–4–carboxylate)
+- **5** Amidones, their intermediates, salts, derivatives and salts of intermediates and derivatives including:
+- **(1)** Dimethylaminodiphenylbutanonitrile (4–cyano–2–dimethylamino–4,4–diphenylbutane)
+- **(2)** Dipipanone (4,4–diphenyl–6–piperidino–3–heptanone)
+- **(3)** Isomethadone (6–dimethylamino–5–methyl–4,4–diphenyl–3–hexanone)
+- **(4)** Methadone (6–dimethylamino–4,4–diphenyl–3–heptanone)
+- **(5)** Normethadone (6–dimethylamino–4,4–diphenyl–3–hexanone)
+- **(6)** Norpipanone (4,4–diphenyl–6–piperidino–3–hexanone)
+- **(7)** Phenadoxone (6–morpholino–4,4–diphenyl–3–heptanone)
+- **6** Methadols, their salts, derivatives and salts of derivatives including:
+- **(1)** Acetylmethadol (6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
+- **(2)** Alphacetylmethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
+- **(3)** Alphamethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol)
+- **(4)** Betacetylmethadol (ß–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
+- **(5)** Betamethadol (ß–6–dimethylamino–4,4–diphenyl–3–heptanol)
+- **(6)** Dimepheptanol (6–dimethylamino–4,4–diphenyl–3–heptanol)
+- **(7)** Noracymethadol (α–6–methylamino–4,4–diphenyl–3–heptanol acetate)
+- **7** Phenalkoxams, their salts, derivatives and salts of derivatives including:
+- **(1)** Dimenoxadol (dimethylaminoethyl 1–ethoxy–1,1–diphenylacetate)
+- **(2)** Dioxaphetyl butyrate (ethyl 2,2–diphenyl–4–morpholinobutyrate)
+- **(3)** Dextropropoxyphene ([S–(R*,S*)]–α–[2–(dimethylamino)–1–methylethyl]–α–phenylbenzeneethanol, propanoate ester)
+- **8** Thiambutenes, their salts, derivatives and salts of derivatives including:
+- **(1)** Diethylthiambutene (N,N–diethyl–1–methyl–3,3–di–2–thienylallylamine)
+- **(2)** Dimethylthiambutene (N,N,1–trimethyl–3,3–di–2–thienylallylamine)
+- **(3)** Ethylmethylthiambutene (N–ethyl–N,1–dimethyl–3,3–di–2–thienylallylamine)
+- **9** Moramides, their intermediates, salts, derivatives and salts of intermediates and derivatives including:
+- **(1)** Dextromoramide (d–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl)pyrrolidine)
+- **(2)** Diphenylmorpholinoisovaleric acid (2–methyl–3–morpholino–1,1–diphenylpropionic acid)
+- **(3)** Levomoramide (l–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl)pyrrolidine)
+- **(4)** Racemoramide (d,l–1–(3–methyl–4–morpholino–2,2–diphenylbutyryl) pyrrolidine)
+- **10** Morphinans, their salts, derivatives and salts of derivatives including:
+- **(1)** Buprenorphine (17–(cyclopropylmethyl)–α–(1,1–dimethylethyl)–4,5–epoxy–18,19–dihydro–3–hydroxy–6–methoxy–α–methyl–6,14–ethenomorphinan–7–methanol)
+- **(2)** Drotebanol (6ß,14–dihydroxy–3,4–dimethoxy–17–methylmorphinan)
+- **(3)** Levomethorphan (l–3–methoxy–17–methylmorphinan)
+- **(4)** Levorphanol (l–3–hydroxy–17–methylmorphinan)
+- **(5)** Levophenacylmorphan (l–3–hydroxy–17–phenacylmorphinan)
+- **(6)** Norlevorphanol (l–3–hydroxymorphinan)
+- **(7)** Phenomorphan (3–hydroxy–17–(2–phenylethyl)morphinan)
+- **(8)** Racemethorphan (d,1–3–methoxy–17–methylmorphinan)
+- **(9)** Racemorphan (*d,l*–3–hydroxy–N–methylmorphinan)
+- but not including
+- **(10)** Dextromethorphan (d–1,2,3,9,10,10a–hexahydro–6–methoxy–11–methyl–4H–10,4a–iminoethano–phenanthren)
+- **(11)** Dextrorphan (d–1,2,3,9,10,10a–hexahydro–11–methyl–4H–10,4a–iminoethanophenanthren–6–ol)
+- **(12)** Levallorphan (l–11–allyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
+- **(13)** Levargorphan (l–11–propargyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
+- **(14)** Butorphanol (17–(cyclobutylmethyl)morphinan–3,14–diol)
+- **(15)** Nalbuphine (17–(cyclobutylmethyl)–4,5α–epoxymorphinan–3,6α, 14–triol)
+- **11** Benzazocines, their salts, derivatives and salts of derivatives including:
+- **(1)** Phenazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–phenethyl–2,6–methano–3–benzazocin–8–ol)
+- **(2)** Metazocine (1,2,3,4,5,6–hexahydro–3,6,11–trimethyl–2,6–methano–3–benzazocin–8–ol)
+- **(3)** Pentazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(3–methyl–2–butenyl)–2,6–methano–3–benzazocin–8–ol)
+- but not including
+- **(4)** Cyclazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(cyclopropylmethyl)–2,6–methano–3–benzazocin–8–ol)
+- **12** Ampromides, their salts, derivatives and salts of derivatives including:
+- **(1)** Diampromide (N–[2–(methylphenethylamino)propyl] propionanilide)
+- **(2)** Phenampromide (N–(1–methyl–2–piperidino) ethyl) propionanilide)
+- **(3)** Propiram (N–(1–methyl–2–piperidinoethyl)–N–2–pyridylpropionamide)
+- **13** Benzimidazoles, their salts, derivatives and salts of derivatives including:
+- **(1)** Clonitazene (2–(p–chlorobenzyl)–1–diethylaminoethyl–5–nitrobenzimidazole)
+- **(2)** Etonitazene (2–(p–ethoxybenzyl)–1–diethylaminoethyl–5–nitrobenzimidazole)
+- **(3)** Bezitramide (1–(3–cyano–3,3–diphenylpropyl)–4–(2–oxo–3–propionyl–1–benzimidazolinyl)–piperidine)
+- **14** Phencyclidine (1-(1-phenylcyclohexyl)piperidine), its salts, derivatives and analogues and salts of derivatives and analogues, including:
+- **(1)** Ketamine (2-(2-chlorophenyl)-2-(methylamino)cyclohexanone)
+- **15** Piritramide (1–(3–cyano–3,3–diphenylpropyl)–4–(1–piperidino)piperidine–4–carboxylic acid amide), its salts, derivatives and salts of derivatives
+- **16** Fentanyls, their salts, derivatives, and analogues and salts of derivatives and analogues, including:
+- **(1)** Acetyl–α–methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] acetanilide)
+- **(2)** Alfentanil (N–[1–[2–(4–ethyl–4,5–dihydro–5–oxo–1H–tetrazol–1–yl)ethyl]–4–(methoxymethyl)–4–piperidyl]propionanilide)
+- **(3)** Carfentanil (methyl 4–[(1–oxopropyl)phenylamino]–1–(2–phenethyl)–4–piperidinecarboxylate)
+- **(4)** p–Fluorofentanyl (4′fluoro–N–(1–phenethyl–4–piperidyl) propionanilide)
+- **(5)** Fentanyl (N–(1–phenethyl–4–piperidyl) propionanilide)
+- **(6)** ß–Hydroxyfentanyl (N–[1–(ß–hydroxyphenethyl)–4–piperidyl] propionanilide)
+- **(7)** ß–Hydroxy–3–methylfentanyl (N–[1–(ß–hydroxyphenethyl)–3–methyl–4–piperidyl] propionanilide)
+- **(8)** α–Methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] propionanilide)
+- **(9)** α–Methylthiofentanyl (N–[1–[1–methyl–2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
+- **(10)** 3–Methylfentanyl (N–(3–methyl–1–phenethyl–4–piperidyl) propionanilide)
+- **(11)** 3–Methylthiofentanyl (N–[3–methyl–1–[2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
+- **(11.1)** Remifentanil (dimethyl 4-carboxy-4-(N-phenylpropionamido)-1-piperidinepropionate)
+- **(12)** Sufentanil (N–[4–(methoxymethyl)–1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
+- **(13)** Thiofentanyl (N–[1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
+- **17** Tilidine (ethyl2–(dimethylamino)–1–phenyl–3–cyclohexene–1–carboxylate), its salts, derivatives and salts of derivatives
+- **17.1** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+- **18** Methamphetamine (N,α-dimethylbenzeneethanamine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+- **19** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues including:
+- **(1)** amphetamine (α-methylbenzene-ethanamine)
+- **(2)** N-ethylamphetamine (N-ethyl-α-methylbenzeneethanamine)
+- **(3)** 4-methyl-2,5-dimethoxyamphetamine (STP) (2,5-dimethoxy-4,α-dimethylbenzeneethanamine)
+- **(4)** 3,4-methylenedioxyamphetamine (MDA) (α-methyl-1,3-benzodioxole-5-ethanamine)
+- **(5)** 2,5-dimethoxyamphetamine (2,5-dimethoxy-α-methylbenzene-ethanamine)
+- **(6)** 4-methoxyamphetamine (4-methoxy-α-methylbenzene­ethanamine)
+- **(7)** 2,4,5-trimethoxyamphetamine (2,4,5-trimethoxy-α-methylbenzene­ethanamine)
+- **(8)** N-methyl-3,4-methylenedioxy- amphetamine (N,α-dimethyl-1,3-benzodioxole-5-ethanamine)
+- **(9)** 4-ethoxy-2,5-dimethoxyamphetamine (4-ethoxy-2,5-dimethoxy-α-methylbenzeneethanamine)
+- **(10)** 5-methoxy-3,4-methylenedioxy- amphetamine (7-methoxy-α-methyl-1,3-benzo­dioxole-5-ethanamine)
+- **(11)** N,N-dimethyl-3,4-methylenedioxyamphetamine (N,N, α-trimethyl-1,3-benzodioxole-5-ethanamine)
+- **(12)** N-ethyl-3,4-methylenedioxyamphetamine (N-ethyl-α-methyl-1,3-benzo­dioxole-5-ethanamine)
+- **(13)** 4-ethyl-2,5-dimethoxyamphetamine (DOET) (4-ethyl-2,5-dimethoxy-α-methylbenzeneethanamine)
+- **(14)** 4-bromo-2,5-dimethoxyamphetamine (4-bromo-2,5-dimethoxy-α-methylbenzeneethanamine)
+- **(15)** 4-chloro-2,5-dimethoxyamphetamine (4-chloro-2,5-dimethoxy-α-methyl-benzeneethanamine)
+- **(16)** 4-ethoxyamphetamine (4-ethoxy-α-methylbenzene­ethanamine)
+- **(17)** Benzphetamine (N-benzyl-N,α-dimethylbenzene­ethanamine)
+- **(18)** N-Propyl-3,4-methylenedioxy- amphetamine (α-methyl-N-propyl-1,3-benzo­dioxole-5-ethanamine)
+- **(19)** N-(2-Hydroxyethyl)-α-meth-ylbenzene­ethanamine
+- **(20)** N-hydroxy-3,4-methylenedioxy- amphetamine (N-[α-methyl-3,4-(methylenedioxy)phenethyl]hydroxyla­mine)
+- **(21)** 3,4,5-trimethoxyamphetamine (3,4,5-trimethoxy-α-methylbenzene­ethanamine)
+- **20** Flunitrazepam (5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one) and any of its salts or derivatives
+- **21** 4-hydroxybutanoic acid (GHB) and any of its salts
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176.
 
 
 
@@ -2068,205 +1707,40 @@ but not including
 
 ### **SCHEDULE III** 
 **(Sections 2 to 7, 29, 55 and 60)**
-**1** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues including:
-
-**(1)** amphetamine (α–methylbenzeneethanamine)
-
-
-
-**(2)** [Repealed, SOR/2005–235, s. 2]
-
-
-
-**(3)** N–ethylamphetamine (N–ethyl–α–methylbenzeneethanamine)
-
-
-
-**(4)** 4–methyl–2,5–dimethoxyamphetamine (STP) (2,5–dimethoxy–4,α–dimethylbenzeneethanamine)
-
-
-
-**(5)** 3,4–methylenedioxyamphetamine (MDA) (α–methyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(6)** 2,5–dimethoxyamphetamine (2,5–dimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(7)** 4–methoxyamphetamine (4–methoxy–α–methylbenzeneethanamine)
-
-
-
-**(8)** 2,4,5–trimethoxyamphetamine (2,4,5–trimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(9)** N–methyl–3,4–methylenedioxyamphetamine (N,α–dimethyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(10)** 4–ethoxy–2,5–dimethoxyamphetamine (4–ethoxy–2,5–dimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(11)** 5–methoxy–3,4–methylenedioxyamphetamine (7–methoxy–α–methyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(12)** N,N–dimethyl–3,4–methylenedioxyamphetamine (N,N, α–trimethyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(13)** N–ethyl–3,4–methylenedioxyamphetamine (N–ethyl–α–methyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(14)** 4–ethyl–2,5–dimethoxyamphetamine (DOET) (4–ethyl–2,5–dimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(15)** 4–bromo–2,5–dimethoxyamphetamine (4–bromo–2,5–dimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(16)** 4–chloro–2,5–dimethoxyamphetamine (4–chloro–2,5–dimethoxy–α–methylbenzeneethanamine)
-
-
-
-**(17)** 4–ethoxyamphetamine (4–ethoxy–α–methylbenzeneethanamine)
-
-
-
-**(18)** Benzphetamine (N–benzyl–N,α–dimethylbenzeneethanamine)
-
-
-
-**(19)** N–Propyl–3,4–methylenedioxyamphetamine (α–methyl–N–propyl–1,3–benzodioxole–5–ethanamine)
-
-
-
-**(20)** N–(2–Hydroxyethyl)–α–methylbenzeneethanamine
-
-
-
-**(21)** N-hydroxy-3,4-methylenedioxyamphetamine (N-[α-methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine)
-
-
-
-**(22)** 3,4,5-trimethoxyamphetamine (3,4,5-trimethoxy-α-methylbenzeneethanamine)
-
-
-
-but not including
-
-
-
-**(23)** Methamphetamine (N,α-dimethylbenzeneethanamine)
-
-
-
-
-**2** Methylphenidate (α–phenyl–2–piperidineacetic acid methyl ester) and any salt thereof
-
-
-**3** Methaqualone (2–methyl–3–(2–methylphenyl)–4(3H)–quinazolinone) and any salt thereof
-
-
-**4** Mecloqualone (2–methyl–3–(2–chlorophenyl)–4(3H)–quinazolinone) and any salt thereof
-
-
-**5** Lysergic acid diethylamide (LSD) (N,N–diethyllysergamide) and any salt thereof
-
-
-**6** N,N–Diethyltryptamine (DET) (3–[(2–diethylamino) ethyl]indole) and any salt thereof
-
-
-**7** N,N–Dimethyltryptamine (DMT) (3–[(2–dimethylamino) ethyl]indole) and any salt thereof
-
-
-**8** N–Methyl–3–piperidyl benzilate (LBJ) (3–[(hydroxydiphenylacetyl)oxy]–1–methylpiperidine) and any salt thereof
-
-
-**9** Harmaline (4,9–dihydro–7–methoxy–1–methyl–3H–pyrido(3,4–b)indole) and any salt thereof
-
-
-**10** Harmalol (4,9–dihydro–1–methyl–3H–pyrido(3,4–b)indol–7–ol) and any salt thereof
-
-
-**11** Psilocin (3–[2–(dimethylamino)ethyl]–4–hydroxyindole) and any salt thereof
-
-
-**12** Psilocybin (3–[2–(dimethylamino)ethyl]–4–phosphoryloxyindole) and any salt thereof
-
-
-**13** N–(1–phenylcyclohexyl)ethylamine (PCE) and any salt thereof
-
-
-**14** 1–[1–(2–Thienyl) cyclohexyl]piperidine (TCP) and any salt thereof
-
-
-**15** 1–Phenyl–N–propylcyclohexanamine and any salt thereof
-
-
-**16** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
-
-
-**17** Mescaline (3,4,5–trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
-
-
-**18** 4–Methylaminorex (4,5–dihydro–4–methyl–5–phenyl–2–oxazolamine) and any salt thereof
-
-
-**19** Cathinone ((–)–α–aminopropiophenone) and any salt thereof
-
-
-**20** Fenetylline (d,l–3,7–dihydro–1,3–dimethyl–7–(2–[(1–methyl–2–phenethyl)amino]ethyl)–1H–purine–2, 6–dione) and any salt thereof
-
-
-**21** 2–Methylamino–1–phenyl–1–propanone and any salt thereof
-
-
-**22** 1–[1–(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
-
-
-**23** 1–[1–(4–Methylphenyl)cyclohexyl]piperidine and any salt thereof
-
-
-**24** 4–bromo–2,5–dimethoxybenzeneethanamine and any salt, isomer or salt of isomer thereof
-
-
-**25** Flunitrazepam (5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one) and any salts or derivatives thereof
-
-
-**26** 4-hydroxybutanoic acid (GHB) and any salt thereof
-
-
-**27** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
-
-
-**28** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
-
-
-**29** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine) and any salt thereof
-
-
-**30** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
-
-
-**31** Zipeprol (4-(2-methoxy-2-phenylethyl)-α-(methoxyphenylmethyl)-1-piperazineethanol) and any salt thereof
-
-
-**32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
-
-
-**33** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
-
-
-**34** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
-
-
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; SOR/2012-66.
+- **1** [Repealed, 2012, c. 1, s. 45]
+- **2** Methylphenidate (α–phenyl–2–piperidineacetic acid methyl ester) and any salt thereof
+- **3** Methaqualone (2–methyl–3–(2–methylphenyl)–4(3H)–quinazolinone) and any salt thereof
+- **4** Mecloqualone (2–methyl–3–(2–chlorophenyl)–4(3H)–quinazolinone) and any salt thereof
+- **5** Lysergic acid diethylamide (LSD) (N,N–diethyllysergamide) and any salt thereof
+- **6** N,N–Diethyltryptamine (DET) (3–[(2–diethylamino) ethyl]indole) and any salt thereof
+- **7** N,N–Dimethyltryptamine (DMT) (3–[(2–dimethylamino) ethyl]indole) and any salt thereof
+- **8** N–Methyl–3–piperidyl benzilate (LBJ) (3–[(hydroxydiphenylacetyl)oxy]–1–methylpiperidine) and any salt thereof
+- **9** Harmaline (4,9–dihydro–7–methoxy–1–methyl–3H–pyrido(3,4–b)indole) and any salt thereof
+- **10** Harmalol (4,9–dihydro–1–methyl–3H–pyrido(3,4–b)indol–7–ol) and any salt thereof
+- **11** Psilocin (3–[2–(dimethylamino)ethyl]–4–hydroxyindole) and any salt thereof
+- **12** Psilocybin (3–[2–(dimethylamino)ethyl]–4–phosphoryloxyindole) and any salt thereof
+- **13** N–(1–phenylcyclohexyl)ethylamine (PCE) and any salt thereof
+- **14** 1–[1–(2–Thienyl) cyclohexyl]piperidine (TCP) and any salt thereof
+- **15** 1–Phenyl–N–propylcyclohexanamine and any salt thereof
+- **16** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
+- **17** Mescaline (3,4,5–trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
+- **18** 4–Methylaminorex (4,5–dihydro–4–methyl–5–phenyl–2–oxazolamine) and any salt thereof
+- **19** Cathinone ((–)–α–aminopropiophenone) and any salt thereof
+- **20** Fenetylline (d,l–3,7–dihydro–1,3–dimethyl–7–(2–[(1–methyl–2–phenethyl)amino]ethyl)–1H–purine–2, 6–dione) and any salt thereof
+- **21** 2–Methylamino–1–phenyl–1–propanone and any salt thereof
+- **22** 1–[1–(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
+- **23** 1–[1–(4–Methylphenyl)cyclohexyl]piperidine and any salt thereof
+- **24** 4–bromo–2,5–dimethoxybenzeneethanamine and any salt, isomer or salt of isomer thereof
+- **25 and 26** [Repealed, 2012, c. 1, s. 46]
+- **27** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
+- **28** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
+- **29** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine) and any salt thereof
+- **30** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
+- **31** Zipeprol (4-(2-methoxy-2-phenylethyl)-α-(methoxyphenylmethyl)-1-piperazineethanol) and any salt thereof
+- **32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
+- **33** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
+- **34** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66.
 
 
 
