@@ -192,7 +192,19 @@ Y est assimilée l’offre de produire.
 **Peine**
 
 - **(3)** Quiconque contrevient aux paragraphes (1) ou (2) commet :
-	- **a)** dans le cas de substances inscrites aux annexes I ou II, mais sous réserve du paragraphe (4), un acte criminel passible de l’emprisonnement à perpétuité;
+	- **a)** dans le cas de substances inscrites aux annexes I ou II, mais sous réserve de l’alinéa a.1), un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
+		- **(i)** à un an, si la personne, selon le cas :
+			- **(A)** a commis l’infraction au profit ou sous la direction d’une organisation criminelle au sens du paragraphe 467.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou en association avec elle,
+			- **(B)** a eu recours ou a menacé de recourir à la violence lors de la perpétration de l’infraction,
+			- **(C)** portait ou a utilisé ou menacé d’utiliser une arme lors de la perpétration de l’infraction,
+			- **(D)** a, au cours des dix dernières années, été reconnue coupable d’une infraction désignée ou purgé une peine d’emprisonnement relativement à une telle infraction,
+		- **(ii)** à deux ans, si la personne, selon le cas :
+			- **(A)** a commis l’infraction à l’intérieur d’une école, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieupublic normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
+
+
+			- **(B)** a commis l’infraction à l’intérieur d’une prison au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou sur le terrain d’un tel établissement,
+			- **(C)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée;
+	- **a.1)** dans le cas de substances inscrites à la fois à l’annexe II et à l’annexe VII, et ce, pourvu que la quantité en cause n’excède pas celle mentionnée à cette dernière annexe, un acte criminel passible d’un emprisonnement maximal de cinq ans moins un jour;
 	- **b)** dans le cas de substances inscrites à l’annexe III :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
@@ -200,17 +212,17 @@ Y est assimilée l’offre de produire.
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
 
-**Peine — cas particuliers**
-
-- **(4)** Quiconque contrevient aux paragraphes (1) ou (2) commet, dans le cas de substances inscrites à la fois à l’annexe II et à l’annexe VII, et ce pourvu que la quantité en cause n’excède pas celle mentionnée à cette dernière annexe, un acte criminel passible d’un emprisonnement maximal de cinq ans moins un jour.
+- **(4)** [Abrogé, 2012, ch. 1, art. 39]
 
 **Interprétation**
 
-- **(5)** Dans le cadre de l’application des paragraphes (3) ou (4) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III ou IV vaut également mention de toute substance présentée ou tenue pour telle.
+- **(5)** Dans le cadre de l’application du paragraphe (3) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III ou IV vaut également mention de toute substance présentée ou tenue pour telle.
 
-**Interprétation**
+**Définition de quantité**
 
-- **(6)** Pour l’application du paragraphe (4) et de l’annexe VII, ***quantité*** s’entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
+- **(6)** Pour l’application de l’alinéa (3)a.1) et de l’annexe VII, ***quantité*** s’entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
+> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39.
+
 
 
 
@@ -227,14 +239,20 @@ Y est assimilée l’offre de produire.
 
 **Peine**
 
-- **(3)** Quiconque contrevient aux paragraphes (1) ou (2) commet :
-	- **a)** dans le cas de substances inscrites aux annexes I ou II, un acte criminel passible de l’emprisonnement à perpétuité;
-	- **b)** dans le cas de substances inscrites aux annexes III ou VI :
+- **(3)** Quiconque contrevient aux paragraphes (1) ou (2) commet :
+	- **a)** dans le cas de substances inscrites à l’annexe I, et ce, pourvu que la quantité en cause n’excède pas 1 kg, ou à l’annexe II, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure à un an si, selon le cas :
+		- **(i)** l’infraction est commise à des fins de trafic,
+		- **(ii)** la personne, en perpétrant l’infraction, a commis un abus de confiance ou un abus d’autorité,
+		- **(iii)** la personne avait accès à une zone réservée aux personnes autorisées et a utilisé cet accès pour perpétrer l’infraction;
+	- **a.1)** dans le cas de substances inscrites à l’annexe I, et ce, pourvu que la quantité en cause excède 1 kg, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure à deux ans;
+	- **b)** dans le cas de substances inscrites aux annexes III ou VI :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
-	- **c)** dans le cas de substances inscrites aux annexes IV ou V :
+	- **c)** dans le cas de substances inscrites aux annexes IV ou V :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
+> 1996, ch. 19, art. 6; 2012, ch. 1, art. 40.
+
 
 
 
@@ -248,14 +266,33 @@ Y est assimilée l’offre de produire.
 **Peine**
 
 - **(2)** Quiconque contrevient au paragraphe (1) commet :
-	- **a)** dans le cas de substances inscrites aux annexes I ou II, à l’exception du cannabis (marihuana), un acte criminel passible de l’emprisonnement à perpétuité;
-	- **b)** dans le cas du cannabis (marihuana), un acte criminel passible d’un emprisonnement maximal de sept ans;
+	- **a)** dans le cas de substances inscrites à l’annexe I, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure à deux ans ou, si l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3), à trois ans;
+	- **a.1)** dans le cas de substances inscrites à l’annexe II, à l’exception du cannabis (marihuana), un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
+		- **(i)** à un an, si l’infraction est commise à des fins de trafic,
+		- **(ii)** à dix-huit mois, si l’infraction est commise à des fins de trafic dans l’une ou l’autre des circonstances prévues au paragraphe (3);
+	- **b)** dans le cas du cannabis (marihuana), un acte criminel passible d’un emprisonnement maximal de quatorze ans, la durée de l’emprisonnement ne pouvant être inférieure :
+		- **(i)** à six mois, si l’infraction est commise à des fins de trafic et que le nombre de plantes en cause est inférieur à 201 et supérieur à cinq,
+		- **(ii)** à neuf mois, si l’infraction est commise à des fins de trafic dans l’une ou l’autre des circonstances prévues au paragraphe (3) et que le nombre de plantes en cause est inférieur à 201 et supérieur à cinq,
+		- **(iii)** à un an, si le nombre de plantes en cause est supérieur à 200 mais inférieur à 501,
+		- **(iv)** à dix-huit mois, si le nombre de plantes en cause est supérieur à 200 mais inférieur à 501 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3),
+		- **(v)** à deux ans, si le nombre de plantes en cause est supérieur à 500,
+		- **(vi)** à trois ans, si le nombre de plantes en cause est supérieur à 500 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3);
 	- **c)** dans le cas de substances inscrites à l’annexe III :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
 	- **d)** dans le cas de substances inscrites à l’annexe IV :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
+
+**Circonstances**
+
+- **(3)** Les circonstances ci-après sont prises en considération pour l’application des alinéas (2)a) à b) :
+	- **a)** la personne a utilisé des biens immeubles appartenant à autrui lors de la perpétration de l’infraction;
+	- **b)** la production a créé un risque d’atteinte à la santé ou à la sécurité de personnes de moins de dix-huit ans présentes dans le lieu où l’infraction a été commise ou à proximité;
+	- **c)** la production a créé un risque d’atteinte à la sécurité publique dans un secteur résidentiel;
+	- **d)** la personne a mis, dans le lieu où l’infraction a été commise ou à proximité, des trappes, appareils ou autres choses susceptibles de causer la mort ou des lésions corporelles à autrui ou a permis que de telles choses y soient mises ou y demeurent.
+> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41.
+
 
 
 
@@ -274,7 +311,35 @@ Y est assimilée l’offre de produire.
 
 
 
-**8. et 9** [Abrogés, 2001, ch. 32, art. 48]
+
+### Avis
+
+
+
+**Avis**
+
+**8** Le tribunal n’est pas tenu d’imposer une peine minimale d’emprisonnement sauf s’il est convaincu que la personne accusée a été avisée avant d’enregistrer son plaidoyer qu’une peine minimale d’emprisonnement peut être imposée pour l’infraction qui lui est reprochée et que le procureur général a l’intention de prouver que l’infraction a été commise dans des circonstances entraînant l’imposition d’une peine minimale d’emprisonnement.
+> 2012, ch. 1, art. 42.
+
+
+
+
+
+### Rapport au parlement
+
+
+
+**Examen**
+
+**9** 
+
+- **(1)** Dans les cinq ans suivant l’entrée en vigueur du présent article, un examen détaillé de la présente loi et des conséquences de son application, assorti d’une analyse coût-avantage des peines minimales obligatoires, doit être fait par le comité du Sénat, de la Chambre des communes ou des deux chambres du Parlement désigné ou établi à cette fin.
+
+**Rapport**
+
+- **(2)** Dans l’année qui suit le début de l’examen, le comité présente au Parlement son rapport, en l’assortissant de toute recommandation quant aux modifications qu’il juge souhaitables.
+> 2012, ch. 1, art. 42.
+
 
 
 
@@ -291,8 +356,8 @@ Y est assimilée l’offre de produire.
 
 **Circonstances à prendre en considération**
 
-- **(2)** Le tribunal qui détermine la peine à infliger à une personne reconnue coupable d’une infraction désignée est tenu de considérer toute circonstance aggravante pertinente, notamment le fait que cette personne, selon le cas :
-	- **a)** relativement à la perpétration de cette infraction :
+- **(2)** Le tribunal qui détermine la peine à infliger à une personne reconnue coupable d’une infraction désignée — autre qu’une infraction pour laquelle il est tenu d’imposer une peine minimale d’emprisonnement — est tenu de considérer toute circonstance aggravante pertinente, notamment le fait que cette personne, selon le cas :
+	- **a)** relativement à la perpétration de cette infraction :
 		- **(i)** soit portait ou a utilisé ou menacé d’utiliser une arme,
 		- **(ii)** soit a eu recours ou a menacé de recourir à la violence,
 		- **(iii)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III ou IV — ou l’a eue en sa possession en vue d’en faire le trafic — à l’intérieur d’une école, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieu public normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
@@ -303,7 +368,17 @@ Y est assimilée l’offre de produire.
 **Motifs du tribunal**
 
 - **(3)** Le tribunal qui décide de n’imposer aucune peine d’emprisonnement à la personne visée au paragraphe (1), bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées aux alinéas (2)a) à c), est tenu de motiver sa décision.
-> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49.
+
+**Programme judiciaire de traitement de la toxicomanie**
+
+- **(4)** Le tribunal qui détermine la peine à infliger à une personne reconnue coupable d’une infraction prévue par la présente partie peut reporter la détermination de la peine :
+	- **a)** afin de permettre à la personne de participer à un programme judiciaire de traitement de la toxicomanie approuvé par le procureur général;
+	- **b)** afin de permettre à la personne de participer à un programme conformément au paragraphe 720(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Peine minimale**
+
+- **(5)** Le tribunal n’est pas tenu d’infliger une peine minimale d’emprisonnement à la personne qui termine avec succès un programme visé au paragraphe (4).
+> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43.
 
 
 
@@ -1353,624 +1428,190 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 ### **ANNEXE I** 
 **(articles 2 à 7, 29, 55 et 60)**
-**1** Pavot à opium (Papaver somniferum), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
-
-**(1)** opium
-
-
-
-**(2)** codéine (méthylmorphine)
-
-
-
-**(3)** morphine (didéhydro–7,8 époxy–4,5 méthyl–17 morphinanediol–3,6)
-
-
-
-**(4)** thébaïne (paramorphine)
-
-
-
-les sels, les dérivés et les sels des dérivés des substances visées aux paragraphes (1) à (4), notamment :
-
-
-
-**(5)** acétorphine (acétylétorphine)
-
-
-
-**(6)** acétyldihydrocodéine (époxy–4,5 acétoxy–6 méthoxy–3 méthyl–17 morphinane)
-
-
-
-**(7)** benzylmorphine (didéhydro–7,8 époxy–4,5 hydroxy–6 méthyl–17 (phénylméthoxy)–3 morphinane)
-
-
-
-**(8)** codoxime (O–(carboxyméthyl) oxime de dihydrocodéinone)
-
-
-
-**(9)** désomorphine (dihydrodésoxymorphine)
-
-
-
-**(10)** diacétylmorphine (héroïne)
-
-
-
-**(11)** dihydrocodéine (époxy–4,5 hydroxy–6 méthoxy–3 méthyl–17 morphinane)
-
-
-
-**(12)** dihydromorphine (époxy–4,5 méthyl–17 morphinanediol–3,6)
-
-
-
-**(13)** éthylmorphine (didéhydro–7,8 époxy–4,5 éthoxy–3 hydroxy–6 méthyl–17 morphinane)
-
-
-
-**(14)** étorphine ([(hydroxy–1 méthyl–1 butyl)–7α endoétheno–6,14 tétrahydro–oripavine])
-
-
-
-**(15)** hydrocodone (dihydrocodéinone)
-
-
-
-**(16)** hydromorphinol (hydroxy–14 dihydromorphine)
-
-
-
-**(17)** hydromorphone (dihydromorphinone)
-
-
-
-**(18)** méthyldésorphine (méthyl–6 delta–6 désoxymorphine)
-
-
-
-**(19)** méthyldihydromorphine (méthyl–6 dihydromorphine)
-
-
-
-**(20)** métopon (méthyl–5 dihydromorphinone)
-
-
-
-**(21)** N–oxymorphine (oxyde de morphine)
-
-
-
-**(22)** myrophine (ester myristyque de la benzylmorphine)
-
-
-
-**(23)** nalorphine (N–allylnormorphine)
-
-
-
-**(24)** nicocodéine (nicotinyl–6 codéine)
-
-
-
-**(25)** nicomorphine (dinicotinyl–3,6 morphine)
-
-
-
-**(26)** norcodéine (N–desméthylcodéine)
-
-
-
-**(27)** normorphine (desméthylmorphine)
-
-
-
-**(28)** oxycodone (hydroxy–14 dihydrocodéinone)
-
-
-
-**(29)** oxymorphone (hydroxy–14 dihydromorphinone)
-
-
-
-**(30)** pholcodine ([morpholinyl–4)–2 éthyl]–3 morphine)
-
-
-
-**(31)** thébacone (acétyldihydrocodéinone)
-
-
-
-mais non compris :
-
-
-
-**(32)** apomorphine (tétrahydro–5,6,6a,7 méthyl–6 4H–dibenzo[de,g]quinoline diol–10,11)
-
-
-
-**(33)** cyprénorphine (N–(cyclopropylméthyl) tétrahydro–6,7,8,14 (hydroxy–1 méthyl–1 éthyl)–7α endo–6,14 éthénonororipavine)
-
-
-
-**(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
-
-
-
-**(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
-
-
-
-**(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
-
-
-
-**(35)** narcotine (diméthoxy–6,7 (tétrahydro–5,6,7,8 méthoxy–4 méthyl–6 dioxolo–1,3[4,5–g]isoquinolinyl–5)–3 1(3H)–isobenzofuranone)
-
-
-
-**(36)** papavérine ([(diméthoxy–3,4 phényl) méthyl]–1 diméthoxy–6,7 isoquinoline)
-
-
-
-**(37)** graine de pavot
-
-
-
-
-**2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
-
-**(1)** feuilles de coca
-
-
-
-**(2)** cocaïne (ester méthylique de la benzoylecgonine)
-
-
-
-**(3)** ecgonine (acide hydroxy–3 tropane–2 carboxylique)
-
-
-
-
-**3** Phénylpipéridines, leurs sels, intermédiaires, dérivés et leurs analogues, ainsi que les sels de leurs intermédiaires, de leurs dérivés et leurs analogues, notamment :
-
-**(1)** allylprodine (allyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(2)** alphaméprodine (α–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(3)** alphaprodine (α–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(4)** aniléridine (ester éthylique de l’acide p–aminophényl–2 éthyl)–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(5)** bétaméprodine (ß–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(6)** bétaprodine (ß–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(7)** benzéthidine (ester éthylique de l’acide [(benzyloxy–2 éthyl)]–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(8)** diphénoxylate (ester éthylique de l’acide [(cyano–3) diphényl–3,3 propyl]–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(9)** difénoxine (l’acide (cyano–3 diphényl–3,3 propyl)–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(10)** étoxéridine (ester éthylique de l’acide [(hydroxy–2 éthoxy)–2 éthyl]–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(11)** furéthidine (ester éthylique de l’acide (tétrahydrofurfuryloxyéthyl–2)–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(12)** hydroxypéthidine (ester éthylique de l’acide m–hydroxyphényl–4 méthyl–1 pipéridine carboxylique–4)
-
-
-
-**(13)** cétobémidone ((m–hydroxyphényl)–4 méthyl–1 propionyl–4 pipéridine)
-
-
-
-**(14)** méthylphénylisonipecotonitrile (cyano–4 méthyl–1 phényl–4 pipéridine)
-
-
-
-**(15)** morphéridine (ester éthylique de l’acide (morpholino–2 éthyl)–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(16)** norpéthidine (ester éthylique de l’acide phényl–4 pipéridine carboxylique–4)
-
-
-
-**(17)** péthidine (ester éthylique de l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(18)** phénopéridine (ester éthylique de l’acide [(hydroxy–3 phényl–3) propyl]–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(19)** piminodine (ester éthylique de l’acide [(phénylamino)–3 propyl]–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(20)** propéridine (ester isopropylique de l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-**(21)** trimépéridine (triméthyl–1,2,5 phényl–4 propionoxy–4 pipéridine)
-
-
-
-**(22)** péthidine intermédiaire C (l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
-
-
-
-mais non compris :
-
-
-
-**(23)** carbaméthidine (ester éthylique de l’acide (carbaméthyl–2 phényl)–4 pipéridine carboxylique–4)
-
-
-
-**(24)** oxphénéridine (ester éthylique de l’acide (hydroxy–2 phényléthyl–2) phényl–4 pipéridine carboxylique–4)
-
-
-
-
-**4** Phénazépines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** proheptazine (diméthyl–1,3 phényl–4 propionoxy–4 azacycloheptane)
-
-
-
-mais non compris :
-
-
-
-**(2)** éthoheptazine (ester éthylique de l’acide méthyl–1 phényl–4 azépine carboxylique–4)
-
-
-
-**(3)** météthoheptazine (ester éthylique de l’acide (hexahydro–1,2) phényl–4 pipéridine carboxylique–4 diméthyl–1,3)
-
-
-
-**(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl–1,2 phénylazépine–4 carboxylique–4)
-
-
-
-
-**5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
-
-**(1)** diméthylaminodiphénylbutanonitrile (cyano–4 diméthylamino–2 diphénylbutane–4,4)
-
-
-
-**(2)** dipipanone (diphényl–4,4 pipéridino–6 heptanone–3)
-
-
-
-**(3)** isométhadone (diméthylamino–6 méthyl–5 diphényl–4,4 hexanone–3)
-
-
-
-**(4)** méthadone (diméthylamino–6 diphényl–4,4 heptanone–3)
-
-
-
-**(5)** norméthadone (diphényl–4,4 diméthylamino–6 hexanone–3)
-
-
-
-**(6)** norpipanone (diphényl–4,4 pipéridino–6 hexanone–3)
-
-
-
-**(7)** phénadoxone (diphényl–4,4 morpholino–6 heptanone–3)
-
-
-
-
-**6** Méthadols, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** acétylméthadol (diméthylamino–6 diphényl–4,4 acétoxy–3 heptane)
-
-
-
-**(2)** alphacétylméthadol (α–diméthylamino–6 diphényl–4,4 a–acétoxy–3 heptane)
-
-
-
-**(3)** alphaméthadol (α–diméthylamino–6 diphényl–4,4 heptanol–3)
-
-
-
-**(4)** bétacétylméthadol (ß–diméthylamino–6 diphényl–4,4 acétoxy–3 heptane)
-
-
-
-**(5)** bétaméthadol (ß–diméthylamino–6 diphényl–4,4 heptanol–3)
-
-
-
-**(6)** dimépheptanol (diméthylamino–6 diphényl–4,4 heptanol–3)
-
-
-
-**(7)** noracyméthadol (α–méthylamino–6 diphényl–4,4 acétoxy–3 heptanol–3)
-
-
-
-
-**7** Phénalcoxames, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** diménoxadol ((diméthylamino–2 éthyl) éthoxy–1 diphényl–1,1 acétate)
-
-
-
-**(2)** butyrate de dioxaphétyl (ester éthylique de l’acide butyrique morpholino–4 diphényl–2,2)
-
-
-
-**(3)** dextropropoxyphène (d–diméthylamino–4 méthyl–3 diphényl–1,2 propionoxy–2 butane)
-
-
-
-
-**8** Thiambutènes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** diéthylthiambutène (diéthylamino–3 di–(thiényl–2′)–1,1 butène–1)
-
-
-
-**(2)** diméthylthiambutène (diméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
-
-
-
-**(3)** éthylméthylthiambutène (éthylméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
-
-
-
-
-**9** Moramides, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
-
-**(1)** dextromoramide (d–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
-
-
-
-**(2)** acide diphénylmorpholinoisovalérique (acide méthyl–2 morpholino–3 diphényl–1,1 propionique)
-
-
-
-**(3)** lévomoramide (l–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
-
-
-
-**(4)** racémoramide (d,1–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
-
-
-
-
-**10** Morphinanes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** buprénorphine ((cyclopropylméthyl)–17 α–(diméthyléthyl–1,1) époxy–4,5 dihydro–18,19 hydroxy–3 méthoxy–6 α–méthyléthénomorphinane–6,14 méthanol–7)
-
-
-
-**(2)** drotébanol (dihydroxy–6ß,14 diméthoxy–3,4 méthyl–17 morphinane)
-
-
-
-**(3)** lévométhorphane (1–méthoxy–3 méthyl–17 morphinane)
-
-
-
-**(4)** lévorphanol (1–hydroxy–3 méthyl–17 morphinane)
-
-
-
-**(5)** lévophénacylmorphane (1–hydroxy–3 phénacyl–17 morphinane)
-
-
-
-**(6)** norlévorphanol (1–hydroxy–3 morphinane)
-
-
-
-**(7)** phénomorphane (hydroxy–3 (phényl–2 éthyl)–17 morphinane)
-
-
-
-**(8)** racéméthorphane (d,1–méthoxy–3 méthyl–17 morphinane)
-
-
-
-**(9)** racémorphane (d,1–hydroxy–3 méthyl–17 morphinane)
-
-
-
-mais non compris :
-
-
-
-**(10)** dextrométhorphane (d–méthoxy–3 N–méthylmorphinane)
-
-
-
-**(11)** dextrorphane (d–hydroxy–3 N–méthylmorphinane)
-
-
-
-**(12)** lévallorphane (1–hydroxy–3 N–allylmorphinane)
-
-
-
-**(13)** lévargorphane (1–hydroxy–3 N–propargylmorphinane)
-
-
-
-**(14)** butorphanol ((cyclobutylméthyl)–17 morphinanediol–3,14)
-
-
-
-**(15)** nalbuphine ((cyclobutylméthyl)–17 époxy–4,5α morphinanetriol–3, 6α, 14)
-
-
-
-
-**11** Benzazocines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** phénazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 phénéthyl–3 méthano–2,6 benzazocin–3 ol–8)
-
-
-
-**(2)** métazocine (hexahydro–1,2,3,4,5,6 triméthyl–3,6,11 méthano–2,6 benzazocin–3 ol–8)
-
-
-
-**(3)** pentazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (méthyl–3 butényl–2)–3 méthano–2,6 benzazocin–3 ol–8)
-
-
-
-mais non compris :
-
-
-
-**(4)** cyclazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (cyclopropylméthyl)–3 méthano–2,6 benzazocin–3 ol–8)
-
-
-
-
-**12** Ampromides, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** diampromide (N–[(méthylphénéthylamino)–2 propyl] propionanilide)
-
-
-
-**(2)** phénampromide (N–(méthyl–1 pipéridino–2 éthyl) propionanilide)
-
-
-
-**(3)** propiram (N–(méthyl–1 pipéridino–2 éthyl) N–pyridyl–2 propionamide)
-
-
-
-
-**13** Benzimidazoles, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
-
-**(1)** clonitazène ((p–chlorobenzyl)–2 (diéthylaminoéthyl)–1 nitro–5 benzimidazole)
-
-
-
-**(2)** étonitazène ((p–éthoxybenzyl)–2 (diéthylaminoéthyl)–1 nitro–5 benzimidazole)
-
-
-
-**(3)** bézitramide ((cyano–3 diphénylpropyl–3,3)–1 (oxo–2 propionyl–3 benzimidazolinyl–1)–4 pipéridine)
-
-
-
-
-**14** Phencyclidine ((phényl-1 cyclohexyl)-1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
-
-**(1)** kétamine (2-(2-chlorophényl)-2- (méthylamino)cyclohexanone)
-
-
-
-
-**15** Piritramide (amide de l’acide (cyano–3 diphénylpropyl–3,3)–1 (pipéridino–1)–4 pipéridine carboxylique–4), ses sels et dérivés, ainsi que les sels de ses dérivés
-
-
-**16** Fentanyls, leurs sels, leurs dérivés et leurs analogues, ainsi que les sels de leurs dérivés et leurs analogues, notamment :
-
-**(1)** acétyl–α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] acétanilide)
-
-
-
-**(2)** alfentanil (N–[(éthyl–4 dihydro–4,5 oxo–5 1H–tétrazolyl–1)–2 éthyl]–1 (méthoxyméthyl)–4 pipéridyl–4] propionanilide)
-
-
-
-**(3)** carfentanil (méthyl [(oxo–1 propyl) phénylamino]–4 (phénéthyl–2)–1 pipéridinecarboxylate–4)
-
-
-
-**(4)** p–fluorofentanyl (fluoro–4′ N–(phénéthyl–1 pipéridyl–4) propionanilide)
-
-
-
-**(5)** fentanyl (N–(phénéthyl–1 pipéridyl–4) propionanilide)
-
-
-
-**(6)** ß–hydroxyfentanyl (N–[ß–hydroxyphénéthyl)–1 pipéridyl–4 propionanilide)
-
-
-
-**(7)** ß–hydroxy méthyl–3 fentanyl (N–[(ß–hydroxyphénéthyl)–1 méthyl–3 pipéridyl–4] propionanilide)
-
-
-
-**(8)** α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] propionanilide)
-
-
-
-**(9)** α–méthylthiofentanyl (N–[[méthyl–1 (thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
-
-
-
-**(10)** méthyl–3 fentanyl (N–(méthyl–3 phénéthyl–1 pipéridyl–4) propionanilide)
-
-
-
-**(11)** méthyl–3 thiofentanyl (N–[méthyl–3 [(thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
-
-
-
-**(11.1)** rémifentanil (méthyle carboxy-4 [(oxo-1 propyl)phénylamino]-4 pipéridinepropanoate-1)
-
-
-
-**(12)** sufentanil (N–[(méthoxyméthyl)–4 [(thiényl–2)–2 éthyl]–1 pipéridinyl–4] propionanilide)
-
-
-
-**(13)** thiofentanyl (N–[[(thiényl–2)–2 éthyl]–1 pipéridyl–4] propionanilide)
-
-
-
-
-**17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
-
-
-**17.1** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-
-
-**18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-
-
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; DORS/2012-176.
+- **1** Pavot à opium (Papaver somniferum), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **(1)** opium
+- **(2)** codéine (méthylmorphine)
+- **(3)** morphine (didéhydro–7,8 époxy–4,5 méthyl–17 morphinanediol–3,6)
+- **(4)** thébaïne (paramorphine)
+- les sels, les dérivés et les sels des dérivés des substances visées aux paragraphes (1) à (4), notamment :
+- **(5)** acétorphine (acétylétorphine)
+- **(6)** acétyldihydrocodéine (époxy–4,5 acétoxy–6 méthoxy–3 méthyl–17 morphinane)
+- **(7)** benzylmorphine (didéhydro–7,8 époxy–4,5 hydroxy–6 méthyl–17 (phénylméthoxy)–3 morphinane)
+- **(8)** codoxime (O–(carboxyméthyl) oxime de dihydrocodéinone)
+- **(9)** désomorphine (dihydrodésoxymorphine)
+- **(10)** diacétylmorphine (héroïne)
+- **(11)** dihydrocodéine (époxy–4,5 hydroxy–6 méthoxy–3 méthyl–17 morphinane)
+- **(12)** dihydromorphine (époxy–4,5 méthyl–17 morphinanediol–3,6)
+- **(13)** éthylmorphine (didéhydro–7,8 époxy–4,5 éthoxy–3 hydroxy–6 méthyl–17 morphinane)
+- **(14)** étorphine ([(hydroxy–1 méthyl–1 butyl)–7α endoétheno–6,14 tétrahydro–oripavine])
+- **(15)** hydrocodone (dihydrocodéinone)
+- **(16)** hydromorphinol (hydroxy–14 dihydromorphine)
+- **(17)** hydromorphone (dihydromorphinone)
+- **(18)** méthyldésorphine (méthyl–6 delta–6 désoxymorphine)
+- **(19)** méthyldihydromorphine (méthyl–6 dihydromorphine)
+- **(20)** métopon (méthyl–5 dihydromorphinone)
+- **(21)** N–oxymorphine (oxyde de morphine)
+- **(22)** myrophine (ester myristyque de la benzylmorphine)
+- **(23)** nalorphine (N–allylnormorphine)
+- **(24)** nicocodéine (nicotinyl–6 codéine)
+- **(25)** nicomorphine (dinicotinyl–3,6 morphine)
+- **(26)** norcodéine (N–desméthylcodéine)
+- **(27)** normorphine (desméthylmorphine)
+- **(28)** oxycodone (hydroxy–14 dihydrocodéinone)
+- **(29)** oxymorphone (hydroxy–14 dihydromorphinone)
+- **(30)** pholcodine ([morpholinyl–4)–2 éthyl]–3 morphine)
+- **(31)** thébacone (acétyldihydrocodéinone)
+- mais non compris :
+- **(32)** apomorphine (tétrahydro–5,6,6a,7 méthyl–6 4H–dibenzo[de,g]quinoline diol–10,11)
+- **(33)** cyprénorphine (N–(cyclopropylméthyl) tétrahydro–6,7,8,14 (hydroxy–1 méthyl–1 éthyl)–7α endo–6,14 éthénonororipavine)
+- **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
+- **(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
+- **(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
+- **(35)** narcotine (diméthoxy–6,7 (tétrahydro–5,6,7,8 méthoxy–4 méthyl–6 dioxolo–1,3[4,5–g]isoquinolinyl–5)–3 1(3H)–isobenzofuranone)
+- **(36)** papavérine ([(diméthoxy–3,4 phényl) méthyl]–1 diméthoxy–6,7 isoquinoline)
+- **(37)** graine de pavot
+- **2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **(1)** feuilles de coca
+- **(2)** cocaïne (ester méthylique de la benzoylecgonine)
+- **(3)** ecgonine (acide hydroxy–3 tropane–2 carboxylique)
+- **3** Phénylpipéridines, leurs sels, intermédiaires, dérivés et leurs analogues, ainsi que les sels de leurs intermédiaires, de leurs dérivés et leurs analogues, notamment :
+- **(1)** allylprodine (allyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
+- **(2)** alphaméprodine (α–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
+- **(3)** alphaprodine (α–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
+- **(4)** aniléridine (ester éthylique de l’acide p–aminophényl–2 éthyl)–1 phényl–4 pipéridine carboxylique–4)
+- **(5)** bétaméprodine (ß–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
+- **(6)** bétaprodine (ß–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
+- **(7)** benzéthidine (ester éthylique de l’acide [(benzyloxy–2 éthyl)]–1 phényl–4 pipéridine carboxylique–4)
+- **(8)** diphénoxylate (ester éthylique de l’acide [(cyano–3) diphényl–3,3 propyl]–1 phényl–4 pipéridine carboxylique–4)
+- **(9)** difénoxine (l’acide (cyano–3 diphényl–3,3 propyl)–1 phényl–4 pipéridine carboxylique–4)
+- **(10)** étoxéridine (ester éthylique de l’acide [(hydroxy–2 éthoxy)–2 éthyl]–1 phényl–4 pipéridine carboxylique–4)
+- **(11)** furéthidine (ester éthylique de l’acide (tétrahydrofurfuryloxyéthyl–2)–1 phényl–4 pipéridine carboxylique–4)
+- **(12)** hydroxypéthidine (ester éthylique de l’acide m–hydroxyphényl–4 méthyl–1 pipéridine carboxylique–4)
+- **(13)** cétobémidone ((m–hydroxyphényl)–4 méthyl–1 propionyl–4 pipéridine)
+- **(14)** méthylphénylisonipecotonitrile (cyano–4 méthyl–1 phényl–4 pipéridine)
+- **(15)** morphéridine (ester éthylique de l’acide (morpholino–2 éthyl)–1 phényl–4 pipéridine carboxylique–4)
+- **(16)** norpéthidine (ester éthylique de l’acide phényl–4 pipéridine carboxylique–4)
+- **(17)** péthidine (ester éthylique de l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
+- **(18)** phénopéridine (ester éthylique de l’acide [(hydroxy–3 phényl–3) propyl]–1 phényl–4 pipéridine carboxylique–4)
+- **(19)** piminodine (ester éthylique de l’acide [(phénylamino)–3 propyl]–1 phényl–4 pipéridine carboxylique–4)
+- **(20)** propéridine (ester isopropylique de l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
+- **(21)** trimépéridine (triméthyl–1,2,5 phényl–4 propionoxy–4 pipéridine)
+- **(22)** péthidine intermédiaire C (l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
+- mais non compris :
+- **(23)** carbaméthidine (ester éthylique de l’acide (carbaméthyl–2 phényl)–4 pipéridine carboxylique–4)
+- **(24)** oxphénéridine (ester éthylique de l’acide (hydroxy–2 phényléthyl–2) phényl–4 pipéridine carboxylique–4)
+- **4** Phénazépines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** proheptazine (diméthyl–1,3 phényl–4 propionoxy–4 azacycloheptane)
+- mais non compris :
+- **(2)** éthoheptazine (ester éthylique de l’acide méthyl–1 phényl–4 azépine carboxylique–4)
+- **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro–1,2) phényl–4 pipéridine carboxylique–4 diméthyl–1,3)
+- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl–1,2 phénylazépine–4 carboxylique–4)
+- **5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
+- **(1)** diméthylaminodiphénylbutanonitrile (cyano–4 diméthylamino–2 diphénylbutane–4,4)
+- **(2)** dipipanone (diphényl–4,4 pipéridino–6 heptanone–3)
+- **(3)** isométhadone (diméthylamino–6 méthyl–5 diphényl–4,4 hexanone–3)
+- **(4)** méthadone (diméthylamino–6 diphényl–4,4 heptanone–3)
+- **(5)** norméthadone (diphényl–4,4 diméthylamino–6 hexanone–3)
+- **(6)** norpipanone (diphényl–4,4 pipéridino–6 hexanone–3)
+- **(7)** phénadoxone (diphényl–4,4 morpholino–6 heptanone–3)
+- **6** Méthadols, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** acétylméthadol (diméthylamino–6 diphényl–4,4 acétoxy–3 heptane)
+- **(2)** alphacétylméthadol (α–diméthylamino–6 diphényl–4,4 a–acétoxy–3 heptane)
+- **(3)** alphaméthadol (α–diméthylamino–6 diphényl–4,4 heptanol–3)
+- **(4)** bétacétylméthadol (ß–diméthylamino–6 diphényl–4,4 acétoxy–3 heptane)
+- **(5)** bétaméthadol (ß–diméthylamino–6 diphényl–4,4 heptanol–3)
+- **(6)** dimépheptanol (diméthylamino–6 diphényl–4,4 heptanol–3)
+- **(7)** noracyméthadol (α–méthylamino–6 diphényl–4,4 acétoxy–3 heptanol–3)
+- **7** Phénalcoxames, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** diménoxadol ((diméthylamino–2 éthyl) éthoxy–1 diphényl–1,1 acétate)
+- **(2)** butyrate de dioxaphétyl (ester éthylique de l’acide butyrique morpholino–4 diphényl–2,2)
+- **(3)** dextropropoxyphène (d–diméthylamino–4 méthyl–3 diphényl–1,2 propionoxy–2 butane)
+- **8** Thiambutènes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** diéthylthiambutène (diéthylamino–3 di–(thiényl–2′)–1,1 butène–1)
+- **(2)** diméthylthiambutène (diméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
+- **(3)** éthylméthylthiambutène (éthylméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
+- **9** Moramides, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
+- **(1)** dextromoramide (d–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
+- **(2)** acide diphénylmorpholinoisovalérique (acide méthyl–2 morpholino–3 diphényl–1,1 propionique)
+- **(3)** lévomoramide (l–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
+- **(4)** racémoramide (d,1–1–[méthyl–3 morpholino–4 (diphényl–2,2 butyryl)] pyrrolidine)
+- **10** Morphinanes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** buprénorphine ((cyclopropylméthyl)–17 α–(diméthyléthyl–1,1) époxy–4,5 dihydro–18,19 hydroxy–3 méthoxy–6 α–méthyléthénomorphinane–6,14 méthanol–7)
+- **(2)** drotébanol (dihydroxy–6ß,14 diméthoxy–3,4 méthyl–17 morphinane)
+- **(3)** lévométhorphane (1–méthoxy–3 méthyl–17 morphinane)
+- **(4)** lévorphanol (1–hydroxy–3 méthyl–17 morphinane)
+- **(5)** lévophénacylmorphane (1–hydroxy–3 phénacyl–17 morphinane)
+- **(6)** norlévorphanol (1–hydroxy–3 morphinane)
+- **(7)** phénomorphane (hydroxy–3 (phényl–2 éthyl)–17 morphinane)
+- **(8)** racéméthorphane (d,1–méthoxy–3 méthyl–17 morphinane)
+- **(9)** racémorphane (d,1–hydroxy–3 méthyl–17 morphinane)
+- mais non compris :
+- **(10)** dextrométhorphane (d–méthoxy–3 N–méthylmorphinane)
+- **(11)** dextrorphane (d–hydroxy–3 N–méthylmorphinane)
+- **(12)** lévallorphane (1–hydroxy–3 N–allylmorphinane)
+- **(13)** lévargorphane (1–hydroxy–3 N–propargylmorphinane)
+- **(14)** butorphanol ((cyclobutylméthyl)–17 morphinanediol–3,14)
+- **(15)** nalbuphine ((cyclobutylméthyl)–17 époxy–4,5α morphinanetriol–3, 6α, 14)
+- **11** Benzazocines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** phénazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 phénéthyl–3 méthano–2,6 benzazocin–3 ol–8)
+- **(2)** métazocine (hexahydro–1,2,3,4,5,6 triméthyl–3,6,11 méthano–2,6 benzazocin–3 ol–8)
+- **(3)** pentazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (méthyl–3 butényl–2)–3 méthano–2,6 benzazocin–3 ol–8)
+- mais non compris :
+- **(4)** cyclazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (cyclopropylméthyl)–3 méthano–2,6 benzazocin–3 ol–8)
+- **12** Ampromides, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** diampromide (N–[(méthylphénéthylamino)–2 propyl] propionanilide)
+- **(2)** phénampromide (N–(méthyl–1 pipéridino–2 éthyl) propionanilide)
+- **(3)** propiram (N–(méthyl–1 pipéridino–2 éthyl) N–pyridyl–2 propionamide)
+- **13** Benzimidazoles, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
+- **(1)** clonitazène ((p–chlorobenzyl)–2 (diéthylaminoéthyl)–1 nitro–5 benzimidazole)
+- **(2)** étonitazène ((p–éthoxybenzyl)–2 (diéthylaminoéthyl)–1 nitro–5 benzimidazole)
+- **(3)** bézitramide ((cyano–3 diphénylpropyl–3,3)–1 (oxo–2 propionyl–3 benzimidazolinyl–1)–4 pipéridine)
+- **14** Phencyclidine ((phényl-1 cyclohexyl)-1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
+- **(1)** kétamine (2-(2-chlorophényl)-2- (méthylamino)cyclohexanone)
+- **15** Piritramide (amide de l’acide (cyano–3 diphénylpropyl–3,3)–1 (pipéridino–1)–4 pipéridine carboxylique–4), ses sels et dérivés, ainsi que les sels de ses dérivés
+- **16** Fentanyls, leurs sels, leurs dérivés et leurs analogues, ainsi que les sels de leurs dérivés et leurs analogues, notamment :
+- **(1)** acétyl–α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] acétanilide)
+- **(2)** alfentanil (N–[(éthyl–4 dihydro–4,5 oxo–5 1H–tétrazolyl–1)–2 éthyl]–1 (méthoxyméthyl)–4 pipéridyl–4] propionanilide)
+- **(3)** carfentanil (méthyl [(oxo–1 propyl) phénylamino]–4 (phénéthyl–2)–1 pipéridinecarboxylate–4)
+- **(4)** p–fluorofentanyl (fluoro–4′ N–(phénéthyl–1 pipéridyl–4) propionanilide)
+- **(5)** fentanyl (N–(phénéthyl–1 pipéridyl–4) propionanilide)
+- **(6)** ß–hydroxyfentanyl (N–[ß–hydroxyphénéthyl)–1 pipéridyl–4 propionanilide)
+- **(7)** ß–hydroxy méthyl–3 fentanyl (N–[(ß–hydroxyphénéthyl)–1 méthyl–3 pipéridyl–4] propionanilide)
+- **(8)** α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] propionanilide)
+- **(9)** α–méthylthiofentanyl (N–[[méthyl–1 (thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
+- **(10)** méthyl–3 fentanyl (N–(méthyl–3 phénéthyl–1 pipéridyl–4) propionanilide)
+- **(11)** méthyl–3 thiofentanyl (N–[méthyl–3 [(thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
+- **(11.1)** rémifentanil (méthyle carboxy-4 [(oxo-1 propyl)phénylamino]-4 pipéridinepropanoate-1)
+- **(12)** sufentanil (N–[(méthoxyméthyl)–4 [(thiényl–2)–2 éthyl]–1 pipéridinyl–4] propionanilide)
+- **(13)** thiofentanyl (N–[[(thiényl–2)–2 éthyl]–1 pipéridyl–4] propionanilide)
+- **17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
+- **17.1** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
+- **18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
+- **19** Amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, notamment :
+- **(1)** amphétamine (α-méthylbenzène-éthanamine)
+- **(2)** N-éthylamphétamine (N-éthyl α-méthylbenzèneéthanamine)
+- **(3)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
+- **(4)** méthylènedioxy-3,4 amphétamine (MDA) (α-méthyl benzodioxole-1,3 éthanamine-5)
+- **(5)** diméthoxy-2,5 amphétamine (diméthoxy-2,5 α-méthylbenzèneéthanamine)
+- **(6)** méthoxy-4 amphétamine (méthoxy-4 α-méthylbenzèneéthanamine)
+- **(7)** triméthoxy-2,4,5 amphétamine (triméthoxy-2,4,5 α-méthylbenzèneéthanamine)
+- **(8)** N-méthyl méthylènedioxy-3,4 amphétamine (N,α-diméthyl benzodioxole-1,3 éthanamine-5)
+- **(9)** éthoxy-4 diméthoxy-2,5 amphétamine (éthoxy-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
+- **(10)** méthoxy-5 méthylènedioxy-3,4 amphétamine (N,α-diméthyl benzodioxole-1,3 éthanamine-5)
+- **(11)** N,N-diméthyl méthylènedioxy-3,4 amphétamine (N,N,α-triméthyl benzodioxole-1,3 éthanamine-5)
+- **(12)** N-éthyl méthylènedioxy-3,4 amphétamine (N-éthyl α-méthyl benzodioxole-1,3 éthanamine-5)
+- **(13)** éthyl-4 diméthoxy-2,5 amphétamine (DOET) (éthyl-4 diméthoxy-2,5 α-méthylbenzène- éthanamine)
+- **(14)** bromo-4 diméthoxy-2,5 amphétamine (bromo-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
+- **(15)** chloro-4 diméthoxy-2,5 amphétamine (chloro-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
+- **(16)** éthoxy-4 amphétamine (éthoxy-4 α-méthylbenzèneéthanamine)
+- **(17)** benzphétamine (N-benzyl N,α-diméthylbenzèneéthanamine)
+- **(18)** Npropyl méthylènedioxy-3,4 amphétamine (α-méthyl N-propyl benzodioxole-1,3 éthanamine-5)
+- **(19)** (hydroxy-2 éthyl)-N méthyl-α benzèneéthanamine
+- **(20)** N-hydroxy méthylènedioxy-3,4 amphétamine (N-[α-méthyl (méthylènedioxy)-3,4 phénéthyl]hydroxylamine)
+- **(21)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
+- **20** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérivés
+- **21** Acide hydroxy-4 butanoïque et ses sels
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176.
 
 
 
@@ -2031,205 +1672,40 @@ mais non compris :
 
 ### **ANNEXE III** 
 **(articles 2 à 7, 29, 55 et 60)**
-**1** Les amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, notamment :
-
-**(1)** amphétamine (α–méthylbenzèneéthanamine)
-
-
-
-**(2)** [Abrogé, DORS/2005-235, art. 2]
-
-
-
-**(3)** N–éthylamphétamine (N–éthyl α–méthylbenzène-éthanamine)
-
-
-
-**(4)** méthyl–4 diméthoxy–2,5 amphétamine (STP) (diméthoxy–2,5 4,α–diméthylbenzèneéthanamine)
-
-
-
-**(5)** méthylènedioxy–3,4 amphétamine (MDA) (α–méthyl benzodioxole–1,3 éthanamine–5)
-
-
-
-**(6)** diméthoxy–2,5 amphétamine (diméthoxy–2,5 α–méthylbenzèneéthanamine)
-
-
-
-**(7)** méthoxy–4 amphétamine (méthoxy–4 α–méthylbenzèneéthanamine)
-
-
-
-**(8)** triméthoxy–2,4,5 amphétamine (triméthoxy–2,4,5 α–méthylbenzèneéthanamine)
-
-
-
-**(9)** N–méthyl méthylènedioxy–3,4 amphétamine (N,α–diméthyl benzodioxole–1,3 éthanamine–5)
-
-
-
-**(10)** éthoxy–4 diméthoxy–2,5 amphétamine (éthoxy–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
-
-
-
-**(11)** méthoxy–5 méthylènedioxy–3,4 amphétamine (N,α–diméthyl benzodioxole–1,3 éthanamine–5)
-
-
-
-**(12)** N,N–diméthyl méthylènedioxy–3,4 amphétamine (N,N,α–triméthyl benzodioxole–1,3 éthanamine–5)
-
-
-
-**(13)** N–éthyl méthylènedioxy–3,4 amphétamine (N–éthyl α–méthyl benzodioxole–1,3 éthanamine–5)
-
-
-
-**(14)** éthyl–4 diméthoxy–2,5 amphétamine (DŒT) (éthyl–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
-
-
-
-**(15)** bromo–4 diméthoxy–2,5 amphétamine (bromo–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
-
-
-
-**(16)** chloro–4 diméthoxy–2,5 amphétamine (chloro–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
-
-
-
-**(17)** éthoxy–4 amphétamine (éthoxy–4 α–méthylbenzèneéthanamine)
-
-
-
-**(18)** benzphétamine (N–benzyl N,α–diméthylbenzèneéthanamine)
-
-
-
-**(19)** N–propyl méthylènedioxy–3,4 amphétamine (α–méthyl N–propyl benzodioxole–1,3 éthanamine)
-
-
-
-**(20)** (hydroxy–2 éthyl)–N méthyl–α benzèneéthanamine
-
-
-
-**(21)** N-hydroxy méthylènedioxy-3,4 amphétamine (N-[α-méthyl (méthylènedioxy)-3,4 phénéthyl]hydroxylamine)
-
-
-
-**(22)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
-
-
-
-sauf :
-
-
-
-**(23)** méthamphétamine (N,α-diméthylbenzèneéthanamine)
-
-
-
-
-**2** Méthylphénidate (ester méthylique de l’acide α–phénylpipéridine–2 acétique) et ses sels
-
-
-**3** Méthaqualone (méthyl–2 (méthyl–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
-
-
-**4** Mécloqualone (méthyl–2 (chloro–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
-
-
-**5** Diéthylamide de l’acide lysergique (LSD) (N,N–diéthyllysergamide) et ses sels
-
-
-**6** N,N–Diéthyltryptamine (DET) ((diéthylamino–2 éthyl)–3 indole) et ses sels
-
-
-**7** N,N–Diméthyltryptamine (DMT) ((diméthylamino–2 éthyl)–3 indole) et ses sels
-
-
-**8** N–Méthyl pipéridyl–3 benzilate (LBJ) ([(hydroxydiphénylacétyl)oxy]–3 méthyl–1 pipéridine) et ses sels
-
-
-**9** Harmaline (dihydro–4,9 méthoxy–7 méthyl–1 3H–pyrido(3,4–b) indole) et ses sels
-
-
-**10** Harmalol (dihydro–4,9 hydroxy–7 méthyl–1 3H–pyrido(3,4–b) indole) et ses sels
-
-
-**11** Psilocine ((diméthylamino–2 éthyl)–3 hydroxy–4 indole) et ses sels
-
-
-**12** Psilocybine ((diméthylamino–2 éthyl)–3 phosphoryloxy–4 indole) et ses sels
-
-
-**13** N–(Phényl–1 cyclohexyl) éthylamine (PCE) et ses sels
-
-
-**14** [(Thiényl–2)–1 cyclohexyl]–1 pipéridine (TCP) et ses sels
-
-
-**15** Phényl–1 N–propylcyclohexanamine et ses sels
-
-
-**16** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
-
-
-**17** Mescaline (triméthoxy–3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
-
-
-**18** Méthyl–4 aminorex (dihydro–4,5 méthyl–4 phényl–5 oxazolamine–2) et ses sels
-
-
-**19** Cathinone (1–α–aminopropiophénone) et ses sels
-
-
-**20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
-
-
-**21** Méthylamino–2 phényl–1 propanone–1 et ses sels
-
-
-**22** [Cyclohexyl (phénylméthyl)–1] pipéridine–1 et ses sels
-
-
-**23** [Cyclohexyl (méthyl–4 phényl)–1] pipéridine–1 et ses sels
-
-
-**24** bromo–4 diméthoxy–2,5 benzèneéthanamine, ses sels, isomères et sels d’isomères
-
-
-**25** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérives
-
-
-**26** Acide hydroxy–4 butanoïque et ses sels
-
-
-**27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
-
-
-**28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
-
-
-**29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine) et ses sels
-
-
-**30** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
-
-
-**31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
-
-
-**32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
-
-
-**33** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
-
-
-**34** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
-
-
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; DORS/2012-66.
+- **1** [Abrogé, 2012, ch. 1 art. 45]
+- **2** Méthylphénidate (ester méthylique de l’acide α–phénylpipéridine–2 acétique) et ses sels
+- **3** Méthaqualone (méthyl–2 (méthyl–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
+- **4** Mécloqualone (méthyl–2 (chloro–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
+- **5** Diéthylamide de l’acide lysergique (LSD) (N,N–diéthyllysergamide) et ses sels
+- **6** N,N–Diéthyltryptamine (DET) ((diéthylamino–2 éthyl)–3 indole) et ses sels
+- **7** N,N–Diméthyltryptamine (DMT) ((diméthylamino–2 éthyl)–3 indole) et ses sels
+- **8** N–Méthyl pipéridyl–3 benzilate (LBJ) ([(hydroxydiphénylacétyl)oxy]–3 méthyl–1 pipéridine) et ses sels
+- **9** Harmaline (dihydro–4,9 méthoxy–7 méthyl–1 3H–pyrido(3,4–b) indole) et ses sels
+- **10** Harmalol (dihydro–4,9 hydroxy–7 méthyl–1 3H–pyrido(3,4–b) indole) et ses sels
+- **11** Psilocine ((diméthylamino–2 éthyl)–3 hydroxy–4 indole) et ses sels
+- **12** Psilocybine ((diméthylamino–2 éthyl)–3 phosphoryloxy–4 indole) et ses sels
+- **13** N–(Phényl–1 cyclohexyl) éthylamine (PCE) et ses sels
+- **14** [(Thiényl–2)–1 cyclohexyl]–1 pipéridine (TCP) et ses sels
+- **15** Phényl–1 N–propylcyclohexanamine et ses sels
+- **16** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
+- **17** Mescaline (triméthoxy–3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
+- **18** Méthyl–4 aminorex (dihydro–4,5 méthyl–4 phényl–5 oxazolamine–2) et ses sels
+- **19** Cathinone (1–α–aminopropiophénone) et ses sels
+- **20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
+- **21** Méthylamino–2 phényl–1 propanone–1 et ses sels
+- **22** [Cyclohexyl (phénylméthyl)–1] pipéridine–1 et ses sels
+- **23** [Cyclohexyl (méthyl–4 phényl)–1] pipéridine–1 et ses sels
+- **24** bromo–4 diméthoxy–2,5 benzèneéthanamine, ses sels, isomères et sels d’isomères
+- **25 et 26** [Abrogés, 2012, ch. 1 art. 46]
+- **27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
+- **28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
+- **29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine) et ses sels
+- **30** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
+- **31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
+- **32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
+- **33** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
+- **34** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66.
 
 
 
