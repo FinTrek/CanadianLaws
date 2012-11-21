@@ -33876,7 +33876,9 @@ of the sweetener.
 
 ***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of controlled drugs into or from the country; (*autorité compétente*)
 
-***controlled drug*** means a drug set out in the schedule to this Part and includes a preparation; (*drogue contrôlée*)
+***controlled drug*** means
+- **(a)** a drug set out in the schedule to this Part, including a preparation; or
+- **(b)** in respect of a midwife, nurse practitioner or podiatrist, a drug set out in the schedule to this Part, including a preparation, that the midwife, nurse practitioner or podiatrist may prescribe, possess or conduct an activity with, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*drogue contrôlée*)
 
 ***hospital*** means a facility
 - **(a)** that is licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness, or
@@ -33888,6 +33890,10 @@ of the sweetener.
 
 ***licensed dealer*** means the holder of a licence issued under section G.02.003.2; (*distributeur autorisé*)
 
+***midwife*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*sage-femme*)
+
+***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*infirmier praticien*)
+
 ***parenteral use*** with reference to a controlled drug means administration by means of a hypodermic syringe, needle or other instrument through or into the skin of mucous membrane; (*usage parentéral*)
 
 ***permit*** means a permit issued under section G.02.008; (*permis*)
@@ -33898,6 +33904,8 @@ of the sweetener.
 	- **(ii)** to operate a pharmacy or dispensary
 and who is operating a pharmacy or dispensary and is practising pharmacy thereunder in that province, and
 - **(b)** includes, for the purposes of sections G.01.002, G.01.003, G.03.002 to G.03.008, G.03.014, G.03.015 and G.03.017 and subsections G.05.003(3) and (4), a person who is registered and entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province; (*pharmacien*)
+
+***podiatrist*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*podiatre*)
 
 ***practitioner***[Repealed, SOR/97-228, s. 7]
 
@@ -33949,7 +33957,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 ***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances (Security Requirements for Licensed Dealers for the Storage of Controlled Substances) published by the Department, as amended from time to time. (*Directive en matière de sécurité*)
 
 - **(3)** Unless otherwise provided, the definitions in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) apply in this Part and Part J. 
-> SOR/78-220, s. 1; SOR/85-550, s. 1; SOR/86-91, s. 1; SOR/90-261, s. 1(F); SOR/92-386, s. 1; SOR/97-228, s. 7; SOR/97-515, s. 2; SOR/2003-135, s. 2; SOR/2004-238, s. 1.
+> SOR/78-220, s. 1; SOR/85-550, s. 1; SOR/86-91, s. 1; SOR/90-261, s. 1(F); SOR/92-386, s. 1; SOR/97-228, s. 7; SOR/97-515, s. 2; SOR/2003-135, s. 2; SOR/2004-238, s. 1; SOR/2012-230, s. 6.
 
 
 
@@ -34070,12 +34078,14 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 
 - **(2)** The qualified person in charge and, if applicable, the alternate qualified person in charge
 	- **(a)** shall be familiar with the provisions of the Act and the regulations under it that apply to the licence of the licensed dealer who designated them and have knowledge of chemistry and pharmacology and experience in those fields to properly carry out their duties;
-	- **(b)** shall be a pharmacist or a practitioner registered with a provincial professional licensing authority or possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
+	- **(b)** shall either
+		- **(i)** be a pharmacist or a practitioner of medicine, dentistry or veterinary medicine, registered with a provincial professional licensing authority, or
+		- **(ii)** possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
 	- **(c)** shall not have been convicted, as an adult, within the preceding 10 years, of
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii).
-> SOR/2004-238, s. 3; SOR/2010-222, ss. 1(E), 34.
+> SOR/2004-238, s. 3; SOR/2010-222, ss. 1(E), 34; SOR/2012-230, s. 7.
 
 
 
@@ -34136,7 +34146,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 	- **(b)** a document issued by a Canadian police force with respect to each of the persons referred to in paragraph (a), stating whether the person has or has not been convicted, as an adult, during the preceding 10 years, of a designated drug offence or a designated criminal offence;
 	- **(c)** if any of the persons referred to in paragraph (a) has ordinarily resided in a country other than Canada during the preceding 10 years, a document issued by a police force of that country stating whether the person has or has not been convicted in that country, as an adult, during the preceding 10 years, of an offence that would have constituted a designated drug offence or a designated criminal offence if committed in Canada;
 	- **(d)** a statement, signed and dated by the individual in charge of the premises to which the application applies, stating that the proposed qualified person in charge and, if applicable, the alternate proposed qualified person in charge have the knowledge and experience required under paragraph G.02.001.2(2)(a);
-	- **(e)** if the proposed qualified person in charge or, if applicable, the alternate proposed qualified person in charge is not a pharmacist or a practitioner registered with a provincial professional licensing authority, a copy of the person’s degree required under paragraph G.02.001.2(2)(b) and a copy of the course transcript for that degree;
+	- **(e)** if the proposed qualified person in charge or, if applicable, the alternate proposed qualified person in charge is not a pharmacist or a practitioner of medicine, dentistry or veterinary medicine registered with a provincial professional licensing authority, a copy of the person’s degree required under subparagraph G.02.001.2(2)(b)(ii) and a copy of the course transcript for that degree;
 	- **(f)** if the applicant’s name appears on the label of a product or compound that contains a controlled drug, a copy of the inner label, as defined in section A.01.010, for each product or compound to which the licence would apply; and
 	- **(g)** if the applicant is a corporation, a copy of
 		- **(i)** the certificate of incorporation or other constituting instrument, and
@@ -34150,7 +34160,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 	- **(a)** to having a criminal record check carried out for them, as an adult, in respect of the offences referred to in those paragraphs during the preceding 10 years; 
 	- **(b)** to provide all necessary information and to submit to any means of identification required to obtain the criminal record check; and
 	- **(c)** to pay the fee established by the [Royal Canadian Mounted Police, Criminal Record Verification for Civil Purposes Fee Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/485.md).
-> SOR/2004-238, s. 4; SOR/2010-222, s. 2.
+> SOR/2004-238, s. 4; SOR/2010-222, s. 2; SOR/2012-230, s. 8.
 
 
 
@@ -34483,14 +34493,18 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 
 
 
-**G.02.024** A licensed dealer shall not sell or provide a controlled drug to any person other than a
-- **(a)** licensed dealer;
-- **(b)** pharmacist;
-- **(c)** practitioner;
-- **(d)** hospital employee or a practitioner in a hospital;
-- **(e)** [Repealed, SOR/2010-222, s. 11]
-- **(f)** a person who has been granted an exemption under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of a controlled drug. 
-> SOR/78-220, s. 3; SOR/85-550, s. 2; SOR/99-125, s. 2; SOR/2004-238, s. 9; SOR/2010-222, s. 11.
+**G.02.024** 
+
+- **(1)** A licensed dealer shall not sell or provide a controlled drug to any person other than a
+	- **(a)** licensed dealer;
+	- **(b)** pharmacist;
+	- **(c)** practitioner;
+	- **(d)** hospital employee or a practitioner in a hospital;
+	- **(e)** [Repealed, SOR/2010-222, s. 11]
+	- **(f)** a person who has been granted an exemption under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of a controlled drug.
+
+- **(2)** For the purpose of subsection (1), for greater certainty, a licensed dealer may sell or provide a controlled drug to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the controlled drug, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
+> SOR/78-220, s. 3; SOR/85-550, s. 2; SOR/99-125, s. 2; SOR/2004-238, s. 9; SOR/2010-222, s. 11; SOR/2012-230, s. 9.
 
 
 
@@ -34515,7 +34529,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 
 **G.02.025** 
 
-- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a controlled drug to a person referred to in section G.02.024 if
+- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a controlled drug to a person as permitted under section G.02.024 if
 	- **(a)** [Repealed, SOR/2010-222, s. 12]
 	- **(b)** the licensed dealer has received, on the premises described in the licence,
 		- **(i)** a written order,
@@ -34523,8 +34537,8 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 		- **(iii)** a verbal order for a controlled drug listed in Part II or III of the schedule to this Part
 that specifies the name and quantity of the drug to be supplied.
 
-- **(2)** A licensed dealer who has received an order referred to in subparagraph (1)(b)(i) and verified the signature on the order may sell or provide a controlled drug to a person referred to in section G.02.024, if the order is signed and dated by one of the following persons:
-	- **(a)** if the controlled drug is to be sold or provided to a person referred to in paragraph G.02.024(a), (b), (c) or (f), by that person; or
+- **(2)** A licensed dealer who has received an order referred to in subparagraph (1)(b)(i) and verified the signature on the order may sell or provide a controlled drug to a person as permitted under section G.02.024, if the order is signed and dated by one of the following persons:
+	- **(a)** if the controlled drug is to be sold or provided to a person referred to in paragraph G.02.024(1)(a), (b), (c) or (f), by that person; or
 	- **(b)** if the controlled drug is to be provided to a hospital employee or a practitioner in a hospital, by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to sign the order.
 
 - **(3)** A licensed dealer may sell or provide a controlled drug pursuant to an order received from a remote input device through a computer if the computer program and the remote input device meet the requirements of subsections (5) and (6).
@@ -34533,7 +34547,7 @@ that specifies the name and quantity of the drug to be supplied.
 
 - **(3.2)** A licensed dealer who has received a verbal order referred to in subparagraph (1)(b)(iii) may provide a controlled drug listed in Part II or III of the schedule to this Part to a hospital employee or to a practitioner in a hospital if the order has been placed by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to place the order.
 
-- **(4)** A licensed dealer who has received a verbal order referred to in subparagraph (1)(b)(iii), and has provided a controlled drug listed in Part II or III of the schedule to this Part to a person referred to in paragraphs G.02.024(b) to (d), shall immediately record
+- **(4)** A licensed dealer who has received a verbal order referred to in subparagraph (1)(b)(iii), and has sold or provided a controlled drug listed in Part II or III of the schedule to this Part to a person referred to in any of paragraphs G.02.024(1)(b) to (d), shall immediately record
 	- **(a)** the name of the person to whom the controlled drug was sold or provided;
 	- **(b)** if the drug was provided to a hospital employee or a practitioner in a hospital, the name of the pharmacist in charge of the dispensary of the hospital or the name of the practitioner authorized by the person in charge of the hospital to sign the order; and
 	- **(c)** the date that the order is received.
@@ -34559,7 +34573,7 @@ that specifies the name and quantity of the drug to be supplied.
 	- **(a)** order sent through a computer from a remote input device referred to in subparagraph (1)(b)(ii); or
 	- **(b)** verbal order referred to in subparagraph (1)(b)(iii).
 from that pharmacist or practitioner. 
-> SOR/78-220, s. 4; SOR/78-427, s. 4; SOR/85-550, s. 3; SOR/88-482, s. 3(F); SOR/90-261, s. 2(F); SOR/97-228, s. 11; SOR/2004-238, s. 11; SOR/2010-222, s. 12.
+> SOR/78-220, s. 4; SOR/78-427, s. 4; SOR/85-550, s. 3; SOR/88-482, s. 3(F); SOR/90-261, s. 2(F); SOR/97-228, s. 11; SOR/2004-238, s. 11; SOR/2010-222, s. 12; SOR/2012-230, s. 10.
 
 
 
@@ -34624,10 +34638,14 @@ from that pharmacist or practitioner.
 
 
 
-**G.03.003** A pharmacist may sell or provide a controlled drug to a practitioner for use in their practice
-- **(a)** upon a written order, signed and dated by that practitioner, that has been verified if the signature of the practitioner is unknown to the pharmacist; or
-- **(b)** upon a verbal order specifying the name and quantity of the drug if the pharmacist has taken reasonable precautions to satisfy themself that the person making the order is a practitioner.
-> SOR/85-550, s. 5; SOR/2004-238, s. 16.
+**G.03.003** 
+
+- **(1)** A pharmacist may sell or provide a controlled drug to a practitioner for use in their practice
+	- **(a)** upon a written order, signed and dated by that practitioner, that has been verified if the signature of the practitioner is unknown to the pharmacist; or
+	- **(b)** upon a verbal order specifying the name and quantity of the drug if the pharmacist has taken reasonable precautions to satisfy themself that the person making the order is a practitioner.
+
+- **(2)** For the purpose of subsection (1), for greater certainty, a pharmacist may sell or provide a controlled drug to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the controlled drug, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
+> SOR/85-550, s. 5; SOR/2004-238, s. 16; SOR/2012-230, s. 11.
 
 
 
@@ -34803,14 +34821,14 @@ from that pharmacist or practitioner.
 
 - **(1)** In this section,
 
-***administer*** includes to prescribe, sell or provide; (*administrer*)
+***administer*** includes to prescribe, sell or provide; (*administrer*)
 
-***designated drug*** means any of the following controlled drugs:
+***designated drug*** means any of the following controlled drugs:
 - **(a)** amphetamine and its salts,
 - **(b)** benzphetamine and its salts,
 - **(c)** methamphetamine and its salts,
 - **(d)** phenmetrazine and its salts, or
-- **(e)** phendimetrazine and its salts. (*drogue désignée*)
+- **(e)** phendimetrazine and its salts. (*drogue désignée*)
 
 - **(2)** Subject to subsections (3) and (4) and to an exemption granted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the administration of the controlled drug specified in the exemption, no practitioner shall administer a controlled drug to any person or animal.
 
@@ -34818,16 +34836,16 @@ from that pharmacist or practitioner.
 	- **(a)** that person or animal is a patient under his professional treatment; and
 	- **(b)** the controlled drug is required for the condition for which the patient is receiving treatment.
 
-- **(4)** A practitioner may administer a designated drug to an animal or a person who is a patient under his professional treatment where the designated drug is for the treatment of any of the following conditions:
+- **(4)** A practitioner of medicine, dentistry or veterinary medicine or a nurse practitioner may administer a designated drug to an animal or a person who is a patient under their professional treatment if the designated drug is for the treatment of any of the following conditions:
 	- **(a)** in humans
 		- **(i)** narcolepsy,
 		- **(ii)** hyperkinetic disorders in children,
-		- **(iii)** mental retardation (minimal brain dysfunction),
+		- **(iii)** [Repealed, SOR/2012-230, s. 12]
 		- **(iv)** epilepsy,
 		- **(v)** parkinsonism, or
 		- **(vi)** hypotensive states associated with anesthesia; or
-	- **(b)** in animals, depression of cardiac and respiratory centres. 
-> SOR/99-125, s. 4; SOR/2004-238, s. 23.
+	- **(b)** in animals, depression of cardiac and respiratory centres.
+> SOR/99-125, s. 4; SOR/2004-238, s. 23; SOR/2012-230, s. 12.
 
 
 
@@ -35098,12 +35116,14 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(1)** In this section,
 
-***member*** means any person who is registered, certified or otherwise licensed by a nursing statutory body for the practice of nursing; (*membre*)
+***member*** means any person who is registered, certified or otherwise licensed by a nursing statutory body for the practice of nursing; (*membre*)
 
-***nursing statutory body*** means any provincial professional licensing authority that, pursuant to the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme de nursing*)
+***nursing statutory body*** means any provincial professional licensing authority that, pursuant to the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme de nursing*)
 
-- **(2)** The Minister may provide to a nursing statutory body any information obtained under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or these Regulations that involves any member of that body. 
-> SOR/82-120, s. 1; SOR/97-228, s. 19.
+- **(2)** The Minister may provide to a nursing statutory body any information obtained under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or these Regulations that involves any member of that body.
+
+- **(3)** Subsection (2) does not apply to a nurse practitioner.
+> SOR/82-120, s. 1; SOR/97-228, s. 19; SOR/2012-230, s. 13.
 
 
 
