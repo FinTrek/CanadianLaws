@@ -46,6 +46,8 @@ Autorités habilitantes :
 - **a)** une installation qui fait l’objet d’un permis délivré par la province ou qui a été approuvée ou désignée par elle, en conformité avec ses lois, en vue d’assurer des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection,
 - **b)** une installation qui assure des soins de santé et appartient au gouvernement du Canada ou d’une province ou est exploitée par lui; (*hospital*)
 
+***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*nurse practitioner*)
+
 ***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
 - **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
@@ -91,15 +93,21 @@ Autorités habilitantes :
 et qui exploite ou dirige une pharmacie ou une officine et exerce la profession de pharmacien en vertu desdites lois dans cette province, et
 - **b)** comprend, aux fins des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) et (4), une personne inscrite et autorisée en vertu des lois d’une province à exercer la pharmacie et qui exerce la pharmacie dans cette province; (*pharmacist*)
 
+***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
+
 ***praticien***[Abrogée, DORS/97-227, art. 1]
 
-***stupéfiant*** Toute substance visée à l’annexe ou toute matière en contenant. (*narcotic*)
+***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
+
+***stupéfiant*** Selon le cas :
+- **a)** toute substance visée à l’annexe ou toute matière en contenant;
+- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*narcotic*)
 
 ***stupéfiant d’ordonnance verbale*** désigne un médicament
 - **a)** qui renferme, outre un stupéfiant, au moins deux ingrédients médicinaux qui ne sont pas des stupéfiants, en dose thérapeutique reconnue,
 - **b)** qui n’est pas destiné à l’administration parentérale, et
 - **c)** qui ne contient pas de diacétylmorphine (héroïne), d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine. (*verbal prescription narcotic*)
-> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1.
+> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14.
 
 
 
@@ -133,8 +141,8 @@ et qui exploite ou dirige une pharmacie ou une officine et exerce la profession 
 	- **a)** d’une part, elle agit comme agent de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
 	- **b)** d’autre part, la possession du stupéfiant a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
 
-- **(3)** Il est interdit à toute personne qui a obtenu un stupéfiant ou une ordonnance de chercher à obtenir ou de recevoir une autre ordonnance ou un autre stupéfiant de tout autre médecin praticien sans donner à ce dernier les détails de chaque ordonnance ou stupéfiant qu’elle a obtenus dans les 30 jours précédents.
-> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1.
+- **(3)** [Abrogé, DORS/2012-230, art. 15]
+> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15.
 
 
 
@@ -216,12 +224,14 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
 	- **a)** bien connaître les dispositions de la Loi et de ses règlements qui s’appliquent à la licence du distributeur autorisé qui les a désignées et posséder des connaissances et une expérience de la chimie et de la pharmacologie leur permettant de bien s’acquitter de leurs fonctions;
-	- **b)** être des pharmaciens ou des praticiens agréés par l’autorité provinciale attributive de licences en matière d’activités professionnelles ou être titulaires d’un diplôme dans une discipline scientifique connexe — notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie organique ou le génie chimique — décerné par une université canadienne ou, s’il s’agit d’une université étrangère, reconnu par une université ou une association professionnelle canadiennes;
+	- **b)** être, selon le cas :
+		- **(i)** un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles,
+		- **(ii)** titulaire d’un diplôme dans une discipline scientifique connexe — notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie organique ou le génie chimique — décerné par une université canadienne ou, s’il s’agit d’une université étrangère, reconnu par une université ou une association professionnelle canadiennes;
 	- **c)** ne pas avoir, au cours des dix dernières années, été reconnues coupables en tant qu’adulte :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-237, art. 4; DORS/2010-221, art. 2.
+> DORS/2004-237, art. 4; DORS/2010-221, art. 2; DORS/2012-230, art. 16.
 
 
 
@@ -272,7 +282,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **b)** un document émanant d’un service de police canadien pour chacune des personnes mentionnées à l’alinéa a), attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable en tant qu’adulte d’une infraction désignée en matière de drogue ou d’une infraction désignée en matière criminelle;
 	- **c)** dans le cas où l’une des personnes visées à l’alinéa a) a, au cours des dix dernières années, eu sa résidence habituelle dans un pays autre que le Canada, un document émanant d’un service de police de ce pays attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable dans ce pays en tant qu’adulte d’une infraction qui, commise au Canada, aurait été une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle;
 	- **d)** une déclaration, signée et datée par le responsable de l’installation visée par la demande, attestant que la personne qualifiée responsable proposée et, le cas échéant, la personne qualifiée responsable suppléante proposée ont les connaissances et l’expérience exigées par l’alinéa 8.3(2)a);
-	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien ou un praticien agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé à l’alinéa 8.3(2)b) et une copie du relevé de notes relatif à ce diplôme;
+	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé au sous-alinéa 8.3(2)b)(ii) et une copie du relevé de notes relatif à ce diplôme;
 	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant un stupéfiant, une copie de l’étiquette intérieure, au sens de l’article A.01.010 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), de chaque produit ou composé auquel s’appliquerait la licence;
 	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
 		- **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
@@ -286,7 +296,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **a)** à ce qu’une recherche soit effectuée pour vérifier si elles ont eu, au cours des dix dernières années, un casier judiciaire, en tant qu’adulte, relativement aux infractions visées à ces alinéas;
 	- **b)** à fournir les renseignements nécessaires à la vérification du casier judiciaire et à se soumettre à toute opération d’identification nécessaire pour obtenir la vérification;
 	- **c)** à payer le prix exigé pour la vérification aux termes du [Règlement sur le prix à payer pour la vérification de casiers judiciaires à des fins civiles (Gendarmerie royale du Canada)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/485.md).
-> DORS/85-588, art. 3(A); DORS/2004-237, art. 4; DORS/2010-221, art. 3.
+> DORS/85-588, art. 3(A); DORS/2004-237, art. 4; DORS/2010-221, art. 3; DORS/2012-230, art. 17.
 
 
 
@@ -619,18 +629,22 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **e)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant.
 	- **f)** [Abrogé, DORS/2010-221, art. 11]
 
+- **(2.1)** Pour l’application du paragraphe (2), il est entendu que le distributeur autorisé ne peut vendre ou fournir un stupéfiant à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire ce stupéfiant, l’avoir en sa possession ou se livrer à toute autre opération relativement à celui-ci.
+
 - **(3)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir de la méthadone à :
 	- **a)** un autre distributeur autorisé;
 	- **b)** un pharmacien;
-	- **c)** un employé d’un hôpital ou un praticien exerçant dans un hôpital;
+	- **c)** un employé d’un hôpital;
+	- **c.1)** s’il exerce dans un hôpital, un praticien de la médecine, un dentiste, un vétérinaire ou un infirmier praticien;
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant; ou
 	- **e)** [Abrogé, DORS/2010-221, art. 11]
 
 - **(4)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir de la diacétylmorphine (héroïne) à :
 	- **a)** un autre distributeur autorisé;
-	- **b)** un employé d’un hôpital ou un praticien exerçant dans un hôpital qui assure des soins ou des traitements à des personnes; ou
+	- **b)** un employé d’un hôpital qui assure des soins ou des traitements à des personnes;
+	- **b.1)** s’il exerce dans un hôpital qui assure des soins ou des traitements à des personnes, un praticien de la médecine ou un dentiste;
 	- **c)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant à des fins scientifiques.
-> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11.
+> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18.
 
 
 
@@ -670,7 +684,9 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(3)** Le distributeur autorisé qui reçoit une commande visée à l’alinéa (1)b) ou c) peut fournir un stupéfiant à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, si la commande a été faite par le pharmacien responsable de l’officine de l’hôpital ou par un praticien autorisé par la personne à qui est confiée la charge de l’hôpital à faire la commande.
 
-- **(3.1)** Le distributeur autorisé qui reçoit une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance visé à l’alinéa (1)b) peut fournir de la méthadone à l’employé d’un hôpital ou au praticien exerçant dans un hôpital, si cette commande a été faite par un praticien qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
+- **(3.1)** Le distributeur autorisé qui reçoit une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance visée à l’alinéa (1)b) peut fournir de la méthadone aux personnes ci-après, si cette commande a été faite par un praticien qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone :
+	- **a)** un employé d’un hôpital;
+	- **b)** s’il exerce dans un hôpital, un praticien de la médecine, un dentiste, un vétérinaire ou un infirmier praticien.
 
 - **(4)** Le distributeur autorisé peut vendre ou fournir un stupéfiant par suite d’une commande reçue par ordinateur à partir d’un périphérique d’entrée à distance, si le programme informatique et le périphérique d’entrée à distance satisfont aux exigences visées aux paragraphes (6) et (7).
 
@@ -699,7 +715,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(9)** Si, dans le délai prévu au paragraphe (8), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni le stupéfiant, il doit refuser d’honorer, jusqu’à ce qu’il obtienne ce reçu :
 	- **a)** aucune autre commande visée à l’alinéa (1)b), que ce pharmacien ou ce praciticien envoie par ordinateur à partir d’un périphérique d’entrée à distance, ni
 	- **b)** aucune autre commande verbale visée à l’alinéa (1)c), que fait ce pharmacien ou ce praticien.
-> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12.
+> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12; DORS/2012-230, art. 19.
 
 
 
@@ -733,19 +749,22 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 **31** 
 
-- **(1)** Il est interdit au pharmacien de vendre ou de fournir un stupéfiant si ce n’est en conformité avec les paragraphes (2) et (3) et les articles 34 à 36.
+- **(1)** Il est interdit au pharmacien de vendre ou de fournir un stupéfiant si ce n’est en conformité avec les paragraphes (2), (2.1) et (3) et les articles 34 à 36.
 
 - **(2)** Le pharmacien peut vendre ou fournir un stupéfiant autre que la méthadone aux personnes suivantes :
 	- **a)** toute personne qui bénéficie d’une exemption en vertu de l’article 56 de la Loi relativement à la possession de ce stupéfiant; ou
 	- **b)** toute personne, s’il a reçu, au préalable, une commande écrite à cet effet ou une ordonnance signée et datée par un praticien, et s’il a lui-même vérifié la signature du praticien lorsqu’il ne la connaît pas.
 
+- **(2.1)** Pour l’application du paragraphe (2), il est entendu que le pharmacien ne peut vendre ou fournir un stupéfiant à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire ce stupéfiant, l’avoir en sa possession ou se livrer à toute autre opération relativement à celui-ci.
+
 - **(3)** Le pharmacien peut vendre ou fournir de la méthadone aux personnes suivantes :
 	- **a)** un distributeur autorisé;
 	- **b)** un autre pharmacien;
-	- **c)** un employé d’un hôpital ou un praticien exerçant dans un hôpital;
+	- **c)** un employé d’un hôpital;
+	- **c.1)** s’il exerce dans un hôpital, un praticien de la médecine, un dentiste, un vétérinaire ou un infirmier praticien;
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone; ou
 	- **e)** une personne dont il a reçu une commande ou une ordonnance écrites à cet effet, signées et datées par un praticien en médecine qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
-> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14.
+> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14; DORS/2012-230, art. 20.
 
 
 
@@ -793,12 +812,12 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **a)** la préparation contient
 		- **(i)** deux ingrédients médicinaux autres qu’un stupéfiant dont la quantité n’est pas inférieure à la dose unique ordinaire la plus faible pour un de ces ingrédients ou la moitié de la dose unique ordinaire la plus faible pour chacun de ces ingrédients, ou
 		- **(ii)** trois ingrédients médicinaux autres qu’un stupéfiant dont la quantité n’est pas inférieure à la dose unique ordinaire la plus faible pour un de ces ingrédients ou un tiers de la dose unique ordinaire la plus faible pour chacun de ces ingrédients; et
-	- **b)** la partie principale de l’étiquette et de tout contenant extérieur porte, imprimée lisiblement et bien en évidence, la formule complète ou la liste authentique de tous les ingrédients actifs, ainsi qu’une mise en garde spécifiant que :« Cette préparation renferme de la codéine et ne doit pas être administrée aux enfants sauf sur recommandation du médecin ou du dentiste. »
+	- **b)** l’étiquette intérieure et l’étiquette extérieure, au sens de l’article A.01.010 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), portent, imprimée lisiblement et bien en évidence, la mise en garde ci-après ou une mise en garde équivalente :« La préparation renferme de la codéine et ne doit pas être administrée aux enfants sauf sur recommandation du médecin, du dentiste ou de l’infirmier praticien. »
 
 
 
 - **(2)** Il est interdit au pharmacien de vendre ou de fournir une préparation mentionnée au paragraphe (1) lorsqu’il a des motifs raisonnables de croire que celle-ci sera utilisée à des fins autres que les fins médicales ou dentaires reconnues.
-> DORS/78-154, art. 5; DORS/85-588, art. 13; DORS/2004-237, art. 16.
+> DORS/78-154, art. 5; DORS/85-588, art. 13; DORS/2004-237, art. 16; DORS/2012-230, art. 21.
 
 
 
@@ -980,8 +999,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(3)** Il est interdit au praticien d’administrer de la méthadone à une personne ou à un animal ou de la prescrire, de la vendre ou de la fournir, pour toute personne ou tout animal, à moins qu’il bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
-- **(4)** Il est interdit au praticien d’administrer de la diacétylmorphine (héroïne) à un animal ou à une personne autre qu’un malade qui reçoit, comme patient hospitalisé ou patient externe, des traitements dans un hôpital assurant des soins ou des traitements à des personnes ou de prescrire, de vendre ou de fournir ce stupéfiant pour tout animal ou une telle personne.
-> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20.
+- **(4)** Il est interdit au praticien de la médecine, au dentiste et au vétérinaire d’administrer de la diacétylmorphine (héroïne) à un animal ou à une personne autre qu’un malade qui reçoit, comme patient hospitalisé ou patient externe, des traitements dans un hôpital assurant des soins ou des traitements à des personnes ou de prescrire, de vendre ou de fournir ce stupéfiant pour tout animal ou une telle personne.
+> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20; DORS/2012-230, art. 22.
 
 
 
@@ -1139,8 +1158,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(6)** Le responsable d’un hôpital peut permettre qu’un stupéfiant soit fourni à la personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à ce stupéfiant et qui est employée dans un laboratoire de recherche de cet hôpital à des fins de recherche.
 
-- **(7)** La personne à qui est confiée la charge d’un hôpital assurant des soins ou des traitements à des personnes peut permettre que de la diacétylmorphine (héroïne) soit vendue, fournie ou administrée à une personne qui reçoit des traitements comme patient hospitalisé ou externe de cet hôpital, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien.
-> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25.
+- **(7)** La personne à qui est confiée la charge d’un hôpital assurant des soins ou des traitements à des personnes peut permettre que de la diacétylmorphine (héroïne) soit vendue, fournie ou administrée à une personne qui reçoit des traitements comme patient hospitalisé ou externe de cet hôpital, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien de la médecine ou un dentiste.
+> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23.
 
 
 
@@ -1226,7 +1245,9 @@ qui précise le nom et la quantité du stupéfiant demandé.
 ***organisme régissant la profession d’infirmier*** Toute autorité provinciale attributive de licences en matière d’activités professionnelles autorisée, par les lois d’une province, à inscrire, licencier ou certifier une personne, lui donnant ainsi le droit d’exercer la profession d’infirmier. (*nursing statutory body*)
 
 - **(2)** Le ministre peut fournir à tout organisme régissant la profession d’infirmier toute information obtenue en vertu de la Loi ou du présent règlement concernant un de ses membres.
-> DORS/82-121, art. 1; DORS/2010-221, art. 16.
+
+- **(3)** Le paragraphe (2) ne s’applique pas à l’infirmier praticien.
+> DORS/82-121, art. 1; DORS/2010-221, art. 16; DORS/2012-230, art. 24.
 
 
 
