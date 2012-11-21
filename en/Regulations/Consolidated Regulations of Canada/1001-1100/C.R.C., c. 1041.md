@@ -63,9 +63,15 @@ Enabling authorities:
 
 ***methadone*** includes the salts of methadone; (*méthadone*)
 
+***midwife*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*sage-femme*)
+
 ***Minister***[Repealed, SOR/97-227, s. 1]
 
-***narcotic*** means any substance set out in the schedule or anything that contains any substance set out in the schedule; (*stupéfiant*)
+***narcotic*** means
+- **(a)** any substance set out in the schedule or anything that contains the substance, or
+- **(b)** in respect of a midwife, nurse practitioner or podiatrist, any substance set out in the schedule, or anything that contains the substance, that the midwife, nurse practitioner or podiatrist may prescribe, possess or conduct an activity with, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*stupéfiant*)
+
+***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*infirmier praticien*)
 
 ***oral prescription narcotic***[Repealed, SOR/85-588, s. 1]
 
@@ -77,6 +83,8 @@ Enabling authorities:
 	- **(ii)** to operate a pharmacy or dispensary
 and who is operating a pharmacy or dispensary and is practising pharmacy thereunder in that province, and
 - **(b)** includes, for the purpose of sections 3, 31 to 39, subsections 44(1), 45(1) and (2), section 46 and subsections 65(3) and (4), a person who is registered and entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province; (*pharmacien*)
+
+***podiatrist*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*podiatre*)
 
 ***practitioner***[Repealed, SOR/97-227, s. 1]
 
@@ -101,7 +109,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 - **(c)** does not contain diacetylmorphine (heroin), hydrocodone, methadone, oxycodone or pentazocine. (*stupéfiant d’ordonnance verbale*)
 
 ***written order***[Repealed, SOR/85-588, s. 1]
-> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1.
+> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14.
 
 
 
@@ -135,8 +143,8 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 	- **(a)** the person is acting as the agent for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(g); and
 	- **(b)** the possession of the narcotic is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
 
-- **(3)** A person in whose favour a prescription or a narcotic has been issued shall not seek or receive another prescription or a narcotic from a different practitioner without disclosing to that practitioner particulars of every prescription or narcotic that he has obtained within the previous 30 days.
-> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1.
+- **(3)** [Repealed, SOR/2012-230, s. 15]
+> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15.
 
 
 
@@ -218,12 +226,14 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2)** The qualified person in charge and, if applicable, the alternate qualified person in charge
 	- **(a)** shall be familiar with the provisions of the Act and the regulations under it that apply to the licence of the licensed dealer who designated them and have knowledge of chemistry and pharmacology and experience in those fields to properly carry out their duties;
-	- **(b)** shall be a pharmacist or a practitioner registered with a provincial professional licensing authority or possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
+	- **(b)** shall either
+		- **(i)** be a pharmacist or a practitioner of medicine, dentistry or veterinary medicine, registered with a provincial professional licensing authority, or
+		- **(ii)** possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
 	- **(c)** shall not have been convicted, as an adult, within the preceding 10 years, of
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii).
-> SOR/2004-237, s. 4; SOR/2010-221, s. 2.
+> SOR/2004-237, s. 4; SOR/2010-221, s. 2; SOR/2012-230, s. 16.
 
 
 
@@ -274,7 +284,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(b)** a document issued by a Canadian police force with respect to each of the persons referred to in paragraph (a), stating whether the person has or has not been convicted, as an adult, during the previous 10 years, of a designated drug offence or a designated criminal offence;
 	- **(c)** if any of the persons referred to in paragraph (a) has ordinarily resided in a country other than Canada during the preceding 10 years, a document issued by a police force of that country stating whether the person has or has not been convicted in that country, as an adult, during the preceding 10 years, of an offence that would have constituted a designated drug offence or a designated criminal offence if committed in Canada;
 	- **(d)** a statement, signed and dated by the individual in charge of the premises to which the application applies, stating that the proposed qualified person in charge and, if applicable, the proposed alternate qualified person in charge have the knowledge and experience required under paragraph 8.3(2)(a);
-	- **(e)** if the proposed qualified person in charge or, if applicable, the proposed alternate qualified person in charge is not a pharmacist or a practitioner registered with a provincial professional licensing authority, a copy of the person’s degree required under paragraph 8.3(2)(b) and a copy of the course transcript for that degree;
+	- **(e)** if the proposed qualified person in charge or, if applicable, the proposed alternate qualified person in charge is not a pharmacist or a practitioner of medicine, dentistry or veterinary medicine registered with a provincial professional licensing authority, a copy of the person’s degree required under subparagraph 8.3(2)(b)(ii) and a copy of the course transcript for that degree;
 	- **(f)** if the applicant’s name appears on the label of a product or compound that contains a narcotic, a copy of the inner label, as defined in section A.01.010 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), for each product or compound to which the licence would apply; and
 	- **(g)** if the applicant is a corporation, a copy of
 		- **(i)** the certificate of incorporation or other constituting instrument, and
@@ -288,7 +298,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(a)** to having a criminal record check carried out for them, as an adult, in respect of the offences referred to in those paragraphs during the preceding 10 years;
 	- **(b)** to provide all necessary information and to submit to any means of identification required to obtain the criminal record check; and
 	- **(c)** to pay the fee established by the [Royal Canadian Mounted Police, Criminal Record Verification for Civil Purposes Fee Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/485.md).
-> SOR/85-588, s. 3(F); SOR/2004-237, s. 4; SOR/2010-221, s. 3.
+> SOR/85-588, s. 3(F); SOR/2004-237, s. 4; SOR/2010-221, s. 3; SOR/2012-230, s. 17.
 
 
 
@@ -621,18 +631,22 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(e)** a person exempted under section 56 of the Act with respect to the possession of that narcotic; or
 	- **(f)** [Repealed, SOR/2010-221, s. 11]
 
+- **(2.1)** For the purpose of subsection (2), for greater certainty, a licensed dealer may sell or provide a narcotic to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the narcotic, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
+
 - **(3)** Subject to section 25, a licensed dealer may sell or provide methadone to
 	- **(a)** another licensed dealer;
 	- **(b)** a pharmacist;
-	- **(c)** a hospital employee or a practitioner in a hospital;
+	- **(c)** a hospital employee;
+	- **(c.1)** if practising in a hospital, a practitioner of medicine, dentistry or veterinary medicine or a nurse practitioner;
 	- **(d)** a person exempted under section 56 of the Act with respect to the possession of that narcotic; or
 	- **(e)** [Repealed, SOR/2010-221, s. 11]
 
 - **(4)** Subject to section 25, a licensed dealer may sell or provide diacetylmorphine (heroin) to
 	- **(a)** another licensed dealer;
-	- **(b)** a hospital employee or a practitioner in a hospital where that hospital provides care or treatment to persons; or
+	- **(b)** a hospital employee, where that hospital provides care or treatment to persons;
+	- **(b.1)** if practising in a hospital, a practitioner of medicine or dentistry, where that hospital provides care or treatment to persons; or
 	- **(c)** a person exempted under section 56 of the Act with respect to the possession of that narcotic for a scientific purpose.
-> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11.
+> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18.
 
 
 
@@ -672,7 +686,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(3)** A licensed dealer who has received an order referred to in paragraph (1)(b) or (c) may provide a narcotic to a hospital employee or to a practitioner in a hospital if the order has been placed by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to place the order.
 
-- **(3.1)** A licensed dealer who has received an order sent through a computer from a remote input device referred to in paragraph (1)(b) may provide methadone to a hospital employee or to a practitioner in a hospital if the order has been placed by a practitioner exempted under section 56 of the Act with respect to methadone.
+- **(3.1)** A licensed dealer who has received an order sent through a computer from a remote input device referred to in paragraph (1)(b) may provide methadone to the following persons, if the order has been placed by a practitioner exempted under section 56 of the Act with respect to methadone:
+	- **(a)** a hospital employee; or
+	- **(b)** if practising in a hospital, a practitioner of medicine, dentistry or veterinary medicine or a nurse practitioner.
 
 - **(4)** A licensed dealer may sell or provide a narcotic pursuant to an order received from a remote input device through a computer if the computer program and the remote input device meet the requirements of subsections (6) and (7).
 
@@ -701,7 +717,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
 	- **(a)** order sent through a computer from a remote input device referred to in paragraph (1)(b), or
 	- **(b)** verbal order referred to in paragraph (1)(c) from that pharmacist or practitioner who placed the order for which no receipt has been received.
-> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12.
+> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19.
 
 
 
@@ -735,19 +751,22 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **31** 
 
-- **(1)** No pharmacist shall sell or provide narcotics except in accordance with subsections (2) and (3) and sections 34 to 36.
+- **(1)** No pharmacist shall sell or provide narcotics except in accordance with subsections (2), (2.1) and (3) and sections 34 to 36.
 
 - **(2)** A pharmacist may sell or provide a narcotic other than methadone to a person
 	- **(a)** if the person is exempted under section 56 of the Act with respect to the possession of that narcotic; or
 	- **(b)** if the pharmacist has first received a written order or prescription therefor signed and dated by a practitioner and the signature of the practitioner, where not known to the pharmacist, has been verified by him.
 
+- **(2.1)** For the purpose of subsection (2), for greater certainty, a pharmacist may sell or provide a narcotic to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the narcotic, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
+
 - **(3)** A pharmacist may sell or provide methadone to
 	- **(a)** a licensed dealer;
 	- **(b)** another pharmacist;
-	- **(c)** a hospital employee or a practitioner in a hospital;
+	- **(c)** a hospital employee;
+	- **(c.1)** if practising in a hospital, a practitioner of medicine, dentistry or veterinary medicine or a nurse practitioner;
 	- **(d)** a person exempted under section 56 of the Act with respect to methadone; or
 	- **(e)** a person from whom the pharmacist has received a written order or prescription therefor signed and dated by a practitioner of medicine who is exempted under section 56 of the Act with respect to methadone.
-> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14.
+> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14; SOR/2012-230, s. 20.
 
 
 
@@ -795,12 +814,12 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(a)** the preparation contains
 		- **(i)** two additional medicinal ingredients other than a narcotic in a quantity of not less than the regular minimum single dose for one such ingredient or one-half the regular minimum single dose for each such ingredient, or
 		- **(ii)** three additional medicinal ingredients other than a narcotic in a quantity of not less than the regular minimum single dose for one such ingredient or one-third the regular minimum single dose for each such ingredient; and
-	- **(b)** there is legibly and conspicuously printed on the main panel of the label and on any outer container the full formula or true list of all active ingredients and a caution to the following effect:“This preparation contains codeine and should not be administered to children except on the advice of a physician or dentist.”
+	- **(b)** there is legibly and conspicuously printed on the inner label and the outer label, as those terms are defined in section A.01.010 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), a caution to the following effect:“This preparation contains codeine and should not be administered to children except on the advice of a physician, dentist or nurse practitioner.”
 
 
 
 - **(2)** No pharmacist shall sell or provide a preparation referred to in subsection (1) if the pharmacist has reasonable grounds to believe that the preparation is to be used for purposes other than recognized medical or dental purposes.
-> SOR/78-154, s. 5; SOR/85-588, s. 13; SOR/2004-237, s. 16.
+> SOR/78-154, s. 5; SOR/85-588, s. 13; SOR/2004-237, s. 16; SOR/2012-230, s. 21.
 
 
 
@@ -982,8 +1001,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(3)** No practitioner shall administer methadone to a person or animal, or prescribe, sell or provide methadone for a person or animal, unless the practitioner is exempted under section 56 of the Act with respect to methadone.
 
-- **(4)** A practitioner shall not administer diacetylmorphine (heroin) to an animal or to a person who is not an in-patient or out-patient of a hospital providing care or treatment to persons, and shall not prescribe, sell or provide diacetylmorphine (heroin) for an animal or such a person.
-> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20.
+- **(4)** A practitioner of medicine, dentistry or veterinary medicine shall not administer diacetylmorphine (heroin) to an animal or to a person who is not an in-patient or out-patient of a hospital providing care or treatment to persons, and shall not prescribe, sell or provide diacetylmorphine (heroin) for an animal or such a person.
+> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20; SOR/2012-230, s. 22.
 
 
 
@@ -1141,8 +1160,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(6)** A person in charge of a hospital may permit a narcotic to be provided to a person who is exempted under section 56 of the Act with respect to the narcotic and who is employed in a research laboratory in the hospital for the purpose of research.
 
-- **(7)** The person in charge of a hospital providing care or treatment to persons may permit diacetylmorphine (heroin) to be sold, provided or administered to a person under treatment as an in-patient or out-patient of the hospital on receipt of a prescription or a written order signed and dated by a practitioner.
-> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25.
+- **(7)** The person in charge of a hospital providing care or treatment to persons may permit diacetylmorphine (heroin) to be sold, provided or administered to a person under treatment as an in-patient or out-patient of the hospital on receipt of a prescription or a written order signed and dated by a practitioner of medicine or dentistry.
+> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23.
 
 
 
@@ -1228,7 +1247,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 ***nursing statutory body*** means any provincial professional licensing authority that, under the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme régissant la profession d’infirmier*)
 
 - **(2)** The Minister may communicate to a nursing statutory body any information obtained under the Act or these Regulations that involves any member of that body.
-> SOR/82-121, s. 1; SOR/2010-221, s. 16.
+
+- **(3)** Subsection (2) does not apply to a nurse practitioner.
+> SOR/82-121, s. 1; SOR/2010-221, s. 16; SOR/2012-230, s. 24.
 
 
 
