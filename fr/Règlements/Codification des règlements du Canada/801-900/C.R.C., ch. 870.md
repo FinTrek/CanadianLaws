@@ -33821,13 +33821,17 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 ***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article G.02.003.2. (*licensed dealer*)
 
-***drogue contrôlée*** Toute drogue visée à l’annexe de la présente partie, y compris une préparation. (*controlled drug*)
+***drogue contrôlée*** Selon le cas :
+- **a)** toute drogue visée à l’annexe de la présente partie, y compris une préparation;
+- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute drogue visée à l’annexe de la présente partie, y compris une préparation, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*controlled drug*)
 
 ***hôpital***
 - **a)** Établissement qui fait l’objet d’un permis délivré par la province ou qui a été approuvé ou désigné par elle, en conformité avec ses lois, en vue d’assurer des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection;
 - **b)** établissement qui assure des soins de santé et qui appartient au gouvernement du Canada ou d’une province ou est exploité par lui; (*hospital*)
 
 ***implant agricole*** Produit qui est présenté sous une forme qui permet la libération lente d’un principe actif dans un délai donné et qui est destiné à être inséré sous la peau d’un animal producteur de denrées alimentaires aux fins de l’accroissement du gain pondéral et de l’indice de consommation. (*agricultural implant*)
+
+***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*nurse practitioner*)
 
 ***licence***[Abrogée, DORS/2004-238, art. 1]
 
@@ -33857,9 +33861,13 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **(ii)** à exploiter ou diriger une pharmacie ou une officine, et qui exploite ou dirige une pharmacie ou une officine et exerce la profession de pharmacien en vertu desdites lois dans cette province, et
 - **b)** s’entend en outre, pour l’application des articles G.01.002, G.01.003, G.03.002 à G.03.008, G.03.014, G.03.015 et G.03.017 et des paragraphes G.05.003(3) et (4), d’une personne inscrite et autorisée en vertu des lois d’une province à exercer la pharmacie et qui exerce la pharmacie dans cette province. (*pharmacist*)
 
+***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
+
 ***praticien***[Abrogée, DORS/97-228, art. 7]
 
 ***préparation*** désigne une drogue qui renferme une drogue contrôlée et un ou plusieurs ingrédients actifs de nature médicinale, en dose thérapeutique reconnue, autre qu’une drogue contrôlée; (*preparation*)
+
+***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
 
 ***usage parentéral***, relativement à une drogue contrôlée, signifie l’administration au moyen d’une seringue ou d’une aiguille hypodermique ou autre instrument à travers ou dans la peau ou une muqueuse. (*parenteral use*)
 
@@ -33888,10 +33896,10 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 ***ministère*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*Department*)
 
-***publicité*** ou ***annonce*** S’entend au sens de l’article 2 de la Loi sur les aliments et drogues. (*advertisement*)
+***publicité*** ou ***annonce*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*advertisement*)
 
 - **(3)** Sauf indication contraire, les définitions figurant au paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) s’appliquent à la présente partie et à la partie J.
-> DORS/78-220, art. 1; DORS/85-550, art. 1; DORS/86-91, art. 1; DORS/90-261, art. 1(F); DORS/92-386, art. 1; DORS/97-228, art. 7; DORS/97-515, art. 2; DORS/2003-135, art. 2; DORS/2004-238, art. 1.
+> DORS/78-220, art. 1; DORS/85-550, art. 1; DORS/86-91, art. 1; DORS/90-261, art. 1(F); DORS/92-386, art. 1; DORS/97-228, art. 7; DORS/97-515, art. 2; DORS/2003-135, art. 2; DORS/2004-238, art. 1; DORS/2012-230, art. 6.
 
 
 
@@ -34012,12 +34020,14 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 - **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
 	- **a)** bien connaître les dispositions de la Loi et de ses règlements qui s’appliquent à la licence du distributeur autorisé qui les a désignées et posséder des connaissances et une expérience de la chimie et de la pharmacologie pour pouvoir bien s’acquitter de leurs fonctions;
-	- **b)** être des pharmaciens ou des praticiens agréés par l’autorité provinciale attributive de licences en matière d’activités professionnelles ou être titulaire d’un diplôme dans une discipline scientifique connexe — notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie organique ou le génie chimique — décerné par une université canadienne ou, s’il s’agit d’une université étrangère, reconnu par une université ou une association professionnelle canadiennes;
+	- **b)** être, selon le cas :
+		- **(i)** un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles,
+		- **(ii)** titulaire d’un diplôme dans une discipline scientifique connexe — notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie organique ou le génie chimique — décerné par une université canadienne ou, s’il s’agit d’une université étrangère, reconnu par une université ou une association professionnelle canadiennes;
 	- **c)** ne pas avoir, au cours des dix dernières années, été reconnues coupables en tant qu’adulte :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-238, art. 3; DORS/2010-222, art. 1(A) et 34.
+> DORS/2004-238, art. 3; DORS/2010-222, art. 1(A) et 34; DORS/2012-230, art. 7.
 
 
 
@@ -34078,7 +34088,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **b)** un document émanant d’un service de police canadien pour chacune des personnes mentionnées à l’alinéa a), attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable en tant qu’adulte d’une infraction désignée en matière de drogue ou d’une infraction désignée en matière criminelle;
 	- **c)** dans le cas où l’une des personnes visées à l’alinéa a) a eu, au cours des dix dernières années, sa résidence habituelle dans un pays autre que le Canada, un document émanant d’un service de police de ce pays attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable dans ce pays en tant qu’adulte d’une infraction qui, si elle avait été commise au Canada, aurait été une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle;
 	- **d)** une déclaration, signée et datée par le responsable de l’installation visée par la demande, attestant que la personne qualifiée responsable proposée et, le cas échéant, la personne qualifiée responsable suppléante proposée, ont les connaissances et l’expérience exigées par l’alinéa G.02.001.2(2)a);
-	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien ou un praticien agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé à l’alinéa G.02.001.2(2)b) et une copie du relevé de notes relatif à ce diplôme;
+	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé au sous-alinéa G.02.001.2(2)b)(ii) et une copie du relevé de notes relatif à ce diplôme;
 	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant une drogue contrôlée, une copie de l’étiquette intérieure, au sens de l’article A.01.010, de chaque produit ou composé auquel s’appliquerait la licence;
 	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
 		- **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
@@ -34092,7 +34102,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **a)** à ce qu’une recherche soit effectuée pour vérifier si elles ont eu, au cours des dix dernières années, un casier judiciaire, en tant qu’adulte, relativement aux infractions visées à ces alinéas;
 	- **b)** à fournir les renseignements nécessaires à la vérification du casier judiciaire et à se soumettre à toute opération d’identification nécessaire pour obtenir la vérification;
 	- **c)** à payer le prix exigé pour la vérification aux termes du [Règlement sur le prix à payer pour la vérification de casiers judiciaires à des fins civiles (Gendarmerie royale du Canada)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/485.md).
-> DORS/2004-238, art. 4; DORS/2010-222, art. 2.
+> DORS/2004-238, art. 4; DORS/2010-222, art. 2; DORS/2012-230, art. 8.
 
 
 
@@ -34425,14 +34435,18 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 
 
-**G.02.024** Il est interdit au distributeur autorisé de vendre ou de fournir une drogue contrôlée à des personnes autres que les suivantes :
-- **a)** un distributeur autorisé;
-- **b)** un pharmacien;
-- **c)** un praticien;
-- **d)** un employé d’un hôpital ou un praticien exerçant dans un hôpital;
-- **e)** [Abrogé, DORS/2010-222, art. 11]
-- **f)** une personne qui bénéficie d’une exemption accordée aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une drogue contrôlée.
-> DORS/78-220, art. 3; DORS/85-550, art. 2; DORS/99-125, art. 2; DORS/2004-238, art. 9; DORS/2010-222, art. 11.
+**G.02.024** 
+
+- **(1)** Il est interdit au distributeur autorisé de vendre ou de fournir une drogue contrôlée à des personnes autres que les suivantes :
+	- **a)** un distributeur autorisé;
+	- **b)** un pharmacien;
+	- **c)** un praticien;
+	- **d)** un employé d’un hôpital ou un praticien exerçant dans un hôpital;
+	- **e)** [Abrogé, DORS/2010-222, art. 11]
+	- **f)** une personne qui bénéficie d’une exemption accordée aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une drogue contrôlée.
+
+- **(2)** Pour l’application du paragraphe (1), il est entendu que le distributeur autorisé ne peut vendre ou fournir une drogue contrôlée à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire cette drogue, l’avoir en sa possession ou se livrer à toute autre opération relativement à celle-ci.
+> DORS/78-220, art. 3; DORS/85-550, art. 2; DORS/99-125, art. 2; DORS/2004-238, art. 9; DORS/2010-222, art. 11; DORS/2012-230, art. 9.
 
 
 
@@ -34457,15 +34471,15 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 **G.02.025** 
 
-- **(1)** Sous réserve du présent article, le distributeur autorisé peut, conformément aux modalités de sa licence, vendre ou fournir une drogue contrôlée à une personne visée à l’article G.02.024, si les conditions suivantes sont réunies :
+- **(1)** Sous réserve du présent article et si l’article G.02.024 le permet, le distributeur autorisé peut, conformément aux modalités de sa licence, vendre ou fournir une drogue contrôlée à une personne, si les conditions suivantes sont réunies :
 	- **a)** [Abrogé, DORS/2010-222, art. 12]
 	- **b)** le distributeur autorisé a reçu, au lieu indiqué dans la licence, une commande sous l’une des formes suivantes, précisant le nom de la drogue et la quantité devant être fournie :
 		- **(i)** une commande écrite,
 		- **(ii)** une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance,
 		- **(iii)** une commande verbale, dans le cas d’une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie.
 
-- **(2)** Le distributeur autorisé qui reçoit une commande écrite visée au sous-alinéa (1)b)(i) et en a vérifié la signature peut vendre ou fournir une drogue contrôlée à une personne visée à l’article G.02.024 si la commande est signée et datée par l’une des personnes suivantes :
-	- **a)** dans les cas où la drogue contrôlée doit être vendue ou fournie à une personne visée aux alinéas G.02.024a), b), c) ou f), par cette personne;
+- **(2)** Le distributeur autorisé qui reçoit une commande écrite visée au sous-alinéa (1)b)(i) et en a vérifié la signature peut, si l’article G.02.024 le permet, vendre ou fournir une drogue contrôlée à toute personne si la commande est signée et datée par l’une des personnes suivantes :
+	- **a)** dans les cas où la drogue contrôlée doit être vendue ou fournie à une personne visée aux alinéas G.02.024(1)a), b), c) ou f), par cette personne;
 	- **b)** dans les cas où la drogue contrôlée doit être fournie à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, par le pharmacien responsable de l’officine de l’hôpital ou par un praticien autorisé par la personne à qui est confiée la charge de l’hôpital à signer la commande.
 
 - **(3)** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée par suite d’une commande reçue par ordinateur à partir d’un périphérique d’entrée à distance, si le programme informatique et le périphérique d’entrée à distance satisfont aux exigences visées aux paragraphes (5) et (6).
@@ -34474,7 +34488,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 - **(3.2)** Le distributeur autorisé qui reçoit une commande verbale mentionnée au sous-alinéa (1)b)(iii) peut fournir une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, si cette commande a été faite par le pharmacien responsable de l’officine de l’hôpital ou par le praticien autorisé par le responsable de l’hôpital à faire une telle commande.
 
-- **(4)** Le distributeur autorisé qui reçoit la commande verbale visée au sous-alinéa (1)b)(iii) et qui vend ou fournit une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie à une personne visée à l’un des alinéas G.02.024b) à d) consigne immédiatement les renseignements suivants :
+- **(4)** Le distributeur autorisé qui reçoit la commande verbale visée au sous-alinéa (1)b)(iii) et qui vend ou fournit une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie à une personne visée à l’un des alinéas G.02.024(1)b) à d) consigne immédiatement les renseignements suivants :
 	- **a)** le nom de la personne à laquelle il a vendu ou fourni la drogue contrôlée;
 	- **b)** lorsque la drogue a été fournie à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, le nom du pharmacien responsable de l’officine de l’hôpital ou du praticien autorisé par la personne à qui est confiée la charge de l’hôpital à signer la commande;
 	- **c)** la date de réception de la commande.
@@ -34499,7 +34513,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 - **(8)** Si, dans le délai prévu au paragraphe (7), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni la drogue contrôlée, il doit refuser, jusqu’à ce qu’il obtienne le reçu, d’honorer l’une ou l’autre des commandes suivantes faite par le pharmacien ou le praticien :
 	- **a)** la commande visée au sous-alinéa (1)b)(ii) envoyée par ordinateur au moyen d’un périphérique d’entrée à distance;
 	- **b)** la commande verbale visée au sous-alinéa (1)b)(iii). 
-> DORS/78-220, art. 4; DORS/78-427, art. 4; DORS/85-550, art. 3; DORS/88-482, art. 3(F); DORS/90-261, art. 2(F); DORS/97-228, art. 11; DORS/2004-238, art. 11; DORS/2010-222, art. 12.
+> DORS/78-220, art. 4; DORS/78-427, art. 4; DORS/85-550, art. 3; DORS/88-482, art. 3(F); DORS/90-261, art. 2(F); DORS/97-228, art. 11; DORS/2004-238, art. 11; DORS/2010-222, art. 12; DORS/2012-230, art. 10.
 
 
 
@@ -34564,10 +34578,14 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 
 
-**G.03.003** Le pharmacien peut vendre ou fournir une drogue contrôlée à un praticien pour l’usage de sa pratique professionnelle dans l’une des circonstances suivantes :
-- **a)** sur réception d’une commande écrite, signée et datée par le praticien, pourvu qu’il vérifie la signature du praticien si elle lui est inconnue;
-- **b)** sur réception d’une commande verbale, précisant le nom et la quantité de la drogue, s’il prend les moyens raisonnables pour s’assurer que la personne qui fait la commande est un praticien.
-> DORS/85-550, art. 5; DORS/2004-238, art. 16.
+**G.03.003** 
+
+- **(1)** Le pharmacien peut vendre ou fournir une drogue contrôlée à un praticien pour l’usage de sa pratique professionnelle dans l’une des circonstances suivantes :
+	- **a)** sur réception d’une commande écrite, signée et datée par le praticien, pourvu qu’il vérifie la signature du praticien si elle lui est inconnue;
+	- **b)** sur réception d’une commande verbale, précisant le nom et la quantité de la drogue, s’il prend les moyens raisonnables pour s’assurer que la personne qui fait la commande est un praticien.
+
+- **(2)** Pour l’application du paragraphe (1), il est entendu que le pharmacien ne peut vendre ou fournir une drogue contrôlée à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire cette drogue, l’avoir en sa possession ou se livrer à toute autre opération relativement à celle-ci.
+> DORS/85-550, art. 5; DORS/2004-238, art. 16; DORS/2012-230, art. 11.
 
 
 
@@ -34743,14 +34761,14 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 - **(1)** Dans le présent article,
 
-***administrer*** s’entend notamment du fait de prescrire, de vendre ou de fournir; (*administer*)
+***administrer*** s’entend notamment du fait de prescrire, de vendre ou de fournir; (*administer*)
 
-***drogue désignée*** signifie l’une des drogues contrôlées suivantes :
+***drogue désignée*** signifie l’une des drogues contrôlées suivantes :
 - **a)** amphétamine et ses sels,
 - **b)** benzphétamine et ses sels,
 - **c)** méthamphétamine et ses sels,
 - **d)** phenmétrazine et ses sels, ou
-- **e)** phendimétrazine et ses sels. (*designated drug*)
+- **e)** phendimétrazine et ses sels. (*designated drug*)
 
 - **(2)** Sous réserve des paragraphes (3) et (4) et d’une exemption dont il bénéficie aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à l’administration de la drogue contrôlée qui est nommée dans l’exemption, il est interdit à tout praticien d’administrer une drogue contrôlée à une personne ou à un animal.
 
@@ -34758,16 +34776,16 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **a)** ladite personne ou ledit animal sont des sujets qu’il traite à titre professionnel; et si
 	- **b)** l’état de ladite personne ou dudit animal traités commande l’emploi de ladite drogue contrôlée.
 
-- **(4)** Un praticien peut administrer une drogue désignée à un animal ou à une personne qu’il traite à titre professionnel, lorsque la drogue désignée est destinée au traitement de l’un des états suivants :
+- **(4)** Un praticien de la médecine, un dentiste, un vétérinaire ou un infirmier praticien peut administrer une drogue désignée à un animal ou à une personne qu’il traite à titre professionnel, lorsque la drogue désignée est destinée au traitement de l’un des états suivants :
 	- **a)** chez l’homme,
 		- **(i)** narcolepsie,
 		- **(ii)** troubles hypercinétiques chez l’enfant,
-		- **(iii)** arriération mentale (dysfonction cérébrale minimale),
+		- **(iii)** [Abrogé, DORS/2012-230, art. 12]
 		- **(iv)** épilepsie,
 		- **(v)** syndrome parkinsonien, ou
 		- **(vi)** hypotension liée à l’anesthésie; et
 	- **b)** chez les animaux, dépression des centres cardiaques et respiratoires.
-> DORS/99-125, art. 4; DORS/2004-238, art. 23.
+> DORS/99-125, art. 4; DORS/2004-238, art. 23; DORS/2012-230, art. 12.
 
 
 
@@ -35038,12 +35056,14 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 - **(1)** Dans le présent article,
 
-***membre*** désigne toute personne inscrite, licenciée ou certifiée au tableau d’un organisme de nursing; (*member*)
+***membre*** désigne toute personne inscrite, licenciée ou certifiée au tableau d’un organisme de nursing; (*member*)
 
-***organisme de nursing*** désigne tout organisme de réglementation professionnelle autorisé, par les lois d’une province, à inscrire, licencier ou certifier une personne, lui donnant ainsi le droit d’exercer la profession de nursing. (*nursing statutory body*)
+***organisme de nursing*** désigne tout organisme de réglementation professionnelle autorisé, par les lois d’une province, à inscrire, licencier ou certifier une personne, lui donnant ainsi le droit d’exercer la profession de nursing. (*nursing statutory body*)
 
 - **(2)** Le ministre peut communiquer à un organisme de nursing tout renseignement concernant un de ses membres obtenu sous le régime de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou du présent règlement.
-> DORS/82-120, art. 1; DORS/97-228, art. 19.
+
+- **(3)** Le paragraphe (2) ne s’applique pas à l’infirmier praticien.
+> DORS/82-120, art. 1; DORS/97-228, art. 19; DORS/2012-230, art. 13.
 
 
 
