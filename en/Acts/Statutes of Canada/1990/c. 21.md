@@ -1111,9 +1111,12 @@ minus
 	- **(x)** requiring animals and things to be marked or to have affixed to them tags, seals or other devices for the purposes of this Act, authorizing inspectors or officers to mark animals and things or to affix to them tags, seals or other devices for the purposes of this Act, and prohibiting the removal, breaking, tampering with or altering of those marks, tags, seals or other devices;
 	- **(y)** establishing and governing a national identification system for animals that provides for standards and means of identification;
 	- **(z)** requiring animals to be identified under the system established under paragraph (y) when the ownership or possession of them changes or when they are transported or otherwise dealt with;
-	- **(z.1)** governing the manufacture, sale, distribution and use of the means of identification to be used in the system established under paragraph (y);
+	- **(z.1)** governing the manufacture, sale, distribution or use of any means of identification used in the system established under paragraph (y);
 	- **(z.2)** governing the collection of information and statistics, the publication of studies and the conduct of surveys on any matter related to this Act or the regulations;
 	- **(z.3)** requiring records to be kept respecting activities in respect of which this Act or the regulations apply;
+	- **(z.31)** requiring persons to provide to the Minister or any other person authorized by the Minister, in the form and manner that the Minister or other person, as the case may be, directs, information in relation to animals or things to which this Act or the regulations apply, including information in respect of their movements, events in relation to them and places where they are or were located;
+	- **(z.32)** governing the identification of places in respect of which information is to be provided under regulations made under paragraph (z.31);
+	- **(z.33)** prohibiting or governing the use or disclosure of information provided under regulations made under any of paragraphs (y) to (z.1) and (z.31);
 	- **(z.4)** prescribing any fees or charges, or the manner of calculating any fees or charges, required for carrying out the purposes and provisions of this Act or the regulations; and
 	- **(z.5)** prescribing anything required by this Act to be prescribed, other than anything to be prescribed by the Minister.
 
@@ -1130,10 +1133,10 @@ minus
 
 - **(3)** Subsection (2) shall not be construed so as to limit the application of subsection (1) in respect of birds.
 
-**Definitions of “bird” and “chick”**
+**Definitions of bird and chick**
 
-- **(4)** For the purposes of subsections (2) and (3), “bird” means a bird that is or has been in captivity and “chick” means a bird that is less than seventy-two hours old.
-> 1990, c. 21, s. 64; 1993, c. 34, s. 76.
+- **(4)** For the purposes of subsections (2) and (3), ***bird*** means a bird that is or has been in captivity and ***chick*** means a bird that is less than seventy-two hours old.
+> 1990, c. 21, s. 64; 1993, c. 34, s. 76; 2012, c. 24, s. 94.
 
 
 
