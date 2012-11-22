@@ -1047,9 +1047,12 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 	- **x)** pour l’application de la présente loi, imposer le marquage — notamment au moyen d’un sceau — d’animaux ou de choses ou l’apposition sur ceux-ci d’une étiquette ou de tout autre moyen d’identification, autoriser les inspecteurs ou les agents d’exécution à y procéder et interdire l’enlèvement, le bris ou la modification de ces marques, sceaux, étiquettes ou autres moyens d’identification;
 	- **y)** établir et appliquer un système national d’identification des animaux qui prévoit des normes et des moyens pour les identifier;
 	- **z)** exiger l’identification des animaux conformément au système prévu à l’alinéa y) en cas de changement de propriétaire ou de possesseur ou à l’occasion de leur transport ou de toute mesure prise à leur égard;
-	- **z.1)** régir la fabrication, la vente, la distribution et l’utilisation des moyens d’identification prévus à l’alinéa y);
+	- **z.1)** régir la fabrication, la vente, la distribution ou l’utilisation de tout moyen d’identification prévu à l’alinéa y);
 	- **z.2)** régir la collecte de données — statistiques et autres — , la publication d’études et la réalisation d’enquêtes ou de sondages concernant toute question liée à la présente loi ou aux règlements;
 	- **z.3)** exiger la tenue de registres relatifs aux activités régies par la présente loi ou les règlements;
+	- **z.31)** exiger la fourniture au ministre ou à toute autre personne autorisée par le ministre, selon les modalités que le ministre ou cette personne exigent, des renseignements relatifs aux animaux ou aux choses visés par la présente loi ou les règlements, notamment des renseignements sur leur déplacement, les évènements qui les concernent et les lieux où ils se trouvent ou se sont trouvés;
+	- **z.32)** régir l’identification des lieux à l’égard desquels des renseignements doivent être fournis au titre des règlements pris en vertu de l’alinéa z.31);
+	- **z.33)** régir ou interdire l’utilisation ou la communication de renseignements fournis au titre des règlements pris en vertu de l’un des alinéas y) à z.1) et z.31);
 	- **z.4)** fixer tous droits et redevances exigibles dans le cadre de la présente loi et des règlements, ou leur mode de détermination;
 	- **z.5)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi et non réservée au ministre.
 
@@ -1066,10 +1069,10 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 - **(3)** Le paragraphe (2) n’a pas pour effet de limiter l’application du paragraphe (1) en ce qui concerne les volatiles.
 
-**Définitions de « volatiles » et « poussins »**
+**Définitions de volatiles et poussins**
 
-- **(4)** Dans les paragraphes (2) et (3), « volatiles » s’entend des oiseaux en captivité ou l’ayant été et « poussins » des volatiles âgés de moins de soixante-douze heures.
-> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76.
+- **(4)** Dans les paragraphes (2) et (3), ***volatiles*** s’entend des oiseaux en captivité ou l’ayant été et ***poussins*** des volatiles âgés de moins de soixante-douze heures.
+> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76; 2012, ch. 24, art. 94.
 
 
 
