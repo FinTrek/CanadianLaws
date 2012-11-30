@@ -412,7 +412,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#B-9.82_en_2'>[*]</a></sup>**133** Sections 127 to 132 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='B-9.82_en_2'><sup>*</sup></a>: [Note: Sections 128 to 130 in force July 16, 1998, *see* SI/98-83; section 127 in force February 10, 1999, *see* SI/99-12.]<br />
+<a name='B-9.82_en_2'><sup>*</sup></a>: [Note: Sections 128 to 130 in force July 16, 1998, *see* SI/98-83; section 127 in force February 10, 1999, *see* SI/99-12; sections 131 and 132 in force November 30, 2012, *see* SI/2012-91.]<br />
 
 
 
