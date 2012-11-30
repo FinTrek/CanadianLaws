@@ -155,7 +155,87 @@ Enabling authorities:
 **73** Bombs, torpedos, rockets and guided or unguided missiles and all components and parts specifically designed therefor, and any other ammunition for the goods set out in items 70 to 72.
 
 
-**74** The goods referred to in Group 7 of the schedule to the [Export Control List](/en/Regulations/Statutory%20Orders%20and%20Regulations/89/202.md) that are described in any of items 7001 to 7006 of the Guide, as defined in section 1 of that List.
+**74** 
+
+- **(1)** The following CWC Schedule 1 A toxic chemicals:
+	- **(a)** O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) - phosphonofluoridates, e.g., Sarin:O-Isopropyl methylphosphonofluoridate, (CAS 107-44-8) and Soman:O-Pinacolyl methylphosphonofluoridate, (CAS 96-64-0);
+	- **(b)** O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, e.g., Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate, (CAS 77-81-6);
+	- **(c)** O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated or protonated salts, e.g., VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate, (CAS 50782-69-9);
+	- **(d)** the following sulphur mustards:
+		- **(i)** 2-Chloroethylchloromethylsulphide, (CAS 2625-76-5),
+		- **(ii)** Mustard gas: Bis(2-chloroethyl) sulphide, (CAS 505-60-2),
+		- **(iii)** Bis(2-chloroethylthio) methane, (CAS 63869-13-6),
+		- **(iv)** Sesquimustard: 1,2-Bis(2-chloroethylthio)ethane, (CAS 3563-36-8),
+		- **(v)** 1,3-Bis(2-chloroethylthio)-n-propane, (CAS 63905-10-2),
+		- **(vi)** 1,4-Bis(2-chloroethylthio)-n-butane, (CAS 142868-93-7),
+		- **(vii)** 1,5-Bis(2-chloroethylthio)-n-pentane, (CAS 142868-94-8),
+		- **(viii)** Bis(2-chloroethylthiomethyl)ether; (CAS 63918-90-1), and
+		- **(ix)** O-Mustard: Bis(2-chloroethylthioethyl)ether, (CAS 63918-89-8);
+	- **(e)** the following lewisites:
+		- **(i)** Lewisite 1: 2-Chlorovinyldichloroarsine, (CAS 541-25-3),
+		- **(ii)** Lewisite 2: Bis(2-chlorovinyl)chloroarsine, (CAS 40334-69-8), and
+		- **(iii)** Lewisite 3: Tris(2-chlorovinyl)arsine, (CAS 40334-70-1);
+	- **(f)** the following nitrogen mustards:
+		- **(i)** HN1: Bis(2-chloroethyl)ethylamine, (CAS 538-07-8),
+		- **(ii)** HN2: Bis(2-chloroethyl)methylamine, (CAS 51-75-2), and
+		- **(iii)** HN3: Tris(2-chloroethyl)amine, (CAS 555-77-1);
+	- **(g)** Saxitoxin, (CAS 35523-89-8); and
+	- **(h)** Ricin, (CAS 9009-86-3).
+
+- **(2)** The following CWC Schedule 1 B precursors:
+	- **(a)** Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides, e.g., DF: Methylphosphonyldifluoride, (CAS 676-99-3);
+	- **(b)** O-Alkyl (H equal to or less than C10, including cycloalkyl) O-2-dialkyl (Me, Et, n-Pr or i-Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonites and corresponding alkylated or protonated salts, e.g., QL: O-Ethyl O-2-diisopropylaminoethyl methylphosphonite, (CAS 57856-11-8);
+	- **(c)** Chlorosarin: O-Isopropyl methylphosphonochloridate, (CAS 1445-76-7); and
+	- **(d)** Chlorosoman: O-Pinacolyl methylphosphonochloridate, (CAS 7040-57-5).
+
+- **(3)** The following CWC Schedule 2 A toxic chemicals:
+	- **(a)** Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl] phosphorothiolate, (CAS 78-53-5) and corresponding alkylated or protonated salts;
+	- **(b)** PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene, (CAS 382-21-8); and
+	- **(c)** BZ: 3-Quinuclidinyl benzilate, (CAS 6581-06-2).
+
+- **(4)** The following CWC Schedule 2 B precursors:
+	- **(a)** Chemicals, except for those listed in subsection (1) or (2), containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms, such as: Dimethyl methylphosphonate, (CAS 756-79-6) or Methylphosphonyl dichloride, (CAS 676-97-1); Note: This paragraph does not include Fonofos: 0-Ethyl S-phenyl ethylphosphonothiolothionate, (CAS 944-22-9);
+	- **(b)** N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides;
+	- **(c)** Dialkyl (Me, Et, n-Pr or i-Pr) N,N-Dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates;
+	- **(d)** Arsenic trichloride, (CAS 7784-34-1);
+	- **(e)** 2,2-diphenyl-2-hydroxyacetic acid, (CAS 76-93-7);
+	- **(f)** Quinuclidin-3-ol, (CAS 1619-34-7);
+	- **(g)** N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts;
+	- **(h)** N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts, but not including
+		- **(i)** N,N-Dimethylaminoethanol, (CAS 108-01-0) and corresponding protonated salts, or
+		- **(ii)** N,N-Diethylaminoethanol, (CAS 100-37-8) and corresponding protonated salts;
+	- **(i)** N,N-Dialkyl (Me, Et, n-Pr or i-Pr)aminoethane-2-thiols and corresponding protonated salts;
+	- **(j)** Thiodiglycol: Bis(2-hydroxyethyl)sulfide, (CAS 111-48-8); and
+	- **(k)** Pinacolyl alcohol: 3,3-Dimethylbutan-2-ol, (CAS 464-07-3).
+
+- **(5)** The following CWC Schedule 3 A toxic chemicals:
+	- **(a)** Phosgene: Carbonyl dichloride, (CAS 75-44-5);
+	- **(b)** Cyanogen chloride, (CAS 506-77-4);
+	- **(c)** Hydrogen cyanide, (CAS 74-90-8);
+	- **(d)** Chloropicrin: Trichloronitromethane, (CAS 76-06-2).
+
+- **(6)** The following CWC Schedule 3 B precursors:
+	- **(a)** Phosphorus oxychloride, (CAS 10025-87-3);
+	- **(b)** Phosphorus trichloride, (CAS 7719-12-2);
+	- **(c)** Phosphorus pentachloride, (CAS 10026-13-8);
+	- **(d)** Trimethyl phosphite, (CAS 121-45-9);
+	- **(e)** Triethyl phosphite, (CAS 122-52-1);
+	- **(f)** Dimethyl phosphite, (CAS 868-85-9);
+	- **(g)** Diethyl phosphite, (CAS 762-04-9);
+	- **(h)** Sulfur monochloride, (CAS 10025-67-9);
+	- **(i)** Sulfur dichloride, (CAS 10545-99-0);
+	- **(j)** Thionyl chloride, (CAS 7719-09-7);
+	- **(k)** Ethyldiethanolamine, (CAS 139-87-7);
+	- **(l)** Methyldiethanolamine, (CAS 105-59-9); and
+	- **(m)** Triethanolamine, (CAS 102-71-6).
+
+- **(7)** Mixtures containing any quantity of toxic chemicals or precursors listed in subsections (1) and (2).
+
+- **(8)** Mixtures containing any quantity of toxic chemicals or precursors listed in subsections (3) to (6), unless the listed chemical or precursor is an ingredient in a product identified as a consumer good packaged for retail sale to be used for personal purposes.
+
+- **(9)** In this section, ***CWC*** means the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, adopted in Geneva on September 3, 1992 by the Organisation for the Prohibition of Chemical Weapons (known as the Chemical Weapons Convention).
+
+- **(10)** For the purposes of this section, the acronym “CAS” refers to the Chemical Abstracts Service Registry number for a chemical as listed in the Chemical Abstracts Service Registry Handbook published by the American Chemical Society, Washington, D.C.
 
 
 **80** Carbon steel products including semi-finished products (ingots, blooms, billets, slabs and sheet bars), plate, sheet and strip, wire rods, wire and wire products, railway-type products, bars, structural shapes and units, pipes and tubes, but excluding the specialty steel products referred to in item 81.
@@ -298,13 +378,16 @@ Enabling authorities:
 **89** [Repealed, SOR/91-97, s. 2]
 
 
-**90** Articles included in Group 2 of the [Export Control List](/en/Regulations/Statutory%20Orders%20and%20Regulations/89/202.md) that are of South African origin.
+**90** [Repealed, SOR/2012-258, s. 2]
 
 
-**91** Prohibited weapons that are
-- **(a)** prohibited weapons described in paragraph (c) or (e) of the definition ***prohibited weapon*** in subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-- **(b)** any component of a prohibited weapon referred to in paragraph (a), that is an assembly or subassembly that contains one or more parts described in paragraph (c); and
-- **(c)** any part that is a piece of the action of a prohibited weapon referred to in paragraph (a), including the bolt or bolt-carrier, that is designed to enable the prohibited weapon to discharge bullets in rapid succession during one pressure of the trigger, whether or not the part permits the discharge to be limited to a single bullet for each such pressure.
+**91** 
+
+- **(1)** Firearms and devices that are
+	- **(a)** prohibited firearms described in paragraph (c) or (d) of the definition ***prohibited firearm*** in subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
+	- **(b)** prohibited devices described in paragraph (b) of the definition ***prohibited device*** in subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+- **(2)** Any part that is a piece of the action of a prohibited firearm referred to in paragraph (1)(a), including the bolt or bolt-carrier, that is designed to enable a prohibited firearm to discharge bullets in rapid succession during one pressure of the trigger, whether or not the part permits the discharge to be limited to a single bullet for each such pressure, and any assembly or sub-assembly that contains one or more of those parts.
 
 
 **92** [Repealed, SOR/94-647, s. 1]
@@ -316,7 +399,7 @@ Enabling authorities:
 **94** Live broilers for domestic production, being fowls of the species *Gallus domesticus*, and weighing not more than 185 g, that are classified under tariff item No. 0105.11.21 or 0105.11.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.11.11 or 0407.11.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.11.11 or 0407.11.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **96** Live fowls of the species *Gallus domesticus* (other than those for breeding purposes and other than started pullets and spent fowls), weighing more than 185 g, that are classified under tariff item No. 0105.94.91 or 0105.94.92, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -328,7 +411,7 @@ Enabling authorities:
 **98** Cuts of meat and edible offal, including livers, of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen (other than spent fowls), that are classified under tariff item No. 0207.13.91, 0207.13.92 (bone in), 0207.13.93 (boneless), 0207.14.21, 0207.14.22, 0207.14.91, 0207.14.92 (bone in) or 0207.14.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.10 or 0209.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.10 or 0209.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **100** Meat of fowls of the species *Gallus Domesticus*, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.11, 0210.99.12 (bone in) or 0210.99.13 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -355,7 +438,7 @@ Enabling authorities:
 **107** Cuts of meat and edible offal, including livers, of turkeys, fresh, chilled or frozen, that are classified under tariff item No. 0207.26.10, 0207.26.20 (bone in), 0207.26.30 (boneless), 0207.27.11, 0207.27.12, 0207.27.91, 0207.27.92 (bone in) or 0207.27.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.30 or 0209.90.40 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.30 or 0209.90.40 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **109** Meat of turkeys, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.14, 0210.99.15 (bone in) or 0210.99.16 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -385,7 +468,7 @@ Enabling authorities:
 **117** Milk and cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 6 per cent, that are classified under tariff item No. 0401.10.10, 0401.10.20, 0401.20.10 or 0401.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.40.10, 0401.40.20, 0401.50.10 or 0401.50.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.40.10, 0401.40.20, 0401.50.10 or 0401.50.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **118** Milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 per cent, classified under tariff item No. 0402.10.10 or 0402.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -532,7 +615,7 @@ Enabling authorities:
 **160** Fats and oils derived from milk, other than butter or dairy spreads, that are classified under tariff item No. 0405.90.10 or 0405.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**161** Wheat and meslin that are classified under tariff item No. 1001.11.10, 1001.11.20, 1001.19.10, 1001.19.20, 1001.91.10, 1001.91.20, 1001.99.10 or 1001.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**161** Wheat and meslin that are classified under tariff item No. 1001.11.10, 1001.11.20, 1001.19.10, 1001.19.20, 1001.91.10, 1001.91.20, 1001.99.10 or 1001.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **162** Wheat or meslin flour that is classified under tariff item No. 1101.00.10 or 1101.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -580,7 +663,7 @@ Enabling authorities:
 **175** Crispbread, containing 25 per cent or more by weight of wheat, that is classified under tariff item No. 1905.10.10, 1905.10.21, 1905.10.29, 1905.10.40, 1905.10.51, 1905.10.59, 1905.10.71 or 1905.10.72 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**176** Sweet biscuits, waffles and wafers, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.31.21, 1905.31.22, 1905.31.23, 1905.31.91, 1905.31.92, 1905.31.93 , 1905.32.91 or 1905.32.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**176** Sweet biscuits, waffles and wafers, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.31.21, 1905.31.22, 1905.31.23, 1905.31.91, 1905.31.92, 1905.31.93, 1905.32.91 or 1905.32.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **177** Rusks, toasted bread and similar toasted products, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.40.20, 1905.40.31, 1905.40.39, 1905.40.50, 1905.40.61 or 1905.40.69 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -598,7 +681,7 @@ Enabling authorities:
 **181** Wheat bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of wheat, that are classified under tariff item No. 2302.30.10 or 2302.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**182** Barley that is classified under tariff item No. 1003.10.11, 1003.10.12, 1003.10.91, 1003.10.92, 1003.90.11, 1003.90.12, 1003.90.91 or 1003.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**182** Barley that is classified under tariff item No. 1003.10.11, 1003.10.12, 1003.10.91, 1003.10.92, 1003.90.11, 1003.90.12, 1003.90.91 or 1003.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **183** Barley flour that is classified under tariff item No. 1102.90.11 or 1102.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -644,7 +727,7 @@ Enabling authorities:
 **194** [Repealed, SOR/2011-157, s. 1]
 
 
-> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1; SOR/2011-171, s. 1; SOR/2011-321, ss. 1 to 7.
+> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1; SOR/2011-171, s. 1; SOR/2011-321, ss. 1 to 7; SOR/2012-258, ss. 1, 2.
 
 
 
