@@ -155,7 +155,87 @@ Autorités habilitantes :
 **73** Bombes, torpilles, roquettes et missiles guidés ou non guidés; pièces et composants spécialement conçus pour ceux-ci; munitions destinées aux marchandises visées aux articles 70 à 72.
 
 
-**74** Les marchandises du groupe 7 de l’annexe de la Liste des marchandises d’exportation contrôlée qui sont visées à l’un des articles 7001 à 7006 du Guide, au sens de l’article 1 de cette liste.
+**74** 
+
+- **(1)** Les produits chimiques toxiques ci-après de la partie A du tableau 1 de la CAC :
+	- **a)** alkyl (Me, Et, n-Pr ou i-Pr)phosphonofluoridates de O-alkyle (égal ou inférieur à C10, y compris cycloalkyle), p. ex. Sarin : méthylphosphonofluoridate de O-isopropyle (CAS 107-44-8) et Soman : méthylphosphonofluoridate de O-pinacolyle (CAS 96-64-0);
+	- **b)** N,N-dialkyl(Me, Et, n-Pr ou i-Pr)phosphoramidocyanidates de O-alkyle (égal ou inférieur à C10, y compris cycloalkyle), p. ex. Tabun : N,N-diméthylphosphoramidocyanidate de O-éthyle (CAS 77-81-6);
+	- **c)** alkyl(Me, Et, n-Pr ou i-Pr)phosphonothioates de O-alkyle (H ou égal ou inférieur à C10, y compris cycloalkyle) et de S-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels alkylés ou protonés correspondants, p. ex. VX : méthylphosphonothioate de O-éthyle et de S-2-diisopropylaminoéthyle (CAS 50782-69-9);
+	- **d)** les moutardes au soufre suivantes :
+		- **(i)** sulfure de 2-chloroéthyle et de chlorométhyle (CAS 2625-76-5),
+		- **(ii)** gaz moutarde : sulfure de bis(2-chloroéthyle) (CAS 505-60-2),
+		- **(iii)** Bis(2-chloroéthylthio)méthane (CAS 63869-13-6),
+		- **(iv)** sesquimoutarde : 1,2-bis(2-chloroéthylthio)éthane (CAS 3563-36-8),
+		- **(v)** 1,3-Bis(2-chloroéthylthio)-n-propane (CAS 63905-10-2),
+		- **(vi)** 1,4-Bis(2-chloroéthylthio)-n-butane (CAS 142868-93-7),
+		- **(vii)** 1,5-Bis(2-chloroéthylthio)-n-pentane (CAS 142868-94-8),
+		- **(viii)** oxyde de bis(2-chloroéthylthiométhyle) (CAS 63918-90-1),
+		- **(ix)** moutarde-O : oxyde de bis(2-chloroéthylthioéthyle) (CAS 63918-89-8);
+	- **e)** les lewisites suivantes :
+		- **(i)** lewisite 1 : 2-chlorovinyldichlorarsine (CAS 541-25-3),
+		- **(ii)** lewisite 2 : bis(2-chlorovinyl)chlorarsine (CAS 40334-69-8),
+		- **(iii)** lewisite 3 : tris(2-chlorovinyl)arsine (CAS 40334-70-1);
+	- **f)** les moutardes à l’azote suivantes :
+		- **(i)** HN1 : bis(2-chloroéthyl)éthylamine (CAS 538-07-8),
+		- **(ii)** HN2 : bis(2-chloroéthyl)méthylamine (CAS 51-75-2),
+		- **(iii)** HN3 : tris(2-chloroéthyl)amine (CAS 555-77-1);
+	- **g)** saxitoxine (CAS 35523-89-8);
+	- **h)** ricine (CAS 9009-86-3).
+
+- **(2)** Les précurseurs ci-après de la partie B du tableau 1 de la CAC :
+	- **a)** difluorures d’alkyl(Me, Et, n-Pr ou i-Pr)phosphonyle, p. ex. DF : difluorure de méthylphosphonyle (CAS 676-99-3);
+	- **b)** alkyl(Me, Et, n-Pr ou i-Pr)phosphonites de O-alkyle (H ou égale ou inférieur à C10, y compris cycloalkyle) et de O-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels alkylés ou protonés correspondants, p. ex. QL : méthylphosphonite de O-éthyle et de O-2-diisopropylaminoéthyle, (CAS 57856-11-8);
+	- **c)** chloro sarin : méthylphosphonochloridate de O-isopropyle (CAS 1445-76-7);
+	- **d)** chloro soman : méthylphosphonochloridate de O-pinacolyle (CAS 7040-57-5).
+
+- **(3)** Les produits chimiques toxiques ci-après de la partie A du tableau 2 de la CAC :
+	- **a)** amiton : phosphorothioate de O,O-diéthyle et de S-[2-(diéthylamino)éthyle] (CAS 78-53-5) et les sels alkylés ou protonés correspondants;
+	- **b)** PFIB : 1,1,3,3,3-pentafluoro-2-(trifluorométhyl) propène (CAS 382-21-8);
+	- **c)** BZ : benzilate de 3-quinuclidinyle (CAS 6581-06-2).
+
+- **(4)** Les précurseurs ci-après de la partie B du tableau 2 de la CAC :
+	- **a)** produits chimiques, sauf ceux qui sont répertoriés aux paragraphes (1) ou (2), contenant un atome de phosphore auquel est lié un groupe méthyle, éthyle ou propyle (normal ou iso), sans autre atome de carbone, p. ex. : 1. méthylphosphonate de diméthyle (CAS 756-79-6), 2. dichlorure de méthylphosphonyle (CAS 676-97-1); note : cet alinéa ne couvre pas le fonofos :éthyldithiophosphonate de O-éthyle et de S-phényle (CAS 944-22-9);
+	- **b)** dihalogénures N,N-dialkyl(Me, Et, n-Pr ou i-Pr)phosphoramidiques;
+	- **c)** N,N-Dialkyl(Me, Et, n-Pr ou i-Pr)phosphoramidates de dialkyle(Me, Et, n-Pr ou i-Pr);
+	- **d)** trichlorure d’arsenic (CAS 7784-34-1);
+	- **e)** acide 2,2-diphényl-2-hydroxyacétique (CAS 76-93-7);
+	- **f)** quinuclidin-3-ol (CAS 1619-34-7);
+	- **g)** chlorures de N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthyle et les sels protonés correspondants;
+	- **h)** N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthanol et les sels protonés correspondants, à l’exclusion des précurseurs suivants :
+		- **(i)** N,N-Diméthylaminoéthanol (CAS 108-01-0) et les sels protonés correspondants,
+		- **(ii)** N,N-Diéthylaminoéthanol (CAS 100-37-8) et les sels protonés correspondants;
+	- **i)** N,N-2-dialkyl(Me, Et, n-Pr ou i-Pr)aminoéthanethiol et les sels protonés correspondants;
+	- **j)** thiodiglycol : sulfure de bis(2-hydroxyéthyle) (CAS 111-48-8);
+	- **k)** alcool pinacolique : 3,3-diméthylbutan-2-ol (CAS 464-07-3).
+
+- **(5)** Les produits chimiques toxiques ci-après de la partie A du tableau 3 de la CAC :
+	- **a)** phosgène : Dichlorure de carbonyle (CAS 75-44-5);
+	- **b)** chlorure de cyanogène (CAS 506-77-4);
+	- **c)** cyanure d’hydrogène (CAS 74-90-8);
+	- **d)** chloropicrine : trichloronitrométhane (CAS 76-06-2).
+
+- **(6)** Les précurseurs ci-après de la partie B du tableau 3 de la CAC :
+	- **a)** oxychlorure de phosphore (CAS 10025-87-3);
+	- **b)** trichlorure de phosphore (CAS 7719-12-2);
+	- **c)** pentachlorure de phosphore (CAS 10026-13-8);
+	- **d)** phosphite de triméthyle (CAS 121-45-9);
+	- **e)** phosphite de triéthyle (CAS 122-52-1);
+	- **f)** phosphite de diméthyle (CAS 868-85-9);
+	- **g)** phosphite de diéthyle (CAS 762-04-9);
+	- **h)** monochlorure de soufre (CAS 10025-67-9);
+	- **i)** dichlorure de soufre (CAS 10545-99-0);
+	- **j)** chlorure de thionyle (CAS 7719-09-7);
+	- **k)** ethyldiéthanolamine (CAS 139-87-7);
+	- **l)** méthyldiéthanolamine (CAS 105-59-9);
+	- **m)** triéthanolamine (CAS 102-71-6).
+
+- **(7)** Les mélanges contenant une quantité quelconque de produits chimiques toxiques ou de précurseurs énumérés aux paragraphes (1) ou (2).
+
+- **(8)** Les mélanges contenant une quantité quelconque de produits chimiques toxiques ou de précurseurs énumérés aux paragraphes (3) à (6), à moins que le produit chimique ou le précurseur en cause ne soit un ingrédient d’un produit identifié comme bien de consommation conditionné pour la vente au détail en vue d’être utilisé à des fins personnelles.
+
+- **(9)** Dans le présent article, ***CAC*** s’entend de la Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction adoptée à Genève le 3 septembre 1992 par l’Organisation pour l’interdiction des armes chimiques (connue sous le nom de Convention sur les armes chimiques).
+
+- **(10)** Pour l’application du présent article, le sigle « CAS » se rapporte au numéro d’enregistrement attribué à une substance chimique par le Chemical Abstracts Service Registry Handbook, publié par l’American Chemical Society, Washington (D.C.).
 
 
 **80** Produits en acier ordinaire, notamment demi-produits (lingots, blooms, billettes, brames et largets), plaques, feuilles et feuillards, fils machines, fils et produits de fils, produits de type ferroviaire, barres, profilés et éléments de charpente, tuyaux et tubes, à l’exclusion des produits en acier spécialisé visés à l’article 81.
@@ -296,13 +376,16 @@ Autorités habilitantes :
 **89** [Abrogé, DORS/91-97, art. 2]
 
 
-**90** Articles inclus dans le groupe 2 de la Liste des marchandises d’exportation contrôlée qui sont d’origine sud-africaine.
+**90** [Abrogé, DORS/2012-258, art. 2]
 
 
-**91** Les armes prohibées suivantes :
-- **a)** des armes prohibées au sens de l’alinéa c) ou e) de la définition d’***arme prohibée*** au paragraphe 84(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **b)** tout élément d’une arme prohibée visée à l’alinéa a), lequel est un ensemble ou un sous-ensemble constitué d’une ou de plusieurs des pièces visées à l’alinéa c);
-- **c)** toute pièce faisant partie du mécanisme d’une arme prohibée visée à l’alinéa a), y compris le verrou ou la glissière, qui, par sa conception, permet à l’arme prohibée de tirer rapidement plusieurs balles pendant la durée d’une pression sur la détente, que cette pièce permette ou non de limiter le tir à une seule balle pendant la durée d’une telle pression.
+**91** 
+
+- **(1)** Les armes à feu et dispositifs suivants :
+	- **a)** les armes à feu prohibées au sens des alinéas c) ou d) de la définition d’***arme à feu prohibée***, au paragraphe 84(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **b)** les dispositifs prohibés au sens de l’alinéa b) de la définition de ***dispositif prohibé***, au paragraphe 84(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+- **(2)** Toute pièce faisant partie du mécanisme d’une arme à feu prohibée visée à l’alinéa (1)a), y compris le verrou ou la glissière, qui, par sa conception, permet à l’arme à feu prohibée de tirer rapidement plusieurs balles pendant la durée d’une pression sur la détente, que cette pièce permette ou non de limiter le tir à une seule balle pendant la durée d’une telle pression, ainsi que tout ensemble ou sous-ensemble constitué d’une ou de plusieurs de ces pièces.
 
 
 **92** [Abrogé, DORS/94-647, art. 1]
@@ -557,7 +640,7 @@ Autorités habilitantes :
 **169** Pâtes alimentaires non cuites, contenant 25 % ou plus en poids de froment (blé), non farcies ni autrement préparées, contenant des oeufs, qui sont classées dans les n<sup>os</sup> tarifaires 1902.11.10, 1902.11.21 ou 1902.11.29 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**170** Pâtes alimentaires non cuites, contenant de la farine et de l’eau uniquement (lorsque le contenu en farine est de 25 % ou plus en poids de froment (blé)), qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.21, 1902.19.22 ou 1902.19.23 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**170** Pâtes alimentaires non cuites, contenant de la farine et de l’eau uniquement (lorsque le contenu en farine est de 25 % ou plus en poids de froment (blé)), qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.21, 1902.19.22 ou 1902.19.23 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **171** Pâtes alimentaires non cuites, contenant 25 % ou plus en poids de froment (blé), non farcies ni autrement préparées, qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.11, 1902.19.12, 1902.19.91, 1902.19.92 ou 1902.19.93 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -642,7 +725,7 @@ Autorités habilitantes :
 **194** [Abrogé, DORS/2011-157, art. 1]
 
 
-> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1; DORS/2011-321, art. 1 à 7.
+> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1; DORS/2011-321, art. 1 à 7; DORS/2012-258, art. 1 et 2.
 
 
 
