@@ -412,7 +412,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#B-9.82_fr_2'>[*]</a></sup>**133** Les articles 127 à 132 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='B-9.82_fr_2'><sup>*</sup></a>: [Note : Articles 128 à 130 en vigueur le 16 juillet 1998, *voir* TR/98-83; article 127 en vigueur le 10 février 1999, *voir* TR/99-12.]<br />
+<a name='B-9.82_fr_2'><sup>*</sup></a>: [Note : Articles 128 à 130 en vigueur le 16 juillet 1998, *voir* TR/98-83; article 127 en vigueur le 10 février 1999, *voir* TR/99-12; articles 131 et 132 en vigueur le 30 novembre 2012, *voir* TR/2012-91.]<br />
 
 
 
