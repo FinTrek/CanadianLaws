@@ -2552,8 +2552,8 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Review**
 
-- **(4)** Where the Board exercises its power under subsection (3) in the absence of a hearing, it shall, within the period prescribed by the regulations, review and either confirm or cancel its decision.
-> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4; 2012, c. 1, s. 80
+- **(4)** If the Board exercises its power under subsection (3), it shall, within the period prescribed by the regulations, review its decision and either confirm or cancel it.
+> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4; 2012, c. 1, s. 80, c. 19, s. 526
 
 
 
@@ -3079,7 +3079,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Review by Board — sentence of two years or more**
 
-- **(5)** The Board shall, on the referral to it of the case of an offender who is serving a sentence of two years or more, review the case and — within the period prescribed by the regulations unless the Board, at the offender’s request, adjourns the hearing or a member of the Board or a person designated, by name or position, by the Chairperson postpones the review —
+- **(5)** The Board shall, on the referral to it of the case of an offender who is serving a sentence of two years or more, review the case and — within the period prescribed by the regulations unless, at the offender’s request, the review is adjourned by the Board or is postponed by a member of the Board or by a person designated by the Chairperson by name or position —
 	- **(a)** if the Board is satisfied that the offender will, by reoffending before the expiration of their sentence according to law, present an undue risk to society,
 		- **(i)** terminate the parole or statutory release if the undue risk is due to circumstances beyond the offender’s control, and
 		- **(ii)** revoke it in any other case;
@@ -3107,7 +3107,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Review**
 
-- **(6.4)** If the Board exercises its power under subsection (6.3) in the absence of a hearing, it shall, within the period prescribed by the regulations, review — and either confirm or cancel — its decision.
+- **(6.4)** If the Board exercises its power under subsection (6.3), it shall, within the period prescribed by the regulations, review its decision and either confirm or cancel it.
 
 **Additional power of the Board**
 
@@ -3144,7 +3144,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Time at large during suspension**
 
 - **(11)** For the purposes of this Act, where a suspension of parole or statutory release is cancelled, the offender is deemed, during the period beginning on the day of the issuance of the suspension and ending on the day of the cancellation of the suspension, to have been serving the sentence to which the parole or statutory release applies.
-> 1992, c. 20, s. 135; 1995, c. 22, s. 18, c. 42, ss. 50, 69(E), 70(E); 1997, c. 17, ss. 32(F), 32.1; 2012, c. 1, s. 89
+> 1992, c. 20, s. 135; 1995, c. 22, s. 18, c. 42, ss. 50, 69(E), 70(E); 1997, c. 17, ss. 32(F), 32.1; 2012, c. 1, s. 89, c. 19, s. 529
 
 
 
@@ -3311,7 +3311,7 @@ it may order that if the statutory release is later revoked, the offender is not
 	- **(a)** the first review for day parole pursuant to subsection 122(1), except in respect of an offender serving a sentence of less than two years;
 	- **(b)** the first review for full parole under subsection 123(1) and subsequent reviews under subsection 123(5) or (5.1);
 	- **(c)** a review conducted pursuant to section 129 or subsection 130(1) or 131(1);
-	- **(d)** a review following a suspension, cancellation, termination or revocation of parole or following a suspension, termination or revocation of statutory release; and
+	- **(d)** a review following a cancellation of parole; and
 	- **(e)** any review of a class specified in the regulations.
 
 **Discretionary hearing**
@@ -3368,7 +3368,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Communication of statement in writing**
 
 - **(12)** A victim or a person referred to in subsection 142(3) shall, before the hearing, deliver to the Board a transcript of the statement that they plan to present under subsection (10) or (11).
-> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96
+> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527
 
 
 
