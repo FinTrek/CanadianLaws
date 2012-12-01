@@ -3362,7 +3362,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind1A41_hq_12926'>[*]</a></sup>**530** Les articles 526 à 528 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind1A41_hq_12926'><sup>*</sup></a>: [Note : Articles 526 à 528 non en vigueur.]<br />
+<a name='fn_Ind1A41_hq_12926'><sup>*</sup></a>: [Note : Articles 526 à 528 en vigueur le 1<sup>er</sup> décembre 2012, *voir* TR/2012-88.]<br />
 
 
 
