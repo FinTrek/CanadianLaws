@@ -2371,8 +2371,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Révision**
 
-- **(4)** En cas de révision d’une décision rendue sans audition, en vertu du paragraphe (3), la Commission doit, au cours de la période prévue par règlement, confirmer ou annuler la décision.
-> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80
+- **(4)** Si elle exerce les pouvoirs que lui confère le paragraphe (3), la Commission doit, au cours de la période prévue par règlement, réviser sa décision et la confirmer ou l’annuler.
+> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80, ch. 19, art. 526
 
 
 
@@ -2841,7 +2841,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **135** 
 
-- **(1)** En cas d’inobservation des conditions de la libération conditionnelle ou d’office ou lorsqu’il est convaincu qu’il est raisonnable et nécessaire de prendre cette mesure pour empêcher la violation de ces conditions ou pour protéger la société, un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat :
+- **(1)** En cas d’inobservation des conditions de la libération conditionnelle ou d’office ou lorsqu’il est convaincu qu’il est raisonnable et nécessaire de prendre cette mesure pour empêcher la violation de ces conditions ou pour protéger la société, un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat :
 	- **a)** suspendre la libération conditionnelle ou d’office;
 	- **b)** autoriser l’arrestation du délinquant;
 	- **c)** ordonner la réincarcération du délinquant jusqu’à ce que la suspension soit annulée ou que la libération soit révoquée ou qu’il y soit mis fin, ou encore jusqu’à l’expiration légale de la peine.
@@ -2886,7 +2886,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Idem**
 
-- **(6)** Dans le cas où elle annule une suspension, la Commission peut, si elle l’estime nécessaire et raisonnable afin de protéger la société ou de favoriser la réinsertion sociale du délinquant :
+- **(6)** Dans le cas où elle annule une suspension, la Commission peut, si elle l’estime nécessaire et raisonnable afin de protéger la société ou de favoriser la réinsertion sociale du délinquant :
 	- **a)** l’avertir qu’elle n’est pas satisfaite de son comportement depuis sa libération;
 	- **b)** modifier les conditions de la libération;
 	- **c)** ordonner que l’annulation n’entre en vigueur qu’à l’expiration du délai maximal de trente jours qu’elle fixe à compter de la date de la décision, si la violation des conditions de la libération qui a donné lieu à la suspension constituait au moins la seconde violation entraînant une suspension au cours de la peine que purge le délinquant.
@@ -2905,11 +2905,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Révision**
 
-- **(6.4)** Si elle rend sa décision en vertu du paragraphe (6.3) sans audience, la Commission doit, au cours de la période prévue par règlement, réviser et confirmer ou annuler la décision.
+- **(6.4)** Si elle exerce les pouvoirs que lui confère le paragraphe (6.3), la Commission doit, au cours de la période prévue par règlement, réviser sa décision et la confirmer ou l’annuler.
 
 **Pouvoir additionnel de la Commission**
 
-- **(7)** En outre, la Commission peut, à tout moment lorsqu’elle est convaincue qu’une récidive — avant l’expiration légale de la peine — durant la libération conditionnelle ou d’office du délinquant présentera un risque inacceptable pour la société :
+- **(7)** En outre, la Commission peut, à tout moment lorsqu’elle est convaincue qu’une récidive — avant l’expiration légale de la peine — durant la libération conditionnelle ou d’office du délinquant présentera un risque inacceptable pour la société :
 	- **a)** révoquer ou mettre fin à cette libération si le délinquant n’y est plus admissible ou n’y a plus droit;
 	- **b)** s’il y est admissible ou y a droit, mettre fin à la libération lorsque le risque pour la société dépend de facteurs qui ne sont pas imputables au délinquant ou la révoquer, dans le cas contraire.
 
@@ -2940,7 +2940,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Présomption**
 
 - **(11)** En cas d’annulation de la suspension de la libération conditionnelle ou d’office, le délinquant est réputé, pour l’application de la présente loi, avoir purgé sa peine pendant la période commençant à la date de la suspension et se terminant à la date de l’annulation.
-> 1992, ch. 20, art. 135; 1995, ch. 22, art. 18, ch. 42, art. 50, 69(A) et 70(A); 1997, ch. 17, art. 32(F) et 32.1; 2012, ch. 1, art. 89
+> 1992, ch. 20, art. 135; 1995, ch. 22, art. 18, ch. 42, art. 50, 69(A) et 70(A); 1997, ch. 17, art. 32(F) et 32.1; 2012, ch. 1, art. 89, ch. 19, art. 529
 
 
 
@@ -3101,7 +3101,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **a)** le premier examen du cas qui suit la demande de semi-liberté présentée en vertu du paragraphe 122(1), sauf dans le cas d’une peine d’emprisonnement de moins de deux ans;
 	- **b)** l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu des paragraphes 123(5) et (5.1);
 	- **c)** les examens ou réexamens prévus à l’article 129 et aux paragraphes 130(1) et 131(1);
-	- **d)** les examens qui suivent, le cas échéant, la suspension, l’annulation, la cessation ou la révocation de la libération conditionnelle ou d’office;
+	- **d)** les examens qui suivent l’annulation de la libération conditionnelle;
 	- **e)** les autres examens prévus par règlement.
 
 **Audiences discrétionnaires**
@@ -3158,7 +3158,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Communication préalable de la transcription**
 
 - **(12)** La victime et la personne visée au paragraphe 142(3) doivent, préalablement à l’audience, envoyer à la Commission la transcription de la déclaration qu’elles entendent présenter au titre des paragraphes (10) ou (11).
-> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96
+> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527
 
 
 
