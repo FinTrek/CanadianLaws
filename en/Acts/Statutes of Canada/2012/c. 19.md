@@ -3362,7 +3362,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind9EB4_hq_12913'>[*]</a></sup>**530** Sections 526 to 528 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9EB4_hq_12913'><sup>*</sup></a>: [Note: Sections 526 to 528 not in force.]<br />
+<a name='fn_Ind9EB4_hq_12913'><sup>*</sup></a>: [Note: Sections 526 to 528 in force December 1, 2012, *see* SI/2012-88.]<br />
 
 
 
