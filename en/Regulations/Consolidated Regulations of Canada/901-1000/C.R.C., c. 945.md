@@ -9855,6 +9855,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** the payment of the principal amount of which is guaranteed by Her Majesty in right of a province;
 	- **(i.11)** a share of the capital stock of a Canadian corporation that is registered under section 11 of the Equity Tax Credit Act, chapter 3 of the Statutes of Nova Scotia, 1993, the registration of which has not been revoked under that Act;
 	- **(i.12)** a share of the capital stock of a Canadian corporation that is registered under section 39 of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998, the registration of which has not been revoked under that Act;
+	- **(i.13)** a share of the capital stock of a Canadian corporation that is registered under section 2 of the Community Development Equity Tax Credit Act, chapter C-13.01 of the Revised Statutes of Prince Edward Island, 1988, the registration of which has not been revoked under that Act;
 	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that is a connected person under the governing plan of the plan trust) represented by a bankers’ acceptance;
 	- **(i.3)** [Repealed, 2009, c. 2, s. 105]
 	- **(j)** a debt obligation of a debtor, or an interest, or for civil law a right, in that debt obligation, where
@@ -9986,7 +9987,7 @@ the share shall, immediately before the amount is received, cease to be and shal
 		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
 		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the RRIF, RRSP or TFSA; and
 	- **(b)** was not a prohibited investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20; SOR/2012-270, s. 1.
 
 
 
