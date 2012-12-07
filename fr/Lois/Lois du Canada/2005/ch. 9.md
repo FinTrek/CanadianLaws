@@ -2513,10 +2513,19 @@ Bande indienne Campbell River
 Première nation Chawathil
 
 
+Cheam
+
+
 Première nation Chippewas de Georgina Island
 
 
+Première Nation Chippewas of the Thames
+
+
 Bande indienne Coldwater
+
+
+Conseil de la Première Nation Abitibiwinni
 
 
 Conseil des Montagnais du Lac Saint-Jean
@@ -2525,10 +2534,19 @@ Conseil des Montagnais du Lac Saint-Jean
 Première Nation Cowichan Tribes
 
 
+Première Nation Cross Lake
+
+
+Douglas
+
+
 Première nation Elsipogtog
 
 
 Première Nation George Gordon
+
+
+Première Nation Gitga’at
 
 
 Première nation Gitsegukla
@@ -2564,6 +2582,9 @@ Bande indienne Lower Kootenay
 Bande indienne Lower Nicola
 
 
+Première Nation Madawaska Maliseet
+
+
 Première nation Matsqui
 
 
@@ -2583,6 +2604,9 @@ Bande indienne Moricetown
 
 
 Mosquito, Grizzly Bear’s Head, Lean Man First Nations
+
+
+Mount Currie
 
 
 Première Nation Munsee-Delaware
@@ -2607,6 +2631,12 @@ Première Nation Nipissing
 
 
 Obashkaandagaang
+
+
+Nation crie Onion Lake
+
+
+Oromocto
 
 
 Bande indienne Osoyoos
@@ -2684,6 +2714,9 @@ Première Nation Taku River Tlingit
 Première nation Thunderchild
 
 
+Première Nation Timiskaming
+
+
 Tk’emlúps te Secwépemc
 
 
@@ -2738,6 +2771,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273.
 
 
