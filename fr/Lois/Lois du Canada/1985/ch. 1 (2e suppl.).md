@@ -406,6 +406,14 @@
 	- **b)** d’un chemin de fer international;
 	- **c)** d’un aéroport, d’un quai, d’un bassin ou d’un dock qui reçoit des moyens de transport internationaux relevant des attributions d’un bureau de douane établi en vertu de l’article 5.
 
+**Précision**
+
+- **(1.1)** Pour l’application du paragraphe (1), on entend par ***entretenir***, outre l’action de faire l’entretien général, le fait de payer les frais liés au fonctionnement des locaux et autres installations, notamment en ce qui a trait à l’électricité, à l’éclairage, à la ventilation, au chauffage, à la climatisation, à l’approvisionnement en eau, au traitement des eaux usées, à la protection contre les incendies, au déneigement et au nettoyage.
+
+**Effet rétroactif**
+
+- **(1.2)** Le paragraphe (1.1) a un effet rétroactif à compter de la date d’entrée en vigueur du paragraphe (1) et s’applique à toute procédure judiciaire ou administrative en cours à la date d’entrée en vigueur du présent paragraphe.
+
 **Droit du ministre**
 
 - **(2)** Le ministre a, en ce qui concerne les installations visées au paragraphe (1), le droit :
@@ -418,6 +426,10 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 - **(3)** Sous réserve du paragraphe (4), le gouverneur en conseil peut, par règlement, déterminer les locaux ou autres installations adaptés aux fins visées au paragraphe (1).
 
+**Effet rétroactif des règlements**
+
+- **(3.1)** Tout règlement pris en vertu du paragraphe (3) peut, s’il comporte une disposition en ce sens, avoir un effet rétroactif et s’appliquer à toute procédure judiciaire ou administrative en cours.
+
 **[Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
 - **(4)** Les locaux ou autres installations fournis en application du paragraphe (1) et non conformes aux conditions prévues à la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) sont réputés ne pas satisfaire aux dispositions de ce paragraphe.
@@ -429,7 +441,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Frais**
 
 - **(6)** Le propriétaire ou l’exploitant d’un pont ou d’un tunnel international est tenu de toutes les dépenses entraînées pour le ministre en application du paragraphe (5), leur recouvrement pouvant être effectué conformément aux articles 143 à 145.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 6, ch. 26 (3<sup>e</sup> suppl.), art. 1.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 6, ch. 26 (3<sup>e</sup> suppl.), art. 1; 2012, ch. 31, art. 265.
 
 
 
@@ -4469,12 +4481,12 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **107.1** 
 
-- **(1)** Le ministre peut, dans les circonstances et conditions prévues par règlement, exiger de toute personne ou catégorie de personnes visée par règlement qu’elle fournisse les renseignements réglementaires sur toute personne à bord d’un moyen de transport ou y donne accès, et ce dans le délai et selon les modalités réglementaires.
+- **(1)** Le ministre peut, dans les circonstances et conditions prévues par règlement, exiger de toute personne ou catégorie de personnes visée par règlement qu’elle fournisse les renseignements réglementaires sur toute personne qui est ou devrait être à bord d’un moyen de transport, ou qu’elle y donne accès, et ce dans le délai et selon les modalités réglementaires.
 
 **Communication malgré une interdiction**
 
 - **(2)** La personne qui doit fournir des renseignements réglementaires ou y donner accès en vertu du paragraphe (1) doit le faire malgré toute exception prévue par la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) à l’égard de la communication de tels renseignements.
-> 2001, ch. 25, art. 61; 2009, ch. 10, art. 12.
+> 2001, ch. 25, art. 61; 2009, ch. 10, art. 12; 2012, ch. 31, art. 267.
 
 
 
