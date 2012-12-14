@@ -4180,7 +4180,7 @@ but does not include
 	- **(d)** a person who is not a natural person;
 	- **(e)** a person who is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
 	- **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
-	- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 406.1;
+	- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 406.1;
 	- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 	- **(h)** a minister of Her Majesty in right of Canada or in right of a province;
 	- **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof; and
@@ -4193,7 +4193,7 @@ but does not include
 **Exception**
 
 - **(3)** Paragraph (1)(g) does not apply in respect of a company that is controlled by a body corporate organized in a mutual form the members of which are primarily employees of Her Majesty in right of Canada or in right of a province.
-> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377; 2012, c. 19, s. 339.
+> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377; 2012, c. 19, s. 339, c. 31, s. 131.
 
 
 
@@ -9089,13 +9089,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Exception for small holdings**
+**Exception — small holdings**
 
-**408.1** Notwithstanding section 408, where, as a result of a transfer or issue of shares of a class of shares of a company to a person, the total number of shares of that class registered in the securities register of the company in the name of that person
-- **(a)** would not exceed five thousand, and
-- **(b)** would not exceed 0.1 per cent of the outstanding shares of that class,
-the company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the company as a result of that issue or transfer of shares.
-> 1994, c. 47, s. 123.
+**408.1** Despite section 408, if, as a result of a transfer or issue of shares of a class of shares of a company to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the company in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the company as a result of that issue or transfer of shares.
+> 1994, c. 47, s. 123; 2012, c. 31, s. 132.
 
 
 
@@ -9117,6 +9114,10 @@ the company is entitled to assume that no person is acquiring or increasing a si
 	- **(a)** 5 percentage points in excess of the significant interest of the person in that class of shares of the company on the later of June 1, 1992 and the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the company, or of control of an entity that held shares of that class of shares of the company, for which approval was given by the Minister, and
 	- **(b)** 10 percentage points in excess of the lowest significant interest of the person in that class of shares of the company at any time after the later of June 1, 1992 and the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the company, or of control of an entity that held shares of that class of shares of the company, for which approval was given by the Minister.
 
+**Exception — eligible agent**
+
+- **(3.1)** If the person referred to in subsection (1) is an eligible agent or an entity controlled by an eligible agent, then the Minister may reduce the percentage referred to in subsection (2) or (3).
+
 **Exception**
 
 - **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or the acquisition of control referred to in that subsection would
@@ -9130,7 +9131,7 @@ the company is entitled to assume that no person is acquiring or increasing a si
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the company by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the company by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 1991, c. 47, s. 409; 1997, c. 15, s. 244; 2001, c. 9, s. 404.
+> 1991, c. 47, s. 409; 1997, c. 15, s. 244; 2001, c. 9, s. 404; 2012, c. 31, s. 133.
 
 
 
@@ -9142,7 +9143,7 @@ the company is entitled to assume that no person is acquiring or increasing a si
 
 - **(1)** Despite subsections 407(1) and (2) and section 408, the approval of the Minister is not required if
 	- **(a)** the Superintendent has, by order, directed the company to increase its capital and shares of the company are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
-	- **(b)** a person who controls, within the meaning of paragraph 3(1)(a), the company acquires additional shares of the company.
+	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the company acquires additional shares of the company.
 
 **Exception**
 
@@ -9153,7 +9154,7 @@ the company is entitled to assume that no person is acquiring or increasing a si
 - **(2)** For the purposes of subsections 407(1) and (2) and section 408, the Minister may approve
 	- **(a)** the purchase or other acquisition of such number or percentage of shares of a company as may be required in a particular transaction or series of transactions; or
 	- **(b)** the purchase or other acquisition of up to a specified number or percentage of shares of a company within a specified period.
-> 1991, c. 47, s. 410; 2001, c. 9, s. 405.
+> 1991, c. 47, s. 410; 2001, c. 9, s. 405; 2012, c. 31, s. 134.
 
 
 
@@ -9366,7 +9367,7 @@ section 412 shall not apply in respect of that company until the expiration of s
 
 **Exception**
 
-- **(1.1)** Subject to subsection 407.2(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
+- **(1.1)** Except for an application by an eligible agent for an approval under section 407, and subject to subsection 407.2(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
 	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a converted company in respect of which subsection 407(4) applies or of a company to which subsection 407(5) applies; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a converted company or company.
 
@@ -9377,7 +9378,7 @@ section 412 shall not apply in respect of that company until the expiration of s
 **Part XII of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md)**
 
 - **(3)** Nothing in subsection (1) or (2) affects the operation of Part XII of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
-> 1991, c. 47, s. 420; 1999, c. 28, s. 121; 2001, c. 9, s. 412.
+> 1991, c. 47, s. 420; 1999, c. 28, s. 121; 2001, c. 9, s. 412; 2012, c. 31, s. 135.
 
 
 
@@ -9415,11 +9416,12 @@ section 412 shall not apply in respect of that company until the expiration of s
 	- **(a)** a notice approving the transaction to which the application relates; or
 	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
 
-**Idem**
+**Notice of decision**
 
-- **(2)** Subject to subsections (4) and 424(2), where an application filed under subsection 419(1) involves the acquisition of control of a company, the Minister shall, within a period of forty-five days after the certified date referred to in subsection 422(1), send to the applicant
-	- **(a)** a notice approving the transaction to which the application relates; or
-	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
+- **(2)** Subject to subsections (4) and 424(2), the notice referred to in paragraph (1)(a) or (b) shall be sent by the Minister within a period of 45 days after the certified date referred to in subsection 422(1) in the following cases:
+	- **(a)** the application involves the acquisition of control of a company;
+	- **(b)** the application is made by an eligible agent or an entity controlled by an eligible agent; or
+	- **(c)** an application is made for the approval referred to in subsection 428(3).
 
 **Extension of period for notice**
 
@@ -9430,6 +9432,8 @@ section 412 shall not apply in respect of that company until the expiration of s
 **Idem**
 
 - **(4)** Where the Minister considers it appropriate to do so, the Minister may extend the period referred to in subsection (2) for one or more periods of forty-five days.
+> 1991, c. 47, s. 423; 2012, c. 31, s. 136.
+
 
 
 
@@ -9440,9 +9444,11 @@ section 412 shall not apply in respect of that company until the expiration of s
 
 - **(1)** Where, after receipt of the notice referred to in paragraph 423(1)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of thirty days after the date of the notice, or within such further period as may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
 
-**Idem**
+**Reasonable opportunity to make representations**
 
-- **(2)** Where, after receipt of the notice referred to in paragraph 423(2)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of forty-five days after the date of the notice, or within such further period as may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+- **(2)** If, after receipt of the notice sent in accordance with subsection 423(2) that the Minister is not satisfied that the transaction to which the application relates should be approved, the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of 45 days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+> 1991, c. 47, s. 424; 2012, c. 31, s. 137(E).
+
 
 
 
@@ -9496,10 +9502,30 @@ section 412 shall not apply in respect of that company until the expiration of s
 
 - **(3)** Despite subsection (1), a company may, with the Minister’s approval, record in its securities register the issue of any share of the company to an eligible agent.
 
-**Ministerial approval**
+**Application made jointly**
 
-- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 420(1)(a) to (h).
-> 1991, c. 47, s. 428; 2012, c. 5, s. 127, c. 19, s. 341.
+- **(4)** The application for the approval referred to in subsection (3) must be made jointly by the company and the eligible agent.
+
+**Matters for consideration**
+
+- **(5)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 420(1)(a) to (h).
+
+**Consequence of revocation of approval**
+
+- **(6)** If an approval referred to in subsection (3) is revoked, the company shall delete any entry in its securities register in respect of the recording of the issuance of shares to the eligible agent.
+
+**Disposition of shareholdings**
+
+- **(7)** If a company or an eligible agent fails to comply with any undertaking or term or condition in relation to an approval referred to in subsection (3), or if an eligible agent ceases to be an eligible agent, the Minister may, if the Minister considers it to be in the public interest to do so, by order, direct the eligible agent or former eligible agent and any person controlled by the eligible agent or former eligible agent to dispose of any number of shares of the company beneficially owned by the eligible agent or former eligible agent or the persons controlled by the eligible agent or former eligible agent that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the eligible agent or former eligible agent and the persons controlled by the eligible agent or former eligible agent that is specified in the order.
+
+**Representations**
+
+- **(8)** No direction shall be made under subsection (7) unless the Minister has provided each person to whom the direction relates and the company concerned with a reasonable opportunity to make representations in respect of the subject-matter of the direction.
+
+**Appeal**
+
+- **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 1020.
+> 1991, c. 47, s. 428; 2012, c. 5, s. 127, c. 19, s. 341, c. 31, s. 138.
 
 
 
@@ -9534,7 +9560,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception — eligible agent**
 
 - **(5)** Subsection (2) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 428(3).
-> 1991, c. 47, s. 430; 1994, c. 47, s. 126; 2012, c. 5, s. 128, c. 19, s. 342.
+
+**Consequence of suspension of approval**
+
+- **(6)** If an approval referred to in subsection 428(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the company that is beneficially owned by the eligible agent.
+> 1991, c. 47, s. 430; 1994, c. 47, s. 126; 2012, c. 5, s. 128, c. 19, s. 342, c. 31, s. 139.
 
 
 
@@ -9574,7 +9604,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **433** 
 
-- **(1)** Where a person fails to comply with a direction made under subsection 432(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
+- **(1)** If a person fails to comply with a direction made under subsection 428(7) or 432(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
 
 **Court order**
 
@@ -9583,6 +9613,8 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
+> 1991, c. 47, s. 433; 2012, c. 31, s. 140.
+
 
 
 
@@ -18422,11 +18454,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
 - **(f)** a person who is an officer, director or full-time employee of an entity that is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
-- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 406.1;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 406.1;
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 465; 2012, c. 19, s. 344.
+> 2001, c. 9, s. 465; 2012, c. 19, s. 344, c. 31, s. 141.
 
 
 
@@ -21003,8 +21035,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Sections 406.1 and 406.2 apply**
 
-**926** Sections 406.1 and 406.2 apply in respect of insurance holding companies, except that references to “company” in that section 406.2 are to be read as references to “insurance holding company”.
-> 2001, c. 9, s. 465; 2012, c. 19, s. 345.
+**926** Sections 406.1 and 406.2 apply in respect of insurance holding companies, except that references to “company” in section 406.2 are to be read as references to “insurance holding company”.
+> 2001, c. 9, s. 465; 2012, c. 19, s. 345, c. 31, s. 142(E).
 
 
 
@@ -21158,13 +21190,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
-**Exception for small holdings**
+**Exception — small holdings**
 
-**935** Despite section 934, if, as a result of a transfer or issue of shares of a class of shares of an insurance holding company to a person, the total number of shares of that class registered in the securities register of the insurance holding company in the name of that person
-- **(a)** would not exceed five thousand, and
-- **(b)** would not exceed 0.1 per cent of the outstanding shares of that class,
-the insurance holding company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the insurance holding company as a result of that issue or transfer of shares.
-> 2001, c. 9, s. 465.
+**935** Despite section 934, if, as a result of a transfer or issue of shares of a class of shares of an insurance holding company to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the insurance holding company in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the insurance holding company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the insurance holding company as a result of that issue or transfer of shares.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 143.
 
 
 
@@ -21186,6 +21215,10 @@ the insurance holding company is entitled to assume that no person is acquiring 
 	- **(a)** 5 percentage points in excess of the significant interest of the person in that class of shares of the insurance holding company on the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the insurance holding company, or of control of an entity that held shares of that class of shares of the insurance holding company, for which approval was given by the Minister, and
 	- **(b)** 10 percentage points in excess of the lowest significant interest of the person in that class of shares of the insurance holding company at any time after the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the insurance holding company, or of control of an entity that held shares of that class of shares of the insurance holding company, for which approval was given by the Minister.
 
+**Exception — eligible agent**
+
+- **(3.1)** If the person referred to in subsection (1) is an eligible agent or an entity controlled by an eligible agent, then the Minister may reduce the percentage referred to in subsection (2) or (3).
+
 **Exception**
 
 - **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or the acquisition of control referred to in that subsection would
@@ -21199,7 +21232,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the insurance holding company by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the insurance holding company by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 144.
 
 
 
@@ -21211,7 +21244,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 - **(1)** Despite subsections 927(1) and (2) and section 934, the approval of the Minister is not required if
 	- **(a)** the Superintendent has, by order, directed the insurance holding company to increase its capital and shares of the insurance holding company are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
-	- **(b)** a person who controls, within the meaning of paragraph 3(1)(a), the insurance holding company acquires additional shares of the insurance holding company.
+	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the insurance holding company acquires additional shares of the insurance holding company.
 
 **Exception**
 
@@ -21222,7 +21255,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 - **(3)** For the purposes of subsections 927(1) and (2) and section 934, the Minister may approve
 	- **(a)** the purchase or other acquisition of such number or percentage of shares of an insurance holding company as may be required in a particular transaction or series of transactions; or
 	- **(b)** the purchase or other acquisition of up to a specified number or percentage of shares of an insurance holding company within a specified period.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 145.
 
 
 
@@ -21398,7 +21431,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 **Exception**
 
-- **(2)** Subject to section 933, the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
+- **(2)** Except for an application by an eligible agent for an approval under section 927, and subject to section 933, the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
 	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of an insurance holding company in respect of which subsection 927(4) applies; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such an insurance holding company.
 
@@ -21409,7 +21442,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 **Part XII of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md)**
 
 - **(4)** Nothing in subsection (1) or (3) affects the operation of Part XII of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 146.
 
 
 
@@ -21447,11 +21480,12 @@ the insurance holding company is entitled to assume that no person is acquiring 
 	- **(a)** a notice approving the transaction to which the application relates; or
 	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
 
-**Notice**
+**Notice of decision**
 
-- **(2)** Subject to subsections (4) and 951(2), if an application involves the acquisition of control of an insurance holding company, the Minister shall, within a period of forty-five days after the certified date referred to in subsection 949(1), send to the applicant
-	- **(a)** a notice approving the transaction to which the application relates; or
-	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
+- **(2)** Subject to subsections (4) and 951(2), the notice referred to in paragraph (1)(a) or (b) shall be sent by the Minister within a period of 45 days after the certified date referred to in subsection 949(1) in the following cases:
+	- **(a)** the application involves the acquisition of control of an insurance holding company;
+	- **(b)** the application is made by an eligible agent or an entity controlled by an eligible agent; or
+	- **(c)** an application is made for the approval referred to in subsection 954(3).
 
 **Extension of period for notice**
 
@@ -21462,7 +21496,7 @@ the insurance holding company is entitled to assume that no person is acquiring 
 **Extension of period for notice**
 
 - **(4)** Where the Minister considers it appropriate to do so, the Minister may extend the period referred to in subsection (2) for one or more periods of forty-five days.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 147.
 
 
 
@@ -21476,8 +21510,8 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 **Reasonable opportunity to make representations**
 
-- **(2)** Where, after receipt of the notice referred to in paragraph 950(2)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of forty-five days after the date of the notice, or within such further period as may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
-> 2001, c. 9, s. 465.
+- **(2)** If, after receipt of the notice sent in accordance with subsection 950(2) that the Minister is not satisfied that the transaction to which the application relates should be approved, the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of 45 days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 148(E).
 
 
 
@@ -21523,10 +21557,30 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 - **(3)** Despite subsection (1), an insurance holding company may, with the Minister’s approval, record in its securities register the issue of any share of the insurance holding company to an eligible agent.
 
-**Ministerial approval**
+**Application made jointly**
 
-- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 947(1)(a) to (g).
-> 2001, c. 9, s. 465; 2012, c. 5, s. 156, c. 19, s. 346.
+- **(4)** The application for the approval referred to in subsection (3) must be made jointly by the insurance holding company and the eligible agent.
+
+**Matters for consideration**
+
+- **(5)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 947(1)(a) to (g).
+
+**Consequence of revocation of approval**
+
+- **(6)** If an approval referred to in subsection (3) is revoked, the insurance holding company shall delete any entry in its securities register in respect of the recording of the issuance of shares to the eligible agent.
+
+**Disposition of shareholdings**
+
+- **(7)** If an insurance holding company or an eligible agent fails to comply with any undertaking or term or condition in relation to an approval referred to in subsection (3), or if an eligible agent ceases to be an eligible agent, the Minister may, if the Minister considers it to be in the public interest to do so, by order, direct the eligible agent or former eligible agent and any person controlled by the eligible agent or former eligible agent to dispose of any number of shares of the insurance holding company beneficially owned by the eligible agent or former eligible agent or the persons controlled by the eligible agent or former eligible agent that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the eligible agent or former eligible agent and the persons controlled by the eligible agent or former eligible agent that is specified in the order.
+
+**Representations**
+
+- **(8)** No direction shall be made under subsection (7) unless the Minister has provided each person to whom the direction relates and the insurance holding company concerned with a reasonable opportunity to make representations in respect of the subject-matter of the direction.
+
+**Appeal**
+
+- **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 1020.
+> 2001, c. 9, s. 465; 2012, c. 5, s. 156, c. 19, s. 346, c. 31, s. 149.
 
 
 
@@ -21548,7 +21602,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception — eligible agent**
 
 - **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 954(3).
-> 2001, c. 9, s. 465; 2012, c. 5, s. 157, c. 19, s. 349.
+
+**Consequence of suspension of approval**
+
+- **(4)** If an approval referred to in subsection 954(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the insurance holding company that is beneficially owned by the eligible agent.
+> 2001, c. 9, s. 465; 2012, c. 5, s. 157, c. 19, s. 349, c. 31, s. 150.
 
 
 
@@ -21577,7 +21635,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **957** 
 
-- **(1)** Where a person fails to comply with a direction made under subsection 956(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
+- **(1)** If a person fails to comply with a direction made under subsection 954(7) or 956(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
 
 **Court order**
 
@@ -21586,7 +21644,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 151.
 
 
 
@@ -23230,7 +23288,7 @@ together with such other information about the background, business record and e
 
 **1020** 
 
-- **(1)** An appeal lies to the Federal Court from any direction of the Minister made under subsection 432(1) or 956(1).
+- **(1)** An appeal lies to the Federal Court from any direction of the Minister made under subsection 428(7), 432(1), 954(7) or 956(1).
 
 **Powers**
 
@@ -23242,7 +23300,7 @@ together with such other information about the background, business record and e
 **Certificate**
 
 - **(3)** For the purposes of an appeal under subsection (1), the Minister shall, at the request of the company, society, foreign company, provincial company, insurance holding company or person making the appeal, provide the company, society, foreign company, provincial company, insurance holding company or person with a certificate in writing setting out the direction or decision appealed from and the reasons why the direction or decision was made.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 31, s. 152.
 
 
 
