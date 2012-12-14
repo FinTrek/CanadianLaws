@@ -4076,7 +4076,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 	- **d)** autres que les personnes physiques;
 	- **e)** à qui le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
 	- **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
-	- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens de l’article 406.1 ou qui sont nommées par lui ou agissent en son nom;
+	- **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 406.1 ou qui agissent au nom d’un tel mandataire;
 	- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 	- **h)** qui sont des ministres fédéraux ou provinciaux;
 	- **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires;
@@ -4089,7 +4089,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Exception**
 
 - **(3)** L’alinéa (1)g) ne s’applique pas à une société qui est contrôlée par une personne morale mutualiste dont la plupart des membres sont des employés de Sa Majesté du chef du Canada ou d’une province.
-> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377; 2012, ch. 19, art. 339.
+> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377; 2012, ch. 19, art. 339, ch. 31, art. 131.
 
 
 
@@ -8934,8 +8934,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-**408.1** Par dérogation à l’article 408, si, après transfert ou émission d’actions d’une catégorie donnée à une personne, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième de un pour cent des actions en circulation de cette catégorie, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 1994, ch. 47, art. 123.
+**408.1** Par dérogation à l’article 408, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la société est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
+> 1994, ch. 47, art. 123; 2012, ch. 31, art. 132.
 
 
 
@@ -8953,13 +8953,17 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Pourcentage**
 
-- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la société de cette catégorie le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
+**Exception : mandataire admissible**
+
+- **(3.1)** Dans le cas où la personne visée au paragraphe (1) est un mandataire admissible ou une entité qu’il contrôle, le ministre peut réduire le pourcentage applicable visé aux paragraphes (2) ou (3).
+
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
+- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
 	- **a)** aurait pour effet la prise de contrôle de la société par la personne;
 	- **b)** si la personne contrôle déjà la société mais que les droits de vote attachés à l’ensemble des actions de la société qu’elle-même et les entités qu’elle contrôle détiennent à titre de véritable propriétaire n’excèdent pas cinquante pour cent des droits de vote attachés à la totalité des actions en circulation, aurait pour effet de porter les droits de vote attachés à l’ensemble de ces actions détenues par la personne et les entités à plus de cinquante pour cent des droits de vote attachés à la totalité des actions en circulation;
 	- **c)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société par une entité contrôlée par la personne, l’acquisition de cet intérêt n’étant pas soustraite, par règlement, à l’application du présent alinéa;
@@ -8967,10 +8971,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas applicable — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société.
-> 1991, ch. 47, art. 409; 1997, ch. 15, art. 244; 2001, ch. 9, art. 404.
+> 1991, ch. 47, art. 409; 1997, ch. 15, art. 244; 2001, ch. 9, art. 404; 2012, ch. 31, art. 133.
 
 
 
@@ -8980,9 +8984,9 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **410** 
 
-- **(1)** Par dérogation aux paragraphes 407(1) et (2) et à l’article 408, l’agrément du ministre n’est pas nécessaire lorsque :
+- **(1)** Par dérogation aux paragraphes 407(1) et (2) et à l’article 408, l’agrément du ministre n’est pas nécessaire lorsque :
 	- **a)** le surintendant a, par ordonnance, imposé à la société une augmentation de capital et qu’il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
-	- **b)** la personne qui contrôle, au sens de l’alinéa 3(1)a), la société acquiert d’autres actions de la société.
+	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la société acquiert d’autres actions de celle-ci.
 
 **Exception**
 
@@ -8991,7 +8995,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Agrément préalable**
 
 - **(2)** Pour l’application des paragraphes 407(1) et (2) et de l’article 408, le ministre peut approuver l’acquisition, soit du nombre ou pourcentage d’actions d’une société nécessaire pour une opération ou série d’opérations, soit du nombre ou pourcentage — à concurrence du plafond fixé — d’actions d’une société pendant une période déterminée.
-> 1991, ch. 47, art. 410; 2001, ch. 9, art. 405.
+> 1991, ch. 47, art. 410; 2001, ch. 9, art. 405; 2012, ch. 31, art. 134.
 
 
 
@@ -9189,13 +9193,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **420** 
 
-- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément mentionné à l’article 407, le ministre, sous réserve du paragraphe (1.1), prend en considération tous les facteurs qu’il estime indiqués, notamment :
+- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément mentionné à l’article 407, le ministre, sous réserve du paragraphe (1.1), prend en considération tous les facteurs qu’il estime indiqués, notamment :
 	- **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de la société;
 	- **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de la société;
 	- **c)** leur expérience et leur dossier professionnel;
 	- **d)** leur moralité et leur intégrité et, s’agissant de personnes morales, leur réputation pour ce qui est de leur exploitation selon des normes élevées de moralité et d’intégrité;
 	- **e)** la compétence et l’expérience des personnes devant exploiter la société, afin de déterminer si elles sont aptes à participer à l’exploitation d’une institution financière et à exploiter la société de manière responsable;
-	- **f)** s’agissant d’une société transformée à l’égard de laquelle le ministre a pris un arrêté dans le cadre du paragraphe 407(8), d’une société transformée à l’égard de laquelle le paragraphe 407(11) s’est déjà appliqué ou d’une société qui contrôle, au sens de l’alinéa 3(1)d), la société transformée, l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle du ou des demandeurs et des membres de leur groupe sur la réglementation et la supervision de la société, compte tenu :
+	- **f)** s’agissant d’une société transformée à l’égard de laquelle le ministre a pris un arrêté dans le cadre du paragraphe 407(8), d’une société transformée à l’égard de laquelle le paragraphe 407(11) s’est déjà appliqué ou d’une société qui contrôle, au sens de l’alinéa 3(1)d), la société transformée, l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle du ou des demandeurs et des membres de leur groupe sur la réglementation et la supervision de la société, compte tenu :
 		- **(i)** d’une part, de la nature et de l’étendue des activités projetées de prestation de services financiers de la société et des membres de son groupe,
 		- **(ii)** d’autre part, de la nature et de l’étendue de la réglementation et de la supervision liées aux activités projetées de prestation de services financiers des membres du groupe de la société;
 	- **g)** les conséquences de toute intégration des activités et des entreprises du ou des demandeurs et de celles de la société sur la conduite de ces activités et entreprises;
@@ -9203,7 +9207,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(1.1)** Sous réserve du paragraphe 407.2(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+- **(1.1)** Sauf en ce qui a trait à la demande présentée par le mandataire admissible en vue d’obtenir l’agrément visé à l’article 407 et sous réserve du paragraphe 407.2(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
 	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société transformée à l’égard de laquelle le paragraphe 407(4) s’applique ou d’une société à laquelle le paragraphe 407(5) s’applique;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle société transformée ou d’une telle société.
 
@@ -9214,7 +9218,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Partie XII de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md)**
 
 - **(3)** Les paragraphes (1) et (2) ne portent pas atteinte à l’application de la partie XII de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
-> 1991, ch. 47, art. 420; 1999, ch. 28, art. 121; 2001, ch. 9, art. 412.
+> 1991, ch. 47, art. 420; 1999, ch. 28, art. 121; 2001, ch. 9, art. 412; 2012, ch. 31, art. 135.
 
 
 
@@ -9248,13 +9252,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **423** 
 
-- **(1)** Sous réserve des paragraphes (2), (3) et 424(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(1)** Sous réserve des paragraphes (2), (3) et 424(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de l’opération;
 	- **b)** soit, s’il n’est pas convaincu que l’opération devrait être agréée, un avis de refus informant le demandeur de son droit de lui présenter des observations.
 
-**Idem**
+**Avis au demandeur**
 
-- **(2)** Dans le cas où la demande d’agrément implique l’acquisition du contrôle d’une société et sous réserve des paragraphes (4) et 424(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 422(1).
+- **(2)** Sous réserve des paragraphes (4) et 424(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date visée au paragraphe 422(1) dans les cas suivants :
+	- **a)** la demande d’agrément implique l’acquisition du contrôle d’une société;
+	- **b)** la demande d’agrément est faite par le mandataire admissible ou une entité qu’il contrôle;
+	- **c)** une demande est présentée pour l’agrément visé au paragraphe 428(3).
 
 **Prorogation**
 
@@ -9263,6 +9270,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Idem**
 
 - **(4)** Le ministre, s’il l’estime indiqué, peut proroger le délai visé au paragraphe (2) d’une ou plusieurs périodes de quarante-cinq jours.
+> 1991, ch. 47, art. 423; 2012, ch. 31, art. 136.
+
 
 
 
@@ -9276,6 +9285,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Idem**
 
 - **(2)** Dans les quarante-cinq jours qui suivent la date de l’avis prévu au paragraphe 423(2) ou dans le délai supérieur convenu entre eux, le ministre donne la possibilité de présenter des observations au demandeur qui l’a informé de son désir en ce sens.
+> 1991, ch. 47, art. 424; 2012, ch. 31, art. 137(A).
+
 
 
 
@@ -9313,11 +9324,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restriction : Couronne et États étrangers**
+**Restriction : Couronne et États étrangers**
 
 **428** 
 
-- **(1)** Il est interdit à la société d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
+- **(1)** Il est interdit à la société d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
@@ -9329,10 +9340,30 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(3)** Malgré le paragraphe (1), la société peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
 
-**Agrément du ministre**
+**Demande conjointe**
 
-- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 420(1)a) à h).
-> 1991, ch. 47, art. 428; 2012, ch. 5, art. 127, ch. 19, art. 341.
+- **(4)** La société et le mandataire admissible présentent conjointement la demande en vue d’obtenir l’agrément visé au paragraphe (3).
+
+**Facteurs à considérer**
+
+- **(5)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 420(1)a) à h).
+
+**Conséquence de la révocation de l’agrément**
+
+- **(6)** En cas de révocation de l’agrément visé au paragraphe (3), la société supprime de son registre des valeurs mobilières toute indication à l’égard de l’inscription de l’émission des actions au mandataire admissible.
+
+**Disposition des actions**
+
+- **(7)** Si le mandataire admissible ou la société contrevient à tout engagement ou à toute condition ou modalité dont l’agrément visé au paragraphe (3) est assorti, ou si le mandataire admissible cesse d’être mandataire admissible, le ministre peut, s’il l’estime dans l’intérêt du public, par arrêté, imposer l’obligation au mandataire admissible ainsi qu’à toute personne que celui-ci contrôle ou à la personne qui cesse d’être mandataire admissible ainsi qu’à toute autre personne que celle-ci contrôle de se départir du nombre d’actions — précisé dans l’arrêté — de la société dont l’un ou plusieurs d’entre eux ont la propriété effective, dans le délai et selon la répartition qu’il établit.
+
+**Observations**
+
+- **(8)** Le ministre est tenu de donner à chaque personne visée par l’arrêté et à la société en cause la possibilité de présenter leurs observations sur l’objet de l’arrêté qu’il envisage de prendre.
+
+**Appel**
+
+- **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 1020.
+> 1991, ch. 47, art. 428; 2012, ch. 5, art. 127, ch. 19, art. 341, ch. 31, art. 138.
 
 
 
@@ -9347,7 +9378,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Suspension des droits de vote des gouvernements**
 
-- **(2)** Par dérogation à l’article 152, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions qui sont détenues en propriété effective :
+- **(2)** Par dérogation à l’article 152, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions qui sont détenues en propriété effective :
 	- **a)** soit par Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
 	- **b)** soit par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement.
 
@@ -9366,7 +9397,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Réserve – mandataire admissible**
 
 - **(5)** Le paragraphe (2) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 428(3).
-> 1991, ch. 47, art. 430; 1994, ch. 47, art. 126; 2012, ch. 5, art. 128, ch. 19, art. 342.
+
+**Conséquence de la suspension de l’agrément**
+
+- **(6)** En cas de suspension de l’agrément visé au paragraphe 428(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la société qu’il détient en propriété effective.
+> 1991, ch. 47, art. 430; 1994, ch. 47, art. 126; 2012, ch. 5, art. 128, ch. 19, art. 342, ch. 31, art. 139.
 
 
 
@@ -9406,7 +9441,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **433** 
 
-- **(1)** En cas d’inobservation de l’arrêté, une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
+- **(1)** En cas d’inobservation de l’arrêté prévu aux paragraphes 428(7) ou 432(1), une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
 
 **Ordonnance**
 
@@ -9415,6 +9450,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
+> 1991, ch. 47, art. 433; 2012, ch. 31, art. 140.
+
 
 
 
@@ -18029,11 +18066,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
-- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens de l’article 406.1 ou qui sont nommées par lui ou agissent en son nom;
+- **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 406.1 ou qui agissent au nom d’un tel mandataire;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 465; 2012, ch. 19, art. 344.
+> 2001, ch. 9, art. 465; 2012, ch. 19, art. 344, ch. 31, art. 141.
 
 
 
@@ -20585,7 +20622,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Application des articles 406.1 et 406.2**
 
 **926** Les articles 406.1 et 406.2 s’appliquent à la société de portefeuille d’assurances; toutefois, pour l’application de l’article 406.2, la mention de la société vaut mention de la société de portefeuille d’assurances.
-> 2001, ch. 9, art. 465; 2012, ch. 19, art. 345.
+> 2001, ch. 9, art. 465; 2012, ch. 19, art. 345, ch. 31, art. 142(A).
 
 
 
@@ -20739,8 +20776,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-**935** Par dérogation à l’article 934, si, après transfert ou émission d’actions d’une catégorie donnée à une personne, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième de un pour cent des actions en circulation de cette catégorie, la société de portefeuille d’assurances est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 2001, ch. 9, art. 465.
+**935** Par dérogation à l’article 934, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la société de portefeuille d’assurances est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 143.
 
 
 
@@ -20750,7 +20787,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **936** 
 
-- **(1)** Par dérogation aux paragraphes 927(1) et (2) et à l’article 934, l’agrément du ministre n’est pas nécessaire pour une société de portefeuille d’assurances autre qu’une société de portefeuille d’assurances à l’égard de laquelle le paragraphe 927(4) s’applique dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances — ou une entité qu’elle contrôle — , acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+- **(1)** Par dérogation aux paragraphes 927(1) et (2) et à l’article 934, l’agrément du ministre n’est pas nécessaire pour une société de portefeuille d’assurances autre qu’une société de portefeuille d’assurances à l’égard de laquelle le paragraphe 927(4) s’applique dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances — ou une entité qu’elle contrôle —, acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
 **Pourcentage**
 
@@ -20758,13 +20795,17 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Pourcentage**
 
-- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille d’assurances de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille d’assurances de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la société de portefeuille d’assurances de cette catégorie à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille d’assurances de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille d’assurances de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
+**Exception : mandataire admissible**
+
+- **(3.1)** Dans le cas où la personne visée au paragraphe (1) est un mandataire admissible ou une entité qu’il contrôle, le ministre peut réduire le pourcentage applicable visé aux paragraphes (2) ou (3).
+
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
+- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
 	- **a)** aurait pour effet la prise de contrôle de la société de portefeuille d’assurances par la personne;
 	- **b)** si la personne contrôle déjà la société de portefeuille d’assurances mais que les droits de vote attachés à l’ensemble des actions de la société de portefeuille d’assurances qu’elle-même et les entités qu’elle contrôle détiennent à titre de véritable propriétaire n’excèdent pas cinquante pour cent des droits de vote attachés à la totalité des actions en circulation, aurait pour effet de porter les droits de vote attachés à l’ensemble de ces actions détenues par la personne et les entités à plus de cinquante pour cent des droits de vote attachés à la totalité des actions en circulation;
 	- **c)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille d’assurances par une entité contrôlée par la personne, l’acquisition de cet intérêt n’étant pas soustraite, par règlement, à l’application du présent alinéa;
@@ -20772,10 +20813,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille d’assurances par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société de portefeuille d’assurances.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 144.
 
 
 
@@ -20785,9 +20826,9 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **937** 
 
-- **(1)** Par dérogation aux paragraphes 927(1) et (2) et à l’article 934, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
+- **(1)** Par dérogation aux paragraphes 927(1) et (2) et à l’article 934, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
 	- **a)** le surintendant a, par ordonnance, imposé à la société de portefeuille d’assurances une augmentation de capital et il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
-	- **b)** la personne qui contrôle, au sens de l’alinéa 3(1)a), la société de portefeuille d’assurances acquiert d’autres actions de la société de portefeuille d’assurances.
+	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la société de portefeuille d’assurances acquiert d’autres actions de celle-ci.
 
 **Exception**
 
@@ -20796,7 +20837,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Agrément préalable**
 
 - **(3)** Pour l’application des paragraphes 927(1) et (2) et de l’article 934, le ministre peut approuver l’acquisition, soit du nombre ou pourcentage d’actions d’une société de portefeuille d’assurances nécessaire pour une opération ou série d’opérations, soit du nombre ou pourcentage — à concurrence du plafond fixé — d’actions d’une société de portefeuille d’assurances pendant une période déterminée.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 145.
 
 
 
@@ -20963,7 +21004,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **947** 
 
-- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément mentionné à l’article 927, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
+- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément mentionné à l’article 927, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
 	- **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de toute société qui est la filiale de la société de portefeuille d’assurances;
 	- **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de toute société qui est la filiale de la société de portefeuille d’assurances;
 	- **c)** leur expérience et leur dossier professionnel;
@@ -20974,7 +21015,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-- **(2)** Sous réserve de l’article 933, le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+- **(2)** Sauf en ce qui a trait à la demande présentée par le mandataire admissible en vue d’obtenir l’agrément visé à l’article 927 et sous réserve de l’article 933, le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
 	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille d’assurances à l’égard de laquelle le paragraphe 927(4) s’applique;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle société de portefeuille d’assurances.
 
@@ -20985,7 +21026,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Partie XII de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md)**
 
 - **(4)** Les paragraphes (1) et (3) ne portent pas atteinte à l’application de la partie XII de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 146.
 
 
 
@@ -21019,13 +21060,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **950** 
 
-- **(1)** Sous réserve des paragraphes (2), (3) et 951(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(1)** Sous réserve des paragraphes (2), (3) et 951(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de l’opération;
 	- **b)** soit, s’il n’est pas convaincu que l’opération devrait être agréée, un avis de refus informant le demandeur de son droit de lui présenter des observations.
 
 **Avis au demandeur**
 
-- **(2)** Dans le cas où la demande d’agrément implique l’acquisition du contrôle d’une société de portefeuille d’assurances et sous réserve des paragraphes (4) et 951(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 949(1).
+- **(2)** Sous réserve des paragraphes (4) et 951(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 949(1) dans les cas suivants :
+	- **a)** la demande d’agrément implique l’acquisition du contrôle d’une société de portefeuille d’assurances;
+	- **b)** la demande d’agrément est faite par le mandataire admissible ou une entité qu’il contrôle;
+	- **c)** une demande est présentée pour l’agrément visé au paragraphe 954(3).
 
 **Prorogation**
 
@@ -21034,7 +21078,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Prorogation**
 
 - **(4)** Le ministre, s’il l’estime indiqué, peut proroger le délai visé au paragraphe (2) d’une ou plusieurs périodes de quarante-cinq jours.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 147.
 
 
 
@@ -21049,7 +21093,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Délai pour présentation d’observations**
 
 - **(2)** Dans les quarante-cinq jours qui suivent la date de l’avis prévu au paragraphe 950(2) ou dans le délai supérieur convenu entre eux, le ministre donne la possibilité de présenter des observations au demandeur qui l’a informé de son désir en ce sens.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 148(A).
 
 
 
@@ -21079,11 +21123,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Restriction : Couronne et États étrangers**
+**Restriction : Couronne et États étrangers**
 
 **954** 
 
-- **(1)** Il est interdit à la société de portefeuille d’assurances d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
+- **(1)** Il est interdit à la société de portefeuille d’assurances d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
@@ -21095,10 +21139,30 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(3)** Malgré le paragraphe (1), la société de portefeuille d’assurances peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
 
-**Agrément du ministre**
+**Demande conjointe**
 
-- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 947(1)a) à g).
-> 2001, ch. 9, art. 465; 2012, ch. 5, art. 156, ch. 19, art. 346.
+- **(4)** La société de portefeuille d’assurances et le mandataire admissible présentent conjointement la demande en vue d’obtenir l’agrément visé au paragraphe (3).
+
+**Facteurs à considérer**
+
+- **(5)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 947(1)a) à g).
+
+**Conséquence de la révocation de l’agrément**
+
+- **(6)** En cas de révocation de l’agrément visé au paragraphe (3), la société de portefeuille d’assurances supprime de son registre des valeurs mobilières toute indication à l’égard de l’inscription de l’émission des actions au mandataire admissible.
+
+**Disposition des actions**
+
+- **(7)** Si le mandataire admissible ou la société de portefeuille d’assurances contrevient à tout engagement ou à toute condition ou modalité dont l’agrément visé au paragraphe (3) est assorti, ou si le mandataire admissible cesse d’être mandataire admissible, le ministre peut, s’il l’estime dans l’intérêt du public, par arrêté, imposer l’obligation au mandataire admissible ainsi qu’à toute personne que celui-ci contrôle ou à la personne qui cesse d’être mandataire admissible ainsi qu’à toute autre personne que celle-ci contrôle de se départir du nombre d’actions — précisé dans l’arrêté — de la société de portefeuille d’assurances dont l’un ou plusieurs d’entre eux ont la propriété effective, dans le délai et selon la répartition qu’il établit.
+
+**Observations**
+
+- **(8)** Le ministre est tenu de donner à chaque personne visée par l’arrêté et à la société de portefeuille d’assurances en cause la possibilité de présenter leurs observations sur l’objet de l’arrêté qu’il envisage de prendre.
+
+**Appel**
+
+- **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 1020.
+> 2001, ch. 9, art. 465; 2012, ch. 5, art. 156, ch. 19, art. 346, ch. 31, art. 149.
 
 
 
@@ -21119,7 +21183,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Réserve – mandataire admissible**
 
 - **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 954(3).
-> 2001, ch. 9, art. 465; 2012, ch. 5, art. 157, ch. 19, art. 349.
+
+**Conséquence de la suspension de l’agrément**
+
+- **(4)** En cas de suspension de l’agrément visé au paragraphe 954(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la société de portefeuille d’assurances qu’il détient en propriété effective.
+> 2001, ch. 9, art. 465; 2012, ch. 5, art. 157, ch. 19, art. 349, ch. 31, art. 150.
 
 
 
@@ -21148,7 +21216,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **957** 
 
-- **(1)** En cas d’inobservation de l’arrêté, une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
+- **(1)** En cas d’inobservation de l’arrêté prévu aux paragraphes 954(7) ou 956(1), une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
 
 **Ordonnance**
 
@@ -21157,7 +21225,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 151.
 
 
 
@@ -22769,11 +22837,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **1020** 
 
-- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes des paragraphes 432(1) ou 956(1).
+- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes des paragraphes 428(7), 432(1), 954(7) ou 956(1).
 
 **Pouvoirs**
 
-- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
+- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
 	- **a)** rejet pur et simple;
 	- **b)** annulation des mesures ou décisions en cause;
 	- **c)** annulation des mesures ou décisions et renvoi de l’affaire pour réexamen.
@@ -22781,7 +22849,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Certificat**
 
 - **(3)** Sur demande de la société, société de secours, société étrangère, société provinciale ou société de portefeuille d’assurances, le ministre remet à celle-ci ou à la personne qui interjette appel un certificat exposant les mesures ou la décision portées en appel ainsi que les raisons justifiant leur prise.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 31, art. 152.
 
 
 
