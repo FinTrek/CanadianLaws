@@ -178,7 +178,7 @@ Autorités habilitantes :
 - **(3)** [Abrogé, DORS/2003-6, art. 41]
 
 - **(4)** Pour l’application de l’alinéa (1)d), ***conditionné hygiéniquement*** se dit du produit alimentaire qui est conditionné conformément aux articles 16 et 17.
-> DORS/91-687, art. 2; DORS/95-548, art. 2; DORS/2003-6, art. 41; DORS/2006-221, art. 5(F); DORS/2011-205, art. 27.
+> DORS/91-687, art. 2; DORS/95-548, art. 2; DORS/2003-6, art. 41; DORS/2006-221, art. 5(F); DORS/2011-205, art. 27; DORS/2012-286, art. 38(A).
 
 
 
