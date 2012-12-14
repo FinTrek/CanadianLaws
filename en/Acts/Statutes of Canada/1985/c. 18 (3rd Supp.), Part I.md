@@ -50,10 +50,10 @@
 
 ***Office*** means the Office of the Superintendent of Financial Institutions established pursuant to section 4;
 
-***pension plan*** has the same meaning as in subsection 2(1) of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md);
+***pension plan*** has the same meaning as in subsection 2(1) of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or has the meaning assigned by the definition ***pooled registered pension plan*** in subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md), as the case may be;
 
 ***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to subsection 5(1).
-> R.S., 1985, c. 18 (3rd Supp.), s. 3; 1991, c. 45, s. 557, c. 47, s. 742; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 104; 1998, c. 12, s. 27; 1999, c. 28, s. 127; 2001, c. 9, s. 466.
+> R.S., 1985, c. 18 (3rd Supp.), s. 3; 1991, c. 45, s. 557, c. 47, s. 742; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 104; 1998, c. 12, s. 27; 1999, c. 28, s. 127; 2001, c. 9, s. 466; 2012, c. 16, s. 90.
 
 
 
@@ -93,8 +93,8 @@
 **Objects of Office — pension plans**
 
 - **(2.1)** The objects of the Office, in respect of pension plans, are
-	- **(a)** to supervise pension plans in order to determine whether they meet the minimum funding requirements and are complying with the other requirements of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and its regulations and supervisory requirements under that legislation;
-	- **(b)** to promptly advise the administrator of a pension plan in the event that the plan is not meeting the minimum funding requirements or is not complying with other requirements of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or its regulations or supervisory requirements under that legislation and, in such a case, to take, or require the administrator to take, the necessary corrective measures or series of measures to deal with the situation in an expeditious manner; and
+	- **(a)** to supervise pension plans to determine whether they meet the minimum funding requirements and are complying with the other requirements of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md) and their regulations and supervisory requirements under that legislation;
+	- **(b)** to promptly advise the administrator of a pension plan in the event that the plan is not meeting the minimum funding requirements or is not complying with other requirements of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md) or their regulations or supervisory requirements under that legislation and, in such a case, to take, or require the administrator to take, the necessary corrective measures or series of measures to deal with the situation in an expeditious manner; and
 	- **(c)** to promote the adoption by administrators of pension plans of policies and procedures designed to control and manage risk.
 
 **Protection of depositors, etc.**
@@ -110,7 +110,7 @@
 **Factors affecting pension plans**
 
 - **(5)** Notwithstanding that the regulation and supervision of pension plans by the Office and the Superintendent can reduce the risk that pension plans will fail to pay the expected benefits, regulation and supervision must be carried out having regard to the fact that administrators of pension plans are responsible for the management of the pension plans and that pension plans can experience financial and funding difficulties that can result in the reduction of those benefits.
-> R.S., 1985, c. 18 (3rd Supp.), s. 4; 1996, c. 6, s. 106; 1998, c. 12, s. 29.
+> R.S., 1985, c. 18 (3rd Supp.), s. 4; 1996, c. 6, s. 106; 1998, c. 12, s. 29; 2012, c. 16, s. 91.
 
 
 
@@ -472,8 +472,8 @@ if the Superintendent is satisfied that the information will be treated as confi
 **Expenses — pension plans**
 
 - **(1.1)** In every fiscal year, the Superintendent shall
-	- **(a)** estimate the total amount of expenses to be incurred by the Office during the following fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md); and
-	- **(b)** ascertain the total amount of expenses incurred by the Office during the preceding fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md).
+	- **(a)** estimate the total amount of expenses to be incurred by the Office during the following fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md); and
+	- **(b)** ascertain the total amount of expenses incurred by the Office during the preceding fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md).
 
 **Amount conclusive**
 
@@ -494,7 +494,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 **Determination of amount assessed**
 
 - **(6)** The determination of the amount referred to in subsection (5) shall take into account the amounts referred to in subsection (1.1).
-> R.S., 1985, c. 18 (3rd Supp.), s. 23; 1991, c. 45, s. 558, c. 46, s. 602, c. 47, s. 743; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 110, c. 21, s. 72; 1997, c. 15, s. 339; 1999, c. 28, s. 130; 2001, c. 9, s. 473; 2010, c. 25, s. 175.
+> R.S., 1985, c. 18 (3rd Supp.), s. 23; 1991, c. 45, s. 558, c. 46, s. 602, c. 47, s. 743; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 110, c. 21, s. 72; 1997, c. 15, s. 339; 1999, c. 28, s. 130; 2001, c. 9, s. 473; 2010, c. 25, s. 175; 2012, c. 16, s. 94.
 
 
 
@@ -558,18 +558,18 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 - **(1)** The following definitions apply in this section and in sections 25 to 37.2.
 
-***entity*** means an entity as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
+***entity*** means an entity as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*entité*)
 
-***financial institutions Act*** means the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md).
+***financial institutions Act*** means the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md), the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md) and the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md). (*loi sur les institutions financières*)
 
-***penalty*** means an administrative monetary penalty.
+***penalty*** means an administrative monetary penalty. (*pénalité*)
 
-Version anglaise seulement***person*** means a natural person or an entity.
+***person*** means a natural person or an entity. (***Version anglaise seulement***)
 
 **Non-application**
 
 - **(2)** This section and sections 25 to 37 do not apply in respect of consumer provisions as defined in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md).
-> R.S., 1985, c. 18 (3rd Supp.), s. 24; 2001, c. 9, s. 476; 2010, c. 25, s. 176.
+> R.S., 1985, c. 18 (3rd Supp.), s. 24; 2001, c. 9, s. 476; 2010, c. 25, s. 176; 2012, c. 16, s. 92.
 
 
 
@@ -912,7 +912,9 @@ Insurance Companies Act<br />- <i>Loi sur les sociétés d’assurances</i>
 
 Pension Benefits Standards Act, 1985<br />- <i>Loi de 1985 sur les normes de prestation de pension</i>
 
+Pooled Registered Pension Plans Act<br />- <i>Loi sur les régimes de pension agréés collectifs</i>
+
 Trust and Loan Companies Act<br />- <i>Loi sur les sociétés de fiducie et de prêt</i>
-> R.S., 1985, c. 18 (3rd Supp.), Sch. to Part I; 1991, c. 47, s. 744; 1992, c. 1, s. 142, c. 56, s. 18; 1994, c. 26, ss. 50, 51; 1996, c. 6, s. 111; 1999, c. 31, s. 171.
+> R.S., 1985, c. 18 (3rd Supp.), Sch. to Part I; 1991, c. 47, s. 744; 1992, c. 1, s. 142, c. 56, s. 18; 1994, c. 26, ss. 50, 51; 1996, c. 6, s. 111; 1999, c. 31, s. 171; 2012, c. 16, s. 93.
 
 
