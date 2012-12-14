@@ -3497,11 +3497,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
-- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens du paragraphe 370(1) ou qui sont nommées par lui ou agissent en son nom;
+- **f.1)** qui sont des administrateurs, dirigeants employés ou mandataires d’un mandataire admissible au sens du paragraphe 370(1) ou qui agissent au nom d’un tel mandataire;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2012, ch. 19, art. 330.
+> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2012, ch. 19, art. 330, ch. 31, art. 109.
 
 
 
@@ -7714,8 +7714,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-**381** Par dérogation à l’article 379, si, après transfert ou émission d’actions d’une catégorie donnée à une personne, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 1991, ch. 46, art. 381; 2001, ch. 9, art. 98.
+**381** Par dérogation à l’article 379, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
+> 1991, ch. 46, art. 381; 2001, ch. 9, art. 98; 2012, ch. 31, art. 110.
 
 
 
@@ -7737,6 +7737,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la banque de cette catégorie le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
+**Exception : mandataire admissible**
+
+- **(3.1)** Dans le cas où la personne visée au paragraphe (1) est un mandataire admissible ou une entité qu’il contrôle, le ministre peut réduire le pourcentage applicable visé aux paragraphes (2) ou (3).
+
 **Exception**
 
 - **(4)** Le paragraphe (1) ne s’applique pas lorsque l’acquisition d’actions ou du contrôle dont il traite :
@@ -7750,7 +7754,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 - **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la banque par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la banque.
-> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 23.
+> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 23, ch. 31, art. 111.
 
 
 
@@ -7762,12 +7766,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
 	- **a)** le surintendant a, par ordonnance, imposé à la banque une augmentation de capital et il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
-	- **b)** la personne qui contrôle, au sens de l’alinéa 3(1)a), la banque acquiert d’autres actions de celle-ci.
+	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la banque acquiert d’autres actions de celle-ci.
 
 **Exception**
 
 - **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
-> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 24.
+> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 24, ch. 31, art. 112.
 
 
 
@@ -8019,14 +8023,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(2)** Sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+- **(2)** Sauf en ce qui a trait à la demande présentée par le mandataire admissible en vue d’obtenir l’agrément visé à l’article 373 et sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
 	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle banque.
 
 **Traitement favorable**
 
 - **(3)** Lorsque l’opération a pour effet de faire d’une banque la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les banques régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 31.
+> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 31, ch. 31, art. 113.
 
 
 
@@ -8064,13 +8068,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **399** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3) et 400(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(1)** Sous réserve des paragraphes (2) et (3) et 400(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de l’opération;
 	- **b)** soit, s’il n’est pas convaincu que l’opération devrait être agréée, un avis de refus informant le demandeur de son droit de lui présenter des observations.
 
-**Délai différent**
+**Avis au demandeur**
 
-- **(2)** Dans le cas où la demande d’agrément implique l’acquisition du contrôle d’une banque et sous réserve des paragraphes (4) et 400(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 398(1).
+- **(2)** Sous réserve des paragraphes (4) et 400(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 398(1) dans les cas suivants :
+	- **a)** la demande d’agrément implique l’acquisition du contrôle d’une banque;
+	- **b)** la demande d’agrément est faite par le mandataire admissible ou une entité qu’il contrôle;
+	- **c)** une demande est présentée pour l’agrément visé au paragraphe 401.2(3).
 
 **Prorogation**
 
@@ -8079,7 +8086,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation**
 
 - **(4)** Le ministre, s’il l’estime indiqué, peut proroger le délai visé au paragraphe (2) d’une ou de plusieurs périodes de quarante-cinq jours.
-> 1991, ch. 46, art. 399; 1994, ch. 47, art. 20; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 399; 1994, ch. 47, art. 20; 2001, ch. 9, art. 98; 2012, ch. 31, art. 114.
 
 
 
@@ -8094,7 +8101,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Délai pour la présentation d’observations**
 
 - **(2)** Dans les quarante-cinq jours qui suivent la date de l’avis prévu au paragraphe 399(2) ou dans le délai supérieur convenu entre eux, le ministre donne la possibilité de présenter des observations au demandeur qui l’a informé de son désir en ce sens.
-> 1991, ch. 46, art. 400; 1994, ch. 47, art. 21; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 400; 1994, ch. 47, art. 21; 2001, ch. 9, art. 98; 2012, ch. 31, art. 115(A).
 
 
 
@@ -8136,14 +8143,38 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
 
+**Exclusion de certaines banques étrangères**
+
+- **(2.1)** Le paragraphe (2) ne permet pas à la banque d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à la banque étrangère qui en est une du seul fait qu’elle est une entité visée à l’alinéa f) de la définition de ***banque étrangère*** à l’article 2.
+
 **Réserve**
 
 - **(3)** Malgré le paragraphe (1), la banque peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
 
-**Agrément du ministre**
+**Demande conjointe**
 
-- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 396(1)a) à h).
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32, ch. 19, art. 333.
+- **(4)** La banque et le mandataire admissible présentent conjointement la demande en vue d’obtenir l’agrément visé au paragraphe (3).
+
+**Facteurs à considérer**
+
+- **(5)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 396(1)a) à h).
+
+**Conséquence de la révocation de l’agrément**
+
+- **(6)** En cas de révocation de l’agrément visé au paragraphe (3), la banque supprime de son registre des valeurs mobilières toute indication à l’égard de l’inscription de l’émission des actions au mandataire admissible.
+
+**Disposition des actions**
+
+- **(7)** Si le mandataire admissible ou la banque contrevient à tout engagement ou à toute condition ou modalité dont l’agrément visé au paragraphe (3) est assorti, ou si le mandataire admissible cesse d’être mandataire admissible, le ministre peut, s’il l’estime dans l’intérêt du public, par arrêté, imposer l’obligation au mandataire admissible ainsi qu’à toute personne que celui-ci contrôle ou à la personne qui cesse d’être mandataire admissible ainsi qu’à toute autre personne que celle-ci contrôle de se départir du nombre d’actions — précisé dans l’arrêté — de la banque dont l’un ou plusieurs d’entre eux ont la propriété effective, dans le délai et selon la répartition qu’il établit.
+
+**Observations**
+
+- **(8)** Le ministre est tenu de donner à chaque personne visée par l’arrêté et à la banque en cause la possibilité de présenter leurs observations sur l’objet de l’arrêté qu’il envisage de prendre.
+
+**Appel**
+
+- **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32, ch. 19, art. 333, ch. 31, art. 116.
 
 
 
@@ -8164,7 +8195,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Réserve – mandataire admissible**
 
 - **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 401.2(3).
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33, ch. 19, art. 334.
+
+**Conséquence de la suspension de l’agrément**
+
+- **(4)** En cas de suspension de l’agrément visé au paragraphe 401.2(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la banque qu’il détient en propriété effective.
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33, ch. 19, art. 334, ch. 31, art. 117.
 
 
 
@@ -8209,7 +8244,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **403** 
 
-- **(1)** En cas d’inobservation de l’arrêté, une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
+- **(1)** En cas d’inobservation de l’arrêté prévu aux paragraphes 401.2(7) ou 402(1), une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
 
 **Ordonnance**
 
@@ -8218,6 +8253,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
+> 1991, ch. 46, art. 403; 2012, ch. 31, art. 118.
+
 
 
 
@@ -17316,11 +17353,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille bancaire;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société;
-- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens du paragraphe 370(1) ou qui sont nommées par lui ou agissent en son nom;
+- **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens du paragraphe 370(1) ou qui agissent au nom d’un tel mandataire;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 183; 2012, ch. 19, art. 335.
+> 2001, ch. 9, art. 183; 2012, ch. 19, art. 335, ch. 31, art. 119.
 
 
 
@@ -19965,8 +20002,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-**889** Par dérogation à l’article 887, si, après transfert ou émission d’actions d’une catégorie donnée à une personne, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la société de portefeuille bancaire est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 2001, ch. 9, art. 183.
+**889** Par dérogation à l’article 887, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la société de portefeuille bancaire est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 120.
 
 
 
@@ -19984,13 +20021,17 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Pourcentage**
 
-- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire et où son pourcentage de ces actions a diminué après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille bancaire de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire et où son pourcentage de ces actions a diminué après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille bancaire de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la société de portefeuille bancaire de cette catégorie à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille bancaire de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de portefeuille bancaire de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
+**Exception : mandataire admissible**
+
+- **(3.1)** Dans le cas où la personne visée au paragraphe (1) est un mandataire admissible ou une entité qu’il contrôle, le ministre peut réduire le pourcentage applicable visé aux paragraphes (2) ou (3).
+
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
+- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
 	- **a)** aurait pour effet la prise de contrôle de la société de portefeuille bancaire par la personne;
 	- **b)** si la personne contrôle déjà la société de portefeuille bancaire mais que les droits de vote attachés à l’ensemble des actions de la société de portefeuille bancaire qu’elle-même et les entités qu’elle contrôle détiennent à titre de véritable propriétaire n’excèdent pas cinquante pour cent des droits de vote attachés à la totalité des actions en circulation, aurait pour effet de porter les droits de vote attachés à l’ensemble de ces actions détenues par la personne et les entités à plus de cinquante pour cent des droits de vote attachés à la totalité des actions en circulation;
 	- **c)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille bancaire par une entité contrôlée par la personne et que l’acquisition de cet intérêt n’est pas soustraite, par règlement, à l’application du présent alinéa;
@@ -19998,10 +20039,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille bancaire par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 90.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 90, ch. 31, art. 121.
 
 
 
@@ -20011,14 +20052,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **891** 
 
-- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
+- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
 	- **a)** le surintendant a, par ordonnance, imposé à la société de portefeuille bancaire une augmentation de capital et il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
-	- **b)** la personne qui contrôle, au sens de l’alinéa 3(1)a), la société de portefeuille bancaire acquiert d’autres actions de la société de portefeuille bancaire.
+	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la société de portefeuille bancaire acquiert d’autres actions de celle-ci.
 
 **Exception**
 
 - **(2)** L’alinéa (1)a) ne s’applique pas à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 91.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 91, ch. 31, art. 122.
 
 
 
@@ -20267,14 +20308,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-- **(2)** Sous réserve du paragraphe 882(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+- **(2)** Sauf en ce qui a trait à la demande présentée par le mandataire admissible en vue d’obtenir l’agrément visé à l’article 875 et sous réserve du paragraphe 882(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
 	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle société de portefeuille bancaire.
 
 **Traitement favorable**
 
 - **(3)** Lorsque l’opération a pour effet de faire d’une société de portefeuille bancaire la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de  ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les sociétés de portefeuille bancaires régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 98.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 98, ch. 31, art. 123.
 
 
 
@@ -20308,13 +20349,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **909** 
 
-- **(1)** Sous réserve des paragraphes (2), (3) et 910(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(1)** Sous réserve des paragraphes (2), (3) et 910(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de l’opération;
 	- **b)** soit, s’il n’est pas convaincu que l’opération devrait être agréée, un avis de refus informant le demandeur de son droit de lui présenter des observations.
 
-**Délai différent**
+**Avis au demandeur**
 
-- **(2)** Dans le cas où la demande d’agrément implique l’acquisition du contrôle d’une société de portefeuille bancaire et sous réserve des paragraphes (4) et 910(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 908(1).
+- **(2)** Sous réserve des paragraphes (4) et 910(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 908(1) dans les cas suivants :
+	- **a)** la demande d’agrément implique l’acquisition du contrôle d’une société de portefeuille bancaire;
+	- **b)** la demande d’agrément est faite par le mandataire admissible ou une entité qu’il contrôle;
+	- **c)** une demande est présentée pour l’agrément visé au paragraphe 913(3).
 
 **Prorogation**
 
@@ -20323,7 +20367,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Prorogation**
 
 - **(4)** Le ministre, s’il l’estime indiqué, peut proroger le délai visé au paragraphe (2) d’une ou plusieurs périodes de quarante-cinq jours.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 124.
 
 
 
@@ -20338,7 +20382,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Délai pour la présentation d’observations**
 
 - **(2)** Dans les quarante-cinq jours qui suivent la date de l’avis prévu au paragraphe 909(2) ou dans le délai supérieur convenu entre eux, le ministre donne la possibilité de présenter des observations au demandeur qui l’a informé de son désir en ce sens.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 125(A).
 
 
 
@@ -20368,11 +20412,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Restriction : Couronne et États étrangers**
+**Restriction : Couronne et États étrangers**
 
 **913** 
 
-- **(1)** Il est interdit à la société de portefeuille bancaire d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
+- **(1)** Il est interdit à la société de portefeuille bancaire d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
@@ -20380,14 +20424,38 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(2)** Par dérogation au paragraphe (1), la société de portefeuille bancaire peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
 
+**Exclusion de certaines banques étrangères**
+
+- **(2.1)** Le paragraphe (2) ne permet pas à la société de portefeuille bancaire d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à la banque étrangère qui en est une du seul fait qu’elle est une entité visée à l’alinéa f) de la définition de ***banque étrangère*** à l’article 2.
+
 **Réserve**
 
 - **(3)** Malgré le paragraphe (1), la société de portefeuille bancaire peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
 
-**Agrément du ministre**
+**Demande conjointe**
 
-- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 906(1)a) à g).
-> 2001, ch. 9, art. 183; 2012, ch. 5, art. 99, ch. 19, art. 337.
+- **(4)** La société de portefeuille bancaire et le mandataire admissible présentent conjointement la demande en vue d’obtenir l’agrément visé au paragraphe (3).
+
+**Facteurs à considérer**
+
+- **(5)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 906(1)a) à g).
+
+**Conséquence de la révocation de l’agrément**
+
+- **(6)** En cas de révocation de l’agrément visé au paragraphe (3), la société de portefeuille bancaire supprime de son registre des valeurs mobilières toute indication à l’égard de l’inscription de l’émission des actions au mandataire admissible.
+
+**Disposition des actions**
+
+- **(7)** Si le mandataire admissible ou la société de portefeuille bancaire contrevient à tout engagement ou à toute condition ou modalité dont l’agrément visé au paragraphe (3) est assorti, ou si le mandataire admissible cesse d’être mandataire admissible, le ministre peut, s’il l’estime dans l’intérêt du public, par arrêté, imposer l’obligation au mandataire admissible ainsi qu’à toute personne que celui-ci contrôle ou à la personne qui cesse d’être mandataire admissible ainsi qu’à toute autre personne que celle-ci contrôle de se départir du nombre d’actions — précisé dans l’arrêté — de la société de portefeuille bancaire dont l’un ou plusieurs d’entre eux ont la propriété effective, dans le délai et selon la répartition qu’il établit.
+
+**Observations**
+
+- **(8)** Le ministre est tenu de donner à chaque personne visée par l’arrêté et à la société de portefeuille bancaire en cause la possibilité de présenter leurs observations sur l’objet de l’arrêté qu’il envisage de prendre.
+
+**Appel**
+
+- **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 99, ch. 19, art. 337, ch. 31, art. 126.
 
 
 
@@ -20397,7 +20465,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **914** 
 
-- **(1)** Par dérogation à l’article 737, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions de la société de portefeuille bancaire qui sont détenues en propriété effective :
+- **(1)** Par dérogation à l’article 737, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions de la société de portefeuille bancaire qui sont détenues en propriété effective :
 	- **a)** soit par Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
 	- **b)** soit par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement.
 
@@ -20408,7 +20476,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Réserve – mandataire admissible**
 
 - **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 913(3).
-> 2001, ch. 9, art. 183; 2012, ch. 5, art. 100, ch. 19, art. 338.
+
+**Conséquence de la suspension de l’agrément**
+
+- **(4)** En cas de suspension de l’agrément visé au paragraphe 913(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la société de portefeuille bancaire qu’il détient en propriété effective.
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 100, ch. 19, art. 338, ch. 31, art. 127.
 
 
 
@@ -20431,8 +20503,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Appel**
 
-**916** Les personnes visées par l’arrêté peuvent, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
-> 2001, ch. 9, art. 183.
+**916** Les personnes visées par l’arrêté prévu au paragraphe 915(1) peuvent, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 128(F).
 
 
 
@@ -20442,7 +20514,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **917** 
 
-- **(1)** En cas d’inobservation de l’arrêté, une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
+- **(1)** En cas d’inobservation de l’arrêté prévu aux paragraphes 913(7) ou 915(1), une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
 
 **Ordonnance**
 
@@ -20451,7 +20523,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 129.
 
 
 
@@ -22071,11 +22143,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **977** 
 
-- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes des paragraphes 402(1) ou 915(1).
+- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes des paragraphes 401.2(7), 402(1), 913(7) ou 915(1).
 
 **Pouvoirs**
 
-- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
+- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
 	- **a)** rejet pur et simple;
 	- **b)** annulation des mesures ou décisions en cause;
 	- **c)** annulation des mesures ou décisions et renvoi de l’affaire pour réexamen.
@@ -22083,7 +22155,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Certificat**
 
 - **(3)** Sur demande, le ministre remet à la banque, à la société de portefeuille bancaire ou à la personne qui interjette appel un certificat exposant les mesures ou la décision portées en appel ainsi que les raisons justifiant leur prise.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2012, ch. 31, art. 130.
 
 
 
