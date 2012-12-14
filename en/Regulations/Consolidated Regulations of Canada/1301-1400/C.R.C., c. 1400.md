@@ -765,7 +765,7 @@ Enabling authorities:
 		- **(iii)** two per cent or more by weight of the mixture, in the case of white clover.
 
 - **(2)** Where the name of any kind, species or variety of seed contained in a lawn grass mixture or turf grass mixture is stated on a label to the exclusion of the other kinds, species or varieties in the mixture, or in a manner to emphasize that name, the percentage by weight of that kind, species or variety in the mixture shall be stated on the label in the same size and colour of type as the name.
-> SOR/79-367, s. 7; SOR/96-252, s. 2; SOR/2007-223, s. 14.
+> SOR/79-367, s. 7; SOR/96-252, s. 2; SOR/2007-223, s. 14; SOR/2012-286, s. 4(F).
 
 
 
@@ -909,7 +909,7 @@ Enabling authorities:
 	- **(d)** the lot number;
 	- **(e)** the crop certificate number; and
 	- **(f)** if the seed is derived from a crop not grown in Canada, the country or the state of the official certifying agency and the pedigreed reference number of that agency.
-> SOR/96-252, s. 2; SOR/2007-223, s. 20.
+> SOR/96-252, s. 2; SOR/2007-223, s. 20; SOR/2012-286, s. 5(F).
 
 
 
@@ -3190,21 +3190,19 @@ Inspection for the purpose of certification was made either visually or through 
 
 ### **SCHEDULE I** 
 **(Sections 2, 5 to 7, 11 and 12, 18, 23 to 27, 30 and 40)**
-#### TABLE I
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Wheat, common</td>
-<td>— *Triticum aestivum* L.</td>
-</tr>
-<tr>
-<td>(b) Wheat, durum</td>
-<td>— *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
-</tr>
-</table>
+
+## Table I
+
+Applicable to:
+
+**(a)** Wheat, common — *Triticum aestivum* L.
+
+
+
+**(b)** Wheat, durum — *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)
+
+
+
 
 <table>
 <tr>
@@ -3346,57 +3344,55 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE II
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Barley, six-row, two-row, hulless</td>
-<td>— *Hordeum vulgare* L. subsp. *vulgare*</td>
-</tr>
-<tr>
-<td>(b) Bean, mung</td>
-<td>— *Vigna radiata* (L.) Wilczek var. *radiata*</td>
-</tr>
-<tr>
-<td>(c) Buckwheat, common</td>
-<td>— *Fagopyrum esculentum* Moench</td>
-</tr>
-<tr>
-<td>(d) Buckwheat, tartarian</td>
-<td>— *Fagopyrum tataricum* (L.) Gaertn.</td>
-</tr>
-<tr>
-<td>(e) Emmer</td>
-<td>— *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell. (= *T. dicoccum* Schrank ex Schübl.)</td>
-</tr>
-<tr>
-<td>(f) Lentil</td>
-<td>— *Lens culinaris* Medik.</td>
-</tr>
-<tr>
-<td>(g) Lupine, lupin (grain and forage)</td>
-<td>— *Lupinus* spp.</td>
-</tr>
-<tr>
-<td>(h) Oats including hulless</td>
-<td>— *Avena sativa* L., *A. nuda* L.</td>
-</tr>
-<tr>
-<td>(i) Rye</td>
-<td>— *Secale cereale* L.</td>
-</tr>
-<tr>
-<td>(j) Spelt</td>
-<td>— *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
-</tr>
-<tr>
-<td>(k) Triticale</td>
-<td>— × *Triticosecale* spp.</td>
-</tr>
-</table>
+
+## Table II
+
+Applicable to:
+
+**(a)** Barley, six-row, two-row, hulless — *Hordeum vulgare* L. subsp. *vulgare*
+
+
+
+**(b)** Bean, mung — *Vigna radiata* (L.) Wilczek var. *radiata*
+
+
+
+**(c)** Buckwheat, common — *Fagopyrum esculentum* Moench
+
+
+
+**(d)** Buckwheat, tartarian — *Fagopyrum tataricum* (L.) Gaertn.
+
+
+
+**(e)** Emmer — *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell. (= *T. dicoccum* Schrank ex Schübl.)
+
+
+
+**(f)** Lentil — *Lens culinaris* Medik.
+
+
+
+**(g)** Lupine, lupin (grain and forage) — *Lupinus* spp.
+
+
+
+**(h)** Oats including hulless — *Avena sativa* L., *A. nuda* L.
+
+
+
+**(i)** Rye — *Secale cereale* L.
+
+
+
+**(j)** Spelt — *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)
+
+
+
+**(k)** Triticale — × *Triticosecale* spp.
+
+
+
 
 <table>
 <tr>
@@ -3561,29 +3557,27 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE II.1
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Sainfoin</td>
-<td>— *Onobrychis viciifolia* Scop.</td>
-</tr>
-<tr>
-<td>(b) Vetch, hairy</td>
-<td>— *Vicia villosa* Roth. subsp. *villosa*</td>
-</tr>
-<tr>
-<td>(c) Vetch, Hungarian</td>
-<td>— *Vicia pannonica* Crantz</td>
-</tr>
-<tr>
-<td>(d) Vetch, common</td>
-<td>— *Vicia sativa* L. subsp. *sativa*</td>
-</tr>
-</table>
+
+## Table II.1
+
+Applicable to:
+
+**(a)** Sainfoin — *Onobrychis viciifolia* Scop.
+
+
+
+**(b)** Vetch, hairy — *Vicia villosa* Roth. subsp. *villosa*
+
+
+
+**(c)** Vetch, Hungarian — *Vicia pannonica* Crantz
+
+
+
+**(d)** Vetch, common — *Vicia sativa* L. subsp. *sativa*
+
+
+
 
 <table>
 <tr>
@@ -3680,15 +3674,15 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE III
-<table>
-<tr>
-<td>Applicable to:</td>
-</tr>
-<tr>
-<td>Cereal mixtures composed of seeds of two or more kinds listed in Tables I to II.1, including *Phaseolus vulgaris* L., *Vicia faba* L. and *Pisum sativum* L.</td>
-</tr>
-</table>
+
+## Table III
+
+Applicable to:
+
+Cereal mixtures composed of seeds of two or more kinds listed in Tables I to II.1, including *Phaseolus vulgaris* L., *Vicia faba* L. and *Pisum sativum* L.
+
+
+
 
 <table>
 <tr>
@@ -3761,37 +3755,35 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE IV
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Canarygrass</td>
-<td>— *Phalaris canariensis* L.</td>
-</tr>
-<tr>
-<td>(b) Flax, oilseed and fibre</td>
-<td>— *Linum usitatissimum* L.</td>
-</tr>
-<tr>
-<td>(c) Sorghum</td>
-<td>— *Sorghum bicolor* (L.) Moench</td>
-</tr>
-<tr>
-<td>(d) Sorghum Sudan grass hybrids</td>
-<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase</td>
-</tr>
-<tr>
-<td>(e) Sudan grass</td>
-<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)</td>
-</tr>
-<tr>
-<td>(f) Hemp</td>
-<td>— *Cannabis sativa* L. subsp. *sativa*</td>
-</tr>
-</table>
+
+## Table IV
+
+Applicable to:
+
+**(a)** Canarygrass — *Phalaris canariensis* L.
+
+
+
+**(b)** Flax, oilseed and fibre — *Linum usitatissimum* L.
+
+
+
+**(c)** Sorghum — *Sorghum bicolor* (L.) Moench
+
+
+
+**(d)** Sorghum Sudan grass hybrids — *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase
+
+
+
+**(e)** Sudan grass — *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)
+
+
+
+**(f)** Hemp — *Cannabis sativa* L. subsp. *sativa*
+
+
+
 
 <table>
 <tr>
@@ -3909,48 +3901,47 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE V
-<table>
-<tr>
-<td>Applicable to seed of the following kinds when intended for agricultural field production:</td>
-</tr>
-<tr>
-<td>(a) Bean, field</td>
-<td>— *Phaseolus vulgaris* L.</td>
-</tr>
-<tr>
-<td>(b) Bean, broad, horse, tick and faba</td>
-<td>— *Vicia faba* L.</td>
-</tr>
-<tr>
-<td>(c) Chickpea</td>
-<td>— *Cicer arietinum* L.</td>
-</tr>
-<tr>
-<td>(d) Corn (open-pollinated, synthetic)</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>(e) Cowpea</td>
-<td>— *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
-</tr>
-<tr>
-<td>(f) Pea, field</td>
-<td>— *Pisum sativum* L.</td>
-</tr>
-<tr>
-<td>(g) Safflower</td>
-<td>— *Carthamus tinctorius* L.</td>
-</tr>
-<tr>
-<td>(h) Soybean</td>
-<td>— *Glycine max* (L.) Merr.</td>
-</tr>
-<tr>
-<td>(i) Sunflower (open-pollinated)</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-</table>
+
+## Table V
+
+Applicable to seed of the following kinds when intended for agricultural field production:
+
+**(a)** Bean, field — *Phaseolus vulgaris* L.
+
+
+
+**(b)** Bean, broad, horse, tick and faba — *Vicia faba* L.
+
+
+
+**(c)** Chickpea — *Cicer arietinum* L.
+
+
+
+**(d)** Corn (open-pollinated, synthetic) — *Zea mays* L. subsp. *mays*
+
+
+
+**(e)** Cowpea — *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*
+
+
+
+**(f)** Pea, field — *Pisum sativum* L.
+
+
+
+**(g)** Safflower — *Carthamus tinctorius* L.
+
+
+
+**(h)** Soybean — *Glycine max* (L.) Merr.
+
+
+
+**(i)** Sunflower (open-pollinated) — *Helianthus annuus* L.
+
+
+
 
 <table>
 <tr>
@@ -4051,20 +4042,19 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE VI
-<table>
-<tr>
-<td>Applicable to seed of the following kinds when intended for agricultural field production:</td>
-</tr>
-<tr>
-<td>(a) Corn, hybrid</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>(b) Sunflower, hybrid</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-</table>
+
+## Table VI
+
+Applicable to seed of the following kinds when intended for agricultural field production:
+
+**(a)** Corn, hybrid — *Zea mays* L. subsp. *mays*
+
+
+
+**(b)** Sunflower, hybrid — *Helianthus annuus* L.
+
+
+
 
 <table>
 <tr>
@@ -4082,7 +4072,7 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Weeds</th>
+<th>Total Weeds</th>
 <th>Other Crops</th>
 <th>Maximum Number of Sclerotia Bodies per kg in Sunflower</th>
 <th>Minimum Percentage of Germination</th>
@@ -4117,45 +4107,43 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE VII
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Mustard, black</td>
-<td>— *Brassica nigra* (L.) W.D.J. Koch</td>
-</tr>
-<tr>
-<td>(b) Mustard, oriental, Indian or brown</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>(c) Mustard, white (= yellow)</td>
-<td>— *Sinapis alba* L.</td>
-</tr>
-<tr>
-<td>(d) Rapeseed, oilseed rape, canola</td>
-<td></td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- Argentine type</td>
-<td>— *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- Polish type</td>
-<td>— *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
-</tr>
-<tr>
-<td>- *Brassica juncea* type</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>(e) Radish, oilseed or forage</td>
-<td>— *Raphanus sativus* L. var. *oleiformis* Pers.</td>
-</tr>
-</table>
+
+## Table VII
+
+Applicable to:
+
+**(a)** Mustard, black — *Brassica nigra* (L.) W.D.J. Koch
+
+
+
+**(b)** Mustard, oriental, Indian or brown — *Brassica juncea* (L.) Czern.
+
+
+
+**(c)** Mustard, white (= yellow) — *Sinapis alba* L.
+
+
+
+**(d)** Rapeseed, oilseed rape, canola
+
+- Argentine type — *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)
+
+
+
+- Polish type — *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham
+
+
+
+- *Brassica juncea* type — *Brassica juncea* (L.) Czern.
+
+
+
+
+
+**(e)** Radish, oilseed or forage — *Raphanus sativus* L. var. *oleiformis* Pers.
+
+
+
 
 <table>
 <tr>
@@ -4275,81 +4263,79 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE VIII
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Alfalfa</td>
-<td>— *Medicago sativa* L.</td>
-</tr>
-<tr>
-<td>(b) Clover, crimson</td>
-<td>— *Trifolium incarnatum* L.</td>
-</tr>
-<tr>
-<td>(c) Clover, red</td>
-<td>— *Trifolium pratense* L.</td>
-</tr>
-<tr>
-<td>(d) Clover, subterranean</td>
-<td>— *Trifolium subterraneum* L.</td>
-</tr>
-<tr>
-<td>(e) Clover, sweet</td>
-<td></td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- white blossom</td>
-<td>— *Melilotus albus* Medik.</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- yellow blossom</td>
-<td>— *Melilotus officinalis* (L.) Lam.</td>
-</tr>
-<tr>
-<td>(f) Lespedeza, common or Kobe</td>
-<td>— *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)</td>
-</tr>
-<tr>
-<td>(g) Lespedeza, Korean</td>
-<td>— *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)</td>
-</tr>
-<tr>
-<td>(h) Lespedeza, sericea or Chinese</td>
-<td>— *Lespedeza cuneata* (Dum.-Cours.) G. Don</td>
-</tr>
-<tr>
-<td>(i) Millet, foxtail or Italian</td>
-<td>— *Setaria italica* (L.) P. Beauv. subsp. *italica*</td>
-</tr>
-<tr>
-<td>(j) Millet, Japanese</td>
-<td>— *Echinochloa frumentacea* Link or *E. esculenta* (A. Brown) H. Scholz. (=*Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)</td>
-</tr>
-<tr>
-<td>(k) Millet, pearl</td>
-<td>— *Pennisetum glaucum* (L.) R. Br. (= *P. americanum* L. Leeke)</td>
-</tr>
-<tr>
-<td>(l) Millet, proso</td>
-<td>— *Panicum miliaceum* L. subsp. *miliaceum*</td>
-</tr>
-<tr>
-<td>(m) Vetch, crown</td>
-<td>— *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
-</tr>
-<tr>
-<td>(n) Vetch, kidney</td>
-<td>— *Anthyllis vulneraria* L.</td>
-</tr>
-<tr>
-<td>(o) Milk-vetch, cicer</td>
-<td>— *Astragalus cicer* L.</td>
-</tr>
-</table>
+
+## Table VIII
+
+Applicable to:
+
+**(a)** Alfalfa — *Medicago sativa* L.
+
+
+
+**(b)** Clover, crimson — *Trifolium incarnatum* L.
+
+
+
+**(c)** Clover, red — *Trifolium pratense* L.
+
+
+
+**(d)** Clover, subterranean — *Trifolium subterraneum* L.
+
+
+
+**(e)** Clover, sweet
+
+- white blossom — *Melilotus albus* Medik.
+
+
+
+- yellow blossom — *Melilotus officinalis* (L.) Lam.
+
+
+
+
+
+**(f)** Lespedeza, common or Kobe — *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)
+
+
+
+**(g)** Lespedeza, Korean — *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)
+
+
+
+**(h)** Lespedeza, sericea or Chinese — *Lespedeza cuneata* (Dum.-Cours.) G. Don
+
+
+
+**(i)** Millet, foxtail or Italian — *Setaria italica* (L.) P. Beauv. subsp. *italica*
+
+
+
+**(j)** Millet, Japanese — *Echinochloa frumentacea* Link or *E. esculenta* (A. Brown) H. Scholz. (=*Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)
+
+
+
+**(k)** Millet, pearl — *Pennisetum glaucum* (L.) R. Br. (= *P. americanum* L. Leeke)
+
+
+
+**(l)** Millet, proso — *Panicum miliaceum* L. subsp. *miliaceum*
+
+
+
+**(m)** Vetch, crown — *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)
+
+
+
+**(n)** Vetch, kidney — *Anthyllis vulneraria* L.
+
+
+
+**(o)** Milk-vetch, cicer — *Astragalus cicer* L.
+
+
+
 
 <table>
 <tr>
@@ -4486,57 +4472,55 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE IX
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Clover, alsike</td>
-<td>— *Trifolium hybridum* L.</td>
-</tr>
-<tr>
-<td>(b) Clover, hop or yellow</td>
-<td>— *Trifolium aureum* Pollich</td>
-</tr>
-<tr>
-<td>(c) Clover, hop, large</td>
-<td>— *Trifolium campestre* Schreb.</td>
-</tr>
-<tr>
-<td>(d) Clover, hop, small (suckling)</td>
-<td>— *Trifolium dubium* Sibth.</td>
-</tr>
-<tr>
-<td>(e) Clover, Persian</td>
-<td>— *Trifolium resupinatum* L.</td>
-</tr>
-<tr>
-<td>(f) Clover, strawberry</td>
-<td>— *Trifolium fragiferum* L.</td>
-</tr>
-<tr>
-<td>(g) Clover, white</td>
-<td>— *Trifolium repens* L.</td>
-</tr>
-<tr>
-<td>(h) Medick, black</td>
-<td>— *Medicago lupulina* L.</td>
-</tr>
-<tr>
-<td>(i) Timothy</td>
-<td></td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- common</td>
-<td>— *Phleum pratense* L.</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;- dwarf</td>
-<td>— *Phleum bertolonii* DC.</td>
-</tr>
-</table>
+
+## Table IX
+
+Applicable to:
+
+**(a)** Clover, alsike — *Trifolium hybridum* L.
+
+
+
+**(b)** Clover, hop or yellow — *Trifolium aureum* Pollich
+
+
+
+**(c)** Clover, hop, large — *Trifolium campestre* Schreb.
+
+
+
+**(d)** Clover, hop, small (suckling) — *Trifolium dubium* Sibth.
+
+
+
+**(e)** Clover, Persian — *Trifolium resupinatum* L.
+
+
+
+**(f)** Clover, strawberry — *Trifolium fragiferum* L.
+
+
+
+**(g)** Clover, white — *Trifolium repens* L.
+
+
+
+**(h)** Medick, black — *Medicago lupulina* L.
+
+
+
+**(i)** Timothy
+
+- common — *Phleum pratense* L.
+
+
+
+- dwarf — *Phleum bertolonii* DC.
+
+
+
+
+
 
 <table>
 <tr>
@@ -4687,17 +4671,15 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE X
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>Trefoil, bird’s-foot</td>
-<td>— *Lotus corniculatus* L.</td>
-</tr>
-</table>
+
+## Table X
+
+Applicable to:
+
+Trefoil, bird’s-foot — *Lotus corniculatus* L.
+
+
+
 
 <table>
 <tr>
@@ -4834,141 +4816,139 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XI
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Bromegrass, meadow</td>
-<td>— *Bromus riparius* Rehmann</td>
-</tr>
-<tr>
-<td>(b) Bromegrass, smooth</td>
-<td>— *Bromus inermis* Leyss.</td>
-</tr>
-<tr>
-<td>(c) Bromegrass, sweet</td>
-<td>— *Bromus carinatus* Hook. & Arn.</td>
-</tr>
-<tr>
-<td>(d) Canarygrass, reed</td>
-<td>— *Phalaris arundinacea* L.</td>
-</tr>
-<tr>
-<td>(e) Fescue, Chewing’s</td>
-<td>— *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
-</tr>
-<tr>
-<td>(f) Fescue, fine-leaved</td>
-<td>— *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
-</tr>
-<tr>
-<td>(g) Fescue, hard</td>
-<td>— *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)</td>
-</tr>
-<tr>
-<td>(h) Fescue, meadow</td>
-<td>— *Festuca pratensis* Huds.</td>
-</tr>
-<tr>
-<td>(i) Fescue, red and creeping red</td>
-<td>— *Festuca rubra* L. subsp. *rubra*</td>
-</tr>
-<tr>
-<td>(j) Fescue, sheep</td>
-<td>— *Festuca ovina* L.</td>
-</tr>
-<tr>
-<td>(k) Fescue, tall</td>
-<td>— *Festuca arundinacea* Schreb.</td>
-</tr>
-<tr>
-<td>(l) Fescue, various-leaved</td>
-<td>— *Festuca heterophylla* Lam.</td>
-</tr>
-<tr>
-<td>(m) Foxtail, creeping</td>
-<td>— *Alopecurus arundinaceus* Poir.</td>
-</tr>
-<tr>
-<td>(n) Foxtail, meadow</td>
-<td>— *Alopecurus pratensis* L.</td>
-</tr>
-<tr>
-<td>(o) Oatgrass, tall</td>
-<td>— *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl</td>
-</tr>
-<tr>
-<td>(p) Orchardgrass</td>
-<td>— *Dactylis glomerata* L.</td>
-</tr>
-<tr>
-<td>(q) Ryegrass, annual</td>
-<td>— *Lolium multiflorum* Lam.</td>
-</tr>
-<tr>
-<td>(r) Ryegrass, intermediate</td>
-<td>— *Lolium*×*hybridum* Hausskn.</td>
-</tr>
-<tr>
-<td>(s) Ryegrass, perennial</td>
-<td>— *Lolium perenne* L.</td>
-</tr>
-<tr>
-<td>(t) Wheatgrass, beardless</td>
-<td>— *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
-</tr>
-<tr>
-<td>(u) Wheatgrass, crested</td>
-<td>— *Agropyron cristatum* (L.) Gaertn. or *A. desertorum* (Fisch. ex Link) Schult.</td>
-</tr>
-<tr>
-<td>(v) Wheatgrass, intermediate</td>
-<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
-</tr>
-<tr>
-<td>(w) Wheatgrass, northern</td>
-<td>— *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
-</tr>
-<tr>
-<td>(x) Wheatgrass, pubescent</td>
-<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
-</tr>
-<tr>
-<td>(y) Wheatgrass, Siberian</td>
-<td>— *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
-</tr>
-<tr>
-<td>(z) Wheatgrass, slender</td>
-<td>— *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
-</tr>
-<tr>
-<td>(z.1) Wheatgrass, streambank</td>
-<td>— *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
-</tr>
-<tr>
-<td>(z.2) Wheatgrass, tall</td>
-<td>— *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
-</tr>
-<tr>
-<td>(z.3) Wheatgrass, western</td>
-<td>— *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
-</tr>
-<tr>
-<td>(z.4) Wildrye, Altai</td>
-<td>— *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
-</tr>
-<tr>
-<td>(z.5) Wildrye, Dahurian</td>
-<td>— *Elymus dahuricus* Turcz ex Griseb.</td>
-</tr>
-<tr>
-<td>(z.6) Wildrye, Russian</td>
-<td>— *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
-</tr>
-</table>
+
+## Table XI
+
+Applicable to:
+
+**(a)** Bromegrass, meadow — *Bromus riparius* Rehmann
+
+
+
+**(b)** Bromegrass, smooth — *Bromus inermis* Leyss.
+
+
+
+**(c)** Bromegrass, sweet — *Bromus carinatus* Hook. & Arn.
+
+
+
+**(d)** Canarygrass, reed — *Phalaris arundinacea* L.
+
+
+
+**(e)** Fescue, Chewing’s — *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)
+
+
+
+**(f)** Fescue, fine-leaved — *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)
+
+
+
+**(g)** Fescue, hard — *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)
+
+
+
+**(h)** Fescue, meadow — *Festuca pratensis* Huds.
+
+
+
+**(i)** Fescue, red and creeping red — *Festuca rubra* L. subsp. *rubra*
+
+
+
+**(j)** Fescue, sheep — *Festuca ovina* L.
+
+
+
+**(k)** Fescue, tall — *Festuca arundinacea* Schreb.
+
+
+
+**(l)** Fescue, various-leaved — *Festuca heterophylla* Lam.
+
+
+
+**(m)** Foxtail, creeping — *Alopecurus arundinaceus* Poir.
+
+
+
+**(n)** Foxtail, meadow — *Alopecurus pratensis* L.
+
+
+
+**(o)** Oatgrass, tall — *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl
+
+
+
+**(p)** Orchardgrass — *Dactylis glomerata* L.
+
+
+
+**(q)** Ryegrass, annual — *Lolium multiflorum* Lam.
+
+
+
+**(r)** Ryegrass, intermediate — *Lolium*×*hybridum* Hausskn.
+
+
+
+**(s)** Ryegrass, perennial — *Lolium perenne* L.
+
+
+
+**(t)** Wheatgrass, beardless — *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)
+
+
+
+**(u)** Wheatgrass, crested — *Agropyron cristatum* (L.) Gaertn. or *A. desertorum* (Fisch. ex Link) Schult.
+
+
+
+**(v)** Wheatgrass, intermediate — *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)
+
+
+
+**(w)** Wheatgrass, northern — *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)
+
+
+
+**(x)** Wheatgrass, pubescent — *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)
+
+
+
+**(y)** Wheatgrass, Siberian — *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)
+
+
+
+**(z)** Wheatgrass, slender — *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)
+
+
+
+**(z.1)** Wheatgrass, streambank — *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)
+
+
+
+**(z.2)** Wheatgrass, tall — *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)
+
+
+
+**(z.3)** Wheatgrass, western — *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)
+
+
+
+**(z.4)** Wildrye, Altai — *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)
+
+
+
+**(z.5)** Wildrye, Dahurian — *Elymus dahuricus* Turcz ex Griseb.
+
+
+
+**(z.6)** Wildrye, Russian — *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)
+
+
+
 
 <table>
 <tr>
@@ -5201,65 +5181,63 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XII
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Alkaligrass, weeping</td>
-<td>— *Puccinellia distans* (L.) (Jacq.) Parl.</td>
-</tr>
-<tr>
-<td>(b) Bentgrass, colonial (browntop)</td>
-<td>— *Agrostis capillaris* L.</td>
-</tr>
-<tr>
-<td>(c) Bentgrass, creeping</td>
-<td>— *Agrostis stolonifera* L.</td>
-</tr>
-<tr>
-<td>(d) Bentgrass, velvet</td>
-<td>— *Agrostis canina* L.</td>
-</tr>
-<tr>
-<td>(e) Bluegrass, annual</td>
-<td>— *Poa annua* L.</td>
-</tr>
-<tr>
-<td>(f) Bluegrass, Canada</td>
-<td>— *Poa compressa* L.</td>
-</tr>
-<tr>
-<td>(g) Bluegrass, fowl</td>
-<td>— *Poa palustris* L.</td>
-</tr>
-<tr>
-<td>(h) Bluegrass, Kentucky</td>
-<td>— *Poa pratensis* L.</td>
-</tr>
-<tr>
-<td>(i) Bluegrass, rough</td>
-<td>— *Poa trivialis* L.</td>
-</tr>
-<tr>
-<td>(j) Bluegrass, supina</td>
-<td>— *Poa supina* Schrad.</td>
-</tr>
-<tr>
-<td>(k) Bluegrass, wood</td>
-<td>— *Poa nemoralis* L.</td>
-</tr>
-<tr>
-<td>(l) Crested dogtail</td>
-<td>— *Cynosurus cristatus* L.</td>
-</tr>
-<tr>
-<td>(m) Redtop</td>
-<td>— *Agrostis gigantea* Roth</td>
-</tr>
-</table>
+
+## Table XII
+
+Applicable to:
+
+**(a)** Alkaligrass, weeping — *Puccinellia distans* (L.) (Jacq.) Parl.
+
+
+
+**(b)** Bentgrass, colonial (browntop) — *Agrostis capillaris* L.
+
+
+
+**(c)** Bentgrass, creeping — *Agrostis stolonifera* L.
+
+
+
+**(d)** Bentgrass, velvet — *Agrostis canina* L.
+
+
+
+**(e)** Bluegrass, annual — *Poa annua* L.
+
+
+
+**(f)** Bluegrass, Canada — *Poa compressa* L.
+
+
+
+**(g)** Bluegrass, fowl — *Poa palustris* L.
+
+
+
+**(h)** Bluegrass, Kentucky — *Poa pratensis* L.
+
+
+
+**(i)** Bluegrass, rough — *Poa trivialis* L.
+
+
+
+**(j)** Bluegrass, supina — *Poa supina* Schrad.
+
+
+
+**(k)** Bluegrass, wood — *Poa nemoralis* L.
+
+
+
+**(l)** Crested dogtail — *Cynosurus cristatus* L.
+
+
+
+**(m)** Redtop — *Agrostis gigantea* Roth
+
+
+
 
 <table>
 <tr>
@@ -5404,15 +5382,15 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XIII
-<table>
-<tr>
-<td>Applicable to:</td>
-</tr>
-<tr>
-<td>Mixtures of forage seeds composed of seeds of two or more kinds listed in Tables VIII to XII, except mixtures of seeds designated by the seller as lawn or turf mixtures or ground cover mixtures.</td>
-</tr>
-</table>
+
+## Table XIII
+
+Applicable to:
+
+Mixtures of forage seeds composed of seeds of two or more kinds listed in Tables VIII to XII, except mixtures of seeds designated by the seller as lawn or turf mixtures or ground cover mixtures.
+
+
+
 
 <table>
 <tr>
@@ -5513,16 +5491,18 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XIV
-<table>
-<h4>Part I</h4>
-<tr>
-<td>Applicable to:</td>
-</tr>
-<tr>
-<td>Lawn or turf mixtures of two or more kinds of seeds listed in Part 2.</td>
-</tr>
-</table>
+
+## Table XIV
+
+
+### PART I
+
+Applicable to:
+
+Lawn or turf mixtures of two or more kinds of seeds listed in Part 2.
+
+
+
 
 <table>
 <tr>
@@ -5608,8 +5588,10 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
+
+### PART II
+
 <table>
-<h4>Part II</h4>
 <tr>
 <th>1</th>
 <th>2</th>
@@ -5628,15 +5610,15 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XV
-<table>
-<tr>
-<td>Applicable to:</td>
-</tr>
-<tr>
-<td>Ground cover mixtures composed of seed of two or more kinds, other than cereal mixtures, forage mixtures and lawn or turf mixtures.</td>
-</tr>
-</table>
+
+## Table XV
+
+Applicable to:
+
+Ground cover mixtures composed of seed of two or more kinds, other than cereal mixtures, forage mixtures and lawn or turf mixtures.
+
+
+
 
 <table>
 <tr>
@@ -5675,29 +5657,27 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XVI
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Beet</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>(b) Beet, sugar</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>(c) Mangel</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>(d) Swiss chard</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-</table>
+
+## Table XVI
+
+Applicable to:
+
+**(a)** Beet — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**(b)** Beet, sugar — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**(c)** Mangel — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**(d)** Swiss chard — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
 
 <table>
 <tr>
@@ -5806,37 +5786,35 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XVII
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Cantaloupe, melon</td>
-<td>— *Cucumis melo* L. subsp. *melo*</td>
-</tr>
-<tr>
-<td>(b) Citron</td>
-<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.</td>
-</tr>
-<tr>
-<td>(c) Cucumber</td>
-<td>— *Cucumis sativus* L.</td>
-</tr>
-<tr>
-<td>(d) Gherkin</td>
-<td>— *Cucumis anguria* L.</td>
-</tr>
-<tr>
-<td>(e) Pumpkin, squash (summer or winter)</td>
-<td>— *Cucurbita* spp.</td>
-</tr>
-<tr>
-<td>(f) Watermelon</td>
-<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
-</tr>
-</table>
+
+## Table XVII
+
+Applicable to:
+
+**(a)** Cantaloupe, melon — *Cucumis melo* L. subsp. *melo*
+
+
+
+**(b)** Citron — *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.
+
+
+
+**(c)** Cucumber — *Cucumis sativus* L.
+
+
+
+**(d)** Gherkin — *Cucumis anguria* L.
+
+
+
+**(e)** Pumpkin, squash (summer or winter) — *Cucurbita* spp.
+
+
+
+**(f)** Watermelon — *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*
+
+
+
 
 <table>
 <tr>
@@ -5935,52 +5913,51 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XVIII
-<table>
-<tr>
-<td>Applicable to seed of the following kinds when not intended for agricultural field crop production:</td>
-</tr>
-<tr>
-<td>(a) Bean, garden</td>
-<td>— *Phaseolus vulgaris* L.</td>
-</tr>
-<tr>
-<td>(b) Bean, broad</td>
-<td>— *Vicia faba* L.</td>
-</tr>
-<tr>
-<td>(c) Bean, lima</td>
-<td>— *Phaseolus lunatus* L.</td>
-</tr>
-<tr>
-<td>(d) Bean, runner</td>
-<td>— *Phaseolus coccineus* L.</td>
-</tr>
-<tr>
-<td>(e) Chickpea</td>
-<td>— *Cicer arietinum* L.</td>
-</tr>
-<tr>
-<td>(f) Corn, pop or sweet</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>(g) Pea, garden</td>
-<td>— *Pisum sativum* L.</td>
-</tr>
-<tr>
-<td>(h) Soybean</td>
-<td>— *Glycine max* (L.) Merr.</td>
-</tr>
-<tr>
-<td>(i) Sunflower</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-<tr>
-<td>(j) Safflower</td>
-<td>— *Carthamus tinctorius* L.</td>
-</tr>
-</table>
+
+## Table XVIII
+
+Applicable to seed of the following kinds when not intended for agricultural field crop production:
+
+**(a)** Bean, garden — *Phaseolus vulgaris* L.
+
+
+
+**(b)** Bean, broad — *Vicia faba* L.
+
+
+
+**(c)** Bean, lima — *Phaseolus lunatus* L.
+
+
+
+**(d)** Bean, runner — *Phaseolus coccineus* L.
+
+
+
+**(e)** Chickpea — *Cicer arietinum* L.
+
+
+
+**(f)** Corn, pop or sweet — *Zea mays* L. subsp. *mays*
+
+
+
+**(g)** Pea, garden — *Pisum sativum* L.
+
+
+
+**(h)** Soybean — *Glycine max* (L.) Merr.
+
+
+
+**(i)** Sunflower — *Helianthus annuus* L.
+
+
+
+**(j)** Safflower — *Carthamus tinctorius* L.
+
+
+
 
 <table>
 <tr>
@@ -6070,69 +6047,67 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XIX
-<table>
-<tr>
-<td>Applicable to:</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) Broccoli</td>
-<td>— *Brassica oleracea* L. var. *italica* Plenck</td>
-</tr>
-<tr>
-<td>(b) Brussels sprouts</td>
-<td>— *Brassica oleracea* L. var. *gemmifera* Zenker</td>
-</tr>
-<tr>
-<td>(c) Cabbage</td>
-<td>— *Brassica oleracea* L. var. *capitata* L.</td>
-</tr>
-<tr>
-<td>(d) Cabbage, Chinese</td>
-<td>— *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt or *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt</td>
-</tr>
-<tr>
-<td>(e) Cauliflower</td>
-<td>— *Brassica oleracea* L. var. *botrytis* L.</td>
-</tr>
-<tr>
-<td>(f) Collards</td>
-<td>— *Brassica oleracea* L. var. *viridis* L.</td>
-</tr>
-<tr>
-<td>(g) Kale</td>
-<td>— *Brassica oleracea* L. var. *sabellica* L. or *B. oleracea* L. var. *viridis*</td>
-</tr>
-<tr>
-<td>(h) Kohlrabi</td>
-<td>— *Brassica oleracea* L. var. *gongylodes* L.</td>
-</tr>
-<tr>
-<td>(i) Mustard greens</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>(j) Radish</td>
-<td>— *Raphanus sativus* L.</td>
-</tr>
-<tr>
-<td>(k) Rape, forage</td>
-<td>— *Brassica napus* L. var. *napus* or *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
-</tr>
-<tr>
-<td>(l) Rutabaga (swede)</td>
-<td>— *Brassica napus* L. var. *napobrassica* (L.) Reichb.</td>
-</tr>
-<tr>
-<td>(m) Spinach mustard</td>
-<td>— *Brassica rapa* L. var. *perviridis* L.H. Bailey</td>
-</tr>
-<tr>
-<td>(n) Turnip</td>
-<td>— *Brassica rapa* L. subsp. *rapa*</td>
-</tr>
-</table>
+
+## Table XIX
+
+Applicable to:
+
+**(a)** Broccoli — *Brassica oleracea* L. var. *italica* Plenck
+
+
+
+**(b)** Brussels sprouts — *Brassica oleracea* L. var. *gemmifera* Zenker
+
+
+
+**(c)** Cabbage — *Brassica oleracea* L. var. *capitata* L.
+
+
+
+**(d)** Cabbage, Chinese — *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt or *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt
+
+
+
+**(e)** Cauliflower — *Brassica oleracea* L. var. *botrytis* L.
+
+
+
+**(f)** Collards — *Brassica oleracea* L. var. *viridis* L.
+
+
+
+**(g)** Kale — *Brassica oleracea* L. var. *sabellica* L. or *B. oleracea* L. var. *viridis*
+
+
+
+**(h)** Kohlrabi — *Brassica oleracea* L. var. *gongylodes* L.
+
+
+
+**(i)** Mustard greens — *Brassica juncea* (L.) Czern.
+
+
+
+**(j)** Radish — *Raphanus sativus* L.
+
+
+
+**(k)** Rape, forage — *Brassica napus* L. var. *napus* or *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham
+
+
+
+**(l)** Rutabaga (swede) — *Brassica napus* L. var. *napobrassica* (L.) Reichb.
+
+
+
+**(m)** Spinach mustard — *Brassica rapa* L. var. *perviridis* L.H. Bailey
+
+
+
+**(n)** Turnip — *Brassica rapa* L. subsp. *rapa*
+
+
+
 
 <table>
 <tr>
@@ -6247,16 +6222,12 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XX
+
+## Table XX
+
 <table>
 <tr>
 <th>Applicable to:</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 <th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
@@ -6529,15 +6500,15 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-#### TABLE XXI
-<table>
-<tr>
-<td>Applicable to:</td>
-</tr>
-<tr>
-<td>Onion sets and multiplier onions.</td>
-</tr>
-</table>
+
+## Table XXI
+
+Applicable to:
+
+Onion sets and multiplier onions.
+
+
+
 
 <table>
 <tr>
@@ -6559,33 +6530,21 @@ Inspection for the purpose of certification was made either visually or through 
 <td>(1) Mature, well cured, sound and dry.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Practically free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Practically free from sprouted bulbs and from soft bulbs when graded.</td>
 </tr>
 <tr>
 <td>2. Canada No. 1 (Large)</td>
 <td>2.5 to 3.5</td>
-<td></td>
+<td>Not less than 98</td>
 <td>(1) Mature, well cured, sound and dry.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Practically free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Practically free from sprouted bulbs and from soft bulbs when graded.</td>
 </tr>
 <tr>
@@ -6595,85 +6554,71 @@ Inspection for the purpose of certification was made either visually or through 
 <td>(1) Mature, well cured, sound and reasonably dry.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Reasonably free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Reasonably free from soft bulbs and containing not more than 5% sprouts for yellow and 10% for white, red and globe.</td>
 </tr>
 <tr>
 <td>4. Canada No. 2 (Large)</td>
 <td>2.5 to 3.5</td>
-<td></td>
+<td>Not less than 90</td>
 <td>(1) Mature, well cured, sound and reasonably dry.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Reasonably free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Reasonably free from soft bulbs and containing not more than 5% sprouts for yellow and 10% for white, red and globe.</td>
 </tr>
 </table>
 
-#### Definition of Terms Used in Column 4
-<table>
-<tr>
-<td>“Mature, well cured” means that the sets have necks that are well dried out and have not more than 1% and 2% thick necks in Canada No. 1 and Canada No. 2 sets, respectively.</td>
-<td>“Practically free from soft bulbs” means that soft bulbs should not be in excess of 3%.</td>
-</tr>
-<tr>
-<td>“Sound” means that the set is firm and neat and will yield only slightly to moderate pressure.</td>
-<td>“Reasonably free from tops, dirt, leaves or other foreign matter” means that not more than 35% of the bulbs should have tops over 6.5 cm long and dirt, leaves or other foreign matter should not exceed 2% by weight.</td>
-</tr>
-<tr>
-<td>“Practically free from tops, dirt, leaves or other foreign matter” means free for all intents and purposes. Tops, dirt, leaves or other foreign matter should not exceed 1% by weight and not more that 25% of the sets should have tops 6.5 cm long or longer.</td>
-<td>“Reasonably free from disease, decay and moulds and from insect, mechanical, frost or other damage” means that not more than 4% combined of the bulbs should be so affected.</td>
-</tr>
-<tr>
-<td>“Practically free from disease, decay and moulds and from insect, mechanical, frost or other damage” means that not more than 3% combined of the bulbs should be so affected.</td>
-<td>“Reasonably free from soft bulbs” means that not more than 5% combined of the bulbs should be so affected.</td>
-</tr>
-<tr>
-<td>“Practically free from sprouted bulbs” means that, for yellow sets, not over 3% have visible sprouts and, for red, white and globe sets, that not over 6% have visible sprouts.</td>
-<td>“Sprouted bulbs” means those bulbs with sprouts exceeding 0.6 cm in length.</td>
-</tr>
-</table>
+Definition of Terms Used in Column 4
 
-#### TABLE XXII
-<table>
-<tr>
-<td>Applicable to all kinds of seeds referred to in Tables I to XX except those referred to in Tables III and XIII to XV:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Canada Foundation Substandard seed is seed of Foundation status that meets the standards for purity for Canada Foundation No. 2 grade seed.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Canada Registered Substandard seed is seed of Registered status that meets the standards for purity for Canada Registered No. 2 grade seed.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Canada Certified Substandard seed is seed of Certified status that meets the standards for purity for Canada Certified No. 2 grade seed.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Canada Foundation Substandard (Purity) seed is seed of Foundation status that meets the standards for purity for common grade seed.</td>
-</tr>
-</table>
+***Mature, well cured*** means that the sets have necks that are well dried out and have not more than 1% and 2% thick necks in Canada No. 1 and Canada No. 2 sets, respectively.
 
-> SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9; SOR/2007-223, s. 25, err., Vol. 143, No. 13.
+***Sound*** means that the set is firm and neat and will yield only slightly to moderate pressure.
+
+***Practically free from tops, dirt, leaves or other foreign matter*** means free for all intents and purposes. Tops, dirt, leaves or other foreign matter should not exceed 1% by weight and not more that 25% of the sets should have tops 6.5 cm long or longer.
+
+***Practically free from disease, decay and moulds and from insect, mechanical, frost or other damage*** means that not more than 3% combined of the bulbs should be so affected.
+
+***Practically free from sprouted bulbs*** means that, for yellow sets, not more than 3% have visible sprouts and that, for red, white and globe sets, not more than 6% have visible sprouts.
+
+***Practically free from soft bulbs*** means that soft bulbs should not be in excess of 3%.
+
+***Reasonably free from tops, dirt, leaves or other foreign matter*** means that not more than 35% of the bulbs should have tops over 6.5 cm long and dirt, leaves or other foreign matter should not exceed 2% by weight.
+
+***Reasonably free from disease, decay and moulds and from insect, mechanical, frost or other damage*** means that not more than 4% combined of the bulbs should be so affected.
+
+***Reasonably free from soft bulbs*** means that not more than 5% combined of the bulbs should be so affected.
+
+***Sprouted bulbs*** means those bulbs with sprouts exceeding 0.6 cm in length.
+
+
+
+## Table XXII
+
+Applicable to all kinds of seeds referred to in Tables I to XX except those referred to in Tables III and XIII to XV:
+
+**1. ** Canada Foundation Substandard seed is seed of Foundation status that meets the standards for purity for Canada Foundation No. 2 grade seed.
+
+
+
+**2. ** Canada Registered Substandard seed is seed of Registered status that meets the standards for purity for Canada Registered No. 2 grade seed.
+
+
+
+**3. ** Canada Certified Substandard seed is seed of Certified status that meets the standards for purity for Canada Certified No. 2 grade seed.
+
+
+
+**4**  Canada Foundation Substandard (Purity) seed is seed of Foundation status that meets the standards for purity for common grade seed.
+
+
+
+
+> SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9; SOR/2007-223, s. 25, err., Vol. 143, No. 13; SOR/2012-286, ss. 6(F), 7(E), 8 to 10(F), 11, 12, 13(F), 14.
 
 
 
