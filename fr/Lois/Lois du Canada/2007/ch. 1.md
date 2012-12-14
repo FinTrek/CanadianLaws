@@ -460,7 +460,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **29** 
 
-- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre, délivrer des lettres patentes — prenant effet à la date qui y est mentionnée — pour la constitution d’une personne morale avec ou sans capital-actions en vue de la construction ou de l’exploitation par celle-ci d’un pont ou tunnel international.
+- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre, délivrer des lettres patentes — prenant effet à la date qui y est mentionnée — pour la constitution d’une personne morale avec ou sans capital-actions à toute fin liée à la construction ou à l’exploitation d’un pont ou tunnel international.
 
 **Contenu des lettres patentes**
 
@@ -492,6 +492,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(5)** Les lettres patentes initiales ou supplémentaires et l’avis de révocation ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md); ils sont toutefois publiés dans la Gazette du Canada et sont opposables aux tiers à compter de leur date de publication.
+> 2007, ch. 1, art. 29; 2012, ch. 31, art. 180.
+
 
 
 
@@ -520,7 +522,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** La personne morale est constituée pour la construction ou l’exploitation du pont ou tunnel international visé par ses lettres patentes et a, à cette fin et pour l’application de la présente loi, la capacité, les droits et les pouvoirs d’une personne physique.
+- **(1)** La personne morale qui est constituée à toute fin liée à la construction ou à l’exploitation du pont ou tunnel international visé par ses lettres patentes a, à cette fin et pour l’application de la présente loi, la capacité, les droits et les pouvoirs d’une personne physique.
 
 **Réserves**
 
@@ -533,13 +535,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Capacité extraterritoriale**
 
 - **(4)** En outre, elle possède la capacité de conduire ses affaires internes et d’exercer ses activités et ses pouvoirs à l’étranger, dans les limites des règles de droit applicables en l’espèce.
+> 2007, ch. 1, art. 32; 2012, ch. 31, art. 181.
+
 
 
 
 
 **Droits**
 
-**33** La personne morale peut, sous réserve de la présente loi, des règlements pris sous son régime et de ses lettres patentes, exiger le paiement de droits pour l’usage d’un pont ou tunnel international.
+**33** 
+
+- **(1)** La personne morale peut, sous réserve de la présente loi et de ses lettres patentes, fixer des droits pour l’usage d’un pont ou tunnel international et en exiger le paiement.
+
+**Autorisation — droits**
+
+- **(2)** Elle peut autoriser toute autre personne à fixer des droits pour l’usage du pont ou tunnel international ou à en exiger le paiement.
+> 2007, ch. 1, art. 33; 2012, ch. 31, art. 182.
+
 
 
 
