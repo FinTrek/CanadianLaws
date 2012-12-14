@@ -175,7 +175,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Dispositions de coordination
 
 
-**174. à 176** [Modifications]
+**174** [Abrogé, 2012, ch. 31, art. 403]
+
+
+
+**175 et 176** [Modifications]
 
 
 
