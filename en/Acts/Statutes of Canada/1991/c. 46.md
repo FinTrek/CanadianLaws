@@ -3582,11 +3582,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
-- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of subsection 370(1);
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of subsection 370(1);
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2012, c. 19, s. 330.
+> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2012, c. 19, s. 330, c. 31, s. 109.
 
 
 
@@ -7829,10 +7829,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Exception for small holdings**
+**Exception — small holdings**
 
-**381** Despite section 379, if, as a result of a transfer or issue of shares of a class of shares of a bank to a person, the total number of shares of that class registered in the securities register of the bank in the name of that person would not exceed five thousand and would not exceed 0.1 per cent of the outstanding shares of that class, the bank is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the bank as a result of that issue or transfer of shares.
-> 1991, c. 46, s. 381; 2001, c. 9, s. 98.
+**381** Despite section 379, if, as a result of a transfer or issue of shares of a class of shares of a bank to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the bank in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the bank is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the bank as a result of that issue or transfer of shares.
+> 1991, c. 46, s. 381; 2001, c. 9, s. 98; 2012, c. 31, s. 110.
 
 
 
@@ -7854,6 +7854,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** 5 percentage points in excess of the significant interest of the person in that class of shares of the bank on the later of June 1, 1992 and the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the bank, or of control of an entity that held shares of that class of shares of the bank, for which approval was given by the Minister, and
 	- **(b)** 10 percentage points in excess of the lowest significant interest of the person in that class of shares of the bank at any time after the later of June 1, 1992 and the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the bank, or of control of an entity that held shares of that class of shares of the bank, for which approval was given by the Minister.
 
+**Exception — eligible agent**
+
+- **(3.1)** If the person referred to in subsection (1) is an eligible agent or an entity controlled by an eligible agent, then the Minister may reduce the percentage referred to in subsection (2) or (3).
+
 **Exception**
 
 - **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or the acquisition of control referred to in that subsection would
@@ -7867,7 +7871,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the bank by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the bank by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 23.
+> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 23, c. 31, s. 111.
 
 
 
@@ -7879,12 +7883,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(1)** Despite sections 373 and 379, the approval of the Minister is not required if
 	- **(a)** the Superintendent has, by order, directed the bank to increase its capital and shares of the bank are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
-	- **(b)** a person who controls, within the meaning of paragraph 3(1)(a), the bank acquires additional shares of the bank.
+	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the bank acquires additional shares of the bank.
 
 **Exception**
 
 - **(2)** Paragraph (1)(a) does not apply in respect of a bank with equity of twelve billion dollars or more.
-> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 24.
+> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 24, c. 31, s. 112.
 
 
 
@@ -8138,14 +8142,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exception**
 
-- **(2)** Subject to subsection 377(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
+- **(2)** Except for an application by an eligible agent for an approval under section 373, and subject to subsection 377(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
 	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank with equity of twelve billion dollars or more; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a bank.
 
 **Favourable treatment**
 
 - **(3)** The Minister shall not approve a transaction that would cause a bank to become a subsidiary of a foreign bank within the meaning of any of paragraphs (a) to (f) of the definition ***foreign bank*** in section 2 that is a non-WTO Member foreign bank unless the Minister is satisfied that treatment as favourable for banks to which this Act applies exists or will be provided in the jurisdiction in which the foreign bank principally carries on business, either directly or through a subsidiary.
-> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 31.
+> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 31, c. 31, s. 113.
 
 
 
@@ -8189,9 +8193,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Notice of decision**
 
-- **(2)** Subject to subsections (4) and 400(2), if an application involves the acquisition of control of a bank, the Minister shall, within a period of forty-five days after the certified date referred to in subsection 398(1), send to the applicant
-	- **(a)** a notice approving the transaction to which the application relates; or
-	- **(b)** if the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
+- **(2)** Subject to subsections (4) and 400(2), the notice referred to in paragraph (1)(a) or (b) shall be sent by the Minister within a period of 45 days after the certified date referred to in subsection 398(1) in the following cases:
+	- **(a)** the application involves the acquisition of control of a bank;
+	- **(b)** the application is made by an eligible agent or an entity controlled by an eligible agent; or
+	- **(c)** an application is made for the approval referred to in subsection 401.2(3).
 
 **Extension of period for notice**
 
@@ -8202,7 +8207,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Further extensions**
 
 - **(4)** If the Minister considers it appropriate to do so, the Minister may extend the period referred to in subsection (2) for one or more periods of forty-five days.
-> 1991, c. 46, s. 399; 1994, c. 47, s. 20; 2001, c. 9, s. 98.
+> 1991, c. 46, s. 399; 1994, c. 47, s. 20; 2001, c. 9, s. 98; 2012, c. 31, s. 114.
 
 
 
@@ -8216,8 +8221,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Reasonable opportunity to make representations**
 
-- **(2)** If, after receipt of the notice referred to in paragraph 399(2)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister must provide the applicant with a reasonable opportunity within a period of forty-five days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
-> 1991, c. 46, s. 400; 1994, c. 47, s. 21; 2001, c. 9, s. 98.
+- **(2)** If, after receipt of the notice sent in accordance with subsection 399(2) that the Minister is not satisfied that the transaction to which the application relates should be approved, the applicant advises the Minister that the applicant wishes to make representations, the Minister must provide the applicant with a reasonable opportunity within a period of 45 days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+> 1991, c. 46, s. 400; 1994, c. 47, s. 21; 2001, c. 9, s. 98; 2012, c. 31, s. 115(E).
 
 
 
@@ -8259,14 +8264,38 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(2)** Despite subsection (1), a bank may record in its securities register a transfer or issue of any share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
 
+**Certain foreign banks excluded**
+
+- **(2.1)** Subsection (2) does not permit a bank to record in its securities register a transfer or issue of any share of the bank to a foreign bank that is a foreign bank by reason only of paragraph (f) of the definition ***foreign bank*** in section 2.
+
 **Exception**
 
 - **(3)** Despite subsection (1), a bank may, with the Minister’s approval, record in its securities register the issue of any share of the bank to an eligible agent.
 
-**Ministerial approval**
+**Application made jointly**
 
-- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 396(1)(a) to (h).
-> 2001, c. 9, s. 98; 2012, c. 5, s. 32, c. 19, s. 333.
+- **(4)** The application for the approval referred to in subsection (3) must be made jointly by the bank and the eligible agent.
+
+**Matters for consideration**
+
+- **(5)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 396(1)(a) to (h).
+
+**Consequence of revocation of approval**
+
+- **(6)** If an approval referred to in subsection (3) is revoked, the bank shall delete any entry in its securities register in respect of the recording of the issuance of shares to the eligible agent.
+
+**Disposition of shareholdings**
+
+- **(7)** If a bank or an eligible agent fails to comply with any undertaking or term or condition in relation to an approval referred to in subsection (3), or if an eligible agent ceases to be an eligible agent, the Minister may, if the Minister considers it to be in the public interest to do so, by order, direct the eligible agent or former eligible agent and any person controlled by the eligible agent or former eligible agent to dispose of any number of shares of the bank beneficially owned by the eligible agent or former eligible agent or the persons controlled by the eligible agent or former eligible agent that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the eligible agent or former eligible agent and the persons controlled by the eligible agent or former eligible agent that is specified in the order.
+
+**Representations**
+
+- **(8)** No direction shall be made under subsection (7) unless the Minister has provided each person to whom the direction relates and the bank concerned with a reasonable opportunity to make representations in respect of the subject-matter of the direction.
+
+**Appeal**
+
+- **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 977.
+> 2001, c. 9, s. 98; 2012, c. 5, s. 32, c. 19, s. 333, c. 31, s. 116.
 
 
 
@@ -8287,7 +8316,11 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Exception — eligible agent**
 
 - **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 401.2(3).
-> 2001, c. 9, s. 98; 2012, c. 5, s. 33, c. 19, s. 334.
+
+**Consequence of suspension of approval**
+
+- **(4)** If an approval referred to in subsection 401.2(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the bank that is beneficially owned by the eligible agent.
+> 2001, c. 9, s. 98; 2012, c. 5, s. 33, c. 19, s. 334, c. 31, s. 117.
 
 
 
@@ -8332,7 +8365,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **403** 
 
-- **(1)** Where a person fails to comply with a direction made under subsection 402(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
+- **(1)** If a person fails to comply with a direction made under subsection 401.2(7) or 402(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
 
 **Court order**
 
@@ -8341,6 +8374,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
+> 1991, c. 46, s. 403; 2012, c. 31, s. 118.
+
 
 
 
@@ -17652,11 +17687,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
-- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of subsection 370(1);
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of subsection 370(1);
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 183; 2012, c. 19, s. 335.
+> 2001, c. 9, s. 183; 2012, c. 19, s. 335, c. 31, s. 119.
 
 
 
@@ -20316,10 +20351,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
-**Exception for small holdings**
+**Exception — small holdings**
 
-**889** Despite section 887, if, as a result of a transfer or issue of shares of a class of shares of a bank holding company to a person, the total number of shares of that class registered in the securities register of the bank holding company in the name of that person would not exceed five thousand and would not exceed 0.1 per cent of the outstanding shares of that class, the bank holding company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the bank holding company as a result of that issue or transfer of shares.
-> 2001, c. 9, s. 183.
+**889** Despite section 887, if, as a result of a transfer or issue of shares of a class of shares of a bank holding company to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the bank holding company in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the bank holding company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the bank holding company as a result of that issue or transfer of shares.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 120.
 
 
 
@@ -20341,6 +20376,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 	- **(a)** 5 percentage points in excess of the significant interest of the person in that class of shares of the bank holding company on the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the bank holding company, or of control of an entity that held shares of that class of shares of the bank holding company, for which approval was given by the Minister, and
 	- **(b)** 10 percentage points in excess of the lowest significant interest of the person in that class of shares of the bank holding company at any time after the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares of the bank holding company, or of control of an entity that held shares of that class of shares of the bank holding company, for which approval was given by the Minister.
 
+**Exception — eligible agent**
+
+- **(3.1)** If the person referred to in subsection (1) is an eligible agent or an entity controlled by an eligible agent, then the Minister may reduce the percentage referred to in subsection (2) or (3).
+
 **Exception**
 
 - **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or the acquisition of control referred to in that subsection would
@@ -20354,7 +20393,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the bank holding company by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the bank holding company by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 90.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 90, c. 31, s. 121.
 
 
 
@@ -20366,12 +20405,12 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 - **(1)** Despite sections 875 and 887, the approval of the Minister is not required if
 	- **(a)** the Superintendent has, by order, directed the bank holding company to increase its capital and shares of the bank holding company are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
-	- **(b)** a person who controls, within the meaning of paragraph 3(1)(a), the bank holding company acquires additional shares of the bank holding company.
+	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the bank holding company acquires additional shares of the bank holding company.
 
 **Exception**
 
 - **(2)** Paragraph (1)(a) does not apply in respect of a bank holding company with equity of twelve billion dollars or more.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 91.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 91, c. 31, s. 122.
 
 
 
@@ -20622,14 +20661,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exception**
 
-- **(2)** Subject to subsection 882(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
+- **(2)** Except for an application by an eligible agent for an approval under section 875, and subject to subsection 882(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
 	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank holding company with equity of twelve billion dollars or more; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a bank holding company.
 
 **Favourable treatment**
 
 - **(3)** The Minister shall not approve a transaction that would cause a bank holding company to become a subsidiary of a foreign bank within the meaning of any of paragraphs (a) to (f) of the definition ***foreign bank*** in section 2 that is a non-WTO Member foreign bank, unless the Minister is satisfied that treatment as favourable for bank holding companies to which this Act applies exists or will be provided in the jurisdiction in which the foreign bank principally carries on business, either directly or through a subsidiary.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 98.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 98, c. 31, s. 123.
 
 
 
@@ -20669,9 +20708,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Notice of decision**
 
-- **(2)** Subject to subsections (4) and 910(2), if an application involves the acquisition of control of a bank holding company, the Minister shall, within a period of forty-five days after the certified date referred to in subsection 908(1), send to the applicant
-	- **(a)** a notice approving the transaction to which the application relates; or
-	- **(b)** if the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
+- **(2)** Subject to subsections (4) and 910(2), the notice referred to in paragraph (1)(a) or (b) shall be sent by the Minister within a period of 45 days after the certified date referred to in subsection 908(1) in the following cases:
+	- **(a)** the application involves the acquisition of control of a bank holding company;
+	- **(b)** the application is made by an eligible agent or an entity controlled by an eligible agent; or
+	- **(c)** an application is made for the approval referred to in subsection 913(3).
 
 **Extension of period for notice**
 
@@ -20682,7 +20722,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Further extensions**
 
 - **(4)** If the Minister considers it appropriate to do so, the Minister may extend the period referred to in subsection (2) for one or more periods of forty-five days.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 124.
 
 
 
@@ -20696,8 +20736,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Reasonable opportunity to make representations**
 
-- **(2)** If, after receipt of the notice referred to in paragraph 909(2)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister must provide the applicant with a reasonable opportunity within a period of forty-five days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
-> 2001, c. 9, s. 183.
+- **(2)** If, after receipt of the notice sent in accordance with subsection 909(2) that the Minister is not satisfied that the transaction to which the application relates should be approved, the applicant advises the Minister that the applicant wishes to make representations, the Minister must provide the applicant with a reasonable opportunity within a period of 45 days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 125(E).
 
 
 
@@ -20739,14 +20779,38 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 - **(2)** Despite subsection (1), a bank holding company may record in its securities register a transfer or issue of any share of the bank holding company to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
 
+**Certain foreign banks excluded**
+
+- **(2.1)** Subsection (2) does not permit a bank holding company to record in its securities register a transfer or issue of any share of the bank holding company to a foreign bank that is a foreign bank by reason only of paragraph (f) of the definition ***foreign bank*** in section 2.
+
 **Exception**
 
 - **(3)** Despite subsection (1), a bank holding company may, with the Minister’s approval, record in its securities register the issue of any share of the bank holding company to an eligible agent.
 
-**Ministerial approval**
+**Application made jointly**
 
-- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 906(1)(a) to (g).
-> 2001, c. 9, s. 183; 2012, c. 5, s. 99, c. 19, s. 337.
+- **(4)** The application for the approval referred to in subsection (3) must be made jointly by the bank holding company and the eligible agent.
+
+**Matters for consideration**
+
+- **(5)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 906(1)(a) to (g).
+
+**Consequence of revocation of approval**
+
+- **(6)** If an approval referred to in subsection (3) is revoked, the bank holding company shall delete any entry in its securities register in respect of the recording of the issuance of shares to the eligible agent.
+
+**Disposition of shareholdings**
+
+- **(7)** If a bank holding company or an eligible agent fails to comply with any undertaking or term or condition in relation to an approval referred to in subsection (3), or if an eligible agent ceases to be an eligible agent, the Minister may, if the Minister considers it to be in the public interest to do so, by order, direct the eligible agent or former eligible agent and any person controlled by the eligible agent or former eligible agent to dispose of any number of shares of the bank holding company beneficially owned by the eligible agent or former eligible agent or the persons controlled by the eligible agent or former eligible agent that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the eligible agent or former eligible agent and the persons controlled by the eligible agent or former eligible agent that is specified in the order.
+
+**Representations**
+
+- **(8)** No direction shall be made under subsection (7) unless the Minister has provided each person to whom the direction relates and the bank holding company concerned with a reasonable opportunity to make representations in respect of the subject-matter of the direction.
+
+**Appeal**
+
+- **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 977.
+> 2001, c. 9, s. 183; 2012, c. 5, s. 99, c. 19, s. 337, c. 31, s. 126.
 
 
 
@@ -20767,7 +20831,11 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception — eligible agent**
 
 - **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 913(3).
-> 2001, c. 9, s. 183; 2012, c. 5, s. 100, c. 19, s. 338.
+
+**Consequence of suspension of approval**
+
+- **(4)** If an approval referred to in subsection 913(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the bank holding company that is beneficially owned by the eligible agent.
+> 2001, c. 9, s. 183; 2012, c. 5, s. 100, c. 19, s. 338, c. 31, s. 127.
 
 
 
@@ -20791,7 +20859,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Appeal**
 
 **916** Any person with respect to whom a direction has been made under subsection 915(1) may, within thirty days after the date of the direction, appeal the matter in accordance with section 977.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 128(F).
 
 
 
@@ -20801,7 +20869,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **917** 
 
-- **(1)** Where a person fails to comply with a direction made under subsection 915(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
+- **(1)** If a person fails to comply with a direction made under subsection 913(7) or 915(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
 
 **Court order**
 
@@ -20810,7 +20878,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 129.
 
 
 
@@ -22462,7 +22530,7 @@ together with such other information about the background, business record and e
 
 **977** 
 
-- **(1)** An appeal lies to the Federal Court from any direction of the Minister made under subsection 402(1) or 915(1).
+- **(1)** An appeal lies to the Federal Court from any direction of the Minister made under subsection 401.2(7), 402(1), 913(7) or 915(1).
 
 **Powers**
 
@@ -22474,7 +22542,7 @@ together with such other information about the background, business record and e
 **Certificate**
 
 - **(3)** For the purposes of an appeal under subsection (1), the Minister shall, at the request of the bank, bank holding company or person making the appeal, provide the bank, bank holding company or person with a certificate in writing setting out the direction or decision appealed from and the reasons why the direction or decision was made.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2012, c. 31, s. 130.
 
 
 
