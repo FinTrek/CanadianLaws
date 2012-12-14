@@ -89,7 +89,9 @@ where
 
 paid to an officer or employee or former officer or employee,
 - **(a.1)** in respect of an employee’s gratuities required under provincial legislation to be declared to the employee’s employer,
-- **(b)** a superannuation or pension benefit (including an annuity payment made pursuant to or under a superannuation or pension fund or plan),
+- **(b)** a superannuation or pension benefit (including an annuity payment made pursuant to or under a superannuation or pension fund or plan) other than a distribution
+	- **(i)** that is made from a pooled registered pension plan and is not required to be included in computing a taxpayer’s income under paragraph 56(1)(z.3) of the Act, or
+	- **(ii)** that subsection 147.5(14) of the Act deems to have been made,
 - **(b.1)** an amount of a distribution out of or under a retirement compensation arrangement,
 - **(c)** a retiring allowance,
 - **(d)** a death benefit,
@@ -121,7 +123,7 @@ paid to an officer or employee or former officer or employee,
 - **(2)** Where the amount of any credit referred to in paragraph (a) or (b) of the definition ***personal credits*** in subsection (1) is subject to an annual adjustment under section 117.1 of the Act, such amount shall, in a particular taxation year, be subject to that annual adjustment.
 
 - **(3)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee one or more amounts each of which is
-	- **(a)** a contribution to or under a registered pension plan, or
+	- **(a)** a contribution to or under a pooled registered pension plan, a registered pension plan or a specified pension plan, or
 	- **(b)** dues described in subparagraph 8(1)(i)(iv), (v) or (vi) of the Act paid on account of the employee,
 	- **(b.1)** a contribution by the employee under subparagraph 8(1)(m.2) of the Act,
 	- **(c)** a premium under a registered retirement savings plan, to the extent that the employer believes on reasonable grounds that the premium is deductible under paragraph 60(j.1) or subsection 146(5) or (5.1) of the Act in computing the employee’s income for the taxation year in which the payment of remuneration is made, or
@@ -139,7 +141,7 @@ the balance remaining after deducting or withholding this amount, as the case ma
 - **(5)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee an amount in respect of the acquisition by the employee of an approved share, as defined in subsection 127.4(1) of the Act, there shall be deducted from the amount determined under paragraph 102(1)(e) or (2)(e), as the case may be, in respect of that payment the lesser of
 	- **(a)** $750, and
 	- **(b)** 15% of the amount deducted or withheld in respect of the acquisition of an approved share.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1; 2012, c. 31, s. 58.
 
 
 
@@ -895,8 +897,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-**213** [Repealed, SOR/2010-93, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2010-93, s. 4.
+
+### Pooled Registered Pension Plans
+
+
+**213** An administrator of a PRPP must file with the Minister an information return for each calendar year in prescribed form in respect of the PRPP
+- **(a)** if an agreement concerning annual information returns has been entered into by the Minister and an authority responsible for the supervision of the PRPP under the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md) or a similar law of a province, on or before the day on which an information return required by that authority is to be filed for the calendar year; and
+- **(b)** in any other case, on or before May 1 of the following calendar year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2010-93, s. 4; 2012, c. 31, s. 59.
 
 
 
@@ -1576,7 +1584,7 @@ is of
 **304** 
 
 - **(1)** For the purposes of this Part and of subsections 12.2(1) and 20(20) and paragraph 148(2)(b) of the Act, ***prescribed annuity contract***, for a taxation year, means
-	- **(a)** an annuity contract that is, or is issued pursuant to, an arrangement described in any of paragraphs 148(1)(a) to (b.2) and (d) of the Act;
+	- **(a)** an annuity contract that is, or is issued pursuant to, an arrangement described in any of paragraphs 148(1)(a) to (b.3) and (d) of the Act;
 	- **(b)** an annuity contract described in paragraph 148(1)(c) or (e) of the Act; and
 	- **(c)** an annuity contract
 		- **(i)** under which annuity payments have commenced in the taxation year or a preceding taxation year,
@@ -1622,7 +1630,7 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8; 2012, c. 31, s. 60.
 
 
 
@@ -4546,7 +4554,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 
 
-- **(13)** The definitions in this subsection apply for the purposes of this subsection, subsections (14) to (16) and Classes 43.1 and 43.2 in Schedule II.
+- **(13)** The definitions in this subsection apply for the purposes of this subsection, subsections (14) to (17) and Classes 43.1 and 43.2 in Schedule II.
 
 ***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
 
@@ -4570,7 +4578,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***eligible sewage treatment facility*** means a sewage treatment facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de traitement des eaux usées*)
 
-***eligible waste fuel*** means biogas, bio-oil, digester gas, landfill gas, municipal waste, pulp and paper waste and wood waste. (*combustible résiduaire admissible*)
+***eligible waste fuel*** means biogas, bio-oil, digester gas, landfill gas, municipal waste, plant residue, pulp and paper waste and wood waste. (*combustible résiduaire admissible*)
 
 ***eligible waste management facility*** means a waste management facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de gestion des déchets*)
 
@@ -4589,7 +4597,9 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***municipal waste*** means the combustible portion of waste material (other than waste material that is considered to be toxic or hazardous waste pursuant to any law of Canada or of a province) that is generated in Canada and that is accepted at an eligible landfill site or an eligible waste management facility and that, when burned to generate energy, emits only those fluids or other emissions that are in compliance with the law of Canada or of a province. (*déchets municipaux*)
 
-***plant residue*** means the residue of plants that would, but for its use in a system that converts biomass into bio-oil or biogas, be waste material, but does not include wood waste or waste that no longer has the chemical properties of the plants of which it is a residue. (*résidus végétaux*)
+***plant residue*** means residue of plants (not including wood waste and waste that no longer has the chemical properties of the plants of which it is a residue) that would otherwise be waste material and that is used
+- **(a)** in a system that converts biomass into bio-oil or biogas; or
+- **(b)** as an eligible waste fuel. (*résidus végétaux*)
 
 ***pulp and paper waste*** means 
 - **(a)** tall oil soaps, crude tall oil and turpentine that are produced as by-products of the processing of wood into pulp or paper; and
@@ -4616,7 +4626,14 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F).
+
+- **(17)** A property that would otherwise be eligible for inclusion in Class 43.1 or Class 43.2 in Schedule II by a taxpayer is deemed not to be eligible for inclusion in either of those classes if
+	- **(a)** the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs (d)(viii), (ix), (xi) and (xiii) of Class 43.1 and paragraph (a) of Class 43.2; and
+	- **(b)** at the time the property becomes available for use by the taxpayer, the taxpayer has not satisfied the requirements of all environmental laws, by-laws and regulations
+		- **(i)** of Canada, a province or a municipality in Canada, or
+		- **(ii)** of a municipal or public body performing a function of government in Canada
+applicable in respect of the property.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61.
 
 
 
@@ -8577,7 +8594,7 @@ exceeds
 	- **(a)** the cost of the maintenance and upkeep of such premises, facilities or equipment; and
 	- **(b)** other expenditures, or those portions of other expenditures, that are directly related to that provision and that would not have been incurred if those premises or facilities or that equipment had not existed.
 
-- **(4)** For the purposes of the definition ***qualified expenditure*** in subsection 127(9) of the Act, the prescribed proxy amount of a taxpayer for a taxation year, in respect of a business, in respect of which the taxpayer elects under clause 37(8)(a)(ii)(B) of the Act is 65% of the total of all amounts each of which is that portion of the amount incurred in the year by the taxpayer in respect of salary or wages of an employee of the taxpayer who is directly engaged in scientific research and experimental development carried on in Canada that can reasonably be considered to relate to the scientific research and experimental development having regard to the time spent by the employee on the scientific research and experimental development.
+- **(4)** For the purposes of the definition ***qualified expenditure*** in subsection 127(9) of the Act, the prescribed proxy amount of a taxpayer for a taxation year, in respect of a business, in respect of which the taxpayer elects under clause 37(8)(a)(ii)(B) of the Act is 55% of the total of all amounts each of which is that portion of the amount incurred in the year by the taxpayer in respect of salary or wages of an employee of the taxpayer who is directly engaged in scientific research and experimental development carried on in Canada that can reasonably be considered to relate to the scientific research and experimental development having regard to the time spent by the employee on the scientific research and experimental development.
 
 - **(5)** Subject to subsections (6) to (8), where in subsection (4) the portion of an expenditure is all or substantially all of the expenditure, that portion shall be replaced by the amount of the expenditure.
 
@@ -8624,7 +8641,7 @@ shall be deemed to be a corporation associated with the particular corporation.
 	- **(d)** part of a property of the taxpayer if, at the time the part was acquired by the taxpayer, the taxpayer or a person related to the taxpayer intended that the part would be used in the prosecution of scientific research and experimental development during the assembly, construction or commissioning of a facility, plant or line for commercial manufacturing, commercial processing or other commercial purposes (other than scientific research and experimental development), and intended
 		- **(i)** that it would be used during its operating time in its expected useful life primarily for purposes other than scientific research and experimental development, or
 		- **(ii)** that its value would be consumed primarily in activities other than scientific research and experimental development.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-749, s. 1; SOR/86-1136, ss. 3, 4; SOR/94-686, s. 53(F); SOR/95-63, s. 1; SOR/2000-296, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-749, s. 1; SOR/86-1136, ss. 3, 4; SOR/94-686, s. 53(F); SOR/95-63, s. 1; SOR/2000-296, s. 1; 2012, c. 31, s. 62.
 
 
 
@@ -8668,24 +8685,19 @@ except any such expenditure incurred by a corporation that derives all or substa
 		- **(G)** a due or fee in respect of membership in a scientific or technical society or organization, and
 		- **(H)** a fine or penalty, or
 	- **(ii)** the maintenance and upkeep of premises, facilities or equipment to the extent that such expenditure is not attributable to the prosecution of scientific research;
-- **(b)** an expenditure of a capital nature incurred by a taxpayer in respect of
-	- **(i)** the acquisition of property, except any such expenditure that at the time it was incurred
-		- **(A)** was for first term shared-use-equipment or second term shared-use-equipment, or
-		- **(B)** was for the provision of premises, facilities or equipment if, at the time of the acquisition of the premises, facilities or equipment, it was intended
-			- **(I)** that the premises, facilities or equipment would be used during all or substantially all of the operating time of the premises, facilities or equipment in the expected useful life of the premises, facilities or equipment for the prosecution of scientific research and experimental development in Canada, or
-			- **(II)** that all or substantially all of the value of the premises, facilities or equipment would be consumed in the prosecution of scientific research and experimental development in Canada,
-	- **(ii)** the acquisition of property that is qualified property within the meaning assigned by subsection 127(9) of the Act, or
-	- **(iii)** the acquisition of property that has been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer;
+- **(b)** an expenditure incurred by a taxpayer in respect of
+	- **(i)** the acquisition of property that is qualified property or qualified resource property within the meaning assigned by subsection 127(9) of the Act, or
+	- **(ii)** the acquisition of property that has been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer;
 - **(c)** an expenditure made to acquire rights in, or arising out of, scientific research and experimental development;
 - **(d)** an expenditure on scientific research and experimental development in respect of which an amount is deductible under section 110.1 or section 118.1 of the Act; or
-- **(e)** an expenditure of a current or capital nature, to the extent that the taxpayer has received or is entitled to receive a reimbursement in respect thereof from
+- **(e)** an expenditure of a taxpayer, to the extent that the taxpayer has received or is entitled to receive a reimbursement in respect of it from
 	- **(i)** a person resident in Canada, other than
 		- **(A)** Her Majesty in right of Canada or a province,
 		- **(B)** an agent of Her Majesty in right of Canada or a province,
 		- **(C)** a corporation, commission or association that is controlled, directly or indirectly in any manner whatever, by Her Majesty in right of Canada or a province or by an agent of her Majesty in right of Canada or a province, or
 		- **(D)** a municipality in Canada or a municipal or public body performing a function of government in Canada, or
 	- **(ii)** a person not resident in Canada to the extent that the said reimbursement is deductible by the person in computing his taxable income earned in Canada for any taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-749, s. 3; SOR/86-488, s. 3; SOR/86-1136, ss. 3, 6; SOR/88-165, s. 15; SOR/94-140, s. 5; SOR/94-686, ss. 53(F), 63(F), 79(F); SOR/95-63, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-749, s. 3; SOR/86-488, s. 3; SOR/86-1136, ss. 3, 6; SOR/88-165, s. 15; SOR/94-140, s. 5; SOR/94-686, ss. 53(F), 63(F), 79(F); SOR/95-63, s. 2; 2012, c. 31, s. 63.
 
 
 
@@ -8694,12 +8706,8 @@ except any such expenditure incurred by a corporation that derives all or substa
 ### Special-Purpose Buildings
 
 
-**2903** For the purposes of this Part and paragraph 37(8)(d) of the Act, a special-purpose building is a building the working areas of which are designed and constructed to have a displacement in any direction of not more than .02 micrometre and to have, per .028 cubic metre of interior airspace,
-- **(a)** not more than 350 airborne particles of a size less than or equal to .1 micrometre in diameter and no airborne particles of a size greater than .1 micrometre in diameter,
-- **(b)** not more than 75 airborne particles of a size less than or equal to .2 micrometre in diameter and no airborne particles of a size greater than .2 micrometre in diameter,
-- **(c)** not more than 30 airborne particles of a size less than or equal to .3 micrometre in diameter and no airborne particles of a size greater than .3 micrometre in diameter, or
-- **(d)** not more than 10 airborne particles of a size less than or equal to .5 micrometre in diameter and no airborne particles of a size greater than .5 micrometre in diameter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-602, s. 1; SOR/95-63, s. 3.
+**2903** [Repealed, 2012, c. 31, s. 64]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-602, s. 1; SOR/95-63, s. 3; 2012, c. 31, s. 64.
 
 
 
@@ -9259,9 +9267,10 @@ where
 	- **(ii)** 4 per cent;
 - **(b)** every provision of the Act that requires interest at a prescribed rate to be paid or applied on an amount payable by the Minister to a taxpayer, the prescribed rate in effect during any particular quarter is the total of
 	- **(i)** the rate determined under subparagraph (a)(i) in respect of the particular quarter, and
-	- **(ii)** if the taxpayer is a corporation, zero per cent, and in any other case, 2 per cent; and
+	- **(ii)** if the taxpayer is a corporation, zero per cent, and in any other case, 2 per cent;
+- **(b.1)** subsection 17.1(1) of the Act, the prescribed rate in effect during any particular quarter is the rate that would be determined under paragraph (a) in respect of the particular quarter if the reference in subparagraph (a)(i) to “the next higher whole percentage where the mean is not a whole percentage” were read as “two decimal points”; and
 - **(c)** every other provision of the Act in which reference is made to a prescribed rate of interest or to interest at a prescribed rate, the prescribed rate in effect during any particular quarter is the rate determined under subparagraph (a)(i) in respect of the particular quarter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-372, s. 2; SOR/87-639, s. 1; SOR/89-462, s. 1; SOR/95-285, s. 1; SOR/97-557, s. 4; 2010, c. 12, s. 23.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-372, s. 2; SOR/87-639, s. 1; SOR/89-462, s. 1; SOR/95-285, s. 1; SOR/97-557, s. 4; 2010, c. 12, s. 23; 2012, c. 31, s. 65.
 
 
 
@@ -9320,11 +9329,11 @@ where
 
 **4600** 
 
-- **(1)** Property is a prescribed building for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer that is a building or grain elevator and it is erected on land owned or leased by the taxpayer,
+- **(1)** Property is a prescribed building for the purposes of the definitions ***qualified property*** and ***qualified resource property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer that is a building or grain elevator and it is erected on land owned or leased by the taxpayer,
 	- **(a)** that is included in Class 1, 3, 6, 20, 24 or 27 or paragraph (c), (d) or (e) of Class 8 in Schedule II; or
 	- **(b)** that is included or would, but for Classes 28, 41 or 41.1 in Schedule II, be included in paragraph (g) of Class 10 in Schedule II.
 
-- **(2)** Property is prescribed machinery and equipment for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
+- **(2)** Property is prescribed machinery and equipment for the purposes of the definitions ***qualified property*** and ***qualified resource property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
 	- **(a)** a property included in paragraph (k) of Class 1 or paragraph (a) of Class 2 in Schedule II;
 	- **(b)** an oil or water storage tank;
 	- **(c)** a property included in Class 8 in Schedule II (other than railway rolling stock);
@@ -9339,7 +9348,9 @@ where
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
 	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5.
+
+- **(3)** Property is prescribed energy generation and conservation property for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1) or (2)) that is a property included in any of subparagraph (a.1)(i) of Class 17 and Classes 43.1, 43.2 and 48 in Schedule II.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66.
 
 
 
@@ -9731,6 +9742,7 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(c)** a trust or corporation established by or arising by virtue of an act of a province the principal activities of which are to administer, manage or invest the monies of a pension fund or plan that is established pursuant to an act of the province or an order or regulation made thereunder;
 	- **(c.1)** the Canada Pension Plan Investment Board;
 	- **(c.2)** the Public Sector Pension Investment Board;
+	- **(c.3)** a pooled registered pension plan;
 	- **(d)** a trust or corporation established by or arising by virtue of an act of a province in connection with a scheme or program for the compensation of workers injured in an accident arising out of or in the course of their employment;
 	- **(e)** Her Majesty in right of a province;
 	- **(f)** a trust all of the beneficiaries of which are any combination of
@@ -9747,13 +9759,13 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(b)** its only undertaking was the investing of its funds;
 	- **(c)** it never borrowed money except where the borrowing was for a term not exceeding 90 days and it is established that the borrowing was not part of a series of loans or other transactions and repayments;
 	- **(d)** it never accepted deposits; and
-	- **(e)** each of the beneficiaries of the trust was a trust governed by a registered pension plan or a deferred profit sharing plan.
+	- **(e)** each of the beneficiaries of the trust was a trust governed by a deferred profit sharing plan, a pooled registered pension plan or a registered pension plan.
 
 - **(2)** For the purposes of paragraph 149(1)(t) of the Act, the following are prescribed insurers:
 	- **(a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **(b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.; and
 	- **(c)** Laurentian Farm Insurance Company Inc.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5; SOR/2011-188, s. 18.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5; SOR/2011-188, s. 18; 2012, c. 31, s. 67.
 
 
 
@@ -13678,14 +13690,14 @@ exceeds
 ### Permanent Establishments
 
 
-**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsection 34.2(6), the definition ***excluded income*** and ***excluded revenue*** in subsection 95(2.5), subsections 112(2), 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
+**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), the definition ***excluded income*** and ***excluded revenue*** in subsection 95(2.5), subsections 100(1.3), 112(2), 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, if the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
 - **(a)** where the person carries on business through an employee or agent, established in a particular place, who has general authority to contract for the person or who has a stock of merchandise owned by the person from which the employee or agent regularly fills orders, the person shall be deemed to have a permanent establishment at that place,
 - **(b)** where the person is an insurance corporation, the person is deemed to have a permanent establishment in each country in which the person is registered or licensed to do business,
 - **(c)** where the person uses substantial machinery or equipment at a particular place at any time in a taxation year, the person shall be deemed to have a permanent establishment at that place,
 - **(d)** the fact that the person has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the person has a permanent establishment, and
 - **(e)** where the person is a corporation, the fact that the person has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place shall not of itself be held to mean that the person is operating a permanent establishment at that place,
 except that, where the person is resident in a country with which the Government of Canada has concluded a tax treaty in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68.
 
 
 
@@ -15728,7 +15740,7 @@ for the purpose of determining whether the ancillary benefits are permissible un
 	- **(i)** is paid by a member of the plan in accordance with the plan as registered, where the amount is credited to the member’s account under a money purchase provision of the plan or is paid in respect of the member’s benefits under a defined benefit provision of the plan,
 	- **(ii)** is paid in accordance with a money purchase provision of the plan as registered, by an employer with respect to the employer’s employees or former employees,
 	- **(iii)** is an eligible contribution that is paid in respect of a defined benefit provision of the plan by an employer with respect to the employer’s employees or former employees,
-	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19) and 147.3(1) to (8) of the Act, or
+	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (8) and 147.5(21) of the Act, or
 	- **(v)** is acceptable to the Minister and that is transferred to the plan from a pension plan that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada,
 and, for the purposes of this paragraph,
 	- **(vi)** an eligible contribution is a contribution that is paid by an employer in respect of a defined benefit provision of a pension plan where it is an eligible contribution under subsection 147.2(2) of the Act or, in the case of a plan in which Her Majesty in right of Canada or a province is a participating employer, would be an eligible contribution under subsection 147.2(2) of the Act if all amounts held to the credit of the plan in the accounts of Canada or the province were excluded from the assets of the plan, and
@@ -15809,7 +15821,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; 2011, c. 24, s. 95; SOR/2011-188, s. 26.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; 2011, c. 24, s. 95; SOR/2011-188, s. 26; 2012, c. 31, s. 69.
 
 
 
@@ -21637,7 +21649,7 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F). .
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F)..
 
 
 
@@ -21932,7 +21944,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating heat energy from the consumption of eligible waste fuel, and not using any fuel other than eligible waste fuel or fossil fuel, if the heat energy is used directly in an industrial process, or in a greenhouse, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and electrical generating equipment, and property otherwise included in Class 10 or 17,
+**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, for the sole purpose of generating heat energy, primarily from the consumption of eligible waste fuel and not using any fuel other than eligible waste fuel or fossil fuel, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including equipment used for the purpose of producing heat energy to operate electrical generating equipment, buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and property otherwise included in Class 10 or 17,
 
 
 
@@ -21994,7 +22006,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(B)** is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraph (i) or (iv) or would be described in subparagraph (i) or (iv) if owned by the taxpayer, and
+**(B)** is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraphs (i), (iv) or (ix) or would be described in those subparagraphs if owned by the taxpayer, and
 
 
 
@@ -22045,7 +22057,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70..
 
 
 
