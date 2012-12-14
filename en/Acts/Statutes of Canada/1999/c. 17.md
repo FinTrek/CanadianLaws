@@ -737,17 +737,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** determine its requirements with respect to human resources and provide for the allocation and effective utilization of human resources;
 	- **(b)** determine requirements for the training and development of its personnel and fix the terms and conditions on which that training and development may be carried out;
 	- **(c)** provide for the classification of Agency positions and employees;
-	- **(d)** determine and regulate the pay to which persons employed by the Agency are entitled for services rendered, the hours of work and leave of those persons and any related matters;
+	- **(d)** after consulting with the President of the Treasury Board, determine and regulate the pay to which persons employed by the Agency are entitled for services rendered, the hours of work and leave of those persons and any related matters;
 	- **(e)** provide for the awards that may be made to persons employed by the Agency for outstanding performance of their duties, for other meritorious achievement in relation to those duties and for inventions or practical suggestions for improvements;
 	- **(f)** establish standards of discipline for its employees and prescribe the financial and other penalties, including termination of employment and suspension, that may be applied for breaches of discipline or misconduct and the circumstances and manner in which and the authority by which or by whom those penalties may be applied or may be varied or rescinded in whole or in part;
 	- **(g)** provide for the termination of employment or the demotion to a position at a lower maximum rate of pay, for reasons other than breaches of discipline or misconduct, of persons employed by the Agency and establish the circumstances and manner in which and the authority by which or by whom those measures may be taken or may be varied or rescinded in whole or in part;
-	- **(h)** determine and regulate the payments that may be made to Agency employees by way of reimbursement for travel or other expenses and by way of allowances in respect of expenses and conditions arising out of their employment; and
+	- **(h)** after consulting with the President of the Treasury Board, determine and regulate the payments that may be made to Agency employees by way of reimbursement for travel or other expenses and by way of allowances in respect of expenses and conditions arising out of their employment; and
 	- **(i)** provide for any other matters that the Agency considers necessary for effective personnel management, including terms and conditions of employment not otherwise specifically provided for in this subsection.
 
 **Commissioner’s responsibility**
 
 - **(2)** The Commissioner must apply the penalties, including termination of employment and suspension, under paragraph (1)(f) and provide for termination or demotion under paragraph (1)(g) on behalf of the Agency.
-> 1999, c. 17, s. 51; 2003, c. 22, s. 98.
+> 1999, c. 17, s. 51; 2003, c. 22, s. 98; 2012, c. 31, s. 515.
 
 
 
@@ -833,16 +833,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Authority to enter into collective agreements**
+**Negotiation of collective agreements**
 
-**58** 
-
-- **(1)** Notwithstanding section 112 of the Public Service Labour Relations Act, the Agency has sole authority to enter into a collective agreement with the bargaining agent for a bargaining unit composed of Agency employees, applicable to employees in that bargaining unit.
-
-**Consultation with Treasury Board**
-
-- **(2)** Before entering into collective bargaining, the Agency must consult with the Treasury Board on its human resource plan, including the total increases in employee salaries or benefits.
-> 1999, c. 17, s. 58; 2003, c. 22, s. 99.
+**58** Before entering into collective bargaining with the bargaining agent for a bargaining unit composed of Agency employees, the Agency must have its negotiating mandate approved by the President of the Treasury Board.
+> 1999, c. 17, s. 58; 2003, c. 22, s. 99; 2012, c. 31, s. 516.
 
 
 
