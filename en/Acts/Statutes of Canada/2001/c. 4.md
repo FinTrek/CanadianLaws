@@ -173,7 +173,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ## Coordinating Amendments
 
 
-**174. to 176** [Amendments]
+**174** [Repealed, 2012, c. 31, s. 403]
+
+
+
+**175 and 176** [Amendments]
 
 
 
