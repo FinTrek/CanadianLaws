@@ -1037,13 +1037,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Despite subsection (1), in the case of an application relating to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the Tribunal may only decide questions of law or fact as to
 	- **(a)** whether any benefit is payable to a person or its amount;
-	- **(b)** whether any person is eligible for a division of unadjusted pensionable earnings or its amount; and
-	- **(c)** whether any person is eligible for an assignment of a contributor’s retirement pension or its amount.
+	- **(b)** whether any person is eligible for a division of unadjusted pensionable earnings or its amount;
+	- **(c)** whether any person is eligible for an assignment of a contributor’s retirement pension or its amount; and
+	- **(d)** whether a penalty should be imposed under Part II of that Act or its amount.
 
 **[Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
 
 - **(3)** If a question specified in section 90 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) arises in the consideration of an application, it must be determined by an authorized officer of the Canada Revenue Agency, as provided by that section.
-> 2005, c. 34, s. 64; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 64; 2012, c. 19, s. 224, c. 31, s. 204.
 
 
 
