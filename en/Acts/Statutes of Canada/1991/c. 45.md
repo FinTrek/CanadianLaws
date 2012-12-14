@@ -3433,11 +3433,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
-- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 374.1;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 374.1;
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350; 2012, c. 19, s. 326.
+> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350; 2012, c. 19, s. 326, c. 31, s. 99.
 
 
 
@@ -7376,13 +7376,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Exception for small holdings**
+**Exception — small holdings**
 
-**376.1** Notwithstanding section 376, where, as a result of a transfer or issue of shares of a class of shares of a company to a person, the total number of shares of that class registered in the securities register of the company in the name of that person
-- **(a)** would not exceed five thousand, and
-- **(b)** would not exceed 0.1 per cent of the outstanding shares of that class,
-the company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the company as a result of that issue or transfer of shares.
-> 1994, c. 47, s. 206.
+**376.1** Despite section 376, if, as a result of a transfer or issue of shares of a class of shares of a company to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the company in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the company is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the company as a result of that issue or transfer of shares.
+> 1994, c. 47, s. 206; 2012, c. 31, s. 100.
 
 
 
@@ -7419,6 +7416,10 @@ of shares of that class of shares of the company, or of control of an entity tha
 		- **(ii)** any entity controlled by the person, other than the entity referred to in paragraph (1)(b),
 of shares of that class of shares of the company, or of control of an entity that held shares of that class of shares of the company, for which approval was given by the Minister.
 
+**Exception — eligible agent**
+
+- **(3.1)** If the person referred to in subsection (1) is an eligible agent or an entity controlled by an eligible agent, then the Minister may reduce the percentage referred to in subsection (2) or (3).
+
 **Exception**
 
 - **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or the acquisition of control referred to in that subsection would
@@ -7432,7 +7433,7 @@ of shares of that class of shares of the company, or of control of an entity tha
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the company by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the company by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 1991, c. 45, s. 377; 1997, c. 15, s. 373.
+> 1991, c. 45, s. 377; 1997, c. 15, s. 373; 2012, c. 31, s. 101.
 
 
 
@@ -7444,14 +7445,14 @@ of shares of that class of shares of the company, or of control of an entity tha
 
 - **(1)** Despite sections 375 and 376, the approval of the Minister is not required if
 	- **(a)** the Superintendent has, by order, directed the company to increase its capital and shares of the company are issued and acquired in accordance with such terms and conditions as may be specified in the order; or
-	- **(b)** a person who controls, within the meaning of paragraph 3(1)(a), the company acquires additional shares of the company.
+	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the company acquires additional shares of the company.
 
 **Pre-approval**
 
 - **(2)** For the purposes of subsections 375(1) and (2) and section 376, the Minister may approve
 	- **(a)** the purchase or other acquisition of such number or percentage of shares of a company as may be required in a particular transaction or series of transactions; or
 	- **(b)** the purchase or other acquisition of up to a specified number or percentage of shares of a company within a specified period.
-> 1991, c. 45, s. 378; 2001, c. 9, s. 520.
+> 1991, c. 45, s. 378; 2001, c. 9, s. 520; 2012, c. 31, s. 102.
 
 
 
@@ -7692,11 +7693,12 @@ section 380 shall not apply in respect of that company until the expiration of s
 	- **(a)** a notice approving the transaction to which the application relates; or
 	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
 
-**Idem**
+**Notice of decision**
 
-- **(2)** Subject to subsections (4) and 392(2), where an application filed under subsection 387(1) involves the acquisition of control of a company, the Minister shall, within a period of forty-five days after the certified date referred to in subsection 390(1), send to the applicant
-	- **(a)** a notice approving the transaction to which the application relates; or
-	- **(b)** where the Minister is not satisfied that the transaction to which the application relates should be approved, a notice to that effect, advising the applicant of the right to make representations to the Minister in respect of the matter.
+- **(2)** Subject to subsections (4) and 392(2), the notice referred to in paragraph (1)(a) or (b) shall be sent by the Minister within a period of 45 days after the certified date referred to in subsection 390(1) in the following cases:
+	- **(a)** the application involves the acquisition of control of a company;
+	- **(b)** the application is made by an eligible agent or an entity controlled by an eligible agent; or
+	- **(c)** an application is made for the approval referred to in subsection 396(3).
 
 **Extension of period for notice**
 
@@ -7707,6 +7709,8 @@ section 380 shall not apply in respect of that company until the expiration of s
 **Idem**
 
 - **(4)** Where the Minister considers it appropriate to do so, the Minister may extend the period referred to in subsection (2) for one or more periods of forty-five days.
+> 1991, c. 45, s. 391; 2012, c. 31, s. 103.
+
 
 
 
@@ -7717,9 +7721,11 @@ section 380 shall not apply in respect of that company until the expiration of s
 
 - **(1)** Where, after receipt of the notice referred to in paragraph 391(1)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of thirty days after the date of the notice, or within such further period as may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
 
-**Idem**
+**Reasonable opportunity to make representations**
 
-- **(2)** Where, after receipt of the notice referred to in paragraph 391(2)(b), the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of forty-five days after the date of the notice, or within such further period as may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+- **(2)** If, after receipt of the notice sent in accordance with subsection 391(2) that the Minister is not satisfied that the transaction to which the application relates should be approved, the applicant advises the Minister that the applicant wishes to make representations, the Minister shall provide the applicant with a reasonable opportunity within a period of 45 days after the date of the notice, or within any further period that may be agreed on by the applicant and the Minister, to make representations in respect of the matter.
+> 1991, c. 45, s. 392; 2012, c. 31, s. 104(E).
+
 
 
 
@@ -7764,10 +7770,30 @@ section 380 shall not apply in respect of that company until the expiration of s
 
 - **(3)** Despite subsection (1), a company may, with the Minister’s approval, record in its securities register the issue of any share of the company to an eligible agent.
 
-**Ministerial approval**
+**Application made jointly**
 
-- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 388(1)(a) to (g).
-> 1991, c. 45, s. 396; 2012, c. 5, s. 165, c. 19, s. 328.
+- **(4)** The application for the approval referred to in subsection (3) must be made jointly by the company and the eligible agent.
+
+**Matters for consideration**
+
+- **(5)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 388(1)(a) to (g).
+
+**Consequence of revocation of approval**
+
+- **(6)** If an approval referred to in subsection (3) is revoked, the company shall delete any entry in its securities register in respect of the recording of the issuance of shares to the eligible agent.
+
+**Disposition of shareholdings**
+
+- **(7)** If a company or an eligible agent fails to comply with any undertaking or term or condition in relation to an approval referred to in subsection (3), or if an eligible agent ceases to be an eligible agent, the Minister may, if the Minister considers it to be in the public interest to do so, by order, direct the eligible agent or former eligible agent and any person controlled by the eligible agent or former eligible agent to dispose of any number of shares of the company beneficially owned by the eligible agent or former eligible agent or the persons controlled by the eligible agent or former eligible agent that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the eligible agent or former eligible agent and the persons controlled by the eligible agent or former eligible agent that is specified in the order.
+
+**Representations**
+
+- **(8)** No direction shall be made under subsection (7) unless the Minister has provided each person to whom the direction relates and the company concerned with a reasonable opportunity to make representations in respect of the subject-matter of the direction.
+
+**Appeal**
+
+- **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 530.
+> 1991, c. 45, s. 396; 2012, c. 5, s. 165, c. 19, s. 328, c. 31, s. 105.
 
 
 
@@ -7802,7 +7828,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception — eligible agent**
 
 - **(5)** Subsection (2) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 396(3).
-> 1991, c. 45, s. 399; 1994, c. 47, s. 209; 2012, c. 5, s. 166, c. 19, s. 329.
+
+**Consequence of suspension of approval**
+
+- **(6)** If an approval referred to in subsection 396(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the company that is beneficially owned by the eligible agent.
+> 1991, c. 45, s. 399; 1994, c. 47, s. 209; 2012, c. 5, s. 166, c. 19, s. 329, c. 31, s. 106.
 
 
 
@@ -7842,7 +7872,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **402** 
 
-- **(1)** Where a person fails to comply with a direction made under subsection 401(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
+- **(1)** If a person fails to comply with a direction made under subsection 396(7) or 401(1), an application on behalf of the Minister may be made to a court for an order to enforce the direction.
 
 **Court order**
 
@@ -7851,6 +7881,8 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
+> 1991, c. 45, s. 402; 2012, c. 31, s. 107.
+
 
 
 
@@ -11424,7 +11456,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **530** 
 
-- **(1)** An appeal lies to the Federal Court from any direction of the Minister made pursuant to subsection 401(1).
+- **(1)** An appeal lies to the Federal Court from any direction of the Minister made under subsection 396(7) or 401(1).
 
 **Powers**
 
@@ -11436,7 +11468,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Certificate**
 
 - **(3)** For the purposes of an appeal under subsection (1), the Minister shall, at the request of the company or person making the appeal, provide the company or person with a certificate in writing setting out the direction or decision appealed from and the reasons why the direction or decision was made.
-> 1991, c. 45, ss. 530, 540; 1996, c. 6, s. 132.
+> 1991, c. 45, ss. 530, 540; 1996, c. 6, s. 132; 2012, c. 31, s. 108.
 
 
 
