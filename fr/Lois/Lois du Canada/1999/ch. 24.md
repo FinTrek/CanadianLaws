@@ -1052,8 +1052,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 <tr>
 <td>1</td>
-<td>Westbank</td>
-<td></td>
+<td>[Abrogé, DORS/2012-291, art. 1]</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1437,6 +1436,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291.
 
 
