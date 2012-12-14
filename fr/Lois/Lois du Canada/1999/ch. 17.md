@@ -734,31 +734,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **51** 
 
 - **(1)** L’Agence peut, dans l’exercice de ses attributions en matière de gestion des ressources humaines :
-	- **a)
-** déterminer les effectifs qui lui sont nécessaires et assurer leur répartition et leur bonne utilisation;
-	- **b)
-** déterminer les besoins en matière de formation et perfectionnement de son personnel et en fixer les conditions de mise en oeuvre;
-	- **c)
-** assurer la classification des postes et des employés;
-	- **d)
-** déterminer et réglementer les traitements auxquels ont droit ses employés, leurs horaires et leurs congés, ainsi que les questions connexes;
-	- **e)
-** prévoir les primes susceptibles d’être accordées aux employés pour résultats exceptionnels ou réalisations méritoires dans l’exercice de leurs fonctions, ainsi que pour des inventions ou des idées pratiques d’amélioration;
-	- **f)
-** établir des normes de discipline et fixer les sanctions pécuniaires et autres, y compris le licenciement et la suspension, susceptibles d’être infligées pour manquement à la discipline ou inconduite et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces sanctions peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
-	- **g)
-** prévoir, pour des motifs autres qu’un manquement à la discipline ou une inconduite, le licenciement ou la rétrogradation à un poste situé dans une échelle de traitement comportant un plafond inférieur et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces mesures peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
-	- **h)
-** déterminer et réglementer les indemnités à verser aux employés soit pour des frais de déplacement ou autres, soit pour des dépenses ou en raison de circonstances liées à leur emploi;
-	- **i)
-** prendre les autres mesures qu’elle juge nécessaires à la bonne gestion de son personnel, notamment en ce qui touche les conditions de travail non prévues de façon expresse par le présent paragraphe.
+	- **a)** déterminer les effectifs qui lui sont nécessaires et assurer leur répartition et leur bonne utilisation;
+	- **b)** déterminer les besoins en matière de formation et perfectionnement de son personnel et en fixer les conditions de mise en oeuvre;
+	- **c)** assurer la classification des postes et des employés;
+	- **d)** après consultation du président du Conseil du Trésor, déterminer et réglementer les traitements auxquels ont droit ses employés, leurs horaires et leurs congés, ainsi que les questions connexes;
+	- **e)** prévoir les primes susceptibles d’être accordées aux employés pour résultats exceptionnels ou réalisations méritoires dans l’exercice de leurs fonctions, ainsi que pour des inventions ou des idées pratiques d’amélioration;
+	- **f)** établir des normes de discipline et fixer les sanctions pécuniaires et autres, y compris le licenciement et la suspension, susceptibles d’être infligées pour manquement à la discipline ou inconduite et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces sanctions peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
+	- **g)** prévoir, pour des motifs autres qu’un manquement à la discipline ou une inconduite, le licenciement ou la rétrogradation à un poste situé dans une échelle de traitement comportant un plafond inférieur et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces mesures peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
+	- **h)** après consultation du président du Conseil du Trésor, déterminer et réglementer les indemnités à verser aux employés soit pour des frais de déplacement ou autres, soit pour des dépenses ou en raison de circonstances liées à leur emploi;
+	- **i)** prendre les autres mesures qu’elle juge nécessaires à la bonne gestion de son personnel, notamment en ce qui touche les conditions de travail non prévues de façon expresse par le présent paragraphe.
 
 **Licenciement, suspension, etc., par le commissaire**
 
-- **(2)** Le commissaire, pour le compte de l’Agence, inflige les sanctions, y compris le licenciement et la suspension, visées à l’alinéa (1)
-f) et procède au licenciement ou à la rétrogradation visés à l’alinéa (1)
-g).
-> 1999, ch. 17, art. 51; 2003, ch. 22, art. 98.
+- **(2)** Le commissaire, pour le compte de l’Agence, inflige les sanctions, y compris le licenciement et la suspension, visées à l’alinéa (1)f) et procède au licenciement ou à la rétrogradation visés à l’alinéa (1)g).
+> 1999, ch. 17, art. 51; 2003, ch. 22, art. 98; 2012, ch. 31, art. 515.
 
 
 
@@ -844,17 +833,10 @@ g).
 
 
 
-**Pouvoir de conclure des conventions collectives**
+**Négociation des conventions collectives**
 
-**58** 
-
-- **(1)** Par dérogation à l’article 112 de la 
-[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), l’Agence est la seule autorité habilitée à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable aux employés de cette unité.
-
-**Consultation avec le Conseil du Trésor**
-
-- **(2)** L’Agence doit préalablement consulter le Conseil du Trésor relativement à son plan de ressources humaines, notamment en ce qui a trait au total des augmentations des salaires et des avantages des employés.
-> 1999, ch. 17, art. 58; 2003, ch. 22, art. 99.
+**58** L’Agence doit faire approuver son mandat de négociation par le président du Conseil du Trésor avant d’entamer des négociations collectives avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence.
+> 1999, ch. 17, art. 58; 2003, ch. 22, art. 99; 2012, ch. 31, art. 516.
 
 
 
