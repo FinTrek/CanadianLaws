@@ -200,7 +200,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 ***unwholesome***, with respect to fish, means fish that has in or upon it bacteria of public health significance or substances toxic or aesthetically offensive to man; (*malsain*)
 
 ***whitefish*** means fish of the species *Coregonus clupeaformis, Coregonus nasus or Prosopium cylindraceum*. (*poisson blanc*) 
-> SOR/80-360, s. 1; SOR/82-829, s. 1; SOR/82-845, s. 1; SOR/86-213, s. 1; SOR/92-75, s. 1; SOR/96-364, s. 1; SOR/98-2, s. 1; SOR/99-169, s. 1; SOR/2000-184, ss. 58, 59; SOR/2000-317, s. 16(F); SOR/2002-124, s. 1; SOR/2002-354, s. 18; SOR/2009-314, s. 1.
+> SOR/80-360, s. 1; SOR/82-829, s. 1; SOR/82-845, s. 1; SOR/86-213, s. 1; SOR/92-75, s. 1; SOR/96-364, s. 1; SOR/98-2, s. 1; SOR/99-169, s. 1; SOR/2000-184, ss. 58, 59; SOR/2000-317, s. 16(F); SOR/2002-124, s. 1; SOR/2002-354, s. 18; SOR/2009-314, s. 1; SOR/2012-286, s. 3(F).
 
 
 
