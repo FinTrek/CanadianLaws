@@ -446,7 +446,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 		- **(i)** qu’il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et que des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md),
 		- **(ii)** qu’il ne faut pas l’utiliser sur un pâturage ou autre espace vert utilisé par les ruminants,
 		- **(iii)** qu’il ne faut pas en ingérer,
-		- **(iv)** qu’il faut se laver les mains après l’avoir utilisé;
+		- **(iv)** qu’il faudrait se laver les mains après l’avoir utilisé;
 	- **k)** le numéro de lot de l’engrais sauf dans le cas d’un engrais préparé d’après la formule du client.
 
 - **(2)** Lorsqu’un engrais est vendu en vrac, les renseignements exigés en vertu du présent article doivent être indiqués sur le connaissement ou sur une déclaration accompagnant l’expédition.
@@ -474,7 +474,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **d)** le poids du lot ou de l’expédition.
 
 - **(6)** Lorsqu’un engrais mélangé est vendu dans un emballage qui ne porte aucune étiquette mentionnant le nom et la catégorie des composés ou constituants de l’engrais, le vendeur doit, à la demande de l’acheteur, lui fournir ces renseignements par écrit au moment de la vente.
-> DORS/79-365, art. 13; DORS/85-558, art. 8; DORS/91-441, art. 3; DORS/92-585, art. 2; DORS/2000-184, art. 57; DORS/2004-80, art. 13; DORS/2006-147, art. 9.
+> DORS/79-365, art. 13; DORS/85-558, art. 8; DORS/91-441, art. 3; DORS/92-585, art. 2; DORS/2000-184, art. 57; DORS/2004-80, art. 13; DORS/2006-147, art. 9; DORS/2012-286, art. 1(F).
 
 
 
@@ -497,7 +497,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 		- **(i)** qu’il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et que des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md),
 		- **(ii)** qu’il ne faut pas l’utiliser sur un pâturage ou autre espace vert utilisé par les ruminants,
 		- **(iii)** qu’il ne faut pas en ingérer,
-		- **(iv)** qu’il faut se laver les mains après l’avoir utilisé;
+		- **(iv)** qu’il faudrait se laver les mains après l’avoir utilisé;
 	- **h)** le numéro d’enregistrement du supplément, si l’enregistrement est exigé.
 
 - **(2)** Les alinéas (1)d) et f) ne s’appliquent à un emballage de semence contenant une semence préinoculée ou préinoculée par enrobage et chaque emballage de cette semence porte une étiquette sur laquelle il est mentionné :
@@ -515,7 +515,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **b)** le nom et le volume du supplément.
 
 - **(4)** Nonobstant les paragraphes (1) à (3), dans le cas d’un supplément vendu en vrac, les renseignements exigés sur l’étiquette en vertu de ces paragraphes doivent figurer sur le connaissement ou dans une déclaration accompagnant l’envoi.
-> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4; DORS/2006-147, art. 10.
+> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4; DORS/2006-147, art. 10; DORS/2012-286, art. 2(F).
 
 
 
