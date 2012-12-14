@@ -277,6 +277,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement. L’agent peut les délivrer sur preuve, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi.
 
+**Autorisation de voyage électronique**
+
+- **(1.01)** Malgré le paragraphe (1), l’étranger doit, préalablement à son entrée au Canada, demander une autorisation de voyage électronique requise par règlement au moyen d’un système électronique, sauf si les règlements prévoient que la demande peut être faite par tout autre moyen. S’il détermine, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi, le système ou l’agent peut délivrer l’autorisation.
+
 **Réserve**
 
 - **(1.1)** L’étranger désigné ne peut présenter une demande de résidence permanente au titre du paragraphe (1) que si cinq années se sont écoulées depuis l’un ou l’autre des jours suivants :
@@ -300,7 +304,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas de la demande parrainée**
 
 - **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
-> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5.
+> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5, ch. 31, art. 308.
 
 
 
@@ -373,6 +377,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** les garanties à remettre au ministre pour le respect des obligations découlant de la présente loi;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
 
+**Autorisation de voyage électronique**
+
+- **(3)** Pour l’application du paragraphe 11(1.01), les règlements peuvent prévoir notamment les cas où la demande peut être faite par tout autre moyen qui y est prévu.
+> 2001, ch. 27, art. 14; 2012, ch. 31, art. 309.
+
+
 
 
 
@@ -444,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** L’agent peut procéder à un contrôle dans le cadre de toute demande qui lui est faite au titre de la présente loi.
+- **(1)** L’agent peut procéder à un contrôle dans le cadre de toute demande qui lui est faite au titre de la présente loi ou qui est faite au titre du paragraphe 11(1.01).
 
 **Critères provinciaux**
 
@@ -457,6 +467,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Instructions**
 
 - **(4)** L’agent est tenu de se conformer aux instructions du ministre sur l’exécution du contrôle.
+> 2001, ch. 27, art. 15; 2012, ch. 31, art. 310.
+
 
 
 
@@ -2048,7 +2060,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **87.3** 
 
-- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées au paragraphe 11(1) — sauf à celle faite par la personne visée au paragraphe 99(2) —, aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada, aux demandes de permis de travail ou d’études ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
+- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées aux paragraphes 11(1) et (1.01) — sauf à celle faite par la personne visée au paragraphe 99(2) —, aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada, aux demandes de permis de travail ou d’études ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
 
 **Atteinte des objectifs d’immigration**
 
@@ -2086,7 +2098,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(7)** Le présent article n’a pas pour effet de porter atteinte au pouvoir du ministre de déterminer de toute autre façon la manière la plus efficace d’assurer l’application de la loi.
-> 2008, ch. 28, art. 118; 2012, ch. 19, art. 706.
+> 2008, ch. 28, art. 118; 2012, ch. 19, art. 706, ch. 31, art. 311.
 
 
 
@@ -2146,7 +2158,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlement**
 
-**89** Les règlements peuvent prévoir les frais pour les services offerts dans la mise en oeuvre de la présente loi, ainsi que les cas de dispense, individuellement ou par catégorie, de paiement de ces frais.
+**89** 
+
+- **(1)** Les règlements peuvent prévoir les frais pour les services offerts dans la mise en oeuvre de la présente loi, ainsi que les cas de dispense, individuellement ou par catégorie, de paiement de ces frais.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande visée au paragraphe 11(1.01).
+> 2001, ch. 27, art. 89; 2012, ch. 31, art. 312.
+
 
 
 
