@@ -342,10 +342,10 @@ the inspector may order the person who owns or has possession, care or control o
 - **(1)** Every person who slaughters, cuts up or debones cattle for human consumption as food shall ensure that, immediately after removal of the specified risk material, the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
 
 - **(2)** Subsection (1) does not apply in respect of
-	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle is not removed from the farm or ranch except for submission to a level 2 containment laboratory;
-	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if no parts of the carcass of any animal are removed from the premises of the abattoir, other than those parts that are for human consumption as food or samples that are submitted to a level 2 containment laboratory; or
+	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle remains on the farm or ranch or is submitted to a level 2 containment laboratory;
+	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if all parts of the carcass of any animal remain on the premises of the abattoir other than those parts that are for human consumption as food or samples that are submitted to a level 2 containment laboratory; or
 	- **(c)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12; SOR/2009-220, s. 3.
+> SOR/2006-147, s. 12; SOR/2009-220, s. 3; SOR/2012-286, s. 47.
 
 
 
@@ -354,12 +354,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** Every person who removes the specified risk material from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food shall ensure that the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
 
-- **(2)** If the specified risk material has not been removed from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food, the person who has the possession, care or control of the carcasses or any parts of them shall ensure that either the carcasses or the parts of them containing the specified risk material are stained with a dye that is conspicuous, indelible and safe for consumption by animals.
+- **(2)** If the specified risk material has not been removed from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food, the person who has the possession, care or control of the carcasses and any parts of them shall ensure that either the carcasses or the parts of them containing the specified risk material are stained with a dye that is conspicuous, indelible and safe for consumption by animals.
 
 - **(3)** Subsections (1) and (2) do not apply in respect of
-	- **(a)** the carcasses of cattle if the specified risk material from each of the carcasses and each of the carcasses that contains specified risk material are not removed from the premises on which the cattle were determined to be dead except for their submission to a level 2 containment laboratory; or
+	- **(a)** the carcasses of cattle if the specified risk material from each of the carcasses and each of the carcasses that contains specified risk material remain on the premises on which the cattle were determined to be dead or are submitted to a level 2 containment laboratory; or
 	- **(b)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12.
+> SOR/2006-147, s. 12; SOR/2012-286, s. 48.
 
 
 
@@ -379,11 +379,11 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(e)** if the person treated, confined or destroyed the specified risk material or the carcasses, the date on which and the manner in which the specified risk material or the carcasses were treated, confined or destroyed; and
 	- **(f)** if the person did not confine or destroy the specified risk material or the carcasses,
 		- **(i)** the name and address of the person, if any, who received the specified risk material or carcasses from him or her,
-		- **(ii)** the name and address of the person, if any, who transferred the specified risk material or the carcasses to another location and the manner in which the specified risk material or the carcasses were transferred, and
+		- **(ii)** the name and address of the person, if any, who transported the specified risk material or the carcasses to another location and the manner in which the specified risk material or the carcasses were transported, and
 		- **(iii)** the name and address, if known to the person, of the person, if any, who confined or destroyed the specified risk material or the carcasses.
 
 - **(3)** This section does not apply in respect of samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12.
+> SOR/2006-147, s. 12; SOR/2012-286, s. 49.
 
 
 
@@ -396,20 +396,20 @@ the inspector may order the person who owns or has possession, care or control o
 
 **6.4** 
 
-- **(1)** Except in accordance with a permit issued by the Minister under section 160, no person shall receive, remove from any premises, use, convey (other than from one area to another on the same premises), treat, store, export, sell, distribute, confine or destroy specified risk material in any form, whether or not incorporated into another thing, if the specified risk material was removed from cattle slaughtered in Canada or was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food.
+- **(1)** Except in accordance with a permit or a licence issued by the Minister under section 160, no person shall receive, remove from any premises, use, transport out of any premises, treat, store, export, sell, distribute, confine or destroy specified risk material in any form, whether or not incorporated into another thing, if the specified risk material was removed from cattle slaughtered in Canada or was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food.
 
 - **(2)** Subsection (1) does not apply to require a permit for staining under section 6.21 or 6.22.
 
-- **(3)** Subsection (1) does not apply in respect of specified risk material that was removed from cattle slaughtered for human consumption as food or that was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the specified risk material is not removed from the premises on which the cattle were slaughtered or were determined to be dead.
+- **(3)** Subsection (1) does not apply in respect of specified risk material that was removed from cattle slaughtered for human consumption as food or that was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the specified risk material remains on the premises on which the cattle were slaughtered or were determined to be dead.
 
-- **(4)** Subsection (1) does not apply in respect of the use, as a fertilizer or as a fertilizer supplement, of material that is derived from specified risk material in any form that was removed from cattle slaughtered for human consumption as food or from cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the fertilizer or fertilizer supplement is not removed from the premises on which the cattle were slaughtered, died or were condemned.
+- **(4)** Subsection (1) does not apply in respect of the use, as a fertilizer or as a fertilizer supplement, of material that is derived from specified risk material in any form that was removed from cattle slaughtered for human consumption as food or from cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the fertilizer or fertilizer supplement remains on the premises on which the cattle were slaughtered, died or were condemned.
 
 - **(5)** Subsection (1) does not apply in respect of the submission, to a level 2 containment laboratory, of samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed or in respect of activities related to the use of specified risk material in a level 2 containment laboratory.
 
-- **(6)** The Minister shall not issue a permit for the purpose of subsection (1) if the specified risk material is to be received, removed from any premises, used, conveyed, treated, stored, exported, sold or distributed in any form, whether or not incorporated into another thing, for human consumption as food.
+- **(6)** The Minister shall not issue a permit for the purpose of subsection (1) if the specified risk material is to be received, removed from any premises, used, transported, treated, stored, exported, sold or distributed in any form, whether or not incorporated into another thing, for human consumption as food.
 
 - **(7)** The Minister shall not issue a permit for the destruction of specified risk material unless the destruction is to be by incineration, or another method, that will ensure that the specified risk material and anything in which it is incorporated will not be used as food for humans and will not, or will not be likely to, result in the spread within Canada of Bovine Spongiform Encephalopathy.
-> SOR/2006-147, s. 13.
+> SOR/2006-147, s. 13; SOR/2012-286, s. 50.
 
 
 
@@ -802,11 +802,11 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** In this section,
 
-***aircraft garbage*** means garbage that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board an aircraft and was served or intended to be served for consumption on the aircraft by the passengers or crew of the aircraft en route to Canada; (*déchets d’aéronef*)
+***aircraft garbage*** means garbage that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board an aircraft and was served or intended to be served for consumption on the aircraft by the passengers or crew of the aircraft en route to Canada; (*déchets d’aéronef*)
 
-***animal manure*** means manure that is produced by animals on board a ship or aircraft while *en route* to or after arrival in Canada; (*fumier animal*)
+***animal manure*** means manure that is produced by animals on board a ship or aircraft while *en route* to or after arrival in Canada; (*fumier animal*)
 
-***ship’s refuse*** means refuse that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board a vessel and was served or intended to be served for consumption on the vessel by the passengers or crew of the vessel en route to Canada; (*rebuts de navire*)
+***ship’s refuse*** means refuse that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board a vessel and was served or intended to be served for consumption on the vessel by the passengers or crew of the vessel en route to Canada; (*rebuts de navire*)
 
 - **(2)** Subject to subsections (6) and (7), no person shall discharge in Canada ship’s refuse or animal manure from a country other than the United States unless the ship’s refuse or animal manure is discharged in a closed leakproof container at the first port of entry or, where necessary, at another place approved by the Minister, under the supervision of or to the satisfaction of an inspector in such a manner that the discharge would only pose a negligible risk of the introduction into Canada, or spread within Canada, of a vector, disease or toxic substance and is without delay
 	- **(a)** incinerated;
@@ -824,7 +824,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(5)** Subject to subsections (6) and (7), no person shall discharge ship’s refuse or animal manure referred to in subsection (2), ship’s refuse referred to in subsection (3) or aircraft garbage or ship’s refuse referred to in subsection (4), from an aircraft or vessel, as the case may be, at a place where it cannot be treated and disposed of in accordance with this section.
 
 - **(6)** Aircraft garbage, ship’s refuse and animal manure may be discharged at a place where that garbage, refuse or manure cannot be treated and disposed of in accordance with this section if it is
-	- **(a)** forthwith transported to, and treated and disposed of in accordance with this section at, another place approved by the Minister; and
+	- **(a)** without delay transported to, and treated and disposed of in accordance with this section at, another place approved by the Minister; and
 	- **(b)** handled, transported and kept under the supervision of or to the satisfaction of an inspector in such a manner that the handling, transportation or keeping would only pose a negligible risk of the introduction into Canada, or spread within Canada, of a vector, disease or toxic substance.
 
 - **(7)** The Minister may permit aircraft garbage, ship’s refuse and animal manure to be discharged by a person at a place where it is temporarily impossible to treat and dispose of that garbage, refuse or manure in accordance with this section, if
@@ -836,7 +836,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(9)** [Repealed, SOR/97-85, s. 37]
 
 - **(10)** The owner or person in charge of a vessel or aircraft referred to in this section shall ensure that the requirements of this section are complied with.
-> SOR/90-349, s. 1; SOR/92-708, s. 3; SOR/97-85, s. 37; SOR/97-151, s. 28; SOR/2000-184, s. 66; SOR/2009-18, ss. 12, 19(F).
+> SOR/90-349, s. 1; SOR/92-708, s. 3; SOR/97-85, s. 37; SOR/97-151, s. 28; SOR/2000-184, s. 66; SOR/2009-18, ss. 12, 19(F); SOR/2012-286, s. 51(E).
 
 
 
@@ -859,10 +859,10 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** No person shall import the carcass of a game animal unless
 	- **(a)** the Canada Border Services Agency has determined under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that the carcass originated in the United States; and
-	- **(b)** the person importing the carcass holds a permit for that game animal issued pursuant to the applicable legislation of the United States or a state thereof.
+	- **(b)** the person importing the carcass holds a hunting permit for that game animal issued under the applicable legislation of the United States or a state of the United States.
 
 - **(2)** The number of carcasses that a person may import into Canada shall be the number established by the applicable legislation referred to in paragraph (1)(b).
-> SOR/78-69, s. 28(F); SOR/97-85, s. 38; SOR/2009-18, s. 13.
+> SOR/78-69, s. 28(F); SOR/97-85, s. 38; SOR/2009-18, s. 13; SOR/2012-286, s. 52(E).
 
 
 
@@ -912,7 +912,7 @@ the inspector may order the person who owns or has possession, care or control o
 		- **(ii)** shows the details of how the blood or serum was collected, treated, prepared, processed, stored and handled.
 
 - **(2)** No person shall in any manner expose to or use in a live animal, animal blood or animal serum imported in accordance with subsection (1).
-> SOR/97-85, s. 41; SOR/97-478, s. 12; SOR/2009-18, s. 15.
+> SOR/97-85, s. 41; SOR/97-478, s. 12; SOR/2009-18, s. 15; SOR/2012-286, s. 53(F).
 
 
 
@@ -975,12 +975,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** No person shall import into Canada hay, straw or grasses in which merchandise, goods or articles are packed unless
 	- **(a)** the shipment is accompanied by a certificate of an official veterinarian of the exporting country showing that the hay, straw or grasses were disinfected in a manner approved by the Minister; or
-	- **(b)** where no such certificate accompanies the shipment, the hay, straw or grasses are forthwith
+	- **(b)** where no such certificate accompanies the shipment, the hay, straw or grasses are without delay
 		- **(i)** disinfected under the supervision of an inspector at a fumigation station approved by the Minister, or
 		- **(ii)** incinerated.
 
 - **(2)** Notwithstanding subsection (1), hay, straw or grasses in which merchandise, goods or articles are packed may be imported into Canada from a country of origin or part of such a country designated by the Minister as free of foot-and-mouth disease pursuant to section 7.
-> SOR/97-85, s. 44.
+> SOR/97-85, s. 44; SOR/2012-286, s. 54(E).
 
 
 
@@ -1262,8 +1262,8 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-**78.27** Where, in the opinion of the Minister, an animal is moved into an area or region in violation of this Part, the Minister may order that the animal be forthwith taken back to the area or region from which it was moved or to an area or region of equal or lesser health status.
-> SOR/78-205, s. 4.
+**78.27** Where, in the opinion of the Minister, an animal is moved into an area or region in violation of this Part, the Minister may order that the animal be taken back without delay to the area or region from which it was moved or to an area or region of equal or lesser health status.
+> SOR/78-205, s. 4; SOR/2012-286, s. 55.
 
 
 
@@ -1553,10 +1553,10 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 **91.3** Every person required to keep a record under these Regulations shall, unless it is otherwise stated,
-- **(a)** keep the record for a period of two years from the date the requirement arose;
-- **(b)** on request by an inspector, during the period for which the record is to be retained under these Regulations, provide the inspector with the record for the purpose of examining it, taking extracts from it or making copies of it; and
+- **(a)** keep the record for a period of two years from the date the requirement arose; and
+- **(b)** [Repealed, SOR/2012-286, s. 56]
 - **(c)** on receipt of a written request by an inspector, provide the inspector, in a form approved by the Minister, with the information contained in the record.
-> SOR/82-590, s. 4; SOR/2006-147, s. 18.
+> SOR/82-590, s. 4; SOR/2006-147, s. 18; SOR/2012-286, s. 56.
 
 
 
@@ -1567,7 +1567,7 @@ the inspector may order the person who owns or has possession, care or control o
 
 **91.4** 
 
-- **(1)** Where an inspector orders a quarantine of a disease agent, animal or thing, the notice of quarantine shall be communicated by personal delivery to the person who owns or has possession, care or control of the disease agent, animal or thing and the notice may specify the manner, condition, place or places and time of quarantine, necessary to prevent the spread of the communicable disease.
+- **(1)** If an inspector orders a quarantine of a disease agent, animal or thing, a notice of quarantine shall be communicated by personal delivery to the person who owns or has possession, care or control of the disease agent, animal or thing and the notice may specify the manner, condition, place or places and period of quarantine necessary to prevent the spread of the communicable disease.
 
 - **(2)** In respect of a disease agent, animal or thing quarantined pursuant to these Regulations, no person shall do or permit to be done any of the following actions, without the authorization of an inspector:
 	- **(a)** remove the disease agent, animal or thing from the place of quarantine;
@@ -1575,7 +1575,7 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(c)** destroy the disease agent, animal or thing; or
 	- **(d)** treat or test the disease agent, animal or thing for a communicable disease.
 
-- **(3)** Every person who owns or has the possession, care or control of an animal quarantined pursuant to these Regulations shall immediately notify a veterinary inspector of any quarantined animal that appears sick.
+- **(3)** Every person who owns or has the possession, care or control of an animal quarantined under these Regulations shall without delay notify a veterinary inspector of any quarantined animal that appears sick.
 
 - **(4)** In respect of a disease agent or thing quarantined pursuant to these Regulations, no person shall do or permit to be done any of the following actions, without the authorization of an inspector:
 	- **(a)** move the disease agent or thing;
@@ -1589,7 +1589,7 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(c)** the disease agent, animal or thing is transported directly to the location stated in the licence.
 
 - **(6)** Every person who receives a notice referred to in subsection (1) shall comply with the notice.
-> SOR/97-85, s. 62.
+> SOR/97-85, s. 62; SOR/2012-286, s. 57(E).
 
 
 
@@ -2053,7 +2053,7 @@ has been imported into Canada from any country other than the United States, it 
 		- **(ii)** where a permit for the release has already been issued, cancel the permit and require the applicant to stop the release and to take any appropriate action necessary to eliminate or minimize the risk.
 
 - **(3)** In re-evaluating the risk of harm to the environment and to human and animal health on the basis of new information for the purposes of subsection (2), the Minister shall consider the matters referred to in paragraph 120.5(2)(a) and make the assessment referred to in paragraph 120.5(2)(b).
-> SOR/97-8, s. 2; SOR/2002-438, s. 18(F).
+> SOR/97-8, s. 2; SOR/2002-438, s. 18(F); SOR/2012-286, s. 58(F).
 
 
 
@@ -2158,7 +2158,7 @@ and that person is exempt from any of the requirements of subsection (1) as the 
 		- **(ii)** *post mortem*; and
 	- **(m)** every person employed therein is qualified to perform the task assigned to him.
 
-- **(2)** Every holder of a licence issued under these Regulations shall forthwith inform the Minister of any change or addition to the material or information furnished to the Minister for the purpose of obtaining the licence.
+- **(2)** Every holder of a licence issued under these Regulations shall without delay inform the Minister of any change or addition to the material or information furnished to the Minister for the purpose of obtaining the licence.
 
 - **(3)** Every person employed in a licensed establishment shall
 	- **(a)** [Repealed, SOR/97-85, s. 73]
@@ -2174,7 +2174,7 @@ and that person is exempt from any of the requirements of subsection (1) as the 
 shall be conducted in a licensed establishment except in a room or area separate from and not leading into any room or area used for preparing, manufacturing, preserving, storing or testing a veterinary biologic.
 
 - **(6)** Unless otherwise permitted by a veterinary inspector, no research or experimentation shall be conducted in a licensed establishment except in a room or area separate from and not leading into any room or area used for preparing, manufacturing, preserving, storing or testing a veterinary biologic.
-> SOR/97-85, s. 73; SOR/2002-438, ss. 13(F), 18(F).
+> SOR/97-85, s. 73; SOR/2002-438, ss. 13(F), 18(F); SOR/2012-286, s. 59.
 
 
 
@@ -2713,7 +2713,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(1)** Any application for a permit or licence required under these Regulations shall be in a form approved by the Minister.
 
-- **(1.1)** The Minister may, subject to paragraph 37(1)(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), issue a permit or licence required under these Regulations if the Minister is satisfied that, to the best of the Minister’s knowledge and belief, the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
+- **(1.1)** Subject to paragraph 37(1)(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), the Minister shall issue a permit or licence required under these Regulations if the Minister is satisfied that, to the best of the Minister’s knowledge and belief, the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
 
 - **(2)** Any permit or licence required under these Regulations shall
 	- **(a)** be in a form approved by the Minister; and
@@ -2723,7 +2723,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(a)** any condition under which the permit or licence was issued or any condition contained in the permit or licence has not been complied with;
 	- **(b)** any provision of the Act or these Regulations has not been complied with; or
 	- **(c)** failure to do so could result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
-> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19.
+> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19; SOR/2012-286, s. 60.
 
 
 
@@ -2862,7 +2862,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 - **(1)** Every person who operates a rendering plant shall establish and maintain written procedures to facilitate an effective recall of the products of the plant.
 
 - **(2)** Every person who imports any product of a rendering plant shall establish and maintain written procedures to facilitate an effective recall of the product.
-> SOR/2006-147, s. 24.
+> SOR/2006-147, s. 24; SOR/2012-286, s. 61(F).
 
 
 
@@ -2905,13 +2905,13 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 **170.1** Every person who imports, manufactures, packages, labels, stores, distributes, sells or advertises for sale any animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall establish and maintain written procedures to facilitate an effective recall of the animal food.
-> SOR/2006-147, s. 26.
+> SOR/2006-147, s. 26; SOR/2012-286, s. 62(F).
 
 
 
 
-**170.2** Every person who manufactures, imports, sells or distributes a fertilizer or fertilizer supplement containing prohibited material, other than a rendered fat, shall establish and maintain written procedures to facilitate an effective recall of the fertilizer of fertilizer supplement.
-> SOR/2006-147, s. 26.
+**170.2** Every person who manufactures, imports, sells or distributes a fertilizer or fertilizer supplement containing prohibited material, other than a rendered fat, shall establish and maintain written procedures to facilitate an effective recall of the fertilizer or fertilizer supplement.
+> SOR/2006-147, s. 26; SOR/2012-286, s. 62.
 
 
 
@@ -2958,7 +2958,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(f)** the name and address of any person to whom any of the fertilizer or fertilizer supplement is sold or distributed and a description of the fertilizer or fertilizer supplement, including the name and quantity.
 
 - **(3)** In this section, ***specified risk material*** has the same meaning as in section 6.1.
-> SOR/2006-147, s. 28; SOR/2009-18, s. 18.
+> SOR/2006-147, s. 28; SOR/2009-18, s. 18; SOR/2012-286, s. 63(F).
 
 
 
@@ -3213,7 +3213,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(c)** in the case of a bison or a bovine, the person who operates the abattoir reports to the administrator, within 30 days after the animal is slaughtered, the information that the person is required by paragraph (b) to record in respect of the animal.
 
 - **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (3)(b), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11; SOR/2010-137, s. 3.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11; SOR/2010-137, s. 3; SOR/2012-286, s. 64(F).
 
 
 
