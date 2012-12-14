@@ -2206,7 +2206,7 @@ plus de 13 %
 
 - **(1)** Au plus tard le 31 juillet de chaque année, le ministre communique à l’Office les renseignements suivants :
 	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
-	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d) et f) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
+	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), f) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
 	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre;
 	- **d)** les renseignements réglementaires.
 
@@ -2215,7 +2215,7 @@ plus de 13 %
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
 	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
-> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610.
+> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436.
 
 
 
@@ -3094,6 +3094,24 @@ où :
 
 - **(8.9)** Le remboursement prévu au paragraphe (8.7) ne peut excéder 1 000 $.
 
+**Mesure temporaire : remboursement aux petites entreprises de la cotisation patronale pour 2012**
+
+- **(8.91)** Lorsqu’une cotisation patronale pour 2011 est de 10 000 $ ou moins, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 2012, calculée selon la formule ci-après, qui excède 2 $ :
+```
+C2 – C1
+```
+où :
+- **C1** représente le montant de la cotisation patronale pour 2011,
+- **C2** le montant de la cotisation patronale pour 2012.
+
+**Cas d’absence de cotisation patronale pour 2011**
+
+- **(8.92)** Pour l’application du paragraphe (8.91), C1 est égal à zéro dans les cas où une personne n’était pas tenue de payer une cotisation patronale pour 2011.
+
+**Remboursement maximal**
+
+- **(8.93)** Le remboursement prévu au paragraphe (8.91) ne peut excéder 1 000 $.
+
 **Employeurs associés**
 
 - **(9)** Les employeurs qui sont, à un moment quelconque de l’année pour laquelle un remboursement est demandé, des employeurs associés au sens prévu par règlement sont réputés être un seul employeur pour l’application des paragraphes (6) à (8.4). Le remboursement est réparti entre eux conformément aux règlements.
@@ -3116,8 +3134,8 @@ où :
 
 **Aucun intérêt**
 
-- **(13.1)** Par dérogation au paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu du paragraphe (8.7).
-> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615.
+- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7) ou (8.91).
+> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307.
 
 
 
