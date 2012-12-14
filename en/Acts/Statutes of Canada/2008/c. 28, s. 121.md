@@ -240,7 +240,7 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 
 **Remuneration of chairperson**
 
-- **(5)** The Minister shall fix the remuneration and expenses of the chairperson of the nominating committee, which shall be paid by the Board.
+- **(5)** The Minister shall fix and pay the remuneration and expenses of the chairperson of the nominating committee.
 
 **Factors for consideration**
 
@@ -253,6 +253,8 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 **Recommendations from list of nominating committee**
 
 - **(8)** The recommendation of the Minister under subsection 9(1) shall be made from the list of candidates proposed by the nominating committee.
+> 2008, c. 28, s. 121 "10"; 2012, c. 31, s. 444.
+
 
 
 
@@ -801,5 +803,50 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(a)** respecting the investments that the Board may make;
 - **(b)** respecting the limitations to which the Board is subject when it makes investments; and
 - **(c)** prescribing anything that this Act provides is to be prescribed or is to be determined by regulation.
+
+
+
+
+## Closing Out of Affairs
+
+
+
+**Disposal of assets**
+
+**37** 
+
+- **(1)** The Board is authorized to sell or otherwise dispose of all or substantially all of its assets and do everything necessary for or incidental to closing out its affairs.
+
+**Minister’s power**
+
+- **(2)** The Minister may require the Board to do anything that in his or her opinion is necessary to sell or otherwise dispose of all or substantially all of its assets, satisfy its debts and liabilities, manage its expenses or otherwise close out its affairs.
+
+**Compliance**
+
+- **(3)** The Board must do what the Minister requires under subsection (2).
+> 2012, c. 31, s. 445.
+
+
+
+
+
+**Transfer of records**
+
+**38** The Board must transfer to the Department of Human Resources and Skills Development the following items, including any electronic versions of them:
+- **(a)** the Board’s books of account and other financial records, as well as any information that the Board collected in order to produce them;
+- **(b)** copies of the Board’s by-laws and its investment policies, standards and procedures;
+- **(c)** the spreadsheets and formulas of the forecasting models for the premium rate referred to in section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); and
+- **(d)** anything else that the Minister requires.
+> 2012, c. 31, s. 445.
+
+
+
+
+
+**Final reports**
+
+**39** The Board must submit to the Minister any final reports required by him or her in the form and at the times that he or she specifies.
+> 2012, c. 31, s. 445.
+
 
 
