@@ -178,7 +178,7 @@ Enabling authorities:
 - **(3)** [Repealed, SOR/2003-6, s. 41]
 
 - **(4)** For the purposes of paragraph (1)(d), ***prepared in a sanitary manner*** means prepared in accordance with the provisions of sections 16 and 17.
-> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41; SOR/2006-221, s. 5(F); SOR/2011-205, s. 27.
+> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41; SOR/2006-221, s. 5(F); SOR/2011-205, s. 27; SOR/2012-286, s. 38(E).
 
 
 
