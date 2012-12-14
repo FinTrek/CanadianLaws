@@ -62,11 +62,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***clearing and settlement system*** means a system or arrangement for the clearing or settlement of payment obligations or payment messages in which
 - **(a)** there are at least three participants, at least one of which is a Canadian participant and at least one of which has its head office in a jurisdiction other than the jurisdiction where the head office of the clearing house is located;
 - **(b)** clearing or settlement is all or partly in Canadian dollars; and
-- **(c)** the payment obligations that arise from clearing within the system or arrangement are ultimately settled through adjustments to the account or accounts of one or more of the participants at the Bank.
+- **(c)** except in the case of a system or arrangement for the clearing or settlement of derivatives contracts, the payment obligations that arise from clearing within the system or arrangement are ultimately settled through adjustments to the account or accounts of one or more of the participants at the Bank.
 
-For greater certainty, it includes a system or arrangement for the clearing or settlement of securities transactions, derivatives contracts, foreign exchange transactions or other transactions where the system or arrangement also clears or settles payment obligations arising from those transactions.
+For greater certainty, it includes a system or arrangement for the clearing or settlement of securities transactions, derivatives contracts, foreign exchange transactions or other transactions if the system or arrangement also clears or settles payment obligations arising from those transactions.
 
-***clearing house*** means a corporation, association, partnership, agency or other entity that provides clearing or settlement services for a clearing and settlement system, but does not include a stock exchange or the Bank;
+***clearing house*** means a corporation, association, partnership, agency or other entity that provides clearing or settlement services for a clearing and settlement system. It includes a securities and derivatives clearing house, as defined in subsection 13.1(3), but does not include a stock exchange or the Bank.
 
 ***eligible financial contract*** has the same meaning as in subsection 22.1(2) of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md);
 
@@ -78,7 +78,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 - **(a)** other participants in the clearing and settlement system to be unable to meet their obligations as they become due,
 - **(b)** financial institutions in other parts of the Canadian financial system to be unable to meet their obligations as they become due, or
 - **(c)** the clearing and settlement system’s clearing house or the clearing house of another clearing and settlement system within the Canadian financial system to be unable to meet its obligations as they become due.
-> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213.
+> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213, c. 31, s. 168.
 
 
 
@@ -206,7 +206,7 @@ the Governor may issue a directive in writing to the participants requiring them
 - **(1)** Notwithstanding anything in any statute or other law of Canada or a province,
 	- **(a)** the settlement rules of a designated clearing and settlement system are valid and are binding on the clearing house, the participants, a central counter-party and the Bank and any action may be taken or payment made in accordance with the settlement rules;
 	- **(b)** the obligation of a participant, a clearing house or a central counter-party to make payment to a participant and the right of a participant, a clearing house or a central counter-party to receive payment from a participant, a clearing house or a central counter-party shall be netted and a net settlement or close-out amount shall be determined in accordance with the settlement rules, if they so provide; and
-	- **(c)** where the settlement rules of a designated clearing and settlement system provide that the settlement of a payment obligation through an entry to or a payment out of an account of a participant, a clearing house or a central counter-party at the Bank is final and irrevocable, the entry or payment shall not be required to be reversed, repaid or set aside.
+	- **(c)** if a payment is made, property is delivered or an interest in, or in Quebec a right to, property is transferred in accordance with the settlement rules of a designated clearing and settlement system, the payment, delivery or transfer shall not be required to be reversed, repaid or set aside.
 
 **Payments not subject to set aside provisions**
 
@@ -216,14 +216,18 @@ the Governor may issue a directive in writing to the participants requiring them
 
 - **(3)** The rights and remedies of a participant, a clearing house, a central counter-party or the Bank in respect of collateral granted to it as security for a payment or the performance of an obligation incurred in a designated clearing and settlement system may not be the subject of any stay provision or order affecting the ability of creditors to exercise rights and remedies with respect to the collateral.
 
+**Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
+
+- **(3.1)** Despite subsections (1) to (3) and the settlement rules, no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
+
 **Application of Canadian law**
 
 - **(4)** Notwithstanding that all or part of the administration or operation of a designated clearing and settlement system is conducted outside Canada or that its settlement rules are governed by the laws of a foreign jurisdiction, where in any judicial proceedings in Canada a court determines that the rights and obligations of any person arising out of or in connection with the operation of the designated clearing and settlement system are governed in whole or in part by Canadian law, the provisions of this section shall be applied to the extent that the Canadian law applies in determining those rights and obligations.
 
 **Interpretation**
 
-- **(5)** In this section, “settlement rules” means the rules, however established, that provide the basis on which payment obligations are calculated, netted or settled and includes rules for the taking of action in the event that a participant is unable or likely to become unable to meet its obligations to the clearing house, a central counter-party or the other participants.
-> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E).
+- **(5)** In this section, ***settlement rules*** means the rules, however established, that provide the basis on which payment obligations, delivery obligations or other transfers of property or interests in, or in Quebec rights to, property are made, calculated, netted or settled and includes rules for the taking of action in the event that a participant is unable or likely to become unable to meet its obligations to the clearing house, a central counter-party, other participants or the Bank.
+> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E); 2012, c. 31, s. 169.
 
 
 
@@ -316,22 +320,28 @@ the Governor may issue a directive in writing to the participants requiring them
 
 **13** 
 
-- **(1)** Notwithstanding anything in any law relating to bankruptcy or insolvency or any order of a court made pursuant to an administration of a reorganization, arrangement or receivership involving insolvency, where a financial institution or the Bank is a party to a netting agreement, the financial institution or the Bank may terminate the agreement and determine a net termination value or net settlement amount in accordance with the provisions of the agreement and the party entitled to the net termination value or settlement amount is to be a creditor of the party owing the net termination value or net settlement amount for that value or amount.
+- **(1)** Despite anything in any law relating to bankruptcy or insolvency or any order of a court made in respect of a reorganization, arrangement or receivership involving insolvency, a party to a netting agreement may terminate the agreement and determine a net termination value or net settlement amount in accordance with the provisions of the agreement and the party entitled to the net termination value or net settlement amount is to be a creditor of the party owing the net termination value or net settlement amount for that value or amount.
 
 **Eligible financial contract**
 
-- **(1.1)** If a netting agreement referred to in subsection (1) is an eligible financial contract, the financial institution or the Bank may also, in accordance with the provisions of that agreement, deal with financial collateral including
+- **(1.1)** If a netting agreement referred to in subsection (1) is an eligible financial contract, a party to the agreement may also, in accordance with the provisions of that agreement, deal with financial collateral including
 	- **(a)** selling or foreclosing or, in the Province of Quebec, surrendering financial collateral; and
 	- **(b)** setting off or compensating financial collateral or applying the proceeds or value of financial collateral.
 
+**Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
+
+- **(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
+
 **Interpretation**
 
-- **(2)** In subsection (1),
+- **(2)** The following definitions apply in this section.
 
 ***financial collateral*** means any of the following that is subject to an interest, or in the Province of Quebec a right, that secures payment or performance of an obligation in respect of an eligible financial contract or that is subject to a title transfer credit support agreement:
 - **(a)** cash or cash equivalents, including negotiable instruments and demand deposits,
-- **(b)** securities, a securities account, a securities entitlement or a right to acquire securities, or
-- **(c)** a futures agreement or a futures account;
+- **(b)** securities, a securities account, a securities entitlement or a right to acquire securities,
+- **(c)** a futures agreement or a futures account,
+- **(d)** an assignment of a right to payment or delivery against a clearing house, or
+- **(e)** any other collateral that is prescribed.
 
 ***financial institution*** means
 - **(a)** a financial institution within the meaning of section 2 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md),
@@ -342,12 +352,12 @@ the Governor may issue a directive in writing to the participants requiring them
 
 ***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between the parties to a netting agreement in accordance with its provisions;
 
-***netting agreement*** means an agreement between two or more financial institutions or between the Bank and one or more financial institutions that is
-- **(a)** an eligible financial contract, or
+***netting agreement*** means an agreement between two or more financial institutions, between the Bank and one or more financial institutions or between a participant and a customer to which the participant provides clearing services that is
+- **(a)** an eligible financial contract; or
 - **(b)** an agreement that provides for the netting or set-off or compensation of present or future obligations to make payments against the present or future rights to receive payments.
 
 ***title transfer credit support agreement*** means an agreement under which title to property has been provided for the purpose of securing the payment or performance of an obligation in respect of an eligible financial contract;
-> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111.
+> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111; 2012, c. 31, s. 170.
 
 
 
@@ -365,7 +375,11 @@ the Governor may issue a directive in writing to the participants requiring them
 	- **(a)** preventing a securities and derivatives clearing house from
 		- **(i)** if it is a party to a netting agreement, terminating the agreement and determining a net termination value or net settlement amount in accordance with the provisions of the agreement, with the party entitled to the value or amount becoming a creditor of the party owing the value or amount for that value or amount, or
 		- **(ii)** acting in accordance with any of its rules that provide the basis on which payment and delivery obligations are calculated, netted and settled; or
-	- **(b)** interfering with the rights or remedies of a securities and derivatives clearing house in respect of any collateral that has been granted to it to secure the performance of obligations by a clearing member.
+	- **(b)** interfering with the rights or remedies of a securities and derivatives clearing house in respect of any collateral that has been granted to it as security for the performance of an obligation incurred in respect of the clearing and settlement services provided by the securities and derivatives clearing house.
+
+**Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
+
+- **(1.1)** Despite subsection (1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
 
 **Designation by Minister**
 
@@ -389,7 +403,7 @@ the Governor may issue a directive in writing to the participants requiring them
 - **(a)** the Canadian Derivatives Clearing Corporation, incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
 - **(b)** the CDS Clearing and Depository Services Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
 - **(c)** the WCE Clearing Corporation, incorporated under The Corporations Act, chapter C225 of the Re-enacted Statutes of Manitoba 1987.
-> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112.
+> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112; 2012, c. 31, s. 171.
 
 
 
@@ -573,5 +587,18 @@ in the same manner and to the same extent as if the Canadian participants were t
 **Information**
 
 **23** A participant is not required to provide information to the Bank under this Act concerning another participant of a clearing and settlement system if that information is not available to all the participants.
+
+
+
+
+## Regulations
+
+
+
+**Financial collateral**
+
+**24** The Governor in Council may make regulations prescribing collateral for the purpose of paragraph (e) of the definition ***financial collateral*** in subsection 13(2).
+> 2012, c. 31, s. 172.
+
 
 
