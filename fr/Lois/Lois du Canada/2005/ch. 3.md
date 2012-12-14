@@ -83,7 +83,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas toutefois aux articles 47 à 62 de la Convention et aux articles XI et XXVI à XXXII du Protocole aéronautique.
+- **(2)** Le paragraphe (1) ne s’applique pas toutefois aux articles 47 à 62 de la Convention et aux articles XXVI à XXXVII du Protocole aéronautique.
+> 2005, ch. 3, art. 4; 2012, ch. 31, art. 411.
+
 
 
 
@@ -105,7 +107,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité**
 
-**6** Les dispositions de la présente loi, notamment celles auxquelles l’article 4 donne force de loi, l’emportent sur toute règle de droit incompatible.
+**6** 
+
+- **(1)** Sous réserve du paragraphe (2), les dispositions de la présente loi et des règlements, ainsi que les dispositions de la Convention et du Protocole aéronautique auxquelles l’article 4 donne force de loi, l’emportent sur toute règle de droit incompatible.
+
+**Exception**
+
+- **(2)** Les dispositions de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), des parties II.1 et XII.2 et des articles 487 à 490.01 et 490.1 à 490.9 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), de la [Loi sur les mesures économiques spéciales](/fr/Lois/Lois%20du%20Canada/1992/ch.%2017.md) et de la [Loi sur les Nations Unies](/fr/Lois/Lois%20révisées%20du%20Canada/U/U-2.md), ainsi que de leurs règlements d’application, l’emportent sur toute disposition incompatible de la présente loi ou des règlements ainsi que sur toute disposition incompatible de la Convention ou du Protocole aéronautique à laquelle l’article 4 donne force de loi.
+> 2005, ch. 3, art. 6; 2012, ch. 31, art. 412.
+
 
 
 
@@ -145,6 +155,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **9** Le gouverneur en conseil peut prendre les règlements nécessaires à l’application des dispositions de la présente loi, notamment de celles auxquelles l’article 4 donne force de loi.
+
+
+
+
+## Disposition transitoire
+
+
+
+**Article XI du Protocole aéronautique**
+
+**9.1** L’article XI du Protocole aéronautique ne s’applique pas à une situation d’insolvabilité qui survient avant la date d’entrée en vigueur du paragraphe 4(1).
+> 2012, ch. 31, art. 413.
+
 
 
 
