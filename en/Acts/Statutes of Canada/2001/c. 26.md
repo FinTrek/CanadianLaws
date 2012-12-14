@@ -349,7 +349,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** the applicant has not met the requirements for the issuance of the document;
 	- **(b)** the applicant has acted fraudulently or improperly or has misrepresented a material fact;
 	- **(c)** the Minister is of the opinion that the public interest and, in particular, the record of the applicant or of a principal of the applicant warrant it;
-	- **(d)** the applicant has not paid a fee set under paragraph 35(1)(g) in respect of the issuance of the document or has not paid a fine or penalty imposed on them under this Act; or
+	- **(d)** the applicant has not paid a fee for services related to the document or has not paid a fine or penalty imposed on them under this Act; or
 	- **(e)** in the case of a Canadian maritime document applied for under Part 3 (Personnel) by a master or crew member,
 		- **(i)** the master or crew member was on board a vessel that contravened any of sections 5.3 to 5.5 of the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md) and knew, when the contravention occurred, that the vessel was committing the contravention, or
 		- **(ii)** the master or crew member has been found guilty of an offence related to their duties on a vessel or has committed a violation in respect of which a notice of violation was issued under paragraph 229(1)(b).
@@ -361,7 +361,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(b)** indicating, in the case of a refusal to issue a document under Part 3 (Personnel) on the grounds set out in paragraph (4)(a), (b), (c) or (e), the address at which, and the date, being thirty days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
 
 - **(6)** [Repealed, 2001, c. 29, s. 72]
-> 2001, c. 26, s. 16, c. 29, s. 72.
+> 2001, c. 26, s. 16, c. 29, s. 72; 2012, c. 31, s. 156.
 
 
 
@@ -439,14 +439,14 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 		- **(i)** the master or crew member is incompetent or has committed an act of misconduct,
 		- **(ii)** the master or crew member was on board a vessel that contravened any of sections 5.3 to 5.5 of the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md) and knew, when the contravention occurred, that the vessel was committing the contravention, or
 		- **(iii)** the master or crew member has been found guilty of an offence related to their duties on a vessel; or
-	- **(g)**  in the case of a refusal to renew,
-		- **(i)** the applicant has not paid a fee set under paragraph 35(1)(g) in respect of the issuance of the document, or
+	- **(g)** in the case of a refusal to renew,
+		- **(i)** the applicant has not paid a fee for services related to the document, or
 		- **(ii)** the Minister is of the opinion that the public interest and, in particular, the record of the applicant or of a principal of the applicant warrant it.
 
 **Return of document**
 
 - **(2)** If a Canadian maritime document is suspended or cancelled, the person who held it shall return it on demand to the Minister of Transport.
-> 2001, c. 26, s. 20, c. 29, s. 72.
+> 2001, c. 26, s. 20, c. 29, s. 72; 2012, c. 31, s. 157.
 
 
 
@@ -792,9 +792,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** specifications, classifications, illustrations, graphs and other information of a technical nature; and
 	- **(b)** test methods, procedures, operational standards, safety standards and performance standards of a technical nature.
 
-**Incorporation as amended from time to time**
+**Variations of externally produced material**
 
-- **(5)** Material may be incorporated by reference as amended from time to time.
+- **(4.1)** A regulation made under this Act on the recommendation of the Minister of Transport or on the joint recommendation of that Minister and the Minister of Natural Resources may incorporate by reference material produced by the Minister of Transport that varies material incorporated by reference under subsection (1).
+
+**Scope of incorporation**
+
+- **(5)** Material referred to in subsections (1) to (4) may be incorporated by reference as amended from time to time or as it exists on a particular date. Material referred to in subsection (4.1) that is to be incorporated by reference must be incorporated as it exists on a particular date.
 
 **Incorporated material is not a regulation**
 
@@ -803,6 +807,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **For greater certainty**
 
 - **(7)** Subsections (1) to (6) are for greater certainty and do not limit any authority to make regulations incorporating material by reference that exists apart from those subsections.
+> 2001, c. 26, s. 32; 2012, c. 31, s. 158.
+
 
 
 
@@ -851,8 +857,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 		- **(ii)** establishing stricter standards than it sets out, or
 		- **(iii)** establishing additional or complementary standards to those it sets out if the Governor in Council is satisfied that the additional or complementary standards meet the objectives of the convention, protocol or resolution;
 	- **(e)** respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
-	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1); and
-	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck) other than section 163, 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1).
+	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
+	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck) other than section 163, 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1);
+	- **(h)** specifying the services for the purposes of paragraph 36.1(1)(d); and
+	- **(i)** specifying the services to which section 36.1 does not apply or the circumstances in which that section does not apply.
 
 **Aircraft**
 
@@ -870,7 +878,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(d)** respecting the setting and payment of fees for services provided in the administration of
 		- **(i)** Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts, or
 		- **(ii)** regulations made under subsection 136(2).
-> 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16.
+> 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16; 2012, c. 31, s. 159.
 
 
 
@@ -900,6 +908,31 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Release on security**
 
 - **(4)** A Minister who obtains an order under subsection (3) must release a seized vessel from detention if security in a form satisfactory to that Minister for the amount in respect of which the vessel was seized is deposited with the Minister.
+> 2001, c. 26, s. 36; 2012, c. 31, s. 160(F).
+
+
+
+
+
+**Services provided by third parties**
+
+**36.1** 
+
+- **(1)** Unless otherwise provided in the regulations, any person or organization that provides, in the exercise of powers or the performance of duties under this Act in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c), any of the following services may, if that person or organization is not part of the federal public administration, set the fees to be paid to it for those services:
+	- **(a)** services related to a Canadian maritime document;
+	- **(b)** services related to any approvals or certifications;
+	- **(c)** the conduct or witnessing of tests; and
+	- **(d)** services specified in the regulations.
+
+**Not public money**
+
+- **(2)** Unless otherwise provided in the regulations, the fees referred to in subsection (1) are not public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of them.
+
+**Non-application of certain regulations**
+
+- **(3)** Unless otherwise provided in the regulations, the regulations made under paragraph 35(1)(g) do not apply in respect of any service referred to in any of paragraphs (1)(a) to (d) that is provided by any person or organization that is not part of the federal public administration in the exercise of powers or the performance of duties under this Act in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c).
+> 2012, c. 31, s. 161.
+
 
 
 
