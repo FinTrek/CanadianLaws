@@ -330,7 +330,7 @@ Autorités habilitantes :
 - **(1)** Le directeur peut suspendre l’agrément d’un poste agréé d’oeufs transformés si :
 	- **a)** d’une part, l’une des situations suivantes existe :
 		- **(i)** le poste d’oeufs transformés n’est pas conforme,
-		- **(ii)** l’exploitant ne se conforme pas à la Loi, au présent règlement, à l'Arrêté sur les prix applicables aux oeufs et aux oeufs transformés ou à l'Avis sur les prix de l’Agence canadienne d’inspection des aliments,
+		- **(ii)** l’exploitant ne se conforme pas à la Loi, au présent règlement ou à l’Avis sur les prix de l’Agence canadienne d’inspection des aliments,
 		- **(iii)** le maintien de l’exploitation du poste d’oeufs transformés risque vraisemblablement de mettre en danger la santé du public;
 	- **b)** d’autre part, l’exploitant n’a pas pris ou est incapable de prendre immédiatement des mesures pour corriger la situation visée à l’alinéa a).
 
@@ -343,7 +343,7 @@ Autorités habilitantes :
 	- **a)** soit jusqu’à ce que les mesures correctives requises soient prises et qu’elles aient été vérifiées par l’inspecteur;
 	- **b)** soit jusqu’à ce qu’une décision soit prise, si une procédure de retrait a été entamée en vertu de l’article 6.2;
 	- **c)** soit jusqu’à l’expiration d’une période de 90 jours, si aucune procédure de retrait n’a été entamée en vertu de l’article 6.2.
-> DORS/91-423, art. 2; DORS/96-123, art. 1; DORS/2000-183, art. 15.
+> DORS/91-423, art. 2; DORS/96-123, art. 1; DORS/2000-183, art. 15; DORS/2012-286, art. 37.
 
 
 
