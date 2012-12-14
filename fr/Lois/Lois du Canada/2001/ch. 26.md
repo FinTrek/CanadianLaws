@@ -347,7 +347,7 @@ French version only***conseiller*** Membre du Tribunal.
 	- **a)** si les modalités de présentation de la demande n’ont pas été respectées;
 	- **b)** si le demandeur a utilisé des moyens frauduleux ou irréguliers ou a donné une fausse indication sur un fait important;
 	- **c)** s’il estime que l’intérêt public le requiert, en raison notamment des antécédents du demandeur ou de tel de ses dirigeants;
-	- **d)** si le demandeur n’a pas payé des droits fixés sous le régime de l’alinéa 35(1)g) pour la délivrance du document ou a omis de payer une amende ou une sanction infligées sous le régime de la présente loi;
+	- **d)** si le demandeur n’a pas payé les droits à verser pour un service lié au document ou a omis de payer une amende ou une sanction infligées sous le régime de la présente loi;
 	- **e)** si, s’agissant d’un document délivré à un capitaine ou à un membre de l’équipage sous le régime de la partie 3 (personnel) :
 		- **(i)** le capitaine ou le membre de l’équipage était à bord d’un bâtiment ayant commis une infraction à l’un des articles 5.3 à 5.5 de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) et savait, au moment du fait reproché, que le bâtiment était en état d’infraction,
 		- **(ii)** le capitaine ou le membre de l’équipage a été déclaré coupable d’une infraction liée à l’exécution de ses fonctions sur un bâtiment ou a commis une violation pour laquelle un procès-verbal a été dressé en vertu de l’alinéa 229(1)b).
@@ -359,7 +359,7 @@ French version only***conseiller*** Membre du Tribunal.
 	- **b)** indiquant, dans le cas d’un document maritime pouvant être délivré sous le régime de la partie 3 (personnel) et dont le motif de refus est prévu aux alinéas (4)a), b), c) ou e), le lieu et la date limite, à savoir trente jours après l’envoi de l’avis, du dépôt d’une éventuelle requête en révision.
 
 - **(6)** [Abrogé, 2001, ch. 29, art. 72]
-> 2001, ch. 26, art. 16, ch. 29, art. 72.
+> 2001, ch. 26, art. 16, ch. 29, art. 72; 2012, ch. 31, art. 156.
 
 
 
@@ -438,13 +438,13 @@ French version only***conseiller*** Membre du Tribunal.
 		- **(ii)** le capitaine ou le membre d’équipage était à bord d’un bâtiment ayant commis une infraction à l’un des articles 5.3 à 5.5 de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) et savait, au moment du fait reproché, que le bâtiment était en état d’infraction,
 		- **(iii)** le capitaine ou le membre d’équipage a été déclaré coupable d’une infraction liée à l’exécution de ses fonctions sur un bâtiment;
 	- **g)** s’agissant d’un refus de renouvellement :
-		- **(i)** soit le demandeur n’a pas payé des droits fixés sous le régime de l’alinéa 35(1)g) pour la délivrance du document,
+		- **(i)** soit le demandeur n’a pas payé les droits à verser pour un service lié au document,
 		- **(ii)** soit il estime que l’intérêt public le requiert, en raison notamment des antécédents du demandeur ou de tel de ses dirigeants.
 
 **Retour des documents**
 
 - **(2)** Dans le cas où un document maritime canadien est suspendu ou annulé, son titulaire doit, sur demande, le rendre au ministre des Transports.
-> 2001, ch. 26, art. 20, ch. 29, art. 72.
+> 2001, ch. 26, art. 20, ch. 29, art. 72; 2012, ch. 31, art. 157.
 
 
 
@@ -788,9 +788,13 @@ French version only***conseiller*** Membre du Tribunal.
 	- **a)** des spécifications, classifications, illustrations, graphiques ou toute autre information de nature technique;
 	- **b)** des méthodes d’essai, des procédures ou des normes d’exploitation, de rendement ou de sécurité, de nature technique.
 
+**Modifications à un document externe**
+
+- **(4.1)** Peut être incorporé par renvoi dans un règlement pris sur recommandation du ministre des Transports ou sur recommandation conjointe de ce ministre et du ministre des Ressources naturelles tout document, produit par le ministre des Transports, modifiant de quelque façon que ce soit un document incorporé par renvoi en vertu du paragraphe (1).
+
 **Portée de l’incorporation**
 
-- **(5)** L’incorporation par renvoi peut viser le document avec ses modifications successives.
+- **(5)** L’incorporation par renvoi effectuée en vertu de l’un des paragraphes (1) à (4) peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives. Celle effectuée en vertu du paragraphe (4.1) vise le document dans sa version à une date donnée.
 
 **Nature du document incorporé**
 
@@ -799,6 +803,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Interprétation**
 
 - **(7)** Il est entendu que les paragraphes (1) à (6) n’ont pas pour objet d’empêcher la prise de règlements incorporant par renvoi des documents autres que ceux visés par ces paragraphes.
+> 2001, ch. 26, art. 32; 2012, ch. 31, art. 158.
+
 
 
 
@@ -845,7 +851,9 @@ French version only***conseiller*** Membre du Tribunal.
 		- **(iii)** établir des normes supplémentaires ou complémentaires à celles qui y sont prévues dans le cas où il est convaincu qu’elles servent les objectifs de la convention, du protocole ou de la résolution;
 	- **e)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
 	- **f)** régir les avis prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
-	- **g)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application de la présente partie et des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves) sauf l’article 163, 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et des règlements pris en vertu de l’une de ces parties ou du paragraphe 136(1).
+	- **g)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application de la présente partie et des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves) sauf l’article 163, 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et des règlements pris en vertu de l’une de ces parties ou du paragraphe 136(1);
+	- **h)** préciser les services pour l’application de l’alinéa 36.1(1)d);
+	- **i)** préciser les services à l’égard desquels l’article 36.1 ne s’applique pas ou les circonstances dans lesquelles cet article ne s’applique pas.
 
 **Aéronefs**
 
@@ -861,7 +869,7 @@ French version only***conseiller*** Membre du Tribunal.
 	- **b)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
 	- **c)** régir les avis prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
 	- **d)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties, et des règlements pris en vertu du paragraphe 136(2).
-> 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16.
+> 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16; 2012, ch. 31, art. 159.
 
 
 
@@ -875,11 +883,11 @@ French version only***conseiller*** Membre du Tribunal.
 
 **36** 
 
-- **(1)** Les droits visés aux alinéas 35(1)g) et (3)d) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+- **(1)** Les droits imposés sous le régime des alinéas 35(1)g) ou (3)d) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
 
 **Paiement des droits**
 
-- **(2)** Les droits visés aux alinéas 35(1)g) ou (3)d) et les intérêts afférents frappant un bâtiment sont payables :
+- **(2)** Les droits imposés sous le régime des alinéas 35(1)g) ou (3)d) et les intérêts afférents frappant un bâtiment sont à payer :
 	- **a)** dans le cas d’une embarcation de plaisance qui n’est pas un bâtiment canadien, par le propriétaire de celle-ci;
 	- **b)** dans le cas d’un bâtiment canadien, solidairement par le représentant autorisé et le capitaine de celui-ci;
 	- **c)** dans le cas d’un bâtiment étranger, solidairement par le propriétaire et le représentant autorisé de celui-ci.
@@ -891,6 +899,31 @@ French version only***conseiller*** Membre du Tribunal.
 **Sûretés**
 
 - **(4)** Le ministre donne cependant mainlevée contre remise d’une garantie qu’il juge satisfaisante — équivalente aux sommes dues.
+> 2001, ch. 26, art. 36; 2012, ch. 31, art. 160(F).
+
+
+
+
+
+**Services rendus par des tiers**
+
+**36.1** 
+
+- **(1)** Sauf disposition contraire des règlements, la personne ou l’organisation qui fournit l’un ou l’autre des services ci-après dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c), d’attributions prévues sous le régime de la présente loi peut, si elle ne fait pas partie de l’administration publique fédérale, fixer les droits qui doivent lui être versés pour ces services :
+	- **a)** les services liés à tout document maritime canadien;
+	- **b)** les services liés à toute approbation, homologation ou certification;
+	- **c)** la conduite d’essais ou la présence d’une personne à des essais;
+	- **d)** les services précisés par règlement.
+
+**Pas des fonds publics**
+
+- **(2)** Sauf disposition contraire des règlements, les droits visés au paragraphe (1) ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à leur égard.
+
+**Non-application de certains règlements**
+
+- **(3)** Sauf disposition contraire des règlements, les règlements pris en vertu de l’alinéa 35(1)g) ne s’appliquent pas à l’égard de la prestation, par une personne ou organisation qui ne fait pas partie de l’administration publique fédérale, de l’un ou l’autre des services visés aux alinéas (1)a) à d) dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c), d’attributions prévues sous le régime de la présente loi.
+> 2012, ch. 31, art. 161.
+
 
 
 
