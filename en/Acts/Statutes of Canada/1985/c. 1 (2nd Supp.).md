@@ -411,6 +411,14 @@ is payable by the person immediately.
 	- **(c)** any airport, wharf or dock that receives conveyances operating internationally and in respect of which a customs office has been designated under section 5
 shall provide, equip and maintain free of charge to Her Majesty at or near the bridge, tunnel, railway, airport, wharf or dock adequate buildings, accommodation or other facilities for the proper detention and examination of imported goods or for the proper search of persons by customs officers.
 
+**Clarification**
+
+- **(1.1)** For the purposes of subsection (1), ***maintain*** means, in addition to performing general maintenance, paying all costs related to the operation of the buildings, accommodation and other facilities, including electricity, lighting, ventilation, heating, cooling, water supply, sewage treatment, fire protection, snow removal and cleaning.
+
+**Retroactive effect**
+
+- **(1.2)** Subsection (1.1) has retroactive effect to the day on which subsection (1) came into force and applies in respect of any action or judicial proceeding that is pending on the day on which this subsection comes into force.
+
 **Rights of Minister**
 
 - **(2)** The Minister may
@@ -423,6 +431,10 @@ and no person shall interfere with any of the rights set out in this subsection.
 
 - **(3)** The Governor in Council may, subject to subsection (4), make regulations determining what are adequate buildings, accommodation and other facilities for the purposes referred to in subsection (1).
 
+**Retroactive effect of regulations**
+
+- **(3.1)** A regulation made under subsection (3) may, if it so provides, have retroactive effect and apply in respect of any pending action or judicial proceeding.
+
 **[Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)**
 
 - **(4)** Any building, accommodation or other facility provided for the purposes referred to in subsection (1) that fails to meet the applicable requirements of Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) shall be deemed not to be adequate for those purposes.
@@ -434,7 +446,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Liability for costs**
 
 - **(6)** The owner or operator of an international bridge or tunnel is liable for all reasonable costs incurred by the Minister under subsection (5), which costs may be recovered in accordance with sections 143 to 145.
-> R.S., 1985, c. 1 (2nd Supp.), s. 6, c. 26 (3rd Supp.), s. 1.
+> R.S., 1985, c. 1 (2nd Supp.), s. 6, c. 26 (3rd Supp.), s. 1; 2012, c. 31, s. 265.
 
 
 
@@ -4481,12 +4493,12 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **107.1** 
 
-- **(1)** The Minister may, under prescribed circumstances and conditions, require any prescribed person or prescribed class of persons to provide, or to provide access to, within the prescribed time and in the prescribed manner, prescribed information about any person on board a conveyance.
+- **(1)** The Minister may, under prescribed circumstances and conditions, require any prescribed person or prescribed class of persons to provide, or to provide access to, within the prescribed time and in the prescribed manner, prescribed information about any person on board or expected to be on board a conveyance.
 
 **Disclosure**
 
 - **(2)** Any person who is required under subsection (1) to provide, or provide access to, prescribed information shall do so despite any restriction under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) on the disclosure of such information.
-> 2001, c. 25, s. 61; 2009, c. 10, s. 12.
+> 2001, c. 25, s. 61; 2009, c. 10, s. 12; 2012, c. 31, s. 267.
 
 
 
