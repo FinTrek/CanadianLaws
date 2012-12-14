@@ -44,7 +44,7 @@
 
 ***ministre*** Le ministre des Finances.
 
-***régime de pension*** S’entend au sens du paragraphe 2(1) de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md).
+***régime de pension*** S’entend, selon le cas, au sens du paragraphe 2(1) de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou au sens de ***régime de pension agréé collectif*** au paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md).
 
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
@@ -53,7 +53,7 @@
 ***surintendant*** Le surintendant des institutions financières nommé conformément au paragraphe 5(1).
 
 ***surintendant adjoint*** Surintendant adjoint des institutions financières nommé conformément à l’article 8.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 3; 1991, ch. 45, art. 557, ch. 47, art. 742; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 104; 1998, ch. 12, art. 27; 1999, ch. 28, art. 127; 2001, ch. 9, art. 466.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 3; 1991, ch. 45, art. 557, ch. 47, art. 742; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 104; 1998, ch. 12, art. 27; 1999, ch. 28, art. 127; 2001, ch. 9, art. 466; 2012, ch. 16, art. 90.
 
 
 
@@ -84,7 +84,7 @@
 
 **Objectifs concernant les institutions financières**
 
-- **(2)** Le Bureau poursuit, à l’égard des institutions financières, les objectifs suivants :
+- **(2)** Le Bureau poursuit, à l’égard des institutions financières, les objectifs suivants :
 	- **a)** superviser les institutions financières pour s’assurer qu’elles sont en bonne santé financière et qu’elles se conforment aux lois qui les régissent et à ses exigences découlant de l’application de ces lois;
 	- **b)** aviser sans délai la direction et le conseil d’administration de la mauvaise situation financière de l’institution ou de son défaut de se conformer aux lois qui la régissent ou à ses exigences et, le cas échéant, de prendre ou de forcer la direction ou le conseil à prendre des mesures pour corriger la situation sans plus attendre;
 	- **c)** inciter la direction et le conseil d’administration des institutions financières à se doter de politiques et de procédures pour contrôler et gérer le risque;
@@ -92,8 +92,8 @@
 
 **Objectifs concernant les régimes de pension**
 
-- **(2.1)** Le Bureau poursuit, à l’égard des régimes de pension, les objectifs suivants :
-	- **a)** superviser les régimes de pension pour s’assurer du respect des exigences minimales de capitalisation, des autres exigences prévues par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) et ses règlements d’application et des exigences découlant de l’application de ces textes;
+- **(2.1)** Le Bureau poursuit, à l’égard des régimes de pension, les objectifs suivants :
+	- **a)** superviser les régimes de pension pour s’assurer du respect des exigences minimales de capitalisation, des autres exigences prévues par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) et la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md) et leurs règlements et des exigences découlant de l’application de ces textes;
 	- **b)** aviser sans délai l’administrateur du régime qui n’est pas conforme aux exigences visées à l’alinéa a) et prendre les mesures pour corriger la situation sans plus attendre ou forcer l’administrateur à les prendre;
 	- **c)** inciter les administrateurs de régimes de pension à se doter de politiques et de procédures pour contrôler et gérer le risque.
 
@@ -108,7 +108,7 @@
 **Réalisme à l’égard des régimes de pension**
 
 - **(5)** Bien que la réglementation et la supervision du Bureau et du surintendant soient de nature à réduire les risques pour un régime de pension de se trouver en défaut de payer les prestations de pension, elles doivent s’effectuer en tenant compte du fait que l’administrateur est responsable de la gestion du régime et que celui-ci peut éprouver des difficultés financières, notamment en matière de capitalisation, qui peuvent entraîner la réduction des prestations.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 4; 1996, ch. 6, art. 106; 1998, ch. 12, art. 29.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 4; 1996, ch. 6, art. 106; 1998, ch. 12, art. 29; 2012, ch. 16, art. 91.
 
 
 
@@ -465,8 +465,8 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Régimes de pension**
 
 - **(1.1)** À chaque exercice, le surintendant :
-	- **a)** estime le montant total des dépenses qui seront engagées par le Bureau pendant le prochain exercice dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md);
-	- **b)** détermine le montant total des dépenses engagées par le Bureau pendant l’exercice précédent dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md).
+	- **a)** estime le montant total des dépenses qui seront engagées par le Bureau pendant le prochain exercice dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) et de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md);
+	- **b)** détermine le montant total des dépenses engagées par le Bureau pendant l’exercice précédent dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) et de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md).
 
 **Caractère irrévocable**
 
@@ -487,7 +487,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Détermination de la cotisation**
 
 - **(6)** La détermination du montant de la cotisation tient notamment compte des montants visés au paragraphe (1.1).
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473; 2010, ch. 25, art. 175.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473; 2010, ch. 25, art. 175; 2012, ch. 16, art. 94.
 
 
 
@@ -551,16 +551,16 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 25 à 37.2.
 
-***entité*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***entité*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*entity*)
 
-***loi sur les institutions financières*** La [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
+***loi sur les institutions financières*** La [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md), la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md) ou la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md). (*financial institutions Act*)
 
-***pénalité*** Sanction administrative pécuniaire.
+***pénalité*** Sanction administrative pécuniaire. (*penalty*)
 
 **Non-application**
 
 - **(2)** Le présent article et les articles 25 à 37 ne s’appliquent pas aux dispositions visant les consommateurs au sens de l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 24; 2001, ch. 9, art. 476; 2010, ch. 25, art. 176.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 24; 2001, ch. 9, art. 476; 2010, ch. 25, art. 176; 2012, ch. 16, art. 92.
 
 
 
@@ -899,9 +899,11 @@ Loi sur les associations coopératives de crédit<br />- <i>Cooperative Credit A
 
 Loi sur les banques<br />- <i>Bank Act</i>
 
+Loi sur les régimes de pension agréés collectifs<br />- <i>Pooled Registered Pension Plans Act</i>
+
 Loi sur les sociétés d’assurances<br />- <i>Insurance Companies Act</i>
 
 Loi sur les sociétés de fiducie et de prêt<br />- <i>Trust and Loan Companies Act</i>
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), ann. à la partie I; 1991, ch. 47, art. 744; 1992, ch. 1, art. 142, ch. 56, art. 18; 1994, ch. 26, art. 50 et 51; 1996, ch. 6, art. 111; 1999, ch. 31, art. 171.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), ann. à la partie I; 1991, ch. 47, art. 744; 1992, ch. 1, art. 142, ch. 56, art. 18; 1994, ch. 26, art. 50 et 51; 1996, ch. 6, art. 111; 1999, ch. 31, art. 171; 2012, ch. 16, art. 93.
 
 
