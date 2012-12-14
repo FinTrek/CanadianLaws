@@ -468,7 +468,7 @@ The judge shall include in the order a declaration of the nature and extent of t
 
 **29** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, issue letters patent of incorporation for the establishment of a corporation, with or without share capital, for the purpose of the corporation constructing or operating an international bridge or tunnel. Letters patent take effect on the date stated in them.
+- **(1)** The Governor in Council may, on the recommendation of the Minister, issue letters patent of incorporation for the establishment of a corporation, with or without share capital, for any purpose relating to the construction or operation of an international bridge or tunnel. Letters patent take effect on the date stated in them.
 
 **Contents of letters patent**
 
@@ -500,6 +500,8 @@ The judge shall include in the order a declaration of the nature and extent of t
 **Not statutory instruments**
 
 - **(5)** Letters patent, supplementary letters patent and a notice of revocation are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but shall be published in the Canada Gazette and are valid with respect to third parties as of the date of publication.
+> 2007, c. 1, s. 29; 2012, c. 31, s. 180.
+
 
 
 
@@ -528,7 +530,7 @@ The judge shall include in the order a declaration of the nature and extent of t
 
 **32** 
 
-- **(1)** A corporation is incorporated for the purpose of constructing or operating an international bridge or tunnel in respect of which its letters patent are issued and, for that purpose and for the purposes of this Act, has the capacity, rights, powers and privileges of a natural person.
+- **(1)** A corporation that is incorporated for any purpose relating to the construction or operation of an international bridge or tunnel in respect of which its letters patent are issued has, for that purpose and for the purposes of this Act, the capacity, rights, powers and privileges of a natural person.
 
 **Restriction on activities and powers**
 
@@ -541,13 +543,23 @@ The judge shall include in the order a declaration of the nature and extent of t
 **Extra-territorial capacity**
 
 - **(4)** A corporation has the capacity to carry on its activities, conduct its affairs and exercise its powers in any jurisdiction outside Canada to the extent that the laws of that jurisdiction permit.
+> 2007, c. 1, s. 32; 2012, c. 31, s. 181.
 
 
 
 
-**Tolls**
 
-**33** Subject to the provisions of this Act and any regulations made under this Act and to its letters patent, a corporation may charge tolls, fees or other charges for the use of an international bridge or tunnel.
+**Charges**
+
+**33** 
+
+- **(1)** Subject to this Act and to its letters patent, a corporation may fix and charge tolls, fees or other charges for the use of an international bridge or tunnel.
+
+**Authorization by corporation**
+
+- **(2)** The corporation may authorize another person to fix or charge tolls, fees or other charges for the use of the international bridge or tunnel.
+> 2007, c. 1, s. 33; 2012, c. 31, s. 182.
+
 
 
 
