@@ -177,7 +177,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 ***pourri***, appliqué au mot poisson, désigne du poisson dont l’odeur, la saveur, la couleur, la texture ou les substances reliées à la détérioration sont désagréables ou douteuses; (*decomposed*)
 
-***procédé de conservation*** Procédé, notamment le traitement thermique, la dépuration et l’irradiation, qui contrôle des dangers connus ou qui, s’il n’est pas employé conformément au Manuel des installations ou au Manuel du Programme canadien de contrôle de la salubrité des mollusques, selon le cas, peut entraîner la production de poisson impropre à la consommation humaine. (*product preservation process*)
+***procédé de conservation*** Procédé, notamment le traitement thermique, la dépuration et l’irradiation, qui contrôle des dangers connus et qui, s’il n’est pas employé conformément au Manuel des installations ou au Manuel du Programme canadien de contrôle de la salubrité des mollusques, selon le cas, peut entraîner la production de poisson impropre à la consommation humaine. (*product preservation process*)
 
 ***producteur*** désigne la dernière personne qui traite du poisson en vue de son importation au Canada; (*producer*)
 
@@ -200,7 +200,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 ***tri mécanique*** Procédé mécanique permettant d’inspecter les boîtes de conserve de poisson afin de s’assurer que leurs joints hermétiques sont bien formés. (*mechanical screening*)
 
 ***véhicule*** Navire, aéronef, train, véhicule automobile, conteneur, remorque ou autre moyen de transport de poisson ou de contenants de poisson. (*conveyance*) 
-> DORS/80-360, art. 1; DORS/82-829, art. 1; DORS/82-845, art. 1; DORS/86-213, art. 1; DORS/92-75, art. 1; DORS/96-364, art. 1; DORS/98-2, art. 1; DORS/99-169, art. 1; DORS/2000-184, art. 58 et 59; DORS/2000-317, art. 16(F); DORS/2002-124, art. 1; DORS/2002-354, art. 18; DORS/2009-314, art. 1.
+> DORS/80-360, art. 1; DORS/82-829, art. 1; DORS/82-845, art. 1; DORS/86-213, art. 1; DORS/92-75, art. 1; DORS/96-364, art. 1; DORS/98-2, art. 1; DORS/99-169, art. 1; DORS/2000-184, art. 58 et 59; DORS/2000-317, art. 16(F); DORS/2002-124, art. 1; DORS/2002-354, art. 18; DORS/2009-314, art. 1; DORS/2012-286, art. 3(F).
 
 
 
