@@ -88,7 +88,9 @@ où :
 	- **(ii)** de commissions ou d’autres montants semblables établis en fonction du chiffre de ventes ou des contrats négociés (appelés « commissions » dans la présente partie),
 à un agent ou employé ou à un ancien agent ou employé,
 - **a.1)** relatif aux pourboires qu’un employé est tenu de déclarer à son employeur aux termes d’une loi provinciale,
-- **b)** une prestation de retraite ou de pension (y compris un paiement de rente effectué au titre ou en vertu d’une caisse ou d’un régime de pensions de retraite ou de pensions),
+- **b)** une prestation de retraite ou de pension (y compris un paiement de rente effectué au titre ou en vertu d’une caisse ou d’un régime de retraite ou de pension), à l’exclusion d’une distribution qui, selon le cas :
+	- **(i)** est effectuée sur un régime de pension agréé collectif et n’est pas à inclure dans le calcul du revenu d’un contribuable en application de l’alinéa 56(1)z.3) de la Loi,
+	- **(ii)** est réputée avoir été effectuée aux termes du paragraphe 147.5(14) de la Loi,
 - **b.1)** un montant provenant d’une convention de retraite,
 - **c)** une allocation de retraite,
 - **d)** une prestation consécutive au décès,
@@ -120,7 +122,7 @@ où :
 - **(2)** Le montant de tout crédit d’impôt visé aux alinéas a) ou b) de la définition de ***crédits d’impôt personnels***, au paragraphe (1), qui est assujetti à un rajustement annuel en vertu de l’article 117.1 de la Loi est, dans une année d’imposition donnée, assujetti à ce rajustement annuel.
 
 - **(3)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un ou plusieurs montants dont chacun représente :
-	- **a)** soit une cotisation versée à un régime de pension agréé ou en vertu d’une telle caisse ou d’un tel régime,
+	- **a)** soit une cotisation versée à un régime de pension agréé, à un régime de pension agréé collectif ou à un régime de pension déterminé,
 	- **b)** soit des cotisations visées aux sous-alinéas 8(1)i)(iv), (v) ou (vi) de la Loi, versées pour le compte de l’employé,
 	- **b.1)** soit une cotisation visée à l’alinéa 8(1)m.2) de la Loi, versée par l’employé,
 	- **c)** soit une prime à un régime enregistré d’épargne-retraite, lorsque l’employeur a des motifs raisonnables de croire que la prime est déductible en application de l’alinéa 60j.1) ou des paragraphes 146(5) ou (5.1) de la Loi pour le calcul du revenu de l’employé pour l’année d’imposition dans laquelle le paiement de rémunération est effectué,
@@ -138,7 +140,7 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 - **(5)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un montant au titre de l’acquisition par ce dernier d’une action approuvée au sens du paragraphe 127.4(1) de la Loi, le moindre des deux montants suivants est déduit du montant déterminé selon l’alinéa 102(1)e) ou (2)e), selon le cas, à l’égard de ce paiement :
 	- **a)** 750 $;
 	- **b)** le montant correspondant à 15 % du montant déduit ou retenu au titre de l’acquisition d’une action approuvée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1; 2012, ch. 31, art. 58.
 
 
 
@@ -892,8 +894,14 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
-**213** [Abrogé, DORS/2010-93, art. 4]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2010-93, art. 4.
+
+### Régimes de pension agréés collectifs
+
+
+**213** L’administrateur d’un régime de pension agréé collectif est tenu de présenter au ministre pour chaque année civile, sur le formulaire prescrit, une déclaration de renseignements concernant le régime au plus tard à celle des dates ci-après qui est applicable :
+- **a)** si un accord concernant des états annuels a été conclu entre le ministre et l’autorité de surveillance du régime en vertu de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md) ou d’une loi provinciale semblable, la date où l’état exigé par cette autorité doit être déposé pour l’année civile;
+- **b)** dans les autres cas, le 1<sup>er</sup> mai de l’année civile subséquente.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2010-93, art. 4; 2012, ch. 31, art. 59.
 
 
 
@@ -1572,7 +1580,7 @@ sur
 **304** 
 
 - **(1)** Pour l’application de la présente partie et des paragraphes 12.2(1) et 20(20) et de l’alinéa 148(2)b) de la Loi, les contrats de rente ci-après sont visés pour une année d’imposition :
-	- **a)** le contrat de rente qui est un arrangement visé à l’un des alinéas 148(1)a) à b.2) et d) de la Loi ou qui est émis aux termes d’un tel arrangement;
+	- **a)** le contrat de rente qui est un arrangement visé à l’un des alinéas 148(1)a) à b.3) et d) de la Loi ou qui est émis aux termes d’un tel arrangement;
 	- **b)** le contrat de rente visé aux alinéas 148(1)c) ou e) de la Loi;
 	- **c)** le contrat de rente :
 		- **(i)** en vertu duquel des versements de rente ont commencé à être faits au cours de cette année d’imposition ou d’une année d’imposition antérieure,
@@ -1618,7 +1626,7 @@ sur
 - **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
 - **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8; 2012, ch. 31, art. 60.
 
 
 
@@ -4530,7 +4538,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 
 
-- **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (14) à (16) ainsi qu’aux catégories 43.1 et 43.2 de l’annexe II.
+- **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (14) à (17) ainsi qu’aux catégories 43.1 et 43.2 de l’annexe II.
 
 ***biogaz*** Le gaz produit par la digestion anaérobie de déchets organiques qui consistent en boues provenant d’installations admissibles de traitement des eaux usées, fumiers, déchets alimentaires et animaux, résidus végétaux ou déchets de bois. (*biogas*)
 
@@ -4538,7 +4546,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***combustible fossile*** Pétrole, gaz naturel ou hydrocarbures connexes, gaz de convertisseur basique à oxygène, gaz de haut fourneau, charbon, gaz de houille, coke, gaz de four à coke, lignite ou tourbe. (*fossil fuel*)
 
-***combustible résiduaire admissible*** Biogaz, bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
+***combustible résiduaire admissible*** Biogaz, bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, résidus végétaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
 
 ***déchets alimentaires***[Abrogée, 2010, ch. 25, art. 76]
 
@@ -4585,7 +4593,9 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique. (*district energy system*)
 
-***résidus végétaux*** Résidus de végétaux qui seraient des déchets s’ils n’étaient pas utilisés dans un système de conversion de la biomasse en bio-huile ou en biogaz. En sont exclus les déchets de bois et les déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus. (*plant residue*)
+***résidus végétaux*** Résidus de végétaux, à l’exception des déchets de bois et des déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus, qui seraient par ailleurs des déchets, mais qui sont utilisés :
+- **a)** soit dans un système de conversion de la biomasse en bio-huile ou en biogaz;
+- **b)** soit comme combustible résiduaire admissible. (*plant residue*)
 
 ***site d’enfouissement admissible*** Site d’enfouissement, existant ou ancien, situé au Canada et, s’il s’agit d’un site à l’égard duquel un permis ou une licence est ou était requis en vertu de la législation fédérale ou provinciale, à l’égard duquel un tel permis ou une telle licence a été délivré. (*eligible landfill site*)
 
@@ -4600,7 +4610,13 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F).
+
+- **(17)** Tout bien qui pourrait par ailleurs être inclus dans les catégories 43.1 ou 43.2 de l’annexe II par un contribuable est réputé ne pas pouvoir être inclus dans ces catégories si, à la fois :
+	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(viii), (ix), (xi) et (xiii) de cette catégorie ou à l’alinéa a) de la catégorie 43.2;
+	- **b)** au moment où il devient prêt à être mis en service par le contribuable, celui-ci ne satisfait pas aux exigences des lois et règlements en matière d’environnement, applicables relativement au bien, de l’une des entités suivantes :
+		- **(i)** le Canada ou l’une de ses provinces ou municipalités,
+		- **(ii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61.
 
 
 
@@ -8522,28 +8538,28 @@ où
 
 - **(1)** [Abrogé, DORS/2000-296, art. 1]
 
-- **(2)** Pour l’application de la division 37(8)a)(i)(B) et de la subdivision 37(8)a)(ii)(A)(II) de la Loi, les dépenses suivantes sont directement attribuables à des activités de recherche scientifique et de développement expérimental :
+- **(2)** Pour l’application de la division 37(8)a)(i)(B) et de la subdivision 37(8)a)(ii)(A)(II) de la Loi, les dépenses suivantes sont directement attribuables à des activités de recherche scientifique et de développement expérimental :
 	- **a)** le coût des matériaux consommés ou transformés dans le cadre de ces activités;
 	- **b)** dans le cas où un employé entreprend, supervise ou soutient directement ces activités, la partie du montant engagé pour le traitement ou le salaire de l’employé qu’il est raisonnable de considérer comme se rapportant à ces activités;
 	- **c)** les autres dépenses, ou la partie de celles-ci, qui sont directement liées à ces activités et qui n’auraient pas été engagées si celles-ci n’avaient pas été exercées.
 
-- **(3)** Pour l’application de la subdivision 37(8)a)(ii)(A)(II) de la Loi, les dépenses suivantes sont directement attribuables à la fourniture de locaux, d’installations ou de matériel servant à des activités de recherche scientifique et de développement expérimental :
+- **(3)** Pour l’application de la subdivision 37(8)a)(ii)(A)(II) de la Loi, les dépenses suivantes sont directement attribuables à la fourniture de locaux, d’installations ou de matériel servant à des activités de recherche scientifique et de développement expérimental :
 	- **a)** le coût de l’entretien de ces locaux, installations ou matériel;
 	- **b)** les autres dépenses, ou la partie de celles-ci, qui sont directement liées à cette fourniture et qui n’auraient pas été engagées si les locaux, les installations ou le matériel n’avaient pas existé.
 
-- **(4)** Pour l’application de la définition de ***dépense admissible***, au paragraphe 127(9) de la Loi, le montant de remplacement applicable à un contribuable quant à une entreprise pour une année d’imposition à l’égard de laquelle il fait le choix prévu à la division 37(8)a)(ii)(B) de la Loi est égal à 65 % du total des montants représentant chacun la partie du montant qu’il a engagé au cours de l’année, au titre du traitement ou du salaire de son employé qui participe directement à des activités de recherche scientifique et de développement expérimental exercées au Canada, qu’il est raisonnable de considérer comme se rapportant à ces activités compte tenu du temps que l’employé y consacre.
+- **(4)** Pour l’application de la définition de ***dépense admissible***, au paragraphe 127(9) de la Loi, le montant de remplacement applicable à un contribuable quant à une entreprise pour une année d’imposition à l’égard de laquelle il fait le choix prévu à la division 37(8)a)(ii)(B) de la Loi est égal à 55 % du total des montants représentant chacun la partie du montant qu’il a engagé au cours de l’année, au titre du traitement ou du salaire de son employé qui participe directement à des activités de recherche scientifique et de développement expérimental exercées au Canada, qu’il est raisonnable de considérer comme se rapportant à ces activités compte tenu du temps que l’employé y consacre.
 
 - **(5)** Pour l’application du paragraphe (4) mais sous réserve des paragraphes (6) à (8), la partie d’une dépense devient le montant de la dépense si elle en constitue la totalité, ou presque.
 
-- **(6)** Le montant qui constitue, selon le paragraphe (4), le montant de remplacement applicable à un contribuable pour une année d’imposition quant à une entreprise ne peut dépasser l’excédent éventuel :
+- **(6)** Le montant qui constitue, selon le paragraphe (4), le montant de remplacement applicable à un contribuable pour une année d’imposition quant à une entreprise ne peut dépasser l’excédent éventuel :
 	- **a)** du total des montants déduits dans le calcul de son revenu pour l’année tiré de l’entreprise,
-sur le total des montants représentant chacun :
+sur le total des montants représentant chacun :
 	- **b)** un montant déduit, en application d’un des articles 20, 24, 26, 30, 32, 37, 66 à 66.8 et 104 de la Loi, dans le calcul de son revenu pour l’année tiré de l’entreprise,
 	- **c)** un montant engagé par lui au cours de l’année relativement à une dépense engagée ou effectuée pour l’usage ou le droit d’usage d’un bâtiment autre qu’un bâtiment destiné à une fin particulière.
 
-- **(7)** Aux fins du calcul du montant de remplacement applicable à un contribuable pour une année d’imposition, la fraction du montant engagé par lui au cours de l’année, au titre du traitement ou du salaire d’un employé déterminé de celui-ci, qui est incluse dans le calcul du total visé au paragraphe (4) ne peut excéder le moins élevé des montants suivants :
-	- **a)** 75 % du montant engagé par lui au cours de l’année au titre du traitement ou du salaire de l’employé;
-	- **b)** le résultat du calcul suivant :
+- **(7)** Aux fins du calcul du montant de remplacement applicable à un contribuable pour une année d’imposition, la fraction du montant engagé par lui au cours de l’année, au titre du traitement ou du salaire d’un employé déterminé de celui-ci, qui est incluse dans le calcul du total visé au paragraphe (4) ne peut excéder le moins élevé des montants suivants :
+	- **a)** 75 % du montant engagé par lui au cours de l’année au titre du traitement ou du salaire de l’employé;
+	- **b)** le résultat du calcul suivant :
 ```
 2,5 × A × B / 365
 ```
@@ -8551,33 +8567,33 @@ où
 - **A** représente le maximum des gains annuels ouvrant droit à pension (déterminé selon l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)) pour l’année civile où se termine l’année d’imposition;
 - **B** le nombre de jours de l’année d’imposition où l’employé est à son service.
 
-- **(8)** Dans le cas où les conditions suivantes sont réunies :
+- **(8)** Dans le cas où les conditions suivantes sont réunies :
 	- **a)** un contribuable est une société,
 	- **b)** au cours d’une année d’imposition qui se termine dans une année civile, le contribuable est l’employeur d’un particulier qui est son employé déterminé,
 	- **c)** le contribuable est associé à une société (appelé « société associée » au présent paragraphe) au cours d’une année d’imposition de celle-ci qui se termine dans l’année civile,
 	- **d)** le particulier est l’employé de la société associée au cours de l’année d’imposition de celle-ci qui se termine dans l’année civile,
 le total des montants au titre du traitement ou du salaire du particulier qui peuvent être inclus dans le calcul du total visé au paragraphe (4) par le contribuable et les sociétés associées, pour leur année d’imposition respective qui se termine dans l’année civile, ne peut excéder le produit de la multiplication de 2,5 par le maximum des gains annuels ouvrant droit à pension (déterminé selon l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)) pour l’année civile.
 
-- **(9)** Pour l’application des paragraphes (4) et (7), sont exclus du montant engagé au titre du traitement ou du salaire d’un employé au cours d’une année d’imposition :
+- **(9)** Pour l’application des paragraphes (4) et (7), sont exclus du montant engagé au titre du traitement ou du salaire d’un employé au cours d’une année d’imposition :
 	- **a)** les montants visés aux articles 6 ou 7 de la Loi;
 	- **b)** la somme réputée engagée selon le paragraphe 78(4) de la Loi;
 	- **c)** les gratifications;
 	- **d)** la rémunération fondée sur les bénéfices.
 
-- **(10)** Pour l’application du paragraphe (8), sont réputés être des sociétés associées à une société donnée :
+- **(10)** Pour l’application du paragraphe (8), sont réputés être des sociétés associées à une société donnée :
 	- **a)** les particuliers liés à la société donnée;
 	- **b)** les sociétés de personnes dont un ou plusieurs des associés sont soit des particuliers liés à la société donnée, soit des sociétés associées à celle-ci.
 
-- **(11)** Les biens amortissables d’un contribuable visés pour l’application de la définition de ***matériel à vocations multiples de première période***, au paragraphe 127(9) de la Loi, sont les suivants :
+- **(11)** Les biens amortissables d’un contribuable visés pour l’application de la définition de ***matériel à vocations multiples de première période***, au paragraphe 127(9) de la Loi, sont les suivants :
 	- **a)** un bâtiment du contribuable;
 	- **b)** un droit de tenure à bail du contribuable dans un bâtiment;
-	- **c)** un bien qui, d’après l’intention du contribuable ou d’une personne liée à celui-ci, au moment de son acquisition par le contribuable, devait, d’une part, être utilisé pour des activités de recherche scientifique et de développement expérimental pendant l’assemblage, la construction ou la mise en service d’une installation, d’une usine ou d’une chaîne servant à la fabrication commerciale, à la transformation commerciale ou à une autre fin commerciale (sauf des activités de recherche scientifique et de développement expérimental) et, d’autre part :
+	- **c)** un bien qui, d’après l’intention du contribuable ou d’une personne liée à celui-ci, au moment de son acquisition par le contribuable, devait, d’une part, être utilisé pour des activités de recherche scientifique et de développement expérimental pendant l’assemblage, la construction ou la mise en service d’une installation, d’une usine ou d’une chaîne servant à la fabrication commerciale, à la transformation commerciale ou à une autre fin commerciale (sauf des activités de recherche scientifique et de développement expérimental) et, d’autre part :
 		- **(i)** soit être principalement utilisé pendant son temps d’exploitation, au cours de sa vie utile prévue, autrement que pour des activités de recherche scientifique et de développement expérimental,
 		- **(ii)** soit, pour ce qui est de sa valeur, être consommé principalement au cours d’activités autres que des activités de recherche scientifique et de développement expérimental;
-	- **d)** une partie de bien qui, d’après l’intention du contribuable ou d’une personne liée à celui-ci, au moment de son acquisition par le contribuable, devait, d’une part, être utilisée pour des activités de recherche scientifique et de développement expérimental pendant l’assemblage, la construction ou la mise en service d’une installation, d’une usine ou d’une chaîne servant à la fabrication commerciale, à la transformation commerciale ou à une autre fin commerciale (sauf des activités de recherche scientifique et de développement expérimental) et, d’autre part :
+	- **d)** une partie de bien qui, d’après l’intention du contribuable ou d’une personne liée à celui-ci, au moment de son acquisition par le contribuable, devait, d’une part, être utilisée pour des activités de recherche scientifique et de développement expérimental pendant l’assemblage, la construction ou la mise en service d’une installation, d’une usine ou d’une chaîne servant à la fabrication commerciale, à la transformation commerciale ou à une autre fin commerciale (sauf des activités de recherche scientifique et de développement expérimental) et, d’autre part :
 		- **(i)** soit être principalement utilisée pendant son temps d’exploitation, au cours de sa vie utile prévue, autrement que pour des activités de recherche scientifique et de développement expérimental,
 		- **(ii)** soit, pour ce qui est de sa valeur, être consommée principalement au cours d’activités autres que des activités de recherche scientifique et de développement expérimental.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-749, art. 1; DORS/86-1136, art. 3 et 4; DORS/94-686, art. 53(F); DORS/95-63, art. 1; DORS/2000-296, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-749, art. 1; DORS/86-1136, art. 3 et 4; DORS/94-686, art. 53(F); DORS/95-63, art. 1; DORS/2000-296, art. 1; 2012, ch. 31, art. 62.
 
 
 
@@ -8621,24 +8637,19 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 		- **(G)** une cotisation ou des droits à titre de membre d’une société ou d’un organisme scientifique ou technique, ou
 		- **(H)** une amende ou une peine, ou
 	- **(ii)** la préservation générale ou l’entretien de locaux, d’installations et de matériel, dans la mesure où ces dépenses ne sont pas imputables à la poursuite d’activités de recherche scientifique et de développement expérimental;
-- **b)** une dépense en capital engagée par un contribuable
-	- **(i)** pour l’acquisition de biens, sauf une telle dépense qui, au moment où elle est engagée :
-		- **(A)** soit vise du matériel à vocations multiples de première période ou du matériel à vocations multiples de deuxième période,
-		- **(B)** soit sert à la fourniture de locaux, d’installations ou de matériel qui, au moment de leur acquisition, répondent à l’une des conditions suivantes :
-			- **(I)** ils sont censés être utilisés pendant la totalité, ou presque, de leur temps d’exploitation, au cours de leur vie utile prévue, pour des activités de recherche scientifique et de développement expérimental au Canada,
-			- **(II)** la totalité, ou presque, de leur valeur est censée être consommée au cours d’activités de recherche scientifique et de développement expérimental au Canada,
-	- **(ii)** pour l’acquisition d’un bien qui est un bien admissible selon le paragraphe 127(9) de la Loi,
-	- **(iii)** pour l’acquisition d’un bien utilisé ou acquis pour être utilisé ou loué à quelque fin que ce soit avant son acquisition par le contribuable;
+- **b)** une dépense engagée par un contribuable pour l’acquisition d’un des biens suivants :
+	- **(i)** un bien qui est un bien admissible ou un bien minier admissible, au sens du paragraphe 127(9) de la Loi,
+	- **(ii)** un bien qui a été utilisé, ou acquis en vue d’être utilisé ou loué, à une fin quelconque avant son acquisition par le contribuable;
 - **c)** une dépense faite pour l’acquisition de droits dans des activités de recherche scientifique et de développement expérimental ou découlant de telles activités;
 - **d)** une dépense afférente aux activités de recherche scientifique et de développement expérimental pour laquelle un montant est déductible en application des articles 110.1 ou 118.1 de la Loi,
-- **e)** une dépense de nature courante ou en capital, pour laquelle le contribuable a reçu ou a le droit de recevoir un remboursement
+- **e)** une dépense d’un contribuable, dans la mesure où il a reçu ou a le droit de recevoir un remboursement relativement à la dépense :
 	- **(i)** d’une personne résidant au Canada, autre que
 		- **(A)** Sa Majesté du chef du Canada ou d’une province,
 		- **(B)** un mandataire de Sa Majesté du chef du Canada ou d’une province,
 		- **(C)** une société, commission ou association contrôlée, directement ou indirectement, de quelque façon que ce soit, par Sa Majesté du chef du Canada ou d’une province ou par un mandataire de Sa Majesté du chef du Canada ou d’une province, ou
 		- **(D)** une municipalité au Canada ou un organisme municipal ou public remplissant une fonction gouvernementale au Canada, ou
 	- **(ii)** une personne ne résidant pas au Canada, dans la mesure ou ce remboursement peut être déduit par la personne, lors du calcul de son revenu imposable gagné au Canada pour toute année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-749, art. 3; DORS/86-488, art. 3; DORS/86-1136, art. 3 et 6; DORS/88-165, art. 15; DORS/94-140, art. 5; DORS/94-686, art. 53(F), 63(F) et 79(F); DORS/95-63, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-749, art. 3; DORS/86-488, art. 3; DORS/86-1136, art. 3 et 6; DORS/88-165, art. 15; DORS/94-140, art. 5; DORS/94-686, art. 53(F), 63(F) et 79(F); DORS/95-63, art. 2; 2012, ch. 31, art. 63.
 
 
 
@@ -8647,12 +8658,8 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 ### Bâtiments destinés à une fin particulière
 
 
-**2903** Pour l’application de la présente partie ainsi que de l’alinéa 37(8)d) de la Loi, est un bâtiment destiné à une fin particulière le bâtiment dont les aires de travail sont conçues et construites de telle sorte que leur déplacement, dans toute direction, ne dépasse pas 0,02 micromètre et que l’air intérieur de celles-ci ne contienne, par 0,028 mètre cube d’air :
-- **a)** pas plus de 350 particules en suspension d’un diamètre égal ou inférieur à 0,1 micromètre et aucune particule d’un diamètre supérieur à 0,1 micromètre;
-- **b)** pas plus de 75 particules en suspension d’un diamètre égal ou inférieur à 0,2 micromètre et aucune particule d’un diamètre supérieur à 0,2 micromètre;
-- **c)** pas plus de 30 particules en suspension d’un diamètre égal ou inférieur à 0,3 micromètre et aucune particule d’un diamètre supérieur à 0,3 micromètre;
-- **d)** pas plus de 10 particules en suspension d’un diamètre égal ou inférieur à 0,5 micromètre et aucune particule d’un diamètre supérieur à 0,5 micromètre.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-602, art. 1; DORS/95-63, art. 3.
+**2903** [Abrogé, 2012, ch. 31, art. 64]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-602, art. 1; DORS/95-63, art. 3; 2012, ch. 31, art. 64.
 
 
 
@@ -9207,17 +9214,18 @@ où :
 ### Taux d’intérêt prescrit
 
 
-**4301** Sous réserve de l’article 4302, le taux d’intérêt applicable à un trimestre donné est :
-- **a)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer au receveur général, le total des taux suivants :
+**4301** Sous réserve de l’article 4302, le taux d’intérêt applicable à un trimestre donné est :
+- **a)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer au receveur général, le total des taux suivants :
 	- **(i)** le taux qui représente la moyenne arithmétique simple, exprimée en pourcentage annuel et arrondie au point de pourcentage supérieur, des pourcentages dont chacun représente le taux de rendement moyen, exprimé en pourcentage annuel, des bons du Trésor du gouvernement du Canada qui arrivent à échéance environ trois mois après la date de leur émission et qui sont vendus au cours d’adjudication de bons du Trésor pendant le premier mois du trimestre qui précède le trimestre donné,
 	- **(ii)** 4 pour cent;
-- **b)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer ou à imputer sur un montant que le ministre verse à un contribuable, le total des taux suivants :
+- **b)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer ou à imputer sur un montant que le ministre verse à un contribuable, le total des taux suivants :
 	- **(i)** le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné,
 	- **(ii)** selon le cas :
 		- **(A)** si le contribuable est une société, 0 %,
 		- **(B)** dans les autres cas, 2 %;
+- **b.1)** pour l’application du paragraphe 17.1(1) de la Loi, le taux qui serait déterminé selon le sous-alinéa a)(i) pour le trimestre donné si le passage « arrondie au point de pourcentage supérieur » était remplacé par « arrondie à deux décimales »;
 - **c)** pour l’application des autres dispositions de la Loi qui font mention d’un taux d’intérêt prescrit, le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-372, art. 2; DORS/87-639, art. 1; DORS/89-462, art. 1; DORS/95-285, art. 1; DORS/97-557, art. 4; 2010, ch. 12, art. 23.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-372, art. 2; DORS/87-639, art. 1; DORS/89-462, art. 1; DORS/95-285, art. 1; DORS/97-557, art. 4; 2010, ch. 12, art. 23; 2012, ch. 31, art. 65.
 
 
 
@@ -9276,11 +9284,11 @@ où :
 
 **4600** 
 
-- **(1)** Sont des bâtiments prescrits pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable qui sont des bâtiments ou silos construits sur un fonds de terre dont le contribuable est propriétaire ou preneur et qui sont :
+- **(1)** Sont des bâtiments visés pour l’application des définitions de ***bien admissible*** et ***bien minier admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable qui sont des bâtiments ou des silos construits sur un fonds de terre dont le contribuable est propriétaire ou preneur et qui sont :
 	- **a)** soit compris dans la catégorie 1, 3, 6, 20, 24 ou 27 ou à l’alinéa c), d) ou e) de la catégorie 8 de l’annexe II;
 	- **b)** soit compris à l’alinéa g) de la catégorie 10 de l’annexe II ou qui le seraient s’il était fait abstraction des catégories 28, 41 ou 41.1 de l’annexe II.
 
-- **(2)** Sont des machines prescrites ou constituent du matériel prescrit pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables suivants du contribuable qui ne sont pas déjà visés au paragraphe (1) :
+- **(2)** Sont des machines ou du matériel visés pour l’application des définitions de ***bien admissible*** et ***bien minier admissible***, au paragraphe 127(9) de la Loi, les biens amortissables ci-après du contribuable qui ne sont pas déjà visés au paragraphe (1) :
 	- **a)** des biens compris à l’alinéa k) de la catégorie 1 ou à l’alinéa a) de la catégorie 2 de l’annexe II;
 	- **b)** un réservoir d’entreposage d’eau ou de pétrole;
 	- **c)** des biens compris dans la catégorie 8 de l’annexe II (à l’exclusion du matériel roulant de chemin de fer);
@@ -9295,7 +9303,9 @@ où :
 	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
 	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie;
 	- **n)** des biens compris dans la catégorie 43.2 de l’annexe II par l’effet de son alinéa a).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5.
+
+- **(3)** Sont des biens pour la production et l’économie d’énergie visés pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable, sauf ceux visés aux paragraphes (1) et (2), qui sont visés au sous-alinéa a.1)(i) de la catégorie 17 de l’annexe II ou compris dans les catégories 43.1, 43.2 ou 48 de cette annexe.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5; 2012, ch. 31, art. 66.
 
 
 
@@ -9686,6 +9696,7 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **c)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi et dont les activités principales consistent à administrer, gérer ou placer les fonds d’un régime ou d’une caisse de pensions constitué en vertu d’une loi provinciale ou d’un décret ou règlement pris en application d’une telle loi;
 	- **c.1)** l’Office d’investissement du régime de pensions du Canada;
 	- **c.2)** l’Office d’investissement des régimes de pensions du secteur public;
+	- **c.3)** les régimes de pension agréés collectifs;
 	- **d)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi en rapport avec un régime ou programme d’indemnisation des travailleurs blessés lors d’un accident survenu par le fait ou à l’occasion de leur travail;
 	- **e)** Sa Majesté du chef d’une province;
 	- **f)** une fiducie dont les bénéficiaires sont constitués d’une ou plusieurs des entités suivantes :
@@ -9702,13 +9713,13 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **b)** sa seule entreprise consiste à investir ses fonds;
 	- **c)** elle n’a jamais contracté d’emprunts d’argent autres que des emprunts d’une durée d’au plus 90 jours et il est établi que ces emprunts ne faisaient pas partie d’une série d’emprunts — ou d’autres opérations — et de remboursements;
 	- **d)** elle n’a jamais accepté de dépôts;
-	- **e)** chacun de ses bénéficiaires est une fiducie régie par un régime de pension agréé ou par un régime de participation différée aux bénéfices.
+	- **e)** chacun de ses bénéficiaires est une fiducie régie par un régime de participation différée aux bénéfices, un régime de pension agréé ou un régime de pension agréé collectif.
 
 - **(2)** Pour l’application de l’alinéa 149(1)t) de la Loi, les assureurs visés sont :
 	- **a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.;
 	- **c)** Laurentienne Agricole, Compagnie d’Assurance inc.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5; DORS/2011-188, art. 18.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5; DORS/2011-188, art. 18; 2012, ch. 31, art. 67.
 
 
 
@@ -13573,14 +13584,14 @@ où :
 ### Établissements stables
 
 
-**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), du paragraphe 34.2(6), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
+**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 100(1.3), 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
 - **a)** si la personne exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi à un endroit donné, qui a l’autorisation générale de passer des contrats pour la personne ou qui dispose d’un stock de marchandises appartenant à celle-ci et à partir duquel il remplit régulièrement les commandes, son établissement stable est réputé situé à cet endroit;
 - **b)** si la personne est une compagnie d’assurance, elle est réputée avoir un établissement stable dans chaque pays où elle est enregistrée ou détient un permis d’exercice;
 - **c)** si la personne utilise des machines ou du matériel importants dans un endroit donné au cours d’une année d’imposition, son établissement stable est réputé situé à cet endroit;
 - **d)** le fait que la personne a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 - **e)** si la personne est une société, le fait qu’elle a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
 Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un traité fiscal dans lequel le terme « établissement stable » a un sens particulier, ce terme a ce sens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25; 2012, ch. 31, art. 68.
 
 
 
@@ -15587,7 +15598,7 @@ pour déterminer si les prestations accessoires sont permises selon la présente
 	- **(i)** un montant qu’un participant verse conformément au régime tel qu’il est agréé, et qui est porté au crédit du compte du participant au titre d’une disposition à cotisations déterminées du régime ou versé au titre des prestations prévues pour le participant par une disposition à prestations déterminées du régime,
 	- **(ii)** un montant qu’un employeur verse pour ses employés actuels ou anciens conformément à une disposition à cotisations déterminées du régime tel qu’il est agréé,
 	- **(iii)** une cotisation admissible qu’un employeur verse pour ses employés actuels ou anciens aux termes d’une disposition à prestations déterminées du régime,
-	- **(iv)** un montant transféré au régime en conformité avec les paragraphes 146(16), 146.3(14.1), 147(19) ou 147.3(1) à (8) de la Loi,
+	- **(iv)** une somme transférée au régime en conformité avec l’un des paragraphes 146(16), 146.3(14.1), 147(19), 147.3(1) à (8) et 147.5(21) de la Loi,
 	- **(v)** un montant, que le ministre juge acceptable, transféré au régime d’un régime de pension principalement maintenu au profit de personnes non résidantes pour des services rendus à l’étranger;
 pour l’application du présent alinéa,
 	- **(vi)** la cotisation versée par un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension constitue une cotisation admissible lorsqu’elle est une cotisation admissible par application du paragraphe 147.2(2) de la Loi ou, étant une cotisation versée à un régime dont Sa Majesté du chef du Canada ou d’une province est un employeur participant, constituerait une cotisation admissible par application de ce paragraphe si tous les montants portés au crédit du régime dans les comptes du Canada ou de la province étaient exclus de l’actif du régime,
@@ -15668,7 +15679,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34; 2011, ch. 24, art. 95; DORS/2011-188, art. 26.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34; 2011, ch. 24, art. 95; DORS/2011-188, art. 26; 2012, ch. 31, art. 69.
 
 
 
@@ -21757,7 +21768,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(ix)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie thermique par la consommation d’un combustible résiduaire admissible, et qui utilise seulement un combustible résiduaire admissible ou un combustible fossile, à condition que l’énergie thermique soit utilisée directement dans un procédé industriel ou une serre, y compris le matériel de ce type qui consiste en matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible, du matériel générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
+**(ix)** du matériel que le contribuable, ou son preneur, utilise dans le seul but de produire de l’énergie thermique principalement par la consommation d’un combustible résiduaire admissible, et qui utilise seulement un combustible résiduaire admissible ou un combustible fossile, y compris le matériel de ce type qui consiste en matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion du matériel qui sert à produire de l’énergie thermique pour faire fonctionner du matériel générateur d’électricité, des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -21819,7 +21830,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(B)** fait partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel qui est visé aux sous-alinéas (i) ou (iv) ou qui y serait visé s’il appartenait au contribuable,
+**(B)** fait partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel qui est visé aux sous-alinéas (i), (iv) ou (ix) ou qui y serait visé s’il appartenait au contribuable,
 
 
 
@@ -21870,7 +21881,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70..
 
 
 
