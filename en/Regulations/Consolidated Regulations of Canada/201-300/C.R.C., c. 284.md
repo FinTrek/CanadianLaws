@@ -265,25 +265,25 @@ Enabling authorities:
 
 - **(1)** The Director may suspend the registration of a registered egg station
 	- **(a)** if any of the following situations exists, namely,
-		- **(i)** the egg station does not meet the requirements of the Act or these Regulations or of any other federal legislation applicable to it,
+		- **(i)** the egg station does not meet the requirements of the Act or these Regulations,
 		- **(ii)** the operator does not comply with the provisions of the Act or these Regulations or of any other federal legislation applicable to the operator in respect of their operation of the egg station, or
-		- **(iii)** the operator has failed to pay a fee prescribed by the *Canadian Food Inspection Agency Fees Notice* in accordance with the conditions of payment prescribed by that Notice; and
-	- **(b)** if the operator has failed to remedy any situation identified in the inspection report provided under paragraph (2)(a) by the deadline specified for doing so in accordance with paragraph (2)(b).
+		- **(iii)** the operator has failed to pay a fee prescribed by the Canadian Food Inspection Agency Fees Notice in accordance with the conditions of payment prescribed by that Notice; and
+	- **(b)** if the operator has failed to remedy any situation identified in the inspection report provided under paragraph (2)(a) by the deadline specified for doing so in accordance with paragraph (2)(b).
 
-- **(2)** No registration shall be suspended under subsection (1) unless
-	- **(a)** the operator is provided with a copy of an inspection report prepared by an inspector that identifies a situation set out in paragraph (1)(a);
+- **(2)** No registration shall be suspended under subsection (1) unless
+	- **(a)** the operator is provided with a copy of an inspection report prepared by an inspector that identifies a situation set out in paragraph (1)(a);
 	- **(b)** the inspector has specified, in writing to the operator, the deadline by which the situation must be remedied to avoid suspension; and
 	- **(c)** a notice of suspension of registration is delivered to the operator.
 
-- **(2.1)** Despite subsections (1) and (2), if public health will be endangered if a registered egg station is allowed to continue operating, the Director may, on delivery to the operator of an inspection report setting out the situation and a notice of suspension of registration, suspend the registration of the egg station effective immediately.
+- **(2.1)** Despite subsections (1) and (2), if public health will be endangered if a registered egg station is allowed to continue operating, the Director may, on delivery to the operator of an inspection report setting out the situation and a notice of suspension of registration, suspend the registration of the egg station effective immediately.
 
-- **(2.2)** When the registration of a registered egg station is suspended under subsection (2.1), the inspector shall without delay specify in writing to the operator the deadline by which the situation must be remedied to avoid cancellation of that registration.
+- **(2.2)** When the registration of a registered egg station is suspended under subsection (2.1), the inspector shall without delay specify in writing to the operator the deadline by which the situation must be remedied to avoid cancellation of that registration.
 
-- **(3)** A suspension of registration under subsection (1) shall remain in effect
+- **(3)** A suspension of registration under subsection (1) shall remain in effect
 	- **(a)** until the required corrective measures have been taken and have been verified by an inspector; or
-	- **(b)** where a cancellation procedure has been commenced under section 7.2, until the resolution of the cancellation issue.
-	- **(c)** [Repealed, SOR/2006-193, s. 3]
-> SOR/90-110, s. 3; SOR/96-124, s. 1; SOR/2000-183, s. 1; SOR/2006-193, s. 3.
+	- **(b)** where a cancellation procedure has been commenced under section 7.2, until the resolution of the cancellation issue.
+	- **(c)** [Repealed, SOR/2006-193, s. 3]
+> SOR/90-110, s. 3; SOR/96-124, s. 1; SOR/2000-183, s. 1; SOR/2006-193, s. 3; SOR/2012-286, s. 32.
 
 
 
@@ -294,16 +294,14 @@ Enabling authorities:
 
 **7.2** 
 
-- **(1)** The Director may cancel the registration of a registered egg station where
+- **(1)** The Director may, by delivering a notice of cancellation to the operator, cancel the registration of a registered egg station where
 	- **(a)** the operator has not remedied the situation,
-		- **(i)** if the registration of the egg station was suspended under subsection 7.1(1), within the 30-day period following the day on which the registration was suspended, or
-		- **(ii)** if the registration of the egg station was suspended under subsection 7.1(2.1), by the deadline referred to in subsection 7.1(2.2); or
+		- **(i)** if the registration of the egg station was suspended under subsection 7.1(1), within the 30-day period following the day on which the registration was suspended, or
+		- **(ii)** if the registration of the egg station was suspended under subsection 7.1(2.1), by the deadline referred to in subsection 7.1(2.2); or
 	- **(b)** the application for registration contains false or misleading information.
 
-- **(2)** No registration shall be cancelled unless
-	- **(a)** the operator was advised of an opportunity to be heard in respect of the cancellation and was given that opportunity; and
-	- **(b)** a notice of cancellation of registration was delivered to the operator.
-> SOR/90-110, s. 3; SOR/2006-193, s. 4.
+- **(2)** No registration shall be cancelled unless the operator was advised of an opportunity to be heard in respect of the cancellation and was given that opportunity.
+> SOR/90-110, s. 3; SOR/2006-193, s. 4; SOR/2012-286, s. 33.
 
 
 
@@ -506,7 +504,9 @@ Enabling authorities:
 
 
 
-**13** In this Part, ***clean*** means free from dirt, residue of eggs and of all markings, tags and staples previously applied.
+**13** In this Part, ***clean*** means free from dirt and egg residue and free of all markings, labels and staples previously applied.
+> SOR/2012-286, s. 34(E).
+
 
 
 
@@ -598,29 +598,29 @@ Enabling authorities:
 
 - **(1)** The markings referred to in this Part shall, except in the case of a tray with an overwrap or a carton, be
 	- **(a)** printed, stamped or stencilled in a central location on one of the four sides of every box, case or other receptacle; or
-	- **(b)** printed on a tag that is securely affixed in a central location to one of the four sides of every box, case or other receptacle.
+	- **(b)** printed on a label that is securely affixed in a central location to one of the four sides of every box, case or other receptacle.
 
-- **(2)** The tag referred to in paragraph (1)(b) shall be not less than 75 mm in width and not less than 150 mm in length.
+- **(2)** The label referred to in paragraph (1)(b) shall be not less than 75 mm in width and not less than 150 mm in length.
 
 **TABLE** 
 ## [Repealed, SOR/92-70, s. 5]
 
-> SOR/90-299, s. 7; SOR/92-70, s. 5; SOR/98-131, s. 7; SOR/2006-193, s. 9.
+> SOR/90-299, s. 7; SOR/92-70, s. 5; SOR/98-131, s. 7; SOR/2006-193, s. 9; SOR/2012-286, s. 35(E).
 
 
 
 
 **20** 
 
-- **(1)** The letters and numbers marked on every container, other than a tray with an overwrap or a carton, and on every tag shall be
-	- **(a)** subject to paragraph (b), not less than 13 mm in height for the grade name and the words “eggs” and “*oeufs*”, “Product of Canada” and “*Produit du Canada*”, “ungraded eggs” or “*oeufs non classés*” and “dyed” or “*teints*”;
+- **(1)** The letters and numbers marked on every container, other than a tray with an overwrap or a carton, and on every label shall be
+	- **(a)** subject to paragraph (b), not less than 13 mm in height for the grade name and the words “eggs” and “*oeufs*”, “Product of Canada” and “*Produit du Canada*”, “ungraded eggs” or “*oeufs non classés*” and “dyed” or “*teints*”;
 	- **(b)** where the grade name is marked within the outline of a maple leaf, not less than
-		- **(i)** 6 mm in height for the word “Canada”, and
-		- **(ii)** 13 mm in height for the remainder of the grade name, the size designation of the eggs and the words “eggs” and “*oeufs*” and “Product of Canada” and “*Produit du Canada*”; and
-	- **(c)** not less than 6 mm in height for all other letters and numbers.
+		- **(i)** 6 mm in height for the word “Canada”, and
+		- **(ii)** 13 mm in height for the remainder of the grade name, the size designation of the eggs and the words “eggs” and “*oeufs*” and “Product of Canada” and “*Produit du Canada*”; and
+	- **(c)** not less than 6 mm in height for all other letters and numbers.
 
 - **(2)** The words “Product of Canada” and “*Produit du Canada*” shall be marked immediately beneath the words “eggs” and “*oeufs*” on the container.
-> SOR/81-1007, s. 7; SOR/98-131, s. 8; SOR/2006-193, s. 10.
+> SOR/81-1007, s. 7; SOR/98-131, s. 8; SOR/2006-193, s. 10; SOR/2012-286, s. 36(E).
 
 
 
