@@ -3894,11 +3894,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <a name='fn_Ind1FA3_hq_12929'><sup>*</sup></a>: [Note : Articles 605 et 607 non en vigueur.]<br />
 
-**1<sup>er</sup> janvier**
+**Décret**
 
-- <sup><a href='#fn_Ind311D_hq_12953'>[*]</a></sup>**(3)** Les paragraphes 609(2) et (6), 610(2) et 611(2) entrent en vigueur le 1<sup>er</sup> janvier de la première année à l’égard de laquelle l’Office de financement de l’assurance-emploi du Canada annonce que, avant la fin de cette année, selon les projections de l’actuaire en chef, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 sera égal ou supérieur au total des sommes portées au débit de ce compte après cette date.
+- <sup><a href='#fn_Ind311D_hq_12953'>[*]</a></sup>**(3)** Les paragraphes 609(2) et (6), 610(2) et 611(2) entrent en vigueur à la date fixée par décret.
 
 <a name='fn_Ind311D_hq_12953'><sup>*</sup></a>: [Note : Paragraphes 609(2) et (6), 610(2) et 611(2) non en vigueur.]<br />
+> 2012, ch. 19, art. 619, ch. 31, art. 451.
+
 
 
 
