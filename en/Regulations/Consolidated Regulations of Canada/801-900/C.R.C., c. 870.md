@@ -6979,12 +6979,16 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 **B.02.030** **[S]. Rum**
-- **(a)** shall be a potable alcoholic distillate, or a mixture of potable alcoholic distillates, obtained from sugar-cane or sugar-cane products fermented by the action of yeast or a mixture of yeast and other micro-organisms; and
+- **(a)** shall be a potable alcoholic distillate, or a mixture of potable alcoholic distillates, obtained from sugar-cane or sugar-cane products fermented by the action of yeast or a mixture of yeast and other micro-organisms;
 - **(b)** may contain
 	- **(i)** caramel,
 	- **(ii)** fruit and other botanical substances, and
-	- **(iii)** flavouring and flavouring preparations.
-> SOR/93-145, s. 13.
+	- **(iii)** flavouring and flavouring preparations; and
+- **(c)** if it is imported in bulk for the purpose of bottling and sale in Canada as imported rum, may only be
+	- **(i)** modified by adding distilled or otherwise purified water to adjust the rum to the strength stated on the label applied to the container,
+	- **(ii)** modified by adding caramel, or
+	- **(iii)** blended with other imported rum or, in the case of rum sold as Caribbean rum, with other rum.
+> SOR/93-145, s. 13; SOR/2012-292, s. 1.
 
 
 
@@ -7003,26 +7007,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**B.02.033** No person shall blend or modify in any manner any rum that is imported in bulk for the purpose of bottling and sale in Canada as imported rum except by
-- **(a)** blending with other imported rum,
-- **(b)** adding distilled or otherwise purified water to adjust the rum to the strength stated on the label applied to the container; or
-- **(c)** the addition of caramel.
-> SOR/89-127, s. 1.
+**B.02.033** [Repealed, SOR/2012-292, s. 2]
 
 
 
-
-**B.02.034** 
-
-- **(1)** Notwithstanding section B.02.033, no person shall blend or modify in any manner any rum made from sugar cane products of a Commonwealth Caribbean country that has been distilled and fermented in a Commonwealth Caribbean country and imported in bulk from a Commonwealth Caribbean Country for bottling and sale in Canada as Caribbean rum except by
-	- **(a)** blending with other rum of a Commonwealth Caribbean country;
-	- **(b)** blending with Canadian rum in proportions that result in one to 1.5 per cent Canadian rum by volume in the final product;
-	- **(c)** adding distilled or otherwise purified water to adjust the rum to the strength stated on the label applied to the container; or
-	- **(d)** adding caramel.
-
-- **(2)** In this section, ***Commonwealth Caribbean country*** means Anguilla, Antigua and Barbuda, Barbados, the Bahamas, Belize, Bermuda, the British Virgin Islands, the Caymen Islands, Dominica, Grenada, Guyana, Jamaica, Montserrat, St. Christopher and Nevis, Saint Lucia, St. Vincent and the Grenadines, Trinidad and Tobago and the Turks and Caicos Islands.
-> SOR/89-127, s. 2.
-
+**B.02.034** [Repealed, SOR/2012-292, s. 2]
 
 
 
