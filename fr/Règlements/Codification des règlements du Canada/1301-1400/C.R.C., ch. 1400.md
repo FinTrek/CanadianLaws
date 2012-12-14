@@ -753,13 +753,13 @@ Autorités habilitantes :
 - **(1)** Tout emballage d’un mélange de graminées à pelouse ou à gazon doit être muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 	- **b)** la dénomination de catégorie de la semence;
-	- **c)** lorsque l’emballage contient plus de 5 kg de semences, le nom de chaque sorte ou espèce — et de chaque variété de semence, le cas échéant — qui constitue :
+	- **c)** lorsque l’emballage contient plus de 5 kg de semence, le nom de chaque sorte ou espèce — et de chaque variété de semence, le cas échéant — qui constitue :
 		- **(i)** cinq pour cent ou plus, en poids, du mélange,
 		- **(ii)** trois pour cent ou plus, en poids, du mélange, s’il s’agit d’agrostides,
 		- **(iii)** deux pour cent ou plus, en poids, du mélange, s’il s’agit de trèfle blanc.
 
 - **(2)** Lorsque le nom d’une sorte, espèce ou variété de semence contenue dans un mélange de graminées à pelouse ou à gazon est indiqué sur une étiquette, à l’exclusion des autres sortes, espèces et variétés du mélange ou de façon à ressortir, le pourcentage, en poids, de cette sorte, espèce ou variété doit également y figurer, en caractères de même grosseur et de même couleur que ceux du nom.
-> DORS/79-367, art. 7; DORS/96-252, art. 2; DORS/2007-223, art. 14.
+> DORS/79-367, art. 7; DORS/96-252, art. 2; DORS/2007-223, art. 14; DORS/2012-286, art. 4(F).
 
 
 
@@ -891,10 +891,10 @@ Autorités habilitantes :
 
 **35** 
 
-- **(1)** Sous réserve de l’article 37, l’emballage de semence d’une variété classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de variété non enregistrée si la semence :
-	- **a)** d’une part, est d’une sorte, espèce ou variété qui n’est pas soustraite à l’enregistrement en vertu de l’article 65;
-	- **b)** d’autre part, est d’une variété qui n’est pas enregistrée conformément à la partie III;
-	- **c)** est vendue au Canada.
+- **(1)** Sous réserve de l’article 37, l’emballage de semence d’une variété classée sous une dénomination de la catégorie Canada généalogique est scellé et muni d’une étiquette de variété non enregistrée si la semence est, selon le cas :
+	- **a)** d’une sorte, espèce ou variété qui n’est pas soustraite à l’enregistrement en vertu de l’article 65;
+	- **b)** d’une variété qui n’est pas enregistrée conformément à la partie III;
+	- **c)** vendue au Canada.
 
 - **(2)** L’étiquette de variété non enregistrée doit porter :
 	- **a)** le nom de sorte ou d’espèce de la semence;
@@ -903,7 +903,7 @@ Autorités habilitantes :
 	- **d)** le numéro du lot;
 	- **e)** le numéro du certificat de récolte;
 	- **f)** si la semence provient d’une récolte non cultivée au Canada, l’État ou le pays de l’agence officielle de certification et le numéro de référence généalogique de l’agence.
-> DORS/96-252, art. 2; DORS/2007-223, art. 20.
+> DORS/96-252, art. 2; DORS/2007-223, art. 20; DORS/2012-286, art. 5(F).
 
 
 
@@ -3184,21 +3184,19 @@ NOTE
 
 ### **ANNEXE I** 
 **(articles 2, 5 à 7, 11 et 12, 18, 23 à 27, 30 et 40)**
-#### TABLEAU I
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Blé commun</td>
-<td>— *Triticum aestivum* L.</td>
-</tr>
-<tr>
-<td>b) Blé durum</td>
-<td>— *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
-</tr>
-</table>
+
+## Tableau I
+
+Applicable à ce qui suit :
+
+**a)** Blé commun — *Triticum aestivum* L.
+
+
+
+**b)** Blé durum — *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)
+
+
+
 
 <table>
 <tr>
@@ -3228,9 +3226,6 @@ NOTE
 <th></th>
 <th></th>
 <th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
@@ -3342,57 +3337,55 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU II
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Orge, à six rangs, à deux rangs, nue</td>
-<td>— *Hordeum vulgare* L. subsp. *vulgare*</td>
-</tr>
-<tr>
-<td>b) Ambérique</td>
-<td>— *Vigna radiata* (L.) Wilczek var. *radiata*</td>
-</tr>
-<tr>
-<td>c) Sarrasin commun</td>
-<td>— *Fagopyrum esculentum* Moench</td>
-</tr>
-<tr>
-<td>d) Sarrasin de Tartarie</td>
-<td>— *Fagopyrum tataricum* (L.) Gaertn.</td>
-</tr>
-<tr>
-<td>e) Blé amidonnier</td>
-<td>— *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell (= *T. dicoccum* Schrank ex Schübl.)</td>
-</tr>
-<tr>
-<td>f) Lentille</td>
-<td>— *Lens culinaris* Medik.</td>
-</tr>
-<tr>
-<td>g) Lupin (grainier et fourrager)</td>
-<td>— *Lupinus* spp.</td>
-</tr>
-<tr>
-<td>h) Avoine, y compris l’avoine nue</td>
-<td>— *Avena sativa* L., A. *nuda* L.</td>
-</tr>
-<tr>
-<td>i) Seigle</td>
-<td>— *Secale cereale* L.</td>
-</tr>
-<tr>
-<td>j) Épeautre</td>
-<td>— *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
-</tr>
-<tr>
-<td>k) Triticale</td>
-<td>— × *Triticosecale* spp.</td>
-</tr>
-</table>
+
+## Tableau II
+
+Applicable à ce qui suit :
+
+**a)** Orge, à six rangs, à deux rangs, nue — *Hordeum vulgare* L. subsp. *vulgare*
+
+
+
+**b)** Ambérique — *Vigna radiata* (L.) Wilczek var. *radiata*
+
+
+
+**c)** Sarrasin commun — *Fagopyrum esculentum* Moench
+
+
+
+**d)** Sarrasin de Tartarie — *Fagopyrum tataricum* (L.) Gaertn.
+
+
+
+**e)** Blé amidonnier — *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell (= *T. dicoccum* Schrank ex Schübl.)
+
+
+
+**f)** Lentille — *Lens culinaris* Medik.
+
+
+
+**g)** Lupin (grainier et fourrager) — *Lupinus* spp.
+
+
+
+**h)** Avoine, y compris l’avoine nue — *Avena sativa* L., A. *nuda* L.
+
+
+
+**i)** Seigle — *Secale cereale* L.
+
+
+
+**j)** Épeautre — *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)
+
+
+
+**k)** Triticale — × *Triticosecale* spp.
+
+
+
 
 <table>
 <tr>
@@ -3425,12 +3418,6 @@ NOTE
 <th>Nombre maximal d’ergots par kg</th>
 <th></th>
 <th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <th></th>
@@ -3563,29 +3550,27 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU II.1
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Sainfoin</td>
-<td>— *Onobrychis viciifolia* Scop.</td>
-</tr>
-<tr>
-<td>b) Vesce commune ou cultivée</td>
-<td>— *Vicia sativa* L. subsp. *sativa*</td>
-</tr>
-<tr>
-<td>c) Vesce velue</td>
-<td>— *Vicia villosa* Roth. subsp. *villosa*</td>
-</tr>
-<tr>
-<td>d) Vesce de Hongrie</td>
-<td>— *Vicia pannonica* Crantz</td>
-</tr>
-</table>
+
+## Tableau II.1
+
+Applicable à ce qui suit :
+
+**a)** Sainfoin — *Onobrychis viciifolia* Scop.
+
+
+
+**b)** Vesce commune ou cultivée — *Vicia sativa* L. subsp. *sativa*
+
+
+
+**c)** Vesce velue — *Vicia villosa* Roth. subsp. *villosa*
+
+
+
+**d)** Vesce de Hongrie — *Vicia pannonica* Crantz
+
+
+
 
 <table>
 <tr>
@@ -3682,15 +3667,15 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU III
-<table>
-<tr>
-<td>Applicable aux :</td>
-</tr>
-<tr>
-<td>Mélanges de céréales composés de semences de deux ou plusieurs espèces de semences mentionnées aux tableaux I à II.1 y compris *Phaseolus vulgaris* L., *Vicia faba* L. et *Pisum sativum* L.</td>
-</tr>
-</table>
+
+## Tableau III
+
+Applicable aux :
+
+Mélanges de céréales composés de semences de deux ou plusieurs espèces de semences mentionnées aux tableaux I à II.1 y compris *Phaseolus vulgaris* L., *Vicia faba* L. et *Pisum sativum* L.
+
+
+
 
 <table>
 <tr>
@@ -3763,37 +3748,35 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU IV
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Alpiste des Canaries</td>
-<td>— *Phalaris canariensis* L.</td>
-</tr>
-<tr>
-<td>b) Lin à filasse et oléagineux</td>
-<td>— *Linum usitatissimum* L.</td>
-</tr>
-<tr>
-<td>c) Sorgho commun</td>
-<td>— *Sorghum bicolor* (L.) Moench</td>
-</tr>
-<tr>
-<td>d) Hybrides issus du sorgho commun et de l’herbe du Soudan</td>
-<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase</td>
-</tr>
-<tr>
-<td>e) Herbe du Soudan</td>
-<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)</td>
-</tr>
-<tr>
-<td>f) Chanvre</td>
-<td>— *Cannabis sativa* L. subsp. *sativa*</td>
-</tr>
-</table>
+
+## Tableau IV
+
+Applicable à ce qui suit :
+
+**a)** Alpiste des Canaries — *Phalaris canariensis* L.
+
+
+
+**b)** Lin à filasse et oléagineux — *Linum usitatissimum* L.
+
+
+
+**c)** Sorgho commun — *Sorghum bicolor* (L.) Moench
+
+
+
+**d)** Hybrides issus du sorgho commun et de l’herbe du Soudan — *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase
+
+
+
+**e)** Herbe du Soudan — *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)
+
+
+
+**f)** Chanvre — *Cannabis sativa* L. subsp. *sativa*
+
+
+
 
 <table>
 <tr>
@@ -3909,48 +3892,47 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU V
-<table>
-<tr>
-<td>Applicable aux semences des espèces ci-après lorsqu’elles sont utilisées pour la production en plein champs :</td>
-</tr>
-<tr>
-<td>a) Haricot de grande culture</td>
-<td>— *Phaseolus vulgaris* L.</td>
-</tr>
-<tr>
-<td>b) Gourgane et féverole</td>
-<td>— *Vicia faba* L.</td>
-</tr>
-<tr>
-<td>c) Pois chiche</td>
-<td>— *Cicer arietinum* L.</td>
-</tr>
-<tr>
-<td>d) Maïs (pollinisé librement et synthétique)</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>e) Pois à vache</td>
-<td>— *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
-</tr>
-<tr>
-<td>f) Pois de grande culture</td>
-<td>— *Pisum sativum* L.</td>
-</tr>
-<tr>
-<td>g) Carthame des teinturiers</td>
-<td>— *Carthamus tinctorius* L.</td>
-</tr>
-<tr>
-<td>h) Soja</td>
-<td>— *Glycine max* (L.) Merr.</td>
-</tr>
-<tr>
-<td>i) Tournesol (pollinisé librement)</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-</table>
+
+## Tableau V
+
+Applicable aux semences des espèces ci-après lorsqu’elles sont destinées à la production en plein champ :
+
+**a)** Haricot de grande culture — *Phaseolus vulgaris* L.
+
+
+
+**b)** Gourgane et féverole — *Vicia faba* L.
+
+
+
+**c)** Pois chiche — *Cicer arietinum* L.
+
+
+
+**d)** Maïs (pollinisé librement et synthétique) — *Zea mays* L. subsp. *mays*
+
+
+
+**e)** Pois à vache — *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*
+
+
+
+**f)** Pois de grande culture — *Pisum sativum* L.
+
+
+
+**g)** Carthame des teinturiers — *Carthamus tinctorius* L.
+
+
+
+**h)** Soja — *Glycine max* (L.) Merr.
+
+
+
+**i)** Tournesol (pollinisé librement) — *Helianthus annuus* L.
+
+
+
 
 <table>
 <tr>
@@ -4051,20 +4033,19 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU VI
-<table>
-<tr>
-<td>Applicable aux semences des espèces ci-après lorsqu’elles sont utilisées pour la production en plein champs :</td>
-</tr>
-<tr>
-<td>a) Maïs, hybride</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>b) Tournesol, hybride</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-</table>
+
+## Tableau VI
+
+Applicable aux semences des espèces ci-après lorsqu’elles sont destinées à la production en plein champ :
+
+**a)** Maïs, hybride — *Zea mays* L. subsp. *mays*
+
+
+
+**b)** Tournesol, hybride — *Helianthus annuus* L.
+
+
+
 
 <table>
 <tr>
@@ -4117,45 +4098,43 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU VII
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Moutarde noire</td>
-<td>— *Brassica nigra* (L.) W.D.J. Koch</td>
-</tr>
-<tr>
-<td>b) Moutarde brune, orientale, de l’Inde</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>c) Moutarde blanche (= jaune)</td>
-<td>— *Sinapis alba* L.</td>
-</tr>
-<tr>
-<td>d) Canola, colza oléagineux, colza</td>
-<td></td>
-</tr>
-<tr>
-<td>- type d’Argentine</td>
-<td>— *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)</td>
-</tr>
-<tr>
-<td>- type de Pologne</td>
-<td>— *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
-</tr>
-<tr>
-<td>- type de *Brassica juncea*</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>e) Radis, oléagineux ou fourrager</td>
-<td>— *Raphanus sativus* L. var. *oleiformis* Pers.</td>
-</tr>
-</table>
+
+## Tableau VII
+
+Applicable à ce qui suit :
+
+**a)** Moutarde noire — *Brassica nigra* (L.) W.D.J. Koch
+
+
+
+**b)** Moutarde brune, orientale, de l’Inde — *Brassica juncea* (L.) Czern.
+
+
+
+**c)** Moutarde blanche (= jaune) — *Sinapis alba* L.
+
+
+
+**d)** Canola, colza oléagineux, colza
+
+- type d’Argentine — *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)
+
+
+
+- type de Pologne — *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham
+
+
+
+- type de *Brassica juncea* — *Brassica juncea* (L.) Czern.
+
+
+
+
+
+**e)** Radis, oléagineux ou fourrager — *Raphanus sativus* L. var. *oleiformis* Pers.
+
+
+
 
 <table>
 <tr>
@@ -4275,81 +4254,79 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU VIII
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Luzerne</td>
-<td>— *Medicago sativa* L.</td>
-</tr>
-<tr>
-<td>b) Trèfle incarnat</td>
-<td>— *Trifolium incarnatum* L.</td>
-</tr>
-<tr>
-<td>c) Trèfle rouge</td>
-<td>— *Trifolium pratense* L.</td>
-</tr>
-<tr>
-<td>d) Trèfle souterrain</td>
-<td>— *Trifolium subterraneum* L.</td>
-</tr>
-<tr>
-<td>e) Mélilot ou trèfle d’odeur</td>
-<td></td>
-</tr>
-<tr>
-<td>- fleurs blanches</td>
-<td>— *Melilotus albus* Medik.</td>
-</tr>
-<tr>
-<td>- fleurs jaunes</td>
-<td>— *Melilotus officinalis* (L.) Lam.</td>
-</tr>
-<tr>
-<td>f) Lespédeza, commun ou kobe</td>
-<td>— *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)</td>
-</tr>
-<tr>
-<td>g) Lespédeza, de Corée</td>
-<td>— *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)</td>
-</tr>
-<tr>
-<td>h) Lespédeza, sericea ou de Chine</td>
-<td>— *Lespedeza cuneata* (Dum.-Cours.) G. Don</td>
-</tr>
-<tr>
-<td>i) Millet des oiseaux</td>
-<td>— *Setaria italica* (L.) P. Beauv. subsp. *italica*</td>
-</tr>
-<tr>
-<td>j) Millet japonais</td>
-<td>— *Echinochloa frumentacea* Link ou *E. esculenta* (A. Brown) H. Scholz. (= *Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)</td>
-</tr>
-<tr>
-<td>k) Millet perlé</td>
-<td>— *Pennisetum glaucum* (L.) R.Br. (= *P. americanum* L. Leeke)</td>
-</tr>
-<tr>
-<td>l) Millet proso</td>
-<td>— *Panicum miliaceum* L. subsp. *miliaceum*</td>
-</tr>
-<tr>
-<td>m) Coronille bigarrée</td>
-<td>— *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
-</tr>
-<tr>
-<td>n) Anthyllide vulnéraire</td>
-<td>— *Anthyllis vulneraria* L.</td>
-</tr>
-<tr>
-<td>o) Astragale pois chiche</td>
-<td>— *Astragalus cicer* L.</td>
-</tr>
-</table>
+
+## Tableau VIII
+
+Applicable à ce qui suit :
+
+**a)** Luzerne — *Medicago sativa* L.
+
+
+
+**b)** Trèfle incarnat — *Trifolium incarnatum* L.
+
+
+
+**c)** Trèfle rouge — *Trifolium pratense* L.
+
+
+
+**d)** Trèfle souterrain — *Trifolium subterraneum* L.
+
+
+
+**e)** Mélilot ou trèfle d’odeur
+
+- fleurs blanches — *Melilotus albus* Medik.
+
+
+
+- fleurs jaunes — *Melilotus officinalis* (L.) Lam.
+
+
+
+
+
+**f)** Lespédeza, commun ou kobe — *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)
+
+
+
+**g)** Lespédeza, de Corée — *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)
+
+
+
+**h)** Lespédeza, sericea ou de Chine — *Lespedeza cuneata* (Dum.-Cours.) G. Don
+
+
+
+**i)** Millet des oiseaux — *Setaria italica* (L.) P. Beauv. subsp. *italica*
+
+
+
+**j)** Millet japonais — *Echinochloa frumentacea* Link ou *E. esculenta* (A. Brown) H. Scholz. (= *Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)
+
+
+
+**k)** Millet perlé — *Pennisetum glaucum* (L.) R.Br. (= *P. americanum* L. Leeke)
+
+
+
+**l)** Millet proso — *Panicum miliaceum* L. subsp. *miliaceum*
+
+
+
+**m)** Coronille bigarrée — *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)
+
+
+
+**n)** Anthyllide vulnéraire — *Anthyllis vulneraria* L.
+
+
+
+**o)** Astragale pois chiche — *Astragalus cicer* L.
+
+
+
 
 <table>
 <tr>
@@ -4486,57 +4463,55 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU IX
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Trèfle Alsike</td>
-<td>— *Trifolium hybridum* L.</td>
-</tr>
-<tr>
-<td>b) Trèfle jaune</td>
-<td>— *Trifolium aureum* Pollich</td>
-</tr>
-<tr>
-<td>c) Trèfle des champs, grand</td>
-<td>— *Trifolium campestre* Schreb.</td>
-</tr>
-<tr>
-<td>d) Trèfle des champs, petit</td>
-<td>— *Trifolium dubium* Sibth.</td>
-</tr>
-<tr>
-<td>e) Trèfle de Perse</td>
-<td>— *Trifolium resupinatum* L.</td>
-</tr>
-<tr>
-<td>f) Trèfle porte-fraise</td>
-<td>— *Trifolium fragiferum* L.</td>
-</tr>
-<tr>
-<td>g) Trèfle blanc</td>
-<td>— *Trifolium repens* L.</td>
-</tr>
-<tr>
-<td>h) Lupuline</td>
-<td>— *Medicago lupulina* L.</td>
-</tr>
-<tr>
-<td>i) Fléole (mil)</td>
-<td></td>
-</tr>
-<tr>
-<td>- des prés</td>
-<td>— *Phleum pratense* L.</td>
-</tr>
-<tr>
-<td>- de type nain</td>
-<td>— *Phleum bertolonii* DC.</td>
-</tr>
-</table>
+
+## Tableau IX
+
+Applicable à ce qui suit :
+
+**a)** Trèfle Alsike — *Trifolium hybridum* L.
+
+
+
+**b)** Trèfle jaune — *Trifolium aureum* Pollich
+
+
+
+**c)** Trèfle des champs, grand — *Trifolium campestre* Schreb.
+
+
+
+**d)** Trèfle des champs, petit — *Trifolium dubium* Sibth.
+
+
+
+**e)** Trèfle de Perse — *Trifolium resupinatum* L.
+
+
+
+**f)** Trèfle porte-fraise — *Trifolium fragiferum* L.
+
+
+
+**g)** Trèfle blanc — *Trifolium repens* L.
+
+
+
+**h)** Lupuline — *Medicago lupulina* L.
+
+
+
+**i)** Fléole (mil)
+
+- des prés — *Phleum pratense* L.
+
+
+
+- de type nain — *Phleum bertolonii* DC.
+
+
+
+
+
 
 <table>
 <tr>
@@ -4687,17 +4662,15 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU X
-<table>
-<tr>
-<td>Applicable au :</td>
-<td></td>
-</tr>
-<tr>
-<td>Lotier corniculé</td>
-<td>— *Lotus corniculatus* L.</td>
-</tr>
-</table>
+
+## Tableau X
+
+Applicable au :
+
+Lotier corniculé — *Lotus corniculatus* L.
+
+
+
 
 <table>
 <tr>
@@ -4834,141 +4807,139 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XI
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Brome des prés</td>
-<td>— *Bromus riparius* Rehmann</td>
-</tr>
-<tr>
-<td>b) Brome inerme</td>
-<td>— *Bromus inermis* Leyss.</td>
-</tr>
-<tr>
-<td>c) Brome doux</td>
-<td>— *Bromus carinatus* Hook. & Arn.</td>
-</tr>
-<tr>
-<td>d) Alpiste roseau</td>
-<td>— *Phalaris arundinacea* L.</td>
-</tr>
-<tr>
-<td>e) Fétuque de Chewing</td>
-<td>— *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
-</tr>
-<tr>
-<td>f) Fétuque à feuilles fines</td>
-<td>— *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
-</tr>
-<tr>
-<td>g) Fétuque durette</td>
-<td>— *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)</td>
-</tr>
-<tr>
-<td>h) Fétuque des prés</td>
-<td>— *Festuca pratensis* Huds.</td>
-</tr>
-<tr>
-<td>i) Fétuque rouge et fétuque rouge traçante</td>
-<td>— *Festuca rubra* L. subsp. *rubra*</td>
-</tr>
-<tr>
-<td>j) Fétuque ovine</td>
-<td>— *Festuca ovina* L.</td>
-</tr>
-<tr>
-<td>k) Fétuque élevée</td>
-<td>— *Festuca arundinacea* Schreb.</td>
-</tr>
-<tr>
-<td>l) Fétuque à feuilles variées</td>
-<td>— *Festuca heterophylla* Lam.</td>
-</tr>
-<tr>
-<td>m) Vulpin traçant</td>
-<td>— *Alopecurus arundinaceus* Poir.</td>
-</tr>
-<tr>
-<td>n) Vulpin des prés</td>
-<td>— *Alopecurus pratensis* L.</td>
-</tr>
-<tr>
-<td>o) Avoine élevée</td>
-<td>— *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl</td>
-</tr>
-<tr>
-<td>p) Dactyle pelotonné</td>
-<td>— *Dactylis glomerata* L.</td>
-</tr>
-<tr>
-<td>q) Ray-grass annuel</td>
-<td>— *Lolium multiflorum* Lam.</td>
-</tr>
-<tr>
-<td>r) Ray-grass hybride</td>
-<td>— *Lolium* ×*hybridum* Hausskn.</td>
-</tr>
-<tr>
-<td>s) Ray-grass vivace</td>
-<td>— *Lolium perenne* L.</td>
-</tr>
-<tr>
-<td>t) Agropyre inerme</td>
-<td>— *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J. G. Smith) Beetle)</td>
-</tr>
-<tr>
-<td>u) Agropyre à crête</td>
-<td>— *Agropyron cristatum* (L.) Gaertn. ou *A. desertorum* (Fisch. ex Link) Schult.</td>
-</tr>
-<tr>
-<td>v) Agropyre intermédiaire</td>
-<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
-</tr>
-<tr>
-<td>w) Agropyre du Nord</td>
-<td>— *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
-</tr>
-<tr>
-<td>x) Agropyre pubescent</td>
-<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
-</tr>
-<tr>
-<td>y) Agropyre de Sibérie</td>
-<td>— *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
-</tr>
-<tr>
-<td>z) Agropyre grêle</td>
-<td>— *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
-</tr>
-<tr>
-<td>z.1) Agropyre des rives</td>
-<td>— *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
-</tr>
-<tr>
-<td>z.2) Agropyre élevé</td>
-<td>— *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
-</tr>
-<tr>
-<td>z.3) Agropyre de l’Ouest</td>
-<td>— *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
-</tr>
-<tr>
-<td>z.4) Élyme de l’Altaï</td>
-<td>— *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
-</tr>
-<tr>
-<td>z.5) Élyme dahurien</td>
-<td>— *Elymus dahuricus* Turcz ex Griseb.</td>
-</tr>
-<tr>
-<td>z.6) Élyme de Russie</td>
-<td>— *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
-</tr>
-</table>
+
+## Tableau XI
+
+Applicable à ce qui suit :
+
+**a)** Brome des prés — *Bromus riparius* Rehmann
+
+
+
+**b)** Brome inerme — *Bromus inermis* Leyss.
+
+
+
+**c)** Brome doux — *Bromus carinatus* Hook. & Arn.
+
+
+
+**d)** Alpiste roseau — *Phalaris arundinacea* L.
+
+
+
+**e)** Fétuque de Chewing — *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)
+
+
+
+**f)** Fétuque à feuilles fines — *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)
+
+
+
+**g)** Fétuque durette — *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)
+
+
+
+**h)** Fétuque des prés — *Festuca pratensis* Huds.
+
+
+
+**i)** Fétuque rouge et fétuque rouge traçante — *Festuca rubra* L. subsp. *rubra*
+
+
+
+**j)** Fétuque ovine — *Festuca ovina* L.
+
+
+
+**k)** Fétuque élevée — *Festuca arundinacea* Schreb.
+
+
+
+**l)** Fétuque à feuilles variées — *Festuca heterophylla* Lam.
+
+
+
+**m)** Vulpin traçant — *Alopecurus arundinaceus* Poir.
+
+
+
+**n)** Vulpin des prés — *Alopecurus pratensis* L.
+
+
+
+**o)** Avoine élevée — *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl
+
+
+
+**p)** Dactyle pelotonné — *Dactylis glomerata* L.
+
+
+
+**q)** Ray-grass annuel — *Lolium multiflorum* Lam.
+
+
+
+**r)** Ray-grass hybride — *Lolium* ×*hybridum* Hausskn.
+
+
+
+**s)** Ray-grass vivace — *Lolium perenne* L.
+
+
+
+**t)** Agropyre inerme — *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J. G. Smith) Beetle)
+
+
+
+**u)** Agropyre à crête — *Agropyron cristatum* (L.) Gaertn. ou *A. desertorum* (Fisch. ex Link) Schult.
+
+
+
+**v)** Agropyre intermédiaire — *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)
+
+
+
+**w)** Agropyre du Nord — *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)
+
+
+
+**x)** Agropyre pubescent — *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)
+
+
+
+**y)** Agropyre de Sibérie — *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)
+
+
+
+**z)** Agropyre grêle — *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)
+
+
+
+**z.1)** Agropyre des rives — *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)
+
+
+
+**z.2)** Agropyre élevé — *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)
+
+
+
+**z.3)** Agropyre de l’Ouest — *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)
+
+
+
+**z.4)** Élyme de l’Altaï — *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)
+
+
+
+**z.5)** Élyme dahurien — *Elymus dahuricus* Turcz ex Griseb.
+
+
+
+**z.6)** Élyme de Russie — *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)
+
+
+
 
 <table>
 <tr>
@@ -5208,65 +5179,63 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XII
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Puccinellie à fleurs distantes</td>
-<td>— *Puccinellia distans* (L.) (Jacq.) Parl.</td>
-</tr>
-<tr>
-<td>b) Agrostide fine</td>
-<td>— *Agrostis capillaris* L.</td>
-</tr>
-<tr>
-<td>c) Agrostide traçante</td>
-<td>— *Agrostis stolonifera* L.</td>
-</tr>
-<tr>
-<td>d) Agrostide des chiens</td>
-<td>— *Agrostis canina* L.</td>
-</tr>
-<tr>
-<td>e) Pâturin annuel</td>
-<td>— *Poa annua* L.</td>
-</tr>
-<tr>
-<td>f) Pâturin du Canada</td>
-<td>— *Poa compressa* L.</td>
-</tr>
-<tr>
-<td>g) Pâturin des marais</td>
-<td>— *Poa palustris* L.</td>
-</tr>
-<tr>
-<td>h) Pâturin du Kentucky</td>
-<td>— *Poa pratensis* L.</td>
-</tr>
-<tr>
-<td>i) Pâturin commun</td>
-<td>— *Poa trivialis* L.</td>
-</tr>
-<tr>
-<td>j) Pâturin couché</td>
-<td>— *Poa supina* Schrad.</td>
-</tr>
-<tr>
-<td>k) Pâturin des bois</td>
-<td>— *Poa nemoralis* L.</td>
-</tr>
-<tr>
-<td>l) Crételle des prés</td>
-<td>— *Cynosurus cristatus* L.</td>
-</tr>
-<tr>
-<td>m) Agrostide blanche ou commune</td>
-<td>— *Agrostis gigantea* Roth</td>
-</tr>
-</table>
+
+## Tableau XII
+
+Applicable à ce qui suit :
+
+**a)** Puccinellie à fleurs distantes — *Puccinellia distans* (L.) (Jacq.) Parl.
+
+
+
+**b)** Agrostide fine — *Agrostis capillaris* L.
+
+
+
+**c)** Agrostide traçante — *Agrostis stolonifera* L.
+
+
+
+**d)** Agrostide des chiens — *Agrostis canina* L.
+
+
+
+**e)** Pâturin annuel — *Poa annua* L.
+
+
+
+**f)** Pâturin du Canada — *Poa compressa* L.
+
+
+
+**g)** Pâturin des marais — *Poa palustris* L.
+
+
+
+**h)** Pâturin du Kentucky — *Poa pratensis* L.
+
+
+
+**i)** Pâturin commun — *Poa trivialis* L.
+
+
+
+**j)** Pâturin couché — *Poa supina* Schrad.
+
+
+
+**k)** Pâturin des bois — *Poa nemoralis* L.
+
+
+
+**l)** Crételle des prés — *Cynosurus cristatus* L.
+
+
+
+**m)** Agrostide blanche ou commune — *Agrostis gigantea* Roth
+
+
+
 
 <table>
 <tr>
@@ -5287,9 +5256,6 @@ NOTE
 <th></th>
 <th></th>
 <th>Pourcentage minimal de semences pures vivantes</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
@@ -5414,15 +5380,15 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XIII
-<table>
-<tr>
-<td>Applicable aux :</td>
-</tr>
-<tr>
-<td>Mélanges de semences de plantes fourragères composés de semences de deux ou plusieurs espèces mentionnées aux tableaux VIII à XII, sauf les mélanges de semences de plantes désignés par le vendeur comme mélange à pelouse ou à gazon, ou comme mélange de plantes couvre-sol.</td>
-</tr>
-</table>
+
+## Tableau XIII
+
+Applicable aux :
+
+Mélanges de semences de plantes fourragères composés de semences de deux ou plusieurs espèces mentionnées aux tableaux VIII à XII, sauf les mélanges de semences de plantes désignés par le vendeur comme mélange à pelouse ou à gazon, ou comme mélange de plantes couvre-sol.
+
+
+
 
 <table>
 <tr>
@@ -5458,9 +5424,6 @@ NOTE
 <th></th>
 <th></th>
 <th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
@@ -5535,16 +5498,18 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XIV
-<table>
-<h4>Partie I</h4>
-<tr>
-<td>Applicable aux :</td>
-</tr>
-<tr>
-<td>Mélanges à pelouse ou à gazon contenant deux ou plusieurs des espèces mentionnées à la partie II du présent tableau.</td>
-</tr>
-</table>
+
+## Tableau XIV
+
+
+### PARTIE I
+
+Applicable aux :
+
+Mélanges à pelouse ou à gazon contenant deux ou plusieurs des espèces mentionnées à la partie II du présent tableau.
+
+
+
 
 <table>
 <tr>
@@ -5565,12 +5530,6 @@ NOTE
 <th>Pourcentage maximal au poids</th>
 <th></th>
 <th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
 <th></th>
 </tr>
 <tr>
@@ -5635,8 +5594,10 @@ NOTE
 </tr>
 </table>
 
+
+### PARTIE II
+
 <table>
-<h4>Partie II</h4>
 <tr>
 <th>1</th>
 <th>2</th>
@@ -5647,7 +5608,7 @@ NOTE
 </tr>
 <tr>
 <td>2. Groupe B</td>
-<td>Agrostide blanche ou commune, agropyre à crête, fléole (de type nain), ray-grass annuel pourvu que, séparément, aucune de ces espèces ne constitue pas plus de 30 % en poids du mélange et, en combinaison, pas plus de 40 % en poids du mélange</td>
+<td>Agrostide blanche ou commune, agropyre à crête, fléole (de type nain), ray-grass annuel pourvu que, séparément, aucune de ces espèces ne constitue plus de 30 % en poids du mélange et, en combinaison, plus de 40 % en poids du mélange</td>
 </tr>
 <tr>
 <td>3. Groupe C</td>
@@ -5655,15 +5616,15 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XV
-<table>
-<tr>
-<td>Applicable aux :</td>
-</tr>
-<tr>
-<td>Mélanges de plantes couvre-sol composés de graines de deux ou plusieurs espèces, sauf les mélanges de céréales, mélanges de plantes fourragères ou mélanges à pelouse ou à gazon.</td>
-</tr>
-</table>
+
+## Tableau XV
+
+Applicable aux :
+
+Mélanges de plantes couvre-sol composés de graines de deux ou plusieurs espèces, sauf les mélanges de céréales, mélanges de plantes fourragères ou mélanges à pelouse ou à gazon.
+
+
+
 
 <table>
 <tr>
@@ -5702,29 +5663,27 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XVI
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Betterave</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>b) Betterave à sucre</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>c) Betterave fourragère</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-<tr>
-<td>d) Bette à carde (poirée)</td>
-<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
-</tr>
-</table>
+
+## Tableau XVI
+
+Applicable à ce qui suit :
+
+**a)** Betterave — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**b)** Betterave à sucre — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**c)** Betterave fourragère — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
+**d)** Bette à carde (poirée) — *Beta vulgaris* L. subsp. *vulgaris*
+
+
+
 
 <table>
 <tr>
@@ -5834,37 +5793,35 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XVII
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Cantaloup, melon brodé</td>
-<td>— *Cucumis melo* L. subsp. *melo*</td>
-</tr>
-<tr>
-<td>b) Melon citron</td>
-<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.</td>
-</tr>
-<tr>
-<td>c) Concombre</td>
-<td>— *Cucumis sativus* L.</td>
-</tr>
-<tr>
-<td>d) Cornichon</td>
-<td>— *Cucumis anguria* L.</td>
-</tr>
-<tr>
-<td>e) Citrouille, courge (d’été ou d’hiver)</td>
-<td>— *Cucurbita* spp.</td>
-</tr>
-<tr>
-<td>f) Melon d’eau ou pastèque</td>
-<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
-</tr>
-</table>
+
+## Tableau XVII
+
+Applicable à ce qui suit :
+
+**a)** Cantaloup, melon brodé — *Cucumis melo* L. subsp. *melo*
+
+
+
+**b)** Melon citron — *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.
+
+
+
+**c)** Concombre — *Cucumis sativus* L.
+
+
+
+**d)** Cornichon — *Cucumis anguria* L.
+
+
+
+**e)** Citrouille, courge (d’été ou d’hiver) — *Cucurbita* spp.
+
+
+
+**f)** Melon d’eau ou pastèque — *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*
+
+
+
 
 <table>
 <tr>
@@ -5961,52 +5918,51 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XVIII
-<table>
-<tr>
-<td>Applicable aux espèces ci-après lorsqu’elles ne sont pas destinées à la production agricole de grandes cultures :</td>
-</tr>
-<tr>
-<td>a) Haricot, jardin</td>
-<td>— *Phaseolus vulgaris* L.</td>
-</tr>
-<tr>
-<td>b) Gourgane et féverole</td>
-<td>— *Vicia faba* L.</td>
-</tr>
-<tr>
-<td>c) Haricot de Lima</td>
-<td>— *Phaseolus lunatus* L.</td>
-</tr>
-<tr>
-<td>d) Haricot d’Espagne</td>
-<td>— *Phaseolus coccineus* L.</td>
-</tr>
-<tr>
-<td>e) Pois chiche</td>
-<td>— *Cicer arietinum* L.</td>
-</tr>
-<tr>
-<td>f) Maïs à éclater ou sucré</td>
-<td>— *Zea mays* L. subsp. *mays*</td>
-</tr>
-<tr>
-<td>g) Pois, jardin</td>
-<td>— *Pisum sativum* L.</td>
-</tr>
-<tr>
-<td>h) Soja</td>
-<td>— *Glycine max* (L.) Merr.</td>
-</tr>
-<tr>
-<td>i) Tournesol</td>
-<td>— *Helianthus annuus* L.</td>
-</tr>
-<tr>
-<td>j) Carthame des teinturiers</td>
-<td>— *Carthamus tinctorius* L.</td>
-</tr>
-</table>
+
+## Tableau XVIII
+
+Applicable aux espèces ci-après lorsqu’elles ne sont pas destinées à la production agricole de grandes cultures :
+
+**a)** Haricot, jardin — *Phaseolus vulgaris* L.
+
+
+
+**b)** Gourgane et féverole — *Vicia faba* L.
+
+
+
+**c)** Haricot de Lima — *Phaseolus lunatus* L.
+
+
+
+**d)** Haricot d’Espagne — *Phaseolus coccineus* L.
+
+
+
+**e)** Pois chiche — *Cicer arietinum* L.
+
+
+
+**f)** Maïs à éclater ou sucré — *Zea mays* L. subsp. *mays*
+
+
+
+**g)** Pois, jardin — *Pisum sativum* L.
+
+
+
+**h)** Soja — *Glycine max* (L.) Merr.
+
+
+
+**i)** Tournesol — *Helianthus annuus* L.
+
+
+
+**j)** Carthame des teinturiers — *Carthamus tinctorius* L.
+
+
+
 
 <table>
 <tr>
@@ -6096,69 +6052,67 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XIX
-<table>
-<tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) Brocoli</td>
-<td>— *Brassica oleracea* L. var. *italica* Plenck</td>
-</tr>
-<tr>
-<td>b) Chou de Bruxelles</td>
-<td>— *Brassica oleracea* L. var. *gemmifera* Zenker</td>
-</tr>
-<tr>
-<td>c) Chou</td>
-<td>— *Brassica oleracea* L. var. *capitata* L.</td>
-</tr>
-<tr>
-<td>d) Chou de Chine</td>
-<td>— *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt ou *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt</td>
-</tr>
-<tr>
-<td>e) Chou-fleur</td>
-<td>— *Brassica oleracea* L. var. *botrytis* L.</td>
-</tr>
-<tr>
-<td>f) Chou à rosette ou collards</td>
-<td>— *Brassica oleracea* L. var. *viridis* L.</td>
-</tr>
-<tr>
-<td>g) Chou frisé</td>
-<td>— *Brassica oleracea* L. var. *sabellica* L. ou *B. oleracea* L. var. *viridis*</td>
-</tr>
-<tr>
-<td>h) Chou-rave</td>
-<td>— *Brassica oleracea* L. var. *gongylodes* L.</td>
-</tr>
-<tr>
-<td>i) Feuilles de moutarde</td>
-<td>— *Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>j) Radis</td>
-<td>— *Raphanus sativus* L.</td>
-</tr>
-<tr>
-<td>k) Colza fourragère</td>
-<td>— *Brassica napus* L. var. *napus* ou *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
-</tr>
-<tr>
-<td>l) Rutabaga</td>
-<td>— *Brassica napus* L. var. *napobrassica* (L.) Reichb.</td>
-</tr>
-<tr>
-<td>m) Moutarde épinard</td>
-<td>— *Brassica rapa* L. var. *perviridis* L. H. Bailey</td>
-</tr>
-<tr>
-<td>n) Navet</td>
-<td>— *Brassica rapa* L. subsp. *rapa*</td>
-</tr>
-</table>
+
+## Tableau XIX
+
+Applicable à ce qui suit :
+
+**a)** Brocoli — *Brassica oleracea* L. var. *italica* Plenck
+
+
+
+**b)** Chou de Bruxelles — *Brassica oleracea* L. var. *gemmifera* Zenker
+
+
+
+**c)** Chou — *Brassica oleracea* L. var. *capitata* L.
+
+
+
+**d)** Chou de Chine — *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt ou *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt
+
+
+
+**e)** Chou-fleur — *Brassica oleracea* L. var. *botrytis* L.
+
+
+
+**f)** Chou à rosette ou collards — *Brassica oleracea* L. var. *viridis* L.
+
+
+
+**g)** Chou frisé — *Brassica oleracea* L. var. *sabellica* L. ou *B. oleracea* L. var. *viridis*
+
+
+
+**h)** Chou-rave — *Brassica oleracea* L. var. *gongylodes* L.
+
+
+
+**i)** Feuilles de moutarde — *Brassica juncea* (L.) Czern.
+
+
+
+**j)** Radis — *Raphanus sativus* L.
+
+
+
+**k)** Colza fourragère — *Brassica napus* L. var. *napus* ou *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham
+
+
+
+**l)** Rutabaga — *Brassica napus* L. var. *napobrassica* (L.) Reichb.
+
+
+
+**m)** Moutarde épinard — *Brassica rapa* L. var. *perviridis* L. H. Bailey
+
+
+
+**n)** Navet — *Brassica rapa* L. subsp. *rapa*
+
+
+
 
 <table>
 <tr>
@@ -6273,20 +6227,13 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XX
+
+## Tableau XX
+
 <table>
 <tr>
-<td>Applicable à ce qui suit :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Pourcentage minimal de germination</td>
-</tr>
-<tr>
-<td></td>
+<th>Applicable à ce qui suit :</th>
+<th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <td>a) Artichaut</td>
@@ -6440,7 +6387,7 @@ NOTE
 </tr>
 <tr>
 <td>z.14) Sarriette</td>
-<td>— *Satureja hortensis* L. ou S. *montana* L.</td>
+<td>— *Satureja hortensis* L. ou *S. montana* L.</td>
 <td>50</td>
 </tr>
 <tr>
@@ -6454,7 +6401,7 @@ NOTE
 <td>65</td>
 </tr>
 <tr>
-<td>z.17) Épinard de 90Nouvelle-Zélande</td>
+<td>z.17) Épinard de Nouvelle-Zélande</td>
 <td>— *Tetragonia tetragonoides* (Pall.) Kuntze</td>
 <td>50</td>
 </tr>
@@ -6561,12 +6508,11 @@ NOTE
 </tr>
 </table>
 
-#### TABLEAU XXI
-<table>
-<tr>
-<td>Applicable aux : Oignons à repiquer et oignons patates.</td>
-</tr>
-</table>
+
+## Tableau XXI
+
+Applicable aux : Oignons à repiquer et oignons patates.
+
 
 <table>
 <tr>
@@ -6588,33 +6534,21 @@ NOTE
 <td>(1) Mûre, bien fanée, saine et sèche.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Presque libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Presque libre de bulbes germés ou mous, lors du classement.</td>
 </tr>
 <tr>
 <td>2. Canada n<sup>o</sup> 1 (grosse)</td>
 <td>2,5 à 3,5</td>
-<td></td>
+<td>Pas moins de 98</td>
 <td>(1) Mûre, bien fanée, saine et sèche.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Presque libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Presque libre de bulbes germés ou mous, lors du classement.</td>
 </tr>
 <tr>
@@ -6624,98 +6558,75 @@ NOTE
 <td>(1) Mûre, bien fanée, saine et raisonnablement sèche.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Raisonnablement libre de bulbes mous et contenant au plus 5 % de bulbes germés, pour les jaunes, et 10 %, pour les blancs, les rouges et les globes.</td>
 </tr>
 <tr>
 <td>4. Canada n<sup>o</sup> 2 (grosse)</td>
 <td>2,5 à 3,5</td>
-<td></td>
+<td>Pas moins de 90</td>
 <td>(1) Mûre, bien fanée, saine et raisonnablement sèche.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(2) Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3) Raisonnablement libre de bulbes mous et contenant au plus 5 % de bulbes germés, pour les jaunes, et 10 %, pour les blancs, les rouges et les globes.</td>
 </tr>
 </table>
 
-#### Définition des expressions utilisées à la colonne 4
-<table>
-<tr>
-<td>« Mûre, bien fanée » se dit de la qualité des oignons à repiquer dont les cols sont bien séchés, au plus 1 % et 2 % pour les catégories Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2 étant épaissis;</td>
-<td>« Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères » se dit de la qualité des oignons à repiquer dont au plus 35 % des bulbes peuvent mesurer au-delà de 6,5 cm de longueur et que la terre, les feuilles et les autres matières étrangères ne devraient pas dépasser 2 % au poids.</td>
-</tr>
-<tr>
-<td>« Saine » se dit de la qualité de l’oignon à repiquer qui est ferme et lisse et qui ne se comprime que légèrement sous une pression modérée.</td>
-<td>« Raisonnablement libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages » se dit de la qualité des oignons à repiquer dont au plus 4 % des bulbes peuvent être ainsi touchés.</td>
-</tr>
-<tr>
-<td>« Presque libre de pousses, terre, feuilles ou autres matières étrangères » se dit de la qualité des oignons à repiquer qui sont exempts à toutes fins pratiques de pousses, terre, feuilles et autres matières étrangères. Celles-ci ne doivent pas représenter plus de l % au poids, et au plus 25 % des oignons à repiquer peuvent avoir des pousses de 6,5 cm de longueur.</td>
-<td>« Raisonnablement libre de bulbes mous » se dit de la qualité où au plus 5 % des bulbes peuvent être mous.</td>
-</tr>
-<tr>
-<td>« Presque libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages » se dit de la qualité des oignons à repiquer dont au plus 3 % des bulbes peuvent être ainsi touchés.</td>
-<td>« Bulbes germés » se dit de la qualité des bulbes dont les germes mesurent plus de 0,6 cm de longueur.</td>
-</tr>
-<tr>
-<td>« Presque libre de bulbes germés » s’entend d’au plus 3 % de germes discernables, pour les oignons à repiquer jaunes, et 6 %, pour les rouges, les blancs et les globes;</td>
-<td></td>
-</tr>
-<tr>
-<td>« Presque libre de bulbes mous » se dit de la qualité où au plus 3 % des bulbes peuvent être mous.</td>
-<td></td>
-</tr>
-</table>
+Définition des expressions utilisées à la colonne 4
 
-#### TABLEAU XXII
-<table>
-<tr>
-<td>Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sauf celles mentionnées aux tableaux III et XIII à XV.</td>
-</tr>
-<tr>
-<td>1</td>
-<td>La semence Canada Fondation sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Fondation n<sup>o</sup> 2.</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>La semence Canada Enregistrée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Enregistrée n<sup>o</sup> 2.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>La semence Canada Certifiée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Certifiée n<sup>o</sup> 2.</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>La semence Canada Fondation sous-régulière (Pureté) est une semence de qualité Fondation répondant aux normes de pureté de la semence de catégorie commune.</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</table>
+***Mûre, bien fanée*** se dit de la qualité des oignons à repiquer dont les cols sont bien séchés, au plus 1 % et 2 % pour les catégories Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2 étant épaissis.
 
-> DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9; DORS/2007-223, art. 25, err., Vol. 143, n<sup>o</sup>o 13.
+***Saine*** se dit de la qualité de l’oignon à repiquer qui est ferme et lisse et qui ne se comprime que légèrement sous une pression modérée.
+
+«*** Presque libre de pousses, terre, feuilles ou autres matières étrangères*** se dit de la qualité des oignons à repiquer qui sont exempts à toutes fins pratiques de pousses, terre, feuilles et autres matières étrangères. Celles-ci ne doivent pas représenter plus de l % au poids, et au plus 25 % des oignons à repiquer peuvent avoir des pousses de 6,5 cm de longueur.
+
+***Presque libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*** se dit de la qualité des oignons à repiquer dont au plus 3 % des bulbes peuvent être ainsi touchés.
+
+***Presque libre de bulbes germés*** se dit de la qualité d’oignons à repiquer dont au plus 3 % ont des germes discernables, pour les oignons à repiquer jaunes, ou au plus 6 %, pour les rouges, les blancs et les globes.
+
+***Presque libre de bulbes mous*** se dit de la qualité où au plus 3 % des bulbes peuvent être mous.
+
+Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères se dit de la qualité des oignons à repiquer dont au plus 35 % des bulbes peuvent mesurer au-delà de 6,5 cm de longueur et que la terre, les feuilles et les autres matières étrangères ne devraient pas dépasser 2 % au poids.
+
+***Raisonnablement libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages*** se dit de la qualité des oignons à repiquer dont au plus 4 % des bulbes peuvent être ainsi touchés.
+
+***Raisonnablement libre de bulbes mous*** se dit de la qualité où au plus 5 % des bulbes peuvent être mous.
+
+***Bulbes germés*** se dit de la qualité des bulbes dont les germes mesurent plus de 0,6 cm de longueur.
+
+
+
+## Tableau XXII
+
+Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sauf celles mentionnées aux tableaux III et XIII à XV.
+
+**1. ** La semence Canada Fondation sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Fondation n<sup>o</sup> 2.
+
+
+
+**2. ** La semence Canada Enregistrée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Enregistrée n<sup>o</sup> 2.
+
+
+
+**3. ** La semence Canada Certifiée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Certifiée n<sup>o</sup> 2.
+
+
+
+
+
+
+
+**4**  La semence Canada Fondation sous-régulière (Pureté) est une semence de qualité Fondation répondant aux normes de pureté de la semence de catégorie commune.
+
+
+
+
+> DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9; DORS/2007-223, art. 25, err., Vol. 143, n<sup>o</sup> 13; DORS/2012-286, art. 6(F), 7(A), 8 à 10(F), 11, 12, 13(F) et 14.
 
 
 
