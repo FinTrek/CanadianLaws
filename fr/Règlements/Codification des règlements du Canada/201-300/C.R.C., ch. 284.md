@@ -269,25 +269,25 @@ Autorités habilitantes :
 
 - **(1)** Le directeur peut suspendre l’agrément d’un poste d’oeufs agréé si :
 	- **a)** d’une part, l’une des situations suivantes existe :
-		- **(i)** le poste d’oeufs n’est pas conforme à la Loi, au présent règlement, ou à toute autre législation fédérale qui lui est applicable,
+		- **(i)** le poste d’oeufs n’est pas conforme à la Loi ou au présent règlement,
 		- **(ii)** l’exploitant ne se conforme pas aux dispositions de la Loi, du présent règlement, ou de toute autre législation fédérale en matière d’exploitation du poste d’oeufs qui lui est applicable,
-		- **(iii)** l’exploitant n’a pas payé le prix applicable prévu dans l'*Avis sur les prix de l’Agence canadienne d’inspection des aliments* selon les modalités qui y sont prévues;
-	- **b)** d’autre part, l’exploitant n’a pas corrigé la situation visée par un rapport fourni aux termes de l’alinéa (2)a) dans le délai visé à l’alinéa (2)b).
+		- **(iii)** l’exploitant n’a pas payé le prix applicable prévu dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments selon les modalités qui y sont prévues;
+	- **b)** d’autre part, l’exploitant n’a pas corrigé la situation visée par un rapport fourni aux termes de l’alinéa (2)a) dans le délai visé à l’alinéa (2)b).
 
-- **(2)** L’agrément d’un poste d’oeufs agréé ne peut être suspendu en vertu du paragraphe (1) que si :
-	- **a)** l’exploitant a reçu de l’inspecteur un exemplaire de son rapport d’inspection faisant état de toute situation visée à l’alinéa (1)a);
+- **(2)** L’agrément d’un poste d’oeufs agréé ne peut être suspendu en vertu du paragraphe (1) que si :
+	- **a)** l’exploitant a reçu de l’inspecteur un exemplaire de son rapport d’inspection faisant état de toute situation visée à l’alinéa (1)a);
 	- **b)** l’inspecteur a avisé l’exploitant, par écrit, du délai dans lequel la situation doit être corrigée afin d’éviter la suspension;
 	- **c)** un avis de suspension de l’agrément a été remis à l’exploitant.
 
-- **(2.1)** Malgré les paragraphes (1) et (2), si le maintien de l’exploitation du poste d’oeufs présente un danger pour la santé publique, le directeur peut suspendre immédiatement l’agrément du poste d’oeufs pourvu qu’il ait au préalable signifié à l’exploitant un rapport d’inspection décrivant la situation et un avis de suspension.
+- **(2.1)** Malgré les paragraphes (1) et (2), si le maintien de l’exploitation du poste d’oeufs présente un danger pour la santé publique, le directeur peut suspendre immédiatement l’agrément du poste d’oeufs pourvu qu’il ait au préalable signifié à l’exploitant un rapport d’inspection décrivant la situation et un avis de suspension.
 
-- **(2.2)** Si l’agrément est suspendu en application du paragraphe (2.1), l’inspecteur avise sans délai l’exploitant, par écrit, du délai dans lequel la situation doit être corrigée afin d’éviter le retrait de l’agrément.
+- **(2.2)** Si l’agrément est suspendu en application du paragraphe (2.1), l’inspecteur avise sans délai l’exploitant, par écrit, du délai dans lequel la situation doit être corrigée afin d’éviter le retrait de l’agrément.
 
-- **(3)** La suspension de l’agrément prévue au paragraphe (1) demeure en vigueur :
+- **(3)** La suspension de l’agrément prévue au paragraphe (1) demeure en vigueur :
 	- **a)** soit jusqu’à ce que les mesures correctives requises soient prises et qu’elles aient été vérifiées par l’inspecteur;
-	- **b)** soit jusqu’à ce qu’une décision soit prise, si une procédure de retrait a été entamée en vertu de l’article 7.2;
-	- **c)** [Abrogé, DORS/2006-193, art. 3]
-> DORS/90-110, art. 3; DORS/96-124, art. 1; DORS/2000-183, art. 1; DORS/2006-193, art. 3.
+	- **b)** soit jusqu’à ce qu’une décision soit prise, si une procédure de retrait a été entamée en vertu de l’article 7.2.
+	- **c)** [Abrogé, DORS/2006-193, art. 3]
+> DORS/90-110, art. 3; DORS/96-124, art. 1; DORS/2000-183, art. 1; DORS/2006-193, art. 3; DORS/2012-286, art. 32.
 
 
 
@@ -298,16 +298,14 @@ Autorités habilitantes :
 
 **7.2** 
 
-- **(1)** Le directeur peut retirer l’agrément d’un poste d’oeufs agréé dans l’un ou l’autre des cas suivants :
+- **(1)** Le directeur peut, par avis de retrait remis à l’exploitant, retirer l’agrément d’un poste d’oeufs agréé dans l’un ou l’autre des cas suivants :
 	- **a)** l’exploitant n’a pas corrigé la situation dans l’un ou l’autre des délais suivants :
-		- **(i)** dans les trente jours suivant la date de suspension de l’agrément aux termes du paragraphe 7.1(1),
-		- **(ii)** dans le délai visé au paragraphe 7.1(2.2), dans le cas d’une suspension imposée au titre du paragraphe 7.1(2.1);
+		- **(i)** dans les trente jours suivant la date de suspension de l’agrément aux termes du paragraphe 7.1(1),
+		- **(ii)** dans le délai visé au paragraphe 7.1(2.2), dans le cas d’une suspension imposée au titre du paragraphe 7.1(2.1);
 	- **b)** la demande d’agrément contient des renseignements faux ou trompeurs.
 
-- **(2)** L’agrément d’un poste d’oeufs ne peut être retiré que si :
-	- **a)** l’exploitant a été avisé de la possibilité de se faire entendre et s’est vu accorder cette possibilité;
-	- **b)** un avis de retrait de l’agrément a été remis à l’exploitant.
-> DORS/90-110, art. 3; DORS/2006-193, art. 4.
+- **(2)** L’agrément d’un poste d’oeufs ne peut être retiré que si l’exploitant a été avisé de la possibilité de se faire entendre et s’est vu accorder cette possibilité.
+> DORS/90-110, art. 3; DORS/2006-193, art. 4; DORS/2012-286, art. 33.
 
 
 
@@ -511,6 +509,8 @@ Autorités habilitantes :
 
 
 **13** Dans la présente partie, le mot ***propre*** signifie exempt de saleté, de résidu d’oeufs et de toute marque, étiquette ou agrafe appliquées antérieurement.
+> DORS/2012-286, art. 34(A).
+
 
 
 
@@ -604,12 +604,12 @@ Autorités habilitantes :
 	- **a)** imprimées, estampillées ou faites au pochoir au centre d’un des quatre côtés de chaque boîte, caisse ou autre récipient;
 	- **b)** imprimées sur une étiquette fermement apposée au centre d’un des quatre côtés de chaque boîte, caisse ou autre récipient.
 
-- **(2)** L’étiquette visée à l’alinéa (1)b) doit être d’une largeur d’au moins 75 mm et d’une longueur d’au moins 150 mm.
+- **(2)** L’étiquette visée à l’alinéa (1)b) doit être d’une largeur d’au moins 75 mm et d’une longueur d’au moins 150 mm.
 
 **TABLEAU** 
 ## [Abrogé, DORS/92-70, art. 5]
 
-> DORS/90-299, art. 7; DORS/92-70, art. 5; DORS/98-131, art. 7; DORS/2006-193, art. 9.
+> DORS/90-299, art. 7; DORS/92-70, art. 5; DORS/98-131, art. 7; DORS/2006-193, art. 9; DORS/2012-286, art. 35(A).
 
 
 
@@ -617,14 +617,14 @@ Autorités habilitantes :
 **20** 
 
 - **(1)** Les lettres et chiffres que portent chacun des contenants, sauf un plateau suremballé et une boîte à oeufs, ainsi que chacune des étiquettes doivent être :
-	- **a)** sous réserve de l’alinéa b), d’au moins 13 mm de hauteur pour le nom de la catégorie et les mentions « oeufs » et « *eggs* », « Produit du Canada » et « *Product of Canada* », « oeufs non classés » ou « *ungraded eggs* » et « teints » ou « *dyed* »;
+	- **a)** sous réserve de l’alinéa b), d’au moins 13 mm de hauteur pour le nom de la catégorie et les mentions « oeufs » et « *eggs* », « Produit du Canada » et « *Product of Canada* », « oeufs non classés » ou « *ungraded eggs* » et « teints » ou « *dyed* »;
 	- **b)** si le nom de la catégorie figure à l’intérieur du dessin d’une feuille d’érable, d’au moins
-		- **(i)** 6 mm de hauteur pour le mot « Canada », et
-		- **(ii)** 13 mm de hauteur pour le reste du nom de catégorie, la désignation du calibre des oeufs et pour les mentions « oeufs » et « *eggs* » et « Produit du Canada » et « *Product of Canada* »;
-	- **c)** d’au moins 6 mm de hauteur pour toutes les autres lettres et tous les autres chiffres.
+		- **(i)** 6 mm de hauteur pour le mot « Canada », et
+		- **(ii)** 13 mm de hauteur pour le reste du nom de catégorie, la désignation du calibre des oeufs et pour les mentions « oeufs » et « *eggs* » et « Produit du Canada » et « *Product of Canada* »;
+	- **c)** d’au moins 6 mm de hauteur pour toutes les autres lettres et tous les autres chiffres.
 
 - **(2)** Les mentions « Produit du Canada » et « *Product of Canada* » doivent figurer immédiatement sous les mots « oeufs » et « *eggs* » sur le contenant.
-> DORS/81-1007, art. 7; DORS/98-131, art. 8; DORS/2006-193, art. 10.
+> DORS/81-1007, art. 7; DORS/98-131, art. 8; DORS/2006-193, art. 10; DORS/2012-286, art. 36(A).
 
 
 
