@@ -192,18 +192,19 @@
 
 - **(1)** This Act applies in respect of pension plans.
 
-**Definition of “pension plan”**
+**Definition of pension plan**
 
 - **(2)** In this Act, ***pension plan*** means a superannuation or other plan organized and administered to provide pension benefits to employees employed in included employment (and former employees) and to which the employer is required under or in accordance with the plan to contribute, whether or not provision is also made for other benefits or for benefits to other persons, and includes a supplemental pension plan, whether or not the employer is required to make contributions under or in accordance with the supplemental pension plan, but does not include
 	- **(a)** an employees’ profit sharing plan or a deferred profit sharing plan as defined in sections 144 and 147, respectively, of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
-	- **(b)** an arrangement to provide a “retiring allowance” as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+	- **(b)** an arrangement to provide a ***retiring allowance*** as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+	- **(b.1)** a pooled registered pension plan, as defined in subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md); or
 	- **(c)** any other prescribed arrangement.
 
-**Definition of “supplemental pension plan”**
+**Definition of supplemental pension plan**
 
 - **(3)** In subsection (2), ***supplemental pension plan*** means a pension plan for employees whose membership in another pension plan is a condition precedent to membership in the supplemental pension plan and that is an integral part of that other plan.
 
-**Definition of “included employment”**
+**Definition of included employment**
 
 - **(4)** In this Act, ***included employment*** means employment, other than excepted employment, on or in connection with the operation of any work, undertaking or business that is within the legislative authority of the Parliament of Canada, including, without restricting the generality of the foregoing,
 	- **(a)** any work, undertaking or business operated or carried on for or in connection with navigation and shipping, whether inland or maritime, including the operation of a ship and transportation by ship anywhere in Canada;
@@ -216,7 +217,7 @@
 	- **(h)** any work, undertaking or business that, although wholly situated within a province, is before or after its execution declared by the Parliament of Canada to be for the general advantage of Canada or for the advantage of two or more provinces; and
 	- **(i)** any work, undertaking or business outside the exclusive legislative authority of provincial legislatures, and any work, undertaking or business of a local or private nature in Yukon, the Northwest Territories or Nunavut.
 
-**Definition of “excepted employment”**
+**Definition of excepted employment**
 
 - **(5)** In this Act, ***excepted employment*** means
 	- **(a)** employment by Her Majesty in right of Canada; and
@@ -229,7 +230,7 @@
 	- **(b)** any other employment if the Governor in Council, on a report of the Minister, is satisfied that
 		- **(i)** provision has been made for the coverage of employees employed in that employment under the terms of a pension plan that is organized and administered for the benefit primarily of employees employed in other than included employment and that is required to be registered under the law of a designated province, or
 		- **(ii)** in any other case, the exception of that employment is warranted having regard to the existence of other arrangements for the safeguarding of any benefits that are or may become available to employees or other persons in respect of that employment, or having regard to such other circumstances as the Governor in Council deems relevant.
-> R.S., 1985, c. 32 (2nd Supp.), s. 4; 1993, c. 28, s. 78; 1999, c. 28, s. 172, c. 31, s. 244(F); 2002, c. 7, s. 226.
+> R.S., 1985, c. 32 (2nd Supp.), s. 4; 1993, c. 28, s. 78; 1999, c. 28, s. 172, c. 31, s. 244(F); 2002, c. 7, s. 226; 2012, c. 16, s. 84.
 
 
 
@@ -369,10 +370,8 @@
 		- **(i)** the employer, or
 		- **(ii)** if the plan is established under one or more collective agreements and the terms of the plan or the collective agreement or agreements to manage the affairs of the plan provide for the constitution of a board of trustees or other similar body, that body.
 
-**Administrator of simplified pension plan**
-
-- **(2)** In the case of a simplified pension plan, the administrator of the pension plan shall be the prescribed person or body.
-> R.S., 1985, c. 32 (2nd Supp.), s. 7; 1998, c. 12, s. 5.
+- **(2)** [Repealed, 2012, c. 16, s. 85]
+> R.S., 1985, c. 32 (2nd Supp.), s. 7; 1998, c. 12, s. 5; 2012, c. 16, s. 85.
 
 
 
@@ -563,14 +562,14 @@ The administrator shall inform the Superintendent, in the form and manner, if an
 
 **Other conflicts of interest**
 
-- **(10)** If there is a material conflict of interest between the role of an employer who is an administrator, or the role of the administrator of a simplified pension plan, and their role in any other capacity, the administrator
+- **(10)** If there is a material conflict of interest between the role of an employer who is an administrator and their role in any other capacity, the administrator
 	- **(a)** shall, within thirty days after becoming aware that a material conflict of interest exists, declare that conflict of interest to the pension council or to the members of the pension plan; and
 	- **(b)** shall act in the best interests of the members of the pension plan.
 
 **Court order**
 
 - **(11)** If an administrator contravenes subsection (10), a court of competent jurisdiction may, on application by the Superintendent or any other interested person, make any order on such terms as the court considers appropriate.
-> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6; 2010, c. 12, s. 1791.
+> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6; 2010, c. 12, s. 1791; 2012, c. 16, s. 86.
 
 
 
@@ -935,8 +934,14 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 **No transfer without permission**
 
-**10.2** Subject to section 26, the administrator may transfer or permit the transfer of any part of the assets of the pension plan that relate to defined benefit provisions to another pension plan, including a pension plan to which this Act does not apply, only with the Superintendent’s permission.
-> 1998, c. 12, s. 10; 2010, c. 12, s. 1799.
+**10.2** 
+
+- **(1)** Subject to section 26, the administrator may transfer or permit the transfer of any part of the assets of the pension plan that relate to defined benefit provisions to another pension plan, including a pension plan to which this Act does not apply, only with the Superintendent’s permission.
+
+**Transfer to pooled registered pension plan**
+
+- **(2)** Subject to section 26, the administrator may transfer or permit the transfer of any part of the assets of the pension plan to a pooled registered pension plan, within the meaning of subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md), only with the Superintendent’s permission.
+> 1998, c. 12, s. 10; 2010, c. 12, s. 1799; 2012, c. 16, s. 87.
 
 
 
@@ -1506,9 +1511,10 @@ if the member or the survivor notifies the administrator of that desire, in pres
 **Pension plans include**
 
 - **(5)** For the purposes of this section, pension plans to which pension benefits may be transferred include
-	- **(a)** pension plans that are under provincial jurisdiction; and
-	- **(b)** pension plans that are organized and administered to provide pension benefits to employees employed in excepted employment.
-> R.S., 1985, c. 32 (2nd Supp.), s. 26; 1995, c. 17, s. 61; 1998, c. 12, s. 16; 1999, c. 31, s. 175(F); 2000, c. 12, s. 264; 2001, c. 34, s. 74(F); 2010, c. 12, s. 1813, c. 25, s. 192.
+	- **(a)** pension plans that are under provincial jurisdiction;
+	- **(b)** pension plans that are organized and administered to provide pension benefits to employees employed in excepted employment; and
+	- **(c)** a pooled registered pension plan, as defined in subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md).
+> R.S., 1985, c. 32 (2nd Supp.), s. 26; 1995, c. 17, s. 61; 1998, c. 12, s. 16; 1999, c. 31, s. 175(F); 2000, c. 12, s. 264; 2001, c. 34, s. 74(F); 2010, c. 12, s. 1813, c. 25, s. 192; 2012, c. 16, s. 88.
 
 
 
@@ -2236,7 +2242,7 @@ is guilty of an offence.
 
 - **(1)** The Governor in Council may make regulations
 	- **(a)** respecting applications for registration of pension plans;
-	- **(a.1)** respecting simplified pension plans;
+	- **(a.1)** [Repealed, 2012, c. 16, s. 89]
 	- **(b)** respecting the fees that may be charged for the registration of pension plans and for the supervision, including inspection, of registered pension plans;
 	- **(b.1)** respecting the implementation of a multilateral agreement;
 	- **(b.2)** exempting a multilateral agreement or any provision of that agreement from the application of subsection 6.2(1);
@@ -2295,7 +2301,7 @@ with
 **General or specific application**
 
 - **(3)** A regulation made for the purposes of subsection 8(4.1) or 9(1), sections 9.11 to 9.15 or subsection 10.1(2) may be made applicable generally to all pension plans or specifically to one or more pension plans.
-> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820, c. 25, ss. 196, 198.
+> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820, c. 25, ss. 196, 198; 2012, c. 16, s. 89.
 
 
 
