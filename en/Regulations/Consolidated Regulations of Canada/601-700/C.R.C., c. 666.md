@@ -474,7 +474,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(d)** the weight of the lot or shipment.
 
 - **(6)** Where a package of mixed fertilizer is sold and does not contain a label showing the name and grade of each compound or ingredient in the fertilizer, the vendor shall, at the request of the purchaser, provide such information in writing, if requested, at the time of sale.
-> SOR/79-365, s. 13; SOR/85-558, s. 8; SOR/91-441, s. 3; SOR/92-585, s. 2; SOR/2000-184, s. 57; SOR/2004-80, s. 13; SOR/2006-147, s. 9.
+> SOR/79-365, s. 13; SOR/85-558, s. 8; SOR/91-441, s. 3; SOR/92-585, s. 2; SOR/2000-184, s. 57; SOR/2004-80, s. 13; SOR/2006-147, s. 9; SOR/2012-286, s. 1(F).
 
 
 
@@ -518,7 +518,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(b)** the name and volume of the supplement.
 
 - **(4)** Notwithstanding subsections (1) to (3), where a supplement is sold in bulk, the information required by those subsections to be shown on a label shall be shown on the shipping bill or on a statement accompanying the shipment.
-> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4; SOR/2006-147, s. 10.
+> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4; SOR/2006-147, s. 10; SOR/2012-286, s. 2(F).
 
 
 
