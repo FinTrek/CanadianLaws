@@ -6980,11 +6980,15 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.02.030** **[N].** Le **rhum**:
 - **a)** doit être un distillat alcoolique potable ou un mélange de distillats alcooliques potables obtenu à partir de la canne à sucre ou des produits de la canne à sucre fermentés au moyen de levure ou d’un mélange de levure et d’autres micro-organismes;
-- **b)** peut contenir :
+- **b)** peut contenir :
 	- **(i)** du caramel,
 	- **(ii)** des fruits et d’autres substances végétales,
-	- **(iii)** des substances aromatiques et des préparations aromatisantes.
-> DORS/93-145, art. 13.
+	- **(iii)** des substances aromatiques et des préparations aromatisantes;
+- **c)** s’il est importé en vrac aux fins d’embouteillage et de vente au Canada comme du rhum importé, peut être seulement :
+	- **(i)** modifié par adjonction d’eau distillée ou autrement purifiée pour ramener le rhum au degré alcoolique indiqué sur l’étiquette apposée sur le contenant,
+	- **(ii)** modifié par adjonction de caramel,
+	- **(iii)** mélangé avec un autre rhum importé ou, s’il s’agit d’un rhum vendu comme du rhum antillais, avec un autre rhum.
+> DORS/93-145, art. 13; DORS/2012-292, art. 1.
 
 
 
@@ -7003,26 +7007,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**B.02.033** Est interdit tout mélange ou toute modification de rhum importé en vrac aux fins d’embouteillage et de vente au Canada comme du rhum importé, sauf
-- **a)** le mélange avec d’autres rhums importés;
-- **b)** l’addition d’eau distillée ou autrement purifiée pour ramener le rhum au degré alcoolique indiqué sur l’étiquette apposée sur le contenant;
-- **c)** l’addition de caramel.
-> DORS/89-127, art. 1.
+**B.02.033** [Abrogé, DORS/2012-292, art. 2]
 
 
 
-
-**B.02.034** 
-
-- **(1)** Par dérogation à l’article B.02.033, est interdit tout mélange ou toute modification de rhum obtenu des produits de la canne à sucre d’un pays des Antilles du Commonwealth, qui a été distillé et fermenté dans un tel pays et importé en vrac d’un tel pays aux fins d’embouteillage et de vente au Canada comme du rhum provenant des Antilles, sauf :
-	- **a)** le mélange avec d’autres rhums d’un pays des Antilles du Commonwealth;
-	- **b)** le mélange avec du rhum canadien de telle sorte que la proportion de rhum canadien dans le produit final soit entre un et 1,5 pour cent par volume;
-	- **c)** l’addition d’eau distillée ou autrement purifiée pour ramener le rhum au degré alcoolique indiqué sur l’étiquette apposée sur le contenant;
-	- **d)** l’addition de caramel.
-
-- **(2)** Dans le présent article, ***pays des Antilles du Commonwealth*** désigne : Anguilla, Antigua et Barbuda, Barbade, Bahamas, Belize, Bermudes, Îles Vierges britanniques, Îles Caïmanes, Dominique, Grenade, Guyane, Jamaïque, Montserrat, Saint-Christophe-et-Nevis, Sainte-Lucie, Saint-Vincent-et-Grenadines, Trinité et Tobago et Îles Turques et Caïques.
-> DORS/89-127, art. 2.
-
+**B.02.034** [Abrogé, DORS/2012-292, art. 2]
 
 
 
