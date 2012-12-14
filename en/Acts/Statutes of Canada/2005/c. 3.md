@@ -83,7 +83,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exception**
 
-- **(2)** Subsection (1) does not apply in respect of Articles 47 to 62 of the Convention and Articles XI and XXVI to XXXII of the Aircraft Protocol.
+- **(2)** Subsection (1) does not apply in respect of Articles 47 to 62 of the Convention and Articles XXVI to XXXVII of the Aircraft Protocol.
+> 2005, c. 3, s. 4; 2012, c. 31, s. 411.
+
 
 
 
@@ -105,7 +107,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Inconsistent laws**
 
-**6** If a provision of this Act, including a provision given force of law by section 4, is inconsistent with any other law, the provision prevails over the other law to the extent of the inconsistency.
+**6** 
+
+- **(1)** Subject to subsection (2), a provision of this Act or of the regulations, or a provision of the Convention or Aircraft Protocol given force of law by section 4, that is inconsistent with any other law prevails over the other law to the extent of the inconsistency.
+
+**Exception**
+
+- **(2)** A provision referred to in any of the following paragraphs (a) to (f) that is inconsistent with a provision of this Act or of the regulations, or with a provision of the Convention or Aircraft Protocol given force of law by section 4, prevails over the provision of this Act, the regulations, the Convention or the Aircraft Protocol to the extent of the inconsistency:
+	- **(a)** a provision of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+	- **(b)** a provision of Part II.1 or XII.2 or any of sections 487 to 490.01 and 490.1 to 490.9 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+	- **(c)** a provision of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md);
+	- **(d)** a provision of the [Special Economic Measures Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2017.md);
+	- **(e)** a provision of the [United Nations Act](/en/Acts/Revised%20Statutes%20of%20Canada/U/U-2.md);
+	- **(f)** a provision of any regulations made for the purposes of a provision referred to in any of paragraphs (a) to (e).
+> 2005, c. 3, s. 6; 2012, c. 31, s. 412.
+
 
 
 
@@ -145,6 +161,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Regulations**
 
 **9** The Governor in Council may make any regulations that are necessary for carrying out any of the provisions of this Act, including the provisions given force of law by section 4.
+
+
+
+
+## Transitional Provision
+
+
+
+**Article XI of Aircraft Protocol**
+
+**9.1** Article XI of the Aircraft Protocol does not apply to an insolvency-related event that occurs before the day on which subsection 4(1) comes into force.
+> 2012, c. 31, s. 413.
+
 
 
 
