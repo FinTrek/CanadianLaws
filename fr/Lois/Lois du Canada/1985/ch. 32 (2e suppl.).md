@@ -196,6 +196,7 @@
 - **(2)** Pour l’application de la présente loi, ***régime de pension*** s’entend d’un régime de retraite ou autre institué et géré en vue d’assurer des prestations de pension aux salariés occupant un emploi inclus ainsi qu’aux anciens salariés, que le régime prévoie ou non d’autres prestations ou le paiement de prestations à d’autres personnes, et au titre duquel et conformément auquel l’employeur est tenu d’y verser des cotisations; est assimilé à un régime de pension tout régime complémentaire, au titre duquel ou conformément auquel l’employeur est tenu d’y verser des cotisations, mais non :
 	- **a)** les régimes de participation des employés aux bénéfices et les régimes de participation différée aux bénéfices au sens des articles 144 et 147 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **b)** les ententes en vue du versement d’une allocation de retraite au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b.1)** les régimes de pension agréés collectifs au sens du paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md);
 	- **c)** les autres ententes prévues par les règlements.
 
 **Définition de régime complémentaire**
@@ -228,7 +229,7 @@
 	- **b)** tout autre emploi, s’il est convaincu, sur le rapport du ministre :
 		- **(i)** soit que des dispositions ont été prises en vue d’offrir aux salariés occupant un tel emploi la garantie d’un régime de pension institué et géré, essentiellement pour des salariés qui n’occupent pas un emploi inclus, et qui doit être agréé en application de la loi d’une province désignée,
 		- **(ii)** soit, dans les autres cas, que l’exclusion est justifiée, compte tenu de l’existence d’autres ententes visant à protéger les prestations dont bénéficient ou pourront bénéficier des salariés ou d’autres personnes relativement à cet emploi, ou de toutes autres circonstances qu’il estime indiquées.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 28, art. 78; 1999, ch. 28, art. 172, ch. 31, art. 244(F); 2002, ch. 7, art. 226.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 28, art. 78; 1999, ch. 28, art. 172, ch. 31, art. 244(F); 2002, ch. 7, art. 226; 2012, ch. 16, art. 84.
 
 
 
@@ -366,10 +367,8 @@
 	- **b)** dans le cas de tout autre régime interentreprises, le comité des pensions constitué, conformément aux dispositions du régime de pension et à l’article 7.1, pour gérer le régime;
 	- **c)** dans le cas de tout autre régime de pension, l’organe de gestion désigné dans le régime de pension ou dans la convention collective par les parties liées par une convention collective ou, à défaut, l’employeur.
 
-**Administrateur du régime simplifié**
-
-- **(2)** Toutefois, dans le cas d’un régime de pension simplifié, l’administrateur est la personne ou l’organe désigné par règlement.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 7; 1998, ch. 12, art. 5.
+- **(2)** [Abrogé, 2012, ch. 16, art. 85]
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 7; 1998, ch. 12, art. 5; 2012, ch. 16, art. 85.
 
 
 
@@ -552,14 +551,14 @@
 
 **Autre conflit d’intérêts**
 
-- **(10)** L’employeur qui est l’administrateur et qui se trouve dans un conflit d’intérêts sérieux entre les fonctions qu’il exerce à ce double titre de même que l’administrateur d’un régime de pension simplifié qui, en raison des fonctions qu’il occupe par ailleurs, se trouve dans un tel conflit doivent :
-	- **a)** faire part du conflit au conseil des pensions ou aux participants du régime de pension dans les trente jours suivant le moment où ils en constatent l’existence;
+- **(10)** L’employeur qui est l’administrateur et qui se trouve dans un conflit d’intérêts sérieux entre les fonctions qu’il exerce à ce double titre et celles qu’il assume par ailleurs doit :
+	- **a)** faire part du conflit au conseil des pensions ou aux participants du régime de pension dans les trente jours suivant le moment où il en constate l’existence;
 	- **b)** agir de façon à servir les intérêts des participants.
 
 **Ordonnance du tribunal**
 
 - **(11)** En cas de contravention au paragraphe (10), le tribunal compétent peut, à la demande du surintendant ou de tout autre intéressé, rendre l’ordonnance qu’il estime indiquée en l’espèce.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 8; 1998, ch. 12, art. 6; 2010, ch. 12, art. 1791.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 8; 1998, ch. 12, art. 6; 2010, ch. 12, art. 1791; 2012, ch. 16, art. 86.
 
 
 
@@ -920,8 +919,14 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 **Consentement préalable au transfert**
 
-**10.2** Sous réserve de l’article 26, l’administrateur ne peut, sans le consentement du surintendant, effectuer le transfert d’éléments de l’actif du régime de pension liés à une disposition à prestations déterminées vers un autre régime, assujetti ou non à la présente loi.
-> 1998, ch. 12, art. 10; 2010, ch. 12, art. 1799.
+**10.2** 
+
+- **(1)** Sous réserve de l’article 26, l’administrateur ne peut, sans le consentement du surintendant, effectuer le transfert d’éléments de l’actif du régime de pension liés à une disposition à prestations déterminées vers un autre régime, assujetti ou non à la présente loi.
+
+**Consentement préalable au transfert**
+
+- **(2)** Sous réserve de l’article 26, l’administrateur ne peut, sans le consentement du surintendant, effectuer le transfert d’éléments de l’actif du régime de pension vers un régime de pension agréé collectif au sens du paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md).
+> 1998, ch. 12, art. 10; 2010, ch. 12, art. 1799; 2012, ch. 16, art. 87.
 
 
 
@@ -1479,8 +1484,8 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 **Portée**
 
-- **(5)** Pour l’application du présent article, un régime de pension auquel des prestations de pension peuvent être transférées vise notamment le régime de pension de compétence provinciale et celui qui est institué et géré pour fournir des prestations de pension aux employés qui ont un emploi exclu.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 26; 1995, ch. 17, art. 61; 1998, ch. 12, art. 16; 1999, ch. 31, art. 175(F); 2000, ch. 12, art. 264; 2001, ch. 34, art. 74(F); 2010, ch. 12, art. 1813, ch. 25, art. 192.
+- **(5)** Pour l’application du présent article, un régime de pension auquel des prestations de pension peuvent être transférées vise notamment le régime de pension de compétence provinciale, celui qui est institué et géré pour fournir des prestations de pension aux employés qui ont un emploi exclu et le régime de pension agréé collectif au sens du paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md).
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 26; 1995, ch. 17, art. 61; 1998, ch. 12, art. 16; 1999, ch. 31, art. 175(F); 2000, ch. 12, art. 264; 2001, ch. 34, art. 74(F); 2010, ch. 12, art. 1813, ch. 25, art. 192; 2012, ch. 16, art. 88.
 
 
 
@@ -2200,7 +2205,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** régir les demandes d’agrément de régimes de pension;
-	- **a.1)** régir les régimes de pension simplifiés;
+	- **a.1)** [Abrogé, 2012, ch. 16, art. 89]
 	- **b)** régir les droits à percevoir pour l’agrément de régimes de pension et pour la supervision, notamment l’inspection, des régimes de pension agréés;
 	- **b.1)** régir la mise en oeuvre d’un accord multilatéral;
 	- **b.2)** soustraire un accord multilatéral ou telle de ses dispositions à l’application du paragraphe 6.2(1);
@@ -2258,7 +2263,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Portée générale ou particulière**
 
 - **(3)** Les règlements d’application des paragraphes 8(4.1) et 9(1), des articles 9.11 à 9.15 et du paragraphe 10.1(2) peuvent être d’application générale ou viser plus spécifiquement un ou plusieurs régimes de pension.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820, ch. 25, art. 196 et 198.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820, ch. 25, art. 196 et 198; 2012, ch. 16, art. 89.
 
 
 
