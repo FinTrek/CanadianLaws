@@ -178,7 +178,7 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 		- **(ii)** dans une province autre que celle dans laquelle la mesure est prise, l’activité est exercée ou le projet désigné ou le projet est réalisé,
 		- **(iii)** à l’étranger;
 	- **c)** s’agissant des peuples autochtones, les répercussions au Canada des changements qui risquent d’être causés à l’environnement, selon le cas :
-		- **(i)** sur les plans sanitaire et socio-économique,
+		- **(i)** en matière sanitaire et socio-économique,
 		- **(ii)** sur le patrimoine naturel et le patrimoine culturel,
 		- **(iii)** sur l’usage courant de terres et de ressources à des fins traditionnelles,
 		- **(iv)** sur une construction, un emplacement ou une chose d’importance sur le plan historique, archéologique, paléontologique ou architectural.
@@ -195,6 +195,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Annexe 2**
 
 - **(3)** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter ou en retrancher toute composante de l’environnement.
+> 2012, ch. 19, art. 52 « 5 », ch. 31, art. 425(F)
+
 
 
 
@@ -217,6 +219,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **7** L’autorité fédérale ne peut exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie d’un projet désigné que si, selon le cas :
 - **a)** l’Agence décide, au titre de l’alinéa 10b), qu’aucune évaluation environnementale du projet n’est requise et affiche sa décision sur le site Internet;
 - **b)** la déclaration remise au promoteur du projet au titre du paragraphe 31(3) ou de l’article 54 relativement au projet donne avis d’une décision portant que la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants ou que les effets environnementaux négatifs importants que la réalisation du projet est susceptible d’entraîner sont justifiables dans les circonstances.
+> 2012, ch. 19, art. 52 « 7 », ch. 31, art. 426(A)
+
 
 
 
@@ -317,6 +321,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Avis de l’arrêté affiché sur le site Internet**
 
 - **(6)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en vertu du paragraphe (2).
+> 2012, ch. 19, art. 52 « 14 », ch. 31, art. 427(A)
+
 
 
 
@@ -1009,9 +1015,11 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 
 **Mesures d’atténuation et programmes de suivi**
 
-- **(4)** Les conditions visées aux paragraphes (1) et (2) sont les suivantes :
+- **(4)** Les conditions visées aux paragraphes (1) et (2) sont notamment les suivantes :
 	- **a)** la mise en oeuvre des mesures d’atténuation dont il a été tenu compte dans le cadre des décisions prises au titre du paragraphe 52(1);
 	- **b)** la mise en oeuvre d’un programme de suivi.
+> 2012, ch. 19, art. 52 « 53 », ch. 31, art. 428
+
 
 
 
@@ -1149,6 +1157,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Pouvoir de l’autorité responsable visée à l’un des alinéas 15a) à c)**
 
 **63** L’autorité responsable visée à l’un des alinéas 15a) à c) peut mettre fin à l’évaluation environnementale d’un projet désigné pour lequel elle est l’autorité responsable si elle décide de ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet et si, s’agissant de l’autorité visée à l’alinéa 15c), l’évaluation environnementale du projet n’a pas été renvoyée, au titre de l’article 38, pour examen par une commission.
+> 2012, ch. 19, art. 52 « 63 », ch. 31, art. 429(A)
+
 
 
 
@@ -1156,6 +1166,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Pouvoir du ministre**
 
 **64** Le ministre peut mettre fin à l’examen par une commission d’un projet désigné pour lequel l’autorité responsable est visée à l’alinéa 15c) si celle-ci décide de ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet.
+> 2012, ch. 19, art. 52 « 64 », ch. 31, art. 429(A)
+
 
 
 
@@ -1181,9 +1193,11 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 
 ***autorité***
 - **a)** Autorité fédérale;
-- **b)** tout autre organisme mentionné à l’annexe 3.
+- **b)** tout autre organisme mentionné à l’annexe 3. (*authority*)
 
-***projet*** Activité concrète qui est liée à un ouvrage et qui n’est pas un projet désigné.
+***projet*** Activité concrète qui est réalisée sur un territoire domanial ou à l’étranger, est liée à un ouvrage et n’est pas un projet désigné. (*project*)
+> 2012, ch. 19, art. 52 « 66 », ch. 31, art. 430
+
 
 
 
@@ -1193,6 +1207,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **67** L’autorité ne peut réaliser un projet sur un territoire domanial ou exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet sur un tel territoire que si, selon le cas :
 - **a)** elle décide que la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants;
 - **b)** elle décide que la réalisation du projet est susceptible d’entraîner des effets environnementaux négatifs importants et le gouverneur en conseil décide, au titre du paragraphe 69(3), que ces effets sont justifiables dans les circonstances.
+> 2012, ch. 19, art. 52 « 67 », ch. 31, art. 431(A)
+
 
 
 
@@ -2116,6 +2132,14 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 	- **c)** l’autorité responsable a pris une décision au titre des alinéas 20(1)a) ou b) ou du paragraphe 37(1) de l’ancienne loi relativement au projet;
 	- **d)** le projet est visé par un arrêté pris en vertu du paragraphe (2).
 
+**Exception**
+
+- **(1.1)** L’alinéa (1)b) ne s’applique pas si la réalisation en tout ou en partie du projet exige l’exercice par une autorité fédérale d’attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui étaient des attributions visées au paragraphe 5(1) de l’ancienne loi.
+
+**Cessation d’effet**
+
+- **(1.2)** Le paragraphe (1.1) cesse d’avoir effet le 1<sup>er</sup> janvier 2014.
+
 **Pouvoir du ministre**
 
 - **(2)** À la date d’entrée en vigueur de la présente loi, le ministre peut, par arrêté, soustraire à l’application de la présente loi un projet, au sens de l’ancienne loi, qui est un projet désigné au sens de la présente loi, s’il est d’avis que le projet n’était pas assujetti à l’ancienne loi et qu’une instance ayant des attributions relatives à l’évaluation des effets environnementaux du projet en a commencé l’évaluation avant cette date.
@@ -2123,6 +2147,8 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Avis de l’arrêté affiché sur le site Internet**
 
 - **(3)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en application du paragraphe (2).
+> 2012, ch. 19, art. 52 « 128 », ch. 31, art. 432
+
 
 
 
