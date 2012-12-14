@@ -328,7 +328,7 @@ Enabling authorities:
 - **(1)** The Director may suspend the registration of a registered processed egg station
 	- **(a)** where
 		- **(i)** the processed egg station does not meet the provisions of the Act or these Regulations,
-		- **(ii)** the operator does not comply with the provisions of the Act, these Regulations, the Egg and Processed Egg Fees Order or the Canadian Food Inspection Agency Fees Notice, or
+		- **(ii)** the operator does not comply with the provisions of the Act, these Regulations or the Canadian Food Inspection Agency Fees Notice, or
 		- **(iii)** it is reasonable to believe that public health will be endangered if the processed egg station is allowed to continue operating; and
 	- **(b)** where the operator has failed or is unable to take immediate corrective measures to remedy any situation referred to in paragraph (a).
 
@@ -341,7 +341,7 @@ Enabling authorities:
 	- **(a)** until the required corrective measures have been taken and have been verified by an inspector;
 	- **(b)** where a cancellation procedure has been commenced under section 6.2, until the resolution of the cancellation issue; or
 	- **(c)** where a cancellation procedure has not been commenced under section 6.2, until a period of 90 days has elapsed.
-> SOR/91-423, s. 2; SOR/96-123, s. 1; SOR/2000-183, s. 15.
+> SOR/91-423, s. 2; SOR/96-123, s. 1; SOR/2000-183, s. 15; SOR/2012-286, s. 37.
 
 
 
