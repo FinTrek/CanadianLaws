@@ -3894,11 +3894,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <a name='fn_IndAD2C_hq_12930'><sup>*</sup></a>: [Note: Sections 605 and 607 not in force.]<br />
 
-**January 1**
+**Order in council**
 
-- <sup><a href='#fn_IndAD2C_hq_12931'>[*]</a></sup>**(3)** Subsections 609(2) and (6), 610(2) and 611(2) come into force on January 1 of the first year for which the Canada Employment Insurance Financing Board reports that, by the end of that year, according to its chief actuary’s projections, the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008, will be equal to or greater than the total of the amounts charged to that Account after that date.
+- <sup><a href='#fn_IndAD2C_hq_12931'>[*]</a></sup>**(3)** Subsections 609(2) and (6), 610(2) and 611(2) come into force on a day to be fixed by order of the Governor in Council.
 
 <a name='fn_IndAD2C_hq_12931'><sup>*</sup></a>: [Note: Subsections 609(2) and (6), 610(2) and 611(2) not in force.]<br />
+> 2012, c. 19, s. 619, c. 31, s. 451.
+
 
 
 
