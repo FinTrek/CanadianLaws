@@ -201,6 +201,8 @@ It does not include the Executive Council of — or a minister, department, agen
 **Schedule 2**
 
 - **(3)** The Governor in Council may, by order, amend Schedule 2 to add or remove a component of the environment.
+> 2012, c. 19, s. 52 "5", c. 31, s. 425(F)
+
 
 
 
@@ -220,9 +222,11 @@ It does not include the Executive Council of — or a minister, department, agen
 
 **Federal authority**
 
-**7** A federal authority must not exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that would permit a designated project to be carried out in whole or in part unless
+**7** A federal authority must not exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that could permit a designated project to be carried out in whole or in part unless
 - **(a)** the Agency makes a decision under paragraph 10(b) that no environmental assessment of the designated project is required and posts that decision on the Internet site; or
 - **(b)** the decision statement with respect to the designated project that is issued under subsection 31(3) or section 54 to the proponent of the designated project indicates that the designated project is not likely to cause significant adverse environmental effects or that the significant adverse environmental effects that it is likely to cause are justified in the circumstances.
+> 2012, c. 19, s. 52 “7”, c. 31, s. 426(E)
+
 
 
 
@@ -318,11 +322,13 @@ It does not include the Executive Council of — or a minister, department, agen
 
 - **(5)** The Minister must not make the designation referred to in subsection (2) if
 	- **(a)** the carrying out of the physical activity has begun and, as a result, the environment has been altered; or
-	- **(b)** a federal authority has exercised a power or performed a duty or function conferred on it under any Act of Parliament other than this Act that would permit the physical activity to be carried out, in whole or in part.
+	- **(b)** a federal authority has exercised a power or performed a duty or function conferred on it under any Act of Parliament other than this Act that could permit the physical activity to be carried out, in whole or in part.
 
 **Posting of notice of order on Internet site**
 
 - **(6)** The Agency must post on the Internet site a notice of any order made under subsection (2).
+> 2012, c. 19, s. 52 “14”, c. 31, s. 427(E)
+
 
 
 
@@ -1017,9 +1023,11 @@ It does not include the Executive Council of — or a minister, department, agen
 
 **Mitigation measures and follow-up program**
 
-- **(4)** The conditions referred to in subsections (1) and (2) are
+- **(4)** The conditions referred to in subsections (1) and (2) must include
 	- **(a)** the implementation of the mitigation measures that were taken into account in making the decisions under subsection 52(1); and
 	- **(b)** the implementation of a follow-up program.
+> 2012, c. 19, s. 52 “53”, c. 31, s. 428
+
 
 
 
@@ -1154,16 +1162,20 @@ It does not include the Executive Council of — or a minister, department, agen
 
 
 
-**Termination by responsible authority referred to in any of paragraphs 15(a) to (c)**
+**Termination by responsible authority**
 
-**63** The responsible authority referred to in any of paragraphs 15(a) to (c) may terminate the environmental assessment of a designated project for which it is the responsible authority if it decides not to exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that would permit the designated project to be carried out in whole or in part and, if the responsible authority is referred to in paragraph 15(c), the environmental assessment of a designated project was not referred to a review panel under section 38.
+**63** The responsible authority referred to in any of paragraphs 15(a) to (c) may terminate the environmental assessment of a designated project for which it is the responsible authority if it decides not to exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that could permit the designated project to be carried out in whole or in part and, if the responsible authority is referred to in paragraph 15(c), the environmental assessment of a designated project was not referred to a review panel under section 38.
+> 2012, c. 19, s. 52 “63”, c. 31, s. 429(E)
+
 
 
 
 
 **Termination by Minister**
 
-**64** The Minister may terminate the environmental assessment by a review panel of a designated project for which the responsible authority is referred to in paragraph 15(c) if it decides not to exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that would permit the designated project to be carried out in whole or in part.
+**64** The Minister may terminate the environmental assessment by a review panel of a designated project for which the responsible authority is referred to in paragraph 15(c) if it decides not to exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that could permit the designated project to be carried out in whole or in part.
+> 2012, c. 19, s. 52 “64”, c. 31, s. 429(E)
+
 
 
 
@@ -1187,20 +1199,24 @@ It does not include the Executive Council of — or a minister, department, agen
 
 **66** The following definitions apply in sections 5 and 67 to 72.
 
-***authority*** means 
+***authority*** means 
 - **(a)** a federal authority; and
-- **(b)** any other body that is set out in Schedule 3.
+- **(b)** any other body that is set out in Schedule 3. (*autorité*)
 
-***project*** means a physical activity that is carried out in relation to a physical work and is not a designated project.
+***project*** means a physical activity that is carried out on federal lands or outside Canada in relation to a physical work and is not a designated project. (*projet*)
+> 2012, c. 19, s. 52 “66”, c. 31, s. 430
+
 
 
 
 
 **Project carried out on federal lands**
 
-**67** An authority must not carry out a project on federal lands, or exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that would permit a project to be carried out, in whole or in part, on federal lands, unless
+**67** An authority must not carry out a project on federal lands, or exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that could permit a project to be carried out, in whole or in part, on federal lands, unless
 - **(a)** the authority determines that the carrying out of the project is not likely to cause significant adverse environmental effects; or
 - **(b)** the authority determines that the carrying out of the project is likely to cause significant adverse environmental effects and the Governor in Council decides that those effects are justified in the circumstances under subsection 69(3).
+> 2012, c. 19, s. 52 “67”, c. 31, s. 431(E)
+
 
 
 
@@ -2126,6 +2142,14 @@ It does not include the Executive Council of — or a minister, department, agen
 	- **(c)** the responsible authority has taken a course of action under paragraph 20(1)(a) or (b) or subsection 37(1) of the former Act in relation to the project; or
 	- **(d)** an order issued under subsection (2) applies to the project.
 
+**Exception**
+
+- **(1.1)** Paragraph (1)(b) does not apply if the carrying out of the project in whole or in part requires that a federal authority exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act and that power, duty or function was a power, duty or function referred to in subsection 5(1) of the former Act.
+
+**Cessation of effect**
+
+- **(1.2)** Subsection (1.1) ceases to have effect on January 1, 2014.
+
 **Minister’s powers**
 
 - **(2)** On the day on which this Act comes into force, the Minister may, by order, exclude from the application of this Act a project, as defined in the former Act, that is a designated project under this Act, if the Minister is of the opinion that the project was not subject to the former Act and that another jurisdiction that has powers, duties or functions in relation to the assessment of the environmental effects of the project has commenced that assessment.
@@ -2133,6 +2157,8 @@ It does not include the Executive Council of — or a minister, department, agen
 **Posting of notice of order on Internet site**
 
 - **(3)** The Agency must post a notice of any order made under subsection (2) on the Internet site.
+> 2012, c. 19, s. 52 “128”, c. 31, s. 432
+
 
 
 
