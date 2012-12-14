@@ -1034,12 +1034,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Toutefois, dans le cas d’une demande visant le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), le Tribunal peut seulement trancher toute question de droit ou de fait concernant :
 	- **a)** l’admissibilité d’une personne à une prestation ou le montant de cette prestation;
 	- **b)** l’admissibilité d’une personne à un partage des gains non ajustés ouvrant droit à pension ou le montant de ce partage;
-	- **c)** l’admissibilité d’une personne à bénéficier de la cession de la pension de retraite d’un cotisant ou le montant de cette cession.
+	- **c)** l’admissibilité d’une personne à bénéficier de la cession de la pension de retraite d’un cotisant ou le montant de cette cession;
+	- **d)** l’opportunité d’infliger une pénalité en vertu de la partie II de cette loi ou le montant de cette pénalité.
 
 **[Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md)**
 
 - **(3)** Si, au cours de l’examen d’une demande, une question prévue à l’article 90 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) se pose, le fonctionnaire autorisé de l’Agence du revenu du Canada décide de cette question comme le prévoit cet article.
-> 2005, ch. 34, art. 64; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 64; 2012, ch. 19, art. 224, ch. 31, art. 204.
 
 
 
