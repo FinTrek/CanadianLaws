@@ -39,45 +39,45 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***administrator*** means the holder of a licence issued under section 11 or an entity designated by the Superintendent under subsection 21(1).
+***administrator*** means the holder of a licence issued under section 11 or an entity designated by the Superintendent under subsection 21(1). (*administrateur*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***common-law partnership*** means the relationship between two persons who are common-law partners of each other.
+***common-law partnership*** means the relationship between two persons who are common-law partners of each other. (*union de fait*)
 
-***designated province*** means a province designated in the regulations.
+***designated province*** means a province designated in the regulations. (*province désignée*)
 
-***electronic document*** means any form of representation of information or of concepts fixed in any medium by electronic, optical or other similar means that can be read or perceived by a person or by any means.
+***electronic document*** means any form of representation of information or of concepts fixed in any medium by electronic, optical or other similar means that can be read or perceived by a person or by any means. (*document électronique*)
 
-***employee*** means an individual who holds a position that entitles that individual to a fixed or ascertainable stipend or remuneration and includes an individual who holds the position of an officer or director of a corporation or other organization or of an agent or mandatary acting for a principal or mandator.
+***employee*** means an individual who holds a position that entitles that individual to a fixed or ascertainable stipend or remuneration and includes an individual who holds the position of an officer or director of a corporation or other organization or of an agent or mandatary acting for a principal or mandator. (*salarié*)
 
-***employer***, in relation to an employee, means the person or organization that employs the employee and includes their assigns or successors.
+***employer***, in relation to an employee, means the person or organization that employs the employee and includes their assigns or successors. (*employeur*)
 
-***employment*** means the performance by an employee of work for an employer under an express or implied contract of service or apprenticeship, and includes the tenure of an office.
+***employment*** means the performance by an employee of work for an employer under an express or implied contract of service or apprenticeship, and includes the tenure of an office. (*emploi*)
 
-***included employment*** means employment — other than employment by Her Majesty in right of Canada or any employment that is excluded by the regulations — on or in connection with the operation of any work, undertaking or business that is within the legislative authority of the Parliament of Canada. 
+***included employment*** means employment — other than employment by Her Majesty in right of Canada or any employment that is excluded by the regulations — on or in connection with the operation of any work, undertaking or business that is within the legislative authority of the Parliament of Canada.  (*emploi visé*)
 
-***member*** means a person who holds an account with a pooled registered pension plan.
+***member*** means a person who holds an account with a pooled registered pension plan. (*participant*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***multilateral agreement*** means an agreement entered into under subsection 6(1).
+***multilateral agreement*** means an agreement entered into under subsection 6(1). (*accord multilatéral*)
 
-***pooled registered pension plan*** means a plan registered under section 12.
+***pooled registered pension plan*** means a plan registered under section 12. (*régime de pension agréé collectif*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
 
-***spouse***, in relation to an individual, includes a person who is party to a void marriage or, in Quebec, null marriage with the individual.
+***spouse***, in relation to an individual, includes a person who is party to a void marriage or, in Quebec, null marriage with the individual. (*époux*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed under section 5 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md).
+***Superintendent*** means the Superintendent of Financial Institutions appointed under section 5 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md). (*surintendant*)
 
 ***survivor***, in relation to a deceased member, means
 - **(a)** if there is no person described in paragraph (b), the member’s spouse at the time of the member’s death; or
-- **(b)** the common-law partner of the member immediately before the member’s death.
+- **(b)** the common-law partner of the member immediately before the member’s death. (*survivant*)
 
-***winding-up***, in relation to a pooled registered pension plan, means the distribution of the assets of a plan that has been terminated.
+***winding-up***, in relation to a pooled registered pension plan, means the distribution of the assets of a plan that has been terminated. (*liquidation*)
 
-***Year’s Maximum Pensionable Earnings*** has the same meaning as in subsection 2(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+***Year’s Maximum Pensionable Earnings*** has the same meaning as in subsection 2(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md). (*maximum des gains annuels ouvrant droit à pension*)
 
 **Meaning of spouse or common-law partner**
 
@@ -1431,6 +1431,6 @@ However, in the case of a court order, the administrator must not administer the
 
 <sup><a href='#fn_Ind997B_hq_12811'>[*]</a></sup>**95** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind997B_hq_12811'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind997B_hq_12811'><sup>*</sup></a>: [Note: Act in force December 14, 2012, *see* SI/2012-102.]<br />
 
 
