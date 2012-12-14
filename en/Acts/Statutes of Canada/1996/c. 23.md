@@ -2280,7 +2280,7 @@ is to be considered to have worked or not worked a full working week;
 
 - **(1)** The Minister shall, on or before July 31 in a year, provide the Board with the following information:
 	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
-	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d) and (f) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
+	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (f) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
 	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
 	- **(d)** any prescribed information.
 
@@ -2289,7 +2289,7 @@ is to be considered to have worked or not worked a full working week;
 - **(2)** On the recommendation of the Minister, the Governor in Council may make regulations
 	- **(a)** prescribing information referred to in paragraph (1)(d); and
 	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
-> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610.
+> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610, c. 31, s. 436.
 
 
 
@@ -3183,6 +3183,24 @@ where
 
 - **(8.9)** A refund under subsection (8.7) shall not exceed $1,000.
 
+**Temporary measure — small business refund 2012**
+
+- **(8.91)** If an employer’s premium is $10,000 or less for 2011, the Minister shall refund to the employer a portion of the premium for 2012 determined by the following formula if that amount is more than $2:
+```
+P2 – P1
+```
+where
+- **P1** is the amount of the employer’s premium in 2011; and
+- **P2** is the amount of the employer’s premium in 2012.
+
+**P1 can equal zero**
+
+- **(8.92)** For the purposes of subsection (8.91), P1 is equal to zero if a person was not required to pay an employer’s premium in 2011.
+
+**Maximum refund**
+
+- **(8.93)** A refund under subsection (8.91) shall not exceed $1,000.
+
 **Associated employers**
 
 - **(9)** If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8.4) and any refund shall be allocated to them in the prescribed manner.
@@ -3208,8 +3226,8 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **No interest payable**
 
-- **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7).
-> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615.
+- **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7) or (8.91).
+> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615, c. 31, s. 307.
 
 
 
