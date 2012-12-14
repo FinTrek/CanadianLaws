@@ -39,43 +39,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord multilatéral*** Accord conclu en vertu du paragraphe 6(1).
+***accord multilatéral*** Accord conclu en vertu du paragraphe 6(1). (*multilateral agreement*)
 
-***administrateur*** Le titulaire d’un permis délivré au titre de l’article 11 ou l’entité désignée par le surintendant en vertu du paragraphe 21(1).
+***administrateur*** Le titulaire d’un permis délivré au titre de l’article 11 ou l’entité désignée par le surintendant en vertu du paragraphe 21(1). (*administrator*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***document électronique*** S’entend de toute forme de représentation d’informations ou de notions, fixée sur quelque support que ce soit, par des moyens électroniques, optiques ou autres moyens semblables, et qui peut être lue ou perçue par une personne ou par tout moyen.
+***document électronique*** S’entend de toute forme de représentation d’informations ou de notions, fixée sur quelque support que ce soit, par des moyens électroniques, optiques ou autres moyens semblables, et qui peut être lue ou perçue par une personne ou par tout moyen. (*electronic document*)
 
-***emploi*** Travail exécuté ou fonctions exercées par un salarié pour un employeur au titre d’un contrat formel ou tacite de services ou d’apprentissage.
+***emploi*** Travail exécuté ou fonctions exercées par un salarié pour un employeur au titre d’un contrat formel ou tacite de services ou d’apprentissage. (*employment*)
 
-***emploi visé*** S’entend de tout emploi, autre qu’un emploi occupé au service de Sa Majesté du chef du Canada ou exclu par les règlements, lié à la mise en service d’un ouvrage, d’une entreprise ou d’une activité de compétence fédérale.
+***emploi visé*** S’entend de tout emploi, autre qu’un emploi occupé au service de Sa Majesté du chef du Canada ou exclu par les règlements, lié à la mise en service d’un ouvrage, d’une entreprise ou d’une activité de compétence fédérale. (*included employment*)
 
-***employeur*** Personne ou organisme, ainsi que leurs ayants droit, auprès de qui le salarié occupe un emploi.
+***employeur*** Personne ou organisme, ainsi que leurs ayants droit, auprès de qui le salarié occupe un emploi. (*employer*)
 
-***époux*** Est assimilée à l’époux la personne qui est partie à un mariage nul.
+***époux*** Est assimilée à l’époux la personne qui est partie à un mariage nul. (*spouse*)
 
-***liquidation*** S’agissant d’un régime de pension agréé collectif, s’entend de la répartition de l’actif à la suite de sa cessation.
+***liquidation*** S’agissant d’un régime de pension agréé collectif, s’entend de la répartition de l’actif à la suite de sa cessation. (*winding-up*)
 
-***maximum des gains annuels ouvrant droit à pension*** S’entend au sens du paragraphe 2(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+***maximum des gains annuels ouvrant droit à pension*** S’entend au sens du paragraphe 2(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). (*Year’s Maximum Pensionable Earnings*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***participant*** Toute personne détenant un compte au titre d’un régime de pension agréé collectif. 
+***participant*** Toute personne détenant un compte au titre d’un régime de pension agréé collectif.  (*member*)
 
-***province désignée*** Province désignée par règlement.
+***province désignée*** Province désignée par règlement. (*designated province*)
 
-***régime de pension agréé collectif*** Tout régime agréé au titre l’article 12.
+***régime de pension agréé collectif*** Tout régime agréé au titre l’article 12. (*pooled registered pension plan*)
 
-***salarié*** Personne qui est titulaire d’attributions — notamment celles de dirigeant ou d’administrateur d’une personne morale ou autre organisme et de mandataire agissant pour le compte de son mandant — qui lui donnent droit à un salaire, traitement ou autre rémunération fixe ou vérifiable. 
+***salarié*** Personne qui est titulaire d’attributions — notamment celles de dirigeant ou d’administrateur d’une personne morale ou autre organisme et de mandataire agissant pour le compte de son mandant — qui lui donnent droit à un salaire, traitement ou autre rémunération fixe ou vérifiable.  (*employee*)
 
-***surintendant*** Le surintendant des institutions financières, nommé aux termes de l’article 5 de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
+***surintendant*** Le surintendant des institutions financières, nommé aux termes de l’article 5 de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md). (*Superintendent*)
 
-***survivant*** S’entend :
+***survivant*** S’entend :
 - **a)** soit, en cas d’inapplication de l’alinéa b), de l’époux du participant au décès de celui-ci;
-- **b)** soit du conjoint de fait du participant au décès de celui-ci.
+- **b)** soit du conjoint de fait du participant au décès de celui-ci. (*survivor*)
 
-***union de fait*** Relation qui existe entre deux conjoints de fait.
+***union de fait*** Relation qui existe entre deux conjoints de fait. (*common-law partnership*)
 
 **Interprétation**
 
@@ -1423,6 +1423,6 @@ L’administrateur ne peut toutefois appliquer à sa gestion les modalités d’
 
 <sup><a href='#fn_Ind3532_hq_12810'>[*]</a></sup>**95** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3532_hq_12810'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind3532_hq_12810'><sup>*</sup></a>: [Note : Loi en vigueur le 14 décembre 2012, *voir* TR/2012-102.]<br />
 
 
