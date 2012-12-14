@@ -3340,11 +3340,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **d)** autres que les personnes physiques;
 - **e)** à qui les articles 386 ou 399 interdisent d’exercer des droits de vote attachés à des actions de la société;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle les articles 386 ou 399 interdisent d’exercer des droits de vote attachés à des actions de la société;
-- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens de l’article 374.1 ou qui sont nommées par lui ou agissent en son nom;
+- **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 374.1 ou qui agissent au nom d’un tel mandataire;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 1991, ch. 45, art. 164; 1994, ch. 47, art. 203; 1997, ch. 15, art. 350; 2012, ch. 19, art. 326.
+> 1991, ch. 45, art. 164; 1994, ch. 47, art. 203; 1997, ch. 15, art. 350; 2012, ch. 19, art. 326, ch. 31, art. 99.
 
 
 
@@ -7253,8 +7253,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-**376.1** Par dérogation à l’article 376, si, après transfert ou émission d’actions d’une catégorie donnée à une personne, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième de un pour cent des actions en circulation de cette catégorie, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 1994, ch. 47, art. 206.
+**376.1** Par dérogation à l’article 376, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la société est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
+> 1994, ch. 47, art. 206; 2012, ch. 31, art. 100.
 
 
 
@@ -7272,13 +7272,17 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Idem**
 
-- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une société et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par elle-même ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la société de cette catégorie à la date d’entrée en vigueur de la présente partie ou, si elle est postérieure, à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après la date d’entrée en vigueur de la présente partie ou, si elle est postérieure, après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la société de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
+**Exception : mandataire admissible**
+
+- **(3.1)** Dans le cas où la personne visée au paragraphe (1) est un mandataire admissible ou une entité qu’il contrôle, le ministre peut réduire le pourcentage applicable visé aux paragraphes (2) ou (3).
+
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
+- **(4)** Le paragraphe (1) ne s’applique pas dans le cas où l’acquisition d’actions ou du contrôle dont il traite :
 	- **a)** aurait pour effet la prise de contrôle de la société par la personne;
 	- **b)** si la personne contrôle déjà la société mais que les droits de vote attachés à l’ensemble des actions de la société qu’elle-même et les entités qu’elle contrôle détiennent à titre de véritable propriétaire n’excèdent pas cinquante pour cent des droits de vote attachés à la totalité des actions en circulation, aurait pour effet de porter les droits de vote attachés à l’ensemble de ces actions détenues par la personne et les entités à plus de cinquante pour cent des droits de vote attachés à la totalité des actions en circulation;
 	- **c)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société par une entité contrôlée par la personne et que l’acquisition de cet intérêt n’est pas soustraite, par règlement, à l’application du présent alinéa;
@@ -7286,10 +7290,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel d’une catégorie d’actions de la société par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas applicable — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société.
-> 1991, ch. 45, art. 377; 1997, ch. 15, art. 373.
+> 1991, ch. 45, art. 377; 1997, ch. 15, art. 373; 2012, ch. 31, art. 101.
 
 
 
@@ -7299,14 +7303,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **378** 
 
-- **(1)** Par dérogation aux articles 375 et 376, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
+- **(1)** Par dérogation aux articles 375 et 376, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
 	- **a)** le surintendant a, par ordonnance, imposé à la société une augmentation de capital et il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
-	- **b)** la personne qui contrôle, au sens de l’alinéa 3(1)a), la société acquiert d’autres actions de la société.
+	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la société acquiert d’autres actions de celle-ci.
 
 **Agrément préalable**
 
 - **(2)** Pour l’application des paragraphes 375(1) et (2) et de l’article 376, le ministre peut approuver l’acquisition, soit du nombre ou pourcentage d’actions d’une société nécessaire pour une opération ou série d’opérations, soit du nombre ou pourcentage — à concurrence du plafond fixé — d’actions d’une société pendant une période déterminée.
-> 1991, ch. 45, art. 378; 2001, ch. 9, art. 520.
+> 1991, ch. 45, art. 378; 2001, ch. 9, art. 520; 2012, ch. 31, art. 102.
 
 
 
@@ -7542,13 +7546,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **391** 
 
-- **(1)** Sous réserve des paragraphes (2), (3) et 392(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(1)** Sous réserve des paragraphes (2), (3) et 392(1), le ministre envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de l’opération;
 	- **b)** soit, s’il n’est pas convaincu que l’opération devrait être agréée, un avis de refus informant le demandeur de son droit de lui présenter des observations.
 
-**Idem**
+**Avis au demandeur**
 
-- **(2)** Dans le cas où la demande d’agrément implique l’acquisition du contrôle d’une société et sous réserve des paragraphes (4) et 392(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 390(1).
+- **(2)** Sous réserve des paragraphes (4) et 392(2), l’avis est à envoyer dans les quarante-cinq jours suivant la date prévue au paragraphe 390(1) dans les cas suivants :
+	- **a)** la demande d’agrément implique l’acquisition du contrôle d’une société;
+	- **b)** la demande d’agrément est faite par le mandataire admissible ou une entité qu’il contrôle;
+	- **c)** une demande est présentée pour l’agrément visé au paragraphe 396(3).
 
 **Prorogation**
 
@@ -7557,6 +7564,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Idem**
 
 - **(4)** Le ministre, s’il l’estime indiqué, peut proroger le délai visé au paragraphe (2) d’une ou plusieurs périodes de quarante-cinq jours.
+> 1991, ch. 45, art. 391; 2012, ch. 31, art. 103.
+
 
 
 
@@ -7570,6 +7579,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Idem**
 
 - **(2)** Dans les quarante-cinq jours qui suivent la date de l’avis prévu au paragraphe 391(2) ou dans le délai supérieur convenu entre eux, le ministre donne la possibilité de présenter des observations au demandeur qui l’a informé de son désir en ce sens.
+> 1991, ch. 45, art. 392; 2012, ch. 31, art. 104(A).
+
 
 
 
@@ -7598,11 +7609,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restriction : Couronne et États étrangers**
+**Restriction : Couronne et États étrangers**
 
 **396** 
 
-- **(1)** Il est interdit à la société d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
+- **(1)** Il est interdit à la société d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
@@ -7614,10 +7625,30 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(3)** Par dérogation au paragraphe (1), la société peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
 
-**Agrément du ministre**
+**Demande conjointe**
 
-- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 388(1)a) à g).
-> 1991, ch. 45, art. 396; 2012, ch. 5, art. 165, ch. 19, art. 328.
+- **(4)** La société et le mandataire admissible présentent conjointement la demande en vue d’obtenir l’agrément visé au paragraphe (3).
+
+**Facteurs à considérer**
+
+- **(5)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 388(1)a) à g).
+
+**Conséquence de la révocation de l’agrément**
+
+- **(6)** En cas de révocation de l’agrément visé au paragraphe (3), la société supprime de son registre des valeurs mobilières toute indication à l’égard de l’inscription de l’émission des actions au mandataire admissible.
+
+**Disposition des actions**
+
+- **(7)** Si le mandataire admissible ou la société contrevient à tout engagement ou à toute condition ou modalité dont l’agrément visé au paragraphe (3) est assorti, ou si le mandataire admissible cesse d’être mandataire admissible, le ministre peut, s’il l’estime dans l’intérêt du public, par arrêté, imposer l’obligation au mandataire admissible ainsi qu’à toute personne que celui-ci contrôle ou à la personne qui cesse d’être mandataire admissible ainsi qu’à toute autre personne que celle-ci contrôle de se départir du nombre d’actions — précisé dans l’arrêté — de la société dont l’un ou plusieurs d’entre eux ont la propriété effective, dans le délai et selon la répartition qu’il établit.
+
+**Observations**
+
+- **(8)** Le ministre est tenu de donner à chaque personne visée par l’arrêté et à la société en cause la possibilité de présenter leurs observations sur l’objet de l’arrêté qu’il envisage de prendre.
+
+**Appel**
+
+- **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 530.
+> 1991, ch. 45, art. 396; 2012, ch. 5, art. 165, ch. 19, art. 328, ch. 31, art. 105.
 
 
 
@@ -7632,7 +7663,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Suspension des droits de vote des gouvernements**
 
-- **(2)** Par dérogation à l’article 151, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions qui sont détenues en propriété effective :
+- **(2)** Par dérogation à l’article 151, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions qui sont détenues en propriété effective :
 	- **a)** soit par Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
 	- **b)** soit par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement.
 
@@ -7651,7 +7682,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Réserve – mandataire admissible**
 
 - **(5)** Le paragraphe (2) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 396(3).
-> 1991, ch. 45, art. 399; 1994, ch. 47, art. 209; 2012, ch. 5, art. 166, ch. 19, art. 329.
+
+**Conséquence de la suspension de l’agrément**
+
+- **(6)** En cas de suspension de l’agrément visé au paragraphe 396(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la société qu’il détient en propriété effective.
+> 1991, ch. 45, art. 399; 1994, ch. 47, art. 209; 2012, ch. 5, art. 166, ch. 19, art. 329, ch. 31, art. 106.
 
 
 
@@ -7691,7 +7726,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **402** 
 
-- **(1)** En cas d’inobservation de l’arrêté, une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
+- **(1)** En cas d’inobservation de l’arrêté prévu aux paragraphes 396(7) ou 401(1), une ordonnance d’exécution peut, au nom du ministre, être requise d’un tribunal.
 
 **Ordonnance**
 
@@ -7700,6 +7735,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
+> 1991, ch. 45, art. 402; 2012, ch. 31, art. 107.
+
 
 
 
@@ -11168,11 +11205,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **530** 
 
-- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes du paragraphe 401(1).
+- **(1)** Est susceptible d’appel devant la Cour fédérale la décision du ministre prise aux termes des paragraphes 396(7) ou 401(1).
 
 **Pouvoirs**
 
-- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
+- **(2)** La Cour fédérale statue sur l’appel en prenant au choix l’une des décisions suivantes :
 	- **a)** rejet pur et simple;
 	- **b)** annulation des mesures ou décisions en cause;
 	- **c)** annulation des mesures ou décisions et renvoi de l’affaire pour réexamen.
@@ -11180,7 +11217,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Certificat**
 
 - **(3)** Sur demande, le ministre remet à la société ou à la personne qui interjette appel un certificat exposant les mesures ou la décision portées en appel ainsi que les raisons justifiant leur prise.
-> 1991, ch. 45, art. 530 et 540; 1996, ch. 6, art. 132.
+> 1991, ch. 45, art. 530 et 540; 1996, ch. 6, art. 132; 2012, ch. 31, art. 108.
 
 
 
