@@ -341,10 +341,10 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(1)** Quiconque abat, découpe ou désosse un bœuf pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit, dès son enlèvement de l’animal, badigeonné d’une teinture voyante et indélébile, et recueilli dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** au bœuf qui est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, si le matériel à risque spécifié provenant de sa carcasse ne sort pas de la ferme ou du ranch, sauf pour être envoyé à un laboratoire de niveau de confinement 2;
-	- **b)** au bœuf qui est abattu, découpé ou désossé dans un abattoir, dans le cas où aucune partie de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine ou les échantillons qui sont envoyés à un laboratoire de niveau de confinement 2, ne sort du site de l’abattoir;
+	- **a)** au bœuf qui est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, si le matériel à risque spécifié provenant de sa carcasse demeure dans la ferme ou le ranch ou est envoyé à un laboratoire de niveau de confinement 2;
+	- **b)** au bœuf qui est abattu, découpé ou désossé dans un abattoir, si toutes les parties de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine ou les échantillons qui sont envoyés à un laboratoire de niveau de confinement 2, demeurent sur le site de l’abattoir;
 	- **c)** aux échantillons de matériel à risque spécifié ou aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré, qui sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12; DORS/2009-220, art. 3.
+> DORS/2006-147, art. 12; DORS/2009-220, art. 3; DORS/2012-286, art. 47.
 
 
 
@@ -356,9 +356,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(2)** Dans le cas où le matériel à risque spécifié n’a pas été retiré de la carcasse du bœuf, la personne ayant la possession, la responsabilité ou la charge des soins de la carcasse ou de toutes parties de celle-ci doit veiller à ce que la carcasse et toutes les parties qui contiennent du matériel à risque spécifié soient badigeonnées d’une teinture voyante, indélébile et sans danger pour les animaux qui l’ingéront.
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
-	- **a)** aux carcasses de bœufs contenant le matériel à risque spécifié, si les carcasses et le matériel à risque spécifié en provenant restent à l’intérieur du lieu où les bœufs ont été déclarés morts, sauf pour être envoyés à un laboratoire de niveau de confinement 2;
+	- **a)** aux carcasses de bœufs contenant le matériel à risque spécifié, si les carcasses et le matériel à risque spécifié en provenant demeurent à l’endroit où les bœufs ont été déclarés morts ou sont envoyés à un laboratoire de niveau de confinement 2;
 	- **b)** aux échantillons de matériel à risque spécifié ni aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré et qui sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12.
+> DORS/2006-147, art. 12; DORS/2012-286, art. 48.
 
 
 
@@ -368,9 +368,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(1)** Sous réserve du paragraphe (3), le présent article s’applique à toute personne qui :
 	- **a)** est tenu, aux termes du présent règlement, de retirer du matériel à risque spécifié ou de le badigeonner d’une teinture;
 	- **b)** recueille des carcasses de bœufs qui sont morts ou ont été condamnés avant d’avoir pu être abattus pour la consommation alimentaire humaine et desquels le matériel à risque spécifié n’a pas été retiré;
-	- **c)** a reçu d’une autre personne du matériel à risque spécifié ou des carcasses de bœufs qui sont morts ou ont été condamnés avant d’avoir pu être abattus pour la consommation alimentaire humaine et desquels du matériel à risque spécifié n’a pas été retiré.
+	- **c)** a reçu d’une autre personne du matériel à risque spécifié ou des carcasses de bœufs qui sont morts ou ont été condamnés avant d’avoir pu être abattus pour la consommation alimentaire humaine et desquels le matériel à risque spécifié n’a pas été retiré.
 
-- **(2)** La personne doit tenir, pendant une période de dix ans, à l’égard du matériel retiré ou badigeonné ou des carcasses recueillies ou reçues, un registre contenant les renseignements ci-après, pour chaque journée où ces opérations ont eu lieu :
+- **(2)** La personne tient, pendant une période de dix ans, à l’égard du matériel retiré, badigeonné ou reçu, ou des carcasses recueillies ou reçues, un registre contenant les renseignements ci-après, pour chaque journée où ces opérations ont eu lieu :
 	- **a)** ses nom et adresse et la date de l’enlèvement, du badigeonnage, de la collecte ou de la réception;
 	- **b)** le poids total du matériel à risque spécifié et des carcasses, ou parties de celles-ci, recueillies ou reçues ainsi que le nombre de ces carcasses;
 	- **c)** le nom de la teinture utilisée pour identifier le matériel à risque spécifié ou les carcasses;
@@ -382,7 +382,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 		- **(iii)** les nom et adresse de la personne qui les a confinés ou détruits, si la personne connaît ces renseignements.
 
 - **(3)** Le présent article ne vise pas les échantillons de matériel à risque spécifié ni les carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré et qui sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12.
+> DORS/2006-147, art. 12; DORS/2012-286, art. 49.
 
 
 
@@ -395,20 +395,20 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **6.4** 
 
-- **(1)** Sauf en conformité avec un permis ou une licence délivré au titre de l’article 160, il est interdit de recevoir, d’enlever d’un lieu, d’utiliser, de transporter hors d’un lieu — autre que d’un endroit à un autre endroit à l’intérieur d’un même lieu — , de transformer, d’entreposer, d’exporter, de vendre, de distribuer, de confiner ou de détruire du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, si le matériel a été retiré d’un bœuf abattu au Canada ou provient de la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine.
+- **(1)** Sauf en conformité avec un permis ou une licence délivré au titre de l’article 160, il est interdit de recevoir, d’enlever d’un lieu, d’utiliser, de transporter hors d’un lieu, de transformer, d’entreposer, d’exporter, de vendre, de distribuer, de confiner ou de détruire du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, si le matériel a été retiré d’un bœuf abattu au Canada ou s’il a été retiré ou fait partie de la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine.
 
 - **(2)** Le paragraphe (1) ne s’applique pas à l’exigence d’un permis à l’égard du badigeonnage d’une teinture aux termes des articles 6.21 ou 6.22.
 
-- **(3)** Le paragraphe (1) ne s’applique pas au matériel à risque spécifié retiré d’un bœuf qui a été abattu pour la consommation alimentaire humaine ou provenant de la carcasse d’un bœuf qui est mort ou a été condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine si le matériel à risque spécifié ne sort pas du lieu où le bœuf a été abattu ou déterminé mort.
+- **(3)** Le paragraphe (1) ne s’applique pas au matériel à risque spécifié qui a été retiré d’un bœuf qui a été abattu pour la consommation alimentaire humaine ou qui a été retiré ou fait partie de la carcasse d’un bœuf qui est mort ou a été condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine, si le matériel à risque spécifié demeure dans le lieu où le bœuf a été abattu ou déclaré mort.
 
-- **(4)** Le paragraphe (1) ne s’applique pas à l’usage, comme engrais ou de supplément d’engrais, de matières issues de matériel à risque spécifié, sous quelque forme que ce soit, retiré d’un bœuf abattu pour la consommation alimentaire humaine, ou d’un bœuf mort ou condamné avant d’avoir pu l’être, si l’engrais ou le supplément d’engrais ne sont pas transportés à l’extérieur du lieu où l’animal est mort ou a été abattu ou condamné.
+- **(4)** Le paragraphe (1) ne s’applique pas à l’usage, comme engrais ou supplément d’engrais, de matières issues de matériel à risque spécifié, sous quelque forme que ce soit, retiré d’un bœuf abattu pour la consommation alimentaire humaine, ou d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine, si l’engrais ou le supplément d’engrais demeure dans le lieu où le boeuf est mort ou a été abattu ou condamné.
 
 - **(5)** Le paragraphe (1) ne vise pas les soumissions, à un laboratoire de niveau de confinement 2, d’échantillons de matériel à risque spécifié ou de carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré, ni aux activités liées à l’utilisation de matériel à risque spécifié dans un tel laboratoire.
 
-- **(6)** Le ministre ne délivre pas de permis pour les activités visées au paragraphe (1) si le matériel à risque spécifié est reçu, transporté à l’extérieur du lieu où il se trouve, utilisé, entreposé, confiné, exporté, vendu, distribué ou transformé — sous quelque forme que ce soit et qu’il soit incorporé ou non à une autre matière — pour la consommation alimentaire humaine.
+- **(6)** Le ministre ne délivre pas de permis pour les activités visées au paragraphe (1) si le matériel à risque spécifié est reçu, enlevé du lieu où il se trouve, utilisé, transporté, transformé, entreposé, exporté, vendu ou distribué — sous quelque forme que ce soit et qu’il soit incorporé ou non à une autre matière — pour la consommation alimentaire humaine.
 
 - **(7)** Le ministre ne délivre pas de permis pour la destruction du matériel à risque spécifié à moins que celle-ci soit faite par incinération ou par toute autre méthode garantissant que le matériel à risque spécifié, ou toute autre matière en contenant, ne sera pas utilisé comme nourriture pour les humains et n’entraînera pas, ou qu’il est peut probable qu’il entraîne la propagation au Canada de l’encéphalopathie spongiforme bovine.
-> DORS/2006-147, art. 13.
+> DORS/2006-147, art. 13; DORS/2012-286, art. 50.
 
 
 
@@ -800,17 +800,17 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***déchets d’aéronef*** Déchets renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un aéronef et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que l’aéronef fait route vers le Canada. (*aircraft garbage*)
+***déchets d’aéronef*** Déchets renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un aéronef et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que l’aéronef fait route vers le Canada. (*aircraft garbage*)
 
 ***fumier***[Abrogée, DORS/2009-18, art. 12]
 
-***fumier animal*** Fumier produit par des animaux à bord d’un navire ou d’un aéronef pendant que celui-ci fait route vers le Canada ou après son arrivée au Canada. (*animal manure*)
+***fumier animal*** Fumier produit par des animaux à bord d’un navire ou d’un aéronef pendant que celui-ci fait route vers le Canada ou après son arrivée au Canada. (*animal manure*)
 
-***rebuts de navire*** Rebuts renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un navire et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que le navire fait route vers le Canada. (*ship’s refuse*)
+***rebuts de navire*** Rebuts renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un navire et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que le navire fait route vers le Canada. (*ship’s refuse*)
 
 - **(2)** Sous réserve des paragraphes (6) et (7), il est interdit de décharger au Canada des rebuts de navire ou du fumier animal provenant de tout pays autre que les États-Unis, à moins qu’ils ne soient déchargés dans un conteneur fermé et étanche au premier point d’entrée ou, s’il y a lieu, à tout autre endroit approuvé par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique, et à moins qu’ils ne soient sans délai :
 	- **a)** ou bien incinérés;
-	- **b)** ou bien soumis à un traitement thermique en profondeur à une température d’au moins 100 °C pendant une période d’au moins 30 minutes et déposés dans une décharge contrôlée approuvée par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique;
+	- **b)** ou bien soumis à un traitement thermique en profondeur à une température d’au moins 100 °C pendant une période d’au moins 30 minutes et déposés dans une décharge contrôlée approuvée par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique;
 	- **c)** ou bien transportés dans une décharge contrôlée approuvée par le ministre et enfouis avec un remblai d’au moins 1,8 m, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique.
 
 - **(3)** Sous réserve des paragraphes (6) et (7), il est interdit, à moins de satisfaire aux exigences du paragraphe (2), de décharger au Canada des rebuts de navire provenant des États-Unis qui renferment ou sont soupçonnés de renfermer un produit animal ou un sous-produit animal qui :
@@ -836,7 +836,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(9)** [Abrogé, DORS/97-85, art. 37]
 
 - **(10)** Le propriétaire ou la personne responsable d’un navire ou d’un aéronef visé par le présent article doit veiller à ce que les dispositions de celui-ci soient respectées.
-> DORS/90-349, art. 1; DORS/92-708, art. 3; DORS/97-85, art. 37; DORS/97-151, art. 28; DORS/2000-184, art. 66; DORS/2009-18, art. 12 et 19(F).
+> DORS/90-349, art. 1; DORS/92-708, art. 3; DORS/97-85, art. 37; DORS/97-151, art. 28; DORS/2000-184, art. 66; DORS/2009-18, art. 12 et 19(F); DORS/2012-286, art. 51(A).
 
 
 
@@ -862,7 +862,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **b)** l’importateur détient un permis de chasse pour ce gibier délivré en vertu des lois applicables des États-Unis ou de l’un de ses États.
 
 - **(2)** Le nombre de carcasses qui peuvent être importées est celui indiqué dans les lois visées à l’alinéa (1)b).
-> DORS/78-69, art. 28(F); DORS/97-85, art. 38; DORS/2009-18, art. 13.
+> DORS/78-69, art. 28(F); DORS/97-85, art. 38; DORS/2009-18, art. 13; DORS/2012-286, art. 52(A).
 
 
 
@@ -906,13 +906,13 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(1)** Il est permis d’importer du sang animal ou du sérum animal autre qu’un produit vétérinaire biologique, si le sang ou le sérum ne contient ni pathogène animal ni élément constituant d’un tel pathogène et si l’une des conditions suivantes est remplie :
 	- **a)** le pays d’origine est les États-Unis et le sang ou le sérum ne provient pas d’un animal de la sous-famille *Bovinae* ou *Caprinae*;
-	- **b)** le pays d’origine, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le sang ou le sérum est susceptible de contracter et qui peut être transmise par eux, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
+	- **b)** le pays d’origine, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le sang ou le sérum est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
 	- **c)** le sang ou le sérum a été recueilli, traité, préparé, transformé, entreposé et manipulé de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine qui :
 		- **(i)** atteste que le sang ou le sérum animal a été recueilli, traité, préparé, transformé, entreposé et manipulé de cette manière,
 		- **(ii)** expose en détail comment il a été recueilli, traité, préparé, transformé, entreposé et manipulé.
 
 - **(2)** Il est interdit d’exposer à un animal vivant ou d’utiliser dans un animal vivant du sang animal ou du sérum animal importé en vertu du paragraphe (1), de quelque manière que ce soit.
-> DORS/97-85, art. 41; DORS/97-478, art. 12; DORS/2009-18, art. 15.
+> DORS/97-85, art. 41; DORS/97-478, art. 12; DORS/2009-18, art. 15; DORS/2012-286, art. 53(F).
 
 
 
@@ -980,7 +980,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 		- **(ii)** ne soient sans délai incinérés.
 
 - **(2)** Par dérogation au paragraphe (1), le foin, la paille et les herbes servant de matériel d’emballage pour des marchandises, des biens ou des articles peuvent être importés d’un pays d’origine ou d’une partie d’un tel pays désigné par le ministre comme étant exempt de la fièvre aphteuse en vertu de l’article 7.
-> DORS/97-85, art. 44.
+> DORS/97-85, art. 44; DORS/2012-286, art. 54(A).
 
 
 
@@ -1262,8 +1262,8 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-**78.27** Lorsque, de l’avis du ministre, un animal est transporté dans une zone ou une région en violation de la présente partie, le ministre peut ordonner que l’animal soit retourné immédiatement dans la zone ou région d’où il provient ou dans une zone ou une région de catégorie sanitaire semblable ou inférieure.
-> DORS/78-205, art. 4.
+**78.27** Lorsque, de l’avis du ministre, un animal est transporté dans une zone ou une région en violation de la présente partie, le ministre peut ordonner que l’animal soit retourné sans délai dans la zone ou région d’où il provient ou dans une zone ou une région de catégorie sanitaire semblable ou inférieure.
+> DORS/78-205, art. 4; DORS/2012-286, art. 55.
 
 
 
@@ -1554,9 +1554,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **91.3** À moins d’indication contraire toute personne tenue de garder un registre en vertu du présent règlement doit
 - **a)** conserver ce registre pour une période de deux ans après la date où le registre a été exigé;
-- **b)** sur demande de l’inspecteur, lui remettre le registre au cours de la période prévue par le présent règlement pour la conservation du registre pour qu’il puisse l’examiner, en tirer des extraits ou en faire des copies;
+- **b)** [Abrogé, DORS/2012-286, art. 56]
 - **c)** sur réception d’une demande écrite de l’inspecteur, lui fournir les renseignements que renferme le registre, en une forme approuvée par le ministre.
-> DORS/82-590, art. 4; DORS/2006-147, art. 18.
+> DORS/82-590, art. 4; DORS/2006-147, art. 18; DORS/2012-286, art. 56.
 
 
 
@@ -1589,7 +1589,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **c)** l’agent, l’animal ou la chose est transporté directement à l’endroit indiqué sur le permis.
 
 - **(6)** Quiconque reçoit l’avis visé au paragraphe (1) doit s’y conformer.
-> DORS/97-85, art. 62.
+> DORS/97-85, art. 62; DORS/2012-286, art. 57(A).
 
 
 
@@ -2040,7 +2040,7 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 
 **120.6** 
 
-- **(1)** Il incombe à la personne qui a demandé un permis de dissémination conformément à l’alinéa 120.3a) ou qui a obtenu un tel permis en vertu de l’article 160 de fournir au ministre tous nouveaux renseignements relatifs au risque pour l’environnement ou pour la santé humaine ou animale, ou au risque d’introduction ou de propagation au Canada de vecteurs, de maladies ou de substances toxiques, que pourrait présenter la dissémination du produit vétérinaire biologique, dès qu’elle en prend connaissance.
+- **(1)** Il incombe à la personne qui a demandé un permis de dissémination conformément à l’alinéa 120.3a) ou qui a obtenu un tel permis en vertu de l’article 160 de fournir immédiatement au ministre tout nouveau renseignement relatif au risque pour l’environnement ou pour la santé humaine ou animale, ou au risque d’introduction ou de propagation au Canada de vecteurs, de maladies ou de substances toxiques, que pourrait présenter la dissémination du produit vétérinaire biologique, dès qu’elle en prend connaissance.
 
 - **(2)** Si, à la lumière de ces nouveaux renseignements, le ministre réévalue le risque de la dissémination pour l’environnement et pour la santé humaine et animale et conclut qu’il existe un risque :
 	- **a)** qui est moins élevé qu’il ne le paraissait au moment de la présentation des premiers renseignements ou de toute communication subséquente de nouveaux renseignements, il peut :
@@ -2055,7 +2055,7 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 		- **(ii)** dans le cas où un permis de dissémination a déjà été délivré, il annule celui-ci et exige que le demandeur mette fin à la dissémination et prenne les mesures voulues pour éliminer ou réduire le risque.
 
 - **(3)** Lors de la réévaluation du risque visé au paragraphe (2), le ministre tient compte notamment des éléments mentionnés à l’alinéa 120.5(2)a) et procède à la détermination prévue à l’alinéa 120.5(2)b).
-> DORS/97-8, art. 2; DORS/2002-438, art. 18(F).
+> DORS/97-8, art. 2; DORS/2002-438, art. 18(F); DORS/2012-286, art. 58(F).
 
 
 
@@ -2160,7 +2160,7 @@ et le ministre peut les relever des exigences du paragraphe (1) qu’il juge à 
 		- **(ii)** de nécropsie;
 	- **m)** que toute personne employée dans cet établissement ne soit apte à remplir la tâche qui lui est assignée.
 
-- **(2)** Le titulaire d’un permis délivré selon le présent règlement informe immédiatement le ministre de toute modification ou addition aux documents ou renseignements fournis en vue d’obtenir le permis.
+- **(2)** Le titulaire d’un permis délivré en vertu du présent règlement informe sans délai le ministre de toute modification ou addition aux documents ou renseignements fournis en vue d’obtenir le permis.
 
 - **(3)** Une personne employée dans un établissement agréé
 	- **a)** [Abrogé, DORS/97-85, art. 73]
@@ -2176,7 +2176,7 @@ et le ministre peut les relever des exigences du paragraphe (1) qu’il juge à 
 dans un établissement agréé, si ce n’est dans une salle ou un local séparé de tout local ou salle de préparation, de fabrication, de conservation, d’entreposage ou de mise à l’épreuve d’un produit vétérinaire biologique et ne communiquant pas avec cette salle ou ce local.
 
 - **(6)** Sauf autorisation d’un inspecteur-vétérinaire, nul ne peut effectuer des recherches ou des expériences dans un établissement agréé, si ce n’est dans une salle ou un local séparé de tout local ou salle de préparation, de fabrication, de conservation, d’entreposage ou de mise à l’épreuve d’un produit vétérinaire biologique et ne communiquant pas avec cette salle ou ce local.
-> DORS/97-85, art. 73; DORS/2002-438, art. 13(F) et 18(F).
+> DORS/97-85, art. 73; DORS/2002-438, art. 13(F) et 18(F); DORS/2012-286, art. 59.
 
 
 
@@ -2716,7 +2716,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** La demande d’un permis ou d’une licence qu’exige le présent règlement est présentée selon une formule approuvée par le ministre.
 
-- **(1.1)** Le ministre peut, sous réserve de l’alinéa 37(1)b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), délivrer tout permis ou licence exigé par le présent règlement s’il est d’avis que, autant qu’il sache, l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne l’introduction ou la propagation de vecteurs, de maladies, ou de substances toxiques soit au Canada, soit dans tout autre pays, en provenance du Canada.
+- **(1.1)** Sous réserve de l’alinéa 37(1)b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), le ministre délivre tout permis ou licence exigé par le présent règlement s’il est d’avis que, autant qu’il sache, l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne l’introduction ou la propagation de vecteurs, de maladies, ou de substances toxiques au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
 
 - **(2)** Le permis ou la licence qu’exige le présent règlement
 	- **a)** est dans une forme approuvée par le ministre; et
@@ -2726,7 +2726,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **a)** les conditions de délivrance du permis ou de la licence ou les conditions qui y sont contenues n’ont pas été respectées;
 	- **b)** les dispositions de la Loi ou du présent règlement n’ont pas été respectées; ou
 	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit au Canada et s’y propager ou s’introduire dans tout autre pays, en provenance du Canada.
-> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19.
+> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19; DORS/2012-286, art. 60.
 
 
 
@@ -2862,10 +2862,10 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **167.1** 
 
-- **(1)** L’exploitant d’une usine de traitement doit établir par écrit et appliquer une procédure de rappel efficace des produits de l’usine.
+- **(1)** L’exploitant d’une usine de traitement établit et tient à jour une procédure écrite de rappel efficace des produits de l’usine.
 
 - **(2)** Quiconque importe un produit d’une usine de traitement doit établir et tenir à jour par écrit une procédure de rappel efficace du produit.
-> DORS/2006-147, art. 24.
+> DORS/2006-147, art. 24; DORS/2012-286, art. 61(F).
 
 
 
@@ -2907,14 +2907,14 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Procédure de rappel
 
 
-**170.1** Quiconque importe, fabrique, emballe, étiquette, entrepose, distribue, vend ou annonce pour de la vente un aliment pour animaux destiné aux ruminants, équidés, porcins, poulets, dindons, canards, oies, ratites ou aux gibiers à plumes doit établir par écrit et appliquer une procédure de rappel efficace des aliments pour animaux.
-> DORS/2006-147, art. 26.
+**170.1** Quiconque importe, fabrique, emballe, étiquette, entrepose, distribue, vend ou annonce pour de la vente un aliment pour animaux destiné aux ruminants, équidés, porcins, poulets, dindons, canards, oies, ratites ou aux gibiers à plumes établit et tient à jour une procédure écrite de rappel efficace des aliments pour animaux.
+> DORS/2006-147, art. 26; DORS/2012-286, art. 62(F).
 
 
 
 
-**170.2** Quiconque importe, fabrique, vend ou distribue un engrais ou un supplément d’engrais contenant une substance interdite, autre que du gras fondu, doit établir par écrit et appliquer une procédure écrite de rappel efficace de ces produits.
-> DORS/2006-147, art. 26.
+**170.2** Quiconque importe, fabrique, vend ou distribue un engrais ou un supplément d’engrais contenant une substance interdite, autre que du gras fondu, établit et tient à jour une procédure écrite de rappel efficace de ces produits.
+> DORS/2006-147, art. 26; DORS/2012-286, art. 62.
 
 
 
@@ -2949,7 +2949,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 - **(1)** Toute personne qui fabrique un engrais ou un supplément d’engrais contenant une substance interdite, autre qu’un gras fondu, doit tenir pendant une période de dix ans, un registre :
 	- **a)** qui permet d’établir :
 		- **(i)** qu’elle n’a pas utilisé de matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, comme ingrédient dans l’engrais ou le supplément d’engrais,
-		- **(ii)** qu’elle a utilisé du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, comme ingrédient dans l’engrais ou le supplément d’engrais mais uniquement en conformité avec un permis délivré au titre de l’article 160;
+		- **(ii)** qu’elle a utilisé du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, comme ingrédient dans l’engrais ou le supplément d’engrais mais uniquement en conformité avec un permis délivré au titre de l’article 160 pour l’application de l’article 6.4;
 	- **b)** qui permet de procéder à un rappel efficace de l’engrais ou du supplément d’engrais.
 
 - **(2)** Le registre renferme :
@@ -2961,7 +2961,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **f)** les nom et adresse de toute personne à qui un engrais ou un supplément d’engrais est distribué ou vendu, ainsi qu’une description de l’engrais ou du supplément d’engrais, notamment le nom et la quantité.
 
 - **(3)** Au présent article, ***matériel à risque spécifié*** s’entend au sens de l’article 6.1.
-> DORS/2006-147, art. 28; DORS/2009-18, art. 18.
+> DORS/2006-147, art. 28; DORS/2009-18, art. 18; DORS/2012-286, art. 63(F).
 
 
 
@@ -3205,7 +3205,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** Sous réserve des paragraphes (2) et (3), si un animal ne porte pas une étiquette approuvée, porte une étiquette approuvée qui a été révoquée ou perd une étiquette approuvée, la personne qui en est le propriétaire ou qui en a la possession, la garde ou la charge des soins lui appose immédiatement une nouvelle étiquette approuvée.
 
-- **(2)** Sous réserve du paragraphe (3), l’animal qui perd son étiquette approuvée au cours du transport peut continuer à être transporté jusqu’au point de déchargement suivant et peut être réceptionné à cet endroit, seulement si une nouvelle étiquette approuvée lui est apposée dès sa réception.
+- **(2)** Sous réserve du paragraphe (3), l’animal qui perd son étiquette approuvée au cours du transport peut continuer à être transporté jusqu’au point de déchargement suivant et peut être réceptionné à cet endroit, seulement si une nouvelle étiquette approuvée lui est apposée immédiatement après sa réception.
 
 - **(3)** L’animal qui perd son étiquette approuvée au cours du transport vers un abattoir n’a pas à être réétiqueté si les conditions suivantes sont réunies :
 	- **a)** l’animal est abattu à cet abattoir;
@@ -3216,7 +3216,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **c)** dans le cas d’un bison ou d’un bovin, le responsable de l’abattoir communique à l’administrateur, dans les trente jours suivant l’abattage, les renseignements visés à l’alinéa b).
 
 - **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (3)b) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11; DORS/2010-137, art. 3.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11; DORS/2010-137, art. 3; DORS/2012-286, art. 64(F).
 
 
 
