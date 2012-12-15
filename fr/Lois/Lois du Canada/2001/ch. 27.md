@@ -335,23 +335,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Droit au parrainage : individus**
+**Parrainage de l’étranger**
 
 **13** 
 
-- **(1)** Tout citoyen canadien et tout résident permanent peuvent, sous réserve des règlements, parrainer l’étranger de la catégorie « regroupement familial ».
+- **(1)** Tout citoyen canadien, résident permanent ou groupe de citoyens canadiens ou de résidents permanents ou toute personne morale ou association de régime fédéral ou provincial — ou tout groupe de telles de ces personnes ou associations — peut, sous réserve des règlements, parrainer un étranger.
 
-**Droit au parrainage : groupes**
-
-- **(2)** Tout groupe de citoyens canadiens ou de résidents permanents ou toute personne morale ou association de régime fédéral ou provincial — ou tout groupe de telles de ces personnes — , peut, sous réserve des règlements, parrainer un étranger qui a la qualité, au titre de la présente loi, de réfugié ou de personne en situation semblable.
-
-**Obligation**
-
-- **(3)** L’engagement de parrainage lie le répondant.
+- **(2) et (3)** [Abrogés, 2012, ch. 17, art. 7]
 
 **Instructions**
 
 - **(4)** L’agent est tenu de se conformer aux instructions du ministre sur la mise en oeuvre des règlements visés à l’alinéa 14(2)e).
+> 2001, ch. 27, art. 13; 2012, ch. 17, art. 7.
+
+
+
+
+
+#### Engagements
+
+
+
+**Caractère obligatoire**
+
+**13.1** Tout engagement pris sous le régime de la présente loi à l’égard d’un étranger, notamment l’engagement de parrainage, lie le répondant.
+> 2012, ch. 17, art. 8.
+
+
+
+
+
+**Engagement exigé**
+
+**13.2** 
+
+- **(1)** Lorsque les règlements l’exigent, l’étranger qui demande un visa ou le statut de résident permanent ou temporaire est tenu d’obtenir l’engagement qui y est prévu.
+
+**Instructions du ministre**
+
+- **(2)** L’agent est tenu de se conformer aux instructions du ministre sur la mise en oeuvre des règlements visés à l’alinéa 14(2)e.1).
+> 2012, ch. 17, art. 8.
+
 
 
 
@@ -373,14 +397,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** la demande, la délivrance et le refus de délivrance de visas et autres documents pour les étrangers et les membres de leur famille;
 	- **c)** le nombre de demandes à traiter et dont il peut être disposé et celui de visas ou autres documents à accorder par an, ainsi que les mesures à prendre en cas de dépassement;
 	- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
-	- **e)** le parrainage, les engagements, ainsi que la sanction de leur inobservation;
+	- **e)** le parrainage;
+	- **e.1)** les engagements ainsi que la sanction découlant de leur inobservation;
 	- **f)** les garanties à remettre au ministre pour le respect des obligations découlant de la présente loi;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
 
 **Autorisation de voyage électronique**
 
 - **(3)** Pour l’application du paragraphe 11(1.01), les règlements peuvent prévoir notamment les cas où la demande peut être faite par tout autre moyen qui y est prévu.
-> 2001, ch. 27, art. 14; 2012, ch. 31, art. 309.
+> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309.
 
 
 
@@ -1025,8 +1050,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** la déclaration de culpabilité n’emporte pas interdiction de territoire en cas de verdict d’acquittement rendu en dernier ressort ou en cas de suspension du casier — sauf cas de révocation ou de nullité — au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md);
 	- **c)** les faits visés aux alinéas (1)b) ou c) et (2)b) ou c) n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui, à l’expiration du délai réglementaire, convainc le ministre de sa réadaptation ou qui appartient à une catégorie réglementaire de personnes présumées réadaptées;
 	- **d)** la preuve du fait visé à l’alinéa (1)c) est, s’agissant du résident permanent, fondée sur la prépondérance des probabilités;
-	- **e)** l’interdiction de territoire ne peut être fondée sur une infraction qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) ni sur une infraction dont le résident permanent ou l’étranger est déclaré coupable sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), ou de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
-> 2001, ch. 27, art. 36; 2008, ch. 3, art. 3; 2012, ch. 1, art. 149.
+	- **e)** l’interdiction de territoire ne peut être fondée sur les infractions suivantes :
+		- **(i)** celles qui sont qualifiées de contraventions en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md),
+		- **(ii)** celles dont le résident permanent ou l’étranger est déclaré coupable sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985),
+		- **(iii)** celles pour lesquelles le résident permanent ou l’étranger a reçu une peine spécifique en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
+> 2001, ch. 27, art. 36; 2008, ch. 3, art. 3; 2010, ch. 8, art. 7; 2012, ch. 1, art. 149.
 
 
 
@@ -1080,7 +1108,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Emportent interdiction de territoire pour fausses déclarations les faits suivants :
 	- **a)** directement ou indirectement, faire une présentation erronée sur un fait important quant à un objet pertinent, ou une réticence sur ce fait, ce qui entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
 	- **b)** être ou avoir été parrainé par un répondant dont il a été statué qu’il est interdit de territoire pour fausses déclarations;
-	- **c)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile;
+	- **c)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou de protection;
 	- **d)** la perte de la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) dans le cas visé au paragraphe 10(2) de cette loi.
 
 **Application**
@@ -1088,6 +1116,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les dispositions suivantes s’appliquent au paragraphe (1) :
 	- **a)** l’interdiction de territoire court pour les deux ans suivant la décision la constatant en dernier ressort, si le résident permanent ou l’étranger n’est pas au pays, ou suivant l’exécution de la mesure de renvoi;
 	- **b)** l’alinéa (1)b) ne s’applique que si le ministre est convaincu que les faits en cause justifient l’interdiction.
+> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17.
+
+
+
+
+
+**Perte de l’asile — étranger**
+
+**40.1** 
+
+- **(1)** La décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant la perte de l’asile d’un étranger emporte son interdiction de territoire.
+
+**Perte de l’asile — résident permanent**
+
+- **(2)** La décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l’un des alinéas 108(1)a) à d), la perte de l’asile d’un résident permanent emporte son interdiction de territoire.
+> 2012, ch. 17, art. 18.
+
 
 
 
@@ -1168,11 +1213,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’obtention de la citoyenneté canadienne;
 	- **b)** la confirmation en dernier ressort du constat, hors du Canada, de manquement à l’obligation de résidence;
 	- **c)** la prise d’effet de la mesure de renvoi;
+	- **c.1)** la décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l’un des alinéas 108(1)a) à d), la perte de l’asile;
 	- **d)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou celle d’accorder la demande de protection.
 
 **Effet de la perte de la citoyenneté**
 
 - **(2)** Devient résident permanent quiconque perd la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé au paragraphe 10(2) de cette loi.
+> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19.
+
 
 
 
@@ -1199,7 +1247,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conséquence**
 
-- **(2)** L’étranger visé par la mesure de renvoi exécutoire doit immédiatement quitter le territoire du Canada, la mesure devant être appliquée dès que les circonstances le permettent.
+- **(2)** L’étranger visé par la mesure de renvoi exécutoire doit immédiatement quitter le territoire du Canada, la mesure devant être exécutée dès que possible.
+> 2001, ch. 27, art. 48; 2012, ch. 17, art. 20.
+
 
 
 
@@ -1215,9 +1265,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Toutefois, celle visant le demandeur d’asile est conditionnelle et prend effet :
 	- **a)** sur constat d’irrecevabilité au seul titre de l’alinéa 101(1)e);
 	- **b)** sept jours après le constat, dans les autres cas d’irrecevabilité prévus au paragraphe 101(1);
-	- **c)** quinze jours après la notification du rejet de sa demande par la Section de la protection des réfugiés ou, en cas d’appel, par la Section d’appel des réfugiés;
+	- **c)** en cas de rejet de sa demande par la Section de la protection des réfugiés, à l’expiration du délai visé au paragraphe 110(2.1) ou, en cas d’appel, quinze jours après la notification du rejet de sa demande par la Section d’appel des réfugiés;
 	- **d)** quinze jours après la notification de la décision prononçant le désistement ou le retrait de sa demande;
 	- **e)** quinze jours après le classement de l’affaire au titre de l’avis visé aux alinéas 104(1)c) ou d).
+> 2001, ch. 27, art. 49; 2012, ch. 17, art. 21.
+
 
 
 
@@ -1265,10 +1317,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les cas de prise ou de maintien des mesures de renvoi;
 - **c)** les cas de rétablissement du statut;
 - **d)** les cas de sursis — notamment par le ministre ou non prévus par la présente loi — des mesures de renvoi;
-- **e)** les effets et l’exécution des mesures de renvoi;
+- **e)** les effets et l’exécution des mesures de renvoi, y compris la prise en compte de facteurs pour établir à quel moment l’exécution est possible;
 - **f)** les effets de la suspension du casier ordonnée en vertu de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
 - **g)** les obligations financières qui peuvent être imposées relativement aux mesures de renvoi.
-> 2001, ch. 27, art. 53; 2012, ch. 1, art. 150.
+> 2001, ch. 27, art. 53; 2012, ch. 1, art. 150, ch. 17, art. 22.
 
 
 
@@ -1290,7 +1342,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **55** 
 
-- **(1)** L’agent peut lancer un mandat pour l’arrestation et la détention du résident permanent ou de l’étranger dont il a des motifs raisonnables de croire qu’il est interdit de territoire et qu’il constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi.
+- **(1)** L’agent peut lancer un mandat pour l’arrestation et la détention du résident permanent ou de l’étranger dont il a des motifs raisonnables de croire qu’il est interdit de territoire et qu’il constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2).
 
 **Arrestation sans mandat et détention**
 
@@ -2060,7 +2112,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **87.3** 
 
-- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées aux paragraphes 11(1) et (1.01) — sauf à celle faite par la personne visée au paragraphe 99(2) —, aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada, aux demandes de permis de travail ou d’études ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
+- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées aux paragraphes 11(1) et (1.01) — sauf à celle faite par la personne visée au paragraphe 99(2) —, aux demandes de parrainage faites au titre du paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada, aux demandes de permis de travail ou d’études ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
 
 **Atteinte des objectifs d’immigration**
 
@@ -2098,7 +2150,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(7)** Le présent article n’a pas pour effet de porter atteinte au pouvoir du ministre de déterminer de toute autre façon la manière la plus efficace d’assurer l’application de la loi.
-> 2008, ch. 28, art. 118; 2012, ch. 19, art. 706, ch. 31, art. 311.
+> 2008, ch. 28, art. 118; 2012, ch. 17, art. 29, ch. 19, art. 706 et 710, ch. 31, art. 311 et 314.
 
 
 
@@ -2330,13 +2382,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **95** 
 
 - **(1)** L’asile est la protection conférée à toute personne dès lors que, selon le cas :
-	- **a)** sur constat qu’elle est, à la suite d’une demande de visa, un réfugié ou une personne en situation semblable, elle devient soit un résident permanent au titre du visa, soit un résident temporaire au titre d’un permis de séjour délivré en vue de sa protection;
-	- **b)** la Commission lui reconnaît la qualité de réfugié ou celle de personne à protéger;
+	- **a)** sur constat qu’elle est, à la suite d’une demande de visa, un réfugié au sens de la Convention ou une personne en situation semblable, elle devient soit un résident permanent au titre du visa, soit un résident temporaire au titre d’un permis de séjour délivré en vue de sa protection;
+	- **b)** la Commission lui reconnaît la qualité de réfugié au sens de la Convention ou celle de personne à protéger;
 	- **c)** le ministre accorde la demande de protection, sauf si la personne est visée au paragraphe 112(3).
 
 **Personne protégée**
 
 - **(2)** Est appelée personne protégée la personne à qui l’asile est conféré et dont la demande n’est pas ensuite réputée rejetée au titre des paragraphes 108(3), 109(3) ou 114(4).
+> 2001, ch. 27, art. 95; 2010, ch. 8, art. 10(F).
+
 
 
 
@@ -2423,9 +2477,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Celle de la personne se trouvant au Canada se fait à l’agent et est régie par la présente partie; toutefois la personne visée par une mesure de renvoi n’est pas admise à la faire.
 
+**Demande faite au Canada ailleurs qu’à un point d’entrée**
+
+- **(3.1)** La personne se trouvant au Canada et qui demande l’asile ailleurs qu’à un point d’entrée est tenue de fournir à l’agent, dans les délais prévus par règlement et conformément aux règles de la Commission, les renseignements et documents — y compris ceux qui sont relatifs au fondement de la demande — exigés par ces règles.
+
 **Résident permanent**
 
 - **(4)** La demande de résidence permanente faite au Canada par une personne protégée est régie par la partie 1.
+> 2001, ch. 27, art. 99; 2012, ch. 17, art. 33.
+
 
 
 
@@ -2440,6 +2500,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Dans les trois jours ouvrables suivant la réception de la demande, l’agent statue sur sa recevabilité et défère, conformément aux règles de la Commission, celle jugée recevable à la Section de la protection des réfugiés.
 
+**Charge de la preuve**
+
+- **(1.1)** La preuve de la recevabilité incombe au demandeur, qui doit répondre véridiquement aux questions qui lui sont posées.
+
 **Sursis pour décision**
 
 - **(2)** L’agent sursoit à l’étude de la recevabilité dans les cas suivants :
@@ -2450,14 +2514,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La saisine de la section survient sur déféré de la demande; sauf sursis ou constat d’irrecevabilité, elle est réputée survenue à l’expiration des trois jours.
 
-**Obligation**
+**Renseignements et documents à fournir**
 
-- **(4)** La preuve de la recevabilité incombe au demandeur, qui doit répondre véridiquement aux questions qui lui sont posées et fournir à la section, si le cas lui est déféré, les renseignements et documents prévus par les règles de la Commission.
+- **(4)** La personne se trouvant au Canada, qui demande l’asile à un point d’entrée et dont la demande est déférée à la Section de la protection des réfugiés est tenue de lui fournir, dans les délais prévus par règlement et conformément aux règles de la Commission, les renseignements et documents — y compris ceux qui sont relatifs au fondement de la demande — exigés par ces règles.
+
+**Date de l’audition**
+
+- **(4.1)** L’agent qui défère la demande d’asile fixe, conformément aux règlements, aux règles de la Commission et à toutes directives de son président, la date de l’audition du cas du demandeur par la Section de la protection des réfugiés.
 
 **[Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md)**
 
 - **(5)** Le délai prévu aux paragraphes (1) et (3) ne court pas durant une période d’isolement ou de détention ordonnée en application de la [Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md).
-> 2001, ch. 27, art. 100; 2005, ch. 20, art. 81.
+> 2001, ch. 27, art. 100; 2005, ch. 20, art. 81; 2010, ch. 8, art. 11; 2012, ch. 17, art. 56.
 
 
 
@@ -2478,8 +2546,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Grande criminalité**
 
 - **(2)** L’interdiction de territoire pour grande criminalité visée à l’alinéa (1)f) n’emporte irrecevabilité de la demande que si elle a pour objet :
-	- **a)** une déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans et pour laquelle un emprisonnement d’au moins deux ans a été infligé;
-	- **b)** une déclaration de culpabilité à l’extérieur du Canada, pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans, le ministre estimant que le demandeur constitue un danger pour le public au Canada.
+	- **a)** une déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
+	- **b)** une déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
+> 2001, ch. 27, art. 101; 2012, ch. 17, art. 34.
+
 
 
 
@@ -2516,13 +2586,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **103** 
 
-- **(1)** La Section de la protection des réfugiés ou la Section d’appel des réfugiés sursoit à l’étude de la demande sur avis de l’agent portant que :
+- **(1)** La Section de la protection des réfugiés sursoit à l’étude de la demande d’asile sur avis de l’agent portant que :
 	- **a)** le cas a été déféré à la Section de l’immigration pour constat d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée;
 	- **b)** il l’estime nécessaire, afin qu’il soit statué sur une accusation pour infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
 
 **Continuation**
 
 - **(2)** L’étude de la demande reprend sur avis portant que la demande est recevable.
+> 2001, ch. 27, art. 103; 2012, ch. 17, art. 35.
+
 
 
 
@@ -2603,6 +2675,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Demande manifestement infondée**
+
+**107.1** La Section de la protection des réfugiés fait état dans sa décision du fait que la demande est manifestement infondée si elle estime que celle-ci est clairement frauduleuse.
+> 2010, ch. 8, art. 11.1; 2012, ch. 17, art. 57.
+
+
+
+
+
 #### Perte de l’asile
 
 
@@ -2654,6 +2735,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Désignation de pays d’origine
+
+
+
+**Désignation de pays d’origine**
+
+**109.1** 
+
+- **(1)** Le ministre peut, par arrêté, désigner un pays pour l’application du paragraphe 110(2) et de l’article 111.1.
+
+**Réserve**
+
+- **(2)** Il ne peut procéder à la désignation que dans les cas suivants :
+	- **a)** s’agissant d’un pays dont les ressortissants ont présenté des demandes d’asile au Canada sur lesquelles la Section de la protection des réfugiés a statué en dernier ressort en nombre égal ou supérieur au nombre prévu par arrêté, si l’une ou l’autre des conditions ci-après est remplie :
+		- **(i)** le taux, exprimé en pourcentage, obtenu par la division du nombre total des demandes présentées par des ressortissants du pays en cause qui ont été rejetées par la Section de la protection des réfugiés en dernier ressort et de celles dont elle a prononcé le désistement ou le retrait en dernier ressort — durant la période prévue par arrêté — par le nombre total des demandes d’asile présentées par des ressortissants du pays en cause et sur lesquelles la Section a statué en dernier ressort durant la même période est égal ou supérieur au pourcentage prévu par arrêté,
+		- **(ii)** le taux, exprimé en pourcentage, obtenu par la division du nombre total des demandes présentées par des ressortissants du pays en cause dont la Section de la protection des réfugiés a prononcé le désistement ou le retrait en dernier ressort — durant la période prévue par arrêté — par le nombre total des demandes d’asile présentées par des ressortissants du pays en cause et sur lesquelles la Section a statué en dernier ressort durant la même période est égal ou supérieur au pourcentage prévu par arrêté;
+	- **b)** s’agissant d’un pays dont les ressortissants ont présenté des demandes d’asile au Canada sur lesquelles la Section de la protection des réfugiés a statué en dernier ressort en nombre inférieur au nombre prévu par arrêté, si le ministre est d’avis que le pays en question répond aux critères suivants :
+		- **(i)** il y existe des institutions judiciaires indépendantes,
+		- **(ii)** les droits et libertés démocratiques fondamentales y sont reconnus et il y est possible de recourir à des mécanismes de réparation pour leur violation,
+		- **(iii)** il y existe des organisations de la société civile.
+
+**Arrêté**
+
+- **(3)** Le ministre peut, par arrêté, prévoir le nombre, la période et les pourcentages visés au paragraphe (2).
+
+**Caractère non réglementaire**
+
+- **(4)** Les arrêtés ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), mais sont publiés dans la Gazette du Canada.
+> 2010, ch. 8, art. 12; 2012, ch. 17, art. 58.
+
+
+
+
+
 #### Appel devant la Section d’appel des réfugiés
 
 
@@ -2677,6 +2792,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** sous réserve des règlements, la décision de la Section de la protection des réfugiés ayant trait à la demande d’asile qui, à la fois :
 		- **(i)** est faite par un étranger arrivé, directement ou indirectement, d’un pays qui est — au moment de la demande — désigné par règlement pris en vertu du paragraphe 102(1) et partie à un accord visé à l’alinéa 102(2)d),
 		- **(ii)** n’est pas irrecevable au titre de l’alinéa 101(1)e) par application des règlements pris au titre de l’alinéa 102(1)c);
+	- **d.1)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande d’asile du ressortissant d’un pays qui faisait l’objet de la désignation visée au paragraphe 109.1(1) à la date de la décision;
 	- **e)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande du ministre visant la perte de l’asile;
 	- **f)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande du ministre visant l’annulation d’une décision ayant accueilli la demande d’asile.
 
@@ -2706,7 +2822,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** soulèvent une question importante en ce qui concerne la crédibilité de la personne en cause;
 	- **b)** sont essentiels pour la prise de la décision relative à la demande d’asile;
 	- **c)** à supposer qu’ils soient admis, justifieraient que la demande d’asile soit accordée ou refusée, selon le cas.
-> 2001, ch. 27, art. 110; 2010, ch. 8, art. 13; 2012, ch. 17, art. 36.
+> 2001, ch. 27, art. 110; 2010, ch. 8, art. 13; 2012, ch. 17, art. 36 et 84.
 
 
 
@@ -2726,6 +2842,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** que la décision attaquée de la Section de la protection des réfugiés est erronée en droit, en fait ou en droit et en fait;
 	- **b)** qu’elle ne peut confirmer la décision attaquée ou casser la décision et y substituer la décision qui aurait dû être rendue sans tenir une nouvelle audience en vue du réexamen des éléments de preuve qui ont été présentés à la Section de la protection des réfugiés.
 > 2001, ch. 27, art. 111; 2010, ch. 8, art. 14; 2012, ch. 17, art. 37.
+
+
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**111.1** 
+
+- **(1)** Les règlements régissent l’application de la présente section et portent notamment sur :
+	- **a)** les délais impartis pour fournir des renseignements et documents au titre des paragraphes 99(3.1) ou 100(4);
+	- **b)** les délais impartis pour l’audition mentionnée au paragraphe 100(4.1);
+	- **c)** les exceptions à l’application de l’alinéa 110(2)d);
+	- **d)** les délais impartis pour interjeter et mettre en état l’appel au titre du paragraphe 110(2.1);
+	- **e)** les délais impartis à la Section d’appel des réfugiés pour rendre ses décisions, la prorogation de ces délais et les circonstances dans lesquelles ils ne s’appliquent pas.
+
+**Délais différents : alinéa (1)b)**
+
+- **(2)** Les règlements pris au titre de l’alinéa (1)b) peuvent prévoir, à l’égard des demandeurs d’asile qui, à la date de leur demande, sont les ressortissants d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), des délais différents de ceux qui sont applicables à l’égard des autres demandeurs d’asile.
+> 2010, ch. 8, art. 14.1; 2012, ch. 17, art. 59.
 
 
 
@@ -2751,7 +2891,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Elle n’est pas admise à demander la protection dans les cas suivants :
 	- **a)** elle est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md);
 	- **b)** sa demande d’asile a été jugée irrecevable au titre de l’alinéa 101(1)e);
-	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois se sont écoulés depuis le dernier rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu à la section E ou F de l’article premier de la Convention — ou le dernier prononcé du désistement ou du retrait de la demande par la Section de la protection des réfugiés ou la Section d’appel des réfugiés;
+	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de trente-six mois se sont écoulés depuis le dernier rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu à la section E ou F de l’article premier de la Convention — ou le dernier prononcé du désistement ou du retrait de la demande par la Section de la protection des réfugiés ou la Section d’appel des réfugiés;
 	- **c)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de 36 mois se sont écoulés depuis le rejet de sa dernière demande de protection ou le prononcé du retrait ou du désistement de cette demande par la Section de la protection des réfugiés ou le ministre.
 	- **d)** [Abrogé, 2012, ch. 17, art. 38]
 
@@ -2774,7 +2914,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’asile ne peut être conféré au demandeur dans les cas suivants :
 	- **a)** il est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou criminalité organisée;
-	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada punie par un emprisonnement d’au moins deux ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
+	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
 	- **d)** il est nommé au certificat visé au paragraphe 77(1).
 > 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84.
@@ -2789,9 +2929,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** le demandeur d’asile débouté ne peut présenter que des éléments de preuve survenus depuis le rejet ou qui n’étaient alors pas normalement accessibles ou, s’ils l’étaient, qu’il n’était pas raisonnable, dans les circonstances, de s’attendre à ce qu’il les ait présentés au moment du rejet;
 - **b)** une audience peut être tenue si le ministre l’estime requis compte tenu des facteurs réglementaires;
 - **c)** s’agissant du demandeur non visé au paragraphe 112(3), sur la base des articles 96 à 98;
-- **d)** s’agissant du demandeur visé au paragraphe 112(3), sur la base des éléments mentionnés à l’article 97 et, d’autre part :
+- **d)** s’agissant du demandeur visé au paragraphe 112(3) — sauf celui visé au sous-alinéa e)(i) ou (ii) —, sur la base des éléments mentionnés à l’article 97 et, d’autre part :
 	- **(i)** soit du fait que le demandeur interdit de territoire pour grande criminalité constitue un danger pour le public au Canada,
-	- **(ii)** soit, dans le cas de tout autre demandeur, du fait que la demande devrait être rejetée en raison de la nature et de la gravité de ses actes passés ou du danger qu’il constitue pour la sécurité du Canada.
+	- **(ii)** soit, dans le cas de tout autre demandeur, du fait que la demande devrait être rejetée en raison de la nature et de la gravité de ses actes passés ou du danger qu’il constitue pour la sécurité du Canada;
+- **e)** s’agissant des demandeurs ci-après, sur la base des articles 96 à 98 et, selon le cas, du sous-alinéa d)(i) ou (ii) :
+	- **(i)** celui qui est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans et pour laquelle soit un emprisonnement de moins de deux ans a été infligé, soit aucune peine d’emprisonnement n’a été imposée,
+	- **(ii)** celui qui est interdit de territoire pour grande criminalité pour déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans, sauf s’il a été conclu qu’il est visé à la section F de l’article premier de la Convention sur les réfugiés.
+> 2001, ch. 27, art. 113; 2012, ch. 17, art. 39.
+
 
 
 
@@ -2860,11 +3005,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **117** 
 
-- **(1)** Commet une infraction quiconque sciemment organise l’entrée au Canada d’une ou plusieurs personnes non munies des documents — passeport, visa ou autre — requis par la présente loi ou incite, aide ou encourage une telle personne à entrer au Canada.
+- **(1)** Il est interdit à quiconque d’organiser l’entrée au Canada d’une ou de plusieurs personnes ou de les inciter, aider ou encourager à y entrer en sachant que leur entrée est ou serait en contravention avec la présente loi ou en ne se souciant pas de ce fait.
 
 **Peines**
 
-- **(2)** L’auteur de l’infraction visant moins de dix personnes est passible, sur déclaration de culpabilité :
+- **(2)** Quiconque contrevient au paragraphe (1) relativement à moins de dix personnes commet une infraction et est passible, sur déclaration de culpabilité :
 	- **a)** par mise en accusation :
 		- **(i)** pour une première infraction, d’une amende maximale de cinq cent mille dollars et d’un emprisonnement maximal de dix ans, ou de l’une de ces peines,
 		- **(ii)** en cas de récidive, d’une amende maximale de un million de dollars et d’un emprisonnement maximal de quatorze ans, ou de l’une de ces peines;
@@ -2872,11 +3017,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Peines**
 
-- **(3)** L’auteur de l’infraction visant un groupe de dix personnes et plus est passible, sur déclaration de culpabilité par mise en accusation, d’une amende maximale de un million de dollars et de l’emprisonnement à perpétuité, ou de l’une de ces peines.
+- **(3)** Quiconque contrevient au paragraphe (1) relativement à un groupe de dix personnes et plus commet une infraction et est passible, sur déclaration de culpabilité par mise en accusation, d’une amende maximale de un million de dollars et de l’emprisonnement à perpétuité, ou de l’une de ces peines.
+
+**Peine minimale — moins de cinquante personnes**
+
+- **(3.1)** Quiconque est déclaré coupable, par mise en accusation, de l’infraction prévue aux paragraphes (2) ou (3) visant moins de cinquante personnes est aussi passible des peines minimales suivantes :
+	- **a)** trois ans si, selon le cas :
+		- **(i)** l’auteur, en commettant l’infraction, a entraîné la mort de toute personne visée par l’infraction ou des blessures à celle-ci ou a mis en danger sa vie ou sa sécurité,
+		- **(ii)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou d’un groupe terroriste ou en association avec l’un ou l’autre de ceux-ci ou en vue de tirer un profit;
+	- **b)** cinq ans si, à la fois :
+		- **(i)** l’auteur, en commettant l’infraction, a entraîné la mort de toute personne visée par l’infraction ou des blessures à celle-ci ou a mis en danger sa vie ou sa sécurité,
+		- **(ii)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou d’un groupe terroriste ou en association avec l’un ou l’autre de ceux-ci ou en vue de tirer un profit.
+
+**Peine minimale — groupe de cinquante personnes et plus**
+
+- **(3.2)** Quiconque est déclaré coupable de l’infraction prévue au paragraphe (3) visant un groupe de cinquante personnes et plus est aussi passible des peines minimales suivantes :
+	- **a)** cinq ans si, selon le cas :
+		- **(i)** l’auteur, en commettant l’infraction, a entraîné la mort de toute personne visée par l’infraction ou des blessures à celle-ci ou a mis en danger sa vie ou sa sécurité,
+		- **(ii)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou d’un groupe terroriste ou en association avec l’un ou l’autre de ceux-ci ou en vue de tirer un profit;
+	- **b)** dix ans si, à la fois :
+		- **(i)** l’auteur, en commettant l’infraction, a entraîné la mort de toute personne visée par l’infraction ou des blessures à celle-ci ou a mis en danger sa vie ou sa sécurité,
+		- **(ii)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou d’un groupe terroriste ou en association avec l’un ou l’autre de ceux-ci ou en vue de tirer un profit.
 
 **Consentement du procureur général du Canada**
 
 - **(4)** Il n’est engagé aucune poursuite pour une infraction prévue au présent article sans le consentement du procureur général du Canada.
+> 2001, ch. 27, art. 117; 2012, ch. 17, art. 41.
+
 
 
 
@@ -2908,19 +3075,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Infliction de la peine**
+**Circonstances aggravantes**
 
 **121** 
 
-- **(1)** Le tribunal tient compte, dans l’infliction de la peine visée aux paragraphes 117(2) et (3) et à l’article 120, des facteurs suivants :
-	- **a)** la mort est survenue ou des blessures ont été infligées;
+- **(1)** Le tribunal tient compte, dans l’infliction de la peine visée à l’article 120, des circonstances suivantes :
+	- **a)** la perpétration de l’infraction a entraîné la mort ou des blessures ou a mis en danger la vie ou la sécurité d’autrui;
 	- **b)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou en association avec elle;
 	- **c)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé;
-	- **d)** la personne est soumise à tout traitement dégradant ou attentatoire à la dignité humaine, notamment en ce qui touche les activités professionnelles, la santé ou l’exploitation sexuelle.
+	- **d)** par suite de la perpétration de l’infraction, une personne a été soumise à un traitement dégradant ou attentatoire à la dignité humaine, notamment en ce qui touche les activités professionnelles, la santé ou l’exploitation sexuelle.
+
+- **(2)** [Abrogé, 2012, ch. 17, art. 42]
+> 2001, ch. 27, art. 121; 2012, ch. 17, art. 42.
+
+
+
+
 
 **Définition de organisation criminelle**
 
-- **(2)** On entend par organisation criminelle l’organisation dont il y a des motifs raisonnables de croire qu’elle se livre ou s’est livrée à des activités faisant partie d’un plan d’activités criminelles organisées par plusieurs personnes agissant de concert en vue de la perpétration d’une infraction à une loi fédérale punissable par mise en accusation ou de la perpétration, hors du Canada, d’une infraction qui, commise au Canada, constituerait une telle infraction.
+**121.1** 
+
+- **(1)** Aux sous-alinéas 117(3.1)a)(ii) et b)(ii) et (3.2)a)(ii) et b)(ii) et à l’alinéa 121b), ***organisation criminelle*** s’entend au sens du paragraphe 467.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Définition de groupe terroriste**
+
+- **(2)** Aux sous-alinéas 117(3.1)a)(ii) et b)(ii) et (3.2)a)(ii) et b)(ii), ***groupe terroriste*** s’entend au sens du paragraphe 83.01(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2012, ch. 17, art. 43.
+
 
 
 
@@ -2953,11 +3135,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** à l’alinéa 122(1)a) est passible, sur déclaration de culpabilité par mise en accusation, d’un emprisonnement maximal de cinq ans;
 	- **b)** aux alinéas 122(1)b) ou c) est passible, sur déclaration de culpabilité par mise en accusation, d’un emprisonnement maximal de quatorze ans.
 
-**Infliction de la peine**
+**Circonstances aggravantes**
 
-- **(2)** Le tribunal tient compte dans l’infliction de la peine des facteurs suivants :
-	- **a)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle — au sens du paragraphe 121(2) — ou en association avec elle;
+- **(2)** Le tribunal tient compte dans l’infliction de la peine des circonstances suivantes :
+	- **a)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle — au sens du paragraphe 121.1(1) — ou en association avec elle;
 	- **b)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé.
+> 2001, ch. 27, art. 123; 2012, ch. 17, art. 44.
+
 
 
 
@@ -3046,8 +3230,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Aide**
 
-**131** Commet une infraction quiconque, sciemment, incite, aide ou encourage ou tente d’inciter, d’aider ou d’encourager une personne à commettre l’infraction visée aux articles 117, 118, 119, 122, 124 ou 129 ou conseille de la commettre ou complote à cette fin ou est un complice après le fait; l’auteur est passible, sur déclaration de culpabilité de la peine prévue à la disposition en cause.
-> 2001, ch. 27, art. 131, ch. 32, art. 81.
+**131** Commet une infraction quiconque, sciemment, incite, aide ou encourage ou tente d’inciter, d’aider ou d’encourager une personne à commettre toute infraction visée aux articles 117, 118, 119, 122, 124 ou 129 ou lui conseille de la commettre; l’auteur est passible, sur déclaration de culpabilité, de la peine prévue à la disposition en cause.
+> 2001, ch. 27, art. 131, ch. 32, art. 81; 2012, ch. 17, art. 45(F).
 
 
 
@@ -3072,12 +3256,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **133.1** 
 
-- **(1)** Toute poursuite par voie de procédure sommaire à l’égard d’une infraction visée aux articles 117, 126, 127 ou 131 se prescrit par dix ans à compter du fait reproché.
+- **(1)** Les poursuites par voie de procédure sommaire se prescrivent par dix ans à compter du fait reproché, dans le cas d’une infraction visée aux articles 117, 126 ou 127 et d’une infraction visée à l’article 131 en ce qui a trait à l’article 117, et par cinq ans à compter du fait reproché, dans le cas de toute autre infraction prévue par la présente loi.
 
 **Application**
 
 - **(2)** Le paragraphe (1) ne s’applique pas si le fait reproché est survenu avant l’entrée en vigueur du présent article.
-> 2011, ch. 8, art. 3.
+> 2011, ch. 8, art. 3; 2012, ch. 17, art. 46.
 
 
 
@@ -3400,13 +3584,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Serment ou déclaration**
+
+**152.1** Le président et les autres commissaires prêtent le serment professionnel — ou font la déclaration — dont le texte figure aux règles de la Commission.
+> 2010, ch. 8, art. 17.
+
+
+
+
+
 **Président et commissaires**
 
 **153** 
 
-- **(1)** Pour ce qui est du président et des commissaires de la Section de la protection des réfugiés, de la Section d’appel des réfugiés et de la Section d’appel de l’immigration :
+- **(1)** Pour ce qui est du président et des commissaires de la Section d’appel des réfugiés et de la Section d’appel de l’immigration :
 	- **a)** ils sont nommés à la Commission à titre inamovible pour un mandat maximal de sept ans par le gouverneur en conseil, sous réserve de révocation motivée de sa part, à tel de ses bureaux régionaux ou de district;
-	- **b)** ils prêtent le serment professionnel ou la déclaration dont le texte figure aux règles de la Commission;
+	- **b)** [Abrogé, 2010, ch. 8, art. 18]
 	- **c)** ils peuvent recevoir un nouveau mandat, à des fonctions identiques ou non;
 	- **d)** ils reçoivent le traitement fixé par le gouverneur en conseil;
 	- **e)** ils ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail, s’ils sont nommés à temps plein, ou de résidence, s’ils le sont à temps partiel;
@@ -3414,9 +3607,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **g)** ils ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec leurs fonctions;
 	- **h)** ceux nommés à temps plein se consacrent exclusivement à l’exécution des fonctions qui leur sont conférées par la présente loi.
 
-**[Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
-
-- **(1.1)** Les commissaires de la Section de la protection des réfugiés peuvent être nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) plutôt qu’en vertu de l’alinéa (1)a).
+- **(1.1)** [Abrogé, 2012, ch. 17, art. 84]
 
 **Vice-présidents et adjoints**
 
@@ -3429,7 +3620,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualité**
 
 - **(4)** Le vice-président de la Section d’appel de l’immigration, la majorité des vice-présidents adjoints de cette section et au moins dix pour cent des commissaires visés au paragraphe (1) sont obligatoirement inscrits, depuis au moins cinq ans, au barreau d’une province ou membres de la Chambre des notaires du Québec.
-> 2001, ch. 27, art. 153; 2003, ch. 22, art. 173; 2012, ch. 17, art. 48.
+> 2001, ch. 27, art. 153; 2003, ch. 22, art. 173; 2010, ch. 8, art. 18; 2012, ch. 17, art. 48 et 84.
 
 
 
@@ -3492,18 +3683,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le président est le premier dirigeant de la Commission ainsi que membre d’office des quatre sections; à ce titre :
 	- **a)** il assure la direction et contrôle la gestion des activités et du personnel de la Commission;
-	- **b)** il peut assigner les commissaires nommés au titre de l’alinéa 153(1)a) à la Section de la protection des réfugiés, à la Section d’appel des réfugiés et à la Section d’appel de l’immigration;
-	- **c)** il peut, malgré l’alinéa 153(1)a) et s’il l’estime nécessaire pour le fonctionnement de la Commission, affecter les commissaires, autres que ceux de la Section de l’immigration, à tout bureau régional ou de district pour une période maximale, sauf autorisation du gouverneur en conseil, de quatre-vingt-dix jours;
-	- **d)** il choisit parmi les commissaires à temps plein des commissaires coordonnateurs qu’il affecte à telle des sections autres que la Section de l’immigration;
+	- **b)** il peut affecter les commissaires nommés au titre de l’alinéa 153(1)a) à la Section d’appel des réfugiés et à la Section d’appel de l’immigration;
+	- **c)** il peut, malgré l’alinéa 153(1)a) et s’il l’estime nécessaire pour le fonctionnement de la Commission, affecter les commissaires de la Section d’appel des réfugiés ou de la Section d’appel de l’immigration à tout bureau régional ou de district pour une période maximale — sauf autorisation du gouverneur en conseil — de cent vingt jours;
+	- **d)** il peut choisir des commissaires coordonnateurs parmi les commissaires à temps plein nommés au titre de l’alinéa 153(1)a) et les affecter à la Section d’appel des réfugiés ou la Section d’appel de l’immigration;
 	- **e)** il confie des fonctions administratives aux commissaires;
 	- **f)** il répartit les affaires entre les commissaires et fixe les lieux, dates et heures des séances;
 	- **g)** il prend les mesures nécessaires pour que les commissaires remplissent leurs fonctions avec diligence et efficacité;
-	- **h)** après consultation des vice-présidents et du directeur général de la Section de l’immigration et en vue d’aider les commissaires dans l’exécution de leurs fonctions, il donne des directives écrites aux commissaires et précise les décisions de la Commission qui serviront de guide jurisprudentiel;
+	- **h)** après consultation des vice-présidents et en vue d’aider les commissaires dans l’exécution de leurs fonctions, il donne des directives écrites aux commissaires et précise les décisions de la Commission qui serviront de guide jurisprudentiel;
 	- **i)** il engage des experts compétents dans les domaines relevant du champ d’activité des sections et, avec l’agrément du Conseil du Trésor, fixe leur rémunération.
 
 **Délégation**
 
-- **(2)** Le président peut déléguer ses pouvoirs aux commissaires, autres que ceux de la Section de l’immigration, ceux prévus aux alinéas (1)a) et i) au secrétaire général de la Commission et ceux en matière d’immigration au directeur général et aux directeurs et aux commissaires de la Section de l’immigration, ceux prévus au paragraphe 161(1) ne pouvant être délégués.
+- **(2)** Le président peut déléguer ses pouvoirs aux commissaires. Toutefois :
+	- **a)** il ne peut déléguer les pouvoirs prévus au paragraphe 161(1);
+	- **b)** il peut déléguer les pouvoirs prévus aux alinéas (1)a) et i) au secrétaire général de la Commission;
+	- **c)** il ne peut déléguer ses pouvoirs relatifs à la Section d’appel des réfugiés ou à la Section d’appel de l’immigration qu’au vice-président, aux vice-présidents adjoints, aux commissaires coordonnateurs et aux autres commissaires de l’une ou l’autre de ces sections;
+	- **d)** il ne peut déléguer ses pouvoirs relatifs à la Section de la protection des réfugiés ou à la Section de l’immigration qu’au vice-président, aux vice-présidents adjoints, aux commissaires coordonnateurs et aux autres commissaires de la section en question.
+> 2001, ch. 27, art. 159; 2010, ch. 8, art. 19.
+
 
 
 
@@ -3523,15 +3720,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **161** 
 
-- **(1)** Sous réserve de l’agrément du gouverneur en conseil et en consultation avec les vice-présidents et le directeur général de la Section de l’immigration, le président peut prendre des règles visant :
-	- **a)** les travaux, la procédure et la pratique des sections, et notamment les délais pour interjeter appel de leurs décisions, l’ordre de priorité pour l’étude des affaires et les préavis à donner, ainsi que les délais afférents;
+- **(1)** Sous réserve de l’agrément du gouverneur en conseil et en consultation avec les vice-présidents, le président peut prendre des règles visant :
+	- **a)** le renvoi de la demande d’asile à la Section de la protection des réfugiés;
+	- **a.1)** les facteurs à prendre en compte pour fixer ou modifier la date de l’audition mentionnée au paragraphe 100(4.1);
+	- **a.2)** les travaux, la procédure et la pratique des sections, et notamment les délais pour interjeter appel de leurs décisions, à l’exception des décisions de la Section de la protection des réfugiés, l’ordre de priorité pour l’étude des affaires et les préavis à donner, ainsi que les délais afférents;
 	- **b)** la conduite des personnes dans les affaires devant la Commission, ainsi que les conséquences et sanctions applicables aux manquements aux règles de conduite;
 	- **c)** la teneur, la forme, le délai de présentation et les modalités d’examen des renseignements à fournir dans le cadre d’une affaire dont la Commission est saisie;
 	- **d)** toute autre mesure nécessitant, selon lui, la prise de règles.
 
+**Variations**
+
+- **(1.1)** Les règles visées à l’alinéa (1)c) peuvent traiter différemment une demande d’asile faite par un demandeur se trouvant au Canada selon que celle-ci a été soumise à un point d’entrée ou ailleurs ou selon que le demandeur est, ou non, à la date de sa demande, ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1).
+
 **Dépôt devant le Parlement**
 
 - **(2)** Le ministre fait déposer le texte des règles devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant leur agrément par le gouverneur en conseil.
+> 2001, ch. 27, art. 161; 2010, ch. 8, art. 20; 2012, ch. 17, art. 49, 61 et 84.
+
 
 
 
@@ -3569,7 +3774,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir d’enquête**
 
-**165** La Section de la protection des réfugiés et la Section de l’immigration et chacun de ses commissaires sont investis des pouvoirs d’un commissaire nommé aux termes de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) et peuvent prendre les mesures que ceux-ci jugent utiles à la procédure.
+**165** La Section de la protection des réfugiés, la Section d’appel des réfugiés et la Section de l’immigration et chacun de leurs commissaires sont investis des pouvoirs d’un commissaire nommé aux termes de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) et peuvent prendre les mesures que ceux-ci jugent utiles à la procédure.
+> 2001, ch. 27, art. 165; 2010, ch. 8, art. 22.
+
 
 
 
@@ -3582,11 +3789,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** il y a une sérieuse possibilité que la vie, la liberté ou la sécurité d’une personne puisse être mise en danger par la publicité des débats,
 	- **(ii)** il y a un risque sérieux d’atteinte au droit à une procédure équitable de sorte que la nécessité d’empêcher la divulgation de renseignements l’emporte sur l’intérêt qu’a la société à la publicité des débats,
 	- **(iii)** il y a un risque sérieux de divulgation de questions touchant la sécurité publique;
-- **c)** les affaires intéressant le demandeur d’asile devant la Section de la protection des réfugiés et la Section de l’immigration et les demandes d’annulation et de constat de perte sont tenues à huis clos, ainsi que celles devant la Section d’appel des réfugiés;
-- **d)** toutefois, sur demande ou d’office, la publicité des débats peut être accordée, assortie de toute mesure jugée nécessaire pour assurer la confidentialité des débats, sur preuve, après examen de toutes les solutions de rechange à la disposition de la section et des facteurs visés à l’alinéa b), qu’il est indiqué de le faire;
-- **e)** malgré les alinéas b) et c) le représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés peut participer à titre d’observateur aux séances touchant les demandeurs d’asile ou les personnes protégées;
+- **c)** sous réserve de l’alinéa d), les affaires devant la Section de la protection des réfugiés ou la Section d’appel des réfugiés sont tenues à huis clos;
+- **c.1)** sous réserve de l’alinéa d), sont tenues à huis clos les affaires devant la Section de l’immigration concernant soit la personne en cause dans une instance en cours devant la Section de la protection des réfugiés ou la Section d’appel des réfugiés, soit celle ayant soumis une demande de protection au ministre qui est toujours pendante;
+- **d)** sur demande ou d’office, la publicité des débats peut être accordée, assortie de toute mesure jugée nécessaire pour en assurer la confidentialité, sur preuve, après examen de toutes les solutions de rechange à la disposition de la section et des facteurs visés à l’alinéa b), qu’il est indiqué de le faire;
+- **e)** malgré les alinéas b) à c.1) le représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés peut participer à titre d’observateur aux séances touchant les demandeurs d’asile ou de protection ou les personnes protégées;
 - **f)** il ne peut toutefois participer à tout ou partie des séances où sont en cause des renseignements ou autres éléments de preuve qui font l’objet d’une demande d’interdiction de divulgation au titre de l’article 86, tant qu’elle n’est pas rejetée, ou dont la divulgation a été interdite.
-> 2001, ch. 27, art. 166; 2008, ch. 3, art. 5.
+> 2001, ch. 27, art. 166; 2008, ch. 3, art. 5; 2012, ch. 17, art. 50.
 
 
 
@@ -3596,11 +3804,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **167** 
 
-- **(1)** L’intéressé peut en tout cas se faire représenter devant la Commission, à ses frais, par un avocat ou un autre conseil.
+- **(1)** L’intéressé qui fait l’objet de procédures devant une section de la Commission ainsi que le ministre peuvent se faire représenter, à leurs frais, par un conseiller juridique ou un autre conseil.
 
 **Représentation**
 
 - **(2)** Est commis d’office un représentant à l’intéressé qui n’a pas dix-huit ans ou n’est pas, selon la section, en mesure de comprendre la nature de la procédure.
+> 2001, ch. 27, art. 167; 2010, ch. 8, art. 23; 2012, ch. 17, art. 63.
+
 
 
 
@@ -3635,6 +3845,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Composition**
+
+**169.1** 
+
+- **(1)** La Section de la protection des réfugiés se compose du vice-président, des vice-présidents adjoints et des autres commissaires, notamment les commissaires coordonnateurs, nécessaires à l’exercice de sa juridiction.
+
+**[Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+
+- **(2)** Les commissaires de la Section de la protection des réfugiés sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2010, ch. 8, art. 26.
+
+
+
+
+
 **Fonctionnement**
 
 **170** Dans toute affaire dont elle est saisie, la Section de la protection des réfugiés :
@@ -3642,11 +3867,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** dispose de celle-ci par la tenue d’une audience;
 - **c)** convoque la personne en cause et le ministre;
 - **d)** transmet au ministre, sur demande, les renseignements et documents fournis au titre du paragraphe 100(4);
+- **d.1)** peut interroger les témoins, notamment la personne en cause;
 - **e)** donne à la personne en cause et au ministre la possibilité de produire des éléments de preuve, d’interroger des témoins et de présenter des observations;
 - **f)** peut accueillir la demande d’asile sans qu’une audience soit tenue si le ministre ne lui a pas, dans le délai prévu par les règles, donné avis de son intention d’intervenir;
 - **g)** n’est pas liée par les règles légales ou techniques de présentation de la preuve;
 - **h)** peut recevoir les éléments qu’elle juge crédibles ou dignes de foi en l’occurrence et fonder sur eux sa décision;
 - **i)** peut admettre d’office les faits admissibles en justice et les faits généralement reconnus et les renseignements ou opinions qui sont du ressort de sa spécialisation.
+> 2001, ch. 27, art. 170; 2010, ch. 8, art. 27.
+
+
+
+
+
+**Demandes non susceptibles de réouverture**
+
+**170.2** La Section de la protection des réfugiés n’a pas compétence pour rouvrir, pour quelque motif que ce soit, y compris le manquement à un principe de justice naturelle, les demandes d’asile ou de protection ou les demandes d’annulation ou de constat de perte de l’asile à l’égard desquelles la Section d’appel des réfugiés ou la Cour fédérale, selon le cas, a rendu une décision en dernier ressort.
+> 2012, ch. 17, art. 51.
+
 
 
 
@@ -3672,6 +3909,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Appels non susceptibles de réouverture**
+
+**171.1** La Section d’appel des réfugiés n’a pas compétence pour rouvrir, pour quelque motif que ce soit, y compris le manquement à un principe de justice naturelle, les appels à l’égard desquels la Cour fédérale a rendu une décision en dernier ressort.
+> 2012, ch. 17, art. 53.
+
+
+
+
+
 ### Section de l’immigration
 
 
@@ -3680,11 +3926,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **172** 
 
-- **(1)** La Section de l’immigration se compose du directeur général, des directeurs et des commissaires, nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), nécessaires à l’exercice de sa juridiction.
+- **(1)** La Section de l’immigration se compose du vice-président, des vice-présidents adjoints et des autres commissaires nécessaires à l’exercice de sa juridiction.
 
-**Précision**
+**[Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
 
-- **(2)** Le directeur général et les directeurs peuvent exercer les fonctions des commissaires de la Section de l’immigration.
+- **(2)** Les commissaires de la Section de l’immigration sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2001, ch. 27, art. 172; 2010, ch. 8, art. 29.
+
 
 
 
@@ -3741,11 +3989,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **176** 
 
-- **(1)** Le président peut demander au ministre de décider si des mesures correctives ou disciplinaires s’imposent à l’égard d’un commissaire non rattaché à la Section de l’immigration.
+- **(1)** Le président peut demander au ministre de décider si des mesures correctives ou disciplinaires s’imposent à l’égard d’un commissaire de la Section d’appel des réfugiés ou de la Section d’appel de l’immigration.
 
 **Motifs de la demande**
 
 - **(2)** La demande est fondée sur le fait que le commissaire n’est plus en état de s’acquitter efficacement de ses fonctions pour cause d’invalidité, s’est rendu coupable de manquement à l’honneur ou à la dignité, a manqué aux devoirs de sa charge ou s’est placé en situation d’incompatibilité, par sa propre faute ou pour toute autre cause.
+> 2001, ch. 27, art. 176; 2010, ch. 8, art. 30.
+
 
 
 
@@ -3940,9 +4190,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Section du statut de réfugié**
 
-***195** La décision qu’a prise la Section du statut de réfugié avant l’entrée en vigueur du présent article n’est pas susceptible d’appel au titre de l’article 110.
-
-<a name='I-2.5_fr_7'><sup>*</sup></a>: [Note : Article 195 non en vigueur.]<br />
+**195** La décision qu’a prise la Section du statut de réfugié avant l’entrée en vigueur du présent article n’est pas susceptible d’appel au titre de l’article 110.
 
 
 
@@ -4348,7 +4596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#I-2.5_fr_9'>[*]</a></sup>**275** Les articles 73, 110, 111, 171, 194 et 195 entrent en vigueur à la date fixée par décret.
 
-<a name='I-2.5_fr_9'><sup>*</sup></a>: [Note : Articles 1 et 4 en vigueur le 6 décembre 2001, *voir* TR/2001-119; articles 2 et 3, 5 à 72, 74 à 109, 112 à 170, 172 à 193, 196 à 244 et 246 à 274 en vigueur le 28 juin 2002, *voir* TR/2002-97; articles 73, 110, 111, 171, 194 et 195 non en vigueur.]<br />
+<a name='I-2.5_fr_9'><sup>*</sup></a>: [Note : Articles 1 et 4 en vigueur le 6 décembre 2001, *voir* TR/2001-119; articles 2 et 3, 5 à 72, 74 à 109, 112 à 170, 172 à 193, 196 à 244 et 246 à 274 en vigueur le 28 juin 2002, *voir* TR/2002-97; articles 73, 110, 111, 171, 194 et 195 en vigueur le 15 décembre 2012, *voir* TR/2012-94.]<br />
 > 2001, ch. 27, art. 275; 2010, ch. 8, art. 31; 2012, ch. 17, art. 55.
 
 
