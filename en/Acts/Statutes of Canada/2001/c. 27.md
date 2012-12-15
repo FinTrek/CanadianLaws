@@ -335,23 +335,47 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Right to sponsor family member**
+**Sponsorship of foreign nationals**
 
 **13** 
 
-- **(1)** A Canadian citizen or permanent resident may, subject to the regulations, sponsor a foreign national who is a member of the family class.
+- **(1)** A Canadian citizen or permanent resident, or a group of Canadian citizens or permanent residents, a corporation incorporated under a law of Canada or of a province or an unincorporated organization or association under federal or provincial law — or any combination of them — may sponsor a foreign national, subject to the regulations.
 
-**Group right to sponsor**
-
-- **(2)** A group of Canadian citizens or permanent residents, a corporation incorporated under a law of Canada or of a province, and an unincorporated organization or association under federal or provincial law, or any combination of them may, subject to the regulations, sponsor a Convention refugee or a person in similar circumstances.
-
-**Obligation**
-
-- **(3)** An undertaking relating to sponsorship is binding on the person who gives it.
+- **(2) and (3)** [Repealed, 2012, c. 17, s. 7]
 
 **Instructions of Minister**
 
 - **(4)** An officer shall apply the regulations on sponsorship referred to in paragraph 14(2)(e) in accordance with any instructions that the Minister may make.
+> 2001, c. 27, s. 13; 2012, c. 17, s. 7.
+
+
+
+
+
+#### Undertakings
+
+
+
+**Undertaking binding**
+
+**13.1** An undertaking given under this Act in respect of a foreign national — including a sponsorship undertaking — is binding on the person who gives it.
+> 2012, c. 17, s. 8.
+
+
+
+
+
+**Undertaking required**
+
+**13.2** 
+
+- **(1)** If required to do so by the regulations, a foreign national who makes an application for a visa or for permanent or temporary resident status must obtain the undertaking specified in the regulations.
+
+**Minister’s instructions**
+
+- **(2)** An officer must apply the regulations made under paragraph 14(2)(e.1) in accordance with any instructions that the Minister may give.
+> 2012, c. 17, s. 8.
+
 
 
 
@@ -373,14 +397,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** applications for visas and other documents and their issuance or refusal, with respect to foreign nationals and their family members;
 	- **(c)** the number of applications that may be processed or approved in a year, the number of visas and other documents that may be issued in a year, and the measures to be taken when that number is exceeded;
 	- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
-	- **(e)** sponsorships, undertakings, and penalties for failure to comply with undertakings;
+	- **(e)** sponsorships;
+	- **(e.1)** undertakings, and penalties for failure to comply with undertakings;
 	- **(f)** deposits or guarantees of the performance of obligations under this Act that are to be given by any person to the Minister; and
 	- **(g)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national or sponsor.
 
 **Electronic travel authorization**
 
 - **(3)** For the purposes of subsection 11(1.01), the regulations may include provisions respecting the circumstances in which an application may be made by other means and respecting those other means.
-> 2001, c. 27, s. 14; 2012, c. 31, s. 309.
+> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, s. 309.
 
 
 
@@ -1031,8 +1056,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** inadmissibility under subsections (1) and (2) may not be based on a conviction in respect of which a record suspension has been ordered and has not been revoked or ceased to have effect under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), or in respect of which there has been a final determination of an acquittal;
 	- **(c)** the matters referred to in paragraphs (1)(b) and (c) and (2)(b) and (c) do not constitute inadmissibility in respect of a permanent resident or foreign national who, after the prescribed period, satisfies the Minister that they have been rehabilitated or who is a member of a prescribed class that is deemed to have been rehabilitated;
 	- **(d)** a determination of whether a permanent resident has committed an act described in paragraph (1)(c) must be based on a balance of probabilities; and
-	- **(e)** inadmissibility under subsections (1) and (2) may not be based on an offence designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md) or an offence for which the permanent resident or foreign national is found guilty under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985 or the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
-> 2001, c. 27, s. 36; 2008, c. 3, s. 3; 2012, c. 1, s. 149.
+	- **(e)** inadmissibility under subsections (1) and (2) may not be based on an offence
+		- **(i)** designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md),
+		- **(ii)** for which the permanent resident or foreign national is found guilty under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, or
+		- **(iii)** for which the permanent resident or foreign national received a youth sentence under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
+> 2001, c. 27, s. 36; 2008, c. 3, s. 3; 2010, c. 8, s. 7; 2012, c. 1, s. 149.
 
 
 
@@ -1089,7 +1117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** A permanent resident or a foreign national is inadmissible for misrepresentation
 	- **(a)** for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
 	- **(b)** for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
-	- **(c)** on a final determination to vacate a decision to allow the claim for refugee protection by the permanent resident or the foreign national; or
+	- **(c)** on a final determination to vacate a decision to allow their claim for refugee protection or application for protection; or
 	- **(d)** on ceasing to be a citizen under paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in subsection 10(2) of that Act.
 
 **Application**
@@ -1097,6 +1125,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** The following provisions govern subsection (1):
 	- **(a)** the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of two years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; and
 	- **(b)** paragraph (1)(b) does not apply unless the Minister is satisfied that the facts of the case justify the inadmissibility.
+> 2001, c. 27, s. 40; 2012, c. 17, s. 17.
+
+
+
+
+
+**Cessation of refugee protection — foreign national**
+
+**40.1** 
+
+- **(1)** A foreign national is inadmissible on a final determination under subsection 108(2) that their refugee protection has ceased.
+
+**Cessation of refugee protection — permanent resident**
+
+- **(2)** A permanent resident is inadmissible on a final determination that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(a) to (d).
+> 2012, c. 17, s. 18.
+
 
 
 
@@ -1178,12 +1223,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** A person loses permanent resident status
 	- **(a)** when they become a Canadian citizen;
 	- **(b)** on a final determination of a decision made outside of Canada that they have failed to comply with the residency obligation under section 28;
-	- **(c)** when a removal order made against them comes into force; or
-	- **(d)** on a final determination under section 109 to vacate a decision to allow their claim for refugee protection or a final determination under subsection 114(3) to vacate a decision to allow their application for protection.
+	- **(c)** when a removal order made against them comes into force;
+	- **(c.1)** on a final determination under subsection 108(2) that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(a) to (d); or
+	- **(d)** on a final determination under section 109 to vacate a decision to allow their claim for refugee protection or a final determination to vacate a decision to allow their application for protection.
 
 **Permanent resident**
 
 - **(2)** A person who ceases to be a citizen under paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in subsection 10(2) of that Act, becomes a permanent resident.
+> 2001, c. 27, s. 46; 2012, c. 17, s. 19.
+
 
 
 
@@ -1210,7 +1258,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Effect**
 
-- **(2)** If a removal order is enforceable, the foreign national against whom it was made must leave Canada immediately and it must be enforced as soon as is reasonably practicable.
+- **(2)** If a removal order is enforceable, the foreign national against whom it was made must leave Canada immediately and the order must be enforced as soon as possible.
+> 2001, c. 27, s. 48; 2012, c. 17, s. 20.
+
 
 
 
@@ -1229,9 +1279,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Despite subsection (1), a removal order made with respect to a refugee protection claimant is conditional and comes into force on the latest of the following dates:
 	- **(a)** the day the claim is determined to be ineligible only under paragraph 101(1)(e);
 	- **(b)** in a case other than that set out in paragraph (a), seven days after the claim is determined to be ineligible;
-	- **(c)** 15 days after notification that the claim is rejected by the Refugee Protection Division, if no appeal is made, or by the Refugee Appeal Division, if an appeal is made;
+	- **(c)** if the claim is rejected by the Refugee Protection Division, on the expiry of the time limit referred to in subsection 110(2.1) or, if an appeal is made, 15 days after notification by the Refugee Appeal Division that the claim is rejected;
 	- **(d)** 15 days after notification that the claim is declared withdrawn or abandoned; and
 	- **(e)** 15 days after proceedings are terminated as a result of notice under paragraph 104(1)(c) or (d).
+> 2001, c. 27, s. 49; 2012, c. 17, s. 21.
+
 
 
 
@@ -1279,10 +1331,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** the circumstances in which a removal order shall be made or confirmed against a permanent resident or a foreign national;
 - **(c)** the circumstances in which status may be restored;
 - **(d)** the circumstances in which a removal order may be stayed, including a stay imposed by the Minister and a stay that is not expressly provided for by this Act;
-- **(e)** the effect and enforcement of removal orders;
+- **(e)** the effect and enforcement of removal orders, including the consideration of factors in the determination of when enforcement is possible;
 - **(f)** the effect of a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) on the status of permanent residents and foreign nationals and removal orders made against them; and
 - **(g)** the financial obligations that may be imposed with respect to a removal order.
-> 2001, c. 27, s. 53; 2012, c. 1, s. 150.
+> 2001, c. 27, s. 53; 2012, c. 1, s. 150, c. 17, s. 22.
 
 
 
@@ -1304,7 +1356,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **55** 
 
-- **(1)** An officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, an admissibility hearing or removal from Canada.
+- **(1)** An officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, for an admissibility hearing, for removal from Canada or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2).
 
 **Arrest and detention without warrant**
 
@@ -2078,7 +2130,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **87.3** 
 
-- **(1)** This section applies to applications for visas or other documents made under subsections 11(1) and (1.01), other than those made by persons referred to in subsection 99(2), to sponsorship applications made by persons referred to in subsection 13(1), to applications for permanent resident status under subsection 21(1) or temporary resident status under subsection 22(1) made by foreign nationals in Canada, to applications for work or study permits and to requests under subsection 25(1) made by foreign nationals outside Canada.
+- **(1)** This section applies to applications for visas or other documents made under subsections 11(1) and (1.01), other than those made by persons referred to in subsection 99(2), to sponsorship applications made under subsection 13(1), to applications for permanent resident status under subsection 21(1) or temporary resident status under subsection 22(1) made by foreign nationals in Canada, to applications for work or study permits and to requests under subsection 25(1) made by foreign nationals outside Canada.
 
 **Attainment of immigration goals**
 
@@ -2116,7 +2168,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Clarification**
 
 - **(7)** Nothing in this section in any way limits the power of the Minister to otherwise determine the most efficient manner in which to administer this Act.
-> 2008, c. 28, s. 118; 2012, c. 19, s. 706, c. 31, s. 311.
+> 2008, c. 28, s. 118; 2012, c. 17, s. 29, c. 19, ss. 706, 710, c. 31, ss. 311, 314.
 
 
 
@@ -2355,6 +2407,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Protected person**
 
 - **(2)** A protected person is a person on whom refugee protection is conferred under subsection (1), and whose claim or application has not subsequently been deemed to be rejected under subsection 108(3), 109(3) or 114(4).
+> 2001, c. 27, s. 95; 2010, c. 8, s. 10(F).
+
 
 
 
@@ -2441,9 +2495,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** A claim for refugee protection made by a person inside Canada must be made to an officer, may not be made by a person who is subject to a removal order, and is governed by this Part.
 
+**Claim made inside Canada — not at port of entry**
+
+- **(3.1)** A person who makes a claim for refugee protection inside Canada other than at a port of entry must provide the officer, within the time limits provided for in the regulations, with the documents and information — including in respect of the basis for the claim — required by the rules of the Board, in accordance with those rules.
+
 **Permanent resident**
 
 - **(4)** An application to become a permanent resident made by a protected person is governed by Part 1.
+> 2001, c. 27, s. 99; 2012, c. 17, s. 33.
+
 
 
 
@@ -2458,6 +2518,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** An officer shall, within three working days after receipt of a claim referred to in subsection 99(3), determine whether the claim is eligible to be referred to the Refugee Protection Division and, if it is eligible, shall refer the claim in accordance with the rules of the Board.
 
+**Burden of proof**
+
+- **(1.1)** The burden of proving that a claim is eligible to be referred to the Refugee Protection Division rests on the claimant, who must answer truthfully all questions put to them.
+
 **Decision**
 
 - **(2)** The officer shall suspend consideration of the eligibility of the person’s claim if
@@ -2468,14 +2532,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The Refugee Protection Division may not consider a claim until it is referred by the officer. If the claim is not referred within the three-day period referred to in subsection (1), it is deemed to be referred, unless there is a suspension or it is determined to be ineligible.
 
-**Duty of claimant**
+**Documents and information to be provided**
 
-- **(4)** The burden of proving that a claim is eligible to be referred to the Refugee Protection Division rests on the claimant, who must answer truthfully all questions put to them. If the claim is referred, the claimant must produce all documents and information as required by the rules of the Board.
+- **(4)** A person who makes a claim for refugee protection inside Canada at a port of entry and whose claim is referred to the Refugee Protection Division must provide the Division, within the time limits provided for in the regulations, with the documents and information — including in respect of the basis for the claim — required by the rules of the Board, in accordance with those rules.
+
+**Date of hearing**
+
+- **(4.1)** The referring officer must, in accordance with the regulations, the rules of the Board and any directions of the Chairperson of the Board, fix the date on which the claimant is to attend a hearing before the Refugee Protection Division.
 
 **[Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md)**
 
 - **(5)** If a traveller is detained or isolated under the [Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md), the period referred to in subsections (1) and (3) does not begin to run until the day on which the detention or isolation ends.
-> 2001, c. 27, s. 100; 2005, c. 20, s. 81.
+> 2001, c. 27, s. 100; 2005, c. 20, s. 81; 2010, c. 8, s. 11; 2012, c. 17, s. 56.
 
 
 
@@ -2496,8 +2564,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Serious criminality**
 
 - **(2)** A claim is not ineligible by reason of serious criminality under paragraph (1)(f) unless
-	- **(a)** in the case of inadmissibility by reason of a conviction in Canada, the conviction is for an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years and for which a sentence of at least two years was imposed; or
-	- **(b)** in the case of inadmissibility by reason of a conviction outside Canada, the Minister is of the opinion that the person is a danger to the public in Canada and the conviction is for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years.
+	- **(a)** in the case of inadmissibility by reason of a conviction in Canada, the conviction is for an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years; or
+	- **(b)** in the case of inadmissibility by reason of a conviction outside Canada, the conviction is for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years.
+> 2001, c. 27, s. 101; 2012, c. 17, s. 34.
+
 
 
 
@@ -2534,13 +2604,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **103** 
 
-- **(1)** Proceedings of the Refugee Protection Division and of the Refugee Appeal Division are suspended on notice by an officer that
+- **(1)** Proceedings of the Refugee Protection Division in respect of a claim for refugee protection are suspended on notice by an officer that
 	- **(a)** the matter has been referred to the Immigration Division to determine whether the claimant is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality; or
 	- **(b)** an officer considers it necessary to wait for a decision of a court with respect to a claimant who is charged with an offence under an Act of Parliament that may be punished by a maximum term of imprisonment of at least 10 years.
 
 **Continuation**
 
-- **(2)** On notice by an officer that the suspended claim was determined to be eligible, proceedings of the Refugee Protection Division and of the Refugee Appeal Division shall continue.
+- **(2)** On notice by an officer that the suspended claim was determined to be eligible, proceedings of the Refugee Protection Division must continue.
+> 2001, c. 27, s. 103; 2012, c. 17, s. 35.
+
 
 
 
@@ -2621,6 +2693,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Manifestly unfounded**
+
+**107.1** If the Refugee Protection Division rejects a claim for refugee protection, it must state in its reasons for the decision that the claim is manifestly unfounded if it is of the opinion that the claim is clearly fraudulent.
+> 2010, c. 8, s. 11.1; 2012, c. 17, s. 57.
+
+
+
+
+
 #### Cessation of Refugee Protection
 
 
@@ -2672,6 +2753,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+#### Designated Countries of Origin
+
+
+
+**Designation of countries of origin**
+
+**109.1** 
+
+- **(1)** The Minister may, by order, designate a country, for the purposes of subsection 110(2) and section 111.1.
+
+**Limitation**
+
+- **(2)** The Minister may only make a designation
+	- **(a)** in the case where the number of claims for refugee protection made in Canada by nationals of the country in question in respect of which the Refugee Protection Division has made a final determination is equal to or greater than the number provided for by order of the Minister,
+		- **(i)** if the rate, expressed as a percentage, that is obtained by dividing the total number of claims made by nationals of the country in question that, in a final determination by the Division during the period provided for in the order, are rejected or determined to be withdrawn or abandoned by the total number of claims made by nationals of the country in question in respect of which the Division has, during the same period, made a final determination is equal to or greater than the percentage provided for in the order, or
+		- **(ii)** if the rate, expressed as a percentage, that is obtained by dividing the total number of claims made by nationals of the country in question that, in a final determination by the Division, during the period provided for in the order, are determined to be withdrawn or abandoned by the total number of claims made by nationals of the country in question in respect of which the Division has, during the same period, made a final determination is equal to or greater than the percentage provided for in the order; or
+	- **(b)** in the case where the number of claims for refugee protection made in Canada by nationals of the country in question in respect of which the Refugee Protection Division has made a final determination is less than the number provided for by order of the Minister, if the Minister is of the opinion that in the country in question
+		- **(i)** there is an independent judicial system,
+		- **(ii)** basic democratic rights and freedoms are recognized and mechanisms for redress are available if those rights or freedoms are infringed, and
+		- **(iii)** civil society organizations exist.
+
+**Order of Minister**
+
+- **(3)** The Minister may, by order, provide for the number, period or percentages referred to in subsection (2).
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** An order made under subsection (1) or (3) is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it must be published in the Canada Gazette.
+> 2010, c. 8, s. 12; 2012, c. 17, s. 58.
+
+
+
+
+
 #### Appeal to Refugee Appeal Division
 
 
@@ -2695,6 +2810,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** subject to the regulations, a decision of the Refugee Protection Division in respect of a claim for refugee protection if
 		- **(i)** the foreign national who makes the claim came directly or indirectly to Canada from a country that is, on the day on which their claim is made, designated by regulations made under subsection 102(1) and that is a party to an agreement referred to in paragraph 102(2)(d), and
 		- **(ii)** the claim — by virtue of regulations made under paragraph 102(1)(c) — is not ineligible under paragraph 101(1)(e) to be referred to the Refugee Protection Division;
+	- **(d.1)** a decision of the Refugee Protection Division allowing or rejecting a claim for refugee protection made by a foreign national who is a national of a country that was, on the day on which the decision was made, a country designated under subsection 109.1(1);
 	- **(e)** a decision of the Refugee Protection Division allowing or rejecting an application by the Minister for a determination that refugee protection has ceased;
 	- **(f)** a decision of the Refugee Protection Division allowing or rejecting an application by the Minister to vacate a decision to allow a claim for refugee protection.
 
@@ -2724,7 +2840,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** that raises a serious issue with respect to the credibility of the person who is the subject of the appeal;
 	- **(b)** that is central to the decision with respect to the refugee protection claim; and
 	- **(c)** that, if accepted, would justify allowing or rejecting the refugee protection claim.
-> 2001, c. 27, s. 110; 2010, c. 8, s. 13; 2012, c. 17, s. 36.
+> 2001, c. 27, s. 110; 2010, c. 8, s. 13; 2012, c. 17, ss. 36, 84.
 
 
 
@@ -2752,6 +2868,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+#### Regulations
+
+
+
+**Regulations**
+
+**111.1** 
+
+- **(1)** The regulations may provide for any matter relating to the application of this Division, and may include provisions respecting
+	- **(a)** time limits for the provision of documents and information under subsection 99(3.1) or 100(4);
+	- **(b)** time limits for the hearing referred to in subsection 100(4.1);
+	- **(c)** exceptions to the application of paragraph 110(2)(d);
+	- **(d)** time limits for the filing and perfecting of an appeal under subsection 110(2.1); and
+	- **(e)** time limits for the making of a decision by the Refugee Appeal Division, the extension of those time limits and the circumstances in which they do not apply.
+
+**Clarification — regulations made under paragraph (1)(b)**
+
+- **(2)** With respect to claimants who are nationals of a country that is, on the day on which their claim is made, a country designated under subsection 109.1(1), regulations made under paragraph (1)(b) may provide for time limits that are different from the time limits for other claimants.
+> 2010, c. 8, s. 14.1; 2012, c. 17, s. 59.
+
+
+
+
+
 **DIVISION 3** 
 ### Pre-removal Risk Assessment
 
@@ -2772,7 +2912,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Despite subsection (1), a person may not apply for protection if
 	- **(a)** they are the subject of an authority to proceed issued under section 15 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md);
 	- **(b)** they have made a claim to refugee protection that has been determined under paragraph 101(1)(e) to be ineligible;
-	- **(b.1)** subject to subsection (2.1), less than 12 months have passed since their claim for refugee protection was last rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division;
+	- **(b.1)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since their claim for refugee protection was last rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division;
 	- **(c)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since their last application for protection was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Minister.
 	- **(d)** [Repealed, 2012, c. 17, s. 38]
 
@@ -2795,7 +2935,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** Refugee protection may not result from an application for protection if the person
 	- **(a)** is determined to be inadmissible on grounds of security, violating human or international rights or organized criminality;
-	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punished by a term of imprisonment of at least two years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
+	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada of an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
 	- **(c)** made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
 	- **(d)** is named in a certificate referred to in subsection 77(1).
 > 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84.
@@ -2810,9 +2950,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** an applicant whose claim to refugee protection has been rejected may present only new evidence that arose after the rejection or was not reasonably available, or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection;
 - **(b)** a hearing may be held if the Minister, on the basis of prescribed factors, is of the opinion that a hearing is required;
 - **(c)** in the case of an applicant not described in subsection 112(3), consideration shall be on the basis of sections 96 to 98;
-- **(d)** in the case of an applicant described in subsection 112(3), consideration shall be on the basis of the factors set out in section 97 and
+- **(d)** in the case of an applicant described in subsection 112(3) — other than one described in subparagraph (e)(i) or (ii) — consideration shall be on the basis of the factors set out in section 97 and
 	- **(i)** in the case of an applicant for protection who is inadmissible on grounds of serious criminality, whether they are a danger to the public in Canada, or
-	- **(ii)** in the case of any other applicant, whether the application should be refused because of the nature and severity of acts committed by the applicant or because of the danger that the applicant constitutes to the security of Canada.
+	- **(ii)** in the case of any other applicant, whether the application should be refused because of the nature and severity of acts committed by the applicant or because of the danger that the applicant constitutes to the security of Canada; and
+- **(e)** in the case of the following applicants, consideration shall be on the basis of sections 96 to 98 and subparagraph (d)(i) or (ii), as the case may be:
+	- **(i)** an applicant who is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punishable by a maximum term of imprisonment of at least 10 years for which a term of imprisonment of less than two years — or no term of imprisonment — was imposed, and
+	- **(ii)** an applicant who is determined to be inadmissible on grounds of serious criminality with respect to a conviction of an offence outside Canada that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years, unless they are found to be a person referred to in section F of Article 1 of the Refugee Convention.
+> 2001, c. 27, s. 113; 2012, c. 17, s. 39.
+
 
 
 
@@ -2883,7 +3028,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **117** 
 
-- **(1)** No person shall knowingly organize, induce, aid or abet the coming into Canada of one or more persons who are not in possession of a visa, passport or other document required by this Act.
+- **(1)** No person shall organize, induce, aid or abet the coming into Canada of one or more persons knowing that, or being reckless as to whether, their coming into Canada is or would be in contravention of this Act.
 
 **Penalties — fewer than 10 persons**
 
@@ -2897,9 +3042,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** A person who contravenes subsection (1) with respect to a group of 10 persons or more is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both.
 
+**Minimum penalty — fewer than 50 persons**
+
+- **(3.1)** A person who is convicted on indictment of an offence under subsection (2) or (3) with respect to fewer than 50 persons is also liable to a minimum punishment of imprisonment for a term of
+	- **(a)** three years, if either
+		- **(i)** the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, or
+		- **(ii)** the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group; or
+	- **(b)** five years, if both
+		- **(i)** the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, and
+		- **(ii)** the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group.
+
+**Minimum penalty — 50 persons or more**
+
+- **(3.2)** A person who is convicted of an offence under subsection (3) with respect to a group of 50 persons or more is also liable to a minimum punishment of imprisonment for a term of
+	- **(a)** five years, if either
+		- **(i)** the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, or
+		- **(ii)** the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group; or
+	- **(b)** 10 years, if both
+		- **(i)** the person, in committing the offence, endangered the life or safety of, or caused bodily harm or death to, any of the persons with respect to whom the offence was committed, and
+		- **(ii)** the commission of the offence was for profit, or was for the benefit of, at the direction of or in association with a criminal organization or terrorist group.
+
 **No proceedings without consent**
 
 - **(4)** No proceedings for an offence under this section may be instituted except by or with the consent of the Attorney General of Canada.
+> 2001, c. 27, s. 117; 2012, c. 17, s. 41.
+
 
 
 
@@ -2935,15 +3102,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **121** 
 
-- **(1)** The court, in determining the penalty to be imposed under subsection 117(2) or (3) or section 120, shall take into account whether
-	- **(a)** bodily harm or death occurred during the commission of the offence;
+- **(1)** The court, in determining the penalty to be imposed under section 120, shall take into account whether
+	- **(a)** bodily harm or death occurred, or the life or safety of any person was endangered, as a result of the commission of the offence;
 	- **(b)** the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization;
 	- **(c)** the commission of the offence was for profit, whether or not any profit was realized; and
 	- **(d)** a person was subjected to humiliating or degrading treatment, including with respect to work or health conditions or sexual exploitation as a result of the commission of the offence.
 
+- **(2)** [Repealed, 2012, c. 17, s. 42]
+> 2001, c. 27, s. 121; 2012, c. 17, s. 42.
+
+
+
+
+
 **Definition of criminal organization**
 
-- **(2)** For the purposes of paragraph (1)(b), ***criminal organization*** means an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence.
+**121.1** 
+
+- **(1)** For the purposes of subparagraphs 117(3.1)(a)(ii) and (b)(ii) and (3.2)(a)(ii) and (b)(ii) and paragraph 121(b), ***criminal organization*** means a criminal organization as defined in subsection 467.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Definition of terrorist group**
+
+- **(2)** For the purposes of subparagraphs 117(3.1)(a)(ii) and (b)(ii) and (3.2)(a)(ii) and (b)(ii), ***terrorist group*** means a terrorist group as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2012, c. 17, s. 43.
+
 
 
 
@@ -2979,8 +3161,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Aggravating factors**
 
 - **(2)** The court, in determining the penalty to be imposed, shall take into account whether
-	- **(a)** the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization as defined in subsection 121(2); and
+	- **(a)** the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization as defined in subsection 121.1(1); and
 	- **(b)** the commission of the offence was for profit, whether or not any profit was realized.
+> 2001, c. 27, s. 123; 2012, c. 17, s. 44.
+
 
 
 
@@ -3070,7 +3254,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Counselling offence**
 
 **131** Every person who knowingly induces, aids or abets or attempts to induce, aid or abet any person to contravene section 117, 118, 119, 122, 124 or 129, or who counsels a person to do so, commits an offence and is liable to the same penalty as that person.
-> 2001, c. 27, s. 131, c. 32, s. 81.
+> 2001, c. 27, s. 131, c. 32, s. 81; 2012, c. 17, s. 45(F).
 
 
 
@@ -3091,16 +3275,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Limitation period**
+**Limitation period for summary conviction offences**
 
 **133.1** 
 
-- **(1)** A proceeding by way of summary conviction in respect of an offence under section 117, 126, 127 or 131 may be instituted at any time within, but not later than, 10 years after the day on which the subject-matter of the proceeding arose.
+- **(1)** A proceeding by way of summary conviction for an offence under section 117, 126 or 127, or section 131 as it relates to section 117, may be instituted at any time within, but not later than, 10 years after the day on which the subject-matter of the proceeding arose, and a proceeding by way of summary conviction for any other offence under this Act may be instituted at any time within, but not later than, five years after the day on which the subject-matter of the proceeding arose.
 
 **Application**
 
 - **(2)** Subsection (1) does not apply if the subject-matter of the proceeding arose before the day on which this section comes into force.
-> 2011, c. 8, s. 3.
+> 2011, c. 8, s. 3; 2012, c. 17, s. 46.
 
 
 
@@ -3432,13 +3616,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Oath or affirmation of office**
+
+**152.1** The Chairperson and other members of the Board must swear the oath or give the solemn affirmation of office set out in the rules of the Board.
+> 2010, c. 8, s. 17.
+
+
+
+
+
 **Chairperson and other members**
 
 **153** 
 
-- **(1)** The Chairperson and members of the Refugee Protection Division, Refugee Appeal Division and Immigration Appeal Division
+- **(1)** The Chairperson and members of the Refugee Appeal Division and Immigration Appeal Division
 	- **(a)** are appointed to the Board by the Governor in Council, to hold office during good behaviour for a term not exceeding seven years, subject to removal by the Governor in Council at any time for cause, to serve in a regional or district office of the Board;
-	- **(b)** shall swear the oath or give the solemn affirmation of office set out in the rules of the Board;
+	- **(b)** [Repealed, 2010, c. 8, s. 18]
 	- **(c)** are eligible for reappointment in the same or another capacity;
 	- **(d)** shall receive the remuneration that may be fixed by the Governor in Council;
 	- **(e)** are entitled to be paid reasonable travel and living expenses incurred while absent in the course of their duties, in the case of a full-time member, from their ordinary place of work or, in the case of a part-time member, while absent from their ordinary place of residence;
@@ -3446,9 +3639,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(g)** may not accept or hold any office or employment or carry on any activity inconsistent with their duties and functions under this Act; and
 	- **(h)** if appointed as full-time members, must devote the whole of their time to the performance of their duties under this Act.
 
-**[Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
-
-- **(1.1)** A member of the Refugee Protection Division may be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) rather than under paragraph (1)(a).
+- **(1.1)** [Repealed, 2012, c. 17, s. 84]
 
 **Deputy Chairperson and Assistant Deputy Chairpersons**
 
@@ -3461,7 +3652,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Qualification**
 
 - **(4)** The Deputy Chairperson of the Immigration Appeal Division and a majority of the Assistant Deputy Chairpersons of that Division and at least 10 per cent of the members of the Divisions referred to in subsection (1) must be members of at least five years standing at the bar of a province or notaries of at least five years standing at the *Chambre des notaires du Québec*.
-> 2001, c. 27, s. 153; 2003, c. 22, s. 173; 2012, c. 17, s. 48.
+> 2001, c. 27, s. 153; 2003, c. 22, s. 173; 2010, c. 8, s. 18; 2012, c. 17, ss. 48, 84.
 
 
 
@@ -3526,21 +3717,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The Chairperson is, by virtue of holding that office, a member of each Division of the Board and is the chief executive officer of the Board. In that capacity, the Chairperson
 	- **(a)** has supervision over and direction of the work and staff of the Board;
-	- **(b)** may at any time assign a member appointed under paragraph 153(1)(a) to the Refugee Protection Division, the Refugee Appeal Division and the Immigration Appeal Division;
-	- **(c)** may at any time, notwithstanding paragraph 153(1)(a), assign a member, other than a member of the Immigration Division, to work in another regional or district office in order to satisfy operational requirements, but an assignment may not exceed 90 days without the approval of the Governor in Council;
-	- **(d)** designates from among the full-time members of the Board coordinating members for a Division, other than the Immigration Division;
+	- **(b)** may at any time assign a member appointed under paragraph 153(1)(a) to the Refugee Appeal Division or the Immigration Appeal Division;
+	- **(c)** may at any time, despite paragraph 153(1)(a), assign a member of the Refugee Appeal Division or the Immigration Appeal Division to work in another regional or district office to satisfy operational requirements, but an assignment may not exceed 120 days without the approval of the Governor in Council;
+	- **(d)** may designate, from among the full-time members appointed under paragraph 153(1)(a), coordinating members for the Refugee Appeal Division or the Immigration Appeal Division;
 	- **(e)** assigns administrative functions to the members of the Board;
 	- **(f)** apportions work among the members of the Board and fixes the place, date and time of proceedings;
 	- **(g)** takes any action that may be necessary to ensure that the members of the Board carry out their duties efficiently and without undue delay;
-	- **(h)** may issue guidelines in writing to members of the Board and identify decisions of the Board as jurisprudential guides, after consulting with the Deputy Chairpersons and the Director General of the Immigration Division, to assist members in carrying out their duties; and
+	- **(h)** may issue guidelines in writing to members of the Board and identify decisions of the Board as jurisprudential guides, after consulting with the Deputy Chairpersons, to assist members in carrying out their duties; and
 	- **(i)** may appoint and, subject to the approval of the Treasury Board, fix the remuneration of experts or persons having special knowledge to assist the Divisions in any matter.
 
 **Delegation**
 
-- **(2)** The Chairperson may delegate any of his or her powers under this Act to a member of the Board, other than a member of the Immigration Division, except that
-	- **(a)** powers conferred under subsection 161(1) may not be delegated;
-	- **(b)** powers referred to in paragraphs (1)(a) and (i) may be delegated to the Executive Director of the Board; and
-	- **(c)** powers in relation to the Immigration Division may only be delegated to the Director General, directors or members of that Division.
+- **(2)** The Chairperson may delegate any of his or her powers under this Act to a member of the Board, except that
+	- **(a)** powers referred to in subsection 161(1) may not be delegated;
+	- **(b)** powers referred to in paragraphs (1)(a) and (i) may be delegated to the Executive Director of the Board;
+	- **(c)** powers in relation to the Immigration Appeal Division and the Refugee Appeal Division may only be delegated to the Deputy Chairperson, the Assistant Deputy Chairpersons, or other members, including coordinating members, of either of those Divisions; and
+	- **(d)** powers in relation to the Immigration Division or the Refugee Protection Division may only be delegated to the Deputy Chairperson, the Assistant Deputy Chairpersons or other members, including coordinating members, of that Division.
+> 2001, c. 27, s. 159; 2010, c. 8, s. 19.
+
 
 
 
@@ -3560,15 +3754,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **161** 
 
-- **(1)** Subject to the approval of the Governor in Council, and in consultation with the Deputy Chairpersons and the Director General of the Immigration Division, the Chairperson may make rules respecting
-	- **(a)** the activities, practice and procedure of each of the Divisions of the Board, including the periods for appeal, the priority to be given to proceedings, the notice that is required and the period in which notice must be given;
+- **(1)** Subject to the approval of the Governor in Council, and in consultation with the Deputy Chairpersons, the Chairperson may make rules respecting
+	- **(a)** the referral of a claim for refugee protection to the Refugee Protection Division;
+	- **(a.1)** the factors to be taken into account in fixing or changing the date of the hearing referred to in subsection 100(4.1);
+	- **(a.2)** the activities, practice and procedure of each of the Divisions of the Board, including the periods for appeal, other than in respect of appeals of decisions of the Refugee Protection Division, the priority to be given to proceedings, the notice that is required and the period in which notice must be given;
 	- **(b)** the conduct of persons in proceedings before the Board, as well as the consequences of, and sanctions for, the breach of those rules;
 	- **(c)** the information that may be required and the manner in which, and the time within which, it must be provided with respect to a proceeding before the Board; and
 	- **(d)** any other matter considered by the Chairperson to require rules.
 
+**Distinctions**
+
+- **(1.1)** The rules made under paragraph (1)(c) may distinguish among claimants for refugee protection who make their claims inside Canada on the basis of whether their claims are made at a port of entry or elsewhere or on the basis of whether they are nationals of a country that is, on the day on which their claim is made, a country designated under subsection 109.1(1).
+
 **Tabling in Parliament**
 
 - **(2)** The Minister shall cause a copy of any rule made under subsection (1) to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the approval of the rule by the Governor in Council.
+> 2001, c. 27, s. 161; 2010, c. 8, s. 20; 2012, c. 17, ss. 49, 61, 84.
+
 
 
 
@@ -3606,7 +3808,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Powers of a commissioner**
 
-**165** The Refugee Protection Division and the Immigration Division and each member of those Divisions have the powers and authority of a commissioner appointed under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) and may do any other thing they consider necessary to provide a full and proper hearing.
+**165** The Refugee Protection Division, the Refugee Appeal Division and the Immigration Division and each member of those Divisions have the powers and authority of a commissioner appointed under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) and may do any other thing they consider necessary to provide a full and proper hearing.
+> 2001, c. 27, s. 165; 2010, c. 8, s. 22.
+
 
 
 
@@ -3619,11 +3823,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** a serious possibility that the life, liberty or security of a person will be endangered if the proceeding is held in public,
 	- **(ii)** a real and substantial risk to the fairness of the proceeding such that the need to prevent disclosure outweighs the societal interest that the proceeding be conducted in public, or
 	- **(iii)** a real and substantial risk that matters involving public security will be disclosed;
-- **(c)** subject to paragraph (d), proceedings before the Refugee Protection Division and the Immigration Division concerning a claimant of refugee protection, proceedings concerning cessation and vacation applications and proceedings before the Refugee Appeal Division must be held in the absence of the public;
+- **(c)** subject to paragraph (d), proceedings before the Refugee Protection Division and the Refugee Appeal Division must be held in the absence of the public;
+- **(c.1)** subject to paragraph (d), proceedings before the Immigration Division must be held in the absence of the public if they concern a person who is the subject of a proceeding before the Refugee Protection Division or the Refugee Appeal Division that is pending or who has made an application for protection to the Minister that is pending;
 - **(d)** on application or on its own initiative, the Division may conduct a proceeding in public, or take any other measure that it considers necessary to ensure the appropriate access to the proceedings if, after having considered all available alternate measures and the factors set out in paragraph (b), the Division is satisfied that it is appropriate to do so;
-- **(e)** despite paragraphs (b) and (c), a representative or agent of the United Nations High Commissioner for Refugees is entitled to observe proceedings concerning a protected person or a person who has made a claim to refugee protection; and
+- **(e)** despite paragraphs (b) to (c.1), a representative or agent of the United Nations High Commissioner for Refugees is entitled to observe proceedings concerning a protected person or a person who has made a claim for refugee protection or an application for protection; and
 - **(f)** despite paragraph (e), the representative or agent may not observe any part of the proceedings that deals with information or other evidence in respect of which an application has been made under section 86, and not rejected, or with information or other evidence protected under that section.
-> 2001, c. 27, s. 166; 2008, c. 3, s. 5.
+> 2001, c. 27, s. 166; 2008, c. 3, s. 5; 2012, c. 17, s. 50.
 
 
 
@@ -3633,11 +3838,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **167** 
 
-- **(1)** Both a person who is the subject of Board proceedings and the Minister may, at their own expense, be represented by a barrister or solicitor or other counsel.
+- **(1)** A person who is the subject of proceedings before any Division of the Board and the Minister may, at their own expense, be represented by legal or other counsel.
 
 **Representation**
 
 - **(2)** If a person who is the subject of proceedings is under 18 years of age or unable, in the opinion of the applicable Division, to appreciate the nature of the proceedings, the Division shall designate a person to represent the person.
+> 2001, c. 27, s. 167; 2010, c. 8, s. 23; 2012, c. 17, s. 63.
+
 
 
 
@@ -3672,6 +3879,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Composition**
+
+**169.1** 
+
+- **(1)** The Refugee Protection Division consists of the Deputy Chairperson, Assistant Deputy Chairpersons and other members, including coordinating members, necessary to carry out its functions.
+
+**[Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
+
+- **(2)** The members of the Refugee Protection Division are appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 2010, c. 8, s. 26.
+
+
+
+
+
 **Proceedings**
 
 **170** The Refugee Protection Division, in any proceeding before it,
@@ -3679,11 +3901,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** must hold a hearing;
 - **(c)** must notify the person who is the subject of the proceeding and the Minister of the hearing;
 - **(d)** must provide the Minister, on request, with the documents and information referred to in subsection 100(4);
+- **(d.1)** may question the witnesses, including the person who is the subject of the proceeding;
 - **(e)** must give the person and the Minister a reasonable opportunity to present evidence, question witnesses and make representations;
 - **(f)** may, despite paragraph (b), allow a claim for refugee protection without a hearing, if the Minister has not notified the Division, within the period set out in the rules of the Board, of the Minister’s intention to intervene;
 - **(g)** is not bound by any legal or technical rules of evidence;
 - **(h)** may receive and base a decision on evidence that is adduced in the proceedings and considered credible or trustworthy in the circumstances; and
 - **(i)** may take notice of any facts that may be judicially noticed, any other generally recognized facts and any information or opinion that is within its specialized knowledge.
+> 2001, c. 27, s. 170; 2010, c. 8, s. 27.
+
+
+
+
+
+**No reopening of claim or application**
+
+**170.2** The Refugee Protection Division does not have jurisdiction to reopen on any ground — including a failure to observe a principle of natural justice — a claim for refugee protection, an application for protection or an application for cessation or vacation, in respect of which the Refugee Appeal Division or the Federal Court, as the case may be, has made a final determination.
+> 2012, c. 17, s. 51.
+
 
 
 
@@ -3709,6 +3943,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**No reopening of appeal**
+
+**171.1** The Refugee Appeal Division does not have jurisdiction to reopen on any ground — including a failure to observe a principle of natural justice — an appeal in respect of which the Federal Court has made a final determination.
+> 2012, c. 17, s. 53.
+
+
+
+
+
 ### Immigration Division
 
 
@@ -3717,11 +3960,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **172** 
 
-- **(1)** The Immigration Division consists of the Director General and other directors and members necessary to carry out its functions and who are employed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+- **(1)** The Immigration Division consists of the Deputy Chairperson, Assistant Deputy Chairpersons and other members necessary to carry out its functions.
 
-**Powers**
+**[Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
 
-- **(2)** The Director General and the directors of the Immigration Division have all the powers and may carry out the duties and functions of members of the Division.
+- **(2)** The members of the Immigration Division are appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 2001, c. 27, s. 172; 2010, c. 8, s. 29.
+
 
 
 
@@ -3778,11 +4023,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **176** 
 
-- **(1)** The Chairperson may request the Minister to decide whether any member, except a member of the Immigration Division, should be subject to remedial or disciplinary measures for a reason set out in subsection (2).
+- **(1)** The Chairperson may request the Minister to decide whether any member of the Immigration Appeal Division or the Refugee Appeal Division should be subject to remedial or disciplinary measures for a reason set out in subsection (2).
 
 **Reasons**
 
 - **(2)** The request is to be based on the reason that the member has become incapacitated from the proper execution of that office by reason of infirmity, has been guilty of misconduct, has failed in the proper execution of that office or has been placed, by conduct or otherwise, in a position that is incompatible with due execution of that office.
+> 2001, c. 27, s. 176; 2010, c. 8, s. 30.
+
 
 
 
@@ -3977,9 +4224,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Convention Refugee Determination Division**
 
-***195** A decision made by the Convention Refugee Determination Division before the coming into force of this section is not subject to an appeal under section 110.
-
-<a name='I-2.5_en_7'><sup>*</sup></a>: [Note: Section 195 not in force.]<br />
+**195** A decision made by the Convention Refugee Determination Division before the coming into force of this section is not subject to an appeal under section 110.
 
 
 
@@ -4387,7 +4632,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndDE67_hq_13020'>[*]</a></sup>**275** Sections 73, 110, 111, 171, 194 and 195 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndDE67_hq_13020'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97; sections 73, 110, 111, 171, 194 and 195 not in force.]<br />
+<a name='fn_IndDE67_hq_13020'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97; sections 73, 110, 111, 171, 194 and 195 in force December 15, 2012, *see* SI/2012-94.]<br />
 > 2001, c. 27, s. 275; 2010, c. 8, s. 31; 2012, c. 17, s. 55.
 
 
