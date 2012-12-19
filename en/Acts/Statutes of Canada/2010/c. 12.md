@@ -3503,7 +3503,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2160_hq_9618'>[*]</a></sup>**2136** The provisions of this Part come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2160_hq_9618'><sup>*</sup></a>: [Note: Provisions of this Part not in force.]<br />
+<a name='fn_Ind2160_hq_9618'><sup>*</sup></a>: [Note: Sections 1894 to 2135 in force December 19, 2012, *see* SI/2012-99.]<br />
 
 
 
