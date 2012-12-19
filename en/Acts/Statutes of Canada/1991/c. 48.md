@@ -113,6 +113,8 @@ but does not include a deposit protection agency;
 
 ***entity*** means a body corporate, trust, partnership, fund, an unincorporated organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
 
+***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+
 ***fiduciary*** means any person acting in a fiduciary capacity, and includes a personal representative of a deceased person;
 
 ***financial institution*** means
@@ -245,7 +247,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***transfer***, in respect of securities, includes a transmission by operation of law;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2012, c. 5, s. 104.
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2010, c. 12, s. 2114; 2012, c. 5, s. 104.
 
 
 
@@ -856,13 +858,20 @@ the acquisition is deemed to cause the person to increase a substantial investme
 	- **(f)** a person who, on the day the body corporate becomes an association, was the holder of a security issued by the body corporate is not deprived of any right or privilege available to the person at that time in respect of the security or relieved of any liability in respect of the security, but any such right or privilege may be exercised only in accordance with this Act; and
 	- **(g)** the by-laws of the body corporate, except those that are in conflict with this Act, continue as the by-laws of the association.
 
-**Membership shares**
+**Membership shares — body corporate**
 
-- **(2)** When a body corporate is continued as an association,
+- **(2)** When a body corporate other than a federal credit union is continued as an association,
 	- **(a)** its common shares are deemed to be membership shares to which are attached the rights, privileges and restrictions set out in this Act;
 	- **(b)** the holders of the common shares of the body corporate are deemed to be the members of the association; and
 	- **(c)** any agreement made before continuance under which the holders of any common shares of the body corporate have agreed to vote those shares in a manner provided in the agreement is of no effect.
-> 2001, c. 9, s. 258; 2007, c. 6, s. 140.
+
+**Membership shares — federal credit union**
+
+- **(3)** When a federal credit union is continued as an association,
+	- **(a)** its membership shares are deemed to be membership shares of the association to which are attached the rights, privileges and restrictions set out in this Act;
+	- **(b)** the members of the federal credit union are deemed to be the members of the association; and
+	- **(c)** any agreement made before continuance under which the members of the federal credit union have agreed to vote in a manner provided in the agreement is of no effect.
+> 2001, c. 9, s. 258; 2007, c. 6, s. 140; 2010, c. 12, s. 2115.
 
 
 
