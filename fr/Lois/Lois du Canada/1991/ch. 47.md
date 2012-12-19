@@ -46,7 +46,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale.
 
-***actif au Canada*** Les éléments d’actif placés en fiducie pour une société étrangère sous le régime de la partie XIII.
+***actif au Canada*** Les éléments d’actif placés en fiducie pour une société étrangère sous le régime de la partie XIII.
 
 ***actif total*** S’entend au sens des règlements, en ce qui touche la société, la société de secours, la société provinciale ou la société de portefeuille d’assurances.
 
@@ -62,29 +62,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***affaires internes*** Les relations entre une société, les entités de son groupe et leurs actionnaires, souscripteurs, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
 
-***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers.
 
-***branche*** Branche ou catégorie d’assurance établie en application de l’article 12.
+***branche*** Branche ou catégorie d’assurance établie en application de l’article 12.
 
 ***capital réglementaire*** Dans le cas d’une société, société de secours, société provinciale ou société de portefeuille d’assurances, s’entend au sens des règlements.
 
 ***capitaux propres*** En ce qui concerne une société ou une société de portefeuille d’assurances, leurs capitaux propres déterminés de la façon prévue par règlement.
 
-***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
 
 ***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
 
+***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+
 ***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
 
-***détenteur*** Soit l’actionnaire au sens de l’article 7, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***détenteur*** Soit l’actionnaire au sens de l’article 7, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
 
 ***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas c) ou c.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas c) ou c.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
 
@@ -92,11 +94,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***envoyer*** A également le sens de remettre.
 
-***état annuel*** L’état établi conformément aux paragraphes 665(1) ou (2).
+***état annuel*** L’état établi conformément aux paragraphes 665(1) ou (2).
 
 ***exercice*** L’année civile en ce qui concerne la société étrangère.
 
-***filiale*** Entité se trouvant dans la situation décrite à l’article 5.
+***filiale*** Entité se trouvant dans la situation décrite à l’article 5.
 
 ***fondateur*** Toute personne qui a demandé la constitution de la société ou de la société de portefeuille d’assurances, selon le cas, par lettres patentes.
 
@@ -106,7 +108,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***garantie*** S’entend notamment d’une lettre de crédit.
 
-***groupe*** L’ensemble des entités visées à l’article 6.
+***groupe*** L’ensemble des entités visées à l’article 6.
 
 ***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation.
 
@@ -116,9 +118,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***institution financière*** Selon le cas :
 - **a)** une société ou une société de secours;
-- **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
-- **c)** une personne morale régie par la Loi sur les sociétés de fiducie et de de prêt;
-- **d)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
+- **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
+- **d)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
 - **e)** une société de fiducie, de prêt ou d’assurances constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
 - **g)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité est principalement le commerce des valeurs mobilières, y compris la gestion de portefeuille et la fourniture de conseils en placement;
@@ -130,15 +132,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** société d’assurances ou société de secours;
 - **b)** banque;
 - **c)** personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **d)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi.
+- **d)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi.
 
-***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10.
+***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10.
 
-***intérêt substantiel*** Intérêt déterminé conformément à l’article 8.
+***intérêt substantiel*** Intérêt déterminé conformément à l’article 8.
 
 ***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
 
 ***ministre*** Le ministre des Finances.
 
@@ -152,23 +154,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la société ou d’entités du même groupe;
 - **a.1)** soit le souscripteur habile à voter aux assemblées des souscripteurs ou des actionnaires et des souscripteurs de la société;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la société ou d’entités du même groupe;
-- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 371, 375 ou 1031.
+- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 371, 375 ou 1031.
 
 ***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Sont assimilés à la police le contrat de rente et le contrat d’assurance mixte.
 
-***police ajustable*** S’entend au sens des règlements. 
+***police ajustable*** S’entend au sens des règlements.
 
 ***police à participation*** Police donnant droit à son souscripteur de participer aux bénéfices de la société.
 
-***police au Canada***[Abrogée, 2007, ch. 6, art. 186]
+***police au Canada***[Abrogée, 2007, ch. 6, art. 186]
 
 ***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
 
 ***procuration*** Formulaire de procuration rempli et signé par lequel soit l’actionnaire ou le souscripteur, soit, dans le cas d’une société de secours, le membre nomme un fondé de pouvoir pour le représenter aux assemblées des actionnaires, des souscripteurs ou des membres.
 
-***rapport annuel*** Dans le cas d’une société, le rapport financier annuel visé à l’alinéa 331(1)a) et, dans le cas d’une société de portefeuille d’assurances, le rapport financier annuel visé à l’alinéa 887(1)a).
+***rapport annuel*** Dans le cas d’une société, le rapport financier annuel visé à l’alinéa 331(1)a) et, dans le cas d’une société de portefeuille d’assurances, le rapport financier annuel visé à l’alinéa 887(1)a).
 
- ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une société et d’une société de portefeuille d’assurances, le registre visé à l’article 271.
+ ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une société et d’une société de portefeuille d’assurances, le registre visé à l’article 271.
 
 ***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée.
 
@@ -177,9 +179,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
-- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
+- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
 
-***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1.
+***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1.
 
 ***résolution extraordinaire*** Résolution qui a été soit adoptée aux deux tiers au moins des voix exprimées par les actionnaires, les souscripteurs ou, dans le cas des sociétés de secours, les membres, soit signée par tous les actionnaires, souscripteurs ou membres habiles à voter en l’occurrence.
 
@@ -187,11 +189,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***série*** Subdivision d’une catégorie d’actions.
 
-***siège*** Dans le cas d’une société, bureau maintenu en application de l’article 260, dans le cas d’une société de secours, bureau maintenu en application de l’article 544 et, dans le cas d’une société de portefeuille d’assurances, bureau maintenu en application de l’article 868.
+***siège*** Dans le cas d’une société, bureau maintenu en application de l’article 260, dans le cas d’une société de secours, bureau maintenu en application de l’article 544 et, dans le cas d’une société de portefeuille d’assurances, bureau maintenu en application de l’article 868.
 
-***société*** Toute personne morale visée au paragraphe 13(1).
+***société*** Toute personne morale visée au paragraphe 13(1).
 
-***société antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I, II, III, IV ou VI, ou des deux, et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
+***société antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I, II, III, IV ou VI, ou des deux, et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
 
 ***société d’assurance maritime*** Société constituée à seule fin de garantir des risques dans la branche assurance maritime. 
 
@@ -199,37 +201,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***société d’assurance-vie*** Société ou société provinciale autorisée à garantir des risques dans la branche assurance-vie, à l’exclusion de celle qui est également autorisée à garantir des risques dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés.
 
-***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
-***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII.
+***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII.
 
 French version only***société de portefeuille d’assurances n’ayant pas fait appel au public*** S’entend d’une société de portefeuille d’assurances autre qu’une société de portefeuille d’assurances ayant fait appel au public.
 
-***société de secours*** Personne morale visée au paragraphe 13(2) qui est une société de secours mutuel.
+***société de secours*** Personne morale visée au paragraphe 13(2) qui est une société de secours mutuel.
 
-***société de secours antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I et II, III — sauf l’article 77 — , IV — sauf les articles 123 à 130 et 153 à 158 — , V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
+***société de secours antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I et II, III — sauf l’article 77 —, IV — sauf les articles 123 à 130 et 153 à 158 —, V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
 
 ***société de secours mutuel*** Personne morale sans capital social possédant un système représentatif de gouvernement, constituée à des fins de fraternité, de bienfaisance ou religieuses, entre autres, pour assurer exclusivement ses membres, leurs époux ou conjoints de fait ou leurs enfants.
 
-***société étrangère*** Entité faisant l’objet de l’agrément prévu au paragraphe 574(1).
+***société étrangère*** Entité faisant l’objet de l’agrément prévu au paragraphe 574(1).
 
-***société mère*** S’entend au sens de l’article 4.
+***société mère*** S’entend au sens de l’article 4.
 
 ***société mutuelle*** Selon le cas :
 - **a)** société constituée ou prorogée en société mutuelle sous le régime de la présente loi;
 - **b)** société antérieure qui, à l’entrée en vigueur du présent alinéa, n’a pas d’actions émises et en circulation;
-- **c)** société transformée en société mutuelle en vertu des articles 226 à 236.
+- **c)** société transformée en société mutuelle en vertu des articles 226 à 236.
 
 Est exclue de la présente définition la société mutuelle transformée en société avec actions ordinaires en vertu de la présente loi.
 
 French version only***société n’ayant pas fait appel au public*** S’entend d’une société autre qu’une société ayant fait appel au public.
 
-***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
+***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
 - **a)** [Abrogé, 2001, ch. 9, art. 345]
-- **b)** Antigonish Farmers’ Mutual Fire Insurance Company;
-- **c)** Clare Mutual Insurance Company;
+- **b)** *Antigonish Farmers’ Mutual Fire Insurance Company*;
+- **c)** *Clare Mutual Insurance Company*;
 - **d)** La Compagnie d’assurance Halifax;
-- **e)** Pictou County Farmers’ Mutual Fire Insurance Company.
+- **e)** *Pictou County Farmers’ Mutual Fire Insurance Company*.
 
 ***société transformée*** Société mutuelle transformée dans le cadre de la présente loi en société avec actions ordinaires.
 
@@ -237,7 +239,7 @@ French version only***souscripteur*** Titulaire d’une police.
 
 ***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait.
 
-***souscripteur au Canada***[Abrogée, 2007, ch. 6, art. 186]
+***souscripteur au Canada***[Abrogée, 2007, ch. 6, art. 186]
 
 ***souscripteur avec participation*** Titulaire d’une police à participation.
 
@@ -247,19 +249,19 @@ French version only***souscripteur*** Titulaire d’une police.
 
  ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents. La police est exclue de la présente définition.
 
-***titre à ordre*** Titre de la nature précisée au paragraphe 87(3).
+***titre à ordre*** Titre de la nature précisée au paragraphe 87(3).
 
-***titre au porteur*** Titre de la nature précisée au paragraphe 87(2).
+***titre au porteur*** Titre de la nature précisée au paragraphe 87(2).
 
 ***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet.
 
-***titre nominatif*** Titre de la nature précisée au paragraphe 87(4).
+***titre nominatif*** Titre de la nature précisée au paragraphe 87(4).
 
 ***titre secondaire*** Titre de créance délivré par la société et prévoyant que en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de toutes les dettes de police de la société et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur.
 
 ***transaction de fermeture*** S’entend au sens des règlements.
 
-***transaction d’éviction*** De la part d’une société n’ayant pas fait appel au public ou d’une société de portefeuille d’assurances n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 238(1) ou 851(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
+***transaction d’éviction*** De la part d’une société n’ayant pas fait appel au public ou d’une société de portefeuille d’assurances n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 238(1) ou 851(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
 - **a)** dans le cas d’une transaction effectuée par une société, la société;
 - **b)** dans le cas d’une transaction effectuée par une société de portefeuille d’assurances, la société de portefeuille d’assurances.
 
@@ -279,7 +281,7 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Changement de statut**
 
-- **(1.1)** Pour l’application de la présente loi, la société provinciale perd son statut dès révocation de l’ordonnance du surintendant prise aux termes du paragraphe 657(1).
+- **(1.1)** Pour l’application de la présente loi, la société provinciale perd son statut dès révocation de l’ordonnance du surintendant prise aux termes du paragraphe 657(1).
 
 **Prêts relatifs aux polices**
 
@@ -287,14 +289,14 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Actionnaire important**
 
-- **(3)** Pour l’application de la présente loi, une personne est un actionnaire important d’une personne morale dans l’un ou l’autre des cas suivants :
+- **(3)** Pour l’application de la présente loi, une personne est un actionnaire important d’une personne morale dans l’un ou l’autre des cas suivants :
 	- **a)** le total des actions avec droit de vote d’une catégorie quelconque d’actions de la personne morale dont elle a la propriété effective et de celles dont les entités qu’elle contrôle ont la propriété effective représente plus de vingt pour cent des actions en circulation de cette catégorie;
 	- **b)** le total des actions sans droit de vote d’une catégorie quelconque d’actions de la personne morale dont elle a la propriété effective et de celles dont les entités qu’elle contrôle ont la propriété effective représente plus de trente pour cent des actions en circulation de cette catégorie.
 
 **Participation multiple**
 
 - **(4)** Pour l’application de la présente loi, est à participation multiple la personne morale qui n’a aucun actionnaire important.
-> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2012, ch. 5, art. 122.
+> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2010, ch. 12, art. 2117; 2012, ch. 5, art. 122.
 
 
 
@@ -893,7 +895,7 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **32** 
 
-- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les sociétés de portefeuille d’assurances, peuvent demander au ministre des lettres patentes les prorogeant comme sociétés sous le régime de la présente loi.
+- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les sociétés de portefeuille d’assurances, à l’exception toutefois des coopératives de crédit fédérales, peuvent demander au ministre des lettres patentes les prorogeant comme sociétés sous le régime de la présente loi.
 
 **Autres personnes morales**
 
@@ -902,7 +904,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Société de secours mutuel**
 
 - **(3)** Les sociétés de secours mutuel non constituées sous le régime d’une loi fédérale peuvent, si les règles de droit en vigueur sur le territoire de leur constitution les y autorisent, demander au ministre des lettres patentes les prorogeant comme sociétés de secours sous le régime de la présente loi.
-> 1991, ch. 47, art. 32; 1994, ch. 24, art. 34(F); 1997, ch. 15, art. 170; 2001, ch. 9, art. 357.
+> 1991, ch. 47, art. 32; 1994, ch. 24, art. 34(F); 1997, ch. 15, art. 170; 2001, ch. 9, art. 357; 2010, ch. 12, art. 2118.
 
 
 
@@ -5694,16 +5696,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **245** 
 
-- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les sociétés et les sociétés de portefeuille d’assurances, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société mutuelle.
+- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les sociétés et les sociétés de portefeuille d’assurances, à l’exception toutefois des coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société mutuelle.
 
 **Demande de fusion**
 
-- **(2)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les sociétés — à l’exclusion des sociétés mutuelles — et les sociétés de portefeuille d’assurances, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société.
+- **(2)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les sociétés — à l’exclusion des sociétés mutuelles — et les sociétés de portefeuille d’assurances, à l’exception toutefois des coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société.
 
 **Fusion de sociétés de secours**
 
 - **(3)** Sur requête conjointe de plusieurs sociétés de secours, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société de secours.
-> 1991, ch. 47, art. 245; 1997, ch. 15, art. 218; 2001, ch. 9, art. 390.
+> 1991, ch. 47, art. 245; 1997, ch. 15, art. 218; 2001, ch. 9, art. 390; 2010, ch. 12, art. 2119.
 
 
 
@@ -16318,12 +16320,12 @@ où :
 
 **719** 
 
-- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les sociétés, peuvent demander au ministre des lettres patentes les prorogeant comme sociétés de portefeuille d’assurances sous le régime de la présente partie.
+- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les sociétés, à l’exception toutefois des coopératives de crédit fédérales, peuvent demander au ministre des lettres patentes les prorogeant comme sociétés de portefeuille d’assurances sous le régime de la présente partie.
 
 **Autres personnes morales**
 
 - **(2)** Les personnes morales non constituées sous le régime d’une loi fédérale peuvent, si les règles de droit en vigueur sur le territoire de leur constitution les y autorisent, demander au ministre des lettres patentes les prorogeant comme sociétés de portefeuille d’assurances sous le régime de la présente partie.
-> 1991, ch. 47, art. 719; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 719; 2001, ch. 9, art. 465; 2010, ch. 12, art. 2120.
 
 
 
@@ -19191,8 +19193,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Demande de fusion**
 
-**857** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris des sociétés et des sociétés de portefeuille d’assurances, et dont aucune n’est une société mutuelle, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société de portefeuille d’assurances.
-> 2001, ch. 9, art. 465.
+**857** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris des sociétés et des sociétés de portefeuille d’assurances, et dont aucune n’est une société mutuelle ou une coopérative de crédit fédérale, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société de portefeuille d’assurances.
+> 2001, ch. 9, art. 465; 2010, ch. 12, art. 2121.
 
 
 
