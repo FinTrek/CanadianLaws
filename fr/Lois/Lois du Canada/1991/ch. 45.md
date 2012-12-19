@@ -72,6 +72,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
 
+***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+
 ***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
 
 ***créancier*** Dans le cas d’une société de fiducie au sens du paragraphe 57(2), est assimilée à un créancier la personne qui a des fonds déposés chez celle-ci en fiducie garantie.
@@ -227,7 +229,7 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368; 2012, ch. 5, art. 162.
+> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368; 2010, ch. 12, art. 2123; 2012, ch. 5, art. 162.
 
 
 
@@ -720,12 +722,12 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 
 **31** 
 
-- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale peuvent demander au ministre des lettres patentes de prorogation sous le régime de la présente loi.
+- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, à l’exception d’une coopérative de crédit fédérale, peuvent demander au ministre des lettres patentes de prorogation sous le régime de la présente loi.
 
 **Autres personnes morales**
 
 - **(2)** Les personnes morales non constituées sous le régime d’une loi fédérale peuvent, si les règles de droit en vigueur sur le territoire de leur constitution les y autorisent, demander au ministre des lettres patentes de prorogation sous le régime de la présente loi.
-> 1991, ch. 45, art. 31; 1994, ch. 24, art. 34(F).
+> 1991, ch. 45, art. 31; 1994, ch. 24, art. 34(F); 2010, ch. 12, art. 2124.
 
 
 
@@ -4567,7 +4569,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Demande de fusion**
 
-**228** Sur requête conjointe, soit de plusieurs sociétés, soit d’une ou plusieurs sociétés et d’une ou plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, soit de plusieurs personnes morales ainsi constituées, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société.
+**228** Sur requête conjointe, soit de plusieurs sociétés, soit d’une ou plusieurs sociétés et d’une ou plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, soit de plusieurs personnes morales ainsi constituées, à l’exclusion des coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société.
+> 1991, ch. 45, art. 228; 2010, ch. 12, art. 2125.
+
 
 
 
