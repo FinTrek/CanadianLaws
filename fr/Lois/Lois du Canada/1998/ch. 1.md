@@ -5573,6 +5573,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les détenteurs des actions ordinaires de la personne morale sont réputés être membres de la coopérative;
 	- **c)** est nulle toute convention intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue.
 
+**Parts de membre**
+
+- **(11.1)** La prorogation d’une coopérative de crédit fédérale, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), en coopérative régie par la présente loi a les effets suivants :
+	- **a)** ses parts sociales sont réputées être des parts de membre auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi et les statuts;
+	- **b)** ses membres sont réputés être membres de la coopérative;
+	- **c)** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les membres de la coopérative de crédit fédérale ont convenu de voter de la manière qui y est prévue.
+
 **Parts ou actions déjà émises**
 
 - **(12)** Sous réserve de l’article 182, la prorogation a aussi les effets suivants :
@@ -5587,6 +5594,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de action ou part**
 
 - **(14)** Pour l’application des paragraphes (12) et (13), ***action*** ou ***part*** s’entendent, entre autres, du document visé à l’un des paragraphes 142(1) à (3), d’une option d’achat d’actions au sens donné à « titre au porteur » dans la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ou de tout titre analogue.
+> 1998, ch. 1, art. 285; 2010, ch. 12, art. 2113.
+
 
 
 
