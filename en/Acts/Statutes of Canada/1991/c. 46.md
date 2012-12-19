@@ -55,7 +55,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***affairs***, with respect to a bank, an authorized foreign bank or a bank holding company, means the relationships among the bank, authorized foreign bank or bank holding company and its affiliates and the shareholders, directors and officers of the bank, authorized foreign bank or bank holding company and its affiliates, but does not include the business of the bank, authorized foreign bank or bank holding company or any of its affiliates;
+***affairs***, with respect to a bank, an authorized foreign bank or a bank holding company, means the relationships among the bank, authorized foreign bank or bank holding company and its affiliates and the shareholders, members, directors and officers of the bank, authorized foreign bank or bank holding company and its affiliates, but does not include the business of the bank, authorized foreign bank or bank holding company or any of its affiliates;
 
 ***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
 
@@ -99,8 +99,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***complainant***, in relation to a bank or any matter concerning a bank, means
 - **(a)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of a bank or any of its affiliates,
-- **(b)** a director or an officer, or a former director or officer, of a bank or any of its affiliates, or
-- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 334, 338 or 989;
+- **(b)** a director or an officer, or a former director or officer, of a bank or any of its affiliates,
+- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 334, 338 or 989, or
+- **(d)** a member or a former member of a federal credit union;
 
 ***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
@@ -116,11 +117,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured;
 
+***delegate*** means a natural person appointed or elected to represent a member of a federal credit union at a meeting of members;
+
 ,  or ,  ou ***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body;
 
 ***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
 
 ***equity***, in respect of a bank or a bank holding company, means its equity as determined in accordance with the regulations;
+
+***federal credit union*** means a bank that, within the meaning of section 12.1, is organized and carries on business on a cooperative basis;
 
 ***federal financial institution*** means
 - **(a)** a bank,
@@ -168,8 +173,9 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 ***head office***, in relation to a bank, means the office required to be maintained under section 237 and, in relation to a bank holding company, means the office required to be maintained under section 814;
 
 ***holder*** means
-- **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank, and
-- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7;
+- **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank,
+- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7, and
+- **(c)** in respect of the ownership of a membership share, the member who holds the membership share within the meaning of section 7.1;
 
 ***holding body corporate*** means a holding body corporate within the meaning of section 4;
 
@@ -189,6 +195,12 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 - **(a)** whose members or shareholders consist substantially of natural persons, and
 - **(b)** whose principal purpose is to receive deposits from and make loans to its members and shareholders;
 
+***member***, in relation to a federal credit union, means a person who is one of the members of the federal credit union in accordance with subsection 47.04(2);
+
+***membership share***, in relation to a federal credit union, means an ownership interest in the federal credit union that confers the rights referred to in subsection 79.1(1);
+
+***members register***, in relation to a federal credit union, means the register referred to in section 254.1;
+
 ***Minister*** means the Minister of Finance;
 
 ***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
@@ -203,11 +215,13 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 83(3);
 
-***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the shareholders who voted in respect of that resolution;
+***ordinary resolution*** means a resolution passed by a majority of the votes cast in respect of that resolution;
+
+***patronage allocation*** means an amount that a federal credit union allocates among its members based on the business done by them with or through the federal credit union;
 
 ***person*** means a natural person, an entity or a personal representative;
 
-***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person;
+***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate;
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
@@ -222,7 +236,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***real property*** includes a leasehold interest in real property;
 
 ***recorded address*** means
-- **(a)** in relation to a person who is a shareholder of a bank or a bank holding company, the latest postal address of the person according to its central securities register, and
+- **(a)** in relation to a person who is a shareholder of a bank or a bank holding company, the latest postal address of the person according to its central securities register,
+- **(a.1)** in relation to a person who is a member of a federal credit union, the latest postal address of the person according to the members register, and
 - **(b)** in relation to a person in any other respect in relation to a bank, the latest postal address of the person according to the records of the branch concerned;
 
 ***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 83(4);
@@ -239,7 +254,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter;
 
  ou ***security*** means
-- **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit, and
+- **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit or, for greater certainty, a membership share, and
 - **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity;
 
 ***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation;
@@ -248,9 +263,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***series***, in respect of shares, means a division of a class of shares;
 
+Version anglaise seulement***share*** does not include a membership share;
+
 ***significant interest*** means a significant interest determined in accordance with section 8;
 
-***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders who voted in respect of that resolution or signed by all the shareholders entitled to vote on that resolution;
+***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast in respect of that resolution or signed by all the persons who are entitled to vote on that resolution;
 
 ***squeeze-out transaction*** means a transaction by a bank that is not a distributing bank, or a bank holding company that is not a distributing bank holding company, that requires an amendment to a by-law referred to in subsection 217(1) and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
 - **(a)** in the case of a bank, the bank, and
@@ -271,7 +288,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2012, c. 5, s. 2.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894; 2012, c. 5, ss. 2, 223.
 
 
 
@@ -305,10 +322,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **2.3** For the purposes of this Act, an entity is widely held if it is
 - **(a)** a body corporate that has no major shareholder;
+- **(a.1)** a federal credit union;
 - **(b)** an insurance company incorporated or formed under a mutual plan;
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies; or
 - **(d)** a cooperative credit society incorporated or formed, and regulated, by or under an Act of the legislature of a province.
-> 2001, c. 9, s. 36.
+> 2001, c. 9, s. 36; 2010, c. 12, s. 1895.
 
 
 
@@ -322,12 +340,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **Exemption — bank or bank holding company**
 
-- **(2)** On the application of a bank or bank holding company, the Superintendent may determine that it is not or was not a distributing bank or distributing bank holding company, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of that bank or bank holding company.
+- **(2)** On the application of a bank or bank holding company, the Superintendent may determine that it is not or was not a distributing bank or distributing bank holding company, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of that bank or bank holding company or any holder of a membership share of that bank.
 
 **Exemption — class of banks or bank holding companies**
 
-- **(3)** The Superintendent may determine that members of a class of banks or bank holding companies are not or were not distributing banks or distributing bank holding companies, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of a member of the class.
-> 2005, c. 54, s. 2.
+- **(3)** The Superintendent may determine that members of a class of banks or bank holding companies are not or were not distributing banks or distributing bank holding companies, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of a member of the class or any holder of a membership share of a bank that is a member of the class.
+> 2005, c. 54, s. 2; 2010, c. 12, s. 1896.
 
 
 
@@ -339,6 +357,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 - **(1)** For the purposes of this Act,
 	- **(a)** a person controls a body corporate if securities of the body corporate to which are attached more than 50 per cent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;
+	- **(a.1)** a person controls a federal credit union if the person and all of the entities controlled by the person have the right to exercise more than 50 per cent of the votes that may be cast at an annual meeting or to elect the majority of the directors of the federal credit union;
 	- **(b)** a person controls an unincorporated entity, other than a limited partnership, if more than 50 per cent of the ownership interests, however designated, into which the entity is divided are beneficially owned by that person and the person is able to direct the business and affairs of the entity;
 	- **(c)** the general partner of a limited partnership controls the limited partnership; and
 	- **(d)** a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.
@@ -357,7 +376,11 @@ is such that, if that person and all of the entities referred to in paragraph (b
 **Guidelines**
 
 - **(4)** The Minister may, for any purpose of any provision of this Act that refers to control within the meaning of paragraph (1)(d), make guidelines respecting what constitutes such control, including guidelines describing the policy objectives that the guidelines and the relevant provisions of the Act are intended to achieve and, if any such guidelines are made, the reference to paragraph (1)(d) in that provision shall be interpreted in accordance with the guidelines.
-> 1991, c. 46, s. 3; 2001, c. 9, s. 37.
+
+**Guidelines — federal credit union**
+
+- **(5)** The Minister may, for any purpose of any provision of this Act that refers to control within the meaning of paragraph (1)(d), make guidelines respecting what constitutes such control of a federal credit union, including guidelines describing the policy objectives that the guidelines and the relevant provisions of the Act are intended to achieve and, if any such guidelines are made, the reference to paragraph (1)(d) in that provision is to be interpreted in accordance with the guidelines.
+> 1991, c. 46, s. 3; 2001, c. 9, s. 37; 2010, c. 12, s. 1897.
 
 
 
@@ -409,6 +432,21 @@ is such that, if that person and all of the entities referred to in paragraph (b
 
 
 
+**Holder of membership share**
+
+**7.1** 
+
+- **(1)** For the purposes of this Act, a person is a holder of a membership share of a federal credit union if the person is the owner of one or more membership shares according to the federal credit union’s members register or is entitled to be entered in that register, or like record of the federal credit union, as the owner of one or more membership shares.
+
+**References to holding membership share**
+
+- **(2)** A reference in this Act to the holding of a membership share by or in the name of any person is a reference to the fact that the person is registered or is entitled to be registered in a federal credit union’s members register, or like record of the federal credit union, as the holder of that membership share.
+> 2010, c. 12, s. 1898.
+
+
+
+
+
 **Significant interest**
 
 **8** 
@@ -418,13 +456,21 @@ is such that, if that person and all of the entities referred to in paragraph (b
 	- **(b)** any shares of that class beneficially owned by entities controlled by the person
 exceeds 10 per cent of all of the outstanding shares of that class of shares of the bank or bank holding company.
 
+**Significant interest — membership shares**
+
+- **(1.1)** A person has a significant interest in the membership shares of a federal credit union if the aggregate of membership shares beneficially owned by the person and membership shares beneficially owned by entities controlled by the person exceeds 10 per cent of all of the outstanding membership shares.
+
 **Increasing significant interest**
 
 - **(2)** A person who has a significant interest in a class of shares of a bank or bank holding company increases that significant interest in the class of shares if the person or any entity controlled by the person
 	- **(a)** acquires beneficial ownership of additional shares of that class, or
 	- **(b)** acquires control of any entity that beneficially owns shares of that class,
 in such number as to increase the percentage of shares of that class that are beneficially owned by the person and by any entities controlled by the person.
-> 1991, c. 46, s. 8; 2001, c. 9, s. 40.
+
+**Increasing significant interest — membership shares**
+
+- **(3)** A person who has a significant interest in the membership shares of a federal credit union increases that significant interest in the membership shares if the person or any entity controlled by the person acquires beneficial ownership of additional membership shares, or acquires control of any entity that beneficially owns membership shares, of the federal credit union in such number as to increase the percentage of membership shares that are beneficially owned by the person and by any entities controlled by the person.
+> 1991, c. 46, s. 8; 2001, c. 9, s. 40; 2010, c. 12, s. 1899.
 
 
 
@@ -466,13 +512,67 @@ is deemed to be an agreement, commitment or understanding referred to in subsect
 
 
 
+**Acting in concert — members’ rights to vote**
+
+**9.1** 
+
+- **(1)** For the purposes of Part VII, if two or more members have agreed, under any agreement, commitment or understanding, whether formal or informal, verbal or written, to act jointly or in concert in respect of the exercise of any right to vote at a meeting of members, those members are deemed to be a single member.
+
+**Exceptions**
+
+- **(2)** For the purposes of this section, members are presumed not to have agreed to act jointly or in concert solely by reason of the fact that
+	- **(a)** their membership voting rights are vested in the same delegate or delegates; or
+	- **(b)** they exercise their membership voting rights in the same manner.
+
+**Designation**
+
+- **(3)** If in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsection (1) exists by or among two or more members, the Superintendent may designate those members as members who have agreed to act jointly or in concert.
+
+**Contravention**
+
+- **(4)** A member contravenes a provision of Part VII if the member agrees to act jointly or in concert with one or more other members in such a manner that a deemed single member contravenes that provision.
+> 2010, c. 12, s. 1900.
+
+
+
+
+
+**Acting in concert — shareholders and members’ right to vote**
+
+**9.2** 
+
+- **(1)** For the purposes of Part VII, if one or more members of a federal credit union and one or more shareholders of the federal credit union have agreed, under any agreement, commitment or understanding, whether formal or informal, verbal or written, to act jointly or in concert in respect of the exercise of their respective rights to vote, those persons are deemed to be a single person.
+
+**Exceptions**
+
+- **(2)** For the purposes of this section, persons are presumed not to have agreed to act jointly or in concert solely by reason of the fact that
+	- **(a)** one or more of the members is the proxyholder of one or more of the shareholders;
+	- **(b)** one or more of the shareholders is a delegate of one or more of the members; or
+	- **(c)** they exercise their respective voting rights in the same manner.
+
+**Designation**
+
+- **(3)** If in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsection (1) exists by or among one or more members and one or more shareholders, the Superintendent may designate those members and shareholders as persons who have agreed to act jointly or in concert.
+
+**Contravention**
+
+- **(4)** A shareholder or a member contravenes a provision of Part VII if the shareholder or member agrees to act jointly or in concert with one or more other shareholders or members in such a manner that a deemed single person contravenes that provision.
+> 2010, c. 12, s. 1900.
+
+
+
+
+
 **Substantial investment in body corporate**
 
 **10** 
 
 - **(1)** A person has a substantial investment in a body corporate where
-	- **(a)** the voting rights attached to the aggregate of any voting shares of the body corporate beneficially owned by the person and by any entities controlled by the person exceed 10 per cent of the voting rights attached to all of the outstanding voting shares of the body corporate; or
-	- **(b)** the aggregate of any shares of the body corporate beneficially owned by the person and by any entities controlled by the person represents ownership of greater than 25 per cent of the shareholders’ equity of the body corporate.
+	- **(a)** the voting rights attached to the aggregate of any voting shares of the body corporate beneficially owned by the person and by any entities controlled by the person exceed 10 per cent of the voting rights attached to all of the outstanding voting shares of the body corporate;
+	- **(b)** the aggregate of any shares of the body corporate beneficially owned by the person and by any entities controlled by the person represents ownership of greater than 25 per cent of the shareholders’ equity of the body corporate; or
+	- **(c)** in the case of a body corporate that is a federal credit union,
+		- **(i)** the voting rights of the person and of entities controlled by the person exceed 10 per cent of the aggregate of the voting rights that may be exercised by members and shareholders, or
+		- **(ii)** the aggregate of any shares and membership shares of the federal credit union beneficially owned by the person and by any entities controlled by the person represents ownership of greater than 25 per cent of the members’ and shareholders’ equity of the federal credit union.
 
 **Increasing substantial investment in body corporate**
 
@@ -485,6 +585,16 @@ is deemed to be an agreement, commitment or understanding referred to in subsect
 - **(3)** A person who has a substantial investment in a body corporate pursuant to paragraph (1)(b) increases that substantial investment when the person or any entity controlled by the person
 	- **(a)** acquires beneficial ownership of additional shares of the body corporate in such number as to increase the percentage of the shareholders’ equity of the body corporate represented by the aggregate of the shares of the body corporate beneficially owned by the person and by any entities controlled by the person; or
 	- **(b)** acquires control of any entity that beneficially owns any shares of the body corporate in such number as to increase the percentage of the shareholders’ equity of the body corporate represented by the aggregate of the shares of the body corporate beneficially owned by the person and by any entities controlled by the person.
+
+**Increasing substantial investment in federal credit unions**
+
+- **(3.1)** A person who has a substantial investment in a federal credit union under subparagraph (1)(c)(i) increases that substantial investment when the percentage of the voting rights of the person and of entities controlled by the person in relation to the aggregate of the voting rights that may be exercised by members and shareholders is increased for any reason.
+
+**Increasing substantial investment in federal credit unions**
+
+- **(3.2)** A person who has a substantial investment in a federal credit union under subparagraph (1)(c)(ii) increases that substantial investment when
+	- **(a)** the person or any entity controlled by the person acquires beneficial ownership of additional shares or membership shares of the federal credit union in such number as to increase the percentage of the members’ and shareholders’ equity of the federal credit union represented by the aggregate of the shares and membership shares beneficially owned by the person and by entities controlled by the person; or
+	- **(b)** the person or any entity controlled by the person acquires control of any entity that beneficially owns shares or membership shares of the federal credit union in such number as to increase the percentage of the members’ and shareholders’ equity of the federal credit union represented by the aggregate of the shares and membership shares beneficially owned by the person and by entities controlled by the person.
 
 **New substantial investment**
 
@@ -499,6 +609,12 @@ in such number as to cause the shareholders’ equity of the body corporate repr
 in such number as to cause the voting rights attached to the aggregate of the voting shares beneficially owned by the person and by any entities controlled by the person to exceed 10 per cent of the voting rights attached to all of the outstanding voting shares of the body corporate,
 the acquisition is deemed to cause the person to increase a substantial investment in the body corporate.
 
+**New substantial investment — federal credit union**
+
+- **(4.1)** For greater certainty,
+	- **(a)** if a person has a substantial investment in a federal credit union under subparagraph (1)(c)(i) and the person, or any entity controlled by the person, purchases or otherwise acquires beneficial ownership of shares or membership shares of the federal credit union or acquires control of any entity that beneficially owns shares or membership shares of the federal credit union, the acquisition is deemed to cause the person to increase a substantial investment in the federal credit union if the percentage of the members’ and shareholders’ equity of the federal credit union represented by the aggregate of the shares and membership shares of the federal credit union beneficially owned by the person and by any entities controlled by the person exceeds 25 per cent of the members’ and shareholders’ equity of the federal credit union; or
+	- **(b)** if a person has a substantial investment in a federal credit union under subparagraph (1)(c)(ii) and the person or any entity controlled by the person acquires voting rights in the federal credit union — or acquires control of any entity that has voting rights in the federal credit union — in such number that the percentage of the voting rights of the person and entities controlled by the person exceeds 10 per cent of the aggregate of the voting rights of the members and shareholders of the federal credit union, the acquisition is deemed to cause the person to increase a substantial investment in the federal credit union.
+
 **Substantial investment in unincorporated entity**
 
 - **(5)** A person has a substantial investment in an unincorporated entity where the aggregate of any ownership interests, however designated, into which the entity is divided, beneficially owned by the person and by any entities controlled by the person exceeds 25 per cent of all of the ownership interests into which the entity is divided.
@@ -508,6 +624,8 @@ the acquisition is deemed to cause the person to increase a substantial investme
 - **(6)** A person who has a substantial investment in an unincorporated entity increases that substantial investment when the person or any entity controlled by the person
 	- **(a)** acquires beneficial ownership of additional ownership interests in the unincorporated entity in such number as to increase the percentage of ownership interests in the unincorporated entity beneficially owned by the person and by any entities controlled by the person; or
 	- **(b)** acquires control of any entity that beneficially owns ownership interests in the unincorporated entity in such number as to increase the percentage of ownership interests beneficially owned by the person and by any entities controlled by the person.
+> 1991, c. 46, s. 10; 2010, c. 12, s. 1901.
+
 
 
 
@@ -559,6 +677,43 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 - **(3)** Before filing an application for an order referred to in subsection (1), an applicant shall publish a notice of intention to make the application in the Canada Gazette.
 > 1991, c. 46, s. 12; 2001, c. 9, s. 42.1.
+
+
+
+
+
+**Cooperative basis**
+
+**12.1** 
+
+- **(1)** For the purposes of this Act, a federal credit union is organized and carries on business on a cooperative basis if
+	- **(a)** a majority of its members are natural persons;
+	- **(b)** it provides financial services primarily to its members;
+	- **(c)** membership in the federal credit union is wholly or primarily open, in a non-discriminatory manner, to persons who can use the services of the federal credit union and who are willing and able to accept the responsibilities of membership;
+	- **(d)** each member has only one vote;
+	- **(e)** a delegate has only one vote even though the delegate is a member or represents more than one member;
+	- **(f)** dividends on any membership share are limited to the maximum percentage fixed in the federal credit union’s letters patent or by-laws; and
+	- **(g)** surplus funds arising from the federal credit union’s operations are used
+		- **(i)** to provide for the financial stability of the federal credit union,
+		- **(ii)** to develop its business,
+		- **(iii)** to provide or improve common services to members,
+		- **(iv)** to provide for reserves or dividends on membership shares and shares,
+		- **(v)** for community welfare or the propagation of cooperative enterprises, or
+		- **(vi)** as a distribution to its members as a patronage allocation.
+
+**Restrictions**
+
+- **(2)** Paragraph (1)(c) is subject to any restrictions in the by-laws of the federal credit union on the classes of persons to which membership may be available, as long as the restrictions are consistent with applicable laws with respect to human rights.
+> 2010, c. 12, s. 1902.
+
+
+
+
+
+**Member who is shareholder**
+
+**12.2** For greater certainty, a member of a federal credit union who is also a shareholder of the federal credit union may exercise the rights given to a shareholder by this Act for all shares held by the member.
+> 2010, c. 12, s. 1902.
 
 
 
@@ -693,7 +848,15 @@ Schedules I and II shall be amended accordingly.
 
 **No personal liability**
 
-**18** The shareholders of a bank are not, as shareholders, liable for any liability, act or default of the bank except as otherwise provided by this Act.
+**18** 
+
+- **(1)** The shareholders of a bank are not, as shareholders, liable for any liability, act or default of the bank except as otherwise provided by this Act.
+
+**No personal liability — federal credit unions**
+
+- **(2)** The members of a federal credit union are not, as members, liable for any liability, act or default of the federal credit union except as otherwise provided by this Act.
+> 1991, c. 46, s. 18; 2010, c. 12, s. 1903.
+
 
 
 
@@ -761,7 +924,15 @@ Schedules I and II shall be amended accordingly.
 
 **Incorporation of bank**
 
-**22** On the application of one or more persons made in accordance with this Act, the Minister may, subject to this Part, issue letters patent incorporating a bank.
+**22** 
+
+- **(1)** On the application of one or more persons made in accordance with this Act, the Minister may, subject to this Part, issue letters patent incorporating a bank, other than a federal credit union.
+
+**Incorporation of federal credit union**
+
+- **(2)** On the application of five or more persons, a majority of whom are natural persons, made in accordance with this Act, the Minister may, subject to this Part, issue letters patent incorporating a federal credit union.
+> 1991, c. 46, s. 22; 2010, c. 12, s. 1904.
+
 
 
 
@@ -837,9 +1008,10 @@ Schedules I and II shall be amended accordingly.
 - **(f)** the impact of any integration of the businesses and operations of the applicant or applicants with those of the bank on the conduct of those businesses and operations;
 - **(g)** the opinion of the Superintendent regarding the extent to which the proposed corporate structure of the applicant or applicants and their affiliates may affect the supervision and regulation of the bank, having regard to
 	- **(i)** the nature and extent of the proposed financial services activities to be carried out by the bank and its affiliates, and
-	- **(ii)** the nature and degree of supervision and regulation applying to the proposed financial services activities to be carried out by the affiliates of the bank; and
-- **(h)** the best interests of the financial system in Canada.
-> 1991, c. 46, s. 27; 2001, c. 9, s. 47.
+	- **(ii)** the nature and degree of supervision and regulation applying to the proposed financial services activities to be carried out by the affiliates of the bank;
+- **(h)** if the bank will be a federal credit union, that it will be organized and carry on business on a cooperative basis in accordance with section 12.1; and
+- **(i)** the best interests of the financial system in Canada including, if the bank will be a federal credit union, the best interests of the cooperative financial system in Canada.
+> 1991, c. 46, s. 27; 2001, c. 9, s. 47; 2010, c. 12, s. 1905.
 
 
 
@@ -851,6 +1023,7 @@ Schedules I and II shall be amended accordingly.
 
 - **(1)** There shall be set out in the letters patent incorporating a bank
 	- **(a)** the name of the bank;
+	- **(a.1)** in the case of a bank that is to be a federal credit union, a statement that it is a federal credit union;
 	- **(b)** the province in which the head office of the bank is to be situated; and
 	- **(c)** the date that the bank came, or is to come, into existence.
 
@@ -861,7 +1034,7 @@ Schedules I and II shall be amended accordingly.
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating a bank as the Minister considers necessary or appropriate.
-> 1991, c. 46, s. 28; 2005, c. 54, s. 7.
+> 1991, c. 46, s. 28; 2005, c. 54, s. 7; 2010, c. 12, s. 1906.
 
 
 
@@ -922,6 +1095,15 @@ Schedules I and II shall be amended accordingly.
 
 
 
+**First members of federal credit union**
+
+**31.1** The incorporators of a federal credit union are deemed to be its first members.
+> 2010, c. 12, s. 1907.
+
+
+
+
+
 **Effect of letters patent**
 
 **32** A bank comes into existence on the date provided therefor in its letters patent.
@@ -942,7 +1124,11 @@ Schedules I and II shall be amended accordingly.
 **Other corporations**
 
 - **(2)** A body corporate incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the body corporate as a bank under this Act.
-> 1991, c. 46, s. 33; 1994, c. 24, s. 34(F); 2001, c. 9, s. 49.
+
+**Continuance for the purpose of amalgamation**
+
+- **(3)** A local cooperative credit society may, if so authorized by the laws of the jurisdiction in which it is incorporated, apply to the Minister for letters patent continuing it as a federal credit union if it proposes to be continued under this Act for the purpose of amalgamating with another federal credit union in compliance with this Act.
+> 1991, c. 46, s. 33; 1994, c. 24, s. 34(F); 2001, c. 9, s. 49; 2010, c. 12, s. 1908.
 
 
 
@@ -952,15 +1138,17 @@ Schedules I and II shall be amended accordingly.
 
 **34** 
 
-- **(1)** Where a body corporate applies for letters patent under subsection 33(1) or (2), sections 23 to 27 apply in respect of the application, with such modifications as the circumstances require.
+- **(1)** If a body corporate applies for letters patent under section 33, sections 23 to 27 apply in respect of the application, with any modifications that the circumstances require.
 
 **Special resolution approval**
 
-- **(2)** Where a body corporate applies for letters patent under subsection 33(1) or (2), the application must be duly authorized by a special resolution.
+- **(2)** If a body corporate applies for letters patent under section 33, the application must be duly authorized by a special resolution.
 
 **Copy of special resolution**
 
 - **(3)** A copy of the special resolution referred to in subsection (2) shall be filed with the application.
+> 1991, c. 46, s. 34; 2010, c. 12, s. 1909.
+
 
 
 
@@ -969,20 +1157,45 @@ Schedules I and II shall be amended accordingly.
 
 **35** 
 
-- **(1)** On the application of a body corporate under subsection 33(1) or (2), the Minister may, subject to this Part, issue letters patent continuing the body corporate as a bank under this Act.
+- **(1)** On the application of a body corporate under section 33, the Minister may, subject to this Part, issue letters patent continuing the body corporate as a bank under this Act.
 
 **Issue of letters patent**
 
 - **(2)** Where letters patent are issued to a body corporate under subsection (1), section 28 applies in respect of the issue of letters patent, with such modifications as the circumstances require.
+> 1991, c. 46, s. 35; 2010, c. 12, s. 1910(E).
+
+
+
+
+
+**Power to issue letters patent**
+
+**35.1** 
+
+- **(1)** On the application of a local cooperative credit society under subsection 33(2), the Minister may, subject to this Part, issue letters patent continuing the local cooperative credit society as a federal credit union only if the Minister is of the opinion that the local cooperative credit society has complied with the regulations respecting notice and disclosure requirements.
+
+**Power to issue letters patent**
+
+- **(2)** On the application of a local cooperative credit society under subsection 33(3), the Minister may, subject to this Part, issue letters patent continuing the local cooperative credit society as a federal credit union only if the Minister is of the opinion that
+	- **(a)** the local cooperative credit society has complied with the regulations respecting notice and disclosure requirements; and
+	- **(b)** the federal credit union that results from the amalgamation will satisfy the requirements for incorporation as a federal credit union.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting notice and disclosure requirements for the purpose of subsections (1) and (2).
+> 2010, c. 12, s. 1911.
+
 
 
 
 
 **Effect of letters patent**
 
-**36** On the day set out in the letters patent continuing a body corporate as a bank under subsection 35(1),
+**36** On the day set out in the letters patent continuing a body corporate as a bank,
 - **(a)** the body corporate becomes a bank as if it had been incorporated under this Act; and
 - **(b)** the letters patent are deemed to be the incorporating instrument of the continued bank.
+> 1991, c. 46, s. 36; 2010, c. 12, s. 1912(E).
+
 
 
 
@@ -1002,14 +1215,30 @@ Schedules I and II shall be amended accordingly.
 
 **Effects of continuance**
 
-**38** Where a body corporate is continued as a bank under this Part,
-- **(a)** the property of the body corporate continues to be the property of the bank;
-- **(b)** the bank continues to be liable for the obligations of the body corporate;
-- **(c)** an existing cause of action or claim by or against the body corporate or any liability of the body corporate to prosecution is unaffected;
-- **(d)** a civil, criminal or administrative action or proceeding pending by or against the body corporate may continue to be prosecuted by or against the bank;
-- **(e)** a conviction against, or any ruling, order or judgment in favour of or against the body corporate may be enforced by or against the bank;
-- **(f)** a person who, on the day the body corporate becomes a bank, was the holder of a security issued by the body corporate is not deprived of any right or privilege available to the person at that time in respect of the security or relieved of any liability in respect thereof, but any such right or privilege may be exercised only in accordance with this Act; and
-- **(g)** the by-laws of the body corporate, except those that are in conflict with this Act, continue as the by-laws of the bank.
+**38** 
+
+- **(1)** Where a body corporate is continued as a bank under this Part,
+	- **(a)** the property of the body corporate continues to be the property of the bank;
+	- **(b)** the bank continues to be liable for the obligations of the body corporate;
+	- **(c)** an existing cause of action or claim by or against the body corporate or any liability of the body corporate to prosecution is unaffected;
+	- **(d)** a civil, criminal or administrative action or proceeding pending by or against the body corporate may continue to be prosecuted by or against the bank;
+	- **(e)** a conviction against, or any ruling, order or judgment in favour of or against the body corporate may be enforced by or against the bank;
+	- **(f)** a person who, on the day the body corporate becomes a bank, was the holder of a security issued by the body corporate is not deprived of any right or privilege available to the person at that time in respect of the security or relieved of any liability in respect thereof, but any such right or privilege may be exercised only in accordance with this Act; and
+	- **(g)** the by-laws of the body corporate, except those that are in conflict with this Act, continue as the by-laws of the bank.
+
+**Membership shares**
+
+- **(2)** In addition, if the body corporate is continued as a federal credit union,
+	- **(a)** in the case of a body corporate with common shares,
+		- **(i)** its common shares are deemed to be membership shares to which are attached the rights, privileges and restrictions set out in this Act,
+		- **(ii)** the holders of those common shares are deemed to be the members of the federal credit union, and
+		- **(iii)** any agreement made before continuance under which the holders of any common shares of the body corporate have agreed to vote those shares in a manner provided in the agreement is of no effect; and
+	- **(b)** in the case of a body corporate that has members,
+		- **(i)** the membership shares, however designated, of the body corporate are deemed to be membership shares of the federal credit union to which are attached the rights, privileges and restrictions set out in this Act,
+		- **(ii)** the members of the body corporate are deemed to be the members of the federal credit union, and
+		- **(iii)** any agreement made before continuance under which the members of the body corporate have agreed to vote in a manner provided in the agreement is of no effect.
+> 1991, c. 46, s. 38; 2010, c. 12, s. 1913.
+
 
 
 
@@ -1029,7 +1258,9 @@ Schedules I and II shall be amended accordingly.
 **Duration**
 
 - **(2)** The permission granted under subsection (1) shall be expressed to be granted for a period specified in the order not exceeding
-	- **(a)** with respect to any activity described in paragraph (1)(a), thirty days after the date of issue of the letters patent or, where the activity is conducted pursuant to an agreement existing on the date of issue of the letters patent, the expiration of the agreement;
+	- **(a)** with respect to any activity described in paragraph (1)(a), 30 days after the date of issue of the letters patent or
+		- **(i)** if the activity is conducted under an agreement existing on the date of issue of the letters patent, the expiry of the agreement, or
+		- **(ii)** if the bank is a federal credit union and an undertaking to cease engaging in the activity has been given under subsection 973.02(1), the cessation date set out in the undertaking in respect of the activity;
 	- **(b)** with respect to any matter described in paragraph (1)(b), ten years; and
 	- **(c)** with respect to any matter described in any of paragraphs (1)(d) to (f), two years.
 
@@ -1042,7 +1273,7 @@ Schedules I and II shall be amended accordingly.
 - **(4)** The Minister shall not grant to a bank any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the bank to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the bank that the bank will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of the approval for the bank to commence and carry on business.
-> 1991, c. 46, s. 39; 1994, c. 47, s. 14; 1997, c. 15, s. 3; 2007, c. 6, s. 5.
+> 1991, c. 46, s. 39; 1994, c. 47, s. 14; 1997, c. 15, s. 3; 2007, c. 6, s. 5; 2010, c. 12, s. 1914.
 
 
 
@@ -1052,11 +1283,11 @@ Schedules I and II shall be amended accordingly.
 
 
 
-**Transferring to other federal Acts**
+**Transferring to other federal Acts — banks**
 
 **39.1** 
 
-- **(1)** A bank may
+- **(1)** A bank that is not a federal credit union may
 	- **(a)** apply, with the approval in writing of the Minister, under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) for a certificate of continuance as a corporation under that Act;
 	- **(b)** apply, with the approval in writing of the Minister, under the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md) for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, as a cooperative under that Act;
 	- **(c)** apply, under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), for letters patent continuing the bank as an association under that Act, or amalgamating and continuing the bank as an association under that Act;
@@ -1077,7 +1308,35 @@ Schedules I and II shall be amended accordingly.
 **Restriction on other transfers**
 
 - **(4)** A bank may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1).
-> 1991, c. 46, s. 574; 1997, c. 15, s. 4; 1999, c. 28, s. 11; 2001, c. 9, s. 50; 2007, c. 6, s. 6.
+> 1991, c. 46, s. 574; 1997, c. 15, s. 4; 1999, c. 28, s. 11; 2001, c. 9, s. 50; 2007, c. 6, s. 6; 2010, c. 12, s. 1915.
+
+
+
+
+
+**Transferring to other federal Acts — federal credit union**
+
+**39.2** 
+
+- **(1)** A federal credit union may
+	- **(a)** apply, with the approval in writing of the Minister, under the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md) for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, as a cooperative under that Act; or
+	- **(b)** apply under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) for letters patent continuing the federal credit union as an association under that Act or amalgamating and continuing the federal credit union as an association under that Act.
+
+**Conditions for approval**
+
+- **(2)** The approval referred to in paragraph (1)(a) may be given only if the Minister is satisfied that
+	- **(a)** the federal credit union has published, once a week for four consecutive weeks in the Canada Gazette and in a newspaper in general circulation at or near the place where its head office is situated, a notice of its intention to apply for the approval;
+	- **(b)** the application has been authorized by a special resolution of the members and, if the federal credit union has issued shares, by a separate special resolution of the shareholders of each class of shares; and
+	- **(c)** the federal credit union does not hold deposits.
+
+**All shares have right to vote**
+
+- **(3)** For the purpose of paragraph (2)(b), each share carries the right to vote in respect of the special resolution, whether or not it otherwise carries the right to vote in respect of any other matter.
+
+**Restriction on other transfers**
+
+- **(4)** A federal credit union may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1).
+> 1997, c. 15, s. 4; 2001, c. 9, s. 50; 2007, c. 6, s. 6; 2010, c. 12, s. 1916.
 
 
 
@@ -1085,8 +1344,8 @@ Schedules I and II shall be amended accordingly.
 
 **Act ceases to apply**
 
-**39.2** If a bank applies for a certificate or letters patent referred to in section 39.1 in accordance with that section and the certificate is given or the letters patent are issued, this Act ceases to apply to the bank as of the day the certificate or the letters patent take effect.
-> 1997, c. 15, s. 4; 2001, c. 9, s. 50; 2007, c. 6, s. 6.
+**39.3** If a bank applies for a certificate or letters patent referred to in section 39.1 or 39.2 in accordance with that section and the certificate is given or the letters patent are issued, this Act ceases to apply to the bank as of the day on which the certificate or the letters patent take effect.
+> 2010, c. 12, s. 1916.
 
 
 
@@ -1105,9 +1364,20 @@ Schedules I and II shall be amended accordingly.
 	- **(i)** trade-mark or trade name, or
 	- **(ii)** corporate name of a body corporate,
 except where the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name and consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
-- **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
-- **(e)** that is reserved under section 43 for another bank or an authorized foreign bank or a proposed bank or a proposed authorized foreign bank or under section 697 for a bank holding company or a proposed bank holding company.
-> 1991, c. 46, s. 40; 1996, c. 6, s. 1; 1997, c. 15, s. 5; 1999, c. 28, s. 12; 2001, c. 9, s. 51.
+- **(d)** that is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified;
+- **(e)** that is reserved under section 43 for another bank or an authorized foreign bank or a proposed bank or a proposed authorized foreign bank or under section 697 for a bank holding company or a proposed bank holding company;
+- **(f)** that includes the phrase “credit union” or “coopérative de crédit”, or any abbreviation, combination or derivative of those phrases, unless it is to be a federal credit union and its name also includes the word “bank”, “banque”, “federal” or “fédérale” in conjunction with those phrases; or
+- **(g)** that includes the words “cooperative” or “coopérative”, or any abbreviation, combination or derivative of those words, unless it is to be a federal credit union and its name also includes the word “bank”, “banque”, “federal” or “fédérale” in conjunction with those words.
+> 1991, c. 46, s. 40; 1996, c. 6, s. 1; 1997, c. 15, s. 5; 1999, c. 28, s. 12; 2001, c. 9, s. 51; 2010, c. 12, s. 1917.
+
+
+
+
+
+**Name of federal credit union**
+
+**40.1** Despite any other Act, but subject to paragraphs 40(f) and (g), a bank may be incorporated or formed under this Act with the words “credit union” “coopérative de crédit”, “cooperative” or “coopérative”, or any abbreviation, combination or derivative of those words, in its name, but only if it will be a federal credit union.
+> 2010, c. 12, s. 1918.
 
 
 
@@ -1138,8 +1408,8 @@ except where the trade-mark or trade name is being changed or the body corporate
 
 **Directions**
 
-- **(4)** Where a bank is carrying on business under or identifying itself by a name other than its corporate name, the Superintendent may, by order, direct the bank not to use that other name if the Superintendent is of the opinion that that other name is a name referred to in any of paragraphs 40(a) to (e).
-> 1991, c. 46, s. 42; 1996, c. 6, s. 2.
+- **(4)** If a bank is carrying on business under or identifying itself by a name other than its corporate name, the Superintendent may, by order, direct the bank not to use that other name if the Superintendent is of the opinion that that other name is a name referred to in any of paragraphs 40(a) to (g).
+> 1991, c. 46, s. 42; 1996, c. 6, s. 2; 2010, c. 12, s. 1919.
 
 
 
@@ -1181,11 +1451,15 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 
 
 
+#### Banks Other Than Federal Credit Unions
+
+
+
 **First directors’ meeting**
 
 **45** 
 
-- **(1)** After letters patent incorporating a bank are issued, a meeting of the directors of the bank shall be held at which the directors may, subject to this Part,
+- **(1)** After letters patent incorporating a bank that is not a federal credit union are issued, a meeting of the directors of the bank must be held at which the directors may, subject to this Part,
 	- **(a)** make by-laws;
 	- **(b)** adopt forms of share certificates and corporate records;
 	- **(c)** authorize the issue of shares of the bank;
@@ -1197,6 +1471,8 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 **Calling directors’ meeting**
 
 - **(2)** An incorporator or a director named in the application for letters patent may call the meeting referred to in subsection (1) by giving, subject to subsection 181(2), no fewer than five days notice of the purpose, time and place of the meeting to each director of the bank.
+> 1991, c. 46, s. 45; 2010, c. 12, s. 1921.
+
 
 
 
@@ -1205,7 +1481,7 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 
 **46** 
 
-- **(1)** If at least five million dollars, or any greater amount that the Minister may specify, has been received by a bank in respect of which letters patent were issued under section 22 from the issue of its shares, the directors of the bank shall without delay call a meeting of the shareholders of the bank.
+- **(1)** If at least five million dollars, or any greater amount that the Minister may specify, has been received by a bank in respect of which letters patent were issued under subsection 22(1) from the issue of its shares, the directors of the bank must without delay call a meeting of the shareholders of the bank.
 
 **Meeting of shareholders**
 
@@ -1213,7 +1489,7 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 	- **(a)** approve, amend or reject any by-law made by the directors of the bank;
 	- **(b)** subject to section 168, elect directors to hold office for a term expiring not later than the close of the third annual meeting of shareholders following the election; and
 	- **(c)** appoint an auditor or auditors to hold office until the close of the first annual meeting of shareholders.
-> 1991, c. 46, s. 46; 2001, c. 9, s. 54.
+> 1991, c. 46, s. 46; 2001, c. 9, s. 54; 2010, c. 12, s. 1922.
 
 
 
@@ -1222,6 +1498,297 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 **Term of first directors**
 
 **47** A director named in the application for letters patent to incorporate a bank holds office until the election of directors at the meeting of shareholders called pursuant to subsection 46(1).
+> 1991, c. 46, s. 47; 2010, c. 12, s. 1923(F).
+
+
+
+
+
+#### Federal Credit Unions
+
+
+
+##### Meeting of First Directors
+
+
+
+**Organizational meeting**
+
+**47.01** 
+
+- **(1)** After letters patent incorporating a federal credit union are issued, a meeting of its first directors must be held at which the first directors may, subject to this Part,
+	- **(a)** adopt forms of certificates for membership shares, forms of share certificates and forms of corporate records;
+	- **(b)** admit persons to membership in the federal credit union and issue or authorize the issuance of membership shares;
+	- **(c)** authorize the issue of shares of the federal credit union;
+	- **(d)** appoint officers;
+	- **(e)** appoint, under subsection 314(1), an auditor or auditors to hold office until the first meeting of members;
+	- **(f)** make banking arrangements; and
+	- **(g)** deal with any other matters necessary to organize the federal credit union.
+
+**Calling directors’ meeting**
+
+- **(2)** A first director may call the meeting referred to in subsection (1) by giving, subject to subsection 181(2), the other directors notice of the time and place of the meeting no fewer than five days before the meeting.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+##### First Meeting of Members
+
+
+
+**Calling members’ meeting**
+
+**47.02** 
+
+- **(1)** If at least five million dollars, or any greater amount that the Minister may specify, has been received by a federal credit union in respect of which letters patent were issued under subsection 22(2) from the issue of its membership shares and shares, the directors of the federal credit union must, without delay, call a meeting of the members of the federal credit union.
+
+**Meeting of members**
+
+- **(2)** At the meeting, the members must
+	- **(a)** make by-laws;
+	- **(b)** elect directors in accordance with this Act and the federal credit union’s by-laws; and
+	- **(c)** appoint an auditor or auditors to hold office until the close of the first annual meeting of the federal credit union.
+
+**Term of office of first directors**
+
+- **(3)** The term of office of the first directors ends at the close of the meeting referred to in subsection (1).
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+### Membership in a Federal Credit Union
+
+
+
+#### Conditions of Membership
+
+
+
+**Membership governed by by-laws**
+
+**47.03** 
+
+- **(1)** Subject to the provisions of this Act, membership in a federal credit union is governed by its by-laws.
+
+**Minimum membership shares required**
+
+- **(2)** To be a member of a federal credit union, a person must acquire and hold the minimum number of membership shares required under the federal credit union’s by-laws.
+
+**Member who ceases to hold the minimum**
+
+- **(3)** Subject to any limitations in the federal credit union’s by-laws, including limitations on the rights members may exercise, a member of a federal credit union who ceases to hold enough membership shares to be a member continues to be a member of the federal credit union for the purposes of this Act.
+
+**Ground for expulsion**
+
+- **(4)** For greater certainty, subsection (3) does not prevent holding fewer than the minimum number of membership shares from being set out in the federal credit union’s by-laws as a ground for expulsion under subsection 47.06(1) or section 47.09.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Subscription deemed application**
+
+**47.04** 
+
+- **(1)** A subscription for the number of membership shares in a federal credit union required by the federal credit union’s by-laws for membership constitutes an application for membership and the issue of a membership share to the applicant constitutes admission to membership.
+
+**Approval required**
+
+- **(2)** Subject to subsection (1), a person becomes a member of a federal credit union when the person’s application for membership is approved by the directors or an employee authorized by the federal credit union and the applicant has complied fully with the federal credit union’s by-laws governing admission of members.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+#### Withdrawal and Termination
+
+
+
+**Withdrawal of membership**
+
+**47.05** 
+
+- **(1)** A member of a federal credit union may withdraw from the federal credit union at any time by giving notice in accordance with the by-laws.
+
+**Deemed notice**
+
+- **(2)** A deceased member is deemed to have given notice to the federal credit union of their intention to withdraw on the day of their death.
+
+**Rights of withdrawing member**
+
+- **(3)** The by-laws of a federal credit union must set out the rights of a withdrawing member.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Expulsion**
+
+**47.06** 
+
+- **(1)** A member of a federal credit union may be expelled from membership, in accordance with the by-laws, by a resolution of the directors on the grounds set out in the by-laws.
+
+**Member’s rights relating to expulsion**
+
+- **(2)** The by-laws of a federal credit union must set out the rights of members who are expelled under subsection (1), and those rights must include
+	- **(a)** the right of a member to receive advance notice of any meeting of the directors at which the board will consider a resolution to expel the member;
+	- **(b)** the right of a member not to be expelled without being given an opportunity to make representations on the matter at the meeting of the directors;
+	- **(c)** the right of an expelled member to appeal the decision of the directors at the next meeting of the members; and
+	- **(d)** the right of the expelled member to be reinstated as a member of the federal credit union if, at the next meeting of the members, the members, by ordinary resolution, set aside the directors’ resolution.
+
+**Procedures to be set out in by-laws**
+
+- **(3)** The by-laws of a federal credit union must set out
+	- **(a)** the procedures to be followed by the directors to provide the advance notice referred to in paragraph (2)(a); and
+	- **(b)** the procedures to be followed relating to the appeal referred to in paragraph (2)(c).
+
+**Notice of decision**
+
+- **(4)** If the directors pass a resolution expelling a member under subsection (1), the federal credit union must, within five days after the passing of the resolution, notify the member of the directors’ decision by registered letter addressed to the member at the member’s recorded address.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Inactivity**
+
+**47.07** No by-law may provide for the expulsion of a member by reason only of inactivity of the member in relation to the business or affairs of the federal credit union.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Redemption**
+
+**47.08** No by-law governing the withdrawal of a member from membership or the termination of the membership of a member may authorize a redemption of membership shares in contravention of section 485.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Termination by members**
+
+**47.09** Unless the by-laws provide otherwise, the membership of a member may be terminated by a special resolution of the members. Section 47.06 applies, with any modifications that the circumstances require, to a termination by the members.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Winding-up proceedings in respect of member**
+
+**47.1** Despite subsection 47.06(1), a federal credit union may, by written notice to a member, terminate the membership if the member is a body corporate and winding-up proceedings have commenced with respect to it.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+### General Provisions — Federal Credit Unions
+
+
+
+**Prohibition**
+
+**47.11** An entity must not become a member of a federal credit union if, as a result of becoming a member, the majority of the members of the federal credit union would not be natural persons.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Provision of services**
+
+**47.12** A federal credit union must provide its services primarily to its members.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Right to vote**
+
+**47.13** Each member of a federal credit union has only one vote on all matters to be decided by the members.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Members under 18**
+
+**47.14** Subject to the by-laws, a person less than 18 years of age may be admitted to membership in a federal credit union and may vote at meetings of the federal credit union.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Membership not transferable**
+
+**47.15** No transfer of a membership is valid for any purpose.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Reinstatement — section 47.06**
+
+**47.16** 
+
+- **(1)** A person whose membership has been terminated under section 47.06 may be reinstated as a member of the federal credit union only by ordinary resolution of the members.
+
+**Reinstatement — section 47.09**
+
+- **(2)** A person whose membership has been terminated under section 47.09 may be reinstated as a member of the federal credit union only by special resolution of the members.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Transfer of membership shares**
+
+**47.17** No transfer of membership shares in a federal credit union is valid unless the transfer is approved by resolution of the directors.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Obligation to have at least five members**
+
+**47.18** 
+
+- **(1)** A federal credit union must ensure that at all times it has at least five members.
+
+**Membership too low**
+
+- **(2)** If the membership of a federal credit union is reduced to fewer than five members, the federal credit union must, without delay, take the steps that are necessary to
+	- **(a)** make an application referred to in subsection 39.2(1) or section 216.08; or
+	- **(b)** liquidate and dissolve the federal credit union under Part VI.
+> 2010, c. 12, s. 1924.
+
+
+
+
+
+**Exemption**
+
+**47.19** The Minister may, subject to any terms and conditions that the Minister considers appropriate, exempt any entity or federal credit union from the application of sections 47.11, 47.12 and 47.18.
+> 2010, c. 12, s. 1924.
+
 
 
 
@@ -1272,10 +1839,12 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 
 **No payments before order**
 
-**50** Until an order approving the commencement and carrying on of business is made for a bank, the bank shall not make any payment on account of incorporation or organization expenses out of moneys received from the issue of the shares of the bank and interest thereon, except reasonable sums
+**50** Until an order approving the commencement and carrying on of business is made for a bank, the bank must not make any payment on account of incorporation or organization expenses out of moneys received from the issue of the shares or the membership shares of the bank and interest on those moneys, except reasonable sums
 - **(a)** for the remuneration of not more than two officers;
-- **(b)** for the payment of costs related to the issue of shares of the bank; and
+- **(b)** for the payment of costs related to the issue of shares, or membership shares, of the bank; and
 - **(c)** for the payment of clerical assistance, legal services, accounting services, office accommodation at one location, office expenses, advertising, stationery, postage and travel expenses.
+> 1991, c. 46, s. 50; 2010, c. 12, s. 1925.
+
 
 
 
@@ -1294,15 +1863,15 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 **52** 
 
 - **(1)** The Superintendent shall not make an order approving the commencement and carrying on of business by a bank until it has been shown to the satisfaction of the Superintendent that
-	- **(a)** the meeting of shareholders of the bank referred to in subsection 46(1) has been duly held;
-	- **(b)** the bank has paid-in capital of at least five million dollars or any greater amount that is specified by the Minister under subsection 46(1);
+	- **(a)** the meeting of shareholders of the bank referred to in subsection 46(1), or, in the case of a federal credit union, the meeting of members referred to in subsection 47.02(1), has been duly held;
+	- **(b)** the bank has paid-in capital of at least five million dollars or any greater amount that is specified by the Minister under subsection 46(1) or 47.02(1);
 	- **(c)** the expenses of incorporation and organization to be borne by the bank are reasonable; and
 	- **(d)** all other relevant requirements of this Act have been complied with.
 
 **Time limit**
 
 - **(2)** The Superintendent shall not make an order approving the commencement and carrying on of business by a bank more than one year after the day on which the bank comes into existence.
-> 1991, c. 46, s. 52; 2001, c. 9, s. 56.
+> 1991, c. 46, s. 52; 2001, c. 9, s. 56; 2010, c. 12, s. 1926.
 
 
 
@@ -1310,7 +1879,15 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 
 **Conditions of order**
 
-**53** An order approving the commencement and carrying on of business by a bank may contain such conditions or limitations that are consistent with this Act and relate to the business of the bank as the Superintendent deems expedient and necessary.
+**53** 
+
+- **(1)** An order approving the commencement and carrying on of business by a bank may contain such conditions or limitations that are consistent with this Act and relate to the business of the bank as the Superintendent deems expedient and necessary.
+
+**Deemed condition**
+
+- **(2)** An order approving the commencement and carrying on of business by a federal credit union is deemed to contain a condition that the federal credit union must, on an ongoing basis, be organized and carry on business on a cooperative basis in accordance with section 12.1.
+> 1991, c. 46, s. 53; 2010, c. 12, s. 1927.
+
 
 
 
@@ -1321,11 +1898,11 @@ that is prohibited by section 40, the Superintendent may, by order, direct the b
 
 - **(1)** In respect of the order approving the commencement and carrying on of business by a bank, the Superintendent may at any time, by further order,
 	- **(a)** make the order subject to such conditions or limitations that are consistent with this Act and that relate to the business of the bank as the Superintendent deems expedient and necessary, or
-	- **(b)** amend or revoke any authorization contained in the order or any condition or limitation to which the order is subject,
+	- **(b)** amend or revoke any authorization contained in the order or any condition or limitation to which the order is subject, other than the condition deemed to be in the order by subsection 53(2),
 but before making any such further order the Superintendent shall provide the bank with an opportunity to make representations regarding that further order.
 
 - **(2) to (6)** [Repealed, 1996, c. 6, s. 4]
-> 1991, c. 46, s. 54; 1996, c. 6, s. 4.
+> 1991, c. 46, s. 54; 1996, c. 6, s. 4; 2010, c. 12, s. 1928.
 
 
 
@@ -1406,19 +1983,23 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **Application to court to settle disbursements**
 
-- **(2)** If the amount allowed by a special resolution for the payment of any incorporation and organization expenses referred to in subsection (1) is considered insufficient by the directors or if no special resolution for the payment of such expenses is passed, the directors may apply to any court having jurisdiction in the place where the head office of the bank is situated to settle and determine the amounts to be paid out of any moneys of the bank before distribution of the balance to the shareholders or, where there are no shareholders, to the incorporators.
+- **(2)** If the amount allowed by a special resolution for the payment of any incorporation and organization expenses referred to in subsection (1) is considered insufficient by the directors or if no special resolution for the payment of such expenses is passed, the directors may apply to any court having jurisdiction in the place where the head office of the bank is situated to settle and determine the amounts to be paid out of any moneys of the bank before distribution of the balance to
+	- **(a)** if the bank is not a federal credit union, the shareholders or, if there are no shareholders, to the incorporators; or
+	- **(b)** if the bank is a federal credit union, its members.
 
 **Notice of application to court**
 
-- **(3)** The directors shall, at least twenty-one days prior to the date fixed for the hearing of the application referred to in subsection (2), send to the shareholders or incorporators, as the case may be, a notice of the application, which notice shall contain a statement of the amounts that are proposed to be settled and determined by the court.
+- **(3)** The directors must, at least 21 days before the date fixed for the hearing of the application referred to in subsection (2), send to the shareholders, incorporators or members, as the case may be, a notice of the application, containing a statement of the amounts that are proposed to be settled and determined by the court.
 
 **Ratio payable**
 
-- **(4)** In order that the amounts paid and payable under this section may be equitably borne by the shareholders or incorporators, as the case may be, the directors shall, after the amounts of the payments have been approved by special resolution or settled and determined by a court, fix the proportionate part thereof chargeable to each shareholder or incorporator as the ratio of the amount paid in by the shareholder or incorporator to the aggregate of all the amounts paid in by the shareholders or incorporators.
+- **(4)** In order that the amounts paid and payable under this section may be equitably borne by the shareholders, incorporators or members, as the case may be, the directors must, after the amounts of the payments have been approved by special resolution or settled and determined by a court, fix the proportionate part of the amounts chargeable to each shareholder, incorporator or member as the ratio of the amount paid in by that person to the aggregate of all the amounts paid in by the shareholders, incorporators or members.
 
 **Return of excess**
 
-- **(5)** After the amounts referred to in this section have been paid, the directors shall pay, with any interest earned thereon, to the shareholders or incorporators, the respective balances of the moneys paid in by them, less the amount chargeable to each shareholder or incorporator under subsection (4).
+- **(5)** After the amounts referred to in this section have been paid, the directors shall pay, with any interest earned, to the shareholders, incorporators or members, the respective balances of the moneys paid in by them, less the amount chargeable to each under subsection (4).
+> 1991, c. 46, s. 58; 2010, c. 12, s. 1929.
+
 
 
 
@@ -1463,7 +2044,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **60** 
 
-- **(1)** A bank shall have one class of shares, to be designated as “common shares”, which are non-redeemable and in which the rights of the holders thereof are equal in all respects, and those rights include
+- **(1)** A bank that is not a federal credit union must have one class of shares, to be designated as “common shares”, which are non-redeemable and in which the rights of the holders of those common shares are equal in all respects, and those rights include
 	- **(a)** the right to vote at all meetings of shareholders except where only holders of a specified class of shares are entitled to vote;
 	- **(b)** the right to receive dividends declared on those shares; and
 	- **(c)** the right to receive the remaining property of the bank on dissolution.
@@ -1477,7 +2058,51 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 **Continued bank**
 
 - **(4)** A body corporate continued as a bank under this Act that is not in compliance with subsection (2) on the date letters patent continuing it as a bank are issued shall, within twelve months after that date, redesignate its shares to comply with that subsection.
-> 1991, c. 46, s. 60; 2012, c. 5, s. 4.
+> 1991, c. 46, s. 60; 2010, c. 12, s. 1930; 2012, c. 5, s. 4.
+
+
+
+
+
+**Shares of federal credit union**
+
+**60.1** 
+
+- **(1)** A federal credit union may issue shares only if its by-laws set out the following:
+	- **(a)** whether the shares may be issued to persons who are not members;
+	- **(b)** the maximum number, if any, of shares of any class that the federal credit union is authorized to issue;
+	- **(c)** the number of classes of shares; and
+	- **(d)** the rights, privileges, restrictions and conditions attaching to the shares of each class.
+
+**No automatic rights**
+
+- **(2)** Subject to this Act, a federal credit union must not issue any share that confers on the holder of the share the right
+	- **(a)** to vote at meetings of the federal credit union otherwise than in accordance with this Act; or
+	- **(b)** to receive any of the remaining property of the federal credit union on dissolution.
+
+**Exception**
+
+- **(3)** A federal credit union’s by-laws may provide that
+	- **(a)** a share confers on its holder the right to vote at an election of directors by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled; or
+	- **(b)** the shareholders, any class of shareholders or the holders of a series of shares, may elect a fixed number or a percentage of the directors.
+
+**Limit on shareholders’ directors**
+
+- **(4)** Despite subsections (2) and (3), the shareholders do not have the right to elect more than 20 per cent of the directors.
+
+**One share, one vote**
+
+- **(5)** If shareholders are entitled to vote in accordance with subsection (3) or otherwise in accordance with this Act, each share entitles the holder to one vote.
+> 2010, c. 12, s. 1931.
+
+
+
+
+
+**Designation of shares**
+
+**60.2** A federal credit union must not designate a class of its shares as “membership shares” or any variation of those words.
+> 2010, c. 12, s. 1931.
 
 
 
@@ -1487,7 +2112,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **61** 
 
-- **(1)** The by-laws of a bank may provide for more than one class of shares and, if they so provide, shall set out
+- **(1)** The by-laws of a bank that is not a federal credit union may provide for more than one class of shares and, if they so provide, they must set out
 	- **(a)** the rights, privileges, restrictions and conditions attaching to the shares of each class; and
 	- **(b)** the maximum number, if any, of shares of any class that the bank is authorized to issue.
 
@@ -1498,7 +2123,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 **Effective date**
 
 - **(3)** A by-law referred to in subsection (1) is not effective until it is confirmed or confirmed with amendments by special resolution of the shareholders at the meeting referred to in subsection (2).
-> 1991, c. 46, s. 61; 2001, c. 9, s. 60.
+> 1991, c. 46, s. 61; 2001, c. 9, s. 60; 2010, c. 12, s. 1932.
 
 
 
@@ -1511,6 +2136,10 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 - **(1)** The by-laws of a bank may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
 	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
 	- **(b)** authorize the directors to do anything referred to in paragraph (a).
+
+**Effective date**
+
+- **(1.1)** In the case of a federal credit union, a by-law referred to in subsection (1) must be made by special resolution of the members. If the federal credit union has issued shares, the by-law is not effective until it is confirmed by a separate special resolution of the shareholders, the class of shareholders or the holders of the series of shares that is affected by the by-law.
 
 **Series participation**
 
@@ -1527,7 +2156,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 **Material to Superintendent**
 
 - **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent particulars of the series of shares and a copy of the by-law that granted the authority to the directors.
-> 1991, c. 46, s. 62; 2005, c. 54, s. 8; 2007, c. 6, s. 8(E).
+> 1991, c. 46, s. 62; 2005, c. 54, s. 8; 2007, c. 6, s. 8(E); 2010, c. 12, s. 1933.
 
 
 
@@ -1566,9 +2195,13 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 - **(1)** A bank shall maintain a separate stated capital account for each class and series of shares it issues.
 
+**Stated capital account — membership shares**
+
+- **(1.1)** A federal credit union must also maintain a stated capital account for the membership shares it issues.
+
 **Addition to stated capital account**
 
-- **(2)** A bank shall record in the appropriate stated capital account the full amount of any consideration it receives for any shares it issues.
+- **(2)** A bank must record in the appropriate stated capital account the full amount of any consideration it receives for any shares or membership shares it issues.
 
 **Exception**
 
@@ -1580,14 +2213,28 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 	- **(b)** under an agreement referred to in subsection 224(1); or
 	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated bank.
 
+**Exception**
+
+- **(3.1)** Despite subsection (2), a federal credit union may, subject to subsection (4), record in the stated capital account maintained for its membership shares any part of the consideration it receives in an exchange if it issues membership shares
+	- **(a)** in exchange for
+		- **(i)** property of a person who immediately before the exchange did not deal with the federal credit union at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the federal credit union at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the federal credit union at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the federal credit union and all of the holders of the membership shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 224(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the membership shares in addition to or instead of securities of the amalgamated bank.
+
 **Limit on addition to a stated capital account**
 
-- **(4)** On the issuance of a share, a bank shall not add to the stated capital account in respect of the share an amount greater than the amount of the consideration it receives for the share.
+- **(4)** On the issuance of a share or membership share, a bank must not add to the appropriate stated capital account an amount greater than the amount of the consideration it receives for the share or membership share.
 
 **Constraint on addition to a stated capital account**
 
 - **(5)** Where a bank that has issued any outstanding shares of more than one class or series proposes to add to a stated capital account that it maintains in respect of a class or series of shares an amount that was not received by the bank as consideration for the issue of shares, the addition must be approved by special resolution unless all the issued and outstanding shares are of not more than two classes of convertible shares referred to in subsection 77(4).
-> 1991, c. 46, s. 66; 1997, c. 15, s. 7; 2005, c. 54, s. 9.
+
+**Constraint — federal credit union**
+
+- **(6)** If the bank referred to in subsection (5) is a federal credit union, the addition must be approved by special resolution of the members and by a separate special resolution of the shareholders, the class of shareholders or the holders of the series of shares that is affected by the special resolution, unless all the issued and outstanding shares are of not more than two classes of convertible shares referred to in subsection 77(4).
+> 1991, c. 46, s. 66; 1997, c. 15, s. 7; 2005, c. 54, s. 9; 2010, c. 12, s. 1934.
 
 
 
@@ -1597,9 +2244,9 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **67** 
 
-- **(1)** Where a body corporate is continued as a bank under this Act, the bank shall record in the stated capital account maintained for each class and series of shares then outstanding an amount that is equal to the aggregate of
-	- **(a)** the aggregate amount paid up on the shares of each class and series of shares immediately before the body corporate was so continued, and
-	- **(b)** the amount of the contributed surplus of the bank that is attributable to those shares.
+- **(1)** If a body corporate is continued as a bank under this Act, the bank must record in the stated capital account maintained for each class and series of shares, or for other ownership interests, however designated, then outstanding an amount that is equal to the aggregate of
+	- **(a)** the aggregate amount paid up on the shares of each class and series of shares, or on the other ownership interests, immediately before the body corporate was so continued, and
+	- **(b)** the amount of the contributed surplus of the bank that is attributable to those shares or other ownership interests.
 
 **Contributed surplus entry**
 
@@ -1607,7 +2254,9 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **Shares issued before continuance**
 
-- **(3)** Any amount unpaid in respect of a share issued by a body corporate before it was continued as a bank under this Act and paid after it was so continued shall be recorded in the stated capital account maintained by the bank for the shares of that class or series.
+- **(3)** Any amount unpaid in respect of a share or other ownership interest, however designated, in the body corporate, that was issued by a body corporate before it was continued as a bank under this Act and paid after it was so continued must be recorded in the stated capital account maintained by the bank for the shares of that class or series or for membership shares.
+> 1991, c. 46, s. 67; 2010, c. 12, s. 1935.
+
 
 
 
@@ -1658,25 +2307,30 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 **70** Except as provided in sections 71 to 74, or unless permitted by the regulations, a bank shall not
 - **(a)** hold shares of the bank or of any body corporate that controls the bank;
 - **(b)** hold any ownership interests of any unincorporated entity that controls the bank;
-- **(c)** permit any of its subsidiaries to hold any shares of the bank or of any body corporate that controls the bank; or
+- **(c)** permit any of its subsidiaries to hold any shares of the bank or of any body corporate that controls the bank;
+- **(c.1)** if the bank is a federal credit union, permit any of its subsidiaries to hold any membership shares of the federal credit union, other than the minimum number of membership shares required by the by-laws of the federal credit union to qualify for membership in it, if any; or
 - **(d)** permit any of its subsidiaries to hold any ownership interests of any unincorporated entity that controls the bank.
+> 1991, c. 46, s. 70; 2010, c. 12, s. 1936.
 
 
 
 
-**Purchase and redemption of shares**
+
+**Purchase and redemption of shares and membership shares**
 
 **71** 
 
-- **(1)** Subject to subsection (2) and to its by-laws, a bank may, with the consent of the Superintendent, purchase, for the purpose of cancellation, any shares issued by it, or redeem any redeemable shares issued by it at prices not exceeding the redemption price thereof calculated according to a formula stated in its by-laws or the conditions attaching to the shares.
+- **(1)** Subject to subsection (2) and to its by-laws, a bank may, with the consent of the Superintendent, purchase, for the purpose of cancellation, any shares or membership shares issued by it, or redeem any redeemable shares or membership shares issued by it at prices not exceeding the redemption price for the shares or membership shares calculated according to a formula stated in its by-laws or the conditions attaching to the shares or membership shares.
 
 **Restrictions on purchase and redemption**
 
-- **(2)** A bank shall not make any payment to purchase or redeem any shares issued by it if there are reasonable grounds for believing that the bank is, or the payment would cause the bank to be, in contravention of any regulation referred to in subsection 485(1) or (2) or any direction made pursuant to subsection 485(3).
+- **(2)** A bank must not make any payment to purchase or redeem any shares or membership shares issued by it if there are reasonable grounds for believing that the bank is, or the payment would cause the bank to be, in contravention of any regulation referred to in subsection 485(1) or (2) or any direction made under subsection 485(3).
 
-**Donated shares**
+**Donated shares and membership shares**
 
-- **(3)** A bank may accept from any shareholder a share of the bank surrendered to it as a gift, but may not extinguish or reduce a liability in respect of an amount unpaid on any such share except in accordance with section 75.
+- **(3)** A bank may accept from any shareholder or member a share or membership share, as the case may be, of the bank surrendered to it as a gift, but may not extinguish or reduce a liability in respect of an amount unpaid on any such share or membership share except in accordance with section 75.
+> 1991, c. 46, s. 71; 2010, c. 12, s. 1937.
+
 
 
 
@@ -1685,7 +2339,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **72** 
 
-- **(1)** A bank may, and may permit its subsidiaries to, hold, in the capacity of a personal representative, shares of the bank or of any body corporate that controls the bank or ownership interests in any unincorporated entity that controls the bank, but only where the bank or the subsidiary does not have a beneficial interest in the shares or ownership interests.
+- **(1)** A bank may, and may permit its subsidiaries to, hold, in the capacity of a personal representative, shares of the bank — or, if the bank is a federal credit union, membership shares of the federal credit union — or of any body corporate that controls the bank or ownership interests in any unincorporated entity that controls the bank, but only if the bank or the subsidiary does not have a beneficial interest in the shares, membership shares or ownership interests.
 
 **Security interest**
 
@@ -1697,7 +2351,7 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Saving**
 
 - **(3)** Nothing in subsection (2) precludes a bank that was in existence immediately prior to the day this Part comes into force, or any of its subsidiaries, from holding any security interest held immediately prior to the coming into force of this Part.
-> 1991, c. 46, s. 72; 2005, c. 54, s. 10(F).
+> 1991, c. 46, s. 72; 2005, c. 54, s. 10(F); 2010, c. 12, s. 1938.
 
 
 
@@ -1722,15 +2376,17 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 
 
-**Cancellation of shares**
+**Cancellation of shares and membership shares**
 
 **73** 
 
-- **(1)** Subject to subsection (2), where a bank purchases shares of the bank or fractions thereof or redeems or otherwise acquires shares of the bank, the bank shall cancel those shares.
+- **(1)** Subject to subsection (2), if a bank purchases shares of the bank or fractions of shares, or membership shares of the bank, or redeems or otherwise acquires shares or membership shares of the bank, the bank must cancel those shares or membership shares.
 
 **Requirement to sell**
 
 - **(2)** Where a bank or any of its subsidiaries, through the realization of security, acquires any shares of the bank or of any body corporate that controls the bank or any ownership interests in an unincorporated entity that controls the bank, the bank shall, or shall cause its subsidiaries to, as the case may be, within six months after the day of the realization, sell or otherwise dispose of the shares or ownership interests.
+> 1991, c. 46, s. 73; 2010, c. 12, s. 1939.
+
 
 
 
@@ -1746,7 +2402,11 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 **75** 
 
-- **(1)** The stated capital of a bank may be reduced by special resolution.
+- **(1)** The stated capital of a bank that is not a federal credit union may be reduced by special resolution.
+
+**Reduction of capital — federal credit unions**
+
+- **(1.1)** The stated capital of a federal credit union may be reduced by special resolution of its members and, if it has issued shares, by a separate special resolution of the shareholders, the class of shareholders or the holders of the series of shares that is affected by the special resolution.
 
 **Limitation**
 
@@ -1764,7 +2424,7 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 - **(4.1)** Subsection (4) does not apply if
 	- **(a)** the reduction in the stated capital is made solely as a result of changes made to the accounting principles referred to in subsection 308(4); and
-	- **(b)** there is to be no return of capital to shareholders as a result of the reduction.
+	- **(b)** there is to be no return of capital to shareholders or members, as the case may be, as a result of the reduction.
 
 **Conditions for approval**
 
@@ -1773,12 +2433,12 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Statements to be submitted**
 
 - **(6)** In addition to evidence of the passing of a special resolution to reduce the stated capital of a bank and of the publication thereof, statements showing
-	- **(a)** the number of the bank’s shares issued and outstanding,
-	- **(b)** the results of the voting by class of shares of the bank,
+	- **(a)** the number of the bank’s shares or membership shares, as the case may be, issued and outstanding,
+	- **(b)** the results of the voting,
 	- **(c)** the bank’s assets and liabilities, and
 	- **(d)** the reason why the bank seeks the reduction of capital
 shall be submitted to the Superintendent at the time of the application for approval of the special resolution.
-> 1991, c. 46, s. 75; 2007, c. 6, s. 10.
+> 1991, c. 46, s. 75; 2007, c. 6, s. 10; 2010, c. 12, s. 1940.
 
 
 
@@ -1788,11 +2448,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **76** 
 
-- **(1)** Where any money or property was paid or distributed to a shareholder or other person as a consequence of a reduction of capital made contrary to section 75, a creditor of the bank may apply to a court for an order compelling the shareholder or other person to pay the money or deliver the property to the bank.
+- **(1)** If any money or property was paid or distributed to a shareholder, member or other person as a consequence of a reduction of capital made contrary to section 75, a creditor of the bank may apply to a court for an order compelling the shareholder, member or other person to pay the money or deliver the property to the bank.
 
-**Shares held by personal representative**
+**Shares and membership shares held by personal representative**
 
-- **(2)** No person holding shares in the capacity of a personal representative and registered on the records of the bank as a shareholder and therein described as the personal representative of a named person is personally liable under subsection (1), but the named person is subject to all the liabilities imposed by that subsection.
+- **(2)** No person holding shares or membership shares in the capacity of a personal representative and registered on the records of the bank as a shareholder or member and described in those records as the personal representative of a named person is personally liable under subsection (1), but the named person is subject to all the liabilities imposed by that subsection.
 
 **Limitation**
 
@@ -1801,6 +2461,8 @@ shall be submitted to the Superintendent at the time of the application for appr
 **Remedy preserved**
 
 - **(4)** This section does not affect any liability that arises under section 207.
+> 1991, c. 46, s. 76; 2010, c. 12, s. 1941.
+
 
 
 
@@ -1809,7 +2471,7 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **77** 
 
-- **(1)** On a purchase, redemption or other acquisition by a bank of shares or fractions thereof issued by it, other than shares acquired pursuant to section 72 or acquired through the realization of security and sold pursuant to subsection 73(2), the bank shall deduct from the stated capital account maintained for the class or series of shares so purchased, redeemed or otherwise acquired an amount equal to the result obtained by multiplying the stated capital in respect of the shares of that class or series by the number of shares of that class or series so purchased, redeemed or otherwise acquired and dividing by the number of shares of that class or series outstanding immediately before the purchase, redemption or other acquisition.
+- **(1)** On a purchase, redemption or other acquisition by a bank of shares or fractions of shares, or of membership shares, issued by it, other than shares or membership shares acquired under section 72 or acquired through the realization of security and sold under subsection 73(2), the bank must deduct from the stated capital account maintained for the class or series of shares, or for the membership shares, as the case may be, so purchased, redeemed or otherwise acquired an amount equal to the result obtained by multiplying the stated capital in respect of the shares of that class or series, or in respect of the membership shares, as the case may be, by the number of shares of that class or series, or the number of membership shares, as the case may be, so purchased, redeemed or otherwise acquired and dividing by the number of shares of that class or series, or the number of membership shares, as the case may be, outstanding immediately before the purchase, redemption or other acquisition.
 
 **Idem**
 
@@ -1827,40 +2489,136 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Conversion or change of shares**
 
-- **(5)** Shares issued by a bank and converted into shares of another class or series, or changed under subsection 217(1) into shares of another class or series, become issued shares of the class or series of shares into which the shares have been converted or changed.
+- **(5)** Shares issued by a bank and converted into shares of another class or series, or changed under subsection 192.03(1) or 217(1) into shares of another class or series, become issued shares of the class or series of shares into which the shares have been converted or changed.
+> 1991, c. 46, s. 77; 2010, c. 12, s. 1942.
+
 
 
 
 
 **Addition to stated capital account**
 
-**78** On a conversion of any debt obligation of a bank into shares of a class or series of shares, the bank shall
+**78** On a conversion of any debt obligation of a bank into shares of a class or series of shares, or into membership shares, the bank must
 - **(a)** deduct from the liabilities of the bank the nominal value of the debt obligation being converted; and
-- **(b)** record the result obtained under paragraph (a) and any additional consideration received for the conversion in the stated capital account maintained or to be maintained for the class or series of shares into which the debt obligation has been converted.
+- **(b)** record the result obtained under paragraph (a) and any additional consideration received for the conversion in the stated capital account maintained or to be maintained for the class or series of shares, or for the membership shares, as the case may be, into which the debt obligation has been converted.
+> 1991, c. 46, s. 78; 2010, c. 12, s. 1943.
 
 
 
 
-**Declaration of dividend**
+
+**Declaration of dividend or patronage allocation**
 
 **79** 
 
-- **(1)** The directors of a bank may declare and a bank may pay a dividend by issuing fully paid shares of the bank or options or rights to acquire fully paid shares of the bank and, subject to subsection (4), the directors of a bank may declare and a bank may pay a dividend in money or property, and if a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
+- **(1)** The directors of a bank may declare and a bank may pay a dividend or patronage allocation by issuing fully paid shares or, subject to subsection 79.2(1), membership shares of the bank or options or rights to acquire fully paid shares or membership shares of the bank and, subject to subsection (4), the directors of a bank may declare and a bank may pay a dividend or patronage allocation in money or property, and if a dividend or patronage allocation is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
 
 **Notice to Superintendent**
 
 - **(2)** The directors of a bank shall notify the Superintendent of the declaration of a dividend at least 15 days before the day fixed for its payment.
 
-**Share dividend**
+**Stated capital account**
 
-- **(3)** If shares of a bank are issued in payment of a dividend, the bank shall record in the stated capital account maintained or to be maintained for the shares of the class or series issued in payment of the dividend the declared amount of the dividend stated as an amount of money.
+- **(3)** If shares or membership shares of a bank are issued in payment of a dividend or patronage allocation, the bank must record in the stated capital account maintained or to be maintained for the shares of the class or series, or for the membership shares, issued in payment of the dividend or patronage allocation the declared amount of the dividend or patronage allocation stated as an amount of money.
 
-**When dividend not to be declared**
+**When dividend or patronage allocation not to be declared**
 
-- **(4)** The directors of a bank shall not declare and a bank shall not pay a dividend if there are reasonable grounds for believing that the bank is, or the payment would cause the bank to be, in contravention of any regulation referred to in subsection 485(1) or (2) or any direction made pursuant to subsection 485(3).
+- **(4)** The directors of a bank must not declare and a bank must not pay a dividend or patronage allocation if there are reasonable grounds for believing that the bank is, or the payment would cause the bank to be, in contravention of any regulation referred to in subsection 485(1) or (2) or any direction made under subsection 485(3).
 
 - **(5)** [Repealed, 2007, c. 6, s. 11]
-> 1991, c. 46, s. 79; 2001, c. 9, s. 61; 2007, c. 6, s. 11.
+> 1991, c. 46, s. 79; 2001, c. 9, s. 61; 2007, c. 6, s. 11; 2010, c. 12, s. 1944.
+
+
+
+
+
+### Membership Capital
+
+
+
+**Membership shares**
+
+**79.1** 
+
+- **(1)** A federal credit union may have only one class of membership shares in which the rights of their holders are equal in all respects, and those rights include the right to receive
+	- **(a)** dividends declared on those membership shares; and
+	- **(b)** the remaining property of the federal credit union on dissolution.
+
+**Consideration for membership share**
+
+- **(2)** No membership share of a federal credit union is to be issued until it is fully paid for in money or, with the approval of the Superintendent, in property.
+
+**Other currencies**
+
+- **(3)** When issuing membership shares, a federal credit union may provide that any aspect of the membership shares relating to money or involving the payment of or the liability to pay money be in a currency other than the currency of Canada.
+> 2010, c. 12, s. 1945.
+
+
+
+
+
+**Membership shares**
+
+**79.2** 
+
+- **(1)** Membership shares may be held only by members.
+
+**No right to vote**
+
+- **(2)** The right to vote attaches to membership and not to a membership share.
+
+**Preferences, rights, etc.**
+
+- **(3)** A federal credit union’s letters patent or by-laws may not include any preference, right, condition, restriction, limitation or prohibition on membership shares, except as provided for by this Act.
+> 2010, c. 12, s. 1945.
+
+
+
+
+
+**Issue of certificates**
+
+**79.3** 
+
+- **(1)** The by-laws of a federal credit union may provide that no membership share certificates need be issued and, if they so provide, the federal credit union must, on the request of a member, issue a statement of the number of membership shares held by the member.
+
+**Certificates**
+
+- **(2)** The face of each certificate that the federal credit union issues in respect of membership shares must contain
+	- **(a)** the name of the federal credit union;
+	- **(b)** a statement that the federal credit union is subject to this Act;
+	- **(c)** the name of the person to whom it is issued;
+	- **(d)** a statement that the certificate represents membership shares in the federal credit union, and the number of the membership shares represented by the certificate;
+	- **(e)** a statement that the certificate is transferable only in accordance with this Act; and
+	- **(f)** a statement that there is a charge on the membership shares represented by the certificate in favour of the federal credit union for any indebtedness of the member to the federal credit union.
+> 2010, c. 12, s. 1945.
+
+
+
+
+
+**Authorized capital**
+
+**79.4** The membership shares of a federal credit union must be issued with no par value, and its by-laws must specify any limit on the number of membership shares and set out the formula to be used to determine the value of the membership shares.
+> 2010, c. 12, s. 1945.
+
+
+
+
+
+**Membership shares non-assessable**
+
+**79.5** Membership shares issued by a federal credit union are non-assessable, and their holders are not liable to the federal credit union or to its creditors in respect of those membership shares.
+> 2010, c. 12, s. 1945.
+
+
+
+
+
+**Continued body corporate**
+
+**79.6** A body corporate that is continued as a federal credit union under this Act and that is not in compliance with section 79.1 on the date letters patent continuing it as a federal credit union are issued must, within 12 months after that date, redesignate a class of its shares to comply with that section.
+> 2010, c. 12, s. 1945.
 
 
 
@@ -1899,60 +2657,42 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **81** In this section and sections 82 to 135,
 
-***adverse claim*** includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest in a security;
+***adverse claim*** includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest in a security; (*opposition*)
 
+****bona fide* purchaser*** means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of a security in bearer form or order form or of a security in registered form issued to the purchaser or endorsed to the purchaser or endorsed in blank; (*acheteur de bonne foi*)
 
-****bona fide* purchaser
-*** means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of a security in bearer form or order form or of a security in registered form issued to the purchaser or endorsed to the purchaser or endorsed in blank;
+***clearing agency*** means a person designated as a recognized clearing agency by the Superintendent; (*agence de compensation et de dépôt*)
 
+***delivery*** means voluntary transfer of possession; (*livraison* ou *remise*)
 
-***clearing agency*** means a person designated as a recognized clearing agency by the Superintendent;
+***fungible***, in respect of securities, means securities of which any unit is, by nature or usage of trade, the equivalent of any other like unit; (*fongibles*)
 
+***genuine*** means free of forgery or counterfeit; (*authentique*)
 
- ou 
-***delivery*** means voluntary transfer of possession;
+***good faith*** means honesty in fact in the conduct of the transaction concerned; (*bonne foi*)
 
+***over-issue*** means the issue of securities in excess of any maximum number of securities that the issuer is authorized to issue; (*émission excédentaire*)
 
-***fungible***, in respect of securities, means securities of which any unit is, by nature or usage of trade, the equivalent of any other like unit;
+***purchaser*** means a person who takes an interest in a security by sale, mortgage, pledge, issue, reissue, gift or any other voluntary transaction; (*acquéreur*)
 
-
-***genuine*** means free of forgery or counterfeit;
-
-
-***good faith*** means honesty in fact in the conduct of the transaction concerned;
-
-
-***over-issue*** means the issue of securities in excess of any maximum number of securities that the issuer is authorized to issue;
-
-
-***purchaser*** means a person who takes an interest in a security by sale, mortgage, pledge, issue, reissue, gift or any other voluntary transaction;
-
-
- or 
- ou 
-***security*** or 
-***security certificate*** means an instrument issued by a bank that is
-
+***security*** or ***security certificate*** means an instrument issued by a bank that is
 - **(a)** in bearer, order or registered form,
 - **(b)** of a type commonly dealt in on securities exchanges or markets or commonly recognized in any area in which it is issued or dealt in as a medium for investment,
 - **(c)** one of a class or series or by its terms divisible into a class or series of instruments, and
 - **(d)** evidence of a share, participation or other interest in or obligation of a bank,
 
-but does not include an instrument evidencing a deposit;
+but does not include an instrument evidencing a deposit or, in the case of a federal credit union, a membership share; (*valeur mobilière* ou *certificat de valeur mobilière*)
 
-***securities broker*** means a person who is engaged for all or part of the person’s time in the business of buying and selling securities and who, in the transaction concerned, acts for, or buys a security from, or sells a security to, a customer;
+***securities broker*** means a person who is engaged for all or part of the person’s time in the business of buying and selling securities and who, in the transaction concerned, acts for, or buys a security from, or sells a security to, a customer; (*courtier*)
 
+***trust indenture*** has the meaning given that expression by section 294; (*acte de fiducie*)
 
-***trust indenture*** has the meaning given that expression by section 294;
+***unauthorized***, in relation to a signature or an endorsement, means a signature or an endorsement made without actual, implied or apparent authority, and includes a forgery; (*non autorisé*)
 
+***uncertificated security*** means a security, not evidenced by a security certificate, the issue and any transfer of which is registered or recorded in records maintained for that purpose by or on behalf of a bank; (*valeur mobilière sans certificat*)
 
-***unauthorized***, in relation to a signature or an endorsement, means a signature or an endorsement made without actual, implied or apparent authority, and includes a forgery;
-
-
-***uncertificated security*** means a security, not evidenced by a security certificate, the issue and any transfer of which is registered or recorded in records maintained for that purpose by or on behalf of a bank;
-
-
-***valid*** means issued in accordance with the applicable law or validated under section 97.
+***valid*** means issued in accordance with the applicable law or validated under section 97. (*valide*)
+> 1991, c. 46, s. 81; 2010, c. 12, s. 1946.
 
 
 
@@ -2764,7 +3504,7 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 
 
-### Shareholders
+### Shareholders and Members
 
 
 
@@ -2772,16 +3512,16 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **136** 
 
-- **(1)** Meetings of shareholders of a bank shall be held at the place within Canada provided for in the by-laws of the bank or, in the absence of any such provision, at the place within Canada that the directors determine.
+- **(1)** Meetings of shareholders or members of a bank are to be held at the place within Canada provided for in the by-laws of the bank or, in the absence of any such provision, at the place within Canada that the directors determine.
 
 **Participation by electronic means**
 
-- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the bank makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Act to be present at the meeting.
+- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders or members may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the bank makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Act to be present at the meeting.
 
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations respecting the manner of and conditions for participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting.
-> 1991, c. 46, s. 136; 2005, c. 54, s. 16.
+> 1991, c. 46, s. 136; 2005, c. 54, s. 16; 2010, c. 12, s. 1948.
 
 
 
@@ -2792,8 +3532,8 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 **137** 
 
 - **(1)** The directors of a bank
-	- **(a)** shall, after the meeting called pursuant to subsection 46(1), call the first annual meeting of shareholders of the bank, which meeting must be held not later than six months after the end of the first financial year of the bank, and subsequently call an annual meeting of shareholders, which meeting must be held not later than six months after the end of each financial year; and
-	- **(b)** may at any time call a special meeting of shareholders.
+	- **(a)** must, after the meeting called under subsection 46(1) or section 47.02, call the first annual meeting of shareholders or members, as the case may be, of the bank, which meeting must be held not later than six months after the end of the first financial year of the bank, and subsequently call an annual meeting of shareholders or members, as the case may be, which meeting must be held not later than six months after the end of each financial year; and
+	- **(b)** may at any time call a special meeting of shareholders or members.
 
 **Order to delay calling annual meeting**
 
@@ -2809,26 +3549,26 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Authority to fix record date**
 
-- **(5)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of shareholders for any purpose, including for a determination of which shareholders are entitled to
-	- **(a)** receive payment of a dividend;
+- **(5)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of shareholders or members for any purpose, including for a determination of which shareholders or members are entitled to
+	- **(a)** receive payment of a dividend or a patronage allocation;
 	- **(b)** participate in a liquidation distribution;
-	- **(c)** receive notice of a meeting of shareholders; or
-	- **(d)** vote at a meeting of shareholders.
+	- **(c)** receive notice of a meeting of shareholders or members; or
+	- **(d)** vote at a meeting of shareholders or members.
 
 **Determination of record date**
 
 - **(6)** If no record date is fixed,
-	- **(a)** the record date for the determination of shareholders who are entitled to receive notice of a meeting of shareholders is
+	- **(a)** the record date for the determination of shareholders or members who are entitled to receive notice of a meeting is
 		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
 		- **(ii)** if no notice is given, the day on which the meeting is held; and
-	- **(b)** the record date for the determination of shareholders for any other purpose, other than to establish a shareholder’s right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
+	- **(b)** the record date for the determination of shareholders or members for any other purpose, other than to establish a right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
 
 **Notice of record date**
 
 - **(7)** If a record date is fixed and unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the securities register at the close of business on the day on which the directors fix the record date, notice of the record date shall be given within the prescribed period by
 	- **(a)** advertisement in a newspaper in general circulation in the place where the bank’s head office is situated and in each place in Canada where the bank has a transfer agent or where a transfer of its shares may be recorded; and
 	- **(b)** written notice to each stock exchange in Canada on which the bank’s shares are listed for trading.
-> 1991, c. 46, s. 137; 2005, c. 54, s. 17.
+> 1991, c. 46, s. 137; 2005, c. 54, s. 17; 2010, c. 12, s. 1949.
 
 
 
@@ -2838,24 +3578,24 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **138** 
 
-- **(1)** Notice of the time and place of a meeting of shareholders of a bank shall be sent within the prescribed period to
-	- **(a)** each shareholder entitled to vote at the meeting;
+- **(1)** Notice of the time and place of a meeting of shareholders or members of a bank must be sent within the prescribed period to
+	- **(a)** each shareholder or member entitled to vote at the meeting;
 	- **(b)** each director;
 	- **(c)** the auditor or auditors of the bank; and
 	- **(d)** the Superintendent.
 
 **Exception**
 
-- **(1.01)** In the case of a bank that is not a distributing bank, notice may be sent within any shorter period specified in its by-laws.
+- **(1.01)** In the case of a bank that is not a federal credit union and that is not a distributing bank, notice may be sent within any shorter period specified in its by-laws.
 
 **Number of eligible votes**
 
-- **(1.1)** A bank with equity of twelve billion dollars or more shall set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining those shareholders entitled to receive the notice of meeting or, if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
+- **(1.1)** A bank with equity of twelve billion dollars or more that is not a federal credit union must set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining shareholders entitled to receive the notice of meeting or, if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
 
 **Publication in newspaper**
 
 - **(2)** In addition to the notice required under subsection (1), where any class of shares of a bank is publicly traded on a recognized stock exchange in Canada, notice of the time and place of a meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in general circulation in the place where the head office of the bank is situated and in each place in Canada where the bank has a transfer agent or where a transfer of the bank’s shares may be recorded.
-> 1991, c. 46, s. 138; 2001, c. 9, s. 63; 2005, c. 54, s. 18; 2007, c. 6, s. 132; 2012, c. 5, s. 5.
+> 1991, c. 46, s. 138; 2001, c. 9, s. 63; 2005, c. 54, s. 18; 2007, c. 6, s. 132; 2010, c. 12, s. 1950; 2012, c. 5, ss. 5, 223.
 
 
 
@@ -2865,12 +3605,12 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **139** 
 
-- **(1)** A notice of a meeting is not required to be sent to shareholders who are not registered on the records of the bank or the bank’s transfer agent on the record date fixed under paragraph 137(5)(c) or determined under paragraph 137(6)(a).
+- **(1)** A notice of a meeting is not required to be sent to shareholders or members who are not registered on the records of the bank or the bank’s transfer agent on the record date fixed under paragraph 137(5)(c) or determined under paragraph 137(6)(a).
 
 **Effect of default**
 
-- **(2)** Failure to receive a notice of a meeting of shareholders does not deprive a shareholder of the right to vote at the meeting.
-> 1991, c. 46, s. 139; 2005, c. 54, s. 19.
+- **(2)** Failure to receive a notice of a meeting does not deprive a shareholder or member of the right to vote at the meeting.
+> 1991, c. 46, s. 139; 2005, c. 54, s. 19; 2010, c. 12, s. 1951.
 
 
 
@@ -2880,12 +3620,12 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **140** 
 
-- **(1)** If a meeting of shareholders is adjourned for less than thirty days, it is not necessary, unless the by-laws otherwise provide, to give notice of the adjourned meeting, other than by announcement at the earliest meeting that is adjourned.
+- **(1)** If a meeting is adjourned for less than 30 days, it is not necessary, unless the by-laws otherwise provide, to give notice of the adjourned meeting, other than by announcement at the earliest meeting that is adjourned.
 
-**Notice where adjournment is longer**
+**Notice if adjournment is longer**
 
-- **(2)** If a meeting of shareholders is adjourned by one or more adjournments for a total of thirty days or more, notice of the continuation of the meeting shall be given as for an original meeting but, unless the meeting is adjourned by one or more adjournments for a total of more than ninety days, subsection 156.04(1) does not apply.
-> 1991, c. 46, s. 140; 1997, c. 15, s. 8.
+- **(2)** If a meeting is adjourned by one or more adjournments for a total of 30 days or more, notice of the continuation of the meeting must be given as for an original meeting but, unless the meeting is adjourned by one or more adjournments for a total of more than 90 days, subsection 156.04(1) does not apply.
+> 1991, c. 46, s. 140; 1997, c. 15, s. 8; 2010, c. 12, s. 1952(E).
 
 
 
@@ -2895,13 +3635,32 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **141** 
 
-- **(1)** All matters dealt with at a special meeting of shareholders and all matters dealt with at an annual meeting of shareholders, except consideration of the financial statements, report of the auditor or auditors, election of directors, remuneration of directors and reappointment of the incumbent auditor or auditors, are deemed to be special business.
+- **(1)** All matters dealt with at a special meeting of shareholders or members and all matters dealt with at an annual meeting, except consideration of the financial statements, report of the auditor or auditors, election of directors, remuneration of directors and reappointment of the incumbent auditor or auditors, are deemed to be special business.
 
 **Notice of special business**
 
-- **(2)** Notice of a meeting of shareholders at which special business is to be transacted must
-	- **(a)** state the nature of the special business in sufficient detail to permit a shareholder to form a reasoned judgment thereon; and
+- **(2)** Notice of a meeting of shareholders or members at which special business is to be transacted must
+	- **(a)** state the nature of the special business in sufficient detail to permit a shareholder or member to form a reasoned judgment in respect of that special business; and
 	- **(b)** contain the text of any special resolution to be submitted to the meeting.
+> 1991, c. 46, s. 141; 2010, c. 12, s. 1953.
+
+
+
+
+
+**Nominations for directors**
+
+**141.1** 
+
+- **(1)** If shareholders of a federal credit union are entitled to elect one or more directors,
+	- **(a)** a nomination for the election of a director may be made only by one or more registered holders or beneficial owners of shares representing in the aggregate not less than 5 per cent of the shares of the federal credit union or 5 per cent of the shares of a class of its shares entitled to vote at the meeting at which the election is to take place; and
+	- **(b)** a notice of a meeting of shareholders must include any nomination made in accordance with paragraph (a) for the election of a director.
+
+**Exception**
+
+- **(2)** Paragraph (1)(b) does not apply if the nomination is submitted to the federal credit union at least the prescribed number of days before the anniversary date of the previous annual meeting.
+> 2010, c. 12, s. 1954.
+
 
 
 
@@ -2910,12 +3669,12 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **142** 
 
-- **(1)** A shareholder and any other person entitled to attend a meeting of shareholders may in any manner waive notice of a meeting of shareholders.
+- **(1)** A shareholder, a member and any other person entitled to attend a meeting may in any manner waive notice of the meeting.
 
-**Idem**
+**Attendance is a waiver**
 
-- **(2)** Attendance at a meeting of shareholders is a waiver of notice of the meeting, except when a person attends the meeting for the express purpose of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
-> 1991, c. 46, s. 142; 2001, c. 9, s. 64(F).
+- **(2)** Attendance at a meeting of shareholders or members is a waiver of notice of the meeting, except when a person attends the meeting for the express purpose of objecting to the transaction of any business on the grounds that the meeting is not lawfully called.
+> 1991, c. 46, s. 142; 2001, c. 9, s. 64(F); 2010, c. 12, s. 1955.
 
 
 
@@ -2925,7 +3684,7 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **143** 
 
-- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares that may be voted at an annual meeting of shareholders may
+- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares of a bank that is not a federal credit union that may be voted at an annual meeting of shareholders may
 	- **(a)** submit to the bank notice of any matter that they propose to raise at the meeting (in this section and section 144 referred to as a “proposal”); and
 	- **(b)** discuss at the meeting any matter in respect of which they would have been entitled to submit a proposal.
 
@@ -2978,7 +3737,7 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 **Immunity for proposal and statement**
 
 - **(6)** No bank or person acting on behalf of a bank incurs any liability by reason only of circulating a proposal or statement in compliance with subsections (2) and (3).
-> 1991, c. 46, s. 143; 1997, c. 15, s. 9; 2005, c. 54, s. 20.
+> 1991, c. 46, s. 143; 1997, c. 15, s. 9; 2005, c. 54, s. 20; 2010, c. 12, s. 1956.
 
 
 
@@ -3007,6 +3766,83 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 
 
+**Proposals — members of federal credit union**
+
+**144.1** 
+
+- **(1)** Subject to subsections (2) and (3), a member of a federal credit union may
+	- **(a)** submit to the federal credit union notice of any matter that they propose to raise at an annual meeting (in this section referred to as a “proposal”); and
+	- **(b)** discuss at an annual meeting any matter in respect of which they would have been entitled to submit a proposal.
+
+**Eligibility to submit proposal**
+
+- **(2)** To be eligible to submit a proposal a member must have been a member of the federal credit union for at least the prescribed period before making the proposal.
+
+**Information to be provided**
+
+- **(3)** A proposal is to be accompanied by a statement setting out the name and address of the member submitting the proposal and the period of time the member has been a member.
+
+**Information not part of proposal**
+
+- **(4)** The information provided under subsection (3) does not form part of a proposal or of the supporting statement referred to in subsection (6) and is not included for the purposes of the prescribed maximum number of words referred to in subsection (6).
+
+**Proof may be required**
+
+- **(5)** If the federal credit union requests within the prescribed period that a member provide proof that they are eligible to submit a proposal, the member must within the prescribed period provide proof that they meet the requirement of subsection (2).
+
+**Proposal and statement to accompany notice of meeting**
+
+- **(6)** A proposal submitted for consideration at a meeting must be attached to the notice of the meeting, together with, if requested by the member making the proposal, a statement in support of the proposal and the name and address of the member making the proposal. The statement and the proposal must together not exceed the prescribed maximum number of words.
+
+**Nomination of directors**
+
+- **(7)** A proposal may include nominations for the election of directors if it is signed by the lesser of 250 members and 1 per cent of the members who are entitled to vote at the meeting.
+
+**Exceptions**
+
+- **(8)** A federal credit union need not comply with subsection (6) if
+	- **(a)** the proposal is not submitted to the federal credit union at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to members in connection with the previous annual meeting;
+	- **(b)** it clearly appears that the primary purpose of the proposal is to enforce a personal claim or redress a personal grievance against the federal credit union or its directors, officers, members or security holders;
+	- **(c)** the person submitting the proposal has failed, within the prescribed period before the federal credit union receives the person’s proposal, to present, at a meeting, a proposal that, at the person’s request, had been attached by the federal credit union to the notice of the meeting;
+	- **(d)** substantially the same proposal was attached to a notice of meeting, and presented at a meeting, of the federal credit union held not more than the prescribed period before the receipt of the proposal and the proposal did not receive the prescribed minimum amount of support at the meeting; or
+	- **(e)** the rights conferred by subsection (1) are being abused to secure publicity.
+
+**Federal credit union may refuse to include proposal**
+
+- **(9)** If a member who submits a proposal withdraws from membership in accordance with section 47.05 before the meeting, the federal credit union is not required to attach any proposal submitted by that member to the notice of a meeting held within the prescribed period following the date of the meeting.
+
+**Immunity**
+
+- **(10)** No federal credit union or person acting on behalf of a federal credit union incurs any liability by reason only of circulating a proposal.
+> 2010, c. 12, s. 1957.
+
+
+
+
+
+**Refusal to include proposal**
+
+**144.2** 
+
+- **(1)** If a federal credit union refuses to include a proposal in a notice of a meeting referred to in section 138, it must, within the prescribed period after the day on which it receives the proposal or the day on which it receives the proof of eligibility under subsection 144.1(5), as the case may be, notify in writing the person submitting the proposal of its intention to omit the proposal from the notice and of the reasons for the refusal.
+
+**Restraining order by court**
+
+- **(2)** On the application of a person submitting a proposal who claims to be aggrieved by a federal credit union’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order it thinks fit.
+
+**Order to omit proposal from notice**
+
+- **(3)** A federal credit union or any person claiming to be aggrieved by a proposal may apply to a court for an order permitting the federal credit union to omit the proposal from a notice of meeting, and the court, if it is satisfied that subsection 144.1(7) applies, may make any order that it thinks fit.
+
+**Notice to Superintendent**
+
+- **(4)** An applicant under subsection (2) or (3) must give the Superintendent written notice of the application, and the Superintendent may appear and be heard at the hearing of the application in person or by counsel.
+> 2010, c. 12, s. 1957.
+
+
+
+
+
 **List of shareholders entitled to notice**
 
 **145** 
@@ -3015,10 +3851,22 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 	- **(a)** if a record date is fixed under paragraph 137(5)(c), no later than 10 days after that date; and
 	- **(b)** if no record date is fixed, on the record date determined under paragraph 137(6)(a).
 
+**List of members entitled to notice**
+
+- **(1.1)** A federal credit union must also prepare an alphabetical list of members entitled to receive notice of a meeting
+	- **(a)** if a record date is fixed under paragraph 137(5)(c), no later than 10 days after that date; or
+	- **(b)** if no record date is fixed, on the record date determined under paragraph 137(6)(a).
+
 **Voting list**
 
 - **(2)** The bank shall prepare an alphabetical list of shareholders entitled to vote as of the record date showing the number of shares held by each shareholder
 	- **(a)** if a record date is fixed under paragraph 137(5)(d), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed under paragraph 137(5)(d), no later than 10 days after a record date is fixed under paragraph 137(5)(c) or no later than the record date determined under paragraph 137(6)(a), as the case may be.
+
+**Voting list — members**
+
+- **(2.1)** A federal credit union must also prepare an alphabetical list of members entitled to vote as of the record date
+	- **(a)** if a record date is fixed under paragraph 137(5)(d), no later than 10 days after that date; or
 	- **(b)** if no record date is fixed under paragraph 137(5)(d), no later than 10 days after a record date is fixed under paragraph 137(5)(c) or no later than the record date determined under paragraph 137(6)(a), as the case may be.
 
 **Entitlement to vote**
@@ -3027,10 +3875,16 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Examination of list**
 
-- **(4)** A shareholder may examine the list of shareholders
+- **(4)** A shareholder of a bank that is not a federal credit union may examine the list of shareholders
 	- **(a)** during usual business hours at the head office of the bank or at the place where its central securities register is maintained; and
 	- **(b)** at the meeting of shareholders for which the list was prepared.
-> 1991, c. 46, s. 145; 2001, c. 9, s. 65; 2005, c. 54, s. 22.
+
+**Examination of list**
+
+- **(5)** A person who is entitled to vote at a meeting of a federal credit union may examine a list that relates to the meeting
+	- **(a)** during usual business hours at the head office of the federal credit union or at the place where its members register or central securities register is maintained; and
+	- **(b)** at the meeting for which the list was prepared.
+> 1991, c. 46, s. 145; 2001, c. 9, s. 65; 2005, c. 54, s. 22; 2010, c. 12, s. 1958.
 
 
 
@@ -3042,13 +3896,19 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 - **(1)** Unless the by-laws otherwise provide, a quorum of shareholders is present at a meeting of shareholders if the holders of a majority of the shares who are entitled to vote at the meeting are present in person or represented by proxyholders.
 
-**Idem**
+**Quorum — members**
 
-- **(2)** If a quorum is present at the opening of a meeting of shareholders, the shareholders present may, unless the by-laws otherwise provide, proceed with the business of the meeting, notwithstanding that a quorum is not present throughout the meeting.
+- **(2)** Unless the by-laws otherwise provide, a quorum of members is present at a meeting of members of a federal credit union if at least 500 members who are entitled to vote at the meeting, or one per cent of the total number of members entitled to vote at the meeting, whichever is the lesser, are present in person or represented by a personal representative or delegate.
 
-**Idem**
+**Quorum at opening of meeting**
 
-- **(3)** If a quorum is not present at the opening of a meeting of shareholders, the shareholders present may adjourn the meeting to a fixed time and place but may not transact any other business.
+- **(3)** If a quorum is present at the opening of a meeting of shareholders or members, the shareholders or members present may, unless the by-laws otherwise provide, proceed with the business of the meeting even though a quorum is not present throughout the meeting.
+
+**Adjournment permitted**
+
+- **(4)** If a quorum is not present at the opening of a meeting of shareholders or members, the shareholders or members present may adjourn the meeting to a fixed time and place but may not transact any other business.
+> 1991, c. 46, s. 146; 2010, c. 12, s. 1959.
+
 
 
 
@@ -3069,15 +3929,17 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 
 
-**Representative shareholder**
+**Representative of shareholder or member**
 
 **149** 
 
-- **(1)** If an entity is a shareholder of a bank, the bank shall recognize any natural person authorized by a resolution of the directors or governing body or similar authority of the entity to represent it at meetings of shareholders of the bank.
+- **(1)** If an entity is a shareholder or member of a bank, the bank must recognize any natural person authorized by a resolution of the directors or governing body or similar authority of the entity to represent it at meetings of shareholders or members of the bank.
 
-**Idem**
+**Powers**
 
-- **(2)** A natural person authorized under subsection (1) to represent an entity may exercise on behalf of the entity all the powers the entity could exercise if it were a natural person as well as a shareholder.
+- **(2)** A natural person authorized under subsection (1) to represent an entity may exercise on behalf of the entity all the powers the entity could exercise if it were a natural person as well as a shareholder or member.
+> 1991, c. 46, s. 149; 2010, c. 12, s. 1960.
+
 
 
 
@@ -3093,11 +3955,11 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **151** 
 
-- **(1)** Unless the by-laws otherwise provide, voting at a meeting of shareholders shall take place by show of hands except when a ballot is demanded by either a shareholder or proxyholder entitled to vote at the meeting.
+- **(1)** Unless the by-laws otherwise provide, voting at a meeting of shareholders or members is to take place by show of hands except when a ballot is demanded by a person entitled to vote at the meeting.
 
 **Ballot**
 
-- **(2)** A shareholder or proxyholder may demand a ballot either before or after any vote by show of hands.
+- **(2)** A person entitled to vote at a meeting of shareholders or members may demand a ballot either before or after any vote by show of hands.
 
 **Electronic voting**
 
@@ -3105,12 +3967,18 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Voting while participating electronically**
 
-- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting of shareholders under subsection 136(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the bank has made available for that purpose.
+- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting under subsection 136(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the bank has made available for that purpose.
+
+**Voting by mail**
+
+- **(5)** The by-laws of a federal credit union may, subject to the regulations and any conditions set out in the by-laws, allow members to vote by mail.
 
 **Regulations**
 
-- **(5)** The Governor in Council may make regulations respecting the manner of and conditions for voting at a meeting of shareholders by means of a telephonic, electronic or other communication facility.
-> 1991, c. 46, s. 151; 2005, c. 54, s. 23.
+- **(6)** The Governor in Council may make regulations
+	- **(a)** respecting the manner of and conditions for voting at a meeting of members or shareholders by means of a telephonic, electronic or other communication facility; and
+	- **(b)** respecting the manner and conditions of voting by mail by members of federal credit unions.
+> 1991, c. 46, s. 151; 2005, c. 54, s. 23; 2010, c. 12, s. 1961.
 
 
 
@@ -3121,17 +3989,17 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 **152** 
 
 - **(1)** Except where a written statement is submitted by a director under section 174 or by an auditor under subsection 321(1),
-	- **(a)** a resolution in writing signed by all the shareholders entitled to vote on that resolution at a meeting of shareholders is as valid as if it had been passed at a meeting of the shareholders; and
-	- **(b)** a resolution in writing dealing with all matters required by this Act to be dealt with at a meeting of shareholders, and signed by all the shareholders entitled to vote at that meeting, satisfies all the requirements of this Act relating to meetings of shareholders.
+	- **(a)** a resolution in writing signed by all the persons entitled to vote on that resolution at a meeting of shareholders or members is as valid as if it had been passed at a meeting of the shareholders or members; and
+	- **(b)** a resolution in writing dealing with all matters required by this Act to be dealt with at a meeting of shareholders or members, and signed by all the persons entitled to vote at that meeting, satisfies all the requirements of this Act relating to meetings of shareholders or members.
 
 **Filing resolution**
 
-- **(2)** A copy of every resolution referred to in subsection (1) shall be kept with the minutes of the meetings of shareholders.
+- **(2)** A copy of every resolution referred to in subsection (1) must be kept with the minutes of the meetings.
 
 **Evidence**
 
 - **(3)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
-> 1991, c. 46, s. 152; 2005, c. 54, s. 24.
+> 1991, c. 46, s. 152; 2005, c. 54, s. 24; 2010, c. 12, s. 1962.
 
 
 
@@ -3143,22 +4011,26 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 - **(1)** Shareholders who together hold not less than 5 per cent of the issued and outstanding shares of a bank that carry the right to vote at a meeting sought to be held may requisition the directors to call a meeting of shareholders for the purposes stated in the requisition.
 
+**Requisitioned meeting — members**
+
+- **(1.1)** At least two members entitled to vote at a meeting of a federal credit union that is sought to be held, or one per cent of the total number of members entitled to vote at a meeting of a federal credit union that is sought to be held, whichever is greater, may requisition the directors to call a meeting of members, or of members and shareholders, for the purposes stated in the requisition.
+
 **Form**
 
-- **(2)** A requisition referred to in subsection (1)
+- **(2)** The requisition
 	- **(a)** must state the business to be transacted at the meeting and must be sent to each director and to the head office of the bank; and
-	- **(b)** may consist of several documents of like form, each signed by one or more shareholders.
+	- **(b)** may consist of several documents of like form, each signed by one or more shareholders or members, as the case may be.
 
 **Directors calling meeting**
 
-- **(3)** On receipt of a requisition referred to in subsection (1), the directors shall call a meeting of shareholders to transact the business stated in the requisition, unless
+- **(3)** On receipt of the requisition, the directors must call a meeting of shareholders or members, as the case may be, to transact the business stated in the requisition, unless
 	- **(a)** a record date has been fixed under paragraph 137(5)(c) and notice of it has been given under subsection 137(7);
-	- **(b)** the directors have called a meeting of shareholders and have given notice thereof under section 138; or
-	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 143(5)(b) to (e).
+	- **(b)** the directors have called a meeting of shareholders or members, as the case may be, and have given the notice required by section 138; or
+	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 143(5)(b) to (e) or 144.1(8)(b) to (e).
 
-**Shareholders’ power**
+**Power of others to call meeting**
 
-- **(4)** If the directors do not call a meeting within twenty-one days after receiving the requisition referred to in subsection (1), any shareholder who signed the requisition may call the meeting.
+- **(4)** If the directors do not call a meeting within 21 days after receiving the requisition, any person who signed the requisition may call the meeting.
 
 **Procedure**
 
@@ -3166,8 +4038,8 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Reimbursement**
 
-- **(6)** Unless the shareholders otherwise resolve at a meeting called under subsection (4), the bank shall reimburse the shareholders for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
-> 1991, c. 46, s. 153; 2005, c. 54, s. 25.
+- **(6)** Unless the shareholders or members, as the case may be, otherwise resolve at a meeting called under subsection (4), the bank must reimburse the shareholders or members for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
+> 1991, c. 46, s. 153; 2005, c. 54, s. 25; 2010, c. 12, s. 1963.
 
 
 
@@ -3177,7 +4049,7 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **154** 
 
-- **(1)** A court may, on the application of a director, a shareholder who is entitled to vote at a meeting of shareholders or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
+- **(1)** A court may, on the application of a director of a bank, a person who is entitled to vote at a meeting of shareholders or members of a bank or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
 	- **(a)** it is impracticable to call the meeting within the time or in the manner in which it is to be called;
 	- **(b)** it is impracticable to conduct the meeting in the manner required by this Act or the by-laws; or
 	- **(c)** the court thinks that the meeting ought to be called, held or conducted within the time or in the manner that it directs for any other reason.
@@ -3188,8 +4060,8 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Valid meeting**
 
-- **(3)** A meeting called, held and conducted pursuant to this section is for all purposes a meeting of shareholders of the bank duly called, held and conducted.
-> 1991, c. 46, s. 154; 2005, c. 54, s. 26.
+- **(3)** A meeting called, held and conducted under this section is for all purposes a meeting of shareholders or members, as the case may be, of the bank duly called, held and conducted.
+> 1991, c. 46, s. 154; 2005, c. 54, s. 26; 2010, c. 12, s. 1964.
 
 
 
@@ -3199,15 +4071,18 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **155** 
 
-- **(1)** A bank or a shareholder or director of a bank may apply to a court to resolve any dispute in respect of the election or appointment of a director or an auditor of the bank.
+- **(1)** A bank or any of its shareholders, members or directors may apply to a court to resolve any dispute in respect of the election or appointment of a director or an auditor of the bank.
 
 **Powers of court**
 
 - **(2)** On an application under subsection (1), a court may make any order it thinks fit including, without limiting the generality of the foregoing,
 	- **(a)** an order restraining a director or auditor whose election or appointment is challenged from acting pending determination of the dispute;
 	- **(b)** an order declaring the result of the disputed election or appointment;
-	- **(c)** an order requiring a new election or appointment, and including in the order directions for the management of the business and affairs of the bank until a new election is held or the new appointment is made; and
-	- **(d)** an order determining the voting rights of shareholders and of persons claiming to own shares.
+	- **(c)** an order requiring a new election or appointment, and including in the order directions for the management of the business and affairs of the bank until a new election is held or the new appointment is made;
+	- **(d)** an order determining the voting rights of shareholders and of persons claiming to own shares; and
+	- **(e)** an order determining the voting rights of members and of persons claiming to be members.
+> 1991, c. 46, s. 155; 2010, c. 12, s. 1965.
+
 
 
 
@@ -3454,6 +4329,10 @@ but does not include
 
 - **(2)** At a meeting of shareholders of a bank with equity of twelve billion dollars or more, no person and no entity controlled by any person may, in respect of any vote of shareholders or holders of any class or series of shares of the bank, cast votes in respect of any shares beneficially owned by the person or the entity that are, in aggregate, more than 20 per cent of the eligible votes that may be cast in respect of that vote.
 
+**Exception — federal credit union**
+
+- **(2.1)** Subsection (2) does not apply in respect of a meeting of shareholders or members of a federal credit union.
+
 **Proxyholders**
 
 - **(3)** No person who is a proxyholder for a person or for an entity controlled by a person may cast votes to which the proxy relates that the person or entity may not cast by reason of subsection (2).
@@ -3493,7 +4372,7 @@ but does not include
 **Designation of persons**
 
 - **(12)** For the purpose of this section, the Minister may, with respect to a particular bank, designate two or more persons who are parties to an agreement, commitment or understanding referred to in section 9 to be a single person.
-> 2001, c. 9, s. 67; 2007, c. 6, s. 132; 2012, c. 5, s. 6.
+> 2001, c. 9, s. 67; 2007, c. 6, s. 132; 2010, c. 12, s. 1966; 2012, c. 5, s. 6.
 
 
 
@@ -3573,6 +4452,15 @@ but does not include
 
 
 
+**Directors as members**
+
+**159.1** Not less than two thirds of the directors of a federal credit union, or any greater proportion that is provided for by the by-laws, must be members of the federal credit union or representatives of members of the federal credit union.
+> 2010, c. 12, s. 1967.
+
+
+
+
+
 **Disqualified persons**
 
 **160** The following persons are disqualified from being directors of a bank:
@@ -3584,9 +4472,10 @@ but does not include
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
 - **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of subsection 370(1);
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
-- **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
-- **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2012, c. 19, s. 330, c. 31, s. 109.
+- **(h)** a minister of Her Majesty in right of Canada or in right of a province;
+- **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof; and
+- **(j)** if the bank is a federal credit union, a person who fails to meet any of the qualification requirements set out in its by-laws.
+> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2010, c. 12, s. 1968; 2012, c. 19, s. 330, c. 31, s. 109.
 
 
 
@@ -3631,9 +4520,9 @@ but does not include
 **Notification by Superintendent**
 
 - **(2)** A determination by the Superintendent under subsection (1)
-	- **(a)** becomes effective on the day of the next annual meeting of the shareholders unless a notice in writing by the Superintendent revoking the determination is received by the bank prior to that day; and
-	- **(b)** ceases to be in effect on the day of the next annual meeting of the shareholders after a notice in writing by the Superintendent revoking the determination is received by the bank.
-> 1996, c. 6, s. 5.
+	- **(a)** becomes effective on the day of the next annual meeting of the persons who are entitled to elect directors unless a notice in writing by the Superintendent revoking the determination is received by the bank prior to that day; and
+	- **(b)** ceases to be in effect on the day of the next annual meeting of those persons after a notice in writing by the Superintendent revoking the determination is received by the bank.
+> 1996, c. 6, s. 5; 2010, c. 12, s. 1969.
 
 
 
@@ -3651,11 +4540,13 @@ but does not include
 
 **Determination of affiliation**
 
-- **(3)** For the purposes of subsection (1), whether or not a person is affiliated with a bank shall be determined as at the day the notice of the annual meeting is sent to shareholders pursuant to section 138 and that determination becomes effective on the day of that meeting, and a person shall be deemed to continue to be affiliated or unaffiliated, as the case may be, until the next annual meeting of the shareholders.
+- **(3)** For the purposes of subsection (1), whether or not a person is affiliated with a bank is to be determined as at the day the notice of the annual meeting is sent under section 138 and that determination becomes effective on the day of that meeting, and a person is deemed to continue to be affiliated or unaffiliated, as the case may be, until the next annual meeting of the shareholders or members, as the case may be.
 
 **Transitional**
 
 - **(4)** Subsection (1) does not apply in respect of a bank that was in existence immediately prior to the day that subsection comes into force until the day that is three years after the day that subsection comes into force.
+> 1991, c. 46, s. 163; 2010, c. 12, s. 1970.
+
 
 
 
@@ -3675,11 +4566,17 @@ but does not include
 
 **165** 
 
-- **(1)** Subject to subsection 159(1) and sections 168 and 217, the directors of a bank shall, by by-law, determine the number of directors or the minimum and maximum number of directors, but no by-law that decreases the number of directors shortens the term of an incumbent director.
+- **(1)** Subject to subsection 159(1) and sections 168 and 217, the directors of a bank that is not a federal credit union must, by by-law, determine the number of directors or the minimum and maximum number of directors, but no by-law that decreases the number of directors shortens the term of an incumbent director.
+
+**Number of directors — federal credit union**
+
+- **(2)** Subject to subsection 159(1), the members of a federal credit union must, by by-law, determine the number of directors or the minimum and maximum number of directors.
 
 **Election at annual meeting**
 
-- **(2)** A by-law made pursuant to subsection (1) that provides for a minimum and maximum number of directors may provide that the number of directors to be elected at any annual meeting of the shareholders be such number as is fixed by the directors prior to the annual meeting.
+- **(3)** A by-law made under subsection (1) or (2) that provides for a minimum and maximum number of directors may provide that the number of directors to be elected at any annual meeting of the shareholders or members, as the case may be, be the number that is fixed by the directors before the annual meeting.
+> 1991, c. 46, s. 165; 2010, c. 12, s. 1971.
+
 
 
 
@@ -3705,15 +4602,15 @@ but does not include
 
 **Term of one, two or three years**
 
-- **(2)** A director elected for a term of one, two or three years holds office until the close of the first, second or third annual meeting of shareholders, as the case may be, following the election of the director.
+- **(2)** A director elected for a term of one, two or three years holds office until the close, as the case may be, of the first, second or third annual meeting of shareholders or members, as the case may be, following the election of the director.
 
 **No stated term**
 
-- **(3)** A director who is not elected for an expressly stated term of office ceases to hold office at the close of the next annual meeting of shareholders following the election of the director.
+- **(3)** A director who is not elected for an expressly stated term of office ceases to hold office at the close of the next annual meeting of shareholders or members, as the case may be, following the election of the director.
 
 **Tenure of office**
 
-- **(4)** It is not necessary that all directors elected at a meeting of shareholders hold office for the same term.
+- **(4)** It is not necessary that all directors elected at a meeting of shareholders or members hold office for the same term.
 
 **Idem**
 
@@ -3721,7 +4618,9 @@ but does not include
 
 **Composition requirements**
 
-- **(6)** Subject to subsection 163(4), where a director of a bank is elected or appointed for a term of more than one year, the bank shall comply with subsections 159(2) and 163(1) and section 164 at each annual meeting of shareholders during the director’s term of office as if that director were elected or appointed on that date.
+- **(6)** Subject to subsection 163(4), if a director of a bank is elected or appointed for a term of more than one year, the bank must comply with subsections 159(2) and 163(1) and section 164 at each annual meeting of shareholders or members, as the case may be, during the director’s term of office as if that director were elected or appointed on that date.
+> 1991, c. 46, s. 166; 2010, c. 12, s. 1972.
+
 
 
 
@@ -3786,6 +4685,15 @@ elect the stated number of directors to hold office until the close of the next 
 
 
 
+**No cumulative voting**
+
+**168.1** Despite section 168 or any provision of its by-laws, cumulative voting is not permitted in a federal credit union.
+> 2010, c. 12, s. 1973.
+
+
+
+
+
 **Re-election of directors**
 
 **169** A director who has completed a term of office is, if otherwise qualified, eligible for re-election.
@@ -3805,22 +4713,22 @@ elect the stated number of directors to hold office until the close of the next 
 
 **Failure to elect minimum**
 
-- **(2)** Where, at the close of a meeting of shareholders of a bank, the shareholders have failed to elect the number or minimum number of directors required by this Act or the by-laws of a bank, the purported election of directors at the meeting
+- **(2)** If, at the close of a meeting of shareholders or members of a bank, the shareholders or members have failed to elect the number or minimum number of directors required by this Act or the by-laws of a bank, the purported election of directors at the meeting
 	- **(a)** is valid if the directors purported to be elected and those incumbent directors, if any, whose terms did not expire at the close of the meeting, together constitute a quorum; or
 	- **(b)** is void if the directors purported to be elected and those incumbent directors, if any, whose terms did not expire at the close of the meeting, together do not constitute a quorum.
 
 - **(3) and (4)** [Repealed, 1997, c. 15, s. 15]
-> 1991, c. 46, s. 170; 1997, c. 15, s. 15.
+> 1991, c. 46, s. 170; 1997, c. 15, s. 15; 2010, c. 12, s. 1974.
 
 
 
 
 
-**Directors where elections incomplete or void**
+**Directors where elections or appointments incomplete or void**
 
 **171** 
 
-- **(1)** Notwithstanding subsections 166(2) and (3) and paragraphs 168(1)(f) and 172(1)(a), where subsection 170(1) or (2) applies at the close of any meeting of shareholders of a bank, the board of directors shall, until their successors are elected or appointed, consist solely of
+- **(1)** Despite subsections 166(2) and (3) and paragraphs 168(1)(f) and 172(1)(a), if subsection 170(1) or (2) applies at the close of any meeting of shareholders or members of a bank, the board of directors, until their successors are elected or appointed, consists solely of
 	- **(a)** where paragraph 170(2)(a) applies, the directors referred to in that paragraph; or
 	- **(b)** where subsection 170(1) or paragraph 170(2)(b) applies, the persons who were the incumbent directors immediately before the meeting.
 
@@ -3830,12 +4738,12 @@ elect the stated number of directors to hold office until the close of the next 
 
 **Directors to call meeting**
 
-- **(3)** Where subsection (1) or (2) applies, the board of directors referred to in that subsection shall without delay call a special meeting of shareholders to fill the vacancies, where paragraph 170(2)(a) applies, or elect a new board of directors, where subsection 170(1) or paragraph 170(2)(b) applies.
+- **(3)** If subsection (1) or (2) applies, the board of directors referred to in that subsection must, without delay, call a special meeting of shareholders or members, as the case may be, to fill the vacancies if paragraph 170(2)(a) applies, or elect a new board of directors if subsection 170(1) or paragraph 170(2)(b) applies.
 
-**Shareholder may call meeting**
+**Others may call meeting**
 
-- **(4)** Where the directors fail to call a special meeting required by subsection (3), the meeting may be called by any shareholder.
-> 1991, c. 46, s. 171; 1997, c. 15, s. 16.
+- **(4)** If the directors fail to call a special meeting required by subsection (3), the meeting may be called by any person who would be entitled to vote at the meeting.
+> 1991, c. 46, s. 171; 1997, c. 15, s. 16; 2010, c. 12, s. 1975.
 
 
 
@@ -3865,15 +4773,25 @@ elect the stated number of directors to hold office until the close of the next 
 
 **173** 
 
-- **(1)** Subject to paragraph 168(1)(g), the shareholders of a bank may by resolution at a special meeting remove any director or all the directors from office.
+- **(1)** Subject to paragraph 168(1)(g), the shareholders of a bank that is not a federal credit union may by resolution at a special meeting of shareholders remove any director or all the directors from office.
+
+**Removal of director — federal credit union**
+
+- **(1.1)** A director of a federal credit union may be removed from office by resolution at a special meeting of the persons who are entitled to vote in the election of that director.
 
 **Exception**
 
 - **(2)** Where the holders of any class or series of shares of a bank have the exclusive right to elect one or more directors, a director so elected may be removed only by a resolution at a meeting of the shareholders of that class or series.
 
+**Exception — members**
+
+- **(2.1)** If members of a federal credit union have the exclusive right to elect one or more directors, a director so elected may be removed only by a resolution of the members having that right.
+
 **Vacancy by removal**
 
-- **(3)** Subject to paragraphs 168(1)(b) to (e), a vacancy created by the removal of a director may be filled at the meeting of the shareholders at which the director is removed or, if not so filled, may be filled under section 177 or 178.
+- **(3)** Subject to paragraphs 168(1)(b) to (e), a vacancy created by the removal of a director may be filled at the meeting of the shareholders or members, as the case may be, at which the director is removed or, if not so filled, may be filled under section 177 or 178.
+> 1991, c. 46, s. 173; 2010, c. 12, s. 1976.
+
 
 
 
@@ -3884,13 +4802,15 @@ elect the stated number of directors to hold office until the close of the next 
 
 - **(1)** A director who
 	- **(a)** resigns,
-	- **(b)** receives a notice or otherwise learns of a meeting of shareholders called for the purpose of removing the director from office, or
-	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders at which another person is to be appointed or elected to fill the office of director, whether because of the director’s resignation or removal or because the director’s term of office has expired or is about to expire,
+	- **(b)** receives a notice or otherwise learns of a meeting called for the purpose of removing the director from office, or
+	- **(c)** receives a notice or otherwise learns of a meeting of directors, shareholders or members at which another person is to be appointed or elected to fill the office of director, whether because of the director’s resignation or removal or because the director’s term of office has expired or is about to expire,
 is entitled to submit to the bank a written statement giving the reasons for the resignation or the reasons why the director opposes any proposed action or resolution.
 
 **Statement re disagreement**
 
 - **(2)** Where a director resigns as a result of a disagreement with the other directors or the officers of a bank, the director shall submit to the bank and the Superintendent a written statement setting out the nature of the disagreement.
+> 1991, c. 46, s. 174; 2010, c. 12, s. 1977.
+
 
 
 
@@ -3899,12 +4819,16 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **175** 
 
-- **(1)** A bank shall without delay on receipt of a director’s statement referred to in subsection 174(1) relating to a matter referred to in paragraph 174(1)(b) or (c), or a director’s statement referred to in subsection 174(2), send a copy of it to each shareholder entitled to receive a notice of meetings and to the Superintendent, unless the statement is included in or attached to a management proxy circular required by subsection 156.05(1).
+- **(1)** A bank that is not a federal credit union must without delay on receipt of a director’s statement referred to in subsection 174(1) relating to a matter referred to in paragraph 174(1)(b) or (c), or a director’s statement referred to in subsection 174(2), send a copy of it to each shareholder entitled to receive a notice of meetings and to the Superintendent, unless the statement is included in or attached to a management proxy circular required by subsection 156.05(1).
+
+**Circulation of statement — federal credit union**
+
+- **(2)** A federal credit union must, without delay on receipt of a director’s statement referred to in subsection 174(1) relating to a matter referred to in paragraph 174(1)(b) or (c), or a director’s statement referred to in subsection 174(2), send a copy of it to the Superintendent, to each member and, if the director was elected by the holders of shares of a class, to those shareholders.
 
 **Immunity for statement**
 
-- **(2)** No bank or person acting on its behalf incurs any liability by reason only of circulating a director’s statement in compliance with subsection (1).
-> 1991, c. 46, s. 175; 1997, c. 15, s. 17.
+- **(3)** No bank or person acting on its behalf incurs any liability by reason only of circulating a director’s statement in compliance with subsection (1) or (2).
+> 1991, c. 46, s. 175; 1997, c. 15, s. 17; 2010, c. 12, s. 1978.
 
 
 
@@ -3912,9 +4836,17 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **Shareholders filling vacancy**
 
-**176** The by-laws of a bank may provide that a vacancy among the directors is to be filled only
-- **(a)** by a vote of the shareholders; or
-- **(b)** by a vote of the holders of any class or series of shares having an exclusive right to elect one or more directors if the vacancy occurs among the directors elected by the holders of that class or series.
+**176** 
+
+- **(1)** The by-laws of a bank that is not a federal credit union may provide that a vacancy among the directors is to be filled only
+	- **(a)** by a vote of the shareholders; or
+	- **(b)** by a vote of the holders of any class or series of shares having an exclusive right to elect one or more directors if the vacancy occurs among the directors elected by the holders of that class or series.
+
+**Filling vacancy — federal credit union**
+
+- **(2)** The by-laws of a federal credit union may provide that a vacancy among its directors is to be filled by election or appointment by members only or by an election or appointment by persons having an exclusive right to elect or appoint one or more directors if the vacancy occurs among the directors appointed or elected by those persons.
+> 1991, c. 46, s. 176; 2010, c. 12, s. 1978.
+
 
 
 
@@ -3936,11 +4868,11 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **Class vacancy**
 
-**178** Notwithstanding section 183, where the holders of any class or series of shares of a bank have an exclusive right to elect one or more directors and a vacancy occurs among those directors, then, subject to section 176,
-- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
+**178** Despite section 183, if a class of persons have an exclusive right to elect one or more directors and a vacancy occurs among those directors, then, subject to section 176,
+- **(a)** the remaining directors elected by those persons may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors who may be elected by that class from a failure to elect the number or minimum number of directors provided for in the by-laws for that class;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 159, subsection 163(1) and section 164, the other directors may fill that vacancy; and
-- **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
-> 1991, c. 46, s. 178; 2005, c. 54, s. 35.
+- **(c)** if there are no such remaining directors and paragraph (b) does not apply, any person of that class may call a meeting of the class for the purpose of filling the vacancy.
+> 1991, c. 46, s. 178; 2005, c. 54, s. 35; 2010, c. 12, s. 1979.
 
 
 
@@ -3963,7 +4895,7 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **179.1** 
 
-- **(1)** The directors of a bank may appoint one or more additional directors where the by-laws of the bank allow them to do so and the by-laws determine the minimum and maximum numbers of directors.
+- **(1)** The directors of a bank that is not a federal credit union may appoint one or more additional directors if the by-laws of the bank allow them to do so and the by-laws determine the minimum and maximum numbers of directors.
 
 **Term of office**
 
@@ -3972,7 +4904,7 @@ is entitled to submit to the bank a written statement giving the reasons for the
 **Limit on number appointed**
 
 - **(3)** The total number of directors appointed under subsection (1) may not exceed one third of the number of directors elected at the previous annual meeting of shareholders of the bank.
-> 1997, c. 15, s. 18.
+> 1997, c. 15, s. 18; 2010, c. 12, s. 1980.
 
 
 
@@ -4053,6 +4985,15 @@ is entitled to submit to the bank a written statement giving the reasons for the
 	- **(a)** a director who is a resident Canadian unable to be present approves, in writing or by telephonic, electronic or other communications facilities, the business transacted at the meeting; and
 	- **(b)** there would have been present the required proportion of directors who are resident Canadians had that director been present at the meeting.
 > 1991, c. 46, s. 183; 2001, c. 9, s. 75.
+
+
+
+
+
+**Directors of federal credit union**
+
+**183.01** The directors of a federal credit union that has issued shares that provide for the election of directors must not transact business at a meeting of directors or of a committee of directors unless the majority of the directors present at the meeting are members.
+> 2010, c. 12, s. 1981.
 
 
 
@@ -4145,10 +5086,10 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 - **(1)** A bank shall keep a record of the attendance at each meeting of directors and each committee meeting of directors.
 
-**Statement to shareholders**
+**Statement to shareholders and members**
 
-- **(2)** A bank shall attach to the notice of each annual meeting it sends to its shareholders a statement showing, in respect of the financial year immediately preceding the meeting, the total number of directors’ meetings and directors’ committee meetings held during the financial year and the number of those meetings attended by each director.
-> 1991, c. 46, s. 186; 1997, c. 15, s. 21.
+- **(2)** A bank must attach to the notice of each annual meeting it sends to its shareholders or members, as the case may be, a statement showing, in respect of the financial year immediately preceding the meeting, the total number of directors’ meetings and directors’ committee meetings held during the financial year and the number of those meetings attended by each director.
+> 1991, c. 46, s. 186; 1997, c. 15, s. 21; 2010, c. 12, s. 1982.
 
 
 
@@ -4175,7 +5116,7 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **188** 
 
-- **(1)** Unless this Act otherwise provides, the directors of a bank may by resolution make, amend or repeal any by-law that regulates the business or affairs of the bank.
+- **(1)** Unless this Act otherwise provides, the directors of a bank that is not a federal credit union may by resolution make, amend or repeal any by-law that regulates the business or affairs of the bank.
 
 **Shareholder approval**
 
@@ -4188,6 +5129,8 @@ is entitled to submit to the bank a written statement giving the reasons for the
 **Effect where no shareholder approval**
 
 - **(4)** If a by-law, or an amendment to or a repeal of a by-law, is rejected by the shareholders, or is not submitted to the shareholders by the directors as required under subsection (2), the by-law, amendment or repeal ceases to be effective from the date of its rejection or the date of the next meeting of shareholders, as the case may be, and no subsequent resolution of the directors to make, amend or repeal a by-law having substantially the same purpose or effect is effective until it is confirmed, or confirmed as amended, by the shareholders.
+> 1991, c. 46, s. 188; 2010, c. 12, s. 1983.
+
 
 
 
@@ -4195,6 +5138,8 @@ is entitled to submit to the bank a written statement giving the reasons for the
 **Shareholder proposal of by-law**
 
 **189** A shareholder entitled to vote at an annual meeting of shareholders may, in accordance with sections 143 and 144, make a proposal to make, amend or repeal a by-law.
+> 1991, c. 46, s. 189; 2010, c. 12, s. 1984(F).
+
 
 
 
@@ -4233,12 +5178,189 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 - **(1)** Any matter that,
 	- **(a)** immediately prior to the day this section comes into force, was provided for in the incorporating instrument of a bank that was in existence immediately prior to that day, or
-	- **(b)** immediately prior to the day a body corporate is continued as a bank under this Act, was provided for in the incorporating instrument of the body corporate,
+	- **(b)** immediately prior to the day a body corporate is continued as a bank other than a federal credit union, was provided for in the incorporating instrument of the body corporate,
 and that, under this Act, would be provided for in the by-laws of a bank, is deemed to be provided for in the by-laws of the bank.
 
 **By-law prevails**
 
 - **(2)** Where a by-law of the bank made in accordance with sections 188 and 189 amends or repeals any matter referred to in subsection (1), the by-law prevails.
+> 1991, c. 46, s. 192; 2010, c. 12, s. 1985.
+
+
+
+
+
+**By-laws — mandatory provisions**
+
+**192.01** 
+
+- **(1)** The by-laws of a federal credit union must provide for
+	- **(a)** the qualifications of members and the procedures for acceptance of members;
+	- **(b)** the membership obligations of members, including any obligation to use the services of the federal credit union and any fees to be paid by members;
+	- **(c)** the rights of joint members, if any;
+	- **(d)** the fact that a delegate has only one vote even though the delegate is a member or represents more than one member;
+	- **(e)** the limit, if any, on the number of membership shares;
+	- **(f)** the selection, qualifications, term of office and removal of directors and members of committees of directors;
+	- **(g)** the manner of distribution of any surplus earnings arising from the operations of the federal credit union;
+	- **(h)** the rights of withdrawing members and members who are expelled;
+	- **(i)** if the federal credit union wishes to permit members or shareholders to attend a meeting of the federal credit union by means of a communication facility referred to in subsection 136(2), the ways in which votes must be held; and
+	- **(j)** the date on which the federal credit union’s financial year ends.
+
+**By-laws — other provisions**
+
+- **(2)** The by-laws of a federal credit union may provide for any other matter that the members consider necessary or desirable, including
+	- **(a)** restrictions on the classes of persons to which membership may be available, as long as the restrictions are consistent with applicable laws with respect to human rights;
+	- **(b)** the representation of members by delegates;
+	- **(c)** the distribution of patronage allocations;
+	- **(d)** the manner of distribution of any remaining property on the voluntary liquidation and dissolution of the federal credit union;
+	- **(e)** a formula for calculating the value of membership shares;
+	- **(f)** a formula for calculating the redemption price of membership shares; and
+	- **(g)** voting by mail.
+
+**Selection and removal of delegates**
+
+- **(3)** If the by-laws of a federal credit union provide for the representation of members by delegates, the by-laws must set out procedures for their selection and removal.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Copies**
+
+**192.02** 
+
+- **(1)** Each member and shareholder of a federal credit union may on request, not more than once in each calendar year, receive free of charge one copy of the letters patent and by-laws of the federal credit union, and one copy of any amendments to them.
+
+**Copies**
+
+- **(2)** The federal credit union must provide each creditor, and, if the federal credit union is a distributing federal credit union, any other person, on payment of a reasonable fee, with a copy of the federal credit union’s letters patent and by-laws.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Making or amendment of by-law by members**
+
+**192.03** 
+
+- **(1)** The members of a federal credit union may, by special resolution, make, amend or repeal any by-law that regulates the business and affairs of the federal credit union, including a by-law changing the federal credit union’s name or the province in which its head office is situated.
+
+**Making or amendment of by-law by directors**
+
+- **(2)** Unless the by-laws of a federal credit union provide otherwise, the directors may, by special resolution, make a by-law or amend a by-law of the federal credit union, including a by-law changing the federal credit union’s name or the province in which its head office is situated, but only if the by-law or amendment is not contrary to a by-law made by the members.
+
+**Approval**
+
+- **(3)** The directors must present a by-law or an amendment to a by-law that is made under subsection (2) to the members at the next meeting of members and the members may, by special resolution, confirm or amend it.
+
+**By-law not confirmed**
+
+- **(4)** If a by-law or an amendment to a by-law made by the directors is not confirmed, with or without amendments, under subsection (3), the by-law or amendment is repealed as of the date of the meeting of members at which it was not confirmed.
+
+**Effective date of by-law**
+
+- **(5)** If a by-law, or an amendment to or a repeal of a by-law, made under subsection (1) or (2) does any thing referred to in subsection 218(1) in relation to any class or series of shares, the by-law, amendment or repeal is not effective until it is confirmed or confirmed as amended by the holders of shares of that class or series in accordance with section 218.
+
+**Effective date of by-law**
+
+- **(6)** If a by-law or an amendment to a by-law made under subsection (1) or (2) changes the name of the federal credit union, the by-law or the amendment is not effective until it is approved by the Superintendent.
+
+**Letters patent**
+
+- **(7)** If the name of a federal credit union or the province in which its head office is situated is changed under subsection (1) or (2), the Superintendent may issue letters patent to amend the federal credit union’s incorporating instrument accordingly.
+
+**Effect of letters patent**
+
+- **(8)** Letters patent issued under subsection (7) become effective on the day stated in the letters patent.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Proposal of by-law**
+
+**192.04** A member may, in accordance with section 144.1, make a proposal to make, amend or repeal a by-law.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Effective date of by-law**
+
+**192.05** 
+
+- **(1)** A by-law or an amendment to or repeal of a by-law made by the members is effective from the later of the date of the resolution made under subsection 192.03(1) and the date specified in the by-law, amendment or repeal.
+
+**Effective date of by-law**
+
+- **(2)** A by-law or an amendment to a by-law made by the directors of a federal credit union is effective from the later of the date the by-law is made or amended by the directors and the date specified in the by-law, until it is confirmed, with or without amendment, under subsection 192.03(3) or repealed under subsection 192.03(4) and, if the by-law is confirmed, or confirmed as amended, it is in effect in the form in which it was so confirmed.
+
+**If by-law not approved**
+
+- **(3)** If a by-law or an amendment to a by-law made by the directors under subsection 192.03(2) is not submitted by the directors to the next meeting of the members as required under subsection 192.03(3), the by-law or amendment ceases to be effective from the date of that meeting.
+
+**New resolution of directors**
+
+- **(4)** If a by-law or an amendment to a by-law made by the directors under subsection 192.03(2) is repealed under subsection 192.03(4) or ceases to be effective under subsection (3), no subsequent resolution of the directors to make or amend a by-law that has substantially the same purpose or effect is effective until it is confirmed, or confirmed as amended, by the members.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**By-laws of continued body corporate**
+
+**192.06** Subject to section 192.05, the by-laws of a body corporate that is continued as a federal credit union under this Act continue in effect until amended or repealed, unless contrary to a provision of this Act.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Existing resolutions**
+
+**192.07** If the remuneration of directors of a body corporate that is continued as a federal credit union was, immediately before the issuance of the federal credit union’s letters patent, fixed by a resolution of the directors, that resolution continues to have effect, unless it is contrary to the provisions of this Act, until the first meeting of the federal credit union’s members.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Deemed by-laws**
+
+**192.08** 
+
+- **(1)** Any matter provided for in the incorporating instrument of a body corporate that is continued as a federal credit union that, under this Act, is to be provided for in the by-laws of a federal credit union is deemed to be provided for in the by-laws of the federal credit union.
+
+**By-law prevails**
+
+- **(2)** If a by-law of the federal credit union made in accordance with section 192.03 amends or repeals any matter referred to in subsection (1), the by-law prevails.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**Rights preserved**
+
+**192.09** No amendment to the letters patent or by-laws of a federal credit union affects an existing cause of action or claim or liability to prosecution in favour of or against the federal credit union or its directors or officers, or any civil, criminal or administrative action or proceeding to which the federal credit union or any of its directors or officers are a party.
+> 2010, c. 12, s. 1986.
+
+
+
+
+
+**By-laws binding**
+
+**192.1** Subject to this Act, every by-law of a federal credit union binds the federal credit union and its members to the same extent as if
+- **(a)** each member had duly approved the by-law; and
+- **(b)** there were in the by-law a covenant under seal on the part of each member, and the successors and assigns of the member, to conform to the by-law.
+> 2010, c. 12, s. 1986.
+
 
 
 
@@ -4367,7 +5489,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Limits on power to delegate**
 
-**198** The directors of a bank may not delegate any of the following powers, namely, the power to
+**198** The directors of a bank that is not a federal credit union may not delegate the power to
 - **(a)** submit to the shareholders a question or matter requiring the approval of the shareholders;
 - **(b)** fill a vacancy among the directors, on a committee of directors or in the office of auditor, or appoint additional directors;
 - **(c)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 62, except in accordance with any authorization made by the directors;
@@ -4377,7 +5499,27 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 - **(g)** approve a management proxy circular;
 - **(h)** except as provided in this Act, approve the annual statement of the bank and any other financial statements issued by the bank; or
 - **(i)** adopt, amend or repeal by-laws.
-> 1991, c. 46, s. 198; 1997, c. 15, s. 25; 2005, c. 54, s. 38.
+> 1991, c. 46, s. 198; 1997, c. 15, s. 25; 2005, c. 54, s. 38; 2010, c. 12, s. 1987.
+
+
+
+
+
+**Limits on power to delegate**
+
+**198.1** The directors of a federal credit union may not delegate the power to
+- **(a)** submit to the members or shareholders a question or matter requiring their approval;
+- **(b)** admit members, except in accordance with any authorization made by the members;
+- **(c)** fill a vacancy among the directors, on a committee of directors or in the office of auditor;
+- **(d)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 62, except in accordance with any authorization made by the directors;
+- **(e)** declare a dividend on membership shares or shares or allocate an amount as a patronage allocation;
+- **(f)** authorize the redemption or other acquisition by the federal credit union under section 71 of membership shares, or shares, issued by the federal credit union;
+- **(g)** authorize the payment of a commission on a share issue;
+- **(h)** approve a management proxy circular;
+- **(i)** except as provided in this Act, approve the annual statement of the federal credit union and any other financial statements it issued;
+- **(j)** expel members; or
+- **(k)** adopt or amend by-laws.
+> 2010, c. 12, s. 1988.
 
 
 
@@ -4413,7 +5555,9 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Right to attend meetings**
 
-**201** A director of a bank is entitled to attend and to be heard at every meeting of shareholders.
+**201** A director of a bank is entitled to attend and to be heard at every meeting of shareholders or members.
+> 1991, c. 46, s. 201; 2010, c. 12, s. 1989.
+
 
 
 
@@ -4448,8 +5592,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Time of disclosure — contract not requiring approval**
 
-- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the bank’s business would not require approval by the directors or shareholders, the director or officer shall disclose to the bank, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
-> 1991, c. 46, s. 202; 2005, c. 54, s. 39.
+- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the bank’s business would not require approval by the directors, shareholders or members, as the case may be, the director or officer must disclose to the bank, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
+> 1991, c. 46, s. 202; 2005, c. 54, s. 39; 2010, c. 12, s. 1990.
 
 
 
@@ -4488,8 +5632,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Access to disclosures**
 
-- **(2)** The shareholders of the bank may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 202(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the bank.
-> 1991, c. 46, s. 204; 2001, c. 9, s. 77.1(F); 2005, c. 54, s. 41.
+- **(2)** The shareholders and members of the bank may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 202(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the bank.
+> 1991, c. 46, s. 204; 2001, c. 9, s. 77.1(F); 2005, c. 54, s. 41; 2010, c. 12, s. 1991.
 
 
 
@@ -4499,18 +5643,20 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **205** 
 
-- **(1)** A contract or transaction for which disclosure is required under subsection 202(1) is not invalid and a director or officer is not accountable to the bank or its shareholders for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
+- **(1)** A contract or transaction for which disclosure is required under subsection 202(1) is not invalid and a director or officer is not accountable to the bank or its shareholders or members for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
 	- **(a)** the director or officer disclosed their interest in accordance with section 202 and subsection 204(1);
 	- **(b)** the directors approved the contract or transaction; and
 	- **(c)** the contract or transaction was reasonable and fair to the bank at the time that it was approved.
 
-**Confirmation by shareholders**
+**Confirmation**
 
-- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the bank or its shareholders for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
-	- **(a)** the contract or transaction is approved or confirmed by special resolution at a meeting of shareholders;
-	- **(b)** disclosure of the interest was made to the shareholders in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
+- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the bank or its shareholders or members for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
+	- **(a)** the contract or transaction is approved or confirmed by special resolution at
+		- **(i)** in the case of a bank that is not a federal credit union, a meeting of shareholders, or
+		- **(ii)** in the case of a federal credit union, at a meeting of its members and, if it has shareholders, at a meeting of its shareholders;
+	- **(b)** disclosure of the interest was made to the shareholders or, in the case of a federal credit union, to the members and shareholders, if any, in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
 	- **(c)** the contract or transaction was reasonable and fair to the bank at the time that it was approved or confirmed.
-> 1991, c. 46, s. 205; 2005, c. 54, s. 41.
+> 1991, c. 46, s. 205; 2005, c. 54, s. 41; 2010, c. 12, s. 1992.
 
 
 
@@ -4518,8 +5664,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Court may set aside or require accounting**
 
-**206** If a director or officer of a bank fails to comply with any of sections 202 to 205, a court, on application of the bank or any of its shareholders, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the bank for any profit or gain realized on it.
-> 1991, c. 46, s. 206; 2005, c. 54, s. 41.
+**206** If a director or officer of a bank fails to comply with any of sections 202 to 205, a court, on application of the bank or any of its shareholders or members, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the bank for any profit or gain realized on it.
+> 1991, c. 46, s. 206; 2005, c. 54, s. 41; 2010, c. 12, s. 1992.
 
 
 
@@ -4529,21 +5675,21 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 
 
-**Director liability**
+**Director’s liability**
 
 **207** 
 
-- **(1)** Directors of a bank who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 65(1) or the issue of subordinated indebtedness contrary to section 80 for a consideration other than money are jointly and severally, or solidarily, liable to the bank to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of a bank who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 65(1), the issue of a membership share contrary to subsection 79.1(2) or the issue of subordinated indebtedness contrary to section 80 for a consideration other than money are jointly and severally, or solidarily, liable to the bank to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank would have received if the share, membership share or subordinated indebtedness had been issued for money on the date of the resolution.
 
 **Further liability**
 
 - **(2)** Directors of a bank who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the bank any amounts so distributed or paid and not otherwise recovered by the bank and any amounts in relation to any loss suffered by the bank:
-	- **(a)** a redemption or purchase of shares contrary to section 71;
+	- **(a)** a redemption or purchase of shares or membership shares contrary to section 71;
 	- **(b)** a reduction of capital contrary to section 75;
-	- **(c)** a payment of a dividend contrary to section 79;
+	- **(c)** a payment of a dividend or patronage allocation contrary to section 79;
 	- **(d)** a payment of an indemnity contrary to section 212; or
 	- **(e)** any transaction contrary to Part XI.
-> 1991, c. 46, s. 207; 2005, c. 54, s. 42(E).
+> 1991, c. 46, s. 207; 2005, c. 54, s. 42(E); 2010, c. 12, s. 1992.
 
 
 
@@ -4557,16 +5703,18 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Recovery**
 
-- **(2)** A director who is liable under section 207 is entitled to apply to a court for an order compelling a shareholder or other person to pay or deliver to the director
-	- **(a)** any money or property that was paid or distributed to the shareholder or other person contrary to section 71, 75, 79 or 212; or
+- **(2)** A director who is liable under section 207 is entitled to apply to a court for an order compelling a shareholder, member or other person to pay or deliver to the director
+	- **(a)** any money or property that was paid or distributed to the shareholder, member or other person contrary to section 71, 75, 79 or 212; or
 	- **(b)** an amount equal to the value of the loss suffered by the bank as a result of any transaction contrary to Part XI.
 
 **Court order**
 
 - **(3)** Where an application is made to a court under subsection (2), the court may, where it is satisfied that it is equitable to do so,
-	- **(a)** order a shareholder or other person to pay or deliver to a director any money or property that was paid or distributed to the shareholder or other person contrary to section 71, 75, 79 or 212 or any amount referred to in paragraph (2)(b);
-	- **(b)** order a bank to return or issue shares to a person from whom the bank has purchased, redeemed or otherwise acquired shares; or
+	- **(a)** order a shareholder, member or other person to pay or deliver to a director any money or property that was paid or distributed to the shareholder, member or other person contrary to section 71, 75, 79 or 212 or any amount referred to in paragraph (2)(b);
+	- **(b)** order a bank to return or issue shares or membership shares to a person from whom the bank has purchased, redeemed or otherwise acquired shares or membership shares; or
 	- **(c)** make any further order it thinks fit.
+> 1991, c. 46, s. 208; 2010, c. 12, s. 1993.
+
 
 
 
@@ -4698,7 +5846,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 
 
-#### Amendments
+#### Amendments — Letters Patent
 
 
 
@@ -4726,11 +5874,247 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 
 
+#### Conversion into Federal Credit Union
+
+
+
+**Conversion into federal credit union**
+
+**216.01** On the application of a bank that is not a federal credit union, the Minister may, by letters patent, amend the bank’s incorporating instrument to convert the bank into a federal credit union.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Shareholder approval of conversion proposal**
+
+**216.02** 
+
+- **(1)** Before a bank makes an application under section 216.01, the directors of the bank must obtain from the shareholders, by special resolution,
+	- **(a)** approval of a conversion proposal that meets the requirements of the regulations and that has been approved by the Superintendent;
+	- **(b)** confirmation of any by-law or of any amendment to or repeal of a by-law that is necessary to implement the conversion proposal; and
+	- **(c)** authorization to make the application.
+
+**Additional information**
+
+- **(2)** The Minister may require the federal credit union to provide the Minister with any additional information that he or she considers necessary.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Right to vote**
+
+**216.03** 
+
+- **(1)** For the purposes of subsection 216.02(1), each share of the bank carries the right to vote in respect of any matter referred to in that subsection whether or not it otherwise carries the right to vote.
+
+**Class vote**
+
+- **(2)** For the purposes of subsection 216.02(1), the holders of shares of a class or series of shares of the bank are entitled to vote separately as a class or series in respect of any matter referred to in that subsection.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Time of application**
+
+**216.04** An application under section 216.01 may be made no later than three months after the bank’s conversion proposal has been approved by the shareholders.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Criteria for issuance of letters patent**
+
+**216.05** In determining whether to issue letters patent to amend a bank’s incorporating instrument to convert it into a federal credit union, the Minister must consider all matters that the Minister considers relevant, including whether
+- **(a)** the applicant bank will, on the issuance of the letters patent, be organized and carry on business on a cooperative basis in accordance with section 12.1;
+- **(b)** there are no reasonable grounds for believing that the issuance of the letters patent would cause the federal credit union to be in contravention of subsection 485(1), any regulation made under subsection 485(2) or any order made under subsection 485(3);
+- **(c)** the bank’s conversion proposal was approved by special resolution of the shareholders;
+- **(d)** the conversion of the bank into a federal credit union may reasonably be expected to be achieved under the terms of the conversion proposal;
+- **(e)** the conversion is fair and reasonable to the shareholders; and
+- **(f)** the conversion is in the best interests of the financial system in Canada, including the best interests of the cooperative financial system in Canada.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Effect of letters patent**
+
+**216.06** If the Minister issues letters patent to amend a bank’s incorporating instrument to convert it into a federal credit union, then, on the day stated in the letters patent,
+- **(a)** the holders of the common shares of the bank are deemed to be the members of the federal credit union;
+- **(b)** any common shares of the bank that are not to be converted into shares of the federal credit union according to the bank’s conversion proposal are deemed to be membership shares of the federal credit union to which are attached the rights, privileges and restrictions set out in this Act; and
+- **(c)** any common shares of the bank that are to be converted into shares of the federal credit union according to the bank’s conversion proposal are deemed to be shares of the federal credit union to which are attached the rights, privileges and restrictions set out in this Act.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Regulations**
+
+**216.07** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** respecting applications under section 216.01, including their form and the information to be contained in them;
+	- **(b)** respecting conversion proposals to become a federal credit union, including the information to be contained in them;
+	- **(c)** respecting the by-laws that must be made or repealed, or the amendments that must be made to by-laws, to give effect to a conversion proposal to become a federal credit union; and
+	- **(d)** generally, respecting the conversion of a bank into a federal credit union.
+
+**Conversion of common shares**
+
+- **(2)** Regulations made under paragraph (1)(b) must provide that a conversion proposal must provide that at least one common share held by every holder of common shares is converted into a membership share.
+
+**[Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
+
+- **(3)** A regulation made under subsection (1) may provide for different provisions respecting a bank that is subject to an order under paragraph 39.13(1)(a) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) or is a bridge institution within the meaning of that Act.
+
+**Exemption by Superintendent**
+
+- **(4)** A regulation made under subsection (1) may provide that the Superintendent may, on any terms and conditions that the Superintendent considers appropriate, exempt a bank from any requirements of that regulation.
+
+**Exemption by Minister**
+
+- **(5)** The Minister may, on any terms and conditions that the Minister considers appropriate, exempt a bank from any requirement of this Act or the regulations if the bank is applying for the approval of a proposal to convert itself into a federal credit union and
+	- **(a)** the Minister is of the opinion that the bank is, or is about to be, in financial difficulty and that the exemption would help to facilitate an improvement in the financial condition of the bank; or
+	- **(b)** is subject to an order under paragraph 39.13(1)(a) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) or is a bridge institution within the meaning of that Act.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+#### Conversion into Bank with Common Shares
+
+
+
+**Conversion into bank with common shares**
+
+**216.08** On the application of a federal credit union, the Minister may, by letters patent, amend the federal credit union’s incorporating instrument to convert the federal credit union into a bank with common shares.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Approval of conversion proposal**
+
+**216.09** 
+
+- **(1)** Before a federal credit union makes an application under section 216.08, the directors of the federal credit union must obtain from the members by special resolution and, if the federal credit union has issued shares, from the shareholders, by separate special resolution,
+	- **(a)** approval of a conversion proposal that meets the requirements of the regulations and that has been approved by the Superintendent;
+	- **(b)** confirmation of any by-law or of any amendment to or repeal of a by-law that is necessary to implement the conversion proposal; and
+	- **(c)** authorization to make the application.
+
+**Additional information**
+
+- **(2)** The Minister may require the federal credit union to provide the Minister with any additional information that he or she considers necessary.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Right to vote**
+
+**216.1** 
+
+- **(1)** For the purposes of subsection 216.09(1), each share of the federal credit union carries the right to vote in respect of any matter referred to in that subsection whether or not it otherwise carries the right to vote.
+
+**Class vote**
+
+- **(2)** For the purposes of subsection 216.09(1), the holders of shares of a class or series of shares of the federal credit union are entitled to vote separately as a class or series in respect of any matter referred to in that subsection.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Time of application**
+
+**216.11** An application under section 216.08 may be made no later than three months after the bank’s conversion proposal has been approved by the members and shareholders, if any.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Criteria for issuance of letters patent**
+
+**216.12** In determining whether to issue letters patent converting a federal credit union into a bank with common shares, the Minister must consider all matters that the Minister considers relevant, including whether
+- **(a)** there are no reasonable grounds for believing that the issuance of the letters patent would cause the bank with common shares to be in contravention of subsection 485(1), any regulation made under subsection 485(2) or any order made under subsection 485(3);
+- **(b)** the federal credit union’s conversion proposal was approved by special resolution of the members and a separate special resolution of the shareholders, if any;
+- **(c)** the conversion of the federal credit union into a bank with common shares may reasonably be expected to be achieved under the terms of the conversion proposal;
+- **(d)** the conversion is fair and reasonable to the members and shareholders, if any; and
+- **(e)** the conversion is in the best interests of the financial system in Canada, including the best interests of the cooperative financial system in Canada.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Effect of letters patent**
+
+**216.13** If the Minister issues letters patent to amend a federal credit union’s incorporating instrument to convert it into a bank with common shares, then, on the day stated in the letters patent, members of the federal credit union become, in accordance with the conversion proposal, holders of common shares of the bank to which are attached the rights, privileges and restrictions set out in this Act.
+> 2010, c. 12, s. 1995.
+
+
+
+
+
+**Regulations**
+
+**216.14** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** respecting applications under section 216.08, including their form and the information to be contained in them;
+	- **(b)** respecting conversion proposals to become a bank with common shares, including the information to be contained in them;
+	- **(c)** respecting the by-laws that must be made or repealed, or the amendments that must be made to by-laws, to give effect to a conversion proposal to become a bank with common shares;
+	- **(d)** respecting, for the purposes of a proposal to become a bank with common shares, the value of the converting federal credit union and of its membership shares and shares, if any, and authorizing the Superintendent to specify a day as of which those values must be estimated;
+	- **(e)** concerning the fair and equitable treatment of members and shareholders, if any, under a federal credit union’s conversion proposal to become a bank with common shares;
+	- **(f)** concerning the conversion of membership shares and shares, if any, of a federal credit union into common shares or other shares;
+	- **(g)** authorizing the Superintendent to
+		- **(i)** require a federal credit union that proposes to become a bank with common shares to hold one or more information sessions for its members and shareholders, if any, and to take other measures to assist its members and shareholders, if any, in forming a reasoned judgment on the proposal, and
+		- **(ii)** set the rules under which the information sessions must be held;
+	- **(h)** respecting restrictions on any fee, compensation or other consideration that may be paid, in respect of the conversion of a federal credit union into a bank with common shares, to any director, officer or employee of the federal credit union or to any entity with which a director, officer or employee of the federal credit union is associated;
+	- **(i)** prohibiting, except for those issued as a result of the implementation of a conversion proposal, the issuance or provision during the period set out in the regulations of shares, share options or rights to acquire shares, of a bank that has been converted from a federal credit union into a bank with common shares to
+		- **(i)** any director, officer or employee of the bank, or
+		- **(ii)** any person who was a director, officer or employee of the federal credit union during the year preceding the effective date of conversion of the federal credit union; and
+	- **(j)** generally, respecting the conversion of a federal credit union into a bank with common shares.
+
+**[Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
+
+- **(2)** A regulation made under subsection (1) may provide for different provisions respecting a federal credit union that is subject to an order under paragraph 39.13(1)(a) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) or is a bridge institution within the meaning of that Act.
+
+**Exemption by Superintendent**
+
+- **(3)** A regulation made under subsection (1) may provide that the Superintendent may, on any terms and conditions that the Superintendent considers appropriate, exempt a federal credit union from any requirements of that regulation.
+
+**Exemption by Minister**
+
+- **(4)** The Minister may, on any terms and conditions that the Minister considers appropriate, exempt a federal credit union from any requirement of this Act or the regulations if the federal credit union is applying for the approval of a proposal to convert itself into a bank with common shares and
+	- **(a)** the Minister is of the opinion that the federal credit union is, or is about to be, in financial difficulty and that the exemption would help to facilitate an improvement in the financial condition of the federal credit union; or
+	- **(b)** the federal credit union is subject to an order under paragraph 39.13(1)(a) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) or is a bridge institution within the meaning of that Act.
+> 2010, c. 12, s. 1995; 2012, c. 5, s. 223.
+
+
+
+
+
+#### Amendments — By-laws
+
+
+
 **By-laws**
 
 **217** 
 
-- **(1)** The directors of a bank may make, amend or repeal any by-laws, in the manner set out in subsections (2) and (3) and sections 218 to 222, to
+- **(1)** The directors of a bank that is not a federal credit union may make, amend or repeal any by-laws, in the manner set out in subsections (2) and (3) and sections 218 to 222, to
 	- **(a)** change the maximum number, if any, of shares of any class that the bank is authorized to issue;
 	- **(b)** create new classes of shares;
 	- **(c)** change the designation of any or all of the bank’s shares, and add, change or remove any rights, privileges, restrictions and conditions, including rights to accrued dividends, in respect of any or all of the bank’s shares, whether issued or unissued;
@@ -4758,7 +6142,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 **Effect of letters patent**
 
 - **(5)** Letters patent issued under subsection (4) become effective on the day stated in the letters patent.
-> 1991, c. 46, s. 217; 2001, c. 9, s. 82; 2005, c. 54, s. 46; 2007, c. 6, s. 13.
+> 1991, c. 46, s. 217; 2001, c. 9, s. 82; 2005, c. 54, s. 46; 2007, c. 6, s. 13; 2010, c. 12, s. 1996.
 
 
 
@@ -4836,7 +6220,11 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **223** 
 
-- **(1)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including banks and bank holding companies, the Minister may issue letters patent amalgamating and continuing the applicants as one bank.
+- **(1)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including banks that are not federal credit unions and bank holding companies, the Minister may issue letters patent amalgamating and continuing the applicants as one bank, other than a federal credit union.
+
+**Application to amalgamate — federal credit unions**
+
+- **(1.1)** On the joint application of two or more federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one federal credit union.
 
 **Restriction**
 
@@ -4852,7 +6240,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 	- **(a)** widely held;
 	- **(b)** controlled, within the meaning of paragraphs 3(1)(a) and (d), by a widely held bank, or by a widely held bank holding company, that controlled one of the applicants at the time the application was made; or
 	- **(c)** controlled, within the meaning of paragraph 3(1)(d), by a widely held insurance holding company, or by an eligible Canadian financial institution, as defined in subsection 370(1), other than a bank, or by an eligible foreign institution, as defined in subsection 370(1), that controlled one of the applicants at the time the application was made.
-> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132; 2012, c. 5, s. 8.
+> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132; 2010, c. 12, s. 1997; 2012, c. 5, s. 8.
 
 
 
@@ -4868,9 +6256,10 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
 	- **(a)** the name of the amalgamated bank and the province in which its head office is to be situated;
+	- **(a.1)** if the amalgamated bank is to be a federal credit union, a statement that the amalgamated bank will be organized and carry on business on a cooperative basis in accordance with section 12.1;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated bank;
-	- **(c)** the manner in which the shares of each applicant are to be converted into shares or other securities of the amalgamated bank;
-	- **(d)** if any shares of an applicant are not to be converted into shares or other securities of the amalgamated bank, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities of the amalgamated bank;
+	- **(c)** the manner in which the shares or membership shares of each applicant are to be converted into shares or other securities, or into membership shares, of the amalgamated bank;
+	- **(d)** if any shares or membership shares of an applicant are not to be converted into shares or other securities, or into membership shares, of the amalgamated bank, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities, or membership shares, of the amalgamated bank;
 	- **(e)** the manner of payment of money in lieu of the issue of fractional shares of the amalgamated bank or of any other body corporate that are to be issued in the amalgamation;
 	- **(f)** the proposed by-laws of the amalgamated bank;
 	- **(g)** details of any other matter necessary to perfect the amalgamation and to provide for the subsequent management and operation of the amalgamated bank; and
@@ -4878,8 +6267,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Cross ownership of shares**
 
-- **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated bank.
-> 1991, c. 46, s. 224; 2005, c. 54, s. 47.
+- **(3)** If shares or membership shares of one of the applicants are held by or on behalf of another of the applicants, other than shares or membership shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares or membership shares when the amalgamation becomes effective without any repayment of capital in respect of them, and no provision may be made in the agreement for the conversion of those shares or membership shares into shares or membership shares of the amalgamated bank.
+> 1991, c. 46, s. 224; 2005, c. 54, s. 47; 2010, c. 12, s. 1998.
 
 
 
@@ -4887,18 +6276,18 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Approval of agreement by Superintendent**
 
-**225** An amalgamation agreement must be submitted to the Superintendent for approval and any approval of the agreement under subsection 226(4) by the holders of any class or series of shares of an applicant is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
-> 1991, c. 46, s. 225; 2007, c. 6, s. 14.
+**225** An amalgamation agreement must be submitted to the Superintendent for approval, and any approval of the agreement under subsection 226(4) by the holders of any class or series of shares of an applicant, and, if applicable, by the members, is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
+> 1991, c. 46, s. 225; 2007, c. 6, s. 14; 2010, c. 12, s. 1999(E).
 
 
 
 
 
-**Shareholder approval**
+**Approval**
 
 **226** 
 
-- **(1)** The directors of each applicant shall submit an amalgamation agreement for approval to a meeting of the holders of shares of the applicant bank or body corporate of which they are directors and, subject to subsection (3), to the holders of each class or series of such shares.
+- **(1)** The directors of each applicant must submit an amalgamation agreement for approval to a meeting of the shareholders of the applicant — or, if the applicant is a federal credit union, to a meeting of its members and to a meeting of its shareholders, if any.
 
 **Right to vote**
 
@@ -4910,12 +6299,21 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Special resolution**
 
-- **(4)** Subject to subsection (3), an amalgamation agreement is approved when the shareholders of each applicant bank or body corporate have approved the amalgamation by special resolution.
+- **(4)** Subject to subsection (3), an amalgamation agreement is approved when the shareholders of each applicant bank or body corporate have approved the amalgamation by special resolution or, if an applicant bank is a federal credit union, the members and shareholders, if any, have approved the amalgamation by separate special resolutions.
 
 **Termination**
 
-- **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant notwithstanding that the agreement has been approved by the shareholders of all or any of the applicant banks or bodies corporate.
-> 1991, c. 46, s. 226; 2005, c. 54, s. 48.
+- **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant even if the agreement has been approved by the shareholders — or the members and shareholders, if any — of all or any of the applicant banks or bodies corporate.
+> 1991, c. 46, s. 226; 2005, c. 54, s. 48; 2010, c. 12, s. 2000.
+
+
+
+
+
+**Members of amalgamated federal credit union**
+
+**226.1** On the issuance of letters patent amalgamating and continuing two or more federal credit unions as one federal credit union, the members of the federal credit unions become members of the amalgamated federal credit union.
+> 2010, c. 12, s. 2001.
 
 
 
@@ -4925,7 +6323,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **227** 
 
-- **(1)** A bank may, without complying with sections 224 to 226, amalgamate with one or more bodies corporate that are incorporated by or under an Act of Parliament if the body or bodies corporate, as the case may be, are wholly-owned subsidiaries of the bank and
+- **(1)** A bank, other than a federal credit union, may, without complying with sections 224 to 226, amalgamate with one or more bodies corporate that are incorporated by or under an Act of Parliament if the body or bodies corporate, as the case may be, are wholly-owned subsidiaries of the bank and
 	- **(a)** the amalgamation is approved by a resolution of the directors of the bank and of each amalgamating subsidiary; and
 	- **(b)** the resolutions provide that
 		- **(i)** the shares of each amalgamating subsidiary will be cancelled without any repayment of capital in respect thereof,
@@ -4934,7 +6332,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Horizontal short-form amalgamation**
 
-- **(2)** Two or more bodies corporate incorporated by or under an Act of Parliament may amalgamate and continue as one bank without complying with sections 224 to 226 if
+- **(2)** Two or more bodies corporate incorporated by or under an Act of Parliament, none of which is a federal credit union, may amalgamate and continue as one bank, without complying with sections 224 to 226 if
 	- **(a)** at least one of the applicants is a bank;
 	- **(b)** the applicants are all wholly-owned subsidiaries of the same holding body corporate;
 	- **(c)** the amalgamation is approved by a resolution of the directors of each of the applicants; and
@@ -4942,6 +6340,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 		- **(i)** the shares of all applicants, except those of one of the applicants that is a bank, will be cancelled without any repayment of capital in respect thereof,
 		- **(ii)** the letters patent of amalgamation and the by-laws of the amalgamated bank will be the same as the incorporating instrument and the by-laws of the amalgamating bank whose shares are not cancelled, and
 		- **(iii)** the stated capital of the amalgamating banks and bodies corporate whose shares are cancelled will be added to the stated capital of the amalgamating bank whose shares are not cancelled.
+> 1991, c. 46, s. 227; 2010, c. 12, s. 2002.
+
 
 
 
@@ -4973,9 +6373,10 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 	- **(f)** the impact of any integration of the operations and businesses of the applicants on the conduct of those operations and businesses;
 	- **(g)** the opinion of the Superintendent regarding the extent to which the proposed corporate structure of the amalgamated bank and its affiliates may affect the supervision and regulation of the amalgamated bank, having regard to
 		- **(i)** the nature and extent of the proposed financial services activities to be carried out by the amalgamated bank and its affiliates, and
-		- **(ii)** the nature and degree of supervision and regulation applying to the proposed financial services activities to be carried out by the affiliates of the amalgamated bank; and
-	- **(h)** the best interests of the financial system in Canada.
-> 1991, c. 46, s. 228; 2001, c. 9, s. 85.
+		- **(ii)** the nature and degree of supervision and regulation applying to the proposed financial services activities to be carried out by the affiliates of the amalgamated bank;
+	- **(h)** if the amalgamated bank will be a federal credit union, that it will be organized and carry on business on a cooperative basis in accordance with section 12.1; and
+	- **(i)** the best interests of the financial system in Canada, including, if the amalgamated bank will be a federal credit union, the best interests of the cooperative financial system in Canada.
+> 1991, c. 46, s. 228; 2001, c. 9, s. 85; 2010, c. 12, s. 2003.
 
 
 
@@ -5096,8 +6497,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Agreement to Superintendent**
 
-**233** A sale agreement must be sent to the Superintendent before it is submitted to shareholders of the selling bank under subsection 234(1).
-> 1991, c. 46, s. 233; 2007, c. 6, s. 16.
+**233** A sale agreement must be sent to the Superintendent before it is submitted to shareholders or to members and shareholders, as the case may be, of the selling bank under subsection 234(1).
+> 1991, c. 46, s. 233; 2007, c. 6, s. 16; 2010, c. 12, s. 2004.
 
 
 
@@ -5107,7 +6508,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **234** 
 
-- **(1)** The directors of a selling bank shall submit a sale agreement for approval to a meeting of the holders of shares of the bank and, subject to subsection (3), to the holders of each class or series of shares of the bank.
+- **(1)** The directors of a selling bank must submit a sale agreement for approval to a meeting of shareholders, or, if the bank is a federal credit union, to a meeting of members and shareholders of the bank and, subject to subsection (3), to the holders of each class or series of shares of the bank.
 
 **Right to vote**
 
@@ -5119,14 +6520,18 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Special resolution**
 
-- **(4)** A sale agreement is approved when the shareholders, and the holders of each class or series of shares entitled to vote separately as a class or series pursuant to subsection (3), of the selling bank have approved the sale by special resolution.
+- **(4)** A sale agreement is approved when the shareholders and the holders of each class or series of shares entitled to vote separately as a class or series under subsection (3) of the selling bank have approved the sale by special resolution and, if the selling bank is a federal credit union, the members have also approved the sale by a separate special resolution.
+> 1991, c. 46, s. 234; 2010, c. 12, s. 2005.
+
 
 
 
 
 **Abandoning sale**
 
-**235** Where a special resolution approving a sale under subsection 234(4) so states, the directors of a selling bank may, subject to the rights of third parties, abandon the sale without further approval of the shareholders.
+**235** If a special resolution approving a sale under subsection 234(4) so states, the directors of a selling bank may, subject to the rights of third parties, abandon the sale without further approval of the shareholders or the members and shareholders, as the case may be.
+> 1991, c. 46, s. 235; 2010, c. 12, s. 2006.
+
 
 
 
@@ -5187,7 +6592,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 - **(1)** A bank shall prepare and maintain records containing
 	- **(a)** its incorporating instrument and the by-laws of the bank and all amendments thereto;
-	- **(b)** minutes of meetings and resolutions of shareholders;
+	- **(b)** minutes of meetings and resolutions of shareholders and members;
 	- **(c)** the information referred to in paragraphs 632(1)(a), (c) and (e) to (h) contained in all returns provided to the Superintendent pursuant to section 632;
 	- **(d)** particulars of any authorizations, conditions and limitations established by the Superintendent pursuant to section 53 or subsection 54(1) that are from time to time applicable to the bank;
 	- **(e)** particulars of exceptions granted under section 39, 55 or 231 that are from time to time applicable to the bank; and
@@ -5198,14 +6603,14 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 - **(2)** In addition to the records described in subsection (1), a bank shall prepare and maintain adequate
 	- **(a)** corporate accounting records;
 	- **(b)** records containing minutes of meetings and resolutions of the directors and any committee thereof; and
-	- **(c)** records showing, for each customer of the bank, on a daily basis, particulars of the transactions between the bank and that customer and the balance owing to or by the bank in respect of that customer.
+	- **(c)** records showing, for each customer of the bank, on a daily basis, particulars of the transactions between the bank and that customer and the balance owing to or by the bank in respect of that customer and, if the bank is a federal credit union, whether the customer is a member of the federal credit union.
 
 **Continued banks**
 
 - **(3)** For the purposes of paragraph (1)(b) and subsection (2),
 	- **(a)** in the case of a body corporate continued as a bank under this Act, ***records*** includes similar records required by law to be maintained by the body corporate before it was so continued; and
 	- **(b)** in the case of a body corporate amalgamated and continued as a bank under this Act, ***records*** includes similar records required by law to be maintained by the body corporate before it was so amalgamated.
-> 1991, c. 46, s. 238; 1997, c. 15, s. 29(E); 1999, c. 28, s. 16.
+> 1991, c. 46, s. 238; 1997, c. 15, s. 29(E); 1999, c. 28, s. 16; 2010, c. 12, s. 2007.
 
 
 
@@ -5231,7 +6636,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Access to bank records**
 
-- **(5)** Shareholders and creditors of a bank and their personal representatives may examine the records referred to in subsection 238(1) during the usual business hours of the bank and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the bank is a distributing bank, any other person may on payment of a reasonable fee examine those records during the usual business hours of the bank and take extracts from them or have copies of them made.
+- **(5)** Shareholders, members and creditors of a bank and their personal representatives may examine the records referred to in subsection 238(1) during the usual business hours of the bank and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the bank is a distributing bank, any other person may on payment of a reasonable fee examine those records during the usual business hours of the bank and take extracts from them or have copies of them made.
 
 **Electronic access**
 
@@ -5239,18 +6644,18 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Copies of by-laws**
 
-- **(6)** Every shareholder of a bank is entitled, on request made not more frequently than once in each calendar year, to receive, free of charge, one copy of the by-laws of the bank.
-> 1991, c. 46, s. 239; 2001, c. 9, s. 88; 2005, c. 54, s. 50.
+- **(6)** Every shareholder and every member of a bank is entitled, on request made not more frequently than once in each calendar year, to receive, free of charge, one copy of the by-laws of the bank.
+> 1991, c. 46, s. 239; 2001, c. 9, s. 88; 2005, c. 54, s. 50; 2010, c. 12, s. 2008.
 
 
 
 
 
-**Shareholder lists**
+**Lists**
 
 **240** 
 
-- **(1)** A person who is entitled to a basic list of shareholders of a bank (in this section referred to as the “applicant”) may request the bank to furnish the applicant with a basic list within ten days after receipt by the bank of the affidavit referred to in subsection (2) and, on payment of a reasonable fee by the applicant, the bank shall comply with the request.
+- **(1)** A person who is entitled to a basic list of shareholders or members of a bank (in this section referred to as the “applicant”) may request the bank to furnish the applicant with a basic list within ten days after receipt by the bank of the affidavit referred to in subsection (2) and, on payment of a reasonable fee by the applicant, the bank must comply with the request.
 
 **Affidavit and contents**
 
@@ -5262,25 +6667,25 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 
 **Entitlement to list**
 
-- **(3)** A shareholder or creditor of a bank or their personal representative — or if the bank is a distributing bank, any person — is entitled to a basic list of shareholders of the bank.
+- **(3)** A shareholder, member or creditor of a bank or their personal representative — or, if the bank is a distributing bank, any person — is entitled to a basic list of shareholders or members of the bank.
 
 **Basic list**
 
-- **(4)** A basic list of shareholders of a bank consists of a list of shareholders that is made up to a date not more than ten days before the receipt of the affidavit referred to in subsection (2) and that sets out
-	- **(a)** the names of the shareholders of the bank;
-	- **(b)** the number of shares owned by each shareholder; and
-	- **(c)** the address of each shareholder as shown in the records of the bank.
+- **(4)** A basic list of shareholders or members of a bank consists of a list of shareholders or members that is made up to a date not more than ten days before the receipt of the affidavit referred to in subsection (2) and that sets out
+	- **(a)** the names of the shareholders or members, as the case may be, of the bank;
+	- **(b)** the number of shares owned by each shareholder, or the number of membership shares owned by each member, as the case may be; and
+	- **(c)** the address of each shareholder or member as shown in the records of the bank.
 
 **Supplemental lists**
 
-- **(5)** A person requiring a bank to supply a basic list of shareholders may, if the person states in the accompanying affidavit that supplemental lists are required, request the bank or its agent, on payment of a reasonable fee, to provide supplemental lists of shareholders setting out any changes from the basic list in the names and addresses of the shareholders and the number of shares owned by each shareholder for each business day following the date to which the basic list is made up.
+- **(5)** A person requiring a bank to supply a basic list may, if the person states in the accompanying affidavit that supplemental lists are required, request the bank or its agent, on payment of a reasonable fee, to provide supplemental lists of shareholders or members setting out any changes from the basic list in the names and addresses of the shareholders or members, as the case may be, and the number of shares owned by each shareholder, or the number of membership shares owned by each member, as the case may be, for each business day following the date to which the basic list is made up.
 
 **When supplemental lists to be furnished**
 
 - **(6)** A bank or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
-> 1991, c. 46, s. 240; 2005, c. 54, s. 51.
+> 1991, c. 46, s. 240; 2005, c. 54, s. 51; 2010, c. 12, s. 2009.
 
 
 
@@ -5288,17 +6693,21 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 
 **Option holders**
 
-**241** A person requiring a bank to supply a basic list or a supplemental list of shareholders may also require the bank to include in that list the name and address of any known holder of an option or right to acquire shares of the bank.
+**241** A person requiring a bank to supply a basic list or a supplemental list of shareholders or members may also require the bank to include in that list the name and address of any known holder of an option or right to acquire shares of the bank.
+> 1991, c. 46, s. 241; 2010, c. 12, s. 2010(E).
 
 
 
 
-**Use of shareholder list**
 
-**242** A list of shareholders obtained under section 240 shall not be used by any person except in connection with
-- **(a)** an effort to influence the voting of shareholders of the bank;
+**Use of list**
+
+**242** No person shall use a list of shareholders or members obtained under section 240 except in connection with
+- **(a)** an effort to influence the voting of shareholders or members of the bank;
 - **(b)** an offer to acquire shares of the bank; or
 - **(c)** any other matter relating to the affairs of the bank.
+> 1991, c. 46, s. 242; 2010, c. 12, s. 2011.
+
 
 
 
@@ -5338,12 +6747,12 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **245** 
 
-- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for a bank to maintain, in another country, copies of records referred to in section 238 or of its central securities register or for a bank to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for a bank to do any of those activities in another country — the Superintendent shall direct the bank to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
+- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for a bank to maintain, in another country, copies of records referred to in section 238 or of its central securities register or members register or for a bank to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register or members register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for a bank to do any of those activities in another country — the Superintendent must direct the bank to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
 
 **Bank to comply**
 
 - **(2)** A bank shall without delay comply with any direction issued under subsection (1).
-> 1991, c. 46, s. 245; 2001, c. 9, s. 89; 2005, c. 54, s. 52; 2007, c. 6, s. 17.
+> 1991, c. 46, s. 245; 2001, c. 9, s. 89; 2005, c. 54, s. 52; 2007, c. 6, s. 17; 2010, c. 12, s. 2012.
 
 
 
@@ -5355,8 +6764,9 @@ the registers and records required or authorized by this Act to be prepared and 
 
 - **(1)** A bank shall retain
 	- **(a)** the records of the bank referred to in subsection 238(1);
-	- **(b)** any record of the bank referred to in paragraph 238(2)(a) or (b); and
-	- **(c)** the central securities register referred to in subsection 248(1).
+	- **(b)** any record of the bank referred to in paragraph 238(2)(a) or (b);
+	- **(c)** the central securities register referred to in subsection 248(1); and
+	- **(d)** the members register referred to in subsection 254.1(1).
 
 **Idem**
 
@@ -5369,6 +6779,8 @@ the registers and records required or authorized by this Act to be prepared and 
 **Relief**
 
 - **(4)** Nothing in this section affects the operation of any statute of limitation or prescription or relieves the bank from any obligation to the Bank of Canada in respect of any deposit or instrument in respect of which section 438 applies.
+> 1991, c. 46, s. 246; 2010, c. 12, s. 2013.
+
 
 
 
@@ -5399,7 +6811,7 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **Access to central securities register**
 
-- **(3)** Shareholders and creditors of a bank and their personal representatives may examine the central securities register during the usual business hours of the bank and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the bank is a distributing bank, any other person may on payment of a reasonable fee examine the central securities register during the usual business hours of the bank and take extracts from it or have copies of it made.
+- **(3)** Shareholders and creditors of a bank and their personal representatives — and, if the bank is a federal credit union, its members and their personal representatives — may examine the central securities register during the usual business hours of the bank and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the bank is a distributing bank, any other person may, on payment of a reasonable fee, examine the central securities register during the usual business hours of the bank and take extracts from it or have copies of it made.
 
 **Electronic access**
 
@@ -5418,7 +6830,7 @@ the registers and records required or authorized by this Act to be prepared and 
 - **(7)** A bank or its agent shall provide the supplementary information within
 	- **(a)** 10 days after the day on which the central securities register is examined if the changes take place before that day; and
 	- **(b)** 10 days after the day to which the supplementary information relates if the changes take place on or after the day on which the central securities register is examined.
-> 1991, c. 46, s. 248; 2001, c. 9, s. 90; 2005, c. 54, s. 53.
+> 1991, c. 46, s. 248; 2001, c. 9, s. 90; 2005, c. 54, s. 53; 2010, c. 12, s. 2014.
 
 
 
@@ -5481,6 +6893,107 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
+#### Members Register
+
+
+
+**Members register**
+
+**254.1** 
+
+- **(1)** A federal credit union must maintain a members register in which it must record
+	- **(a)** the names, alphabetically arranged, and latest known addresses of the members and former members of the federal credit union;
+	- **(b)** the number of membership shares held by each member; and
+	- **(c)** the date and particulars of the issue and transfer of each membership share.
+
+**Similar registers**
+
+- **(2)** For the purposes of subsection (1), “members register” includes similar registers required by law to be maintained by a body corporate that was continued, or amalgamated and continued, as a federal credit union before the continuance or amalgamation and continuance.
+
+**Access to members register**
+
+- **(3)** Members, shareholders and creditors of a federal credit union, and their personal representatives, may examine the members register during the usual business hours of the federal credit union and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the federal credit union is a distributing bank, any other person may, on payment of a reasonable fee, examine the members register during the usual business hours of the bank and take extracts from it or have copies of it made.
+
+**Electronic access**
+
+- **(4)** The federal credit union may make the information contained in the members register available by any mechanical or electronic data processing system or other information storage device that is capable of reproducing it in intelligible written form within a reasonable time.
+
+**Affidavit and undertaking**
+
+- **(5)** A person who wishes to examine the members register, take extracts from it or have copies of it made must provide the federal credit union with an affidavit containing their name and address — or, if they are an entity, the name and address for service of the entity — and an undertaking that the information contained in the register will not be used except in the same way as a list of shareholders or members may be used under section 242. In the case of an entity, the affidavit is to be sworn by a director or officer of the entity or a person acting in a similar capacity.
+
+**Supplementary information**
+
+- **(6)** A person who wishes to examine a members register, take extracts from it or have copies of it made may, on payment of a reasonable fee, if they state in the accompanying affidavit that supplementary information is required, request the federal credit union or its agent to provide supplementary information setting out any changes made to the register.
+
+**When supplementary information to be provided**
+
+- **(7)** A federal credit union or its agent must provide the supplementary information within
+	- **(a)** 10 days after the day on which the members register is examined if the changes take place before that day; and
+	- **(b)** 10 days after the day to which the supplementary information relates if the changes take place on or after the day on which the members register is examined.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
+**Branch members registers**
+
+**254.2** A federal credit union may establish as many branch members registers as it considers necessary.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
+**Agents**
+
+**254.3** A federal credit union may appoint an agent to maintain its members register and each of its branch members registers.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
+**Location of members register**
+
+**254.4** 
+
+- **(1)** The members register of a federal credit union is to be maintained by the federal credit union at its head office or at any other place in Canada designated by the federal credit union’s directors.
+
+**Location of branch members register**
+
+- **(2)** A branch members register of a federal credit union may be kept at any place in or outside Canada designated by the directors of the federal credit union.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
+**Particulars in branch members register**
+
+**254.5** 
+
+- **(1)** A branch members register must contain only particulars of the membership shares issued or transferred at the branch for which that register is established.
+
+**Particulars in members register**
+
+- **(2)** Particulars of each issue or transfer of a membership share registered in a branch members register of a federal credit union must also be kept in the members register of the federal credit union.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
+**Cancelled membership share certificates**
+
+**254.6** A federal credit union, its agent or a trustee within the meaning of section 294 is not required to produce a cancelled membership share certificate in registered form after six years from the day on which it is cancelled.
+> 2010, c. 12, s. 2015.
+
+
+
+
+
 #### Corporate Name and Seal
 
 
@@ -5521,11 +7034,11 @@ the registers and records required or authorized by this Act to be prepared and 
 
 - **(1)** In this section and sections 266 to 272,
 
-***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2);
+***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2); (*groupe*)
 
-***business combination*** means an acquisition of all or substantially all of the assets of one body corporate by another, an amalgamation of two or more bodies corporate or any similar reorganization between two or more bodies corporate;
+***business combination*** means an acquisition of all or substantially all of the assets of one body corporate by another, an amalgamation of two or more bodies corporate or any similar reorganization between two or more bodies corporate; (*regroupement d’entreprises*)
 
-***call*** means an option, transferable by delivery, to demand delivery of a specified number or amount of shares at a fixed price within a specified time but does not include an option or right to acquire shares of the body corporate that granted the option or right to acquire;
+***call*** means an option, transferable by delivery, to demand delivery of a specified number or amount of shares at a fixed price within a specified time but does not include an option or right to acquire shares of the body corporate that granted the option or right to acquire; (*option d’achat*)
 
 ***distributing bank***[Repealed, 2005, c. 54, s. 55]
 
@@ -5533,20 +7046,21 @@ the registers and records required or authorized by this Act to be prepared and 
 
 ***officer***, in relation to a bank, means
 - **(a)** an officer as defined in paragraph (a) of the definition ***officer*** in section 2, or
-- **(b)** any natural person who performs functions for the bank similar to those performed by a person referred to in paragraph (a) of the definition ***officer*** in section 2;
+- **(b)** any natural person who performs functions for the bank similar to those performed by a person referred to in paragraph (a) of the definition ***officer*** in section 2; (*dirigeant d’une banque*)
 
-***put*** means an option, transferable by delivery, to deliver a specified number or amount of shares at a fixed price within a specified time;
+***put*** means an option, transferable by delivery, to deliver a specified number or amount of shares at a fixed price within a specified time; (*option de vente*)
 
-***share*** means a voting share and includes
-- **(a)** a security currently convertible into a voting share, and
-- **(b)** a currently exercisable option or a right to acquire a voting share or a security referred to in paragraph (a).
+***share*** means a voting share and includes
+- **(a)** a security currently convertible into a voting share,
+- **(b)** a currently exercisable option or a right to acquire a voting share or a security referred to in paragraph (a), and
+- **(c)** a membership share. (*action*)
 
 **Control**
 
 - **(2)** For the purposes of this section and sections 266 to 272, a person controls a body corporate when the person controls the body corporate within the meaning of section 3, determined without regard to paragraph 3(1)(d).
 
 - **(3) and (4)** [Repealed, 2005, c. 54, s. 55]
-> 1991, c. 46, s. 265; 2005, c. 54, s. 55.
+> 1991, c. 46, s. 265; 2005, c. 54, s. 55; 2010, c. 12, s. 2016.
 
 
 
@@ -5646,10 +7160,15 @@ the registers and records required or authorized by this Act to be prepared and 
 	- **(h)** a person who receives material confidential information from a person who is and who they know or ought reasonably to have known is a person described in this subsection, including in this paragraph, or subsection (3) or (4); or
 	- **(i)** a prescribed person.
 
+**Extended meaning of insider — federal credit union**
+
+- **(1.1)** In addition to subsection (1), in this section and sections 271.1 and 272, ***insider*** with respect to a bank that is a federal credit union means a member of the federal credit union who holds more than the prescribed percentage of the membership shares of the federal credit union.
+
 **Extended meaning of security**
 
 - **(2)** For the purposes of this section, each of the following is deemed to be a security of a bank:
-	- **(a)** a put, call, option or other right or obligation to purchase or sell a security of the bank; and
+	- **(a)** a membership share of the bank, if the bank is a federal credit union;
+	- **(a.1)** a put, call, option or other right or obligation to purchase or sell a security of the bank; and
 	- **(b)** a security of another entity, the market price of which varies materially with the market price of the securities of the bank.
 
 **Deemed insider — take-over bid or business combination**
@@ -5680,7 +7199,7 @@ the registers and records required or authorized by this Act to be prepared and 
 **Insider trading — compensation to bank**
 
 - **(7)** The insider is accountable to the bank for any benefit or advantage received or receivable by the insider as a result of a purchase or sale described in subsection (6) unless they establish the circumstances described in paragraph (6)(a).
-> 1991, c. 46, s. 271; 2005, c. 54, s. 57.
+> 1991, c. 46, s. 271; 2005, c. 54, s. 57; 2010, c. 12, s. 2017.
 
 
 
@@ -5734,15 +7253,33 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **273** 
 
-- **(1)** No person, including a bank, shall distribute securities of a bank except in accordance with the regulations made under subsection (2).
+- **(1)** No person, including a bank, shall distribute securities of a bank that is not a federal credit union except in accordance with the regulations made under subsection (2).
 
 **Regulations**
 
-- **(2)** The Governor in Council may make regulations respecting the distribution of securities of a bank, including
-	- **(a)** respecting the information that is to be disclosed by a bank before the distribution of any of its securities, including the information that is to be included in a prospectus;
+- **(2)** The Governor in Council may make regulations respecting the distribution of securities of a bank that is not a federal credit union, including
+	- **(a)** respecting the information that is to be disclosed by such a bank before the distribution of any of its securities, including the information that is to be included in a prospectus;
 	- **(b)** respecting the manner of disclosure and the form of the information that is to be disclosed; and
 	- **(c)** exempting any class of distribution of securities from the application of subsection (1).
-> 1991, c. 46, s. 273; 2005, c. 54, s. 57.
+> 1991, c. 46, s. 273; 2005, c. 54, s. 57; 2012, c. 5, s. 9.
+
+
+
+
+
+**Distribution — federal credit union**
+
+**273.1** 
+
+- **(1)** No person, including a bank, shall distribute securities of a federal credit union except in accordance with the regulations made under subsection (2).
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations respecting the distribution of securities of a federal credit union, including
+	- **(a)** respecting the information that is to be disclosed by a federal credit union before the distribution of any of its securities, including the information that is to be included in a prospectus;
+	- **(b)** respecting the manner of disclosure and the form of the information that is to be disclosed; and
+	- **(c)** exempting any class of distribution of securities from the application of subsection (1).
+> 2012, c. 5, s. 10.
 
 
 
@@ -5752,12 +7289,12 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **274** 
 
-- **(1)** On application by a bank or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of any regulations made under subsection 273(2) if the Superintendent is satisfied that the bank has disclosed or is about to disclose, in compliance with the laws of the relevant jurisdiction, information relating to the distribution that in form and content substantially complies with the requirements of those regulations.
+- **(1)** On application by a bank or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of any regulations made under subsection 273(2) or 273.1(2) if the Superintendent is satisfied that the bank or federal credit union, as the case may be, has disclosed or is about to disclose, in compliance with the laws of the relevant jurisdiction, information relating to the distribution that in form and content substantially complies with the requirements of those regulations.
 
 **Conditions**
 
 - **(2)** An order under subsection (1) may contain any conditions or limitations that the Superintendent deems appropriate.
-> 1991, c. 46, s. 274; 2005, c. 54, s. 57.
+> 1991, c. 46, s. 274; 2005, c. 54, s. 57; 2012, c. 5, s. 11.
 
 
 
@@ -6376,12 +7913,12 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **308** 
 
-- **(1)** The directors of a bank shall place before the shareholders at every annual meeting
+- **(1)** The directors of a bank must place before the shareholders or members, as the case may be, at every annual meeting
 	- **(a)** a comparative annual financial statement (in this Act referred to as an “annual statement”) relating separately to
 		- **(i)** the financial year immediately preceding the meeting, and
 		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
 	- **(b)** the report of the auditor or auditors of the bank; and
-	- **(c)** any further information respecting the financial position of the bank and the results of its operations required by the by-laws of the bank to be placed before the shareholders at the annual meeting.
+	- **(c)** any further information respecting the financial position of the bank and the results of its operations required by the by-laws of the bank to be placed before the shareholders or members at the annual meeting.
 
 **Annual statement — contents**
 
@@ -6393,7 +7930,12 @@ provide the trustee with evidence of compliance with the conditions in the trust
 	- **(a)** a list of the subsidiaries of the bank, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 472 or pursuant to a realization of security in accordance with section 473 and which the bank would not otherwise be permitted to hold, showing, with respect to each subsidiary,
 		- **(i)** its name and the address of its head or principal office,
 		- **(ii)** the book value of the aggregate of any shares of the subsidiary beneficially owned by the bank and by other subsidiaries of the bank, and
-		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the bank and by other subsidiaries of the bank; and
+		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the bank and by other subsidiaries of the bank;
+	- **(a.1)** in the case of a federal credit union, a statement that sets out
+		- **(i)** the number of its members at the end of the financial year,
+		- **(ii)** the percentage of financial services that during the financial year were transacted with members on the basis of the gross revenue of the federal credit union for the financial year,
+		- **(iii)** the percentage of its members who are natural persons at the end of the financial year, and
+		- **(iv)** whether the federal credit union was organized and carrying on business on a cooperative basis at the end of the financial year in accordance with section 12.1; and
 	- **(b)** such other information as the Governor in Council may, by order, require in such form as may be prescribed.
 
 **Accounting principles**
@@ -6403,7 +7945,7 @@ provide the trustee with evidence of compliance with the conditions in the trust
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
-> 1991, c. 46, s. 308; 1997, c. 15, s. 33; 2001, c. 9, s. 92; 2005, c. 54, s. 69.
+> 1991, c. 46, s. 308; 1997, c. 15, s. 33; 2001, c. 9, s. 92; 2005, c. 54, s. 69; 2010, c. 12, s. 2018.
 
 
 
@@ -6434,7 +7976,7 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **Examination**
 
-- **(2)** Subject to this section, the shareholders of a bank and their personal representatives may, on request therefor, examine the statements referred to in subsection (1) during the usual business hours of the bank and may take extracts therefrom free of charge.
+- **(2)** Subject to this section, the shareholders and members of a bank and their personal representatives may, on request, examine the statements referred to in subsection (1) during the usual business hours of the bank and may take extracts from those statements free of charge.
 
 **Barring examination**
 
@@ -6447,24 +7989,26 @@ provide the trustee with evidence of compliance with the conditions in the trust
 **Notice to Superintendent**
 
 - **(5)** A bank shall give the Superintendent and the person seeking to examine the statements referred to in subsection (1) notice of an application to a court under subsection (4), and the Superintendent and the person may appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 46, s. 310; 2010, c. 12, s. 2019.
 
 
 
 
-**Annual statement — distribution**
+
+**Distribution of annual statement**
 
 **311** 
 
-- **(1)** A bank shall, no later than 21 days before the date of each annual meeting or before the signing of a resolution under paragraph 152(1)(b) in lieu of the annual meeting, send to each shareholder a copy of the documents referred to in subsections 308(1) and (3) unless that time period is waived by the shareholder.
+- **(1)** A bank must, not later than 21 days before the date of each annual meeting or before the signing of a resolution under paragraph 152(1)(b) in lieu of the annual meeting, send to each shareholder or, in the case of a federal credit union, to each member and shareholder, if any, a copy of the documents referred to in subsections 308(1) and (3), unless that time period is waived by the shareholder or member, as the case may be.
 
 **Exception**
 
-- **(2)** A bank is not required to comply with subsection (1) with respect to a shareholder who has informed the bank, in writing, that the shareholder does not wish to receive the annual statement.
+- **(2)** A bank is not required to comply with subsection (1) with respect to a person who has informed the bank, in writing, that the person does not wish to receive the annual statement.
 
 **Effect of default**
 
 - **(3)** Where a bank is required to comply with subsection (1) and the bank does not comply with that subsection, the annual meeting at which the documents referred to in that subsection are to be considered shall be adjourned until that subsection has been complied with.
-> 1991, c. 46, s. 311; 1997, c. 15, s. 34; 2005, c. 54, s. 71.
+> 1991, c. 46, s. 311; 1997, c. 15, s. 34; 2005, c. 54, s. 71; 2010, c. 12, ss. 2020, 2135.
 
 
 
@@ -6474,12 +8018,12 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **312** 
 
-- **(1)** Subject to subsection (2), a bank shall send to the Superintendent a copy of the documents referred to in subsections 308(1) and (3) not later than twenty-one days before the date of each annual meeting of shareholders of the bank.
+- **(1)** Subject to subsection (2), a bank must send to the Superintendent a copy of the documents referred to in subsections 308(1) and (3) not later than 21 days before the date of each annual meeting of shareholders or members of the bank.
 
 **Later filing**
 
-- **(2)** If a bank’s shareholders sign a resolution under paragraph 152(1)(b) in lieu of an annual meeting, the bank shall send a copy of the documents referred to in subsections 308(1) and (3) to the Superintendent not later than thirty days after the signing of the resolution.
-> 1991, c. 46, s. 312; 1997, c. 15, s. 35; 2001, c. 9, s. 93.
+- **(2)** If a bank’s shareholders or members sign a resolution under paragraph 152(1)(b) in lieu of an annual meeting, the bank must send a copy of the documents referred to in subsections 308(1) and (3) to the Superintendent not later than 30 days after the signing of the resolution.
+> 1991, c. 46, s. 312; 1997, c. 15, s. 35; 2001, c. 9, s. 93; 2010, c. 12, s. 2021.
 
 
 
@@ -6506,15 +8050,17 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **314** 
 
-- **(1)** The shareholders of a bank shall, by ordinary resolution at the first meeting of shareholders and at each succeeding annual meeting, appoint a firm of accountants to be the auditor of the bank until the close of the next annual meeting.
+- **(1)** The shareholders of a bank, or the members of a federal credit union, must, by ordinary resolution at the first meeting of shareholders or members, as the case may be, and at each succeeding annual meeting, appoint a firm of accountants to be the auditor of the bank until the close of the next annual meeting.
 
 **Auditors**
 
-- **(2)** The shareholders of a bank may, by ordinary resolution at the first meeting of shareholders and at each succeeding annual meeting, appoint two firms of accountants to be the auditors of the bank until the close of the next annual meeting.
+- **(2)** The shareholders of a bank, or the members of a federal credit union, may, by ordinary resolution at the first meeting of shareholders or members, as the case may be, and at each succeeding annual meeting, appoint two firms of accountants to be the auditors of the bank until the close of the next annual meeting.
 
 **Remuneration of auditors**
 
-- **(3)** The remuneration of the auditor or auditors may be fixed by ordinary resolution of the shareholders but, if not so fixed, shall be fixed by the directors.
+- **(3)** The remuneration of the auditor or auditors may be fixed by ordinary resolution of the shareholders or members of the federal credit union but, if not so fixed, must be fixed by the directors.
+> 1991, c. 46, s. 314; 2010, c. 12, s. 2022.
+
 
 
 
@@ -6537,7 +8083,7 @@ provide the trustee with evidence of compliance with the conditions in the trust
 	- **(a)** independence is a question of fact; and
 	- **(b)** a member of a firm of accountants is deemed not to be independent of a bank if that member, a business partner of that member or the firm of accountants
 		- **(i)** is a business partner, director, officer or employee of the bank or of any affiliate of the bank or is a business partner of any director, officer or employee of the bank or of any affiliate of the bank,
-		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the bank or of any affiliate of the bank, or
+		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares or membership shares of the bank or of any affiliate of the bank, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the bank within the two years immediately preceding the firm’s proposed appointment as auditor of the bank, other than an affiliate that is a subsidiary of the bank acquired pursuant to section 472 or through a realization of security pursuant to section 473.
 
 **Business partners**
@@ -6557,7 +8103,7 @@ provide the trustee with evidence of compliance with the conditions in the trust
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the bank, there shall be deemed to be a vacancy in the office of auditor of the bank.
-> 1991, c. 46, s. 315; 2001, c. 9, s. 94; 2005, c. 54, s. 72.
+> 1991, c. 46, s. 315; 2001, c. 9, s. 94; 2005, c. 54, s. 72; 2010, c. 12, s. 2023.
 
 
 
@@ -6580,7 +8126,7 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **317** 
 
-- **(1)** The shareholders of a bank may, by ordinary resolution at a special meeting, revoke the appointment of an auditor.
+- **(1)** The shareholders of a bank or the members of a federal credit union may, by ordinary resolution at a special meeting, revoke the appointment of an auditor.
 
 **Idem**
 
@@ -6589,6 +8135,8 @@ provide the trustee with evidence of compliance with the conditions in the trust
 **Filling vacancy**
 
 - **(3)** A vacancy created by the revocation of the appointment of an auditor under subsection (1) may be filled at the meeting at which the appointment was revoked and, if not so filled, shall be filled by the directors under section 319.
+> 1991, c. 46, s. 317; 2010, c. 12, s. 2024.
+
 
 
 
@@ -6599,11 +8147,13 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 - **(1)** An auditor of a bank ceases to hold office when
 	- **(a)** the auditor resigns; or
-	- **(b)** the appointment of the auditor is revoked by the shareholders or the Superintendent.
+	- **(b)** the appointment of the auditor is revoked by the Superintendent or by the shareholders or, if the bank is a federal credit union, by the members.
 
 **Effective date of resignation**
 
 - **(2)** The resignation of an auditor becomes effective at the time a written resignation is sent to the bank or at the time specified in the resignation, whichever is later.
+> 1991, c. 46, s. 318; 2010, c. 12, s. 2025.
+
 
 
 
@@ -6629,19 +8179,21 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **320** 
 
-- **(1)** The auditor or auditors of a bank are entitled to receive notice of every meeting of shareholders and, at the expense of the bank, to attend and be heard thereat on matters relating to the duties of the auditor or auditors.
+- **(1)** The auditor or auditors of a bank are entitled to receive notice of every meeting of shareholders and, if the bank is a federal credit union, every meeting of its members and, at the expense of the bank, to attend and be heard at the meeting on matters relating to the duties of the auditor or auditors.
 
 **Duty to attend meeting**
 
-- **(2)** If a director or shareholder of a bank, whether or not the shareholder is entitled to vote at the meeting, gives written notice, not less than ten days before a meeting of shareholders, to an auditor or former auditor of the bank that the director or shareholder wishes the auditor’s attendance at the meeting, the auditor or former auditor shall attend the meeting at the expense of the bank and answer questions relating to the auditor’s or former auditor’s duties as auditor.
+- **(2)** If a director, shareholder or member of a bank, whether or not that person is entitled to vote at the meeting, gives written notice, not less than 10 days before the meeting, to an auditor or former auditor of the bank that the director, member or shareholder wishes the auditor’s attendance at the meeting, the auditor or former auditor must attend the meeting, at the expense of the bank, and answer questions relating to the auditor’s or former auditor’s duties as auditor.
 
 **Notice to bank**
 
-- **(3)** A director or shareholder who gives notice under subsection (2) shall send concurrently a copy of the notice to the bank and the bank shall forthwith send a copy thereof to the Superintendent.
+- **(3)** The person who gives notice under subsection (2) must send concurrently a copy of the notice to the bank and the bank must, without delay, send a copy of it to the Superintendent.
 
 **Superintendent may attend**
 
 - **(4)** The Superintendent may attend and be heard at any meeting referred to in subsection (2).
+> 1991, c. 46, s. 320; 2010, c. 12, s. 2026.
+
 
 
 
@@ -6652,8 +8204,8 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 - **(1)** An auditor of a bank that
 	- **(a)** resigns,
-	- **(b)** receives a notice or otherwise learns of a meeting of shareholders called for the purpose of revoking the appointment of the auditor, or
-	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders at which another firm of accountants is to be appointed in its stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
+	- **(b)** receives a notice or otherwise learns of a meeting of shareholders, or, if the bank is a federal credit union, of a meeting of members, called for the purpose of revoking the appointment of the auditor, or
+	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders, or, if the bank is a federal credit union, of a meeting of members, at which another firm of accountants is to be appointed in its stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
 shall submit to the bank and the Superintendent a written statement giving the reasons for the resignation or the reasons why the auditor opposes any proposed action.
 
 **Other statements**
@@ -6662,8 +8214,8 @@ shall submit to the bank and the Superintendent a written statement giving the r
 
 **Statements to be sent**
 
-- **(2)** The bank shall send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder entitled to vote at the annual meeting of shareholders and to the Superintendent.
-> 1991, c. 46, s. 321; 2005, c. 54, s. 73.
+- **(2)** The bank must send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder, or, if the bank is a federal credit union, to every member, entitled to vote at the annual meeting of shareholders or of members and to the Superintendent.
+> 1991, c. 46, s. 321; 2005, c. 54, s. 73; 2010, c. 12, s. 2027.
 
 
 
@@ -6690,11 +8242,13 @@ shall submit to the bank and the Superintendent a written statement giving the r
 
 **323** 
 
-- **(1)** The auditor or auditors of a bank shall make such examination as the auditor or auditors consider necessary to enable the auditor or auditors to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 308(1)(a)(ii).
+- **(1)** The auditor or auditors of a bank must make any examination that the auditor or auditors consider necessary to enable the auditor or auditors to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders or, if the bank is a federal credit union, the members, except any annual statements or parts of those statements that relate to the period referred to in subparagraph 308(1)(a)(ii).
 
 **Auditing standards**
 
 - **(2)** The examination of the auditor or auditors referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+> 1991, c. 46, s. 323; 2010, c. 12, s. 2028.
+
 
 
 
@@ -6729,7 +8283,7 @@ as are, in the opinion of the auditor or auditors, necessary to enable the audit
 
 **Special examination**
 
-- **(2)** The Superintendent may, in writing, require that the auditor or auditors of a bank make a particular examination relating to the adequacy of the procedures adopted by the bank for the safety of its creditors and shareholders, or any other examination as, in the Superintendent’s opinion, the public interest may require, and report to the Superintendent thereon.
+- **(2)** The Superintendent may, in writing, require that the auditor or auditors of a bank make a particular examination relating to the adequacy of the procedures adopted by the bank for the safety of its creditors and shareholders and, if the bank is a federal credit union, for the safety of its members, or any other examination as, in the Superintendent’s opinion, the public interest may require, and report to the Superintendent.
 
 **Idem**
 
@@ -6738,7 +8292,7 @@ as are, in the opinion of the auditor or auditors, necessary to enable the audit
 **Expenses payable by bank**
 
 - **(4)** The expenses entailed by any examination or audit referred to in any of subsections (1) to (3) are payable by the bank on being approved in writing by the Superintendent.
-> 1991, c. 46, s. 325; 1999, c. 31, s. 13(F).
+> 1991, c. 46, s. 325; 1999, c. 31, s. 13(F); 2010, c. 12, s. 2029.
 
 
 
@@ -6748,7 +8302,7 @@ as are, in the opinion of the auditor or auditors, necessary to enable the audit
 
 **326** 
 
-- **(1)** The auditor or auditors shall, not less than twenty-one days before the date of the annual meeting of the shareholders of the bank, make a report in writing to the shareholders on the annual statement referred to in subsection 308(1).
+- **(1)** The auditor or auditors must, not less than 21 days before the date of the annual meeting of the shareholders of the bank or, if the bank is a federal credit union, of the annual meeting of the members, make a report in writing to the shareholders or members, as the case may be, on the annual statement referred to in subsection 308(1).
 
 **Audit for shareholders**
 
@@ -6760,6 +8314,8 @@ as are, in the opinion of the auditor or auditors, necessary to enable the audit
 	- **(a)** the examination has not been made in accordance with the auditing standards referred to in subsection 323(2);
 	- **(b)** the annual statement has not been prepared on a basis consistent with that of the preceding financial year; or
 	- **(c)** the annual statement does not present fairly, in accordance with the accounting principles referred to in subsection 308(4), the financial position of the bank as at the end of the financial year to which it relates or the results of the operations or changes in the financial position of the bank for that financial year.
+> 1991, c. 46, s. 326; 2010, c. 12, s. 2030.
+
 
 
 
@@ -6768,11 +8324,13 @@ as are, in the opinion of the auditor or auditors, necessary to enable the audit
 
 **327** 
 
-- **(1)** The auditor or auditors of a bank shall, if required by the shareholders, audit and report to the shareholders on any financial statement submitted by the directors to the shareholders, and the report shall state whether, in their opinion, the financial statement presents fairly the information required by the shareholders.
+- **(1)** The auditor or auditors of a bank must, if required by the shareholders or, if the bank is a federal credit union, by the members or shareholders, if any, audit and report to the shareholders or members, as the case may be, on any financial statement submitted by the directors to the shareholders or members, and the report must state whether, in their opinion, the financial statement presents fairly the information required by the shareholders or members.
 
 **Making of report**
 
-- **(2)** A report of the auditor or auditors made under subsection (1) shall be attached to the financial statement to which it relates and a copy of the statement and report shall be sent by the directors to every shareholder and to the Superintendent.
+- **(2)** A report of the auditor or auditors made under subsection (1) must be attached to the financial statement to which it relates and a copy of the statement and report must be sent by the directors to the Superintendent, to every shareholder and, if the bank is a federal credit union, to every member and shareholder, if any.
+> 1991, c. 46, s. 327; 2010, c. 12, s. 2031.
+
 
 
 
@@ -6858,7 +8416,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 - **(3)** When under subsection (2) the auditor or auditors or former auditor or auditors of a bank inform the directors of an error or misstatement in an annual statement or other financial statement, the directors shall
 	- **(a)** prepare and issue a revised annual statement or financial statement; or
-	- **(b)** otherwise inform the shareholders and the Superintendent of the error or misstatement.
+	- **(b)** otherwise inform the shareholders, and, if the bank is a federal credit union, its members, and the Superintendent of the error or misstatement.
+> 1991, c. 46, s. 332; 2010, c. 12, s. 2032.
+
 
 
 
@@ -6903,25 +8463,31 @@ but when a report required under paragraph (b) has been made in respect of loans
 - **(1)** In connection with an action brought or intervened in under subsection 334(1), the court may at any time make any order it thinks fit including, without limiting the generality of the foregoing,
 	- **(a)** an order authorizing the Superintendent, the complainant or any other person to control the conduct of the action;
 	- **(b)** an order giving directions for the conduct of the action;
-	- **(c)** an order directing that any amount adjudged payable by a defendant in the action be paid, in whole or in part, directly to former and present security holders of the bank or of the subsidiary instead of to the bank or to the subsidiary; and
+	- **(c)** an order directing that any amount adjudged payable by a defendant in the action be paid, in whole or in part, directly to the following instead of to the bank or the subsidiary:
+		- **(i)** if the bank is not a federal credit union, former and present security holders of the bank or subsidiary, or
+		- **(ii)** if the bank is a federal credit union, former and present members or security holders of the federal credit union or former and present security holders of the subsidiary; and
 	- **(d)** an order requiring the bank or the subsidiary to pay reasonable legal fees incurred by the Superintendent or the complainant in connection with the action.
 
 **Jurisdiction**
 
 - **(2)** Notwithstanding subsection (1), the court may not make any order in relation to any matter that would, under this Act, require the approval of the Minister or the Superintendent.
+> 1991, c. 46, s. 335; 2010, c. 12, s. 2033.
 
 
 
 
-**Status of shareholder approval**
+
+**Status of approval**
 
 **336** 
 
-- **(1)** An application made or an action brought or intervened in under subsection 334(1) or section 338 need not be stayed or dismissed by reason only that it is shown that an alleged breach of a right or duty owed to the bank or its subsidiary has been or might be approved by the shareholders of the bank or subsidiary or both, but evidence of approval by the shareholders may be taken into account by the court in making an order under section 335.
+- **(1)** An application made or an action brought or intervened in under subsection 334(1) or section 338 need not be stayed or dismissed by reason only that it is shown that an alleged breach of a right or duty owed to the bank or its subsidiary has been or might be approved by the shareholders or members of the bank, or by the shareholders of the subsidiary, but evidence of approval by the shareholders or the members, as the case may be, may be taken into account by the court in making an order under section 335.
 
 **Court approval to discontinue**
 
 - **(2)** An application made or an action brought or intervened in under subsection 334(1) or section 338 shall not be stayed, discontinued, settled or dismissed for want of prosecution without the approval of the court given on such terms as the court thinks fit and, if the court determines that the interests of any complainant might be substantially affected by any stay, discontinuance, settlement or dismissal, the court may order any party to the application or action to give notice to the complainant.
+> 1991, c. 46, s. 336; 2010, c. 12, s. 2034.
+
 
 
 
@@ -6945,7 +8511,7 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 **338** 
 
-- **(1)** If the name of a person is alleged to be or to have been wrongly entered or retained in, or wrongly deleted or omitted from, the securities register or any other record of a bank, the bank, a security holder of the bank or any aggrieved person may apply to a court for an order that the securities register or record be rectified.
+- **(1)** If the name of a person is alleged to be or to have been wrongly entered or retained in, or wrongly deleted or omitted from, the securities register, the members register or any other record of a bank, the bank, a security holder of the bank, a member of the bank or any aggrieved person may apply to a court for an order that the register or record be rectified.
 
 **Notice to Superintendent**
 
@@ -6954,10 +8520,12 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Powers of court**
 
 - **(3)** In connection with an application under this section, the court may make any order it thinks fit including, without limiting the generality of the foregoing,
-	- **(a)** an order requiring the securities register or other record of the bank to be rectified;
-	- **(b)** an order restraining a bank from calling or holding a meeting of shareholders or paying a dividend before the rectification;
-	- **(c)** an order determining the right of a party to the proceedings to have the party’s name entered or retained in, or deleted or omitted from, the securities register or records of the bank, whether the issue arises between two or more security holders or alleged security holders, or between the bank and any security holder or alleged security holder; and
+	- **(a)** an order requiring the register or other record of the bank to be rectified;
+	- **(b)** an order restraining a bank from calling or holding a meeting of shareholders or members, or paying a dividend or patronage allocation, before the rectification;
+	- **(c)** an order determining the right of a party to the proceedings to have the party’s name entered or retained in, or deleted or omitted from, the register or records of the bank, whether the issue arises between two or more security holders or alleged security holders, or two or more members or alleged members, or between the bank and any security holder or alleged security holder or member or alleged member; and
 	- **(d)** an order compensating a party who has incurred a loss.
+> 1991, c. 46, s. 338; 2010, c. 12, s. 2035.
+
 
 
 
@@ -7003,7 +8571,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 **342** 
 
-- **(1)** A bank that has no property and no liabilities may, if authorized by a special resolution of the shareholders or, if there are no shareholders, by a resolution of all the directors, apply to the Minister for letters patent dissolving the bank.
+- **(1)** A bank that has no property and no liabilities may apply to the Minister for letters patent dissolving the bank if it is authorized by
+	- **(a)** in the case of a bank that is not a federal credit union, a special resolution of the shareholders or, if there are no shareholders, by a resolution of all the directors; or
+	- **(b)** in the case of a federal credit union, a special resolution of the members and a separate special resolution of the shareholders, if any.
 
 **Dissolution by letters patent**
 
@@ -7012,6 +8582,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Effect of letters patent**
 
 - **(3)** A bank in respect of which letters patent are issued under subsection (2) ceases to exist on the day stated in the letters patent.
+> 1991, c. 46, s. 342; 2010, c. 12, s. 2036.
+
 
 
 
@@ -7021,19 +8593,26 @@ but when a report required under paragraph (b) has been made in respect of loans
 **343** 
 
 - **(1)** The voluntary liquidation and dissolution of a bank, other than a bank referred to in subsection 342(1),
-	- **(a)** may be proposed by its directors; or
-	- **(b)** may be initiated by way of a proposal made by a shareholder who is entitled to vote at an annual meeting of shareholders in accordance with sections 143 and 144.
+	- **(a)** may be proposed by its directors;
+	- **(b)** may, if the bank is not a federal credit union, be initiated by way of a proposal made by a shareholder who is entitled to vote at an annual meeting of shareholders in accordance with sections 143 and 144; or
+	- **(c)** may, if the bank is a federal credit union, be initiated by way of a proposal made by a member in accordance with section 144.1.
 
 **Terms must be set out**
 
-- **(2)** A notice of any meeting of shareholders at which the voluntary liquidation and dissolution of a bank is to be proposed shall set out the terms of the proposal.
+- **(2)** A notice of any meeting at which the voluntary liquidation and dissolution of a bank is to be proposed must set out the terms of the proposal.
+> 1991, c. 46, s. 343; 2010, c. 12, s. 2037.
 
 
 
 
-**Shareholders’ resolution**
 
-**344** Where the voluntary liquidation and dissolution of a bank is proposed, the bank may apply to the Minister for letters patent dissolving the bank if authorized by a special resolution of the shareholders or, where the bank has issued more than one class of shares, by special resolution of each class of shareholders whether or not those shareholders are otherwise entitled to vote.
+**Resolutions**
+
+**344** If the voluntary liquidation and dissolution of a bank is proposed, the bank may apply to the Minister for letters patent dissolving the bank
+- **(a)** if, in the case of a bank that is not a federal credit union, it is authorized by a special resolution of the shareholders or, if the bank has issued more than one class of shares, by special resolution of each class of shareholders whether or not those shareholders are otherwise entitled to vote; or
+- **(b)** if, in the case of a federal credit union, it is authorized by a special resolution of the members and, if the federal credit union has issued one or more classes of shares, by separate special resolution of each class of shareholders whether or not those shareholders are otherwise entitled to vote.
+> 1991, c. 46, s. 344; 2010, c. 12, s. 2038.
+
 
 
 
@@ -7057,8 +8636,10 @@ but when a report required under paragraph (b) has been made in respect of loans
 - **(4)** Where the Minister has approved an application made pursuant to section 344 with respect to a bank, the bank shall
 	- **(a)** cause notice of the approval to be sent to each known claimant against and creditor of the bank;
 	- **(b)** publish notice of the approval once a week for four consecutive weeks in the Canada Gazette and once a week for two consecutive weeks in one or more newspapers in general circulation in each province in which the bank transacted any business within the preceding twelve months;
-	- **(c)** proceed to collect its property, dispose of property that is not to be distributed in kind to its shareholders, discharge all its obligations and do all other acts required to liquidate its business; and
-	- **(d)** after giving the notice required under paragraphs (a) and (b) and adequately providing for the payment or discharge of all its obligations, distribute its remaining property, either in money or in kind, among its shareholders according to their respective rights.
+	- **(c)** proceed to collect its property, dispose of property that is not to be distributed in kind to its shareholders or members, as the case may be, discharge all its obligations and do all other acts required to liquidate its business; and
+	- **(d)** after giving the notice required under paragraphs (a) and (b) and adequately providing for the payment or discharge of all its obligations, distribute its remaining property, either in money or in kind, among its shareholders, according to their respective rights, or its members, as the case may be.
+> 1991, c. 46, s. 345; 2010, c. 12, s. 2039.
+
 
 
 
@@ -7121,21 +8702,21 @@ but when a report required under paragraph (b) has been made in respect of loans
 - **(f)** an order, at any stage of the proceedings, restraining the directors and officers of the bank from
 	- **(i)** exercising any of their powers, or
 	- **(ii)** collecting or receiving any debt or other property of the bank, and from paying out or transferring any property of the bank, except as permitted by the court;
-- **(g)** an order determining and enforcing the duty or liability of any present or former director, officer or shareholder
+- **(g)** an order determining and enforcing the duty or liability of any present or former director, officer, shareholder or member
 	- **(i)** to the bank, or
 	- **(ii)** for an obligation of the bank;
 - **(h)** an order approving the payment, satisfaction or compromise of claims against the bank and the retention of assets for that purpose, and determining the adequacy of provisions for the payment, discharge or transfer of any obligation of the bank, whether liquidated, unliquidated, future or contingent;
 - **(i)** with the concurrence of the Superintendent, an order providing for the disposal or destruction of the documents, records or registers of the bank;
 - **(j)** on the application of a creditor, an inspector or the liquidator, an order giving directions on any matter arising in the liquidation;
 - **(k)** after notice has been given to all interested parties, an order relieving the liquidator from any omission or default on such terms as the court thinks fit and confirming any act of the liquidator;
-- **(l)** subject to sections 356 to 358, an order approving any proposed, interim or final distribution to shareholders, if any, or incorporators, in money or in property;
-- **(m)** an order disposing of any property belonging to creditors, shareholders and incorporators who cannot be found;
-- **(n)** on the application of any director, officer, shareholder, incorporator, creditor or the liquidator,
+- **(l)** subject to sections 356 to 358, an order approving any proposed, interim or final distribution to shareholders or members, as the case may be, or incorporators, in money or in property;
+- **(m)** an order disposing of any property belonging to creditors, shareholders, members and incorporators who cannot be found;
+- **(n)** on the application of any director, officer, shareholder, member, incorporator, creditor or the liquidator,
 	- **(i)** an order staying the liquidation proceedings on such terms and conditions as the court thinks fit,
 	- **(ii)** an order continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** an order to the liquidator to restore to the bank all of its remaining property; and
 - **(o)** after the liquidator has rendered the liquidator’s final account to the court, an order directing the bank to apply to the Minister for letters patent dissolving the bank.
-> 1991, c. 46, s. 349; 2005, c. 54, s. 77(F).
+> 1991, c. 46, s. 349; 2005, c. 54, s. 77(F); 2010, c. 12, s. 2040.
 
 
 
@@ -7147,18 +8728,22 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 - **(1)** Where a court makes an order for the liquidation of a bank,
 	- **(a)** the bank continues in existence but shall cease to carry on business, except the business that is, in the opinion of the liquidator, required for an orderly liquidation; and
-	- **(b)** the powers of the directors and shareholders, if any, are vested in the liquidator and cease to be vested in the directors or shareholders, except as specifically authorized by the court.
+	- **(b)** the powers of the directors, shareholders and members are vested in the liquidator and cease to be vested in the directors, shareholders and members, except as specifically authorized by the court.
 
 **Delegation by liquidator**
 
-- **(2)** A liquidator may delegate any of the powers vested by paragraph (1)(b) to the directors or shareholders, if any.
+- **(2)** A liquidator may delegate any of the powers vested by paragraph (1)(b) to the directors, shareholders or members, if any.
+> 1991, c. 46, s. 350; 2010, c. 12, s. 2041.
+
 
 
 
 
 **Appointment of liquidator**
 
-**351** When making an order for the liquidation of a bank or at any time thereafter, the court may appoint any person, including a director, an officer or a shareholder of the bank or any other bank, as liquidator of the bank.
+**351** When making an order for the liquidation of a bank, or at any later time, the court may appoint any person, including a director, an officer, a shareholder or a member of the bank or any other bank, as liquidator of the bank.
+> 1991, c. 46, s. 351; 2010, c. 12, s. 2042.
+
 
 
 
@@ -7183,10 +8768,10 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(c)** take into custody and control the property of the bank;
 	- **(d)** open and maintain a trust account for the moneys received by the liquidator in the course of the liquidation of the bank;
 	- **(e)** keep accounts of the moneys received and paid out by the liquidator in the course of the liquidation of the bank;
-	- **(f)** maintain separate lists of each class of creditors, shareholders and other persons having claims against the bank;
+	- **(f)** maintain separate lists of members and of each class of creditors, shareholders and other persons having claims against the bank;
 	- **(g)** if at any time the liquidator determines that the bank is unable to pay or adequately provide for the discharge of its obligations, apply to the court for directions;
 	- **(h)** deliver to the court and to the Superintendent, at least once in every twelve month period after the liquidator’s appointment or more often as the court requires, the annual statement of the bank prepared in accordance with subsection 308(1) or prepared in such manner as the liquidator thinks proper or as the court requires; and
-	- **(i)** after the final accounts are approved by the court, distribute any remaining property of the bank among the shareholders, if any, or incorporators, according to their respective rights.
+	- **(i)** after the final accounts are approved by the court, distribute any remaining property of the bank among the shareholders, incorporators or members, according to their respective rights.
 
 **Powers of liquidator**
 
@@ -7199,6 +8784,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(f)** borrow money on the security of the property of the bank;
 	- **(g)** settle or compromise any claims by or against the bank; and
 	- **(h)** do all other things necessary for the liquidation of the bank and distribution of its property.
+> 1991, c. 46, s. 353; 2010, c. 12, s. 2043.
+
 
 
 
@@ -7239,20 +8826,22 @@ but when a report required under paragraph (b) has been made in respect of loans
 **357** 
 
 - **(1)** Within one year after the appointment of a liquidator and after paying or making adequate provision for all claims against the bank, the liquidator shall apply to the court
-	- **(a)** for approval of the final accounts of the liquidator and for an order permitting the distribution, in money or in kind, of the remaining property of the bank to its shareholders, if any, or to the incorporators, according to their respective rights; or
+	- **(a)** for approval of the final accounts of the liquidator and for an order permitting the distribution, in money or in kind, of the remaining property of the bank to its shareholders, or members, if any, or to the incorporators, according to their respective rights; or
 	- **(b)** for an extension of time, setting out the reasons therefor.
 
-**Shareholder application**
+**Application by shareholder or member**
 
-- **(2)** If a liquidator fails to make the application required by subsection (1), a shareholder of the bank or, if there are no shareholders of the bank, an incorporator may apply to the court for an order for the liquidator to show cause why a final accounting and distribution should not be made.
+- **(2)** If a liquidator fails to make the application required by subsection (1), a shareholder of the bank or, if there are no shareholders of the bank, an incorporator — or, if the bank is a federal credit union, a member or shareholder of the federal credit union or, if there are no members or shareholders, an incorporator — may apply to the court for an order for the liquidator to show cause why a final accounting and distribution should not be made.
 
 **Notification of final accounts**
 
-- **(3)** A liquidator shall give notice of the liquidator’s intention to make an application under subsection (1) to the Superintendent, to each inspector appointed under section 349, to each shareholder of the bank or, if there are no shareholders, to each incorporator and to any person who provided a security or fidelity bond for the liquidation.
+- **(3)** A liquidator must give notice of their intention to make an application under subsection (1) to the Superintendent, to each inspector appointed under section 349, to each shareholder of the bank or, if there are no shareholders, to each incorporator and to any person who provided a security or fidelity bond for the liquidation. If the bank is a federal credit union, the liquidator must also give the notice to each member of the federal credit union.
 
 **Publication**
 
 - **(4)** The liquidator shall publish the notice required under subsection (3) in the Canada Gazette and once a week for two consecutive weeks in one or more newspapers in general circulation in each province in which the bank has transacted any business within the preceding twelve months or as otherwise directed by the court.
+> 1991, c. 46, s. 357; 2010, c. 12, s. 2044.
+
 
 
 
@@ -7277,23 +8866,26 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 **359** 
 
-- **(1)** If in the course of the liquidation of a bank the shareholders resolve to, or the liquidator proposes to,
-	- **(a)** exchange all or substantially all of the remaining property of the bank for securities of another entity that are to be distributed to the shareholders or to the incorporators, or
-	- **(b)** distribute all or part of the remaining property of the bank to the shareholders or to the incorporators in kind,
-a shareholder or incorporator may apply to the court for an order requiring the distribution of the remaining property of the bank to be in money.
+- **(1)** If in the course of the liquidation of a bank that is not a federal credit union the shareholders resolve, or the liquidator proposes, to exchange all or substantially all of the remaining property of the bank for securities of another entity that are to be distributed to the shareholders or to the incorporators — or to distribute all or part of the remaining property of the bank to the shareholders or to the incorporators in kind — a shareholder or incorporator may apply to the court for an order requiring the distribution of the remaining property of the bank to be in money.
+
+**Right to distribution of money — federal credit union**
+
+- **(2)** If in the course of the liquidation of a federal credit union the members resolve, or the liquidator proposes, to exchange all or substantially all of the remaining property of the federal credit union for securities of another entity that are to be distributed to the members or to members and shareholders — or to distribute all or part of the remaining property of the federal credit union to the members or to members and shareholders in kind — a member or shareholder may apply to the court for an order requiring the distribution of the remaining property of the federal credit union to be in money.
 
 **Powers of court**
 
-- **(2)** On an application under subsection (1), the court may order
+- **(3)** On an application under subsection (1) or (2) , the court may order
 	- **(a)** all of the remaining property of the bank to be converted into and distributed in money; or
-	- **(b)** the claim of any shareholder or incorporator applying under this section to be satisfied by a distribution in money.
+	- **(b)** the claim of any person applying under this section to be satisfied by a distribution in money.
 
 **Order by court**
 
-- **(3)** Where an order is made by a court under paragraph (2)(b), the court
-	- **(a)** shall fix a fair value on the share of the property of the bank attributable to the shareholder or incorporator;
+- **(4)** If an order is made by a court under paragraph (3)(b), the court
+	- **(a)** must fix a fair value on the share of the property of the bank attributable to the person;
 	- **(b)** may in its discretion appoint one or more appraisers to assist the court in fixing a fair value in accordance with paragraph (a); and
-	- **(c)** shall render a final order against the bank in favour of the shareholder or incorporator for the amount of the share of the property of the bank attributable to the shareholder or incorporator.
+	- **(c)** must render a final order against the bank in favour of the person for the amount of the share of the bank’s property attributable to the person.
+> 1991, c. 46, s. 359; 2010, c. 12, s. 2045.
+
 
 
 
@@ -7315,9 +8907,11 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Definition of shareholder and incorporator**
+**Definition of shareholder, member and incorporator**
 
-**361** In sections 363 and 364, ***shareholder*** and ***incorporator*** include the heirs and personal representatives of a shareholder or incorporator.
+**361** In sections 363 and 364, ***shareholder***, ***member*** and ***incorporator*** include the heirs and personal representatives of a shareholder, member or incorporator, respectively.
+> 1991, c. 46, s. 361; 2010, c. 12, s. 2046.
+
 
 
 
@@ -7344,7 +8938,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **363** 
 
-- **(1)** Notwithstanding the dissolution of a bank, a shareholder or incorporator to whom any of its property has been distributed is liable to any person claiming under subsection 362(1) to the extent of the amount received by that shareholder or incorporator on the distribution.
+- **(1)** Despite the dissolution of a bank, a shareholder, member or incorporator to whom any of its property has been distributed is liable to any person claiming under subsection 362(1) to the extent of the amount received by that shareholder, member or incorporator on the distribution.
 
 **Limitation**
 
@@ -7352,21 +8946,25 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Action against class**
 
-- **(3)** A court may order an action referred to in subsections (1) and (2) to be brought against the persons who were shareholders or incorporators as a class, subject to such conditions as the court thinks fit.
+- **(3)** A court may order an action referred to in subsections (1) and (2) to be brought against the persons who were shareholders, members or incorporators as a class, subject to any conditions that the court thinks fit.
 
 **Reference**
 
 - **(4)** If the plaintiff establishes a claim in an action under subsection (3), the court may refer the proceedings to a referee or other officer of the court who may
-	- **(a)** add as a party to the proceedings each person found by the plaintiff to have been a shareholder or incorporator;
-	- **(b)** determine, subject to subsection (1), the amount that each person who was a shareholder or incorporator must contribute towards satisfaction of the plaintiff’s claim; and
+	- **(a)** add as a party to the proceedings each person found by the plaintiff to have been a shareholder, member or incorporator;
+	- **(b)** determine, subject to subsection (1), the amount that each person who was a shareholder, member or incorporator must contribute towards satisfaction of the plaintiff’s claim; and
 	- **(c)** direct payment of the amounts so determined.
+> 1991, c. 46, s. 363; 2010, c. 12, s. 2047.
 
 
 
 
-**Where creditor cannot be found**
 
-**364** Where a creditor, shareholder or incorporator to whom property is to be distributed on the dissolution of a bank cannot be found, the portion of the property to be distributed to that creditor, shareholder or incorporator shall be converted into money and paid in accordance with section 366.
+**Persons who cannot be found**
+
+**364** If a creditor, shareholder, member or incorporator to whom property is to be distributed on the dissolution of a bank cannot be found, the portion of the property to be distributed to that creditor, shareholder, member or incorporator is to be converted into money and paid in accordance with section 366.
+> 1991, c. 46, s. 364; 2010, c. 12, s. 2048.
+
 
 
 
@@ -7382,11 +8980,11 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **366** 
 
-- **(1)** Notwithstanding the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md), where the business of a bank is being wound up, the liquidator or the bank shall pay to the Minister on demand and in any event before the final winding-up of that business any amount that is payable by the liquidator or the bank to a creditor, shareholder or incorporator of the bank to whom payment thereof has not, for any reason, been made.
+- **(1)** Despite the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md), if the business of a bank is being wound up, the liquidator or the bank must pay to the Minister on demand and in any event before the final winding-up of that business any amount that is payable by the liquidator or the bank to a creditor, shareholder, member or incorporator of the bank to whom payment of that amount has not, for any reason, been made.
 
 **Records**
 
-- **(2)** Where a liquidator or a bank makes a payment to the Minister under subsection (1) with respect to a creditor, shareholder or incorporator, the liquidator or bank shall concurrently forward to the Minister all documents, records and registers in the possession of the liquidator or bank that relate to the entitlement of the creditor, shareholder or incorporator.
+- **(2)** If a liquidator or a bank makes a payment to the Minister under subsection (1) with respect to a creditor, shareholder, member or incorporator, the liquidator or bank must concurrently forward to the Minister all documents, records and registers in the possession of the liquidator or bank that relate to the entitlement of the creditor, shareholder, member or incorporator.
 
 **Payment to Bank of Canada**
 
@@ -7395,7 +8993,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Liquidator and bank discharged**
 
 - **(4)** Payment by a liquidator or a bank to the Minister under subsection (1) discharges the liquidator and the bank in respect of which the payment is made from all liability for the amount so paid, and payment by the Minister to the Bank of Canada under subsection (3) discharges the Minister from all liability for the amount so paid.
-> 1991, c. 46, s. 366; 1996, c. 6, s. 167.
+> 1991, c. 46, s. 366; 1996, c. 6, s. 167; 2010, c. 12, s. 2049.
 
 
 
@@ -7500,11 +9098,11 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **371** 
 
-- **(1)** For the purpose of determining ownership of a bank, where two persons who each beneficially own shares of a bank are associated with each other, those persons are deemed to be a single person who beneficially owns the aggregate number of shares of the bank beneficially owned by them.
+- **(1)** For the purpose of determining ownership of a bank, if two persons who each beneficially own shares or membership shares of a bank are associated with each other, those persons are deemed to be a single person who beneficially owns the aggregate number of shares and membership shares of the bank beneficially owned by them.
 
-**Idem**
+**Associates**
 
-- **(2)** For the purposes of subsection (1), a person who beneficially owns shares of a bank is associated with another person who beneficially owns shares of the bank if
+- **(2)** For the purposes of subsection (1), a person who beneficially owns shares or membership shares of a bank is associated with another person who beneficially owns shares or membership shares of the bank if
 	- **(a)** one person is Her Majesty in right of Canada and the other person is Her Majesty in right of a province or one person is Her Majesty in right of a province and the other person is Her Majesty in right of another province;
 	- **(b)** each person is an agent of Her Majesty in right of Canada or in right of a province;
 	- **(c)** each person is an official, a trustee or an entity referred to in subparagraphs (a)(ii) and (iii) of the definition ***agent*** in subsection 370(1);
@@ -7516,7 +9114,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(i)** one person is a central cooperative credit society, the other person is a federation of cooperative credit societies of which the first is a member, and both persons are incorporated or organized by or pursuant to legislation enacted by the same legislative body;
 	- **(j)** both persons are central cooperative credit societies that are members of the same federation of cooperative credit societies, and both persons and the federation of cooperative credit societies are incorporated or organized by or pursuant to legislation enacted by the same legislative body; or
 	- **(k)** both persons are associated within the meaning of paragraphs (a) to (j) with the same person.
-> 1991, c. 46, s. 371; 2001, c. 9, s. 97.
+> 1991, c. 46, s. 371; 2001, c. 9, s. 97; 2010, c. 12, s. 2050.
 
 
 
@@ -7554,8 +9152,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Significant interest**
 
-**372** Except as permitted by this Part, no person shall have a significant interest in any class of shares of a bank.
-> 1991, c. 46, s. 372; 2001, c. 9, s. 98.
+**372** Except as permitted by this Part, no person shall have a significant interest in any class of shares, or in membership shares, of a bank.
+> 1991, c. 46, s. 372; 2001, c. 9, s. 98; 2010, c. 12, s. 2051.
 
 
 
@@ -7569,14 +9167,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **373** 
 
-- **(1)** Subject to this Part, no person, or entity controlled by a person, shall, without the approval of the Minister, purchase or otherwise acquire any share of a bank or purchase or otherwise acquire control of any entity that holds any share of a bank if
-	- **(a)** the acquisition would cause the person to have a significant interest in any class of shares of the bank; or
-	- **(b)** where the person has a significant interest in a class of shares of the bank, the acquisition would increase the significant interest of the person in that class of shares.
+- **(1)** Subject to this Part, no person, or entity controlled by a person, shall, without the approval of the Minister, purchase or otherwise acquire any share or membership share of a bank or purchase or otherwise acquire control of any entity that holds any share or membership share of a bank if
+	- **(a)** the acquisition would cause the person to have a significant interest in any class of shares or in membership shares of the bank, as the case may be; or
+	- **(b)** where the person has a significant interest in a class of shares or in membership shares of the bank, the acquisition would increase the significant interest of the person in that class or in the membership shares, as the case may be.
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares of a bank, the entity is deemed to be acquiring a significant interest in that class of shares of the bank through an acquisition for which the approval of the Minister is required under subsection (1).
-> 1991, c. 46, s. 373; 1994, c. 47, s. 17; 1997, c. 15, s. 37(E); 2001, c. 9, s. 98; 2007, c. 6, s. 19.
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares or in membership shares of a bank, the entity is deemed to be acquiring a significant interest in that class of shares or in membership shares, as the case may be, through an acquisition for which the approval of the Minister is required under subsection (1).
+> 1991, c. 46, s. 373; 1994, c. 47, s. 17; 1997, c. 15, s. 37(E); 2001, c. 9, s. 98; 2007, c. 6, s. 19; 2010, c. 12, s. 2051.
 
 
 
@@ -7591,6 +9189,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **374** 
 
 - **(1)** No person may be a major shareholder of a bank with equity of twelve billion dollars or more.
+
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who is a major shareholder of a federal credit union.
 
 **Exception — widely held bank**
 
@@ -7620,7 +9222,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** a widely held insurance holding company to which subsection (4) applies that controls the bank;
 	- **(b)** an eligible Canadian financial institution to which subsection (4) applies, other than a bank, that controls the bank; or
 	- **(c)** an eligible foreign institution to which subsection (4) applies that controls the bank.
-> 1991, c. 46, s. 374, c. 48, s. 494; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 12.
+> 1991, c. 46, s. 374, c. 48, s. 494; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2052; 2012, c. 5, s. 12.
 
 
 
@@ -7631,6 +9233,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **374.1** 
 
 - **(1)** Despite section 374, if a bank with equity of twelve billion dollars or more was formed as the result of an amalgamation, a person who is a major shareholder of the bank on the effective date of the letters patent of amalgamation shall do all things necessary to ensure that the person is no longer a major shareholder of the bank on the day that is one year after that day or on the day that is after any shorter period specified by the Minister.
+
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who is a major shareholder of a federal credit union.
 
 **Exception — widely held banks and bank holding companies**
 
@@ -7657,7 +9263,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(6)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 13.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2053; 2012, c. 5, s. 13.
 
 
 
@@ -7669,6 +9275,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(1)** If a person is a major shareholder of a bank with equity of less than twelve billion dollars and the bank’s equity reaches twelve billion dollars or more, the person shall do all things necessary to ensure that the person is not a major shareholder of the bank on the day that is three years after the day the bank’s equity reached twelve billion dollars.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who is a major shareholder of a federal credit union.
+
 **Exception**
 
 - **(2)** Subsection (1) does not apply if any of subsections 374(2) to (6) applies to the person in respect of the bank.
@@ -7676,7 +9286,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 1991, c. 46, s. 375; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 14.
+> 1991, c. 46, s. 375; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2054; 2012, c. 5, s. 14.
 
 
 
@@ -7690,6 +9300,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** the widely held bank no longer controls the other bank; or
 	- **(b)** the other bank or the entity that controls the other bank does not have any major shareholder other than the widely held bank or any entity that the widely held bank controls.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a federal credit union that controls a bank.
+
 **Exception**
 
 - **(2)** Subsection (1) does not apply in respect of a bank with equity of less than two hundred and fifty million dollars or any other amount that is prescribed.
@@ -7697,7 +9311,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the widely held bank has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 1991, c. 46, s. 376; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 15.
+> 1991, c. 46, s. 376; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2055; 2012, c. 5, s. 15.
 
 
 
@@ -7711,10 +9325,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** the widely held bank no longer controls the other bank; or
 	- **(b)** the other bank or the entity that controls the other bank does not have any major shareholder other than the widely held bank or any entity that the widely held bank controls.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a federal credit union that controls a bank.
+
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the widely held bank has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 16.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2056; 2012, c. 5, s. 16.
 
 
 
@@ -7722,8 +9340,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Prohibition against significant interest**
 
-**376.1** No person who has a significant interest in any class of shares of a widely held bank with equity of twelve billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank that is a bank or a bank holding company.
-> 1991, c. 46, s. 578; 1997, c. 15, s. 39; 1999, c. 28, s. 19; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 17.
+**376.1** 
+
+- **(1)** No person who has a significant interest in any class of shares of a widely held bank with equity of twelve billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank that is a bank or a bank holding company.
+
+**Exception — federal credit union**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has a significant interest in any class of shares of a federal credit union.
+> 1991, c. 46, s. 578; 1997, c. 15, s. 39; 1999, c. 28, s. 19; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2057; 2012, c. 5, s. 17.
 
 
 
@@ -7731,8 +9355,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Prohibition against significant interest**
 
-**376.2** No person who has a significant interest in any class of shares of a bank may have a significant interest in any class of shares of any widely held bank with equity of twelve billion dollars or more, or of any widely held bank holding company with equity of twelve billion dollars or more, that controls the bank.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 18.
+**376.2** 
+
+- **(1)** No person who has a significant interest in any class of shares of a bank may have a significant interest in any class of shares of any widely held bank with equity of twelve billion dollars or more, or of any widely held bank holding company with equity of twelve billion dollars or more, that controls the bank.
+
+**Exception — federal credit union**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has a significant interest in any class of shares of a federal credit union.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2058; 2012, c. 5, s. 18.
 
 
 
@@ -7744,10 +9374,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(1)** No person shall control, within the meaning of paragraph 3(1)(d), a bank with equity of twelve billion dollars or more.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who controls a federal credit union.
+
 **Exception**
 
 - **(2)** Subsection (1) does not apply if any of subsections 374(2) to (6) applies to the person in respect of the bank.
-> 1991, c. 46, s. 377; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 19.
+> 1991, c. 46, s. 377; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2059; 2012, c. 5, s. 19.
 
 
 
@@ -7759,10 +9393,31 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(1)** No person shall, without the approval of the Minister, acquire control, within the meaning of paragraph 3(1)(d), of a bank with equity of less than twelve billion dollars.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who acquires control of a federal credit union.
+
 **Amalgamation, etc., constitutes acquisition**
 
 - **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a bank with equity of less than twelve billion dollars, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the bank through an acquisition for which the approval of the Minister is required under subsection (1).
-> 2001, c. 9, s. 98; 2007, c. 6, s. 20; 2012, c. 5, s. 20.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 20; 2010, c. 12, s. 2060; 2012, c. 5, s. 20.
+
+
+
+
+
+**Prohibition against control — federal credit union**
+
+**377.2** 
+
+- **(1)** No person shall, without the approval of the Minister, control, within the meaning of paragraph 3(1)(a.1) or (d), a federal credit union.
+
+**Approval**
+
+- **(2)** The Minister may grant the approval only if
+	- **(a)** the control is in relation to a federal credit union that is being incorporated or a body corporate that is being continued as a federal credit union; and
+	- **(b)** the applicant for the approval has given an undertaking under subsection 973.02(1) to cease to control the federal credit union on a date specified by the Minister.
+> 2010, c. 12, s. 2061.
 
 
 
@@ -7811,10 +9466,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Constraint on registration**
 
-**379** No bank shall, unless the acquisition of the share has been approved by the Minister, record in its securities register a transfer or issue of any share of the bank to any person or to any entity controlled by a person if
-- **(a)** the transfer or issue of the share would cause the person to have a significant interest in any class of shares of the bank; or
-- **(b)** where the person has a significant interest in a class of shares of the bank, the transfer or issue of the share would increase the significant interest of the person in that class of shares.
-> 1991, c. 46, s. 379; 1997, c. 15, s. 40; 2001, c. 9, s. 98.
+**379** A bank must not, unless the acquisition of the share or membership share has been approved by the Minister, record in its securities register or members register, as the case may be, a transfer or issue of any share or membership share of the bank to any person or to any entity controlled by a person if
+- **(a)** the transfer or issue of the share or membership share would cause the person to have a significant interest in any class of shares or in membership shares of the bank; or
+- **(b)** the person has a significant interest in a class of shares or in membership shares of the bank and the transfer or issue of the share or membership share would increase the significant interest of the person in that class of shares or in membership shares.
+> 1991, c. 46, s. 379; 1997, c. 15, s. 40; 2001, c. 9, s. 98; 2010, c. 12, s. 2062.
 
 
 
@@ -7822,8 +9477,23 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exemption**
 
-**380** On application by a bank, other than a bank with equity of twelve billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank from the application of sections 373 and 379.
-> 1991, c. 46, s. 380; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 22.
+**380** 
+
+- **(1)** On application by a bank, other than a bank with equity of twelve billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank from the application of sections 373 and 379.
+
+**Exception — federal credit union**
+
+- **(2)** Subsection (1) does not apply in respect of a federal credit union.
+> 1991, c. 46, s. 380; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2062; 2012, c. 5, ss. 22, 223.
+
+
+
+
+
+**Exemption — federal credit unions**
+
+**380.1** On application by a federal credit union, the Superintendent may exempt any class of shares of the federal credit union the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares and membership shares of the federal credit union from the application of sections 373 and 379.
+> 2010, c. 12, s. 2062.
 
 
 
@@ -7831,8 +9501,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exception — small holdings**
 
-**381** Despite section 379, if, as a result of a transfer or issue of shares of a class of shares of a bank to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the bank in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class, the bank is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares of the bank as a result of that issue or transfer of shares.
-> 1991, c. 46, s. 381; 2001, c. 9, s. 98; 2012, c. 31, s. 110.
+**381** Despite section 379, if, as a result of a transfer or issue of shares of a class of shares, or of membership shares, of a bank to a person, other than an eligible agent, the total number of shares of that class registered in the securities register of the bank, or the total number of membership shares registered in the members register of the bank, as the case may be, in the name of that person would not exceed 5,000 and would not exceed 0.1% of the outstanding shares of that class or of the outstanding membership shares, as the case may be, the bank is entitled to assume that no person is acquiring or increasing a significant interest in that class of shares or in membership shares of the bank as a result of that issue or transfer of shares or membership shares.
+> 1991, c. 46, s. 381; 2001, c. 9, s. 98; 2010, c. 12, s. 2062; 2012, c. 31, ss. 110, 154.
 
 
 
@@ -7843,6 +9513,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **382** 
 
 - **(1)** Despite sections 373 and 379, the approval of the Minister is not required in respect of a bank with equity of less than twelve billion dollars if a person with a significant interest in a class of shares of the bank, or an entity controlled by a person with a significant interest in a class of shares of the bank, purchases or otherwise acquires shares of that class, or acquires control of any entity that holds any share of that class, and the number of shares of that class purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares of the bank to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
+
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a person who has a significant interest in any class of shares of a federal credit union.
 
 **Percentage**
 
@@ -7871,7 +9545,41 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the bank by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the bank by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 23, c. 31, s. 111.
+> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2063; 2012, c. 5, s. 23, c. 31, s. 111.
+
+
+
+
+
+**When approval not required — federal credit union**
+
+**382.1** 
+
+- **(1)** Despite sections 373 and 379, the approval of the Minister is not required in respect of a federal credit union if a person with a significant interest in a class of shares, or in membership shares, of the federal credit union, or an entity controlled by a person with a significant interest in a class of shares, or in membership shares, of the federal credit union, purchases or otherwise acquires shares of that class, or membership shares, or acquires control of any entity that holds any share of that class, or any membership share, and the number of shares of that class, or the number of membership shares, purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares or in the membership shares of the federal credit union to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
+
+**Percentage**
+
+- **(2)** Subject to subsection (3) and for the purpose of subsection (1), the percentage is 5 percentage points in excess of the significant interest of the person in that class of shares or in the membership shares of the federal credit union on the day of the most recent purchase or acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares, or of membership shares, of the federal credit union, or of control of an entity that held shares of that class of shares, or membership shares, of the federal credit union, for which approval was given by the Minister.
+
+**Percentage**
+
+- **(3)** If a person has a significant interest in a class of shares or in membership shares of a federal credit union and the person’s percentage of that class of shares, or of membership shares, has decreased after the date of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares, or of membership shares, of the federal credit union, or of control of an entity that held shares of that class of shares, or membership shares, as the case may be, of the federal credit union, for which approval was given by the Minister, the percentage for the purposes of subsection (1) is the percentage that is the lesser of
+	- **(a)** 5 percentage points in excess of the significant interest of the person in that class of shares or in membership shares of the federal credit union on the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares, or of membership shares, of the federal credit union, or of control of an entity that held shares of that class of shares, or membership shares, of the federal credit union, for which approval was given by the Minister, and
+	- **(b)** 10 percentage points in excess of the lowest significant interest of the person in that class of shares or in membership shares of the federal credit union at any time after the day of the most recent purchase or other acquisition by the person or any entity controlled by the person, other than the entity referred to in subsection (1), of shares of that class of shares, or of membership shares, of the federal credit union, or of control of an entity that held shares of that class of shares, or membership shares, of the federal credit union, for which approval was given by the Minister.
+
+**Exception**
+
+- **(4)** Subsection (1) does not apply if the purchase or other acquisition of shares or membership shares or the acquisition of control referred to in that subsection would
+	- **(a)** result in the acquisition of control of the federal credit union by the person referred to in that subsection;
+	- **(b)** result in the acquisition of a significant interest in a class of shares, or in membership shares, of the federal credit union by an entity controlled by the person and the acquisition of that investment is not exempted by the regulations; or
+	- **(c)** result in an increase in a significant interest in a class of shares, or in membership shares, of the federal credit union by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies, and the increase is not exempted by the regulations.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations
+	- **(a)** exempting from the application of paragraph (4)(b) the acquisition of a significant interest in a class of shares, or in membership shares, of the federal credit union by an entity controlled by the person; and
+	- **(b)** exempting from the application of paragraph (4)(c) an increase in a significant interest in a class of shares, or in membership shares, of the federal credit union by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
+> 2010, c. 12, s. 2064.
 
 
 
@@ -7882,13 +9590,13 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **383** 
 
 - **(1)** Despite sections 373 and 379, the approval of the Minister is not required if
-	- **(a)** the Superintendent has, by order, directed the bank to increase its capital and shares of the bank are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
+	- **(a)** the Superintendent has, by order, directed the bank to increase its capital and shares or membership shares of the bank are issued and acquired in accordance with the terms and conditions, if any, that may be specified in the order; or
 	- **(b)** a person, other than an eligible agent, who controls, within the meaning of paragraph 3(1)(a), the bank acquires additional shares of the bank.
 
 **Exception**
 
 - **(2)** Paragraph (1)(a) does not apply in respect of a bank with equity of twelve billion dollars or more.
-> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 24, c. 31, s. 112.
+> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2065; 2012, c. 5, s. 24, c. 31, s. 112.
 
 
 
@@ -7897,9 +9605,9 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Pre-approval**
 
 **384** For the purposes of sections 373 and 379, the Minister may approve
-- **(a)** the purchase or other acquisition of any number or percentage of shares of a bank that may be required in a particular transaction or series of transactions; or
-- **(b)** the purchase or other acquisition of up to a specified number or percentage of shares of a bank within a specified period.
-> 1991, c. 46, s. 384; 2001, c. 9, s. 98.
+- **(a)** the purchase or other acquisition of any number or percentage of shares or membership shares of a bank that may be required in a particular transaction or series of transactions; or
+- **(b)** the purchase or other acquisition of up to a specified number or percentage of shares or membership shares of a bank within a specified period.
+> 1991, c. 46, s. 384; 2001, c. 9, s. 98; 2010, c. 12, s. 2066.
 
 
 
@@ -7913,6 +9621,10 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the bank in respect of the voting shares of the bank or by any entity that is controlled by a person who is a major shareholder of the bank in respect of such shares.
 
+**Exception — federal credit union**
+
+- **(1.1)** Subsection (1) does not apply in respect of a federal credit union.
+
 **Determination of day**
 
 - **(2)** The day referred to in subsection (1) is
@@ -7922,7 +9634,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that a bank has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the bank must comply with subsection (1).
-> 1991, c. 46, s. 385; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133; 2012, c. 5, s. 25.
+> 1991, c. 46, s. 385; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133; 2010, c. 12, s. 2067; 2012, c. 5, s. 25.
 
 
 
@@ -8037,14 +9749,15 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **392** 
 
-- **(1)** If, with respect to any bank, a particular person contravenes section 372, subsection 373(1), 374(1) or 375(1), section 376.1 or 376.2, subsection 377(1) or section 377.1 or fails to comply with an undertaking referred to in subsection 390(2) or with any term or condition imposed under section 397, no person, and no entity controlled by the particular person, shall, in person or by proxy, exercise any voting rights
-	- **(a)** that are attached to shares of the bank beneficially owned by the particular person or any entity controlled by the particular person; or
+- **(1)** If, with respect to any bank, a particular person contravenes section 372, subsection 373(1), 374(1) or 375(1), section 376.1 or 376.2, subsection 377(1) or section 377.1 or 377.2 or fails to comply with an undertaking referred to in subsection 390(2) or with any term or condition imposed under section 397, no person, and no entity controlled by the particular person, shall, in person, by proxy or by delegate, exercise any voting rights
+	- **(a)** that are attached to shares of the bank beneficially owned by the particular person or any entity controlled by the particular person;
+	- **(a.1)** that may be exercised by a member of a federal credit union if the bank is a federal credit union; or
 	- **(b)** that are subject to an agreement entered into by the particular person, or any entity controlled by the particular person, pertaining to the exercise of the voting rights.
 
 **Subsection (1) ceases to apply**
 
 - **(2)** Subsection (1) ceases to apply in respect of a person when, as the case may be,
-	- **(a)** the shares to which the contravention relates have been disposed of;
+	- **(a)** the shares or membership shares to which the contravention relates have been disposed of;
 	- **(b)** the person ceases to control the bank within the meaning of paragraph 3(1)(d);
 	- **(c)** if the person failed to comply with an undertaking referred to in subsection 390(2), the bank complies with section 385; or
 	- **(d)** if the person failed to comply with a term or condition imposed under section 397, the person complies with the term or condition.
@@ -8052,7 +9765,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Saving**
 
 - **(3)** Despite subsection (1), if a person contravenes subsection 374(1) by reason only that, as a result of an event that has occurred and is continuing and is not within the control of the person, shares of the bank beneficially owned by the person or by any entity controlled by the person acquire voting rights in such number so as to cause the person to be a major shareholder of the bank, the Minister may, after consideration of the circumstances, permit the person and any entity controlled by the person to exercise voting rights, in person or by proxy, in respect of any class of voting shares of the bank beneficially owned by them that do not in aggregate exceed 20 per cent of the voting rights attached to that class of voting shares.
-> 1991, c. 46, s. 392; 2001, c. 9, s. 98.
+> 1991, c. 46, s. 392; 2001, c. 9, s. 98; 2010, c. 12, s. 2068.
 
 
 
@@ -8138,18 +9851,22 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(g)** the opinion of the Superintendent regarding the extent to which the proposed corporate structure of the applicant or applicants and their affiliates may affect the supervision and regulation of the bank, having regard to
 		- **(i)** the nature and extent of the proposed financial services activities to be carried out by the bank and its affiliates, and
 		- **(ii)** the nature and degree of supervision and regulation applying to the proposed financial services activities to be carried out by the affiliates of the bank; and
-	- **(h)** the best interests of the financial system in Canada.
+	- **(h)** the best interests of the financial system in Canada, including, if the bank is a federal credit union, the best interests of the cooperative financial system in Canada.
 
 **Exception**
 
 - **(2)** Except for an application by an eligible agent for an approval under section 373, and subject to subsection 377(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
-	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank with equity of twelve billion dollars or more; or
+	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank with equity of twelve billion dollars or more that is not a federal credit union; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a bank.
+
+**Exception**
+
+- **(2.1)** Subject to subsection 377.2(1), the Minister is to take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding more than 10 per cent but no more than 30 per cent of any class of the outstanding shares, or of membership shares, of a federal credit union.
 
 **Favourable treatment**
 
 - **(3)** The Minister shall not approve a transaction that would cause a bank to become a subsidiary of a foreign bank within the meaning of any of paragraphs (a) to (f) of the definition ***foreign bank*** in section 2 that is a non-WTO Member foreign bank unless the Minister is satisfied that treatment as favourable for banks to which this Act applies exists or will be provided in the jurisdiction in which the foreign bank principally carries on business, either directly or through a subsidiary.
-> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 31, c. 31, s. 113.
+> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2010, c. 12, s. 2069; 2012, c. 5, ss. 31, 223, c. 31, s. 113.
 
 
 
@@ -8252,21 +9969,30 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
+**Federal credit union constraints**
+
+**401.11** Subject to this Act, a federal credit union may by by-law impose, change or remove restrictions on the issue, transfer or ownership of its membership shares, or shares of any class of the shares of the federal credit union, in order to prevent a person from having a significant interest in the membership shares or shares of that class.
+> 2010, c. 12, s. 2070.
+
+
+
+
+
 **Constraining registration: Crown and foreign governments**
 
 **401.2** 
 
-- **(1)** No bank shall record in its securities register a transfer or issue of any share of the bank to
+- **(1)** No bank is to record in its securities register or members register a transfer or issue of any share or membership share of the bank to
 	- **(a)** Her Majesty in right of Canada or of a province or any agent or agency of Her Majesty in either of those rights; or
 	- **(b)** the government of a foreign country or any political subdivision of a foreign country, or any agent or agency of a foreign government.
 
 **Exception**
 
-- **(2)** Despite subsection (1), a bank may record in its securities register a transfer or issue of any share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+- **(2)** Despite subsection (1), a bank may record in its securities register or members register a transfer or issue of any share or membership share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share or membership share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
 
 **Certain foreign banks excluded**
 
-- **(2.1)** Subsection (2) does not permit a bank to record in its securities register a transfer or issue of any share of the bank to a foreign bank that is a foreign bank by reason only of paragraph (f) of the definition ***foreign bank*** in section 2.
+- **(2.1)** Subsection (2) does not permit a bank to record in its securities register or members register a transfer or issue of any share or membership share of the bank to a foreign bank that is a foreign bank by reason only of paragraph (f) of the definition ***foreign bank*** in section 2.
 
 **Exception**
 
@@ -8295,7 +10021,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Appeal**
 
 - **(9)** Any person with respect to whom a direction has been made under subsection (7) may, within 30 days after the date of the direction, appeal the matter in accordance with section 977.
-> 2001, c. 9, s. 98; 2012, c. 5, s. 32, c. 19, s. 333, c. 31, s. 116.
+> 2001, c. 9, s. 98; 2010, c. 12, s. 2071; 2012, c. 5, ss. 32, 223, c. 19, s. 333, c. 31, ss. 116, 154.
 
 
 
@@ -8309,18 +10035,24 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** Her Majesty in right of Canada or of a province or any agency of Her Majesty in either of those rights; or
 	- **(b)** the government of a foreign country or any political subdivision thereof, or any agency thereof.
 
+**Suspension of voting rights held by governments**
+
+- **(2)** Despite subsection 79.2(2), a member of a federal credit union must not, in person or by delegate, vote as a member of the federal credit union if the member is, or is an entity controlled by,
+	- **(a)** Her Majesty in right of Canada or of a province or any agency of Her Majesty in either of those rights; or
+	- **(b)** the government of a foreign country or any political subdivision thereof, or any agency thereof.
+
 **Exception**
 
-- **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1) is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+- **(3)** Subsections (1) and (2) do not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1), or, in the case of a federal credit union, a membership share, is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
 
 **Exception — eligible agent**
 
-- **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 401.2(3).
+- **(4)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 401.2(3).
 
 **Consequence of suspension of approval**
 
-- **(4)** If an approval referred to in subsection 401.2(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the bank that is beneficially owned by the eligible agent.
-> 2001, c. 9, s. 98; 2012, c. 5, s. 33, c. 19, s. 334, c. 31, s. 117.
+- **(5)** If an approval referred to in subsection 401.2(3) is suspended, the eligible agent shall not exercise, in person or by proxy, any voting rights attached to any share of the bank that is beneficially owned by the eligible agent.
+> 2001, c. 9, s. 98; 2010, c. 12, s. 2072; 2012, c. 5, ss. 33, 223, c. 19, ss. 334, 348, c. 31, ss. 117, 155.
 
 
 
@@ -8331,11 +10063,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Disposition of shareholdings**
+**Disposition**
 
 **402** 
 
-- **(1)** If, with respect to any bank, a person contravenes section 372 or subsection 373(1), 374(1) or 375(1) or section 376.1 or 376.2, subsection 377(1) or section 377.1 or fails to comply with an undertaking referred to in subsection 390(2) or with any terms and conditions imposed under section 397, the Minister may, if the Minister deems it in the public interest to do so, by order, direct that person and any person controlled by that person to dispose of any number of shares of the bank beneficially owned by any of those persons that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the person and the persons controlled by that person that is specified in the order.
+- **(1)** If, with respect to any bank, a person contravenes section 372 or subsection 373(1), 374(1) or 375(1) or section 376.1 or 376.2, subsection 377(1) or section 377.1 or 377.2 or fails to comply with an undertaking referred to in subsection 390(2) or with any terms and conditions imposed under section 397, the Minister may, if the Minister considers it in the public interest to do so, by order, direct that person and any person controlled by that person to
+	- **(a)** dispose of any number of shares of the bank beneficially owned by any of those persons that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the person and the persons controlled by that person that is specified in the order;
+	- **(b)** dispose of any number of membership shares of the bank beneficially owned by any of those persons that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the person and the persons controlled by that person that is specified in the order; or
+	- **(c)** take any other action that is necessary for any of those persons to cease controlling, within the meaning of paragraph 3(1)(a.1), the federal credit union.
 
 **Representations**
 
@@ -8346,7 +10081,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 - **(3)** Any person with respect to whom a direction has been made under subsection (1) may, within thirty days after the date of the direction, appeal the matter in accordance with section 977.
 
 - **(4)** [Repealed, 2001, c. 9, s. 99]
-> 1991, c. 46, s. 402; 1999, c. 28, s. 21; 2001, c. 9, s. 99.
+> 1991, c. 46, s. 402; 1999, c. 28, s. 21; 2001, c. 9, s. 99; 2010, c. 12, s. 2073; 2012, c. 31, s. 153(E).
 
 
 
@@ -8354,8 +10089,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Permission to become another body corporate**
 
-**402.1** If subsection 402(1) applies, the Minister may, on application by the bank, permit the bank to apply to be continued as a body corporate under any Act of Parliament referred to in subsection 39.1(1) instead of, or in addition to, issuing an order under subsection 402(1).
-> 1991, c. 46, s. 579; 2007, c. 6, s. 22.
+**402.1** If subsection 402(1) applies, the Minister may, on application by the bank, permit the bank to apply to be continued as a body corporate under any Act of Parliament referred to in subsection 39.1(1) or 39.2(1) instead of, or in addition to, issuing an order under subsection 402(1).
+> 1991, c. 46, s. 579; 2007, c. 6, s. 22; 2010, c. 12, s. 2074.
 
 
 
@@ -8369,12 +10104,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Court order**
 
-- **(2)** A court may, on an application under subsection (1), make such order as the circumstances require to give effect to the terms of the direction and may, without limiting the generality of the foregoing, require the bank concerned to sell the shares that are the subject-matter of the direction.
+- **(2)** A court may, on an application under subsection (1), make any order that the circumstances require to give effect to the terms of the direction, including requiring the bank concerned to sell the shares, or to redeem, purchase or transfer to another member the membership shares, that are the subject-matter of the direction.
 
 **Appeal**
 
 - **(3)** An appeal from an order of a court under this section lies in the same manner as, and to the same court to which, an appeal may be taken from any other order of the court.
-> 1991, c. 46, s. 403; 2012, c. 31, s. 118.
+> 1991, c. 46, s. 403; 2010, c. 12, s. 2075; 2012, c. 31, s. 118.
 
 
 
@@ -8396,16 +10131,16 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **405** 
 
 - **(1)** The directors of a bank may make such arrangements as they deem necessary to carry out the intent of this Part and, in particular, but without limiting the generality of the foregoing, may
-	- **(a)** require any person in whose name a share of the bank is held to submit a declaration setting out
-		- **(i)** the beneficial ownership of the share, and
-		- **(ii)** such other information as the directors deem relevant for the purposes of this Part;
-	- **(b)** require any person who wishes to have a transfer of a share registered in the name of, or to have a share issued to, that person to submit a declaration referred to in paragraph (a) as though the person were the holder of that share; and
+	- **(a)** require any person in whose name a share or membership share of the bank is held to submit a declaration setting out
+		- **(i)** the beneficial ownership of the share or membership share, and
+		- **(ii)** any other information that the directors consider relevant for the purposes of this Part;
+	- **(b)** require any person who wishes to have a transfer of a share or membership share registered in the name of, or to have a share or membership share issued to, that person to submit a declaration referred to in paragraph (a) as though the person were the holder of that share or membership share; and
 	- **(c)** determine the circumstances in which a declaration referred to in paragraph (a) is to be required, the form of the declaration and the times at which it is to be submitted.
 
 **Order of Superintendent**
 
-- **(2)** The Superintendent may, by order, direct a bank to obtain from any person in whose name a share of the bank is held a declaration setting out the name of every entity controlled by that person and containing information concerning
-	- **(a)** the ownership or beneficial ownership of the share; and
+- **(2)** The Superintendent may, by order, direct a bank to obtain from any person in whose name a share or membership share of the bank is held a declaration setting out the name of every entity controlled by that person and containing information concerning
+	- **(a)** the ownership or beneficial ownership of the share or membership share; and
 	- **(b)** such other related matters as are specified by the Superintendent.
 
 **Compliance required**
@@ -8416,7 +10151,9 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Outstanding declaration: effect**
 
-- **(4)** Where, pursuant to this section, a declaration is required to be submitted by a shareholder or other person in respect of the issue or transfer of any share, a bank may refuse to issue the share or register the transfer unless the required declaration is submitted.
+- **(4)** If, under this section, a declaration is required to be submitted by a shareholder, member or other person in respect of the issue or transfer of any share or membership share, a bank may refuse to issue the share or membership share or register the transfer unless the required declaration is submitted.
+> 1991, c. 46, s. 405; 2010, c. 12, s. 2076.
+
 
 
 
@@ -10305,7 +12042,7 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(a)** whose activities are limited to the investing of the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities; and
 - **(b)** whose securities entitle their holders to receive, on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in a part of its net assets, including a separate fund or trust account of the entity.
 
-***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution.
+***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution and includes a membership share.
 
 ***permitted entity*** means an entity in which a bank is permitted to acquire a substantial investment under section 468.
 
@@ -10330,7 +12067,7 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(3)** This Part does not apply in respect of
 	- **(a)** the holding of a security interest in real property, unless the security interest is prescribed under paragraph 479(a) to be an interest in real property; or
 	- **(b)** the holding of a security interest in securities of an entity.
-> 1991, c. 46, ss. 464, 603; 1993, c. 34, s. 9(F); 1997, c. 15, s. 56; 2001, c. 9, s. 127; 2007, c. 6, s. 38.
+> 1991, c. 46, ss. 464, 603; 1993, c. 34, s. 9(F); 1997, c. 15, s. 56; 2001, c. 9, s. 127; 2007, c. 6, s. 38; 2010, c. 12, s. 2077.
 
 
 
@@ -10990,13 +12727,13 @@ and shall comply with any regulations in relation thereto.
 **486** 
 
 - **(1)** For the purposes of this Part, a person is a related party of a bank where the person
-	- **(a)** is a person who has a significant interest in a class of shares of the bank;
+	- **(a)** is a person who has a significant interest in a class of shares or in membership shares of the bank;
 	- **(b)** is a director or senior officer of the bank or of a body corporate that controls the bank or is acting in a similar capacity in respect of an unincorporated entity that controls the bank;
 	- **(c)** is the spouse or common-law partner, or a child who is less than eighteen years of age, of a person described in paragraph (a) or (b);
 	- **(d)** is an entity that is controlled by a person referred to in any of paragraphs (a) to (c);
 	- **(e)** is an entity in which a person who controls the bank has a substantial investment;
 	- **(f)** is an entity in which the spouse or common-law partner, or a child who is less than eighteen years of age, of a person who controls the bank has a substantial investment; or
-	- **(g)** is a person, or a member of a class of persons, designated under subsection (3) or (4) as, or deemed under subsection (5) to be, a related party of the bank.
+	- **(g)** is a person, or forms part of a class of persons, designated under subsection (3) or (4) as, or deemed under subsection (5) to be, a related party of the bank.
 	- **(h)** [Repealed, 1997, c. 15, s. 68]
 
 **Exception — subsidiaries and substantial investments of banks**
@@ -11028,7 +12765,7 @@ and shall comply with any regulations in relation thereto.
 **Determination of control**
 
 - **(8)** For the purposes of paragraph (1)(d), ***controlled*** means “controlled, within the meaning of section 3, determined without regard to paragraph 3(1)(d)”.
-> 1991, c. 46, s. 486; 1997, c. 15, s. 68; 2000, c. 12, s. 7.
+> 1991, c. 46, s. 486; 1997, c. 15, s. 68; 2000, c. 12, s. 7; 2010, c. 12, s. 2078.
 
 
 
@@ -11043,14 +12780,14 @@ and shall comply with any regulations in relation thereto.
 **Idem**
 
 - **(2)** This Part does not apply in respect of
-	- **(a)** the issue of shares of any class of shares of a bank when fully paid for in money or when issued
-		- **(i)** in accordance with any provisions for the conversion of other issued and outstanding securities of the bank into shares of that class of shares,
-		- **(ii)** as a share dividend,
-		- **(iii)** in exchange for shares of a body corporate that has been continued as a bank under Part III,
-		- **(iv)** in accordance with the terms of an amalgamation under Part VI,
+	- **(a)** the issue of shares of any class of shares, or of membership shares, of a bank when fully paid for in money or when issued
+		- **(i)** in accordance with any provisions for the conversion of other issued and outstanding membership shares or securities of the bank into shares of that class of shares, or into membership shares,
+		- **(ii)** as a share or membership share dividend,
+		- **(iii)** in exchange for shares, or membership shares, however designated, of a body corporate that has been continued as a bank under Part III,
+		- **(iv)** in accordance with the terms of an amalgamation or conversion under Part VI,
 		- **(v)** by way of consideration in accordance with the terms of a sale agreement under Part VI, or
 		- **(vi)** with the approval in writing of the Superintendent, in exchange for shares of another body corporate;
-	- **(b)** the payment of dividends by a bank;
+	- **(b)** the payment of dividends or patronage allocations by a bank;
 	- **(c)** transactions that consist of the payment or provision by a bank to persons who are related parties of the bank of salaries, fees, stock options, pension benefits, incentive benefits or other benefits or remuneration in their capacity as directors, officers or employees of the bank;
 	- **(d)** transactions approved by the Minister under subsection 678(1) of this Act or subsection 715(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); or
 	- **(e)** if a bank is controlled by a widely held bank holding company or a widely held insurance holding company, transactions approved by the Superintendent that are entered as part of, or in the course of, a restructuring of the holding company or of any entity controlled by it.
@@ -11068,7 +12805,7 @@ and shall comply with any regulations in relation thereto.
 **Substantial investment — related party exception**
 
 - **(5)** Where a holding body corporate of a bank is, because of subsection (4), not a related party of the bank, any entity in which the holding body corporate has a substantial investment is not a related party of the bank if no related party of the bank has a substantial investment in the entity otherwise than through the control of the holding body corporate.
-> 1991, c. 46, s. 487, c. 48, s. 494; 1997, c. 15, s. 69; 2001, c. 9, s. 128.
+> 1991, c. 46, s. 487, c. 48, s. 494; 1997, c. 15, s. 69; 2001, c. 9, s. 128; 2010, c. 12, s. 2079; 2012, c. 5, s. 223.
 
 
 
@@ -15651,7 +17388,7 @@ the Superintendent may, in addition to any other action that may be taken under 
 - **(2)** A bank shall provide the Superintendent with the name of
 	- **(a)** each person who has been nominated for election or appointment as a member of its board of directors,
 	- **(b)** each person who has been selected by the bank for appointment as a senior officer, and
-	- **(c)** each person who is newly elected as a director of the bank at a meeting of shareholders and who was not proposed for election by anyone involved in the management of the bank,
+	- **(c)** each person who is newly elected as a director of the bank and who was not proposed for election by anyone involved in the management of the bank,
 together with such other information about the background, business record and experience of the person as the Superintendent may require.
 
 **When information to be provided**
@@ -15679,7 +17416,7 @@ together with such other information about the background, business record and e
 - **(6)** Where an order has been made under subsection (4)
 	- **(a)** disqualifying a person from being elected or appointed to a position, the person shall not be, and the bank shall not permit the person to be, elected or appointed to the position; or
 	- **(b)** removing a director from office, the person shall not continue to hold, and the bank shall not permit the person to continue to hold, office as a director.
-> 1999, c. 28, s. 49; 2001, c. 9, s. 180.
+> 1999, c. 28, s. 49; 2001, c. 9, s. 180; 2010, c. 12, s. 2080.
 
 
 
@@ -15783,11 +17520,11 @@ together with such other information about the background, business record and e
 
 
 
-**Powers of directors and officers suspended**
+**Powers suspended**
 
 **649** 
 
-- **(1)** Where the Superintendent takes control of a bank pursuant to subparagraph 648(1)(b)(iii), the powers, duties, functions, rights and privileges of the directors of the bank and of the officers of the bank responsible for its management are suspended.
+- **(1)** If the Superintendent takes control of a bank pursuant to subparagraph 648(1)(b)(iii), the powers, duties, functions, rights and privileges of the directors of the bank and of the officers of the bank responsible for its management are suspended. If the bank is a federal credit union, the powers of the members to make, amend or repeal by-laws are also suspended.
 
 **Superintendent to manage bank**
 
@@ -15798,7 +17535,7 @@ together with such other information about the background, business record and e
 **Persons to assist**
 
 - **(3)** Where the Superintendent takes control of a bank pursuant to subparagraph 648(1)(b)(iii), the Superintendent may appoint one or more persons to assist in the management of the bank.
-> 1999, c. 28, s. 51.
+> 1999, c. 28, s. 51; 2010, c. 12, s. 2081.
 
 
 
@@ -15861,8 +17598,8 @@ together with such other information about the background, business record and e
 
 **Priority of claim in liquidation**
 
-**655** In the case of the winding-up of a bank, the expenses resulting from the taking of control of the bank under subsection 648(1) and assessed against and paid by other banks and by authorized foreign banks pursuant to section 23 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), and interest in respect of the expenses at any rate that is specified by the Superintendent, constitute a claim of Her Majesty in right of Canada against the assets of the bank that ranks after all other claims but prior to any claim in respect of the shares of the bank.
-> 1999, c. 28, s. 56.
+**655** In the case of the winding-up of a bank, the expenses resulting from the taking of control of the bank under subsection 648(1) and assessed against and paid by other banks and by authorized foreign banks under section 23 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), and interest in respect of the expenses at any rate that is specified by the Superintendent, constitute a claim of Her Majesty in right of Canada against the assets of the bank that ranks after all other claims but prior to any claim in respect of the shares or membership shares of the bank.
+> 1999, c. 28, s. 56; 2010, c. 12, s. 2082.
 
 
 
@@ -16276,12 +18013,12 @@ together with such other information about the background, business record and e
 
 **682** 
 
-- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including a bank, may apply to the Minister for letters patent continuing the body corporate as a bank holding company under this Part.
+- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including a bank but not including a federal credit union, may apply to the Minister for letters patent continuing the body corporate as a bank holding company under this Part.
 
 **Other corporations**
 
 - **(2)** A body corporate incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the body corporate as a bank holding company under this Part.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2010, c. 12, s. 2083.
 
 
 
@@ -18705,7 +20442,7 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **803** 
 
-- **(1)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including banks and bank holding companies, the Minister may issue letters patent amalgamating and continuing the applicants as one bank holding company.
+- **(1)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including banks and bank holding companies but not including federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one bank holding company.
 
 **Restriction**
 
@@ -18721,7 +20458,7 @@ is entitled to submit to the bank holding company a written statement giving the
 	- **(a)** widely held;
 	- **(b)** controlled, within the meaning of paragraphs 3(1)(a) and (d), by a widely held bank, or by a widely held bank holding company, that controlled one of the applicants at the time the application was made; or
 	- **(c)** controlled, within the meaning of paragraph 3(1)(d), by a widely held insurance holding company, or by an eligible Canadian financial institution, within the meaning of subsection 370(1), other than a bank, or by an eligible foreign institution, within the meaning of subsection 370(1), that controlled one of the applicants at the time the application was made.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 80.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2010, c. 12, s. 2084; 2012, c. 5, s. 80.
 
 
 
@@ -22068,12 +23805,13 @@ together with such other information about the background, business record and e
 
 
 
-**Notice to directors and shareholders**
+**Notice to directors, shareholders and members**
 
-**965** A notice or document required by this Act or the regulations or by the incorporating instrument or by-laws of a bank or a bank holding company to be sent to a shareholder or director of the bank or bank holding company may be sent by prepaid mail addressed to, or may be delivered personally to,
-- **(a)** the shareholder at the shareholder’s latest address as shown in the records of the bank or bank holding company, or its transfer agent; and
-- **(b)** the director at the director’s latest address as shown in the records of the bank or bank holding company, or in the latest return made under section 632 or 951.
-> 2001, c. 9, s. 183.
+**965** A notice or document required by this Act or the regulations or by the incorporating instrument or by-laws of a bank or a bank holding company to be sent to a shareholder, member or director of the bank, or to a shareholder or director of the bank holding company, may be sent by prepaid mail addressed to, or may be delivered personally to,
+- **(a)** the shareholder at the shareholder’s latest address as shown in the records of the bank or bank holding company, or its transfer agent;
+- **(b)** the director at the director’s latest address as shown in the records of the bank or bank holding company, or in the latest return made under section 632 or 951; and
+- **(c)** the member at the member’s latest address as shown in the records of the bank.
+> 2001, c. 9, s. 183; 2010, c. 12, s. 2085.
 
 
 
@@ -22092,12 +23830,12 @@ together with such other information about the background, business record and e
 
 **967** 
 
-- **(1)** A notice or document sent by mail in accordance with section 965 to a shareholder or director is deemed to be received by the shareholder or director at the time it would be delivered in the ordinary course of mail unless there are reasonable grounds for believing that the shareholder or director did not receive the notice or document at that time or at all.
+- **(1)** A notice or document sent by mail in accordance with section 965 to a shareholder, member or director is deemed to be received by that person at the time it would be delivered in the ordinary course of mail unless there are reasonable grounds for believing that that person did not receive the notice or document at that time or at all.
 
 **Undelivered notices**
 
-- **(2)** If a bank or bank holding company sends a notice or document to a shareholder in accordance with section 965 and it is returned on two consecutive occasions because the shareholder cannot be found, the bank or bank holding company is not required to send any further notices or documents to the shareholder until it is informed in writing of their new address.
-> 2001, c. 9, s. 183; 2005, c. 54, s. 133.
+- **(2)** If a bank or bank holding company sends a notice or document to a shareholder or member in accordance with section 965 and it is returned on two consecutive occasions because the shareholder or member cannot be found, the bank or bank holding company is not required to send any further notices or documents to the shareholder or member until it is informed in writing of their new address.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 133; 2010, c. 12, s. 2086.
 
 
 
@@ -22116,15 +23854,16 @@ together with such other information about the background, business record and e
 
 **969** 
 
-- **(1)** A certificate issued on behalf of a bank or a bank holding company stating any fact that is set out in the incorporating instrument, the by-laws, the minutes of the meetings of the directors, a committee of directors or the shareholders, or in a contract to which the bank or bank holding company is a party, may be signed by a director or an officer of the bank or bank holding company.
+- **(1)** A certificate issued on behalf of a bank or a bank holding company stating any fact that is set out in the incorporating instrument, the by-laws, the minutes of the meetings of the directors, a committee of directors or the shareholders or members, or in a contract to which the bank or bank holding company is a party, may be signed by a director or an officer of the bank or bank holding company.
 
 **Proof of certain cases**
 
 - **(2)** When introduced as evidence in any civil, criminal or administrative action or proceeding, the following are, in the absence of evidence to the contrary, proof of the facts so certified without proof of the signature or official character of the person appearing to have signed the certificate:
 	- **(a)** a fact stated in a certificate referred to in subsection (1);
-	- **(b)** a certified extract from a securities register of a bank or a bank holding company; or
-	- **(c)** a certified copy of, or an extract from, minutes of a meeting of shareholders, directors or a committee of directors of a bank or a bank holding company.
-> 2001, c. 9, s. 183.
+	- **(b)** a certified extract from a securities register of a bank or a bank holding company;
+	- **(b.1)** a certified extract from the members register of a federal credit union; or
+	- **(c)** a certified copy of, or an extract from, minutes of a meeting of shareholders, directors or a committee of directors of a bank or a bank holding company or of a meeting of members of a federal credit union.
+> 2001, c. 9, s. 183; 2010, c. 12, s. 2087.
 
 
 
@@ -22132,8 +23871,14 @@ together with such other information about the background, business record and e
 
 **Entry in securities register**
 
-**970** An entry in the securities register of, or on a security certificate issued by, a bank or a bank holding company is evidence that the person in whose name the security is registered is the owner of the securities described in the register or in the certificate.
-> 2001, c. 9, s. 183; 2005, c. 54, s. 134(F).
+**970** 
+
+- **(1)** An entry in the securities register of, or on a security certificate issued by, a bank or a bank holding company is evidence that the person in whose name the security is registered is the owner of the securities described in the register or in the certificate.
+
+**Entry in members register**
+
+- **(2)** An entry in the members register of a federal credit union is evidence that the person in whose name the membership share is registered is the owner of the membership share in the register.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 134(F); 2010, c. 12, s. 2088.
 
 
 
@@ -22195,15 +23940,17 @@ together with such other information about the background, business record and e
 **973.01** 
 
 - **(1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval, take into account all matters that he or she considers relevant in the circumstances, including
-	- **(a)** national security; and
-	- **(b)** Canada’s international relations and its international legal obligations.
+	- **(a)** national security;
+	- **(b)** Canada’s international relations and its international legal obligations; and
+	- **(c)** if the approval relates to a federal credit union, whether the approval will affect its ability to be organized and carry on business on a cooperative basis in accordance with section 12.1.
 
 **Matters to take into account — Superintendent**
 
 - **(2)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval and to any prudential considerations that the Superintendent considers relevant in the circumstances, the Superintendent may, in considering whether to grant the approval, take into account
-	- **(a)** national security; and
-	- **(b)** Canada’s international relations and its international legal obligations.
-> 2007, c. 6, s. 125.
+	- **(a)** national security;
+	- **(b)** Canada’s international relations and its international legal obligations; and
+	- **(c)** if the approval relates to a federal credit union, whether the approval will affect its ability to be organized and carry on business on a cooperative basis in accordance with section 12.1.
+> 2007, c. 6, s. 125; 2010, c. 12, s. 2089.
 
 
 
@@ -22374,7 +24121,7 @@ together with such other information about the background, business record and e
 
 **Acquisition**
 
-- **(6)** Despite Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister or an agent or agency of Her Majesty in right of Canada may, on any terms and conditions imposed under subsection (3), acquire and hold shares of a bank on behalf of or in trust for Her Majesty if, as a result of an order under subsection (1), the bank may record in its securities register the transfer or issue of shares to Her Majesty or an agent or agency of Her Majesty.
+- **(6)** Despite Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister or an agent or agency of Her Majesty in right of Canada may, on any terms and conditions imposed under subsection (3), acquire and hold shares of a bank on behalf of or in trust for Her Majesty if, as a result of an order under subsection (1), the bank may record in its securities register or members register, as the case may be, the transfer or issue of shares to Her Majesty or an agent or agency of Her Majesty.
 
 **Payment out of C.R.F.**
 
@@ -22382,7 +24129,7 @@ together with such other information about the background, business record and e
 
 **Registration of shares**
 
-- **(8)** Shares acquired under subsection (6) by the Minister or an agent or agency of Her Majesty in right of Canada shall be registered in the name of the Minister, agent or agency, as the case may be, in the bank’s securities register if they are capable of being registered in it, and the shares shall be held by the Minister, agent or agency, as the case may be, on behalf of or in trust for Her Majesty.
+- **(8)** Shares acquired under subsection (6) by the Minister or an agent or agency of Her Majesty in right of Canada are to be registered in the name of the Minister, agent or agency, as the case may be, in the bank’s securities register or members register, as the case may be, if they are capable of being registered in it, and they are to be held by the Minister, agent or agency, as the case may be, on behalf of or in trust for Her Majesty.
 
 **Disposition by Minister**
 
@@ -22410,12 +24157,12 @@ together with such other information about the background, business record and e
 
 **Definition of shares**
 
-- **(15)** For the purposes of this section, ***shares*** includes any conversion or exchange privilege, option or right to acquire shares.
+- **(15)** For the purposes of this section, ***shares*** includes membership shares and any conversion or exchange privilege, option or right to acquire shares.
 
 **Bank holding company**
 
 - **(16)** For the purposes of this section, a reference to a “bank” includes a reference to a “bank holding company”, and the references to “section 646.1” in paragraphs (5)(a) and (b) are to be read, in relation to a bank holding company, as references to “section 962”.
-> 2009, c. 2, s. 275.
+> 2009, c. 2, s. 275; 2010, c. 12, s. 2090.
 
 
 
@@ -22452,7 +24199,7 @@ together with such other information about the background, business record and e
 **976** 
 
 - **(1)** The following applications to the Superintendent must contain the information, material and evidence that the Superintendent may require:
-	- **(a)** applications for approval under subsection 65(1), 72(2), 75(4), 79(5), 80(1), 170(1), 217(3), 421(1), 468(6) or (11), 471(1) or (2) or 482(1), subparagraph 487(2)(a)(vi), section 490 or subsection 494(3) or (4), 495.3(1), 553.1(1), 709(1), 716(2), 718(4), 723(1), 758(1), 924(1), 930(6) or (11), 933(1) or 944(1);
+	- **(a)** applications for approval under subsection 65(1), 72(2), 75(4), 79(5), 79.1(2), 80(1), 170(1), 192.03(6), 217(3), 421(1), 468(6) or (11), 471(1) or (2) or 482(1), subparagraph 487(2)(a)(vi), section 490 or subsection 494(3) or (4), 495.3(1), 553.1(1), 709(1), 716(2), 718(4), 723(1), 758(1), 924(1), 930(6) or (11), 933(1) or 944(1);
 	- **(b)** applications for consent under subsection 71(1) or 715(1);
 	- **(c)** applications for exemptions under subsection 156.05(3); and
 	- **(d)** applications for extensions of time under subsection 471(3) or (5), 472(4), 473(4), 933(2) or (4), 934(3) or 935(3).
@@ -22474,7 +24221,7 @@ together with such other information about the background, business record and e
 **Deemed approval**
 
 - **(5)** If the applicant does not receive the notice required by subsection (3) and, where applicable, subsection (4), within the required period, the Superintendent is deemed to have approved the application and granted the approval, consent, extension or exemption to which the application relates, regardless of whether the approval, consent, extension or exemption is to be in writing or not.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 126.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 126; 2010, c. 12, s. 2091.
 
 
 
@@ -22566,7 +24313,7 @@ together with such other information about the background, business record and e
 	- **(g)** respecting the retention, in Canada, of assets of a bank or a bank holding company;
 	- **(h)** respecting the value of assets of a bank or a bank holding company to be held in Canada and the manner in which those assets are to be held;
 	- **(i)** respecting the protection and maintenance of assets of a bank or a bank holding company, including regulations respecting the bonding of directors, officers and employees of a bank or a bank holding company;
-	- **(j)** respecting the holding of shares and ownership interests for the purposes of sections 70, 74 and 714;
+	- **(j)** respecting the holding of shares, membership shares and ownership interests for the purposes of sections 70, 74 and 714;
 	- **(k)** respecting information, in addition to the information required by section 634 or 953, to be maintained in the register referred to in that section; and
 	- **(l)** generally for carrying out the purposes and provisions of this Act.
 
@@ -22577,7 +24324,7 @@ together with such other information about the background, business record and e
 **Incorporated material is not a regulation**
 
 - **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
-> 2001, c. 9, s. 183; 2005, c. 54, s. 135.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 135; 2010, c. 12, s. 2092.
 
 
 
@@ -22647,6 +24394,22 @@ together with such other information about the background, business record and e
 
 - **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name that includes the word “bank”, “banker” or “banking”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
 
+**Unauthorized name — “credit union” and “bank”**
+
+- **(2.01)** Subject to the regulations and subsections (4) to (5.1) and (12), every entity, other than a federal credit union, that acquires, adopts or retains a name that includes both the phrase “credit union” and the word “bank”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
+**Unauthorized name — “credit union” and “federal”**
+
+- **(2.02)** Subject to the regulations and subsections (4) to (5.1) and (12), every entity, other than a federal credit union, that acquires, adopts or retains a name that includes both the phrase “credit union” and the word “federal”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
+**Unauthorized name — “cooperative” and “bank”**
+
+- **(2.03)** Subject to the regulations and subsections (4) to (5.1) and (12), every entity, other than a federal credit union, that acquires, adopts or retains a name that includes both of the words “cooperative” and “bank”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
+**Unauthorized name — “cooperative” and “federal”**
+
+- **(2.04)** Subject to the regulations and subsections (4) to (5.1) and (12), every entity, other than a federal credit union, that acquires, adopts or retains a name that includes both of the words “cooperative” and “federal”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
 **Unauthorized use of word “bank”, “banker” or “banking”**
 
 - **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word “bank”, “banker” or “banking” to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
@@ -22688,11 +24451,18 @@ together with such other information about the background, business record and e
 
 **Permitted use**
 
+- **(4.1)** No person commits an offence under any of subsections (2.01) to (2.04) if the activity referred to in that subsection is done
+	- **(a)** in relation to a prescribed use;
+	- **(b)** under prescribed circumstances; or
+	- **(c)** in accordance with a prescribed approval and any terms and conditions that the Minister may impose.
+
+**Permitted use**
+
 - **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark of that bank in carrying on its business.
 
 **Permitted use**
 
-- **(5.1)** No person commits an offence under subsection (2) or (2.1) if the activity referred to in that subsection is in relation to a business that is not engaged in financial activities, unless the business is carried out by a prescribed entity.
+- **(5.1)** No person commits an offence under subsections (2) to (2.1) if the activity referred to in that subsection is in relation to a business that is not engaged in financial activities, unless the business is carried out by a prescribed entity.
 
 **Permitted use**
 
@@ -22700,7 +24470,7 @@ together with such other information about the background, business record and e
 
 **Permitted use**
 
-- **(5.3)** Subject to the regulations, no entity affiliated with a bank commits an offence by reason only that the entity uses the name of the bank in the entity’s corporate name or in a name under which the entity carries on business or by reason only that it uses any identifying mark of the bank in carrying on its business, if the entity does not use the word “bank”, “banker” or “banking” in its corporate name, in a name under which it carries on business or in any of its identifying marks.
+- **(5.3)** Subject to the regulations, no entity affiliated with a bank commits an offence by reason only that the entity uses the name of the bank in the entity’s corporate name or in a name under which the entity carries on business or by reason only that it uses any identifying mark of the bank in carrying on its business, if the entity does not use any of the words “bank”, “banker” or “banking” or the phrase “federal credit union” in its corporate name, in a name under which it carries on business or in any of its identifying marks.
 
 **Permitted use**
 
@@ -22744,9 +24514,21 @@ together with such other information about the background, business record and e
 
 - **(12)** No person commits an offence under any of subsections (2) to (3) if the activity referred to in that subsection has been approved by the Superintendent and is in accordance with any terms and conditions that the Superintendent may impose and, if the activity involves the use of the name or any identifying mark of a bank, a bank holding company or a foreign bank, the bank, bank holding company or foreign bank has consented to the use.
 
-**Words “bank”, “banker” or “banking”**
+**Words bank, banker or banking**
 
-- **(13)** For the purposes of this section, the word “bank”, “banker” or “banking” includes
+- **(13)** For the purposes of this section, the word ***bank***, ***banker*** or ***banking*** includes
+	- **(a)** any of those words in any language; and
+	- **(b)** any word or words, in any language, that are equivalent to any of those words.
+
+**Phrase credit union**
+
+- **(13.1)** For the purposes of this section, the phrase ***credit union*** includes
+	- **(a)** that phrase in any language; and
+	- **(b)** any word or words, in any language, that are equivalent to any of the words in that phrase.
+
+**Words cooperative and federal**
+
+- **(13.2)** For the purposes of this section, the words ***cooperative*** and ***federal*** include
 	- **(a)** any of those words in any language; and
 	- **(b)** any word or words, in any language, that are equivalent to any of those words.
 
@@ -22774,7 +24556,7 @@ together with such other information about the background, business record and e
 **Regulations**
 
 - **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections (5.3), (8) and (9.1) to (11).
-> 2001, c. 9, s. 183; 2007, c. 6, s. 129.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 129; 2010, c. 12, s. 2093.
 
 
 
