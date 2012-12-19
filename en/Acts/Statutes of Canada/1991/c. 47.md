@@ -50,23 +50,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***affairs***, with respect to a company, means the relationships among the company and its affiliates and the shareholders, policyholders, directors and officers of the company and its affiliates, but does not include the business of the company or any of its affiliates;
 
-***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
+***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
 
-***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
-***annual return*** means a return prepared in accordance with subsection 665(1) or (2);
+***annual return*** means a return prepared in accordance with subsection 665(1) or (2);
 
-***annual statement***, in relation to a company, means the annual financial statement of the company within the meaning of paragraph 331(1)(a) and, in relation to an insurance holding company, means the annual financial statement of the insurance holding company within the meaning of paragraph 887(1)(a);
+***annual statement***, in relation to a company, means the annual financial statement of the company within the meaning of paragraph 331(1)(a) and, in relation to an insurance holding company, means the annual financial statement of the insurance holding company within the meaning of paragraph 887(1)(a);
 
-***assets in Canada*** means the assets that have been vested in trust for a foreign company under Part XIII;
+***assets in Canada*** means the assets that have been vested in trust for a foreign company under Part XIII;
 
 ***auditor*** includes a firm of accountants;
 
-***bank holding company*** means a body corporate that is incorporated or formed under Part XV of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***bank holding company*** means a body corporate that is incorporated or formed under Part XV of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 
 ***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank;
 
-***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 87(2);
+***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 87(2);
 
  et ***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries;
 
@@ -74,23 +74,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province;
 
- or  ou ***central securities register*** or ***securities register***, in relation to a company or an insurance holding company, means the register referred to in section 271;
+ or  ou ***central securities register*** or ***securities register***, in relation to a company or an insurance holding company, means the register referred to in section 271;
 
-***class***, in respect of insurance or an insurance policy, means a class determined in accordance with section 12;
+***class***, in respect of insurance or an insurance policy, means a class determined in accordance with section 12;
 
-***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
 
-***company*** means a body corporate referred to in subsection 13(1);
+***company*** means a body corporate referred to in subsection 13(1);
 
 ***complainant***, in relation to a company or any matter concerning a company, means
 - **(a)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of the company or any of its affiliates,
 - **(a.1)** a policyholder entitled to vote at a meeting of policyholders or shareholders and policyholders of the company,
 - **(b)** a director or an officer, or a former director or officer, of the company or any of its affiliates, or
-- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 371, 375 or 1031;
+- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 371, 375 or 1031;
 
-***consumer provision*** means a provision referred to in paragraph (c) or (c.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (c) or (c.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
 ***converted company*** means a mutual company that has been converted under this Act into a company with common shares;
 
@@ -112,19 +112,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
 
+***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+
 ***federal financial institution*** means
 - **(a)** a company or a society,
 - **(b)** a bank,
 - **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies, or
-- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act;
+- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act;
 
 ***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person;
 
 ***financial institution*** means
 - **(a)** a company or a society,
-- **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
+- **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
-- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
+- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
 - **(g)** an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province and that is primarily engaged in dealing in securities, including portfolio management and investment counselling, and
@@ -132,15 +134,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***financial year***, in respect of a foreign company, means a calendar year;
 
-***foreign company*** means an entity that is the subject of an order made under subsection 574(1);
+***foreign company*** means an entity that is the subject of an order made under subsection 574(1);
 
 ***foreign institution*** means an entity that is
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
 - **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
 
-***former-Act company*** means a body corporate referred to in paragraph 13(1)(b);
+***former-Act company*** means a body corporate referred to in paragraph 13(1)(b);
 
-***former-Act society*** means a body corporate referred to in paragraph 13(2)(b);
+***former-Act society*** means a body corporate referred to in paragraph 13(2)(b);
 
 ***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder or a policyholder, or, in the case of a fraternal benefit society, a member, constitutes a proxy;
 
@@ -154,15 +156,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***guarantee*** includes a letter of credit;
 
 ***head office*** means
-- **(a)** in relation to a company, the office required to be maintained by the company under section 260,
-- **(b)** in relation to a society, the office required to be maintained by the society under section 544, and
-- **(c)** in relation to an insurance holding company, the office required to be maintained by the insurance holding company under section 868;
+- **(a)** in relation to a company, the office required to be maintained by the company under section 260,
+- **(b)** in relation to a society, the office required to be maintained by the society under section 544, and
+- **(c)** in relation to an insurance holding company, the office required to be maintained by the insurance holding company under section 868;
 
 ***holder*** means
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank, and
-- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7;
+- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7;
 
-***holding body corporate*** means a holding body corporate within the meaning of section 4;
+***holding body corporate*** means a holding body corporate within the meaning of section 4;
 
 ***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act;
 
@@ -170,7 +172,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***incorporator***, in relation to a company or an insurance holding company, means a person who applied for letters patent to incorporate the company or insurance holding company, as the case may be;
 
-***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII;
+***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII;
 
 ***issuer***, in respect of a security, means the entity that issues or issued the security;
 
@@ -182,12 +184,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Finance;
 
-***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
 
 ***mutual company*** means
 - **(a)** a company that is incorporated or continued as a mutual company under this Act,
 - **(b)** a former-Act company that, on the coming into force of this paragraph, has no issued and outstanding shares, or
-- **(c)** a company that is converted into a mutual company under sections 226 to 236,
+- **(c)** a company that is converted into a mutual company under sections 226 to 236,
 
 and that is not converted into a company with common shares under this Act;
 
@@ -197,7 +199,7 @@ and that is not converted into a company with common shares under this Act;
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
 - **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
 
-***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 87(3);
+***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 87(3);
 
 ***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the shareholders or policyholders who voted in respect of that resolution;
 
@@ -211,16 +213,16 @@ and that is not converted into a company with common shares under this Act;
 
 ***policy*** means any written contract of insurance or reinsurance whether contained in one or more documents and, in the case of insurance in a fraternal benefit society, any contract of insurance whether evidenced by a written document or not and any certificate of membership relating in any way to insurance, and includes any annuity contract and any endowment insurance contract;
 
-***policy in Canada***[Repealed, 2007, c. 6, s. 186]
+***policy in Canada***[Repealed, 2007, c. 6, s. 186]
 
-***policyholder in Canada***[Repealed, 2007, c. 6, s. 186]
+***policyholder in Canada***[Repealed, 2007, c. 6, s. 186]
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***property and casualty company*** means a company or a provincial company that is not a life company or a marine company;
 
-***provincial company*** means, subject to subsection (1.1),
-- **(a)** [Repealed, 2001, c. 9, s. 345]
+***provincial company*** means, subject to subsection (1.1),
+- **(a)** [Repealed, 2001, c. 9, s. 345]
 - **(b)** Antigonish Farmers’ Mutual Fire Insurance Company,
 - **(c)** Clare Mutual Insurance Company,
 - **(d)** The Halifax Insurance Company, or
@@ -238,14 +240,14 @@ or, if the name of such company is changed, includes the successor company by it
 - **(a)** in relation to a person who is a shareholder of a company or an insurance holding company, the latest postal address of the person according to the central securities register of the company or the insurance holding company, as the case may be, and
 - **(b)** in relation to a person in any other respect, the latest postal address of the person according to the records of the company or insurance holding company;
 
-***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 87(4);
+***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 87(4);
 
 ***regulatory capital***, in respect of a company, a society, a provincial company or an insurance holding company, has the meaning given that expression by the regulations;
 
 ***resident Canadian*** means a natural person who is
 - **(a)** a Canadian citizen ordinarily resident in Canada,
 - **(b)** a Canadian citizen not ordinarily resident in Canada who is a member of a prescribed class of persons, or
-- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
+- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
 
 ***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings;
 
@@ -263,21 +265,21 @@ but does not include a policy;
 
 ***series***, in respect of shares, means a division of a class of shares;
 
-***significant interest*** means a significant interest determined in accordance with section 8;
+***significant interest*** means a significant interest determined in accordance with section 8;
 
-***society*** means a body corporate referred to in subsection 13(2) that is a fraternal benefit society;
+***society*** means a body corporate referred to in subsection 13(2) that is a fraternal benefit society;
 
 ***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders and policyholders and, in the case of a fraternal benefit society, the members, who voted in respect of that resolution or signed by all the shareholders, policyholders and members entitled to vote on that resolution;
 
-***squeeze-out transaction*** means a transaction by a company that is not a distributing company, or an insurance holding company that is not a distributing insurance holding company, that requires an amendment to a by-law referred to in subsection 238(1) or 851(1), as the case may be, and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
+***squeeze-out transaction*** means a transaction by a company that is not a distributing company, or an insurance holding company that is not a distributing insurance holding company, that requires an amendment to a by-law referred to in subsection 238(1) or 851(1), as the case may be, and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
 - **(a)** in the case of a company, the company, and
 - **(b)** in the case of an insurance holding company, the insurance holding company;
 
 ***subordinated indebtedness*** means an instrument evidencing an indebtedness of a company that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the company, be subordinate in right of payment to all policy liabilities of the company and all other liabilities of the company except those other liabilities that, by their terms, rank equally with or are subordinate to such indebtedness;
 
-***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
+***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
 
-***substantial investment*** means a substantial investment determined in accordance with section 10;
+***substantial investment*** means a substantial investment determined in accordance with section 10;
 
 ***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
 
@@ -289,11 +291,11 @@ but does not include a policy;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
-***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
+***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
 
 **Provincial company status**
 
-- **(1.1)** A company referred to in the definition “provincial company” in subsection (1) ceases to be a provincial company for the purposes of this Act if the order made by the Superintendent under subsection 657(1) approving the commencement and carrying on of business by the company is revoked.
+- **(1.1)** A company referred to in the definition ***provincial company*** in subsection (1) ceases to be a provincial company for the purposes of this Act if the order made by the Superintendent under subsection 657(1) approving the commencement and carrying on of business by the company is revoked.
 
 **Policy loans**
 
@@ -308,7 +310,7 @@ but does not include a policy;
 **Widely held**
 
 - **(4)** For the purposes of this Act, a body corporate is widely held if it has no major shareholder.
-> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214; 2007, c. 6, s. 186; 2012, c. 5, s. 122.
+> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214; 2007, c. 6, s. 186; 2010, c. 12, s. 2117; 2012, c. 5, s. 122.
 
 
 
@@ -934,7 +936,7 @@ and that is not discontinued under this Act.
 
 **32** 
 
-- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including an insurance holding company, may apply to the Minister for letters patent continuing the body corporate as a company under this Act.
+- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including an insurance holding company but not including a federal credit union, may apply to the Minister for letters patent continuing the body corporate as a company under this Act.
 
 **Other corporations**
 
@@ -943,7 +945,7 @@ and that is not discontinued under this Act.
 **Fraternal benefit societies**
 
 - **(3)** A fraternal benefit society incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the fraternal benefit society as a society.
-> 1991, c. 47, s. 32; 1994, c. 24, s. 34(F); 1997, c. 15, s. 170; 2001, c. 9, s. 357.
+> 1991, c. 47, s. 32; 1994, c. 24, s. 34(F); 1997, c. 15, s. 170; 2001, c. 9, s. 357; 2010, c. 12, s. 2118.
 
 
 
@@ -5824,16 +5826,16 @@ of the directors present are resident Canadians.
 
 **245** 
 
-- **(1)** On the joint application of two or more bodies corporate, incorporated by or under an Act of Parliament, including companies and insurance holding companies, the Minister may issue letters patent amalgamating and continuing the applicants as one mutual company.
+- **(1)** On the joint application of two or more bodies corporate, incorporated by or under an Act of Parliament, including companies and insurance holding companies but not including federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one mutual company.
 
 **Application to amalgamate**
 
-- **(2)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including companies — other than mutual companies — and insurance holding companies, the Minister may issue letters patent amalgamating and continuing the applicants as one company.
+- **(2)** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including companies — other than mutual companies — and insurance holding companies but not including federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one company.
 
 **Application to amalgamate societies**
 
 - **(3)** On the joint application of two or more societies, the Minister may issue letters patent amalgamating and continuing the applicants as one society.
-> 1991, c. 47, s. 245; 1997, c. 15, s. 218; 2001, c. 9, s. 390.
+> 1991, c. 47, s. 245; 1997, c. 15, s. 218; 2001, c. 9, s. 390; 2010, c. 12, s. 2119.
 
 
 
@@ -16678,12 +16680,12 @@ where
 
 **719** 
 
-- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including a company, may apply to the Minister for letters patent continuing the body corporate as an insurance holding company under this Part.
+- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, including a company but not including a federal credit union, may apply to the Minister for letters patent continuing the body corporate as an insurance holding company under this Part.
 
 **Other corporations**
 
 - **(2)** A body corporate incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the body corporate as an insurance holding company under this Part.
-> 1991, c. 47, s. 719; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 719; 2001, c. 9, s. 465; 2010, c. 12, s. 2120.
 
 
 
@@ -19589,8 +19591,8 @@ of the directors present are resident Canadians.
 
 **Application to amalgamate**
 
-**857** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including a company or an insurance holding company but not including a mutual company, the Minister may issue letters patent amalgamating and continuing the applicants as one insurance holding company.
-> 2001, c. 9, s. 465.
+**857** On the joint application of two or more bodies corporate incorporated by or under an Act of Parliament, including a company or an insurance holding company but not including a mutual company or a federal credit union, the Minister may issue letters patent amalgamating and continuing the applicants as one insurance holding company.
+> 2001, c. 9, s. 465; 2010, c. 12, s. 2121.
 
 
 
