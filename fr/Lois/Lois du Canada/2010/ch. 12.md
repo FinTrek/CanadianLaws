@@ -3503,7 +3503,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3709_hq_9625'>[*]</a></sup>**2136** Les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind3709_hq_9625'><sup>*</sup></a>: [Note : Dispositions de la présente partie non en vigueur.]<br />
+<a name='fn_Ind3709_hq_9625'><sup>*</sup></a>: [Note : Articles 1894 à 2135 en vigueur le 19 décembre 2012, *voir* TR/2012-99.]<br />
 
 
 
