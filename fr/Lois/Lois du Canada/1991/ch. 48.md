@@ -87,6 +87,8 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
  ou ***coopérative de crédit centrale*** ou ***centrale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont l’un des objectifs principaux est de fournir des liquidités aux coopératives locales et, selon le cas, dont les associés sont exclusivement ou surtout des coopératives locales ou dont les administrateurs sont exclusivement ou surtout nommés ou élus par des coopératives locales. La présente définition ne vise pas les agences d’assurance-dépôts.
 
+***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+
  ou ***coopérative de crédit locale*** ou ***coopérative locale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont les associés sont principalement des personnes physiques et dont l’objectif principal est d’accepter leurs dépôts et de leur consentir des prêts.
 
 ***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
@@ -221,7 +223,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2012, ch. 5, art. 104.
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104.
 
 
 
@@ -805,7 +807,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **31.6** 
 
-- **(1)** Les règles suivantes s’appliquent à toute personne morale prorogée comme association sous le régime de la présente partie :
+- **(1)** Les règles suivantes s’appliquent à toute personne morale prorogée comme association sous le régime de la présente partie :
 	- **a)** les biens de la personne morale appartiennent à l’association;
 	- **b)** l’association assume les obligations de la personne morale;
 	- **c)** aucune atteinte n’est portée aux causes d’action déjà nées à l’égard de la personne morale;
@@ -814,13 +816,20 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 	- **f)** les personnes qui, à la date de prorogation, détenaient des valeurs de la personne morale conservent tous les droits et privilèges qu’elles avaient à cette date — leur exercice étant dès lors assujetti à la présente loi — et continuent d’assumer les obligations qui en découlent;
 	- **g)** les règlements administratifs de la personne morale deviennent, sous réserve de leur compatibilité avec la présente loi, ceux de l’association.
 
-**Parts sociales**
+**Parts sociales — personne morale**
 
-- **(2)** La prorogation d’une personne morale en association a les effets suivants :
-	- **a) ** les actions ordinaires de la personne morale sont réputées être des parts sociales auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi;
-	- **b) ** les détenteurs des actions ordinaires de la personne morale sont réputés être les associés de l’association;
-	- **c) ** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue.
-> 2001, ch. 9, art. 258; 2007, ch. 6, art. 140.
+- **(2)** La prorogation d’une personne morale qui n’est pas une coopérative de crédit fédérale en association a les effets suivants :
+	- **a)** les actions ordinaires de la personne morale sont réputées être des parts sociales auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi;
+	- **b)** les détenteurs des actions ordinaires de la personne morale sont réputés être les associés de l’association;
+	- **c)** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue.
+
+**Parts sociales — coopérative de crédit fédérale**
+
+- **(3)** La prorogation d’une coopérative de crédit fédérale en association a les effets suivants :
+	- **a)** les parts sociales de la coopérative de crédit fédérale sont réputées être des parts sociales de l’association auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi;
+	- **b)** les membres de la coopérative de crédit fédérale sont réputés être les associés de l’association;
+	- **c)** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les membres de la coopérative de crédit fédérale ont convenu de voter de la manière qui y est prévue.
+> 2001, ch. 9, art. 258; 2007, ch. 6, art. 140; 2010, ch. 12, art. 2115.
 
 
 
