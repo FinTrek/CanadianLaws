@@ -44,7 +44,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Commissioner*** means the Commissioner of the Agency appointed under section 4.
 
 ***consumer provision*** means
-- **(a)** paragraphs 157(2)(e) and (f), section 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.3 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
+- **(a)** paragraphs 157(2)(e) and (f), sections 273.1 and 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.3 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
 - **(a.1)** sections 992 to 1003 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (a);
 - **(b)** paragraphs 167(2)(f) and (g), subsection 382.2(3) and sections 385.05 to 385.28 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) together with any regulations made under or for the purposes of those provisions;
 - **(b.1)** sections 487.01 to 487.12 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (b);
@@ -80,7 +80,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***penalty*** means an administrative monetary penalty.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, s. 217.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, ss. 217, 222.
 
 
 
@@ -358,7 +358,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Ownership**
 
-**14** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall beneficially own, directly or indirectly, any shares of any financial institution, bank holding company, insurance holding company or of any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution.
+**14** 
+
+- **(1)** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall beneficially own, directly or indirectly, any shares of any financial institution, bank holding company, insurance holding company or of any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution.
+
+**Prohibitions — federal credit union**
+
+- **(2)** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall
+	- **(a)** directly or indirectly hold any interest or right in membership shares of a federal credit union, within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), in excess of the minimum number of membership shares of the federal credit union that is required for membership; or
+	- **(b)** exercise any right he or she has as a member of such a federal credit union, except any right that he or she has as a customer of the federal credit union.
+> 2001, c. 9, s. 14; 2010, c. 12, s. 2116.
+
 
 
 
