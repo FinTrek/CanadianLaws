@@ -5632,6 +5632,13 @@ but does not include
 	- **(b)** the holders of the common shares of the body corporate are deemed to be the members of the cooperative; and
 	- **(c)** any agreement made before continuance under which the holders of any common shares of the body corporate have agreed to vote those shares in a manner provided in the agreement is of no effect.
 
+**Federal credit union**
+
+- **(11.1)** If a federal credit union, within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), is continued as a cooperative under this Act,
+	- **(a)** its membership shares are deemed to be membership shares to which are attached the rights, privileges and restrictions set out in this Act and the articles;
+	- **(b)** the members of the federal credit union are deemed to be the members of the cooperative; and
+	- **(c)** any agreement made before continuance under which the members of the federal credit union have agreed to vote in a manner provided in the agreement is of no effect.
+
 **Issued shares**
 
 - **(12)** Subject to section 182,
@@ -5646,6 +5653,8 @@ but does not include
 **Definition of share**
 
 - **(14)** For the purposes of subsections (12) and (13), ***share*** includes a document referred to in any of subsections 142(1) to (3), a share warrant within the meaning of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, or a like instrument.
+> 1998, c. 1, s. 285; 2010, c. 12, s. 2113.
+
 
 
 
