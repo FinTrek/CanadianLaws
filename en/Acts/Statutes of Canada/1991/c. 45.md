@@ -107,6 +107,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***equity***, in respect of a company, means its equity as determined in accordance with the regulations;
 
+***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+
 ***federal financial institution*** means
 - **(a)** a company,
 - **(b)** a bank,
@@ -237,7 +239,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368; 2012, c. 5, s. 162.
+> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368; 2010, c. 12, s. 2123; 2012, c. 5, s. 162.
 
 
 
@@ -756,12 +758,12 @@ and that is not discontinued under this Act.
 
 **31** 
 
-- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament may apply to the Minister for letters patent continuing the body corporate as a company under this Act.
+- **(1)** A body corporate incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any other Act of Parliament, other than a federal credit union, may apply to the Minister for letters patent continuing the body corporate as a company under this Act.
 
 **Other corporations**
 
 - **(2)** A body corporate incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the body corporate as a company under this Act.
-> 1991, c. 45, s. 31; 1994, c. 24, s. 34(F).
+> 1991, c. 45, s. 31; 1994, c. 24, s. 34(F); 2010, c. 12, s. 2124.
 
 
 
@@ -4674,9 +4676,11 @@ of the directors present are resident Canadians.
 
 **228** On the joint application of
 - **(a)** two or more companies,
-- **(b)** one or more companies and one or more bodies corporate that are incorporated by or under an Act of Parliament, or
-- **(c)** two or more bodies corporate incorporated by or under an Act of Parliament,
+- **(b)** one or more companies and one or more bodies corporate that are incorporated by or under an Act of Parliament, other than a federal credit union, or
+- **(c)** two or more bodies corporate incorporated by or under an Act of Parliament, other than a federal credit union,
 the Minister may issue letters patent amalgamating and continuing the applicants as one company.
+> 1991, c. 45, s. 228; 2010, c. 12, s. 2125.
+
 
 
 
