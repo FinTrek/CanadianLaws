@@ -65,9 +65,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***adresse enregistrée***
 - **a)** Dans le cas d’un actionnaire d’une banque ou d’une société de portefeuille bancaire, dernière adresse postale selon le registre central des valeurs mobilières de la banque ou de la société de portefeuille bancaire;
+- **a.1)** dans le cas d’un membre d’une coopérative de crédit fédérale, dernière adresse postale selon le registre des membres;
 - **b)** dans le cas de toute autre personne, en ce qui a trait à une banque, dernière adresse postale selon les livres de la succursale en cause.
 
-***affaires internes*** Les relations entre une banque, une banque étrangère autorisée ou une société de portefeuille bancaire et les entités de leur groupe et leurs actionnaires, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
+***affaires internes*** Relations entre une banque, une banque étrangère autorisée ou une société de portefeuille bancaire et les entités de leur groupe et leurs actionnaires, membres, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
 
 ***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
@@ -104,9 +105,13 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
 
+***coopérative de crédit fédérale*** Banque qui, au sens de l’article 12.1, est organisée et exerce ses activités commerciales selon le principe coopératif.
+
 ***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
 
-***détenteur*** Soit l’actionnaire au sens de l’article 7, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***délégué*** Personne physique nommée ou élue pour représenter un membre à une assemblée des membres.
+
+***détenteur*** L’actionnaire au sens de l’article 7, le membre visé à l’article 7.1 ou toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
 
 ***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
 
@@ -168,11 +173,15 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
 
+***membre*** Par rapport à une coopérative de crédit fédérale, personne qui est membre de la coopérative en application du paragraphe 47.04(2).
+
 ***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
 
 ***ministre*** Le ministre des Finances.
 
 ***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
+
+***parts sociales*** Dans le cas d’une coopérative de crédit fédérale, la participation à son actif qui confère les droits prévus au paragraphe 79.1(1).
 
 ***personne*** Personne physique, entité ou représentant personnel.
 
@@ -181,7 +190,8 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 ***plaignant*** En ce qui a trait à une banque ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la banque ou d’entités du même groupe;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la banque ou d’entités du même groupe;
-- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 334, 338 ou 989.
+- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 334, 338 ou 989;
+- **d)** soit le membre, ancien ou actuel, d’une coopérative de crédit fédérale.
 
 ***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
 
@@ -191,9 +201,11 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
  ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une banque, le registre visé à l’article 248 et, dans le cas d’une société de portefeuille bancaire, le registre visé à l’article 825.
 
+***registre des membres*** Dans le cas d’une coopérative de crédit fédérale, le registre visé à l’article 254.1.
+
 ***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée.
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué.
 
 ***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
@@ -204,9 +216,11 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***résident d’un pays ALÉNA***[Abrogée, 1999, ch. 28, art. 1]
 
-***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées ou signée de tous les actionnaires habiles à voter en l’occurrence.
+***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées ou signée de toutes les personnes habiles à voter en l’occurrence.
 
 ***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées.
+
+***ristourne*** Montant qu’une coopérative de crédit fédérale attribue à ses membres dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire.
 
 ***série*** Subdivision d’une catégorie d’actions.
 
@@ -234,7 +248,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 ***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
 
- ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents.
+ ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant ou des parts sociales; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents.
 
 ***titre à ordre*** Titre de la nature précisée au paragraphe 83(3).
 
@@ -263,7 +277,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2012, ch. 5, art. 2.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894; 2012, ch. 5, art. 2 et 223.
 
 
 
@@ -295,12 +309,13 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Participation multiple**
 
-**2.3** Pour l’application de la présente loi, est à participation multiple l’entité :
+**2.3** Pour l’application de la présente loi, est à participation multiple l’entité :
 - **a)** soit qui est une personne morale qui n’a aucun actionnaire important;
+- **a.1)** soit qui est une coopérative de crédit fédérale;
 - **b)** soit qui est une compagnie d’assurance constituée en personne morale ou formée selon le principe de mutualité;
 - **c)** soit qui est une association coopérative de crédit régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** soit qui est une société coopérative de crédit constituée ou formée et réglementée sous le régime d’une loi provinciale.
-> 2001, ch. 9, art. 36.
+> 2001, ch. 9, art. 36; 2010, ch. 12, art. 1895.
 
 
 
@@ -314,12 +329,12 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Exemption**
 
-- **(2)** Le surintendant peut, à la demande d’une banque ou d’une société de portefeuille bancaire, établir que celle-ci n’est ou n’était pas, selon le cas, une banque ayant fait appel au public ou une société de portefeuille bancaire ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières de la banque ou de la société en question.
+- **(2)** Le surintendant peut, à la demande d’une banque ou d’une société de portefeuille bancaire, établir que celle-ci n’est ou n’était pas, selon le cas, une banque ayant fait appel au public ou une société de portefeuille bancaire ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières de la banque ou de la société en question ou aux détenteurs de parts sociales de la banque en question.
 
 **Exemption par catégorie**
 
-- **(3)** Le surintendant peut établir les catégories de banques et de sociétés de portefeuille bancaires qui ne sont ou n’étaient pas, selon le cas, des banques ayant fait appel au public ou des sociétés de portefeuille bancaires ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières des banques ou des sociétés faisant partie des catégories en question.
-> 2005, ch. 54, art. 2.
+- **(3)** Le surintendant peut établir les catégories de banques et de sociétés de portefeuille bancaires qui ne sont ou n’étaient pas, selon le cas, des banques ayant fait appel au public ou des sociétés de portefeuille bancaires ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières des banques ou des sociétés faisant partie des catégories en question ou aux détenteurs de parts sociales des banques faisant partie des catégories en question.
+> 2005, ch. 54, art. 2; 2010, ch. 12, art. 1896.
 
 
 
@@ -329,8 +344,9 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **3** 
 
-- **(1)** Pour l’application de la présente loi, a le contrôle d’une entité :
+- **(1)** Pour l’application de la présente loi, a le contrôle d’une entité :
 	- **a)** dans le cas d’une personne morale, la personne qui a la propriété effective de titres de celle-ci lui conférant plus de cinquante pour cent des droits de vote dont l’exercice lui permet d’élire la majorité des administrateurs de la personne morale;
+	- **a.1)** dans le cas d’une coopérative de crédit fédérale, la personne et les entités qu’elle contrôle qui ont le droit d’exercer plus de la moitié des voix qui peuvent être exprimées lors d’une assemblée annuelle ou d’élire la majorité des administrateurs de celle-ci;
 	- **b)** dans le cas d’une entité non constituée en personne morale, à l’exception d’une société en commandite, la personne qui en détient, à titre de véritable propriétaire, plus de cinquante pour cent des titres de participation — quelle qu’en soit la désignation — et qui a la capacité d’en diriger tant l’activité commerciale que les affaires internes;
 	- **c)** dans le cas d’une société en commandite, le commandité;
 	- **d)** dans tous les cas, la personne dont l’influence directe ou indirecte auprès de l’entité est telle que son exercice aurait pour résultat le contrôle de fait de celle-ci.
@@ -346,7 +362,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Lignes directrices**
 
 - **(4)** Le ministre peut, pour l’application de toute disposition de la présente loi qui mentionne le contrôle au sens de l’alinéa (1)d), donner des lignes directrices précisant en quoi consiste ce contrôle, notamment par la description des objectifs de politique que les lignes directrices et la disposition en cause visent; le cas échéant, la mention de l’alinéa (1)d) dans la disposition s’interprète selon les lignes directrices.
-> 1991, ch. 46, art. 3; 2001, ch. 9, art. 37.
+
+**Lignes directrices — coopérative de crédit**
+
+- **(5)** Le ministre peut, pour l’application de toute disposition de la présente loi qui mentionne le contrôle au sens de l’alinéa (1)d), donner des lignes directrices précisant en quoi consiste ce contrôle relativement à une coopérative de crédit fédérale, notamment par la description des objectifs de politique que les lignes directrices et la disposition en cause visent; le cas échéant, la mention de l’alinéa (1)d) dans la disposition s’interprète selon les lignes directrices.
+> 1991, ch. 46, art. 3; 2001, ch. 9, art. 37; 2010, ch. 12, art. 1897.
 
 
 
@@ -398,18 +418,43 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
+**Détenteur de parts sociales**
+
+**7.1** 
+
+- **(1)** Pour l’application de la présente loi, est détenteur de parts sociales d’une coopérative de crédit fédérale toute personne qui est propriétaire d’une ou de plusieurs parts sociales selon le registre des membres de celle-ci ou qui a le droit d’être inscrite dans ce registre, ou un autre document semblable de la coopérative de crédit fédérale, à titre de propriétaire de ces parts sociales.
+
+**Mention qu’une part sociale est détenue**
+
+- **(2)** Dans la présente loi, la mention qu’une part sociale est détenue par une personne ou en son nom signifie que cette personne est inscrite ou a le droit d’être inscrite à titre de membre dans le registre des membres ou tout autre document semblable de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1898.
+
+
+
+
+
 **Intérêt substantiel**
 
 **8** 
 
 - **(1)** Une personne a un intérêt substantiel dans une catégorie d’actions d’une banque ou d’une société de portefeuille bancaire quand elle-même et les entités qu’elle contrôle détiennent la propriété effective de plus de dix pour cent de l’ensemble des actions en circulation de cette catégorie.
 
+**Intérêt substantiel — parts sociales**
+
+- **(1.1)** Une personne a un intérêt substantiel dans les parts sociales d’une coopérative de crédit fédérale quand elle-même et les entités qu’elle contrôle détiennent la propriété effective de plus de dix pour cent de l’ensemble des parts sociales en circulation.
+
 **Augmentation de l’intérêt substantiel**
 
-- **(2)** La personne qui a un intérêt substantiel dans une catégorie d’actions d’une banque ou d’une société de portefeuille bancaire augmente cet intérêt quand le pourcentage de telles actions dont elle-même et les entités qu’elle contrôle détiennent la propriété effective augmente du fait de l’acquisition par elle-même ou toute entité qu’elle contrôle :
+- **(2)** La personne qui a un intérêt substantiel dans une catégorie d’actions d’une banque ou d’une société de portefeuille bancaire augmente cet intérêt quand le pourcentage de telles actions dont elle-même et les entités qu’elle contrôle détiennent la propriété effective augmente du fait de l’acquisition par elle-même ou toute entité qu’elle contrôle :
 	- **a)** soit d’actions de cette catégorie à titre de véritable propriétaire;
 	- **b)** soit du contrôle d’une entité qui détient à titre de véritable propriétaire des actions de cette catégorie.
-> 1991, ch. 46, art. 8; 2001, ch. 9, art. 40.
+
+**Augmentation de l’intérêt substantiel — parts sociales**
+
+- **(3)** La personne qui a un intérêt substantiel dans les parts sociales d’une coopérative de crédit fédérale augmente cet intérêt quand le pourcentage de telles parts sociales dont elle-même et les entités qu’elle contrôle détiennent la propriété effective augmente du fait de l’acquisition par elle-même ou toute entité qu’elle contrôle :
+	- **a)** soit de parts sociales de cette coopérative de crédit fédérale à titre de véritable propriétaire;
+	- **b)** soit du contrôle d’une entité qui détient à titre de véritable propriétaire des parts sociales de cette coopérative de crédit fédérale.
+> 1991, ch. 46, art. 8; 2001, ch. 9, art. 40; 2010, ch. 12, art. 1899.
 
 
 
@@ -449,31 +494,99 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
+**Action concertée — droits de vote**
+
+**9.1** 
+
+- **(1)** Pour l’application de la partie VII, sont réputés être un seul membre les membres qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard de l’exercice du droit de vote à l’assemblée des membres.
+
+**Présomption**
+
+- **(2)** Pour l’application du présent article, les membres sont présumés ne pas s’être entendus pour agir ensemble ou de concert uniquement du fait que leurs droits de vote sont dévolus à un même ou aux mêmes délégués ou qu’ils exercent leur droit de vote en cette qualité de la même façon.
+
+**Désignation**
+
+- **(3)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens du paragraphe (1), le surintendant peut décider que les membres en cause se sont entendus pour agir ensemble ou de concert.
+
+**Contravention**
+
+- **(4)** Tout membre contrevient à une disposition de la partie VII s’il convient d’agir avec d’autres membres — ou de concert avec ceux-ci — de sorte qu’un seul membre réputé tel contrevient à cette disposition.
+> 2010, ch. 12, art. 1900.
+
+
+
+
+
+**Action concertée — droits de vote des actionnaires et des membres**
+
+**9.2** 
+
+- **(1)** Pour l’application de la partie VII, sont réputés être une seule personne les membres et les actionnaires d’une coopérative de crédit fédérale qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard de l’exercice du droit de vote respectif.
+
+**Exceptions**
+
+- **(2)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
+	- **a)** qu’un membre est le représentant d’un actionnaire;
+	- **b)** qu’un actionnaire est le délégué d’un membre;
+	- **c)** qu’ils exercent leurs droits de vote respectifs de la même façon.
+
+**Désignation**
+
+- **(3)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens du paragraphe (1), le surintendant peut décider que les membres et les actionnaires en cause se sont entendus pour agir ensemble ou de concert.
+
+**Contravention**
+
+- **(4)** Tout membre ou actionnaire contrevient à une disposition de la partie VII s’il convient d’agir avec d’autres membres ou actionnaires — ou de concert avec ceux-ci — de sorte qu’une seule personne réputée telle contrevient à cette disposition.
+> 2010, ch. 12, art. 1900.
+
+
+
+
+
 **Intérêt de groupe financier dans une personne morale**
 
 **10** 
 
-- **(1)** Une personne a un intérêt de groupe financier dans une personne morale quand elle-même et les entités qu’elle contrôle détiennent la propriété effective :
-	- **a)** soit d’un nombre total d’actions comportant plus de dix pour cent des droits de vote attachés à l’ensemble des actions en circulation de celle-ci;
-	- **b)** soit d’un nombre total d’actions représentant plus de vingt-cinq pour cent de l’avoir des actionnaires de celle-ci.
+- **(1)** Une personne a un intérêt de groupe financier dans une personne morale dans les cas suivants :
+	- **a)** elle-même et les entités qu’elle contrôle détiennent la propriété effective d’un nombre total d’actions comportant plus de dix pour cent des droits de vote attachés à l’ensemble des actions en circulation de celle-ci;
+	- **b)** elle-même et les entités qu’elle contrôle détiennent la propriété effective d’un nombre total d’actions représentant plus de vingt-cinq pour cent de l’avoir des actionnaires de celle-ci;
+	- **c)** si la personne morale est une coopérative de crédit fédérale :
+		- **(i)** les droits de vote détenus par elle-même et les entités qu’elle contrôle représentent plus de dix pour cent de l’ensemble des droits de vote pouvant être exercés par les membres et les actionnaires,
+		- **(ii)** elle-même et les entités qu’elle contrôle détiennent la propriété effective d’un nombre total d’actions et de parts sociales représentant plus de vingt-cinq pour cent de l’avoir des membres et des actionnaires de celle-ci.
 
 **Augmentation de l’intérêt de groupe financier — personne morale**
 
-- **(2)** La personne qui détient le type d’intérêt de groupe financier visé à l’alinéa (1)a) l’augmente quand elle-même ou toute entité qu’elle contrôle :
+- **(2)** La personne qui détient le type d’intérêt de groupe financier visé à l’alinéa (1)a) l’augmente quand elle-même ou toute entité qu’elle contrôle :
 	- **a)** soit acquiert à titre de véritable propriétaire un nombre d’actions de la personne morale qui augmente le pourcentage des droits de vote attachés à l’ensemble des actions qu’elles détiennent à titre de véritable propriétaire;
 	- **b)** soit acquiert le contrôle d’une entité qui détient à titre de véritable propriétaire un nombre d’actions de la personne morale qui augmente le pourcentage des droits de vote attachés à l’ensemble des actions qu’elles détiennent à titre de véritable propriétaire.
 
 **Idem**
 
-- **(3)** La personne qui détient le type d’intérêt de groupe financier visé à l’alinéa (1)b) l’augmente quand elle-même ou toute entité qu’elle contrôle :
+- **(3)** La personne qui détient le type d’intérêt de groupe financier visé à l’alinéa (1)b) l’augmente quand elle-même ou toute entité qu’elle contrôle :
 	- **a)** soit acquiert à titre de véritable propriétaire un nombre d’actions de la personne morale qui augmente le pourcentage de l’avoir des actionnaires que représente le total des actions de celle-ci qu’elles détiennent à titre de véritable propriétaire;
 	- **b)** soit acquiert le contrôle d’une entité qui détient à titre de véritable propriétaire un nombre d’actions de la personne morale qui augmente le pourcentage de l’avoir des actionnaires que représente le total des actions de celle-ci qu’elles détiennent à titre de véritable propriétaire.
 
+**Augmentation de l’intérêt de groupe financier — coopérative de crédit fédérale**
+
+- **(3.1)** La personne qui détient le type d’intérêt de groupe financier visé au sous-alinéa (1)c)(i) l’augmente quand elle-même ou toute entité qu’elle contrôle augmente, de quelque manière que ce soit, le pourcentage de ses droits de vote par rapport à l’ensemble des droits de vote pouvant être exercés par les membres et les actionnaires.
+
+**Augmentation de l’intérêt de groupe financier — coopérative de crédit fédérale**
+
+- **(3.2)** La personne qui détient le type d’intérêt de groupe financier visé au sous-alinéa (1)c)(ii) l’augmente quand elle-même ou toute entité qu’elle contrôle :
+	- **a)** soit, acquiert à titre de véritable propriétaire un nombre d’actions ou de parts sociales qui augmente le pourcentage de l’avoir des membres et des actionnaires de la coopérative de crédit fédérale que représente le total des actions et des parts sociales de celle-ci qu’elles détiennent à titre de véritable propriétaire;
+	- **b)** soit, acquiert le contrôle d’une entité qui détient à titre de véritable propriétaire un nombre d’actions ou de parts sociales de la coopérative de crédit fédérale qui augmente le pourcentage de l’avoir des membres et des actionnaires de la coopérative de crédit fédérale que représente le total des actions et des parts sociales de celle-ci qu’elles détiennent à titre de véritable propriétaire.
+
 **Nouvel intérêt de groupe financier**
 
-- **(4)** Il est entendu que les acquisitions suivantes sont réputées augmenter l’intérêt de groupe financier d’une personne dans une personne morale :
+- **(4)** Il est entendu que les acquisitions suivantes sont réputées augmenter l’intérêt de groupe financier d’une personne dans une personne morale :
 	- **a)** dans le cas où la personne a un intérêt de groupe financier dans la personne morale en vertu de l’alinéa (1)a), l’acquisition par cette personne, ou par une entité qu’elle contrôle, soit d’un nombre d’actions de la personne morale à titre de véritable propriétaire, soit du contrôle d’une entité détenant à ce titre de telles actions, qui augmente l’avoir des actionnaires que représente l’ensemble de ces actions détenues à titre de véritable propriétaire par cette personne et les entités qu’elle contrôle, à plus de vingt-cinq pour cent de l’avoir des actionnaires de la personne morale;
 	- **b)** dans le cas où la personne a un intérêt de groupe financier dans la personne morale en vertu de l’alinéa (1)b), l’acquisition par cette personne, ou par une entité qu’elle contrôle, soit d’un nombre d’actions avec droit de vote de la personne morale à titre de véritable propriétaire, soit du contrôle d’une entité détenant à ce titre de telles actions, qui augmente les droits de vote attachés à l’ensemble de ces actions détenues en propriété effective par cette personne et les entités qu’elle contrôle, à plus de dix pour cent des droits de vote attachés à l’ensemble des actions en circulation de la personne morale.
+
+**Nouvel intérêt de groupe financier — coopérative de crédit fédérale**
+
+- **(4.1)** Il est entendu que les acquisitions ci-après sont réputées augmenter l’intérêt de groupe financier d’une personne dans une coopérative de crédit fédérale :
+	- **a)** dans le cas où la personne a un intérêt de groupe financier dans la coopérative de crédit fédérale visé au sous-alinéa (1)c)(i), l’acquisition par cette personne, ou par une entité qu’elle contrôle, soit d’un nombre d’actions ou de parts sociales de la coopérative de crédit fédérale à titre de véritable propriétaire, soit du contrôle d’une entité détenant à ce titre de telles actions ou parts sociales, qui augmente le pourcentage de l’avoir des membres et des actionnaires de la coopérative de crédit fédérale que représente l’ensemble de ces actions et de ces parts sociales détenues à titre de véritable propriétaire par cette personne et les entités qu’elle contrôle, à plus de vingt-cinq pour cent de l’avoir des membres et des actionnaires de la coopérative de crédit fédérale;
+	- **b)** dans le cas où la personne a un intérêt de groupe financier dans la coopérative de crédit fédérale visé au sous-alinéa (1)c)(ii), l’acquisition par cette personne, ou par une entité qu’elle contrôle, soit de droits de vote, soit du contrôle d’une entité détenant de tels droits de vote, qui augmente le pourcentage des droits de vote pouvant être exercés par cette personne et les entités qu’elle contrôle, à plus de dix pour cent de l’ensemble des droits de vote pouvant être exercés par les membres et les actionnaires.
 
 **Intérêt de groupe financier dans une entité non constituée en personne morale**
 
@@ -481,9 +594,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Augmentation de l’intérêt de groupe financier dans une entité non constituée en personne morale**
 
-- **(6)** La personne qui détient un intérêt de groupe financier dans une entité non constituée en personne morale l’augmente quand elle-même ou toute entité qu’elle contrôle :
+- **(6)** La personne qui détient un intérêt de groupe financier dans une entité non constituée en personne morale l’augmente quand elle-même ou toute entité qu’elle contrôle :
 	- **a)** soit acquiert à titre de véritable propriétaire un nombre de titres de participation de l’entité qui augmente le pourcentage des titres de participation de celle-ci qu’elles détiennent à titre de véritable propriétaire;
 	- **b)** soit acquiert le contrôle d’une autre entité détenant à titre de véritable propriétaire un nombre de titres de participation de la première qui augmente le pourcentage des titres de participation de celle-ci qu’elles détiennent à titre de véritable propriétaire.
+> 1991, ch. 46, art. 10; 2010, ch. 12, art. 1901.
+
 
 
 
@@ -529,6 +644,43 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 - **(3)** Préalablement au dépôt de sa demande d’exemption, l’entité publie un avis de son intention dans la Gazette du Canada.
 > 1991, ch. 46, art. 12; 2001, ch. 9, art. 42.1.
+
+
+
+
+
+**Principe coopératif**
+
+**12.1** 
+
+- **(1)** Pour l’application de la présente loi, une coopérative de crédit fédérale est organisée et exerce ses activités commerciales selon le principe coopératif lorsque :
+	- **a)** la majorité de ses membres sont des personnes physiques;
+	- **b)** les services financiers sont offerts principalement à ses membres;
+	- **c)** l’adhésion à la coopérative de crédit fédérale est exclusivement ou principalement ouverte, sans discrimination, aux personnes qui peuvent en utiliser les services et qui sont disposées et aptes à accepter les responsabilités rattachées au statut de membre;
+	- **d)** chaque membre a une seule voix;
+	- **e)** un délégué n’a qu’une seule voix qu’il soit lui-même un membre ou qu’il en représente plus d’un;
+	- **f)** les dividendes sur les parts sociales sont limités au pourcentage maximal fixé dans ses lettres patentes ou ses règlements administratifs;
+	- **g)** l’excédent provenant de l’exploitation de la coopérative de crédit fédérale est utilisé à l’une ou plusieurs des fins suivantes :
+		- **(i)** la stabilité financière de la coopérative de crédit fédérale,
+		- **(ii)** l’expansion de ses activités commerciales,
+		- **(iii)** la prestation ou l’amélioration de services communs aux membres,
+		- **(iv)** la constitution de réserves ou de dividendes sur le capital de parts sociales et d’actions,
+		- **(v)** la promotion du bien-être collectif ou l’expansion des entreprises coopératives,
+		- **(vi)** la distribution à ses membres sous forme de ristournes.
+
+**Limites**
+
+- **(2)** Les conditions visées à l’alinéa (1)c) sont assujetties, sous réserve des règles de droit applicables en matière de droits de la personne, aux limites relatives aux catégories de personnes admissibles au statut de membre énoncées dans les règlements administratifs.
+> 2010, ch. 12, art. 1902.
+
+
+
+
+
+**Membre qui est en outre actionnaire**
+
+**12.2** Il est entendu que le membre d’une coopérative de crédit fédérale qui en est aussi actionnaire peut exercer les droits conférés aux actionnaires par la présente loi pour toutes les actions qu’il détient.
+> 2010, ch. 12, art. 1902.
 
 
 
@@ -660,7 +812,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Absence de responsabilité personnelle**
 
-**18** Les actionnaires de la banque ne sont pas responsables, en tant que tels, des dettes, actes ou défauts de celle-ci, sauf dans les cas prévus par la présente loi.
+**18** 
+
+- **(1)** Les actionnaires de la banque ne sont pas responsables, en tant que tels, des dettes, actes ou défauts de celle-ci, sauf dans les cas prévus par la présente loi.
+
+**Absence de responsabilité personnelle — coopérative de crédit fédérale**
+
+- **(2)** Les membres de la coopérative de crédit fédérale ne sont pas responsables, en tant que tels, des dettes, actes ou défauts de celle-ci, sauf dans les cas prévus par la présente loi.
+> 1991, ch. 46, art. 18; 2010, ch. 12, art. 1903.
+
 
 
 
@@ -726,9 +886,17 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
-**Constitution**
+**Constitution d’une banque**
 
-**22** Sous réserve des autres dispositions de la présente partie, le ministre peut délivrer aux personnes qui lui en font la demande des lettres patentes pour la constitution d’une banque.
+**22** 
+
+- **(1)** Sous réserve des autres dispositions de la présente partie, lorsqu’au moins une personne en fait la demande, le ministre peut délivrer des lettres patentes pour la constitution d’une banque qui n’est pas une coopérative de crédit fédérale.
+
+**Constitution d’une coopérative de crédit fédérale**
+
+- **(2)** Sous réserve des autres dispositions de la présente partie, lorsqu’au moins cinq personnes, dont la majorité sont des personnes physiques, en font la demande, le ministre peut délivrer des lettres patentes pour la constitution d’une coopérative de crédit fédérale.
+> 1991, ch. 46, art. 22; 2010, ch. 12, art. 1904.
+
 
 
 
@@ -795,18 +963,19 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Facteurs à prendre en compte**
 
-**27** Avant de délivrer des lettres patentes, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la demande, notamment :
+**27** Avant de délivrer des lettres patentes, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la demande, notamment :
 - **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de la banque;
 - **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de la banque;
 - **c)** leur expérience et leur dossier professionnel;
 - **d)** leur moralité et leur intégrité et, s’agissant de personnes morales, leur réputation pour ce qui est de leur exploitation selon des normes élevées de moralité et d’intégrité;
 - **e)** la compétence et l’expérience des personnes devant exploiter la banque, afin de déterminer si elles sont aptes à participer à l’exploitation d’une institution financière et à exploiter la banque de manière responsable;
 - **f)** les conséquences de toute intégration des activités et des entreprises du ou des demandeurs et de celles de la banque sur la conduite de ces activités et entreprises;
-- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée du ou des demandeurs et des membres de son ou de leur groupe sur la réglementation et la supervision de la banque, compte tenu :
+- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée du ou des demandeurs et des membres de son ou de leur groupe sur la réglementation et la supervision de la banque, compte tenu :
 	- **(i)** d’une part, de la nature et de l’étendue des activités projetées de prestation de services financiers de la banque et des membres de son groupe,
 	- **(ii)** d’autre part, de la nature et de l’étendue de la réglementation et de la supervision liées aux activités projetées de prestation de services financiers des membres du groupe de la banque;
-- **h)** l’intérêt du système financier canadien.
-> 1991, ch. 46, art. 27; 2001, ch. 9, art. 47.
+- **h)** dans le cas d’une banque qui sera une coopérative de crédit fédérale, le fait qu’elle sera organisée et exercera ses activités commerciales selon le principe coopératif énoncé à l’article 12.1;
+- **i)** l’intérêt du système financier canadien notamment, si la banque sera une coopérative de crédit fédérale, celui du système coopératif financier canadien.
+> 1991, ch. 46, art. 27; 2001, ch. 9, art. 47; 2010, ch. 12, art. 1905.
 
 
 
@@ -816,8 +985,9 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **28** 
 
-- **(1)** Les lettres patentes d’une banque doivent mentionner les éléments d’information suivants :
+- **(1)** Les lettres patentes d’une banque doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
+	- **a.1)** dans le cas d’une banque qui sera une coopérative de crédit fédérale, une déclaration portant qu’elle est une coopérative de crédit fédérale;
 	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution.
 
@@ -828,7 +998,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Conditions**
 
 - **(3)** Le ministre peut assujettir la délivrance des lettres patentes de la banque aux conditions qu’il estime indiquées.
-> 1991, ch. 46, art. 28; 2005, ch. 54, art. 7.
+> 1991, ch. 46, art. 28; 2005, ch. 54, art. 7; 2010, ch. 12, art. 1906.
 
 
 
@@ -889,6 +1059,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
+**Premiers membres**
+
+**31.1** Les fondateurs de la coopérative de crédit fédérale sont réputés en être les premiers membres.
+> 2010, ch. 12, art. 1907.
+
+
+
+
+
 **Effet des lettres patentes**
 
 **32** La banque est constituée à la date indiquée dans ses lettres patentes.
@@ -909,7 +1088,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Autres personnes morales**
 
 - **(2)** Les personnes morales non constituées sous le régime d’une loi fédérale peuvent, si les règles de droit en vigueur sur le territoire de leur constitution les y autorisent, demander au ministre des lettres patentes de prorogation sous le régime de la présente loi.
-> 1991, ch. 46, art. 33; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 49.
+
+**Prorogation en vue d’une fusion**
+
+- **(3)** La société coopérative de crédit locale peut, si les règles de droit en vigueur sur le territoire de sa constitution l’y autorisent, demander au ministre des lettres patentes de prorogation en tant que coopérative de crédit fédérale sous le régime de la présente loi si elle a l’intention d’être prorogée afin de fusionner avec une autre coopérative de crédit fédérale conformément à la présente loi.
+> 1991, ch. 46, art. 33; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 49; 2010, ch. 12, art. 1908.
 
 
 
@@ -919,15 +1102,17 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **34** 
 
-- **(1)** La demande de prorogation est, dans les deux cas, assujettie aux articles 23 à 27, compte tenu des modifications nécessaires.
+- **(1)** La demande de prorogation est, dans tous les cas, assujettie aux articles 23 à 27, avec les adaptations nécessaires.
 
 **Autorisation par résolution extraordinaire**
 
-- **(2)** La demande de prorogation doit être auparavant dûment autorisée par résolution extraordinaire.
+- **(2)** La demande de prorogation faite en vertu de l’article 33 doit être auparavant dûment autorisée par résolution extraordinaire.
 
 **Copie de la résolution**
 
 - **(3)** Une copie de la résolution extraordinaire doit être jointe à la demande.
+> 1991, ch. 46, art. 34; 2010, ch. 12, art. 1909.
+
 
 
 
@@ -941,15 +1126,38 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Lettres patentes de prorogation**
 
 - **(2)** L’article 28 s’applique, avec les adaptations de circonstance, lors de la délivrance de lettres patentes de prorogation.
+> 1991, ch. 46, art. 35; 2010, ch. 12, art. 1910(A).
+
+
+
+
+
+**Prorogation**
+
+**35.1** 
+
+- **(1)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(2) s’il estime qu’elle s’est conformée aux règlements relatifs aux exigences de notification et de divulgation.
+
+**Prorogation en vue d’une fusion**
+
+- **(2)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(3) s’il estime que la coopérative de crédit fédérale qui sera issue de la fusion se conformera aux exigences en matière de constitution prévues par la présente loi et qu’elle s’est conformée aux règlements relatifs aux exigences de notification et de divulgation.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements relatifs aux exigences de notification et de divulgation visées aux paragraphes (1) et (2).
+> 2010, ch. 12, art. 1911.
+
 
 
 
 
 **Effet**
 
-**36** À la date indiquée dans les lettres patentes de prorogation :
+**36** À la date indiquée dans les lettres patentes de prorogation :
 - **a)** la personne morale devient une banque comme si elle avait été constituée sous le régime de la présente loi;
 - **b)** les lettres patentes sont réputées être l’acte constitutif de la banque prorogée.
+> 1991, ch. 46, art. 36; 2010, ch. 12, art. 1912(A).
+
 
 
 
@@ -969,14 +1177,30 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Effets de la prorogation**
 
-**38** Les règles suivantes s’appliquent à toute personne morale prorogée comme banque sous le régime de la présente partie :
-- **a)** les biens de la personne morale lui appartiennent;
-- **b)** elle assume les obligations de la personne morale;
-- **c)** aucune atteinte n’est portée aux causes d’action déjà nées à l’égard de la personne morale;
-- **d)** les procédures civiles, criminelles ou administratives engagées par ou contre la personne morale peuvent être continuées par ou contre la banque;
-- **e)** toute décision judiciaire ou quasi judiciaire rendue en faveur de la personne morale ou contre elle est exécutoire à l’égard de la banque;
-- **f)** les personnes qui, à la date de prorogation, détenaient des valeurs de la personne morale conservent tous les droits et privilèges qu’elles avaient à cette date — leur exercice étant dès lors assujetti à la présente loi — et continuent d’assumer les obligations qui en découlent;
-- **g)** les règlements administratifs de la personne morale deviennent, sous réserve de leur compatibilité avec la présente loi, ceux de la banque.
+**38** 
+
+- **(1)** Les règles suivantes s’appliquent à toute personne morale prorogée comme banque sous le régime de la présente partie :
+	- **a)** les biens de la personne morale lui appartiennent;
+	- **b)** elle assume les obligations de la personne morale;
+	- **c)** aucune atteinte n’est portée aux causes d’action déjà nées à l’égard de la personne morale;
+	- **d)** les procédures civiles, criminelles ou administratives engagées par ou contre la personne morale peuvent être continuées par ou contre la banque;
+	- **e)** toute décision judiciaire ou quasi judiciaire rendue en faveur de la personne morale ou contre elle est exécutoire à l’égard de la banque;
+	- **f)** les personnes qui, à la date de prorogation, détenaient des valeurs de la personne morale conservent tous les droits et privilèges qu’elles avaient à cette date — leur exercice étant dès lors assujetti à la présente loi — et continuent d’assumer les obligations qui en découlent;
+	- **g)** les règlements administratifs de la personne morale deviennent, sous réserve de leur compatibilité avec la présente loi, ceux de la banque.
+
+**Parts sociales**
+
+- **(2)** En outre, la prorogation d’une personne morale comme coopérative de crédit fédérale a les effets suivants :
+	- **a)** dans le cas d’une personne morale qui a émis des actions ordinaires :
+		- **(i)** les actions ordinaires de la personne morale sont réputées être des parts sociales auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi,
+		- **(ii)** les détenteurs des actions ordinaires de la personne morale sont réputés être les membres de la coopérative de crédit fédérale,
+		- **(iii)** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue;
+	- **b)** dans le cas d’une personne morale qui est composée de membres :
+		- **(i)** les parts sociales, quelle que soit leur désignation, de la personne morale sont réputées être des parts sociales de la coopérative de crédit fédérale auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi,
+		- **(ii)** les membres de la personne morale sont réputés être les membres de la coopérative de crédit fédérale,
+		- **(iii)** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les membres de la personne morale ont convenu de voter de la manière qui y est prévue.
+> 1991, ch. 46, art. 38; 2010, ch. 12, art. 1913.
+
 
 
 
@@ -985,7 +1209,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **39** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 35(1) à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 35(1) à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente loi mais à laquelle la personne morale prorogée se livrait à la date du dépôt de la demande de lettres patentes;
 	- **b)** maintenir en circulation des titres de créance dont la présente loi n’autorise pas l’émission, dans la mesure où ils étaient déjà en circulation à la date de la demande;
 	- **c)** [Abrogé, 1994, ch. 47, art. 14]
@@ -995,8 +1219,10 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Durée des exceptions**
 
-- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
-	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
+- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou :
+		- **(i)** lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords,
+		- **(ii)** lorsque la banque est une coopérative de crédit fédérale et qu’un engagement de cesser d’exercer cette activité a été pris en vertu du paragraphe 973.02(1), la date de cessation de cette activité précisée dans l’engagement;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
 
@@ -1007,7 +1233,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par la banque de l’agrément de fonctionnement dans les cas visés aux alinéas (1)d) et e); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la banque, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 1991, ch. 46, art. 39; 1994, ch. 47, art. 14; 1997, ch. 15, art. 3; 2007, ch. 6, art. 5.
+> 1991, ch. 46, art. 39; 1994, ch. 47, art. 14; 1997, ch. 15, art. 3; 2007, ch. 6, art. 5; 2010, ch. 12, art. 1914.
 
 
 
@@ -1017,11 +1243,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
-**Prorogation en vertu d’autres lois fédérales**
+**Prorogation en vertu d’autres lois fédérales — banque**
 
 **39.1** 
 
-- **(1)** La banque peut demander :
+- **(1)** La banque qui n’est pas une coopérative de crédit fédérale peut demander :
 	- **a)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en société en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
 	- **b)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
 	- **c)** la délivrance de lettres patentes de prorogation en association en vertu de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou de lettres patentes de fusion et prorogation en association en vertu de cette loi;
@@ -1042,7 +1268,35 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Restriction : prorogation en vertu d’autres régimes**
 
 - **(4)** La banque ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1).
-> 1991, ch. 46, art. 574; 1997, ch. 15, art. 4; 1999, ch. 28, art. 11; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6.
+> 1991, ch. 46, art. 574; 1997, ch. 15, art. 4; 1999, ch. 28, art. 11; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6; 2010, ch. 12, art. 1915.
+
+
+
+
+
+**Prorogation sous le régime d’autres lois fédérales — coopérative de crédit fédérale**
+
+**39.2** 
+
+- **(1)** La coopérative de crédit fédérale peut demander :
+	- **a)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
+	- **b)** la délivrance de lettres patentes de prorogation en association en vertu de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou de lettres patentes de fusion et prorogation en association en vertu de cette loi.
+
+**Conditions préalables à l’agrément**
+
+- **(2)** L’agrément visé à l’alinéa (1)a) ne peut être accordé que si le ministre est convaincu que :
+	- **a)** la coopérative de crédit fédérale a fait publier une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu de son siège ou dans les environs, un préavis de son intention de faire la demande d’agrément;
+	- **b)** la demande a été autorisée par résolution extraordinaire des membres et, si la coopérative de crédit fédérale a émis des actions, par une résolution extraordinaire distincte des actionnaires pour chaque catégorie d’actions;
+	- **c)** la coopérative de crédit fédérale ne détient pas de dépôts.
+
+**Droit de vote pour tous**
+
+- **(3)** Pour l’application de l’alinéa (2)b), chaque action, assortie ou non du droit de vote pour toute autre question, emporte droit de vote quant à la résolution extraordinaire.
+
+**Restriction : prorogation en vertu d’autres régimes**
+
+- **(4)** La coopérative de crédit fédérale ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1).
+> 1997, ch. 15, art. 4; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6; 2010, ch. 12, art. 1916.
 
 
 
@@ -1050,8 +1304,8 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Cessation**
 
-**39.2** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par la banque en vertu de l’article 39.1, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
-> 1997, ch. 15, art. 4; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6.
+**39.3 ** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par la banque en vertu des articles 39.1 ou 39.2, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
+> 2010, ch. 12, art. 1916.
 
 
 
@@ -1063,13 +1317,24 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Dénominations prohibées**
 
-**40** La banque ne peut être constituée aux termes de la présente loi sous une dénomination sociale :
+**40** La banque ne peut être constituée aux termes de la présente loi sous une dénomination sociale :
 - **a)** dont une loi fédérale interdit l’utilisation;
 - **b)** qui, selon le surintendant, est fausse ou trompeuse;
 - **c)** qui est identique à la marque de commerce, au nom commercial ou à la dénomination sociale d’une personne morale existant ou qui, selon le surintendant, est à peu près identique à ceux-ci ou leur est similaire au point de prêter à confusion, sauf si, d’une part, la dénomination, la marque ou le nom est en voie d’être changé ou la personne morale est en cours de dissolution et, d’autre part, le consentement de celle-ci à cet égard est signifié au surintendant selon les modalités qu’il peut exiger;
 - **d)** qui est identique au nom sous lequel une entité exerce son activité ou est connue, ou qui, selon le surintendant, est à peu près identique à celui-ci ou lui est similaire au point de prêter à confusion avec lui;
-- **e)** qui est réservée, en application de l’article 43, à une autre banque, existante ou projetée, ou à une banque étrangère autorisée, existante ou projetée, ou, en application de l’article 697, à une société de portefeuille bancaire, existante ou projetée.
-> 1991, ch. 46, art. 40; 1996, ch. 6, art. 1; 1997, ch. 15, art. 5; 1999, ch. 28, art. 12; 2001, ch. 9, art. 51.
+- **e)** qui est réservée, en application de l’article 43, à une autre banque, existante ou projetée, ou à une banque étrangère autorisée, existante ou projetée, ou, en application de l’article 697, à une société de portefeuille bancaire, existante ou projetée;
+- **f)** qui inclut les termes « coopérative de crédit » ou « credit union », ou toute abréviation, combinaison ou dérivé de ceux-ci, sauf si elle sera une coopérative de crédit fédérale et que sa dénomination sociale inclut le terme « banque », « bank », « fédérale » ou « federal » de concert avec ces termes;
+- **g)** qui inclut les termes « coopérative » ou « cooperative », ou toute abréviation, combinaison ou dérivé de ceux-ci, sauf si elle sera une coopérative de crédit fédérale et que sa dénomination sociale inclut le terme « banque », « bank », « fédérale » ou « federal » de concert avec ces termes.
+> 1991, ch. 46, art. 40; 1996, ch. 6, art. 1; 1997, ch. 15, art. 5; 1999, ch. 28, art. 12; 2001, ch. 9, art. 51; 2010, ch. 12, art. 1917.
+
+
+
+
+
+**Dénomination sociale d’une coopérative de crédit fédérale**
+
+**40.1** Malgré toute autre loi et sous réserve de l’application des alinéas 40f) ou g), une banque peut être constituée sous le régime de la présente loi sous une dénomination sociale qui inclut les termes « coopérative de crédit », « credit union », « coopérative » ou « cooperative », ou toute abréviation, combinaison ou dérivé de ceux-ci seulement si elle sera une coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1918.
 
 
 
@@ -1088,7 +1353,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **42** 
 
-- **(1)** Dans les lettres patentes, la dénomination sociale peut être énoncée sous l’une des formes suivantes, qui peut légalement désigner la banque : français seul, anglais seul, français et anglais, ou combinaison de ces deux langues.
+- **(1)** Dans les lettres patentes, la dénomination sociale peut être énoncée sous l’une des formes suivantes, qui peut légalement désigner la banque : français seul, anglais seul, français et anglais, ou combinaison de ces deux langues.
 
 **Dénomination pour l’étranger**
 
@@ -1100,8 +1365,8 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Interdiction**
 
-- **(4)** Dans le cas où la banque exerce son activité commerciale ou s’identifie sous un autre nom que sa dénomination sociale, le surintendant peut, par ordonnance, lui interdire d’utiliser cet autre nom s’il est d’avis que celui-ci est visé à l’un des alinéas 40a) à e).
-> 1991, ch. 46, art. 42; 1996, ch. 6, art. 2.
+- **(4)** Dans le cas où la banque exerce son activité commerciale ou s’identifie sous un autre nom que sa dénomination sociale, le surintendant peut, par ordonnance, lui interdire d’utiliser cet autre nom s’il est d’avis que celui-ci est visé à l’un des alinéas 40a) à g).
+> 1991, ch. 46, art. 42; 1996, ch. 6, art. 2; 2010, ch. 12, art. 1919.
 
 
 
@@ -1140,11 +1405,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
+#### Banque autre qu’une coopérative de crédit fédérale
+
+
+
 **Réunion constitutive**
 
 **45** 
 
-- **(1)** Après la délivrance des lettres patentes constituant la banque, le conseil d’administration tient une réunion au cours de laquelle il peut, sous réserve de la présente partie :
+- **(1)** Après la délivrance des lettres patentes constituant la banque qui n’est pas une coopérative de crédit fédérale, le conseil d’administration tient une réunion au cours de laquelle il peut, sous réserve de la présente partie :
 	- **a)** prendre des règlements administratifs;
 	- **b)** adopter les modèles des certificats d’actions et des livres ou registres sociaux;
 	- **c)** autoriser l’émission d’actions;
@@ -1156,6 +1425,8 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Convocation de la réunion**
 
 - **(2)** Le fondateur de la banque — ou l’administrateur nommé dans la demande de lettres patentes — peut, sous réserve du paragraphe 181(2), convoquer la réunion prévue au paragraphe (1) en avisant chaque administrateur, au moins cinq jours à l’avance, des date, heure et lieu de celle-ci ainsi que de son objet.
+> 1991, ch. 46, art. 45; 2010, ch. 12, art. 1921.
+
 
 
 
@@ -1164,15 +1435,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **46** 
 
-- **(1)** Dès que le produit de l’émission d’actions atteint cinq millions de dollars ou le montant supérieur que le ministre peut exiger, les administrateurs de toute banque ayant obtenu des lettres patentes en vertu de l’article 22 convoquent une assemblée des actionnaires.
+- **(1)** Dès que le produit de l’émission d’actions atteint cinq millions de dollars ou le montant supérieur que le ministre peut exiger, les administrateurs de toute banque ayant obtenu des lettres patentes en vertu du paragraphe 22(1) convoquent une assemblée des actionnaires.
 
 **Assemblée des actionnaires**
 
-- **(2)** Les actionnaires doivent, par résolution adoptée lors de leur première assemblée :
+- **(2)** Les actionnaires doivent, par résolution adoptée lors de leur première assemblée :
 	- **a)** approuver, modifier ou rejeter tout règlement administratif pris par les administrateurs;
 	- **b)** sous réserve de l’article 168, élire des administrateurs dont le mandat expirera au plus tard à la clôture de la troisième assemblée annuelle suivante;
 	- **c)** nommer un ou des vérificateurs jusqu’à la clôture de la première assemblée annuelle.
-> 1991, ch. 46, art. 46; 2001, ch. 9, art. 54.
+> 1991, ch. 46, art. 46; 2001, ch. 9, art. 54; 2010, ch. 12, art. 1922.
 
 
 
@@ -1180,7 +1451,294 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Mandat des premiers administrateurs**
 
-**47** Le mandat des administrateurs désignés dans la demande de constitution expire à l’élection des administrateurs lors de la première assemblée des actionnaires.
+**47** Le mandat des administrateurs désignés dans la demande de constitution expire à l’élection des administrateurs lors de la première assemblée des actionnaires convoquée en vertu du paragraphe 46(1).
+> 1991, ch. 46, art. 47; 2010, ch. 12, art. 1923(F).
+
+
+
+
+
+#### Coopérative de crédit fédérale
+
+
+
+##### Réunion des premiers administrateurs
+
+
+
+**Réunion constitutive**
+
+**47.01** 
+
+- **(1)** Après la délivrance des lettres patentes constituant la coopérative de crédit fédérale, les premiers administrateurs tiennent une réunion au cours de laquelle ils peuvent, sous réserve de la présente partie :
+	- **a)** adopter les modèles des certificats de parts sociales et d’actions, et des livres ou registres sociaux;
+	- **b)** autoriser l’adhésion de personnes à la coopérative de crédit fédérale et émettre ou autoriser l’émission de parts sociales;
+	- **c)** autoriser l’émission d’actions;
+	- **d)** nommer les dirigeants;
+	- **e)** nommer, au titre du paragraphe 314(1), un ou des vérificateurs dont le mandat expire à la première assemblée des membres;
+	- **f)** conclure des conventions bancaires;
+	- **g)** traiter toute autre question d’organisation de la coopérative de crédit fédérale.
+
+**Convocation de la réunion**
+
+- **(2)** Un premier administrateur de la coopérative de crédit fédérale peut, sous réserve du paragraphe 181(2), convoquer la réunion prévue au paragraphe (1) en avisant chaque administrateur, au moins cinq jours à l’avance, des date, heure et lieu de celle-ci.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+##### Première assemblée des membres
+
+
+
+**Convocation d’une assemblée des membres**
+
+**47.02** 
+
+- **(1)** Dès que le produit de l’émission des parts sociales et des actions atteint cinq millions de dollars ou le montant supérieur que le ministre peut exiger, les administrateurs de la coopérative de crédit fédérale ayant obtenu des lettres patentes en vertu du paragraphe 22(2) convoquent une assemblée des membres.
+
+**Première assemblée des membres**
+
+- **(2)** À leur première assemblée, les membres :
+	- **a)** prennent des règlements administratifs;
+	- **b)** élisent des administrateurs conformément à la présente loi et aux règlements administratifs;
+	- **c)** nomment un ou des vérificateurs dont le mandat expire à la clôture de la première assemblée annuelle.
+
+**Mandat des premiers administrateurs**
+
+- **(3)** Le mandat des premiers administrateurs prend fin à la clôture de la première assemblée des membres.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+### Membres d’une coopérative de crédit fédérale
+
+
+
+#### Droits des membres
+
+
+
+**Adhésion**
+
+**47.03** 
+
+- **(1)** Sous réserve des autres dispositions de la présente loi, l’adhésion à la coopérative de crédit fédérale est régie par ses règlements administratifs.
+
+**Nombre minimal de parts sociales**
+
+- **(2)** Pour être membre, toute personne acquiert et détient le nombre minimal de parts sociales qu’exigent les règlements administratifs de la coopérative de crédit fédérale.
+
+**Détention d’un nombre insuffisant de parts sociales**
+
+- **(3)** Sous réserve des restrictions que prévoient les règlements administratifs de la coopérative de crédit fédérale, notamment celles relatives aux droits qu’il peut exercer, le membre qui ne détient plus le nombre minimal de parts sociales ne perd pas sa qualité de membre pour l’application de la présente loi.
+
+**Motifs de révocation**
+
+- **(4)** Il est entendu que le paragraphe (3) n’a pas pour effet d’empêcher les règlements administratifs de la coopérative de crédit fédérale de prévoir que la détention d’un nombre de parts sociales inférieur au nombre minimal soit un motif d’exclusion dans le cadre du paragraphe 47.06(1) ou de l’article 47.09.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Souscription constitue demande**
+
+**47.04** 
+
+- **(1)** La souscription du nombre de parts sociales de la coopérative de crédit fédérale qui est exigé par ses règlements administratifs constitue une demande d’adhésion et l’émission de telles parts sociales au demandeur emporte la qualité de membre.
+
+**Approbation requise**
+
+- **(2)** Sous réserve du paragraphe (1), la personne devient membre d’une coopérative de crédit fédérale lorsque sa demande d’adhésion est approuvée par les administrateurs ou par un employé autorisé par la coopérative de crédit fédérale à cette fin et qu’elle s’est pleinement conformée aux règlements administratifs régissant l’admission des membres.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+#### Retrait et exclusions
+
+
+
+**Retrait des membres**
+
+**47.05** 
+
+- **(1)** Le membre peut se retirer de la coopérative de crédit fédérale à n’importe quel moment en donnant un avis à cet effet conformément aux règlements administratifs.
+
+**Avis réputé**
+
+- **(2)** Le membre décédé est réputé avoir donné à la coopérative de crédit fédérale l’avis mentionné au paragraphe (1) le jour de son décès.
+
+**Droits des membres se retirant**
+
+- **(3)** Les droits du membre qui se retire sont prévus par les règlements administratifs de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Exclusion**
+
+**47.06** 
+
+- **(1)** Les administrateurs peuvent, par résolution et pour les motifs prévus aux règlements administratifs, exclure un membre de la coopérative de crédit fédérale, conformément à ceux-ci.
+
+**Droits des membres exclus**
+
+- **(2)** Les règlements administratifs de la coopérative de crédit fédérale prévoient les droits des membres exclus en vertu du paragraphe (1), lesquels comprennent :
+	- **a)** le droit de recevoir un préavis de toute réunion des administrateurs portant sur la résolution visée au paragraphe (1);
+	- **b)** le droit de ne pas être exclu sans avoir eu l’occasion de comparaître à la réunion des administrateurs et d’y faire des représentations;
+	- **c)** le droit d’interjeter appel de la décision des administrateurs à l’assemblée suivante des membres;
+	- **d)** le droit d’être réadmis comme membre si, à leur assemblée suivante, les membres annulent, par résolution ordinaire, la résolution des administrateurs.
+
+**Procédure**
+
+- **(3)** Les règlements administratifs de la coopérative de crédit fédérale énoncent la procédure de remise du préavis visé à l’alinéa (2)a) et la procédure pour interjeter l’appel prévu à l’alinéa (2)c).
+
+**Avis**
+
+- **(4)** Dans les cinq jours qui suivent l’adoption par les administrateurs d’une résolution d’exclusion du membre en vertu du paragraphe (1), la coopérative de crédit fédérale l’avise par courrier recommandé expédié à l’adresse enregistrée.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Non-participation**
+
+**47.07** Aucun règlement administratif ne peut autoriser l’exclusion d’un membre pour la seule raison de sa non-participation dans les activités commerciales ou les affaires internes de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Limite imposée aux règlements administratifs**
+
+**47.08** Aucun règlement administratif régissant le retrait ou l’exclusion d’un membre de la coopérative de crédit fédérale ne peut autoriser le rachat de parts sociales en contravention de l’article 485.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Exclusion par les membres**
+
+**47.09** Sauf disposition contraire d’un règlement administratif, les membres de la coopérative de crédit fédérale peuvent, par résolution extraordinaire, exclure un membre; le cas échéant, l’article 47.06 s’applique avec les adaptations nécessaires.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Procédures de liquidation**
+
+**47.1** Malgré le paragraphe 47.06(1), la coopérative de crédit fédérale peut, par un avis écrit au membre, exclure celui-ci dans le cas où le membre est une personne morale à l’égard de laquelle des procédures de liquidation ont été intentées.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+### Dispositions générales — coopérative de crédit fédérale
+
+
+
+**Interdiction**
+
+**47.11** Une entité ne peut devenir membre d’une coopérative de crédit fédérale si, en raison de son adhésion, la majorité des membres de celle-ci ne serait plus constituée de personnes physiques.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Offre de services**
+
+**47.12** La coopérative de crédit fédérale doit offrir ses services financiers principalement à ses membres.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Droit de vote**
+
+**47.13** Chaque membre d’une coopérative de crédit fédérale a seulement une voix sur les questions à l’égard desquelles il peut voter.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Membre mineur**
+
+**47.14** Sous réserve des règlements administratifs, une personne de moins de dix-huit ans peut devenir membre d’une coopérative de crédit fédérale et voter aux assemblées de cette dernière.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Incessibilité**
+
+**47.15** Le droit d’adhésion est en tout état de cause incessible.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Réadmission — article 47.06**
+
+**47.16** 
+
+- **(1)** La personne exclue conformément à l’article 47.06 ne peut redevenir membre que par résolution ordinaire des membres de la coopérative de crédit fédérale.
+
+**Réadmission — article 47.09**
+
+- **(2)** La personne exclue conformément à l’article 47.09 ne peut redevenir membre que par résolution extraordinaire des membres de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Cession**
+
+**47.17** Toute cession de parts sociales d’une coopérative de crédit fédérale est subordonnée à l’approbation, par résolution, des administrateurs.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Nombre insuffisant d’action**
+
+**47.18** 
+
+- **(1)** La coopérative de crédit fédérale doit s’assurer d’avoir en tout temps au moins cinq membres.
+
+**Transfert de compétence**
+
+- **(2)** Si le nombre de ses membres devient inférieur à cinq, elle prend sans délai les mesures nécessaires en vue soit de faire la demande visée au paragraphe 39.2(1) ou à l’article 216.08, soit de procéder à sa dissolution ou liquidation sous le régime de la partie VI.
+> 2010, ch. 12, art. 1924.
+
+
+
+
+
+**Exemption**
+
+**47.19** Le ministre peut, sous réserve des modalités et conditions qu’il estime indiquées, exempter toute entité ou coopérative de crédit fédérale de l’application des articles 47.11, 47.12 et 47.18.
+> 2010, ch. 12, art. 1924.
+
 
 
 
@@ -1231,10 +1789,12 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Interdiction de payer les frais avant l’agrément**
 
-**50** Tant qu’elle n’a pas reçu l’agrément, il est interdit à la banque de payer ses dépenses de constitution et d’organisation sur les fonds procurés par l’émission d’actions et les intérêts y afférents, sauf en ce qui concerne, et ce pour un montant raisonnable :
+**50** Tant qu’elle n’a pas reçu l’agrément, il est interdit à la banque de payer ses dépenses de constitution et d’organisation sur les fonds procurés par l’émission d’actions ou de parts sociales et les intérêts y afférents, sauf en ce qui concerne, et ce pour une somme raisonnable :
 - **a)** la rémunération de deux dirigeants au plus;
-- **b)** les frais d’émission d’actions;
+- **b)** les frais d’émission d’actions ou de parts sociales;
 - **c)** les dépenses de secrétariat, de services juridiques, de comptabilité et d’aménagement — en un seul endroit — de bureaux, ainsi que les frais de bureau, de publicité, de papeterie, d’affranchissement et de déplacement.
+> 1991, ch. 46, art. 50; 2010, ch. 12, art. 1925.
+
 
 
 
@@ -1250,16 +1810,16 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **52** 
 
-- **(1)** Le surintendant ne délivre l’agrément à la banque que si celle-ci a établi, à sa satisfaction, que :
-	- **a)** l’assemblée des actionnaires prévue au paragraphe 46(1) s’est tenue en bonne et due forme;
-	- **b)** le capital versé est égal à au moins cinq millions de dollars ou au montant supérieur précisé par le ministre en application du paragraphe 46(1);
+- **(1)** Le surintendant ne délivre l’agrément à la banque que si celle-ci a établi, à sa satisfaction, que :
+	- **a)** l’assemblée des actionnaires prévue au paragraphe 46(1) ou, dans le cas d’une coopérative de crédit fédérale, l’assemblée des membres prévue au paragraphe 47.02(1) s’est tenue en bonne et due forme;
+	- **b)** le capital versé est égal à au moins cinq millions de dollars ou au montant supérieur précisé par le ministre en application des paragraphes 46(1) ou 47.02(1);
 	- **c)** ses dépenses de constitution et d’organisation ne sont pas excessives;
 	- **d)** les autres conditions pertinentes imposées par la présente loi ont été remplies.
 
 **Délai de délivrance de l’agrément**
 
 - **(2)** L’agrément ne peut être délivré que dans la première année d’existence de la banque.
-> 1991, ch. 46, art. 52; 2001, ch. 9, art. 56.
+> 1991, ch. 46, art. 52; 2001, ch. 9, art. 56; 2010, ch. 12, art. 1926.
 
 
 
@@ -1267,7 +1827,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Conditions**
 
-**53** L’agrément peut être assorti des conditions ou restrictions compatibles avec la présente loi que le surintendant juge utiles en ce qui a trait à l’activité commerciale de la banque.
+**53** 
+
+- **(1)** L’agrément peut être assorti des conditions ou restrictions compatibles avec la présente loi que le surintendant juge utiles en ce qui a trait à l’activité commerciale de la banque.
+
+**Conditions — coopérative de crédit fédérale**
+
+- **(2)** L’agrément, en ce qui a trait aux activités commerciales de la coopérative de crédit fédérale, est réputé contenir comme condition que celle-ci sera organisée et exercera ses activités commerciales, pour la durée de son existence, selon le principe coopératif énoncé à l’article 12.1.
+> 1991, ch. 46, art. 53; 2010, ch. 12, art. 1927.
+
 
 
 
@@ -1276,13 +1844,13 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **54** 
 
-- **(1)** Le surintendant peut à tout moment, toujours par ordonnance, modifier l’agrément :
+- **(1)** Le surintendant peut à tout moment, toujours par ordonnance, modifier l’agrément :
 	- **a)** en l’assortissant des conditions ou restrictions compatibles avec la présente loi qu’il estime nécessaires en ce qui a trait à l’activité commerciale de la banque;
-	- **b)** en modifiant ou annulant toute autorisation particulière qui y est prévue ou toute condition ou restriction y figurant.
+	- **b)** en modifiant ou annulant toute autorisation particulière qui y est prévue ou toute condition ou restriction y figurant, à l’exception de la condition visée au paragraphe 53(2).
 Il doit cependant auparavant donner à la banque la possibilité de lui présenter ses observations à cet égard.
 
 - **(2) à (6)** [Abrogés, 1996, ch. 6, art. 4]
-> 1991, ch. 46, art. 54; 1996, ch. 6, art. 4.
+> 1991, ch. 46, art. 54; 1996, ch. 6, art. 4; 2010, ch. 12, art. 1928.
 
 
 
@@ -1363,19 +1931,23 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Saisine de juridiction**
 
-- **(2)** Faute d’une telle résolution ou s’ils jugent insuffisant le montant alloué par celle-ci, les administrateurs peuvent demander à tout tribunal compétent au lieu du siège de la banque de statuer sur les montants à prélever sur les fonds de celle-ci avant toute répartition aux actionnaires du solde disponible ou, à défaut d’actionnaires, aux fondateurs.
+- **(2)** Faute d’une telle résolution ou s’ils jugent insuffisant le montant alloué par celle-ci, les administrateurs peuvent demander à tout tribunal compétent au lieu du siège de la banque de statuer sur les montants à prélever sur les fonds de celle-ci avant toute répartition du solde disponible aux personnes suivantes :
+	- **a)** dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, les actionnaires ou, à défaut d’actionnaires, les fondateurs;
+	- **b)** dans le cas d’une coopérative de crédit fédérale, les membres.
 
 **Préavis**
 
-- **(3)** Les administrateurs envoient aux actionnaires ou aux fondateurs, selon le cas, un préavis de la demande au moins vingt et un jours avant la date d’audition de celle-ci, auquel ils joignent un état des frais sur lesquels le tribunal aura à statuer.
+- **(3)** Les administrateurs envoient aux actionnaires, aux membres ou aux fondateurs, selon le cas, un préavis de la demande au moins vingt et un jours avant la date d’audition de celle-ci, auquel ils joignent un état des frais sur lesquels le tribunal aura à statuer.
 
 **Quote-part**
 
-- **(4)** Après que les montants ont été approuvés par résolution extraordinaire ou fixés par le tribunal, les administrateurs, pour assurer une répartition équitable entre les actionnaires ou les fondateurs, selon le cas, des frais payables aux termes du présent article, déterminent la contribution de chacun d’eux au prorata de son apport.
+- **(4)** Après que les montants ont été approuvés par résolution extraordinaire ou fixés par le tribunal, les administrateurs, pour assurer une répartition équitable entre les actionnaires, les membres ou les fondateurs, selon le cas, des frais payables aux termes du présent article, déterminent la contribution de chacun d’eux au prorata de son apport.
 
 **Répartition du solde disponible**
 
-- **(5)** Après le paiement des frais à acquitter aux termes du présent article, les administrateurs remboursent à chaque actionnaire ou fondateur le montant de son apport, intérêts créditeurs compris, moins sa contribution aux frais calculée conformément au paragraphe (4).
+- **(5)** Après le paiement des frais à acquitter aux termes du présent article, les administrateurs remboursent à chaque actionnaire, membre ou fondateur le montant de son apport, intérêts créditeurs compris, moins sa contribution aux frais calculée conformément au paragraphe (4).
+> 1991, ch. 46, art. 58; 2010, ch. 12, art. 1929.
+
 
 
 
@@ -1420,7 +1992,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **60** 
 
-- **(1)** La banque doit avoir une catégorie d’actions non rachetables, dites « ordinaires », dont les détenteurs ont des droits égaux, notamment les suivants :
+- **(1)** La banque, sauf une coopérative de crédit fédérale, doit avoir une catégorie d’actions non rachetables, dites « ordinaires », dont les détenteurs ont des droits égaux, notamment les suivants :
 	- **a)** voter à toutes les assemblées, sauf celles auxquelles sont seuls habilités à voter les détenteurs d’actions d’une catégorie particulière;
 	- **b)** recevoir les dividendes déclarés;
 	- **c)** se partager le reliquat des biens de la banque lors de sa dissolution.
@@ -1431,10 +2003,52 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(3)** [Abrogé, 2012, ch. 5, art. 4]
 
-**Non-conformité : banque prorogée**
+**Non-conformité : banque prorogée**
 
 - **(4)** Les personnes morales prorogées comme banques en vertu de la présente loi disposent d’un délai de douze mois après la date de délivrance de leurs lettres patentes de prorogation pour se conformer au paragraphe (2).
-> 1991, ch. 46, art. 60; 2012, ch. 5, art. 4.
+> 1991, ch. 46, art. 60; 2010, ch. 12, art. 1930; 2012, ch. 5, art. 4.
+
+
+
+
+
+**Actions d’une coopérative de crédit fédérale**
+
+**60.1** 
+
+- **(1)** Les règlements administratifs de la coopérative de crédit fédérale peuvent prévoir que celle-ci est autorisée à émettre des actions et, le cas échéant, ils doivent préciser :
+	- **a)** si les actions peuvent être émises à des personnes qui ne sont pas membres;
+	- **b)** s’il y a lieu, le nombre maximal d’actions de toute catégorie que la coopérative de crédit fédérale est autorisée à émettre;
+	- **c)** le nombre de catégories d’actions;
+	- **d)** les droits, privilèges, conditions et restrictions qui se rattachent aux actions de chaque catégorie.
+
+**Restrictions relatives à l’émission des actions**
+
+- **(2)** La coopérative de crédit fédérale ne peut, sous réserve de la présente loi, émettre d’actions qui confèrent à leur détenteur le droit de voter à ses assemblées autrement que conformément à la présente loi ou celui de partager le reliquat des biens de celle-ci lors de sa dissolution.
+
+**Droit d’élire les administrateurs**
+
+- **(3)** Les règlements administratifs peuvent prévoir que :
+	- **a)** les actions confèrent à leur détenteur le droit de voter pour l’élection des administrateurs en raison de la survenance d’un fait dont les effets demeurent ou de la réalisation d’une condition;
+	- **b)** les actionnaires ou toute catégorie de ceux-ci ou les détenteurs d’une série particulière peuvent élire un nombre fixe ou un pourcentage d’administrateurs de la coopérative de crédit fédérale.
+
+**Règle du vingt pour cent**
+
+- **(4)** Malgré les paragraphes (2) et (3), les actionnaires n’ont pas le droit d’élire plus de vingt pour cent des administrateurs de la coopérative de crédit fédérale.
+
+**Une action — une voix**
+
+- **(5)** Lorsque les actionnaires sont habiles à voter en vertu du paragraphe (3) ou d’une autre disposition de la présente loi, chaque action confère une voix à son détenteur.
+> 2010, ch. 12, art. 1931.
+
+
+
+
+
+**Interdiction**
+
+**60.2** La coopérative de crédit fédérale ne peut désigner de catégorie d’actions comme « parts sociales » ou par une variante de ce terme.
+> 2010, ch. 12, art. 1931.
 
 
 
@@ -1444,7 +2058,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **61** 
 
-- **(1)** Les règlements administratifs peuvent prévoir plusieurs catégories d’actions; le cas échéant, ils doivent préciser :
+- **(1)** Les règlements administratifs d’une banque qui n’est pas une coopérative de crédit fédérale peuvent prévoir plusieurs catégories d’actions; le cas échéant, ils doivent préciser :
 	- **a)** les droits, privilèges, conditions et restrictions qui s’y rattachent;
 	- **b)** s’il y a lieu, le nombre maximal d’actions de toute catégorie que la banque est autorisée à émettre.
 
@@ -1455,7 +2069,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Date d’entrée en vigueur**
 
 - **(3)** La prise d’effet des règlements est subordonnée à leur confirmation, avec ou sans modifications, par résolution extraordinaire des actionnaires à l’assemblée visée au paragraphe (2).
-> 1991, ch. 46, art. 61; 2001, ch. 9, art. 60.
+> 1991, ch. 46, art. 61; 2001, ch. 9, art. 60; 2010, ch. 12, art. 1932.
 
 
 
@@ -1468,6 +2082,10 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 - **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
 	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
 	- **b)** permettre aux administrateurs de le faire.
+
+**Date de prise d’effet**
+
+- **(1.1)** Dans le cas d’une coopérative de crédit fédérale, les règlements administratifs visés au paragraphe (1) sont pris par résolution extraordinaire des membres et leur prise d’effet est subordonnée à leur confirmation par une résolution extraordinaire distincte des actionnaires pour chaque catégorie ou série d’actions visée par les règlements administratifs, si la coopérative de crédit fédérale a émis des actions.
 
 **Participation des séries**
 
@@ -1484,7 +2102,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 1991, ch. 46, art. 62; 2005, ch. 54, art. 8; 2007, ch. 6, art. 8(A).
+> 1991, ch. 46, art. 62; 2005, ch. 54, art. 8; 2007, ch. 6, art. 8(A); 2010, ch. 12, art. 1933.
 
 
 
@@ -1523,9 +2141,13 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(1)** La banque tient un compte capital déclaré distinct pour chaque catégorie et chaque série d’actions.
 
+**Compte capital déclaré — parts sociales**
+
+- **(1.1)** La coopérative de crédit fédérale tient un compte capital déclaré pour ses parts sociales.
+
 **Versements au compte capital déclaré**
 
-- **(2)** La banque verse au compte capital déclaré correspondant le montant total de l’apport reçu en contrepartie des actions qu’elle émet.
+- **(2)** La banque verse au compte capital déclaré correspondant le montant total de l’apport reçu en contrepartie des actions ou parts sociales qu’elle émet.
 
 **Exception**
 
@@ -1537,26 +2159,40 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 	- **b)** aux termes d’une convention visée au paragraphe 224(1);
 	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de la banque issue de la fusion.
 
+**Exception**
+
+- **(3.1)** Malgré le paragraphe (2), la coopérative de crédit fédérale peut, sous réserve du paragraphe (4), verser au compte capital déclaré afférent aux parts sociales une partie du montant de l’apport reçu en contrepartie de ces parts sociales :
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque la coopérative de crédit fédérale avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, la coopérative de crédit fédérale et tous les détenteurs des parts sociales ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 224(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les parts sociales en plus ou à la place des valeurs mobilières de la banque issue de la fusion.
+
 **Limite**
 
-- **(4)** Au moment de l’émission d’une action, la banque ne peut porter au compte capital déclaré correspondant à l’action un montant supérieur à celui qu’elle a reçu en contrepartie de celle-ci.
+- **(4)** Au moment de l’émission d’une action ou d’une part sociale, la banque ne peut porter au compte capital déclaré correspondant à l’action ou à la part sociale un montant supérieur à celui qu’elle a reçu en contrepartie de celles-ci.
 
 **Restriction**
 
 - **(5)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, la banque ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de la banque appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 77(4).
-> 1991, ch. 46, art. 66; 1997, ch. 15, art. 7; 2005, ch. 54, art. 9.
+
+**Restriction — coopérative de crédit fédérale**
+
+- **(6)** Si la banque mentionnée au paragraphe (5) est une coopérative de crédit fédérale, la mesure doit être approuvée par résolution extraordinaire des membres et par une résolution extraordinaire distincte des actionnaires pour chaque catégorie d’actions ou pour une série d’actions qui est touchée par cette résolution. La présente disposition ne s’applique pas si toutes les actions en circulation de la coopérative de crédit fédérale appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 77(4).
+> 1991, ch. 46, art. 66; 1997, ch. 15, art. 7; 2005, ch. 54, art. 9; 2010, ch. 12, art. 1934.
 
 
 
 
 
-**Capital déclaré : banque prorogée**
+**Capital déclaré : banque prorogée**
 
 **67** 
 
-- **(1)** La personne morale prorogée comme banque sous le régime de la présente loi porte au compte capital déclaré pour chacune des catégories et séries d’actions en circulation un montant égal à la somme des éléments suivants :
-	- **a)** le montant total versé pour les actions de chaque catégorie ou série au moment de la prorogation;
-	- **b)** la part du surplus d’apport correspondant à ces actions.
+- **(1)** La personne morale prorogée comme banque sous le régime de la présente loi porte au compte capital déclaré pour chacune des catégories et séries d’actions — ou tout autre titre de participation, quelle que soit sa désignation — en circulation un montant égal à la somme des éléments suivants :
+	- **a)** le montant total versé pour les actions de chaque catégorie ou série ou tout autre titre de participation, au moment de la prorogation;
+	- **b)** la part du surplus d’apport correspondant à ces actions ou tout autre titre de participation.
 
 **Débit correspondant**
 
@@ -1564,7 +2200,9 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Émission antérieure**
 
-- **(3)** Les sommes qui sont payées seulement après la prorogation à l’égard d’actions émises antérieurement sont portées au crédit du compte capital déclaré correspondant.
+- **(3)** Les sommes qui sont payées seulement après la prorogation à l’égard d’actions ou de tout autre titre de participation émis antérieurement sont portées au crédit du compte capital déclaré correspondant.
+> 1991, ch. 46, art. 67; 2010, ch. 12, art. 1935.
+
 
 
 
@@ -1610,28 +2248,33 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Détention par la banque de ses propres actions**
 
-**70** Sauf dans les cas prévus aux articles 71 à 74 ou sauf autorisation par les règlements, la banque ne peut :
+**70** Sauf dans les cas prévus aux articles 71 à 74 ou sauf autorisation par les règlements, la banque ne peut :
 - **a)** détenir ses actions ou les actions d’une personne morale qui la contrôle;
 - **b)** détenir des titres de participation dans une entité non constituée en personne morale qui la contrôle;
 - **c)** permettre à ses filiales de détenir de ses actions ou des actions d’une personne morale qui la contrôle;
+- **c.1)** si elle est une coopérative de crédit fédérale, permettre à ses filiales de détenir ses parts sociales au-delà du nombre minimal de parts sociales requis par les règlements administratifs pour se qualifier comme membre de la coopérative de crédit fédérale;
 - **d)** permettre à ses filiales de détenir des titres de participation dans une entité non constituée en personne morale qui la contrôle.
+> 1991, ch. 46, art. 70; 2010, ch. 12, art. 1936.
 
 
 
 
-**Rachat d’actions**
+
+**Rachat d’actions et de parts sociales**
 
 **71** 
 
-- **(1)** Sous réserve du paragraphe (2) et de ses propres règlements administratifs, la banque peut, avec l’accord du surintendant, soit acheter, pour les annuler, les actions qu’elle a émises, soit les racheter à un prix n’excédant pas le prix calculé selon la formule prévue dans les règlements en question ou aux conditions qui y sont attachées.
+- **(1)** Sous réserve du paragraphe (2) et de ses propres règlements administratifs, la banque peut, avec l’accord du surintendant, soit acheter, pour les annuler, les actions ou les parts sociales qu’elle a émises, soit les racheter à un prix n’excédant pas le prix calculé selon la formule prévue dans les règlements en question ou aux conditions qui y sont attachées.
 
 **Restriction**
 
-- **(2)** La banque ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 485.
+- **(2)** La banque ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions ou les parts sociales qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 485.
 
-**Donation d’actions**
+**Donation d’actions et de parts sociales**
 
-- **(3)** La banque peut accepter toute donation d’actions, mais ne peut limiter ni supprimer l’obligation de les libérer autrement qu’en conformité avec l’article 75.
+- **(3)** La banque peut accepter toute donation d’actions ou de parts sociales, mais ne peut limiter ni supprimer l’obligation de les libérer autrement qu’en conformité avec l’article 75.
+> 1991, ch. 46, art. 71; 2010, ch. 12, art. 1937.
+
 
 
 
@@ -1640,7 +2283,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **72** 
 
-- **(1)** La banque — ainsi que ses filiales si elle le leur permet — peut, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, détenir soit des actions de la banque ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
+- **(1)** La banque — ainsi que ses filiales si elle le leur permet — peut, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, détenir soit des actions de la banque ou d’une personne morale qui la contrôle, soit des parts sociales d’une coopérative de crédit fédérale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
 
 **Sûreté**
 
@@ -1649,7 +2292,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Précision**
 
 - **(3)** Le paragraphe (2) n’a pas pour effet d’empêcher une banque qui existait à la date d’entrée en vigueur de la présente partie ou l’une de ses filiales de continuer à détenir une sûreté qu’elle détenait à cette date.
-> 1991, ch. 46, art. 72; 2005, ch. 54, art. 10(F).
+> 1991, ch. 46, art. 72; 2005, ch. 54, art. 10(F); 2010, ch. 12, art. 1938.
 
 
 
@@ -1674,15 +2317,17 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 
 
-**Annulation des actions**
+**Annulation des actions et des parts sociales**
 
 **73** 
 
-- **(1)** Sous réserve du paragraphe (2), la banque est tenue, lorsqu’elle les acquiert — notamment par achat ou rachat — d’annuler les actions ou fractions d’actions émises par elle.
+- **(1)** Sous réserve du paragraphe (2), la banque est tenue, lorsqu’elle les acquiert — notamment par achat ou rachat — d’annuler les parts sociales, actions ou fractions d’actions émises par elle, selon le cas.
 
 **Obligation de vendre**
 
 - **(2)** En cas d’acquisition par la banque ou ses filiales — à la suite de la réalisation d’une sûreté — d’actions émises par elle ou par une personne morale qui la contrôle, ou de titres de participation d’une entité non constituée en personne morale qui la contrôle, la banque doit s’en départir dans les six mois suivant la réalisation et veiller à ce que ses filiales fassent de même.
+> 1991, ch. 46, art. 73; 2010, ch. 12, art. 1939.
+
 
 
 
@@ -1698,7 +2343,11 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **75** 
 
-- **(1)** La banque peut, par résolution extraordinaire, réduire son capital déclaré.
+- **(1)** La banque qui n’est pas une coopérative de crédit fédérale peut, par résolution extraordinaire, réduire son capital déclaré.
+
+**Réduction de capital — coopérative de crédit fédérale**
+
+- **(1.1)** La coopérative de crédit fédérale peut réduire son capital déclaré par résolution extraordinaire des membres et, si elle a émis des actions, par une résolution extraordinaire distincte des actionnaires pour chaque catégorie ou série d’actions qui est touchée par cette résolution.
 
 **Limite**
 
@@ -1716,7 +2365,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
 	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 308(4);
-	- **b)** aucun remboursement du capital n’est versé aux actionnaires du fait de la réduction.
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires ou aux membres, selon le cas, du fait de la réduction.
 
 **Condition préalable**
 
@@ -1724,12 +2373,12 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
-	- **a)** le nombre d’actions émises et en circulation de la banque;
-	- **b)** le résultat du vote par catégories d’actions;
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+	- **a)** le nombre d’actions ou de parts sociales, selon le cas, émis et en circulation de la banque;
+	- **b)** le résultat du vote;
 	- **c)** l’actif et le passif de la banque;
 	- **d)** les motifs de la réduction projetée.
-> 1991, ch. 46, art. 75; 2007, ch. 6, art. 10.
+> 1991, ch. 46, art. 75; 2007, ch. 6, art. 10; 2010, ch. 12, art. 1940.
 
 
 
@@ -1739,11 +2388,11 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **76** 
 
-- **(1)** Tout créancier de la banque peut demander au tribunal d’ordonner à un actionnaire ou une autre personne de restituer à la banque les sommes ou biens reçus à la suite d’une réduction de capital non conforme à l’article 75.
+- **(1)** Tout créancier de la banque peut demander au tribunal d’ordonner à un actionnaire, un membre ou une autre personne de restituer à la banque les sommes ou biens reçus à la suite d’une réduction de capital non conforme à l’article 75.
 
 **Responsabilité en tant que représentant personnel**
 
-- **(2)** La personne qui détient des actions en qualité de représentant personnel et qui est enregistrée dans les livres de la banque à la fois comme représentant personnel d’une personne désignée et comme actionnaire n’encourt aucune responsabilité personnelle du fait du paragraphe (1), celle-ci incombant intégralement à la personne désignée.
+- **(2)** La personne qui détient des actions ou des parts sociales en qualité de représentant personnel et qui est enregistrée dans les livres de la banque à la fois comme représentant personnel d’une personne désignée et comme actionnaire ou membre n’encourt aucune responsabilité personnelle du fait du paragraphe (1), celle-ci incombant intégralement à la personne désignée.
 
 **Prescription**
 
@@ -1752,6 +2401,8 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Maintien des recours**
 
 - **(4)** Le présent article ne limite en rien la responsabilité découlant de l’article 207.
+> 1991, ch. 46, art. 76; 2010, ch. 12, art. 1941.
+
 
 
 
@@ -1760,7 +2411,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **77** 
 
-- **(1)** La banque qui acquiert, notamment par achat ou rachat, des actions ou fractions d’actions qu’elle a émises, à l’exception d’actions acquises conformément à l’article 72 ou à la suite de la réalisation d’une sûreté et vendues conformément au paragraphe 73(2), débite le compte capital déclaré afférent à la catégorie ou série concernée du produit de la somme moyenne reçue pour chacune d’elles lors de leur émission par le nombre d’actions ainsi acquises.
+- **(1)** La banque qui acquiert, notamment par achat ou rachat, des actions, des parts sociales ou des fractions d’actions qu’elle a émises, à l’exception d’actions ou de parts sociales acquises conformément à l’article 72 ou à la suite de la réalisation d’une sûreté, et vendues conformément au paragraphe 73(2), débite le compte capital déclaré afférent à la catégorie ou série concernée du produit de la somme moyenne reçue pour chacune d’elles lors de leur émission par le nombre d’actions ou de parts sociales, selon le cas, ainsi acquises.
 
 **Idem**
 
@@ -1768,7 +2419,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Conversion d’actions**
 
-- **(3)** La banque doit, dès le passage d’actions déjà en circulation dans une catégorie ou série à la suite d’une conversion ou d’un changement :
+- **(3)** La banque doit, dès le passage d’actions déjà en circulation dans une catégorie ou série à la suite d’une conversion ou d’un changement :
 	- **a)** débiter le compte capital déclaré tenu pour la catégorie ou série initiale du produit de la somme moyenne reçue pour chacune d’elles lors de leur émission par le nombre d’actions ayant fait l’objet de la conversion ou du changement;
 	- **b)** inscrire au compte capital déclaré de la catégorie ou série des actions converties ou changées le produit visé à l’alinéa a) ainsi que tout apport supplémentaire reçu au titre de la conversion ou du changement.
 
@@ -1778,40 +2429,136 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Effet de la conversion ou du changement**
 
-- **(5)** Les actions ayant fait l’objet d’une conversion ou d’un changement effectué aux termes du paragraphe 217(1) sont réputées avoir été émises dans la nouvelle catégorie ou série.
+- **(5)** Les actions ayant fait l’objet d’une conversion ou d’un changement effectué aux termes des paragraphes 192.03(1) ou 217(1) sont réputées avoir été émises dans la nouvelle catégorie ou série.
+> 1991, ch. 46, art. 77; 2010, ch. 12, art. 1942.
+
 
 
 
 
 **Inscription**
 
-**78** La banque doit, dès la conversion de ses titres de créance en actions d’une catégorie ou d’une série :
-- **a)** débiter son passif de la valeur nominale des titres de créance ainsi convertis;
-- **b)** inscrire au compte capital déclaré de la catégorie ou série d’actions pertinente la somme visée à l’alinéa a) ainsi que tout apport supplémentaire reçu au titre de la conversion.
+**78** La banque, dès la conversion de ses titres de créance en actions d’une catégorie ou d’une série, ou en parts sociales :
+- **a)** débite son passif de la valeur nominale des titres de créance ainsi convertis;
+- **b)** inscrit au compte capital déclaré correspondant la somme visée à l’alinéa a) ainsi que tout apport supplémentaire reçu au titre de la conversion.
+> 1991, ch. 46, art. 78; 2010, ch. 12, art. 1943.
 
 
 
 
-**Déclaration de dividende**
+
+**Déclaration de dividende ou ristourne**
 
 **79** 
 
-- **(1)** Les administrateurs de la banque peuvent déclarer un dividende, qui peut être payé par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions ou, sous réserve du paragraphe (4), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
+- **(1)** Les administrateurs de la banque peuvent déclarer un dividende ou une ristourne, qui peut être payé par l’émission d’actions ou, sous réserve du paragraphe 79.2(1), de parts sociales entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions ou parts sociales ou, sous réserve du paragraphe (4), en argent ou en biens; le dividende ou la ristourne payable en argent peut être payé en monnaie étrangère.
 
 **Avis au surintendant**
 
 - **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
-**Dividendes-actions**
+**Compte capital déclaré**
 
-- **(3)** La banque inscrit — en numéraire — au compte capital déclaré correspondant le montant déclaré des dividendes qu’elle verse sous forme d’actions.
+- **(3)** La banque inscrit — en numéraire — au compte capital déclaré correspondant le montant déclaré des dividendes ou des ristournes qu’elle verse sous forme d’actions ou de parts sociales.
 
-**Non-versement de dividendes**
+**Non-versement de dividendes ou de ristournes**
 
-- **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la banque contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 485.
+- **(4)** Toute déclaration ou tout versement de dividendes ou de ristournes est prohibé s’il existe des motifs valables de croire que, ce faisant, la banque contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 485.
 
 - **(5)** [Abrogé, 2007, ch. 6, art. 11]
-> 1991, ch. 46, art. 79; 2001, ch. 9, art. 61; 2007, ch. 6, art. 11.
+> 1991, ch. 46, art. 79; 2001, ch. 9, art. 61; 2007, ch. 6, art. 11; 2010, ch. 12, art. 1944.
+
+
+
+
+
+### Capital de parts sociales
+
+
+
+**Parts sociales**
+
+**79.1** 
+
+- **(1)** La coopérative de crédit fédérale ne peut avoir qu’une catégorie de parts sociales, dont les détenteurs ont des droits égaux, notamment les suivants :
+	- **a)** recevoir les dividendes déclarés;
+	- **b)** se partager le reliquat des biens de la coopérative de crédit fédérale lors de sa dissolution.
+
+**Contrepartie des parts sociales**
+
+- **(2)** L’émission par la coopérative de crédit fédérale de parts sociales est subordonnée à leur libération totale en argent ou, avec l’approbation du surintendant, en biens.
+
+**Monnaie étrangère**
+
+- **(3)** La coopérative de crédit fédérale peut prévoir, lors de l’émission de ses parts sociales, que toute disposition de celles-ci relative à une somme d’argent ou prévoyant soit le paiement d’une somme d’argent, soit l’obligation d’en payer une est exprimée en monnaie étrangère.
+> 2010, ch. 12, art. 1945.
+
+
+
+
+
+**Parts sociales**
+
+**79.2** 
+
+- **(1)** Seul un membre peut détenir des parts sociales.
+
+**Droit de vote**
+
+- **(2)** Le droit de vote découle de la qualité de membre et non de la détention de parts sociales.
+
+**Restrictions**
+
+- **(3)** Les lettres patentes ou les règlements administratifs de la coopérative de crédit fédérale ne peuvent comporter, à l’égard des parts sociales, aucun privilège, droit, condition, restriction, limitation ou interdiction, sauf ceux prévus par la présente loi.
+> 2010, ch. 12, art. 1945.
+
+
+
+
+
+**Émission de certificats**
+
+**79.3** 
+
+- **(1)** Les règlements administratifs de la coopérative de crédit fédérale peuvent prévoir qu’elle n’est pas tenue d’émettre des certificats de parts sociales; le cas échéant, elle est tenue de remettre aux membres, sur demande, une attestation du nombre de leurs parts sociales.
+
+**Contenu des certificats**
+
+- **(2)** Le recto de tout certificat de parts sociales délivré par la coopérative de crédit fédérale comporte :
+	- **a)** la dénomination sociale de la coopérative de crédit fédérale;
+	- **b)** la mention que la coopérative de crédit fédérale est régie par la présente loi;
+	- **c)** le nom du titulaire;
+	- **d)** la mention qu’il représente des parts sociales de la coopérative de crédit fédérale ainsi que leur nombre;
+	- **e)** la mention qu’il ne peut être transféré qu’en conformité avec la présente loi;
+	- **f)** la mention du fait que les parts sociales qu’il représente sont grevées d’une charge en faveur de la coopérative de crédit fédérale pour toutes sommes dues par le membre.
+> 2010, ch. 12, art. 1945.
+
+
+
+
+
+**Capital autorisé**
+
+**79.4** Les parts sociales de la coopérative de crédit fédérale ne comportent aucune valeur nominale et les règlements administratifs précisent toute limite quant à leur nombre et la formule utilisée pour en déterminer la valeur.
+> 2010, ch. 12, art. 1945.
+
+
+
+
+
+**Limite de responsabilité**
+
+**79.5** L’émission d’une part sociale est libératoire quant à l’apport exigible de son détenteur.
+> 2010, ch. 12, art. 1945.
+
+
+
+
+
+**Personne morale**
+
+**79.6** La personne morale prorogée comme coopérative de crédit fédérale en vertu de la présente loi dispose d’un délai de douze mois après la date de délivrance de ses lettres patentes de prorogation pour se conformer à l’article 79.1.
+> 2010, ch. 12, art. 1945.
 
 
 
@@ -1850,41 +2597,43 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **81** Les définitions qui suivent s’appliquent au présent article et aux articles 82 à 135.
 
-***acheteur de bonne foi*** L’acquéreur contre valeur qui, non avisé de l’existence d’une opposition, prend livraison d’un titre au porteur ou à ordre ou d’un titre nominatif émis à son nom, endossé à son profit ou en blanc.
+***acheteur de bonne foi*** L’acquéreur contre valeur qui, non avisé de l’existence d’une opposition, prend livraison d’un titre au porteur ou à ordre ou d’un titre nominatif émis à son nom, endossé à son profit ou en blanc. (*bona fide purchaser*)
 
-***acquéreur*** La personne qui acquiert des droits sur une valeur mobilière, par voie d’achat, d’hypothèque, de gage, d’émission, de réémission, de don ou de toute autre opération consensuelle.
+***acquéreur*** La personne qui acquiert des droits sur une valeur mobilière, par voie d’achat, d’hypothèque, de gage, d’émission, de réémission, de don ou de toute autre opération consensuelle. (*purchaser*)
 
-***acte de fiducie*** S’entend au sens de l’article 294.
+***acte de fiducie*** S’entend au sens de l’article 294. (*trust indenture*)
 
-***agence de compensation et de dépôt*** La personne agréée à ce titre par le surintendant.
+***agence de compensation et de dépôt*** La personne agréée à ce titre par le surintendant. (*clearing agency*)
 
-***authentique*** Ni falsifié ni contrefait.
+***authentique*** Ni falsifié ni contrefait. (*genuine*)
 
-***bonne foi*** Honnêteté de fait dans l’exécution d’une opération.
+***bonne foi*** Honnêteté de fait dans l’exécution d’une opération. (*good faith*)
 
-***courtier*** La personne qui se livre, exclusivement ou non, au commerce des valeurs mobilières et qui, entre autres, dans les opérations en cause, agit pour un client.
+***courtier*** La personne qui se livre, exclusivement ou non, au commerce des valeurs mobilières et qui, entre autres, dans les opérations en cause, agit pour un client. (*securities broker*)
 
-***émission excédentaire*** Toute émission de valeurs mobilières dépassant le plafond autorisé.
+***émission excédentaire*** Toute émission de valeurs mobilières dépassant le plafond autorisé. (*over-issue*)
 
-***fongibles*** Celles des valeurs mobilières qui ont cette qualité par nature ou en vertu des usages du commerce.
+***fongibles*** Celles des valeurs mobilières qui ont cette qualité par nature ou en vertu des usages du commerce. (*fungible*)
 
- ou ***livraison*** ou ***remise*** Le transfert volontaire de la possession.
+***livraison*** ou ***remise*** Le transfert volontaire de la possession. (*delivery*)
 
-***non autorisé*** Pour une signature ou un endossement, le fait d’être apposé ou effectué sans autorisation réelle, implicite ou apparente; s’entend également des faux.
+***non autorisé*** Pour une signature ou un endossement, le fait d’être apposé ou effectué sans autorisation réelle, implicite ou apparente; s’entend également des faux. (*unauthorized*)
 
-***opposition*** Entre autres, le fait d’invoquer qu’un transfert est ou serait illégal ou qu’un opposant déterminé détient la propriété de valeurs mobilières ou un droit sur celles-ci.
+***opposition*** Entre autres, le fait d’invoquer qu’un transfert est ou serait illégal ou qu’un opposant déterminé détient la propriété de valeurs mobilières ou un droit sur celles-ci. (*adverse claim*)
 
- ou  or ***valeur mobilière*** ou ***certificat de valeur mobilière*** Tout titre émis par une banque, qui, à la fois :
+***valeur mobilière*** ou ***certificat de valeur mobilière*** Tout titre émis par une banque, qui, à la fois :
 - **a)** est au porteur, à ordre ou nominatif;
 - **b)** est d’un genre habituellement négocié aux bourses ou sur les marchés de valeurs mobilières ou reconnu comme placement dans tout endroit où il est émis ou négocié;
 - **c)** fait partie d’une catégorie ou série de titres ou est divisible selon ses propres modalités;
 - **d)** atteste l’existence soit d’une action ou d’une obligation de la banque, soit de droits ou intérêts, notamment d’une participation, sur celle-ci.
 
-Est exclus de la présente définition le document attestant un dépôt.
+Est exclu de la présente définition le document attestant un dépôt ou, dans le cas d’une coopérative de crédit fédérale, celui attestant une part sociale. (*security* or *security certificate*)
 
-***valeur mobilière sans certificat*** Valeur mobilière dont aucun certificat ne constate l’existence et dont l’émission ou le transfert est inscrit ou mentionné dans les registres tenus à cette fin par la banque ou en son nom.
+***valeur mobilière sans certificat*** Valeur mobilière dont aucun certificat ne constate l’existence et dont l’émission ou le transfert est inscrit ou mentionné dans les registres tenus à cette fin par la banque ou en son nom. (*uncertificated security*)
 
-***valide*** Soit émis légalement, soit validé en vertu de l’article 97.
+***valide*** Soit émis légalement, soit validé en vertu de l’article 97. (*valid*)
+> 1991, ch. 46, art. 81; 2010, ch. 12, art. 1946.
+
 
 
 
@@ -2687,7 +3436,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 
 
-### Actionnaires
+### Actionnaires et membres
 
 
 
@@ -2695,16 +3444,16 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **136** 
 
-- **(1)** Les assemblées d’actionnaires se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
+- **(1)** Les assemblées d’actionnaires ou de membres se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
 
 **Participation aux assemblées par moyen de communication électronique**
 
-- **(2)** Sauf disposition contraire des règlements administratifs, toute personne qui a le droit d’assister à une assemblée d’actionnaires peut y participer par moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer adéquatement entre eux et mis à leur disposition par la banque. Elle est alors réputée, pour l’application de la présente loi, avoir assisté à l’assemblée.
+- **(2)** Sauf disposition contraire des règlements administratifs, toute personne qui a le droit d’assister à une assemblée d’actionnaires ou de membres peut y participer par moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer adéquatement entre eux et mis à leur disposition par la banque. Elle est alors réputée, pour l’application de la présente loi, avoir assisté à l’assemblée.
 
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut prendre des règlements concernant la façon de participer aux assemblées par tout moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer entre eux ainsi que les exigences à respecter dans le cadre de cette participation.
-> 1991, ch. 46, art. 136; 2005, ch. 54, art. 16.
+> 1991, ch. 46, art. 136; 2005, ch. 54, art. 16; 2010, ch. 12, art. 1948.
 
 
 
@@ -2730,8 +3479,8 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Date de référence**
 
-- **(5)** Les administrateurs peuvent fixer d’avance une date ultime d’inscription, ci-après appelée « date de référence », laquelle est comprise dans le délai réglementaire, pour déterminer les actionnaires ayant tout droit ou ayant qualité à toute fin, notamment ceux qui, selon le cas :
-	- **a)** ont le droit de recevoir les dividendes;
+- **(5)** Les administrateurs peuvent fixer d’avance une date ultime d’inscription, ci-après appelée « date de référence », laquelle est comprise dans le délai réglementaire, pour déterminer les actionnaires ou les membres, selon le cas, ayant tout droit ou ayant qualité à toute fin, notamment ceux qui, selon le cas :
+	- **a)** ont le droit de recevoir les dividendes ou les ristournes;
 	- **b)** ont le droit de participer au partage consécutif à la liquidation;
 	- **c)** ont le droit de recevoir avis d’une assemblée;
 	- **d)** sont habiles à voter lors d’une assemblée.
@@ -2739,17 +3488,17 @@ Est exclus de la présente définition le document attestant un dépôt.
 **Absence de fixation de date de référence**
 
 - **(6)** Faute d’avoir été ainsi fixée, la date de référence correspond, selon le cas :
-	- **a)** en ce qui concerne les actionnaires ayant le droit de recevoir avis d’une assemblée :
+	- **a)** en ce qui concerne les actionnaires ou les membres ayant le droit de recevoir avis d’une assemblée :
 		- **(i)** au jour précédant celui où cet avis est donné, à l’heure de fermeture des bureaux,
 		- **(ii)** en l’absence d’avis, au jour de l’assemblée;
-	- **b)** en ce qui concerne les actionnaires ayant qualité à toute autre fin, sauf en ce qui concerne le droit de vote, à la date d’adoption de la résolution à ce sujet par les administrateurs, à l’heure de fermeture des bureaux.
+	- **b)** en ce qui concerne les actionnaires ou les membres ayant qualité à toute autre fin, sauf en ce qui concerne le droit de vote, à la date d’adoption de la résolution à ce sujet par les administrateurs, à l’heure de fermeture des bureaux.
 
 **Cas où la date de référence est fixée**
 
 - **(7)** Avis qu’une date de référence a été fixée est donné dans le délai réglementaire et de la manière prévue ci-après à moins que chacun des détenteurs d’actions de la catégorie ou série en cause dont le nom figure au registre des valeurs mobilières au moment de la fermeture des bureaux de la banque le jour où la date de référence est fixée par les administrateurs renonce par écrit à cet avis :
 	- **a)** d’une part, par insertion dans un journal à grand tirage paraissant au lieu du siège de la banque et en chaque lieu au Canada où la banque a un agent de transfert ou où il est possible d’inscrire tout transfert de ses actions;
 	- **b)** d’autre part, par écrit, à chaque bourse de valeurs mobilières du Canada où les actions de la banque sont cotées.
-> 1991, ch. 46, art. 137; 2005, ch. 54, art. 17.
+> 1991, ch. 46, art. 137; 2005, ch. 54, art. 17; 2010, ch. 12, art. 1949.
 
 
 
@@ -2760,23 +3509,23 @@ Est exclus de la présente définition le document attestant un dépôt.
 **138** 
 
 - **(1)** Avis des date, heure et lieu de l’assemblée doit être envoyé dans le délai réglementaire :
-	- **a)** à chaque actionnaire habile à y voter;
+	- **a)** à chaque actionnaire ou chaque membre habile à y voter;
 	- **b)** à chaque administrateur;
 	- **c)** au ou aux vérificateurs;
 	- **d)** au surintendant.
 
 **Exception**
 
-- **(1.01)** Toutefois, dans le cas d’une banque n’ayant pas fait appel au public, l’avis peut être envoyé dans le délai plus court prévu par ses règlements administratifs.
+- **(1.01)** Toutefois, dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale et n’ayant pas fait appel au public, l’avis peut être envoyé dans le délai plus court prévu par ses règlements administratifs.
 
 **Nombre de voix possibles**
 
-- **(1.1)** La banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
+- **(1.1)** La banque qui n’est pas une coopérative de crédit fédérale et dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer quels actionnaires ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
 
 **Publication dans un journal**
 
 - **(2)** Dans le cas où une catégorie quelconque d’actions de la banque est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la banque et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18; 2007, ch. 6, art. 132; 2012, ch. 5, art. 5.
+> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18; 2007, ch. 6, art. 132; 2010, ch. 12, art. 1950; 2012, ch. 5, art. 5 et 223.
 
 
 
@@ -2786,12 +3535,12 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **139** 
 
-- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires non inscrits sur les registres de la banque ou de son agent de transfert à la date de référence fixée au titre de l’alinéa 137(5)c) ou prévue à l’alinéa 137(6)a).
+- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires ou aux membres non inscrits sur les registres de la banque ou de son agent de transfert à la date de référence fixée au titre de l’alinéa 137(5)c) ou prévue à l’alinéa 137(6)a).
 
 **Conséquence du défaut**
 
-- **(2)** Le défaut d’avis ne prive pas l’actionnaire de son droit de vote.
-> 1991, ch. 46, art. 139; 2005, ch. 54, art. 19.
+- **(2)** Le défaut d’avis ne prive pas l’actionnaire ou le membre de son droit de vote.
+> 1991, ch. 46, art. 139; 2005, ch. 54, art. 19; 2010, ch. 12, art. 1951.
 
 
 
@@ -2806,7 +3555,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 **Avis**
 
 - **(2)** En cas d’ajournement, en une ou plusieurs fois, pour au moins trente jours, avis de la reprise de l’assemblée doit être donné comme pour une nouvelle assemblée; cependant le paragraphe 156.04(1) ne s’applique que lorsque l’ajournement excède quatre-vingt-dix jours.
-> 1991, ch. 46, art. 140; 1997, ch. 15, art. 8.
+> 1991, ch. 46, art. 140; 1997, ch. 15, art. 8; 2010, ch. 12, art. 1952(A).
 
 
 
@@ -2820,7 +3569,26 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Avis**
 
-- **(2)** L’avis de l’assemblée à l’ordre du jour de laquelle figurent des questions particulières, doit, d’une part, préciser leur nature, avec suffisamment de détails pour permettre aux actionnaires de se former un jugement éclairé, d’autre part, reproduire le texte de toute résolution extraordinaire présentée à l’assemblée.
+- **(2)** L’avis de l’assemblée à l’ordre du jour de laquelle figurent des questions particulières, doit, d’une part, préciser leur nature, avec suffisamment de détails pour permettre aux actionnaires ou aux membres de se former un jugement éclairé, d’autre part, reproduire le texte de toute résolution extraordinaire présentée à l’assemblée.
+> 1991, ch. 46, art. 141; 2010, ch. 12, art. 1953.
+
+
+
+
+
+**Présentation de candidatures par les actionnaires**
+
+**141.1** 
+
+- **(1)** Lorsque les actionnaires d’une coopérative de crédit fédérale sont habiles à élire au moins un administrateur :
+	- **a)** la candidature d’un administrateur ne peut être proposée que par une ou plusieurs personnes détenant — à titre de détenteurs inscrits ou de véritables propriétaires — au moins cinq pour cent des actions de la coopérative de crédit fédérale ou des actions d’une de ses catégories d’actions permettant de voter à l’assemblée à laquelle l’élection aura lieu;
+	- **b)** l’avis de convocation doit comporter la proposition de candidature faite conformément à l’alinéa a) en vue de l’élection d’un administrateur.
+
+**Exemption**
+
+- **(2)** L’alinéa (1)b) ne s’applique pas si la proposition a été soumise à la coopérative de crédit fédérale avant le délai réglementaire précédant l’expiration d’un délai d’un an à compter de la dernière assemblée annuelle.
+> 2010, ch. 12, art. 1954.
+
 
 
 
@@ -2829,12 +3597,12 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **142** 
 
-- **(1)** Les personnes habiles à assister à une assemblée, notamment les actionnaires, peuvent toujours, de quelque façon que ce soit, renoncer à l’avis de convocation.
+- **(1)** Les personnes habiles à assister à une assemblée, notamment les actionnaires ou les membres, peuvent toujours, de quelque façon que ce soit, renoncer à l’avis de convocation.
 
 **Renonciation à l’avis**
 
 - **(2)** La présence à l’assemblée équivaut à une renonciation de l’avis de convocation, sauf lorsque la personne y assiste spécialement pour s’opposer aux délibérations au motif que l’assemblée n’est pas régulièrement convoquée.
-> 1991, ch. 46, art. 142; 2001, ch. 9, art. 64(F).
+> 1991, ch. 46, art. 142; 2001, ch. 9, art. 64(F); 2010, ch. 12, art. 1955.
 
 
 
@@ -2844,7 +3612,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **143** 
 
-- **(1)** Sous réserve des paragraphes (1.1) et (1.2), le détenteur inscrit ou le véritable propriétaire d’actions qui confèrent le droit de vote à une assemblée annuelle peut :
+- **(1)** Sous réserve des paragraphes (1.1) et (1.2), le détenteur inscrit ou le véritable propriétaire d’actions d’une banque qui n’est pas une coopérative de crédit fédérale qui confèrent le droit de vote à une assemblée annuelle peut :
 	- **a)** donner avis à la banque des questions qu’il se propose de soulever à l’assemblée, cet avis étant appelé « proposition » au présent article et à l’article 144;
 	- **b)** discuter, au cours de l’assemblée, de toute question qui aurait pu faire l’objet d’une proposition de sa part.
 
@@ -2897,7 +3665,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 **Immunité**
 
 - **(6)** La banque ou ses mandataires n’engagent pas leur responsabilité en diffusant une proposition ou une déclaration en exécution des paragraphes (2) et (3).
-> 1991, ch. 46, art. 143; 1997, ch. 15, art. 9; 2005, ch. 54, art. 20.
+> 1991, ch. 46, art. 143; 1997, ch. 15, art. 9; 2005, ch. 54, art. 20; 2010, ch. 12, art. 1956.
 
 
 
@@ -2928,11 +3696,94 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 
 
+**Propositions — membres d’une coopérative de crédit fédérale**
+
+**144.1** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), le membre d’une coopérative de crédit fédérale peut :
+	- **a)** donner avis à la coopérative de crédit fédérale des questions qu’il se propose de soulever à une assemblée annuelle, cet avis étant appelé « proposition » au présent article;
+	- **b)** discuter, au cours d’une assemblée annuelle, de toute question qui aurait pu faire l’objet d’une proposition de sa part.
+
+**Soumission des propositions**
+
+- **(2)** Pour soumettre une proposition, le membre doit avoir été membre de la coopérative de crédit fédérale pendant au moins la durée réglementaire avant de faire la proposition.
+
+**Renseignements à fournir**
+
+- **(3)** La proposition est accompagnée d’un exposé indiquant les nom et adresse de son auteur ainsi que la période pendant laquelle celui-ci a été membre.
+
+**Renseignements non comptés**
+
+- **(4)** Les renseignements prévus au paragraphe (3) ne font pas partie de la proposition ni de l’exposé visé au paragraphe (6) et n’entrent pas dans le calcul du nombre maximal réglementaire de mots dont il est question au paragraphe (6).
+
+**Charge de la preuve**
+
+- **(5)** Sur demande de la coopérative de crédit fédérale, présentée dans le délai réglementaire, l’auteur de la proposition est tenu d’établir, dans le délai réglementaire, que la condition prévue au paragraphe (2) est remplie.
+
+**Pièces jointes**
+
+- **(6)** La proposition soumise à la délibération d’une assemblée doit être jointe à l’avis d’assemblée et, à la demande de son auteur, être accompagnée d’un exposé à l’appui, avec ses nom et adresse. L’exposé et la proposition, combinés, ne comportent pas plus de mots que le nombre maximal prévu par règlement.
+
+**Présentation de candidatures d’administrateurs**
+
+- **(7)** La proposition peut faire état de candidatures en vue de l’élection des administrateurs si elle est signée par un pour cent des membres — jusqu’à concurrence de deux cent cinquante — habiles à voter à l’assemblée à laquelle la proposition doit être présentée.
+
+**Exception**
+
+- **(8)** La coopérative de crédit fédérale n’est pas tenue de se conformer au paragraphe (6) dans l’un ou l’autre des cas suivants :
+	- **a)** la proposition ne lui a pas été soumise avant le délai réglementaire précédant l’expiration d’un délai d’un an à compter de la date de l’avis de convocation de la dernière assemblée annuelle envoyé aux membres;
+	- **b)** il apparaît nettement que la proposition a pour objet principal de faire valoir, contre la coopérative de crédit fédérale ou ses administrateurs, ses dirigeants, ses membres ou les détenteurs de ses valeurs mobilières, une réclamation personnelle ou d’obtenir d’eux la réparation d’un grief personnel;
+	- **c)** au cours du délai réglementaire précédant la réception de sa proposition par la coopérative de crédit fédérale, la personne a omis de présenter, à une assemblée, une proposition que, à sa requête, la coopérative de crédit fédérale avait fait figurer dans un avis de cette assemblée;
+	- **d)** une proposition à peu près identique jointe à un avis d’assemblée de la coopérative de crédit fédérale a été présentée à une assemblée tenue dans le délai réglementaire précédant la réception de la proposition et n’a pas reçu l’appui nécessaire prévu par les règlements;
+	- **e)** les droits que confèrent le paragraphe (1) sont exercés abusivement aux fins de publicité.
+
+**Refus de prendre en compte la proposition**
+
+- **(9)** Dans le cas où l’auteur de la proposition se retire de la coopérative de crédit fédérale conformément à l’article 47.05 avant la tenue de l’assemblée, la coopérative de crédit fédérale peut, pendant le délai réglementaire qui suit la tenue de l’assemblée, refuser de joindre à l’avis d’assemblée toute proposition soumise par l’auteur.
+
+**Immunité**
+
+- **(10)** La coopérative de crédit fédérale ou ses mandataires n’engagent pas leur responsabilité en diffusant une proposition.
+> 2010, ch. 12, art. 1957.
+
+
+
+
+
+**Refus d’inclure une proposition**
+
+**144.2** 
+
+- **(1)** La coopérative de crédit fédérale qui a l’intention de refuser de joindre une proposition à l’avis d’assemblée prévu à l’article 138 doit, dans le délai réglementaire suivant la réception par la coopérative de crédit fédérale de la preuve exigée en vertu du paragraphe 144.1(5) ou de la réception de la proposition, selon le cas, en donner par écrit un avis motivé à la personne qui l’a soumise.
+
+**Ordonnance empêchant la tenue de l’assemblée**
+
+- **(2)** Sur demande de l’auteur de la proposition qui prétend avoir subi un préjudice à la suite du refus mentionné au paragraphe (1), le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée et notamment, empêcher la tenue de l’assemblée à laquelle la proposition devait être présentée.
+
+**Ordonnance de ne pas joindre la proposition**
+
+- **(3)** La coopérative de crédit fédérale ou toute personne qui prétend qu’une proposition lui cause un préjudice peut demander au tribunal une ordonnance autorisant la coopérative de crédit fédérale à ne pas la joindre à l’avis d’assemblée; le tribunal, s’il est convaincu que le paragraphe 144.1(7) s’applique, peut rendre toute décision qu’il estime indiquée.
+
+**Avis au surintendant**
+
+- **(4)** Dans les deux cas visés aux paragraphes (2) et (3), l’auteur de la demande doit en donner avis écrit au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
+> 2010, ch. 12, art. 1957.
+
+
+
+
+
 **Liste des actionnaires**
 
 **145** 
 
 - **(1)** La banque dresse la liste alphabétique des actionnaires qui ont le droit de recevoir avis d’une assemblée en y mentionnant le nombre d’actions détenues par chacun :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)c), dans les dix jours suivant cette date;
+	- **b)** à défaut d’une telle fixation, à la date de référence prévue à l’alinéa 137(6)a).
+
+**Liste des membres**
+
+- **(1.1)** La coopérative de crédit fédérale dresse également la liste alphabétique des membres qui ont le droit de recevoir avis d’une assemblée :
 	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)c), dans les dix jours suivant cette date;
 	- **b)** à défaut d’une telle fixation, à la date de référence prévue à l’alinéa 137(6)a).
 
@@ -2942,16 +3793,28 @@ Est exclus de la présente définition le document attestant un dépôt.
 	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant cette date;
 	- **b)** si la date de référence n’a pas été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant la date de référence fixée en vertu de l’alinéa 137(5)c) ou au plus tard à celle prévue à l’alinéa 137(6)a), selon le cas.
 
+**Liste des membres habiles à voter**
+
+- **(2.1)** La coopérative de crédit fédérale dresse également la liste alphabétique des membres habiles à voter à la date de référence :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant cette date;
+	- **b)** si la date de référence n’a pas été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant la date de référence fixée en vertu de l’alinéa 137(5)c) ou au plus tard à celle prévue à l’alinéa 137(6)a), selon le cas.
+
 **Habilité à voter**
 
 - **(3)** Sous réserve de l’article 156.09, les actionnaires dont le nom figure sur la liste dressée en vertu du paragraphe (2) sont habiles à exercer les droits de vote attachés aux actions figurant en regard de leur nom.
 
 **Examen de la liste**
 
-- **(4)** Les actionnaires peuvent prendre connaissance de la liste :
+- **(4)** Les actionnaires d’une banque qui n’est pas une coopérative de crédit fédérale peuvent prendre connaissance de la liste :
 	- **a)** au siège de la banque ou au lieu où est tenu son registre central des valeurs mobilières, pendant les heures normales d’ouverture;
 	- **b)** lors de l’assemblée pour laquelle elle a été dressée.
-> 1991, ch. 46, art. 145; 2001, ch. 9, art. 65; 2005, ch. 54, art. 22.
+
+**Consultation de la liste**
+
+- **(5)** Les personnes habiles à voter à l’assemblée d’une coopérative de crédit fédérale peuvent prendre connaissance de la liste de cette assemblée :
+	- **a)** au siège de la coopérative de crédit fédérale ou au lieu où est tenu son registre central des valeurs mobilières ou son registre des membres, pendant les heures normales d’ouverture;
+	- **b)** lors de l’assemblée pour laquelle elle a été dressée.
+> 1991, ch. 46, art. 145; 2001, ch. 9, art. 65; 2005, ch. 54, art. 22; 2010, ch. 12, art. 1958.
 
 
 
@@ -2963,13 +3826,19 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 - **(1)** Sauf disposition contraire des règlements administratifs, le quorum est atteint lorsque les détenteurs d’actions disposant de plus de cinquante pour cent des voix sont présents ou représentés.
 
+**Quorum — membres**
+
+- **(2)** Sauf disposition contraire des règlements administratifs, le quorum est atteint à une assemblée de membres d’une coopérative de crédit fédérale lorsqu’au moins un pour cent du nombre total des membres habiles à y voter — jusqu’à concurrence de cinq cents — sont présents ou représentés.
+
 **Existence du quorum à l’ouverture**
 
-- **(2)** Sauf disposition contraire des règlements administratifs, il suffit que le quorum soit atteint à l’ouverture de l’assemblée pour que les actionnaires puissent délibérer.
+- **(3)** Sauf disposition contraire des règlements administratifs, il suffit que le quorum soit atteint à l’ouverture de l’assemblée pour que les actionnaires ou les membres, selon le cas, puissent délibérer.
 
 **Ajournement**
 
-- **(3)** À défaut de quorum à l’ouverture de l’assemblée, les actionnaires présents ne peuvent délibérer que sur son ajournement aux date, heure et lieu qu’ils fixent.
+- **(4)** À défaut de quorum à l’ouverture de l’assemblée, les actionnaires ou les membres présents ne peuvent délibérer que sur son ajournement aux date, heure et lieu qu’ils fixent.
+> 1991, ch. 46, art. 146; 2010, ch. 12, art. 1959.
+
 
 
 
@@ -2990,15 +3859,17 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 
 
-**Représentant**
+**Représentant d’un membre ou d’un actionnaire**
 
 **149** 
 
-- **(1)** La banque doit permettre à toute personne physique accréditée par résolution du conseil d’administration, ou de la direction d’une entité faisant partie de ses actionnaires, de représenter l’entité à ses assemblées.
+- **(1)** La banque doit permettre à toute personne physique accréditée par résolution du conseil d’administration, ou de la direction d’une entité faisant partie de ses actionnaires ou de ses membres, de représenter l’entité à ses assemblées.
 
 **Pouvoirs du représentant**
 
-- **(2)** La personne physique accréditée en vertu du paragraphe (1) peut exercer, pour le compte de l’entité qu’elle représente, tous les pouvoirs d’une personne physique et d’un actionnaire.
+- **(2)** La personne physique accréditée en vertu du paragraphe (1) peut exercer, pour le compte de l’entité qu’elle représente, tous les pouvoirs d’une personne physique et d’un actionnaire ou d’un membre.
+> 1991, ch. 46, art. 149; 2010, ch. 12, art. 1960.
+
 
 
 
@@ -3014,11 +3885,11 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **151** 
 
-- **(1)** Sauf disposition contraire des règlements administratifs, le vote lors d’une assemblée se fait à main levée ou, sur demande de tout actionnaire ou fondé de pouvoir habile à voter, au scrutin secret.
+- **(1)** Sauf disposition contraire des règlements administratifs, le vote lors d’une assemblée se fait à main levée ou, sur demande de toute personne habile à voter, au scrutin secret.
 
 **Scrutin secret**
 
-- **(2)** Les actionnaires ou les fondés de pouvoir peuvent demander un vote au scrutin secret avant ou après tout vote à main levée.
+- **(2)** Les personnes habiles à voter peuvent demander un vote au scrutin secret avant ou après tout vote à main levée.
 
 **Vote par moyen de communication électronique**
 
@@ -3026,12 +3897,18 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Vote en cas de participation par moyen de communication électronique**
 
-- **(4)** Sauf disposition contraire des règlements administratifs, toute personne participant à une assemblée des actionnaires de la manière prévue au paragraphe 136(2) et habile à y voter peut le faire par le moyen de communication téléphonique, électronique ou autre mis à sa disposition par la banque à cette fin.
+- **(4)** Sauf disposition contraire des règlements administratifs, toute personne participant à une assemblée de la manière prévue au paragraphe 136(2) et habile à y voter peut le faire par le moyen de communication téléphonique, électronique ou autre mis à sa disposition par la banque à cette fin.
+
+**Vote par voie de courrier**
+
+- **(5)** Les règlements administratifs d’une coopérative de crédit fédérale peuvent, sous réserve des règlements, autoriser les membres à exercer leur droit de vote par voie de courrier et fixer les conditions qui s’y appliquent.
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut prendre des règlements concernant la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée des actionnaires ainsi que les exigences à respecter dans le cadre du vote.
-> 1991, ch. 46, art. 151; 2005, ch. 54, art. 23.
+- **(6)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée des actionnaires ou des membres ainsi que les exigences à respecter dans le cadre du vote;
+	- **b)** concernant les modalités du vote par voie de courrier des membres de la coopérative de crédit fédérale.
+> 1991, ch. 46, art. 151; 2005, ch. 54, art. 23; 2010, ch. 12, art. 1961.
 
 
 
@@ -3041,7 +3918,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **152** 
 
-- **(1)** À l’exception de la déclaration écrite visée à l’article 174 ou au paragraphe 321(1), la résolution écrite, signée de tous les actionnaires habiles à voter en l’occurrence :
+- **(1)** À l’exception de la déclaration écrite visée à l’article 174 ou au paragraphe 321(1), la résolution écrite, signée de toutes les personnes habiles à voter en l’occurrence :
 	- **a)** a la même valeur que si elle avait été adoptée lors d’une assemblée;
 	- **b)** satisfait aux exigences de la présente loi concernant les assemblées, si elle porte sur toutes les questions devant légalement être examinées par celles-ci.
 
@@ -3052,7 +3929,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 **Preuve**
 
 - **(3)** Sauf si un vote par scrutin est demandé, l’inscription au procès-verbal de l’assemblée précisant que le président a déclaré une résolution adoptée ou rejetée fait foi, sauf preuve contraire, de ce fait, sans qu’il soit nécessaire de prouver le nombre ou la proportion des voix en faveur de cette résolution ou contre elle.
-> 1991, ch. 46, art. 152; 2005, ch. 54, art. 24.
+> 1991, ch. 46, art. 152; 2005, ch. 54, art. 24; 2010, ch. 12, art. 1962.
 
 
 
@@ -3064,16 +3941,20 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 - **(1)** Les détenteurs de cinq pour cent au moins des actions en circulation émises par la banque et conférant le droit de vote à l’assemblée dont la tenue est demandée peuvent exiger des administrateurs la convocation d’une assemblée aux fins qu’ils précisent dans leur requête.
 
+**Demande de convocation — membres**
+
+- **(1.1)** Au moins deux membres d’une coopérative de crédit fédérale habiles à voter lors d’une assemblée dont la tenue est demandée, ou un pour cent du nombre total de membres habiles à y voter, selon le nombre qui est le plus élevé, peuvent exiger des administrateurs la convocation d’une assemblée des membres ou des membres et actionnaires aux fins qu’ils précisent dans leur requête à cet effet.
+
 **Forme**
 
-- **(2)** La requête, qui doit énoncer les points à inscrire à l’ordre du jour de la future assemblée et être envoyée à chaque administrateur ainsi qu’au siège de la banque, peut consister en plusieurs documents de forme analogue signés par au moins un des actionnaires.
+- **(2)** La requête, qui doit énoncer les points à inscrire à l’ordre du jour de la future assemblée et être envoyée à chaque administrateur ainsi qu’au siège de la banque, peut consister en plusieurs documents de forme analogue signés par au moins un des actionnaires ou des membres, selon le cas.
 
 **Convocation de l’assemblée par les administrateurs**
 
-- **(3)** Dès réception de la requête, les administrateurs convoquent une assemblée pour délibérer des questions qui y sont énoncées, sauf dans l’un ou l’autre des cas suivants :
+- **(3)** Dès réception de la requête, les administrateurs convoquent une assemblée pour délibérer des questions qui y sont énoncées, sauf dans l’un ou l’autre des cas suivants :
 	- **a)** l’avis de la fixation d’une date de référence au titre de l’alinéa 137(5)c) a été donné conformément au paragraphe 137(7);
 	- **b)** ils ont déjà convoqué une assemblée et envoyé l’avis prévu à l’article 138;
-	- **c)** les questions énoncées dans la requête relèvent des cas visés aux alinéas 143(5)b) à e).
+	- **c)** les questions énoncées dans la requête relèvent des cas visés aux alinéas 143(5)b) à e) ou 144.1(8)b) à e).
 
 **Convocation de l’assemblée par les actionnaires**
 
@@ -3085,8 +3966,8 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Remboursement**
 
-- **(6)** Sauf adoption par les actionnaires d’une résolution à l’effet contraire lors d’une assemblée convoquée conformément au paragraphe (4), la banque rembourse aux actionnaires les dépenses entraînées par la requête, la convocation et la tenue de l’assemblée.
-> 1991, ch. 46, art. 153; 2005, ch. 54, art. 25.
+- **(6)** Sauf adoption par les actionnaires ou les membres d’une résolution à l’effet contraire lors d’une assemblée convoquée conformément au paragraphe (4), la banque leur rembourse les dépenses entraînées par la requête, la convocation et la tenue de l’assemblée.
+> 1991, ch. 46, art. 153; 2005, ch. 54, art. 25; 2010, ch. 12, art. 1963.
 
 
 
@@ -3096,7 +3977,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **154** 
 
-- **(1)** S’il l’estime à propos, notamment lorsque la convocation régulière d’une assemblée ou la tenue de celle-ci conformément aux règlements administratifs et à la présente loi est pratiquement impossible, le tribunal peut, par ordonnance, à la demande d’un administrateur, d’un actionnaire habile à voter ou du surintendant, prévoir la convocation ou la tenue d’une assemblée conformément à ses directives.
+- **(1)** S’il l’estime à propos, notamment lorsque la convocation régulière d’une assemblée ou la tenue de celle-ci conformément aux règlements administratifs et à la présente loi est pratiquement impossible, le tribunal peut, par ordonnance, à la demande d’un administrateur, d’une personne habile à voter à une assemblée des actionnaires ou des membres ou du surintendant, prévoir la convocation ou la tenue d’une assemblée conformément à ses directives.
 
 **Modification du quorum**
 
@@ -3105,7 +3986,7 @@ Est exclus de la présente définition le document attestant un dépôt.
 **Validité de l’assemblée**
 
 - **(3)** L’assemblée convoquée et tenue en application du présent article est, à toutes fins, régulière.
-> 1991, ch. 46, art. 154; 2005, ch. 54, art. 26.
+> 1991, ch. 46, art. 154; 2005, ch. 54, art. 26; 2010, ch. 12, art. 1964.
 
 
 
@@ -3115,15 +3996,18 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **155** 
 
-- **(1)** La banque, ainsi que tout actionnaire ou administrateur, peut demander au tribunal de trancher tout différend relatif à l’élection ou nomination d’un administrateur ou à la nomination d’un vérificateur.
+- **(1)** La banque, ainsi que tout actionnaire, membre ou administrateur, peut demander au tribunal de trancher tout différend relatif à l’élection ou nomination d’un administrateur ou à la nomination d’un vérificateur.
 
 **Pouvoirs du tribunal**
 
-- **(2)** Saisi d’une telle demande, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée, notamment :
+- **(2)** Saisi d’une telle demande, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée, notamment :
 	- **a)** enjoindre à l’administrateur ou au vérificateur dont l’élection ou la nomination est contestée, de s’abstenir d’agir jusqu’au règlement du litige;
 	- **b)** proclamer le résultat de l’élection ou de la nomination litigieuse;
 	- **c)** ordonner une nouvelle élection ou nomination en donnant des instructions pour la conduite, dans l’intervalle, de l’activité commerciale et des affaires internes de la banque;
-	- **d)** préciser les droits de vote des actionnaires et des personnes prétendant être propriétaires d’actions.
+	- **d)** préciser les droits de vote des actionnaires et des personnes prétendant être propriétaires d’actions;
+	- **e)** préciser les droits de vote des membres et des personnes prétendant être membres.
+> 1991, ch. 46, art. 155; 2010, ch. 12, art. 1965.
+
 
 
 
@@ -3369,6 +4253,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 - **(2)** Lors d’une assemblée des actionnaires d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars, il est interdit à toute personne, ou à toute entité qu’elle contrôle, pour ce qui est des actions dont elle a la propriété effective, d’exprimer au total sur une question particulière, dans le cadre d’un vote des actionnaires ou des détenteurs de catégories ou séries d’actions, un nombre de voix supérieur à vingt pour cent des voix possibles sur la question.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(2.1)** Le paragraphe (2) ne s’applique pas à l’égard d’une assemblée des actionnaires ou des membres d’une coopérative de crédit fédérale.
+
 **Fondé de pouvoir**
 
 - **(3)** L’interdiction visée au paragraphe (2) vise aussi le fondé de pouvoir de la personne ou de l’entité visée à ce paragraphe.
@@ -3408,7 +4296,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Désignation par le ministre**
 
 - **(12)** Pour l’application du présent article, le ministre peut, pour une banque donnée, désigner plusieurs personnes qui sont partie à l’entente, l’accord ou l’engagement prévu à l’article 9 comme ne constituant qu’une seule personne.
-> 2001, ch. 9, art. 67; 2007, ch. 6, art. 132; 2012, ch. 5, art. 6.
+> 2001, ch. 9, art. 67; 2007, ch. 6, art. 132; 2010, ch. 12, art. 1966; 2012, ch. 5, art. 6.
 
 
 
@@ -3488,6 +4376,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
+**Qualités requises des administrateurs**
+
+**159.1** Au moins deux tiers des administrateurs, ou une proportion supérieure prévue par les règlements administratifs, doivent être membres de la coopérative de crédit fédérale soit à titre personnel, soit en tant que représentants de membres.
+> 2010, ch. 12, art. 1967.
+
+
+
+
+
 **Incapacité d’exercice**
 
 **160** Ne peuvent être administrateurs les personnes :
@@ -3500,8 +4397,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **f.1)** qui sont des administrateurs, dirigeants employés ou mandataires d’un mandataire admissible au sens du paragraphe 370(1) ou qui agissent au nom d’un tel mandataire;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
-- **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2012, ch. 19, art. 330, ch. 31, art. 109.
+- **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires;
+- **j)** qui, dans le cas d’une coopérative de crédit fédérale, ne se conforment pas aux exigences des règlements administratifs.
+> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2010, ch. 12, art. 1968; 2012, ch. 19, art. 330, ch. 31, art. 109.
 
 
 
@@ -3541,8 +4439,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Prise d’effet et révocation**
 
-- **(2)** La décision du surintendant prend effet à la date de l’assemblée annuelle des actionnaires suivante à moins d’être révoquée par écrit avant cette date. Il peut également révoquer par un avis écrit la décision qui a déjà pris effet, auquel cas la révocation prend effet à la date de l’assemblée suivante.
-> 1996, ch. 6, art. 5.
+- **(2)** La décision du surintendant prend effet à la date de l’assemblée annuelle suivante des personnes habiles à élire les administrateurs à moins d’être révoquée par écrit avant cette date. Il peut également révoquer par un avis écrit la décision qui a déjà pris effet, auquel cas la révocation prend effet à la date de l’assemblée suivante.
+> 1996, ch. 6, art. 5; 2010, ch. 12, art. 1969.
 
 
 
@@ -3560,11 +4458,13 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Appartenance au groupe**
 
-- **(3)** Pour l’application du paragraphe (1), l’appartenance ou la non-appartenance d’une personne au groupe de la banque est déterminée à la date d’envoi aux actionnaires de l’avis prévu à l’article 138; la personne est réputée appartenir ou non au groupe, selon le cas, jusqu’à la prochaine assemblée annuelle des actionnaires.
+- **(3)** Pour l’application du paragraphe (1), l’appartenance ou la non-appartenance d’une personne au groupe de la banque est déterminée à la date d’envoi de l’avis prévu à l’article 138; la personne est réputée appartenir ou non au groupe, selon le cas, jusqu’à la prochaine assemblée annuelle des actionnaires ou des membres, selon le cas.
 
 **Disposition transitoire**
 
 - **(4)** Le paragraphe (1) ne s’applique à la banque qui existait immédiatement avant la date d’entrée en vigueur du paragraphe (1) que trois ans après cette entrée en vigueur.
+> 1991, ch. 46, art. 163; 2010, ch. 12, art. 1970.
+
 
 
 
@@ -3580,15 +4480,21 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Nombre**
+**Nombre — banque**
 
 **165** 
 
-- **(1)** Sous réserve du paragraphe 159(1) et des articles 168 et 217, les administrateurs doivent, par règlement administratif, déterminer leur nombre fixe ou leur nombre minimal et maximal; toutefois, le règlement administratif qui réduit le nombre des administrateurs n’a pas pour effet de réduire la durée du mandat des administrateurs en fonction.
+- **(1)** Sous réserve du paragraphe 159(1) et des articles 168 et 217, les administrateurs d’une banque qui n’est pas une coopérative de crédit fédérale doivent, par règlement administratif, déterminer leur nombre fixe ou leur nombre minimal et maximal; toutefois, le règlement administratif qui réduit le nombre des administrateurs n’a pas pour effet de réduire la durée du mandat des administrateurs en fonction.
+
+**Nombre d’administrateurs — coopérative de crédit fédérale**
+
+- **(2)** Sous réserve du paragraphe 159(1), les membres d’une coopérative de crédit fédérale déterminent, par règlement administratif, le nombre d’administrateurs ou leur nombre minimal et maximal.
 
 **Élection à l’assemblée annuelle**
 
-- **(2)** Le règlement administratif pris conformément au paragraphe (1) et déterminant le nombre minimal et maximal d’administrateurs peut prévoir que le nombre d’administrateurs à élire à l’assemblée annuelle est fixé au préalable par les administrateurs.
+- **(3)** Le règlement administratif pris conformément aux paragraphes (1) ou (2) et déterminant le nombre minimal et maximal d’administrateurs peut prévoir que le nombre d’administrateurs à élire à l’assemblée annuelle est fixé au préalable par les administrateurs.
+> 1991, ch. 46, art. 165; 2010, ch. 12, art. 1971.
+
 
 
 
@@ -3628,7 +4534,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exigences relatives au mandat**
 
-- **(6)** Sous réserve du paragraphe 163(4), dans le cas où un administrateur est élu ou nommé pour un mandat de plus d’un an, la banque doit se conformer aux paragraphes 159(2) et 163(1) et à l’article 164 à chaque assemblée annuelle des actionnaires pendant le mandat de l’administrateur comme s’il s’agissait de la date de son élection ou de sa nomination.
+- **(6)** Sous réserve du paragraphe 163(4), dans le cas où un administrateur est élu ou nommé pour un mandat de plus d’un an, la banque doit se conformer aux paragraphes 159(2) et 163(1) et à l’article 164 à chaque assemblée annuelle pendant le mandat de l’administrateur comme s’il s’agissait de la date de son élection ou de sa nomination.
+> 1991, ch. 46, art. 166; 2010, ch. 12, art. 1972.
+
 
 
 
@@ -3692,6 +4600,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
+**Vote cumulatif interdit**
+
+**168.1** Malgré l’article 168 ou ses règlements administratifs, le vote cumulatif n’est pas permis dans le cas d’une coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1973.
+
+
+
+
+
 **Renouvellement de mandat**
 
 **169** L’administrateur qui a terminé son mandat peut, s’il a par ailleurs les qualités requises, recevoir un nouveau mandat.
@@ -3711,22 +4628,22 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Élection incomplète**
 
-- **(2)** Si, à la clôture d’une assemblée des actionnaires, ceux-ci n’ont pas élu le nombre fixe ou minimal d’administrateurs requis par la présente loi ou les règlements administratifs de la banque, l’élection des administrateurs est :
+- **(2)** Si, à la clôture d’une assemblée des actionnaires ou des membres, ceux-ci n’ont pas élu le nombre fixe ou minimal d’administrateurs requis par la présente loi ou les règlements administratifs de la banque, l’élection des administrateurs est :
 	- **a)** valide, si le nombre de ceux-ci et de ceux encore en fonction est suffisant pour former quorum;
 	- **b)** nulle, dans le cas contraire.
 
 - **(3) et (4)** [Abrogés, 1997, ch. 15, art. 15]
-> 1991, ch. 46, art. 170; 1997, ch. 15, art. 15.
+> 1991, ch. 46, art. 170; 1997, ch. 15, art. 15; 2010, ch. 12, art. 1974.
 
 
 
 
 
-**Administrateurs en cas d’élection incomplète ou nulle**
+**Administrateurs en cas d’élection ou de nomination incomplète ou nulle**
 
 **171** 
 
-- **(1)** Si, à la clôture d’une assemblée quelconque des actionnaires, les paragraphes 170(1) ou (2) s’appliquent, par dérogation aux paragraphes 166(2) et (3) et aux alinéas 168(1)f) et 172(1)a), le conseil d’administration se compose, jusqu’à l’élection ou la nomination des remplaçants :
+- **(1)** Si, à la clôture d’une assemblée quelconque des actionnaires ou des membres, les paragraphes 170(1) ou (2) s’appliquent, malgré les paragraphes 166(2) et (3) et les alinéas 168(1)f) et 172(1)a), le conseil d’administration se compose, jusqu’à l’élection ou la nomination des remplaçants :
 	- **a)** dans les cas d’application de l’alinéa 170(2)a), des administrateurs mentionnés à cet alinéa;
 	- **b)** dans les cas d’application du paragraphe 170(1) ou de l’alinéa 170(2)b), des administrateurs qui étaient en fonction avant l’assemblée.
 
@@ -3736,12 +4653,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Convocation de l’assemblée par les administrateurs**
 
-- **(3)** Le cas échéant, le conseil d’administration convoque sans délai une assemblée extraordinaire des actionnaires afin soit de pourvoir aux postes encore vacants dans les cas d’application de l’alinéa 170(2)a), soit d’élire un nouveau conseil d’administration dans les cas d’application du paragraphe 170(1) ou de l’alinéa 170(2)b).
+- **(3)** Le cas échéant, le conseil d’administration convoque sans délai une assemblée extraordinaire des actionnaires ou des membres, selon le cas, afin soit de pourvoir aux postes encore vacants dans les cas d’application de l’alinéa 170(2)a), soit d’élire un nouveau conseil d’administration dans les cas d’application du paragraphe 170(1) ou de l’alinéa 170(2)b).
 
-**Convocation de l’assemblée par les actionnaires**
+**Convocation de l’assemblée par les personnes habiles à voter**
 
-- **(4)** Les actionnaires peuvent convoquer l’assemblée extraordinaire prévue par le paragraphe (3) si les administrateurs négligent de le faire.
-> 1991, ch. 46, art. 171; 1997, ch. 15, art. 16.
+- **(4)** Les personnes habiles à voter à l’assemblée extraordinaire prévue par le paragraphe (3) peuvent la convoquer si les administrateurs négligent de le faire.
+> 1991, ch. 46, art. 171; 1997, ch. 15, art. 16; 2010, ch. 12, art. 1975.
 
 
 
@@ -3771,15 +4688,25 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **173** 
 
-- **(1)** Sous réserve de l’alinéa 168(1)g), les actionnaires peuvent, par résolution votée à une assemblée extraordinaire, révoquer un, plusieurs ou tous les administrateurs.
+- **(1)** Sous réserve de l’alinéa 168(1)g), les actionnaires d’une banque qui n’est pas une coopérative de crédit fédérale peuvent, par résolution votée à une assemblée extraordinaire des actionnaires, révoquer un, plusieurs ou tous les administrateurs.
+
+**Révocation des administrateurs — coopérative de crédit fédérale**
+
+- **(1.1)** Tout administrateur d’une coopérative de crédit fédérale peut être révoqué par résolution votée lors d’une assemblée extraordinaire des personnes habiles à voter pour l’élection de cet administrateur.
 
 **Exception**
 
 - **(2)** La résolution de révocation d’un administrateur ne peut toutefois être votée, s’il y a lieu, que par les actionnaires ayant le droit exclusif de l’élire.
 
+**Exception — membres**
+
+- **(2.1)** La résolution de révocation d’un administrateur ne peut toutefois être votée, s’il y a lieu, que par les membres de la coopérative de crédit fédérale ayant le droit exclusif de l’élire.
+
 **Vacances**
 
 - **(3)** Sous réserve des alinéas 168(1)b) à e), toute vacance découlant d’une révocation peut être comblée lors de l’assemblée qui a prononcé celle-ci ou, à défaut, conformément aux articles 177 ou 178.
+> 1991, ch. 46, art. 173; 2010, ch. 12, art. 1976.
+
 
 
 
@@ -3788,14 +4715,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **174** 
 
-- **(1)** Peut, dans une déclaration écrite, exposer à la banque les raisons de sa démission ou de son opposition aux mesures ou résolutions proposées l’administrateur qui :
+- **(1)** Peut, dans une déclaration écrite, exposer à la banque les raisons de sa démission ou de son opposition aux mesures ou résolutions proposées l’administrateur qui :
 	- **a)** soit démissionne;
 	- **b)** soit apprend, notamment par avis, qu’une assemblée a été convoquée en vue de le révoquer;
-	- **c)** soit apprend, notamment par avis, qu’une réunion du conseil d’administration ou une assemblée d’actionnaires ont été convoquées en vue de nommer ou d’élire son remplaçant, par suite de sa démission, de sa révocation ou de l’expiration de son mandat.
+	- **c)** soit apprend, notamment par avis, qu’une réunion du conseil d’administration ou une assemblée d’actionnaires ou des membres ont été convoquées en vue de nommer ou d’élire son remplaçant, par suite de sa démission, de sa révocation ou de l’expiration de son mandat.
 
 **Déclaration en cas de désaccord**
 
 - **(2)** L’administrateur qui démissionne en raison d’un désaccord avec les autres administrateurs ou avec les dirigeants de la banque doit, dans une déclaration écrite, exposer à la banque et au surintendant la nature du désaccord.
+> 1991, ch. 46, art. 174; 2010, ch. 12, art. 1977.
+
 
 
 
@@ -3804,12 +4733,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **175** 
 
-- **(1)** La banque envoie sans délai, au surintendant et aux actionnaires qui doivent recevoir avis des assemblées, copie de la déclaration visée au paragraphe 174(1) concernant une question mentionnée aux alinéas 174(1)b) ou c) ou de la déclaration visée au paragraphe 174(2), sauf si elle figure dans une circulaire de sollicitation de procurations envoyée par la direction conformément au paragraphe 156.05(1).
+- **(1)** La banque qui n’est pas une coopérative de crédit fédérale envoie sans délai, au surintendant et aux actionnaires qui doivent recevoir avis des assemblées, copie de la déclaration visée au paragraphe 174(1) concernant une question mentionnée aux alinéas 174(1)b) ou c) ou de la déclaration visée au paragraphe 174(2), sauf si elle figure dans une circulaire de sollicitation de procurations envoyée par la direction conformément au paragraphe 156.05(1).
+
+**Diffusion de la déclaration — membres**
+
+- **(2)** La coopérative de crédit fédérale envoie sans délai, au surintendant, aux membres et, si les administrateurs ont été élus par les détenteurs d’actions d’une catégorie, à ces actionnaires, copie de la déclaration visée au paragraphe 174(1) concernant une question mentionnée aux alinéas 174(1)b) ou c) ou de la déclaration visée au paragraphe 174(2).
 
 **Immunité**
 
-- **(2)** La banque ou ses mandataires n’engagent pas leur responsabilité en diffusant, conformément au paragraphe (1), la déclaration faite par un administrateur.
-> 1991, ch. 46, art. 175; 1997, ch. 15, art. 17.
+- **(3)** La banque ou ses mandataires n’engagent pas leur responsabilité en diffusant, conformément aux paragraphes (1) ou (2), la déclaration faite par un administrateur.
+> 1991, ch. 46, art. 175; 1997, ch. 15, art. 17; 2010, ch. 12, art. 1978.
 
 
 
@@ -3817,9 +4750,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Élection par actionnaires**
 
-**176** Les règlements administratifs peuvent prévoir que les vacances au sein du conseil d’administration seront comblées uniquement à la suite d’un vote :
-- **a)** soit de tous les actionnaires;
-- **b)** soit de ceux ayant le droit exclusif de le faire.
+**176** 
+
+- **(1)** Les règlements administratifs d’une banque qui n’est pas une coopérative de crédit fédérale peuvent prévoir que les vacances au sein du conseil d’administration seront comblées uniquement à la suite d’un vote :
+	- **a)** soit de tous les actionnaires;
+	- **b)** soit de ceux ayant le droit exclusif de le faire.
+
+**Comblement des vacances — coopérative de crédit fédérale**
+
+- **(2)** Les règlements administratifs d’une coopérative de crédit fédérale peuvent prévoir que les vacances au sein du conseil d’administration sont comblées uniquement à la suite d’une élection ou d’une nomination, soit par les seuls membres, soit par les personnes ayant le droit exclusif de le faire.
+> 1991, ch. 46, art. 176; 2010, ch. 12, art. 1978.
+
 
 
 
@@ -3839,13 +4780,13 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Administrateurs élus pour une catégorie d’actions**
+**Administrateurs élus pour une catégorie de personnes**
 
-**178** Par dérogation à l’article 183, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 176, être comblées :
-- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
+**178** Malgré l’article 183, les vacances survenues parmi les administrateurs qu’une catégorie déterminée de personnes a le droit exclusif d’élire peuvent, sous réserve de l’article 176, être comblées :
+- **a)** soit par les administrateurs en fonction élus par les personnes de cette catégorie, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonctions et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme à l’article 159, au paragraphe 163(1) ou à l’article 164, par les autres administrateurs en fonctions;
-- **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour combler les vacances.
-> 1991, ch. 46, art. 178; 2005, ch. 54, art. 35.
+- **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que cette catégorie de personnes peuvent convoquer pour combler les vacances.
+> 1991, ch. 46, art. 178; 2005, ch. 54, art. 35; 2010, ch. 12, art. 1979.
 
 
 
@@ -3868,7 +4809,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **179.1** 
 
-- **(1)** Les administrateurs de la banque peuvent nommer des administrateurs supplémentaires si les règlements administratifs en prévoient la possibilité et prévoient également un nombre minimal et maximal d’administrateurs.
+- **(1)** Les administrateurs de la banque qui n’est pas une coopérative de crédit fédérale peuvent nommer des administrateurs supplémentaires si les règlements administratifs en prévoient la possibilité et prévoient également un nombre minimal et maximal d’administrateurs.
 
 **Mandat**
 
@@ -3877,7 +4818,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Limite quant au nombre**
 
 - **(3)** Le nombre total des administrateurs ainsi nommés ne peut dépasser le tiers du nombre des administrateurs élus lors de la dernière assemblée annuelle.
-> 1997, ch. 15, art. 18.
+> 1997, ch. 15, art. 18; 2010, ch. 12, art. 1980.
 
 
 
@@ -3956,6 +4897,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **a)** parmi les administrateurs absents, un résident canadien approuve les délibérations par écrit, par communication téléphonique ou électronique ou par tout autre moyen de communication;
 	- **b)** la présence de cet administrateur aurait permis d’atteindre le nombre d’administrateurs requis.
 > 1991, ch. 46, art. 183; 2001, ch. 9, art. 75.
+
+
+
+
+
+**Administrateurs d’une coopérative de crédit fédérale**
+
+**183.01** Les administrateurs d’une coopérative de crédit fédérale qui a émis des actions permettant d’élire des administrateurs ne peuvent délibérer en conseil ou en comité que si la majorité des administrateurs présents sont des membres.
+> 2010, ch. 12, art. 1981.
 
 
 
@@ -4048,10 +4998,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 - **(1)** La banque doit tenir un registre de présence des administrateurs qui participent aux réunions du conseil d’administration ou de ses comités.
 
-**Envoi aux actionnaires**
+**Envoi aux actionnaires ou aux membres**
 
-- **(2)** La banque joint à l’avis d’assemblée annuelle envoyé à chaque actionnaire un extrait du registre indiquant le nombre total des réunions du conseil d’administration ou de ses comités et le nombre auquel chaque administrateur a assisté au cours de l’exercice précédent.
-> 1991, ch. 46, art. 186; 1997, ch. 15, art. 21.
+- **(2)** La banque joint à l’avis d’assemblée annuelle envoyé à chaque actionnaire ou membre, selon le cas, un extrait du registre indiquant le nombre total des réunions du conseil d’administration ou de ses comités et le nombre auquel chaque administrateur a assisté au cours de l’exercice précédent.
+> 1991, ch. 46, art. 186; 1997, ch. 15, art. 21; 2010, ch. 12, art. 1982.
 
 
 
@@ -4078,7 +5028,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **188** 
 
-- **(1)** Sauf disposition contraire de la présente loi, les administrateurs peuvent, par résolution, prendre, modifier ou révoquer tout règlement administratif régissant tant l’activité commerciale que les affaires internes de la banque.
+- **(1)** Sauf disposition contraire de la présente loi, les administrateurs d’une banque qui n’est pas une coopérative de crédit fédérale peuvent, par résolution, prendre, modifier ou révoquer tout règlement administratif régissant tant l’activité commerciale que les affaires internes de la banque.
 
 **Approbation des actionnaires**
 
@@ -4091,13 +5041,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Idem**
 
 - **(4)** Les mesures cessent d’avoir effet après leur rejet par les actionnaires ou, en cas d’inobservation du paragraphe (2) par les administrateurs, à compter de la date de l’assemblée des actionnaires suivante; toute résolution ultérieure des administrateurs, visant essentiellement le même but, ne peut entrer en vigueur qu’après sa confirmation ou sa modification par les actionnaires.
+> 1991, ch. 46, art. 188; 2010, ch. 12, art. 1983.
+
 
 
 
 
 **Proposition d’un actionnaire**
 
-**189** Tout actionnaire habile à voter à une assemblée annuelle peut, conformément aux articles 143 et 144, proposer la prise, la modification ou la révocation d’un règlement administratif.
+**189** Tout actionnaire habile à voter à une assemblée annuelle des actionnaires peut, conformément aux articles 143 et 144, proposer la prise, la modification ou la révocation d’un règlement administratif.
+> 1991, ch. 46, art. 189; 2010, ch. 12, art. 1984(F).
+
 
 
 
@@ -4134,13 +5088,188 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **192** 
 
-- **(1)** Les règlements administratifs de la banque sont réputés prévoir les questions dont, aux termes de la présente loi, ils devraient traiter et qui :
+- **(1)** Les règlements administratifs de la banque sont réputés prévoir les questions dont, aux termes de la présente loi, ils devraient traiter et qui :
 	- **a)** soit étaient prévues, avant la date d’entrée en vigueur du présent article, dans l’acte constitutif de la banque;
-	- **b)** soit étaient prévues, avant la date de prorogation d’une personne morale comme banque en vertu de la présente loi, dans l’acte constitutif de la personne morale.
+	- **b)** soit étaient prévues, avant la date de prorogation d’une personne morale comme banque qui n’est pas une coopérative de crédit fédérale, dans l’acte constitutif de la personne morale.
 
 **Abrogation ou modification**
 
 - **(2)** En cas de modification ou d’abrogation de ces questions, par un règlement administratif de la banque pris conformément aux articles 188 et 189, c’est ce dernier qui prévaut.
+> 1991, ch. 46, art. 192; 2010, ch. 12, art. 1985.
+
+
+
+
+
+**Contenu obligatoire**
+
+**192.01** 
+
+- **(1)** Les règlements administratifs de la coopérative de crédit fédérale prévoient obligatoirement :
+	- **a)** les qualités requises et la procédure d’acceptation des membres;
+	- **b)** les obligations rattachées au statut de membre, y compris l’obligation d’utiliser les services de la coopérative de crédit fédérale et la cotisation exigible;
+	- **c)** les droits des membres conjoints, le cas échéant;
+	- **d)** le fait qu’un délégué n’a qu’une seule voix peu importe qu’il représente plus d’un membre ou soit lui-même membre;
+	- **e)** toute limite quant au nombre de parts sociales;
+	- **f)** le choix, les qualités requises, la durée du mandat et la révocation des administrateurs et des membres des comités du conseil;
+	- **g)** le mode de répartition de l’excédent provenant de l’exploitation de la coopérative;
+	- **h)** les droits des membres qui se retirent ou qui sont exclus;
+	- **i)** si la coopérative de crédit fédérale décide que la présence à l’assemblée de la coopérative de crédit fédérale peut être assurée par tout moyen, autre qu’une présence physique, visé au paragraphe 136(2), les modalités de vote;
+	- **j)** la date de fin d’exercice de la coopérative de crédit fédérale.
+
+**Contenu facultatif**
+
+- **(2)** Les règlements administratifs de la coopérative de crédit fédérale peuvent prévoir toute autre question que les membres jugent nécessaire ou souhaitable, notamment :
+	- **a)** les limites relatives aux catégories de personnes admissibles au statut de membre, sous réserve des règles de droit applicables en matière de droits de la personne;
+	- **b)** la représentation de membres par des délégués;
+	- **c)** la distribution de ristournes;
+	- **d)** le mode de répartition du reliquat des biens dans le cas d’une liquidation et dissolution volontaire;
+	- **e)** la formule utilisée pour déterminer la valeur des parts sociales;
+	- **f)** la formule utilisée pour déterminer le prix de rachat des parts sociales;
+	- **g)** le vote par courrier.
+
+**Révocation des délégués**
+
+- **(3)** Si les règlements administratifs prévoient la représentation de membres par des délégués, ils doivent prévoir la procédure de révocation de ceux-ci.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Copies**
+
+**192.02** 
+
+- **(1)** Chacun des membres et des actionnaires peut, sur demande, au plus une fois par année civile, obtenir gratuitement une copie des lettres patentes et des règlements administratifs de la coopérative de crédit fédérale de même qu’une copie des modifications de ceux-ci.
+
+**Copies**
+
+- **(2)** Les créanciers peuvent obtenir une copie des lettres patentes et des règlements administratifs après paiement d’un droit raisonnable. Cette faculté doit être accordée à toute autre personne dans le cas d’une coopérative de crédit fédérale ayant fait appel au public.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Règlements administratifs — membres**
+
+**192.03** 
+
+- **(1)** Les membres peuvent, par résolution extraordinaire, prendre, modifier ou révoquer tout règlement administratif régissant tant les activités commerciales que les affaires internes de la coopérative de crédit fédérale, notamment pour changer sa dénomination sociale ou la province où se trouve son siège.
+
+**Règlements administratifs — administrateurs**
+
+- **(2)** Sauf disposition contraire des règlements administratifs de la coopérative de crédit fédérale, les administrateurs peuvent, par résolution extraordinaire, prendre un règlement administratif ou modifier tout règlement administratif de la coopérative de crédit fédérale, notamment pour changer sa dénomination sociale ou la province où se trouve son siège, à condition que le nouveau règlement ou le règlement modifié ne soit pas contraire à ceux pris par les membres.
+
+**Approbation**
+
+- **(3)** Les administrateurs soumettent les mesures prises au titre du paragraphe (2) à l’approbation, par résolution extraordinaire, avec ou sans modification, des membres dès l’assemblée suivante.
+
+**Défaut d’approbation**
+
+- **(4)** Les mesures qui ne sont pas confirmées, avec ou sans modification, en application du paragraphe (3) cessent d’avoir effet à la date de l’assemblée qui les infirment.
+
+**Approbation des actionnaires**
+
+- **(5)** L’entrée en vigueur des règlements administratifs ou de leurs modifications ou révocations prévus aux paragraphes (1) ou (2) est subordonnée à leur confirmation préalable par les actionnaires visés par une des situations prévues au paragraphe 218(1) par résolution extraordinaire distincte de chaque classe ou série intéressée conformément à l’article 218.
+
+**Entrée en vigueur**
+
+- **(6)** L’entrée en vigueur d’un règlement administratif pris en vertu des paragraphes (1) ou (2) concernant le changement de la dénomination sociale de la coopérative de crédit fédérale est subordonnée à l’approbation du surintendant.
+
+**Lettres patentes**
+
+- **(7)** En cas de changement de la dénomination sociale de la coopérative de crédit fédérale ou de la province où se trouve son siège, le surintendant peut délivrer des lettres patentes pour que l’acte constitutif soit modifié en conséquence.
+
+**Effet des lettres patentes**
+
+- **(8)** Les lettres patentes prennent effet à la date indiquée.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Proposition de règlement administratif**
+
+**192.04** Les membres peuvent, conformément à l’article 144.1, proposer la prise, la modification ou la révocation d’un règlement administratif.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Date d’effet — membres**
+
+**192.05** 
+
+- **(1)** Les mesures prises par les membres sont en vigueur à compter de la date de la résolution prise en application du paragraphe 192.03(1) ou de la date ultérieure qui est spécifiée dans le règlement administratif modifié ou abrogé.
+
+**Date d’effet — administrateurs**
+
+- **(2)** Les mesures prises par les administrateurs d’une coopérative de crédit fédérale sont en vigueur à compter de la date où elles sont prises ou de la date ultérieure qui est spécifiée dans les règlements administratifs et demeurent en vigueur jusqu’à leur confirmation; après confirmation au titre du paragraphe 192.03(3) elles demeurent en vigueur, selon le cas, dans leur teneur initiale ou modifiée; elles cessent d’avoir effet en cas d’application du paragraphe 192.03(4).
+
+**Défaut d’approbation**
+
+- **(3)** Les mesures prises en application du paragraphe 192.03(2) qui ne sont pas soumises à l’approbation prévue au paragraphe 192.03(3) cessent d’avoir effet à la date de l’assemblée à laquelle elles auraient dû l’être.
+
+**Nouvelle résolution des administrateurs**
+
+- **(4)** Si les mesures prises par les administrateurs en application du paragraphe 192.03(2) cessent d’avoir effet au titre du paragraphe (3) ou du paragraphe 192.03(4), toute résolution ultérieure des administrateurs, visant essentiellement le même but, ne peut prendre effet qu’après sa confirmation, avec ou sans modification, par les membres.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Règlements administratifs de la personne morale antérieure**
+
+**192.06** Sous réserve de l’article 192.05, tout règlement administratif d’une personne morale prorogée comme coopérative de crédit fédérale en vertu de la présente loi applicable continue de s’appliquer, sauf s’il est contraire à la présente loi, tant qu’il n’est pas modifié ou révoqué.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Résolutions existantes**
+
+**192.07** En cas de fixation par résolution du conseil d’administration, avant l’émission de lettres patentes en vertu de la présente loi, de la rémunération des administrateurs d’une personne morale prorogée comme coopérative de crédit fédérale, cette résolution demeure en vigueur, sauf incompatibilité avec la présente loi, jusqu’à la première assemblée des membres de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Présomption**
+
+**192.08** 
+
+- **(1)** Les règlements administratifs de la coopérative de crédit fédérale sont réputés prévoir les questions dont, aux termes de la présente loi, ils devraient traiter et qui étaient prévues, avant l’émission des lettres patentes de prorogation d’une personne morale comme coopérative de crédit fédérale, dans son acte constitutif.
+
+**Abrogation ou modification**
+
+- **(2)** En cas d’abrogation ou de modification de ces questions, par un règlement administratif de la coopérative de crédit fédérale pris conformément à l’article 192.03, c’est ce dernier qui prévaut.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Maintien des droits**
+
+**192.09** Les modifications des lettres patentes ou des règlements administratifs ne portent pas atteinte aux causes d’actions déjà nées pouvant engager la coopérative de crédit fédérale, ses administrateurs ou ses dirigeants, ni aux procédures civiles, pénales ou administratives auxquelles ils sont parties.
+> 2010, ch. 12, art. 1986.
+
+
+
+
+
+**Caractère obligatoire des règlements administratifs**
+
+**192.1** Sous réserve des autres dispositions de la présente loi, les règlements administratifs lient la coopérative de crédit fédérale et les membres comme s’ils les avaient dûment approuvés et comportaient un engagement de leur part qu’eux-mêmes, ainsi que leurs héritiers et cessionnaires, s’y conformeront.
+> 2010, ch. 12, art. 1986.
+
 
 
 
@@ -4269,7 +5398,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Interdictions**
 
-**198** Les administrateurs ne peuvent déléguer aucun des pouvoirs suivants :
+**198** Les administrateurs d’une banque qui n’est pas une coopérative de crédit fédérale ne peuvent déléguer aucun des pouvoirs suivants :
 - **a)** soumettre à l’examen des actionnaires des questions qui requièrent l’approbation de ces derniers;
 - **b)** combler les vacances au sein du conseil d’administration ou d’un de ses comités, pourvoir le ou les postes vacants de vérificateur ou nommer des administrateurs supplémentaires;
 - **c)** émettre ou faire émettre des valeurs mobilières, notamment des actions d’une série visée à l’article 62, sauf en conformité avec l’autorisation des administrateurs;
@@ -4279,7 +5408,27 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **g)** approuver les circulaires de la direction sollicitant des procurations;
 - **h)** sauf disposition contraire de la présente loi, approuver le rapport annuel ou les autres états financiers de la banque;
 - **i)** prendre, modifier ou révoquer des règlements administratifs.
-> 1991, ch. 46, art. 198; 1997, ch. 15, art. 25; 2005, ch. 54, art. 38.
+> 1991, ch. 46, art. 198; 1997, ch. 15, art. 25; 2005, ch. 54, art. 38; 2010, ch. 12, art. 1987.
+
+
+
+
+
+**Interdictions**
+
+**198.1** Les administrateurs d’une coopérative de crédit fédérale ne peuvent déléguer aucun des pouvoirs suivants :
+- **a)** soumettre à l’examen des membres ou des actionnaires des questions qui requièrent leur approbation;
+- **b)** autoriser l’adhésion de membres, sauf en conformité avec l’autorisation des membres;
+- **c)** combler les vacances au sein du conseil d’administration ou d’un de ses comités ou pourvoir le poste vacant de vérificateur;
+- **d)** émettre ou faire émettre des valeurs mobilières, notamment des actions d’une série visée à l’article 62, sauf en conformité avec l’autorisation des administrateurs;
+- **e)** déclarer des dividendes à l’égard des parts sociales ou des actions et attribuer une somme à titre de ristournes;
+- **f)** autoriser l’acquisition par la coopérative de crédit fédérale en vertu de l’article 71, notamment par rachat, des parts sociales et des actions émises par elle;
+- **g)** autoriser le versement d’une commission sur une émission d’actions;
+- **h)** approuver les circulaires de la direction sollicitant des procurations;
+- **i)** sauf disposition contraire de la présente loi, approuver le rapport annuel ou les autres états financiers de la coopérative de crédit fédérale;
+- **j)** expulser des membres;
+- **k)** prendre ou modifier des règlements administratifs.
+> 2010, ch. 12, art. 1988.
 
 
 
@@ -4315,7 +5464,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Présence aux assemblées**
 
-**201** Les administrateurs ont le droit d’assister à toutes les assemblées des actionnaires et d’y prendre la parole.
+**201** Les administrateurs ont le droit d’assister à toutes les assemblées des membres ou des actionnaires et d’y prendre la parole.
+> 1991, ch. 46, art. 201; 2010, ch. 12, art. 1989.
+
 
 
 
@@ -4350,8 +5501,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Moment de la communication**
 
-- **(4)** L’administrateur ou le dirigeant doit, dès qu’il a connaissance d’un contrat ou d’une opération d’importance, en cours ou projeté, qui, dans le cadre de l’activité commerciale normale de la banque, ne requiert l’approbation ni des administrateurs ni des actionnaires, communiquer par écrit à la banque ou demander que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans le contrat ou l’opération.
-> 1991, ch. 46, art. 202; 2005, ch. 54, art. 39.
+- **(4)** L’administrateur ou le dirigeant doit, dès qu’il a connaissance d’un contrat ou d’une opération d’importance, en cours ou projeté, qui, dans le cadre de l’activité commerciale normale de la banque, ne requiert pas l’approbation des administrateurs, des membres ou des actionnaires, communiquer par écrit à la banque ou demander que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans le contrat ou l’opération.
+> 1991, ch. 46, art. 202; 2005, ch. 54, art. 39; 2010, ch. 12, art. 1990.
 
 
 
@@ -4387,8 +5538,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Consultation**
 
-- **(2)** Les actionnaires de la banque peuvent consulter, pendant les heures normales d’ouverture de celle-ci, toute partie des procès-verbaux des réunions du conseil d’administration ou de ses comités ou de tout autre document dans lequel les intérêts d’un administrateur ou d’un dirigeant dans un contrat ou une opération sont communiqués en vertu du paragraphe 202(1).
-> 1991, ch. 46, art. 204; 2001, ch. 9, art. 77.1(F); 2005, ch. 54, art. 41.
+- **(2)** Les membres et actionnaires de la banque peuvent consulter, pendant les heures normales d’ouverture de celle-ci, toute partie des procès-verbaux des réunions du conseil d’administration ou de ses comités ou de tout autre document dans lequel les intérêts d’un administrateur ou d’un dirigeant dans un contrat ou une opération sont communiqués en vertu du paragraphe 202(1).
+> 1991, ch. 46, art. 204; 2001, ch. 9, art. 77.1(F); 2005, ch. 54, art. 41; 2010, ch. 12, art. 1991.
 
 
 
@@ -4398,18 +5549,20 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **205** 
 
-- **(1)** Le contrat ou l’opération assujetti à l’obligation de communication prévue au paragraphe 202(1) n’est pas entaché de nullité, et l’administrateur ou le dirigeant n’est pas tenu de rendre compte à la banque ou ses actionnaires des bénéfices qu’il en a tirés, pour la seule raison qu’il a un intérêt dans le contrat ou l’opération ou que l’administrateur était présent à la réunion au cours de laquelle le contrat ou l’opération a été étudié ou que sa présence a permis d’en atteindre le quorum, si les conditions suivantes sont réunies :
+- **(1)** Le contrat ou l’opération assujetti à l’obligation de communication prévue au paragraphe 202(1) n’est pas entaché de nullité, et l’administrateur ou le dirigeant n’est pas tenu de rendre compte à la banque, ses membres ou ses actionnaires des bénéfices qu’il en a tirés, pour la seule raison qu’il a un intérêt dans le contrat ou l’opération ou que l’administrateur était présent à la réunion au cours de laquelle le contrat ou l’opération a été étudié ou que sa présence a permis d’en atteindre le quorum, si les conditions ci-après sont réunies :
 	- **a)** l’administrateur ou le dirigeant a communiqué son intérêt conformément à l’article 202 et au paragraphe 204(1);
 	- **b)** les administrateurs de la banque ont approuvé le contrat ou l’opération;
 	- **c)** au moment de son approbation, le contrat ou l’opération était équitable pour la banque.
 
-**Confirmation par les actionnaires**
+**Confirmation**
 
-- **(2)** Même si les conditions visées au paragraphe (1) ne sont pas réunies, le contrat ou l’opération n’est pas entaché de nullité, et l’administrateur ou le dirigeant qui agit avec intégrité et bonne foi n’est pas tenu de rendre compte à la banque ou ses actionnaires des bénéfices qu’il en a tirés, au seul motif qu’il a un intérêt dans le contrat ou l’opération, si les conditions suivantes sont réunies :
-	- **a)** le contrat ou l’opération a été approuvé ou confirmé par résolution extraordinaire adoptée à une assemblée des actionnaires;
-	- **b)** l’intérêt a été communiqué aux actionnaires de façon suffisamment claire pour en indiquer la nature et l’étendue avant l’approbation ou la confirmation du contrat ou de l’opération;
+- **(2)** Même si les conditions visées au paragraphe (1) ne sont pas réunies, le contrat ou l’opération n’est pas entaché de nullité, et l’administrateur ou le dirigeant qui agit avec intégrité et bonne foi n’est pas tenu de rendre compte à la banque, ses membres ou ses actionnaires des bénéfices qu’il en a tirés, au seul motif qu’il a un intérêt dans le contrat ou l’opération, si les conditions ci-après sont réunies :
+	- **a)** le contrat ou l’opération a été approuvé ou confirmé par résolution extraordinaire adoptée :
+		- **(i)** dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, à une assemblée des actionnaires,
+		- **(ii)** dans le cas d’une coopérative de crédit fédérale, à une assemblée de ses membres et, le cas échéant, à une assemblée de ses actionnaires;
+	- **b)** l’intérêt a été communiqué aux actionnaires ou, dans le cas d’une coopérative de crédit fédérale, aux membres et aux actionnaires, le cas échéant, de façon suffisamment claire pour en indiquer la nature et l’étendue avant l’approbation ou la confirmation du contrat ou de l’opération;
 	- **c)** au moment de son approbation ou de sa confirmation, le contrat ou l’opération était équitable pour la banque.
-> 1991, ch. 46, art. 205; 2005, ch. 54, art. 41.
+> 1991, ch. 46, art. 205; 2005, ch. 54, art. 41; 2010, ch. 12, art. 1992.
 
 
 
@@ -4417,8 +5570,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Ordonnance du tribunal**
 
-**206** Le tribunal peut par ordonnance, sur demande de la banque — ou d’un actionnaire de celle-ci — dont l’un des administrateurs ou dirigeants ne se conforme pas aux articles 202 à 205, annuler le contrat ou l’opération selon les modalités qu’il estime indiquées et enjoindre à l’administrateur ou au dirigeant de rendre compte à la banque de tout bénéfice qu’il en a tiré.
-> 1991, ch. 46, art. 206; 2005, ch. 54, art. 41.
+**206** Le tribunal peut par ordonnance, sur demande de la banque — ou d’un membre ou d’un actionnaire de celle-ci — dont l’un des administrateurs ou dirigeants ne se conforme pas aux articles 202 à 205, annuler le contrat ou l’opération selon les modalités qu’il estime indiquées et enjoindre à l’administrateur ou au dirigeant de rendre compte à la banque de tout bénéfice qu’il en a tiré.
+> 1991, ch. 46, art. 206; 2005, ch. 54, art. 41; 2010, ch. 12, art. 1992.
 
 
 
@@ -4432,17 +5585,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **207** 
 
-- **(1)** Les administrateurs qui, par vote ou acquiescement, approuvent l’adoption d’une résolution autorisant une émission d’actions contraire au paragraphe 65(1) ou une émission de titres secondaires contraire à l’article 80, en contrepartie d’un apport autre qu’en numéraire, sont solidairement tenus de verser à la banque la différence entre la juste valeur de cet apport et celle de l’apport en numéraire qu’elle aurait dû recevoir à la date de la résolution.
+- **(1)** Les administrateurs qui, par vote ou acquiescement, approuvent l’adoption d’une résolution autorisant une émission d’actions contraire au paragraphe 65(1), une émission de parts sociales contraire au paragraphe 79.1(2) ou une émission de titres secondaires contraire à l’article 80, en contrepartie d’un apport autre qu’en numéraire, sont solidairement tenus de verser à la banque la différence entre la juste valeur de cet apport et celle de l’apport en numéraire qu’elle aurait dû recevoir à la date de la résolution.
 
 **Responsabilités supplémentaires**
 
-- **(2)** Sont solidairement tenus de restituer à la banque les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
-	- **a)** l’achat ou le rachat d’actions en violation de l’article 71;
+- **(2)** Sont solidairement tenus de restituer à la banque les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
+	- **a)** l’achat ou le rachat d’actions ou de parts sociales en violation de l’article 71;
 	- **b)** la réduction du capital en violation de l’article 75;
-	- **c)** le versement d’un dividende en violation de l’article 79;
+	- **c)** le versement d’un dividende ou d’une ristourne en violation de l’article 79;
 	- **d)** le versement d’une indemnité en violation de l’article 212;
 	- **e)** une opération contraire à la partie XI.
-> 1991, ch. 46, art. 207; 2005, ch. 54, art. 42(A).
+> 1991, ch. 46, art. 207; 2005, ch. 54, art. 42(A); 2010, ch. 12, art. 1992.
 
 
 
@@ -4456,16 +5609,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Recours**
 
-- **(2)** L’administrateur tenu responsable aux termes de l’article 207 a le droit de demander au tribunal une ordonnance obligeant toute personne, notamment un actionnaire, à lui remettre :
+- **(2)** L’administrateur tenu responsable aux termes de l’article 207 a le droit de demander au tribunal une ordonnance obligeant toute personne, notamment un membre ou un actionnaire, à lui remettre :
 	- **a)** soit les fonds ou biens reçus en violation des articles 71, 75, 79 ou 212;
 	- **b)** soit un montant égal à la valeur de la perte subie par la banque et résultant de l’opération contraire à la partie XI.
 
 **Ordonnance judiciaire**
 
-- **(3)** Le tribunal peut, s’il est convaincu que cela est équitable :
+- **(3)** Le tribunal peut, s’il est convaincu que cela est équitable :
 	- **a)** ordonner aux personnes de remettre à l’administrateur les fonds ou biens reçus contrairement aux articles 71, 75, 79 ou 212 ou le montant visé à l’alinéa (2)b);
-	- **b)** ordonner à la banque de rétrocéder les actions à la personne de qui elle les a acquises, notamment par achat ou rachat, ou d’en émettre en sa faveur;
+	- **b)** ordonner à la banque de rétrocéder les actions ou les parts sociales à la personne de qui elle les a acquises, notamment par achat ou rachat, ou d’en émettre en sa faveur;
 	- **c)** rendre toute autre ordonnance qu’il estime pertinente.
+> 1991, ch. 46, art. 208; 2010, ch. 12, art. 1993.
+
 
 
 
@@ -4597,7 +5752,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-#### Modifications
+#### Modifications — lettres patentes
 
 
 
@@ -4625,11 +5780,247 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
+#### Transformation en coopérative de crédit fédérale
+
+
+
+**Transformation en coopérative de crédit fédérale**
+
+**216.01** Sur demande en ce sens de la banque qui n’est pas une coopérative de crédit fédérale, le ministre peut, par lettres patentes, modifier son acte constitutif pour la transformer en coopérative de crédit fédérale.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Approbation par les actionnaires de la proposition de transformation**
+
+**216.02** 
+
+- **(1)** Avant que soit présentée la demande visée à l’article 216.01, le conseil d’administration obtient des actionnaires, par résolution extraordinaire :
+	- **a)** l’approbation d’une proposition de transformation conforme aux règlements et approuvée par le surintendant;
+	- **b)** la confirmation de tout règlement administratif — ou de toute modification ou révocation d’un règlement administratif — nécessaire à la mise en oeuvre de la proposition de transformation;
+	- **c)** l’autorisation de la demande.
+
+**Renseignements supplémentaires**
+
+- **(2)** Le ministre peut exiger de la banque tout autre renseignement qu’il estime nécessaire.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Droit de vote**
+
+**216.03** 
+
+- **(1)** Chaque action de la banque, qu’elle soit ou non assortie du droit de vote, emporte droit de vote relativement aux objets visés au paragraphe 216.02(1).
+
+**Vote par catégorie**
+
+- **(2)** Les détenteurs d’actions d’une catégorie ou d’une série ont le droit de voter séparément en tant que tels relativement aux objets visés au paragraphe 216.02(1).
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Délai de présentation de la demande**
+
+**216.04** La demande visée à l’article 216.01 doit être présentée dans les trois mois suivant l’adoption de la proposition de transformation par les actionnaires.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Critères de délivrance des lettres patentes**
+
+**216.05** Avant de délivrer les lettres patentes modifiant l’acte constitutif, le ministre prend en considération tous les facteurs qu’il estime pertinents et, notamment :
+- **a)** que la banque sera organisée et exercera ses activités commerciales selon le principe coopératif énoncé à l’article 12.1 au moment de la délivrance des lettres patentes;
+- **b)** qu’il n’y a pas lieu de croire qu’à la suite de la délivrance des lettres patentes, la coopérative de crédit fédérale ne se conformerait plus au paragraphe 485(1), aux règlements pris en vertu du paragraphe 485(2) ou à l’ordonnance prise en vertu du paragraphe 485(3);
+- **c)** que la proposition a été approuvée par résolution extraordinaire des actionnaires;
+- **d)** qu’il est raisonnable d’escompter que la transformation de la banque en coopérative de crédit fédérale se fera dans les conditions fixées par la proposition;
+- **e)** que, pour les actionnaires, la transformation est juste et équitable;
+- **f)** que la transformation est dans l’intérêt du système financier canadien notamment, celui du système coopératif financier canadien.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Effet de la délivrance des lettres patentes**
+
+**216.06** À la date indiquée dans les lettres patentes délivrées par le ministre modifiant l’acte constitutif :
+- **a)** les détenteurs des actions ordinaires de la banque sont réputés être les membres de la coopérative de crédit fédérale;
+- **b)** les actions ordinaires de la banque qui, selon la proposition de transformation, ne seront pas converties en actions sont réputées être des parts sociales de la coopérative de crédit fédérale auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi;
+- **c)** les actions ordinaires de la banque qui, selon la proposition de transformation, seront converties en actions de la coopérative de crédit fédérale sont réputées être des actions de la coopérative de crédit fédérale auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Pouvoir réglementaire**
+
+**216.07** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir la demande visée à l’article 216.01, notamment en ce qui concerne sa forme et les renseignements qu’elle doit contenir;
+	- **b)** régir la proposition de transformation visant la transformation de la banque en coopérative de crédit fédérale, notamment en ce qui concerne les renseignements qu’elle doit contenir;
+	- **c)** régir la création ou la révocation des règlements administratifs de la banque, ou leur modification, nécessaire à la mise en oeuvre de la proposition de transformation en coopérative de crédit fédérale;
+	- **d)** d’une façon générale, régir la transformation d’une banque en coopérative de crédit fédérale.
+
+**Conversion d’action ordinaire**
+
+- **(2)** Les règlements pris en vertu de l’alinéa (1)b) prévoient qu’une proposition de transformation doit stipuler qu’au moins une action ordinaire détenue par chaque détenteur d’action ordinaire sera convertie en part sociale.
+
+**[Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
+
+- **(3)** Les règlements pris en vertu du paragraphe (1) peuvent prévoir un régime réglementaire différent à l’égard d’une banque qui fait l’objet d’un décret pris en vertu de l’alinéa 39.13(1)a) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md) ou qui est une institution-relais au sens de cette loi.
+
+**Exemption par le surintendant**
+
+- **(4)** Les règlements pris en vertu du paragraphe (1) peuvent autoriser le surintendant à exempter une banque, aux conditions qu’il estime indiquées, des exigences de tout ou partie de ceux-ci.
+
+**Exemption par le ministre**
+
+- **(5)** Le ministre peut, aux conditions qu’il estime indiquées, exempter des exigences de la présente loi ou de ses règlements la banque qui demande l’approbation d’une proposition visant à la transformer en coopérative de crédit fédérale dans les cas suivants :
+	- **a)** il estime qu’elle éprouve ou est sur le point d’éprouver des difficultés financières et que l’exemption l’aiderait à améliorer sa situation;
+	- **b)** elle fait l’objet d’un décret pris en vertu de l’alinéa 39.13(1)a) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md) ou elle est une institution-relais au sens de cette loi.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+#### Transformation en banque ayant des actions ordinaires
+
+
+
+**Transformation en banque ayant des actions ordinaires**
+
+**216.08** Sur demande en ce sens de la coopérative de crédit fédérale, le ministre peut, par lettres patentes, modifier son acte constitutif pour la transformer en banque ayant des actions ordinaires.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Approbation de la proposition de transformation**
+
+**216.09** 
+
+- **(1)** Avant que soit présentée la demande visée à l’article 216.08, le conseil d’administration obtient par résolution extraordinaire des membres et, si la coopérative de crédit fédérale a émis des actions, par résolution extraordinaire distincte des actionnaires :
+	- **a)** l’approbation d’une proposition de transformation conforme aux règlements et approuvée par le surintendant;
+	- **b)** la confirmation de tout règlement administratif — ou de toute modification ou révocation d’un règlement administratif — nécessaire à la mise en oeuvre de la proposition de transformation;
+	- **c)** l’autorisation de la demande.
+
+**Renseignements supplémentaires**
+
+- **(2)** Le ministre peut exiger de la coopérative de crédit fédérale tout autre renseignement qu’il estime nécessaire.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Droit de vote**
+
+**216.1** 
+
+- **(1)** Chaque action, qu’elle soit ou non assortie du droit de vote, emporte droit de vote relativement aux objets visés au paragraphe 216.09(1).
+
+**Vote par catégorie**
+
+- **(2)** Les détenteurs d’actions d’une catégorie ou d’une série ont le droit de voter séparément en tant que tels relativement aux objets visés au paragraphe 216.09(1).
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Délai de présentation de la demande**
+
+**216.11** La demande visée à l’article 216.08 doit être présentée dans les trois mois suivant l’adoption de la proposition par les membres et, s’il y a lieu, les actionnaires.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Critères de délivrance des lettres patentes**
+
+**216.12** Avant de délivrer les lettres patentes modifiant l’acte constitutif, le ministre prend en considération tous les facteurs qu’il estime pertinents et, notamment :
+- **a)** qu’il n’y a pas lieu de croire qu’à la suite de la délivrance des lettres patentes, la banque ayant des actions ordinaires ne se conformerait plus au paragraphe 485(1), aux règlements pris en vertu du paragraphe 485(2) ou à l’ordonnance prise en vertu du paragraphe 485(3);
+- **b)** que la proposition a été approuvée par résolution extraordinaire des membres et par une résolution extraordinaire distincte des actionnaires, le cas échéant;
+- **c)** qu’il est raisonnable d’escompter que la transformation de la coopérative de crédit fédérale en banque ayant des actions ordinaires se fera dans les conditions fixées par la proposition;
+- **d)** que, pour les membres et les actionnaires, la transformation est juste et équitable;
+- **e)** que la transformation est dans l’intérêt du système financier canadien notamment, celui du système coopératif financier canadien.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Effet de la délivrance des lettres patentes**
+
+**216.13** À la date indiquée dans les lettres patentes délivrées par le ministre modifiant l’acte constitutif de la coopérative de crédit fédérale afin de la transformer en banque ayant des actions ordinaires, les membres de la coopérative de crédit fédérale deviennent, conformément à la proposition de transformation, des détenteurs d’actions ordinaires de la banque auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi.
+> 2010, ch. 12, art. 1995.
+
+
+
+
+
+**Pouvoir réglementaire**
+
+**216.14** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir la demande visée à l’article 216.08, notamment en ce qui concerne sa forme et les renseignements qu’elle doit contenir;
+	- **b)** régir la proposition de transformation visant la transformation de la coopérative de crédit fédérale en banque ayant des actions ordinaires, notamment en ce qui concerne les renseignements qu’elle doit contenir;
+	- **c)** régir la création ou la révocation des règlements administratifs de la coopérative de crédit fédérale, ou leur modification, nécessaire à la mise en oeuvre de la proposition de transformation en banque ayant des actions ordinaires;
+	- **d)** régir, aux fins de la proposition de transformation en banque ayant des actions ordinaires, la valeur de la coopérative de crédit fédérale, celle de ses parts sociales et celle de toute action, s’il y a lieu, qu’elle a émise, et autoriser le surintendant à fixer la date à prendre en compte pour l’estimation de ces valeurs;
+	- **e)** régir le traitement juste et équitable des membres et des actionnaires, s’il y a lieu, de la coopérative de crédit fédérale aux termes de la proposition de transformation;
+	- **f)** régir la transformation des parts sociales et des actions, s’il y a lieu, de la coopérative de crédit fédérale en actions ordinaires ou en tout autre type d’actions;
+	- **g)** autoriser le surintendant à :
+		- **(i)** exiger de la coopérative de crédit fédérale qu’elle tienne une ou plusieurs séances d’information à l’intention des membres et des actionnaires, s’il y a lieu, et qu’elle prenne d’autres mesures pour leur permettre de porter un jugement éclairé sur la proposition de transformation,
+		- **(ii)** fixer les modalités selon lesquelles les séances d’information doivent être tenues;
+	- **h)** régir les restrictions applicables au versement d’honoraires, d’une rémunération ou d’une autre contrepartie, à l’égard de la transformation d’une coopérative de crédit fédérale en banque ayant des actions ordinaires, aux administrateurs, dirigeants ou employés de la coopérative de crédit fédérale ou à toute entité avec laquelle un administrateur, un dirigeant ou un employé de la coopérative de crédit fédérale est lié;
+	- **i)** interdire, au cours de la période fixée par les règlements, l’émission ou l’octroi d’actions — autres que celles émises en raison de la mise en oeuvre de la proposition de transformation — d’une coopérative de crédit fédérale qui a été transformée en banque ayant des actions ordinaires, d’options de souscription à des actions de celle-ci ou de droits d’acquérir de telles actions aux personnes suivantes :
+		- **(i)** un administrateur, dirigeant ou employé de la banque,
+		- **(ii)** toute personne qui était administrateur, dirigeant ou employé de la coopérative de crédit fédérale au cours de l’année précédant la date de transformation de celle-ci;
+	- **j)** d’une façon générale, régir la transformation d’une coopérative de crédit fédérale en banque ayant des actions ordinaires.
+
+**[Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
+
+- **(2)** Les règlements pris en vertu du paragraphe (1) peuvent prévoir un régime réglementaire différent à l’égard d’une coopérative de crédit fédérale qui fait l’objet d’un décret pris en vertu de l’alinéa 39.13(1)a) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md) ou qui est une institution-relais au sens de cette loi.
+
+**Exemption par le surintendant**
+
+- **(3)** Les règlements pris en vertu du paragraphe (1) peuvent autoriser le surintendant à exempter une coopérative de crédit fédérale, aux conditions qu’il estime indiquées, des exigences de tout ou partie de ceux-ci.
+
+**Exemption par le ministre**
+
+- **(4)** Le ministre peut, aux conditions qu’il estime indiquées, exempter des exigences de la présente loi ou de ses règlements la coopérative de crédit fédérale qui demande l’approbation d’une proposition visant à la transformer en banque ayant des actions ordinaires dans les cas suivants :
+	- **a)** il estime qu’elle éprouve ou est sur le point d’éprouver des difficultés financières et que l’exemption l’aiderait à améliorer sa situation;
+	- **b)** elle fait l’objet d’un décret pris en vertu de l’alinéa 39.13(1)a) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md) ou elle est une institution-relais au sens de cette loi.
+> 2010, ch. 12, art. 1995; 2012, ch. 5, art. 223.
+
+
+
+
+
+#### Modifications — règlements administratifs
+
+
+
 **Règlements administratifs**
 
 **217** 
 
-- **(1)** Le conseil d’administration peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 218 à 222 afin :
+- **(1)** Le conseil d’administration d’une banque qui n’est pas une coopérative de crédit fédérale peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 218 à 222 afin :
 	- **a)** de modifier le nombre maximal, s’il en est, d’actions de toute catégorie que la banque est autorisée à émettre;
 	- **b)** de créer des catégories d’actions;
 	- **c)** de modifier la désignation de tout ou partie de ses actions, et d’ajouter, de modifier ou de supprimer tous droits, privilèges, restrictions et conditions, y compris le droit à des dividendes accumulés, concernant tout ou partie de ses actions, émises ou non;
@@ -4657,7 +6048,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Effet des lettres patentes**
 
 - **(5)** Les lettres patentes prennent effet à la date indiquée.
-> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82; 2005, ch. 54, art. 46; 2007, ch. 6, art. 13.
+> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82; 2005, ch. 54, art. 46; 2007, ch. 6, art. 13; 2010, ch. 12, art. 1996.
 
 
 
@@ -4735,7 +6126,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **223** 
 
-- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les banques et les sociétés de portefeuille bancaires, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule banque.
+- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les banques qui ne sont pas des coopératives de crédit fédérales et les sociétés de portefeuille bancaires, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule banque qui n’est pas une coopérative de crédit fédérale.
+
+**Demande de fusion — coopérative de crédit fédérale**
+
+- **(1.1)** Sur requête conjointe de plusieurs coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule coopérative de crédit fédérale.
 
 **Réserve**
 
@@ -4751,7 +6146,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la requête;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la requête.
-> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132; 2012, ch. 5, art. 8.
+> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132; 2010, ch. 12, art. 1997; 2012, ch. 5, art. 8.
 
 
 
@@ -4765,11 +6160,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Contenu de la convention**
 
-- **(2)** La convention énonce les modalités de la fusion et notamment :
+- **(2)** La convention énonce les modalités de la fusion et notamment :
 	- **a)** la dénomination sociale et la province envisagée pour le siège de la banque issue de la fusion;
+	- **a.1)** si la banque fusionnée deviendra une coopérative de crédit fédérale une déclaration portant qu’elle sera organisée et exercera ses activités commerciales selon le principe coopératif énoncé à l’article 12.1;
 	- **b)** le nom, le lieu de résidence habituelle des futurs administrateurs de la banque issue de la fusion;
-	- **c)** les modalités d’échange des actions de chaque requérant contre les actions ou autres valeurs mobilières de la banque issue de la fusion;
-	- **d)** au cas où des actions de l’un de ces requérants ne doivent pas être échangées contre des actions ou autres valeurs mobilières de la banque issue de la fusion, la somme en numéraire ou les valeurs mobilières que les détenteurs de ces actions doivent recevoir en plus ou à la place des actions ou autres valeurs mobilières de la banque issue de la fusion;
+	- **c)** les modalités d’échange des actions ou des parts sociales de chaque requérant contre les actions, parts sociales ou autres valeurs mobilières de la banque issue de la fusion;
+	- **d)** au cas où des actions ou des parts sociales de l’un de ces requérants ne doivent pas être échangées contre des actions, parts sociales ou autres valeurs mobilières de la banque issue de la fusion, la somme en numéraire ou les valeurs mobilières que les détenteurs de ces actions ou de ces parts sociales doivent recevoir en plus ou à la place des actions, parts sociales ou autres valeurs mobilières de la banque issue de la fusion;
 	- **e)** le mode de paiement en numéraire remplaçant l’émission de fractions d’actions de la banque issue de la fusion ou de toute autre personne morale;
 	- **f)** les futurs règlements administratifs de la banque issue de la fusion;
 	- **g)** les détails des autres dispositions nécessaires pour parfaire la fusion et pour assurer la gestion et l’exploitation de la banque issue de la fusion;
@@ -4777,8 +6173,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Annulation des actions sans remboursement**
 
-- **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions contre celles de la banque issue de la fusion. Sont exclues de l’application du présent article les actions détenues à titre de représentant personnel ou de sûreté.
-> 1991, ch. 46, art. 224; 2005, ch. 54, art. 47.
+- **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions ou des parts sociales de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions ou de ces parts sociales contre celles de la banque issue de la fusion. Sont exclues de l’application du présent article les actions ou les parts sociales détenues à titre de représentant personnel ou de sûreté.
+> 1991, ch. 46, art. 224; 2005, ch. 54, art. 47; 2010, ch. 12, art. 1998.
 
 
 
@@ -4787,17 +6183,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Approbation du surintendant**
 
 **225** L’approbation prévue au paragraphe 226(4) est sans effet si, au préalable, le surintendant n’a pas approuvé la convention de fusion par écrit.
-> 1991, ch. 46, art. 225; 2007, ch. 6, art. 14.
+> 1991, ch. 46, art. 225; 2007, ch. 6, art. 14; 2010, ch. 12, art. 1999(A).
 
 
 
 
 
-**Approbation des actionnaires**
+**Approbation des actionnaires et des membres**
 
 **226** 
 
-- **(1)** Le conseil d’administration de chacune des banques ou personnes morales requérantes doit respectivement soumettre la convention de fusion, pour approbation, à l’assemblée des actionnaires de celle-ci et, sous réserve du paragraphe (3), aux détenteurs d’actions de chaque catégorie ou série.
+- **(1)** Le conseil d’administration de chacune des banques ou personnes morales requérantes doit respectivement soumettre la convention de fusion à l’approbation de l’assemblée des actionnaires — ou, dans le cas d’une coopérative de crédit fédérale, de l’assemblée des membres et de l’assemblée des actionnaires, le cas échéant.
 
 **Droit de vote**
 
@@ -4809,12 +6205,21 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résolution extraordinaire**
 
-- **(4)** Sous réserve du paragraphe (3), l’adoption de la convention de fusion intervient lors de l’approbation par résolution extraordinaire des actionnaires de chaque banque ou personne morale requérante.
+- **(4)** Sous réserve du paragraphe (3), l’adoption de la convention de fusion intervient lors de l’approbation par résolution extraordinaire des actionnaires — ou par des résolutions extraordinaires distinctes des membres et, le cas échéant, des actionnaires — de chaque banque ou personne morale requérante.
 
 **Annulation**
 
-- **(5)** Le conseil d’administration de l’une des banques ou personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires de toutes les banques ou personnes morales requérantes ou de certaines d’entre elles.
-> 1991, ch. 46, art. 226; 2005, ch. 54, art. 48.
+- **(5)** Le conseil d’administration de l’une des banques ou personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires — ou par les membres et par les actionnaires, le cas échéant — de toutes les banques ou personnes morales requérantes ou de certaines d’entre elles.
+> 1991, ch. 46, art. 226; 2005, ch. 54, art. 48; 2010, ch. 12, art. 2000.
+
+
+
+
+
+**Membres de la coopérative de crédit fédérale fusionnée**
+
+**226.1** Au moment de la délivrance des lettres patentes fusionnant et prorogeant plusieurs coopératives de crédit fédérales en une seule, les membres des coopératives de crédit fédérales deviennent les membres de la coopérative de crédit fédérale fusionnée.
+> 2010, ch. 12, art. 2001.
 
 
 
@@ -4824,23 +6229,25 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **227** 
 
-- **(1)** La banque peut, sans se conformer aux articles 224 à 226, fusionner avec une ou plusieurs personnes morales constituées sous le régime d’une loi fédérale, si ces personnes morales sont des filiales en propriété exclusive de la banque et que les conditions suivantes sont réunies :
+- **(1)** La banque qui n’est pas une coopérative de crédit fédérale peut, sans se conformer aux articles 224 à 226, fusionner avec une ou plusieurs personnes morales constituées sous le régime d’une loi fédérale, si ces personnes morales sont des filiales en propriété exclusive de la banque et que les conditions ci-après sont réunies :
 	- **a)** leur conseil d’administration respectif approuve la fusion par voie de résolution;
-	- **b)** ces résolutions prévoient à la fois que :
+	- **b)** ces résolutions prévoient à la fois que :
 		- **(i)** les actions des filiales fusionnantes seront annulées sans remboursement de capital,
 		- **(ii)** les lettres patentes de fusion et les règlements administratifs de la banque issue de la fusion seront identiques à l’acte constitutif et aux règlements administratifs de la banque fusionnante qui est la société mère,
 		- **(iii)** la banque issue de la fusion n’émettra aucune valeur mobilière à cette occasion.
 
 **Fusion horizontale simplifiée**
 
-- **(2)** Plusieurs personnes morales constituées sous le régime d’une loi fédérale peuvent fusionner en une seule et même banque sans se conformer aux articles 224 à 226 lorsque les conditions suivantes sont réunies :
+- **(2)** Plusieurs personnes morales constituées sous le régime d’une loi fédérale qui ne sont pas des coopératives de crédit fédérales peuvent fusionner en une seule et même banque sans se conformer aux articles 224 à 226 lorsque les conditions ci-après sont réunies :
 	- **a)** au moins une des personnes morales requérantes est une banque;
 	- **b)** elles sont toutes des filiales en propriété exclusive d’une même société mère;
 	- **c)** leur conseil d’administration respectif approuve la fusion par voie de résolution;
-	- **d)** ces résolutions prévoient à la fois que :
+	- **d)** ces résolutions prévoient à la fois que :
 		- **(i)** les actions de toutes les personnes morales requérantes, sauf celles de l’une d’entre elles qui est une banque, seront annulées sans remboursement de capital,
 		- **(ii)** les lettres patentes de fusion et les règlements administratifs de la banque issue de la fusion seront identiques à l’acte constitutif et aux règlements administratifs de la banque fusionnante dont les actions ne sont pas annulées,
 		- **(iii)** le capital déclaré de toutes les filiales fusionnantes dont les actions sont annulées sera ajouté à celui de la banque fusionnante dont les actions ne sont pas annulées.
+> 1991, ch. 46, art. 227; 2010, ch. 12, art. 2002.
+
 
 
 
@@ -4853,7 +6260,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Conditions préalables**
 
-- **(2)** La demande de lettres patentes ne peut être présentée que si :
+- **(2)** La demande de lettres patentes ne peut être présentée que si :
 	- **a)** d’une part, au moins une fois par semaine pendant quatre semaines consécutives, un avis d’intention a été publié dans la Gazette du Canada et dans un journal à grand tirage au lieu ou près du lieu du siège de chaque requérant;
 	- **b)** d’autre part, les requérants peuvent démontrer de façon satisfaisante qu’ils se sont conformés aux exigences de la présente partie relatives à la fusion.
 
@@ -4863,18 +6270,19 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Facteurs à prendre en compte**
 
-- **(4)** Avant de délivrer des lettres patentes de fusion, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la requête, notamment :
+- **(4)** Avant de délivrer des lettres patentes de fusion, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la requête, notamment :
 	- **a)** les moyens financiers des requérants pour le soutien financier continu de la banque issue de la fusion;
 	- **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de la banque issue de la fusion;
 	- **c)** leur expérience et leur dossier professionnel;
 	- **d)** leur réputation pour ce qui est de leur exploitation selon des normes élevées de moralité et d’intégrité;
 	- **e)** la compétence et l’expérience des personnes devant exploiter la banque issue de la fusion, afin de déterminer si elles sont aptes à participer à l’exploitation d’une institution financière et à exploiter la banque issue de la fusion de manière responsable;
 	- **f)** les conséquences de l’intégration des activités et des entreprises des requérants sur la conduite de ces activités et entreprises;
-	- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée de la banque issue de la fusion et des membres de son groupe sur la réglementation et la supervision de la banque issue de la fusion, compte tenu :
+	- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée de la banque issue de la fusion et des membres de son groupe sur la réglementation et la supervision de la banque issue de la fusion, compte tenu :
 		- **(i)** d’une part, de la nature et de l’étendue des activités projetées de prestation de services financiers de la banque issue de la fusion et des membres de son groupe,
 		- **(ii)** d’autre part, de la nature et de l’étendue de la réglementation et de la supervision liées aux activités projetées de prestation de services financiers des membres du groupe de la banque issue de la fusion;
-	- **h)** l’intérêt du système financier canadien.
-> 1991, ch. 46, art. 228; 2001, ch. 9, art. 85.
+	- **h)** dans le cas où la banque issue de la fusion sera une coopérative de crédit fédérale, le fait qu’elle sera organisée et exercera ses activités commerciales selon le principe coopératif énoncé à l’article 12.1;
+	- **i)** l’intérêt du système financier canadien notamment, si la banque issue de la fusion sera une coopérative de crédit fédérale, celui du système coopératif financier canadien.
+> 1991, ch. 46, art. 228; 2001, ch. 9, art. 85; 2010, ch. 12, art. 2003.
 
 
 
@@ -4995,8 +6403,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Envoi de convention au surintendant**
 
-**233** La convention de vente doit être communiquée au surintendant avant d’être soumise aux actionnaires de la banque vendeuse conformément au paragraphe 234(1).
-> 1991, ch. 46, art. 233; 2007, ch. 6, art. 16.
+**233** La convention de vente doit être communiquée au surintendant avant d’être soumise aux actionnaires, ou aux membres et aux actionnaires, selon le cas, de la banque vendeuse conformément au paragraphe 234(1).
+> 1991, ch. 46, art. 233; 2007, ch. 6, art. 16; 2010, ch. 12, art. 2004.
 
 
 
@@ -5006,7 +6414,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **234** 
 
-- **(1)** Le conseil d’administration de la banque vendeuse doit soumettre la convention de vente, pour approbation, à l’assemblée des actionnaires et, sous réserve du paragraphe (3), aux détenteurs d’actions de chaque catégorie ou série.
+- **(1)** Le conseil d’administration de la banque vendeuse doit soumettre la convention de vente, pour approbation, à l’assemblée des actionnaires ou, si la banque est une coopérative de crédit fédérale, à l’assemblée des membres et des actionnaires, et, sous réserve du paragraphe (3), aux détenteurs d’actions de chaque catégorie ou série.
 
 **Droit de vote**
 
@@ -5018,14 +6426,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résolution extraordinaire**
 
-- **(4)** La convention de vente est effectivement adoptée lorsque la vente est approuvée par résolution extraordinaire des actionnaires de la banque vendeuse et des détenteurs d’actions de chaque catégorie ou série de celle-ci habiles à voter séparément conformément au paragraphe (3).
+- **(4)** La convention de vente est effectivement adoptée lorsque la vente est approuvée par résolution extraordinaire des actionnaires ou par des résolutions extraordinaires distinctes des membres et, le cas échéant, des actionnaires, de la banque vendeuse et des détenteurs d’actions de chaque catégorie ou série de celle-ci habiles à voter séparément conformément au paragraphe (3).
+> 1991, ch. 46, art. 234; 2010, ch. 12, art. 2005.
+
 
 
 
 
 **Annulation**
 
-**235** Sous réserve des droits des tiers, le conseil d’administration de la banque vendeuse peut, après approbation de la vente par les actionnaires, y renoncer si ceux-ci l’y autorisent expressément dans la résolution extraordinaire visée au paragraphe 234(4).
+**235** Sous réserve des droits des tiers, le conseil d’administration de la banque vendeuse peut, après approbation de la vente par les actionnaires ou les membres et les actionnaires, selon le cas, y renoncer si ceux-ci l’y autorisent expressément dans la résolution extraordinaire visée au paragraphe 234(4).
+> 1991, ch. 46, art. 235; 2010, ch. 12, art. 2006.
+
 
 
 
@@ -5086,7 +6498,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 - **(1)** La banque tient des livres où figurent :
 	- **a)** l’acte constitutif, les règlements administratifs et leurs modifications;
-	- **b)** les procès-verbaux des assemblées et les résolutions des actionnaires;
+	- **b)** les procès-verbaux des assemblées et les résolutions des actionnaires et des membres;
 	- **c)** les renseignements visés aux alinéas 632(1)a), c) et e) à h) et figurant dans l’ensemble des relevés envoyés au surintendant conformément à l’article 632;
 	- **d)** le détail des autorisations, restrictions et conditions visées à l’article 53 et au paragraphe 54(1) qui lui sont applicables;
 	- **e)** le détail des dérogations dont elle bénéficie au titre des articles 39, 55 ou 231;
@@ -5097,14 +6509,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **(2)** Outre les livres mentionnés au paragraphe (1), la banque tient de façon adéquate :
 	- **a)** des livres comptables;
 	- **b)** des livres contenant les procès-verbaux des réunions de son conseil d’administration et de ses comités ainsi que les résolutions qui y sont adoptées;
-	- **c)** des livres où figurent, pour chaque client sur une base journalière, les renseignements relatifs aux opérations entre elle et celui-ci, ainsi que le solde créditeur ou débiteur du client.
+	- **c)** des livres où figurent, pour chaque client sur une base journalière, les renseignements relatifs aux opérations entre elle et celui-ci, le solde créditeur ou débiteur du client, ainsi que, dans le cas d’une coopérative de crédit fédérale, la qualité de membre du client.
 
 **Livre des banques prorogées**
 
 - **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), ***livre*** s’entend :
 	- **a)** dans le cas des personnes morales prorogées comme banque en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur prorogation;
 	- **b)** dans le cas des personnes morales fusionnées et prorogées comme banque en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur fusion.
-> 1991, ch. 46, art. 238; 1997, ch. 15, art. 29(A); 1999, ch. 28, art. 16.
+> 1991, ch. 46, art. 238; 1997, ch. 15, art. 29(A); 1999, ch. 28, art. 16; 2010, ch. 12, art. 2007.
 
 
 
@@ -5130,7 +6542,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Consultation**
 
-- **(5)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 238(1) pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+- **(5)** Les actionnaires, les membres et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 238(1) pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
 
 **Accès par voie électronique**
 
@@ -5138,37 +6550,37 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exemplaires**
 
-- **(6)** Les actionnaires peuvent sur demande et sans frais, une fois par année civile, obtenir un exemplaire des règlements administratifs de la banque.
-> 1991, ch. 46, art. 239; 2001, ch. 9, art. 88; 2005, ch. 54, art. 50.
+- **(6)** Les actionnaires et les membres peuvent sur demande et sans frais, une fois par année civile, obtenir un exemplaire des règlements administratifs de la banque.
+> 1991, ch. 46, art. 239; 2001, ch. 9, art. 88; 2005, ch. 54, art. 50; 2010, ch. 12, art. 2008.
 
 
 
 
 
-**Liste des actionnaires**
+**Listes**
 
 **240** 
 
-- **(1)** La personne qui a droit d’obtenir la liste principale des actionnaires (appelée « requérant » au présent article) peut demander à la banque de la lui fournir dans les dix jours suivant la réception de la déclaration sous serment visée au paragraphe (2); sur paiement d’un droit raisonnable, la banque doit satisfaire à la demande.
+- **(1)** La personne qui a droit d’obtenir la liste principale des actionnaires ou des membres (appelée « requérant » au présent article) peut demander à la banque de la lui fournir dans les dix jours suivant la réception de la déclaration sous serment visée au paragraphe (2); sur paiement d’un droit raisonnable, la banque doit satisfaire à la demande.
 
 **Teneur de la déclaration**
 
-- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
+- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
 	- **a)** les nom et adresse du requérant;
 	- **b)** les nom et adresse, aux fins de signification, de l’entité éventuellement requérante;
 	- **c)** l’engagement de n’utiliser que conformément à l’article 242 la liste principale des actionnaires et les listes supplétives obtenues en vertu des paragraphes (5) et (6).
 Dans le cas où le requérant est une entité, celle-ci fait établir la déclaration sous serment par un de ses administrateurs ou dirigeants ou par une personne exerçant des fonctions similaires.
 
-**Liste des actionnaires**
+**Obtention des listes**
 
-- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels — et toute autre personne dans le cas d’une banque ayant fait appel au public — peuvent obtenir la liste principale des actionnaires.
+- **(3)** Les actionnaires, les membres et les créanciers de la banque, ainsi que leurs représentants personnels — et toute autre personne dans le cas d’une banque ayant fait appel au public — peuvent obtenir la liste principale des actionnaires ou des membres.
 
 **Liste principale**
 
-- **(4)** La liste principale des actionnaires mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
-	- **a)** les noms des actionnaires;
-	- **b)** le nombre d’actions détenues par chaque actionnaire;
-	- **c)** l’adresse de chaque actionnaire telle qu’elle figure dans les livres.
+- **(4)** La liste principale des actionnaires ou des membres mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
+	- **a)** les noms des actionnaires ou des membres;
+	- **b)** le nombre d’actions détenues par chaque actionnaire ou le nombre de parts sociales détenues par chaque membre, selon le cas;
+	- **c)** l’adresse de chaque actionnaire ou membre telle qu’elle figure dans les livres.
 
 **Listes supplétives**
 
@@ -5176,10 +6588,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Remise des listes supplétives**
 
-- **(6)** La banque ou son mandataire remet les listes supplétives :
+- **(6)** La banque ou son mandataire remet les listes supplétives :
 	- **a)** dans les dix jours suivant la remise de la liste principale, si les modifications sont antérieures à la date de la remise;
 	- **b)** sinon, dans les dix jours suivant la date indiquée dans la dernière liste supplétive.
-> 1991, ch. 46, art. 240; 2005, ch. 54, art. 51.
+> 1991, ch. 46, art. 240; 2005, ch. 54, art. 51; 2010, ch. 12, art. 2009.
 
 
 
@@ -5188,16 +6600,20 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Détenteurs d’options**
 
 **241** Il est possible de demander à la banque de faire figurer sur la liste principale ou supplétive les nom et adresse des détenteurs connus d’option ou de droits d’acquérir des actions de cette banque.
+> 1991, ch. 46, art. 241; 2010, ch. 12, art. 2010(A).
 
 
 
 
-**Utilisation de la liste des actionnaires**
 
-**242** La liste des actionnaires obtenue en vertu de l’article 240 ne peut être utilisée que dans le cadre :
-- **a)** soit de tentatives en vue d’influencer le vote des actionnaires de la banque;
+**Utilisation de la liste**
+
+**242** La liste des actionnaires ou des membres obtenue en vertu de l’article 240 ne peut être utilisée que dans le cadre :
+- **a)** soit de tentatives en vue d’influencer le vote des actionnaires ou des membres de la banque;
 - **b)** soit de l’offre d’acquérir des actions de la banque;
 - **c)** soit de toute autre question concernant les affaires internes de la banque.
+> 1991, ch. 46, art. 242; 2010, ch. 12, art. 2011.
+
 
 
 
@@ -5236,12 +6652,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **245** 
 
-- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 238 ou du registre central des valeurs mobilières de la banque ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la banque de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 238, du registre central des valeurs mobilières ou du registre des membres de la banque ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou des registres constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la banque de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
 - **(2)** La banque doit exécuter sans délai l’ordre visé au paragraphe (1).
-> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89; 2005, ch. 54, art. 52; 2007, ch. 6, art. 17.
+> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89; 2005, ch. 54, art. 52; 2007, ch. 6, art. 17; 2010, ch. 12, art. 2012.
 
 
 
@@ -5251,10 +6667,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **246** 
 
-- **(1)** La banque est tenue de conserver :
+- **(1)** La banque est tenue de conserver :
 	- **a)** les livres visés au paragraphe 238(1);
 	- **b)** les livres visés aux alinéas 238(2)a) et b);
-	- **c)** le registre central des valeurs mobilières visé au paragraphe 248(1).
+	- **c)** le registre central des valeurs mobilières visé au paragraphe 248(1);
+	- **d)** le registre des membres visé au paragraphe 254.1(1).
 
 **Autres documents**
 
@@ -5267,6 +6684,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Obligation**
 
 - **(4)** Le présent article ne fait pas obstacle à l’application des dispositions relatives aux délais et à la prescription ni ne libère la banque de son obligation envers la Banque du Canada à l’égard des dépôts et effets visés par l’article 438.
+> 1991, ch. 46, art. 246; 2010, ch. 12, art. 2013.
+
 
 
 
@@ -5286,7 +6705,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **248** 
 
-- **(1)** La banque tient un registre central des valeurs mobilières, au sens de l’article 81, qu’elle a émises à titre nominatif, indiquant pour chaque catégorie ou série :
+- **(1)** La banque tient un registre central des valeurs mobilières, au sens de l’article 81, qu’elle a émises à titre nominatif, indiquant pour chaque catégorie ou série :
 	- **a)** les noms, par ordre alphabétique, et la dernière adresse connue de leurs détenteurs et de leurs prédécesseurs;
 	- **b)** le nombre des valeurs détenues par chacun des détenteurs;
 	- **c)** la date et les conditions de l’émission et du transfert de chaque valeur.
@@ -5297,7 +6716,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Consultation**
 
-- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent consulter le registre des valeurs mobilières pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, — et, si elle est une coopérative de crédit fédérale, ses membres et leurs représentants personnels — peuvent consulter le registre des valeurs mobilières pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
 
 **Accès par voie électronique**
 
@@ -5319,7 +6738,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **(7)** La banque ou son mandataire remet les renseignements supplémentaires :
 	- **a)** dans les dix jours suivant le jour où la personne a consulté le registre des valeurs mobilières, si les modifications sont antérieures à ce jour;
 	- **b)** sinon, dans les dix jours suivant la date des derniers renseignements supplémentaires.
-> 1991, ch. 46, art. 248; 2001, ch. 9, art. 90; 2005, ch. 54, art. 53.
+> 1991, ch. 46, art. 248; 2001, ch. 9, art. 90; 2005, ch. 54, art. 53; 2010, ch. 12, art. 2014.
 
 
 
@@ -5382,6 +6801,110 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
+#### Registre des membres
+
+
+
+**Registre des membres**
+
+**254.1** 
+
+- **(1)** La coopérative de crédit fédérale tient un registre des membres indiquant :
+	- **a)** les noms, par ordre alphabétique, et la dernière adresse connue des membres actuels et anciens;
+	- **b)** le nombre de parts sociales détenues par chacun des membres;
+	- **c)** la date et les conditions de l’émission et de la cession de chaque part sociale.
+
+**Assimilation**
+
+- **(2)** Pour l’application du paragraphe (1), sont assimilés au registre des membres les registres similaires que devaient légalement tenir les personnes morales prorogées, ou fusionnées et prorogées, comme coopératives de crédit fédérales sous le régime de la présente loi avant leur prorogation ou leur fusion et prorogation.
+
+**Consultation**
+
+- **(3)** Les membres, les actionnaires et les créanciers de la coopérative de crédit fédérale, ainsi que leurs représentants personnels, peuvent consulter le registre des membres pendant les heures normales d’ouverture des bureaux de la coopérative de crédit fédérale et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une coopérative de crédit fédérale ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+
+**Accès par voie électronique**
+
+- **(4)** L’accès aux renseignements figurant dans le registre des membres peut être donné à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de produire, dans un délai raisonnable, les renseignements demandés sous une forme écrite compréhensible.
+
+**Déclaration**
+
+- **(5)** La personne désireuse de consulter le registre des membres et d’en reproduire ou d’en obtenir des extraits transmet à la coopérative de crédit fédérale une déclaration sous serment énonçant :
+	- **a)** ses nom et adresse;
+	- **b)** l’engagement d’utiliser les renseignements figurant au registre des membres conformément au cadre relatif à la liste des actionnaires ou des membres qui est décrit à l’article 242;
+	- **c)** si la demande émane d’une entité, ses nom et adresse aux fins de signification ainsi que la déclaration sous serment d’un de ses administrateurs ou dirigeants ou d’une personne qui agit en une qualité similaire selon laquelle elle souscrit à l’engagement prévu à l’alinéa b).
+
+**Renseignements supplémentaires**
+
+- **(6)** La personne désireuse de consulter le registre des membres et d’en reproduire ou d’en obtenir des extraits qui affirme dans la déclaration sous serment avoir aussi besoin des renseignements supplémentaires indiquant les modifications apportées au registre des membres peut, sur paiement d’un droit raisonnable, en demander la remise à la coopérative de crédit fédérale ou à son mandataire.
+
+**Remise**
+
+- **(7)** La coopérative de crédit fédérale ou son mandataire remet les renseignements supplémentaires :
+	- **a)** dans les dix jours suivant le jour où la personne a consulté le registre des membres, si les modifications sont antérieures à ce jour;
+	- **b)** sinon, dans les dix jours suivant la date des derniers renseignements supplémentaires.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
+**Registres locaux**
+
+**254.2** La coopérative de crédit fédérale peut créer autant de registres locaux qu’elle estime nécessaire.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
+**Mandataires**
+
+**254.3** La coopérative de crédit fédérale peut charger un mandataire de tenir le registre des membres et chacun des registres locaux.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
+**Lieu de conservation**
+
+**254.4** 
+
+- **(1)** La coopérative de crédit fédérale tient le registre des membres à son siège ou en tout autre lieu au Canada fixé par le conseil d’administration.
+
+**Conservation — registres locaux**
+
+- **(2)** Le conseil d’administration fixe également le lieu, au Canada ou à l’étranger, où les registres locaux peuvent être tenus.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
+**Renseignements dans les registres locaux**
+
+**254.5** 
+
+- **(1)** Les conditions mentionnées dans les registres locaux ne concernent que les parts sociales émises ou transférées à la succursale concernée.
+
+**Registre des membres**
+
+- **(2)** Les conditions des émissions ou des transferts de parts sociales mentionnées dans un registre local sont également portées au registre des membres.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
+**Certificats de parts sociales annulés**
+
+**254.6** La coopérative de crédit fédérale, ses mandataires, ou le fiduciaire, au sens de l’article 294, ne sont pas tenus de produire plus de six ans après leur annulation, les certificats de parts sociales.
+> 2010, ch. 12, art. 2015.
+
+
+
+
+
 #### Dénomination sociale et sceau
 
 
@@ -5422,32 +6945,33 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 266 à 272.
 
-***action*** Action avec droit de vote, y compris :
+***action*** Action avec droit de vote, y compris :
 - **a)** la valeur mobilière immédiatement convertible en une telle action;
-- **b)** les options et droits susceptibles d’exercice immédiat permettant d’acquérir une telle action ou la valeur mobilière visée à l’alinéa a).
+- **b)** les options et droits susceptibles d’exercice immédiat permettant d’acquérir une telle action ou la valeur mobilière visée à l’alinéa a);
+- **c)** les parts sociales. (*share*)
 
 ***banque ayant fait appel au public***[Abrogée, 2005, ch. 54, art. 55]
 
-***dirigeant d’une banque*** Selon le cas :
+***dirigeant d’une banque*** Selon le cas :
 - **a)** la personne désignée à ce titre par règlement administratif ou résolution du conseil d’administration de la banque, notamment le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier;
-- **b)** la personne physique qui exécute pour la banque des fonctions semblables à celles remplies par la personne visée à l’alinéa a).
+- **b)** la personne physique qui exécute pour la banque des fonctions semblables à celles remplies par la personne visée à l’alinéa a). (*officer*)
 
-***groupe*** Sont du même groupe les personnes morales qui le sont au sens du paragraphe 6(2).
+***groupe*** Sont du même groupe les personnes morales qui le sont au sens du paragraphe 6(2). (*affiliate*)
 
 ***initié***[Abrogée, 2005, ch. 54, art. 55]
 
-***option d’achat*** Option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des actions de la personne morale qui l’accorde.
+***option d’achat*** Option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des actions de la personne morale qui l’accorde. (*call*)
 
-***option de vente*** Option négociable par tradition ou transfert qui permet de livrer un nombre précis d’actions à un prix et dans un délai déterminés.
+***option de vente*** Option négociable par tradition ou transfert qui permet de livrer un nombre précis d’actions à un prix et dans un délai déterminés. (*put*)
 
-***regroupement d’entreprises*** Acquisition de la totalité ou de la quasi-totalité des éléments d’actif d’une personne morale par une autre ou fusion de personnes morales ou réorganisation semblable mettant en cause de telles personnes.
+***regroupement d’entreprises*** Acquisition de la totalité ou de la quasi-totalité des éléments d’actif d’une personne morale par une autre ou fusion de personnes morales ou réorganisation semblable mettant en cause de telles personnes. (*business combination*)
 
 **Contrôle**
 
 - **(2)** Pour l’application du présent article et des articles 266 à 272, une personne contrôle une personne morale si elle la contrôle au sens de l’article 3, abstraction faite de l’alinéa 3(1)d).
 
 - **(3) et (4)** [Abrogés, 2005, ch. 54, art. 55]
-> 1991, ch. 46, art. 265; 2005, ch. 54, art. 55.
+> 1991, ch. 46, art. 265; 2005, ch. 54, art. 55; 2010, ch. 12, art. 2016.
 
 
 
@@ -5547,10 +7071,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **h)** toute personne qui reçoit des renseignements confidentiels importants d’une personne visée par le présent paragraphe — notamment par le présent alinéa — ou par les paragraphes (3) ou (4) qu’elle sait ou aurait raisonnablement dû savoir qu’ils étaient donnés par une telle personne;
 	- **i)** toute autre personne visée par les règlements.
 
+**Définition supplémentaire de initié**
+
+- **(1.1)** Au présent article et aux articles 271.1 et 272, ***initié*** s’entend au sens du paragraphe (1) et s’entend en outre, relativement à une coopérative de crédit fédérale, du membre de la coopérative de crédit fédérale détenant un pourcentage des parts sociales de celle-ci plus grand que celui prévu par règlement.
+
 **Présomption relative aux valeurs mobilières**
 
 - **(2)** Pour l’application du présent article, sont réputées des valeurs mobilières de la banque :
-	- **a)** les options de vente ou d’achat, ainsi que les autres droits ou obligations visant l’achat ou la vente de ces valeurs mobilières;
+	- **a)** les parts sociales de la banque qui est une coopérative de crédit fédérale;
+	- **a.1)** les options de vente ou d’achat, ainsi que les autres droits ou obligations visant l’achat ou la vente de ces valeurs mobilières;
 	- **b)** les valeurs mobilières d’une autre entité dont le cours suit sensiblement celui des valeurs mobilières de la banque.
 
 **Présomption — offre d’achat visant à la mainmise**
@@ -5581,7 +7110,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Responsabilité : opération effectuée par l’initié**
 
 - **(7)** Il est également redevable envers la banque des profits ou avantages qu’il tire ou a tirés de cette opération, sauf s’il établit l’élément visé à l’alinéa (6)a).
-> 1991, ch. 46, art. 271; 2005, ch. 54, art. 57.
+> 1991, ch. 46, art. 271; 2005, ch. 54, art. 57; 2010, ch. 12, art. 2017.
 
 
 
@@ -5635,15 +7164,33 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **273** 
 
-- **(1)** Quiconque, y compris une banque, met les valeurs mobilières d’une banque en circulation doit le faire conformément aux règlements pris en vertu du paragraphe (2).
+- **(1)** Quiconque, y compris une banque, met en circulation les valeurs mobilières d’une banque qui n’est pas une coopérative de crédit fédérale doit le faire conformément aux règlements pris en vertu du paragraphe (2).
 
 **Règlements**
 
-- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la mise en circulation de valeurs mobilières d’une banque, notamment des règlements :
-	- **a)** concernant l’information qui doit être communiquée par une banque avant la mise en circulation de ses valeurs mobilières, notamment l’information que doit contenir le prospectus;
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la mise en circulation de valeurs mobilières d’une banque qui n’est pas une coopérative de crédit fédérale, notamment des règlements :
+	- **a)** concernant l’information qui doit être communiquée par une telle banque avant la mise en circulation de ses valeurs mobilières, notamment l’information que doit contenir le prospectus;
 	- **b)** concernant la communication et la forme de l’information qui doit être communiquée;
 	- **c)** soustrayant toute catégorie de mise en circulation de valeurs mobilières à l’application du paragraphe (1).
-> 1991, ch. 46, art. 273; 2005, ch. 54, art. 57.
+> 1991, ch. 46, art. 273; 2005, ch. 54, art. 57; 2012, ch. 5, art. 9.
+
+
+
+
+
+**Mise en circulation — coopérative de crédit fédérale**
+
+**273.1** 
+
+- **(1)** Quiconque, y compris une banque, met en circulation les valeurs mobilières d’une coopérative de crédit fédérale doit le faire conformément aux règlements pris en vertu du paragraphe (2).
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la mise en circulation de valeurs mobilières d’une coopérative de crédit fédérale, notamment des règlements :
+	- **a)** concernant l’information qui doit être communiquée par une coopérative de crédit fédérale avant la mise en circulation de ses valeurs mobilières, notamment l’information que doit contenir le prospectus;
+	- **b)** concernant la communication et la forme de l’information qui doit être communiquée;
+	- **c)** soustrayant toute catégorie de mise en circulation de valeurs mobilières à l’application du paragraphe (1).
+> 2012, ch. 5, art. 10.
 
 
 
@@ -5653,12 +7200,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **274** 
 
-- **(1)** Le surintendant peut, sur demande et par ordonnance, dispenser de l’application des règlements pris en vertu du paragraphe 273(2) la banque ou toute personne qui entend procéder à une mise en circulation et qui le convainc que la banque a communiqué ou est sur le point de communiquer, conformément aux lois applicables, de l’information visant la mise en circulation dont la forme et le fond répondent pour l’essentiel aux exigences des règlements.
+- **(1)** Le surintendant peut, sur demande et par ordonnance, dispenser de l’application des règlements pris en vertu des paragraphes 273(2) ou 273.1(2) la banque ou toute personne qui entend procéder à une mise en circulation et qui le convainc que la banque ou la coopérative de crédit fédérale, selon le cas, a communiqué ou est sur le point de communiquer, conformément aux lois applicables, de l’information visant la mise en circulation dont la forme et le fond répondent pour l’essentiel aux exigences des règlements.
 
 **Conditions**
 
 - **(2)** L’ordonnance peut énoncer les conditions et les restrictions que le surintendant juge utiles.
-> 1991, ch. 46, art. 274; 2005, ch. 54, art. 57.
+> 1991, ch. 46, art. 274; 2005, ch. 54, art. 57; 2012, ch. 5, art. 11.
 
 
 
@@ -6273,12 +7820,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **308** 
 
-- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires :
+- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires ou aux membres, selon le cas :
 	- **a)** un rapport financier annuel comparatif désigné dans la présente loi sous le nom de « rapport annuel », et couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
 		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
 	- **b)** le rapport du ou des vérificateurs de la banque;
-	- **c)** tous les autres renseignements sur la situation financière de la banque et les résultats de ses opérations à présenter, selon ses règlements administratifs, aux actionnaires à l’assemblée annuelle.
+	- **c)** tous les autres renseignements sur la situation financière de la banque et les résultats de ses opérations à présenter, selon ses règlements administratifs, aux actionnaires ou aux membres à l’assemblée annuelle.
 
 **Teneur du rapport annuel**
 
@@ -6291,6 +7838,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont la banque et ses autres filiales ont la propriété effective;
+	- **a.1)** dans le cas d’une coopérative de crédit fédérale :
+		- **(i)** le nombre de membres qu’elle compte à la fin de l’exercice,
+		- **(ii)** le pourcentage des services financiers transigés au cours de l’exercice avec ses membres par rapport au revenu brut de la coopérative de crédit fédérale au cours de cet exercice,
+		- **(iii)** le pourcentage de membres qui sont des personnes physiques à la fin de l’exercice,
+		- **(iv)** une déclaration indiquant si elle était organisée et opérait sur la base du principe coopératif énoncé à l’article 12.1 à la fin de l’exercice;
 	- **b)** les autres renseignements, en la forme réglementaire, que le gouverneur en conseil peut exiger par décret.
 
 **Principes comptables**
@@ -6300,7 +7852,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 1991, ch. 46, art. 308; 1997, ch. 15, art. 33; 2001, ch. 9, art. 92; 2005, ch. 54, art. 69.
+> 1991, ch. 46, art. 308; 1997, ch. 15, art. 33; 2001, ch. 9, art. 92; 2005, ch. 54, art. 69; 2010, ch. 12, art. 2018.
 
 
 
@@ -6331,7 +7883,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Examen**
 
-- **(2)** Sous réserve des autres dispositions du présent article, les actionnaires de la banque, ainsi que leurs représentants personnels, peuvent, sur demande, examiner les états mentionnés au paragraphe (1) et en reproduire, gratuitement, des extraits pendant les heures normales d’ouverture des bureaux de la banque.
+- **(2)** Sous réserve des autres dispositions du présent article, les actionnaires ou les membres de la banque, ainsi que leurs représentants personnels, peuvent, sur demande, examiner les états mentionnés au paragraphe (1) et en reproduire, gratuitement, des extraits pendant les heures normales d’ouverture des bureaux de la banque.
 
 **Interdiction**
 
@@ -6344,6 +7896,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Avis au surintendant**
 
 - **(5)** La banque donne avis de la demande d’interdiction au surintendant et à la personne désirant examiner les états visés au paragraphe (1); ils peuvent comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
+> 1991, ch. 46, art. 310; 2010, ch. 12, art. 2019.
+
 
 
 
@@ -6352,16 +7906,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **311** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 152(1)b), la banque fait parvenir à tous les actionnaires qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 308(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 152(1)b), la banque fait parvenir à tous les actionnaires ou, dans le cas d’une coopérative de crédit fédérale, à tous les membres et à tous les actionnaires, s’il y a lieu, qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 308(1) et (3).
 
 **Exception**
 
-- **(2)** La banque n’est pas tenue de se conformer au paragraphe (1) à l’égard d’un actionnaire qui l’informe par écrit qu’il ne souhaite pas recevoir le rapport annuel.
+- **(2)** La banque n’est pas tenue de se conformer au paragraphe (1) à l’égard d’une personne qui l’informe par écrit qu’elle ne souhaite pas recevoir le rapport annuel.
 
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 1991, ch. 46, art. 311; 1997, ch. 15, art. 34; 2005, ch. 54, art. 71.
+> 1991, ch. 46, art. 311; 1997, ch. 15, art. 34; 2005, ch. 54, art. 71; 2010, ch. 12, art. 2020 et 2135.
 
 
 
@@ -6375,8 +7929,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Envoi à une date postérieure**
 
-- **(2)** Dans les cas où les actionnaires ont signé la résolution, visée à l’alinéa 152(1)b), qui tient lieu d’assemblée annuelle, la banque envoie les documents dans les trente jours suivant la signature de la résolution.
-> 1991, ch. 46, art. 312; 1997, ch. 15, art. 35; 2001, ch. 9, art. 93.
+- **(2)** Dans les cas où les actionnaires ou les membres ont signé la résolution, visée à l’alinéa 152(1)b), qui tient lieu d’assemblée annuelle, la banque envoie les documents dans les trente jours suivant la signature de la résolution.
+> 1991, ch. 46, art. 312; 1997, ch. 15, art. 35; 2001, ch. 9, art. 93; 2010, ch. 12, art. 2021.
 
 
 
@@ -6403,15 +7957,17 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **314** 
 
-- **(1)** Les actionnaires de la banque doivent, par résolution ordinaire, à leur première assemblée et à chaque assemblée annuelle subséquente, nommer un cabinet de comptables à titre de vérificateur de la banque. Le mandat du vérificateur expire à la clôture de l’assemblée annuelle suivante.
+- **(1)** Les actionnaires de la banque ou, dans le cas d’une coopérative de crédit fédérale, ses membres doivent, par résolution ordinaire, à leur première assemblée et à chaque assemblée annuelle subséquente, nommer un cabinet de comptables à titre de vérificateur de la banque. Le mandat du vérificateur expire à la clôture de l’assemblée annuelle suivante.
 
 **Vérificateurs**
 
-- **(2)** Les actionnaires de la banque peuvent, par résolution ordinaire, à leur première assemblée et à chaque assemblée annuelle subséquente, nommer deux cabinets de comptables à titre de vérificateurs de la banque. Le mandat des vérificateurs expire à la clôture de l’assemblée annuelle suivante.
+- **(2)** Les actionnaires de la banque ou, dans le cas d’une coopérative de crédit fédérale, ses membres peuvent, par résolution ordinaire, à leur première assemblée et à chaque assemblée annuelle subséquente, nommer deux cabinets de comptables à titre de vérificateurs de la banque. Le mandat des vérificateurs expire à la clôture de l’assemblée annuelle suivante.
 
 **Rémunération des vérificateurs**
 
-- **(3)** La rémunération du ou des vérificateurs est fixée par résolution ordinaire des actionnaires ou, à défaut, par le conseil d’administration.
+- **(3)** La rémunération du ou des vérificateurs est fixée par résolution ordinaire des actionnaires ou, dans le cas d’une coopérative de crédit fédérale, de ses membres ou, à défaut, par le conseil d’administration.
+> 1991, ch. 46, art. 314; 2010, ch. 12, art. 2022.
+
 
 
 
@@ -6420,8 +7976,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **315** 
 
-- **(1)** Peut être nommé vérificateur le cabinet de comptables dont :
-	- **a)** au moins deux des membres :
+- **(1)** Peut être nommé vérificateur le cabinet de comptables dont :
+	- **a)** au moins deux des membres :
 		- **(i)** sont membres en règle d’un institut ou d’une association de comptables constitués en personne morale sous le régime d’une loi provinciale,
 		- **(ii)** possèdent chacun cinq ans d’expérience au niveau supérieur dans l’exécution de la vérification d’institutions financières,
 		- **(iii)** résident habituellement au Canada,
@@ -6430,11 +7986,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Indépendance**
 
-- **(2)** Pour l’application du paragraphe (1) :
+- **(2)** Pour l’application du paragraphe (1) :
 	- **a)** l’indépendance est une question de fait;
 	- **b)** le membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque si lui-même, son associé ou le cabinet de comptables lui-même :
 		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la banque ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la banque ou d’une entité de son groupe,
-		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions de la banque ou d’une entité de son groupe,
+		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions ou des parts sociales de la banque ou d’une entité de son groupe,
 		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la banque dans les deux ans précédant la date de la proposition de la nomination du cabinet au poste de vérificateur, sauf si l’entité est une filiale de la banque acquise conformément à l’article 472 ou dont l’acquisition découle de la réalisation d’une sûreté en vertu de l’article 473.
 
 **Associé**
@@ -6452,7 +8008,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Poste déclaré vacant**
 
 - **(5)** Dans le cas visé au paragraphe (4), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 1991, ch. 46, art. 315; 2001, ch. 9, art. 94; 2005, ch. 54, art. 72.
+> 1991, ch. 46, art. 315; 2001, ch. 9, art. 94; 2005, ch. 54, art. 72; 2010, ch. 12, art. 2023.
 
 
 
@@ -6475,7 +8031,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **317** 
 
-- **(1)** Les actionnaires peuvent, par résolution ordinaire adoptée lors d’une assemblée extraordinaire, révoquer un vérificateur.
+- **(1)** Les actionnaires ou, dans le cas d’une coopérative de crédit fédérale, ses membres peuvent, par résolution ordinaire adoptée lors d’une assemblée extraordinaire, révoquer un vérificateur.
 
 **Idem**
 
@@ -6484,6 +8040,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Vacance**
 
 - **(3)** La vacance créée par la révocation du vérificateur conformément au paragraphe (1) peut être comblée lors de l’assemblée où celle-ci a eu lieu; à défaut, elle est comblée par le conseil d’administration en application de l’article 319.
+> 1991, ch. 46, art. 317; 2010, ch. 12, art. 2024.
+
 
 
 
@@ -6492,13 +8050,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **318** 
 
-- **(1)** Le mandat du vérificateur prend fin à, selon le cas :
+- **(1)** Le mandat du vérificateur prend fin à, selon le cas :
 	- **a)** sa démission;
-	- **b)** sa révocation par les actionnaires ou le surintendant.
+	- **b)** sa révocation par le surintendant, les actionnaires ou, dans le cas d’une coopérative de crédit fédérale, ses membres.
 
 **Date d’effet de la démission**
 
 - **(2)** La démission du vérificateur prend effet à la date de son envoi par écrit à la banque ou, si elle est postérieure, à la date qui y est précisée.
+> 1991, ch. 46, art. 318; 2010, ch. 12, art. 2025.
+
 
 
 
@@ -6524,19 +8084,21 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **320** 
 
-- **(1)** Le ou les vérificateurs de la banque ont le droit de recevoir avis de toute assemblée des actionnaires, d’y assister aux frais de la banque et d’y être entendus sur toute question relevant de leurs fonctions.
+- **(1)** Le ou les vérificateurs de la banque ont le droit de recevoir avis de toute assemblée des actionnaires et, dans le cas d’une coopérative de crédit fédérale, de toute assemblée des membres, d’y assister aux frais de la banque et d’y être entendus sur toute question relevant de leurs fonctions.
 
 **Obligation d’assister à l’assemblée**
 
-- **(2)** Le vérificateur — ancien ou en exercice — à qui l’un des administrateurs ou un actionnaire habile ou non à voter donne avis écrit, au moins dix jours à l’avance, de la tenue d’une assemblée des actionnaires et de son désir de l’y voir présent, doit y assister aux frais de la banque et répondre à toute question relevant de ses fonctions.
+- **(2)** Le vérificateur — ancien ou en exercice — à qui l’un des administrateurs, un actionnaire habile ou non à voter ou, dans le cas d’une coopérative de crédit fédérale, un membre donne avis écrit, au moins dix jours à l’avance, de la tenue d’une assemblée et de son désir de l’y voir présent, doit y assister aux frais de la banque et répondre à toute question relevant de ses fonctions.
 
 **Avis à la banque**
 
-- **(3)** L’administrateur ou l’actionnaire qui donne l’avis en fait parvenir simultanément un exemplaire à la banque, laquelle en adresse sans délai copie au surintendant.
+- **(3)** La personne qui donne l’avis en fait parvenir simultanément un exemplaire à la banque, laquelle en adresse sans délai copie au surintendant.
 
 **Droit d’assister à l’assemblée**
 
 - **(4)** Le surintendant peut assister à l’assemblée et y être entendu.
+> 1991, ch. 46, art. 320; 2010, ch. 12, art. 2026.
+
 
 
 
@@ -6545,10 +8107,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **321** 
 
-- **(1)** Est tenu de soumettre à la banque et au surintendant une déclaration écrite exposant les motifs de sa démission ou de son opposition aux mesures envisagées le vérificateur de la banque qui, selon le cas :
+- **(1)** Est tenu de soumettre à la banque et au surintendant une déclaration écrite exposant les motifs de sa démission ou de son opposition aux mesures envisagées le vérificateur de la banque qui, selon le cas :
 	- **a)** démissionne;
-	- **b)** est informé, notamment par voie d’avis, de la convocation d’une assemblée des actionnaires ayant pour but de le révoquer;
-	- **c)** est informé, notamment par voie d’avis, de la tenue d’une réunion du conseil d’administration ou d’une assemblée des actionnaires destinée à pourvoir le poste de vérificateur par suite de sa démission, de sa révocation ou de l’expiration effective ou prochaine de son mandat.
+	- **b)** est informé, notamment par voie d’avis, de la convocation d’une assemblée des actionnaires ou, dans le cas d’une coopérative de crédit fédérale, des membres ayant pour but de le révoquer;
+	- **c)** est informé, notamment par voie d’avis, de la tenue d’une réunion du conseil d’administration ou d’une assemblée des actionnaires ou, dans le cas d’une coopérative de crédit fédérale, des membres destinée à pourvoir le poste de vérificateur par suite de sa démission, de sa révocation ou de l’expiration effective ou prochaine de son mandat.
 
 **Autres déclarations**
 
@@ -6556,8 +8118,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Diffusion des motifs**
 
-- **(2)** La banque envoie sans délai au surintendant et à tout actionnaire habile à voter à l’assemblée annuelle copie des déclarations visées aux paragraphes (1) et (1.1).
-> 1991, ch. 46, art. 321; 2005, ch. 54, art. 73.
+- **(2)** La banque envoie sans délai au surintendant, à tout actionnaire et, dans le cas d’une coopérative de crédit fédérale, à tout membre habiles à voter à l’assemblée annuelle copie des déclarations visées aux paragraphes (1) et (1.1).
+> 1991, ch. 46, art. 321; 2005, ch. 54, art. 73; 2010, ch. 12, art. 2027.
 
 
 
@@ -6580,15 +8142,17 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Examen**
+**Examen des vérificateurs**
 
 **323** 
 
-- **(1)** Le ou les vérificateurs de la banque procèdent à l’examen qu’ils estiment nécessaire pour faire rapport sur le rapport annuel et sur les autres états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 308(1)a)(ii).
+- **(1)** Le ou les vérificateurs de la banque procèdent à l’examen qu’ils estiment nécessaire pour faire rapport sur le rapport annuel et sur les autres états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires ou, dans le cas d’une coopérative de crédit fédérale, aux membres, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 308(1)a)(ii).
 
 **Normes applicables**
 
 - **(2)** Sauf spécification contraire du surintendant, le ou les vérificateurs appliquent les normes de vérification généralement reconnues et principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
+> 1991, ch. 46, art. 323; 2010, ch. 12, art. 2028.
+
 
 
 
@@ -6622,7 +8186,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Vérification spéciale**
 
-- **(2)** Le surintendant peut exiger, par écrit, que le ou les vérificateurs de la banque procèdent à une vérification spéciale visant à déterminer si la méthode utilisée par la banque pour sauvegarder les intérêts de ses créanciers et de ses actionnaires est adéquate, ainsi qu’à toute autre vérification rendue nécessaire, à son avis, par l’intérêt public, et lui fassent rapport à ce sujet.
+- **(2)** Le surintendant peut exiger, par écrit, que le ou les vérificateurs de la banque procèdent à une vérification spéciale visant à déterminer si la méthode utilisée par la banque pour sauvegarder les intérêts de ses créanciers, de ses actionnaires et, dans le cas d’une coopérative de crédit fédérale, de ses membres est adéquate, ainsi qu’à toute autre vérification rendue nécessaire, à son avis, par l’intérêt public, et lui fassent rapport à ce sujet.
 
 **Idem**
 
@@ -6631,7 +8195,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Dépenses**
 
 - **(4)** Les dépenses engagées en application des paragraphes (1) à (3) sont, si elles sont autorisées par écrit par le surintendant, à la charge de la banque.
-> 1991, ch. 46, art. 325; 1999, ch. 31, art. 13(F).
+> 1991, ch. 46, art. 325; 1999, ch. 31, art. 13(F); 2010, ch. 12, art. 2029.
 
 
 
@@ -6641,7 +8205,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **326** 
 
-- **(1)** Au moins vingt et un jours avant la date de l’assemblée annuelle, le ou les vérificateurs établissent un rapport écrit à l’intention des actionnaires concernant le rapport annuel prévu au paragraphe 308(1).
+- **(1)** Au moins vingt et un jours avant la date de l’assemblée annuelle, le ou les vérificateurs établissent un rapport écrit à l’intention des actionnaires ou, dans le cas d’une coopérative de crédit fédérale, des membres concernant le rapport annuel prévu au paragraphe 308(1).
 
 **Teneur du rapport**
 
@@ -6649,23 +8213,27 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Observations**
 
-- **(3)** Dans chacun des rapports, le ou les vérificateurs incluent les observations qu’ils estiment nécessaires dans les cas où :
+- **(3)** Dans chacun des rapports, le ou les vérificateurs incluent les observations qu’ils estiment nécessaires dans les cas où :
 	- **a)** l’examen n’a pas été effectué selon les normes de vérification visées au paragraphe 323(2);
 	- **b)** le rapport annuel en question et celui de l’exercice précédent n’ont pas été établis sur la même base;
 	- **c)** le rapport annuel, compte tenu des principes comptables visés au paragraphe 308(4), ne reflète pas fidèlement soit la situation financière de la banque à la clôture de l’exercice auquel il se rapporte, soit le résultat de ses opérations, soit les modifications survenues dans sa situation financière au cours de cet exercice.
+> 1991, ch. 46, art. 326; 2010, ch. 12, art. 2030.
 
 
 
 
-**Rapport aux actionnaires**
+
+**Rapport du ou des vérificateurs**
 
 **327** 
 
-- **(1)** Si les actionnaires l’exigent, le ou les vérificateurs de la banque vérifient tout état financier soumis par le conseil d’administration aux actionnaires; le rapport que le ou les vérificateurs leur font doit indiquer si, à leur avis, l’état financier présente fidèlement les renseignements demandés.
+- **(1)** Si les actionnaires ou, dans le cas d’une coopérative de crédit fédérale, les membres ou les actionnaires l’exigent, le ou les vérificateurs de la banque vérifient tout état financier soumis par le conseil d’administration aux actionnaires ou aux membres; le rapport que le ou les vérificateurs leur font doit indiquer si, à leur avis, l’état financier présente fidèlement les renseignements demandés.
 
-**Idem**
+**Rapport du ou des vérificateurs**
 
-- **(2)** Le rapport en question est annexé à l’état financier auquel il se rapporte; le conseil d’administration en fait parvenir un exemplaire, ainsi que de l’état, à chaque actionnaire et au surintendant.
+- **(2)** Le rapport en question est annexé à l’état financier auquel il se rapporte; le conseil d’administration en fait parvenir un exemplaire, ainsi que de l’état, au surintendant et à chaque actionnaire et, dans le cas d’une coopérative de crédit fédérale, également à chaque membre.
+> 1991, ch. 46, art. 327; 2010, ch. 12, art. 2031.
+
 
 
 
@@ -6745,7 +8313,9 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Obligation du conseil d’administration**
 
-- **(3)** Une fois mis au courant, le conseil d’administration fait établir et publier un rapport ou état révisé ou informe par tous autres moyens les actionnaires et le surintendant des erreurs ou renseignements inexacts qui lui ont été révélés.
+- **(3)** Une fois mis au courant, le conseil d’administration fait établir et publier un rapport ou état révisé ou informe par tous autres moyens le surintendant, les actionnaires et, dans le cas d’une coopérative de crédit fédérale, les membres des erreurs ou renseignements inexacts qui lui ont été révélés.
+> 1991, ch. 46, art. 332; 2010, ch. 12, art. 2032.
+
 
 
 
@@ -6787,28 +8357,34 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **335** 
 
-- **(1)** Le tribunal saisi peut rendre l’ordonnance qu’il estime indiquée et, notamment :
+- **(1)** Le tribunal saisi peut rendre l’ordonnance qu’il estime indiquée et, notamment :
 	- **a)** autoriser le plaignant, le surintendant ou toute autre personne à assurer la conduite de l’action;
 	- **b)** donner des instructions sur la conduite de l’action;
-	- **c)** faire payer directement aux anciens ou actuels détenteurs de valeurs mobilières, et non à la banque ou à sa filiale, en tout ou en partie, les sommes mises à la charge d’un défendeur;
+	- **c)** faire payer directement, et non à la banque ou à sa filiale, en tout ou en partie, les sommes mises à la charge d’un défendeur :
+		- **(i)** soit, dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, aux anciens ou actuels détenteurs de valeurs mobilières de la banque ou de sa filiale,
+		- **(ii)** soit, dans le cas d’une coopérative de crédit fédérale, aux anciens ou actuels membres ou détenteurs de valeurs mobilières de la coopérative de crédit fédérale ou aux anciens ou actuels détenteurs de valeurs mobilières de sa filiale;
 	- **d)** obliger la banque ou sa filiale à payer les frais de justice raisonnables supportés par le plaignant ou le surintendant dans le cadre de l’action.
 
 **Compétence**
 
 - **(2)** Le tribunal ne peut rendre l’ordonnance nécessitant, aux termes de la présente loi, l’agrément du ministre ou du surintendant.
+> 1991, ch. 46, art. 335; 2010, ch. 12, art. 2033.
 
 
 
 
-**Preuve de l’approbation des actionnaires non décisive**
+
+**Preuve de l’approbation non décisive**
 
 **336** 
 
-- **(1)** Le fait qu’il est prouvé que les actionnaires ont approuvé, ou pourraient approuver, la prétendue inexécution d’obligations envers la banque et sa filiale, ou l’une d’elles, ne constitue pas un motif suffisant pour suspendre ou rejeter les demandes, actions ou interventions visées au paragraphe 334(1) ou à l’article 338; le tribunal peut toutefois tenir compte de cette preuve en rendant son ordonnance.
+- **(1)** Le fait qu’il est prouvé que les actionnaires ou les membres, selon le cas, ont approuvé, ou pourraient approuver, la prétendue inexécution d’obligations envers la banque et sa filiale, ou l’une d’elles, ne constitue pas un motif suffisant pour suspendre ou rejeter les demandes, actions ou interventions visées au paragraphe 334(1) ou à l’article 338; le tribunal peut toutefois tenir compte de cette preuve en rendant son ordonnance.
 
 **Approbation de l’abandon des poursuites**
 
 - **(2)** La suspension, l’abandon, le règlement ou le rejet des demandes, actions ou interventions visées au paragraphe 334(1) ou à l’article 338 pour cause de défaut de procédure utile est subordonné à son approbation par le tribunal selon les modalités qu’il estime indiquées; le tribunal peut également ordonner à toute partie d’en donner avis aux plaignants s’il conclut que leurs droits pourraient être sérieusement atteints.
+> 1991, ch. 46, art. 336; 2010, ch. 12, art. 2034.
+
 
 
 
@@ -6832,7 +8408,7 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **338** 
 
-- **(1)** La banque — ainsi que tout détenteur de ses valeurs mobilières ou toute personne qui subit un préjudice — peut demander au tribunal de rectifier, par ordonnance, son registre des valeurs mobilières ou ses autres livres, si le nom d’une personne y a été inscrit, maintenu, supprimé ou omis prétendument à tort.
+- **(1)** La banque — ainsi que tout détenteur de ses valeurs mobilières ou, dans le cas d’une coopérative de crédit fédérale, tout membre ou toute personne qui subit un préjudice — peut demander au tribunal de rectifier, par ordonnance, son registre des valeurs mobilières, son registre des membres ou ses autres livres, si le nom d’une personne y a été inscrit, maintenu, supprimé ou omis prétendument à tort.
 
 **Avis au surintendant**
 
@@ -6840,11 +8416,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Pouvoirs du tribunal**
 
-- **(3)** En donnant suite aux demandes visées au présent article, le tribunal peut rendre les ordonnances qu’il estime indiquées, notamment pour :
-	- **a)** ordonner la rectification du registre des valeurs mobilières ou des autres livres de la banque;
-	- **b)** enjoindre à la banque de ne pas convoquer ou tenir d’assemblée ni de verser de dividende avant la rectification;
-	- **c)** déterminer le droit d’une partie à l’inscription, au maintien, à la suppression ou à l’omission de son nom dans le registre des valeurs mobilières ou autres livres de la banque, que le litige survienne entre plusieurs détenteurs ou prétendus détenteurs de valeurs mobilières ou entre eux et la banque;
+- **(3)** En donnant suite aux demandes visées au présent article, le tribunal peut rendre les ordonnances qu’il estime indiquées, notamment pour :
+	- **a)** ordonner la rectification du registre ou des autres livres de la banque;
+	- **b)** enjoindre à la banque de ne pas convoquer ou tenir d’assemblée ni de verser de dividende ou de ristourne avant la rectification;
+	- **c)** déterminer le droit d’une partie à l’inscription, au maintien, à la suppression ou à l’omission de son nom dans le registre ou autres livres de la banque, que le litige survienne entre plusieurs détenteurs ou prétendus détenteurs de valeurs mobilières ou entre eux et la banque ou, dans le cas d’une coopérative de crédit fédérale, entre plusieurs membres ou prétendus membres ou entre eux et la banque;
 	- **d)** indemniser toute partie qui a subi une perte.
+> 1991, ch. 46, art. 338; 2010, ch. 12, art. 2035.
+
 
 
 
@@ -6890,7 +8468,9 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **342** 
 
-- **(1)** La banque qui n’a ni biens ni dettes peut, avec l’autorisation soit par résolution extraordinaire des actionnaires, soit — si elle n’a pas d’actionnaires — par résolution de tous les administrateurs, demander au ministre de lui délivrer des lettres patentes de dissolution.
+- **(1)** La banque qui n’a ni biens ni dettes peut demander au ministre de lui délivrer des lettres patentes de dissolution, si elle y est autorisée :
+	- **a)** dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, par résolution extraordinaire des actionnaires ou, si elle n’a pas d’actionnaires, par résolution de tous les administrateurs;
+	- **b)** dans le cas d’une coopérative de crédit fédérale, par résolution extraordinaire des membres et, le cas échéant, par résolution extraordinaire distincte des actionnaires.
 
 **Dissolution par lettres patentes**
 
@@ -6899,6 +8479,8 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 **Date de dissolution**
 
 - **(3)** La banque cesse d’exister à la date figurant sur les lettres patentes de dissolution.
+> 1991, ch. 46, art. 342; 2010, ch. 12, art. 2036.
+
 
 
 
@@ -6907,20 +8489,27 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **343** 
 
-- **(1)** La liquidation et la dissolution volontaires d’une banque autre que celle mentionnée au paragraphe 342(1) peuvent être proposées :
+- **(1)** La liquidation et la dissolution volontaires d’une banque autre que celle mentionnée au paragraphe 342(1) peuvent être proposées :
 	- **a)** soit par son conseil d’administration;
-	- **b)** soit par tout actionnaire ayant droit de vote à l’assemblée annuelle des actionnaires aux termes des articles 143 et 144.
+	- **b)** soit, dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, par tout actionnaire ayant droit de vote à l’assemblée annuelle des actionnaires aux termes des articles 143 et 144;
+	- **c)** soit, dans le cas d’une coopérative de crédit fédérale, par tout membre aux termes de l’article 144.1.
 
 **Avis d’assemblée**
 
 - **(2)** L’avis de convocation de l’assemblée qui doit statuer sur la proposition de liquidation et de dissolution volontaires de la banque doit en exposer les modalités.
+> 1991, ch. 46, art. 343; 2010, ch. 12, art. 2037.
 
 
 
 
-**Résolution des actionnaires**
 
-**344** La banque visée à l’article 343 peut, si elle y est autorisée par résolution extraordinaire des actionnaires ou, lorsqu’elle a émis plusieurs catégories d’actions — assorties ou non du droit de vote — , par résolution extraordinaire des détenteurs de chacune d’elles, demander au ministre de lui délivrer des lettres patentes de dissolution.
+**Résolutions**
+
+**344** La banque visée à l’article 343 peut demander au ministre de lui délivrer des lettres patentes de dissolution dans l’une des situations suivantes :
+- **a)** dans le cas d’une banque qui n’est pas une coopérative de crédit fédérale, elle y est autorisée par résolution extraordinaire des actionnaires ou, lorsqu’elle a émis plusieurs catégories d’actions — assorties ou non du droit de vote —, par résolution extraordinaire des détenteurs de chacune d’elles;
+- **b)** dans le cas d’une coopérative de crédit fédérale, elle y est autorisée par résolution extraordinaire des membres et lorsqu’elle a émis une ou plusieurs catégories d’actions — assorties ou non du droit de vote —, par résolution extraordinaire des détenteurs de chacune d’elles.
+> 1991, ch. 46, art. 344; 2010, ch. 12, art. 2038.
+
 
 
 
@@ -6941,11 +8530,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Liquidation**
 
-- **(4)** La banque dont la demande est agréée doit :
+- **(4)** La banque dont la demande est agréée doit :
 	- **a)** faire parvenir un avis de l’agrément à chaque réclamant et chaque créancier connus;
 	- **b)** faire insérer cet avis, une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et une fois par semaine pendant deux semaines consécutives dans un ou plusieurs journaux à grand tirage publiés dans chaque province où elle a exercé son activité au cours des douze derniers mois;
-	- **c)** accomplir tous actes utiles à la dissolution, notamment recouvrer ses biens, disposer des biens non destinés à être répartis en nature entre les actionnaires et honorer ses obligations;
-	- **d)** après avoir accompli les formalités imposées par les alinéas a) et b) et constitué une provision suffisante pour honorer ses obligations, répartir le reliquat de l’actif, en numéraire ou en nature, entre les actionnaires selon leurs droits respectifs.
+	- **c)** accomplir tous actes utiles à la dissolution, notamment recouvrer ses biens, disposer des biens non destinés à être répartis en nature entre les actionnaires ou les membres, selon le cas, et honorer ses obligations;
+	- **d)** après avoir accompli les formalités imposées par les alinéas a) et b) et constitué une provision suffisante pour honorer ses obligations, répartir le reliquat de l’actif, en numéraire ou en nature, entre les actionnaires selon leurs droits respectifs ou entre les membres, selon le cas.
+> 1991, ch. 46, art. 345; 2010, ch. 12, art. 2039.
+
 
 
 
@@ -6999,30 +8590,30 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Pouvoirs du tribunal**
 
-**349** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de la banque d’acquitter ses obligations ou de constituer une provision pour les honorer, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
+**349** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de la banque d’acquitter ses obligations ou de constituer une provision pour les honorer, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
 - **a)** ordonner la liquidation;
 - **b)** nommer un liquidateur en exigeant ou non un cautionnement, fixer sa rémunération et le remplacer;
 - **c)** nommer des inspecteurs ou des arbitres, préciser leurs pouvoirs, fixer leur rémunération et les remplacer;
 - **d)** fixer l’avis à donner aux intéressés ou accorder une dispense d’avis;
 - **e)** juger de la validité des réclamations faites contre la banque;
-- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
+- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
 	- **(i)** soit d’exercer tout ou partie de leurs pouvoirs,
 	- **(ii)** soit de recouvrer ou de recevoir toute créance ou autre bien de la banque ou de payer ou céder tout bien de celle-ci, sauf de la manière autorisée par le tribunal;
-- **g)** préciser et engager la responsabilité des administrateurs, dirigeants ou actionnaires ou de leurs prédécesseurs :
+- **g)** préciser et engager la responsabilité des administrateurs, dirigeants, membres ou actionnaires ou de leurs prédécesseurs :
 	- **(i)** soit envers la banque,
 	- **(ii)** soit envers les tiers pour les obligations de la banque;
 - **h)** approuver, en ce qui concerne les dettes de la banque, tout paiement, règlement, transaction ou rétention d’éléments d’actif, et juger si les provisions constituées suffisent à acquitter ou à céder les obligations de la banque, qu’elles soient ou non liquidées, futures ou éventuelles;
 - **i)** fixer, en accord avec le surintendant, l’usage qui sera fait des documents, livres et registres de la banque ou ordonner de les détruire;
 - **j)** sur demande d’un créancier, d’un inspecteur ou du liquidateur, donner des instructions sur toute question touchant à la liquidation;
 - **k)** sur avis à tous les intéressés, décharger le liquidateur de ses manquements, selon les modalités que le tribunal estime indiquées, et confirmer ses actes;
-- **l)** sous réserve des articles 356 à 358, approuver tout projet de répartition provisoire ou définitive entre les actionnaires ou les fondateurs, en numéraire ou en biens;
-- **m)** fixer la destination des biens appartenant aux créanciers, actionnaires ou fondateurs introuvables;
-- **n)** sur demande de tout administrateur, dirigeant, actionnaire, fondateur, créancier ou liquidateur :
+- **l)** sous réserve des articles 356 à 358, approuver tout projet de répartition provisoire ou définitive entre les actionnaires, les membres ou les fondateurs, en numéraire ou en biens;
+- **m)** fixer la destination des biens appartenant aux créanciers, actionnaires, membres ou fondateurs introuvables;
+- **n)** sur demande de tout administrateur, dirigeant, actionnaire, membre, fondateur, créancier ou liquidateur :
 	- **(i)** surseoir à la liquidation, selon les modalités que le tribunal estime convenir,
 	- **(ii)** poursuivre ou interrompre la procédure de liquidation,
 	- **(iii)** enjoindre au liquidateur de restituer à la banque le reliquat des biens de celle-ci;
 - **o)** après la reddition de compte définitive du liquidateur devant le tribunal, obliger la banque à demander au ministre de lui délivrer des lettres patentes de dissolution.
-> 1991, ch. 46, art. 349; 2005, ch. 54, art. 77(F).
+> 1991, ch. 46, art. 349; 2005, ch. 54, art. 77(F); 2010, ch. 12, art. 2040.
 
 
 
@@ -7032,20 +8623,24 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **350** 
 
-- **(1)** Toute ordonnance de liquidation a pour la banque les effets suivants :
+- **(1)** Toute ordonnance de liquidation a pour la banque les effets suivants :
 	- **a)** tout en continuant à exister, elle cesse d’exercer son activité commerciale, à l’exception de celle que le liquidateur estime nécessaire au déroulement des opérations de la liquidation;
-	- **b)** les pouvoirs de ses administrateurs et actionnaires sont dévolus au liquidateur, sauf indication contraire et expresse du tribunal.
+	- **b)** les pouvoirs de ses administrateurs, membres et actionnaires sont dévolus au liquidateur, sauf indication contraire et expresse du tribunal.
 
 **Délégation par le liquidateur**
 
-- **(2)** Le liquidateur peut déléguer aux administrateurs ou aux actionnaires la totalité ou une partie des pouvoirs qui lui sont dévolus en vertu de l’alinéa (1)b).
+- **(2)** Le liquidateur peut déléguer aux administrateurs, aux membres ou aux actionnaires la totalité ou une partie des pouvoirs qui lui sont dévolus en vertu de l’alinéa (1)b).
+> 1991, ch. 46, art. 350; 2010, ch. 12, art. 2041.
+
 
 
 
 
 **Nomination du liquidateur**
 
-**351** Le tribunal peut nommer dans l’ordonnance, ou par la suite, en qualité de liquidateur toute personne et, notamment, l’un des administrateurs, dirigeants ou actionnaires de la banque ou d’une autre banque.
+**351** Le tribunal peut nommer dans l’ordonnance, ou par la suite, en qualité de liquidateur toute personne et, notamment, l’un des administrateurs, dirigeants, membres ou actionnaires de la banque ou d’une autre banque.
+> 1991, ch. 46, art. 351; 2010, ch. 12, art. 2042.
+
 
 
 
@@ -7061,23 +8656,23 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **353** 
 
-- **(1)** Les obligations à remplir par le liquidateur sont les suivantes :
+- **(1)** Les obligations à remplir par le liquidateur sont les suivantes :
 	- **a)** donner avis, sans délai, de sa nomination au surintendant et aux réclamants et créanciers connus de lui;
-	- **b)** insérer dès sa nomination, dans la Gazette du Canada, une fois par semaine pendant quatre semaines consécutives et une fois par semaine pendant deux semaines consécutives, dans un ou plusieurs journaux à grand tirage publiés dans chaque province où la banque a exercé son activité pendant les douze mois précédents, un avis obligeant :
+	- **b)** insérer dès sa nomination, dans la Gazette du Canada, une fois par semaine pendant quatre semaines consécutives et une fois par semaine pendant deux semaines consécutives, dans un ou plusieurs journaux à grand tirage publiés dans chaque province où la banque a exercé son activité pendant les douze mois précédents, un avis obligeant :
 		- **(i)** les débiteurs de la banque à lui rendre compte et à lui payer leurs dettes, aux date, heure et lieu précisés,
 		- **(ii)** les personnes possédant des biens de la banque à les lui remettre aux date, heure et lieu précisés,
 		- **(iii)** les créanciers de la banque à lui fournir par écrit un relevé détaillé de leur créance, qu’elle soit ou non liquidée, future ou éventuelle, dans les soixante jours de la première publication de l’avis;
 	- **c)** prendre sous sa garde et sous son contrôle tous les biens de la banque;
 	- **d)** ouvrir un compte de fiducie pour les fonds reçus dans le cadre de la liquidation de la banque;
 	- **e)** tenir une comptabilité des recettes et dépenses liées à la liquidation de la banque;
-	- **f)** tenir des listes distinctes de chaque catégorie de créanciers, actionnaires et autres réclamants;
+	- **f)** tenir des listes distinctes pour les membres et pour chaque catégorie de créanciers, actionnaires et autres réclamants;
 	- **g)** demander des instructions au tribunal après constatation de l’incapacité de la banque d’honorer ses obligations ou de constituer une provision suffisante à cette fin;
 	- **h)** remettre au tribunal ainsi qu’au surintendant, au moins une fois par douze mois à compter de sa nomination et chaque fois que le tribunal l’ordonne, le rapport annuel de la banque établi conformément au paragraphe 308(1) ou de toute autre façon qu’il juge appropriée ou que le tribunal exige;
-	- **i)** après l’approbation par le tribunal de ses comptes définitifs, répartir le reliquat des biens de la banque entre les actionnaires, ou entre les fondateurs, selon leurs droits respectifs.
+	- **i)** après l’approbation par le tribunal de ses comptes définitifs, répartir le reliquat des biens de la banque entre les actionnaires, entre les fondateurs ou entre les membres, selon leurs droits respectifs.
 
 **Pouvoirs du liquidateur**
 
-- **(2)** Le liquidateur peut exercer les pouvoirs suivants :
+- **(2)** Le liquidateur peut exercer les pouvoirs suivants :
 	- **a)** retenir les services de conseillers professionnels, notamment d’avocats, de notaires, de comptables et d’experts-estimateurs;
 	- **b)** ester en justice, dans toute procédure civile, pénale ou administrative, pour le compte de la banque;
 	- **c)** exercer l’activité commerciale de la banque dans la mesure nécessaire à la liquidation;
@@ -7086,6 +8681,8 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 	- **f)** contracter des emprunts garantis par les biens de la banque;
 	- **g)** transiger sur toutes réclamations mettant en cause la banque ou les régler;
 	- **h)** prendre toute autre mesure nécessaire à la liquidation et à la répartition des biens de la banque.
+> 1991, ch. 46, art. 353; 2010, ch. 12, art. 2043.
+
 
 
 
@@ -7125,21 +8722,23 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **357** 
 
-- **(1)** Dans l’année de sa nomination et après avoir acquitté toutes les dettes de la banque ou constitué une provision suffisante à cette fin, le liquidateur demande au tribunal :
-	- **a)** soit d’approuver ses comptes définitifs et de l’autoriser, par ordonnance, à répartir en numéraire ou en nature le reliquat des biens entre les actionnaires ou entre les fondateurs selon leurs droits respectifs;
+- **(1)** Dans l’année de sa nomination et après avoir acquitté toutes les dettes de la banque ou constitué une provision suffisante à cette fin, le liquidateur demande au tribunal :
+	- **a)** soit d’approuver ses comptes définitifs et de l’autoriser, par ordonnance, à répartir en numéraire ou en nature le reliquat des biens entre les actionnaires, entre les membres ou entre les fondateurs, selon leurs droits respectifs;
 	- **b)** soit, avec motifs à l’appui, de proroger son mandat.
 
-**Demande des actionnaires**
+**Demande des actionnaires ou des membres**
 
-- **(2)** Tout actionnaire ou, à défaut, tout fondateur, peut demander au tribunal d’obliger, par ordonnance, le liquidateur qui ne présente pas la demande exigée par le paragraphe (1) à justifier pourquoi son compte définitif ne peut être dressé et une répartition effectuée.
+- **(2)** Tout actionnaire et, dans le cas d’une coopérative de crédit fédérale, tout membre — ou, à défaut, tout fondateur — peut demander au tribunal d’obliger, par ordonnance, le liquidateur qui ne présente pas la demande exigée par le paragraphe (1) à justifier pourquoi son compte définitif ne peut être dressé et une répartition effectuée.
 
 **Avis**
 
-- **(3)** Le liquidateur doit donner avis de son intention de présenter la demande prévue au paragraphe (1) au surintendant, à chaque inspecteur nommé en vertu de l’article 349, à chaque actionnaire ou, à défaut, à chaque fondateur et aux personnes ayant fourni une sûreté ou une assurance détournement et vol pour les besoins de la liquidation.
+- **(3)** Le liquidateur doit donner avis de son intention de présenter la demande prévue au paragraphe (1) au surintendant, à chaque inspecteur nommé en vertu de l’article 349, à chaque actionnaire ou, à défaut, à chaque fondateur et aux personnes ayant fourni une sûreté ou une assurance détournement et vol pour les besoins de la liquidation. Dans le cas d’une coopérative de crédit fédérale, l’avis doit également être donné à chaque membre.
 
 **Publication**
 
 - **(4)** Le liquidateur fait insérer l’avis visé au paragraphe (3) dans la Gazette du Canada et, une fois par semaine pendant deux semaines consécutives, dans un ou plusieurs journaux à grand tirage publiés dans chaque province où la banque a exercé son activité pendant les douze mois précédents ou le fait connaître par tout autre moyen choisi par le tribunal.
+> 1991, ch. 46, art. 357; 2010, ch. 12, art. 2044.
+
 
 
 
@@ -7164,23 +8763,26 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **359** 
 
-- **(1)** Au cours de la liquidation, les actionnaires peuvent décider, ou le liquidateur proposer :
-	- **a)** soit d’échanger la totalité ou la quasi-totalité du reliquat des biens de la banque contre des valeurs mobilières d’une autre entité à répartir entre les actionnaires ou les fondateurs;
-	- **b)** soit de répartir tout ou partie du reliquat des biens de la banque, en nature, entre les actionnaires ou les fondateurs.
-Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’imposer, par ordonnance, la répartition en numéraire du reliquat des biens de la banque.
+- **(1)** Au cours de la liquidation d’une banque qui n’est pas une coopérative de crédit fédérale, lorsque les actionnaires décident ou le liquidateur propose soit d’échanger la totalité ou la quasi-totalité du reliquat des biens de la banque contre des valeurs mobilières d’une autre entité à répartir entre les actionnaires ou les fondateurs, soit de répartir tout ou partie du reliquat des biens de la banque, en nature, entre les actionnaires ou les fondateurs, tout actionnaire ou fondateur peut demander au tribunal d’imposer, par ordonnance, la répartition en numéraire du reliquat des biens de la banque.
+
+**Droit à la répartition en numéraire — coopérative de crédit fédérale**
+
+- **(2)** Au cours de la liquidation d’une coopérative de crédit fédérale, lorsque les membres décident ou le liquidateur propose soit d’échanger la totalité ou la quasi-totalité du reliquat des biens de la coopérative de crédit fédérale contre des valeurs mobilières d’une autre entité à répartir entre les membres ou les membres et les actionnaires, selon le cas, soit de répartir tout ou partie du reliquat des biens de la coopérative de crédit fédérale, en nature, entre les membres ou les membres et les actionnaires, selon le cas, tout membre ou actionnaire peut demander au tribunal d’imposer, par ordonnance, la répartition en numéraire du reliquat des biens de la coopérative de crédit fédérale.
 
 **Pouvoirs du tribunal**
 
-- **(2)** Sur demande présentée en vertu du paragraphe (1), le tribunal peut ordonner :
+- **(3)** Sur demande présentée en vertu des paragraphes (1) ou (2), le tribunal peut ordonner :
 	- **a)** soit la réalisation du reliquat des biens de la banque et la répartition du produit;
-	- **b)** soit le règlement en numéraire des réclamations des actionnaires ou des fondateurs qui en font la demande aux termes du présent article.
+	- **b)** soit le règlement en numéraire des réclamations des personnes qui en font la demande aux termes du présent article.
 
 **Ordonnance du tribunal**
 
-- **(3)** Lorsqu’il rend l’ordonnance visée à l’alinéa (2)b), le tribunal :
-	- **a)** doit fixer la juste valeur de la portion des biens de la banque qui revient à l’actionnaire ou au fondateur;
+- **(4)** Lorsqu’il rend l’ordonnance visée à l’alinéa (3)b), le tribunal :
+	- **a)** doit fixer la juste valeur de la portion des biens de la banque qui revient à la personne;
 	- **b)** peut, à sa discrétion, charger un ou plusieurs experts-estimateurs de l’aider à calculer la juste valeur visée à l’alinéa a);
-	- **c)** doit rendre une ordonnance définitive contre la banque en faveur de l’actionnaire ou du fondateur pour la valeur de la portion des biens de la banque qui revient à celui-ci.
+	- **c)** doit rendre une ordonnance définitive contre la banque en faveur de la personne pour la valeur de la portion des biens de la banque qui revient à celle-ci.
+> 1991, ch. 46, art. 359; 2010, ch. 12, art. 2045.
+
 
 
 
@@ -7202,9 +8804,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Définitions de actionnaire et de fondateur**
+**Définitions de actionnaire, membre et fondateur**
 
-**361** Pour l’application des articles 363 et 364, ***actionnaire*** et ***fondateur*** s’entendent également des héritiers et des représentants personnels de l’un ou l’autre.
+**361** Pour l’application des articles 363 et 364, ***actionnaire***, ***membre*** et ***fondateur*** s’entendent également des héritiers et des représentants personnels de l’un ou l’autre.
+> 1991, ch. 46, art. 361; 2010, ch. 12, art. 2046.
+
 
 
 
@@ -7231,7 +8835,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **363** 
 
-- **(1)** Malgré la dissolution de la banque, les actionnaires ou les fondateurs entre lesquels ont été répartis ses biens engagent leur responsabilité, à concurrence de la somme reçue, envers toute personne invoquant le paragraphe 362(1).
+- **(1)** Malgré la dissolution de la banque, les actionnaires, les membres ou les fondateurs entre lesquels ont été répartis ses biens engagent leur responsabilité, à concurrence de la somme reçue, envers toute personne invoquant le paragraphe 362(1).
 
 **Prescription**
 
@@ -7239,21 +8843,25 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Action en justice collective**
 
-- **(3)** Le tribunal peut ordonner que soit intentée collectivement, contre les anciens actionnaires ou les fondateurs, l’action visée aux paragraphes (1) ou (2), sous réserve des conditions qu’il juge indiquées.
+- **(3)** Le tribunal peut ordonner que soit intentée collectivement, contre les anciens actionnaires, les anciens membres ou les fondateurs, l’action visée aux paragraphes (1) ou (2), sous réserve des conditions qu’il juge indiquées.
 
 **Renvoi**
 
-- **(4)** Si le demandeur établit le bien-fondé de sa demande, le tribunal peut renvoyer l’affaire devant un arbitre ou un autre officier de justice qui a le pouvoir :
-	- **a)** de mettre en cause chaque ancien actionnaire ou fondateur retrouvé par le demandeur;
-	- **b)** de déterminer, sous réserve du paragraphe (1), la part que chaque ancien actionnaire ou fondateur doit verser pour dédommager le demandeur;
+- **(4)** Si le demandeur établit le bien-fondé de sa demande, le tribunal peut renvoyer l’affaire devant un arbitre ou un autre officier de justice qui a le pouvoir :
+	- **a)** de mettre en cause chaque ancien actionnaire, ancien membre ou fondateur retrouvé par le demandeur;
+	- **b)** de déterminer, sous réserve du paragraphe (1), la part que chaque ancien actionnaire, ancien membre ou fondateur doit verser pour dédommager le demandeur;
 	- **c)** d’ordonner le versement des sommes déterminées.
+> 1991, ch. 46, art. 363; 2010, ch. 12, art. 2047.
+
 
 
 
 
 **Créanciers inconnus**
 
-**364** La partie des biens à remettre, par suite de la dissolution, à tout créancier, actionnaire ou fondateur introuvable doit être réalisée en numéraire et le produit versé en application de l’article 366.
+**364** La partie des biens à remettre, par suite de la dissolution, à tout créancier, actionnaire, membre ou fondateur introuvable doit être réalisée en numéraire et le produit versé en application de l’article 366.
+> 1991, ch. 46, art. 364; 2010, ch. 12, art. 2048.
+
 
 
 
@@ -7269,11 +8877,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **366** 
 
-- **(1)** Par dérogation à la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), la banque en cours de liquidation ou le liquidateur doit payer au ministre, sur demande et en tout état de cause avant la clôture de la liquidation, toute somme qui devait être payée par l’un ou l’autre à un créancier, à un actionnaire ou à un fondateur de la banque et qui, pour une raison quelconque, ne l’a pas été.
+- **(1)** Par dérogation à la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), la banque en cours de liquidation ou le liquidateur doit payer au ministre, sur demande et en tout état de cause avant la clôture de la liquidation, toute somme qui devait être payée par l’un ou l’autre à un créancier, à un actionnaire, à un membre ou à un fondateur de la banque et qui, pour une raison quelconque, ne l’a pas été.
 
 **Registres**
 
-- **(2)** Le liquidateur ou la banque qui effectue le paiement prévu au paragraphe (1) envoie en même temps au ministre tous les documents, livres et registres en leur possession concernant le droit au paiement du créancier, de l’actionnaire ou du fondateur, selon le cas.
+- **(2)** Le liquidateur ou la banque qui effectue le paiement prévu au paragraphe (1) envoie en même temps au ministre tous les documents, livres et registres en leur possession concernant le droit au paiement du créancier, de l’actionnaire, du membre ou du fondateur, selon le cas.
 
 **Paiement à la Banque du Canada**
 
@@ -7282,7 +8890,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Libération du liquidateur et de la banque**
 
 - **(4)** Le paiement fait par le liquidateur ou la banque aux termes du paragraphe (1), ou par le ministre aux termes du paragraphe (3), les libère respectivement de toute responsabilité quant à la somme ainsi payée.
-> 1991, ch. 46, art. 366; 1996, ch. 6, art. 167.
+> 1991, ch. 46, art. 366; 1996, ch. 6, art. 167; 2010, ch. 12, art. 2049.
 
 
 
@@ -7385,11 +8993,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **371** 
 
-- **(1)** Lorsque deux personnes détiennent chacune à titre de véritable propriétaire des actions de la banque et sont liées l’une à l’autre, elles sont réputées, dans le cas où il s’agit de déterminer qui détient la propriété de la banque, n’être qu’une seule personne détenant à titre de véritable propriétaire le nombre total des actions ainsi détenues par elles.
+- **(1)** Lorsque deux personnes détiennent chacune à titre de véritable propriétaire des actions ou des parts sociales de la banque et sont liées l’une à l’autre, elles sont réputées, dans le cas où il s’agit de déterminer qui détient la propriété de la banque, n’être qu’une seule personne détenant à titre de véritable propriétaire le nombre total des actions et des parts sociales ainsi détenues par elles.
 
-**Idem**
+**Personnes liées**
 
-- **(2)** Pour l’application du paragraphe (1), la personne qui détient à titre de véritable propriétaire des actions d’une banque est liée à une autre personne qui détient à ce titre de telles actions lorsque, selon le cas :
+- **(2)** Pour l’application du paragraphe (1), la personne qui détient à titre de véritable propriétaire des actions ou des parts sociales d’une banque est liée à une autre personne qui détient à ce titre de telles actions ou de telles parts sociales lorsque, selon le cas :
 	- **a)** l’une d’elles est Sa Majesté du chef du Canada et l’autre est Sa Majesté du chef d’une province ou l’une d’elles est Sa Majesté du chef d’une province et l’autre est Sa Majesté du chef d’une autre province;
 	- **b)** chacune d’elles est un mandataire de Sa Majesté du chef du Canada ou d’une province;
 	- **c)** chacune d’elles est un dirigeant, un fiduciaire ou une entité visés aux sous-alinéas a)(ii) et (iii) de la définition de ***mandataire*** au paragraphe 370(1);
@@ -7401,7 +9009,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **i)** l’une d’elles est une société coopérative de crédit centrale, l’autre une fédération de sociétés coopératives de crédit dont la première est membre et l’une et l’autre sont constituées en personne morale ou établies sous le régime d’une loi édictée par le même corps législatif;
 	- **j)** l’une et l’autre sont des sociétés coopératives de crédit centrales membres de la même fédération de sociétés coopératives de crédit et celles-ci et la fédération sont constituées en personne morale ou établies sous le régime d’une loi édictée par le même corps législatif;
 	- **k)** l’une et l’autre sont liées, au sens des alinéas a) à j), à une même personne.
-> 1991, ch. 46, art. 371; 2001, ch. 9, art. 97.
+> 1991, ch. 46, art. 371; 2001, ch. 9, art. 97; 2010, ch. 12, art. 2050.
 
 
 
@@ -7439,8 +9047,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**372** Il est interdit de détenir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque sauf autorisation au titre de la présente partie.
-> 1991, ch. 46, art. 372; 2001, ch. 9, art. 98.
+**372** Il est interdit de détenir un intérêt substantiel dans une catégorie quelconque d’actions ou de parts sociales d’une banque sauf autorisation au titre de la présente partie.
+> 1991, ch. 46, art. 372; 2001, ch. 9, art. 98; 2010, ch. 12, art. 2051.
 
 
 
@@ -7454,14 +9062,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **373** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une banque ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
-	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la banque en question;
+- **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions ou des parts sociales d’une banque ou le contrôle d’une entité qui détient de telles actions ou de telles parts sociales si l’acquisition, selon le cas :
+	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales de la banque en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une banque, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
-> 1991, ch. 46, art. 373; 1994, ch. 47, art. 17; 1997, ch. 15, art. 37(A); 2001, ch. 9, art. 98; 2007, ch. 6, art. 19.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales d’une banque, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions ou dans ces parts sociales.
+> 1991, ch. 46, art. 373; 1994, ch. 47, art. 17; 1997, ch. 15, art. 37(A); 2001, ch. 9, art. 98; 2007, ch. 6, art. 19; 2010, ch. 12, art. 2051.
 
 
 
@@ -7476,6 +9084,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **374** 
 
 - **(1)** Il est interdit à toute personne d’être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
+
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à l’actionnaire important d’une coopérative de crédit fédérale.
 
 **Exception — banque à participation multiple**
 
@@ -7505,7 +9117,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** une société de portefeuille d’assurances à participation multiple à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **c)** une institution étrangère admissible à laquelle le paragraphe (4) s’applique et qui contrôle la banque.
-> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 12.
+> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2052; 2012, ch. 5, art. 12.
 
 
 
@@ -7517,13 +9129,17 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Malgré l’article 374, si la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la banque.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à l’actionnaire important d’une coopérative de crédit fédérale.
+
 **Exception — banque ou société de portefeuille bancaire à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la banque ou à la société de portefeuille bancaire à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), l’un des requérants et n’a pas cessé de contrôler, au sens des mêmes alinéas, la banque issue de la fusion depuis la date de prise d’effet des lettres patentes de fusion.
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(3)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), l’un des requérants et qui n’ont pas cessé de contrôler, au sens du même alinéa, la banque issue de la fusion depuis la date de prise d’effet des lettres patentes de fusion :
+- **(3)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), l’un des requérants et qui n’ont pas cessé de contrôler, au sens du même alinéa, la banque issue de la fusion depuis la date de prise d’effet des lettres patentes de fusion :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
@@ -7534,7 +9150,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux entités qui contrôlent, au sens de l’alinéa 3(1)d), la banque et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(5)** Le paragraphe (1) ne s’applique pas aux entités qui contrôlent, au sens de l’alinéa 3(1)d), la banque et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple à laquelle le paragraphe (3) s’applique et qui contrôle la banque;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — à laquelle le paragraphe (3) s’applique et qui contrôle la banque;
 	- **c)** une institution étrangère admissible à laquelle le paragraphe (3) s’applique et qui contrôle la banque.
@@ -7542,7 +9158,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(6)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 13.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2053; 2012, ch. 5, art. 13.
 
 
 
@@ -7554,6 +9170,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** La personne qui est un actionnaire important d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars est tenue, si ceux-ci passent à douze milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où cette somme est atteinte, elle ne soit plus un actionnaire important de la banque.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à l’actionnaire important d’une coopérative de crédit fédérale.
+
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne à laquelle s’applique l’un ou l’autre des paragraphes 374(2) à (6).
@@ -7561,7 +9181,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 14.
+> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2054; 2012, ch. 5, art. 14.
 
 
 
@@ -7575,6 +9195,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle ou une entité qu’elle contrôle.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la coopérative de crédit fédérale qui contrôle une banque.
+
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à l’égard d’une banque dont les capitaux propres sont inférieurs à deux cent cinquante millions de dollars ou le montant prévu par règlement.
@@ -7582,7 +9206,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 15.
+> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2055; 2012, ch. 5, art. 15.
 
 
 
@@ -7596,10 +9220,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle-même ou une entité qu’elle contrôle.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la coopérative de crédit fédérale qui contrôle une banque.
+
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 16.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2056; 2012, ch. 5, art. 16.
 
 
 
@@ -7607,8 +9235,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.1** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
-> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 17.
+**376.1** 
+
+- **(1)** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
+
+**Exception — coopérative de crédit fédérale**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une coopérative de crédit fédérale.
+> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2057; 2012, ch. 5, art. 17.
 
 
 
@@ -7616,8 +9250,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.2** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle la banque.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 18.
+**376.2** 
+
+- **(1)** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle la banque.
+
+**Exception — coopérative de crédit fédérale**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une coopérative de crédit fédérale.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2058; 2012, ch. 5, art. 18.
 
 
 
@@ -7629,10 +9269,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la personne qui contrôle une coopérative de crédit fédérale.
+
 **Exception — banque à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne à laquelle s’applique l’un ou l’autre des paragraphes 374(2) à (6).
-> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 19.
+> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2059; 2012, ch. 5, art. 19.
 
 
 
@@ -7644,10 +9288,31 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Il est interdit à toute personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la personne qui acquiert le contrôle d’une coopérative de crédit fédérale.
+
 **Assimilation**
 
 - **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 20; 2012, ch. 5, art. 20.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 20; 2010, ch. 12, art. 2060; 2012, ch. 5, art. 20.
+
+
+
+
+
+**Interdiction de contrôle — coopérative de crédit fédérale**
+
+**377.2** 
+
+- **(1)** Il est interdit à toute personne, sauf avec l’agrément du ministre, de contrôler, au sens des alinéas 3(1)a.1) ou d), une coopérative de crédit fédérale.
+
+**Agrément**
+
+- **(2)** Le ministre peut accorder l’agrément seulement si :
+	- **a)** le contrôle est exercé relativement à une coopérative de crédit fédérale à qui on délivre des lettres patentes de constitution ou à une personne morale qui est prorogée comme coopérative de crédit fédérale;
+	- **b)** le demandeur de l’agrément s’est engagé en vertu du paragraphe 973.02(1) à cesser de contrôler la coopérative de crédit fédérale à une date fixée par le ministre.
+> 2010, ch. 12, art. 2061.
 
 
 
@@ -7696,8 +9361,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Restrictions en matière d’inscription**
 
-**379** Il est interdit à la banque, sauf si le ministre agrée l’acquisition des actions, d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions — à une personne ou à une entité contrôlée par celle-ci — , qui soit confère à cette personne un intérêt substantiel dans une catégorie de ses actions, soit augmente l’intérêt substantiel qu’elle détient déjà.
-> 1991, ch. 46, art. 379; 1997, ch. 15, art. 40; 2001, ch. 9, art. 98.
+**379** Il est interdit à la banque, sauf si le ministre agrée l’acquisition des actions ou des parts sociales, d’inscrire dans son registre des valeurs mobilières ou son registre des membres le transfert ou l’émission d’actions ou de parts sociales — à une personne ou à une entité contrôlée par celle-ci —, qui soit confère à cette personne un intérêt substantiel dans une catégorie de ses actions ou dans ses parts sociales, soit augmente l’intérêt substantiel qu’elle détient déjà.
+> 1991, ch. 46, art. 379; 1997, ch. 15, art. 40; 2001, ch. 9, art. 98; 2010, ch. 12, art. 2062.
 
 
 
@@ -7705,8 +9370,23 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exemption**
 
-**380** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars —, le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
-> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 22.
+**380** 
+
+- **(1)** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars —, le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
+
+**Exception — coopérative de crédit fédérale**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à une coopérative de crédit fédérale.
+> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2062; 2012, ch. 5, art. 22 et 223.
+
+
+
+
+
+**Exemption — coopérative de crédit fédérale**
+
+**380.1** Sur demande d’une coopérative de crédit fédérale, le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions de la coopérative de crédit fédérale dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable de l’ensemble des actions et des parts sociales en circulation de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 2062.
 
 
 
@@ -7714,8 +9394,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-**381** Par dérogation à l’article 379, si, après transfert ou émission d’actions d’une catégorie donnée à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions du fait du transfert ou de l’émission.
-> 1991, ch. 46, art. 381; 2001, ch. 9, art. 98; 2012, ch. 31, art. 110.
+**381** Par dérogation à l’article 379, si, après le transfert ou l’émission d’actions d’une catégorie donnée ou de parts sociales à une personne autre qu’un mandataire admissible, le nombre total d’actions de cette catégorie inscrites à son registre des valeurs mobilières ou de parts sociales inscrites à son registre des membres au nom de cette personne n’excède pas cinq mille ni un dixième pour cent des actions en circulation de cette catégorie, ou des parts sociales, selon le cas, la banque est en droit de présumer qu’il n’y a ni acquisition ni augmentation d’intérêt substantiel dans cette catégorie d’actions ou dans ces parts sociales du fait du transfert ou de l’émission.
+> 1991, ch. 46, art. 381; 2001, ch. 9, art. 98; 2010, ch. 12, art. 2062; 2012, ch. 31, art. 110 et 154.
 
 
 
@@ -7727,13 +9407,17 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la personne qui a un intérêt substantiel dans une catégorie quelconque d’actions d’une coopérative de crédit fédérale.
+
 **Pourcentage**
 
 - **(2)** Sous réserve du paragraphe (3), le pourcentage applicable est cinq pour cent de plus que l’intérêt substantiel de la personne dans la catégorie d’actions de la banque le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — soit d’actions de cette catégorie, soit du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
 **Pourcentage**
 
-- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une banque et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions d’une banque et que son pourcentage de ces actions a diminué après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre, le pourcentage applicable est le moindre des pourcentages suivants :
 	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de la banque de cette catégorie le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre;
 	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie après le 1<sup>er</sup> juin 1992 ou, si elle est postérieure, après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — d’actions de la banque de cette catégorie, ou du contrôle d’une entité détenant des actions de cette catégorie, à avoir reçu l’agrément du ministre.
 
@@ -7743,7 +9427,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas lorsque l’acquisition d’actions ou du contrôle dont il traite :
+- **(4)** Le paragraphe (1) ne s’applique pas lorsque l’acquisition d’actions ou du contrôle dont il traite :
 	- **a)** aurait pour effet la prise de contrôle de la banque par la personne;
 	- **b)** si la personne contrôle déjà la banque mais que les droits de vote attachés à l’ensemble des actions de la banque qu’elle-même et les entités qu’elle contrôle détiennent à titre de véritable propriétaire n’excèdent pas cinquante pour cent des droits de vote attachés à la totalité des actions en circulation, aurait pour effet de porter les droits de vote attachés à l’ensemble de ces actions détenues par la personne et les entités à plus de cinquante pour cent des droits de vote attachés à la totalité des actions en circulation;
 	- **c)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la banque par une entité contrôlée par la personne et que l’acquisition de cet intérêt n’est pas soustraite, par règlement, à l’application du présent alinéa;
@@ -7751,10 +9435,44 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la banque par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la banque.
-> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 23, ch. 31, art. 111.
+> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2063; 2012, ch. 5, art. 23, ch. 31, art. 111.
+
+
+
+
+
+**Agrément non requis — coopérative de crédit fédérale**
+
+**382.1** 
+
+- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales d’une coopérative de crédit fédérale — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou des parts sociales ou acquiert le contrôle d’une entité qui détient de telles actions ou de telles parts sociales et que l’acquisition de ces actions, de ces parts sociales ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+
+**Pourcentage**
+
+- **(2)** Sous réserve du paragraphe (3) et pour l’application du paragraphe (1), le pourcentage applicable est cinq pour cent de plus que l’intérêt substantiel de la personne dans la catégorie d’actions ou dans les parts sociales de la coopérative de crédit fédérale à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) dont elle acquiert le contrôle — soit d’actions de cette catégorie ou de parts sociales, soit du contrôle d’une entité détenant des actions de cette catégorie ou des parts sociales, à avoir reçu l’agrément du ministre.
+
+**Pourcentage**
+
+- **(3)** Dans le cas où une personne détient un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales d’une coopérative de crédit fédérale et que son pourcentage de ces actions ou parts sociales a diminué après la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) — d’actions de cette catégorie ou de parts sociales de la coopérative de crédit fédérale, ou du contrôle d’une entité détenant des actions de cette catégorie ou des parts sociales, à avoir reçu l’agrément du ministre, le pourcentage applicable au paragraphe (1) est le moindre des pourcentages suivants :
+	- **a)** cinq pour cent de plus que l’intérêt substantiel de la personne dans les actions de cette catégorie ou les parts sociales de la coopérative de crédit fédérale à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) — d’actions de cette catégorie ou de parts sociales de la coopérative de crédit fédérale, ou du contrôle d’une entité détenant des actions de cette catégorie ou des parts sociales, à avoir reçu l’agrément du ministre;
+	- **b)** dix pour cent de plus que l’intérêt substantiel le moins élevé détenu par la personne dans les actions de cette catégorie ou les parts sociales à la date de la dernière acquisition — par celle-ci ou par une entité qu’elle contrôle, à l’exception de l’entité visée au paragraphe (1) — d’actions de cette catégorie ou de parts sociales de la coopérative de crédit fédérale, ou du contrôle d’une entité détenant des actions de cette catégorie ou des parts sociales, à avoir reçu l’agrément du ministre.
+
+**Exception**
+
+- **(4)** Le paragraphe (1) ne s’applique pas lorsque l’acquisition d’actions, de parts sociales ou du contrôle dont il traite :
+	- **a)** aurait pour effet la prise de contrôle de la coopérative de crédit fédérale par la personne;
+	- **b)** aurait pour effet l’acquisition d’un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales de la coopérative de crédit fédérale par une entité contrôlée par la personne et que l’acquisition de cet intérêt n’est pas soustraite, par règlement, à l’application du présent alinéa;
+	- **c)** aurait pour effet l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions ou dans les parts sociales de la coopérative de crédit fédérale et que cette augmentation n’est pas soustraite, par règlement, à l’application du présent alinéa.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut, par règlement :
+	- **a)** soustraire à l’application de l’alinéa (4)b) l’acquisition d’un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales de la coopérative de crédit fédérale par une entité contrôlée par la personne;
+	- **b)** soustraire à l’application de l’alinéa (4)c) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions ou dans les parts sociales de la coopérative de crédit fédérale.
+> 2010, ch. 12, art. 2064.
 
 
 
@@ -7764,14 +9482,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **383** 
 
-- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
-	- **a)** le surintendant a, par ordonnance, imposé à la banque une augmentation de capital et il y a eu émission et acquisition d’actions conformément aux modalités prévues dans l’ordonnance;
+- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans les cas suivants :
+	- **a)** le surintendant a, par ordonnance, imposé à la banque une augmentation de capital et il y a eu émission et acquisition d’actions ou de parts sociales conformément aux modalités prévues dans l’ordonnance;
 	- **b)** la personne, autre qu’un mandataire admissible, qui contrôle, au sens de l’alinéa 3(1)a), la banque acquiert d’autres actions de celle-ci.
 
 **Exception**
 
 - **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
-> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 24, ch. 31, art. 112.
+> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2065; 2012, ch. 5, art. 24, ch. 31, art. 112.
 
 
 
@@ -7779,8 +9497,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Agrément préalable**
 
-**384** Pour l’application des articles 373 et 379, le ministre peut agréer l’acquisition, soit du nombre ou pourcentage d’actions d’une banque nécessaire pour une opération ou série d’opérations, soit du nombre ou pourcentage — à concurrence du plafond fixé — d’actions d’une telle banque pendant une période déterminée.
-> 1991, ch. 46, art. 384; 2001, ch. 9, art. 98.
+**384** Pour l’application des articles 373 et 379, le ministre peut agréer l’acquisition, soit du nombre ou pourcentage d’actions ou de parts sociales d’une banque nécessaire pour une opération ou série d’opérations, soit du nombre ou pourcentage — à concurrence du plafond fixé — d’actions ou de parts sociales d’une telle banque pendant une période déterminée.
+> 1991, ch. 46, art. 384; 2001, ch. 9, art. 98; 2010, ch. 12, art. 2066.
 
 
 
@@ -7794,16 +9512,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** d’une part, sont des actions d’une ou de plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
+**Exception — coopérative de crédit fédérale**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à une coopérative de crédit fédérale.
+
 **Date applicable**
 
-- **(2)** La date applicable aux termes du paragraphe (1) se situe :
+- **(2)** La date applicable aux termes du paragraphe (1) se situe :
 	- **a)** dans le cas d’une banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars à la date où elle est constituée en banque, trois ans après cette date;
 	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la banque ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la banque a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle elle devra se conformer au paragraphe (1).
-> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133; 2012, ch. 5, art. 25.
+> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133; 2010, ch. 12, art. 2067; 2012, ch. 5, art. 25.
 
 
 
@@ -7918,14 +9640,15 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **392** 
 
-- **(1)** En cas de manquement à l’article 372, aux paragraphes 373(1), 374(1) ou 375(1), aux articles 376.1 ou 376.2, au paragraphe 377(1), à l’article 377.1, à l’engagement visé au paragraphe 390(2) ou à des conditions ou modalités imposées dans le cadre de l’article 397, il est interdit à quiconque, et notamment à une entité contrôlée par l’auteur du manquement, d’exercer, personnellement ou par l’intermédiaire d’un fondé de pouvoir, les droits de vote :
+- **(1)** En cas de manquement à l’article 372, aux paragraphes 373(1), 374(1) ou 375(1), aux articles 376.1 ou 376.2, au paragraphe 377(1), aux articles 377.1 ou 377.2, à l’engagement visé au paragraphe 390(2) ou à des conditions ou modalités imposées dans le cadre de l’article 397, il est interdit à quiconque, et notamment à une entité contrôlée par l’auteur du manquement, d’exercer, personnellement ou par l’intermédiaire d’un fondé de pouvoir ou d’un délégué, les droits de vote :
 	- **a)** soit qui sont attachés aux actions de la banque dont l’auteur du manquement ou l’entité qu’il contrôle a la propriété effective;
+	- **a.1)** soit qui sont attachés au statut de membre de la coopérative de crédit fédérale, lorsque la banque est une coopérative de crédit fédérale;
 	- **b)** soit dont l’exercice est régi aux termes d’une entente conclue par l’auteur du manquement ou par l’entité qu’il contrôle.
 
 **Cessation d’application du paragraphe (1)**
 
-- **(2)** Le paragraphe (1) cesse de s’appliquer si, selon le cas :
-	- **a)** il y a eu aliénation des actions ayant donné lieu à la contravention;
+- **(2)** Le paragraphe (1) cesse de s’appliquer si, selon le cas :
+	- **a)** il y a eu aliénation des actions ou des parts sociales ayant donné lieu à la contravention;
 	- **b)** l’auteur du manquement cesse de contrôler la banque, au sens de l’alinéa 3(1)d);
 	- **c)** dans le cas où le manquement concerne l’engagement visé au paragraphe 390(2), la banque se conforme à l’article 385;
 	- **d)** dans le cas où le manquement concerne les conditions ou modalités imposées dans le cadre de l’article 397, la personne se conforme à celles-ci.
@@ -7933,7 +9656,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Cas particulier**
 
 - **(3)** Par dérogation au paragraphe (1), si une personne contrevient au paragraphe 374(1) en raison de la survenance d’un fait qui demeure et dont elle n’est pas maître et qui fait en sorte que des actions de la banque dont elle ou une entité qu’elle contrôle ont la propriété effective lui ont donné des droits de vote dont le nombre fait d’elle un actionnaire important, le ministre peut, après avoir tenu compte des circonstances, autoriser la personne ou l’entité à exercer, personnellement ou par l’intermédiaire d’un fondé de pouvoir, les droits de vote qui sont attachés à toute catégorie d’actions avec droit de vote de la banque qu’elles détiennent à titre de véritable propriétaire, jusqu’à concurrence de vingt pour cent, au total, des droits de vote attachés à la catégorie.
-> 1991, ch. 46, art. 392; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 392; 2001, ch. 9, art. 98; 2010, ch. 12, art. 2068.
 
 
 
@@ -8019,18 +9742,22 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée du ou des demandeurs et des membres de son ou de leur groupe sur la réglementation et la supervision de la banque, compte tenu :
 		- **(i)** d’une part, de la nature et de l’étendue des activités projetées de prestation de services financiers de la banque et des membres de son groupe,
 		- **(ii)** d’autre part, de la nature et de l’étendue de la réglementation et de la supervision liées aux activités projetées de prestation de services financiers des membres du groupe de la banque;
-	- **h)** l’intérêt du système financier canadien.
+	- **h)** l’intérêt du système financier canadien notamment, dans le cas d’une banque qui est une coopérative de crédit fédérale, celui du système coopératif financier canadien.
 
 **Exception**
 
 - **(2)** Sauf en ce qui a trait à la demande présentée par le mandataire admissible en vue d’obtenir l’agrément visé à l’article 373 et sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
-	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars;
+	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars qui n’est pas une coopérative de crédit fédérale;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle banque.
+
+**Exception**
+
+- **(2.1)** Sous réserve du paragraphe 377.2(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention de plus de dix mais d’au plus trente pour cent des parts sociales ou d’une catégorie d’actions en circulation d’une coopérative de crédit fédérale.
 
 **Traitement favorable**
 
 - **(3)** Lorsque l’opération a pour effet de faire d’une banque la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les banques régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 31, ch. 31, art. 113.
+> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2069; 2012, ch. 5, art. 31 et 223, ch. 31, art. 113.
 
 
 
@@ -8131,21 +9858,30 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restriction : Couronne et États étrangers**
+**Restrictions pour les coopératives de crédit fédérales**
+
+**401.11** Sous réserve de la présente loi, la coopérative de crédit fédérale peut par règlement administratif, pour empêcher une personne d’avoir un intérêt substantiel dans une catégorie d’actions ou dans ses parts sociales, imposer, modifier ou supprimer des restrictions quant à l’émission, au transfert ou à la propriété des actions de cette catégorie ou des parts sociales.
+> 2010, ch. 12, art. 2070.
+
+
+
+
+
+**Restriction : Couronne et États étrangers**
 
 **401.2** 
 
-- **(1)** Il est interdit à la banque d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission d’actions aux entités suivantes :
+- **(1)** Il est interdit à la banque d’inscrire dans son registre des valeurs mobilières ou son registre des membres le transfert ou l’émission d’actions ou de parts sociales aux entités suivantes :
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
 **Exception**
 
-- **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
+- **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières ou son registre des membres le transfert ou l’émission de ses actions ou de ses parts sociales à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions ou les parts sociales sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
 
 **Exclusion de certaines banques étrangères**
 
-- **(2.1)** Le paragraphe (2) ne permet pas à la banque d’inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à la banque étrangère qui en est une du seul fait qu’elle est une entité visée à l’alinéa f) de la définition de ***banque étrangère*** à l’article 2.
+- **(2.1)** Le paragraphe (2) ne permet pas à la banque d’inscrire dans son registre des valeurs mobilières ou son registre des membres le transfert ou l’émission de ses actions ou de ses parts sociales à la banque étrangère qui en est une du seul fait qu’il s’agit d’une entité visée à l’alinéa f) de la définition de ***banque étrangère*** à l’article 2.
 
 **Réserve**
 
@@ -8174,7 +9910,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Appel**
 
 - **(9)** La personne visée par l’arrêté peut, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32, ch. 19, art. 333, ch. 31, art. 116.
+> 2001, ch. 9, art. 98; 2010, ch. 12, art. 2071; 2012, ch. 5, art. 32 et 223, ch. 19, art. 333, ch. 31, art. 116 et 154.
 
 
 
@@ -8184,22 +9920,28 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **401.3** 
 
-- **(1)** Par dérogation à l’article 148, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions de la banque qui sont détenues en propriété effective :
+- **(1)** Par dérogation à l’article 148, il est interdit, en personne ou par voie de fondé de pouvoir, d’exercer les droits de vote attachés aux actions de la banque qui sont détenues en propriété effective :
 	- **a)** soit par Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
 	- **b)** soit par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement.
 
+**Suspension des droits de vote des gouvernements**
+
+- **(2)** Par dérogation au paragraphe 79.2(2), il est interdit au membre d’une coopérative de crédit fédérale de voter à ce titre, en personne ou par délégué, si ce membre est — ou est une entité contrôlée par —  :
+	- **a)** Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
+	- **b)** le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un organisme d’un tel gouvernement.
+
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ni à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par celle-ci.
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à la banque étrangère ni à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si la banque étrangère ou l’institution étrangère ou une entité contrôlée par l’une ou l’autre a la propriété effective des actions visées au paragraphe (1) ou, dans le cas d’une coopérative de crédit fédérale, d’une part sociale de celle-ci.
 
 **Réserve – mandataire admissible**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 401.2(3).
+- **(4)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 401.2(3).
 
 **Conséquence de la suspension de l’agrément**
 
-- **(4)** En cas de suspension de l’agrément visé au paragraphe 401.2(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la banque qu’il détient en propriété effective.
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33, ch. 19, art. 334, ch. 31, art. 117.
+- **(5)** En cas de suspension de l’agrément visé au paragraphe 401.2(3), le mandataire admissible ne peut, ni en personne ni par voie de fondé de pouvoir, exercer les droits de vote attachés aux actions de la banque qu’il détient en propriété effective.
+> 2001, ch. 9, art. 98; 2010, ch. 12, art. 2072; 2012, ch. 5, art. 33 et 223, ch. 19, art. 334 et 348, ch. 31, art. 117 et 155.
 
 
 
@@ -8210,11 +9952,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Disposition des actions**
+**Disposition**
 
 **402** 
 
-- **(1)** S’il l’estime dans l’intérêt public, le ministre peut, par arrêté, imposer à la personne qui, relativement à une banque, contrevient à l’article 372, aux paragraphes 373(1), 374(1) ou 375(1), aux articles 376.1 ou 376.2, au paragraphe 377(1), à l’article 377.1, à l’engagement visé au paragraphe 390(2) ou à des conditions ou modalités imposées dans le cadre de l’article 397 ainsi qu’à toute autre personne qu’elle contrôle l’obligation de se départir du nombre d’actions — précisé dans l’arrêté — de la banque dont elles ont la propriété effective, dans le délai qu’il fixe et selon la répartition entre elles qu’il précise.
+- **(1)** S’il l’estime dans l’intérêt public, le ministre peut, par arrêté, imposer à la personne qui, relativement à une banque, contrevient à l’article 372, aux paragraphes 373(1), 374(1) ou 375(1), aux articles 376.1 ou 376.2, au paragraphe 377(1), aux articles 377.1 ou 377.2, à l’engagement visé au paragraphe 390(2) ou à des conditions ou modalités imposées dans le cadre de l’article 397 ainsi qu’à toute autre personne qu’elle contrôle, selon le cas :
+	- **a)** l’obligation de se départir du nombre d’actions — précisé dans l’arrêté — de la banque dont elles ont la propriété effective, dans le délai qu’il fixe et selon la répartition entre elles qu’il précise;
+	- **b)** l’obligation de se départir du nombre de parts sociales — précisé dans l’arrêté — de la banque dont elles ont la propriété effective, dans le délai qu’il fixe et selon la répartition entre elles qu’il précise;
+	- **c)** toute autre mesure qu’il estime nécessaire pour mettre fin au contrôle visé à l’alinéa 3(1)a.1).
 
 **Observations**
 
@@ -8225,16 +9970,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 - **(3)** Les personnes visées par l’arrêté peuvent, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 977.
 
 - **(4)** [Abrogé, 2001, ch. 9, art. 99]
-> 1991, ch. 46, art. 402; 1999, ch. 28, art. 21; 2001, ch. 9, art. 99.
+> 1991, ch. 46, art. 402; 1999, ch. 28, art. 21; 2001, ch. 9, art. 99; 2010, ch. 12, art. 2073; 2012, ch. 31, art. 153(A).
 
 
 
 
 
-**Autorisation**
+**Prorogation autorisée**
 
-**402.1** Dans le cas où le paragraphe 402(1) s’applique, le ministre peut, à la demande de la banque en cause, autoriser celle-ci à demander sa prorogation comme personne morale sous le régime d’une loi fédérale visée au paragraphe 39.1(1), au lieu ou en plus de prendre l’arrêté prévu au paragraphe 402(1).
-> 1991, ch. 46, art. 579; 2007, ch. 6, art. 22.
+**402.1** Dans le cas où le paragraphe 402(1) s’applique, le ministre peut, à la demande de la banque en cause, autoriser celle-ci à demander sa prorogation comme personne morale sous le régime d’une loi fédérale visée aux paragraphes 39.1(1) ou 39.2(1), au lieu ou en plus de prendre l’arrêté prévu au paragraphe 402(1).
+> 1991, ch. 46, art. 579; 2007, ch. 6, art. 22; 2010, ch. 12, art. 2074.
 
 
 
@@ -8248,12 +9993,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Ordonnance**
 
-- **(2)** Le tribunal saisi de la requête peut rendre l’ordonnance nécessaire en l’espèce pour donner effet aux modalités de l’arrêté et enjoindre, notamment, à la banque concernée de vendre les actions en cause.
+- **(2)** Le tribunal saisi de la requête peut rendre l’ordonnance nécessaire en l’espèce pour donner effet aux modalités de l’arrêté et enjoindre, notamment, à la banque concernée de vendre les actions ou de remettre pour achat ou rachat ou de transférer à un autre membre les parts sociales en cause.
 
 **Appel**
 
 - **(3)** L’ordonnance peut être portée en appel de la même manière et devant la même juridiction que toute autre ordonnance rendue par le tribunal.
-> 1991, ch. 46, art. 403; 2012, ch. 31, art. 118.
+> 1991, ch. 46, art. 403; 2010, ch. 12, art. 2075; 2012, ch. 31, art. 118.
 
 
 
@@ -8274,16 +10019,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **405** 
 
-- **(1)** Le conseil d’administration peut prendre toute mesure qu’il juge nécessaire pour réaliser l’objet de la présente partie et notamment :
-	- **a)** exiger des personnes au nom desquelles sont détenues des actions de la banque une déclaration mentionnant :
-		- **(i)** le véritable propriétaire des actions,
+- **(1)** Le conseil d’administration peut prendre toute mesure qu’il juge nécessaire pour réaliser l’objet de la présente partie et notamment :
+	- **a)** exiger des personnes au nom desquelles sont détenues des actions ou des parts sociales de la banque une déclaration mentionnant :
+		- **(i)** le véritable propriétaire des actions ou des parts sociales,
 		- **(ii)** tout autre renseignement qu’il juge utile pour l’application de la présente partie;
-	- **b)** exiger de toute personne sollicitant l’inscription d’un transfert d’actions ou une émission d’actions la déclaration visée à l’alinéa a) comme s’il s’agissait du détenteur des actions;
+	- **b)** exiger de toute personne sollicitant l’inscription d’un transfert d’actions ou de parts sociales ou une émission d’actions ou de parts sociales la déclaration visée à l’alinéa a) comme s’il s’agissait du détenteur des actions ou des parts sociales;
 	- **c)** fixer les cas où la déclaration visée à l’alinéa a) est obligatoire, ainsi que la forme et les délais dans lesquels elle doit être produite.
 
 **Ordonnance du surintendant**
 
-- **(2)** Le surintendant peut, par ordonnance, enjoindre à la banque d’obtenir de la personne au nom de laquelle est détenue une de ses actions une déclaration indiquant le nom de toutes les entités que contrôle cette dernière et contenant des renseignements sur la propriété ou la propriété effective de l’action, ainsi que sur toutes les autres questions connexes qu’il précise.
+- **(2)** Le surintendant peut, par ordonnance, enjoindre à la banque d’obtenir de la personne au nom de laquelle est détenue une de ses actions ou de ses parts sociales une déclaration indiquant le nom de toutes les entités que contrôle cette dernière et contenant des renseignements sur la propriété ou la propriété effective de l’action ou de la part sociale, ainsi que sur toutes les autres questions connexes qu’il précise.
 
 **Exécution**
 
@@ -8291,7 +10036,9 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Défaut de déclaration**
 
-- **(4)** Dans tous les cas où la déclaration est obligatoire, la banque peut subordonner l’émission d’une action ou l’inscription du transfert d’une action à sa production par l’actionnaire ou une autre personne.
+- **(4)** Dans tous les cas où la déclaration est obligatoire, la banque peut subordonner l’émission d’une action ou d’une part sociale ou l’inscription du transfert d’une action ou d’une part sociale à sa production par l’actionnaire, le membre ou une autre personne.
+> 1991, ch. 46, art. 405; 2010, ch. 12, art. 2076.
+
 
 
 
@@ -10106,7 +11853,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***action participante*** Action d’une personne morale qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution.
+***action participante*** Action d’une personne morale, y compris une part sociale, qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution.
 
 ***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
 - **a)** le produit de la vente soit versé au fonds, déduction faite de la commission de vente et des frais de service;
@@ -10159,7 +11906,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 - **(3)** La présente partie ne s’applique pas :
 	- **a)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 479a);
 	- **b)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127; 2007, ch. 6, art. 38.
+> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127; 2007, ch. 6, art. 38; 2010, ch. 12, art. 2077.
 
 
 
@@ -10799,7 +12546,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 **486** 
 
 - **(1)** Pour l’application de la présente partie, est apparentée à la banque la personne qui, selon le cas :
-	- **a)** a un intérêt substantiel dans une catégorie d’actions de celle-ci;
+	- **a)** a un intérêt substantiel dans une catégorie d’actions ou dans les parts sociales de celle-ci;
 	- **b)** est un administrateur ou un cadre dirigeant de la banque, ou d’une personne morale qui la contrôle, ou exerce des fonctions similaires à l’égard d’une entité non constituée en personne morale qui contrôle la banque;
 	- **c)** est l’époux ou conjoint de fait — ou un enfant de moins de dix-huit ans — d’une des personnes visées aux alinéas a) et b);
 	- **d)** est une entité contrôlée par une personne visée à l’un des alinéas a) à c);
@@ -10837,7 +12584,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 **Contrôle**
 
 - **(8)** Pour l’application de l’alinéa (1)d), ***contrôlée*** s’entend au sens de l’article 3, abstraction faite de l’alinéa 3(1)d).
-> 1991, ch. 46, art. 486; 1997, ch. 15, art. 68; 2000, ch. 12, art. 7.
+> 1991, ch. 46, art. 486; 1997, ch. 15, art. 68; 2000, ch. 12, art. 7; 2010, ch. 12, art. 2078.
 
 
 
@@ -10852,14 +12599,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 **Idem**
 
 - **(2)** La présente partie ne s’applique pas :
-	- **a)** à l’émission par la banque d’actions de toute catégorie si celles-ci ont été totalement libérées en numéraire ou si l’émission a été effectuée, selon le cas :
-		- **(i)** conformément aux dispositions prévoyant la conversion d’autres valeurs mobilières émises et en circulation en actions de cette catégorie,
+	- **a)** à l’émission par la banque d’actions de toute catégorie ou de parts sociales si celles-ci ont été totalement libérées en numéraire ou si l’émission a été effectuée, selon le cas :
+		- **(i)** conformément aux dispositions prévoyant la conversion d’autres parts sociales ou de valeurs mobilières émises et en circulation en actions de cette catégorie ou en parts sociales,
 		- **(ii)** à titre de dividende,
-		- **(iii)** en échange d’actions d’une personne morale prorogée comme banque sous le régime de la partie III,
-		- **(iv)** conformément aux modalités d’une fusion réalisée dans le cadre de la partie VI,
+		- **(iii)** en échange d’actions ou de parts sociales, quelle que soit leur désignation, d’une personne morale prorogée comme banque sous le régime de la partie III,
+		- **(iv)** conformément aux modalités d’une fusion ou d’une conversion réalisée dans le cadre de la partie VI,
 		- **(v)** à titre de contrepartie, conformément aux conditions énoncées dans un contrat de vente conclu aux termes de la partie VI,
 		- **(vi)** avec l’agrément écrit du surintendant, en échange d’actions d’une autre personne morale;
-	- **b)** au paiement de dividendes par la banque;
+	- **b)** au paiement de dividendes ou de ristournes par la banque;
 	- **c)** aux opérations consistant en le paiement par la banque à des apparentés de salaires, d’honoraires, de prestations de retraite, d’options de souscription à des actions, de primes d’encouragement ou de tout autre avantage ou rémunération à titre d’administrateurs, de dirigeants ou d’employés de la banque;
 	- **d)** aux opérations approuvées par le ministre dans le cadre du paragraphe 678(1) de la présente loi ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
 	- **e)** si la banque est contrôlée par une société de portefeuille bancaire ou une société de portefeuille d’assurances à participation multiple, aux opérations approuvées par le surintendant qui sont conclues dans le cadre d’une restructuration de la société de portefeuille ou d’une entité qu’elle contrôle.
@@ -10877,7 +12624,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 **Exception**
 
 - **(5)** Dans les cas où, en raison du paragraphe (4), la société mère n’est pas apparentée à la banque, l’entité dans laquelle la société mère a un intérêt de groupe financier n’est pas apparentée à la banque si aucun apparenté de la banque n’a un intérêt de groupe financier dans l’entité autrement que par l’effet du contrôle de la société mère.
-> 1991, ch. 46, art. 487, ch. 48, art. 494; 1997, ch. 15, art. 69; 2001, ch. 9, art. 128.
+> 1991, ch. 46, art. 487, ch. 48, art. 494; 1997, ch. 15, art. 69; 2001, ch. 9, art. 128; 2010, ch. 12, art. 2079; 2012, ch. 5, art. 223.
 
 
 
@@ -15335,27 +17082,27 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **647** 
 
-- **(1)** Le présent article s’applique à la banque :
+- **(1)** Le présent article s’applique à la banque :
 	- **a)** soit avisée par le surintendant de son assujettissement au présent article dans les cas où elle est visée par des mesures prises pour maintenir ou améliorer sa santé financière, lesquelles mesures figurent dans un accord prudentiel conclu en vertu de l’article 644.1 ou dans un engagement qu’elle a donné au surintendant, ou prennent la forme de conditions ou restrictions accessoires à l’ordonnance d’agrément lui permettant de commencer à fonctionner;
 	- **b)** soit visée par une décision prise aux termes de l’article 645 ou par une ordonnance prise en vertu du paragraphe 485(3).
 
 **Renseignements à communiquer**
 
-- **(2)** La banque communique au surintendant le nom :
+- **(2)** La banque communique au surintendant le nom :
 	- **a)** des candidats à une élection ou à une nomination au conseil d’administration;
 	- **b)** des personnes que la banque a choisies pour être nommées à un poste de cadre dirigeant;
-	- **c)** de toute personne nouvellement élue au poste d’administrateur à une assemblée des actionnaires et dont la candidature n’avait pas été proposée par une personne occupant un poste de gestion.
+	- **c)** de toute personne nouvellement élue au poste d’administrateur et dont la candidature n’avait pas été proposée par une personne occupant un poste de gestion.
 Elle lui communique également les renseignements personnels qui les concernent et les renseignements sur leur expérience et leur dossier professionnel qu’il peut exiger.
 
 **Préavis**
 
-- **(3)** Les renseignements doivent parvenir au surintendant :
+- **(3)** Les renseignements doivent parvenir au surintendant :
 	- **a)** dans le cas d’une personne visée aux alinéas (2)a) ou b), au moins trente jours avant la date prévue pour l’élection ou la nomination ou dans le délai plus court fixé par le surintendant;
 	- **b)** dans le cas d’une personne visée à l’alinéa (2)c), dans les quinze jours suivant la date de l’élection de celle-ci.
 
 **Absence de qualification**
 
-- **(4)** Le surintendant peut par ordonnance, en se fondant sur la compétence, l’expérience, le dossier professionnel, la conduite, la personnalité ou la moralité des personnes en cause :
+- **(4)** Le surintendant peut par ordonnance, en se fondant sur la compétence, l’expérience, le dossier professionnel, la conduite, la personnalité ou la moralité des personnes en cause :
 	- **a)** dans les cas visés aux alinéas (2)a) ou b), écarter le nom de celles qui, à son avis, ne sont pas qualifiées pour occuper un poste d’administrateur ou de cadre dirigeant;
 	- **b)** dans le cas visé à l’alinéa (2)c), destituer du poste d’administrateur celles qu’il n’estime pas qualifiées.
 
@@ -15369,10 +17116,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Interdiction**
 
-- **(6)** Il est interdit :
+- **(6)** Il est interdit :
 	- **a)** aux personnes assujetties à une ordonnance prise en vertu de l’alinéa (4)a) de se faire élire ou nommer au poste pour lequel elles n’ont pas été jugées qualifiées et à la banque de permettre qu’elles se fassent élire ou nommer;
 	- **b)** aux personnes assujetties à une ordonnance prise en vertu de l’alinéa (4)b) de continuer à occuper le poste d’administrateur et à la banque de les laisser continuer d’occuper le poste.
-> 1999, ch. 28, art. 49; 2001, ch. 9, art. 180.
+> 1999, ch. 28, art. 49; 2001, ch. 9, art. 180; 2010, ch. 12, art. 2080.
 
 
 
@@ -15475,7 +17222,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **649** 
 
-- **(1)** Lorsque le surintendant prend le contrôle de la banque, les pouvoirs, fonctions, droits et privilèges des administrateurs et dirigeants responsables de sa gestion sont suspendus.
+- **(1)** Lorsque le surintendant prend le contrôle de la banque, les pouvoirs, fonctions, droits et privilèges des administrateurs et dirigeants responsables de sa gestion sont suspendus. Dans le cas d’une coopérative de crédit fédérale, le pouvoir des membres de prendre, modifier ou révoquer tout règlement administratif est également suspendu.
 
 **Gestion par le surintendant**
 
@@ -15484,7 +17231,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Aide**
 
 - **(3)** Le cas échéant, le surintendant peut nommer une ou plusieurs personnes pour l’aider à la gérer.
-> 1999, ch. 28, art. 51.
+> 1999, ch. 28, art. 51; 2010, ch. 12, art. 2081.
 
 
 
@@ -15545,8 +17292,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Priorité de réclamation en cas de liquidation**
 
-**655** En cas de liquidation de la banque, les frais visés au paragraphe 654(1), ainsi que l’intérêt afférent au taux fixé par le surintendant, constituent, sur l’actif de la banque, une créance de Sa Majesté du chef du Canada venant au dernier rang mais avant toute créance sur les actions de la banque.
-> 1999, ch. 28, art. 56.
+**655** En cas de liquidation de la banque, les frais visés au paragraphe 654(1), ainsi que l’intérêt afférent au taux fixé par le surintendant, constituent, sur l’actif de la banque, une créance de Sa Majesté du chef du Canada venant au dernier rang mais avant toute créance sur les actions ou les parts sociales de la banque.
+> 1999, ch. 28, art. 56; 2010, ch. 12, art. 2082.
 
 
 
@@ -15960,12 +17707,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **682** 
 
-- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les banques, peuvent demander au ministre des lettres patentes de prorogation comme société de portefeuille bancaire sous le régime de la présente partie.
+- **(1)** Les personnes morales constituées aux termes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou d’une autre loi fédérale, y compris les banques, à l’exception toutefois des coopératives de crédit fédérales, peuvent demander au ministre des lettres patentes de prorogation comme société de portefeuille bancaire sous le régime de la présente partie.
 
 **Autres personnes morales**
 
 - **(2)** Les personnes morales non constituées sous le régime d’une loi fédérale peuvent, si les règles de droit en vigueur sur le territoire de leur constitution les y autorisent, demander au ministre des lettres patentes de prorogation sous le régime de la présente partie.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2010, ch. 12, art. 2083.
 
 
 
@@ -18362,13 +20109,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **803** 
 
-- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les banques et les sociétés de portefeuille bancaires, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société de portefeuille bancaire.
+- **(1)** Sur requête conjointe de plusieurs personnes morales qui sont constituées sous le régime d’une loi fédérale, y compris les banques qui ne sont pas des coopératives de crédit fédérales et les sociétés de portefeuille bancaires, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule société de portefeuille bancaire.
 
 **Réserve**
 
-- **(2)** Par dérogation au paragraphe (1), dans le cas où l’un des requérants est une société de portefeuille bancaire qui contrôle une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2), le ministre ne peut délivrer les lettres patentes que si la société de portefeuille bancaire issue de la fusion remplit l’une ou l’autre des conditions suivantes :
+- **(2)** Par dérogation au paragraphe (1), dans le cas où l’un des requérants est une société de portefeuille bancaire qui contrôle une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2), le ministre ne peut délivrer les lettres patentes que si la société de portefeuille bancaire issue de la fusion remplit l’une ou l’autre des conditions suivantes :
 	- **a)** elle est à participation multiple;
-	- **b)** elle est contrôlée par une société de portefeuille bancaire à participation multiple qui, au moment de la présentation de la requête, contrôlait :
+	- **b)** elle est contrôlée par une société de portefeuille bancaire à participation multiple qui, au moment de la présentation de la requête, contrôlait :
 		- **(i)** soit ce requérant,
 		- **(ii)** soit un autre requérant qui est une société de portefeuille bancaire qui contrôle une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2).
 
@@ -18378,7 +20125,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque à participation multiple ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la demande;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la demande.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 80.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2010, ch. 12, art. 2084; 2012, ch. 5, art. 80.
 
 
 
@@ -21681,12 +23428,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Avis aux administrateurs et aux actionnaires**
+**Avis aux administrateurs, aux membres et aux actionnaires**
 
-**965** Les avis ou documents dont la présente loi, ses règlements, l’acte constitutif ou les règlements administratifs de la banque ou de la société de portefeuille bancaire exigent l’envoi aux actionnaires ou aux administrateurs peuvent être adressés sous pli pré-affranchi ou remis en personne :
+**965** Les avis ou documents dont la présente loi, ses règlements, l’acte constitutif ou les règlements administratifs exigent l’envoi aux actionnaires, aux membres ou aux administrateurs de la banque ou aux actionnaires ou aux administrateurs de la société de portefeuille bancaire peuvent être adressés sous pli pré-affranchi ou remis en personne :
 - **a)** aux actionnaires, à la dernière adresse figurant dans les livres de la banque ou de la société de portefeuille bancaire ou de son agent de transfert;
-- **b)** aux administrateurs, à la dernière adresse figurant dans les livres de la banque ou de la société de portefeuille bancaire ou dans le plus récent des relevés visés à l’article 632 ou 951.
-> 2001, ch. 9, art. 183.
+- **b)** aux administrateurs, à la dernière adresse figurant dans les livres de la banque ou de la société de portefeuille bancaire ou dans le plus récent des relevés visés à l’article 632 ou 951;
+- **c)** aux membres, à la dernière adresse figurant dans les livres de la banque.
+> 2001, ch. 9, art. 183; 2010, ch. 12, art. 2085.
 
 
 
@@ -21705,12 +23453,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **967** 
 
-- **(1)** Les actionnaires ou administrateurs auxquels sont expédiés les avis ou documents obligatoires sont réputés, sauf s’il existe des motifs valables à l’effet contraire, les avoir reçus à la date normale de livraison par la poste.
+- **(1)** Les actionnaires, membres ou administrateurs auxquels sont expédiés les avis ou documents obligatoires sont réputés, sauf s’il existe des motifs valables à l’effet contraire, les avoir reçus à la date normale de livraison par la poste.
 
 **Retours**
 
-- **(2)** La banque ou la société de portefeuille bancaire n’est pas tenue d’envoyer les avis ou documents qui lui sont retournés deux fois de suite parce que l’actionnaire est introuvable, sauf si elle est informée par écrit de sa nouvelle adresse.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 133.
+- **(2)** La banque ou la société de portefeuille bancaire n’est pas tenue d’envoyer les avis ou documents qui lui sont retournés deux fois de suite parce que l’actionnaire ou le membre est introuvable, sauf si elle est informée par écrit de sa nouvelle adresse.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 133; 2010, ch. 12, art. 2086.
 
 
 
@@ -21733,11 +23481,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Preuve**
 
-- **(2)** Dans les poursuites ou procédures civiles, pénales ou administratives, font foi de leur contenu sans qu’il soit nécessaire de prouver la signature ni la qualité officielle du signataire :
+- **(2)** Dans les poursuites ou procédures civiles, pénales ou administratives, font foi de leur contenu sans qu’il soit nécessaire de prouver la signature ni la qualité officielle du signataire :
 	- **a)** les faits énoncés dans le certificat visé au paragraphe (1);
 	- **b)** les extraits certifiés conformes du registre des valeurs mobilières;
+	- **b.1)** les extraits certifiés conformes du registre des membres;
 	- **c)** les copies ou extraits certifiés conformes des procès-verbaux des assemblées ou réunions.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2010, ch. 12, art. 2087.
 
 
 
@@ -21745,8 +23494,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Mentions au registre des valeurs mobilières**
 
-**970** Les mentions au registre des valeurs mobilières et sur les certificats de valeurs mobilières émis par la banque ou la société de portefeuille bancaire établissent que les personnes au nom desquelles les valeurs mobilières sont inscrites sont propriétaires des valeurs mentionnées dans le registre ou sur les certificats.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 134(F).
+**970** 
+
+- **(1)** Les mentions au registre des valeurs mobilières et sur les certificats de valeurs mobilières émis par la banque ou la société de portefeuille bancaire établissent que les personnes au nom desquelles les valeurs mobilières sont inscrites sont propriétaires des valeurs mentionnées dans le registre ou sur les certificats.
+
+**Registre des membres**
+
+- **(2)** Les mentions au registre des membres établissent que les personnes au nom desquelles les parts sociales sont enregistrées sont des membres et en sont les propriétaires.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 134(F); 2010, ch. 12, art. 2088.
 
 
 
@@ -21809,14 +23564,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément, notamment :
 	- **a)** la sécurité nationale;
-	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales;
+	- **c)** à l’égard d’un agrément relatif à une coopérative de crédit fédérale, la possibilité que celui-ci portera atteinte à la capacité de la coopérative de crédit fédérale d’être organisée et d’exercer ses activités commerciales selon le principe coopératif énoncé à l’article 12.1.
 
 **Facteurs : surintendant**
 
 - **(2)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément et les considérations de prudence qu’il estime pertinentes dans les circonstances, le surintendant peut, avant d’octroyer son agrément, prendre en compte :
 	- **a)** la sécurité nationale;
-	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
-> 2007, ch. 6, art. 125.
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales;
+	- **c)** à l’égard d’un agrément relatif à une coopérative de crédit fédérale, la possibilité que celui-ci portera atteinte à la capacité de la coopérative de crédit fédérale d’être organisée et d’exercer ses activités commerciales selon le principe coopératif énoncé à l’article 12.1.
+> 2007, ch. 6, art. 125; 2010, ch. 12, art. 2089.
 
 
 
@@ -21987,7 +23744,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Acquisition**
 
-- **(6)** Malgré la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada peut, selon les conditions fixées en application du paragraphe (3), acquérir et détenir au nom de Sa Majesté, ou en fiducie pour celle-ci, des actions d’une banque si, en raison d’un décret pris en application du paragraphe (1), la banque peut inscrire à son registre des valeurs mobilières le transfert ou l’émission d’actions à Sa Majesté ou à l’un de ses mandataires ou organismes.
+- **(6)** Malgré la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada peut, selon les conditions fixées en application du paragraphe (3), acquérir et détenir au nom de Sa Majesté, ou en fiducie pour celle-ci, des actions d’une banque si, en raison d’un décret pris en application du paragraphe (1), la banque peut inscrire à son registre des valeurs mobilières ou à son registre des membres, selon le cas, le transfert ou l’émission d’actions à Sa Majesté ou à l’un de ses mandataires ou organismes.
 
 **Prélèvement sur le Trésor**
 
@@ -21995,7 +23752,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Inscription des actions**
 
-- **(8)** Les actions acquises conformément au paragraphe (6) par le ministre ou par l’un des mandataires ou organismes de Sa Majesté du chef du Canada sont inscrites au registre des valeurs mobilières de la banque au nom de l’acquéreur si elles peuvent faire l’objet d’une inscription sur ce registre et sont détenues par lui au nom de Sa Majesté, ou en fiducie pour celle-ci.
+- **(8)** Les actions acquises conformément au paragraphe (6) par le ministre ou par l’un des mandataires ou organismes de Sa Majesté du chef du Canada sont inscrites au registre des valeurs mobilières ou au registre des membres, selon le cas, de la banque au nom de l’acquéreur si elles peuvent faire l’objet d’une inscription sur ce registre et sont détenues par lui au nom de Sa Majesté, ou en fiducie pour celle-ci.
 
 **Disposition par le ministre**
 
@@ -22023,12 +23780,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Précision**
 
-- **(15)** Pour l’application du présent article, sont assimilés aux actions les privilèges de conversion ou d’échange et les options ou droits d’achat d’actions.
+- **(15)** Pour l’application du présent article, sont assimilés aux actions les part sociales, les privilèges de conversion ou d’échange et les options ou droits d’achat d’actions.
 
 **Société de portefeuille bancaire**
 
 - **(16)** Pour l’application du présent article, la mention d’une banque comprend celle d’une société de portefeuille bancaire et, s’agissant d’une telle société, le renvoi, aux alinéas (5)a) et b), à l’article 646.1 vaut renvoi à l’article 962.
-> 2009, ch. 2, art. 275.
+> 2009, ch. 2, art. 275; 2010, ch. 12, art. 2090.
 
 
 
@@ -22065,7 +23822,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **976** 
 
 - **(1)** Doivent être accompagnées des renseignements, documents et éléments de preuve que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
-	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 65(1), 72(2), 75(4), 79(5), 80(1), 170(1), 217(3), 421(1), 468(6) ou (11), 471(1) ou (2) ou 482(1), au sous-alinéa 487(2)a)(vi), à l’article 490 ou aux paragraphes 494(3) ou (4), 495.3(1), 553.1(1), 709(1), 716(2), 718(4), 723(1), 758(1), 924(1), 930(6) ou (11), 933(1) ou 944(1);
+	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 65(1), 72(2), 75(4), 79(5), 79.1(2), 80(1), 170(1), 192.03(6), 217(3), 421(1), 468(6) ou (11), 471(1) ou (2) ou 482(1), au sous-alinéa 487(2)a)(vi), à l’article 490 ou aux paragraphes 494(3) ou (4), 495.3(1), 553.1(1), 709(1), 716(2), 718(4), 723(1), 758(1), 924(1), 930(6) ou (11), 933(1) ou 944(1);
 	- **b)** les demandes d’accord visées aux paragraphes 71(1) ou 715(1);
 	- **c)** les demandes de dispense visées au paragraphe 156.05(3);
 	- **d)** les demandes de prorogation visées aux paragraphes 471(3) ou (5), 472(4), 473(4), 933(2) ou (4), 934(3) ou 935(3).
@@ -22076,7 +23833,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis au demandeur**
 
-- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de la demande, assorti éventuellement des conditions ou modalités qu’il juge utiles;
 	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis en ce sens.
 
@@ -22087,7 +23844,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(5)** Le défaut d’envoyer l’avis prévu au paragraphe (3) et, s’il y a lieu, celui prévu au paragraphe (4) dans le délai imparti vaut agrément de la demande et octroi de l’agrément, de l’approbation, de l’autorisation, de l’accord, de l’exemption, de la dispense ou de la prorogation de délai visés par la demande, même si ceux-ci doivent être donnés par écrit.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 126.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 126; 2010, ch. 12, art. 2091.
 
 
 
@@ -22169,7 +23926,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **978** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **b)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 	- **c)** régir, pour l’application de toute disposition de la présente loi, la détermination des capitaux propres d’une banque ou d’une société de portefeuille bancaire;
@@ -22179,7 +23936,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **g)** régir la rétention, au Canada, de l’actif de la banque ou de la société de portefeuille bancaire;
 	- **h)** prévoir la valeur de l’actif de la banque ou de la société de portefeuille bancaire qui doit être détenu au Canada et les modalités de la détention;
 	- **i)** régir la protection et le maintien de l’actif de la banque ou de la société de portefeuille bancaire, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
-	- **j)** régir la détention d’actions et de titres de participation pour l’application des articles 70, 74 et 714;
+	- **j)** régir la détention d’actions, de parts sociales et de titres de participation pour l’application des articles 70, 74 et 714;
 	- **k)** prévoir l’information, en plus des documents visés à l’article 634 ou 953, à conserver dans le registre mentionné à ces articles;
 	- **l)** prendre toute autre mesure d’application de la présente loi.
 
@@ -22189,8 +23946,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Nature du document incorporé**
 
-- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la  [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 135.
+- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 135; 2010, ch. 12, art. 2092.
 
 
 
@@ -22260,6 +24017,22 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(2)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute entité, à l’exception d’une banque, qui acquiert, adopte ou conserve une dénomination qui comprend le terme « banque », « banquier » ou « opérations bancaires », employé seul ou combiné avec d’autres mots, pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
+**Utilisation non autorisée — « banque » et « coopérative de crédit »**
+
+- **(2.01)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative de crédit » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+
+**Utilisation non autorisée — « coopérative de crédit » et « fédéral »**
+
+- **(2.02)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative de crédit » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+
+**Utilisation non autorisée — « banque » et « coopérative »**
+
+- **(2.03)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+
+**Utilisation non autorisée — « coopérative » et « fédéral »**
+
+- **(2.04)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+
 **Utilisation non autorisée du terme « banque », « banquier » ou « opérations bancaires »**
 
 - **(2.1)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute personne, à l’exception d’une banque, qui utilise le terme « banque », « banquier » ou « opérations bancaires » pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
@@ -22301,11 +24074,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Utilisation autorisée**
 
+- **(4.1)** Ne commet pas l’infraction prévue à l’un des paragraphes (2.01) à (2.04) la personne qui accomplit l’acte visé à ce paragraphe dans l’un ou l’autre des cas suivants :
+	- **a)** dans le cadre d’une activité réglementaire;
+	- **b)** dans le cadre de circonstances réglementaires;
+	- **c)** elle agit conformément à un agrément réglementaire et se conforme aux modalités fixées par le ministre.
+
+**Utilisation autorisée**
+
 - **(5)** Ne constitue pas une infraction le simple fait pour la filiale d’une banque d’utiliser la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités, ou d’utiliser, dans l’exercice de ses activités, une marque d’identification de cette banque.
 
 **Utilisation autorisée**
 
-- **(5.1)** Ne commet pas l’infraction prévue au paragraphe (2) ou (2.1) la personne qui accomplit l’acte visé à ce paragraphe relativement à une entreprise — autre qu’une entreprise exploitée par une entité visée par règlement — n’ayant pas d’activités financières.
+- **(5.1)** Ne commet pas l’infraction prévue aux paragraphes (2) à (2.1) la personne qui accomplit l’acte visé à l’un de ces paragraphes relativement à une entreprise — autre qu’une entreprise exploitée par une entité visée par règlement — n’ayant pas d’activités financières.
 
 **Utilisation autorisée**
 
@@ -22313,7 +24093,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Utilisation autorisée**
 
-- **(5.3)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une banque du simple fait qu’elle utilise la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou toute marque d’identification de la banque dans l’exercice de ses activités si elle n’utilise pas les termes « banque », « banquier » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
+- **(5.3)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une banque du simple fait qu’elle utilise la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou toute marque d’identification de la banque dans l’exercice de ses activités si elle n’utilise pas les termes « banque », « banquier », « coopérative de crédit fédérale » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
 
 **Utilisation autorisée**
 
@@ -22363,6 +24143,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **a)** de l’un ou l’autre de ces termes dans quelque langue que ce soit;
 	- **b)** d’un ou de plusieurs mots ayant un sens équivalent à l’un de ces termes, dans quelque langue que ce soit.
 
+**Sens de coopérative de crédit**
+
+- **(13.1)** Pour l’application du présent article, le terme ***coopérative de crédit*** s’entend en outre :
+	- **a)** de ce terme dans quelque langue que ce soit;
+	- **b)** d’un ou de plusieurs mots ayant un sens équivalent à l’un des mots de ce terme, dans quelque langue que ce soit.
+
+**Sens de coopérative et fédérale**
+
+- **(13.2)** Pour l’application du présent article, les termes ***coopérative*** et ***fédérale*** s’entendent en outre :
+	- **a)** de l’un ou l’autre de ces termes dans quelque langue que ce soit;
+	- **b)** d’un ou de plusieurs mots ayant un sens équivalent à l’un de ces termes, dans quelque langue que ce soit.
+
 **Dénomination**
 
 - **(14)** Pour l’application du présent article, exception faite du paragraphe (1), la dénomination d’une entité s’entend en outre :
@@ -22387,7 +24179,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Règlements**
 
 - **(18)** Le gouverneur en conseil peut prendre des règlements pour l’application des paragraphes (1) à (3), des alinéas (4)*b*), g) et h) et des paragraphes (5.3), (8) et (9.1) à (11).
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 129.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 129; 2010, ch. 12, art. 2093.
 
 
 
