@@ -371,8 +371,16 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 **Actions**
 
-**19** Les personnes visées à l’article 18, ainsi que les personnes nommées en vertu du paragraphe 5(5), et les surintendants adjoints ne peuvent avoir d’intérêt direct ou indirect, à titre d’actionnaires, dans une institution financière, une société de portefeuille bancaire, une société de portefeuille d’assurances ou toute autre personne morale, quel que soit son mode de constitution, exerçant au Canada sensiblement les mêmes activités qu’une institution financière.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 19; 2001, ch. 9, art. 470.
+**19** 
+
+- **(1)** Les personnes visées à l’article 18, ainsi que les personnes nommées en vertu du paragraphe 5(5), et les surintendants adjoints ne peuvent avoir d’intérêt direct ou indirect, à titre d’actionnaires, dans une institution financière, une société de portefeuille bancaire, une société de portefeuille d’assurances ou toute autre personne morale, quel que soit son mode de constitution, exerçant au Canada sensiblement les mêmes activités qu’une institution financière.
+
+**Restrictions — coopérative de crédit fédérale**
+
+- **(2)** Les personnes visées à l’article 18, ainsi que les personnes nommées en vertu du paragraphe 5(5), et les surintendants adjoints ne peuvent :
+	- **a)** avoir de droit ou d’intérêt direct ou indirect à titre de membre dans une coopérative de crédit fédérale, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), sauf le nombre minimal de parts sociales requis pour être membre;
+	- **b)** exercer les droits découlant de leur statut de membre d’une coopérative de crédit fédérale à l’exception de ceux qu’ils exercent à titre de client de celle-ci.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 19; 2001, ch. 9, art. 470; 2010, ch. 12, art. 2122.
 
 
 
