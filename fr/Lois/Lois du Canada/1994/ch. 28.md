@@ -11,7 +11,7 @@ Sanctionnée sur le 23 juin 1994
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -54,7 +54,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres définitions**
 
-- **(2)** Dans la présente loi, les termes « aide financière », « année de prêt », « contrat de prêt consolidé », « contrat de prêt simple », « cours », « emprunteur », « étudiant à temps partiel », « étudiant à temps plein », « invalidité grave et permanente », « niveau post­secondaire », « période d’études », « prêt d’études », « programme d’études » et « revenu familial » s’entendent au sens des règlements.
+- **(2)** Dans la présente loi, les termes ***aide financière***, ***année de prêt***, ***collectivité rurale ou éloignée mal desservie***, ***contrat de prêt consolidé***, ***contrat de prêt simple***, ***cours***, ***emprunteur***, ***étudiant à temps partiel***, ***étudiant à temps plein***, ***infirmier***, ***infirmier praticien***, ***invalidité grave et permanente***, ***médecin de famille***, ***niveau post­secondaire***, ***période d’études***, ***prêt d’études***, ***programme d’études*** et ***revenu familial*** s’entendent au sens des règlements.
 
 **Expressions employées à l’égard d’années de prêt antérieures**
 
@@ -63,7 +63,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Documents et communications sous forme électronique**
 
 - **(4)** Dans la présente loi et les règlements, tout document ou autre forme de communication peut être établi sous forme électronique et la mention de tout document vise notamment sa version électronique.
-> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9; 2008, ch. 28, art. 101
+> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9; 2008, ch. 28, art. 101; 2011, ch. 24, art. 152
 
 
 
@@ -267,6 +267,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9.1** Pour l’application de tout règlement pris en vertu des alinéas 15k), k.1), k.2) ou k.3), le ministre a droit, sur demande, d’avoir accès aux renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), relevant d’une institution fédérale, au sens de l’article 3 de cette loi.
 > 2008, ch. 15, art. 2
+
+
+
+
+
+## Médecin de famille, infirmier ou infirmier praticien dans une collectivité rurale ou éloignée mal desservie
+
+
+
+**Dispense de remboursement**
+
+**9.2** 
+
+- **(1)** Le ministre peut dispenser du remboursement d’une somme à l’égard de son prêt d’études l’emprunteur qui commence à travailler dans une collectivité rurale ou éloignée mal desservie comme médecin de famille, infirmier ou infirmier praticien et qui satisfait aux conditions réglementaires.
+
+**Prise d’effet**
+
+- **(2)** La dispense prend effet le jour prévu par règlement.
+
+**Accord**
+
+- **(3)** Le ministre peut, pour l’application du paragraphe (1), conclure avec tout prêteur un accord pour le rachat d’une créance correspondant à un prêt d’études.
+> 2011, ch. 24, art. 153
 
 
 
@@ -492,7 +515,7 @@ où :
 	- **e)** prévoir les conditions à remplir préalablement au versement du prêt d’études;
 	- **e.1)** définir, pour l’application de l’article 6.3, ce qu’est une institution financière et prévoir les circonstances dans lesquelles elle peut verser aux étudiants admissibles les sommes prêtées;
 	- **f)** fixer, pour les prêts consentis à un étudiant à temps plein, le nombre maximal de semaines ou de périodes d’études après lesquelles, par dérogation aux autres dispositions de la présente loi, l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
-	- **f.1)** régir les circonstances dans lesquelles le paiement du principal ou des intérêts des prêts d’études peut être différé;
+	- **f.1)** régir les circonstances dans lesquelles le paiement de tout ou partie du principal ou des intérêts des prêts d’études peut être différé;
 	- **g)** déterminer dans quelles circonstances un emprunteur est étudiant à temps plein ou cesse de l’être;
 	- **h)** prendre des mesures concernant la subrogation de Sa Majesté du chef du Canada dans les droits d’un prêteur;
 	- **i)** déterminer les cas justifiant l’annulation de l’exemption du paiement d’intérêt prévue au paragraphe 7(1) ou le refus d’un prêt d’études ou d’un certificat d’admissibilité;
@@ -505,6 +528,8 @@ où :
 	- **m)** prévoir, malgré toute autre disposition de la présente loi, dans le cas d’un étudiant à temps partiel, les modalités d’application d’un programme de prêts d’études, notamment en ce qui concerne la détermination de son statut, le remboursement de prêts ou les avances de fonds ainsi que le nombre maximal de semaines ou de périodes d’études après lesquelles l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
 	- **n)** prévoir l’élaboration et la mise en oeuvre d’un programme d’exemptions totales ou partielles, pendant des périodes spéciales, pour le paiement d’intérêts par les emprunteurs ou par des catégories d’emprunteurs — ainsi que la conclusion, prorogation ou modification correspondante des accords entre emprunteurs et prêteurs —, en fixer les conditions de même que les modalités de cessation et autoriser les prêteurs à accorder de telles exemptions et y mettre fin et à gérer le programme;
 	- **o)** prévoir l’élaboration et la mise en oeuvre pour une province soit d’un dispositif de prêt — financé par Sa Majesté du chef du Canada ou son mandataire — dont le remboursement par les emprunteurs ou par des catégories d’emprunteurs peut être fonction du revenu, soit d’un tel programme de remboursement;
+	- **o.1)** prévoir la somme à l’égard du prêt d’études qui peut faire l’objet d’une dispense de remboursement à l’égard d’une année en vertu de l’article 9.2;
+	- **o.2)** prévoir le nombre maximal d’années à l’égard desquelles une somme à l’égard du prêt d’études peut faire l’objet d’une dispense de remboursement en vertu de l’article 9.2;
 	- **p)** prévoir l’élaboration et la mise en oeuvre de programmes d’attribution de bourses et d’attribution de bourses supplémentaires pour les étudiants admissibles dont les besoins d’aide financière sont supérieurs au plafond d’aide financière pouvant leur être octroyé, les catégories de personnes pouvant en bénéficier et les circonstances dans lesquelles ces bourses doivent être, en tout ou en partie, remboursées ou converties en prêts;
 	- **q)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 	- **r)** de façon générale, prendre toute autre mesure d’application de la présente loi.
