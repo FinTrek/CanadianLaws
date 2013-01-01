@@ -56,7 +56,7 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 **Other definitions**
 
-- **(2)** In this Act, the words and expressions “borrower”, “consolidated student loan agreement”, “course”, “family income”, “financial assistance”, “full-time student”, “loan year”, “part-time student”, “period of studies”, “post-secondary school level”, “program of studies”, “severe permanent disability”, “student loan” and “student loan agreement” have the meanings assigned by the regulations.
+- **(2)** In this Act, the words and expressions ***borrower***, ***consolidated student loan agreement***, ***course***, ***family income***, ***family physician***, ***financial assistance***, ***full-time student***, ***loan year***, ***nurse***, ***nurse practitioner***, ***part-time student***, ***period of studies***, ***post-secondary school level***, ***program of studies***, ***severe permanent disability***, ***student loan***, ***student loan agreement*** and ***under-served rural or remote community*** have the meanings assigned by the regulations.
 
 **Words and expressions in relation to previous loan years**
 
@@ -65,7 +65,7 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 **Electronic documents and communication**
 
 - **(4)** A document or other communication under this Act or the regulations may be in electronic form, and a reference in this Act or the regulations to a document includes a document in electronic form.
-> 1994, c. 28, s. 2; 2001, c. 27, s. 219; 2003, c. 15, s. 9; 2008, c. 28, s. 101
+> 1994, c. 28, s. 2; 2001, c. 27, s. 219; 2003, c. 15, s. 9; 2008, c. 28, s. 101; 2011, c. 24, s. 152
 
 
 
@@ -271,6 +271,29 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 **9.1** Personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) — that is under the control of a government institution as defined in that section — shall, on request, be made available to the Minister for the purposes of a regulation that is made under paragraph 15(k), (k.1), (k.2) or (k.3).
 > 2008, c. 15, s. 2
+
+
+
+
+
+## Family Physicians, Nurses and Nurse Practitioners in Under-Served Rural or Remote Communities
+
+
+
+**Portion of loan forgiven**
+
+**9.2** 
+
+- **(1)** The Minister may forgive an amount in respect of a student loan to a borrower who begins to work in an under-served rural or remote community as a family physician, nurse or nurse practitioner, if the borrower meets the prescribed conditions.
+
+**Effective date of forgiveness**
+
+- **(2)** The forgiveness takes effect on the prescribed day.
+
+**Agreement**
+
+- **(3)** For the purposes of subsection (1), the Minister may enter into an agreement with a lender for the purchase of a student loan made by the lender.
+> 2011, c. 24, s. 153
 
 
 
@@ -517,7 +540,7 @@ where
 	- **(e)** providing for the conditions to be met before a disbursement in respect of a student loan may be made;
 	- **(e.1)** defining the term “financial institutions” for the purposes of section 6.3 and providing for the circumstances under which financial institutions may disburse student loans to qualifying students;
 	- **(f)** prescribing the maximum number of weeks or periods of studies that may elapse after which, notwithstanding anything in this Act, the principal amount of a student loan made to a full-time student, and interest thereon, commence to be payable by the borrower;
-	- **(f.1)** respecting the circumstances in which no amount on account of principal or interest is required to be paid in respect of student loans;
+	- **(f.1)** respecting the circumstances in which an amount on account of principal or interest is not required to be paid in respect of student loans;
 	- **(g)** prescribing the circumstances in which a borrower is or ceases to be a full-time student;
 	- **(h)** respecting the subrogation of Her Majesty in right of Canada to the rights of a lender;
 	- **(i)** prescribing the circumstances under which a loan or a certificate of eligibility may be denied to a student, or an interest-free period referred to in subsection 7(1) may be terminated by the Minister;
@@ -530,6 +553,8 @@ where
 	- **(m)** notwithstanding any other provision of this Act, providing for the operation of a student loan program for part-time students, including the determination of a student’s status, terms of repayment of the loans, the advancement of loan funds and the maximum number of weeks or periods of studies that may elapse after which the principal amounts of the loans commence to be payable by the borrowers;
 	- **(n)** providing for the establishment and operation of a program to provide special interest-free or interest-reduced periods to borrowers or classes of borrowers, including the terms and conditions of the granting or termination of the periods, the making, continuation or alteration of agreements between borrowers and lenders when the periods are granted or terminated and the authorization of lenders to grant or terminate the periods and otherwise administer the program;
 	- **(o)** providing, in respect of any province, for repayment of student loans by borrowers or classes of borrowers on an income-contingent basis, or for the establishment and operation of a student loan program that is financed by Her Majesty in right of Canada or any agent of Her Majesty in right of Canada and that may provide for the repayment of student loans by borrowers or classes of borrowers on an income-contingent basis;
+	- **(o.1)** prescribing the amount that may be forgiven in respect of a year under section 9.2 in respect of a student loan;
+	- **(o.2)** prescribing the maximum number of years in respect of which amounts may be forgiven under section 9.2 in respect of a student loan;
 	- **(p)** providing for the establishment and operation of grant programs, and additional grant programs for qualifying students whose financial needs are greater than the maximum amount of the financial assistance that may be given to the student, for the classes of persons who are eligible for grants and for the circumstances in which all or part of a grant is to be repaid or converted into a loan;
 	- **(q)** prescribing anything that is to be prescribed by the regulations; and
 	- **(r)** generally, for carrying into effect the purposes and provisions of this Act.
