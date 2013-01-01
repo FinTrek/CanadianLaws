@@ -97,6 +97,7 @@ où :
 - **e)** une prestation en vertu d’un régime de prestations supplémentaires de chômage,
 - **f)** un paiement versé en vertu d’un régime de participation différée aux bénéfices ou d’un organisme dit « régime dont l’agrément est retiré » à l’article 147 de la Loi et réduit, s’il y a lieu, de montants déterminés selon les paragraphes 147(10.1), (11) et (12) de la Loi,
 - **g)** une prestation versée en vertu de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md),
+- **g.1)** une somme à inclure, en application de l’alinéa 56(1)a.3) de la Loi, dans le calcul du revenu d’un contribuable,
 - **h)** un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu de l’alinéa 56(1)r) de la Loi, à l’exception de la partie du montant qui se rapporte aux frais de garde d’enfants et aux frais de scolarité,
 - **i)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
 	- **(i)** un paiement périodique de rente,
@@ -140,7 +141,7 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 - **(5)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un montant au titre de l’acquisition par ce dernier d’une action approuvée au sens du paragraphe 127.4(1) de la Loi, le moindre des deux montants suivants est déduit du montant déterminé selon l’alinéa 102(1)e) ou (2)e), selon le cas, à l’égard de ce paiement :
 	- **a)** 750 $;
 	- **b)** le montant correspondant à 15 % du montant déduit ou retenu au titre de l’acquisition d’une action approuvée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1; 2012, ch. 31, art. 58.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1; 2012, ch. 27, art. 30, ch. 31, art. 58.
 
 
 
@@ -12712,8 +12713,9 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 	- **(ii)** elles sont détenues en fiducie au profit exclusif de particuliers autochtones,
 	- **(iii)** elles appartiennent à une société dont toutes les actions sont soit la propriété de particuliers autochtones, soit détenues en fiducie au profit exclusif de tels particuliers,
 	- **(iv)** elles appartiennent à des personnes mentionnées aux sous-alinéas (i), (ii) ou (iii) ou sont détenues par ces personnes dans le cadre d’un ensemble de mécanismes de propriété visés à ces sous-alinéas;
-- **b)** d’une aide prescrite au sens de l’article 6702.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F).
+- **b)** d’une aide prescrite au sens de l’article 6702;
+- **c)** d’une somme qui correspond à la partie d’un prêt d’études qui a fait l’objet d’une dispense de remboursement en vertu de l’article 9.2 de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md) ou de l’article 11.1 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F); 2011, ch. 24, art. 88.
 
 
 
