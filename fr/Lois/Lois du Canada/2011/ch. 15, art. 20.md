@@ -8,7 +8,7 @@
 Sanctionnée sur le 26 juin 2011
 
 ```
-[Édictée par l’article 20 du chapitre 15 des Lois du Canada (2011), non en vigueur.]
+[Édictée par l’article 20 du chapitre 15 des Lois du Canada (2011), en vigueur le 1<sup>er</sup> janvier 2013, voir TR/2012-87.]
 ```
 ----------
 
@@ -40,29 +40,29 @@ Sanctionnée sur le 26 juin 2011
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***assureur hypothécaire*** Personne morale visée au paragraphe 13(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et autorisée par le surintendant à vendre de l’assurance hypothécaire au Canada.
+***assureur hypothécaire*** Personne morale visée au paragraphe 13(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et autorisée par le surintendant à vendre de l’assurance hypothécaire au Canada. (*mortgage insurer*)
 
-***assureur hypothécaire agréé*** Assureur hypothécaire agréé au titre de l’article 4.
+***assureur hypothécaire agréé*** Assureur hypothécaire agréé au titre de l’article 4. (*approved mortgage insurer*)
 
-***liquidateur*** Liquidateur nommé en vertu de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ou personne exerçant des fonctions semblables nommée en vertu de toute autre loi du Parlement concernant l’insolvabilité ou la faillite.
+***liquidateur*** Liquidateur nommé en vertu de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ou personne exerçant des fonctions semblables nommée en vertu de toute autre loi du Parlement concernant l’insolvabilité ou la faillite. (*liquidator*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***ordonnance de mise en liquidation*** Ordonnance de mise en liquidation rendue en vertu de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ou ordonnance semblable rendue en vertu de toute autre loi du Parlement concernant l’insolvabilité ou la faillite.
+***ordonnance de mise en liquidation*** Ordonnance de mise en liquidation rendue en vertu de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ou ordonnance semblable rendue en vertu de toute autre loi du Parlement concernant l’insolvabilité ou la faillite. (*winding-up order*)
 
-***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance à l’égard d’un prêt hypothécaire admissible conclu entre l’assureur hypothécaire agréé et le prêteur hypothécaire qualifié qu’il a désigné comme tel. 
+***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance à l’égard d’un prêt hypothécaire admissible conclu entre l’assureur hypothécaire agréé et le prêteur hypothécaire qualifié qu’il a désigné comme tel.  (*policy*)
 
-***prêt hypothécaire admissible*** Prêt hypothécaire répondant aux critères fixés par règlement pris en vertu du paragraphe 42(1).
+***prêt hypothécaire admissible*** Prêt hypothécaire répondant aux critères fixés par règlement pris en vertu du paragraphe 42(1). (*eligible mortgage loan*)
 
-***prêteur hypothécaire qualifié*** Prêteur hypothécaire désigné à titre de prêteur hypothécaire qualifié en vertu de l’article 10. 
+***prêteur hypothécaire qualifié*** Prêteur hypothécaire désigné à titre de prêteur hypothécaire qualifié en vertu de l’article 10.  (*qualified mortgage lender*)
 
-***Sa Majesté*** Sa Majesté du chef du Canada.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
-***société*** La Société d’assurance hypothécaire Canada Guaranty, la Compagnie d’assurance d’hypothèques Genworth Financial Canada, la PMI Société d’assurance hypothécaire du Canada ou tout successeur de l’une d’entre elles.
+***société*** La Société d’assurance hypothécaire Canada Guaranty, la Compagnie d’assurance d’hypothèques Genworth Financial Canada, la PMI Société d’assurance hypothécaire du Canada ou tout successeur de l’une d’entre elles. (*company*)
 
-French version only***souscripteur*** Titulaire d’une police.
+***souscripteur*** Titulaire d’une police. (***French version only***)
 
-***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md). 
+***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).  (*Superintendent*)
 
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
@@ -70,7 +70,7 @@ French version only***souscripteur*** Titulaire d’une police.
 - **c)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
 
 
