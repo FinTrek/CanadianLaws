@@ -468,7 +468,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 **23** 
 
-- **(1)** Le surintendant doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses engagées pendant l’exercice précédent dans le cadre de l’application de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la Loi sur l’association personnalisée le Bouclier vert du Canada, la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
+- **(1)** Le surintendant, avant le 31 décembre de chaque année, détermine le montant total des dépenses engagées pendant l’exercice précédent dans le cadre de l’application de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la Loi sur l’association personnalisée le Bouclier vert du Canada, la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), la [Loi sur la protection de l’assurance hypothécaire résidentielle](/fr/Lois/Lois%20du%20Canada/2011/ch.%2015,%20art.%2020.md) et la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
 
 **Régimes de pension**
 
@@ -495,7 +495,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Détermination de la cotisation**
 
 - **(6)** La détermination du montant de la cotisation tient notamment compte des montants visés au paragraphe (1.1).
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473; 2010, ch. 25, art. 175; 2012, ch. 16, art. 94.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473; 2010, ch. 25, art. 175; 2011, ch. 15, art. 25; 2012, ch. 16, art. 94.
 
 
 
