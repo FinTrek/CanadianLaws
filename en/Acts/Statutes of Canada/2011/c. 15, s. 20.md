@@ -8,7 +8,7 @@
 Assented to on 26 June 2011
 
 ```
-[Enacted by section 20 of chapter 15 of the Statutes of Canada, 2011, not in force.]
+[Enacted by section 20 of chapter 15 of the Statutes of Canada, 2011, in force January 1, 2013, see SI/2012-87.]
 ```
 ----------
 
@@ -40,37 +40,37 @@ Assented to on 26 June 2011
 
 **2** The following definitions apply in this Act.
 
-***approved mortgage insurer*** means a mortgage insurer that is designated under section 4.
+***approved mortgage insurer*** means a mortgage insurer that is designated under section 4. (*assureur hypothécaire agréé*)
 
-***company*** means the Canada Guaranty Mortgage Insurance Company, the Genworth Financial Mortgage Insurance Company Canada, the PMI Mortgage Insurance Company Canada or any successor to any of those companies.
+***company*** means the Canada Guaranty Mortgage Insurance Company, the Genworth Financial Mortgage Insurance Company Canada, the PMI Mortgage Insurance Company Canada or any successor to any of those companies. (*société*)
 
-***court*** means
+***court*** means
 - **(a)** in Ontario, the Superior Court of Justice;
 - **(b)** in Quebec, the Superior Court of the province;
 - **(c)** in Nova Scotia and British Columbia, the Supreme Court of the province;
 - **(d)** in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the province;
 - **(e)** in Prince Edward Island and Newfoundland and Labrador, the trial division of the Supreme Court of the province; and
-- **(f)** in Yukon and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice.
+- **(f)** in Yukon and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice. (*tribunal*)
 
-***eligible mortgage loan*** means a mortgage or hypothecary loan that meets the criteria established by regulations made under subsection 42(1).
+***eligible mortgage loan*** means a mortgage or hypothecary loan that meets the criteria established by regulations made under subsection 42(1). (*prêt hypothécaire admissible*)
 
-***Her Majesty*** means Her Majesty in right of Canada.
+***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
-***liquidator*** means a liquidator appointed under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) or a similar official appointed under any other Act of Parliament relating to insolvency or bankruptcy.
+***liquidator*** means a liquidator appointed under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) or a similar official appointed under any other Act of Parliament relating to insolvency or bankruptcy. (*liquidateur*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***mortgage insurer*** means a corporation referred to in subsection 13(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) and that is approved by the Superintendent to sell mortgage or hypothecary insurance in Canada. 
+***mortgage insurer*** means a corporation referred to in subsection 13(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) and that is approved by the Superintendent to sell mortgage or hypothecary insurance in Canada.  (*assureur hypothécaire*)
 
-***policy*** means any written contract of insurance in respect of an eligible mortgage loan, whether contained in one or more documents, entered into by an approved mortgage insurer and a qualified mortgage lender that has been designated as such by the approved mortgage insurer.
+***policy*** means any written contract of insurance in respect of an eligible mortgage loan, whether contained in one or more documents, entered into by an approved mortgage insurer and a qualified mortgage lender that has been designated as such by the approved mortgage insurer. (*police*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations made under section 41.
+***prescribed*** means prescribed by regulations made under section 41. (***Version anglaise seulement***)
 
-***qualified mortgage lender*** means a mortgage or hypothecary lender that has been designated under section 10.
+***qualified mortgage lender*** means a mortgage or hypothecary lender that has been designated under section 10. (*prêteur hypothécaire qualifié*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed under the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md).
+***Superintendent*** means the Superintendent of Financial Institutions appointed under the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md). (*surintendant*)
 
-***winding-up order*** means a winding-up order made under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) or a similar order made under any other Act of Parliament relating to insolvency or bankruptcy.
+***winding-up order*** means a winding-up order made under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) or a similar order made under any other Act of Parliament relating to insolvency or bankruptcy. (*ordonnance de mise en liquidation*)
 
 
 
