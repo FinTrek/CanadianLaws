@@ -198,15 +198,15 @@ Assented to on 16 December 1992
 **Idem**
 
 - **(3)** A plan or an arrangement that is established by or under the authority of an order made under subsection (1) shall provide for the payment of benefits to or in respect of a person described in that subsection that are equivalent in value to the value of the benefits that the person would have been able to accrue but for
-	- **(a)** paragraph 5(6)(b) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md);
-	- **(b)** subsection 5(6) of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md);
-	- **(c)** subsection 5(9) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md); or
+	- **(a)** subsection 5(6) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md);
+	- **(b)** subsection 5(5) of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md);
+	- **(c)** subsection 5(5) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md); or
 	- **(d)** section 11 of An Act to amend certain Acts in relation to pensions and to enact the Special Retirement Arrangements Act and the Pension Benefits Division Act, introduced in the third session of the thirty-fourth Parliament.
 
 **Definition of “deputy head”**
 
 - **(4)** In this section, ***deputy head*** means the deputy head of a department, a person having by law the status of a deputy head and the chairperson, president or other chief executive officer of a portion of the public service, as defined in section 3 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), other than a department.
-> 1992, c. 46, Sch. I, s. 11; 2002, c. 17, s. 29; 2003, c. 22, s. 225(E), c. 26, s. 66.
+> 1992, c. 46, Sch. I, s. 11; 2002, c. 17, s. 29; 2003, c. 22, s. 225(E), c. 26, s. 66; 2012, c. 31, ss. 473, 503, 513.
 
 
 
