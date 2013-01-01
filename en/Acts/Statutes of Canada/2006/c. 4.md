@@ -983,71 +983,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 9** 
-## Mortgage Insurance
+## [Repealed, 2011, c. 15, s. 21]
+
+
+**192** [Repealed, 2011, c. 15, s. 21]
 
 
 
-**Interpretation**
-
-**192** The following definitions apply in sections 193 and 194.
-
-***mortgagee*** means a mortgagee or hypothecary creditor that holds a mortgage or hypothec insurance policy with a mortgage insurer.
-
-***mortgage insurer*** means a corporation to which subsection 13(1) of the 
-[Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies and that is approved by the Superintendent of Financial Institutions to sell mortgage or hypothec insurance policies in Canada.
+**193** [Repealed, 2011, c. 15, s. 21]
 
 
 
-
-**Mortgage or hypothec insurance protection agreement**
-
-**193** 
-
-- **(1)** The Minister of Finance may, with respect to an insurance policy held by a mortgagee, enter into an agreement with any person, including a mortgage insurer or the mortgagee, to do any of the following:
-	- **(a)** provide an indemnity to the mortgagee;
-	- **(b)** provide a guarantee or suretyship to the mortgagee; and
-	- **(c)** purchase a replacement insurance policy for the mortgagee.
-
-**Payment to be made**
-
-- **(2)** The agreement shall provide that, if the mortgage insurer with whom the mortgagee holds an insurance policy becomes insolvent or is liquidated, a payment shall be made to the mortgagee, or to another mortgage insurer if the agreement provides for a replacement insurance policy.
-
-**Amount of payment**
-
-- **(3)** Subject to regulations made under paragraph 194(1)(a), the payment shall be equal to the benefits payable under the insurance policy held with the mortgage insurer less 10 per cent of the original principal amount of the mortgage or hypothec that is subject to the insurance policy.
-
-**Limitation**
-
-- **(4)** The aggregate outstanding principal amount of all mortgages or hypothecs to which insurance policies that are subject to such agreements apply shall not at any time exceed $250,000,000,000 or any other amount that may be authorized for the purposes of this subsection under an appropriation Act.
-
-**Deeming**
-
-- **(5)** An agreement having the same purpose as an agreement referred to in subsection (1) and that is entered into by the Minister of Finance before the coming into force of that subsection is deemed to be an agreement referred to in this section.
-> 2006, c. 4, s. 193; 2008, c. 28, s. 148.
+**194** [Repealed, 2011, c. 15, s. 21]
 
 
 
-
-
-**Regulations**
-
-**194** 
-
-- **(1)** The Governor in Council may make regulations respecting
-	- **(a)** the percentage of the original principal amount to be subtracted under subsection 193(3), including the mortgages or hypothecs to which that percentage applies;
-	- **(b)** information and documents, electronic or otherwise, to be maintained by a person who is a party to an agreement referred to in section 193; and
-	- **(c)** the disclosure of any information and documents, electronic or otherwise, by such a person to the Minister of Finance or any person designated by the Minister of Finance.
-
-**Application of regulations**
-
-- **(2)** A regulation made under paragraph (1)(a) does not apply in respect of a mortgage or hypothec that became insured before the coming into force of the regulation by an insurance policy that is subject to an agreement referred to in section 193.
-
-
-
-
-**Amount to be paid out of C.R.F.**
-
-**195** From and out of the Consolidated Revenue Fund there may, on the requisition of the Minister of Finance, be paid any amounts to be paid under an agreement entered into under section 193.
+**195** [Repealed, 2011, c. 15, s. 21]
 
 
 
@@ -1055,11 +1006,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**197** [Amendment]
+**197** [Repealed, 2011, c. 15, s. 21]
 
 
 
-**198** [Amendment]
+**198** [Repealed, 2011, c. 15, s. 21]
 
 
 
