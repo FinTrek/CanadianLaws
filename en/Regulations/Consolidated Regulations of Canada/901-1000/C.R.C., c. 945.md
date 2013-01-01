@@ -98,6 +98,7 @@ paid to an officer or employee or former officer or employee,
 - **(e)** a benefit under a supplementary unemployment benefit plan,
 - **(f)** a payment under a deferred profit sharing plan or a plan referred to in section 147 of the Act as a ***revoked plan***, reduced, if applicable, by amounts determined under subsections 147(10.1), (11) and (12) of the Act,
 - **(g)** a benefit under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md),
+- **(g.1)** an amount that is required by paragraph 56(1)(a.3) of the Act to be included in computing a taxpayer’s income,
 - **(h)** an amount that is required by paragraph 56(1)(r) of the Act to be included in computing a taxpayer’s income, except the portion of the amount that relates to child care expenses and tuition costs,
 - **(i)** a payment made during the lifetime of an annuitant referred to in the definition ***annuitant*** in subsection 146(1) of the Act out of or under a registered retirement savings plan of that annuitant, other than
 	- **(i)** a periodic annuity payment, or
@@ -141,7 +142,7 @@ the balance remaining after deducting or withholding this amount, as the case ma
 - **(5)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee an amount in respect of the acquisition by the employee of an approved share, as defined in subsection 127.4(1) of the Act, there shall be deducted from the amount determined under paragraph 102(1)(e) or (2)(e), as the case may be, in respect of that payment the lesser of
 	- **(a)** $750, and
 	- **(b)** 15% of the amount deducted or withheld in respect of the acquisition of an approved share.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1; 2012, c. 31, s. 58.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1; 2012, c. 27, s. 30, c. 31, s. 58.
 
 
 
@@ -12810,9 +12811,10 @@ but does not include payments under an indexed debt obligation where, at any tim
 	- **(ii)** held in trust for the exclusive benefit of aboriginal individuals,
 	- **(iii)** owned by a corporation, all the shares of which are owned by aboriginal individuals or held in trust for the exclusive benefit of aboriginal individuals, or
 	- **(iv)** owned or held in a combination of ownership structures described in subparagraph (i), (ii) or (iii)
-and the purpose of the corporation is to provide loans, loan guarantees, bridge financing, venture capital, lease financing, surety bonding or other similar financing services to aboriginal enterprises; or
-- **(b)** prescribed assistance within the meaning assigned by section 6702.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F).
+and the purpose of the corporation is to provide loans, loan guarantees, bridge financing, venture capital, lease financing, surety bonding or other similar financing services to aboriginal enterprises;
+- **(b)** prescribed assistance within the meaning assigned by section 6702; or
+- **(c)** an amount that is the portion of a student loan forgiven under section 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) or under section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F); 2011, c. 24, s. 88.
 
 
 
