@@ -362,7 +362,7 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 
 
-## Lieux contaminés et régions contrôlées
+## Lieux contaminés et zones de contrôle
 
 
 
@@ -399,11 +399,11 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 
 
-**Interdiction**
+**Interdiction — lieu contaminé**
 
 **25** 
 
-- **(1)** Sauf en conformité avec les règlements d’application de l’alinéa 64(1)k), il est interdit, sans permis signé par un inspecteur ou un agent d’exécution, de sortir tout animal ou toute chose d’un lieu contaminé ou de l’y introduire.
+- **(1)** Il est interdit, sans permis signé par un inspecteur ou un agent d’exécution, de sortir tout animal ou toute chose d’un lieu contaminé ou de l’y introduire.
 
 **Renvoi**
 
@@ -412,48 +412,139 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 **Avis**
 
 - **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 21, art. 25; 2012, ch. 19, art. 507.
+
 
 
 
 
 **Déclaration de non-contamination**
 
-**26** Tout lieu qui constitue un lieu contaminé aux termes des articles 22 ou 23 cesse, en tout ou en partie, d’être un tel lieu sur déclaration écrite par l’inspecteur ou l’agent d’exécution que la maladie ou la substance en cause est soit absente du lieu visé ou non susceptible de propagation, soit sans danger pour la santé des personnes ou des animaux.
+**26** Tout lieu qui constitue un lieu contaminé aux termes des articles 22 ou 23 cesse, en tout ou en partie, d’être un tel lieu sur déclaration écrite par l’inspecteur ou l’agent d’exécution que, selon le cas :
+- **a)** la maladie ou la substance en cause est :
+	- **(i)** soit absente du lieu visé ou non susceptible de propagation,
+	- **(ii)** soit sans danger pour la santé des personnes ou des animaux;
+- **b)** le lieu contaminé se trouve dans une région déclarée par le ministre comme zone de contrôle primaire à l’égard de cette maladie ou de cette substance.
+> 1990, ch. 21, art. 26; 2012, ch. 19, art. 508.
 
 
 
 
-**Régions contrôlées**
+
+**Zone de contrôle primaire**
 
 **27** 
 
-- **(1)** Le ministre peut désigner comme région contrôlée et délimiter toute région où, à son avis, sévit la maladie ou existe la substance toxique dont il précise la nature.
+- **(1)** Le ministre peut, par ordonnance, déclarer comme zone de contrôle primaire toute région où, à son avis, sévit la maladie ou existe la substance toxique dont il précise la nature; il doit alors délimiter cette zone.
+
+**Animal ou chose désignés**
+
+- **(2)** Le ministre peut, par ordonnance, désigner tout animal ou toute chose susceptibles d’être contaminés par la maladie ou la substance en cause.
+
+**Interdiction — zone de contrôle primaire**
+
+- **(3)** Il est interdit, sauf en conformité avec un permis délivré par le ministre, de sortir de la zone de contrôle primaire tout animal ou toute chose désignés, de les y introduire ou de les y déplacer.
+> 1990, ch. 21, art. 27; 2012, ch. 19, art. 508.
+
+
+
+
+
+**Zone de contrôle secondaire**
+
+**27.1** 
+
+- **(1)** S’il prend l’ordonnance prévue au paragraphe 27(1) et afin d’empêcher la propagation de la maladie ou de la substance toxique qui y est précisée ou de surveiller cette maladie ou cette substance toxique, le ministre peut, par ordonnance, déclarer comme zone de contrôle secondaire toute région qu’il estime nécessaire; il doit alors délimiter cette zone.
+
+**Maladie hors du Canada**
+
+- **(2)** S’il est d’avis qu’une maladie sévit ou qu’une substance toxique existe dans une région à l’étranger, le ministre peut, par ordonnance, afin d’empêcher la propagation au Canada de cette maladie ou de cette substance toxique, ou de surveiller cette maladie ou cette substance toxique, déclarer comme zone de contrôle secondaire toute région du Canada qu’il estime nécessaire; il doit alors délimiter cette zone et préciser la nature de la maladie ou de la substance toxique en cause.
+
+**Animal ou chose désignés**
+
+- **(3)** Le ministre peut, par ordonnance, désigner tout animal ou toute chose susceptibles d’être contaminés par la maladie ou la substance à l’égard de laquelle la zone visée au paragraphe (2) a été déclarée.
+
+**Conditions**
+
+- **(4)** Le ministre peut, par ordonnance, interdire l’entrée, la sortie ou le déplacement dans toute zone de contrôle secondaire d’animaux ou de choses désignés, ou y imposer des conditions, notamment l’obtention d’un permis.
+
+**Obligation de se conformer à l’ordonnance**
+
+- **(5)** Toute personne visée par l’ordonnance prise en vertu du paragraphe (4) doit s’y conformer.
+> 2012, ch. 19, art. 508.
+
+
+
+
+
+**Permis**
+
+**27.2** Les permis visés aux paragraphes 27(3) et 27.1(4) peuvent être délivrés, à titre de permis d’application générale, aux propriétaires ou aux personnes qui ont la possession, la responsabilité ou la charge des soins d’animaux ou de choses désignés.
+> 2012, ch. 19, art. 508.
+
+
+
+
+
+**Modification**
+
+**27.3** Le ministre peut, par ordonnance, modifier ou révoquer l’ordonnance prise en vertu des paragraphes 27(1) ou (2) ou de l’un des paragraphes 27.1(1) à (4).
+> 2012, ch. 19, art. 508.
+
+
+
+
 
 **Mesures**
 
-- **(2)** Le ministre peut prendre les mesures compatibles avec la sécurité publique en vue de remédier à toute situation dangereuse ou de réduire les risques que constitue — ou peut normalement constituer — pour la vie, la santé, les biens ou l’environnement, la présence d’une maladie ou d’une substance toxique dans la région contrôlée.
+**27.4** Le ministre peut prendre les mesures compatibles avec la sécurité publique en vue de remédier à toute situation dangereuse ou de réduire les risques que constitue — ou peut normalement constituer — pour la vie, la santé, les biens ou l’environnement, la présence d’une maladie ou d’une substance toxique dans la zone de contrôle primaire.
+> 2012, ch. 19, art. 508.
+
+
+
+
 
 **Règlements**
 
-- **(3)** Le ministre peut prendre des règlements en vue de lutter contre les maladies et les substances toxiques dans une région contrôlée ou de les en éliminer, ainsi que d’éviter leur propagation, et, notamment, pour :
-	- **a)** régir ou interdire l’entrée, la sortie ou la circulation de personnes, d’animaux ou de choses, y compris les véhicules, dans cette région;
-	- **b)** prévoir la subdivision de cette région en zones et la prise de mesures différentes pour chacune d’elles;
-	- **c)** autoriser le traitement, la destruction ou toute autre forme de disposition d’animaux ou de choses se trouvant dans cette région ou s’y étant trouvées.
+**27.5** Le ministre peut, par règlement, régir ou interdire l’entrée, la sortie ou la circulation dans une zone de contrôle primaire ou secondaire des personnes ou des animaux ou choses désignés, en vue de lutter contre la maladie ou la substance toxique en cause, de les en éliminer ou d’éviter leur propagation.
+> 2012, ch. 19, art. 508.
 
-**Renvoi**
 
-- **(4)** L’inspecteur ou l’agent d’exécution peut soit renvoyer de la région contrôlée ou y rapporter tout animal ou toute chose — saisis ou non — qui ont été déplacés, à son avis fondé sur des motifs raisonnables, en contravention avec les règlements d’application du paragraphe (3), soit les transférer dans un autre lieu; il peut aussi ordonner au propriétaire de l’animal ou de la chose, ou à la personne qui en a la possession, la responsabilité ou la charge des soins, de le faire.
+
+
+
+**Traitement ou disposition**
+
+**27.6** 
+
+- **(1)** Le ministre peut, à l’égard des animaux ou des choses désignés se trouvant dans une zone de contrôle primaire ou secondaire, ou s’y étant trouvés, prendre les mesures suivantes :
+	- **a)** les soumettre à un traitement ou ordonner à leur propriétaire ou à la personne qui en a la possession, la responsabilité ou la charge des soins de les traiter, ou de les faire traiter, s’il estime que le traitement sera efficace pour éliminer la maladie ou la substance toxique ou prévenir leur propagation;
+	- **b)** prendre toute mesure de disposition, notamment de destruction, ou ordonner à leur propriétaire ou à la personne qui en a la possession, la responsabilité ou la charge des soins de le faire.
+
+**Renvoi d’animaux ou de choses**
+
+- **(2)** L’inspecteur ou l’agent d’exécution peut transférer dans un autre lieu tout animal ou toute chose désignés — saisis ou non — qui, à son avis fondé sur des motifs raisonnables, ont été sortis d’une zone de contrôle primaire ou introduits ou déplacés dans cette zone en contravention avec le paragraphe 27(3) ou ont été sortis d’une zone de contrôle secondaire ou introduits ou déplacés dans cette zone en contravention avec une ordonnance prise en vertu du paragraphe 27.1(4); il peut aussi ordonner au propriétaire de l’animal ou de la chose, ou à la personne qui en a la possession, la responsabilité ou la charge des soins, de le faire.
 
 **Avis**
 
-- **(5)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(3)** L’ordre donné en vertu du paragraphe (1) ou (2) est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 2012, ch. 19, art. 508.
 
 
 
 
-**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**28** Ni les déclarations prévues aux articles 22, 23 ou 26, ni la désignation prévue à l’article 27 ne constituent des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md); dans ce dernier cas, cependant, le ministre doit prendre les mesures utiles pour la porter à la connaissance des intéressés.
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**28** 
+
+- **(1)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux déclarations prévues aux articles 22, 23 ou 26, aux ordonnances prises en vertu des paragraphes 27(1) ou (2), ou de l’un des paragraphes 27.1(1) à (4) ou de l’article 27.3, et aux permis visés aux paragraphes 27(3) ou 27.1(4) qui sont délivrés à titre de permis d’application générale.
+
+**Accessibilité**
+
+- **(2)** Le ministre prend les mesures nécessaires pour que les intéressés puissent avoir accès aux ordonnances et aux permis d’application générale.
+> 1990, ch. 21, art. 28; 2012, ch. 19, art. 508.
+
 
 
 
@@ -550,7 +641,15 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **Délégation**
 
-**33** L’inspecteur et l’agent d’exécution peuvent exercer, aux conditions fixées par le ministre, les pouvoirs et fonctions conférés à celui-ci sous le régime de la présente loi, à l’exception du pouvoir énoncé à l’article 27.
+**33** 
+
+- **(1)** L’inspecteur et l’agent d’exécution peuvent exercer, aux conditions fixées par le ministre, les pouvoirs et fonctions conférés à celui-ci sous le régime de la présente loi, à l’exception des pouvoirs énoncés aux paragraphes 27(1) et 27.1(1) et (2) et aux articles 27.4 et 27.5.
+
+**Pouvoir du ministre — article 27.3**
+
+- **(2)** Ils ne peuvent le faire, dans le cas de l’article 27.3, qu’à l’égard des ordonnances prises en vertu des paragraphes 27(2) et 27.1(3) et (4).
+> 1990, ch. 21, art. 33; 2012, ch. 19, art. 509.
+
 
 
 
@@ -862,10 +961,10 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 
 
-**Indemnisation : traitement**
+**Indemnisation : traitement**
 
-**53** Le ministre peut ordonner le versement, sur le Trésor, d’une indemnité égale aux frais entraînés par le traitement prodigué en application du paragraphe 48(2).
-> 1990, ch. 21, art. 53; 1997, ch. 6, art. 70.
+**53** Le ministre peut ordonner le versement, sur le Trésor, d’une indemnité égale aux frais entraînés par le traitement prodigué sous le régime de l’alinéa 27.6(1)a) ou du paragraphe 48(2).
+> 1990, ch. 21, art. 53; 1997, ch. 6, art. 70; 2012, ch. 19, art. 510.
 
 
 
@@ -981,11 +1080,13 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **61** 
 
-- **(1)** Sa Majesté peut recouvrer les redevances réglementaires et autres frais liés aux mesures prises sous le régime de l’article 27.
+- **(1)** Sa Majesté peut recouvrer les redevances réglementaires et autres frais liés aux mesures prises sous le régime de l’article 27.4.
 
 **Débiteurs**
 
 - **(2)** Sont alors débiteurs de ces frais soit les personnes qui sont à l’origine de la présence ou de la propagation de la maladie ou du produit toxique en cause ou qui y ont contribué, par leur faute ou leur négligence, soit celles qui sont légalement responsables de telles personnes.
+> 1990, ch. 21, art. 61; 2012, ch. 19, art. 511.
+
 
 
 
@@ -1025,7 +1126,7 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 		- **(ii)** soit ont été en contact avec des animaux ou choses de la catégorie visée au sous-alinéa (i) ou se sont trouvés dans leur voisinage immédiat,
 		- **(iii)** soit sont des vecteurs, des agents causant des maladies ou des substances toxiques, ou soupçonnés d’en être;
 	- **g)** faire isoler et parquer les animaux dans certaines limites, instituer des zones d’inspection ou de quarantaine et établir des zones d’éradication dans lesquelles les animaux pourront être examinés, isolés et soumis à des tests relativement aux maladies ou aux produits toxiques;
-	- **h)** régir ou interdire le transport, au Canada, soit d’animaux, de leurs produits, sous-produits et aliments, de vecteurs, d’agents causant des maladies ainsi que de fourrage, soit d’autres choses se rapportant aux animaux et susceptibles d’être contaminées par une maladie ou une substance toxique;
+	- **h)** régir ou interdire le déplacement, au Canada, soit d’animaux, de leurs produits, sous-produits et aliments, de vecteurs, d’agents causant des maladies ainsi que de fourrage, soit d’autres choses se rapportant aux animaux et susceptibles d’être contaminées par une maladie ou une substance toxique;
 	- **i)** empêcher que les animaux soient maltraités, notamment en :
 		- **(i)** régissant leur garde, y compris les soins à leur donner et les mesures concernant leur disposition,
 		- **(ii)** régissant leur transport tant à l’intérieur qu’à destination ou en provenance du Canada,
@@ -1072,7 +1173,7 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 **Définitions de volatiles et poussins**
 
 - **(4)** Dans les paragraphes (2) et (3), ***volatiles*** s’entend des oiseaux en captivité ou l’ayant été et ***poussins*** des volatiles âgés de moins de soixante-douze heures.
-> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76; 2012, ch. 24, art. 94.
+> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76; 2012, ch. 19, art. 512(F), ch. 24, art. 94.
 
 
 
@@ -1086,18 +1187,18 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **65** 
 
-- **(1)** Quiconque contrevient aux dispositions de la présente loi — à l’exception de l’article 15 — ou des règlements ou refuse ou néglige d’accomplir une obligation imposée par la présente loi ou les règlements commet une infraction et encourt, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient aux dispositions de la présente loi — à l’exception de l’article 15 — ou des règlements ou refuse ou néglige d’accomplir une obligation imposée sous le régime de la présente loi, commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de deux cent cinquante mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
-**Infraction : possession et disposition**
+**Infraction : possession et disposition**
 
 - **(2)** Quiconque contrevient à l’article 15 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinquante mille dollars.
 
 **Défaut de paiement**
 
 - **(3)** Par dérogation au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le défaut de paiement de l’amende imposée en application du paragraphe (2) n’entraîne pas l’emprisonnement.
-> 1990, ch. 21, art. 65; 1995, ch. 40, art. 61.
+> 1990, ch. 21, art. 65; 1995, ch. 40, art. 61; 2012, ch. 19, art. 513(F).
 
 
 
@@ -1105,10 +1206,10 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Autres contraventions**
 
-**66** Quiconque contrevient à l’avis qui lui a été signifié au titre des articles 18, 25, 27, 37, 43 ou 48 ou des règlements commet une infraction et encourt, sur déclaration de culpabilité :
+**66** Quiconque contrevient à l’avis qui lui a été signifié au titre des articles 18, 25, 27.6, 37, 43 ou 48 ou des règlements commet une infraction et encourt, sur déclaration de culpabilité :
 - **a)** par procédure sommaire, une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 - **b)** par mise en accusation, une amende maximale de deux cent cinquante mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
-> 1990, ch. 21, art. 66; 1995, ch. 40, art. 62.
+> 1990, ch. 21, art. 66; 1995, ch. 40, art. 62; 2012, ch. 19, art. 514.
 
 
 
