@@ -834,67 +834,66 @@ The compulsory pilotage area consists of the following waters:
 #### FEES FOR EXAMINATIONS AND TESTS AND FOR THE ISSUANCE OF LICENCES, PILOTAGE CERTIFICATES AND APPRENTICE PILOT PERMITS
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Licence, Certificate, Examination or Test</th>
 <th>Fee ($)</th>
 </tr>
 <tr>
 <td>1</td>
 <td>For review by the Authority of the documents referred to in section 21 or 26.3 for the issuance of a pilotage certificate or a Class D apprentice pilot permit</td>
-<td>105</td>
+<td>111</td>
 </tr>
 <tr>
 <td>2</td>
 <td>For a language test given under paragraph 26.1(a), 26.2(a) or 28(3)(c)</td>
-<td>105</td>
+<td>111</td>
 </tr>
 <tr>
 <td>3</td>
 <td>For issuing a Class D apprentice pilot permit</td>
-<td>373</td>
+<td>392</td>
 </tr>
 <tr>
 <td>4</td>
 <td>For each written test for the issuance of a licence, pilotage certificate or Class D apprentice pilot permit</td>
-<td>497</td>
+<td>522</td>
 </tr>
 <tr>
 <td>5</td>
 <td>For each oral test for the issuance of a licence or pilotage certificate</td>
-<td>497</td>
+<td>522</td>
 </tr>
 <tr>
 <td>6</td>
 <td>For issuing a licence or pilotage certificate to an applicant who has passed the examination to obtain the licence or pilotage certificate</td>
-<td>497</td>
+<td>522</td>
 </tr>
 <tr>
 <td>7</td>
 <td>For issuing a pilotage certificate of a different class from that held by the holder</td>
-<td>373</td>
+<td>392</td>
 </tr>
 <tr>
 <td>8</td>
 <td>For issuing a Class B licence</td>
-<td>373</td>
+<td>392</td>
 </tr>
 <tr>
 <td>9</td>
 <td>For issuing a Class A licence</td>
-<td>373</td>
+<td>392</td>
 </tr>
 <tr>
 <td>10</td>
 <td>For issuing a licence, pilotage certificate or Class D apprentice pilot permit to replace one that has been lost</td>
-<td>125</td>
+<td>132</td>
 </tr>
 </table>
 
-> SOR/92-680, s. 8; SOR/2002-346, s. 19; SOR/2009-168, ss. 2, 3.
+> SOR/92-680, s. 8; SOR/2002-346, s. 19; SOR/2009-168, ss. 2 to 4.
 
 
