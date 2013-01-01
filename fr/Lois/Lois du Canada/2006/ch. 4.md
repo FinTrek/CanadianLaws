@@ -983,70 +983,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 9** 
-## Assurance hypothécaire
+## [Abrogée, 2011, ch. 15, art. 21]
+
+
+**192** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
-**Définitions**
-
-**192** Les définitions qui suivent s’appliquent aux articles 193 et 194.
-
-***assureur hypothécaire*** Personne morale visée au paragraphe 13(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) que le surintendant des institutions financières a autorisée à vendre de l’assurance hypothécaire au Canada.
-
-***créancier hypothécaire*** Celui qui est titulaire d’une police d’assurance hypothécaire émise par un assureur hypothécaire.
+**193** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
-
-**Accord**
-
-**193** 
-
-- **(1)** Le ministre des Finances peut, relativement à la police d’assurance hypothécaire d’un créancier hypothécaire, conclure un accord avec quiconque, notamment un assureur hypothécaire ou le créancier hypothécaire, afin :
-	- **a)** d’offrir une indemnisation au créancier hypothécaire;
-	- **b)** de lui offrir un cautionnement;
-	- **c)** d’aquérir une police d’assurance de remplacement pour son bénéfice.
-
-**Paiement**
-
-- **(2)** L’accord doit, en cas d’insolvabilité ou de liquidation de l’assureur hypothécaire qui a émis la police d’assurance au créancier hypothécaire, prévoir qu’une somme doit être payée à ce dernier ou, dans le cas d’une police d’assurance de remplacement, à tout autre assureur hypothécaire.
-
-**Montant du paiement**
-
-- **(3)** Sous réserve des règlements pris en vertu de l’alinéa 194(1)a), le montant du paiement équivaut au total des prestations à payer en vertu de la police d’assurance émise par le créancier hypothécaire, duquel est soustrait le montant représentant dix pour cent du montant initial du principal de l’hypothèque qui fait l’objet de la police d’assurance.
-
-**Montant total des accords**
-
-- **(4)** Le montant total du solde impayé du principal de toutes les hypothèques visées par une police d’assurance faisant l’objet d’un accord ne doit en aucun temps dépasser 250 000 000 000 $, ou tel autre montant établi pour l’application du présent paragraphe par une loi de crédits.
-
-**Présomption**
-
-- **(5)** Un accord ayant le même objet que celui visé au paragraphe (1) et ayant été conclu par le ministre des Finances avant l’entrée en vigueur de ce paragraphe est réputé être un accord visé au présent article.
-> 2006, ch. 4, art. 193; 2008, ch. 28, art. 148.
+**194** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
-
-
-**Règlements**
-
-**194** 
-
-- **(1)** Le gouverneur en conseil peut prendre des règlements concernant :
-	- **a)** le pourcentage du montant initial du principal de l’hypothèque qui est soustrait au titre du paragraphe 193(3), notamment les hypothèques auxquelles ce pourcentage s’applique;
-	- **b)** les renseignements et documents, électroniques ou autres, qui doivent être tenus par la personne qui est partie à un accord visé à l’article 193;
-	- **c)** la communication par la personne qui est partie à un accord visé à l’article 193, au ministre des Finances ou à toute autre personne qu’il désigne, de renseignements et documents, électroniques ou autres.
-
-**Non-rétroactivité**
-
-- **(2)** Le règlement pris en vertu de l’alinéa (1)a) ne s’applique pas à l’égard de l’hypothèque assurée, avant l’entrée en vigueur du règlement, par une police d’assurance faisant l’objet d’un accord visé à l’article 193.
-
-
-
-
-**Paiement sur le Trésor**
-
-**195** À la demande du ministre des Finances, peuvent être prélevées sur le Trésor les sommes à verser aux termes d’un accord visé à l’article 193.
+**195** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
@@ -1054,11 +1006,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**197** [Modification]
+**197** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
-**198** [Modification]
+**198** [Abrogé, 2011, ch. 15, art. 21]
 
 
 
