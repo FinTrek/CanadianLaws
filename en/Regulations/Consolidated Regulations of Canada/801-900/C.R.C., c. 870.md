@@ -27778,6 +27778,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 		- **(i)** a pharmacist,
 		- **(ii)** a practitioner, and
 		- **(iii)** a person who compounds a drug under the supervision of a practitioner;
+	- **(b.1)** any activity with respect to a positron-emitting radiopharmaceutical that is used only for the purposes of a basic clinical research study described in section C.03.304;
 	- **(c)** any activity with respect to a drug that is used only for the purposes of clinical testing in accordance with subsection C.05.006(1) or section C.08.005, 
 	- **(d)** fabricating, packaging/labelling, testing as required under Division 2, distributing as a distributer referred to in section C.01A.003, wholesaling or importing any of the following drugs for which prescriptions are not required and that are for human use in dosage form and not represented as a treatment, preventative or cure for any of the diseases, disorders or abnormal physical states set out in Schedule A to the Act, namely,
 		- **(i)** homeopathic drugs,
@@ -27788,7 +27789,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(e)** fabricating, packaging/labelling, testing, distributing, and importing of antimicrobial agents.
 
 - **(2)** This Division and Divisions 2 to 4 do not apply to the affixing of a label to a previously labelled container.
-> SOR/97-12, s. 5; SOR/98-7, s. 2; SOR/2001/-203, s. 1; SOR/2004-282, s. 2.
+> SOR/97-12, s. 5; SOR/98-7, s. 2; SOR/2001/-203, s. 1; SOR/2004-282, s. 2; SOR/2012-129, s. 1.
 
 
 
@@ -28756,8 +28757,8 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 		- **(ii)** the standard that the drug professes to meet, if that standard is referred to in any publication mentioned in Schedule B to the Act,
 		- **(iii)** a statement of the pharmaceutical form or the route of administration of the drug,
 		- **(iv)** a statement of the recommended use and the recommended radioactivity to be administered for that use, or a reference to an accompanying package insert that shows such information,
-		- **(v)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “Numéro de licence d’établissement” or an abbreviation thereof,
-		- **(vi)** the radiation warning symbol required by the Atomic Energy Control Regulations and the statement “Caution — Radioactive Material” “Attention — Produit radioactif”,
+		- **(v)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof,
+		- **(vi)** the radiation warning symbol set out in Schedule 3 to the [Radiation Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/203.md) and the words “*RAYONNEMENT* — DANGER — RADIATION”,
 		- **(vii)** the names and a statement of the amounts of any preservatives or stabilizing agents contained in the drug,
 		- **(viii)** the names and a statement of the amounts of all other non-radioactive contents of the drug,
 		- **(ix)** a statement of the total radioactivity content of the drug including overfill,
@@ -28765,7 +28766,7 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 		- **(xi)** a statement of the concentration of radioactive material in the drug expressed as
 			- **(A)** units of radioactivity per capsule or
 			- **(B)** units of radioactivity per unit volume,except where the contents of the drug are entirely in gaseous or lyophilized form,
-		- **(xii)** a statement of the specific activity of the drug expressed as units of radioactivity per unit weight of carrier present or the statement “carrier-free” or “sans entraîneur”, whichever is applicable,
+		- **(xii)** a statement of the specific activity of the drug expressed as units of radioactivity per unit weight of carrier present or the statement “carrier-free” or “*sans entraîneur*”, whichever is applicable,
 		- **(xiii)** a statement of the reference time in respect of the radioactivity values mentioned in subparagraphs (ix), (xi) and (xii), the name of the month being written or designated by letter abbreviation,
 		- **(xiv)** a statement of the recommended useful life or the date after which the drug is not recommended for use, the name of the month being written or designated by letter abbreviation, and
 		- **(xv)** a statement of the special storage requirements with reference to temperature and light.
@@ -28775,7 +28776,7 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 - **(3)** Subparagraph (1)(b)(viii) of this section does not apply where the information referred to in that subparagraph is shown on a package insert that accompanies the drug.
 
 - **(4)** Section C.01.005 does not apply to a radiopharmaceutical.
-> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2.
+> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2; SOR/2012-129, s. 2.
 
 
 
@@ -28787,8 +28788,8 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 	- **(b)** the name and address of the distributor referred to in paragraph C.01A.003(b);
 	- **(c)** the lot number;
 	- **(d)** the standard that the radionuclide generator professes to meet, if that standard is referred to in any publication mentioned in Schedule B to the Act;
-	- **(e)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “Numéro de licence d’établissement” or an abbreviation thereof;
-	- **(f)** the radiation warning symbol required by the Atomic Energy Control Regulations and the statement “Caution — Radioactive Material” “Attention — Produit radioactif”;
+	- **(e)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof;
+	- **(f)** the radiation warning symbol set out in Schedule 3 to the [Radiation Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/203.md) and the words “*RAYONNEMENT* — DANGER — RADIATION”;
 	- **(g)** a statement of the total parent radioactivity contained in the radionuclide generator;
 	- **(h)** a statement of the hour and date at which the radioactivity value mentioned in paragraph (g) is valid, the name of the month being written or designated by letter abbreviation;
 	- **(i)** a statement of the recommended useful life or the date after which the radionuclide generator is not recommended for use, the name of the month being written or designated by letter abbreviation;
@@ -28798,17 +28799,17 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 	- **(m)** a statement cautioning against the dismantling of the radionuclide generator.
 
 - **(2)** Paragraphs (1)(i) and (j) of this section do not apply where the information referred to in those subparagraphs is shown on a package insert that accompanies the radionuclide generator.
-> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62.
+> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62; SOR/2012-129, s. 3.
 
 
 
 
 **C.03.204** 
 
-- **(1)** No person shall sell a drug containing technetium-99m at any time during the useful life of the drug if the drug also contains a radionuclidic impurity mentioned in the monograph for Sodium Pertechnetate Tc-99m Injection referred to in the publication mentioned in item 7 of Schedule B to the Act, in an amount greater than that shown in the monograph.
+- **(1)** No person shall sell a drug that contains technetium-99m at any time during its useful life if it also contains a radionuclidic impurity set out in the monograph for Sodium Pertechnetate Tc-99m Injection referred to in the publication set out in item 8 of Schedule B to the Act, in an amount greater than that shown in the monograph.
 
-- **(2)** No person shall sell a radionuclide generator from which can be removed a drug that contains technetium-99m, at any time during the useful life of the drug, if the drug also contains a radionuclidic impurity mentioned in the monograph for Sodium Pertechnetate Tc-99m Injection referred to in the publication mentioned in item 7 of Schedule B to the Act, in an amount greater than that shown in the monograph.
-> SOR/97-12, s. 30.
+- **(2)** No person shall sell a radionuclide generator from which can be removed a drug that contains technetium-99m, at any time during the useful life of the drug, if the drug also contains a radionuclidic impurity set out in the monograph for Sodium Pertechnetate Tc-99m Injection referred to in the publication set out in item 8 of Schedule B to the Act, in an amount greater than that shown in the monograph.
+> SOR/97-12, s. 30; SOR/2012-129, s. 4.
 
 
 
@@ -28889,6 +28890,392 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 - **(n)** a statement of the route of administration of the prepared radiopharmaceutical; and
 - **(o)** a recommendation that the radiochemical purity and radioactivity content of the prepared radiopharmaceutical be checked prior to administration.
 > SOR/79-236, s. 4; SOR/93-202, s. 19; SOR/97-12, s. 58.
+
+
+
+
+
+#### Positron-emitting Radiopharmaceuticals
+
+
+
+##### Interpretation
+
+
+**C.03.301** The following definitions apply in this section and in sections C.03.302 to C.03.319.
+
+***adverse reaction*** means an undesirable and unintended response in a study subject or other person to a study drug that is caused by the administration of any dose of the study drug. (*réaction indésirable*)
+
+***good clinical practices*** means generally accepted clinical practices that are designed to protect the rights, safety and well-being of study subjects and other persons. (*bonnes pratiques cliniques*)
+
+***import*** means, in respect of a study drug, to import it into Canada for sale for the purpose of a study. (*importer*)
+
+***other person*** means an individual who comes into physical contact with a study subject. (*autre personne*)
+
+***protocol*** means a document that describes the objectives, design, methodology, statistical considerations and organization of a study. (*protocole*)
+
+***qualified investigator*** means the physician and member in good standing of a professional medical association in Canada to whom a sponsor gives the responsibility for the proper conduct of the study at a given study site, who is entitled to practise their profession under the laws of the province where the study site is located. (*chercheur qualifié*)
+
+***research ethics board*** means a body described in section C.03.306. (*comité d’éthique de la recherche*)
+
+***serious adverse reaction*** means an adverse reaction that results in any of the following consequences for the study subject or other person:
+- **(a)** their in-patient hospitalization or its prolongation;
+- **(b)** a congenital malformation;
+- **(c)** persistent or significant disability or incapacity;
+- **(d)** a life-threatening condition; or
+- **(e)** death. (*réaction indésirable grave*)
+
+***serious unexpected adverse reaction*** means a serious adverse reaction that is not identified in nature, severity or frequency in the risk information set out on the label of the study drug. (*réaction indésirable grave et imprévue*)
+
+***sponsor*** means a person who is responsible for the conduct of a study. (*promoteur*)
+
+***study*** means a basic clinical research study that involves human subjects and that is described in sections C.03.304 and C.03.305. (*étude*)
+
+***study drug*** means a positron-emitting radiopharmaceutical that is used in a study. (*drogue destinée à l’étude*)
+
+***study site*** means the location where all or part of a study is conducted. (*lieu d’étude*)
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Application
+
+
+**C.03.302** 
+
+- **(1)** Sections C.03.303 to C.03.319 apply to the sale and importation of study drugs.
+
+- **(2)** Sections C.03.001 to C.03.209 and Divisions 5 and 8 do not apply to study drugs.
+
+- **(3)** Sections C.03.303 to C.03.319 do not apply to a study drug manufactured from a bulk process intermediate that is of biological origin.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Prohibition
+
+
+**C.03.303** No person shall sell or import a study drug unless all of the following requirements are met:
+- **(a)** the study drug is for use only in a study;
+- **(b)** the study drug has been previously tested in human subjects and its safety in humans has been demonstrated;
+- **(c)** if the study drug is to be imported, the manufacturer of the drug has a representative in Canada who is responsible for its sale;
+- **(d)** the sponsor is authorized under section C.03.309 to sell or import the study drug; and
+- **(e)** the sponsor complies with sections C.03.310 to C.03.316.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Purpose of Study
+
+
+**C.03.304** 
+
+- **(1)** The purpose of a study is to obtain data on any of the following:
+	- **(a)** the pharmacokinetics or metabolism of the study drug;
+	- **(b)** normal human biochemistry or physiology; or
+	- **(c)** changes caused to human biochemistry or physiology by aging, disease or medical interventions.
+
+- **(2)** A study is not primarily intended to do any of the following:
+	- **(a)** discover, identify or verify the pharmacodynamic effects of the study drug;
+	- **(b)** identify adverse reactions;
+	- **(c)** fulfil an immediate therapeutic or diagnostic purpose; or
+	- **(d)** ascertain the safety or efficacy of the study drug.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Requirements
+
+
+**C.03.305** 
+
+- **(1)** A study shall meet all of the following requirements:
+	- **(a)** before the study drug is used in the study, there is sufficient data from testing it in animals and humans to demonstrate its safety in humans;
+	- **(b)** the amount of active ingredients or combination of active ingredients in the study drug has been shown not to cause any clinically detectable pharmacodynamic effect in humans;
+	- **(c)** the total radiation dose incurred annually by a study subject, including from multiple administrations of the study drug, from significant contaminants or from impurities and from the use of other procedures for the purposes of the study, will be not more than 50 mSv;
+	- **(d)** any concomitant drug used in the study has been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a concomitant drug that is a new drug, has been issued a notice of compliance under section C.08.004;
+	- **(e)** study subjects shall be at least 18 years old and have legal capacity at the time of the study;
+	- **(f)** female study subjects shall
+		- **(i)** be confirmed at the outset of the study, on the basis of a pregnancy test, as not being pregnant or state in writing that they are not pregnant, and
+		- **(ii)** be advised that if they are lactating, they are to suspend lactation for 24 hours after the administration of the study drug; and
+	- **(g)** the study shall not involve more than 30 study subjects.
+
+- **(2)** Despite paragraph (1)(g), a study may involve more than 30 study subjects if the sponsor provides the Minister with a scientific rationale for the increase and the Minister approves it.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Research Ethics Board
+
+
+**C.03.306** A research ethics board has all of the following characteristics:
+- **(a)** its principal mandate is to approve the initiation of and to periodically review biomedical research that involves human subjects in order to protect their rights, safety and well-being;
+- **(b)** it has at least five members, a majority of whom are Canadian citizens or permanent residents under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), is composed of both men and women and includes at least the following:
+	- **(i)** two members whose primary experience and expertise are in a scientific discipline, who have broad experience in the methods and areas of research to be approved and one of whom is from a medical discipline,
+	- **(ii)** one member knowledgeable in ethics,
+	- **(iii)** one member knowledgeable in Canadian laws relevant to the research to be approved,
+	- **(iv)** one member whose primary experience and expertise are in a non-scientific discipline, and
+	- **(v)** one member who is from the community or is a representative of an organization interested in the areas of research to be approved and who is not affiliated with the sponsor or with the study site; and
+- **(c)** it has no affiliations with the sponsor that could compromise its ability to fulfil its principal mandate, or that could be perceived to do so.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Application for Authorization
+
+
+**C.03.307** 
+
+- **(1)** The sponsor shall submit to the Minister an application for authorization to sell or import a study drug that contains the information set out in subsection (2) as well as sufficient information to demonstrate that all of the following criteria are met:
+	- **(a)** the use of the study drug will not endanger the health of any study subject or other person;
+	- **(b)** the study is not contrary to the best interests of the study subjects; and
+	- **(c)** the objectives of the study can reasonably be achieved.
+
+- **(2)** The application shall contain all of the following information:
+	- **(a)** the title of the study and the protocol code or identification;
+	- **(b)** the purposes and a concise description of the study;
+	- **(c)** the number of study subjects;
+	- **(d)** the brand name, if any, of the study drug;
+	- **(e)** the chemical or generic name of the active ingredients in the study drug;
+	- **(f)** a qualitative list of the non-active ingredients of the study drug;
+	- **(g)** the maximum mass of the study drug to be administered to each study subject;
+	- **(h)** the radioactive dose range of the study drug, expressed in MBq or mCi;
+	- **(i)** the effective dose or effective dose equivalent of the study drug, expressed in mSv/MBq or rem/mCi;
+	- **(j)** the sponsor’s name and civic address, its postal address if different, and its telephone number, fax number and email address;
+	- **(k)** the manufacturer’s name and civic address, its postal address if different, and its telephone number, fax number and email address;
+	- **(l)** in the case of an application for importation, the name and civic address, the postal address if different, and the telephone number, fax number and email address of the manufacturer’s representative in Canada who is responsible for the sale of the study drug;
+	- **(m)** the name and civic address of each study site;
+	- **(n)** for each study site, the name, civic address, telephone number, fax number and email address of the qualified investigator;
+	- **(o)** the proposed starting date for the study at each study site, if known;
+	- **(p)** for each study site, the name, civic address, telephone number, fax number and email address of the research ethics board;
+	- **(q)** a statement, dated and signed by the research ethics board for each study site, that certifies that it has reviewed and approved the study, the protocol and the statement of the risks and anticipated benefits arising to the health of study subjects as a result of participating in the study that is set out in the informed consent form;
+	- **(r)** a list of any previous applications for an authorization to sell or import a drug for a study related to the current study; and
+	- **(s)** a statement, dated and signed by the sponsor’s senior medical or scientific officer in Canada and senior executive officer, that certifies both of the following:
+		- **(i)** the study will be conducted in accordance with these Regulations, and
+		- **(ii)** all of the information contained or referred to in the application is complete and accurate and is not false or misleading.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Additional Information
+
+
+**C.03.308** If the information submitted under section C.03.307 is insufficient to enable the Minister to determine whether the sale or importation of the study drug should be authorized, the Minister may, by notice in writing, request the sponsor to provide any additional information that is necessary to make the determination and that is relevant to the study drug, the study or the protocol, by the date specified in the notice.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Authorization
+
+
+**C.03.309** After examining the application and any additional information, the Minister shall authorize the sponsor to sell or import the study drug if she or he determines that the application complies with the requirements of section C.03.307, and shall send a notice of that decision to the sponsor that specifies the study sites in respect of which the sale or importation are authorized.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Notice
+
+
+**C.03.310** The sponsor shall notify the Minister in writing of the day on which the sale or importation of the study drug is intended to start in respect of each study site, not later than 15 days before that day.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Good Clinical Practices
+
+
+**C.03.311** A sponsor shall ensure that each study is conducted in accordance with good clinical practices and that
+- **(a)** the study is scientifically sound and clearly described in its protocol;
+- **(b)** the study is conducted, and the study drug is used, in accordance with the protocol and with these Regulations;
+- **(c)** systems and procedures are implemented that assure the quality of every aspect of the study;
+- **(d)** at each study site, there is only one qualified investigator;
+- **(e)** at each study site, medical care and medical decisions, in respect of the study, are under the supervision of the qualified investigator;
+- **(f)** each individual who is involved in the conduct of the study is qualified by their education, training and experience to perform their respective tasks;
+- **(g)** before a study subject participates in the study, a copy of their signed consent form is included in the records for the study;
+- **(h)** the requirements respecting information and records set out in section C.03.315 are met; and
+- **(i)** the study drug is manufactured, handled and stored in accordance with Division 2, other than sections C.02.019, C.02.025 and C.02.026.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Labelling
+
+
+**C.03.312** Despite any other provision of these Regulations respecting labelling, the sponsor shall ensure that the study drug
+- **(a)** bears an inner label that sets out both of the following:
+	- **(i)** the unique batch number for the study drug, and
+	- **(ii)** the radiation warning symbol set out in Schedule 3 to the [Radiation Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/203.md) and the words “*RAYONNEMENT* — DANGER — RADIATION”; and
+- **(b)** is accompanied by a package insert that sets out all of the following information:
+	- **(i)** a statement that indicates that the study drug is to be used only under the supervision of a qualified investigator,
+	- **(ii)** the chemical or generic name of the active ingredients in the study drug,
+	- **(iii)** the name and civic address of the manufacturer,
+	- **(iv)** the name and civic address of the sponsor,
+	- **(v)** the code or other identification of the protocol,
+	- **(vi)** the warnings and precautions in respect of the use of the study drug, and
+	- **(vii)** a list of the possible adverse reactions that are associated with the use of the study drug.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Submission of Information
+
+
+**C.03.313** 
+
+- **(1)** On the Minister’s written request, a sponsor shall submit, within the period specified in the request, information to establish the safety of the study drug if the Minister has reason to believe any of the following:
+	- **(a)** the use of the study drug may endanger the health of a study subject or other person;
+	- **(b)** the study may be contrary to the best interests of the study subjects;
+	- **(c)** a qualified investigator is not respecting their undertaking made under paragraph C.03.315(3)(f); or
+	- **(d)** information submitted in respect of the study drug or study is false or misleading.
+
+- **(2)** The Minister may, by notice in writing, require the sponsor to provide the Minister with any information or records referred to in subsection C.03.315(3) to assess the safety of the study drug or the health of the study subjects or other persons, by the date specified in the notice.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Adverse Reaction Reporting
+
+
+**C.03.314** 
+
+- **(1)** During the course of a study, the sponsor shall notify the Minister of any serious adverse reaction or serious unexpected adverse reaction that occurs inside or outside Canada, within the following period:
+	- **(a)** if the adverse reaction is fatal or life-threatening, within seven days after becoming aware of it; or
+	- **(b)** if the adverse reaction is not fatal or life-threatening, within 15 days after becoming aware of it.
+
+- **(2)** The sponsor shall, within eight days after having notified the Minister under subsection (1), file with the Minister a complete report in respect of the adverse reaction, including an assessment of the importance and implication of the findings.
+
+- **(3)** Sections C.01.016 to C.01.020 do not apply to study drugs.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Records
+
+
+**C.03.315** 
+
+- **(1)** The sponsor shall record, handle and store all information in respect of a study in a way that allows it to be reported completely and accurately and to be interpreted and verified.
+
+- **(2)** The sponsor shall maintain complete and accurate records to establish that the study is conducted in accordance with these Regulations.
+
+- **(3)** The sponsor shall maintain all of the following records in respect of the use of the study drug in each study:
+	- **(a)** records respecting all adverse reactions that occur inside or outside Canada, including the indications for use and the dosage form of the study drug at the time of the adverse reaction;
+	- **(b)** written procedures for subject monitoring and for the documentation and reporting of adverse reactions;
+	- **(c)** articles from scientific journals or other publications that were used in support of the safety profile of the study drug in respect of humans;
+	- **(d)** records in respect of each study subject, including respecting their enrolment, a copy of their signed consent form and sufficient information to enable them to be identified and contacted in the event that the sale of the study drug may endanger their health or that of another person;
+	- **(e)** records respecting the shipment, receipt, sale, return and destruction or other disposition of the study drug;
+	- **(f)** for each study site, an undertaking, dated and signed by the qualified investigator before the start of the study, that they will
+		- **(i)** conduct the study in accordance with good clinical practices, and
+		- **(ii)** on discontinuance of the study by the sponsor, for any reason related to health or safety, immediately inform both the study subjects and the research ethics board of the discontinuance, provide them with the reasons for the discontinuance and advise them in writing of any potential risks to the health of study subjects or other persons;
+	- **(g)** for each study site, a copy of the informed consent form; and
+	- **(h)** for each study site, a copy of the certifying statement described in paragraph C.03.307(2)(q), of the protocol for the study and of the statement of the risks and anticipated benefits arising to the health of study subjects as a result of participating in the study that is set out in the informed consent form.
+
+- **(4)** The sponsor shall maintain all records for five years after the day on which the study ends.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Discontinuance of a Study
+
+
+**C.03.316** 
+
+- **(1)** If a sponsor discontinues a study in its entirety or at a study site, the sponsor shall notify all qualified investigators of the discontinuance as soon as possible in writing, and include in the notice the reasons for the discontinuance and whether the study presented any risks to the health of study subjects or other persons.
+
+- **(2)** If the discontinuance is for reasons that would affect the health or safety of study subjects or other persons, the sponsor shall notify the Minister in writing within 15 days after the discontinuance, and include in the notice the reasons for the discontinuance and whether it will have an impact on any proposed or ongoing studies in respect of the study drug in Canada by the sponsor.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Suspension
+
+
+**C.03.317** 
+
+- **(1)** The Minister shall suspend an authorization to sell or import a study drug, in its entirety or in respect of a study site, in any of the following circumstances:
+	- **(a)** information provided by the sponsor under section C.03.307, C.03.308 or C.03.313 proves to be inaccurate or incomplete;
+	- **(b)** the sponsor fails to provide the Minister with sufficient information to establish the safety of the study drug pursuant to a written request under section C.03.313, by the date specified in the request;
+	- **(c)** the sponsor fails to notify the Minister of an adverse reaction or file a report in respect of an adverse reaction in accordance with section C.03.314; or
+	- **(d)** the sponsor contravenes a provision of these Regulations or any provision of the Act in relation to the study drug.
+
+- **(2)** In determining whether to suspend an authorization in its entirety or in respect of a study site, the Minister shall consider whether the reason for the suspension affects the study in its entirety or affects only a certain study site.
+
+- **(3)** Before suspending an authorization, the Minister shall send the sponsor a notice that
+	- **(a)** specifies whether the suspension is of the study authorization in its entirety or in respect of a study site and sets out the reasons for the proposed suspension and the effective date;
+	- **(b)** if applicable, specifies the corrective action that the sponsor must take and the period within which it must be taken; and
+	- **(c)** gives the sponsor a reasonable opportunity to be heard in writing concerning the proposed suspension.
+
+- **(4)** Despite subsection (3), the Minister shall immediately suspend an authorization if she or he has reason to believe that it is necessary to do so to prevent injury to the health of a study subject or any other person.
+
+- **(5)** When the Minister suspends an authorization under subsection (4), the Minister must send the sponsor a notice that
+	- **(a)** sets out the reasons for the suspension;
+	- **(b)** if applicable, specifies the corrective action that the sponsor must take and the period within which it must be taken; and
+	- **(c)** gives the sponsor a reasonable opportunity to be heard in writing concerning the suspension.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Reinstatement
+
+
+**C.03.318** 
+
+- **(1)** Subject to subsection (2), the Minister shall reinstate the authorization if the sponsor provides the Minister with sufficient evidence to establish that the study does not present a risk of injury to the health of study subjects or other persons, within the following periods:
+	- **(a)** in the case of a suspension under subsection C.03.317(1), 30 days after the day on which the suspension is effective; or
+	- **(b)** in the case of a suspension under subsection C.03.317(4), the period specified in the notice sent under subsection C.03.317(5).
+
+- **(2)** If the Minister does not reinstate any part of an authorization that was suspended, the Minister shall amend the authorization to remove that part.
+> SOR/2012-129, s. 5.
+
+
+
+
+
+##### Cancellation
+
+
+**C.03.319** 
+
+- **(1)** The Minister shall cancel an authorization, in its entirety or in respect of a study site, in either of the following circumstances:
+	- **(a)** the study is discontinued in its entirety or at that study site by the sponsor under section C.03.316; or
+	- **(b)** the sponsor fails to provide the Minister with the evidence required by subsection C.03.318(1) within the specified period.
+
+- **(2)** When the Minister cancels all or part of an authorization, she or he shall send the sponsor a notice that sets out the reasons for the cancellation and the effective date.
+> SOR/2012-129, s. 5.
 
 
 
