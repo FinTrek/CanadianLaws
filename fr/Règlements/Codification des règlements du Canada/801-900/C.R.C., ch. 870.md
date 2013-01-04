@@ -27738,6 +27738,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 		- **(i)** le pharmacien,
 		- **(ii)** le praticien,
 		- **(iii)** la personne qui prépare une drogue sous la supervision d’un praticien;
+	- **b.1)** toute activité à l’égard d’un produit pharmaceutique radioactif émetteur de positrons destiné exclusivement à l’étude de recherche clinique fondamentale visée à l’article C.03.304;
 	- **c)** toute activité à l’égard d’une drogue destinée exclusivement aux essais cliniques visée au paragraphe C.05.006(1) ou à l’article C.08.005;
 	- **d)** les activités visant à manufacturer, emballer-étiqueter, analyser conformément au titre 2, distribuer à titre de distributeur visé à l’article C.01A.003, vendre en gros ou importer l’une ou l’autre des drogues suivantes vendues sans ordonnance et qui sont sous forme posologique et pour usage humain mais qui ne sont pas présentées comme traitement ou mesure préventive d’une maladie, d’un désordre ou d’un état physique anormal visés à l’annexe A de la Loi ou comme moyen de guérison :
 		- **(i)** les drogues homéopathiques,
@@ -27748,7 +27749,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 	- **e)** les activités visant à manufacturer, emballer-étiqueter, analyser, distribuer ou importer un agent antimicrobien.
 
 - **(2)** Le présent titre et les titres 2 à 4 ne s’appliquent pas dans le cas de l’activité visant à apposer une étiquette sur un récipient déjà étiqueté.
-> DORS/97-12, art. 5; DORS/98-7, art. 2; DORS/2001-203, art. 1; DORS/2004-282, art. 2.
+> DORS/97-12, art. 5; DORS/98-7, art. 2; DORS/2001-203, art. 1; DORS/2004-282, art. 2; DORS/2012-129, art. 1.
 
 
 
@@ -28718,8 +28719,8 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 		- **(ii)** la norme à laquelle est censée répondre la drogue, s’il est fait mention de cette norme dans une publication mentionnée à l’annexe B de la Loi,
 		- **(iii)** la mention de la forme pharmaceutique ou de la voie d’administration de la drogue,
 		- **(iv)** la mention de l’emploi recommandé et de la radioactivité qu’il est recommandé d’administrer pour ledit emploi, ou une indication renvoyant au prospectus d’emballage où figurent les mêmes renseignements,
-		- **(v)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « Establishment Licence Number » ou d’une abréviation de cette mention,
-		- **(vi)** le symbole de mise en garde contre les rayonnements prescrit par le Règlement sur le contrôle de l’énergie atomique et la mention « Attention — Produit radioactif » « Caution — Radioactive Material »,
+		- **(v)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention,
+		- **(vi)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »,
 		- **(vii)** les noms et les quantités de tout agent de conservation ou agent stabilisant que contient la drogue,
 		- **(viii)** les noms et les quantités de tous les autres ingrédients non radioactifs de la drogue,
 		- **(ix)** une déclaration de la teneur totale de la drogue en radioactivité, y compris celle de l’excédent de remplissage,
@@ -28727,7 +28728,7 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 		- **(xi)** une déclaration de la concentration de substance radioactive qui contient la drogue exprimée
 			- **(A)** en unités de radioactivité par capsule, ou
 			- **(B)** en unités de radioactivité par volume d’unité,sauf si le contenu est entièrement sous forme gazeuse ou sous forme lyophilisée,
-		- **(xii)** une déclaration de l’activité spécifique de la drogue, exprimée en unités de radioactivité par poids d’unité d’entraîneur présent ou, selon le cas, la mention « sans entraîneur » ou « carrier-free »,
+		- **(xii)** une déclaration de l’activité spécifique de la drogue, exprimée en unités de radioactivité par poids d’unité d’entraîneur présent ou, selon le cas, la mention « sans entraîneur » ou « *carrier-free* »,
 		- **(xiii)** la mention de la période de référence à laquelle les valeurs de la radioactivité précisées aux sous-alinéas (ix), (xi) et (xii) du présent article peuvent s’appliquer (le nom du mois doit être écrit en toutes lettres ou abrégé en lettres),
 		- **(xiv)** la mention de la vie utile recommandée ou la date après laquelle l’emploi de la drogue est déconseillé (le mois étant inscrit ou indiqué en abrégé), et
 		- **(xv)** la mention des conditions de conservation particulières à respecter, avec indication de la température et de la lumière.
@@ -28737,7 +28738,7 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 - **(3)** Le sous-alinéa (1)b)(viii) du présent article, ne s’applique pas lorsque les renseignements mentionnés dans ledit sous-alinéa figurent sur le prospectus d’emballage de la drogue.
 
 - **(4)** L’article C.01.005 ne s’applique pas aux produits pharmaceutiques radioactifs.
-> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2.
+> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2; DORS/2012-129, art. 2.
 
 
 
@@ -28749,8 +28750,8 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 	- **b)** le nom et l’adresse du distributeur visé à l’alinéa C.01A.003b);
 	- **c)** le numéro du lot;
 	- **d)** la norme à laquelle le générateur de radionucléide semble se conformer si cette norme est mentionnée dans une publication visée à l’annexe B de la Loi;
-	- **e)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « Establishment Licence Number » ou d’une abréviation de cette mention;
-	- **f)** le symbole de mise en garde contre les rayonnements exigé par le Règlement sur le contrôle de l’énergie atomique et la mention « Attention — Produit radioactif » « Caution — Radioactive Material »;
+	- **e)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention;
+	- **f)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »;
 	- **g)** la mention de la totalité de la radioactivité mère contenue dans le générateur de radionucléide;
 	- **h)** la mention de l’heure et la date de validité de la radioactivité visée à l’alinéa g) (le mois étant inscrit ou indiqué en abrégé);
 	- **i)** la mention de la vie utile recommandée ou de la date après laquelle l’utilisation du générateur de radionucléide est déconseillée (le mois étant inscrit ou indiqué en abrégé);
@@ -28760,17 +28761,17 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 	- **m)** une mise en garde contre le démontage du générateur de radionucléide.
 
 - **(2)** Les alinéas (1)i) et j) du présent article ne s’appliquent pas lorsque les renseignements qu’ils exigent apparaissent sur un document qui accompagne un générateur de radionucléide.
-> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62.
+> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62; DORS/2012-129, art. 3.
 
 
 
 
 **C.03.204** 
 
-- **(1)** Il est interdit de vendre une drogue contenant, à un moment de sa vie utile, du technétium-99m si elle contient aussi une impureté radionucléique figurant dans la monographie sur l’injection de Sodium pertechnétate Tc-99m mentionnée dans la publication visée à l’article 7 de l’annexe B de la Loi, en une quantité plus grande que celle figurant dans cette monographie.
+- **(1)** Il est interdit de vendre une drogue contenant, à un moment de sa vie utile, du technétium-99m si elle contient aussi une impureté radionucléique figurant dans la monographie sur l’injection de Sodium pertechnétate Tc-99m mentionnée dans la publication visée à l’article 8 de l’annexe B de la Loi, en une quantité plus grande que celle figurant dans cette monographie.
 
-- **(2)** Il est interdit de vendre un générateur de radionucléides dont il est possible d’extraire une drogue contenant, à un moment de sa vie utile, du technétium-99m, si cette drogue contient aussi une impureté radionucléique figurant dans la monographie sur l’injection de Sodium pertechnétate Tc-99m mentionnée dans la publication visée à l’article 7 de l’annexe B de la Loi, en une quantité plus grande que celle figurant dans cette monographie.
-> DORS/97-12, art. 30.
+- **(2)** Il est interdit de vendre un générateur de radionucléides dont il est possible d’extraire une drogue contenant, à un moment de sa vie utile, du technétium-99m, si cette drogue contient aussi une impureté radionucléique figurant dans la monographie sur l’injection de Sodium pertechnétate Tc-99m mentionnée dans la publication visée à l’article 8 de l’annexe B de la Loi, en une quantité plus grande que celle figurant dans cette monographie.
+> DORS/97-12, art. 30; DORS/2012-129, art. 4.
 
 
 
@@ -28851,6 +28852,392 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 - **n)** une déclaration de la voie d’administration prévue pour le produit pharmaceutique radioactif préparé; et
 - **o)** une recommandation selon laquelle la pureté radiochimique et la teneur radioactive du produit pharmaceutique radioactif préparé doivent être vérifiées avant l’administration.
 > DORS/79-236, art. 4; DORS/93-202, art. 19; DORS/97-12, art. 58.
+
+
+
+
+
+#### Produits pharmaceutiques radioactifs émetteurs de positrons
+
+
+
+##### Définitions
+
+
+**C.03.301** Les définitions qui suivent s’appliquent au présent article et aux articles C.03.302 à C.03.319.
+
+***autre personne*** Tout individu qui entre en contact physique avec un sujet de l’étude. (*other person*)
+
+***bonnes pratiques cliniques*** Pratiques cliniques généralement reconnues visant à protéger les droits, la sécurité et le bien-être des sujets de l’étude et de toute autre personne. (*good clinical practices*)
+
+***chercheur qualifié*** Médecin, membre en règle d’une association médicale canadienne, chargé par le promoteur de veiller au bon déroulement d’une étude dans un lieu d’étude donné et autorisé à exercer sa profession par les lois de la province où se trouve ce lieu. (*qualified investigator*)
+
+***comité d’éthique de la recherche*** S’entend au sens de l’article C.03.306. (*research ethics board*)
+
+***drogue destinée à l’étude*** Produit pharmaceutique radioactif émetteur de positrons qui est utilisé dans le cadre d’une étude. (*study drug*)
+
+***étude*** Étude de recherche clinique fondamentale portant sur des sujets humains et visée aux articles C.03.304 et C.03.305. (*study*)
+
+***importer*** S’agissant d’une drogue destinée à l’étude, l’importer au Canada en vue d’en faire la vente pour une étude. (*import*)
+
+***lieu d’étude*** Lieu où se déroule, en tout ou en partie, une étude. (*study site*)
+
+***promoteur*** Personne qui est responsable de la conduite d’une étude. (*sponsor*)
+
+***protocole*** Document qui expose les objectifs, le plan de travail, la méthodologie, les considérations statistiques et l’organisation de l’étude. (*protocol*)
+
+***réaction indésirable*** Réaction négative et non voulue à une drogue destinée à l’étude par un sujet à l’étude ou autre personne qui est provoquée par l’administration de la drogue, quelle qu’en soit la dose. (*adverse reaction*)
+
+***réaction indésirable grave*** Réaction indésirable qui entraîne l’une des conséquences ci-après pour un sujet de l’étude ou une autre personne :
+- **a)** son hospitalisation ou la prolongation de celle-ci;
+- **b)** une malformation congénitale;
+- **c)** une incapacité importante ou persistante;
+- **d)** la mise en danger de sa vie;
+- **e)** sa mort. (*serious adverse reaction*)
+
+***réaction indésirable grave et imprévue*** Réaction indésirable grave dont la nature, la sévérité ou la fréquence ne sont pas mentionnées dans les renseignements sur les risques qui figurent sur l’étiquette d’une drogue destinée à l’étude. (*serious unexpected adverse reaction*)
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Champ d’application
+
+
+**C.03.302** 
+
+- **(1)** Les articles C.03.303 à C.03.319 s’appliquent à la vente et à l’importation de drogues destinées à l’étude.
+
+- **(2)** Les articles C.03.001 à C.03.209 et les titres 5 et 8 ne s’appliquent pas aux drogues destinées à l’étude.
+
+- **(3)** Les articles C.03.303 à C.03.319 ne s’appliquent pas aux drogues destinées à l’étude qui sont fabriquées à partir d’un produit intermédiaire en vrac d’origine biologique.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Interdiction
+
+
+**C.03.303** Il est interdit de vendre ou d’importer une drogue destinée à l’étude à moins que les conditions suivantes ne soient réunies :
+- **a)** la drogue est destinée exclusivement à une étude;
+- **b)** la drogue a déjà fait l’objet d’un essai sur des sujets humains et son profil d’innocuité a été établi à l’égard de l’humain;
+- **c)** si la drogue doit être importée, le fabricant de celle-ci a un représentant au Canada qui sera responsable de sa vente;
+- **d)** le promoteur est autorisé à le faire en vertu de l’article C.03.309;
+- **e)** le promoteur se conforme aux articles C.03.310 à C.03.316.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Objet de l’étude
+
+
+**C.03.304** 
+
+- **(1)** L’étude a pour objet l’obtention de données, selon le cas :
+	- **a)** sur la pharmacocinétique ou le métabolisme de la drogue destinée à l’étude;
+	- **b)** sur la biochimie ou la physiologie normales de l’être humain;
+	- **c)** sur l’incidence du vieillissement, de la maladie ou de traitements médicaux sur la biochimie ou la physiologie de l’être humain.
+
+- **(2)** Il est entendu que l’étude n’a pas pour objet premier :
+	- **a)** la découverte, la détermination ou la vérification des effets pharmacodynamiques de la drogue destinée à l’étude;
+	- **b)** la détermination des réactions indésirables;
+	- **c)** la réalisation d’un objectif thérapeutique ou diagnostique immédiat;
+	- **d)** l’établissement de l’innocuité ou de l’efficacité de la drogue destinée à l’étude.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Exigences
+
+
+**C.03.305** 
+
+- **(1)** L’étude satisfait aux critères suivants :
+	- **a)** elle est réalisée à partir d’une drogue destinée à l’étude dont l’innocuité a été établie à l’égard de l’humain — sur la base de données suffisantes, obtenues dans le cadre d’essais effectués sur des animaux et des êtres humains — avant son utilisation dans le cadre de l’étude;
+	- **b)** il a été établi que la quantité ou la combinaison des ingrédients actifs de la drogue destinée à l’étude ne provoquent chez les êtres humains aucun effet pharmacodynamique qui puisse être détecté sur le plan clinique;
+	- **c)** la dose annuelle totale de rayonnement que recevra chaque sujet, notamment par suite de multiples administrations de la drogue destinée à l’étude, de l’exposition à des impuretés ou à des contaminants importants ou du recours à d’autres procédés pour les besoins de l’étude, ne dépassera pas 50 mSv;
+	- **d)** le cas échéant, toute drogue utilisée de façon concomitante dans le cadre de l’étude s’est vu attribuer une identification numérique aux termes du paragraphe C.01.014.2(1) ou, s’agissant d’une drogue nouvelle, s’est vu délivrer un avis de conformité aux termes de l’article C.08.004;
+	- **e)** les sujets de l’étude ont au moins dix-huit ans et possèdent la capacité juridique au moment de l’étude;
+	- **f)** chaque sujet d’étude féminin :
+		- **(i)** a passé un test de grossesse confirmant qu’elle n’est pas enceinte au moment où commence l’étude ou a fourni une déclaration écrite confirmant ce fait,
+		- **(ii)** est avisée, si elle allaite au moment de l’étude, de suspendre l’allaitement pendant vingt-quatre heures après l’administration de la drogue;
+	- **g)** l’étude porte sur au plus trente sujets.
+
+- **(2)** Malgré l’alinéa (1)g), l’étude peut porter sur plus de trente sujets d’étude si le promoteur fournit au ministre les motifs scientifiques justifiant cette augmentation et que ce dernier l’approuve.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Comité d’éthique de la recherche
+
+
+**C.03.306** Le comité d’éthique de la recherche a les caractéristiques suivantes :
+- **a)** son principal mandat est d’approuver la tenue de projets de recherche biomédicale sur des sujets humains et d’en contrôler périodiquement le déroulement afin de veiller à la protection des droits de ces derniers, ainsi qu’à leur sécurité et leur bien-être;
+- **b)** il est composé d’au moins cinq membres, hommes et femmes dont la majorité sont des citoyens canadiens ou des résidents permanents au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et dont au moins :
+	- **(i)** deux membres possèdent de l’expertise et de l’expérience principalement dans un domaine scientifique ainsi qu’une vaste expérience des méthodes et champs de recherche à approuver, l’un d’entre eux provenant d’une discipline des soins médicaux,
+	- **(ii)** un membre possède des connaissances en matière d’éthique,
+	- **(iii)** un membre connaît la législation canadienne applicable à la recherche à approuver,
+	- **(iv)** un membre possède de l’expertise et de l’expérience principalement dans un domaine non scientifique,
+	- **(v)** un membre est issu de la collectivité ou représente un organisme intéressé aux champs de recherche en cause, mais n’est lié ni au promoteur, ni au lieu d’étude;
+- **c)** il n’a, avec le promoteur, aucun lien susceptible de compromettre sa capacité de réaliser son principal mandat, ou d’être perçu comme pouvant la compromettre.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Demande d’autorisation
+
+
+**C.03.307** 
+
+- **(1)** Le promoteur présente au ministre une demande d’autorisation pour la vente ou l’importation d’une drogue destinée à l’étude qui contient les renseignements et documents visés au paragraphe (2) ainsi que ceux nécessaires pour démontrer que les critères suivants sont remplis :
+	- **a)** l’utilisation de la drogue destinée à l’étude ne mettra pas en danger la santé d’un sujet de l’étude ni celle d’une autre personne;
+	- **b)** l’étude n’ira pas à l’encontre des intérêts des sujets de l’étude;
+	- **c)** les objectifs de l’étude sont raisonnablement réalisables.
+
+- **(2)** La demande d’autorisation contient les renseignements et documents suivants :
+	- **a)** le titre de l’étude et le code ou l’identification du protocole;
+	- **b)** l’objectif et une brève description de l’étude;
+	- **c)** le nombre de sujets de l’étude;
+	- **d)** la marque nominative de la drogue destinée à l’étude, s’il y a lieu;
+	- **e)** le nom chimique ou générique des ingrédients actifs de la drogue destinée à l’étude;
+	- **f)** la liste qualitative des ingrédients non actifs de la drogue destinée à l’étude;
+	- **g)** la masse maximale de la drogue destinée à l’étude qui sera administrée à chaque sujet de l’étude;
+	- **h)** l’amplitude de la dose radioactive de la drogue destinée à l’étude, exprimée en MBq ou en mCi;
+	- **i)** la dose efficace ou l’équivalent de dose efficace de la drogue destinée à l’étude, exprimés en mSv/MBq ou en rem/mCi;
+	- **j)** les nom et adresse municipale du promoteur, son adresse postale si elle est différente, ainsi que ses numéro de téléphone, numéro de télécopieur et adresse électronique;
+	- **k)** les nom et adresse municipale du fabricant, son adresse postale si elle est différente, ainsi que ses numéro de téléphone, numéro de télécopieur et adresse électronique;
+	- **l)** dans le cas d’une demande d’importation, les nom et adresse municipale, l’adresse postale si elle est différente, ainsi que les numéro de téléphone, numéro de télécopieur et adresse électronique du représentant du fabricant au Canada qui est responsable de la vente de la drogue destinée à l’étude;
+	- **m)** les nom et adresse municipale de chaque lieu d’étude;
+	- **n)** pour chaque lieu d’étude, les nom, adresse municipale, numéro de téléphone, numéro de télécopieur et adresse électronique du chercheur qualifié;
+	- **o)** la date projetée du début de l’étude dans chaque lieu d’étude, si elle est connue;
+	- **p)** pour chaque lieu d’étude, les nom, adresse, numéro de téléphone, numéro de télécopieur et adresse électronique du comité d’éthique de la recherche;
+	- **q)** une attestation, signée et datée par le comité d’éthique de la recherche de chaque lieu d’étude, portant qu’il a examiné et approuvé l’étude, le protocole et l’exposé des risques et des bénéfices escomptés pour la santé des sujets de l’étude résultant de leur participation à celle-ci qui sont indiqués dans la formule de consentement éclairé;
+	- **r)** une liste des demandes d’autorisation, présentées antérieurement, pour la vente ou l’importation d’une drogue destinée à des études liées à l’étude faisant l’objet de la demande;
+	- **s)** une attestation, signée et datée par le directeur médical ou scientifique du promoteur au Canada et par le premier dirigeant de celui-ci, portant que :
+		- **(i)** l’étude sera menée conformément au présent règlement,
+		- **(ii)** les renseignements et documents contenus dans la demande d’autorisation ou auxquels celle-ci renvoie sont exacts, complets et ne sont ni faux ni trompeurs.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Renseignements et documents complémentaires
+
+
+**C.03.308** Si les renseignements et documents fournis aux termes de l’article C.03.307 ne sont pas suffisants pour lui permettre de décider si la vente ou l’importation de la drogue destinée à l’étude doit être autorisée, le ministre peut, dans un avis écrit, demander au promoteur qu’il lui fournisse, au plus tard à la date qui y est précisée, les renseignements ou documents complémentaires concernant la drogue destinée à l’étude, l’étude elle-même ou le protocole dont il a besoin pour rendre sa décision.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Autorisation
+
+
+**C.03.309** Après avoir examiné la demande et, le cas échéant, tout renseignement ou document complémentaire, le ministre autorise le promoteur à vendre ou à importer la drogue destinée à l’étude s’il conclut que la demande est conforme aux exigences de l’article C.03.307; il lui envoie un avis l’informant de sa décision et précisant les lieux d’étude à l’égard desquels la vente ou l’importation est autorisée.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Avis
+
+
+**C.03.310** Au plus tard quinze jours avant d’entreprendre, à l’égard d’un lieu d’étude donné, la vente ou l’importation de la drogue destinée à l’étude, le promoteur en avise par écrit le ministre.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Bonnes pratiques cliniques
+
+
+**C.03.311** Le promoteur veille à ce que l’étude soit menée conformément aux bonnes pratiques cliniques et à ce que :
+- **a)** l’étude soit fondée sur le plan scientifique et clairement décrite dans son protocole;
+- **b)** l’étude soit menée et la drogue destinée à l’étude soit utilisée en conformité avec le protocole de l’étude et le présent règlement;
+- **c)** des systèmes et des procédures visant à assurer la qualité de tous les aspects de l’étude soient mis en place;
+- **d)** il n’y ait qu’un chercheur qualifié par lieu d’étude;
+- **e)** dans chaque lieu d’étude, les soins médicaux et les décisions médicales se rapportant à l’étude relèvent du chercheur qualifié;
+- **f)** chaque individu collaborant à la conduite de l’étude soit qualifié par ses études, sa formation et son expérience pour accomplir les tâches qui lui sont confiées;
+- **g)** avant qu’un sujet d’étude ne participe à l’étude, une copie signée de sa formule de consentement soit mise dans les registres tenus pour l’étude;
+- **h)** les exigences relatives aux renseignements et registres prévues à l’article C.03.315 soient respectées;
+- **i)** la drogue destinée à l’étude soit fabriquée, manutentionnée et entreposée conformément au titre 2, à l’exception des articles C.02.019, C.02.025 et C.02.026.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Étiquetage
+
+
+**C.03.312** Malgré les autres dispositions du présent règlement relatives à l’étiquetage, le promoteur veille à ce que les renseignements ci-après figurent :
+- **a)** sur l’étiquette intérieure de la drogue destinée à l’étude :
+	- **(i)** son numéro de lot de fabrication unique,
+	- **(ii)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »;
+- **b)** dans l’encart informatif accompagnant la drogue destinée à l’étude :
+	- **(i)** une mention qu’elle ne peut être utilisée que sous la surveillance d’un chercheur qualifié,
+	- **(ii)** le nom chimique ou générique de ses ingrédients actifs,
+	- **(iii)** les nom et adresse municipale du fabricant,
+	- **(iv)** les nom et adresse municipale du promoteur,
+	- **(v)** le code ou l’identification du protocole,
+	- **(vi)** les mises en garde et précautions relatives à son utilisation,
+	- **(vii)** la liste des réactions indésirables possibles liées à son utilisation.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Présentation de renseignements et documents
+
+
+**C.03.313** 
+
+- **(1)** Le promoteur fournit au ministre, dans le délai précisé, tout renseignement ou document afin d’établir l’innocuité de la drogue destinée à l’étude si ce dernier lui en fait la demande par écrit alors qu’il a des raisons de croire, selon le cas :
+	- **a)** que l’utilisation de la drogue destinée à l’étude met en danger la santé de tout sujet de l’étude ou celle de toute autre personne;
+	- **b)** que l’étude va à l’encontre des intérêts de ses sujets;
+	- **c)** qu’un chercheur qualifié ne respecte pas l’engagement visé à l’alinéa C.03.315(3)f);
+	- **d)** qu’un renseignement fourni sur la drogue destinée à l’étude ou sur l’étude, selon le cas, est faux ou trompeur.
+
+- **(2)** Le ministre peut, dans un avis écrit, exiger du promoteur qu’il lui fournisse, au plus tard à la date qui y est précisée, tout registre ou renseignement visé au paragraphe C.03.315(3), afin d’évaluer l’innocuité de la drogue destinée à l’étude ou la santé des sujets de l’étude ou celle de toute autre personne.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Rapport sur des réactions indésirables
+
+
+**C.03.314** 
+
+- **(1)** Au cours de l’étude, le promoteur informe le ministre, dans le délai ci-après, de toute réaction indésirable grave ou de toute réaction indésirable grave et imprévue, que la réaction se soit produite au Canada ou à l’étranger :
+	- **a)** dans les sept jours suivant le moment où il en prend connaissance, lorsque cette réaction entraîne la mort ou met la vie en danger;
+	- **b)** dans les quinze jours suivant le moment où il en prend connaissance, lorsque cette réaction n’entraîne pas la mort ni ne met la vie en danger.
+
+- **(2)** Dans les huit jours suivant la communication de tout renseignement au titre du paragraphe (1), le promoteur remet au ministre un rapport exhaustif à ce sujet, qui comprend une analyse de l’importance et des répercussions des constatations.
+
+- **(3)** Les articles C.01.016 à C.01.020 ne s’appliquent pas aux drogues destinées à une étude.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Registres
+
+
+**C.03.315** 
+
+- **(1)** Le promoteur consigne dans des registres, traite et conserve les renseignements relatifs à l’étude de façon à permettre la présentation de rapports complets et exacts sur ceux-ci ainsi que leur interprétation et leur vérification.
+
+- **(2)** Le promoteur tient des registres complets et précis afin de démontrer que l’étude est menée conformément au présent règlement.
+
+- **(3)** Le promoteur tient, pour chaque étude, des registres sur l’utilisation de la drogue destinée à l’étude qui comprennent :
+	- **a)** un registre sur toutes les réactions indésirables, qu’elles se soient produites au Canada ou à l’étranger, ainsi que sur les indications d’utilisation et la forme posologique de la drogue destinée à l’étude au moment où ces réactions se sont produites;
+	- **b)** la procédure écrite à suivre en matière de surveillance des sujets de l’étude ainsi qu’en matière de documentation et de rapports sur les réactions indésirables;
+	- **c)** les articles de revues scientifiques ou d’autres publications ayant servi à établir le profil d’innocuité de la drogue destinée à l’étude à l’égard de l’humain;
+	- **d)** les renseignements à l’égard de chaque sujet d’étude y compris son inscription, une copie de sa formule de consentement, signée, ainsi que les renseignements permettant de l’identifier et de le joindre dans le cas où la vente de la drogue destinée à l’étude peut mettre en danger sa santé ou celle d’une autre personne;
+	- **e)** un registre sur l’expédition, la réception, la vente, le retour et la destruction ou autre forme de disposition de la drogue destinée à l’étude;
+	- **f)** pour chaque lieu d’étude, un engagement, signé et daté par le chercheur qualifié avant le commencement de l’étude, portant :
+		- **(i)** qu’il mènera l’étude d’une manière conforme aux bonnes pratiques cliniques,
+		- **(ii)** qu’en cas de cessation de l’étude par le promoteur pour des motifs de santé ou sécurité, il en informera immédiatement les sujets de l’étude et le comité d’éthique de la recherche, leur en communiquera les motifs et les avisera par écrit des risques possibles pour la santé des sujets de l’étude ou celle de toute autre personne, le cas échéant;
+	- **g)** pour chaque lieu d’étude, un exemplaire de la formule de consentement éclairé;
+	- **h)** pour chaque lieu d’étude, une copie de l’attestation visée à l’alinéa C.03.307(2)q), du protocole de l’étude et de l’exposé des risques et des bénéfices escomptés pour la santé des sujets de l’étude résultant de leur participation à celle-ci qui sont indiqués dans la formule de consentement éclairé.
+
+- **(4)** Le promoteur conserve les registres pendant cinq ans suivant la fin de l’étude.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Cessation de l’étude
+
+
+**C.03.316** 
+
+- **(1)** Dans le cas où le promoteur met fin à l’étude — en totalité ou dans un lieu d’étude donné —, il en avise les chercheurs qualifiés, par écrit, dans les plus brefs délais, et indique dans l’avis les motifs de la cessation et, le cas échéant, les risques que l’étude présente pour la santé des sujets de l’étude ou celle de toute autre personne.
+
+- **(2)** S’il est mis fin à l’étude pour des raisons de santé ou sécurité pouvant affecter des sujets de l’étude ou d’autres personnes, le promoteur en avise le ministre par écrit dans les quinze jours suivant la cessation de l’étude et indique dans l’avis les motifs de la cessation et l’incidence de cette cessation sur ses autres études qui sont prévues ou en cours au Canada relativement à la drogue destinée à l’étude.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Suspension
+
+
+**C.03.317** 
+
+- **(1)** Le ministre suspend — en totalité ou à l’égard d’un lieu d’étude donné — l’autorisation de vendre ou d’importer la drogue destinée à l’étude dans les cas suivants :
+	- **a)** l’un des renseignements ou documents fournis en application des articles C.03.307, C.03.308 ou C.03.313 s’avère inexact ou incomplet;
+	- **b)** le promoteur ne fournit pas, sur demande écrite du ministre en vertu de l’article C.03.313, au plus tard à la date précisée dans celle-ci, de renseignements suffisants pour établir l’innocuité de la drogue destinée à l’étude;
+	- **c)** le promoteur a omis d’informer le ministre des réactions indésirables visées à l’article C.03.314 ou de lui remettre un rapport à cet effet conformément à cet article;
+	- **d)** le promoteur a contrevenu à toute disposition du présent règlement ou de la Loi relative à la drogue destinée à l’étude.
+
+- **(2)** Pour décider s’il suspend l’autorisation dans sa totalité ou à l’égard d’un lieu d’étude donné, le ministre vérifie si le motif de la suspension s’applique à l’étude dans sa totalité ou seulement à un lieu d’étude donné.
+
+- **(3)** Avant de suspendre l’autorisation, le ministre envoie au promoteur un préavis qui contient les précisions suivantes :
+	- **a)** les motifs de la suspension envisagée, si elle vise la totalité de l’autorisation ou uniquement un lieu d’étude donné et sa date de prise d’effet;
+	- **b)** son obligation de prendre les mesures correctives qui s’imposent, le cas échéant, au plus tard à la date précisée;
+	- **c)** la possibilité de présenter, dans un délai raisonnable, ses observations écrites à l’égard de la suspension envisagée.
+
+- **(4)** Malgré le paragraphe (3), s’il a des motifs raisonnables de croire que cela est nécessaire pour prévenir un préjudice à l’égard de la santé de tout sujet de l’étude ou celle de toute autre personne, le ministre suspend immédiatement l’autorisation.
+
+- **(5)** Le ministre qui suspend l’autorisation en vertu du paragraphe (4) envoie au promoteur un avis qui contient les précisions suivantes :
+	- **a)** les motifs de la suspension;
+	- **b)** son obligation de prendre les mesures correctives qui s’imposent, le cas échéant, au plus tard à la date précisée;
+	- **c)** la possibilité de présenter, dans un délai raisonnable, ses observations écrites à l’égard de la suspension.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Rétablissement
+
+
+**C.03.318** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre rétablit l’autorisation si le promoteur lui fournit, dans le délai ci-après, les éléments de preuve suffisants pour établir que l’étude ne présente pas de risque pour la santé des sujets à l’étude ou celle de toute autre personne :
+	- **a)** dans le cas de la suspension prévue au paragraphe C.03.317(1), dans les trente jours suivant la date de prise d’effet de la suspension;
+	- **b)** dans le cas de la suspension prévue au paragraphe C.03.317(4), au plus tard à la date précisée dans l’avis envoyé en vertu du paragraphe C.03.317(5).
+
+- **(2)** Le ministre supprime de l’autorisation toute partie suspendue qu’il ne rétablit pas.
+> DORS/2012-129, art. 5.
+
+
+
+
+
+##### Annulation
+
+
+**C.03.319** 
+
+- **(1)** Le ministre annule l’autorisation — en totalité ou à l’égard d’un lieu d’étude donné — dans les cas suivants :
+	- **a)** le promoteur a mis fin à l’étude — en totalité ou à l’égard d’un lieu d’étude donné — en vertu de l’article C.03.316;
+	- **b)** le promoteur n’a pas fourni au ministre, dans le délai précisé, les preuves exigées aux termes du paragraphe C.03.318(1).
+
+- **(2)** S’il annule l’autorisation en totalité ou à l’égard d’un lieu donné, le ministre envoie au promoteur un avis motivé dans lequel il indique la date de prise d’effet de cette annulation.
+> DORS/2012-129, art. 5.
 
 
 
