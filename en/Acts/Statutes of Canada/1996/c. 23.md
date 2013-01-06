@@ -1347,15 +1347,10 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Employment not suitable**
 
-- **(2)** For the purposes of this section, employment is not suitable employment for a claimant if
-	- **(a)** it arises in consequence of a stoppage of work attributable to a labour dispute;
-	- **(b)** it is in the claimant’s usual occupation either at a lower rate of earnings or on conditions less favourable than those observed by agreement between employers and employees, or in the absence of any such agreement, than those recognized by good employers; or
-	- **(c)** it is not in the claimant’s usual occupation and is either at a lower rate of earnings or on conditions less favourable than those that the claimant might reasonably expect to obtain, having regard to the conditions that the claimant usually obtained in the claimant’s usual occupation, or would have obtained if the claimant had continued to be so employed.
+- **(2)** For the purposes of this section, employment is not suitable employment for a claimant if it arises in consequence of a stoppage of work attributable to a labour dispute.
 
-**Reasonable interval**
-
-- **(3)** After a lapse of a reasonable interval from the date on which an insured person becomes unemployed, paragraph (2)(c) does not apply to the employment described in that paragraph if it is employment at a rate of earnings not lower and on conditions not less favourable than those observed by agreement between employers and employees or, in the absence of any such agreement, than those recognized by good employers.
-> 1996, c. 23, s. 27; 2001, c. 34, s. 41(E).
+- **(3)** [Repealed, 2012, c. 19, s. 605]
+> 1996, c. 23, s. 27; 2001, c. 34, s. 41(E); 2012, c. 19, s. 605.
 
 
 
@@ -1714,6 +1709,15 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Return of benefits by employer**
 
 - **(2)** If a claimant receives benefits for a period and under a labour arbitration award or court judgment, or for any other reason, the liability of an employer to pay the claimant earnings, including damages for wrongful dismissal, for the same period is or was reduced by the amount of the benefits or by a portion of them, the employer shall remit the amount or portion to the Receiver General as repayment of an overpayment of benefits.
+
+
+
+
+**Limitation**
+
+**46.01** No amount is payable under section 45, or deductible under subsection 46(1), as a repayment of an overpayment of benefits if more than 36 months have elapsed since the lay-off or separation from the employment in relation to which the earnings are paid or payable and, in the opinion of the Commission, the administrative costs of determining the repayment would likely equal or exceed the amount of the repayment.
+> 2012, c. 19, s. 607.
+
 
 
 
