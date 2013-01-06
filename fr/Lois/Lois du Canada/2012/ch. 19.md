@@ -3892,7 +3892,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind1FA3_hq_12929'>[*]</a></sup>**(2)** Les articles 605 et 607 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind1FA3_hq_12929'><sup>*</sup></a>: [Note : Articles 605 et 607 non en vigueur.]<br />
+<a name='fn_Ind1FA3_hq_12929'><sup>*</sup></a>: [Note : Articles 605 et 607 en vigueur le 6 janvier 2013, *voir* TR/2012-98.]<br />
 
 **Décret**
 
