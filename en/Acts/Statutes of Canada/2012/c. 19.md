@@ -3892,7 +3892,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndAD2C_hq_12930'>[*]</a></sup>**(2)** Sections 605 and 607 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndAD2C_hq_12930'><sup>*</sup></a>: [Note: Sections 605 and 607 not in force.]<br />
+<a name='fn_IndAD2C_hq_12930'><sup>*</sup></a>: [Note: Sections 605 and 607 in force January 6, 2013, *see* SI/2012-98.]<br />
 
 **Order in council**
 
