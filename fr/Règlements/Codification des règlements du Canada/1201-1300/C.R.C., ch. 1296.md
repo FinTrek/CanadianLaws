@@ -364,12 +364,11 @@ et que
 #### TARIFS DE PORT — SERVICES SPÉCIAUX
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Description</th>
 <th>Tarif</th>
 </tr>
@@ -388,7 +387,7 @@ et que
 <td>**a)** livraison
 
 </td>
-<td>8,25 $</td>
+<td>8,50 $</td>
 </tr>
 <tr>
 <td>**b)** [Abrogé DORS/2006-345, art. 2]
@@ -473,7 +472,7 @@ et que
 </tr>
 </table>
 
-> DORS/88-441, art. 25; DORS/88-621, art. 4 et 5; DORS/90-17, art. 19 à 21; DORS/90-800, art. 7 à 9; DORS/91-184, art. 3; DORS/91-628, art. 9 à 11; DORS/91-635, art. 6 à 8; DORS/91-642, art. 1; DORS/92-698, art. 3 et 4; DORS/92-704, art. 1; DORS/94-199, art. 1 à 3; DORS/94-205, art. 1; DORS/95-141, art. 1; DORS/95-308, art. 1 à 3; DORS/95-311, art. 5 et 6; DORS/96-210, art. 3 et 4; DORS/98-558, art. 2; DORS/98-559, art. 5 à 7; DORS/2001-448, art. 1 à 3; DORS/2002-167, art. 6; DORS/2003-378, art. 12 et 13; DORS/2003-382, art. 6(A); DORS/2004-296, art. 1 et 2; DORS/2005-360, art. 3; DORS/2006-344, art. 1; DORS/2006-345, art. 2 et 3; DORS/2007-297, art. 1; DORS/2008-284, art. 2; DORS/2009-289, art. 1; DORS/2010-287, art. 8; DORS/2011-297, art. 1.
+> DORS/88-441, art. 25; DORS/88-621, art. 4 et 5; DORS/90-17, art. 19 à 21; DORS/90-800, art. 7 à 9; DORS/91-184, art. 3; DORS/91-628, art. 9 à 11; DORS/91-635, art. 6 à 8; DORS/91-642, art. 1; DORS/92-698, art. 3 et 4; DORS/92-704, art. 1; DORS/94-199, art. 1 à 3; DORS/94-205, art. 1; DORS/95-141, art. 1; DORS/95-308, art. 1 à 3; DORS/95-311, art. 5 et 6; DORS/96-210, art. 3 et 4; DORS/98-558, art. 2; DORS/98-559, art. 5 à 7; DORS/2001-448, art. 1 à 3; DORS/2002-167, art. 6; DORS/2003-378, art. 12 et 13; DORS/2003-382, art. 6(A); DORS/2004-296, art. 1 et 2; DORS/2005-360, art. 3; DORS/2006-344, art. 1; DORS/2006-345, art. 2 et 3; DORS/2007-297, art. 1; DORS/2008-284, art. 2; DORS/2009-289, art. 1; DORS/2010-287, art. 8; DORS/2011-297, art. 1; DORS/2012-277, art. 1.
 
 
 
