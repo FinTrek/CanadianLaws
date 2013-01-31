@@ -657,7 +657,7 @@ where
 <td>Council of the Akisqnuk First Nation
 
 </td>
-<td>Reserves of Columbia Lake, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of Columbia Lake, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -712,7 +712,7 @@ where
 <td>Assembly of the Carcross/Tagish First Nation
 
 </td>
-<td>Settlement Land of the Carcross/Tagish First Nation under the Carcross/Tagish First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Carcross/Tagish First Nation under the Carcross/Tagish First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -778,7 +778,7 @@ where
 <td>Assembly of the First Nation of Nacho Nyak Dun
 
 </td>
-<td>Settlement Land of the First Nation of Nacho Nyak Dun under the First Nation of Nacho Nyak Dun Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the First Nation of Nacho Nyak Dun under the First Nation of Nacho Nyak Dun Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -896,7 +896,7 @@ where
 <td>Matsqui
 
 </td>
-<td>Council of Matsqui
+<td>Governing Body of Matsqui established under clause 2.1 of its by-law entitled Matsqui First Nation Custom Election Regulations and Procedures
 
 </td>
 <td>Each reserve of Matsqui that is not shared with another band
@@ -1180,7 +1180,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14.
 
 
 
@@ -1418,6 +1418,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Norway House Cree Nation</td>
+<td>Council of the Norway House Cree Nation</td>
+<td>Reserves of the Norway House Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>O-Chi-Chak-Ko-Sipi First Nation</td>
 <td>Council of the O-Chi-Chak-Ko-Sipi First Nation</td>
 <td>Reserve of the O-Chi-Chak-Ko-Sipi First Nation</td>
@@ -1593,6 +1599,6 @@ where
 </tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25, 199, 200.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25, 199, 200; SOR/2013-13.
 
 
