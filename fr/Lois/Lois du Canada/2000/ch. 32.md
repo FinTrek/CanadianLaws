@@ -2794,11 +2794,27 @@ Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e
 
 
 
-Quatrièmement : dans le canton théorique 121, rang 14 et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site de Pine Lake) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux.
+Quatrièmement : dans le canton théorique 121, rang 14, et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux;
 
 
 
-Le reste représentant une superficie d’environ 44 792 kilomètres carrés (4 479 200 hectares).
+Cinquièmement : dans le canton théorique 121, rang 13, à l’ouest du 4<sup>e</sup> méridien et dans le canton théorique 121, rang 14, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Dehneeah Túe n<sup>o</sup> 195D (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92668, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727787, ces terres ayant ensemble une superficie d’environ 3,95 kilomètres carrés (395,3 hectares); sont inclus les mines et les minéraux;
+
+
+
+Sixièmement : dans le canton théorique 124, rang 12, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Delttho Tthén n<sup>o</sup> 195C (site de la rivière Salt) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92669, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727788, ces terres ayant ensemble une superficie d’environ 0,41 kilomètres carrés (41,1 hectares); sont inclus les mines et les minéraux;
+
+
+
+Septièmement : dans le canton théorique 125, rang 15, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Deneyutchelea n<sup>o</sup> 195B (site du lac Parsons) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92670, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727789, ces terres ayant ensemble une superficie d’environ 2,41 kilomètres carrés (241 hectares); sont inclus les mines et les minéraux;
+
+
+
+Huitièmement : la totalité des lots 1000 et 1001, Quad 85A/2, constituant les limites extérieures de la réserve indienne de Tourangeau n<sup>o</sup> 195A (site de la rivière Little Buffalo) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92396, et enregistré au Bureau des titres de biens-fonds à Yellowknife sous le numéro 4146, les terres constituant le lot 1000 ayant ensemble une superficie d’environ 6,55 kilomètres carrés (655 hectares) et celles constituant le lot 1001 ayant ensemble une superficie d’environ 0,36 kilomètres carrés (35,7 hectares); sont inclus les mines et les minéraux.
+
+
+
+Le reste représentant une superficie d’environ 44 778 kilomètres carrés (4 477 832 hectares).
 
 
 
@@ -6179,7 +6195,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; DORS/2013-16.
 
 
 
