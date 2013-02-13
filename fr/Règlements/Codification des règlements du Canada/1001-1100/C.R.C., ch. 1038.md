@@ -137,7 +137,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***ceinture de sécurité manuelle*** Ceinture de sécurité de type 1 ou de type 2 qui exige, pour être actionnée, l’intervention délibérée de l’occupant du véhicule. (*manual seat belt assembly*)
 
-***ceinture diagonale de type 2A*** S’entend d’une ceinture-baudrier destinée à n’être utilisée qu’avec une ceinture sous-abdominale pour former une ceinture de sécurité de type 2. (*Type 2A shoulder belt*)
+***ceinture diagonale de type 2A***[Abrogée, DORS/2013-9, art. 1]
 
 ***ceinture sous-abdominale*** S’entend de la ceinture de sécurité ou de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement du bassin. (*pelvic restraint*)
 
@@ -461,6 +461,8 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***partie haute pression du circuit d’alimentation en carburant*** Dans le cas d’un véhicule qui utilise du GPL ou du GNC comme source d’énergie pour sa propulsion, tous les composants du circuit d’alimentation en carburant, du réservoir de carburant, qui est inclus, au régulateur de première étape, qui est exclu. (*high-pressure portion of the fuel system*)
 
+***personne handicapée*** Personne qui, pour des raisons orthopédiques ou à cause de sa conformation ou d’autres caractéristiques physiques, a besoin d’un véhicule adapté pour tenir compte de son handicap. (*disabled person*)
+
 ***pièces*** S’entend, relativement à une ceinture de sécurité, des pièces de métal ou de plastique rigide. (*hardware*)
 
 ***pièces de fixation*** Les pièces conçues pour fixer les sangles d’une ceinture de sécurité à un véhicule. (*attachment hardware*)
@@ -627,7 +629,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***tableau lumineux***[Abrogée, DORS/93-31, art. 1]
 
-***témoin*** désigne un signal optique qui s’allume pour indiquer soit l’entrée en action d’un dispositif, soit un fonctionnement ou un état normal ou défectueux d’un dispositif, soit le non-fonctionnement d’un dispositif; (*tell-tale*)
+***témoin*** Signal optique qui s’allume pour indiquer soit l’entrée en action ou la désactivation d’un dispositif, soit un fonctionnement ou un état normal ou défectueux d’un dispositif, soit le non-fonctionnement d’un dispositif. (*tell-tale*)
 
 ***témoin de charge*** désigne un voyant qui s’allume pour indiquer que la batterie est en décharge; (*battery charging tell-tale*)
 
@@ -707,10 +709,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***véhicule d’occasion importé***[Abrogée, DORS/92-173, art. 1]
 
-***véhicule fabriqué pour être conduit par une personne handicapée*** Véhicule auquel sont intégrés :
-- **a)** un dispositif de changement de niveau, tel qu’une plate-forme élévatrice pour fauteuils roulants ou une rampe, pour le transfert d’un occupant en fauteuil roulant;
-- **b)** un élément de conception intérieur offrant la hauteur libre nécessaire pour permettre à une personne en fauteuil roulant de se déplacer entre le dispositif de changement de niveau et la place du conducteur ou d’occuper cette place;
-- **c)** une place assise du conducteur munie d’un dispositif de contrôle adaptatif ou une place du conducteur particulière permettant aux personnes dont l’usage des bras ou des jambes est limité de conduire un véhicule. (*vehicle manufactured for operation by persons with disabilities*)
+***véhicule fabriqué pour être conduit par une personne handicapée***[Abrogée, DORS/2013-9, art. 1]
 
 ***véhicule importé temporairement à des fins spéciales*** Véhicule qui n’est importé au Canada que pour l’une ou l’autre des fins suivantes, pour une période n’excédant pas un an :
 - **a)** d’autres travaux de fabrication avant son exportation;
@@ -753,7 +752,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** [Abrogé, DORS/2009-318, art. 1]
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1.
 
 
 
@@ -1503,7 +1502,23 @@ où :
 
 
 
-**18. et 19** [Abrogés, DORS/95-147, art. 2]
+
+## Manuel de l’usager
+
+
+**18** 
+
+- **(1)** Pour l’application de l’alinéa 5(1)f) de la Loi, pour chaque véhicule sur lequel elle appose une étiquette de conformité et pour chaque véhicule qu’elle importe au Canada avant sa vente au premier usager, l’entreprise fournit, sous forme écrite, électronique ou optique, un manuel de l’usager dans lequel figurent les renseignements relatifs au fonctionnement ou à l’utilisation du véhicule qui sont exigés par le présent règlement.
+
+- **(2)** Le manuel de l’usager doit être disponible dans les deux langues officielles.
+
+- **(3)** S’il est disponible uniquement sous forme électronique ou optique, le manuel de l’usager doit pouvoir être utilisé dans l’habitacle à l’aide d’un dispositif qui est installé dans le véhicule ou dont celui-ci est pourvu.
+> DORS/2013-9, art. 2.
+
+
+
+
+**19** [Abrogé, DORS/95-147, art. 2]
 
 
 
@@ -5330,8 +5345,10 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **a)** le système subit un impact exercé par un bloc corporel à une vitesse relative de 24 km/h;
 	- **b)** la force d’impact exercée sur la poitrine du bloc corporel et transmise au système n’excède pas 11 120 N, sauf pendant des intervalles d’une durée cumulative d’au plus 3 ms.
 
-- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences prévues aux paragraphes 208(22) et (23).
-> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2..
+- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
+
+- **(5)** Le paragraphe (4) cesse d’avoir effet le 31 octobre 2017.
+> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3..
 
 
 
@@ -5340,12 +5357,14 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **204** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les autobus, véhicules de tourisme à usages multiples et camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg, doivent être mis à l’essai de la façon suivante :  
-	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, ils heurtent une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec l’axe de leur déplacement;
-	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
+- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, les autobus et les camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg doivent être conformes aux exigences du Document de normes techniques no 204 — Recul de la colonne de direction (DNT 204), avec ses modifications successives.
 
-- **(2)** Lors de la mise à l’essai visée au paragraphe (1), l’extrémité supérieure de la colonne de direction et de l’arbre de direction ne doit pas s’être déplacée, par rapport à un point resté fixe dans le véhicule, de plus de 127 mm horizontalement vers l’arrière et parallèlement à l’axe longitudinal du véhicule. Le déplacement doit correspondre au maximum du mouvement dynamique de l’extrémité supérieure de la colonne de direction et de l’arbre de direction au cours de l’essai.
-> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2..
+- **(2)** Pour l’application du présent article, toute mention, dans le DNT 204, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***.
+
+- **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
+
+- **(4)** Le présent article cesse d’avoir effet le 31 octobre 2017.
+> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4..
 
 
 
@@ -5354,7 +5373,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **205** 
 
-- **(1)** Pour l’application du présent article, les termes * bus*, *motorhome*, *multipurpose passenger vehicle*, *passenger car*, *readily removable windows*, *trailer* et *truck* employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de ***autobus***, ***autocaravane***, ***véhicule de tourisme à usages multiples***, ***voiture de tourisme***, ***fenêtre amovible***, ***remorque*** et ***camion*** au paragraphe 2(1) du présent règlement.
+- **(1)** Pour l’application du présent article, les termes *bus*, *motorhome*, *multipurpose passenger vehicle*, *passenger car*, *readily removable windows*, *trailer* et *truck* employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de ***autobus***, ***autocaravane***, ***véhicule de tourisme à usages multiples***, ***voiture de tourisme***, ***fenêtre amovible***, ***remorque*** et ***camion*** au paragraphe 2(1) du présent règlement.
 
 - **(2)** Pour l’application du présent article, la définition de *motor vehicle* figurant dans la norme de sécurité ANSI Z26 — 1996 ne s’applique pas.
 
@@ -5429,219 +5448,160 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de retenue des occupants en cas de collision frontale (Norme 208)
+### Protection des occupants en cas de collision frontale (Norme 208)
+> [DORS/2013-9, art. 5]
+
 
 
 #### Installation des ceintures de sécurité
 
 **208** 
 
-- **(1)** Sous réserve des paragraphes (2.1) et (8) à (10), tout véhicule doit être muni, aux places assises désignées extérieures avant, d’une ceinture de sécurité manuelle de type 2 qui :
-	- **a)** comprend une ceinture-baudrier non détachable;
-	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence.
+- **(1)** Toute motocyclette à habitacle fermé doit être munie, à chaque place assise désignée, d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence;
+	- **c)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(2)** Sous réserve des paragraphes (3) et (4), les véhicules à trois roues, les voitures de tourisme ainsi que les autobus, camions et véhicules de tourisme à usages multiples ayant un PNBV d’au plus 4 536 kg, sauf les autobus scolaires et les autocaravanes, doivent être munis, aux places assises désignées extérieures arrière faisant face à l’avant, d’une ceinture de sécurité manuelle de type 2 qui :
-	- **a)** comprend une ceinture-baudrier non détachable;
-	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence.
+- **(2)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV d’au plus 4 536 kg, doivent être munis :
+	- **a)** aux places assises désignées extérieures avant, à l’exception de celles visées à l’alinéa b), et aux places assises désignées arrière, à l’exception de celles visées aux alinéas c) et d), d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
+	- **b)** aux places assises désignées extérieures avant conçues pour une personne handicapée, d’une ceinture de sécurité de type 2;
+	- **c)** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de la position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** peut se détacher, à l’aide d’une clé ou d’un objet semblable, du point d’ancrage supérieur ou du point d’ancrage inférieur mais non des deux,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+		- **(iii)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **d)** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
+		- **(i)** d’une part, une ceinture sous-abdominale qui restreint le mouvement du bassin quelle que soit la direction à laquelle le siège fait face et qui est munie d’un rétracteur à blocage d’urgence,
+		- **(ii)** d’autre part, dans le cas où le siège peut être placé de manière à faire face à l’avant ou à l’arrière ou dans une fourchette d’angle de ± 30° dans l’une ou l’autre direction, une ceinture-baudrier qui :
+			- **(A)** peut se détacher de la ceinture sous-abdominale,
+			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+			- **(C)** est destinée à n’être utilisée qu’avec la ceinture sous-abdominale,
+			- **(D)** fonctionne lorsque le siège se trouve à l’un des angles de la fourchette;
+	- **e)** aux places assises désignées arrière qui possèdent un siège latéral et aux places assises désignées intérieures avant :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
+		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+			- **(A)** comporte une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(B)** comporte une ceinture-baudrier réglable au moyen d’un rétracteur à blocage d’urgence ou d’un dispositif de réglage manuel,
+			- **(C)** ne peut se détacher d’aucun point d’ancrage,
+		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(2.1)** Toute motocyclette à habitacle fermé doit être munie, à chaque place assise désignée, d’une ceinture de sécurité manuelle de type 2 qui :
-	- **a)** comprend une ceinture-baudrier non détachable;
-	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence.
+- **(3)** Les véhicules de tourisme à usages multiples et les camions ayant un PNBV de plus de 4 536 kg doivent être munis à chaque place assise désignée :
+	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
+	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(3)** Le véhicule qui, à la place assise désignée extérieure arrière, possède un siège réglable pour faire face à l’avant ou à toute autre direction peut être muni d’une ceinture de sécurité manuelle de type 2 comprenant les ceintures suivantes :
-	- **a)** lorsque le siège est orienté dans toute direction permettant de l’occuper pendant que le véhicule est en mouvement, une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence;
-	- **b)** lorsque le siège est orienté vers l’avant, une ceinture diagonale de type 2A réglable au moyen d’un rétracteur à blocage d’urgence.
+- **(4)** Dans le cas des autocaravanes, le nombre de places assises désignées munies d’une ceinture de sécurité ne doit pas être inférieur à celui des places couchées.
 
-- **(4)** Le véhicule qui, à la place assise désignée extérieure arrière, possède un siège conçu par le fabricant pour être amovible doit satisfaire aux exigences du paragraphe (2) ou, si le siège est réglable pour faire face à l’avant aussi bien qu’à toute autre direction, à celles du paragraphe (3).
+- **(5)** Les autobus, à l’exception des autobus scolaires, ayant un PNBV d’au plus 4 536 kg doivent être munis :
+	- **a)** aux places assises désignées extérieures avant et aux places assises désignées arrière, à l’exception de celles visées aux alinéas b) à d), d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
+	- **b)** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** peut se détacher, à l’aide d’une clé ou d’un objet semblable, du point d’ancrage supérieur ou du point d’ancrage inférieur mais non des deux,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+		- **(iii)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **c)** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
+		- **(i)** d’une part, une ceinture sous-abdominale qui restreint le mouvement du bassin quelle que soit la direction à laquelle le siège fait face et qui est munie d’un rétracteur à blocage d’urgence,
+		- **(ii)** d’autre part, dans le cas où le siège peut être placé de manière à faire face à l’avant ou à l’arrière ou dans une fourchette d’angle de ± 30º dans l’une ou l’autre direction, une ceinture-baudrier qui :
+			- **(A)** peut se détacher de la ceinture sous-abdominale,
+			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence,
+			- **(C)** est destinée à n’être utilisée qu’avec la ceinture sous-abdominale,
+			- **(D)** fonctionne lorsque le siège se trouve à l’un des angles de la fourchette;
+	- **d)** aux places assises désignées arrière qui possèdent un siège latéral :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
+		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+			- **(A)** comporte une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(B)** ne peut se détacher ni de la ceinture sous-abdominale ni d’aucun point d’ancrage,
+		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(5)** Toute ceinture de sécurité exigée en application du paragraphe (4) peut être détachable à son point d’ancrage supérieur ou inférieur, mais non aux deux points d’ancrage.
+- **(6)** Les autobus ayant un PNBV de plus de 4 536 kg doivent être munis, à la place assise désignée du conducteur :
+	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
+	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(6)** Sous réserve du paragraphe (9), tout véhicule, exception faite des autobus d’un PNBV de plus de 4 536 kg et des autobus scolaires, doit être muni d’une ceinture de sécurité manuelle de type 1 ou de type 2 aux places assises désignées autres que les places assises désignées extérieures avant et les places assises désignées extérieures arrière.
+- **(7)** Les autobus scolaires ayant un PNBV d’au plus 4 536 kg doivent être munis, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence;
+	- **c)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(7)** La ceinture de sécurité visée au paragraphe (6) doit :
-	- **a)** dans le cas de la ceinture de sécurité manuelle de type 1 ou de type 2, comprendre une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel;
-	- **b)** dans le cas de la ceinture de sécurité manuelle de type 2, comprendre une ceinture-baudrier réglable au moyen d’un rétracteur à blocage d’urgence ou d’un dispositif de réglage manuel.
+- **(8)** [Réservé]
 
-- **(8)** Le fourgon à accès en position debout d’un PNBV d’au plus 4 536 kg peut être muni, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 1 réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant.
-
-- **(9)** Le camion ou véhicule de tourisme à usages multiples ayant un PNBV de plus de 4 536 kg :
-	- **a)** peut être équipé d’une ceinture de sécurité manuelle de type 1 à chaque place assise désignée extérieure avant;
-	- **b)** doit être équipé d’une ceinture de sécurité manuelle de type 1 ou de type 2 à chaque place assise désignée extérieure arrière orientée vers l’avant.
-
-- **(10)** L’autobus d’un PNBV de plus de 4 536 kg doit être équipé, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 1 ou d’une ceinture de sécurité manuelle de type 2 dont la ceinture-baudrier est réglable au moyen d’un rétracteur à blocage d’urgence.
-
-- **(10.1)** Dans le cas des autocaravanes, le nombre de places assises désignées équipées d’une ceinture de sécurité ne doit pas être inférieur à celui des places couchées.
-
-- **(11)** Lorsqu’une ceinture de sécurité manuelle de type 1 ou que la ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 est installée à une place assise désignée extérieure avant d’un camion, d’un autobus ou d’un véhicule de tourisme à usages multiples ayant un PNBV de plus de 4 536 kg, la ceinture de sécurité doit être réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant.
-
-- **(12)** Le rétracteur autobloquant visé à l’alinéa (7)a) et aux paragraphes (8) et (11) doit :
-	- **a)** s’enclencher à la prochaine position de blocage lorsqu’une longueur de sangle qui mesure entre 19 mm et 77 mm est rentrée dans le rétracteur, laquelle longueur est mesurée à partir d’une position initiale établie lorsque la sangle est tirée à 75 pour cent de sa longueur hors du rétracteur;
-	- **b)** être fixé à la partie suspendue du siège si celui-ci est équipé d’une suspension.
+- **(9)** Le rétracteur autobloquant installé pour qu’une ceinture de sécurité soit conforme aux exigences des alinéas (2)e), (3)a) ou b) ou (5)d) ou du paragraphe (6) doit :
+	- **a)** s’enclencher à la prochaine position de blocage lorsqu’une longueur de sangle qui mesure entre 19 mm et 77 mm est rentrée dans le rétracteur, laquelle longueur est mesurée à partir d’une position initiale établie lorsque la sangle est tirée à 75 % de sa longueur hors du rétracteur;
+	- **b)** être fixé à la partie suspendue du siège du véhicule si celui-ci est muni d’une suspension.
 
 #### Ajustement des ceintures de sécurité
 
 
-- **(13)** La ceinture de sécurité manuelle de type 2 doit être fabriquée de façon que, lorsqu’un occupant du 50<sup>e</sup> percentile adulte du sexe masculin est retenu en place par la ceinture de sécurité, le point d’intersection de la ceinture-baudrier et de la ceinture sous-abdominale se situe à au moins 150 mm de l’axe vertical frontal de l’occupant, mesuré le long de la ligne médiane de la ceinture sous-abdominale, les conditions suivantes étant réunies :
+- **(10)** La ceinture de sécurité manuelle de type 2 doit être fabriquée de façon que, lorsqu’un occupant du 50<sup>e</sup> percentile adulte du sexe masculin est retenu en place par la ceinture de sécurité, le point d’intersection de la ceinture-baudrier et de la ceinture sous-abdominale se situe à au moins 150 mm de l’axe vertical frontal de l’occupant, mesuré le long de la ligne médiane de la ceinture sous-abdominale, les conditions suivantes étant réunies :
 	- **a)** tout dispositif de réglage manuel de la ceinture-baudrier est réglé selon les instructions du fabricant;
-	- **b)** le siège est reculé et abaissé au maximum;
+	- **b)** le siège du véhicule est reculé et abaissé au maximum;
 	- **c)** le dossier du siège est dans la position assise nominale recommandée par le fabricant.
 
-- **(14)** Lorsque le dossier d’un siège se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture sous-abdominale doit :
+- **(11)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture sous abdominale doit :
 	- **a)** à la place assise désignée du conducteur, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin;
 	- **b)** aux autres places assises désignées, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 50<sup>e</sup> percentile enfant de six ans au 95<sup>e</sup> percentile adulte du sexe masculin.
 
-- **(15)** Lorsque le dossier d’un siège se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture-baudrier doit s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin.
+- **(12)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture-baudrier doit s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin.
 
-#### Dispositif avertisseur
-
-
-- **(16)** Le véhicule d’un PNBV d’au plus 4 536 kg, exception faite des autobus scolaires, doit être équipé, selon le cas :
-	- **a)** d’un témoin qui, pendant 4 à 8 secondes, émet un signal lumineux continu ou intermittent que peut voir le conducteur assis en position normale de conduite, et d’un avertisseur qui, pendant la même période, fait entendre un signal sonore continu ou intermittent;
-	- **b)** d’un témoin qui, pendant au moins 60 secondes, émet un signal lumineux continu ou intermittent que peut voir le conducteur assis en position normale de conduite, et d’un avertisseur qui, pendant 4 à 8 secondes, fait entendre un signal sonore continu ou intermittent.
-
-- **(17)** Le témoin visé au paragraphe (16) s’allume dans l’un des cas suivants :
-	- **a)** lorsque le commutateur d’allumage est en position « contact » ou « démarrage »;
-	- **b)** lorsque le commutateur d’allumage est en position « contact » ou « démarrage » et que, selon le cas :
-		- **(i)** le mécanisme de blocage de la ceinture sous-abdominale dont est munie la place assise désignée du conducteur n’est pas enclenché,
-		- **(ii)** la ceinture sous-abdominale dont est munie la place assise désignée du conducteur est tirée de moins de 100 mm à partir de la position normale de rangement.
-
-- **(18)** Le dispositif avertisseur visé au paragraphe (16) se fait entendre lorsque le commutateur d’allumage est en position « contact » ou « démarrage » et que, selon le cas :
-	- **a)** le mécanisme de blocage de la ceinture sous-abdominale dont est munie la place assise désignée du conducteur n’est pas enclenché;
-	- **b)** la ceinture sous-abdominale dont est munie la place assise désignée du conducteur est tirée de moins de 100 mm à partir de la position normale de rangement.
-
-- **(19)** Le symbole d’identification de la ceinture de sécurité figurant au tableau II de l’article 101 doit apparaître sur le témoin visé au paragraphe (16).
-
-#### Mécanisme de déblocage
+#### Document de normes techniques n<sup>o</sup> 208
 
 
-- **(20)** Le mécanisme de déblocage de toute ceinture de sécurité doit être accessible à l’occupant du siège, que la ceinture soit en position de rangement ou en position opérationnelle, et il doit permettre, au moyen d’un seul bouton-poussoir, de dégager :
-	- **a)** la ceinture de sécurité en un seul point;
-	- **b)** simultanément la ceinture sous-abdominale et la ceinture-baudrier.
+- **(13)** Les voitures de tourisme, les véhicules à trois roues, les camions, les véhicules de tourisme à usages multiples et les autobus, ainsi que leur manuels de l’usager, doivent être conformes aux exigences du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
-#### Exigences de protection contre l’impact
+- **(14)** Pour l’application du présent article,
+	- **a)** toute mention, dans le DNT 208, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***;
+	- **b)** toute mention, dans la version anglaise du DNT 208, de *dummy* vaut mention de *anthropomorphic test device*.
 
+- **(15)** Malgré le paragraphe (13), les véhicules munis d’une place assise désignée extérieure avant conçue pour une personne handicapée peuvent, au lieu de répondre aux exigences des dispositions S5, S7.1, S7.2, S7.4 et S14 à S27 du DNT 208, porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] doe​s not conform to all of the requirements set out in CMVSS 208.* / La [insérer ici la place assise désignée extérieure de la première rangée de places assises désignées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208. »
 
-- **(21)** Toute voiture de tourisme ainsi que tout autobus, camion et véhicule de tourisme à usages multiples qui a un PNBV d’au plus 3 856 kg et un poids du véhicule sans charge d’au plus 2 495 kg, à l’exception d’un véhicule fabriqué pour être conduit par une personne handicapée, doit répondre aux exigences de protection contre l’impact prévues au paragraphe (22).
+- **(16)** Malgré le paragraphe (13), les véhicules à trois roues doivent, au choix du fabricant, soit répondre aux exigences des dispositions S5 et S14 à S27 du DNT 208, soit porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *This vehicle does not conform to the requirements of the dynamic or static tests set out in CMVSS 208.* / Ce véhicule n’est pas conforme aux exigences des essais dynamiques ou statiques prévues par la NSVAC 208. »
 
-- **(21.1)** Tout véhicule à trois roues doit, au choix du fabricant, répondre aux exigences de protection contre l’impact prévues au paragraphe (22) ou porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises avant, indiquant, en lettres d’au moins six points de hauteur, la mention « *This vehicle does not comply with the requirements of the dynamic crash test set out in CMVSS 208* / Ce véhicule n’est pas conforme aux exigences de l’essai de collision dynamique prévu par la NSVAC 208 ».
+- **(17)** Si un véhicule porte l’une des étiquettes visées aux paragraphes (15) ou (16), les versions française et anglaise du manuel de l’usager doivent reproduire la mention figurant sur l’étiquette.
 
-- **(21.2)** Si un véhicule porte l’étiquette visée au paragraphe (21.1), les versions française et anglaise du manuel de l’usager doivent reproduire la mention figurant sur l’étiquette.
+- **(18)** Les renseignements figurant sur l’étiquette visée à la disposition S4.5.1a) du DNT 208 doivent être dans les deux langues officielles.
 
-- **(22)** Lorsque le véhicule est mis à l’essai conformément au paragraphe (23), pendant l’essai :
-	- **a)** chaque dispositif anthropomorphe d’essai ne peut pas dépasser les limites de la surface externe de l’habitacle du véhicule;
-	- **b)** l’accélération résultante au centre de gravité de la tête de chaque dispositif anthropomorphe d’essai :
-		- **(i)** soit ne doit pas dépasser 80 g lorsqu’elle agit du devant du plan frontal du dispositif sauf dans le cas où il est établi que l’accélération résultante maximale au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de ce dernier,
-		- **(ii)** soit, si un sac gonflable est installé à la place assise désignée, peut être telle que la valeur de la formule suivante n’excède pas 700 :
-```
+- **(19)** Malgré la disposition S4.5.4 du DNT 208, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les autobus et les camions fabriqués le 1<sup>er</sup> septembre 2012 ou après cette date peuvent être munis d’un dispositif qui désactive le sac gonflable installé à la place assise désignée extérieure avant droite à bord du véhicule si toutes les conditions des dispositions S4.5.4.1 à S4.5.4.4 de ce DNT sont respectées.
 
-> Image: Formule utilisée afin de déterminer les critères de blessure à la tête de chaque dispositif anthropomorphe d’essai
+- **(20)** Malgré la disposition S6.4b) du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 55 mm.
 
-```
-où :
-- **a** représente l’accélération résultante au centre de la gravité de la tête exprimée en multiple de « g »,
-- **g** l’accélération attribuable à la gravité,
-- **t** <sub>1</sub>** et t** <sub>2</sub>deux points dans le temps, exprimés en secondes, pendant l’impact, et séparés par un intervalle d’au plus 15 ms;
-	- **c)** le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai ne doit pas dépasser :
-		- **(i)** 50 mm par rapport à la colonne vertébrale dans la partie supérieure du thorax,
-		- **(ii)** dans le cas du véhicule d’un PNBV de plus de 2 722 kg, 60 mm par rapport à la colonne vertébrale dans la partie supérieure du thorax;
-	- **d)** la force transmise dans l’axe de chaque cuisse du dispositif anthropomorphe d’essai ne doit pas dépasser 10 kN.
+- **(21)** Les renseignements visés aux dispositions S4.5, S7.1.1.5 et S7.4.2 du DNT 208 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
-- **(23)** Sous réserve du paragraphe (23.1), lorsque le véhicule est mis à l’essai, il doit l’être de la façon suivante :
-	- **a)** conformément aux conditions prévues à la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996);
-	- **b)** le véhicule, qui se déplace longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, heurte une barrière fixe formant un angle de 90° ± 5° avec l’axe de déplacement du véhicule;
-	- **c)** un dispositif anthropomorphe d’essai, conforme à la sous-partie E de la partie 572 du titre 49 du *Code of Federal Regulations* des États-Unis (octobre 1994), est installé à chaque place assise désignée extérieure avant et y est retenu par la ceinture de sécurité.
+- **(22)** La disposition S14 du DNT 208 s’applique aux voitures de tourisme, ainsi qu’aux véhicules de tourisme à usages multiples, aux autobus, et aux camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 3 856 kg et une masse du véhicule sans charge d’au plus 2 495 kg.
 
-- **(23.1)** Pour l’application de l’alinéa (23)a), lorsqu’il est mis à l’essai, le véhicule à trois roues doit être chargé conformément à la disposition S2.2.1 de la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996).
+- **(23)** Malgré la disposition S15.3.4 du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 45 mm, dans le cas d’un véhicule mis à l’essai conformément aux dispositions S16.1a)(2) ou S18 du DNT 208.
 
-#### Sac gonflable
+- **(24)** Les paragraphes (13) à (23) cessent d’avoir effet le 31 octobre 2017.
+
+#### Étiquette d’avertissement — sac gonflable
 
 
-- **(24)** Le sac gonflable doit être muni d’un dispositif de surveillance qui, à la fois :
-	- **a)** assure sa propre surveillance et celle de tout sac gonflable non désactivé et indique s’ils sont en état de fonctionner;
-	- **b)** comporte un témoin que peut voir le conducteur assis en position normale de conduite.
+- **(25)** Lorsque le véhicule est muni d’un sac gonflable à une place assise désignée extérieure avant, une ou plusieurs étiquettes doivent être apposées de façon permanente sur le pare-soleil de ces places assises désignées ou en évidence à un endroit adjacent au pare-soleil et elles doivent indiquer, dans les deux langues officielles, en lettres d’au moins 6 points de hauteur, les avertissements suivants :
+	- **a)** dans le cas d’une place assise désignée extérieure avant droite qui est équipée d’un sac gonflable qui peut être désactivé au moyen d’un interrupteur manuel :
+		- **(i)** un avertissement de ne pas installer un ensemble de retenue pour bébé ou un ensemble de retenue pour enfant orienté vers l’arrière, à cette place assise désignée, à moins que le sac gonflable ne soit désactivé,
+		- **(ii)** un avertissement au sujet de la sécurité des enfants à proximité d’un sac gonflable;
+	- **b)** dans tout autre cas, un avertissement au sujet de la sécurité des enfants à proximité d’un sac gonflable.
 
-- **(25)** Les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les autobus et les camions peuvent être munis d’un interrupteur manuel qui sert à désactiver le sac gonflable installé à la place assise désignée extérieure avant droite, si l’une des conditions suivantes est respectée :
-	- **a)** le véhicule n’a pas, à l’arrière des places assises désignées avant, de place assise désignée faisant face à l’avant;
-	- **b)** la distance entre la surface arrière du dossier du siège avant et la surface avant du dossier du siège arrière est inférieure à 720 mm, mesurée conformément à la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996).
-
-- **(26)** Lorsque le véhicule est muni, à une place assise désignée, d’un sac gonflable nécessitant un entretien ou un remplacement réguliers, il doit y avoir une étiquette inamovible dans l’habitacle indiquant, dans les deux langues officielles en lettres d’au moins 6 points de hauteur, le calendrier d’entretien ou de remplacement recommandé par le fabricant, lequel calendrier est dressé de l’une des façons suivantes :
-	- **a)** en fonction des mois et des années;
-	- **b)** en fonction de la distance parcourue;
-	- **c)** en intervalles précis mesurés à partir du mois et de l’année figurant sur l’étiquette de conformité ou l’étiquette informative, selon le cas, apposée sur le véhicule conformément au présent règlement.
-
-- **(27)** Lorsque le véhicule est muni d’un sac gonflable à une place assise désignée, une ou plusieurs étiquettes inamovibles doivent être apposées sur le pare-soleil de cette place ou en évidence à un endroit adjacent au pare-soleil et elles doivent indiquer, dans les deux langues officielles, en lettres d’au moins 6 points de hauteur, les avertissements suivants :
-	- **a)** s’il s’agit d’une place assise désignée extérieure avant droite :
-		- **(i)** dans le cas où cette place est équipée d’un sac gonflable qui peut être désactivé au moyen d’un interrupteur manuel, ne pas installer un ensemble de retenue pour bébé ou pour enfant face à l’arrière, à cette place assise désignée, à moins que le sac gonflable ne soit désactivé,
-		- **(ii)** dans tout autre cas, ne pas installer un ensemble de retenue pour bébé ou pour enfant face à l’arrière à cette place assise désignée;
-	- **b)** ne pas s’asseoir inutilement près du sac gonflable.
-
-- **(28)** Lorsque le véhicule est muni d’un sac gonflable à une place assise désignée, les versions française et anglaise du manuel de l’usager doivent comprendre :
-	- **a)** les instructions d’entretien et de remplacement du sac, si ce dernier doit faire l’objet d’un entretien ou d’un remplacement réguliers;
-	- **b)** une description du sac;
-	- **c)** les avertissements prévus au paragraphe (27);
-	- **d)** l’avertissement de ne pas placer d’objets sur le sac ou entre celui-ci et l’occupant;
-	- **e)** si le véhicule est muni d’un interrupteur manuel pour sac gonflable :
-		- **(i)** des instructions de fonctionnement de l’interrupteur,
-		- **(ii)** un énoncé portant que l’interrupteur n’est installé que pour utilisation lorsqu’un ensemble de retenue pour bébé ou pour enfant face à l’arrière est installé à une place assise désignée extérieure avant droite,
-		- **(iii)** un avertissement quant aux conséquences sur le plan sécuritaire de l’utilisation d’un interrupteur dans des situations autres que celles prévues au sous-alinéa (ii).
-
-#### Dispositif de diminution de tension
+#### Disposition transitoire
 
 
-- **(29)** Lorsqu’un véhicule d’un PNBV d’au plus 4 536 kg est muni, à une des places assises désignées, d’une ceinture de sécurité manuelle de type 2 dotée d’un dispositif de diminution de tension qui permet de donner du mou à la sangle de la ceinture-baudrier, le véhicule doit être muni d’un dispositif qui supprime automatiquement le mou de la ceinture-baudrier :
-	- **a)** soit lorsque la patte de bouclage est dégagée de l’attache;
-	- **b)** soit lorsqu’est ouverte :
-		- **(i)** la porte la plus près de cette place, dans le cas où la ceinture est installée à une place assise désignée extérieure avant ou arrière,
-		- **(ii)** l’une ou l’autre des portes qui permettrait normalement au passager assis à cette place de sortir du véhicule, dans le cas où la ceinture est installée à toute autre place assise désignée.
-
-- **(30)** Les versions française et anglaise du manuel de l’usager du véhicule visé au paragraphe (29) doivent :
-	- **a)** expliquer le fonctionnement du dispositif de diminution de tension;
-	- **b)** indiquer le mou maximal, en millimètres, qui peut être donné à la ceinture-baudrier dans des conditions normales d’utilisation selon les recommandations du fabricant;
-	- **c)** avertir l’utilisateur que le fait de dépasser les limites de mou recommandées peut réduire considérablement l’efficacité de la ceinture de sécurité en cas de collision.
-
-- **(31)** Malgré le paragraphe (29), le dispositif de diminution de tension peut être désengagé manuellement, dans le cas d’un véhicule de type ouvert sans portes.
-
-- **(32)** Dans tout véhicule mis à l’essai conformément au paragraphe (23) qui est muni, à une place assise désignée extérieure avant, d’une ceinture de sécurité dotée d’un dispositif de diminution de tension qui permet de donner du mou à la sangle de la ceinture-baudrier, la sangle doit être réglée de façon à donner le mou maximal qui est recommandé dans le manuel de l’usager pour des conditions normales d’utilisation ou, si rien n’est recommandé à cet égard dans le manuel, à donner tout le mou possible.
-
-#### Accessibilité des ceintures de sécurité
-
-
-- **(33)** Lorsqu’elle est en position normale de rangement et qu’elle est située du côté extérieur d’une place assise désignée extérieure avant, la patte de bouclage de toute ceinture de sécurité doit se trouver à l’intérieur de la zone de manoeuvre du bras côté intérieur ou du bras côté extérieur, laquelle zone est obtenue conformément à la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996).
-
-- **(34)** Le dégagement entre le siège d’une place assise désignée extérieure avant et le côté intérieur du véhicule doit être suffisant pour permettre au gabarit de dégagement ayant les dimensions indiquées à la figure 2 de la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996), d’atteindre sans obstacle la patte de bouclage ou l’attache de la ceinture de sécurité située du côté extérieur de la place assise désignée extérieure avant.
-
-- **(35)** La sangle de la ceinture-baudrier et de la ceinture sous-abdominale installées à une place assise désignée extérieure avant qui est mise à l’essai conformément au présent article, selon les conditions prévues à l’article 5 de la Méthode d’essai 208 — Systèmes de retenue des occupants en cas de collision frontale (décembre 1996), doit automatiquement retourner à la position de rangement :
-	- **a)** dans le cas d’un véhicule sans portes muni :
-		- **(i)** d’une ceinture de sécurité non dotée d’un dispositif de diminution de tension, lorsque la patte de bouclage de la ceinture de sécurité est dégagée,
-		- **(ii)** d’une ceinture de sécurité dotée d’un dispositif de diminution de tension, lorsque ce dispositif est désengagé;
-	- **b)** dans tout autre cas, lorsque la patte de bouclage de la ceinture de sécurité est dégagée et que la porte adjacente du véhicule est ouverte ou fermée.
-
-- **(36)** La position de rangement de toute ceinture de sécurité des véhicules munis de portes doit être telle qu’aucune partie de la ceinture de sécurité ne se coince au moment de la fermeture de la porte adjacente.
-
-- **(37)** Dans le cas d’une ceinture de sécurité dont la sangle traverse le coussin du siège ou passe entre le coussin et le dossier du siège :
-	- **a)** l’une des parties suivantes, soit la patte de bouclage, l’attache ou la sangle de la ceinture de sécurité, doit être maintenue sur le dessus du coussin ou au-dessus de celui-ci, dans des conditions normales;
-	- **b)** les deux autres parties de la ceinture de sécurité doivent être maintenues à portée de la main, dans des conditions normales.
-
-- **(38)** Le paragraphe (37) ne s’applique pas dans les cas suivants :
-	- **a)** les coussins du siège peuvent être déplacés et leur déplacement, conjugué à celui du dossier, permet d’utiliser le dossier à une fin autre que pour s’asseoir;
-	- **b)** les sièges s’enlèvent;
-	- **c)** les sièges peuvent être déplacés de façon que l’espace qu’ils occupent habituellement serve à une fin autre que pour s’asseoir.
-
-- **(39)** L’attache et la patte de bouclage visées au paragraphe (37) ne doivent pas traverser le guide ou le conduit de la sangle de la ceinture de sécurité, ni tomber derrière le siège lorsque la ceinture est rentrée complètement ou, si elle est non rétractable, lorsqu’elle n’est pas bouclée, et que :
-	- **a)** d’une part, le siège est réglé à une des positions pour lesquelles il est conçu;
-	- **b)** d’autre part, le dossier, s’il est inclinable, est incliné au maximum vers l’avant à partir de la position assise nominale recommandée par le fabricant, puis ramené dans sa position initiale.
-
-- **(40)** L’attache du côté intérieur d’une ceinture de sécurité installée à une place assise désignée extérieure avant doit être à portée de la main, sans qu’il soit nécessaire de déplacer l’accoudoir central, quelle que soit la position de celui-ci.
-
-#### Dispositions transitoires
-
-
-- **(41)** Les camions, autobus et véhicules de tourisme à usages multiples d’un PNBV d’au plus 3 856 kg et d’un poids du véhicule sans charge d’au plus 2 495 kg construits avant le 1<sup>er</sup> septembre 1998 ne doivent pas nécessairement être conformes aux exigences du paragraphe (21).
-
-- **(42)** Les voitures de tourisme construites avant le 1<sup>er</sup> septembre 1998 ne doivent pas nécessairement être conformes aux exigences de l’alinéa (22)b).
-
-- **(43)** Les voitures de tourisme construites avant le 1<sup>er</sup> septembre 1999 ainsi que les camions, autobus et véhicules de tourisme à usages multiples d’un PNBV d’au plus 3 856 kg et d’un poids du véhicule sans charge d’au plus 2 495 kg construits le 1<sup>er</sup> septembre 1998 ou après cette date et avant le 1<sup>er</sup> septembre 2000 ne doivent pas nécessairement être conformes aux exigences de l’alinéa (22)c) si, au cours de l’essai visé au paragraphe (23), le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai ne dépasse pas 65 mm par rapport à la colonne vertébrale dans la partie supérieure du thorax.
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F)..
+- **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6..
 
 
 
@@ -6418,22 +6378,12 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 **212** 
 
-- **(1)** Le présent article ne s’applique pas
-	- **a)** aux camions, véhicules de tourisme à usages multiples et autobus d’un PNBV supérieur à 4 536 kg;
-	- **b)** aux véhicules à cabine avancée, aux fourgons à accès en position debout ou aux véhicules de type ouvert à pare-brise rabattable ou amovible.
+- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 212 — Cadre de pare-brise (DNT 212), avec ses modifications successives.
 
-- **(2)** Tout véhicule auquel le présent article s’applique doit être mis à l’essai de la façon suivante :
-	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, il heurte une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec son axe de déplacement;
-	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
+- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 212, avec ses modifications successives.
 
-- **(3)** Lors de la mise à l’essai visée au paragraphe (2), le véhicule doit retenir :
-	- **a)** s’il est muni d’un sac gonflable à une place assise désignée avant, au moins 50 % de la périphérie du pare-brise, de chaque côté de l’axe longitudinal du véhicule;
-	- **b)** s’il n’est pas muni d’un sac gonflable à une place assise désignée avant, au moins 75 % de la périphérie du pare-brise.
-
-- **(4)** La mise à l’essai visée au paragraphe (2) doit être effectuée sur le cadre du pare-brise et toutes les pièces du véhicule en contact direct avec le cadre, à une température qui est d’au moins –9 °C mais d’au plus 43 °C.
-
-- **(5) à (8)** [Abrogés, DORS/2009-121, art. 3]
-> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3..
+- **(3)** Le présent article cesse d’avoir effet le 31 octobre 2017.
+> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7..
 
 
 
@@ -6829,51 +6779,12 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 **219** 
 
-- **(1)** Les définitions qui suivent s’applique au présent article.
+- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 219 — Pénétration de la zone du pare-brise (DNT 219), avec ses modifications successives.
 
-***gabarit de zone protégée*** Gabarit de styrofoam de type DB à cellules ouvertes, qui a les dimensions de la zone protégée. (*protected zone template*) 
+- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 219, avec ses modifications successives.
 
-***ouverture de jour*** ou ***OJ*** L’ouverture libre maximale de la surface vitrée, y compris les moulures d’encadrement ou de décoration adjacentes, mesurée parallèlement à la surface extérieure du vitrage. (*daylight opening*ou*DLO*)
-
-***zone protégée*** L’espace illustré à la figure du présent article et délimité conformément au paragraphe (6). (*protected zone*)
-
-- **(2)** Le présent article ne s’applique pas aux véhicules suivants :
-	- **a)** aux camions, véhicules de tourisme à usages multiples et autobus d’un PNBV supérieur à 4 536 kg;
-	- **b)** les véhicules de type à commande avancée, les fourgons à accès en position debout et les véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible.
-
-- **(3)** Tout véhicule auquel le présent article s’applique doit être mis à l’essai de la façon suivante :
-	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, il heurte une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec son axe de déplacement;
-	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
-
-- **(4)** Lors de la mise à l’essai visée au paragraphe (3), aucune des parties extérieures à l’habitacle du véhicule, à l’exception des moulures du pare-brise ou autres composantes conçues pour être normalement en contact avec le vitrage du pare-brise, ne doit pénétrer :
-	- **a)** le gabarit de la zone protégée du pare-brise au-delà de 6 mm de profondeur;
-	- **b)** la surface intérieure de la partie du vitrage du pare-brise qui se trouve dans l’OJ, au-dessous de la zone protégée du pare-brise.
-
-- **(5)** La limite inférieure de la zone protégée du pare-brise illustrée à la figure du présent article est déterminée de la manière suivante :
-	- **a)** une sphère rigide d’un diamètre de 165 mm et d’une masse de 6,8 kg est placée de manière à toucher à la fois la surface intérieure du vitrage du pare-brise et la surface du tableau de bord, y compris tout rembourrage; si les commandes de direction ou les autres accessoires et dispositifs empêchent la mise en place de la sphère, ils peuvent être enlevés pendant celle-ci;
-	- **b)** la ligne des points où la sphère, déplacée d’un côté à l’autre du tableau de bord, entre en contact avec la surface intérieure du vitrage du pare-brise est tirée et, à partir des points de contact les plus à l’extérieur, la ligne est prolongée horizontalement jusqu’aux bords du vitrage;
-	- **c)** une ligne sur la surface intérieure du vitrage du pare-brise est tirée à 13 mm au-dessous de la ligne tirée conformément à l’alinéa b);
-	- **d)** la ligne tirée conformément à l’alinéa c) est projetée longitudinalement sur la surface extérieure du vitrage du pare-brise, cette projection constituant la limite inférieure de la zone protégée du pare-brise.
-
-- **(6)** La zone protégée du pare-brise illustrée à la figure du présent article correspond à l’espace délimité par les éléments suivants :
-	- **a)** la surface extérieure du vitrage du pare-brise;
-	- **b)** le lieu des points extérieurs des perpendiculaires menées de chaque point de la surface extérieure du vitrage du pare-brise, ces points extérieurs étant situés à 76 mm de cette dernière;
-	- **c)** le lieu des lignes formant un angle de 45° avec la surface extérieure du vitrage du pare-brise à chaque point le long des bords supérieurs et latéraux de cette dernière et à chaque point de la limite inférieure de la zone protégée du pare-brise qui est déterminée selon le paragraphe (5), dans le plan perpendiculaire au bord en ce point.
-
-- **(7)** Pour l’application du paragraphe (6), l’expression ***surface extérieure du vitrage du pare-brise*** s’entend de sa configuration avant la mise à l’essai visée au paragraphe (3).
-
-- 
-<table>
-<tr>
-<td>
-> Image: Diagramme montrant la zone protégée du pare-brise avec mesures et descriptions
-Remarque : Le dessin n’est pas à l’échelle
-
-</td>
-</tr>
-</table>
-
-> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4..
+- **(3)** Le présent article cesse d’avoir effet le 31 octobre 2017.
+> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8..
 
 
 
