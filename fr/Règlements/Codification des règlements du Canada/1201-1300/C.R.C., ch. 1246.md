@@ -56,10 +56,14 @@ Autorités habilitantes :
 
 ***Tribunal de révision***[Abrogée, DORS/96-521, art. 1]
 
+- **(1.1)** Dans le présent règlement :
+	- **a)** la mention de « 60 ans » vaut mention de l’âge prévu à la colonne 2 du tableau figurant au paragraphe 2.2(1) de la Loi selon la période applicable indiquée à la colonne 1;
+	- **b)** la mention de « 65 ans » vaut mention de l’âge prévu à la colonne 2 du tableau figurant au paragraphe 2.2(2) de la Loi selon la période applicable indiquée à la colonne 1.
+
 - **(2)** Aux fins du présent règlement, la résidence et la présence à Terre-Neuve, avant la date de l’union de cette province au Canada, sont tenues respectivement pour résidence et présence au Canada.
 
 - **(3)** Pour l’application de la définition de ***fonctionnaire public*** au paragraphe 33(1) de la Loi, est désigné comme tel tout particulier employé dans une institution fédérale, ou dont les services sont requis par une institution fédérale, à titre occasionnel ou temporaire ou en vertu d’un programme d’embauche d’étudiants.
-> DORS/81-285, art. 1; DORS/89-269, art. 1; DORS/90-813, art. 1; DORS/96-521, art. 1; DORS/99-193, art. 1.
+> DORS/81-285, art. 1; DORS/89-269, art. 1; DORS/90-813, art. 1; DORS/96-521, art. 1; DORS/99-193, art. 1; DORS/2013-23, art. 1.
 
 
 
