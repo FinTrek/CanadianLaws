@@ -13321,9 +13321,15 @@ where
 - **(n)** Operation Boreas (Bosnia-Herzegovina - European Union Force);
 - **(o)** Operation Safari (Sudan - Kartoum);
 - **(p)** Operation Gladius (Golan Heights);
-- **(q)** Operation Augural (Ethiopia - Addis Ababa); and
-- **(r)** United Nations Mission in the Sudan - Civilian Policing Component (Sudan - Kartoum).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2008-49, s. 1.
+- **(q)** Operation Augural (Ethiopia - Addis Ababa);
+- **(r)** United Nations Mission in the Sudan - Civilian Policing Component (Sudan - Kartoum);
+- **(s)** Operation Caribbe (Curacao);
+- **(t)** Operation Kobold (Balkans – Pristina);
+- **(u)** Operation Saturn (Ethiopia – Addis Ababa);
+- **(v)** Operation Enduring Freedom (Kuwait);
+- **(w)** Seventh Airlift Squadron Operation (Kyrgyzstan); and
+- **(x)** Operation Slipper (United Arab Emirates).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2008-49, s. 1; SOR/2013-22, s. 1.
 
 
 
