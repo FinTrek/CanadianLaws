@@ -13223,8 +13223,14 @@ où
 - **o)** Opération Safari (Soudan — Khartoum);
 - **p)** Opération Gladius (plateau du Golan);
 - **q)** Opération Augural (Éthiopie — Addis-Abeba);
-- **r)** Mission des Nations Unies au Soudan — Composante de police civile (Soudan — Khartoum).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2008-49, art. 1.
+- **r)** Mission des Nations Unies au Soudan — Composante de police civile (Soudan — Khartoum);
+- **s)** Opération Caribbe (Curaçao);
+- **t)** Opération Kobold (Balkans – Pristina);
+- **u)** Opération Saturn (Éthiopie – Addis-Abeba);
+- **v)** Opération Enduring Freedom (Koweït);
+- **w)** Opération du septième escadron de transport aérien (Kirghizistan);
+- **x)** Opération Slipper (Émirats arabes unis).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2008-49, art. 1; DORS/2013-22, art. 1.
 
 
 
