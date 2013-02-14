@@ -56,10 +56,14 @@ Enabling authorities:
 
 ***secretary***[Repealed, SOR/96-521, s. 1]
 
+- **(1.1)** In these Regulations,
+	- **(a)** a reference to the age of “60 years” is to be read for the applicable period set out in column 1 of the table to subsection 2.2(1) of the Act as a reference to the corresponding age in column 2; and
+	- **(b)** a reference to the age of “65 years” is to be read for the applicable period set out in column 1 of the table to subsection 2.2(2) of the Act as a reference to the corresponding age in column 2.
+
 - **(2)** For the purposes of these Regulations, residence and presence in Newfoundland prior to the date of union of Newfoundland with Canada are deemed to be residence and presence in Canada respectively.
 
 - **(3)** For the purpose of the definition ***public officer*** in subsection 33(1) of the Act, a prescribed individual is a person employed in a federal institution or whose services are required by a federal institution, on a casual or temporary basis or under a student employment program.
-> SOR/81-285, s. 1; SOR/89-269, s. 1; SOR/90-813, s. 1; SOR/96-521, s. 1; SOR/99-193, s. 1.
+> SOR/81-285, s. 1; SOR/89-269, s. 1; SOR/90-813, s. 1; SOR/96-521, s. 1; SOR/99-193, s. 1; SOR/2013-23, s. 1.
 
 
 
