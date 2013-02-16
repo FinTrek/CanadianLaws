@@ -24870,11 +24870,15 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-#### As at December 31, 2011
+#### As at December 31, 2012
 <table>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
+</tr>
+<tr>
+<td>B2B Bank</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of Montreal</td>
@@ -24933,6 +24937,10 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>ING Bank of Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Jameson Bank</td>
 <td>Ontario</td>
 </tr>
@@ -24970,14 +24978,14 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette, Part I, Vol. 146, p. 360.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 147, page 208.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-#### As at December 31, 2011
+#### As at December 31, 2012
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -25040,10 +25048,6 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>ING Bank of Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>J.P. Morgan Bank Canada</td>
 <td>Ontario</td>
 </tr>
@@ -25057,10 +25061,6 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Mega International Commercial Bank (Canada)</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Royal Bank of Scotland (Canada) (The)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25089,26 +25089,20 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 146, page 360.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 147, page 208.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-#### As at December 31, 2011
+#### As at December 31, 2012
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
 <th>Name under which FB is permitted to carry on business in Canada</th>
 <th>Type of Foreign Bank Branch (FBB)<sup><a href='#c54_SchIII_e'>[*]</a></sup></th>
 <th>Principal Office</th>
-</tr>
-<tr>
-<td>Allied Irish Banks, p.l.c.</td>
-<td>Allied Irish Banks, p.l.c.</td>
-<td>Lending</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
@@ -25163,12 +25157,6 @@ together with such other information about the background, business record and e
 <td>Deutsche Bank AG</td>
 <td>Full-service</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>Dexia Crédit Local S.A.</td>
-<td>Dexia Crédit Local S.A.</td>
-<td>Full-service</td>
-<td>Quebec</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
@@ -25282,6 +25270,6 @@ together with such other information about the background, business record and e
 
 
 <a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 146, p. 360.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 147, page 208.
 
 
