@@ -24493,11 +24493,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-#### au 31 décembre 2011
+#### au 31 décembre 2012
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
+</tr>
+<tr>
+<td>B2B Banque</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque de Montréal</td>
@@ -24556,6 +24560,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque ING du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Jameson Bank</td>
 <td>Ontario</td>
 </tr>
@@ -24593,14 +24601,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-#### au 31 décembre 2011
+#### au 31 décembre 2012
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -24663,10 +24671,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque ING du Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Banque J.P. Morgan Canada</td>
 <td>Ontario</td>
 </tr>
@@ -24680,10 +24684,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque Internationale de Commerce Mega (Canada)</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Royal Bank of Scotland (Canada) (The)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24712,26 +24712,20 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-#### au 31 décembre 2011
+#### au 31 décembre 2012
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
 <th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
 <th>Bureau principal</th>
-</tr>
-<tr>
-<td>Allied Irish Banks, p.l.c.</td>
-<td>Allied Irish Banks, p.l.c.</td>
-<td>Prêt</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
@@ -24786,12 +24780,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Deutsche Bank AG</td>
 <td>Services complets</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>Dexia Crédit Local S.A.</td>
-<td>Dexia Crédit Local S.A.</td>
-<td>Services complets</td>
-<td>Québec</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
@@ -24904,7 +24892,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </table>
 
 
-<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
+<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
 
 
