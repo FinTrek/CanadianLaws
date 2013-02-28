@@ -421,7 +421,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Examen**
 
-**28** Par dérogation aux articles 122 et 123 de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md), la Commission nationale des libérations conditionnelles n'est pas tenue d'examiner le dossier du délinquant canadien avant l'expiration d'un délai de six mois suivant la date de son transfèrement au Canada.
+**28** Par dérogation aux articles 122 et 123 de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md), la Commission des libérations conditionnelles du Canada n’est pas tenue d’examiner le dossier du délinquant canadien avant l’expiration d’un délai de six mois suivant la date de son transfèrement au Canada.
+> 2004, ch. 21, art. 28; 2012, ch. 1, art. 160.
+
 
 
 
