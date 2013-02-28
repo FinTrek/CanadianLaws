@@ -429,7 +429,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Review by Board**
 
-**28** Despite sections 122 and 123 of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md), the National Parole Board is not required to review the case of a Canadian offender until six months after the day of their transfer.
+**28** Despite sections 122 and 123 of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md), the Parole Board of Canada is not required to review the case of a Canadian offender until six months after the day of their transfer.
+> 2004, c. 21, s. 28; 2012, c. 1, s. 160.
+
 
 
 
