@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***délinquant*** Détenu ou personne qui se trouve à l’extérieur du pénitencier par suite d’une libération conditionnelle ou d’office, ou en vertu d’une entente visée au paragraphe 81(1) ou d’une ordonnance du tribunal.
 
 ***détenu*** Personne qui, selon le cas :
-- **a)** se trouve dans un pénitencier par suite d’une condamnation, d’un ordre d’incarcération, d’un transfèrement ou encore d’une condition imposée par la Commission nationale des libérations conditionnelles dans le cadre de la semi-liberté ou de la libération d’office;
+- **a)** se trouve dans un pénitencier par suite d’une condamnation, d’un ordre d’incarcération, d’un transfèrement ou encore d’une condition imposée par la Commission des libérations conditionnelles du Canada dans le cadre de la semi-liberté ou de la libération d’office;
 - **b)** après avoir été condamnée ou transférée au pénitencier, en est provisoirement absente soit parce qu’elle bénéficie d’une permission de sortir ou d’un placement à l’extérieur en vertu de la présente loi, soit pour d’autres raisons — à l’exception de la libération conditionnelle ou d’office — mais sous la supervision d’un agent ou d’une personne autorisée par le Service.
 
 ***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause.
@@ -98,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52 et 196
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, 160 et 196
 
 
 
@@ -136,7 +136,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes de fonctionnement**
 
 **4** Le Service est guidé, dans l’exécution du mandat visé à l’article 3, par les principes suivants :
-- **a)** l’exécution de la peine tient compte de toute information pertinente dont le Service dispose, notamment les motifs et recommandations donnés par le juge qui l’a prononcée, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine ou fournis par les victimes, les délinquants ou d’autres éléments du système de justice pénale, ainsi que les directives ou observations de la Commission nationale des libérations conditionnelles en ce qui touche la libération;
+- **a)** l’exécution de la peine tient compte de toute information pertinente dont le Service dispose, notamment les motifs et recommandations donnés par le juge qui l’a prononcée, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine ou fournis par les victimes, les délinquants ou d’autres éléments du système de justice pénale, ainsi que les directives ou observations de la Commission des libérations conditionnelles du Canada en ce qui touche la libération;
 - **b)** il accroît son efficacité et sa transparence par l’échange, au moment opportun, de renseignements utiles avec les victimes, les délinquants et les autres éléments du système de justice pénale ainsi que par la communication de ses directives d’orientation générale et programmes correctionnels tant aux victimes et aux délinquants qu’au public;
 - **c)** il prend les mesures qui, compte tenu de la protection de la société, des agents et des délinquants, ne vont pas au-delà de ce qui est nécessaire et proportionnel aux objectifs de la présente loi;
 - **d)** le délinquant continue à jouir des droits reconnus à tout citoyen, sauf de ceux dont la suppression ou la restriction légitime est une conséquence nécessaire de la peine qui lui est infligée;
@@ -145,7 +145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** ses directives d’orientation générale, programmes et pratiques respectent les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tiennent compte des besoins propres aux femmes, aux autochtones, aux personnes nécessitant des soins de santé mentale et à d’autres groupes;
 - **h)** il est attendu que les délinquants observent les règlements pénitentiaires et les conditions d’octroi des permissions de sortir, des placements à l’extérieur, des libérations conditionnelles ou d’office et des ordonnances de surveillance de longue durée et participent activement à la réalisation des objectifs énoncés dans leur plan correctionnel, notamment les programmes favorisant leur réadaptation et leur réinsertion sociale;
 - **i)** il veille au bon recrutement et à la bonne formation de ses agents, leur offre de bonnes conditions de travail dans un milieu exempt de pratiques portant atteinte à la dignité humaine, un plan de carrière avec la possibilité de se perfectionner ainsi que l’occasion de participer à l’élaboration des directives d’orientation générale et programmes correctionnels.
-> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54
+> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54 et 160
 
 
 
@@ -524,7 +524,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **25** 
 
-- **(1)** Aux moments opportuns, le Service est tenu de communiquer à la Commission nationale des libérations conditionnelles, aux gouvernements provinciaux, aux commissions provinciales de libération conditionnelle, à la police et à tout organisme agréé par le Service en matière de surveillance de délinquants les renseignements pertinents dont il dispose soit pour prendre la décision de les mettre en liberté soit pour leur surveillance.
+- **(1)** Aux moments opportuns, le Service est tenu de communiquer à la Commission des libérations conditionnelles du Canada, aux gouvernements provinciaux, aux commissions provinciales de libération conditionnelle, à la police et à tout organisme agréé par le Service en matière de surveillance de délinquants les renseignements pertinents dont il dispose soit pour prendre la décision de les mettre en liberté soit pour leur surveillance.
 
 **Préavis à la police**
 
@@ -533,7 +533,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Renseignements à communiquer à la police**
 
 - **(3)** S’il a des motifs raisonnables de croire que le détenu en instance de libération du fait de l’expiration de sa peine constituera une menace pour une autre personne, le Service est tenu, en temps utile avant la libération du détenu, de communiquer à la police les renseignements qu’il détient à cet égard.
-> 1992, ch. 20, art. 25; 1995, ch. 42, art. 71(F)
+> 1992, ch. 20, art. 25; 1995, ch. 42, art. 71(F); 2012, ch. 1, art. 160
 
 
 
@@ -1687,53 +1687,53 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***commissaire*** S’entend au sens de la partie I. 
+***commissaire*** S’entend au sens de la partie I. (*Commissioner*)
 
-***Commission*** La Commission nationale des libérations conditionnelles visée à l’article 103. Y sont assimilées les commissions provinciales en ce qui a trait à l’exercice de la compétence que leur attribue l’article 112 et aux dispositions qui leur ont été rendues applicables en vertu de l’article 113. 
+***Commission*** La Commission des libérations conditionnelles du Canada visée à l’article 103. Y sont assimilées les commissions provinciales en ce qui a trait à l’exercice de la compétence que leur attribue l’article 112 et aux dispositions qui leur ont été rendues applicables en vertu de l’article 113. (*Board*)
 
-***commission provinciale*** La Commission ontarienne des libérations conditionnelles, la Commission québécoise des libérations conditionnelles, la commission de la libération conditionnelle de la Colombie-Britannique ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province. 
+***commission provinciale*** La Commission ontarienne des libérations conditionnelles, la Commission québécoise des libérations conditionnelles, la commission de la libération conditionnelle de la Colombie-Britannique ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province. (*provincial parole board*)
 
-***date de libération d’office*** Date calculée en conformité avec l’article 127. 
+***date de libération d’office*** Date calculée en conformité avec l’article 127. (*statutory release date*)
 
 ***délinquant***
-- **a)** Individu condamné — autre qu’un adolescent au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  —, avant ou après l’entrée en vigueur du présent article, à une peine d’emprisonnement :
+- **a)** Individu condamné — autre qu’un adolescent au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) —, avant ou après l’entrée en vigueur du présent article, à une peine d’emprisonnement :
 	- **(i)** soit en application d’une loi fédérale ou d’une loi provinciale dans la mesure applicable aux termes de la présente partie,
 	- **(ii)** soit à titre de sanction d’un outrage au tribunal en matière civile ou pénale lorsque le délinquant n’est pas requis par une condition de sa sentence de retourner devant ce tribunal;
 - **b)** adolescent, au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) , qui a fait l’objet d’une ordonnance, d’une détention ou d’un ordre visés aux articles 76, 89, 92 ou 93 de cette loi.
 
-La présente définition ne vise toutefois pas la personne qui, en application de l’article 732 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),  purge une peine de façon discontinue.
+La présente définition ne vise toutefois pas la personne qui, en application de l’article 732 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), purge une peine de façon discontinue. (*offender*)
 
-***dommage grave*** Dommage corporel ou moral grave. 
+***dommage grave*** Dommage corporel ou moral grave. (*serious harm*)
 
-***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3). 
+***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3). (*community-based residential facility*)
 
-***jour ouvrable*** S’entend au sens de la partie I.
+***jour ouvrable*** S’entend au sens de la partie I. (*working day*)
 
-***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté. 
+***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté. (*parole*)
 
-***libération conditionnelle totale*** Régime accordé sous l’autorité de la Commission ou d’une commission provinciale et permettant au délinquant qui en bénéficie d’être en liberté pendant qu’il purge sa peine. 
+***libération conditionnelle totale*** Régime accordé sous l’autorité de la Commission ou d’une commission provinciale et permettant au délinquant qui en bénéficie d’être en liberté pendant qu’il purge sa peine. (*full parole*)
 
-***libération d’office*** Mise en liberté sous surveillance, en conformité avec l’article 127, avant l’expiration de la peine que purge le détenu. 
+***libération d’office*** Mise en liberté sous surveillance, en conformité avec l’article 127, avant l’expiration de la peine que purge le détenu. (*statutory release*)
 
-***ministre*** S’entend au sens de la partie I. 
+***ministre*** S’entend au sens de la partie I. (*Minister*)
 
- ou ***peine*** ou ***peine d’emprisonnement*** S’entend au sens de la partie I. 
+***peine*** ou ***peine d’emprisonnement*** S’entend au sens de la partie I. (*sentence*)
 
-***pénitencier*** S’entend au sens de la partie I. 
+***pénitencier*** S’entend au sens de la partie I. (*penitentiary*)
 
-***permission de sortir sans escorte*** Mise en liberté d’une durée déterminée accordée en vertu de l’article 116. 
+***permission de sortir sans escorte*** Mise en liberté d’une durée déterminée accordée en vertu de l’article 116. (*unescorted temporary absence*)
 
- ou ***règlement*** ou ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. 
+***règlement*** ou ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. (*regulations*)
 
-***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre chaque soir — ou à tout autre intervalle précisé — l’établissement résidentiel communautaire, le pénitencier, l’établissement correctionnel provincial ou tout autre lieu précisé. 
+***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre chaque soir — ou à tout autre intervalle précisé — l’établissement résidentiel communautaire, le pénitencier, l’établissement correctionnel provincial ou tout autre lieu précisé. (*day parole*)
 
-***Service*** S’entend au sens de la partie I. 
+***Service*** S’entend au sens de la partie I. (*Service*)
 
-***surveillance de longue durée*** S’entend au sens de la partie I. 
+***surveillance de longue durée*** S’entend au sens de la partie I. (*long-term supervision*)
 
-***surveillant de liberté conditionnelle*** S’entend d’un agent au sens du paragraphe 2(1) ou de toute personne chargée par le Service d’orienter et de surveiller le délinquant.
+***surveillant de liberté conditionnelle*** S’entend d’un agent au sens du paragraphe 2(1) ou de toute personne chargée par le Service d’orienter et de surveiller le délinquant. (*parole supervisor*)
 
-***victime*** S’entend au sens de la partie I. 
+***victime*** S’entend au sens de la partie I. (*victim*)
 
 **Mention de l’expiration légale de la peine**
 
@@ -1745,7 +1745,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70 et 197
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70, 160 et 197
 
 
 
@@ -3790,14 +3790,16 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Restrictions**
 
-- **(2)** Dans l’exercice de ses attributions, l’enquêteur correctionnel n’est pas habilité à enquêter sur :
-	- **a)** une décision, une recommandation, un acte ou une omission qui provient soit de la Commission nationale des libérations conditionnelles et résulte de l’exercice de la compétence exclusive que lui confère la présente loi soit d’une commission provinciale agissant dans l’exercice de sa compétence exclusive;
+- **(2)** Dans l’exercice de ses attributions, l’enquêteur correctionnel n’est pas habilité à enquêter sur :
+	- **a)** une décision, une recommandation, un acte ou une omission qui provient soit de la Commission des libérations conditionnelles du Canada et résulte de l’exercice de la compétence exclusive que lui confère la présente loi soit d’une commission provinciale agissant dans l’exercice de sa compétence exclusive;
 	- **b)** les problèmes d’un délinquant qui sont liés à son incarcération dans un établissement correctionnel provincial, que l’incarcération découle ou non d’une entente conclue entre le gouvernement fédéral et celui de la province où la prison est située;
 	- **c)** une décision, une recommandation, un acte ou une omission d’un fonctionnaire provincial qui, au titre d’une entente conclue entre le gouvernement fédéral et celui de la province, surveille un délinquant qui bénéficie d’une permission de sortir, de la libération conditionnelle ou d’office ou de la liberté surveillée, si la question a déjà été, est ou doit être étudiée par le protecteur du citoyen de cette province.
 
 **Exception**
 
 - **(3)** Par dérogation à l’alinéa (2)b), l’enquêteur correctionnel peut, dans toute province qui n’a pas institué une commission des libérations conditionnelles, enquêter sur les problèmes des délinquants incarcérés dans un établissement correctionnel provincial en ce qui touche la préparation de leur dossier en vue d’une libération conditionnelle, faite par une personne qui agit sous l’autorité du commissaire ou exerce des fonctions en son nom.
+> 1992, ch. 20, art. 167; 2012, ch. 1, art. 160
+
 
 
 
@@ -3918,9 +3920,11 @@ Il est alors autorisé à faire prêter serment.
 
 **Information sur l’existence d’un problème**
 
-**177** Dans le cas où, après avoir fait une enquête, l’enquêteur correctionnel détermine qu’un des problèmes mentionnés à l’article 167 existe à l’égard d’un ou de plusieurs délinquants, il en fournit un rapport détaillé aux personnes suivantes :
+**177** Dans le cas où, après avoir fait une enquête, l’enquêteur correctionnel détermine qu’un des problèmes mentionnés à l’article 167 existe à l’égard d’un ou de plusieurs délinquants, il en fournit un rapport détaillé aux personnes suivantes :
 - **a)** le commissaire;
-- **b)** le commissaire et le président de la Commission nationale des libérations conditionnelles lorsque le problème provient de l’exercice d’un pouvoir délégué par celui-ci à une personne sous l’autorité de celui-là.
+- **b)** le commissaire et le président de la Commission des libérations conditionnelles du Canada lorsque le problème provient de l’exercice d’un pouvoir délégué par celui-ci à une personne sous l’autorité de celui-là.
+> 1992, ch. 20, art. 177; 2012, ch. 1, art. 160
+
 
 
 
@@ -3929,18 +3933,20 @@ Il est alors autorisé à faire prêter serment.
 
 **178** 
 
-- **(1)** L’enquêteur correctionnel ajoute son opinion motivée au rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission nationale des libérations conditionnelles, lorsque le problème mentionné à l’article 167 provient d’une décision, d’une recommandation, d’un acte ou d’une omission qu’il estime :
+- **(1)** L’enquêteur correctionnel ajoute son opinion motivée au rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission des libérations conditionnelles du Canada, lorsque le problème mentionné à l’article 167 provient d’une décision, d’une recommandation, d’un acte ou d’une omission qu’il estime :
 	- **a)** apparemment contraires à la loi ou à une ligne de conduite établie;
 	- **b)** déraisonnables, injustes, oppressants, abusivement discriminatoires ou qui résultent de l’application d’une règle de droit, d’une disposition législative, d’une pratique ou d’une ligne de conduite qui est ou peut être déraisonnable, injuste, oppressante ou abusivement discriminatoire;
 	- **c)** fondés en tout ou en partie sur une erreur de droit ou de fait.
 
 **Opinion sur l’exercice du pouvoir discrétionnaire**
 
-- **(2)** L’enquêteur correctionnel ajoute son opinion motivée au rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission nationale des libérations conditionnelles, lorsque le problème mentionné à l’article 167 provient d’une décision, d’une recommandation, d’un acte ou d’une omission et qu’il estime qu’un pouvoir discrétionnaire a été exercé à cette occasion, selon le cas :
+- **(2)** L’enquêteur correctionnel ajoute son opinion motivée au rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission des libérations conditionnelles du Canada, lorsque le problème mentionné à l’article 167 provient d’une décision, d’une recommandation, d’un acte ou d’une omission et qu’il estime qu’un pouvoir discrétionnaire a été exercé à cette occasion, selon le cas :
 	- **a)** à des fins irrégulières;
 	- **b)** pour des motifs non pertinents;
 	- **c)** compte tenu de considérations non pertinentes;
 	- **d)** sans fourniture de motifs.
+> 1992, ch. 20, art. 178; 2012, ch. 1, art. 160
+
 
 
 
@@ -3949,11 +3955,11 @@ Il est alors autorisé à faire prêter serment.
 
 **179** 
 
-- **(1)** À l’occasion du rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission nationale des libérations conditionnelles, l’enquêteur correctionnel peut faire les recommandations qu’il estime indiquées.
+- **(1)** À l’occasion du rapport qu’il remet au commissaire, ou à celui-ci et au président de la Commission des libérations conditionnelles du Canada, l’enquêteur correctionnel peut faire les recommandations qu’il estime indiquées.
 
 **Recommandations relatives à une décision, une recommandation, etc.**
 
-- **(2)** L’enquêteur correctionnel peut, dans les recommandations qu’il formule à l’égard d’une décision, d’une recommandation, d’un acte ou d’une omission visés au paragraphe 167(1), recommander notamment que :
+- **(2)** L’enquêteur correctionnel peut, dans les recommandations qu’il formule à l’égard d’une décision, d’une recommandation, d’un acte ou d’une omission visés au paragraphe 167(1), recommander notamment que :
 	- **a)** la décision, la recommandation, l’acte ou l’omission soient motivés;
 	- **b)** la décision, la recommandation, l’acte ou l’omission soient référés à l’autorité compétente pour réexamen;
 	- **c)** la décision ou la recommandation soient annulées ou modifiées;
@@ -3962,14 +3968,18 @@ Il est alors autorisé à faire prêter serment.
 
 **Non-assujettissement aux recommandations**
 
-- **(3)** Le commissaire et le président de la Commission nationale des libérations conditionnelles ne sont pas liés par les conclusions ou les recommandations formulées sous le régime du présent article.
+- **(3)** Le commissaire et le président de la Commission des libérations conditionnelles du Canada ne sont pas liés par les conclusions ou les recommandations formulées sous le régime du présent article.
+> 1992, ch. 20, art. 179; 2012, ch. 1, art. 160
+
 
 
 
 
 **Avis et rapport au ministre**
 
-**180** Si aucune action, qui semble à l’enquêteur correctionnel convenable et indiquée, n’est entreprise dans un délai raisonnable après la remise du rapport au commissaire, ou à celui-ci et au président de la Commission nationale des libérations conditionnelles, l’enquêteur correctionnel informe le ministre de ce fait et lui fournit les renseignements donnés à l’origine au commissaire, ou à celui-ci et au président de la Commission.
+**180** Si aucune action, qui semble à l’enquêteur correctionnel convenable et indiquée, n’est entreprise dans un délai raisonnable après la remise du rapport au commissaire, ou à celui-ci et au président de la Commission des libérations conditionnelles du Canada, l’enquêteur correctionnel informe le ministre de ce fait et lui fournit les renseignements donnés à l’origine au commissaire, ou à celui-ci et au président de la Commission.
+> 1992, ch. 20, art. 180; 2012, ch. 1, art. 160
+
 
 
 
