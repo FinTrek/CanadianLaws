@@ -58,7 +58,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***inmate*** means
 - **(a)** a person who is in a penitentiary pursuant to
 	- **(i)** a sentence, committal or transfer to penitentiary, or
-	- **(ii)** a condition imposed by the National Parole Board in connection with day parole or statutory release, or
+	- **(ii)** a condition imposed by the Parole Board of Canada in connection with day parole or statutory release, or
 - **(b)** a person who, having been sentenced, committed or transferred to penitentiary,
 	- **(i)** is temporarily outside penitentiary by reason of a temporary absence or work release authorized under this Act, or
 	- **(ii)** is temporarily outside penitentiary for reasons other than a temporary absence, work release, parole or statutory release, but is under the direction or supervision of a staff member or of a person authorized by the Service;
@@ -115,7 +115,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 196
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 160, 196
 
 
 
@@ -155,7 +155,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Principles that guide Service**
 
 **4** The principles that guide the Service in achieving the purpose referred to in section 3 are as follows:
-- **(a)** the sentence is carried out having regard to all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process, the release policies of and comments from the National Parole Board and information obtained from victims, offenders and other components of the criminal justice system;
+- **(a)** the sentence is carried out having regard to all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process, the release policies of and comments from the Parole Board of Canada and information obtained from victims, offenders and other components of the criminal justice system;
 - **(b)** the Service enhances its effectiveness and openness through the timely exchange of relevant information with victims, offenders and other components of the criminal justice system and through communication about its correctional policies and programs to victims, offenders and the public;
 - **(c)** the Service uses measures that are consistent with the protection of society, staff members and offenders and that are limited to only what is necessary and proportionate to attain the purposes of this Act;
 - **(d)** offenders retain the rights of all members of society except those that are, as a consequence of the sentence, lawfully and necessarily removed or restricted;
@@ -167,7 +167,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(i)** appropriate career development opportunities,
 	- **(ii)** good working conditions, including a workplace environment that is free of practices that undermine a person’s sense of personal dignity, and
 	- **(iii)** opportunities to participate in the development of correctional policies and programs.
-> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F); 2012, c. 1, s. 54
+> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F); 2012, c. 1, ss. 54, 160
 
 
 
@@ -567,7 +567,7 @@ that is attributable to the participation of that inmate or person in an approve
 
 **25** 
 
-- **(1)** The Service shall give, at the appropriate times, to the National Parole Board, provincial governments, provincial parole boards, police, and any body authorized by the Service to supervise offenders, all information under its control that is relevant to release decision-making or to the supervision or surveillance of offenders.
+- **(1)** The Service shall give, at the appropriate times, to the Parole Board of Canada, provincial governments, provincial parole boards, police, and any body authorized by the Service to supervise offenders, all information under its control that is relevant to release decision-making or to the supervision or surveillance of offenders.
 
 **Police to be notified of releases**
 
@@ -576,7 +576,7 @@ that is attributable to the participation of that inmate or person in an approve
 **Service to give information to police in some cases**
 
 - **(3)** Where the Service has reasonable grounds to believe that an inmate who is about to be released by reason of the expiration of the sentence will, on release, pose a threat to any person, the Service shall, prior to the release and on a timely basis, take all reasonable steps to give the police all information under its control that is relevant to that perceived threat.
-> 1992, c. 20, s. 25; 1995, c. 42, s. 71(F)
+> 1992, c. 20, s. 25; 1995, c. 42, s. 71(F); 2012, c. 1, s. 160
 
 
 
@@ -1840,55 +1840,55 @@ shall be carried out;
 
 - **(1)** In this Part,
 
-***Board*** means the National Parole Board continued by section 103 and includes a provincial parole board where it exercises jurisdiction in respect of parole as provided by section 112 or in respect of which any other provision of this Part is, by virtue of section 113, rendered applicable;
+***Board*** means the Parole Board of Canada continued by section 103 and includes a provincial parole board where it exercises jurisdiction in respect of parole as provided by section 112 or in respect of which any other provision of this Part is, by virtue of section 113, rendered applicable; (*Commission*)
 
-***Commissioner*** has the same meaning as in Part I;
+***Commissioner*** has the same meaning as in Part I; (*commissaire*)
 
-***community-based residential facility*** has the same meaning as in subsection 66(3);
+***community-based residential facility*** has the same meaning as in subsection 66(3); (*établissement résidentiel communautaire*)
 
-***day parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence in order to prepare the offender for full parole or statutory release, the conditions of which require the offender to return to a penitentiary, community-based residential facility, provincial correctional facility or other location each night or at another specified interval;
+***day parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence in order to prepare the offender for full parole or statutory release, the conditions of which require the offender to return to a penitentiary, community-based residential facility, provincial correctional facility or other location each night or at another specified interval; (*semi-liberté*)
 
-***full parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence;
+***full parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence; (*libération conditionnelle totale*)
 
-Version anglaise seulement***institutional head*** has the same meaning as in Part I;
+***institutional head*** has the same meaning as in Part I; (***Version anglaise seulement***)
 
-***long-term supervision*** has the same meaning as in Part I;
+***long-term supervision*** has the same meaning as in Part I; (*surveillance de longue durée*)
 
-***Minister*** has the same meaning as in Part I;
+***Minister*** has the same meaning as in Part I; (*ministre*)
 
-***offender*** means
+***offender*** means
 - **(a)** a person, other than a young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), who is under a sentence imposed before or after the coming into force of this section
 	- **(i)** pursuant to an Act of Parliament or, to the extent that this Part applies, pursuant to a provincial Act, or
 	- **(ii)** on conviction for criminal or civil contempt of court if the sentence does not include a requirement that the offender return to that court, or
 - **(b)** a young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) with respect to whom an order, committal or direction under section 76, 89, 92 or 93 of that Act has been made,
 
-but does not include a person whose only sentence is a sentence being served intermittently pursuant to section 732 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+but does not include a person whose only sentence is a sentence being served intermittently pursuant to section 732 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*délinquant*)
 
-***parole*** means full parole or day parole;
+***parole*** means full parole or day parole; (*libération conditionnelle*)
 
-***parole supervisor*** has the meaning assigned by the definition ***staff member*** in subsection 2(1) or means a person entrusted by the Service with the guidance and supervision of an offender;
+***parole supervisor*** has the meaning assigned by the definition ***staff member*** in subsection 2(1) or means a person entrusted by the Service with the guidance and supervision of an offender; (*surveillant de liberté conditionnelle*)
 
-***penitentiary*** has the same meaning as in Part I;
+***penitentiary*** has the same meaning as in Part I; (*pénitencier*)
 
-***provincial parole board*** means the Ontario Board of Parole, la Commission québécoise des libérations conditionnelles, the Board of Parole for the Province of British Columbia or any other parole board established by the legislature or the lieutenant governor in council of a province;
+***provincial parole board*** means the Ontario Board of Parole, la Commission québécoise des libérations conditionnelles, the Board of Parole for the Province of British Columbia or any other parole board established by the legislature or the lieutenant governor in council of a province; (*commission provinciale*)
 
- ou ***regulations*** means regulations made by the Governor in Council pursuant to section 156;
+***regulations*** means regulations made by the Governor in Council pursuant to section 156; (*règlement* ou *réglementaire*)
 
- ou ***sentence*** has the same meaning as in Part I;
+***sentence*** has the same meaning as in Part I; (*peine* ou *peine d’emprisonnement*)
 
-***serious harm*** means severe physical injury or severe psychological damage;
+***serious harm*** means severe physical injury or severe psychological damage; (*dommage grave*)
 
-***Service*** has the same meaning as in Part I;
+***Service*** has the same meaning as in Part I; (*Service*)
 
-***statutory release*** means release from imprisonment subject to supervision before the expiration of an offender’s sentence, to which an offender is entitled under section 127;
+***statutory release*** means release from imprisonment subject to supervision before the expiration of an offender’s sentence, to which an offender is entitled under section 127; (*libération d’office*)
 
-***statutory release date*** means the date determined in accordance with section 127;
+***statutory release date*** means the date determined in accordance with section 127; (*date de libération d’office*)
 
-***unescorted temporary absence*** means an unescorted temporary absence from penitentiary authorized under section 116;
+***unescorted temporary absence*** means an unescorted temporary absence from penitentiary authorized under section 116; (*permission de sortir sans escorte*)
 
-***victim*** has the same meaning as in Part I;
+***victim*** has the same meaning as in Part I; (*victime*)
 
-***working day*** has the same meaning as in Part I.
+***working day*** has the same meaning as in Part I. (*jour ouvrable*)
 
 **References to expiration of sentence**
 
@@ -1902,7 +1902,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(3)** Except as otherwise provided by this Part or by the regulations,
 	- **(a)** powers, duties and functions assigned to the Commissioner by or pursuant to this Part may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions assigned to the institutional head by or pursuant to this Part may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, ss. 70, 197
+> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, ss. 70, 160, 197
 
 
 
@@ -4012,7 +4012,7 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 
 - **(2)** In performing the function referred to in subsection (1), the Correctional Investigator may not investigate
 	- **(a)** any decision, recommendation, act or omission of
-		- **(i)** the National Parole Board in the exercise of its exclusive jurisdiction under this Act, or
+		- **(i)** the Parole Board of Canada in the exercise of its exclusive jurisdiction under this Act, or
 		- **(ii)** any provincial parole board in the exercise of its exclusive jurisdiction;
 	- **(b)** any problem of an offender related to the offender’s confinement in a provincial correctional facility, whether or not the confinement is pursuant to an agreement between the federal government and the government of the province in which the provincial correctional facility is located; and
 	- **(c)** any decision, recommendation, act or omission of an official of a province supervising, pursuant to an agreement between the federal government and the government of the province, an offender on temporary absence, parole, statutory release subject to supervision or mandatory supervision where the matter has been, is being or is going to be investigated by an ombudsman of that province.
@@ -4020,6 +4020,8 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 **Exception**
 
 - **(3)** Notwithstanding paragraph (2)(b), the Correctional Investigator may, in any province that has not appointed a provincial parole board, investigate the problems of offenders confined in provincial correctional facilities in that province related to the preparation of cases of parole by any person under the control and management of, or performing services for or on behalf of, the Commissioner.
+> 1992, c. 20, s. 167; 2012, c. 1, s. 160
+
 
 
 
@@ -4145,8 +4147,10 @@ and for that purpose may administer an oath.
 
 **177** Where, after conducting an investigation, the Correctional Investigator determines that a problem referred to in section 167 exists in relation to one or more offenders, the Correctional Investigator shall inform
 - **(a)** the Commissioner, or
-- **(b)** where the problem arises out of the exercise of a power delegated by the Chairperson of the National Parole Board to a person under the control and management of the Commissioner, the Commissioner and the Chairperson of the National Parole Board
+- **(b)** where the problem arises out of the exercise of a power delegated by the Chairperson of the Parole Board of Canada to a person under the control and management of the Commissioner, the Commissioner and the Chairperson of the Parole Board of Canada
 of the problem and the particulars thereof.
+> 1992, c. 20, s. 177; 2012, c. 1, s. 160
+
 
 
 
@@ -4159,7 +4163,7 @@ of the problem and the particulars thereof.
 	- **(a)** appears to have been contrary to law or to an established policy,
 	- **(b)** was unreasonable, unjust, oppressive or improperly discriminatory, or was in accordance with a rule of law or a provision of any Act or a practice or policy that is or may be unreasonable, unjust, oppressive or improperly discriminatory, or
 	- **(c)** was based wholly or partly on a mistake of law or fact,
-the Correctional Investigator shall indicate that opinion, and the reasons therefor, when informing the Commissioner, or the Commissioner and the Chairperson of the National Parole Board, as the case may be, of the problem.
+the Correctional Investigator shall indicate that opinion, and the reasons therefor, when informing the Commissioner, or the Commissioner and the Chairperson of the Parole Board of Canada, as the case may be, of the problem.
 
 **Opinion re exercise of discretionary power**
 
@@ -4168,7 +4172,9 @@ the Correctional Investigator shall indicate that opinion, and the reasons there
 	- **(b)** on irrelevant grounds,
 	- **(c)** on the taking into account of irrelevant considerations, or
 	- **(d)** without reasons having been given,
-the Correctional Investigator shall indicate that opinion, and the reasons therefor, when informing the Commissioner, or the Commissioner and the Chairperson of the National Parole Board, as the case may be, of the problem.
+the Correctional Investigator shall indicate that opinion, and the reasons therefor, when informing the Commissioner, or the Commissioner and the Chairperson of the Parole Board of Canada, as the case may be, of the problem.
+> 1992, c. 20, s. 178; 2012, c. 1, s. 160
+
 
 
 
@@ -4177,7 +4183,7 @@ the Correctional Investigator shall indicate that opinion, and the reasons there
 
 **179** 
 
-- **(1)** When informing the Commissioner, or the Commissioner and the Chairperson of the National Parole Board, as the case may be, of a problem, the Correctional Investigator may make any recommendation that the Correctional Investigator considers appropriate.
+- **(1)** When informing the Commissioner, or the Commissioner and the Chairperson of the Parole Board of Canada, as the case may be, of a problem, the Correctional Investigator may make any recommendation that the Correctional Investigator considers appropriate.
 
 **Recommendations in relation to decision, recommendation, etc.**
 
@@ -4190,14 +4196,18 @@ the Correctional Investigator shall indicate that opinion, and the reasons there
 
 **Recommendations not binding**
 
-- **(3)** Neither the Commissioner nor the Chairperson of the National Parole Board is bound to act on any finding or recommendation made under this section.
+- **(3)** Neither the Commissioner nor the Chairperson of the Parole Board of Canada is bound to act on any finding or recommendation made under this section.
+> 1992, c. 20, s. 179; 2012, c. 1, s. 160
+
 
 
 
 
 **Notice and report to Minister**
 
-**180** If, within a reasonable time after informing the Commissioner, or the Commissioner and the Chairperson of the National Parole Board, as the case may be, of a problem, no action is taken that seems to the Correctional Investigator to be adequate and appropriate, the Correctional Investigator shall inform the Minister of that fact and provide the Minister with whatever information was originally provided to the Commissioner, or the Commissioner and the Chairperson of the National Parole Board, as the case may be.
+**180** If, within a reasonable time after informing the Commissioner, or the Commissioner and the Chairperson of the Parole Board of Canada, as the case may be, of a problem, no action is taken that seems to the Correctional Investigator to be adequate and appropriate, the Correctional Investigator shall inform the Minister of that fact and provide the Minister with whatever information was originally provided to the Commissioner, or the Commissioner and the Chairperson of the Parole Board of Canada, as the case may be.
+> 1992, c. 20, s. 180; 2012, c. 1, s. 160
+
 
 
 
