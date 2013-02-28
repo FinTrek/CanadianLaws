@@ -2054,9 +2054,11 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Autorité compétente**
 
-- **(3)** Pour l’application du présent article, l’autorité compétente en matière de libération conditionnelle est :
+- **(3)** Pour l’application du présent article, l’autorité compétente en matière de libération conditionnelle est :
 	- **a)** dans le cas où l’adolescent aurait été assujetti au paragraphe 112(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md) n’eût été son placement dans un lieu de garde, la commission provinciale visée à ce paragraphe;
-	- **b)** dans tout autre cas, la Commission nationale des libérations conditionnelles.
+	- **b)** dans tout autre cas, la Commission des libérations conditionnelles du Canada.
+> 2002, ch. 1, art. 77; 2012, ch. 1, art. 160.
+
 
 
 
@@ -2105,11 +2107,11 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **82** 
 
-- **(1)** Sous réserve de l’article 12 (interrogatoire sur condamnations antérieures) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), la déclaration de culpabilité visant un adolescent est réputée n’avoir jamais existé dans le cas où soit le tribunal pour adolescents a ordonné l’absolution inconditionnelle de l’adolescent en vertu de l’alinéa 42(2)b), soit la peine spécifique imposée sous le régime de la présente loi, ainsi que toute décision rendue sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), à l’égard de l’infraction, à l’exception de l’ordonnance d’interdiction visée à l’article 51 (ordonnance d’interdiction obligatoire) de la présente loi ou à l’article 20.1 (ordonnance d’interdiction obligatoire) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ont cessé de produire leurs effets. Toutefois il demeure entendu que :
+- **(1)** Sous réserve de l’article 12 (interrogatoire sur condamnations antérieures) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), la déclaration de culpabilité visant un adolescent est réputée n’avoir jamais existé dans le cas où soit le tribunal pour adolescents a ordonné l’absolution inconditionnelle de l’adolescent en vertu de l’alinéa 42(2)b), soit la peine spécifique imposée sous le régime de la présente loi, ainsi que toute décision rendue sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), à l’égard de l’infraction, à l’exception de l’ordonnance d’interdiction visée à l’article 51 (ordonnance d’interdiction obligatoire) de la présente loi ou à l’article 20.1 (ordonnance d’interdiction obligatoire) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ont cessé de produire leurs effets. Toutefois il demeure entendu que :
 	- **a)** l’adolescent peut invoquer la défense d’autrefois convict à l’occasion de toute accusation subséquente se rapportant à l’infraction;
 	- **b)** le tribunal pour adolescents peut tenir compte de la déclaration de culpabilité lorsqu’il examine la demande visée au paragraphe 64(1) (demande d’assujettissement à la peine applicable aux adultes);
 	- **c)** tout tribunal ou juge de paix peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de mise en liberté provisoire par voie judiciaire ou lorsqu’il doit prononcer une peine à l’égard d’une infraction;
-	- **d)** la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md).
+	- **d)** la Commission des libérations conditionnelles du Canada ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md).
 
 **Fin de l’incapacité**
 
@@ -2117,7 +2119,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Demande d’emploi**
 
-- **(3)** Aucune question dont le libellé exige du postulant la révélation d’une accusation ou d’une déclaration de culpabilité concernant une infraction pour laquelle il a, sous le régime de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), obtenu une absolution inconditionnelle, purgé une peine spécifique imposée sous le régime de la présente loi ou fait l’objet d’une décision sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) ne peut figurer dans les formulaires de :
+- **(3)** Aucune question dont le libellé exige du postulant la révélation d’une accusation ou d’une déclaration de culpabilité concernant une infraction pour laquelle il a, sous le régime de la présente loi ou de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), obtenu une absolution inconditionnelle, purgé une peine spécifique imposée sous le régime de la présente loi ou fait l’objet d’une décision sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) ne peut figurer dans les formulaires de :
 	- **a)** demande d’emploi à tout ministère au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **b)** demande d’emploi à toute société d’État au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **c)** demande d’enrôlement dans les Forces canadiennes;
@@ -2125,10 +2127,10 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Inexistence de la matière de récidive**
 
-- **(4)** En cas de perpétration d’une infraction à une loi fédérale pour laquelle il est prévu une peine plus sévère en cas de récidive, il n’est pas tenu compte de la déclaration de culpabilité intervenue sous le régime de la présente loi, sauf s’il s’agit :
+- **(4)** En cas de perpétration d’une infraction à une loi fédérale pour laquelle il est prévu une peine plus sévère en cas de récidive, il n’est pas tenu compte de la déclaration de culpabilité intervenue sous le régime de la présente loi, sauf s’il s’agit :
 	- **a)** [Abrogé, 2012, ch. 1, art. 188]
 	- **b)** de déterminer la peine applicable aux adultes à imposer.
-> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156 et 188.
+> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156, 160 et 188.
 
 
 
