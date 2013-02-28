@@ -2083,7 +2083,9 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(3)** The appropriate parole board for the purposes of this section is
 	- **(a)** if subsection 112(1) of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md) would apply with respect to the young person but for the fact that the young person was ordered into a youth custody facility, the parole board mentioned in that subsection; and
-	- **(b)** in any other case, the National Parole Board.
+	- **(b)** in any other case, the Parole Board of Canada.
+> 2002, c. 1, s. 77; 2012, c. 1, s. 160.
+
 
 
 
@@ -2136,7 +2138,7 @@ The periods in custody and under supervision in the community may be changed if 
 	- **(a)** the young person may plead *autrefois convict* in respect of any subsequent charge relating to the offence;
 	- **(b)** a youth justice court may consider the finding of guilt in considering an application under subsection 64(1) (application for adult sentence);
 	- **(c)** any court or justice may consider the finding of guilt in considering an application for judicial interim release or in considering what sentence to impose for any offence; and
-	- **(d)** the National Parole Board or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md).
+	- **(d)** the Parole Board of Canada or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md).
 
 **Disqualifications removed**
 
@@ -2155,7 +2157,7 @@ The periods in custody and under supervision in the community may be changed if 
 - **(4)** A finding of guilt under this Act is not a previous conviction for the purposes of any offence under any Act of Parliament for which a greater punishment is prescribed by reason of previous convictions, except for
 	- **(a)** [Repealed, 2012, c. 1, s. 188]
 	- **(b)** the purpose of determining the adult sentence to be imposed.
-> 2002, c. 1, s. 82; 2012, c. 1, ss. 156, 188.
+> 2002, c. 1, s. 82; 2012, c. 1, ss. 156, 160, 188.
 
 
 
