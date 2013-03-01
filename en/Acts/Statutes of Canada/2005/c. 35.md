@@ -10,6 +10,9 @@ Assented to on 20 July 2005
 ----------
 
 
+[Repealed, 2012, c. 19, s. 685]
+
+
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -19,683 +22,433 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ## Short Title
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Department of Social Development Act.
+**1** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ## Interpretation
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Definition of Minister**
-
-**2** In this Act, ***Minister*** means the Minister of Social Development.
+**2** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 **PART 1** 
 ## Department of Social Development
+> [Repealed, 2012, c. 19, s. 685]
+
 
 
 
 ### Establishment
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Department established**
-
-**3** 
-
-- **(1)** There is hereby established a department of the Government of Canada called the Department of Social Development over which the Minister of Social Development, appointed by commission under the Great Seal, shall preside.
-
-**Social Development Canada**
-
-- **(2)** The expressions “Social Development Canada” and “Développement social Canada” in any document issued or executed in relation to the powers, duties and functions conferred on the Minister by this or any other Act are deemed to be references to the “Department of Social Development” and the “ministère du Développement social”, respectively.
-
-**Minister**
-
-- **(3)** The Minister holds office during pleasure and has the management and direction of the Department.
+**3** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Deputy Minister**
-
-**4** 
-
-- **(1)** The Governor in Council may appoint an officer called the Deputy Minister of Social Development to hold office during pleasure and to be the deputy head of the Department.
-
-**Associate Deputy Ministers**
-
-- **(2)** The Governor in Council may appoint one or more Associate Deputy Ministers of Social Development to hold office during pleasure and each shall have the rank and status of a deputy head of a department and exercise, under the Deputy Minister of Social Development, the powers and perform the duties and functions as deputies of the Minister and otherwise that the Minister may specify.
+**4** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Powers, Duties and Functions of the Minister
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Powers, duties and functions of the Minister**
-
-**5** 
-
-- **(1)** The powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction relating to the social development of Canada and which are not by law assigned to any other Minister, department, board or agency of the Government of Canada.
-
-**Exercise of powers**
-
-- **(2)** The Minister shall exercise the powers and perform the duties and functions assigned by subsection (1) with a view to promoting social well-being and income security.
+**5** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Additional powers**
-
-**6** In exercising the powers and performing the duties or functions assigned to the Minister under this or any other Act, the Minister may
-- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyse, interpret, publish and distribute information relating to social development; and
-- **(b)** cooperate with provincial authorities with a view to coordinating efforts for social development.
+**6** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Programs**
-
-**7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the social development of Canada, and the Minister may make grants and contributions in support of the programs.
+**7** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Interdepartmental Services
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Services**
-
-**8** 
-
-- **(1)** The Department may provide services to, and receive services from, the Department of Human Resources and Skills Development and the Canada Employment Insurance Commission.
-
-**Amounts charged**
-
-- **(2)** The Minister may, with the approval of the Treasury Board, fix the amounts or the manner of determining the amounts to be recovered for services provided to the Department of Human Resources and Skills Development and the Canada Employment Insurance Commission. The amounts may not exceed the cost of providing the services.
-
-**Amounts received**
-
-- **(3)** Subject to conditions imposed by the Treasury Board, any amounts received by the Department for services under subsection (2) may be expended by the Department for its purposes.
+**8** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Committees
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Committees**
-
-**9** 
-
-- **(1)** The Minister may establish advisory and other committees and provide for their membership, duties, functions and operation.
-
-**Remuneration**
-
-- **(2)** Members of a committee shall be paid, in connection with their work for the committee, the remuneration that may be fixed by the Governor in Council.
-
-**Travel, living and other expenses**
-
-- **(3)** Members of a committee are entitled to be reimbursed, in accordance with Treasury Board directives, for the travel, living and other expenses incurred in connection with their work for the committee while absent, in the case of full-time members, from their ordinary place of work or, in the case of part-time members, from their ordinary place of residence.
+**9** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### National Council of Welfare
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**National Council of Welfare**
-
-**10** 
-
-- **(1)** The National Council of Welfare is continued, consisting of a chairperson and not more than fifteen other members to be appointed by the Governor in Council to hold office during pleasure for the term, not exceeding three years, that will ensure as far as possible the expiration in any one year of the terms of appointment of fewer than half of the members so appointed.
-
-**Members deemed to be in the public service**
-
-- **(2)** The members of the Council are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the  [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of their duties under this Act.
-> 2005, c. 35, ss. 10, 68(E).
+**10** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-
-**Eligibility for reappointment**
-
-**11** A member of the Council is eligible for reappointment.
+**11** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Remuneration**
-
-**12** 
-
-- **(1)** A member of the Council shall be paid, in connection with their work for the Council, the remuneration that may be fixed by the Governor in Council.
-
-**Travel, living and other expenses**
-
-- **(2)** A member of the Council is entitled to be reimbursed, in accordance with Treasury Board directives, for the travel, living and other expenses incurred in connection with their work for the Council while absent, in the case of a full-time member, from their ordinary place of work or, in the case of a part-time member, from their ordinary place of residence.
+**12** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Function**
-
-**13** It is the function of the Council to advise the Minister in respect of any matters relating to social development that the Minister may refer to the Council for its consideration or that the Council considers appropriate.
+**13** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Meetings**
-
-**14** The Council shall meet at the times and places that the Minister may direct.
+**14** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Personnel**
-
-**15** 
-
-- **(1)** The Council may employ or retain the persons who are necessary for its proper functioning.
-
-**Presumption**
-
-- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the federal public administration.
-> 2005, c. 35, ss. 15, 68(E).
-
+**15** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### General Provisions
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Agreements**
-
-**16** For the purpose of facilitating the formulation, coordination and implementation of any program or policy relating to the powers, duties and functions conferred by this Act, the Minister may enter into agreements with a province or a provincial public body, financial institutions and other persons or bodies that the Minister considers appropriate.
+**16** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Delegation**
-
-**17** The Minister may authorize any person or body, or member of a class of persons or bodies, to exercise any power or perform any duty or function of the Minister.
+**17** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Oaths and affidavits**
-
-**18** A person or member of a class of persons employed by the Department and authorized by the Deputy Minister and any other person or member of a class of persons authorized by the Minister may, in the course of their duties, administer oaths and take and receive affidavits, declarations and affirmations for the purposes of or incidental to the performance of their duties, and every person so authorized has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
+**18** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Fees for services or use of facilities**
-
-**19** 
-
-- **(1)** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix the fees to be paid for a service or the use of a facility provided by the Minister, the Department or any other board or agency of the Government of Canada for which the Minister has responsibility.
-
-**Amount not to exceed cost**
-
-- **(2)** Fees that are fixed under subsection (1) may not exceed the cost to Her Majesty in right of Canada of providing the service or the use of the facility.
+**19** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Fees for products, rights and privileges**
-
-**20** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix the fees to be paid for products, rights and privileges provided by the Minister, the Department or any other board or agency of the Government of Canada for which the Minister has responsibility.
+**20** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Fees in respect of regulatory processes and approvals**
-
-**21** 
-
-- **(1)** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix the fees to be paid for regulatory processes or approvals provided by the Minister, the Department or any other board or agency of the Government of Canada for which the Minister has responsibility.
-
-**Amount**
-
-- **(2)** Fees that are fixed under subsection (1) may not in the aggregate exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable outlays incurred by Her Majesty for providing the regulatory processes or approvals.
+**21** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Publication**
-
-**22** 
-
-- **(1)** The Minister shall, within thirty days after the day on which the Minister fixes a fee under any of sections 19 to 21, publish the fee in the Canada Gazette.
-
-**Reference to Scrutiny Committee**
-
-- **(2)** A fee fixed under any of sections 19 to 21 shall stand referred to the Committee referred to in section 19 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) to be reviewed and scrutinized as if it were a statutory instrument.
+**22** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Power to make regulations**
-
-**23** The Treasury Board may make regulations for the purposes of sections 19 to 21.
+**23** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 **PART 2** 
 ## Protection of Personal Information
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Definitions**
+**24** [Repealed, 2012, c. 19, s. 685]
 
-**24** The following definitions apply in this Part.
 
-***administration***, in respect of programs, includes development, operation and evaluation.
 
-***federal institution*** means a department or any other body referred to in a schedule to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+**25** [Repealed, 2012, c. 19, s. 685]
 
-***information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), except that the portion of that definition between paragraphs (i) and (j) shall be read as “but, for the purposes of this Part, does not include”.
 
-***program*** means any program the administration or enforcement of which is the responsibility of the Minister and includes any legislation — other than the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) and the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) — policy or activity the administration or enforcement of which is the responsibility of the Minister.
 
-***public officer*** means an officer or employee of a federal institution, a prescribed individual or a member of a prescribed class of individuals.
+**26** [Repealed, 2012, c. 19, s. 685]
 
 
 
+**27** [Repealed, 2012, c. 19, s. 685]
 
-**Purpose**
 
-**25** This Part sets out the rules that apply to the protection and the making available of information that is obtained by the Minister under a program or prepared from that information. This Part also sets out principles for the use of information for research purposes.
 
+**28** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Protection of information**
+**29** [Repealed, 2012, c. 19, s. 685]
 
-**26** Information is privileged and shall not be made available except as authorized by this Part.
 
 
+**30** [Repealed, 2012, c. 19, s. 685]
 
 
-**Availability of information on request of an individual**
 
-**27** 
+**31** [Repealed, 2012, c. 19, s. 685]
 
-- **(1)** In addition to an individual’s right of access under section 12 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), and subject to the exemptions and exclusions provided in that Act, information may be made available to the individual on their request in writing to the Minister.
 
-**Availability of information to individuals, representatives and members of Parliament**
 
-- **(2)** On the conditions that the Minister considers advisable, and subject to the exemptions and exclusions provided in the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), information may be made available to an individual or their representative, or to a member of Parliament inquiring on behalf of an individual, if the information is relevant to the making of an application or the receipt of a benefit or other assistance by the individual under a program, or is relevant to any other matter that affects the individual under a program.
+**32** [Repealed, 2012, c. 19, s. 685]
 
 
 
+**33** [Repealed, 2012, c. 19, s. 685]
 
-**Availability of information for a program**
 
-**28** 
 
-- **(1)** Information may be made available to any person or body for the administration or enforcement of the program for which it was obtained or prepared.
+**34** [Repealed, 2012, c. 19, s. 685]
 
-**Availability of information within the Department**
 
-- **(2)** Information may be made available to a public officer of the Department for the administration or enforcement of a program, the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) and the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md).
 
+**35** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Availability of information to Department of Human Resources and Skills Development**
+**36** [Repealed, 2012, c. 19, s. 685]
 
-**29** 
 
-- **(1)** Information may be made available to the Minister of Human Resources and Skills Development, the Canada Employment Insurance Commission or any public officer of the Department of Human Resources and Skills Development or the Canada Employment Insurance Commission for the administration or enforcement of a program, as defined in section 30 of the Department of Human Resources and Skills Development Act.
 
-**Availability of information to other federal institutions**
-
-- **(2)** Information may be made available to a minister or a public officer of a prescribed federal institution, other than the Department of Human Resources and Skills Development or the Canada Employment Insurance Commission, for the administration or enforcement of a prescribed federal or provincial law or activity if the Minister considers it advisable and the information is made available subject to conditions agreed upon by the Minister and the federal institution.
-
-**Secondary release of information**
-
-- **(3)** Information obtained under subsection (2) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed upon by the Minister and the federal institution.
-
-
-
-
-**Availability of information to provincial authorities**
-
-**30** 
-
-- **(1)** Information may be made available to the government of a province, or to a public body created under the law of a province, for the administration or enforcement of a federal law or activity or a provincial law if the Minister considers it advisable and the information is made available subject to conditions agreed upon by the Minister and the government or body.
-
-**Availability of information to foreign states and bodies**
-
-- **(2)** Information may be made available to the government of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of any such government or organization, for the administration or enforcement of a law if the Minister considers it advisable and the information is made available subject to conditions agreed upon by the Minister and the government, organization or institution.
-
-**Secondary release of information**
-
-- **(3)** Information obtained under this section by a government, public body, organization or institution shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed upon by the Minister and the government, public body, organization or institution.
-
-
-
-
-**Public interest**
-
-**31** 
-
-- **(1)** Despite sections 26 to 30, information may be made available if the Minister is of the opinion that the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure or that disclosure would clearly benefit the individual to whom the information relates.
-
-**Notice of disclosure**
-
-- **(2)** The Minister shall notify the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) in writing of any disclosure of information under subsection (1) prior to the disclosure where reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she deems it appropriate, notify the individual to whom the information relates of the disclosure.
-
-
-
-
-**Research or statistical purposes**
-
-**32** Information may be made available for research or statistical purposes to any person or body, including a person or body referred to in subsection 29(2) or (3) or section 30, if
-- **(a)** the Minister is of the opinion that the research or statistical purposes are consistent with the principles set out in paragraphs 33(1)(a) to (e);
-- **(b)** the Minister is of the opinion that the purpose for which the information is made available cannot reasonably be accomplished unless the information is provided in a form that may identify the individual to whom it relates; and
-- **(c)** the information is made available subject to conditions set out in an agreement between the Minister and the person or body, and the person or body undertakes in the agreement not to subsequently disclose the information in a form that could reasonably be expected to identify the individual to whom it relates.
-
-
-
-
-**Use of information for research purposes**
-
-**33** 
-
-- **(1)** The use of information by the Minister and by public officers of the Department for policy analysis, research or evaluation purposes shall be guided by the following principles:
-	- **(a)** the object of the policy analysis, research or evaluation is consistent with the powers, duties and functions of the Minister;
-	- **(b)** the use of the information is consistent with any agreement under which the information was obtained;
-	- **(c)** the results of the policy analysis, research or evaluation will be made available only in accordance with the provisions of this Part and any agreements under which the information was obtained;
-	- **(d)** the policy analysis, research or evaluation would be difficult or impossible if the information were not used; and
-	- **(e)** the policy analysis, research or evaluation is in the public interest.
-
-**Use**
-
-- **(2)** Unless authorized by the Minister, a public officer shall not use information for the purpose of policy analysis, research or evaluation if the information would allow an individual to be identified.
-
-**Restriction**
-
-- **(3)** Information that is used for policy analysis, research or evaluation purposes shall not be used for any administrative purpose as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
-
-
-
-
-**Evidence and production of documents**
-
-**34** Despite any other Act or law, the Minister and public officers shall not be required, in connection with any legal proceedings, to give evidence relating to information that is privileged under section 26 or to produce a statement or other writing that contains any such privileged information unless the Minister considers that it is appropriate to do so or the legal proceeding directly concerns the enforcement or application of a program.
-
-
-
-
-**Agreements authorizing the obtaining of information**
-
-**35** The Minister may enter into agreements to obtain information for the administration or enforcement of a program with federal institutions, governments of provinces or public bodies created under provincial law, governments of foreign states, international organizations of states or international organizations established by the governments of states, any institution of any such government or organization, and other persons or bodies.
-
-
-
-
-**Offence**
-
-**36** 
-
-- **(1)** Every person or body commits an offence if they knowingly make available information that is privileged under this Part, or knowingly use or allow such information to be used, otherwise than in accordance with this Part or a condition or agreement referred to in subsection 27(2) or section 29, 30 or 32.
-
-**Punishment — individuals**
-
-- **(2)** An individual who is guilty of an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
-
-**Punishment — others**
-
-- **(3)** A body or a person, other than an individual, who is guilty of an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000.
-
-
-
-
-**Regulations**
-
-**37** The Governor in Council may, by regulation, prescribe
-- **(a)** individuals or classes of individuals for the purpose of the definition “public officer” in section 24; and
-- **(b)** federal institutions to which the information referred to in subsection 29(2) may be made available, and the federal or provincial laws or activities for whose administration or enforcement the information may be made available.
+**37** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 **PART 3** 
 ## Transitional Provisions, Consequential and Related Amendments, Coordinating Amendment, Repeal and Coming into Force
+> [Repealed, 2012, c. 19, s. 685]
+
 
 
 
 ### Transitional Provisions
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Minister and Deputy Minister**
-
-**38** 
-
-- **(1)** Any person who holds, immediately before the day on which this section comes into force, the office styled Minister of Social Development or Deputy Minister of Social Development is deemed to have been appointed under this Act as Minister of Social Development or Deputy Minister of Social Development, respectively, on that day.
-
-**Employees**
-
-- **(2)** Nothing in this Act shall be construed as affecting the status of an employee who occupied, immediately before the day on which this section comes into force, a position in the Department of Human Resources Development, except that the employee on that day shall occupy that position in the Department of Social Development.
+**38** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**National Council of Welfare**
-
-**39** A person who holds office as a member of the National Council of Welfare immediately before the day on which this section comes into force shall continue in office for the remainder of the term for which they were appointed.
+**39** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-**Transfer of powers, duties and functions**
-
-**40** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of Human Resources Development, the Deputy Minister or an employee of the Department of Human Resources Development, the Minister to be styled Minister of Social Development or the Deputy Minister to be styled Deputy Minister of Social Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Social Development, Deputy Minister or employee of the Department of Social Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister or officer of the federal public administration to exercise that power or perform that duty or function.
-> 2005, c. 35, ss. 40, 68(E).
+**40** [Repealed, 2012, c. 19, s. 685]
 
 
 
-
-
-**Transfer of appropriations**
-
-**41** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the Department of Human Resources Development (Social Development) and that, on the day on which this section comes into force, is unexpended, is deemed to be an amount appropriated for defraying the charges and expenses of the Department of Social Development.
-> 2005, c. 35, ss. 41, 68(E).
-
+**41** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Consequential and Related Amendments
+> [Repealed, 2012, c. 19, s. 685]
+
 
 
 
 #### Access to Information Act
-
-
-**42** [Amendment]
-
-
-
-**43** [Amendment]
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**44** [Amendment]
+**42** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**43** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**44** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Canada Pension Plan
-
-
-**45** [Amendment]
-
-
-
-**46** [Amendment]
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**47** [Amendment]
+**45** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**48** [Amendments]
+**46** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**49** [Amendment]
+**47** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**50** [Amendment]
+**48** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**51** [Amendment]
+**49** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**52** [Amendment]
+**50** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**51** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**52** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Family Orders and Agreements Enforcement Assistance Act
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**53** [Amendment]
+
+**53** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Financial Administration Act
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**54** [Amendment]
+
+**54** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Old Age Security Act
-
-
-**55** [Amendment]
-
-
-
-**56** [Amendment]
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**57** [Amendment]
+**55** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**58** [Amendments]
+**56** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**59** [Amendment]
+**57** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**60** [Amendment]
+**58** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**61** [Amendment]
+**59** [Repealed, 2012, c. 19, s. 685]
 
 
 
-**62** [Amendment]
+**60** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**61** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**62** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Privacy Act
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**63** [Amendment]
+
+**63** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Public Sector Compensation Act
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**64** [Amendment]
+
+**64** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Salaries Act
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**65** [Amendment]
+
+**65** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 #### Changes in Terminology
-
-
-**66** [Amendment]
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**67** [Amendment]
+**66** [Repealed, 2012, c. 19, s. 685]
+
+
+
+**67** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Coordinating Amendment
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**68** [Amendment]
+
+**68** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Repeal
+> [Repealed, 2012, c. 19, s. 685]
 
 
-**69** [Repeal]
+
+**69** [Repealed, 2012, c. 19, s. 685]
 
 
 
 
 ### Coming into Force
+> [Repealed, 2012, c. 19, s. 685]
 
 
 
-**Order in council**
-
-<sup><a href='#S-11.3_e_s.70'>[*]</a></sup>**70** This Act, other than section 68, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same day as that fixed under section 85 of the Department of Human Resources and Skills Development Act.
-
-<a name='S-11.3_e_s.70'><sup>*</sup></a>: [Note: Section 68 in force on assent July 20, 2005; Act, other than section 68, in force October 5, 2005, *see* SI/2005-97.]<br />
+**70** [Repealed, 2012, c. 19, s. 685]
 
 
