@@ -2284,7 +2284,7 @@ is to be considered to have worked or not worked a full working week;
 
 - **(1)** The Minister shall, on or before July 31 in a year, provide the Board with the following information:
 	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
-	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (f) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
+	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (d.1), (f) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
 	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
 	- **(d)** any prescribed information.
 
@@ -2293,7 +2293,7 @@ is to be considered to have worked or not worked a full working week;
 - **(2)** On the recommendation of the Minister, the Governor in Council may make regulations
 	- **(a)** prescribing information referred to in paragraph (1)(d); and
 	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
-> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610, c. 31, s. 436.
+> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610, c. 31, ss. 436, 462.
 
 
 
@@ -2516,6 +2516,7 @@ is to be considered to have worked or not worked a full working week;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
 	- **(c)** all amounts paid under paragraph 63(a);
 	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b);
+	- **(d.1)** the costs of administering sections 28.1 and 28.2 of the Department of Human Resources and Skills Development Act;
 	- **(e)** the costs to the Board of administering the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md);
 	- **(f)** the costs to Her Majesty in right of Canada of administering that Act; and
 	- **(g)** the costs of administering Part 5 of the Department of Human Resources and Skills Development Act in respect of appeals respecting this Act.
@@ -2527,7 +2528,7 @@ is to be considered to have worked or not worked a full working week;
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, s. 245.
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, ss. 245, 307.
 
 
 
@@ -4219,90 +4220,37 @@ is admissible in evidence for all purposes for which the recorded document would
 
 
 
-**Registration**
+**Obligation**
 
-**138** 
+**138** Every person employed in insurable employment, and every self-employed person in respect of whom Part VII.1 applies, must have a Social Insurance Number that has been assigned to that person under an Act of Parliament.
+> 1996, c. 23, s. 138; 2012, c. 19, s. 308.
 
-- **(1)** Every person employed in insurable employment shall be registered with the Commission.
-
-**Register**
-
-- **(2)** The Commission shall maintain a register containing the names of all insured persons registered with the Commission and such other information as it determines is required to identify accurately all persons so registered.
-
-**Social Insurance Number**
-
-- **(3)** The Commission shall assign to each person registered with it a number that is suitable for use as a file number or account number or for data processing purposes and the number so assigned to a person by the Commission under this section is the person’s Social Insurance Number for any purpose for which a Social Insurance Number is required.
-
-**Social Insurance Number card**
-
-- **(4)** The Commission shall issue to each person registered with it a card containing the person’s name and Social Insurance Number.
-
-
-
-
-**Social Insurance Register**
-
-**139** 
-
-- **(1)** Subject to and in accordance with the regulations, the Commission may maintain a Social Insurance Register containing
-	- **(a)** the names of individuals registered under section 138;
-	- **(b)** the names of individuals to whom a Social Insurance Number has been issued under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
-	- **(c)** the names of individuals for whom application has been made to the Commission for a Social Insurance Number.
-
-**Additional information**
-
-- **(2)** The Social Insurance Register may, subject to such regulations as the Governor in Council may make in that behalf, contain such other information in addition to the names and Social Insurance Numbers of individuals as is necessary to identify accurately all individuals so registered.
-
-**Issuing number and card**
-
-- **(3)** If a Social Insurance Number is assigned to an individual by the Commission in the course of maintaining the registers mentioned in this section and section 138, the Commission shall issue a Social Insurance Number card to the individual so registered and that number is the individual’s Social Insurance Number for all purposes for which a Social Insurance Number is required.
-
-**Regulations**
-
-- **(4)** The Commission may, with the approval of the Governor in Council, make regulations respecting the registration of individuals under this section and section 138, the application for that registration, the issuance, custody, production and use of Social Insurance Number cards and the replacement of cards that have been lost, destroyed or defaced.
-
-**Providing information**
-
-- **(5)** The Commission may, subject to such regulations as the Governor in Council may make in that behalf, make available such information contained in the registers maintained under this section and section 138 as the Commission deems necessary for the accurate identification of individuals and for the effective use by those individuals of Social Insurance Numbers and Social Insurance Number cards, to such persons as the Commission thinks appropriate to accomplish that purpose.
-
-**New Social Insurance Number**
-
-- **(6)** A person who has been assigned a Social Insurance Number may subsequently be assigned another Social Insurance Number, in accordance with and subject to such regulations as the Commission may prescribe, if
-	- **(a)** the number first assigned has been assigned to another person;
-	- **(b)** wrongful use by another person of the number first assigned has created a situation in which the person to whom the number was first assigned is or may be caused embarrassment or hardship; or
-	- **(c)** there are other special or unusual circumstances that would make the issuance of another number desirable.
-
-**Voiding**
-
-- **(7)** When a new Social Insurance Number is assigned to a person, any number previously assigned to that person becomes void.
-
-**More than one number assigned**
-
-- **(8)** If a person has inadvertently been assigned more than one Social Insurance Number, the Commission shall determine which number is the official number and shall void the others.
 
 
 
 
 **Change of name**
 
-**140** If the name of a person to whom a Social Insurance Number has been assigned is changed because of marriage or otherwise, the person shall apply to the Commission within 60 days after the change of name becomes effective for a Social Insurance Number card in the person’s new name, unless the person has already made an application for a new Social Insurance Number card to another authority empowered to receive the application.
+**139** When the name of a person to whom a Social Insurance Number has been assigned changes because of marriage or otherwise, the person shall inform the Commission of their new name within 60 days after the day on which the change of name becomes effective, unless they have already so informed another authority empowered to receive that information.
+> 1996, c. 23, s. 139; 2012, c. 19, s. 308.
 
 
 
 
-**Prohibitions**
 
-**141** 
+**Regulations**
 
-- **(1)** No person
-	- **(a)** who has been assigned a Social Insurance Number shall knowingly make an application to be again assigned a Social Insurance Number, whether the person gives information that is the same as or different from that contained in their previous application on which the Social Insurance Number had been assigned;
-	- **(b)** shall, with intent to defraud or deceive any person, present, loan or use a Social Insurance Number or Social Insurance Number card;
-	- **(c)** shall, without the authority of the Commission, manufacture a Social Insurance Number card or a substantially similar card, or duplicate a Social Insurance Number card, except by making a paper photocopy for record purposes only; or
-	- **(d)** shall, without the authority of the Commission, sell a Social Insurance Number, a Social Insurance Number card or a substantially similar card.
+**140** For the purposes of sections 138 and 139, the Commission may, with the approval of the Governor in Council, make regulations respecting
+- **(a)** applications for a Social Insurance Number;
+- **(b)** the assignment and use of Social Insurance Numbers;
+- **(c)** requirements that must be met by persons who have been assigned Social Insurance Numbers; and
+- **(d)** requirements that must be met by employers.
+> 1996, c. 23, s. 140; 2012, c. 19, s. 308.
 
-**Offence and punishment**
 
-- **(2)** Every person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or to both.
+
+
+**141** [Repealed, 2012, c. 19, s. 308]
 
 
 
