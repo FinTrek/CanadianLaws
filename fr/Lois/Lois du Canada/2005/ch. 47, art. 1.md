@@ -399,8 +399,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Accès aux renseignements**
 
-**27** Malgré le paragraphe 139(5) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), en vue de déterminer l’admissibilité du demandeur au versement de prestations au titre de la présente loi, le ministre est en droit d’avoir accès, sur demande, aux renseignements personnels concernant le demandeur, recueillis ou obtenus par la Commission de l’assurance-emploi du Canada.
-> 2005, ch. 47, art. 1 « 27 » et 140.
+**27** En vue de déterminer l’admissibilité du demandeur au versement de prestations au titre de la présente loi, le ministre est en droit d’avoir accès, sur demande, aux renseignements personnels concernant le demandeur, recueillis ou obtenus par la Commission de l’assurance-emploi du Canada.
+> 2005, ch. 47, art. 1 « 27 » et 140; 2012, ch. 19, art. 312.
 
 
 
