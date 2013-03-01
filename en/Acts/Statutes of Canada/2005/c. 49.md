@@ -53,12 +53,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** 
 
-- **(1)** The Minister of Social Development is authorized to make, out of the Consolidated Revenue Fund, a payment to a person of $125 if that Minister determines before 2009 that a supplement under subsection 11(1) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or an allowance under subsection 19(1) or 21(1) of that Act is payable to the person for any month in the payment quarter commencing January 1, 2006.
+- **(1)** The Minister of Human Resources and Skills Development is authorized to make, out of the Consolidated Revenue Fund, a payment to a person of $125 if that Minister determines before 2009 that a supplement under subsection 11(1) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or an allowance under subsection 19(1) or 21(1) of that Act is payable to the person for any month in the payment quarter commencing January 1, 2006.
 
 **Restriction**
 
-- **(2)** No payment shall be made to a person if the Minister of Social Development is informed by the Minister of National Revenue that either the person or the person’s cohabiting spouse or common-law partner (as defined in section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)) has received, or can reasonably be expected to receive, a payment referred to in section 2.
-> 2005, c. 49, ss. 3, 11.
+- **(2)** No payment shall be made to a person if the Minister of Human Resources and Skills Development is informed by the Minister of National Revenue that either the person or the person’s cohabiting spouse or common-law partner (as defined in section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)) has received, or can reasonably be expected to receive, a payment referred to in section 2.
+> 2005, c. 49, ss. 3, 11; 2012, c. 19, s. 694.
 
 
 
