@@ -404,10 +404,10 @@ Assented to on 25 November 2005
 
 
 
-**Information to be made available to Minister**
+**Information must be made available to Minister**
 
-**27** Despite subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), personal information relating to an applicant that is collected or obtained by the Canada Employment Insurance Commission must, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility to receive a payment under this Act.
-> 2005, c. 47, ss. 1 “27”, 140.
+**27** Personal information relating to an applicant that is collected or obtained by the Canada Employment Insurance Commission must, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility to receive a payment under this Act.
+> 2005, c. 47, ss. 1 “27”, 140; 2012, c. 19, s. 312.
 
 
 
