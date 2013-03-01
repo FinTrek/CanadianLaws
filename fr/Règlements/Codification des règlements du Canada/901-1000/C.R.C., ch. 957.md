@@ -22,8 +22,8 @@ Autorités habilitantes :
 ## Champ d’application
 
 
-**1.1** Le présent règlement s’applique aux référendums tenus au titre du sous-alinéa 39(1)b)(iii) ou du paragraphe 39(2) de la Loi.
-> DORS/2000-392, art. 1.
+**1.1** Le présent règlement s’applique aux référendums tenus au titre du sous-alinéa 39(1)b)(iii), du paragraphe 39(2) et de l’article 39.1 de la Loi.
+> DORS/2000-392, art. 1; DORS/2013-21, art. 1.
 
 
 
@@ -74,10 +74,10 @@ Autorités habilitantes :
 
 **3** 
 
-- **(1)** Le ministre peut, à la demande du conseil d’une bande ou chaque fois qu’il le juge opportun à l’égard d’une bande, ordonner la tenue d’un référendum pour déterminer si la majorité des électeurs de la bande sont en faveur d’une proposition de cession à titre absolu ou de désignation.
+- **(1)** Le ministre peut, à la demande du conseil d’une bande ou chaque fois qu’il le juge opportun, ordonner la tenue d’un référendum au titre du sous-alinéa 39(1)b)(iii), du paragraphe 39(2) ou de l’article 39.1 de la Loi.
 
 - **(2) et (3)** [Abrogés, DORS/2000-392, art. 3]
-> DORS/94-369, art. 4; DORS/2000-392, art. 3.
+> DORS/94-369, art. 4; DORS/2000-392, art. 3; DORS/2013-21, art. 2.
 
 
 
@@ -418,8 +418,12 @@ perd son droit de voter par référendum, et le président d’élection ou du s
 
 
 
-**23** Si les documents déposés sous le régime de l’article 22 ou les renseignements qui sont en la possession du ministre sont suffisants pour mettre en doute la validité d’un référendum, le ministre en avise le gouverneur en conseil.
-> DORS/2000-392, art. 15.
+**23** 
+
+- **(1)** Si les documents visés à l’article 22 ou les renseignements qui sont en la possession du ministre sont suffisants pour mettre en doute la validité d’un référendum tenu au titre du sous-alinéa 39(1)b)(iii) ou du paragraphe 39(2) de la Loi, le ministre en avise le gouverneur en conseil.
+
+- **(2)** Le ministre tiendra compte de tout document déposé sous le régime de l’article 22 concernant un référendum tenu au titre de l’article 39.1 de la Loi afin de décider s’il accepte ou non la désignation.
+> DORS/2000-392, art. 15; DORS/2013-21, art. 3.
 
 
 
