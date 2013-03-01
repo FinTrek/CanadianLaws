@@ -22,8 +22,8 @@ Enabling authorities:
 ## Application
 
 
-**1.1** These Regulations apply to a referendum held under subparagraph 39(1)(b)(iii) or subsection 39(2) of the Act.
-> SOR/2000-392, s. 1.
+**1.1** These Regulations apply to a referendum held under subparagraph 39(1)(b)(iii), subsection 39(2) or section 39.1 of the Act.
+> SOR/2000-392, s. 1; SOR/2013-21, s. 1.
 
 
 
@@ -74,10 +74,10 @@ Enabling authorities:
 
 **3** 
 
-- **(1)** The Minister may, at the request of the council of a band or whenever the Minister considers it advisable, order that a referendum be held to determine if the majority of the electors of a band are in favour of a proposed absolute surrender or designation.
+- **(1)** The Minister may, at the request of the council of a band or whenever the Minister considers it advisable, order that a referendum be held under subparagraph 39(1)(b)(iii), subsection 39(2) or section 39.1 of the Act.
 
 - **(2) and (3)** [Repealed, SOR/2000-392, s. 3]
-> SOR/94-369, s. 4; SOR/2000-392, s. 3.
+> SOR/94-369, s. 4; SOR/2000-392, s. 3; SOR/2013-21, s. 2.
 
 
 
@@ -418,8 +418,12 @@ shall forfeit his right to vote on the referendum and the electoral officer or t
 
 
 
-**23** Where the material referred to in section 22 or any other information in the possession of the Minister is sufficient to call into question the validity of the referendum, the Minister shall advise the Governor in Council accordingly.
-> SOR/2000-392, s. 15.
+**23** 
+
+- **(1)** If the material referred to in section 22 or any other information in the Minister’s possession is sufficient to call into question the validity of a referendum held under subparagraph 39(1)(b)(iii) or subsection 39(2) of the Act, the Minister shall advise the Governor in Council accordingly.
+
+- **(2)** The Minister shall take into account any material provided under section 22 in relation to a referendum held under section 39.1 of the Act when deciding whether to accept the designation.
+> SOR/2000-392, s. 15; SOR/2013-21, s. 3.
 
 
 
