@@ -118,7 +118,9 @@ the Minister’s approval shall be effective on the latest of
 	- **(d)** the month immediately before the date specified in writing by the applicant.
 
 - **(3)** Where the Minister, under subsection 5(2) or 11(3) of the Act, deems an application to have been made and approved, the Minister’s approval shall be effective on the day on which the person attained the age of 65 years.
-> SOR/83-84, s. 1; SOR/84-656, s. 1; SOR/90-813, s. 3; SOR/96-521, ss. 4, 29(F).
+
+- **(4)** If the Minister waives the requirement for an application in respect of a person under subsection 5(4) of the Act, the Minister’s approval is effective on the day on which the person attains the age of 65 years.
+> SOR/83-84, s. 1; SOR/84-656, s. 1; SOR/90-813, s. 3; SOR/96-521, ss. 4, 29(F); SOR/2013-23, s. 2.
 
 
 
@@ -297,20 +299,20 @@ the Minister’s approval shall be effective on the latest of
 
 **18** 
 
-- **(1)** Subject to section 19, the Minister shall determine the age and identity of an applicant for the purposes of the Act in accordance with whichever of subsections (2) to (2.2) is applicable.
+- **(1)** Subject to section 19, the Minister shall determine the age and identity of an applicant for the purposes of the Act in accordance with whichever of subsections (2) to (2.2) is applicable.
 
-- **(2)** The Minister shall determine the age and identity of an applicant on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+- **(2)** The Minister shall determine the age and identity of an applicant on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the Department of Human Resources and Skills Development Act.
 
 - **(2.1)** The Minister shall determine the age and identity of an applicant on the basis of a birth certificate or a certified copy of one.
 
 - **(2.2)** If there is sufficient reason to believe that a birth certificate is not available, the Minister shall determine the age and identity of an applicant on the basis of any other evidence and information with respect to the age and identity of the applicant that is available from any source.
 
-- **(3)** If the Minister is unable to determine the age and identity of an applicant under any of subsections (2) to (2.2), the Minister shall, subject to the following conditions, request that Statistics Canada search the census records for information as to the age and identity of the applicant:
+- **(3)** If the Minister is unable to determine the age and identity of an applicant under any of subsections (2) to (2.2), the Minister shall, subject to the following conditions, request that Statistics Canada search the census records for information as to the age and identity of the applicant:
 	- **(a)** any such request shall be made in the form prescribed by the Chief Statistician of Canada and shall bear the signed consent of the person concerning whom the information is sought and shall provide such specific information as may be necessary for the purpose of making a search of the census records; and
 	- **(b)** any information supplied by Statistics Canada shall be kept confidential and shall not be used for any purpose other than that of establishing the age of the applicant as required under the Act, the Canada Assistance Plan or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), as the case may be.
 
 - **(4)** [Repealed, SOR/96-521, s. 7]
-> SOR/96-521, ss. 7, 27, 29(F); SOR/2004-249, s. 7.
+> SOR/96-521, ss. 7, 27, 29(F); SOR/2004-249, s. 7; SOR/2013-20, s. 6.
 
 
 
@@ -329,8 +331,12 @@ the Minister’s approval shall be effective on the latest of
 ### Residence
 
 
-**20** For the purpose of enabling the Minister to determine the eligibility of an applicant in respect of residence in Canada, there shall be furnished by the applicant or on his behalf a statement giving full particulars of all periods of residence in Canada and of all absences therefrom relevant to such eligibility.
-> SOR/96-521, ss. 27, 29(F).
+**20** 
+
+- **(1)** To enable the Minister to determine a person’s eligibility in respect of residence in Canada, the person or someone acting on the person’s behalf shall provide a statement giving full particulars of all periods of residence in Canada and of all absences from Canada that are relevant to that eligibility.
+
+- **(2)** Unless the Minister requires otherwise under the Act, a person is not required to provide a statement under subsection (1) in the circumstances set out in subsection 5(2) or (5), 11(3) or (4), 19(4.1) or 21(5) or (5.1) of the Act.
+> SOR/96-521, ss. 27, 29(F); SOR/2013-23, s. 5.
 
 
 
@@ -411,18 +417,37 @@ if he returned to Canada within six months of the end of his employment or engag
 	- **(b)** with respect to a person who is deemed to be resident in Canada within the meaning of subsection (5.1), or
 	- **(c)** with respect to a person referred to in subsection (5.2) who, while resident in Canada is subject to the legislation of a country other than Canada,
 that person’s father, mother, brother, sister, child or foster child or the father, mother, child or foster child of the person’s spouse or common-law partner.
-> SOR/81-285, s. 5; SOR/83-84, ss. 2, 3; SOR/89-269, s. 6; SOR/96-521, s. 9; SOR/2000-412, s. 9.
+
+- **(8)** For the purposes of section 4.1 of the Act as it relates to the requirement of subparagraph 3(1)(c)(iii) of the Act, the prescribed information is information indicating that the person, for at least 40 years, for all or part of each of those years,
+	- **(a)** had unadjusted pensionable earnings under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) that were above the person’s basic exemption for that year, or had unadjusted pensionable earnings under An Act respecting the Québec Pension Plan, R.S.Q., c. R-9 that were above the person’s personal exemption for that year;
+	- **(b)** received a retirement pension or disability pension under either the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or An Act respecting the Québec Pension Plan, R.S.Q., c. R-9; or
+	- **(c)** had time excluded from a contributory period under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) because the person was a family allowance recipient, or had time not included in a contributory period under An Act respecting the Québec Pension Plan, R.S.Q., c. R-9 because the person was a recipient of family benefits.
+
+- **(9)** For the purposes of subsection (8),
+	- **(a)** in relation to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), ***basic exemption***, ***contributory period*** and ***unadjusted pensionable earnings*** have the same meaning as in subsection 2(1) of that Act and ***family allowance recipient*** has the same meaning as in subsection 42(1) of that Act; and
+	- **(b)** in relation to An Act respecting the Québec Pension Plan, R.S.Q., c. R-9, ***recipient of family benefits***, ***personal exemption***, ***unadjusted pensionable earnings*** and ***contributory period*** have the same meaning as in paragraph 1(v) and sections 43, 98 and 101 of that Act respectively.
+> SOR/81-285, s. 5; SOR/83-84, ss. 2, 3; SOR/89-269, s. 6; SOR/96-521, s. 9; SOR/2000-412, s. 9; SOR/2013-23, s. 6.
 
 
 
 
-**22** For the purposes of subsections 4(1), 19(2) and 21(2) of the Act, ***legal residence***, with respect to a person described in any of those subsections, means that, on the applicable day specified in paragraph (a) or (b) of those subsections, that person
-- **(a)** is or was lawfully in Canada pursuant to the immigration laws of Canada in force on that day;
-- **(b)** is or was a resident of Canada and is or was absent from Canada, but
-	- **(i)** is deemed, pursuant to subsection 21(4) or (5) or under the terms of an agreement entered into under subsection 40(1) of the Act, not to have interrupted the person’s residence in Canada during that absence, and
-	- **(ii)** was lawfully in Canada pursuant to the immigration laws of Canada immediately prior to the commencement of the absence; or
-- **(c)** is not or was not resident of Canada but is deemed, pursuant to subsection 21(3) or under the terms of an agreement entered into under subsection 40(1) of the Act, to be or to have been resident in Canada.
-> SOR/78-699, s. 1; SOR/81-285, s. 6; SOR/89-269, s. 7; SOR/90-813, s. 11; SOR/96-521, s. 10.
+
+### Legal Residence
+
+
+**22** 
+
+- **(1)** For the purposes of subsections 4(1), 19(2) and 21(2) of the Act, ***legal residence***, with respect to a person described in any of those subsections, means that, on the applicable day specified in paragraph (a) or (b) of those subsections, that person
+	- **(a)** is or was lawfully in Canada pursuant to the immigration laws of Canada in force on that day;
+	- **(b)** is or was a resident of Canada and is or was absent from Canada, but
+		- **(i)** is deemed, pursuant to subsection 21(4) or (5) or under the terms of an agreement entered into under subsection 40(1) of the Act, not to have interrupted the person’s residence in Canada during that absence, and
+		- **(ii)** was lawfully in Canada pursuant to the immigration laws of Canada immediately prior to the commencement of the absence; or
+	- **(c)** is not or was not resident of Canada but is deemed, pursuant to subsection 21(3) or under the terms of an agreement entered into under subsection 40(1) of the Act, to be or to have been resident in Canada.
+
+- **(2)** For the purposes of section 4.1 of the Act as it relates to the requirement of paragraph 4(1)(a) of the Act, the prescribed information is both
+	- **(a)** a current residential address in Canada; and
+	- **(b)** the prescribed information that is referred to in subsection 21(8).
+> SOR/78-699, s. 1; SOR/81-285, s. 6; SOR/89-269, s. 7; SOR/90-813, s. 11; SOR/96-521, s. 10; SOR/2013-23, s. 8.
 
 
 
@@ -536,6 +561,20 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
+### Cancellation of Pension
+
+
+**26.1** 
+
+- **(1)** For the purposes of subsection 9.3(1) of the Act, a request for cancellation of a pension shall be made to the Minister in writing no later than six months after the day on which payment of the pension begins.
+
+- **(2)** For the purposes of subsection 9.3(2) of the Act, the amount of any pension and related supplement or allowance shall be repaid no later than six months after the day on which the request is granted.
+> SOR/2013-23, s. 9.
+
+
+
+
+
 ### Recovery of Overpayments
 
 
@@ -567,39 +606,15 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
-
-### Access to Privileged Information
-> [SOR/2010-45, s. 23]
+**28.2** [Repealed, SOR/2013-20, s. 7]
 
 
 
-**28.2** 
-
-- **(1)** For the purposes of subsection 33.01(2) of the Act information may be made available to a person or body pursuant to a written request by an individual or their representative if the request is signed within one year before the day on which it is received by the Minister.
-
-- **(2)** The person or body may, on application, have annual access to the information if the request referred to in subsection (1) indicates that the individual or representative consents to the provision of the information on an annual basis, and until the individual or representative revokes the request or the individual dies.
-> SOR/99-193, s. 3.
+**28.3** [Repealed, SOR/2013-20, s. 7]
 
 
 
-
-**28.3** For the purpose of paragraph 33.01(3)(d) of the Act, the information referred to in subsection 33.01(3) of the Act in respect of an individual may be made available during the individual’s lifetime to any other individual authorized by that individual if
-- **(a)** the authorizing individual has made a written request to that effect to the Minister, signed within one year before the day on which it was received by the Minister; and
-- **(b)** the authorizing individual has consented in that request to the provision of the information to the authorized individual and has not revoked that consent.
-> SOR/2010-45, s. 24.
-
-
-
-
-
-### Prescribed Federal Institutions and Federal Acts
-
-
-**28.4** For the purpose of subsection 33.03(2.1) of the Act, the prescribed federal institution
-- **(a)** for the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md) is the Library and Archives of Canada; and
-- **(b)** for the administration of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md) is Statistics Canada.
-> SOR/2010-45, s. 24.
-
+**28.4** [Repealed, SOR/2013-20, s. 7]
 
 
 
