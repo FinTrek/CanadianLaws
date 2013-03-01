@@ -1779,7 +1779,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind7A5F_hq_12872'>[*]</a></sup>**303** Sections 282 to 302 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7A5F_hq_12872'><sup>*</sup></a>: [Note: Sections 282 to 302 not in force.]<br />
+<a name='fn_Ind7A5F_hq_12872'><sup>*</sup></a>: [Note: Sections 282 to 302 in force March 1, 2013, *see* SI/2013-17.]<br />
 
 
 
@@ -1873,7 +1873,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind7C01_hq_12873'>[*]</a></sup>**314** Sections 304 to 312 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7C01_hq_12873'><sup>*</sup></a>: [Note: Sections 304 to 312 not in force.]<br />
+<a name='fn_Ind7C01_hq_12873'><sup>*</sup></a>: [Note: Sections 304 to 308 and 310 to 312 in force March 1, 2013, *see* SI/2013-17.]<br />
 
 
 
@@ -2820,7 +2820,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Sections 446, 448 and 451 come into force on July 1, 2013.
 
-<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Provisions of Division 24, other than sections 445 to 448, 451, 452, 461, 464 and 465, not in force.]<br />
+<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Sections 449, 450 and 453 in force March 1, 2013, *see* SI/2013-18.]<br />
 
 
 
@@ -4373,7 +4373,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndD098_hq_12950'>[*]</a></sup>**696** Sections 685 to 695 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndD098_hq_12950'><sup>*</sup></a>: [Note: Section 686 in force July 27, 2012, *see* SI/2012-61.]<br />
+<a name='fn_IndD098_hq_12950'><sup>*</sup></a>: [Note: Section 686 in force July 27, 2012, *see* SI/2012-61; sections 685 and 687 to 695 in force March 1, 2013, *see* SI/2013-17.]<br />
 
 
 
