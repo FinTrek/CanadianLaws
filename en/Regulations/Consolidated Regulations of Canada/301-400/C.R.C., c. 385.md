@@ -942,14 +942,14 @@ and ends on the day on which the amount is so refunded or applied.
 
 - **(1)** Subject to sections 49 and 50, the Minister shall determine the age and identity of a person for the purposes of the Act in accordance with whichever of subsections (2) to (4) is applicable.
 
-- **(2)** The Minister shall determine the age and identity of a person on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+- **(2)** The Minister shall determine the age and identity of a person on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the Department of Human Resources and Skills Development Act.
 
 - **(3)** The Minister shall determine the age and identity of a person on the basis of a birth certificate or a certified copy of one.
 
 - **(4)** If there is sufficient reason to believe that a birth certificate is not available, the Minister shall determine the age and identity of a person on the basis of any other evidence and information with respect to the age and identity of the person that is available from any source.
 
 - ** (5)** If the Minister is unable to determine the age and identity of a person under any of subsections (2) to (4), the Minister shall, if it is possible to do so, determine the age and identity of the person on the basis of information obtained from Statistics Canada in accordance with section 87 of the Act.
-> SOR/86-1133, s. 7; SOR/90-829, s. 20; SOR/96-522, s. 23; SOR/2004-249, s. 4.
+> SOR/86-1133, s. 7; SOR/90-829, s. 20; SOR/96-522, s. 23; SOR/2004-249, s. 4; SOR/2013-20, s. 1.
 
 
 
@@ -1188,39 +1188,15 @@ and ends on the day on which the amount is so refunded or applied.
 
 
 
-
-### Access to Privileged Information
-> [SOR/96-522, s. 13; SOR/2010-45, s. 2]
+**60** [Repealed, SOR/2013-20, s. 2]
 
 
 
-**60** 
-
-- **(1)** For the purposes of subsection 104.01(2) of the Act information may be made available to a person or body pursuant to a written request by an individual or their representative if the request is signed within one year before the day on which it is received by the Minister.
-
-- **(2)** The person or body may, on application, have annual access to the information if the request referred to in subsection (1) indicates that the individual or representative consented to the provision of the information on an annual basis, and until the individual or representative revokes the request or the individual dies.
-> SOR/80-813, s. 1; SOR/90-829, s. 26; SOR/93-290, s. 6; SOR/96-522, s. 14; SOR/99-192, s. 5.
+**60.1** [Repealed, SOR/2013-20, s. 2]
 
 
 
-
-**60.1** For the purposes of paragraph 104.01(3)(d) of the Act, the information referred to in subsection 104.01(3) of the Act in respect of an individual may be made available during the individual’s lifetime to any other individual authorized by that individual if
-- **(a)** the authorizing individual has made a written request to that effect to the Minister, signed within one year before the day on which it was received by the Minister; and
-- **(b)** the authorizing individual has consented in that request to the provision to the authorized individual of access to the information and has not revoked that consent.
-> SOR/2010-45, s. 3.
-
-
-
-
-
-### Prescribed Federal Institutions and Federal Acts
-
-
-**60.2** For the purpose of subsection 104.03(2.1) of the Act, the prescribed federal institution
-- **(a)** for the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md) is the Library and Archives of Canada; and
-- **(b)** for the administration of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md) is Statistics Canada.
-> SOR/2010-45, s. 3.
-
+**60.2** [Repealed, SOR/2013-20, s. 2]
 
 
 
@@ -1537,26 +1513,26 @@ as the Minister may specify.
 
 ***excess payment*** means the amount of any advance or assistance or welfare payment that was paid by an authority to a person for a month or any portion thereof and that would not have been paid if the benefit that was subsequently payable under the Act to that person in respect of that period had in fact been paid during that period. (*paiement excédentaire*)
 
-- **(2)** Subject to subsections (3) to (6), the Minister may, where an authority satisfies him that an excess payment has been paid to a person, authorize
-	- **(a)** the deduction from the one sum amount payable to that person in accordance with subsection 62(1) of the Act in respect of the period for which the excess payment was paid, and
+- **(2)** Subject to subsections (3) to (6), the Minister may, where an authority satisfies him that an excess payment has been paid to a person, authorize
+	- **(a)** the deduction from the one sum amount payable to that person in accordance with subsection 62(1) of the Act in respect of the period for which the excess payment was paid, and
 	- **(b)** the payment to the provincial authority or municipal authority in the province in which the excess payment was paid,
 of an amount equal to the amount of the excess payment.
 
-- **(3)** An authority referred to in subsection (2) shall, before any deduction and payment from a benefit payable under the Act to any person is authorized under subsection (2), certify, in a form satisfactory to the Minister,
+- **(3)** An authority referred to in subsection (2) shall, before any deduction and payment from a benefit payable under the Act to any person is authorized under subsection (2), certify, in a form satisfactory to the Minister,
 	- **(a)** the effective date of commencement and the effective date of termination, if applicable, of the advance or assistance or welfare payment;
 	- **(b)** the amount that was paid to the person by the authority for the period during which the excess payment occurred or the amount that the authority applies to have reimbursed, whichever is the lesser; and
 	- **(c)** the Social Insurance Number of the contributor as a result of whose participation under the Act the benefit is payable.
 
-- **(4)** No deduction and payment in respect of an excess payment shall be authorized pursuant to subsection (2) unless
+- **(4)** No deduction and payment in respect of an excess payment shall be authorized pursuant to subsection (2) unless
 	- **(a)** the Minister and the appropriate provincial official have concluded an agreement in writing authorizing the deduction and payment;
-	- **(b)** the certification required by subsection (3) has been received by the Minister;
-	- **(c)** the irrevocable written consent of the person to the deduction and payment by the Minister and the written request for access to information under subsection 104.01(2) of the Act have been received before the expiry of one year after the date of their signature; and
+	- **(b)** the certification required by subsection (3) has been received by the Minister;
+	- **(c)** the irrevocable written consent of the person to the deduction and payment by the Minister has been received before the expiry of one year after the date of their signature; and
 	- **(d)** the amount of the excess payment is greater than $50.
 
-- **(5)** [Repealed, SOR/96-522, s. 18]
+- **(5)** [Repealed, SOR/96-522, s. 18]
 
-- **(6)** If, for any reason, no deduction has been made under subsection (2) in respect of an excess payment or a deduction and payment have been made in respect of an excess payment in an amount less than the amount that might have been paid in respect thereof under subsection (2), the Minister shall not authorize the deduction and payment of any other amount in respect of that excess payment.
-> SOR/90-829, s. 32; SOR/96-522, s. 18; SOR/99-192, s. 7; SOR/2002-221, s. 3.
+- **(6)** If, for any reason, no deduction has been made under subsection (2) in respect of an excess payment or a deduction and payment have been made in respect of an excess payment in an amount less than the amount that might have been paid in respect thereof under subsection (2), the Minister shall not authorize the deduction and payment of any other amount in respect of that excess payment.
+> SOR/90-829, s. 32; SOR/96-522, s. 18; SOR/99-192, s. 7; SOR/2002-221, s. 3; SOR/2013-20, s. 3.
 
 
 
