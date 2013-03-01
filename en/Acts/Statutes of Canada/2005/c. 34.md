@@ -99,48 +99,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** 
 
-- **(1)** The powers, duties and functions of the Minister extend to and include all matters relating to human resources and skills development in Canada over which Parliament has jurisdiction and which are not by law assigned to any other Minister, department, board or agency of the Government of Canada.
+- **(1)** The Minister’s powers, duties and functions extend to and include all matters relating to human resources and skills development in Canada or the social development of Canada over which Parliament has jurisdiction and which are not by law assigned to any other Minister, department, board or agency of the Government of Canada.
 
 **Exercise of powers**
 
-- **(2)** The Minister shall exercise the powers and perform the duties and functions assigned by subsection (1) with a view to improving the standard of living and quality of life of all Canadians by promoting a highly skilled and mobile workforce and an efficient and inclusive labour market.
+- **(2)** The Minister shall exercise the powers and perform the duties and functions
+	- **(a)** relating to human resources and skills development with a view to improving the standard of living and quality of life of all Canadians by promoting a highly skilled and mobile workforce and an efficient and inclusive labour market; and
+	- **(b)** relating to social development with a view to promoting social well-being and income security.
+> 2005, c. 34, s. 5; 2012, c. 19, s. 687.
+
 
 
 
 
 **Powers**
 
-**6** In exercising the powers and performing the duties or functions assigned to the Minister under this or any other Act, the Minister may
-- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyse, interpret, publish and distribute information relating to human resources and skills development; and
-- **(b)** cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development.
+**6** In exercising the powers and performing the duties and functions assigned to the Minister under this or any other Act, the Minister may
+- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyse, interpret, publish and distribute information relating to human resources and skills development or to social development; and
+- **(b)** cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development or for social development.
+> 2005, c. 34, s. 6; 2012, c. 19, s. 687.
+
 
 
 
 
 **Programs**
 
-**7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, and the Minister may make grants and contributions in support of the programs.
+**7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, or that contribute to the social development of Canada, and the Minister may make grants and contributions in support of the programs.
+> 2005, c. 34, s. 7; 2012, c. 19, s. 687.
 
 
 
 
-### Interdepartmental Services
-
-
-
-**Services**
-
-**8** 
-
-- **(1)** The Department and the Commission may provide services to, and receive services from, the Department of Social Development.
-
-**Amounts recovered**
-
-- **(2)** The Minister may, with the approval of the Treasury Board, fix the amounts or the manner of determining the amounts to be recovered for services provided to the Department of Social Development. The amounts may not exceed the cost of providing the services.
-
-**Amounts received**
-
-- **(3)** Subject to conditions imposed by the Treasury Board, any amounts received by the Department for services may be used by the Department for its purposes.
+**8** [Repealed, 2012, c. 19, s. 687]
 
 
 
@@ -474,7 +465,116 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**28.1** [Repealed, 2008, c. 28, s. 133]
+
+### Social Insurance Number
+
+
+
+**Registration**
+
+**28.1** 
+
+- **(1)** Any person who is employed in insurable employment as defined in the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or who is a self-employed person in respect of whom Part VII.1 of that Act applies must be registered with the Commission.
+
+**Register**
+
+- **(2)** The Commission shall maintain a register containing the names of the persons referred to in subsection (1) and any other information that it determines is necessary to accurately identify them.
+
+**Social Insurance Number**
+
+- **(3)** The Commission shall assign to each person registered with it a number that is suitable for use as a file number or account number or for data processing purposes, and that number is the person’s Social Insurance Number for any purpose for which a Social Insurance Number is required.
+
+**Social Insurance Number card**
+
+- **(4)** The Commission may issue to each person registered with it a card containing the person’s name and Social Insurance Number.
+> 2005, c. 30, s. 129; 2008, c. 28, s. 133; 2012, c. 19, s. 304.
+
+
+
+
+
+**Social Insurance Register**
+
+**28.2** 
+
+- **(1)** The Commission may maintain a Social Insurance Register containing
+	- **(a)** the names of persons registered in the registry referred to in section 28.1;
+	- **(b)** the names of persons to whom a Social Insurance Number has been assigned under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
+	- **(c)** the names of persons for whom an application has been made to the Commission for a Social Insurance Number.
+
+**Additional information**
+
+- **(2)** The Social Insurance Register may, subject to any regulations that the Governor in Council may make in that regard, contain any other information in addition to the names and Social Insurance Numbers of persons that is necessary to accurately identify all persons who are registered.
+
+**Issuing number and card**
+
+- **(3)** When a Social Insurance Number is assigned to a person by the Commission in the course of maintaining the registers mentioned in this section and section 28.1, the Commission may issue a Social Insurance Number card to that person and that number is the person’s Social Insurance Number for all purposes for which a Social Insurance Number is required.
+
+**Regulations**
+
+- **(4)** The Commission may, with the approval of the Governor in Council, make regulations respecting
+	- **(a)** the registration of persons under this section and section 28.1, including applications for that registration;
+	- **(b)** the assignment and use of Social Insurance Numbers;
+	- **(c)** the issuance, custody, production and use of Social Insurance Number cards;
+	- **(d)** periods of validity, and the extension of those periods, of Social Insurance Numbers and Social Insurance Number cards; and
+	- **(e)** the replacement of Social Insurance Number cards that have been lost, destroyed or defaced.
+
+**Availability of information — social insurance registers**
+
+- **(5)** The Commission may make available any information contained in the registers maintained under this section and section 28.1 that the Commission considers necessary for the accurate identification of persons and for the effective use by those persons of Social Insurance Numbers to any persons that the Commission thinks appropriate to accomplish that purpose.
+
+**Secondary release of information**
+
+- **(6)** Information obtained under subsection (5) shall not be made available to a person or body unless the Commission considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed on by the Commission and the person who obtained the information.
+
+**Agreements still in force**
+
+- **(7)** Subsection (6) does not apply to information made available in accordance with an agreement entered into by the Commission before the coming into force of this section.
+
+**New Social Insurance Number**
+
+- **(8)** A person who has been assigned a Social Insurance Number may subsequently be assigned a new Social Insurance Number, in accordance with and subject to any regulations that the Commission may make, if
+	- **(a)** the number first assigned has been assigned to another person;
+	- **(b)** wrongful use by another person of the number first assigned has created a situation in which the person to whom the number was first assigned is or may be caused embarrassment or hardship; or
+	- **(c)** there are other special or unusual circumstances that would make the issuance of a new number desirable.
+
+**Voiding**
+
+- **(9)** When a new Social Insurance Number is assigned to a person, any number previously assigned to that person becomes void.
+
+**More than one number assigned**
+
+- **(10)** If a person has inadvertently been assigned more than one Social Insurance Number, the Commission shall determine which number is the official number and shall void the others.
+> 2012, c. 19, s. 304.
+
+
+
+
+
+**Change of name**
+
+**28.3** When the name of a person to whom a Social Insurance Number has been assigned changes because of marriage or otherwise, the person shall inform the Commission of their new name within 60 days after the day on which the change of name becomes effective, unless they have already so informed another authority empowered to receive that information.
+> 2012, c. 19, s. 304.
+
+
+
+
+
+**Prohibitions**
+
+**28.4** 
+
+- **(1)** No person
+	- **(a)** shall, knowing that they already have a Social Insurance Number, make an application to be again assigned a Social Insurance Number, whether the person gives information that is the same as or different from that contained in their previous application on which the Social Insurance Number had been assigned;
+	- **(b)** shall, with intent to defraud or deceive any person, present, loan or use a Social Insurance Number or Social Insurance Number card;
+	- **(c)** shall, without the authority of the Commission, manufacture a Social Insurance Number card or a substantially similar card, or duplicate a Social Insurance Number card, except by making a paper photocopy for record purposes only; or
+	- **(d)** shall, without the authority of the Commission, sell a Social Insurance Number, a Social Insurance Number card or a substantially similar card.
+
+**Offence and punishment**
+
+- **(2)** Every person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or to both.
+> 2012, c. 19, s. 304.
+
 
 
 
@@ -517,9 +617,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** For the purposes of this Part, a reference to the Minister includes the Minister of Labour in respect of any program, legislation, policy or activity the administration or enforcement of which is the responsibility of the Minister of Labour.
 
-**Exclusion**
+- **(3)** [Repealed, 2012, c. 19, s. 282]
+> 2005, c. 34, s. 30; 2012, c. 19, s. 282.
 
-- **(3)** This Part does not apply to the making available of information referred to in subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
 
 
 
@@ -533,20 +633,29 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Protection of information**
 
-**32** Information is privileged and shall not be made available except as authorized by this Part.
+**32** Information is privileged and shall not be made available unless
+- **(a)** it is authorized under subsection 28.2(5) or by this Part, or by an agreement under section 105 or paragraph 107(1)(a) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or paragraph 40(1)(a) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md); or
+- **(b)** it may be made available under any of paragraphs 33.1(a) to (c) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md).
+> 2005, c. 34, s. 32; 2012, c. 19, s. 283.
 
 
 
 
-**Availability of information on request of an individual**
+
+**Availability of information — individuals and representatives**
 
 **33** 
 
-- **(1)** In addition to an individual’s right of access under section 12 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), and subject to the exemptions and exclusions provided in that Act, information may be made available to the individual on their request in writing to the Minister.
+- **(1)** In addition to an individual’s right of access under section 12 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), and subject to the exemptions and exclusions provided in that Act, information may be made available to the individual or their representative on their request in writing to the Minister.
 
-**Availability of information to representatives and members of Parliament**
+**Availability of information — individuals, representatives and members of Parliament**
 
-- **(2)** On the conditions that the Minister considers advisable, and subject to the exemptions and exclusions provided in the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), information may be made available to an individual or their representative, or to a member of Parliament inquiring on behalf of an individual, if the information is relevant to the making of an application or the receipt of a benefit or other assistance by the individual under a program, or is relevant to any other matter that affects the individual under a program.
+- **(2)** On the conditions that the Minister considers advisable, and subject to the exemptions and exclusions provided in the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), if the information is relevant to the making of an application or the receipt of a benefit or other assistance by the individual under a program, to a division of unadjusted pensionable earnings or an assignment of a retirement pension that affects the individual or to any other matter that affects the individual under a program, it may be made available to
+	- **(a)** the individual;
+	- **(b)** the individual’s representative; or
+	- **(c)** a member of Parliament who is inquiring on behalf of the individual.
+> 2005, c. 34, s. 33; 2012, c. 19, s. 283.
+
 
 
 
@@ -564,28 +673,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Availability of information to Department of Social Development**
+**Availability of information — federal institutions**
 
 **35** 
 
-- **(1)** Information may be made available to the Minister of Social Development, or any public officer of the Department of Social Development, for the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or a program as defined in section 24 of the [Department of Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md).
-
-**Availability of information to other federal institutions**
-
-- **(2)** Information may be made available to a minister or a public officer of a prescribed federal institution, other than the Department of Social Development, for the administration or enforcement of a prescribed federal or provincial law or activity if the Minister considers it advisable and the information is made available subject to conditions agreed upon by the Minister and the federal institution.
+- **(1)** Information may be made available to a minister or a public officer of a prescribed federal institution for the administration or enforcement of a prescribed federal or provincial law or activity if the Minister considers it advisable and the information is made available subject to conditions that are agreed on by the Minister and the federal institution.
 
 **Secondary release of information**
 
-- **(3)** Information obtained under subsection (2) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed upon by the Minister and the federal institution.
+- **(2)** Information obtained under subsection (1) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions that are agreed on by the Minister and the federal institution.
+> 2005, c. 34, s. 35; 2012, c. 19, s. 284.
 
 
 
 
-**Availability of information to provincial authorities**
+
+**Availability of information — provincial authorities**
 
 **36** 
 
-- **(1)** Information may be made available to the government of a province, or to a public body created under the law of a province, for the administration or enforcement of a federal law or activity or a provincial law if the Minister considers it advisable and the information is made available subject to conditions agreed upon by the Minister and the government or body.
+- **(1)** Information may be made available to the government of a province, or to a public body created under the law of a province, for the administration or enforcement of a federal law or activity or of a provincial law or prescribed provincial activity, if the Minister considers it advisable and the information is made available subject to conditions that are agreed on by the Minister and the government or body.
 
 **Availability of information to foreign states and bodies**
 
@@ -594,6 +701,32 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Secondary release of information**
 
 - **(3)** Information obtained under this section by a government, public body, organization or institution shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions agreed upon by the Minister and the government, public body, organization or institution.
+> 2005, c. 34, s. 36; 2012, c. 19, s. 285.
+
+
+
+
+
+**Information relative to Social Insurance Numbers**
+
+**36.1** Despite any other Act or law, the minister or other authority charged with the administration or enforcement of an Act under which Social Insurance Numbers may be assigned and the Minister may exchange the information contained in any applications for such numbers and the numbers so assigned, and may make available any of that information or those numbers in any manner that may be authorized by that Act.
+> 2012, c. 19, s. 286.
+
+
+
+
+
+**Availability of information — certain persons or bodies**
+
+**36.2** 
+
+- **(1)** If the Minister considers it advisable, information may, for the purpose of the administration or enforcement of a federal law or activity or of a provincial law or prescribed provincial activity, be made available to any person or body — other than one to whom it could be made available under subsection 28.2(5) or any of sections 34 to 36.1 — on the conditions set out in an agreement between the Minister and the person or body.
+
+**Secondary release of information**
+
+- **(2)** Information obtained under subsection (1) shall not be made available to any other person or body unless the Minister considers it advisable, the information is made available for the same purpose and it is subject to conditions that are agreed on by the Minister and the person or body that obtained the information.
+> 2012, c. 19, s. 286.
+
 
 
 
@@ -602,21 +735,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **37** 
 
-- **(1)** Despite sections 33 to 36, information may be made available if the Minister is of the opinion that the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure or that disclosure would clearly benefit the individual to whom the information relates.
+- **(1)** Despite sections 33 to 36.2, information may be made available if the Minister is of the opinion that the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure or that disclosure would clearly benefit the individual to whom the information relates.
 
 **Notice of disclosure**
 
 - **(2)** The Minister shall notify the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) in writing of any disclosure of information under subsection (1) prior to the disclosure where reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she deems it appropriate, notify the individual to whom the information relates of the disclosure.
+> 2005, c. 34, s. 37; 2012, c. 19, s. 287.
+
 
 
 
 
 **Research or statistical purposes**
 
-**38** Information may be made available for research or statistical purposes to any person or body, including a person or body referred to in subsection 35(2) or (3) or section 36, if
+**38** Information may be made available for research or statistical purposes to any person or body, including a person or body referred to in section 35, 36 or 36.2 of this Act or in section 105 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), if
 - **(a)** the Minister is of the opinion that the research or statistical purposes are consistent with the principles set out in paragraphs 39(1)(a) to (e);
 - **(b)** the Minister is of the opinion that the purpose for which the information is made available cannot reasonably be accomplished unless the information is provided in a form that may identify the individual to whom it relates; and
 - **(c)** the information is made available subject to conditions set out in an agreement between the Minister and the person or body, and the person or body undertakes in the agreement not to subsequently disclose the information in a form that could reasonably be expected to identify the individual to whom it relates.
+> 2005, c. 34, s. 38; 2012, c. 19, s. 288.
+
 
 
 
@@ -628,7 +765,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The use of information by the Minister and by public officers of the Department for policy analysis, research or evaluation purposes shall be guided by the following principles:
 	- **(a)** the object of the policy analysis, research or evaluation is consistent with the powers, duties and functions of the Minister;
 	- **(b)** the use of the information is consistent with any agreement under which the information was obtained;
-	- **(c)** the results of the policy analysis, research or evaluation will be made available only in accordance with the provisions of this Part and any agreements under which the information was obtained;
+	- **(c)** the results of the policy analysis, research or evaluation will be made available only in accordance with the provisions of this Part, section 105 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and any agreements under which the information was obtained;
 	- **(d)** the policy analysis, research or evaluation would be difficult or impossible if the information were not used; and
 	- **(e)** the policy analysis, research or evaluation is in the public interest.
 
@@ -639,6 +776,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(3)** Information that is used for policy analysis, research or evaluation purposes shall not be used for any administrative purpose as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+> 2005, c. 34, s. 39; 2012, c. 19, s. 289.
+
 
 
 
@@ -661,7 +800,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **42** 
 
-- **(1)** Every person or body commits an offence if they knowingly make available information that is privileged under this Part, or knowingly use or allow such information to be used, otherwise than in accordance with this Part or a condition or agreement referred to in subsection 33(2) or section 35, 36 or 38.
+- **(1)** Every person or body commits an offence if they knowingly make available information that is privileged under this Part, or knowingly use or allow such information to be used, otherwise than in accordance with this Part or subsection 28.2(5) or (6), or a condition or agreement referred to
+	- **(a)** in subsection 33(2) or any of sections 35, 36, 36.2 and 38 of this Act;
+	- **(b)** in section 104.1 or 105 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
+	- **(c)** in section 39 of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md).
 
 **Punishment — individuals**
 
@@ -670,6 +812,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Punishment — others**
 
 - **(3)** A body or a person, other than an individual, who is guilty of an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000.
+> 2005, c. 34, s. 42; 2012, c. 19, s. 290.
+
 
 
 
@@ -677,8 +821,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Regulations**
 
 **43** The Governor in Council may, by regulation, prescribe
-- **(a)** individuals or classes of individuals for the purpose of the definition ***public officer*** in subsection 30(1); and
-- **(b)** federal institutions to which the information referred to in subsection 35(2) may be made available, and the federal or provincial laws or activities for whose administration or enforcement the information may be made available.
+- **(a)** individuals or classes of individuals for the purpose of the definition ***public officer*** in subsection 30(1);
+- **(b)** federal institutions, for the purposes of subsection 35(1), to which the information referred to in that subsection may be made available, and the federal or provincial laws or activities for whose administration or enforcement the information may be made available; and
+- **(c)** provincial activities, for the purposes of subsections 36(1) and 36.2(1), in respect of which the information referred to in those subsections may be made available.
+> 2005, c. 34, s. 43; 2012, c. 19, s. 291.
+
 
 
 
