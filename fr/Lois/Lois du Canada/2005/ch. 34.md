@@ -11,7 +11,7 @@ Sanctionnée sur le 20 juillet 2005
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -99,48 +99,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Les attributions du ministre s’étendent d’une façon générale à tous les domaines de compétence du Parlement liés aux ressources humaines et au développement des compétences au Canada ne ressortissant pas de droit à d’autres ministres, ministères ou organismes fédéraux.
+- **(1)** Les attributions du ministre s’étendent d’une façon générale à tous les domaines de compétence du Parlement liés aux ressources humaines et au développement des compétences au Canada ou au développement social du Canada et ne ressortissant pas de droit à d’autres ministres, ministères ou organismes fédéraux.
 
 **Exercice des attributions**
 
-- **(2)** Ces attributions sont exercées en vue de rehausser le niveau de vie de tous les Canadiens et d’améliorer leur qualité de vie en faisant la promotion du développement d’une main-d’oeuvre hautement qualifiée et mobile, ainsi que d’un marché du travail efficient et favorable à l’intégration.
+- **(2)** Ces attributions sont exercées aux fins suivantes :
+	- **a)** s’agissant des ressources humaines et du développement des compétences, en vue de rehausser le niveau de vie de tous les Canadiens et d’améliorer leur qualité de vie en faisant la promotion du développement d’une main-d’oeuvre hautement qualifiée et mobile, ainsi que d’un marché du travail efficient et favorable à l’intégration;
+	- **b)** s’agissant du développement social, en vue de promouvoir le bien-être des personnes au sein de la société et la sécurité du revenu.
+> 2005, ch. 34, art. 5; 2012, ch. 19, art. 687.
+
 
 
 
 
 **Pouvoirs**
 
-**6** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
-- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur les ressources humaines et le développement des compétences;
-- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant les ressources humaines et le développement des compétences.
+**6** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
+- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur les ressources humaines et le développement des compétences ou sur le développement social;
+- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant les ressources humaines et le développement des compétences ou le développement social.
+> 2005, ch. 34, art. 6; 2012, ch. 19, art. 687.
+
 
 
 
 
 **Programmes**
 
-**7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement des ressources humaines au Canada et au développement des compétences des Canadiens et accorder des subventions et des contributions pour les appuyer.
+**7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement des ressources humaines au Canada et au développement des compétences des Canadiens ou au développement social du Canada et accorder des subventions et des contributions pour les appuyer.
+> 2005, ch. 34, art. 7; 2012, ch. 19, art. 687.
 
 
 
 
-### Services entre ministères
-
-
-
-**Prestation et réception de services**
-
-**8** 
-
-- **(1)** Le ministère et la Commission peuvent fournir des services au ministère du Développement social et en recevoir de celui-ci.
-
-**Sommes à recouvrer**
-
-- **(2)** Avec l’approbation du Conseil du Trésor, le ministre peut fixer la somme ou le mode de calcul de la somme à recouvrer pour les services que le ministère ou la Commission fournissent au ministère du Développement social. La somme ne peut excéder le coût des services fournis.
-
-**Utilisation **
-
-- **(3)** Sous réserve des conditions fixées par le Conseil du Trésor, le ministère peut dépenser à ses fins les sommes perçues.
+**8** [Abrogé, 2012, ch. 19, art. 687]
 
 
 
@@ -470,7 +461,116 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**28.1** [Abrogé, 2008, ch. 28, art. 133]
+
+### Numéro d’assurance sociale
+
+
+
+**Enregistrement**
+
+**28.1** 
+
+- **(1)** Toute personne exerçant un emploi assurable au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et tout travailleur indépendant auquel s’applique la partie VII.1 de cette loi doivent être enregistrés auprès de la Commission.
+
+**Registre**
+
+- **(2)** La Commission tient un registre contenant les noms des personnes visées au paragraphe (1) et les autres renseignements qui lui sont nécessaires pour les identifier avec précision.
+
+**Numéro d’assurance sociale**
+
+- **(3)** La Commission attribue à chaque personne enregistrée un numéro utilisable comme numéro de dossier ou de compte ou pour le traitement des données. Ce numéro est le numéro d’assurance sociale de la personne à toute fin nécessitant un numéro d’assurance sociale.
+
+**Carte d’assurance sociale**
+
+- **(4)** La Commission peut délivrer à chaque personne enregistrée une carte portant ses nom et numéro d’assurance sociale.
+> 2005, ch. 30, art. 129; 2008, ch. 28, art. 133; 2012, ch. 19, art. 304.
+
+
+
+
+
+**Registre d’assurance sociale**
+
+**28.2** 
+
+- **(1)** La Commission peut tenir un Registre d’assurance sociale contenant :
+	- **a)** les noms des personnes enregistrées dans le registre visé à l’article 28.1;
+	- **b)** les noms des personnes auxquelles un numéro d’assurance sociale a été attribué en application du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+	- **c)** les noms des personnes pour lesquelles une demande de numéro d’assurance sociale lui a été présentée.
+
+**Contenu**
+
+- **(2)** Le Registre d’assurance sociale peut, sous réserve des règlements que le gouverneur en conseil peut prendre à cet égard, contenir, en plus des noms et numéros d’assurance sociale des personnes, les autres renseignements nécessaires à l’identification précise de toutes les personnes qui y sont enregistrées.
+
+**Attribution du numéro et de la carte**
+
+- **(3)** Lorsqu’elle attribue un numéro d’assurance sociale à une personne dans le cadre de la tenue des registres mentionnés au présent article et à l’article 28.1, la Commission peut délivrer une carte d’assurance sociale à cette personne et ce numéro est son numéro d’assurance sociale à toute fin nécessitant un numéro d’assurance sociale.
+
+**Règlements**
+
+- **(4)** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements régissant :
+	- **a)** l’enregistrement des personnes en vertu du présent article et de l’article 28.1, notamment les demandes à cet effet;
+	- **b)** l’attribution et l’utilisation des numéros d’assurance sociale;
+	- **c)** la délivrance, la garde, la production et l’utilisation des cartes d’assurance sociale;
+	- **d)** la période de validité des numéros d’assurance sociale et des cartes d’assurance sociale et son prolongement;
+	- **e)** le remplacement des cartes d’assurance sociale perdues, détruites ou en mauvais état.
+
+**Accessibilité aux renseignements — registres d’assurance sociale**
+
+- **(5)** Elle peut, afin d’identifier avec précision des personnes et de leur permettre de bien se servir de leurs numéros d’assurance sociale, mettre à la disposition des personnes qu’elle juge indiquées ceux des renseignements contenus dans les registres tenus en vertu du présent article et de l’article 28.1 qu’elle estime nécessaires à ces fins.
+
+**Accès à d’autres personnes**
+
+- **(6)** Les renseignements obtenus au titre du paragraphe (5) ne peuvent être rendus accessibles à quiconque que si la Commission l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenues la Commission et la personne qui les a obtenus.
+
+**Accords en vigueur**
+
+- **(7)** Le paragraphe (6) ne s’applique pas aux renseignements rendus accessibles dans le cadre d’accords conclus avec la Commission avant la date d’entrée en vigueur du présent article.
+
+**Nouveau numéro d’assurance sociale**
+
+- **(8)** La personne à qui un numéro d’assurance sociale a déjà été attribué peut par la suite s’en faire attribuer un nouveau, en conformité avec les règlements pris par la Commission et sous réserve de ceux-ci, dans les cas suivants :
+	- **a)** le numéro qui lui a été attribué initialement a été attribué à une autre personne;
+	- **b)** l’utilisation frauduleuse par une autre personne de ce numéro lui crée ou risque de lui créer de l’embarras ou des difficultés;
+	- **c)** des circonstances spéciales ou exceptionnelles le justifient.
+
+**Annulation**
+
+- **(9)** Lorsqu’un nouveau numéro d’assurance sociale est attribué à une personne, tout numéro qui lui a été attribué auparavant est annulé.
+
+**Attribution de plus d’un numéro**
+
+- **(10)** Lorsque, par inadvertance, il a été attribué à une personne plus d’un numéro d’assurance sociale, la Commission détermine lequel de ces numéros est le numéro officiel et annule tous les autres.
+> 2012, ch. 19, art. 304.
+
+
+
+
+
+**Changement de nom**
+
+**28.3** Lorsqu’une personne à laquelle un numéro d’assurance sociale a été attribué change de nom en raison de son mariage ou pour une autre raison, elle doit en informer la Commission dans les soixante jours qui suivent la prise d’effet du changement, sauf si elle en a déjà informé une autre autorité compétente.
+> 2012, ch. 19, art. 304.
+
+
+
+
+
+**Interdictions**
+
+**28.4** 
+
+- **(1)** Il est interdit à toute personne :
+	- **a)** de faire, sachant qu’elle a déjà un numéro d’assurance sociale, une demande en vue d’en obtenir un nouveau en donnant des renseignements identiques ou non à ceux d’après lesquels un numéro d’assurance sociale lui a déjà été attribué;
+	- **b)** de produire, de prêter ou d’utiliser de quelque façon un numéro ou une carte d’assurance sociale, dans l’intention de léser ou tromper une autre personne;
+	- **c)** sans autorisation de la Commission, de fabriquer une carte d’assurance sociale ou une carte essentiellement semblable ou de reproduire une carte d’assurance sociale autrement que sous forme de photocopie sur papier destinée aux dossiers seulement;
+	- **d)** sans autorisation de la Commission, de vendre un numéro ou une carte d’assurance sociale ou une carte essentiellement semblable.
+
+**Infraction et peine**
+
+- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+> 2012, ch. 19, art. 304.
+
 
 
 
@@ -505,17 +605,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***mise en oeuvre*** S’agissant de programmes, sont assimilées à la mise en oeuvre la conception, l’élaboration et l’évaluation.
 
-***programme*** Sauf au paragraphe (2), s’entend de tout programme dont la mise en oeuvre ou l’exécution relèvent du ministre ou de la Commission; y sont assimilées les lois, orientations ou activités dont la mise en oeuvre ou l’exécution relèvent de l’un ou de l’autre.
+***programme*** Sauf au paragraphe (2), s’entend de tout programme dont la mise en oeuvre ou l’exécution relèvent du ministre ou de la Commission; y sont assimilées les lois, politiques ou activités dont la mise en oeuvre ou l’exécution relèvent de l’un ou de l’autre.
 
 ***renseignements*** S’entend de renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le passage figurant entre les alinéas i) et j) de la définition étant réputé être ainsi libellé : « toutefois, il demeure entendu que, pour l’application de la présente partie, les renseignements ne comprennent pas les renseignements concernant : ».
 
 **Précision**
 
-- **(2)** Pour l’application de la présente partie, toute mention du ministre vaut mention du ministre du Travail pour ce qui est des programmes, des lois, des orientations ou des activités dont la mise en oeuvre ou l’exécution relèvent de lui.
+- **(2)** Pour l’application de la présente partie, toute mention du ministre vaut mention du ministre du Travail pour ce qui est des programmes, des lois, des politiques ou des activités dont la mise en oeuvre ou l’exécution relèvent de lui.
 
-**Exclusion**
+- **(3)** [Abrogé, 2012, ch. 19, art. 282]
+> 2005, ch. 34, art. 30; 2012, ch. 19, art. 282.
 
-- **(3)** La présente partie ne s’applique pas aux renseignements rendus accessibles en vertu du paragraphe 139(5) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
 
 
 
@@ -529,20 +629,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Protection des renseignements**
 
-**32** Les renseignements sont protégés et ne peuvent être rendus accessibles que si la présente partie l’autorise.
+**32** Les renseignements sont protégés et ne peuvent être rendus accessibles que dans les cas suivants :
+- **a)** le paragraphe 28.2(5), la présente partie ou un accord conclu en vertu de l’article 105 ou de l’alinéa 107(1)a) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou de l’alinéa 40(1)a) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) l’autorisent;
+- **b)** l’accès peut en être permis en vertu de l’un des alinéas 33.1a) à c) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md).
+> 2005, ch. 34, art. 32; 2012, ch. 19, art. 283.
 
 
 
 
-**Particulier**
+
+**Communication au particulier ou à son représentant**
 
 **33** 
 
-- **(1)** Sur demande écrite adressée au ministre par le particulier, les renseignements peuvent être rendus accessibles à celui-ci sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). Ce droit s’ajoute au droit d’accès que donne au particulier l’article 12 de cette loi.
+- **(1)** Sur demande écrite adressée au ministre par le particulier ou par son représentant, les renseignements peuvent leur être rendus accessibles sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). Ce droit s’ajoute au droit d’accès que donne au particulier l’article 12 de cette loi.
 
 **Particuliers, représentants et parlementaires fédéraux**
 
-- **(2)** Les renseignements peuvent être rendus accessibles, aux conditions que le ministre estime indiquées et sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), à un particulier ou à son représentant ou au parlementaire fédéral qui les demande au nom du particulier, dans la mesure où ils sont liés à la présentation d’une demande par le particulier, au versement de prestations à celui-ci, à une autre forme d’aide dans le cadre d’un programme ou à une autre question qui concerne le particulier en vertu de ce programme.
+- **(2)** Dans la mesure où ils sont liés à la présentation d’une demande par le particulier, au versement de prestations à celui-ci, à une autre forme d’aide dans le cadre d’un programme, à un partage de gains non ajustés ouvrant droit à pension, à une cession de pension de retraite qui le concernent ou à toute autre question qui le concerne dans le cadre d’un programme, les renseignements peuvent être rendus accessibles aux personnes ci-après, aux conditions que le ministre estime indiquées et sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) :
+	- **a)** le particulier;
+	- **b)** son représentant;
+	- **c)** le parlementaire fédéral qui les demande au nom du particulier.
+> 2005, ch. 34, art. 33; 2012, ch. 19, art. 283.
+
 
 
 
@@ -560,19 +669,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Ministère du Développement social**
+**Institutions fédérales**
 
 **35** 
 
-- **(1)** Les renseignements peuvent être rendus accessibles au ministre du Développement social ou à tout fonctionnaire public de ce ministère pour la mise en oeuvre ou l’exécution du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) et d’un programme au sens de l’article 24 de la [Loi sur le ministère du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2035.md).
-
-**Autres institutions fédérales**
-
-- **(2)** Si le ministre l’estime indiqué, les renseignements peuvent, pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales ou provinciales visées par règlement, être rendus accessibles à tout ministre ou fonctionnaire public de toute autre institution fédérale visée par règlement aux conditions dont sont convenus le ministre et l’institution.
+- **(1)** Si le ministre l’estime indiqué, les renseignements peuvent, pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales ou provinciales visées par règlement, être rendus accessibles à tout ministre ou fonctionnaire public d’une institution fédérale visée par règlement, aux conditions dont sont convenus le ministre et l’institution.
 
 **Accès à d’autres personnes**
 
-- **(3)** Les renseignements obtenus dans le cadre du paragraphe (2) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’institution fédérale.
+- **(2)** Les renseignements obtenus au titre du paragraphe (1) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’institution fédérale.
+> 2005, ch. 34, art. 35; 2012, ch. 19, art. 284.
+
 
 
 
@@ -581,7 +688,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **36** 
 
-- **(1)** Les renseignements peuvent être rendus accessibles — pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales ou d’une loi provinciale — au gouvernement d’une province ou à un organisme public créé sous le régime d’une loi provinciale, si le ministre l’estime indiqué et, le cas échéant, sont rendus accessibles aux conditions dont sont convenus le ministre et le gouvernement ou l’organisme.
+- **(1)** Les renseignements peuvent être rendus accessibles — pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales, d’une loi provinciale ou d’une activité provinciale visée par règlement — au gouvernement d’une province ou à un organisme public créé sous le régime d’une loi provinciale, si le ministre l’estime indiqué et, le cas échéant, ils sont rendus accessibles aux conditions dont sont convenus le ministre et le gouvernement ou l’organisme.
 
 **Communication à des pays étrangers, organisations internationales, etc.**
 
@@ -590,6 +697,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accès à d’autres personnes**
 
 - **(3)** Les renseignements obtenus dans le cadre du présent article ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées aux paragraphes (1) ou (2) et aux conditions dont sont convenus le ministre et le gouvernement, l’État, l’organisme ou l’organisation internationale, selon le cas.
+> 2005, ch. 34, art. 36; 2012, ch. 19, art. 285.
+
+
+
+
+
+**Renseignements régis par d’autres lois ou relatifs à des numéros d’assurance sociale**
+
+**36.1** Par dérogation à toute autre loi ou règle de droit, sont autorisés, d’une part, l’échange des renseignements contenus dans les demandes de numéro d’assurance sociale ainsi que des numéros eux-mêmes, entre le ministre et l’autorité chargée de la mise en oeuvre ou de l’exécution de la loi régissant l’attribution de ceux-ci et, d’autre part, la communication par eux de ces renseignements ou numéros dans le cadre de cette même loi.
+> 2012, ch. 19, art. 286.
+
+
+
+
+
+**Communication à certaines personnes et organismes**
+
+**36.2** 
+
+- **(1)** Si le ministre l’estime indiqué, les renseignements peuvent, pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales, d’une loi provinciale ou d’une activité provinciale visée par règlement, être rendus accessibles à tout organisme ou personne à qui ils ne peuvent l’être en vertu du paragraphe 28.2(5) et des articles 34 à 36.1, aux conditions énoncées dans un accord conclu entre lui et l’organisme ou la personne en question.
+
+**Accès à d’autres personnes**
+
+- **(2)** Les renseignements obtenus au titre du paragraphe (1) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’organisme ou la personne qui les a obtenus.
+> 2012, ch. 19, art. 286.
+
 
 
 
@@ -598,21 +731,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **37** 
 
-- **(1)** Par dérogation aux articles 33 à 36, les renseignements peuvent toujours être rendus accessibles si le ministre estime que l’intérêt du public à la communication justifierait nettement une éventuelle violation de la vie privée ou que la communication profiterait nettement au particulier visé par les renseignements.
+- **(1)** Par dérogation aux articles 33 à 36.2, les renseignements peuvent toujours être rendus accessibles si le ministre estime que l’intérêt du public à la communication justifierait nettement une éventuelle violation de la vie privée ou que la communication profiterait nettement au particulier visé par les renseignements.
 
 **Avis au Commissaire à la protection de la vie privée**
 
 - **(2)** Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant le particulier concerné est laissée à l’appréciation du Commissaire.
+> 2005, ch. 34, art. 37; 2012, ch. 19, art. 287.
+
 
 
 
 
 **Travaux de recherche ou de statistique**
 
-**38** Les renseignements peuvent être rendus accessibles à toute personne ou à tout organisme, y compris ceux visés aux paragraphes 35(2) ou (3) ou à l’article 36, pour des travaux de recherche ou de statistique si les conditions suivantes sont réunies :
+**38** Les renseignements peuvent être rendus accessibles à toute personne ou à tout organisme, y compris ceux visés aux articles 35, 36 ou 36.2 de la présente loi ou à l’article 105 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), pour des travaux de recherche ou de statistique, si les conditions suivantes sont réunies :
 - **a)** le ministre estime que les travaux de recherche ou de statistique sont conformes aux principes énoncés aux alinéas 39(1)a) à e);
 - **b)** le ministre estime que les fins auxquelles les renseignements sont rendus accessibles ne peuvent être normalement atteintes que si ceux-ci sont donnés sous une forme qui permette d’identifier le particulier qu’ils concernent;
 - **c)** les renseignements sont rendus accessibles aux conditions fixées dans un accord conclu entre le ministre et la personne ou l’organisme en question dans lequel la personne ou l’organisme s’engagent notamment auprès du ministre à s’abstenir de toute communication ultérieure des renseignements tant que leur forme risque vraisemblablement de permettre l’identification d’un particulier.
+> 2005, ch. 34, art. 38; 2012, ch. 19, art. 288.
+
 
 
 
@@ -624,7 +761,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** L’utilisation de renseignements par le ministre et les fonctionnaires publics du ministère à des fins d’évaluation, de recherche ou d’analyse des politiques s’inspire des principes suivants :
 	- **a)** l’objet de l’évaluation, de la recherche ou de l’analyse est conforme aux attributions du ministre;
 	- **b)** l’utilisation satisfait aux exigences des accords en vertu desquels les renseignements ont été obtenus;
-	- **c)** les résultats ne peuvent être rendus accessibles qu’en conformité avec la présente partie et les accords en vertu desquels les renseignements ont été obtenus;
+	- **c)** les résultats ne peuvent être rendus accessibles qu’en conformité avec la présente partie, l’article 105 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) et les accords en vertu desquels les renseignements ont été obtenus;
 	- **d)** l’évaluation, la recherche ou l’analyse seraient difficiles ou même impossibles sans l’utilisation des renseignements;
 	- **e)** l’évaluation, la recherche ou l’analyse sont dans l’intérêt du public.
 
@@ -635,6 +772,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(3)** Les renseignements visés au paragraphe (1) ne peuvent pas être utilisés à des fins administratives au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+> 2005, ch. 34, art. 39; 2012, ch. 19, art. 289.
+
 
 
 
@@ -657,7 +796,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **42** 
 
-- **(1)** Commet une infraction quiconque sciemment rend accessibles, utilise ou permet qu’on utilise des renseignements protégés par la présente partie contrairement à celle-ci, aux conditions visées au paragraphe 33(2) ou aux articles 35, 36 ou 38, ou à tout accord visé à ces dispositions.
+- **(1)** Commet une infraction quiconque, sciemment, rend accessibles, utilise ou permet que soient utilisés des renseignements protégés par la présente partie contrairement à celle-ci ou aux paragraphes 28.2(5) ou (6), ou contrairement aux conditions ou accords visés, selon le cas, aux dispositions ci-après :
+	- **a)** le paragraphe 33(2) ou les articles 35, 36, 36.2 et 38 de la présente loi;
+	- **b)** les articles 104.1 ou 105 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+	- **c)** l’article 39 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md).
 
 **Peines : particuliers**
 
@@ -666,6 +808,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Peines : personnes ou organismes**
 
 - **(3)** Toute autre personne ou tout organisme qui commet l’infraction visée au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $.
+> 2005, ch. 34, art. 42; 2012, ch. 19, art. 290.
+
 
 
 
@@ -674,7 +818,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **43** Le gouverneur en conseil peut, par règlement :
 - **a)** désigner tout particulier ou toute catégorie de particuliers pour l’application de la définition de ***fonctionnaire public*** au paragraphe 30(1);
-- **b)** préciser, pour l’application du paragraphe 35(2), les institutions fédérales à qui les renseignements visés à ce paragraphe peuvent être rendus accessibles et les lois ou activités fédérales ou provinciales pour la mise en oeuvre ou l’exécution desquelles ils peuvent l’être.
+- **b)** préciser, pour l’application du paragraphe 35(1), les institutions fédérales à qui les renseignements visés à ce paragraphe peuvent être rendus accessibles et les lois ou activités fédérales ou provinciales pour la mise en oeuvre ou l’exécution desquelles ils peuvent l’être;
+- **c)** préciser, pour l’application des paragraphes 36(1) et 36.2(1), les activités provinciales pour lesquelles les renseignements visés à ces paragraphes peuvent être rendus accessibles.
+> 2005, ch. 34, art. 43; 2012, ch. 19, art. 291.
+
 
 
 
