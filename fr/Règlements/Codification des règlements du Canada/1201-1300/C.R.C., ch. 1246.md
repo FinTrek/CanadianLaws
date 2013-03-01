@@ -118,7 +118,9 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 	- **d)** le mois précédant la date indiquée par écrit par le demandeur.
 
 - **(3)** Lorsque, en vertu des paragraphes 5(2) ou 11(3) de la Loi, le ministre répute une demande présentée et agréée, l’agrément prend effet le jour où la personne a atteint l’âge de 65 ans.
-> DORS/83-84, art. 1; DORS/84-656, art. 1; DORS/90-813, art. 3; DORS/96-521, art. 4 et 29(F).
+
+- **(4)** Si, en vertu du paragraphe 5(4) de la Loi, le ministre dispense une personne de l’obligation de présenter une demande, l’agrément prend effet le jour où cette personne atteint l’âge de 65 ans.
+> DORS/83-84, art. 1; DORS/84-656, art. 1; DORS/90-813, art. 3; DORS/96-521, art. 4 et 29(F); DORS/2013-23, art. 2.
 
 
 
@@ -297,20 +299,20 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 
 **18** 
 
-- **(1)** Sous réserve de l’article 19, le ministre établit l’âge et l’identité du demandeur pour l’application de la Loi conformément à celui des paragraphes (2) à (2.2) qui est applicable.
+- **(1)** Sous réserve de l’article 19, le ministre établit l’âge et l’identité du demandeur pour l’application de la Loi conformément à celui des paragraphes (2) à (2.2) qui est applicable.
 
-- **(2)** Le ministre établit l’âge et l’identité du demandeur sur le fondement des renseignements que la Commission de l’assuranceemploi du Canada lui a fournis en vertu du paragraphe 139(5) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+- **(2)** Le ministre établit l’âge et l’identité du demandeur sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
 
 - **(2.1)** Le ministre établit l’âge et l’identité du demandeur sur le fondement d’un acte de naissance ou d’une copie conforme d’un tel acte.
 
 - **(2.2)** S’il y a des raisons suffisantes de croire qu’un acte de naissance ne peut être obtenu, le ministre établit l’âge et l’identité du demandeur sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identité de celui-ci.
 
-- **(3)** Si le ministre ne peut établir l’âge et l’identité du demandeur conformément à l’un des paragraphes (2) à (2.2), il peut, sous réserve des conditions ci-après, demander à Statistique Canada de chercher dans les dossiers de recensement des renseignements touchant l’âge et l’identité du demandeur :
+- **(3)** Si le ministre ne peut établir l’âge et l’identité du demandeur conformément à l’un des paragraphes (2) à (2.2), il peut, sous réserve des conditions ci-après, demander à Statistique Canada de chercher dans les dossiers de recensement des renseignements touchant l’âge et l’identité du demandeur :
 	- **a)** une telle demande doit être faite dans la forme prescrite par le statisticien en chef du Canada, s’accompagner du consentement écrit de la personne au sujet de laquelle l’information est sollicitée et inclure les renseignements précis nécessaires aux recherches dans les dossiers de recensements; et
 	- **b)** tout renseignement fourni par Statistique Canada doit demeurer confidentiel et ne peut servir qu’à déterminer l’âge du demandeur, comme l’exige la Loi, le Régime d’assistance publique du Canada ou le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), selon le cas.
 
-- **(4)** [Abrogé, DORS/96-521, art. 7]
-> DORS/96-521, art. 7, 27 et 29(F); DORS/2004-249, art. 7.
+- **(4)** [Abrogé, DORS/96-521, art. 7]
+> DORS/96-521, art. 7, 27 et 29(F); DORS/2004-249, art. 7; DORS/2013-20, art. 6.
 
 
 
@@ -329,8 +331,12 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 ### Résidence
 
 
-**20** Pour permettre au ministre de décider de l’admissibilité du demandeur, quant à la résidence au Canada, le demandeur ou quelqu’un en son nom doit présenter une déclaration contenant les détails complets de toutes les périodes de résidence au Canada et de toutes les absences de ce pays se rapportant à cette admissibilité.
-> DORS/96-521, art. 27 et 29(F).
+**20** 
+
+- **(1)** Pour permettre au ministre d’établir l’admissibilité d’une personne, quant à la résidence au Canada, la personne ou quelqu’un en son nom doit présenter une déclaration contenant les détails complets de toutes les périodes de résidence au Canada et de toutes les absences de ce pays se rapportant à cette admissibilité.
+
+- **(2)** La personne n’a pas, dans les cas prévus aux paragraphes 5(2) ou (5), 11(3) ou (4), 19(4.1) ou 21(5) ou (5.1) de la Loi, à présenter la déclaration visée au paragraphe (1), sauf si le ministre en fait la demande sous le régime de la Loi.
+> DORS/96-521, art. 27 et 29(F); DORS/2013-23, art. 5.
 
 
 
@@ -411,18 +417,37 @@ si cette personne revient au Canada dans un délai de six mois après la fin de 
 	- **b)** d’une personne réputée être un résident du Canada, au sens du paragraphe (5.1), ou
 	- **c)** d’une personne visée au paragraphe (5.2) qui réside au Canada et est assujettie aux lois d’un pays autre que le Canada,
 s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant ou de l’enfant dont elle a la garde à titre de parent nourricier, de même que du père, de la mère ou de l’enfant de son époux ou son conjoint de fait, selon le cas, ou encore de l’enfant dont son époux ou son conjoint de fait a la garde à titre de parent nourricier.
-> DORS/81-285, art. 5; DORS/83-84, art. 2 et 3; DORS/89-269, art. 6; DORS/96-521, art. 9; DORS/2000-412, art. 9.
+
+- **(8)** Pour l’application de l’article 4.1 de la Loi en ce qui concerne la condition prévue au sous-alinéa 3(1)c)(iii) de la Loi, les renseignements sont ceux indiquant que, pendant tout ou partie de chaque année au cours d’une période d’au moins quarante ans :
+	- **a)** soit la personne a cumulé, au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des gains non ajustés ouvrant droit à pension supérieurs à son exemption de base pour l’année ou au titre de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9, des gains admissibles non ajustés supérieurs à son exemption personnelle pour l’année;
+	- **b)** soit la personne a reçu une pension de retraite ou une pension d’invalidité au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite ou une rente d’invalidité au titre de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9;
+	- **c)** soit au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), une période a été exclue de la période cotisable de la personne du fait qu’elle était bénéficiaire d’une allocation familiale ou au titre de la Loi sur le régime des rentes du Québec L.R.Q., ch. R-9, une période a été exclue de la période cotisable de la personne du fait qu’elle était une personne qui recevait des prestations familiales.
+
+- **(9)** Pour l’application du paragraphe (8) :
+	- **a)** s’agissant du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), ***exemption de base***, ***gains non ajustés ouvrant droit à pension*** et ***période cotisable*** s’entendent au sens du paragraphe 2(1) de cette loi et ***bénéficiaire d’une allocation familiale*** s’entend au sens du paragraphe 42(1) de cette loi;
+	- **b)** s’agissant de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9, ***personne qui reçoit des prestations familiales***, ***exemption personnelle***, ***gains admissibles non ajustés*** et ***période cotisable*** s’entendent respectivement au sens du paragraphe v) de l’article 1 et des articles 43, 98 et 101 de cette loi.
+> DORS/81-285, art. 5; DORS/83-84, art. 2 et 3; DORS/89-269, art. 6; DORS/96-521, art. 9; DORS/2000-412, art. 9; DORS/2013-23, art. 6.
 
 
 
 
-**22** Pour l’application des paragraphes 4(1), 19(2) et 21(2) de la Loi, ***résident légal*** s’entend d’une personne qui, le jour en cause visé aux alinéas a) ou b) de ces paragraphes :
-- **a)** soit se trouve légalement au Canada en conformité avec les lois canadiennes sur l’immigration alors en vigueur;
-- **b)** soit est un résident du Canada et est absente du Canada, mais :
-	- **(i)** d’une part, est réputée, en application des paragraphes 21(4) ou (5) ou aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, ne pas avoir interrompu sa résidence au Canada durant la période d’absence,
-	- **(ii)** d’autre part, se trouvait légalement au Canada en conformité avec les lois canadiennes sur l’immigration en vigueur immédiatement avant le début de la période d’absence;
-- **c)** soit n’est pas un résident du Canada mais est réputée, en vertu du paragraphe 21(3) ou aux termes d’un accord visé au paragraphe 40(1) de la Loi, être un résident du Canada.
-> DORS/78-699, art. 1; DORS/81-285, art. 6; DORS/89-269, art. 7; DORS/90-813, art. 11; DORS/96-521, art. 10.
+
+### Résident légal
+
+
+**22** 
+
+- **(1)** Pour l’application des paragraphes 4(1), 19(2) et 21(2) de la Loi, ***résident légal*** s’entend d’une personne qui, le jour en cause visé aux alinéas a) ou b) de ces paragraphes :
+	- **a)** soit se trouve légalement au Canada en conformité avec les lois canadiennes sur l’immigration alors en vigueur;
+	- **b)** soit est un résident du Canada et est absente du Canada, mais :
+		- **(i)** d’une part, est réputée, en application des paragraphes 21(4) ou (5) ou aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, ne pas avoir interrompu sa résidence au Canada durant la période d’absence,
+		- **(ii)** d’autre part, se trouvait légalement au Canada en conformité avec les lois canadiennes sur l’immigration en vigueur immédiatement avant le début de la période d’absence;
+	- **c)** soit n’est pas un résident du Canada mais est réputée, en vertu du paragraphe 21(3) ou aux termes d’un accord visé au paragraphe 40(1) de la Loi, être un résident du Canada.
+
+- **(2)** Pour l’application de l’article 4.1 de la Loi en ce qui concerne la condition prévue à l’alinéa 4(1)a) de la Loi, les renseignements sont, à la fois :
+	- **a)** une adresse résidentielle actuelle au Canada;
+	- **b)** les renseignements visés au paragraphe 21(8).
+> DORS/78-699, art. 1; DORS/81-285, art. 6; DORS/89-269, art. 7; DORS/90-813, art. 11; DORS/96-521, art. 10; DORS/2013-23, art. 8.
 
 
 
@@ -536,6 +561,20 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
+### Annulation de la pension
+
+
+**26.1** 
+
+- **(1)** Pour l’application du paragraphe 9.3(1) de la Loi, la demande d’annulation du service de la pension est présentée au ministre par écrit dans les six mois suivant la date où il a débuté.
+
+- **(2)** Pour l’application du paragraphe 9.3(2) de la Loi, les sommes versées au titre de la pension, du supplément et de l’allocation sont remboursées dans les six mois suivant la date d’agrément de la demande.
+> DORS/2013-23, art. 9.
+
+
+
+
+
 ### Recouvrement des plus-payés
 
 
@@ -567,39 +606,15 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
-
-### Accès à des renseignements protégés
-> [DORS/2010-45, art. 23]
+**28.2** [Abrogé, DORS/2013-20, art. 7]
 
 
 
-**28.2** 
-
-- **(1)** Pour l’application du paragraphe 33.01(2) de la Loi, les renseignements peuvent être rendus accessibles au destinataire désigné dans la demande si celle-ci a été signée dans l’année précédant le jour de sa réception par le ministre.
-
-- **(2)** Le destinataire peut, sur demande, avoir accès annuellement aux renseignements jusqu’à ce que le particulier décède ou que ce dernier ou son représentant retire la demande visée au paragraphe (1), si celle-ci indique que le particulier ou son représentant consent à cette mesure.
-> DORS/99-193, art. 3.
+**28.3** [Abrogé, DORS/2013-20, art. 7]
 
 
 
-
-**28.3** Pour l’application de l’alinéa 33.01(3)d) de la Loi, les renseignements visés au paragraphe 33.01(3) de la Loi obtenus sur un particulier peuvent être rendus accessibles de son vivant à tout autre particulier qu’il a autorisé si les conditions suivantes sont réunies :
-- **a)** il a fait au ministre une demande écrite à cet effet qu’il a signée dans l’année précédant le jour de sa réception par le ministre;
-- **b)** il a consenti dans cette demande à ce que les renseignements soient rendus accessibles au particulier autorisé et n’a pas révoqué ce consentement.
-> DORS/2010-45, art. 24.
-
-
-
-
-
-### Institutions et lois fédérales visées par règlement
-
-
-**28.4** Pour l’application du paragraphe 33.03(2.1) de la Loi, les institutions fédérales visées par règlement sont les suivantes :
-- **a)** Bibliothèque et Archives du Canada, pour la mise en oeuvre de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md);
-- **b)** Statistique Canada, pour la mise en oeuvre de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
-> DORS/2010-45, art. 24.
-
+**28.4** [Abrogé, DORS/2013-20, art. 7]
 
 
 
