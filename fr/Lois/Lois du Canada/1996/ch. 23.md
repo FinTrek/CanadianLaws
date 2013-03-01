@@ -2210,7 +2210,7 @@ plus de 13 %
 
 - **(1)** Au plus tard le 31 juillet de chaque année, le ministre communique à l’Office les renseignements suivants :
 	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
-	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), f) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
+	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1), f) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
 	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre;
 	- **d)** les renseignements réglementaires.
 
@@ -2219,7 +2219,7 @@ plus de 13 %
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
 	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
-> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436.
+> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436 et 462.
 
 
 
@@ -2440,6 +2440,7 @@ plus de 13 %
 	- **b)** toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
 	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
 	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
+	- **d.1)** les frais d’application des articles 28.1 et 28.2 de la Loi sur le ministère des Ressources humaines et du Développement des compétences;
 	- **e)** les frais d’application de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md) pour l’Office;
 	- **f)** les frais d’application de cette loi pour Sa Majesté du chef du Canada;
 	- **g)** les frais d’application de la partie 5 de la Loi sur le ministère des Ressources humaines et du Développement des compétences à l’égard des appels relatifs à la présente loi.
@@ -2451,7 +2452,7 @@ plus de 13 %
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245.
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307.
 
 
 
@@ -4047,90 +4048,37 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 
 
-**Enregistrement**
+**Obligation**
 
-**138** 
+**138** Toute personne exerçant un emploi assurable et tout travailleur indépendant auquel la partie VII.1 s’applique doit avoir un numéro d’assurance sociale lui ayant été attribué en vertu d’une loi fédérale.
+> 1996, ch. 23, art. 138; 2012, ch. 19, art. 308.
 
-- **(1)** Toute personne exerçant un emploi assurable doit être enregistrée à la Commission.
-
-**Registre**
-
-- **(2)** La Commission tient un registre contenant les noms de tous les assurés enregistrés à la Commission et les autres renseignements qui lui sont nécessaires pour identifier avec précision tous ces assurés.
-
-**Numéro d’assurance sociale**
-
-- **(3)** La Commission attribue à chaque personne enregistrée un numéro individuel utilisable comme numéro de dossier ou de compte ou pour le traitement des données. Ce numéro est le numéro d’assurance sociale de la personne à toute fin nécessitant un numéro d’assurance sociale.
-
-**Carte d’assurance sociale**
-
-- **(4)** La Commission délivre à chaque personne enregistrée une carte portant ses nom et numéro d’assurance sociale.
-
-
-
-
-**Registre d’assurance sociale**
-
-**139** 
-
-- **(1)** Sous réserve des règlements et en conformité avec ceux-ci, la Commission peut tenir un Registre d’assurance sociale contenant :
-	- **a)** les noms des particuliers enregistrés en vertu de l’article 138;
-	- **b)** les noms des particuliers auxquels un numéro d’assurance sociale a été attribué en application du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
-	- **c)** les noms des particuliers pour lesquels une demande de numéro d’assurance sociale a été présentée à la Commission.
-
-**Contenu**
-
-- **(2)** Ce registre d’assurance sociale peut, sous réserve des règlements que le gouverneur en conseil peut prendre à cet égard, contenir, en plus des noms et numéros d’assurance sociale des particuliers, les autres renseignements nécessaires à l’identification précise de tous les particuliers qui y sont enregistrés.
-
-**Attribution du numéro et de la carte**
-
-- **(3)** Lorsque la Commission attribue un numéro d’assurance sociale à un particulier dans l’un des registres ou les deux registres mentionnés au présent article et à l’article 138, elle délivre une carte d’assurance sociale à ce particulier et ce numéro est son numéro d’assurance sociale à toute fin nécessitant un numéro d’assurance sociale.
-
-**Règlements**
-
-- **(4)** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant l’enregistrement des particuliers en vertu du présent article et de l’article 138, la demande d’enregistrement, la délivrance, la garde, la production et l’utilisation des cartes d’assurance sociale ainsi que le remplacement des cartes perdues, détruites ou en mauvais état.
-
-**Accès aux renseignements**
-
-- **(5)** Sous réserve des règlements que le gouverneur en conseil peut prendre à cet égard, la Commission peut, aux fins d’identifier avec précision des particuliers et de leur permettre de bien se servir de leurs numéros et cartes d’assurance sociale, mettre à la disposition des personnes qu’elle juge indiquées ceux des renseignements contenus dans les registres tenus en vertu du présent article ou de l’article 138 qu’elle estime nécessaires à ces fins.
-
-**Nouveau numéro d’assurance sociale**
-
-- **(6)** Une personne à qui un numéro d’assurance sociale a déjà été attribué peut par la suite se faire attribuer un nouveau numéro d’assurance sociale, en conformité avec les règlements pris par la Commission et sous réserve de ceux-ci, dans l’un ou l’autre des cas suivants :
-	- **a)** le numéro attribué initialement a été attribué à une autre personne;
-	- **b)** l’utilisation frauduleuse par une autre personne du numéro attribué initialement crée une situation qui cause ou qui peut causer à celui à qui il a été attribué de l’embarras ou des difficultés;
-	- **c)** des circonstances spéciales ou exceptionnelles le justifient.
-
-**Annulation**
-
-- **(7)** Lorsqu’un nouveau numéro d’assurance sociale est attribué à une personne, tout numéro qui lui a été auparavant attribué est annulé.
-
-**Attribution de plus d’un numéro**
-
-- **(8)** Lorsque, par inadvertance, il a été attribué à une personne plus d’un numéro d’assurance sociale, la Commission détermine lequel de ces numéros est le numéro officiel et annule tous les autres.
 
 
 
 
 **Changement de nom**
 
-**140** Lorsque le nom d’une personne à laquelle un numéro d’assurance sociale a été attribué est changé en raison de son mariage ou pour une autre raison, cette personne doit demander à la Commission, dans les soixante jours suivant la date d’application de ce changement de nom, la délivrance d’une carte d’assurance sociale portant son nouveau nom, à moins qu’elle n’ait déjà demandé une nouvelle carte à une autorité compétente pour recevoir une telle demande.
+**139** Lorsqu’une personne à laquelle un numéro d’assurance sociale a été attribué change de nom en raison de son mariage ou pour une autre raison, celle-ci doit en informer la Commission dans les soixante jours qui suivent la prise d’effet du changement, à moins qu’elle n’en ait déjà informé une autorité compétente pour recevoir cette information.
+> 1996, ch. 23, art. 139; 2012, ch. 19, art. 308.
 
 
 
 
-**Interdictions**
 
-**141** 
+**Règlements**
 
-- **(1)** Il est interdit à toute personne :
-	- **a)** de faire sciemment, si elle a déjà un numéro d’assurance sociale, une demande en vue d’obtenir de nouveau un numéro d’assurance sociale en donnant des renseignements identiques ou non à ceux d’après lesquels un numéro d’assurance sociale lui a déjà été attribué;
-	- **b)** de produire, de prêter ou d’utiliser de quelque façon, dans l’intention de léser ou tromper une autre personne, un numéro ou une carte d’assurance sociale;
-	- **c)** sans autorisation de la Commission, de fabriquer une carte d’assurance sociale ou une carte semblable ou de reproduire une carte d’assurance sociale autrement que sous forme de photocopie sur papier à n’utiliser que pour mémoire ou pour des dossiers;
-	- **d)** sans autorisation de la Commission, de vendre un numéro ou une carte d’assurance sociale, ou une carte semblable.
+**140** Pour l’application des articles 138 et 139, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements régissant :
+- **a)** les demandes visant l’obtention d’un numéro d’assurance sociale;
+- **b)** l’attribution et l’utilisation de ce numéro;
+- **c)** les exigences auxquelles les détenteurs d’un tel numéro doivent se conformer;
+- **d)** les exigences auxquelles les employeurs doivent se conformer.
+> 1996, ch. 23, art. 140; 2012, ch. 19, art. 308.
 
-**Infraction et peine**
 
-- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+
+
+**141** [Abrogé, 2012, ch. 19, art. 308]
 
 
 
