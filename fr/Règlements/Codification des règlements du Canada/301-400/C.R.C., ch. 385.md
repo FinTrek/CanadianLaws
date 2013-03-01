@@ -942,14 +942,14 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 - **(1)** Sous réserve des articles 49 et 50, le ministre établit l'âge et l'identité de toute personne pour l'application de la Loi conformément à celui des paragraphes (2) à (4) qui est applicable.
 
-- **(2)** Le ministre établit l'âge et l'identité de la personne sur le fondement des renseignements que la Commission de l'assurance-emploi du Canada lui a fournis en vertu du paragraphe 139(5) de la Loi sur l'assurance-emploi.
+- **(2)** Le ministre établit l’âge et l’identité de la personne sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
 
 - **(3)** Le ministre établit l'âge et l'identité de la personne sur le fondement d'un acte de naissance ou d'une copie conforme d'un tel acte.
 
 - **(4)** S'il y a des raisons suffisantes de croire qu'un acte de naissance ne peut être obtenu, le ministre établit l'âge et l'identité de la personne sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identitié de la personne.
 
 - **(5)** Si le ministre ne peut établir l'âge et l'identité de la personne conformément à l'un des paragraphes (2) à (4), il doit, si possible, les établir sur le fondement des renseignements obtenus auprès de Statistique Canada aux termes de l'article 87 de la Loi.
-> DORS/86-1133, art. 7; DORS/90-829, art. 20; DORS/96-522, art. 23; DORS/2004-249, art. 4.
+> DORS/86-1133, art. 7; DORS/90-829, art. 20; DORS/96-522, art. 23; DORS/2004-249, art. 4; DORS/2013-20, art. 1.
 
 
 
@@ -1188,39 +1188,15 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-
-### Accès à des renseignements protégés
-> [DORS/96-522, art. 13; DORS/2010-45, art. 2]
+**60** [Abrogé, DORS/2013-20, art. 2]
 
 
 
-**60** 
-
-- **(1)** Pour l’application du paragraphe 104.01(2) de la Loi, les renseignements peuvent être rendus accessibles au destinataire désigné dans la demande si celle-ci a été signée dans l’année précédant le jour de sa réception par le ministre.
-
-- **(2)** Le destinataire peut, sur demande, avoir accès annuellement aux renseignements jusqu’à ce que le particulier décède ou que ce dernier ou son représentant retire la demande visée au paragraphe (1), si celle-ci indique que le particulier ou son représentant consent à cette mesure.
-> DORS/80-813, art. 1; DORS/90-829, art. 26; DORS/93-290, art. 6; DORS/96-522, art. 14; DORS/99-192, art. 5.
+**60.1** [Abrogé, DORS/2013-20, art. 2]
 
 
 
-
-**60.1** Pour l’application de l’alinéa 104.01(3)d) de la Loi, les renseignements visés au paragraphe 104.01(3) de la Loi obtenus sur un particulier peuvent être rendus accessibles de son vivant à tout autre particulier qu’il a autorisé si les conditions suivantes sont réunies :
-- **a)** il a fait au ministre une demande écrite à cet effet qu’il a signée dans l’année précédant le jour de sa réception par le ministre;
-- **b)** il a consenti dans cette demande à ce que les renseignements soient rendus accessibles au particulier autorisé et n’a pas révoqué ce consentement.
-> DORS/2010-45, art. 3.
-
-
-
-
-
-### Institutions et lois fédérales visées par règlement
-
-
-**60.2** Pour l’application du paragraphe 104.03(2.1) de la Loi, les institutions fédérales visées par règlement sont les suivantes :
-- **a)** Bibliothèque et Archives du Canada, pour la mise en oeuvre de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md);
-- **b)** Statistique Canada, pour la mise en oeuvre de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
-> DORS/2010-45, art. 3.
-
+**60.2** [Abrogé, DORS/2013-20, art. 2]
 
 
 
@@ -1537,26 +1513,26 @@ qu’il peut indiquer.
 
 ***paiement excédentaire*** désigne le montant de l’avance ou du paiement d’assistance ou d’aide sociale ayant été versé à une personne par une autorité, pour un mois ou une partie de mois, et qui ne l’aurait pas été si la prestation subséquemment payable selon la Loi pour la période concernée avait effectivement été versée au cours de cette période. (*excess payment*)
 
-- **(2)** Sous réserve des paragraphes (3) à (6) et pourvu qu’une autorité établisse, à la satisfaction du ministre, qu’un paiement excédentaire a été versé à une personne, ce dernier peut autoriser
-	- **a)** la déduction, sur le montant payable en une seule somme selon le paragraphe 62(1) de la Loi pour la période pour laquelle le paiement excédentaire a été versé,
+- **(2)** Sous réserve des paragraphes (3) à (6) et pourvu qu’une autorité établisse, à la satisfaction du ministre, qu’un paiement excédentaire a été versé à une personne, ce dernier peut autoriser
+	- **a)** la déduction, sur le montant payable en une seule somme selon le paragraphe 62(1) de la Loi pour la période pour laquelle le paiement excédentaire a été versé,
 	- **b)** le versement, à l’autorité provinciale ou municipale de la province où le paiement excédentaire a été versé,
 d’une somme égale à ce paiement excédentaire.
 
-- **(3)** Une autorité visée au paragraphe (2) doit, avant que la déduction et le paiement provenant d’une prestation payable en vertu de la Loi, ne soient autorisés en vertu du paragraphe (2), attester, à la satisfaction du ministre,
+- **(3)** Une autorité visée au paragraphe (2) doit, avant que la déduction et le paiement provenant d’une prestation payable en vertu de la Loi, ne soient autorisés en vertu du paragraphe (2), attester, à la satisfaction du ministre,
 	- **a)** la date d’entrée en vigueur et, le cas échéant, la date de cessation d’une avance ou d’un paiement d’assistance ou d’aide sociale;
 	- **b)** le montant versé à la personne par l’autorité pour la période où a été effectué le paiement excédentaire ou le montant pour lequel l’autorité fait une demande de remboursement, en prenant la moins élevée des deux sommes; et
 	- **c)** le numéro d’assurance sociale du cotisant auquel la prestation est payable en vertu de sa participation selon la Loi.
 
-- **(4)** Aucune déduction et aucun versement ne peuvent être autorisés selon le paragraphe (2), sauf si, à la fois :
+- **(4)** Aucune déduction et aucun versement ne peuvent être autorisés selon le paragraphe (2), sauf si, à la fois :
 	- **a)** le ministre et le représentant provincial compétent ont conclu un accord écrit autorisant la déduction et le versement;
-	- **b)** le ministre a reçu l’attestation exigée au paragraphe (3);
-	- **c)** le consentement irrévocable écrit de la personne à l’égard de la déduction et du versement par le ministre et la demande écrite visant à permettre l’accès aux renseignements visés au paragraphe 104.01(2) de la Loi ont été reçus dans l’année suivant la date de leur signature;
+	- **b)** le ministre a reçu l’attestation exigée au paragraphe (3);
+	- **c)** le consentement irrévocable écrit de la personne à l’égard de la déduction et du versement par le ministre a été reçu dans l’année suivant la date de sa signature;
 	- **d)** le paiement excédentaire dépasse 50 $.
 
-- **(5)** [Abrogé, DORS/96-522, art. 18]
+- **(5)** [Abrogé, DORS/96-522, art. 18]
 
-- **(6)** Lorsque, pour un motif quelconque, aucune déduction n’a été faite selon le paragraphe (2) ou qu’une déduction et un paiement ont été faits pour un montant moindre que celui qui aurait pu être payé selon le paragraphe (2), le ministre ne peut pas autoriser une déduction et un paiement pour aucun autre montant relativement à un paiement excédentaire.
-> DORS/90-829, art. 32; DORS/96-522, art. 18; DORS/99-192, art. 7; DORS/2002-221, art. 3.
+- **(6)** Lorsque, pour un motif quelconque, aucune déduction n’a été faite selon le paragraphe (2) ou qu’une déduction et un paiement ont été faits pour un montant moindre que celui qui aurait pu être payé selon le paragraphe (2), le ministre ne peut pas autoriser une déduction et un paiement pour aucun autre montant relativement à un paiement excédentaire.
+> DORS/90-829, art. 32; DORS/96-522, art. 18; DORS/99-192, art. 7; DORS/2002-221, art. 3; DORS/2013-20, art. 3.
 
 
 
