@@ -1777,9 +1777,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#nbp_Ind5AED_hq_12712'>[*]</a></sup>**303** Les articles 282 à 302 entrent en vigueur à la date ou aux dates fixées par décret.
+<sup><a href='#fn_IndB162_hq_14026'>[*]</a></sup>**303** Les articles 282 à 302 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_Ind5AED_hq_12712'><sup>*</sup></a>: [Note : Articles 282 à 302 non en vigueur.]<br />
+<a name='fn_IndB162_hq_14026'><sup>*</sup></a>: [Note : Articles 282 à 302 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-17.]<br />
 
 
 
@@ -1873,7 +1873,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5B5B_hq_12891'>[*]</a></sup>**314** Les articles 304 à 312 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind5B5B_hq_12891'><sup>*</sup></a>: [Note : Articles 304 à 312 non en vigueur.]<br />
+<a name='fn_Ind5B5B_hq_12891'><sup>*</sup></a>: [Note : Articles 304 à 308 et 310 à 312 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-17.]<br />
 
 
 
@@ -2812,7 +2812,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_IndFDA_hq_12923'>[*]</a></sup>**467** 
+<sup><a href='#fn_IndAD7C_hq_14025'>[*]</a></sup>**467** 
 
 - **(1)** Les dispositions de la présente section, à l’exception des articles 445 à 448, 451, 452, 461, 464 et 465, entrent en vigueur à la date ou aux dates fixées par décret.
 
@@ -2820,7 +2820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les articles 446, 448 et 451 entrent en vigueur le 1<sup>er</sup> juillet 2013.
 
-<a name='fn_IndFDA_hq_12923'><sup>*</sup></a>: [Note : Dispositions de la section 24, à l'exception des articles 445 à 448, 451, 452, 461, 464 et 465, non en vigueur.]<br />
+<a name='fn_IndAD7C_hq_14025'><sup>*</sup></a>: [Note : Articles 449, 450 et 453 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-18.]<br />
 
 
 
@@ -4373,7 +4373,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind22AA_hq_12945'>[*]</a></sup>**696** Les articles 685 à 695 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind22AA_hq_12945'><sup>*</sup></a>: [Note : Article 686 en vigueur le 27 juillet 2012, *voir* TR/2012-61.]<br />
+<a name='fn_Ind22AA_hq_12945'><sup>*</sup></a>: [Note : Article 686 en vigueur le 27 juillet 2012, *voir* TR/2012-61; articles 685 et 687 à 695 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-17.]<br />
 
 
 
