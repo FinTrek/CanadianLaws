@@ -3447,11 +3447,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Port Authorities That Are Not Initial Port Authorities
 
 
+**1** Belledune Port Authority
 
 
-Belledune Port Authority<br />- <i>Administration portuaire de Belledune</i>
+
+**2** Oshawa Port Authority
 
 
-> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F).
+> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F); SOR/2013-29.
 
 
