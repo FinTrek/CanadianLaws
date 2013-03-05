@@ -3432,11 +3432,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Administrations portuaires qui ne sont pas des administrations portuaires initiales
 
 
+**1** Administration portuaire de Belledune
 
 
-Administration portuaire de Belledune<br />- <i>Belledune Port Authority</i>
+
+**2** Administration portuaire d’Oshawa
 
 
-> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F).
+> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F); DORS/2013-29.
 
 
