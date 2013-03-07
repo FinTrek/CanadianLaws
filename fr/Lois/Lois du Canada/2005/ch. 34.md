@@ -453,10 +453,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La Commission peut déléguer ses attributions — qu’elles lui soient propres ou déjà déléguées —, à titre individuel ou collectif, à toute personne ou à tout organisme qu’elle désigne.
 
-**Calculs**
+**Actuaire — [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md)**
 
-- **(4)** La Commission peut demander à l’Office de financement de l’assurance-emploi du Canada, constitué par le paragraphe 3(1) de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md), de faire les calculs relatifs à l’application des articles 4 et 69 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) conformément à l’accord conclu avec ce dernier.
-> 2005, ch. 30, art. 129, ch. 34, art. 28; 2008, ch. 28, art. 132.
+- **(4)** La Commission retient les services d’un *Fellow* de l’Institut canadien des actuaires qui est un employé du Bureau du surintendant des institutions financières pour exercer les attributions prévues à l’article 66.3 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+> 2005, ch. 30, art. 129, ch. 34, art. 28; 2008, ch. 28, art. 132; 2012, ch. 31, art. 441.
 
 
 
