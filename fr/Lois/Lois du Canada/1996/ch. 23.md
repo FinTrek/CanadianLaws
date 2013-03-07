@@ -162,12 +162,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Calcul du montant**
 
 - **(2)** Le montant visé au paragraphe (1) est égal à cinquante-deux fois le produit de l’élément visé à l’alinéa a) par celui visé à l’alinéa b) :
-	- **a)** la moyenne, pour la période de douze mois se terminant le 30 avril de l’année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période;
-	- **b)** le rapport entre la moyenne, pour la période de douze mois se terminant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 30 avril de cette année précédente.
+	- **a)** la moyenne, pour la période de douze mois se terminant le 31 mars de l’année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période;
+	- **b)** le rapport entre la moyenne, pour la période de douze mois se terminant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 31 mars de cette année précédente.
 
 **Années subséquentes**
 
-- **(3)** Pour les années suivant l’année au cours de laquelle le maximum de la rémunération assurable excède 39 000 $, avant son arrondissement prévu au paragraphe (4), le maximum de la rémunération annuelle assurable est celui de l’année précédente, avant son arrondissement prévu à ce paragraphe, multiplié par le rapport entre la moyenne, pour la période de douze mois se terminant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 30 avril de cette année précédente.
+- **(3)** Pour les années suivant l’année au cours de laquelle le maximum de la rémunération assurable excède 39 000 $, avant son arrondissement prévu au paragraphe (4), le maximum de la rémunération annuelle assurable est celui de l’année précédente, avant son arrondissement prévu à ce paragraphe, multiplié par le rapport entre la moyenne, pour la période de douze mois se terminant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 31 mars de cette année précédente.
 
 **Arrondissement**
 
@@ -176,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération hebdomadaire moyenne**
 
 - **(5)** La rémunération hebdomadaire moyenne correspond à la rémunération hebdomadaire moyenne du total des industries au Canada, selon l’information publiée par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
-> 1996, ch. 23, art. 4; 2001, ch. 5, art. 3; 2012, ch. 19, art. 603.
+> 1996, ch. 23, art. 4; 2001, ch. 5, art. 3; 2012, ch. 19, art. 603, ch. 31, art. 433.
 
 
 
@@ -2146,10 +2146,10 @@ plus de 13 %
 
 
 
-**Définition de Office**
+**Définition de actuaire**
 
-**65.21** Dans la présente partie, ***Office*** s’entend de l’Office de financement de l’assurance-emploi du Canada constitué par le paragraphe 3(1) de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md).
-> 2008, ch. 28, art. 125.
+**65.21** Dans la présente partie, ***actuaire*** s’entend du *Fellow* de l’Institut canadien des actuaires dont les services sont retenus par la Commission en application du paragraphe 28(4) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
+> 2008, ch. 28, art. 125; 2012, ch. 31, art. 434.
 
 
 
@@ -2167,7 +2167,7 @@ plus de 13 %
 
 **66** 
 
-- **(1)** Sous réserve du paragraphe (7) et de l’article 66.3, pour chaque année, l’Office fixe le taux de cotisation de manière que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour faire en sorte que, à la fin de celle-ci, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
+- **(1)** Sous réserve du paragraphe (7), le gouverneur en conseil, sur recommandation conjointe du ministre et du ministre des Finances, fixe le taux de cotisation pour chaque année de manière que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour faire en sorte que, à la fin de celle-ci, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
 
 **Taux de cotisation pour 2010**
 
@@ -2175,9 +2175,9 @@ plus de 13 %
 
 **Éléments à prendre en compte**
 
-- **(2)** Sous réserve des règlements pris en vertu des paragraphes 66.1(2) et 66.2(2), l’Office fixe le taux de cotisation en se fondant sur les éléments suivants :
+- **(2)** Le gouverneur en conseil fixe le taux de cotisation en se fondant sur les éléments suivants :
 	- **a)** les renseignements communiqués au titre des articles 66.1 et 66.2;
-	- **b)** le montant représentant l’excédent de l’actif financier de l’Office sur son passif financier;
+	- **b)** [Abrogé, 2012, ch. 31, art. 435]
 	- **c)** [Abrogé, 2012, ch. 19, art. 609]
 	- **d)** les règlements pris en vertu de l’article 69;
 	- **e)** tout changement, annoncé par le ministre au plus tard le 31 juillet de l’année en cause, aux sommes à verser au titre des alinéas 77(1)a), b) ou c) pour l’année suivante;
@@ -2197,8 +2197,8 @@ plus de 13 %
 
 **Délai**
 
-- **(9)** Au plus tard le 14 septembre de chaque année, l’Office fixe le taux de cotisation de l’année suivante.
-> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 609.
+- **(9)** Au plus tard le 14 septembre de chaque année, le gouverneur en conseil fixe le taux de cotisation de l’année suivante.
+> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 609, ch. 31, art. 435.
 
 
 
@@ -2208,17 +2208,15 @@ plus de 13 %
 
 **66.1** 
 
-- **(1)** Au plus tard le 31 juillet de chaque année, le ministre communique à l’Office les renseignements suivants :
+- **(1)** Au plus tard le 22 juin de chaque année, le ministre communique à l’actuaire les renseignements suivants :
 	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
-	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1), f) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
-	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre;
-	- **d)** les renseignements réglementaires.
+	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
+	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre.
+	- **d)** [Abrogé, 2012, ch. 31, art. 436]
 
-**Règlements**
+**Mise à jour des renseignements**
 
-- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement :
-	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
-	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
+- **(2)** Outre les renseignements communiqués en application de l’alinéa (1)c), le ministre peut, au plus tard le 12 juillet d’une année, communiquer à l’actuaire une mise à jour des renseignements visés à cet alinéa.
 > 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436 et 462.
 
 
@@ -2229,35 +2227,51 @@ plus de 13 %
 
 **66.2** 
 
-- **(1)** Au plus tard le 31 juillet de chaque année, le ministre des Finances communique à l’Office les renseignements suivants :
+- **(1)** Au plus tard le 22 juin de chaque année, le ministre des Finances communique à l’actuaire les renseignements suivants :
 	- **a)** les plus récentes données estimatives liées aux variables économiques qui sont utiles pour la fixation du taux de cotisation pour l’année suivante au titre de l’article 66;
-	- **b)** les sommes estimées au titre des sous-alinéas 77.1(1)a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1(1)a)(iii);
-	- **c)** le montant de tout paiement à faire au titre des paragraphes 77.1(2) ou (4) au cours de l’année;
-	- **d)** les renseignements réglementaires.
+	- **b)** les sommes estimées au titre des sous-alinéas 77.1a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1a)(iii).
+	- **c) et d)** [Abrogés, 2012, ch. 31, art. 437]
 
-**Règlements**
+**Mise à jour des renseignements**
 
-- **(2)** Sur recommandation du ministre des Finances, le gouverneur en conseil peut, par règlement :
-	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
-	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
-> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 611.
+- **(2)** Outre les renseignements communiqués en application de l’alinéa (1)b), le ministre des Finances peut, au plus tard le 12 juillet d’une année, communiquer à l’actuaire une mise à jour des renseignements visés à cet alinéa.
 
+**Communication au gouverneur en conseil**
 
-
+- **(3)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre des Finances communique au gouverneur en conseil les renseignements communiqués à l’actuaire au titre des paragraphes (1) et (2).
+> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 611, ch. 31, art. 437.
 
 
-**Fixation du taux de cotisation par le gouverneur en conseil**
 
-**66.3** 
 
-- **(1)** Sur recommandation conjointe du ministre et du ministre des Finances, le gouverneur en conseil peut, au plus tard le 30 septembre d’une année :
-	- **a)** s’il l’estime dans l’intérêt public, substituer un autre taux de cotisation à celui qu’a fixé l’Office pour l’année suivante au titre de l’article 66;
-	- **b)** si, au 14 septembre de l’année en question, l’Office n’a pas encore fixé de taux de cotisation pour l’année suivante au titre de cet article, en fixer un.
 
-**Non-application du paragraphe 66(7)**
+**Rapport de l’actuaire**
 
-- **(2)** Le paragraphe 66(7) ne s’applique pas à la fixation d’un taux de cotisation au titre du paragraphe (1).
-> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 19, art. 612.
+**66.3** L’actuaire établit des prévisions et des estimations actuarielles pour l’application des articles 4, 66 et 69 et, au plus tard le 22 juillet de chaque année, communique à la Commission un rapport comprenant les renseignements suivants :
+- **a)** le taux de cotisation estimatif pour l’année suivante, analyse détaillée à l’appui;
+- **b)** les calculs faits pour l’application des articles 4 et 69;
+- **c)** les renseignements communiqués en application de l’article 66.1;
+- **d)** la source des données, les hypothèses économiques et actuarielles et les méthodes actuarielles utilisées.
+> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 19, art. 612, ch. 31, art. 438.
+
+
+
+
+
+**Rapport et résumé**
+
+**66.31** 
+
+- **(1)** La Commission communique au ministre et au ministre des Finances, au plus tard le 31 juillet de chaque année, le rapport prévu à l’article 66.3 ainsi que le résumé du rapport.
+
+**Communication au gouverneur en conseil**
+
+- **(2)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre communique le rapport et son résumé au gouverneur en conseil.
+
+**Dépôt devant les chambres du Parlement**
+
+- **(3)** Le ministre fait déposer le rapport et son résumé devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant la fixation du taux de cotisation en application de l’article 66.
+> 2012, ch. 31, art. 438.
 
 
 
@@ -2265,8 +2279,8 @@ plus de 13 %
 
 **Arrondissement : fraction de un pour cent**
 
-**66.4** Dans les cas visés aux articles 66 et 66.3, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
-> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127.
+**66.4** Dans les cas visés à l’article 66, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438.
 
 
 
@@ -2274,8 +2288,8 @@ plus de 13 %
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre des articles 66 ou 66.3 ni des cotisations fixées au titre des articles 67 et 68. Toutefois, l’Office publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
-> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127.
+**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre de l’article 66 ni des cotisations fixées au titre des articles 67 et 68. Toutefois, le ministre publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438.
 
 
 
@@ -2283,8 +2297,8 @@ plus de 13 %
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
-**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux taux de cotisation fixés au titre des articles 66 ou 66.3 ni aux cotisations fixées au titre des articles 67 et 68.
-> 2005, ch. 30, art. 126.
+**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux taux de cotisation fixés au titre de l’article 66 ni aux cotisations fixées au titre des articles 67 et 68.
+> 2005, ch. 30, art. 126; 2012, ch. 31, art. 438.
 
 
 
@@ -2441,8 +2455,7 @@ plus de 13 %
 	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
 	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
 	- **d.1)** les frais d’application des articles 28.1 et 28.2 de la Loi sur le ministère des Ressources humaines et du Développement des compétences;
-	- **e)** les frais d’application de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md) pour l’Office;
-	- **f)** les frais d’application de cette loi pour Sa Majesté du chef du Canada;
+	- **e) et f)** [Abrogés, 2012, ch. 31, art. 439]
 	- **g)** les frais d’application de la partie 5 de la Loi sur le ministère des Ressources humaines et du Développement des compétences à l’égard des appels relatifs à la présente loi.
 
 **Paiement par mandats spéciaux**
@@ -2452,7 +2465,7 @@ plus de 13 %
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307.
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307, ch. 31, art. 439 et 462(A).
 
 
 
@@ -2462,65 +2475,15 @@ plus de 13 %
 
 **77.1** 
 
-- **(1)** Au plus tard le 31 juillet de chaque année :
+- Au plus tard le 22 juin de chaque année :
 	- **a)** le ministre des Finances estime :
 		- **(i)** la somme à porter au crédit du Compte des opérations de l’assurance-emploi au cours de l’année en question au titre des articles 73 à 75,
 		- **(ii)** la somme à porter au débit de ce compte au cours de cette année au titre du paragraphe 77(1), calculée notamment sur la base des renseignements fournis par le ministre,
 		- **(iii)** le total, au 31 décembre de l’année qui précède l’année en question, des sommes portées au crédit de ce compte;
 	- **b)** le ministre estime le total, au 31 décembre de l’année qui précède l’année en question, des sommes portées au débit de ce compte.
 
-**Paiement à l’Office**
-
-- **(2)** Un paiement dont le montant est déterminé en vertu du paragraphe (3) et qui est prélevé sur le Trésor est fait à l’Office, à la demande du ministre des Finances, au plus tard le 31 août de chaque année, et est porté au débit du Compte des opérations de l’assurance-emploi si :
-```
-(A + C) > (B + D)
-```
-où :
-- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
-- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
-- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
-- **D** le total estimé au titre de l’alinéa (1)b).
-
-**Montant du paiement à l’Office**
-
-- **(3)** Pour l’application du paragraphe (2), le montant du paiement est égal à la somme calculée selon la formule suivante :
-```
-(A + C) – (B + D)
-```
-où :
-- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
-- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
-- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
-- **D** le total estimé au titre de l’alinéa (1)b).
-
-**Paiement par l’Office**
-
-- **(4)** Un paiement dont le montant est déterminé en vertu du paragraphe (5) est fait par l’Office au Trésor au plus tard le 31 août de chaque année, ou à une date postérieure précisée par le ministre des Finances, et est porté au crédit du Compte des opérations de l’assurance-emploi si :
-```
-(A + C) < (B + D)
-```
-où :
-- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
-- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
-- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
-- **D** le total estimé au titre de l’alinéa (1)b).
-
-**Montant du paiement par l’Office**
-
-- **(5)** Pour l’application du paragraphe (4), le montant du paiement est égal au montant de l’actif financier de l’Office moins son passif financier ou, si elle est inférieure, à la somme calculée selon la formule suivante :
-```
-(B + D) – (A + C)
-```
-où :
-- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
-- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
-- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
-- **D** le total estimé au titre de l’alinéa (1)b).
-
-**Modalités**
-
-- **(6)** Tout paiement prévu par le présent article est fait de la manière et selon les modalités que peut fixer le ministre des Finances après consultation du ministre et de l’Office.
-> 2008, ch. 28, art. 130; 2010, ch. 12, art. 2205; 2012, ch. 19, art. 614.
+- **(2) à (6)** [Abrogés, 2012, ch. 31, art. 440]
+> 2008, ch. 28, art. 130; 2010, ch. 12, art. 2205; 2012, ch. 19, art. 614, ch. 31, art. 440.
 
 
 
