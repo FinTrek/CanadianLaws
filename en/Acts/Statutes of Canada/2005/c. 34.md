@@ -457,10 +457,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The Commission may authorize any person or body, or member of a class of persons or bodies, to exercise powers or perform duties and functions of or delegated to the Commission, and any such authorized person or body or class of persons or bodies may exercise specified powers or perform specified duties and functions.
 
-**Calculations**
+**Actuary — [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
 
-- **(4)** The Commission may request the Canada Employment Insurance Financing Board established under subsection 3(1) of the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md) to perform calculations for the purposes of sections 4 and 69 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) in accordance with an agreement between the Commission and that Board.
-> 2005, c. 30, s. 129, c. 34, s. 28; 2008, c. 28, s. 132.
+- **(4)** The Commission shall engage the services of a Fellow of the Canadian Institute of Actuaries who is an employee of the Office of the Superintendent of Financial Institutions to perform the duties under section 66.3 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+> 2005, c. 30, s. 129, c. 34, s. 28; 2008, c. 28, s. 132; 2012, c. 31, s. 441.
 
 
 
