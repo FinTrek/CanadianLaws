@@ -164,13 +164,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Calculation of amount**
 
 - **(2)** The amount referred to in subsection (1) is the amount equal to 52 times the product obtained by multiplying
-	- **(a)** the average for the 12-month period ending on April 30 in the preceding year of the Average Weekly Earnings for each month in that period
+	- **(a)** the average for the 12-month period ending on March 31 in the preceding year of the Average Weekly Earnings for each month in that period
 by
-	- **(b)** the ratio that the average for the 12-month period ending on April 30 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to April 30 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to April 30 of that preceding year.
+	- **(b)** the ratio that the average for the 12-month period ending on March 31 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to March 31 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to March 31 of that preceding year.
 
 **Subsequent years**
 
-- **(3)** For years subsequent to the year in which the maximum yearly insurable earnings exceeds $39,000, before rounding down under subsection (4), the maximum yearly insurable earnings is the maximum yearly insurable earnings for the preceding year, before rounding down under that subsection, multiplied by the ratio that the average for the 12-month period ending on April 30 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to April 30 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to April 30 of that preceding year.
+- **(3)** For years subsequent to the year in which the maximum yearly insurable earnings exceeds $39,000, before rounding down under subsection (4), the maximum yearly insurable earnings is the maximum yearly insurable earnings for the preceding year, before rounding down under that subsection, multiplied by the ratio that the average for the 12-month period ending on March 31 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to March 31 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to March 31 of that preceding year.
 
 **Rounding down**
 
@@ -179,7 +179,7 @@ by
 **Average Weekly Earnings**
 
 - **(5)** The Average Weekly Earnings for a month is the average weekly earnings of the Industrial Aggregate in Canada for the month as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md).
-> 1996, c. 23, s. 4; 2001, c. 5, s. 3; 2012, c. 19, s. 603.
+> 1996, c. 23, s. 4; 2001, c. 5, s. 3; 2012, c. 19, s. 603, c. 31, s. 433.
 
 
 
@@ -2220,10 +2220,10 @@ is to be considered to have worked or not worked a full working week;
 
 
 
-**Definition of Board**
+**Definition of actuary**
 
-**65.21** In this Part, ***Board*** means the Canada Employment Insurance Financing Board established by subsection 3(1) of the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md).
-> 2008, c. 28, s. 125.
+**65.21** In this Part, ***actuary*** means the Fellow of the Canadian Institute of Actuaries whose services are engaged by the Commission under subsection 28(4) of the Department of Human Resources and Skills Development Act.
+> 2008, c. 28, s. 125; 2012, c. 31, s. 434.
 
 
 
@@ -2241,7 +2241,7 @@ is to be considered to have worked or not worked a full working week;
 
 **66** 
 
-- **(1)** Subject to subsection (7) and section 66.3, the Board shall set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
+- **(1)** Subject to subsection (7), the Governor in Council shall, on the joint recommendation of the Minister and the Minister of Finance, set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
 
 **Premium rate for 2010**
 
@@ -2249,13 +2249,13 @@ is to be considered to have worked or not worked a full working week;
 
 **Factors**
 
-- **(2)** Subject to any regulations made under subsections 66.1(2) and 66.2(2), the Board shall set the premium rate based on
+- **(2)** The Governor in Council shall set the premium rate based on
 	- **(a)** the information provided under sections 66.1 and 66.2;
-	- **(b)** the amount by which the Board’s financial assets exceed its financial liabilities;
+	- **(b)** [Repealed, 2012, c. 31, s. 435]
 	- **(c)** [Repealed, 2012, c. 19, s. 609]
 	- **(d)** any regulations made under section 69;
 	- **(e)** any changes, announced by the Minister on or before July 31 in a year, to payments to be made under paragraph 77(1)(a), (b) or (c) during the following year; and
-	- **(f)** any other information that the Board considers relevant.
+	- **(f)** any other information that the Governor in Council considers relevant.
 
 - **(3)** [No subsection (3)]
 
@@ -2271,8 +2271,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Time limit**
 
-- **(9)** On or before September 14 in a year, the Board shall set the premium rate for the following year.
-> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204; 2012, c. 19, s. 609.
+- **(9)** On or before September 14 in a year, the Governor in Council shall set the premium rate for the following year.
+> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204; 2012, c. 19, s. 609, c. 31, s. 435.
 
 
 
@@ -2282,17 +2282,15 @@ is to be considered to have worked or not worked a full working week;
 
 **66.1** 
 
-- **(1)** The Minister shall, on or before July 31 in a year, provide the Board with the following information:
+- **(1)** The Minister shall, on or before June 22 in a year, provide the actuary with the following information:
 	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
-	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (d.1), (f) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
-	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
-	- **(d)** any prescribed information.
+	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (d.1) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a); and
+	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister.
+	- **(d)** [Repealed, 2012, c. 31, s. 436]
 
-**Regulations**
+**Updated information**
 
-- **(2)** On the recommendation of the Minister, the Governor in Council may make regulations
-	- **(a)** prescribing information referred to in paragraph (1)(d); and
-	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
+- **(2)** In addition to the information provided under paragraph (1)(c), the Minister may, on or before July 12 in a year, provide the actuary with an update of the information referred to in that paragraph.
 > 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610, c. 31, ss. 436, 462.
 
 
@@ -2303,35 +2301,51 @@ is to be considered to have worked or not worked a full working week;
 
 **66.2** 
 
-- **(1)** The Minister of Finance shall, on or before July 31 in a year, provide the Board with the following information:
-	- **(a)** the most current forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year;
-	- **(b)** the amounts forecast under subparagraphs 77.1(1)(a)(i) and (ii) and the total estimated under subparagraph 77.1(1)(a)(iii);
-	- **(c)** the amount of any payment to be made under subsection 77.1(2) or (4) during the year; and
-	- **(d)** any prescribed information.
+- **(1)** The Minister of Finance shall, on or before June 22 in a year, provide the actuary with the following information:
+	- **(a)** the most current forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year; and
+	- **(b)** the amounts forecast under subparagraphs 77.1(a)(i) and (ii) and the total estimated under subparagraph 77.1(a)(iii).
+	- **(c) and (d)** [Repealed, 2012, c. 31, s. 437]
 
-**Regulations**
+**Updated information**
 
-- **(2)** On the recommendation of the Minister of Finance, the Governor in Council may make regulations
-	- **(a)** prescribing information referred to in paragraph (1)(d); and
-	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
-> 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 611.
+- **(2)** In addition to the information provided under paragraph (1)(b), the Minister of Finance may, on or before July 12 in a year, provide the actuary with an update of the information referred to in that paragraph.
 
+**Information provided to Governor in Council**
 
-
+- **(3)** When a joint recommendation is made under subsection 66(1) in a year, the Minister of Finance shall provide the Governor in Council with the information that was provided to the actuary under subsections (1) and (2).
+> 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 611, c. 31, s. 437.
 
 
-**Governor in Council**
 
-**66.3** 
 
-- **(1)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before September 30 in a year,
-	- **(a)** if the Governor in Council considers it to be in the public interest, substitute a premium rate for the following year that is different from the one set by the Board under section 66; or
-	- **(b)** if the Board has not set a premium rate under that section by September 14 in the year, set one for the following year.
 
-**Non-application of subsection 66(7)**
+**Actuary’s report**
 
-- **(2)** Subsection 66(7) does not apply to the setting of the premium rate under subsection (1).
-> 2004, c. 22, s. 25; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 19, s. 612.
+**66.3** The actuary shall prepare actuarial forecasts and estimates for the purposes of sections 4, 66 and 69 and shall, on or before July 22 in a year, provide the Commission with a report that sets out
+- **(a)** the forecast premium rate for the following year and a detailed analysis in support of the forecast;
+- **(b)** the calculations performed for the purposes of sections 4 and 69;
+- **(c)** the information provided under section 66.1; and
+- **(d)** the source of the data, the actuarial and economic assumptions and the actuarial methodology used.
+> 2004, c. 22, s. 25; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 19, s. 612, c. 31, s. 438.
+
+
+
+
+
+**Report and summary**
+
+**66.31** 
+
+- **(1)** The Commission shall, on or before July 31 in a year, provide the Minister and the Minister of Finance with the report referred to in section 66.3 and a summary of that report.
+
+**Information provided to Governor in Council**
+
+- **(2)** When a joint recommendation is made under subsection 66(1) in a year, the Minister shall provide the Governor in Council with the report and its summary.
+
+**Tabling in Parliament**
+
+- **(3)** After a premium rate is set under section 66, the Minister shall cause the report and its summary to be laid before each House of Parliament on any of the next 10 days during which that House is sitting.
+> 2012, c. 31, s. 438.
 
 
 
@@ -2339,8 +2353,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Rounding percentage rates**
 
-**66.4** If the calculation of a premium rate under section 66 or 66.3 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one-hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
-> 2005, c. 30, s. 126; 2008, c. 28, s. 127.
+**66.4** If the calculation of a premium rate under section 66 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 31, s. 438.
 
 
 
@@ -2348,8 +2362,8 @@ is to be considered to have worked or not worked a full working week;
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**66.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a premium rate set under section 66 or 66.3 or the premiums determined under sections 67 and 68. However, the premium rates must, as soon as possible, be published by the Board in Part I of the Canada Gazette.
-> 2005, c. 30, s. 126; 2008, c. 28, s. 127.
+**66.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a premium rate set under section 66 or the premiums determined under sections 67 and 68. However, the premium rates must, as soon as possible, be published by the Minister in Part I of the Canada Gazette.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 31, s. 438.
 
 
 
@@ -2357,8 +2371,8 @@ is to be considered to have worked or not worked a full working week;
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
-**66.6** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the premium rate set under section 66 or 66.3 or the premiums determined under sections 67 and 68.
-> 2005, c. 30, s. 126.
+**66.6** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the premium rate set under section 66 or the premiums determined under sections 67 and 68.
+> 2005, c. 30, s. 126; 2012, c. 31, s. 438.
 
 
 
@@ -2516,9 +2530,8 @@ is to be considered to have worked or not worked a full working week;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
 	- **(c)** all amounts paid under paragraph 63(a);
 	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b);
-	- **(d.1)** the costs of administering sections 28.1 and 28.2 of the Department of Human Resources and Skills Development Act;
-	- **(e)** the costs to the Board of administering the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md);
-	- **(f)** the costs to Her Majesty in right of Canada of administering that Act; and
+	- **(d.1)** the costs of administering sections 28.1 and 28.2 of the Department of Human Resources and Skills Development Act; and
+	- **(e) and (f)** [Repealed, 2012, c. 31, s. 439]
 	- **(g)** the costs of administering Part 5 of the Department of Human Resources and Skills Development Act in respect of appeals respecting this Act.
 
 **Payment by special warrants**
@@ -2528,7 +2541,7 @@ is to be considered to have worked or not worked a full working week;
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, ss. 245, 307.
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, ss. 245, 307, c. 31, ss. 439, 462(E).
 
 
 
@@ -2538,65 +2551,15 @@ is to be considered to have worked or not worked a full working week;
 
 **77.1** 
 
-- **(1)** On or before July 31 in a year,
+- On or before June 22 in a year,
 	- **(a)** the Minister of Finance shall
 		- **(i)** forecast the amount to be credited to the Employment Insurance Operating Account under sections 73 to 75 during the year,
 		- **(ii)** forecast the amount to be charged, during the year, to that Account under subsection 77(1) based on, among other things, information provided by the Minister, and
 		- **(iii)** estimate the total, at December 31 of the immediately preceding year, of the amounts credited to that Account; and
 	- **(b)** the Minister shall estimate the total, at December 31 of the immediately preceding year, of the amounts charged to that Account.
 
-**Payment to Board**
-
-- **(2)** A payment in the amount determined under subsection (3) is to be made on or before August 31 in a year to the Board out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, and charged to the Employment Insurance Operating Account if
-```
-(A + C) > (B + D)
-```
-where
-- **A** is the amount forecast under subparagraph (1)(a)(i);
-- **B** is the amount forecast under subparagraph (1)(a)(ii);
-- **C** is the total estimated under subparagraph (1)(a)(iii); and
-- **D** is the total estimated under paragraph (1)(b).
-
-**Amount of payment to Board**
-
-- **(3)** For the purpose of subsection (2), the amount of the payment is an amount equal to the amount calculated in accordance with the following formula:
-```
-(A + C) – (B + D)
-```
-where 
-- **A** is the amount forecast under subparagraph (1)(a)(i);
-- **B** is the amount forecast under subparagraph (1)(a)(ii);
-- **C** is the total estimated under subparagraph (1)(a)(iii); and
-- **D** is the total estimated under paragraph (1)(b).
-
-**Payment by Board**
-
-- **(4)** A payment in the amount determined under subsection (5) is to be made on or before August 31 in a year, or at any later date that the Minister of Finance may specify, by the Board to the Consolidated Revenue Fund and credited to the Employment Insurance Operating Account if
-```
-(A + C) < (B + D)
-```
-where
-- **A** is the amount forecast under subparagraph (1)(a)(i);
-- **B** is the amount forecast under subparagraph (1)(a)(ii);
-- **C** is the total estimated under subparagraph (1)(a)(iii); and
-- **D** is the total estimated under paragraph (1)(b).
-
-**Amount of payment by Board**
-
-- **(5)** For the purpose of subsection (4), the amount of the payment is an amount equal to the lesser of the amount of the Board’s financial assets less its financial liabilities and the amount calculated in accordance with the following formula:
-```
-(B + D) – (A + C)
-```
-where 
-- **A** is the amount forecast under subparagraph (1)(a)(i);
-- **B** is the amount forecast under subparagraph (1)(a)(ii);
-- **C** is the total estimated under subparagraph (1)(a)(iii); and
-- **D** is the total estimated under paragraph (1)(b).
-
-**Terms and conditions**
-
-- **(6)** Payments under this section must be made in the manner and on the terms and conditions that the Minister of Finance may establish after consulting with the Minister and the Board.
-> 2008, c. 28, s. 130; 2010, c. 12, s. 2205; 2012, c. 19, s. 614.
+- **(2) to (6)** [Repealed, 2012, c. 31, s. 440]
+> 2008, c. 28, s. 130; 2010, c. 12, s. 2205; 2012, c. 19, s. 614, c. 31, s. 440.
 
 
 
