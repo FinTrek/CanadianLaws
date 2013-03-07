@@ -39,9 +39,11 @@ Sanctionnée sur le 18 juin 2008
 
 ***ministre*** Le ministre des Ressources humaines et du Développement des compétences.
 
-***Office*** L’Office de financement de l’assurance-emploi du Canada constitué par le paragraphe 3(1).
+***Office*** L’Office de financement de l’assurance-emploi du Canada constitué par le paragraphe 3(1) dans sa version antérieure à son abrogation.
 
 ***vérificateur général*** Le vérificateur général du Canada nommé en vertu du paragraphe 3(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md).
+> 2008, ch. 28, art. 121 « 2 »; 2012, ch. 31, art. 442.
+
 
 
 
@@ -49,12 +51,9 @@ Sanctionnée sur le 18 juin 2008
 ## Constitution de l’office
 
 
-
-**Constitution**
-
 **3** 
 
-- **(1)** Est constitué l’Office de financement de l’assurance-emploi du Canada, doté de la personnalité morale.
+- **(1)** [Abrogé, 2012, ch. 31, art. 443]
 
 **Non-mandataire de Sa Majesté**
 
@@ -79,7 +78,7 @@ Sanctionnée sur le 18 juin 2008
 **Non-application**
 
 - **(7)** Les articles 105, 121, 128 à 132, 138 à 142, 148 et 150 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office.
-> 2008, ch. 28, art. 121 « 3 »; 2009, ch. 23, art. 314.
+> 2008, ch. 28, art. 121 « 3 »; 2009, ch. 23, art. 314; 2012, ch. 31, art. 443.
 
 
 
@@ -802,47 +801,14 @@ Sanctionnée sur le 18 juin 2008
 
 
 
-
-## Liquidation des affaires
-
-
-
-**Disposition des biens**
-
-**37** 
-
-- **(1)** L’Office peut disposer, notamment par vente, de la totalité ou quasi-totalité de ses biens et prendre toutes les mesures nécessaires ou liées à la liquidation de ses affaires.
-
-**Pouvoirs du ministre**
-
-- **(2)** Le ministre peut exiger de l’Office qu’il fasse ce qui, de l’avis du ministre, est nécessaire pour disposer, notamment par vente, de la totalité ou quasi-totalité de ses biens, acquitter ses dettes et engagements, gérer ses dépenses et prendre toutes les autres mesures nécessaires à la liquidation de ses affaires.
-
-**Caractère obligatoire**
-
-- **(3)** L’Office est tenu de faire ce que le ministre exige de lui en vertu du paragraphe (2).
-> 2012, ch. 31, art. 445.
+**37** [Abrogé, 2012, ch. 31, art. 445]
 
 
 
-
-
-**Remise des documents**
-
-**38** L’Office remet les éléments ci-après — notamment toute version électronique de ceux-ci — au ministère des Ressources humaines et du Développement des compétences :
-- **a)** les documents comptables de l’Office ainsi que les renseignements qu’il a recueillis dans le but de les produire;
-- **b)** les copies des règlements administratifs et des politiques, normes et méthodes de placement de l’Office;
-- **c)** les feuilles de calcul et formules relatives aux modèles estimatifs du taux de cotisation visé à l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-- **d)** toute autre chose que le ministre exige.
-> 2012, ch. 31, art. 445.
+**38** [Abrogé, 2012, ch. 31, art. 445]
 
 
 
-
-
-**Rapport final**
-
-**39** L’Office remet au ministre tout rapport final que celui-ci demande et ce, au moment et en la forme qu’il précise.
-> 2012, ch. 31, art. 445.
-
+**39** [Abrogé, 2012, ch. 31, art. 445]
 
 
