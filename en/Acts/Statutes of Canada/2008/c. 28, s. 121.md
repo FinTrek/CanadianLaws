@@ -39,11 +39,13 @@ Assented to on 18 June 2008
 
 ***Auditor General*** means the Auditor General of Canada appointed under subsection 3(1) of the [Auditor General Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-17.md).
 
-***Board*** means the Canada Employment Insurance Financing Board established by subsection 3(1).
+***Board*** means the Canada Employment Insurance Financing Board established by subsection 3(1) as that subsection read immediately before it was repealed.
 
 Version anglaise seulement***by-law*** means a by-law of the Board.
 
 ***Minister*** means the Minister of Human Resources and Skills Development.
+> 2008, c. 28, s. 121 "2"; 2012, c. 31, s. 442.
+
 
 
 
@@ -51,12 +53,9 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 ## Establishment of the Board
 
 
-
-**Board established**
-
 **3** 
 
-- **(1)** There is established a corporation to be known as the Canada Employment Insurance Financing Board.
+- **(1)** [Repealed, 2012, c. 31, s. 443]
 
 **Not agent of Her Majesty**
 
@@ -81,7 +80,7 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 **Non-application**
 
 - **(7)** Sections 105, 121, 128 to 132, 138 to 142, 148 and 150 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the Board.
-> 2008, c. 28, s. 121 “3”; 2009, c. 23, s. 314.
+> 2008, c. 28, s. 121 “3”; 2009, c. 23, s. 314; 2012, c. 31, s. 443.
 
 
 
@@ -806,47 +805,14 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 
 
 
-
-## Closing Out of Affairs
-
-
-
-**Disposal of assets**
-
-**37** 
-
-- **(1)** The Board is authorized to sell or otherwise dispose of all or substantially all of its assets and do everything necessary for or incidental to closing out its affairs.
-
-**Minister’s power**
-
-- **(2)** The Minister may require the Board to do anything that in his or her opinion is necessary to sell or otherwise dispose of all or substantially all of its assets, satisfy its debts and liabilities, manage its expenses or otherwise close out its affairs.
-
-**Compliance**
-
-- **(3)** The Board must do what the Minister requires under subsection (2).
-> 2012, c. 31, s. 445.
+**37** [Repealed, 2012, c. 31, s. 445]
 
 
 
-
-
-**Transfer of records**
-
-**38** The Board must transfer to the Department of Human Resources and Skills Development the following items, including any electronic versions of them:
-- **(a)** the Board’s books of account and other financial records, as well as any information that the Board collected in order to produce them;
-- **(b)** copies of the Board’s by-laws and its investment policies, standards and procedures;
-- **(c)** the spreadsheets and formulas of the forecasting models for the premium rate referred to in section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); and
-- **(d)** anything else that the Minister requires.
-> 2012, c. 31, s. 445.
+**38** [Repealed, 2012, c. 31, s. 445]
 
 
 
-
-
-**Final reports**
-
-**39** The Board must submit to the Minister any final reports required by him or her in the form and at the times that he or she specifies.
-> 2012, c. 31, s. 445.
-
+**39** [Repealed, 2012, c. 31, s. 445]
 
 
