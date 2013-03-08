@@ -1298,7 +1298,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind58CA_hq_12883'>[*]</a></sup>**217** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind58CA_hq_12883'><sup>*</sup></a>: [Note : Section 4 non en vigueur.]<br />
+<a name='fn_Ind58CA_hq_12883'><sup>*</sup></a>: [Note : Section 4 en vigueur le 8 mars 2013, *voir* TR/2013-25.]<br />
 
 
 
