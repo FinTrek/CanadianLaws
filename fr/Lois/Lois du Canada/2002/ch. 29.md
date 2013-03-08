@@ -2778,6 +2778,8 @@ Chevalier cuivré (*Moxostoma hubbsi*)<br />- <i>Redhorse, Copper</i>
 
 Cisco à museau court (*Coregonus reighardi*)<br />- <i>Cisco, Shortnose</i>
 
+Cisco de printemps (*Coregonus* sp.)<br />- <i>Cisco, Spring</i>
+
 Corégone de l’Atlantique (*Coregonus huntsmani*)<br />- <i>Whitefish, Atlantic</i>
 
 Épinoche à trois épines benthique du lac Enos (*Gasterosteus aculeatus*)<br />- <i>Stickleback, Enos Lake Benthic Threespine</i>
@@ -2835,11 +2837,13 @@ Sucet de lac (*Erimyzon sucetta*)<br />- <i>Chubsucker, Lake</i>
 
 Escargot-forestier de Townsend (*Allogona townsendiana*)<br />- <i>Forestsnail, Oregon</i>
 
-Lampsile fasciolée (*Lampsilis fasciola*)<br />- <i>Lampmussel, Wavy-rayed</i>
+Ligumie pointue (*Ligumia nasuta*)<br />- <i>Pondmussel, Eastern</i>
 
 Limace-prophyse bleu-gris (*Prophysaon coeruleum*)<br />- <i>Slug, Blue-grey Taildropper</i>
 
 Mulette du Necture (*Simpsonaias ambigua*)<br />- <i>Mussel, Salamander</i>
+
+Mulette feuille d’érable (*Quadrula quadrula*) population de la Saskatchewan – Nelson<br />- <i>Mussel, Mapleleaf Saskatchewan – Nelson population</i>
 
 Obovarie ronde (*Obovaria subrotunda*)<br />- <i>Hickorynut, Round</i>
 
@@ -2854,6 +2858,8 @@ Pleurobème écarlate (*Pleurobema sintoxia*)<br />- <i>Pigtoe, Round</i>
 Ptychobranche réniforme (*Ptychobranchus fasciolaris*)<br />- <i>Kidneyshell</i>
 
 Villeuse haricot (*Villosa fabalis*)<br />- <i>Bean, Rayed</i>
+
+Villeuse irisée (*Villosa iris*)<br />- <i>Mussel, Rainbow</i>
 
 
 
@@ -3187,8 +3193,6 @@ Engoulevent bois-pourri (*Caprimulgus vociferus*)<br />- <i>Whip-poor-will</i>
 
 Engoulevent d’Amérique (*Chordeiles minor*)<br />- <i>Nighthawk, Common</i>
 
-Faucon pèlerin de la sous-espèce *anatum* (*Falco peregrinus anatum*)<br />- <i>Falcon anatum subspecies, Peregrine</i>
-
 Grive de Bicknell (*Catharus bicknelli*)<br />- <i>Thrush, Bicknell’s</i>
 
 Guillemot marbré (*Brachyramphus marmoratus*)<br />- <i>Murrelet, Marbled</i>
@@ -3268,13 +3272,13 @@ Tortue musquée (*Sternotherus odoratus*)<br />- <i>Turtle, Eastern Musk</i>
 
 ##### Poissons
 
-Chabot à tête courte (*Cottus confusus*)<br />- <i>Sculpin, Shorthead</i>
-
 Chabot de la chaîne côtière (*Cottus aleuticus*) population Cultus<br />- <i>Sculpin, Coastrange Cultus population</i>
 
 Chabot des montagnes Rocheuses (*Cottus* sp.) populations du versant est<br />- <i>Sculpin, Rocky Mountain Eastslope populations</i>
 
-Dard de sable (*Ammocrypta pellucida*)<br />- <i>Darter, Eastern Sand</i>
+Dard de sable (*Ammocrypta pellucida*) populations de l’Ontario<br />- <i>Darter, Eastern Sand Ontario populations</i>
+
+Dard de sable (*Ammocrypta pellucida*) populations du Québec<br />- <i>Darter, Eastern Sand Quebec populations</i>
 
 Éperlan arc-en-ciel (*Osmerus mordax*) population d’individus de petite taille du lac Utopia<br />- <i>Smelt, Rainbow Lake Utopia small-bodied population</i>
 
@@ -3292,12 +3296,16 @@ Méné d’argent de l’Ouest (*Hybognathus argyritis*)<br />- <i>Minnow, Weste
 
 Tête carminée (*Notropis percobromus*)<br />- <i>Shiner, Carmine</i>
 
+Truite fardée versant de l’Ouest (*Oncorhynchus clarkii lewisi*) population de l’Alberta<br />- <i>Trout, Westslope Cutthroat Alberta population</i>
+
 
 
 
 ##### Mollusques
 
 Limace-sauteuse dromadaire (*Hemphillia dromedarius*)<br />- <i>Jumping-slug, Dromedary</i>
+
+Mulette feuille d’érable (*Quadrula quadrula*) population des Grands Lacs – Ouest du Saint-Laurent<br />- <i>Mussel, Mapleleaf Great Lakes – Western St. Lawrence population</i>
 
 
 
@@ -3580,6 +3588,8 @@ Brochet vermiculé (*Esox americanus vermiculatus*)<br />- <i>Pickerel, Grass</i
 
 Buffalo à grande bouche (*Ictiobus cyprinellus*) populations des rivières Saskatchewan et Nelson<br />- <i>Buffalo, Bigmouth Saskatchewan River and Nelson River populations</i>
 
+Chabot à tête courte (*Cottus confusus*)<br />- <i>Sculpin, Shorthead</i>
+
 Chabot de profondeur (*Myoxocephalus thompsonii*) populations des Grands Lacs - Ouest du Saint-Laurent<br />- <i>Sculpin, Deepwater Great Lakes - Western St. Lawrence populations</i>
 
 Chabot du Columbia (*Cottus hubbsi*)<br />- <i>Sculpin, Columbia</i>
@@ -3631,9 +3641,13 @@ Truite fardée versant de l’ouest (*Oncorhynchus clarkii lewisi*) population d
 
 ##### Mollusques
 
+Alasmidonte renflée (*Alasmidonta varicosa*)<br />- <i>Floater, Brook</i>
+
 Gonidée des Rocheuses (*Gonidea angulata*)<br />- <i>Mussel, Rocky Mountain Ridged</i>
 
 Huître plate du Pacifique (*Ostrea lurida*)<br />- <i>Oyster, Olympia</i>
+
+Lampsile fasciolée (*Lampsilis fasciola*)<br />- <i>Lampmussel, Wavy-rayed</i>
 
 Lampsile jaune (*Lampsilis cariosa*)<br />- <i>Lampmussel, Yellow</i>
 
@@ -3746,7 +3760,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34.
 
 
 
