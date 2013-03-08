@@ -2775,6 +2775,8 @@ Chubsucker, Lake (*Erimyzon sucetta*)<br />- <i>Sucet de lac</i>
 
 Cisco, Shortnose (*Coregonus reighardi*)<br />- <i>Cisco à museau court</i>
 
+Cisco, Spring (*Coregonus* sp.)<br />- <i>Cisco de printemps</i>
+
 Dace, Nooksack (*Rhinichthys cataractae* ssp.)<br />- <i>Naseux de la Nooksack</i>
 
 Dace, Speckled (*Rhinichthys osculus*)<br />- <i>Naseux moucheté</i>
@@ -2838,13 +2840,17 @@ Hickorynut, Round (*Obovaria subrotunda*)<br />- <i>Obovarie ronde</i>
 
 Kidneyshell (*Ptychobranchus fasciolaris*)<br />- <i>Ptychobranche réniforme</i>
 
-Lampmussel, Wavy-rayed (*Lampsilis fasciola*)<br />- <i>Lampsile fasciolée</i>
+Mussel, Mapleleaf (*Quadrula quadrula*) Saskatchewan – Nelson population<br />- <i>Mulette feuille d’érable population de la Saskatchewan – Nelson</i>
+
+Mussel, Rainbow (*Villosa iris*)<br />- <i>Villeuse irisée</i>
 
 Mussel, Salamander (*Simpsonaias ambigua*)<br />- <i>Mulette du Necture</i>
 
 Physa, Hotwater (*Physella wrighti*)<br />- <i>Physe d’eau chaude</i>
 
 Pigtoe, Round (*Pleurobema sintoxia*)<br />- <i>Pleurobème écarlate</i>
+
+Pondmussel, Eastern (*Ligumia nasuta*)<br />- <i>Ligumie pointue</i>
 
 Riffleshell, Northern (*Epioblasma torulosa rangiana*)<br />- <i>Épioblasme ventrue</i>
 
@@ -3176,8 +3182,6 @@ Albatross, Short-tailed (*Phoebastria albatrus*)<br />- <i>Albatros à queue cou
 
 Bittern, Least (*Ixobrychus exilis*)<br />- <i>Petit Blongios</i>
 
-Falcon *anatum* subspecies, Peregrine (*Falco peregrinus anatum*)<br />- <i>Faucon pèlerin de la sous-espèce anatum</i>
-
 Flycatcher, Olive-sided (*Contopus cooperi*)<br />- <i>Moucherolle à côtés olive</i>
 
 Goshawk *laingi* subspecies, Northern (*Accipiter gentilis laingi*)<br />- <i>Autour des palombes de la sous-espèce laingi</i>
@@ -3269,7 +3273,9 @@ Turtle, Wood (*Glyptemys insculpta*)<br />- <i>Tortue des bois</i>
 
 Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
 
-Darter, Eastern Sand (*Ammocrypta pellucida*)<br />- <i>Dard de sable</i>
+Darter, Eastern Sand (*Ammocrypta pellucida*) Ontario populations<br />- <i>Dard de sable populations de l’Ontario</i>
+
+Darter, Eastern Sand (*Ammocrypta pellucida*) Quebec populations<br />- <i>Dard de sable populations du Québec</i>
 
 Gar, Spotted (*Lepisosteus oculatus*)<br />- <i>Lépisosté tacheté</i>
 
@@ -3281,15 +3287,15 @@ Sculpin, Coastrange (*Cottus aleuticus*) Cultus population<br />- <i>Chabot de l
 
 Sculpin, Rocky Mountain (*Cottus* sp.) Eastslope populations<br />- <i>Chabot des montagnes Rocheuses populations du versant est</i>
 
-Sculpin, Shorthead (*Cottus confusus*)<br />- <i>Chabot à tête courte</i>
-
 Shiner, Carmine (*Notropis percobromus*)<br />- <i>Tête carminée</i>
 
 Smelt, Rainbow (*Osmerus mordax*) Lake Utopia small-bodied population<br />- <i>Éperlan arc-en-ciel population d’individus de petite taille du lac Utopia</i>
 
-Wolffish, Northern (*Anarhichas denticulatus*)<br />- <i>Loup à tête large</i>
-
 Spotted Wolffish (*Anarhichas minor*)<br />- <i>Loup tacheté</i>
+
+Trout, Westslope Cutthroat (*Oncorhynchus clarkii lewisi*) Alberta population<br />- <i>Truite fardée versant de l’Ouest population de l’Alberta</i>
+
+Wolffish, Northern (*Anarhichas denticulatus*)<br />- <i>Loup à tête large</i>
 
 
 
@@ -3297,6 +3303,8 @@ Spotted Wolffish (*Anarhichas minor*)<br />- <i>Loup tacheté</i>
 ##### Molluscs
 
 Jumping-slug, Dromedary (*Hemphillia dromedarius*)<br />- <i>Limace-sauteuse dromadaire</i>
+
+Mussel, Mapleleaf (*Quadrula quadrula*) Great Lakes – Western St. Lawrence population<br />- <i>Mulette feuille d’érable population des Grands Lacs – Ouest du Saint-Laurent</i>
 
 
 
@@ -3603,6 +3611,8 @@ Sculpin, Columbia (*Cottus hubbsi*)<br />- <i>Chabot du Columbia</i>
 
 Sculpin, Deepwater (*Myoxocephalus thompsonii*) Great Lakes - Western St. Lawrence populations<br />- <i>Chabot de profondeur, populations des Grands Lacs - Ouest du Saint-Laurent</i>
 
+Sculpin, Shorthead (*Cottus confusus*)<br />- <i>Chabot à tête courte</i>
+
 Shark, Bluntnose Sixgill (*Hexanchus griseus*)<br />- <i>Requin griset</i>
 
 Shiner, Bridle (*Notropis bifrenatus*)<br />- <i>Méné d’herbe</i>
@@ -3630,7 +3640,11 @@ Wolffish, Atlantic (*Anarhichas lupus*)<br />- <i>Loup Atlantique</i>
 
 ##### Molluscs
 
+Floater, Brook (*Alasmidonta varicosa*)<br />- <i>Alasmidonte renflée</i>
+
 Jumping-slug, Warty (*Hemphillia glandulosa*)<br />- <i>Limace-sauteuse glanduleuse</i>
+
+Lampmussel, Wavy-rayed (*Lampsilis fasciola*)<br />- <i>Lampsile fasciolée</i>
 
 Lampmussel, Yellow (*Lampsilis cariosa*)<br />- <i>Lampsile jaune</i>
 
@@ -3745,7 +3759,7 @@ Lichen, Cryptic Paw (*Nephroma occultum*)<br />- <i>Néphrome cryptique</i>
 Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34.
 
 
 
