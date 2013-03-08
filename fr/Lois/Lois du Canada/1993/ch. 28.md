@@ -332,13 +332,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** l’octroi de prêts par le commissaire dans les limites du Nunavut;
 	- **c)** le placement, par le commissaire, des excédents du Trésor du Nunavut.
 
-**Restriction**
+**Réserve**
 
-- **(2)** Tout emprunt visé à l’alinéa (1)a) doit préalablement être agréé par le gouverneur en conseil.
+- **(2)** Le montant total des emprunts ne peut excéder le plafond fixé en vertu du paragraphe (4).
 
 **Imputation sur le Trésor du Nunavut**
 
 - **(3)** Le remboursement de l’emprunt visé à l’alinéa (1)a) et le paiement des intérêts afférents sont imputables sur le Trésor du Nunavut.
+
+**Plafond des emprunts**
+
+- **(4)** Le gouverneur en conseil peut, sur recommandation du ministre des Finances, fixer le plafond de l’ensemble des emprunts.
+
+**Règlements**
+
+- **(5)** Il peut en outre, sur recommandation du ministre des Finances, prendre des règlements concernant les emprunts pour l’application des paragraphes (2) et (4), y compris des règlements concernant :
+	- **a)** ce qui constitue ou est réputé constituer un emprunt;
+	- **b)** les entités — individuellement ou au titre de leur appartenance à une catégorie donnée — dont les emprunts doivent être pris en compte;
+	- **c)** la façon d’établir la valeur des emprunts.
+> 1993, ch. 28, art. 27; 2012, ch. 19, art. 215.
+
 
 
 
