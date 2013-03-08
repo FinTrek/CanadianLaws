@@ -1298,7 +1298,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind6EDA_hq_12870'>[*]</a></sup>**217** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6EDA_hq_12870'><sup>*</sup></a>: [Note: Division 4 not in force.]<br />
+<a name='fn_Ind6EDA_hq_12870'><sup>*</sup></a>: [Note: Division 4 in force March 8, 2013, *see* SI/2013-25.]<br />
 
 
 
