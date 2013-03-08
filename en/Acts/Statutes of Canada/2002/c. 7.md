@@ -365,11 +365,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Restriction**
 
-- **(2)** No money may be borrowed under a law made under paragraph (1)(a) without the approval of the Governor in Council.
+- **(2)** The aggregate of all borrowings must not exceed the maximum amount set under subsection (4).
 
 **Charge on Yukon C.R.F.**
 
 - **(3)** The repayment of money borrowed under a law made under paragraph (1)(a), and the payment of interest on that money, is a charge on and payable out of the Yukon Consolidated Revenue Fund.
+
+**Maximum amount — borrowings**
+
+- **(4)** The Governor in Council may, on the recommendation of the Minister of Finance, set the maximum amount of the aggregate of all borrowings.
+
+**Regulations**
+
+- **(5)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations respecting borrowings for the purposes of subsections (2) and (4), including regulations respecting
+	- **(a)** what constitutes, or is deemed to constitute, borrowing;
+	- **(b)** the entities, or classes of entities, whose borrowings must be taken into account; and
+	- **(c)** the manner in which the value of a borrowing is determined.
+> 2002, c. 7, s. 23; 2012, c. 19, s. 216.
+
 
 
 
