@@ -11712,7 +11712,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **458.1** 
 
-- **(1)** Subject to regulations made under subsection (2), a member bank shall, at any branch in Canada at which it, through a natural person, opens retail deposit accounts and disburses cash to customers, cash a cheque or other instrument for an individual who is considered not to be a customer of the bank under the regulations, if
+- **(1)** Subject to regulations made under subsection (2), a member bank shall, at any branch in Canada at which it, through a natural person, opens retail deposit accounts and disburses cash to customers, cash a cheque or other instrument for any individual, if
 	- **(a)** the cheque or other instrument is drawn on the Receiver General or on the Receiver General’s account in the Bank of Canada, or in any bank or other deposit-taking Canadian financial institution incorporated by or under an Act of Parliament, or is any other instrument issued as authority for the payment of money out of the Consolidated Revenue Fund;
 	- **(b)** the individual makes the request to cash it in person and meets the prescribed conditions; and
 	- **(c)** the amount of the cheque or other instrument is not more than the prescribed amount.
@@ -11721,10 +11721,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 - **(2)** The Governor in Council may make regulations
 	- **(a)** respecting circumstances in which subsection (1) does not apply;
-	- **(b)** for the purposes of subsection (1), prescribing the maximum amount of a cheque or other instrument;
-	- **(c)** prescribing conditions to be met by an individual referred to in subsection (1); and
-	- **(d)** prescribing circumstances in which an individual referred to in subsection (1) is considered not to be a customer of the bank.
-> 2001, c. 9, s. 123.
+	- **(b)** for the purposes of subsection (1), prescribing the maximum amount of a cheque or other instrument; and
+	- **(c)** prescribing conditions to be met by an individual referred to in subsection (1).
+	- **(d)** [Repealed, 2012, c. 5, s. 46]
+> 2001, c. 9, s. 123; 2012, c. 5, s. 46.
 
 
 
