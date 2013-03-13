@@ -11559,19 +11559,19 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **458.1** 
 
-- **(1)** Sous réserve des règlements pris en vertu du paragraphe (2), la banque membre est tenue, dans toute succursale au Canada dans laquelle elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire de personnes physiques, d’encaisser un chèque ou autre effet pour le compte d’un particulier qui est considéré comme n’étant pas un client selon les règlements, si les conditions suivantes sont réunies :
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (2), la banque membre est tenue, dans toute succursale au Canada dans laquelle elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire de personnes physiques, d’encaisser un chèque ou autre effet pour le compte d’un particulier, si les conditions suivantes sont réunies :
 	- **a)** il s’agit d’un chèque ou autre effet tiré sur le receveur général ou sur son compte à la Banque du Canada, ou à toute banque ou à toute autre institution financière canadienne acceptant des dépôts constituée sous le régime d’une loi fédérale, ou de tout autre effet émis à titre d’autorisation de paiement de fonds sur le Trésor;
 	- **b)** le particulier se présente à la succursale et remplit les conditions réglementaires;
 	- **c)** le montant du chèque ou autre effet est inférieur ou égal au montant maximal prévu par règlement.
 
 **Règlements**
 
-- **(2)** Le gouverneur en conseil peut prendre des règlements :
+- **(2)** Le gouverneur en conseil peut prendre des règlements :
 	- **a)** concernant les cas d’inapplication du paragraphe (1);
 	- **b)** fixant le montant maximal du chèque ou autre effet visé au paragraphe (1);
-	- **c)** prévoyant les conditions à remplir par le particulier visé au paragraphe (1);
-	- **d)** prévoyant les cas dans lesquels un particulier visé au paragraphe (1) est considéré comme n’étant pas un client de la banque.
-> 2001, ch. 9, art. 123.
+	- **c)** prévoyant les conditions à remplir par le particulier visé au paragraphe (1).
+	- **d)** [Abrogé, 2012, ch. 5, art. 46]
+> 2001, ch. 9, art. 123; 2012, ch. 5, art. 46.
 
 
 
