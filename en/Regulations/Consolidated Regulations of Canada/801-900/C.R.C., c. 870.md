@@ -31666,27 +31666,27 @@ and if unpurified anterior pituitary extract
 
 **C.05.001** The definitions in this section apply in this Division.
 
-***adverse drug reaction*** means any noxious and unintended response to a drug that is caused by the administration of any dose of the drug. (*réaction indésirable à une drogue*)
+***adverse drug reaction*** means any noxious and unintended response to a drug that is caused by the administration of any dose of the drug. (*réaction indésirable à une drogue*)
 
-***adverse event*** means any adverse occurrence in the health of a clinical trial subject who is administered a drug, that may or may not be caused by the administration of the drug, and includes an adverse drug reaction. (*incident thérapeutique*)
+***adverse event*** means any adverse occurrence in the health of a clinical trial subject who is administered a drug, that may or may not be caused by the administration of the drug, and includes an adverse drug reaction. (*incident thérapeutique*)
 
-***clinical trial*** means an investigation in respect of a drug for use in humans that involves human subjects and that is intended to discover or verify the clinical, pharmacological or pharmacodynamic effects of the drug, identify any adverse events in respect of the drug, study the absorption, distribution, metabolism and excretion of the drug, or ascertain the safety or efficacy of the drug. (*essai clinique*)
+***clinical trial*** means an investigation in respect of a drug for use in humans that involves human subjects and that is intended to discover or verify the clinical, pharmacological or pharmacodynamic effects of the drug, identify any adverse events in respect of the drug, study the absorption, distribution, metabolism and excretion of the drug, or ascertain the safety or efficacy of the drug. (*essai clinique*)
 
-***drug*** means a drug for human use that is to be tested in a clinical trial. (*drogue*)
+***drug*** means a drug for human use that is to be tested in a clinical trial. (*drogue*)
 
-***good clinical practices*** means generally accepted clinical practices that are designed to ensure the protection of the rights, safety and well-being of clinical trial subjects and other persons, and the good clinical practices referred to in section C.05.010. (*bonnes pratiques cliniques*)
+***good clinical practices*** means generally accepted clinical practices that are designed to ensure the protection of the rights, safety and well-being of clinical trial subjects and other persons, and the good clinical practices referred to in section C.05.010. (*bonnes pratiques cliniques*)
 
-***import*** means to import a drug into Canada for the purpose of sale in a clinical trial. (*importer*)
+***import*** means to import a drug into Canada for the purpose of sale in a clinical trial. (*importer*)
 
-***investigator’s brochure*** means, in respect of a drug, a document containing the preclinical and clinical data on the drug that are described in paragraph C.05.005(e). (*brochure du chercheur*)
+***investigator’s brochure*** means, in respect of a drug, a document containing the preclinical and clinical data on the drug that are described in paragraph C.05.005(e). (*brochure du chercheur*)
 
-***protocol*** means a document that describes the objectives, design, methodology, statistical considerations and organization of a clinical trial. (*protocole*)
+***protocol*** means a document that describes the objectives, design, methodology, statistical considerations and organization of a clinical trial. (*protocole*)
 
-***qualified investigator*** means the person responsible to the sponsor for the conduct of the clinical trial at a clinical trial site, who is entitled to provide health care under the laws of the province where that clinical trial site is located, and who is
+***qualified investigator*** means the person responsible to the sponsor for the conduct of the clinical trial at a clinical trial site, who is entitled to provide health care under the laws of the province where that clinical trial site is located, and who is
 - **(a)** in the case of a clinical trial respecting a drug to be used for dental purposes only, a physician or dentist and a member in good standing of a professional medical or dental association; and
-- **(b)** in any other case, a physician and a member in good standing of a professional medical association. (*chercheur qualifié*)
+- **(b)** in any other case, a physician and a member in good standing of a professional medical association. (*chercheur qualifié*)
 
-***research ethics board*** means a body that is not affiliated with the sponsor, and
+***research ethics board*** means a body that is not affiliated with the sponsor, and
 - **(a)** the principal mandate of which is to approve the initiation of, and conduct periodic reviews of, biomedical research involving human subjects in order to ensure the protection of their rights, safety and well-being; and
 - **(b)** that has at least five members, that has a majority of members who are Canadian citizens or permanent residents under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), that is composed of both men and women and that includes at least
 	- **(i)** two members whose primary experience and expertise are in a scientific discipline, who have broad experience in the methods and areas of research to be approved and one of whom is from a medical discipline or, if the clinical trial is in respect of a drug to be used for dental purposes only, is from a medical or dental discipline,
@@ -31695,12 +31695,12 @@ and if unpurified anterior pituitary extract
 	- **(iv)** one member whose primary experience and expertise are in a non-scientific discipline, and
 	- **(v)** one member who is from the community or is a representative of an organization interested in the areas of research to be approved and who is not affiliated with the sponsor or the site where the clinical trial is to be conducted. (*comité d’éthique de la recherche*)
 
-***serious adverse drug reaction*** means an adverse drug reaction that requires in-patient hospitalization or prolongation of existing hospitalization, that causes congenital malformation, that results in persistent or significant disability or incapacity, that is life threatening or that results in death. (*réaction indésirable grave à une drogue*)
+***serious adverse drug reaction*** means an adverse drug reaction that requires in-patient hospitalization or prolongation of existing hospitalization, that causes congenital malformation, that results in persistent or significant disability or incapacity, that is life threatening or that results in death. (*réaction indésirable grave à une drogue*)
 
-***serious unexpected adverse drug reaction*** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out in the investigator’s brochure or on the label of the drug. (*réaction indésirable grave et imprévue à une drogue*)
+***serious unexpected adverse drug reaction*** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out in the investigator’s brochure or on the label of the drug. (*réaction indésirable grave et imprévue à une drogue*)
 
-***sponsor*** means an individual, corporate body, institution or organization that conducts a clinical trial. (*promoteur*) 
-> SOR/2001-203, s. 4; 2001, c. 27, s. 273; SOR/2012-16, s. 1(F).
+***sponsor*** means an individual, corporate body, institution or organization that conducts a clinical trial. (*promoteur*) 
+> SOR/2001-203, s. 4; 2001, c. 27, s. 273; SOR/2012-16, s. 1(F); SOR/2013-56, s. 1(F).
 
 
 
