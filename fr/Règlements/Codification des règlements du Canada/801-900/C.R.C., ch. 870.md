@@ -31628,41 +31628,41 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.05.001** Les définitions qui suivent s’appliquent au présent titre.
 
-***bonnes pratiques cliniques*** Pratiques cliniques généralement reconnues visant à assurer la protection des droits, la sûreté et le bien-être des sujets d’essai clinique et d’autres personnes ainsi que les bonnes pratiques cliniques visées à l’article C.05.010. (*good clinical practices*)
+***bonnes pratiques cliniques*** Pratiques cliniques généralement reconnues visant à assurer la protection des droits, la sûreté et le bien-être des sujets d’essai clinique et d’autres personnes ainsi que les bonnes pratiques cliniques visées à l’article C.05.010. (*good clinical practices*)
 
-***brochure du chercheur*** Document dans lequel figurent les données précliniques et cliniques d’une drogue visées à l’alinéa C.05.005e). (*investigator’s brochure*)
+***brochure du chercheur*** Document dans lequel figurent les données précliniques et cliniques d’une drogue visées à l’alinéa C.05.005e). (*investigator’s brochure*)
 
-***chercheur qualifié*** La personne qui est responsable auprès du promoteur de la conduite de l’essai clinique à un lieu d’essai clinique, qui est habilitée à dispenser des soins médicaux en vertu des lois de la province où ce lieu d’essai clinique est situé et qui est :
+***chercheur qualifié*** La personne qui est responsable auprès du promoteur de la conduite de l’essai clinique à un lieu d’essai clinique, qui est habilitée à dispenser des soins de santé en vertu des lois de la province où ce lieu d’essai clinique est situé et qui est :
 - **a)** dans le cas d’un essai clinique portant sur une drogue destinée à être utilisée exclusivement en médecine dentaire, un médecin ou un dentiste, membre en règle d’une association médicale ou dentaire professionnelle;
-- **b)** dans tout autre cas, un médecin, membre en règle d’une association médicale professionnelle. (*qualified investigator*)
+- **b)** dans tout autre cas, un médecin, membre en règle d’une association médicale professionnelle. (*qualified investigator*)
 
-***comité d’éthique de la recherche*** Organisme, qui n’est pas lié au promoteur, ayant les caractéristiques suivantes :
+***comité d’éthique de la recherche*** Organisme, qui n’est pas lié au promoteur, ayant les caractéristiques suivantes :
 - **a)** son principal mandat est d’approuver la tenue de projets de recherche biomédicale sur des sujets humains et d’en contrôler périodiquement le déroulement afin d’assurer la protection des droits des sujets, ainsi que leur sûreté et leur bien-être;
-- **b)** il est composé d’au moins cinq membres, la majorité de ses membres sont des citoyens canadiens ou des résidents permanents au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et il compte parmi ses membres des hommes et des femmes, dont au moins :
+- **b)** il est composé d’au moins cinq membres, la majorité de ses membres sont des citoyens canadiens ou des résidents permanents au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et il compte parmi ses membres des hommes et des femmes, dont au moins :
 	- **(i)** deux membres possèdent de l’expertise et de l’expérience principalement dans un domaine scientifique ainsi qu’une vaste expérience des méthodes et champs de recherche à approuver, l’un d’entre eux provenant d’une discipline des soins médicaux ou, dans le cas d’un essai clinique portant sur une drogue destinée à être utilisée exclusivement en médecine dentaire, d’une discipline des soins médicaux ou dentaires,
 	- **(ii)** un membre possède des connaissances de l’éthique,
 	- **(iii)** un membre possède des connaissances de la législation canadienne applicable à la recherche biomédicale à approuver,
 	- **(iv)** un membre possède de l’expertise et de l’expérience principalement dans un domaine non scientifique,
 	- **(v)** un membre, qui n’est pas lié au promoteur ni au lieu d’essai clinique proposé, est un individu de la collectivité ou un représentant d’un organisme intéressé aux champs de recherche à approuver. (*research ethics board*)
 
-***drogue*** Drogue pour usage humain destinée à faire l’objet d’un essai clinique. (*drug*)
+***drogue*** Drogue pour usage humain destinée à faire l’objet d’un essai clinique. (*drug*)
 
-***essai clinique*** Recherche sur des sujets humains dont l’objet est soit de découvrir ou de vérifier les effets cliniques, pharmacologiques ou pharmacodynamiques d’une drogue pour usage humain, soit de déceler les incidents thérapeutiques liés à cette drogue, soit d’en étudier l’absorption, la distribution, le métabolisme et l’élimination ou soit d’en établir l’innocuité ou l’efficacité. (*clinical trial*)
+***essai clinique*** Recherche sur des sujets humains dont l’objet est soit de découvrir ou de vérifier les effets cliniques, pharmacologiques ou pharmacodynamiques d’une drogue pour usage humain, soit de déceler les incidents thérapeutiques liés à cette drogue, soit d’en étudier l’absorption, la distribution, le métabolisme et l’élimination ou soit d’en établir l’innocuité ou l’efficacité. (*clinical trial*)
 
-***importer*** Importer une drogue au Canada pour la vendre dans le cadre d’un essai clinique. (*import*)
+***importer*** Importer une drogue au Canada pour la vendre dans le cadre d’un essai clinique. (*import*)
 
-***incident thérapeutique*** Événement indésirable affectant la santé d’un sujet d’essai clinique à qui une drogue a été administrée — qui peut ou non être causé par l’administration de la drogue, — y compris toute réaction indésirable à une drogue. (*adverse event*)
+***incident thérapeutique*** Événement indésirable affectant la santé d’un sujet d’essai clinique à qui une drogue a été administrée — qui peut ou non être causé par l’administration de la drogue, — y compris toute réaction indésirable à une drogue. (*adverse event*)
 
-***promoteur*** Personne physique ou morale, établissement ou organisme qui mène un essai clinique. (*sponsor*)
+***promoteur*** Personne physique ou morale, établissement ou organisme qui mène un essai clinique. (*sponsor*)
 
-***protocole*** Document qui expose les objectifs, le plan de travail, la méthodologie, les considérations statistiques et l’organisation d’un essai clinique. (*protocol*)
+***protocole*** Document qui expose les objectifs, le plan de travail, la méthodologie, les considérations statistiques et l’organisation d’un essai clinique. (*protocol*)
 
-***réaction indésirable à une drogue*** Réaction nocive et non intentionnelle à une drogue qui est provoquée par l’administration de toute dose de celle-ci. (*adverse drug reaction*)
+***réaction indésirable à une drogue*** Réaction nocive et non intentionnelle à une drogue qui est provoquée par l’administration de toute dose de celle-ci. (*adverse drug reaction*)
 
-***réaction indésirable grave à une drogue*** Réaction indésirable à une drogue qui nécessite ou prolonge l’hospitalisation, entraîne une malformation congénitale ou une invalidité ou incapacité persistante ou importante, met la vie en danger ou entraîne la mort. (*serious adverse drug reaction*)
+***réaction indésirable grave à une drogue*** Réaction indésirable à une drogue qui nécessite ou prolonge l’hospitalisation, entraîne une malformation congénitale ou une invalidité ou incapacité persistante ou importante, met la vie en danger ou entraîne la mort. (*serious adverse drug reaction*)
 
-***réaction indésirable grave et imprévue à une drogue*** Réaction indésirable grave à une drogue dont la nature, la sévérité ou la fréquence ne sont pas mentionnées dans les renseignements sur les risques qui figurent dans la brochure du chercheur ou sur l’étiquette de la drogue. (*serious unexpected adverse drug reaction*)
-> DORS/2001-203, art. 4; 2001, ch. 27, art. 273; DORS/2012-16, art. 1(F).
+***réaction indésirable grave et imprévue à une drogue*** Réaction indésirable grave à une drogue dont la nature, la sévérité ou la fréquence ne sont pas mentionnées dans les renseignements sur les risques qui figurent dans la brochure du chercheur ou sur l’étiquette de la drogue. (*serious unexpected adverse drug reaction*)
+> DORS/2001-203, art. 4; 2001, ch. 27, art. 273; DORS/2012-16, art. 1(F); DORS/2013-56, art. 1(F).
 
 
 
