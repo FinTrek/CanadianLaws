@@ -968,10 +968,18 @@ A prescribed week relating to employment in the labour force shall not be taken 
 
 **Availability for work, etc.**
 
-**18** A claimant is not entitled to be paid benefits for a working day in a benefit period for which the claimant fails to prove that on that day the claimant was
-- **(a)** capable of and available for work and unable to obtain suitable employment;
-- **(b)** unable to work because of a prescribed illness, injury or quarantine, and that the claimant would otherwise be available for work; or
-- **(c)** engaged in jury service.
+**18** 
+
+- **(1)** A claimant is not entitled to be paid benefits for a working day in a benefit period for which the claimant fails to prove that on that day the claimant was
+	- **(a)** capable of and available for work and unable to obtain suitable employment;
+	- **(b)** unable to work because of a prescribed illness, injury or quarantine, and that the claimant would otherwise be available for work; or
+	- **(c)** engaged in jury service.
+
+**Exception**
+
+- **(2)** A claimant to whom benefits are payable under section 23 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
+> 1996, c. 23, s. 18; 2012, c. 27, s. 15.
+
 
 
 
@@ -1036,11 +1044,13 @@ A prescribed week relating to employment in the labour force shall not be taken 
 
 **Limitation**
 
-- **(2)** If benefits are payable to a claimant for unemployment caused by illness, injury or quarantine and any allowances, money or other benefits are payable to the claimant for that illness, injury or quarantine under a provincial law, the benefits payable to the claimant under this Act shall be reduced or eliminated as prescribed.
+- **(2)** If benefits are payable to a claimant as a result of illness, injury or quarantine and any allowances, money or other benefits are payable to the claimant for that illness, injury or quarantine under a provincial law, the benefits payable to the claimant under this Act shall be reduced or eliminated as prescribed.
 
 **Deduction**
 
 - **(3)** If earnings are received by a claimant for a period in a week of unemployment during which the claimant is incapable of work because of illness, injury or quarantine, subsection 19(2) does not apply and, subject to subsection 19(3), all those earnings shall be deducted from the benefits payable for that week.
+> 1996, c. 23, s. 21; 2012, c. 27, s. 16.
+
 
 
 
@@ -4483,6 +4493,10 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 - **(1)** Subject to this Part, a self-employed person who ceases to work as a self-employed person because of a prescribed illness, injury or quarantine and who would be otherwise working, is entitled to receive benefits while unable to work as a self-employed person for that reason.
 
+**Exception**
+
+- **(1.1)** A self-employed person to whom benefits are payable under section 152.05 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
+
 **Limitation**
 
 - **(2)** If benefits are payable to a self-employed person as a result of illness, injury or quarantine and any allowances, money or other benefits are payable to the person for that illness, injury or quarantine under a provincial law, the benefits payable to the person under this Part shall be reduced or eliminated as prescribed.
@@ -4493,8 +4507,8 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Disentitlement**
 
-- **(4)** A self-employed person is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
-> 2009, c. 33, s. 16.
+- **(4)** A self-employed person, other than one referred to in subsection (1.1), is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 21.
 
 
 
