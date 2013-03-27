@@ -11,7 +11,7 @@ Sanctionnée sur le 14 juin 2001
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -38,6 +38,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **2** Les définitions qui suivent s’appliquent au présent article et aux articles 3 à 34.
 
 ***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3.
+
+***chef du développement de la littératie financière*** La personne nommée en application de l’article 4.1.
 
 ***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4.
 
@@ -78,7 +80,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 ***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
-> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835; 2012, ch. 5, art. 217 et 222.
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835; 2012, ch. 5, art. 217 et 222; 2013, ch. 1, art. 2.
 
 
 
@@ -105,7 +107,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par ces institutions financières en vue de protéger les intérêts des clients et qui sont accessibles au public et de surveiller les engagements publics pris par les institutions financières en vue de protéger les intérêts des clients;
 	- **d)** de sensibiliser les consommateurs en ce qui a trait aux obligations des institutions financières découlant des dispositions visant les consommateurs qui leur sont applicables et à toute question liée à la protection des consommateurs de produits et services financiers;
 	- **e)** de favoriser, en collaboration avec les ministères, sociétés mandataires ou organismes fédéraux ou provinciaux, les institutions financières et les organisations de consommateurs ou autres, la compréhension des services financiers et les questions qui s’y rapportent;
-	- **f)** de surveiller et d’évaluer les tendances et questions qui se dessinent et qui peuvent influer sur les consommateurs de produits et services financiers.
+	- **f)** de surveiller et d’évaluer les tendances et questions qui se dessinent et qui peuvent influer sur les consommateurs de produits et services financiers;
+	- **g)** de collaborer avec les intéressés au développement et au soutien d’initiatives visant à renforcer la littératie financière des Canadiens et, à cette fin, de coordonner ses activités avec les leurs.
 
 **Objectifs — exploitants de réseaux de cartes de paiement**
 
@@ -114,13 +117,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** d’inciter les exploitants de réseaux de cartes de paiement à se doter de politiques et de procédures pour mettre en oeuvre les dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
 	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par les exploitants de réseaux de cartes de paiement et qui sont accessibles au public et de surveiller les engagements publics qu’ils ont pris concernant leurs pratiques commerciales à l’égard des réseaux de cartes de paiement;
 	- **d)** de sensibiliser le public en ce qui a trait aux obligations des exploitants de réseaux de cartes de paiement au titre des codes de conduite volontaires ou au titre de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md).
-> 2001, ch. 9, art. 3; 2010, ch. 12, art. 1836 et 1851.
+> 2001, ch. 9, art. 3; 2010, ch. 12, art. 1836 et 1851; 2013, ch. 1, art. 3.
 
 
 
 
 
-## Commissaire de l’agence
+## Commissaire de l’agence et chef du développement de la littératie financière
 
 
 
@@ -159,7 +162,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Attributions du commissaire
+**Nomination du chef du développement de la littératie financière**
+
+**4.1** 
+
+- **(1)** Le gouverneur en conseil nomme le chef du développement de la littératie financière, qui se conforme aux directives du commissaire.
+
+**Mandat et révocation**
+
+- **(2)** Le chef du développement de la littératie financière occupe sa charge à titre amovible pour un mandat maximal de cinq ans.
+
+**Nouveau mandat**
+
+- **(3)** Son mandat est renouvelable plus d’une fois.
+
+**Absence ou empêchement**
+
+- **(4)** En cas d’absence ou d’empêchement du chef du développement de la littératie financière ou de vacance de son poste, ses attributions peuvent être confiées à une personne compétente nommée par le ministre; cependant l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+
+**Rémunération**
+
+- **(5)** Le chef du développement de la littératie financière reçoit la rémunération que fixe le gouverneur en conseil.
+
+**Frais**
+
+- **(6)** Le chef du développement de la littératie financière et toute personne chargée de l’intérim en vertu du paragraphe (4) sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail.
+
+**Statut**
+
+- **(7)** Le chef du développement de la littératie financière et toute personne chargée de l’intérim en vertu du paragraphe (4) sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2013, ch. 1, art. 5.
+
+
+
+
+
+## Attributions du commissaire et du chef du développement de la littératie financière
 
 
 
@@ -206,11 +244,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Attributions du chef du développement de la littératie financière**
+
+**5.01** Le chef du développement de la littératie financière assume un rôle de premier plan à l’échelon national en ce qui a trait au renforcement de la littératie financière des Canadiens; il peut à cette fin exercer toutes les activités qu’il estime nécessaires dans le cadre du paragraphe 3(2).
+> 2013, ch. 1, art. 7.
+
+
+
+
+
 **Instructions du ministre**
 
 **5.1** 
 
-- **(1)** Le ministre peut donner des instructions écrites au commissaire, s’il est d’avis que celles-ci peuvent renforcer la protection des consommateurs ou la confiance du public quant à cette protection ou améliorer la littératie financière de celui-ci.
+- **(1)** Le ministre peut donner des instructions écrites à l’Agence, s’il est d’avis que celles-ci peuvent soit renforcer la protection des consommateurs et la confiance du public quant à cette protection, soit améliorer la littératie financière des Canadiens.
 
 **Avis de mise en oeuvre**
 
@@ -218,7 +265,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Intérêt supérieur de l’Agence**
 
-- **(3)** Le commissaire est réputé agir dans l’intérêt supérieur de l’Agence lorsqu’il se conforme aux instructions.
+- **(3)** L’Agence est réputée agir dans son propre intérêt supérieur lorsqu’elle se conforme aux instructions.
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
@@ -227,7 +274,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(5)** Le ministre fait publier, dans la Gazette du Canada, un avis portant que des instructions ont été données en vertu du paragraphe (1) dès que possible après leur mise en oeuvre.
-> 2010, ch. 12, art. 1853.
+> 2010, ch. 12, art. 1853; 2013, ch. 1, art. 8.
 
 
 
@@ -241,7 +288,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Par dérogation au paragraphe (1), le commissaire peut occuper un autre poste ou exercer d’autres fonctions, à titre gratuit, sous l’autorité ou au service de Sa Majesté.
+- **(2)** Par dérogation au paragraphe (1), le commissaire peut occuper tout autre poste ou exercer toutes autres fonctions, à titre gratuit, sous l’autorité ou au service de Sa Majesté.
+> 2001, ch. 9, art. 6; 2013, ch. 1, art. 9(F).
+
+
+
+
+
+**Incompatibilité de fonctions : chef du développement de la littératie financière**
+
+**6.1** 
+
+- **(1)** Les attributions du chef du développement de la littératie financière prévues à l’article 5.01 sont incompatibles avec toutes autres fonctions.
+
+**Exception**
+
+- **(2)** Par dérogation au paragraphe (1), le chef du développement de la littératie financière peut occuper tout autre poste ou exercer toutes autres fonctions, à titre gratuit, sous l’autorité ou au service de Sa Majesté.
+> 2013, ch. 1, art. 10.
+
 
 
 
@@ -341,8 +405,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Paiement pour activités**
 
-- **(3)** Si le commissaire, sur la recommandation du ministre, exerce des activités en vue de la réalisation des objectifs visés aux alinéas 3(2)d) ou e), ce dernier peut, au cours d’un exercice, conformément aux modalités approuvées par le Conseil du Trésor, payer une somme sur le Trésor à l’Agence pour financer ces activités.
-> 2001, ch. 9, art. 13; 2007, ch. 29, art. 154.
+- **(3)** Si l’Agence, sur la recommandation du ministre, exerce des activités en vue de la réalisation des objectifs visés aux alinéas 3(2)d), e) ou g), ce dernier peut, au cours d’un exercice, conformément aux modalités approuvées par le Conseil du Trésor, payer une somme sur le Trésor à l’Agence pour financer ces activités.
+> 2001, ch. 9, art. 13; 2007, ch. 29, art. 154; 2013, ch. 1, art. 11.
 
 
 
@@ -469,6 +533,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Au cours de l’exercice, le commissaire peut établir une cotisation provisoire pour toute institution financière.
 
+**Cotisation pour la littératie financière**
+
+- **(4.1)** Le commissaire peut, au cours d’un exercice, établir une cotisation à l’égard d’une institution financière pour le paiement, en tout ou en partie, des dépenses liées aux initiatives visant à renforcer la littératie financière des Canadiens.
+
 **Caractère obligatoire**
 
 - **(5)** Toute cotisation — provisoire ou non — est irrévocable et lie l’institution financière concernée.
@@ -500,7 +568,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêt**
 
 - **(7)** Toute partie impayée de la cotisation peut être majorée d’un intérêt calculé à un taux supérieur de 2 % au taux en vigueur fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) sur les montants à payer par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en vertu de cette loi.
-> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435; 2010, ch. 12, art. 1842 et 1855.
+> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435; 2010, ch. 12, art. 1842 et 1855; 2013, ch. 1, art. 12.
 
 
 
@@ -745,7 +813,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Immunité judiciaire**
 
-**33** Sa Majesté, le ministre, le commissaire, les commissaires adjoints, les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, bénéficient de l’immunité judiciaire pour les actes ou omissions commis de bonne foi dans l’exercice — autorisé ou requis — des pouvoirs et fonctions conférés par une loi fédérale.
+**33** Sa Majesté, le ministre, le commissaire, le chef du développement de la littératie financière, les commissaires adjoints, les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, bénéficient de l’immunité judiciaire pour les actes ou omissions commis de bonne foi dans l’exercice — autorisé ou requis — des attributions que leur confère une loi fédérale.
+> 2001, ch. 9, art. 33; 2013, ch. 1, art. 13.
+
 
 
 
@@ -756,8 +826,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-assignation**
 
-**33.1** Le commissaire, les commissaires adjoints et les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, ne sont pas des témoins contraignables dans le cadre de toute procédure civile en ce qui touche les questions venues à leur connaissance dans l’exercice des attributions que leur confère la présente loi ou toute loi mentionnée à l’annexe 1.
-> 2012, ch. 5, art. 220.
+**33.1** Le commissaire, le chef du développement de la littératie financière, les commissaires adjoints et les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, ne sont pas des témoins contraignables dans le cadre de toute procédure civile en ce qui touche les questions venues à leur connaissance dans l’exercice des attributions que leur confère la présente loi ou toute loi mentionnée à l’annexe 1.
+> 2012, ch. 5, art. 220; 2013, ch. 1, art. 15.
 
 
 
@@ -771,8 +841,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **34** Chaque année, le ministre fait déposer devant chaque chambre du Parlement, au plus tard le cinquième jour de séance de celle-ci après le 30 septembre, le rapport faisant état des activités de l’Agence pour l’exercice précédent ainsi que des conclusions d’ordre général de celle-ci sur la situation en ce qui a trait, pour cet exercice :
 - **a)** au respect, par les institutions financières, des dispositions visant les consommateurs qui leur sont applicables;
-- **b)** au respect, par les exploitants de réseaux de cartes de paiement, des dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements.
-> 2001, ch. 9, art. 34; 2010, ch. 12, art. 1848.
+- **b)** au respect, par les exploitants de réseaux de cartes de paiement, des dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
+- **c)** à sa collaboration avec les intéressés quant au développement et au soutien d’initiatives visant à renforcer la littératie financière des Canadiens, et à la coordination, à cette fin, de ses activités avec les leurs.
+> 2001, ch. 9, art. 34; 2010, ch. 12, art. 1848; 2013, ch. 1, art. 14.
 
 
 
