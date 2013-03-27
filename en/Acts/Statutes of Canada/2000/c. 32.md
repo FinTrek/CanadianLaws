@@ -3863,7 +3863,7 @@ Said parcel containing an area of about 11 475 square kilometres.
 **PART 5 — ONTARIO** 
 
 
-### (1) St. Lawrence Islands National Park of Canada
+### (1) Thousand Islands National Park of Canada
 
 
 In the Province of Ontario;
@@ -6233,7 +6233,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; SOR/2013-16.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16.
 
 
 
