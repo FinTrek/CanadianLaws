@@ -1486,7 +1486,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
-### Griefs
+### Griefs ou plaintes
 
 
 
@@ -1501,6 +1501,30 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **91** Tout délinquant doit, sans crainte de représailles, avoir libre accès à la procédure de règlement des griefs.
 > 1992, ch. 20, art. 91; 1995, ch. 42, art. 22(F)
+
+
+
+
+
+**Poursuites vexatoires**
+
+**91.1** 
+
+- **(1)** Le commissaire peut, s’il est convaincu qu’un délinquant a de façon persistante présenté des plaintes ou des griefs mal fondés, vexatoires ou entachés de mauvaise foi, lui interdire, conformément aux procédures établies par règlement, de présenter une nouvelle plainte ou un nouveau grief, sauf avec son autorisation.
+
+**Réexamen de l’interdiction**
+
+- **(2)** Le commissaire réexamine l’interdiction annuellement et communique, par écrit, au délinquant ses motifs pour confirmer ou lever l’interdiction.
+> 2013, ch. 3, art. 2
+
+
+
+
+
+**Règlements**
+
+**91.2** Le gouverneur en conseil peut prendre des règlements concernant le régime des griefs et des plaintes qui s’applique aux délinquants assujettis à l’interdiction prévue au paragraphe 91.1(1).
+> 2013, ch. 3, art. 2
 
 
 
