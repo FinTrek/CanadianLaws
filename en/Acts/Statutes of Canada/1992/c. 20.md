@@ -1627,7 +1627,7 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 
 
-### Grievance Procedure
+### Grievance or Complaint Procedure
 
 
 
@@ -1642,6 +1642,30 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 **91** Every offender shall have complete access to the offender grievance procedure without negative consequences.
 > 1992, c. 20, s. 91; 1995, c. 42, s. 22(F)
+
+
+
+
+
+**Frivolous complaints, etc.**
+
+**91.1** 
+
+- **(1)** If the Commissioner is satisfied that an offender has persistently submitted complaints or grievances that are frivolous, vexatious or not made in good faith, the Commissioner may, in accordance with the prescribed procedures, prohibit an offender from submitting any further complaint or grievance except by leave of the Commissioner.
+
+**Review of prohibition**
+
+- **(2)** The Commissioner shall review each prohibition under subsection (1) annually and shall give the offender written reasons for his or her decision to maintain or lift it.
+> 2013, c. 3, s. 2
+
+
+
+
+
+**Regulations**
+
+**91.2** The Governor in Council may make regulations respecting the complaints and grievances regime with respect to offenders who are subject to a prohibition under subsection 91.1(1).
+> 2013, c. 3, s. 2
 
 
 
