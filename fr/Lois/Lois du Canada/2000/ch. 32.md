@@ -3853,7 +3853,7 @@ Ladite parcelle renfermant une superficie d’environ 11 475 kilomètres carré
 **PARTIE 5 — ONTARIO** 
 
 
-### (1) Parc national des Îles-du-Saint-Laurent du Canada
+### (1) Parc national des Mille-Îles du Canada
 
 
 Dans la province d’Ontario;
@@ -6195,7 +6195,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; DORS/2013-16.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16.
 
 
 
