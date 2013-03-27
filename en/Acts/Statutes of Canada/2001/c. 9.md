@@ -64,6 +64,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(e)** a company or foreign company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies; and
 - **(f)** Green Shield Canada.
 
+***Financial Literacy Leader*** means the person appointed under section 4.1.
+
 ***governing statute*** means
 - **(a)** in relation to a bank or authorized foreign bank as defined in the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), that Act;
 - **(b)** in relation to a retail association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies, that Act;
@@ -80,7 +82,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***penalty*** means an administrative monetary penalty.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, ss. 217, 222.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, ss. 217, 222; 2013, c. 1, s. 2.
 
 
 
@@ -108,8 +110,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 		- **(iii)** any public commitments made by financial institutions that are designed to protect the interests of their customers;
 	- **(c)** monitor the implementation of voluntary codes of conduct that are designed to protect the interests of customers of financial institutions, that have been adopted by financial institutions and that are publicly available and to monitor any public commitments made by financial institutions that are designed to protect the interests of their customers;
 	- **(d)** promote consumer awareness about the obligations of financial institutions under consumer provisions applicable to them and all matters connected with the protection of consumers of financial products and services;
-	- **(e)** foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services; and
-	- **(f)** monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services.
+	- **(e)** foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services;
+	- **(f)** monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services; and
+	- **(g)** collaborate and coordinate its activities with stakeholders to contribute to and support initiatives to strengthen the financial literacy of Canadians.
 
 **Objects — payment card network operators**
 
@@ -118,13 +121,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(b)** promote the adoption by payment card network operators of policies and procedures designed to implement the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations;
 	- **(c)** monitor the implementation of voluntary codes of conduct that have been adopted by payment card network operators and that are publicly available, and to monitor any public commitments made by them regarding their commercial practices in relation to payment card networks; and
 	- **(d)** promote public awareness about the obligations of payment card network operators under a voluntary code of conduct or under the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md).
-> 2001, c. 9, s. 3; 2010, c. 12, ss. 1836, 1851.
+> 2001, c. 9, s. 3; 2010, c. 12, ss. 1836, 1851; 2013, c. 1, s. 3.
 
 
 
 
 
-## Commissioner of Agency
+## Commissioner of Agency and Financial Literacy Leader
 
 
 
@@ -163,7 +166,42 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
-## Powers, Duties and Functions of the Commissioner
+**Appointment of Financial Literacy Leader**
+
+**4.1** 
+
+- **(1)** The Governor in Council shall appoint an officer to be called the Financial Literacy Leader who shall act under the instructions of the Commissioner.
+
+**Tenure of office and removal**
+
+- **(2)** The Financial Literacy Leader holds office during pleasure for a term of not more than five years.
+
+**Further terms**
+
+- **(3)** The Financial Literacy Leader, on the expiry of any term of office, is eligible to be re-appointed for a further term of office.
+
+**Absence or incapacity**
+
+- **(4)** In the event of the absence or incapacity of the Financial Literacy Leader, or if the office of Financial Literacy Leader is vacant, the Minister may appoint a qualified person to exercise the powers and perform the duties and functions of the Financial Literacy Leader, but no person may be so appointed for a term of more than 90 days without the approval of the Governor in Council.
+
+**Remuneration**
+
+- **(5)** The Financial Literacy Leader shall be paid the remuneration fixed by the Governor in Council.
+
+**Expenses**
+
+- **(6)** The Financial Literacy Leader and any person appointed under subsection (4) are entitled to be paid reasonable travel and living expenses incurred in the course of performing their duties while absent from their ordinary place of work.
+
+**Deemed employment**
+
+- **(7)** The Financial Literacy Leader and any person appointed under subsection (4) are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2013, c. 1, s. 5.
+
+
+
+
+
+## Powers, Duties and Functions of Commissioner and of Financial Literacy Leader
 
 
 
@@ -210,11 +248,20 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Powers, duties and functions of Financial Literacy Leader**
+
+**5.01** The Financial Literacy Leader shall exercise leadership at the national level to strengthen the financial literacy of Canadians. He or she may carry on any activity that he or she considers necessary in furtherance of that purpose, within the objects described in subsection 3(2).
+> 2013, c. 1, s. 7.
+
+
+
+
+
 **Minister’s direction**
 
 **5.1** 
 
-- **(1)** The Minister may give a written direction to the Commissioner if the Minister is of the opinion that it can strengthen consumer protection and the public’s confidence in that protection or enhance the public’s financial literacy.
+- **(1)** The Minister may give a written direction to the Agency if he or she is of the opinion that it can strengthen consumer protection and the public’s confidence in that protection or enhance the financial literacy of Canadians.
 
 **Notification of implementation**
 
@@ -222,7 +269,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Best interests**
 
-- **(3)** The Commissioner’s compliance with a direction is deemed to be in the best interests of the Agency.
+- **(3)** Compliance by the Agency with a direction is deemed to be in its best interests.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
@@ -231,7 +278,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Publication**
 
 - **(5)** The Minister shall cause a notice to be published in the Canada Gazette that a direction was given under subsection (1) as soon as is feasible after the direction is implemented.
-> 2010, c. 12, s. 1853.
+> 2010, c. 12, s. 1853; 2013, c. 1, s. 8.
 
 
 
@@ -246,6 +293,23 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Other duties**
 
 - **(2)** Despite subsection (1), the Commissioner may hold any other office under Her Majesty or perform any other duties for Her Majesty, but not for reward.
+> 2001, c. 9, s. 6; 2013, c. 1, s. 9(F).
+
+
+
+
+
+**Duties and functions of Financial Literacy Leader generally**
+
+**6.1** 
+
+- **(1)** The Financial Literacy Leader shall engage exclusively in the duties and functions of the Financial Literacy Leader referred to in section 5.01.
+
+**Other duties**
+
+- **(2)** Despite subsection (1), the Financial Literacy Leader may hold any other office under Her Majesty or perform any other duties for Her Majesty, but not for reward.
+> 2013, c. 1, s. 10.
+
 
 
 
@@ -345,8 +409,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Payment for activity**
 
-- **(3)** If the Commissioner carries on any activity in furtherance of an object described in paragraph 3(2)(d) or (e) on the recommendation of the Minister, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity.
-> 2001, c. 9, s. 13; 2007, c. 29, s. 154.
+- **(3)** If the Agency carries on any activity in furtherance of an object described in paragraph 3(2)(d), (e) or (g) on the Minister’s recommendation, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity.
+> 2001, c. 9, s. 13; 2007, c. 29, s. 154; 2013, c. 1, s. 11.
 
 
 
@@ -473,6 +537,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(4)** The Commissioner may, during each fiscal year, prepare an interim assessment against any financial institution.
 
+**Assessment for financial literacy**
+
+- **(4.1)** The Commissioner may, during a fiscal year, impose an assessment against any financial institution to cover some or all of the expenses related to initiatives to strengthen the financial literacy of Canadians.
+
 **Assessment is binding**
 
 - **(5)** Every assessment and interim assessment is final and conclusive and binding on the financial institution against which it is made.
@@ -504,7 +572,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Interest**
 
 - **(7)** Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%.
-> 2001, c. 9, s. 18; 2007, c. 6, s. 435; 2010, c. 12, ss. 1842, 1855.
+> 2001, c. 9, s. 18; 2007, c. 6, s. 435; 2010, c. 12, ss. 1842, 1855; 2013, c. 1, s. 12.
 
 
 
@@ -749,7 +817,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **No liability**
 
-**33** No action lies against Her Majesty, the Minister, the Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
+**33** No action lies against Her Majesty, the Minister, the Commissioner, the Financial Literacy Leader, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
+> 2001, c. 9, s. 33; 2013, c. 1, s. 13.
+
 
 
 
@@ -760,8 +830,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Not compellable**
 
-**33.1** The Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner, is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in Schedule 1.
-> 2012, c. 5, s. 220.
+**33.1** The Commissioner, the Financial Literacy Leader, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner, is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in Schedule 1.
+> 2012, c. 5, s. 220; 2013, c. 1, s. 15.
 
 
 
@@ -774,9 +844,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Annual report**
 
 **34** The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next following the end of each fiscal year, a report showing the operations of the Agency for that year and describing
-- **(a)** in aggregate form, its conclusions on the compliance, in that year, of financial institutions with the consumer provisions applicable to them; and
-- **(b)** in aggregate form, its conclusions on the compliance, in that year, of payment card network operators with the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations.
-> 2001, c. 9, s. 34; 2010, c. 12, s. 1848.
+- **(a)** in aggregate form, its conclusions on the compliance, in that year, of financial institutions with the consumer provisions applicable to them;
+- **(b)** in aggregate form, its conclusions on the compliance, in that year, of payment card network operators with the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations; and
+- **(c)** its collaboration with stakeholders, and the coordination of its activities with those of stakeholders, to contribute to and support initiatives to strengthen the financial literacy of Canadians.
+> 2001, c. 9, s. 34; 2010, c. 12, s. 1848; 2013, c. 1, s. 14.
 
 
 
