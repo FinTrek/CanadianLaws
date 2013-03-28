@@ -2567,7 +2567,13 @@ Première nation Kitselas
 Première nation K’ómoks
 
 
+Kwadacha
+
+
 Première nation Kwaw-Kwaw Apilt
+
+
+Lax Kw’alaams
 
 
 Première nation Leq’á:mel
@@ -2642,6 +2648,9 @@ Oromocto
 Bande indienne Osoyoos
 
 
+Nation crie Peepeekisis no. 81
+
+
 Première nation Popkum
 
 
@@ -2664,6 +2673,9 @@ Première nation Shxwhá:y Village
 
 
 Première nation Shxw’ow’hamel
+
+
+Nation Siksika
 
 
 Première nation Simpcw
@@ -2771,6 +2783,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59.
 
 
