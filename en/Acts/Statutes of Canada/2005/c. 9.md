@@ -2572,7 +2572,13 @@ Kitselas First Nation
 K’ómoks First Nation
 
 
+Kwadacha
+
+
 Kwaw-Kwaw-Apilt First Nation
+
+
+Lax Kw’alaams
 
 
 Leq’á:mel First Nation
@@ -2647,6 +2653,9 @@ Oromocto
 Osoyoos Indian Band
 
 
+Peepeekisis Cree Nation No. 81
+
+
 Popkum First Nation
 
 
@@ -2669,6 +2678,9 @@ Shxwhá:y Village First Nation
 
 
 Shxw’ow’hamel First Nation
+
+
+Siksika Nation
 
 
 Simpcw First Nation
@@ -2776,6 +2788,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59.
 
 
