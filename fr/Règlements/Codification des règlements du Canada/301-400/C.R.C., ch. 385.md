@@ -26,7 +26,7 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***commissaire*** Le commissaire des tribunaux de révision nommé en vertu du paragraphe 82(5) de la Loi. (*Commissioner*)
+***commissaire***[Abrogée, DORS/2013-61, art. 1]
 
 ***Loi*** désigne le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md); (*Act*)
 
@@ -34,9 +34,9 @@ Autorités habilitantes :
 - **a)** aux parties I, II, III et IV, le ministre du Revenu national, et
 - **b)** à la partie V, le ministre au sens du paragraphe 42(1) de la Loi. (*Minister*)
 
-***président*** Le président de la Commission d’appel des pensions. (*Chairman*)
+***président***[Abrogée, DORS/2013-61, art. 1]
 
-***vice-président*** Le vice-président de la Commission d’appel des pensions. (*Vice-Chairman*)
+***vice-président***[Abrogée, DORS/2013-61, art. 1]
 
 - **(2)** Aux fins de la Loi et du présent règlement,
 
@@ -84,7 +84,7 @@ et comprend tous les services incidents à l’exécution de l’une quelconque 
 ***sylviculture*** signifie la plantation, la reproduction, la propagation, la production, la protection, le mesurage ou la coupe des arbres lorsque ces opérations sont effectuées dans une forêt, sur un terrain boisé ou sur une terre à bois, et englobe tous les services se rattachant à ces activités dès lors que ces services sont rendus là où les activités sont exercées. (*forestry*)
 
 - **(3)** Aux fins des définitions ***exploitation forestière*** et ***débit des bois*** du paragraphe (2), ***bois d’oeuvre*** signifie billes de toutes grosseurs, bois à lattes, bois à pâte, bois de feu, bois pour traverses de chemin de fer, bois de placage, poteaux, billots, pilotis, étais de mines, perches, pieux, écorces, copeaux ou tout bois brut avant d’être usiné ou autrement ouvré.
-> DORS/92-17, art. 1; DORS/96-522, art. 1.
+> DORS/92-17, art. 1; DORS/96-522, art. 1; DORS/2013-61, art. 1.
 
 
 
@@ -1442,8 +1442,8 @@ qu’il peut indiquer.
 ### Révision et appel au nom de certaines personnes
 
 
-**74** Toute personne ou organisme autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne à l’égard de laquelle il est établi — d’après les certificats médicaux ou autres déclarations par écrit qui ont été présentés au ministre, au commissaire, au président ou au vice-président, selon le cas — qu’elle est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires peut, pour le compte de cette personne, demander une révision en vertu des paragraphes 81(1) ou (1.1) de la Loi ou interjeter appel en vertu des paragraphes 82(1) ou 83(1) de la Loi. Lorsqu’il apparaît au ministre, au commissaire, au président ou au vice-président, selon le cas, qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision est présentée ou l’appel interjeté par la personne ou l’organisme qu’il considère qualifié pour le faire.
-> DORS/90-829, art. 31; DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2010-45, art. 8.
+**74** Toute personne ou tout organisme autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne à l’égard de laquelle il est établi — d’après les certificats médicaux ou autres déclarations qui ont été présentés par écrit au ministre ou au Tribunal de la sécurité sociale constitué par l’article 44 de la Loi sur le ministère des Ressources humaines et du Développement des compétences, selon le cas — qu’elle est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires peut, pour le compte de cette personne, demander une révision en vertu des paragraphes 81(1) ou (1.1) de la Loi, interjeter appel en vertu de l’article 82 de la Loi ou porter en appel une décision en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences. Lorsqu’il apparaît au ministre ou au Tribunal de la sécurité sociale, selon le cas, qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision est présentée ou l’appel interjeté par la personne ou l’organisme qu’il considère qualifié pour le faire.
+> DORS/2013-61, art. 2.
 
 
 
@@ -1454,13 +1454,20 @@ qu’il peut indiquer.
 
 **74.1** 
 
-- **(1)** La demande de révision faite en vertu des paragraphes 81(1) ou (1.1) de la Loi est faite au ministre par écrit et contient les renseignements suivants :
+- **(1)** La demande de révision faite en vertu des paragraphes 81(1) ou (1.1) de la Loi est faite au ministre par écrit et contient les renseignements suivants :
 	- **a)** les nom, adresse et numéro d’assurance sociale du cotisant;
 	- **b)** si l’auteur de la demande n’est pas le cotisant, ses nom, adresse et lien avec le cotisant;
 	- **c)** les motifs de la demande et un exposé des faits sur lesquels elle est fondée.
 
-- **(2)** Malgré le paragraphe (1), le ministre peut, lorsqu’il lui apparaît que l’auteur de la demande de révision a omis de fournir certains des renseignements visés aux alinéas (1)a) à c), prendre les mesures nécessaires pour les obtenir et ainsi corriger l’omission.
-> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 2; DORS/2010-45, art. 9.
+- **(2)** Le ministre peut, s’il lui apparaît que l’auteur de la demande de révision a omis de fournir certains des renseignements visés aux alinéas (1)a) à c) — ou n’a pas fourni les renseignements nécessaires pour lui permettre de décider s’il existe des circonstances justifiant l’autorisation d’un délai plus long pour présenter la demande — prendre les mesures nécessaires pour les obtenir et ainsi corriger l’omission.
+
+- **(3)** Pour l’application des paragraphes 81(1) et (1.1) de la Loi et sous réserve du paragraphe (4), le ministre peut autoriser la prolongation du délai de présentation de la demande de révision d’une décision ou d’un arrêt s’il est convaincu, d’une part, qu’il existe une explication raisonnable à l’appui de la demande de prolongation du délai et, d’autre part, que l’intéressé a manifesté l’intention constante de demander la révision.
+
+- **(4)** Dans les cas ci-après, le ministre doit aussi être convaincu que la demande de révision a des chances raisonnables de succès et que l’autorisation du délai supplémentaire ne lui porte pas préjudice ni d’ailleurs à aucune autre partie :
+	- **a)** la demande de révision est présentée après 365 jours suivant celui où il est avisé par écrit de la décision ou de l’arrêt;
+	- **b)** elle est présentée par une personne qui demande pour la seconde fois la même prestation;
+	- **c)** elle est présentée par une personne qui a demandé au ministre d’annuler ou de modifier une décision en vertu du paragraphe 81(3) de la Loi.
+> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 2; DORS/2010-45, art. 9; DORS/2013-61, art. 3.
 
 
 
@@ -1469,19 +1476,13 @@ qu’il peut indiquer.
 ### Avis de décision susceptible d’appel
 
 
-**74.2** Les avis et notifications visés aux paragraphes 81(1) et (1.1) et 82(1) de la Loi sont faits par écrit et sont envoyés par le ministre.
-> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 3; DORS/2010-45, art. 10.
+**74.2** L’avis et la notification visés aux paragraphes 81(1) et (1.1) de la Loi sont faits par écrit et sont envoyés par le ministre.
+> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 3; DORS/2010-45, art. 10; DORS/2013-61, art. 4.
 
 
 
 
-
-### Professionnels admissibles à faire partie de la liste établie aux fins de la constitution des tribunaux de révision
-
-
-**74.3** Pour l’application de l’alinéa 82(3)b) de la Loi, les professions connexes sont les suivantes : audiologie, chiropratique, dentisterie, diététique, ergothérapie, génie biomédical, inhalothérapie, profession d’opticien, profession infirmière, optométrie, orthophonie, ostéopathie, pharmacologie, phoniatrie, psychologie, physiothérapie, physique médicale et thérapie dentaire.
-> DORS/92-17, art. 3.
-
+**74.3** [Abrogé, DORS/2013-61, art. 4]
 
 
 
@@ -1786,7 +1787,7 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 
 - **(4)** Les intérêts courent sur une créance à un taux qui est calculé quotidiennement et composé mensuellement au taux d’escompte moyen majoré de 3 %.
 
-- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 81(2) de la Loi, la durée de tout appel en vertu des paragraphes 82(1) ou 83(1) de la Loi ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
+- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 81(2) de la Loi, la durée de tout appel en vertu de l’article 82 de la Loi, tout appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
 
 - **(6)** Les intérêts sur la créance ou une partie de la créance, selon le cas, cessent de courir le jour :
 	- **a)** précédant celui où un paiement prévu à l’égard de la créance ou le paiement intégral de la créance, selon le cas, est reçu par Sa Majesté;
@@ -1795,7 +1796,7 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 		- **(i)** soit en vertu du paragraphe 90.1(4) de la Loi,
 		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 90.1 de la Loi :
 			- **(A)** celle du ministre en vertu du paragraphe 81(2) de la Loi,
-			- **(B)** celle faisant suite à un appel en vertu des paragraphes 82(1) ou 83(1) de la Loi ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
+			- **(B)** celle faisant suite à un appel en vertu de l’article 82 de la Loi, un appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
 	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
 	- **e)** où le débiteur décède.
 
@@ -1804,7 +1805,7 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 	- **b)** les intérêts ne pourront être recouvrés dans un avenir suffisamment rapproché;
 	- **c)** les frais administratifs associés au recouvrement des intérêts seraient plus élevés que les intérêts dus;
 	- **d)** le paiement des intérêts causerait un préjudice injustifié au débiteur.
-> DORS/2010-45, art. 13.
+> DORS/2010-45, art. 13; DORS/2013-61, art. 5.
 
 
 
