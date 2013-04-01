@@ -115,12 +115,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-***First Nations Fiscal and Statistical Management Act***
+**[First Nations Fiscal Management Act](/en/Acts/Statutes%20of%20Canada/2005/c.%209.md)**
 
-**8.1 ** Notwithstanding any provision of this Act or the Agreement, for the purpose of enabling the Westbank First Nation to benefit from the provisions of the *First Nations Fiscal and Statistical Management Act* or obtain the services of any body established under that Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+**8.1 ** Notwithstanding any provision of this Act or the Agreement, for the purpose of enabling the Westbank First Nation to benefit from the provisions of the [First Nations Fiscal Management Act](/en/Acts/Statutes%20of%20Canada/2005/c.%209.md) or obtain the services of any body established under that Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
 - **(a)** adapting any provision of that Act or of any regulation made under that Act; and
 - **(b)** restricting the application of any provision of that Act or of any regulation made under that Act.
-> 2005, c. 9, s. 153.
+> 2005, c. 9, s. 153; 2012, c. 19, s. 680.
 
 
 
