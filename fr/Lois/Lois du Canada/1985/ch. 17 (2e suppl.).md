@@ -31,14 +31,14 @@
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Code*** Le *Code d’arbitrage commercial* — figurant à l’annexe — fondé sur la loi type adoptée par la Commission des Nations Unies pour le droit commercial international le 21 juin 1985.
+***Code*** Le Code d’arbitrage commercial — figurant à l’annexe 1 — fondé sur la loi type adoptée par la Commission des Nations Unies pour le droit commercial international le 21 juin 1985. (*Code*)
 
-***établissement public*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***établissement public*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*departmental corporation*)
 
 ***ministère***[Abrogée, L.R. (1985), ch. 1 (4<sup>e</sup> suppl.), art. 8]
 
-***société d’État*** S’entend au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 2, ch. 1 (4<sup>e</sup> suppl.), art. 8.
+***société d’État*** S’entend au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*Crown corporation*)
+> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 2, ch. 1 (4<sup>e</sup> suppl.), art. 8; 2012, ch. 26, art. 23.
 
 
 
@@ -90,8 +90,9 @@
 	- **a)** les plaintes prévues aux articles 1116 et 1117 de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md);
 	- **b)** les plaintes prévues aux articles G-17 et G-18 de l’Accord au sens de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md);
 	- **c)** les plaintes prévues aux articles 819 et 820 de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md);
-	- **d)** les plaintes prévues aux articles 819 et 820 de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md).
-> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 5, ch. 1 (4<sup>e</sup> suppl.), art. 9; 1993, ch. 44, art. 50; 1997, ch. 14, art. 32; 2009, ch. 16, art. 23; 2010, ch. 4, art. 23.
+	- **d)** les plaintes prévues aux articles 819 et 820 de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md);
+	- **e)** les plaintes prévues aux dispositions — mentionnées à la colonne 1 de l’annexe 2 — de tout accord mentionné à la colonne 2.
+> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 5, ch. 1 (4<sup>e</sup> suppl.), art. 9; 1993, ch. 44, art. 50; 1997, ch. 14, art. 32; 2009, ch. 16, art. 23; 2010, ch. 4, art. 23; 2012, ch. 26, art. 24.
 
 
 
@@ -165,7 +166,7 @@
 
 
 
-### **ANNEXE** 
+### **ANNEXE 1** 
 **(article 2)**
 ## Code d’arbitrage commercial
 (fondé sur la loi type adoptée par la Commission des Nations Unies pour le droit commercial international le 21 juin 1985)
@@ -185,15 +186,15 @@
 ### Champ d’application
 
 
-**1** Le présent *code* s’applique à l’arbitrage commercial; il ne porte atteinte à aucun accord multilatéral ou bilatéral en vigueur *au Canada*.
+**1** Le présent code s’applique à l’arbitrage commercial; il ne porte atteinte à aucun accord multilatéral ou bilatéral en vigueur *au Canada*.
 
 
 
-**2** Les dispositions du présent *code*, à l’exception des articles 8, 9, 35 et 36, ne s’appliquent que si le lieu de l’arbitrage est situé *au Canada*.
+**2** Les dispositions du présent code, à l’exception des articles 8, 9, 35 et 36, ne s’appliquent que si le lieu de l’arbitrage est situé *au Canada*.
 
 
 
-**3** Le présent *code* ne porte atteinte à aucune autre loi *fédérale* en vertu de laquelle certains différends ne peuvent être soumis à l’arbitrage ou ne peuvent l’être qu’en application de dispositions autres que celles du présent *code*.
+**3** Le présent code ne porte atteinte à aucune autre loi *fédérale* en vertu de laquelle certains différends ne peuvent être soumis à l’arbitrage ou ne peuvent l’être qu’en application de dispositions autres que celles du présent code.
 
 
 
@@ -201,7 +202,7 @@
 ### Définitions et règles d’interprétation
 
 
-*Pour l’application du* présent *code* :
+*Pour l’application du* présent code :
 
 **a)** le terme ***arbitrage*** désigne tout arbitrage que l’organisation en soit ou non confiée à une institution permanente d’arbitrage;
 
@@ -215,15 +216,15 @@
 
 
 
-**d)** lorsqu’une disposition du présent *code*, à l’exception de l’article 28, laisse aux parties la liberté de décider d’une certaine question, cette liberté emporte le droit pour les parties d’autoriser un tiers, y compris une institution, à décider de cette question;
+**d)** lorsqu’une disposition du présent code, à l’exception de l’article 28, laisse aux parties la liberté de décider d’une certaine question, cette liberté emporte le droit pour les parties d’autoriser un tiers, y compris une institution, à décider de cette question;
 
 
 
-**e)** lorsqu’une disposition du présent *code* se réfère au fait que les parties sont convenues ou peuvent convenir d’une question, ou se réfère de toute autre manière à une convention des parties, une telle convention englobe tout règlement d’arbitrage qui y est mentionné;
+**e)** lorsqu’une disposition du présent code se réfère au fait que les parties sont convenues ou peuvent convenir d’une question, ou se réfère de toute autre manière à une convention des parties, une telle convention englobe tout règlement d’arbitrage qui y est mentionné;
 
 
 
-**f)** lorsqu’une disposition du présent *code*, autre que celles du paragraphe a) de l’article 25 et de l’alinéa 2a) de l’article 32, se réfère à une demande, cette disposition s’applique également à une demande reconventionnelle et lorsqu’elle se réfère à des conclusions en défense, elle s’applique également à des conclusions en défense sur une demande reconventionnelle.
+**f)** lorsqu’une disposition du présent code, autre que celles du paragraphe a) de l’article 25 et de l’alinéa 2a) de l’article 32, se réfère à une demande, cette disposition s’applique également à une demande reconventionnelle et lorsqu’elle se réfère à des conclusions en défense, elle s’applique également à des conclusions en défense sur une demande reconventionnelle.
 
 
 
@@ -253,7 +254,7 @@
 ### Renonciation au droit de faire objection
 
 
-Est réputée avoir renoncé à son droit de faire objection toute partie qui, bien qu’elle sache que l’une des dispositions du présent *code* auxquelles les parties peuvent déroger, ou toute condition énoncée dans la convention d’arbitrage, n’a pas été respectée, poursuit néanmoins l’arbitrage sans formuler d’objection promptement ou, s’il est prévu un délai à cet effet, dans ce délai.
+Est réputée avoir renoncé à son droit de faire objection toute partie qui, bien qu’elle sache que l’une des dispositions du présent code auxquelles les parties peuvent déroger, ou toute condition énoncée dans la convention d’arbitrage, n’a pas été respectée, poursuit néanmoins l’arbitrage sans formuler d’objection promptement ou, s’il est prévu un délai à cet effet, dans ce délai.
 
 
 
@@ -261,7 +262,7 @@ Est réputée avoir renoncé à son droit de faire objection toute partie qui, b
 ### Domaine de l’intervention des tribunaux
 
 
-Pour toutes les questions régies par le présent *code*, les tribunaux ne peuvent intervenir que dans les cas où *celui*-ci le prévoit.
+Pour toutes les questions régies par le présent code, les tribunaux ne peuvent intervenir que dans les cas où *celui*-ci le prévoit.
 
 
 
@@ -465,11 +466,11 @@ Les parties doivent être traitées sur un pied d’égalité et chaque partie d
 ### Détermination des règles de procédure
 
 
-**1** Sous réserve des dispositions du présent *code*, les parties sont libres de convenir de la procédure à suivre par le tribunal arbitral.
+**1** Sous réserve des dispositions du présent code, les parties sont libres de convenir de la procédure à suivre par le tribunal arbitral.
 
 
 
-**2** Faute d’une telle convention, le tribunal arbitral peut, sous réserve des dispositions du présent *code*, procéder à l’arbitrage comme il le juge approprié. Les pouvoirs conférés au tribunal arbitral comprennent celui de juger de la recevabilité, de la pertinence et de l’importance de toute preuve produite.
+**2** Faute d’une telle convention, le tribunal arbitral peut, sous réserve des dispositions du présent code, procéder à l’arbitrage comme il le juge approprié. Les pouvoirs conférés au tribunal arbitral comprennent celui de juger de la recevabilité, de la pertinence et de l’importance de toute preuve produite.
 
 
 
@@ -827,5 +828,29 @@ Si le tribunal arbitral considère que la demande est justifiée, il fait la rec
 
 **2** Si une demande d’annulation ou de suspension d’une sentence a été présentée à un tribunal visé au sous-alinéa 1a)v) du présent article, le tribunal auquel est demandée la reconnaissance ou l’exécution peut, s’il le juge indiqué, surseoir à statuer et peut aussi, à la requête de la partie demandant la reconnaissance ou l’exécution de la sentence, ordonner à l’autre partie de fournir des sûretés convenables.
 
+
+> L.R., 1985, ch. 17 (2<sup>e</sup> suppl.), ann. 1; 2012, ch. 26, art. 25.
+
+
+
+
+### **ANNEXE 2** 
+**(alinéa 5(4)e))**
+<table>
+<tr>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Dispositions</th>
+<th>Accord</th>
+</tr>
+<tr>
+<td>Articles 9.20 ou 9.21</td>
+<td>Accord de libre-échange entre le Canada et la République du Panama, fait à Ottawa le 14 mai 2010</td>
+</tr>
+</table>
+
+> 2012, ch. 26, art. 26.
 
 
