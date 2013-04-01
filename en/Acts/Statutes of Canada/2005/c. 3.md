@@ -39,13 +39,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***aircraft objects*** has the same meaning as in Article I(2)(c) of the Aircraft Protocol.
+***aircraft objects*** has the same meaning as in Article I(2)(c) of the Aircraft Protocol. (*biens aéronautiques*)
 
-***Aircraft Protocol*** means the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment set out in Schedule 2.
+***Aircraft Protocol*** means the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment set out in Schedule 2. (*Protocole aéronautique*)
 
-***Convention*** means the Convention on International Interests in Mobile Equipment set out in Schedule 1.
+***Convention*** means the Convention on International Interests in Mobile Equipment set out in Schedule 1. (*Convention*)
 
-***declaration*** means a declaration or designation made by Canada under the Convention or the Aircraft Protocol.
+***declaration*** means a declaration or designation made by Canada under the Convention or the Aircraft Protocol. (*déclaration*)
 
 **Same meaning**
 
@@ -240,9 +240,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-<sup><a href='#I-19.6_e_s.19'>[*]</a></sup>**19** **19** The provisions of this Act, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#I-19.6_e_s.19'>[*]</a></sup>**19** The provisions of this Act, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='I-19.6_e_s.19'><sup>*</sup></a>: [Note: Sections 11 to 18 in force September 28, 2005, *see* SI/2005-89; section 10 in force April 14, 2008, *see* SI/2008-36.]<br />
+<a name='I-19.6_e_s.19'><sup>*</sup></a>: [Note: Sections 11 to 18 in force September 28, 2005, *see* SI/2005-89; section 10 in force April 14, 2008, *see* SI/2008-36; the heading before section 1, sections 1 to 9.1 and Schedules 1 to 3 in force April 1, 2013, *see* SI/2013-26.]<br />
 
 
 
@@ -367,23 +367,23 @@ In this Convention, except where the context otherwise requires, the following t
 
 
 
-**(t)** *notice of a national interest* means notice registered or to be registered in the International Registry that a national interest has been created;
+**(t)** ***notice of a national interest*** means notice registered or to be registered in the International Registry that a national interest has been created;
 
 
 
-**(u)** *object* means an object of a category to which Article 2 applies;
+**(u)** ***object*** means an object of a category to which Article 2 applies;
 
 
 
-**(v)** *pre-existing right or interest* means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);
+**(v)** ***pre-existing right or interest*** means a right or interest of any kind in or over an object created or arising before the effective date of this Convention as defined by Article 60(2)(a);
 
 
 
-**(w)** *proceeds* means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;
+**(w)** ***proceeds*** means money or non-money proceeds of an object arising from the total or partial loss or physical destruction of the object or its total or partial confiscation, condemnation or requisition;
 
 
 
-**(x)** *prospective assignment* means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
+**(x)** ***prospective assignment*** means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
 
 
@@ -2085,7 +2085,7 @@ In addition, the general provisions of Article 1, Article 5, Chapters IV to VII,
 
 
 
-**2** For the purposes of the definition of “internal transaction” in Article 1 of the Convention:
+**2** For the purposes of the definition of ***internal transaction*** in Article 1 of the Convention:
 
 **(a)** an airframe is located in the State of registry of the aircraft of which it is a part;
 
@@ -2115,9 +2115,9 @@ at the time of the conclusion of the agreement creating or providing for the int
 
 **1** For the purposes of this Protocol, a contract of sale is one which:
 
-
-
 **(a)** is in writing;
+
+
 
 **(b)** relates to an aircraft object of which the seller has power to dispose; and
 
@@ -2233,7 +2233,7 @@ A description of an aircraft object that contains its manufacturer’s serial nu
 
 
 
-**2** For the purposes of Article 13(1) of the Convention, ***speedy*** in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
+**2** For the purposes of Article 13(1) of the Convention, “speedy” in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
 
 
@@ -3163,7 +3163,7 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 
 
-**(gg)** ***notice of a national interest*** means notice registered or to be registered in the International Registry that a national interest has been created;
+**(gg)** “notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
 
 
 
@@ -3403,9 +3403,9 @@ Article 43.
 
 
 
-
-
 In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 42 (other than Article 42(3) and (4)), Chapter X, Chapter XI (other than Article 55), Chapter XII and Chapter XIII (other than Article 76) shall apply to contracts of sale and prospective sales.
+
+
 
 
 
@@ -3953,7 +3953,7 @@ Any two or more of the parties referred to in this Chapter may at any time, by a
 
 
 
-**2** For the purposes of this Chapter and Chapter V, the term ***registration*** includes, where appropriate, an amendment, extension or discharge of a registration.
+**2** For the purposes of this Chapter and Chapter V, the term “registration” includes, where appropriate, an amendment, extension or discharge of a registration.
 
 
 
@@ -4730,7 +4730,7 @@ The provisions of this Chapter are not applicable to insolvency proceedings.
 
 
 **Article 59** 
-### Relationship with the United Nations Convention on the Assignment of Receivables in International Trade
+### Relationship with the *United Nations Convention on the Assignment of Receivables in International Trade*
 
 
 This Convention shall prevail over the United Nations Convention on the Assignment of Receivables in International Trade, opened for signature in New York on 12 December 2001, as it relates to the assignment of receivables which are associated rights related to international interests in aircraft objects.
@@ -4738,7 +4738,7 @@ This Convention shall prevail over the United Nations Convention on the Assignme
 
 
 **Article 60** 
-### Relationship with the Convention on the International Recognition of Rights in Aircraft
+### Relationship with the *Convention on the International Recognition of Rights in Aircraft*
 
 
 This Convention shall, for a Contracting State that is a Party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Convention, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
@@ -4746,7 +4746,7 @@ This Convention shall, for a Contracting State that is a Party to the Convention
 
 
 **Article 61** 
-### Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
+### Relationship with the *Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft*
 
 
 **1** This Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Convention.
@@ -4758,7 +4758,7 @@ This Convention shall, for a Contracting State that is a Party to the Convention
 
 
 **Article 62** 
-### Relationship with the UNIDROIT Convention on International Financial Leasing
+### Relationship with the *UNIDROIT Convention on International Financial Leasing*
 
 
 This Convention shall supersede the UNIDROIT Convention on International Financial Leasing, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.
@@ -5056,17 +5056,20 @@ The undersigned is the registered [operator] [owner] <sup><a href='#I-19.6_e-ann
 
 This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article 25 of this Convention. In accordance with that Article, the undersigned hereby requests:
 
-
 **(i)** recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
 
-
 **(a)** procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944; and
+
 
 
 **(b)** procure the export and physical transfer of the aircraft from [insert name of country]; and
 
 
+
+
+
 **(ii)** confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
+
 
 
 The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
@@ -5074,7 +5077,10 @@ The rights in favour of the authorised party established by this instrument may 
 
 
 
+
 <a name='I-19.6_e-ann-art25'><sup>*</sup></a>: Select the term that reflects the relevant nationality registration criterion.<br />
+
+
 
 
 Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority].
