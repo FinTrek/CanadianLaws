@@ -637,6 +637,20 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
+**29.1** 
+
+- **(1)** For the purposes of subsection 27.1(1) and (1.1) of the Act and subject to subsection (2), the Minister may allow a longer period to make a request for reconsideration of a decision or determination if the Minister is satisfied that there is a reasonable explanation for requesting a longer period and the person has demonstrated a continuing intention to request a reconsideration.
+
+- **(2)** The Minister must also be satisfied that the request for reconsideration has a reasonable chance of success, and that no prejudice would be caused to the Minister or a party by allowing a longer period to make the request, if the request for reconsideration
+	- **(a)** is made after the 365-day period after the day on which the person is notified in writing of the decision or determination; or
+	- **(b)** is made by a person who has applied again for the same benefit.
+
+- **(3)** The Minister may take any necessary steps to obtain information that the Minister may require to decide whether to allow a longer period to make a request for reconsideration.
+> SOR/2013-62, s. 1.
+
+
+
+
 **30 to 37** [Repealed, SOR/96-521, s. 18]
 
 
@@ -645,30 +659,30 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 ### Reference to Tax Court of Canada
 
 
-**38** Where a ground of appeal referred to in subsection 28(2) of the Act is set out in a notice of appeal forwarded pursuant to subsection 28(1) of the Act, the Commissioner of Review Tribunals as defined in section 2 of the [Canada Pension Plan Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/301-400/C.R.C.,%20c.%20385.md) shall
-- **(a)** notify the appellant and the Minister that the appellant’s appeal on that ground has been referred to the Court pursuant to subsection 28(2) of the Act; and
-- **(b)** transmit to the Registrar of the Court a copy of the relevant documents pursuant to section 5 of the Review Tribunal Rules of Procedure as relate to the reference.
-> SOR/89-269, s. 10; SOR/96-521, s. 19; SOR/2000-133, s. 12(F).
+**38** If a ground of appeal referred to in subsection 28(2) of the Act is set out in an appeal brought under subsection 28(1) of the Act, the Social Security Tribunal must
+- **(a)** notify the appellant and the Minister that the appeal on that ground has been referred to the Court for decision under subsection 28(2) of the Act; and
+- **(b)** transmit to the Registrar of the Court a copy of the documents filed in the appeal that are relevant to the ground of appeal referred to in subsection 28(2) of the Act.
+> SOR/89-269, s. 10; SOR/96-521, s. 19; SOR/2000-133, s. 12(F); SOR/2013-62, s. 2.
 
 
 
 
 **38.1** 
 
-- **(1)** Where an appeal is made in relation to a reference under subsection 28(2) of the Act and the Minister is of the opinion that a person other than the appellant may be directly affected by the decision of the Court, the Minister shall so notify the Commissioner of Review Tribunals.
+- **(1)** Where an appeal is made in relation to a reference under subsection 28(2) of the Act and the Minister is of the opinion that a person other than the appellant may be directly affected by the decision of the Court, the Minister shall so notify the Social Security Tribunal.
 
-- **(2)** On notification, the Commissioner of Review Tribunals shall so notify the Registrar of the Court and the Registrar shall add that person as a party to the appeal.
-> SOR/96-521, s. 19; SOR/2000-133, s. 12(F).
+- **(2)** On notification, the Social Security Tribunal shall so notify the Registrar of the Court and the Registrar shall add that person as a party to the appeal.
+> SOR/96-521, s. 19; SOR/2000-133, s. 12(F); SOR/2013-62, s. 5.
 
 
 
 
 **39** 
 
-- **(1)** The Registrar of the Court, on receipt of the documents transmitted by the Commissioner of Review Tribunals pursuant to paragraph 38(b), shall immediately notify the Chief Judge of the Court, the Commissioner of Review Tribunals, the Minister and any person added as a party to the appeal of that receipt.
+- **(1)** The Registrar of the Court, on receipt of the documents transmitted by the Social Security Tribunal pursuant to paragraph 38(b), shall immediately notify the Chief Judge of the Court, the Social Security Tribunal, the Minister and any person added as a party to the appeal of that receipt.
 
 - **(2)** When the Chief Judge of the Court is notified pursuant to subsection (1), the Chief Judge shall appoint a judge of the Court to hear the reference.
-> SOR/89-269, s. 11; SOR/96-521, s. 20; SOR/2000-133, s. 12(F).
+> SOR/89-269, s. 11; SOR/96-521, s. 20; SOR/2000-133, s. 12(F); SOR/2013-62, s. 5.
 
 
 
@@ -683,8 +697,8 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 - **(2)** The hearing of a reference shall be held in the city, town or village in which or nearest to which the appellant is ordinarily resident unless the appellant consents in writing to the hearing being held at some other place.
 
-- **(3)** The Registrar of the Court shall, by registered mail, notify the appellant, the Commissioner of Review Tribunals, the Minister and any person added as a party to the appeal of the date, place and time fixed for the hearing of the reference.
-> SOR/89-269, s. 12; SOR/96-521, s. 21; SOR/2000-133, s. 12(F).
+- **(3)** The Registrar of the Court shall, by registered mail, notify the appellant, the Social Security Tribunal, the Minister and any person added as a party to the appeal of the date, place and time fixed for the hearing of the reference.
+> SOR/89-269, s. 12; SOR/96-521, s. 21; SOR/2000-133, s. 12(F); SOR/2013-62, s. 5.
 
 
 
@@ -721,8 +735,8 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 - **(1)** The judge appointed pursuant to subsection 39(2) shall advise the Registrar of the Court of the judge’s decision.
 
-- **(2)** The Registrar of the Court, after being advised of the decision in accordance with subsection (1), shall forward to the appellant, the Commissioner of Review Tribunals, the Minister and any person added as a party to the appeal a certified copy of the decision.
-> SOR/89-269, s. 13; SOR/96-521, s. 24; SOR/2000-133, s. 12(F).
+- **(2)** The Registrar of the Court, after being advised of the decision in accordance with subsection (1), shall forward to the appellant, the Social Security Tribunal, the Minister and any person added as a party to the appeal a certified copy of the decision.
+> SOR/89-269, s. 13; SOR/96-521, s. 24; SOR/2000-133, s. 12(F); SOR/2013-62, s. 5.
 
 
 
@@ -733,8 +747,8 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
-**46** Where a notice of appeal sets out a ground of appeal that is not referred to the Court pursuant to subsection 28(2) of the Act and a ground of appeal that has been referred to the Court pursuant to that subsection, the Commissioner of Review Tribunals, on receipt of a certified copy of the decision of the Court, shall forthwith proceed in accordance with the Review Tribunal Rules of Procedure.
-> SOR/89-269, s. 13; SOR/96-521, s. 25.
+**46** If an appeal sets out a ground of appeal that is not referred to the Court under subsection 28(2) of the Act and a ground of appeal that has been referred to the Court under that subsection, the Social Security Tribunal, on receipt of a certified copy of the decision of the Court, must proceed in accordance with the [Social Security Tribunal Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/60.md).
+> SOR/89-269, s. 13; SOR/96-521, s. 25; SOR/2013-62, s. 3.
 
 
 
@@ -756,40 +770,40 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 ***bank rate*** means the rate of interest established weekly by the Bank of Canada as the minimum rate at which the Bank of Canada makes short-term advances to members of the Canadian Payments Association. (*taux d’escompte*)
 
 ***debt*** means 
-- **(a)** a debt due under subsection 37(2) of the Act in respect of which a penalty has been imposed under section 44.1 of the Act; or
-- **(b)** a debt due under subsection 37(2.02) of the Act. (*créance*)
+- **(a)** a debt due under subsection 37(2) of the Act in respect of which a penalty has been imposed under section 44.1 of the Act; or
+- **(b)** a debt due under subsection 37(2.02) of the Act. (*créance*)
 
-***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 44.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
+***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 44.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
 
 ***due date*** means, in respect of a debt,
 - **(a)** where a payment schedule has been established, any day on which a scheduled payment is to be made; or
-- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
+- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
 
 - **(2)** Interest is payable on all debts that are recoverable on or after the day on which this section comes into force.
 
-- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
+- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
 
 - **(4)** Interest accrues on a debt at a rate that is calculated daily and compounded monthly at the average bank rate plus three per cent.
 
-- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 27.1(2) of the Act, an appeal under subsection 28(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
+- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 27.1(2) of the Act, an appeal under subsection 28(1) of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
 
 - **(6)** The accrual of interest on a debt or on a portion of the debt, as applicable, ceases on
 	- **(a)** the day before the day on which a scheduled payment in respect of the debt or a payment of the debt in full is received by Her Majesty;
-	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 37(4) of the Act;
+	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 37(4) of the Act;
 	- **(c)** the day on which the penalty that constitutes the debt is reduced or the decision imposing that penalty is rescinded under
-		- **(i)** subsection 44.1(4) of the Act, or
-		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 44.1 of the Act:
-			- **(A)** a decision of the Minister under subsection 27.1(2) of the Act, and
-			- **(B)** a decision on an appeal under subsection 28(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
-	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
+		- **(i)** subsection 44.1(4) of the Act, or
+		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 44.1 of the Act:
+			- **(A)** a decision of the Minister under subsection 27.1(2) of the Act, and
+			- **(B)** a decision on an appeal under subsection 28(1) of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
+	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
 	- **(e)** the day on which the debtor dies.
 
 - **(7)** The conditions under which the Minister may remit in whole or in part the interest payable under this section are that
-	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
+	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
 	- **(b)** the interest cannot be collected within the reasonably foreseeable future;
 	- **(c)** the administrative costs of collecting the interest would exceed the amount of that interest; and
 	- **(d)** the payment of the interest would result in undue hardship to the debtor.
-> SOR/2010-45, s. 26.
+> SOR/2010-45, s. 26; SOR/2013-62, s. 4.
 
 
 
