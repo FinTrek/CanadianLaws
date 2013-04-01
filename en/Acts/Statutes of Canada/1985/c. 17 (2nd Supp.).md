@@ -31,14 +31,14 @@
 
 **2** In this Act,
 
-***Code*** means the *Commercial Arbitration Code*, based on the model law adopted by the United Nations Commission on International Trade Law on June 21, 1985, as set out in the schedule;
+***Code*** means the Commercial Arbitration Code, based on the model law adopted by the United Nations Commission on International Trade Law on June 21, 1985, as set out in Schedule 1; (*Code*)
 
-***Crown corporation*** means a Crown corporation as defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***Crown corporation*** means a Crown corporation as defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*société d’État*)
 
 ***department***[Repealed, R.S., 1985, c. 1 (4th Supp.), s. 8]
 
-***departmental corporation*** means a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> R.S., 1985, c. 17 (2nd Supp.), s. 2, c. 1 (4th Supp.), s. 8.
+***departmental corporation*** means a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*établissement public*)
+> R.S., 1985, c. 17 (2nd Supp.), s. 2, c. 1 (4th Supp.), s. 8; 2012, c. 26, s. 23.
 
 
 
@@ -89,9 +89,10 @@
 - **(4)** For greater certainty, the expression ***commercial arbitration*** in Article 1(1) of the Code includes
 	- **(a)** a claim under Article 1116 or 1117 of the Agreement, as defined in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
 	- **(b)** a claim under Article G-17 or G-18 of the Agreement, as defined in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
-	- **(c)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md); and
-	- **(d)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md).
-> R.S., 1985, c. 17 (2nd Supp.), s. 5, c. 1 (4th Supp.), s. 9; 1993, c. 44, s. 50; 1997, c. 14, s. 32; 2009, c. 16, s. 23; 2010, c. 4, s. 23.
+	- **(c)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md);
+	- **(d)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md); and
+	- **(e)** a claim under a provision, set out in column 1 of Schedule 2, of an agreement that is set out in column 2.
+> R.S., 1985, c. 17 (2nd Supp.), s. 5, c. 1 (4th Supp.), s. 9; 1993, c. 44, s. 50; 1997, c. 14, s. 32; 2009, c. 16, s. 23; 2010, c. 4, s. 23; 2012, c. 26, s. 24.
 
 
 
@@ -165,7 +166,7 @@
 
 
 
-### **SCHEDULE** 
+### **SCHEDULE 1** 
 **(Section 2)**
 ## Commercial Arbitration Code
 (Based on the Model Law on International Commercial Arbitration as adopted by the United Nations Commission on International Trade Law on June 21, 1985)
@@ -185,15 +186,15 @@
 ### Scope of Application
 
 
-**(1)** This *Code* applies to commercial arbitration, subject to any agreement in force between *Canada* and any other State or States.
+**(1)** This Code applies to commercial arbitration, subject to any agreement in force between *Canada* and any other State or States.
 
 
 
-**(2)** The provisions of this *Code*, except articles 8, 9, 35 and 36, apply only if the place of arbitration is in *Canada*.
+**(2)** The provisions of this Code, except articles 8, 9, 35 and 36, apply only if the place of arbitration is in *Canada*.
 
 
 
-**(3)** This *Code* shall not affect any other law of *Parliament* by virtue of which certain disputes may not be submitted to arbitration or may be submitted to arbitration only according to provisions other than those of this *Code*.
+**(3)** This Code shall not affect any other law of *Parliament* by virtue of which certain disputes may not be submitted to arbitration or may be submitted to arbitration only according to provisions other than those of this Code.
 
 
 
@@ -201,7 +202,7 @@
 ### Definitions and Rules of Interpretation
 
 
-For the purposes of this *Code*:
+For the purposes of this Code:
 
 **(a)** ***arbitration*** means any arbitration whether or not administered by a permanent arbitral institution;
 
@@ -215,15 +216,15 @@ For the purposes of this *Code*:
 
 
 
-**(d)** where a provision of this *Code*, except article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorize a third party, including an institution, to make that determination;
+**(d)** where a provision of this Code, except article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorize a third party, including an institution, to make that determination;
 
 
 
-**(e)** where a provision of this *Code* refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement;
+**(e)** where a provision of this Code refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement;
 
 
 
-**(f)** where a provision of this *Code*, other than in articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.
+**(f)** where a provision of this Code, other than in articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.
 
 
 
@@ -253,7 +254,7 @@ For the purposes of this *Code*:
 ### Waiver of Right to Object
 
 
-A party who knows that any provision of this *Code* from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time-limit is provided therefor, within such period of time, shall be deemed to have waived his right to object.
+A party who knows that any provision of this Code from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time-limit is provided therefor, within such period of time, shall be deemed to have waived his right to object.
 
 
 
@@ -261,7 +262,7 @@ A party who knows that any provision of this *Code* from which the parties may d
 ### Extent of Court Intervention
 
 
-In matters governed by this *Code*, no court shall intervene except where so provided in this *Code*.
+In matters governed by this Code, no court shall intervene except where so provided in this Code.
 
 
 
@@ -465,11 +466,11 @@ The parties shall be treated with equality and each party shall be given a full 
 ### Determination of Rules of Procedure
 
 
-**(1)** Subject to the provisions of this *Code*, the parties are free to agree on the procedure to be followed by the arbitral tribunal in conducting the proceedings.
+**(1)** Subject to the provisions of this Code, the parties are free to agree on the procedure to be followed by the arbitral tribunal in conducting the proceedings.
 
 
 
-**(2)** Failing such agreement, the arbitral tribunal may, subject to the provisions of this *Code*, conduct the arbitration in such manner as it considers appropriate. The power conferred upon the arbitral tribunal includes the power to determine the admissibility, relevance, materiality and weight of any evidence.
+**(2)** Failing such agreement, the arbitral tribunal may, subject to the provisions of this Code, conduct the arbitration in such manner as it considers appropriate. The power conferred upon the arbitral tribunal includes the power to determine the admissibility, relevance, materiality and weight of any evidence.
 
 
 
@@ -737,7 +738,7 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 
 
 
-**(iv)** the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this *Code* from which the parties cannot derogate, or, failing such agreement, was not in accordance with this *Code*; or
+**(iv)** the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Code from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Code; or
 
 
 
@@ -827,5 +828,29 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 
 **(2)** If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1)(a)(v) of this article, the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
 
+
+> R.S., 1985, c. 17 (2nd Supp.), Sch. 1; 2012, c. 26, s. 25.
+
+
+
+
+### **SCHEDULE 2** 
+**(Paragraph 5(4)(e))**
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Provisions</th>
+<th>Agreement</th>
+</tr>
+<tr>
+<td>Article 9.20 or 9.21</td>
+<td>Free Trade Agreement between Canada and the Republic of Panama, done at Ottawa on May 14, 2010</td>
+</tr>
+</table>
+
+> 2012, c. 26, s. 26.
 
 
