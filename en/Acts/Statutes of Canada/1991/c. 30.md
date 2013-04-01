@@ -691,8 +691,6 @@ Government Telecommunications Agency<br />- <i>Agence des télécommunications g
 
 Grain Transportation Agency<br />- <i>Office du transport du grain</i>
 
-Hazardous Materials Information Review Commission<br />- <i>Conseil de contrôle des renseignements relatifs aux matières dangereuses</i>
-
 Immigration and Refugee Board of Canada<br />- <i>Commission de l’immigration et du statut de réfugié du Canada</i>
 
 Indian Oil and Gas Canada<br />- <i>Pétrole et gaz des Indiens Canada</i>
@@ -719,8 +717,6 @@ National Film Board<br />- <i>Office national du film</i>
 
 National Research Council of Canada<br />- <i>Conseil national de recherches du Canada</i>
 
-National Round Table on the Environment and the Economy<br />- <i>Table ronde nationale sur l’environnement et l’économie</i>
-
 National Transportation Agency<br />- <i>Office national des transports</i>
 
 Natural Sciences and Engineering Research Council<br />- <i>Conseil de recherches en sciences naturelles et en génie</i>
@@ -745,15 +741,11 @@ Office of the Governor General’s Secretary<br />- <i>Secrétariat du gouverneu
 
 Office of the Superintendent of Financial Institutions<br />- <i>Bureau du Surintendant des institutions financières</i>
 
-Office of the Umpire<br />- <i>Bureau du juge-arbitre</i>
-
 Offices of the Information and Privacy Commissioners of Canada<br />- <i>Commissariats à l’information et à la protection de la vie privée du Canada</i>
 
 Parole Board of Canada<br />- <i>Commission des libérations conditionnelles du Canada</i>
 
 Patented Medicine Prices Review Board<br />- <i>Conseil d’examen du prix des médicaments brevetés</i>
-
-Pension Appeals Board<br />- <i>Commission d’appel des pensions</i>
 
 Prairie Farm Rehabilitation Administration<br />- <i>Administration du rétablissement agricole des Prairies</i>
 
@@ -792,7 +784,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 280, 693.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295.
 
 
 
