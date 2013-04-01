@@ -57,6 +57,8 @@
 
 ***ALÉCP*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md).
 
+***ALÉCPA*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md).
+
 ***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
 ***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24.
@@ -147,6 +149,8 @@
 
 ***Norvège*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
+***Panama*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 ***partenaire de libre-échange*** Tout pays ou territoire mentionné à la colonne 1 de la partie 1 de l’annexe.
 
 ***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
@@ -214,7 +218,7 @@
 
 - **(1.1)** Les définitions qui suivent s’appliquent à la définition de ***marchandises désignées*** au paragraphe (1).
 
-***alcool***, ***alcool éthylique*** ou ***eau-de-vie***[Abrogée, 2002, ch. 22, art. 328]
+***alcool***, ***alcool éthylique*** ou ***eau-de-vie*** [Abrogée, 2002, ch. 22, art. 328]
 
  ou  or ***bière*** ou ***liqueur de malt*** S’entendent au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
 
@@ -255,7 +259,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62.
 
 
 
@@ -6005,6 +6009,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Taux de droits de douane du tarif de la Jordanie visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
 <tr>
+<td>Panama</td>
+<td>ALÉCPA</td>
+<td>Taux de droits de douane du tarif du Panama visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
+</tr>
+<tr>
 <td>Pays ALÉNA</td>
 <td>ALÉNA</td>
 <td>Taux de droits de douane du tarif des État-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
@@ -6047,6 +6056,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Article 423</td>
 </tr>
 <tr>
+<td>ALÉCPA</td>
+<td>Article 4.01</td>
+</tr>
+<tr>
 <td>ALÉNA</td>
 <td>Article 514</td>
 </tr>
@@ -6083,6 +6096,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>paragraphe 10 de l’article 6-2 de l’ALÉCJ</td>
 </tr>
 <tr>
+<td>Panama</td>
+<td>paragraphe 10 de l’article 5.02 de l’ALÉCPA</td>
+</tr>
+<tr>
 <td>pays ALÉNA</td>
 <td>paragraphe 10 de l’article 509 de l’ALÉNA</td>
 </tr>
@@ -6117,6 +6134,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>Jordanie</td>
 <td>ALÉCJ</td>
+</tr>
+<tr>
+<td>Panama</td>
+<td>ALÉCPA</td>
 </tr>
 <tr>
 <td>Pérou</td>
@@ -6159,11 +6180,15 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Chapitre quatre</td>
 </tr>
 <tr>
+<td>ALÉCPA</td>
+<td>Chapitre quatre</td>
+</tr>
+<tr>
 <td>ALÉNA</td>
 <td>Chapitres 3 et 5</td>
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62.
 
 
