@@ -115,15 +115,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la gestion financière et statistique des premières nations**
+**[Loi sur la gestion financière des premières nations](/fr/Lois/Lois%20du%20Canada/2005/ch.%209.md)**
 
-**8.1** Malgré toute autre disposition de la présente loi ou toute disposition de l’accord, le gouverneur en conseil peut, afin de donner à la première nation de Westbank la possibilité de profiter des dispositions de la  
-Loi sur la gestion financière et statistique des premières nations ou d’obtenir les services d’un organisme constitué par celle-ci, prendre les règlements qu’il estime nécessaires, et notamment :
-- **a)
-**  adapter toute disposition de cette loi ou des règlements pris en vertu de celle-ci;
-- **b)
-**  restreindre l’application de toute disposition de cette loi ou des règlements pris en vertu de celle-ci.
-> 2005, ch. 9, art. 153.
+**8.1** Malgré toute autre disposition de la présente loi ou toute disposition de l’accord, le gouverneur en conseil peut, afin de donner à la première nation de Westbank la possibilité de profiter des dispositions de la [Loi sur la gestion financière des premières nations](/fr/Lois/Lois%20du%20Canada/2005/ch.%209.md) ou d’obtenir les services d’un organisme constitué par celle-ci, prendre les règlements qu’il estime nécessaires, et notamment :
+- **a)**  adapter toute disposition de cette loi ou des règlements pris en vertu de celle-ci;
+- **b)**  restreindre l’application de toute disposition de cette loi ou des règlements pris en vertu de celle-ci.
+> 2005, ch. 9, art. 153; 2012, ch. 19, art. 680.
 
 
 
