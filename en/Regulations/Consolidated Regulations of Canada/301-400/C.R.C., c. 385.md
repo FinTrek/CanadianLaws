@@ -28,15 +28,15 @@ Enabling authorities:
 
 ***Act*** means the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); (*Loi*)
 
-***Chairman*** means the Chairman of the Pension Appeals Board; (*président*)
+***Chairman***[Repealed, SOR/2013-61, s. 1]
 
-***Commissioner*** means the Commissioner of Review Tribunals appointed under subsection 82(5) of the Act; (*commissaire*)
+***Commissioner***[Repealed, SOR/2013-61, s. 1]
 
 ***Minister*** means
 - **(a)** in Parts I, II, III and IV, the Minister of National Revenue, and
 - **(b)** in Part V, the Minister as defined in subsection 42(1) of the Act. (*ministre*)
 
-***Vice-Chairman*** means the Vice-Chairman of the Pension Appeals Board. (*vice-président*)
+***Vice-Chairman***[Repealed, SOR/2013-61, s. 1]
 
 - **(2)** For the purposes of the Act and these Regulations,
 
@@ -84,7 +84,7 @@ and includes all services incidental to the carrying on of any of the operations
 ***trapping*** means the operations involved in using any trap, snare or other device for taking or destroying any wild animal, but does not include any operation involved in carrying on the business of rodent extermination. (*piégeage*)
 
 - **(3)** For the purposes of the definitions ***logging*** and ***lumbering*** in subsection (2), ***timber*** means logs of any size, lathwood, pulpwood, fuelwood, tiewood, veneerwood, posts, bolts, piles, pit props, spars, stakes, bark, chips or any crude wood before it has been milled or otherwise manufactured.
-> SOR/92-17, s. 1; SOR/96-522, s. 1.
+> SOR/92-17, s. 1; SOR/96-522, s. 1; SOR/2013-61, s. 1.
 
 
 
@@ -1442,8 +1442,8 @@ as the Minister may specify.
 ### Reconsideration and Appeal on Behalf of Certain Persons
 
 
-**74** Where the Minister, the Commissioner, the Chairman or the Vice-Chairman is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing their affairs, a request for a reconsideration under subsection 81(1) or (1.1) of the Act or an appeal under subsection 82(1) or 83(1) of the Act may be made on the person’s behalf by another person or an agency if that other person or that agency is authorized by or pursuant to a law of Canada or of a province to manage the person’s affairs or, where it appears to the Minister, the Commissioner, the Chairman or the Vice-Chairman that there is no other person or agency so authorized, if that other person or that agency is considered to be qualified to do so by the Minister, the Commissioner, the Chairman or the Vice-Chairman, as the case may be.
-> SOR/90-829, s. 31; SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2010-45, s. 8.
+**74** If the Minister or the Social Security Tribunal established under section 44 of the Department of Human Resources and Skills Development Act is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing their affairs, a request for a reconsideration under subsection 81(1) or (1.1) of the Act or an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act may be made on the person’s behalf by another person or an agency if that other person or agency is authorized by or under a law of Canada or of a province to manage the person’s affairs or, if it appears to the Minister or the Social Security Tribunal that there is no other person or agency so authorized, if that other person or agency is considered to be qualified to do so by the Minister or the Social Security Tribunal, as the case may be.
+> SOR/2013-61, s. 2.
 
 
 
@@ -1454,13 +1454,20 @@ as the Minister may specify.
 
 **74.1** 
 
-- **(1)** A request for a reconsideration under subsection 81(1) or (1.1) of the Act shall be made in writing to the Minister and shall set out
+- **(1)** A request for a reconsideration under subsection 81(1) or (1.1) of the Act shall be made in writing to the Minister and shall set out
 	- **(a)** the name, address and Social Insurance Number of the contributor;
 	- **(b)** if the person making the request for the reconsideration is not the contributor, that person’s name and address and their relationship to the contributor; and
 	- **(c)** the grounds for the request for the reconsideration and a statement of the facts that form the basis of that request.
 
-- **(2)** Notwithstanding subsection (1), where it appears to the Minister that the person making the request for a reconsideration has failed to provide information in accordance with any of the requirements of paragraphs (1)(a) to (c), the Minister may take such steps to obtain the information as are necessary to rectify the failure.
-> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 2; SOR/2010-45, s. 9.
+- **(2)** If it appears to the Minister that the person making the request for a reconsideration has failed to provide information in accordance with any of the requirements of paragraphs (1)(a) to (c) — or has failed to provide sufficient information to allow the Minister to determine if there are circumstances that allow for a longer period in which to make the request — the Minister may take any steps to obtain the information that is necessary to rectify the failure.
+
+- **(3)** For the purposes of subsections 81(1) and (1.1) of the Act and subject to subsection (4), the Minister may allow a longer period to make a request for reconsideration of a decision or determination if the Minister is satisfied that there is a reasonable explanation for requesting a longer period and the person has demonstrated a continuing intention to request a reconsideration.
+
+- **(4)** The Minister must also be satisfied that the request for reconsideration has a reasonable chance of success, and that no prejudice would be caused to the Minister or a party by allowing a longer period to make the request, if the request for reconsideration
+	- **(a)** is made after the 365-day period after the day on which the person is notified in writing of the decision or determination;
+	- **(b)** is made by a person who has applied again for the same benefit; or
+	- **(c)** is made by a person who has requested the Minister to rescind or amend a decision under subsection 81(3) of the Act.
+> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 2; SOR/2010-45, s. 9; SOR/2013-61, s. 3.
 
 
 
@@ -1469,19 +1476,13 @@ as the Minister may specify.
 ### Notification of Appealable Decisions
 
 
-**74.2** A notification referred to in subsection 81(1) or (1.1) or 82(1) of the Act shall be sent in writing by the Minister.
-> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 3; SOR/2010-45, s. 10.
+**74.2** A notification referred to in subsection 81(1) or (1.1) of the Act must be in writing and sent by the Minister.
+> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 3; SOR/2010-45, s. 10; SOR/2013-61, s. 4.
 
 
 
 
-
-### Professionals Eligible for Review Tribunals Panel
-
-
-**74.3** For the purpose of paragraph 82(3)(b) of the Act, a prescribed related profession is audiology, biomedical engineering, chiropractics, dental therapy, dentistry, dietetics, medical physics, nursing, occupational therapy, opticianry, optometry, osteopathy, pharmacology, physiotherapy, psychology, respiratory therapy, speech pathology and speech therapy.
-> SOR/92-17, s. 3.
-
+**74.3** [Repealed, SOR/2013-61, s. 4]
 
 
 
@@ -1786,7 +1787,7 @@ within one year from April 30th of the year following the year for which he so 
 
 - **(4)** Interest accrues on a debt at a rate that is calculated daily and compounded monthly at the average bank rate plus three per cent.
 
-- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 81(2) of the Act, an appeal under subsection 82(1) or 83(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
+- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 81(2) of the Act, an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act, or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
 
 - **(6)** The accrual of interest on a debt or on a portion of the debt, as applicable, ceases on
 	- **(a)** the day before the day on which a scheduled payment in respect of the debt or a payment of the debt in full is received by Her Majesty;
@@ -1795,7 +1796,7 @@ within one year from April 30th of the year following the year for which he so 
 		- **(i)** subsection 90.1(4) of the Act, or
 		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 90.1 of the Act:
 			- **(A)** a decision of the Minister under subsection 81(2) of the Act, and
-			- **(B)** a decision on an appeal under subsection 82(1) or 83(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
+			- **(B)** a decision on an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
 	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
 	- **(e)** the day on which the debtor dies.
 
@@ -1804,7 +1805,7 @@ within one year from April 30th of the year following the year for which he so 
 	- **(b)** the interest cannot be collected within the reasonably foreseeable future;
 	- **(c)** the administrative costs of collecting the interest would exceed the amount of that interest; and
 	- **(d)** the payment of the interest would result in undue hardship to the debtor.
-> SOR/2010-45, s. 13.
+> SOR/2010-45, s. 13; SOR/2013-61, s. 5.
 
 
 
