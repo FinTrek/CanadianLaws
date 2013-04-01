@@ -39,13 +39,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***biens aéronautiques*** S’entend au sens de l’alinéa c) du paragraphe 2 de l’article I du Protocole aéronautique.
+***biens aéronautiques*** S’entend au sens de l’alinéa c) du paragraphe 2 de l’article I du Protocole aéronautique. (*aircraft objects*)
 
-***Convention*** La Convention relative aux garanties internationales portant sur des matériels d’équipement mobiles, dont le texte est reproduit à l’annexe 1.
+***Convention*** La Convention relative aux garanties internationales portant sur des matériels d’équipement mobiles, dont le texte est reproduit à l’annexe 1. (*Convention*)
 
-***déclaration*** Toute déclaration ou désignation faite par le Canada en vertu de la Convention ou du Protocole aéronautique.
+***déclaration*** Toute déclaration ou désignation faite par le Canada en vertu de la Convention ou du Protocole aéronautique. (*declaration*)
 
-***Protocole aéronautique*** Le Protocole portant sur les questions spécifiques aux matériels d’équipement aéronautiques à la Convention relative aux garanties internationales portant sur des matériels d’équipement mobiles, dont le texte est reproduit à l’annexe 2.
+***Protocole aéronautique*** Le Protocole portant sur les questions spécifiques aux matériels d’équipement aéronautiques à la Convention relative aux garanties internationales portant sur des matériels d’équipement mobiles, dont le texte est reproduit à l’annexe 2. (*Aircraft Protocol*)
 
 **Identité de sens**
 
@@ -236,7 +236,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#I-19.6_f_s19'>[*]</a></sup>**19** Les dispositions de la présente loi ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='I-19.6_f_s19'><sup>*</sup></a>: [Note : Articles 11 à 18 en vigueur le 28 septembre 2005, *voir* TR/2005-89; article 10 en vigueur le 14 avril 2008, *voir* TR/2008-36.]<br />
+<a name='I-19.6_f_s19'><sup>*</sup></a>: [Note : Articles 11 à 18 en vigueur le 28 septembre 2005, *voir* TR/2005-89; article 10 en vigueur le 14 avril 2008, *voir* TR/2008-36; l’intertitre précédant l’article 1, articles 1 à 9.1 et annexes 1 à 3 en vigueur le 1<sup>er</sup> avril 2013, *voir* TR/2013-26.]<br />
 
 
 
@@ -3285,7 +3285,7 @@ Une garantie relevant de l’alinéa a) du présent paragraphe ne peut relever �
 
 
 
-**4** Aux fins de la définition d’ ***opération interne*** à l’article premier de la présente Convention :
+**4** Aux fins de la définition d’***opération interne*** à l’article premier de la présente Convention :
 
 **a)** une cellule d’aéronef est située dans l’État d’immatriculation de l’aéronef auquel elle appartient;
 
@@ -5052,13 +5052,15 @@ Le présent instrument constitue une autorisation irrévocable de demande de rad
 
 
 
-
 Les droits accordés à la partie autorisée par le présent document ne peuvent être révoqués par le soussigné sans le consentement écrit de la partie autorisée.
 
 
 
 
+
 <a name='I-19.6_f-ann-art25'><sup>*</sup></a>: Choisir le terme qui correspond au critère d’immatriculation nationale approprié.<br />
+
+
 
 
 Veuillez signifier votre acceptation de la présente demande en remplissant le présent document de façon adéquate dans l’espace ci-dessous prévu à cet effet, et en le déposant auprès de [indiquer le nom de l’autorité du registre].
