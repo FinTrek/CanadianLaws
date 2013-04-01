@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et la République du Panama, fait à Ottawa le 14 mai 2010.
+***Accord*** L’Accord de libre-échange entre le Canada et la République du Panama, fait à Ottawa le 14 mai 2010. (*Agreement*)
 
-***accord connexe*** L’un ou l’autre des accords suivants : 
+***accord connexe*** L’un ou l’autre des accords suivants : 
 - **a)** l’Accord sur l’environnement entre le Canada et la République du Panama, fait à Ottawa le 13 mai 2010;
-- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Panama, fait à Ottawa le 13 mai 2010.
+- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Panama, fait à Ottawa le 13 mai 2010. (*related agreement*)
 
-***Commission mixte*** La commission mixte établie aux termes de l’article 21.01 de l’Accord.
+***Commission mixte*** La commission mixte établie aux termes de l’article 21.01 de l’Accord. (*Joint Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
@@ -473,9 +473,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_IndECC3_hq_13852'>[*]</a></sup>**65** La présente loi, à l’exception des articles 60 à 64, entre en vigueur à la date fixée par décret.
+<sup><a href='#fn_IndAC09_hq_14024'>[*]</a></sup>**65** La présente loi, à l’exception des articles 60 à 64, entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndECC3_hq_13852'><sup>*</sup></a>: [Note : Loi, à l’exception des articles 60 à 64, non en vigueur.]<br />
+<a name='fn_IndAC09_hq_14024'><sup>*</sup></a>: [Note : Loi, à l’exception des articles 60 à 64, en vigueur le 1<sup>er</sup> avril 2013, *voir* TR/2013-16.]<br />
 
 
 
