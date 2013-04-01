@@ -18,7 +18,9 @@
 
 **Titre abrégé**
 
-**9** Titre abrégé de la présente partie : Loi sur le contrôle des renseignements relatifs aux matières dangereuses.
+**9** Titre abrégé de la présente loi : Loi sur le contrôle des renseignements relatifs aux matières dangereuses.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 9; 2012, ch. 31, art. 282.
+
 
 
 
@@ -31,17 +33,21 @@
 
 **10** 
 
-- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de contrôle*** Personne nommée à ce titre en vertu de l’article 38.
+***agent d’appel en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1).
 
-***Conseil*** Le Conseil de contrôle des renseignements relatifs aux matières dangereuses constitué par le paragraphe 28(1).
+***agent de contrôle***[Abrogée, 2012, ch. 31, art. 269]
 
-***directeur de la Section d’appel*** Le directeur de la Section d’appel nommé en application de l’article 38.
+***agent de contrôle en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1).
 
-***directeur de la Section de contrôle*** Le directeur de la Section de contrôle nommé en application de l’article 38.
+***Conseil***[Abrogée, 2012, ch. 31, art. 269]
 
-***directeur général*** Le directeur général du Conseil.
+***directeur de la Section d’appel***[Abrogée, 2012, ch. 31, art. 269]
+
+***directeur de la Section de contrôle***[Abrogée, 2012, ch. 31, art. 269]
+
+***directeur général***[Abrogée, 2012, ch. 31, art. 269]
 
 ***employeur*** S’entend au sens de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
 
@@ -55,18 +61,18 @@
 
 ***produit contrôlé*** S’entend au sens de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md).
 
-***règle*** Règle établie en vertu de l’article 47.
+***règle***[Abrogée, 2012, ch. 31, art. 269]
 
 ***règlement*** Règlement d’application de l’article 48.
 
-**Définition de « dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) »**
+**Définition de dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)**
 
-- **(2)** Dans la présente partie, on entend par ***dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)*** les dispositions de la partie II de cette loi ou les règlements d’application de celle-ci, à l’exclusion des règlements d’application de l’alinéa 15(1)j) de cette loi.
+- **(2)** Dans la présente loi, on entend par ***dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)*** les dispositions de la partie II de cette loi ou les règlements d’application de celle-ci, à l’exclusion des règlements d’application de l’alinéa 15(1)j) de cette loi.
 
-**Définition de « dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) »**
+**Définition de dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
-- **(3)** Dans la présente partie, on entend par ***dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)*** les dispositions de la partie II de cette loi ou les règlements d’application de celle-ci, à l’exclusion de l’article 125.2 de cette loi ou des règlements pris en vertu de l’article 157 de cette loi pour l’application de l’article 125.2 de cette loi.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32.
+- **(3)** Dans la présente loi, on entend par ***dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)*** les dispositions de la partie II de cette loi ou les règlements d’application de celle-ci, à l’exclusion de l’article 125.2 de cette loi ou des règlements pris en vertu de l’article 157 de cette loi pour l’application de l’article 125.2 de cette loi.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32; 2012, ch. 31, art. 269 et 282.
 
 
 
@@ -80,13 +86,13 @@
 
 **11** 
 
-- **(1)** Le fournisseur qui est tenu, directement ou indirectement, en application de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter au directeur de la Section de contrôle, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
+- **(1)** Le fournisseur qui est tenu, directement ou indirectement, en application de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l'agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
 	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
 	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé.
 
 **Demande de dérogation — employeur**
 
-- **(2)** L’employeur qui est tenu, directement ou indirectement, en application du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter au directeur de la Section de contrôle, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
+- **(2)** L’employeur qui est tenu, directement ou indirectement, en application du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l'agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
 	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
 	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé;
 	- **c)** soit l’appellation chimique, courante, commerciale ou générique, ou la marque d’un produit contrôlé;
@@ -107,17 +113,17 @@
 **Limitation**
 
 - **(5)** Le fournisseur ou l’employeur auteur d’une demande de dérogation conformément au présent article qui est définitivement jugée non fondée en tout ou en partie n’a pas le droit de présenter une autre demande de dérogation à l’égard des renseignements pour lesquels le tout ou la partie de la demande a été jugée non fondée.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1; 2012, ch. 31, art. 284(F).
 
 
 
 
 
-**Fonctions du directeur de la Section de contrôle**
+**Fonctions de l'agent de contrôle en chef**
 
 **12** 
 
-- **(1)** Sur réception d’une demande de dérogation et de la fiche signalétique ou de l’étiquette en cause ainsi que du paiement du droit exigible, le directeur de la Section de contrôle :
+- **(1)** Sur réception d’une demande de dérogation et de la fiche signalétique ou de l’étiquette en cause ainsi que du paiement du droit exigible, l'agent de contrôle en chef :
 	- **a)** fait publier dans la Gazette du Canada un avis de la demande;
 	- **b)** charge un agent de contrôle d’étudier la demande et la fiche signalétique ou l’étiquette en cause.
 
@@ -128,7 +134,7 @@
 **Limitation**
 
 - **(3)** L’avis visé à l’alinéa (1)a) ne peut divulguer les renseignements faisant l’objet de la demande.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 12; 2001, ch. 34, art. 50(F).
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 12; 2001, ch. 34, art. 50(F); 2012, ch. 31, art. 284(F).
 
 
 
@@ -149,10 +155,8 @@
 	- **b)** les renseignements contenus dans le sommaire visé à l’alinéa 11(4)c) doivent faire l’objet d’une vérification;
 	- **c)** en toute autre circonstance prévue par règlement.
 
-**Consultation**
-
-- **(2)** L’agent de contrôle peut consulter les fonctionnaires du ministère de la Santé afin de déterminer si la fiche signalétique ou l’étiquette est conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2.
+- **(2)** [Abrogé, 2012, ch. 31, art. 270]
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2; 2012, ch. 31, art. 270.
 
 
 
@@ -257,7 +261,7 @@
 
 **18** 
 
-- **(1)** Le directeur de la Section de contrôle fait publier dans la Gazette du Canada :
+- **(1)** L'agent de contrôle en chef fait publier dans la Gazette du Canada :
 	- **a)** pour chaque décision rendue en vertu de l’article 15 et chaque ordre donné en vertu des articles 16 ou 17 :
 		- **(i)** un avis contenant les renseignements réglementaires,
 		- **(ii)** un avis contenant les renseignements qui, de l’avis de l’agent de contrôle, auraient dû être divulgués sur la fiche signalétique ou l’étiquette qui lui a été soumise;
@@ -267,12 +271,12 @@
 
 **Exemplaires**
 
-- **(2)** Le directeur de la Section de contrôle met des exemplaires de tout avis publié en vertu du paragraphe (1) à la disposition de quiconque en fait la demande par écrit.
+- **(2)** L'agent de contrôle en chef met des exemplaires de tout avis publié en vertu du paragraphe (1) à la disposition de quiconque en fait la demande par écrit.
 
 **Limitation**
 
 - **(3)** L’avis prévu au paragraphe (1) ne peut divulguer des renseignements faisant l’objet d’une demande de dérogation.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 18; 2007, ch. 7, art. 5.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 18; 2007, ch. 7, art. 5; 2012, ch. 31, art. 284(F).
 
 
 
@@ -294,7 +298,9 @@
 
 **Définition de instance**
 
-- **(3)** Dans le présent article, on entend par ***instance*** les procédures prévues par la présente partie en ce qui concerne une demande de dérogation, y compris les procédures entamées devant la Cour fédérale et les procédures d’appel d’une décision de cette cour.
+- **(3)** Dans le présent article, on entend par ***instance*** les procédures prévues par la présente loi en ce qui concerne une demande de dérogation, y compris les procédures entamées devant la Cour fédérale et les procédures d’appel d’une décision de cette cour.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 19; 2012, ch. 31, art. 282.
+
 
 
 
@@ -311,7 +317,7 @@
 
 **Procédure en appel**
 
-- **(1.1)** L’appel est formé par le dépôt auprès du directeur de la Section d’appel, dans le délai réglementaire, d’une déclaration d’appel motivée, accompagnée d’observations le cas échéant.
+- **(1.1)** L’appel est formé par le dépôt auprès de l’agent d’appel en chef, dans le délai réglementaire, d’une déclaration d’appel motivée, accompagnée d’observations le cas échéant.
 
 **Modalités de l’appel**
 
@@ -320,24 +326,28 @@
 **Suspension de la décision**
 
 - **(3)** Le pourvoi en appel d’un ordre de l’agent de contrôle donné en vertu des articles 16 ou 17 a pour effet de suspendre l’application de l’ordre dont appel.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 20; 2007, ch. 7, art. 6.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 20; 2007, ch. 7, art. 6; 2012, ch. 31, art. 283(F).
 
 
 
 
 
-**Fonctions du directeur de la Section d’appel**
+**Fonctions de l’agent d’appel en chef**
 
-**21** Sur réception d’une déclaration d’appel et paiement du droit exigé, le directeur de la Section d’appel :
+**21** Sur réception d’une déclaration d’appel et paiement du droit exigé, l’agent d’appel en chef :
 - **a)** fait constituer une commission d’appel, conformément à l’article 43, chargée d’entendre l’appel et de statuer sur celui-ci;
 - **b)** fait donner avis de la constitution d’une commission d’appel au demandeur et à chaque partie touchée qui a présenté des observations à l’agent de contrôle en ce qui concerne la question faisant l’objet de l’appel.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 21; 2012, ch. 31, art. 283(F).
+
 
 
 
 
 **Convocation de la commission d’appel**
 
-**22** La commission d’appel est convoquée dans la province où le demandeur exerce ses activités ou, si celui-ci exerce ses activités dans plus d’une province, dans la province que le directeur de la Section d’appel juge la plus touchée par la question dont appel.
+**22** La commission d’appel est convoquée dans la province où le demandeur exerce ses activités ou, si celui-ci exerce ses activités dans plus d’une province, dans la province que l’agent d’appel en chef juge la plus touchée par la question dont appel.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 22; 2012, ch. 31, art. 283(F).
+
 
 
 
@@ -346,14 +356,18 @@
 
 **23** 
 
-- **(1)** La commission d’appel est saisie d’un appel :
+- **(1)** La commission d’appel est saisie d’un appel :
 	- **a)** conformément à la procédure réglementaire;
-	- **b)** sur la base, à la fois :
+	- **b)** sur la base, à la fois :
 		- **(i)** du dossier de l’agent de contrôle afférent à la décision, l’ordre ou l’engagement frappé d’appel,
 		- **(ii)** de la déclaration d’appel,
-		- **(iii)** des observations qui lui sont présentées par le demandeur ou une partie touchée,
-		- **(iv)** des éclaircissements fournis par le Conseil, conformément aux règlements, à l’égard du dossier visé au sous-alinéa (i);
+		- **(iii)** des observations qui lui sont présentées par le demandeur ou une partie touchée;
+		- **(iv)** [Abrogé, 2012, ch. 31, art. 271]
 	- **c)** d’une décision mettant en cause un critère réglementaire prévu à l’alinéa 48(1)a).
+
+**Comparution du ministre**
+
+- **(1.1)** Le ministre peut comparaître devant la commission d’appel pour présenter des arguments sur les observations présentées devant elle.
 
 **Appel formé contre une décision ou un ordre**
 
@@ -374,7 +388,7 @@
 **Observation de l’ordre**
 
 - **(5)** Le demandeur visé par un ordre prévu à l’alinéa (3)b) est tenu de s’y conformer selon les modalités de forme et de temps qui y sont précisées.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 23; 2001, ch. 34, art. 51(F); 2007, ch. 7, art. 7.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 23; 2001, ch. 34, art. 51(F); 2007, ch. 7, art. 7; 2012, ch. 31, art. 271.
 
 
 
@@ -385,12 +399,14 @@
 **24** 
 
 - **(1)** La commission d’appel rend, aussitôt que possible, une décision motivée par écrit et :
-	- **a)** en fait remettre un exemplaire au demandeur;
+	- **a)** en fait remettre un exemplaire au demandeur et au ministre;
 	- **b)** fait donner un avis de la décision à chaque partie touchée qui a fait des représentations en l’instance.
 
 **Notification de la décision**
 
 - **(2)** L’avis visé à l’alinéa (1)b) doit contenir les renseignements nécessaires pour indiquer le sens de la décision de la commission d’appel et la motivation de celle-ci, sans toutefois divulguer de renseignements faisant l’objet de la demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 24; 2012, ch. 31, art. 272.
+
 
 
 
@@ -429,265 +445,99 @@
 
 **27** 
 
-- **(1)** Le directeur de la Section d’appel fait publier dans la Gazette du Canada :
+- **(1)** L'agent d’appel en chef fait publier dans la Gazette du Canada :
 	- **a)** un avis contenant les renseignements réglementaires concernant chaque décision rendue par une commission d’appel en vertu de l’article 24;
 	- **b)** un avis contenant les renseignements qui, de l’avis de la commission d’appel, auraient dû être divulgués sur une fiche signalétique ou une étiquette qui faisait l’objet d’un appel.
 
 **Exemplaires**
 
-- **(2)** Le directeur de la Section d’appel met des exemplaires d’un avis publié dans la Gazette du Canada en vertu des alinéas (1)a) ou b) à la disposition de quiconque en fait la demande par écrit.
+- **(2)** L'agent d’appel en chef met des exemplaires d’un avis publié dans la Gazette du Canada en vertu des alinéas (1)a) ou b) à la disposition de quiconque en fait la demande par écrit.
 
 **Limitation**
 
 - **(3)** L’avis prévu au paragraphe (1) ne peut divulguer de renseignements faisant l’objet d’une demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 27; 2012, ch. 31, art. 283(F).
 
 
 
 
-## Constitution du conseil
+
+## Bureau
 
 
 
-**Constitution du Conseil**
+**Établissement du bureau**
 
 **28** 
 
-- **(1)** Est constitué le Conseil de contrôle des renseignements relatifs aux matières dangereuses dirigé par un bureau de direction composé des membres visés au paragraphe (2), nommés par le gouverneur en conseil conformément au présent article.
+- **(1)** Le ministre établit un bureau, dont il nomme les membres, pour le conseiller et l’aider à l’égard des questions découlant de l’application de la présente loi.
 
-**Nomination des membres du bureau de direction**
+**Nomination des membres du bureau**
 
-- **(2)** Les membres du bureau de direction sont les suivants :
-	- **a)** deux membres représentent les travailleurs et sont nommés après consultation par le ministre des organismes de représentation de ceux-ci que celui-ci estime indiqués;
-	- **b)** un membre représente les fournisseurs et est nommé après consultation par le ministre des organismes de représentation de ceux-ci que celui-ci estime indiqués;
-	- **c)** un membre représente les employeurs et est nommé après consultation par le ministre des organismes de représentation des employeurs que celui-ci estime indiqués;
-	- **d)** un membre représente le gouvernement fédéral et est nommé sur recommandation du ministre du Travail;
-	- **e)** de quatre à treize membres représentent le gouvernement des dix provinces, celui du Yukon, celui des Territoires du Nord-Ouest et celui du Nunavut, après consultation par le ministre de chacun de ces gouvernements.
+- **(2)** Les membres du bureau sont les suivants :
+	- **a)** deux membres qui représentent les travailleurs et que le ministre nomme après avoir consulté les organismes de représentation des travailleurs qu’il estime indiqués;
+	- **b)** un membre qui représente les fournisseurs et que le ministre nomme après avoir consulté les organismes de représentation des fournisseurs qu’il estime indiqués;
+	- **c)** un membre qui représente les employeurs et que le ministre nomme après avoir consulté les organismes de représentation des employeurs qu’il estime indiqués;
+	- **d)** un membre qui représente le gouvernement fédéral et que le ministre nomme sur recommandation du ministre du Travail;
+	- **e)** de quatre à treize membres qui représentent le gouvernement des dix provinces, celui du Yukon, celui des Territoires du Nord-Ouest et celui du Nunavut, et que le ministre nomme après avoir consulté chacun de ces gouvernements.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 28; 1993, ch. 28, art. 78; 2002, ch. 7, art. 177(A); 2012, ch. 31, art. 274.
 
-**Mandat**
 
-- **(3)** Les membres du bureau de direction sont nommés à titre inamovible pour des mandats de trois ans au maximum, sous réserve de révocation motivée par le gouverneur en conseil.
 
-**Reconduction**
 
-- **(4)** Le mandat des membres du bureau de direction peut être reconduit.
+**29** [Abrogé, 2012, ch. 31, art. 275]
 
-**Rémunération et indemnités**
 
-- **(5)** Les membres du bureau de direction ne reçoivent aucune rémunération du Conseil et celui-ci ne leur verse aucune indemnité de déplacement ou autre.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 28; 1993, ch. 28, art. 78; 2002, ch. 7, art. 177(A).
 
+**30** [Abrogé, 2012, ch. 31, art. 275]
 
 
 
+**31** [Abrogé, 2012, ch. 31, art. 275]
 
-## Président
 
 
+**32** [Abrogé, 2012, ch. 31, art. 275]
 
-**Nomination du président**
 
-**29** 
 
-- **(1)** Le président du bureau de direction est désigné ou élu conformément au présent article.
+**33** [Abrogé, 2012, ch. 31, art. 275]
 
-**Premier président**
 
-- **(2)** Le gouverneur en conseil désigne le premier président parmi les premiers membres du bureau de direction nommés en application des alinéas 28(2)d) ou e).
 
-**Autres présidents**
+**34** [Abrogé, 2012, ch. 31, art. 275]
 
-- **(3)** Le bureau de direction élit par la suite son président, conformément aux règles, parmi ceux de ses membres nommés en application des alinéas 28(2)d) ou e).
 
-**Mandat**
 
-- **(4)** Le mandat du président est d’un an.
+**35** [Abrogé, 2012, ch. 31, art. 275]
 
 
 
+**36** [Abrogé, 2012, ch. 31, art. 275]
 
-**Fonctions du président**
 
-**30** 
 
-- **(1)** Le président préside les réunions du bureau de direction et assume les autres fonctions dont le charge ce bureau.
+**37** [Abrogé, 2012, ch. 31, art. 275]
 
-**Président intérimaire**
 
-- **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le bureau de direction peut autoriser un de ses membres, nommé en application des alinéas 28(2)d) ou e), à assumer la présidence.
 
+**38** [Abrogé, 2012, ch. 31, art. 275]
 
 
 
-## Mission du bureau de direction
+**39** [Abrogé, 2012, ch. 31, art. 275]
 
 
 
-**Mission**
+**40** [Abrogé, 2012, ch. 31, art. 275]
 
-**31** Le bureau de direction a pour mission, en outre de l’exercice des fonctions qui lui sont conférées par la présente partie :
-- **a)** de présenter des recommandations au ministre sur les modifications à apporter à la procédure prévue par la présente partie en matière de contrôle des demandes de dérogation et d’appel;
-- **b)** d’étudier les modifications des droits exigibles pour la présentation d’une demande de dérogation ou l’institution d’un appel et présenter des recommandations au ministre à ce sujet.
 
 
+**41** [Abrogé, 2012, ch. 31, art. 275]
 
 
-## Pouvoirs et fonctions
 
-
-
-**Pouvoirs et fonctions**
-
-**32** Le Conseil peut exercer, en plus des pouvoirs et fonctions précisés par la présente partie, les pouvoirs et fonctions, compatibles avec la présente partie, qui lui sont conférés par les lois d’une province en matière de santé et de sécurité professionnelles.
-
-
-
-
-## Siège et réunions
-
-
-
-**Siège**
-
-**33** Le siège du Conseil est fixé, au Canada, au lieu désigné par le gouverneur en conseil.
-
-
-
-
-**Réunions**
-
-**34** Le bureau de direction tient au Canada, aux date, heure et lieu du choix du président, un minimum d’une réunion par année.
-
-
-
-
-## Directeur général
-
-
-
-**Directeur général**
-
-**35** 
-
-- **(1)** Le directeur général du Conseil est nommé conformément au présent article.
-
-**Premier directeur général**
-
-- **(2)** Le premier directeur général est nommé à titre amovible par le gouverneur en conseil.
-
-**Nominations subséquentes**
-
-- **(3)** Par la suite, le directeur général est nommé par le gouverneur en conseil, sur recommandation du ministre après consultation par celui-ci du bureau de direction, et occupe son poste à titre inamovible pour une période maximale de cinq ans, sous réserve de révocation motivée par le gouverneur en conseil.
-
-**Nomination d’un membre du bureau de direction**
-
-- **(4)** Dans les cas où le directeur général est choisi parmi les membres du bureau de direction, il cesse d’être membre du bureau dès son entrée en fonction comme directeur général.
-
-**Reconduction**
-
-- **(5)** Le mandat du directeur général peut être reconduit.
-
-
-
-
-**Fonctions**
-
-**36** 
-
-- **(1)** Le directeur général est le premier dirigeant du Conseil; à ce titre, il en assure la direction et contrôle la gestion de son personnel, sous la direction du bureau de direction.
-
-**Plein temps**
-
-- **(2)** Le directeur général exerce à plein temps les fonctions que lui confère la présente partie.
-
-**Intérim du directeur général**
-
-- **(3)** En cas d’absence ou d’empêchement du directeur général ou de vacance de son poste, la direction générale est assumée par le fonctionnaire que désigne le bureau de direction à cet effet; l’intérim ne peut se prolonger de plus de soixante jours sans l’approbation du gouverneur en conseil.
-
-
-
-
-**Rémunération**
-
-**37** 
-
-- **(1)** Le directeur général reçoit la rémunération fixée par le gouverneur en conseil.
-
-**Indemnités**
-
-- **(2)** Il a droit, sous réserve d’une directive pertinente du Conseil du Trésor, aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de sa résidence habituelle, des fonctions qui lui sont conférées par la présente partie.
-
-
-
-
-## Personnel
-
-
-
-**Personnel**
-
-**38** Le personnel nécessaire à l’exécution des travaux du Conseil, y compris le directeur de la Section de contrôle et le directeur de la Section d’appel et les personnes visées aux paragraphes 41(1) et 42(1), est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-
-
-
-## Pensions
-
-
-
-**Membres du bureau de direction**
-
-**39** 
-
-- **(1)** Les membres du bureau de direction et ceux d’une commission d’appel sont réputés ne pas faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), sauf si le gouverneur en conseil prend un décret à l’effet contraire.
-
-**Pension**
-
-- **(2)** Le directeur général et les employés nommés en vertu de l’article 38 sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> L.R. (1985), ch. 24 (3e suppl.), art. 39; 2003, ch. 22, art. 171(A) et 225(A).
-
-
-
-
-
-## Structure
-
-
-
-**Sections**
-
-**40** 
-
-- **(1)** Le Conseil comporte une Section de contrôle et une Section d’appel.
-
-**Fonctionnement**
-
-- **(2)** Sous réserve des articles 41 et 42, les règles prévoient l’organisation du personnel et le mode de fonctionnement de chaque section.
-
-
-
-
-**Section de contrôle**
-
-**41** 
-
-- **(1)** Le personnel de la Section de contrôle est composé du directeur de la Section de contrôle ainsi que des agents de contrôle et autres personnels qui peuvent être nécessaires.
-
-**Directeur de la Section de contrôle**
-
-- **(2)** Le directeur de la Section de contrôle est responsable des activités de la Section de contrôle et exerce les fonctions dont le charge le directeur général.
-
-
-
-
-**Section d’appel**
-
-**42** 
-
-- **(1)** Le personnel de la Section d’appel est composé du directeur de la Section d’appel et des autres personnels qui peuvent être nécessaires.
-
-**Directeur de la Section d’appel**
-
-- **(2)** Le directeur de la Section d’appel est responsable des activités de la Section d’appel et exerce les fonctions dont le charge le directeur général.
+**42** [Abrogé, 2012, ch. 31, art. 275]
 
 
 
@@ -701,34 +551,40 @@
 **43** 
 
 - **(1)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) est composée de trois membres :
-	- **a)** un membre, chargé de présider la commission, est nommé par le directeur de la Section d’appel sur recommandation du lieutenant-gouverneur en conseil de la province où la commission doit être convoquée;
+	- **a)** un membre, chargé de présider la commission, est nommé par l'agent d’appel en chef sur recommandation du lieutenant-gouverneur en conseil de la province où la commission doit être convoquée;
 	- **b)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)a)(i), préparée pour cette province;
 	- **c)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)a)(ii), préparée pour cette province.
 
 **Idem**
 
 - **(2)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) est composée de trois membres :
-	- **a)** un membre, chargé de présider la commission, est nommé par le directeur de la Section d’appel sur recommandation du ministre du Travail;
+	- **a)** un membre, chargé de présider la commission, est nommé par l'agent d’appel en chef sur recommandation du ministre du Travail;
 	- **b)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)b)(i), préparée pour cette province;
 	- **c)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)b)(ii), préparée pour cette province.
 
 **Liste de candidats**
 
-- **(3)** Le directeur de la Section d’appel établit et tient à jour pour chaque province les listes suivantes de candidats qui peuvent être nommés membres d’une commission d’appel dans la province :
-	- **a)** pour les appels qui découlent de l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) :
-		- **(i)** une liste des candidats proposés par les organismes de représentation des travailleurs de la province jugés indiqués par le bureau de direction,
-		- **(ii)** une liste des candidats proposés par les organismes de représentation des fournisseurs et des employeurs de la province jugés indiqués par le bureau de direction;
-	- **b)** pour les appels qui découlent de l’application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) :
-		- **(i)** une liste des candidats proposés par les organismes de représentation des travailleurs de la province auxquels cette loi s’applique jugés indiqués par le bureau de direction,
-		- **(ii)** une liste des candidats proposés par les organismes de représentation des employeurs de la province auxquels cette loi s’applique jugés indiqués par le bureau de direction.
+- **(3)** L’agent d’appel en chef établit et tient à jour pour chaque province les listes ci-après de candidats qui peuvent être nommés membres d’une commission d’appel dans la province :
+	- **a)** pour les appels qui découlent de l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) :
+		- **(i)** une liste des candidats proposés par les organismes de représentation des travailleurs de la province, ces organismes étant jugés indiqués par le ministre,
+		- **(ii)** une liste des candidats proposés par les organismes de représentation des fournisseurs et des employeurs de la province, ces organismes étant jugés indiqués par le ministre;
+	- **b)** pour les appels qui découlent de l’application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) :
+		- **(i)** une liste des candidats proposés par les organismes de représentation des travailleurs de la province auxquels cette loi s’applique, ces organismes étant jugés indiqués par le ministre du Travail,
+		- **(ii)** une liste des candidats proposés par les organismes de représentation des employeurs de la province auxquels cette loi s’applique, ces organismes étant jugés indiqués par le ministre du Travail.
+
+**Consultation du bureau**
+
+- **(3.1)** Pour l’application de l’alinéa (3)a), le ministre identifie les organismes qu’il juge indiqués en consultation avec le bureau.
 
 **Rémunération et indemnités**
 
-- **(4)** Les membres d’une commission d’appel peuvent recevoir, pour leurs services, la rémunération fixée par le gouverneur en conseil; ils ont droit aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de leur résidence habituelle, des fonctions qui leur sont conférées en application de la présente partie.
+- **(4)** Les membres d’une commission d’appel peuvent recevoir, pour leurs services, la rémunération fixée par le gouverneur en conseil; ils ont droit aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de leur résidence habituelle, des fonctions qui leur sont conférées en application de la présente loi.
 
 **Exception**
 
 - **(5)** L’agent de contrôle ne peut être membre d’une commission d’appel.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 43; 2012, ch. 31, art. 276, 282 et 283(F).
+
 
 
 
@@ -740,23 +596,15 @@
 
 
 
-## Rapport annuel
+## Pensions
 
 
 
-**Rapport annuel**
+**Membres**
 
-**45** 
+**45** Les membres du bureau et ceux d’une commission d’appel sont réputés ne pas faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), sauf si un décret est pris à l’effet contraire.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 45; 2012, ch. 31, art. 277.
 
-- **(1)** Le Conseil présente au ministre, dans les quatre mois suivant la fin de chaque année, un rapport de ses activités.
-
-**Dépôt**
-
-- **(2)** Le ministre fait déposer un exemplaire du rapport annuel devant chaque chambre du Parlement au plus tard le quinzième jour de séance de cette chambre suivant la réception de celui-ci par le ministre.
-
-**Exemplaire aux provinces**
-
-- **(3)** Dès le dépôt du rapport annuel devant le Parlement conformément au paragraphe (2), le ministre en envoie un exemplaire au lieutenant-gouverneur de chaque province.
 
 
 
@@ -769,17 +617,18 @@
 
 **46** 
 
-- **(1)** Sous réserve du présent article et des autres dispositions de la présente partie et de ses règlements d’application, les renseignements obtenus, par le Conseil ou une commission d’appel, d’un fournisseur ou d’un employeur pour l’application de la présente partie sont protégés et, malgré la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou toute autre règle de droit, il est interdit à tout fonctionnaire du Conseil ou membre d’une commission d’appel, sans le consentement écrit de la personne qui a fourni les renseignements, sciemment :
-	- **a)** soit de communiquer ces renseignements ou d’en permettre la communication à quiconque;
-	- **b)** soit de permettre à quiconque de les examiner ou d’avoir accès à un document, notamment un livre, un registre ou un écrit, qui contient tels renseignements,
-sauf pour l’exécution ou le contrôle d’application de la présente partie.
+- **(1)** Sous réserve de la présente loi et de ses règlements, les renseignements obtenus d’un fournisseur ou d’un employeur pour l’application de la présente loi sont protégés et, malgré la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou toute autre loi ou règle de droit, quiconque les a obtenus ne peut sciemment, sans le consentement écrit de la personne qui les a fournis :
+	- **a)** les communiquer ou en permettre la communication à quiconque;
+	- **b)** permettre à quiconque d’examiner tout document qui les contient, notamment un livre, un registre ou un écrit, ou d’avoir accès à un tel document.
+
+**Exception — exécution ou contrôle d’application**
+
+- **(1.1)** Quiconque a obtenu des renseignements d’un fournisseur ou d’un employeur pour l’application de la présente loi peut, pour l’exécution ou le contrôle d’application de celle-ci, soit les communiquer ou en permettre la communication, soit permettre l’examen d’un document, notamment d’un livre, d’un registre ou d’un écrit, qui les contient ou l’accès à un tel document.
 
 **Exceptions**
 
-- **(2)** Le fonctionnaire du Conseil peut soit communiquer des renseignements, ou en autoriser la communication, obtenus par le Conseil ou une commission d’appel d’un fournisseur ou d’un employeur pour l’application de la présente partie, soit autoriser l’examen d’un document, notamment d’un livre, d’un registre ou d’un écrit, qui contient tels renseignements ou l’accès à ces renseignements par :
-	- **a)** un fonctionnaire du ministère de la Santé :
-		- **(i)** pour l’exécution et le contrôle d’application de la partie II de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md),
-		- **(ii)** aux fins prévues au paragraphe 13(2);
+- **(2)** Quiconque a obtenu des renseignements d’un fournisseur ou d’un employeur pour l’application de la présente loi peut soit les communiquer ou en permettre la communication, soit permettre l’examen d’un document, notamment d’un livre, d’un registre ou d’un écrit, qui les contient ou l’accès à un tel document par :
+	- **a)** [Abrogé, 2012, ch. 31, art. 278]
 	- **b)** [Abrogé, 1996, ch. 8, art. 24]
 	- **c)** un fonctionnaire du ministère des Ressources humaines et du Développement des compétences ou tout agent d’appel, agent de santé et de sécurité ou agent régional de santé et de sécurité, au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), pour l’exécution et le contrôle d’application de la partie II de cette loi;
 	- **d)** un fonctionnaire du ministère des Transports pour rendre les renseignements accessibles, en cas d'urgence médicale, par l'intermédiaire du Centre canadien d'urgence transport de ce ministère (CANUTEC);
@@ -787,31 +636,38 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 **Autres exceptions**
 
-- **(3)** Le Conseil peut soit communiquer ou divulguer, soit faire communiquer ou divulguer des renseignements obtenus par lui ou par une commission d’appel d’un fournisseur ou d’un employeur pour l’application de la présente partie à un médecin, ou à tout autre professionnel de la santé désigné par règlement, qui en fait la demande afin de poser un diagnostic médical à l’égard d’une personne qui se trouve dans une situation d’urgence ou afin de traiter celle-ci.
+- **(3)** Quiconque a obtenu des renseignements d’un fournisseur ou d’un employeur pour l’application de la présente loi peut soit les communiquer ou les divulguer, soit les faire communiquer ou divulguer à un médecin, ou à tout autre professionnel de la santé désigné par règlement, qui en fait la demande afin de poser un diagnostic médical à l’égard d’une personne qui se trouve en situation d’urgence ou afin de traiter celle-ci.
 
 **Conditions**
 
 - **(4)** Il est interdit à quiconque obtient des renseignements en application des paragraphes (2) ou (3) de les divulguer sciemment à quiconque ou de permettre sciemment à quiconque d’y avoir accès, sauf dans la mesure nécessaire aux fins visées à ce paragraphe.
 
-**Définition de « fonctionnaire »**
+**Définition de fonctionnaire**
 
 - **(5)** Dans le présent article, ***fonctionnaire*** s’entend d’une personne qui est ou était à l’emploi de Sa Majesté ou qui occupe ou occupait un poste responsable pour le compte de celle-ci.
-> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79.
+> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79; 2012, ch. 31, art. 278.
 
 
 
 
 
-## Règles
+## Pouvoirs du ministre
 
 
 
-**Règles**
+**Désignations**
 
-**47** Le bureau de direction peut établir des règles régissant :
-- **a)** l’élection du président;
-- **b)** les pratiques et procédures relatives à ses activités;
-- **c)** l’exécution des travaux du Conseil, ainsi que la gestion interne et les fonctions des personnels de celui-ci.
+**47** 
+
+- **(1)** Le ministre peut désigner tout individu à titre d’agent de contrôle en chef et tout autre individu à titre d’agent d’appel en chef.
+
+**Pouvoirs et fonctions**
+
+- **(2)** Il peut exercer, en plus des pouvoirs et fonctions précisés par la présente loi, les pouvoirs et fonctions suivants :
+	- **a)** ceux précédemment conférés au Conseil de contrôle des renseignements relatifs aux matières dangereuses par les lois d’une province en matière de santé et de sécurité professionnelles;
+	- **b)** ceux relatifs au contrôle des demandes de dérogation et aux appels qui lui sont conférés par les lois d’une province en matière de santé et de sécurité professionnelles.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 47; 2012, ch. 31, art. 279.
+
 
 
 
@@ -824,20 +680,20 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 **48** 
 
-- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre, après consultation par celui-ci du gouvernement de chaque province ainsi que des organismes de représentation des travailleurs, des employeurs et des fournisseurs que le ministre estime indiqués, par règlement :
+- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre, après consultation par celui-ci du gouvernement de chaque province ainsi que des organismes de représentation des travailleurs, des employeurs et des fournisseurs que le ministre estime indiqués, par règlement :
 	- **a)** fixer les critères d’appréciation de la validité des demandes de dérogation;
 	- **b)** fixer la procédure d’étude des demandes de dérogation par l’agent de contrôle;
 	- **b.1)** préciser les renseignements à fournir pour justifier les demandes de dérogation;
-	- **b.2)** régir la participation du Conseil aux appels entendus par une commission d’appel;
+	- **b.2)** régir la participation du ministre aux appels entendus par une commission d’appel;
 	- **c)** fixer la procédure d’audition d’un appel par une commission d’appel;
-	- **d)** définir l’expression « partie touchée » pour l’application de la présente partie ou de l’une de ses dispositions;
-	- **e)** prendre toute autre mesure réglementaire prévue par la présente partie, à l’exclusion de la détermination d’un droit ou de la manière de le calculer;
-	- **f)** prendre toute autre mesure d’application de la présente partie.
+	- **d)** définir l’expression ***partie touchée*** pour l’application de la présente loi ou de l’une de ses dispositions;
+	- **e)** prendre toute autre mesure réglementaire prévue par la présente loi, à l’exclusion de la détermination d’un droit ou de la manière de le calculer;
+	- **f)** prendre toute autre mesure d’application de la présente loi.
 
 **Règlements sur les droits applicables**
 
-- **(2)** Le gouverneur en conseil peut, sur recommandation du ministre, après consultation par celui-ci du bureau de direction, par règlement, fixer les droits applicables en vertu de la présente partie ou la manière de les calculer.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 48; 2007, ch. 7, art. 8.
+- **(2)** Sur recommandation du ministre, après consultation par celui-ci du bureau, le gouverneur en conseil peut, par règlement, fixer les droits applicables en vertu de la présente loi ou la manière de les calculer.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 48; 2007, ch. 7, art. 8; 2012, ch. 31, art. 280 et 282.
 
 
 
@@ -851,7 +707,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 **49** 
 
-- **(1)** Quiconque contrevient ou omet de se conformer à une disposition de la présente partie ou de ses décrets ou règlements d’application commet une infraction et encourt, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient ou omet de se conformer à une disposition de la présente loi ou de ses décrets ou règlements d’application commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cent mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale d’un million de dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
@@ -862,6 +718,8 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 **Prescription**
 
 - **(3)** Les poursuites visant une infraction punissable, en vertu de l’alinéa (1)a), sur déclaration de culpabilité par procédure sommaire se prescrivent par douze mois à compter de sa perpétration.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 49; 2012, ch. 31, art. 282.
+
 
 
 
@@ -870,15 +728,14 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 
 
-**Immunité de Sa Majesté**
-
-**50** Sa Majesté est soustraite aux poursuites en dommages-intérêts fondées sur les actes accomplis ou les omissions de bonne foi par un membre du bureau de direction, un fonctionnaire du Conseil ou par un membre d’une commission d’appel dans l’exercice des attributions prévues par la présente partie.
-
-
-
-
 **Responsabilité personnelle**
 
-**51** Les membres du bureau de direction, les fonctionnaires du Conseil ou les membres d’une commission d’appel n’encourent aucune responsabilité personnelle pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice des attributions prévues par la présente partie.
+**50** Les membres d’une commission d’appel n’encourent aucune responsabilité personnelle pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice des attributions que leur confère la présente loi.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 50; 2012, ch. 31, art. 281.
+
+
+
+
+**51** [Abrogé, 2012, ch. 31, art. 281]
 
 
