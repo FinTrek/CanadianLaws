@@ -640,8 +640,6 @@ Bureau du contrôleur général du Canada<br />- <i>Office of the Comptroller Ge
 
 Bureau du Directeur général des élections<br />- <i>Office of the Chief Electoral Officer</i>
 
-Bureau du juge-arbitre<br />- <i>Office of the Umpire</i>
-
 Bureau du Surintendant des institutions financières<br />- <i>Office of the Superintendent of Financial Institutions</i>
 
 Bureau du vérificateur général<br />- <i>Office of the Auditor General</i>
@@ -667,8 +665,6 @@ Commission canadienne des droits de la personne<br />- <i>Canadian Human Rights 
 Commission canadienne des grains<br />- <i>Canadian Grain Commission</i>
 
 Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
-
-Commission d’appel des pensions<br />- <i>Pension Appeals Board</i>
 
 Commission de la fonction publique<br />- <i>Public Service Commission</i>
 
@@ -699,8 +695,6 @@ Conseil consultatif canadien de l’environnement<br />- <i>Canadian Environment
 Conseil consultatif canadien sur la situation de la femme<br />- <i>Canadian Advisory Council on the Status of Women</i>
 
 Conseil consultatif de la machinerie et de l’équipement<br />- <i>Machinery and Equipment Advisory Board</i>
-
-Conseil de contrôle des renseignements relatifs aux matières dangereuses<br />- <i>Hazardous Materials Information Review Commission</i>
 
 Conseil de la radiodiffusion et des télécommunications canadiennes<br />- <i>Canadian Radio-Television and Telecommunications Commission</i>
 
@@ -762,8 +756,6 @@ Service correctionnel du Canada<br />- <i>Correctional Service of Canada</i>
 
 Statistique Canada<br />- <i>Statistics Canada</i>
 
-Table ronde nationale sur l’environnement et l’économie<br />- <i>National Round Table on the Environment and the Economy</i>
-
 Tribunal canadien des droits de la personne<br />- <i>Canadian Human Rights Tribunal</i>
 
 Tribunal canadien du commerce extérieur<br />- <i>Canadian International Trade Tribunal</i>
@@ -775,7 +767,7 @@ Tribunal de la concurrence<br />- <i>Competition Tribunal</i>
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des anciens combattants (révision et appel)<br />- <i>Veterans Review and Appeal Board</i>
-> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 280 et 693.
+> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295.
 
 
 
