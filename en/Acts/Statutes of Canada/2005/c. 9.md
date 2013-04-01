@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2005/ch.%209.md)
 
-# First Nations Fiscal and Statistical Management Act
+# First Nations Fiscal Management Act
 
 **S.C. 2005, c. 9**
 
@@ -24,24 +24,20 @@ Whereas economic development through the application of real property tax revenu
 
 Whereas real property taxation regimes on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of first nations communities;
 
-Whereas accurate, timely and credible statistics are a key element of sound financial planning, management and reporting available to other governments in Canada;
-
 Whereas first nations led an initiative that resulted in 1988 in an amendment to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
 
 Whereas, in 1995, the First Nations Finance Authority Inc. was incorporated for the purposes of issuing debentures using real property tax revenues and providing investment opportunities;
 
-Whereas, by 1999, first nations and the Government of Canada recognized the benefits of establishing statutory institutions as part of a comprehensive fiscal and statistical management system;
+Whereas, by 1999, first nations and the Government of Canada recognized the benefits of establishing statutory institutions as part of a comprehensive fiscal management system;
 
 And whereas first nations have led an initiative culminating in the introduction of this Act;
-
-
 
 
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
-
+> 2005, c. 9, Preamble; 2012, c. 19, s. 657..
 
 
 
@@ -53,7 +49,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Short title**
 
-**1** This Act may be cited as the First Nations Fiscal and Statistical Management Act.
+**1** This Act may be cited as the First Nations Fiscal Management Act.
+> 2005, c. 9, s. 1; 2012, c. 19, s. 658.
+
 
 
 
@@ -72,9 +70,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***council*** has the same meaning as ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
 
-***first nation*** means
-- **(a)** in any provision of Part 5, a band; and
-- **(b)** in any other provision, a band named in the schedule.
+***first nation*** means a band named in the schedule.
 
 ***First Nations Finance Authority*** means the corporation established under section 58.
 
@@ -82,7 +78,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***First Nations Gazette*** means the publication published under section 34.
 
-***First Nations Statistical Institute*** means the institute established under section 91.
+***First Nations Statistical Institute***[Repealed, 2012, c. 19, s. 659]
 
 ***First Nations Tax Commission*** means the commission established under subsection 17(1).
 
@@ -105,6 +101,8 @@ Version anglaise seulement***third-party management*** means the management of a
 - **(3)** At the request of the council of a band, the Governor in Council may, by order, amend the schedule in order to
 	- **(a)** add or change the name of the band; or
 	- **(b)** delete the name of the band, as long as there are no amounts owing by the band to the First Nations Finance Authority that remain unpaid.
+> 2005, c. 9, s. 2; 2012, c. 19, s. 659.
+
 
 
 
@@ -1606,332 +1604,102 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 
 **PART 5** 
-## First Nations Statistical Institute
+## [Repealed, 2012, c. 19, s. 660]
 
 
+**90** [Repealed, 2012, c. 19, s. 660]
 
-### Interpretation
 
 
+**91** [Repealed, 2012, c. 19, s. 660]
 
-**Definitions**
 
-**90** The following definitions apply in this Part.
 
-***Institute*** means the First Nations Statistical Institute.
+**92** [Repealed, 2012, c. 19, s. 660]
 
-***other aboriginal group*** means an aboriginal group that was formerly a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) and that is a party to a treaty, land claim agreement or self-government agreement with Canada.
 
-***respondent*** means a person in respect of whom, or in respect of whose activities, a report or information is sought or provided under this Part.
 
+**93** [Repealed, 2012, c. 19, s. 660]
 
 
 
-### Establishment and Organization of Institute
+**94** [Repealed, 2012, c. 19, s. 660]
 
 
 
-**Institute**
+**95** [Repealed, 2012, c. 19, s. 660]
 
-**91** There is hereby established an institute, to be known as the First Nations Statistical Institute, which may carry on business under the name of “First Nations Statistics”.
 
 
+**96** [Repealed, 2012, c. 19, s. 660]
 
 
-**Crown Corporation**
 
-**92** The Institute is a Crown corporation and is governed by Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), but to the extent that any provisions of this Part are inconsistent with sections 105 and 121 of that Act, the provisions of this Part prevail.
+**97** [Repealed, 2012, c. 19, s. 660]
 
 
 
+**98** [Repealed, 2012, c. 19, s. 660]
 
-**Not an agent of Her Majesty**
 
-**93** The Institute is not an agent of Her Majesty.
 
+**99** [Repealed, 2012, c. 19, s. 660]
 
 
 
-**Board of directors**
+**100** [Repealed, 2012, c. 19, s. 660]
 
-**94** 
 
-- **(1)** The Institute shall be managed by a board of directors, consisting of 10 to 13 directors, including the Chairperson and Vice-Chairperson.
 
-***Ex officio* director**
+**101** [Repealed, 2012, c. 19, s. 660]
 
-- **(2)** The Chief Statistician of Canada shall be a member of the board of directors.
-> 2005, c. 9, s. 94; 2010, c. 12, s. 1735.
 
 
+**102** [Repealed, 2012, c. 19, s. 660]
 
 
 
-**Appointment of Chairperson**
+**103** [Repealed, 2012, c. 19, s. 660]
 
-**95** On the recommendation of the Minister, the Governor in Council shall appoint a Chairperson to hold office during pleasure for a term not exceeding five years.
 
 
+**104** [Repealed, 2012, c. 19, s. 660]
 
 
-**Appointment of other directors**
 
-**96** On the recommendation of the Minister, the Governor in Council shall appoint a minimum of eight, and a maximum of 11, additional directors to hold office during pleasure for a term not exceeding five years.
-> 2005, c. 9, s. 96; 2010, c. 12, s. 1736.
+**105** [Repealed, 2012, c. 19, s. 660]
 
 
 
+**106** [Repealed, 2012, c. 19, s. 660]
 
 
-**Staggered terms**
 
-**97** 
+**107** [Repealed, 2012, c. 19, s. 660]
 
-- **(1)** In determining the term of appointment of directors, the Governor in Council shall endeavour to ensure that the terms of no more than three directors expire in any one calendar year.
 
-**Qualifications**
 
-- **(2)** The board of directors shall be composed of men and women from across Canada, including members of first nations, who are committed to improving first nations statistical information and analysis and who have the experience or capacity to enable the Institute to fulfil its mandate.
+**108** [Repealed, 2012, c. 19, s. 660]
 
 
 
+**109** [Repealed, 2012, c. 19, s. 660]
 
-**Status**
 
-**98** The Chairperson and other directors shall hold office on a part-time basis.
 
+**110** [Repealed, 2012, c. 19, s. 660]
 
 
 
-**Election of Vice-Chairperson**
+**111** [Repealed, 2012, c. 19, s. 660]
 
-**99** 
 
-- **(1)** The board of directors shall elect a Vice-Chairperson from among the directors.
 
-**Functions**
+**112** [Repealed, 2012, c. 19, s. 660]
 
-- **(2)** In the event of the absence or incapacity of the Chairperson, or if the office of Chairperson is vacant, the Vice-Chairperson shall assume the duties and functions of the Chairperson.
 
 
-
-
-**Reappointment**
-
-**100** A director may be reappointed for a second or subsequent term of office.
-
-
-
-
-**Head office**
-
-**101** The head office of the Institute shall be at a location determined by the Governor in Council.
-
-
-
-
-**First Nations Chief Statistician**
-
-**102** 
-
-- **(1)** On the recommendation of the Minister, the Governor in Council shall appoint a First Nations Chief Statistician to hold office during pleasure on a full-time basis for a term not exceeding five years.
-
-**Remuneration**
-
-- **(2)** The First Nations Chief Statistician shall be paid the remuneration determined by the Governor in Council.
-
-**Staff**
-
-- **(3)** The board of directors shall determine the duties of other officers and employees and the conditions of their employment.
-
-**Staff**
-
-- **(4)** The First Nations Chief Statistician may hire any other officers and employees that are necessary to conduct the work of the Institute.
-
-**Salaries and benefits**
-
-- **(5)** Persons hired under subsection (4) shall be paid salaries and benefits fixed by the board of directors.
-
-
-
-
-**Oath of office**
-
-**103** The First Nations Chief Statistician, every person employed by the Institute, every person retained under contract by the Institute and every employee and agent of a person retained under contract by the Institute shall, before commencing their duties, swear or solemnly affirm that he or she will comply with section 108 and will not without authority disclose any information acquired in the course of his or her duties that can be related to any identifiable individual, first nation, business or organization.
-
-
-
-
-### Purposes
-
-
-
-**Mandate**
-
-**104** The purposes of the Institute are to
-- **(a)** provide statistical information on, and analysis of, the fiscal, economic and social conditions of
-	- **(i)** Indians and other members of first nations,
-	- **(ii)** members of other aboriginal groups, and
-	- **(iii)** other persons who reside on reserve lands or lands of other aboriginal groups;
-- **(b)** promote the quality, coherence and compatibility of first nations statistics and their production in accordance with generally accepted standards and practices through collaboration with first nations, federal departments and agencies, provincial departments and agencies and other organizations;
-- **(c)** work with, and provide advice to, federal departments and agencies and provincial departments and agencies on first nations statistics;
-- **(d)** work in cooperation with Statistics Canada to ensure that the national statistical system meets the needs of first nations and Canada; and
-- **(e)** build statistical capacity within first nation governments.
-
-
-
-
-### Powers
-
-
-
-**General powers**
-
-**105** 
-
-- **(1)** In furtherance of the purposes set out in section 104, the Institute may enter into agreements with aboriginal and other governments and organizations.
-
-**Particular powers**
-
-- **(2)** The Institute may collect, compile, analyze and abstract data for statistical purposes respecting any of the following matters as they relate to first nations, to reserve lands, to Indians and other members of first nations, to members of other aboriginal groups, and to other persons who reside on reserve lands or lands of other aboriginal groups:
-	- **(a)** population;
-	- **(b)** agriculture;
-	- **(c)** health and welfare;
-	- **(d)** commercial and industrial activities;
-	- **(e)** law enforcement, the administration of justice and corrections;
-	- **(f)** finance;
-	- **(g)** education;
-	- **(h)** language, culture and traditional activities;
-	- **(i)** labour and employment;
-	- **(j)** prices and the cost of living;
-	- **(k)** transportation and communications;
-	- **(l)** electric power, gas and water utilities;
-	- **(m)** public administration;
-	- **(n)** community services;
-	- **(o)** the environment;
-	- **(p)** forestry, fishing and trapping; and
-	- **(q)** any other matter prescribed by regulation.
-
-**Publication**
-
-- **(3)** The Institute shall publish and make publicly available statistical information collected, compiled, analysed or abstracted under subsection (2) in a manner that does not permit the information to be related to any identifiable individual, business or organization.
-
-
-
-
-**Sharing of information**
-
-**106** 
-
-- **(1)** The Institute may enter into an agreement with a first nation or other aboriginal group, federal department or agency, provincial department or agency, municipality, corporation or other organization for the sharing of information collected by or on behalf of either party and for its subsequent tabulation or publication.
-
-**Agreement**
-
-- **(2)** An agreement under subsection (1) shall provide that
-	- **(a)** respondents from whom information is collected are to be informed by notice that the information is being collected on behalf of the Institute and the first nation, other aboriginal group, department, agency, municipality, corporation or organization, as the case may be; and
-	- **(b)** if the respondents object by notice in writing to the First Nations Chief Statistician to the sharing of the information by the Institute, the information will not be shared unless the first nation, other aboriginal group, department, agency, municipality, corporation or organization is authorized by law to require respondents to provide that information.
-
-
-
-
-**Federal data**
-
-**107** 
-
-- **(1)** Subject to subsection (2), documents or records relating to first nations, Indians or other members of first nations, or to members of other aboriginal groups, that are maintained by any department, body or corporation set out in any of Schedules I to III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) that is prescribed by regulation shall be disclosed to the Institute for the purposes of this Part in accordance with an agreement referred to in subsection (3).
-
-**Exception**
-
-- **(2)** A department, body or corporation referred to in subsection (1) is not required to disclose any information that it is required to, or may, withhold under any federal law or under any privilege at law.
-
-**Agreement required**
-
-- **(3)** The Institute shall enter into an agreement for the collection and use of information referred to in subsection (1) with the department, body or corporation from whose documents or records it is to be obtained.
-
-
-
-
-### General
-
-
-
-**Protection of information**
-
-**108** 
-
-- **(1)** Except for the purpose of communicating information in accordance with the conditions of an agreement made under section 106, for the conduct of a prosecution under this Act or for the purposes of subsection (2),
-	- **(a)** no person, other than a person employed by, or under contract to, the Institute and sworn or affirmed under section 103, shall be permitted to examine any identifiable individ­ual return made for the purposes of this Part; and
-	- **(b)** no person who has been sworn or affirmed under section 103 shall knowingly disclose any information obtained by the Institute that can be related to any identifiable individual, first nation, business or organization.
-
-**Permissible disclosure**
-
-- **(2)** The First Nations Chief Statistician may authorize the following information to be disclosed:
-	- **(a)** information collected by persons, first nations, organizations or departments for their own purposes and communicated to the Institute, subject to the same secrecy requirements applicable to it when it was collected, and in the manner and to the extent agreed on by its collector and the First Nations Chief Statistician;
-	- **(b)** information relating to a person, first nation, business or organization in respect of which disclosure is consented to in writing by that person, first nation, business or organization;
-	- **(c)** information available to the public under an Act of Parliament or of the legislature of a province;
-	- **(d)** information relating to a hospital, institution for individuals with a mental health disability, library, educational institution or other similar non-commercial institution that cannot be related to an individual to whom services were or are provided by that institution; and
-	- **(e)** a list of businesses, showing
-		- **(i)** their names and addresses,
-		- **(ii)** the telephone numbers at which they may be reached in relation to statistical matters,
-		- **(iii)** the official language in which they prefer to be addressed in relation to statistical matters,
-		- **(iv)** the products they produce, transport, store, purchase or sell, or the services they provide, in the course of their business, or
-		- **(v)** the number of persons they employ, as a specified range.
-
-
-
-
-**Information privileged**
-
-**109** 
-
-- **(1)** Except for the purpose of conducting a prosecution under this Act, information obtained by the Institute that can be related to any identifiable individual, business, organization or first nation is privileged and shall not be used as evidence in a legal proceeding.
-
-**No compulsion to produce**
-
-- **(2)** No person referred to in section 103 shall be required by an order of a court, tribunal or other body to give testimony in respect of any information referred to in subsection (1).
-
-
-
-
-**Powers of Statistics Canada**
-
-**110** Nothing in this Act shall be construed so as to limit the powers and duties of Statistics Canada under the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md).
-
-
-
-
-### Offences
-
-
-
-**Offence**
-
-**111** Every person who, after making an oath or solemn affirmation under section 103,
-- **(a)** wilfully makes a false declaration, statement or return in the performance of his or her duties,
-- **(b)** in the pretended performance of his or her duties, obtains or seeks to obtain information that the person is not authorized to obtain, or
-- **(c)** contravenes section 108
-is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding six months, or to both.
-
-
-
-
-**Secret information**
-
-**112** Every person who, after making an oath or solemn affirmation under section 103,
-- **(a)** wilfully discloses, directly or indirectly, information obtained in the course of his or her duties that might affect the market value of a security or commodity, including any information referred to in subsection 108(2), to any person who has not been sworn or affirmed under section 103, or
-- **(b)** uses any information described in paragraph (a) for the purpose of speculating in a security or commodity
-is guilty of an offence and liable on summary conviction to a fine not exceeding the aggregate of $5,000 and double the amount of any benefit obtained from speculation referred to in paragraph (b) or to imprisonment for a term not exceeding five years, or to both.
-
-
-
-
-### Regulations
-
-
-
-**Regulations**
-
-**113** The Governor in Council may, on the recommendation of the Minister made having regard to any representations by the Institute, make regulations prescribing anything to be prescribed under paragraph 105(2)(q) or subsection 107(1).
+**113** [Repealed, 2012, c. 19, s. 660]
 
 
 
@@ -2254,16 +2022,16 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **132** 
 
-- **(1)** No person who is appointed to, or is employed by, a commission, board, authority or institute established under this Act shall be appointed to, or be employed by, any other commission, board, authority or institute established under this Act.
+- **(1)** No person who is appointed to, or is employed by, a commission, board or authority established under this Act shall be appointed to, or be employed by, any other commission, board or authority established under this Act.
 
 **Conflict of interest**
 
-- **(2)** No person referred to in subsection (1) shall accept or hold any office or employment that is inconsistent with that person’s duties or take part in any matter involving the commission, board, authority or institute in which that person has an interest.
+- **(2)** No person referred to in subsection (1) shall accept or hold any office or employment that is inconsistent with that person’s duties or take part in any matter involving the commission, board or authority in which that person has an interest.
 
 **Conflict of interest**
 
-- **(3)** All persons appointed to a commission, board or institute established under this Act shall comply with the [Conflict of Interest Act](/en/Acts/Statutes%20of%20Canada/2006/c.%209,%20s.%202.md) as though they were public office holders as defined in that Act.
-> 2005, c. 9, s. 132; 2006, c. 9, s. 8.
+- **(3)** All persons appointed to a commission or board established under this Act shall comply with the [Conflict of Interest Act](/en/Acts/Statutes%20of%20Canada/2006/c.%209,%20s.%202.md) as though they were public office holders as defined in that Act.
+> 2005, c. 9, s. 132; 2006, c. 9, s. 8; 2012, c. 19, s. 661.
 
 
 
@@ -2273,18 +2041,22 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **133** 
 
-- **(1)** No person has a right to receive any compensation, damages, indemnity or other relief from Her Majesty in right of Canada in respect of any claim against the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or First Nations Statistical Institute arising from its exercise of, or its failure to exercise, any of the powers or functions of that Commission, Board, Authority or Institute, as the case may be, including any claim against the First Nations Tax Commission as an agent of Her Majesty in right of Canada.
+- **(1)** No person has a right to receive any compensation, damages, indemnity or other relief from Her Majesty in right of Canada in respect of any claim against the First Nations Tax Commission, First Nations Financial Management Board or First Nations Finance Authority arising from its exercise of, or its failure to exercise, any of the powers or functions of that Commission, Board or Authority, as the case may be, including any claim against the First Nations Tax Commission as an agent of Her Majesty in right of Canada.
 
 **Insurance required**
 
-- **(2)** The First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and First Nations Statistical Institute shall maintain in good standing at all times the insurance coverage required by any regulations made under paragraph 140(b).
+- **(2)** The First Nations Tax Commission, First Nations Financial Management Board and First Nations Finance Authority shall maintain in good standing at all times the insurance coverage required by any regulations made under paragraph 140(b).
+> 2005, c. 9, s. 133; 2012, c. 19, s. 662.
+
 
 
 
 
 **No appropriation**
 
-**134** No payment to the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or First Nations Statistical Institute may be made under an appropriation by Parliament authorized under an Act of Parliament to enable the Commission, Board, Authority or Institute to satisfy any claim referred to in subsection 133(1).
+**134** No payment to the First Nations Tax Commission, First Nations Financial Management Board or First Nations Finance Authority may be made under an appropriation by Parliament authorized under an Act of Parliament to enable the Commission, Board or Authority to satisfy any claim referred to in subsection 133(1).
+> 2005, c. 9, s. 134; 2012, c. 19, s. 662.
+
 
 
 
@@ -2298,7 +2070,9 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **Limit of liability**
 
-**136** No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, or any director or employee of the First Nations Financial Management Board or First Nations Statistical Institute, for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act.
+**136** No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, or any director or employee of the First Nations Financial Management Board, for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act.
+> 2005, c. 9, s. 136; 2012, c. 19, s. 663.
+
 
 
 
@@ -2327,11 +2101,13 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **139** 
 
-- **(1)** For greater certainty, the provisions of the [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md) applicable to federal institutions apply to the First Nations Tax Commission and First Nations Statistical Institute.
+- **(1)** For greater certainty, the provisions of the [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md) applicable to federal institutions apply to the First Nations Tax Commission.
 
 **Official languages**
 
 - **(2)** Where there is a significant demand for services in a particular official language, the First Nations Financial Management Board and First Nations Finance Authority shall offer services in that language.
+> 2005, c. 9, s. 139; 2012, c. 19, s. 664.
+
 
 
 
@@ -2344,7 +2120,9 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **140** The Governor in Council may make regulations
 - **(a)** prescribing anything that is to be prescribed under subsection 20(3) or 41(2) or section 116; and
-- **(b)** prescribing the insurance coverage required to be maintained by the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and First Nations Statistical Institute in respect of liabilities referred to in subsection 133(1).
+- **(b)** prescribing the insurance coverage required to be maintained by the First Nations Tax Commission, First Nations Financial Management Board and First Nations Finance Authority in respect of liabilities referred to in subsection 133(1).
+> 2005, c. 9, s. 140; 2012, c. 19, s. 665.
+
 
 
 
@@ -2411,7 +2189,9 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **Review and evaluation**
 
-**146** Within seven years after the day on which this Act receives royal assent, the Minister, after consultation with the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and First Nations Statistical Institute, shall review the provisions and operation of this Act and the operations of those institutions, and submit a report to each House of Parliament on that review, including any changes that the Minister recommends relating to the evolution of the mandate and operation of those institutions.
+**146** Within seven years after the day on which this Act receives royal assent, the Minister, after consultation with the First Nations Tax Commission, First Nations Financial Management Board and First Nations Finance Authority, shall review the provisions and operation of this Act and the operations of those institutions, and submit a report to each House of Parliament on that review, including any changes that the Minister recommends relating to the evolution of the mandate and the operation of those institutions.
+> 2005, c. 9, s. 146; 2012, c. 19, s. 666.
+
 
 
 
