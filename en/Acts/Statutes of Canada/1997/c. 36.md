@@ -56,6 +56,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada–Jordan Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md).
 
+***Canada–Panama Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md).
+
 ***Canada–Peru Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
 
 ***Canada–United States Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
@@ -120,6 +122,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the land territory, air space, internal waters and territorial sea of Norway; and
 - **(b)** the exclusive economic zone and continental shelf of Norway.
 
+***Panama*** means the land, maritime areas, and air space under the sovereignty of the Republic of Panama and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
+
 ***Peru*** means the mainland territory, the islands, the maritime zones and the air space above them, over which the Republic of Peru exercises sovereignty, or sovereign rights and jurisdiction, in accordance with its domestic law and international law.
 
 Version anglaise seulement***prescribed*** means
@@ -154,7 +158,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38.
 
 
 
@@ -192,12 +196,14 @@ Liechtenstein
 
 Norway
 
+Panama
+
 Peru
 
 Switzerland
 
 
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33, c. 26, ss. 39, 62.
 
 
 
@@ -300,14 +306,15 @@ Switzerland
 		- **(vi)** subsection 71(2),
 		- **(vii)** subsection 71.01(1),
 		- **(viii)** subsection 71.1(2),
-		- **(ix)** subsection 71.5(1),
-		- **(x)** subsection 71.6(1),
-		- **(xi)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(ix)** subsection 71.41(1),
+		- **(x)** subsection 71.5(1),
+		- **(xi)** subsection 71.6(1),
+		- **(xii)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63.
 
 
 
@@ -643,12 +650,14 @@ Switzerland
 
 ***NZT*** refers to the New Zealand Tariff.
 
+***PAT*** refers to the Panama Tariff.
+
 ***PT*** refers to the Peru Tariff.
 
 ***SLT*** refers to the Switzerland–Liechtenstein Tariff.
 
 ***UST*** refers to the United States Tariff.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63.
 
 
 
@@ -1359,6 +1368,66 @@ Switzerland
 
 
 
+#### Panama Tariff
+
+
+
+**Application of PAT**
+
+**49.41** 
+
+- **(1)** Subject to section 24, goods that originate in Panama are entitled to the Panama Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “PAT” in relation to goods entitled to the Panama Tariff, the Panama Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for PAT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “PAT” in relation to goods entitled to the Panama Tariff, the Panama Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for PAT**
+
+- **(4)** If “T1”, “T2” or “T3” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “PAT” in relation to goods entitled to the Panama Tariff, the Panama Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “T1” is set out,
+		- **(i)** effective on the coming into force of this subsection, to two thirds of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to one third of the initial rate, and
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to the final rate of “Free”;
+	- **(b)** if “T2” is set out,
+		- **(i)** effective on the coming into force of this subsection, to four fifths of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to three fifths of the initial rate,
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to two fifths of the initial rate,
+		- **(iv)** effective on January 1 of the year that is three years after the year of the coming into force of this subsection, to one fifth of the initial rate, and
+		- **(v)** effective on January 1 of the year that is four years after the year of the coming into force of this subsection, to the final rate of “Free”; and
+	- **(c)** if “T3” is set out,
+		- **(i)** effective on January 1 of the year that is five years after the year of the coming into force of this subsection, to nine tenths of the initial rate,
+		- **(ii)** effective on January 1 of the year that is six years after the year of the coming into force of this subsection, to eight tenths of the initial rate,
+		- **(iii)** effective on January 1 of the year that is seven years after the year of the coming into force of this subsection, to seven tenths of the initial rate,
+		- **(iv)** effective on January 1 of the year that is eight years after the year of the coming into force of this subsection, to six tenths of the initial rate,
+		- **(v)** effective on January 1 of the year that is nine years after the year of the coming into force of this subsection, to five tenths of the initial rate,
+		- **(vi)** effective on January 1 of the year that is 10 years after the year of the coming into force of this subsection, to four tenths of the initial rate,
+		- **(vii)** effective on January 1 of the year that is 11 years after the year of the coming into force of this subsection, to three tenths of the initial rate,
+		- **(viii)** effective on January 1 of the year that is 12 years after the year of the coming into force of this subsection, to two tenths of the initial rate,
+		- **(ix)** effective on January 1 of the year that is 13 years after the year of the coming into force of this subsection, to one tenth of the initial rate, and
+		- **(x)** effective on January 1 of the year that is 14 years after the year of the coming into force of this subsection, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2012, c. 26, s. 42.
+
+
+
+
+
 #### Peru Tariff
 
 
@@ -1681,7 +1750,7 @@ Switzerland
 
 
 **DIVISION 4** 
-### Special Measures, Emergency Measures and  Safeguards
+### Special Measures, Emergency Measures and Safeguards
 
 
 
@@ -1749,6 +1818,10 @@ Colombia
 
 
 
+Panama
+
+
+
 Peru
 
 
@@ -1756,7 +1829,7 @@ Peru
 ***surge***, in respect of goods imported from
 - **(a)** a NAFTA country, has the meaning given that word by Article 805 of the North American Free Trade Agreement; or
 - **(b)** Chile, has the meaning given that word by Article F-05 of the Canada–Chile Free Trade Agreement.
-> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124.
+> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124; 2012, c. 26, s. 43.
 
 
 
@@ -1853,14 +1926,16 @@ Peru
 
 
 
-**Emergency measures — other FTA countries**
+**Emergency measures**
 
 **59.1** An order made under subsection 55(1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
+
+Panama
 
 Peru
 
 
-> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126.
+> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126; 2012, c. 26, s. 44.
 
 
 
@@ -1930,6 +2005,8 @@ the Governor in Council may, on the recommendation of the Minister, make an exte
 
 - **(4.1)** An order made under subsection (1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
 
+Panama
+
 Peru
 
 
@@ -1939,7 +2016,7 @@ Peru
 - **(5)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order, but the total of the specified period and the periods during which the goods were subject to related orders made under subsection (1) or 55(1) or section 60 or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) may not exceed eight years; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 64.
-> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127.
+> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127; 2012, c. 26, s. 45.
 
 
 
@@ -2424,6 +2501,43 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
+#### Bilateral Emergency Measures — Panama
+
+
+
+**Order by Governor in Council**
+
+**71.41** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.0131(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.081) of that Act, that goods that are entitled to the Panama Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 49.41; and
+	- **(b)** make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Panama Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods on January 1, 2009.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** is not to be made more than once in respect of goods of any particular kind;
+	- **(b)** remains in effect only for the period, not exceeding three years, that is specified in the order;
+	- **(c)** may be made during the period beginning on the day on which this subsection comes into force and ending
+		- **(i)** if the order is in respect of goods for which the Panama Tariff rate of customs duty is reduced to the final rate of “Free” over a period of less than 10 years, on the day that is 10 years after the day on which this subsection comes into force, and
+		- **(ii)** if the order is in respect of goods for which the Panama Tariff rate of customs duty is reduced to the final rate of “Free” over a period of 10 years or more, on the day after the expiry of the tariff staging period in respect of those goods; and
+	- **(d)** may be made after the period described in paragraph (c) if the order is based on an agreement between the Government of Canada and the Government of the Republic of Panama relating to the application of subsection (1).
+
+**Rate of duty when order ceases to have effect**
+
+- **(3)** If an order made under subsection (1) ceases to have effect in a particular calendar year, the rate of customs duty applicable to the goods after the order ceases to have effect is the rate of customs duty that is applicable in accordance with section 49.41.
+
+**Definition of principal cause**
+
+- **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+> 2012, c. 26, s. 46.
+
+
+
+
+
 #### Bilateral Emergency Measures — Peru
 
 
@@ -2737,9 +2851,10 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(f)** subsection 70(2);
 - **(g)** subsection 71.01(1);
 - **(h)** subsection 71.1(2);
-- **(i)** subsection 71.5(1);
-- **(j)** subsection 71.6(1).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44.
+- **(i)** subsection 71.41(1);
+- **(j)** subsection 71.5(1);
+- **(k)** subsection 71.6(1).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63.
 
 
 
@@ -3784,6 +3899,8 @@ Liechtenstein
 
 Norway
 
+Panama
+
 Peru
 
 Switzerland
@@ -3801,6 +3918,8 @@ Israel or another CIFTA beneficiary
 
 Jordan
 
+Panama
+
 Peru
 
 
@@ -3809,7 +3928,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62.
 
 
 
