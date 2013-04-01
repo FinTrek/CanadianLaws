@@ -1438,12 +1438,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 L’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie, signé le 21 novembre 2008, avec ses modifications éventuelles apportées en conformité avec son article 30.
 
 
+L’Accord de coopération dans le domaine du travail entre le Canada et la République du Panama, fait à Ottawa le 13 mai 2010, avec ses modifications éventuelles apportées en conformité avec son article 22.
+
+
 L’Accord de coopération dans le domaine du travail entre le Canada et la République du Pérou, signé le 29 mai 2008, avec ses modifications éventuelles apportées en conformité avec son article 30.
 
 
 L’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009, avec ses modifications éventuelles apportées en conformité avec son article 22.
 
 
-> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41.
+> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62.
 
 
