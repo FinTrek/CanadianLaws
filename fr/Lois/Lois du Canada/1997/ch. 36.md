@@ -58,6 +58,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange Canada-Jordanie*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
 
+***Accord de libre-échange Canada-Panama*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md). 
+
 ***Accord de libre-échange Canada-Pérou*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md). 
 
 ***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
@@ -116,6 +118,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***numéro tarifaire*** Dénomination de marchandises, figurant sur la liste des dispositions tarifaires, marquée d’un numéro à huit chiffres et les taux figurant sur cette liste et, le cas échéant, au tableau des échelonnements.
 
+***Panama*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Panama exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Panama exerce des droits souverains et sa compétence conformément à son droit interne et au droit international.
+
 ***partenaire de libre-échange*** Selon le cas :
 - **a)** un pays ALÉNA;
 - **b)** le Chili;
@@ -154,7 +158,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38.
 
 
 
@@ -190,6 +194,8 @@ Liechtenstein
 
 Norvège
 
+Panama
+
 pays ALÉNA
 
 Pérou
@@ -197,7 +203,7 @@ Pérou
 Suisse
 
 
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33, ch. 26, art. 39 et 62.
 
 
 
@@ -300,14 +306,15 @@ Suisse
 		- **(vi)** le paragraphe 71(2),
 		- **(vii)** le paragraphe 71.01(1),
 		- **(viii)** le paragraphe 71.1(2),
-		- **(ix)** le paragraphe 71.5(1),
-		- **(x)** le paragraphe 71.6(1),
-		- **(xi)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(ix)** le paragraphe 71.41(1),
+		- **(x)** le paragraphe 71.5(1),
+		- **(xi)** le paragraphe 71.6(1),
+		- **(xii)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63.
 
 
 
@@ -639,6 +646,8 @@ Suisse
 
 ***TP*** Tarif du Pérou.
 
+***TPA*** Tarif du Panama.
+
 ***TPAC*** Tarif des pays antillais du Commonwealth.
 
 ***TPG*** Tarif de préférence général.
@@ -646,7 +655,7 @@ Suisse
 ***TPMD*** Tarif des pays les moins développés.
 
 ***TSL*** Tarif de Suisse-Liechtenstein.
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63.
 
 
 
@@ -1357,6 +1366,66 @@ Suisse
 
 
 
+#### Tarif du Panama
+
+
+
+**Application du TPA**
+
+**49.41** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires du Panama bénéficient des taux du tarif du Panama.
+
+**Taux final « A » pour le TPA**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPA » pour des marchandises qui bénéficient du tarif du Panama, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TPA**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPA » pour des marchandises qui bénéficient du tarif du Panama, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TPA**
+
+- **(4)** Dans les cas où « T1 », « T2 » ou « T3 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPA » pour des marchandises qui bénéficient du tarif du Panama, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « T1 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux deux tiers du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, au tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « T2 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux quatre cinquièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, aux trois cinquièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, aux deux cinquièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent paragraphe, au cinquième du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **c)** dans le cas de « T3 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent paragraphe, aux neuf dixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent paragraphe, aux huit dixièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent paragraphe, aux sept dixièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de l’entrée en vigueur du présent paragraphe, aux six dixièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de l’entrée en vigueur du présent paragraphe, aux cinq dixièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de l’entrée en vigueur du présent paragraphe, aux quatre dixièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de l’entrée en vigueur du présent paragraphe, aux trois dixièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la douzième année suivant celle de l’entrée en vigueur du présent paragraphe, aux deux dixièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la treizième année suivant celle de l’entrée en vigueur du présent paragraphe, au dixième du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la quatorzième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression d’un taux inférieur à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2012, ch. 26, art. 42.
+
+
+
+
+
 #### Tarif du Pérou
 
 
@@ -1741,6 +1810,10 @@ Colombie
 
 
 
+Panama
+
+
+
 Pérou
 
 
@@ -1754,7 +1827,7 @@ Chili
 pays ALÉNA
 
 
-> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124.
+> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124; 2012, ch. 26, art. 43.
 
 
 
@@ -1839,14 +1912,16 @@ pays ALÉNA
 
 
 
-**Mesures d’urgence — autres pays d’ALÉ**
+**Mesures d’urgence**
 
 **59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
+
+Panama
 
 Pérou
 
 
-> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126.
+> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126; 2012, ch. 26, art. 44.
 
 
 
@@ -1901,6 +1976,8 @@ Pérou
 
 - **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
 
+Panama
+
 Pérou
 
 
@@ -1910,7 +1987,7 @@ Pérou
 - **(5)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée, la durée de celle-ci ajoutée à celle des périodes pendant lesquelles les marchandises ont fait l’objet de décrets pris en vertu des paragraphes (1) ou 55(1) ou de l’article 60, ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne pouvant toutefois excéder huit ans;
 	- **b)** peut, sur recommandation du ministre, malgré les autres dispositions du présent article, être à tout moment abrogé ou modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 64, une résolution de cessation d’effet.
-> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127.
+> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127; 2012, ch. 26, art. 45.
 
 
 
@@ -2374,6 +2451,41 @@ Pérou
 
 
 
+#### Mesures d’urgence bilatérales : Panama
+
+
+
+**Décret de mesures temporaires**
+
+**71.41** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.0131(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.081) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif du Panama, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.41;
+	- **b)** assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard le 1<sup>er</sup> janvier 2009, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret :
+	- **a)** ne peut être pris plus d’une fois à l’égard des marchandises d’une nature donnée;
+	- **b)** demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **c)** peut être pris au cours de la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant :
+		- **(i)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif du Panama est réduit au taux final, la franchise en douane, sur une période de moins de dix ans, à la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe,
+		- **(ii)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif du Panama est réduit au taux final, la franchise en douane, sur une période de dix ans ou plus, à la date suivant celle où se termine l’échelonnement tarifaire prévu à l’égard de ces marchandises;
+	- **d)** peut être pris au-delà de la période visée à l’alinéa c) aux termes d’un accord conclu par le gouvernement du Canada et celui de la République du Panama portant sur l’application du paragraphe (1).
+
+**Taux à la cessation d’effet**
+
+- **(3)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui applicable en conformité avec l’article 49.41.
+
+**Définition de cause principale**
+
+- **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+> 2012, ch. 26, art. 46.
+
+
+
+
+
 #### Mesures d’urgence bilatérales : Pérou
 
 
@@ -2674,9 +2786,10 @@ Pérou
 - **f)** le paragraphe 70(2);
 - **g)** le paragraphe 71.01(1);
 - **h)** le paragraphe 71.1(2);
-- **i)** le paragraphe 71.5(1);
-- **j)** le paragraphe 71.6(1).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44.
+- **i)** le paragraphe 71.41(1);
+- **j)** le paragraphe 71.5(1);
+- **k)** le paragraphe 71.6(1).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63.
 
 
 
@@ -3714,6 +3827,8 @@ Liechtenstein
 
 Norvège
 
+Panama
+
 pays ALÉNA
 
 Pérou
@@ -3731,6 +3846,8 @@ Israël ou autre bénéficiaire de l’ALÉCI
 
 Jordanie
 
+Panama
+
 pays ALÉNA
 
 Pérou
@@ -3741,7 +3858,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62.
 
 
 
