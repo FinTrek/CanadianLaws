@@ -637,6 +637,20 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
+**29.1** 
+
+- **(1)** Pour l’application des paragraphes 27.1(1) et (1.1) de la Loi et sous réserve du paragraphe (2), le ministre peut accorder une prolongation de délai pour la présentation d’une demande de révision d’une décision de refus ou de liquidation, s’il est convaincu, d’une part, qu’il existe une explication raisonnable à l’appui de la demande de prolongation du délai et, d’autre part, que l’intéressé a manifesté l’intention constante de demander la révision.
+
+- **(2)** Dans les cas ci-après, le ministre doit aussi être convaincu que la demande de révision a des chances raisonnables de succès et que l’autorisation du délai supplémentaire ne lui porte pas préjudice ni d’ailleurs à aucune autre partie :
+	- **a)** la demande de révision est présentée après 365 jours suivant celui où il est avisé par écrit de la décision de refus ou de liquidation;
+	- **b)** elle est présentée par une personne qui demande pour la seconde fois la même prestation.
+
+- **(3)** Le ministre peut prendre les mesures nécessaires pour obtenir les renseignements dont il a besoin pour lui permettre de décider s’il y a lieu d’accorder un délai plus long pour la présentation de la demande de révision.
+> DORS/2013-62, art. 1.
+
+
+
+
 **30 à 37** [Abrogés, DORS/96-521, art. 18]
 
 
@@ -645,30 +659,30 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 ### Renvoi devant la Cour canadienne de l’impôt
 
 
-**38** Lorsque le motif d’appel prévu au paragraphe 28(2) de la Loi est invoqué dans un avis d’appel envoyé conformément au paragraphe 28(1) de la Loi, le commissaire des tribunaux de révision, au sens de l’article 2 du [Règlement sur le Régime de pensions du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/301-400/C.R.C.,%20ch.%20385.md), doit :
-- **a)** informer l’appelant et le ministre que l’appel de l’appelant ainsi motivé est renvoyé devant la Cour conformément au paragraphe 28(2) de la Loi;
-- **b)** transmettre au greffier de la Cour une copie des documents pertinents relatifs au renvoi conformément à l’article 5 des Règles de procédure des tribunaux de révision.
-> DORS/89-269, art. 10; DORS/96-521, art. 19; DORS/2000-133, art. 12(F).
+**38** Si le motif d’appel prévu au paragraphe 28(2) de la Loi est invoqué dans le cadre d’un appel interjeté en vertu du paragraphe 28(1) de la Loi, le Tribunal de la sécurité sociale doit :
+- **a)** informer l’appelant et le ministre que l’appel ainsi motivé est renvoyé pour décision devant la Cour en application du paragraphe 28(2) de la Loi;
+- **b)** transmettre au greffier de la Cour une copie des documents déposés dans le cadre de l’appel qui sont pertinents au motif d’appel prévu au paragraphe 28(2).
+> DORS/89-269, art. 10; DORS/96-521, art. 19; DORS/2000-133, art. 12(F); DORS/2013-62, art. 2.
 
 
 
 
 **38.1** 
 
-- **(1)** Dans le cas où un appel est interjeté au sujet d’un renvoi conformément au paragraphe 28(2) de la Loi et que, de l’avis du ministre, une personne autre que l’appelant peut être directement touchée par la décision de la Cour, le ministre doit en informer le commissaire des tribunaux de révision.
+- **(1)** Dans le cas où un appel est interjeté au sujet d’un renvoi conformément au paragraphe 28(2) de la Loi et que, de l’avis du ministre, une personne autre que l’appelant peut être directement touchée par la décision de la Cour, le ministre doit en informer le Tribunal de la sécurité sociale.
 
-- **(2)** Le commissaire des tribunaux de révision doit immédiatement en informer le greffier de la Cour qui met alors en cause cette personne.
-> DORS/96-521, art. 19; DORS/2000-133, art. 12(F).
+- **(2)** Le Tribunal de la sécurité sociale doit immédiatement en informer le greffier de la Cour qui met alors en cause cette personne.
+> DORS/96-521, art. 19; DORS/2000-133, art. 12(F); DORS/2013-62, art. 5.
 
 
 
 
 **39** 
 
-- **(1)** Le greffier de la Cour doit sans délai aviser le juge en chef de la Cour, le commissaire des tribunaux de révision, le ministre et toute personne mise en cause dans l’appel de la réception des documents transmis par le commissaire des tribunaux de révision conformément à l’alinéa 38b).
+- **(1)** Le greffier de la Cour doit sans délai aviser le juge en chef de la Cour, le Tribunal de la sécurité sociale, le ministre et toute personne mise en cause dans l’appel de la réception des documents transmis par le Tribunal de la sécurité sociale conformément à l’alinéa 38b).
 
 - **(2)** Lorsque le juge en chef de la Cour est avisé de la réception des documents conformément au paragraphe (1), il doit nommer un juge de la Cour pour entendre le renvoi.
-> DORS/89-269, art. 11; DORS/96-521, art. 20; DORS/2000-133, art. 12(F).
+> DORS/89-269, art. 11; DORS/96-521, art. 20; DORS/2000-133, art. 12(F); DORS/2013-62, art. 5.
 
 
 
@@ -683,8 +697,8 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 - **(2)** L’audition d’un renvoi doit avoir lieu dans la cité, la ville ou le village où réside ordinairement l’appelant ou le plus rapproché de son lieu de résidence habituel, à moins que l’appelant ne consente par écrit à ce que l’audition se tienne dans un autre endroit.
 
-- **(3)** Le greffier de la Cour doit, par courrier recommandé, informer l’appelant, le commissaire des tribunaux de révision, le ministre et toute personne mise en cause dans l’appel de la date, de l’heure et du lieu de l’audition du renvoi.
-> DORS/89-269, art. 12; DORS/96-521, art. 21; DORS/2000-133, art. 12(F).
+- **(3)** Le greffier de la Cour doit, par courrier recommandé, informer l’appelant, le Tribunal de la sécurité sociale, le ministre et toute personne mise en cause dans l’appel de la date, de l’heure et du lieu de l’audition du renvoi.
+> DORS/89-269, art. 12; DORS/96-521, art. 21; DORS/2000-133, art. 12(F); DORS/2013-62, art. 5.
 
 
 
@@ -721,8 +735,8 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 - **(1)** Le juge nommé conformément au paragraphe 39(2) doit informer le greffier de la Cour de sa décision.
 
-- **(2)** Après avoir été informé de la décision conformément au paragraphe (1), le greffier de la Cour doit transmettre à l’appelant, au commissaire des tribunaux de révision, au ministre et à toute personne mise en cause dans l’appel une copie conforme de la décision.
-> DORS/89-269, art. 13; DORS/96-521, art. 24; DORS/2000-133, art. 12(F).
+- **(2)** Après avoir été informé de la décision conformément au paragraphe (1), le greffier de la Cour doit transmettre à l’appelant, au Tribunal de la sécurité sociale, au ministre et à toute personne mise en cause dans l’appel une copie conforme de la décision.
+> DORS/89-269, art. 13; DORS/96-521, art. 24; DORS/2000-133, art. 12(F); DORS/2013-62, art. 5.
 
 
 
@@ -733,8 +747,8 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
-**46** Lorsque l’avis d’appel invoque un motif d’appel non renvoyé à la Cour selon le paragraphe 28(2) de la Loi ainsi qu’un motif d’appel renvoyé à la Cour conformément à ce paragraphe, le commissaire des tribunaux de révision doit, dès réception d’une copie conforme de la décision de la Cour, prendre les mesures prévues dans les Règles de procédure des tribunaux de révision.
-> DORS/89-269, art. 13; DORS/96-521, art. 25.
+**46** Si l’appel invoque un motif d’appel non renvoyé à la Cour selon le paragraphe 28(2) de la Loi ainsi qu’un motif d’appel renvoyé à la Cour conformément à ce paragraphe, le Tribunal de la sécurité sociale doit, dès réception d’une copie conforme de la décision de la Cour, prendre les mesures prévues par le [Règlement sur le Tribunal de la sécurité sociale](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/60.md).
+> DORS/89-269, art. 13; DORS/96-521, art. 25; DORS/2013-62, art. 3.
 
 
 
@@ -771,7 +785,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 - **(4)** Les intérêts courent sur une créance, à un taux qui est calculé quotidiennement et composé mensuellement au taux d’escompte moyen majoré de 3 %.
 
-- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 27.1(2) de la Loi, la durée de tout appel en vertu du paragraphe 28(1) de la Loi ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
+- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 27.1(2) de la Loi, la durée de tout appel en vertu du paragraphe 28(1) de la Loi, tout appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
 
 - **(6)** Les intérêts sur la créance ou une partie de la créance, selon le cas, cessent de courir le jour :
 	- **a)** précédant celui où un paiement prévu à l’égard de la créance ou le paiement intégral de la créance, selon le cas, est reçu par Sa Majesté;
@@ -780,7 +794,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 		- **(i)** soit en vertu du paragraphe 44.1(4) de la Loi,
 		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 44.1 de la Loi :
 			- **(A)** celle du ministre en vertu du paragraphe 27.1(2) de la Loi,
-			- **(B)** celle faisant suite à un appel en vertu du paragraphe 28(1) de la Loi ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
+			- **(B)** celle faisant suite à un appel en vertu du paragraphe 28(1) de la Loi, un appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
 	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
 	- **e)** où le débiteur décède.
 
@@ -789,7 +803,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 	- **b)** les intérêts ne pourront être recouvrés dans un avenir suffisamment rapproché;
 	- **c)** les frais administratifs associés au recouvrement des intérêts seraient plus élevés que les intérêts dus;
 	- **d)** le paiement des intérêts causerait un préjudice injustifié au débiteur.
-> DORS/2010-45, art. 26.
+> DORS/2010-45, art. 26; DORS/2013-62, art. 4.
 
 
 
