@@ -101,9 +101,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** The order in council appointing the Commissioner shall be published in the Canada Gazette.
 
-**Action of Commissioner**
+- **(3)** [Repealed, 2002, c. 7, s. 68]
+> 2002, c. 7, ss. 4, 68.
 
-- **(3)** The Commissioner shall act in accordance with any written instructions given to the Commissioner by the Governor in Council or the Minister.
 
 
 
