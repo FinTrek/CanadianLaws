@@ -11,7 +11,7 @@ Sanctionnée sur le 23 juin 1992
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -79,25 +79,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** Les définitions qui suivent s’appliquent à la présente partie.
 
-***accord-cadre*** Accord écrit conclu entre un producteur et une association d’artistes et comportant des dispositions relatives aux conditions minimales pour les prestations de services des artistes et à des questions connexes.
+***accord-cadre*** Accord écrit conclu entre un producteur et une association d’artistes et comportant des dispositions relatives aux conditions minimales pour les prestations de services des artistes et à des questions connexes. (*scale agreement*)
 
-***artiste*** Entrepreneur indépendant visé à l’alinéa 6(2)b).
+***artiste*** Entrepreneur indépendant visé à l’alinéa 6(2)b). (*artist*)
 
-***association d’artistes*** Groupement — y compris toute division ou section locale de celui-ci — ayant parmi ses objets la promotion ou la gestion des intérêts professionnels et socio-économiques des artistes qui en sont membres; la présente définition vise également les regroupements d’associations.
+***association d’artistes*** Groupement — y compris toute division ou section locale de celui-ci — ayant parmi ses objets la promotion ou la gestion des intérêts professionnels et socio-économiques des artistes qui en sont membres; la présente définition vise également les regroupements d’associations. (*artists’ association*)
 
-***ministre*** Le ministre du Travail.
+***Conseil*** Le Conseil canadien des relations industrielles constitué par l’article 9 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md). (*Board*)
 
-***moyen de pression*** S’entend notamment :
+***ministre*** Le ministre du Travail. (*Minister*)
+
+***moyen de pression*** S’entend notamment :
 - **a)** d’un arrêt ou refus de prestation de services par des artistes ou des associations d’artistes agissant conjointement, de concert ou de connivence, pris par les artistes ou les associations pour contraindre le producteur à accepter des conditions d’engagement; lui sont assimilés le ralentissement de travail ou toute autre activité concertée, de la part des artistes ou des associations, relative à la prestation de leurs services;
-- **b)** d’une mesure — fermeture du lieu de travail, suspension du travail ou refus de continuer à utiliser les services d’un ou plusieurs artistes — prise par le producteur soit pour contraindre les artistes à accepter des conditions d’engagement, soit pour aider un autre producteur à réaliser cette même fin.
+- **b)** d’une mesure — fermeture du lieu de travail, suspension du travail ou refus de continuer à utiliser les services d’un ou plusieurs artistes — prise par le producteur soit pour contraindre les artistes à accepter des conditions d’engagement, soit pour aider un autre producteur à réaliser cette même fin. (*pressure tactic*)
 
 ***partie***
 - **a)** En matière de conclusion, renouvellement ou révision d’un accord-cadre, ou de conflit sur l’interprétation, le champ d’application, la mise en oeuvre ou la prétendue violation d’un accord-cadre, le producteur et l’association d’artistes;
-- **b)** dans le cas d’une plainte déposée devant le Tribunal, le plaignant et la personne ou l’organisation visée par la plainte.
+- **b)** dans le cas d’une plainte déposée devant le Conseil, le plaignant et la personne ou l’organisation visée par la plainte. (*party*)
 
-***producteur*** Les institutions fédérales et les entreprises de radiodiffusion visées à l’alinéa 6(2)a); la présente définition vise à la fois le producteur unique et toute association de tels producteurs.
+***producteur*** Les institutions fédérales et les entreprises de radiodiffusion visées à l’alinéa 6(2)a); la présente définition vise à la fois le producteur unique et toute association de tels producteurs. (*producer*)
 
-***Tribunal*** Le Tribunal canadien des relations professionnelles artistes-producteurs.
+***Tribunal***[Abrogée, 2012, ch. 19, art. 532]
+> 1992, ch. 33, art. 5; 2012, ch. 19, art. 532.
+
 
 
 
@@ -166,133 +170,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La présente partie ne s’applique pas, pour les activités qui relèvent de leurs fonctions :
 	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — notamment déterminés par la Commission des relations de travail dans la fonction publique ou faisant partie d’une unité de négociation accréditée par celle-ci;
-	- **b)** aux employés — au sens de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — notamment déterminés par le Conseil canadien des relations industrielles ou faisant partie d’une unité de négociation accréditée par celui-ci.
-> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A).
+	- **b)** aux employés — au sens de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — notamment déterminés par le Conseil ou faisant partie d’une unité de négociation accréditée par celui-ci.
+> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A); 2012, ch. 19, art. 533.
 
 
 
 
 
-### Tribunal canadien des relations professionnelles artistes-producteurs
+### Conseil canadien des relations industrielles
 
 
+**10** [Abrogé, 2012, ch. 19, art. 534]
 
-#### Constitution et organisation
 
 
+**11** [Abrogé, 2012, ch. 19, art. 534]
 
-**Constitution**
 
-**10** 
 
-- **(1)** Est constitué le Tribunal canadien des relations professionnelles artistes-producteurs, composé d’un président et d’un vice-président et de deux à quatre autres membres à temps plein ou partiel.
+**12** [Abrogé, 2012, ch. 19, art. 534]
 
-**Nomination**
 
-- **(2)** Les membres, qui sont nommés, sur recommandation du ministre, faite en consultation par celui-ci du ministre du Patrimoine canadien, par le gouverneur en conseil, exercent leur charge à titre inamovible sous réserve de révocation motivée de celui-ci.
 
-**Mandat**
+**13** [Abrogé, 2012, ch. 19, art. 534]
 
-- **(3)** Le mandat maximal est respectivement de sept ans, pour le président, de cinq ans, pour le vice-président et les membres à temps plein, et de trois ans, pour les autres membres.
 
-**Reconduction**
 
-- **(4)** Le mandat des membres peut être reconduit à des fonctions identiques ou non.
+**14** [Abrogé, 2012, ch. 19, art. 534]
 
-**Exercice des fonctions**
 
-- **(5)** Les membres à temps plein se consacrent exclusivement à leurs fonctions.
 
-**Conflits d’intérêt**
-
-- **(6)** Les membres ne peuvent accepter ni occuper de charge ou d’emploi incompatibles avec leurs fonctions, ni se saisir d’une affaire dans laquelle ils ont un intérêt.
-> 1992, ch. 33, art. 10; 1995, ch. 11, art. 39.
-
-
-
-
-
-**Fonctions du président**
-
-**11** 
-
-- **(1)** Le président est le premier dirigeant du Tribunal; à ce titre, il en assure la direction et contrôle la gestion de son personnel; il peut notamment répartir les tâches entre les membres et désigner les présidents de séance.
-
-**Règlements administratifs**
-
-- **(2)** Le Tribunal peut, par règlement administratif, régir son activité et la conduite de ses travaux.
-
-**Délégation**
-
-- **(3)** Le président peut déléguer tel de ses pouvoirs, à l’exception du pouvoir de délégation, à tout autre membre.
-
-**Intérim du président**
-
-- **(4)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président.
-
-**Choix d’un autre intérimaire**
-
-- **(5)** En cas d’absence ou d’empêchement du président et du vice-président ou de vacance de leurs postes, la présidence est assumée par le membre que désigne le Tribunal.
-
-
-
-
-**Rémunération**
-
-**12** 
-
-- **(1)** Les membres reçoivent la rémunération fixée par le gouverneur en conseil et ont droit aux frais de déplacement et autres entraînés par l’accomplissement de leurs fonctions hors du lieu habituel de leur résidence.
-
-**Rattachement**
-
-- **(2)** Les membres à temps plein sont respectivement rattachés à la fonction publique, pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), et à l’administration publique fédérale, pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1992, ch. 33, art. 12; 2003, ch. 22, art. 221(A).
-
-
-
-
-
-**Siège**
-
-**13** 
-
-- **(1)** Sur recommandation du ministre, faite après consultation par celui-ci du ministre du Patrimoine canadien, le gouverneur en conseil fixe le siège du Tribunal; celui-ci fixe les bureaux dont il estime la création nécessaire.
-
-**Réunions et quorum**
-
-- **(2)** Le Tribunal peut tenir ses réunions et audiences au Canada, aux dates, heures et lieux qu’il estime indiqués, le quorum étant, sous réserve des paragraphes 14(2) et (4), de trois membres.
-> 1992, ch. 33, art. 13; 1995, ch. 11, art. 40.
-
-
-
-
-
-**Décisions et ordonnances du Tribunal**
-
-**14** 
-
-- **(1)** La décision ou l’ordonnance rendue par la majorité des membres présents vaut décision de l’ensemble du Tribunal. En cas de partage, le président de séance a voix prépondérante.
-
-**Exception**
-
-- **(2)** Un membre peut décider seul d’une demande ou d’une question non contestée dont le Tribunal est saisi, sa décision valant alors décision de l’ensemble du Tribunal; il est alors investi des droits, pouvoirs et immunités conférés au Tribunal par la présente partie, exception faite du pouvoir réglementaire, et est assujetti aux obligations et restrictions imposées au Tribunal.
-
-**Participation après cessation des fonctions**
-
-- **(3)** Le membre qui a cessé d’exercer sa charge peut, à la demande du président, participer aux audiences et aux décisions à rendre sur les affaires dont il était saisi. Il conserve à cette fin sa qualité de membre.
-
-**Participation impossible**
-
-- **(4)** En cas de décès ou d’empêchement de tout membre y ayant participé, les autres membres qui ont entendu l’affaire peuvent la poursuivre et la trancher.
-
-
-
-
-**Personnel**
-
-**15** Le personnel nécessaire à l’exercice de l’activité du Tribunal est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et est rattaché à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-> 1992, ch. 33, art. 15; 2003, ch. 22, art. 225(A).
-
+**15** [Abrogé, 2012, ch. 19, art. 534]
 
 
 
@@ -303,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**16** Le Tribunal peut, par règlement d’application générale, prendre toute mesure qu’il estime utile en vue de l’exercice de ses attributions, notamment en ce qui touche :
+**16** Le Conseil peut, par règlement, prendre toute mesure qu’il estime utile en vue de l’exercice de ses attributions au titre de la présente partie, notamment en ce qui touche :
 - **a)** les règles de pratique et de procédure, ainsi que la fixation et l’attribution des dépens;
 - **b)** l’accréditation des associations d’artistes;
 - **c)** la tenue de scrutins de représentation;
@@ -316,13 +224,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **j)** les critères servant à déterminer si un artiste est représenté par une association;
 - **k)** les circonstances lui permettant de recevoir des éléments de preuve attestant la volonté d’artistes d’être représentés ou non par une association donnée, ainsi que les cas où il ne peut rendre publics ces éléments;
 - **l)** la délégation de ses fonctions, à l’exception du pouvoir de déléguer et de prendre des règlements, et les pouvoirs et obligations des délégataires.
+> 1992, ch. 33, art. 16; 2012, ch. 19, art. 535.
 
 
 
 
-**Pouvoirs du Tribunal**
 
-**17** Le Tribunal peut, dans le cadre de toute affaire dont il est saisi :
+**Pouvoirs du Conseil**
+
+**17** Le Conseil peut, dans le cadre de toute affaire dont il est saisi au titre de la présente partie :
 - **a)** convoquer, d’office ou sur demande, toute personne dont il estime le témoignage nécessaire et la contraindre à comparaître et à déposer sous serment, oralement ou par écrit, ainsi qu’à produire les documents et pièces qu’il estime nécessaires pour mener à bien ses enquêtes et examens sur les questions de sa compétence;
 - **b)** faire prêter serment et recevoir des affirmations solennelles;
 - **c)** accepter sous serment, par voie d’affidavit ou sous une autre forme, tous témoignages et renseignements qu’il juge indiqués, qu’ils soient admissibles ou non en justice;
@@ -330,7 +240,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** examiner les documents constitutifs ou les statuts et règlements de l’association d’artistes, ainsi que tout document connexe émanant d’elle;
 - **f)** procéder, s’il le juge nécessaire, à l’examen de dossiers ou registres et à la tenue d’enquêtes;
 - **g)** obliger un producteur ou une association d’artistes à afficher, en permanence et aux endroits appropriés, les avis qu’il estime nécessaire de porter à l’attention des artistes sur toute question dont il est saisi;
-- **h)** ordonner à tout moment, avant d’y apporter une conclusion définitive :
+- **h)** ordonner à tout moment, avant d’y apporter une conclusion définitive :
 	- **(i)** que soit tenu un scrutin de représentation, ou un scrutin de représentation supplémentaire, chez les artistes en cause s’il estime qu’une telle mesure l’aiderait à trancher un point soulevé, ou susceptible de l’être, qu’un tel scrutin de représentation soit ou non prévu pour le cas dans la présente partie,
 	- **(ii)** que les bulletins de vote déposés au cours d’un scrutin de représentation soient conservés dans des urnes scellées et ne soient pas dépouillés sans son autorisation;
 - **i)** déléguer les pouvoirs que lui confèrent les alinéas a) à h) en exigeant, éventuellement, un rapport de la part du délégataire;
@@ -340,13 +250,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **m)** mettre toute personne en cause à toute étape;
 - **n)** arrêter les mesures de publicité à donner aux demandes présentées au titre de la présente partie;
 - **o)** accorder des dépens;
-- **p)** trancher toute question qui peut survenir, et notamment déterminer :
+- **p)** trancher toute question qui peut survenir, et notamment déterminer :
 	- **(i)** si une personne est un producteur ou un artiste,
 	- **(ii)** si un artiste adhère à une association d’artistes ou est représenté par celle-ci,
 	- **(iii)** si une organisation est une association de producteurs, d’associations d’artistes ou d’artistes,
 	- **(iv)** si un groupe d’artistes constitue un secteur pouvant faire l’objet de négociations,
 	- **(v)** si un accord-cadre a été conclu, est en vigueur et quelles sont ses dates de prise d’effet et d’expiration,
 	- **(vi)** si une personne ou une association est partie à un accord-cadre ou liée par celui-ci.
+> 1992, ch. 33, art. 17; 2012, ch. 19, art. 536.
+
 
 
 
@@ -357,9 +269,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Critères**
 
-**18** Le Tribunal tient compte, pour toute question liée :
+**18** Le Conseil tient compte, pour toute question liée :
 - **a)** à l’application de la présente partie, des principes applicables du droit du travail;
 - **b)** à la détermination du caractère professionnel de l’activité d’un entrepreneur indépendant — pour l’application de l’alinéa 6(2)b) — , du fait que ses prestations sont communiquées au public contre rémunération et qu’il a reçu d’autres artistes des témoignages de reconnaissance de son statut, qu’il est en voie de devenir un artiste selon les usages du milieu ou qu’il est membre d’une association d’artistes.
+> 1992, ch. 33, art. 18; 2012, ch. 19, art. 537.
+
 
 
 
@@ -372,31 +286,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **19** 
 
-- **(1)** Dans la mesure où les circonstances et l’équité le permettent, le Tribunal fonctionne sans formalisme et avec célérité. Il n’est pas lié par les règles légales ou techniques de présentation de la preuve et peut recevoir les éléments qu’il juge dignes de foi en l’espèce et fonder sur eux sa décision.
+- **(1)** Dans la mesure où les circonstances et l’équité le permettent, le Conseil fonctionne, dans le cadre des affaires dont il est saisi au titre de la présente partie, sans formalisme et avec célérité. Il n’est pas lié par les règles légales ou techniques de présentation de la preuve et peut recevoir les éléments qu’il juge dignes de foi en l’espèce et fonder sur eux sa décision.
 
 **Consultation**
 
-- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, les membres peuvent, dans le cadre des affaires dont le Tribunal est saisi, en consulter d’autres membres, de même que son personnel.
+- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, les membres peuvent, dans le cadre des affaires dont le Conseil est saisi, consulter d’autres membres, de même que son personnel.
 
 **Intervention et comparution**
 
-- **(3)** Tous les intéressés peuvent, sur autorisation du Tribunal, intervenir dans les affaires dont il est saisi; quiconque comparaît devant lui peut le faire en personne ou en étant représenté par un avocat ou un mandataire.
+- **(3)** Tous les intéressés peuvent, sur autorisation du Conseil, intervenir dans les affaires dont il est saisi; quiconque comparaît devant lui peut le faire en personne ou en étant représenté par un avocat ou un mandataire.
 
 **Admission d’office**
 
-- **(4)** Le Tribunal peut admettre d’office les faits ainsi admissibles en justice de même que les faits généralement reconnus et les renseignements qui ressortissent à sa spécialisation.
+- **(4)** Le Conseil peut admettre d’office les faits ainsi admissibles en justice de même que les faits généralement reconnus et les renseignements qui ressortissent à sa spécialisation.
 
 **Avis d’intention**
 
-- **(5)** Sauf pour les faits admissibles d’office, le Tribunal informe les parties et les intervenants de son intention d’admettre des faits ou renseignements et leur donne la possibilité de présenter leurs observations à cet égard.
+- **(5)** Sauf pour les faits admissibles d’office, le Conseil informe les parties et les intervenants de son intention d’admettre des faits ou renseignements et leur donne la possibilité de présenter leurs observations à cet égard.
 
 **Rassemblement de la preuve**
 
-- **(6)** Le président peut charger un membre de recueillir des éléments de preuve et de préparer à son intention un rapport qui est ensuite transmis aux parties et aux intervenants.
+- **(6)** Le président du Conseil peut charger un membre de recueillir des éléments de preuve et de préparer à son intention un rapport qui est ensuite transmis aux parties et aux intervenants.
 
 **Conclusions**
 
-- **(7)** Le cas échéant, le Tribunal peut, après avoir donné aux parties et aux intervenants la possibilité de présenter leurs observations, se fonder sur le rapport pour rendre sa décision ou procéder à toute audition qu’il estime indiquée en l’espèce.
+- **(7)** Le cas échéant, le Conseil peut, après avoir donné aux parties et aux intervenants la possibilité de présenter leurs observations, se fonder sur le rapport pour rendre sa décision ou procéder à toute audience qu’il estime indiquée en l’espèce.
+> 1992, ch. 33, art. 19; 2012, ch. 19, art. 538.
+
 
 
 
@@ -405,11 +321,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** 
 
-- **(1)** Le Tribunal peut maintenir, annuler ou modifier ses décisions ou ordonnances et réinstruire une affaire avant de la trancher.
+- **(1)** Le Conseil peut maintenir, annuler ou modifier les décisions ou les ordonnances qu’il rend dans le cadre de la présente partie et réinstruire une affaire avant de la trancher.
 
 **Décisions partielles**
 
-- **(2)** Dans les cas où, pour statuer de façon définitive sur une demande ou une plainte, il est nécessaire de trancher auparavant un ou plusieurs points litigieux, le Tribunal peut, s’il est convaincu de pouvoir le faire sans porter atteinte aux droits des parties et des intervenants, rendre une décision ou ordonnance ne réglant que tel de ces points et différer sa décision sur les autres.
+- **(2)** Dans les cas où, pour statuer de façon définitive sur une demande ou une plainte, il est nécessaire de trancher auparavant un ou plusieurs points litigieux, le Conseil peut, s’il est convaincu de pouvoir le faire sans porter atteinte aux droits des parties et des intervenants, rendre une décision ou ordonnance ne réglant que tel de ces points et différer sa décision sur les autres.
+> 1992, ch. 33, art. 20; 2012, ch. 19, art. 538.
+
 
 
 
@@ -422,12 +340,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **21** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, les décisions et ordonnances du Tribunal sont définitives et ne sont susceptibles de contestation ou de révision par voie judiciaire que pour les motifs visés aux alinéas 18.1(4)a), b) ou e) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et dans le cadre de cette loi.
+- **(1)** Sous réserve des autres dispositions de la présente partie, les décisions et ordonnances du Conseil sont définitives et ne sont susceptibles de contestation ou de révision judiciaire que pour les motifs visés aux alinéas 18.1(4)a), b) ou e) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et dans le cadre de cette loi.
 
 **Interdiction des recours extraordinaires**
 
-- **(2)** Sauf dans les cas prévus au paragraphe (1), aucune mesure prise ou censée prise par le Tribunal dans le cadre de la présente partie ne peut, pour quelque motif, y compris pour excès de pouvoir ou incompétence, être contestée, révisée, empêchée ou limitée ou faire l’objet d’un recours judiciaire, notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto*.
-> 1992, ch. 33, art. 21; 2002, ch. 8, art. 182.
+- **(2)** Sauf dans les cas prévus au paragraphe (1), aucune mesure prise ou paraissant prise par le Conseil dans le cadre de la présente partie ne peut, pour quelque motif, y compris pour excès de pouvoir ou incompétence, être contestée, révisée, empêchée ou limitée ou faire l’objet d’un recours judiciaire, notamment par voie d’injonction, d’évocation, de révision, de *certiorari*, de prohibition ou de *quo warranto*.
+> 1992, ch. 33, art. 21; 2002, ch. 8, art. 182; 2012, ch. 19, art. 538.
 
 
 
@@ -437,15 +355,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** D’office ou sur demande écrite d’une partie, le Tribunal dépose à la Cour fédérale une copie du dispositif de la décision ou de l’ordonnance sauf s’il estime que rien ne laisse croire qu’elle n’a pas été ou ne sera pas exécutée ou que, pour d’autres motifs valables, le dépôt ne serait d’aucune utilité.
+- **(1)** D’office ou sur demande écrite d’une partie, le Conseil dépose à la Cour fédérale une copie du dispositif de la décision ou de l’ordonnance sauf s’il estime que rien ne laisse croire qu’elle n’a pas été ou ne sera pas exécutée ou que, pour d’autres motifs valables, le dépôt ne serait d’aucune utilité.
 
 **Enregistrement**
 
-- **(2)** Le Tribunal doit alors préciser par écrit qu’il procède au dépôt conformément au paragraphe (1); la Cour fédérale reçoit ensuite la copie et procède à son enregistrement, sans plus de formalité.
+- **(2)** Le Conseil doit alors préciser par écrit qu’il procède au dépôt conformément au paragraphe (1); la Cour fédérale reçoit ensuite la copie et procède à son enregistrement, sans plus de formalité.
 
 **Effet de l’enregistrement**
 
 - **(3)** L’enregistrement confère la valeur d’un jugement de la Cour fédérale à la décision ou à l’ordonnance et, dès lors et à ce titre, ouvre droit aux mêmes procédures ultérieures, comme s’il s’agissait d’un jugement de ce tribunal.
+> 1992, ch. 33, art. 22; 2012, ch. 19, art. 539.
+
 
 
 
@@ -486,11 +406,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dépôt d’un avis d’association**
 
-- **(2)** Une fois constituée, l’association est tenue de déposer auprès du Tribunal, avec tous autres renseignements que celui-ci peut demander, une liste, qu’elle tient à jour, de ses membres et d’en faire parvenir un exemplaire à toute association d’artistes accréditée à qui un avis de négociation a été donné en application de l’article 31 ou de qui elle a reçu un tel avis.
+- **(2)** Une fois constituée, l’association est tenue de déposer auprès du Conseil, avec tous autres renseignements que celui-ci peut demander, une liste, qu’elle tient à jour, de ses membres et d’en faire parvenir un exemplaire à toute association d’artistes accréditée à qui un avis de négociation a été donné en application de l’article 31 ou de qui elle a reçu un tel avis.
 
 **Effet du dépôt**
 
 - **(3)** Le dépôt de la liste emporte le droit exclusif de négocier au nom des producteurs membres de l’association en vue de la conclusion d’un accord-cadre ou de sa modification.
+> 1992, ch. 33, art. 24; 2012, ch. 19, art. 540.
+
 
 
 
@@ -503,22 +425,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Toute association d’artistes dûment autorisée par ses membres peut demander au Tribunal de l’accréditer pour un ou plusieurs secteurs :
-	- **a)** à tout moment, si la demande vise un ou des secteurs pour lesquels aucune association n’est accréditée et si le Tribunal n’a été saisi d’aucune autre demande;
+- **(1)** Toute association d’artistes dûment autorisée par ses membres peut demander au Conseil de l’accréditer pour un ou plusieurs secteurs :
+	- **a)** à tout moment, si la demande vise un ou des secteurs pour lesquels aucune association n’est accréditée et si le Conseil n’a été saisi d’aucune autre demande;
 	- **b)** dans les trois mois précédant la date d’expiration d’une accréditation ou de son renouvellement, s’il y a au moins un accord-cadre en vigueur pour le secteur visé;
-	- **c)** sinon, un an après la date de l’accréditation ou de son renouvellement, ou dans le délai inférieur fixé, sur demande, par le Tribunal.
+	- **c)** sinon, un an après la date de l’accréditation ou de son renouvellement, ou dans le délai inférieur fixé, sur demande, par le Conseil.
 
 **Documents à fournir**
 
-- **(2)** La demande est accompagnée d’une copie certifiée conforme des règlements de l’association, de la liste de ses membres et de tout autre renseignement requis par le Tribunal.
+- **(2)** La demande est accompagnée d’une copie certifiée conforme des règlements de l’association, de la liste de ses membres et de tout autre renseignement requis par le Conseil.
 
 **Publicité à donner à la demande**
 
-- **(3)** Le Tribunal fait, dès que possible, publier un avis de toute demande d’accréditation pour un secteur donné et y précise le délai dans lequel d’autres associations d’artistes pourront, par dérogation au paragraphe (1), solliciter l’accréditation pour tout ou partie de ce secteur.
+- **(3)** Le Conseil fait, dès que possible, publier un avis de toute demande d’accréditation pour un secteur donné et y précise le délai dans lequel d’autres associations d’artistes pourront, par dérogation au paragraphe (1), solliciter l’accréditation pour tout ou partie de ce secteur.
 
 **Irrecevabilité**
 
-- **(4)** La demande d’accréditation est toutefois, sauf autorisation du Tribunal, irrecevable une fois expiré le délai mentionné au paragraphe (3).
+- **(4)** La demande d’accréditation est toutefois, sauf autorisation du Conseil, irrecevable une fois expiré le délai mentionné au paragraphe (3).
+> 1992, ch. 33, art. 25; 2012, ch. 19, art. 541.
+
 
 
 
@@ -531,15 +455,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **26** 
 
-- **(1)** Une fois expiré le délai mentionné au paragraphe 25(3), le Tribunal définit le ou les secteurs de négociation visés et tient compte notamment de la communauté d’intérêts des artistes en cause et de l’historique des relations professionnelles entre les artistes, leurs associations et les producteurs concernés en matière de négociations, d’accords-cadres et de toutes autres ententes portant sur des conditions d’engagement d’artistes, ainsi que des critères linguistiques et géographiques qu’il estime pertinents.
+- **(1)** Une fois expiré le délai mentionné au paragraphe 25(3), le Conseil définit le ou les secteurs de négociation visés et tient compte notamment de la communauté d’intérêts des artistes en cause et de l’historique des relations professionnelles entre les artistes, leurs associations et les producteurs concernés en matière de négociations, d’accords-cadres et de toutes autres ententes portant sur des conditions d’engagement d’artistes, ainsi que des critères linguistiques et géographiques qu’il estime pertinents.
 
 **Intervention**
 
-- **(2)** Les artistes visés par une demande, les associations d’artistes et les producteurs peuvent intervenir devant le Tribunal, sans l’autorisation visée au paragraphe 19(3), sur toute question liée à la définition du secteur de négociation.
+- **(2)** Les artistes visés par une demande, les associations d’artistes et les producteurs peuvent intervenir devant le Conseil, sans l’autorisation visée au paragraphe 19(3), sur toute question liée à la définition du secteur de négociation.
 
 **Communication de la décision**
 
-- **(3)** Le Tribunal communique sans délai sa décision à l’association intéressée et aux intervenants; cette décision est réputée, par dérogation à l’article 21, interlocutoire.
+- **(3)** Le Conseil communique sans délai sa décision à l’association intéressée et aux intervenants; cette décision est réputée, par dérogation à l’article 21, interlocutoire.
+> 1992, ch. 33, art. 26; 2012, ch. 19, art. 541.
+
 
 
 
@@ -548,11 +474,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **27** 
 
-- **(1)** Une fois le secteur défini, le Tribunal détermine, à la date du dépôt de la demande ou à toute autre date qu’il estime indiquée, la représentativité de l’association d’artistes.
+- **(1)** Une fois le secteur défini, le Conseil détermine, à la date du dépôt de la demande ou à toute autre date qu’il estime indiquée, la représentativité de l’association d’artistes.
 
 **Intervention**
 
-- **(2)** Les artistes visés par la demande et les associations d’artistes peuvent intervenir devant le Tribunal, sans l’autorisation visée au paragraphe 19(3), sur toute question liée à la détermination de la représentativité.
+- **(2)** Seuls les artistes visés par la demande et les associations d’artistes peuvent intervenir devant le Conseil, sans l’autorisation visée au paragraphe 19(3), sur toute question liée à la détermination de la représentativité.
+> 1992, ch. 33, art. 27; 2012, ch. 19, art. 541.
+
 
 
 
@@ -565,7 +493,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** Le Tribunal délivre l’accréditation s’il est convaincu que l’association est la plus représentative du secteur visé.
+- **(1)** Le Conseil délivre l’accréditation s’il est convaincu que l’association est la plus représentative du secteur visé.
 
 **Durée et renouvellement**
 
@@ -573,18 +501,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prorogation**
 
-- **(3)** Le dépôt, dans les trois mois précédant l’expiration de l’accréditation ou de son renouvellement, d’une demande d’annulation ou d’une autre demande d’accréditation visant le même ou sensiblement le même secteur emporte prorogation de l’accréditation jusqu’à ce que le Tribunal statue sur la demande, le renouvellement ne prenant effet, en cas de rejet de celle-ci, qu’à la date de la décision.
+- **(3)** Le dépôt, dans les trois mois précédant l’expiration de l’accréditation ou de son renouvellement, d’une demande d’annulation ou d’une autre demande d’accréditation visant le même ou sensiblement le même secteur emporte prorogation de l’accréditation jusqu’à ce que le Conseil statue sur la demande, le renouvellement ne prenant effet, en cas de rejet de celle-ci, qu’à la date de la décision.
 
 **Registre**
 
-- **(4)** Le Tribunal tient un registre des accréditations avec mention de leur date de délivrance.
+- **(4)** Le Conseil tient un registre des accréditations avec mention de leur date de délivrance.
 
 **Effet**
 
-- **(5)** L’accréditation d’une association d’artistes emporte :
+- **(5)** L’accréditation d’une association d’artistes emporte :
 	- **a)** le droit exclusif de négocier au nom des artistes du secteur visé;
 	- **b)** révocation, en ce qui les touche, de l’accréditation de toute autre association;
 	- **c)** dans la mesure où ils sont visés, substitution de l’association — en qualité de partie à l’accord-cadre — à l’association nommément désignée dans celui-ci ou à son successeur.
+> 1992, ch. 33, art. 28; 2012, ch. 19, art. 542.
+
 
 
 
@@ -597,21 +527,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **29** 
 
-- **(1)** Tout artiste du secteur visé peut demander au Tribunal d’annuler l’accréditation au motif que l’association a enfreint le paragraphe 23(2); lorsqu’il allègue que l’association a cessé d’être la plus représentative ou n’a pas pris les mesures voulues en vue de conclure un accord-cadre, il peut également demander l’annulation, mais dans les délais suivants :
+- **(1)** Tout artiste du secteur visé peut demander au Conseil d’annuler l’accréditation au motif que l’association a enfreint le paragraphe 23(2); lorsqu’il allègue que l’association a cessé d’être la plus représentative ou n’a pas pris les mesures voulues en vue de conclure un accord-cadre, il peut également demander l’annulation, mais dans les délais suivants :
 	- **a)** trois mois avant la date d’expiration de l’accréditation ou de son renouvellement, s’il y a au moins un accord-cadre en vigueur pour le secteur;
-	- **b)** sinon, un an après la date de l’accréditation ou de son renouvellement, ou dans le délai inférieur fixé, sur demande, par le Tribunal.
+	- **b)** sinon, un an après la date de l’accréditation ou de son renouvellement, ou dans le délai inférieur fixé, sur demande, par le Conseil.
 
 **Délai de grâce**
 
-- **(2)** Le Tribunal peut ne pas prononcer l’annulation si l’association visée se conforme, dans le délai qu’il peut fixer, au paragraphe 23(2).
+- **(2)** Le Conseil peut ne pas prononcer l’annulation si l’association visée se conforme, dans le délai qu’il peut fixer, au paragraphe 23(2).
 
 **Prise d’effet**
 
-- **(3)** L’annulation de l’accréditation prend effet à la date de la décision du Tribunal ou, si l’association est toujours en contravention avec le paragraphe 23(2), à l’expiration du délai de grâce.
+- **(3)** L’annulation de l’accréditation prend effet à la date de la décision du Conseil ou, si l’association est toujours en contravention avec le paragraphe 23(2), à l’expiration du délai de grâce.
 
 **Effet de l’annulation**
 
-- **(4)** Tout accord-cadre conclu, pour le secteur en cause, entre l’association et le producteur cesse d’avoir effet à la date de l’annulation ou à la date ultérieure que le Tribunal juge indiquée.
+- **(4)** Tout accord-cadre conclu, pour le secteur en cause, entre l’association et le producteur cesse d’avoir effet à la date de l’annulation ou à la date ultérieure que le Conseil juge indiquée.
+> 1992, ch. 33, art. 29; 2012, ch. 19, art. 543.
+
 
 
 
@@ -628,7 +560,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Questions en suspens**
 
-- **(2)** Le Tribunal tranche, à la demande de l’une des associations d’artistes touchées par l’opération, les questions relatives aux droits, privilèges et obligations que l’association peut acquérir dans le cadre de la présente partie ou d’un accord-cadre.
+- **(2)** Le Conseil tranche, à la demande de l’une des associations d’artistes touchées par l’opération, les questions relatives aux droits, privilèges et obligations que l’association a acquis dans le cadre de la présente partie ou d’un accord-cadre.
+> 1992, ch. 33, art. 30; 2012, ch. 19, art. 544.
+
 
 
 
@@ -683,7 +617,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **33** 
 
-- **(1)** L’accord-cadre lie les parties pour la durée dont elles conviennent, ainsi que tous les artistes de ce secteur engagés par le producteur; elles ne peuvent y mettre fin qu’avec l’aval du Tribunal ou que dans le cas prévu au paragraphe 31(3).
+- **(1)** L’accord-cadre lie les parties pour la durée dont elles conviennent, ainsi que tous les artistes de ce secteur engagés par le producteur; elles ne peuvent y mettre fin qu’avec l’aval du Conseil ou que dans le cas prévu au paragraphe 31(3).
 
 **Copie au ministre**
 
@@ -699,14 +633,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Interprétation**
 
-- **(5)** Chaque droit ou avantage devant être considéré séparément, l’appréciation par le Tribunal de la nature plus favorable de celui-ci se fait disposition par disposition et au cas par cas.
+- **(5)** Chaque droit ou avantage devant être considéré séparément, l’appréciation par le Conseil de la nature plus favorable de celui-ci se fait disposition par disposition et au cas par cas.
+> 1992, ch. 33, art. 33; 2012, ch. 19, art. 545.
+
 
 
 
 
 **Changement de la date d’expiration**
 
-**34** Le Tribunal peut, sur demande conjointe des parties, modifier la date d’expiration de l’accord-cadre afin de la faire coïncider avec celle d’autres accords-cadres auxquels le producteur ou l’association d’artistes est partie.
+**34** Le Conseil peut, sur demande conjointe des parties, modifier la date d’expiration de l’accord-cadre afin de la faire coïncider avec celle d’autres accords-cadres auxquels le producteur ou l’association d’artistes est partie.
+> 1992, ch. 33, art. 34; 2012, ch. 19, art. 546.
+
 
 
 
@@ -759,15 +697,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Interdiction des recours extraordinaires**
 
-- **(2)** Il n’est admis aucun recours ou décision judiciaire — notamment par voie d’injonction, de 
-*certiorari*, de prohibition ou de 
-*quo warranto* — visant à contester, réviser, empêcher ou limiter l’action d’un arbitre ou d’un conseil d’arbitrage exercée dans le cadre de la présente partie.
+- **(2)** Il n’est admis aucun recours ou décision judiciaire — notamment par voie d’injonction, d’évocation, de révision, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action d’un arbitre ou d’un conseil d’arbitrage exercée dans le cadre de la présente partie.
 
 **Statut**
 
-- **(3)** Pour l’application de la 
-[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ni l’arbitre nommé en application d’un accord-cadre ni le conseil d’arbitrage ne constituent un office fédéral au sens de cette loi.
-> 1992, ch. 33, art. 37; 2002, ch. 8, art. 182.
+- **(3)** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ni l’arbitre nommé en application d’un accord-cadre ni le conseil d’arbitrage ne constituent un office fédéral au sens de cette loi.
+> 1992, ch. 33, art. 37; 2002, ch. 8, art. 182; 2012, ch. 19, art. 547.
 
 
 
@@ -784,11 +719,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **39** 
 
-- **(1)** L’arbitre ou le conseil d’arbitrage a les pouvoirs conférés au Tribunal par les alinéas 17a), b) et c); il a en outre celui de décider s’il peut être saisi de l’affaire.
+- **(1)** L’arbitre ou le conseil d’arbitrage a les pouvoirs conférés au Conseil par les alinéas 17a) à c); il a en outre celui de décider s’il peut être saisi de l’affaire.
 
 **Idem**
 
 - **(2)** Si, au titre de l’accord-cadre, le producteur a pris contre l’artiste des sanctions justifiées ou mis fin légitimement à ses services et en l’absence de mesures particulières dans l’accord-cadre ou le contrat visant la faute reprochée à l’artiste en cause, l’arbitre ou le conseil d’arbitrage a en outre le pouvoir de substituer à la décision du producteur toute autre mesure qui lui paraît justifiée en l’espèce.
+> 1992, ch. 33, art. 39; 2012, ch. 19, art. 548.
+
 
 
 
@@ -805,22 +742,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Frais d’arbitrage**
 
-- **(3)** Sauf stipulation contraire de l’accord-cadre ou entente entre elles à l’effet contraire, chacune des parties supporte :
+- **(3)** Sauf stipulation contraire de l’accord-cadre ou entente entre elles à l’effet contraire, chacune des parties supporte :
 	- **a)** ses propres frais d’arbitrage ainsi que la rétribution et les indemnités du membre du conseil d’arbitrage qu’elle a nommé;
 	- **b)** une part égale de la rétribution et des indemnités de l’arbitre ou du président du conseil d’arbitrage, que celui-ci ait été choisi par elles ou leurs représentants, ou nommé par le ministre.
+> 1992, ch. 33, art. 40; 2012, ch. 19, art. 549(A).
 
 
 
 
-**Renvoi au Tribunal**
+
+**Renvoi au Conseil**
 
 **41** 
 
-- **(1)** Toute question soulevée dans un arbitrage et se rapportant à l’existence d’un accord-cadre, à l’identité des parties qu’il lie ou à son application à un secteur donné ou à une personne doit être déférée au Tribunal par l’arbitre ou le conseil d’arbitrage pour instruction et décision.
+- **(1)** Toute question soulevée dans un arbitrage et se rapportant à l’existence d’un accord-cadre, à l’identité des parties qu’il lie ou à son application à un secteur donné ou à une personne doit être déférée au Conseil par l’arbitre ou le conseil d’arbitrage pour instruction et décision.
 
 **Poursuite de la procédure d’arbitrage**
 
-- **(2)** Le renvoi ne suspend la procédure engagée devant lui que si l’arbitre ou le conseil d’arbitrage, selon le cas, décide que la nature de la question le justifie ou si le Tribunal lui-même ordonne la suspension.
+- **(2)** Le renvoi ne suspend la procédure engagée devant lui que si l’arbitre ou le conseil d’arbitrage, selon le cas, décide que la nature de la question le justifie ou si le Conseil lui-même ordonne la suspension.
+> 1992, ch. 33, art. 41; 2012, ch. 19, art. 550.
+
 
 
 
@@ -896,18 +837,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **47** 
 
-- **(1)** S’il estime qu’une association d’artistes a pris ou autorisé des moyens de pression qui ont eu, ont ou auraient pour effet de placer un artiste en situation de contravention à la présente partie, ou que des artistes ont été, sont ou seront vraisemblablement associés à ces moyens, le producteur peut demander au Tribunal de les déclarer illégaux.
+- **(1)** S’il estime qu’une association d’artistes a pris ou autorisé des moyens de pression qui ont eu, ont ou auraient pour effet de placer un artiste en situation de contravention à la présente partie, ou que des artistes ont été, sont ou seront vraisemblablement associés à ces moyens, le producteur peut demander au Conseil de les déclarer illégaux.
 
 **Ordonnance**
 
-- **(2)** Le Tribunal peut, par ordonnance, après avoir donné à l’association ou aux artistes la possibilité de se faire entendre, déclarer illégaux les moyens de pression et, à la demande du producteur, enjoindre à l’association d’artistes d’y renoncer et aux artistes de reprendre le travail, interdire à ceux-ci de s’y associer et sommer leur association, ainsi que les dirigeants ou représentants de celle-ci, de porter immédiatement à la connaissance de ses membres la teneur de l’ordonnance.
+- **(2)** Le Conseil peut, par ordonnance, après avoir donné à l’association ou aux artistes la possibilité de se faire entendre, déclarer illégaux les moyens de pression et, à la demande du producteur, enjoindre à l’association d’artistes d’y renoncer et aux artistes de reprendre le travail, interdire à ceux-ci de s’y associer et sommer leur association, ainsi que les dirigeants ou représentants de celle-ci, de porter immédiatement à la connaissance de ses membres la teneur de l’ordonnance.
+> 1992, ch. 33, art. 47; 2012, ch. 19, art. 551.
+
 
 
 
 
 **Demande de déclaration d’illégalité par une association d’artistes**
 
-**48** À la demande de l’association qui prétend qu’un producteur a autorisé ou pris des moyens de pression en violation de la présente partie ou est sur le point de le faire, le Tribunal peut, par ordonnance, après avoir donné au producteur la possibilité de se faire entendre, déclarer illégaux les moyens et enjoindre à celui-ci, ainsi qu’à toute personne agissant pour son compte, d’y renoncer ou d’y mettre fin, de permettre aux artistes du secteur qu’il avait engagés de reprendre le travail et de porter immédiatement à leur connaissance la teneur de l’ordonnance.
+**48** À la demande de l’association qui prétend qu’un producteur a autorisé ou pris des moyens de pression en violation de la présente partie ou est sur le point de le faire, le Conseil peut, par ordonnance, après avoir donné au producteur la possibilité de se faire entendre, déclarer illégaux les moyens et enjoindre à celui-ci, ainsi qu’à toute personne agissant pour son compte, d’y renoncer ou d’y mettre fin, de permettre aux artistes du secteur qu’il avait engagés de reprendre le travail et de porter immédiatement à leur connaissance la teneur de l’ordonnance.
+> 1992, ch. 33, art. 48; 2012, ch. 19, art. 552.
+
 
 
 
@@ -916,11 +861,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **49** 
 
-- **(1)** Les ordonnances rendues en application des articles 47 et 48 peuvent être assorties des conditions que le Tribunal juge indiquées en l’espèce et, sous réserve du paragraphe (2), sont en vigueur pour la durée qui y est fixée.
+- **(1)** Les ordonnances rendues en application des articles 47 et 48 peuvent être assorties des conditions que le Conseil juge indiquées en l’espèce et, sous réserve du paragraphe (2), sont en vigueur pour la durée qui y est fixée.
 
 **Prorogation ou révocation des ordonnances**
 
-- **(2)** Sur demande précédée d’un avis de présentation donné aux parties visées par l’ordonnance, le Tribunal peut soit proroger celle-ci, après l’avoir éventuellement modifiée, pour la période qu’il juge indiquée, soit la révoquer.
+- **(2)** Sur demande précédée d’un avis de présentation donné aux parties visées par l’ordonnance, le Conseil peut soit proroger celle-ci, après l’avoir éventuellement modifiée, pour la période qu’il juge indiquée, soit la révoquer.
+> 1992, ch. 33, art. 49; 2012, ch. 19, art. 553.
+
 
 
 
@@ -931,8 +878,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Interdictions frappant les producteurs**
 
-**50** Il est interdit à tout producteur et à quiconque agit pour son compte :
-- **a)** soit de refuser d’engager un artiste ou de respecter son contrat individuel, soit de faire à l’égard de quiconque des distinctions injustes en matière d’engagement, de rémunération ou de conditions de travail, ou encore de l’intimider, de le menacer ou de prendre d’autres mesures à son encontre pour l’un ou l’autre des motifs suivants :
+**50** Il est interdit à tout producteur et à quiconque agit pour son compte :
+- **a)** soit de refuser d’engager un artiste ou de respecter son contrat individuel, soit de faire à l’égard de quiconque des distinctions injustes en matière d’engagement, de rémunération ou de conditions de travail, ou encore de l’intimider, de le menacer ou de prendre d’autres mesures à son encontre pour l’un ou l’autre des motifs suivants :
 	- **(i)** il adhère à une association d’artistes ou en est un dirigeant ou représentant — ou se propose de le faire ou de le devenir, ou incite une autre personne à l’une de ces fins — , ou contribue à la formation, la promotion ou l’administration d’une association d’artistes,
 	- **(ii)** il a participé, notamment à titre de témoin, à une procédure prévue par la présente partie, ou peut le faire,
 	- **(iii)** il a satisfait — ou est sur le point de le faire — à l’obligation de communiquer des renseignements dans le cadre d’une procédure prévue par la présente partie,
@@ -941,29 +888,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(vi)** il a été expulsé d’une association ou suspendu pour une raison autre que le défaut de paiement des cotisations périodiques, droits d’adhésion et autres paiements qui incombent sans distinction à tous ceux qui veulent adhérer à l’association ou y adhèrent déjà;
 - **b)** d’imposer, dans le contrat individuel d’un artiste, une condition visant à l’empêcher, ou ayant pour effet de l’empêcher, d’exercer un droit que lui reconnaît la présente partie;
 - **c)** de mettre fin au contrat individuel d’un artiste, de lui infliger des sanctions pécuniaires ou autres, ou de prendre à son encontre d’autres mesures, parce qu’il a refusé de s’acquitter de tout ou partie des attributions d’un autre artiste qui s’associe à des moyens de pression non interdits par la présente partie ou en est la cible;
-- **d)** de chercher, notamment par intimidation, par menace de mettre fin à son contrat individuel ou par la prise de sanctions pécuniaires ou autres, à obliger une personne soit à s’abstenir ou à cesser d’adhérer à une association d’artistes ou d’en occuper un poste de dirigeant ou de représentant, soit à s’abstenir :
+- **d)** de chercher, notamment par intimidation, par menace de mettre fin à son contrat individuel ou par la prise de sanctions pécuniaires ou autres, à obliger une personne soit à s’abstenir ou à cesser d’adhérer à une association d’artistes ou d’en occuper un poste de dirigeant ou de représentant, soit à s’abstenir :
 	- **(i)** de participer à une procédure prévue par la présente partie, notamment à titre de témoin,
 	- **(ii)** de satisfaire à l’obligation de communiquer des renseignements dans le cadre d’une procédure prévue par la présente partie,
 	- **(iii)** de présenter une demande ou de déposer une plainte sous le régime de la présente partie;
 - **e)** de mettre fin au contrat individuel d’un artiste, de lui infliger des sanctions pécuniaires ou autres, ou de prendre à son encontre d’autres mesures, parce qu’il a refusé d’accomplir un acte interdit par la présente partie;
-- **f)** de négocier en vue de conclure un accord-cadre ou de conclure un tel accord-cadre avec une association d’artistes dans un secteur qu’il sait ou devrait, selon le Tribunal, savoir être autre que celle déjà accréditée pour les artistes de ce secteur.
+- **f)** de négocier en vue de conclure un accord-cadre avec une association d’artistes dans un secteur qu’il sait ou devrait, selon le Conseil, savoir être autre que celle déjà accréditée pour les artistes de ce secteur, ou de conclure un tel accord-cadre.
+> 1992, ch. 33, art. 50; 2012, ch. 19, art. 554.
+
 
 
 
 
 **Interdictions frappant les associations d’artistes**
 
-**51** Il est interdit à toute association d’artistes accréditée et à quiconque agit pour son compte :
-- **a)** de négocier en vue de conclure un accord-cadre pour un secteur qu’il sait ou devrait, selon le Tribunal, savoir être représenté par une association accréditée, ou de conclure un tel accord-cadre;
-- **b)** de négocier en vue de conclure un accord-cadre pour un secteur avec un producteur qu’il sait ou devrait, selon le Tribunal, savoir être représenté par une association de producteurs qui a effectué le dépôt prévu au paragraphe 24(2), ou de conclure un tel accord-cadre;
+**51** Il est interdit à toute association d’artistes accréditée et à quiconque agit pour son compte :
+- **a)** de négocier en vue de conclure un accord-cadre pour un secteur qu’il sait ou devrait, selon le Conseil, savoir être représenté par une association accréditée, ou de conclure un tel accord-cadre;
+- **b)** de négocier en vue de conclure un accord-cadre pour un secteur avec un producteur qu’il sait ou devrait, selon le Conseil, savoir être représenté par une association de producteurs qui a effectué le dépôt prévu au paragraphe 24(2), ou de conclure un tel accord-cadre;
 - **c)** d’exiger d’un producteur qu’il mette fin au contrat individuel d’un artiste parce que celui-ci a été expulsé de l’association ou suspendu pour une raison autre que le défaut de paiement des cotisations périodiques, droits d’adhésion et autres paiements qui incombent sans distinction à tous ceux qui veulent adhérer à l’association ou y adhèrent déjà;
 - **d)** de prendre des mesures disciplinaires contre un artiste ou de lui imposer une sanction quelconque en lui appliquant d’une manière discriminatoire les normes de discipline de l’association;
 - **e)** d’expulser un artiste ou de le suspendre, ou de prendre contre lui des sanctions ou autres mesures, parce qu’il a refusé d’accomplir un acte contraire à la présente partie;
 - **f)** si les parties ont inclus à l’accord-cadre une disposition qui impose, comme condition d’embauche, l’adhésion à une association d’artistes déterminée ou donne la préférence, en matière d’embauche, aux adhérents d’une association déterminée, de faire des distinctions injustes à l’égard d’un artiste en matière d’adhésion à l’association d’artistes, de maintien comme adhérent à celle-ci ou encore d’expulsion de celle-ci;
-- **g)** d’user de menaces ou de coercition à l’égard d’un artiste ou de lui infliger une sanction pécuniaire ou autre, pour l’un ou l’autre des motifs suivants :
+- **g)** d’user de menaces ou de coercition à l’égard d’un artiste ou de lui infliger une sanction pécuniaire ou autre, pour l’un ou l’autre des motifs suivants :
 	- **(i)** il a participé, notamment à titre de témoin, à une procédure prévue par la présente partie, ou peut le faire,
 	- **(ii)** il a satisfait — ou est sur le point de le faire — à l’obligation de communiquer des renseignements dans le cadre d’une procédure prévue par la présente partie,
 	- **(iii)** il a présenté une demande ou déposé une plainte sous le régime de la présente partie.
+> 1992, ch. 33, art. 51; 2012, ch. 19, art. 555.
+
 
 
 
@@ -975,41 +926,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Plaintes au Tribunal**
+**Plaintes au Conseil**
 
 **53** 
 
-- **(1)** Quiconque peut adresser au Tribunal une plainte reprochant soit à une association d’artistes, à un producteur — ou à une personne agissant pour leur compte — ou à un artiste d’avoir manqué ou contrevenu aux articles 32, 35, 50 et 51, soit à une personne d’avoir contrevenu à l’article 52.
+- **(1)** Quiconque peut adresser au Conseil une plainte reprochant soit à une association d’artistes, à un producteur — ou à une personne agissant pour leur compte — ou à un artiste d’avoir manqué ou contrevenu aux articles 32, 35, 50 et 51, soit à une personne d’avoir contrevenu à l’article 52.
 
 **Délai de présentation**
 
-- **(2)** La plainte est à présenter, par écrit, dans les six mois qui suivent la date où le plaignant a eu — ou, selon le Tribunal, aurait dû avoir — connaissance des mesures ou des circonstances l’ayant occasionnée.
+- **(2)** La plainte est à présenter, par écrit, dans les six mois qui suivent la date où le plaignant a eu — ou, selon le Conseil, aurait dû avoir — connaissance des mesures ou des circonstances l’ayant occasionnée.
 
 **Recevabilité de la plainte**
 
-- **(3)** Le Tribunal instruit la plainte sauf s’il estime :
+- **(3)** Le Conseil instruit la plainte sauf s’il estime :
 	- **a)** soit qu’elle est dénuée de tout intérêt ou entachée de mauvaise foi;
 	- **b)** soit qu’elle n’est pas de sa compétence ou que le plaignant pourrait en saisir, aux termes d’un accord-cadre, un arbitre ou un conseil d’arbitrage.
 
-**Pouvoirs du Tribunal**
+**Pouvoirs du Conseil**
 
-- **(4)** Le Tribunal peut, après avoir statué sur la recevabilité de la plainte, l’instruire lui-même ou charger un membre qui n’a pas été saisi de l’affaire ou l’un de ses fonctionnaires d’aider les parties à régler le point en litige; il l’instruit toutefois lui-même si les parties ne sont pas parvenues à s’entendre dans le délai qu’il juge raisonnable en l’espèce.
+- **(4)** Le Conseil peut, après avoir statué sur la recevabilité de la plainte, l’instruire lui-même ou charger un membre qui n’a pas été saisi de l’affaire ou l’un de ses fonctionnaires d’aider les parties à régler le point en litige; il l’instruit toutefois lui-même si les parties ne sont pas parvenues à s’entendre dans le délai qu’il juge raisonnable en l’espèce.
 
 **Charge de la preuve**
 
 - **(5)** En matière d’allégation de contravention à l’article 50, la simple présentation d’une plainte écrite constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
+> 1992, ch. 33, art. 53; 2012, ch. 19, art. 556.
 
 
 
 
-**Ordonnances du Tribunal**
+
+**Ordonnances du Conseil**
 
 **54** 
 
-- **(1)** S’il décide qu’il y a eu contravention aux articles 32, 35, 50, 51 ou 52, le Tribunal peut ordonner à la partie visée par la plainte de cesser d’y contrevenir ou de s’y conformer et en outre enjoindre :
+- **(1)** S’il décide qu’il y a eu contravention aux articles 32, 35, 50, 51 ou 52, le Conseil peut ordonner à la partie visée par la plainte de cesser d’y contrevenir ou de s’y conformer et en outre enjoindre :
 	- **a)** dans le cas de l’alinéa 32b), au producteur de verser à un artiste une indemnité équivalant au plus, à son avis, à la somme qui lui aurait été versée au titre de l’accord-cadre ou du contrat individuel s’il n’y avait pas eu violation;
 	- **b)** dans le cas de l’article 35, à l’association d’exercer, au nom de l’artiste, les droits et recours que, selon lui, elle aurait dû exercer ou d’aider l’artiste à les exercer lui-même dans les cas où elle aurait dû le faire;
-	- **c)** dans le cas des alinéas 50a), c) ou e), au producteur :
+	- **c)** dans le cas des alinéas 50a), c) ou e), au producteur :
 		- **(i)** d’engager ou de réengager, dans la mesure du possible, l’artiste qui a fait l’objet d’une mesure interdite par ces alinéas,
 		- **(ii)** de verser à tout artiste lésé par la contravention une indemnité équivalant au plus, à son avis, à la somme qui lui aurait été versée au titre de l’accord-cadre ou de son contrat individuel s’il n’y avait pas eu contravention,
 		- **(iii)** d’annuler les mesures prises et de verser à l’intéressé une indemnité équivalant au plus, selon lui, à la sanction pécuniaire ou autre, prévue par l’accord-cadre ou le contrat individuel, qui a pu être infligée à l’artiste par le producteur;
@@ -1019,7 +972,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres ordonnances**
 
-- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, le Tribunal peut ordonner toute mesure, en plus ou au lieu de celles visées au paragraphe (1), qu’il estime juste en l’espèce pour obliger le producteur ou l’association d’artistes à prendre des dispositions de nature à remédier ou à parer aux effets de la contravention.
+- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, le Conseil peut ordonner toute mesure, en plus ou au lieu de celles visées au paragraphe (1), qu’il estime juste en l’espèce pour obliger le producteur ou l’association d’artistes à prendre des dispositions de nature à remédier ou à parer aux effets de la contravention.
+> 1992, ch. 33, art. 54; 2012, ch. 19, art. 557.
+
 
 
 
@@ -1048,7 +1003,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **56** Sur recommandation du ministre, faite après consultation par celui-ci du ministre du Patrimoine canadien, le gouverneur en conseil peut, par règlement, prendre toute mesure réglementaire prévue par la présente partie et toutes autres mesures — autres que celles prévues par l’article 16 — qu’il juge utiles pour l’application de la présente partie.
-> 1992, ch. 33, art. 56; 1995, ch. 11, art. 41.
+> 1992, ch. 33, art. 56; 1995, ch. 11, art. 41; 2012, ch. 19, art. 558(A).
 
 
 
@@ -1066,18 +1021,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Infraction à l’article 46**
 
-- **(2)** Quiconque contrevient à l’article 46 commet une infraction et encourt :
+- **(2)** Quiconque contrevient à l’article 46 commet une infraction et encourt :
 	- **a)** s’il s’agit d’un artiste, une amende maximale de deux mille dollars;
 	- **b)** s’il s’agit d’un dirigeant ou d’un employé d’une association d’artistes accréditée, ou d’un administrateur, mandataire ou conseiller d’une association d’artistes accréditée ou d’un producteur, une amende maximale de cinquante mille dollars;
 	- **c)** s’il s’agit d’une association d’artistes accréditée ou d’un producteur, une amende maximale de cent mille dollars.
 
 **Témoins défaillants**
 
-- **(3)** Commet une infraction et encourt une amende maximale de quatre cents dollars quiconque :
+- **(3)** Commet une infraction et encourt une amende maximale de quatre cents dollars quiconque :
 	- **a)** ayant été cité aux termes de l’alinéa 17a), omet de comparaître;
 	- **b)** ne produit pas les documents et pièces en sa possession ou sous sa responsabilité malgré un ordre en ce sens donné en application de l’alinéa 17a);
 	- **c)** refuse de prêter serment ou de faire une affirmation solennelle, bien qu’ayant été requis de le faire en application de l’alinéa 17a);
-	- **d)** refuse de répondre à une question qui lui est régulièrement posée par le Tribunal ou un de ses membres en application de l’alinéa 17a) ou encore par un arbitre ou un conseil d’arbitrage.
+	- **d)** refuse de répondre à une question qui lui est régulièrement posée par le Conseil ou un de ses membres en application de l’alinéa 17a) ou encore par un arbitre ou un conseil d’arbitrage.
+> 1992, ch. 33, art. 57; 2012, ch. 19, art. 559.
+
 
 
 
@@ -1099,9 +1056,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Consentement du Tribunal**
+**Consentement du Conseil**
 
-**59** Il ne peut être engagé de poursuites pour infraction à la présente partie sans l’autorisation écrite du Tribunal.
+**59** Il ne peut être engagé de poursuites pour infraction à la présente partie sans l’autorisation écrite du Conseil.
+> 1992, ch. 33, art. 59; 2012, ch. 19, art. 560.
+
 
 
 
@@ -1110,28 +1069,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Décisions du Tribunal**
+**Décisions du Conseil**
 
 **60** 
 
-- **(1)** Le document censé contenir ou constituer une copie d’une décision du Tribunal et signé par un de ses membres est admissible en justice sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du signataire, ni de présenter d’autres éléments de preuve.
+- **(1)** Le document paraissant contenir ou constituer une copie d’une décision du Conseil et être signé par un de ses membres est admissible en justice sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du signataire, ni de présenter d’autres éléments de preuve.
 
 **Certificat du ministre**
 
 - **(2)** Le certificat censé signé par le ministre ou un fonctionnaire affecté au Service fédéral de médiation et de conciliation et attestant la réception ou la transmission — avec la date — , ou au contraire la non-réception ou la non-transmission, par le ministre des documents prévus par la présente partie est admissible en justice sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire, ni de présenter d’autres éléments de preuve.
-> 1992, ch. 33, art. 60; 1996, ch. 11, art. 88(A); 1998, ch. 26, art. 84.
+> 1992, ch. 33, art. 60; 1996, ch. 11, art. 88(A); 1998, ch. 26, art. 84; 2012, ch. 19, art. 561.
 
 
 
 
-
-#### Rapport annuel
-
-
-
-**Rapport annuel du Tribunal**
-
-**61** Au plus tard le 31 janvier qui suit la fin de chaque exercice, le Tribunal présente au ministre son rapport d’activité pour l’exercice précédent. Ce dernier le fait déposer devant le Parlement dans les quinze jours suivant sa réception ou, si le Parlement ne siège pas, dans les quinze premiers jours de séance ultérieurs de l’une ou l’autre chambre.
+**61** [Abrogé, 2012, ch. 19, art. 562]
 
 
 
@@ -1158,54 +1110,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Indemnités des témoins**
 
-**64** Il est alloué à tout témoin qui se rend à la convocation du Tribunal, dans le cadre des affaires dont il est saisi, la rétribution et les indemnités en vigueur pour les témoins en matière civile dans la juridiction de droit commun de la province où elles sont entendues.
+**64** Il est alloué à tout témoin qui se rend à la convocation du Conseil, dans le cadre des affaires dont il est saisi au titre de la présente partie, la rétribution et les indemnités en vigueur pour les témoins en matière civile à la cour supérieure de la province où elles sont entendues.
+> 1992, ch. 33, art. 64; 2012, ch. 19, art. 563.
+
 
 
 
 
 **Dépositions en justice**
 
-**65** Les membres du Tribunal et de son personnel, ainsi que toutes les personnes nommées par lui ou le ministre au titre de la présente partie, ne sont pas tenus de déposer en justice relativement à des renseignements obtenus dans l’exercice de leurs fonctions.
+**65** Les membres du Conseil et de son personnel, ainsi que toutes les personnes nommées par lui ou le ministre au titre de la présente partie, ne sont pas tenus de déposer en justice relativement à des renseignements obtenus dans l’exercice des fonctions que leur confère la présente partie.
+> 1992, ch. 33, art. 65; 2012, ch. 19, art. 563.
 
 
 
 
-**Examen de la loi**
-
-**66** 
-
-- **(1)** La septième année suivant l’entrée en vigueur du présent article, le ministre du Patrimoine canadien en consultation avec le ministre, procède à l’examen de la présente loi et des conséquences de son application. Aussitôt après, il présente à chaque chambre du Parlement son rapport sur la question, dans lequel il fait état des modifications qu’il juge souhaitables.
-
-**Saisie automatique**
-
-- **(2)** Le comité de la Chambre des communes habituellement chargé des questions relatives à la culture est automatiquement saisi du rapport.
-> 1992, ch. 33, art. 66; 1995, ch. 11, art. 42.
+**66** [Abrogé, 2012, ch. 19, art. 563]
 
 
 
-
-
-## Dispositions transitoires
-
-
-
-**Ententes antérieures**
-
-**67** 
-
-- **(1)** Sur avis en ce sens expédié au Tribunal par les deux parties, toute entente portant sur des conditions d’engagement d’artistes et conclue avant l’entrée en vigueur du présent article continue, en ce qui touche ses dispositions compatibles avec la présente partie, à s’appliquer jusqu’à son expiration, la conclusion d’un accord-cadre ou la date que le Tribunal peut fixer sur demande, comme s’il s’agissait d’un accord-cadre conclu sous le régime de la présente partie; les parties à cette entente sont dès lors assimilées à une association d’artistes et à un producteur.
-
-**Demande d’accréditation et négociation**
-
-- **(2)** Par dérogation au paragraphe 31(2), toute association d’artistes peut, avant l’expiration de cette entente, demander son accréditation sous le régime de la présente partie et, une fois accréditée, transmettre à l’autre partie un avis de négociation en vue du renouvellement ou de la révision de l’entente visée au paragraphe (1) ou de la conclusion d’un accord-cadre.
-
-**Précision**
-
-- **(3)** La demande d’accréditation présentée en application du paragraphe (2) ou la négociation d’un accord-cadre ne constituent pas des pratiques déloyales au sens des articles 50 et 51.
-
-**Effet des accords-cadres sur les ententes**
-
-- **(4)** L’accord-cadre conclu entre un producteur et une association d’artistes n’emporte révocation de l’entente conclue avant l’entrée en vigueur du présent article que dans la mesure où il s’applique aux artistes et producteurs du secteur pour lequel l’association est accréditée.
+**67** [Abrogé, 2012, ch. 19, art. 563]
 
 
 
