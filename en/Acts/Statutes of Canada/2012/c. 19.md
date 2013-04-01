@@ -3597,7 +3597,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndA043_hq_12914'>[*]</a></sup>**577** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA043_hq_12914'><sup>*</sup></a>: [Note: Division 39 not in force.]<br />
+<a name='fn_IndA043_hq_12914'><sup>*</sup></a>: [Note: Division 39 in force April 1, 2013, *see* SI/2013-37.]<br />
 
 
 
@@ -3742,7 +3742,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndA20B_hq_12915'>[*]</a></sup>**594** Sections 579 to 593 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA20B_hq_12915'><sup>*</sup></a>: [Note: Sections 579 to 593 not in force.]<br />
+<a name='fn_IndA20B_hq_12915'><sup>*</sup></a>: [Note: Sections 579 to 593 in force April 1, 2013, *see* SI/2013-36.]<br />
 
 
 
@@ -4236,7 +4236,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndCDF4_hq_12944'>[*]</a></sup>**681** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndCDF4_hq_12944'><sup>*</sup></a>: [Note: Division 49 not in force.]<br />
+<a name='fn_IndCDF4_hq_12944'><sup>*</sup></a>: [Note: Division 49 in force April 1, 2013, *see* SI/2013-38.]<br />
 
 
 
