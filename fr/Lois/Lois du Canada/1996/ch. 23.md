@@ -826,14 +826,12 @@ plus de 13 %
 
 **Rémunération hebdomadaire assurable**
 
-- **(2)** La rémunération hebdomadaire assurable correspond au quotient obtenu par division de la rémunération assurable du prestataire au cours de sa période de base par le plus élevé des nombres suivants :
-	- **a)** le nombre de semaines, pendant la période de base, au cours desquelles le prestataire a reçu une rémunération assurable;
-	- **b)** le nombre prévu au tableau qui suit, en fonction du taux régional de chômage applicable.
+- **(2)** La rémunération hebdomadaire assurable correspond au quotient obtenu par division de la rémunération assurable du prestataire au cours de la période de calcul par le nombre de semaines prévu au tableau ci-après, selon le taux régional de chômage applicable.
 #### TABLEAU
 <table>
 <tr>
-<th>Taux régional de chômage</th>
-<th>Dénominateur</th>
+<th>Taux régional de chômage</th>
+<th>Nombre de semaines</th>
 </tr>
 <tr>
 <td>6 % et moins</td>
@@ -876,19 +874,17 @@ plus de 13 %
 
 **Rémunération assurable**
 
-- **(3)** La rémunération assurable au cours de la période de base est déterminée et calculée conformément aux règlements et comprend celle relative à l’exercice de tout emploi assurable, que celui-ci ait ou non pris fin.
+- **(3)** La rémunération assurable au cours de la période de calcul est égale au total des sommes ci-après établies et calculées conformément aux règlements :
+	- **a)** la rémunération assurable du prestataire au cours de la période de calcul, y compris celle relative à l’exercice de tout emploi assurable qui n’a pas pris fin, à l’exclusion de toute rémunération assurable payée ou à payer au prestataire en raison de son licenciement ou de la cessation de son emploi au cours de la période de référence;
+	- **b)** la rémunération assurable payée ou à payer au prestataire au cours de la période de référence, en raison de son licenciement ou de la cessation de son emploi.
 
-**Période de base**
+**Période de calcul**
 
-- **(4)** La période de base d’un prestataire correspond à la période d’au plus vingt-six semaines consécutives, au cours de sa période de référence — compte non tenu des semaines reliées à un emploi sur le marché du travail, au sens prévu par règlement — , se terminant :
-	- **a)** soit par la semaine, selon le cas :
-		- **(i)** précédant celle au cours de laquelle survient son dernier arrêt de rémunération, lorsque la période de prestations débute le dimanche de cette dernière semaine,
-		- **(ii)** au cours de laquelle survient son dernier arrêt de rémunération, lorsque la période de prestations débute le dimanche d’une semaine postérieure à cet arrêt de rémunération;
-	- **b)** soit, si elle est postérieure, par la semaine précédant le début de sa période de prestations, s’il exerce toujours un emploi assurable à ce moment.
+- **(4)** La période de calcul d’un prestataire correspond au nombre de semaines, consécutives ou non, mentionné dans le tableau figurant au paragraphe (2) selon le taux régional de chômage applicable, au cours de sa période de référence, pour lesquelles sa rémunération assurable est la plus élevée.
 
-**Durée de la période de base**
+- **(4.1)** [Abrogé, 2012, ch. 19, art. 604]
+> 1996, ch. 23, art. 14; 2012, ch. 19, art. 604.
 
-- **(4.1)** La période de base du prestataire est de vingt-six semaines, à moins que sa période de référence ne commence moins de vingt-six semaines avant la semaine visée à l’alinéa (4)a) ou b), auquel cas elle correspond au nombre de semaines compris dans l’intervalle.
 
 
 
@@ -1905,9 +1901,9 @@ plus de 13 %
 	- **(ii)** la grossesse ou la date présumée de l’accouchement;
 - **z)** concernant l’application de l’article 14 et prévoyant, notamment :
 	- **(i)** les circonstances, les critères et les modalités devant servir :
-		- **(A)** à l’établissement ou au calcul des semaines et du nombre de semaines à l’égard desquelles le prestataire a reçu une rémunération assurable au cours de sa période de base,
+		- **(A)** à l’établissement ou au calcul des semaines et du nombre de semaines à l’égard desquelles le prestataire a reçu une rémunération assurable au cours de sa période de calcul,
 		- **(B)** à l’établissement ou au calcul du montant à considérer comme rémunération assurable pour toute semaine ou tout nombre de semaines au cours de cette période,
-	- **(ii)** la répartition — entre autres l’inclusion ou l’exclusion — sur une période de base de tout ou partie de la rémunération assurable;
+	- **(ii)** la répartition — entre autres l’inclusion ou l’exclusion — sur une période de calcul de tout ou partie de la rémunération assurable;
 - **z.1)** prévoyant la répartition — notamment l’inclusion ou l’exclusion — sur une période de référence de tout ou partie des heures d’emploi assurable;
 - **z.2)** prévoyant :
 	- **(i)** d’une part, les circonstances dans lesquelles le prestataire qui quitte son emploi, dans le cadre d’une compression du personnel effectuée par l’employeur et ayant pour effet de protéger l’emploi d’autres employés, peut, malgré l’article 30, recevoir des prestations,
