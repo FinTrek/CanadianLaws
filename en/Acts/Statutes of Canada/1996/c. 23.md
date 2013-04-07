@@ -860,45 +860,43 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 **Weekly insurable earnings**
 
-- **(2)** A claimant’s weekly insurable earnings are their insurable earnings in the rate calculation period divided by the larger of the following divisors:
-	- **(a)** the divisor that equals the number of weeks during the rate calculation period in which the claimant had insurable earnings, and
-	- **(b)** the divisor determined in accordance with the following table by reference to the applicable regional rate of unemployment.
+- **(2)** A claimant’s weekly insurable earnings are their insurable earnings in the calculation period divided by the number of weeks determined in accordance with the following table by reference to the applicable regional rate of unemployment.
 #### TABLE
 <table>
 <tr>
 <th>Regional Rate of Unemployment</th>
-<th>Divisor</th>
+<th>Number of Weeks</th>
 </tr>
 <tr>
 <td>not more than 6%</td>
 <td>22</td>
 </tr>
 <tr>
-<td>more than 6% but not more than 7%</td>
+<td>more than 6% but not more than 7%</td>
 <td>21</td>
 </tr>
 <tr>
-<td>more than 7% but not more than 8%</td>
+<td>more than 7% but not more than 8%</td>
 <td>20</td>
 </tr>
 <tr>
-<td>more than 8% but not more than 9%</td>
+<td>more than 8% but not more than 9%</td>
 <td>19</td>
 </tr>
 <tr>
-<td>more than 9% but not more than 10%</td>
+<td>more than 9% but not more than 10%</td>
 <td>18</td>
 </tr>
 <tr>
-<td>more than 10% but not more than 11%</td>
+<td>more than 10% but not more than 11%</td>
 <td>17</td>
 </tr>
 <tr>
-<td>more than 11% but not more than 12%</td>
+<td>more than 11% but not more than 12%</td>
 <td>16</td>
 </tr>
 <tr>
-<td>more than 12% but not more than 13%</td>
+<td>more than 12% but not more than 13%</td>
 <td>15</td>
 </tr>
 <tr>
@@ -910,20 +908,17 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 **Insurable earnings**
 
-- **(3)** Insurable earnings in the rate calculation period shall be established and calculated in accordance with the regulations and include earnings from any insurable employment, regardless of whether the employment has ended.
+- **(3)** Insurable earnings in the calculation period are equal to the total of the following amounts established and calculated in accordance with the regulations:
+	- **(a)** the claimant’s insurable earnings during the calculation period including those from insurable employment that has not ended but not including any insurable earnings paid or payable to the claimant by reason of lay-off or separation from employment in the qualifying period; and
+	- **(b)** the insurable earnings paid or payable to the claimant, during the qualifying period, by reason of lay-off or separation from employment.
 
-**Rate calculation period**
+**Calculation period**
 
-- **(4)** The rate calculation period is the period of not more than 26 consecutive weeks in the claimant’s qualifying period ending with the later of
-	- **(a)** the week
-		- **(i)** before the claimant’s benefit period begins, if it begins on the Sunday of the week in which the claimant’s last interruption of earnings occurs, or
-		- **(ii)** in which the claimant’s last interruption of earnings occurs, if their benefit period begins on the Sunday of a week that is after the week in which the claimant’s last interruption of earnings occurs, and
-	- **(b)** the week before the claimant’s benefit period begins, if the claimant has an insurable employment at the beginning of that period.
-A prescribed week relating to employment in the labour force shall not be taken into account when determining what weeks are within the rate calculation period.
+- **(4)** The calculation period of a claimant is the number of weeks, whether consecutive or not, determined in accordance with the table set out in subsection (2) by reference to the applicable regional rate of unemployment, in the claimant’s qualifying period for which he or she received the highest insurable earnings.
 
-**Length of rate calculation period**
+- **(4.1)** [Repealed, 2012, c. 19, s. 604]
+> 1996, c. 23, s. 14; 2012, c. 19, s. 604.
 
-- **(4.1)** The rate calculation period is 26 weeks, unless the claimant’s qualifying period begins on a Sunday that is less than 26 weeks before the Sunday of the week in which the rate calculation period ends under subsection (4), in which case it is the number of weeks between those Sundays.
 
 
 
@@ -1977,9 +1972,9 @@ is to be considered to have worked or not worked a full working week;
 	- **(ii)** pregnancy or the expected date of confinement;
 - **(z)** for carrying out the purposes and provisions of section 14, including regulations
 	- **(i)** respecting the circumstances under which, the criteria by which and the manner in which
-		- **(A)** weeks are to be considered as weeks for which a claimant has insurable earnings during a rate calculation period, including the number of those weeks to be considered in that period, and
+		- **(A)** weeks are to be considered as weeks for which a claimant has insurable earnings during a calculation period, including the number of those weeks to be considered in that period, and
 		- **(B)** amounts are to be considered as the insurable earnings for any week or number of weeks in that period, and
-	- **(ii)** for allocating insurable earnings to a rate calculation period, for example by including them in that period or excluding them from that period;
+	- **(ii)** for allocating insurable earnings to a calculation period, for example by including them in that period or excluding them from that period;
 - **(z.1)** for allocating hours of insurable employment to a qualifying period, for example by including them in that period or excluding them from that period;
 - **(z.2)** prescribing
 	- **(i)** the circumstances in which a claimant who leaves employment in accordance with an employer work-force reduction process that preserves the employment of coworkers may, notwithstanding section 30, be paid benefits, and
