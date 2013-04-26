@@ -28,27 +28,27 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***acceptable method*** means a method of analysis or examination designated by the Minister as acceptable for use in the administration of the Act and these Regulations; (*méthode acceptable*)
+***acceptable method*** means a method of analysis or examination designated by the Minister as acceptable for use in the administration of the Act and these Regulations; (*méthode acceptable*)
 
 ***acceptance number***[Repealed, SOR/95-548, s. 2]
 
-***acidified low-acid food product*** means a food product that has been treated by pickling or fermentation so as to attain an equilibrium pH of 4.6 or lower after heat processing; (*produit alimentaire peu acide à pH réduit*)
+***acidified low-acid food product*** means a food product that has been treated by pickling or fermentation so as to attain an equilibrium pH of 4.6 or lower after heat processing; (*produit alimentaire peu acide à pH réduit*)
 
-***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
+***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
 ***adulterated***[Repealed, SOR/2011-205, s. 26]
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
-***brine pack*** means a pack in which a water and salt solution is used as the packing media with or without the addition of sugar; (*conservé dans la saumure*)
+***brine pack*** means a pack in which a water and salt solution is used as the packing media with or without the addition of sugar; (*conservé dans la saumure*)
 
-***commercial sterility*** means the condition of a food product that is free from viable forms of microorganisms, including spores, capable of growing in the food product above a temperature of 4°C; (*stérilité commerciale*)
+***commercial sterility*** means the condition of a food product that is free from viable forms of microorganisms, including spores, capable of growing in the food product above a temperature of 4°C; (*stérilité commerciale*)
 
-***container*** means the package in which a food product is offered for sale; (*contenant*)
+***container*** means the package in which a food product is offered for sale; (*contenant*)
 
-***contaminated***, in respect of a food product, means containing a chemical, drug, food additive, heavy metal, industrial pollutant, ingredient, medicament, microbe, pesticide, poison, toxin or any other substance not permitted by, or in an amount in excess of limits prescribed under, the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md); (*contaminé*)
+***contaminated***, in respect of a food product, means containing a chemical, drug, food additive, heavy metal, industrial pollutant, ingredient, medicament, microbe, pesticide, poison, toxin or any other substance not permitted by, or in an amount in excess of limits prescribed under, the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md); (*contaminé*)
 
-***critical factors*** means those physical and chemical factors that affect the ability of the thermal process to achieve commercial sterility; (*facteurs critiques*)
+***critical factors*** means those physical and chemical factors that affect the ability of the thermal process to achieve commercial sterility; (*facteurs critiques*)
 
 ***cumulative sample size***[Repealed, SOR/95-548, s. 2]
 
@@ -56,73 +56,73 @@ Enabling authorities:
 
 ***Department***[Repealed, SOR/2000-184, s. 23]
 
-***Director*** means the person designated by the President of the Agency; (*directeur*)
+***Director*** means the person designated by the President of the Agency; (*directeur*)
 
 ***District Supervisor***[Repealed, SOR/87-372, s. 1]
 
-***edible*** means fit for use as food; (*version anglaise seulement*)
+***edible*** means fit for use as food; (*version anglaise seulement*)
 
-***establishment*** means any place in which fruits or vegetables, or any product thereof, are prepared for food; (*établissement*)
+***establishment*** means any place in which fruits or vegetables, or any product thereof, are prepared for food; (*établissement*)
 
-***first dealer*** means any person who acquires for sale under their own label any food product packed by another person; (*premier commerçant*)
+***first dealer*** means any person who acquires for sale under their own label any food product packed by another person; (*premier commerçant*)
 
 ***flipper***[Repealed, SOR/95-548, s. 2]
 
-***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
+***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
-***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
+***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
-***food product*** or ***product*** means any article of food prepared wholly or in part from fruit or vegetable; (*produit alimentaire*)
+***food product*** or ***product*** means any article of food prepared wholly or in part from fruit or vegetable; (*produit alimentaire*)
 
-***formulation*** means, in respect of a food product,
+***formulation*** means, in respect of a food product,
 - **(a)** its ingredients and components, including food additives, and
-- **(b)** the proportions of its ingredients and components; (*formulation*)
+- **(b)** the proportions of its ingredients and components; (*formulation*)
 
-***grade*** means a grade established for canned and frozen fruits and vegetables pursuant to sections 3.1 and 4; (*catégorie*)
+***grade*** means a grade established for canned and frozen fruits and vegetables pursuant to sections 3.1 and 4; (*catégorie*)
 
 ***hard swell***[Repealed, SOR/95-548, s. 2]
 
-***head space*** means that space between the top edge or rim of the container and the upper level of the contents; (*espace libre*)
+***head space*** means that space between the top edge or rim of the container and the upper level of the contents; (*espace libre*)
 
-***heavy pack*** means a pack in which a minimum amount of water required for proper processing is used as the packing media; (*conserve épaisse*)
+***heavy pack*** means a pack in which a minimum amount of water required for proper processing is used as the packing media; (*conserve épaisse*)
 
-***hermetically sealed container*** means a container that is designed and intended to be secure against the entry of microorganisms including spores; (*contenant hermétiquement scellé*)
+***hermetically sealed container*** means a container that is designed and intended to be secure against the entry of microorganisms including spores; (*contenant hermétiquement scellé*)
 
 ***hydrogen swell***[Repealed, SOR/95-548, s. 2]
 
-***ingredient*** means an individual unit of food that is combined with one or more other individual units of food to form an integral unit of food; (*ingrédient*)
+***ingredient*** means an individual unit of food that is combined with one or more other individual units of food to form an integral unit of food; (*ingrédient*)
 
 ***inspection lot***[Repealed, SOR/95-548, s. 2]
 
 ***inspector***[Repealed, SOR/97-300, s. 1]
 
-***label*** means any printed, stencilled, lithographed or embossed label, sticker, seal, wrapper, stencil or receptacle; (*étiquette*)
+***label*** means any printed, stencilled, lithographed or embossed label, sticker, seal, wrapper, stencil or receptacle; (*étiquette*)
 
-***low-acid food product*** means a food product any component of which has a pH value above 4.6 and a water activity (Aw) above 0.85 after thermal processing; (*produit alimentaire peu acide*)
+***low-acid food product*** means a food product any component of which has a pH value above 4.6 and a water activity (Aw) above 0.85 after thermal processing; (*produit alimentaire peu acide*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
 ***multiple sampling plan***[Repealed, SOR/95-548, s. 2]
 
-***operator*** means the person who is responsible for the operation of a registered establishment; (*exploitant*)
+***operator*** means the person who is responsible for the operation of a registered establishment; (*exploitant*)
 
 ***package***[Repealed, SOR/98-579, s. 1]
 
 ***packer***[Repealed, SOR/86-622, s. 1]
 
-***prepackaged product*** means any product that is packaged in a container in such a manner that it is ordinarily sold to or used or purchased by a consumer without being re-packaged; (*produit préemballé*)
+***prepackaged product*** means any product that is packaged in a container in such a manner that it is ordinarily sold to or used or purchased by a consumer without being re-packaged; (*produit préemballé*)
 
-***principal display panel*** has the same meaning as in subsection 2(2) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
+***principal display panel*** has the same meaning as in subsection 2(2) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
 
-***principal display surface*** has the same meaning as in subsection 2(1) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*principale surface exposée*)
+***principal display surface*** has the same meaning as in subsection 2(1) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*principale surface exposée*)
 
-***processed*** means, in respect of a food product, canned, cooked, frozen, concentrated, pickled or otherwise prepared to assure preservation of the food product in transport, distribution and storage, but does not include the final cooking or preparation of a food product for use as a meal or part of a meal such as may be done by restaurants, hospitals, food centres, catering establishments, central kitchens or similar establishments where food products are prepared for consumption rather than for extended preservation; (*transformé*)
+***processed*** means, in respect of a food product, canned, cooked, frozen, concentrated, pickled or otherwise prepared to assure preservation of the food product in transport, distribution and storage, but does not include the final cooking or preparation of a food product for use as a meal or part of a meal such as may be done by restaurants, hospitals, food centres, catering establishments, central kitchens or similar establishments where food products are prepared for consumption rather than for extended preservation; (*transformé*)
 
 ***Regional Director***[Repealed, SOR/95-548, s. 2]
 
-***registered establishment*** means an establishment that is registered pursuant to subsection 11(1); (*établissement agréé*)
+***registered establishment*** means an establishment that is registered pursuant to subsection 11(1); (*établissement agréé*)
 
-***registered label*** means a label that is registered pursuant to section 44; (*étiquette enregistrée*)
+***registered label***[Repealed, SOR/2013-76, s. 1]
 
 ***rejection number***[Repealed, SOR/95-548, s. 2]
 
@@ -134,26 +134,26 @@ Enabling authorities:
 
 ***sampling plan***[Repealed, SOR/95-548, s. 2]
 
-***scheduled process*** means the thermal process alone, or in combination with critical factors, chosen by the operator for a given food product formulation, container type and size and unit of thermal processing equipment that will achieve at least commercial sterility; (*traitement programmé*)
+***scheduled process*** means the thermal process alone, or in combination with critical factors, chosen by the operator for a given food product formulation, container type and size and unit of thermal processing equipment that will achieve at least commercial sterility; (*traitement programmé*)
 
-***shipping container*** means a receptacle, package or wrapper in which containers of food products are placed for transportation; (*contenant d’expédition*)
+***shipping container*** means a receptacle, package or wrapper in which containers of food products are placed for transportation; (*contenant d’expédition*)
 
 ***single sampling plan***[Repealed, SOR/95-548, s. 2]
 
-***solid pack*** means a pack in which the fruit or vegetable has been partially or wholly precooked before processing so as to allow the product to pack closely with the minimum amount of free liquid; (*conserve compacte*)
+***solid pack*** means a pack in which the fruit or vegetable has been partially or wholly precooked before processing so as to allow the product to pack closely with the minimum amount of free liquid; (*conserve compacte*)
 
-***substitute*** means any food product that resembles a processed product in appearance and is prepared for the same uses as the processed product but does not meet the standards set out in these Regulations for the processed product; (*succédané*)
+***substitute*** means any food product that resembles a processed product in appearance and is prepared for the same uses as the processed product but does not meet the standards set out in these Regulations for the processed product; (*succédané*)
 
-***syrup pack*** means a pack in which sugar, invert sugar, honey, dextrose or glucose, in dry or liquid form, is used with water as the packing media; (*conservé dans le sirop*)
+***syrup pack*** means a pack in which sugar, invert sugar, honey, dextrose or glucose, in dry or liquid form, is used with water as the packing media; (*conservé dans le sirop*)
 
-***vacuum pack*** means a pack in which a minimum amount of packing media is used and the vacuum in the can is created mechanically; (*conservé sous vide*)
+***vacuum pack*** means a pack in which a minimum amount of packing media is used and the vacuum in the can is created mechanically; (*conservé sous vide*)
 
-***water activity*** means the ratio of water vapour pressure of the food product to the vapour pressure of pure water at the same temperature and pressure; (*activité de l’eau*)
+***water activity*** means the ratio of water vapour pressure of the food product to the vapour pressure of pure water at the same temperature and pressure; (*activité de l’eau*)
 
-***water pack*** means a pack in which water is used as the packing media. (*conservé dans l’eau*) 
+***water pack*** means a pack in which water is used as the packing media. (*conservé dans l’eau*) 
 
 - **(2) and (3)** [Repealed, SOR/93-496, s. 1]
-> SOR/79-541, s. 1; SOR/81-337, s. 1; SOR/86-622, s. 1; SOR/87-133, s. 1; SOR/87-350, s. 1(F); SOR/87-372, s. 1; SOR/88-383, s. 1; SOR/91-687, s. 1; SOR/93-330, s. 1; SOR/93-496, s. 1; SOR/95-548, s. 2; SOR/97-300, s. 1; SOR/98-579, s. 1; SOR/2000-184, s. 23; SOR/2003-6, s. 40; SOR/2011-205, s. 26.
+> SOR/79-541, s. 1; SOR/81-337, s. 1; SOR/86-622, s. 1; SOR/87-133, s. 1; SOR/87-350, s. 1(F); SOR/87-372, s. 1; SOR/88-383, s. 1; SOR/91-687, s. 1; SOR/93-330, s. 1; SOR/93-496, s. 1; SOR/95-548, s. 2; SOR/97-300, s. 1; SOR/98-579, s. 1; SOR/2000-184, s. 23; SOR/2003-6, s. 40; SOR/2011-205, s. 26; SOR/2013-76, s. 1.
 
 
 
@@ -538,8 +538,8 @@ Enabling authorities:
 
 - **(1)** Subject to subsection (2), containers used to pack the frozen fruit and vegetable products set out in column I of an item of Table II of Schedule III shall meet the specifications prescribed for that item in that Table.
 
-- **(2)** Containers of a size smaller than the smallest size prescribed for items (3) to (9) of Table II of Schedule III, respectively, may be used to pack the vegetable products set out in column I of those items if the containers bear the registered labels required by these Regulations.
-> SOR/87-133, s. 2; SOR/89-266, s. 1.
+- **(2)** Containers of a size smaller than the smallest size prescribed for items (3) to (9) of Table II of Schedule III, respectively, may be used to pack the vegetable products set out in column I of those items.
+> SOR/87-133, s. 2; SOR/89-266, s. 1; SOR/2013-76, s. 2.
 
 
 
@@ -570,21 +570,16 @@ Enabling authorities:
 	- **(a)** the containers hold,
 		- **(i)** for a product packed by weight, a net quantity of product that is not more than 20 kg, or
 		- **(ii)** for a product packed by volume, a net quantity of product that is not more than 20 L;
-	- **(b)** the net quantity of product declared on the labels of containers is a whole number multiple of 500 g for a product packed by weight or of 500 mL for a product packed by volume;
-	- **(c)** the containers are labelled in accordance with Part IV;
-	- **(d)** in the case of Canadian products, they are prepared in a registered establishment and the containers bear the registered labels required by these Regulations; and
-	- **(e)** in the case of imported products,
-		- **(i)** the importer has submitted to the Director a copy of the labels to be used on the containers, and
-		- **(ii)** the importer has received written notice from the Director that the labels referred to in subparagraph (i) meet the requirements of these Regulations.
+	- **(b)** the net quantity of product declared on the labels of containers is a whole number multiple of 500 g for a product packed by weight or of 500 mL for a product packed by volume; and
+	- **(c)** the containers are labelled in accordance with Part IV.
+	- **(d) and (e)** [Repealed, SOR/2013-76, s. 3]
 
-- **(2)** Containers of a size smaller than the smallest size specified in Table I to Schedule III may be used to pack the fruit and vegetable juices and concentrated apple juice set out in that Table if the containers bear the registered labels required by the Regulations.
+- **(2)** Despite section 20, containers of a size smaller than the smallest size specified in Table I of Schedule III may be used to pack the fruit and vegetable juices and concentrated apple juice set out in that Table.
 
-- **(3)** Containers of a size smaller than the smallest size specified in Table III to Schedule III may be used to pack the fruit juices, jams, jellies, marmalades, grape juice, concentrated grape juice, grape juice from concentrate, pickles, relishes, chutneys, olives, horseradish sauce and creamed horseradish set out in that Table if the containers bear the registered labels required by these Regulations.
+- **(3)** Despite section 22, containers of a size smaller than the smallest size specified in Table III of Schedule III may be used to pack the fruit juices, jams, jellies, marmalades, grape juice, concentrated grape juice, grape juice from concentrate, pickles, relishes, chutneys, olives, horseradish sauce and creamed horseradish set out in that Table.
 
-- **(4)** Paragraphs (1)(b) and (c) do not apply in respect of containers of fruit or vegetable products referred to in subsection (1) that bear labels that have been registered as required by these Regulations prior to the coming into force of those paragraphs.
-
-- **(5)** Subsection (4) shall cease to be in force 2 years after the day on which paragraphs (1)(b) and (c) come into force.
-> SOR/80-762, s. 2; SOR/82-672, s. 1; SOR/87-133, s. 3; SOR/93-496, s. 3; SOR/2001-80, s. 2; SOR/2003-6, s. 49.
+- **(4) and (5)** [Repealed, SOR/2013-76, s. 3]
+> SOR/80-762, s. 2; SOR/82-672, s. 1; SOR/87-133, s. 3; SOR/93-496, s. 3; SOR/2001-80, s. 2; SOR/2003-6, s. 49; SOR/2013-76, s. 3.
 
 
 
@@ -863,25 +858,7 @@ Enabling authorities:
 
 
 
-**44** 
-
-- **(1)** A label shall not be placed on any container of a food product in a registered establishment unless the label has been registered pursuant to subsection (2).
-
-- **(1.1)** An application to register a label, or to modify a registered label, shall be made in writing to the Director and shall contain three copies of the label and the applicable fee set out in the Canadian Food Inspection Agency Fees Notice.
-
-- **(2)** The Director shall register the label or modified label if it conforms with the applicable requirements of this Part.
-
-- **(3)** Where a label is registered under subsection (2),
-	- **(a)** a sample of the label, together with the information that accompanied the request for registration, shall be entered in a Register of Labels; and
-	- **(b)** a written notice of the registration of the label shall be sent to the operator who requested the registration.
-
-- **(4)** The registration of a label shall lapse if the label no longer meets the requirements of these Regulations.
-
-- **(5)** Where the request of an operator for the registration of a label is refused, a written notice of refusal, setting out the reasons therefor, shall be sent to the operator.
-
-- **(6)** The operator of a registered establishment shall keep in the establishment for inspection on the request of an inspector every notice of registration in respect of a registered label received by him and a sample of every registered label used in the establishment.
-> SOR/86-622, s. 3; SOR/87-133, s. 4; SOR/93-496, s. 6; SOR/97-300, s. 4; SOR/2000-184, s. 25; SOR/2002-354, s. 14; SOR/2011-205, s. 36(F).
-
+**44** [Repealed, SOR/2013-76, s. 4]
 
 
 
@@ -1129,7 +1106,7 @@ Enabling authorities:
 		- **(iii)** the name and address of the importer,
 		- **(iv)** the name and address of each consignee,
 		- **(v)** a description of the food product and any identification marks, including the product’s common name, grade, brand name and production code,
-		- **(vi)** for each consignee, the number of shipping containers, the number, size, net weight and kind of containers per shipping container and the production codes,
+		- **(vi)** for each consignee, the number of shipping containers, the number, size, net weight and kind of containers per shipping container and the production codes, and
 		- **(vii)** a statement that the food product
 			- **(A)** was obtained from sound raw materials in accordance with good manufacturing practices,
 			- **(B)** was prepared in a sanitary manner,
@@ -1140,11 +1117,11 @@ Enabling authorities:
 			- **(E)** was, at the time of shipment, sound and edible,
 			- **(F)** is accurately identified as to the name and address of the manufacturer or the manufacturer’s authorized agent,
 			- **(G)** is accurately described in the import declaration and does not contain ingredients other than those permitted by these Regulations, and
-			- **(H)** meets the grade, container and labelling requirements of these Regulations, and
-		- **(viii)** in the case of a food product referred to in subsection 25(1), the label registration number.
+			- **(H)** meets the grade, container and labelling requirements of these Regulations.
+		- **(viii)** [Repealed, SOR/2013-76, s. 5]
 
 - **(2)** Where a food product does not meet the requirements of paragraph (1)(a) or (c), the food product may be imported where the food product meets the requirements of section 2.1 or 2.2 and the importer provides the Minister with evidence to that effect.
-> SOR/87-372, s. 3; SOR/91-687, s. 8; SOR/97-300, s. 10; SOR/2000-184, s. 30.
+> SOR/87-372, s. 3; SOR/91-687, s. 8; SOR/97-300, s. 10; SOR/2000-184, s. 30; SOR/2013-76, s. 5.
 
 
 
