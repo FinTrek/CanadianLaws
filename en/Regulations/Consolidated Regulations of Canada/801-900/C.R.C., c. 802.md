@@ -2326,7 +2326,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 	- **(d)** provide, if necessary, suitable temperature conditions that permit sanitary processing and storage of fish; and
 	- **(e)** provide for the orderly and rapid movement of raw material and finished product into and out of the establishment.
 
-- **(2)** Construction and packaging materials and non-food chemical products used in the construction and operation of establishments or in their equipment shall be those contained in the *Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products*, published on February 1, 1998 by the Agency, as amended from time to time.
+- **(2)** Construction and packaging materials and non-food chemical products used in the construction and operation of establishments or in their equipment shall be suitable for the purpose for which they are to be used.
 
 - **(3)** Saltfish, squid, stockfish and capelin may be dried outside an establishment if it is dried in a location away from traffic on grounds under the control of the operator of the establishment, on dryer flakes or other equipment that is raised at least 1 m above the ground or water and if the fish is handled to prevent the risk of contamination.
 
@@ -2516,7 +2516,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 - **(g)** marine type toilet facilities or other sanitary facilities acceptable to an inspector.
 
 
-> SOR/81-374, ss. 18 to 21; SOR/83-110, s. 4; SOR/99-169, s. 10; SOR/2002-437, ss. 3, 4, 5(F), 6(A), 7(F), 8(F); SOR/2009-314, s. 13(E).
+> SOR/81-374, ss. 18 to 21; SOR/83-110, s. 4; SOR/99-169, s. 10; SOR/2002-437, ss. 3, 4, 5(F), 6(A), 7(F), 8(F); SOR/2009-314, s. 13(E); SOR/2013-78, s. 1.
 
 
 
