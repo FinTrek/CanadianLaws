@@ -168,16 +168,23 @@ Autorités habilitantes :
 
 - **(3)** Les engrais et les suppléments suivants sont exempts d’enregistrement :
 	- **a)** les engrais et suppléments visés à l’annexe II;
-	- **b)** les engrais agricoles ne contenant pas de pesticides et qui satisfont à l’article 10;
+	- **b)** les engrais agricoles qui satisfont aux conditions suivantes :
+		- **(i)** ils sont des engrais mélangés,
+		- **(ii)** leurs principes nutritifs sont sous forme minérale et sont obtenus par extraction ou par des procédés physiques ou chimiques,
+		- **(iii)** ils ne contiennent pas d’antiparasitaire;
 	- **c)** les suppléments vendus uniquement pour modifier l’acidité ou l’alcalinité du sol;
-	- **d)** les suppléments visés aux paragraphes 10.2(3) et (5);
+	- **d)** les suppléments composés de semences qui sont traitées avec un engrais ou un supplément qui présente l’une ou l’autre des caractéristiques suivantes :
+		- **(i)** il est exempt d’enregistrement,
+		- **(ii)** il est enregistré et son étiquette indique qu’il est pour usage dans le traitement des semences;
 	- **e)** la tourbe, la poussière de tourbe, la tourbe de sphaignes, l’écorce d’arbre et les autres matières organiques fibreuses censées améliorer l’état physique du sol seulement;
 	- **f)** les engrais préparés d’après la formule du client;
 	- **g)** les engrais spéciaux, sauf ceux visés à l’alinéa b) de la définition d’***engrais spécial***, qui ne contiennent pas d’antiparasitaire;
-	- **h)** les terreaux contenant des suppléments, si ceux-ci sont enregistrés selon la Loi.
+	- **h)** les terreaux qui contiennent un engrais ou un supplément qui présente l’une ou l’autre des caractéristiques suivantes :
+		- **(i)** il est exempt d’enregistrement,
+		- **(ii)** il est enregistré et son étiquette indique qu’il est pour usage dans des terreaux.
 
 - **(4)** [Abrogé, DORS/85-558, art. 3]
-> DORS/79-365, art. 3; DORS/85-558, art. 3; DORS/88-353, art. 3; DORS/92-585, art. 2; DORS/93-232, art. 2; DORS/2003-6, art. 73.
+> DORS/79-365, art. 3; DORS/85-558, art. 3; DORS/88-353, art. 3; DORS/92-585, art. 2; DORS/93-232, art. 2; DORS/2003-6, art. 73; DORS/2013-79, art. 1.
 
 
 
@@ -252,15 +259,7 @@ Autorités habilitantes :
 ## Normes
 
 
-**10** La teneur totale en principes nutritifs principaux d’un engrais mélangé contenant de l’azote, du phosphore ou du potassium doit être d’au moins 24 %, sauf si l’engrais mélangé est :
-- **a)** soit un engrais préparé d’après la formule du client;
-- **b)** soit un engrais spécial;
-- **c)** soit un engrais dont les composants :
-	- **(i)** sont dans une proportion d’au moins 50 % d’origine animale ou végétale et fournissent 25 % de l’azote dans le mélange sous forme insoluble dans l’eau,
-	- **(ii)** contiennent au moins 18 % de principes nutritifs principaux combinés;
-- **d)** soit un produit enregistré en vertu de la Loi.
-> DORS/79-365, art. 8; DORS/2003-6, art. 74; DORS/2006-221, art. 12(F).
-
+**10** [Abrogé, DORS/2013-79, art. 2]
 
 
 
@@ -270,74 +269,19 @@ Autorités habilitantes :
 
 **10.2** 
 
-- **(1)** Lorsqu’un supplément inoculant
-	- **a)** contient l’espèce *Rhizobium*,
-	- **b)** est censé servir au traitement de semences, et
-	- **c)** est destiné au traitement
-		- **(i)** de semences de cultures figurant à la colonne I du tableau de ce paragraphe, ou
-		- **(ii)** de semences de calibre analogue,
-il doit contenir, par gramme du produit, suffisamment de cellules viables de l’espèce provoquant des nodosités pour produire, si le mode d’emploi est respecté, au moins le nombre de cellules viables par graine qui figure dans la colonne II.
-#### TABLEAU
-<table>
-<tr>
-<th></th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Cultures</th>
-<th>Nombre de cellules viables</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Luzerne, trèfle, lotier corniculé</td>
-<td>10<sup>3</sup></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Sainfoin</td>
-<td>10<sup>4</sup></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Haricots, pois, soja</td>
-<td>10<sup>5</sup></td>
-</tr>
-</table>
+- **(1) et (1.1)** [Abrogés, DORS/2013-79, art. 3]
 
-
-- **(1.1)** Lorsqu’un supplément inoculant
-	- **a)** contient l’espèce *Rhizobium*,
-	- **b)** est présent dans une formulation granulaire,
-	- **c)** est destiné au traitement des haricots, des pois, du soja ou de semences de calibre analogue, et
-	- **d)** est destiné à être appliqué au sillon des semences,
-il doit contenir, par gramme du produit, suffisamment de cellules viables de l’espèce provoquant des nodosités pour produire, si le mode d’emploi est respecté, un minimum de 10<sup>11</sup> cellules viables par hectare.
-
-- **(2)** Un supplément visé au paragraphe (1) doit être préparé de telle sorte que
+- **(2)** Un supplément qui contient des micro-organismes viables doit être préparé de telle sorte que :
 	- **a)** la quantité du produit à appliquer aux semences d’une culture ne modifie pas les taux couramment utilisés pour son ensemencement; et
-	- **b)** le nombre de cellules viables des espèces microbiennes, autres que l’espèce recherchée de *Rhizobium* provoquant des nodosités, soit tel qu’il ne nuit pas à la viabilité ni au comportement des espèces recherchées.
+	- **b)** le nombre de cellules viables des espèces microbiennes soit tel qu’il est peu probable que celui-ci soit généralement nuisible — ou gravement préjudiciable — à la santé humaine, animale ou végétale ou à l’environnement.
 
-- **(3)** Lorsqu’un supplément comprend les semences préinoculées auxquelles seul l’inoculum adhère et que ces semences sont pour une culture figurant à la colonne I du tableau du paragraphe (1), ou pour une culture dont les semences sont de calibre analogue, chaque graine doit compter au moins le nombre de cellules viables de l’espèce *Rhizobium* provoquant des nodosités et qui figure à la colonne II.
-
-- **(4)** Un supplément visé au paragraphe (3) doit être préparé de telle sorte que
-	- **a)** [Abrogé, DORS/85-558, art. 6]
-	- **b)** le produit ne contienne pas de substances inhibant la formation de nodules et la fixation de l’azote; et
-	- **c)** le nombre de cellules viables des espèces microbiennes, autres que l’espèce recherchée de *Rhizobium* provoquant des nodosités, est tel qu’il n’atténue probablement pas la viabilité ou les aptitudes de l’espèce recherchée.
-
-- **(5)** Lorsqu’un supplément est composé d’une semence préinoculée par enrobage, c’est-à-dire une semence sur laquelle l’inoculum adhère et qui est enrobée d’une substance qui a pour fonction de protéger la viabilité des bactéries contenues dans cet inoculum, la personne qui a emballé le produit doit fournir au président de l’Agence les résultats des travaux scientifiques faits sur l’efficacité de ce produit quant aux fins prévues, y compris le nombre minimal, par graine de cellules viables de l’espèce recherchée de *Rhizobium*.
-> DORS/79-365, art. 9; DORS/85-558, art. 6; DORS/88-353, art. 4; DORS/2000-184, art. 57.
+- **(3) à (5)** [Abrogés, DORS/2013-79, art. 3]
+> DORS/79-365, art. 9; DORS/85-558, art. 6; DORS/88-353, art. 4; DORS/2000-184, art. 57; DORS/2013-79, art. 3.
 
 
 
 
-**10.3** 
-
-- **(1)** Un engrais mélangé qui, d’après son étiquette, est censé être un engrais à libération lente contenant de l’isobutylidène diurique (I.B.D.U.) de l’urée formaldéhyde, de l’urée-formol ou tout autre produit chimique qui a les mêmes propriétés de libération lente, doit contenir, sous forme insoluble dans l’eau, au moins 25 pour cent de son azote total dont la présence est garantie.
-
-- **(2)** Dans le cas d’une allégation visant la valeur culturale d’un engrais à libération lente, autre qu’un engrais visé au paragraphe (1), et que l’allégation figure sur l’étiquette, la personne qui a emballé le produit doit fournir au président de l’Agence les résultats des essais en culture du produit.
-> DORS/79-365, art. 9; DORS/2004-80, art. 12; DORS/2006-221, art. 13(A).
-
+**10.3** [Abrogé, DORS/2013-79, art. 4]
 
 
 
@@ -348,16 +292,14 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 	- **b)** une substance qui, lorsqu’elle est appliquée dans les quantités généralement utilisées ou selon le mode d’emploi, laisse dans les tissus d’une plante un résidu d’une substance toxique ou nuisible;
 	- **c)** sauf en conformité avec un permis délivré au titre de l’article 160 du [Règlement sur la santé des animaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20296.md) pour l’application de l’article 6.4 de ce règlement, des protéines issues de matériel à risque spécifié, sous quelque forme que se soit, qui a été retiré de la carcasse d’un bœuf ou qui se trouve dans la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine.
 
-- **(2)** Un engrais ou un supplément doit avoir la composition chimique et physique qui le rende efficace pour toutes les fins alléguées ou pour lesquelles il est vendu.
+- **(2)** [Abrogé, DORS/2013-79, art. 5]
 
-- **(3)** Lorsque l’étiquette apposée sur un engrais ou les allégations visant un engrais indiquent que ce dernier contient des principes nutritifs secondaires,
-	- **a)** ces principes nutritifs doivent être en quantité suffisante pour les fins indiquées sur l’étiquette ou dans les allégations; et
-	- **b)** ils ne doivent pas être toxiques dans le cas d’un usage selon le mode d’emploi recommandé.
+- **(3)** Un engrais ne peut contenir des principes nutritifs qui sont présents à des niveaux toxiques si l’engrais est utilisé à la dose recommandée.
 
 - **(4)** Les engrais-antiparasitaires ne peuvent contenir que les antiparasitaires :
 	- **a)** dont la marque est une marque approuvée qui figure dans le Recueil des pesticides à usage dans les engrais;
 	- **b)** qui satisfont aux exigences du recueil relativement à l’utilisation approuvée et au taux d’épandage.
-> DORS/79-365, art. 10; DORS/91-441, art. 2; DORS/93-232, art. 2; DORS/95-548, art. 4; DORS/2003-6, art. 75; DORS/2006-147, art. 8.
+> DORS/79-365, art. 10; DORS/91-441, art. 2; DORS/93-232, art. 2; DORS/95-548, art. 4; DORS/2003-6, art. 75; DORS/2006-147, art. 8; DORS/2013-79, art. 5.
 
 
 
@@ -368,21 +310,11 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 
 
 
-**13** 
-
-- **(1)** Tout engrais mélangé contenant au moins deux principes nutritifs principaux doit avoir un niveau de principes nutritifs combiné, déterminé d’après l’analyse de cet engrais effectuée par un analyste, égal ou supérieur au niveau combiné de principes nutritifs déterminé d’après l’analyse garantie figurant sur l’étiquette de cet engrais lorsque chaque niveau combiné de principes nutritifs est calculé conformément au paragraphe (2).
-
-- **(2)** Chaque niveau combiné de principes nutritifs doit être déterminé en additionnant la quantité d’azote total multipliée par 2,5, la quantité d’acide phosphorique assimilable multipliée par 2,0 et la quantité de potasse soluble.
+**13** [Abrogé, DORS/2013-79, art. 6]
 
 
 
-**14** 
-
-- **(1)** Un engrais mélangé contenant au moins deux principes nutritifs visés à la colonne I du tableau I de l’annexe I ne peut, pour ces principes nutritifs, présenter, par rapport aux quantités garanties prévues à la colonne II, une déficience supérieure à celle prévue à la colonne III.
-
-- **(2)** Un engrais contenant des principes nutritifs secondaires ou des antiparasitaires visés au tableau II de l’annexe I ne peut, pour ces principes et ces antiparasitaires, s’écarter des quantités garanties fixées à la colonne II que dans la mesure prévue à la colonne III.
-> DORS/79-365, art. 11; DORS/95-548, art. 4.
-
+**14** [Abrogé, DORS/2013-79, art. 6]
 
 
 
@@ -395,9 +327,7 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 - **b)** relativement à chaque engrais mélangé, autre que les engrais préparés d’après la formule du client et les engrais destinés à l’alimentation quotidienne et non à des fins de dilution ultérieure, la quantité minimale d’azote total, d’acide phosphorique assimilable et de potasse soluble exprimée en pourcentage et en chiffres entiers seulement,
 - **c)** relativement à chaque engrais, la quantité minimale de calcium, de magnésium et de soufre exprimée en pourcentage d’éléments purs,
 - **d)** relativement à chaque engrais, la quantité de chaque principe nutritif secondaire, autre que le calcium, le magnésium et le soufre, exprimée en pourcentage d’éléments purs,
-- **e)** relativement à chaque engrais pour le tabac, la quantité minimale d’azote nitrique, d’azote ammoniacal et d’azote organique, exprimée en pourcentage,
-- **f)** relativement à chaque engrais pour le tabac, les quantités minimale et maximale de chlorure, exprimées en pourcentage d’éléments purs,
-- **g)** relativement à chaque engrais mélangé contenant au moins 25 pour cent de l’azote qui est contenu sous forme insoluble dans l’eau d’origine végétale ou animale ou toute autre source d’azote lentement assimilable, la quantité minimale d’azote insoluble dans l’eau, exprimée en pourcentage,
+- **e) à g)** [Abrogés, DORS/2013-79, art. 7]
 - **h)** relativement à un engrais phosphaté organique ou inorganique non traité, la quantité minimale d’acide phosphorique total, exprimée en pourcentage,
 - **i)** le cas échéant, relativement à chaque supplément visé par l’analyse,
 	- **(i)** la quantité minimale de substance active exprimée en pourcentage,
@@ -413,7 +343,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 - **k)** relativement au phosphate minéral naturel, au phosphate Thomas, à un mélange des deux, à la farine de sabot et de corne et à la farine d’os, le pourcentage passant au travers d’un tamis à ouvertures carrées de 0,149 mm de côté (tamis TYLER de 100 mailles);
 - **l)** relativement à chaque engrais, la quantité maximale, exprimée en pourcentage, de cuir, sabot, corne, poils, déchets de laine, déchets alimentaires ou de toute substance organique semblable à moins que l’engrais ou ses éléments constituants n’aient été traités de façon à rendre le phosphore assimilable et la potasse soluble; et
 - **m)** relativement au fumier, au compost, à l’humus et au terreau de feuilles, le pourcentage minimal de matière organique et le pourcentage maximal d’humidité.
-> DORS/79-365, art. 12; DORS/85-558, art. 7; DORS/88-353, art. 5; DORS/93-232, art. 2.
+> DORS/79-365, art. 12; DORS/85-558, art. 7; DORS/88-353, art. 5; DORS/93-232, art. 2; DORS/2013-79, art. 7.
 
 
 
@@ -479,7 +409,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 
 
 
-**17** L’étiquette apposée sur un emballage d’engrais ne doit pas porter de mention dénotant la présence d’un principe nutritif lentement assimilable à moins qu’une proportion de 25 pour cent de la quantité garantie du principe nutritif dans l’engrais ne soit présente sous une forme insoluble dans l’eau ou une autre forme lentement assimilable.
+**17** [Abrogé, DORS/2013-79, art. 8]
 
 
 
@@ -572,14 +502,12 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 
 - **(4)** Lorsque la désignation de la catégorie est utilisée sur l’étiquette d’un engrais, les chiffres doivent représenter les garanties minimales exprimées en pourcentage d’azote total, d’acide phosphorique assimilable et de potasse soluble, énumérées dans cet ordre.
 
-- **(5)** Une étiquette portant le nom d’un engrais pour le tabac doit comprendre les mots
-	- **a)** «tabac jaune», lorsque l’engrais est destiné à la culture de ce tabac; ou
-	- **b)** «tabac burley», lorsque l’engrais est destiné à la culture de ce tabac.
+- **(5)** [Abrogé, DORS/2013-79, art. 9]
 
 - **(6)** Le nom d’un engrais mélangé ne doit pas comprendre le nom ni la désignation d’un type ou de types de sol.
 
 - **(7)** Dans le cas des engrais spéciaux destinés à des fins d’alimentation quotidienne et non à des fins de déconcentration ultérieure, il n’est pas nécessaire d’indiquer la désignation de la catégorie comme faisant partie du nom.
-> DORS/79-365, art. 16; DORS/95-548, art. 4.
+> DORS/79-365, art. 16; DORS/95-548, art. 4; DORS/2013-79, art. 9.
 
 
 
@@ -745,90 +673,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 
 
 ### **ANNEXE I** 
-**(article 14)**
-#### TABLEAU I
-<table>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Principes nutritifs individuels</th>
-<th>Quantité garantie</th>
-<th>Déficience permise</th>
-</tr>
-<tr>
-<td>1. Azote total</td>
-<td>a) 3 pour cent et moins</td>
-<td>a) Une déficience de 0.3 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>b) plus de 3 pour cent</td>
-<td>b) Une déficience de 0.3 pour cent de l’engrais plus 10 pour cent de la quantité garantie jusqu’à concurrence de 1 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>2. Acide phosphorique assimilable</td>
-<td>a) 3 pour cent et moins</td>
-<td>a) Une déficience de 0.3 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>b) plus de 3 pour cent</td>
-<td>b) Une déficience de 0.3 pour cent de l’engrais plus 10 pour cent de la quantité garantie jusqu’à concurrence de 2 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>3. Potasse soluble</td>
-<td>a) 3 pour cent et moins</td>
-<td>a) Une déficience de 0.3 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>b) plus de 3 pour cent</td>
-<td>b) Une déficience de 0.3 pour cent de l’engrais plus 10 pour cent de la quantité garantie jusqu’à concurrence de 2 pour cent de l’engrais.</td>
-</tr>
-</table>
-
-#### TABLEAU II
-<table>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Antiparasitaires et principes nutritifs individuels</th>
-<th>Quantité garantie</th>
-<th>Variabilité</th>
-</tr>
-<tr>
-<td>1. Bore, cuivre, fer, manganèse, molybdène et zinc</td>
-<td>a) moins de 1 pour cent</td>
-<td>a) Une déficience ou un excès de 25 pour cent de la quantité garantie.</td>
-</tr>
-<tr>
-<td>b) 1 pour cent et plus</td>
-<td>b) Une déficience ou un excès de 0.15 pour cent de l’engrais plus 10 pour cent de la quantité garantie jusqu’à concurrence de 1 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>2. Chlorure</td>
-<td>Toutes les quantités</td>
-<td>Garantie minimale — une déficience de 0.2 pour cent de l’engrais. Garantie maximale — un excès de 0.2 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>3. Tous les antiparasitaires</td>
-<td>a) 2 pour cent et moins</td>
-<td>a) Une déficience ou un excès de 20 pour cent de la quantité garantie jusqu’à concurrence de 0.2 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>b) plus de 2.1 pour cent jusqu’à 5 pour cent</td>
-<td>b) Une déficience ou un excès de 10 pour cent de la quantité garantie jusqu’à concurrence de 0.25 pour cent de l’engrais.</td>
-</tr>
-<tr>
-<td>c) 5.1 pour cent et plus</td>
-<td>c) Une déficience ou un excès de 5 pour cent de la quantité garantie jusqu’à concurrence de 0.6 pour cent de l’engrais.</td>
-</tr>
-</table>
-
-> DORS/88-353, art. 6; DORS/93-232, art. 2.
+[Abrogée, DORS/2013-79, art. 10]
 
 
 
