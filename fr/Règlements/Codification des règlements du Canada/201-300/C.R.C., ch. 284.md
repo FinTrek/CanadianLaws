@@ -24,25 +24,25 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
+***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
 ***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
 
-***boîte*** désigne un contenant pouvant contenir 15 douzaines d’oeufs; (*box*)
+***boîte*** désigne un contenant pouvant contenir 15 douzaines d’oeufs; (*box*)
 
-***boîte à oeufs*** ou ***carton*** Contenant pouvant se fermer et destiné à contenir au plus 30 oeufs dans des compartiments individuels. (*carton*)
+***boîte à oeufs*** ou ***carton*** Contenant pouvant se fermer et destiné à contenir au plus 30 oeufs dans des compartiments individuels. (*carton*)
 
 ***caillot sanguin*** désigne une petite tache de sang sur le jaune ou dans l’albumen d’un oeuf; (*blood spot*)
 
-***caisse*** désigne un contenant pouvant contenir 30 douzaines d’oeufs; (*case*)
+***caisse*** désigne un contenant pouvant contenir 30 douzaines d’oeufs; (*case*)
 
-***carton***[Abrogée, DORS/98-131, art. 1]
+***carton***[Abrogée, DORS/98-131, art. 1]
 
 ***code de l’exploitation du producteur*** Combinaison de lettres, de symboles et de chiffres qui distingue les locaux du producteur d’où proviennent les oeufs. (*producer premises code*)
 
-***code de producteur***[Abrogée, DORS/95-548, art. 2]
+***code de producteur***[Abrogée, DORS/95-548, art. 2]
 
 ***colorant alimentaire*** a la même signification que dans le [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md); (*food colour*)
 
@@ -54,23 +54,23 @@ Autorités habilitantes :
 
 ***désignation de calibre***, Le calibre Jumbo, Extra gros, Gros, Moyen, Petit ou Très petit. (*size designation*)
 
-***désignation de catégorie*** La catégorie A, la catégorie B, la catégorie C ou la catégorie Oeufs tout-venant. (*grade designation*)
+***désignation de catégorie*** La catégorie A, la catégorie B, la catégorie C ou la catégorie Oeufs tout-venant. (*grade designation*)
 
 ***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
 
 ***directeur exécutif*** La personne nommée à ce titre par le président de l’Agence. (*Executive Director*)
 
-***directeur général régional***[Abrogée, DORS/2000-184, art. 1]
+***directeur général régional***[Abrogée, DORS/2000-184, art. 1]
 
-***directeur régional***[Abrogée, DORS/90-110, art. 1]
+***directeur régional***[Abrogée, DORS/90-110, art. 1]
 
 ***exploitant*** la personne responsable de l’exploitation d’un poste d’oeufs agréé; (*operator*)
 
-***falsifié***[Abrogée, DORS/2011-205, art. 1]
+***falsifié***[Abrogée, DORS/2011-205, art. 1]
 
 ***inférieur à la catégorie*** désigne un oeuf qui ne répond pas aux normes de la catégorie dans laquelle il est classé; (*undergrade*)
 
-***Liste de référence *** La Liste de référence pour les matériaux de construction, les matériaux d’emballage, et les produits chimiques non alimentaires acceptés, publiée sur le site Web de l’Agence, avec ses modifications successives. (*Reference Listing*)
+***Liste de référence ***[Abrogée, DORS/2013-77, art. 1]
 
 ***Loi*** la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md); (*Act*)
 
@@ -80,48 +80,48 @@ Autorités habilitantes :
 
 ***mirage*** désigne l’examen de l’état intérieur d’un oeuf en tournant ou en faisant tourner l’oeuf devant ou au-dessus d’une source lumineuse qui en illumine le contenu; (*candling*)
 
-***numéro d’agrément*** Le numéro attribué à un poste d’oeufs agréé en application de l’article 7. (*registration number*)
+***numéro d’agrément*** Le numéro attribué à un poste d’oeufs agréé en application de l’article 7. (*registration number*)
 
-***numéro de code***[Abrogée, DORS/2002-354, art. 1]
+***numéro de code***[Abrogée, DORS/2002-354, art. 1]
 
 ***oeuf*** S’entend de l’oeuf produit par une poule domestique. (*egg*)
 
 ***oeuf transformé*** S’entend au sens du [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*processed egg*)
 
-***oeufs transformés***[Abrogée, DORS/90-299, art. 1]
+***oeufs transformés***[Abrogée, DORS/90-299, art. 1]
 
-***plateau*** Contenant, autre qu’une boîte à oeufs, destiné à contenir au plus 30 oeufs dans des compartiments individuels. (*tray*)
+***plateau*** Contenant, autre qu’une boîte à oeufs, destiné à contenir au plus 30 oeufs dans des compartiments individuels. (*tray*)
 
 ***poste agréé d’oeufs transformés*** S’entend au sens du [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*registered processed egg station*)
 
 ***poste d’oeufs*** Un ou plusieurs locaux ou bâtiments servant au conditionnement des oeufs. (*egg station*)
 
-***poste d’oeufs agréé*** poste d’oeufs agréé en vertu de l’article 7; (*registered egg station*)
+***poste d’oeufs agréé*** poste d’oeufs agréé en vertu de l’article 7; (*registered egg station*)
 
-***poste d’oeufs enregistré***[Abrogée, DORS/90-110, art. 1]
+***poste d’oeufs enregistré***[Abrogée, DORS/90-110, art. 1]
 
-***poste enregistré d’oeufs transformés***[Abrogée, DORS/90-110, art. 1]
+***poste enregistré d’oeufs transformés***[Abrogée, DORS/90-110, art. 1]
 
-***poste enregistré de produits d’oeufs***[Abrogée, DORS/81-1007, art. 1]
+***poste enregistré de produits d’oeufs***[Abrogée, DORS/81-1007, art. 1]
 
 ***poule domestique*** désigne la femelle de l’espèce *Gallus Domesticus*; (*domestic hen*)
 
 ***producteur*** désigne une personne qui expédie, transporte ou vend des oeufs produits uniquement sur sa ferme; (*producer*)
 
-***Recommandations pour la qualité de l’eau potable ***Résumé des recommandations pour la qualité de l’eau potable au Canada — à l’exclusion de la publication intitulée *Documentation à l’appui* et des références y afférentes — avec ses modifications successives, préparé par le Comité fédéral-provincial-territorial sur l’eau potable du Comité fédéral-provincial-territorial de l’hygiène du milieu et du travail et publié sur le site Web du ministère de la Santé. (*Drinking Water Quality Guidelines*)
+***Recommandations pour la qualité de l’eau potable***Résumé des recommandations pour la qualité de l’eau potable au Canada — à l’exclusion de la publication intitulée *Documentation à l’appui* et des références y afférentes — avec ses modifications successives, préparé par le Comité fédéral-provincial-territorial sur l’eau potable du Comité fédéral-provincial-territorial de l’hygiène du milieu et du travail et publié sur le site Web du ministère de la Santé. (*Drinking Water Quality Guidelines*)
 
 ***rejeté*** qualifie un oeuf, examiné à un poste d’oeufs agréé, qui ne satisfait pas aux normes d’une catégorie établie par le présent règlement; (*reject*)
 
 ***saleté*** désigne toute particule de jaune d’oeuf, de fumier, de terre ou d’une autre substance étrangère qui peut être enlevée facilement de la coquille d’un oeuf; (*dirt*)
 
-***supérieur à la catégorie***[Abrogée, DORS/98-131, art. 1]
+***supérieur à la catégorie***[Abrogée, DORS/98-131, art. 1]
 
-***surveillant régional***[Abrogée, DORS/81-1007, art. 1]
+***surveillant régional***[Abrogée, DORS/81-1007, art. 1]
 
 ***tache*** désigne toute substance, sur la coquille d’un oeuf, autre qu’une saleté, une marque de teinture, un dessin ou un emblème apposé sur l’oeuf; (*stain*)
 
 ***tache de chair*** désigne une particule de l’oviducte de la poule domestique présente sur le jaune ou dans l’albumen d’un oeuf. (*meat spot*)
-> DORS/81-1007, art. 1; DORS/87-584, art. 1; DORS/90-110, art. 1; DORS/90-299, art. 1; DORS/92-12, art. 1; DORS/92-70, art. 1; DORS/92-645, art. 1; DORS/95-250, art. 1(F); DORS/95-475, art. 2; DORS/95-548, art. 2; DORS/97-151, art. 1; DORS/97-292, art. 1; DORS/98-131, art. 1; DORS/2000-184, art. 1; DORS/2002-354, art. 1; DORS/2006-193, art. 1; DORS/2011-205, art. 1.
+> DORS/81-1007, art. 1; DORS/87-584, art. 1; DORS/90-110, art. 1; DORS/90-299, art. 1; DORS/92-12, art. 1; DORS/92-70, art. 1; DORS/92-645, art. 1; DORS/95-250, art. 1(F); DORS/95-475, art. 2; DORS/95-548, art. 2; DORS/97-151, art. 1; DORS/97-292, art. 1; DORS/98-131, art. 1; DORS/2000-184, art. 1; DORS/2002-354, art. 1; DORS/2006-193, art. 1; DORS/2011-205, art. 1; DORS/2013-77, art. 1.
 
 
 
@@ -341,7 +341,7 @@ Autorités habilitantes :
 		- **(ii)** sont suffisamment grands et contiennent suffisamment d’installations pour le nombre de personnes qui s’en servent,
 		- **(iii)** sont bien ventilés et bien éclairés,
 		- **(iv)** dans le cas des toilettes, sont séparées des pièces où les oeufs sont manutentionnés et ne donnent pas directement sur celles-ci;
-	- **k)** sous réserve du paragraphe (3), être approvisionné en eau potable chaude et froide qui est protégée contre toute source de contamination et dont la quantité et la pression répondent aux besoins du poste d’oeufs;
+	- **k)** sous réserve du paragraphe (3), être approvisionné en eau potable chaude et froide qui est protégée contre toute source de contamination et dont la quantité et la pression répondent aux besoins du poste d’oeufs;
 	- **l)** être muni de dispositifs adéquats pour l’enlèvement et l’élimination des déchets;
 	- **m)** être doté de systèmes de drainage et d’évacuation des eaux usées qui sont :
 		- **(i)** conformes au code de plomberie de la province où est situé le poste d’oeufs,
@@ -363,12 +363,12 @@ Autorités habilitantes :
 	- **p)** posséder les installations et les moyens nécessaires au lavage, au nettoyage et à l’assainissement complets de l’équipement;
 	- **q)** être pourvu des moyens voulus pour régler, maintenir et vérifier la température et le degré d’humidité dans les pièces où les oeufs sont entreposés;
 	- **r)** comprendre une pièce réservée à l’inspection des oeufs et équipée convenablement à cette fin;
-	- **s)** si des oeufs sont pasteurisés au poste d’oeufs, être pourvu de l’équipement nécessaire dans le cadre du programme de pasteurisation visé à l’alinéa 7(2)h);
-	- **t)** pour assurer la salubrité et la propreté des lieux, n’utiliser que des agents chimiques figurant dans la Liste de référence ou dont l’utilisation dans un poste d’oeufs, tel qu’il a été démontré par l’exploitant, est tout aussi sûre et efficace;
-	- **u) ** comprendre une ou plusieurs pièces distinctes pour l’entreposage des oeufs classés Canada A, Canada B et Canada C.
+	- **s)** si des oeufs sont pasteurisés au poste d’oeufs, être pourvu de l’équipement nécessaire dans le cadre du programme de pasteurisation visé à l’alinéa 7(2)h);
+	- **t)** pour assurer la salubrité et la propreté des lieux, n’utiliser que des agents chimiques sûrs et efficaces;
+	- **u)** comprendre une ou plusieurs pièces distinctes pour l’entreposage des oeufs classés Canada A, Canada B et Canada C.
 
-- **(3)** Le poste d’oeufs agréé peut utiliser de l’eau, autre que celle visée à l’alinéa (2)k), si elle sert uniquement à la protection contre les incendies, aux chaudières ou aux services auxiliaires et si le réseau de canalisations de cette eau est indépendant de celui de l’eau potable.
-> DORS/90-110, art. 3; DORS/92-12, art. 3; DORS/2006-193, art. 5.
+- **(3)** Le poste d’oeufs agréé peut utiliser de l’eau, autre que celle visée à l’alinéa (2)k), si elle sert uniquement à la protection contre les incendies, aux chaudières ou aux services auxiliaires et si le réseau de canalisations de cette eau est indépendant de celui de l’eau potable.
+> DORS/90-110, art. 3; DORS/92-12, art. 3; DORS/2006-193, art. 5; DORS/2013-77, art. 2.
 
 
 
@@ -383,7 +383,7 @@ Autorités habilitantes :
 
 - **(2)** L’équipement, les ustensiles, les bâtiments et les autres installations du poste d’oeufs agréé doivent être tenus dans un état salubre.
 
-- **(3)** Le poste d’oeufs agréé doit être exploité conformément aux programmes visés aux alinéas 7(2)b) à f) et, s’il y a lieu, au programme de pasteurisation visé à l’alinéa 7(2)h), des dossiers à jour devant être tenus à leur égard.
+- **(3)** Le poste d’oeufs agréé doit être exploité conformément aux programmes visés aux alinéas 7(2)b) à f) et, s’il y a lieu, au programme de pasteurisation visé à l’alinéa 7(2)h), des dossiers à jour devant être tenus à leur égard.
 
 - **(4)** Le conditionnement des oeufs dans le poste d’oeufs agréé doit être soumis à un contrôle rigoureux en ce qui concerne la salubrité.
 
@@ -391,7 +391,7 @@ Autorités habilitantes :
 
 - **(6)** Seuls les matériaux et revêtements durables et exempts d’éléments nocifs peuvent être utilisés dans le poste d’oeufs agréé pour la réparation des planchers, murs, plafonds, portes, fenêtres et autres parties des pièces ou des aires où les oeufs sont conditionnés.
 
-- **(7)** Les surfaces servant au triage et à l’inspection des oeufs dans le poste d’oeufs agréé doivent avoir un éclairage minimal de 540 lx.
+- **(7)** Les surfaces servant au triage et à l’inspection des oeufs dans le poste d’oeufs agréé doivent avoir un éclairage minimal de 540 lx.
 
 - **(8)** Les déchets doivent être enlevés du poste d’oeufs agréé au moins une fois par jour.
 
@@ -403,7 +403,7 @@ Autorités habilitantes :
 
 - **(12)** L’équipement et les ustensiles utilisés pour la manutention des matières incomestibles ou contaminées dans un poste d’oeufs agréé doivent être désignés en conséquence et ne doivent pas servir à la manutention des oeufs.
 
-- **(13)** Tout contenant d’oeufs reçu au poste d’oeufs agréé doit être propre, au sens de l’article 13.
+- **(13)** Tout contenant d’oeufs reçu au poste d’oeufs agréé doit être propre, au sens de l’article 13.
 
 - **(14)** Tous les oeufs non classés reçus au poste d’oeufs agréé doivent être classés et marqués avant d’être commercialisés, sauf si le directeur exécutif en ordonne autrement.
 
@@ -414,12 +414,12 @@ Autorités habilitantes :
 - **(17)** Aucune pièce du poste d’oeufs agréé servant à l’entreposage des oeufs ne peut être utilisée pour la classification d’oeufs non classés au préalable.
 
 - **(18)** La température de toute pièce du poste d’oeufs agréé où des oeufs sont entreposés doit être maintenue à au plus :
-	- **a)** 10 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada A, Canada B ou Canada C;
-	- **b)** 13 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada Oeufs toutvenant, des oeufs non classés ou des oeufs portant une marque de teinture.
+	- **a)** 10 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada A, Canada B ou Canada C;
+	- **b)** 13 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada Oeufs toutvenant, des oeufs non classés ou des oeufs portant une marque de teinture.
 
 - **(19)** Aucune substance susceptible de dégager une odeur risquant d’altérer la saveur des oeufs ne peut être gardée dans le poste d’oeufs agréé.
 
-- **(20)** Tous les oeufs examinés dans un poste d’oeufs agréé qui ne répondent pas aux normes d’une catégorie prescrites à l’annexe I doivent être détruits ou emballés dans des contenants portant la mention « Rejetés » ou « *Rejects* ».
+- **(20)** Tous les oeufs examinés dans un poste d’oeufs agréé qui ne répondent pas aux normes d’une catégorie prescrites à l’annexe I doivent être détruits ou emballés dans des contenants portant la mention « Rejetés » ou « *Rejects* ».
 
 - **(21)** Il est interdit à toute personne qui souffre d’une maladie contagieuse, qui est porteuse connue d’une maladie contagieuse ou qui a une lésion infectée ouverte ou exposée de travailler dans les aires du poste d’oeufs agréé où il y a un risque de contamination, par des microorganismes pathogènes, des oeufs ou des surfaces avec lesquelles les oeufs entrent en contact.
 
@@ -449,7 +449,7 @@ Autorités habilitantes :
 	- **d)** est équipé, s’il y a lieu, de façon à garder les oeufs réfrigérés;
 	- **e)** n’est pas et n’a pas été utilisé pour l’acheminement de produits antiparasitaires au sens de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de tout autre matériau, substance ou chose qui pourrait contaminer les oeufs ou en altérer la saveur.
 
-- **(29)** Les oeufs acheminés dans un véhicule vers un poste d’oeufs agréé ne peuvent y être reçus que si le véhicule satisfait aux exigences des alinéas (28)a) à e).
+- **(29)** Les oeufs acheminés dans un véhicule vers un poste d’oeufs agréé ne peuvent y être reçus que si le véhicule satisfait aux exigences des alinéas (28)a) à e).
 
 - **(30)** Les oeufs classés qui sont retournés à un poste d’oeufs agréé ne peuvent être acheminés à partir de ce poste en tant qu’oeufs comestibles que vers un poste agréé d’oeufs transformés.
 
@@ -460,12 +460,12 @@ Autorités habilitantes :
 - **(32)** À la demande de l’exploitant, le directeur peut désigner une autre température minimale ou une autre valeur de pH minimale, ou les deux, si l’exploitant démontre au directeur qu’une telle mesure ne compromettrait pas l’efficacité ni la sécurité du réseau de lavage des oeufs.
 
 - **(33)** L’eau utilisée pour laver les oeufs doit :
-	- **a)** contenir un agent nettoyant de coquille d’oeuf efficace figurant dans la Liste de référence ou dont l’utilisation dans un poste d’oeufs, tel qu’il a été démontré par l’exploitant, est tout aussi sûre et efficace;
+	- **a)** contenir un agent nettoyant de coquille d’oeuf sûr et efficace;
 	- **b)** être renouvelée à la fin de chaque quart de travail et plus souvent si cela est nécessaire pour éviter la contamination des oeufs;
 	- **c)** dans le cas d’un réseau de lavage utilisant de l’eau recyclée, être maintenue à un niveau permettant un débordement continu.
 
 - **(34)** Seuls les oeufs classés Canada A peuvent être pasteurisés.
-> DORS/81-1007, art. 4; DORS/90-110, art. 3; DORS/92-12, art. 4; DORS/95-250, art. 2; DORS/2000-183, art. 2; DORS/2000-184, art. 3 et 4; DORS/2006-193, art. 6; DORS/2011-205, art. 6.
+> DORS/81-1007, art. 4; DORS/90-110, art. 3; DORS/92-12, art. 4; DORS/95-250, art. 2; DORS/2000-183, art. 2; DORS/2000-184, art. 3 et 4; DORS/2006-193, art. 6; DORS/2011-205, art. 6; DORS/2013-77, art. 3.
 
 
 
