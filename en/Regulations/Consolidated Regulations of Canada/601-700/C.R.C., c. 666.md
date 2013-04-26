@@ -168,16 +168,23 @@ Enabling authorities:
 
 - **(3)** The following fertilizers and supplements are exempt from registration:
 	- **(a)** fertilizers and supplements set out in Schedule II;
-	- **(b)** farm fertilizers that do not contain pesticides and that satisfy section 10;
+	- **(b)** farm fertilizers, if
+		- **(i)** they are mixed fertilizers,
+		- **(ii)** the nutrients contained in them are in a mineral form and are obtained by extraction or by physical or chemical processes, and
+		- **(iii)** they do not contain a pesticide;
 	- **(c)** supplements sold only for correction of soil acidity or alkalinity;
-	- **(d)** supplements referred to in subsections 10.2(3) and (5);
+	- **(d)** supplements that consist of seeds that are treated with a fertilizer or a supplement that
+		- **(i)** is exempt from registration, or
+		- **(ii)** is registered, and whose label indicates that it is for use in treating seeds;
 	- **(e)** peat, peat moss, sphagnum moss, tree bark and other fibrous organic matter that is represented for use only in improving the physical conditions of the soil;
 	- **(f)** customer-formula fertilizers;
 	- **(g)** specialty fertilizers, other than those referred to in paragraph (b) of the definition ***specialty fertilizers***, that do not contain pesticides; and
-	- **(h)** potting soils that contain supplements, if those supplements are registered under the Act.
+	- **(h)** potting soils that contain a fertilizer or a supplement that
+		- **(i)** is exempt from registration, or
+		- **(ii)** is registered, and whose label indicates that it is for use in potting soils.
 
 - **(4)** [Repealed, SOR/85-558, s. 3]
-> SOR/79-365, s. 3; SOR/85-558, s. 3; SOR/88-353, s. 3; SOR/92-585, s. 2; SOR/93-232, s. 2; SOR/2003-6, s. 73.
+> SOR/79-365, s. 3; SOR/85-558, s. 3; SOR/88-353, s. 3; SOR/92-585, s. 2; SOR/93-232, s. 2; SOR/2003-6, s. 73; SOR/2013-79, s. 1.
 
 
 
@@ -252,15 +259,7 @@ Enabling authorities:
 ## Standards
 
 
-**10** The major plant nutrients present in every mixed fertilizer containing nitrogen, phosphorous or potassium shall be not less than 24% of the total content of the fertilizer, except if the mixed fertilizer is
-- **(a)** a customer-formula fertilizer;
-- **(b)** a specialty fertilizer;
-- **(c)** a fertilizer the ingredients of which contain
-	- **(i)** at least 50% that is of animal or vegetable origin and that supplies 25% of the nitrogen in the mixture in a water-insoluble form, and
-	- **(ii)** at least 18% that is of major plant nutrients combined; or
-- **(d)** a product registered under the Act.
-> SOR/79-365, s. 8; SOR/2003-6, s. 74; SOR/2006-221, s. 12(F).
-
+**10** [Repealed, SOR/2013-79, s. 2]
 
 
 
@@ -270,74 +269,19 @@ Enabling authorities:
 
 **10.2** 
 
-- **(1)** Where an inoculant supplement
-	- **(a)** contains *Rhizobium* species,
-	- **(b)** is represented for the treatment of seeds, and
-	- **(c)** is intended for use on
-		- **(i)** seeds of the crops specified in Column I of an item of the table to this subsection, or
-		- **(ii)** seeds of a similar size,
-the supplement shall contain, per gram of product, sufficient viable cells of the nodule inducing species to provide, when used according to directions, at least the number of viable cells per seed specified in Column II of that item.
-#### TABLE
-<table>
-<tr>
-<th></th>
-<th>Column I</th>
-<th>Column II</th>
-</tr>
-<tr>
-<th>Item</th>
-<th>Crops</th>
-<th>Number of Viable Cells per Seed</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Alfalfa, clover, birdsfoot trefoil</td>
-<td>10<sup>3</sup></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Sanfoin</td>
-<td>10<sup>4</sup></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Beans, peas, soybeans</td>
-<td>10<sup>5</sup></td>
-</tr>
-</table>
+- **(1) and (1.1)** [Repealed, SOR/2013-79, s. 3]
 
-
-- **(1.1)** Where an inoculant supplement
-	- **(a)** contains *Rhizobium* species,
-	- **(b)** is present in a granular formulation,
-	- **(c)** is intended for use on beans, peas, soy beans or seeds of a similar size, and
-	- **(d)** is intended to be applied in the seed furrow,
-the supplement shall contain, per gram of product, sufficient viable cells of the nodule inducing species to provide, when used according to directions, a minimum of 10<sup>11</sup> viable cells per hectare.
-
-- **(2)** A supplement referred to in subsection (1) shall be so prepared that
+- **(2)** A supplement containing viable microorganisms shall be so prepared that
 	- **(a)** the amount of the product to be applied to the seed of any crop will not interfere with the commonly used rates of seeding for that crop, and
-	- **(b)** the number of viable cells of microbial species other than the desired nodule inducing *Rhizobium* species are at a level that will not affect the viability or performance of such desired species.
+	- **(b)** the number of viable cells of microbial species are at a level not likely to be generally detrimental or seriously injurious to human, animal or plant health or the environment.
 
-- **(3)** Where a supplement consists of pre-inoculated seeds to which only inoculum is adhered and the seeds are of a crop specified in Column I of an item of the table to subsection (1), or of a crop having a similar seed size, each seed shall have adhered to it at least the number of viable cells of the nodule inducing species specified in Column II of the item.
-
-- **(4)** Every supplement referred to in subsection (3) shall be so prepared that
-	- **(a)** [Repealed, SOR/85-558, s. 6]
-	- **(b)** the product does not contain a substance that would inhibit nodulation and nitrogen fixation; and
-	- **(c)** the number of viable cells of microbial species, other than the desired nodule inducing *Rhizobium* species, are at a level not likely to affect the viability or performance of the desired species.
-
-- **(5)** Where a supplement consists of coated pre-inoculated seed, that is, a seed to which inoculum is adhered and that is coated with a material for the purpose of protecting the viability of bacteria contained in the inoculum, the person who packed the product shall provide the President of the Agency with results of scientific investigations respecting the effectiveness of the product for its intended purposes including the minimum number of viable cells of intended *Rhizobium* species per seed.
-> SOR/79-365, s. 9; SOR/85-558, s. 6; SOR/88-353, s. 4; SOR/2000-184, s. 57.
+- **(3) to (5)** [Repealed, SOR/2013-79, s. 3]
+> SOR/79-365, s. 9; SOR/85-558, s. 6; SOR/88-353, s. 4; SOR/2000-184, s. 57; SOR/2013-79, s. 3.
 
 
 
 
-**10.3** 
-
-- **(1)** A mixed fertilizer that is represented on its label as being a slow-release fertilizer consisting of Isobutylidene diurea (I.B.D.U.), urea formaldehyde, urea-form or any other chemical compound having similar slow-release properties shall contain at least 25% of the total nitrogen guaranteed present in the water-insoluble form.
-
-- **(2)** Where a representation is made in respect of the performance of a controlled release fertilizer, other than a fertilizer referred to in subsection (1), and the representation is on the label, the person who packaged the product shall provide the President of the Agency with the results of the field performance test of the product.
-> SOR/79-365, s. 9; SOR/2004-80, s. 12; SOR/2006-221, s. 13(E).
-
+**10.3** [Repealed, SOR/2013-79, s. 4]
 
 
 
@@ -348,16 +292,14 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 	- **(b)** any substance that would, when applied in amounts commonly used or as specified in the directions for use, leave in the tissues of a plant a residue of a poisonous or harmful substance; or
 	- **(c)** except in accordance with a permit issued under section 160 of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md) for the purpose of section 6.4 of those Regulations, proteins derived from specified risk material, in any form, that was removed from the carcasses of cattle or that is contained in the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food.
 
-- **(2)** A fertilizer or supplement shall have such chemical and physical composition as to be efficacious for every purpose for which it is represented or sold.
+- **(2)** [Repealed, SOR/2013-79, s. 5]
 
-- **(3)** Where the label on a fertilizer or representations made in respect of a fertilizer indicate that the fertilizer contains lesser plant nutrients,
-	- **(a)** such plant nutrients shall be present in sufficient quantity in the fertilizer to be efficacious for the purpose or purposes indicated on such label or in such representations; and
-	- **(b)** such plant nutrients at recommended rates of use shall not be present at toxic levels.
+- **(3)** A fertilizer shall not contain plant nutrients that are present at toxic levels if the fertilizer is used at recommended rates.
 
 - **(4)** No fertilizer-pesticide shall contain a pesticide
 	- **(a)** of a brand other than an approved brand as set out in the Compendium of Fertilizer-Use Pesticides; or
 	- **(b)** that does not meet the requirements of the Compendium of Fertilizer-Use Pesticides in respect of the approved use and the application rate for that pesticide.
-> SOR/79-365, s. 10; SOR/91-441, s. 2; SOR/93-232, s. 2; SOR/95-548, s. 4; SOR/2003-6, s. 75; SOR/2006-147, s. 8.
+> SOR/79-365, s. 10; SOR/91-441, s. 2; SOR/93-232, s. 2; SOR/95-548, s. 4; SOR/2003-6, s. 75; SOR/2006-147, s. 8; SOR/2013-79, s. 5.
 
 
 
@@ -368,21 +310,11 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 
 
 
-**13** 
-
-- **(1)** Every mixed fertilizer containing two or more major plant nutrients shall have a combined nutrient level, determined on the basis of an analysis of that fertilizer made by an analyst, equal to or greater than the combined nutrient level determined from the guaranteed analysis shown on the label of that fertilizer when each combined nutrient level is computed in accordance with subsection (2).
-
-- **(2)** Each combined nutrient level shall be determined by adding the amount of total nitrogen multiplied by 2.5, the amount of available phosphoric acid multiplied by 2.0 and the amount of soluble potash.
+**13** [Repealed, SOR/2013-79, s. 6]
 
 
 
-**14** 
-
-- **(1)** Where a mixed fertilizer contains two or more nutrients set out in Table I of Schedule I, no nutrient set out in column I of an item of that table shall have a deficiency in the guaranteed amount set out in column II of that item greater than that set out in column III of that item.
-
-- **(2)** Where a fertilizer contains lesser plant nutrients or pesticides set out in Table II of Schedule I, no lesser plant nutrient or pesticide set out in Column I of an item in the table shall have a variation from the guaranteed amount set out in Column II of that item greater than that set out in Column III of that item.
-> SOR/79-365, s. 11; SOR/95-548, s. 4.
-
+**14** [Repealed, SOR/2013-79, s. 6]
 
 
 
@@ -395,9 +327,7 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 - **(b)** in respect of each mixed fertilizer, other than customer-formula fertilizers and fertilizers represented for daily feeding and not for further dilution, the minimum amount of total nitrogen, available phosphoric acid and soluble potash expressed in per cent in whole numbers only,
 - **(c)** in respect of each fertilizer, the minimum amount of calcium, magnesium and sulphur expressed in per cent on the elemental basis,
 - **(d)** in respect of each fertilizer, the amount of each lesser plant nutrient, other than calcium, magnesium and sulphur, expressed in per cent on the elemental basis,
-- **(e)** in respect of each tobacco fertilizer, the minimum amount of nitrate nitrogen, ammoniacal nitrogen and organic nitrogen expressed in per cent,
-- **(f)** in respect of each tobacco fertilizer, the minimum and maximum amounts of chloride expressed in per cent on the elemental basis,
-- **(g)** in respect of each mixed fertilizer containing at least 25 per cent of the nitrogen contained therein in water-insoluble form of plant or animal origin or other source of slowly available nitrogen, the minimum amount of water-insoluble nitrogen expressed in per cent,
+- **(e) to (g)** [Repealed, SOR/2013-79, s. 7]
 - **(h)** in respect of an untreated organic or inorganic phosphatic fertilizer, the minimum amount of total phosphoric acid expressed in per cent,
 - **(i)** where applicable, in respect of each supplement to which the analysis refers,
 	- **(i)** the minimum amount of the active ingredient expressed in per cent,
@@ -413,7 +343,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 - **(k)** in respect of natural rock phosphate basic slag, a mixture of natural rock phosphate and basic slag, hoof and horn meal and bone meal, the per cent passing through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) in width;
 - **(l)** in respect of each fertilizer, the maximum amount, expressed in per cent of leather, hoof, horn, hair, wool waste, garbage or any similar organic material unless the fertilizer or its constituents have been treated in a manner to make the phosphorus available and the potash soluble; and
 - **(m)** in respect of manure, compost, humus or leaf mould, the minimum amount of organic matter expressed in per cent and the maximum amount of moisture expressed in per cent.
-> SOR/79-365, s. 12; SOR/85-558, s. 7; SOR/88-353, s. 5; SOR/93-232, s. 2.
+> SOR/79-365, s. 12; SOR/85-558, s. 7; SOR/88-353, s. 5; SOR/93-232, s. 2; SOR/2013-79, s. 7.
 
 
 
@@ -479,7 +409,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 
 
 
-**17** The label affixed to a package of fertilizer shall not bear a statement that implies the presence of a slowly available plant nutrient unless 25 per cent of the guaranteed amount of the nutrient in the fertilizer is present in a water-insoluble or other slowly available form.
+**17** [Repealed, SOR/2013-79, s. 8]
 
 
 
@@ -576,14 +506,12 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 
 - **(4)** When a grade designation is used on the label of any fertilizer, the numerals shall represent minimum guarantees expressed in per cent for total nitrogen, available phosphoric acid and soluble potash, listed in that order.
 
-- **(5)** A label showing the name of a tobacco fertilizer shall include the words
-	- **(a)** “flue-cured tobacco”, where the fertilizer is intended for flue-cured tobacco production; or
-	- **(b)** “burley tobacco”, where the fertilizer is intended for burley tobacco production.
+- **(5)** [Repealed, SOR/2013-79, s. 9]
 
 - **(6)** The name of a mixed fertilizer shall not include the names or designation of any type or types of soil.
 
 - **(7)** Specialty fertilizers represented for daily feeding and not represented for further dilution shall not be required to have the grade designation stated as part of the name.
-> SOR/79-365, s. 16; SOR/95-548, s. 4.
+> SOR/79-365, s. 16; SOR/95-548, s. 4; SOR/2013-79, s. 9.
 
 
 
@@ -749,90 +677,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 
 
 ### **SCHEDULE I** 
-**(Section 14)**
-#### TABLE I
-<table>
-<tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Individual Nutrients</th>
-<th>Guaranteed Amount</th>
-<th>Deficiency Allowed</th>
-</tr>
-<tr>
-<td>1. Total Nitrogen</td>
-<td>(a) 3 per cent and under</td>
-<td>(a) A deficiency of 0.3 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>(b) over 3 per cent</td>
-<td>(b) A deficiency of 0.3 per cent of the fertilizer plus 10 per cent of the guaranteed amount up to a maximum of 1 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>2. Available Phosphoric Acid</td>
-<td>(a) 3 per cent and under</td>
-<td>(a) A deficiency of 0.3 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>(b) over 3 per cent</td>
-<td>(b) A deficiency of 0.3 per cent of the fertilizer plus 10 per cent of the guaranteed amount up to a maximum of 2 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>3. Soluble Potash</td>
-<td>(a) 3 per cent and under</td>
-<td>(a) A deficiency of 0.3 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>(b) over 3 per cent</td>
-<td>(b) A deficiency of 0.3 per cent of the fertilizer plus 10 per cent of the guaranteed amount up to a maximum of 2 per cent of the fertilizer.</td>
-</tr>
-</table>
-
-#### TABLE II
-<table>
-<tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Individual Nutrients and Pesticides</th>
-<th>Guaranteed Amount</th>
-<th>Variability</th>
-</tr>
-<tr>
-<td>1. Boron, Copper, Iron, Manganese, Molybdenum, Zinc</td>
-<td>(a) Under 1 per cent</td>
-<td>(a) A deficiency or excess of 25 per cent of the guaranteed amount.</td>
-</tr>
-<tr>
-<td>(b) 1 per cent and over</td>
-<td>(b) A deficiency or excess of 0.15 per cent of the fertilizer plus 10 per cent of the guaranteed amount up to a maximum of 1 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>2. Chloride</td>
-<td>All amounts</td>
-<td>Minimum guarantee — a deficiency of 0.2 per cent of the fertilizer. Maximum guarantee — an excess of 0.2 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>3. All pesticides</td>
-<td>(a) 2 per cent and under</td>
-<td>(a) A deficiency or excess of 20 per cent of the guaranteed amount up to a maximum of 0.2 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>(b) over 2 per cent to 5 per cent</td>
-<td>(b) A deficiency or excess of 10 per cent of the guaranteed amount up to a maximum of 0.25 per cent of the fertilizer.</td>
-</tr>
-<tr>
-<td>(c) over 5 per cent</td>
-<td>(c) A deficiency or excess of 5 per cent of the guaranteed amount up to a maximum of 0.6 per cent of the fertilizer.</td>
-</tr>
-</table>
-
-> SOR/88-353, s. 6; SOR/93-232, s. 2.
+[Repealed, SOR/2013-79, s. 10]
 
 
 
