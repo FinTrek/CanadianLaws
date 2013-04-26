@@ -2327,7 +2327,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 	- **d)** permettre, s’il y a lieu, le maintien d’une température adéquate de façon à ce que la transformation et l’entreposage du poisson se fassent dans des conditions salubres;
 	- **e)** permettre que l’entrée de la matière première dans l’établissement et l’expédition du produit fini hors de l’établissement se fassent de façon rapide et ordonnée.
 
-- **(2)** Les matériaux de construction, les matériaux d’emballage et les produits chimiques non alimentaires utilisés dans la construction et l’exploitation des établissements agréés, ou dans l’équipement qui s’y trouvent, doivent faire partie de la *Liste de référence pour les pièces de matériaux de construction, les matériaux d’emballage et les produits chimiques non alimentaires acceptés*, publiée par l’Agence le 1<sup>er</sup> février 1998, avec ses modifications successives.
+- **(2)** Les matériaux de construction, les matériaux d’emballage et les produits chimiques non alimentaires utilisés dans la construction et l’exploitation des établissements, ou dans l’équipement qui s’y trouve, doivent convenir aux fins auxquelles ils sont destinés.
 
 - **(3)** Le poisson salé, le calmar, le stockfish et le capelan peuvent être séchés à l’extérieur de l’établissement, pourvu que le séchage ait lieu à l’écart de la circulation, sur un terrain dont l’exploitant de l’établissement a la charge, sur des vigneaux ou un autre équipement placés à au moins 1 m au-dessus du sol ou de l’eau, et que le poisson soit manipulé de manière à prévenir tout risque de contamination.
 
@@ -2517,7 +2517,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **g)** d’installations sanitaires marines ou de toute autre installation jugée acceptable par l’inspecteur.
 
 
-> DORS/81-374, art. 18 à 21; DORS/83-110, art. 4; DORS/99-169, art. 10; DORS/2002-437, art. 3, 4, 5(F), 6(A), 7(F) et 8(F); DORS/2009-314, art. 13(A).
+> DORS/81-374, art. 18 à 21; DORS/83-110, art. 4; DORS/99-169, art. 10; DORS/2002-437, art. 3, 4, 5(F), 6(A), 7(F) et 8(F); DORS/2009-314, art. 13(A); DORS/2013-78, art. 1.
 
 
 
