@@ -26,21 +26,21 @@ Enabling authorities:
 
 ***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***[Repealed, SOR/2011-205, s. 1]
+***adulterated***[Repealed, SOR/2011-205, s. 1]
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
 ***blood spot*** means a small particle of blood on the yolk or in the albumen of an egg; (*caillot sanguin*)
 
-***box*** means a container made to contain 15 dozen eggs; (*boîte*)
+***box*** means a container made to contain 15 dozen eggs; (*boîte*)
 
 ***candling*** means examining the interior condition of an egg by rotating or causing the egg to rotate in front of or over a light source that illuminates the contents of the egg; (*mirage*)
 
-***carton*** means a container that is capable of being closed and that is made to contain not more than 30 eggs in separate compartments; (*boîte à oeufs ou carton*)
+***carton*** means a container that is capable of being closed and that is made to contain not more than 30 eggs in separate compartments; (*boîte à oeufs ou carton*)
 
-***case*** means a container made to contain 30 dozen eggs; (*caisse*)
+***case*** means a container made to contain 30 dozen eggs; (*caisse*)
 
-***code mark***[Repealed, SOR/2002-354, s. 1]
+***code mark***[Repealed, SOR/2002-354, s. 1]
 
 ***container*** means any case, box, tray with an overwrap, carton, or other receptacle made to contain eggs; (*contenant*)
 
@@ -52,13 +52,13 @@ Enabling authorities:
 
 ***dirt*** means any egg yolk, manure, soil or foreign matter that can be readily removed from the shell of an egg; (*saleté*)
 
-***District Supervisor***[Repealed, SOR/81-1007, s. 1]
+***District Supervisor***[Repealed, SOR/81-1007, s. 1]
 
 ***domestic hen*** means a hen of the domestic chicken belonging to the species *Gallus Domesticus*; (*poule domestique*)
 
-***Drinking Water Quality Guidelines*** means the Summary of Guidelines for Canadian Drinking Water Quality — excluding *Supporting Documentation* and references to *Supporting Documentation* — as amended from time to time, prepared by the Federal-Provincial-Territorial Committee on Drinking Water of the Federal-Provincial-Territorial Committee on Environmental and Occupational Health, published on the Web site of the Department of Health; (*Recommandations pour la qualité de l'eau potable*)
+***Drinking Water Quality Guidelines*** means the Summary of Guidelines for Canadian Drinking Water Quality — excluding *Supporting Documentation* and references to *Supporting Documentation* — as amended from time to time, prepared by the Federal-Provincial-Territorial Committee on Drinking Water of the Federal-Provincial-Territorial Committee on Environmental and Occupational Health, published on the Web site of the Department of Health; (*Recommandations pour la qualité de l’eau potable*)
 
-***dye mark*** means a mark consisting of a deposit of food colour not exceeding 20 mm in diameter that is applied to the large end of an egg at a registered egg station; (*marque de teinture*)
+***dye mark*** means a mark consisting of a deposit of food colour not exceeding 20 mm in diameter that is applied to the large end of an egg at a registered egg station; (*marque de teinture*)
 
 ***edible*** means fit for use as human food; (*version anglaise seulement*)
 
@@ -68,13 +68,13 @@ Enabling authorities:
 
 ***Executive Director*** means the Executive Director designated by the President of the Agency; (*directeur exécutif*)
 
-***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
+***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
-***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
+***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
 ***food colour*** has the same meaning as in the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*colorant alimentaire*)
 
-***grade designation*** means Grade A, Grade B, Grade C or Grade Nest Run; (*désignation de catégorie*)
+***grade designation*** means Grade A, Grade B, Grade C or Grade Nest Run; (*désignation de catégorie*)
 
 ***lot*** means a quantity of eggs that for any reason is considered separately from any other quantity of eggs for the purpose of an inspection; (*lot*)
 
@@ -82,31 +82,31 @@ Enabling authorities:
 
 ***operator*** means the person who is responsible for the operation of a registered egg station; (*exploitant*)
 
-***overgrade***[Repealed, SOR/98-131, s. 1]
+***overgrade***[Repealed, SOR/98-131, s. 1]
 
 ***processed egg*** has the same meaning as in the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*oeuf transformé*)
 
-***processed eggs***[Repealed, SOR/90-299, s. 1]
+***processed eggs***[Repealed, SOR/90-299, s. 1]
 
 ***producer*** means a person who ships, transports or sells eggs produced only on his own farm; (*producteur*)
 
-***producer code***[Repealed, SOR/95-548, s. 2]
+***producer code***[Repealed, SOR/95-548, s. 2]
 
 ***producer premises code*** means a combination of letters, symbols and numbers that distinguishes the premises of a producer from which the eggs originated; (*code de l’exploitation du producteur*)
 
-***Reference Listing*** means the Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products published on the Web site of the Agency, as amended from time to time; (*Liste de référence*)
+***Reference Listing***[Repealed, SOR/2013-77, s. 1]
 
-***Regional Director***[Repealed, SOR/90-110, s. 1]
+***Regional Director***[Repealed, SOR/90-110, s. 1]
 
-***Regional Director General***[Repealed, SOR/2000-184, s. 1]
+***Regional Director General***[Repealed, SOR/2000-184, s. 1]
 
-***registered egg product station***[Repealed, SOR/81-1007, s. 1]
+***registered egg product station***[Repealed, SOR/81-1007, s. 1]
 
-***registered egg station*** means an egg station registered under section 7; (*poste d’oeufs agréé*)
+***registered egg station*** means an egg station registered under section 7; (*poste d’oeufs agréé*)
 
-***registered processed egg station*** has the same meaning as in section 2 of the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*poste agréé d’oeufs transformés*)
+***registered processed egg station*** has the same meaning as in section 2 of the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*poste agréé d’oeufs transformés*)
 
-***registration number*** means the number assigned to a registered egg station pursuant to section 7; (*numéro d’agrément*)
+***registration number*** means the number assigned to a registered egg station pursuant to section 7; (*numéro d’agrément*)
 
 ***reject*** means an egg that on examination at a registered egg station does not meet the requirements of any grade established by these Regulations; (*rejeté*)
 
@@ -114,10 +114,10 @@ Enabling authorities:
 
 ***stain*** means any substance on the shell of an egg, other than dirt or a dye mark or a design or an emblem stamped thereon; (*tache*)
 
-***tray*** means a container, other than a carton, that is made to contain not more than 30 eggs in separate compartments; (*plateau*)
+***tray*** means a container, other than a carton, that is made to contain not more than 30 eggs in separate compartments; (*plateau*)
 
 ***undergrade*** means an egg that does not meet the requirements for the grade at which it is graded. (*inférieur à la catégorie*)
-> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1; SOR/2006-193, s. 1; SOR/2011-205, s. 1.
+> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1; SOR/2006-193, s. 1; SOR/2011-205, s. 1; SOR/2013-77, s. 1.
 
 
 
@@ -337,7 +337,7 @@ Enabling authorities:
 		- **(ii)** adequate in size and equipment for the number of people using them,
 		- **(iii)** well lighted and ventilated, and
 		- **(iv)** in the case of lavatories, separate from and not leading directly into any room used for handling eggs;
-	- **(k)** subject to subsection (3), be supplied with potable hot and cold water that is protected against contamination and that is adequate in quantity and pressure to serve the water needs of the egg station;
+	- **(k)** subject to subsection (3), be supplied with potable hot and cold water that is protected against contamination and that is adequate in quantity and pressure to serve the water needs of the egg station;
 	- **(l)** have adequate means of waste removal and disposal;
 	- **(m)** have drainage and sewage systems that are
 		- **(i)** in accordance with the plumbing code of the province in which the egg station is located,
@@ -359,12 +359,12 @@ Enabling authorities:
 	- **(p)** have adequate facilities and means for the thorough washing, cleaning and sanitizing of equipment;
 	- **(q)** be equipped with adequate means of establishing, maintaining and verifying the temperature and humidity of any room where eggs are held;
 	- **(r)** have a room for the inspection of eggs that is suitably equipped for that purpose;
-	- **(s)** if eggs are pasteurized at the egg station, have the equipment necessary for the pasteurization program referred to in paragraph 7(2)(h);
-	- **(t)** use, for bringing about and maintaining clean and sanitary conditions in the egg station, only those chemical agents that are included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective; and
-	- **(u)** have one or more separate rooms for the storage of eggs graded Canada A, Canada B or Canada C.
+	- **(s)** if eggs are pasteurized at the egg station, have the equipment necessary for the pasteurization program referred to in paragraph 7(2)(h);
+	- **(t)** use, for bringing about and maintaining clean and sanitary conditions in the egg station, only those chemical agents that are safe and effective; and
+	- **(u)** have one or more separate rooms for the storage of eggs graded Canada A, Canada B or Canada C.
 
-- **(3)** A registered egg station may use water other than potable water referred to in paragraph (2)(k) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
-> SOR/90-110, s. 3; SOR/92-12, s. 3; SOR/2006-193, s. 5.
+- **(3)** A registered egg station may use water other than potable water referred to in paragraph (2)(k) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
+> SOR/90-110, s. 3; SOR/92-12, s. 3; SOR/2006-193, s. 5; SOR/2013-77, s. 2.
 
 
 
@@ -379,7 +379,7 @@ Enabling authorities:
 
 - **(2)** The building, equipment, utensils and all other physical facilities of a registered egg station shall be maintained in a sanitary condition.
 
-- **(3)** Every registered egg station shall be operated in accordance with the programs referred to in paragraphs 7(2)(b) to (f) and, where applicable, the pasteurization program referred to in paragraph 7(2)(h), and up-to-date records shall be maintained in respect of those programs.
+- **(3)** Every registered egg station shall be operated in accordance with the programs referred to in paragraphs 7(2)(b) to (f) and, where applicable, the pasteurization program referred to in paragraph 7(2)(h), and up-to-date records shall be maintained in respect of those programs.
 
 - **(4)** Operations in relation to the preparation of eggs in a registered egg station shall be carried out under stringent sanitary control.
 
@@ -387,7 +387,7 @@ Enabling authorities:
 
 - **(6)** In a registered egg station, no material or coating shall be used in repairing the floors, walls, ceilings, doors, windows and other parts of any room or area in which eggs are prepared unless the material or coating is durable and free from any noxious constituent.
 
-- **(7)** Egg sorting and inspection working surfaces in a registered egg station shall have a minimum illumination of 540 lx.
+- **(7)** Egg sorting and inspection working surfaces in a registered egg station shall have a minimum illumination of 540 lx.
 
 - **(8)** Refuse shall be removed at least once daily from within a registered egg station.
 
@@ -399,7 +399,7 @@ Enabling authorities:
 
 - **(12)** Equipment and utensils used to handle inedible or contaminated materials in a registered egg station shall be so identified and shall not be used to handle eggs.
 
-- **(13)** Every container of eggs received at a registered egg station shall be clean, as defined in section 13.
+- **(13)** Every container of eggs received at a registered egg station shall be clean, as defined in section 13.
 
 - **(14)** All ungraded eggs received at a registered egg station shall be graded and marked prior to being marketed unless the Executive Director otherwise directs.
 
@@ -410,12 +410,12 @@ Enabling authorities:
 - **(17)** A room used for storing eggs in a registered egg station shall not also be used for grading eggs that have not been previously graded.
 
 - **(18)** The temperature of any room where eggs are held in a registered egg station shall be maintained at not more than
-	- **(a)** 10°C in the case of a room holding eggs graded Canada A, Canada B or Canada C; and
+	- **(a)** 10°C in the case of a room holding eggs graded Canada A, Canada B or Canada C; and
 	- **(b)** 13°C in the case of a room holding eggs graded Canada Nest Run, ungraded eggs or eggs bearing a dye-mark.
 
 - **(19)** Nothing that is likely to emit an odour that could affect the flavour of eggs shall be kept in a registered egg station.
 
-- **(20)** On examination, any egg in a registered egg station that fails to meet the requirements of a grade set out in Schedule I shall be destroyed or packed in a container bearing the words “Rejects” or “*Rejetés*”.
+- **(20)** On examination, any egg in a registered egg station that fails to meet the requirements of a grade set out in Schedule I shall be destroyed or packed in a container bearing the words “Rejects” or “*Rejetés*”.
 
 - **(21)** No person who suffers from or is a known carrier of a communicable disease or who has an infected lesion that is open or exposed shall work in any area of a registered egg station where there is a danger of contaminating eggs or an egg contact surface with pathogenic micro-organisms.
 
@@ -443,9 +443,9 @@ Enabling authorities:
 	- **(b)** has inside surfaces that are hard, smooth, in good repair and clean;
 	- **(c)** provides adequate protection for the eggs from contamination;
 	- **(d)** is equipped, where applicable, to maintain the eggs in a refrigerated state; and
-	- **(e)** is not being used and has not been used for the conveyance of a pest control product within the meaning of subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance or thing that might affect the flavour of or contaminate the eggs.
+	- **(e)** is not being used and has not been used for the conveyance of a pest control product within the meaning of subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance or thing that might affect the flavour of or contaminate the eggs.
 
-- **(29)** No eggs that are conveyed to a registered egg station in a vehicle shall be received at the registered egg station unless the vehicle meets the requirements of paragraphs (28)(a) to (e).
+- **(29)** No eggs that are conveyed to a registered egg station in a vehicle shall be received at the registered egg station unless the vehicle meets the requirements of paragraphs (28)(a) to (e).
 
 - **(30)** No graded eggs that are returned to a registered egg station shall be conveyed from the station as edible eggs other than to a registered processed egg station.
 
@@ -456,12 +456,12 @@ Enabling authorities:
 - **(32)** The Director, at the request of the operator, may designate an alternate minimum temperature or pH level, or both, for the water that is used to wash eggs if the operator demonstrates that there will be no adverse impact on the safety and effectiveness of the egg washing system.
 
 - **(33)** The water that is used to wash eggs shall
-	- **(a)** contain an effective shell egg cleaning compound for the washing of eggs that is included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective;
+	- **(a)** contain a shell egg cleaning compound that is safe and effective;
 	- **(b)** be changed at the end of each shift, and more frequently as may be necessary to avoid contamination of eggs; and
 	- **(c)** in the case of a recirculating washing system, be maintained at a level that permits a continuous overflow.
 
-- **(34)** No eggs shall be pasteurized unless they are eggs graded Canada A.
-> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4; SOR/2006-193, s. 6; SOR/2011-205, s. 6.
+- **(34)** No eggs shall be pasteurized unless they are eggs graded Canada A.
+> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4; SOR/2006-193, s. 6; SOR/2011-205, s. 6; SOR/2013-77, s. 3.
 
 
 
