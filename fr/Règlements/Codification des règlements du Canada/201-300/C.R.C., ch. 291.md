@@ -28,41 +28,41 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***activité de l’eau*** désigne le rapport de la pression de vapeur du produit alimentaire sur la pression de vapeur de l’eau pure dans des conditions identiques de pression et de température; (*water activity*)
+***activité de l’eau*** désigne le rapport de la pression de vapeur du produit alimentaire sur la pression de vapeur de l’eau pure dans des conditions identiques de pression et de température; (*water activity*)
 
-***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
+***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***aliment*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
+***aliment*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
 
 ***bombage***[Abrogée, DORS/95-548, art. 2]
 
 ***bombage chimique***[Abrogée, DORS/95-548, art. 2]
 
-***catégorie*** Catégorie établie pour les fruits et les légumes en conserve ou congelés, en conformité avec les articles 3.1 et 4. (*grade*)
+***catégorie*** Catégorie établie pour les fruits et les légumes en conserve ou congelés, en conformité avec les articles 3.1 et 4. (*grade*)
 
-***conserve compacte*** signifie des conserves dans lesquelles le fruit ou le légume a été partiellement ou totalement précuit avant sa transformation de façon à permettre l’emballage compact du produit avec la quantité minimum de liquide libre; (*solid pack*)
+***conserve compacte*** signifie des conserves dans lesquelles le fruit ou le légume a été partiellement ou totalement précuit avant sa transformation de façon à permettre l’emballage compact du produit avec la quantité minimum de liquide libre; (*solid pack*)
 
-***conservé dans la saumure*** signifie un produit en conserve dans lequel l’agent de conservation utilisé est une solution d’eau et de sel, avec ou sans addition de sucre; (*brine pack*)
+***conservé dans la saumure*** signifie un produit en conserve dans lequel l’agent de conservation utilisé est une solution d’eau et de sel, avec ou sans addition de sucre; (*brine pack*)
 
-***conservé dans l’eau*** signifie un produit en conserve dans lequel l’eau est utilisée comme agent de conservation; (*water pack*)
+***conservé dans l’eau*** signifie un produit en conserve dans lequel l’eau est utilisée comme agent de conservation; (*water pack*)
 
-***conservé dans le sirop*** désigne un produit en conserve dans lequel l’agent de conservation est le sucre, le sucre inverti, le miel, le dextrose ou le glucose, à l’état sec ou liquide, utilisé avec de l’eau; (*syrup pack*)
+***conservé dans le sirop*** désigne un produit en conserve dans lequel l’agent de conservation est le sucre, le sucre inverti, le miel, le dextrose ou le glucose, à l’état sec ou liquide, utilisé avec de l’eau; (*syrup pack*)
 
-***conserve épaisse*** signifie des conserves dans lesquelles une quantité minimum d’eau nécessaire à leur bonne transformation est utilisée comme agent de conservation; (*heavy pack*)
+***conserve épaisse*** signifie des conserves dans lesquelles une quantité minimum d’eau nécessaire à leur bonne transformation est utilisée comme agent de conservation; (*heavy pack*)
 
-***conservé sous vide*** signifie un produit en conserve dans lequel une quantité minimum d’agents de conservation est utilisée et le vide est créé mécaniquement; (*vacuum pack*)
+***conservé sous vide*** signifie un produit en conserve dans lequel une quantité minimum d’agents de conservation est utilisée et le vide est créé mécaniquement; (*vacuum pack*)
 
-***contaminé*** Qualifie le produit alimentaire qui contient un produit chimique, une drogue, un additif alimentaire, un métal lourd, un polluant industriel, un ingrédient, un médicament, un microbe, un pesticide, un poison, une toxine ou toute autre substance dont l’utilisation est interdite sous le régime de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou dont la quantité excède les limites de tolérance prescrites sous le régime de ces lois. (*contaminated*)
+***contaminé*** Qualifie le produit alimentaire qui contient un produit chimique, une drogue, un additif alimentaire, un métal lourd, un polluant industriel, un ingrédient, un médicament, un microbe, un pesticide, un poison, une toxine ou toute autre substance dont l’utilisation est interdite sous le régime de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou dont la quantité excède les limites de tolérance prescrites sous le régime de ces lois. (*contaminated*)
 
-***contenant*** L’emballage dans lequel un produit alimentaire est offert en vente. (*container*)
+***contenant*** L’emballage dans lequel un produit alimentaire est offert en vente. (*container*)
 
-***contenant d’expédition*** désigne un récipient, un emballage ou une toile d’emballage dans lequel les contenants des produits alimentaires sont placés aux fins de transport; (*shipping container*)
+***contenant d’expédition*** désigne un récipient, un emballage ou une toile d’emballage dans lequel les contenants des produits alimentaires sont placés aux fins de transport; (*shipping container*)
 
-***contenant hermétiquement scellé*** désigne un contenant conçu pour y empêcher l’entrée des micro-organismes, y compris les spores; (*hermetically sealed container*)
+***contenant hermétiquement scellé*** désigne un contenant conçu pour y empêcher l’entrée des micro-organismes, y compris les spores; (*hermetically sealed container*)
 
-***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
+***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
 
 ***directeur régional***[Abrogée, DORS/95-548, art. 2]
 
@@ -70,47 +70,47 @@ Autorités habilitantes :
 
 ***emballage***[Abrogée, DORS/98-579, art. 1]
 
-***espace libre*** signifie l’espace entre le rebord ou l’extrémité supérieure du contenant et le niveau supérieur du contenu; (*head space*)
+***espace libre*** signifie l’espace entre le rebord ou l’extrémité supérieure du contenant et le niveau supérieur du contenu; (*head space*)
 
-***espace principal*** S’entend au sens du paragraphe 2(2) du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md). (*principal display panel*)
+***espace principal*** S’entend au sens du paragraphe 2(2) du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md). (*principal display panel*)
 
-***établissement*** signifie tout endroit dans lequel les fruits ou les légumes, ou tout produit de fruits ou de légumes, sont préparés pour fins d’alimentation; (*establishment*)
+***établissement*** signifie tout endroit dans lequel les fruits ou les légumes, ou tout produit de fruits ou de légumes, sont préparés pour fins d’alimentation; (*establishment*)
 
-***établissement agréé*** Établissement agréé en vertu du paragraphe 11(1). (*registered establishment*)
+***établissement agréé*** Établissement agréé en vertu du paragraphe 11(1). (*registered establishment*)
 
 ***établissement enregistré***[Abrogée, DORS/95-548, art. 2(F)]
 
-***étiquette*** signifie toute étiquette, ou tout papier gommé, sceau, enveloppe, pochoir ou récipient imprimés, marqués au pochoir, lithographiés ou imprimés en relief; (*label*)
+***étiquette*** signifie toute étiquette, ou tout papier gommé, sceau, enveloppe, pochoir ou récipient imprimés, marqués au pochoir, lithographiés ou imprimés en relief; (*label*)
 
-***étiquette enregistrée*** Étiquette enregistrée sous le régime de l’article 44. (*registered label*)
+***étiquette enregistrée***[Abrogée, DORS/2013-76, art. 1]
 
-***exploitant*** La personne responsable de l’exploitation d’un établissement agréé. (*operator*) 
+***exploitant*** La personne responsable de l’exploitation d’un établissement agréé. (*operator*) 
 
 ***fabricant***[Abrogée, DORS/86-622, art. 1]
 
-***facteurs critiques*** désigne les facteurs physiques et chimiques qui influencent le traitement thermique dans l’atteinte du degré de stérilité commerciale; (*critical factors*)
+***facteurs critiques*** désigne les facteurs physiques et chimiques qui influencent le traitement thermique dans l’atteinte du degré de stérilité commerciale; (*critical factors*)
 
 ***falsifié***[Abrogée, DORS/2011-205, art. 26]
 
-***formulation*** en ce qui concerne un produit alimentaire, désigne :
+***formulation*** en ce qui concerne un produit alimentaire, désigne :
 - **a)** ses ingrédients et composantes, y compris les additifs alimentaires,
-- **b)** la proportion de ses ingrédients et de ses composantes; (*formulation*)
+- **b)** la proportion de ses ingrédients et de ses composantes; (*formulation*)
 
-***ingrédient*** désigne une unité particulière d’aliment qui est combinée à une ou à plusieurs unités particulières d’aliment pour former une unité intégrale d’aliment; (*ingredient*)
+***ingrédient*** désigne une unité particulière d’aliment qui est combinée à une ou à plusieurs unités particulières d’aliment pour former une unité intégrale d’aliment; (*ingredient*)
 
 ***inspecteur***[Abrogée, DORS/97-300, art. 1]
 
 ***léger flochage***[Abrogée, DORS/95-548, art. 2]
 
-***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
+***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
 
 ***lot d’inspection***[Abrogée, DORS/95-548, art. 2]
 
-***méthode acceptable*** Méthode d’analyse ou d’examen désignée par le ministre comme étant acceptable aux fins de l’application de la Loi et du présent règlement. (*acceptable method*)
+***méthode acceptable*** Méthode d’analyse ou d’examen désignée par le ministre comme étant acceptable aux fins de l’application de la Loi et du présent règlement. (*acceptable method*)
 
 ***ministère***[Abrogée, DORS/2000-184, art. 23]
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
 ***nombre déterminant l’acceptation***[Abrogée, DORS/95-548, art. 2]
 
@@ -122,21 +122,21 @@ Autorités habilitantes :
 
 ***plan d’échantillonnage simple***[Abrogée, DORS/95-548, art. 2]
 
-***premier commerçant*** Toute personne qui acquiert un produit alimentaire emballé par une autre personne pour le vendre sous sa propre étiquette. (*first dealer*)
+***premier commerçant*** Toute personne qui acquiert un produit alimentaire emballé par une autre personne pour le vendre sous sa propre étiquette. (*first dealer*)
 
-***principale surface exposée*** S’entend au sens du paragraphe 2(1) du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md). (*principal display surface*)
+***principale surface exposée*** S’entend au sens du paragraphe 2(1) du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md). (*principal display surface*)
 
-***produit alimentaire*** ou ***produit*** signifie tout aliment préparé en entier ou en partie à partir de fruits et légumes; (*food product*)
+***produit alimentaire*** ou ***produit*** signifie tout aliment préparé en entier ou en partie à partir de fruits et légumes; (*food product*)
 
-***produit alimentaire peu acide*** désigne un produit alimentaire dont une des composantes possède un pH supérieur à 4,6 et une activité hydrique (Aw) supérieure à 0,85, après le traitement thermique; (*low-acid food product*)
+***produit alimentaire peu acide*** désigne un produit alimentaire dont une des composantes possède un pH supérieur à 4,6 et une activité hydrique (Aw) supérieure à 0,85, après le traitement thermique; (*low-acid food product*)
 
-***produit alimentaire peu acide à pH réduit*** Produit alimentaire qui a été mariné ou soumis à un processus de fermentation afin d’atteindre un pH d’équilibre d’au plus 4,6 après le traitement thermique. (*acidified low-acid food product*)
+***produit alimentaire peu acide à pH réduit*** Produit alimentaire qui a été mariné ou soumis à un processus de fermentation afin d’atteindre un pH d’équilibre d’au plus 4,6 après le traitement thermique. (*acidified low-acid food product*)
 
-***produit préemballé*** signifie tout produit qui est emballé de telle manière qu’il est ordinairement vendu au consommateur ou utilisé ou acheté par lui sans être réemballé; (*prepackaged product*)
+***produit préemballé*** signifie tout produit qui est emballé de telle manière qu’il est ordinairement vendu au consommateur ou utilisé ou acheté par lui sans être réemballé; (*prepackaged product*)
 
-***stérilité commerciale*** désigne l’état d’un produit alimentaire exempt de toute forme de micro-organismes, y compris les spores, qui sont susceptibles de se propager à une température supérieure à 4 °C; (*commercial sterility*)
+***stérilité commerciale*** désigne l’état d’un produit alimentaire exempt de toute forme de micro-organismes, y compris les spores, qui sont susceptibles de se propager à une température supérieure à 4 °C; (*commercial sterility*)
 
-***succédané*** Tout produit alimentaire qui est analogue en apparence à un produit transformé et qui est conditionné aux mêmes fins que le produit transformé, mais qui ne répond pas aux normes établies par le présent règlement pour ce produit transformé. (*substitute*)
+***succédané*** Tout produit alimentaire qui est analogue en apparence à un produit transformé et qui est conditionné aux mêmes fins que le produit transformé, mais qui ne répond pas aux normes établies par le présent règlement pour ce produit transformé. (*substitute*)
 
 ***surveillant régional***[Abrogée, DORS/87-372, art. 1]
 
@@ -144,16 +144,16 @@ Autorités habilitantes :
 
 ***taille de l’échantillon***[Abrogée, DORS/95-548, art. 2]
 
-***traitement programmé*** désigne le traitement thermique, effectué seul ou en combinaison avec des facteurs critiques choisis par l’opérateur pour une formulation donnée, le type et le calibre du contenant et une unité du système de traitement thermique qui permet d’atteindre, au minimum, le degré de stérilité commerciale; (*scheduled process*)
+***traitement programmé*** désigne le traitement thermique, effectué seul ou en combinaison avec des facteurs critiques choisis par l’opérateur pour une formulation donnée, le type et le calibre du contenant et une unité du système de traitement thermique qui permet d’atteindre, au minimum, le degré de stérilité commerciale; (*scheduled process*)
 
-***transformé*** Qualifie le produit alimentaire mis en conserve, cuit, congelé, concentré, mariné ou conditionné de toute autre façon afin d’en assurer la conservation durant le transport, la distribution et l’entreposage. La présente définition exclut la cuisson finale ou la préparation du produit alimentaire destiné à un repas ou à une partie d’un repas, qui peut être effectuée par les restaurants, les hôpitaux, les centres alimentaires, les traiteurs, les cuisines centrales ou des établissements similaires où des produits alimentaires sont préparés pour la consommation plutôt que pour la conservation à long terme. (*processed*) 
+***transformé*** Qualifie le produit alimentaire mis en conserve, cuit, congelé, concentré, mariné ou conditionné de toute autre façon afin d’en assurer la conservation durant le transport, la distribution et l’entreposage. La présente définition exclut la cuisson finale ou la préparation du produit alimentaire destiné à un repas ou à une partie d’un repas, qui peut être effectuée par les restaurants, les hôpitaux, les centres alimentaires, les traiteurs, les cuisines centrales ou des établissements similaires où des produits alimentaires sont préparés pour la consommation plutôt que pour la conservation à long terme. (*processed*) 
 
 ***unité d’échantillonnage***[Abrogée, DORS/95-548, art. 2]
 
 ***unité d’échantillonnage défectueuse***[Abrogée, DORS/95-548, art. 2]
 
 - **(2) et (3)** [Abrogés, DORS/93-496, art. 1]
-> DORS/79-541, art. 1; DORS/81-337, art. 1; DORS/86-622, art. 1; DORS/87-133, art. 1; DORS/87-350, art. 1(F); DORS/87-372, art. 1; DORS/88-383, art. 1; DORS/91-687, art. 1; DORS/93-330, art. 1; DORS/93-496, art. 1; DORS/95-548, art. 2; DORS/97-300, art. 1; DORS/98-579, art. 1; DORS/2000-184, art. 23; DORS/2003-6, art. 40; DORS/2011-205, art. 26.
+> DORS/79-541, art. 1; DORS/81-337, art. 1; DORS/86-622, art. 1; DORS/87-133, art. 1; DORS/87-350, art. 1(F); DORS/87-372, art. 1; DORS/88-383, art. 1; DORS/91-687, art. 1; DORS/93-330, art. 1; DORS/93-496, art. 1; DORS/95-548, art. 2; DORS/97-300, art. 1; DORS/98-579, art. 1; DORS/2000-184, art. 23; DORS/2003-6, art. 40; DORS/2011-205, art. 26; DORS/2013-76, art. 1.
 
 
 
@@ -538,8 +538,8 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve du paragraphe (2), les contenants utilisés pour emballer les produits de fruits et de légumes congelés visés à la colonne I du tableau II de l’annexe III doivent répondre aux caractéristiques prescrites à ce tableau.
 
-- **(2)** Il est permis d’utiliser, pour les produits de légumes congelés visés aux articles (3) à (9) du tableau II de l’annexe III, des contenants dont la capacité est plus petite que la capacité minimale prescrite à ce tableau, si les contenants portent les étiquettes enregistrées exigées par le présent règlement.
-> DORS/87-133, art. 2; DORS/89-266, art. 1.
+- **(2)** Il est permis d’utiliser, pour les produits de légumes congelés visés aux articles (3) à (9) du tableau II de l’annexe III, des contenants dont la capacité est plus petite que la capacité minimale prescrite à ce tableau.
+> DORS/87-133, art. 2; DORS/89-266, art. 1; DORS/2013-76, art. 2.
 
 
 
@@ -571,20 +571,15 @@ Autorités habilitantes :
 		- **(i)** dans le cas des produits mesurés au poids, une quantité nette de produit d’au plus 20 kg,
 		- **(ii)** dans le cas des produits mesurés au volume, une quantité nette de produit d’au plus 20 L;
 	- **b)** la quantité nette de produit déclarée sur l’étiquette des contenants est un multiple de 500 g en nombre entier dans le cas des produits mesurés au poids, ou un multiple de 500 mL en nombre entier dans le cas des produits mesurés au volume;
-	- **c)** les contenants sont étiquetés conformément à la partie IV;
-	- **d)** lorsqu’il s’agit de produits canadiens, ils sont conditionnés dans un établissement agréé et les contenants portent l’étiquette enregistrée prescrite par le présent règlement;
-	- **e)** lorsqu’il s’agit de produits importés :
-		- **(i)** l’importateur a soumis au directeur une copie de l’étiquette à appliquer sur les contenants,
-		- **(ii)** l’importateur a reçu un avis écrit du directeur portant que l’étiquette visée au sous-alinéa (i) satisfait aux exigences du présent règlement.
+	- **c)** les contenants sont étiquetés conformément à la partie IV.
+	- **d) et e)** [Abrogés, DORS/2013-76, art. 3]
 
-- **(2)** Il est permis d’utiliser pour les jus de fruits et de légumes et le jus de pomme concentré des contenants dont les dimensions sont plus petites que les dimensions minimales prescrites au tableau I de l’annexe III, si les contenants portent les étiquettes enregistrées requises par le présent règlement.
+- **(2)** Malgré l’article 20, il est permis d’utiliser pour les jus de fruits et de légumes et le jus de pomme concentré des contenants dont les dimensions sont plus petites que les dimensions minimales prescrites au tableau I de l’annexe III.
 
-- **(3)** Il est permis d’utiliser, pour les produits — jus de fruits, confitures, gelées, marmelades, jus de raisin, jus de raisin concentré, jus de raisin fait de concentré, marinades, achards (*relish*), chutneys, olives, raifort préparé et raifort en crème — mentionnés au tableau III de l’annexe III, des contenants dont les dimensions sont plus petites que les dimensions minimales prescrites à ce tableau, si les contenants portent les étiquettes enregistrées requises par le présent règlement.
+- **(3)** Malgré l’article 22, il est permis d’utiliser, pour les produits — jus de fruits, confitures, gelées, marmelades, jus de raisin, jus de raisin concentré, jus de raisin fait de concentré, marinades, achards (*relish*), chutneys, olives, raifort préparé et raifort en crème — mentionnés au tableau III de l’annexe III, des contenants dont les dimensions sont plus petites que les dimensions minimales prescrites à ce tableau.
 
-- **(4)** Les alinéas (1)b) et c) ne s’appliquent pas aux contenants des produits de fruits ou de légumes visés au paragraphe (1) dont l’étiquette était enregistrée conformément au présent règlement avant l’entrée en vigueur de ces alinéas.
-
-- **(5)** Le paragraphe (4) cesse d’avoir effet à l’expiration du délai de deux ans suivant la date d’entrée en vigueur des alinéas (1)b) et c).
-> DORS/80-762, art. 2; DORS/82-672, art. 1; DORS/87-133, art. 3; DORS/93-496, art. 3; DORS/2001-80, art. 2; DORS/2003-6, art. 49.
+- **(4) et (5)** [Abrogés, DORS/2013-76, art. 3]
+> DORS/80-762, art. 2; DORS/82-672, art. 1; DORS/87-133, art. 3; DORS/93-496, art. 3; DORS/2001-80, art. 2; DORS/2003-6, art. 49; DORS/2013-76, art. 3.
 
 
 
@@ -863,25 +858,7 @@ Autorités habilitantes :
 
 
 
-**44** 
-
-- **(1)** Aucune étiquette ne peut être apposée sur le contenant d’un produit alimentaire dans un établissement agréé, sauf si elle est enregistrée conformément au paragraphe (2).
-
-- **(1.1)** La demande d’enregistrement d’une étiquette, ou la demande de modification d’une étiquette enregistrée, est présentée par écrit au directeur, accompagnée de l’étiquette en trois exemplaires ainsi que d’un paiement représentant le prix applicable selon l’Avis sur les prix de l’Agence canadienne d’inspection des aliments.
-
-- **(2)** Le directeur enregistre l’étiquette ou l’étiquette modifiée si elle satisfait aux exigences applicables de la présente partie.
-
-- **(3)** Lorsqu’une étiquette est enregistrée en vertu du paragraphe (2) :
-	- **a)** un exemplaire de l’étiquette et les renseignements inscrits dans la demande d’enregistrement sont versés à un registre d’étiquettes;
-	- **b)** un avis écrit de l’enregistrement de l’étiquette est envoyé à l’exploitant.
-
-- **(4)** Une étiquette enregistrée cesse de l’être lorsqu’elle ne satisfait plus aux exigences du présent règlement.
-
-- **(5)** En cas de refus de la demande d’enregistrement de l’étiquette, un avis écrit indiquant les motifs du refus est envoyé à l’exploitant.
-
-- **(6)** L’exploitant de l’établissement agréé doit garder dans l’établissement les avis reçus relativement aux étiquettes enregistrées et les exemplaires de celles-ci et doit, à la demande d’un inspecteur, les produire pour examen.
-> DORS/86-622, art. 3; DORS/87-133, art. 4; DORS/93-496, art. 6; DORS/97-300, art. 4; DORS/2000-184, art. 25; DORS/2002-354, art. 14; DORS/2011-205, art. 36(F).
-
+**44** [Abrogé, DORS/2013-76, art. 4]
 
 
 
@@ -1140,11 +1117,11 @@ Autorités habilitantes :
 			- **(E)** était, au moment de son expédition, sain et comestible,
 			- **(F)** est accompagné d’une indication exacte des nom et adresse du fabricant ou de son agent autorisé,
 			- **(G)** est correctement décrit dans la déclaration d’importation et ne contient que les ingrédients autorisés par le présent règlement,
-			- **(H)** satisfait aux exigences du présent règlement en matière de catégorie, de contenant et d’étiquetage,
-		- **(viii)** dans le cas d’un produit alimentaire visé au paragraphe 25(1), le numéro d’enregistrement de l’étiquette.
+			- **(H)** satisfait aux exigences du présent règlement en matière de catégorie, de contenant et d’étiquetage.
+		- **(viii)** [Abrogé, DORS/2013-76, art. 5]
 
 - **(2)** Le produit alimentaire qui ne répond pas aux exigences des alinéas (1)a) ou c) peut être importé s’il est conforme aux exigences des articles 2.1 ou 2.2 et si l’importateur en fournit la preuve au ministre.
-> DORS/87-372, art. 3; DORS/91-687, art. 8; DORS/97-300, art. 10; DORS/2000-184, art. 30.
+> DORS/87-372, art. 3; DORS/91-687, art. 8; DORS/97-300, art. 10; DORS/2000-184, art. 30; DORS/2013-76, art. 5.
 
 
 
