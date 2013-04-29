@@ -263,11 +263,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 1** 
-### Formalités préalables à l'entrée et sélection
+### Formalités et sélection
 
 
 
-#### Formalités préalables à l’entrée
+#### Formalités
 
 
 
@@ -305,6 +305,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
 > 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5, ch. 31, art. 308.
+
+
+
+
+
+**Renseignements biométriques**
+
+**11.1** L’étranger visé par règlement qui présente une demande de visa de résident temporaire ou de permis d’études ou de travail est tenu de suivre la procédure réglementaire pour la collecte de renseignements biométriques réglementaires.
+> 2012, ch. 17, art. 6.
 
 
 
@@ -405,7 +414,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autorisation de voyage électronique**
 
 - **(3)** Pour l’application du paragraphe 11(1.01), les règlements peuvent prévoir notamment les cas où la demande peut être faite par tout autre moyen qui y est prévu.
-> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309.
+
+**Biométrie**
+
+- **(4)** Ils régissent l’application de l’article 11.1 et portent notamment sur :
+	- **a)** les cas où l’étranger est exempté de l’obligation de suivre la procédure prévue au titre de cet article;
+	- **b)** les cas où l’étranger n’a pas à fournir certains renseignements biométriques;
+	- **c)** le traitement des renseignements biométriques recueillis, notamment la création d’un modèle biométrique et la conversion des renseignements en format numérique biométrique.
+> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313.
 
 
 
@@ -431,7 +447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(4)** Le ministre peut préciser, dans les instructions, que les règlements pris en vertu du paragraphe 14(2), des alinéas 26a), b), d) ou e) ou 32d) ou de l’article 89 ne s’appliquent pas à une catégorie établie au titre du paragraphe (1).
+- **(4)** Le ministre peut préciser, dans les instructions, que les règlements pris en vertu du paragraphe 14(2), des alinéas 26a), b), d) ou e) ou 32d) ou du paragraphe 89(1) ne s’appliquent pas à une catégorie établie au titre du paragraphe (1).
 
 **Non-application des règlements**
 
@@ -464,7 +480,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(12)** Les instructions sont publiées dans la Gazette du Canada.
-> 2012, ch. 19, art. 703.
+> 2012, ch. 19, art. 703 et 710.
 
 
 
@@ -2217,7 +2233,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
 - **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande visée au paragraphe 11(1.01).
-> 2001, ch. 27, art. 89; 2012, ch. 31, art. 312.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
+> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313.
 
 
 
@@ -3551,13 +3571,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les règlements régissent :
 	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
-	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements;
-	- **c)** la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance.
+	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 ou 5.1 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements;
+	- **c)** la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance;
+	- **d)** la conservation, l’utilisation, le retrait et la communication par la Gendarmerie royale du Canada de renseignements biométriques et des renseignements personnels qui y sont associés qui lui sont communiqués sous le régime de la présente loi pour le contrôle d’application des lois fédérales ou provinciales.
 
 **Conditions**
 
 - **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements.
-> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4.
+> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4; 2012, ch. 17, art. 47.
 
 
 
