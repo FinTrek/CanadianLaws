@@ -263,11 +263,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 1** 
-### Requirements Before Entering Canada and Selection
+### Requirements and Selection
 
 
 
-#### Requirements Before Entering Canada
+#### Requirements
 
 
 
@@ -305,6 +305,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The officer may not issue a visa or other document to a foreign national whose sponsor does not meet the sponsorship requirements of this Act.
 > 2001, c. 27, s. 11; 2008, c. 28, s. 116; 2012, c. 17, s. 5, c. 31, s. 308.
+
+
+
+
+
+**Biometric information**
+
+**11.1** A prescribed foreign national who makes an application for a temporary resident visa, study permit or work permit must follow the prescribed procedures for the collection of prescribed biometric information.
+> 2012, c. 17, s. 6.
 
 
 
@@ -405,7 +414,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Electronic travel authorization**
 
 - **(3)** For the purposes of subsection 11(1.01), the regulations may include provisions respecting the circumstances in which an application may be made by other means and respecting those other means.
-> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, s. 309.
+
+**Biometric information**
+
+- **(4)** The regulations may provide for any matter relating to the application of section 11.1, including
+	- **(a)** the circumstances in which a foreign national is exempt from the requirement to follow the procedures prescribed under that section;
+	- **(b)** the circumstances in which a foreign national is not required to provide certain biometric information; and
+	- **(c)** the processing of the collected biometric information, including creating biometric templates or converting the information into digital biometric formats.
+> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313.
 
 
 
@@ -431,7 +447,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exception**
 
-- **(4)** The Minister may specify in an instruction that regulations made under subsection 14(2), paragraph 26(a), (b), (d) or (e) or 32(d) or section 89 do not apply to a class established under subsection (1).
+- **(4)** The Minister may specify in an instruction that regulations made under subsection 14(2), paragraph 26(a), (b), (d) or (e) or 32(d) or subsection 89(1) do not apply to a class established under subsection (1).
 
 **Non-application of regulations**
 
@@ -464,7 +480,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication**
 
 - **(12)** Instructions must be published in the Canada Gazette.
-> 2012, c. 19, s. 703.
+> 2012, c. 19, ss. 703, 710.
 
 
 
@@ -2235,7 +2251,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
 - **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to an application referred to in subsection 11(1.01).
-> 2001, c. 27, s. 89; 2012, c. 31, s. 312.
+
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
+- **(3)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the collection, use and disclosure of biometric information and for the provision of related services.
+> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313.
 
 
 
@@ -3583,13 +3603,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The regulations may provide for any matter relating to
 	- **(a)** the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
-	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md); and
-	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications.
+	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 or 5.1 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
+	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications; and
+	- **(d)** the retention, use, disclosure and disposal by the Royal Canadian Mounted Police of biometric information and any related personal information that is provided to it under this Act for the enforcement of any law of Canada or a province.
 
 **Conditions**
 
 - **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
-> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4.
+> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4; 2012, c. 17, s. 47.
 
 
 
