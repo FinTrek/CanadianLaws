@@ -807,13 +807,13 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 ### Traitement et salaire sur lesquels une cotisation a été versée aux termes d’un régime provincial de pensions
 
 
-**41** Pour l’application de la division 53b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une cotisation pour l’année aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les cotisations qu’il était tenu de verser pour cette année en vertu de ce régime à l’égard des traitement et salaire, multiplié par 100 et divisé par :
+**41** Pour l’application de la division 53(1)b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une cotisation pour l’année aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les cotisations qu’il était tenu de verser pour cette année en vertu de ce régime à l’égard des traitement et salaire, multiplié par 100 et divisé par :
 - **a)** 2,4, pour l’année 1992;
 - **b)** 2,5, pour l’année 1993;
 - **c)** 2,6, pour l’année 1994;
 - **d)** 2,7, pour l’année 1995;
 - **e)** 2,8, pour l’année 1996.
-> DORS/86-1133, art. 2; DORS/96-522, art. 5.
+> DORS/86-1133, art. 2; DORS/96-522, art. 5; DORS/2013-83, art. 1.
 
 
 
@@ -935,7 +935,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-### Preuve d'âge et d'identité
+### Preuve d’âge et d’identité
 
 
 **47** 
@@ -1001,7 +1001,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 - **d)** si un enfant à la charge du cotisant est décédé depuis
 	- **(i)** la date à laquelle le cotisant soutient qu’il est devenu invalide, ou
 	- **(ii)** le décès du cotisant;
-- **e)** [Abrogé, DORS/86-1133, art. 10]
+- **e)** [Abrogé, DORS/86-1133, art. 10]
 - **f)** si le cotisant décédé était marié au moment de son décès et, dans l’affirmative, le nom de son conjoint ainsi que la date et le lieu du mariage;
 - **g)** si le cotisant décédé était séparé ou divorcé au moment de son décès;
 - **h)** s’il y a un représentant personnel de la succession du cotisant décédé et, dans l’affirmative, le nom et l’adresse de ce représentant;
@@ -1012,13 +1012,13 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 	- **(iv)** est sous la garde et la surveillance du cotisant invalide, du survivant du cotisant ou d’une autre personne ou organisme,
 	- **(v)** vit ailleurs que chez le cotisant invalide ou le survivant, ou
 	- **(vi)** est ou était entretenu par le cotisant invalide;
-- **j)** dans les cas où un enfant à la charge du cotisant invalide ou décédé est âgé de 18 ans ou plus, si cet enfant fréquente ou a fréquenté à plein temps une école ou une université;
+- **j)** dans les cas où un enfant à la charge du cotisant invalide ou décédé est âgé de 18 ans ou plus, si cet enfant fréquente ou a fréquenté à plein temps une école ou une université;
 - **k)** si le requérant ou le bénéficiaire qui est le survivant d’un cotisant entretient entièrement ou dans une large mesure un ou plusieurs enfants à la charge du cotisant décédé;
-- **k.1)** si le requérant qui n’a pas atteint l’âge de 65 ans au moment de présenter sa demande de pension de retraite a cessé entièrement ou dans une large mesure d’occuper un emploi rémunéré ou d’effectuer un travail autonome;
+- **k.1)** [Abrogé, DORS/2013-83, art. 2]
 - **l)** une déclaration attestant le montant du traitement et du salaire cotisables et le montant des gains cotisables d’un cotisant travaillant à son propre compte, que le cotisant invalide, ou décédé a gagné au cours de l’année où il est devenu invalide ou est décédé et de toute année précédant celle de son invalidité ou de son décès;
 - **m)** si le requérant, le bénéficiaire ou le cotisant décédé reçoit, ou recevait, ou a présenté une demande soit de prestations aux termes de la Loi ou d’un régime provincial de pension, soit de pension, aux termes de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md); et
-- **n)** tout document, déclaration ou pièce supplémentaire que possède ou pourrait obtenir le requérant ou le bénéficiaire pour aider le ministre à vérifier l’exactitude des renseignements et des preuves mentionnés aux alinéas a) à m).
-> DORS/86-1133, art. 10; DORS/89-345, art. 5(F); DORS/96-522, art. 23; DORS/2000-411, art. 7 et 18.
+- **n)** tout document, déclaration ou pièce supplémentaire que possède ou pourrait obtenir le requérant ou le bénéficiaire pour aider le ministre à vérifier l’exactitude des renseignements et des preuves mentionnés aux alinéas a) à m).
+> DORS/86-1133, art. 10; DORS/89-345, art. 5(F); DORS/96-522, art. 23; DORS/2000-411, art. 7 et 18; DORS/2013-83, art. 2.
 
 
 
@@ -1097,16 +1097,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-
-### Requérant cessant entièrement ou dans une large mesure d’occuper un emploi rémunéré ou d’effectuer un travail autonome
-
-
-**54.3** Pour l’application de la partie II de la Loi, ***entièrement ou dans une large mesure*** signifie, relativement à la cessation d’un emploi rémunéré ou d’un travail autonome par le requérant visé aux alinéas 67(2)c) ou d) de la Loi ou le cotisant visé à l’article 68.1 de la Loi, que la cessation est complète ou telle que le requérant ou le cotisant a cessé d’occuper un emploi rémunéré ou d’effectuer un travail autonome à l’égard duquel les traitement et salaire cotisables provenant de l’emploi rémunéré ou les gains cotisables provenant du travail qu’il exécute pour son propre compte donneraient un montant annuel supérieur à 25 pour cent de la moyenne du maximum des gains annuels ouvrant droit à pension pour l’année où la pension de retraite commencerait à être payable aux termes des alinéas 67(2)c) ou d) de la Loi et :
-- **a)** si l’année en question est antérieure à 1998, pour les deux années antérieures;
-- **b)** si l’année en question est 1998, pour les trois années antérieures;
-- **c)** si l’année en question est postérieure à 1998, pour les quatre années antérieures.
-> DORS/86-1133, art. 11; DORS/88-628, art. 1; DORS/90-829, art. 24; DORS/99-192, art. 4.
-
+**54.3** [Abrogé, DORS/2013-83, art. 3]
 
 
 
