@@ -30,10 +30,10 @@ Enabling authorities:
 
 ***Commission*** means the Canada Employment Insurance Commission; (*Commission*)
 
-***local office of the Commission*** means an office established by the Commission in any locality, and includes any office designated as such by the Commission and, in relation to an employer, the nearest local office servicing the area of his place of business and, in relation to any other person, the local office nearest to his residence; (*bureau local de la Commission*)
+***local office of the Commission*** means an office established by the Commission in any locality, and includes any office designated as such by the Commission and, in relation to an employer, the nearest local office servicing the area of their place of business and, in relation to any other person, the local office nearest to their residence; (*bureau local de la Commission*)
 
-***Minister*** means the Minister of Human Resources Development. (*Ministre*) 
-> SOR/2000-133, s. 5.
+***Minister***[Repealed, SOR/2013-84, s. 1]
+> SOR/2000-133, s. 5; SOR/2013-84, ss. 1, 7(E).
 
 
 
@@ -45,24 +45,26 @@ Enabling authorities:
 **3** 
 
 - **(1)** Every individual who is required by the Act to file an application with the Minister or to apply to the Minister for the assignment to him of a Social Insurance Number shall do so by delivering or mailing to a local office of the Commission an application, in the form prescribed by the Minister for that purpose, containing
-	- **(a)** his full name;
-	- **(b)** his name at birth if it differs from his name at the time of application;
-	- **(c)** his date of birth;
-	- **(d)** his place of birth;
-	- **(e)** his mother's surname at her birth;
-	- **(f)** the first given name of his father; and
+	- **(a)** their full name;
+	- **(b)** their name at birth if it differs from their name at the time of application;
+	- **(c)** their date of birth;
+	- **(d)** their place of birth;
+	- **(e)** their mother's surname at her birth;
+	- **(f)** the first given name of their father; and
 	- **(g)** any other information required in the form prescribed by the Minister.
 
-- **(2)** Every individual who changes his name, by reason of marriage or otherwise, and who is required by the Act to apply to the Minister for the issue to him of a new Card in his new name shall do so by delivering or mailing to a local office of the Commission an application, in the form prescribed by the Minister for the purpose, containing
-	- **(a)** the information required by subsection (1) in respect of an application for the issue of a Social Insurance Number;
-	- **(b)** his Social Insurance Number; and
-	- **(c)** his full name before the change of name.
+- **(2)** Every individual who changes their name, by reason of marriage or otherwise, and who is required by the Act to inform the Minister of their new name shall do so by delivering or mailing to a local office of the Commission a notification, in the form prescribed for that purpose, containing
+	- **(a)** the information required by subsection (1) in respect of an application for the assignment of a Social Insurance Number;
+	- **(b)** their Social Insurance Number; and
+	- **(c)** their full name before the change of name.
 
-- **(3)** Every individual whose Card is lost or has been destroyed and who, if he had not already been assigned a Social Insurance Number, would be required by the Act to file an application with the Minister or to apply to the Minister for the assignment to him of a Social Insurance Number, shall apply for a new Card within 30 days after he learns of such loss or destruction, by delivering or mailing to a local office of the Commission an application, in the form prescribed by the Minister for that purpose, containing
-	- **(a)** the information required by subsection (1) in respect of an application for the issue of a Social Insurance Number; and
-	- **(b)** his Social Insurance Number or, if it is unknown to him, a statement that he had previously had a Social Insurance Number assigned to him.
+- **(3)** Every individual whose Card has been lost or destroyed may apply to the Minister for a new Card by delivering or mailing to a local office of the Commission an application, in the form prescribed for that purpose, containing
+	- **(a)** the information required by subsection (1) in respect of an application for the assignment of a Social Insurance Number; and
+	- **(b)** their Social Insurance Number, or if it is unknown, a statement that they were previously assigned a Social Insurance Number.
 
-- **(4)** Every individual who expects to be an individual required by the Act to file an application with the Minister or to apply to the Minister for the assignment to him of a Social Insurance Number may, if he has not earlier been assigned a Social Insurance Number, make application, on the form and in the manner specified in subsection (1), for the assignment to him of a Social Insurance Number.
+- **(4)** Every individual who expects to be an individual required by the Act to file an application with the Minister or to apply to the Minister for the assignment to them of a Social Insurance Number may, if they have not earlier been assigned a Social Insurance Number, make application, on the form and in the manner specified in subsection (1), for the assignment to them of a Social Insurance Number.
+> SOR/2013-84, ss. 2, 7(E).
+
 
 
 
@@ -74,8 +76,8 @@ Enabling authorities:
 - **(a)** any post office;
 - **(b)** any local office of the Commission;
 - **(c)** any office of the Department of National Revenue; and
-- **(d)** any office of the Department of Human Resources Development.
-> SOR/2000-133, s. 6.
+- **(d)** any office of the Department of Human Resources and Skills Development.
+> SOR/2000-133, s. 6; SOR/2013-84, s. 3.
 
 
 
@@ -84,21 +86,22 @@ Enabling authorities:
 ## Duties of Employer
 
 
-**5** Where an employer, in accordance with subsection 98(5) of the Act, requires an employee to produce the employee's Card to the employer and the employee informs the employer or the employer ascertains that
-- **(a)** the employee has not had a Social Insurance Number assigned to him,
-- **(b)** the employee has changed his name since a Card was last issued to him, or
-- **(c)** the employee's Card is lost or has been destroyed,
-the employer shall forthwith provide the employee with the appropriate form of application so that he may make application in accordance with section 3 for the issue to him of a Social Insurance Number or a new Card, as the case may be.
-> SOR/90-444, s. 1.
+**5** An employer who requires an employee to inform them of their Social Insurance Number shall provide the employee with the appropriate form to apply for a Social Insurance Number or Card if the employer ascertains that the employee
+- **(a)** has not had a Social Insurance Number assigned to them;
+- **(b)** has changed their name since their Social Insurance Number was assigned; or
+- **(c)** has lost their Social Insurance Card or it has been destroyed.
+> SOR/90-444, s. 1; SOR/2013-84, s. 4.
 
 
 
 
 **6** 
 
-- **(1)** Where an employee fails to produce his Card to his employer within the required time, the employer shall, within three days after the expiration of the required time, report the circumstances of the failure to the local office of the Commission giving such particulars with respect to the employee as are necessary to identify him.
+- **(1)** If an employee fails to inform their employer of their Social Insurance Number within the period set out in subsection 98(6) of the Act, the employer shall, within three days after the expiry of the period, report the circumstances of the failure to the local office of the Commission and provide it with the information necessary to identify the employee.
 
-- **(2)** If the employee produces his Card to the employer after the report referred to in subsection (1) has been made by the employer to the local office of the Commission, the employer shall promptly so notify the local office of the Commission.
+- **(2)** If an employee who has been reported under subsection (1) subsequently informs the employer of their Social Insurance Number, the employer shall immediately notify the local office of the Commission.
+> SOR/2013-84, s. 5.
+
 
 
 
@@ -106,10 +109,14 @@ the employer shall forthwith provide the employee with the appropriate form of a
 ## Authority of Minister
 
 
-**7** The Minister is hereby authorized to cause a Social Insurance Number to be assigned and a Card to be issued to any individual who has not already been assigned a Social Insurance Number.
+**7** The Minister or the Minister of National Revenue may cause a Social Insurance Number to be assigned to an individual who has not been assigned a Social Insurance Number.
+> SOR/2013-84, s. 6.
 
 
 
-**8** The Minister of National Revenue is hereby authorized to cause a Social Insurance Number to be assigned and a Card to be issued to any individual who has not earlier been assigned a Social Insurance Number.
+
+**8** The Minister or the Minister of National Revenue may cause a Card to be issued to an individual to whom a Social Insurance Number was caused to be assigned under section 7.
+> SOR/2013-84, s. 6.
+
 
 
