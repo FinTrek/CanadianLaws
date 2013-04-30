@@ -807,13 +807,13 @@ and ends on the day on which the amount is so refunded or applied.
 ### Salary and Wages on which a Contribution has been made under a Provincial Pension Plan
 
 
-**41** For the purposes of clause 53(b)(ii)(A) of the Act, the salary and wages on which a contribution has been made for the year by a contributor under a provincial pension plan is an amount equal to the aggregate of all contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided,
+**41** For the purposes of clause 53(1)(b)(ii)(A) of the Act, the salary and wages on which a contribution has been made for the year by a contributor under a provincial pension plan is an amount equal to the aggregate of all contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided,
 - **(a)** in respect of the year 1992, by 2.4;
 - **(b)** in respect of the year 1993, by 2.5;
 - **(c)** in respect of the year 1994, by 2.6;
 - **(d)** in respect of the year 1995, by 2.7; and
 - **(e)** in respect of the year 1996, by 2.8.
-> SOR/86-1133, s. 2; SOR/96-522, s. 5.
+> SOR/86-1133, s. 2; SOR/96-522, s. 5; SOR/2013-83, s. 1.
 
 
 
@@ -1001,7 +1001,7 @@ and ends on the day on which the amount is so refunded or applied.
 - **(d)** whether a dependent child of the contributor has died since
 	- **(i)** the date on which the contributor claims to have become disabled, or
 	- **(ii)** the death of the contributor;
-- **(e)** [Repealed, SOR/86-1133, s. 10]
+- **(e)** [Repealed, SOR/86-1133, s. 10]
 - **(f)** whether the deceased contributor was married at the time of his death and, if so, to whom, and the date and place of the marriage;
 - **(g)** whether the deceased contributor was separated or divorced at the time of his death;
 - **(h)** whether there is a personal representative of the estate of the deceased contributor, and the name and address of any such personal representative;
@@ -1014,11 +1014,11 @@ and ends on the day on which the amount is so refunded or applied.
 	- **(vi)** is or was maintained by the disabled contributor;
 - **(j)** where a dependent child of the disabled or deceased contributor is 18 or more years of age, whether that child is and has been in full-time attendance at a school or university;
 - **(k)** whether the applicant or beneficiary who is the survivor of a contributor maintains wholly or substantially one or more dependent children of the deceased contributor;
-- **(k.1)** whether the applicant who has not reached 65 years of age at the time of applying for a retirement pension has wholly or substantially ceased to be engaged in paid employment or self-employment;
+- **(k.1)** [Repealed, SOR/2013-83, s. 2]
 - **(l)** a statement evidencing the amount of the contributory salary and wages and of the contributory self-employed earnings of a disabled or deceased contributor for the year in which the contributor became disabled or died and for any preceding year;
 - **(m)** whether the applicant, beneficiary or deceased contributor is or was in receipt of or has applied for a benefit under the Act or under a provincial pension plan or a pension under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md); and
-- **(n)** such additional documents, statements or records that are in the possession of the applicant or beneficiary or are obtainable by him that will assist the Minister in ascertaining the accuracy of the information and evidence referred to in paragraphs (a) to (m).
-> SOR/86-1133, s. 10; SOR/89-345, s. 5(F); SOR/96-522, s. 23; SOR/2000-411, ss. 7, 18.
+- **(n)** such additional documents, statements or records that are in the possession of the applicant or beneficiary or are obtainable by him that will assist the Minister in ascertaining the accuracy of the information and evidence referred to in paragraphs (a) to (m).
+> SOR/86-1133, s. 10; SOR/89-345, s. 5(F); SOR/96-522, s. 23; SOR/2000-411, ss. 7, 18; SOR/2013-83, s. 2.
 
 
 
@@ -1097,16 +1097,7 @@ and ends on the day on which the amount is so refunded or applied.
 
 
 
-
-### Whole or Substantial Cessation of Engagement in Employment
-
-
-**54.3** For the purposes of Part II of the Act, ***wholly or substantially***, in respect of the cessation of paid employment or self-employment of an applicant referred to in paragraph 67(2)(c) or (d) of the Act or a contributor referred to in section 68.1 of the Act, means the cessation is absolute or is such that the applicant or contributor is no longer engaged in employment in respect of which the contributory salary and wages or contributory self-employed earnings yield an annual amount greater than 25% of the average of the Year’s Maximum Pensionable Earnings for the year in which the retirement pension would begin to be payable under paragraph 67(2)(c) or (d) of the Act and
-- **(a)** if that year is before 1998, each of the two preceding years;
-- **(b)** if that year is 1998, each of the three preceding years; or
-- **(c)** if that year is after 1998, each of the four preceding years.
-> SOR/86-1133, s. 11; SOR/88-628, s. 1; SOR/90-829, s. 24; SOR/99-192, s. 4.
-
+**54.3** [Repealed, SOR/2013-83, s. 3]
 
 
 
