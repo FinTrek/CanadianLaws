@@ -3804,8 +3804,8 @@ où
 **157.1** 
 
 - **(1)** Le ministre peut conclure avec un ministre provincial chargé des transports un accord relatif à l’application, à des exploitants de chemin de fer assujettis à la compétence législative de la province en cause, de toute loi ayant trait :
-	- **a)** à la sécurité ferroviaire, aux enquêtes sur les accidents ou aux franchissements ferroviaires;
-	- **b)** au bruit résultant de l’activité ferroviaire ou à la réglementation des prix et conditions visant les services des chemins de fer dans la mesure où ces questions sont régies par la présente loi.
+	- **a)** aux enquêtes sur les accidents ou aux franchissements ferroviaires;
+	- **b)** au bruit et à la vibration résultant de l’activité ferroviaire ou à la réglementation des prix et conditions visant les services des chemins de fer dans la mesure où ces questions sont régies par la présente loi.
 
 **Désignation**
 
@@ -3814,7 +3814,7 @@ où
 **Fonctions et attributions**
 
 - **(3)** L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
-> 1996, ch. 10, art. 157.1; 2003, ch. 22, art. 224(A); 2007, ch. 19, art. 46.
+> 1996, ch. 10, art. 157.1; 2003, ch. 22, art. 224(A); 2007, ch. 19, art. 46; 2012, ch. 7, art. 39.
 
 
 
@@ -3822,8 +3822,8 @@ où
 
 **Accords avec des autorités provinciales**
 
-**158** Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer la construction, l’exploitation et la sécurité de tout chemin de fer ainsi que les prix et conditions visant les services; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
-> 1996, ch. 10, art. 158; 2007, ch. 19, art. 47.
+**158** Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer la construction et l’exploitation de tout chemin de fer ainsi que les prix et conditions visant les services; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
+> 1996, ch. 10, art. 158; 2007, ch. 19, art. 47; 2012, ch. 7, art. 40.
 
 
 
