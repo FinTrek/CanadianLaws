@@ -3882,9 +3882,9 @@ where
 
 **157.1** 
 
-- **(1)** The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting:
-	- **(a)** railway safety, accident investigation and railway crossings; or
-	- **(b)** railway noise or the regulation of the rates and conditions of service of railway companies to the extent that those matters are governed by this Act.
+- **(1)** The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting
+	- **(a)** accident investigations and railway crossings; or
+	- **(b)** railway noise and vibration, or the regulation of the rates and conditions of service of railway companies, to the extent that those matters are governed by this Act.
 
 **Designation**
 
@@ -3893,7 +3893,7 @@ where
 **Functions, duties and powers**
 
 - **(3)** The designated body, person or class of persons may perform any function or duty and exercise any powers necessary for the enforcement of the law, to the extent specified in the agreement.
-> 1996, c. 10, s. 157.1; 2003, c. 22, s. 224(E); 2007, c. 19, s. 46.
+> 1996, c. 10, s. 157.1; 2003, c. 22, s. 224(E); 2007, c. 19, s. 46; 2012, c. 7, s. 39.
 
 
 
@@ -3901,8 +3901,8 @@ where
 
 **Agreements made with provincial authorities**
 
-**158** The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the construction, operation and safety of a railway as well as the rates and conditions of service in the same manner and to the same extent as it may regulate a railway within its jurisdiction.
-> 1996, c. 10, s. 158; 2007, c. 19, s. 47.
+**158** The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the construction and operation of a railway as well as the rates and conditions of service in the same manner and to the same extent as it may regulate a railway within its jurisdiction.
+> 1996, c. 10, s. 158; 2007, c. 19, s. 47; 2012, c. 7, s. 40.
 
 
 
