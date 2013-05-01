@@ -35,8 +35,14 @@
 
 **Champ d’application**
 
-- **(2)** La présente loi s’applique au transport ferroviaire visé par la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 261.
+- **(2)** La présente loi s’applique aux chemins de fer relevant de l’autorité législative du Parlement.
+
+**Exceptions**
+
+- **(3)** Malgré le paragraphe (2), la présente loi ne s’applique pas :
+	- **a)** au réseau ferroviaire visé à l’article 16 de la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md);
+	- **b)** aux chemins de fer visés à l’article 29 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), sauf dans la mesure prévue dans un règlement pris en vertu du paragraphe 29(2) de cette loi.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 261; 2012, ch. 7, art. 2.
 
 
 
@@ -48,12 +54,26 @@
 
 **Objectifs**
 
-**3** La présente loi vise à la réalisation des objectifs suivants :
-- **a)** pourvoir à la sécurité du public et du personnel dans le cadre de l’exploitation des chemins de fer et à la protection des biens et de l’environnement, et en faire la promotion;
-- **b)** encourager la collaboration et la participation des parties intéressées à l’amélioration de la sécurité ferroviaire;
-- **c)** reconnaître la responsabilité des compagnies de chemin de fer en ce qui a trait à la sécurité de leurs activités;
-- **d)** favoriser la mise en place d’outils de réglementation modernes, flexibles et efficaces dans le but d’assurer l’amélioration continue de la sécurité ferroviaire.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 3; 1996, ch. 10, art. 262; 1999, ch. 9, art. 1.
+**3** La présente loi vise à la réalisation des objectifs suivants :
+- **a)** pourvoir à la sécurité et à la sûreté du public et du personnel dans le cadre de l’exploitation ferroviaire et à la protection des biens et de l’environnement, et en faire la promotion;
+- **b)** encourager la collaboration et la participation des parties intéressées à l’amélioration de la sécurité et de la sûreté ferroviaires;
+- **c)** reconnaître la responsabilité qui incombe aux compagnies d’établir, par leurs systèmes de gestion de la sécurité et autres moyens à leur disposition, qu’elles gèrent continuellement les risques en matière de sécurité;
+- **d)** favoriser la mise en place d’outils de réglementation modernes, flexibles et efficaces dans le but d’assurer l’amélioration continue de la sécurité et de la sûreté ferroviaires.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 3; 1996, ch. 10, art. 262; 1999, ch. 9, art. 1; 2012, ch. 7, art. 3.
+
+
+
+
+
+**Attributions du ministre**
+
+**3.1** Le ministre est chargé du développement et de la réglementation pour toute question à laquelle la présente loi s’applique, notamment les questions de sécurité et de sûreté ferroviaires, et du contrôle de tous les secteurs liés à ce domaine. À ce titre, il peut en outre :
+- **a)** promouvoir la sécurité et la sûreté ferroviaires par les moyens qu’il estime indiqués;
+- **b)** fournir des installations et des services pour la cueillette, la publication ou la diffusion de renseignements;
+- **c)** entreprendre les travaux, recherches techniques, études ou enquêtes et collaborer avec les personnes qui les entreprennent;
+- **d)** procéder à des inspections et à des études et fournir des rapports sur les activités liées à toute question ferroviaire;
+- **e)** entreprendre, à son initiative ou sur les instructions du gouverneur en conseil, toute autre activité.
+> 2012, ch. 7, art. 3.
 
 
 
@@ -74,6 +94,16 @@
 ***autorité responsable du service de voirie*** Administration publique ayant légalement le droit d’ouvrir et d’entretenir des routes.
 
 ***biens*** Toute chose pouvant être apportée ou placée à bord d’un train comme effet personnel, bagage ou marchandises.
+
+***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
+- **a)** les embranchements et prolongements, les voies de garage et d’évitement, les ponts et tunnels, les gares et stations, les dépôts et quais, le matériel roulant, l’équipement et les fournitures, ainsi que tous les autres biens qui dépendent du chemin de fer;
+- **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer.
+
+***compagnie*** Compagnie de chemin de fer ou compagnie de chemin de fer locale.
+
+***compagnie de chemin de fer*** Personne qui, selon le cas, construit, exploite ou entretient un chemin de fer.
+
+***compagnie de chemin de fer locale*** Personne, autre qu’une compagnie de chemin de fer ou les mandataires de celle-ci, qui exploite du matériel ferroviaire sur un chemin de fer.
 
 *French version only****conseiller*** Membre du Tribunal.
 
@@ -103,11 +133,13 @@
 
 ***modification***[Abrogée, 1999, ch. 9, art. 2]
 
+***niveau de sécurité le plus élevé*** Le niveau de risque le plus bas qui soit acceptable selon une analyse de risque.
+
 ***normes techniques*** Normes établies au titre de l’article 7.
 
 ***Office*** L’Office des transports du Canada maintenu par l’article 7 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
 
-***organisation intéressée*** Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie.
+***organisation intéressée*** Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie de chemin de fer, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie.
 
 ***ouvrage de franchissement*** Franchissement routier ou par desserte.
 
@@ -117,7 +149,9 @@
 
 ***route*** Voie terrestre — publique ou non — pour véhicules ou piétons.
 
-***système de gestion de la sécurité*** Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation courante des chemins de fer et intégrant les responsabilités et les pouvoirs au sein d’une compagnie de chemin de fer, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques.
+***science de la fatigue*** Méthode scientifique systématique fondée sur des données servant à mesurer et à gérer la fatigue humaine.
+
+***système de gestion de la sécurité*** Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation ferroviaire courante et intégrant les responsabilités et les pouvoirs au sein d’une compagnie, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques.
 
 ***texte relatif à la sûreté du transport ferroviaire*** Règle établie ou proposée en vertu des articles 19 ou 20, injonction prise par le ministre en vertu de l’article 33, avis donné par l’inspecteur en application du paragraphe 31(3) ou mesure établie en vertu du paragraphe 39.1(1).
 
@@ -125,9 +159,7 @@
 
 ***zone réglementée*** Toute zone établie aux termes d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire et dont l’accès est réservé aux personnes autorisées.
 
-**Terminologie**
-
-- **(2)** Sauf disposition contraire, les termes de la présente loi s’entendent au sens de la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+- **(2)** [Abrogé, 2012, ch. 7, art. 4]
 
 **Installations ferroviaires projetées**
 
@@ -141,10 +173,19 @@
 
 - **(4.1)** La mention du risque ou du fait de compromettre la sécurité dans la présente loi vise tout danger ou toute condition qui pourrait éventuellement constituer une situation dans laquelle une personne pourrait être blessée ou tomber malade, l’environnement pourrait être compromis ou des biens matériels pourraient être endommagés. Le risque est dit imminent dans les cas où cette situation existe déjà.
 
-**Notification et communication de document**
+**Notification et communication de documents**
 
-- **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou toute communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire ou par courrier recommandé à sa dernière adresse connue et, dans le cas d’une personne morale ou d’un organisme, par courrier recommandé à son siège ou à son bureau désigné par règlement. Elle peut aussi être faite par tout autre moyen approuvé, par écrit, par le ministre et aux conditions fixées par lui.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A).
+- **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire, par courrier recommandé à sa dernière adresse connue ou par télécopieur et, dans le cas d’une personne morale, par télécopieur ou par courrier recommandé à son siège ou à tout autre bureau spécifié par le ministre. Elle peut aussi être faite par tout autre moyen, notamment électronique, approuvé par écrit par le ministre et aux conditions fixées par lui.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4.
+
+
+
+
+
+**Conflits**
+
+**4.1** La présente loi et ses textes d’application — règlements, règles, certificats, arrêtés, exemptions et injonctions ministérielles — l’emportent sur les dispositions incompatibles d’un accord ou d’un arrêté permettant à une compagnie d’exploiter du matériel ferroviaire sur le chemin de fer d’une compagnie de chemin de fer.
+> 2012, ch. 7, art. 5.
 
 
 
@@ -167,7 +208,42 @@
 
 **Accords**
 
-**6** Le ministre peut conclure avec l’Office un accord prévoyant la coordination de l’action du ministère des Transports et de l’Office en matière de construction, de modification, d’exploitation et d’entretien d’installations et de matériel ferroviaires et fixant les modalités de règlement des situations de conflit pouvant en découler. Il peut en outre, après consultation auprès de l’Office, prendre les mesures nécessaires pour porter l’accord à la connaissance des compagnies de chemin de fer ou de toute autre personne concernée.
+**6** Le ministre peut conclure avec l’Office un accord :
+- **a)** prévoyant la coordination de l’action du ministère des Transports et de l’Office :
+	- **(i)** en matière de construction, de modification, d’exploitation et d’entretien d’installations et de matériel ferroviaires,
+	- **(ii)** relativement à la question de savoir si une personne construit, exploite ou entretient un chemin de fer;
+- **b)** fixant les modalités de règlement des situations de conflit pouvant en découler.
+Il peut en outre, après consultation auprès de l’Office, prendre les mesures nécessaires pour porter l’accord à la connaissance des compagnies de chemin de fer ou de toute autre personne concernée.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 6; 2012, ch. 7, art. 6.
+
+
+
+
+
+**Accords avec les ministres des transports provinciaux**
+
+**6.1** 
+
+- **(1)** Le ministre peut conclure avec un ministre provincial chargé des transports un accord relatif à l’application, à des exploitants de chemin de fer assujettis à la compétence législative de la province en cause, de tout texte législatif ayant trait à la sécurité et à la sûreté ferroviaires, aux aspects de sécurité des franchissements ferroviaires et, dans la mesure où la présente loi le prévoit, à la protection de l’environnement.
+
+**Désignation**
+
+- **(2)** Le ministre peut désigner un organisme établi par une loi fédérale ou une personne ou catégorie de personnes oeuvrant au sein de l’administration publique fédérale pour appliquer la loi conformément à cet accord.
+
+**Fonctions et attributions**
+
+- **(3)** L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
+> 2012, ch. 7, art. 6.
+
+
+
+
+
+**Accords avec des autorités provinciales**
+
+**6.2** Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer les questions visées au paragraphe 6.1(1) concernant les chemins de fer; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
+> 2012, ch. 7, art. 6.
+
 
 
 
@@ -185,7 +261,7 @@
 
 **7** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, régir l’établissement de normes concernant la structure ou le comportement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
+- **(1)** Le gouverneur en conseil peut, par règlement, régir l’établissement de normes concernant la structure ou le rendement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
 
 **Arrêté ministériel**
 
@@ -198,7 +274,7 @@
 **Application de certaines dispositions**
 
 - **(3)** Les paragraphes 19(4) à (11) s’appliquent — à l’exception de toute mention d’organisation intéressée — aux normes visées aux paragraphes (2) et (2.1), avec les adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3. .
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3; 2012, ch. 7, art. 7(F).
 
 
 
@@ -312,10 +388,16 @@
 
 
 
+**Principes d’ingénierie bien établis**
+
+**11** 
+
+- **(1)** Les travaux relatifs aux installations ferroviaires, notamment la conception, la construction, l’évaluation, l’entretien ou la modification, sont effectués conformément à des principes d’ingénierie bien établis.
+
 **Travaux d’ingénierie**
 
-**11** Les travaux relatifs à la conception, à la construction, à l’évaluation ou à la modification d’installations ferroviaires sont effectués sous la responsabilité d’un ingénieur agréé conformément à des principes d’ingénierie bien établis.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 11; 1999, ch. 9, art. 7.
+- **(2)** Les travaux d’ingénierie relatifs aux installations ferroviaires sont approuvés par un ingénieur professionnel.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 11; 1999, ch. 9, art. 7; 2012, ch. 7, art. 8.
 
 
 
@@ -493,6 +575,28 @@
 
 
 
+### Interdictions
+
+
+
+**Conformité avec les règlements et règles**
+
+**17.2** Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
+> 2012, ch. 7, art. 11.
+
+
+
+
+
+**Entretien d’ouvrage de franchissement**
+
+**17.3** Il est interdit au responsable de l’entretien d’un ouvrage de franchissement qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’entretenir celui-ci en contravention avec les règlements pris à ce sujet sous le régime de l’article 18.
+> 2012, ch. 7, art. 11.
+
+
+
+
+
 ### Règlements
 
 
@@ -501,11 +605,11 @@
 
 **18** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** régir toute question — notamment en matière de comportement — concernant l’exploitation ou l’entretien des lignes de chemin de fer, ou la conception, la construction, la modification, l’exploitation ou l’entretien de matériel ferroviaire;
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir toute question — notamment en matière de rendement — concernant l’exploitation ou l’entretien des lignes de chemin de fer, ou la conception, la construction, la modification, l’exploitation ou l’entretien de matériel ferroviaire;
 	- **b)** prévoir la classification de certains postes, au sein d’une compagnie de chemin de fer, comme essentiels pour la sécurité ferroviaire;
-	- **c)** en ce qui concerne la sécurité ferroviaire, régir la formation, préalable ou non, des titulaires de ces postes, l’alternance de leurs périodes de travail et de repos et les normes de santé — notamment d’acuité auditive et visuelle — minimales à remplir, ainsi que la consommation d’alcool et de drogues par eux, ou interdire celle-ci et prévoir l’établissement d’un programme d’aide à leur intention et de normes applicables à cet égard;
-	- **d)** prévoir l’établissement d’un régime d’attribution des licences à détenir par ces titulaires et fixer les droits correspondants à verser par eux.
+	- **c)** en ce qui concerne la sécurité ferroviaire, régir la formation, préalable ou non, des titulaires des postes visés à l’alinéa b), l’alternance de leurs périodes de travail et de repos et les normes de santé — notamment d’acuité auditive et visuelle — minimales à remplir, ainsi que la consommation d’alcool et de drogues par eux, ou interdire celle-ci, prévoir l’établissement d’un programme d’aide pour eux et de normes applicables à cet égard et d’un régime d’attribution de licences à leur intention;
+	- **d)** régir la prévention et la maîtrise des incendies sur les installations ferroviaires.
 
 **Autres pouvoirs réglementaires**
 
@@ -515,10 +619,14 @@
 
 - **(2.1)** Il peut en outre prendre des règlements pour régir toute question concernant la sûreté du transport ferroviaire.
 
+**Portée des règlements**
+
+- **(2.2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+
 **Incompatibilité**
 
-- **(3)** Les dispositions des règlements pris par le gouverneur en conseil sous le régime des paragraphes (1) ou (2.1) annulent les dispositions incompatibles des règles approuvées par le ministre aux termes des articles 19 ou 20 relativement à une compagnie particulière de chemin de fer.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 18; 1999, ch. 9, art. 12.
+- **(3)** Les dispositions des règlements pris par le gouverneur en conseil sous le régime des paragraphes (1) ou (2.1) annulent les dispositions incompatibles des règles approuvées par le ministre aux termes des articles 19 ou 20 relativement à une compagnie particulière.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 18; 1999, ch. 9, art. 12; 2012, ch. 7, art. 13.
 
 
 
@@ -532,27 +640,31 @@
 
 **19** 
 
-- **(1)** Le ministre peut, par arrêté, enjoindre à une compagnie de chemin de fer soit d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1), soit de modifier de telles règles et d’en déposer auprès de lui, pour approbation, le texte original ou modifié, le tout dans un délai déterminé.
+- **(1)** Le ministre peut, par arrêté, enjoindre à une compagnie soit d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1), soit de modifier de telles règles et d’en déposer auprès de lui, pour approbation, le texte original ou modifié, dans un délai déterminé.
 
 **Consultations**
 
-- **(2)** La compagnie de chemin de fer ne peut procéder au dépôt qu’après avoir donné aux organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles la possibilité, pendant soixante jours, de lui faire part de leurs observations.
+- **(2)** La compagnie ne peut procéder au dépôt qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+	- **a)** dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles;
+	- **b)** dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles.
 
 **Avis d’opposition**
 
-- **(3)** En cas d’opposition par une organisation intéressée, pour des motifs de sécurité, à la mise en oeuvre des règles, la compagnie joint, le cas échéant, au texte qu’elle dépose un avis au ministre donnant le nom de l’organisation et une copie de l’avis d’opposition.
+- **(3)** Malgré l’opposition par une organisation intéressée ou une compagnie de chemin de fer, pour des motifs de sécurité, à la mise en oeuvre des règles, la compagnie joint, le cas échéant, au texte qu’elle dépose un avis au ministre donnant le nom de l’organisation ou de la compagnie de chemin de fer qui ont été consultées et, le cas échéant, une copie de l’avis d’opposition.
 
 **Décision du ministre**
 
-- **(4)** Le ministre doit, aussitôt que possible après le dépôt du texte mais, en tout état de cause, avant l’expiration du délai d’examen, décider si les règles dont le texte a été déposé sous le régime du paragraphe (1) contribuent ou non à la sécurité de l’exploitation ferroviaire de la compagnie, après avoir tenu compte des usages en la matière, de l’opinion de la compagnie et de toute organisation visée au paragraphe (3) et de tout point qu’il juge utile, et notifier à ces dernières, dans le cas d’une décision positive, son approbation en en précisant, le cas échéant, les conditions, ou, dans le cas contraire, son refus et ses motifs.
+- **(4)** Le ministre doit, aussitôt que possible après le dépôt du texte mais, en tout état de cause, avant l’expiration du délai d’examen, décider si les règles dont le texte a été déposé en application du paragraphe (1) contribuent ou non à la sécurité de l’exploitation ferroviaire de la compagnie, après avoir tenu compte des usages en la matière, de l’opinion de la compagnie, de toute organisation ou de toute compagnie de chemin de fer visée au paragraphe (3) et de tout point qu’il juge utile, et notifier à ces dernières, dans le cas d’une décision positive, son approbation en en précisant, le cas échéant, les conditions, ou, dans le cas contraire, son refus et ses motifs.
 
 **Demande de modification**
 
-- **(4.1)** La compagnie peut, à la lumière de nouveaux renseignements touchant la sécurité ferroviaire, demander au ministre de modifier les conditions de l’approbation; elle fait parvenir une copie des modifications proposées aux organisations intéressées.
+- **(4.1)** La compagnie peut, à la lumière de nouveaux renseignements touchant la sécurité ferroviaire, demander au ministre de modifier les conditions de l’approbation; elle fait parvenir une copie des modifications proposées :
+	- **a)** dans le cas d’une compagnie de chemin de fer, aux organisations intéressées susceptibles d’être touchées par la modification des conditions;
+	- **b)** dans le cas d’une compagnie de chemin de fer locale, à la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la modification des conditions.
 
 **Modifications**
 
-- **(4.2)** Le ministre peut modifier les conditions de l’approbation; il fait parvenir, le cas échéant, une copie des modifications aux organisations intéressées.
+- **(4.2)** Le ministre peut modifier les conditions de l’approbation; il fait parvenir, le cas échéant, une copie des modifications aux organisations visées à l’alinéa (4.1)a) ou à la compagnie de chemin de fer visée à l’alinéa (4.1)b).
 
 **Experts**
 
@@ -564,15 +676,19 @@
 
 **Nouvelles règles**
 
-- **(6)** Lorsque le ministre notifie à une compagnie de chemin de fer son refus d’approuver les règles établies par celle-ci sans préciser son intention d’en établir lui-même sous le régime du paragraphe (7), la compagnie peut établir de nouvelles règles et en déposer le texte auprès du ministre comme si l’obligation et le délai correspondant prévus au paragraphe (1) avaient été stipulés à la date de réception de l’avis de refus. Les dispositions du présent article s’appliquent aux nouvelles règles, compte tenu des adaptations de circonstance.
+- **(6)** Lorsque le ministre notifie à une compagnie son refus d’approuver les règles établies par celle-ci sans préciser son intention d’en établir lui-même sous le régime du paragraphe (7), la compagnie peut établir de nouvelles règles et en déposer le texte auprès du ministre comme si l’obligation et le délai correspondant prévus au paragraphe (1) avaient été stipulés à la date de réception de l’avis de refus. Les dispositions du présent article s’appliquent aux nouvelles règles, compte tenu des adaptations de circonstance.
 
 **Règles établies par le ministre**
 
-- **(7)** Le ministre peut, par arrêté, établir des règles à l’égard de toute compagnie qui omet de procéder au dépôt prévu au paragraphe (1), ou a été avisée du refus d’approbation des règles dont elle a déposé le texte.
+- **(7)** Lorsqu’une compagnie omet de procéder au dépôt prévu au paragraphe (1) concernant un domaine donné ou qu’elle est avisée du refus d’approbation des règles dont elle a déposé le texte, le ministre peut, par arrêté, établir des règles à son égard concernant ce domaine.
 
 **Consultations**
 
-- **(8)** Le ministre ne peut établir de règles, sous le régime du présent article, à l’égard d’une compagnie qu’après avoir donné à celle-ci et aux organisations intéressées la possibilité, pendant soixante jours, de lui faire part de leurs observations et après avoir tenu compte des oppositions formulées à cette occasion pour des motifs de sécurité.
+- **(8)** Le ministre ne peut se prévaloir du présent article pour établir des règles à l’égard d’une compagnie, sauf si :
+	- **a)** d’une part, il a donné à celle-ci, ainsi qu’aux entités ci-après, la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+		- **(i)** dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles,
+		- **(ii)** dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles;
+	- **b)** d’autre part, il a tenu compte des oppositions formulées à cette occasion pour des motifs de sécurité.
 
 **Effet des règles ministérielles**
 
@@ -585,7 +701,7 @@
 **Exclusion du délai d’examen**
 
 - **(11)** Est exclue du délai d’examen la période comprise entre le renvoi pour enquête visé à l’article 40 et la remise au ministre du rapport d’enquête.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 19; 1999, ch. 9, art. 13.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 19; 1999, ch. 9, art. 13; 2012, ch. 7, art. 14.
 
 
 
@@ -595,11 +711,13 @@
 
 **20** 
 
-- **(1)** La compagnie de chemin de fer qui se propose d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1) ou de modifier de telles règles en dépose, pour approbation, le texte auprès du ministre.
+- **(1)** La compagnie qui se propose d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1) ou de modifier de telles règles en dépose, pour approbation, le texte auprès du ministre.
 
 **Consultations**
 
-- **(2)** La compagnie de chemin de fer ne peut procéder au dépôt qu’après avoir donné aux organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles la possibilité, pendant soixante jours, de lui faire part de leurs observations.
+- **(2)** La compagnie ne peut procéder au dépôt qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+	- **a)** dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles;
+	- **b)** dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles.
 
 **Dossier de l’énoncé**
 
@@ -608,7 +726,31 @@
 **Application de certaines dispositions**
 
 - **(4)** Les paragraphes 19(4) à (5.1), (10) et (11) s’appliquent aux règles déposées dans le cadre du paragraphe (1) comme si elles l’avaient été conformément à l’arrêté visé au paragraphe 19(1).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 20; 1999, ch. 9, art. 14.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 20; 1999, ch. 9, art. 14; 2012, ch. 7, art. 14.
+
+
+
+
+
+**Rôle d’un tiers**
+
+**20.1** Un tiers peut agir au nom d’une compagnie pour toute question relative à la formulation ou à la révision des règles ou des normes prévues aux articles 7, 19 et 20.
+> 2012, ch. 7, art. 14.
+
+
+
+
+
+**Règlements — formulation des règles**
+
+**20.2** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements régissant le processus de formulation et de révision des règles applicables aux compagnies ainsi que le processus de modification des conditions.
+
+**Portée des règlements**
+
+- **(2)** Un règlement pris en vertu du paragraphe (1) peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+> 2012, ch. 7, art. 14.
 
 
 
@@ -620,7 +762,9 @@
 
 **Uniformité**
 
-**21** Dans l’établissement ou l’approbation de règles à l’égard d’une compagnie de chemin de fer au titre de la présente partie, le ministre veille, compte tenu des circonstances, à leur uniformité avec les règles à objet comparable applicables aux autres compagnies de chemin de fer.
+**21** Dans l’établissement ou l’approbation de règles à l’égard d’une compagnie au titre des articles 19 ou 20, le ministre veille, compte tenu des circonstances, à leur uniformité avec les règles à objet comparable applicables aux autres compagnies.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 21; 2012, ch. 7, art. 14.
+
 
 
 
@@ -629,11 +773,11 @@
 
 **22** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, aux conditions qui y sont fixées, soustraire une compagnie de chemin de fer ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20. Il peut, de la même manière, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
+- **(1)** Le gouverneur en conseil peut, par décret, aux conditions qui y sont fixées, soustraire une compagnie ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20. Il peut, de la même manière, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
 
 **Exemption par le ministre**
 
-- **(2)** Le ministre peut, aux conditions fixées dans l’avis à cet effet, soustraire une compagnie de chemin de fer ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20, s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut, de la même manière et sous réserve de la même appréciation, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
+- **(2)** Le ministre peut, aux conditions fixées dans l’avis à cet effet, soustraire une compagnie ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20, s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut, de la même manière et sous réserve de la même appréciation, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
 
 **Notification**
 
@@ -641,11 +785,14 @@
 
 **Demande de la compagnie**
 
-- **(4)** La compagnie de chemin de fer peut demander au ministre d’être soustraite à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1), (2) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20.
+- **(4)** La compagnie peut demander au ministre d’être soustraite à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1), (2) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20.
 
 **Consultations**
 
-- **(5)** La compagnie de chemin de fer ne peut faire la demande visée au paragraphe (4) qu’après avoir donné aux organisations intéressées susceptibles d’être touchées par l’exemption soixante jours pour lui faire part de leurs observations. Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu les observations de toutes ces organisations.
+- **(5)** La compagnie ne peut faire la demande visée au paragraphe (4) qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+	- **a)** dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par l’exemption;
+	- **b)** dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par l’exemption.
+Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu les observations de toutes ces organisations ou de la compagnie de chemin de fer, selon le cas.
 
 **Copie des observations**
 
@@ -654,7 +801,7 @@
 **Délai de 60 jours pour agréer la demande**
 
 - **(7)** Le ministre peut, dans les soixante jours suivant la réception de la demande, agréer celle-ci s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut en outre prolonger le délai d’au plus soixante jours.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 22; 1999, ch. 9, art. 15.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 22; 1999, ch. 9, art. 15; 2012, ch. 7, art. 14.
 
 
 
@@ -664,18 +811,33 @@
 
 **22.1** 
 
-- **(1)** Est soustraite à l’application d’une disposition soit des normes établies sous le régime de l’article 7, soit des règlements pris sous le régime des paragraphes 18(1) ou (2) ou 24(1), soit des règles en vigueur sous le régime des articles 19 ou 20, pour la durée qu’elle juge nécessaire, la compagnie de chemin de fer qui se propose de faire des essais en matière de transport ferroviaire ou qui a besoin sans tarder d’une exemption de courte durée et qui, ayant donné un avis de vingt et un jours au ministre et aux organisations intéressées susceptibles d’être touchées, remplit l’une des conditions suivantes :
-	- **a)** elle reçoit de ces dernières et du ministre, avant l’expiration du délai, une réponse indiquant qu’ils entendent ne pas s’opposer à l’exemption;
-	- **b)** aucune opposition ne subsiste au titre du paragraphe (3).
+- **(1)** La compagnie qui se propose de faire des essais en matière de transport ferroviaire ou qui a besoin sans tarder d’une exemption de courte durée peut, par avis, demander d’être soustraite à l’application d’une disposition soit des normes établies sous le régime de l’article 7, soit des règlements pris sous le régime des paragraphes 18(1) ou (2) ou 24(1), soit des règles en vigueur sous le régime des articles 19 ou 20, pour une durée d’au plus six mois.
 
-**Opposition d’une organisation intéressée**
+**Dépôt de l’avis**
 
-- **(2)** L’organisation intéressée avisée peut, pour des motifs de sécurité, s’opposer à l’exemption; elle fait parvenir son avis d’opposition à la compagnie et au ministre dans les quatorze jours suivant la notification de l’avis de la compagnie.
+- **(2)** L’avis visé au paragraphe (1) est déposé auprès du ministre et :
+	- **a)** dans le cas d’une compagnie de chemin de fer, des organisations intéressées susceptibles d’être touchées par l’exemption;
+	- **b)** dans le cas d’une compagnie de chemin de fer locale, de la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par l’exemption.
+
+**Opposition**
+
+- **(3)** L’organisation ou la compagnie de chemin de fer intéressée que l’on doit aviser peut, pour des motifs de sécurité, s’opposer à l’exemption; elle fait parvenir son avis d’opposition au ministre et à la compagnie dans les quatorze jours suivant la notification de l’avis visé au paragraphe (1).
 
 **Délais impartis au ministre**
 
-- **(3)** Le ministre peut, dans les sept jours suivant la réception de l’avis visé au paragraphe (2), maintenir l’opposition de l’organisation intéressée ou, dans les vingt et un jours après réception de l’avis, s’opposer de son propre chef à l’exemption s’il estime qu’il est dans l’intérêt public de le faire ou que la sécurité ferroviaire risque d’être compromise.
-> 1999, ch. 9, art. 16.
+- **(4)** Le ministre peut :
+	- **a)** dans les vingt et un jours suivant le dépôt de l’avis visé au paragraphe (3), maintenir l’opposition s’il estime que l’exemption compromet la sécurité;
+	- **b)** dans les vingt et un jours suivant le dépôt de l’avis visé au paragraphe (3) ou dans les trente-cinq jours suivant la réception de l’avis visé au paragraphe (1), assortir l’exemption des conditions qu’il estime indiquées, s’il estime qu’il est dans l’intérêt public de le faire ou que la sécurité risque d’être compromise;
+	- **c)** dans les trente-cinq jours suivant la réception de l’avis visé au paragraphe (1), refuser de son propre chef l’exemption, s’il estime qu’il est dans l’intérêt public de le faire ou que la sécurité risque d’être compromise.
+
+**Date effective**
+
+- **(5)** L’exemption prévue au paragraphe (1) est accordée si :
+	- **a)** la compagnie qui demande l’exemption reçoit des organisations intéressées ou des compagnies de chemin de fer, selon le cas, et du ministre une réponse indiquant qu’ils ne s’opposent pas à l’exemption;
+	- **b)** aucune opposition ne subsiste au titre de l’alinéa (4)a);
+	- **c)** le ministre, au lieu de refuser l’exemption ou de maintenir l’opposition en vertu du paragraphe (4), assortit l’exemption de conditions en vertu de l’alinéa (4)b) et la compagnie de chemin de fer s’y conforme;
+	- **d)** le ministre ne refuse pas l’exemption au titre de l’alinéa (4)c).
+> 1999, ch. 9, art. 16; 2012, ch. 7, art. 14.
 
 
 
@@ -684,18 +846,7 @@
 ### Interdiction de déroger aux règlements et règles sans exemption
 
 
-
-**Exploitation et entretien des installations**
-
-**23** 
-
-- **(1)** Il est interdit à la compagnie de chemin de fer qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’exploiter ou d’entretenir des installations ou du matériel ferroviaires en contravention avec les règlements pris sous le régime de l’article 18 ou avec les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables.
-
-**Entretien d’ouvrage de franchissement**
-
-- **(2)** Il est interdit au responsable de l’entretien d’un ouvrage de franchissement qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’entretenir celui-ci en contravention avec les règlements pris à ce sujet sous le régime de l’article 18.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 23; 1999, ch. 9, art. 17.
-
+**23** [Abrogé, 2012, ch. 7, art. 15]
 
 
 
@@ -744,7 +895,7 @@
 	- **c)** la construction, la modification ou l’entretien de réseaux de drainage sur un tel terrain, dans la mesure où ils risqueraient de compromettre la sécurité ferroviaire, ou en interdire la construction ou la modification, dans la même mesure;
 	- **d)** la présence ou l’entreposage de certaines matières sur un tel terrain, ou l’interdire;
 	- **e)** l’enlèvement de toute chose, notamment les arbres et broussailles, risquant de compromettre la sécurité ferroviaire du fait qu’elle réduise la visibilité, et l’enlèvement de plantes nuisibles sur la voie ferrée ou aux abords de celle-ci, ainsi que l’emploi de solutions de rechange aux agents chimiques pour ces opérations;
-	- **f)** l’interdiction ou la limitation, notamment par l’installation de clôtures ou de signaux, de l’accès à l’emplacement de la voie de personnes — à l’exception des préposés et agents de la compagnie de chemin de fer concernée — , de véhicules et d’animaux, afin d’éviter que ne soit compromise la sécurité ferroviaire;
+	- **f)** l’interdiction ou la limitation, notamment par l’installation de clôtures ou de signaux, de l’accès à l’emplacement de la voie de personnes, à l’exception des préposés et mandataires de la compagnie de chemin de fer concernée — ou de la compagnie de chemin de fer locale autorisée à exploiter du matériel ferroviaire sur le chemin de fer —, de véhicules et d’animaux, afin d’éviter que ne soit compromise la sécurité ferroviaire;
 	- **f.1)** la construction, la modification et l’entretien des routes en vue de préserver la sécurité ferroviaire;
 	- **f.2)** le contrôle de la circulation des véhicules et des piétons aux abords des franchissements routiers en vue de préserver la sécurité ferroviaire;
 	- **g)** toute autre activité, sur un terrain contigu à une voie ferrée, qui risque de compromettre la sécurité ferroviaire, ou interdire cette activité.
@@ -755,8 +906,8 @@
 
 **Dommages-intérêts**
 
-- **(2)** La compagnie exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19.
+- **(2)** La compagnie de chemin de fer exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19; 2012, ch. 7, art. 16.
 
 
 
@@ -770,7 +921,7 @@
 
 **25** 
 
-- **(1)** Afin de prévenir toute situation susceptible de compromettre la sécurité ferroviaire ou pour rétablir l’exploitation sécuritaire des chemins de fer, la compagnie de chemin de fer a accès à tout terrain contigu à la voie :
+- **(1)** Afin de prévenir toute situation susceptible de compromettre la sécurité ferroviaire ou pour rétablir l’exploitation sécuritaire des chemins de fer, la compagnie de chemin de fer a accès à tout terrain contigu à la voie :
 	- **a)** à tout moment, pour la modification ou l’entretien d’installations ferroviaires ou pour enlever tout obstacle à celles-ci, en l’absence d’un autre accès praticable à la voie, et peut y demeurer pour la durée nécessaire à ces fins;
 	- **b)** à tout moment, en cas d’incendie;
 	- **c)** à toute heure convenable et sur préavis écrit au propriétaire, pour y abattre les arbres ou y enlever les broussailles dont la présence contrevient aux règlements pris sous le régime de l’alinéa 24(1)e);
@@ -782,12 +933,12 @@
 
 **Enlèvement de paraneiges**
 
-- **(2)** La compagnie fait enlever les paraneiges au plus tard le 1<sup>er</sup> avril suivant la date de leur installation.
+- **(2)** La compagnie de chemin de fer fait enlever les paraneiges au plus tard le 1<sup>er</sup> avril suivant la date de leur installation.
 
 **Dommages-intérêts**
 
-- **(3)** La compagnie ou l’autorité responsable du service de voirie qui exerce les pouvoirs prévus au présent article paie au propriétaire, au locataire ou à l’occupant concerné les dommages-intérêts entraînés par cet exercice et convenus entre elle et ceux-ci ou, à défaut d’entente, fixés aux termes de l’article 26. Cet exercice n’est cependant pas subordonné au paiement préalable des dommages-intérêts.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 25; 1996, ch. 10, art. 265; 1999, ch. 9, art. 20.
+- **(3)** La compagnie de chemin de fer ou l’autorité responsable du service de voirie qui exerce les pouvoirs prévus au présent article paie au propriétaire, au locataire ou à l’occupant concerné les dommages-intérêts entraînés par cet exercice et convenus entre elle et ceux-ci ou, à défaut d’entente, fixés aux termes de l’article 26. Cet exercice n’est cependant pas subordonné au paiement préalable des dommages-intérêts.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 25; 1996, ch. 10, art. 265; 1999, ch. 9, art. 20; 2012, ch. 7, art. 17.
 
 
 
@@ -843,8 +994,8 @@
 
 **Priorité aux trains**
 
-**26.2** Les usagers de la route doivent à tout franchissement routier céder le passage au train qui a signalé adéquatement son approche.
-> 1999, ch. 9, art. 20.1.
+**26.2** Les usagers de la route doivent, à tout franchissement routier, céder le passage au train dont l’approche a été adéquatement signalée.
+> 1999, ch. 9, art. 20.1; 2012, ch. 7, art. 18(F).
 
 
 
@@ -863,7 +1014,11 @@
 
 **27** 
 
-- **(1)** Le ministre peut désigner les personnes qu’il estime qualifiées pour remplir les fonctions d’inspecteur de la sécurité ferroviaire ou celles d’agent de contrôle dans le cadre de la présente loi. Il doit, à l’égard des inspecteurs de la sécurité ferroviaire, délimiter leur champ de compétence.
+- **(1)** Le ministre peut désigner les personnes qu’il estime qualifiées pour remplir les fonctions d’inspecteur de la sécurité ferroviaire ou celles d’agent de contrôle dans le cadre de la présente loi. Il doit, à l’égard de ces personnes, préciser leur champ de compétence ainsi que les modalités selon lesquelles elles exercent leurs fonctions.
+
+**Exercice des fonctions**
+
+- **(1.1)** Dans l’exercice de leurs fonctions en vertu de la présente loi, les personnes désignées en vertu du paragraphe (1) agissent pour le ministre et en son nom.
 
 **Certificat**
 
@@ -876,7 +1031,7 @@
 **Inspecteur non responsable**
 
 - **(4)** L’inspecteur n’encourt aucune responsabilité personnelle à l’égard d’un fait — acte ou omission — accompli de bonne foi sous le régime de la présente loi.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 27; 1999, ch. 9, art. 22.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 27; 1999, ch. 9, art. 22; 2012, ch. 7, art. 19.
 
 
 
@@ -1026,8 +1181,8 @@
 
 **28** 
 
-- **(1)** L’inspecteur de la sécurité ferroviaire peut :
-	- **a)** en vue d’assurer l’observation de la présente loi et de ses textes d’application, procéder à la visite de tous lieux, autre qu’une maison d’habitation, où se déroulent des activités se rapportant directement ou indirectement à l’exploitation des chemins de fer — y compris un train — et y effectuer l’examen nécessaire dans le cadre de son champ de compétence délimité par le ministre au titre de l’article 27;
+- **(1)** L’inspecteur de la sécurité ferroviaire peut :
+	- **a)** en vue d’assurer l’observation de la présente loi et de ses textes d’application, procéder à la visite de tous lieux, autre qu’une maison d’habitation, où se déroulent des activités se rapportant directement ou indirectement à l’exploitation ou à l’entretien des chemins de fer ou à l’exploitation du matériel ferroviaire et y effectuer l’examen nécessaire dans le cadre de son champ de compétence délimité par le ministre au titre de l’article 27;
 	- **a.1)** ordonner à toute personne apparemment responsable du lieu de son intervention de lui remettre tous documents — quel qu’en soit le support — pour qu’il les vérifie ou en fasse des copies ou des extraits;
 	- **b)** saisir tous objets trouvés à l’endroit de sa visite et dont il a des motifs raisonnables de croire qu’ils pourront servir à prouver une infraction prévue à la présente loi et, au besoin, les soumettre aux essais nécessaires;
 	- **c)** exiger, lors de sa visite, la présence des personnes qu’il estime utiles à l’exercice de ses fonctions et les interroger.
@@ -1043,7 +1198,7 @@
 **Usage de la force**
 
 - **(4)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 28; 1999, ch. 9, art. 23.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 28; 1999, ch. 9, art. 23; 2012, ch. 7, art. 20.
 
 
 
@@ -1094,11 +1249,11 @@
 
 **31** 
 
-- **(1)** L’inspecteur transmet à la compagnie de chemin de fer un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ses lignes de chemin de fer ou de son matériel ferroviaire risquent de compromettre la sécurité ferroviaire. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie d’empêcher l’utilisation des lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+- **(1)** L’inspecteur transmet à la compagnie un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ses lignes de chemin de fer ou de son matériel ferroviaire risquent de compromettre la sécurité ferroviaire. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie d’empêcher l’utilisation des lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
 
 **Interdiction d’usage pour mauvais état d’ouvrages de franchissement**
 
-- **(2)** L’inspecteur transmet au responsable de l’entretien d’ouvrages de franchissement un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ceux-ci risquent de compromettre la sécurité ferroviaire; il transmet aussi l’avis à la compagnie de chemin de fer concernée. S’il est convaincu que le risque est imminent, il peut en outre ordonner au responsable ou à la compagnie, pour ce qui est de l’ouvrage de franchissement en cause, d’empêcher son utilisation ou de faire en sorte qu’il ne soit utilisé qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+- **(2)** L’inspecteur transmet au responsable de l’entretien d’ouvrages de franchissement un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ceux-ci risquent de compromettre la sécurité ferroviaire; il transmet aussi l’avis à la compagnie de chemin de fer concernée. S’il est convaincu que le risque est imminent, il peut en outre ordonner au responsable ou à la compagnie de chemin de fer, pour ce qui est de l’ouvrage de franchissement en cause, d’empêcher son utilisation ou de faire en sorte qu’il ne soit utilisé qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
 
 **Utilisation dangereuse des franchissements routiers**
 
@@ -1106,7 +1261,7 @@
 
 **Interdiction d’exploitation de lignes de chemin de fer ou de matériel ferroviaire**
 
-- **(3)** L’inspecteur transmet à la compagnie de chemin de fer ou à tout propriétaire ou locateur de matériel ferroviaire un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que l’exploitation de ses lignes de chemin de fer ou de son matériel ferroviaire risque de compromettre la sécurité ferroviaire. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie ou à la personne concernée d’empêcher l’utilisation de ces lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+- **(3)** L’inspecteur transmet à la compagnie ou à tout propriétaire ou locateur de matériel ferroviaire un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que l’exploitation de ses lignes de chemin de fer ou de son matériel ferroviaire compromet la sécurité ou la sûreté ferroviaires. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie ou à la personne concernée d’empêcher l’utilisation de ces lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
 
 **Restriction**
 
@@ -1139,7 +1294,7 @@
 **Prise d’effet**
 
 - **(10)** La modification ou l’annulation de l’ordre prend effet dès que le destinataire de l’avis ou de l’ordre en reçoit notification.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66; 2012, ch. 7, art. 21.
 
 
 
@@ -1149,7 +1304,7 @@
 
 **31.1** 
 
-- **(1)** L’intéressé — compagnie ou autre personne visée par l’avis — peut faire réviser l’ordre de l’inspecteur en déposant une requête auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+- **(1)** Toute personne visée par l’avis peut faire réviser l’ordre de l’inspecteur en déposant une requête auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
 
 **Audience**
 
@@ -1162,7 +1317,7 @@
 **Décision**
 
 - **(4)** Le conseiller peut confirmer l’ordre ou faire parvenir le dossier au ministre pour examen.
-> 2001, ch. 29, art. 67.
+> 2001, ch. 29, art. 67; 2012, ch. 7, art. 22.
 
 
 
@@ -1208,7 +1363,7 @@
 **Prise d’effet**
 
 **31.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre de l’inspecteur en reçoit notification.
-> 2001, ch. 29, art. 67.
+> 2001, ch. 29, art. 67; 2012, ch. 7, art. 23(A).
 
 
 
@@ -1228,18 +1383,18 @@
 
 - **(2)** Les coûts occasionnés par l’application du paragraphe (1) peuvent être recouvrés auprès du défaillant, avec dépens, au nom de Sa Majesté, déduction faite du produit éventuel de la vente et indépendamment de toute poursuite intentée à cet égard.
 
-**Violation d’un règlement pris aux termes de l’article 24**
+**Violation d’un règlement pris en vertu de l’article 24**
 
-- **(3)** Le ministre transmet, lorsqu’il estime qu’il y a eu violation d’un règlement pris en application de l’article 24, un avis au contrevenant et à la compagnie de chemin de fer concernée pour les informer de son opinion et des motifs de celle-ci. S’il est convaincu que la sécurité ferroviaire risque d’être compromise de façon imminente, à l’égard de certaines installations ferroviaires, du fait de cette violation, il peut en outre, dans l’avis, ordonner au contrevenant de prendre les mesures pour écarter ce risque, et à la compagnie, lorsqu’il est convaincu que l’exploitation ferroviaire de celle-ci risque d’être compromise de façon imminente, d’empêcher toute utilisation d’installations ou de matériel ferroviaires déterminés, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le contrevenant n’aura pas pris, selon lui, les mesures appropriées.
+- **(3)** Le ministre transmet, lorsqu’il estime qu’il y a eu violation d’un règlement pris en vertu de l’article 24, un avis au contrevenant et à la compagnie de chemin de fer concernée pour les informer de son opinion et des motifs de celle-ci. S’il est convaincu que la sécurité ferroviaire risque d’être compromise de façon imminente, à l’égard de certaines installations ferroviaires, du fait de cette violation, il peut en outre, dans l’avis, ordonner au contrevenant de prendre les mesures pour écarter ce risque, et à la compagnie de chemin de fer, lorsqu’il est convaincu que l’exploitation ferroviaire de celle-ci risque d’être compromise de façon imminente, d’empêcher toute utilisation d’installations ou de matériel ferroviaires déterminés, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le contrevenant n’aura pas pris, selon lui, les mesures appropriées.
 
 **Lacunes du système de gestion de la sécurité ferroviaire**
 
-- **(3.1)** S’il estime que le système de gestion de la sécurité ferroviaire établi par une compagnie de chemin de fer présente des lacunes qui risquent de compromettre la sécurité ferroviaire, le ministre peut, par avis, ordonner à la compagnie d’apporter les mesures correctives nécessaires.
+- **(3.1)** S’il estime que le système de gestion de la sécurité ferroviaire établi par une compagnie présente des lacunes qui risquent de compromettre la sécurité ferroviaire, le ministre peut, par avis, ordonner à la compagnie d’apporter les mesures correctives nécessaires.
 
 **Contenu de l'avis**
 
 - **(4)** L’ordre donné dans un avis prévu aux paragraphes (1), (3) ou (3.1) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24.
 
 
 
@@ -1249,7 +1404,7 @@
 
 **32.1** 
 
-- **(1)** L’intéressé — compagnie ou autre personne visée par l’avis — peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+- **(1)** Toute personne visée par l’avis peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
 
 **Audience**
 
@@ -1266,7 +1421,7 @@
 **Décision**
 
 - **(5)** Le conseiller peut confirmer l’ordre ou renvoyer le dossier au ministre pour réexamen.
-> 2001, ch. 29, art. 69.
+> 2001, ch. 29, art. 69; 2012, ch. 7, art. 25.
 
 
 
@@ -1312,7 +1467,7 @@
 **Prise d’effet**
 
 **32.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre donné en vertu de l’article 32 en reçoit notification.
-> 2001, ch. 29, art. 69.
+> 2001, ch. 29, art. 69; 2012, ch. 7, art. 26(A).
 
 
 
@@ -1326,7 +1481,7 @@
 
 **33** 
 
-- **(1)** Le ministre peut, en lui transmettant un avis en ce sens, enjoindre à la compagnie de chemin de fer concernée de mettre fin, totalement ou dans la mesure prévue dans l’avis, à l’utilisation d’installations ou de matériel ferroviaires d’un type déterminé, ou à toute pratique concernant leur entretien ou leur exploitation, qui, selon lui, risquent de compromettre de façon imminente la sécurité ferroviaire. Il peut, de la même manière, lui enjoindre de mettre en oeuvre une certaine pratique concernant cet entretien ou cette exploitation lorsqu’une omission à cet égard comporte un tel risque.
+- **(1)** Le ministre peut, en lui transmettant un avis en ce sens, enjoindre à la compagnie concernée de mettre fin, totalement ou dans la mesure prévue dans l’avis, à l’utilisation d’installations ou de matériel ferroviaires d’un type déterminé, ou à toute pratique concernant leur entretien ou leur exploitation, qui, selon lui, risquent de compromettre de façon imminente la sécurité ferroviaire. Il peut, de la même manière, lui enjoindre de mettre en oeuvre une certaine pratique concernant cet entretien ou cette exploitation lorsqu’une omission à cet égard comporte un tel risque.
 
 **Portée de l’injonction**
 
@@ -1351,7 +1506,7 @@
 **Prorogation**
 
 - **(6)** Le ministre peut, par avis transmis à la compagnie, proroger une injonction par ailleurs valide d’au plus six mois; les dispositions du présent article, à l’exception du présent paragraphe, continuent alors de s’appliquer.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 33; 1999, ch. 9, art. 26.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 33; 1999, ch. 9, art. 26; 2012, ch. 7, art. 27.
 
 
 
@@ -1382,7 +1537,7 @@
 **Faculté d’exécution**
 
 - **(5)** Le ministre a toujours la faculté de faire exécuter lui-même ses ordres ou injonctions, même après leur assimilation.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26; 2007, ch. 19, art. 53.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26; 2007, ch. 19, art. 53; 2012, ch. 7, art. 28(A).
 
 
 
@@ -1400,7 +1555,7 @@
 
 **Avertissement médical**
 
-- **(2)** Le médecin ou l’optométriste qui a des motifs raisonnables de croire que son patient occupe un tel poste doit, si à son avis l’état de l’intéressé risque de compromettre cette sécurité, en informer sans délai, par avis écrit motivé, tout médecin ou optométriste désigné par la compagnie, après avoir pris des mesures raisonnables pour en informer d’abord son patient. Le patient est présumé avoir consenti à cette communication et une copie de l’avis lui est transmise sans délai.
+- **(2)** Le médecin ou l’optométriste qui a des motifs raisonnables de croire que son patient occupe un tel poste doit, si à son avis l’état de l’intéressé risque de compromettre cette sécurité, en informer sans délai, par avis écrit motivé, tout médecin ou optométriste désigné par la compagnie de chemin de fer, après avoir pris des mesures raisonnables pour en informer d’abord son patient. Le patient est présumé avoir consenti à cette communication et une copie de l’avis lui est transmise sans délai.
 
 **Devoir du patient**
 
@@ -1408,7 +1563,7 @@
 
 **Utilisation des renseignements**
 
-- **(4)** La compagnie peut faire, des renseignements communiqués aux termes du paragraphe (2), l’usage qu’elle estime nécessaire pour la sécurité ferroviaire.
+- **(4)** La compagnie de chemin de fer peut faire, des renseignements communiqués aux termes du paragraphe (2), l’usage qu’elle estime nécessaire pour la sécurité ferroviaire.
 
 **Immunité**
 
@@ -1417,7 +1572,7 @@
 **Protection des renseignements**
 
 - **(6)** Les renseignements sont protégés; nul n’est tenu de les communiquer ou de témoigner à leur sujet dans le cadre de procédures judiciaires, disciplinaires ou autres et ils n’y sont pas, sous réserve du paragraphe (4) ou du consentement du patient, admissibles en preuve.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 35; 1999, ch. 9, art. 27.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 35; 1999, ch. 9, art. 27; 2012, ch. 7, art. 29(F).
 
 
 
@@ -1426,18 +1581,29 @@
 ### Exigences relatives aux renseignements
 
 
-**36** [Abrogé, 1999, ch. 9, art. 28]
+
+**Demande de renseignements**
+
+**36** Le ministre peut, par arrêté, demander à une compagnie de lui fournir, en la forme et dans le délai qui y est prévu, tout renseignement ou document s’il l’estime nécessaire pour vérifier le respect de la présente loi et de ses textes d’application.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 36; 1999, ch. 9, art. 28; 2012, ch. 7, art. 30.
+
 
 
 
 
 **Règlements concernant la garde et la conservation des renseignements**
 
-**37** Le gouverneur en conseil peut, par règlement, régir :
-- **a)** la garde et la conservation, par chaque compagnie de chemin de fer, de certains renseignements, registres ou documents concernant la sécurité de son exploitation ferroviaire, notamment l’ensemble des règlements, injonctions ministérielles et règles ou ordres prévus par la présente loi et applicables à la compagnie;
-- **b)** le dépôt auprès du ministre, à la demande de celui-ci, des renseignements, registres et documents gardés et conservés en conformité avec les règlements pris sous le régime de l’alinéa a);
-- **c)** la notification au ministre, par les compagnies de chemin de fer, des renseignements nécessaires à l’évaluation du rendement du point de vue de la sécurité, à la prédiction des variations dans ce domaine, afférents aux accidents, aux incidents ou à toute situation de nature à provoquer un problème de sécurité.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29.
+**37** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement, régir :
+	- **a)** la garde et la conservation, par chaque compagnie, de certains renseignements, registres ou documents concernant la sécurité de son exploitation ferroviaire, notamment l’ensemble des règlements, injonctions ministérielles et règles ou ordres prévus par la présente loi et applicables à la compagnie;
+	- **b)** le dépôt auprès du ministre, à la demande de celui-ci, des renseignements, registres et documents gardés et conservés en conformité avec les règlements pris sous le régime de l’alinéa a);
+	- **c)** la notification au ministre, par les compagnies, des renseignements nécessaires à l’évaluation du rendement du point de vue de la sécurité, à la prédiction des variations dans ce domaine, afférents aux accidents, aux incidents ou à toute situation de nature à provoquer un problème de sécurité.
+
+**Portée des règlements**
+
+- **(2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29; 2012, ch. 7, art. 30.
 
 
 
@@ -1554,6 +1720,212 @@
 
 
 
+### Sanctions administratives pécuniaires
+
+
+
+**Pouvoirs réglementaires**
+
+**40.1** Le gouverneur en conseil peut, par règlement :
+- **a)** désigner comme un texte dont la contravention est assujettie aux articles 40.13 à 40.22 :
+	- **(i)** toute disposition de la présente loi ou de ses règlements,
+	- **(ii)** une règle, une norme, un arrêté ou une injonction ministérielle pris en vertu de la présente loi;
+- **b)** prévoir le montant maximal de la sanction applicable à chaque contravention, plafonné comme suit :
+	- **(i)** dans le cas des personnes physiques, à 50 000 $,
+	- **(ii)** dans le cas des personnes morales, à 250 000 $.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Désignation — agents de l’autorité**
+
+**40.11** 
+
+- **(1)** Le ministre peut désigner, individuellement ou par catégorie, les agents de l’autorité.
+
+**Certificat**
+
+- **(2)** Chaque agent reçoit un certificat établi en la forme fixée par règlement et attestant sa qualité, qu’il présente sur demande à la personne à qui il veut demander des renseignements.
+
+**Attributions des agents**
+
+- **(3)** L’agent peut, en vue de déterminer si une violation visée à l’article 40.13 a été commise, procéder à la visite de tous lieux, autre qu’une maison d’habitation, où se déroulent des activités se rapportant directement ou indirectement à la construction et l’exploitation d’un chemin de fer ou à l’exploitation du matériel ferroviaire.
+
+**Communication de documents**
+
+- **(4)** L’agent peut, en vue de déterminer si une violation visée à l’article 40.13 a été commise, exiger la communication, pour examen ou reproduction totale ou partielle, de documents ou de données informatiques s’il a des motifs raisonnables de croire qu’ils contiennent des renseignements relatifs à cette détermination.
+
+**Assistance**
+
+- **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques en vertu du paragraphe (4) est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui fournir les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Procès-verbaux**
+
+**40.12** Le ministre peut décider de la forme et de la teneur des procès-verbaux de violation.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Violation**
+
+**40.13** 
+
+- **(1)** Toute contravention à un texte désigné en vertu de l’alinéa 40.1a) constitue une violation pour laquelle le contrevenant s’expose à une pénalité dont le maximum est prévu en vertu de l’alinéa 40.1b).
+
+**Violation continue**
+
+- **(2)** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+
+**Précision**
+
+- **(3)** Toute contravention à un texte désigné en vertu de l’alinéa 40.1a) qualifiable à la fois de violation et d’infraction peut être poursuivie soit comme violation, soit comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
+
+**Nature de la violation**
+
+- **(4)** Les violations n’ont pas valeur d’infractions; en conséquence nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Verbalisation**
+
+**40.14** La personne désignée par le ministre au titre du paragraphe 40.11(1), si elle a des motifs raisonnables de croire qu’une violation a été commise, peut dresser un procès-verbal qu’elle fait signifier au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant de la pénalité à payer, ainsi que le délai, les modalités de paiement et la procédure à suivre pour déposer une requête en révision.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Paiement de la pénalité**
+
+**40.15** Lorsque le destinataire du procès-verbal paie la somme requise conformément aux modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la pénalité imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente loi contre l’intéressé pour la même contravention.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Requête en révision**
+
+**40.16** 
+
+- **(1)** Le destinataire du procès-verbal qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de la pénalité dépose une requête auprès du Tribunal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(2)** Le Tribunal, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(4)** Il incombe au ministre d’établir que l’intéressé a contrevenu au texte désigné.
+
+**Intéressé non tenu de témoigner**
+
+- **(5)** L’intéressé n’est pas tenu de témoigner à l’audience.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Omission de payer la pénalité**
+
+**40.17** L’omission, par l’intéressé, de payer dans le délai imparti la pénalité prévue dans le procès-verbal et de déposer une requête en révision vaut déclaration de responsabilité à l’égard de la contravention.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Décision**
+
+**40.18** Après audition des parties, le conseiller informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
+- **a)** qu’il n’y a pas eu contravention, sous réserve de l’article 40.19, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente loi;
+- **b)** qu’il y a eu contravention, il les informe également, sous réserve des règlements pris en vertu de l’alinéa 40.1b), de la somme à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Appel**
+
+**40.19** 
+
+- **(1)** Le ministre ou toute personne concernée peut déposer un appel au Tribunal de la décision rendue au titre de l’article 40.18. Le délai d’appel est de trente jours.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+
+**Avis**
+
+- **(4)** S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé et le ministre. Sous réserve des règlements pris en vertu de l’alinéa 40.1b), il les informe également de la somme fixée par le comité qui est à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Certificat**
+
+**40.2** Le ministre peut obtenir du Tribunal ou du conseiller, selon le cas, un certificat en la forme établie par le gouverneur en conseil indiquant la pénalité à payer par l’intéressé si ce dernier, dans le délai requis :
+- **a)** omet de payer la pénalité prévue dans le procès-verbal ou de déposer une requête en révision au titre de l’article 40.16;
+- **b)** omet de payer la somme fixée en vertu de l’alinéa 40.18b) ou de déposer un appel au titre de l’article 40.19;
+- **c)** omet de payer la somme fixée en vertu du paragraphe 40.19(4).
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Enregistrement du certificat**
+
+**40.21** 
+
+- **(1)** Sur présentation à une cour supérieure, le certificat visé à l’article 40.2 est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
+
+**Recouvrement des frais**
+
+- **(2)** Tous les frais entraînés par l’enregistrement du certificat peuvent être recouvrés comme s’ils faisaient partie de la somme indiquée sur le certificat enregistré en application du paragraphe (1).
+
+**Fonds publics**
+
+- **(3)** Les sommes reçues par le ministre ou le Tribunal au titre du présent article sont assimilées à des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2012, ch. 7, art. 31.
+
+
+
+
+
+**Prescription**
+
+**40.22** Les poursuites pour violation se prescrivent par douze mois à compter du fait reproché.
+> 2012, ch. 7, art. 31.
+
+
+
+
+
 ### Infractions
 
 
@@ -1562,9 +1934,9 @@
 
 **41** 
 
-- **(1)** Quiconque contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par mise en accusation, soit une amende maximale de dix mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, dans le cas d’une personne physique, soit une amende maximale de deux cent mille dollars, s’il s’agit d’une personne morale;
-	- **b)** par procédure sommaire, soit une amende maximale de cinq mille dollars et un emprisonnement maximal de six mois ou l’une de ces peines, dans le cas d’une personne physique, soit une amende maximale de cent mille dollars, s’il s’agit d’une personne morale.
+- **(1)** Quiconque contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par mise en accusation, soit une amende maximale de un million de dollars, s’il s’agit d’une personne morale, soit une amende maximale de cinquante mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, dans le cas d’une personne physique;
+	- **b)** par procédure sommaire, soit une amende maximale de cinq cent mille dollars, s’il s’agit d’une personne morale, soit une amende maximale de vingt-cinq mille dollars et un emprisonnement maximal de six mois ou l’une de ces peines, dans le cas d’une personne physique.
 
 **Contravention aux règlements, aux injonctions ministérielles, etc.**
 
@@ -1574,11 +1946,13 @@
 	- **c)** à la demande de l’Office faite en vertu des paragraphes 16(3) ou 26(3);
 	- **d)** à une règle en vigueur sous le régime des articles 19 ou 20;
 	- **e)** à une injonction ministérielle prise en vertu de l’article 33;
-	- **f)** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2).
+	- **f)** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2);
+	- **g)** [Non en vigueur]
+	- **h)** à un arrêté pris en vertu de l’article 36.
 
 **Sanctions**
 
-- **(2.1)** Quiconque commet l’infraction prévue au paragraphe (2) encourt, sur déclaration de culpabilité par procédure sommaire, soit une amende maximale de 5 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines, s’il s’agit d’une personne physique, soit une amende maximale de 100 000 $, s’il s’agit d’une personne morale.
+- **(2.1)** Quiconque commet l’infraction prévue au paragraphe (2) encourt, sur déclaration de culpabilité par procédure sommaire, soit une amende maximale de un million de dollars, s’il s’agit d’une personne morale, soit une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines, s’il s’agit d’une personne physique.
 
 **Infractions continues**
 
@@ -1607,7 +1981,7 @@
 **Admissibilité**
 
 - **(7)** Les résultats des analyses servant à déterminer la concentration ou la présence d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. L’article 258 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, compte tenu des adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32.
 
 
 
@@ -1640,15 +2014,15 @@
 
 **Restriction**
 
-- **(2)** La nomination ne peut se faire que sur demande de la compagnie qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
+- **(2)** La nomination ne peut se faire que sur demande de la compagnie de chemin de fer qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
 
 **Compétence de l’agent de police**
 
-- **(3)** L’agent de police exerce sa compétence sur les biens que la compagnie administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
+- **(3)** L’agent de police exerce sa compétence sur les biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
 
 **Pouvoirs de l’agent de police**
 
-- **(4)** L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
+- **(4)** L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
 
 **Compétence du tribunal**
 
@@ -1656,8 +2030,8 @@
 
 **Destitution ou licenciement**
 
-- **(6)** Tout juge visé au paragraphe (1) ou la compagnie peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
-> L.R. 1985, ch. 32 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 9, art. 32; 2007, ch. 19, art. 54.
+- **(6)** Tout juge visé au paragraphe (1) ou la compagnie de chemin de fer peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
+> L.R. 1985, ch. 32 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 9, art. 32; 2007, ch. 19, art. 54; 2012, ch. 7, art. 33(F).
 
 
 
@@ -1674,8 +2048,8 @@
 
 **Dépôt**
 
-- **(2)** La compagnie dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
-> 2007, ch. 19, art. 54.
+- **(2)** La compagnie de chemin de fer dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
+> 2007, ch. 19, art. 54; 2012, ch. 7, art. 34(F).
 
 
 
@@ -1703,28 +2077,22 @@
 
 **Nature des arrêtés, injonctions, etc.**
 
-**46** Les textes suivants ne sont pas des textes réglementaires au sens de la 
-[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
-- **a)
-** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
-- **b)
-** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
-- **c)
-** les avis d’exemption visés au paragraphe 22(2);
-- **d)
-** les ordres et les avis prévus aux articles 31 à 32.5;
-- **e)
-** les injonctions ministérielles visées à l’article 33;
-- **f)
-** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1).
-> L.R. (1985), ch. 32 (4
-<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70.
+**46** Les textes suivants ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
+- **a)** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
+- **b)** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
+- **c)** les avis d’exemption visés au paragraphe 22(2);
+- **d)** les ordres et les avis prévus aux articles 31 à 32.5;
+- **e)** les injonctions ministérielles visées à l’article 33;
+- **f)** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1);
+- **g)** [Non en vigueur]
+- **h)** les arrêtés visés à l’article 36.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35.
 
 
 
 
 
-### Règlements
+### Règlements — général
 
 
 
@@ -1739,16 +2107,72 @@
 
 
 
-**Règlement concernant le système de gestion de la sécurité**
+**Règlements concernant le système de gestion de la sécurité**
 
 **47.1** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, exiger d’une compagnie de chemin de fer la mise en place d’un système de gestion de la sécurité et prévoir les critères auxquels celui-ci doit se conformer.
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant le système de gestion de la sécurité, notamment concernant :
+	- **a)** la mise en place par une compagnie d’un système de gestion de la sécurité qui prévoit notamment :
+		- **(i)** la désignation d’une personne physique à titre de gestionnaire supérieur :
+			- **(A)** chargé des opérations et des activités d’une compagnie,
+			- **(B)** tenu de rendre compte du respect des exigences du système de gestion de la sécurité,
+		- **(ii)** la mise en oeuvre, en réponse à une analyse de gestion de risque, d’une mesure corrective suffisante pour maintenir le niveau de sécurité le plus élevé,
+		- **(iii)** une surveillance continue et des évaluations régulières du niveau de sécurité atteint,
+		- **(iv)** dans le cas d’une compagnie de chemin de fer, la mise en oeuvre d’un système de production, par ses employés, de rapports internes et de rapports confidentiels à l’intention du ministère des Transports, sans mesures de représailles, relativement à des infractions à la présente loi ou à tout règlement, toute règle, tout certificat ou arrêté ou toute injonction ministérielle — pris en vertu de la présente loi — en matière de sécurité ou à d’autres préoccupations en matière de sécurité,
+		- **(v)** dans le cas d’une compagnie de chemin de fer, la participation de ses employés et de leurs représentants syndicaux au fonctionnement continu de son système ou du programme de gestion de la sécurité;
+	- **b)** l’élaboration et la mise en oeuvre du système ou du programme de gestion de la sécurité, notamment la participation des employés d’une compagnie de chemin de fer et de leurs représentants syndicaux;
+	- **c)** les critères auxquels le système de gestion de la sécurité doit se conformer ainsi que les composantes, notamment les principes de la science de la fatigue applicable à l’établissement des horaires, qui doivent être inclues dans un système de gestion de la sécurité.
 
 **Protection de l’environnement**
 
-- **(2)** Il peut également, par règlement, prévoir des normes limitant les rejets de polluant dans l’environnement découlant de l’exploitation de matériel ferroviaire.
-> 1999, ch. 9, art. 34.
+- **(2)** Il peut également prendre des règlements concernant les rejets de polluants dans l’environnement qui découlent de l’exploitation du matériel ferroviaire par une compagnie de chemin de fer, notamment :
+	- **a)** la garde des registres et renseignements et leur production auprès du ministre;
+	- **b)** la forme et le contenu des étiquettes à apposer au matériel ferroviaire et leur emplacement sur ce matériel.
+
+**Plans de gestion de l’environnement**
+
+- **(3)** Il peut également, par règlement, exiger qu’une compagnie de chemin de fer dépose auprès du ministre des plans de gestion de l’environnement et des vérifications de conformité.
+
+**Portée des règlements**
+
+- **(4)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+> 1999, ch. 9, art. 34; 2012, ch. 7, art. 37.
+
+
+
+
+
+**Règlement ministériel — droits**
+
+**47.2** 
+
+- **(1)** Le ministre peut, par règlement, fixer le montant des droits à percevoir ou leur mode de calcul, en ce qui touche :
+	- **a)** l’utilisation des installations et services fournis par le ministre dans le cadre de l’exécution de la présente loi;
+	- **b)** le dépôt de documents ou les demandes de certificat, d’exemption, de permis, de licence ou d’approbation prévus par la présente loi et la délivrance d’un tel document.
+
+**Exemption**
+
+- **(2)** Sa Majesté du chef du Canada ou d’une province et les organismes inscrits à l’annexe II ou III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) sont exemptés des droits.
+
+**Portée des règlements**
+
+- **(3)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+> 2012, ch. 7, art. 37.
+
+
+
+
+
+**Examen par un comité de la Chambre des communes**
+
+**47.3** 
+
+- **(1)** Le Comité permanent des transports, de l’infrastructure et des collectivités de la Chambre des communes ou, à défaut, le comité compétent de la Chambre peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions à la Chambre.
+
+**Examen par un comité du Sénat**
+
+- **(2)** Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
+> 2012, ch. 7, art. 37.
 
 
 
@@ -1805,15 +2229,13 @@
 
 **51** 
 
-- **(1)** Dans les cinq années suivant l’entrée en vigueur du présent article, le ministre crée un comité composé de trois à cinq experts choisis par lui dans les domaines touchés par la présente loi, et chargé de procéder à un examen complet de l’application de cette même loi. L’examen comprend notamment l’évaluation de l’effet de la loi sur la sécurité ferroviaire et la recommandation des modifications jugées utiles par le comité.
+- **(1)** Le ministre nomme, dans les cinq ans suivant la date d’entrée en vigueur du présent article, une ou plusieurs personnes chargées de procéder à un examen complet de l’application de la présente loi.
 
-**Pouvoirs**
+**Dépôt du rapport**
 
-- **(2)** Le comité a, pour l’exécution de ses fonctions, les pouvoirs d’un commissaire aux termes de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) et peut, à cette fin, s’adjoindre le personnel — experts, professionnels et autres — qu’il estime nécessaire conformément au taux de rémunération approuvé par le Conseil du Trésor.
+- **(2)** Le ministre fait déposer une copie d’un rapport de l’examen visé au paragraphe (1) devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 51; 2012, ch. 7, art. 38.
 
-**Rapport**
-
-- **(3)** Dans l’année suivant la fin de la période visée au paragraphe (1), le comité présente au ministre le rapport de ses conclusions, évaluations et recommandations. Celui-ci fait déposer une copie du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
 
 
 
