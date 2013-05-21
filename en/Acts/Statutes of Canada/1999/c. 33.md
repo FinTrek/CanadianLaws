@@ -8739,6 +8739,10 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
+**34** Endosulfan (CAS 115-29-7)
+
+
+
 **PART 3** 
 ### Restricted Substances
 
@@ -8818,7 +8822,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 **19** Terbufos (CAS 13071-79-9)
 
 
-> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164.
+> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164; SOR/2013-99.
 
 
 
