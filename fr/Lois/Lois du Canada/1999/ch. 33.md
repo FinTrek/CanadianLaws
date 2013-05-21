@@ -8455,6 +8455,10 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 
 
 
+**34** Endosulfan (CAS 115-29-7)
+
+
+
 **PARTIE 3** 
 ### Substances à utilisation restreinte
 
@@ -8534,7 +8538,7 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 **19** Terbufos (CAS 13071-79-9)
 
 
-> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164.
+> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99.
 
 
 
