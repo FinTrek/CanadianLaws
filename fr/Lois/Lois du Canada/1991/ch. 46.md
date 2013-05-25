@@ -24601,7 +24601,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
 
 
 
@@ -24712,7 +24712,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
 
 
 
@@ -24893,6 +24893,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 147, page 208.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
 
 
