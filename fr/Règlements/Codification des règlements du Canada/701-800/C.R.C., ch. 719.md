@@ -147,37 +147,8 @@ où :
 <td>20,00</td>
 </tr>
 <tr>
-<td>4</td>
-<td>Délivrance — sauf à des fins officielles — d’un passeport de 48 pages à une personne âgée d’au moins seize ans :</td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** sur demande faite au Canada
-
-</td>
-<td>65,00</td>
-</tr>
-<tr>
-<td>**b)** sur demande faite aux États-Unis
-
-</td>
-<td>75,00</td>
-</tr>
-<tr>
-<td>**c)** sur demande faite à l’extérieur du Canada et des États-Unis
-
-</td>
-<td>80,00</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Délivrance — sauf à des fins officielles — d’un passeport de 48 pages à une personne âgée d’au moins trois ans mais de moins de seize ans</td>
-<td>37,00</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Délivrance — sauf à des fins officielles — d’un passeport de 48 pages à une personne âgée de moins de trois ans</td>
-<td>22,00</td>
+<td>4. à 6.</td>
+<td>[Abrogés, DORS/2012-253, art. 16]</td>
 </tr>
 <tr>
 <td>7</td>
@@ -264,6 +235,6 @@ où :
 </tr>
 </table>
 
-> DORS/80-368, art. 1; DORS/82-909, art. 1; DORS/88-53, art. 1; DORS/92-49, art. 1; DORS/2001-535, art. 3; DORS/2007-68, art. 2(F).
+> DORS/80-368, art. 1; DORS/82-909, art. 1; DORS/88-53, art. 1; DORS/92-49, art. 1; DORS/2001-535, art. 3; DORS/2007-68, art. 2(F); DORS/2012-253, art. 16.
 
 
