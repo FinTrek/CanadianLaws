@@ -147,37 +147,8 @@ where
 <td>20.00</td>
 </tr>
 <tr>
-<td>4</td>
-<td>Issuance of a 48-page passport to a person of at least 16 years of age, other than a passport issued for official purposes, as follows:</td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** where the application is made in Canada
-
-</td>
-<td>65.00</td>
-</tr>
-<tr>
-<td>**(b)** where the application is made in the United States
-
-</td>
-<td>75.00</td>
-</tr>
-<tr>
-<td>**(c)** where the application is made outside Canada and the United States
-
-</td>
-<td>80.00</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Issuance of a 48-page passport to a person of at least 3 years of age but less than 16 years of age, other than a passport issued for official purposes</td>
-<td>37.00</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Issuance of a 48-page passport to a person of less than 3 years of age, other than a passport issued for official purposes</td>
-<td>22.00</td>
+<td>4. to 6.</td>
+<td>[Repealed, SOR/2012-253, s. 16]</td>
 </tr>
 <tr>
 <td>7</td>
@@ -264,6 +235,6 @@ where
 </tr>
 </table>
 
-> SOR/80-368, s. 1; SOR/82-909, s. 1; SOR/88-53, s. 1; SOR/92-49, s. 1; SOR/2001-535, s. 3; SOR/2007-68, s. 2(F).
+> SOR/80-368, s. 1; SOR/82-909, s. 1; SOR/88-53, s. 1; SOR/92-49, s. 1; SOR/2001-535, s. 3; SOR/2007-68, s. 2(F); SOR/2012-253, s. 16.
 
 
