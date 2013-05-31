@@ -26728,8 +26728,8 @@ in which the mercury or the salt or derivative thereof is present as a preservat
 
 **C.01.040** No manufacturer or importer shall sell a drug for human use that contains as an ingredient
 - **(a)** chloroform; or
-- **(b)** arsenic or any of its salts or derivatives.
-> SOR/89-229, s. 4.
+- **(b)** arsenic or any of its salts or derivatives, other than arsenic trioxide.
+> SOR/89-229, s. 4; SOR/2013-113, s. 1.
 
 
 
@@ -36496,6 +36496,8 @@ Aprotinin<br />- <i>Aprotinine</i>
 
 Argatroban and its salts and derivatives<br />- <i>Argatroban, ses sels et dérivés</i>
 
+Arsenic trioxide<br />- <i>Trioxyde d’arsenic</i>
+
 Asparaginase, when sold for administration by injection<br />- <i>Asparaginase, si elle est vendue pour administration par injection</i>
 
 Astemizole and its salts<br />- <i>Astémizole et ses sels</i>
@@ -36808,7 +36810,7 @@ Colfosceril and its derivatives<br />- <i>Colfoscéril et ses dérivés</i>
 
 Colistin and its salt and derivatives<br />- <i>Colistine, ses sels et dérivés</i>
 
-Cromoglicic acid and its salts (except sodium cromoglicate in solutions for ophthalmic or nasal use in concentrations of 2% or less)<br />- <i>Cromoglicique (acide) et ses sels (sauf le cromoglicate de sodium dans les solutions pour usage ophtalmique ou nasal en concentration de 2 % ou moins)</i>
+Cromoglicic acid and its salts (except sodium cromoglicate in solutions for ophthalmic or nasal use in concentrations of 2% or less)<br />- <i>Cromoglicique (acide) et ses sels (sauf le cromoglicate de sodium dans les solutions pour usage ophtalmique ou nasal en concentration de 2 % ou moins)</i>
 
 Cyclobenzaprine and its salts<br />- <i>Cyclobenzaprine et ses sels</i>
 
@@ -37490,7 +37492,7 @@ Milbemycin and its derivatives<br />- <i>Milbémycine et ses dérivés</i>
 
 Milrinone and its salts<br />- <i>Milrinone et ses sels</i>
 
-Minoxidil (except in solutions for topical use in concentrations of 2% or less)<br />- <i>Minoxidil (sauf dans les solutions pour usage topique où sa concentration est de 2 % ou moins)</i>
+Minoxidil (except in solutions for topical use in concentrations of 2% or less)<br />- <i>Minoxidil (sauf dans les solutions pour usage topique où sa concentration est de 2 % ou moins)</i>
 
 Mirtazapine and its salts<br />- <i>Mirtazapine et ses sels</i>
 
@@ -38361,11 +38363,11 @@ Vinorelbine and its salts<br />- <i>Vinorelbine et ses sels</i>
 
 Viomycin and its salts and derivatives<br />- <i>Viomycine, ses sels et dérivés</i>
 
-Vitamin A in oral dosage form containing more than 10,000 International Units of Vitamin A per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 10,000 International Units ofVitamin A<br />- <i>Vitamine A présentée en unités posologiques orales contenant chacune plus de 10 000 unités internationales de vitamine A ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 10 000 unités internationales de vitamine A</i>
+Vitamin A in oral dosage form containing more than 10,000 International Units of Vitamin A per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 10,000 International Units ofVitamin A<br />- <i>Vitamine A présentée en unités posologiques orales contenant chacune plus de 10 000 unités internationales de vitamine A ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 10 000 unités internationales de vitamine A</i>
 
 Vitamin B12 with Intrinsic Factor Concentrate<br />- <i>Vitamine B12 avec concentré de facteur intrinsèque</i>
 
-Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units ofVitamin D<br />- <i>Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 1 000 unités internationales de vitamine D</i>
+Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units ofVitamin D<br />- <i>Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 1 000 unités internationales de vitamine D</i>
 
 Voriconazole<br />- <i>Voriconazole</i>
 
@@ -38419,11 +38421,11 @@ Adrenocortical hormones and their salts and derivatives, except
 
 *Hormones corticosurrénales, leurs sels et dérivés sauf les suivants :*
 
-**(a)** *l’hydrocortisone et l’acétate d’hydrocortisone vendus en tant qu’ingrédient médicinal unique dont la concentration permet un apport en hydrocortisone de 0,5 % dans les préparations pour usage topique sur la peau;*
+**(a)** *l’hydrocortisone et l’acétate d’hydrocortisone vendus en tant qu’ingrédient médicinal unique dont la concentration permet un apport en hydrocortisone de 0,5 % dans les préparations pour usage topique sur la peau;*
 
 
 
-**(b)** *le butyrate de clobétasone vendu sous forme de crème contenant 0,05 % de butyrate de clobétasone pour usage topique sur la peau*
+**(b)** *le butyrate de clobétasone vendu sous forme de crème contenant 0,05 % de butyrate de clobétasone pour usage topique sur la peau*
 
 
 
@@ -38517,7 +38519,7 @@ Ronidazole and its salts and derivatives<br />- <i>Ronidazole, ses sels et déri
 
 
 
-Sex hormones, except the following:<br />- <i>Hormones sexuelles, sauf :</i>
+Sex hormones, except the following:<br />- <i>Hormones sexuelles, sauf :</i>
 
 
 
@@ -38679,7 +38681,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1; SOR/2011-273, ss. 1, 2; SOR/2011-274, ss. 1 to 3; SOR/2011-275, ss. 1 to 3; SOR/2012-27, s. 1.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1; SOR/2011-273, ss. 1, 2; SOR/2011-274, ss. 1 to 3; SOR/2011-275, ss. 1 to 3; SOR/2012-27, s. 1; SOR/2013-113, s. 2.
 
 
 
