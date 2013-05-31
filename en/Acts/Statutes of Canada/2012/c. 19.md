@@ -2182,13 +2182,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind86FB_hq_12875'>[*]</a></sup>**(2)** Paragraph 21.52(1)(b) of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), as enacted by section 356, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind86FB_hq_12875'><sup>*</sup></a>: [Note: Paragraph 21.52(1)(b) of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), as enacted by section 356, not in force.]<br />
+<a name='fn_Ind86FB_hq_12875'><sup>*</sup></a>: [Note: Paragraph 21.52(1)(b) of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), as enacted by section 356, in force May 31, 2013, *see* SI/2013-61.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_Ind86FB_hq_12874'>[*]</a></sup>**(3)** Sections 361 to 364 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind86FB_hq_12874'><sup>*</sup></a>: [Note: Sections 361 to 364 not in force.]<br />
+<a name='fn_Ind86FB_hq_12874'><sup>*</sup></a>: [Note: Sections 361 to 364 in force July 1, 2013, *see* SI/2013-61.]<br />
 
 
 
