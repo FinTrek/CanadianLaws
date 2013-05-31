@@ -26693,8 +26693,8 @@ et
 
 **C.01.040** Il est interdit à tout fabricant ou importateur de vendre une drogue pour usage humain qui contient l’un des ingrédients suivants :
 - **a)** du chloroforme;
-- **b)** de l’arsenic ou l’un de ses sels ou dérivés.
-> DORS/89-229, art. 4.
+- **b)** de l’arsenic ou l’un de ses sels ou dérivés, sauf le trioxyde d’arsenic.
+> DORS/89-229, art. 4; DORS/2013-113, art. 1.
 
 
 
@@ -36288,7 +36288,6 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 
-
 Abacavir et ses sels<br />- <i>Abacavir and its salts</i>
 
 Abatacept <br />- <i>Abatacept</i>
@@ -36320,7 +36319,6 @@ Acide ibandronique et ses sels<br />- <i>Ibandronic acid and its salts</i>
 Acide lactique, s’il est recommandé pour usage parentéral comme agent sclérosant<br />- <i>Lactic acid, when recommended for parenteral use as a tissue sclerosing agent</i>
 
 
-
 Acide nicotinique vendu sous l’une des forme suivantes :
 
 **a)** en forme posologique à libération modifiée fournissant, par unité posologique ou par dose quotidienne, 500 mg ou plus d’acide nicotinique administré par voie orale;
@@ -36332,7 +36330,6 @@ Acide nicotinique vendu sous l’une des forme suivantes :
 
 
 
-
 *Nicotinic acid when sold in*
 
 *(a)**a modified-release oral dosage form that provides 500 mg or more per dosage unit or per daily dose; or*
@@ -36340,7 +36337,6 @@ Acide nicotinique vendu sous l’une des forme suivantes :
 
 
 *(b)**an immediate-release oral dosage form that provides more than 500 mg per dosage unit or per daily dose*
-
 
 
 
@@ -37536,7 +37532,6 @@ Nialamide et ses sels<br />- <i>Nialamide and its salts</i>
 Nicardipine et ses sels<br />- <i>Nicardipine and its salts</i>
 
 
-
 Nicotine et ses sels, destinés à l’usage humain, sauf :
 
 **a)** dans les substances naturelles;
@@ -37560,7 +37555,6 @@ Nicotine et ses sels, destinés à l’usage humain, sauf :
 
 
 
-
 *Nicotine and its salts, for human use, except*
 
 **(a)** *in natural substances;*
@@ -37580,7 +37574,6 @@ Nicotine et ses sels, destinés à l’usage humain, sauf :
 
 
 **(e)** *in the form of a lozenge containing 4 mg or less of nicotine per dosage unit.*
-
 
 
 
@@ -37784,7 +37777,6 @@ Piroxicam et ses sels<br />- <i>Piroxicam and its salts</i>
 Pizotyline et ses sels<br />- <i>Pizotyline and its salts</i>
 
 
-
 Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recommandés pour usage topique :
 
 **a)** podophyllotoxine
@@ -37796,7 +37788,6 @@ Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recomma
 
 
 
-
 *Podophyllum and the following extracts and active principles, when sold or recommended for topical use:*
 
 *(a)**podophyllotoxin*
@@ -37804,7 +37795,6 @@ Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recomma
 
 
 *(b)**podophyllum resin*
-
 
 
 
@@ -38219,6 +38209,8 @@ Trimétrexate et ses sels<br />- <i>Trimetrexate and its salts</i>
 
 Trimipramine et ses sels<br />- <i>Trimipramine and its salts</i>
 
+Trioxyde d’arsenic<br />- <i>Arsenic trioxide</i>
+
 Trioxysalène<br />- <i>Trioxsalen</i>
 
 Troglitazone<br />- <i>Troglitazone</i>
@@ -38228,7 +38220,6 @@ Tropicamide et ses sels dans les préparations pour usage ophtalmique ou parent�
 Trospium (chlorure de)<br />- <i>Trospium chloride</i>
 
 Trovafloxacine et ses sels et dérivés<br />- <i>Trovafloxacin and its salts and derivatives</i>
-
 
 
 L-Tryptophane, s’il est vendu, selon le cas :
@@ -38242,7 +38233,6 @@ L-Tryptophane, s’il est vendu, selon le cas :
 
 
 
-
 *L-Tryptophan, when sold*
 
 **(a)** *for human use in oral dosage form at a concentration of more than 220 mg per dosage unit or per daily dose, as a single ingredient or in combination with other ingredients; or*
@@ -38250,7 +38240,6 @@ L-Tryptophane, s’il est vendu, selon le cas :
 
 
 **(b)** *for human or veterinary use as a single ingredient intended for any route of administration other than oral.*
-
 
 
 
@@ -38357,7 +38346,6 @@ Zuclopenthixol, ses sels et dérivés<br />- <i>Zuclopenthixol and its salts and
 
 
 
-
 Acépromazine et ses sels<br />- <i>Acepromazine and its salts</i>
 
 Acétanilide<br />- <i>Acetanilide</i>
@@ -38409,7 +38397,6 @@ Furosémide<br />- <i>Furosemide</i>
 Griséofulvine, ses sels et dérivés<br />- <i>Griseofulvin and its salts and derivatives</i>
 
 
-
 Hormones corticosurrénales, leurs sels et dérivés sauf les suivants :
 
 **a)** l’hydrocortisone et l’acétate d’hydrocortisone vendus en tant qu’ingrédient médicinal unique dont la concentration permet un apport en hydrocortisone de 0,5 % dans les préparations pour usage topique sur la peau;
@@ -38421,7 +38408,6 @@ Hormones corticosurrénales, leurs sels et dérivés sauf les suivants :
 
 
 
-
 *Adrenocortical hormones and their salts and derivatives, except*
 
 **(a)** *hydrocortisone or hydrocortisone acetate, when sold as a single medicinal ingredient in a concentration that provides 0.5% hydrocortisone in preparations for topical use on the skin; and*
@@ -38429,7 +38415,6 @@ Hormones corticosurrénales, leurs sels et dérivés sauf les suivants :
 
 
 **(b)** *clobetasone butyrate, when sold in a concentration of 0.05% clobetasone butyrate in cream preparations for topical use on the skin*
-
 
 
 
@@ -38541,7 +38526,6 @@ Zéranol<br />- <i>Zeranol</i>
 
 
 
-
 Kanamycine, ses sels et dérivés<br />- <i>Kanamycin and its salts and derivatives</i>
 
 Lévamisole et ses sels<br />- <i>Levamisole and its salts</i>
@@ -38613,31 +38597,25 @@ Vitamine A<br />- <i>Vitamin A</i>
 Vitamine D<br />- <i>Vitamin D</i>
 
 
-
 Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues :
-
 
 
 **a)** soit pour un usage externe destiné aux humains;
 
 
-
 **b)** soit sous une forme posologique orale destinée aux humains si la dose quotidienne maximale recommandée est de 0,120 mg ou moins
-
 
 
 *Vitamin K, except Vitamin K1 and Vitamin K2 sold*
 
 
-
 **a)** *for external use in humans; or*
-
 
 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1; DORS/2010-114, art. 1; DORS/2011-58, art. 1; DORS/2011-93, art. 1; DORS/2011-273, art. 1 et 2; DORS/2011-274, art. 1 à 3; DORS/2011-275, art. 1 à 3; DORS/2012-27, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1; DORS/2010-114, art. 1; DORS/2011-58, art. 1; DORS/2011-93, art. 1; DORS/2011-273, art. 1 et 2; DORS/2011-274, art. 1 à 3; DORS/2011-275, art. 1 à 3; DORS/2012-27, art. 1; DORS/2013-113, art. 2.
 
 
 
