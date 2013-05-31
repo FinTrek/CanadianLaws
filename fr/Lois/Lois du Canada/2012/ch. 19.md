@@ -2182,13 +2182,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind5EBA_hq_12899'>[*]</a></sup>**(2)** L’alinéa 21.52(1)b) de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md), édicté par l’article 356, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5EBA_hq_12899'><sup>*</sup></a>: [Note : Alinéa 21.52(1)b) de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md), édicté par article 356, non en vigueur.]<br />
+<a name='fn_Ind5EBA_hq_12899'><sup>*</sup></a>: [Note : Alinéa 21.52(1)b) de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md), édicté par article 356, en vigueur le 31 mai 2013, *voir* TR/2013-61.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind5EBA_hq_12900'>[*]</a></sup>**(3)** Les articles 361 à 364 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5EBA_hq_12900'><sup>*</sup></a>: [Note : Articles 361 à 364 non en vigueur.]<br />
+<a name='fn_Ind5EBA_hq_12900'><sup>*</sup></a>: [Note : Articles 361 à 364 en vigueur le 1<sup>er</sup> juillet 2013, *voir* TR/2013-61.]<br />
 
 
 
