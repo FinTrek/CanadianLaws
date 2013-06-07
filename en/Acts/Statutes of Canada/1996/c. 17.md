@@ -46,9 +46,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** In this Act,
 
-***Agreement*** means the Agreement on Internal Trade signed in 1994 and published in Part I of the Canada Gazette;
+***Agreement*** means the Agreement on Internal Trade signed in 1994, as amended from time to time;
 
 ***Minister***, in respect of any provision of this Act, means the member of the Queen’s Privy Council for Canada designated as the Minister for the purposes of that provision under section 8.
+> 1996, c. 17, s. 2; 2012, c. 31, s. 299.
+
 
 
 
@@ -125,7 +127,44 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Orders
+### Orders Made Under Chapter 17 of Agreement
+
+
+
+**Orders of Federal Court**
+
+**8.1** 
+
+- **(1)** An order to pay a monetary penalty or tariff costs made under Chapter 17 of the Agreement may, for the purpose of its enforcement only, be made an order of the Federal Court.
+
+**Procedure**
+
+- **(2)** To make the order an order of the Federal Court, the party to the Agreement or the person in favour of whom the order is made must file a certified copy of the order in the Registry of the Federal Court and, on filing, the order becomes an order of that Court.
+> 2012, c. 31, s. 300.
+
+
+
+
+
+**Enforcement**
+
+**8.2** An order that is made an order of the Federal Court is enforceable in the same manner as any other order of that Court.
+> 2012, c. 31, s. 300.
+
+
+
+
+
+**Orders final and binding**
+
+**8.3** An order that is made an order of the Federal Court is final and binding and is not subject to appeal to any court.
+> 2012, c. 31, s. 300.
+
+
+
+
+
+### Orders of Governor in Council
 
 
 
@@ -133,19 +172,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **9** 
 
-- **(1)** For the purpose of suspending benefits or imposing retaliatory measures of equivalent effect against a province pursuant to Article 1710 of the Agreement, the Governor in Council may, by order, do any one or more of the following:
+- **(1)** For the purpose of suspending benefits of equivalent effect or imposing retaliatory measures of equivalent effect in respect of a province under Article 1709 of the Agreement, the Governor in Council may, by order, do any one or more of the following:
 	- **(a)** suspend rights or privileges granted by the Government of Canada to the province under the Agreement or any federal law; and
 	- **(b)** modify or suspend the application of any federal law with respect to the province.
 
-**Definition of “federal law”**
+**Definition of federal law**
 
 - **(2)** In this section, ***federal law*** means the whole or any portion of any Act of Parliament or any regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
 
 **Order subject to Chapter 17**
 
 - **(3)** For greater certainty, the making of an order under subsection (1) shall be in accordance with and subject to Chapter 17 of the Agreement, in particular,
-	- **(a)** the requirements for standing set out in paragraph 1704(8) of the Agreement; and
-	- **(b)** the conditions and limitations set out in paragraphs 1710(3), (4) and (10) of the Agreement.
+	- **(a)** the requirements for standing set out in Article 1703(8) of the Agreement; and
+	- **(b)** the conditions and limitations set out in Articles 1709(3), (4) and (10) of the Agreement.
+> 1996, c. 17, s. 9; 2012, c. 31, s. 302.
+
 
 
 
@@ -172,9 +213,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Roster of panellists**
+**Rosters**
 
-**12** The Governor in Council may appoint any person to be on the roster of panellists required by Article 1705 of the Agreement.
+**12** The Governor in Council may appoint any person who meets the requirements set out in Annex 1704(2) of the Agreement to be on the rosters referred to in Article 1704(2) of the Agreement.
+> 1996, c. 17, s. 12; 2012, c. 31, s. 303.
+
 
 
 
@@ -203,10 +246,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Screener**
+
+**15** The Governor in Council may, by order, appoint any person to be a screener for the purposes of Part B of Chapter 17 of the Agreement if the person meets the requirements set out in that Part.
+> 1996, c. 17, s. 15; 2012, c. 31, s. 304.
+
+
+
+
+
 ## Related and Consequential Amendments
 
 
-**15. to 19** [Amendments]
+**16 to 19** [Amendments]
 
 
 
