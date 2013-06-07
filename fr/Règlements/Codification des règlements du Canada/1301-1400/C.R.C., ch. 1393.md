@@ -104,14 +104,16 @@ Autorités habilitantes :
 
 **5.1** 
 
-- **(1)** Malgré le paragraphe 5(1) et l’article 36 de la Loi, la personne qui est âgée de 71 ans ou plus au 30 octobre 1998 n’est pas astreinte à contribuer au compte de pension de retraite en application de ces dispositions à l’égard de la période de service dans la Gendarmerie postérieure au 30 octobre 1998 ou de toute partie de celle-ci.
+- **(1)** Malgré l’article 5 de la Loi, la personne qui atteint l’âge de soixante et onze ans après le 30 octobre 1998 n’est pas tenue de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de toute période de service dans la Gendarmerie postérieure au 31 décembre de l’année où elle atteint cet âge.
 
-- **(2)** Malgré le paragraphe 5(1) et l’article 36 de la Loi, la personne qui atteint l’âge de 71 ans après le 30 octobre 1998 n’est pas astreinte à contribuer au compte de pension de retraite en application de ces dispositions à l’égard de la période de service dans la Gendarmerie postérieure au 31 décembre de l’année où elle atteint cet âge, ou de toute partie de celle-ci.
+- **(2)** Malgré l’article 6 de la Loi, elle ne peut compter comme service ouvrant droit à pension toute période de service postérieure à la date où elle cesse d’être tenue de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada, ni ne peut, après cette date, choisir de compter toute autre période de service comme service ouvrant droit à pension.
 
-- **(3)** Malgré le paragraphe 8(1) de la Loi, la personne visée aux paragraphes (1) ou (2) ne peut compter comme service ouvrant droit à pension la période de service postérieure à la date où elle cesse, ou toute partie de celle-ci, en application des paragraphes (1) ou (2), d’être astreinte à contribuer au compte de pension de retraite ni ne peut, après cette date, choisir de compter toute autre période de service comme service ouvrant droit à pension.
+- **(3)** À l’égard de cette personne, l’alinéa 39(3)a) de la Loi est adapté de la façon suivante :
 
-- **(4)** Malgré le paragraphe 39(3) de la Loi, l’année ou le mois de la retraite d’une personne visée aux paragraphes (1) ou (2) à ou pour laquelle, ou relativement au service de laquelle, une pension est payable est, pour l’application de l’article 39 de la Loi, l’année ou le mois, selon le cas, au cours desquels cette personne cesse, en application des paragraphes (1) ou (2), d’être astreinte à contribuer au compte de pension de retraite.
-> DORS/98-531, art. 1.
+- **a)** le mois de la retraite du prestataire, à l’exception de la personne visée à l’alinéa b), est le mois au cours duquel il a cessé d’être tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada, et l’année de sa retraite est l’année dont fait partie ce mois;
+
+
+> DORS/98-531, art. 1; DORS/2013-125, art. 11.
 
 
 
@@ -126,10 +128,10 @@ Autorités habilitantes :
 
 **5.2** 
 
-- **(1)** Pour l’application du paragraphe 5(10) de la Loi, le nombre d’heures par semaine est de douze.
+- **(1)** Pour l’application du paragraphe 5(6) de la Loi, le nombre d’heures par semaine est de douze.
 
 - **(2)** Pour l’application des divisions 6b)(ii)(M) et (N) de la Loi, le nombre d’heures par semaine est celui qui est prévu à la définition de ***employé à temps partiel*** au paragraphe 3(2) du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md).
-> DORS/2006-134, art. 2.
+> DORS/2006-134, art. 2; DORS/2013-125, art. 12.
 
 
 
@@ -188,17 +190,17 @@ Autorités habilitantes :
 
 
 
-- **(2)** À l’égard du même contributeur, le passage de l’alinéa 7(1)e) de la Loi suivant le sous-alinéa (v) est adapté de la façon suivante :
+- **(2)** À l’égard du même contributeur, le passage de l’alinéa 7(1)e) de la Loi suivant le sous-alinéa (vi) est adapté de la façon suivante :
 
 en ce qui concerne soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada, accrue des intérêts dans chaque cas;
 
 
-> DORS/2006-134, art. 2.
+> DORS/2006-134, art. 2; DORS/2013-125, art. 13.
 
 
 
 
-**5.7** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(N) de la Loi est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (v) de la Loi sur la solde établie selon la formule suivante :
+**5.7** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(N) de la Loi est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (vi) de la Loi sur la solde établie selon la formule suivante :
 ```
 A × B
 ```
@@ -217,13 +219,15 @@ C/D
 où :
 - **C** représente la moyenne du nombre d’heures hebdomadaires, établie conformément à l’article 6.2 du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md), pour lequel il était engagé,
 - **D** le nombre d’heures de travail par semaine des employés à plein temps.
-> DORS/2006-134, art. 2.
+> DORS/2006-134, art. 2; DORS/2013-125, art. 53.
 
 
 
 
 
 #### Choix relatif à une période de congé non payé
+> [DORS/2013-125, art. 52(A)]
+
 
 
 **5.8** Malgré l’article 10.8, la somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(K) de la Loi et qui était membre à temps partiel soit durant la période de service ou une fraction de celle-ci, soit le jour où il a effectué le choix correspond à celle qu’il aurait été tenu de verser aux termes de l’alinéa 10(1)b) et est calculée sur la solde établie selon la formule suivante :
@@ -283,7 +287,7 @@ où :
 #### Service dans la fonction publique — disposition transitoire
 
 
-**5.91** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (v) de la Loi sur la solde établie selon la formule suivante :
+**5.91** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (vi) de la Loi sur la solde établie selon la formule suivante :
 ```
 A × B
 ```
@@ -302,7 +306,7 @@ C/D
 où :
 - **C** représente la moyenne du nombre d’heures hebdomadaires, établie conformément à l’article 6.2 du Règlement sur la pension de la fonction publique, pour lequel il était engagé,
 - **D** le nombre d’heures de travail par semaine des employés à plein temps.
-> DORS/2006-134, art. 2.
+> DORS/2006-134, art. 2; DORS/2013-125, art. 53.
 
 
 
@@ -346,7 +350,7 @@ où :
 
 **7** 
 
-- **(1)** Aux fins de l’alinéa 5(2)b) de la Loi, la catégorie de prestations de pension de retraite ou de pension y prescrite, est celle qui
+- **(1)** Pour l’application du paragraphe 5(4) de la Loi, la prestation de pension de retraite ou de pension est celle qui :
 	- **a)** est accordée en vertu de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md); ou
 	- **b)** est payable sur le Fonds du revenu consolidé ou à même tout compte ou toute caisse pris sur le Fonds du revenu consolidé, autre que le Compte de pension de retraite ou le Compte des rentes sur l’État et
 		- **(i)** dont le montant se rapporte à la période de service qui peut être comptée par la personne à qui les prestations de pension de retraite ou de pension sont payables, et
@@ -356,7 +360,7 @@ où :
 	- **a)** est prévue en tout ou en partie selon les contributions faites autrement que par le contributeur;
 	- **b)** dont le montant se rapporte à la période de service qui peut être comptée par la personne à qui les prestations de pension de retraite ou de pension sont payables; et
 	- **c)** est payable par versements durant la vie du bénéficiaire et subséquemment si le plan de pension de retraite ou de pension le prévoit.
-> DORS/93-219, art. 2.
+> DORS/93-219, art. 2; DORS/2013-125, art. 14.
 
 
 
@@ -385,7 +389,7 @@ où :
 ## Taux de solde annuel maximal
 
 
-**8.1** Pour l’application du paragraphe 5(9) de la Loi, le taux de solde annuel correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
+**8.1** Pour l’application du paragraphe 5(5) de la Loi, le taux de solde annuel correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
 ```
 (A – (B x C)) ÷ (0.02) + C
 ```
@@ -397,7 +401,7 @@ où :
 - **a)** à l’égard de la solde que la personne a reçue pour toute année postérieure à 1994 et antérieure à 2008, 0,013,
 - **b)** à l’égard de la solde qu’elle a reçue pour toute année postérieure à 2007, 0,01375;
 - **C** le montant du maximum des gains annuels ouvrant droit à pension pour l’année en cause, établi conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> DORS/95-119, art. 1; DORS/2006-134, art. 3; DORS/2007-283, art. 1.
+> DORS/95-119, art. 1; DORS/2006-134, art. 3; DORS/2007-283, art. 1; DORS/2013-125, art. 15.
 
 
 
@@ -449,7 +453,7 @@ où :
 - **(2)** Avis lui est envoyé le plus tôt possible après le défaut.
 
 - **(3)** Toutefois, s’il est en congé non payé ou s’il a cessé d’être membre de la Gendarmerie et a droit à une allocation annuelle ou à une annuité différée dont le versement n’a pas encore débuté, l’avis lui est envoyé le plus tôt possible après la date de son retour au travail ou du début du versement de l’allocation ou de l’annuité.
-> DORS/2012-124, art. 4.
+> DORS/2012-124, art. 4; DORS/2013-125, art. 52(A).
 
 
 
@@ -641,12 +645,12 @@ où :
 
 - **(5)** Malgré le paragraphe (2), dans le cas où les déductions selon ce paragraphe mettraient la personne dans une situation financière difficile, celle-ci peut en faire réduire le montant de façon que le remboursement s’effectue sur une période ne dépassant pas la moindre des périodes suivantes : trois fois la période prévue selon ce paragraphe ou quinze ans.
 
-- **(6)** Si la personne à l’égard de laquelle des déductions sont effectuées aux termes du présent article décède avant d’avoir acquitté la totalité du montant dû, le reliquat est prélevé sur toute prestation payable en vertu de la Loi à son égard.
+- **(6)** En cas de décès de la personne, le reliquat de la somme due est déduit sous forme de somme forfaitaire.
 
 - **(7)** Pour l’application du présent article, la sommation faite par le ministre ou en son nom est censée avoir été faite le jour où une lettre exigeant le paiement, signée par le ministre ou en son nom, et adressée au contributeur ou au prestataire, selon le cas, a été mise à la poste.
 
 - **(8)** Le présent article n’a pas pour effet d’empêcher le remboursement d’un montant avant échéance.
-> DORS/95-571, art. 2.
+> DORS/95-571, art. 2; DORS/2013-125, art. 16.
 
 
 
@@ -658,10 +662,10 @@ où :
 **10** 
 
 - **(1)** Sous réserve des paragraphes (2) et (3), la contribution que le contributeur en congé non payé verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond :
-	- **a)** pour les trois premiers mois de la période de congé, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé;
+	- **a)** pour les trois premiers mois de la période de congé, à la somme visée au paragraphe (4);
 	- **b)** sous réserve du paragraphe 6.1(2) de la Loi, pour le reliquat de la période de congé, à deux fois et demie cette somme.
 
-- **(2)** La contribution que le contributeur en congé non payé dans l’un des cas ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé :
+- **(2)** La contribution que le contributeur en congé non payé dans l’un des cas ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme visée au paragraphe (4) :
 	- **a)** congé non payé d’une durée d’au plus six jours consécutifs pour laquelle il aurait été rémunéré s’il n’avait pas été en congé;
 	- **b)** congé non payé — dont le commissaire est convaincu des raisons — que le contributeur prend, selon le cas :
 		- **(i)** afin de recevoir un entraînement ou une formation dont la Gendarmerie profitera,
@@ -669,25 +673,30 @@ où :
 		- **(iii)** en raison de sa grossesse,
 		- **(iv)** pour des raisons d’ordre personnel, si le congé n’excède pas trois mois et a été approuvé par l’autorité compétente.
 
-- **(3)** La contribution que le contributeur en congé non payé pour l’une des raisons ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de toute partie de la période de congé comprise dans la période de cinquante-deux semaines suivant le jour de la naissance ou de l’adoption de l’enfant correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé :
+- **(3)** La contribution que le contributeur en congé non payé pour l’une des raisons ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de toute partie de la période de congé comprise dans la période de cinquante-deux semaines suivant le jour de la naissance ou de l’adoption de l’enfant correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme visée au paragraphe (4) :
 	- **a)** naissance de son enfant;
 	- **b)** responsabilités parentales à l’égard d’un enfant dont il a accepté la garde aux fins d’adoption;
 	- **c)** soin et garde de son enfant.
-> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3; DORS/2006-134, art. 4.
+
+- **(4)** Pour l’application des paragraphes (1) à (3) :
+	- **a)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 1999 mais antérieure au 1<sup>er</sup> janvier 2004, la somme est celle que le contributeur aurait été tenu de payer en application des paragraphes 5(1), (6) ou (7) de la Loi, dans sa version au 31 décembre 2003, s’il n’avait pas été en congé;
+	- **b)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 2003 mais antérieure au 1<sup>er</sup> janvier 2013, la somme est celle que le contributeur aurait été tenu de payer en application du paragraphe 5(2) ou de l’alinéa 5(7)b) de la Loi, dans sa version au 31 décembre 2012, s’il n’avait pas été en congé;
+	- **c)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 2012, la somme est celle que le contributeur aurait été tenu de payer en application des paragraphes 5(1) ou (2) de la Loi s’il n’avait pas été en congé.
+> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3; DORS/2006-134, art. 4; DORS/2013-125, art. 17, 51(A) et 52(A).
 
 
 
 
 **10.1** Pour l’application des parties I et III de la Loi, le contributeur qui est absent de la Gendarmerie, en congé non payé, est réputé avoir reçu pendant ce congé une solde égale à celle qu’il aurait été autorisé à recevoir s’il n’avait pas été en congé.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 52(A).
 
 
 
 
 **10.2** Sous réserve des articles 10.3 à 10.6, le contributeur est tenu de verser le montant payable aux termes de l’article 10 :
-- **a)** soit en un paiement forfaitaire dans les 30 jours suivant son retour au travail à un poste où il est tenu de contribuer au compte de pension de retraite selon les articles 5 ou 36 de la Loi et qu’il occupe sans être en congé non payé à l’égard d’un autre poste de la Gendarmerie;
+- **a)** soit en un paiement forfaitaire dans les trente jours suivant son retour au travail à un poste où il est tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada selon l’article 5 de la Loi et qu’il occupe sans être en congé non payé d’un autre poste de la Gendarmerie;
 - **b)** soit par des retenues sensiblement égales sur sa solde effectuées dès son retour au travail dans la situation visée à l’alinéa a) pendant une période égale au double de la période de congé à l’égard de laquelle il est tenu de contribuer aux termes de l’article 10.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 18.
 
 
 
@@ -695,7 +704,7 @@ où :
 **10.3** Dans le cas où le contributeur qui verse un montant par retenues en conformité avec l’alinéa 10.2b) à l’égard d’une période de congé s’absente de nouveau de la Gendarmerie, en congé non payé, avant d’avoir versé la totalité du montant :
 - **a)** les retenues sont différées jusqu’à ce qu’il retourne au travail dans la situation visée à l’alinéa 10.2a);
 - **b)** le montant qui représente la somme des retenues différées et du montant payable à l’égard de la nouvelle période de congé en application de l’article 10 est versé conformément à l’article 10.2, sauf que la période visée à l’alinéa 10.2b) est égale à la somme de la période sur laquelle ces retenues étaient échelonnées et du double de la nouvelle période de congé à l’égard de laquelle il est tenu de contribuer aux termes de l’article 10.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 52(A).
 
 
 
@@ -710,10 +719,10 @@ où :
 
 
 
-**10.5** Si le contributeur n’a pas versé la totalité du montant payable en application de l’article 10 au moment de son décès, le reliquat peut être recouvré, aux termes du paragraphe 8(7) de la Loi, sur toute allocation payable à son conjoint survivant ou à ses enfants en vertu de la Loi, au choix du prestataire :
+**10.5** Si le contributeur n’a pas versé la totalité du montant payable en application de l’article 10 au moment de son décès, le reliquat peut être recouvré, aux termes du paragraphe 8(7) de la Loi, sur toute allocation payable à son survivant ou à ses enfants en vertu de la Loi, au choix du prestataire :
 - **a)** soit par le prélèvement d’un montant forfaitaire sur l’allocation dès qu’elle devient payable;
 - **b)** soit par la retenue, sur les mensualités de l’allocation, d’un montant égal au moindre du montant de toute retenue payable par le contributeur avant son décès aux termes de l’alinéa 10.2b) ou de 30 pour cent du montant brut des mensualités.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 19.
 
 
 
@@ -725,16 +734,14 @@ où :
 	- **b)** si le versement est effectué selon le sous-alinéa 10.4a)(i) ou l’alinéa 10.5b), par la retenue, sur les mensualités de l’annuité, de l’allocation annuelle, de la prestation supplémentaire ou de l’allocation, d’un montant représentant au moins 15 pour cent du montant brut de celles-ci.
 
 - **(2)** Les articles 10.2 et 10.3 n’ont pas pour effet d’empêcher le remboursement avant échéance de tout ou partie du montant payable en application de l’article 10.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 20(A).
 
 
 
 
 **10.7** 
 
-- **(1)** Le contributeur peut effectuer le choix prévu au paragraphe 6.1(1) de la Loi :
-	- **a)** relativement à une période de congé non payé qui prend fin au plus tôt le 1<sup>er</sup> décembre 1995, durant la période qui commence à l’expiration des trois mois suivant la date du début de la période du congé et se termine à l’expiration des trois mois suivant la date de son retour au travail à un poste où il est tenu de contribuer au compte de pension de retraite selon les articles 7 ou 36 de la Loi et qu’il occupe sans être en congé non payé à l’égard d’un autre poste de la Gendarmerie;
-	- **b)** relativement à une période de congé non payé qui a pris fin avant le 1<sup>er</sup> décembre 1995 et à l’égard de laquelle il n’a pas, avant cette date, versé toutes les contributions requises aux termes de l’article 10, à tout moment avant que la totalité des contributions soient versées.
+- **(1)** Le choix prévu au paragraphe 6.1(1) de la Loi est fait durant la période qui commence à l’expiration des trois mois suivant la date du début de la période du congé et se termine à l’expiration des trois mois suivant la date du retour au travail du contributeur à un poste où il est tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada selon l’article 5 de la Loi et qu’il occupe sans être en congé non payé d’un autre poste de la Gendarmerie.
 
 - **(2)** Le contributeur peut révoquer le choix effectué en vertu du paragraphe 6.1(1) de la Loi s’il a reçu, d’un conseiller autorisé qui donne normalement des renseignements sur ces questions, des renseignements erronés ou trompeurs au sujet de ce qui suit :
 	- **a)** soit le montant qui aurait dû être versé à l’égard de la période visée par le choix;
@@ -745,32 +752,36 @@ où :
 - **(3)** La révocation effectuée en vertu du paragraphe (2) vaut pour toute la période de service visée par le choix.
 
 - **(4)** La révocation visée au paragraphe (2) doit être faite dans les trois mois suivant la date où le contributeur a reçu un avis écrit l’informant que des renseignements faux ou trompeurs lui ont été donnés.
-> DORS/95-571, art. 3; DORS/2012-124, art. 5.
+> DORS/95-571, art. 3; DORS/2012-124, art. 5; DORS/2013-125, art. 21.
 
 
 
 
 **10.8** Pour l’application de l’alinéa 7(1)i) de la Loi, le contributeur qui choisit, aux termes de la division 6b)(ii)(K) de la Loi, de payer pour une période de service à l’égard de laquelle il a effectué le choix visé au paragraphe 6.1(1) de la Loi est tenu de payer le montant qui représente la somme des montants suivants :
-- **a)** le montant qu’il aurait été tenu de verser relativement à ce service, selon l’article 10, s’il avait reçu, durant cette période, une solde égale à celle dont le versement était autorisé au moment de l’exercice du choix prévu à la division 6b)(ii)(K) de la Loi;
+- **a)** la somme qu’il aurait été tenu de verser relativement à ce service, selon l’article 10, s’il avait reçu, durant cette période, une solde égale à celle dont le versement était autorisé à la date de l’exercice du choix prévu à la division 6b)(ii)(K) de la Loi;
 - **b)** les intérêts au sens du paragraphe 7(2) de la Loi.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 22(F).
 
 
 
 
 **10.9** Pour l’application du paragraphe 6.1(4) de la Loi, la partie de la période de congé à compter comme service ouvrant droit à pension au titre de la division 6a)(ii)(A) de la Loi est la partie la plus éloignée à l’égard de laquelle les contributions versées avant l’exercice du choix auraient été suffisantes pour l’application de l’article 10 si elles avaient été appliquées à cette partie.
-> DORS/95-571, art. 3.
+> DORS/95-571, art. 3; DORS/2013-125, art. 51(A).
 
 
 
 
-**10.10** 
+**10.91** 
 
-- **(1)** Malgré la partie I de la Loi, le contributeur ne peut compter comme service ouvrant droit à pension une période de congé non payé, ou toute partie de celle-ci, qui débute après le 30 octobre 1998, si ce congé ne respecte pas les conditions d’une période admissible établies au paragraphe 8507(2) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992.
+- **(1)** Malgré la partie I de la Loi, le contributeur ne peut compter comme service ouvrant droit à pension une période de congé non payé, ou toute partie de celle-ci, qui débute après le 30 octobre 1998, si ce congé ne constitue pas une période admissible aux termes du paragraphe 8507(3) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
-- **(2)** Malgré les parties I et III de la Loi, le contributeur qui ne peut, en raison du paragraphe (1), compter comme service ouvrant droit à pension une période de congé non payé ou une partie de celle-ci n’est pas astreint à contribuer au compte de pension de retraite à l’égard de cette période ou partie de période.
-> DORS/98-531, art. 2.
+- **(2)** Le contributeur qui ne peut, en raison du paragraphe (1), compter comme service ouvrant droit à pension une période de congé non payé ou une partie de celle-ci n’est pas tenu, malgré l’article 5 de la Loi, de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de cette période ou partie de période.
+> DORS/2013-125, art. 23.
 
+
+
+
+**10.10** [Abrogé, DORS/2013-125, art. 23]
 
 
 
@@ -779,21 +790,21 @@ où :
 
 
 **11** Lorsqu’un contributeur a choisi de payer pour une partie quelconque d’une période de service décrite à la disposition 6b)(i)(B) de la Loi et que, plus tard, il choisit de payer pour une autre partie de cette période de service, la partie de la période pour laquelle il a choisi de payer en premier lieu sera réputée la plus éloignée en calculant le temps.
-> DORS/93-219, art. 2.
+> DORS/93-219, art. 2; DORS/2013-125, art. 50(A).
 
 
 
 
 **11.1** 
 
-- **(1)** Malgré la partie I de la Loi, le choix fait après le 30 octobre 1998 de compter comme service ouvrant droit à pension la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, est nul en ce qui concerne cette période ou partie de période, si le ministre du Revenu national refuse de délivrer, conformément à l’alinéa 147.1(10)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), dans sa version du 15 janvier 1992, une attestation portant que les conditions réglementaires sont remplies en ce qui concerne le service pendant cette période ou partie de période.
+- **(1)** Malgré la partie I de la Loi, le choix fait après le 30 octobre 1998 de compter comme service ouvrant droit à pension toute période de service se terminant après le 31 décembre 1989 est nul par rapport à la partie postérieure à cette date si le ministre du Revenu national refuse de produire l’attestation visée à l’alinéa 147.1(10)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
-- **(2)** Malgré le paragraphe 8(2) de la Loi, le choix fait après le 30 octobre 1998 pour la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, qui serait nul en vertu de ce paragraphe est nul seulement si l’auteur du choix a droit, le 60<sup>e</sup> jour après avoir été avisé par le ministre que le ministre du Revenu national a délivré l’attestation mentionnée au paragraphe (1), de compter la période de service visée par l’attestation aux fins de toute prestation de pension de retraite ou de pension d’un genre spécifié au paragraphe 7(2), sauf celle payable en vertu de la partie I de la Loi.
+- **(2)** Malgré l’alinéa 8(2)a) de la Loi, ce choix est nul par rapport à la partie postérieure au 31 décembre 1989 seulement si son auteur ne se conforme pas au sous-alinéa 8304(5.1)b)(iii) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
-- **(3)** Le paragraphe 24(3) de la Loi ne s’applique pas à la personne qui effectue, après le 15 janvier 1999, le choix visé au paragraphe 24(1) de la Loi à l’égard de la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, si le ministre du Revenu national refuse de délivrer l’attestation visée au paragraphe (1).
+- **(3)** [Abrogé, DORS/2013-125, art. 24]
 
 - **(4)** Malgré la division 6a)(ii)(C) de la Loi, le contributeur ne peut compter comme service ouvrant droit à pension toute période de service postérieure au 31 décembre 1989 visée dans un accord conclu par le ministre en vertu du paragraphe 24.1(2) de la Loi que si l’attestation visée au paragraphe (1) a été délivrée.
-> DORS/98-531, art. 3; DORS/2012-124, art. 6.
+> DORS/98-531, art. 3; DORS/2012-124, art. 6; DORS/2013-125, art. 24.
 
 
 
@@ -870,11 +881,7 @@ où :
 
 
 
-**12** 
-
-- **(1)** Une personne à qui s’applique le paragraphe 26(5) du chapitre 34 des Statuts du Canada de 1959, peut faire un choix, exercer toute option ou accomplir toute autre chose prévue au paragraphe 26(8) de cette Loi, si elle n’a pas fait ce choix ni exercé l’option, en tout temps au cours de l’année qui suit le dernier jour où cette personne, n’eût été le présent paragraphe, aurait pu faire ce choix ou exercer cette option, qu’elle soit ou non membre de la Gendarmerie au moment où elle fait ce choix ou exerce l’option.
-
-- **(2)** Tout choix fait ou toute option exercée dans le délai mentionné au présent article seront censés, pour les fins de la Loi, avoir été faits ou exercés dans le délai fixé par la Loi pour faire ce choix ou exercer cette option, que la personne ayant fait ce choix ou exercé cette option ait été ou non, au moment du choix ou de l’option, membre de la Gendarmerie.
+**12** [Abrogé, DORS/2013-125, art. 25]
 
 
 
@@ -895,7 +902,7 @@ où :
 		- **(ii)** si, lorsqu’il commence à toucher son annuité, le montant de la mensualité qu’il verse dépasse l’augmentation, calculée selon l’article 10 de la Loi, de la prestation mensuelle qui découle du choix,
 		- **(iii)** après que le contributeur a atteint l’âge de 60 ans, si le montant de la mensualité qu’il verse dépasse l’augmentation, calculée selon l’article 10 de la Loi, de la prestation mensuelle qui découlerait du choix s’il commençait à toucher son annuité;
 	- **c)** en ce qui concerne soit les paiements effectués pour toute période de service visée par le choix, soit ceux à effectuer, soit encore les deux, à son choix, s’il a mentionné cette période de service par inadvertance;
-	- **d)** s’il a reçu, d’un conseiller autorisé qui donne normalement des renseignements au sujet de ces questions, des renseignements erronés ou trompeurs au sujet de tout choix visé au sous-alinéa 6b)(ii) de la Loi, a omis d’effectuer le choix et l’a ensuite effectué après avoir reçu d’un tel conseiller des renseignements corrigés et pendant qu’il était membre de la Gendarmerie;
+	- **d)** s’il a reçu d’un conseiller autorisé qui donne normalement des renseignements au sujet de ces questions, des renseignements erronés ou trompeurs concernant tout choix visé au sous-alinéa 6b)(ii) de la Loi, a omis d’effectuer le choix et l’a ensuite effectué dans l’année après avoir reçu d’un tel conseiller des renseignements exacts et pendant qu’il était membre de la Gendarmerie.
 	- **e)** s’il a reçu, d’un conseiller autorisé qui donne normalement des renseignements au sujet de ces questions, des renseignements erronés ou trompeurs au sujet de tout choix visé aux divisions 6b)(ii)(L) à (P) de la Loi, a omis d’effectuer le choix pendant qu’il était membre de la Gendarmerie et l’a ensuite effectué après avoir reçu d’un tel conseiller des renseignements corrigés et avoir cessé d’être membre.
 
 - **(1.1)** Le contributeur qui annule totalement un choix dans la circonstance prévue à l’alinéa (1)c) peut choisir de payer pour la période de service pour laquelle il avait l’intention de payer lors du choix initial.
@@ -911,7 +918,7 @@ où :
 - **(4)** Toute somme versée par le contributeur qui annule un choix est appliquée au paiement de la somme visée au paragraphe (2) et le solde, au paiement de toute partie de la période de service demeurant à son crédit, la somme à payer étant calculée conformément aux dispositions de la Loi en vertu desquelles le choix avait été effectué; tout reliquat lui est remboursé.
 
 - **(5)** Lorsqu’un contributeur révoque une option en vertu du paragraphe (1) et qu’il doit faire d’autres paiements, il est tenu d’effectuer ces paiements en de tels versements et de telle manière que détermine le ministre, et lesdits paiements seront affectés, en premier lieu, au paiement du montant que le contributeur doit payer aux termes du paragraphe (2), si ce montant n’a pas déjà été acquitté, et le reste des paiements en question, le cas échéant, sera appliqué à l’achat de cette partie de la période de service (que détermine le ministre) mentionnée dans l’option qui n’a pas été révoquée, calculé conformément aux dispositions de la Loi sous le régime desquelles l’option avait été exercée.
-> DORS/2012-124, art. 9.
+> DORS/2012-124, art. 9; DORS/2013-125, art. 26 et 50(A).
 
 
 
@@ -1116,14 +1123,18 @@ où :
 
 
 
-## Paiements à la veuve et aux enfants
+## Paiements aux enfants
+> [DORS/2013-125, art. 27]
+
 
 
 **18** 
 
-- **(1)** Lorsqu’un contributeur s’est marié le ou après le 1<sup>er</sup> mars 1949 et que l’âge du contributeur dépassait l’âge de sa veuve de 20 ans ou davantage, le montant de toute allocation annuelle à laquelle elle peut avoir droit en vertu de la Loi à titre de veuve de ce contributeur, sera réduit dans la proportion que la valeur d’une rente viagère à un âge inférieur de 20 ans à celui du contributeur lors de son décès représente par rapport à la valeur d’une rente viagère égale établie à l’âge réel de la veuve à ce moment-là, et, aux fins du présent paragraphe, les valeurs des rentes viagères seront calculées d’après la *Table a(f) Ultimate*, Femmes.
+- **(1)** [Abrogé, DORS/2013-125, art. 28]
 
 - **(2)** Lorsqu’un enfant est né d’une personne à une époque où celle-ci était âgée de plus de 60 ans, à moins que, après cette époque, cette personne ne devienne ou ne demeure contributeur, l’enfant n’a droit à aucune allocation annuelle en vertu de la Loi sauf s’il est évident pour le ministre que l’enfant est né à la suite d’une période de gestation qui a commencé antérieurement à la date où le contributeur a atteint 60 ans ou a cessé d’être membre de la Gendarmerie.
+> DORS/2013-125, art. 28.
+
 
 
 
@@ -1152,7 +1163,7 @@ où :
 cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquenté à plein temps une école ou une université, à peu près sans interruption, jusqu’au moment où il a cessé d’être un enfant, si, immédiatement après une telle absence,
 	- **c)** dans le cas de celle qui est mentionnée à l’alinéa a), il commence ou continue à fréquenter à plein temps une école ou une université durant cette année scolaire ou, lorsque le Commissaire estime que l’enfant n’est pas en mesure de le faire, il commence ou continue à en fréquenter une durant l’année scolaire suivante; ou
 	- **d)** dans le cas de l’absence mentionnée à l’alinéa b), il commence ou continue à fréquenter à plein temps une école ou une université durant l’année scolaire suivante.
-> DORS/93-219, art. 2.
+> DORS/93-219, art. 2; DORS/2013-125, art. 29(A).
 
 
 
@@ -1184,23 +1195,17 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 
 
 
-## Limites applicables aux prestations aux survivants
+## Limites applicables aux prestations aux survivants et aux enfants
 
 
 **20.2** 
 
-- **(1)** Le montant mensuel payable en vertu de l’article 13 de la Loi au conjoint survivant ou à l’enfant du contributeur décédé visé à l’alinéa 8503(2)d) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, dans les circonstances mentionnées aux sous-alinéas (i) à (iii) de cet alinéa, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, ou de toute partie de celle-ci, ne peut excéder le montant mensuel maximal des prestations au survivant qui peuvent être versées au bénéficiaire d’un participant, calculé conformément au sous-alinéa 8503(2)d)(iv) de ce règlement, dans sa version du 15 janvier 1992.
+- **(1)** La somme mensuelle à payer, au titre de l’article 13 de la Loi, au conjoint survivant ou à l’enfant du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduite de façon à ce que le total de cette somme et des prestations à payer à l’égard de celle-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées au bénéficiaire d’un participant, calculé conformément aux alinéas 8503(2)d) à f) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
-- **(2)** Le total des montants mensuels payables en vertu de l’article 13 de la Loi au conjoint survivant et à l’enfant du contributeur décédé visé à l’alinéa 8503(2)d) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, dans les circonstances mentionnées aux sous-alinéas (i) à (iii) de cet alinéa, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, ou de toute partie de celle-ci, ne peut excéder le montant mensuel maximal des prestations au survivant qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément au sous-alinéa 8503(2)d)(v) de ce règlement, dans sa version du 15 janvier 1992.
+- **(2)** Le total des sommes mensuelles à payer, au titre de l’article 13 de la Loi, au conjoint survivant et aux enfants du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduit de façon à ce que le total de ces sommes et des prestations à payer à l’égard de celles-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément aux alinéas 8503(2)d) ou e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
-- **(3)** Le montant mensuel payable en vertu de l’article 13 de la Loi au conjoint survivant ou à l’enfant du contributeur décédé visé à l’alinéa 8503(2)e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, dans les circonstances mentionnées aux sous-alinéas (i) à (iv) de cet alinéa, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, ou de toute partie de celle-ci, ne peut excéder le montant mensuel maximal des prestations au survivant qui peuvent être versées au bénéficiaire d’un participant, calculé conformément au sous-alinéa 8503(2)e)(v) de ce règlement, dans sa version du 15 janvier 1992.
-
-- **(4)** Le total des montants mensuels payables en vertu de l’article 13 de la Loi, au conjoint survivant et aux enfants du contributeur décédé visé à l’alinéa 8503(2)e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, dans les circonstances mentionnées aux sous-alinéas (i) à (iv) de cet alinéa, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, ou de toute partie de celle-ci, ne peut excéder le montant mensuel maximal total des prestations au survivant qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément au sous-alinéa 8503(2)e)(vi) de ce règlement, dans sa version du 15 janvier 1992.
-
-- **(5)** La valeur actualisée, calculée au moment du décès du contributeur visé à l’alinéa 8503(2)f) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, de toutes les prestations payables en vertu de l’article 11 et de la partie III de la Loi, dans les circonstances mentionnées à cet alinéa, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, ou de toute partie de celle-ci, ne peut dépasser la valeur actualisée, immédiatement avant son décès, de toutes les prestations qui lui étaient acquises aux termes de cet article et de cette partie le jour de son décès.
-
-- **(6)** Les limites établies aux paragraphes (1) à (5) s’appliquent aux montants payables à l’égard d’un contributeur qui décède après l’entrée en vigueur du décret pris en vertu de l’alinéa 10a) de la [Loi sur les régimes de retraite particuliers](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20I.md) à l’égard des personnes visées aux sous-alinéas 10a)(iii) ou (vi) de cette loi, qui prévoit le versement de prestations au conjoint survivant et aux enfants du contributeur décédé.
-> DORS/98-531, art. 4.
+- **(3)** Les limites prévues aux paragraphes (1) et (2) s’appliquent aux sommes mensuelles à payer à l’égard du contributeur qui est tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada le 15 décembre 1994 ou après cette date et qui décède le 8 février 2002 ou après cette date.
+> DORS/98-531, art. 4; DORS/2013-125, art. 30.
 
 
 
@@ -1209,8 +1214,8 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 ## Équivalent actuariel
 
 
-**21** Aux fins de l’alinéa 11(5)c) et de l’alinéa 12(2)b) de la Loi, l’équivalent actuariel de toute rente différée sera déterminé conformément à l’annexe I.
-> DORS/93-219, art. 2.
+**21** Aux fins de l’alinéa 12(2)b) de la Loi, l’équivalent actuariel de toute rente différée sera déterminé conformément à l’annexe I.
+> DORS/93-219, art. 2; DORS/2013-125, art. 31.
 
 
 
@@ -1243,7 +1248,7 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 - **(2)** Nonobstant le paragraphe (1), toute personne décrite à l’alinéa 26m) de la Loi, à qui une pension est payable en vertu des Parties II ou III de l’ancienne Loi, peut, dans l’année qui précède le moment où elle devient contributeur sous le régime de la Partie I de la Loi, opter pour la renonciation de ses droits à la première pension, après quoi elle sera réputée, aux fins de la Loi, être une personne ayant fait un choix aux termes du paragraphe 18(2) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), ch. R-11 des Statuts révisés du Canada de 1970 lors de la renonciation aux droits à la première pension, à tous égards comme si elle était une personne décrite au paragraphe 18(2) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), ch. R-11 des Statuts révisés du Canada de 1970, sauf que si, en cessant par la suite d’être membre de la Gendarmerie, elle a droit, en vertu de la Partie I de la Loi, à une rente ou allocation annuelle dont la valeur capitalisée est inférieure à la valeur capitalisée de la première pension, au lieu de tout autre avantage aux termes de la Partie I de la Loi, les droits ou réclamations que, n’eût été le présent paragraphe, elle aurait eus à l’égard de la première pension en cessant subséquemment d’être membre de la Gendarmerie, seront rétablis dans son cas, et il lui sera versé un montant égal à ses contributions, sous le régime de la Partie I de la Loi, effectuées à l’égard de son service ouvrant droit à majoration.
 
 - **(3)** Le paragraphe (1) ne s’applique pas à une personne ou à l’égard d’une personne qui a exercé une option aux termes du paragraphe (2).
-> DORS/93-219, art. 2.
+> DORS/93-219, art. 2; DORS/2013-125, art. 50(A).
 
 
 
@@ -1260,12 +1265,10 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 	- **a)** un document signé par le contributeur déclarant qu’il n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec; et
 	- **b)** un certificat signé par le ministre responsable de l’administration du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), pour son compte, ou par le président de la Régie des rentes du Québec, selon le cas, attestant que le contributeur désigné n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec.
 
-- **(2)** Un contributeur, membre de la Gendarmerie le 28 juin 1977, qui, par la suite, cesse de l’être, fournit la preuve visée à l’alinéa (1)a) avant la date où il devient admissible, selon la Loi, à une pension.
+- **(2)** Le contributeur fournit la preuve visée à l’alinéa (1)a) avant la date à laquelle il devient admissible à une annuité au titre de la Loi.
 
-- **(3)** Sous réserve du paragraphe (4), un contributeur qui cesse d’être membre de la Gendarmerie avant le 28 juin 1977 fournit la preuve visée à l’alinéa (1)a), dans les six mois de la date où le ministre l’avise, par écrit, des exigences de l’alinéa 10(2)b) de la Loi.
-
-- **(4)** Le ministre peut prolonger la période visée au paragraphe (3) lorsqu’il est d’avis que le contributeur, en raison de circonstances indépendantes de sa volonté, a été dans l’impossibilité de fournir, dans le délai prévu à ce paragraphe, la preuve visée à l’alinéa (1)a).
-> DORS/93-219, art. 2.
+- **(3) et (4)** [Abrogés, DORS/2013-125, art. 32]
+> DORS/93-219, art. 2; DORS/2013-125, art. 32 et 50(A).
 
 
 
@@ -1274,39 +1277,21 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 ## Personnes déclarées coupables d’actes criminels
 
 
-**25** Lorsqu’une personne est, après sa retraite de la Gendarmerie, reconnue coupable d’un acte criminel commis pendant qu’elle était membre de la Gendarmerie, le Conseil du Trésor peut réduire toute annuité, allocation annuelle, pension ou prestation supplémentaire payable à celle-ci ou à son égard en vertu de la Loi ou de la partie V de l’ancienne loi, s’il lui paraît évident que la perpétration de l’infraction constituait en l’espèce une inconduite dans l’accomplissement des fonctions comme membre de la Gendarmerie.
-> DORS/95-571, art. 6.
+**25** Le Conseil du Trésor peut réduire toute annuité, allocation annuelle ou pension à payer, au titre de la partie I de la Loi ou de la partie V de l’ancienne loi, à la personne ou à l’égard de la personne qui, après avoir pris sa retraite de la Gendarmerie, est déclarée coupable d’un acte criminel commis pendant qu’elle était membre de la Gendarmerie s’il est d’avis que la perpétration de cet acte constituait une inconduite dans l’accomplissement de ses fonctions comme membre de la Gendarmerie.
+> DORS/95-571, art. 6; DORS/2013-125, art. 33.
 
 
 
 
 
-## Retraite d’office à l’âge de la retraite
+## Âge de la retraite
 
 
-**26** 
-
-- **(1)** Sous réserve du paragraphe (4), le contributeur qui détient un grade à la Gendarmerie cesse d’être un membre de la Gendarmerie le jour où il atteint l’âge de la retraite.
-
-- **(2)** Sous réserve du paragraphe (3), l’âge de la retraite du contributeur qui détient un grade à la Gendarmerie est fixé à 60 ans.
-
-- **(3)** L’âge de la retraite d’un contributeur qui détient un grade à la Gendarmerie autre que celui d’officier et qui est contributeur à un moment quelconque au cours de la période commençant le 26 février 1987 et se terminant avant la date d’entrée en vigueur de l’alinéa 7(1)a) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), édicté par l’article 4, de la Loi modifiant la Loi sur la Gendarmerie royale du Canada et d’autres lois en conséquence, chapitre 11 des Statuts du Canada de 1986, est :
-	- **a)** dans le cas d’un sergent d’état-major du corps, d’un sergent-major d’état-major, d’un sergent-major ou d’un sergent d’état-major, 58 ans;
-	- **b)** dans le cas d’un sergent, 57 ans;
-	- **c)** dans le cas d’un caporal, d’un gendarme ou d’un gendarme spécial, 56 ans.
-
-- **(4)** Le contributeur détenant un grade à la Gendarmerie demeure membre de la Gendarmerie après avoir atteint l’âge de la retraite, durant la période de son congé de retraite, de son congé annuel accumulé ou de la prolongation de son service.
-
-- **(5)** Le contributeur visé au paragraphe (3) obtient une prolongation de service jusqu’à ce qu’il atteigne l’âge de 60 ans s’il en fait la demande par écrit au Commissaire au moins un mois avant d’atteindre l’âge de retraite correspondant à son grade.
-
-- **(6)** Lorsque le bon gouvernement de la Gendarmerie et les besoins opérationnels le justifient, une prolongation de service ou le renouvellement de celle-ci peut être autorisé :
-	- **a)** s’il s’agit d’un officier, par le ministre, sur recommandation du Commissaire,
-	- **b)** s’il s’agit d’un contributeur qui détient un grade à la Gendarmerie autre que celui d’officier, par le Commissaire ou par son mandataire, sur la recommandation de son commandant divisionnaire,
-si cet officier ou ce contributeur :
-	- **c)** est en bonne santé physique et mentale;
-	- **d)** possède de bons antécédents quant au rendement, conduite et à l’attitude;
-	- **e)** au moins un mois avant d’atteindre l’âge de 60 ans ou au moins un mois avant d’atteindre la fin de la période de prolongation de service à la Gendarmerie autorisée en vertu du paragraphe (5) ou du présent paragraphe, selon le cas, fait par écrit au Commissaire une demande de prolongation de service ou de renouvellement de prolongation de service.
-> DORS/87-126, art. 1; DORS/88-294, art. 1.
+**26** Pour le calcul des prestations à payer au titre de la partie I de la Loi, l’âge de la retraite du contributeur qui détient un grade dans la Gendarmerie est fixé à 60 ans. Toutefois, s’il détient un grade autre que celui d’officier et a été contributeur au cours de la période commençant le 26 février 1987 et se terminant le 29 juin 1988, cet âge est fixé :
+- **a)** dans le cas d’un sergent-major du corps, d’un sergent-major d’état-major, d’un sergent-major ou d’un sergent d’état-major, à 58 ans;
+- **b)** dans le cas d’un sergent, à 57 ans;
+- **c)** dans le cas d’un caporal, d’un gendarme ou d’un gendarme spécial, à 56 ans.
+> DORS/87-126, art. 1; DORS/88-294, art. 1; DORS/2013-125, art. 33.
 
 
 
@@ -1364,38 +1349,16 @@ si cet officier ou ce contributeur :
 - **(2)** Un contributeur, qui n’a pas atteint 60 ans mais qui est devenu admissible, en vertu du paragraphe 12(1) de la Loi, à une rente immédiate, à l’égard d’une invalidité dont il a été frappé antérieurement, devra subir des examens médicaux, jusqu’à ce qu’il ait atteint 60 ans, aux époques et aux lieux que le Commissaire peut déterminer.
 
 - **(3)** Un rapport selon la formule prescrite par le Commissaire concernant chaque examen médical subi par un contributeur en vertu du présent article sera présenté au Commissaire aussitôt que possible après la fin de l’examen.
-> DORS/93-219, art. 2; DORS/2012-124, art. 14.
+> DORS/93-219, art. 2; DORS/2012-124, art. 14; DORS/2013-125, art. 50(A).
 
 
 
 
-
-## Droits et impôts sur les biens transmis par décès
-
-
-**28** 
-
-- **(1)** Lorsque, au décès d’un contributeur, une allocation annuelle devient payable en vertu de la Loi à un successeur, une demande par écrit peut être présentée au ministre par le successeur ou en son nom, concernant le paiement, à même le Compte de pension de retraite, de la totalité ou de quelque partie de la fraction de tous droits ou impôts sur les biens, les legs, la succession ou l’héritage exigibles du successeur, qui est attribuable à cette allocation, et si le ministre ordonne, selon la demande, que la totalité ou toute partie de ces droits ou impôts ainsi exigibles doit être acquittée à même le Compte de pension de retraite, la fraction maximum desdits droits ou impôts qui peuvent être acquittés est la proportion que
-	- **a)** la valeur de l’allocation payable au successeur
-représente par rapport à
-	- **b)** la valeur de toute la succession,
-calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts payables à leur égard.
-
-- **(2)** Lorsque le ministre rend une ordonnance en vertu du paragraphe (1), l’allocation annuelle doit être réduite, soit pour le temps demandé par le successeur dans sa requête prévue au paragraphe (1), soit pendant la période entière à l’égard de laquelle l’allocation annuelle est payable, si le successeur omet de spécifier dans sa requête prévue au paragraphe (1) que l’allocation annuelle doit être réduite, pour quelque temps, de un douzième d’un montant déterminé en divisant le montant desdits droits ou impôts à être acquittés à même le Compte de pension de retraite, par la valeur d’une rente de 1 $ par année, payable mensuellement à une personne de l’âge du successeur à la date du paiement desdits droits ou impôts à même le Compte de pension de retraite, et calculée,
-	- **a)** dans le cas d’une allocation annuelle payable à la veuve du contributeur, conformément à la *Table a(f) Ultimate*, avec intérêt au taux de quatre pour cent l’an; et
-	- **b)** dans le cas d’une allocation annuelle payable à un enfant du contributeur, à un taux d’intérêt de quatre pour cent l’an, auquel cas on ne tiendra pas compte de la mortalité.
-
-- **(3)** Lorsque l’allocation annuelle d’un successeur doit être ou est réduite pour un terme en vertu du présent article et que le successeur, en l’occurrence la veuve d’un contributeur, se remarie avant la fin du terme et que l’allocation annuelle est suspendue, si, à un moment donné, l’allocation annuelle est rétablie, elle doit être réduite pour une période égale au terme ou au reste du terme, selon le cas, durant lequel l’allocation annuelle aurait été réduite si elle n’avait pas été suspendue, et cette réduction sera effectuée dans la même proportion et de la même manière que l’allocation annuelle a été réduite immédiatement avant la suspension.
+**28** [Abrogé, DORS/2013-125, art. 34]
 
 
 
-
-## Divers
-
-
-**29** Aux fins du paragraphe 20(1) de la Loi, l’avis dont il y est fait mention sera rédigé sur la formule énoncée à l’annexe II.
-> DORS/93-219, art. 2.
-
+**29** [Abrogé, DORS/2013-125, art. 34]
 
 
 
@@ -1415,7 +1378,7 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts paya
 
 **30** 
 
-- **(1)** Pour l’application de l’alinéa 29(1)b) de la Loi, l’intérêt de chaque trimestre de chaque exercice sera calculé au dernier jour de juin, septembre, décembre et mars sur le solde figurant au crédit du Compte de pension de retraite le dernier jour du trimestre précédent.
+- **(1)** Pour l’application de l’alinéa 29(1)b) de la Loi, l’intérêt de chaque trimestre de chaque exercice sera calculé au dernier jour de juin, septembre, décembre et mars sur le solde figurant au crédit du compte de pension de retraite le dernier jour du trimestre précédent.
 
 - **(2)** Le taux qui doit être utilisé pour le calcul de l’intérêt aux termes du paragraphe (1) à l’égard de quelque trimestre que ce soit, est celui qui produirait un montant d’intérêt équivalent au montant d’intérêt qu’aurait produit au cours de ce trimestre l’ensemble des soldes créditeurs des comptes de pension de retraite tenus en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), si l’excédent trimestriel était investi
 	- **a)** dans le cas de tout excédent trimestriel ultérieur au 31 décembre 1965, la moyenne des taux d’intérêt que le ministre des Finances peut fixer ou avoir fixés pour les mois dudit trimestre, en vertu du paragraphe 111(2) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md); et
@@ -1429,7 +1392,7 @@ moins
 	- **b)** les paiements imputés à ces comptes au cours du trimestre
 plus
 	- **c)** la somme de tous montants crédités à ces comptes, après déduction des paiements qui ont pu leur être imputés au cours de tout trimestre correspondant d’un exercice antérieur de 20 ans, ou de tout multiple de 20 ans, au trimestre dont il est question à l’alinéa a).
-> DORS/93-219, art. 2; DORS/95-571, art. 7; DORS/2001-130, art. 2(F).
+> DORS/93-219, art. 2; DORS/95-571, art. 7; DORS/2001-130, art. 2(F); DORS/2013-125, art. 35(F).
 
 
 
@@ -1500,6 +1463,8 @@ plus
 	- **c)** une oeuvre ou une institution de charité;
 	- **d)** une oeuvre ou une institution de bienfaisance; ou
 	- **e)** une oeuvre ou une institution de charité à caractère religieux ou éducatif.
+> DORS/2013-125, art. 36(A), 49(A) et 54(A).
+
 
 
 
@@ -1529,11 +1494,11 @@ plus
 
 
 
-**34** Pour l’application de l’article 14.1 de la Loi, le contributeur peut choisir de réduire le montant de son annuité ou de son allocation annuelle dans le délai d’un an suivant la dernière des dates suivantes :
-- **a)** la date d’entrée en vigueur du présent article;
-- **b)** la date de son mariage avec le conjoint;
-- **c)** la date à laquelle son annuité ou son allocation annuelle devient payable.
-> DORS/94-347, art. 1.
+**34** Pour l’application de l’article 14.1 de la Loi, le contributeur peut choisir de réduire le montant de son annuité ou de son allocation annuelle dans le délai d’un an suivant :
+- **a)** [Abrogé, DORS/2013-125, art. 37]
+- **b)** la date de son mariage avec le conjoint.
+- **c)** [Abrogé, DORS/2013-125, art. 37]
+> DORS/94-347, art. 1; DORS/2013-125, art. 37.
 
 
 
@@ -1561,26 +1526,28 @@ plus
 
 **37** 
 
-- **(1)** Le choix est envoyé au ministre ou à la personne qu’il a désignée, dans le délai prévu à l’article 34 ou au paragraphe 35(2), selon le cas.
+- **(1)** Sous peine de nullité, le choix est envoyé au ministre ou à la personne qu’il a désignée dans le délai prévu à l’article 34 ou au paragraphe 35(2).
 
-- **(2)** Le choix est effectué à la date où il est envoyé.
-> DORS/94-347, art. 1; DORS/98-531, art. 5.
+- **(2)** La date du choix est celle de son envoi.
+
+- **(3)** La date de son envoi est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet de la poste en faisant foi.
+> DORS/94-347, art. 1; DORS/98-531, art. 5; DORS/2013-125, art. 38.
 
 
 
 
-**38** Le contributeur ou son mandataire doit, dans le délai d’un an suivant la date du choix, faire parvenir au ministre ou à la personne que celui-ci a désignée :
-- **a)** un document établissant la date de naissance du conjoint;
-- **b)** un document établissant le mariage du contributeur et du conjoint;
+**38** Dans l’année suivant la date du choix, le contributeur ou la personne qui agit pour son compte envoie au ministre ou à la personne que celui-ci a désignée :
+- **a)** un document qui atteste la date de naissance du conjoint;
+- **b)** un document qui atteste le mariage du contributeur et du conjoint;
 - **c)** lorsque le nom du conjoint figurant sur le document visé à l’alinéa a) diffère de celui figurant sur le document visé à l’alinéa b), tout autre document qui démontre qu’il s’agit de la même personne ou une déclaration solennelle du conjoint attestant qu’il est la personne visée par ces documents.
-> DORS/94-347, art. 1.
+> DORS/94-347, art. 1; DORS/2013-125, art. 39(F).
 
 
 
 
 **39** 
 
-- **(1)** Pour l’application de l’article 14.1 de la Loi, la preuve de l’âge du conjoint du contributeur est, sous réserve des paragraphes (2) et (3), établie par un certificat de naissance délivré par une autorité civile.
+- **(1)** La preuve de l’âge du conjoint du contributeur est établie par un certificat de naissance délivré par une autorité civile.
 
 - **(2)** Si le certificat visé au paragraphe (1) ne peut être obtenu, la preuve de l’âge du conjoint est établie par :
 	- **a)** d’une part, une déclaration solennelle du conjoint attestant sa date de naissance et indiquant les raisons pour lesquelles le certificat ne peut être obtenu;
@@ -1589,7 +1556,7 @@ plus
 		- **(ii)** soit un document, établi au moins vingt ans avant la date du choix, indiquant le nom et la date de naissance du conjoint, lequel est accompagné de la déclaration solennelle d’une personne autre que le contributeur ou son conjoint attestant la date de naissance du conjoint.
 
 - **(3)** Lorsqu’un document ou une déclaration solennelle devant être fourni aux termes de l’alinéa (2)b) ne peut être obtenu, la déclaration solennelle exigée à l’alinéa (2)a) doit en exposer les raisons.
-> DORS/94-347, art. 1.
+> DORS/94-347, art. 1; DORS/2013-125, art. 40.
 
 
 
@@ -1665,20 +1632,20 @@ plus
 
 **44** 
 
-- **(1)** Pour l’application des articles 42 et 43, le calcul des valeurs actuarielles actualisées repose sur les seules hypothèses démographiques suivantes :
+- **(1)** Pour l’application de l’article 42, le calcul des valeurs actuarielles actualisées repose sur les seules hypothèses démographiques suivantes :
 	- **a)** le taux de mortalité pour un contributeur qui est membre de la Gendarmerie et qui ne détient pas un grade de la Gendarmerie correspond à la moyenne des taux de mortalité des contributeurs qui touchent des prestations pour cause d’invalidité et de ceux qui touchent des prestations pour des raisons autres que l’invalidité, applicable au groupe d’âge dans lequel se situe le contributeur, qui figurent dans le rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), compte tenu des facteurs de projection de la mortalité qui y sont indiqués, laquelle moyenne est pondérée selon les prestations payées à chacun de ces deux groupes de contributeurs;
 	- **b)** les taux de mortalité pour les contributeurs qui détiennent un grade dans la Gendarmerie sont ceux indiqués dans le rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 30 de la Loi;
-	- **c)** les taux de mortalité des conjoints survivants sont ceux figurant dans le rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), compte tenu des facteurs de projection de la mortalité qui y sont indiqués;
+	- **c)** les taux de mortalité applicables aux survivants sont ceux qui ont été utilisés à l’égard des conjoints dans l’établissement du rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), compte tenu des facteurs de projection de la mortalité qui y sont indiqués;
 	- **d)** les taux de divorce sont ceux établis par le surintendant des institutions financières selon les données les plus récentes sur les divorces publiées par Statistique Canada.
 
-- **(2)** Les rapports d’évaluation actuarielle visés au paragraphe (1) sont les rapports les plus récents déposés devant le Parlement ou, si leur dépôt remonte à moins de deux mois avant la date du choix du contributeur, les rapports précédents ainsi déposés.
-> DORS/94-347, art. 1.
+- **(2)** Les rapports d’évaluation actuarielle visés au paragraphe (1) sont les derniers rapports déposés devant le Parlement avant la date du choix du contributeur ou, si les derniers rapports ont été déposés au cours du mois pendant lequel le choix est fait ou du mois précédent, les avant-derniers rapports déposés devant le Parlement avec, dans chaque cas, les adaptations terminologiques nécessaires.
+> DORS/94-347, art. 1; DORS/2013-125, art. 41.
 
 
 
 
-**45** Les taux d’intérêt à utiliser dans les calculs prévus aux articles 42 et 43 sont ceux établis à l’égard des pensions pleinement indexées conformément à la section « Valeurs actualisées des rentes » du document intitulé Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives.
-> DORS/94-347, art. 1; DORS/2012-124, art. 17.
+**45** Les taux d’intérêt à utiliser dans les calculs prévus à l'article 42 sont ceux établis à l’égard des pensions pleinement indexées conformément à la section « Valeurs actualisées des rentes » du document intitulé Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives.
+> DORS/94-347, art. 1; DORS/2012-124, art. 17; DORS/2013-125, art. 42.
 
 
 
@@ -1697,12 +1664,16 @@ plus
 	- **a)** dans le cas visé à l’alinéa (1)a);
 	- **b)** lorsque le montant de son annuité ou de son allocation annuelle est révisé en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md) après la date du choix.
 
-- **(3)** La révision du niveau de réduction ou la révocation du choix s’effectue par écrit et le document qui la constate est envoyé au ministre ou à la personne que celui-ci a désignée, selon le cas :
-	- **a)** dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements exacts est envoyé au contributeur;
-	- **b)** dans les trois mois suivant la date à laquelle l’annuité ou l’allocation annuelle a été révisée en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md).
+- **(3)** La révision du niveau de réduction s’effectue par écrit.
 
-- **(4)** La révision du niveau de réduction ou la révocation du choix prend effet à la date où le document qui la constate est envoyé.
-> DORS/94-347, art. 1; DORS/98-531, art. 6; DORS/2012-124, art. 18.
+- **(4)** Sous peine de nullité, le document constatant la révision est envoyé au ministre ou à la personne qu’il a désignée :
+	- **a)** dans les trois mois suivant la date à laquelle l’avis écrit indiquant les renseignements exacts est envoyé au contributeur;
+	- **b)** dans les trois mois suivant la date à laquelle la pension a été révisée en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md).
+
+- **(5)** La révision du niveau de réduction prend effet à la date d’envoi du document.
+
+- **(6)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet de la poste en faisant foi.
+> DORS/94-347, art. 1; DORS/98-531, art. 6; DORS/2012-124, art. 18; DORS/2013-125, art. 43.
 
 
 
@@ -1738,8 +1709,8 @@ plus
 ## Révocation
 
 
-**49** Pour l’application du paragraphe 14.1(4) de la Loi, le choix effectué par le contributeur est réputé révoqué le jour où celui-ci est tenu de contribuer au compte de pension de retraite aux termes du paragraphe 5(1) de la Loi.
-> DORS/94-347, art. 1.
+**49** Pour l’application du paragraphe 14.1(2) de la Loi, la date à laquelle le choix effectué par le contributeur est réputé avoir été révoqué est celle où il est tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada selon l’article 5 de la Loi.
+> DORS/94-347, art. 1; DORS/2013-125, art. 44.
 
 
 
@@ -1768,12 +1739,8 @@ plus
 ## Limite applicable à l’allocation annuelle en cas de mise à la retraite
 
 
-**52** 
-
-- **(1)** Malgré le sous-alinéa 11(9)b)(iii) de la Loi, le montant de l’allocation annuelle qui devient payable au contributeur en vertu de ce sous-alinéa ne peut excéder le montant calculé conformément à la formule prévue à l’alinéa 8503(3)c) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992.
-
-- **(2)** La limite prévue au paragraphe (1) s’applique au montant de l’allocation annuelle payable au contributeur qui cesse d’être employé à la date d’entrée en vigueur ou après celle-ci du décret pris en vertu de l’alinéa 10a) de la [Loi sur les régimes de retraite particuliers](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20I.md) à l’égard des personnes visées aux sous-alinéas 10a)(iii) ou (vi) de cette loi, qui prévoit le versement de prestations au contributeur qui a droit à une allocation annuelle en vertu du sous-alinéa 11(9)b)(iii) de la Loi.
-> DORS/98-531, art. 7.
+**52** Malgré le sous-alinéa 11(9)b)(iii) de la Loi, le montant de l’allocation annuelle à payer au titre de ce sous-alinéa au contributeur qui cesse d’être employé après le 7 février 2002 ne peut excéder la somme calculée conformément à la formule prévue à l’alinéa 8503(3)c) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+> DORS/98-531, art. 7; DORS/2013-125, art. 45.
 
 
 
@@ -1840,7 +1807,7 @@ plus
 	- **c)** dans le cas du contributeur qui a cessé d’être membre de la Gendarmerie avant le 14 septembre 1999, il avait moins de cinquante ans le 14 septembre 1999.
 
 - **(3)** Le contributeur visé au paragraphe 12.1(1) de la Loi qui devient admissible à une annuité différée en vertu du paragraphe 12(2) de la Loi a le droit d’exercer un choix en faveur de la valeur de transfert, déterminée selon les articles 61 à 65, s’il a moins de cinquante ans à la date où il devient admissible à cette annuité différée.
-> DORS/2003-232, art. 2; DORS/2012-124, art. 31.
+> DORS/2003-232, art. 2; DORS/2012-124, art. 31; DORS/2013-125, art. 54(A).
 
 
 
@@ -2008,7 +1975,7 @@ plus
 
 
 **69** La valeur de transfert est payée à la succession du contributeur si elle ne peut être transférée selon le paragraphe 12.1(2) de la Loi en raison du décès du contributeur.
-> DORS/2003-232, art. 2; DORS/2012-124, art. 28 et 31.
+> DORS/2003-232, art. 2; DORS/2012-124, art. 28 et 31; DORS/2013-125, art. 49(A).
 
 
 
@@ -2782,97 +2749,13 @@ plus
 *Équivalent actuariel* : Le montant annuel de l’allocation commençant à un âge donné et payable pour la vie, qui est égal en valeur, à cet âge, à un montant annuel d’une rente de 1 000 $ payable à vie depuis l’âge de 60 ans.
 
 
+> DORS/2013-125, art. 46(A).
+
 
 
 
 ### **ANNEXE II** 
-**(art. 29)**
-<table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>N<sup>o</sup> DE PENSION DE RETRAITE</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Le Commissaire,
-
-
-Gendarmerie royale du Canada,
-
-
-Ottawa, Ontario.
-
-
-Loi sur la pension de retraite de la Gendarmerie royale du Canada
-
-
-
-## Avis d’ordonnance judiciaire
-
-Applicable au paragraphe 20(1) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md)
-
-
-<table>
-<tr>
-<td>Cour</td>
-<td>Province</td>
-<td>Date de l’Ordonnance</td>
-</tr>
-<tr>
-<td>Nom du bénéficiaire</td>
-<td>Montant et mode de paiement</td>
-</tr>
-<tr>
-<td></td>
-<td>Montant global</td>
-</tr>
-<tr>
-<td></td>
-<td>☐ $ ____________ ou ☐ $ ____________ par ____________</td>
-</tr>
-<tr>
-<td>Nom de la personne à charge</td>
-<td>Degré de parenté entre la personne à charge et le bénéficiaire</td>
-</tr>
-<tr>
-<td>Loi ou autre autorité en vertu de laquelle l’Ordonnance a été rendue</td>
-</tr>
-<tr>
-<td>LE MINISTRE DE LA JUSTICE,OTTAWA, CANADA.
-
-</td>
-</tr>
-<tr>
-<td>Conformément à l’Ordonnance susmentionnée (dont copie conforme est annexée aux présentes) et aux termes du paragraphe 15(2) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), je vous demande par les présentes de verser le montant ci-spécifié à la personne à charge indiquée ci-dessus au moyen de déductions sur tout montant qui est ou devient payable au bénéficiaire en vertu de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
-
-</td>
-</tr>
-<tr>
-<td>
-____________________
-(Date)
-
-</td>
-<td>
-____________________
-(Registraire, protonotaire, greffier ou autre fonctionnaire de la Cour autorisé à donner cet avis au nom de la Cour.)
-
-</td>
-</tr>
-</table>
-
-> DORS/93-219, art. 2.
+[Abrogée, DORS/2013-125, art. 47]
 
 
 
@@ -3002,7 +2885,7 @@ ____________________
 
 Directive à l’Agent en chef du Trésor
 
-**a) (i)** Un paiement en une somme globale de _________________________ $ est transmis avec la présente option afin d’être crédité au Compte de pension de retraite de la Gendarmerie royale du Canada
+**a) (i)** Un paiement en une somme globale de _________________________ $ est transmis avec la présente option afin d’être crédité à la Caisse de retraite de la Gendarmerie royale du Canada
 
 
 
@@ -3082,7 +2965,7 @@ ____________________
 **REMARQUE :** La présente formule doit être complétée en quatre exemplaires : l’optant en conserve un et l’original ainsi que les deux autres copies doivent être expédiés à l’adresse suivante : Le Commissaire, Gendarmerie royale du Canada, Ottawa, Ontario.
 
 
-> DORS/93-219, art. 2 et 3(F); DORS/2012-124, art. 33.
+> DORS/93-219, art. 2 et 3(F); DORS/2012-124, art. 33; DORS/2013-125, art. 48 et 55(A).
 
 
 
