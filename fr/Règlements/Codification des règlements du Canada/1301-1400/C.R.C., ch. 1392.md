@@ -22,7 +22,13 @@ Autorités habilitantes :
 ## Interprétation
 
 
-**2** Dans le présent règlement, ***Loi*** signifie la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md).
+**2** Les définitions qui suivent s’appliquent au présent règlement.
+
+***conseiller autorisé*** Tout membre de la Gendarmerie, toute personne employée dans la fonction publique ou toute personne dont le ministre a retenu les services pour l’application de la Loi. (*authorized advisor*)
+
+***Loi*** La [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md). (*Act*)
+> DORS/2013-125, art. 1.
+
 
 
 
@@ -38,23 +44,7 @@ Autorités habilitantes :
 
 
 
-
-## Droits et impôts sur les biens transmis par décès
-
-
-**4** 
-
-- **(1)** Lorsque, au décès d’un membre ou d’un ancien membre de la Gendarmerie, une pension ou une allocation de commisération devient payable en vertu de la Loi à un successeur, une demande par écrit peut être adressée au ministre par le successeur ou en son nom, concernant le paiement, à même le Fonds du revenu consolidé, de la totalité ou de quelque partie de la fraction de tous droits ou impôts sur les biens, les legs, la succession ou l’héritage exigibles du successeur, qui est attribuable à cette pension ou à cette allocation, et si le ministre ordonne, selon la demande, que la totalité ou toute partie de ces droits ou impôts ainsi exigibles, doit être payée à même le Fonds du revenu consolidé, la fraction maximum desdits droits ou impôts qui pourraient être payés est la proportion que
-	- **a)** la valeur de la pension ou de l’allocation payable au successeur représente
-par rapport à
-	- **b)** la valeur de toute la succession,
-calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y attribuables.
-
-- **(2)** Lorsque le ministre rend une ordonnance en vertu du paragraphe (1), la pension ou allocation doit être réduite soit pour le temps demandé par le successeur dans sa requête prévue au paragraphe (1), soit pour tout le temps que la pension ou l’allocation est payable, si le successeur ne spécifie pas dans sa requête prévue au paragraphe (1) que la pension ou l’allocation doit être réduite, pour quelque temps, d’un douzième d’un montant déterminé en divisant le montant desdits droits ou impôts qui doivent être payés sur le Fonds du revenu consolidé, par la valeur d’une rente de 1 $ par année, payable mensuellement à une personne du même âge que le successeur à la date du paiement desdits droits ou impôts à même le Fonds du revenu consolidé, et calculée,
-	- **a)** dans le cas d’une pension ou allocation payable à la veuve de la personne dont le décès rend la pension ou allocation exigible, conformément à la Table a(f) Ultimate, avec intérêt au taux de quatre pour cent l’an; et
-	- **b)** dans le cas d’une allocation annuelle payable à un enfant d’une personne dont le décès rend la pension ou allocation exigible, à un taux d’intérêt de quatre pour cent l’an, et, dans ce dernier cas, aucun compte ne sera tenu de la mortalité.
-
-- **(3)** Lorsque la pension ou allocation d’un successeur doit être ou est réduite pour un terme en vertu du présent article et que le successeur, en l’occurrence la veuve d’une personne dont le décès rend la pension ou allocation exigible, se remarie avant la fin dudit terme et que la pension ou allocation est suspendue, si, à un moment donné, la pension ou allocation est rétablie, elle doit être réduite pour une période égale au terme ou au reste du terme, selon le cas, durant lequel la pension ou allocation aurait été réduite si elle n’avait pas été suspendue, et cette réduction sera effectuée dans la même proportion et de la même manière que la pension ou allocation a été réduite immédiatement avant la suspension.
+**4** [Abrogé, DORS/2013-125, art. 2]
 
 
 
@@ -122,12 +112,10 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y at
 
 **10** 
 
-- **(1)** Malgré l’article 9, l’officier peut effectuer son choix après le délai qui y est prévu s’il a reçu d’une personne employée dans la Gendarmerie ou dans la fonction publique, dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils concernant le choix, des renseignements écrits :
-	- **a)** soit faux ou trompeurs au sujet du délai dans lequel il pouvait effectuer un choix;
-	- **b)** soit sensiblement faux ou trompeurs au sujet du montant de la réduction de sa pension ou au sujet du montant de la pension à laquelle aurait droit son conjoint.
+- **(1)** L’officier peut toutefois effectuer le choix après le délai prévu à l’article 9 s’il a reçu d’un conseiller autorisé qui donne normalement des renseignements au sujet de ces questions, des renseignements erronés ou trompeurs concernant le délai dans lequel il pouvait l’effectuer, ou sensiblement erronés ou trompeurs concernant le montant de la réduction de sa pension ou le montant de celle à laquelle aurait droit son conjoint, renseignements sur lesquels il a fondé son choix.
 
-- **(2)** Le choix visé au paragraphe (1) se fait dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements exacts est envoyé à l’officier.
-> DORS/94-348, art. 1.
+- **(2)** Il l’effectue alors dans les trois mois suivant la date à laquelle l’avis écrit indiquant les renseignements exacts lui est envoyé.
+> DORS/94-348, art. 1; DORS/2013-125, art. 3.
 
 
 
@@ -143,26 +131,28 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y at
 
 **12** 
 
-- **(1)** Le choix est envoyé au ministre ou à la personne qu’il a désignée, dans le délai prévu à l’article 9 ou au paragraphe 10(2), selon le cas.
+- **(1)** Sous peine de nullité, le choix est envoyé au ministre ou à la personne qu’il a désignée dans le délai prévu à l’article 9 ou au paragraphe 10(2).
 
-- **(2)** Le choix est effectué à la date où il est envoyé conformément au paragraphe (1).
-> DORS/94-348, art. 1.
+- **(2)** La date du choix est celle de son envoi.
+
+- **(3)** La date de son envoi est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet de la poste en faisant foi.
+> DORS/94-348, art. 1; DORS/2013-125, art. 4.
 
 
 
 
-**13** L’officier ou son mandataire doit, dans le délai d’un an suivant la date du choix, faire parvenir au ministre ou à la personne que celui-ci a désignée :
-- **a)** un document établissant la date de naissance du conjoint;
-- **b)** un document établissant le mariage de l’officier et du conjoint;
+**13** Dans l’année suivant la date du choix, l’officier ou la personne qui agit pour son compte envoie au ministre ou à la personne que celui-ci a désignée :
+- **a)** un document qui atteste la date de naissance du conjoint;
+- **b)** un document qui atteste le mariage de l’officier et du conjoint;
 - **c)** lorsque le nom du conjoint figurant sur le document visé à l’alinéa a) diffère de celui figurant sur le document visé à l’alinéa b), tout autre document qui démontre qu’il s’agit de la même personne ou une déclaration solennelle du conjoint attestant qu’il est la personne visée par ces documents.
-> DORS/94-348, art. 1.
+> DORS/94-348, art. 1; DORS/2013-125, art. 5(F).
 
 
 
 
 **14** 
 
-- **(1)** Pour l’application de l’article 20.1 de la Loi, la preuve de l’âge du conjoint de l’officier est, sous réserve des paragraphes (2) et (3), établie par un certificat de naissance délivré par une autorité civile.
+- **(1)** La preuve de l’âge du conjoint de l’officier est établie par un certificat de naissance délivré par une autorité civile.
 
 - **(2)** Si le certificat visé au paragraphe (1) ne peut être obtenu, la preuve de l’âge du conjoint est établie par :
 	- **a)** d’une part, une déclaration solennelle du conjoint attestant sa date de naissance et indiquant les raisons pour lesquelles le certificat ne peut être obtenu;
@@ -171,7 +161,7 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y at
 		- **(ii)** soit un document, établi au moins vingt ans avant la date du choix, indiquant le nom et la date de naissance du conjoint, lequel est accompagné de la déclaration solennelle d’une personne autre que l’officier ou son conjoint attestant la date de naissance du conjoint.
 
 - **(3)** Lorsqu’un document ou une déclaration solennelle devant être fourni aux termes de l’alinéa (2)b) ne peut être obtenu, la déclaration solennelle exigée à l’alinéa (2)a) doit en exposer les raisons.
-> DORS/94-348, art. 1.
+> DORS/94-348, art. 1; DORS/2013-125, art. 6.
 
 
 
@@ -230,24 +220,26 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y at
 
 
 
-## Hypothèses actuarielles
+## Hypothèses démographiques
+> [DORS/2013-125, art. 7]
+
 
 
 **19** 
 
-- **(1)** Pour l’application des articles 17 et 18, le calcul des valeurs actuarielles actualisées repose uniquement sur les hypothèses démographiques suivantes :
+- **(1)** Pour l’application de l’article 17, le calcul des valeurs actuarielles actualisées repose uniquement sur les hypothèses démographiques suivantes :
 	- **a)** les taux de mortalité applicables aux officiers sont ceux indiqués dans le rapport d’évaluation actuarielle déposé devant le Parlement aux termes de l’article 30 de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), compte tenu des facteurs de projection prévus au rapport;
 	- **b)** les taux de mortalité applicables aux conjoints survivants sont ceux indiqués dans le rapport d’évaluation actuarielle déposé devant le Parlement aux termes de l’article 45 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), compte tenu des facteurs de projection prévus au rapport;
 	- **c)** les taux de divorce sont ceux établis par le surintendant des institutions financières selon les données les plus récentes publiées par Statistique Canada sur le divorce.
 
 - **(2)** Les rapports d’évaluation actuarielle visés au paragraphe (1) sont les rapports les plus récents déposés devant le Parlement ou, si leur dépôt remonte à moins de deux mois avant la date du choix de l’officier, les rapports précédents ainsi déposés.
-> DORS/94-348, art. 1.
+> DORS/94-348, art. 1; DORS/2013-125, art. 8.
 
 
 
 
-**20** Les taux d’intérêt à utiliser aux fins des calculs prévus aux articles 17 et 18 sont ceux indiqués dans les Recommandations pour le calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, lesquelles s’appliquent depuis le 1<sup>er</sup> septembre 1993 à l’égard des rentes pleinement indexées.
-> DORS/94-348, art. 1.
+**20** Les taux d’intérêt à utiliser dans le calcul prévu à l’article 17 sont ceux établis à l’égard des pensions pleinement indexées conformément à la section « Valeurs actualisées des rentes » du document intitulé Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives.
+> DORS/94-348, art. 1; DORS/2013-125, art. 9.
 
 
 
@@ -259,15 +251,19 @@ calculée dans chaque cas aux fins de déterminer lesdits droits ou impôts y at
 **21** 
 
 - **(1)** L’officier qui a effectué un choix peut réviser le niveau de réduction dans l’un ou l’autre des cas suivants :
-	- **a)** avant le choix, il a reçu par écrit d’une personne employée dans la Gendarmerie ou dans la fonction publique, dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils concernant le choix, des renseignements sensiblement faux ou trompeurs au sujet du montant de la réduction de sa pension ou au sujet du montant de la pension à laquelle aurait droit son conjoint;
+	- **a)** il a reçu d’un conseiller autorisé qui donne normalement des renseignements au sujet de ces questions, des renseignements sensiblement erronés ou trompeurs concernant le montant de la réduction de sa pension ou le montant de celle à laquelle aurait droit son conjoint, renseignements sur lesquels il a fondé son choix,
 	- **b)** le montant de sa pension est révisé en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md) après la date du choix.
 
-- **(2)** La révision du niveau de réduction du choix s’effectue par écrit et le document qui la constate est envoyé au ministre ou à la personne qu’il a désignée, selon le cas :
-	- **a)** dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements exacts est envoyé à l’officier;
+- **(2)** La révision du niveau de réduction s’effectue par écrit.
+
+- **(3)** Sous peine de nullité, le document constatant la révision est envoyé au ministre ou à la personne qu’il a désignée :
+	- **a)** dans les trois mois suivant la date à laquelle l’avis écrit indiquant les renseignements exacts est envoyé à l’officier;
 	- **b)** dans les trois mois suivant la date à laquelle la pension a été révisée en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md).
 
-- **(3)** La révision du niveau de réduction du choix prend effet à la date où le document qui la constate est envoyé conformément au paragraphe (2).
-> DORS/94-348, art. 1.
+- **(4)** La révision du niveau de réduction prend effet à la date d’envoi du document.
+
+- **(5)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet de la poste en faisant foi.
+> DORS/94-348, art. 1; DORS/2013-125, art. 10.
 
 
 
