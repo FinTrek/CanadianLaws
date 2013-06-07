@@ -22,7 +22,13 @@ Enabling authorities:
 ## Interpretation
 
 
-**2** In these Regulations, “Act” means the [Royal Canadian Mounted Police Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20R-10.md).
+**2** The following definitions apply in these Regulations.
+
+***Act*** means the [Royal Canadian Mounted Police Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20R-10.md). (*Loi*)
+
+***authorized advisor*** means a member of the Force, a person employed in the public service or a person whose services were retained by the Minister for the purposes of the Act. (*conseiller autorisé*)
+> SOR/2013-125, s. 1.
+
 
 
 
@@ -38,23 +44,7 @@ Enabling authorities:
 
 
 
-
-## Estate Taxes and Duties
-
-
-**4** 
-
-- **(1)** Where, upon the death of a member or former member of the Force, any pension or compassionate allowance becomes payable under the Act to a successor, application in writing may be made by or on behalf of the successor to the Minister for payment out of the Consolidated Revenue Fund of the whole or any part of such portion of any estate, legacy, succession or inheritance duties or taxes that are payable by the successor as is attributable to such pension or allowance, and where the Minister directs in accordance with the application that the whole or any part of such duties or taxes so payable shall be paid out of the Consolidated Revenue Fund, the maximum portion of such duties or taxes that may be paid is the proportion thereof that
-	- **(a)** the value of the pension or allowance payable to the successor,
-is of
-	- **(b)** the value of the whole estate,
-calculated in each case for the purpose of determining the said duties or taxes in respect thereof.
-
-- **(2)** Where the Minister makes a direction in accordance with subsection (1), the pension or allowance shall be reduced either for a term, requested by the successor in the application under subsection (1), or during the entire period for which the pension or allowance is payable if the successor fails to make a request in the application under subsection (1) that the pension or allowance be reduced for a term, by one-twelfth of an amount determined by dividing the amount of the said duties or taxes to be paid out of the Consolidated Revenue Fund by the value of an annuity of $1 per annum, payable monthly to a person of the age of the successor at the date of payment of the said duties or taxes out of the Consolidated Revenue Fund, and calculated
-	- **(a)** in the case of a pension or allowance payable to the widow of the person in respect of whose death the pension or allowance is payable, in accordance with a(f) Ultimate Table with interest at the rate of four per cent per annum, and
-	- **(b)** in the case of an annual allowance payable to a child of the person in respect of whose death the pension or allowance is payable, at an interest rate of four per cent per annum, in which case mortality shall not be taken into account.
-
-- **(3)** Where the pension or allowance of a successor is to be or is being reduced under this section for a term and the successor, being the widow of a person in respect of whose death the pension or allowance is payable, remarries before the end of the term and the pension or allowance is suspended, if at any time the pension or allowance is resumed it shall be reduced for a term equal to the term or the balance of the term, as the case may be, during which the pension or allowance would have been reduced had it not been suspended, and such reduction shall be made to the same extent and in the same manner as the pension or allowance was reduced immediately prior to the suspension.
+**4** [Repealed, SOR/2013-125, s. 2]
 
 
 
@@ -122,12 +112,10 @@ calculated in each case for the purpose of determining the said duties or taxes 
 
 **10** 
 
-- **(1)** Notwithstanding section 9, an officer may make an election after the expiration of the period provided for in that section where the officer has received in writing, from a person employed in the Royal Canadian Mounted Police or the Public Service whose ordinary duties included the giving of advice respecting the election,
-	- **(a)** erroneous or misleading information regarding the period during which the officer could make an election; or
-	- **(b)** materially erroneous or misleading information regarding the amount of the reduction of the officer’s pension or the amount of the pension to which the spouse would be entitled.
+- **(1)** Despite section 9, an officer may make the election after the expiration of the period provided for in that section if the officer has received, from an authorized advisor who normally gives information about these matters, erroneous or misleading information regarding the period during which the officer could make an election or materially erroneous or misleading information regarding the amount of the reduction of the officer’s pension or the amount of the pension to which the spouse would be entitled and, in making the election, acted on that information.
 
-- **(2)** An election may be made under subsection (1) not later than three months after the day on which a written notice containing the correct information is sent to the officer.
-> SOR/94-348, s. 1.
+- **(2)** The election may be made not later than three months after the day on which a written notice containing the corrected information is sent to the officer.
+> SOR/94-348, s. 1; SOR/2013-125, s. 3.
 
 
 
@@ -143,10 +131,12 @@ calculated in each case for the purpose of determining the said duties or taxes 
 
 **12** 
 
-- **(1)** An election shall be delivered to the Minister, or to a person designated by the Minister, within the period referred to in section 9 or subsection 10(2), as the case may be.
+- **(1)** An election is valid only if it is sent to the Minister, or to a person designated by the Minister, within the period set out in section 9 or subsection 10(2).
 
-- **(2)** An election is made on the day on which the election is placed in the course of delivery in accordance with subsection (1).
-> SOR/94-348, s. 1.
+- **(2)** An election is made on the day on which it is sent.
+
+- **(3)** The day of the sending of the election is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed and the postmark is evidence of that day.
+> SOR/94-348, s. 1; SOR/2013-125, s. 4.
 
 
 
@@ -155,14 +145,14 @@ calculated in each case for the purpose of determining the said duties or taxes 
 - **(a)** a document that is evidence of the date of birth of the spouse;
 - **(b)** a document that is evidence of the marriage of the officer and the spouse; and
 - **(c)** where the name of the spouse as indicated on a document referred to in paragraph (a) is not the same as the name of the spouse as indicated on a document referred to in paragraph (b), any other document that confirms that the evidence of the birth and the marriage relates to the spouse, or a statutory declaration by which the spouse declares that the documents are in respect of the spouse.
-> SOR/94-348, s. 1.
+> SOR/94-348, s. 1; SOR/2013-125, s. 5(F).
 
 
 
 
 **14** 
 
-- **(1)** For the purposes of section 20.1 of the Act, proof of age of the officer’s spouse is established, subject to subsections (2) and (3), by a birth certificate issued by a civil authority.
+- **(1)** Proof of age of the officer’s spouse is established by a birth certificate issued by a civil authority.
 
 - **(2)** Where a birth certificate referred to in subsection (1) cannot be obtained, proof of age of the spouse is established by
 	- **(a)** a statutory declaration of the spouse in which the spouse attests to the spouse’s date of birth and explains the reasons why the birth certificate cannot be obtained; and
@@ -171,7 +161,7 @@ calculated in each case for the purpose of determining the said duties or taxes 
 		- **(ii)** at least 20 years before the day on which the election is made and that indicates the name of the spouse and the date of birth of the spouse, which document is accompanied by a statutory declaration by which a person, other than the officer or the spouse, attests that the date stated in the document is the correct date of birth of the spouse.
 
 - **(3)** Where a document or statutory declaration referred to in paragraph (2)(b) is to be submitted but cannot be obtained, the statutory declaration referred to in paragraph (2)(a) shall set out the reasons why the document or statutory declaration cannot be obtained.
-> SOR/94-348, s. 1.
+> SOR/94-348, s. 1; SOR/2013-125, s. 6.
 
 
 
@@ -230,24 +220,26 @@ calculated in each case for the purpose of determining the said duties or taxes 
 
 
 
-## Actuarial Assumptions
+## Demographic Assumptions
+> [SOR/2013-125, s. 7]
+
 
 
 **19** 
 
-- **(1)** For the purposes of sections 17 and 18, the following are the only demographic assumptions on which the actuarial values are to be based:
+- **(1)** For the purposes of section 17, the following are the only demographic assumptions on which the actuarial present values are to be based:
 	- **(a)** the rate of mortality for any officer is that set out in the actuarial valuation report laid before Parliament in accordance with section 30 of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), taking into account the mortality projection factors set out in the report;
 	- **(b)** the rates of mortality of surviving spouses are those set out for spouses in the actuarial valuation report laid before Parliament in accordance with section 45 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), taking into account the mortality projection factors set out in the report; and
 	- **(c)** the rates of divorce shall be those established by the Superintendent of Financial Institutions in accordance with the most recent statistics on divorce published by Statistics Canada.
 
 - **(2)** For the purposes of subsection (1), the actuarial valuation reports referred to in that subsection are the most recent actuarial valuation reports, or, where the most recent actuarial valuation reports were tabled less than two months before the day on which the officer made an election, the previously tabled reports.
-> SOR/94-348, s. 1.
+> SOR/94-348, s. 1; SOR/2013-125, s. 8.
 
 
 
 
-**20** For the purposes of the determinations referred to in sections 17 and 18, the rates of interest set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries, effective September 1, 1993, shall be the rates in respect of fully indexed pensions.
-> SOR/94-348, s. 1.
+**20** For the purposes of the determination referred to in section 17, the rates of interest to be used are those determined in respect of fully indexed pensions in accordance with the section entitled “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time.
+> SOR/94-348, s. 1; SOR/2013-125, s. 9.
 
 
 
@@ -259,15 +251,19 @@ calculated in each case for the purpose of determining the said duties or taxes 
 **21** 
 
 - **(1)** An officer who has made an election may revise the level of reduction where
-	- **(a)** the officer, prior to making the election, received in writing, from a person employed in the Royal Canadian Mounted Police or Public Service whose ordinary duties include the giving of advice respecting the election, materially erroneous or misleading information regarding the amount of the reduction of the officer’s pension or the amount of the pension to which the spouse would be entitled; or
+	- **(a)** the officer has received, from an authorized advisor who normally gives information about these matters, materially erroneous or misleading information regarding the amount of the reduction of the officer’s pension or the amount of the pension to which the spouse would be entitled and, in making the election, acted on that information; or
 	- **(b)** the amount of the pension that is payable to the officer is adjusted in accordance with the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md) after the day on which the election was made.
 
-- **(2)** The revision of the level of reduction shall be in writing and shall be delivered to the Minister or to the person designated by the Minister
-	- **(a)** within three months after the day on which a written notice containing the correct information is sent to the officer; or
+- **(2)** The revision of the level of reduction shall be in writing.
+
+- **(3)** The revision is valid only if it is sent to the Minister, or to a person designated by the Minister,
+	- **(a)** within three months after the day on which a written notice containing the corrected information is sent to the officer; or
 	- **(b)** within three months after the day on which the pension is adjusted in accordance with the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md).
 
-- **(3)** A revision of the level of reduction is effective on the day on which it is placed in the course of delivery in accordance with subsection (2).
-> SOR/94-348, s. 1.
+- **(4)** A revision of the level of reduction is effective on the day on which it is sent.
+
+- **(5)** The day of the sending of the revision is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed and the postmark is evidence of that day.
+> SOR/94-348, s. 1; SOR/2013-125, s. 10.
 
 
 
