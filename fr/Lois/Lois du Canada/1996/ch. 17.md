@@ -48,9 +48,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord sur le commerce intérieur signé en 1994 et paru dans la partie I de la Gazette du Canada.
+***Accord*** L’Accord sur le commerce intérieur signé en 1994, avec ses modifications successives.
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, aux termes de l’article 8, de l’application de telle disposition de la présente loi.
+> 1996, ch. 17, art. 2; 2012, ch. 31, art. 299.
+
 
 
 
@@ -127,6 +129,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Ordonnances rendues sous le régime du chapitre 17 de l’Accord
+
+
+
+**Assimilation**
+
+**8.1** 
+
+- **(1)** L’ordonnance relative à une sanction pécuniaire ou l’ordonnance sur les dépens rendue au titre du chapitre 17 de l’Accord peut, uniquement en vue de son exécution, être assimilée à une ordonnance de la Cour fédérale.
+
+**Procédure**
+
+- **(2)** L’assimilation se fait par dépôt au greffe de la Cour fédérale, par la partie à l’Accord ou la personne en faveur de qui l’ordonnance est rendue, d’une copie certifiée conforme de l’ordonnance. Elle s’effectue au moment du dépôt.
+> 2012, ch. 31, art. 300.
+
+
+
+
+
+**Exécution**
+
+**8.2** L’ordonnance assimilée à une ordonnance de la Cour fédérale est exécutoire comme les autres ordonnances de ce tribunal.
+> 2012, ch. 31, art. 300.
+
+
+
+
+
+**Caractère définitif et obligatoire de l’ordonnance**
+
+**8.3** Elle est définitive, non susceptible d’appel et elle lie les parties.
+> 2012, ch. 31, art. 300.
+
+
+
+
+
 ### Décrets
 
 
@@ -135,19 +174,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, aux termes de l’article 1710 de l’Accord, en vue de suspendre des avantages d’une province ou de prendre contre elle des mesures de rétorsion ayant un effet équivalent :
+- **(1)** Le gouverneur en conseil peut, par décret, aux termes de l’article 1709 de l’Accord, en vue de suspendre des avantages d’une province ayant un effet équivalent ou de prendre contre elle des mesures de rétorsion ayant un effet équivalent :
 	- **a)** suspendre les droits ou privilèges que le gouvernement du Canada lui a accordés en vertu de l’Accord ou d’un texte législatif fédéral;
 	- **b)** modifier ou suspendre l’application d’un texte législatif fédéral à son égard.
 
-**Définition de « texte législatif fédéral »**
+**Définition de texte législatif fédéral**
 
 - **(2)** Dans le présent article, ***texte législatif fédéral*** désigne tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
 
 **Décret pris sous réserve du chapitre 17**
 
 - **(3)** Il demeure entendu que le pouvoir de prendre un décret visé au paragraphe (1) ne peut être exercé que dans les limites du chapitre 17 de l’Accord, particulièrement en ce qui a trait :
-	- **a)** aux exigences relatives à l’intérêt pour agir prévues au paragraphe 1704(8) de l’Accord;
-	- **b)** aux conditions et restrictions prévues aux paragraphes 1710(3), (4) et (10) de l’Accord.
+	- **a)** aux exigences relatives à l’intérêt pour agir prévues au paragraphe 1703(8) de l’Accord;
+	- **b)** aux conditions et restrictions prévues aux paragraphes 1709(3), (4) et (10) de l’Accord.
+> 1996, ch. 17, art. 9; 2012, ch. 31, art. 302.
+
 
 
 
@@ -174,9 +215,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Liste de membres**
+**Listes**
 
-**12** Le gouverneur en conseil peut nommer les personnes à inscrire sur la liste de membres prévue à l’article 1705 de l’Accord.
+**12** Le gouverneur en conseil peut nommer, pour inscription sur les listes prévues au paragraphe 1704(2) de l’Accord, des personnes possédant les qualités requises par l’annexe 1704(2) de l’Accord.
+> 1996, ch. 17, art. 12; 2012, ch. 31, art. 303.
+
 
 
 
@@ -205,10 +248,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Examinateur**
+
+**15** Le gouverneur en conseil peut, par décret, nommer à titre d’examinateur pour l’application de la partie B du chapitre 17 de l’Accord, toute personne possédant les qualités requises par cette partie.
+> 1996, ch. 17, art. 15; 2012, ch. 31, art. 304.
+
+
+
+
+
 ## Modifications connexes
 
 
-**15. à 19** [Modifications]
+**16 à 19** [Modifications]
 
 
 
