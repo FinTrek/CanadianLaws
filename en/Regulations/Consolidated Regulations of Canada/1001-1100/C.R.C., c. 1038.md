@@ -3441,15 +3441,15 @@ YELLOW
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)  
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)  
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)  
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)  
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)  
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3481,23 +3481,23 @@ YELLOW
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)  
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)  
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)  
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)  
 
-***plan view reference line*** means, 
+***plan view reference line*** means,  
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)  
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)  
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -5005,9 +5005,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)  
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)  
 
 #### Load Range Identification Symbol
 
@@ -5070,7 +5070,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(5)** Beginning on September 1, 2011, the English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
 “WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
-« *AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé.* »
+« *AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé.* »
 
 #### Technical Standards Document No. 122
 
@@ -5181,7 +5181,16 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 
-**126** [Repealed, SOR/2011-238, s. 3]
+
+### Electronic Stability Control Systems (Standard 126)
+
+**126** 
+
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
+
+- **(2)** This section expires on January 31, 2017.
+> SOR/2013-55, s. 1..
+
 
 
 
@@ -5851,7 +5860,6 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **2** Drawing not to scale
 - **3** Symbol may be embossed
 - **4** Colour of the symbol is at the option of the manufacturer
-- 
 
 </td>
 </tr>
@@ -6487,11 +6495,11 @@ Note: Drawing not to scale
 
 - **(1)** In this section,
 
-***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*) 
+***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*)  
 
-***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*) 
+***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*)  
 
-***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*) 
+***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*)  
 
 - **(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
 	- **(a)** when tested with the seats removed,
@@ -6806,17 +6814,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)  
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)  
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)  
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)  
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)  
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)  
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6847,19 +6855,19 @@ whichever is the higher.
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)  
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes:  
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
 - **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)  
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*)  
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)  
 
 - **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
@@ -6945,33 +6953,33 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)  
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)  
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)  
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)  
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)  
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)  
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)  
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)  
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*) 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*)  
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)  
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)  
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)  
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)  
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)  
 
 ### Application
 
@@ -7486,11 +7494,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)  
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)  
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)  
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
