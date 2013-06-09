@@ -11,7 +11,7 @@ Sanctionnée sur le 20 juin 1996
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -635,6 +635,13 @@ plus de 13 %
 	- **b)** le début de la période visée au paragraphe 23.1(4) a déjà été établi pour le membre de la famille en cause et la demande aurait pour effet de porter le début de cette période à une date antérieure;
 	- **c)** la demande est présentée dans les circonstances prévues par règlement.
 
+**Exception**
+
+- **(5.2)** La demande de prestations présentée au titre de l’article 23.2 relativement à un enfant gravement malade ou à des enfants gravement malades par suite du même événement n’est pas considérée comme ayant été présentée à une date antérieure pour l’application des paragraphes (4) ou (5) si, selon le cas :
+	- **a)** au moment où elle est présentée, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** le début de la période visée au paragraphe 23.2(3) ou (4) a déjà été établi pour l’enfant ou les enfants en cause et la demande aurait pour effet de reporter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
 **Annulation de la période de prestations**
 
 - **(6)** Lorsqu’une période de prestations a été établie au profit d’un prestataire, la Commission peut :
@@ -684,31 +691,18 @@ plus de 13 %
 
 **Prolongation de la période de prestations : prestations spéciales**
 
-- **(13)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)a) à c) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(13)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée, que des prestations pour plus d’une des raisons prévues aux alinéas 12(3)a) à e) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable pour au moins une de ces raisons et que le nombre maximal total de semaines de prestations prévu pour celles-ci est supérieur à cinquante, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal total soit atteint.
 
-**Prolongation de la période de prestations : prestations spéciales**
+- **(13.1) à (13.3)** [Abrogés, 2012, ch. 27, art. 13]
 
-- **(13.1)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)b) à d) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+**Prolongation visée aux paragraphes (10) à (13) : durée maximale**
 
-**Prolongation de la période de prestations : prestations spéciales**
+- **(14)** Sous réserve du paragraphe (15), aucune prolongation au titre de l’un des paragraphes (10) à (13) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
 
-- **(13.2)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)a), b) et d) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+**Prolongation visée au paragraphe (13) : durée maximale**
 
-**Prolongation de la période de prestations : prestations spéciales**
-
-- **(13.3)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues au paragraphe 12(3) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation visée aux paragraphes (10) à (13.3) : durée maximale**
-
-- **(14)** Sous réserve du paragraphe (15), aucune prolongation au titre de l’un des paragraphes (10) à (13.3) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
-
-**Prolongation visée aux paragraphes (13) à (13.3) : durée maximale**
-
-- **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12.1), aucune prolongation ne peut avoir pour effet de porter la durée d’une période de prestations à plus de :
-	- **a)** soixante-sept semaines, dans le cas d’une prolongation au titre du paragraphe (13);
-	- **b)** cinquante-huit semaines, dans le cas d’une prolongation au titre des paragraphes (13.1) ou (13.2);
-	- **c)** soixante-treize semaines, dans le cas d’une prolongation au titre du paragraphe (13.3).
-> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2.
+- **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12.1), aucune prolongation au titre du paragraphe (13) ne peut avoir pour effet de porter la durée de la période de prestations à plus de la somme de deux semaines et du total du nombre maximal de semaines de prestations prévu au paragraphe 12(3) pour les prestations qui ont été versées pour une des raisons prévues aux alinéas 12(3)a) à e) pendant la période de prestations du prestataire avant la prolongation visée au paragraphe (13).
+> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2; 2012, ch. 27, art. 13.
 
 
 
@@ -751,13 +745,14 @@ plus de 13 %
 
 - **(2.1) à (2.4)** [Abrogés, 2009, ch. 30, art. 2]
 
-**Maximum : prestations spéciales**
+**Maximum : prestations spéciales**
 
-- **(3)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au cours d’une période de prestations est :
+- **(3)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au cours d’une période de prestations est :
 	- **a)** dans le cas d’une grossesse, quinze semaines;
 	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés du prestataire ou à un ou plusieurs enfants placés chez le prestataire en vue de leur adoption, 35 semaines;
 	- **c)** dans le cas d’une maladie, d’une blessure ou d’une mise en quarantaine prévue par règlement, quinze semaines;
-	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 23.1(2), six semaines.
+	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 23.1(2), six semaines;
+	- **e)** dans le cas de soins ou de soutien à donner à un ou plusieurs enfants gravement malades visés au paragraphe 23.2(1), trente-cinq semaines.
 
 **Prestations spéciales**
 
@@ -769,7 +764,7 @@ plus de 13 %
 
 **Maximum : prestations de soignant**
 
-- **(4.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de la présente partie — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de la présente partie — relativement au même membre de la famille, les prestations prévues par la présente loi relativement au même membre de la famille ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
+- **(4.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 23.1 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 23.1 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
 
 **Période plus courte**
 
@@ -779,12 +774,17 @@ plus de 13 %
 
 - **(4.3)** Dans le cas où une période plus courte visée au paragraphe (4.2) prend fin relativement à un membre de la famille, le nombre de semaines prévu par règlement doit s’écouler avant que d’autres prestations puissent être payées aux termes de l’article 23.1 relativement à ce membre de la famille.
 
+**Maximum : un enfant gravement malade**
+
+- **(4.4)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 23.2 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 23.2 — pour la même raison et relativement au même enfant gravement malade, les prestations prévues par la présente loi relativement à cet enfant ne peuvent être versées pendant plus de trente-cinq semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 23.2(3)a).
+
+**Maximum : plus d’un enfant gravement malade**
+
+- **(4.5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 23.2 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 23.2 — pour la même raison et relativement aux mêmes enfants gravement malades par suite du même événement, les prestations prévues par la présente loi relativement à ces enfants ne peuvent être versées pendant plus de trente-cinq semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 23.2(4)a).
+
 **Cumul des raisons particulières**
 
-- **(5)** Des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (3), le nombre maximal de semaines de prestations versées au titre de ce paragraphe ne pouvant toutefois dépasser cinquante ou, si la période de prestations est prolongée :
-	- **a)** soixante-cinq, dans le cas d’une prolongation au titre du paragraphe 10(13);
-	- **b)** cinquante-six, dans le cas d’une prolongation au titre des paragraphes 10(13.1) ou (13.2);
-	- **c)** soixante et onze, dans le cas d’une prolongation au titre du paragraphe 10(13.3).
+- **(5)** Des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (3), le nombre maximal de semaines de prestations versées au titre de ce paragraphe ne pouvant toutefois dépasser cinquante ou, si la période de prestations est prolongée au titre du paragraphe 10(13), le nombre maximal de semaines de la période de prestations calculé conformément au paragraphe 10(15) moins deux semaines.
 
 **Cumul général**
 
@@ -795,7 +795,7 @@ plus de 13 %
 **Adoption**
 
 - **(8)** Pour l’application du présent article, le placement auprès d’un prestataire de la première catégorie, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
-> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6.
+> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14.
 
 
 
@@ -1057,7 +1057,7 @@ plus de 13 %
 
 **Semaines pour lesquelles des prestations peuvent être payées**
 
-- **(2)** Sous réserve de l’article 12, les prestations visées au présent article sont payables pour chaque semaine de chômage comprise dans la période qui :
+- **(2)** Sous réserve de l’article 12, les prestations visées au présent article sont payables pour chaque semaine de chômage comprise dans la période qui :
 	- **a)** commence la semaine de la naissance de l’enfant ou des enfants du prestataire ou celle au cours de laquelle le ou les enfants sont réellement placés chez le prestataire en vue de leur adoption;
 	- **b)** se termine cinquante-deux semaines après la semaine de la naissance de l’enfant ou des enfants du prestataire ou celle au cours de laquelle le ou les enfants sont ainsi placés.
 
@@ -1075,30 +1075,17 @@ plus de 13 %
 
 **Prolongation de la période : prestations spéciales**
 
-- **(3.2)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)a) à c) lui ont été versées, mais, en ce qui touche celles versées pour la raison prévue à l’alinéa 12(3)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(3.2)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée, que des prestations pour plus d’une des raisons prévues aux alinéas 12(3)a) à e) lui ont été versées alors que le nombre maximal total de semaines de prestations prévu pour ces raisons est supérieur à cinquante semaines et, en ce qui touche la raison prévue à l’alinéa 12(3)b), que des prestations lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que le nombre maximal de semaines pour la raison prévue à l’alinéa 12(3)b) soit atteint.
 
-**Prolongation de la période : prestations spéciales**
-
-- **(3.21)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)b) à d) lui ont été versées, mais, en ce qui touche celles versées pour la raison prévue à l’alinéa 12(3)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation de la période : prestations spéciales**
-
-- **(3.22)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)a), b) et d) lui ont été versées, mais, en ce qui touche celles versées pour les raisons prévues à l’alinéa 12(3)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation de la période : prestations spéciales**
-
-- **(3.23)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues au paragraphe 12(3) lui ont été versées, mais, en ce qui touche celles versées pour la raison prévue à l’alinéa 12(3)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(3.21) à (3.23)** [Abrogés, 2012, ch. 27, art. 17]
 
 **Restrictions**
 
-- **(3.3)** Aucune prolongation ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de :
-	- **a)** soixante-sept semaines, dans le cas d’une prolongation au titre du paragraphe (3.2);
-	- **b)** cinquante-huit semaines, dans le cas d’une prolongation au titre des paragraphes (3.21) ou (3.22);
-	- **c)** soixante-treize semaines, dans le cas d’une prolongation au titre du paragraphe (3.23).
+- **(3.3)** Aucune prolongation au titre du paragraphe (3.2) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de la durée maximale de la période de prestations calculée conformément au paragraphe 10(15).
 
 **Restrictions**
 
-- **(3.4)** Aucune prolongation au titre des paragraphes 10(10) à (13.3) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
+- **(3.4)** Aucune prolongation au titre des paragraphes 10(10) à (13) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
 
 **Restrictions**
 
@@ -1114,7 +1101,7 @@ plus de 13 %
 
 **Report du délai de carence**
 
-- **(5)** Le prestataire de la première catégorie qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations et qui ne viserait pas des prestations prévues à l’article 22 ou au présent article si, selon le cas :
+- **(5)** Le prestataire de la première catégorie qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations et qui ne viserait pas des prestations prévues à l’article 22 ou au présent article si, selon le cas :
 	- **a)** il a déjà présenté une demande de prestations au titre de l’article 22 ou du présent article relativement au même enfant et a purgé son délai de carence;
 	- **b)** un autre prestataire de la première catégorie a présenté une demande de prestations au titre de l’article 22 ou du présent article relativement au même enfant et est en train de purger ou a déjà purgé son délai de carence;
 	- **c)** un autre prestataire de la première catégorie présente une telle demande relativement au même enfant au même moment que lui et choisit de purger son délai de carence;
@@ -1125,7 +1112,7 @@ plus de 13 %
 - **(6)** Si un prestataire de la première catégorie présente une demande de prestations au titre de l’article 22 ou du présent article et qu’un particulier présente une demande de prestations au titre des articles 152.04 ou 152.05 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
 	- **a)** dans le cas où le prestataire de la première catégorie ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
 	- **b)** dans le cas où le particulier ne l’a pas purgé ou n’a pas choisi de le purger, il peut faire reporter cette obligation en conformité avec l’article 152.05.
-> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7; 2010, ch. 9, art. 3.
+> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7; 2010, ch. 9, art. 3; 2012, ch. 27, art. 17.
 
 
 
@@ -1202,6 +1189,82 @@ plus de 13 %
 
 - **(10)** Si des prestations sont payables à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes lui sont payables en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui lui sont payables en vertu du présent article sont réduites ou supprimées de la manière prévue par règlement.
 > 2003, ch. 15, art. 19; 2009, ch. 33, art. 8.
+
+
+
+
+
+**Prestations — enfant gravement malade**
+
+**23.2** 
+
+- **(1)** Malgré l’article 18, mais sous réserve des autres dispositions du présent article, des prestations doivent être payées au prestataire de la première catégorie qui est le parent d’un enfant gravement malade et qui doit en prendre soin ou lui fournir du soutien si un médecin spécialiste délivre un certificat :
+	- **a)** attestant que l’enfant est un enfant gravement malade et qu’il requiert les soins ou le soutien d’un ou plusieurs de ses parents;
+	- **b)** précisant la période pendant laquelle il requiert les soins ou le soutien.
+
+**Spécialiste de la santé**
+
+- **(2)** Dans les circonstances prévues par règlement, le certificat visé au paragraphe (1) peut être délivré par une personne faisant partie d’une catégorie de spécialistes de la santé prévue par règlement.
+
+**Semaines pour lesquelles des prestations peuvent être payées — un seul enfant**
+
+- **(3)** Sous réserve du paragraphe (4) et de l’article 12, les prestations prévues au présent article doivent être payées pour chaque semaine de chômage comprise dans la période :
+	- **a)** qui commence au début de la semaine au cours de laquelle tombe un des jours suivants :
+		- **(i)** le jour de la délivrance du premier certificat relatif à l’enfant qui satisfait aux conditions du paragraphe (1) et qui est fourni à la Commission,
+		- **(ii)** le jour où le médecin spécialiste atteste que l’enfant est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** qui se termine à la fin de la semaine au cours de laquelle se produit un des événements suivants :
+		- **(i)** les dernières prestations qui peuvent être versées relativement à l’enfant aux termes du présent article sont versées,
+		- **(ii)** l’enfant décède,
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Semaines pour lesquelles des prestations peuvent être payées — plus d’un enfant**
+
+- **(4)** Sous réserve de l’article 12, si plus d’un enfant du prestataire est gravement malade par suite du même événement, les prestations prévues au présent article doivent être payées pour chaque semaine de chômage comprise dans la période :
+	- **a)** qui commence au début de la semaine au cours de laquelle tombe un des jours suivants :
+		- **(i)** le jour de la délivrance du premier certificat relatif à l’un des enfants qui satisfait aux conditions du paragraphe (1) et qui est fourni à la Commission,
+		- **(ii)** le premier jour où le médecin spécialiste atteste que l’un des enfants est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** qui se termine à la fin de la semaine au cours de laquelle se produit un des événements suivants :
+		- **(i)** les dernières prestations qui peuvent être versées relativement aux enfants aux termes du présent article sont versées,
+		- **(ii)** le dernier des enfants décède,
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Exceptions**
+
+- **(5)** Les sous-alinéas (3)a)(ii) ou (4)a)(ii) ne s’appliquent pas à une demande de prestations si, selon le cas :
+	- **a)** au moment où le certificat est fourni à la Commission, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** la première semaine de la période visée au paragraphe (3) ou (4), selon le cas, a déjà été établie et le certificat qui est fourni à la Commission aurait pour effet de reporter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
+**Report du délai de carence — un seul enfant**
+
+- **(6)** Sous réserve du paragraphe (7), le prestataire qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 152.061 relativement au même enfant pendant la période visée au paragraphe (3) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.061 relativement au même enfant au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 152.061 relativement au même enfant, répond aux exigences prévues par règlement.
+
+**Report du délai de carence — plus d’un enfant**
+
+- **(7)** Le prestataire qui présente une demande de prestations au titre du présent article — et dont plus d’un des enfants est gravement malade par suite du même événement — peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 152.061 relativement aux mêmes enfants pendant la période visée au paragraphe (4) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.061 relativement aux mêmes enfants au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 152.061 relativement aux mêmes enfants, répond aux exigences prévues par règlement.
+
+**Partage des semaines de prestations**
+
+- **(8)** Si un prestataire présente une demande de prestations au titre du présent article et qu’un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.061 relativement au même enfant ou aux mêmes enfants gravement malades par suite du même événement, les semaines de prestations à payer au titre du présent article, de l’article 152.061 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre eux, jusqu’à concurrence d’un maximum de trente-cinq semaines. S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations à payer doit être effectué conformément aux règles prévues par règlement.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(9)** Il est entendu que, dans le cas où un prestataire présente une demande de prestations au titre du présent article et où un autre prestataire présente une demande de prestations au titre de l’article 152.061 relativement au même enfant ou aux mêmes enfants gravement malades par suite du même événement, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 152.061 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines.
+
+**Restriction — prestations de soignant**
+
+- **(10)** Aucune prestation visée aux articles 23.1 ou 152.06 n’est à payer à l’égard d’un enfant durant la période visée aux paragraphes (3) ou (4) ou 152.061(3) ou (4) établie à l’égard de cet enfant.
+
+**Restrictions**
+
+- **(11)** Si des prestations doivent être payées à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes doivent lui être payées en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui doivent lui être payées en application du présent article sont réduites ou supprimées de la manière prévue par règlement.
+> 2012, ch. 27, art. 18.
 
 
 
@@ -1858,25 +1921,26 @@ plus de 13 %
 
 **Règlements**
 
-**54** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
+**54** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
 - **a)** prévoyant les conditions auxquelles le délai de carence peut être supprimé au titre de la présente partie ou de la partie VII.1;
 - **b)** définissant ou fixant ce qu’est un jour ouvrable ou une semaine ouvrable dans un emploi quelconque ou pour l’application de la partie VII.1;
 - **c)** prévoyant les conditions et les circonstances dans lesquelles le prestataire est considéré comme ayant ou n’ayant pas effectué une semaine entière de travail pendant qu’il exerce un emploi à titre de travailleur indépendant ou un emploi non assurable, ou lorsque son régime de travail à plein temps diffère du régime de travail normal et habituel de la plupart des personnes qui exercent un emploi;
 - **c.1)** pour l’application de l’alinéa 7.1(6)b), prévoyant la détermination du nombre moyen de semaines à l’égard desquelles des prestations régulières sont versées à un prestataire;
-- **c.2)** prévoyant des circonstances pour l’application des alinéas 10(5.1)c), 23.1(6)c), 152.06(5)c) et 152.11(6)c);
+- **c.2)** prévoyant des circonstances pour l’application des alinéas 10(5.1)c), 10(5.2)c), 23.1(6)c), 23.2(5)c), 152.06(5)c), 152.061(5)c), 152.11(6)c) et 152.11(6.1)c);
 - **d)** définissant ou déterminant qui est un enfant à charge, précisant les critères d’admissibilité liés au revenu familial et déterminant le montant du supplément familial pour l’application des articles 16 ou 152.17;
 - **d.1)** déterminant, pour l’application des paragraphes 19(3) ou 152.18(3), ce qui constitue une période pour laquelle le prestataire a demandé des prestations;
 - **e)** prévoyant la déduction, au titre de l’article 19, de la rémunération et des allocations prévues au paragraphe 19(4);
 - **f)** fixant le montant qui sera déduit, en vertu du paragraphe 20(2), des prestations hebdomadaires versées lorsque le régime normal de travail du prestataire n’est pas la semaine de cinq jours;
 - **f.1)** [Non en vigueur]
 - **f.2)** prévoyant des catégories de personnes pour l’application de l’alinéa 23.1(1)d) et de l’alinéa d) de la définition de ***membre de la famille***, au paragraphe 152.01(1);
-- **f.3)** définissant ou déterminant ce qui constitue des soins ou du soutien pour l’application des alinéas 23.1(2)b) et 152.06(1)b);
-- **f.4)** prévoyant des catégories de spécialistes de la santé pour l’application des paragraphes 23.1(3) et 152.06(2) et les circonstances dans lesquelles un spécialiste de la santé peut délivrer le certificat visé aux paragraphes 23.1(2) ou 152.06(1);
+- **f.21)** définissant ou déterminant ce qu’est un parent, un enfant gravement malade et un médecin spécialiste pour l’application des paragraphes 23.2(1) et 152.061(1);
+- **f.3)** définissant ou déterminant ce qui constitue des soins ou du soutien pour l’application des alinéas 23.1(2)b), 23.2(1)a),152.06(1)b) et 152.061(1)a);
+- **f.4)** prévoyant des catégories de spécialistes de la santé pour l’application des paragraphes 23.1(3), 23.2(2), 152.06(2) et 152.061(2) et les circonstances dans lesquelles un spécialiste de la santé peut délivrer le certificat visé aux paragraphes 23.1(2), 23.2(1), 152.06(1) ou 152.061(1);
 - **f.5)** prévoyant une période plus courte pour l’application des paragraphes 23.1(5) et 152.06(4) et un nombre de semaines pour l’application des paragraphes 12(4.3) et 152.14(7);
-- **f.6)** prévoyant des exigences pour l’application des alinéas 23.1(7)c) et 152.06(6)c);
-- **f.7)** prévoyant les règles relatives au partage des semaines de prestations pour l’application du paragraphe 23.1(9);
+- **f.6)** prévoyant des exigences pour l’application des alinéas 23.1(7)c), 23.2(6)c), 23.2(7)c), 152.06(6)c), 152.061(6)c) et 152.061(7)c);
+- **f.7)** prévoyant les règles relatives au partage des semaines de prestations pour l’application des paragraphes 23.1(9), 23.2(8) et 152.061(8);
 - **g)** prévoyant, pour l’application de l’article 36, les circonstances qui constituent le début ou la fin d’un arrêt de travail;
-- **g.1)** qualifiant de contravention grave, pour l’application du paragraphe 39(5), ce qui constitue un acte délictueux au titre du paragraphe 39(1) ou (3), et prévoyant le montant ou le mode de calcul de la pénalité afférente, ou le montant maximal de celle-ci, dont la valeur ne peut dépasser 25 000 $;
+- **g.1)** qualifiant de contravention grave, pour l’application du paragraphe 39(5), ce qui constitue un acte délictueux au titre du paragraphe 39(1) ou (3), et prévoyant le montant ou le mode de calcul de la pénalité afférente, ou le montant maximal de celle-ci, dont la valeur ne peut dépasser 25 000 $;
 - **h)** prévoyant la formulation de demandes par une personne ou un organisme et le versement de prestations à une personne ou un organisme, pour le compte de personnes décédées ou frappées d’incapacité ou de handicapés mentaux;
 - **i)** imposant des modalités supplémentaires en matière de versement et de bénéfice des prestations et restreignant le montant ou la période de versement des prestations pour les personnes qui, selon l’usage en vigueur dans leur occupation, branche d’activité ou industrie ou conformément à la convention intervenue entre elles et un employeur, sont payées en tout ou en partie aux pièces ou en fonction d’un autre critère que le temps;
 - **j)** interdisant le paiement de prestations, en tout ou en partie, et restreignant le montant des prestations payables pour les personnes, les groupes ou les catégories de personnes qui travaillent ou ont travaillé pendant une fraction quelconque d’une année dans le cadre d’une industrie ou d’une occupation dans laquelle, de l’avis de la Commission, il y a une période qui survient annuellement à des intervalles réguliers ou irréguliers durant laquelle aucun travail n’est exécuté, par un nombre important de personnes, à l’égard d’une semaine quelconque ou de toutes les semaines comprises dans cette période;
@@ -1896,21 +1960,21 @@ plus de 13 %
 - **v)** prévoyant les conditions auxquelles des prestations peuvent être versées d’avance;
 - **w)** identifiant des régions pour l’application de la présente partie et de la partie VIII et délimitant ces régions selon des unités géographiques établies ou utilisées par Statistique Canada;
 - **x)** fixant les taux régionaux de chômage produits par Statistique Canada ou les moyennes de ces taux qui s’appliquent à un prestataire pour l’application de la présente partie et de la partie VIII en tenant compte, dans ces taux, d’une estimation des taux de chômage des Indiens inscrits vivant dans les réserves indiennes;
-- **y)** prévoyant les renseignements et les preuves que doit fournir le prestataire pour établir :
+- **y)** prévoyant les renseignements et les preuves que doit fournir le prestataire pour établir :
 	- **(i)** son incapacité à travailler par suite d’une maladie, d’une blessure ou d’une mise en quarantaine,
 	- **(ii)** la grossesse ou la date présumée de l’accouchement;
-- **z)** concernant l’application de l’article 14 et prévoyant, notamment :
-	- **(i)** les circonstances, les critères et les modalités devant servir :
+- **z)** concernant l’application de l’article 14 et prévoyant, notamment :
+	- **(i)** les circonstances, les critères et les modalités devant servir :
 		- **(A)** à l’établissement ou au calcul des semaines et du nombre de semaines à l’égard desquelles le prestataire a reçu une rémunération assurable au cours de sa période de calcul,
 		- **(B)** à l’établissement ou au calcul du montant à considérer comme rémunération assurable pour toute semaine ou tout nombre de semaines au cours de cette période,
 	- **(ii)** la répartition — entre autres l’inclusion ou l’exclusion — sur une période de calcul de tout ou partie de la rémunération assurable;
 - **z.1)** prévoyant la répartition — notamment l’inclusion ou l’exclusion — sur une période de référence de tout ou partie des heures d’emploi assurable;
-- **z.2)** prévoyant :
+- **z.2)** prévoyant :
 	- **(i)** d’une part, les circonstances dans lesquelles le prestataire qui quitte son emploi, dans le cadre d’une compression du personnel effectuée par l’employeur et ayant pour effet de protéger l’emploi d’autres employés, peut, malgré l’article 30, recevoir des prestations,
 	- **(ii)** d’autre part, en quoi consiste une compression du personnel pour l’application des règlements;
 - **z.3)** réduisant les prestations spéciales lorsque des allocations, prestations ou autres sommes sont payables à un prestataire en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale;
 - **z.4)** en vue de toute mesure d’ordre réglementaire prévue par l’article 2 ou la présente partie.
-> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20; 2009, ch. 33, art. 9; 2012, ch. 19, art. 608.
+> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20; 2009, ch. 33, art. 9; 2012, ch. 19, art. 608, ch. 27, art. 19.
 
 
 
@@ -2332,19 +2396,19 @@ plus de 13 %
 
 
 
-**Réduction de la cotisation patronale : régimes d’assurance-salaire**
+**Réduction de la cotisation patronale : régimes d’assurance-salaire**
 
 **69** 
 
-- **(1)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction de la cotisation patronale lorsque le paiement d’allocations, de prestations ou d’autres sommes en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale, qui couvre des assurés exerçant un emploi au service d’un employeur, aurait pour effet de réduire les prestations spéciales payables à ces assurés si ces assurés exerçant un emploi au service de l’employeur obtiennent une fraction de la réduction de la cotisation patronale égale à cinq douzièmes au moins de cette réduction.
+- **(1)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction de la cotisation patronale lorsque le paiement d’allocations, de prestations ou d’autres sommes en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille ou en cas de maladie grave d’un enfant en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale, qui couvre des assurés exerçant un emploi au service d’un employeur, aurait pour effet de réduire les prestations spéciales à payer à ces assurés si ces assurés exerçant un emploi au service de l’employeur obtiennent une fraction de la réduction de la cotisation patronale égale à cinq douzièmes au moins de cette réduction.
 
 **Régimes provinciaux**
 
-- **(2)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction des cotisations patronale et ouvrière, des cotisations prévues par la partie VII.1 ou de toutes ces cotisations lorsque le paiement d’allocations, de prestations ou d’autres sommes à des assurés ou des travailleurs indépendants en vertu d’une loi provinciale en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille aurait pour effet de réduire ou de supprimer les prestations spéciales auxquelles ces assurés auraient droit ou les prestations auxquelles ces travailleurs indépendants auraient droit.
+- **(2)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction des cotisations patronale et ouvrière, des cotisations prévues par la partie VII.1 ou de toutes ces cotisations lorsque le paiement d’allocations, de prestations ou d’autres sommes à des assurés ou des travailleurs indépendants en vertu d’une loi provinciale en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille ou en cas de maladie grave d’un enfant aurait pour effet de réduire ou de supprimer les prestations spéciales auxquelles ces assurés auraient droit ou les prestations auxquelles ces travailleurs indépendants auraient droit.
 
 **Règlements**
 
-- **(3)** Ces règlements peuvent comprendre des dispositions :
+- **(3)** Ces règlements peuvent comprendre des dispositions :
 	- **a)** prévoyant la manière de présenter une demande de réduction du taux de cotisation et le moment pour le faire;
 	- **b)** prévoyant les normes auxquelles doit satisfaire un régime pour ouvrir droit à une réduction du taux de cotisation et la période durant laquelle ce régime doit être en vigueur;
 	- **c)** prévoyant la méthode de détermination du montant de la réduction pour les régimes qui satisfont aux normes prévues par règlement et l’utilisation qui doit être faite des calculs et estimations actuariels;
@@ -2364,7 +2428,11 @@ plus de 13 %
 **Définition**
 
 - **(6)** Le renvoi, aux paragraphes (1) et (2), au paiement d’allocations, de prestations ou d’autres sommes à des assurés en cas de soins à donner aux membres de la famille s’entend du paiement d’allocations, de prestations ou d’autres sommes pour des raisons qui sont les mêmes ou essentiellement les mêmes que celles pour lesquelles des prestations peuvent être payées aux termes de l’article 23.1.
-> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22; 2005, ch. 38, art. 138; 2009, ch. 33, art. 10.
+
+**Renvoi**
+
+- **(7)** Le renvoi, aux paragraphes (1) et (2), au paiement d’allocations, de prestations ou d’autres sommes à des assurés en cas de maladie grave d’un enfant s’entend du paiement d’allocations, de prestations ou d’autres sommes pour des raisons qui sont les mêmes ou essentiellement les mêmes que celles pour lesquelles des prestations peuvent être payées aux termes de l’article 23.2.
+> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22; 2005, ch. 38, art. 138; 2009, ch. 33, art. 10; 2012, ch. 27, art. 20.
 
 
 
@@ -4319,30 +4387,17 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Prolongation de la période**
 
-- **(5)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à c) mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation de la période**
-
-- **(6)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)b) à d) mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation de la période**
-
-- **(7)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)a), b) et d), mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation de la période**
-
-- **(8)** Si, au cours de sa période de prestations, des prestations ont été versées pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à d) mais, en ce qui touche celles versées à un travailleur indépendant pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(5)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour plus d’une des raisons mentionnées aux alinéas 152.14(1)a) à e) alors que le nombre maximal total de semaines de prestations prévu pour ces raisons est supérieur à cinquante semaines et, en ce qui touche la raison mentionnée à l’alinéa 152.14(1)b), que des prestations lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que le nombre maximal de semaines pour la raison prévue à l’alinéa 152.14(1)b) soit atteint.
 
 **Restrictions**
 
-- **(9)** Aucune prolongation ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de :
-	- **a)** soixante-sept semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (5);
-	- **b)** cinquante-huit semaines, dans le cas d’une prolongation découlant de l’application des paragraphes (6) ou (7);
-	- **c)** soixante-treize semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (8).
+- **(6)** Aucune prolongation découlant de l’application du paragraphe (5) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de la durée maximale de la période de prestations calculée conformément au paragraphe 152.11(16).
 
 **Restrictions**
 
-- **(10)** Aucune prolongation découlant de l’application de l’un des paragraphes 152.11(11) à (17) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
+- **(7)** Aucune prolongation découlant de l’application de l’un des paragraphes 152.11(11) à (14) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
+
+- **(8) à (10)** [Abrogés, 2012, ch. 27, art. 22]
 
 **Restrictions**
 
@@ -4369,7 +4424,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 - **(15)** Si un travailleur indépendant présente une demande de prestations au titre de la présente partie et qu’une autre personne présente une demande de prestations au titre des articles 22 ou 23 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
 	- **a)** dans le cas où le travailleur indépendant ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
 	- **b)** dans le cas où la personne qui présente une demande de prestations au titre des articles 22 ou 23 ne l’a pas purgé ou n’a pas choisi de le purger, elle peut faire reporter cette obligation en conformité avec l’article 23.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 22.
 
 
 
@@ -4432,6 +4487,82 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 - **(9)** Si des prestations doivent être payées à un travailleur indépendant pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes doivent lui être payées au titre d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations à payer au titre du présent article sont réduites ou supprimées de la manière prévue par règlement.
 > 2009, ch. 33, art. 16.
+
+
+
+
+
+**Prestations — enfant gravement malade**
+
+**152.061** 
+
+- **(1)** Sous réserve de la présente partie, des prestations doivent être payées au travailleur indépendant qui est le parent d’un enfant gravement malade et qui doit en prendre soin ou lui fournir du soutien si un médecin spécialiste délivre un certificat :
+	- **a)** attestant que l’enfant est un enfant gravement malade et qu’il requiert les soins ou le soutien d’un ou plusieurs de ses parents;
+	- **b)** précisant la période pendant laquelle il requiert les soins ou le soutien.
+
+**Spécialiste de la santé**
+
+- **(2)** Dans les circonstances prévues par règlement, le certificat visé au paragraphe (1) peut être délivré par une personne faisant partie d’une catégorie de spécialistes de la santé prévue par règlement.
+
+**Semaines pour lesquelles des prestations peuvent être payées — un seul enfant**
+
+- **(3)** Sous réserve du paragraphe (4) et de l’article 152.14, les prestations prévues au présent article doivent être payées pour chaque semaine de chômage comprise dans la période :
+	- **a)** qui commence au début de la semaine au cours de laquelle tombe un des jours suivants :
+		- **(i)** le jour de la délivrance du premier certificat relatif à l’enfant qui satisfait aux conditions du paragraphe (1) et qui est fourni à la Commission,
+		- **(ii)** le jour où le médecin spécialiste atteste que l’enfant est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** qui se termine à la fin de la semaine au cours de laquelle un des événements ci-après se produit :
+		- **(i)** les dernières prestations qui peuvent être versées relativement à l’enfant aux termes du présent article sont versées,
+		- **(ii)** l’enfant décède,
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Semaines pour lesquelles des prestations peuvent être payées — plus d’un enfant**
+
+- **(4)** Sous réserve de l’article 152.14, si plus d’un enfant du travailleur indépendant est gravement malade par suite du même événement, les prestations prévues au présent article doivent être payées pour chaque semaine de chômage comprise dans la période :
+	- **a)** qui commence au début de la semaine au cours de laquelle tombe un des jours suivants :
+		- **(i)** le jour de la délivrance du premier certificat relatif à l’un des enfants qui satisfait aux conditions du paragraphe (1) et qui est fourni à la Commission,
+		- **(ii)** le premier jour où le médecin spécialiste atteste que l’un des enfants est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** qui se termine à la fin de la semaine au cours de laquelle un des événements ci-après se produit :
+		- **(i)** les dernières prestations qui peuvent être versées relativement aux enfants aux termes du présent article sont versées,
+		- **(ii)** le dernier des enfants décède,
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Exceptions**
+
+- **(5)** Les sous-alinéas (3)a)(ii) ou (4)a)(ii) ne s’appliquent pas à une demande de prestations si, selon le cas :
+	- **a)** au moment où le certificat est fourni à la Commission, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** la première semaine de la période visée au paragraphe (3) ou (4), selon le cas, a déjà été établie et le certificat qui est fourni à la Commission aurait pour effet de reporter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
+**Report du délai de carence — un seul enfant**
+
+- **(6)** Sous réserve du paragraphe (7), le travailleur indépendant qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 23.2 relativement au même enfant pendant la période visée au paragraphe (3) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 23.2 relativement au même enfant au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 23.2 relativement au même enfant, répond aux exigences prévues par règlement.
+
+**Report du délai de carence — plus d’un enfant**
+
+- **(7)** Le travailleur indépendant qui présente une demande de prestations au titre du présent article — et dont plus d’un des enfants est gravement malade par suite du même événement — peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 23.2 relativement aux mêmes enfants pendant la période visée au paragraphe (4) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 23.2 relativement aux mêmes enfants au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 23.2 relativement aux mêmes enfants, répond aux exigences prévues par règlement.
+
+**Partage des semaines de prestations**
+
+- **(8)** Si un travailleur indépendant présente une demande de prestations au titre du présent article et qu’une autre personne présente une demande de prestations au titre du présent article ou de l’article 23.2 relativement au même enfant ou aux mêmes enfants gravement malades par suite du même événement, les semaines de prestations à payer au titre du présent article, de l’article 23.2 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre eux, jusqu’à concurrence d’un maximum de trente-cinq semaines. S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations à payer doit être effectué conformément aux règles prévues par règlement.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(9)** Il est entendu que, dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23.2 relativement au même enfant ou aux mêmes enfants gravement malades par suite du même événement, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 23.2 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines.
+
+**Restriction — prestations de soignant**
+
+- **(10)** Aucune prestation visée aux articles 23.1 ou 152.06 n’est à payer à l’égard d’un enfant durant la période visée aux paragraphes (3) ou (4) ou 23.2(3) ou (4) établie à l’égard de cet enfant.
+
+**Restrictions**
+
+- **(11)** Si des prestations doivent être payées à un travailleur indépendant pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes doivent lui être payées en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui doivent lui être payées en vertu du présent article sont réduites ou supprimées de la manière prévue par règlement.
+> 2012, ch. 27, art. 23.
 
 
 
@@ -4579,6 +4710,13 @@ Est exclu de la présente définition tout particulier visé par les règlements
 	- **b)** le début de la période visée au paragraphe 152.06(3) a déjà été établi pour le membre de la famille en cause et la demande aurait pour effet de porter le début de cette période à une date antérieure;
 	- **c)** la demande est présentée dans les circonstances prévues par règlement.
 
+**Exception**
+
+- **(6.1)** La demande de prestations présentée au titre de l’article 152.061 relativement à un enfant gravement malade ou à des enfants gravement malades par suite du même événement n’est pas considérée comme ayant été présentée à une date antérieure pour l’application des paragraphes (4) ou (5) si, selon le cas :
+	- **a)** au moment où elle est présentée, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** le début de la période visée au paragraphe 152.061(3) ou (4) a déjà été établi pour l’enfant ou les enfants en cause et la demande aurait pour effet de reporter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
 **Annulation de la période de prestations**
 
 - **(7)** Lorsqu’une période de prestations a été établie au profit d’un travailleur indépendant, la Commission peut :
@@ -4623,31 +4761,18 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Prolongation de la période de prestations**
 
-- **(14)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à c), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(14)** Si, au cours de la période de prestations d’un travailleur indépendant, des prestations pour plus d’une des raisons prévues aux alinéas 152.14(1)a) à e) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable pour au moins une de ces raisons et que le nombre maximal total de semaines de prestations prévu pour celles-ci est supérieur à cinquante, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal total soit atteint.
 
-**Prolongation de la période de prestations**
+**Prolongation prévue aux paragraphes (11) à (14) : durée maximale**
 
-- **(15)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)b) à d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(15)** Sous réserve du paragraphe (16), aucune prolongation au titre de l’un des paragraphes (11) à (14) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
 
-**Prolongation de la période de prestations**
+**Prolongation visée au paragraphe (14) : durée maximale**
 
-- **(16)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a), b) et d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+- **(16)** À moins que la période de prestations ne soit prolongée au titre de l’un des paragraphes (11) à (13), aucune prolongation au titre du paragraphe (14) ne peut avoir pour effet de porter la durée de la période de prestations à plus de la somme de deux semaines et du total du nombre maximal de semaines de prestations prévu au paragraphe 152.14(1) pour les prestations qui ont été versées pour une des raisons prévues aux alinéas 152.14(1)a) à e) pendant la période de prestations du travailleur indépendant avant la prolongation visée au paragraphe (14).
 
-**Prolongation de la période de prestations**
-
-- **(17)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
-
-**Prolongation prévue aux paragraphes (11) à (17) : durée maximale**
-
-- **(18)** Sous réserve du paragraphe (19), aucune prolongation prévue à l’un des paragraphes (11) à (17) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
-
-**Prolongation prévue aux paragraphes (14) à (17) : durée maximale**
-
-- **(19)** À moins que la période de prestations ne soit prolongée au titre de l’un des paragraphes (11) à (13), aucune prolongation ne peut avoir pour effet de porter la durée d’une période de prestations à plus de :
-	- **a)** soixante-sept semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (14);
-	- **b)** cinquante-huit semaines, dans le cas d’une prolongation découlant de l’application des paragraphes (15) ou (16);
-	- **c)** soixante-treize semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (17).
-> 2009, ch. 33, art. 16.
+- **(17) à (19)** [Abrogés, 2012, ch. 27, art. 24]
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 24.
 
 
 
@@ -4683,7 +4808,8 @@ Est exclu de la présente définition tout particulier visé par les règlements
 	- **a)** dans le cas d’une grossesse, quinze semaines;
 	- **b)** dans le cas de soins à donner par le travailleur indépendant à son ou ses nouveau-nés ou à un ou plusieurs enfants placés chez celui-ci en vue de leur adoption, trente-cinq semaines;
 	- **c)** dans le cas d’une maladie, d’une blessure ou d’une mise en quarantaine prévue par règlement, quinze semaines;
-	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 152.06(1), six semaines.
+	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 152.06(1), six semaines;
+	- **e)** dans le cas de soins ou de soutien à donner à un ou plusieurs enfants gravement malades visés au paragraphe 152.061(1), trente-cinq semaines.
 
 **Maximum : cas d’une seule et même grossesse ou du placement de l’enfant**
 
@@ -4701,7 +4827,15 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Maximum : prestations de soignant**
 
-- **(5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de la présente partie — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de la présente partie — relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 152.06(3)a).
+- **(5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 152.06 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 152.06 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 152.06(3)a).
+
+**Maximum : un enfant gravement malade**
+
+- **(5.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 152.061 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 152.061 — pour la même raison et relativement au même enfant gravement malade, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de trente-cinq semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 152.061(3)a).
+
+**Maximum : plus d’un enfant gravement malade**
+
+- **(5.2)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 152.061 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 152.061 — pour la même raison et relativement aux mêmes enfants gravement malades par suite du même événement, les prestations prévues par la présente loi relativement à ces enfants ne peuvent être versées pendant plus de trente-cinq semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 152.061(4)a).
 
 **Période plus courte**
 
@@ -4713,11 +4847,8 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Cumul des raisons particulières**
 
-- **(8)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (1). Toutefois, le nombre maximal de semaines de prestations pour lesquelles elles peuvent être versées au titre de ce paragraphe ne peut dépasser cinquante ou, si la période de prestations est prolongée :
-	- **a)** soixante-cinq, dans le cas d’une prolongation découlant de l’application du paragraphe 152.11(14);
-	- **b)** cinquante-six, dans le cas d’une prolongation découlant de l’application des paragraphes 152.11(15) ou (16);
-	- **c)** soixante et onze, dans le cas d’une prolongation découlant de l’application du paragraphe 152.11(17).
-> 2009, ch. 33, art. 16.
+- **(8)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (1). Toutefois, le nombre maximal de semaines de prestations pour lesquelles elles peuvent être versées au titre de ce paragraphe ne peut dépasser cinquante ou, si la période de prestations est prolongée au titre du paragraphe 152.11(14), le nombre maximal de semaines de la période de prestations calculé conformément au paragraphe 152.11(16) moins deux semaines.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 25.
 
 
 
