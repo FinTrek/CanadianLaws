@@ -5183,7 +5183,16 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-**126** [Abrogé, DORS/2011-238, art. 3]
+
+### Systèmes de contrôle électronique de la stabilité (Norme 126)
+
+**126** 
+
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
+
+- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2017.
+> DORS/2013-55, art. 1..
+
 
 
 
