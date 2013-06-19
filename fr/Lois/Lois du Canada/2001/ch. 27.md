@@ -128,7 +128,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** au contrôle des personnes aux points d’entrée;
 	- **b)** aux mesures d’exécution de la présente loi, notamment en matière d’arrestation, de détention et de renvoi;
 	- **c)** à l’établissement des orientations en matière d’exécution de la présente loi et d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou pour activités de criminalité organisée;
-	- **d)** à la prise des décisions au titre des paragraphes 34(2), 35(2) ou 37(2).
+	- **d)** aux déclarations visées à l’article 42.1.
 
 **Compétence du ministre des Ressources humaines et du Développement des compétences**
 
@@ -143,7 +143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(4)** Tout décret pris pour l’application du paragraphe (3) est publié dans la partie II de la Gazette du Canada.
-> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701.
+> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701; 2013, ch. 16, art. 2.
 
 
 
@@ -190,8 +190,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Restriction**
 
-- **(3)** Ne peuvent toutefois être déléguées les attributions conférées par les paragraphes 20.1(1) ou 77(1) et la prise de décision au titre des paragraphes 34(2) ou 35(2) ou de l’alinéa 37(2)a).
-> 2001, ch. 27, art. 6; 2012, ch. 17, art. 3.
+- **(3)** Ne peuvent toutefois être déléguées les attributions conférées par le paragraphe 20.1(1), l’article 22.1 et les paragraphes 42.1(1) et (2) et 77(1).
+> 2001, ch. 27, art. 6; 2012, ch. 17, art. 3; 2013, ch. 16, art. 3 et 36.
 
 
 
@@ -409,6 +409,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** le parrainage;
 	- **e.1)** les engagements ainsi que la sanction découlant de leur inobservation;
 	- **f)** les garanties à remettre au ministre pour le respect des obligations découlant de la présente loi;
+	- **f.1)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des engagements;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
 
 **Autorisation de voyage électronique**
@@ -421,7 +422,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les cas où l’étranger est exempté de l’obligation de suivre la procédure prévue au titre de cet article;
 	- **b)** les cas où l’étranger n’a pas à fournir certains renseignements biométriques;
 	- **c)** le traitement des renseignements biométriques recueillis, notamment la création d’un modèle biométrique et la conversion des renseignements en format numérique biométrique.
-> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313.
+> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313; 2013, ch. 16, art. 4.
 
 
 
@@ -520,14 +521,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’auteur d’une demande au titre de la présente loi doit répondre véridiquement aux questions qui lui sont posées lors du contrôle, donner les renseignements et tous éléments de preuve pertinents et présenter les visa et documents requis.
 
+**Obligation de se soumettre au contrôle**
+
+- **(1.1)** L’auteur d’une demande au titre de la présente loi doit, à la demande de l’agent, se soumettre au contrôle.
+
 **Éléments de preuve**
 
 - **(2)** S’agissant de l’étranger, les éléments de preuve pertinents visent notamment la photographie et la dactyloscopie et, sous réserve des règlements, il est tenu de se soumettre à une visite médicale.
 
+**Obligation — entrevue**
+
+- **(2.1)** L’étranger qui présente une demande au titre de la présente loi doit, sur demande de l’agent, se présenter à toute entrevue menée par le Service canadien du renseignement de sécurité dans le cadre d’une enquête visée à l’article 15 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md) en vue de fournir au ministre les conseils visés à l’article 14 de cette loi ou de lui transmettre les informations visées à cet article. L’étranger doit répondre véridiquement aux questions qui lui sont posées pendant cette entrevue.
+
 **Établissement de l’identité**
 
 - **(3)** L’agent peut exiger ou obtenir du résident permanent ou de l’étranger qui fait l’objet d’une arrestation, d’une mise en détention, d’un contrôle ou d’une mesure de renvoi tous éléments, dont la photographie et la dactyloscopie, en vue d’établir son identité et vérifier s’il se conforme à la présente loi.
-> 2001, ch. 27, art. 16; 2010, ch. 8, art. 2.
+> 2001, ch. 27, art. 16; 2010, ch. 8, art. 2; 2013, ch. 16, art. 5.
 
 
 
@@ -728,7 +737,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Sous réserve du paragraphe (1.2), le ministre doit, sur demande d’un étranger se trouvant au Canada qui demande le statut de résident permanent et qui soit est interdit de territoire, soit ne se conforme pas à la présente loi, et peut, sur demande d’un étranger se trouvant hors du Canada qui demande un visa de résident permanent, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
+- **(1)** Sous réserve du paragraphe (1.2), le ministre doit, sur demande d’un étranger se trouvant au Canada qui demande le statut de résident permanent et qui soit est interdit de territoire — sauf si c’est en raison d’un cas visé aux articles 34, 35 ou 37 —, soit ne se conforme pas à la présente loi, et peut, sur demande d’un étranger se trouvant hors du Canada — sauf s’il est interdit de territoire au titre des articles 34, 35 ou 37 — qui demande un visa de résident permanent, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
 
 **Réserve — étranger désigné**
 
@@ -774,7 +783,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères provinciaux**
 
 - **(2)** Le statut de résident permanent ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
-> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4; 2012, ch. 17, art. 13.
+> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4; 2012, ch. 17, art. 13; 2013, ch. 16, art. 9 et 36.
 
 
 
@@ -784,7 +793,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25.1** 
 
-- **(1)** Le ministre peut, de sa propre initiative, étudier le cas de l’étranger qui est interdit de territoire ou qui ne se conforme pas à la présente loi; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
+- **(1)** Le ministre peut, de sa propre initiative, étudier le cas de l’étranger qui est interdit de territoire — sauf si c’est en raison d’un cas visé aux articles 34, 35 ou 37 — ou qui ne se conforme pas à la présente loi; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
 
 **Dispense**
 
@@ -793,7 +802,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères provinciaux**
 
 - **(3)** Le statut de résident permanent ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
-> 2010, ch. 8, art. 5.
+> 2010, ch. 8, art. 5; 2013, ch. 16, art. 10.
 
 
 
@@ -827,12 +836,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **26** Les règlements régissent l’application des articles 18 à 25.2 et portent notamment sur :
 - **a)** l’entrée, la faculté de rentrer et le séjour;
 - **b)** le statut de résident permanent ou temporaire, et notamment l’acquisition du statut;
+- **b.1)** la déclaration visée au paragraphe 22.1(1);
 - **c)** les cas dans lesquels il peut être tenu compte de tout ou partie des circonstances visées à l’article 24;
 - **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
 - **d.1)** les engagements qui peuvent ou doivent être obtenus à l’égard des demandes faites au titre du paragraphe 25(1) ou ceux mentionnés au paragraphe 25.2(4), ainsi que la sanction découlant de leur inobservation;
 - **d.2)** la détermination de recevabilité mentionnée au paragraphe 25.2(4);
 - **e)** les garanties à fournir au ministre pour l’exécution de la présente loi.
-> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6; 2012, ch. 17, art. 15.
+> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6; 2012, ch. 17, art. 15; 2013, ch. 16, art. 11.
 
 
 
@@ -984,12 +994,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les critères de sélection applicables aux diverses catégories d’étrangers, et aux membres de leur famille, ainsi que les méthodes d’appréciation de tout ou partie de ces critères;
 - **c)** les éléments visés à l’alinéa b) sur lesquels les personnes ou organismes désignés devront ou pourront prendre des décisions ou faire des recommandations;
 - **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie, notamment quant à l’exercice d’une activité professionnelle et d’études;
-- **d.1)** à l’égard de l’autorisation d’un étranger de travailler au Canada — y compris d’un permis de travail —, les exigences qui peuvent ou doivent être imposées à l’employeur en cause, ou être modifiées ou levées;
-- **d.2)** les pouvoirs d’inspection, à des fins de vérification du respect des exigences imposées à un employeur à l’égard du permis de travail d’un étranger autorisant celui-ci à travailler au Canada temporairement;
-- **d.3)** les conséquences du non-respect des exigences visées à l’alinéa d.2);
+- **d.1)** les conditions qui peuvent ou doivent être, quant à toute personne ou entité, notamment des employeurs et des établissements d’enseignement, imposées, modifiées ou levées, individuellement ou par catégorie, relativement aux résidents permanents et aux étrangers;
+- **d.2)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des conditions imposées en vertu des alinéas d) et d.1);
+- **d.3)** les conséquences du non-respect des conditions visées aux alinéas d) et d.1);
 - **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
 - **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
-> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705.
+> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37.
 
 
 
@@ -1012,16 +1022,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **34** 
 
 - **(1)** Emportent interdiction de territoire pour raison de sécurité les faits suivants :
-	- **a)** être l’auteur d’actes d’espionnage ou se livrer à la subversion contre toute institution démocratique, au sens où cette expression s’entend au Canada;
+	- **a)** être l’auteur de tout acte d’espionnage dirigé contre le Canada ou contraire aux intérêts du Canada;
 	- **b)** être l’instigateur ou l’auteur d’actes visant au renversement d’un gouvernement par la force;
+	- **b.1)** se livrer à la subversion contre toute institution démocratique, au sens où cette expression s’entend au Canada;
 	- **c)** se livrer au terrorisme;
 	- **d)** constituer un danger pour la sécurité du Canada;
 	- **e)** être l’auteur de tout acte de violence susceptible de mettre en danger la vie ou la sécurité d’autrui au Canada;
-	- **f)** être membre d’une organisation dont il y a des motifs raisonnables de croire qu’elle est, a été ou sera l’auteur d’un acte visé aux alinéas a), b) ou c).
+	- **f)** être membre d’une organisation dont il y a des motifs raisonnables de croire qu’elle est, a été ou sera l’auteur d’un acte visé aux alinéas a), b), b.1) ou c).
 
-**Exception**
+- **(2)** [Abrogé, 2013, ch. 16, art. 13]
+> 2001, ch. 27, art. 34; 2013, ch. 16, art. 13.
 
-- **(2)** Ces faits n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national.
 
 
 
@@ -1035,9 +1046,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** occuper un poste de rang supérieur — au sens du règlement — au sein d’un gouvernement qui, de l’avis du ministre, se livre ou s’est livré au terrorisme, à des violations graves ou répétées des droits de la personne ou commet ou a commis un génocide, un crime contre l’humanité ou un crime de guerre au sens des paragraphes 6(3) à (5) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md);
 	- **c)** être, sauf s’agissant du résident permanent, une personne dont l’entrée ou le séjour au Canada est limité au titre d’une décision, d’une résolution ou d’une mesure d’une organisation internationale d’États ou une association d’États dont le Canada est membre et qui impose des sanctions à l’égard d’un pays contre lequel le Canada a imposé — ou s’est engagé à imposer — des sanctions de concert avec cette organisation ou association.
 
-**Exception**
+- **(2)** [Abrogé, 2013, ch. 16, art. 14]
+> 2001, ch. 27, art. 35; 2013, ch. 16, art. 14.
 
-- **(2)** Les faits visés aux alinéas (1)b) et c) n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national.
 
 
 
@@ -1086,9 +1097,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application**
 
-- **(2)** Les dispositions suivantes régissent l’application du paragraphe (1) :
-	- **a)** les faits visés n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national;
-	- **b)** les faits visés à l’alinéa (1)a) n’emportent pas interdiction de territoire pour la seule raison que le résident permanent ou l’étranger est entré au Canada en ayant recours à une personne qui se livre aux activités qui y sont visées.
+- **(2)** Les faits visés à l’alinéa (1)a) n’emportent pas interdiction de territoire pour la seule raison que le résident permanent ou l’étranger est entré au Canada en ayant recours à une personne qui se livre aux activités qui y sont visées.
+> 2001, ch. 27, art. 37; 2013, ch. 16, art. 15.
+
 
 
 
@@ -1165,6 +1176,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **42** Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants :
 - **a)** l’interdiction de territoire frappant tout membre de sa famille qui l’accompagne ou qui, dans les cas réglementaires, ne l’accompagne pas;
 - **b)** accompagner, pour un membre de sa famille, un interdit de territoire.
+
+
+
+
+**Exception — demande au ministre**
+
+**42.1** 
+
+- **(1)** Le ministre peut, sur demande d’un étranger, déclarer que les faits visés à l’article 34, aux alinéas 35(1)b) ou c) ou au paragraphe 37(1) n’emportent pas interdiction de territoire à l’égard de l’étranger si celui-ci le convainc que cela ne serait pas contraire à l’intérêt national.
+
+**Exception — à l’initiative du ministre**
+
+- **(2)** Le ministre peut, de sa propre initiative, déclarer que les faits visés à l’article 34, aux alinéas 35(1)b) ou c) ou au paragraphe 37(1) n’emportent pas interdiction de territoire à l’égard de tout étranger s’il est convaincu que cela ne serait pas contraire à l’intérêt national.
+
+**Considérations**
+
+- **(3)** Pour décider s’il fait la déclaration, le ministre ne tient compte que de considérations relatives à la sécurité nationale et à la sécurité publique sans toutefois limiter son analyse au fait que l’étranger constitue ou non un danger pour le public ou la sécurité du Canada.
+> 2013, ch. 16, art. 18.
+
 
 
 
@@ -1330,13 +1360,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **53** Les règlements régissent l’application de la présente section et portent notamment sur :
 - **a)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+- **a.1)** les modalités de présentation d’une demande de renonciation au statut de résident permanent et les conditions à respecter pour qu’une telle demande soit acceptée;
 - **b)** les cas de prise ou de maintien des mesures de renvoi;
 - **c)** les cas de rétablissement du statut;
 - **d)** les cas de sursis — notamment par le ministre ou non prévus par la présente loi — des mesures de renvoi;
 - **e)** les effets et l’exécution des mesures de renvoi, y compris la prise en compte de facteurs pour établir à quel moment l’exécution est possible;
 - **f)** les effets de la suspension du casier ordonnée en vertu de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
 - **g)** les obligations financières qui peuvent être imposées relativement aux mesures de renvoi.
-> 2001, ch. 27, art. 53; 2012, ch. 1, art. 150, ch. 17, art. 22.
+> 2001, ch. 27, art. 53; 2012, ch. 1, art. 150, ch. 17, art. 22; 2013, ch. 16, art. 21.
 
 
 
@@ -1565,11 +1596,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Grande criminalité**
 
-- **(2)** L’interdiction de territoire pour grande criminalité vise l’infraction punie au Canada par un emprisonnement d’au moins deux ans.
+- **(2)** L’interdiction de territoire pour grande criminalité vise, d’une part, l’infraction punie au Canada par un emprisonnement d’au moins six mois et, d’autre part, les faits visés aux alinéas 36(1)b) et c).
 
 **Fausses déclarations**
 
 - **(3)** N’est pas susceptible d’appel au titre du paragraphe 63(1) le refus fondé sur l’interdiction de territoire pour fausses déclarations, sauf si l’étranger en cause est l’époux ou le conjoint de fait du répondant ou son enfant.
+> 2001, ch. 27, art. 64; 2013, ch. 16, art. 24.
+
 
 
 
