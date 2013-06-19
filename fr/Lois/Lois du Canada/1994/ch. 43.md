@@ -11,7 +11,7 @@ Sanctionnée sur le 15 décembre 1994
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -276,9 +276,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Dans les cas où il estime qu’un membre a cessé d’avoir sa résidence au Yukon et que, de ce fait, la condition prévue au paragraphe (1) n’est plus satisfaite, le ministre fédéral en notifie le membre; le mandat de ce dernier prend fin à la date de la notification.
 
+**Fonctions postérieures au changement de résidence**
+
+- **(2.1)** Le membre dont le mandat prend fin en application du paragraphe (2) au cours de l’instruction d’une affaire peut toutefois, avec le consentement des parties, continuer à exercer ses fonctions à l’égard de cette affaire jusqu’à l’issue de celle-ci. En ce qui concerne la nomination de son remplaçant, la vacance de son poste est réputée survenir dès que le mandat prend fin en application de ce paragraphe.
+
 **Non-incompatibilité**
 
 - **(3)** Ne sont pas incompatibles avec le poste de membre ou la participation à une formation de l’Office le statut d’Indien du Yukon ou le fait de détenir un intérêt foncier au Yukon.
+> 1994, ch. 43, art. 10; 2013, ch. 14, art. 12.
+
 
 
 
@@ -291,13 +297,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Premiers membres**
 
-- **(2)** La durée du mandat des premiers membres ne dépasse pas trois ans et est déterminée :
+- **(2)** La durée du mandat des premiers membres ne dépasse pas trois ans et est déterminée :
 	- **a)** par le Conseil des Indiens du Yukon dans le cas où leur nomination a été proposée par lui;
 	- **b)** par le ministre fédéral dans les autres cas.
 
+**Fonctions postérieures au mandat**
+
+- **(2.1)** Le membre dont le mandat expire au cours de l’instruction d’une affaire peut, en conformité avec les règlements administratifs de l’Office — ou, en l’absence de règlement, les instructions du président —, continuer à exercer ses fonctions à l’égard de cette affaire jusqu’à l’issue de celle-ci. En ce qui concerne la nomination de son remplaçant, la vacance de son poste est réputée survenir dès l’expiration du mandat.
+
 **Occupation du poste**
 
-- **(3)** Sauf révocation motivée de la part du ministre fédéral — notamment pour un motif prévu par règlement administratif pris en application de l’alinéa 18a) — , les membres exercent leurs fonctions à titre inamovible.
+- **(3)** Sauf révocation motivée de la part du ministre fédéral — notamment pour un motif prévu par règlement administratif pris en application de l’alinéa 18a) —, les membres exercent leurs fonctions à titre inamovible.
+> 1994, ch. 43, art. 11; 2013, ch. 14, art. 13.
+
 
 
 
@@ -342,6 +354,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Faits accomplis de bonne foi**
+
+**15.1** Les membres de l’Office et les membres du personnel bénéficient de l’immunité judiciaire pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice, même présumé, de leurs fonctions au titre de la présente loi.
+> 2013, ch. 14, art. 14.
+
+
+
+
+
 ### Siège et réunions
 
 
@@ -375,7 +396,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **18** L’Office peut, par règlement administratif :
 - **a)** établir, pour la révocation des membres, des motifs autres que ceux du droit commun;
 - **b)** régir l’affectation des membres aux formations chargées d’instruire les demandes dont il est saisi;
+- **b.1)** régir l’exercice des fonctions par un membre à l’égard d’une affaire après l’expiration de son mandat;
 - **c)** de façon générale, régir la conduite et la gestion de ses affaires internes.
+> 1994, ch. 43, art. 18; 2013, ch. 14, art. 15.
+
 
 
 
@@ -436,7 +460,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Formation des membres**
 
-- **(2)** Dans l’établissement de son budget, il doit envisager la possibilité d’allouer des fonds, d’une part à la formation de ses membres — notamment en matière de sensibilisation et d’éducation interculturelles — , en vue d’aider ceux-ci à mieux s’acquitter de leurs fonctions et, d’autre part, à la mise en place des moyens nécessaires pour permettre aux membres d’exercer leurs attributions dans leur langue traditionnelle.
+- **(2)** Dans l’établissement de son budget, il doit envisager la possibilité d’allouer des fonds, d’une part à la formation de ses membres — notamment en matière de sensibilisation et d’éducation interculturelles —, en vue d’aider ceux-ci à mieux s’acquitter de leurs fonctions et, d’autre part, à la mise en place des moyens nécessaires pour permettre aux membres d’exercer leurs attributions dans leur langue traditionnelle.
 
 **Livres comptables**
 
@@ -446,8 +470,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Dans le délai fixé par le ministre suivant la fin de chaque exercice, l’Office établit annuellement, en conformité avec les mêmes principes comptables, des états financiers consolidés de l’exercice; il réunit en outre les renseignements ou documents nécessaires à l’appui de ceux-ci.
 
-- **(5)** [Abrogé, 2012, ch. 19, art. 185]
-> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185.
+**Vérification**
+
+- **(5)** Le vérificateur de l’Office vérifie chaque année les comptes, états financiers et opérations financières de l’Office, et présente son rapport à celui-ci et au ministre fédéral.
+> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185; 2013, ch. 14, art. 16.
 
 
 
