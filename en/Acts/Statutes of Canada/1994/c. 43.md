@@ -286,9 +286,15 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 - **(2)** If the Minister determines that a member ceases to be resident in the Yukon Territory and that the condition imposed by subsection (1) is not satisfied, the appointment of the member is terminated as of the date the member receives written notification from the Minister that the determination has been made.
 
+**Acting after termination of appointment**
+
+- **(2.1)** If the appointment of a member is terminated under subsection (2) before they have made a decision in a matter for which a hearing is held, they may, with the consent of the parties to the hearing, continue to perform their duties and functions as a member only in relation to that matter until the hearing is concluded and a decision is made. For the purpose of the appointment of a replacement, their office is deemed to be vacant as soon as their appointment is terminated under subsection (2).
+
 **No disqualification**
 
 - **(3)** No person is disqualified from being appointed or continuing as a member of the Board or of a panel of the Board by reason only of being a Yukon Indian person or having an interest in land in the Yukon Territory.
+> 1994, c. 43, s. 10; 2013, c. 14, s. 12.
+
 
 
 
@@ -303,9 +309,15 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 - **(2)** The first members appointed on the nomination of the Council for Yukon Indians shall be appointed for such term, not exceeding three years, as the Council may specify and the other first members shall be appointed for such term, not exceeding three years, as the Minister may determine.
 
+**Acting after expiry of term**
+
+- **(2.1)** If the term of a member expires before they have made a decision in a matter for which a hearing is held, they may, in accordance with the Board’s by-laws or, in the absence of an applicable provision in the by-laws, the direction of the Chairperson, continue to perform their duties and functions as a member only in relation to that matter until the hearing is concluded and a decision is made. For the purpose of the appointment of a replacement, their office is deemed to be vacant as soon as their term expires.
+
 **Tenure**
 
 - **(3)** A member holds office during good behaviour, but may be removed by the Minister for cause or for a ground set out in the by-laws of the Board made pursuant to paragraph 18(a).
+> 1994, c. 43, s. 11; 2013, c. 14, s. 13.
+
 
 
 
@@ -350,6 +362,15 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 
 
+**Acts done in good faith**
+
+**15.1** No action lies against a member or an employee of the Board for anything done or omitted to be done in good faith in the performance, or purported performance, of any function under this Act.
+> 2013, c. 14, s. 14.
+
+
+
+
+
 ### Head Office and Meetings
 
 
@@ -382,8 +403,11 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 **18** The Board may make by-laws
 - **(a)** specifying grounds for removal of members in addition to the grounds for removal for cause generally recognized by law;
-- **(b)** respecting the assignment of members to panels of the Board; and
+- **(b)** respecting the assignment of members to panels of the Board;
+- **(b.1)** in the case of a member whose term has expired, respecting the member’s ability to continue to perform their functions in relation to a matter for which a hearing is held; and
 - **(c)** generally, respecting the conduct and management of the internal administrative affairs of the Board.
+> 1994, c. 43, s. 18; 2013, c. 14, s. 15.
+
 
 
 
@@ -454,8 +478,10 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 - **(4)** The Board shall, within such time after the end of each fiscal year as the Minister specifies, prepare consolidated financial statements in respect of that fiscal year in accordance with the accounting principles referred to in subsection (3) and shall include in them such information or statements as are required in support of the consolidated financial statements.
 
-- **(5)** [Repealed, 2012, c. 19, s. 185]
-> 1994, c. 43, s. 23; 2012, c. 19, s. 185.
+**Audit**
+
+- **(5)** The auditor of the Board shall audit the accounts, financial statements and financial transactions of the Board annually and shall make a report of the audit to the Board and to the Minister.
+> 1994, c. 43, s. 23; 2012, c. 19, s. 185; 2013, c. 14, s. 16.
 
 
 
@@ -700,7 +726,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 
 
-###  Rights of Access Subject to Consent or Order
+### Rights of Access Subject to Consent or Order
 
 
 
@@ -810,7 +836,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 
 
-###  Additional Terms for Right of Access Not Subject to Consent
+### Additional Terms for Right of Access Not Subject to Consent
 
 
 
