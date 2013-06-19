@@ -111,6 +111,8 @@ Enabling authorities:
 
 ***booster cushion***[Repealed, SOR/98-160, s. 1]
 
+***booster seat*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*siège d’appoint*)
+
 ***brake fluid***[Repealed, SOR/2007-180, s. 1]
 
 ***brake hose***[Repealed, SOR/2007-180, s. 1]
@@ -125,13 +127,21 @@ Enabling authorities:
 
 ***braking interval*** means the distance measured from the point of initiation of one brake application to the point of initiation of the next brake application; (*intervalle de freinage*)
 
-***buckle*** means a quick-release connector that secures a person in a seat belt assembly; (*attache*)
+***buckle*** means a quick-release connector that secures a person in a seat belt assembly or a built-in restraint system; (*attache*)
 
-***built-in booster cushion*** means a device that is designed as an integral part of a vehicle seating system, for the purpose of seating in an elevated position a person who weighs at least 18 kg (40 pounds), in order to adapt an adult seat belt assembly of the motor vehicle to the person; (*coussin d’appoint intégré*)
+***built-in booster cushion***[Repealed, SOR/2013-117, s. 1]
 
-***built-in child restraint system*** means a device, except a Type 1 or Type 2 seat belt assembly, that is designed to restrain a child and that is an integral part of a vehicle seating system; (*ensemble intégré de retenue d’enfant*)
+***built-in booster seat*** means a device that
+- **(a)** is an integral part of a vehicle seat, and
+- **(b)** is designed to seat a person whose mass is at least 18 kg, to ensure that the seat belt assembly fits properly; (*siège d’appoint intégré*)
 
-***built-in dual-purpose restraint system*** means a device that combines the function of a built-in child restraint system and a built-in booster cushion; (*ensemble intégré de retenue à double usage*)
+***built-in child restraint system***[Repealed, SOR/2013-117, s. 1]
+
+***built-in dual-purpose restraint system***[Repealed, SOR/2013-117, s. 1]
+
+***built-in restraint system*** means a device that
+- **(a)** is an integral part of a vehicle seat, and
+- **(b)** is designed to restrain only a person whose mass is more than 10 kg but not more than 41 kg; (*ensemble intégré de retenue*)
 
 ***bus*** means a vehicle having a designated seating capacity of more than 10, but does not include a trailer or a vehicle imported temporarily for special purposes; (*autobus*)
 
@@ -150,7 +160,7 @@ Enabling authorities:
 
 ***check digit*** means a single number or the letter “X” used to verify the accuracy of the transcription of the vehicle identification number; (*unité de contrôle*)
 
-***child*** means a person whose mass is between 9 kg (20 pounds) and 22 kg (48 pounds) inclusive; (*enfant*)
+***child*** means a person whose mass is more than 10 kg and not more than 30 kg; (*enfant*)
 
 ***child restraint system***[Repealed, SOR/98-160, s. 1]
 
@@ -320,7 +330,7 @@ Enabling authorities:
 
 ***indicator*** means the part of an instrument that shows the quantity of the physical characteristic that the instrument is designed to sense; (*indicateur*)
 
-***infant*** means a person whose mass is less than 9 kg; (*bébé*)
+***infant*** means a person who is unable to walk unassisted and whose mass is not more than 10 kg; (*bébé*)
 
 ***infant restraint system***[Repealed, SOR/98-160, s. 1]
 
@@ -364,9 +374,9 @@ Enabling authorities:
 
 ***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
 
-***lower connector system*** means a system consisting of two connectors that each fit inside a checking device that has the envelope dimensions shown in Figure 10 of Schedule 10 to the [Motor Vehicle Restraint Systems and Booster Cushions Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/159.md), are attached to the lower part of a restraint system or booster cushion in a manner that does not allow for their removal without the use of tools, and enable the restraint system or booster cushion to be securely attached to a lower universal anchorage system of a vehicle; (*système d’attaches inférieures*)
+***lower connector system***[Repealed, SOR/2013-117, s. 1]
 
-***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower part of a restraint system or booster cushion to a vehicle and that transfers loads from the restraint system or booster cushion and its occupant to the vehicle structure or seat; (*dispositif universel d’ancrages d’attaches inférieurs*)
+***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower portion of a restraint system or booster seat to a vehicle and that transfers the load from the restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure; (*dispositif universel d’ancrages d’attaches inférieurs*)
 
 ***low-speed vehicle*** means a vehicle, other than a restricted-use motorcycle or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed for use primarily on streets and roads where access and the use of other classes of vehicles are controlled by law or agreement,
@@ -395,7 +405,7 @@ Enabling authorities:
 
 ***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
 
-***mobility-impaired occupant*** means a person whose mass is 9 kg or more and who, for orthopaedic reasons or because of the person’s build or other physical characteristics, is unable to use a child restraint system or a Type 1 or Type 2 seat belt; (*occupant à mobilité réduite*)
+***mobility-impaired occupant***[Repealed, SOR/2013-117, s. 1]
 
 ***model*** means the name that a manufacturer applies to a family of vehicles of the same class, make, line, series and body type; (*modèle*)
 
@@ -426,7 +436,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(c)** has not more than four designated seating positions,
 - **(d)** has a GVWR of 1 000 kg or less,
 - **(e)** has a maximum speed of more than 70 km/h, and
-- **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur* )
+- **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur*)
 
 ***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
 
@@ -544,7 +554,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
 
-***restraint system*** means a removable device designed to be installed in a vehicle for use in the restraint of an infant, a child or a mobility-impaired occupant but does not include booster cushions or vehicle seat belts; (*ensemble de retenue*)
+***restraint system*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*ensemble de retenue*)
 
 ***restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
@@ -584,7 +594,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***seat belt anchorage*** means any component of a vehicle, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle whose failure causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
 
-***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident and includes all necessary buckles and other fasteners and all attachment hardware; (*ceinture de sécurité*)
+***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident, and includes all necessary buckles and other fasteners and all attachment hardware but does not include any strap, webbing or similar device that is part of a built-in restraint system; (*ceinture de sécurité*)
 
 ***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
 - **(a)** establishes the rearmost normal design driving or riding position of each designated seating position, taking into account all modes of adjustment — horizontal, vertical and tilt — in a vehicle,
@@ -594,9 +604,9 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***seating surface width*** means the maximum width of a seating surface when it is measured in a zone extending from a transverse vertical plane that is 150 mm behind the front leading surface of that seating surface to a transverse vertical plane that is 250 mm behind that front leading surface, measured horizontally and longitudinally; (*largeur de la surface de siège*)
 
-***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
+***seat orientation reference line (SORL)***[Repealed, SOR/2013-117, s. 1]
 
-***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*) 
+***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*)
 
 ***series*** means the name that a manufacturer applies to a subdivision of a line denoting the price, size or weight identification and that is utilized by the manufacturer for marketing purposes; (*série*)
 
@@ -646,9 +656,9 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***tether belt hook***[Repealed, SOR/98-457, s. 1]
 
-***tether strap*** means a device that is fitted with a tether strap hook and secured to the rigid structure of a restraint system and that transfers the load from that system to the user-ready tether anchorage; (*courroie d’attache*)
+***tether strap*** means a device that is fitted with a tether strap hook and secured to the rigid structure of a restraint system or booster seat, and that transfers the load from the restraint system or booster seat and its occupant to the user-ready tether anchorage; (*courroie d’attache*)
 
-***tether strap hook*** means a device that has an interface profile shown in Figure 1 of section 210.1 of Schedule IV and is used to attach a tether strap to a user-ready tether anchorage; (*crochet de la courroie d’attache*)
+***tether strap hook*** means a device that is used to attach a tether strap to a user-ready tether anchorage and that has an interface profile shown in Figure 1 of Schedule 7 to the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md) or, in the case of a device with integrated adjustment hardware, in Figure 2 of Schedule 7 to those Regulations; (*crochet de la courroie d’attache*)
 
 ***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed to travel on three wheels in contact with the ground,
@@ -701,7 +711,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***used vehicle***[Repealed, SOR/91-425, s. 1]
 
-***user-ready tether anchorage*** means a device that transfers tether strap loads from a restraint system to the vehicle structure or a seat structure and is designed to accept directly a tether strap hook without requiring any other device to be installed to accept the tether strap hook; (*ancrage d’attache prêt à utiliser*)
+***user-ready tether anchorage*** means a device that transfers the tether strap load from a restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure and that is designed to accept a tether strap hook directly, without requiring the installation of any other device; (*ancrage d’attache prêt à utiliser*)
 
 ***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
 
@@ -750,7 +760,7 @@ except that the volume of fuel referred to in paragraph (b) does not include an
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** [Repealed, SOR/2009-318, s. 1]
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1.
 
 
 
@@ -1242,12 +1252,12 @@ where
 
 - **(1)** For each vehicle to which the national safety mark is applied or that is imported into Canada, a company shall maintain in writing or in readily readable electronic or optical form the records referred to in paragraph 5(1)(g) of the Act that show that the vehicle conforms to all prescribed standards applicable to it and retain those records for at least five years after the date of manufacture or importation.
 
-- **(2)** Where the records referred to in subsection (1) are maintained on behalf of a company, the company shall keep the name and address of the person who maintains those records.
+- **(2)** If the records referred to in subsection (1) are maintained by a person on behalf of a company, the company shall keep the name and address of that person.
 
 - **(3)** On request in writing from an inspector, a company shall send to that inspector a copy, in either official language, of the records referred to in subsection (1) within
 	- **(a)** 30 working days after the mailing of the request; or
 	- **(b)** where the records must be translated, 45 working days after the mailing of the request.
-> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2; SOR/2008-104, s. 2; SOR/2009-32, s. 1.
+> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2; SOR/2008-104, s. 2; SOR/2009-32, s. 1; SOR/2013-117, s. 2.
 
 
 
@@ -1443,13 +1453,17 @@ where
 
 **15** 
 
-- **(1)** The notice of defect referred to in subsections 10(1) and (3) of the Act shall be given in writing and shall indicate
+- **(1)** For the purposes of subsection 10(4) of the Act, a notice of defect required to be given under section 10 of the Act shall contain the following information:
 	- **(a)** the name of the company giving the notice;
 	- **(b)** the prescribed class of each vehicle in respect of which the notice is given and the vehicle’s make, model, model year and vehicle identification number, the period during which it was manufactured and any other information necessary to permit its identification;
 	- **(c)** the estimated percentage of the potentially affected vehicles that contain the defect;
 	- **(d)** a description of the defect;
 	- **(e)** an evaluation of the safety risk arising from the defect; and
 	- **(f)** a statement of the measures to be taken to correct the defect.
+
+- **(1.1)** A notice of defect required to be given under subsection 10(1) of the Act shall be given in writing and, when given to a person other than the Minister, shall be
+	- **(a)** in both official languages; or
+	- **(b)** in the person’s official language of choice, if it is known.
 
 - **(2)** A company shall, within 60 days after it has given a notice of defect, submit to the Minister a report referred to in subsection 10(6) of the Act containing, in addition to the information required by subsection (1), the following information:
 	- **(a)** the number of vehicles affected by the notice of defect and the number of those vehicles in each prescribed class;
@@ -1461,7 +1475,7 @@ where
 	- **(b)** the revised number of vehicles affected by the notice of defect, if applicable;
 	- **(c)** the date that notices of defect were given to the current owners of the affected vehicles; and
 	- **(d)** the total number or percentage of vehicles repaired, including vehicles requiring inspection only.
-> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3; SOR/2009-318, s. 3.
+> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3; SOR/2009-318, s. 3; SOR/2013-117, s. 3.
 
 
 
@@ -2273,7 +2287,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>210.1</td>
-<td>User-ready Tether Anchorages for Restraint Systems</td>
+<td>User-ready Tether Anchorages for Restraint Systems and Booster Seats</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2293,7 +2307,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>210.2</td>
-<td>Lower Universal Anchorage Systems for Restraint Systems and Booster Cushions</td>
+<td>Lower Universal Anchorage Systems for Restraint Systems and Booster Seats</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2333,7 +2347,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>213.4</td>
-<td>Built-in Child Restraint Systems and Built-in Booster Cushions</td>
+<td>Built-in Restraint Systems and Built-in Booster Seats</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2877,7 +2891,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5.
 
 
 
@@ -3441,15 +3455,15 @@ YELLOW
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)  
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)  
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)  
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)  
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)  
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3481,23 +3495,23 @@ YELLOW
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)  
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)  
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)  
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)  
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
 
-***plan view reference line*** means,  
+***plan view reference line*** means, 
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)  
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)  
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -4187,11 +4201,11 @@ YELLOW
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)  
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)  
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
 
-***rim base*** means that portion of a rim remaining after removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*)  
+***rim base*** means that portion of a rim remaining after removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
 
 #### Load Range Identification Symbol
 
@@ -4295,7 +4309,7 @@ YELLOW
 
 - **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
 	- **(a)** a 50/50 male-to-female ratio must be used for the male/female mix; and
-	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer. 
+	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
 	- **(c)** [Repealed, SOR/2008-72, s. 2]
 
 - **(15)** For the purposes of subsections (16) to (25),
@@ -5005,9 +5019,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)  
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)  
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
 
 #### Load Range Identification Symbol
 
@@ -5246,7 +5260,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** In this section,
 
-***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent:  
+***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent: 
 - **(a)** at each designated seating position, by placing the pivot point of the measuring device,
 	- **(i)** for seats that are adjustable fore and aft, at
 		- **(A)** the seating reference point, and
@@ -5255,11 +5269,11 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
 - **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)  
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)  
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
 
-***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by:  
+***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
 - **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
 
@@ -5623,17 +5637,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.
 
-- **(3)** The webbing of a seat belt assembly shall not transfer colour to a crock cloth, either wet or dry, to a greater degree than Rating 3 on the Chromatic Transference Scale specified in AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
-
-- **(4)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (3) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 8-2005, Colorfastness to Crocking: AATCC Crockmeter Method.
-
-- **(5)** The webbing of a seat belt assembly shall not stain to a greater degree than Rating 2 on the Chromatic Transference Scale specified in the AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
-
-- **(6)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (5) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 107-2002, Colorfastness to Water, except:
-	- **(a)** the test solution shall be freshly boiled distilled water;
-	- **(b)** the AATCC perspiration tester shall be used;
-	- **(c)** on removal from the oven, the test specimen shall be hung to dry for four hours; and
-	- **(d)** the AATCC Chromatic Transference Scale shall be used to evaluate the staining of the multifiber test fabric.
+- **(3) to (6)** [Repealed, SOR/2013-117, s. 6]
 
 - **(7)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
 #### TABLE
@@ -5687,7 +5691,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
 
 - **(13)** This section expires on January 31, 2016.
-> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12; SOR/2011-238, s. 4..
+> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12; SOR/2011-238, s. 4; SOR/2013-117, s. 6..
 
 
 
@@ -5751,7 +5755,9 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 
 
-### User-ready Tether Anchorages for Restraint Systems (Standard 210.1)
+### User-ready Tether Anchorages for Restraint Systems and Booster Seats (Standard 210.1)
+> [SOR/2013-117, s. 7]
+
 
 
 #### Application
@@ -5766,29 +5772,30 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 	- **(e)** bus, other than a school bus, with a GVWR of 4 536 kg or less.
 
 - **(2)** This section does not apply to
-	- **(a)** a designated seating position at which a built-in child restraint system is provided that is not part of a removable vehicle seat; or
+	- **(a)** a designated seating position at which a built-in restraint system is provided that is not part of a removable vehicle seat; or
 	- **(b)** a hearse.
 
 #### General
 
 
-- **(3)** Subject to subsection (3.3), a user-ready tether anchorage shall be installed in a vehicle, other than a convertible or an open-body type vehicle,
-	- **(a)** for each forward-facing designated seating position, other than that of the driver, in a vehicle that has only one row of forward-facing designated seating positions;
-	- **(b)** for each forward-facing designated seating position in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
-	- **(c)** for all forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has less than five designated seating positions;
-	- **(d)** for each of any three forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has five or more designated seating positions;
-	- **(e)** for each of any two forward-facing designated seating positions, other than that of the driver or those of a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 24 or fewer designated passenger seating positions;
-	- **(f)** for each of any four forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 25 or more, but 65 or fewer, designated passenger seating positions;
-	- **(g)** for each of any eight forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 66 or more designated passenger seating positions; and
-	- **(h)** for each of any two forward-facing designated seating positions, other than that of the driver, in a bus other than a school bus.
+- **(3)** Subject to subsections (3.2) and (3.3), a user-ready tether anchorage shall be installed in a vehicle, other than a convertible or an open-body type vehicle,
+	- **(a)** in the case of a vehicle, other than a school bus, that has only one row of forward-facing designated seating positions, at all forward-facing designated seating positions other than that of the driver;
+	- **(b)** in the case of a vehicle, other than a school bus, that has two or more rows of designated seating positions, and not more than three forward-facing designated seating positions located to the rear of the first row of designated seating positions, at all forward-facing designated seating positions located to the rear of the first row of designated seating positions;
+	- **(c)** in the case of a vehicle, other than a school bus, that has two or more rows of designated seating positions, and four or more forward-facing designated seating positions located to the rear of the first row of designated seating positions, at three forward-facing designated seating positions located to the rear of the first row of designated seating positions, with at least one user-ready tether anchorage being installed at a forward-facing designated seating position in the second row of designated seating positions, and at least one user-ready tether anchorage being installed at a forward-facing inboard designated seating position, if such a designated seating position exists;
+	- **(d)** in the case of a school bus that has not more than 24 passenger designated seating positions, and only one forward-facing designated seating position other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at that forward-facing designated seating position;
+	- **(e)** in the case of a school bus that has not more than 24 passenger designated seating positions, and two or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at two of those forward-facing designated seating positions;
+	- **(f)** in the case of a school bus that has 25 or more, but not more than 65, passenger designated seating positions, and not more than three forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at all of those forward-facing designated seating positions;
+	- **(g)** in the case of a school bus that has 25 or more, but not more than 65, passenger designated seating positions, and four or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at four of those forward-facing designated seating positions;
+	- **(h)** in the case of a school bus that has 66 or more passenger designated seating positions, and not more than seven forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at all of those forward-facing designated seating positions; and
+	- **(i)** in the case of a school bus that has 66 or more passenger designated seating positions, and eight or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at eight of those forward-facing designated seating positions.
 
-- **(3.1)** A user-ready tether anchorage shall be available for use at all times, except when the seating position for which it is installed is not available for use because the vehicle seat has been removed or converted to an alternate use such as the carrying of cargo.
+- **(3.1)** A user-ready tether anchorage shall be available for use at all times, except when the designated seating position at which it is installed is not available for use because the vehicle seat has been removed or converted to an alternate use, such as the carrying of cargo.
 
-- **(3.2)** [Repealed, SOR/2008-72, s. 8]
+- **(3.2)** If a lower universal anchorage system is installed at a passenger designated seating position in the first row of designated seating positions in accordance with subsection 210.2(8), one user-ready tether anchorage shall be installed at that designated seating position.
 
-- **(3.3)** If a lower universal anchorage system is installed in a designated passenger seating position in the first row of designated seating positions in accordance with subsection 210.2(8) one user-ready tether anchorage shall be installed in that designated seating position.
+- **(3.3)** The number of user-ready tether anchorages required under paragraphs (3)(b) and (c) may be reduced by one if a user-ready tether anchorage is installed in the first row of designated seatings positions in accordance with subsection (3.2).
 
-- **(3.4)** The number of user-ready tether anchorages required in the second row of designated seating positions under subsection (3) may be reduced by one if a user-ready tether anchorage is installed in the first row in accordance with subsection (3.3).
+- **(3.4)** [Repealed, SOR/2013-117, s. 8]
 
 - **(4)** The portion of a user-ready tether anchorage that is designed to bind with the tether strap hook shall be readily accessible and, if under a cover, the cover shall be identified by one of the symbols or the mirror image of one of the symbols set out in Figure 2 and shall be removable without the use of tools.
 
@@ -5826,27 +5833,14 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 - **(9)** [Repealed, SOR/2008-72, s. 8]
 
-- **(10)** If the zones in which tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems simultaneously, both portions of the tether anchorage that are designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) applied to both portions simultaneously.
+- **(10)** If the zones in which user-ready tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems or booster seats simultaneously, each portion of the user-ready tether anchorage that is designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) when it is applied to both portions simultaneously.
 
 - **(11)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one user-ready tether anchorage and a distance of 400 mm or more, measured in accordance with Figure 20, separates the midpoints of adjacent designated seating positions, the force referred to in subsection (8) or (10), as the case may be, shall be applied simultaneously to each user-ready tether anchorage in the manner specified in that subsection.
 
 - **(12)** The strength requirement tests shall be conducted with the vehicle seat adjusted to its full rearward and full downward position and the seat back in its most upright position.
 
-- 
-<table>
-<tr>
-<td>
-> Image: Diagram showing Interface Profile of Tether Strap Hook with measurements and descriptions
+- Figure 1 [Repealed, SOR/2013-117, s. 8]
 
-
-###### Notes
-
-- **1** Dimensions in mm, except where otherwise indicated
-- **2** Drawing not to scale
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -6064,12 +6058,14 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 </tr>
 </table>
 
-> SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15; SOR/2008-72, s. 8..
+> SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15; SOR/2008-72, s. 8; SOR/2013-117, s. 8..
 
 
 
 
-### Lower Universal Anchorage Systems for Restraint Systems and Booster Cushions (Standard 210.2)
+### Lower Universal Anchorage Systems for Restraint Systems and Booster Seats (Standard 210.2)
+> [SOR/2013-117, s. 9]
+
 
 
 #### Application
@@ -6086,7 +6082,7 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 - **(2)** This section does not apply to
 	- **(a)** a walk-in van;
 	- **(b)** a bus that has only one row of forward-facing designated seating positions rearward of the driver’s seat;
-	- **(c)** a vehicle that is not equipped with a manual cut-off switch to deactivate the frontal air bag that is installed at the right front outboard designated seating position when any restraint system or booster cushion is installed and
+	- **(c)** a vehicle that is not equipped with a manual cut-off switch to deactivate the frontal air bag installed at the right front outboard designated seating position when any restraint system or booster seat is installed, and that
 		- **(i)** has only one row of forward-facing designated seating positions,
 		- **(ii)** cannot accommodate, because of the location of transmission or suspension components, the installation of the bars of a lower universal anchorage system to permit the attachment to them of a child restraint fixture as shown in Figure 1 in a seating position located to the rear of the first row of seating positions, or
 		- **(iii)** has no seating position located to the rear of the first row of seating positions that is able to accommodate a child restraint fixture shown in Figures 2 to 4; or
@@ -6103,22 +6099,24 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 	- **(e)** are rigidly attached to a vehicle seat or seat anchorage or the structure of the vehicle so that they will not deform more than 5 mm when subjected to a force of 100 N in any direction with the vehicle seat adjusted in the vehicle to its full rearward and full downward position and the seat back adjusted in the nominal design riding position; and
 	- **(f)** permit a checking device to be attached to them over the entire width of the checking device, with a gap of less than 1 mm between the surface of the bars and line M, shown in Figure 5.
 
-- **(4)** Subject to subsections (7) and (8), a lower universal anchorage system shall be installed
-	- **(a)** in one forward-facing designated seating position, other than that of the driver, in a vehicle that has only one row of forward-facing designated seating positions;
-	- **(b)** in two forward-facing designated seating positions in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
-	- **(c)** in two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multi-purpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions;
-	- **(d)** in two forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 24 or fewer designated passenger seating positions;
-	- **(e)** in four forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 25 or more, but 65 or fewer, designated passenger seating positions;
-	- **(f)** in eight forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 66 or more designated passenger seating positions; and
-	- **(g)** in two forward-facing designated seating positions, other than that of the driver, in a bus other than a school bus.
+- **(4)** Subject to subsections (7) and (8), a lower universal anchorage system shall be installed in a vehicle
+	- **(a)** in the case of a vehicle, other than a school bus, that has only one row of forward-facing designated seating positions, at one forward-facing designated seating position other than that of the driver;
+	- **(b)** in the case of a vehicle, other than a school bus, that has two or more rows of designated seating positions, and not more than two forward-facing designated seating positions located to the rear of the first row of designated seating positions, at all forward-facing designated seating positions located to the rear of the first row of designated seating positions;
+	- **(c)** in the case of a vehicle, other than a school bus, that has two or more rows of designated seating positions, and three or more forward-facing designated seating positions located to the rear of the first row of designated seating positions, at two forward-facing designated seating positions located to the rear of the first row of designated seating positions, with at least one lower universal anchorage system being installed at a forward-facing designated seating position in the second row of designated seating positions;
+	- **(d)** in the case of a school bus that has not more than 24 passenger designated seating positions, and only one forward-facing designated seating position other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at that forward-facing designated seating position;
+	- **(e)** in the case of a school bus that has not more than 24 passenger designated seating positions, and two or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at two of those forward-facing designated seating positions;
+	- **(f)** in the case of a school bus that has 25 or more, but not more than 65, passenger designated seating positions, and not more than three forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at all of those forward-facing designated seating positions;
+	- **(g)** in the case of a school bus that has 25 or more, but not more than 65, passenger designated seating positions, and four or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at four of those forward-facing designated seating positions;
+	- **(h)** in the case of a school bus that has 66 or more passenger designated seating positions, and not more than seven forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at all of those forward-facing designated seating positions; and
+	- **(i)** in the case of a school bus that has 66 or more passenger designated seating positions, and eight or more forward-facing designated seating positions other than that of the driver and those of a bench seat that is next to an emergency exit and contains an adjacent seat, at eight of those forward-facing designated seating positions.
 
 - **(5)** [Repealed, SOR/2008-72, s. 9]
 
 - **(6)** A lower universal anchorage system shall be installed only at a designated seating position that is equipped with a user-ready tether anchorage, except in the case of a convertible or an open-body type vehicle.
 
-- **(7)** The number of lower universal anchorage systems required in a vehicle under subsection (4) may be reduced by the number of built-in child restraint systems installed in the vehicle.
+- **(7)** The number of lower universal anchorage systems required in a vehicle under subsection (4) may be reduced by the number of built-in restraint systems installed in the vehicle.
 
-- **(8)** Except in the case of a bus, if the distance between the rearward surface of the front seat back and the forward surface of the rear seat back is less than 720 mm, as measured in accordance with Figure 6, a lower universal anchorage system may be installed in a designated passenger seating position in the first row of designated seating positions instead of in the second row of designated seating positions if the vehicle is equipped with the manual cut-off switch referred to in paragraph (2)(c).
+- **(8)** Except in the case of a bus, if the distance between the rearward surface of the front seat back of the vehicle and the forward surface of the rear seat back of the vehicle is less than 720 mm, as measured in accordance with Figure 6, and if the vehicle is equipped with the manual cut-off switch referred to in paragraph (2)(c), a lower universal anchorage system may be installed at a passenger designated seating position in the first row of designated seating positions instead of at a designated seating position located to the rear of the first row of designated seating positions.
 
 - **(9)** A vehicle that is equipped with a seat that slides sideways or that can be installed in any other seating position in the vehicle shall meet the requirements of this section with the seat adjusted in any adjustment position.
 
@@ -6199,7 +6197,7 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 	- **(d)** if the vehicle is equipped with a foldable system, instructions on how to deploy the system;
 	- **(e)** if the vehicle is equipped with head restraints at the seating positions equipped with a lower universal anchorage system, instructions on the correct manner of adjusting the head restraints for use with user-ready tether anchorages;
 	- **(f)** if the vehicle has more than one row of designated seating positions, a statement that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position; and
-	- **(g)** if a convertible or an open-body type vehicle has no designated seating position equipped with a user-ready tether anchorage, a statement that neither a child restraint system nor a booster cushion requiring the use of a tether strap can be properly secured in the vehicle.
+	- **(g)** if the vehicle is a convertible or an open-body type vehicle that has no designated seating position equipped with a user-ready tether anchorage, a statement that neither a restraint system nor a booster seat requiring the use of a tether strap can be properly secured to the vehicle.
 
 - 
 <table>
@@ -6371,7 +6369,7 @@ Note: Drawing not to scale
 </tr>
 </table>
 
-> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9; SOR/2008-104, s. 17..
+> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9; SOR/2008-104, s. 17; SOR/2013-117, s. 10..
 
 
 
@@ -6396,95 +6394,114 @@ Note: Drawing not to scale
 
 
 
-### Built-in Child Restraint Systems and Built-in Booster Cushions
+### Built-in Restraint Systems and Built-in Booster Seats (Standard 213.4)
 
 **213.4** 
 
-- **(1)** Every built-in child restraint system and built-in booster cushion, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007) in any of the positions that the system, cushion, or vehicle seat can be used while the vehicle is in motion, shall,
-	- **(a)** exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces that have a radius of less than 6.4 mm (¼ inch) or surfaces that have protrusions greater than 9.5 mm (3/8 inch) above the immediate adjacent surrounding contactable surface of any structural element of the system;
-	- **(b)** remain in the same adjustment position during the testing as it was immediately before the testing began, where the system is adjustable to different positions; and
-	- **(c)** be constructed only of materials that conform to the requirements of section 302.
+- **(1)** The following definitions apply in this section.
 
-- **(2)** Every built-in child restraint system when tested in accordance with subsection (1) shall, subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that has
-	- **(a)** a height, measured along the system seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the child restraint system from the lowest point on the system seating surface that is contactable by the buttocks of the seated anthropomorphic test device, of at least 500 mm (20 inches); and
-	- **(b)** a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 500 mm (20 inches) specified in paragraph (a).
+***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*)
 
-- **(3)** Every built-in rear facing child restraint system, when tested in accordance with subsection (1) shall
-	- **(a)** not allow the angle between the system’s back support surface and the vertical to exceed 70° at any time during impact simulation; and
-	- **(b)** retain all portions of the anthropometric test device within the system so that no portion of the target point on either side of the device’s head passes through the transverse orthogonal planes whose intersection contains the forward-most and top-most points on the built-in child restraint system surfaces.
+***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*)
 
-- **(4)** Every built-in booster cushion, when tested in accordance with subsection (1) shall
-	- **(a)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the cushion and that
-		- **(i)** has a height, measured along the cushion seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the cushion from the lowest point on the cushion seating surface that is contactable by the buttocks of the seated anthropometric test device, of at least 560 mm (22 inches), and
-		- **(ii)** has a width of not less than 200 mm (8 inches), measured in the horizontal plane at the height of 560 mm (22 inches) specified in subparagraph (i); and
-	- **(b)** limit to no more than 305 mm (12 inches) from the initial position the distance either knee pivot can extend in the forward longitudinal direction.
+- **(2)** For the purposes of this section, a reference in TSD 209 to webbing, a belt buckle or a related piece of adjustment hardware that is part of a Type 1 seat belt assembly is to be read as a reference to webbing, a belt buckle or a related piece of adjustment hardware that is part of a built-in restraint system.
 
-- **(5)** Every front-facing built-in child restraint system and built-in booster cushion, when tested in accordance with subsection (1), shall
-	- **(a)** not allow the angle between the system’s or cushion’s back support surface and the system’s or cushion’s seating surface to be less than 45° at the completion of the test;
-	- **(b)** limit the resultant acceleration at the location of the accelerometer mounted in the anthropometric test device upper thorax to not more than 60 g, except for intervals of acceleration the cumulative duration of which is not more than 3 ms;
-	- **(c)** limit to not more than 80 g the maximum resultant acceleration of the centre of gravity of the head of the anthropometric test device during forward movement, except where it has been established that the maximum resultant acceleration above 80 g is caused by another part of the anthropometric test device striking its head; and
-	- **(d)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that limits the rearward rotation of the anthropomorphic test device’s head so that the angle between the head and the torso is at no time during the impact testing greater than 45° as compared to the head-torso angle prior to the test.
+- **(3)** Every built-in restraint system and built-in booster seat shall be constructed only of materials that conform to the requirements of Technical Standards Document No. 302, Flammability of Interior Materials, as amended from time to time.
 
-- **(6)** Notwithstanding the requirements of paragraph (2)(a), a built-in child restraint system with side supports extending at least 100 mm (4 inches) forward from the padded surface of the portion of the restraint system provided for support of the child’s head shall have a width of not less than 150 mm (6 inches), measured in the horizontal plane at the height of 500 mm (20 inches).
+- **(4)** Every built-in restraint system shall, when the anthropomorphic test device is positioned in the restraint system in accordance with subsection 5.4 of Test Method 213.4,
+	- **(a)** restrain the upper torso by means of
+		- **(i)** belts passing over each shoulder, or
+		- **(ii)** a fixed or movable surface that conforms to the requirements of subsection (11);
+	- **(b)** restrain the lower torso by means of
+		- **(i)** a belt making an angle of at least 45° but not more than 90° with the seating surface of the restraint system at the belt attachment points, or
+		- **(ii)** a fixed or movable surface that conforms to the requirements of subsection (11); and
+	- **(c)** restrain the crotch by means of
+		- **(i)** a crotch belt that is connectable to the belt referred to in subparagraph (b)(i) or to the surface referred to in subparagraph (b)(ii), or
+		- **(ii)** a fixed or movable surface that conforms to the requirements of subsection (11).
 
-- **(7)** Every built-in child restraint system shall provide a surface for the support of the child’s back that has a continuous surface area of not less than 54 800 mm<sup>2</sup> (85 square inches).
+- **(5)** Every belt that is part of a built-in restraint system and that is designed to restrain a person shall be adjustable to snugly fit a person whose mass and height are within the ranges indicated in the statement required by paragraph (19)(a), when the person is positioned in the restraint system in accordance with the instructions referred to in subsection (21).
 
-- **(8)** Where a built-in child restraint system provides surfaces for the support of the child’s torso, these surfaces shall have a continuous surface area of not less than 15 250 mm<sup>2</sup> (24 square inches) for each surface.
+- **(6)** Every belt buckle and related piece of adjustment hardware that is part of a built-in restraint system shall conform to the requirements of S4.3(a)(2), except the requirement respecting the transfer of corrosion, and S4.3(b) of TSD 209.
 
-- **(9)** Except for surfaces designed to restrain a child, no built-in child restraint system shall have a fixed or movable surface that
-	- **(a)** is directly in front of the child; or
-	- **(b)** may come into contact with the child when the system is in use.
+- **(7)** Every belt buckle that is fitted on a belt designed to restrain a person in a built-in restraint system shall
+	- **(a)** under the conditions set out in section 4 of Test Method 213.4,
+		- **(i)** not release when any force of less than 40 N is applied, and
+		- **(ii)** release when a force of at least 40 N but not more than 62 N is applied;
+	- **(b)** under the conditions set out in section 6 of Test Method 213.4, release when a force of not more than 71 N is applied;
+	- **(c)** conform to the requirements of S4.3(d)(2) of TSD 209, except that the surface area of the push-button of a belt buckle designed for push-button application shall be at least 385 mm<sup>2</sup>; and
+	- **(d)** not release during the dynamic test specified in section 5 of Test Method 213.4.
 
-- **(10)** Each horizontal cross-section of each built-in child restraint system surface that is designed to restrain forward movement of the child’s torso shall be flat or concave and each vertical longitudinal cross-section shall be flat or convex with a radius of curvature of the underlying structure of not less than 50 mm (2 inches).
+- **(8)** Any webbing that is designed to restrain a person within a built-in restraint system shall
+	- **(a)** when tested in accordance with S5.1(b) of TSD 209 before being tested as set out in paragraphs (b) to (d), have a breaking strength of at least 11 000 N;
+	- **(b)** when tested in accordance with S5.1(b) of TSD 209 after being subjected to abrasion as specified in S5.1(d) of TSD 209, have a breaking strength of at least 75% of the breaking strength determined in accordance with paragraph (a);
+	- **(c)** when tested in accordance with S5.1(b) of TSD 209 after being subjected to buckle abrasion as specified in S5.3(c) of TSD 209, have a breaking strength of at least 75% of the breaking strength determined in accordance with paragraph (a):
+	- **(d)** when tested in accordance with S5.1(b) of TSD 209 after being subjected to light exposure as specified in S5.1(e) of TSD 209, have a breaking strength of at least 60% of the breaking strength determined in accordance with paragraph (a);
+	- **(e)** when tested in accordance with S5.1(b) of TSD 209 after being subjected to micro-organism exposure as specified in S5.1(f) of TSD 209, have a breaking strength of at least 85% of the breaking strength determined in accordance with paragraph (a); and
+	- **(** f**)** if contactable by the torso of an anthropomorphic test device when the restraint system is tested in accordance with section 5 of Test Method 213.4, have a width of not less than 38 mm when measured as specified in S5.1(a) of TSD 209.
 
-- **(11)** No portion of a rigid structural component within or underlying a contactable surface of a built-in child restraint system or a built-in booster cushion shall, with any padding or other flexible overlay material removed, have a height of more than 9.5 mm (3/8 inch) above any immediately adjacent restraint system surface or any exposed edge with a radius of less than 6.4 mm (¼ inch).
+- **(9)** Every built-in restraint system and built-in booster seat shall provide, for the support of a person’s back, a continuous surface that is flat or concave and has an area of not less than 54 800 mm<sup>2</sup>.
 
-- **(12)** The webbing of belts that are provided with a built-in child restraint system and used to restrain a child within the system shall
-	- **(a)** after being subjected to abrasion as specified in section S5.3(c) of TSD 209 have a breaking strength of not less than 75 per cent of the strength of the unabraded webbing;
-	- **(b)** meet the requirements of sections S4.2(e) and (f) of TSD 209 and subsections 209(4) to (7) of Schedule IV to these Regulations; and
-	- **(c)** if contactable by the torso of the anthropometric test device when the system is tested dynamically, have a width of not less than 38 mm (1½ inches) when measured as specified in section S5.1(a) of TSD 209.
+- **(10)** A built-in restraint system shall not have any surface directly in front of a person, unless the surface is designed to limit the forward movement of the person.
 
-- **(13)** Every belt buckle and item of belt adjustment hardware used in a built-in child restraint system shall conform to the requirements of sections S4.3(a)(1) and (2) and S4.3(b) and (g) of TSD 209.
+- **(11)** Every horizontal cross-section of a surface of a built-in restraint system that is designed to limit the forward movement of a person shall be flat or concave, and every vertical longitudinal cross-section of that surface shall be flat or convex with a radius of curvature of the underlying structure of not less than 50 mm.
 
-- **(14)** Any buckle of a built-in child restraint system belt assembly that is designed to restrain a child shall in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007),
-	- **(a)** before dynamic testing,
-		- **(i)** not release when a force of less than 40 N (9 pounds) is applied, and
-		- **(ii)** release where a force of 40 N (9 pounds) to 62 N (14 pounds) is applied;
-	- **(b)** after dynamic testing, release where a force of not more than 71 N (16 pounds) is applied; and
-	- **(c)** have a push button to be used for applying the release force with a minimum surface area of 385 mm<sup>2</sup> (0.6 square inch) and with a minimum linear dimension of 10 mm (0.4 inch).
+- **(12)** Any rigid structural component underlying a contactable surface of a built-in restraint system or built-in booster seat shall not have
+	- **(a)** a protrusion, with any padding or flexible overlay material removed, of more than 9.5 mm; or
+	- **(b)** an exposed edge with a radius of less than 6.4 mm.
 
-- **(15)** Every belt that is part of a built-in child restraint system and that is designed to restrain the child
-	- **(a)** shall be adjustable to snugly fit any child whose height and weight are within the ranges recommended in accordance with paragraph (17)(a) and who is positioned in the system in accordance with the instructions required by subsection (19); and
-	- **(b)** shall not, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), impose on the child any loads that result from the mass of the system, or from the mass of any part of the vehicle into which the child restraint system is built.
+- **(13)** Every built-in restraint system and built-in booster seat, when tested in accordance with section 5 of Test Method 213.4, shall, in any of the positions that the restraint system, booster seat or vehicle seat can be used while the vehicle is in motion,
+	- **(a)** exhibit no complete separation of any load-bearing structural element and no partial separation exposing a surface with
+		- **(i)** a protrusion of more than 9.5 mm, or
+		- **(ii)** a radius of less than 6.4 mm;
+	- **(b)** remain in the same adjustment position during the test as it was in immediately before the test began;
+	- **(c)** limit the movement of the head of the anthropomorphic test device toward the rear of the restraint system or booster seat by means of a continuous seat back that is an integral part of the restraint system or booster seat;
+	- **(d)** limit the rotation of the head of the anthropomorphic test device toward the rear of the restraint system or booster seat, in the head’s midsagittal plane, by means of a continuous seat back that is an integral part of the restraint system or booster seat, so that the angle between the head and the torso is at no time during the test more than 45° as compared to the angle between the head and the torso immediately before the test began;
+	- **(e)** except in the case of a restraint system or booster seat tested with the anthropomorphic test device specified in subpart O or S, part 572, chapter V, Title 49 of the Code of Federal Regulations of the United States (revised as of October 1, 2012), limit the resultant acceleration at the location of the accelerometer mounted in the upper thorax of the anthropomorphic test device to not more than 60 g, except for intervals of not more than 3 ms;
+	- **(f)** except in the case of a restraint system or booster seat tested with the anthropomorphic test device specified in subpart O or S, part 572, chapter V, Title 49 of the Code of Federal Regulations of the United States (revised as of October 1, 2012), limit the resultant acceleration of the centre of gravity of the head of the anthropomorphic test device to not more than 80 g, except for intervals of not more than 3 ms, unless it is established that any resultant acceleration above 80 g is caused by another part of the anthropomorphic test device striking its head;
+	- **(g)** not allow the angle between the back support surface and seating surface of the restraint system or booster seat to be less than 45° at the completion of the test; and
+	- **(h)** except in the case of a restraint system or booster seat tested with the anthropomorphic test device specified in subpart O or S, part 572, chapter V, Title 49 of the Code of Federal Regulations of the United States (revised as of October 1, 2012), limit the distance that either knee pivot can extend in a forward longitudinal direction, at any time during and immediately after the test, to not more than 305 mm from the pre-test position.
 
-- **(16)** Every built-in child restraint system shall, when the anthropometric test device is positioned in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), provide
-	- **(a)** upper torso restraint in the form of
-		- **(i)** belts passing over each shoulder of the anthropometric test device,
-		- **(ii)** a fixed or movable surface that complies with subsection (10), or
-		- **(iii)** in the case of a rear-facing child restraint system, a single diagonal belt passing over one shoulder or belts passing over each shoulder or the anthropometric test device;
-	- **(b)** lower torso restraint in the form of
-		- **(i)** a lap belt assembly making an angle between 45° and 90° with the built-in child restrain system seating surface at the lap belt attachment points, or
-		- **(ii)** a fixed or movable surface that complies with subsection (10), and
-	- **(c)** if a front-facing built-in child restraint system, crotch restraint in the form of
-		- **(i)** a crotch belt connectable to the lap belt or other device used to restrain the lower torso, or
-		- **(ii)** a fixed or movable surface that complies with subsection (10).
+- **(14)** Every belt that is part of a built-in restraint system and that is designed to restrain a person in the restraint system shall not, when the restraint system is subjected to a dynamic test in accordance with section 5 of Test Method 213.4, impose on the anthropomorphic test device any loads that result from the mass of the restraint system or the mass of any part of the vehicle into which the restraint system is built.
 
-- **(17)** Every built-in child restraint system and built-in booster cushion shall have indelibly printed on them, or otherwise permanently affixed to them, a label in both English and French, in a prominent location in letters and numerals of not less than 10 point and on a contrasting background,
-	- **(a)** a statement indicating
-		- **(i)** in the case of a built-in child restraint system, the weight and height range of the children for whom it is designed, as recommended by the manufacturer, and
-		- **(ii)** in the case of a built-in booster cushion, that it is for use by persons who weigh at least 18 kg (40 pounds) and who are at least the minimum height recommended by the manufacturer;
-	- **(b)** a statement warning that failure to follow the manufacturer’s instructions on the use of the system or the cushion can result in the person striking the vehicle’s interior during a sudden stop or crash;
-	- **(c)** in the case of a built-in child restraint system that has belts designed to restrain the child, a statement to adjust snugly the belts provided with the system around the child; and
-	- **(d)** in the case of a rear-facing built-in child restraint system, a statement indicating that the child be placed in the rear-facing position.
+- **(15)** The continuous seat back referred to in paragraphs (13)(c) and (d) shall have
+	- **(a)** a height
+		- **(i)** of at least 500 mm, in the case of a built-in restraint system recommended by the manufacturer for use only by persons whose mass is 18 kg or less, or
+		- **(ii)** of at least 560 mm, in the case of a built-in restraint system recommended by the manufacturer for use by a person whose mass is more than 18 kg; and
+	- **(b)** a width of at least 200 mm, measured in the horizontal plane at a height of 500 mm in the case of a built-in restraint system described in subparagraph (a)(i) or at a height of 560 mm in the case of a built-in restraint system described in subparagraph (a)(ii).
 
-- **(18)** The weights and heights referred to in paragraph (17)(a) shall be expressed with the metric measurements stated first, followed by the equivalent imperial measurements in parentheses.
+- **(16)** Subsection (15) does not apply in the case of
+	- **(a)** a built-in restraint system that is designed to accommodate an anthropomorphic test device having, on either side, a target point that, when the anthropomorphic test device is positioned in the built-in restraint system in accordance with Test Method 213.4, is below a horizontal plane tangent to the top of the vehicle seat; or
+	- **(b)** a built-in restraint system that is designed to accommodate the anthropomorphic test device specified in subpart N, part 572, chapter V, Title 49 of the Code of Federal Regulations of the United States (revised as of October 1, 2012), or a larger anthropomorphic test device.
 
-- **(19)** Every built-in child restraint system and built-in booster cushion shall be accompanied by printed instructions in both English and French that provide a step-by-step procedure, including appropriate diagrams, for using the built-in child restraint system or built-in booster cushion, for positioning a person in the system or on the cushion, for adjusting the belts provided and, if applicable, for adjusting the restraint harness to fit the person.
+- **(17)** For the purposes of subsection (15), the height of the continuous seat back shall be measured, in a plane parallel to the surface of the seat back of the built-in restraint system and orthogonal to the vertical longitudinal plane passing through the longitudinal centreline of the restraint system, from the lowest point of the restraint system’s seating surface that is contacted by the buttocks of the seated anthropomorphic test device.
 
-- **(20)** The instructions referred to in subsection (19) shall
-	- **(a)** explain the immediate consequences of not following the instructions for proper use of the child restraint system in accordance with subsections (17) and (19); and
-	- **(b)** in the case of a seat with a built-in child restraint system or built-in booster cushion that is removable from the vehicle by means of a latch mechanism, state that the system or cushion, or the vehicle seat, or both, should be securely latched to the vehicle whether occupied or not.
-> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18..
+- **(18)** Despite paragraph (15)(b), if a built-in restraint system or built-in booster seat provides surfaces for the support of the sides of the torso, and those surfaces extend at least 100 mm forward from the padded surface of the portion of the restraint system or booster seat provided for the support of the head of the anthropomorphic test device, the restraint system or booster seat may have a continuous seat back width of at least 150 mm.
+
+- **(19)** Every built-in restraint system and built-in booster seat shall have the following information stitched onto it, indelibly moulded into or onto it, or indelibly printed on a label affixed to it in a permanent manner:
+	- **(a)** a statement that indicates
+		- **(i)** in units based on the International System of Units and in imperial units, the mass and height ranges of the persons for whom the manufacturer recommends the restraint system or booster seat, and
+		- **(ii)** in the case of a booster seat, that the booster seat is for use by a person whose mass is at least 18 kg; and
+	- **(b)** a warning that
+		- **(i)** if the manufacturer’s instructions on the use of the restraint system or booster seat are not followed, death or serious injury may occur, and
+		- **(ii)** if the restraint system is equipped with belts for restraining the person, the belts must be snugly adjusted around the person.
+
+- **(20)** The information referred to in subsection (19) shall be
+	- **(a)** in both official languages and in characters of at least 10 points; and
+	- **(b)** fully visible when the built-in restraint system or built-in booster seat is configured for use.
+
+- **(21)** Every built-in restraint system and built-in booster seat shall be accompanied by printed instructions, in both official languages, that set out a step-by-step procedure, including diagrams, for
+	- **(a)** using the restraint system or booster seat;
+	- **(b)** positioning a person in the restraint system or booster seat; and
+	- **(c)** adjusting every part of the restraint system or booster seat that is designed to restrain the person.
+
+- **(22)** The instructions referred to in subsection (21) shall
+	- **(a)** explain the primary consequences of not following the warnings referred to in paragraph 19(b) or the instructions referred to in subsection (21); and
+	- **(b)** in the case of a vehicle seat that is removable from the vehicle by means of a latch mechanism and that is equipped with a built-in restraint system or built-in booster seat, state that the vehicle seat, whether occupied or not, must be securely latched to the vehicle.
+
+- **(23)** Subsections(2), (3) and (6) to (8) expire on September 1, 2017.
+
+- **(24)** Until September 1, 2013, a built-in restraint system or built-in booster seat may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18; SOR/2013-117, s. 11..
 
 
 
@@ -6495,11 +6512,11 @@ Note: Drawing not to scale
 
 - **(1)** In this section,
 
-***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*)  
+***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*) 
 
-***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*)  
+***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*) 
 
-***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*)  
+***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*) 
 
 - **(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
 	- **(a)** when tested with the seats removed,
@@ -6814,17 +6831,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)  
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)  
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)  
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)  
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)  
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)  
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6855,19 +6872,19 @@ whichever is the higher.
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)  
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes:  
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
 - **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)  
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*)  
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)  
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
 
 - **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
@@ -6953,33 +6970,33 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)  
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)  
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)  
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)  
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)  
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)  
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)  
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)  
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*)  
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*) 
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)  
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)  
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)  
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)  
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)  
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
 
 ### Application
 
@@ -7494,11 +7511,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)  
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)  
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)  
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
