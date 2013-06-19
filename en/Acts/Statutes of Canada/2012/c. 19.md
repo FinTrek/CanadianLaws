@@ -2518,7 +2518,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind9086_hq_12885'>[*]</a></sup>**419** Sections 412 to 416 and 418 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9086_hq_12885'><sup>*</sup></a>: [Note: Section 412, subsection 414(2) and sections 415 and 416 in force October 25, 2012, *see* SI/2012-84.]<br />
+<a name='fn_Ind9086_hq_12885'><sup>*</sup></a>: [Note: Section 412, subsection 414(2) and sections 415 and 416 in force October 25, 2012, *see* SI/2012-84; section 413 and subsection 414(1) in force June 19, 2013, section 418 in force December 19, 2013, *see* SI/2013-65.]<br />
 
 
 
