@@ -128,7 +128,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** examinations at ports of entry;
 	- **(b)** the enforcement of this Act, including arrest, detention and removal;
 	- **(c)** the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, organized criminality or violating human or international rights; or
-	- **(d)** determinations under any of subsections 34(2), 35(2) and 37(2).
+	- **(d)** declarations referred to in section 42.1.
 
 **Minister of Human Resources and Skills Development**
 
@@ -143,7 +143,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication**
 
 - **(4)** Any order made under subsection (3) must be published in Part II of the Canada Gazette.
-> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701.
+> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701; 2013, c. 16, s. 2.
 
 
 
@@ -190,8 +190,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exception**
 
-- **(3)** Despite subsection (2), the Minister may not delegate the power conferred by subsection 20.1(1) or 77(1) or the ability to make determinations under subsection 34(2) or 35(2) or paragraph 37(2)(a).
-> 2001, c. 27, s. 6; 2012, c. 17, s. 3.
+- **(3)** Despite subsection (2), the Minister may not delegate the power conferred by subsection 20.1(1), section 22.1 or subsection 42.1(1) or (2) or 77(1).
+> 2001, c. 27, s. 6; 2012, c. 17, s. 3; 2013, c. 16, ss. 3, 36.
 
 
 
@@ -408,7 +408,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
 	- **(e)** sponsorships;
 	- **(e.1)** undertakings, and penalties for failure to comply with undertakings;
-	- **(f)** deposits or guarantees of the performance of obligations under this Act that are to be given by any person to the Minister; and
+	- **(f)** deposits or guarantees of the performance of obligations under this Act that are to be given by any person to the Minister;
+	- **(f.1)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with undertakings; and
 	- **(g)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national or sponsor.
 
 **Electronic travel authorization**
@@ -421,7 +422,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the circumstances in which a foreign national is exempt from the requirement to follow the procedures prescribed under that section;
 	- **(b)** the circumstances in which a foreign national is not required to provide certain biometric information; and
 	- **(c)** the processing of the collected biometric information, including creating biometric templates or converting the information into digital biometric formats.
-> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313.
+> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4.
 
 
 
@@ -520,16 +521,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A person who makes an application must answer truthfully all questions put to them for the purpose of the examination and must produce a visa and all relevant evidence and documents that the officer reasonably requires.
 
+**Obligation — appear for examination**
+
+- **(1.1)** A person who makes an application must, on request of an officer, appear for an examination.
+
 **Obligation — relevant evidence**
 
 - **(2)** In the case of a foreign national,
 	- **(a)** the relevant evidence referred to in subsection (1) includes photographic and fingerprint evidence; and
 	- **(b)** subject to the regulations, the foreign national must submit to a medical examination.
 
+**Obligation — interview**
+
+- **(2.1)** A foreign national who makes an application must, on request of an officer, appear for an interview for the purpose of an investigation conducted by the Canadian Security Intelligence Service under section 15 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md) for the purpose of providing advice or information to the Minister under section 14 of that Act and must answer truthfully all questions put to them during the interview.
+
 **Evidence relating to identity**
 
 - **(3)** An officer may require or obtain from a permanent resident or a foreign national who is arrested, detained or subject to a removal order, any evidence — photographic, fingerprint or otherwise — that may be used to establish their identity or compliance with this Act.
-> 2001, c. 27, s. 16; 2010, c. 8, s. 2.
+> 2001, c. 27, s. 16; 2010, c. 8, s. 2; 2013, c. 16, s. 5.
 
 
 
@@ -730,7 +739,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **25** 
 
-- **(1)** Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible or does not meet the requirements of this Act, and may, on request of a foreign national outside Canada who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+- **(1)** Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible — other than under section 34, 35 or 37 — or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada — other than a foreign national who is inadmissible under section 34, 35 or 37 — who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
 
 **Restriction — designated foreign national**
 
@@ -776,7 +785,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13; 2013, c. 16, ss. 9, 36.
 
 
 
@@ -786,7 +795,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **25.1** 
 
-- **(1)** The Minister may, on the Minister’s own initiative, examine the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+- **(1)** The Minister may, on the Minister’s own initiative, examine the circumstances concerning a foreign national who is inadmissible — other than under section 34, 35 or 37 — or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
 
 **Exemption**
 
@@ -795,7 +804,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(3)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2010, c. 8, s. 5.
+> 2010, c. 8, s. 5; 2013, c. 16, s. 10.
 
 
 
@@ -829,12 +838,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **26** The regulations may provide for any matter relating to the application of sections 18 to 25.2, and may include provisions respecting
 - **(a)** entering, remaining in and re-entering Canada;
 - **(b)** permanent resident status or temporary resident status, including acquisition of that status;
+- **(b.1)** declarations referred to in subsection 22.1(1);
 - **(c)** the circumstances in which all or part of the considerations referred to in section 24 may be taken into account;
 - **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
 - **(d.1)** undertakings that may or must be given in respect of requests made under subsection 25(1) or undertakings referred to in subsection 25.2(4), and penalties for failure to comply with undertakings;
 - **(d.2)** the determination of eligibility referred to in subsection 25.2(4); and
 - **(e)** deposits or guarantees of the performance of obligations under this Act that are to be given to the Minister.
-> 2001, c. 27, s. 26; 2010, c. 8, s. 6; 2012, c. 17, s. 15.
+> 2001, c. 27, s. 26; 2010, c. 8, s. 6; 2012, c. 17, s. 15; 2013, c. 16, s. 11.
 
 
 
@@ -990,12 +1000,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** selection criteria for each class of foreign national and for their family members, and the procedures for evaluating all or some of those criteria;
 - **(c)** anything referred to in paragraph (b) for which a decision or recommendation may or must be made by a designated person, institution or organization;
 - **(d)** the conditions that must or may be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals, including conditions respecting work or study;
-- **(d.1)** in relation to the authorization of a foreign national to work in Canada — including in relation to a work permit — the requirements that may or must be imposed on the employer in question, or that may or must be varied or cancelled;
-- **(d.2)** the power to inspect, for the purpose of verifying compliance with the requirements imposed on an employer in relation to the work permit of a foreign national that authorizes the foreign national to work in Canada temporarily;
-- **(d.3)** the consequences of a failure to comply with the requirements referred to in paragraph (d.2);
+- **(d.1)** the conditions that must or may be imposed, individually or by class, on individuals and entities — including employers and educational institutions — in respect of permanent residents and foreign nationals, or that must or may be varied or cancelled;
+- **(d.2)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with the conditions imposed under paragraphs (d) and (d.1);
+- **(d.3)** the consequences of a failure to comply with the conditions referred to in paragraphs (d) and (d.1);
 - **(e)** the residency obligation under section 28, including rules for calculating applicable days and periods; and
 - **(f)** the circumstances in which a document indicating status or a travel document may or must be issued, renewed or revoked.
-> 2001, c. 27, s. 32; 2012, c. 19, s. 705.
+> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37.
 
 
 
@@ -1018,16 +1028,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **34** 
 
 - **(1)** A permanent resident or a foreign national is inadmissible on security grounds for
-	- **(a)** engaging in an act of espionage or an act of subversion against a democratic government, institution or process as they are understood in Canada;
+	- **(a)** engaging in an act of espionage that is against Canada or that is contrary to Canada’s interests;
 	- **(b)** engaging in or instigating the subversion by force of any government;
+	- **(b.1)** engaging in an act of subversion against a democratic government, institution or process as they are understood in Canada;
 	- **(c)** engaging in terrorism;
 	- **(d)** being a danger to the security of Canada;
 	- **(e)** engaging in acts of violence that would or might endanger the lives or safety of persons in Canada; or
-	- **(f)** being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts referred to in paragraph (a), (b) or (c).
+	- **(f)** being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts referred to in paragraph (a), (b), (b.1) or (c).
 
-**Exception**
+- **(2)** [Repealed, 2013, c. 16, s. 13]
+> 2001, c. 27, s. 34; 2013, c. 16, s. 13.
 
-- **(2)** The matters referred to in subsection (1) do not constitute inadmissibility in respect of a permanent resident or a foreign national who satisfies the Minister that their presence in Canada would not be detrimental to the national interest.
 
 
 
@@ -1041,9 +1052,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** being a prescribed senior official in the service of a government that, in the opinion of the Minister, engages or has engaged in terrorism, systematic or gross human rights violations, or genocide, a war crime or a crime against humanity within the meaning of subsections 6(3) to (5) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md); or
 	- **(c)** being a person, other than a permanent resident, whose entry into or stay in Canada is restricted pursuant to a decision, resolution or measure of an international organization of states or association of states, of which Canada is a member, that imposes sanctions on a country against which Canada has imposed or has agreed to impose sanctions in concert with that organization or association.
 
-**Exception**
+- **(2)** [Repealed, 2013, c. 16, s. 14]
+> 2001, c. 27, s. 35; 2013, c. 16, s. 14.
 
-- **(2)** Paragraphs (1)(b) and (c) do not apply in the case of a permanent resident or a foreign national who satisfies the Minister that their presence in Canada would not be detrimental to the national interest.
 
 
 
@@ -1092,9 +1103,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application**
 
-- **(2)** The following provisions govern subsection (1):
-	- **(a)** subsection (1) does not apply in the case of a permanent resident or a foreign national who satisfies the Minister that their presence in Canada would not be detrimental to the national interest; and
-	- **(b)** paragraph (1)(a) does not lead to a determination of inadmissibility by reason only of the fact that the permanent resident or foreign national entered Canada with the assistance of a person who is involved in organized criminal activity.
+- **(2)** Paragraph (1)(a) does not lead to a determination of inadmissibility by reason only of the fact that the permanent resident or foreign national entered Canada with the assistance of a person who is involved in organized criminal activity.
+> 2001, c. 27, s. 37; 2013, c. 16, s. 15.
+
 
 
 
@@ -1176,6 +1187,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **42** A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
 - **(a)** their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or
 - **(b)** they are an accompanying family member of an inadmissible person.
+
+
+
+
+**Exception — application to Minister**
+
+**42.1** 
+
+- **(1)** The Minister may, on application by a foreign national, declare that the matters referred to in section 34, paragraphs 35(1)(b) and (c) and subsection 37(1) do not constitute inadmissibility in respect of the foreign national if they satisfy the Minister that it is not contrary to the national interest.
+
+**Exception — Minister’s own initiative**
+
+- **(2)** The Minister may, on the Minister’s own initiative, declare that the matters referred to in section 34, paragraphs 35(1)(b) and (c) and subsection 37(1) do not constitute inadmissibility in respect of a foreign national if the Minister is satisfied that it is not contrary to the national interest.
+
+**Considerations**
+
+- **(3)** In determining whether to make a declaration, the Minister may only take into account national security and public safety considerations, but, in his or her analysis, is not limited to considering the danger that the foreign national presents to the public or the security of Canada.
+> 2013, c. 16, s. 18.
+
 
 
 
@@ -1344,13 +1374,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **53** The regulations may provide for any matter relating to the application of this Division, and may include provisions respecting
 - **(a)** conditions that may or must be imposed, varied, or cancelled, individually or by class, on permanent residents and foreign nationals;
+- **(a.1)** the form and manner in which an application to renounce permanent resident status must be made and the conditions that must be met before such an application may be approved;
 - **(b)** the circumstances in which a removal order shall be made or confirmed against a permanent resident or a foreign national;
 - **(c)** the circumstances in which status may be restored;
 - **(d)** the circumstances in which a removal order may be stayed, including a stay imposed by the Minister and a stay that is not expressly provided for by this Act;
 - **(e)** the effect and enforcement of removal orders, including the consideration of factors in the determination of when enforcement is possible;
 - **(f)** the effect of a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) on the status of permanent residents and foreign nationals and removal orders made against them; and
 - **(g)** the financial obligations that may be imposed with respect to a removal order.
-> 2001, c. 27, s. 53; 2012, c. 1, s. 150, c. 17, s. 22.
+> 2001, c. 27, s. 53; 2012, c. 1, s. 150, c. 17, s. 22; 2013, c. 16, s. 21.
 
 
 
@@ -1579,11 +1610,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Serious criminality**
 
-- **(2)** For the purpose of subsection (1), serious criminality must be with respect to a crime that was punished in Canada by a term of imprisonment of at least two years.
+- **(2)** For the purpose of subsection (1), serious criminality must be with respect to a crime that was punished in Canada by a term of imprisonment of at least six months or that is described in paragraph 36(1)(b) or (c).
 
 **Misrepresentation**
 
 - **(3)** No appeal may be made under subsection 63(1) in respect of a decision that was based on a finding of inadmissibility on the ground of misrepresentation, unless the foreign national in question is the sponsor’s spouse, common-law partner or child.
+> 2001, c. 27, s. 64; 2013, c. 16, s. 24.
+
 
 
 
