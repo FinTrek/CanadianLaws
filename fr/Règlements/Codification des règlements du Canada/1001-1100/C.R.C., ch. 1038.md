@@ -34,7 +34,7 @@ Autorités habilitantes :
 
 ***ancien modèle*** désigne un véhicule de plus de 30 ans qui, lorsqu’il est remis dans un état comparable à celui de sa date de fabrication, conserve les pièces originales ou est constitué de pièces de rechange dont les caractéristiques sont les mêmes que celles des pièces originales; (*antique vehicle*)
 
-***ancrage d’attache prêt à utiliser*** Dispositif qui transmet à la structure du véhicule ou à la structure du siège les forces exercées sur la courroie d’attache par l’ensemble de retenue et qui est conçu pour recevoir directement le crochet de la courroie d’attache sans nécessiter l’installation d’aucun autre dispositif pour recevoir ce dernier. (*user-ready tether anchorage*)
+***ancrage d’attache prêt à utiliser*** Dispositif qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées sur la courroie d’attache par un ensemble de retenue ou un siège d’appoint et par l’occupant de l’un ou de l’autre et qui est conçu pour recevoir directement le crochet de la courroie d’attache sans nécessiter l’installation d’aucun autre dispositif. (*user-ready tether anchorage*)
 
 ***ancrage de ceinture de sécurité*** S’entend de toute pièce d’un véhicule — à l’exception d’une courroie ou d’une sangle — , notamment de toute pièce de fixation, du bâti et du socle des sièges, de la structure du véhicule et de tout élément du véhicule, qui sert à transmettre à la structure du véhicule les forces exercées sur une ceinture de sécurité et de tout élément du véhicule qui, s’il se rompt, cause la séparation de la ceinture de sécurité de la structure du véhicule. (*seat belt anchorage*)
 
@@ -62,7 +62,7 @@ Autorités habilitantes :
 
 ***ASTM**** American Society for Testing Materials*. (*ASTM*)
 
-***attache*** Pièce de connexion à déblocage rapide qui permet de maintenir une personne dans une ceinture de sécurité. (*buckle*)
+***attache*** Pièce de connexion à déblocage rapide qui permet de maintenir une personne dans une ceinture de sécurité ou un ensemble intégré de retenue. (*buckle*)
 
 ***autobus*** Véhicule ayant un nombre désigné de places assises supérieur à 10. Sont exclus de la présente définition les remorques et les véhicules importés temporairement à des fins spéciales. (*bus*)
 
@@ -86,7 +86,7 @@ Autorités habilitantes :
 
 ***base de jante***[Abrogée, DORS/2008-258, art. 1]
 
-***bébé*** Personne dont la masse est inférieure à 9 kg. (*infant*)
+***bébé*** Personne qui ne peut marcher sans aide et dont la masse est d’au plus 10 kg. (*infant*)
 
 ***bicyclette assistée*** Véhicule qui répond aux conditions suivantes :
 - **a)** il a un guidon et est équipé de pédales;
@@ -129,7 +129,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***ceinture-baudrier*** S’entend de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement au niveau de la poitrine et des épaules. (*upper torso restraint*)
 
-***ceinture de sécurité*** Courroie, sangle ou dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, y compris toutes les attaches et tous les autres dispositifs de fermeture nécessaires, et toutes les pièces de fixation. (*seat belt assembly*)
+***ceinture de sécurité*** Courroie, sangle ou dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, y compris toutes les attaches et tous les autres dispositifs de fermeture nécessaires, et toutes les pièces de fixation. La présente définition exclut les courroies, sangles et dispositifs semblables qui font partie des ensembles intégrés de retenue. (*seat belt assembly*)
 
 ***ceinture de sécurité de type 1*** S’entend d’une ceinture sous-abdominale. (*Type 1 seat belt assembly*)
 
@@ -179,15 +179,15 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***courroie*** Bande étroite non tissée utilisée dans une ceinture de sécurité à la place d’une sangle. (*strap*)
 
-***courroie d’attache*** Dispositif qui transmet à l’ancrage d’attache prêt à utiliser les forces exercées sur l’ensemble de retenue, qui est pourvu d’un crochet de la courroie d’attache et qui est fixé à la structure rigide de l’ensemble. (*tether strap*)
+***courroie d’attache*** Dispositif qui est muni d’un crochet de la courroie d’attache et fixé à la structure rigide d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à l’ancrage d’attache prêt à utiliser les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre. (*tether strap*)
 
 ***coussin d’appoint***[Abrogée, DORS/98-160, art. 1]
 
-***coussin d’appoint intégré*** Dispositif conçu comme partie intégrante d’un siège de véhicule, pour asseoir dans une position surélevée une personne dont le poids est d’au moins 18 kg (40 livres), pour y adapter une ceinture de sécurité pour adultes. (*built-in booster cushion*)
+***coussin d’appoint intégré***[Abrogée, DORS/2013-117, art. 1]
 
 ***couvercle transparent***[Abrogée, DORS/96-366, art. 1]
 
-***crochet de la courroie d’attache*** Dispositif dont le profil d’interface est illustré à la figure 1 de l’article 210.1 de l’annexe IV et qui sert à attacher la courroie d’attache à l’ancrage d’attache prêt à utiliser. (*tether strap hook*)
+***crochet de la courroie d’attache*** Dispositif qui est utilisé pour attacher la courroie d’attache à l’ancrage d’attache prêt à utiliser et dont le profil d’interface est illustré à la figure 1 de l’annexe 7 du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md) ou, s’il s’agit d’un dispositif muni d’un accessoire de réglage intégré, à la figure 2 de l’annexe 7 de ce règlement. (*tether strap hook*)
 
 ***crochet de la sangle d’attache***[Abrogée, DORS/98-457, art. 1]
 
@@ -224,7 +224,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***dispositif d’orientation intégré***[Abrogée, DORS/96-366, art. 1]
 
-***dispositif universel d’ancrages d’attaches inférieurs*** Dispositif, autre qu’une ceinture de sécurité, qui est conçu pour assujettir la partie inférieure d’un ensemble de retenue ou d’un coussin d’appoint au véhicule et qui transmet à la structure du véhicule ou au siège les forces exercées par l’ensemble de retenue ou le coussin d’appoint et par l’occupant de l’un ou de l’autre. (*lower universal anchorage system*)
+***dispositif universel d’ancrages d’attaches inférieurs*** Dispositif, autre qu’une ceinture de sécurité du véhicule, qui est conçu pour assujettir à un véhicule la partie inférieure d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre. (*lower universal anchorage system*)
 
 ***distance d’arrêt*** désigne la distance parcourue par un véhicule entre le moment où la commande du frein est actionnée et l’arrêt complet; (*stopping distance*)
 
@@ -238,11 +238,11 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***encrassement***[Abrogée, DORS/2007-180, art. 1]
 
-***enfant*** désigne une personne dont le poids se situe entre 9 kg (20 lb) et 22 kg (48 lb) inclusivement; (*child*)
+***enfant*** Personne dont la masse est de plus de 10 kg et d’au plus 30 kg. (*child*)
 
 ***ensemble de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***ensemble de retenue*** Dispositif amovible conçu pour être installé dans un véhicule afin de retenir un bébé, un enfant ou un occupant à mobilité réduite. Les ceintures de sécurité d’un véhicule et les coussins d’appoint ne sont pas compris dans la présente définition. (*restraint system*)
+***ensemble de retenue*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md). (*restraint system*)
 
 ***ensemble de retenue de bébé***[Abrogée, DORS/98-160, art. 1]
 
@@ -254,9 +254,13 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***ensemble de retenue sur mesure pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble intégré de retenue à double usage*** Dispositif qui allie les fonctions d’un ensemble intégré de retenue d’enfant et d’un coussin d’appoint intégré. (*built-in dual-purpose restraint system*)
+***ensemble intégré de retenue*** Dispositif qui, à la fois :
+- **a)** fait partie intégrante d’un siège du véhicule;
+- **b)** est conçu pour retenir uniquement une personne dont la masse est de plus de 10 kg et d’au plus 41 kg. (*built-in restraint system*)
 
-***ensemble intégré de retenue d’enfant*** Dispositif, à l’exception des ceintures de sécurité de type 1 ou de type 2, qui est conçu pour retenir un enfant et qui fait partie intégrante d’un siège de véhicule. (*built-in child restraint system*)
+***ensemble intégré de retenue à double usage***[Abrogée, DORS/2013-117, art. 1]
+
+***ensemble intégré de retenue d’enfant***[Abrogée, DORS/2013-117, art. 1]
 
 ***éraflure***[Abrogée, DORS/2007-180, art. 1]
 
@@ -351,7 +355,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de car
 
 ***ligne de torse*** La ligne joignant le point H au point de référence de l’épaule, décrite dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995). (*torso line*)
 
-***ligne repère d’orientation du siège (LROS)*** désigne la ligne horizontale passant par le point Z, comme l’illustre la figure 1 des articles 213, 213.1 et 213.3; (*seat orientation reference line (SORL)*)
+***ligne repère d’orientation du siège (LROS)***[Abrogée, DORS/2013-117, art. 1]
 
 ***limiteur de charge*** S’entend de l’élément ou de la caractéristique de la ceinture de sécurité qui maîtrise la tension de la ceinture de manière à contrôler les forces auxquelles est soumis l’usager de la ceinture au moment d’une collision. (*load-limiter*)
 
@@ -451,7 +455,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***occupant*** Personne ou mannequin assis dans un véhicule et dont les dimensions et la masse, à moins d’indication contraire, correspondent à ceux du 95<sup>e</sup> percentile adulte du sexe masculin. (*occupant*)
 
-***occupant à mobilité réduite*** désigne une personne dont la masse est de 9 kg ou plus et qui, pour des raisons orthopédiques ou à cause de sa conformation ou d’autres caractéristiques physiques, ne peut se servir d’un ensemble de retenue d’enfant ou d’une ceinture de sécurité de type 1 ou de type 2; (*mobility-impaired occupant*)
+***occupant à mobilité réduite***[Abrogée, DORS/2013-117, art. 1]
 
 ***panneau du pavillon à servocommande***[Abrogée, DORS/2007-180, art. 1]
 
@@ -601,6 +605,12 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***siège adjacent*** Place assise désignée dont l’emplacement est tel qu’une partie quelconque de son espace d’occupant se trouve à 25,4 cm au plus d’une issue de secours, sur une distance d’au moins 38,1 cm mesurée horizontalement et parallèlement à l’issue de secours. (*adjacent seat*)
 
+***siège d’appoint*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md). (*booster seat*)
+
+***siège d’appoint intégré*** Dispositif qui, à la fois :
+- **a)** fait partie intégrante d’un siège du véhicule;
+- **b)** est conçu pour asseoir une personne dont la masse est d’au moins 18 kg, de manière que la ceinture de sécurité soit bien ajustée. (*built-in booster seat*)
+
 ***source lumineuse***[Abrogée, DORS/96-366, art. 1]
 
 ***surface de contact***[Abrogée, DORS/98-160, art. 1]
@@ -609,7 +619,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***surface lumineuse efficace d’une lentille***[Abrogée, DORS/96-366, art. 1]
 
-***système d’attaches inférieures*** Système composé de deux attaches qui s’insèrent chacune dans un dispositif de contrôle dont l’enveloppe a les dimensions illustrées à la figure 10 de l’annexe 10 du [Règlement sur la sécurité des ensembles de retenue et des coussins d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/159.md), sont fixées à la partie inférieure d’un ensemble de retenue ou d’un coussin d’appoint de manière qu’il ne soit possible de les enlever qu’à l’aide d’outils et permettent de fixer solidement l’ensemble de retenue ou le coussin d’appoint au dispositif universel d’ancrages d’attaches inférieurs du véhicule. (*lower connector system*)
+***système d’attaches inférieures***[Abrogée, DORS/2013-117, art. 1]
 
 ***système de commande d’accélération actionné par le conducteur*** désigne toutes les pièces d’un véhicule, à l’exception du dispositif de dosage du carburant, qui agissent sur le régime du moteur sous l’action directe de la commande actionnée par le conducteur et qui ramènent le papillon des gaz à la position de ralenti dès que le conducteur relâche cette commande; (*driver-operated accelerator control system*)
 
@@ -752,7 +762,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** [Abrogé, DORS/2009-318, art. 1]
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1.
 
 
 
@@ -1244,12 +1254,12 @@ où :
 
 - **(1)** Pour chaque véhicule sur lequel la marque nationale de sécurité est apposée ou qui est importé au Canada, l’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que le véhicule est conforme aux normes réglementaires qui lui sont applicables et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
 
-- **(2)** L’entreprise qui fait tenir les dossiers visés au paragraphe (1) par une autre personne conserve le nom et l’adresse de cette personne.
+- **(2)** L’entreprise qui fait tenir par une personne les dossiers visés au paragraphe (1) conserve les nom et adresse de celle-ci.
 
 - **(3)** Sur demande écrite d’un inspecteur, l’entreprise envoie à celui-ci une copie des dossiers visés au paragraphe (1), dans l’une ou l’autre langue officielle :
 	- **a)** dans les 30 jours ouvrables qui suivent la date de mise à la poste de la demande;
 	- **b)** dans le cas où les dossiers doivent être traduits, dans les 45 jours ouvrables qui suivent la date de mise à la poste de la demande.
-> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2; DORS/2009-32, art. 1.
+> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2; DORS/2009-32, art. 1; DORS/2013-117, art. 2.
 
 
 
@@ -1445,13 +1455,17 @@ où :
 
 **15** 
 
-- **(1)** L’avis de défaut visé aux paragraphes 10(1) et (3) de la Loi est donné par écrit et comprend :
+- **(1)** Pour l’application du paragraphe 10(4) de la Loi, l’avis de défaut prévu à l’article 10 de la Loi contient les renseignements suivants :
 	- **a)** le nom de l’entreprise qui donne l’avis de défaut;
 	- **b)** la catégorie réglementaire de chaque véhicule pour lequel l’avis est donné, la marque, le modèle, l’année de modèle, le numéro d’identification du véhicule, la période de sa fabrication et tout autre renseignement nécessaire pour en permettre l’identification;
 	- **c)** le pourcentage estimatif des véhicules susceptibles d’être défectueux;
 	- **d)** une description du défaut;
 	- **e)** une estimation du risque correspondant;
 	- **f)** un exposé des mesures à prendre pour corriger le défaut.
+
+- **(1.1)** L’avis de défaut prévu au paragraphe 10(1) de la Loi est donné par écrit et, lorsqu’il est destiné à une personne autre que le ministre, il est donné :
+	- **a)** soit dans les deux langues officielles;
+	- **b)** soit, si celle-ci est connue, dans la langue officielle du choix de la personne.
 
 - **(2)** Dans les 60 jours après avoir donné un avis de défaut, l’entreprise présente au ministre le rapport visé au paragraphe 10(6) de la Loi, lequel contient, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
 	- **a)** le nombre de véhicules visés par l’avis de défaut, ainsi que le nombre de ces véhicules qui appartiennent à chaque catégorie réglementaire;
@@ -1463,7 +1477,7 @@ où :
 	- **b)** le nombre révisé de véhicules visés par l’avis de défaut, le cas échéant;
 	- **c)** les dates auxquelles les avis de défaut ont été donnés aux propriétaires actuels des véhicules;
 	- **d)** le nombre ou le pourcentage des véhicules corrigés, y compris ceux qui n’ont nécessité qu’une inspection.
-> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3.
+> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3; DORS/2013-117, art. 3.
 
 
 
@@ -2275,7 +2289,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>210.1</td>
-<td>Ancrages d’attache prêts à utiliser pour les ensembles de retenue</td>
+<td>Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2295,7 +2309,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>210.2</td>
-<td>Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des coussins d’appoint</td>
+<td>Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des sièges d’appoint</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2335,7 +2349,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>213.4</td>
-<td>Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés</td>
+<td>Ensembles intégrés de retenue et sièges d’appoint intégrés</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2879,7 +2893,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5.
 
 
 
@@ -5625,17 +5639,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 qui est munie d’une ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
 
-- **(3)** La sangle de la ceinture de sécurité ne doit pas déteindre sur un tissu de frottement, sec ou mouillé, à un degré supérieur à la catégorie 3 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC, intitulée *AATCC 9-Step Chromatic Transference Scale* (révision de 2002).
-
-- **(4)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (3) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 8-2005 de l’AATCC, intitulée *Colorfastness to Crocking : AATCC Crockmeter Method*.
-
-- **(5)** La sangle de la ceinture de sécurité ne doit pas tacher à un degré supérieur à la catégorie 2 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC, intitulée *AATCC 9-Step Chromatic Transference Scale* (révision de 2002).
-
-- **(6)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (5) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 107-2002 de l’AATCC, intitulée *Colorfastness to Water*, sauf que :
-	- **a)** la solution pour essai doit être de l’eau distillée qui vient d’être bouillie;
-	- **b)** l’appareil de contrôle de solidité à la sueur AATCC doit être utilisé;
-	- **c)** à sa sortie du four, l’échantillon mis à l’essai doit être accroché pour sécher à l’air pendant quatre heures;
-	- **d)** l’échelle de transfert chromatique de l’AATCC doit être utilisée pour évaluer la souillure du tissu témoin multifibre.
+- **(3) à (6)** [Abrogés, DORS/2013-117, art. 6]
 
 - **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
@@ -5689,7 +5693,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(12)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
 
 - **(13)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4..
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6..
 
 
 
@@ -5752,7 +5756,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Ancrages d’attache prêts à utiliser pour les ensembles de retenue (Norme 210.1)
+### Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint (Norme 210.1)
+> [DORS/2013-117, art. 7]
+
 
 
 #### Application
@@ -5767,29 +5773,30 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **e)** les autobus, autres que les autobus scolaires, dont le PNBV est d’au plus 4 536 kg.
 
 - **(2)** Le présent article ne s’applique pas :
-	- **a)** aux places assises désignées qui sont munies d’un ensemble intégré de retenue d’enfant ne faisant pas partie d’un siège de véhicule amovible;
+	- **a)** aux places assises désignées qui sont munies d’un ensemble intégré de retenue ne faisant pas partie d’un siège de véhicule amovible;
 	- **b)** aux corbillards.
 
 #### Dispositions générales
 
 
-- **(3)** Sous réserve du paragraphe (3.3), un ancrage d’attache prêt à utiliser doit être installé à bord des véhicules, autres que les décapotables ou les véhicules de type ouvert :
-	- **a)** à chaque place assise désignée faisant face à l’avant, autre que celle du conducteur, à bord des véhicules ayant une seule rangée de places assises désignées faisant face à l’avant;
-	- **b)** à chaque place assise désignée faisant face à l’avant dans la deuxième rangée de places assises, à bord des voitures de tourisme, des véhicules à trois roues ou des camions;
-	- **c)** à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à bord des véhicules de tourisme à usages multiples ayant moins de cinq places assises désignées;
-	- **d)** le cas échéant, à trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à bord des véhicules de tourisme à usages multiples ayant cinq places assises désignées ou plus;
-	- **e)** le cas échéant, à deux places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au plus 24 places assises désignées pour passager;
-	- **f)** le cas échéant, à quatre places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager;
-	- **g)** le cas échéant, à huit places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 66 places assises désignées pour passager;
-	- **h)** le cas échéant, à deux places assises désignées faisant face à l’avant, sauf celle du conducteur, à bord des autobus autres que des autobus scolaires.
+- **(3)** Sous réserve des paragraphes (3.2) et (3.3), un ancrage d’attache prêt à utiliser doit être installé à bord des véhicules autres que les décapotables ou les véhicules de type ouvert :
+	- **a)** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à toutes les places assises désignées faisant face à l’avant autres que celle du conducteur;
+	- **b)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
+	- **c)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins quatre places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées, et au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée intérieure faisant face à l’avant, s’il y en a une;
+	- **d)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
+	- **e)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
+	- **f)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
+	- **g)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
+	- **h)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
+	- **i)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
 
-- **(3.1)** Un ancrage d’attache prêt à utiliser doit être installé et pouvoir être utilisé en tout temps, sauf lorsque la position assise pour laquelle il est installé ne peut être utilisée parce que le siège du véhicule a été enlevé ou transformé en vue d’une autre utilisation telle que le transport de cargaison.
+- **(3.1)** Un ancrage d’attache prêt à utiliser doit pouvoir être utilisé en tout temps, sauf lorsque la place assise désignée à laquelle il est installé ne peut être utilisée parce que le siège du véhicule a été enlevé ou transformé en vue d’une autre utilisation telle que le transport de marchandises.
 
-- **(3.2)** [Abrogé, DORS/2008-72, art. 8]
+- **(3.2)** Lorsqu’un dispositif universel d’ancrages d’attaches inférieurs est installé, en conformité avec le paragraphe 210.2(8), à une place assise désignée pour passager dans la première rangée de places assises désignées, un ancrage d’attache prêt à utiliser doit être installé à cette place assise désignée.
 
-- **(3.3)** Lorsqu’un dispositif universel d’ancrages d’attaches inférieurs est installé à une place assise désignée pour passager dans la première rangée de places assises désignées en conformité avec le paragraphe (8) du présent règlement, un ancrage d’attache prêt à utiliser doit être installé à cette place assise désignée.
+- **(3.3)** Le nombre d’ancrages d’attache prêts à utiliser exigé aux alinéas (3)b) et c) peut être réduit de un si un ancrage d’attache prêt à utiliser est installé, en conformité avec le paragraphe (3.2), dans la première rangée de places assises désignées.
 
-- **(3.4)** Le nombre d’ancrages d’attache prêts à utiliser exigé dans la deuxième rangée de places assises désignées en application du paragraphe (3) peut être réduit de un si un ancrage d’attache prêt à utiliser est installé dans la première rangée en conformité avec le paragraphe (3.3).
+- **(3.4)** [Abrogé, DORS/2013-117, art. 8]
 
 - **(4)** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être facilement accessible et, si elle est recouverte, le couvercle doit être indiqué par un des symboles, ou l’image symétrique d’un des symboles, illustrés à la figure 2 et doit pouvoir s’enlever sans l’aide d’outils.
 
@@ -5827,27 +5834,14 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(9)** [Abrogé, DORS/2008-72, art. 8]
 
-- **(10)** Lorsque les zones de positionnement d’ancrages d’attache se chevauchent et qu’il y est installé un ancrage d’attache prêt à utiliser conçu pour recevoir simultanément les crochets de courroies d’attache de deux ensembles de retenue, chacune des deux parties de l’ancrage d’attache conçues pour s’unir à un crochet de la courroie d’attache doit résister à la force visée au paragraphe (8), appliquée simultanément aux deux parties.
+- **(10)** Lorsque les zones de positionnement d’ancrages d’attache prêt à utiliser se chevauchent et si, dans le secteur de chevauchement, il est installé un ancrage d’attache prêt à utiliser conçu pour recevoir simultanément les crochets de courroies d’attache de deux ensembles de retenue ou sièges d’appoint, chaque partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir à un crochet de la courroie d’attache doit résister à la force visée au paragraphe (8) lorsqu’elle est appliquée simultanément aux deux parties.
 
 - **(11)** Lorsqu’une banquette d’autobus ou une rangée de places assises désignées dans un autre véhicule compte plus d’un ancrage d’attache prêt à utiliser et qu’une distance de 400 mm ou plus, mesurée conformément à la figure 20, sépare les points milieux des places assises désignées adjacentes, la force visée aux paragraphes (8) ou (10), selon le cas, doit être appliquée simultanément à chacun des ancrages d’attache prêts à utiliser de la manière prévue au paragraphe pertinent.
 
 - **(12)** Les essais de résistance doivent être effectués avec le siège ajusté dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
 
-- 
-<table>
-<tr>
-<td>
-> Image: Diagramme montrant le profil d’interface du crochet de la courroie d’attache avec mesures et descriptions
+- Figure 1 [Abrogée, DORS/2013-117, art. 8]
 
-
-###### Remarques :
-
-- **1** Les dimensions sont exprimées en mm, sauf indication contraire.
-- **2** Le dessin n’est pas à l’échelle.
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -6059,21 +6053,20 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 - **1** **Le dessin n’est pas à l’échelle.**
 - **2** **Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.**
-- **3** **La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.**
+- **3** **La distance doit être mesurée entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.**
 
 </td>
 </tr>
-<tr>
-<td>****</td>
-</tr>
 </table>
 
-> DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15; DORS/2008-72, art. 8..
+> DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15; DORS/2008-72, art. 8; DORS/2013-117, art. 8..
 
 
 
 
-### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des coussins d’appoint (Norme 210.2)
+### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des sièges d’appoint (Norme 210.2)
+> [DORS/2013-117, art. 9]
+
 
 
 #### Application
@@ -6090,7 +6083,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 - **(2)** Le présent article ne s’applique pas :
 	- **a)** aux camions de type fourgon à accès en position debout;
 	- **b)** aux autobus qui ne comportent, à l’arrière du siège du conducteur, qu’une rangée de places assises désignées faisant face à l’avant;
-	- **c)** aux véhicules non munis d’un interrupteur manuel pour désactiver le sac gonflable frontal installé à la place assise désignée extérieure avant droite lorsqu’un ensemble de retenue ou un coussin d’appoint, quel qu’il soit, est installé, dans les cas suivants :
+	- **c)** aux véhicules non munis d’un interrupteur manuel pour désactiver le sac gonflable frontal installé à la place assise désignée extérieure avant droite lorsqu’un ensemble de retenue ou un siège d’appoint, quel qu’il soit, est installé, dans les cas suivants :
 		- **(i)** ils ne comportent qu’une rangée de places assises désignées faisant face à l’avant,
 		- **(ii)** en raison de l’emplacement des composants de la transmission ou de la suspension, les barres du dispositif universel d’ancrages d’attaches inférieurs ne peuvent être installées de façon que le dispositif de retenue pour enfant puisse y être fixé de la manière illustrée à la figure 1 à une place assise située à l’arrière de la première rangée de places assises,
 		- **(iii)** aucune des places assises qui sont situées à l’arrière de la première rangée de places assises ne peut recevoir le dispositif de retenue pour enfant illustré aux figures 2 à 4;
@@ -6107,22 +6100,24 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 	- **e)** elles sont fixées rigidement au siège, à l’ancrage de celui-ci ou à la structure du véhicule de manière que, le siège étant réglé dans le véhicule dans sa position la plus reculée et la plus basse et le dossier se trouvant dans la position assise nominale, elles ne puissent se déformer de plus de 5 mm lorsqu’elles sont assujetties à une force de 100 N dans une quelconque direction;
 	- **f)** elles permettent la fixation d’un dispositif de contrôle, sur toute la largeur de ce dispositif, l’espace entre la surface des barres et la ligne M, illustrée à la figure 5, étant inférieur à 1 mm.
 
-- **(4)** Sous réserve des paragraphes (7) et (8), le dispositif universel d’ancrages d’attaches inférieurs est installé :
-	- **a)** à une place assise désignée faisant face à l’avant, autre que celle du conducteur, à bord des véhicules ayant une seule rangée de places assises désignées faisant face à l’avant;
-	- **b)** à deux places assises désignées faisant face à l’avant dans la deuxième rangée de places assises, à bord des voitures de tourisme, des véhicules à trois roues et des camions;
-	- **c)** à deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises, à bord des véhicules de tourisme à usages multiples ayant plus de deux rangées de places assises, au moins un des dispositifs devant être installé à une place assise dans la deuxième rangée;
-	- **d)** à deux places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au plus 24 places assises désignées pour passager;
-	- **e)** à quatre places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager;
-	- **f)** à huit places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 66 places assises désignées pour passager;
-	- **g)** à deux places assises désignées faisant face à l’avant, autre que celle du conducteur, à bord des autobus autres que des autobus scolaires.
+- **(4)** Sous réserve des paragraphes (7) et (8), un dispositif universel d’ancrages d’attaches inférieurs doit être installé à bord des véhicules :
+	- **a)** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à une place assise désignée faisant face à l’avant autre que celle du conducteur;
+	- **b)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
+	- **c)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un dispositif universel d’ancrage d’attaches inférieurs devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées;
+	- **d)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
+	- **e)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
+	- **f)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
+	- **g)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
+	- **h)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
+	- **i)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
 
 - **(5)** [Abrogé, DORS/2008-72, art. 9]
 
 - **(6)** Le dispositif universel d’ancrages d’attaches inférieurs doit être installé seulement à une place assise désignée munie d’un ancrage d’attache prêt à utiliser, sauf dans le cas des décapotables et des véhicules de type ouvert.
 
-- **(7)** Le nombre de dispositifs universels d’ancrages d’attaches inférieurs exigé dans un véhicule en vertu du paragraphe (4) peut être diminué du nombre d’ensembles intégrés de retenue d’enfants qui y sont installés.
+- **(7)** Le nombre de dispositifs universels d’ancrages d’attaches inférieurs exigé dans un véhicule en vertu du paragraphe (4) peut être diminué du nombre d’ensembles intégrés de retenue qui y sont installés.
 
-- **(8)** Sauf dans le cas d’un autobus, lorsque la distance entre la surface arrière du dossier du siège avant et la surface avant du dossier du siège arrière est inférieure à 720 mm, mesurée conformément à la figure 6, un dispositif universel d’ancrages d’attaches inférieurs peut être installé à une place assise désignée pour passager dans la première rangée de places assises désignées au lieu d’être installé dans la deuxième rangée de places assises désignées si le véhicule est muni d’un interrupteur visé à l’alinéa (2)c).
+- **(8)** Sauf dans le cas d’un autobus, si la distance entre la surface arrière du dossier du siège avant d’un véhicule et la surface avant du dossier du siège arrière est inférieure de celui-ci à 720 mm, mesurée conformément à la figure 6, et si le véhicule est muni de l’interrupteur manuel visé à l’alinéa (2)c), un dispositif universel d’ancrages d’attaches inférieurs peut être installé à une place assise désignée pour passager dans la première rangée de places assises désignées au lieu d’être installé aux places assises désignées situées à l’arrière de la première rangée de places assises désignées.
 
 - **(9)** Le véhicule muni d’un siège glissant latéralement ou pouvant être installé à toute autre place assise doit être conforme aux exigences énoncées dans le présent article, lorsque le siège est réglé à toute position du réglage.
 
@@ -6203,7 +6198,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 	- **d)** lorsqu’il s’agit d’un dispositif repliable, des instructions sur la marche à suivre pour le déplier;
 	- **e)** lorsque des appuie-tête sont installés aux places assises munies d’un dispositif universel d’ancrages d’attaches inférieurs, des instructions sur la bonne façon de les régler pour permettre leur utilisation avec les ancrages d’attache prêts à utiliser;
 	- **f)** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière;
-	- **g)** si les décapotables ou les véhicules de type ouvert n’ont pas de place assise désignée munie d’un ancrage d’attache prêt à utiliser, la mention que ni un ensemble de retenue d’enfant ni un coussin d’appoint exigeant l’utilisation d’une courroie d’attache ne peuvent être convenablement assujettis à bord de ces véhicules.
+	- **g)** lorsque le véhicule est une décapotable ou un véhicule de type ouvert et qu’il n’a pas de place assise désignée munie d’un ancrage d’attache prêt à utiliser, la mention que ni un ensemble de retenue ni un siège d’appoint exigeant l’utilisation d’une courroie d’attache ne peuvent être convenablement assujettis à bord de ce véhicule.
 
 - 
 <table>
@@ -6327,7 +6322,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 - **1** Le dessin n’est pas à l’échelle.
 - **2** Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.
-- **3** La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.
+- **3** La distance doit être mesurée entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.
 
 </td>
 </tr>
@@ -6375,7 +6370,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 </tr>
 </table>
 
-> DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17..
+> DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17; DORS/2013-117, art. 10..
 
 
 
@@ -6400,95 +6395,114 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 
 
-### Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés
+### Ensembles intégrés de retenue et sièges d’appoint intégrés (Norme 213.4)
 
 **213.4** 
 
-- **(1)** Tout ensemble intégré de retenue d’enfant et tout coussin d’appoint intégré, lorsqu’ils sont soumis aux essais décrits à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007), à n’importe quelle position que l’ensemble, le coussin ou le siège du véhicule peut être utilisé lorsque le véhicule est en mouvement, doivent répondre aux conditions suivantes :
-	- **a)** ne présenter aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant des surfaces d’un rayon de moins de 6,4 mm (¼ pouce) ou des surfaces présentant des saillies dépassant de plus de 9,5 mm (3/8 pouce) la surface de contact adjacente d’un élément d’armature;
-	- **b)** s’ils comportent plusieurs positions de réglage, conserver, au cours des essais, la même position de réglage qu’ils avaient juste avant le début des essais;
-	- **c)** n’être construits que de matériaux conformes aux exigences de l’article 302.
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-- **(2)** Tout ensemble intégré de retenue d’enfant, lorsqu’il est soumis aux essais visés au paragraphe (1), doit, sous réserve du paragraphe (6), limiter le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble et qui présente les caractéristiques suivantes :
-	- **a)** il a une hauteur d’au moins 500 mm (20 pouces), mesurée le long du dossier de l’ensemble, dans le plan longitudinal vertical passant par l’axe longitudinal de l’ensemble, du point le plus bas de la surface du siège de l’ensemble à laquelle touche le derrière du dispositif anthropomorphe d’essai en position assise;
-	- **b)** il a une largeur d’au moins 200 mm (8 pouces), mesurée dans le plan horizontal à la hauteur de 500 mm (20 pouces) précisée à l’alinéa a).
+***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
 
-- **(3)** Tout ensemble intégré de retenue d’enfant orienté vers l’arrière doit, lorsqu’il est soumis aux essais visés au paragraphe (1) :
-	- **a)** ne pas permettre que l’angle entre la surface du dossier de l’ensemble et la verticale excède 70° pendant la simulation de collision;
-	- **b)** retenir toutes les parties du dispositif anthropomorphe d’essai dans l’ensemble de manière qu’aucune partie du point de référence situé de part et d’autre de la tête du dispositif ne dépasse les plans orthogonaux transversaux dont l’intersection comporte les points les plus avancés et les plus élevés des surfaces de l’ensemble intégré de retenue d’enfant.
+***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
 
-- **(4)** Tout coussin d’appoint intégré doit, lorsqu’il est soumis aux essais visés au paragraphe (1) :
-	- **a)** sous réserve du paragraphe (6), limiter le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière par rapport au corps, au moyen d’un dossier continu qui fait partie intégrante du coussin et qui présente les caractéristiques suivantes :
-		- **(i)** il a une hauteur d’au moins 560 mm (22 pouces), mesurée le long du dossier du coussin, dans le plan longitudinal vertical passant par l’axe longitudinal du coussin, du point le plus bas de la surface du siège du coussin à laquelle touche le derrière du dispositif anthropomorphe d’essai en position assise,
-		- **(ii)** il a une largeur d’au moins 200 mm (8 pouces), mesurée dans le plan horizontal à la hauteur de 560 mm (22 pouces) précisée au sous-alinéa (i);
-	- **b)** limiter le déplacement des points d’articulation du genou de leur position initiale à au plus 305 mm (12 pouces) dans l’axe frontal longitudinal.
+- **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
-- **(5)** Tout ensemble intégré de retenue d’enfant orienté vers l’avant et tout coussin d’appoint intégré doivent, lorsqu’il sont soumis aux essais visés au paragraphe (1) :
-	- **a)** ne pas permettre que l’angle entre la surface du dossier et la surface du siège de l’ensemble ou du coussin soit inférieur à 45° à la fin de l’essai;
-	- **b)** limiter à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre monté dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles d’accélération dont la durée totale ne dépasse pas 3 ms;
-	- **c)** limiter à au plus 80 g l’accélération résultante maximale du centre de gravité de la tête du dispositif anthropomorphe d’essai lors du mouvement vers l’avant, sauf dans les cas où il a été établi que l’accélération résultante maximale au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de ce dernier;
-	- **d)** sous réserve du paragraphe (6), limiter le mouvement vers l’arrière de la tête du dispositif anthropomorphe d’essai, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble et qui limite la rotation vers l’arrière de la tête du dispositif anthropomorphe d’essai de manière qu’à aucun moment de l’essai de collision l’angle entre la tête et le torse du dispositif ne soit supérieure de plus de 45º à l’angle préalable à l’essai.
+- **(3)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être faits uniquement de matériaux conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
-- **(6)** Malgré les exigences de l’alinéa (2)a), un ensemble intégré de retenue d’enfant doté d’appuis latéraux dépassant d’au moins 100 mm (4 pouces) la surface rembourrée de la partie de l’ensemble de retenue servant à soutenir la tête de l’enfant doit avoir une largeur d’au moins 150 mm (6 pouces), mesurée dans le plan horizontal à la hauteur de 500 mm (20 pouces).
+- **(4)** Tout ensemble intégré de retenue doit, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble conformément au paragraphe 5.4 de la Méthode d’essai 213.4, assurer la retenue :
+	- **a) ** du haut du torse :
+		- **(i)** soit au moyen de ceintures passant par-dessus chaque épaule,
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
+	- **b) ** du bas du torse :
+		- **(i)** soit au moyen d’une ceinture formant un angle d’au moins 45° mais d’au plus 90° avec la surface assise de l’ensemble à la hauteur des points d’attache de la ceinture,
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
+	- **c) ** du bassin :
+		- **(i)** soit au moyen d’une ceinture d’entrejambe qui peut être reliée à la ceinture visée au sous-alinéa b)(i), ou à la surface visée au sous-alinéa b)(ii),
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11).
 
-- **(7)** Tout ensemble intégré de retenue d’enfant doit comporter un dossier continu mesurant au moins 54 800 mm<sup>2</sup> (85 pouces carrés).
+- **(5)** Toute ceinture qui fait partie d’un ensemble intégré de retenue et qui est conçue pour retenir une personne doit être réglable de façon à s’ajuster étroitement au corps d’une personne dont la masse et la taille se situent dans les limites indiquées dans la mention exigée à l’alinéa (19)a), lorsque cette personne est placée dans l’ensemble conformément aux instructions visées au paragraphe (21).
 
-- **(8)** Dans le cas où un ensemble intégré de retenue d’enfant comporte des surfaces destinées à servir d’appui au torse de l’enfant, ces surfaces doivent être continues et mesurer au moins 15 250 mm<sup>2</sup> (24 pouces carrés) chacune.
+- **(6)** Les attaches de ceinture et leurs pièces de réglage qui font partie d’un ensemble intégré de retenue doivent être conformes aux exigences des dispositions S4.3a)(2), sauf l’exigence visant le dépôt de la corrosion, et S4.3b) du DNT 209.
 
-- **(9)** Exception faite des surfaces conçues pour retenir l’enfant, l’ensemble intégré de retenue d’enfant ne doit avoir aucune surface fixe ou mobile :
-	- **a)** placée directement en avant de l’enfant;
-	- **b)** avec laquelle l’enfant pourrait entrer en contact lorsqu’il est assis dans l’ensemble.
+- **(7)** Les attaches de ceinture dont sont munies les ceintures conçues pour retenir une personne dans un ensemble intégré de retenue :
+	- **a) ** dans les conditions prévues à l’article 4 de la Méthode d’essai 213.4 :
+		- **(i)** ne doivent pas s’ouvrir lorsque toute force de moins de 40 N est appliquée,
+		- **(ii)** doivent s’ouvrir lorsqu’une force d’au moins 40 N mais d’au plus 62 N est appliquée;
+	- **b) ** dans les conditions prévues à l’article 6 de la Méthode d’essai 213.4, doivent s’ouvrir lorsqu’une force d’au plus 71 N est appliquée;
+	- **c) ** doivent être conformes aux exigences de la disposition S4.3d)(2) du DNT 209, sauf que l’aire de la surface du bouton-poussoir des attaches de ceinture actionnées par un bouton-poussoir doit être d’au moins 385 mm<sup>2</sup>;
+	- **d) ** ne doivent pas s’ouvrir lors des essais dynamiques précisés à l’article 5 de la Méthode d’essai 213.4.
 
-- **(10)** Toute section horizontale de toute surface de l’ensemble intégré de retenue d’enfant destinée à limiter le mouvement du torse de l’enfant vers l’avant doit être plate ou concave et toute section longitudinale verticale doit être plate ou convexe et comporter un rayon de courbure de la structure sous-jacente d’au moins 50 mm (2 pouces).
+- **(8)** Toute sangle conçue pour retenir une personne dans un ensemble intégré de retenue doit :
+	- **a) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 avant de subir les essais visés aux alinéas b) à d), avoir une résistance à la rupture d’au moins 11 000 N;
+	- **b) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion conformément à la disposition S5.1d) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **c) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion de l’attache conformément à la disposition S5.3c) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **d) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition à la lumière conformément à la disposition S5.1e) du DNT 209, avoir une résistance à la rupture d’au moins 60 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **e) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition aux micro-organismes conformément à la disposition S5.1f) du DNT 209, avoir une résistance à la rupture d’au moins 85 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **f) ** si le torse d’un dispositif anthropomorphe d’essai peut toucher la sangle lorsque l’ensemble est soumis à un essai conformément à l’article 5 de la Méthode d’essai 213.4, avoir une largeur d’au moins 38 mm, mesurée conformément à la disposition S5.1a) du DNT 209.
 
-- **(11)** Aucune partie d’un élément rigide d’armature qui est dans les limites d’une surface de contact d’un ensemble intégré de retenue d’enfant ou d’un coussin d’appoint intégré ou sous une telle surface ne doit, une fois enlevé tout rembourrage ou matériel de revêtement souple, dépasser de plus de 9,5 mm (3/8 pouce) la surface adjacente de l’ensemble, et aucun bord exposé ne doit avoir un rayon de moins de 6,4 mm (¼ pouce).
+- **(9)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent comporter, pour soutenir le dos d’une personne, une surface continue plate ou concave d’au moins 54 800 mm<sup>2</sup>.
 
-- **(12)** Les sangles des ceintures qui sont fournies avec l’ensemble intégré de retenue d’enfant et qui sont utilisées pour retenir l’enfant dans l’ensemble doivent :
-	- **a)** avoir une résistance à la rupture égale à au moins 75 pour cent de leur résistance initiale, après avoir subi l’essai d’abrasion visé à la disposition S5.3c) du DNT 209;
-	- **b)** satisfaire aux exigences des dispositions S4.2e) et f) du DNT 209 et des paragraphes 209(4) à (7) de l’annexe IV du présent règlement;
-	- **c)** avoir une largeur d’au moins 38 mm (1½ pouce), mesurée conformément à la disposition S5.1a) du DNT 209, si le torse du dispositif anthropomorphe d’essai peut toucher ces sangles au cours de l’essai dynamique de l’ensemble.
+- **(10)** L’ensemble intégré de retenue ne doit comporter aucune surface directement en avant d’une personne, sauf si elle est conçue pour limiter le mouvement de cette personne vers l’avant.
 
-- **(13)** Toute attache de ceinture et tout élément de pièce métallique de réglage de ceinture qui sont utilisés dans un ensemble intégré de retenue d’enfant doivent être conformes aux exigences des dispositions S4.3a)(1) et (2) et S4.3b) et g) du DNT 209.
+- **(11)** Toute coupe transversale horizontale d’une surface d’un ensemble intégré de retenue qui est conçue pour limiter le mouvement d’une personne vers l’avant doit être plate ou concave, et toute coupe transversale longitudinale verticale de cette surface doit être plate ou convexe avec un rayon de courbure de la structure sous-jacente d’au moins 50 mm.
 
-- **(14)** Toute attache de ceinture d’ensemble intégré de retenue d’enfant conçue pour retenir l’enfant conformément à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007) :
-	- **a)** avant les essais dynamiques :
-		- **(i)** ne doit pas s’ouvrir lorsqu’une force de moins de 40 N (9 livres) est appliquée,
-		- **(ii)** doit s’ouvrir lorsqu’une force de 40 N (9 livres) à 62 N (14 livres) est appliquée;
-	- **b)** après les essais dynamiques, doit s’ouvrir lorsqu’une force d’au plus 71 N (16 livres) est appliquée;
-	- **c)** doit être munie d’un bouton-poussoir servant à appliquer une force qui en permet l’ouverture, ce bouton ayant une surface minimale de 385 mm<sup>2</sup> (0,6 pouces carré) et une dimension linéaire minimale de 10 mm (0,4 pouce).
+- **(12)** Les éléments d’armature rigides qui sont sous-jacents à une surface de contact de l’ensemble intégré de retenue ou du siège d’appoint intégré ne doivent présenter :
+	- **a) ** une fois enlevé tout rembourrage ou matériel de revêtement souple, aucune protubérance de plus de 9,5 mm;
+	- **b) ** aucun bord exposé d’un rayon de moins de 6,4 mm.
 
-- **(15)** Toute ceinture faisant partie d’un ensemble intégré de retenue d’enfant et qui est destinée à retenir l’enfant doit :
-	- **a)** être réglable de façon à s’ajuster au corps de l’enfant dont la taille et le poids se situent dans les intervalles recommandés conformément à l’alinéa (17)a) et qui est placé dans l’ensemble conformément aux instructions exigées par le paragraphe (19);
-	- **b)** n’imposer à l’enfant aucune charge provenant du poids de l’ensemble ou du poids de toute partie du véhicule où est intégré l’ensemble lorsque ce dernier est soumis aux essais visés à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007).
+- **(13)** Tout ensemble intégré de retenue et tout siège d’appoint intégré, lorsqu’ils sont soumis à l’essai conformément à l’article 5 de la Méthode d’essai 213.4, à n’importe quelle position où l’ensemble, le siège d’appoint ou le siège du véhicule peut être utilisé pendant que le véhicule est en mouvement, doivent être conformes aux exigences suivantes :
+	- **a) ** ils ne présentent aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant une surface qui, selon le cas :
+		- **(i)** présente des protubérances de plus de 9,5 mm,
+		- **(ii)** a un rayon de moins de 6,4 mm;
+	- **b) ** ils gardent, au cours de l’essai, la même position de réglage qu’ils avaient immédiatement avant le début de l’essai;
+	- **c) ** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint;
+	- **d) ** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, la rotation de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint, dans le plan mi-sagittal de la tête, de manière que l’angle entre la tête et le torse ne soit, à aucun moment au cours de l’essai, supérieur à 45° par rapport à l’angle entre la tête et le torse immédiatement avant le début de l’essai;
+	- **e) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre installé dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms;
+	- **f) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 80 g l’accélération résultante du centre de gravité de la tête du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms, à moins qu’il ne soit établi que l’accélération résultante au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de celui-ci;
+	- **g) ** ils ne présentent pas un angle entre la surface de l’ensemble ou du siège d’appoint destinée à soutenir le dos et leur surface assise qui soit inférieur à 45° à la fin de l’essai;
+	- **h) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent, à tout moment pendant et immédiatement après l’essai, le déplacement de l’un ou l’autre des points d’articulation du genou de leur position avant l’essai à au plus 305 mm vers l’avant dans l’axe longitudinal.
 
-- **(16)** Tout ensemble intégré de retenue d’enfant doit, une fois que le dispositif anthropomorphe d’essai a été placé conformément à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007) :
-	- **a)** assurer la retenue du haut du torse au moyen :
-		- **(i)** soit de ceintures passant par-dessus chacune des épaules du dispositif anthropomorphe d’essai,
-		- **(ii)** soit d’une surface fixe ou mobile conforme au paragraphe (10),
-		- **(iii)** soit d’une ceinture diagonale unique passant par-dessus une épaule du dispositif anthropomorphe d’essai ou de ceintures passant par-dessus ses épaules, dans le cas d’un ensemble intégré de retenue d’enfant orienté vers l’arrière;
-	- **b)** assurer la retenue du bas du torse au moyen :
-		- **(i)** soit d’une ceinture sous-abdominale formant un angle variant entre 45° et 90° avec la surface du siège de l’ensemble intégré de retenue d’enfant à la hauteur des points d’ancrage de la ceinture sous-abdominale,
-		- **(ii)** soit d’une surface fixe ou mobile conforme au paragraphe (10);
-	- **c)** dans le cas d’un ensemble intégré de retenue d’enfant orienté vers l’avant, assurer la retenue du bassin au moyen :
-		- **(i)** soit d’une ceinture de bassin pouvant être fixée à la ceinture sous-abdominale ou tout autre dispositif de retenue du bas du torse,
-		- **(ii)** soit d’une surface fixe ou mobile conforme au paragraphe (10).
+- **(14)** Les ceintures qui font partie d’un ensemble intégré de retenue et qui sont conçues pour retenir une personne dans l’ensemble ne doivent pas imposer au dispositif anthropomorphe d’essai, lorsque l’ensemble est soumis à un essai dynamique conformément à l’article 5 de la Méthode d’essai 213.4, aucune charge provenant de la masse de l’ensemble ou de la masse de toute partie du véhicule auquel l’ensemble est intégré.
 
-- **(17)** Tout ensemble intégré de retenue d’enfant et tout coussin d’appoint intégré doivent porter, sous forme d’inscription indélébile ou permanente, en français et en anglais, bien en vue sur un fond contrastant et en caractères d’au moins 10 points, les renseignements suivants :
-	- **a)** une mention indiquant :
-		- **(i)** dans le cas d’un ensemble intégré de retenue d’enfant, le poids et la taille minimums et maximums des enfants pour lesquels il est conçu, selon les recommandations du fabricant,
-		- **(ii)** dans le cas d’un coussin d’appoint intégré, qu’il est conçu pour des personnes dont le poids est d’au moins 18 kg (40 livres) et dont la taille est au moins la taille minimale recommandée par le fabricant;
-	- **b)** une mise en garde indiquant que, si les instructions du fabricant concernant l’utilisation de l’ensemble ou du coussin ne sont pas suivies, la personne peut heurter l’intérieur du véhicule lors d’un arrêt brusque ou d’une collision;
-	- **c)** dans le cas d’un ensemble intégré de retenue d’enfant doté de ceintures conçues pour retenir l’enfant, une mention recommandant de bien ajuster autour de l’enfant les ceintures fournies avec cet ensemble;
-	- **d)** dans le cas d’un ensemble intégré de retenue d’enfant orienté vers l’arrière, une mention précisant que l’enfant doit être placé dans cet ensemble de manière à faire face à l’arrière.
+- **(15)** Le dossier continu visé aux alinéas (13)c) et d) doit avoir :
+	- **a) ** une hauteur :
+		- **(i)** d’au moins 500 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation que par une personne dont la masse est d’au plus 18 kg,
+		- **(ii)** d’au moins 560 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation par une personne dont la masse est de plus de 18 kg;
+	- **b) ** une largeur d’au moins 200 mm, mesurée dans le plan horizontal à une hauteur de 500 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(i) ou à une hauteur de 560 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(ii).
 
-- **(18)** Le poids et la taille visés à l’alinéa 17a) doivent être exprimés en unités métriques suivies, entre parenthèses, des unités impériales correspondantes.
+- **(16)** Le paragraphe (15) ne s’applique pas dans les cas suivants :
+	- **a) ** un ensemble intégré de retenue qui est conçu pour accueillir un dispositif anthropomorphe d’essai ayant, sur chaque côté, un point cible qui est inférieur à un plan horizontal tangent à la partie supérieure du siège du véhicule, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble intégré de retenue conformément à la Méthode d’essai 213.4;
+	- **b) ** un ensemble intégré de retenue qui est conçu pour accueillir le dispositif anthropomorphe d’essai précisé à la sous-partie N, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ou un dispositif anthropomorphe d’essai d’une taille supérieure.
 
-- **(19)** Tout ensemble intégré de retenue d’enfant et tout coussin d’appoint intégré doivent être accompagnés d’instructions imprimées en français et en anglais qui donnent, avec les diagrammes appropriés, la marche à suivre détaillée pour utiliser l’ensemble intégré de retenue ou le coussin d’appoint intégré, placer une personne dans l’ensemble intégré de retenue et sur le coussin d’appoint intégré et ajuster les ceintures fournies et, le cas échéant, le harnais au corps de la personne.
+- **(17)** Pour l’application du paragraphe (15), la hauteur du dossier continu doit être mesurée, dans un plan parallèle à la surface du dossier de l’ensemble intégré de retenue et orthogonal au plan longitudinal vertical passant par l’axe longitudinal de l’ensemble, à partir du point le plus bas de la surface assise de l’ensemble auquel touchent les fesses du dispositif anthropomorphe d’essai en position assise.
 
-- **(20)** Les instructions visées au paragraphe (19) doivent :
-	- **a)** indiquer les conséquences immédiates qu’entraîne le non-respect des instructions d’utilisation de l’ensemble de retenue d’enfant visées aux paragraphes (17) et (19);
-	- **b)** préciser que, dans le cas d’un siège amovible avec ensemble intégré de retenue d’enfant ou coussin d’appoint intégré, l’ensemble ou le coussin, ou le siège, ou les deux, doivent être retenus au véhicule de façon sûre, qu’ils soient utilisés ou non.
-> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18..
+- **(18)** Malgré l’alinéa (15)b), s’il comporte des surfaces qui sont destinées à soutenir les côtés du torse et qui s’étendent d’au moins 100 mm vers l’avant de la surface rembourrée de la portion de l’ensemble intégré de retenue ou du siège d’appoint intégré servant au support de la tête du dispositif anthropomorphe d’essai, l’ensemble ou le siège d’appoint peut avoir un dossier continu d’une largeur d’au moins 150 mm.
+
+- **(19)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent porter les renseignements ci-après piqués à même le tissu ou imprimés de façon indélébile, soit en creux ou en relief sur l’ensemble ou le siège d’appoint, soit sur une étiquette qui y est apposée de façon permanente :
+	- **a) ** une mention indiquant :
+		- **(i)** les masses et tailles minimales et maximales — en unités basées sur le système international d’unités et les unités de mesure impériales — des personnes pour lesquelles le fabricant recommande l’ensemble ou le siège d’appoint,
+		- **(ii)** dans le cas d’un siège d’appoint, qu’il doit être utilisé par des personnes dont la masse est d’au moins 18 kg;
+	- **b) ** un avertissement indiquant que :
+		- **(i)** le fait de ne pas suivre les instructions du fabricant concernant l’utilisation de l’ensemble ou du siège d’appoint peut causer des blessures graves, voire mortelles,
+		- **(ii)** si l’ensemble est muni de ceintures pour retenir la personne, celles-ci doivent être ajustées étroitement au corps de celle-ci.
+
+- **(20)** Les renseignements visés au paragraphe (19) doivent être :
+	- **a) ** dans les deux langues officielles et en caractères d’au moins 10 points;
+	- **b) ** complètement visibles lorsque l’ensemble intégré de retenue ou le siège d’appoint intégré est configuré pour être utilisé.
+
+- **(21)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être accompagnés d’instructions imprimées, dans les deux langues officielles, qui indiquent, notamment à l’aide de diagrammes, la marche à suivre détaillée pour :
+	- **a) ** utiliser l’ensemble ou le siège d’appoint;
+	- **b) ** placer une personne dans l’ensemble ou le siège d’appoint;
+	- **c) ** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
+
+- **(22)** Les instructions visées au paragraphe (21) doivent :
+	- **a) ** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
+	- **b) ** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
+
+- **(23)** Les paragraphes (2), (3) et (6) à (8) cessent d’avoir effet le 1<sup>er</sup> septembre 2017.
+
+- **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11..
 
 
 
