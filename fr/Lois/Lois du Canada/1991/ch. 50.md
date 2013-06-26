@@ -39,46 +39,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***bien réel fédéral*** Bien réel appartenant à Sa Majesté ou dont elle a le pouvoir de disposer.
+***bien réel fédéral*** Bien réel appartenant à Sa Majesté ou dont elle a le pouvoir de disposer. (*federal real property*)
 
-***biens réels*** Dans une province autre que le Québec et à l’étranger, les biens-fonds et les intérêts afférents, y compris les mines et minéraux, bâtiments et autres ouvrages, accessoires fixes ou améliorations de surface, de sous-sol ou en surplomb.
+***biens réels*** Dans une province autre que le Québec et à l’étranger, les biens-fonds et les intérêts afférents, y compris les mines et minéraux, bâtiments et autres ouvrages, accessoires fixes ou améliorations de surface, de sous-sol ou en surplomb. (*real property*)
 
-***chef de mission*** À l’égard d’un immeuble ou d’un bien réel situé à l’étranger, s’entend d’une personne visée au paragraphe 13(1) de la [Loi sur le ministère des Affaires étrangères et du Commerce international](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-22.md) qui représente le Canada dans le pays de situation du bien.
+***chef de mission*** À l’égard d’un immeuble ou d’un bien réel situé à l’étranger, s’entend d’une personne visée au paragraphe 15(1) de la [Loi sur le ministère des Affaires étrangères, du Commerce et du Développement](/fr/Lois/Lois%20du%20Canada/2013/ch.%2033,%20art.%20174.md) qui représente le Canada dans le pays de situation du bien. (*head of mission*)
 
-***concession de l’État*** Acte visé à l’article 5, plan visé à l’article 7, notification au sens de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou tout autre acte par lequel un immeuble fédéral ou un bien réel fédéral peut être concédé.
+***concession de l’État*** Acte visé à l’article 5, plan visé à l’article 7, notification au sens de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou tout autre acte par lequel un immeuble fédéral ou un bien réel fédéral peut être concédé. (*Crown grant*)
 
 ***droits réels***[Abrogée, 2001, ch. 4, art. 11]
 
-***gestion*** S’entend de la compétence octroyée selon l’article 18.
+***gestion*** S’entend de la compétence octroyée selon l’article 18. (*administration*)
 
 ***immeuble***
 - **a)** Dans la province de Québec, immeuble au sens du droit civil de la province de Québec et, par assimilation, tout droit du locataire relativement à l’immeuble;
-- **b)** à l’étranger, tout bien qui est un immeuble au sens du droit civil de la province de Québec et, par assimilation, tout droit du locataire relativement au bien.
+- **b)** à l’étranger, tout bien qui est un immeuble au sens du droit civil de la province de Québec et, par assimilation, tout droit du locataire relativement au bien. (*immovable*)
 
 ***immeubles***[Abrogée, 2001, ch. 4, art. 11]
 
-***immeuble fédéral*** Immeuble appartenant à Sa Majesté ou dont elle a le pouvoir de disposer.
+***immeuble fédéral*** Immeuble appartenant à Sa Majesté ou dont elle a le pouvoir de disposer. (*federal immovable*)
 
-***intérêt*** À l’égard d’un bien-fonds :
+***intérêt*** À l’égard d’un bien-fonds :
 - **a)** dans une province autre que le Québec, tout domaine, droit, titre de propriété ou intérêt portant sur ce bien-fonds, y compris un service foncier, une servitude et un bail;
-- **b)** à l’étranger, tout domaine, droit, titre de propriété ou intérêt semblable à celui qui est mentionné à l’alinéa a).
+- **b)** à l’étranger, tout domaine, droit, titre de propriété ou intérêt semblable à celui qui est mentionné à l’alinéa a). (*interest*)
 
 ***ministère***
 - **a)** Ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **b)** tout secteur de l’administration publique fédérale mentionné à l’annexe I.1 de cette loi;
 - **b.1)** toute commission nommée sous le régime de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) désignée comme tel pour l’application de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **c)** établissement public au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **c)** établissement public au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*department*)
 
-***ministre*** À l’égard d’un ministère, le ministre compétent au sens de la Loi sur la gestion des finances publiques.
+***ministre*** À l’égard d’un ministère, le ministre compétent au sens de la Loi sur la gestion des finances publiques. (*Minister*)
 
-***permis*** Droit ou permission d’utiliser ou d’occuper un immeuble ou un bien réel, à l’exception :
+***permis*** Droit ou permission d’utiliser ou d’occuper un immeuble ou un bien réel, à l’exception :
 - **a)** des droits réels au sens du droit civil de la province de Québec et des droits du locataire d’un immeuble;
-- **b)** d’un intérêt dans un bien-fonds.
+- **b)** d’un intérêt dans un bien-fonds. (*licence*)
 
-***Sa Majesté*** Sa Majesté du chef du Canada.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
-***société mandataire*** Société mandataire au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 1991, ch. 50, art. 2; 1992, ch. 1, art. 157; 1995, ch. 5, art. 26; 2001, ch. 4, art. 11; 2003, ch. 22, art. 224(A).
+***société mandataire*** Société mandataire au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*agent corporation*)
+> 1991, ch. 50, art. 2; 1992, ch. 1, art. 157; 1995, ch. 5, art. 26; 2001, ch. 4, art. 11; 2003, ch. 22, art. 224(A); 2013, ch. 33, art. 191.
 
 
 
