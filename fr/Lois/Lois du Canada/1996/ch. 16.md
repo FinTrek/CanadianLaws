@@ -274,9 +274,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres bénéficiaires des services**
 
-**16** Le ministre peut exercer toute activité relevant des attributions que la présente loi ou toute autre loi fédérale lui confère et qu’il peut exercer pour le compte des autres ministères ou organismes fédéraux pour le compte :
+**16** Le ministre peut exercer toute activité relevant des attributions que la présente loi ou toute autre loi fédérale lui confère et qu’il peut exercer pour le compte des autres ministères ou organismes fédéraux pour le compte :
 - **a)** des autres ministères ou organismes fédéraux et des sociétés d’État;
-- **b)** avec l’agrément du gouverneur en conseil, des gouvernements, des organisations ou des personnes, au Canada et à l’étranger, qui le lui demandent.
+- **b)** avec l’agrément du gouverneur en conseil — qui peut être de portée générale ou particulière —, de tout gouvernement, de toute organisation ou de toute personne, au Canada et à l’étranger.
+> 1996, ch. 16, art. 16; 2013, ch. 33, art. 227.
+
 
 
 
