@@ -72,7 +72,7 @@ Assented to on 12 December 2006
 - **(d)** a Governor in Council appointee, other than the following persons, namely,
 	- **(i)** a lieutenant governor,
 	- **(ii)** officers and staff of the Senate, House of Commons and Library of Parliament,
-	- **(iii)** a person appointed or employed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) who is a head of mission within the meaning of subsection 13(1) of the [Department of Foreign Affairs and International Trade Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-22.md),
+	- **(iii)** a person appointed or employed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) who is a head of mission as defined in subsection 15(1) of the [Department of Foreign Affairs, Trade and Development Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2033,%20s.%20174.md),
 	- **(iv)** a judge who receives a salary under the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md),
 	- **(v)** a military judge within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
 	- **(vi)** an officer of the Royal Canadian Mounted Police, not including the Commissioner;
@@ -102,6 +102,8 @@ Assented to on 12 December 2006
 **Relatives**
 
 - **(3)** Persons who are related to a public office holder by birth, marriage, common-law partnership, adoption or affinity are the public office holder’s relatives for the purposes of this Act unless the Commissioner determines, either generally or in relation to a particular public office holder, that it is not necessary for the purposes of this Act that a person or a class of persons be considered a relative of a public office holder.
+> 2006, c. 9, s. 2 "2"; 2013, c. 33, s. 192.
+
 
 
 
