@@ -39,27 +39,27 @@ Sanctionnée sur le 19 juin 2003
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord d’application*** S’entend, à la partie 1, de l’accord visé au paragraphe 5(2) et, à la partie 2, de l’accord visé à l’article 22.
+***accord d’application*** S’entend, à la partie 1, de l’accord visé au paragraphe 5(2) conclu avec l’organe autorisé d’une première nation et, à la partie 2, de l’accord visé à l’article 22 conclu avec le conseil de bande. (*administration agreement*)
 
-***bande*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***bande*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*band*)
 
-***corps dirigeant*** Le corps d’une première nation dont le nom figure à l’annexe 1 en regard du nom de celle-ci.
+***corps dirigeant*** Le corps d’une première nation dont le nom figure à l’annexe 1 en regard du nom de celle-ci. (*governing body*)
 
-***crédit de taxe sur les intrants*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***crédit de taxe sur les intrants*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*input tax credit*)
 
-***fourniture taxable importée*** S’entend au sens de l’article 217 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***fourniture taxable importée*** S’entend au sens de l’article 217 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*imported taxable supply*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***organe autorisé*** L’organe d’une première nation qui est autorisé à conclure un accord d’application.
+***organe autorisé*** L’organe d’une première nation qui est autorisé à conclure un accord d’application. (*authorized body*)
 
-***partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)*** Comprend les annexes V à X de cette loi.
+***partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)*** Comprend les annexes V à X de cette loi. (*Part IX of the Excise Tax Act*)
 
-***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
 
-***taxe nette*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***taxe nette*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*net tax*)
 
-***terres*** Les terres d’une première nation dont la description figure à l’annexe 1 en regard du nom de celle-ci.
+***terres*** Les terres d’une première nation dont la description figure à l’annexe 1 en regard du nom de celle-ci. (*lands*)
 
 **Termes définis au par. 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)**
 
@@ -72,7 +72,7 @@ Sanctionnée sur le 19 juin 2003
 **Application des présomptions**
 
 - **(4)** Les circonstances ou faits qui sont réputés exister aux termes d’une disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sont réputés exister lorsqu’il s’agit de déterminer les matières relativement auxquelles une première nation peut édicter un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1).
-> 2003, ch. 15, art. 67 « 2 »; 2005, ch. 19, art. 3.
+> 2003, ch. 15, art. 67 « 2 »; 2005, ch. 19, art. 3; 2013, ch. 34, art. 421.
 
 
 
@@ -95,7 +95,7 @@ Sanctionnée sur le 19 juin 2003
 
 **Article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
-- **(1.1)** Tout texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ou toute obligation de payer une somme découlant de l’application de l’article 14 peut être mis en application par Sa Majesté du chef du Canada ou par un mandataire de la première nation malgré l’article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+- **(1.1)** Tout texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ou toute obligation de payer une somme découlant de l’application de l’article 14 peut, malgré l’article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), être mis en application par Sa Majesté du chef du Canada, par un mandataire de la première nation ou, si le texte législatif autochtone est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), par Sa Majesté du chef de la province.
 
 **Application prépondérante du par. 4(1)**
 
@@ -104,7 +104,7 @@ Sanctionnée sur le 19 juin 2003
 **Obligation de Sa Majesté**
 
 - **(3)** Si une disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) lie Sa Majesté du chef du Canada ou d’une province, cette disposition, dans la mesure où elle s’applique dans le cadre d’un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ainsi que toute disposition de ce texte qui y correspond, lient Sa Majesté du chef du Canada ou d’une province pour l’application de ce texte.
-> 2003, ch. 15, art. 67 « 3 »; 2005, ch. 19, art. 5.
+> 2003, ch. 15, art. 67 « 3 »; 2005, ch. 19, art. 5; 2013, ch. 34, art. 422.
 
 
 
@@ -182,8 +182,12 @@ où :
 **Déclaration et paiement de la taxe**
 
 - **(9)** La taxe qui est imposée par un texte législatif d’une première nation, édicté en vertu du paragraphe (1), relativement au transfert d’un bien sur les terres de la première nation devient exigible de l’auteur du transfert au moment du transfert. Au surplus, l’auteur du transfert est tenu :
-	- **a)** s’il est un inscrit qui a acquis le bien pour le consommer, l’utiliser ou le fournir principalement dans le cadre de ses activités commerciales, de payer la taxe au receveur général au plus tard à la date où sa déclaration concernant la taxe nette est à produire en vertu du texte législatif pour la période de déclaration où la taxe est devenue exigible, et d’indiquer le montant de cette taxe dans cette déclaration;
-	- **b)** sinon, de payer la taxe au receveur général et de présenter au ministre du Revenu national, en la forme et selon les modalités déterminées par celui-ci, une déclaration la concernant et contenant les renseignements requis, au plus tard le dernier jour du mois suivant le mois civil où la taxe est devenue exigible.
+	- **a)** s’il est un inscrit qui a acquis le bien pour le consommer, l’utiliser ou le fournir principalement dans le cadre de ses activités commerciales, de faire ce qui suit au plus tard à la date où sa déclaration concernant la taxe nette est à produire en vertu du texte législatif pour la période de déclaration où la taxe est devenue exigible :
+		- **(i)** indiquer le montant de cette taxe dans cette déclaration,
+		- **(ii)** payer la taxe au receveur général ou, si le texte législatif est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), au ministre compétent pour la province;
+	- **b)** dans les autres cas, de faire ce qui suit au plus tard le dernier jour du mois suivant le mois civil où la taxe est devenue exigible :
+		- **(i)** présenter au ministre du Revenu national ou, si le texte législatif est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), au ministre compétent pour la province, en la forme et selon les modalités déterminées par le ministre du Revenu national, une déclaration concernant la taxe et contenant les renseignements requis,
+		- **(ii)** payer la taxe au receveur général ou au ministre compétent pour la province, selon le cas.
 
 **Montant de taxe — fourniture sur des terres**
 
@@ -195,7 +199,7 @@ où :
 **Application**
 
 - **(11)** Tout texte législatif édicté en vertu du paragraphe (1) par le corps dirigeant d’une première nation est appliqué, et la taxe imposée en vertu de ce texte est perçue, conformément à un accord d’application conclu aux termes du paragraphe 11(2) par l’organe autorisé de la première nation.
-> 2003, ch. 15, art. 67 « 4 »; 2005, ch. 19, art. 6.
+> 2003, ch. 15, art. 67 « 4 »; 2005, ch. 19, art. 6; 2013, ch. 34, art. 423.
 
 
 
@@ -229,8 +233,8 @@ où :
 		- **(i)** la partie éventuelle de la taxe totale imposée par la première nation en vertu du texte législatif autochtone qui n’est pas incluse dans la taxe attribuable à la première nation,
 		- **(ii)** la part éventuelle, revenant au gouvernement du Canada en vertu de l’alinéa b), de la taxe attribuable à la première nation;
 	- **d)** les versements effectués sur le Trésor par le gouvernement du Canada à la première nation — et auxquels celle-ci a droit aux termes de l’accord — relativement à la taxe attribuable à la première nation, les conditions d’admissibilité à ces versements, le calendrier et les modalités de paiement, et le versement par la première nation au gouvernement du Canada des paiements en trop ou des avances effectués par ce dernier ou le droit du gouvernement du Canada d’appliquer ces paiements en trop ou avances en réduction d’autres sommes à payer à la première nation aux termes de l’accord;
-	- **e)** l’application du texte législatif autochtone par le gouvernement du Canada, et la perception, par ce dernier, des sommes imposées en vertu de ce texte;
-	- **f)** la communication à la première nation par le gouvernement du Canada de renseignements obtenus lors de l’application du texte législatif autochtone ou, sous réserve de l’article 295 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la partie IX de cette loi, et la communication au gouvernement du Canada par la première nation de renseignements obtenus lors de l’application du texte législatif autochtone;
+	- **e)** l’application du texte législatif autochtone par le gouvernement du Canada ou, si ce texte est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), par le gouvernement de la province, et la perception, par le gouvernement du Canada ou par la province, selon le cas, des sommes imposées en vertu de ce texte;
+	- **f)** la communication à la première nation par le gouvernement du Canada ou, si le texte législatif autochtone est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), par le gouvernement de la province de renseignements obtenus lors de l’application du texte législatif autochtone ou, sous réserve de l’article 295 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la partie IX de cette loi, et la communication au gouvernement du Canada ou au gouvernement de la province, selon le cas, par la première nation de renseignements obtenus lors de l’application du texte législatif autochtone;
 	- **g)** la façon de rendre compte des sommes perçues en conformité avec l’accord;
 	- **h)** le paiement par le gouvernement du Canada et ses mandataires et entités subalternes de sommes imposées en vertu du texte législatif autochtone ou de tout autre texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), et le paiement par la première nation et ses mandataires et entités subalternes de sommes imposées en vertu du texte législatif autochtone, de tout autre texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **i)** la façon de rendre compte des paiements visés à l’alinéa h);
@@ -249,11 +253,13 @@ où :
 
 **Versements à d’autres personnes**
 
-- **(5)** Sous réserve du paragraphe (6), si un accord d’application a été conclu relativement à un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), des sommes peuvent être versées à une personne sur le Trésor au titre d’un montant qui est payable à celle-ci aux termes de ce texte en conformité avec l’accord.
+- **(5)** Sous réserve du paragraphe (6), si un accord d’application a été conclu relativement à un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), des sommes peuvent être versées à une personne sur le Trésor au titre d’un montant qui est payable à celle-ci aux termes de ce texte en conformité avec l’accord, sauf si le texte législatif autochtone est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
 
 **Avance recouvrable sur le Trésor**
 
 - **(6)** Si aucun montant sur lequel un versement peut être fait en application du paragraphe (5) en conformité avec un accord d’application n’est détenu pour le compte d’une première nation ou si le versement excède le montant ainsi détenu, un versement peut être fait en application du paragraphe (5) à titre d’avance recouvrable sur le Trésor, à condition que le remboursement du montant ou de l’excédent par la première nation soit prévu dans l’accord.
+> 2003, ch. 15, art. 67 « 5 »; 2013, ch. 34, art. 424.
+
 
 
 
@@ -428,11 +434,13 @@ où :
 
 **16** 
 
-- **(1)** Si un accord d’application conclu par l’organe autorisé d’une première nation est en vigueur, le ministre du Revenu national peut, pour l’application de cet accord, exiger de toute personne ayant un lieu d’affaires sur les terres de la première nation, ou y maintenant des éléments d’actif d’une entreprise, qu’elle produise un rapport concernant les fournitures liées au lieu d’affaires ou à l’entreprise qu’elle a effectuées ou les biens ou services acquis ou importés pour consommation, utilisation ou fourniture relativement à ces terres et à ce lieu d’affaires ou cette entreprise.
+- **(1)** Si un accord d’application conclu par l’organe autorisé d’une première nation est en vigueur relativement à un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), le ministre du Revenu national ou, si le texte législatif autochtone est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), le ministre compétent pour la province peut, pour l’application de cet accord, exiger de toute personne ayant un lieu d’affaires sur les terres de la première nation, ou y maintenant des éléments d’actif d’une entreprise, qu’elle produise un rapport concernant les fournitures liées au lieu d’affaires ou à l’entreprise qu’elle a effectuées ou les biens ou services acquis ou importés pour consommation, utilisation ou fourniture relativement à ces terres et à ce lieu d’affaires ou cette entreprise.
 
 **Production**
 
-- **(2)** Le rapport contient les renseignements déterminés par le ministre du Revenu national et lui est présenté en la forme et selon les modalités qu’il autorise ainsi que dans le délai qu’il précise.
+- **(2)** Le rapport contient les renseignements déterminés par le ministre du Revenu national et est établi en la forme et selon les modalités qu’il autorise ainsi que dans le délai qu’il précise. Il est présenté au ministre du Revenu national ou, si le texte législatif autochtone est administré par le gouvernement d’une province en vertu d’un accord conclu en application de l’article 7 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), au ministre compétent pour la province.
+> 2003, ch. 15, art. 67 « 16 »; 2013, ch. 34, art. 425.
+
 
 
 
