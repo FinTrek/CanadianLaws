@@ -39,27 +39,27 @@ Assented to on 19 June 2003
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***administration agreement***, in Part 1, means an agreement referred to in subsection 5(2) and, in Part 2, means an agreement referred to in section 22.
+***administration agreement***, in Part 1, means an agreement referred to in subsection 5(2) and entered into with the authorized body of a first nation and, in Part 2, means an agreement referred to in section 22 and entered into with a council of the band. (*accord d’application*)
 
-***authorized body***, of a first nation, means the body of the first nation that has the authority to enter into an administration agreement.
+***authorized body***, of a first nation, means the body of the first nation that has the authority to enter into an administration agreement. (*organe autorisé*)
 
-***band*** has the meaning assigned by subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***band*** has the meaning assigned by subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*bande*)
 
-***governing body*** means the body of a first nation that is identified opposite the name of the first nation listed in Schedule 1.
+***governing body*** means the body of a first nation that is identified opposite the name of the first nation listed in Schedule 1. (*corps dirigeant*)
 
-***imported taxable supply*** has the meaning assigned by section 217 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***imported taxable supply*** has the meaning assigned by section 217 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*fourniture taxable importée*)
 
-***input tax credit*** has the same meaning as in Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***input tax credit*** has the same meaning as in Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*crédit de taxe sur les intrants*)
 
-***lands***, of a first nation, means the lands that are described opposite the name of the first nation listed in Schedule 1.
+***lands***, of a first nation, means the lands that are described opposite the name of the first nation listed in Schedule 1. (*terres*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***net tax*** has the same meaning as in Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***net tax*** has the same meaning as in Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*taxe nette*)
 
-***Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)*** includes Schedules V to X to that Act.
+***Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)*** includes Schedules V to X to that Act. (*partie IX de la Loi sur la taxe d’accise*)
 
-***reserve*** has the meaning assigned by subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***reserve*** has the meaning assigned by subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
 
 **Expressions defined in s. 123(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)**
 
@@ -72,7 +72,7 @@ Assented to on 19 June 2003
 **Application of deeming rules**
 
 - **(4)** If a provision of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) deems certain circumstances or facts to exist, those circumstances or facts are deemed to exist for the purposes of determining the matters in respect of which a first nation may enact a first nation law, as defined in subsection 11(1) or 12(1).
-> 2003, c. 15, s. 67 “2”; 2005, c. 19, s. 3.
+> 2003, c. 15, s. 67 “2”; 2005, c. 19, s. 3; 2013, c. 34, s. 421.
 
 
 
@@ -93,9 +93,9 @@ Assented to on 19 June 2003
 
 - **(1)** The obligation to pay tax or any other amount that is required to be paid under a first nation law, as defined in subsection 11(1) or 12(1), applies despite the application of the exemption under section 87 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) and of any other exemption from taxation under any other Act of Parliament that is similar to the exemption under that section.
 
-**Section 89 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
+**Section 89 of [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
-- **(1.1)** A first nation law, as defined in subsection 11(1) or 12(1), or an obligation to pay an amount that arises from the application of section 14, may be administered and enforced by Her Majesty in right of Canada or by an agent of the first nation despite section 89 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+- **(1.1)** A first nation law, as defined in subsection 11(1) or 12(1), or an obligation to pay an amount that arises from the application of section 14, may, despite section 89 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), be administered and enforced by Her Majesty in right of Canada, by an agent of the first nation or, if the first nation law is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), by Her Majesty in right of the province.
 
 **Subsection 4(1) applies despite any other Act of Parliament**
 
@@ -104,7 +104,7 @@ Assented to on 19 June 2003
 **Binding on Her Majesty**
 
 - **(3)** If a provision of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is binding on Her Majesty in right of Canada or a province, that provision, to the extent that it applies for the purposes of a first nation law, as defined in subsection 11(1) or 12(1), and any provision of the first nation law that corresponds to that provision of that Part, are so binding for the purposes of that law.
-> 2003, c. 15, s. 67 “3”; 2005, c. 19, s. 5.
+> 2003, c. 15, s. 67 “3”; 2005, c. 19, s. 5; 2013, c. 34, s. 422.
 
 
 
@@ -182,8 +182,12 @@ where
 **Reporting and payment of tax**
 
 - **(9)** Tax that is imposed under a law of a first nation enacted under subsection (1) in respect of the bringing of property onto the lands of the first nation shall become payable by the person who brings it onto the lands at the time it is brought onto the lands and
-	- **(a)** if the person is a registrant who acquired the property for consumption, use or supply primarily in the course of commercial activities of the person, the person shall, on or before the day on or before which the person’s return in respect of net tax is required to be filed under the law of the first nation for the reporting period in which the tax became payable, pay the tax to the Receiver General and report the tax in that return; and
-	- **(b)** in any other case, the person shall, on or before the last day of the month following the calendar month in which the tax became payable, pay the tax to the Receiver General and file with the Minister of National Revenue in the manner authorized by that Minister a return in respect of the tax in the form authorized by and containing information specified by that Minister.
+	- **(a)** if the person is a registrant who acquired the property for consumption, use or supply primarily in the course of commercial activities of the person, the person shall, on or before the day on or before which the person’s return in respect of net tax is required to be filed under the law of the first nation for the reporting period in which the tax became payable,
+		- **(i)** report the tax in that return, and
+		- **(ii)** pay the tax to the Receiver General, or, if the law of the first nation is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), to the appropriate minister for that province; and
+	- **(b)** in any other case, the person shall, on or before the last day of the month following the calendar month in which the tax became payable,
+		- **(i)** file with the Minister of National Revenue or, if the law of the first nation is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), with the appropriate minister for that province a return in respect of the tax, in the manner and in the form authorized by the Minister of National Revenue and containing information specified by that Minister, and
+		- **(ii)** pay the tax to the Receiver General or to the appropriate minister for that province, as the case may be.
 
 **Amount of tax — supply made on lands**
 
@@ -195,7 +199,7 @@ where
 **Administration and enforcement**
 
 - **(11)** A law enacted under subsection (1) by the governing body of a first nation shall be administered and enforced, and the tax imposed under that law shall be collected, in accordance with an administration agreement entered into under subsection 11(2) by the authorized body of the first nation.
-> 2003, c. 15, s. 67 “4”; 2005, c. 19, s. 6.
+> 2003, c. 15, s. 67 “4”; 2005, c. 19, s. 6; 2013, c. 34, s. 423.
 
 
 
@@ -230,8 +234,8 @@ where
 		- **(i)** the portion, if any, of the total tax imposed by the first nation under the first nation law that is not tax attributable to the first nation, and
 		- **(ii)** the Government of Canada’s share, if any, under paragraph (b) of the tax attributable to the first nation;
 	- **(d)** for the payments, and for the eligibility for payments, by the Government of Canada to the first nation in respect of the tax attributable to the first nation out of the Consolidated Revenue Fund to which the first nation is entitled under the agreement, the time when and the manner in which such payments will be made, and the remittance by the first nation to the Government of Canada of any overpayments or advances by the Government of Canada or the right of the Government of Canada to set off any overpayments or advances against amounts payable by the Government of Canada to the first nation under the agreement;
-	- **(e)** for the administration and enforcement of the first nation law by the Government of Canada and for the collection, by the Government of Canada, of amounts imposed under that law;
-	- **(f)** for the provision by the Government of Canada to the first nation of information acquired in the administration and enforcement of the first nation law or, subject to section 295 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), Part IX of that Act and for the provision by the first nation to the Government of Canada of information acquired in the administration and enforcement of the first nation law;
+	- **(e)** for the administration and enforcement of the first nation law by the Government of Canada or, if the first nation law is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), by the government of the province and for the collection, by the Government of Canada or the government of the province, as the case may be, of amounts imposed under that law;
+	- **(f)** for the provision by the Government of Canada or, if the first nation law is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), by the government of the province to the first nation of information acquired in the administration and enforcement of the first nation law or, subject to section 295 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), of Part IX of that Act, and for the provision by the first nation to the Government of Canada or the government of the province, as the case may be, of information acquired in the administration of the first nation law;
 	- **(g)** for the accounting for amounts collected in accordance with the agreement;
 	- **(h)** for the payment by the Government of Canada and its agents and subservient bodies of amounts imposed under the first nation law or any other first nation law, as defined in subsection 11(1) or 12(1), and for the payment by the first nation and its agents and subservient bodies of amounts imposed under that law, any other first nation law, as defined in subsection 11(1) or 12(1), or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
 	- **(i)** for the accounting for the payments referred to in paragraph (h);
@@ -250,11 +254,13 @@ where
 
 **Payments to other persons**
 
-- **(5)** Subject to subsection (6), if an administration agreement has been entered into in respect of a first nation law, as defined in subsection 11(1) or 12(1), payments may be made to a person out of the Consolidated Revenue Fund on account of any amount that is payable to the person under that law in accordance with the agreement.
+- **(5)** Subject to subsection (6), if an administration agreement has been entered into in respect of a first nation law, as defined in subsection 11(1) or 12(1), payments may be made to a person out of the Consolidated Revenue Fund on account of any amount that is payable to the person under that law in accordance with the agreement unless the first nation law is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
 
 **Recoverable advance out of Consolidated Revenue Fund**
 
 - **(6)** If no amount is held on behalf of a first nation from which payment under subsection (5) may be made in accordance with an administration agreement, or the amount of the payment exceeds the amount so held, payment under subsection (5) may be made as a recoverable advance out of the Consolidated Revenue Fund if the repayment of the amount or excess by the first nation is provided for in the agreement.
+> 2003, c. 15, s. 67 “5”; 2013, c. 34, s. 424.
+
 
 
 
@@ -429,11 +435,13 @@ where
 
 **16** 
 
-- **(1)** If an administration agreement entered into by the authorized body of a first nation is in effect, the Minister of National Revenue may, for the purposes of that agreement, require any person having a place of business, or maintaining assets of a business, on the lands of the first nation to make a report respecting supplies relating to that business made by the person or property or services acquired or imported for consumption, use or supply in connection with those lands and that business.
+- **(1)** If an administration agreement entered into by the authorized body of a first nation is in effect in respect of a first nation law, as defined in subsection 11(1) or 12(1), the Minister of National Revenue or, if the first nation law is administered by the government of a province under an agreement entered into under section 7 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), the appropriate minister for that province may, for the purposes of the administration agreement, require any person having a place of business, or maintaining assets of a business, on the lands of the first nation to make a report respecting supplies relating to that business made by the person or property or services acquired or imported for consumption, use or supply in connection with those lands and that business.
 
 **Form and manner of filing**
 
-- **(2)** A report under subsection (1) shall be filed with the Minister of National Revenue in the manner and form authorized by that Minister and at the time and containing information specified by that Minister.
+- **(2)** A report under subsection (1) shall be made in the manner and form authorized by the Minister of National Revenue and at the time and containing information specified by that Minister. The report shall be filed with the Minister of National Revenue or, if a first nation law is administered by the government of a province under an agreement referred to in that subsection, with the appropriate minister for that province.
+> 2003, c. 15, s. 67 "16"; 2013, c. 34, s. 425.
+
 
 
 
