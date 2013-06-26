@@ -710,7 +710,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **42** 
 
-- **(1)** Chaque année, avant la fin du mois de mai, l’Office présente au gouverneur en conseil, par l’intermédiaire du ministre, un rapport de ses activités de l’année précédente résumant :
+- **(1)** Chaque année, avant la fin du mois de juillet, l’Office présente au gouverneur en conseil, par l’intermédiaire du ministre, un rapport de ses activités de l’année précédente résumant :
 	- **a)** les demandes qui lui ont été présentées et ses conclusions à leur égard;
 	- **b)** ses conclusions concernant les questions ou les objets à l’égard desquels il a agi à la demande du ministre.
 
@@ -721,6 +721,8 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Dépôt**
 
 - **(3)** Dans les trente jours de séance de chaque chambre du Parlement suivant la réception du rapport par le ministre, celui-ci le fait déposer devant elle.
+> 1996, ch. 10, art. 42; 2013, ch. 31, art. 2.
+
 
 
 
@@ -847,7 +849,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **50** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, exiger des personnes visées au paragraphe (1.1) qui sont assujetties à la compétence législative du Parlement qu’elles fournissent au ministre des renseignements, autres que les renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), aux dates, en la forme et de la manière précisées dans le règlement, en vue :
+- **(1)** Le gouverneur en conseil peut, par règlement, exiger des personnes visées au paragraphe (1.1) qui sont assujetties à la compétence législative du Parlement qu’elles fournissent au ministre des renseignements, autres que les renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), aux dates, en la forme et de la manière que le règlement peut préciser, en vue :
 	- **a)** de l’élaboration d’une politique nationale des transports;
 	- **b)** de l’établissement du rapport prévu à l’article 52;
 	- **c)** de la planification fonctionnelle;
@@ -899,7 +901,43 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Consultations**
 
 - **(5)** Le ministre peut consulter l’Office et Statistique Canada avant de prendre un règlement en vertu du présent article.
-> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8.
+> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8; 2013, ch. 31, art. 3(F).
+
+
+
+
+
+**Documents externes**
+
+**50.01** 
+
+- **(1)** Le règlement pris en vertu du paragraphe 50(1) peut incorporer par renvoi tout document établi par une personne ou un organisme autre que le ministre.
+
+**Portée de l’incorporation par renvoi**
+
+- **(2)** L’incorporation par renvoi peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité**
+
+- **(3)** Le ministre veille à ce que le document incorporé par renvoi soit accessible.
+
+**Ni déclaration de culpabilité ni sanction administrative**
+
+- **(4)** Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (3) ou était autrement accessible à la personne en cause.
+
+**Ni enregistrement ni publication**
+
+- **(5)** Il est entendu que le document incorporé par renvoi n’a pas à être transmis pour enregistrement ni à être publié dans la Gazette du Canada du seul fait de son incorporation.
+> 2013, ch. 31, art. 4.
+
+
+
+
+
+**Pouvoir existant non restreint**
+
+**50.02** Il est entendu que l’octroi dans la présente loi d’un pouvoir exprès d’incorporer par renvoi ne restreint pas le pouvoir qui existe par ailleurs de recourir à l’incorporation par renvoi dans un règlement pris en vertu de la présente loi.
+> 2013, ch. 31, art. 4.
 
 
 
@@ -1373,7 +1411,19 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 **Exemption**
 
-**62** Lorsqu’il estime souhaitable ou nécessaire dans l’intérêt public de délivrer une licence intérieure à une personne qui n’a pas la qualité de Canadien, le ministre peut, par arrêté assorti ou non de conditions, l’exempter de l’obligation de justifier de cette qualité, l’exemption restant valide tant que l’arrêté reste en vigueur.
+**62** 
+
+- **(1)** Lorsqu’il estime souhaitable ou nécessaire dans l’intérêt public de délivrer une licence intérieure à une personne qui n’a pas la qualité de Canadien, le ministre peut, par arrêté assorti ou non de conditions, l’exempter de l’obligation de justifier de cette qualité, l’exemption restant valide tant que l’arrêté reste en vigueur.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(2)** L’arrêté n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+**Publication**
+
+- **(3)** Dès que possible, le ministre rend le nom de la personne bénéficiant de l’exemption et la durée de celle-ci accessibles au public par Internet ou par tout autre moyen qu’il estime indiqué.
+> 1996, ch. 10, art. 62; 2013, ch. 31, art. 5.
+
 
 
 
@@ -1573,8 +1623,8 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 **69** 
 
-- **(1)** L’Office, sur demande et paiement des droits indiqués, délivre une licence pour l’exploitation d’un service international régulier au demandeur :
-	- **a)** qui, dans la demande, justifie du fait :
+- **(1)** L’Office, sur demande et paiement des droits indiqués, délivre une licence pour l’exploitation d’un service international régulier au demandeur :
+	- **a)** qui, dans la demande, justifie du fait :
 		- **(i)** qu’il y est habilité, sous le régime des paragraphes (2) ou (3),
 		- **(ii)** qu’à l’égard du service, il détient un document d’aviation canadien,
 		- **(iii)** qu’à l’égard du service, il détient la police d’assurance responsabilité réglementaire,
@@ -1583,13 +1633,15 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 **Habilitation des Canadiens**
 
-- **(2)** Le ministre peut, par note expédiée à l’Office, habiliter des Canadiens à détenir une licence pour l’exploitation d’un service international régulier; l’habilitation reste valide tant que la désignation est en vigueur.
+- **(2)** Le ministre peut, par écrit, désigner des Canadiens qu’il habilite à détenir une licence pour l’exploitation d’un service international régulier; l’habilitation reste valide tant que la désignation est en vigueur.
 
 **Habilitation des non-Canadiens**
 
-- **(3)** Peut détenir une telle licence le non-Canadien qui :
+- **(3)** Peut détenir une telle licence le non-Canadien qui :
 	- **a)** a fait l’objet, de la part d’un gouvernement étranger ou du mandataire de celui-ci, d’une désignation l’habilitant à exploiter un service aérien aux termes d’un accord ou d’une entente entre ce gouvernement et celui du Canada;
 	- **b)** détient en outre, à l’égard du service, un document délivré par un gouvernement étranger, ou par son mandataire, équivalant à une licence internationale service régulier.
+> 1996, ch. 10, art. 69; 2013, ch. 31, art. 6.
+
 
 
 
@@ -1775,7 +1827,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **80** 
 
-- **(1)** L’Office peut, par arrêté assorti des conditions qu’il juge indiquées, soustraire quiconque à l’application de toute disposition de la présente partie ou de ses textes d’application s’il estime que l’intéressé, selon le cas :
+- **(1)** L’Office peut, par arrêté assorti des conditions qu’il juge indiquées, soustraire quiconque à l’application de toute disposition de la présente partie ou de ses textes d’application s’il estime que l’intéressé, selon le cas :
 	- **a)** s’y est déjà, dans une large mesure, conformé;
 	- **b)** a pris des mesures équivalant à l’application effective de la disposition;
 	- **c)** se trouve dans une situation ne rendant ni nécessaire, ni même souhaitable ou commode, cette application.
@@ -1783,6 +1835,14 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Exception**
 
 - **(2)** L’exemption ne peut avoir pour effet de soustraire quiconque aux dispositions relatives à la qualité de Canadien et à la détention d’un document d’aviation canadien et d’une police d’assurance responsabilité réglementaire en matière de service aérien.
+
+**Exception — article 69**
+
+- **(3)** L’exemption ne peut avoir pour effet de soustraire quiconque aux dispositions de l’article 69 qui exigent, en vue de permettre la détention d’une licence pour l’exploitation d’un service international régulier, selon le cas :
+	- **a)** la désignation d’un Canadien, par le ministre, l’habilitant à détenir une telle licence;
+	- **b)** la désignation d’un non-Canadien, par un gouvernement étranger ou un mandataire de celui-ci, l’habilitant à exploiter un service aérien aux termes d’un accord ou d’une entente entre ce gouvernement et celui du Canada.
+> 1996, ch. 10, art. 80; 2013, ch. 31, art. 7.
+
 
 
 
@@ -2835,9 +2895,35 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **d)** les conditions relatives au transport à effectuer par la compagnie;
 	- **e)** les moyens pris par la compagnie pour s’acquitter de ses obligations en application de l’article 113.
 
+**Demande de contrat confidentiel**
+
+- **(1.1)** L’expéditeur qui souhaite conclure avec une compagnie de chemin de fer un contrat en application du paragraphe (1) concernant les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113 peut demander à cette compagnie de lui présenter une offre en vue de la conclusion d’un tel contrat.
+
+**Contenu de la demande**
+
+- **(1.2)** La demande mentionne le transport en cause, les services exigés par l’expéditeur à l’égard de celui-ci et tout engagement que l’expéditeur est disposé à prendre envers la compagnie de chemin de fer relativement au transport ou aux services.
+
+**Offre**
+
+- **(1.3)** La compagnie de chemin de fer est tenue de présenter l’offre dans les trente jours suivant la date de réception de la demande.
+
+**Exception**
+
+- **(1.4)** Sous réserve du paragraphe (1.5), la compagnie de chemin de fer n’est toutefois pas tenue d’inclure dans son offre une stipulation portant sur une question qui, selon le cas :
+	- **a)** fait l’objet d’un accord écrit auquel l’expéditeur et la compagnie de chemin de fer sont parties;
+	- **b)** est visée par un arrêté, autre qu’un arrêté provisoire, pris en vertu du paragraphe 116(4);
+	- **c)** figure dans un tarif visé aux paragraphes 136(4) ou 165(3);
+	- **d)** fait l’objet d’une décision arbitrale rendue en vertu de l’article 169.37.
+
+**Précision**
+
+- **(1.5)** La compagnie de chemin de fer est toutefois tenue d’inclure dans son offre une telle stipulation si l’accord, l’arrêté, le tarif ou la décision arbitrale visés au paragraphe (1.4) expirent dans les deux mois suivant la date de réception de la demande prévue au paragraphe (1.1). La stipulation s’applique alors à la période postérieure à l’expiration.
+
 **Arbitrage**
 
-- **(2)** Toute demande d’arbitrage au titre de l’article 161 est subordonnée à l’assentiment de toutes les parties au contrat confidentiel.
+- **(2)** Toute demande d’arbitrage au titre de l’article 161 sur une question faisant l’objet d’un contrat confidentiel est subordonnée à l’assentiment de toutes les parties au contrat.
+> 1996, ch. 10, art. 126; 2013, ch. 31, art. 8.
+
 
 
 
@@ -3830,11 +3916,12 @@ où
 
 
 **PARTIE IV** 
-## Arbitrage
+## Arbitrages
 
 
 
-### Application
+**SECTION I** 
+### Arbitrage sur l’offre finale
 
 
 
@@ -3869,10 +3956,6 @@ où
 > 1996, ch. 10, art. 160; 2008, ch. 5, art. 8.
 
 
-
-
-
-### Arbitrage
 
 
 
@@ -4195,6 +4278,290 @@ où
 
 
 
+**SECTION II** 
+### Arbitrage sur le niveau de services
+
+
+
+**Demande d’arbitrage — contrat confidentiel**
+
+**169.31** 
+
+- **(1)** Dans le cas où un expéditeur et une compagnie de chemin de fer ne parviennent pas à s’entendre pour conclure un contrat en application du paragraphe 126(1) concernant les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113, l’expéditeur peut soumettre par écrit à l’Office une ou plusieurs des questions ci-après pour arbitrage :
+	- **a)** les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie relativement à la réception, au chargement, au transport, au déchargement et à la livraison des marchandises en cause, y compris les normes de rendement et les protocoles de communication;
+	- **b)** les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie en cas de non-respect d’une condition d’exploitation visée à l’alinéa a);
+	- **c)** les conditions d’exploitation auxquelles l’expéditeur est assujetti et qui sont liées aux conditions d’exploitation visées aux alinéas a) ou b);
+	- **d)** les services fournis par la compagnie de chemin de fer qui sont normalement liés à l’exploitation d’un service de transport par une compagnie de chemin de fer;
+	- **e)** la question de savoir si des frais peuvent être imposés par la compagnie de chemin de fer relativement aux conditions d’exploitation visées aux alinéas a) ou b) ou pour les services visés à l’alinéa d).
+
+**Exclusions**
+
+- **(2)** L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui, selon le cas :
+	- **a)** fait l’objet d’un accord écrit, notamment d’un contrat confidentiel, auquel l’expéditeur et la compagnie de chemin de fer sont parties;
+	- **b)** est visée par un arrêté, autre qu’un arrêté provisoire, pris en vertu du paragraphe 116(4).
+
+**Exclusions — transport**
+
+- **(3)** L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui concerne le transport faisant l’objet, selon le cas :
+	- **a)** d’un contrat confidentiel conclu entre l’expéditeur et la compagnie de chemin de fer qui est en vigueur à l’entrée en vigueur du présent article;
+	- **b)** d’un contrat ou d’un tarif visés au paragraphe 165(3);
+	- **c)** d’un prix de ligne concurrentiel;
+	- **d)** d’une décision arbitrale rendue en vertu de l’article 169.37.
+
+**Précision**
+
+- **(4)** Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport, ni sur le montant des frais relatifs au transport ou aux services connexes.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Contenu de la demande**
+
+**169.32** 
+
+- **(1)** La demande d’arbitrage contient :
+	- **a)** l’énoncé détaillé des questions soumises à l’Office pour arbitrage;
+	- **b)** la description du transport en cause;
+	- **c)** le cas échéant, l’engagement qui est pris par l’expéditeur envers la compagnie de chemin de fer relativement au transport et qui doit être respecté pendant la durée d’application de la décision de l’arbitre, autre que l’engagement pris relativement aux conditions d’exploitation visées à l’alinéa 169.31(1)c);
+	- **d)** l’engagement pris par l’expéditeur envers la compagnie de chemin de fer d’expédier les marchandises en cause conformément à la décision de l’arbitre;
+	- **e)** l’engagement pris par l’expéditeur envers l’Office de payer les honoraires et les frais qui sont à sa charge en application du paragraphe 169.39(3) à titre de partie à l’arbitrage.
+
+**Signification**
+
+- **(2)** L’expéditeur signifie un exemplaire de la demande d’arbitrage à la compagnie de chemin de fer le jour où il la soumet à l’Office.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Arbitrage écarté**
+
+**169.33** 
+
+- **(1)** L’Office rejette la demande d’arbitrage dans les cas suivants :
+	- **a)** l’expéditeur n’a pas signifié, dans les quinze jours précédant la demande d’arbitrage, un avis écrit à la compagnie de chemin de fer et à l’Office annonçant son intention de soumettre une demande d’arbitrage à ce dernier;
+	- **b)** l’expéditeur ne le convainc pas que des efforts ont été déployés pour régler les questions contenues dans la demande.
+
+**Contenu de l’avis**
+
+- **(2)** L’avis contient l’énoncé prévu à l’alinéa 169.32(1)a), la description prévue à l’alinéa 169.32(1)b) et, si l’engagement prévu à l’alinéa 169.32(1)c) sera contenu dans la demande d’arbitrage, une description de celui-ci.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Délai de présentation**
+
+**169.34** 
+
+- **(1)** Malgré la présentation d’une demande en vertu de l’article 169.43, l’expéditeur et la compagnie de chemin de fer, dans les dix jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), présentent chacun à l’Office leur proposition en vue du règlement des questions que l’expéditeur a soumises à l’Office pour arbitrage. La proposition contient une ou plusieurs des conditions ou modalités suivantes :
+	- **a)** les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c);
+	- **b)** les modalités de fourniture des services visés à l’alinéa 169.31(1)d);
+	- **c)** les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e).
+
+**Communication des propositions**
+
+- **(2)** Dès réception des deux propositions, l’Office communique à l’expéditeur et à la compagnie de chemin de fer la proposition de la partie adverse.
+
+**Échange de renseignements**
+
+- **(3)** Dans les vingt jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), ou dans le délai fixé par l’arbitre ou convenu entre elles, les parties s’échangent les renseignements qu’elles ont l’intention de présenter à l’arbitre à l’appui de leur proposition.
+
+**Exception**
+
+- **(4)** Sauf accord entre les parties à l’effet contraire, aucune d’elles ne peut, au soutien de sa proposition présentée en application du paragraphe (1), faire mention de tout ou partie des offres présentées par l’autre partie avant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2) en vue de conclure un contrat confidentiel.
+
+**Une seule proposition**
+
+- **(5)** Si une partie ne se conforme pas au paragraphe (1), la proposition de l’autre partie constitue la décision de l’arbitre au titre de l’article 169.37.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Arbitrage**
+
+**169.35** 
+
+- **(1)** Malgré la présentation d’une demande en application de l’article 169.43, l’Office, dans les deux jours ouvrables suivant la réception des deux propositions, renvoie à l’arbitre qu’il choisit les questions qui lui sont soumises pour arbitrage.
+
+**Impossibilité d’agir**
+
+- **(2)** L’arbitre ne peut agir dans le cadre d’autres procédures à l’égard des questions qui lui sont renvoyées pour arbitrage.
+
+**Soutien de l’Office**
+
+- **(3)** À la demande de l’arbitre, l’Office peut lui offrir le soutien administratif, technique et juridique voulu.
+
+**Nature de l’arbitrage**
+
+- **(4)** L’arbitrage ne constitue pas une procédure devant l’Office.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Procédure**
+
+**169.36** 
+
+- **(1)** L’Office peut établir les règles de procédure applicables à l’arbitrage.
+
+**Disposition générale**
+
+- **(2)** Sous réserve des règles de procédure établies par l’Office et à défaut d’un accord entre les parties et l’arbitre sur la procédure à suivre, ce dernier mène l’arbitrage aussi rapidement que possible et de la manière qu’il estime indiquée dans les circonstances.
+
+**Questions**
+
+- **(3)** Chaque partie peut poser des questions à l’autre de la manière que l’arbitre estime indiquée dans les circonstances.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Décision de l’arbitre**
+
+**169.37** Dans sa décision, l’arbitre établit les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c), les modalités de fourniture des services visés à l’alinéa 169.31(1)d) ou les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e), ou prend n’importe lesquelles de ces mesures, selon ce qu’il estime nécessaire pour régler les questions qui lui sont renvoyées. Pour rendre sa décision, il tient compte :
+- **a)** du transport en cause;
+- **b)** des services dont l’expéditeur a besoin pour le transport en cause;
+- **c)** de tout engagement visé à l’alinéa 169.32(1)c) qui est contenu dans la demande d’arbitrage;
+- **d)** des obligations qu’a la compagnie de chemin de fer envers d’autres expéditeurs aux termes de l’article 113, et de celles qu’elle a envers les personnes et autres compagnies aux termes de l’article 114;
+- **e)** des obligations que peut avoir la compagnie de chemin de fer envers une société de transport publique;
+- **f)** des besoins et des contraintes de l’expéditeur et de la compagnie de chemin de fer en matière d’exploitation;
+- **g)** de la possibilité pour l’expéditeur de faire appel à un autre mode de transport efficace, bien adapté et concurrentiel des marchandises en cause;
+- **h)** de tout renseignement qu’il estime pertinent.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Caractéristiques de la décision**
+
+**169.38** 
+
+- **(1)** La décision de l’arbitre est :
+	- **a)** rendue par écrit;
+	- **b)** rendue de manière à être applicable aux parties pendant un an à compter de sa date, sauf accord entre elles à l’effet contraire;
+	- **c)** commercialement équitable et raisonnable pour les parties.
+
+**Décision définitive**
+
+- **(2)** La décision de l’arbitre est définitive et obligatoire. Elle est réputée, aux fins d’exécution et pour l’application de la section IV de la partie III, être un contrat confidentiel conclu entre les parties.
+
+**Délai pour rendre la décision**
+
+- **(3)** La décision est rendue dans les quarante-cinq jours suivant la date à laquelle la demande d’arbitrage a été soumise à l’Office en vertu du paragraphe 169.31(1). Toutefois, si l’arbitre est d’avis qu’il est difficile de rendre une décision dans ce délai, la décision est rendue dans les soixante-cinq jours suivant cette date.
+
+**Délai — accord des parties**
+
+- **(4)** Malgré le paragraphe (3), l’arbitre peut, avec l’accord des parties, rendre sa décision dans un délai supérieur à soixante-cinq jours.
+
+**Copie de la décision**
+
+- **(5)** L’arbitre fournit à l’Office une copie de sa décision.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Honoraires de l’arbitre**
+
+**169.39** 
+
+- **(1)** L’Office peut fixer les honoraires à lui verser, ou à verser à l’arbitre dans le cas où celui-ci n’est pas un de ses membres ou ne fait pas partie de son personnel, pour l’arbitrage.
+
+**Honoraires de l’arbitre — non membre**
+
+- **(2)** L’arbitre qui n’est pas un membre de l’Office ou qui ne fait pas partie de son personnel peut fixer ses honoraires pour l’arbitrage dans le cas où l’Office ne les fixe pas au titre du paragraphe (1).
+
+**Paiement des honoraires et frais**
+
+- **(3)** Les honoraires et les frais liés à l’arbitrage — y compris ceux relatifs au soutien administratif, technique et juridique offert à l’arbitre par l’Office au titre du paragraphe 169.35(3) — sont à la charge de l’expéditeur et de la compagnie de chemin de fer en parts égales, même dans les cas d’abandon des procédures prévus par l’article 169.41.
+
+**Frais liés à l’arbitrage**
+
+- **(4)** Les frais liés à l’arbitrage comprennent également ceux supportés par l’Office lorsque l’un de ses membres ou une personne faisant partie de son personnel agit à titre d’arbitre et qu’il ne fixe pas ses honoraires au titre du paragraphe (1).
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Caractère confidentiel**
+
+**169.4** 
+
+- **(1)** La partie qui souhaite que des renseignements relatifs à l’arbitrage demeurent confidentiels en avise l’Office et l’arbitre. Ceux-ci prennent alors toutes les mesures justifiables pour éviter que les renseignements ne soient communiqués soit de leur fait, soit au cours de l’arbitrage à quiconque autre que les parties.
+
+**Divulguation restreinte**
+
+- **(2)** Malgré le paragraphe (1), l’Office peut, dans l’exercice de ses attributions sous le régime de la présente loi, communiquer les renseignements visés par l’avis.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Abandon des procédures**
+
+**169.41** Dans le cas où, avant la décision de l’arbitre, les parties avisent l’Office ou l’arbitre qu’elles s’accordent pour renoncer à l’arbitrage, les procédures sont abandonnées sur-le-champ.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Liste d’arbitres**
+
+**169.42** 
+
+- **(1)** En consultation avec les représentants des expéditeurs et des compagnies de chemin de fer, l’Office établit une liste de personnes qui sont choisies notamment parmi ses membres ou son personnel et qui acceptent d’agir à titre d’arbitres.
+
+**Compétences nécessaires**
+
+- **(2)** Ne peuvent figurer sur la liste que les personnes qui, de l’avis de l’Office, possèdent les compétences nécessaires pour agir à titre d’arbitres.
+
+**Publication de la liste**
+
+- **(3)** L’Office publie la liste sur son site Internet.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
+**Demande d’arrêté**
+
+**169.43** 
+
+- **(1)** La compagnie de chemin de fer peut, dans les dix jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), demander à l’Office de prendre un arrêté déclarant qu’une question contenue dans la demande d’arbitrage de l’expéditeur ne peut lui être soumise pour arbitrage.
+
+**Contenu de l’arrêté**
+
+- **(2)** S’il prend l’arrêté, l’Office peut en outre :
+	- **a)** rejeter la demande d’arbitrage, dans le cas où l’arbitre n’en a pas encore été saisi;
+	- **b)** mettre fin à l’arbitrage;
+	- **c)** assujettir l’arbitrage aux conditions qu’il fixe;
+	- **d)** annuler tout ou partie de la décision arbitrale.
+
+**Délai pour statuer**
+
+- **(3)** L’Office statue sur la demande présentée en vertu du paragraphe (1) aussi rapidement que possible et en tout état de cause dans les trente-cinq jours suivant sa réception.
+> 2013, ch. 31, art. 11.
+
+
+
+
+
 **PARTIE V** 
 ## Transport des personnes ayant une déficience
 
@@ -4314,12 +4681,18 @@ où
 		- **(iii)** toute condition d’une licence délivrée au titre de la présente loi;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
 
+**Règlements — compagnie de chemin de fer**
+
+- **(1.1)** L’Office peut, par règlement :
+	- **a)** désigner toute obligation imposée à une compagnie de chemin de fer par une décision arbitrale rendue en vertu de l’article 169.37 comme un texte dont la contravention est assujettie aux articles 179 et 180;
+	- **b)** prévoir le montant maximal de la sanction applicable à chaque contravention à un texte ainsi désigné, plafonné à 100 000 $.
+
 **Pouvoirs réglementaires du ministre**
 
 - **(2)** Le ministre peut, par règlement :
 	- **a)** désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition de l’article 51 ou des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par l’article 51 ou ces règlements;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
-> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49.
+> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12.
 
 
 
@@ -4329,7 +4702,7 @@ où
 
 **178** 
 
-- **(1)** L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+- **(1)** L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1) ou (2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
 
 **Attributions des agents**
 
@@ -4346,7 +4719,7 @@ où
 **Assistance**
 
 - **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50.
+> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13.
 
 
 
@@ -4491,12 +4864,12 @@ où
 
 **180.8** 
 
-- **(1)** S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
+- **(1)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (1.1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
 
 **Délégation ministérielle**
 
 - **(2)** S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
-> 2007, ch. 19, art. 52.
+> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14.
 
 
 
