@@ -4024,24 +4024,12 @@ and ending on the day on which the refund is paid to the person.
 
 **Judicial authorization**
 
-- **(3)** On *ex parte* application by the Minister, a judge may, subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement relating to an unnamed person or more than one unnamed person (in this section referred to as the “group”) if the judge is satisfied by information on oath that
+- **(3)** A judge of the Federal Court may, on application by the Minister and subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement relating to an unnamed person or more than one unnamed person (in this section referred to as the “group”) if the judge is satisfied by information on oath that
 	- **(a)** the person or group is ascertainable; and
 	- **(b)** the requirement is made to verify compliance by the person or persons in the group with any duty or obligation under this Act.
 
-**Service of authorization**
-
-- **(4)** If an authorization is granted, it shall be served together with the notice referred to in subsection (1).
-
-**Review of authorization**
-
-- **(5)** If an authorization is granted, a third party on whom a notice is served may, within 15 days after the service of the notice, apply to the judge who granted the authorization or, if that judge is unable to act, to another judge of the same court for a review of the authorization.
-
-**Powers on review**
-
-- **(6)** On hearing an application under subsection (5), a judge may
-	- **(a)** cancel the authorization previously granted if the judge is not then satisfied that the conditions in paragraphs (3)(a) and (b) have been met; or
-	- **(b)** confirm or vary the authorization if the judge is satisfied that those conditions have been met.
-> 2002, c. 22, s. 208; 2007, c. 18, s. 116.
+- **(4) to (6)** [Repealed, 2013, c. 33, s. 53]
+> 2002, c. 22, s. 208; 2007, c. 18, s. 116; 2013, c. 33, s. 53.
 
 
 
@@ -4419,7 +4407,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(a)** the total of
 		- **(i)** $0.17 multiplied by the number of cigarettes to which the offence relates,
 		- **(ii)** $0.17 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.116 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iii)** $0.213 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 		- **(iv)** $0.29 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
@@ -4429,10 +4417,10 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(a)** the total of
 		- **(i)** $0.255 multiplied by the number of cigarettes to which the offence relates,
 		- **(ii)** $0.255 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.174 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iii)** $0.319 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 		- **(iv)** $0.67 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54.
 
 
 
@@ -4828,8 +4816,8 @@ exceeds
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
 - **(a)** $0.361448 per cigarette that was removed in contravention of that subsection,
 - **(b)** $0.361448 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $207.704 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62.
+- **(c)** $451.81 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55.
 
 
 
@@ -6667,7 +6655,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks:
 
-**(a)** $2.49915 per 50 grams or fraction of 50 grams contained in any package, if the manufactured tobacco is black stock
+**(a)** $4.685938 per 50 grams or fraction of 50 grams contained in any package, if the manufactured tobacco is black stock
 
 **(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
 
@@ -6683,7 +6671,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 
-**(b)** $2.8925 per 50 grams or fraction of 50 grams contained in any package, in any other case.
+**(b)** $5.3125 per 50 grams or fraction of 50 grams contained in any package, in any other case.
 
 
 
@@ -6694,7 +6682,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56.
 
 
 
@@ -6743,7 +6731,7 @@ The greater of
 
 
 
-**(c)** $2.50 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** $4.6875 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
 
 
 
@@ -6758,7 +6746,7 @@ The greater of
 
 
 
-**(c)** $2.50 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** $4.6875 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
 
 
 
@@ -6773,7 +6761,7 @@ The greater of
 
 
 
-**(c)** $50.00 per kilogram, in the case of tobacco products other than cigarettes or tobacco sticks.
+**(c)** $93.75 per kilogram, in the case of tobacco products other than cigarettes or tobacco sticks.
 
 
 
@@ -6788,12 +6776,12 @@ The greater of
 
 
 
-**(c)** $2.3001 per 50 grams or fraction of 50 grams contained in any package, in the case of tobacco products other than cigarettes or tobacco sticks.
+**(c)** $5.98275 per 50 grams or fraction of 50 grams contained in any package, in the case of tobacco products other than cigarettes or tobacco sticks.
 
 
 
 
-> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54; 2008, c. 28, ss. 65 to 68.
+> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54; 2008, c. 28, ss. 65 to 68; 2013, c. 33, ss. 57 to 60.
 
 
 
