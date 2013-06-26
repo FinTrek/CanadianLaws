@@ -39,42 +39,42 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***administration*** means administration within the meaning of section 18;
+***administration*** means administration within the meaning of section 18; (*gestion*)
 
-***agent corporation*** means an agent corporation as defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***agent corporation*** means an agent corporation as defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*société mandataire*)
 
-***Crown grant*** means any of the instruments or acts referred to in section 5, a plan referred to in section 7, a notification within the meaning of the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or any other instrument or act by which federal real property may be granted or federal immovables may be conceded;
+***Crown grant*** means any of the instruments or acts referred to in section 5, a plan referred to in section 7, a notification within the meaning of the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or any other instrument or act by which federal real property may be granted or federal immovables may be conceded; (*concession de l’État*)
 
-***department*** means
+***department*** means
 - **(a)** a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md),
 - **(b)** a division or branch of the federal public administration named in Schedule I.1 to that Act,
 - **(b.1)** a commission under the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) designated as a department for the purposes of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
-- **(c)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+- **(c)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*ministère*)
 
-***federal immovable*** means an immovable belonging to Her Majesty, and includes an immovable of which Her Majesty has the power to dispose;
+***federal immovable*** means an immovable belonging to Her Majesty, and includes an immovable of which Her Majesty has the power to dispose; (*immeuble fédéral*)
 
-***federal real property*** means any real property belonging to Her Majesty, and includes any real property of which Her Majesty has the power to dispose;
+***federal real property*** means any real property belonging to Her Majesty, and includes any real property of which Her Majesty has the power to dispose; (*bien réel fédéral*)
 
-***head of mission***, in relation to real property or an immovable in a country outside Canada, means a person described in subsection 13(1) of the [Department of Foreign Affairs and International Trade Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-22.md) who represents Canada in that country;
+***head of mission***, in relation to real property or an immovable in a country outside Canada, means a person described in subsection 15(1) of the [Department of Foreign Affairs, Trade and Development Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2033,%20s.%20174.md) who represents Canada in that country; (*chef de mission*)
 
-***Her Majesty*** means Her Majesty in right of Canada;
+***Her Majesty*** means Her Majesty in right of Canada; (*Sa Majesté*)
 
-***immovable*** means
+***immovable*** means
 - **(a)** in the Province of Quebec, an immovable within the meaning of the civil law of the Province of Quebec, and includes the rights of a lessee in respect of such an immovable, and
-- **(b)** in jurisdictions outside Canada, any property that is an immovable within the meaning of the civil law of the Province of Quebec, and includes the rights of a lessee in respect of any such property;
+- **(b)** in jurisdictions outside Canada, any property that is an immovable within the meaning of the civil law of the Province of Quebec, and includes the rights of a lessee in respect of any such property; (*immeuble*)
 
-***interest*** means
+***interest*** means
 - **(a)** in relation to land in any province other than Quebec, any estate, right, title or interest in or to the land, and includes an easement, a servitude and a lease, and
-- **(b)** in relation to land outside Canada, any estate, right, title or interest that is similar to that referred to in paragraph (a);
+- **(b)** in relation to land outside Canada, any estate, right, title or interest that is similar to that referred to in paragraph (a); (*intérêt*)
 
-***licence*** means any right to use or occupy real property or an immovable, other than
+***licence*** means any right to use or occupy real property or an immovable, other than
 - **(a)** a real right within the meaning of the civil law of the Province of Quebec and the rights of a lessee under a lease of an immovable, and
-- **(b)** an interest in land;
+- **(b)** an interest in land; (*permis*)
 
-***Minister***, in relation to a department, means the Minister who, under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), is the appropriate Minister with respect to that department;
+***Minister***, in relation to a department, means the Minister who, under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), is the appropriate Minister with respect to that department; (*ministre*)
 
-***real property*** means land in any province other than Quebec, and land outside Canada, including mines and minerals, and buildings, structures, improvements and other fixtures on, above or below the surface of the land, and includes an interest therein.
-> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11; 2003, c. 22, s. 224(E).
+***real property*** means land in any province other than Quebec, and land outside Canada, including mines and minerals, and buildings, structures, improvements and other fixtures on, above or below the surface of the land, and includes an interest therein. (*biens réels*)
+> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11; 2003, c. 22, s. 224(E); 2013, c. 33, s. 191.
 
 
 
