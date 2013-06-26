@@ -3995,22 +3995,12 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Autorisation judiciaire**
 
-- **(3)** Sur requête *ex parte* du ministre, un juge peut, aux conditions qu’il estime indiquées, autoriser le ministre à exiger d’un tiers la livraison de renseignements ou de registres concernant une personne non désignée nommément ou plus d’une personne non désignée nommément (appelée « groupe » au présent article) s’il est convaincu, sur dénonciation sous serment, de ce qui suit :
+- **(3)** Sur requête du ministre, un juge de la Cour fédérale peut, aux conditions qu’il estime indiquées, autoriser le ministre à exiger d’un tiers la livraison de renseignements ou de registres concernant une personne non désignée nommément ou plus d’une personne non désignée nommément (appelée « groupe » au présent article) s’il est convaincu, sur dénonciation sous serment, de ce qui suit :
 	- **a)** cette personne ou ce groupe est identifiable;
 	- **b)** la livraison est exigée pour vérifier si cette personne ou les personnes de ce groupe ont respecté quelque devoir ou obligation prévu par la présente loi.
 
-**Signification ou envoi de l’autorisation**
-
-- **(4)** L’autorisation accordée en application du paragraphe (3) doit être jointe à l’avis visé au paragraphe (1).
-
-**Révision de l’autorisation**
-
-- **(5)** Le tiers à qui un avis est signifié ou envoyé peut, dans les quinze jours suivant la date de signification ou d’envoi, demander au juge qui a accordé l’autorisation, ou, en cas d’incapacité de ce juge, à un autre juge du même tribunal de réviser l’autorisation.
-
-**Pouvoir de révision**
-
-- **(6)** À l’audition de la requête, le juge peut annuler l’autorisation accordée antérieurement s’il n’est pas convaincu de l’existence des conditions prévues aux alinéas (3)a) et b). Il peut la confirmer ou la modifier s’il est convaincu de leur existence.
-> 2002, ch. 22, art. 208; 2007, ch. 18, art. 116.
+- **(4) à (6)** [Abrogés, 2013, ch. 33, art. 53]
+> 2002, ch. 22, art. 208; 2007, ch. 18, art. 116; 2013, ch. 33, art. 53.
 
 
 
@@ -4385,7 +4375,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 0,17 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
 		- **(ii)** le produit de 0,17 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,116 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,213 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
 		- **(iv)** le produit de 0,29 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
@@ -4395,10 +4385,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 0,255 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
 		- **(ii)** le produit de 0,255 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,174 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,319 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
 		- **(iv)** le produit de 0,67 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54.
 
 
 
@@ -4791,8 +4781,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
 - **a)** 0,361 448 $ par cigarette retirée en contravention avec ce paragraphe;
 - **b)** 0,361 448 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 207,704 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62.
+- **c)** 451,81 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55.
 
 
 
@@ -6608,7 +6598,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
 
-**a)** 2,499 15 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
+**a)** 4,685 938 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
 
 **(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
 
@@ -6624,7 +6614,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 
-**b)** 2,8925 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, dans les autres cas.
+**b)** 5,3125 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, dans les autres cas.
 
 
 
@@ -6635,7 +6625,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56.
 
 
 
@@ -6680,7 +6670,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 2,50 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 4,6875 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
@@ -6695,7 +6685,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 2,50 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 4,6875 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
@@ -6710,7 +6700,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 50,00 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 93,75 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
@@ -6725,12 +6715,12 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 2,3001 $ la quantité de 50 grammes, ou fraction de cette quantité, de produits du tabac contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 5,982 75 $ la quantité de 50 grammes, ou fraction de cette quantité, de produits du tabac contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
 
-> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54; 2008, ch. 28, art. 65 à 68.
+> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54; 2008, ch. 28, art. 65 à 68; 2013, ch. 33, art. 57 à 60.
 
 
 
