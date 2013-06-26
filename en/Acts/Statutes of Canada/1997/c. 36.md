@@ -869,8 +869,8 @@ Switzerland
 
 **Expiry date**
 
-**36** Sections 33 to 35 cease to have effect on June 30, 2014 or on such earlier date as may be fixed by order of the Governor in Council.
-> 1997, c. 36, s. 36; 2004, c. 13, s. 1.
+**36** Sections 33 to 35 cease to have effect on December 31, 2024 or on any earlier date that may be fixed by order of the Governor in Council.
+> 1997, c. 36, s. 36; 2004, c. 13, s. 1; 2013, c. 33, s. 62.
 
 
 
@@ -934,8 +934,8 @@ Switzerland
 
 **Expiry date**
 
-**40** Sections 37 to 39 cease to have effect on June 30, 2014 or on such earlier date as may be fixed by order of the Governor in Council.
-> 1997, c. 36, s. 40; 2004, c. 13, s. 2.
+**40** Sections 37 to 39 cease to have effect on December 31, 2024 or on any earlier date that may be fixed by order of the Governor in Council.
+> 1997, c. 36, s. 40; 2004, c. 13, s. 2; 2013, c. 33, s. 63.
 
 
 
