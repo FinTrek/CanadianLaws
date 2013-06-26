@@ -4975,16 +4975,16 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **183** 
 
-- **(1)** The directors of a bank shall not transact business at a meeting of directors or of a committee of directors unless
+- **(1)** The directors of a bank shall not transact business at a meeting of directors unless
 	- **(a)** in the case of a bank that is a subsidiary of a foreign bank, at least one half of the directors present are resident Canadians; or
 	- **(b)** in any other case, a majority of the directors present are resident Canadians.
 
 **Exception**
 
-- **(2)** Notwithstanding subsection (1), the directors of a bank may transact business at a meeting of directors or of a committee of directors without the required proportion of directors present who are resident Canadians if
+- **(2)** Despite subsection (1), the directors of a bank may transact business at a meeting of directors without the required proportion of directors who are resident Canadians if
 	- **(a)** a director who is a resident Canadian unable to be present approves, in writing or by telephonic, electronic or other communications facilities, the business transacted at the meeting; and
 	- **(b)** there would have been present the required proportion of directors who are resident Canadians had that director been present at the meeting.
-> 1991, c. 46, s. 183; 2001, c. 9, s. 75.
+> 1991, c. 46, s. 183; 2001, c. 9, s. 75; 2013, c. 33, s. 105.
 
 
 
@@ -19842,10 +19842,10 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **Exception**
 
-- **(2)** Notwithstanding subsection (1), the directors of a bank holding company may transact business at a meeting of directors or of a committee of directors without the required proportion of directors present who are resident Canadians if
+- **(2)** Despite subsection (1), the directors of a bank holding company may transact business at a meeting of directors without the required proportion of directors who are resident Canadians if
 	- **(a)** a director who is a resident Canadian unable to be present approves, in writing or by telephonic, electronic or other communications facilities, the business transacted at the meeting; and
 	- **(b)** there would have been present the required proportion of directors who are resident Canadians had that director been present at the meeting.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2013, c. 33, s. 106.
 
 
 
