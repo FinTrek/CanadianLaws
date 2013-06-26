@@ -3876,16 +3876,17 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **187** 
 
-- **(1)** The directors of a company shall not transact business at a meeting of directors or of a committee of directors unless,
-	- **(a)** in the case of a company that is the subsidiary of a foreign institution, at least one half, and
-	- **(b)** in the case of any other company, a majority
-of the directors present are resident Canadians.
+- **(1)** The directors of a company shall not transact business at a meeting of directors unless
+	- **(a)** in the case of a company that is the subsidiary of a foreign institution, at least one half of the directors present are resident Canadians; and
+	- **(b)** in the case of any other company, a majority of the directors present are resident Canadians.
 
 **Exception**
 
-- **(2)** Notwithstanding subsection (1), the directors of a company may transact business at a meeting of directors or of a committee of directors without the required proportion of directors who are resident Canadians if
+- **(2)** Despite subsection (1), the directors of a company may transact business at a meeting of directors without the required proportion of directors who are resident Canadians if
 	- **(a)** a director who is a resident Canadian unable to be present approves, in writing or by telephonic, electronic or other communications facilities, the business transacted at the meeting; and
 	- **(b)** there would have been present the required proportion of directors who are resident Canadians had that director been present at the meeting.
+> 1991, c. 45, s. 187; 2013, c. 33, s. 104.
+
 
 
 
