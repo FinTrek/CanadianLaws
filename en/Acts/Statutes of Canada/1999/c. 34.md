@@ -85,12 +85,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 113.1, 132 to 147 and 154.01, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
+- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 89.8 to 89.92, 113.1, 132 to 147 and 154.01, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
 
 **Reports and special examination**
 
 - **(7)** Any report or information in respect of the Board that is provided to the Minister under sections 132 to 147 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall also be provided to the Minister of National Defence and the Minister of Public Safety and Emergency Preparedness. The Minister may only require a special examination under subsection 138(2) of that Act if the Minister has consulted with those Ministers.
-> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295; 2009, c. 2, s. 381, c. 23, s. 336.
+> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295; 2009, c. 2, s. 381, c. 23, s. 336; 2013, c. 33, s. 231.
 
 
 
