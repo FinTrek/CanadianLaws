@@ -3775,15 +3775,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **187** 
 
-- **(1)** Les administrateurs ne peuvent délibérer en conseil ou en comité que si :
+- **(1)** Les administrateurs ne peuvent délibérer en conseil que si :
 	- **a)** dans le cas de la filiale d’une institution étrangère, au moins la moitié des présents sont des résidents canadiens;
 	- **b)** dans les autres cas, la majorité des présents sont des résidents canadiens.
 
 **Exception**
 
-- **(2)** Il peut cependant y avoir dérogation au paragraphe (1), lorsque les deux conditions suivantes sont réunies :
+- **(2)** Il peut cependant y avoir dérogation au paragraphe (1), lorsque les deux conditions suivantes sont réunies :
 	- **a)** parmi les administrateurs absents, un résident canadien approuve les délibérations par écrit, par communication téléphonique ou électronique ou par tout autre moyen de communication;
 	- **b)** la présence de cet administrateur aurait permis d’atteindre le nombre d’administrateurs requis.
+> 1991, ch. 45, art. 187; 2013, ch. 33, art. 104.
+
 
 
 
