@@ -46,54 +46,59 @@
 
 ***Agency***[Repealed, 1995, c. 1, s. 45]
 
-***assets*** includes tangible and intangible property of any value;
+***assets*** includes tangible and intangible property of any value; (*actifs*)
 
-***business*** includes any undertaking or enterprise capable of generating revenue and carried on in anticipation of profit;
+***business*** includes any undertaking or enterprise capable of generating revenue and carried on in anticipation of profit; (*entreprise*)
 
-***Canada*** includes the exclusive economic zone of Canada and the continental shelf of Canada;
+***Canada*** includes the exclusive economic zone of Canada and the continental shelf of Canada; (*Canada*)
 
-***Canadian*** means
+***Canadian*** means
 - **(a)** a Canadian citizen,
 - **(b)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) who has been ordinarily resident in Canada for not more than one year after the time at which he or she first became eligible to apply for Canadian citizenship,
 - **(c)** a Canadian government, whether federal, provincial or local, or an agency thereof, or
-- **(d)** an entity that is Canadian-controlled, as determined under subsection 26(1) or (2) and in respect of which there has been no determination made under subsection 26(2.1) or (2.11) or declaration made under subsection 26(2.2);
+- **(d)** an entity that is Canadian-controlled, as determined under subsection 26(1) or (2) and in respect of which there has been no determination made under any of subsections 26(2.1), (2.11) and (2.31) or declaration made under subsection 26(2.2) or (2.32); (*Canadien*)
 
-***Canadian business*** means a business carried on in Canada that has
+***Canadian business*** means a business carried on in Canada that has
 - **(a)** a place of business in Canada,
 - **(b)** an individual or individuals in Canada who are employed or self-employed in connection with the business, and
-- **(c)** assets in Canada used in carrying on the business;
+- **(c)** assets in Canada used in carrying on the business; (*entreprise canadienne*)
 
-***corporation*** means a body corporate with or without share capital;
+***corporation*** means a body corporate with or without share capital; (*personne morale*)
 
-***Director*** means the Director of Investments appointed under section 6;
+***Director*** means the Director of Investments appointed under section 6; (*directeur*)
 
-***entity*** means a corporation, partnership, trust or joint venture;
+***entity*** means a corporation, partnership, trust or joint venture; (*unité*)
 
-***joint venture*** means an association of two or more persons or entities, where the relationship among those associated persons or entities does not, under the laws in force in Canada, constitute a corporation, a partnership or a trust and where, in the case of an investment to which this Act applies, all the undivided ownership interests in the assets of the Canadian business or in the voting interests of the entity that is the subject of the investment are or will be owned by all the persons or entities that are so associated;
+***joint venture*** means an association of two or more persons or entities, where the relationship among those associated persons or entities does not, under the laws in force in Canada, constitute a corporation, a partnership or a trust and where, in the case of an investment to which this Act applies, all the undivided ownership interests in the assets of the Canadian business or in the voting interests of the entity that is the subject of the investment are or will be owned by all the persons or entities that are so associated; (*coentreprise*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre*)
 
 ***new Canadian business***, in relation to a non-Canadian, means a business that is not already being carried on in Canada by the non-Canadian and that, at the time of its establishment,
 - **(a)** is unrelated to any other business being carried on in Canada by that non-Canadian, or
-- **(b)** is related to another business being carried on in Canada by that non-Canadian but falls within a prescribed specific type of business activity that, in the opinion of the Governor in Council, is related to Canada’s cultural heritage or national identity;
+- **(b)** is related to another business being carried on in Canada by that non-Canadian but falls within a prescribed specific type of business activity that, in the opinion of the Governor in Council, is related to Canada’s cultural heritage or national identity; (*nouvelle entreprise canadienne*)
 
-***non-Canadian*** means an individual, a government or an agency thereof or an entity that is not a Canadian;
+***non-Canadian*** means an individual, a government or an agency thereof or an entity that is not a Canadian; (*non-Canadien*)
 
-***own*** means beneficially own;
+***own*** means beneficially own; (*propriétaire*)
 
-***person*** means an individual, a government or an agency thereof or a corporation;
+***person*** means an individual, a government or an agency thereof or a corporation; (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations made pursuant to this Act;
+***prescribed*** means prescribed by the regulations made pursuant to this Act; (***Version anglaise seulement***)
 
-***voting group*** means two or more persons who are associated with respect to the exercise of rights attached to voting interests in an entity by contract, business arrangement, personal relationship, common control in fact through the ownership of voting interests, or otherwise, in such a manner that they would ordinarily be expected to act together on a continuing basis with respect to the exercise of those rights;
+***state-owned enterprise*** means
+- **(a)** the government of a foreign state, whether federal, state or local, or an agency of such a government;
+- **(b)** an entity that is controlled or influenced, directly or indirectly, by a government or agency referred to in paragraph (a); or
+- **(c)** an individual who is acting under the direction of a government or agency referred to in paragraph (a) or who is acting under the influence, directly or indirectly, of such a government or agency; (*entreprise d’État*)
+
+***voting group*** means two or more persons who are associated with respect to the exercise of rights attached to voting interests in an entity by contract, business arrangement, personal relationship, common control in fact through the ownership of voting interests, or otherwise, in such a manner that they would ordinarily be expected to act together on a continuing basis with respect to the exercise of those rights; (*groupement de votants*)
 
 ***voting interest***, with respect to
 - **(a)** a corporation with share capital, means a voting share,
 - **(b)** a corporation without share capital, means an ownership interest in the assets thereof that entitles the owner to rights similar to those enjoyed by the owner of a voting share, and
-- **(c)** a partnership, trust or joint venture, means an ownership interest in the assets thereof that entitles the owner to receive a share of the profits and to share in the assets on dissolution;
+- **(c)** a partnership, trust or joint venture, means an ownership interest in the assets thereof that entitles the owner to receive a share of the profits and to share in the assets on dissolution; (*intérêt avec droit de vote*)
 
-***voting share*** means a share in the capital of a corporation to which is attached a voting right ordinarily exercisable at meetings of shareholders of the corporation and to which is ordinarily attached a right to receive a share of the profits, or to share in the assets of the corporation on dissolution, or both.
-> R.S., 1985, c. 28 (1st Supp.), s. 3; 1993, c. 35, s. 1; 1995, c. 1, s. 45; 1996, c. 31, s. 88; 2001, c. 27, s. 259; 2009, c. 2, s. 446.
+***voting share*** means a share in the capital of a corporation to which is attached a voting right ordinarily exercisable at meetings of shareholders of the corporation and to which is ordinarily attached a right to receive a share of the profits, or to share in the assets of the corporation on dissolution, or both. (*action avec droit de vote*)
+> R.S., 1985, c. 28 (1st Supp.), s. 3; 1993, c. 35, s. 1; 1995, c. 1, s. 45; 1996, c. 31, s. 88; 2001, c. 27, s. 259; 2009, c. 2, s. 446; 2013, c. 33, s. 136.
 
 
 
@@ -813,7 +818,7 @@ where
 
 **26** 
 
-- **(1)** Subject to subsections (2.1) to (2.2), for the purposes of this Act,
+- **(1)** Subject to subsections (2.1) to (2.2), (2.31) and (2.32), for the purposes of this Act,
 	- **(a)** where one Canadian or two or more members of a voting group who are Canadians own a majority of the voting interests of an entity, it is a Canadian-controlled entity;
 	- **(b)** where paragraph (a) does not apply and one non-Canadian or two or more members of a voting group who are non-Canadians own a majority of the voting interests of an entity, it is not a Canadian-controlled entity;
 	- **(c)** where paragraphs (a) and (b) do not apply and a majority of the voting interests of an entity are owned by Canadians and it can be established that the entity is not controlled in fact through the ownership of its voting interests by one non-Canadian or by a voting group in which a member or members who are non-Canadians own one-half or more of those voting interests of the entity owned by the voting group, it is a Canadian-controlled entity; and
@@ -823,7 +828,7 @@ where
 
 **Trusts**
 
-- **(2)** Subject to subsections (2.1) to (2.2), if it can be established that a trust is not controlled in fact through the ownership of its voting interests, subsection (1) does not apply, and the trust is a Canadian-controlled entity if two-thirds of its trustees are Canadians.
+- **(2)** Subject to subsections (2.1) to (2.2), (2.31) and (2.32), if it can be established that a trust is not controlled in fact through the ownership of its voting interests, subsection (1) does not apply, and the trust is a Canadian-controlled entity if two-thirds of its trustees are Canadians.
 
 **Minister may determine**
 
@@ -841,9 +846,21 @@ where
 
 - **(2.3)** A determination made under subsection (2.1) or a declaration made under subsection (2.2) may be retroactive to such date, not earlier than June 19, 1992, as the Minister specifies, in which case the determination or declaration shall, for all purposes of this Act, be deemed to have been made on the date so specified.
 
+**Minister may determine — control by state-owned enterprise**
+
+- **(2.31)** If an entity qualifies as a Canadian-controlled entity by virtue of subsection (1) or (2), the Minister may nevertheless determine that the entity is not a Canadian-controlled entity if, after considering any information and evidence submitted by or on behalf of the entity or otherwise made available to the Minister or the Director, the Minister is satisfied that the entity is controlled in fact by one or more state-owned enterprises.
+
+**Minister may declare**
+
+- **(2.32)** If an entity referred to in subsection (2.31) has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under that subsection, the Minister may declare that the entity is not a Canadian-controlled entity.
+
+**Retroactivity possible**
+
+- **(2.33)** A determination made under subsection (2.31) or a declaration made under subsection (2.32) in respect of an entity referred to in subsection (2.31) may be retroactive to any date, not earlier than April 29, 2013, that the Minister specifies, in which case the determination or declaration shall, for all purposes of this Act, be deemed to have been made on the specified date.
+
 **Entity to be informed**
 
-- **(2.4)** The Minister shall inform the entity concerned, in writing, of any determination made under subsection (2.1) or (2.11) or declaration made under subsection (2.2), and of any date specified under subsection (2.3) without delay after such a determination or declaration is made.
+- **(2.4)** The Minister shall inform the entity concerned, in writing, of any determination made under any of subsections (2.1), (2.11) and (2.31) or declaration made under subsection (2.2) or (2.32), and of any date specified under subsection (2.3) or (2.33), without delay after the determination or declaration is made.
 
 **Where corporation deemed to be Canadian**
 
@@ -871,7 +888,7 @@ the corporation shall be deemed to be a Canadian for the purpose of making any i
 **Equal ownership**
 
 - **(6)** Where two persons own equally all of the voting shares of a corporation and at least one of them is a non-Canadian, the corporation is not a Canadian-controlled entity.
-> R.S., 1985, c. 28 (1st Supp.), s. 26; 1993, c. 35, s. 4; 1995, c. 1, s. 50; 2009, c. 2, s. 454.
+> R.S., 1985, c. 28 (1st Supp.), s. 26; 1993, c. 35, s. 4; 1995, c. 1, s. 50; 2009, c. 2, s. 454; 2013, c. 33, s. 143.
 
 
 
@@ -911,7 +928,7 @@ where there is no acquisition of control of any corporation;
 
 **Rules and presumptions respecting control of entities**
 
-- **(2)** Subject to subsections (4) to (5), for the purposes of this Act,
+- **(2)** Subject to subsections (4) to (5), (6.1) and (6.2), for the purposes of this Act,
 	- **(a)** where one entity controls another entity, it is deemed to control indirectly any entity or entities controlled directly or indirectly by that other entity;
 	- **(b)** an entity controls another entity directly
 		- **(i)** where the controlling entity owns a majority of the voting interests of the other entity, or
@@ -921,7 +938,7 @@ where there is no acquisition of control of any corporation;
 
 **Presumptions respecting acquisition of control**
 
-- **(3)** Subject to subsections (4) to (5), for the purposes of this Act,
+- **(3)** Subject to subsections (4) to (5), (6.1) and (6.2), for the purposes of this Act,
 	- **(a)** the acquisition of a majority of the voting interests of an entity or of a majority of the undivided ownership interests in the voting shares of an entity that is a corporation is deemed to be acquisition of control of that entity;
 	- **(b)** the acquisition of less than a majority of the voting interests of an entity other than a corporation is deemed not to be acquisition of control of that entity;
 	- **(c)** the acquisition of less than a majority but one-third or more of the voting shares of a corporation or of an equivalent undivided ownership interest in the voting shares of the corporation is presumed to be acquisition of control of that corporation unless it can be established that, on the acquisition, the corporation is not controlled in fact by the acquirer through the ownership of voting shares; and
@@ -943,10 +960,22 @@ where there is no acquisition of control of any corporation;
 
 - **(6)** A determination made under subsection (4) or a declaration made under subsection (5) may be retroactive to such date, not earlier than June 19, 1992, as the Minister specifies, in which case the determination or declaration shall, for all purposes of this Act, be deemed to have been made on the date so specified.
 
+**Minister may determine — control or acquisition of control by state-owned enterprise**
+
+- **(6.1)** The Minister may, after considering any information and evidence made available to the Minister or the Director, determine that an entity is or is not controlled by another entity, or that there has or has not been an acquisition of control of an entity, if the Minister is satisfied that the entity is or is not controlled in fact by a state-owned enterprise or that there has or has not been an acquisition of control in fact of that entity by a state-owned enterprise, as the case may be.
+
+**Minister may declare — control or acquisition of control by state-owned enterprise**
+
+- **(6.2)** If an entity or a state-owned enterprise has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under subsection (6.1), the Minister may declare that the entity is or is not controlled by a state-owned enterprise or that there has or has not been an acquisition of control of the entity by a state-owned enterprise, as the case may be.
+
+**Retroactivity possible**
+
+- **(6.3)** A determination made under subsection (6.1) or a declaration made under subsection (6.2) may be retroactive to any date, not earlier than April 29, 2013, that the Minister specifies, in which case the determination or declaration shall, for all purposes of this Act, be deemed to have been made on the specified date.
+
 **Entity to be informed**
 
-- **(7)** The Minister shall inform the entity concerned, in writing, of any determination made under subsection (4) or (4.1) or declaration made under subsection (5), and of any date specified under subsection (6) without delay after such a determination or declaration is made.
-> R.S., 1985, c. 28 (1st Supp.), s. 28; 1993, c. 35, s. 5; 1995, c. 1, s. 50; 2009, c. 2, s. 455.
+- **(7)** The Minister shall inform the entity concerned, in writing, of any determination made under any of subsections (4), (4.1) and (6.1) or declaration made under subsection (5) or (6.2) and of any date specified under subsection (6) or (6.3), without delay after the determination or declaration is made.
+> R.S., 1985, c. 28 (1st Supp.), s. 28; 1993, c. 35, s. 5; 1995, c. 1, s. 50; 2009, c. 2, s. 455; 2013, c. 33, s. 144.
 
 
 
@@ -1135,7 +1164,7 @@ where there is no acquisition of control of any corporation;
 
 **37** 
 
-- **(1)** Where any question arises under this Act as to whether an individual or an entity is a Canadian, the Minister shall, on application by or on behalf of the individual or entity, forthwith consider the application and any information and evidence submitted therewith and, unless the Minister concludes that the information and evidence submitted therewith is not sufficient to enable the Minister to reach an opinion on the question, shall provide the applicant with a written opinion for the guidance of the applicant.
+- **(1)** If any question arises under this Act as to whether an individual or entity that proposes to establish, or to acquire control of, a Canadian business that carries on a specific type of business activity referred to in paragraph 15(a) is a Canadian, the Minister shall, on application by or on behalf of the individual or entity consider the application and any information and evidence submitted in connection with the application and, unless the Minister concludes that the submitted information and evidence is not sufficient to enable the Minister to reach an opinion on the question, shall provide the applicant with a written opinion for the guidance of the applicant.
 
 **Time for providing opinion**
 
@@ -1143,7 +1172,7 @@ where there is no acquisition of control of any corporation;
 
 **Other opinions**
 
-- **(2)** Anyone may apply to the Minister, with supporting information, for an opinion on the applicability to him of any provision of this Act or the regulations to which subsection (1) does not apply, and the Minister may provide the applicant with a written opinion for the applicant’s guidance.
+- **(2)** Anyone may apply to the Minister, with supporting information, for an opinion on the applicability to them of any provision of this Act or the regulations to which subsection (1) does not apply, and the Minister may provide the applicant with a written opinion for the applicant’s guidance. For greater certainty, the application may be in relation to any question that arises under this Act as to whether the applicant is a Canadian.
 
 **Time for providing opinion**
 
@@ -1156,7 +1185,7 @@ where there is no acquisition of control of any corporation;
 **Authorized opinions**
 
 - **(4)** The Minister may authorize the Director or any person the Minister deems qualified to provide written opinions under this section, and any opinion so provided has the same effect as if it had been provided under this section by the Minister.
-> R.S., 1985, c. 28 (1st Supp.), s. 37; 1988, c. 65, s. 137; 1994, c. 47, s. 135; 1995, c. 1, s. 50; 2009, c. 2, s. 458.
+> R.S., 1985, c. 28 (1st Supp.), s. 37; 1988, c. 65, s. 137; 1994, c. 47, s. 135; 1995, c. 1, s. 50; 2009, c. 2, s. 458; 2013, c. 33, s. 145.
 
 
 
