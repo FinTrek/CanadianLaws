@@ -54,6 +54,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**PARTIE 1** 
+## Mariage
+
+
+
 **Mariage : conditions de fond**
 
 **2** Le mariage est, sur le plan civil, l’union légitime de deux personnes, à l’exclusion de toute autre personne.
@@ -82,14 +87,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Modifications corrélatives
+**Mariage de personnes non-résidentes**
 
+**5** 
 
+- **(1)** Le mariage célébré au Canada qui serait valide au Canada si les époux y avaient leur domicile est valide pour l’application du droit canadien même si les époux ou l’un d’eux n’ont pas, au moment du mariage, la capacité de le contracter en vertu du droit de l’État de leur domicile respectif.
 
-### Loi canadienne sur les sociétés par actions
+**Rétroactivité**
 
+- **(2)** Le paragraphe (1) s’applique rétroactivement à tout mariage qui aurait été valide en vertu du droit applicable dans la province où il a été célébré n’eût été l’absence de capacité des époux ou de l’un d’eux de le contracter en vertu du droit de l’État de leur domicile respectif.
 
-**5** [Modifications]
+**Ordonnances de dissolution**
+
+- **(3)** Toute ordonnance d’un tribunal rendue au Canada ou à l’étranger avant l’entrée en vigueur du présent paragraphe et annulant le mariage ou accordant le divorce aux époux dissout le mariage, pour l’application du droit canadien, à compter de la date de sa prise d’effet.
+> 2005, ch. 33, art. 5; 2013, ch. 30, art. 3.
+
 
 
 
