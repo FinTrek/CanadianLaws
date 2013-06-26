@@ -64,15 +64,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***démocratie*** Notamment, les droits politiques et civiques définis dans le Pacte international relatif aux droits civils et politiques. (*democracy*)
 
-***ministre*** Le ministre de la Coopération internationale ou tout autre ministre chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
+***ministre*** Le ministre du Développement international ou tout autre ministre chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***ministre compétent*** Le ministre de la Coopération internationale, le ministre des Affaires étrangères, le ministre des Finances ou tout autre ministre fournissant de l’aide au développement officielle. (*competent minister*)
+***ministre compétent*** Le ministre du Développement international, le ministre des Affaires étrangères, le ministre des Finances ou tout autre ministre fournissant de l’aide au développement officielle. (*competent minister*)
 
 ***normes internationales en matière de droits de la personne*** Normes fondées sur les conventions internationales en matière de droits de la personne auxquelles le Canada est partie et sur le droit coutumier international. (*international human rights standards*)
 
 ***organisme de la société civile*** Organisme sans but lucratif ou de charité dont la structure dirigeante est indépendante des instructions d’un gouvernement, notamment les organismes de bienfaisance enregistrés, les organisations non gouvernementales pour le développement, les groupes communautaires, les organisations féministes, les organisations religieuses, les associations professionnelles, les syndicats, les groupes d’entraide, les mouvements sociaux, les associations de gens d’affaires, les coalitions, les organisations de défense des droits de la personne et les groupes de défense. (*civil society organization*)
 
 ***valeurs canadiennes*** Les valeurs, entre autres, de citoyenneté mondiale, d’équité et de respect de la viabilité de l’environnement. (*Canadian values*)
+> 2008, ch. 17, art. 3; 2013, ch. 33, art. 196.
+
 
 
 
@@ -121,8 +123,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le montant total que le gouvernement du Canada a consacré à l’aide au développement officielle pendant l’exercice précédent;
 	- **b)** un résumé des activités ou des projets entrepris sous le régime de la présente loi;
 	- **c)** un résumé du rapport annuel présenté aux termes de la [Loi sur les accords de Bretton Woods et des accords connexes](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-7.md);
-	- **d)** un résumé des observations faites par les représentants canadiens au sujet des priorités et des politiques des Institutions de Bretton Woods;
-	- **e)** un résumé du Rapport sur le rendement de l’Agence canadienne de développement international.
+	- **d)** un résumé des observations faites par les représentants canadiens au sujet des priorités et des politiques des Institutions de Bretton Woods.
+	- **e)** [Abrogé, 2013, ch. 33, art. 193]
 
 **Rapport statistique**
 
@@ -137,6 +139,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction de communication**
 
 - **(4)** Par dérogation aux paragraphes (1) et (3), ne peuvent faire l’objet d’un rapport au titre du présent article les renseignements dont la communication est interdite par les politiques des Institutions de Bretton Woods.
+> 2008, ch. 17, art. 5; 2013, ch. 33, art. 193.
+
 
 
 
