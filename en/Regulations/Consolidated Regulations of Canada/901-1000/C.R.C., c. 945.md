@@ -346,7 +346,7 @@ of such payment in lieu of the amount determined under section 102.
 	- **(b)** the annuitant intends that the home be used as a principal place of residence in Canada for the annuitant or the disabled person, as the case may be, within one year after its acquisition;
 	- **(c)** the home has not been previously owned by the annuitant, the annuitant’s spouse or common-law partner, the disabled person or the spouse or common-law partner of that person;
 	- **(d)** the annuitant was resident in Canada;
-	- **(e)** the total amount of the payment and all other such payments received by the annuitant in respect of the home at or before the time of payment does not exceed $20,000;
+	- **(e)** the total amount of the payment and all other such payments received by the annuitant in respect of the home at or before the time of the payment does not exceed the dollar amount specified in paragraph (h) of the definition ***regular eligible amount*** in subsection 146.01(1) of the Act;
 	- **(f)** except where the annuitant certifies that he or she is a disabled person entitled to the credit for mental or physical impairment under subsection 118.3(1) of the Act or certifies that the payment is being withdrawn for the benefit of such a disabled person, the annuitant is a qualifying homebuyer at the time of the certification; and
 	- **(g)** where the annuitant has withdrawn an eligible amount, within the meaning assigned by subsection 146.01(1) of the Act, before the calendar year of the certification, the total of all eligible amounts received by the annuitant before that calendar year does not exceed the total of all amounts previously designated under subsection 146.01(3) of the Act or included in computing the annuitant’s income under subsection 146.01(4) or (5) of the Act.
 
@@ -360,7 +360,7 @@ of such payment in lieu of the amount determined under section 102.
 	- **(a)** a housing unit;
 	- **(b)** a share of the capital stock of a cooperative housing corporation, where the holder of the share is entitled to possession of a housing unit; and
 	- **(c)** where the context so requires, the housing unit to which a share described in paragraph (b) relates.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 3; SOR/78-754, s. 1; SOR/89-508, s. 4; SOR/92-176, s. 1; SOR/92-667, s. 3; SOR/93-81, s. 1; SOR/94-238, s. 4; SOR/94-246, s. 1; SOR/94-686, ss. 49(F), 79(F); SOR/97-470, s. 2; SOR/99-19, s. 1; SOR/2001-188, ss. 1, 14; SOR/2001-221, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 3; SOR/78-754, s. 1; SOR/89-508, s. 4; SOR/92-176, s. 1; SOR/92-667, s. 3; SOR/93-81, s. 1; SOR/94-238, s. 4; SOR/94-246, s. 1; SOR/94-686, ss. 49(F), 79(F); SOR/97-470, s. 2; SOR/99-19, s. 1; SOR/2001-188, ss. 1, 14; SOR/2001-221, s. 4; 2013, c. 34, s. 376.
 
 
 
@@ -703,10 +703,12 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(6)** A non-resident person who is deemed, under subsection 212(13.2) of the Act, to be a person resident in Canada for the purposes of Part XIII of the Act shall be deemed, in the same circumstances, to be a person resident in Canada for the purposes of subsections (1) and (2).
 
+- **(6.1)** A trust that is deemed by subsection 94(3) of the Act to be resident in Canada for a taxation year for the purposes of computing its income, is deemed, in respect of amounts (other than an exempt amount as defined in subsection 94(1) of the Act) paid or credited by it, to be a person resident in Canada for the taxation year for the purposes of subsections (1) and (2).
+
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2; 2013, c. 34, s. 27.
 
 
 
@@ -1205,7 +1207,7 @@ shall be filed on or before March 31, 1984.
 
 **229** 
 
-- **(1)** Every member of a partnership that carries on a business in Canada, or that is a Canadian partnership or a SIFT partnership, at any time in a fiscal period of the partnership shall make for that period an information return in prescribed form containing the following information:
+- **(1)** Every member, of a partnership that carries on a business in Canada at any time in a fiscal period of the partnership (other than a member that is, because of subsection 115.2(2) of the Act, not considered to be carrying on business in Canada at that time), or of a partnership that is at any time in a fiscal period of the partnership, a Canadian partnership or a SIFT partnership, shall make for that period an information return in prescribed form containing the following information:
 	- **(a)** the income or loss of the partnership for the fiscal period;
 	- **(b)** the name, address and, in the case of an individual, the social insurance number of each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period;
 	- **(c)** the share of each member of the income or loss of the partnership for the fiscal period;
@@ -1229,7 +1231,7 @@ shall be filed on or before March 31, 1984.
 - **(6)** Where a partnership discontinues its business or activity, the return required under this section shall be filed, in respect of any fiscal period or portion thereof prior to the discontinuance of the business or activity for which a return has not previously been filed under this section, on or before the earlier of
 	- **(a)** the day that is 90 days after the discontinuance of the business or activity, and
 	- **(b)** the day the return is required to be filed under subsection (5).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30; 2013, c. 34, s. 377.
 
 
 
@@ -1603,15 +1605,28 @@ is of
 			- **(A)** all payments made out of the contract be equal annuity payments made at regular intervals but not less frequently than annually, subject to the holder’s right to vary the frequency and quantum of payments to be made out of the contract in any taxation year without altering the present value at the beginning of the year of the total payments to be made in that year out of the contract,
 			- **(B)** the annuity payments thereunder continue for a fixed term or
 				- **(I)** if the holder is an individual (other than a trust), for the life of the first holder or until the day of the later of the death of the first holder and the death of any of the spouse, common-law partner, former spouse, former common-law partner, brothers and sisters (in this subparagraph referred to as “the survivor”) of the first holder, or
-				- **(II)** if the holder is a specified trust, for the life of the spouse or common-law partner who is entitled to receive the income of the trust,
-			- **(C)** where the annuity payments are to be made over a term that is guaranteed or fixed, the guaranteed or fixed term not extend beyond the time at which
-				- **(I)** in the case of a joint and last survivor annuity, the younger of the first holder and the survivor,
-				- **(II)** if the holder is a specified trust, the spouse or common-law partner who is entitled to receive the income of the trust,
-				- **(III)** if the holder is a testamentary trust other than a specified trust, the youngest beneficiary under the trust,
-				- **(IV)** where the contract is held jointly, the younger of the first holders, or
-				- **(V)** in any other case, the first holder,would, if he survived, attain the age of 91 years,
-			- **(D)** no loans exist under the contract and the holder’s rights under the contract not be disposed of otherwise than on the holder’s death or, if the holder is a specified trust, on the death of the spouse or common-law partner who is entitled to receive the income of the trust, and
-			- **(E)** no payments be made out of the contract other than as permitted by this section,
+				- **(II)** if the holder is a trust
+					- **1.** in the case of a specified trust, for the life of an individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death, or, in the case of a joint spousal or common-law partner trust, until the day of the later of the death of the individual and the death of the beneficiary under the trust who is the individual’s spouse or common-law partner,
+					- **2.** in the case of a testamentary trust (other than a specified trust) where the annuity is issued before October 24, 2012, for the life of an individual who is entitled to receive income from the trust, and
+					- **3.** in the case of any other testamentary trust other than a specified trust, for the life of an individual who was entitled when the contract was first held to receive all of the income of the trust that arose before the individual’s death,
+			- **(C)** if the annuity payments are to be made over a term that is guaranteed or fixed, the guaranteed or fixed term not exceed 91 years minus the age, when the contract was first held, in whole years of the following individual:
+				- **(I)** if the holder is not a trust, the individual who is
+					- **1.** in the case of a joint and last survivor annuity, the younger of the first holder and the survivor,
+					- **2.** in the case of a contract that is held jointly, the younger of the first holders, and
+					- **3.** in any other case, the first holder,
+				- **(II)** if the holder is a specified trust, the individual who is
+					- **1.** in the case of a joint and last survivor annuity held by a joint spousal or common-law partner trust, the younger of the individuals referred to in paragraph 104(4)(a) of the Act who are in combination entitled to receive all of the income of the trust that arose before the later of their deaths, and
+					- **2.** in the case of an annuity that is not a joint and last survivor annuity, the individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death,
+				- **(III)** if the holder is a testamentary trust other than a specified trust, the individual who was the youngest beneficiary under the trust when the contract was first held,
+			- **(D)** no loans exist under the contract,
+			- **(E)** the holder’s rights under the contract not be disposed of otherwise than
+				- **(I)** if the holder is an individual, on the holder’s death,
+				- **(II)** if the holder is a specified trust (other than a joint spousal or common-law partner trust), on the death of the individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death,
+				- **(III)** if the holder is a specified trust that is a joint spousal or common-law partner trust, on the later of the deaths of the individuals referred to in paragraph 104(4)(a) of the Act who are in combination entitled to receive all of the income of the trust that arose before the later of their deaths, and
+				- **(IV)** if the holder is a testamentary trust, other than a specified trust, and the contract was first held after October 2011, on the earlier of
+					- **1.** the time at which the trust ceases to be a testamentary trust, and
+					- **2.** the death of the individual referred to in subclause (B)(II) or (C)(III), as the case may be, in respect of the trust, and
+			- **(F)** no payments be made out of the contract other than as permitted by this section,
 		- **(v)** none of the terms and conditions of which provide for any recourse against the issuer for failure to make any payment under the contract, and
 		- **(vi)** where annuity payments under the contract have commenced
 			- **(A)** before 1987, in respect of which a holder thereof has notified the issuer in writing, before the end of the taxation year, that the contract is to be treated as a prescribed annuity contract,
@@ -1631,7 +1646,7 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8; 2012, c. 31, s. 60.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8; 2012, c. 31, s. 60; 2013, c. 34, s. 378.
 
 
 
@@ -1781,7 +1796,7 @@ exceeds
 		- **(i)** is made by the life insurer on a class basis pursuant to the policy’s terms as they read on December 1, 1982, and
 		- **(ii)** is not made as a result of the exercise of a conversion privilege under the policy;
 	- **(e)** a change arising from the provision of an additional benefit on death under a participating life insurance policy, as defined in subsection 138(12) of the Act, as, on account or in lieu of payment of, or in satisfaction of
-		- **(i)** policy dividends or other distributions of the life insurer’s income from its participating life insurance business as determined under section 2402, or
+		- **(i)** policy dividends or other distributions of the life insurer’s income from its participating life insurance business, or
 		- **(ii)** interest earned on policy dividends that are held on deposit by the life insurer;
 	- **(f)** redating lapsed policies, if the policy was reinstated not later than 60 days after the end of the calendar year in which the lapse occurred, or redating for policy loan indebtedness;
 	- **(g)** a change in premium due to a correction of erroneous information contained in the application for the policy;
@@ -1801,7 +1816,50 @@ unless any part of such increase is attributable to a prescribed premium paid in
 - **(3)** For the purposes of subsections (1) and (2), a life insurance policy that is issued as a result of the exercise of a renewal privilege provided under the terms of another policy as they read on December 1, 1982 shall be deemed to be a continuation of that other policy.
 
 - **(4)** For the purposes of subsection (2), a life insurance policy that is issued as a result of the exercise of a conversion privilege provided under the terms of another policy as they read on December 1, 1982 shall be deemed to be a continuation of that other policy except that any portion of the policy relating to the portion of the benefit on death, immediately before the conversion, that arose as a consequence of an event occurring after December 1, 1982 and described in paragraph (1)(e) shall be deemed to be a separate life insurance policy issued at the time of the conversion.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F); SOR/2011-188, s. 13.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F); SOR/2011-188, s. 13; 2013, c. 34, s. 379.
+
+
+
+
+
+### Income from Participating Life Insurance Businesses
+
+
+**309.1** For the purpose of subparagraph 309(1)(e)(i), in computing a life insurer’s income for a taxation year from its participating life insurance business carried on in Canada,
+- **(a)** there shall be included the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the insurer’s gross Canadian life investment income (in this section as defined in subsection 2400(1)) for the year,
+- **B** is the total of
+- **(i)** the insurer’s mean maximum tax actuarial reserve (in this section as defined in subsection 2400(1)) for the year in respect of participating life insurance policies in Canada, and
+- **(ii)** 1/2 of the total of
+- **(A)** all amounts on deposit with the insurer as at the end of the year in respect of policies described in subparagraph (i), and
+- **(B)** all amounts on deposit with the insurer as at the end of the immediately preceding taxation year in respect of policies described in subparagraph (i), and
+- **C** the total of all amounts, each of which is
+- **(i)** the insurer’s mean maximum tax actuarial reserve for the year in respect of a class of life insurance policies in Canada, or
+- **(ii)** 1/2 of the total of
+- **(A)** all amounts on deposit with the insurer as at the end of the year in respect of a class of policies described in subparagraph (i), and
+- **(B)** all amounts on deposit with the insurer as at the end of the immediately preceding taxation year in respect of a class of policies described in subparagraph (i);
+- **(b)** there shall be included
+	- **(i)** the insurer’s maximum tax actuarial reserve for the immediately preceding taxation year in respect of participating life insurance policies in Canada, and
+	- **(ii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the immediately preceding taxation year in respect of participating life insurance policies in Canada;
+- **(c)** there shall not be included any amount in respect of the insurer’s participating life insurance policies in Canada that was deducted under subparagraph 138(3)(a)(i) or (ii) of the Act in computing its income for the immediately preceding taxation year;
+- **(d)** subject to paragraph (a),
+	- **(i)** there shall not be included any amount
+		- **(A)** as a reserve that was deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the immediately preceding taxation year, or
+		- **(B)** that was included in determining the insurer’s gross Canadian life investment income for the year, and
+	- **(ii)** no deduction shall be made in respect of any amount
+		- **(A)** taken into account in determining the insurer’s gross Canadian life investment income for the year, or
+		- **(B)** deductible under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year;
+- **(e)** there shall be deducted
+	- **(i)** the insurer’s maximum tax actuarial reserve for the year in respect of participating life insurance policies in Canada, and
+	- **(ii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the year in respect of participating life insurance policies in Canada;
+- **(f)** no deduction shall be made in respect of any amount deductible under subparagraph 138(3)(a)(iii) of the Act in computing the insurer’s income for the year;
+- **(g)** except as otherwise provided in paragraph (e), no deduction shall be made in respect of a reserve deductible under subparagraph 138(3)(a)(i) or (ii) of the Act in computing the insurer’s income for the year; and
+- **(h)** except as otherwise provided in this section, the provisions of the Act relating to the computation of income from a source shall apply.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 380.
 
 
 
@@ -1847,15 +1905,7 @@ unless any part of such increase is attributable to a prescribed premium paid in
 	- **(a)** the prescribed rules referred to in that definition are the rules in this Part; and
 	- **(b)** the amount determined under those prescribed rules means the total of all amounts each of which is the taxable income of the corporation earned in the taxation year in a particular province as determined under this Part.
 
-- **(1.1)** In this Part, a corporation’s taxable income for a taxation year is equal to the total of
-	- **(a)** the corporation’s taxable income for the taxation year (determined without reference to this subsection) or the corporation’s taxable income earned in Canada for the taxation year, as the case may be, and
-	- **(b)** the positive or negative amount determined by the formula
-```
-A – B
-```
-where
-- **A** is the total of all amounts that are, because of the application of section 33.1 of the Act, not required to be added in computing the corporation’s income for the taxation year, and
-- **B** is the total of all amounts that are, because of the application of section 33.1 of the Act, not allowed to be deducted in computing the corporation’s income for the taxation year.
+- **(1.1)** [Repealed, 2013, c. 33, s. 32]
 
 - **(2)** For the purposes of this Part, ***permanent establishment*** in respect of a corporation means a fixed place of business of the corporation, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse, and
 	- **(a)** where the corporation does not have any fixed place of business it means the principal place in which the corporation’s business is conducted;
@@ -1866,7 +1916,7 @@ where
 	- **(e.1)** if, but for this paragraph, a corporation would not have a permanent establishment, the corporation is deemed to have a permanent establishment at the place designated in its incorporating documents or bylaws as its head office or registered office;
 	- **(f)** the fact that a corporation has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the corporation has a permanent establishment; and
 	- **(g)** the fact that a corporation has a subsidiary controlled corporation in a place or a subsidiary controlled corporation engaged in trade or business in a place shall not of itself be held to mean that the corporation is operating a permanent establishment in that place.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F); 2009, c. 2, s. 91; SOR/2010-93, s. 8(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F); 2009, c. 2, s. 91; SOR/2010-93, s. 8(F); 2013, c. 33, s. 32.
 
 
 
@@ -2113,14 +2163,14 @@ in that place.
 
 - **(1)** Notwithstanding subsections 402(3) and (4), the amount of taxable income that shall be deemed to have been earned in a taxation year by an airline corporation in a province in which it had a permanent establishment is the amount that is equal to 1/4 of the aggregate of
 	- **(a)** that proportion of its taxable income for the year that the capital cost of all the corporation’s fixed assets, except aircraft, in the province at the end of the year is of the capital cost of all its fixed assets, except aircraft, in Canada at the end of the year; and
-	- **(b)** that proportion of its taxable income for the year that three times the number of revenue plane miles flown by its aircraft in the province during the year is of the total number of revenue plane miles flown by its aircraft in Canada during the year other than miles flown in a province in which the corporation had no permanent establishment.
+	- **(b)** that proportion of its taxable income for the year that three times the number of revenue plane miles flown by its aircraft during the year in the province is of the total of all amounts, each of which is the total number of revenue plane miles flown by its aircraft during the year in a province in which the corporation had a permanent establishment.
 
 - **(2)** For the purposes of this section, “revenue plane miles flown” shall be weighted according to take-off weight of the aircraft operated.
 
 - **(3)** For the purposes of this section, ***take-off weight*** of an aircraft means
 	- **(a)** for an aircraft in respect of which an application form for a Certificate of Airworthiness has been submitted to and accepted by the Department of Transport, the maximum permissible take-off weight, in pounds, shown on the form; and
 	- **(b)** for any other aircraft, the weight, in pounds, that may reasonably be considered to be the equivalent of the weight referred to in paragraph (a).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-326, s. 1; SOR/80-949, s. 5; SOR/94-327, s. 2; SOR/94-686, s. 6(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-326, s. 1; SOR/80-949, s. 5; SOR/94-327, s. 2; SOR/94-686, s. 6(F); 2013, c. 34, s. 381.
 
 
 
@@ -2199,30 +2249,20 @@ in that place.
 
 **413** 
 
-- **(1)** In this Part, if a corporation is not resident in Canada, “salaries and wages paid in the year” by the corporation does not include salaries and wages paid to employees of a permanent establishment outside Canada.
+- **(1)** In this Part, if a corporation is not resident in Canada
+	- **(a)** “salaries and wages paid in the year” by the corporation does not include salaries and wages paid to employees of a permanent establishment outside Canada; and
+	- **(b)** “taxable income” of the corporation is deemed to refer to the corporation’s taxable income earned in Canada.
 
 - **(2)** For the purposes of paragraph 402(3)(a), where a corporation is not resident in Canada, “total gross revenue for the year” of the corporation does not include gross revenue reasonably attributable to a permanent establishment outside Canada.
 
 - **(3)** For the purpose of paragraph 404(1)(b), in the case of an authorized foreign bank, “all loans and deposits of the bank for the year” is to be read as a reference to “all loans and deposits of the bank for the year in respect of its Canadian banking business”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95; SOR/2009-302, s. 4; SOR/2011-195, s. 4(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95; SOR/2009-302, s. 4; SOR/2011-195, s. 4(F); 2013, c. 33, s. 33.
 
 
 
 
-
-### International Banking Centre Exception
-
-
-**413.1** Despite any other provision in this Part, a corporation’s taxable income earned in a taxation year in a particular province is equal to the total of
-- **(a)** the corporation’s taxable income earned in the taxation year in the particular province (determined without reference to this section), and
-- **(b)** the positive or negative amount determined by the formula
-```
-A – B
-```
-where
-- **A** is the total of all amounts that are, because of the application of section 33.1 of the Act to a business carried on in a branch or office situated in the particular province, not allowed to be deducted in computing the corporation’s income for the taxation year, and
-- **B** is the total of all amounts that are, because of the application of section 33.1 of the Act to a business carried on in a branch or office situated in the particular province, not required to be added in computing the corporation’s income for the taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 96.
+**413.1** [Repealed, 2013, c. 33, s. 34]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 96; 2013, c. 33, s. 34.
 
 
 
@@ -2350,10 +2390,10 @@ where
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 7(10), 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(b)** subsections 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
 - **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382.
 
 
 
@@ -3199,6 +3239,12 @@ but, for greater certainty, does not include intangible property, or for civil l
 		- **(vii)** vessel mooring space, and
 		- **(viii)** property that is included in Class 35 in Schedule II,
 and for the purposes of subparagraph (i), where a property is owned by two or more persons or partnerships, or any combination thereof, the capital cost of the property to each such person or partnership shall be deemed to be the total of all amounts each of which is the capital cost of the property to such a person or partnership;
+	- **(a.1)** notwithstanding paragraph (a), “exempt property” does not include property that is the subject of a lease if that property had, at the time the lease was entered into, an aggregate fair market value in excess of $1,000,000 and the lessee of the property is
+		- **(i)** a person who is exempt from tax by reason of section 149 of the Act,
+		- **(ii)** a person who uses the property in the course of carrying on a business, the income from which is exempt from tax under Part I of the Act by reason of any provision of the Act,
+		- **(iii)** a Canadian government, or
+		- **(iv)** a person not resident in Canada, except if the person uses the property primarily in the course of carrying on a business in Canada that is not a treaty-protected business;
+	- **(a.2)** for the purposes of paragraph (a.1), if it is reasonable, having regard to all the circumstances, to conclude that one of the main reasons for the existence of two or more leases was to avoid the application of paragraph (a.1) by reason of each such lease being a lease of property where the property that was the subject of the lease had an aggregate fair market value, at the time the lease was entered into, not in excess of $1,000,000, each such lease shall be deemed to be a lease of property that had, at the time the lease was entered into, an aggregate fair market value in excess of $1,000,000;
 	- **(b)** property shall be deemed to be the subject of a lease for a term of more than one year at any time where, at that time
 		- **(i)** the property had been leased by the lessee thereunder, a person with whom the lessee does not deal at arm’s length, or any combination thereof, for a period of more than one year ending at that time, or
 		- **(ii)** it is reasonable, having regard to all the circumstances, to conclude that the lessor thereunder knew or ought to have known that the lessee thereunder, a person with whom the lessee does not deal at arm’s length, or any combination thereof, would lease the property for more than one year; and
@@ -3550,7 +3596,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383.
 
 
 
@@ -3621,6 +3667,8 @@ a separate class is hereby prescribed for properties that
 	- **(d)** would otherwise be included in the class.
 
 - **(1af)** A separate class is hereby prescribed for each property included in Class 10.1 in Schedule II.
+
+- **(1ag)** If more than one property of a taxpayer is described in the same class in Schedule II, and one or more of the properties is a property in respect of which the taxpayer is a transferee that has elected under subsection 13(4.2) of the Act (each of which is referred to in this subsection as an “elected property”), a separate class is prescribed for each elected property of the taxpayer that would otherwise be included in the same class.
 
 - **(1b) and (1c)** [Repealed, SOR/79-670, s. 1]
 
@@ -3876,7 +3924,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384.
 
 
 
@@ -4085,7 +4133,7 @@ was not less than 2/3 of the revenue of the business for the period.
 #### Election for Certain Manufacturing or Processing Equipments
 
 
-- **(16.1)** A taxpayer who acquires a property after March 18, 2007 and before 2012 that is manufacturing or processing machinery or equipment may (by letter attached to the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property is acquired) elect to include the property in Class 29 in Schedule II if
+- **(16.1)** A taxpayer who acquires a property after March 18, 2007 and before 2016 that is manufacturing or processing machinery or equipment may (by letter attached to the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property is acquired) elect to include the property in Class 29 in Schedule II if
 	- **(a)** Class 43.1 or 43.2 in Schedule II would otherwise apply to the property; and
 	- **(b)** Class 29 in Schedule II would apply to the property if that schedule were read without reference to Classes 43.1 and 43.2.
 
@@ -4140,7 +4188,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 
 - **(25)** For the purposes of this Part and Schedule II, if an eligible non-residential building of a taxpayer was under construction on March 19, 2007, the portion, if any, of the capital cost of the building that was incurred by the taxpayer before March 19, 2007 is deemed to have been incurred by the taxpayer on March 19, 2007 unless the taxpayer elects (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building was acquired) that this subsection not apply to that cost.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3; SOR/2011-195, s. 5(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3; SOR/2011-195, s. 5(F); 2013, c. 33, s. 35.
 
 
 
@@ -4802,8 +4850,8 @@ applicable in respect of the property.
 #### Prescribed Amount
 
 
-- **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canada Television and Cable Production Fund or the Canada Television Fund/Fonds canadien de télévision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2.
+- **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canada Media Fund.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2; 2013, c. 34, s. 385.
 
 
 
@@ -6007,17 +6055,25 @@ the contract
 	- **(c)** is a policy in respect of which the provisions of paragraph 1401(1)(c) as it read in its application to the insurer’s 1977 taxation year applied,
 the rates of interest and mortality and by the insurer in computing its reserve for the policy under that paragraph for its 1977 taxation year shall be used by the insurer in respect of that policy.
 
-- **(8)** For the purposes of subsection (1), where
-	- **(a)** in a taxation year of an insurer, there has been a disposition to the insurer by another person with whom the insurer was dealing at arm’s length in respect of which subsection 138(11.92) of the Act applied,
-	- **(b)** as a result of the disposition, the insurer assumed obligations under life insurance policies (in this subsection referred to as the “transferred policies”) in respect of which an amount may be claimed by the insurer as a reserve under paragraph 1401(1)(c) for the taxation year,
-	- **(c)** the amount, if any, by which
-		- **(i)** the aggregate of all amounts received or receivable by the insurer from the other person in respect of the transferred policies referred to in paragraph (b)
-exceeds
-		- **(ii)** the aggregate of all amounts paid or payable by the insurer to the other person in respect of commissions in respect of the amounts referred to in subparagraph (i)
-exceeds the total of the maximum amounts that may be claimed by the insurer as a reserve under paragraph 1401(1)(c) (determined without reference to this subsection) in respect of the transferred policies for the taxation year, and
-	- **(d)** the amount determined under paragraph (c) (in this subsection referred to as “reserve deficiency”) can reasonably be attributed to the fact that the rates of interest or mortality used by the issuer of the transferred policies in determining the cash surrender values or premiums under such policies are no longer reasonable in the circumstances,
-the Minister, on the request of the insurer and with the advice of the relevant authority, may make such revision to the rates of interest or mortality to eliminate all or any part of that reserve deficiency, and those revised rates shall be deemed to have been used by the issuer of the transferred policies in determining the cash surrender value or premiums under the policies.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-419, s. 2; SOR/80-618, s. 4(E); SOR/90-661, s. 4; SOR/94-415, s. 6; SOR/94-686, ss. 14(F), 56(F).
+- **(8)** Subsections (9) and (10) apply to an insurer if
+	- **(a)** in a taxation year of the insurer, there has been a disposition to the insurer by another person with whom the insurer was dealing at arm’s length in respect of which subsection 138(11.92) of the Act applied;
+	- **(b)** as a result of the disposition, the insurer assumed obligations under life insurance policies (in this subsection and subsections (9) and (10) referred to as the “transferred policies”) in respect of which an amount may be claimed by the insurer as a reserve under paragraph 1401(1)(c) for the taxation year;
+	- **(c)** the amount (referred to in this subsection and subsections (9) and (10) as the “reserve deficiency”) determined by the following formula is a positive amount:
+```
+(A – B) – C
+```
+where
+- **A** is the total of all amounts received or receivable by the insurer from the other person in respect of the transferred policies,
+- **B** is the total of all amounts paid or payable by the insurer to the other person in respect of commissions in respect of the amounts referred to in the description of A, and
+- **C** is the total of the maximum amounts that may be claimed by the insurer as a reserve under 1401(1)(c) (determined without reference to this subsection) in respect of the transferred policies for the taxation year; and
+	- **(d)** the reserve deficiency can reasonably be attributed to the fact that the rates of interest, mortality or policy lapse used by the issuer of the transferred policies in determining the cash surrender values or premiums under the transferred policies are no longer reasonable in the circumstances.
+
+- **(9)** If this subsection applies to an insurer in respect of transferred policies for which there was a reserve deficiency, then, for the purposes of subsection (1) and subject to subsection (10),
+	- **(a)** the insurer may make such revisions to the rates of interest, mortality or policy lapse used by the issuer of the transferred policies to eliminate all or any part of the reserve deficiency; and
+	- **(b)** the revised rates are deemed to have been used by the issuer of the transferred policies in determining the cash surrender value or premiums under the policies.
+
+- **(10)** If, under subsection (9), an insurer has revised the rates of interest, mortality or policy lapse used by the issuer of transferred policies, the Minister may, for the purposes of subsection (1) and paragraph (9)(b), make further revisions to the revised rates to the extent that the insurer’s revisions to those rates are not reasonable in the circumstances.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-419, s. 2; SOR/80-618, s. 4(E); SOR/90-661, s. 4; SOR/94-415, s. 6; SOR/94-686, ss. 14(F), 56(F); 2013, c. 34, s. 386.
 
 
 
@@ -6082,9 +6138,11 @@ where
 
 **1406** Any amount determined under section 1404 or 1405 shall be determined
 - **(a)** net of relevant reinsurance recoverable amounts;
-- **(b)** without reference to any liability in respect of a segregated fund (other than a liability in respect of a guarantee in respect of a segregated fund policy); and
+- **(b)** by excluding any obligation to pay a benefit under a segregated fund policy if
+	- **(i)** the amount of the benefit varies with the fair market value of the segregated fund at the time the benefit becomes, or may become, payable, and
+	- **(ii)** the benefit is not in respect of a guarantee given by the insurer under a segregated fund policy; and
 - **(c)** without reference to any amount in respect of a deposit accounting insurance policy.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/99-269, s. 6; 2010, c. 25, s. 79.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/99-269, s. 6; 2010, c. 25, s. 79; 2013, c. 34, s. 387.
 
 
 
@@ -6837,49 +6895,48 @@ where the policy was issued by the insurer (or in respect of which the insurer h
 
 **2000** 
 
-- **(1)** Every official receipt issued by a registered agent of a registered party shall contain a statement that it is an official receipt for income tax purposes and shall, in a manner that cannot readily be altered, show clearly
-	- **(a)** the full name of the registered party;
+- **(1)** Every official receipt issued by a particular person who is a registered agent of a registered party or an electoral district agent of a registered association, to an individual who makes a monetary contribution to the registered party or registered association, as the case may be, shall contain a statement that it is an official receipt for income tax purposes and shall, in a manner that cannot readily be altered, show clearly
+	- **(a)** the name of the registered party or registered association, as the case may be;
 	- **(b)** the serial number of the receipt;
-	- **(c)** the name of the registered agent as recorded in the registry maintained by the Chief Electoral Officer pursuant to subsection 13.1(1) of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md);
-	- **(d)** the day on which the receipt was issued;
-	- **(e)** where the person making the contribution is
-		- **(i)** a person other than an individual, the day on which the contribution was received where that day differs from the day referred to in paragraph (d), or
-		- **(ii)** an individual, the calendar year during which the contribution was received;
-	- **(f)** the place or locality where the receipt was issued;
-	- **(g)** the name and address of the person making the contribution including, in the case of an individual, his first name or initial;
-	- **(h)** the amount of the contribution; and
-	- **(i)** the signature of the registered agent.
+	- **(c)** the name of the particular person, as recorded in the registry maintained by the Chief Electoral Officer under section 374 or 403.08 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md);
+	- **(d)** the date on which the receipt is issued;
+	- **(e)** the date on which the monetary contribution is received;
+	- **(f)** the individual’s name and address;
+	- **(g)** the amount of the monetary contribution;
+	- **(h)** a description of the advantage, if any, in respect of the monetary contribution and the amount of that advantage; and
+	- **(i)** the eligible amount of the monetary contribution.
 
-- **(2)** Subject to subsection (3), every official receipt issued by an official agent of an officially nominated candidate shall contain a statement that it is an official receipt for income tax purposes and shall, in a manner that cannot readily be altered, show clearly
-	- **(a)** the name of the officially nominated candidate;
+- **(2)** Subject to subsection (3), every official receipt issued by an official agent of a candidate to an individual who makes a monetary contribution to the candidate shall contain a statement that it is an official receipt for income tax purposes and shall, in a manner that cannot readily be altered, show clearly
+	- **(a)** the name of the candidate, as it appears in the candidate’s nomination papers;
 	- **(b)** the serial number of the receipt;
-	- **(c)** the name of the official agent as recorded with the Minister;
-	- **(d)** the day on which the receipt was issued;
-	- **(e)** the day on which the contribution was received where that day differs from the day referred to in paragraph (d);
+	- **(c)** the name of the official agent;
+	- **(d)** the date on which the receipt is issued;
+	- **(e)** the date on which the monetary contribution is received;
 	- **(f)** the polling day;
-	- **(g)** the name and address of the person making the contribution including, in the case of an individual, his first name or initial;
-	- **(h)** the amount of the contribution; and
-	- **(i)** the signature of the official agent.
+	- **(g)** the individual’s name and address;
+	- **(h)** the amount of the monetary contribution;
+	- **(i)** a description of the advantage, if any, in respect of the monetary contribution and the amount of that advantage; and
+	- **(j)** the eligible amount of the monetary contribution.
 
 - **(3)** The information required by paragraph (2)(f) may be shown by use of a code on an official receipt form issued by the Chief Electoral Officer, provided that the Minister is advised of the meaning of the code used.
 
 - **(4)** For the purposes of subsections (1) and (2), an official receipt issued to replace an official receipt previously issued shall show clearly that it replaces the original receipt and, in addition to its own serial number, shall show the serial number of the receipt originally issued.
 
-- **(5)** A spoiled official receipt form shall be marked “cancelled” and such form, together with the duplicate thereof, shall be filed by the registered agent or the official agent, as the case may be, together with the duplicates of receipts required to be filed with the Minister pursuant to subsection 230.1(2) of the Act.
+- **(5)** A spoiled official receipt form shall be marked “cancelled” and, together with its duplicate, shall be filed by the electoral district agent, the official agent or the registered agent, as the case may be, together with the information return required to be filed with the Minister under subsection 230.1(2) of the Act.
 
-- **(6)** Every official receipt form on which
-	- **(a)** the day on which the contribution was received,
-	- **(b)** the year during which the contribution was received, or
-	- **(c)** the amount of the contribution,
-was incorrectly or illegibly entered shall be regarded as spoiled.
-
-
-
-
-### Information Returns
+- **(6)** An official receipt form on which any of the following is incorrectly or illegibly entered is to be regarded as spoiled:
+	- **(a)** the date on which the monetary contribution is received;
+	- **(b)** the amount of the monetary contribution;
+	- **(c)** a description of the advantage, if any, in respect of the monetary contribution and the amount of that advantage; and
+	- **(d)** the eligible amount of the monetary contribution.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 388.
 
 
-**2001** The return of information referred to in subsection 230.1(2) of the Act shall be filed by a registered agent on or before the last day of March in each year and shall be in respect of the preceding calendar year.
+
+
+**2001** [Repealed, 2013, c. 34, s. 389]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 389.
+
 
 
 
@@ -6889,15 +6946,21 @@ was incorrectly or illegibly entered shall be regarded as spoiled.
 
 **2002** 
 
-- **(1)** In this Part,
+- **(1)** The following definitions apply in this Part.
 
-***contribution*** means an amount contributed within the meaning assigned by subsection 127(4.1) of the Act; (*contribution*)
+***Chief Electoral Officer*** means the person named as chief electoral officer or substitute chief electoral officer under section 13 or 14 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md). (*directeur général des élections*)
 
-***official receipt*** means a receipt for the purposes of subsection 127(3) of the Act containing information as provided in subsection 2000(1) or (2), as the case may be; (*reçu officielle*)
+***nomination paper*** means, in respect of a candidate, a nomination paper filed in respect of the candidate under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), with the corrections, if any, made under that Act to the nomination paper after its filing. (*acte de candidature*)
 
-***official receipt form*** means any printed form that a registered agent or an official agent, as the case may be, has that is capable of being completed, or that originally was intended to be completed, as an official receipt of the registered agent or official agent, as the case may be. (*formule officielle de reçu*)
+***official receipt*** means a receipt issued for the purposes of subsection 127(3) of the Act containing the information that is required under that subsection. (*reçu officiel*)
 
-- **(2)** In this Part, ***official agent***, ***polling day***, ***registered agent*** and ***registered party*** have the meanings assigned to them by section 2 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) and ***officially nominated candidate*** means a person in respect of whom a nomination paper and deposit have been filed as referred to in the definition ***official nomination*** in that section of that Act.
+***official receipt form*** means
+- **(a)** in the case of an official receipt issued by an electoral district agent or a registered agent under subsection 2000(1), any printed form that an electoral district agent or a registered agent, as the case may be, has that is capable of being completed, or that originally was intended to be completed, as an official receipt of the electoral district agent or registered agent; and
+- **(b)** in the case of an official receipt issued by an official agent under subsection 2000(2), the official form prescribed under section 477 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md). (*formulaire de reçu officiel*)
+
+- **(2)** In this Part, ***official agent***,***polling day*** and ***registered agent*** have the meanings assigned to them by the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 390.
+
 
 
 
@@ -7489,56 +7552,8 @@ shall designate for the year, in respect of a particular insurance business that
 
 
 
-
-### Income from Participating Life Insurance Businesses
-
-
-**2402** For the purposes of clause 138(3)(a)(iii)(B) of the Act and subparagraph 309(1)(e)(i), in computing a life insurer’s income for a taxation year from its participating life insurance business carried on in Canada,
-- **(a)** there shall be included that proportion of the insurer’s gross Canadian life investment income for the year that
-	- **(i)** the aggregate of the insurer’s mean maximum tax actuarial reserve for the year in respect of participating life insurance policies in Canada and the mean amount on deposit with the insurer for the year in respect of those policies
-is of
-	- **(ii)** the aggregate of amounts, each of which is
-		- **(A)** the insurer’s mean maximum tax actuarial reserve for the year in respect of a class of life insurance policies in Canada, or
-		- **(B)** the mean amount on deposit with the insurer for the year in respect of a class of policies described in clause (A);
-- **(a.1)** there shall be included the amount determined by the formula
-```
-(A + B) × C/D
-```
-where
-- **A** is the amount required by subsection 142.5(5) of the Act to be included in computing the insurer’s income for the year,
-- **B** is the amount deemed by subsection 142.5(7) of the Act to be a taxable capital gain of the insurer for the year from the disposition of property,
-- **C** is the amount determined under subparagraph (a)(i) for the taxation year of the insurer that includes October 31, 1994, and
-- **D** is the amount determined under subparagraph (a)(ii) for the taxation year of the insurer that includes October 31, 1994;
-- **(b)** there shall be included
-	- **(i)** the amount deducted by the insurer under subparagraph 138(3)(a)(iv) of the Act in computing its income for the immediately preceding taxation year,
-	- **(ii)** the insurer’s maximum tax actuarial reserve for the immediately preceding taxation year in respect of participating life insurance policies in Canada, and
-	- **(iii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the immediately preceding taxation year in respect of participating life insurance policies in Canada;
-	- **(iv)** [Repealed, SOR/2009-222, s. 2]
-- **(c)** there shall not be included any amount in respect of the insurer’s participating life insurance policies in Canada that was deducted under subparagraph 138(3)(a)(i) or (ii) of the Act in computing its income for the immediately preceding taxation year;
-- **(d)** except as otherwise provided in paragraph (a), there shall not be included any amount as a reserve that was deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the immediately preceding taxation year;
-- **(e)** except as provided in paragraph (a), there shall not be included any amount that was included in determining the insurer’s gross Canadian life investment income for the year;
-- **(e.1)** except as provided in paragraph (a.1), there shall not be included the amounts referred to in the descriptions of A and B in that paragraph;
-- **(e.2)** if the year includes October 31, 1994, there shall be deducted the amount determined by the formula
-```
-(A + B) × C/D
-```
-where
-- **A** is the amount deducted under subsection 142.5(4) of the Act in computing the insurer’s income for the year,
-- **B** is the amount deemed by subsection 142.5(6) of the Act to be an allowable capital loss of the insurer for the year from the disposition of property,
-- **C** is the amount determined under subparagraph (a)(i) for the year, and
-- **D** is the amount determined under subparagraph (a)(ii) for the year;
-- **(f)** there shall be deducted
-	- **(i)** the insurer’s maximum tax actuarial reserve for the year in respect of participating life insurance policies in Canada, and
-	- **(ii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the year in respect of participating life insurance policies in Canada;
-	- **(iii)** [Repealed, SOR/2009-222, s. 2]
-- **(g)** no deduction shall be made in respect of any amount deductible under subparagraph 138(3)(a)(iii) or (iv) of the Act in computing the insurer’s income for the year;
-- **(h)** except as provided in paragraph (a), no deduction shall be made in respect of
-	- **(i)** any amount taken into account in determining the insurer’s gross Canadian life investment income for the year, or
-	- **(ii)** any amount deductible under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year;
-- **(h.1)** except as provided in paragraph (e.2), no deduction shall be made in respect of the amounts referred to in the descriptions of A and B in that paragraph;
-- **(i)** except as otherwise provided in paragraph (f), no deduction shall be made in respect of a reserve deductible under subparagraph 138(3)(a)(i) or (ii) of the Act in computing the insurer’s income for the year; and
-- **(j)** except as otherwise provided in this section, the provisions of the Act relating to the computation of income from a source shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/83-865, s. 7; SOR/90-661, s. 7; SOR/2009-222, s. 2.
+**2402** [Repealed, 2013, c. 34, s. 391]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/83-865, s. 7; SOR/90-661, s. 7; SOR/2009-222, s. 2; 2013, c. 34, s. 391.
 
 
 
@@ -7561,391 +7576,38 @@ where
 
 
 
+**2404** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; 2013, c. 34, s. 392.
 
-### Currency Conversions
-
-
-**2404** For the purposes of this Part, where any amount is determined in a currency other than Canadian currency, that amount shall be converted to Canadian currency using the current rate of exchange, as required for the purposes of the relevant authority, on the date in respect of which the amount is determined.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4.
-
-
-
-
-
-### Interpretation
-
-
-**2405** 
-
-- **(1)** In this Part,
-	- **(a)** ***total depreciation*** has the meaning assigned by paragraph 13(21)(e) of the Act;
-	- **(b)** ***accumulated 1968 deficit***, ***amount payable***, ***gross investment revenue***, ***life insurance policy***, ***life insurance policy in Canada***, ***maximum tax actuarial reserve***, ***non-segregated property***, ***participating life insurance policy***, ***policy loan*** and ***surplus funds derived from operations*** have the meanings assigned by subsection 138(12) of the Act; and
-	- **(c)** ***segregated fund*** and ***segregated fund policies*** have the meanings assigned by subsection 138.1(1) of the Act.
-
-- **(2)** For the purposes of subsection 138(14) of the Act, the expressions ***Canadian investment fund for a taxation year***, ***specified Canadian assets*** and ***value for the taxation year*** have the meanings prescribed therefor by subsection 2404(1) as it read in its application to the 1977 taxation year.
-
-- **(3)** In this Part and for the purposes of paragraph 219(7)(a) of the Act,
-
-***attributed surplus for the year***, for a taxation year in respect of a non-resident insurer, means the aggregate of
-- **(a)** its property and casualty surplus for the year, and
-- **(b)** an amount equal to the percentage (that is the life surplus factor for the year) of the amount for the year determined under clause (a)(i)(B) of the definition ***life surplus factor*** in this subsection; (*surplus attribué pour l’année*)
-
-***Canadian business property*** of an insurer for a taxation year in respect of an insurance business means
-- **(a)** if the insurer was resident in Canada throughout the year and either did not carry on a life insurance business in the year or did not carry on an insurance business outside Canada in the year, the property used or held by it in the year in the course of carrying on the business in Canada, and
-- **(b)** in any other case, the property designated under subsection 2400(1) for the year in respect of the business; (*bien d’entreprise canadien*)
-
-***Canadian equity property*** means
-- **(a)** a share of the capital stock of, or an income bond, income debenture, small business development bond or small business bond issued by, a person (other than a designated corporation) or partnership, as the case may be, resident in Canada, or
-- **(b)** that proportion of shares of the capital stock of a designated corporation or an interest in a partnership or trust that
-	- **(i)** the aggregate value for the year of Canadian equity property owned by the designated corporation or the partnership or trust, as the case may be,
-is of
-	- **(ii)** the aggregate value for the year of all property owned by the designated corporation, or partnership or trust, as the case may be; (*avoir canadien*)
-
-***Canadian investment fund***, as at the end of a taxation year, in respect of
-- **(a)** a life insurer resident in Canada, means the positive amount determined by the formula
-```
-[(A / B) x (C - D)] - E
-```
-where
-- **A** is the amount of the insurer’s Canadian reserve liabilities as at the end of the year,
-- **B** is the amount of the insurer’s total reserve liabilities as at the end of the year,
-- **C** is the total of
-- **(i)** the aggregate amount of policy loans and foreign policy loans of the insurer as at the end of the year, and
-- **(ii)** the valuation of all property of the insurer as at the end of the year each of which is
-- **(A)** an investment property,
-- **(B)** money, or
-- **(C)** a balance (other than a property included under clause (A) or (B)) standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee,
-- **D** is the total of
-- **(i)** the aggregate of all amounts each of which is an amount outstanding as at the end of the year in respect of a debt (other than a debt referred to in paragraph (h) of the definition ***valuation*** in this subsection or an amount referred to in subparagraph (ii)) owing by the insurer in respect of money borrowed by the insurer (other than money used by the insurer for the purpose of earning income from a source that is not an insurance business), and
-- **(ii)** the aggregate of all amounts each of which is the amount of a cheque outstanding at the end of the year drawn on an account of the insurer maintained with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee, and
-- **E** is the aggregate amount of the policy loans of the insurer as at the end of the year, and
-- **(b)** a non-resident insurer, means the amount, if any, by which the aggregate of amounts each of which is
-	- **(i)** a maximum tax actuarial reserve of the insurer for the year,
-	- **(i.1)** the maximum amount that the insurer is entitled to claim under subparagraph 138(3)(a)(ii) of the Act for the year,
-	- **(ii)** the maximum amount that the insurer is entitled to deduct under paragraph 20(7)(c) of the Act in computing its income for the year determined on the assumption that it carried on no other than life insurance business other than an accident and sickness insurance business,
-	- **(iii)** the amount of policy dividends, to the extent that such dividends were not included under subparagraph (i) or (ii), that will, according to the annual report of the insurer filed with the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, according to its financial statements for the year, as at the end of the year, become payable by the insurer in the immediately following year under its participating life insurance policies,
-	- **(iv)** a liability (other than a debt referred to in paragraph (h) of the definition ***valuation*** in this subsection) or a reserve (other than the insurer’s investment valuation reserve) as reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year, that was incurred or provided for in the course of carrying on the insurer’s property and casualty insurance business in Canada except to the extent that those amounts are already included under subparagraph (ii),
-	- **(v)** a debt (other than a debt referred to in paragraph (h) of the definition ***valuation*** in this subsection) owing by the insurer at that time that was incurred in the course of carrying on an insurance business (other than a property and casualty insurance business) in Canada, except to the extent that those amounts are already included under subparagraph (i), (i.1) or (iii), or
-	- **(vi)** the amount that is the greater of
-		- **(A)** the amount, if any, by which the aggregate of
-			- **(I)** the insurer’s surplus funds derived from operations computed as at the end of the immediately preceding taxation year, and
-			- **(II)** the aggregate of amounts in respect of which the insurer has made an election under subsection 219(4) or (5.2) of the Act, each of which is an amount included in the aggregate determined in respect of the insurer under subparagraph 219(4)(a)(i.1) of the Act at the end of the immediately preceding taxation yearexceeds
-			- **(III)** the aggregate of amounts determined in respect of the insurer under subparagraphs 219(4)(a) (ii), (iii), (iv) and (v) of the Act, as at the end of the taxation year, and
-		- **(B)** the insurer’s attributed surplus for the year,exceeds the aggregate of
-	- **(vii)** the aggregate valuation of all non-segregated property referred to in paragraph 2400(1)(e) at the end of the year in respect of all the insurer’s insurance businesses carried on in Canada other than property that is
-		- **(A)** money, or
-		- **(B)** a balance standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee, and
-	- **(viii)** the aggregate amount of the insurer’s deferred acquisition expenses in respect of its property and casualty insurance business in Canada reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year; (*fonds de placement canadien*)
-
-***Canadian investment fund for the year***, for a taxation year in respect of a life insurer resident in Canada and a non-resident insurer, means the amount determined under section 2412; (*fonds de placement canadien pour l’année*)
-
-***Canadian investment property*** of an insurer for a taxation year means an investment property (unless the insurer is a non-resident insurer and it is established by the insurer that the investment property is not effectively connected with its Canadian insurance businesses) that is
-- **(a)** land or depreciable property situated in Canada and, for that purpose, depreciable property of an insurer leased by a person resident in Canada for use inside and outside of Canada shall be deemed to be depreciable property situated in Canada,
-- **(b)** a Canadian equity property,
-- **(c)** a Canadian resource property,
-- **(d)** a mortgage, an agreement of sale or any other form of indebtedness in respect of property referred to in paragraph (a),
-- **(e)** an amount in Canadian currency standing to the insurer’s credit as or on account of amounts deposited with a corporation resident in Canada authorized to accept deposits or to carry on the business of offering to the public its services as a trustee,
-- **(f)** a bond, debenture or other form of indebtedness (other than a property described in paragraph (d) or (e) in Canadian currency issued by
-	- **(i)** a person resident in Canada, a Canadian partnership or a partnership an interest in which is an investment property described in paragraph (g),
-	- **(ii)** the Government of Canada,
-	- **(iii)** the government of a province of Canada, or
-	- **(iv)** any other political subdivision of Canada or of any province of Canada, or
-- **(g)** a property (to the extent it is not a property described in paragraph (b) that is
-	- **(i)** a share of a designated corporation resident in Canada,
-	- **(ii)** an interest in a partnership, or
-	- **(iii)** an interest in a trust resident in Canada,
-where not less than 75 per cent of the aggregate value for the year of all property of the corporation, partnership or trust, as the case may be, is in respect of property each of which is property described in paragraphs (a) to (f); (*bien de placement canadien*)
-
-***Canadian reserve liabilities*** of an insurer, as at the end of a taxation year, means the aggregate amount of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of amounts payable out of segregated funds) in respect of its insurance policies in Canada, as determined for the purposes of the relevant authority at the end of the year or as would be determined at that time if the relevant authority required such a determination; (*passif de réserve canadienne*)
-
-***designated corporation***, in respect of an insurer, at any time in a taxation year, means a corporation in respect of which the insurer or the insurer and persons or partnerships that do not deal at arm’s length with the insurer held, at any time in the year, shares that represented 30 per cent or more of the common shares of the corporation outstanding at that time; (*société désignée*)
-
-***equity limit for the year***, for a taxation year, means
-- **(a)** in respect of a life insurer resident in Canada, the greater of
-	- **(i)** that proportion of the aggregate value for the year of all the insurer’s equity property that
-		- **(A)** the amount, if any, by which the insurer’s mean Canadian reserve liabilities exceed the aggregate of the insurer’s mean policy loans for the year and 1/2 of the aggregate of outstanding premiums of the insurer in respect of its insurance businesses in Canada as determined for the purposes of the relevant authority at the end of the year and the immediately preceding taxation year,is of
-		- **(B)** the amount, if any, by which the insurer’s mean total reserve liabilities exceed the aggregate of the insurer’s mean policy loans and foreign policy loans for the year and 1/2 of the aggregate of outstanding premiums of the insurer in respect of its insurance businesses as determined for the purposes of the relevant authority at the end of the year and the immediately preceding taxation year, and
-	- **(ii)** 8 per cent of the insurer’s Canadian investment fund for the year,
-- **(b)** in respect of a non-resident insurer (other than a life insurer), 1/4 of the aggregate of
-	- **(i)** the amount, if any, by which the insurer’s mean Canadian reserve liabilities exceed 1/2 of the aggregate of the amounts of the insurer’s deferred acquisition expenses and premiums receivable at the end of the year and the immediately preceding year to the extent that those amounts were included in the insurer’s Canadian reserve liabilities for those years in respect of the insurer’s business in Canada as determined for the purposes of the relevant authority, and
-	- **(ii)** the insurer’s property and casualty surplus for the year, and
-- **(c)** in respect of a non-resident life insurer, the aggregate of
-	- **(i)** the insurer’s life equity limit for the year, and
-	- **(ii)** 1/4 of the aggregate of
-		- **(A)** the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year exceed 1/2 of the aggregate of the amounts of the insurer’s deferred acquisition expenses and premiums receivable at the end of the year and the immediately preceding year in respect of the insurer’s business in Canada as determined for the purposes of the relevant authority to the extent that those amounts were included in the insurer’s Canadian reserve liabilities for those years (determined on the assumption that the only insurance business carried on in Canada by the insurer was a property and casualty insurance business), and
-		- **(B)** the insurer’s property and casualty surplus for the year; (*plafond des avoirs pour l’année*)
-
-***equity property*** means
-- **(a)** a share of the capital stock of, or an income bond, income debenture, small business development bond or small business bond issued by, a person (other than a designated corporation) or partnership, as the case may be, or
-- **(b)** that proportion of shares of the capital stock of a designated corporation or an interest in a partnership or trust that
-	- **(i)** the aggregate value for the year of equity property owned by the designated corporation or the partnership or trust, as the case may be,
-is of
-	- **(ii)** the aggregate value for the year of all property owned by the designated corporation or the partnership or trust, as the case may be; (*avoir*)
-
-***foreign policy loan*** means an amount advanced at a particular time by an insurer to a policyholder in accordance with the terms and conditions of a life insurance policy, other than a life insurance policy in Canada; (*avance sur police étrangère*)
-
-***gross Canadian life investment income*** of a life insurer for a taxation year means the amount, if any, by which the aggregate of
-- **(a)** the insurer’s gross investment revenue for the year, to the extent that the revenue is from Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
-- **(b)** the amount included in computing the insurer’s income for the year under paragraph 138(9)(b) of the Act,
-- **(c)** [Repealed, SOR/2009-222, s. 3]
-- **(d)** the portion of the amount deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the preceding taxation year that was in respect of Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
-- **(d.1)** the total of all amounts each of which is an amount included under section 142.4 of the Act in the insurer’s income for the year in respect of a property disposed of by the insurer that was, in the taxation year of disposition, a Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
-- **(e)** the total of all amounts each of which is the insurer’s gain for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business, other than a capital property or a property in respect of which section 142.4 of the Act applies, and
-- **(f)** the total of all amounts each of which is the insurer’s taxable capital gain for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
-- **(g) and (h)** [Repealed, SOR/2009-222, s. 3]
-
-exceeds the aggregate of
-- **(i)** the portion of the amount deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year that is in respect of debt obligations that are Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
-- **(i.1)** the total of all amounts each of which is an amount deductible under section 142.4 of the Act in computing the insurer’s income for the year in respect of a property disposed of by the insurer that was, in the taxation year of disposition, a Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
-- **(j)** the total of all amounts each of which is the insurer’s loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business, other than a capital property or a property in respect of which section 142.4 of the Act applies, and
-- **(k)** the total of all amounts each of which is the insurer’s allowable capital loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business; (*revenus bruts de placements en assurance-vie au Canada*)
-
-***insurance policy in Canada***, in respect of an insurer, means, in the case of
-- **(a)** a life insurance policy, a life insurance policy in Canada,
-- **(b)** a fire insurance policy, a policy issued or effected upon property situated in Canada, and
-- **(c)** any other class of insurance policy, a policy where the risks covered by the policy were ordinarily within Canada at the time the policy was issued or effected; (*police d’assurance au Canada*)
-
-***investment property*** of an insurer for a taxation year means non-segregated property that is
-- **(a)** property acquired by the insurer for the purpose of earning gross investment revenue, other than property that is
-	- **(i)** property, a portion of which is investment property pursuant to paragraph (b) or (c),
-	- **(ii)** a share of a designated corporation,
-	- **(iii)** a debt owing to the insurer by a designated corporation,
-	- **(iv)** an interest in a partnership, or
-	- **(v)** an interest in a trust,
-- **(b)** the portion, if any, of property of the insurer (other than property a portion of which is investment property pursuant to paragraph (c) that is
-	- **(i)** land,
-	- **(ii)** depreciable property, or
-	- **(iii)** property that would have been depreciable property if it had been situated in Canada and used in the year in, or held in the year in the course of, carrying on an insurance business in Canada,
-that
-	- **(iv)** the use made of the property in the year for the purpose of earning gross investment revenue therefrom
-is of
-	- **(v)** the whole use made of the property in the year,
-- **(c)** the portion, if any, of property of the insurer that is not used in the year for the purpose of earning gross investment revenue that is
-	- **(i)** land,
-	- **(ii)** depreciable property, or
-	- **(iii)** property that would be depreciable property if it had been situated in Canada and used in the year in, or held in the year in the course of, carrying on an insurance business in Canada,
-to the extent that the property is held for resale or development or is expected to be used in a subsequent taxation year for the purpose of earning gross investment revenue, or
-- **(d)** property of the insurer that is
-	- **(i)** a share of, or a debt owing to the insurer by a designated corporation other than a corporation that carries on a business of insurance, banking or offering its services to the public as a trustee or whose principal business is the making of loans,
-	- **(ii)** an interest in partnership, or
-	- **(iii)** an interest in a trust,
-if
-	- **(iv)** the aggregate value for the year of all investment property of the corporation, partnership or trust, as the case may be, is not less than 75 per cent of the aggregate value for the year of all its property, and
-	- **(v)** the gross investment revenue for the year from the investment property referred to in subparagraph (iv) (other than gross investment revenue from persons with whom the corporation, partnership or trust, as the case may be, did not deal at arm’s length) is not less than 90 per cent of the gross revenue for the year of the corporation, partnership or trust, as the case may be,
-assuming for the purposes of subparagraphs (iv) and (v) that the definition ***gross investment revenue*** in paragraph 138(12)(e) of the Act and this definition apply to a corporation, partnership or trust, referred to in those subparagraphs, as though the corporation, partnership or trust, as the case may be, were an insurer; (*bien de placement*)
-
-***life equity limit*** of a non-resident life insurer for a taxation year means
-- **(a)** where the insurer makes an election in respect of its life surplus factor for the year in the manner described in subsection 2401(1), the amount that would have been the insurer’s equity limit for the year if the insurer had been a life insurer resident in Canada registered under the Canadian and British Insurance Companies Act to carry on an insurance business in Canada and it had carried on no other than life insurance business other than an accident and sickness insurance business,
-- **(b)** where the insurer does not make an election referred to in paragraph (a) in respect of the year, but
-	- **(i)** has made such an election in respect of one of the four immediately preceding taxation years, and
-	- **(ii)** the insurer’s life surplus factor for the year is not determined pursuant to paragraph (c) of the definition ***life surplus factor*** in this subsection,
-the amount that would have been the insurer’s equity limit for the year if the insurer had been a life insurer resident in Canada registered under the Canadian and British Insurance Companies Act to carry on an insurance business in Canada and it had carried on no other than life insurance business other than an accident and sickness insurance business, using the amount, in respect of the most recent taxation year for which such an election was made, determined under subparagraph (a)(i) of the definition, in this subsection, ***equity limit for the year***, and
-- **(c)** in any other case, 8 per cent of the amount of the insurer’s Canadian investment fund for the year; (*plafond des avoirs d’assurance-vie*)
-
-***life surplus factor*** of a non-resident life insurer for a taxation year means
-- **(a)** subject to subsection 2401(2), where the insurer elects in respect of the year in the manner described in subsection 2401(1), the proportion (expressed as a percentage) that
-	- **(i)** the amount, if any, by which
-		- **(A)** the amount that would have been the insurer’s Canadian investment fund for the year if the insurer had been a life insurer resident in Canada registered under the Canadian and British Insurance Companies Act to carry on an insurance business in Canada and it had carried on no other than life insurance business other than an accident and sickness insurance businessexceeds
-		- **(B)** the amount, if any, by which 1/2 of the aggregate of
-			- **(I)** the aggregate of the amounts described in subparagraphs (b)(i), (i.1), (ii), (iii) and (v) of the definition ***Canadian investment fund*** in this subsection in respect of a non-resident insurer, as at the end of the year, and
-			- **(II)** the aggregate of those amounts as at the end of the immediately preceding taxation year,exceeds the aggregate value for the year of all the insurer’s non-segregated property referred to in paragraph 2400(1)(e) in respect of all the insurer’s insurance businesses (other than its property and casualty insurance business) carried on in Canada, other than property that is
-			- **(III)** money, or
-			- **(IV)** a balance standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee
-is of
-	- **(ii)** the amount determined under clause (i)(B),
-- **(b)** where the insurer does not make an election referred to in paragraph (a) in respect of the year, but
-	- **(i)** has made such an election in respect of one of the four immediately preceding taxation years, and
-	- **(ii)** has not, since making the most recent election referred to in subparagraph (i), selected pursuant to this paragraph the percentage referred to in paragraph (c) as its life surplus factor for a year prior to the taxation year,
-the percentage, as shall be selected by the insurer, that is the percentage
-	- **(iii)** determined under paragraph (a) in respect of the most recent taxation year for which the insurer made an election, or
-	- **(iv)** referred to in paragraph (c), and
-- **(c)** in any other case, 10 per cent; (*facteur d’excédent d’assurance-vie*)
-
-***mean amount on deposit*** with an insurer for a taxation year in respect of life insurance policies means 1/2 of the aggregate of
-- **(a)** all amounts on deposit with the insurer as at the end of the year in respect of those policies, and
-- **(b)** all amounts on deposit with the insurer as at the end of the immediately preceding taxation year in respect of those policies; (*montant moyen en dépôt*)
-
-***mean Canadian reserve liabilities*** of an insurer for a taxation year means 1/2 of the aggregate of
-- **(a)** the insurer’s Canadian reserve liabilities as at the end of the year, and
-- **(b)** the insurer’s Canadian reserve liabilities as at the end of the immediately preceding taxation year; (*moyenne du passif de réserve canadienne*)
-
-***mean maximum tax actuarial reserve***, in respect of a particular class of life insurance policies of an insurer for a taxation year, means 1/2 of the aggregate of
-- **(a)** the insurer’s maximum tax actuarial reserve for that class of policies for the year, and
-- **(b)** the insurer’s maximum tax actuarial reserve for that class of policies for the immediately preceding taxation year; (*réserve actuarielle maximale moyenne aux fins de l’impôt*)
-
-***mean policy loans***, of an insurer for a taxation year, means 1/2 of the aggregate of
-- **(a)** the insurer’s policy loans as at the end of the year, and
-- **(b)** the insurer’s policy loans as at the end of the immediately preceding taxation year; (*moyenne des avances sur police*)
-
-***mean policy loans and foreign policy loans***, of an insurer for a taxation year, means 1/2 of the aggregate of
-- **(a)** the insurer’s policy loans and foreign policy loans as at the end of the year, and
-- **(b)** the insurer’s policy loans and foreign policy loans as at the end of the immediately preceding taxation year; (*moyenne des avances sur police et avances sur police étrangère*)
-
-***mean total reserve liabilities*** of an insurer for a taxation year means 1/2 of the aggregate of
-- **(a)** the insurer’s total reserve liabilities as at the end of the year, and
-- **(b)** the insurer’s total reserve liabilities as at the end of the immediately preceding taxation year; (*moyenne du passif total de réserve*)
-
-***property and casualty surplus*** of an insurer for a taxation year means the aggregate of
-- **(a)** 15 per cent of 1/2 of the aggregate of
-	- **(i)** the insurer’s unearned premium reserve as at the end of the year, and
-	- **(ii)** the insurer’s unearned premium reserve as at the end of the immediately preceding taxation year,
-as reported to the relevant authority in respect of its property and casualty insurance business,
-- **(b)** 15 per cent of 1/2 of the aggregate of
-	- **(i)** the insurer’s provision for unpaid claims and adjustment expenses as at the end of the year, and
-	- **(ii)** the insurer’s provision for unpaid claims and adjustment expenses as at the end of the immediately preceding taxation year,
-as reported to the relevant authority in respect of its property and casualty insurance business, and
-- **(c)** 1/2 of the aggregate of
-	- **(i)** the insurer’s investment valuation reserve as at the end of the year, and
-	- **(ii)** the insurer’s investment valuation reserve as at the end of the immediately preceding taxation year,
-as reported to the relevant authority in respect of its property and casualty insurance business; (*excédent provenant d’assurance de biens et de risques divers*)
-
-***property of the insurer in the course of development***[Repealed, SOR/90-661, s. 8]
-
-***relevant authority*** means
-- **(a)** the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions, or
-- **(b)** in any other case, the Superintendent of Insurance or other similar officer or authority of the province under whose laws the insurer is incorporated; (*autorité compétente*)
-
-***total reserve liabilities*** of an insurer, as at the end of a taxation year, means the aggregate amount of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of amounts payable out of segregated funds) in respect of all its insurance policies, as determined for the purposes of the relevant authority at the end of the year; (*passif total de réserve*)
-
-***valuation***, in respect of a property of an insurer, designated corporation, partnership or trust (in this definition referred to as an ***owner***) at a particular time, means, in the case of
-- **(a)** land, the cost thereof to the owner,
-- **(b)** depreciable property of a prescribed class (other than a property referred to in paragraph (f), the proportion of the owner’s undepreciated capital cost at that time of property of the class that
-	- **(i)** the owner’s capital cost of the property
-is of
-	- **(ii)** the owner’s capital cost of all property of the class,
-- **(c)** property that would have been depreciable property of a prescribed class if it had been situated in Canada and used in the year in, or held in the year in the course of, carrying on an insurance business in Canada, the amount, if any, by which
-	- **(i)** the owner’s capital cost of the property
-exceeds
-	- **(ii)** the amount that would have been the total depreciation allowed to the owner before the particular time in respect of the property if it had been the owner’s only depreciable property of the class and the owner had claimed the maximum amount allowable under paragraph 20(1)(a) of the Act in respect of property of that class for each year in which the owner owned the property,
-- **(d)** a share of a corporation (other than a designated corporation), the cost thereof to the owner,
-- **(e)** a bond, debenture, mortgage, hypothec or agreement of sale (other than a property referred to in paragraph (f)), the book value thereof in the accounts of the owner as determined for the purposes of the relevant authority or that would have been so determined if the owner had been a life insurer resident in Canada and registered under the Canadian and British Insurance Companies Act to carry on an insurance business in Canada,
-- **(e.1)** a balance standing to the owner’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee, the amount thereof,
-- **(f)** a property acquired and disposed of in a taxation year, the cost thereof to the owner, and
-- **(g)** a property (other than a property referred to in any of paragraphs (a) to (f)), the maximum value of the property as determined for the purposes of the relevant authority or that would have been so determined if the owner had been a life insurer resident in Canada and registered under the Canadian and British Insurance Companies Act to carry on an insurance business in Canada,
-
-minus
-- **(h)** in respect of a particular property referred to in any of paragraphs (a) to (g), the amount of any debt that was incurred or assumed by the owner to acquire that particular property and that was owing by the owner at that time; (*valeur*)
-
-***value for the year***, in respect of a property of an insurer, designated corporation, partnership or trust (in this definition referred to as an ***owner***) for a taxation year, means, in the case of
-- **(a)** a property that is a mortgage, a hypothec, an agreement of sale or an investment property that is a balance standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee, the amount, if any, by which
-	- **(i)** the amount obtained when the gross investment revenue for the year from the property is divided by the average rate of interest earned by the owner (expressed as an annual rate) on the amortized cost of the property during the year if that rate of interest were expressed as a fraction
-exceeds
-	- **(ii)** the amount obtained when the interest paid or payable for the year on a debt incurred for the purposes of acquiring the property is divided by the average rate of interest paid or payable by the owner (expressed as an annual rate) on the debt for the year if that rate of interest were expressed as a fraction,
-- **(b)** a property (other than a property referred to in paragraph (a)) that was not owned by the owner throughout the year, the proportion of
-	- **(i)** the valuation of the property as at the end of the immediately preceding taxation year, where the property was owned by the owner at that time, and
-	- **(ii)** the valuation of the property, where it was acquired by the owner during the year,
-that
-	- **(iii)** the number of days that the property may reasonably be considered to have been owned by the owner during the taxation year
-is of
-	- **(iv)** the number of days in the taxation year, and
-- **(c)** a property (other than a property referred to in paragraph (a) or (b)), 1/2 of the aggregate of
-	- **(i)** the valuation of the property as at the end of the year, and
-	- **(ii)** the valuation of the property as at the end of the immediately preceding taxation year. (*valeur pour l’année*)
-
-- **(4)** For the purposes of the definition in subsection (3), ***Canadian investment fund*** in respect of a life insurer resident in Canada, notwithstanding the definitions ***Canadian reserve liabilities*** and ***total reserve liabilities*** in that subsection, the insurer shall determine its liabilities and reserves in respect of its insurance policies outside Canada in a manner consistent with that used in determining its liabilities and reserves in respect of its insurance policies in Canada.
-
-- **(5)** For the purposes of subsection (3), the cost of a property shall be determined without regard to subsection 142.5(2) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-89, s. 1; SOR/79-670, s. 4; SOR/80-419, s. 4; SOR/80-618, s. 6; SOR/81-632, s. 2; SOR/90-661, s. 8; SOR/92-681, s. 3; SOR/94-686, ss. 55, 62, 69(F), 78(F), 79(F); SOR/2009-222, s. 3.
-
-
-
-
-**2406** Sections 2404 and 2405 do not apply to the 1999 and subsequent taxation years.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4. SOR/94-686, s. 55(F); SOR/2000-413, s. 4.
-
-
-
-
-
-### 1977 Excess Policy Dividend Deduction
-
-
-**2407** For the purposes of paragraph 138(3.1)(b) of the Act, a life insurer’s 1977 excess policy dividend deduction is hereby prescribed to be the amount that is the lesser of
-- **(a)** the amount, if any, by which
-	- **(i)** the amount determined under clause 138(3)(a)(iii)(A) of the Act for the insurer’s 1977 taxation year (determined without reference to paragraph 138(3.1)(b) of the Act),
-exceeds
-	- **(ii)** the amount determined under clause 138(3)(a)(iii)(B) of the Act for the insurer’s 1977 taxation year; and
-- **(b)** the amount, if any, by which
-	- **(i)** the insurer’s maximum tax actuarial reserve for its participating life insurance policies in Canada for its 1977 taxation year,
-exceeds the aggregate of
-	- **(ii)** the amount that would have been the insurer’s maximum tax actuarial reserve for its participating life insurance policies in Canada for its 1977 taxation year if that reserve had been determined on the basis of the rules applicable to its 1978 taxation year,
-	- **(iii)** the aggregate of all amounts payable to the insurer in respect of policy loans outstanding at the end of its 1977 taxation year in respect of participating life insurance policies in Canada, and
-	- **(iv)** the amount, if any, by which
-		- **(A)** the insurer’s maximum tax actuarial reserve for its participating life insurance policies in Canada for its 1968 taxation year,exceeds the aggregate of
-		- **(B)** the amount that would have been the insurer’s maximum tax actuarial reserve for its participating life insurance policies in Canada for its 1968 taxation year if that reserve had been determined on the basis of the rules applicable to its 1978 taxation year, and
-		- **(C)** the aggregate of all amounts payable to the insurer in respect of policy loans outstanding at the end of its 1968 taxation year in respect of participating life insurance policies in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F).
-
-
-
-
-
-### 1977 Carryforward Deduction
-
-
-**2408** For the purposes of subparagraph 138(4.2)(a)(iv) of the Act, a life insurer’s 1977 carryforward deduction is hereby prescribed to be the amount, if any, by which
-- **(a)** the aggregate of
-	- **(i)** the aggregate of amounts, each of which is an amount determined under paragraph 13(23)(b) of the Act in respect of property of a prescribed class of the insurer,
-	- **(ii)** the aggregate of amounts each of which is a non-capital loss of the insurer for a taxation year ending after 1972 and before 1978 that would have been deductible by the insurer in computing its taxable income for a taxation year ending after 1977 if the Act were read without reference to subsection 111(7.2) thereof,
-	- **(iii)** the amount prescribed by section 2407 to be the insurer’s 1977 excess policy dividend deduction,
-	- **(iv)** the amount determined under subparagraph 138(4.2)(b)(ii) of the Act in respect of the insurer,
-	- **(v)** the amount determined under subparagraph 138(4.2)(c)(ii) of the Act in respect of the insurer,
-	- **(vi)** the amount, if any, by which
-		- **(A)** the aggregate of the insurer’s maximum tax actuarial reserves for its 1977 taxation year,exceeds
-		- **(B)** the aggregate of the amounts deducted by the insurer for its 1977 taxation year under subparagraph 138(3)(a)(i) of the Act, and
-	- **(vii)** the amount, if any, by which
-		- **(A)** the maximum amount deductible by the insurer for its 1977 taxation year under subparagraph 138(3)(a)(ii) of the Act,exceeds
-		- **(B)** the amount deducted by the insurer for its 1977 taxation year under subparagraph 138(3)(a)(ii) of the Act,exceeds
-- **(b)** the amount, if any, by which the aggregate of
-	- **(i)** the lesser of
-		- **(A)** the insurer’s accumulated 1968 deficit, and
-		- **(B)** the amount, if any, determined under subparagraph (vi),
-	- **(ii)** the aggregate of the insurer’s maximum tax actuarial reserves for its 1977 taxation year, other than reserves or any portions thereof in respect of segregated fund policies, and
-	- **(iii)** the maximum amount deductible by the insurer for its 1977 taxation year under subparagraph 138(3)(a)(ii) of the Act,
-exceeds the aggregate of
-	- **(iv)** the aggregate of the amounts that would have been the insurer’s maximum tax actuarial reserves for its 1977 taxation year if those reserves had been determined on the basis of the rules applicable to its 1978 taxation year,
-	- **(v)** the aggregate of all amounts payable to the insurer in respect of policy loans outstanding at the end of its 1977 taxation year, and
-	- **(vi)** the amount, if any, by which
-		- **(A)** the aggregate of the insurer’s maximum tax actuarial reserves for its 1968 taxation year, other than reserves or any portions thereof in respect of segregated fund policies,exceeds the aggregate of
-		- **(B)** the aggregate of the amounts that would have been the insurer’s maximum tax actuarial reserves for its 1968 taxation year if those reserves had been determined on the basis of the rules applicable to its 1978 taxation year, and
-		- **(C)** the aggregate of all amounts payable to the insurer in respect of policy loans outstanding at the end of its 1968 taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/80-163, s. 1; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F).
-
-
-
-
-
-### Transitional
-
-
-**2409** 
-
-- **(1)** For the purposes of this Part, except as expressly otherwise provided therein, where the expression “immediately preceding taxation year” refers to an insurer’s 1977 taxation year, this Part shall be read as though the definitions therein applied to the insurer’s 1977 taxation year.
-
-- **(2)** For the purposes of applying the provisions of paragraph 2400(1)(c) in respect of the 1978 taxation year of an insurer that was subject to the provisions of subsection 138(9) of the Act in respect of its 1977 taxation year, the following rules apply:
-	- **(a)** this Part shall be read as though the definitions therein applied to the insurer’s 1977 taxation year;
-	- **(b)** such portion of the insurer’s Canadian equity property owned by it at the end of its 1977 taxation year as is designated by the insurer in respect of a particular insurance business, in its return of income required by subsection 150(1) of the Act to be filed for the 1978 taxation year, shall be deemed to be investment property of the prior year in respect of the particular insurance business, but the aggregate valuation as at the end of the insurer’s 1977 taxation year of the Canadian equity property so designated in respect of all its insurance businesses carried on in Canada shall not exceed
-		- **(i)** in the case of a life insurer resident in Canada, or a non-resident life insurer that has made the election referred to in subsection 2401(1) in respect of its 1978 taxation year, that proportion of
-			- **(A)** the insurer’s Canadian investment fund as at the end of its 1977 taxation year (determined on the basis of the rules applicable to its 1978 taxation year),that
-			- **(B)** the aggregate valuation of the insurer’s equity property as at the end of the insurer’s 1977 taxation yearis of
-			- **(C)** the aggregate valuation of the insurer’s investment property as at the end of the insurer’s 1977 taxation year,
-		- **(ii)** in the case of a non-resident life insurer, other than an insurer referred to in subparagraph (i), eight per cent of its Canadian investment fund as at the end of its 1977 taxation year (determined on the basis of the rules applicable to its 1978 taxation year), and
-		- **(iii)** in any other case, 25 per cent of the insurer’s Canadian investment fund as at the end of its 1977 taxation year (determined on the basis of the rules applicable to its 1978 taxation year);
-	- **(c)** where the insurer made an election under subsection 138(9) of the Act in respect of its 1977 taxation year, investment property (other than a Canadian equity property) owned by the insurer at the end of its 1977 taxation year that was designated in respect of a particular insurance business by the insurer in its return of income for the 1977 taxation year pursuant to paragraph 138(12)(l) of the Act as it read in its application to that year shall be deemed to be insurance property of the particular insurance business in the 1977 taxation year;
-	- **(d)** where the insurer did not make the election referred to in paragraph (c) and carried on only one insurance business in Canada in its 1977 taxation year, investment property (other than a Canadian equity property) owned by the insurer at the end of its 1977 taxation year that is a specified Canadian asset of the insurer within the meaning of subsection 2405(1) as it read in its application to the 1977 taxation year shall be deemed to be insurance property of that insurance business in the 1977 taxation year; and
-	- **(e)** where the insurer did not make the election referred to in paragraph (c) and carried on an other than life insurance business in Canada and a life insurance business in Canada in its 1977 taxation year, investment property (other than a Canadian equity property) owned by the insurer at the end of its 1977 taxation year each of which is a specified Canadian asset of the insurer, within the meaning of subsection 2405(1) as it read in its application to the 1977 taxation year, in respect of which the aggregate value for the year in respect of the insurer’s 1978 taxation year is equal to the amount, if any, by which
-		- **(i)** the insurer’s mean Canadian reserve liabilities for its 1978 taxation year in respect of its other than life insurance business
-exceeds
-		- **(ii)** the aggregate value for the year in respect of the insurer’s 1978 taxation year of its insurance property of its other than life insurance business as determined for the purposes of clause 2400(1)(c)(ii)(C),
-shall be deemed to be insurance property of the other than life insurance business in the 1977 taxation year and any other such investment property that is a specified Canadian asset of the insurer shall be deemed to be insurance property of the life insurance business in the 1977 taxation year.
-
-- **(3)** For the purposes of applying the provisions of section 2402 in respect of the 1978 taxation year of a life insurer, the following rules apply:
-	- **(a)** for the purposes of subparagraphs 2402(a)(i) and (b)(ii), the insurer’s maximum tax actuarial reserve for its 1977 taxation year in respect of participating life insurance policies in Canada shall be deemed to be the amount referred to in subparagraph 2407(b)(ii);
-	- **(b)** for the purposes of clause 2402(a)(ii)(A), the insurer’s maximum tax actuarial reserve for its 1977 taxation year in respect of a class of life insurance policies in Canada shall be deemed to have been determined on the basis of the rules applicable to its 1978 taxation year; and
-	- **(c)** for the purposes of subparagraph 2402(b)(i), the amount deducted by the insurer under subparagraph 138(3)(a)(iv) of the Act in computing its income for the 1977 taxation year shall be deemed to be the amount that is the aggregate determined under paragraph 138(4.2)(b) of the Act in respect of the insurer.
-
-- **(4)** Except as expressly otherwise provided in this Part, where the expression “immediately preceding taxation year” occurs in a provision of this Part (other than section 2402) and refers to the insurer’s 1987 taxation year, the provision shall be read as though the definitions in this Part applied in respect of the insurer’s 1987 taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/80-419, s. 5; SOR/90-661, s. 9.
+
+
+
+**2405** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-89, s. 1; SOR/79-670, s. 4; SOR/80-419, s. 4; SOR/80-618, s. 6; SOR/81-632, s. 2; SOR/90-661, s. 8; SOR/92-681, s. 3; SOR/94-686, ss. 55, 62, 69(F), 78(F), 79(F); SOR/2009-222, s. 3; 2013, c. 34, s. 392.
+
+
+
+
+**2406** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4. SOR/94-686, s. 55(F); SOR/2000-413, s. 4; 2013, c. 34, s. 392.
+
+
+
+
+**2407** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F); 2013, c. 34, s. 392.
+
+
+
+
+**2408** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/80-163, s. 1; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F); 2013, c. 34, s. 392.
+
+
+
+
+**2409** [Repealed, 2013, c. 34, s. 392]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/80-419, s. 5; SOR/90-661, s. 9; 2013, c. 34, s. 392.
 
 
 
@@ -8892,33 +8554,37 @@ except any such expenditure incurred by a corporation that derives all or substa
 	- **(b)** the registration number assigned by the Minister to the organization;
 	- **(c)** the serial number of the receipt;
 	- **(d)** the place or locality where the receipt was issued;
-	- **(e)** where the donation is a cash donation, the day on which or the year during which the donation was received;
-	- **(e.1)** where the donation is a gift of property other than cash
-		- **(i)** the day on which the donation was received,
+	- **(e)** where the gift is a cash gift, the date on which or the year during which the gift was received;
+	- **(e.1)** where the gift is of property other than cash
+		- **(i)** the date on which the gift was received,
 		- **(ii)** a brief description of the property, and
 		- **(iii)** the name and address of the appraiser of the property if an appraisal is done;
-	- **(f)** the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
-	- **(g)** the name and address of the donor including, in the case of an individual, his first name and initial;
+	- **(f)** the date on which the receipt was issued;
+	- **(g)** the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
 	- **(h)** the amount that is
-		- **(i)** the amount of a cash donation, or
-		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
-	- **(i)** the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+		- **(i)** the amount of a cash gift, or
+		- **(ii)** if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift is made;
+	- **(h.1)** a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+	- **(h.2)** the eligible amount of the gift;
+	- **(i)** the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge gifts; and
 	- **(j)** the name and Internet website of the Canada Revenue Agency.
 
 - **(1.1)** Every official receipt issued by another recipient of a gift shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
 	- **(a)** the name and address of the other recipient of the gift;
 	- **(b)** the serial number of the receipt;
 	- **(c)** the place or locality where the receipt was issued;
-	- **(d)** where the donation is a cash donation, the day on which or the year during which the donation was received;
-	- **(e)** where the donation is a gift of property other than cash,
-		- **(i)** the day on which the donation was received,
+	- **(d)** where the gift is a cash gift, the date on which the gift was received;
+	- **(e)** where the gift is of property other than cash
+		- **(i)** the date on which the gift was received,
 		- **(ii)** a brief description of the property, and
 		- **(iii)** the name and address of the appraiser of the property if an appraisal is done;
-	- **(f)** the day on which the receipt was issued where that day differs from the day referred to in paragraph (d) or (e);
-	- **(g)** the name and address of the donor including, in the case of an individual, his first name and initial;
+	- **(f)** the date on which the receipt was issued;
+	- **(g)** the name and address of the donor including, in the case of an individual, the individual’s first name and initial;
 	- **(h)** the amount that is
-		- **(i)** the amount of a cash donation, or
-		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+		- **(i)** the amount of a cash gift, or
+		- **(ii)** if the gift is of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+	- **(h.1)** a description of the advantage, if any, in respect of the gift and the amount of that advantage;
+	- **(h.2)** the eligible amount of the gift;
 	- **(i)** the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations; and
 	- **(j)** the name and Internet website of the Canada Revenue Agency.
 
@@ -8940,12 +8606,12 @@ the official receipts may bear a facsimile signature.
 
 - **(5)** A spoiled official receipt form shall be marked “cancelled” and such form, together with the duplicate thereof, shall be retained by the registered organization or the other recipient of a gift as part of its records.
 
-- **(6)** Every official receipt form on which
-	- **(a)** the day on which the donation was received,
-	- **(b)** the year during which the donation was received, or
-	- **(c)** the amount of the donation,
-was incorrectly or illegibly entered shall be regarded as spoiled.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 3; SOR/2007-74, s. 1.
+- **(6)** Every official receipt form on which any of the following is incorrectly or illegibly entered is deemed to be spoiled:
+	- **(a)** the date on which the gift is received;
+	- **(b)** the amount of the gift, in the case of a cash gift;
+	- **(c)** a description of the advantage, if any, in respect of the gift and the amount of that advantage; and
+	- **(d)** the eligible amount of the gift.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 3; SOR/2007-74, s. 1; 2013, c. 34, s. 393.
 
 
 
@@ -8998,11 +8664,11 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 ### Prescribed Donees
 
 
-**3504** For the purposes of subparagraph 110.1(3)(a)(ii) and paragraph 118.1(6)(b) of the Act, the following are prescribed donees:
+**3504** For the purposes of subparagraphs 110.1(2.1)(a)(ii) and 118.1(5.4)(a)(ii) of the Act, the following are prescribed donees:
 - **(a)** Friends of the Nature Conservancy of Canada, Inc., a charity established in the United States;
 - **(b)** The Nature Conservancy, a charity established in the United States; and
 - **(c)** American Friends of Canadian Land Trusts.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2; SOR/2010-197, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2; SOR/2010-197, s. 1; 2013, c. 34, s. 394.
 
 
 
@@ -9345,13 +9011,13 @@ where
 	- **(h)** a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway);
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
 	- **(j)** a property included in Class 28, in paragraph (a), (a.1), (a.2) or (a.3) of Class 41 or in Class 41.1 in Schedule II that would, but for Class 28, 41 or 41.1, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
-	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45 or 46 in Schedule II;
+	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50 or 52 in Schedule II;
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
 	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
 
 - **(3)** Property is prescribed energy generation and conservation property for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1) or (2)) that is a property included in any of subparagraph (a.1)(i) of Class 17 and Classes 43.1, 43.2 and 48 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66; 2013, c. 34, s. 395.
 
 
 
@@ -9687,28 +9353,42 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(b)** where the directors of the corporation are legally entitled to administer the affairs of the corporation, a certified copy of their resolution authorizing the election to be made;
 	- **(c)** where the directors of the corporation are not legally entitled to administer the affairs of the corporation, a certified copy of the authorization of the making of the election by the person or persons legally entitled to administer the affairs of the corporation; and
 	- **(d)** a statutory declaration made by a director of the corporation stating that, after reasonable inquiry for the purpose of informing himself in that regard, to the best of his knowledge the corporation complies with all the prescribed conditions that must be complied with at the time the election is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-268, s. 8; SOR/94-686, ss. 74(F), 79(F); SOR/2001-216, s. 3; 2007, c. 35, s. 77.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-268, s. 8; SOR/94-686, ss. 74(F), 79(F); SOR/2001-216, s. 3; 2007, c. 35, s. 77; 2013, c. 34, s. 396(F).
 
 
 
 
-**4800.1** For the purposes of paragraph 107(1)(a), subsections 107(2) and (4.1) and paragraph 108(1)(c) of the Act, the following are prescribed trusts:
+**4800.1** For the purposes of paragraph 107(1)(a) and subsections 107(1.1), (2) and (4.1) of the Act, the following are prescribed trusts:
 - **(a)** a trust maintained primarily for the benefit of employees of a corporation or two or more corporations which do not deal at arm’s length with each other, where one of the main purposes of the trust is to hold interests in shares of the capital stock of the corporation or corporations, as the case may be, or any corporation not dealing at arm’s length therewith;
 - **(b)** a trust established exclusively for the benefit of one or more persons each of whom was, at the time the trust was created, either a person from whom the trust received property or a creditor of that person, where one of the main purposes of the trust is to secure the payments required to be made by or on behalf of that person to such creditor; and
 - **(c)** a trust all or substantially all of the properties of which consist of shares of the capital stock of a corporation, where the trust was established pursuant to an agreement between two or more shareholders of the corporation and one of the main purposes of the trust is to provide for the exercise of voting rights in respect of those shares pursuant to that agreement.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-284, s. 1; SOR/92-661, s. 1; SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-284, s. 1; SOR/92-661, s. 1; SOR/94-686, s. 79(F); 2013, c. 34, s. 397.
 
 
 
 
-**4801** For the purposes of paragraph 132(6)(c) of the Act, the following conditions are hereby prescribed in respect of a trust:
+**4801** In applying at any time paragraph 132(6)(c) of the Act, the following are prescribed conditions in respect of a trust:
 - **(a)** either
-	- **(i)** a class of the units of the trust shall be qualified for distribution to the public, or
-	- **(ii)** there has been a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not required under the laws of the province to be filed in respect of the distribution; and
-- **(b)** in respect of any one class of units described in paragraph (a), there shall be no fewer than 150 beneficiaries of the trust, each of whom holds
+	- **(i)** the following conditions are met:
+		- **(A)** there has been at or before that time a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not, under the laws of the province, required to be filed in respect of the distribution, and
+		- **(B)** the trust
+			- **(I)** was created after 1999 and on or before that time, or
+			- **(II)** satisfies, at that time, the conditions prescribed in section 4801.001, or
+	- **(ii)** a class of the units of the trust is, at that time, qualified for distribution to the public; and
+- **(b)** in respect of a class of the trust’s units that meets at that time the conditions described in paragraph (a), there are at that time no fewer than 150 beneficiaries of the trust, each of whom holds
 	- **(i)** not less than one block of units of the class, and
 	- **(ii)** units of the class having an aggregate fair market value of not less than $500.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2001-216, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2001-216, s. 4; 2013, c. 34, s. 398.
+
+
+
+
+**4801.001** For the purpose of applying at any particular time subclause 4801(a)(i)(B)(II), the following are the prescribed conditions:
+- **(a)** the trust was created before 2000;
+- **(b)** the trust was a unit trust on July 18, 2005;
+- **(c)** the particular time is after 2003; and
+- **(d)** the trusts elects by notifying the Minister, in writing before the trust’s filing-due date for its 2012 taxation year, that this section applies to it.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 399.
 
 
 
@@ -9775,21 +9455,21 @@ are converted into shares of any class (in this subsection referred to as the �
 
 - **(1)** In this Part,
 
-***block of shares*** means, with respect to any class of the capital stock of a corporation,
+***block of shares*** means, with respect to any class of the capital stock of a corporation,
 - **(a)** 100 shares, if the fair market value of one share of the class is less than $25,
 - **(b)** 25 shares, if the fair market value of one share of the class is $25 or more but less than $100, and
-- **(c)** 10 shares, if the fair market value of one share of the class is $100 or more; (*tranche d’actions*)
+- **(c)** 10 shares, if the fair market value of one share of the class is $100 or more; (*tranche d’actions*)
 
-***block of units*** means, with respect to any class of units of a trust,
+***block of units*** means, with respect to any class of units of a trust,
 - **(a)** 100 units, if the fair market value of one unit of the class is less than $25,
 - **(b)** 25 units, if the fair market value of one unit of the class is $25 or more but less than $100, and
-- **(c)** 10 units, if the fair market value of one unit of the class is $100 or more; (*tranche d’unités*)
+- **(c)** 10 units, if the fair market value of one unit of the class is $100 or more; (*tranche d’unités*)
 
-***equity share*** has the meaning assigned by section 204 of the Act; (*action à revenu variable*)
+***equity share*** has the meaning assigned by section 204 of the Act; (*action à revenu variable*)
 
-***insider of a corporation*** has the meaning that would be assigned by section 100 of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), as it read on June 22, 2009, if the references in that section to “insider of a company”, “public company” and “equity shares” were read as references to “insider of a corporation”, “corporation” and “shares” respectively, and includes a person who is an employee of the corporation, or of a person who does not deal at arm’s length with the corporation, and whose right to sell or transfer any share of the capital stock of the corporation, or to exercise the voting rights, if any, attaching to the share, is restricted by
+***insider of a corporation*** has the meaning that would be assigned by section 100 of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), as it read on June 22, 2009, if the references in that section to “insider of a company”, “public company” and “equity shares” were read as references to “insider of a corporation”, “corporation” and “shares” respectively, and includes a person who is an employee of the corporation, or of a person who does not deal at arm’s length with the corporation, and whose right to sell or transfer any share of the capital stock of the corporation, or to exercise the voting rights, if any, attaching to the share, is restricted by
 - **(a)** the terms and conditions attaching to the share, or
-- **(b)** any obligation of the person, under a contract, in equity or otherwise, to the corporation or to any person with whom the corporation does not deal at arm’s length. (*dirigeant d’une société*)
+- **(b)** any obligation of the person, under a contract, in equity or otherwise, to the corporation or to any person with whom the corporation does not deal at arm’s length. (*dirigeant d’une société*)
 
 - **(2)** For the purposes of this Part, a class of shares of the capital stock of a corporation or a class of units of a trust is qualified for distribution to the public only if
 	- **(a)** a prospectus, registration statement or similar document has been filed with, and, where required by law, accepted for filing by, a public authority in Canada pursuant to and in accordance with the law of Canada or of any province and there has been a lawful distribution to the public of shares or units of that class in accordance with that document;
@@ -9808,7 +9488,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 		- **(i)** not less than one block of shares or one block of units, as the case may be, of that class, and
 		- **(ii)** shares or units, as the case may be, of that class having an aggregate fair market value of not less than $500; and
 	- **(c)** the membership of each group shall be determined in the manner that results in the greatest possible number of groups.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-470, s. 2; SOR/84-146, s. 1; SOR/85-696, s. 14; SOR/94-686, ss. 25(F), 79(F); SOR/2011-188, s. 19.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-470, s. 2; SOR/84-146, s. 1; SOR/85-696, s. 14; SOR/94-686, ss. 25(F), 79(F); SOR/2011-188, s. 19; 2013, c. 34, s. 400(F).
 
 
 
@@ -10935,12 +10615,20 @@ the period ending on the day that is two years after the date on which the regis
 		- **(i)** such portion of the whole dividend paid by the affiliate on the shares of that class at that time as was deemed by section 5901 to have been paid out of the affiliate’s exempt surplus in respect of the corporation
 is of
 		- **(ii)** the whole dividend paid by the affiliate on the shares of that class at that time;
+	- **(a.1)** for the purposes of this Part and paragraph 113(1)(a.1) of the Act, the portion of the dividend paid out of the hybrid surplus of the affiliate is prescribed to be that proportion of the dividend received that
+		- **(i)** the portion of the whole dividend paid by the affiliate on the shares of that class at that time that was deemed by section 5901 to have been paid out of the affiliate’s hybrid surplus in respect of the corporation
+is of
+		- **(ii)** the whole dividend paid by the affiliate on the shares of that class at that time;
 	- **(b)** for the purposes of this Part and subsection 91(5) and paragraphs 113(1)(b) and (c) of the Act, the portion of the dividend paid out of the taxable surplus of the affiliate is prescribed to be that proportion of the dividend received that
 		- **(i)** such portion of the whole dividend paid by the affiliate on the shares of that class at that time as was deemed by section 5901 to have been paid out of the affiliate’s taxable surplus in respect of the corporation
 is of
 		- **(ii)** the whole dividend paid by the affiliate on the shares of that class at that time;
 	- **(c)** for the purposes of this Part and paragraph 113(1)(d) of the Act, the portion of the dividend paid out of the pre-acquisition surplus of the affiliate is prescribed to be that proportion of the dividend received that
 		- **(i)** such portion of the whole dividend paid by the affiliate on the shares of that class at that time as was deemed by section 5901 to have been paid out of the affiliate’s pre-acquisition surplus in respect of the corporation
+is of
+		- **(ii)** the whole dividend paid by the affiliate on the shares of that class at that time;
+	- **(c.1)** for the purposes of this Part and paragraph 113(1)(a.1) of the Act, the foreign tax applicable to the portion of the dividend prescribed to have been paid out of the hybrid surplus of the affiliate is prescribed to be that proportion of the hybrid underlying tax applicable, in respect of the corporation, to the whole dividend paid by the affiliate on the shares of that class at that time that
+		- **(i)** the amount of the dividend received by the corporation or the affiliate, as the case may be, on that share at that time
 is of
 		- **(ii)** the whole dividend paid by the affiliate on the shares of that class at that time; and
 	- **(d)** for the purposes of this Part and paragraph 113(1)(b) of the Act, the foreign tax applicable to the portion of the dividend prescribed to have been paid out of the taxable surplus of the affiliate is prescribed to be that proportion of the underlying foreign tax applicable, in respect of the corporation, to the whole dividend paid by the affiliate on the shares of that class at that time that
@@ -10952,8 +10640,8 @@ is of
 	- **(a)** is prescribed to have been paid out of the affiliate’s taxable surplus in respect of the corporation and not to have been paid out of that exempt surplus; and
 	- **(b)** for the purposes of paragraph (1)(d) and the definitions ***underlying foreign tax*** and ***underlying foreign tax applicable*** in subsection 5907(1) is deemed to have been paid by the affiliate to the corporation as a separate whole dividend on the shares of that class of the capital stock immediately after that time, and that whole dividend is deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation.
 
-- **(3)** For the purposes of subsection 91(5) of the Act, where at any time an individual resident in Canada receives a dividend on a share of any class of the capital stock of a foreign affiliate of that individual, the affiliate shall be deemed to have an amount of taxable surplus in respect of the individual and the portion of the dividend paid out of the taxable surplus of the affiliate in respect of the individual is prescribed to be an amount equal to the dividend received.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); SOR/97-505, s. 2.
+- **(3)** For the purposes of subsection 91(5) of the Act, if a person resident in Canada (other than a corporation) receives a dividend on a share of any class of the capital stock of a foreign affiliate of the person, the dividend is prescribed to have been paid out of the affiliate’s taxable surplus.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); SOR/97-505, s. 2; 2013, c. 34, ss. 40, 78.
 
 
 
@@ -10964,19 +10652,65 @@ is of
 
 **5901** 
 
-- **(1)** Where at any time in its taxation year a foreign affiliate of a corporation resident in Canada has paid a whole dividend on the shares of any class of its capital stock, for the purposes of this Part
+- **(1)** Subject to subsection (1.1), if at any time in its taxation year a foreign affiliate of a corporation resident in Canada has paid a whole dividend on the shares of any class of its capital stock, for the purposes of this Part
 	- **(a)** the portion of the whole dividend deemed to have been paid out of the affiliate’s exempt surplus in respect of the corporation at that time is an amount equal to the lesser of
 		- **(i)** the amount of the whole dividend, and
-		- **(ii)** the amount by which that exempt surplus exceeds the affiliate’s taxable deficit in respect of the corporation at that time;
-	- **(b)** the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation at that time is an amount equal to the lesser of
+		- **(ii)** the amount, if any, by which the exempt surplus exceeds the total of
+			- **(A)** the affiliate’s hybrid deficit, if any, in respect of the corporation at that time, and
+			- **(B)** the affiliate’s taxable deficit, if any, in respect of the corporation at that time;
+	- **(a.1)** the portion of the whole dividend deemed to have been paid out of the affiliate’s hybrid surplus in respect of the corporation at that time is an amount equal to the lesser of
 		- **(i)** the amount, if any, by which the amount of the whole dividend exceeds the portion determined under paragraph (a), and
-		- **(ii)** the amount by which that taxable surplus exceeds the affiliate’s exempt deficit in respect of the corporation at that time; and
-	- **(c)** the portion of the whole dividend deemed to have been paid out of the affiliate’s pre-acquisition surplus in respect of the corporation at that time is the amount by which the whole dividend exceeds the aggregate of the portions determined under paragraphs (a) and (b).
+		- **(ii)** the amount, if any, by which the hybrid surplus exceeds
+			- **(A)** if the affiliate has an exempt deficit and a taxable deficit, in respect of the corporation at that time, the total of the exempt deficit and the taxable deficit,
+			- **(B)** if the affiliate has an exempt deficit and no taxable deficit, in respect of the corporation at that time, the amount of the exempt deficit, and
+			- **(C)** if the affiliate has a taxable deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the taxable deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time;
+	- **(b)** the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation at that time is an amount equal to the lesser of
+		- **(i)** the amount, if any, by which the amount of the whole dividend exceeds the total of the portions determined under paragraphs (a) and (a.1), and
+		- **(ii)** the amount, if any, by which the taxable surplus exceeds
+			- **(A)** if the affiliate has an exempt deficit and a hybrid deficit, in respect of the corporation at that time, the total of the exempt deficit and the hybrid deficit,
+			- **(B)** if the affiliate has an exempt deficit and no hybrid deficit, in respect of the corporation at that time, the amount, if any, by which the exempt deficit exceeds the affiliate’s hybrid surplus in respect of the corporation at that time, and
+			- **(C)** if the affiliate has a hybrid deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the hybrid deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time; and
+	- **(c)** the portion of the whole dividend deemed to have been paid out of the affiliate’s pre-acquisition surplus in respect of the corporation at that time is the amount, if any, by which the whole dividend exceeds the total of the portions determined under paragraphs (a) to (b).
 
-- **(2)** Notwithstanding subsection (1), where a foreign affiliate of a corporation resident in Canada pays a whole dividend (other than a whole dividend referred to in subsection 5902(1)) at any particular time in its taxation year that is more than 90 days after the commencement of that year or at any particular time in its 1972 taxation year that is before January 1, 1972, the portion of the whole dividend that would, but for this subsection, be deemed to have been paid out of the affiliate’s pre-acquisition surplus in respect of the corporation is deemed to have been paid out of the exempt surplus and taxable surplus of the affiliate in respect of the corporation to the extent that it would have been deemed to have been so paid if, immediately after the end of that year, that portion were paid as a separate whole dividend before any whole dividend paid after the particular time and after any whole dividend paid before the particular time by the affiliate, and for the purposes of determining the exempt deficit, exempt surplus, taxable deficit, taxable surplus and underlying foreign tax of the affiliate in respect of the corporation at any time, that portion is deemed to have been paid as a separate whole dividend immediately following the end of the year and not to have been paid at the particular time.
+- **(1.1)** If the corporation resident in Canada that is referred to in subsection (1) elects in writing under this subsection in respect of the whole dividend referred to in subsection (1) and files the election with the Minister on or before the corporation’s filing-due date for its taxation year that includes the day the whole dividend was paid, subsection (1) applies in respect of the whole dividend as if its paragraphs (a.1) and (b) read as follows:
+
+- **(a.1)** the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation at that time is an amount equal to the lesser of
+	- **(i)** the amount, if any, by which the amount of the whole dividend exceeds the portion determined under paragraph (a), and
+	- **(ii)** the amount, if any, by which the taxable surplus exceeds
+		- **(A)** if the affiliate has an exempt deficit and a hybrid deficit, in respect of the corporation at that time, the total of the exempt deficit and the hybrid deficit,
+		- **(B)** if the affiliate has an exempt deficit and no hybrid deficit, in respect of the corporation at that time, the amount of the exempt deficit, and
+		- **(C)** if the affiliate has a hybrid deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the hybrid deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time;
+- **(b)** the portion of the whole dividend deemed to have been paid out of the affiliate’s hybrid surplus in respect of the corporation at that time is an amount equal to the lesser of
+	- **(i)** the amount, if any, by which the amount of the whole dividend exceeds the total of the portions determined under paragraphs (a) and (a.1),
+	- **(ii)** the amount, if any, by which the hybrid surplus exceeds
+		- **(A)** if the affiliate has an exempt deficit and a taxable deficit, in respect of the corporation at that time, the total of the exempt deficit and the taxable deficit,
+		- **(B)** if the affiliate has an exempt deficit and no taxable deficit, in respect of the corporation at that time, the amount, if any, by which the exempt deficit exceeds the affiliate’s taxable surplus in respect of the corporation at that time, and
+		- **(C)** if the affiliate has a taxable deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the taxable deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time; and
+
+
+
+- **(2)** Notwithstanding subsection (1),
+	- **(a)** if a foreign affiliate of a corporation resident in Canada pays a whole dividend (other than a whole dividend referred to in subsection 5902(1)) at any particular time in its taxation year that is more than 90 days after the commencement of that year or at any particular time in its 1972 taxation year that is before January 1, 1972, the portion of the whole dividend that would, in the absence of this paragraph, be deemed to have been paid out of the affiliate’s pre-acquisition surplus in respect of the corporation (otherwise than because of an election under paragraph (b)) is instead deemed to have been paid out of the exempt surplus, hybrid surplus and taxable surplus of the affiliate in respect of the corporation to the extent that it would have been deemed to have been so paid if, immediately after the end of that year, that portion were paid as a separate whole dividend before any whole dividend paid after the particular time and after any whole dividend paid before the particular time by the affiliate, and for the purposes of determining the exempt deficit, exempt surplus, hybrid deficit, hybrid surplus, hybrid underlying tax, taxable deficit, taxable surplus and underlying foreign tax of the affiliate in respect of the corporation at any time, that portion is deemed to have been paid as a separate whole dividend immediately following the end of the year and not to have been paid at the particular time; and
+	- **(b)** a whole dividend referred to in subsection (1) that is paid at any time by a foreign affiliate of a corporation resident in Canada and that would, in the absence of this paragraph, be deemed under subsection (1) to have been, in whole or in part, paid out of the exempt surplus, hybrid surplus or taxable surplus of the affiliate in respect of the corporation is instead deemed to have been paid out of the pre-acquisition surplus of the affiliate in respect of the corporation if
+		- **(i)** the corporation, and each other corporation, if any, of which the affiliate would, at that time, be a foreign affiliate if paragraph (b) of the definition ***equity percentage*** in subsection 95(4) of the Act were read as if the reference in that paragraph to “any corporation” were a reference to “any corporation other than a corporation resident in Canada” and that is, at that time, related to the corporation,
+			- **(A)** where there is no such other corporation, elects in writing under this subparagraph and files the election with the Minister on or before the filing-due date for its taxation year in which the whole dividend is paid, and
+			- **(B)** in any other case, jointly elect in writing under this subparagraph and file the election with the Minister on or before the earliest of the filing-due dates for their taxation years in which the whole dividend is paid,
+		- **(ii)** no shareholder of the affiliate is, at that time, a partnership a member of which is
+			- **(A)** a corporation that would, in the absence of this subparagraph, be eligible to elect under subparagraph (i), or
+			- **(B)** a foreign affiliate of such a corporation, and
+		- **(iii)** no particular person or particular partnership — in respect of which the affiliate would, at that time, be a foreign affiliate if paragraph (b) of the definition ***equity percentage*** in subsection 95(4) of the Act were read in the manner required by subparagraph (i) — has elected under subsection 90(3) of the Act in respect of the distribution that is the whole dividend where
+			- **(A)** in the case of a particular person, the particular person is, or is at that time related to, the corporation, or
+			- **(B)** in the case of a particular partnership, a member of the particular partnership is, or is at that time related to, the corporation.
+
+- **(2.1)** Subsection (2.2) applies if, in respect of a whole dividend paid by a foreign affiliate of a corporation resident in Canada,
+	- **(a)** the corporation determined not to make an election under subparagraph (2)(b)(i) in respect of the whole dividend before the filing-due date specified in the relevant clause of that subparagraph;
+	- **(b)** the corporation demonstrates that the determination was made using reasonable efforts; and
+	- **(c)** the corporation, whether jointly with one or more other corporations or otherwise, files such an election on or before the day that is 10 years after that filing-due date.
+
+- **(2.2)** If this subsection applies and, in the opinion of the Minister, the circumstances are such that it would be just and equitable to permit an election referred to in subsection (2.1) to be filed after the filing-due date specified in the relevant clause of subparagraph (2)(b)(i), that election is deemed to have been filed on that filing-due date.
 
 - **(3)** Notwithstanding subsections (1) and (2), for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit*** and ***taxable surplus*** in subsection 5907(1), any amount designated pursuant to subsection 5900(2) in respect of a dividend paid by a foreign affiliate of a corporation resident in Canada increases the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation and decreases the portion of the whole dividend deemed to have been paid out of the affiliate’s exempt surplus in respect of the corporation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); SOR/97-505, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); SOR/97-505, s. 3; 2013, c. 34, s. 79.
 
 
 
@@ -10987,22 +10721,52 @@ is of
 
 **5902** 
 
-- **(1)** Where at any time a dividend is, by virtue of an election made under subsection 93(1) of the Act in respect of a disposition, deemed to have been received on one or more shares of a class of the capital stock of a particular foreign affiliate of a corporation resident in Canada, the following rules apply:
-	- **(a)** determine the amounts that would be the particular affiliate’s exempt surplus or exempt deficit, taxable surplus or taxable deficit, underlying foreign tax and net surplus in respect of the corporation at that time if
-		- **(i)** each other foreign affiliate of the corporation in which the affiliate had an equity percentage had immediately before that time paid a dividend equal to its net surplus in respect of the corporation immediately before the dividend was paid, and
-		- **(ii)** any dividend referred to in subparagraph (i) that any other foreign affiliate would have received had been received by it immediately before any such dividend that it would have paid;
-	- **(b)** determine the amount that would have been received on the shares (of that class) in respect of which an election is made, if the particular affiliate had at that time paid dividends the aggregate of which on all shares of its capital stock was equal to the amount of its net surplus referred to in paragraph (a); and
-	- **(c)** for the purposes only of subsection 5900(1), in applying the provisions of subsection 5901(1)
-		- **(i)** the particular affiliate’s exempt surplus or exempt deficit, taxable surplus or taxable deficit and underlying foreign tax in respect of the corporation shall be deemed to be the respective amounts thereof referred to in paragraph (a), and
-		- **(ii)** the particular affiliate shall be deemed to have paid a whole dividend at that time on the shares of that class of its capital stock in an amount equal to the product obtained when the aggregate of amounts so deemed by subsection 93(1) of the Act to have been received as dividends on shares of that class is multiplied by the greater of
-			- **(A)** one, and
-			- **(B)** the proportion that the amount of the particular affiliate’s net surplus determined under paragraph (a) is of the amount determined under paragraph (b), except that where the amount determined under paragraph (b) is less than one, the amount determined under paragraph (b) is deemed for the purpose of this clause to be one.
+- **(1)** If at any time a dividend (such time and each such dividend, respectively, referred to in this subsection and subsection (2) as the “dividend time” and an “elected dividend”) is, by virtue of an election made under subsection 93(1) of the Act by a corporation in respect of a disposition, deemed to have been received on a share (each such share referred to in this subsection as an “elected share”) of a class of the capital stock of a particular foreign affiliate of the corporation, the following rules apply:
+	- **(a)** for the purposes of subsection 5900(1), in applying the provisions of subsection 5901(1),
+		- **(i)** the particular affiliate’s exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, underlying foreign tax and net surplus, in respect of the corporation at the dividend time, are deemed to be those amounts that would otherwise be determined immediately before the dividend time if
+			- **(A)** each other foreign affiliate of the corporation in which the affiliate had an equity percentage (within the meaning assigned by subsection 95(4) of the Act) at the dividend time had, immediately before the time that is immediately before the dividend time, paid a dividend equal to its net surplus in respect of the corporation, determined immediately before the time the dividend was paid, and
+			- **(B)** any dividend referred to in clause (A) that any other foreign affiliate would have received had been received by it immediately before any such dividend that it would have paid, and
+		- **(ii)** the particular affiliate is deemed to have paid a whole dividend at the dividend time on the shares of that class of its capital stock in an amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the total of all amounts each of which is the amount of an elected dividend, and
+- **B** is the greater of
+		- **(A)** one, and
+		- **(B)** the quotient determined by the formula
+```
+C/D
+```
+where
+- **C** is the amount of the particular affiliate’s net surplus determined under subparagraph (a)(i), and
+- **D** is the greater of
+		- **(I)** one unit of the currency in which the amount determined for C is expressed, and
+		- **(II)** the amount that would have been received on the elected shares if the particular affiliate had at the dividend time paid dividends, on all shares of its capital stock, the total of which was equal to the amount of its net surplus referred to in subparagraph (a)(i); and
+	- **(b)** subject to paragraph 5905(5)(c), there is to be included, at the dividend time,
+		- **(i)** under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing the particular affiliate’s exempt surplus or exempt deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any elected dividend that is prescribed by paragraph 5900(1)(a) to have been paid out of the exempt surplus of the particular affiliate,
+		- **(i.1)** under subparagraph (vi) of the description of B in the definition ***hybrid surplus*** in subsection 5907(1) in computing the particular affiliate’s hybrid surplus or hybrid deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any elected dividend that is prescribed by paragraph 5900(1)(a.1) to have been paid out of the hybrid surplus of the particular affiliate,
+		- **(i.2)** under subparagraph (iii) of the description of B in the definition ***hybrid underlying tax*** in subsection 5907(1) in computing the particular affiliate’s hybrid underlying tax in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the amount prescribed by paragraph 5900(1)(c.1) to be the foreign tax applicable to the portion of any elected dividend that is prescribed by paragraph 5900(1)(a.1) to have been paid out of the hybrid surplus of the particular affiliate,
+		- **(ii)** under subparagraph (v) of the description of B in the definition ***taxable surplus*** in subsection 5907(1) in computing the particular affiliate’s taxable surplus or taxable deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any elected dividend that is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliate, and
+		- **(iii)** under subparagraph (iii) of the description of B in the definition ***underlying foreign tax*** in subsection 5907(1) in computing the particular affiliate’s underlying foreign tax in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the amount prescribed by paragraph 5900(1)(d) to be the foreign tax applicable to such portion of any elected dividend as is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliate.
 
-- **(2)** For the purposes of paragraphs (1)(a) and (b),
-	- **(a)** in determining the exempt surplus or exempt deficit, the taxable surplus or taxable deficit, the underlying foreign tax and the net surplus of a particular foreign affiliate of a taxpayer resident in Canada in which any other foreign affiliate of the taxpayer has an equity percentage, no amount shall be included in respect of any distribution that would be received by the particular affiliate from such other affiliate; and
-	- **(b)** if any foreign affiliate of a corporation resident in Canada has issued shares of more than one class of its capital stock, the amount that would be paid as a dividend on the shares of any class is such portion of its exempt surplus or exempt deficit and its taxable surplus (including underlying foreign tax applicable) or taxable deficit (and thus net surplus) as, in the circumstances, it might reasonably be expected to have paid on all the shares of that class.
+- **(2)** In this section,
+	- **(a)** for the purpose of paragraph (1)(a),
+		- **(i)** if a particular foreign affiliate of a corporation has an equity percentage (within the meaning assigned by subsection 95(4) of the Act) in another foreign affiliate of the corporation that has an equity percentage in the particular affiliate, the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, underlying foreign tax and net surplus of, and the amount of a dividend paid or received by, the particular affiliate are to be determined in a manner that is
+			- **(A)** reasonable in the circumstances, and
+			- **(B)** consistent with the results that would be obtained if a series of actual dividends had been paid and received by the foreign affiliates of the corporation that are relevant to the determination, and
+		- **(ii)** if any foreign affiliate of a corporation resident in Canada has issued shares of more than one class of its capital stock, the amount that would be paid as a dividend on the shares of any class is the portion of its net surplus that, in the circumstances, it might reasonably be expected to have paid on all the shares of the class, and
+	- **(b)** the specified adjustment factor in respect of a disposition is the percentage determined by the formula
+```
+A/B
+```
+where
+- **A** is
+	- **(i)** if the elected dividend is received by the corporation, 100 per cent, and
+	- **(ii)** if the elected dividend is received by another foreign affiliate of the corporation, the surplus entitlement percentage of the corporation in respect of the other affiliate immediately before the dividend time, and
+- **B** is the surplus entitlement percentage of the corporation in respect of the particular affiliate immediately before the dividend time.
 
-- **(3)** Where an election under subsection 93(1) of the Act is made by a corporation resident in Canada in respect of the disposition of a share of the capital stock of a foreign affiliate of the corporation, no adjustment shall be made to the affiliate’s exempt surplus, exempt deficit, taxable surplus, taxable deficit or underlying foreign tax in respect of the corporation except as provided in subsection (4) and subsection 5905(2).
+- **(3)** [Repealed, 2013, c. 34, s. 41]
 
 - **(4)** [Repealed, SOR/85-176, s. 1]
 
@@ -11013,10 +10777,10 @@ is of
 		- **(ii)** in respect of a share disposed of by another foreign affiliate of the corporation, the day on or before which the corporation’s return of income for its taxation year, in which the taxation year of the foreign affiliate in which the disposition was made ends, is required to be filed pursuant to subsection 150(1) of the Act,
 as the case may be.
 
-- **(6)** Where at any time a corporation resident in Canada is deemed by virtue of subsection 93(1.1) of the Act to have made an election under subsection 93(1) of the Act in respect of a share of the capital stock of a particular foreign affiliate of the corporation disposed of by another foreign affiliate of the corporation, the amount deemed to have been designated in the election is hereby prescribed to be the lesser of
+- **(6)** If at any time a corporation resident in Canada is deemed under subsection 93(1.11) of the Act to have made an election under subsection 93(1) of the Act in respect of a disposition of a share of the capital stock of a particular foreign affiliate of the corporation, the prescribed amount is the lesser of
 	- **(a)** the capital gain, if any, otherwise determined in respect of the disposition of the share; and
-	- **(b)** the amount that could reasonably be expected to have been received in respect of the share if the particular affiliate had at that time paid dividends the aggregate of which on all shares of its capital stock was equal to the amount determined under paragraph (1)(a) to be its net surplus in respect of the corporation for the purposes of the election.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 1; SOR/82-910, s. 1; SOR/85-176, s. 1; SOR/89-135, s. 1; SOR/94-686, s. 79(F); SOR/97-505, s. 4.
+	- **(b)** the amount that would reasonably be expected to have been received in respect of the share if the particular affiliate had at that time paid dividends, on all shares of its capital stock, the total of which was equal to the amount determined under subparagraph (1)(a)(i) to be its net surplus in respect of the corporation for the purposes of the election.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 1; SOR/82-910, s. 1; SOR/85-176, s. 1; SOR/89-135, s. 1; SOR/94-686, s. 79(F); SOR/97-505, s. 4; 2013, c. 34, ss. 41, 80.
 
 
 
@@ -11027,24 +10791,82 @@ as the case may be.
 
 **5903** 
 
-- **(1)** For the purpose of the description of F in the definition ***foreign accrual property income*** in subsection 95(1) of the Act, the amount prescribed to be the deductible loss of a particular foreign affiliate of a taxpayer for a taxation year and the five immediately preceding taxation years (each of which preceding taxation years is referred to in this subsection as a “preceding year”) is the amount, if any, by which
-	- **(a)** the total of all amounts each of which is the amount, if any, determined in respect of the particular affiliate in respect of a preceding year during which it was a controlled foreign affiliate of the taxpayer or of a person described in any of subparagraphs 95(2)(f)(iv) to (vii) of the Act, by which
-		- **(i)** the total of the amounts determined for D and E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the particular affiliate for the preceding year
+- **(1)** For the purposes of the description of F in the definition ***foreign accrual property income*** in subsection 95(1) of the Act, subject to subsection (2), the prescribed amount for the year (referred to in this subsection and subsection (2) as the “particular year”) is the total of all amounts each of which is a portion designated for the particular year by the taxpayer of the foreign accrual property loss of the affiliate for a taxation year of the affiliate that is
+	- **(a)** one of the 20 taxation years of the affiliate that immediately precede the particular year; or
+	- **(b)** one of the three taxation years of the affiliate that immediately follow the particular year.
+
+- **(2)** For the purposes of this subsection and subsection (1),
+	- **(a)** a portion of a foreign accrual property loss of the affiliate for any taxation year of the affiliate may be designated for the particular year only to the extent that the foreign accrual property loss exceeds the total of all amounts each of which is a portion, of the foreign accrual property loss, designated by the taxpayer for a taxation year of the affiliate that precedes the particular year;
+	- **(b)** no portion of the affiliate’s foreign accrual property loss for a taxation year of the affiliate is to be designated for the particular year until the affiliate’s foreign accrual property losses for the preceding taxation years referred to in paragraph (1)(a) have been fully designated; and
+	- **(c)** if any person or partnership that was, at the end of a taxation year (referred to in this paragraph as the “relevant loss year”) of the affiliate, a relevant person or partnership in respect of the taxpayer designates for a taxation year (referred to in this paragraph as the “relevant claim year”) of the affiliate a particular portion of the affiliate’s foreign accrual property loss for the relevant loss year, there is deemed to have been designated for the relevant claim year by the taxpayer the portion of that loss that is the greater of
+		- **(i)** the particular portion, and
+		- **(ii)** the greatest of the portions of that loss that are so designated by any other relevant persons or partnerships in respect of the taxpayer.
+
+- **(3)** For the purposes of this section, and subject to subsection (4), ***foreign accrual property loss*** of the affiliate for a taxation year of the affiliate means
+	- **(a)** where, at the end of the year, the affiliate is a controlled foreign affiliate of a person or partnership that is, at the end of the year, a relevant person or partnership in respect of the taxpayer, the amount, if any, determined by the formula
+```
+J – (K + L + M + N)
+```
+where
+- **J** is the amount determined for D in the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the affiliate for the year,
+- **K** is the amount, if any, by which
+	- **(i)** the amount determined for A in that formula in respect of the affiliate for the yearexceeds
+	- **(ii)** the amount determined for H in that formula in respect of the affiliate for the year,
+- **L** is the amount, if any, by which
+	- **(i)** the amount determined for B in that formula in respect of the affiliate for the yearexceeds
+	- **(ii)** the total of
+	- **(A)** the amount determined for E in that formula in respect of the affiliate for the year, and
+	- **(B)** the amount determined for F.1 in that formula in respect of the affiliate for the year,
+- **M** is the amount determined for C in that formula in respect of the affiliate for the year, and
+- **N** is the amount, if any, by which
+	- **(i)** the total of
+	- **(A)** the amount determined for A.1 in that formula in respect of the affiliate for the year, and
+	- **(B)** the amount determined for A.2 in that formula in respect of the affiliate for the yearexceeds
+	- **(ii)** the amount determined for G in that formula in respect of the affiliate for the year; and
+	- **(b)** in any other case, nil.
+
+- **(4)** In computing under subsection (3) the foreign accrual property loss of the affiliate for a taxation year, if the affiliate or another corporation receives a payment described in subsection 5907(1.3) from a non-resident corporation that is, at the time of the payment, a foreign affiliate of a relevant person or partnership in respect of the taxpayer and any portion of the payment can reasonably be considered to relate to a loss or portion of a loss of the affiliate for the year described in the description of D in the definition ***foreign accrual property income*** in subsection 95(1) of the Act, the amount of the loss or portion of the loss is deemed to be nil.
+
+- **(5)** For the purposes of this section and section 5903.1,
+	- **(a)** if paragraph 95(2)(d.1) of the Act applies to a foreign merger, the new foreign corporation referred to in that paragraph is, except in the determination of the foreign accrual property income of a foreign affiliate predecessor referred to in that paragraph, deemed to be the same corporation as, and a continuation of, each foreign affiliate predecessor; and
+	- **(b)** if paragraph 95(2)(e) of the Act applies to a liquidation and dissolution, of a disposing affiliate referred to in that paragraph, that is a designated liquidation and dissolution of the disposing affiliate, the shareholder affiliate referred to in that paragraph is, except in the determination of the foreign accrual property income of the disposing affiliate, deemed to be the same corporation as, and a continuation of, the disposing affiliate.
+
+- **(6)** In this section and section 5903.1, a ***relevant person or partnership***, in respect of the taxpayer at any time, means the taxpayer or a person (other than a designated acquired corporation of the taxpayer), or a partnership, that is at that time
+	- **(a)** a person (other than a partnership) that is resident in Canada and does not, at that time, deal at arm’s length (otherwise than because of a right referred to in paragraph 251(5)(b) of the Act) with the taxpayer;
+	- **(b)** an antecedent corporation of a relevant person or partnership in respect of the taxpayer;
+	- **(c)** a partnership a member of which is at that time a relevant person or partnership in respect of the taxpayer under this subsection; or
+	- **(d)** where paragraph (1)(b) is being applied, a corporation of which the taxpayer is an antecedent corporation.
+
+- **(7)** For the purposes of paragraphs (6)(a) to (d),
+	- **(a)** if a person or partnership (referred to in this paragraph as the “relevant person”) is not dealing at arm’s length (otherwise than because of a right referred to in paragraph 251(5)(b) of the Act) with another person or partnership (referred to in this paragraph as the “particular person”) at a particular time, the relevant person is deemed to have existed and not to have dealt at arm’s length with the particular person, nor with each antecedent corporation (other than a designated acquired corporation of the particular person) of the particular person, throughout the period that began when the particular person or the antecedent corporation, as the case may be, came into existence and that ends at the particular time; and
+	- **(b)** where paragraph (1)(b) is being applied, if a corporation of which a particular person (other than a designated acquired corporation of the corporation) is an antecedent corporation is not dealing at arm’s length (otherwise than because of a right referred to in paragraph 251(5)(b) of the Act) with another person or partnership at any time, the particular person is deemed to exist and not to be dealing at arm’s length with the other person or the partnership, as the case may be, at that time.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 2; SOR/85-176, s. 2; SOR/89-135, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 5; 2013, c. 34, ss. 42, 81.
+
+
+
+
+**5903.1** 
+
+- **(1)** For the purposes of the description of F.1 in the definition ***foreign accrual property income*** in subsection 95(1) of the Act, subject to subsection (2), the prescribed amount for the year (referred to in this subsection and subsection (2) as the “particular year”) is the total of all amounts each of which is a portion designated for the particular year by the taxpayer of the foreign accrual capital loss of the affiliate for a taxation year of the affiliate that is
+	- **(a)** one of the twenty taxation years of the affiliate that immediately precede the particular year; or
+	- **(b)** one of the three taxation years of the affiliate that immediately follow the particular year.
+
+- **(2)** For the purposes of this subsection and subsection (1),
+	- **(a)** a portion of a foreign accrual capital loss of the affiliate for any taxation year of the affiliate may be designated for the particular year only to the extent that the foreign accrual capital loss exceeds the total of all amounts each of which is a portion, of the foreign accrual capital loss, designated by the taxpayer for a taxation year of the affiliate that precedes the particular year;
+	- **(b)** no portion of the foreign accrual capital loss of the affiliate for a taxation year of the affiliate is to be designated for the particular year until the foreign accrual capital losses of the affiliate for the preceding taxation years referred to in paragraph (1)(a) have been fully designated; and
+	- **(c)** if any person or partnership that was, at the end of a taxation year (referred to in this paragraph as the “relevant loss year”) of the affiliate, a relevant person or partnership in respect of the taxpayer designates for a taxation year (referred to in this paragraph as the “relevant claim year”) of the affiliate a particular portion of the foreign accrual capital loss of the affiliate for the relevant loss year, there is deemed to have been designated for the relevant claim year by the taxpayer the portion of that loss that is the greater of
+		- **(i)** the particular portion, and
+		- **(ii)** the greatest of the portions of that loss that are so designated by any other relevant persons or partnerships in respect of the taxpayer.
+
+- **(3)** For the purposes of this section, and subject to subsection (4), ***foreign accrual capital loss*** of the affiliate for a taxation year of the affiliate means
+	- **(a)** where, at the end of the year, the affiliate is a controlled foreign affiliate of a person or partnership that is, at the end of the year, a relevant person or partnership in respect of the taxpayer, the amount, if any, by which
+		- **(i)** the amount determined under paragraph (a) of the description of E in the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the affiliate for the year
 exceeds
-		- **(ii)** the total of the amounts determined for A, B and C in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the particular affiliate for the preceding year
-exceeds the total of
-	- **(b)** the total of all amounts each of which is an amount determined in respect of the particular affiliate in respect of a preceding year during which it was a controlled foreign affiliate of the taxpayer or of a person described in any of subparagraphs 95(2)(f)(iv) to (vii) of the Act and equal to the lesser of
-		- **(i)** the amount that would be determined for F in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the particular affiliate for the preceding year if that amount did not take into account any amount determined for any of A, B, C, D or E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the particular affiliate for any taxation year that is not a preceding taxation year, and
-		- **(ii)** the amount that would be the foreign accrual property income of the particular affiliate for the preceding year if the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act were read without reference to the variable F; and
-	- **(c)** where a payment has been received by the particular affiliate and the payment can reasonably be considered to relate to a payment described in subsection 5907(1.3) made by another foreign affiliate of the taxpayer in respect of a loss, or any portion of a loss, of the particular affiliate described in the description of D or E of the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of any preceding year of the particular affiliate, the amount of that loss or portion.
+		- **(ii)** the amount determined for E in that formula in respect of the affiliate for the year; and
+	- **(b)** in any other case, nil.
 
-- **(2)** For the purpose of subsection (1), each amount referred to in paragraph (1)(c) in respect of a controlled foreign affiliate of a taxpayer resident in Canada that is not otherwise determined in Canadian currency shall be converted to Canadian currency at the rate of exchange prevailing on the last day of the affiliate’s taxation year in respect of which the amount determined under subsection (1) is being used to determine the foreign affiliate’s foreign accrual property income as defined in subsection 95(1) of the Act.
-
-- **(3)** Where
-	- **(a)** there has been a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) of two or more foreign affiliates of a taxpayer resident in Canada in respect of each of which the taxpayer’s surplus entitlement percentage was not less than 90 per cent immediately before the merger (in this subsection referred to as “predecessor affiliates”) to form a new foreign affiliate in respect of which the taxpayer’s surplus entitlement percentage immediately after the merger was not less than 90 per cent (in this subsection referred to as the “successor affiliate”), or
-	- **(b)** there has been a dissolution of a foreign affiliate (in this subsection referred to as the “predecessor affiliate”) of a taxpayer resident in Canada and on the dissolution property of the predecessor affiliate, the fair market value of which was not less than 90 per cent of the fair market value of all property of the predecessor affiliate immediately before the dissolution, was distributed to another foreign affiliate (in this subsection referred to as the “successor affiliate”) of the taxpayer,
-the successor affiliate shall, in respect of such part of the amount determined under subsection (1) to be the deductible loss of a predecessor affiliate at the time of the foreign merger or dissolution as may reasonably be considered to have arisen while the taxpayer, a person or persons referred to in any of subparagraphs 95(2)(f)(iv) to (vii) of the Act, or the taxpayer together with such a person or persons, had a surplus entitlement percentage in respect of such predecessor affiliate that was not less than 90 per cent, be considered to be the same corporation as, and a continuation of, such predecessor affiliate.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 2; SOR/85-176, s. 2; SOR/89-135, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 5.
+- **(4)** In computing under subsection (3) the foreign accrual capital loss of the affiliate for a taxation year, if the affiliate or another corporation receives a payment described in subsection 5907(1.3) from a non-resident corporation that is, at the time of the payment, a foreign affiliate of a relevant person or partnership in respect of the taxpayer and any portion of the payment can reasonably be considered to relate to an allowable capital loss or a portion of an allowable capital loss of the affiliate for the year described in the description of E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act, the amount of the loss or portion of the loss is deemed to be nil.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 82.
 
 
 
@@ -11063,7 +10885,15 @@ the successor affiliate shall, in respect of such part of the amount determined 
 			- **(A)** the aggregate of the amounts determined under subparagraph (i) for each class of the capital stock of the affiliateis of
 			- **(B)** the aggregate of the distribution entitlements of all the issued shares of all classes of the capital stock of the affiliate
 and the proportion determined under subparagraph (ii) when expressed as a percentage is that person’s direct equity percentage in the affiliate; and
-	- **(c)** the direct equity percentage of a person in any foreign affiliate of the taxpayer, for which the total of the distribution entitlements of all the shares of all classes of the capital stock of the affiliate was not greater than nil, was determined by the rules contained in the definition ***direct equity percentage*** in subsection 95(4) of the Act.
+	- **(c)** the direct equity percentage of a person in any foreign affiliate of the taxpayer, for which the total of the distribution entitlements of all the shares of all classes of the capital stock of the affiliate would not, in the absence of this paragraph, be greater than nil, was determined on the assumption that the amount determined under subparagraph (2)(b)(i) were the greater of
+		- **(i)** the amount of the affiliate’s retained earnings, if any, determined at the end of the taxation year under accounting principles that are relevant to the affiliate for the taxation year, and
+		- **(ii)** the amount determined by the formula
+```
+ A × B
+```
+where
+- **A** is the amount of the affiliate’s total assets determined at the end of the taxation year under accounting principles that are relevant to the affiliate for the taxation year, and
+- **B** is 25%.
 
 - **(2)** For the purposês of this section, the distribution entitlement of all the shares of a class of the capital stock of a foreign affiliate of the taxpayer at the end of its taxation year is the aggregate of
 	- **(a)** the distributions made during the year by the affiliate to holders of shares of that class; and
@@ -11074,13 +10904,15 @@ and the proportion determined under subparagraph (ii) when expressed as a percen
 			- **(B)** each such amount that the controlled foreign affiliate would receive from any other controlled foreign affiliate of the taxpayer in which it had an equity percentage.
 
 - **(3)** For the purposes of subsection (2),
-	- **(a)** the net surplus of a foreign affiliate of a taxpayer who is an individual, in respect of that individual, shall be computed as if that individual were a corporation resident in Canada;
-	- **(b)** in computing the net surplus of a particular foreign affiliate of a taxpayer resident in Canada in which any other foreign affiliate of the taxpayer has an equity percentage, no amount shall be included in respect of any distribution that would be received by the particular affiliate from such other affiliate;
+	- **(a)** the net surplus of a foreign affiliate of a person resident in Canada is, in respect of that person, to be computed as if that person were a corporation resident in Canada;
+	- **(b)** if a particular foreign affiliate of a corporation has an equity percentage (within the meaning assigned by subsection 95(4) of the Act) in another foreign affiliate of the corporation that has an equity percentage in the particular affiliate, the net surplus of, or the amount of a distribution received by, the particular affiliate is to be determined in a manner that is
+		- **(i)** reasonable in the circumstances, and
+		- **(ii)** consistent with the results that would be obtained if a series of actual distributions had been made and received by the foreign affiliates of the corporation that are relevant to the determination;
 	- **(c)** if any controlled foreign affiliate of a taxpayer resident in Canada has issued shares of more than one class of its capital stock, the amount that would be distributed to the holders of shares of any class is such portion of the amount determined under subparagraph (2)(b)(ii) as, in the circumstances, it might reasonably be expected to distribute to the holders of those shares; and
 	- **(d)** in determining the distribution entitlement
 		- **(i)** of a class of shares of the capital stock of a foreign affiliate that is entitled to cumulative dividends, the amount of any distribution referred to in paragraph (2)(a) shall be deemed not to include any distribution in respect of such class that is, or would, if it were made, be referable to profits of a preceding taxation year, and
 		- **(ii)** of any other class of shares of the capital stock of the affiliate, the net surplus of the affiliate at the end of the year referred to in subparagraph (2)(b)(i) shall be deemed not to have been reduced by any distribution described in subparagraph (i) with respect to a class of shares that is entitled to cumulative dividends to the extent that the distribution was referable to profits of a preceding taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-913, s. 1; SOR/80-141, s. 3; SOR/94-686, s. 79(F); SOR/97-505, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-913, s. 1; SOR/80-141, s. 3; SOR/94-686, s. 79(F); SOR/97-505, s. 6; 2013, c. 34, ss. 43, 83.
 
 
 
@@ -11091,98 +10923,228 @@ and the proportion determined under subparagraph (ii) when expressed as a percen
 
 **5905** 
 
-- **(1)** Where at any time, other than in the course of a transaction to which subsection (2) or (5) applies, a corporation resident in Canada or a foreign affiliate of such a corporation acquires in any manner whatever shares of the capital stock of another corporation that was a foreign affiliate of the corporation immediately before that time (in this subsection referred to as the “acquired affiliate”) and as a result thereof the surplus entitlement percentage of the corporation in respect of the acquired affiliate increases, for the purposes of this Part, the exempt surplus or exempt deficit, the taxable surplus or taxable deficit and the underlying foreign tax, in respect of the corporation, of the acquired affiliate and of each other foreign affiliate of the corporation in which the acquired affiliate has an equity percentage (in this subsection referred to as the “other affiliate”), other than an acquired affiliate or other affiliate in respect of which subsection (8) applies, shall at that time be reduced to the proportion of the amount thereof otherwise determined that
-	- **(a)** the surplus entitlement percentage immediately before that time of the corporation in respect of the acquired affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the acquired affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately before that time,
-is of
-	- **(b)** the surplus entitlement percentage immediately after that time of the corporation in respect of the acquired affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the acquired affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately after that time,
-and, for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), those reduced amounts are referred to as the opening exempt deficit, opening exempt surplus, opening taxable deficit, opening taxable surplus and opening underlying foreign tax, as the case may be, of each of those affiliates in respect of the corporation.
+- **(1)** If, at any time, there is an acquisition or a disposition of shares of the capital stock of a particular foreign affiliate of a corporation resident in Canada and the surplus entitlement percentage of the corporation in respect of the particular foreign affiliate or any other foreign affiliate (the particular affiliate and those other affiliates each being referred to in this subsection as a “relevant affiliate”) of the corporation in which the particular affiliate has an equity percentage (within the meaning assigned by subsection 95(4) of the Act) changes, for the purposes of the definitions ***exempt surplus***, ***hybrid surplus***, ***hybrid underlying tax***, ***taxable surplus***, and ***underlying foreign tax*** in subsection 5907(1), each of the opening exempt surplus or opening exempt deficit, opening hybrid surplus or opening hybrid deficit, opening hybrid underlying tax, opening taxable surplus or opening taxable deficit, and opening underlying foreign tax, as the case may be, of the relevant affiliate in respect of the corporation is, except where the acquisition or disposition occurs in a transaction to which paragraph (3)(a) or subsection (5) or (5.1) applies, the amount determined at that time by the formula
+```
+A × B/C
+```
+where
+- **A** is the amount of that surplus, deficit or tax, as the case may be, as otherwise determined at that time;
+- **B** is the corporation’s surplus entitlement percentage immediately before that time in respect of the relevant affiliate; and
+- **C** is the corporation’s surplus entitlement percentage immediately after that time in respect of the relevant affiliate.
 
-- **(2)** Where at any time a foreign affiliate of a corporation resident in Canada redeems, acquires or cancels in any manner whatever (otherwise than by way of a winding-up) any of the shares of any class of its capital stock (other than shares redeemed or cancelled that the affiliate had previously purchased or acquired and that were held by it until that time and in respect of which an adjustment has previously been made under this subsection or subsection (1) as it read prior to November 13, 1981), the following rules apply:
-	- **(a)** where, by virtue of an election made by the corporation under subsection 93(1) of the Act, a dividend is deemed to have been received on one or more of the shares of the foreign affiliate that were disposed of by the corporation or another foreign affiliate of the corporation (in this paragraph referred to as the “transferor”) by virtue of the redemption, acquisition or cancellation of such share or shares by the foreign affiliate, for the purposes of the adjustment required by paragraph (b),
-		- **(i)** immediately before that time there is included under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing the affiliate’s exempt surplus or exempt deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any such dividend that is prescribed by paragraph 5900(1)(a) to have been paid out of the exempt surplus of the affiliate,
-		- **(ii)** immediately before that time there is included under subparagraph (v) of the description of B in the definition ***taxable surplus*** in subsection 5907(1) in computing the affiliate’s taxable surplus or taxable deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any such dividend that is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the affiliate, and
-		- **(iii)** immediately before that time there shall be deducted from the amount, if any, otherwise determined to be the underlying foreign tax of the affiliate in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the aggregate of all amounts each of which is the amount prescribed by paragraph 5900(1)(d) to be the foreign tax applicable to such portion of any such dividend as is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the affiliate,
-and, for the purposes of subparagraphs (i) to (iii), the specified adjustment factor in respect of the disposition is the amount equal to the quotient obtained when,
-		- **(iv)** where the transferor is the corporation, 100 per cent, and
-		- **(v)** where the transferor is another foreign affiliate of the corporation, the surplus entitlement percentage of the corporation in respect of the transferor immediately before the disposition,
-is divided by
-		- **(vi)** the surplus entitlement percentage of the corporation in respect of the foreign affiliate immediately before the disposition;
-	- **(b)** the exempt surplus or exempt deficit, the taxable surplus or taxable deficit and the underlying foreign tax, in respect of the corporation, of the affiliate and of each other foreign affiliate of the corporation in which the affiliate has an equity percentage (in this subsection referred to as the “other affiliate”) shall at that time be adjusted to the proportion of the amount thereof otherwise determined that
-		- **(i)** the surplus entitlement percentage immediately before that time of the corporation in respect of the affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately before that time,
-is of
-		- **(ii)** the surplus entitlement percentage immediately after that time of the corporation in respect of the affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately after that time; and
-	- **(c)** for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), the amounts determined under paragraph (b) are referred to as the opening exempt deficit, opening exempt surplus, opening taxable deficit, opening taxable surplus and opening underlying foreign tax, as the case may be, of the affiliate and each other affiliate in respect of the corporation resident in Canada.
+- **(2)** [Repealed, 2013, c. 34, s. 44]
 
-- **(3)** Where at any time a foreign affiliate of a corporation resident in Canada has been formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) of two or more corporations (each of which in this subsection and subsection (4) is referred to as a “predecessor corporation”), for the purposes of this Part, the following rules apply:
-	- **(a)** in respect of the foreign affiliate,
-		- **(i)** its opening exempt surplus in respect of the corporation shall be the amount, if any, by which the aggregate of all amounts each of which is the exempt surplus of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger exceeds the aggregate of all amounts each of which is the exempt deficit of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger,
-		- **(ii)** its opening exempt deficit in respect of the corporation shall be the amount, if any, by which the aggregate of all amounts each of which is the exempt deficit of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger exceeds the aggregate of all amounts each of which is the exempt surplus of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger,
-		- **(iii)** its opening taxable surplus in respect of the corporation shall be the amount, if any, by which the aggregate of all amounts each of which is the taxable surplus of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger exceeds the aggregate of all amounts each of which is the taxable deficit of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger,
-		- **(iv)** its opening taxable deficit in respect of the corporation shall be the amount, if any, by which the aggregate of all amounts each of which is the taxable deficit of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger exceeds the aggregate of all amounts each of which is the taxable surplus of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger, and
-		- **(v)** its opening underlying foreign tax in respect of the corporation shall be the aggregate of all amounts each of which is the underlying foreign tax of a predecessor corporation that was a foreign affiliate of the corporation immediately before the merger; and
-	- **(b)** in respect of any other foreign affiliate of the corporation, other than a predecessor corporation, in which a predecessor corporation had an equity percentage immediately before the merger, the exempt surplus or exempt deficit, the taxable surplus or taxable deficit and the underlying foreign tax of the other affiliate in respect of the corporation shall at that time be adjusted to the proportion of the amount thereof otherwise determined that
-		- **(i)** the surplus entitlement percentage immediately before that time of the corporation in respect of the other affiliate, determined on the assumption that the taxation year of the other affiliate that otherwise would have included that time had ended immediately before that time,
-is of
-		- **(ii)** the surplus entitlement percentage immediately after that time of the corporation in respect of the other affiliate, determined on the assumption that the taxation year of the other affiliate that otherwise would have included that time had ended immediately after that time,
-and, for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), the adjusted amounts are referred to as the opening exempt deficit, opening exempt surplus, opening taxable deficit, opening taxable surplus and opening underlying foreign tax, as the case may be, of the other affiliate in respect of the corporation resident in Canada.
+- **(3)** If at any time (referred to in this subsection as the “merger time”) a foreign affiliate (referred to in this subsection as the “merged affiliate”) of a corporation resident in Canada has been formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) of two or more corporations (referred to individually in this subsection as a “predecessor corporation”), the following rules apply:
+	- **(a)** for the purposes of the definitions ***exempt surplus***, ***hybrid surplus***, ***hybrid underlying tax***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), as they apply in respect of the merged affiliate,
+		- **(i)** the merged affiliate’s opening exempt surplus, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the exempt surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the exempt deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(ii)** the merged affiliate’s opening exempt deficit, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the exempt deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the exempt surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(ii.1)** the merged affiliate’s opening hybrid surplus, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the hybrid surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the hybrid deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(ii.2)** the merged affiliate’s opening hybrid deficit, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the hybrid deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the hybrid surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(ii.3)** the merged affiliate’s opening hybrid underlying tax in respect of the corporation shall be the total of all amounts each of which is the hybrid underlying tax of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(iii)** the merged affiliate’s opening taxable surplus, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the taxable surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the taxable deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time,
+		- **(iv)** the merged affiliate’s opening taxable deficit, in respect of the corporation, shall be the amount, if any, by which the total of all amounts each of which is the taxable deficit of a predecessor corporation, in respect of the corporation, immediately before the merger time exceeds the total of all amounts each of which is the taxable surplus of a predecessor corporation, in respect of the corporation, immediately before the merger time, and
+		- **(v)** the merged affiliate’s opening underlying foreign tax in respect of the corporation shall be the total of all amounts each of which is the underlying foreign tax of a predecessor corporation, in respect of the corporation, immediately before the merger time;
+	- **(b)** for the purposes of paragraph (a),
+		- **(i)** each of the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit and underlying foreign tax, in respect of the corporation, of each predecessor corporation immediately before the merger time is deemed to be the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the amount of that surplus, deficit or tax, as the case may be, as otherwise determined,
+- **B** is the surplus entitlement percentage of the corporation immediately before the merger time in respect of the predecessor corporation, and
+- **C** is the percentage that would be the surplus entitlement percentage of the corporation immediately after the merger time in respect of the merged affiliate if the merged affiliate’s net surplus were the total of all amounts each of which is the net surplus of a predecessor corporation immediately before the merger time, but
+		- **(ii)** the values for A, B and C in the formula in subparagraph (i) shall take into account the application of paragraph 5902(1)(b) and subsection 5907(8) in respect of the merger; and
+	- **(c)** in respect of any foreign affiliate (other than a predecessor corporation) of the corporation in which a predecessor corporation had an equity percentage (within the meaning assigned by subsection 95(4) of the Act) immediately before the merger time, for the purposes of subsection (1), there is deemed to be an acquisition or a disposition of shares of the capital stock of that affiliate at the merger time.
 
-- **(4)** For the purposes of paragraph (3)(a), the exempt surplus, exempt deficit, taxable surplus, taxable deficit and underlying foreign tax of each predecessor corporation immediately before the foreign merger shall be deemed to be the proportion of the amount thereof otherwise determined that
-	- **(a)** the surplus entitlement percentage of the corporation resident in Canada immediately before the merger in respect of the predecessor corporation, determined on the assumption that the taxation year of the predecessor corporation that otherwise would have included the time of the merger had ended immediately before that time,
-is of
-	- **(b)** the percentage that would be the surplus entitlement percentage of the corporation resident in Canada immediately after the merger in respect of the foreign affiliate of the corporation formed as a result of the merger if the net surplus of such foreign affiliate were the aggregate of all amounts, each of which is the net surplus of a predecessor corporation immediately before the merger.
+- **(4)** [Repealed, 2013, c. 34, s. 44]
 
-- **(5)** Where at any time
-	- **(a)** there is a disposition by a corporation resident in Canada (in this subsection referred to as the “predecessor corporation”) of any of the shares owned by it of the capital stock of a particular foreign affiliate of it to a taxable Canadian corporation with which the predecessor corporation was not dealing at arm’s length (in this subsection referred to as the “acquiring corporation”),
-	- **(b)** there is an amalgamation, to which section 87 of the Act applies, of two or more corporations (each of which in this subsection is referred to as a “predecessor corporation”) to form a new corporation (in this subsection referred to as the “acquiring corporation”) as a result of which shares of the capital stock of a particular foreign affiliate of a predecessor corporation become the property of the acquiring corporation, or
-	- **(c)** there is a winding-up, to which subsection 88(1) of the Act applies, of a corporation (in this subsection referred to as the “predecessor corporation”) into another corporation (in this subsection referred to as the “acquiring corporation”) as a result of which shares of the capital stock of a particular foreign affiliate of the predecessor corporation become the property of the acquiring corporation,
-the following rules apply for the purposes of this Part in respect of the particular affiliate and each other foreign affiliate of the predecessor corporation in which the particular affiliate has an equity percentage:
-	- **(d)** its opening exempt surplus in respect of the acquiring corporation shall be the amount, if any, by which the aggregate of its exempt surplus in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c) exceeds the aggregate of its exempt deficit in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c);
-	- **(e)** its opening exempt deficit in respect of the acquiring corporation shall be the amount, if any, by which the aggregate of its exempt deficit in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c) exceeds the aggregate of its exempt surplus in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c);
-	- **(f)** its opening taxable surplus in respect of the acquiring corporation shall be the amount, if any, by which the aggregate of its taxable surplus in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c) exceeds the aggregate of its taxable deficit in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c);
-	- **(g)** its opening taxable deficit in respect of the acquiring corporation shall be the amount, if any, by which the aggregate of its taxable deficit in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c) exceeds the aggregate of its taxable surplus in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c); and
-	- **(h)** its opening underlying foreign tax in respect of the acquiring corporation shall be the aggregate of its underlying foreign tax in respect of each predecessor corporation and in respect of the acquiring corporation immediately before any of the transactions referred to in paragraph (a), (b) or (c).
+- **(5)** If there is, at any time, a disposition by a corporation (referred to in this subsection as the “disposing corporation”) resident in Canada of any of the shares (referred to in this subsection as the “disposed shares”) of the capital stock of a particular foreign affiliate of the disposing corporation to a taxable Canadian corporation (referred to in this subsection as the “acquiring corporation”) with which the disposing corporation is not dealing at arm’s length,
+	- **(a)** each of the opening exempt surplus or opening exempt deficit, opening hybrid surplus or opening hybrid deficit, opening hybrid underlying tax, opening taxable surplus or opening taxable deficit, and opening underlying foreign tax, in respect of the acquiring corporation, of the particular affiliate and of each foreign affiliate of the disposing corporation in which the particular affiliate has, immediately before that time, an equity percentage (within the meaning assigned by subsection 95(4) of the Act) is deemed to be the amount, if any,
+		- **(i)** in the case of its opening exempt surplus, by which the total of its exempt surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its exempt deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(ii)** in the case of its opening exempt deficit, by which the total of its exempt deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its exempt surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(ii.1)** in the case of its opening hybrid surplus, by which the total of its hybrid surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its hybrid deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(ii.2)** in the case of its opening hybrid deficit, by which the total of its hybrid deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its hybrid surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(ii.3)** in the case of its opening hybrid underlying tax, that is the total of its hybrid underlying tax in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(iii)** in the case of its opening taxable surplus, by which the total of its taxable surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its taxable deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time,
+		- **(iv)** in the case of its opening taxable deficit, by which the total of its taxable deficit in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, exceeds the total of its taxable surplus in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time, and
+		- **(v)** in the case of its opening underlying foreign tax, that is the total of its underlying foreign tax in respect of each of the disposing corporation and the acquiring corporation, determined immediately before that time;
+	- **(b)** for the purposes of paragraph (a), each of the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, and underlying foreign tax of an affiliate in respect of the disposing corporation and the acquiring corporation, determined immediately before that time, is deemed to be the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the amount of that surplus, deficit or tax, as the case may be, as determined without reference to this subsection but taking into account the application of subparagraph (c)(i), if applicable,
+- **B** is the surplus entitlement percentage immediately before that time of the disposing corporation or the acquiring corporation, as the case may be, in respect of the affiliate, determined as if the disposed shares were the only shares owned by the disposing corporation immediately before that time, and
+- **C** is the surplus entitlement percentage immediately after that time of the acquiring corporation in respect of the affiliate;
+	- **(c)** if the disposing corporation makes an election under subsection 93(1) of the Act in respect of the disposed shares,
+		- **(i)** for the purposes of paragraph (b), the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, and underlying foreign tax of an affiliate in respect of the disposing corporation, as determined without reference to this subsection, immediately before that time, shall be adjusted in accordance with paragraph 5902(1)(b) as if the disposing corporation’s surplus entitlement percentage that is referred to in the description of B in paragraph 5902(2)(b) were determined as if the disposed shares were the only shares owned by the disposing corporation immediately before that time, and
+		- **(ii)** no adjustment shall be made to the amount of the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, or underlying foreign tax of an affiliate in respect of the disposing corporation under paragraph 5902(1)(b) other than for the purpose of paragraph (b); and
+	- **(d)** for greater certainty, no adjustment shall be made under subsection (1) to the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, or underlying foreign tax of an affiliate in respect of the disposing corporation.
 
-- **(6)** For the purposes of subsection (5), the following rules apply:
-	- **(a)** where paragraph (5)(a) is applicable and the predecessor corporation is, by virtue of an election made under subsection 93(1) of the Act, deemed to have received a dividend on one or more of the shares of the particular affiliate disposed of in the transaction, for the purposes of the adjustment required by paragraph (b),
-		- **(i)** immediately before the time of the transaction there shall be included under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing the particular affiliate’s exempt surplus or exempt deficit, as the case may be, in respect of the predecessor corporation an amount equal to the quotient obtained when
-			- **(A)** such portion of the dividend as is prescribed by paragraph 5900(1)(a) to have been paid out of the exempt surplus of the particular affiliateis divided by
-			- **(B)** the surplus entitlement percentage of the predecessor corporation in respect of the particular affiliate immediately before the disposition, determined on the assumption that the shares disposed of by the predecessor corporation were the only shares owned by it immediately before the time of the transaction,
-		- **(ii)** immediately before the time of the transaction there shall be included under subparagraph (v) of the description of B in the definition ***taxable surplus*** in subsection 5907(1) in computing the particular affiliate’s taxable surplus or taxable deficit, as the case may be, in respect of the predecessor corporation an amount equal to the quotient obtained when
-			- **(A)** such portion of the dividend as is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliateis divided by
-			- **(B)** the surplus entitlement percentage referred to in clause (i)(B), and
-		- **(iii)** immediately before the time of the transaction there shall be deducted from the amount, if any, otherwise determined to be the underlying foreign tax of the particular affiliate in respect of the predecessor corporation an amount equal to the quotient obtained when
-			- **(A)** the amount prescribed by paragraph 5900(1)(d) to be the foreign tax applicable to such portion of the dividend as is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliateis divided by
-			- **(B)** the surplus entitlement percentage referred to in clause (i)(B); and
-	- **(b)** the exempt surplus, exempt deficit, taxable surplus, taxable deficit and underlying foreign tax of an affiliate in respect of a predecessor corporation (within the meaning assigned by subsection (5)) and the acquiring corporation (within the meaning assigned by subsection (5)) shall be deemed to be the proportion of the amount thereof otherwise determined that
-		- **(i)** the surplus entitlement percentage immediately before the time of the latest of the transactions referred to in paragraph (5)(a), (b) or (c) of the predecessor corporation or the acquiring corporation, as the case may be, in respect of the affiliate, determined on the assumption
-			- **(A)** that the taxation year of the affiliate that otherwise would have included that time had ended immediately before that time, and
-			- **(B)** where the transaction is one referred to in paragraph (5)(a), that the shares referred to therein were the only shares owned by the predecessor corporation immediately before that time,
-is of
-		- **(ii)** the surplus entitlement percentage immediately after the time of the latest of the transactions referred to in paragraph (5)(a), (b) or (c) of the acquiring corporation in respect of the affiliate, determined on the assumption that the taxation year of the affiliate that otherwise would have included that time had ended immediately after that time.
+- **(5.1)** If there is, at any time, an amalgamation within the meaning of subsection 87(1) of the Act and, as a result of the amalgamation, shares of the capital stock of a particular foreign affiliate of a predecessor corporation become property of the new corporation,
+	- **(a)** each of the opening exempt surplus or opening exempt deficit, opening hybrid surplus or opening hybrid deficit, opening hybrid underlying tax, opening taxable surplus or opening taxable deficit, and opening underlying foreign tax, in respect of the new corporation, of the particular affiliate and of each foreign affiliate of the predecessor corporation in which the particular affiliate has, immediately before that time, an equity percentage (within the meaning assigned by subsection 95(4) of the Act) is deemed to be the amount, if any,
+		- **(i)** in the case of its opening exempt surplus, by which the total of its exempt surplus in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its exempt deficit in respect of each predecessor corporation, determined immediately before that time,
+		- **(ii)** in the case of its opening exempt deficit, by which the total of its exempt deficit in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its exempt surplus in respect of each predecessor corporation, determined immediately before that time,
+		- **(ii.1)** in the case of its opening hybrid surplus, by which the total of its hybrid surplus in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its hybrid deficit in respect of each predecessor corporation, determined immediately before that time,
+		- **(ii.2)** in the case of its opening hybrid deficit, by which the total of its hybrid deficit in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its hybrid surplus in respect of each predecessor corporation, determined immediately before that time,
+		- **(ii.3)** in the case of its opening hybrid underlying tax, that is the total of its hybrid underlying tax in respect of each predecessor corporation, determined immediately before that time,
+		- **(iii)** in the case of its opening taxable surplus, by which the total of its taxable surplus in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its taxable deficit in respect of each predecessor corporation, determined immediately before that time,
+		- **(iv)** in the case of its opening taxable deficit, by which the total of its taxable deficit in respect of each predecessor corporation, determined immediately before that time, exceeds the total of its taxable surplus in respect of each predecessor corporation, determined immediately before that time, and
+		- **(v)** in the case of its opening underlying foreign tax, that is the total of its underlying foreign tax in respect of each predecessor corporation, determined immediately before that time; and
+	- **(b)** for the purpose of paragraph (a), each of the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, and underlying foreign tax of an affiliate in respect of a predecessor corporation, determined immediately before that time, is deemed to be the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the amount of that surplus, deficit or tax, as the case may be, as determined without reference to this subsection,
+- **B** is the predecessor corporation’s surplus entitlement percentage immediately before that time in respect of the affiliate, and
+- **C** is the new corporation’s surplus entitlement percentage immediately after that time in respect of the affiliate.
 
-- **(7)** Where at any time there has been a dissolution of a foreign affiliate (in this subsection referred to as the “dissolved affiliate”) of a corporation resident in Canada and paragraph 95(2)(e.1) of the Act is applicable in respect of the dissolution, each other foreign affiliate of the corporation that had a direct equity percentage in the dissolved affiliate immediately before that time shall, for the purposes of computing its exempt surplus or exempt deficit, taxable surplus or taxable deficit and underlying foreign tax in respect of the corporation, be deemed to have received dividends immediately before that time the aggregate of which is equal to the amount it might reasonably have expected to receive if the dissolved affiliate had, immediately before that time, paid dividends the aggregate of which on all shares of its capital stock was equal to the amount of its net surplus in respect of the corporation immediately before that time, determined on the assumption that the taxation year of the dissolved affiliate that otherwise would have included that time had ended immediately before that time.
+- **(5.11) to (5.13)** [Repealed, 2013, c. 34, s. 44]
 
-- **(8)** Where at any time a dividend is, by virtue of an election made by a corporation under subsection 93(1) of the Act, deemed to have been received on one or more shares of a class of the capital stock of a particular foreign affiliate of the corporation disposed of to the corporation or another foreign affiliate of the corporation, the following rules apply:
-	- **(a)** for the purposes of the adjustment required by paragraph (b),
-		- **(i)** immediately before that time there shall be included under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing the particular affiliate’s exempt surplus or exempt deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any such dividend that is prescribed by paragraph 5900(1)(a) to have been paid out of the exempt surplus of the particular affiliate,
-		- **(ii)** immediately before that time there shall be included under subparagraph (v) of the description of B in the definition ***taxable surplus*** in subsection 5907(1) in computing the particular affiliate’s taxable surplus or taxable deficit, as the case may be, in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the total of all amounts each of which is the portion of any such dividend that is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliate, and
-		- **(iii)** immediately before that time there shall be deducted from the amount, if any, otherwise determined to be the underlying foreign tax of the particular affiliate in respect of the corporation an amount equal to the product obtained when the specified adjustment factor in respect of the disposition is multiplied by the aggregate of all amounts each of which is the amount prescribed by paragraph 5900(1)(d) to be the foreign tax applicable to such portion of any such dividend as is prescribed by paragraph 5900(1)(b) to have been paid out of the taxable surplus of the particular affiliate,
-and, for the purposes of subparagraphs (i) to (iii), the specified adjustment factor in respect of the disposition is the amount equal to the quotient obtained when
-		- **(iv)** where the person disposing of the shares is the corporation, 100 per cent, and
-		- **(v)** where the person disposing of the shares is another foreign affiliate of the corporation, the surplus entitlement percentage of the corporation in respect of that affiliate immediately before the disposition,
-is divided by
-		- **(vi)** the surplus entitlement percentage of the corporation in respect of the particular foreign affiliate immediately before the disposition;
-	- **(b)** the exempt surplus or exempt deficit, the taxable surplus or taxable deficit and the underlying foreign tax in respect of the corporation of the particular affiliate and of each other foreign affiliate of the corporation in which the particular affiliate has an equity percentage (in this subsection referred to as the “other affiliate”) shall at that time be adjusted to the proportion of the amount thereof otherwise determined that
-		- **(i)** the surplus entitlement percentage immediately before that time of the corporation in respect of the particular affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the particular affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately before that time,
-is of
-		- **(ii)** the surplus entitlement percentage immediately after that time of the corporation in respect of the particular affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the particular affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately after that time; and
-	- **(c)** for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), the amounts determined under paragraph (b) are referred to as the opening exempt deficit, opening exempt surplus, opening taxable deficit, opening taxable surplus and opening underlying foreign tax, as the case may be, of the particular affiliate and each other affiliate in respect of the corporation resident in Canada.
+- **(5.2)** If, at a particular time, control of a corporation resident in Canada has been acquired by a person or a group of persons and, at the particular time, the corporation owns shares of the capital stock of a foreign affiliate of the corporation, there shall be included — under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing the affiliate’s exempt surplus or exempt deficit, as the case may be, in respect of the corporation at the time that is immediately before the particular time — the amount, if any, determined by the formula
+```
+(A + B – C)/D
+```
+where
+- **A** is the amount determined by the formula
+```
+E × F
+```
+where
+- **E** is the affiliate’s tax-free surplus balance in respect of the corporation, determined at the time (referred to in this subsection as the “relevant time”) that is immediately before the time that is immediately before the particular time, and
+- **F** is the corporation’s surplus entitlement percentage in respect of the affiliate determined at the relevant time;
+- **B** is the total of all amounts each of which is the corporation’s cost amount, determined at the particular time, of a share of the capital stock of the affiliate that is owned by the corporation at the particular time;
+- **C** is the total of
+- **(a)** the fair market value, determined at the particular time, of all of the shares of the capital stock of the affiliate that are owned by the corporation at the particular time, and
+- **(b)** the amount, if any, determined under paragraph 5908(6)(b); and
+- **D** is the corporation’s surplus entitlement percentage in respect of the affiliate determined at the relevant time.
 
-- **(9)** Where at any time a foreign affiliate of a corporation resident in Canada (in this subsection referred to as the “issuing affiliate”) issues shares of a class of its capital stock to a person other than the corporation or another foreign affiliate of the corporation and as a result thereof the surplus entitlement percentage of the corporation in respect of the issuing affiliate decreases, for the purposes of this Part, the exempt surplus or exempt deficit, the taxable surplus or taxable deficit and the underlying foreign tax, in respect of the corporation, of the issuing affiliate and of each other foreign affiliate of the corporation in which the issuing affiliate has an equity percentage (in this subsection referred to as the “other affiliate”) shall at that time be increased to the proportion of the amount thereof otherwise determined that
-	- **(a)** the surplus entitlement percentage immediately before that time of the corporation in respect of the issuing affiliate or the other affiliate, as the case may be, determined on the assumption that the taxation year of the issuing affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately before that time,
-is of
-	- **(b)** the surplus entitlement percentage immediately after that time of the corporation in respect of the issuing affiliate or other affiliate, as the case may be, determined on the assumption that the taxation year of the issuing affiliate or the other affiliate, as the case may be, that otherwise would have included that time had ended immediately after that time,
-and, for the purposes of the definitions ***exempt deficit***, ***exempt surplus***, ***taxable deficit***, ***taxable surplus*** and ***underlying foreign tax*** in subsection 5907(1), those increased amounts are referred to as the opening exempt deficit, opening exempt surplus, opening taxable deficit, opening taxable surplus and opening underlying foreign tax, as the case may be, of each of those affiliates in respect of the corporation resident in Canada.
+- **(5.3)** The cost amount of a share that is referred to in the description of B in subsection (5.2) shall be determined after taking into account the application of subsection 111(4) of the Act.
+
+- **(5.4)** For the purposes of clause (B) of subparagraph 88(1)(d)(ii) of the Act, the prescribed amount is
+	- **(a)** if the property described in that subparagraph is a share of the capital stock of a foreign affiliate of the subsidiary, the amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the affiliate’s tax-free surplus balance, in respect of the subsidiary, determined at the time at which the parent last acquired control of the subsidiary, and
+- **B** is the percentage that would be the subsidiary’s surplus entitlement percentage, determined at that time, in respect of the affiliate if at that time the subsidiary had owned no shares of the affiliate’s capital stock other than the share;
+	- **(b)** if the property described in that subparagraph is an interest in a partnership, the amount determined by subsection 5908(7); and
+	- **(c)** in any other case, nil.
+
+- **(5.5)** For the purposes of subsections (5.2), (5.4), (7.2) and (7.3), the ***tax-free surplus balance*** of a foreign affiliate of a corporation resident in Canada, in respect of the corporation, at any time, is the total of
+	- **(a)** the amount, if any, by which the affiliate’s exempt surplus in respect of the corporation at that time exceeds the total of
+		- **(i)** the affiliate’s hybrid deficit, if any, in respect of the corporation at that time, and
+		- **(ii)** the affiliate’s taxable deficit, if any, in respect of the corporation at that time;
+	- **(a.1)** the amount, if any, by which the amount of the affiliate’s hybrid surplus in respect of the corporation at that time exceeds the amount determined under subsection (5.7) in respect of the corporation at that time if, at that time, the amount of that hybrid surplus is less than or equal to the amount determined by the formula
+```
+[A × (B – 0.5)] + (C × 0.5)
+```
+where
+- **A** is the affiliate’s hybrid underlying tax in respect of the corporation at that time,
+- **B** is the corporation’s relevant tax factor (within the meaning assigned by subsection 95(1) of the Act) for the corporation’s taxation year that includes that time, and
+- **C** is the affiliate’s hybrid surplus in respect of the corporation at that time; and
+	- **(b)** the lesser of
+		- **(i)** the amount, if any, determined by the formula
+```
+ A × B
+```
+where
+- **A** is the affiliate’s underlying foreign tax in respect of the corporation at that time, and
+- **B** is the amount by which the corporation’s relevant tax factor (within the meaning assigned by subsection 95(1) of the Act), for the corporation’s taxation year that includes that time, exceeds one, and
+		- **(ii)** the amount, if any, by which the affiliate’s taxable surplus in respect of the corporation at that time exceeds
+			- **(A)** if the affiliate has an exempt deficit and a hybrid deficit, in respect of the corporation at that time, the total of the exempt deficit and the hybrid deficit,
+			- **(B)** if the affiliate has an exempt deficit and no hybrid deficit, in respect of the corporation at that time, the amount, if any, by which the exempt deficit exceeds the affiliate’s hybrid surplus in respect of the corporation at that time, and
+			- **(C)** if the affiliate has a hybrid deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the hybrid deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time.
+
+- **(5.6)** For the purposes of subsection (5.5), the amounts of exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, and underlying foreign tax, of a foreign affiliate of corporation resident in Canada, in respect of the corporation, at a particular time are those amounts that would be determined, at the particular time, under subparagraph 5902(1)(a)(i) if that subparagraph were applicable at the particular time and the references in that subparagraph to “the dividend time” were references to the particular time.
+
+- **(5.7)** For the purposes of paragraph (5.5)(a.1), the amount determined under this subsection in respect of the corporation at any time is
+	- **(a)** if the affiliate has an exempt deficit and a taxable deficit, in respect of the corporation at that time, the total of the exempt deficit and the taxable deficit;
+	- **(b)** if the affiliate has an exempt deficit and no taxable deficit, in respect of the corporation at that time, the amount of the exempt deficit; and
+	- **(c)** if the affiliate has a taxable deficit and no exempt deficit, in respect of the corporation at that time, the amount, if any, by which the taxable deficit exceeds the affiliate’s exempt surplus in respect of the corporation at that time.
+
+- **(6)** [Repealed, 2013, c. 34, s. 44]
+
+- **(7)** If at any time there has been a liquidation and dissolution of a foreign affiliate (referred to in this subsection as the “dissolved affiliate”) of a corporation resident in Canada that is a designated liquidation and dissolution (within the meaning assigned by subsection 95(1) of the Act) of the dissolved affiliate, each other foreign affiliate of the corporation that had a direct equity percentage (within the meaning assigned by subsection 95(4) of the Act) in the dissolved affiliate immediately before that time is, for the purposes of computing its exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, hybrid underlying tax, taxable surplus or taxable deficit, and underlying foreign tax, in respect of the corporation, deemed to have received dividends immediately before that time the total of which is equal to the amount it might reasonably have expected to receive if the dissolved affiliate had, immediately before that time, paid dividends on all shares of its capital stock the total of which was equal to the amount of its net surplus in respect of the corporation immediately before that time, determined on the assumption that the taxation year of the dissolved affiliate that otherwise would have included that time had ended immediately before that time.
+
+- **(7.1)** Subsection (7.2) applies if
+	- **(a)** a foreign affiliate (referred to in this subsection and subsections (7.2) to (7.6) as the “deficit affiliate”) of a corporation resident in Canada has an exempt deficit, in respect of the corporation, at a particular time; and
+	- **(b)** at the time (referred to in this paragraph and subsections (7.2) to (7.6) as the “acquisition time”) that is immediately after the particular time, shares of the capital stock of a foreign affiliate (referred to in this subsection and subsections (7.2) to (7.6) as an “acquired affiliate”) of the corporation in which the deficit affiliate has, at the particular time, an equity percentage (within the meaning assigned by subsection 95(4) of the Act) are acquired by, or otherwise become property of,
+		- **(i)** the corporation, or
+		- **(ii)** another foreign affiliate of the corporation, in the case where the percentage that would, if the deficit affiliate were resident in Canada, be the deficit affiliate’s surplus entitlement percentage in respect of the acquired affiliate immediately after the acquisition time is less than the percentage that would, if the deficit affiliate were so resident, be its surplus entitlement percentage in respect of the acquired affiliate at the particular time.
+
+- **(7.2)** If this subsection applies, there is to be included,
+	- **(a)** at the time (referred to in this subsection and subsections (7.6) and (7.7) and 5908(11) and (12) as the “adjustment time”) that is immediately before the time that is immediately before the time that is immediately before the acquisition time, under subparagraph (v) of the description of B in the definition ***exempt surplus*** in subsection 5907(1) in computing an acquired affiliate’s exempt surplus or exempt deficit in respect of the corporation, the amount, if any, equal to the lesser of
+		- **(i)** the amount determined by the formula
+```
+ A/B
+```
+where
+- **A** is the deficit affiliate’s exempt deficit in respect of the corporation immediately before the acquisition time, and
+- **B** is the percentage that would, if the deficit affiliate were resident in Canada, be the deficit affiliate’s surplus entitlement percentage in respect of the acquired affiliate immediately before the acquisition time, and
+		- **(ii)** the lesser of
+			- **(A)** the acquired affiliate’s tax-free surplus balance in respect of the corporation immediately before the adjustment time, and
+			- **(B)** either
+				- **(I)** if there is more than one acquired affiliate, the amount designated by the corporation, in its return of income for the taxation year in which the taxation year of the acquired affiliate that includes the acquisition time ends, in respect of the acquired affiliate, or
+				- **(II)** in any other case, the amount determined under clause (A);
+	- **(b)** at the time that is immediately after the acquisition time, under subparagraph (vi.1) of the description of A in the definition ***exempt surplus*** in subsection 5907(1) in computing the deficit affiliate’s exempt deficit in respect of the corporation, the total of all amounts each of which is the amount determined in respect of an acquired affiliate by the formula
+```
+C × D
+```
+where
+- **C** is the amount determined under paragraph (a) in respect of the acquired affiliate, and
+- **D** is the percentage that would, if the deficit affiliate were resident in Canada, be the deficit affiliate’s surplus entitlement percentage immediately before the acquisition time in respect of the acquired affiliate; and
+	- **(c)** at the time that is immediately after the acquisition time, under subparagraph (vi.1) of the description of A in the definition ***exempt surplus*** in subsection 5907(1) in computing the exempt surplus or exempt deficit of any other foreign affiliate (referred to in this paragraph and paragraph (7.6)(b) as a “subordinate affiliate”) of the corporation, in respect of the corporation, that has immediately before the acquisition time a direct equity percentage (within the meaning assigned by subsection 95(4) of the Act) in the acquired affiliate and in which, immediately before the acquisition time, the deficit affiliate does not have an equity percentage (within the meaning assigned by subsection 95(4) of the Act), the amount determined by the formula
+```
+E × F
+```
+where
+- **E** is the amount determined under paragraph (a) in respect of the acquired affiliate, and
+- **F** is the percentage that would, if the subordinate affiliate were resident in Canada, be the subordinate affiliate’s surplus entitlement percentage immediately before the acquisition time in respect of the acquired affiliate if the subordinate affiliate owned no shares of the capital stock of any corporation other than its shares of the capital stock of the acquired affiliate.
+
+- **(7.3)** Subsection (7.4) applies if
+	- **(a)** the lesser of
+		- **(i)** the deficit affiliate’s exempt deficit in respect of the corporation immediately before the acquisition time, and
+		- **(ii)** the total of all amounts each of which is the amount, if any, that is the product obtained by multiplying
+			- **(A)** the tax-free surplus balance immediately before the acquisition time in respect of the corporation of an acquired affiliate, and
+			- **(B)** the surplus entitlement percentage of the corporation in respect of that acquired affiliate immediately before the acquisition time
+exceeds
+	- **(b)** the total of all amounts each of which is the amount, if any, that is the product obtained by multiplying
+		- **(i)** the amount, if any, actually designated under subclause (7.2)(a)(ii)(B)(I) in respect of an acquired affiliate, and
+		- **(ii)** the surplus entitlement percentage of the corporation in respect of that acquired affiliate immediately before the acquisition time.
+
+- **(7.4)** If this subsection applies, the amount designated by the corporation in respect of a particular acquired affiliate is deemed, for the purposes of subclause (7.2)(a)(ii)(B)(I),
+	- **(a)** to be the amount determined by the Minister in respect of the particular acquired affiliate; and
+	- **(b)** not to be the amount, if any, actually designated under subclause (7.2)(a)(ii)(B)(I).
+
+- **(7.5)** Subsection (7.6) applies if
+	- **(a)** subsection (7.2) applies;
+	- **(b)** the deficit affiliate, or any other foreign affiliate of the corporation in which the deficit affiliate has, immediately before the acquisition time, an equity percentage (which percentage has, for the purposes of this subsection, the meaning assigned by subsection 95(4) of the Act and which deficit affiliate or other affiliate is referred to in subsection (7.6) as the “direct holder”), has, immediately before the acquisition time, a direct equity percentage (within the meaning assigned by that subsection 95(4)) in any other foreign affiliate (referred to in paragraph (c) and subsection (7.6) as the “subject affiliate”) of the corporation; and
+	- **(c)** the subject affiliate is the acquired affiliate or has, immediately before the acquisition time, an equity percentage in the acquired affiliate.
+
+- **(7.6)** Subject to paragraph 5908(11)(c), for the purposes of paragraph 92(1.1)(a) of the Act, if this subsection applies, there shall be added, in computing on and after the adjustment time
+	- **(a)** the direct holder’s adjusted cost base of a share of the capital stock of the subject affiliate, the amount determined by the formula
+```
+ A × B
+```
+where
+- **A** is the amount determined under paragraph (7.2)(a) in respect of the acquired affiliate, and
+- **B** is the percentage that would, if the direct holder were resident in Canada, be the direct holder’s surplus entitlement percentage in respect of the acquired affiliate immediately before the acquisition time if the direct holder owned only the share; and
+	- **(b)** the subordinate affiliate’s adjusted cost base of a share of the capital stock of the acquired affiliate, the amount determined by the formula
+```
+C × D
+```
+where
+- **C** is the amount determined under paragraph (7.2)(a) in respect of the acquired affiliate, and
+- **D** is the percentage that would, if the subordinate affiliate were resident in Canada, be the subordinate affiliate’s surplus entitlement percentage in respect of the acquired affiliate immediately before the acquisition time if the subordinate affiliate owned only the share.
+
+- **(7.7)** For the purposes of paragraph 93(3)(c) of the Act, if an amount (referred to in this subsection and subsection 5908(12) as the “adjustment amount”) is required by subsection 92(1.1) of the Act to be added in computing, on or after the adjustment time, the adjusted cost base of a share of the capital stock of a foreign affiliate of a corporation resident in Canada,
+	- **(a)** where paragraph 92(1.1)(a) of the Act applies, the prescribed amount is the adjustment amount; and
+	- **(b)** where paragraph 92(1.1)(b) of the Act applies, the prescribed amount is the amount determined under subsection 5908(12).
+
+- **(8) and (9)** [Repealed, 2013, c. 34, s. 44]
 
 - **(10)** For the purposes of this section, the surplus entitlement at any time of a share owned by a corporation resident in Canada of the capital stock of a foreign affiliate of the corporation in respect of a particular foreign affiliate of the corporation is the portion of
 	- **(a)** the amount that would have been received on the share if the foreign affiliate had at that time paid dividends the aggregate of which on all shares of its capital stock was equal to the amount that would be its net surplus in respect of the corporation at that time assuming that
@@ -11194,20 +11156,33 @@ that may reasonably be considered to relate to
 		- **(ii)** any dividend referred to in subparagraph (i) that would be received by another foreign affiliate was received by such other foreign affiliate immediately before any such dividend that it would have paid.
 
 - **(11)** For the purposes of subsection (10),
-	- **(a)** in determining the net surplus of, or the amount of a dividend received by, a particular foreign affiliate of a taxpayer resident in Canada in which any other foreign affiliate of the taxpayer has an equity percentage, no amount shall be included in respect of any distribution that would be received by the particular affiliate from such other affiliate; and
-	- **(b)** if any foreign affiliate of a corporation resident in Canada has issued shares of more than one class of its capital stock, the amount that would be paid as a dividend on the shares of any class is such portion of its net surplus as, in the circumstances, it might reasonably be expected to have paid on all the shares of that class.
+	- **(a)** if a particular foreign affiliate of a corporation has an equity percentage in another foreign affiliate of the corporation that has an equity percentage in the particular affiliate, the amount that would be the net surplus of, or the amount that would be a dividend received by, the particular affiliate is to be determined in a manner that is
+		- **(i)** reasonable in the circumstances, and
+		- **(ii)** consistent with the results that would be obtained if a series of actual dividends had been paid and received by the foreign affiliates of the corporation that are relevant to the determination;
+	- **(b)** if any foreign affiliate of a corporation resident in Canada has issued shares of more than one class of its capital stock, the amount that would be paid as a dividend on the shares of any class is the portion of its net surplus that, in the circumstances, it might reasonably be expected to have paid on all the shares of that class; and
+	- **(c)** if the particular affiliate’s net surplus as determined for the purposes of subsection (10) would, in the absence of this paragraph, be nil the particular affiliate’s net surplus for the purposes of that subsection is deemed to be the greater of
+		- **(i)** the amount of the particular affiliate’s retained earnings, if any, determined at the end of its last taxation year ending before the time referred to in that subsection under accounting principles that are relevant to the particular affiliate for that year, and
+		- **(ii)** the amount determined by the formula
+```
+ A × B
+```
+where
+- **A** is the amount of the particular affiliate’s total assets determined at the end of that year under accounting principles that are relevant to the particular affiliate for that year, and
+- **B** is 25%.
 
-- **(12)** Notwithstanding any other provision of this Part, for the purposes of determining under subsection (10) the net surplus of a foreign affiliate of a corporation resident in Canada in respect of the corporation at any time in a taxation year of the affiliate that would otherwise have included that time (in this subsection referred to as the “normal year”), the exempt earnings or loss and the taxable earnings or loss required to be included in computing the net surplus in respect of any taxation year of the affiliate that is assumed for the purposes of a provision of this section to have ended at that time shall be deemed to be that proportion of such amounts determined for the normal year that the number of days in the taxation year assumed to have ended at that time is of the number of days in the normal year.
+- **(12)** [Repealed, 2013, c. 34, s. 84]
 
 - **(13)** For the purposes of the definition ***surplus entitlement percentage*** in subsection 95(1) of the Act and of this Part, the surplus entitlement percentage at any time of a corporation resident in Canada in respect of a particular foreign affiliate of the corporation is,
-	- **(a)** where the particular affiliate and each corporation that is relevant to the determination of the corporation’s equity percentage in the particular affiliate have only one class of issued shares at that time, the percentage that is the corporation’s equity percentage in the particular affiliate at that time, and
+	- **(a)** the percentage that is the corporation’s equity percentage in the particular affiliate at that time if
+		- **(i)** the particular affiliate and each corporation that is relevant to the determination of the corporation’s equity percentage in the particular affiliate have, at that time, only one class of issued shares, and
+		- **(ii)** no foreign affiliate (referred to in this subparagraph as the “upper-tier affiliate”) of the corporation that is relevant to the determination of the corporation’s equity percentage in the particular affiliate has, at that time, an equity percentage in a foreign affiliate (including, for greater certainty, the particular affiliate) of the corporation that has an equity percentage in the upper-tier affiliate; and
 	- **(b)** in any other case, the proportion of 100 that
 		- **(i)** the aggregate of all amounts, each of which is the surplus entitlement at that time of a share owned by the corporation of the capital stock of a foreign affiliate of the corporation in respect of the particular foreign affiliate of the corporation
 is of
-		- **(ii)** the amount determined under paragraph (10)(b) to be the net surplus of the particular affiliate in respect of the corporation at that time,
-except that where the amount determined under subparagraph (ii) is nil, the percentage determined under this paragraph shall be the corporation’s equity percentage in the particular affiliate at that time,
-and, for the purposes of this subsection, ***equity percentage*** has the meaning that would be assigned by subsection 95(4) of the Act if the reference in paragraph (b) of the definition ***equity percentage*** in that subsection to “any corporation” were read as a reference to “any corporation other than a corporation resident in Canada”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 4; SOR/85-176, s. 3; SOR/94-686, s. 79(F); SOR/97-505, s. 7.
+		- **(ii)** the amount determined under paragraph (10)(b) to be the net surplus of the particular affiliate in respect of the corporation at that time.
+
+- **(14)** For the purposes of subsections (10), (11) and (13), ***equity percentage*** has the meaning that would be assigned by subsection 95(4) of the Act if the reference in paragraph (b) of the definition ***equity percentage*** in that subsection to “any corporation” were read as a reference to “any corporation other than a corporation resident in Canada”.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-141, s. 4; SOR/85-176, s. 3; SOR/94-686, s. 79(F); SOR/97-505, s. 7; 2013, c. 34, ss. 44, 84.
 
 
 
@@ -11222,10 +11197,21 @@ and, for the purposes of this subsection, ***equity percentage*** has the meanin
 	- **(a)** in a country other than Canada only to the extent that such business is carried on through a permanent establishment situated therein; and
 	- **(b)** in Canada only to the extent that its income therefrom is subject to tax under Part I of the Act.
 
-- **(2)** For the purposes of subsection (1), the expression “permanent establishment” has:
-	- **(a)** if the expression is given a particular meaning in a tax treaty with a country, the meaning assigned by that tax treaty with respect to a business carried on in that country; and
-	- **(b)** in any other case, the meaning that would be assigned by subsection 400(2) if that subsection were read without reference to its paragraph (e.1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 111.
+- **(2)** The expression ***permanent establishment*** means
+	- **(a)** for the purposes of paragraph (1)(a) and the definition ***earnings*** in subsection 5907(1) (which paragraph or definition is referred to in this paragraph as a “provision”),
+		- **(i)** if the expression is given a particular meaning in a tax treaty with a country, a permanent establishment within the meaning assigned by that tax treaty with respect to the business carried on in that country by the foreign affiliate referred to in the provision, and
+		- **(ii)** in any other case, a fixed place of business of the affiliate, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse, or if the affiliate does not have any fixed place of business, the principal place at which the affiliate’s business is conducted; and
+	- **(b)** for the purposes of subdivision i of Division B of Part I of the Act,
+		- **(i)** if the expression is given a particular meaning in a tax treaty with a country, a permanent establishment within the meaning assigned by that tax treaty if the person or partnership referred to in the relevant portion of that subdivision (which person or partnership is referred to in this paragraph and subsection (3) as the “person”) is a resident of that country for the purpose of that tax treaty, and
+		- **(ii)** in any other case, a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse, or if the person does not have any fixed place of business, the principal place at which the person’s business is conducted.
+
+- **(3)** For the purposes of subparagraphs (2)(a)(ii) and (b)(ii),
+	- **(a)** if the affiliate or the person, as the case may be, carries on business through an employee or agent, established in a particular place, who has general authority to contract for the affiliate or the person or who has a stock of merchandise owned by the affiliate or the person from which the employee or agent regularly fills orders, the affiliate or the person is deemed to have a fixed place of business at that place;
+	- **(b)** if the affiliate or the person, as the case may be, is an insurance corporation, the affiliate or the person is deemed to have a fixed place of business in each country in which the affiliate or the person is registered or licensed to do business;
+	- **(c)** if the affiliate or the person, as the case may be, uses substantial machinery or equipment at a particular place at any time in a taxation year, the affiliate or the person is deemed to have a fixed place of business at that place;
+	- **(d)** the fact that the affiliate or the person, as the case may be, has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise at a particular place does not of itself mean that the affiliate or the person has a fixed place of business at that place; and
+	- **(e)** the fact that the affiliate or the person, as the case may be, has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place does not of itself mean that the affiliate or person has a fixed place of business at that place.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 111; 2013, c. 34, s. 45.
 
 
 
@@ -11242,13 +11228,17 @@ and, for the purposes of this subsection, ***equity percentage*** has the meanin
 
 ***controlled foreign affiliate*** has the meaning assigned by subsection 95(1) of the Act; (*société étrangère affiliée contrôlée*)
 
+***designated person or partnership***, in respect of a taxpayer at any time, means the taxpayer or a person or partnership that is at that time
+- **(a)** a person (other than a partnership) that does not, at that time, deal at arm’s length with the taxpayer, or
+- **(b)** a partnership a member of which is, at that time, a designated person or partnership in respect of the taxpayer under this definition; (*personne ou société de personnes désignée*)
+
 ***earnings*** of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business means
 - **(a)** in the case of an active business carried on by it in a country,
 	- **(i)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the affiliate is resident, in any case where the affiliate is required by that law to compute that income or profit,
 	- **(ii)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the business is carried on, in any case not described in subparagraph (i) where the affiliate is required by that law to compute that income or profit, and
 	- **(iii)** in any other case, the amount that would be the income from the active business for the year under Part I of the Act if the business were carried on in Canada, the affiliate were resident in Canada and the Act were read without reference to subsections 80(3) to (12), (15) and (17) and 80.01(5) to (11) and sections 80.02 to 80.04,
 adjusted in each case in accordance with subsections (2), (2.1), (2.2) and (2.9) and, for the purpose of this Part, to the extent that the earnings of an affiliate from an active business carried on by it cannot be attributed to a permanent establishment in any particular country, they shall be attributed to the permanent establishment in the country in which the affiliate is resident and, if the affiliate is resident in more than one country, to the permanent establishment in the country that may reasonably be regarded as the affiliate’s principal place of residence, and
-- **(b)** in any other case, the total of the amounts by which the income for the year from an active business of the affiliate is increased because of paragraph 95(2)(a) of the Act; (*gains*)
+- **(b)** in any other case, the total of all amounts each of which is an amount of income that would be required under paragraph 95(2)(a) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that income were computed taking into account the rules in subsection (2.03); (*gains*)
 
 ***exempt deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time means the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vi) of the description of B in the definition ***exempt surplus*** in this subsection
@@ -11256,120 +11246,229 @@ adjusted in each case in accordance with subsections (2), (2.1), (2.2) and (2.9)
 exceeds
 - **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of A in that definition; (*déficit exonéré*)
 
-***exempt earnings*** of a particular foreign affiliate of a particular corporation for a taxation year of the particular affiliate is the total of all amounts each of which is
-- **(a)** the amount by which the capital gains of the particular affiliate for the year exceed the total of
+***exempt earnings***, of a particular foreign affiliate of a particular corporation for a taxation year of the particular affiliate, means, subject to subsection (2.02), the total of all amounts each of which is
+- **(a)** the amount by which the capital gains of the particular affiliate for the year (other than capital gains included in computing the amount, at any time in the year, of the particular affiliate’s hybrid surplus, or hybrid deficit, in respect of the particular corporation) exceed the total of
 	- **(i)** the amount of the taxable capital gains for the year referred to in the description of B in the definition ***foreign accrual property income*** in subsection 95(1) of the Act,
-	- **(ii)** the amount of the taxable capital gains for the year referred to in subparagraphs (c)(i) and (d)(iii) of the definition ***net earnings*** in this subsection, and
+	- **(ii)** the amount of the taxable capital gains for the year referred to in subparagraphs (c)(i), (e)(i) and (f)(iv) of the definition ***net earnings***, and
 	- **(iii)** the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the amount by which the capital gains of the particular affiliate for the year exceed the total of the amounts referred to in subparagraphs (i) and (ii),
 and for the purpose of this paragraph, where the particular affiliate has disposed of capital property that was shares of the capital stock of another foreign affiliate of the particular corporation to any corporation that was, immediately after the disposition, a foreign affiliate of the particular corporation, the capital gains of the particular affiliate for the year shall not include the portion of those gains that is the total of all amounts each of which is an amount equal to the excess of the fair market value at the end of the particular affiliate’s 1975 taxation year of one of those shares disposed of over the adjusted cost base of that share,
+- **(a.1)** the amount determined by the formula
+```
+A – B
+```
+where
+- **A** is the total of all amounts each of which is a particular amount that would be included, in respect of a particular business of the particular affiliate, by paragraph (c), (c.1) or (c.2) of the definition ***capital dividend account*** in subsection 89(1) of the Act in determining the particular affiliate’s capital dividend account at the end of the year if
+- **(i)** the particular affiliate were the corporation referred to in that definition,
+- **(ii)** the references in paragraphs (c.1) and (c.2) of that definition, and in paragraph (c) of that definition as that paragraph (c) read in its application to taxation years that ended before February 28, 2000, to “a business” were read as references to a business that
+- **(A)** is not an active business (as defined in subsection 95(1) of the Act), or
+- **(B)** is an active business (as defined in that subsection 95(1)) the particular affiliate’s earnings from which for the year are determined under subparagraph (a)(iii) of the definition ***earnings***, and
+- **(iii)** the particular amount did not include any amount that can reasonably be considered to have accrued while no person or partnership that carried on the particular business was a specified person or partnership (within the meaning of section 95 of the Act) in respect of the particular corporation, and
+- **B** is the amount determined for A at the end of the particular affiliate’s taxation year that immediately precedes the year,
 - **(b)** where the year is the 1975 or any preceding taxation year of the particular affiliate, the total of all amounts each of which is the particular affiliate’s net earnings for the year,
 - **(c)** where the year is the 1975 or any preceding taxation year of the particular affiliate, the earnings as determined in paragraph (b) of the definition ***earnings*** in this subsection to the extent that those earnings have not been included because of paragraph (b) or deducted in determining an amount included in subparagraph (b)(i) of the definition ***exempt loss*** in this subsection,
-- **(d)** where the year is the 1976 or any subsequent taxation year of the particular affiliate and the particular affiliate is resident in a designated treaty country, each amount that is
+- **(d)** where the year is the 1976 or any subsequent taxation year of the particular affiliate and the particular affiliate is, throughout the year, resident in a designated treaty country,
 	- **(i)** the particular affiliate’s net earnings for the year from an active business carried on by it in Canada or a designated treaty country, or
-	- **(ii)** the earnings of the particular affiliate for the year from an active business to the extent that they derive from
-		- **(A)** amounts by which the income of the particular affiliate from an active business for the year is increased because of subparagraph 95(2)(a)(i) of the Act that are derived by the particular affiliate from activities that could reasonably be considered to be directly related to business activities carried on by a non-resident corporation, to which the particular affiliate and the particular corporation are related throughout the year, in the course of an active business carried on by the non-resident corporation the income from which would, if the non-resident corporation were a foreign affiliate of a corporation, be included in computing the non-resident corporation’s exempt earnings or exempt loss,
-		- **(B)** where the particular corporation is a life insurance corporation resident in Canada throughout the year and the particular affiliate is a foreign affiliate in respect of which the particular corporation has a qualifying interest throughout the year, amounts by which the income of the particular affiliate from an active business for the year is increased because of subparagraph 95(2)(a)(i) of the Act that are derived by the particular affiliate from activities that could reasonably be considered to be directly related to business activities carried on by the particular corporation in the course of an active business carried on by the particular corporation in a country other than Canada, the income from which would, if the particular corporation were a foreign affiliate of another corporation and were resident in the country other than Canada in which that active business of the particular corporation is carried on, be included in computing the particular corporation’s exempt earnings or exempt loss,
-		- **(C)** amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(A) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or a partnership of which it is a member by a non-resident corporation to which the particular affiliate and the particular corporation are related throughout the year, to the extent that, if the non-resident corporation were a foreign affiliate of a corporation, the amounts paid or payable by the non-resident corporation would be deductible in the year or a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(D)** where a non-resident corporation to which the particular affiliate and the particular corporation are related throughout the year is a member of a particular partnership (other than where the non-resident corporation is a specified member of the particular partnership at any time in a fiscal period of the particular partnership ending in the year), amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(A) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or another partnership of which it is a member by the particular partnership to the extent that, if the particular partnership were a foreign affiliate of a corporation and were resident in the country in which the non-resident corporation is resident and subject to income taxation, the amounts paid or payable by the particular partnership would be deductible in the year or a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(E)** amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(B) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or a partnership of which it is a member by another foreign affiliate of the particular corporation in respect of which the particular corporation has a qualifying interest throughout the year, to the extent that the amounts paid or payable by the other foreign affiliate are deductible in the year or a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(F)** where another foreign affiliate of the particular corporation in respect of which the particular corporation has a qualifying interest throughout the year is a member of a particular partnership (other than where the other foreign affiliate is a specified member of the particular partnership at any time in a fiscal period of the particular partnership ending in the year), amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(B) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or another partnership of which it is a member by the particular partnership, to the extent that, if the particular partnership were a foreign affiliate of a corporation and were resident in the country in which the other foreign affiliate is resident and subject to income taxation, the amounts paid or payable by the particular partnership would be deductible in the year or a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(G)** where the particular affiliate is a member of a particular partnership (other than where the particular affiliate is a specified member of the particular partnership at any time in a fiscal period of the particular partnership ending in the year), amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(C) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or another partnership of which it is a member by the particular partnership, to the extent that, if the particular partnership were a foreign affiliate of a corporation and were resident in the country in which the particular affiliate is resident and subject to income taxation, the amounts paid or payable by the particular partnership would be deductible in the year or a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(H)** amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(D) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or a partnership of which it is a member by another foreign affiliate (in this clause referred to as the “second affiliate”) of the particular corporation to which the particular affiliate and the particular corporation are related throughout the year, to the extent that the amounts paid or payable
-			- **(I)** are on account of interest on borrowed money used for the purpose of earning income from property or interest on an amount payable for property, where
-				- **1.** the property is shares of a foreign affiliate (in this clause referred to as the “third affiliate”) of the particular corporation in respect of which the particular corporation has a qualifying interest throughout the year and that are excluded property, and
-				- **2.** the second affiliate, the third affiliate and each other affiliate relevant for the purpose of determining whether the shares of the third affiliate are excluded property are resident and subject to income taxation in a designated treaty country, and
-			- **(II)** are relevant in computing the liability for income taxes, in the designated treaty country in which the second and third affiliates are resident, of the members of a group of corporations composed of the second affiliate and one or more other foreign affiliates (the shares of which are excluded property) of the particular corporation that are resident in that country and in respect of which the particular corporation has a qualifying interest throughout the year,and, for the purpose of this clause, ***excluded property*** has the meaning assigned by subsection 95(1) of the Act, except that for that purpose,
-			- **(III)** the definition ***excluded property*** in subsection 95(1) of the Act shall be read without reference to amounts receivable referred to in paragraph (c) of that definition where the interest on the amounts is not, or would not if interest were payable on the amounts, be deductible in computing the debtor’s exempt earnings or exempt loss, and
-			- **(IV)** the shares of a foreign affiliate (in this subclause referred to as the “non-qualifying affiliate”) that is not resident and subject to income taxation in a designated treaty country are not considered relevant for the purpose of determining whether shares of the third affiliate are excluded property unless the shares of the third affiliate would not have been excluded property if the shares of all such non-qualifying affiliates were not excluded property,
-		- **(I)** where the particular corporation is a life insurance corporation resident in Canada and the particular affiliate is a foreign affiliate in respect of which the particular corporation has a qualifying interest throughout the year, amounts by which the income of the particular affiliate from an active business for the year is increased because of clause 95(2)(a)(ii)(E) of the Act that are derived from amounts paid or payable, directly or indirectly, to it or a partnership of which it is a member by the particular corporation in the course of the particular corporation carrying on its life insurance business outside Canada, to the extent that, if the particular corporation were a foreign affiliate of another corporation and were resident in the country in which the particular corporation carried on its life insurance business outside Canada, the amounts paid or payable by the particular corporation would be deductible in the year or in a subsequent taxation year in computing its exempt earnings or exempt loss,
-		- **(J)** amounts by which the income of the particular affiliate from an active business for the year is increased because of subparagraph 95(2)(a)(iii) of the Act that are derived from the factoring of trade accounts receivable acquired by the particular affiliate, or by a partnership of which the particular affiliate was a member, from a non-resident corporation to which the particular affiliate and the particular corporation are related throughout the year, to the extent that the trade accounts receivable arose in the course of an active business carried on by the non-resident corporation any income from which would be included in the exempt earnings of the non-resident corporation if it were a foreign affiliate of a corporation, or
-		- **(K)** amounts by which the income of the particular affiliate from an active business for the year is increased because of subparagraph 95(2)(a)(iv) of the Act that are derived from loans or lending assets acquired by the particular affiliate or a partnership of which the particular affiliate was a member from a non-resident corporation to which the particular affiliate and the particular corporation are related throughout the year, to the extent that the loans or lending assets arose in the course of an active business carried on by the non-resident corporation any income from which would be included in the exempt earnings of the non-resident corporation if it were a foreign affiliate of a corporation, or
+	- **(ii)** the particular affiliate’s earnings for the year from an active business to the extent that they derive from
+		- **(A)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(i) of the Act and that would
+			- **(I)** if earned by the other foreign affiliate referred to in subclause 95(2)(a)(i)(A)(I) of the Act, be included in computing the exempt earnings or exempt loss of the other foreign affiliate for a taxation year, or
+			- **(II)** if earned by the life insurance corporation referred to in subclause 95(2)(a)(i)(A)(II) of the Act and based on the assumptions contained in subclause 95(2)(a)(i)(B)(II) of the Act, be included in computing the exempt earnings or exempt loss of the life insurance corporation for a taxation year,
+		- **(B)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(A) of the Act where the income is derived from amounts that are paid or payable by the life insurance corporation referred to in that clause and are for expenditures that would, if that life insurance corporation were a foreign affiliate of the particular corporation, be deductible in computing its exempt earnings or exempt loss for a taxation year,
+		- **(C)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(B) of the Act to the extent that the amounts paid or payable referred to in that clause are for expenditures that are deductible in computing the exempt earnings or exempt loss, for a taxation year, of the other foreign affiliate referred to in that clause,
+		- **(D)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(C) of the Act to the extent that the amounts paid or payable referred to in that clause are for expenditures that are deductible in computing its exempt earnings or exempt loss for a taxation year,
+		- **(E)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(D) of the Act if
+			- **(I)** the country referred to in subclause 95(2)(a)(ii)(D)(IV) of the Act is a designated treaty country, and
+			- **(II)** that income would be required to be so included if
+				- **1.** paragraph (a) of the definition ***excluded property*** in subsection 95(1) of the Act were read as follows:
+
+				- **(a)** used or held by the foreign affiliate principally for the purpose of gaining or producing income from an active business carried on by it in a designated treaty country (within the meaning assigned by subsection 5907(11) of the Income Tax Regulations),
+
+
+				- **2.** paragraph (c) of that definition ***excluded property*** were read as follows:
+
+				- **(c)** property all or substantially all of the income from which is, or would be, if there were income from the property, income from an active business (which, for this purpose, includes income that would be deemed to be income from an active business by paragraph (2)(a) if that paragraph were read without reference to subparagraph (v)) that is included in computing the foreign affiliate’s exempt earnings, or exempt loss, as defined in subsection 5907(1) of the Income Tax Regulations, for a taxation year,
+
+
+		- **(F)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(iii) of the Act to the extent that the trade accounts receivable referred to in that subparagraph arose in the course of an active business carried on by the other foreign affiliate referred to in that subparagraph the income or loss from which is included in computing its exempt earnings or exempt loss for a taxation year,
+		- **(G)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(iv) of the Act to the extent that the loans or lending assets referred to in that subparagraph arose in the course of an active business carried on by the other foreign affiliate referred to in that subparagraph the income or loss from which is included in computing its exempt earnings or exempt loss for a taxation year,
+		- **(H)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(v) of the Act, where all or substantially all of its income, from the property described in that subparagraph, is, or would be if there were income from the property, income from an active business (which, for this purpose, includes income that would be deemed to be income from an active business by paragraph 95(2)(a) of the Act if that paragraph were read without reference to its subparagraph (v) and, for greater certainty, excludes income arising as a result of the disposition of the property) that is included in computing its exempt earnings or exempt loss for a taxation year, or
+		- **(I)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(vi) of the Act, where the agreement for the purchase, sale or exchange of currency referred to in that subparagraph can reasonably be considered to have been made by the particular affiliate to reduce its risk with respect to an amount of income or loss that is included in computing its exempt earnings or exempt loss for a taxation year, or
 - **(e)** where the year is the 1976 or any subsequent taxation year of the particular affiliate, each amount that is included in the particular affiliate’s exempt earnings for the year because of subsection (10),
 
 minus the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the earnings referred to in paragraph (c) or in subparagraph (d)(ii); (*gains exonérés*)
 
-***exempt loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate is the total of all amounts each of which is
-- **(a)** the amount by which the capital losses of the affiliate for the year exceed the total of
+***exempt loss***, of a foreign affiliate of a corporation for a taxation year of the affiliate, means, subject to subsection (2.02), the total of all amounts each of which is
+- **(a)** the amount by which the capital losses of the affiliate for the year (other than capital losses included in computing the amount, at any time in the year, of the particular affiliate’s hybrid surplus, or hybrid deficit, in respect of the particular corporation) exceed the total of
 	- **(i)** the amount of the allowable capital losses for the year referred to in the description of E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act,
-	- **(ii)** the amount of the allowable capital losses for the year referred to in subparagraphs (c)(i) and (d)(iii) of the definition ***net loss*** in this subsection, and
+	- **(ii)** the amount of the allowable capital losses for the year referred to in subparagraphs (c)(i), (e)(i) and (f)(iv) of the definition ***net loss***, and
 	- **(iii)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of the amount by which the capital losses of the affiliate for the year exceed the total of the amounts referred to in subparagraphs (i) and (ii),
+- **(a.1)** the total of all amounts each of which is the portion of an eligible capital expenditure of the affiliate, in respect of a business of the affiliate, that was not included at any time in the affiliate’s cumulative eligible capital in respect of the business, if
+	- **(i)** the business
+		- **(A)** is not an active business (as defined in subsection 95(1) of the Act), or
+		- **(B)** is an active business (as defined in subsection 95(1) of the Act) the affiliate’s earnings from which for the year are determined under subparagraph (a)(iii) of the definition ***earnings***, and
+	- **(ii)** in computing its income for the year, the affiliate has deducted an amount described in paragraph 24(1)(a) of the Act for the year in respect of the business,
 - **(b)** where the year is the 1975 or any preceding taxation year of the affiliate, the total of all amounts each of which is
 	- **(i)** the affiliate’s net loss for the year from an active business carried on by it in a country, or
 	- **(ii)** the amount, if any, for the year by which
 		- **(A)** the amount determined under the description of D in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for the yearexceeds
 		- **(B)** the amount determined under the description of A in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for the year,
-- **(c)** where the year is the 1976 or any subsequent taxation year of the affiliate and the affiliate is resident in a designated treaty country, each amount that is the affiliate’s net loss for the year from an active business carried on by it in Canada or in a designated treaty country, or
-- **(d)** where the year is the 1976 or any subsequent taxation year of the affiliate, each amount that is included in the affiliate’s exempt loss for the year because of subsection (10); (*perte exonérée*
+- **(c)** where the year is the 1976 or any subsequent taxation year of the affiliate and the affiliate is, throughout the year, resident in a designated treaty country,
+	- **(i)** the affiliate’s net loss for the year from an active business carried on by it in Canada or a designated treaty country, or
+	- **(ii)** the amount by which
+		- **(A)** the affiliate’s loss for the year from an active business to the extent determined under subparagraph (d)(ii) of the definition ***exempt earnings*** in respect of the year with any modifications that the circumstances requireexceeds
+		- **(B)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under clause (A), or
+- **(d)** where the year is the 1976 or any subsequent taxation year of the affiliate, each amount that is included in the affiliate’s exempt loss for the year because of subsection (10); (*perte exonérée*)
 
-***exempt surplus*** of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation is, at any particular time, the amount determined by the formula
-```
-A - B
-```
-
-
-in respect of the period beginning with the time that is the latest of
+***exempt surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
-- **(b)** where the corporation is an acquiring corporation referred to in subsection 5905(5) and the subject affiliate is a particular affiliate referred to in that subsection or another foreign affiliate in which such a particular affiliate had an equity percentage at the time referred to in that subsection, the last time at which that subsection was applicable in respect of the subject affiliate, and
-- **(c)** where the subject affiliate is a foreign affiliate referred to in subsection 5905(1), (2), (8) or (9) or paragraph 5905(3)(b), the last time at which any of those subsections or that paragraph was applicable in respect of the subject affiliate
-
-and ending with the particular time, where
+- **(b)** the last time for which the opening exempt surplus of the subject affiliate in respect of the corporation was required to be determined under section 5905, and
+- **(c)** the last time for which the opening exempt deficit of the subject affiliate in respect of the corporation was required to be determined under section 5905
+```
+A – B
+```
+where
 - **A** is the total of all amounts, in respect of the period, each of which is
-- **(i)** the opening exempt surplus of the subject affiliate as determined under subsection 5905(1), (2), (3), (5), (8) or (9), at the time established in paragraph (a), (b) or (c),
+- **(i)** the opening exempt surplus, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
 - **(ii)** the exempt earnings of the subject affiliate for any of its taxation years ending in the period,
 - **(iii)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(a) to have been paid out of the payer affiliate’s exempt surplus in respect of the corporation,
 - **(iv)** the portion of any income or profits tax refunded by or the amount of a tax credit paid by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded or paid in respect of any amount referred to in subparagraph (iii) and that was not deducted in determining any amount referred to in subparagraph (iii) of the description of B,
 - **(v)** the portion of any taxable dividend received in the period and before the particular time by the subject affiliate that would, if the dividend were received by the corporation, be deductible by it under section 112 of the Act,
-- **(vi)** an amount added to the exempt surplus of the subject affiliate or deducted from its exempt deficit in the period and before the particular time under any provision of subsection (1.1) or (1.2), or
-- **(vii)** an amount added, in the period and before the particular time, to the exempt surplus of the subject affiliate under paragraph (7.1)(d), and
+- **(vi)** an amount added to the exempt surplus of the subject affiliate or deducted from its exempt deficit in the period and before the particular time under any provision of subsection (1.1) or (1.2),
+- **(vi.1)** each amount that is required, under section 5905, to be included under this subparagraph in the period and before the particular time, or
+- **(vii)** an amount added, in the period and before the particular time, to the exempt surplus of the subject affiliate under paragraph (7.1)(d) (as that paragraph applied to dividends paid on or before August 19, 2011), and
 - **B** is the total of those of the following amounts that apply in respect of the period:
-- **(i)** the opening exempt deficit of the subject affiliate as determined under subsection 5905(1), (2), (3), (5), (8) or (9), at the time established in paragraph (a), (b) or (c),
+- **(i)** the opening exempt deficit, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (c),
 - **(ii)** the exempt loss of the subject affiliate for any of its taxation years ending in the period,
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of any amount referred to in subparagraph (iii), (iv) or (v) of the description of A,
 - **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed by paragraph 5901(1)(a) to have been paid out of the subject affiliate’s exempt surplus in respect of the corporation,
-- **(v)** each amount that is determined under paragraph 5902(4)(a) or subparagraph 5905(2)(a)(i), (6)(a)(i) or (8)(a)(i) in the period and before the particular time, or
+- **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(d)(xii) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
 - **(vi)** an amount, in the period and before the particular time, deducted from the exempt surplus of the subject affiliate or added to its exempt deficit under any provision of subsection (1.1) or (1.2); (*surplus exonéré*)
 
-***loss*** of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business carried on by it in a country is the amount of its loss for the year from that active business carried on in that country computed by applying the provisions of paragraph (a) of the definition ***earnings*** in this subsection respecting the computation of earnings from that active business carried on in that country, with any modifications that the circumstances require; (*perte*)
+***hybrid deficit***, of a foreign affiliate of a corporation in respect of the corporation at any time, means the amount, if any, by which
+- **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of B in the definition ***hybrid surplus***
+
+exceeds
+- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (v) of the description of A in that definition; (*déficit hybride*)
+
+***hybrid surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
+- **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
+- **(b)** the last time for which the opening hybrid surplus of the subject affiliate in respect of the corporation was required to be determined under section 5905, and
+- **(c)** the last time for which the opening hybrid deficit of the subject affiliate in respect of the corporation was required to be determined under section 5905
+```
+A – B
+```
+where
+- **A** is the total of all amounts, in respect of the period, each of which is
+- **(i)** the opening hybrid surplus, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
+- **(ii)** the amount of a capital gain (except to the extent that the taxable portion of the capital gain is included under the description of B in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the subject affiliate), for a taxation year, of the subject affiliate, or of a partnership of which the subject affiliate is a member (to the extent that the capital gain is reasonably attributable to the subject affiliate), in respect of a disposition, at any time in the period, of
+- **(A)** a share of the capital stock of another foreign affiliate of the corporation,
+- **(B)** a partnership interest, or
+- **(C)** a property, that is an excluded property of the subject affiliate because of paragraph (c.1) of the definition ***excluded property*** in subsection 95(1) of the Act, that related to
+- **(I)** an amount that was receivable under an agreement that relates to the sale of a property that is referred to in clause (A) or (B) the capital gain or capital loss from the sale of which is included under this subparagraph or subparagraph (ii) of the description of B, as the case may be, or
+- **(II)** an amount payable, or an amount of indebtedness, described in clause (c.1)(ii)(B) of that definition ***excluded property*** arising in respect of the acquisition of an excluded property of the affiliate that is referred to in clause (A) or (B) any capital gain or capital loss from the disposition of which would, if that excluded property were disposed of, be included under this subparagraph or subparagraph (ii) of the description of B, as the case may be,
+- **(iii)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of an amount referred to in subparagraph (ii) or (iii) of the description of B,
+- **(iv)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed under subsection 5905(7) to have been received by the subject affiliate) that was prescribed under paragraph 5900(1)(a.1) to have been paid out of the payer affiliate’s hybrid surplus in respect of the corporation, or
+- **(v)** an amount added to the hybrid surplus of the subject affiliate or deducted from its hybrid deficit in the period and before the particular time under subsection (1.1) or (1.2), and
+- **B** is the total of those of the following amounts that apply in respect of the period:
+- **(i)** the opening hybrid deficit, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (c),
+- **(ii)** the amount of a capital loss (except to the extent that the allowable portion of the capital loss is included under paragraph (a) of the description of E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the subject affiliate), for a taxation year, of the subject affiliate, or of a partnership of which the subject affiliate is a member (to the extent that the capital loss is reasonably attributable to the subject affiliate), in respect of a disposition, at any time in the period, of
+- **(A)** a share of the capital stock of another foreign affiliate of the corporation,
+- **(B)** a partnership interest, or
+- **(C)** a property, that is an excluded property of the subject affiliate because of paragraph (c.1) of the definition ***excluded property*** in subsection 95(1) of the Act, that related to
+- **(I)** an amount that was receivable under an agreement that relates to the sale of a property that is referred to in clause (A) or (B) the capital gain or capital loss from the sale of which is included under subparagraph (ii) of the description of A or this subparagraph, as the case may be, or
+- **(II)** an amount payable, or an amount of indebtedness, described in clause (c.1)(ii)(B) of that definition ***excluded property*** arising in respect of the acquisition of an excluded property of the affiliate that is referred to in clause (A) or (B) any capital gain or capital loss from the disposition of which would, if that excluded property were disposed of, be included under subparagraph (ii) of the description of A or this subparagraph, as the case may be,
+- **(iii)** the amount of a capital loss for a taxation year of the subject affiliate that would arise in respect of a disposition, at any time in the period, of a share of the capital stock of another foreign affiliate of the corporation in the course of the liquidation and dissolution of that other affiliate if subclause 95(2)(e)(iv)(A)(II) of the Act were read without reference to its sub-subclause 1 and section 93 of the Act were read without reference to its subsection (4),
+- **(iv)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of an amount referred to in subparagraph (ii) or (iv) of the description of A,
+- **(v)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation,
+- **(vi)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
+- **(vii)** an amount, in the period and before the particular time, deducted from the hybrid surplus of the subject affiliate or added to its hybrid deficit under subsection (1.1) or (1.2); (*surplus hybride*)
+
+***hybrid underlying tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
+- **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
+- **(b)** the last time for which the opening hybrid underlying tax of the subject affiliate in respect of the corporation was required to be determined under section 5905
+```
+A – B
+```
+where
+- **A** is the total of all amounts, in respect of the period, each of which is
+- **(i)** the opening hybrid underlying tax, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
+- **(ii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of any amount referred to in subparagraph (ii) or (iv) of the description of A in the definition ***hybrid surplus***,
+- **(iii)** each amount that was prescribed by paragraph 5900(1)(c.1) to have been the foreign tax applicable to the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed under subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(a.1) to have been paid out of the payer affiliate’s hybrid surplus in respect of the corporation, or
+- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be increased under subsection (1.1) or (1.2),
+- **B** is the total of those of the following amounts that apply in respect of the period:
+- **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of an amount referred to in subparagraph (ii) or (iii) of the description of B in the definition ***hybrid surplus***,
+- **(ii)** the hybrid underlying tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation before that time,
+- **(iii)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
+- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be decreased in the period and before the particular time under subsection (1.1) or (1.2); (*montant intrinsèque d’impôt hybride*)
+
+***hybrid underlying tax applicable***, in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate, means the proportion of the hybrid underlying tax of the affiliate at that time in respect of the corporation that
+- **(a)** the portion of the whole dividend deemed to have been paid out of the affiliate’s hybrid surplus in respect of the corporation
+
+is of
+- **(b)** the affiliate’s hybrid surplus at that time in respect of the corporation; (*montant intrinsèque d’impôt hybride applicable*)
+
+***loss***, of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business, means
+- **(a)** in the case of an active business carried on by it in a country, the amount of its loss for the year from the active business carried on in the country computed by applying the provisions of paragraph (a) of the definition ***earnings*** respecting the computation of earnings from that active business carried on in that country, with any modifications that the circumstances require, and
+- **(b)** in any other case, the total of all amounts each of which is an amount of a loss that would be required under paragraph 95(2)(a) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that loss were computed taking into account the rules in subsection (2.03); (*perte*)
 
 ***net earnings*** of a foreign affiliate of a corporation for a taxation year of the affiliate
 - **(a)** from an active business carried on by it in a country is the amount of its earnings for the year from that active business carried on in that country minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of those earnings,
-- **(b)** in respect of foreign accrual property income is the amount that would be its foreign accrual property income for the year, if the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act were read without reference to the variable F in that formula, minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of that income,
+- **(b)** in respect of foreign accrual property income is the amount that would be its foreign accrual property income for the year, if the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act were read without reference to F and F.1 in that formula and the amount determined for E in that formula were the amount determined under paragraph (a) of the description of E in that formula, minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of that income,
 - **(c)** from dispositions of property used or held by it principally for the purpose of gaining or producing income from an active business carried on by it in a country that is not a designated treaty country (other than Canada) is the amount, if any, by which
 	- **(i)** the portion of the affiliate’s taxable capital gains for the year from those dispositions that can reasonably be considered to have accrued after November 12, 1981
 exceeds
-	- **(ii)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of the amount determined under subparagraph (i), and
-- **(d)** from dispositions of
-	- **(i)** shares of the capital stock of another foreign affiliate of the corporation that were excluded property of the affiliate (other than dispositions to which paragraph 95(2)(c), (d) or (e) of the Act was applicable), or
-	- **(ii)** partnership interests that were excluded property of the affiliate
-is the amount, if any, by which
-	- **(iii)** the portion of the affiliate’s taxable capital gains for the year from those dispositions that can reasonably be considered to have accrued after its 1975 taxation year
+	- **(ii)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of the amount determined under subparagraph (i),
+- **(d)** [Repealed, 2013, c. 34, s. 85]
+- **(e)** from the disposition of a property that is an excluded property of the affiliate that is described in paragraph (c) of the definition ***excluded property*** in subsection 95(1) of the Act but that would not be an excluded property of the affiliate if that paragraph were read in the manner described in sub-subclause (d)(ii)(E)(II)2 of the definition ***exempt earnings*** is the amount, if any, by which
+	- **(i)** the portion of the affiliate’s taxable capital gain for the year from the disposition of the property that accrued after its 1975 taxation year
 exceeds
-	- **(iv)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of the amount determined under subparagraph (iii); (*gains nets*)
+	- **(ii)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax that was paid in respect of the amount determined under subparagraph (i), and
+- **(f)** from a particular disposition of a property, that is an excluded property of the affiliate because of paragraph (c.1) of the definition ***excluded property*** in subsection 95(1) of the Act, that related to
+	- **(i)** an amount that was receivable under an agreement that relates to the sale of a particular property the taxable capital gain or allowable capital loss from the sale of which is included under any of paragraphs (c) to (e) of this definition or of the definition ***net loss***, as the case may be,
+	- **(ii)** an amount that was receivable and was a property that was described in paragraph (c) of that definition ***excluded property*** but that would not have been an excluded property of the affiliate if that paragraph were read in the manner described in sub-subclause (d)(ii)(E)(II)2 of the definition ***exempt earnings***, or
+	- **(iii)** an amount payable, or an amount of indebtedness, described in clause (c.1)(ii)(B) of that definition ***excluded property*** arising in respect of the acquisition of an excluded property of the affiliate any taxable capital gain or allowable capital loss from the disposition of which would, if that excluded property were disposed of, be included under any of paragraphs (c) to (e) of this definition or of the definition ***net loss***, as the case may be,
+is the amount, if any, by which
+	- **(iv)** the portion of the affiliate’s taxable capital gain for the year from the particular disposition that accrued after its 1975 taxation year
+exceeds
+	- **(v)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax that was paid for the year in respect of the amount determined under subparagraph (iv); (*gains nets*)
 
 ***net loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate
 - **(a)** from an active business carried on by it in a country is the amount of its loss for the year from that active business carried on in that country minus the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of that loss,
 - **(b)** in respect of foreign accrual property income is the amount, if any, by which
 	- **(i)** the amount, if any, by which
-		- **(A)** the total of the amounts determined under the descriptions of D, E and G in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for the yearexceeds
+		- **(A)** the total of
+			- **(I)** the amount determined for D in the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for the year,
+			- **(II)** the amount determined under paragraph (a) of the description of E in that formula for the year,
+			- **(III)** the amount determined for G in that formula for the year, and
+			- **(IV)** the amount determined for H in that formula for the yearexceeds
 		- **(B)** the total of the amounts determined under the descriptions of A, A.1, A.2, B and C in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for the year
 exceeds
 	- **(ii)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of the amount determined under subparagraph (i),
 - **(c)** from dispositions of property used or held by it principally for the purpose of gaining or producing income from an active business carried on by it in a country that is not a designated treaty country (other than Canada) is the amount, if any, by which
 	- **(i)** the portion of the affiliate’s allowable capital losses for the year from those dispositions that can reasonably be considered to have accrued after November 12, 1981
 exceeds
-	- **(ii)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of the amount determined under subparagraph (i), and
-- **(d)** from dispositions of
-	- **(i)** shares of the capital stock of another foreign affiliate of the corporation that were excluded property of the affiliate (other than dispositions to which paragraph 95(2)(c), (d) or (e) of the Act was applicable), or
-	- **(ii)** partnership interests that were excluded property of the affiliate
-is the amount, if any, by which
-	- **(iii)** the portion of the affiliate’s allowable capital losses for the year from those dispositions that can reasonably be considered to have accrued after its 1975 taxation year
+	- **(ii)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of the amount determined under subparagraph (i),
+- **(d)** [Repealed, 2013, c. 34, s. 85]
+- **(e)** from the disposition of a property, that is an excluded property of the affiliate that is described in paragraph (c) of the definition ***excluded property*** in subsection 95(1) of the Act but that would not be an excluded property of the affiliate if that paragraph were read in the manner described in sub-subclause (d)(ii)(E)(II)2 of the definition ***exempt earnings*** is the amount, if any, by which
+	- **(i)** the portion of the affiliate’s allowable capital loss for the year from the disposition of the property that accrued after its 1975 taxation year
 exceeds
-	- **(iv)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of the amount determined under subparagraph (iii); (*perte nette*)
+	- **(ii)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under subparagraph (i), and
+- **(f)** from a particular disposition of a property, that is an excluded property of the affiliate because of paragraph (c.1) of the definition ***excluded property*** in subsection 95(1) of the Act, that related to
+	- **(i)** an amount that was receivable under an agreement that relates to the sale of a particular property the taxable capital gain or allowable capital loss from the sale of which is included under any of paragraphs (c) to (e) of this definition or of the definition ***net earnings***, as the case may be,
+	- **(ii)** an amount that was receivable and was a property that was described in paragraph (c) of that definition ***excluded property*** but that would not have been an excluded property of the affiliate if that paragraph were read in the manner described in sub-subclause (d)(ii)(E)(II)2 of the definition ***exempt earnings***, or
+	- **(iii)** an amount payable, or an amount of indebtedness, described in clause (c.1)(ii)(B) of that definition ***excluded property*** arising in respect of the acquisition of an excluded property of the affiliate any taxable capital gain or allowable capital loss from the disposition of which would, if that excluded property were disposed of, be included under any of paragraphs (c) to (e) of this definition or of the definition ***net earnings***, as the case may be,
+is the amount, if any, by which
+	- **(iv)** the portion of the affiliate’s allowable capital loss for the year from the particular disposition that accrued after its 1975 taxation year
+exceeds
+	- **(v)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under subparagraph (iv); (*perte nette*)
 
 ***net surplus*** of a foreign affiliate of a corporation resident in Canada in respect of the corporation is, at any particular time,
-- **(a)** if the affiliate has no exempt deficit and no taxable deficit, the amount that is the total of its exempt surplus and taxable surplus in respect of the corporation,
-- **(b)** if the affiliate has no taxable surplus, the amount, if any, by which its exempt surplus exceeds its taxable deficit in respect of the corporation, or
-- **(c)** if the affiliate has no exempt surplus, the amount, if any, by which its taxable surplus exceeds its exempt deficit in respect of the corporation,
+- **(a)** if the affiliate has no exempt deficit, no hybrid deficit and no taxable deficit, the amount that is the total of its exempt surplus, hybrid surplus and taxable surplus in respect of the corporation,
+- **(b)** if the affiliate has no exempt deficit but has a hybrid deficit and a taxable deficit, the amount, if any, by which its exempt surplus exceeds the total of its hybrid deficit and taxable deficit in respect of the corporation,
+- **(c)** if the affiliate has no exempt deficit and no hybrid deficit but has a taxable deficit, the amount, if any, by which the total of its exempt surplus and hybrid surplus exceeds its taxable deficit in respect of the corporation,
+- **(d)** if the affiliate has no exempt deficit and no taxable deficit but has a hybrid deficit, the amount, if any, by which the total of its exempt surplus and taxable surplus exceeds its hybrid deficit in respect of the corporation,
+- **(e)** if the affiliate has an exempt deficit but no hybrid deficit or taxable deficit, the amount, if any, by which the total of its hybrid surplus and taxable surplus exceeds its exempt deficit in respect of the corporation,
+- **(f)** if the affiliate has an exempt deficit and a hybrid deficit but no taxable deficit, the amount, if any, by which its taxable surplus exceeds the total of its exempt deficit and hybrid deficit in respect of the corporation, or
+- **(g)** if the affiliate has an exempt deficit and a taxable deficit but no hybrid deficit, the amount, if any, by which its hybrid surplus exceeds the total of its exempt deficit and taxable deficit in respect of the corporation,
 
 as the case may be, at that time; (*surplus net*)
 
@@ -11384,9 +11483,12 @@ exceeds
 - **(b)** in any other case, the total of all amounts each of which is
 	- **(i)** the affiliate’s net earnings for the year from an active business carried on by it in a country,
 	- **(ii)** the affiliate’s net earnings for the year in respect of its foreign accrual property income,
-	- **(iii)** to the extent that they have not been included under subparagraph (i) or deducted in determining an amount included under subparagraph (b)(i) of the definition ***taxable loss*** in this subsection, the earnings for the year as determined under paragraph (b) of the definition ***earnings*** in this subsection minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of those earnings,
-	- **(iv)** the affiliate’s net earnings for the year from dispositions of property used or held by it principally for the purpose of gaining or producing income from an active business carried on by it in a country that is not a designated treaty country (other than Canada), or
-	- **(v)** the affiliate’s net earnings for the year from dispositions of shares of the capital stock of another foreign affiliate of the corporation that were excluded property of the affiliate (other than dispositions to which paragraph 95(2)(c), (d) or (e) of the Act was applicable) or dispositions of partnership interests that were excluded property of the affiliate,
+	- **(iii)** the affiliate’s earnings for the year as determined under paragraph (b) of the definition ***earnings*** minus the portion of any income or profits tax paid to the government of a country for a year by the affiliate that can reasonably be regarded as tax in respect of those earnings,
+	- **(iv)** to the extent not included under subparagraph (ii), the affiliate’s net earnings for the year determined under paragraphs (c) to (f) of the definition ***net earnings***, or
+	- **(iv.1)** the amount, if any, by which
+		- **(A)** the total of all amounts each of which is an amount required by paragraph (2.02)(a) to be included under this definition for the yearexceeds
+		- **(B)** the total of all amounts each of which is an amount required by paragraph (2.02)(b) to be deducted under this definition for the year,
+	- **(v)** [Repealed, 2013, c. 34, s. 46]
 
 but does not include any amount included in the affiliate’s exempt earnings for the year; (*gains imposables*)
 
@@ -11395,59 +11497,52 @@ but does not include any amount included in the affiliate’s exempt earnings fo
 - **(b)** in any other case, the total of all amounts each of which is
 	- **(i)** the affiliate’s net loss for the year from an active business carried on by it in a country,
 	- **(ii)** the affiliate’s net loss for the year in respect of foreign accrual property income,
-	- **(iii)** the affiliate’s net loss for the year from dispositions of property used or held by it principally for the purpose of gaining or producing income from an active business carried on by it in a country that is not a designated treaty country (other than Canada), or
-	- **(iv)** the affiliate’s net loss for the year from dispositions of shares of the capital stock of another foreign affiliate of the corporation that were excluded property of the affiliate (other than dispositions to which paragraph 95(2)(c), (d) or (e) of the Act was applicable) or dispositions of partnership interests that were excluded property of the affiliate,
+	- **(iii)** the affiliate’s loss for the year as determined under paragraph (b) of the definition ***loss*** minus the portion of any income or profits tax refunded by the government of a country for a year to the affiliate that can reasonably be regarded as tax refunded in respect of that loss, or
+	- **(iv)** to the extent not included under subparagraph (ii), the affiliate’s net loss for the year determined under paragraphs (c) to (f) of the definition ***net loss***,
 
 but does not include any amount included in the affiliate’s exempt loss for the year; (*perte imposable*)
 
-***taxable surplus*** of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation is, at any particular time, the amount determined by the formula
-```
-A - B
-```
-
-
-in respect of the period beginning with the time that is the latest of
+***taxable surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
-- **(b)** where the corporation is an acquiring corporation referred to in subsection 5905(5) and the subject affiliate is a particular affiliate referred to in that subsection or another foreign affiliate in which such a particular affiliate had an equity percentage at the time referred to in that subsection, the last time at which that subsection was applicable in respect of the subject affiliate, and
-- **(c)** where the subject affiliate is a foreign affiliate referred to in subsection 5905(1), (2), (8) or (9) or paragraph 5905(3)(b), the last time at which any of those subsections or that paragraph was applicable in respect of the subject affiliate
-
-and ending with the particular time, where
+- **(b)** the last time for which the opening taxable surplus of the subject affiliate in respect of the corporation was required to be determined under section 5905, and
+- **(c)** the last time for which the opening taxable deficit of the subject affiliate in respect of the corporation was required to be determined under section 5905
+```
+A – B
+```
+where
 - **A** is the total of all amounts, in respect of the period, each of which is
-- **(i)** the opening taxable surplus of the subject affiliate as determined under subsection 5905(1), (2), (3), (5), (8) or (9), at the time established in paragraph (a), (b) or (c),
+- **(i)** the opening taxable surplus, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
 - **(ii)** the taxable earnings of the subject affiliate for any of its taxation years ending in the period,
 - **(iii)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(b) to have been paid out of the payer affiliate’s taxable surplus in respect of the corporation,
 - **(iv)** an amount added to the taxable surplus of the subject affiliate or deducted from its taxable deficit in the period and before the particular time under any provision of subsection (1.1) or (1.2),
-- **(v)** an amount added, in the period and before the particular time, to the subject affiliate’s taxable surplus under paragraph (7.1)(e), and
+- **(iv.1)** each amount that is required under section 5905 to be included under this subparagraph in the period and before the particular time, or
+- **(v)** an amount added, in the period and before the particular time, to the subject affiliate’s taxable surplus under paragraph (7.1)(e) (as that paragraph applied to dividends paid on or before August 19, 2011), and
 - **B** is the total of those of the following amounts that apply in respect of the period:
-- **(i)** the opening taxable deficit of the subject affiliate as determined under subsection 5905(1), (2), (3), (5), (8) or (9), at the time established in paragraph (a), (b) or (c),
+- **(i)** the opening taxable deficit, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (c),
 - **(ii)** the taxable loss of the subject affiliate for any of its taxation years ending in the period,
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of that portion of a dividend referred to in subparagraph (iii) of the description of A,
-- **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed by paragraph 5901(1)(b) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation,
-- **(v)** each amount that is determined under paragraph 5902(4)(b) or subparagraph 5905(2)(a)(ii), (6)(a)(ii) or (8)(a)(ii) in the period and before the particular time, or
+- **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation,
+- **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(k)(xi) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
 - **(vi)** an amount, in the period and before the particular time, deducted from the taxable surplus of the subject affiliate or added to its taxable deficit under any provision of subsection (1.1) or (1.2); (*surplus imposable*)
 
-***underlying foreign tax*** of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation is, at any particular time, the amount, determined by the formula
+***underlying foreign tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
+- **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
+- **(b)** the last time for which the opening underlying foreign tax of the subject affiliate in respect of the corporation was required to be determined under section 5905
+- **(c)** [Repealed, 2013, c. 34, s. 46]
 ```
-A - B
+A – B
 ```
-
-
-in respect of the period beginning with the time that is the latest of
-- **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
-- **(b)** where the corporation is an acquiring corporation referred to in subsection 5905(5) and the subject affiliate is a particular affiliate referred to in that subsection or another foreign affiliate in which such a particular affiliate had an equity percentage at the time referred to in that subsection, the last time at which that subsection was applicable in respect of the subject affiliate, and
-- **(c)** where the subject affiliate is a foreign affiliate referred to in subsection 5905(1), (2), (8) or (9) or paragraph 5905(3)(b), the last time at which any of those subsections or that paragraph was applicable in respect of the subject affiliate
-
-and ending with the particular time, where
-- **A** is the total of all amounts, in respect of the period, each of which is
-- **(i)** the opening underlying foreign tax of the subject affiliate as determined under subsection 5905(1), (2), (3), (5), (8) or (9), at the time established in paragraph (a), (b) or (c),
-- **(ii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of the taxable earnings of the subject affiliate for a taxation year ending in the period,
+where
+- **A** is, subject to subsection (1.03), the total of all amounts, in respect of the period, each of which is
+- **(i)** the opening underlying foreign tax, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
+- **(ii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of the taxable earnings, including for greater certainty any amounts included because of paragraph (2.02)(a) in computing the taxable earnings, of the affiliate for a taxation year ending in the period,
 - **(iii)** the portion of any income or profits tax referred to in subparagraph (iii) of the description of B in the definition ***taxable surplus*** in this subsection paid by the subject affiliate in respect of a dividend received from any other foreign affiliate of the corporation,
 - **(iv)** each amount that was prescribed by paragraph 5900(1)(d) to have been the foreign tax applicable to the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(b) to have been paid out of the payer affiliate’s taxable surplus in respect of the corporation, or
 - **(v)** the amount by which the subject affiliate’s underlying foreign tax is required to be increased by any provision of subsection (1.1) or (1.2),
 - **B** is the total of those of the following amounts that apply in respect of the period:
 - **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of the taxable loss of the subject affiliate for a taxation year ending in the period,
-- **(ii)** the underlying foreign tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed by paragraph 5901(1)(b) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation before that time,
-- **(iii)** each amount that is required by paragraph 5902(4)(c) or subparagraph 5905(2)(a)(iii), (6)(a)(iii) or (8)(a)(iii) to be deducted in the period and before the particular time in computing the subject affiliate’s underlying foreign tax, or
+- **(ii)** the underlying foreign tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation before that time,
+- **(iii)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(l)(x) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
 - **(iv)** the amount by which the subject affiliate’s underlying foreign tax is required to be decreased in the period and before the particular time by any provision of subsection (1.1) or (1.2); (*montant intrinsèque d’impôt étranger*)
 
 ***underlying foreign tax applicable*** in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate is the total of
@@ -11455,25 +11550,58 @@ and ending with the particular time, where
 	- **(i)** the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation
 is of
 	- **(ii)** the affiliate’s taxable surplus at that time in respect of the corporation, and
-- **(b)** except with respect to any whole dividend referred to in section 5902, in any case where throughout the taxation year of the affiliate in which the whole dividend was paid
-	- **(i)** there is no more than one class of shares of the capital stock of the affiliate issued and outstanding,
-	- **(ii)** the surplus entitlement percentage of the corporation in respect of the affiliate is 100 per cent, or
-	- **(iii)** there is not more than one shareholder who owns shares of the capital stock of the affiliate,
-any additional amount in respect of the whole dividend that the corporation claims in its return of income under Part I of the Act in respect of the whole dividend, not exceeding the amount that is the lesser of
-	- **(iv)** the amount by which the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation exceeds the amount determined under paragraph (a), and
-	- **(v)** the amount by which the underlying foreign tax of the affiliate in respect of the corporation immediately before the whole dividend was paid exceeds the amount determined under paragraph (a); (*montant intrinsèque d’impôt étranger applicable*)
+- **(b)** any additional amount in respect of the whole dividend that the corporation claims in its return of income under Part I of the Act in respect of the whole dividend, not exceeding the amount that is the lesser of
+	- **(i)** the amount by which the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation exceeds the amount determined under paragraph (a), and
+	- **(ii)** the amount by which the affiliate’s underlying foreign tax in respect of the corporation immediately before the whole dividend was paid exceeds the amount determined under paragraph (a); (*montant intrinsèque d’impôt étranger applicable*)
 
 ***whole dividend*** paid at any time on the shares of a class of the capital stock of a foreign affiliate of a taxpayer resident in Canada is the total of all amounts each of which is the dividend paid at that time on a share of that class except that
 - **(a)** where a dividend is paid at the same time on shares of more than one class of the capital stock of an affiliate, for the purpose only of section 5900, the whole dividend referred to in section 5901 paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is the dividend paid at that time on a share of the capital stock of the affiliate,
-- **(b)** where a whole dividend is deemed by paragraph 5902(1)(c) to have been paid at the same time on shares of more than one class of the capital stock of an affiliate, for the purpose only of that paragraph, the whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate, and
+- **(b)** where a whole dividend is deemed by subparagraph 5902(1)(a)(ii) to have been paid at the same time on shares of more than one class of an affiliate’s capital stock, for the purpose only of that subparagraph, the whole dividend deemed to have been paid at that time on the shares of a class of the affiliate’s capital stock is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the affiliate’s capital stock, and
 - **(c)** where more than one whole dividend is deemed by paragraph 5900(2)(b) to have been paid at the same time on shares of a class of the capital stock of an affiliate, for the purposes only of paragraph 5900(1)(d) and the definitions ***underlying foreign tax*** and ***underlying foreign tax applicable*** in this subsection, the whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate and all of that whole dividend shall be deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation. (*dividende global*)
 
-- **(1.01)** For the purpose of section 113 of the Act, ***exempt surplus*** and ***taxable surplus*** have the meanings assigned by subsection (1).
+- **(1.01)** For the purposes of section 113 of the Act, ***exempt surplus***, ***hybrid surplus*** and ***taxable surplus*** have the meanings assigned by subsection (1).
 
-- **(1.02)** In paragraph (d) of the definition ***exempt earnings*** in subsection (1), the determination of whether a corporation
-	- **(a)** has a “qualifying interest” in respect of a foreign affiliate throughout a taxation year, or
-	- **(b)** is related to another corporation throughout a taxation year
-shall be made as it would for the purpose of paragraph 95(2)(a) of the Act.
+- **(1.02)** For the purposes of paragraph (d) of the definition ***exempt earnings*** and paragraph (c) of the definition ***exempt loss*** in subsection (1), if a foreign affiliate of a corporation becomes a foreign affiliate of the corporation in a taxation year of the affiliate, otherwise than as a result of a transaction between persons that do not deal with each other at arm’s length, and the affiliate is resident in a designated treaty country at the end of the year, the affiliate is deemed to be so resident throughout the year.
+
+- **(1.03)** For the purposes of the description of A in the definition ***underlying foreign tax*** in subsection (1), income or profits tax paid in respect of the taxable earnings of a particular foreign affiliate of a particular corporation or in respect of a dividend received by the particular affiliate from another foreign affiliate of the particular corporation, and amounts by which the underlying foreign tax of the particular affiliate or any other foreign affiliate of the particular corporation is required under subsection (1.1) or (1.2) to be increased, is not to include any income or profits tax paid, or amounts by which the underlying foreign tax would otherwise be so required to be increased, as the case may be, in respect of the foreign accrual property income of the particular affiliate for a taxation year of the particular affiliate if, at any time in the year, a specified owner in respect of the particular corporation is considered,
+	- **(a)** under the income tax laws (referred to in subsection (1.07) as the “relevant foreign tax law”) of any country other than Canada under the laws of which any income of another corporation — that is, at any time in the year, a pertinent person or partnership in respect of the particular affiliate — is subject to income taxation, to own less than all of the shares of the capital stock of the other corporation that are considered to be owned by the specified owner for the purposes of the Act; or
+	- **(b)** under the income tax laws (referred to in subsection (1.08) as the “relevant foreign tax law”) of any country other than Canada under the laws of which any income of a particular partnership — that is, at any time in the year, a pertinent person or partnership in respect of the particular affiliate — is subject to income taxation, to have a lesser direct or indirect share of the income of the particular partnership than the specified owner is considered to have for the purposes of the Act.
+
+- **(1.04)** For the purposes of subsections (1.03) and (1.07), a ***specified owner***, at any time, in respect of a corporation means the corporation or a person or partnership that is, at that time,
+	- **(a)** a partnership of which the corporation is a member;
+	- **(b)** a foreign affiliate of the corporation;
+	- **(c)** a partnership a member of which is a foreign affiliate of the corporation; or
+	- **(d)** a person or partnership referred to in any of subparagraphs (1.06)(a)(i) to (iii).
+
+- **(1.05)** For the purposes of this subsection and subsection (1.03), a ***pertinent person or partnership***, at any time, in respect of a particular foreign affiliate of a corporation means the particular affiliate or a person or partnership that is, at that time,
+	- **(a)** another foreign affiliate of the corporation
+		- **(i)** in which the particular affiliate has an equity percentage, or
+		- **(ii)** that has an equity percentage in the particular affiliate;
+	- **(b)** a partnership a member of which is at that time a pertinent person or partnership in respect of the particular affiliate under this subsection; or
+	- **(c)** a person or partnership referred to in any of subparagraphs (1.06)(b)(i) to (iii).
+
+- **(1.06)** For the purposes of subsections (1.04) and (1.05), if, as part of a series of transactions or events that includes the earning of the foreign accrual property income referred to in subsection (1.03), a foreign affiliate (referred to in this subsection as the “funding affiliate”) of the corporation or of a person (referred to in this subsection as the “related person”) resident in Canada that is related to the corporation, or a partnership (referred to in this subsection as the “funding partnership”) of which such an affiliate is a member, directly or indirectly provided funding to the particular affiliate, or a partnership of which the particular affiliate is a member, otherwise than by way of loans or other indebtedness that are subject to terms or conditions made or imposed, in respect of the loans or other indebtedness, that do not differ from those that would be made or imposed between persons dealing at arm’s length or by way of an acquisition of shares of the capital stock of any corporation, then
+	- **(a)** if the funding affiliate is, or the funding partnership has a member that is, a foreign affiliate of the related person, the following persons and partnerships are deemed, at all times during which the foreign accrual property income is earned by the particular affiliate, to be specified owners in respect of the corporation:
+		- **(i)** the related person,
+		- **(ii)** each foreign affiliate of the related person, and
+		- **(iii)** each partnership a member of which is referred to in subparagraph (i) or (ii); and
+	- **(b)** the following persons and partnerships are deemed, at all times during which the foreign accrual property income is earned by the particular affiliate, to be pertinent persons or partnerships in respect of the particular affiliate:
+		- **(i)** the funding affiliate or the funding partnership,
+		- **(ii)** a non-resident corporation
+			- **(A)** in which the funding affiliate has an equity percentage, or
+			- **(B)** that has an equity percentage in the funding affiliate, and
+		- **(iii)** a partnership a member of which is a person or partnership referred to in subparagraph (i) or (ii).
+
+- **(1.07)** For the purposes of paragraph (1.03)(a), a specified owner in respect of the particular corporation is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of another corporation that are considered to be owned for the purposes of the Act solely because the specified owner is not treated as a corporation under the relevant foreign tax law.
+
+- **(1.08)** For the purposes of paragraph (1.03)(b), a member of a partnership is not to be considered to have a lesser direct or indirect share of the income of the partnership under the relevant foreign tax law than for the purposes of the Act solely because of one or more of the following:
+	- **(a)** a difference between the relevant foreign tax law and the Act in the manner of
+		- **(i)** computing the income of the partnership, or
+		- **(ii)** allocating the income of the partnership because of the admission to, or withdrawal from, the partnership of any of its members;
+	- **(b)** the treatment of the partnership as a corporation under the relevant foreign tax law; or
+	- **(c)** the fact that the member is not treated as a corporation under the relevant foreign tax law.
+
+- **(1.09)** For the purposes of subsection (1.03), if a specified owner owns, for the purposes of the Act, shares of the capital stock of a corporation and the dividends, or similar amounts, in respect of those shares are treated under the income tax laws of any country other than Canada under the laws of which any income of the corporation is subject to income taxation as interest or another form of deductible payment, the specified owner is deemed to be considered, under those tax laws, to own less than all of the shares of the capital stock of the corporation that are considered to be owned by the specified owner for the purposes of the Act.
 
 - **(1.1)** For the purposes of this Part, where, pursuant to the income tax law of a country other than Canada, a group of two or more foreign affiliates (in this subsection referred to as the “consolidated group”) of a corporation resident in Canada that are resident in that country determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis and one of the affiliates (in this subsection referred to as the “primary affiliate”) is responsible for paying, or claiming a refund of, such tax on behalf of itself and the other members of the consolidated group (hereinafter referred to as the “secondary affiliates”), the following rules apply:
 	- **(a)** in respect of the primary affiliate,
@@ -11483,14 +11611,20 @@ shall be made as it would for the purpose of paragraph 95(2)(a) of the Act.
 			- **(A)** the income or profits tax that would otherwise have been payable by the primary affiliate for the year on behalf of the consolidated group is reduced by virtue of any loss of the primary affiliate for the year or any previous taxation year, or
 			- **(B)** the primary affiliate receives, in respect of a loss of the primary affiliate for the year or a subsequent taxation year, a refund of income or profits tax otherwise payable for the year by the primary affiliate on behalf of the consolidated group,the amount of such reduction or refund, as the case may be, shall be deemed to have been received by the primary affiliate as a refund for the year of the loss of income or profits tax in respect of the loss,
 		- **(iv)** any such income or profits tax that would have been payable by a secondary affiliate for the year if the secondary affiliate had no other taxation year and had not been a member of the consolidated group shall at the end of the year,
-			- **(A)** to the extent that such income or profits tax would otherwise have reduced the net earnings included in the exempt earnings of the secondary affiliate, be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the primary affiliate, and
+			- **(A)** to the extent that such income or profits tax would otherwise have reduced the net earnings included in the exempt earnings of the secondary affiliate, be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the primary affiliate,
+			- **(A.1)** to the extent that such income or profits tax would otherwise have reduced the hybrid surplus or increased the hybrid deficit of the secondary affiliate,
+				- **(I)** be deducted from the hybrid surplus or added to the hybrid deficit, as the case may be, of the primary affiliate, and
+				- **(II)** be added to the hybrid underlying tax of the primary affiliate, and
 			- **(B)** to the extent that such income or profits tax would otherwise have reduced the net earnings included in the taxable earnings of the secondary affiliate,
 				- **(I)** be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the primary affiliate, and
 				- **(II)** be added to the underlying foreign tax of the primary affiliate,
 		- **(v)** to the extent that
 			- **(A)** the income or profits tax that would otherwise have been payable by the primary affiliate for the year on behalf of the consolidated group is reduced by virtue of a loss of a secondary affiliate for the year or a previous taxation year, or
 			- **(B)** the primary affiliate receives, in respect of a loss of a secondary affiliate for the year or a subsequent taxation year, a refund of income or profits tax otherwise payable for the year by the primary affiliate on behalf of the consolidated group,the amount of such reduction or refund, as the case may be, shall at the end of the year of the loss,
-			- **(C)** where such loss reduces the exempt surplus or increases the exempt deficit, as the case may be, of the secondary affiliate, be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the primary affiliate, and
+			- **(C)** where such loss reduces the exempt surplus or increases the exempt deficit, as the case may be, of the secondary affiliate, be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the primary affiliate,
+			- **(C.1)** where such loss reduces the hybrid surplus or increases the hybrid deficit, as the case may be, of the secondary affiliate,
+				- **(I)** be added to the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the primary affiliate, and
+				- **(II)** be deducted from the hybrid underlying tax of the primary affiliate, and
 			- **(D)** where such loss reduces the taxable surplus or increases the taxable deficit, as the case may be, of the secondary affiliate,
 				- **(I)** be added to the taxable surplus or deducted from the taxable deficit, as the case may be, of the primary affiliate, and
 				- **(II)** be deducted from the underlying foreign tax of the primary affiliate; and
@@ -11498,32 +11632,49 @@ shall be made as it would for the purpose of paragraph 95(2)(a) of the Act.
 		- **(i)** an amount is paid to the primary affiliate by a secondary affiliate in respect of the income or profits tax that would have been payable by the secondary affiliate for the year had it not been a member of the group,
 			- **(A)** in respect of the secondary affiliate, the amount so paid shall be deemed to be a payment of such income or profits tax for the year, and
 			- **(B)** in respect of the primary affiliate,
-				- **(I)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the exempt surplus or deducted from the exempt deficit, as the case may be, of the secondary affiliate shall at the end of the year be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the primary affiliate, and
+				- **(I)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the exempt surplus or deducted from the exempt deficit, as the case may be, of the secondary affiliate shall at the end of the year be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the primary affiliate,
+				- **(I.1)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the secondary affiliate is, at the end of the year, to be added to the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the primary affiliate and deducted from the hybrid underlying tax of the primary affiliate, and
 				- **(II)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the taxable surplus or deducted from the taxable deficit, as the case may be, of the secondary affiliate shall at the end of the year be added to the taxable surplus or deducted from the taxable deficit, as the case may be, of the primary affiliate and be deducted from the underlying foreign tax of the primary affiliate, or
-		- **(ii)** an amount is paid by the primary affiliate to a secondary affiliate in respect of a reduction or refund by virtue of a loss of the secondary affiliate for a taxation year of the income or profits tax that would otherwise have been payable by the primary affiliate for the year on behalf of the consolidated group,
+		- **(ii)** an amount is paid by the primary affiliate to a secondary affiliate in respect of a reduction or refund, because of a loss or a tax credit of the secondary affiliate for a taxation year, of the income or profits tax that would otherwise have been payable by the primary affiliate for the year on behalf of the consolidated group
 			- **(A)** in respect of the primary affiliate,
-				- **(I)** such portion of the amount so paid as may reasonably be regarded as relating to an amount deducted from the exempt surplus or included in the exempt deficit, as the case may be, of the secondary affiliate shall at the end of the year of the loss be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the primary affiliate, and
-				- **(II)** such portion of the amount so paid as may reasonably be regarded as relating to an amount deducted from the taxable surplus or included in the taxable deficit, as the case may be, of the secondary affiliate shall at the end of the year of the loss be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the primary affiliate and be added to the underlying foreign tax of the primary affiliate, and
-			- **(B)** in respect of the secondary affiliate, the amount shall be deemed to be a refund to the secondary affiliate for the year of the loss of income or profits tax in respect of the loss,
+				- **(I)** the portion of the amount so paid that can reasonably be regarded as relating to an amount deducted from the exempt surplus or included in the exempt deficit, as the case may be, of the secondary affiliate shall, at the end of the year to which the loss or the tax credit relates, be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the primary affiliate,
+				- **(I.1)** such portion of the amount so paid as may reasonably be regarded as relating to an amount deducted from the hybrid surplus or included in the hybrid deficit, as the case may be, of the secondary affiliate is, at the end of the year of the loss, to be deducted from the hybrid surplus or added to the hybrid deficit, as the case may be, of the primary affiliate and added to the hybrid underlying tax of the primary affiliate, and
+				- **(II)** the portion of the amount so paid that can reasonably be regarded as relating to an amount deducted from the taxable surplus or included in the taxable deficit, as the case may be, of the secondary affiliate shall, at the end of the year to which the loss or the tax credit relates, be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the primary affiliate and be added to the underlying foreign tax of the primary affiliate, and
+			- **(B)** in respect of the secondary affiliate, the amount is deemed to be a refund to the secondary affiliate, for the year to which the loss or the tax credit relates, of income or profits tax in respect of the loss or the tax credit,
 and, for the purposes of this paragraph, any amount paid by a particular secondary affiliate to another secondary affiliate in respect of any income or profits tax that would have been payable by the particular secondary affiliate for the year had it not been a member of the consolidated group shall be deemed to have been paid in respect of such tax by the particular secondary affiliate to the primary affiliate and to have been paid in respect of such tax by the primary affiliate to the other secondary affiliate.
 
 - **(1.2)** For the purposes of this Part, where, pursuant to the income tax law of a country other than Canada, a corporation resident in that country that is a foreign affiliate of a corporation resident in Canada (in this subsection referred to as the “taxpaying affiliate”) deducts, in computing its income or profits tax payable for a taxation year to a government of that country, a loss of another corporation resident in that country that is a foreign affiliate of the corporation resident in Canada (in this subsection referred to as the “loss affiliate”), the following rules apply:
 	- **(a)** any such income or profits tax paid by the taxpaying affiliate for the year shall be deemed not to have been paid;
 	- **(b)** any such income or profits tax that would have been payable by the taxpaying affiliate for the year if the taxpaying affiliate had not been allowed to deduct such loss shall be deemed to have been paid for the year;
 	- **(c)** to the extent that the income or profits tax that would otherwise have been payable by the taxpaying affiliate for the year is reduced by virtue of such loss, the amount of such reduction shall at the end of the year,
-		- **(i)** where such loss reduces the exempt surplus or increases the exempt deficit, as the case may be, of the loss affiliate, be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the taxpaying affiliate, and
+		- **(i)** where such loss reduces the exempt surplus or increases the exempt deficit, as the case may be, of the loss affiliate, be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the taxpaying affiliate,
+		- **(i.1)** where such loss reduces the hybrid surplus or increases the hybrid deficit, as the case may be, of the loss affiliate,
+			- **(A)** be added to the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the taxpaying affiliate, and
+			- **(B)** be deducted from the hybrid underlying tax of the taxpaying affiliate, and
 		- **(ii)** where such loss reduces the taxable surplus or increases the taxable deficit, as the case may be, of the loss affiliate,
 			- **(A)** be added to the taxable surplus or deducted from the taxable deficit, as the case may be, of the taxpaying affiliate, and
 			- **(B)** be deducted from the underlying foreign tax of the taxpaying affiliate; and
 	- **(d)** where an amount is paid by the taxpaying affiliate to the loss affiliate in respect of the reduction, by virtue of such loss, of the income or profits tax that would otherwise have been payable by the taxpaying affiliate for the year,
 		- **(i)** in respect of the taxpaying affiliate,
-			- **(A)** such portion of the amount as may reasonably be regarded as relating to an amount deducted from the exempt surplus or included in the exempt deficit, as the case may be, of the loss affiliate shall at the end of the year be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the taxpaying affiliate, and
+			- **(A)** such portion of the amount as may reasonably be regarded as relating to an amount deducted from the exempt surplus or included in the exempt deficit, as the case may be, of the loss affiliate shall at the end of the year be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the taxpaying affiliate,
+			- **(A.1)** such portion of the amount as may reasonably be regarded as relating to an amount deducted from the hybrid surplus or included in the hybrid deficit, as the case may be, of the loss affiliate is, at the end of the year, to be deducted from the hybrid surplus or added to the hybrid deficit, as the case may be, of the taxpaying affiliate and added to the hybrid underlying tax of the taxpaying affiliate, and
 			- **(B)** such portion of the amount as may reasonably be regarded as relating to an amount deducted from the taxable surplus or included in the taxable deficit, as the case may be, of the loss affiliate shall at the end of the year be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the taxpaying affiliate and be added to the underlying foreign tax of the taxpaying affiliate, and
 		- **(ii)** in respect of the loss affiliate, the amount shall be deemed to be a refund to the loss affiliate of income or profits tax in respect of the loss for the taxation year of the loss.
 
-- **(1.3)** For the purpose of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act,
+- **(1.3)** For the purpose of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act and subject to subsection (1.4),
 	- **(a)** where, pursuant to the income tax law of the country in which a particular foreign affiliate is resident, the particular affiliate and one or more other corporations, each of which is resident in that country, determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis, any amount paid by the particular affiliate to any of the other corporations to the extent that it may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate in respect of a particular amount included in computing the taxpayer’s income by virtue of subsection 91(1) of the Act for a taxation year in respect of the particular affiliate, had the tax liability of the particular affiliate and the other corporations not been determined on a consolidated or combined basis, is hereby prescribed to be foreign accrual tax applicable to the particular amount; and
 	- **(b)** where, pursuant to the income tax law of the country in which a particular foreign affiliate of a taxpayer is resident, the particular affiliate, in computing its income or profits subject to tax in that country for a taxation year, deducts an amount in respect of a loss of another corporation resident in that country, any amount paid by the particular affiliate to the other corporation to the extent that it may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate in respect of a particular amount included in computing the taxpayer’s income by virtue of subsection 91(1) of the Act for a taxation year in respect of the particular affiliate, had the tax liability of the particular affiliate been determined without deducting the loss of the other corporation, is hereby prescribed to be foreign accrual tax applicable to the particular amount.
+
+- **(1.4)** If the amount prescribed under paragraph (1.3)(a) or (b), or any portion of the amount, can reasonably be considered to be in respect of a particular loss (other than a capital loss) or a capital loss of another corporation for a taxation year of the other corporation, then the amount so prescribed is to be reduced to the extent that it can reasonably be considered to be in respect of the portion of the particular loss or capital loss, as the case may be, that would, if sections 5903 and 5903.1 were read without reference to their subsection (4), not be a foreign accrual property loss (within the meaning assigned by subsection 5903(3)), or a foreign accrual capital loss (within the meaning assigned by subsection 5903.1(3)), as the case may be, of a controlled foreign affiliate of a person or partnership that is, at the end of that taxation year, a relevant person or partnership (within the meaning assigned by subsection 5903(6)) in respect of the taxpayer.
+
+- **(1.5)** If subsection (1.4) applied to reduce an amount that would, in the absence of subsection (1.4), be prescribed by paragraph (1.3)(a) to be foreign accrual tax applicable to an amount (referred to in this subsection as the “FAPI amount”) included in the taxpayer’s income under subsection 91(1) of the Act for a taxation year (referred to in subsection (1.6) as the “FAPI year”) of the taxpayer, an amount equal to that reduction is, for the purpose of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act, prescribed to be foreign accrual tax applicable to the FAPI amount in the taxpayer’s taxation year that includes the last day of the designated taxation year, if any, of the particular affiliate referred to in paragraph (1.3)(a).
+
+- **(1.6)** For the purposes of subsection (1.5), the designated taxation year of the particular affiliate is a particular taxation year of the particular affiliate if
+	- **(a)** in the particular year, or in the particular affiliate’s taxation year (referred to in this paragraph as the “PATY”) ending in the FAPI year and one or more taxation years of the particular affiliate each of which follows the PATY and the latest of which is the particular year, all losses of the particular affiliate and the other corporations referred to in paragraph (1.3)(a) for their taxation years ending in the FAPI year would, on the assumption that the particular affiliate and each of those other corporations had no foreign accrual property income for any taxation year, reasonably be considered to have been fully deducted (under the tax law referred to in paragraph (1.3)(a)) against income (as determined under that tax law) of the particular affiliate or those other corporations;
+	- **(b)** the taxpayer demonstrates that no other losses of the particular affiliate or those other corporations for any taxation year were, or could reasonably have been, deducted under that tax law against that income; and
+	- **(c)** the last day of the particular year occurs in one of the five taxation years of the taxpayer that immediately follow the FAPI year.
+
+- **(1.7)** If the amount prescribed under paragraph (1.3)(a) or (b), or any portion of the amount, can reasonably be considered to be in respect of a capital loss of another corporation for a taxation year of the other corporation, then the amount so prescribed, as reduced by subsection (1.4), if applicable, shall be reduced to the extent that it can reasonably be considered to be in respect of the portion of that capital loss that would not be deductible by the particular affiliate in computing its foreign accrual property income for the year if the capital loss had been incurred by the particular affiliate.
 
 - **(2)** In computing the earnings of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business carried on by it in a country, there shall be added to the amount thereof determined under subparagraph (a)(i) or (ii) of the definition ***earnings*** in subsection (1) (in this subsection referred to as the “earnings amount”) such portion of the following amounts as was deducted or was not included, as the case may be, in computing the earnings amount,
 	- **(a)** any income or profits tax paid to the government of a country by the affiliate so deducted,
@@ -11536,7 +11687,9 @@ exceeds
 	- **(e)** any loss of the affiliate for a preceding or a subsequent taxation year so deducted,
 	- **(f)** any revenue, income or profit (other than an amount referred to in paragraph (f.1), (h) or (i)) of the affiliate derived in the year from such business carried on in that country to the extent that such revenue, income or profit
 		- **(i)** is not otherwise required to be included in computing the earnings amount of the affiliate for any taxation year by the income tax law that is relevant in computing that amount, and
-		- **(ii)** does not arise with respect to a disposition (other than a disposition to which subsection (9) applies) by the affiliate of property to another foreign affiliate of the taxpayer or to a person with whom the taxpayer does not deal at arm’s length, to which a tax deferral, rollover or similar tax postponement provision of the income tax law that is relevant in computing the earnings amount of the affiliate applied, and
+		- **(ii)** subject to subsection (2.01), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+			- **(A)** to a person or partnership that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer, and
+			- **(B)** to which a tax deferral, rollover or similar tax postponement provision of the income tax laws that are relevant in computing the earnings amount of the affiliate applied, and
 	- **(f.1)** any assistance from a government, municipality or other public authority (other than any such assistance that reduced the amount of an expenditure for purposes of computing the earnings amount for any taxation year) that the affiliate received or became entitled to receive in the year in connection with such business carried on in that country that is not otherwise required to be included in computing the earnings amount for the year or for any other taxation year,
 and there shall be deducted such portion of the following amounts as were included or were not deducted, as the case may be, in computing the earnings amount,
 	- **(g)** any income or profits tax refunded by the government of a country to the affiliate so included;
@@ -11546,13 +11699,30 @@ and there shall be deducted such portion of the following amounts as were includ
 		- **(i)** such loss, outlay or expense is not otherwise permitted to be deducted in computing the earnings amount of the affiliate for any taxation year by the income tax law that is relevant in computing that amount, or
 		- **(ii)** such outlay or expense can reasonably be regarded as applicable to any revenue added to the earnings amount of the affiliate under paragraph (f),
 where such loss, outlay or expense
-		- **(iii)** does not arise with respect to a disposition (other than a disposition to which subsection (9) applies) by the affiliate of property to another foreign affiliate of the taxpayer or to a person with whom the taxpayer does not deal at arm’s length, to which a loss deferral or similar loss postponement provision of the income tax law that is relevant in computing the earnings amount of the affiliate applied, and
+		- **(iii)** subject to subsection (2.01), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+			- **(A)** to a person or partnership that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer, and
+			- **(B)** to which a loss deferral or similar loss postponement provision of the income tax laws that are relevant in computing the earnings amount of the affiliate applied, and
 		- **(iv)** is not
 			- **(A)** a loss referred to in paragraph (c) or (d),
 			- **(B)** a capital expenditure other than interest, or
 			- **(C)** income or profits tax paid to the government of a country;
 	- **(k)** any outlay made in the year in repayment of an amount referred to in paragraph (f.1); and
-	- **(l)** where any property of the affiliate acquired from another foreign affiliate of the taxpayer or from any foreign affiliate of a person resident in Canada with whom the taxpayer does not deal at arm’s length has been disposed of, such amount in respect of that property as may reasonably be considered as having been included by virtue of paragraph (f) in computing the earnings amount of any foreign affiliate of the taxpayer or of a person resident in Canada with whom the taxpayer does not deal at arm’s length.
+	- **(l)** if any property of the affiliate that was acquired from a person or partnership that was, at the time of the acquisition, a designated person or partnership in respect of the taxpayer has been disposed of, the amount in respect of that property that may reasonably be considered as having been included under paragraph (f) in computing the earnings amount of any foreign affiliate of the taxpayer or of a person or partnership that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer.
+
+- **(2.01)** Subparagraphs (2)(f)(ii) and (j)(iii) and subsection (5.1) do not apply to a particular disposition of property (referred to in this subsection as the “affiliate property”) by a particular foreign affiliate of a taxpayer if
+	- **(a)** the only consideration received in respect of the particular disposition is shares of the capital stock of another foreign affiliate of the taxpayer;
+	- **(b)** all of the shares of the capital stock of the other affiliate that are, immediately after the particular disposition, owned by the particular affiliate are disposed of, at a particular time that is within 90 days of the day that includes the time of the particular disposition, to a person or partnership that at the particular time is not a designated person or partnership in respect of the taxpayer; and
+	- **(c)** the affiliate property is not disposed of by the other affiliate as part of a series of transactions or events that includes the particular disposition.
+
+- **(2.02)** If an amount or a portion of an amount would, in the absence of this subsection, be included in computing the exempt earnings, or deducted in computing the exempt loss, of a foreign affiliate of a corporation in respect of the corporation for a taxation year of the affiliate and the amount or portion arises from a disposition of property (other than money), at any time, to a person or partnership that was, at that time, a designated person or partnership in respect of the corporation where that disposition is a transaction (within the meaning of subsection 245(1) of the Act) that is, or would be (if the amount or portion were a tax benefit for the purposes of section 245 of the Act), an avoidance transaction (within the meaning of subsection 245(3) of the Act), the following rules apply:
+	- **(a)** the amount or portion is instead to be included in the affiliate’s taxable earnings for the year in respect of the corporation; and
+	- **(b)** any income or profits tax relating to the transaction that would otherwise be deducted in computing the exempt earnings, or included in computing the exempt loss, of the affiliate for the year in respect of the corporation, is instead to be deducted from the affiliate’s taxable earnings for the year in respect of the corporation.
+
+- **(2.03)** The determination — under subparagraph (a)(iii) and paragraph (b) of the definition ***earnings***, and paragraph (b) of the definition ***loss***, in subsection (1) — of the earnings or loss of a foreign affiliate of a taxpayer resident in Canada for a particular taxation year from an active business is to be made as if the affiliate
+	- **(a)** had, in computing its income or loss from the business for each taxation year (referred to in this paragraph as an “earnings or loss year”) that is the particular year or is any preceding taxation year that ends after August 19, 2011,
+		- **(i)** claimed all deductions that it could have claimed under the Act, up to the maximum amount deductible in computing the income or loss from the business for that earnings or loss year, and
+		- **(ii)** made all claims and elections and taken all steps under applicable provisions of the Act, or of enactments implementing amendments to the Act or its regulations, to maximize the amount of any deduction referred to subparagraph (i); and
+	- **(b)** had, in computing its income or loss from the business for any preceding taxation year that ended on or before August 19, 2011, claimed all deductions, if any, that it actually claimed under the Act, up to the maximum amount deductible, and made all claims and elections, if any, and taken all steps, if any, under applicable provisions of the Act, or of enactments implementing amendments to the Act or its regulations, that it actually made.
 
 - **(2.1)** In computing the earnings of a foreign affiliate of a corporation resident in Canada for a taxation year of the affiliate from an active business carried on by it in Canada or in a designated treaty country, where the affiliate is resident in a designated treaty country and the corporation, together with all other corporations resident in Canada with which the corporation does not deal at arm’s length and in respect of which the affiliate is a foreign affiliate, have so elected in respect of the business for the taxation year or any preceding taxation year of the affiliate, the following rules apply:
 	- **(a)** there shall be added to the amount determined under subparagraph (a)(i) of the definition ***earnings*** in subsection (1) after adjustment in accordance with the provisions of subsection (2) (in this subsection and in subsection (2.2) referred to as the “adjusted earnings amount”) the total of all amounts each of which is the amount, if any, by which
@@ -11592,77 +11762,73 @@ the following information:
 	- **(c)** a description of the active business sufficient to identify the business; and
 	- **(d)** a statement on behalf of each such corporation, signed by an authorized official of the corporation on behalf of which the statement is made, that the corporation is electing under subsection (2.1) in respect of the business.
 
-- **(2.7)** Notwithstanding any other provision of this Part, where
-	- **(a)** an amount is included in computing the income or loss from an active business of a particular foreign affiliate of a taxpayer for a particular taxation year under subparagraph 95(2)(a)(i) or (ii) of the Act, and
-	- **(b)** the amount included is in respect of an amount paid or payable (other than an amount paid or payable that is described in clause 95(2)(a)(ii)(D) of the Act) by another non-resident corporation described in subparagraph 95(2)(a)(i) or (ii) of the Act or by a partnership of which such a corporation is a member,
-the amount (in respect of which an amount was included in the income or loss from an active business of the particular affiliate for the particular year) paid or payable by the non-resident corporation or the partnership shall, except where it has been deducted under paragraph (2)(j) in computing the non-resident corporation’s earnings or loss from an active business, be deducted in computing the earnings or loss of the non-resident corporation or the partnership, as the case may be, from the active business for its earliest taxation year in which the amount was paid or payable and shall not be deducted in computing its earnings or loss from the active business for any other taxation year.
+- **(2.7)** Notwithstanding any other provision of this Part, if an amount (referred to in this subsection as the “inclusion amount”) is included in computing the income or loss from an active business of a foreign affiliate of a taxpayer for a taxation year under subparagraph 95(2)(a)(i) or (ii) of the Act and the inclusion amount is in respect of a particular amount paid or payable,
+	- **(a)** if clause 95(2)(a)(ii)(D) of the Act is applicable, by the second affiliate referred to in that clause,
+		- **(i)** the particular amount is to be deducted in computing the second affiliate’s income or loss from an active business carried on by it in the country in which it is resident for its earliest taxation year in which that amount was paid or payable,
+		- **(ii)** the second affiliate is deemed to have carried on an active business in that country for that earliest taxation year, and
+		- **(iii)** in computing the second affiliate’s income or loss for a taxation year from any source, no amount is to be deducted in respect of the particular amount except as required under subparagraph (i); and
+	- **(b)** in any other case, by the other foreign affiliate referred to in subparagraph 95(2)(a)(i) or (ii) of the Act, as the case may be, or by a partnership of which the other foreign affiliate is a member, the particular amount is, except where it has been deducted under paragraph (2)(j) in computing the other foreign affiliate’s earnings or loss from an active business,
+		- **(i)** to be deducted in computing the earnings or loss of the other foreign affiliate or the partnership, as the case may be, from the active business for its earliest taxation year in which the particular amount was paid or payable, and
+		- **(ii)** not to be deducted in computing its earnings or loss from the active business for any other taxation year.
 
-- **(2.8)** Notwithstanding any other provision of this Part, where
-	- **(a)** an amount is included in computing the income from an active business of a particular foreign affiliate of a taxpayer or a person related to the taxpayer for a particular taxation year under clause 95(2)(a)(ii)(D) of the Act, and
-	- **(b)** the amount included is in respect of an amount of interest paid or payable by another non-resident corporation (in this subsection referred to as the “second affiliate”) to which the particular affiliate and the taxpayer are related
-the following rules apply:
-	- **(c)** that amount of interest shall be deducted in computing the second affiliate’s income or loss, from an active business carried on by it in a country in which it is resident and subject to income taxation, for its earliest taxation year in which the amount was paid or payable,
-	- **(d)** the second affiliate is deemed to have carried on an active business in a country in which it was resident and subject to income taxation for each taxation year referred to in paragraph (c) in which such an active business was not otherwise carried on by it, and
-	- **(e)** in computing the second affiliate’s income for a taxation year from any source, no amount shall be deducted in respect of an amount paid or payable by it that is referred to in paragraph (c) except as is required under that paragraph.
+- **(2.8)** [Repealed, 2013, c. 34, s. 46]
 
-- **(2.9)** In computing the earnings from an active business of a foreign affiliate of a corporation resident in Canada for the affiliate’s taxation year immediately before the particular taxation year of the affiliate referred to in paragraph 95(2)(k) of the Act,
-	- **(a)** there shall be added to the amount determined under subparagraph (a)(i) or (ii) of the definition ***earnings*** in subsection (1) after adjustment in accordance with subsections (2), (2.1) and (2.2) the total of
-		- **(i)** the amount, if any, by which the total determined in respect of the affiliate in clause (b)(i)(B) for the year exceeds the total determined in respect of the affiliate in clause (b)(i)(A) for the year,
-		- **(ii)** where, at the end of the year, the affiliate was deemed because of paragraphs 95(2)(k) and 138(11.91)(e) of the Act to have disposed of property owned by it that was used or held by it in the course of carrying on the active business in the year, the amount that is the total of all amounts each of which is the amount, if any, by which
-			- **(A)** the lesser of the fair market value and the cost to the affiliate at the end of the year of a capital property (referred to in this subparagraph and subparagraph (b)(ii) as a “particular depreciable asset”) owned by it that
-				- **(I)** was used or held by it in the course of carrying on the active business in the year,
-				- **(II)** was deemed because of paragraphs 95(2)(k) and 138(11.91)(e) of the Act to have been disposed of at the end of the year, and
-				- **(III)** was property in respect of the cost of which amounts were, at any time, deductible in computing the earnings from the active business under subparagraph (a)(i) or (ii) of the definition ***earnings*** in subsection (1)exceeds
-			- **(B)** the amount, if any, by which the cost to the affiliate of the particular depreciable asset exceeds the total of all amounts each of which is an amount that can reasonably be regarded as having been deducted in respect of the cost of the particular depreciable asset in computing the earnings (as would be defined in subsection (1) if that definition were read as if the reference in that definition to this subsection did not exist) of the affiliate from the active business in the year or in any preceding taxation year of the affiliate in which it was a foreign affiliate of the corporation or of another corporation resident in Canada with which the corporation was not dealing with at arm’s length at any time, and
-		- **(iii)** where, at the end of the year, the affiliate was deemed because of paragraphs 95(2)(k) and 138(11.91)(e) of the Act to have disposed of property (other than capital property) owned by it that was used or held by it in the course of carrying on the active business in the year, the amount that is the total of all amounts each of which is an amount, if any, by which the fair market value of such a property exceeds the cost to the affiliate of the property at the time that is immediately before the end of the year; and
-	- **(b)** there shall be deducted from the amount determined under subparagraph (a)(i) or (ii) of the definition ***earnings*** in subsection (1) after adjustment in accordance with subsections (2), (2.1) and (2.2) the total of
-		- **(i)** the amount, if any, by which
-			- **(A)** the total of all amounts each of which is a maximum amount deemed because of paragraphs 95(2)(k) and 138(11.91)(d) of the Act to have been claimed under subparagraphs 138(3)(a)(i), (ii) and (iv) and paragraphs 20(1)(l) and (l.1) and 20(7)(c) of the Act (each of which provisions is referred to in this subparagraph as a “reserve provision”) in the yearexceeds
-			- **(B)** the total of all amounts each of which is an amount actually claimed by the affiliate as a reserve in the year that can reasonably be considered to be in respect of amounts in respect of which a reserve could have been claimed under a reserve provision on the assumption that the affiliate could have claimed amounts in respect of the reserve provisions in the year,
-		- **(ii)** the amount that is the total of all amounts each of which is the amount, if any, by which the amount determined under clause (a)(ii)(B) in respect of a particular depreciable asset described in clause (a)(ii)(A) exceeds the fair market value of the particular depreciable asset at the end of the year, and
-		- **(iii)** where, at the end of the year, the affiliate was deemed because of paragraphs 95(2)(k) and 138(11.91)(e) of the Act to have disposed of property (other than capital property) owned by it that was used or held by it in the course of carrying on the active business in the year, the amount that is the total of all amounts each of which is an amount, if any, by which the cost to the affiliate of such a property at the time that is immediately before the end of the year exceeds the fair market value of the property at the end of the year.
+- **(2.9)** If paragraph 95(2)(k.1) of the Act applies in respect of a particular taxation year of a foreign affiliate of a taxpayer or in respect of a particular fiscal period of a partnership (which foreign affiliate or partnership is referred to in this subsection as the “operator” and which particular taxation year or particular fiscal period is referred to in this subsection as the “specified taxation year”) a member of which is, at the end of the period, a foreign affiliate of a taxpayer,
+	- **(a)** in computing the affiliate’s earnings or loss from the foreign business referred to in that paragraph for the affiliate’s taxation year (referred to in subparagraphs (i) and (ii) as the “preceding taxation year”) that includes the day that is immediately before the beginning of the specified taxation year,
+		- **(i)** there is to be added to the amount determined under paragraph (a) of the definition ***earnings*** in subsection (1), after adjustment in accordance with subsections (2) to (2.2),
+			- **(A)** where the operator is the affiliate, the total of
+				- **(I)** the amount, if any, by which the total determined under sub-subclause (ii)(A)(I)2 in respect of the operator for the preceding taxation year exceeds the total determined under sub-subclause (ii)(A)(I)1 in respect of the operator for that year, and
+				- **(II)** if the operator was deemed under paragraph 95(2)(k.1) of the Act to have, at the end of the preceding taxation year, disposed of property owned by it that was used or held by it in the course of carrying on the foreign business in that year, the amount that is the total of all amounts each of which is determined by the formula
+```
+(A – B) – C
+```
+where
+- **A** is the fair market value, immediately before the end of that year, of a property deemed because of that paragraph to have been disposed of,
+- **B** is the amount determined under paragraph (a) of the definition ***relevant cost base*** in subsection 95(4) of the Act in respect of the property, in respect of the taxpayer, immediately before the time of the disposition, and
+- **C** is the amount, if any, of the capital gain determined in respect of the disposition of the property at that time, and
+			- **(B)** where the operator is the partnership, the amount determined under subsection 5908(13); and
+		- **(ii)** there is to be added to the amount determined under paragraph (a) of the definition ***loss*** in subsection (1),
+			- **(A)** where the operator is the affiliate, the total of
+				- **(I)** the amount, if any, by which
+					- **1.** the total of all amounts each of which is an amount deemed under paragraph 95(2)(k.1) of the Act to have been claimed under any of paragraphs 20(1)(l), (l.1) and (7)(c), and subparagraphs 138(3)(a)(i), (ii) and (iv), of the Act (each of which provisions is referred to in this subparagraph as a “reserve provision”) in computing the income from the foreign business for the preceding taxation yearexceeds
+					- **2.** the total of all amounts each of which is an amount actually claimed by the operator as a reserve in computing its income from the foreign business for that year that can reasonably be considered to be in respect of amounts in respect of which a reserve could have been claimed under a reserve provision on the assumption that the operator could have claimed amounts in respect of the reserve provisions for that year, and
+				- **(II)** the total of all amounts each of which is the amount, if any, by which the amount determined under the description of B in the formula in subclause (i)(A)(II) in respect of a property described in that subclause exceeds the amount determined under the description of A in the formula in that clause in respect of the property, and
+			- **(B)** where the operator is the partnership, the amount determined under subsection 5908(13); and
+	- **(b)** any property of the operator that is, under that paragraph, deemed to have been disposed of and reacquired by the operator is, for the purposes of this section, deemed to have been disposed of and reacquired by the operator in the same manner and for the same amounts as if that paragraph applied for the purposes of this section.
 
 - **(3)** For the purposes of this Part, any corporation that was, on January 1, 1972, a foreign affiliate of a taxpayer shall be deemed to have become a foreign affiliate of the taxpayer on that day.
 
 - **(4)** For the purposes of this Part, ***government of a country*** includes the government of a state, province or other political subdivision of that country.
 
-- **(5)** For the purposes of this section, each capital gain and each capital loss of a foreign affiliate of a taxpayer from the disposition of property shall be computed in accordance with the rules set out in subsection 95(2) of the Act and, for the purposes of subsection (6), where any such gain or loss is required to be computed in Canadian currency, the amount of such gain or loss shall be converted from Canadian currency into the currency referred to in subsection (6) at the rate of exchange prevailing on the date of disposition of the property.
+- **(5)** For the purposes of this section, each capital gain, capital loss, taxable capital gain or allowable capital loss of a foreign affiliate of a taxpayer from the disposition of property is to be computed in accordance with the rules set out in subsection 95(2) of the Act.
 
-- **(5.1)** Notwithstanding subsection (5) and except as provided in subsection (9), where, under the income tax law of a country other than Canada that is relevant in computing the earnings of a foreign affiliate of a taxpayer resident in Canada from an active business carried on by it in a country, no gain or loss is recognized in respect of a disposition by the affiliate of a capital property used or held principally for the purpose of gaining or producing income from an active business to a person (in this subsection referred to as the “transferee”) that is another foreign affiliate of the taxpayer or that is a foreign affiliate of another person with whom the taxpayer does not deal at arm’s length, for the purposes of this section,
+- **(5.01)** For the purposes of subsection (6), if any capital gain, capital loss, taxable capital gain or allowable capital loss referred to in subsection (5), or any capital loss referred to in subparagraph (iii) of the description of B in the definition ***hybrid surplus*** in subsection (1), of a foreign affiliate of a corporation is required to be computed in Canadian currency and the currency referred to in subsection (6) is not Canadian currency, the amount of the gain or loss is to be converted from Canadian currency into the currency referred to in subsection (6) at the rate of exchange prevailing on the date of disposition of the property.
+
+- **(5.1)** Notwithstanding subsection (5), if, under the income tax laws of a country other than Canada that are relevant in computing the earnings of a foreign affiliate of a taxpayer resident in Canada from an active business carried on by it in a country, no gain or loss is recognized in respect of a disposition (other than a disposition to which subsection (9) applies) by the affiliate of a capital property used or held principally for the purpose of gaining or producing income from an active business to a person or partnership (in this subsection referred to as the “transferee”) that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer, for the purposes of this section,
 	- **(a)** the affiliate’s proceeds of disposition of the property shall be deemed to be an amount equal to the aggregate of the adjusted cost base to the affiliate of the property immediately before the disposition and any outlays and expenses to the extent they were made or incurred by the affiliate for the purpose of making the disposition;
 	- **(b)** the cost to the transferee of the property acquired from the affiliate shall be deemed to be an amount equal to the affiliate’s proceeds of disposition, as determined under paragraph (a); and
 	- **(c)** the transferee shall be deemed to have acquired the property on the date that it was acquired by the affiliate.
 
-- **(6)** All amounts referred to in subsections (1) and (2) shall be maintained on a consistent basis from year to year in the currency of the country in which the foreign affiliate of the corporation resident in Canada is itself resident or such currency, other than Canadian currency, as is reasonable in the circumstances.
+- **(6)** All amounts referred to in subsections (1) and (2) shall be maintained on a consistent basis from year to year in the currency of the country in which the foreign affiliate of the corporation resident in Canada is resident or any currency that the corporation resident in Canada demonstrates to be reasonable in the circumstances.
 
 - **(7)** For the purposes of this Part, the amount of any stock dividend paid by a foreign affiliate of a corporation resident in Canada on a share of a class of its capital stock shall be deemed to be nil.
 
-- **(7.1)** Where, at any time in a taxation year of a corporation resident in Canada, a foreign affiliate of the corporation (in this subsection referred to as the “payor affiliate”) pays a dividend on the shares of any class of its capital stock to the corporation (in this subsection referred to as the “particular dividend”) and as a result of the payment the corporation is entitled to a tax credit from the government of the country in which the payor affiliate is resident,
-	- **(a)** if the particular dividend was paid on or after the day on which this subsection comes into force, or
-	- **(b)** if the particular dividend was paid before the day on which this subsection comes into force and in a taxation year commencing after 1978 and the corporation elects in respect of the tax credit in its return of income for the 1985, 1986, 1987, 1988 or 1989 taxation year required to be filed pursuant to subsection 150(1) of the Act,
-for the purpose of this Part, the following rules apply:
-	- **(c)** the tax credit shall be deemed to be a dividend paid at that time by the payor affiliate on the shares of that class of its capital stock to the corporation,
-	- **(d)** immediately before that time there shall be added to the exempt surplus of the payor affiliate an amount equal to the proportion of the tax credit that
-		- **(i)** the portion of the particular dividend that would, were the corporation not entitled to the tax credit, be deemed by subsection 5900(1) to have been paid out of the payor affiliate’s exempt surplus in respect of the corporation
-is of
-		- **(ii)** the particular dividend,
-	- **(e)** immediately before that time, there shall be added to the taxable surplus of the payor affiliate an amount equal to the proportion of the tax credit that
-		- **(i)** the portion of the particular dividend that would, were the corporation not entitled to the tax credit, be deemed by subsection 5900(1) to have been paid out of the payor affiliate’s taxable surplus in respect of the corporation
-is of
-		- **(ii)** the particular dividend, and
-	- **(f)** the foreign tax applicable to the aggregate of
-		- **(i)** the portion of the particular dividend determined under subparagraph (e)(i), and
-		- **(ii)** the portion of any amount deemed to be a dividend by virtue of paragraph (c) that is deemed by subsection 5900(1) to have been paid out of the payor affiliate’s taxable surplus in respect of the corporation
-shall, notwithstanding paragraph 5900(1)(d), be equal to the amount determined under paragraph 5900(1)(d) in respect of the amount referred to in subparagraph (i), less the amount determined under paragraph (e).
+- **(7.1)** [Repealed, 2013, c. 34, s. 85]
 
-- **(8)** For the purposes of computing the various amounts referred to in this section, the first taxation year of a foreign affiliate formed as a result of a merger in the manner described in subsection 5905(3) shall be deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after the merger shall be deemed to have ended immediately before the merger.
+- **(8)** For the purposes of computing the various amounts referred to in this section, the first taxation year of a foreign affiliate, of a corporation resident in Canada, that is formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) is deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after that time is deemed to have ended immediately before that time.
 
-- **(9)** Where a foreign affiliate of a taxpayer resident in Canada has been dissolved and paragraph 95(2)(e.1) of the Act does not apply, for the purpose of computing the various amounts referred to in this section, the following rules apply:
-	- **(a)** where, at a particular time in the course of the dissolution, all or substantially all of the property owned by the affiliate immediately before that time was distributed to the shareholders of the affiliate, the taxation year of the affiliate that otherwise would have included the particular time shall be deemed to have ended immediately before the particular time;
-	- **(b)** except as provided in paragraph 88(3)(a) and subparagraph 95(2)(e)(i) of the Act,
-		- **(i)** each property of the affiliate that was distributed to the shareholders in the course of the dissolution shall be deemed to have been disposed of immediately before the end of the affiliate’s taxation year deemed to have ended by paragraph (a) for proceeds of disposition equal to the fair market value thereof immediately before the particular time, and
-		- **(ii)** each property of the affiliate that was otherwise disposed of in the course of the dissolution shall be deemed to have been disposed of by the affiliate for proceeds of disposition equal to the fair market value thereof at the time of disposition; and
-	- **(c)** except as provided in subparagraph 95(2)(e)(i) of the Act, each property of the dissolved affiliate that was disposed of or distributed in the course of the dissolution to another foreign affiliate of the taxpayer resident in Canada shall be deemed to have been acquired by that other foreign affiliate at a cost equal to the proceeds of disposition of that property to the dissolved affiliate, as determined in paragraph (b).
+- **(9)** If a foreign affiliate of a taxpayer has been liquidated and dissolved (otherwise than as a result of a foreign merger within the meaning assigned by subsection 87(8.1) of the Act), for the purposes of computing the various amounts referred to in this section, the following rules apply:
+	- **(a)** where, at a particular time, property having a fair market value equal to or greater than 90 percent of the fair market value of all of the property that was owned by the affiliate immediately before the commencement of the liquidation and dissolution has been disposed of by the affiliate in the course of the liquidation and dissolution, the taxation year of the affiliate that otherwise would have included the particular time is deemed to have ended immediately before that time; and
+	- **(b)** each property of the affiliate that was disposed of by the affiliate in the course of the liquidation and dissolution is deemed to have been
+		- **(i)** disposed of by the affiliate, at the time that is the earlier of the time it was actually disposed of and the time that is immediately before the time that is immediately before the particular time, for proceeds of disposition equal to
+			- **(A)** if the liquidation and dissolution is one to which subsection 88(3) of the Act applies in respect of the disposition, the amount that would, in the absence of subsection 88(3.3) of the Act, be determined under paragraph 88(3)(a) or (b) of the Act, as the case may be,
+			- **(B)** if the liquidation and dissolution is one to which paragraph 95(2)(e) of the Act applies in respect of the disposition, the amount determined under subparagraph 95(2)(e)(i) or (ii) of the Act, as the case may be, and
+			- **(C)** in any other case, the fair market value of the property at the time it was actually disposed of, and
+		- **(ii)** acquired by the person or partnership to which the affiliate disposed of the property, at the time it was actually acquired, at a cost equal to the affiliate’s proceeds of disposition of the property.
+
+- **(9.1)** Notwithstanding any other provision of this Part, in determining the earnings or loss of a foreign affiliate of a taxpayer resident in Canada, for a taxation year of the affiliate from an active business carried on by it in a country,
+	- **(a)** from a disposition of property to which paragraph 95(2)(d.1) of the Act applies, those earnings or that loss are to be determined using the rules in that paragraph; and
+	- **(b)** from a disposition of property acquired in a transaction to which paragraph 95(2)(d.1) of the Act applies, the cost to the affiliate of the property is to be determined using the rules in that paragraph.
 
 - **(10)** Where
 	- **(a)** the net earnings or net loss for a taxation year of a foreign affiliate of a corporation resident in Canada from an active business carried on in a country other than Canada would otherwise be included in the affiliate’s taxable earnings or taxable loss, as the case may be, for the year,
@@ -11682,51 +11848,284 @@ for the purposes of this Part, such net earnings or net loss shall be included i
 	- **(c)** where the agreement or convention entered into force before 1995, the affiliate would, at that time, be a resident of that country for the purpose of the agreement or convention but for a provision in the agreement or convention that has not been amended after 1994 and that provides that the agreement or convention does not apply to the affiliate; or
 	- **(d)** the affiliate would, at that time, be a resident of that country, as provided by paragraph (a), (b) or (c) if the agreement or convention had entered into force.
 
-- **(12)** For the purposes of paragraph 95(2)(j) of the Act, the adjusted cost base to a foreign affiliate of a taxpayer of an interest in a partnership at any time is prescribed to be the cost thereof otherwise determined at that time except that
-	- **(a)** there shall be added to that cost such of the following amounts as are applicable, namely,
-		- **(i)** any amount included in the earnings of the affiliate for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to profits of the partnership,
-		- **(ii)** the affiliate’s incomes as described by the description of “A” in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for a taxation year ending after 1971 and before that time that can reasonably be considered to relate to profits of the partnership,
-		- **(iii)** any amount included in computing the exempt earnings or taxable earnings, as the case may be, of the affiliate for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to a capital gain of the partnership,
-		- **(iv)** where the affiliate has, at any time before that time and in a taxation year ending after 1971, made a contribution of capital to the partnership otherwise than by way of a loan, such part of the amount of the contribution as cannot reasonably be regarded as a gift made to or for the benefit of any other member of the partnership who was related to the affiliate, and
-		- **(v)** such portion of any income or profits tax refunded before that time by the government of a country to the partnership as may reasonably be regarded as tax refunded in respect of an amount described in any of subparagraphs (b)(i) to (iii), and
-	- **(b)** there shall be deducted from that cost such of the following amounts as are applicable, namely,
-		- **(i)** any amount included in the loss of the affiliate for a taxation year ending after 1971 that may reasonably be considered to relate to a loss of the partnership,
-		- **(ii)** the affiliate’s losses as described by the description of D in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for a taxation year ending after 1971 and before that time that can reasonably be considered to relate to the losses of the partnership,
-		- **(iii)** any amount included in computing the exempt loss or taxable loss, as the case may be, of the affiliate for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to a capital loss of the partnership,
-		- **(iv)** any amount received by the affiliate before that time and in a taxation year ending after 1971 as, on account or in lieu of payment of, or in satisfaction of, a distribution of his share of the partnership profits or partnership capital, and
-		- **(v)** such portion of any income or profits tax paid before that time to the government of a country by the partnership as may reasonably be regarded as tax paid in respect of an amount described in any of subparagraphs (a)(i) to (iii),
-and, for greater certainty, where any interest of a foreign affiliate in a partnership was reacquired by the affiliate after having been previously disposed of, no adjustment that was required to be made under this subsection before such reacquisition shall be made under this subsection to the cost to the affiliate of the interest as reacquired property of the affiliate.
+- **(12)** [Repealed, 2013, c. 34, s. 46]
 
-- **(13)** For the purpose of subparagraph 128.1(1)(d)(ii) of the Act, the amount prescribed to be included in the foreign accrual property income of a foreign affiliate of a taxpayer for a taxation year is the amount, if any, by which
-	- **(a)** the taxable surplus of the affiliate in respect of the taxpayer at the end of the year other than the affiliate’s net earnings for the year in respect of the affiliate’s foreign accrual property income
-exceeds the total of
-	- **(b)** the amount determined by the formula
+- **(13)** For the purposes of subparagraph (ii) of paragraph 128.1(1)(d) of the Act, the prescribed amount is the amount determined by the formula
 ```
-(A - B) x (C - 1)
+X + Y
 ```
 where
-- **A** is the total of the underlying foreign tax of the affiliate in respect of the taxpayer at the end of the year and the amount, to the extent that it is not otherwise included in that underlying foreign tax, that would have been added to that underlying foreign tax if each disposition deemed by paragraph 128.1(1)(b) of the Act had been an actual disposition,
-- **B** is the part of the value of A that can reasonably be considered to relate to the affiliate’s net earnings for the year in respect of the affiliate’s foreign accrual property income, and
-- **C** is the relevant tax factor, as defined in subsection 95(1) of the Act, and
-	- **(c)** the amount, if any, by which
-		- **(i)** the total of all amounts required by paragraph 92(1)(a) of the Act to be added at any time in a preceding taxation year in computing the adjusted cost base to the taxpayer of the shares of the affiliate owned by the taxpayer at the end of the year
+- **X** is the amount, if any, by which
+- **(a)** the amount, if any, determined by the formula
+```
+A – B – (C – D) + (E – F)
+```
+where
+- **A** is the taxable surplus of the foreign affiliate of the other taxpayer referred to in that paragraph, in respect of the other taxpayer, at the end of the year referred to in that subparagraph,
+- **B** is the affiliate’s net earnings for the year in respect of the affiliate’s foreign accrual property income for the year to the extent those net earnings have been included in the amount referred to in the description of A,
+- **C** is the total of all amounts each of which is the amount by which the affiliate’s underlying foreign tax in respect of the other taxpayer at the end of the year would have increased because of the gain or income of the affiliate that would have arisen if a disposition, deemed under paragraph 128.1(1)(b) of the Act, of a property by the affiliate had been an actual disposition of the property by the affiliate,
+- **D** is the total of all amounts each of which is the amount otherwise added in computing the affiliate’s underlying foreign tax in respect of the other taxpayer at the end of the year in respect of income or profits taxes paid to the government of a country in respect of all or a portion of a gain or an income of the affiliate referred to in the description of C,
+- **E** is the total of all amounts each of which is the amount by which the affiliate’s underlying foreign tax in respect of the other taxpayer at the end of the year would have decreased because of the loss of the affiliate that would have arisen if a disposition, deemed under paragraph 128.1(1)(b) of the Act, of a property by the affiliate had been an actual disposition of the property by the affiliate, and
+- **F** is the total of all amounts each of which is the amount otherwise deducted in computing the affiliate’s underlying foreign tax in respect of the other taxpayer at the end of the year in respect of income or profits taxes refunded by the government of a country in respect of all or a portion of a loss of the affiliate referred to in the description of Eexceeds
+- **(b)** the amount, if any, determined by the formula
+```
+[(G – H) × (J – 1)] + K
+```
+where
+- **G** is the amount determined by the formula
+```
+L + M – N
+```
+where
+- **L** is the underlying foreign tax of the affiliate in respect of the other taxpayer at the end of the year,
+- **M** is the amount, if any, by which the amount determined under the description of C in paragraph (a) exceeds the amount determined under the description of D in that paragraph, and
+- **N** is the amount, if any, by which the amount determined under the description of E in paragraph (a) exceeds the amount determined under the description of F in that paragraph,
+- **H** is the portion of the value of L that can reasonably be considered to relate to the affiliate’s net earnings for the year in respect of the affiliate’s foreign accrual property income,
+- **J** is the other taxpayer’s relevant tax factor (within the meaning assigned by subsection 95(1) of the Act) for its taxation year that includes the time that is immediately before the particular time, and
+- **K** is the amount, if any, by which
+- **(i)** the total of all amounts required by paragraph 92(1)(a) of the Act to be added at any time in a preceding taxation year in computing the adjusted cost base to the other taxpayer of the shares of the affiliate owned by the other taxpayer at the end of the yearexceeds
+- **(ii)** the total of all amounts required by paragraph 92(1)(b) of the Act to be deducted at any time in a preceding taxation year in computing the adjusted cost base to the other taxpayer of the shares of the affiliate owned by the other taxpayer at the end of the year, and
+- **Y** is the amount, if any, by which
+- **(a)** the amount, if any, determined by the formula
+```
+P – (Q – R) + (S – T)
+```
+where
+- **P** is the affiliate’s hybrid surplus in respect of the other taxpayer at the end of the year,
+- **Q** is the total of all amounts each of which is the amount by which the affiliate’s hybrid underlying tax in respect of the other taxpayer at the end of the year would have increased because of the capital gain of the affiliate that would have arisen if a disposition, deemed under paragraph 128.1(1)(b) of the Act, of a property by the affiliate had been an actual disposition of the property by the affiliate,
+- **R** is the total of all amounts each of which is the amount otherwise added in computing the affiliate’s hybrid underlying tax in respect of the other taxpayer at the end of the year in respect of income or profits taxes paid to the government of a country in respect of all or a portion of a capital gain of the affiliate referred to in the description of Q,
+- **S** is the total of all amounts each of which is the amount by which the affiliate’s hybrid underlying tax in respect of the other taxpayer at the end of the year would have decreased because of the capital loss of the affiliate that would have arisen if a disposition, deemed under paragraph 128.1(1)(b) of the Act, of a property by the affiliate had been an actual disposition of the property by the affiliate, and
+- **T** is the total of all amounts each of which is the amount otherwise deducted in computing the affiliate’s hybrid underlying tax in respect of the other taxpayer at the end of the year in respect of income or profits taxes refunded by the government of a country in respect of all or a portion of a capital loss of the affiliate referred to in the description of S;exceeds
+- **(b)** the amount, if any, determined by the formula
+```
+[U × (V – 0.5)] + (W × 0.5)
+```
+where
+- **U** is the amount determined by the formula
+```
+U.1 + U.2 – U.3
+```
+where
+- **U.1** is the hybrid underlying tax of the affiliate in respect of the other taxpayer at the end of the year,
+- **U.2** is the amount, if any, by which the amount determined under the description of Q in paragraph (a) exceeds the amount determined under the description of R in that paragraph, and
+- **U.3** is the amount, if any, by which the amount determined under the description of S in paragraph (a) exceeds the amount determined under the description of T in that paragraph,
+- **V** is the other taxpayer’s relevant tax factor (within the meaning assigned by subsection 95(1) of the Act) for its taxation year that includes the time that is immediately before the particular time, and
+- **W** is the amount determined under paragraph (a).
+
+- **(14)** For the purposes of the description of C in paragraph (a) of the description of X in subsection (13) and the description of Q in paragraph (a) of the description of Y in subsection (13), the amount by which the underlying foreign tax or the hybrid underlying tax, as the case may be, of the affiliate in respect of the other taxpayer at the end of the year would have increased if a disposition (referred to in this subsection as the “notional actual disposition”) deemed under paragraph 128.1(1)(b) of the Act of any property by the affiliate had been an actual disposition of the property by the affiliate is the total of all amounts each of which is the amount, if any, by which
+	- **(a)** the amount (determined on the assumption that the notional actual disposition occurred at the time of the deemed disposition) that can reasonably be considered to be the amount of income or profits tax that the affiliate would, because of the notional actual disposition, have had to pay to the government of a particular country (other than Canada), in addition to any other income or profits tax otherwise payable to that government, in relation to the gain or income of the affiliate from the notional actual disposition
 exceeds
-		- **(ii)** the total of all amounts required by paragraph 92(1)(b) of the Act to be deducted at any time in a preceding taxation year in computing the adjusted cost base to the taxpayer of the shares of the affiliate owned by the taxpayer at the end of the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112.
+	- **(b)** the amount that can reasonably be considered to be the portion of the notional income or profits tax payable by the affiliate to the government of the particular country in relation to the gain or income of the affiliate from the notional actual disposition (determined on the assumptions that the notional actual disposition occurred immediately after the time that is immediately after the time of the deemed disposition and that the notional income or profits tax payable by the affiliate to the government of the particular country in relation to the notional actual disposition is equal to the amount determined under paragraph (a)) that, because of a comprehensive agreement or convention for the elimination of double taxation on income between the government of the particular country and the government of any other country, would not have been payable to the government of the particular country.
+
+- **(15)** For the purposes of the description of E in paragraph (a) of the description of X in subsection (13) and the description of S in paragraph (a) of the description of Y in subsection (13), the amount by which the underlying foreign tax or the hybrid underlying tax, as the case may be, of the affiliate in respect of the other taxpayer at the end of the year would have decreased if a disposition (referred to in this subsection as the “notional actual disposition”) deemed under paragraph 128.1(1)(b) of the Act of any property by the affiliate had been an actual disposition of the property by the affiliate is the total of all amounts each of which the amount, if any, by which
+	- **(a)** the amount (determined on the assumption that the notional actual disposition occurred at the time of the deemed disposition) that can reasonably be considered to be the amount of income or profits tax that the affiliate would, because of the notional actual disposition, have had refunded to it by the government of a particular country (other than Canada), in addition to any other income or profits tax otherwise refundable by that government, in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition
+exceeds
+	- **(b)** the amount that can reasonably be considered to be the portion of the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition (determined on the assumptions that the notional actual disposition occurred immediately after the time that is immediately after the time of the deemed disposition and that the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the notional actual disposition is equal to the amount determined by paragraph (a)) that, because of a comprehensive agreement or convention for the elimination of double taxation on income between the government of the particular country and the government of any other country, would not have been refundable by the government of the particular country.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401.
 
 
 
 
-**5908** [Repealed, SOR/97-505, s. 9]
+**5908** 
+
+- **(1)** For the purposes of this subsection, subsections (2) to (7), paragraph 5902(2)(b) and section 5905, if at any time shares of a class of the capital stock of a foreign affiliate of a corporation resident in Canada are, based on the assumptions contained in paragraph 96(1)(c) of the Act, owned by a partnership, or are deemed under this subsection to be owned by a partnership, each member of the partnership is deemed to own at that time the number of shares of that class that is determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the number of shares of that class that are so owned or so deemed owned by the partnership;
+- **B** is the fair market value of the member’s interest in the partnership at that time; and
+- **C** is the fair market value of all members’ interests in the partnership at that time.
+
+- **(2)** For the purposes of subsections (4) and 5905(1), (5) and (7.1), if a person is deemed by subsection (1) to own at a particular time a different number of shares of a class of the capital stock of a foreign affiliate of a corporation resident in Canada (which shares so deemed owned are referred to in this subsection as “affiliate shares”) than the person was deemed by that subsection to have owned immediately before the particular time, the number of affiliate shares equal to that difference is deemed to be
+	- **(a)** disposed of, at the particular time, by the person, when that person is deemed to own fewer affiliate shares at the particular time than immediately before it; and
+	- **(b)** acquired by, at the particular time, the person, when that person is deemed to own more affiliate shares at the particular time than immediately before it.
+
+- **(3)** For the purposes of subsection (2),
+	- **(a)** if a partnership of which a person is a member at any time does not own, and (but for this subsection) is not deemed by subsection (1) to own, any shares of a class of the capital stock of the foreign affiliate at that time, subsection (1) is deemed to have applied in respect of the person and to have deemed the person to own, because of subsection (1) in respect of the partnership, no shares of that class at that time; and
+	- **(b)** if a corporation resident in Canada or a foreign affiliate of such a corporation disposes of or acquires its entire interest in a partnership that, based on the assumptions contained in paragraph 96(1)(c) of the Act, owns shares of a class of the capital stock of a non-resident corporation, the corporation resident in Canada or the foreign affiliate, as the case may be, is deemed at the time that is immediately after the disposition or immediately before the acquisition, as the case may be, to own, because of subsection (1) in respect of the partnership, no shares of that class.
+
+- **(4)** For the purposes of subsection 5905(5), if at any time a corporation resident in Canada (referred to in this subsection as the “disposing corporation”) disposes of shares of a class of the capital stock of a foreign affiliate of the disposing corporation and, as a consequence of the same transaction or event (other than one to which neither paragraph (2)(a) nor paragraph (2)(b) applies) that caused the disposition, a taxable Canadian corporation with which the disposing corporation is not, at that time, dealing at arm’s length acquires shares of that class, the disposing corporation is, at that time, deemed to have disposed of, to the taxable Canadian corporation, the number of the shares of that class that is determined by the formula
+```
+A × B
+```
+where
+- **A** is the number of shares of that class disposed of by the disposing corporation; and
+- **B** is
+- **(a)** if the taxable Canadian corporation acquires, because of paragraph (2)(b), shares of that class, the fraction determined by the formula
+```
+C/D
+```
+where
+- **C** is the number of shares of that class that is deemed by that paragraph to be acquired by the taxable Canadian corporation as a result of the transaction or event, and
+- **D** is the total of all amounts each of which is the number of shares of that class that is deemed by that paragraph to be acquired by a person as a result of the transaction or event, and
+- **(b)** in any other case, one.
+
+- **(5)** For the purposes of subsection 5905(5.1), if a predecessor corporation described in that subsection is, at the time that is immediately before the amalgamation described in that subsection, a member of a particular partnership that, based on the assumptions contained in paragraph 96(1)(c) of the Act, owns, at that time, shares of the capital stock of a foreign affiliate of the predecessor corporation and the predecessor corporation’s interest in the particular partnership, or in another partnership that is a member of the particular partnership, becomes, upon the amalgamation, property of the new corporation described in that subsection, the shares of the capital stock of the affiliate that are deemed under subsection (1) to be owned by the predecessor corporation at that time are deemed to become property of the new corporation upon the amalgamation.
+
+- **(6)** In applying subsection 5905(5.2), if the corporation is a member of a partnership that, based on the assumptions contained in paragraph 96(1)(c) of the Act, owns shares (referred to individually in paragraph (a) as a “relevant share”) of the affiliate’s capital stock at the particular time,
+	- **(a)** for the purposes of the description of B in subsection 5905(5.2), the corporation’s cost amount of each relevant share at the particular time is to be determined by the formula
+```
+P × Q/R
+```
+where
+- **P** is the partnership’s cost amount of that relevant share at the particular time,
+- **Q** is the number of shares of the capital stock of the affiliate that are deemed by subsection (1), in respect of the partnership, to be owned by the corporation at the particular time, and
+- **R** is the total number of relevant shares at the particular time; and
+	- **(b)** for the purposes of paragraph (b) of the description of C in subsection 5905(5.2), the amount determined under this paragraph is the total of all amounts each of which is the amount that would be the corporation’s portion of a gain that would be deemed under subsection 92(5) of the Act to be a gain of the member of the partnership from the disposition of a share of the capital stock of the affiliate by the partnership if that share were disposed of immediately before the particular time.
+
+- **(7)** For the purposes of paragraph 5905(5.4)(b), the amount determined by this subsection is the amount determined by the following formula for shares of the capital stock of a foreign affiliate of the subsidiary that were deemed by subsection (1), in respect of the partnership, to be owned by the subsidiary at the time at which the parent last acquired control of the subsidiary:
+```
+A × B
+```
+where
+- **A** is the tax-free surplus balance of the affiliate, in respect of the subsidiary, at that time; and
+- **B** is the percentage that would be the subsidiary’s surplus entitlement percentage in respect of the affiliate at that time if the only shares of that capital stock that were owned at that time by the subsidiary were the shares of that capital stock that were deemed by subsection (1), in respect of the partnership, to be owned by the subsidiary at the time at which the parent last acquired control of the subsidiary.
+
+- **(8)** If a particular corporation resident in Canada or a particular foreign affiliate of a particular corporation resident in Canada is a member of a particular partnership, the particular partnership owns (based on the assumptions contained in paragraph 96(1)(c) of the Act) shares of a class of the capital stock of a foreign affiliate of the particular corporation and the particular partnership disposes of any of those shares,
+	- **(a)** any reference in this Part (other than subsections 5902(5) and (6)) to subsection 93(1) of the Act is deemed to include a reference to subsection 93(1.2) of the Act;
+	- **(b)** an election under subsection 93(1.2) of the Act by the particular corporation is to be made by filing the prescribed form with the Minister on or before
+		- **(i)** where the particular corporation is the disposing corporation referred to in that subsection, the particular corporation’s filing-due date for its taxation year that includes the last day of the particular partnership’s fiscal period in which the disposition was made, and
+		- **(ii)** where the particular affiliate is the disposing corporation referred to in that subsection, the particular corporation’s filing-due date for its taxation year that includes the last day of the particular affiliate’s taxation year that includes the last day of the disposing partnership’s fiscal period in which the disposition was made; and
+	- **(c)** the prescribed amount for the purposes of subparagraph 93(1.2)(a)(ii) of the Act is the lesser of
+		- **(i)** the taxable capital gain, if any, of the particular affiliate otherwise determined in respect of the disposition, and
+		- **(ii)** the amount determined by the formula
+```
+A × B × C/D
+```
+where
+- **A** is the fraction referred to in paragraph 38(a) of the Act that applies to the particular affiliate’s taxation year that includes the last day of the particular partnership’s fiscal period that includes the time of the disposition,
+- **B** is the amount that could reasonably be expected to have been received in respect of all the shares of that class if the second foreign affiliate referred to in subsection 93(1.2) of the Act had, immediately before that time, paid dividends, on all shares of its capital stock, the total of which was equal to the amount determined under subparagraph 5902(1)(a)(i) to be its net surplus in respect of the particular corporation,
+- **C** is the number of shares of that class that is determined under subsection 93(1.3) of the Act, and
+- **D** is the total number of issued shares of that class immediately before that time.
+
+- **(9)** For the purposes of this Part, except to the extent that the context otherwise requires, if a person or partnership is (or is deemed by this subsection to be) a member of a particular partnership that is a member of another partnership, the person or partnership is deemed to be a member of the other partnership.
+
+- **(10)** For the purposes of paragraph 95(2)(j) of the Act, the adjusted cost base to a foreign affiliate of a taxpayer of an interest in a partnership at any time is prescribed to be the cost to the affiliate of the interest as otherwise determined at that time, and for those purposes
+	- **(a)** there shall be added to that cost such of the following amounts as are applicable:
+		- **(i)** any amount included in the affiliate’s earnings for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to profits of the partnership,
+		- **(ii)** the affiliate’s incomes as described by the description of A in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for a taxation year ending after 1971 and before that time that can reasonably be considered to relate to profits of the partnership,
+		- **(iii)** any amount included in computing the exempt earnings or taxable earnings, as the case may be, of the affiliate for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to a capital gain of the partnership,
+		- **(iii.1)** any amount included in computing the hybrid surplus or hybrid deficit of the affiliate before that time that may reasonably be considered to relate to a capital gain of the partnership,
+		- **(iv)** where the affiliate has, at any time before that time and in a taxation year ending after 1971, made a contribution of capital to the partnership otherwise than by way of a loan, such part of the amount of the contribution as cannot reasonably be regarded as a gift made to or for the benefit of any other member of the partnership who was related to the affiliate,
+		- **(v)** such portion of any income or profits tax refunded before that time by the government of a country to the partnership as may reasonably be regarded as tax refunded in respect of an amount described in any of subparagraphs (b)(i) to (iii), and
+		- **(vi)** the amount, if any, determined under paragraph (11)(b);
+	- **(b)** there shall be deducted from that cost such of the following amounts as are applicable:
+		- **(i)** any amount included in the affiliate’s loss for a taxation year ending after 1971 that may reasonably be considered to relate to a loss of the partnership,
+		- **(ii)** the affiliate’s losses as described by the description of D in the definition ***foreign accrual property income*** in subsection 95(1) of the Act for a taxation year ending after 1971 and before that time that can reasonably be considered to relate to the losses of the partnership,
+		- **(iii)** any amount included in computing the exempt loss or taxable loss, as the case may be, of the affiliate for a taxation year ending after 1971 and before that time that may reasonably be considered to relate to a capital loss of the partnership,
+		- **(iii.1)** any amount included in computing the hybrid surplus or hybrid deficit of the affiliate before that time that may reasonably be considered to relate to a capital loss of the partnership,
+		- **(iv)** any amount received by the affiliate before that time and in a taxation year ending after 1971 as, on account or in lieu of payment of, or in satisfaction of, a distribution of the affiliate’s share of the partnership profits or partnership capital, and
+		- **(v)** such portion of any income or profits tax paid before that time to the government of a country by the partnership as may reasonably be regarded as tax paid in respect of an amount described in any of subparagraphs (a)(i) to (iii); and
+	- **(c)** for greater certainty, where any interest of a foreign affiliate in a partnership was reacquired by the affiliate after having been previously disposed of, no adjustment that was required to be made under this subsection before such reacquisition shall be made under this subsection to the cost to the affiliate of the interest as reacquired property of the affiliate.
+
+- **(11)** If at any time a partnership owns, based on the assumptions contained in paragraph 96(1)(c) of the Act, a share of the capital stock of a particular foreign affiliate of a corporation resident in Canada and one or more members of the partnership is at that time a direct holder referred to in paragraph 5905(7.6)(a) or a subordinate affiliate referred to in paragraph 5905(7.6)(b), the following rules apply:
+	- **(a)** for the purposes of paragraph 92(1.1)(b) of the Act, there is to be added, in computing at or after that time the partnership’s adjusted cost base of the share, the total of all amounts each of which is the amount determined, in respect of an acquired affiliate referred to in subsection 5905(7.6), by the formula
+```
+A × B
+```
+where
+- **A** is the amount, if any, determined under paragraph 5905(7.2)(a) in respect of the acquired affiliate, and
+- **B** is the percentage that would, if the partnership were a corporation resident in Canada, be the partnership’s surplus entitlement percentage in respect of the acquired affiliate, at the adjustment time, if the partnership owned only the share;
+	- **(b)** for the purposes of subparagraph (10)(a)(vi), the amount determined under this paragraph, in respect of the interest in the partnership of the direct holder or the subordinate affiliate, is the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the total of all amounts each of which is the amount, if any, determined under paragraph (a) in respect of a share of the capital stock of the particular affiliate,
+- **B** is the fair market value, at the adjustment time, of the interest in the partnership of the direct holder or the subordinate affiliate, as the case may be, and
+- **C** is the fair market value, at the adjustment time, of all members’ interests in the partnership; and
+	- **(c)** no amount is to be added under subsection 5905(7.6) to the direct holder’s or the subordinate affiliate’s adjusted cost base of the share.
+
+- **(12)** For the purposes of paragraph 5905(7.7)(b), the amount determined under this subsection is the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the adjustment amount;
+- **B** is the fair market value, at the adjustment time, of the interest in the partnership that is referred to in paragraph 92(1.1)(b) of the Act of the particular foreign affiliate that is referred to in paragraph 93(3)(c) of the Act; and
+- **C** is the fair market value, at the adjustment time, of all members’ interests in the partnership.
+
+- **(13)** For the purposes of clauses 5907(2.9)(a)(i)(B) and (ii)(B), the amount determined under this subsection is, subject to subsection (14), the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is
+- **(a)** if clause 5907(2.9)(a)(i)(B) applies, the amount determined under clause 5907(2.9)(a)(i)(A), and
+- **(b)** if clause 5907(2.9)(a)(ii)(B) applies, the amount determined under clause 5907(2.9)(a)(ii)(A),
+- **B** is the affiliate’s direct or indirect share of the partnership’s income or loss for the preceding taxation year, and
+- **C** is the partnership’s income or loss for the preceding taxation year.
+
+- **(14)** For the purposes of subsection (13), if both the income and loss of the partnership for the preceding taxation year are nil, the descriptions of B and C in the formula in that subsection are to be applied as if the partnership had income for that year in the amount of $1,000,000.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-505, s. 9; 2013, c. 34, ss. 47, 86.
 
 
 
 
-### Prescribed Circumstances
+**5909** [Repealed, 2013, c. 34, s. 28]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-135, s. 4; 2013, c. 34, s. 28.
 
 
-**5909** For the purposes of subparagraph 94(1)(b)(i) of the Act, property shall be considered to have been acquired in prescribed circumstances where it is acquired by virtue of the repayment of a loan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-135, s. 4.
+
+
+**5910** 
+
+- **(1)** If a foreign affiliate of a corporation resident in Canada carries on in a particular taxation year an active business that is a foreign oil and gas business in a taxing country, the affiliate is deemed for the purposes of this Part to have paid for the particular year, as an income or profits tax to the government of the taxing country in respect of its earnings from the business for the particular year, an amount equal to the lesser of
+	- **(a)** the amount, if any, determined by the formula
+```
+(A × B) – C
+```
+where
+- **A** is the percentage determined under subsection (2) for the particular year,
+- **B** is the affiliate’s earnings from the business for the particular year, and
+- **C** is the total of all amounts each of which is an amount that would, but for this subsection, be an income or profits tax paid to the government of the taxing country by the affiliate for the particular year in respect of its earnings from the business for the particular year; and
+	- **(b)** the affiliate’s production tax amount for the business in the taxing country for the particular year.
+
+- **(2)** The percentage determined under this subsection for the particular year is the percentage determined by the formula
+```
+P – Q
+```
+where
+- **P** is the percentage set out in paragraph 123(1)(a) of the Act for the corporation’s taxation year that includes the last day of the particular year; and
+- **Q** is the corporation’s general rate reduction percentage (within the meaning assigned by subsection 123.4(1) of the Act) for that taxation year of the corporation.
+
+- **(3)** [Repealed, 2013, c. 34, s. 87]
+
+- **(4)** In this section, ***foreign oil and gas business***, ***production tax amount*** and ***taxing country*** have the meanings assigned by subsection 126(7) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, ss. 48, 87.
+
+
+
+
+**5911** 
+
+- **(1)** A listed election is to be made by the taxpayer and, if applicable, the disposing affiliate by so notifying the Minister in writing on or before
+	- **(a)** if the taxpayer is a partnership, the earliest of the filing-due dates of any member of the partnership for the member’s taxation year that includes the last day of the partnership’s fiscal period that includes the last day of the foreign affiliate’s taxation year that includes the time of distribution of a distributed property; and
+	- **(b)** in any other case, the taxpayer’s filing-due date for its taxation year that includes the last day of the foreign affiliate’s taxation year that includes the time of distribution of a distributed property.
+
+- **(2)** For the purposes of subsection (1), a listed election is any of the following:
+	- **(a)** an election by the taxpayer under subsection 88(3.1) of the Act in respect of a liquidation and dissolution of a disposing affiliate;
+	- **(b)** an election by the taxpayer under subsection 88(3.3) of the Act in respect of a distribution of distributed property; and
+	- **(c)** a joint election by the taxpayer and a disposing affiliate under subsection 88(3.5) of the Act in respect of a distribution of distributed property.
+
+- **(3)** Subsection (4) applies if
+	- **(a)** a taxpayer has made an election (referred to in this subsection and subsection (4) as the “initial election”) under subsection 88(3.3) of the Act in respect of a distribution of distributed property on or before the filing-due date specified in subsection (1);
+	- **(b)** the taxpayer made reasonable efforts to determine all amounts, in respect of the disposing affiliate, that may reasonably be considered to be relevant in making the claim under the initial election; and
+	- **(c)** the taxpayer amends the initial election on or before the day that is 10 years after the filing-due date referred to in paragraph (a).
+
+- **(4)** If this subsection applies and, in the opinion of the Minister, the circumstances are such that it would be just and equitable to permit the initial election to be amended, the amended election under paragraph (3)(c) is deemed to have been made on the day on which the initial election was made and the initial election is deemed not to have been made.
+
+- **(5)** An election under the definition ***relevant cost base*** in subsection 95(4) of the Act in respect of a property of a foreign affiliate of a taxpayer, in respect of the taxpayer, is to be made by the taxpayer by so notifying the Minister in writing on or before
+	- **(a)** if the taxpayer is a partnership, the earliest of the filing-due dates of any member of the partnership for the member’s taxation year that includes the last day of the partnership’s fiscal period that includes the last day of the foreign affiliate’s taxation year in which the determination of the relevant cost base of the property, in respect of the taxpayer, is relevant; and
+	- **(b)** in any other case, the taxpayer’s filing-due date for its taxation year that includes the last day of the foreign affiliate’s taxation year in which the determination of the relevant cost base of the property, in respect of the taxpayer, is relevant.
+
+- **(6)** An election, or joint election, as the case may be, under subsection 90(3) of the Act in respect of a distribution made by a foreign affiliate of a taxpayer is to be made by the taxpayer, or by the taxpayer and each connected person or partnership referred to in that subsection, as the case may be, by so notifying the Minister in writing on or before
+	- **(a)** in the case of an election by the taxpayer,
+		- **(i)** if the taxpayer is a partnership, the earliest of the filing-due dates of any member of the partnership for the member’s taxation year that includes the last day of the partnership’s fiscal period in which the distribution was made, and
+		- **(ii)** in any other case, the taxpayer’s filing-due date for its taxation year that includes the last day of the foreign affiliate’s taxation year in which the distribution was made; and
+	- **(b)** in the case of a joint election, the earliest of the filing-due dates that would be determined under paragraph (a) for each taxpayer that is required to make the joint election if there were no connected persons or partnerships in respect of the taxpayer.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 88.
 
 
 
@@ -11926,9 +12325,11 @@ and for the purposes of this section,
 		- **(iii)** the share is convertible or exchangeable into another security issued by the corporation unless
 			- **(A)** it is convertible or exchangeable only into
 				- **(I)** another share of the corporation that, if issued, would not be a prescribed share,
-				- **(II)** a right, including a right conferred by a warrant that, if exercised, would allow the person exercising it to acquire only a share of the corporation that, if issued, would not be a prescribed share, or
-				- **(III)** both a share described in subclause (I) and a right or warrant described in subclause (II), and
-			- **(B)** all the consideration receivable by the holder on the conversion or exchange of the share is the share described in subclause (A)(I) or the right or warrant described in subclause (A)(II), or both, as the case may be, or
+				- **(II)** a right (including a right conferred by a warrant) that
+					- **1** if it were issued, would not be a prescribed right, and
+					- **2** if it were exercised, would allow the person exercising it to acquire only a share of the corporation that, if the share were issued, would not be a prescribed share, or
+				- **(III)** both a share described in subclause (I) and a right described in subclause (II), and
+			- **(B)** all the consideration receivable by the holder on the conversion or exchange of the share is the share described in subclause (A)(I) or the right described in subclause (A)(II), or both, as the case may be, or
 		- **(iv)** the corporation has, either absolutely or contingently, an obligation to reduce, or any person or partnership has, either absolutely or contingently, an obligation to cause the corporation to reduce, the paid-up capital in respect of the share (other than pursuant to a conversion or exchange of the share, where the right to so convert or exchange does not cause the share to be a prescribed share under subparagraph (iii));
 	- **(b)** any person or partnership has, either absolutely or contingently, an obligation (other than an excluded obligation in relation to the share)
 		- **(i)** to provide assistance,
@@ -11950,6 +12351,35 @@ within 5 years after the date the share is issued, otherwise than as a consequen
 		- **(ii)** any new agreement relating to the share or its issue will be entered into,
 in such a manner that the share would be a prescribed share if it had been issued at the time of the modification or at the time when the new agreement is entered into.
 
+- **(1.1)** For the purpose of the definition ***flow-through share*** in subsection 66(15) of the Act, a new right to acquire a share of the capital stock of a corporation is a prescribed right if, at the time the right is issued,
+	- **(a)** the amount that the holder of the right is entitled to receive in respect of the right on the dissolution, liquidation or winding-up of the corporation or on the redemption, acquisition or cancellation of the right by the corporation or by specified persons in relation to the corporation (referred to in this section as the “liquidation entitlement” of the right) can reasonably be considered to be, by way of a formula or otherwise, fixed, limited to a maximum or established to be not less than a minimum;
+	- **(b)** the right is convertible or exchangeable into another security issued by the corporation unless
+		- **(i)** the right is convertible or exchangeable only into
+			- **(A)** a share of the corporation that, if issued, would not be a prescribed share,
+			- **(B)** another right (including a right conferred by a warrant) that
+				- **(I)** if it were issued, would not be a prescribed right, and
+				- **(II)** if it were exercised, would allow the person exercising it to acquire only a share of the corporation that, if the share were issued, would not be a prescribed share, or
+			- **(C)** both a share described in clause (A) and a right described in clause (B), and
+		- **(ii)** all the consideration receivable by the holder on the conversion or exchange of the right is the share described in clause (A) or the right described in clause (B), or both, as the case may be;
+	- **(c)** any person or partnership has, either absolutely or contingently, an obligation (other than an excluded obligation in relation to the right)
+		- **(i)** to provide assistance,
+		- **(ii)** to make a loan or payment,
+		- **(iii)** to transfer property, or
+		- **(iv)** to otherwise confer a benefit by any means whatever, including the payment of a dividend,
+either immediately or in the future, that can reasonably be considered to be, directly or indirectly, a repayment or return by the corporation or a specified person in relation to the corporation of all or part of the consideration for which the right was issued or for which a partnership interest was issued in a partnership that acquires the right;
+	- **(d)** any person or partnership has, either absolutely or contingently, an obligation (other than an excluded obligation in relation to the right) to effect any undertaking, either immediately or in the future, with respect to the right or the agreement under which the right is issued (including any guarantee, security, indemnity, covenant or agreement and including the lending of funds to or the placing of amounts on deposit with, or on behalf of, the holder of the right or where the holder is a partnership, the members of the partnership or specified persons in relation to the holder or the members of the partnership, as the case may be) that can reasonably be considered to have been given to ensure, directly or indirectly, that
+		- **(i)** any loss that the holder of the right and, where the holder is a partnership, the members of the partnership or specified persons in relation to the holder or the members of the partnership, as the case may be, may sustain because of the holding, ownership or disposition of the right or any other property is limited in any respect, or
+		- **(ii)** the holder of the right and, where the holder is a partnership, the members of the partnership or specified persons in relation to the holder or the members of the partnership, as the case may be, will derive earnings, because of the holding, ownership or disposition of the right or any other property;
+	- **(e)** the corporation or a specified person in relation to the corporation can reasonably be expected
+		- **(i)** to acquire or cancel the right in whole or in part otherwise than on a conversion or exchange of the right that meets the conditions set out in subparagraphs (b)(i) and (ii), or
+		- **(ii)** to make a payment, transfer or other provision (otherwise than pursuant to an excluded obligation in relation to the right), directly or indirectly, by way of a dividend, loan, purchase of rights, financial assistance to any purchaser of the right or, where the purchaser is a partnership, the members of the partnership or in any other manner whatever, that can reasonably be considered to be a repayment or return of all or part of the consideration for which the right was issued or for which a partnership interest was issued in a partnership that acquires the right,
+within five years after the date the right is issued, otherwise than as a consequence of an amalgamation of a subsidiary wholly-owned corporation, a winding-up of a subsidiary wholly-owned corporation to which subsection 88(1) of the Act applies or the payment of a dividend by a subsidiary wholly-owned corporation to its parent;
+	- **(f)** any person or partnership can reasonably be expected to effect, within five years after the day the right is issued, any undertaking which, if it were in effect at the time the right was issued, would result in the right being a prescribed right because of paragraph (d);
+	- **(g)** it can reasonably be expected that, within five years after the date the right is issued,
+		- **(i)** any of the terms or conditions of the right or any existing agreement relating to the right or its issue will be modified in such a manner that the right would be a prescribed right if it had been issued at the time of the modification, or
+		- **(ii)** any new agreement relating to the right or its issue will be entered into in such a manner that the right would be a prescribed right if it had been issued at the time the new agreement is entered into; or
+	- **(h)** it can reasonably be expected that the right, if exercised, would allow the person exercising the right to acquire a share in a corporation that, if that share were issued, would be a prescribed share within five years after the day the right was issued.
+
 - **(2)** For the purposes of the definition ***flow-through share*** in subsection 66(15) of the Act, a new share of the capital stock of a corporation is a prescribed share if
 	- **(a)** the consideration for which the share is to be issued is to be determined more than 60 days after entering into the agreement pursuant to which the share is to be issued;
 	- **(b)** the corporation or a specified person in relation to the corporation, directly or indirectly,
@@ -11964,32 +12394,61 @@ for the purpose of assisting any person or partnership in acquiring the share or
 			- **(A)** of a mutual fund corporation, or
 			- **(B)** of a corporation that becomes a mutual fund corporation within 90 days after the acquisition of the acquired share.
 
-- **(3)** For the purposes of subsection (1),
-	- **(a)** the dividend entitlement of a share of the capital stock of a corporation shall be deemed not to be fixed, limited to a maximum or established to be not less than a minimum where all dividends on the share are determined solely by reference to a multiple or fraction of the dividend entitlement of another share of the capital stock of the corporation, or of another corporation that controls the corporation, where the dividend entitlement of that other share is not described in subparagraph (1)(a)(i); and
-	- **(b)** the liquidation entitlement of a share of the capital stock of a corporation shall be deemed not to be fixed, limited to a maximum or established to be not less than a minimum where all the liquidation entitlement is determinable solely by reference to the liquidation entitlement of another share of the capital stock of the corporation, or of another corporation that controls the corporation, where the liquidation entitlement of that other share is not described in subparagraph (1)(a)(ii).
+- **(2.1)** For the purpose of the definition ***flow-through share*** in subsection 66(15) of the Act, a new right is a prescribed right if
+	- **(a)** the consideration for which the new right is to be issued is to be determined more than 60 days after entering into the agreement pursuant to which the new right is to be issued;
+	- **(b)** the corporation or a specified person in relation to the corporation, directly or indirectly, for the purpose of assisting any person or partnership to acquire the new right or any person or partnership to acquire an interest in a partnership acquiring the new right (otherwise than because of an excluded obligation in relation to the new right),
+		- **(i)** provided assistance,
+		- **(ii)** made or arranged for a loan or payment,
+		- **(iii)** transferred property, or
+		- **(iv)** otherwise conferred a benefit by any means whatever, including the payment of a dividend; or
+	- **(c)** the holder of the new right or, where the holder is a partnership, a member of the partnership, has a right under any agreement or arrangement entered into under circumstances where it is reasonable to consider that the agreement or arrangement was contemplated at or before the time the agreement to issue the new right was entered into,
+		- **(i)** to dispose of the new right, and
+		- **(ii)** through a transaction or event or a series of transactions or events contemplated by the agreement or arrangement, to acquire
+			- **(A)** a share (referred to in this paragraph as the “acquired share”) of the capital stock of another corporation that would be a prescribed share under subsection (1) if the acquired share were issued at the time the new right was issued, other than a share that would not be a prescribed share if subsection (1) were read without reference to subparagraphs (1)(a)(iv) and (1)(d)(i) and (ii) where the acquired share is a share
+				- **(I)** of a mutual fund corporation, or
+				- **(II)** of a corporation that becomes a mutual fund corporation within 90 days after the acquisition of the acquired share, or
+			- **(B)** a right (referred to in this paragraph as the “acquired right”) to acquire a share of the capital stock of another corporation that would, if it were issued at the time the new right was issued, be a prescribed right, other than a right that would not be a prescribed right if subsection (1.1) were read without reference to subparagraph (1.1)(e)(i) where the acquired right is a right to acquire a share of the capital stock
+				- **(I)** of a mutual fund corporation, or
+				- **(II)** of a corporation that becomes a mutual fund corporation within 90 days after the acquisition of the acquired right.
 
-- **(4)** For the purposes of paragraphs (1)(c) and (e), an agreement entered into between the first holder of a share and another person or partnership for the sale of the share to that other person or partnership for its fair market value at the time the share is acquired by the other person or partnership (determined without regard to the agreement) shall be deemed not to be an undertaking with respect to the share.
+- **(3)** For the purposes of subsections (1) and (1.1),
+	- **(a)** the dividend entitlement of a share of the capital stock of a corporation is deemed not to be fixed, limited to a maximum or established to be not less than a minimum where all dividends on the share are determined solely by reference to a multiple or fraction of the dividend entitlement of another share of the capital stock of the corporation, or of another corporation that controls the corporation, where the dividend entitlement of that other share is not described in subparagraph (1)(a)(i); and
+	- **(b)** the liquidation entitlement of a share of the capital stock of a corporation, or of a right to acquire a share of the capital stock of the corporation, as the case may be, is deemed not to be fixed, limited to a maximum or established to be not less than a minimum where
+		- **(i)** all the liquidation entitlement is determinable solely by reference to
+			- **(A)** the liquidation entitlement of another share of the capital stock of the corporation (or a share of the capital stock of another corporation that controls the corporation), or
+			- **(B)** the liquidation entitlement of a right to acquire the capital stock of the corporation (or another corporation that controls the corporation),
+		- **(ii)** the liquidation entitlement described in clause (i)(A), if any, is not described in subparagraph (1)(a)(ii), and
+		- **(iii)** the liquidation entitlement described in clause (i)(B), if any, is not described in paragraph (1.1)(a).
+
+- **(4)** For the purposes of paragraphs (1)(c) and (e) and (1.1)(d) and (f), an agreement entered into between the first holder of a share or right and another person or partnership for the sale of the share or right to that other person or partnership for its fair market value at the time the share or right is acquired by the other person or partnership (determined without regard to the agreement) is deemed not to be an undertaking with respect to the share or right, as the case may be.
 
 - **(5)** For the purposes of section 6202 and this section,
 
-***excluded obligation***, in relation to a share issued by a corporation, means
+***excluded obligation***, in relation to a share or new right issued by a corporation, means
 - **(a)** an obligation of the corporation
-	- **(i)** with respect to eligibility for, or the amount of, any assistance under the Canadian Exploration and Development Incentive Program Act, the Canadian Exploration Incentive Program Act, the Ontario Mineral Exploration Program Act, 1989, Statutes of Ontario 1989, c. 40, or the Mineral Exploration Incentive Program Act (Manitoba), Statutes of Manitoba 1990-91, c. 45, or
-	- **(ii)** with respect to the making of an election respecting such assistance and the flowing out of such assistance to the holder of the share in accordance with any of those Acts,
-- **(a.1)** an obligation of the corporation, in respect of the share, to distribute an amount that represents a payment out of assistance to which the corporation is entitled
-	- **(i)** under section 25.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), Revised Statutes of British Columbia, 1996, c. 215, and
-	- **(ii)** as a consequence of the corporation making expenditures funded by consideration received for shares issued by the corporation in respect of which the corporation purports to renounce an amount under subsection 66(12.6) of the Act, and
-- **(b)** an obligation of any person or partnership to effect an undertaking to indemnify a holder of the share or, where the holder is a partnership, a member thereof, for an amount not exceeding the amount of any tax payable under the Act or the laws of a province by the holder or the member of the partnership, as the case may be, as a consequence of
-	- **(i)** the failure of the corporation to renounce an amount to the holder in respect of the share, or
-	- **(ii)** a reduction, under subsection 66(12.73) of the Act, of an amount purported to be renounced to the holder in respect of the share;
+	- **(i)** with respect to eligibility for, or the amount of, any assistance under the Canadian Exploration and Development Incentive Program Act, the Canadian Exploration Incentive Program Act, the Ontario Mineral Exploration Program Act, R.S.O., c. O.27, or The Mineral Exploration Incentive Program Act, S.M. 1991-92, c. 45, or
+	- **(ii)** with respect to the making of an election respecting such assistance and the flowing out of such assistance to the holder of the share or the new right in accordance with any of those Acts,
+- **(b)** an obligation of the corporation, in respect of the share or the new right, to distribute an amount that represents a payment out of assistance to which the corporation is entitled
+	- **(i)** as a consequence of the corporation making expenditures funded by consideration received for shares or new rights issued by the corporation in respect of which the corporation purports to renounce an amount under subsection 66(12.6) of the Act, and
+	- **(ii)** under section 25.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), R.S.B.C., 1996, c. 215, or
+- **(c)** an obligation of any person or partnership to effect an undertaking to indemnify a holder of the share or the new right or, where the holder is a partnership, a member of the partnership, for an amount not exceeding the amount of any tax payable under the Act or the laws of a province by the holder or the member of the partnership, as the case may be, as a consequence of
+	- **(i)** the failure of the corporation to renounce an amount to the holder in respect of the share or the new right, or
+	- **(ii)** a reduction, under subsection 66(12.73) of the Act, of an amount purported to be renounced to the holder in respect of the share or the new right; (*obligation exclue*)
 
-***new share*** means a share of the capital stock of a corporation issued after June 17, 1987, other than a share issued at a particular time before 1989
+***new right*** means a right that is issued after December 20, 2002 to acquire a share of the capital stock of a corporation, other than a right that is issued at a particular time before 2003 
+- **(a)** pursuant to an agreement in writing made on or before December 20, 2002,
+- **(b)** as part of a distribution of rights to the public made in accordance with the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice, required by law to be filed before distribution of the rights begins, filed on or before December 20, 2002 with a public authority in Canada in accordance with the securities legislation of the province in which the rights are distributed, or
+- **(c)** to a partnership interests in which were issued as part of a distribution to the public made in accordance with the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice, required by law to be filed before distribution of the interests begins, filed on or before December 20, 2002 with a public authority in Canada in accordance with the securities legislation of the province in which the interests are distributed, where all interests in the partnership issued at or before the particular time were issued
+	- **(i)** as part of the distribution, or
+	- **(ii)** before the beginning of the distribution; (*nouveau droit*)
+
+***new share*** means a share of the capital stock of a corporation issued after June 17, 1987, other than a share issued at a particular time before 1989
 - **(a)** pursuant to an agreement in writing entered into before June 18, 1987,
 - **(b)** as part of a distribution of shares to the public made in accordance with the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice, required by law to be filed before distribution of the shares begins, filed before June 18, 1987 with a public authority in Canada in accordance with the securities legislation of the province in which the shares were distributed, or
-- **(c)** to a partnership in which interests were issued as part of a distribution to the public made in accordance with the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice, required by law to be filed before distribution of the interests begins, filed before June 18, 1987 with a public authority in Canada in accordance with the securities legislation of the province in which the interests were distributed, where all interests in the partnership issued at or before the particular time were issued as part of the distribution or prior to the beginning of the distribution; (*action nouvelle*)
+- **(c)** to a partnership in which interests were issued as part of a distribution to the public made in accordance with the terms of a prospectus, preliminary prospectus, registration statement, offering memorandum or notice, required by law to be filed before distribution of the interests begins, filed before June 18, 1987 with a public authority in Canada in accordance with the securities legislation of the province in which the interests were distributed, where all interests in the partnership issued at or before the particular time were issued as part of the distribution or prior to the beginning of the distribution; (*action nouvelle*)
 
-***specified person***, in relation to any particular person, means another person with whom the particular person does not deal at arm’s length or any partnership or trust of which the particular person or the other person is a member or beneficiary, respectively. (*personne apparentée*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-86, s. 2; SOR/92-30, s. 1; SOR/92-681, s. 3(F); SOR/94-315, s. 1; SOR/94-686, ss. 67(F); 71(F), 78(F), 79(F); SOR/99-92, s. 3; SOR/2000-297, s. 1.
+***specified person***, in relation to any particular person, means another person with whom the particular person does not deal at arm’s length or any partnership or trust of which the particular person or the other person is a member or beneficiary, respectively. (*personne apparentée*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-86, s. 2; SOR/92-30, s. 1; SOR/92-681, s. 3(F); SOR/94-315, s. 1; SOR/94-686, ss. 67(F); 71(F), 78(F), 79(F); SOR/99-92, s. 3; SOR/2000-297, s. 1; 2013, c. 34, s. 402.
 
 
 
@@ -12396,7 +12855,7 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
-**6701** For the purposes of paragraph 40(2)(i), clause 53(2)(k)(i)(C), the definition ***public corporation*** in subsection 89(1), the definition ***specified investment business*** in subsection 125(7), the definition ***approved share*** in subsection 127.4(1), subsections 131(8) and (11), section 186.1, the definition ***financial intermediary corporation*** in subsection 191(1) and the definition ***eligible investment*** in subsection 204.8(1), of the Act, ***prescribed labour-sponsored venture capital corporation*** means, at any particular time,
+**6701** For the purposes of paragraph 40(2)(i), clause 53(2)(k)(i)(C), the definition ***public corporation*** in subsection 89(1), the definition ***specified investment business*** in subsection 125(7), the definition ***approved share*** in subsection 127.4(1), subsections 131(8) and (11), section 186.1, the definition ***financial intermediary corporation*** in subsection 191(1), the definition ***eligible investment*** in subsection 204.8(1) and subsection 204.81(8.3) of the Act, ***prescribed labour-sponsored venture capital corporation*** means, at any particular time,
 - **(a)** the corporation established by the Act to establish the Fonds de solidarité des travailleurs du Québec (F.T.Q.), Statutes of Quebec 1983, c. 58;
 - **(b)** a corporation that is registered under the provisions of The Labour-sponsored Venture Capital Corporations Act, Statutes of Saskatchewan 1986, c. L-0.2;
 - **(c)** a corporation that is registered under Part 2 of the Employee Investment Act, Revised Statutes of British Columbia, 1996, c. 112;
@@ -12407,7 +12866,7 @@ is prescribed as a class of persons described in the laws of a province.
 - **(g)** the corporation established by An Act to establish Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Statutes of Québec 1995, c. 48;
 - **(h)** a corporation that is registered under Part II of the Equity Tax Credit Act, Statutes of Nova Scotia 1993, c. 3; or
 - **(i)** a corporation that is registered under Part II of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/86-1136, s. 10; SOR/89-551, s. 3; SOR/92-397, s. 3; SOR/92-398, s. 2; SOR/93-396, s. 3; SOR/94-686, ss. 38(F), 79(F); SOR/96-173, s. 2; SOR/97-504, s. 2; SOR/98-12, s. 2; SOR/98-281, s. 3; SOR/99-102, s. 5; SOR/2001-289, s. 4; SOR/2005-126, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/86-1136, s. 10; SOR/89-551, s. 3; SOR/92-397, s. 3; SOR/92-398, s. 2; SOR/93-396, s. 3; SOR/94-686, ss. 38(F), 79(F); SOR/96-173, s. 2; SOR/97-504, s. 2; SOR/98-12, s. 2; SOR/98-281, s. 3; SOR/99-102, s. 5; SOR/2001-289, s. 4; SOR/2005-126, s. 4; 2013, c. 34, s. 403.
 
 
 
@@ -12463,6 +12922,18 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
+**6708** For the purpose of paragraph 204.8(2)(b) and subsection 204.81(8.3) of the Act, section 27.2 of the Community Small Business Investment Funds Act, 1992, S.O. 1992, c. 18, is a prescribed wind-up rule.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 404.
+
+
+
+
+**6709** For the purposes of section 211.81 of the Act, sections 1086.14 and 1086.20 of the Taxation Act, R.S.Q., c. I-3, are prescribed provisions of a provincial law.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 404.
+
+
+
+
 
 **PART LXVIII** 
 ## Prescribed Plans, Arrangements and Contributions
@@ -12510,9 +12981,16 @@ unless, by reason of the arrangement or a series of transactions that includes t
 - **(c)** a plan instituted by the Unemployment Insurance Act;
 - **(d)** a plan pursuant to an agreement in writing that is established for the purpose of deferring the salary or wages of a professional on-ice official for the official’s services as such with the National Hockey League if, in the case of an official resident in Canada, the trust or other person who has custody and control of any funds, investments or other property under the plan is resident in Canada;
 - **(e)** an arrangement under which all contributions are made pursuant to a law of Canada or a province, where one of the main purposes of the law is to enforce minimum standards with respect to wages, vacation entitlement or severance pay;
-- **(f)** an arrangement under which all contributions are made in connection with a dispute regarding the entitlement of one or more persons to benefits to be received or enjoyed by the person or persons; or
-- **(g)** a plan or arrangement instituted by the social security legislation of a country other than Canada or of a state, province or other political subdivision of such a country.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 6; SOR/94-686, s. 79(F); SOR/96-311, s. 3.
+- **(f)** an arrangement under which all contributions are made in connection with a dispute regarding the entitlement of one or more persons to benefits to be received or enjoyed by the person or persons;
+- **(g)** a plan or arrangement instituted by the social security legislation of a country other than Canada or of a state, province or other political subdivision of such a country; or
+- **(h)** a trust established
+	- **(i)** to hold shares of Air Canada, pursuant to the June 2009 memorandum of understanding between Air Canada and certain trade unions who represent employees of Air Canada, if
+		- **(A)** the shares are held by the trust for the benefit of the trade unions, and
+		- **(B)** each of the trade unions may direct the trustee to contribute, from time to time, amounts received or receivable by the trust in respect of the shares, whether as dividends, proceeds of disposition or otherwise, to one or more registered pension plans under which Air Canada is a participating employer, or
+	- **(ii)** in relation to the wind-up of a registered pension plan sponsored by Fraser Papers Inc., if
+		- **(A)** shares are held by the trust for the benefit of the registered pension plan, and
+		- **(B)** the trustee will contribute amounts received or receivable by the trust in respect of the shares, whether as dividends, proceeds of disposition or otherwise, to the registered pension plan, not later than December 31, 2018.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 6; SOR/94-686, s. 79(F); SOR/96-311, s. 3; 2013, c. 34, s. 405.
 
 
 
@@ -13301,35 +13779,11 @@ where
 
 
 **PART LXXV** 
-## Prescribed Missions
+## [Repealed, 2013, c. 33, s. 36]
 
 
-**7500** For the purpose of subclause 110(1)(f)(v)(A)(II) of the Act, the following are prescribed missions:
-- **(a)** Operation Palladium (Bosnia-Herzegovina);
-- **(b)** Operation Halo (Haiti);
-- **(c)** Operation Danaca (Middle East - Golan Heights);
-- **(d)** Operation Calumet (Middle East - Sinai);
-- **(e)** Operation Jade (Middle East - Jerusalem, Damascus and Egypt);
-- **(f)** Operation Iraqi Freedom (Kuwait);
-- **(g)** Operation Solitude (Senegal);
-- **(h)** Operation Altair (Persian Gulf);
-- **(i)** Operation Hamlet (Haiti);
-- **(j)** Operation Structure (Sri Lanka);
-- **(k)** Operation Habitation (Haiti);
-- **(l)** Operation Augural (Sudan - Kartoum);
-- **(m)** Operation Bronze (Bosnia-Herzegovina - North Atlantic Treaty Organization Stabilisation Force);
-- **(n)** Operation Boreas (Bosnia-Herzegovina - European Union Force);
-- **(o)** Operation Safari (Sudan - Kartoum);
-- **(p)** Operation Gladius (Golan Heights);
-- **(q)** Operation Augural (Ethiopia - Addis Ababa);
-- **(r)** United Nations Mission in the Sudan - Civilian Policing Component (Sudan - Kartoum);
-- **(s)** Operation Caribbe (Curacao);
-- **(t)** Operation Kobold (Balkans – Pristina);
-- **(u)** Operation Saturn (Ethiopia – Addis Ababa);
-- **(v)** Operation Enduring Freedom (Kuwait);
-- **(w)** Seventh Airlift Squadron Operation (Kyrgyzstan); and
-- **(x)** Operation Slipper (United Arab Emirates).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2008-49, s. 1; SOR/2013-22, s. 1.
+**7500** [Repealed, 2013, c. 33, s. 36]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2008-49, s. 1; 2013, c. 33, s. 36; SOR/2013-22, s. 1.
 
 
 
@@ -13377,14 +13831,10 @@ where
 ## Prescribed Financial Institutions
 
 
-**7900** 
-
-- **(1)** For the purposes of section 33.1 and the definitions ***excluded income*** and ***excluded revenue*** and ***specified deposit*** in subsection 95(2.5) of the Act, each of the following is a prescribed financial institution:
-	- **(a)** a member of the Canadian Payments Association, other than an authorized foreign bank; and
-	- **(b)** a credit union that is a shareholder or member of a body corporate or organization that is a central for the purposes of the [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md).
-
-- **(2)** For the purposes of the definitions ***excluded income*** and ***excluded revenue*** and ***specified deposit*** in subsection 95(2.5) of the Act, an authorized foreign bank is a prescribed financial institution.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-285, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 10; SOR/2009-302, s. 11.
+**7900** For the purposes of the definitions ***excluded income*** and ***excluded revenue*** and ***specified deposit*** in subsection 95(2.5) of the Act, each of the following is a prescribed financial institution:
+- **(a)** a member of the Canadian Payments Association; and
+- **(b)** a credit union that is a shareholder or member of a body corporate or organization that is a central for the purposes of the [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-285, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 10; SOR/2009-302, s. 11; 2013, c. 33, s. 37.
 
 
 
@@ -13493,174 +13943,41 @@ the following rules apply:
 
 
 **PART LXXXI** 
-## Transition for Financial Institutions
+## [Repealed, 2013, c. 34, s. 406]
 
 
-
-### Transition Deduction in Respect of Unpaid Claims Reserve
-
-
-**8100** For the purpose of subsection 20(26) of the Act, an insurer’s unpaid claims reserve adjustment for its taxation year that includes February 23, 1994 is the amount, if any, by which
-- **(a)** the total of all amounts each of which is the maximum amount that, because of paragraph 1400(e), was deductible under paragraph 20(7)(c) of the Act in respect of an insurance policy in computing the insurer’s income for its last taxation year that ended before February 23, 1994
-exceeds
-- **(b)** where the insurer elects, by notifying the Minister in writing, to have this paragraph apply, the total of all amounts each of which is the maximum amount that would, because of paragraph 1400(e), have been deductible under paragraph 20(7)(c) of the Act in respect of an insurance policy in computing the insurer’s income for its last taxation year that ended before February 23, 1994 if the amount “1/3” in the formula in subparagraph 1400(e)(ii), as it read for that year, were replaced by the amount “1”, and
-- **(c)** in any other case, the total of all amounts each of which is the maximum amount that would, because of paragraph 1400(e) or (e.1), have been deductible under paragraph 20(7)(c) of the Act in respect of an insurance policy in computing the insurer’s income for its last taxation year that ended before February 23, 1994 if paragraph 1400(e.1) had applied to that year and paragraphs 1400(e) and (e.1) were read in their application to that year as they read in their application to the insurer’s taxation year that includes February 23, 1994.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 4; SOR/94-686, ss. 78(F), 79(F), 81(F); SOR/96-443, s. 3.
+**8100** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 4; SOR/94-686, ss. 78(F), 79(F), 81(F); SOR/96-443, s. 3; 2013, c. 34, s. 406.
 
 
 
 
-
-### Inclusion of Transition Amount in Respect of Unpaid Claims Reserve
-
-
-**8101** 
-
-- **(1)** In this section, ***transition deduction*** of an insurer means the amount deducted under subsection 20(26) of the Act in computing the insurer’s income for its taxation year that includes February 23, 1994.
-
-- **(2)** Subject to subsection (3), there is prescribed for the purpose of section 12.3 of the Act in respect of an insurer for a taxation year that ends after February 22, 1994 the amount determined by the formula
-```
-[(0.05A + 0.10B + 0.15C) / 365] x D
-```
-where
-- **A** is the total of
-- **(a)** the number of days in the taxation year that are in 1994 or 1995, and
-- **(b)** where the taxation year includes February 23, 1994, the number of days in 1994 that are before the first day of the taxation year,
-- **B** is the number of days in the taxation year (other than February 29) that are in any of 1996 to 2001,
-- **C** is the number of days in the taxation year that are in 2002 or 2003, and
-- **D** is the insurer’s transition deduction minus the amount, if any, required by subsection (4) or paragraph (5)(b) to be subtracted.
-
-- **(3)** Where subsection 88(1) of the Act has applied to the winding-up of an insurer (in this subsection referred to as the “subsidiary”),
-	- **(a)** the values of A, B and C in subsection (2) shall be determined in respect of the subsidiary without including any days that are after the day on which the subsidiary’s assets were distributed to its parent on the winding-up; and
-	- **(b)** there is prescribed for the purpose of section 12.3 of the Act in respect of the parent for its taxation year that includes the day referred to in paragraph (a) the total of
-		- **(i)** the amount that would be determined under subsection (2) in respect of the parent for the year if the parent’s transition deduction did not include the subsidiary’s transition deduction, and
-		- **(ii)** the amount that would be determined under subsection (2) in respect of the parent for the year if
-			- **(A)** the values of A, B and C in that subsection were determined without including the day referred to in paragraph (a) and any days before that day, and
-			- **(B)** the value of D in that subsection were equal to the subsidiary’s transition deduction.
-
-- **(4)** Where subsection 138(11.5) or (11.94) of the Act has applied to the transfer of an insurance business by an insurer, there shall be subtracted, in determining the value of D in subsection (2) in respect of the insurer for a taxation year ending after the insurer ceased to carry on all or substantially all of the business, the part of the insurer’s transition deduction that can reasonably be attributed to the business.
-
-- **(5)** Where an insurer ceases to carry on all or substantially all of an insurance business, otherwise than as a result of a merger to which subsection 87(2) of the Act applies, a winding-up to which subsection 88(1) of the Act applies or a transfer of the business to which subsection 138(11.5) or (11.94) of the Act applies,
-	- **(a)** there is prescribed for the purpose of section 12.3 of the Act in respect of the insurer for its taxation year in which the cessation of business occurs, in addition to the amount prescribed by subsection (2), the amount, if any, by which
-		- **(i)** the part of the insurer’s transition deduction that can reasonably be attributed to the business
-exceeds
-		- **(ii)** that part of the total of the amounts included under section 12.3 of the Act in computing the income of the insurer for preceding taxation years that can reasonably be considered to be in respect of the amount determined under subparagraph (i); and
-	- **(b)** there shall be subtracted, in determining the value of D in subsection (2) in respect of the insurer for the year or a subsequent taxation year, the amount determined under subparagraph (a)(i).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 4; SOR/94-686, s. 78(F); SOR/96-443, s. 3.
+**8101** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 4; SOR/94-686, s. 78(F); SOR/96-443, s. 3; 2013, c. 34, s. 406.
 
 
 
 
-
-### Mark-to-Market — Transition Deduction
-
-
-**8102** 
-
-- **(1)** In this section, ***excluded property***, of a taxpayer, means a mark-to-market property used in a business of the taxpayer in its taxation year that includes October 31, 1994 where it is reasonable to expect that the property would have been valued at its fair market value for the purpose of computing the taxpayer’s income from the business for the year if
-	- **(a)** the Act were read without reference to subsection 142.5(2); and
-	- **(b)** the property were held at the end of the year.
-
-- **(2)** For the purpose of subsection 142.5(4) of the Act, the prescribed amount for a taxpayer’s taxation year that includes October 31, 1994 is the amount, if any, by which
-	- **(a)** the total of all amounts each of which is the taxpayer’s profit from the disposition in the year, because of subsection 142.5(2) of the Act, of a property other than a capital property or an excluded property
-exceeds the total of
-	- **(b)** the total of all amounts each of which is the taxpayer’s loss from the disposition in the year, because of subsection 142.5(2) of the Act, of a property other than a capital property or an excluded property, and
-	- **(c)** the amount, if any, by which
-		- **(i)** the total of all amounts each of which is the taxpayer’s loss from the disposition in the year of a mark-to-market property (other than a capital property, an excluded property or a property disposed of because of subsection 142.5(2) of the Act)
-exceeds
-		- **(ii)** the total of all amounts each of which is the taxpayer’s profit from the disposition in the year of a mark-to-market property (other than a capital property, an excluded property or a property disposed of because of subsection 142.5(2) of the Act).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+**8102** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6; 2013, c. 34, s. 406.
 
 
 
 
-
-### Mark-to-Market — Transition Inclusion
-
-
-**8103** 
-
-- **(1)** In this section, ***transition deduction***, of a taxpayer, means the amount deducted under subsection 142.5(4) of the Act in computing the taxpayer’s income for its taxation year that includes October 31, 1994.
-
-- **(2)** Subject to subsections (3), (5) and (7), there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of a taxpayer for a taxation year that ends after October 30, 1994 the amount determined by the formula
-```
-A × B/1825
-```
-where
-- **A** is the number of days (other than February 29) in the year that are before the day that is five years after the first day of the taxation year of the taxpayer that includes October 31, 1994; and
-- **B** is the taxpayer’s transition deduction minus the amount, if any, required by subsection (4) or paragraph (6)(b) to be subtracted.
-
-- **(3)** If subsection 88(1) of the Act has applied to the winding-up of a taxpayer (in this subsection referred to as the “subsidiary”),
-	- **(a)** the value of A in subsection (2) shall be determined in respect of the subsidiary without including any days that are after the day on which the subsidiary’s assets were distributed to its parent on the winding-up; and
-	- **(b)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the parent for its taxation year that includes the day referred to in paragraph (a) the total of
-		- **(i)** the amount that would be determined under subsection (2) in respect of the parent for the year if the parent’s transition deduction did not include the subsidiary’s transition deduction, and
-		- **(ii)** the amount that would be determined under subsection (2) in respect of the parent for the year if
-			- **(A)** the value of A in that subsection were determined without including the day referred to in paragraph (a) and any days before that day, and
-			- **(B)** the value of B in that subsection were equal to the subsidiary’s transition deduction.
-
-- **(4)** If subsection 138(11.5) or (11.94) of the Act has applied to the transfer of an insurance business by an insurer, there shall be subtracted, in determining the value of B in subsection (2) in respect of the insurer for a taxation year that ends after the insurer ceased to carry on all or substantially all of the business, the part of the insurer’s transition deduction that is included, because of paragraph 138(11.5)(k) of the Act, in the transition deduction of the person to whom the business was transferred.
-
-- **(5)** If subsection 98(6) of the Act deems a partnership (in this subsection referred to as the “new partnership”) to be a continuation of another partnership (in this subsection referred to as the “predecessor partnership”),
-	- **(a)** the value of A in subsection (2) shall be determined in respect of the predecessor partnership without including any days that are after the day on which the predecessor partnership’s property was transferred to the new partnership; and
-	- **(b)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the new partnership for its taxation year that includes the day referred to in paragraph (a) the total of
-		- **(i)** the amount that would be determined under subsection (2) in respect of the new partnership for the year if its transition deduction did not include the predecessor partnership’s transition deduction, and
-		- **(ii)** the amount that would be determined under subsection (2) in respect of the new partnership for the year if
-			- **(A)** the value of A in that subsection were determined without including the day referred to in paragraph (a) and any days before that day, and
-			- **(B)** the value of B in that subsection were equal to the predecessor partnership’s transition deduction.
-
-- **(6)** If a taxpayer ceases to carry on all or substantially all of a business, otherwise than as a result of a merger to which subsection 87(2) of the Act applies, a winding-up to which subsection 88(1) of the Act applies or a transfer of the business to which subsection 98(6) or 138(11.5) or (11.94) of the Act applies,
-	- **(a)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for its taxation year in which the cessation of business occurs, in addition to the amount prescribed by subsection (2), the amount, if any, by which
-		- **(i)** the part of the taxpayer’s transition deduction that can reasonably be attributed to the business
-exceeds
-		- **(ii)** that part of the total of the amounts included under subsection 142.5(5) of the Act in computing the income of the taxpayer for preceding taxation years that can reasonably be considered to be in respect of the amount determined under subparagraph (i); and
-	- **(b)** there shall be subtracted, in determining the value of B in subsection (2) in respect of the taxpayer for the year or a subsequent taxation year, the amount determined under subparagraph (a)(i).
-
-- **(7)** If a taxpayer ceases at any time to be a financial institution otherwise than because it ceases to carry on a business,
-	- **(a)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for its taxation year that ended immediately before that time, the amount, if any, by which
-		- **(i)** the taxpayer’s transition deduction
-exceeds
-		- **(ii)** the total of the amounts included under subsection 142.5(5) of the Act in computing the taxpayer’s income for preceding taxation years; and
-	- **(b)** the amount prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for taxation years after the taxation year referred to in paragraph (a) is nil.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+**8103** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6; 2013, c. 34, s. 406.
 
 
 
 
-
-### Mark-to-Market — Transition Capital Loss
-
-
-**8104** 
-
-- **(1)** In this section, ***excluded property***, of a taxpayer, means a mark-to-market property of the taxpayer for its taxation year that includes October 31, 1994 if
-	- **(a)** the taxpayer had a taxable capital gain or an allowable capital loss for the year from the disposition of the property to which section 142 of the Act applied; or
-	- **(b)** in the case of a taxpayer that was non-resident in the year, the property was a capital property other than a taxable Canadian property.
-
-- **(2)** For the purpose of subsection 142.5(6) of the Act, the prescribed amount for a taxpayer’s taxation year that includes October 31, 1994 is the amount, if any, by which
-	- **(a)** the total of all amounts each of which is the taxable capital gain of the taxpayer for the year from the disposition, because of subsection 142.5(2) of the Act, of a property other than an excluded property
-exceeds the total of
-	- **(b)** the total of all amounts each of which is the allowable capital loss of the taxpayer for the year from the disposition, because of subsection 142.5(2) of the Act, of a property other than an excluded property, and
-	- **(c)** the amount, if any, by which
-		- **(i)** the total of all amounts each of which is the allowable capital loss of the taxpayer for the year from the disposition of a mark-to-market property (other than an excluded property or a property disposed of because of subsection 142.5(2) of the Act)
-exceeds
-		- **(ii)** the total of all amounts each of which is the taxable capital gain of the taxpayer for the year from the disposition of a mark-to-market property (other than an excluded property or a property disposed of because of subsection 142.5(2) of the Act).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+**8104** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6; 2013, c. 34, s. 406.
 
 
 
 
-
-### Mark-to-Market — Transition Capital Gains
-
-
-**8105** 
-
-- **(1)** In this section, ***transition loss***, of a taxpayer, means the amount elected by the taxpayer under subsection 142.5(6) of the Act to be an allowable capital loss of the taxpayer for its taxation year that includes October 31, 1994.
-
-- **(2)** There is prescribed for the purpose of subsection 142.5(7) of the Act in respect of a taxpayer for a taxation year that ends after October 30, 1994 the amounts that would be prescribed in respect of the taxpayer for the year by section 8103 if the references in subsections 8103(2) to (7) to
-	- **(a)** “subsection 142.5(5)” were read as “subsection 142.5(7)”; and
-	- **(b)** “transition deduction” were read as “transition loss (as defined in subsection 8105(1))”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+**8105** [Repealed, 2013, c. 34, s. 406]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6; 2013, c. 34, s. 406.
 
 
 
@@ -13698,14 +14015,14 @@ exceeds
 ### Permanent Establishments
 
 
-**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), the definition ***excluded income*** and ***excluded revenue*** in subsection 95(2.5), subsections 100(1.3), 112(2), 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, if the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
+**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsections 100(1.3) and 112(2), the definition ***qualified Canadian transit organization*** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
 - **(a)** where the person carries on business through an employee or agent, established in a particular place, who has general authority to contract for the person or who has a stock of merchandise owned by the person from which the employee or agent regularly fills orders, the person shall be deemed to have a permanent establishment at that place,
 - **(b)** where the person is an insurance corporation, the person is deemed to have a permanent establishment in each country in which the person is registered or licensed to do business,
 - **(c)** where the person uses substantial machinery or equipment at a particular place at any time in a taxation year, the person shall be deemed to have a permanent establishment at that place,
 - **(d)** the fact that the person has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the person has a permanent establishment, and
 - **(e)** where the person is a corporation, the fact that the person has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place shall not of itself be held to mean that the person is operating a permanent establishment at that place,
 except that, where the person is resident in a country with which the Government of Canada has concluded a tax treaty in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68; 2013, c. 34, ss. 49, 427.
 
 
 
@@ -15501,56 +15818,56 @@ on or before the day that an information return required by that regulator is to
 
 - **(1)** In this Part,
 
-***active member*** of a pension plan in a calendar year means a member of the plan to whom benefits accrue under a defined benefit provision of the plan in respect of all or any portion of the year or who makes contributions, or on whose behalf contributions are made, in relation to the year under a money purchase provision of the plan; (*participant actif*)
+***active member*** of a pension plan in a calendar year means a member of the plan to whom benefits accrue under a defined benefit provision of the plan in respect of all or any portion of the year or who makes contributions, or on whose behalf contributions are made, in relation to the year under a money purchase provision of the plan; (*participant actif*)
 
-***average Consumer Price Index*** for a calendar year means the amount that is obtained by dividing by 12 the aggregate of all amounts each of which is the Consumer Price Index for a month in the 12-month period ending on September 30 of the immediately preceding calendar year; (*moyenne de l’indice des prix à la consommation*)
+***average Consumer Price Index*** for a calendar year means the amount that is obtained by dividing by 12 the aggregate of all amounts each of which is the Consumer Price Index for a month in the 12-month period ending on September 30 of the immediately preceding calendar year; (*moyenne de l’indice des prix à la consommation*)
 
-***beneficiary*** of an individual means a person who has a right, by virtue of the participation of the individual in a pension plan, to receive benefits under the plan after the death of the individual; (*bénéficiaire*)
+***beneficiary*** of an individual means a person who has a right, by virtue of the participation of the individual in a pension plan, to receive benefits under the plan after the death of the individual; (*bénéficiaire*)
 
-***benefit provision*** of a pension plan means a money purchase or defined benefit provision of the plan; (*version anglaise seulement*)
+***benefit provision*** of a pension plan means a money purchase or defined benefit provision of the plan; (*version anglaise seulement*)
 
-***bridging benefits*** provided to a member under a benefit provision of a pension plan means retirement benefits payable to the member under the provision for a period ending no later than on a date determinable at the time the benefits commence to be paid; (*prestation de raccordement*)
+***bridging benefits*** provided to a member under a benefit provision of a pension plan means retirement benefits payable to the member under the provision for a period ending no later than on a date determinable at the time the benefits commence to be paid; (*prestation de raccordement*)
 
-***Consumer Price Index*** for a month means the Consumer Price Index for the month as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md); (*indice des prix à la consommation*)
+***Consumer Price Index*** for a month means the Consumer Price Index for the month as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md); (*indice des prix à la consommation*)
 
-***defined benefit limit*** for a calendar year means the greater of
+***defined benefit limit*** for a calendar year means the greater of
 - **(a)** $1,722.22, and
-- **(b)** 1/9 of the money purchase limit for the year; (*plafond des prestations déterminées*)
+- **(b)** 1/9 of the money purchase limit for the year; (*plafond des prestations déterminées*)
 
-***dependant*** of an individual at the time of the individual’s death means a parent, grandparent, brother, sister, child or grandchild of the individual who, at that time, is both dependent on the individual for support and
+***dependant*** of an individual at the time of the individual’s death means a parent, grandparent, brother, sister, child or grandchild of the individual who, at that time, is both dependent on the individual for support and
 - **(a)** under 19 years of age and will not attain 19 years of age in the calendar year that includes that time,
 - **(b)** in full-time attendance at an educational institution, or
-- **(c)** dependent on the individual by reason of mental or physical infirmity; (*personne à charge*)
+- **(c)** dependent on the individual by reason of mental or physical infirmity; (*personne à charge*)
 
-***designated plan*** has the meaning assigned by section 8515; (*régime désigné*)
+***designated plan*** has the meaning assigned by section 8515; (*régime désigné*)
 
-***disabled*** means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from performing the duties of the employment in which the individual was engaged before the commencement of the impairment; (*invalide*)
+***disabled*** means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from performing the duties of the employment in which the individual was engaged before the commencement of the impairment; (*invalide*)
 
-***eligible period of reduced pay*** of an employee with respect to an employer means a period (other than a period in which the employee is, at any time after 1990, connected with the employer or a period any part of which is a period of disability of the employee)
+***eligible period of reduced pay*** of an employee with respect to an employer means a period (other than a period in which the employee is, at any time after 1990, connected with the employer or a period any part of which is a period of disability of the employee)
 - **(a)** that begins after the employee has been employed by the employer or predecessor employers to the employer for not less than 36 months,
 - **(b)** throughout which the employee renders services to the employer, and
-- **(c)** throughout which the remuneration received by the employee from the employer is less than the remuneration that it is reasonable to expect the employee would have received from the employer had the employee rendered services throughout the period on a regular basis (having regard to the services rendered by the employee to the employer before the period) and had the employee’s rate of remuneration been commensurate with the employee’s rate of remuneration before the period; (*période admissible de salaire réduit*)
+- **(c)** throughout which the remuneration received by the employee from the employer is less than the remuneration that it is reasonable to expect the employee would have received from the employer had the employee rendered services throughout the period on a regular basis (having regard to the services rendered by the employee to the employer before the period) and had the employee’s rate of remuneration been commensurate with the employee’s rate of remuneration before the period; (*période admissible de salaire réduit*)
 
-***eligible period of temporary absence*** of an individual with respect to an employer means a period throughout which the individual does not render services to the employer by reason of leave of absence, layoff, strike, lock-out or any other circumstance acceptable to the Minister, other than a period
+***eligible period of temporary absence*** of an individual with respect to an employer means a period throughout which the individual does not render services to the employer by reason of leave of absence, layoff, strike, lock-out or any other circumstance acceptable to the Minister, other than a period
 - **(a)** a part of which is a period of disability of the individual, or
-- **(b)** in which the individual is, at any time after 1990, connected with the employer; (*période admissible d’absence temporaire*)
+- **(b)** in which the individual is, at any time after 1990, connected with the employer; (*période admissible d’absence temporaire*)
 
 ***eligible survivor benefit period***, in relation to a person who is a dependant of an individual at the time of the individual’s death, means the period beginning on the day of death of the individual and ending on the latest of
 - **(a)** where the dependant is under 19 years of age throughout the calendar year that includes the day of death of the individual, the earlier of
 	- **(i)** December 31 of the calendar year in which the dependant attains 18 years of age, and
 	- **(ii)** the day of death of the dependant,
 - **(b)** where the dependant is in full-time attendance at an educational institution on the later of the day of death of the individual and December 31 of the calendar year in which the dependant attains 18 years of age, the day on which the dependant ceases to be in full-time attendance at an educational institution, and
-- **(c)** where the dependant is dependent on the individual at the time of the individual’s death by reason of mental or physical infirmity, the day on which the dependant ceases to be infirm or, if there is no such day, the day of death of the dependant; (*période admissible de prestations au survivant*)
+- **(c)** where the dependant is dependent on the individual at the time of the individual’s death by reason of mental or physical infirmity, the day on which the dependant ceases to be infirm or, if there is no such day, the day of death of the dependant; (*période admissible de prestations au survivant*)
 
-***existing plan*** means a pension plan that was a registered pension plan on March 27, 1988 or in respect of which an application for registration was made to the Minister before March 28, 1988, and includes a pension plan that was established before March 28, 1988 pursuant to an Act of Parliament that deems member contributions to be contributions to a registered pension plan; (*régime existant*)
+***existing plan*** means a pension plan that was a registered pension plan on March 27, 1988 or in respect of which an application for registration was made to the Minister before March 28, 1988, and includes a pension plan that was established before March 28, 1988 pursuant to an Act of Parliament that deems member contributions to be contributions to a registered pension plan; (*régime existant*)
 
-***forfeited amount*** under a money purchase provision of a pension plan means an amount to which a member of the plan has ceased to have any rights, other than the portion thereof, if any, that is payable
+***forfeited amount*** under a money purchase provision of a pension plan means an amount to which a member of the plan has ceased to have any rights, other than the portion thereof, if any, that is payable
 - **(a)** to a beneficiary of the member as a consequence of the member’s death, or
-- **(b)** to a spouse or common-law partner or former spouse or common-law partner of the member as a consequence of the breakdown of their marriage or common-law partnership; (*montant perdu*)
+- **(b)** to a spouse or common-law partner or former spouse or common-law partner of the member as a consequence of the breakdown of their marriage or common-law partnership; (*montant perdu*)
 
-***grandfathered plan*** means
+***grandfathered plan*** means
 - **(a)** an existing plan that, on March 27, 1988, contained a defined benefit provision, or
-- **(b)** a pension plan that was established to provide benefits under a defined benefit provision to one or more individuals in lieu of benefits to which the individuals were entitled under a defined benefit provision of another pension plan that is a grandfathered plan, whether or not benefits are also provided to other individuals; (*régime exclu*)
+- **(b)** a pension plan that was established to provide benefits under a defined benefit provision to one or more individuals in lieu of benefits to which the individuals were entitled under a defined benefit provision of another pension plan that is a grandfathered plan, whether or not benefits are also provided to other individuals; (*régime exclu*)
 
 ***IPP minimum amount***, for a year, for a person who is a member of an individual pension plan (or a beneficiary, in respect of the plan, who was, at the time of the member’s death, a spouse or common-law partner of the member) means
 - **(a)** if there is only one such person in respect of the plan, the minimum amount that would be determined under subsection 146.3(1) of the Act for the year in respect of the plan if the plan were a registered retirement income fund that held the same property as the property held by the plan and the person were the annuitant of the fund, and
@@ -15563,44 +15880,46 @@ where
 - **B** is the amount of the actuarial liabilities in respect of the benefits payable to the person under the terms of the plan at the beginning of the year, and
 - **C** is the amount of the actuarial liabilities in respect of all benefits payable under the terms of the plan at the beginning of the year; (*minimum RRI*)
 
-***lifetime retirement benefits*** provided to a member under a benefit provision of a pension plan means
+***lifetime retirement benefits*** provided to a member under a benefit provision of a pension plan means
 - **(a)** retirement benefits provided to the member under the provision that, after they commence to be paid, are payable to the member until the member’s death, unless the benefits are commuted or payment of the benefits is suspended, and
-- **(b)** for greater certainty, retirement benefits provided to the member under the provision in accordance with paragraph 8506(1)(e.1); (*prestation viagère*)
+- **(b)** for greater certainty, retirement benefits provided to the member under the provision in accordance with paragraph 8506(1)(e.1); (*prestation viagère*)
 
-***multi-employer plan*** in a calendar year means
+***multi-employer plan*** in a calendar year means
 - **(a)** a pension plan in respect of which it is reasonable to expect, at the beginning of the year (or at the time in the year when the plan is established, if later), that at no time in the year will more than 95 per cent of the active members of the plan be employed by a single participating employer or by a related group of participating employers, other than a plan where it is reasonable to consider that one of the main reasons there is more than one employer participating in the plan is to obtain the benefit of any of the provisions of the Act or these Regulations that are applicable only in respect of multi-employer plans, or
 - **(b)** a pension plan that is, in the year, a specified multi-employer plan,
 
 and, for the purposes of this definition, 2 corporations that are related to each other solely by reason that they are both controlled by Her Majesty in right of Canada or a province shall be deemed not to be related persons; (*régime interentreprises*)
 
-***pensionable service*** of a member of a pension plan under a defined benefit provision of the plan means the periods in respect of which lifetime retirement benefits are provided to the member under the provision; (*services validables*)
+***pensionable service*** of a member of a pension plan under a defined benefit provision of the plan means the periods in respect of which lifetime retirement benefits are provided to the member under the provision; (*services validables*)
 
-***period of disability*** of an individual means a period throughout which the individual is disabled; (*période d’invalidité*)
+***period of disability*** of an individual means a period throughout which the individual is disabled; (*période d’invalidité*)
 
-***predecessor employer*** means, in relation to a particular employer, an employer (in this definition referred to as the ***vendor***) who has sold, assigned or otherwise disposed of all or part of the vendor’s business or undertaking or all or part of the assets of the vendor’s business or undertaking to the particular employer or to another employer who, at any time after the sale, assignment or other disposition, becomes a predecessor employer in relation to the particular employer, where one or more employees of the vendor have, in conjunction with the sale, assignment or disposition, become employees of the employer acquiring the business, undertaking or assets; (*employeur remplacé*)
+***predecessor employer*** means, in relation to a particular employer, an employer (in this definition referred to as the “vendor”) who has sold, assigned or otherwise disposed of all or part of the vendor’s business or undertaking or all or part of the assets of the vendor’s business or undertaking to the particular employer or to another employer who, at any time after the sale, assignment or other disposition, becomes a predecessor employer in relation to the particular employer, if all or a significant number of employees of the vendor have, in conjunction with the sale, assignment or disposition, become employees of the employer acquiring the business, undertaking or assets; (*employeur remplacé*)
 
-***public pension benefits*** means amounts that are payable on a periodic basis under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), a provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or Part I of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), but does not include disability, death or survivor benefits provided under those Acts; (*prestation de pension de l’État*)
+***public pension benefits*** means amounts that are payable on a periodic basis under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), a provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or Part I of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), but does not include disability, death or survivor benefits provided under those Acts; (*prestation de pension de l’État*)
 
-***public safety occupation*** means the occupation of
+***public safety occupation*** means the occupation of
 - **(a)** firefighter,
 - **(b)** police officer,
 - **(c)** corrections officer,
 - **(d)** air traffic controller,
 - **(e)** commercial airline pilot, or
-- **(f)** paramedic; (*profession liée à la sécurité publique*)
+- **(f)** paramedic; (*profession liée à la sécurité publique*)
 
-***retirement benefits*** provided to an individual under a benefit provision of a pension plan means benefits provided to the individual under the provision that are payable on a periodic basis; (*prestation de retraite*)
+***retirement benefits*** provided to an individual under a benefit provision of a pension plan means benefits provided to the individual under the provision that are payable on a periodic basis; (*prestation de retraite*)
 
-***surplus*** under a money purchase provision of a pension plan at any time means such portion, if any, of the amount held at that time in respect of the provision as has not been allocated to members and is not reasonably attributable to
+***surplus*** under a money purchase provision of a pension plan at any time means such portion, if any, of the amount held at that time in respect of the provision as has not been allocated to members and is not reasonably attributable to
 - **(a)** forfeited amounts under the provision or earnings of the plan that are reasonably attributable to those amounts,
 - **(b)** contributions made under the provision by an employer that will be allocated to members as part of the regular allocation of such contributions, or
-- **(c)** earnings of the plan (other than earnings that are reasonably attributable to the surplus under the provision before that time) that will be allocated to members as part of the regular allocation of such earnings; (*surplus*)
+- **(c)** earnings of the plan (other than earnings that are reasonably attributable to the surplus under the provision before that time) that will be allocated to members as part of the regular allocation of such earnings; (*surplus*)
 
-***totally and permanently disabled*** means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from engaging in any employment for which the individual is reasonably suited by virtue of the individual’s education, training or experience and that can reasonably be expected to last for the remainder of the individual’s lifetime; (*invalidité totale et permanente*)
+***totally and permanently disabled*** means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from engaging in any employment for which the individual is reasonably suited by virtue of the individual’s education, training or experience and that can reasonably be expected to last for the remainder of the individual’s lifetime; (*invalidité totale et permanente*)
 
-***Year’s Maximum Pensionable Earnings*** for a calendar year has the meaning assigned by section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md). (*maximum des gains annuels ouvrant droit à pension*)
+***Year’s Maximum Pensionable Earnings*** for a calendar year has the meaning assigned by section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md). (*maximum des gains annuels ouvrant droit à pension*)
 
 - **(1.1)** The definition ***surplus*** in subsection (1) applies for the purpose of subsection 147.3(7.1) of the Act.
+
+- **(1.2)** The definition ***predecessor employer*** in subsection (1) applies for the purpose of subsection 147.2(8) of the Act.
 
 - **(2)** All words and expressions used in this Part that are defined in subsection 147.1(1) of the Act or in Part LXXXIII have the meanings assigned in those provisions.
 
@@ -15633,7 +15952,9 @@ shall be deemed to be a contribution made under the provision on behalf of the i
 	- **(a)** for the purpose of determining whether the member benefits are permissible under this Part, the non-member benefits shall be disregarded;
 	- **(b)** for the purpose of determining whether the non-member benefits are permissible under this Part, the member benefits shall be disregarded; and
 	- **(c)** for the purpose of determining a pension adjustment, pension adjustment reversal or provisional past service pension adjustment of the individual under Part LXXXIII, the non-member benefits shall be disregarded.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; 2007, c. 35, s. 82; SOR/2007-116, s. 15; 2011, c. 24, s. 93.
+
+- **(9)** For the purposes of paragraph 147.3(6)(b) of the Act and subparagraphs 8502(d)(iv) and 8503(2)(h)(iii), if an amount is transferred in accordance with subsection 147.3(3) of the Act to a defined benefit provision (referred to in this subsection as the “current provision”) of a registered pension plan from a defined benefit provision (referred to in this subsection as the “former provision”) of another registered pension plan on behalf of all or a significant number of members whose benefits under the former provision are replaced by benefits under the current provision, each current service contribution made at a particular time under the former provision by a member whose benefits are so replaced is deemed to be a current service contribution made at that particular time under the current provision by the member.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; 2007, c. 35, s. 82; SOR/2007-116, s. 15; 2011, c. 24, s. 93; 2013, c. 34, s. 407.
 
 
 
@@ -15748,8 +16069,9 @@ for the purpose of determining whether the ancillary benefits are permissible un
 	- **(i)** is paid by a member of the plan in accordance with the plan as registered, where the amount is credited to the member’s account under a money purchase provision of the plan or is paid in respect of the member’s benefits under a defined benefit provision of the plan,
 	- **(ii)** is paid in accordance with a money purchase provision of the plan as registered, by an employer with respect to the employer’s employees or former employees,
 	- **(iii)** is an eligible contribution that is paid in respect of a defined benefit provision of the plan by an employer with respect to the employer’s employees or former employees,
-	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (8) and 147.5(21) of the Act, or
-	- **(v)** is acceptable to the Minister and that is transferred to the plan from a pension plan that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada,
+	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (8) and 147.5(21) of the Act,
+	- **(v)** is acceptable to the Minister and that is transferred to the plan from a pension plan that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada, or
+	- **(v.1)** is paid by the trustee of a trust described in paragraph 6802(h), where the amount would have been an eligible contribution if the amount had been paid in respect of a defined benefit provision of the plan by an employer with respect to the employer’s employees or former employees,
 and, for the purposes of this paragraph,
 	- **(vi)** an eligible contribution is a contribution that is paid by an employer in respect of a defined benefit provision of a pension plan where it is an eligible contribution under subsection 147.2(2) of the Act or, in the case of a plan in which Her Majesty in right of Canada or a province is a participating employer, would be an eligible contribution under subsection 147.2(2) of the Act if all amounts held to the credit of the plan in the accounts of Canada or the province were excluded from the assets of the plan, and
 	- **(vii)** the portion of each contribution that is made by Her Majesty in right of Canada or of a province, or by a person described in paragraph 4802(1)(d), in respect of a defined benefit provision of the plan and that can reasonably be considered to be made with respect to one or more employees or former employees of another person is deemed to be a contribution made by that other person;
@@ -15829,7 +16151,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; 2011, c. 24, s. 95; SOR/2011-188, s. 26; 2012, c. 31, s. 69.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; 2011, c. 24, s. 95; SOR/2011-188, s. 26; 2012, c. 31, s. 69; 2013, c. 34, s. 408.
 
 
 
@@ -16463,6 +16785,11 @@ where
 - **K** is the greatest of all amounts each of which is the average wage for a calendar year not before the later of the compensation year and 1986 and not after the year of commencement, and
 - **L** is the average wage for the later of the compensation year and 1986.
 
+#### Predecessor Employer
+
+
+- **(2.1)** For the purposes of subsection (2), if the pensionable service of the member under the provision includes a period throughout which the member was employed by a predecessor employer to an employer who participates in the plan, the predecessor employer is deemed to have participated under the provision for the benefit of the member.
+
 #### Alternative Compensation Rules
 
 
@@ -16568,7 +16895,7 @@ unless it is unreasonable to expect the benefits under the particular provision 
 - **(14)** The retirement benefits provided to a member under a defined benefit provision of a pension plan shall be deemed to comply with the condition in paragraph (5)(b) where they would so comply if the ratio that is determined under subparagraph (5)(b)(ii) were replaced by a substantially similar measure of the change in the Consumer Price Index.
 
 - **(15)** The lifetime retirement benefits provided to a member under a defined benefit provision of a pension plan shall be deemed to comply with the condition in subsection (6) where they would so comply if the amount C in the formula set out in paragraph (6)(b) were replaced by a substantially similar measure of the change in the Consumer Price Index.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 7; 2007, c. 35, s. 84.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 7; 2007, c. 35, s. 84; 2013, c. 34, s. 409.
 
 
 
@@ -17339,7 +17666,7 @@ or an interest in, or a right to acquire, such a share, interest or debt.
 		- **(iii)** bears a rate of interest that would be reasonable in the circumstances if the mortgagor dealt with the mortgagee at arm’s length.
 
 - **(2.1)** Where a share of the capital stock of, an interest in or a debt of, a person who is connected with a particular employer who participates in a registered pension plan that is a multi-employer plan would, but for this subsection, be a prohibited investment in respect of the plan, the property is not a prohibited investment in respect of the plan if
-	- **(a)** the plan does not contain a money purchase provision;
+	- **(a)** the plan contains no money purchase provision other than a money purchase provision under which each member account is credited, on a reasonable basis and no less frequently than annually, an amount based on the income earned, losses incurred and capital gains and capital losses realized, on all of the property held by the plan;
 	- **(b)** at the time the property is acquired by the plan, there are at least 15 employers who participate in the plan and, for this purpose,
 		- **(i)** all employers who are related to each other are deemed to be a single employer, and
 		- **(ii)** all the structural units of a trade union, including each local, branch, national and international unit, are deemed to be a single employer;
@@ -17352,7 +17679,7 @@ or an interest in, or a right to acquire, such a share, interest or debt.
 - **(3)** A prohibited investment in respect of a registered pension plan does not include an investment that was acquired by the plan before March 28, 1988.
 
 - **(4)** For the purposes of subsection (3), where at any time after March 27, 1988, the principal amount of a bond, debenture, note, mortgage or similar obligation increases as a consequence of the advancement or lending of additional amounts, or the maturity date of such an obligation is extended, the obligation shall, after that time, be deemed to have been issued at that time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 62, 78(F), 79(F); SOR/2001-67, s. 9; 2007, c. 35, s. 86.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 62, 78(F), 79(F); SOR/2001-67, s. 9; 2007, c. 35, s. 86; 2013, c. 34, s. 410.
 
 
 
@@ -17850,41 +18177,41 @@ the amount of the individual’s lifetime retirement benefits under the particul
 
 **8600** For the purposes of this Part and Part I.3 of the Act,
 
-***attributed surplus*** of a non-resident insurer for a taxation year has the meaning assigned by subsection 2400(1); (*surplus attribué*)
+***attributed surplus*** of a non-resident insurer for a taxation year has the meaning assigned by subsection 2400(1); (*surplus attribué*)
 
-***Canadian assets*** of a corporation that is a financial institution (as defined in subsection 181(1) of the Act) at any time in a taxation year means, in respect of the year, the amount, if any, by which
+***Canadian assets*** of a corporation that is a financial institution (as defined in subsection 181(1) of the Act) at any time in a taxation year means, in respect of the year, the amount, if any, by which
 - **(a)** the total of all amounts each of which is the amount at which an asset of the corporation (which asset is required, or, if the corporation were a bank to which the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) applied, would be required, to be reflected in a return under subsection 223(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), as that Act read on May 31, 1992, if that return were prepared on a non-consolidated basis) would be shown on the corporation’s balance sheet at the end of the year if its balance sheet were prepared on a non-consolidated basis
 
-exceeds the total of
-- **(b)** the investment allowance of the corporation for the year determined under subsection 181.3(4) of the Act, and
-- **(c)** the total of all amounts each of which is the amount outstanding at the end of the year on account of a deposit made by the corporation that is described in paragraph (c) of the definition ***eligible loan*** in subsection 33.1(1) of the Act; (*actif canadien*)
+exceeds
+- **(b)** the investment allowance of the corporation for the year determined under subsection 181.3(4) of the Act; (*actif canadien*)
+- **(c)** [Repealed, 2013, c. 33, s. 38]
 
-***Canadian premiums*** for a taxation year, in respect of an insurance corporation that was resident in Canada at any time in the year and throughout the year did not carry on a life insurance business, means the total of the insurance corporation’s net premiums for the year
+***Canadian premiums*** for a taxation year, in respect of an insurance corporation that was resident in Canada at any time in the year and throughout the year did not carry on a life insurance business, means the total of the insurance corporation’s net premiums for the year
 - **(a)** in respect of insurance on property situated in Canada, and
 - **(b)** in respect of insurance, other than on property, from contracts with persons resident in Canada,
 
 and, for the purposes of this definition, ***net premiums*** has the same meaning as in subsection 403(2), and subsection 403(3) applies as if the references therein to “province” were read as references to “country”; (*primes canadiennes*)
 
-***Canadian reserve liabilities*** of an insurer as at the end of a taxation year has the meaning assigned by subsection 2400(1); (*(passif de réserve canadienne)*)
+***Canadian reserve liabilities*** of an insurer as at the end of a taxation year has the meaning assigned by subsection 2400(1); (*(passif de réserve canadienne)*)
 
-***permanent establishment*** has the same meaning as in subsection 400(2); (*établissement stable*)
+***permanent establishment*** has the same meaning as in subsection 400(2); (*établissement stable*)
 
-***total assets*** of a corporation that is a financial institution (as defined in subsection 181(1) of the Act) at any time in a taxation year means, in respect of that year, the amount, if any, by which
+***total assets*** of a corporation that is a financial institution (as defined in subsection 181(1) of the Act) at any time in a taxation year means, in respect of that year, the amount, if any, by which
 - **(a)** the total of all amounts each of which is the amount at which an asset of the corporation would be shown on the corporation’s balance sheet at the end of the year if its balance sheet were prepared on a non-consolidated basis
 
 exceeds
-- **(b)** the investment allowance of the corporation for the year determined under subsection 181.3(4) of the Act; (*actif total*)
+- **(b)** the investment allowance of the corporation for the year determined under subsection 181.3(4) of the Act; (*actif total*)
 
-***total premiums*** for a taxation year, in respect of an insurance corporation that was resident in Canada at any time in the year and throughout the year did not carry on a life insurance business, means the total of the corporation’s net premiums for the year (as defined in subsection 403(2)) that are included in computing its income under Part I of the Act; (*total des primes*)
+***total premiums*** for a taxation year, in respect of an insurance corporation that was resident in Canada at any time in the year and throughout the year did not carry on a life insurance business, means the total of the corporation’s net premiums for the year (as defined in subsection 403(2)) that are included in computing its income under Part I of the Act; (*total des primes*)
 
-***total reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
+***total reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
 ```
 A – B
 ```
 where
 - **A** is the total amount as at the end of the year of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of a segregated fund within the meaning assigned by subsection 138(12) of the Act) in respect of all its insurance policies, as determined for the purposes of the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions, or, in any other case, the superintendent of insurance or other similar officer or authority of the province under the laws of which the insurer is incorporated, and
 - **B** is the total of the reinsurance recoverable (within the meaning assigned by subsection 2400(1)) reported as a reinsurance asset by the insurer as at the end of the year relating to its liabilities and reserves in A. (*passif total de réserve*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, ss. 57(F), 79(F); SOR/2000-413, s. 8; 2010, c. 25, s. 86.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, ss. 57(F), 79(F); SOR/2000-413, s. 8; 2010, c. 25, s. 86; 2013, c. 33, s. 38.
 
 
 
@@ -17921,7 +18248,7 @@ where
 **8603** For the purposes of Part VI of the Act,
 - **(a)** ***Canadian assets*** of a corporation that is a financial institution (as defined in subsection 190(1) of the Act) at any time in a taxation year means, in respect of that year, the amount that would be determined under the definition ***Canadian assets*** in section 8600 in respect of the corporation for the year if the reference in that definition to “subsection 181(1)” were read as a reference to “subsection 190(1)” and paragraph (b) of that definition were read as follows:
 
-- **“(b)** the total determined under section 190.14 of the Act in respect of the corporation’s investments for the year in financial institutions related to it, and”
+- **“(b)** the total determined under section 190.14 of the Act in respect of the corporation’s investments for the year in financial institutions related to it;”;
 
 
 - **(b)** ***total assets*** of a corporation that is a financial institution (as defined in subsection 190(1) of the Act) at any time in a taxation year means, in respect of that year, the amount that would be determined under the definition ***total assets*** in section 8600 in respect of the corporation for the year if the reference in that definition to “subsection 181(1)” were read as a reference to “subsection 190(1)” and paragraph (b) of that definition were read as follows:
@@ -17930,45 +18257,13 @@ where
 
 
 - **(c)** ***attributed surplus***, ***Canadian reserve liabilities*** and ***total reserve liabilities*** have the same respective meanings as in section 8600.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, s. 79(F); 2013, c. 33, s. 39(E).
 
 
 
 
-**8604** For the purposes of paragraph (g) of the definition ***financial institution*** in subsection 181(1) of the Act, each of the following corporations is a prescribed corporation:
-- **(a)** a corporation of which all or substantially all of the assets are shares or indebtedness of financial institutions (as defined in that subsection) to which the corporation is related;
-- **(b)** AVCO Financial Services Canada Limited;
-- **(c)** AVCO Financial Services Realty Limited;
-- **(d)** AVCO Financial Services Quebec Limited;
-- **(e)** General Motors Acceptance Corporation of Canada, Limited;
-- **(f)** Household Financial Corporation Limited;
-- **(g)** Household Finance Corporation of Canada;
-- **(h)** Household Realty Corporation Limited;
-- **(i)** Merchant Retail Services Limited;
-- **(j)** Superior Acceptance Corporation Limited;
-- **(k)** Superior Credit Corporation Limited;
-- **(l)** Crédit Industriel Desjardins;
-- **(m)** Beneficial Canada Inc.;
-- **(n)** Beneficial Realty Ltd.;
-- **(o)** RT Mortgage-Backed Securities Limited;
-- **(p)** RT Mortgage-Backed Securities II Limited;
-- **(q)** T. Eaton Acceptance Co. Limited;
-- **(r)** National Retail Credit Services Limited;
-- **(s)** Ford Credit Canada Limited;
-- **(t)** Principal Fund Incorporated;
-- **(u)** Farm Credit Canada;
-- **(v)** Canadian Cooperative Agricultural Financial Services;
-- **(w)** CU Credit Inc.;
-- **(x)** Household Commercial Canada Inc.;
-- **(y)** Canadian Home Income Plan Corporation;
-- **(z)** Hudson’s Bay Company Acceptance Limited;
-- **(z.1)** Bombardier Capital Ltd.;
-- **(z.2)** Trans Canada Credit Corporation;
-- **(z.3)** Norwest Financial Canada, Inc.;
-- **(z.4)** Norwest Financial Capital Canada, Inc.;
-- **(z.5)** GE Capital Canada Limited; and
-- **(z.6)** GE Capital Canada Retailer Financial Services Company.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, s. 79(F); SOR/98-571, s. 1; 2001, c. 22, s. 22.
+**8604** [Repealed, 2013, c. 34, s. 411]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, s. 79(F); SOR/98-571, s. 1; 2001, c. 22, s. 22; 2013, c. 34, s. 411.
 
 
 
@@ -18105,12 +18400,8 @@ exceeds
 
 
 
-
-### Partnership
-
-
-**8901** For the purpose of paragraph 249.1(1)(b) of the Act, Gaz Métropolitain and Company, Limited Partnership is a prescribed partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2003-83, s. 2.
+**8901** [Repealed, 2013, c. 34, s. 412]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2003-83, s. 2; 2013, c. 34, s. 412.
 
 
 
@@ -20993,7 +21284,7 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-**(iii)** after March 18, 2007 and before 2014 if the property is machinery, or equipment,
+**(iii)** after March 18, 2007 and before 2016 if the property is machinery, or equipment,
 
 **(A)** that would be described in paragraph (a) if subparagraph (a)(ii) were read without reference to “in Canadian field processing carried on by the lessee or,”, and
 
@@ -21006,7 +21297,7 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8; 2011, c. 24, s. 100..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8; 2011, c. 24, s. 100; 2013, c. 33, s. 40..
 
 
 
@@ -21657,7 +21948,7 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F). .
 
 
 
