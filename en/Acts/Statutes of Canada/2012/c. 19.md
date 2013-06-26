@@ -3100,9 +3100,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Transfer of records**
 
-**495** The President must transfer to the Department of Foreign Affairs and International Trade the following items, including any electronic versions of them:
+**495** The President must transfer to the Department of Foreign Affairs, Trade and Development the following items, including any electronic versions of them:
 - **(a)** the books of account and other financial records, as well as any information that the Centre collected in order to produce them; and
 - **(b)** any studies that the Centre has under its control, and any other information that it has collected through research.
+> 2012, c. 19, s. 495; 2013, c. 33, s. 195.
+
 
 
 
