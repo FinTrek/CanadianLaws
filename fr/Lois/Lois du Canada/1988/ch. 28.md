@@ -4310,11 +4310,11 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **216** 
 
-- **(1)** Sont institués et recouvrés, sous le régime de la présente partie et conformément au paragraphe (3), sur le revenu imposable gagné dans une année d’imposition par les personnes morales, dans la zone extracôtière, les montants — impôts, taxes, intérêts, amendes et autres — qui le seraient sous le régime de la loi sur l’impôt direct si cette zone était située dans la province.
+- **(1)** Sont institués et recouvrés, sous le régime de la présente partie et conformément au paragraphe (3), sur le capital imposable des personnes morales, et sur le revenu imposable gagné par elles, dans une année d’imposition, dans la zone extracôtière, les montants — impôts, taxes, intérêts, amendes et autres — qui le seraient sous le régime de la loi sur l’impôt direct si cette zone était située dans la province.
 
 **Exception**
 
-- **(2)** Aucun impôt n’est institué sous le régime du paragraphe (1) sur le revenu imposable, gagné au cours d’une année d’imposition dans la province, sous celui de la loi sur l’impôt direct.
+- **(2)** Aucun impôt n’est institué sous le régime du paragraphe (1) sur le capital imposable, ou sur le revenu imposable gagné, au cours d’une année d’imposition dans la province, sous celui de la loi sur l’impôt direct.
 
 **Application de la législation néo-écossaise**
 
@@ -4322,7 +4322,9 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Détermination du revenu**
 
-- **(4)** Pour l’application du présent article, le revenu imposable gagné dans une année d’imposition par une personne morale, dans la zone extracôtière ou dans la province, est déterminé pour l’application de l’alinéa 124(4) a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) conformément au règlement d’application de la même loi.
+- **(4)** Pour l’application du présent article, le revenu imposable gagné dans une année d’imposition par une personne morale, dans la zone extracôtière ou dans la province, est déterminé conformément à la partie IV du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) comme si la zone extracôtière était une province et comme si la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquait compte non tenu de la définition de ***province*** au paragraphe 124(4) de cette loi, et le capital imposable s’entend du capital imposable utilisé au Canada, déterminé conformément à la partie I.3 de la même loi.
+> 1988, ch. 28, art. 216; 2013, ch. 34, art. 369.
+
 
 
 
