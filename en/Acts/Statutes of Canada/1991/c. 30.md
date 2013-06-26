@@ -596,7 +596,7 @@ Department of Finance<br />- <i>Ministère des Finances</i>
 
 Department of Fisheries and Oceans<br />- <i>Ministère des Pêches et des Océans</i>
 
-Department of Foreign Affairs and International Trade<br />- <i>Ministère des Affaires étrangères et du Commerce international</i>
+Department of Foreign Affairs, Trade and Development<br />- <i>Ministère des Affaires étrangères, du Commerce et du Développement</i>
 
 Department of Health<br />- <i>Ministère de la Santé</i>
 
@@ -648,8 +648,6 @@ Canadian Human Rights Commission<br />- <i>Commission canadienne des droits de l
 Canadian Human Rights Tribunal<br />- <i>Tribunal canadien des droits de la personne</i>
 
 Canadian Intergovernmental Conference Secretariat<br />- <i>Secrétariat des conférences intergouvernementales canadiennes</i>
-
-Canadian International Development Agency<br />- <i>Agence canadienne de développement international</i>
 
 Canadian International Trade Tribunal<br />- <i>Tribunal canadien du commerce extérieur</i>
 
@@ -784,7 +782,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64; 2012, c. 1, s. 160, c. 19, ss. 279, 280, 592, 693, c. 31, s. 295; 2013, c. 33, ss. 188 to 190.
 
 
 
