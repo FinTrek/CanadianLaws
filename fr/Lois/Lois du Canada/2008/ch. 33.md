@@ -269,8 +269,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### **ANNEXE** 
 **(paragraphe 11(1))**
 
-Agence canadienne de développement international<br />- <i>Canadian International Development Agency</i>
-
 Agence de développement économique du Canada pour les régions du Québec<br />- <i>Economic Development Agency of Canada for the Regions of Quebec</i>
 
 Agence de la santé publique du Canada<br />- <i>Public Health Agency of Canada</i>
@@ -282,4 +280,6 @@ Agence des services frontaliers du Canada<br />- <i>Canada Border Services Agenc
 Agence du revenu du Canada<br />- <i>Canada Revenue Agency</i>
 
 Agence Parcs Canada<br />- <i>Parks Canada Agency</i>
+> 2008, ch. 33, ann.; 2013, ch. 33, art. 194.
+
 
