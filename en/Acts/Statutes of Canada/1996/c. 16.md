@@ -276,10 +276,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Services to governments and other bodies**
 
-**16** The Minister may do any thing for or on behalf of
+**16** If the Minister is authorized to do a thing under this or any other Act of Parliament for or on behalf of any department, board or agency of the Government of Canada, the Minister may do that thing for or on behalf of
 - **(a)** any department, board or agency of the Government of Canada or Crown corporation, or
-- **(b)** with the approval of the Governor in Council, any government, body or person in Canada or elsewhere that requests the Minister to do that thing,
-where the Minister is authorized to do that thing under this or any other Act of Parliament for or on behalf of any department, board or agency of the Government of Canada.
+- **(b)** with the Governor in Council’s approval — given on a general or a specific basis — any government, body or person in Canada or elsewhere.
+> 1996, c. 16, s. 16; 2013, c. 33, s. 227.
+
 
 
 
