@@ -254,18 +254,18 @@ Assented to on 12 March 2009
 
 **17** 
 
-- **(1)** The Transition Office is dissolved three years after the day on which section 3 comes into force.
+- **(1)** The Governor in Council may, by order, on the recommendation of the Minister, dissolve the Transition Office.
 
-**Change in date of dissolution**
+**Publication of order**
 
-- **(2)** Despite subsection (1), the Governor in Council may, by order and on the recommendation of the Minister, set a different date of dissolution, and that date is to be no later than four years after the day on which section 3 comes into force. The order shall be published in the Canada Gazette at least three months before the date of dissolution referred to in the order or if it is earlier, the date determined under subsection (1).
+- **(2)** The order shall be published in the Canada Gazette before the date of dissolution referred to in the order.
 
-**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
-
-- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (2).
+- **(3)** [Repealed, 2013, c. 33, s. 133]
 
 **Assets transferred**
 
 - **(4)** On the Transition Office’s dissolution, any of its property that remains after the payment of its debts and liabilities, or after the making of adequate provision for the payment of its debts and liabilities, shall be transferred to Her Majesty in right of Canada or to any body that the Governor in Council may specify.
+> 2009, c. 2, s. 297 “17”; 2013, c. 33, s. 133.
+
 
 
