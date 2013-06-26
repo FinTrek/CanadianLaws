@@ -867,8 +867,8 @@ Suisse
 
 **Cessation d’effet**
 
-**36** Les articles 33 à 35 cessent d’avoir effet le 30 juin 2014, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
-> 1997, ch. 36, art. 36; 2004, ch. 13, art. 1.
+**36** Les articles 33 à 35 cessent d’avoir effet le 31 décembre 2024, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
+> 1997, ch. 36, art. 36; 2004, ch. 13, art. 1; 2013, ch. 33, art. 62.
 
 
 
@@ -932,8 +932,8 @@ Suisse
 
 **Cessation d’effet**
 
-**40** Les articles 37 à 39 cessent d’avoir effet le 30 juin 2014, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
-> 1997, ch. 36, art. 40; 2004, ch. 13, art. 2.
+**40** Les articles 37 à 39 cessent d’avoir effet le 31 décembre 2024, ou à la date antérieure que le gouverneur en conseil peut fixer par décret.
+> 1997, ch. 36, art. 40; 2004, ch. 13, art. 2; 2013, ch. 33, art. 63.
 
 
 
