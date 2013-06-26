@@ -433,7 +433,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **21** 
 
-- **(1)** Pour réaliser sa mission, la Commission peut :
+- **(1)** Pour réaliser sa mission, la Commission peut :
 	- **a)** conclure des accords, notamment en matière de formation, avec une personne, un ministère ou organisme du gouvernement du Canada ou d’une province, un organisme de réglementation ou un ministère d’un gouvernement étranger, ou une organisation internationale;
 	- **b)** créer et gérer des programmes pour lui permettre d’obtenir des conseils et des renseignements, spécialement dans les domaines scientifiques et techniques;
 	- **b.1)** créer et gérer un programme d’aide financière visant à faciliter la participation du public aux procédures prévues par la présente loi;
@@ -449,7 +449,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remboursement**
 
 - **(2)** Dans les cas réglementaires, la Commission peut rembourser la totalité ou une partie des droits visés à l’alinéa (1)g).
-> 1997, ch. 9, art. 21; 2001, ch. 34, art. 58; 2010, ch. 12, art. 2150.
+
+**Utilisation**
+
+- **(3)** La Commission peut dépenser à ses fins les revenus provenant des droits exigés pour une licence ou un permis — ou une catégorie de licences ou de permis — en vertu de l’article 24 au cours de l’exercice où les revenus sont perçus ou du suivant.
+> 1997, ch. 9, art. 21; 2001, ch. 34, art. 58; 2010, ch. 12, art. 2150; 2013, ch. 33, art. 173.
 
 
 
