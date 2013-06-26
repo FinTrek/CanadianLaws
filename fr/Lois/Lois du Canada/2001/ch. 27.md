@@ -923,15 +923,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu des instructions**
 
-- **(1.4)** Les instructions établissent ce qui constitue l’intérêt public et visent à protéger l’étranger qui risque de subir un traitement dégradant ou attentatoire à la dignité humaine, notamment d’être exploité sexuellement.
+- **(1.4)** Les instructions visées au paragraphe (1.2) établissent ce qui constitue l’intérêt public et visent à protéger l’étranger qui risque de subir un traitement dégradant ou attentatoire à la dignité humaine, notamment d’être exploité sexuellement.
+
+**Révocation d’un permis de travail**
+
+- **(1.41)** L’agent peut révoquer un permis de travail s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre, le justifie.
+
+**Précision**
+
+- **(1.42)** Il est entendu que le paragraphe (1.41) est sans effet sur tout autre pouvoir légitime permettant de révoquer un permis de travail.
+
+**Révocation ou suspension d’un avis**
+
+- **(1.43)** Le ministère des Ressources humaines et du Développement des compétences peut, s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre des Ressources humaines et du Développement des compétences, le justifie :
+	- **a)** révoquer un avis qu’il a fourni relativement à une demande de permis de travail;
+	- **b)** suspendre les effets d’un tel avis;
+	- **c)** refuser de traiter une demande pour un tel avis.
+
+**Précision**
+
+- **(1.44)** Il est entendu que le paragraphe (1.43) est sans effet sur tout autre pouvoir légitime permettant de révoquer un avis visé à ce paragraphe.
 
 **Publication**
 
-- **(1.5)** Les instructions sont publiées dans la Gazette du Canada.
+- **(1.5)** Les instructions données au titre du présent article sont publiées dans la Gazette du Canada.
 
 **Prise d’effet**
 
-- **(1.6)** Les instructions prennent effet à la date de leur publication ou à la date ultérieure qui y est précisée et elles s’appliquent à toute demande d’autorisation d’exercer un emploi au Canada, y compris celle qui a été présentée avant cette date et à l’égard de laquelle une décision finale n’a pas encore été rendue.
+- **(1.6)** Les instructions prennent effet à la date de leur publication ou à la date ultérieure qui y est précisée et elles s’appliquent à toute demande d’autorisation d’exercer un emploi au Canada et à toute demande de fournir un avis relativement à une demande de permis de travail, y compris celle qui a été présentée avant cette date et à l’égard de laquelle une décision finale n’a pas encore été rendue.
 
 **Cessation d’effet**
 
@@ -940,7 +959,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enfant mineur**
 
 - **(2)** L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
-> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206.
+> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206; 2013, ch. 33, art. 161.
 
 
 
@@ -2265,12 +2284,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
+- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’un avis fourni par le ministère des Ressources humaines et du Développement des compétences relativement à une demande de permis de travail.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
 - **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande visée au paragraphe 11(1.01).
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
 - **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
-> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313.
+> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162.
+
+
+
+
+
+**Facturation des droits et avantages**
+
+**89.1** 
+
+- **(1)** Les règlements peuvent :
+	- **a)** prévoir les frais à payer pour les droits ou avantages octroyés par un permis de travail;
+	- **b)** prévoir que l’obligation de payer les frais visés à l’alinéa a) est levée à l’égard de certains permis de travail ou de certaines catégories de permis de travail.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
+> 2013, ch. 33, art. 163.
 
 
 
@@ -2373,7 +2413,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incorporation de documents — instructions**
 
-- **(1.1)** Les instructions du ministre peuvent incorporer par renvoi tout document, indépendamment de sa source.
+- **(1.1)** Les instructions du ministre ou du ministre des Ressources humaines et du Développement des compétences données au titre de la présente loi peuvent incorporer par renvoi tout document, indépendamment de sa source.
 
 **Portée de l’incorporation**
 
@@ -2382,15 +2422,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature du document**
 
 - **(3)** L’incorporation ne confère pas au document valeur de règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708.
+> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708; 2013, ch. 33, art. 164.
 
 
 
 
 
-**Caractère non réglementaire**
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**93** Les instructions du ministre et les directives données par le président en vertu de l’alinéa 159(1)h) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+**93** Les instructions du ministre ou du ministre des Ressources humaines et du Développement des compétences données au titre de la présente loi et les directives données par le président en vertu de l’alinéa 159(1)h) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2001, ch. 27, art. 93; 2013, ch. 33, art. 165.
+
 
 
 
@@ -2414,9 +2456,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** pour chaque province partie à un accord visé au paragraphe 9(1), les nombres, par catégorie, de ces étrangers devenus résidents permanents, d’une part, et, d’autre part, qu’elle prévoit qu’ils y deviendront résidents permanents l’année suivante;
 	- **d)** le nombre de permis de séjour temporaire délivrés au titre de l’article 24 et, le cas échéant, les faits emportant interdiction de territoire;
 	- **e)** le nombre d’étrangers à qui le statut de résident permanent a été octroyé au titre de chacun des paragraphes 25(1), 25.1(1) et 25.2(1);
-	- **e.1)** les instructions données au titre du paragraphe 30(1.2) au cours de l’année en cause ainsi que la date de leur publication;
+	- **e.1)** les instructions données au titre des paragraphes 30(1.2), (1.41) ou (1.43) au cours de l’année en cause ainsi que la date de leur publication;
 	- **f)** une analyse comparative entre les sexes des répercussions de la présente loi.
-> 2001, ch. 27, art. 94; 2008, ch. 28, art. 119; 2010, ch. 8, art. 9; 2012, ch. 1, art. 207.
+> 2001, ch. 27, art. 94; 2008, ch. 28, art. 119; 2010, ch. 8, art. 9; 2012, ch. 1, art. 207; 2013, ch. 33, art. 166.
 
 
 
