@@ -275,11 +275,11 @@ Canada Border Services Agency<br />- <i>Agence des services frontaliers du Canad
 
 Canada Revenue Agency<br />- <i>Agence du revenu du Canada</i>
 
-Canadian International Development Agency<br />- <i>Agence canadienne de développement international</i>
-
 Economic Development Agency of Canada for the Regions of Quebec<br />- <i>Agence de développement économique du Canada pour les régions du Québec</i>
 
 Parks Canada Agency<br />- <i>Agence Parcs Canada</i>
 
 Public Health Agency of Canada<br />- <i>Agence de la santé publique du Canada</i>
+> 2008, c. 33, Sch.; 2013, c. 33, s. 194.
+
 
