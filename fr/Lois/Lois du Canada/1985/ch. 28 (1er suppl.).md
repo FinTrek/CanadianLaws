@@ -44,54 +44,59 @@
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***actifs*** Tous biens corporels ou incorporels, indépendamment de leur valeur.
+***actifs*** Tous biens corporels ou incorporels, indépendamment de leur valeur. (*assets*)
 
-***action avec droit de vote*** Action du capital social d’une personne morale qui permet normalement de voter aux assemblées des actionnaires et normalement de recevoir une partie des profits et, en cas de liquidation, une partie des actifs de la personne morale ou seulement l’une de celles-ci.
+***action avec droit de vote*** Action du capital social d’une personne morale qui permet normalement de voter aux assemblées des actionnaires et normalement de recevoir une partie des profits et, en cas de liquidation, une partie des actifs de la personne morale ou seulement l’une de celles-ci. (*voting share*)
 
 ***agence***[Abrogée, 1995, ch. 1, art. 45]
 
-***Canada*** Font notamment partie du territoire du Canada la zone économique exclusive et le plateau continental de celui-ci.
+***Canada*** Font notamment partie du territoire du Canada la zone économique exclusive et le plateau continental de celui-ci. (*Canada*)
 
 ***Canadien***
 - **a)** Un citoyen canadien;
 - **b)** un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui a résidé habituellement au Canada pendant une période maximale de un an à compter de la date où il est devenu pour la première fois admissible à demander la citoyenneté canadienne;
 - **c)** un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes;
-- **d)** une unité qui est sous contrôle canadien aux termes des paragraphes 26(1) ou (2) et qui n’a pas fait l’objet d’une décision au titre des paragraphes 26(2.1) ou (2.11) ou d’une déclaration au titre du paragraphe 26(2.2).
+- **d)** une unité qui est sous contrôle canadien aux termes des paragraphes 26(1) ou (2) et qui n’a pas fait l’objet d’une décision au titre des paragraphes 26(2.1), (2.11) ou (2.31) ou d’une déclaration au titre des paragraphes 26(2.2) ou (2.32). (*Canadian*)
 
-***coentreprise*** Association de plusieurs personnes ou unités dans le cas où leurs rapports ne constituent pas, en vertu des lois canadiennes, une personne morale, une société de personnes ou une fiducie et si, dans le cas d’un investissement visé par la présente loi, les droits de participation indivise à la propriété des actifs de l’entreprise canadienne ou des intérêts avec droit de vote de l’unité visée par l’investissement appartiennent ou appartiendront à celles-ci.
+***coentreprise*** Association de plusieurs personnes ou unités dans le cas où leurs rapports ne constituent pas, en vertu des lois canadiennes, une personne morale, une société de personnes ou une fiducie et si, dans le cas d’un investissement visé par la présente loi, les droits de participation indivise à la propriété des actifs de l’entreprise canadienne ou des intérêts avec droit de vote de l’unité visée par l’investissement appartiennent ou appartiendront à celles-ci. (*joint venture*)
 
-***directeur*** Le directeur des investissements nommé en vertu de l’article 6.
+***directeur*** Le directeur des investissements nommé en vertu de l’article 6. (*Director*)
 
-***entreprise*** Toute entreprise ou activité capable de générer un revenu et exploitée dans le but de réaliser un profit.
+***entreprise*** Toute entreprise ou activité capable de générer un revenu et exploitée dans le but de réaliser un profit. (*business*)
 
-***entreprise canadienne*** Entreprise exploitée au Canada qui remplit les conditions suivantes :
+***entreprise canadienne*** Entreprise exploitée au Canada qui remplit les conditions suivantes :
 - **a)** posséder un établissement au Canada;
 - **b)** employer au Canada au moins un individu travaillant à son compte ou contre rémunération dans le cadre de son exploitation;
-- **c)** disposer d’actifs au Canada pour son exploitation.
+- **c)** disposer d’actifs au Canada pour son exploitation. (*Canadian business*)
 
-***groupement de votants*** Personnes qui, notamment par contrat, entente commerciale, rapports personnels ou contrôle commun en fait par la propriété d’intérêts avec droit de vote ou autrement, se sont associées de façon telle que l’on peut prévoir qu’elles exerceront ensemble de façon continue les droits attachés aux intérêts avec droit de vote qu’elles détiennent.
+***entreprise d’État*** Selon le cas :
+- **a)** le gouvernement d’un État étranger ou celui d’un de ses États ou d’une de ses administrations locales, ou tout organisme d’un tel gouvernement;
+- **b)** une unité contrôlée ou influencée, directement ou indirectement, par un gouvernement ou un organisme visés à l’alinéa a);
+- **c)** un individu qui agit sous l’autorité d’un gouvernement ou d’un organisme visés à l’alinéa a) ou sous leur influence, directe ou indirecte. (*state-owned enterprise*)
+
+***groupement de votants*** Personnes qui, notamment par contrat, entente commerciale, rapports personnels ou contrôle commun en fait par la propriété d’intérêts avec droit de vote ou autrement, se sont associées de façon telle que l’on peut prévoir qu’elles exerceront ensemble de façon continue les droits attachés aux intérêts avec droit de vote qu’elles détiennent. (*voting group*)
 
 ***intérêt avec droit de vote***
 - **a)** Action avec droit de vote d’une personne morale avec capital social;
 - **b)** droit de propriété des actifs d’une personne morale sans capital social qui accorde à son propriétaire des droits semblables à ceux du propriétaire d’une action avec droit de vote;
-- **c)** droit de propriété des actifs d’une société de personnes, d’une fiducie ou d’une coentreprise qui permet à son propriétaire de recevoir une partie des profits et, en cas de liquidation, une partie des actifs.
+- **c)** droit de propriété des actifs d’une société de personnes, d’une fiducie ou d’une coentreprise qui permet à son propriétaire de recevoir une partie des profits et, en cas de liquidation, une partie des actifs. (*voting interest*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***non-Canadien*** L’individu, le gouvernement ou l’organisme de celui-ci ainsi que l’unité qui n’est pas un Canadien.
+***non-Canadien*** L’individu, le gouvernement ou l’organisme de celui-ci ainsi que l’unité qui n’est pas un Canadien. (*non-Canadian*)
 
-***nouvelle entreprise canadienne*** Entreprise qu’un non-Canadien n’exploitait pas déjà au Canada et qui, lors de sa constitution, selon le cas :
+***nouvelle entreprise canadienne*** Entreprise qu’un non-Canadien n’exploitait pas déjà au Canada et qui, lors de sa constitution, selon le cas :
 - **a)** n’est pas liée aux activités d’une autre entreprise que ce non-Canadien exploite au Canada;
-- **b)** est liée aux activités d’une autre entreprise que ce non-Canadien exploite au Canada mais qui fait partie d’un type précis d’activité commerciale, désigné par règlement, et qui, de l’avis du gouverneur en conseil, est lié au patrimoine culturel du Canada ou à l’identité nationale.
+- **b)** est liée aux activités d’une autre entreprise que ce non-Canadien exploite au Canada mais qui fait partie d’un type précis d’activité commerciale, désigné par règlement, et qui, de l’avis du gouverneur en conseil, est lié au patrimoine culturel du Canada ou à l’identité nationale. (*new Canadian business*)
 
-***personne*** Un individu, un gouvernement ou un organisme de celui-ci ainsi qu’une personne morale.
+***personne*** Un individu, un gouvernement ou un organisme de celui-ci ainsi qu’une personne morale. (*person*)
 
-***personne morale*** Personne morale avec ou sans capital social.
+***personne morale*** Personne morale avec ou sans capital social. (*corporation*)
 
-***propriétaire*** Le véritable propriétaire.
+***propriétaire*** Le véritable propriétaire. (*own*)
 
-***unité*** Personne morale, société de personnes, fiducie ou coentreprise.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 3; 1993, ch. 35, art. 1; 1995, ch. 1, art. 45; 1996, ch. 31, art. 88; 2001, ch. 27, art. 259; 2009, ch. 2, art. 446.
+***unité*** Personne morale, société de personnes, fiducie ou coentreprise. (*entity*)
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 3; 1993, ch. 35, art. 1; 1995, ch. 1, art. 45; 1996, ch. 31, art. 88; 2001, ch. 27, art. 259; 2009, ch. 2, art. 446; 2013, ch. 33, art. 136.
 
 
 
@@ -779,17 +784,17 @@
 
 **26** 
 
-- **(1)** Sous réserve des paragraphes (2.1) à (2.2) et pour l’application de la présente loi :
+- **(1)** Sous réserve des paragraphes (2.1) à (2.2), (2.31) et (2.32) et pour l’application de la présente loi :
 	- **a)** une unité est sous contrôle canadien si un Canadien ou plusieurs membres d’un groupement de votants qui sont canadiens sont propriétaires de la majorité de ses intérêts avec droit de vote;
 	- **b)** si l’alinéa a) ne s’applique pas, une unité n’est pas sous contrôle canadien si un non-Canadien ou plusieurs membres d’un groupe- ment de votants qui sont non canadiens sont propriétaires de la majorité de ses intérêts avec droit de vote;
 	- **c)** si les alinéas a) et b) ne s’appliquent pas et si la majorité des intérêts avec droit de vote de l’unité appartient à des Canadiens, celle-ci est sous contrôle canadien s’il peut être démontré qu’elle n’est pas contrôlée en fait par un non-Canadien par la propriété de ses intérêts avec droit de vote ou par un groupement de votants dont les membres non canadiens possèdent la moitié ou plus de ses intérêts avec droit de vote possédés par le groupement;
-	- **d)** si les alinéas a) à c) ne s’appliquent pas et que des Canadiens détiennent moins que la majorité des intérêts avec droit de vote de l’unité, elle est réputée ne pas être sous contrôle canadien sauf s’il peut être démontré que, selon le cas :
+	- **d)** si les alinéas a) à c) ne s’appliquent pas et que des Canadiens détiennent moins que la majorité des intérêts avec droit de vote de l’unité, elle est réputée ne pas être sous contrôle canadien sauf s’il peut être démontré que, selon le cas :
 		- **(i)** elle est contrôlée en fait par un Canadien propriétaire de ses intérêts avec droit de vote ou par un groupement de votants dont les membres canadiens sont propriétaires de la majorité de ses intérêts avec droit de vote possédés par le groupement,
 		- **(ii)** s’agissant d’une personne morale ou d’une société en commandite, elle n’est pas contrôlée en fait par la propriété de ses intérêts avec droit de vote et que deux tiers de ses administrateurs ou, dans le cas d’une société en commandite, de ses associés gérants sont canadiens.
 
 **Fiducie**
 
-- **(2)** Sous réserve des paragraphes (2.1) à (2.2), le paragraphe (1) ne s’applique pas à une fiducie s’il peut être démontré qu’elle n’est pas contrôlée en fait par la propriété de ses intérêts avec droit de vote; la fiducie est sous contrôle canadien si deux tiers de ses fiduciaires sont des Canadiens.
+- **(2)** Sous réserve des paragraphes (2.1) à (2.2), (2.31) et (2.32), le paragraphe (1) ne s’applique pas à une fiducie s’il peut être démontré qu’elle n’est pas contrôlée en fait par la propriété de ses intérêts avec droit de vote; la fiducie est sous contrôle canadien si deux tiers de ses fiduciaires sont des Canadiens.
 
 **Décision du ministre**
 
@@ -805,15 +810,27 @@
 
 **Effet rétroactif**
 
-- **(2.3)** Le ministre peut fixer la date à laquelle la décision ou la déclaration est censée avoir pris effet; le cas échéant, cette date ne peut cependant être antérieure au 19 juin 1992 et est censée être celle de la décision ou de la déclaration.
+- **(2.3)** Le ministre peut fixer la date à laquelle la décision prise en vertu du paragraphe (2.1) ou la déclaration faite en vertu du paragraphe (2.2) est censée avoir pris effet; cette date ne peut cependant être antérieure au 19 juin 1992 et est censée être celle de la décision ou de la déclaration.
+
+**Décision du ministre — contrôle par une entreprise d’État**
+
+- **(2.31)** Le ministre peut, après examen des renseignements et des éléments de preuve qui soit lui sont fournis par ou pour une unité qui est sous contrôle canadien aux termes des paragraphes (1) ou (2), soit sont par ailleurs mis à sa disposition ou à celle du directeur, décider que l’unité n’est pas sous contrôle canadien s’il estime qu’elle est contrôlée en fait par une ou plusieurs entreprises d’État.
+
+**Déclaration du ministre**
+
+- **(2.32)** Le ministre peut aussi déclarer que l’unité visée au paragraphe (2.31) n’est pas sous contrôle canadien dans les cas où celle-ci omet de fournir, dans un délai raisonnable, les renseignements que lui-même ou le directeur demande et qu’il juge nécessaires à la prise de sa décision.
+
+**Effet rétroactif**
+
+- **(2.33)** Le ministre peut fixer la date à laquelle la décision prise en vertu du paragraphe (2.31) ou la déclaration faite en vertu du paragraphe (2.32) en ce qui a trait à une unité visée au paragraphe (2.31) est censée avoir pris effet; cette date ne peut cependant être antérieure au 29 avril 2013 et est censée être celle de la décision ou de la déclaration.
 
 **Notification**
 
-- **(2.4)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (2.3).
+- **(2.4)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision prise en vertu des paragraphes (2.1), (2.11) ou (2.31) ou sa déclaration faite en vertu des paragraphes (2.2) ou (2.32) ainsi que, le cas échéant, la date fixée au titre des paragraphes (2.3) ou (2.33).
 
 **Présomption**
 
-- **(3)** Aux fins des investissements visés au paragraphe 14(1), sauf s’il s’agit d’un investissement qui vise un type précis d’activité commerciale désigné par règlement et qui, de l’avis du gouverneur en conseil, est lié au patrimoine culturel du Canada ou à l’identité nationale, une personne morale constituée au Canada, dont les actions avec droit de vote sont librement négociables, est réputée canadienne et en est avisée par le ministre si, après avoir examiné les renseignements et les éléments de preuve présentés par la personne morale ou en son nom, il est d’avis que :
+- **(3)** Aux fins des investissements visés au paragraphe 14(1), sauf s’il s’agit d’un investissement qui vise un type précis d’activité commerciale désigné par règlement et qui, de l’avis du gouverneur en conseil, est lié au patrimoine culturel du Canada ou à l’identité nationale, une personne morale constituée au Canada, dont les actions avec droit de vote sont librement négociables, est réputée canadienne et en est avisée par le ministre si, après avoir examiné les renseignements et les éléments de preuve présentés par la personne morale ou en son nom, il est d’avis que :
 	- **a)** la majorité de ses actions avec droit de vote sont la propriété de Canadiens;
 	- **b)** les quatre cinquièmes des membres de son conseil d’administration sont des citoyens canadiens qui résident normalement au Canada;
 	- **c)** le premier dirigeant et trois des quatre autres dirigeants les mieux rémunérés sont des citoyens canadiens qui résident normalement au Canada;
@@ -836,7 +853,7 @@
 **Participation égale**
 
 - **(6)** Si deux personnes possèdent à part égale toutes les actions avec droit de vote d’une personne morale et qu’au moins une d’elles est non canadienne, la personne morale n’est pas sous contrôle canadien.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 26; 1993, ch. 35, art. 4; 1995, ch. 1, art. 50; 2009, ch. 2, art. 454.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 26; 1993, ch. 35, art. 4; 1995, ch. 1, art. 50; 2009, ch. 2, art. 454; 2013, ch. 33, art. 143.
 
 
 
@@ -863,29 +880,29 @@
 
 **28** 
 
-- **(1)** Pour l’application de la présente loi, un non-Canadien ne peut acquérir le contrôle d’une entreprise canadienne que de l’une des manières suivantes :
+- **(1)** Pour l’application de la présente loi, un non-Canadien ne peut acquérir le contrôle d’une entreprise canadienne que de l’une des manières suivantes :
 	- **a)** l’acquisition d’actions avec droit de vote d’une personne morale constituée au Canada qui exploite l’entreprise canadienne;
-	- **b)** s’il n’y a pas d’acquisition de contrôle d’une personne morale, l’acquisition d’intérêts avec droit de vote d’une unité qui, selon le cas :
+	- **b)** s’il n’y a pas d’acquisition de contrôle d’une personne morale, l’acquisition d’intérêts avec droit de vote d’une unité qui, selon le cas :
 		- **(i)** exploite l’entreprise canadienne,
 		- **(ii)** contrôle directement ou indirectement une autre unité qui exploite l’entreprise canadienne;
 	- **c)** l’acquisition de la totalité ou de la quasi-totalité des actifs d’exploitation de l’entreprise canadienne;
-	- **d)** l’acquisition d’intérêts avec droit de vote d’une unité qui contrôle directement ou indirectement une autre unité au Canada qui exploite l’entreprise canadienne si, selon le cas :
+	- **d)** l’acquisition d’intérêts avec droit de vote d’une unité qui contrôle directement ou indirectement une autre unité au Canada qui exploite l’entreprise canadienne si, selon le cas :
 		- **(i)** il n’y a pas d’acquisition du contrôle, directement ou indirectement, d’une personne morale constituée ailleurs qu’au Canada qui contrôle, directement ou indirectement, une unité au Canada qui exploite l’entreprise canadienne,
 		- **(ii)** il y a acquisition de contrôle au sens du sous-alinéa (i).
 
 **Règles et présomptions à l’égard du contrôle d’une unité**
 
-- **(2)** Sous réserve des paragraphes (4) à (5) et pour l’application de la présente loi :
+- **(2)** Sous réserve des paragraphes (4) à (5), (6.1) et (6.2) et pour l’application de la présente loi :
 	- **a)** l’unité qui en contrôle une autre est réputée contrôler indirectement celles que la seconde contrôle directement ou indirectement;
-	- **b)** une unité en contrôle une autre directement si, selon le cas :
+	- **b)** une unité en contrôle une autre directement si, selon le cas :
 		- **(i)** l’unité exerçant le contrôle est propriétaire de la majorité des intérêts avec droit de vote de l’autre unité,
 		- **(ii)** l’unité exerçant le contrôle l’exerce en fait sur une unité qui est une personne morale par la propriété du tiers ou de plus du tiers de ses actions avec droit de vote mais sans être propriétaire de la majorité de celles-ci;
 	- **c)** les unités qui sont contrôlées par une même unité, directement ou indirectement, sont réputées être liées l’une à l’autre, à toute autre unité qu’une ou que plusieurs d’entre elles contrôlent et à toutes les unités qui les contrôlent;
 	- **d)** les unités présumées liées entre elles au titre de l’alinéa c) qui sont propriétaires d’intérêts avec droit de vote d’une autre unité peuvent être considérées comme une seule unité dans le cadre de la détermination du contrôle direct ou indirect de l’unité dont elles ont la propriété d’intérêts avec droit de vote.
 
-**Présomptions à l’égard de l’acquisition du contrôle**
+**Présomption à l’égard de l’acquisition du contrôle**
 
-- **(3)** Sous réserve des paragraphes (4) à (5) et pour l’application de la présente loi :
+- **(3)** Sous réserve des paragraphes (4) à (5), (6.1) et (6.2) et pour l’application de la présente loi :
 	- **a)** l’acquisition de la majorité des intérêts avec droit de vote d’une unité ou de la majorité des droits de participation indivise à la propriété des actions avec droit de vote d’une unité qui est une personne morale est réputée constituer l’acquisition du contrôle de cette unité;
 	- **b)** l’acquisition de moins que la majorité des intérêts avec droit de vote d’une unité qui n’est pas une personne morale est réputée ne pas constituer l’acquisition du contrôle de cette unité;
 	- **c)** l’acquisition de moins que la majorité mais du tiers ou de plus du tiers des actions avec droit de vote d’une personne morale ou de droits équivalents de participation indivise à la propriété de telles actions est réputée être l’acquisition du contrôle de cette personne morale sauf s’il peut être démontré que, lors de l’acquisition, la personne morale n’est pas contrôlée en fait par l’acquéreur, par la propriété d’actions avec droit de vote;
@@ -905,12 +922,24 @@
 
 **Effet rétroactif**
 
-- **(6)** Le ministre peut fixer la date à laquelle la décision ou la déclaration est censée avoir pris effet; le cas échéant, cette date ne peut cependant être antérieure au 19 juin 1992 et est censée être celle de la décision ou de la déclaration.
+- **(6)** Le ministre peut fixer la date à laquelle la décision prise en vertu du paragraphe (4) ou la déclaration faite en vertu du paragraphe (5) est censée avoir pris effet; cette date ne peut cependant être antérieure au 19 juin 1992 et est censée être celle de la décision ou de la déclaration.
+
+**Décision du ministre — contrôle ou acquisition du contrôle par une entreprise d’État**
+
+- **(6.1)** Le ministre peut, après examen des renseignements et des éléments de preuve mis à sa disposition ou à celle du directeur, décider qu’une unité est contrôlée ou non par une autre ou que son contrôle a été acquis ou non, s’il estime, selon le cas, qu’elle est contrôlée ou non en fait par une entreprise d’État ou que son contrôle a été acquis ou non dans les faits par une telle entreprise.
+
+**Déclaration du ministre — contrôle ou acquisition du contrôle par une entreprise d’État**
+
+- **(6.2)** Si une unité ou une entreprise d’État omet de fournir, dans un délai raisonnable, les renseignements que le ministre ou le directeur demande et que le ministre juge nécessaires à la prise de sa décision en vertu du paragraphe (6.1), le ministre peut déclarer, selon le cas, que l’unité est contrôlée ou non par une entreprise d’État ou que son contrôle a été acquis ou non par une telle entreprise.
+
+**Effet rétroactif**
+
+- **(6.3)** Le ministre peut fixer la date à laquelle la décision prise en vertu du paragraphe (6.1) ou la déclaration faite en vertu du paragraphe (6.2) est censée avoir pris effet; cette date ne peut cependant être antérieure au 29 avril 2013 et est censée être celle de la décision ou de la déclaration.
 
 **Notification**
 
-- **(7)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (6).
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 28; 1993, ch. 35, art. 5; 1995, ch. 1, art. 50; 2009, ch. 2, art. 455.
+- **(7)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision prise en vertu des paragraphes (4), (4.1) ou (6.1) ou sa déclaration faite en vertu des paragraphes (5) ou (6.2) ainsi que, le cas échéant, la date fixée au titre des paragraphes (6) ou (6.3).
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 28; 1993, ch. 35, art. 5; 1995, ch. 1, art. 50; 2009, ch. 2, art. 455; 2013, ch. 33, art. 144.
 
 
 
@@ -1099,7 +1128,7 @@
 
 **37** 
 
-- **(1)** Lorsque dans le cadre de la présente loi se pose la question de savoir si un individu ou une unité est un Canadien, le ministre prend en considération immédiatement la demande qui lui est faite par l’individu ou l’unité ou en leur nom et étudie les renseignements et les éléments de preuve qui lui sont présentés; sauf s’il en vient à la conclusion que ces renseignements et éléments de preuve ne sont pas suffisants pour lui permettre de se faire une opinion sur la question, il donne au demandeur une opinion écrite à titre d’information.
+- **(1)** Lorsque, dans le cadre de la présente loi, se pose la question de savoir si un individu ou une unité qui propose d’établir une entreprise canadienne exerçant un type précis d’activité commerciale visé à l’alinéa 15a) ou d’en acquérir le contrôle est un Canadien, le ministre prend en considération la demande qui lui est faite par l’individu ou l’unité ou en leur nom et étudie les renseignements et les éléments de preuve qui lui sont présentés; sauf s’il en vient à la conclusion que ces renseignements et éléments de preuve ne sont pas suffisants pour lui permettre de se faire une opinion sur la question, il donne au demandeur une opinion écrite à titre d’information.
 
 **Délai**
 
@@ -1107,7 +1136,7 @@
 
 **Autres opinions**
 
-- **(2)** Quiconque peut, en fournissant les renseignements nécessaires, demander au ministre de lui remettre une opinion sur l’applicabilité dans son cas d’une disposition de la présente loi ou des règlements, autre que celles que vise le paragraphe (1); le ministre peut remettre au demandeur une opinion écrite à titre d’information.
+- **(2)** Quiconque peut, en fournissant les renseignements nécessaires, demander au ministre de lui remettre une opinion sur l’applicabilité dans son cas d’une disposition de la présente loi ou des règlements autre que celles que vise le paragraphe (1); le ministre peut remettre au demandeur une opinion écrite à titre d’information. Il est entendu que la demande peut viser la question de savoir si, dans le cadre de la présente loi, le demandeur est un Canadien.
 
 **Délai**
 
@@ -1120,7 +1149,7 @@
 **Opinions autorisées**
 
 - **(4)** Le ministre peut autoriser le directeur ou une personne qu’il juge qualifiée à donner des opinions écrites sous le régime du présent article; dans ce cas, les opinions qu’ils donnent ont la même valeur que si elles avaient été données par le ministre sous le régime du présent article.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 37; 1988, ch. 65, art. 137; 1994, ch. 47, art. 135; 1995, ch. 1, art. 50; 2009, ch. 2, art. 458.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 37; 1988, ch. 65, art. 137; 1994, ch. 47, art. 135; 1995, ch. 1, art. 50; 2009, ch. 2, art. 458; 2013, ch. 33, art. 145.
 
 
 
