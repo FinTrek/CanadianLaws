@@ -345,7 +345,7 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 	- **b)** il prévoit que l’habitation sera utilisée comme son lieu principal de résidence au Canada ou celui de la personne handicapée dans l’année qui en suit l’acquisition;
 	- **c)** l’habitation n’a jamais été sa propriété, celle de la personne handicapée ou celle de leur époux ou conjoint de fait respectif;
 	- **d)** il réside au Canada;
-	- **e)** la somme du versement et des autres versements semblables reçus par lui au moment du versement, ou avant, relativement à l’habitation, n’excède pas 20 000 $;
+	- **e)** le total du versement et des autres versements semblables reçus par lui relativement à l’habitation au plus tard au moment du versement n’excède pas le plafond en dollars fixé à l’alinéa h) de la définition de ***montant admissible principal*** au paragraphe 146.01(1) de la Loi;
 	- **f)** il est l’acquéreur d’une habitation admissible au moment de l’attestation, sauf s’il atteste être une personne handicapée admissible au crédit d’impôt pour déficience mentale ou physique prévu au paragraphe 118.3(1) de la Loi ou qu’il atteste que le retrait a été effectué au bénéfice d’une telle personne handicapée;
 	- **g)** si, avant l’année civile de l’attestation, il a retiré un montant admissible, au sens du paragraphe 146.01(1) de la Loi, la somme des montants admissibles qu’il a reçus avant cette année civile ne doit pas excéder le total des montants désignés antérieurement en vertu du paragraphe 146.01(3) de la Loi ou inclus dans son revenu en vertu des paragraphes 146.01(4) ou (5) de la Loi.
 
@@ -359,7 +359,7 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 	- **a)** soit d’un logement;
 	- **b)** soit d’une action du capital-actions d’une coopérative d’habitation constituée en société qui confère au titulaire le droit de posséder un logement;
 	- **c)** soit, selon le contexte, du logement auquel l’action visée à l’alinéa b) se rapporte.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 3; DORS/78-754, art. 1; DORS/89-508, art. 4; DORS/92-176, art. 1; DORS/92-667, art. 3; DORS/93-81, art. 1; DORS/94-238, art. 4; DORS/94-246, art. 1; DORS/94-686, art. 49(F) et 79(F); DORS/97-470, art. 2; DORS/99-19, art. 1; DORS/2001-188, art. 1 et 14; DORS/2001-221, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 3; DORS/78-754, art. 1; DORS/89-508, art. 4; DORS/92-176, art. 1; DORS/92-667, art. 3; DORS/93-81, art. 1; DORS/94-238, art. 4; DORS/94-246, art. 1; DORS/94-686, art. 49(F) et 79(F); DORS/97-470, art. 2; DORS/99-19, art. 1; DORS/2001-188, art. 1 et 14; DORS/2001-221, art. 4; 2013, ch. 34, art. 376.
 
 
 
@@ -700,10 +700,12 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(6)** Une personne non-résidente qui est réputée, en vertu du paragraphe 212(13.2) de la Loi, être une personne résidant au Canada aux fins de la partie XIII de la Loi est réputée, dans les mêmes circonstances, être une personne résidant au Canada aux fins des paragraphes (1) et (2).
 
+- **(6.1)** La fiducie qui est réputée, en vertu du paragraphe 94(3) de la Loi, résider au Canada pour une année d’imposition en vue du calcul de son revenu est réputée, en ce qui concerne les sommes (sauf une somme exclue au sens du paragraphe 94(1) de la Loi) qui lui sont payées ou qui sont portées à son crédit, être une personne qui réside au Canada pour l’année pour l’application des paragraphes (1) et (2).
+
 - **(7)** Sous réserve du paragraphe (8), une déclaration de renseignements exigée en vertu du présent article doit être produite au plus tard le 31 mars et doit viser l’année civile précédente.
 
 - **(8)** Lorsqu’une somme mentionnée au paragraphe (1) ou (2) est un revenu d’une succession ou d’une fiducie ou en provenant, la déclaration de renseignements exigée à cet égard en vertu du présent article doit être produite dans les 90 jours suivant la fin de l’année d’imposition de la succession ou de la fiducie au cours de laquelle cette somme a été versée ou créditée, et doit viser cette année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2; 2013, ch. 34, art. 27.
 
 
 
@@ -1201,7 +1203,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 **229** 
 
-- **(1)** Chacun des associés d’une société de personnes qui, à un moment quelconque de son exercice, exploite une entreprise au Canada, est une société de personnes canadienne ou est une société de personnes intermédiaire de placement déterminée doit remplir pour cet exercice une déclaration de renseignements, sur le formulaire prescrit, contenant les renseignements suivants :
+- **(1)** Chacun des associés d’une société de personnes qui exploite une entreprise au Canada à un moment de son exercice, à l’exception d’un associé qui, par l’effet du paragraphe 115.2(2) de la Loi, n’est pas considéré comme exploitant une entreprise au Canada à ce moment, ou d’une société de personnes qui est, à un moment de son exercice, une société de personnes canadienne ou une société de personnes intermédiaire de placement déterminée, doit remplir pour cet exercice une déclaration de renseignements, sur le formulaire prescrit, contenant les renseignements suivants :
 	- **a)** le revenu ou la perte de la société de personnes pour l’exercice;
 	- **b)** le nom, l’adresse et, le cas échéant, le numéro d’assurance sociale de chaque associé qui a droit, pour l’exercice, à une part visée à l’alinéa c) ou d);
 	- **c)** la part du revenu ou de la perte de la société de personnes revenant à chaque associé pour l’exercice;
@@ -1225,7 +1227,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(6)** Dans le cas où la société de personnes cesse d’exploiter son entreprise ou d’exercer ses activités, la déclaration de renseignements visée au présent article doit être produite pour tout ou partie de l’exercice qui précède la cessation et pour lequel une telle déclaration n’a pas encore été produite, au plus tard le premier en date des jours suivants :
 	- **a)** le 90<sup>e</sup> jour suivant la date de cessation de l’entreprise ou des activités;
 	- **b)** la date limite de production visée au paragraphe (5).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30; 2013, ch. 34, art. 377.
 
 
 
@@ -1599,15 +1601,28 @@ sur
 			- **(A)** les versements prévus par le contrat sont des versements de rente égaux, effectués à des intervalles réguliers et au moins une fois par année, sous réserve du droit du détenteur de varier la fréquence et le montant de ces versements au cours d’une année d’imposition sans changer la valeur actuelle, au début de l’année, du total des versements à faire au cours de cette année en vertu du contrat,
 			- **(B)** les versements de rente sont payables soit pour une durée déterminée, soit :
 				- **(I)** s’il s’agit d’un particulier, à l’exception d’une fiducie, pour la durée de vie du premier détenteur ou jusqu’à la date de son décès ou, si elle est postérieure, la date du décès de son époux ou conjoint de fait, de son ex-époux ou ancien conjoint de fait, de son frère ou de sa sœur (appelé « survivant » au présent sous-alinéa),
-				- **(II)** s’il s’agit d’une fiducie déterminée, pour la durée de vie de l’époux ou du conjoint de fait qui est en droit de recevoir le revenu de la fiducie,
-			- **(C)** dans le cas où la période d’étalement des versements de rente est d’une durée garantie ou déterminée, celle-ci ne dépasse pas la date à laquelle les personnes suivantes auraient atteint l’âge de 91 ans si elles avaient survécu :
-				- **(I)** s’il s’agit d’une rente réversible, le moins âgé du premier détenteur ou du survivant,
-				- **(II)** s’il s’agit d’une fiducie déterminée, l’époux ou le conjoint de fait qui est en droit de recevoir le revenu de la fiducie,
-				- **(III)** s’il s’agit d’une fiducie testamentaire, à l’exception d’une fiducie déterminée, le moins âgé des bénéficiaires prévus par la fiducie,
-				- **(IV)** s’il s’agit d’un contrat détenu conjointement, le moins âgé des premiers détenteurs,
-				- **(V)** dans les autres cas, le premier détenteur,
-			- **(D)** aucun prêt ne peut exister en vertu du contrat et les droits du détenteur en vertu du contrat ne peuvent pas faire l’objet d’une disposition avant son décès ou, s’il s’agit d’une fiducie déterminée, avant le décès de l’époux ou du conjoint de fait qui est en droit de recevoir le revenu de la fiducie,
-			- **(E)** aucun autre versement que ceux autorisés par le présent article n’est fait en vertu du contrat,
+				- **(II)** dans le cas où le détenteur est une fiducie :
+					- **1.** s’agissant d’une fiducie déterminée, pour la durée de vie d’un particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie ou, s’agissant d’une fiducie mixte au profit de l’époux ou du conjoint de fait, jusqu’à la date de décès du particulier ou, si elle est postérieure, la date du décès du bénéficiaire de la fiducie qui est l’époux ou le conjoint de fait du particulier,
+					- **2.** s’agissant d’une fiducie testamentaire (sauf une fiducie déterminée) dans le cadre de laquelle la rente est émise avant le 24 octobre 2012, pour la durée de vie d’un particulier qui a droit à un revenu provenant de la fiducie,
+					- **3.** s’agissant d’une fiducie testamentaire autre qu’une fiducie déterminée, pour la durée de vie d’un particulier qui avait droit, sa vie durant, dès le moment où le contrat était détenu pour la première fois, à la totalité du revenu de la fiducie,
+			- **(C)** si la période d’étalement des versements de rente est d’une durée garantie ou déterminée, celle-ci ne peut dépasser 91 moins l’âge en années accomplies, au moment où le contrat a été détenu pour la première fois, de l’un des particuliers suivants :
+				- **(I)** si le détenteur n’est pas une fiducie, le particulier qui est :
+					- **1.** dans le cas d’une rente réversible, le moins âgé du premier détenteur et du survivant,
+					- **2.** dans le cas d’un contrat détenu conjointement, le moins âgé des premiers détenteurs,
+					- **3.** dans les autres cas, le premier détenteur,
+				- **(II)** si le détenteur est une fiducie déterminée, le particulier qui est :
+					- **1.** dans le cas d’une rente réversible détenue par une fiducie mixte au profit de l’époux ou du conjoint de fait, le moins âgé des particuliers visés à l’alinéa 104(4)a) de la Loi qui ensemble ont droit, leur vie durant, à la totalité du revenu de la fiducie,
+					- **2.** dans le cas d’une rente qui n’est pas une rente réversible, le particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie,
+				- **(III)** si le détenteur est une fiducie testamentaire autre qu’une fiducie déterminée, le particulier qui était le moins âgé des bénéficiaires de la fiducie au moment où le contrat a été détenu pour la première fois,
+			- **(D)** aucun prêt ne peut exister dans le cadre du contrat,
+			- **(E)** il ne peut être disposé des droits du détenteur aux termes du contrat autrement que par suite de l’un des événements suivants :
+				- **(I)** si le détenteur est un particulier, son décès,
+				- **(II)** si le détenteur est une fiducie déterminée autre qu’une fiducie mixte au profit de l’époux ou du conjoint de fait, le décès du particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie,
+				- **(III)** si le détenteur est une fiducie déterminée qui est une fiducie mixte au profit de l’époux ou du conjoint de fait, le décès du dernier des particuliers visés à l’alinéa 104(4)a) de la Loi qui ensemble ont droit, leur vie durant, à la totalité du revenu de la fiducie,
+				- **(IV)** si le détenteur est une fiducie testamentaire autre qu’une fiducie déterminée et que le contrat a été détenu la première fois après octobre 2011, le premier en date des moments suivants :
+					- **1.** le moment où la fiducie cesse d’être une fiducie testamentaire,
+					- **2.** le décès du particulier visé aux subdivisions (B)(II) ou (C)(III), selon le cas, relativement à la fiducie,
+			- **(F)** aucun autre versement que ceux autorisés par le présent article ne peut être fait dans le cadre du contrat,
 		- **(v)** dont aucune des modalités ne prévoit un recours contre l’émetteur en cas de défaut de faire un versement en vertu du contrat, et
 		- **(vi)** dont un détenteur :
 			- **(A)** si les versements de rente en vertu du contrat ont commencé à être faits avant 1987, a avisé l’émetteur par écrit avant la fin de l’année d’imposition que le contrat doit être considéré comme un contrat de rente prescrit,
@@ -1627,7 +1642,7 @@ sur
 - **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
 - **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8; 2012, ch. 31, art. 60.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8; 2012, ch. 31, art. 60; 2013, ch. 34, art. 378.
 
 
 
@@ -1777,14 +1792,14 @@ sur
 		- **(i)** est apporté par l’assureur sur la vie pour chaque catégorie, conformément aux modalités de la police qui étaient en vigueur le 1<sup>er</sup> décembre 1982, et
 		- **(ii)** ne résulte pas de l’exercice d’un privilège de conversion en vertu de la police;
 	- **e)** un changement résultant de l’établissement d’une prestation supplémentaire de décès en vertu d’une police d’assurance-vie avec participation, au sens du paragraphe 138(12) de la Loi, au titre ou en paiement intégral ou partiel :
-		- **(i)** de participations de police ou d’autres sommes versées sur le revenu que l’assureur sur la vie tire de son entreprise d’assurance-vie avec participation, déterminé de la manière prescrite à l’article 2402, ou
+		- **(i)** de participations de police ou d’autres sommes versées sur le revenu que l’assureur sur la vie tire de son entreprise d’assurance-vie avec participation,
 		- **(ii)** d’intérêts gagnés sur des participations de police qui ont été laissés en dépôt auprès de l’assureur sur la vie;
 	- **f)** la remise en vigueur de polices déchues, dans le cas où cette opération est effectuée au plus tard 60 jours après la fin de l’année civile au cours de laquelle la déchéance s’est produite, ou la remise en vigueur en raison d’avances sur police impayées;
 	- **g)** la modification de la prime par suite de la correction de renseignements erronés contenus dans la demande de police;
 	- **h)** le paiement d’une prime après son échéance ou le paiement d’une prime dans les 30 jours avant son échéance, telle qu’établie le 1<sup>er</sup> décembre 1982 ou avant cette date; et
 	- **i)** le paiement d’intérêts visés à l’alinéa a) de la définition de ***prime*** au paragraphe 148(9) de la Loi.
 
-- **(2)** Aux fins des paragraphes 12.2(9) et 89(2) de la Loi, il y a, à une date donnée, une « augmentation prescrite » d’une prestation de décès en vertu d’une police d’assurance-vie, si le montant de la prestation de décès payable en vertu de la police à cette date est supérieur au montant de prestation de décès qui, en vertu de la police, avait été établi pour cette date au plus tard le 1<sup>er</sup> décembre 1982, puis rajusté pour tenir compte de l’un ou plusieurs des événements suivants se produisant après le 1<sup>er</sup> décembre 1982 relativement à la police :
+- **(2)** Aux fins des paragraphes 12.2(9) et 89(2) de la Loi, il y a, à une date donnée, une « augmentation prescrite » d’une prestation de décès en vertu d’une police d’assurance-vie, si le montant de la prestation de décès payable en vertu de la police à cette date est supérieur au montant de prestation de décès qui, en vertu de la police, avait été établi pour cette date au plus tard le 1<sup>er</sup> décembre 1982, puis rajusté pour tenir compte de l’un ou plusieurs des événements suivants se produisant après le 1<sup>er</sup> décembre 1982 relativement à la police :
 	- **a)** une augmentation résultant d’un changement visé à l’alinéa (1)e);
 	- **b)** un changement attribuable à l’intérêt, à la mortalité ou à des frais, ou à une augmentation de l’Indice des prix à la consommation (publié par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md)) et qui est apporté par l’assureur pour chaque catégorie, conformément aux modalités de la police qui étaient en vigueur le 1<sup>er</sup> décembre 1982;
 	- **c)** une augmentation résultant du paiement à l’avance des primes (autres que des primes prescrites) en vertu de la police, et qui n’excède pas le total des primes qui auraient autrement été payées;
@@ -1797,7 +1812,50 @@ abstraction faite de toute partie de cette augmentation qui est attribuable à u
 - **(3)** Aux fins des paragraphes (1) et (2), une police d’assurance-vie émise par suite de l’exercice d’un privilège de renouvellement prévu dans les modalités d’une autre police qui étaient en vigueur le 1<sup>er</sup> décembre 1982 est réputée être une continuation de cette autre police.
 
 - **(4)** Aux fins du paragraphe (2), une police d’assurance-vie émise par suite de l’exercice d’un privilège de conversion prévu dans les modalités d’une autre police qui étaient en vigueur le 1<sup>er</sup> décembre 1982 est réputée être une continuation de cette autre police; cependant, toute partie de la police ainsi émise qui se rapporte à la fraction de la prestation de décès, immédiatement avant la conversion, qui est attribuable à un événement se produisant après le 1<sup>er</sup> décembre 1982 et visé à l’alinéa (1)e), est réputée constituer une police d’assurance-vie distincte dont la date d’émission est celle de la conversion.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F); DORS/2011-188, art. 13.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F); DORS/2011-188, art. 13; 2013, ch. 34, art. 379.
+
+
+
+
+
+### Revenu provenant d’entreprises d’assurance-vie avec participation
+
+
+**309.1** Pour l’application du sous-alinéa 309(1)e)(i), les règles ci-après s’appliquent au calcul du revenu d’un assureur sur la vie pour une année d’imposition provenant de son entreprise d’assurance-vie avec participation exploitée au Canada :
+- **a)** est incluse dans ce calcul la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente les revenus bruts de placements en assurance-vie au Canada, au sens du paragraphe 2400(1), de l’assureur pour l’année,
+- **B** le total des sommes suivantes :
+- **(i)** la provision actuarielle maximale moyenne aux fins d’impôt, au sens du paragraphe 2400(1), de l’assureur pour l’année relativement à des polices d’assurance-vie avec participation au Canada,
+- **(ii)** la moitié du total des sommes suivantes :
+- **(A)** les montants en dépôt auprès de l’assureur à la fin de l’année relativement aux polices visées au sous-alinéa (i),
+- **(B)** les montants en dépôt auprès de l’assureur à la fin de l’année d’imposition précédente relativement aux polices visées au sous-alinéa (i),
+- **C** le total des sommes dont chacune représente :
+- **(i)** soit la provision actuarielle maximale moyenne aux fins d’impôt de l’assureur pour l’année relativement à une catégorie de polices d’assurance-vie au Canada,
+- **(ii)** soit la moitié du total des sommes suivantes :
+- **(A)** les montants en dépôt auprès de l’assureur à la fin de l’année relativement à une catégorie de polices visée au sous-alinéa (i),
+- **(B)** les montants en dépôt auprès de l’assureur à la fin de l’année d’imposition précédente relativement à une catégorie de polices visée au sous-alinéa (i);
+- **b)** les sommes ci-après sont incluses dans ce calcul :
+	- **(i)** la provision actuarielle maximale aux fins d’impôt de l’assureur pour l’année d’imposition précédente relativement à des polices d’assurance-vie avec participation au Canada,
+	- **(ii)** la somme maximale que l’assureur peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente relativement à des polices d’assurance-vie avec participation au Canada;
+- **c)** n’est pas incluse dans ce calcul toute somme relative aux polices d’assurance-vie avec participation au Canada de l’assureur qui a été déduite en application des sous-alinéas 138(3)a)(i) ou (ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente;
+- **d)** sous réserve de l’alinéa a) :
+	- **(i)** les sommes ci-après ne sont pas incluses dans ce calcul :
+		- **(A)** toute provision qui a été déduite en application de l’alinéa 20(1)l) de la Loi dans le calcul du revenu de l’assureur pour l’année d’imposition précédente,
+		- **(B)** toute somme qui a été incluse dans le calcul des revenus bruts de placements en assurance-vie au Canada de l’assureur pour l’année,
+	- **(ii)** aucune déduction ne peut être faite au titre des sommes suivantes :
+		- **(A)** toute somme prise en compte dans le calcul des revenus bruts de placements en assurance-vie au Canada de l’assureur pour l’année,
+		- **(B)** toute somme qui est déductible en application de l’alinéa 20(1)l) de la Loi dans le calcul du revenu de l’assureur pour l’année;
+- **e)** sont déduites dans ce calcul :
+	- **(i)** la provision actuarielle maximale aux fins d’impôt de l’assureur pour l’année relativement à des polices d’assurance-vie avec participation au Canada,
+	- **(ii)** la somme maximale qui est déductible par l’assureur en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année relativement à des polices d’assurance-vie avec participation au Canada;
+- **f)** aucune déduction ne peut être faite au titre d’une somme déductible en application du sous-alinéa 138(3)a)(iii) de la Loi dans le calcul du revenu de l’assureur pour l’année;
+- **g)** sauf disposition contraire prévue à l’alinéa e), aucune déduction ne peut être faite au titre d’une provision déductible en application des sous-alinéas 138(3)a)(i) ou (ii) de la Loi dans le calcul du revenu de l’assureur pour l’année;
+- **h)** sauf disposition contraire prévue au présent article, les dispositions de la Loi concernant le calcul du revenu provenant d’une source s’appliquent.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 380.
 
 
 
@@ -1843,15 +1901,7 @@ abstraction faite de toute partie de cette augmentation qui est attribuable à u
 	- **a)** d’une part, les règles mentionnées à cette définition sont énoncées à la présente partie;
 	- **b)** d’autre part, la somme déterminée selon ces règles correspond au total des sommes représentant chacune le revenu imposable de la société gagné au cours de l’année dans une province donnée, déterminé selon la présente partie.
 
-- **(1.1)** Dans la présente partie, le revenu imposable d’une société pour une année d’imposition correspond au total des sommes suivantes :
-	- **a)** le revenu imposable de la société pour l’année (déterminé compte non tenu du présent paragraphe) ou son revenu imposable gagné au Canada pour l’année, selon le cas;
-	- **b)** la somme positive ou négative obtenue par la formule suivante :
-```
-A – B
-```
-où :
-- **A** représente le total des sommes qui, par l’effet de l’article 33.1 de la Loi, ne sont pas à inclure dans le calcul du revenu de la société pour l’année,
-- **B** le total des sommes qui, par l’effet de l’article 33.1 de la Loi, ne sont pas déductibles dans le calcul du revenu de la société pour l’année.
+- **(1.1)** [Abrogé, 2013, ch. 33, art. 32]
 
 - **(2)** Pour l’application de la présente partie, ***établissement stable*** s’entend d’un lieu fixe d’affaires d’une société, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt. De plus :
 	- **a)** la société qui n’a pas de lieu fixe d’affaires est réputée avoir un établissement stable à l’endroit principal où ses activités sont exercées;
@@ -1862,7 +1912,7 @@ où :
 	- **e.1)** la société qui n’aurait pas d’établissement stable si ce n’était le présent alinéa est réputée en avoir un à l’endroit qui est désigné à titre de siège social dans son acte constitutif ou ses statuts;
 	- **f)** le fait qu’une société a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou maintient un bureau seulement pour acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 	- **g)** le fait qu’une société a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-772, art. 1; DORS/81-267, art. 1; DORS/86-390, art. 1; DORS/94-140, art. 1; DORS/94-686, art. 4(F), 57(F) et 79(F); 2009, ch. 2, art. 91; DORS/2010-93, art. 8(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-772, art. 1; DORS/81-267, art. 1; DORS/86-390, art. 1; DORS/94-140, art. 1; DORS/94-686, art. 4(F), 57(F) et 79(F); 2009, ch. 2, art. 91; DORS/2010-93, art. 8(F); 2013, ch. 33, art. 32.
 
 
 
@@ -2107,16 +2157,16 @@ dans cet endroit.
 
 **407** 
 
-- **(1)** Malgré les paragraphes 402(3) et (4), le revenu imposable qui est censé avoir été gagné au cours d’une année d’imposition par une compagnie aérienne dans une province où elle avait un établissement stable est un montant qui est égal au 1/4 de l’ensemble :
+- **(1)** Malgré les paragraphes 402(3) et (4), le revenu imposable qui est censé avoir été gagné au cours d’une année d’imposition par une compagnie aérienne dans une province où elle avait un établissement stable est un montant qui est égal au 1/4 de l’ensemble :
 	- **a)** de la proportion de son revenu imposable pour l’année que le coût en capital de toutes les immobilisations de la compagnie, sauf les aéronefs, dans la province à la fin de l’année représente par rapport au coût en capital de toutes les immobilisations, sauf les aéronefs, au Canada à la fin de l’année;
-	- **b)** du produit de la multiplication de son revenu imposable pour l’année par le rapport entre trois fois le nombre de milles de vol payant parcourus par ses aéronefs dans la province pendant l’année et le nombre total de milles de vol payant parcourus par ses aéronefs au Canada pendant l’année, à l’exception des milles parcourus dans une province où elle n’avait pas d’établissement stable.
+	- **b)** du produit de la multiplication de son revenu imposable pour l’année par le rapport entre trois fois le nombre de milles de vol payant parcourus par ses aéronefs dans la province pendant l’année et le total des nombres représentant chacun le nombre de milles de vol payant parcourus par ses aéronefs pendant l’année dans une province où elle avait un établissement stable.
 
 - **(2)** Aux fins du présent article, les « milles de vol payant parcourus » sont pondérés selon le poids au décollage de l’aéronef exploité.
 
 - **(3)** Aux fins du présent article, le ***poids au décollage*** d’un aéronef désigne
 	- **a)** pour un aéronef à l’égard duquel une demande de certificat de navigabilité a été soumise au ministère des Transports et a été acceptée par ce dernier, le poids maximal autorisé au décollage, exprimé en livres, qui apparaît sur la formule, et
 	- **b)** pour tout autre aéronef, le poids, exprimé en livres, qui peut raisonnablement être considéré comme étant l’équivalent du poids visé à l’alinéa a).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-326, art. 1; DORS/80-949, art. 5; DORS/94-327, art. 2; DORS/94-686, art. 6(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-326, art. 1; DORS/80-949, art. 5; DORS/94-327, art. 2; DORS/94-686, art. 6(F); 2013, ch. 34, art. 381.
 
 
 
@@ -2195,30 +2245,20 @@ dans cet endroit.
 
 **413** 
 
-- **(1)** Pour l’application de la présente partie, lorsqu’une société ne réside pas au Canada, « les traitements et salaires versés pendant l’année » par la société ne comprennent pas les traitements et salaires versés aux employés d’un établissement stable situé à l’étranger.
+- **(1)** Pour l’application de la présente partie, lorsqu’une société ne réside pas au Canada :
+	- **a)** les traitements et salaires versés pendant l’année par la société ne comprennent pas les traitements et salaires versés aux employés d’un établissement stable situé à l’étranger;
+	- **b)** le revenu imposable de la société est réputé être son revenu imposable gagné au Canada.
 
 - **(2)** Pour l’application de l’alinéa 402(3)a), est exclu du « revenu brut total pour l’année » d’une société qui ne réside pas au Canada le revenu brut qu’il est raisonnable d’attribuer à un établissement stable situé à l’étranger.
 
 - **(3)** Pour l’application de l’alinéa 404(1)b), le passage « au total des prêts et dépôts de la banque pour l’année » est remplacé, dans le cas d’une banque étrangère autorisée, par « au total des prêts et dépôts de la banque pour l’année relatifs à son entreprise bancaire canadienne ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95; DORS/2009-302, art. 4; DORS/2011-195, art. 4(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95; DORS/2009-302, art. 4; DORS/2011-195, art. 4(F); 2013, ch. 33, art. 33.
 
 
 
 
-
-### Centres bancaires internationaux — exception
-
-
-**413.1** Malgré les autres dispositions de la présente partie, le revenu imposable d’une société gagné au cours d’une année d’imposition dans une province donnée correspond au total des sommes suivantes :
-- **a)** le revenu imposable de la société gagné au cours de l’année dans la province donnée, déterminé compte non tenu du présent article;
-- **b)** la somme positive ou négative obtenue par la formule suivante :
-```
-A – B
-```
-où :
-- **A** représente le total des sommes qui, en raison de l’application de l’article 33.1 de la Loi à une entreprise exploitée dans une succursale ou un bureau situé dans la province donnée, ne sont pas déductibles dans le calcul du revenu de la société pour l’année,
-- **B** le total des sommes qui, en raison de l’application de l’article 33.1 de la Loi à une entreprise exploitée dans une succursale ou un bureau situé dans la province donnée, ne sont pas à inclure dans le calcul du revenu de la société pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 96.
+**413.1** [Abrogé, 2013, ch. 33, art. 34]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 96; 2013, ch. 33, art. 34.
 
 
 
@@ -2346,10 +2386,10 @@ où :
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 7(10), 13(4), (7.4) et (29), 14(6), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
+- **b)** les paragraphes 13(4), (7.4) et (29), 14(6), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
 - **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1; 2013, ch. 34, art. 382.
 
 
 
@@ -3186,6 +3226,12 @@ Il est entendu que les biens intangibles ou, pour l’application du droit civil
 		- **(vii)** un espace d’amarrage de bateau,
 		- **(viii)** un bien compris dans la catégorie 35 de l’annexe II,
 et pour l’application du sous-alinéa (i), lorsqu’un bien est la propriété de deux ou plusieurs personnes et sociétés de personnes ou d’un groupe de personnes ou de sociétés de personnes, le coût en capital du bien pour chacune de ces personnes ou sociétés de personnes est réputé égal au total des montants dont chacun représente le coût en capital du bien pour elle;
+	- **a.1)** malgré l’alinéa a), le bien visé par un bail n’est pas compris parmi les biens exclus si sa juste valeur marchande globale dépassait 1 000 000 $ au moment de la conclusion du bail et si le preneur du bien est :
+		- **(i)** une personne qui est exonérée d’impôt par l’effet de l’article 149 de la Loi,
+		- **(ii)** une personne qui utilise le bien dans le cadre de l’exploitation d’une entreprise dont le revenu est exonéré de l’impôt prévu par la partie I de la Loi par l’effet d’une disposition quelconque de la Loi,
+		- **(iii)** un gouvernement canadien,
+		- **(iv)** une personne ne résidant pas au Canada, sauf si elle utilise le bien principalement dans le cadre de l’exploitation au Canada d’une entreprise qui n’est pas une entreprise protégée par traité;
+	- **a.2)** pour l’application de l’alinéa a.1), s’il est raisonnable de conclure, compte tenu des circonstances, que l’une des principales raisons de l’existence de plusieurs baux consiste à éviter l’application de l’alinéa a.1) du fait que chacun des baux porte sur des biens ayant une juste valeur marchande globale d’au plus 1 000 000 $ au moment de la conclusion du bail, chacun des baux est réputé porter sur des biens dont la juste valeur marchande globale dépassait 1 000 000 $ à ce moment;
 	- **b)** un bien est réputé visé par un bail d’une durée de plus d’un an à un moment donné si, à ce moment, selon le cas :
 		- **(i)** le bien avait été pris à bail par le preneur, par une personne avec laquelle celui-ci a un lien de dépendance ou par une combinaison de ceux-ci, pour une période de plus d’un an se terminant à ce moment,
 		- **(ii)** il est raisonnable de conclure, compte tenu des circonstances, que le bailleur savait ou aurait dû savoir que le preneur, une personne avec laquelle il a un lien de dépendance ou une combinaison de ceux-ci, prendrait le bien à bail pendant plus d’un an;
@@ -3532,7 +3578,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383.
 
 
 
@@ -3603,6 +3649,8 @@ une catégorie distincte est prescrite pour les biens qui
 	- **d)** autrement seraient compris dans la catégorie.
 
 - **(1af)** Une catégorie distincte est prescrite pour chaque bien compris dans la catégorie 10.1 de l’annexe II.
+
+- **(1ag)** Si plusieurs biens d’un contribuable sont compris dans la même catégorie de l’annexe II et qu’au moins un de ces biens est un bien relativement auquel le contribuable est un cessionnaire ayant fait le choix prévu au paragraphe 13(4.2) de la Loi, chacun des biens visés par ce choix qui seraient compris par ailleurs dans la même catégorie est compris dans une catégorie distincte.
 
 - **(1b) et (1c)** [Abrogés, DORS/79-670, art. 1]
 
@@ -3858,7 +3906,7 @@ une catégorie distincte est prescrite pour les biens,
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2; 2013, ch. 34, art. 384.
 
 
 
@@ -4067,7 +4115,7 @@ en prenant celui de ces deux exercices qui survient en dernier, les recettes que
 #### Choix visant le matériel de fabrication ou de transformation
 
 
-- **(16.1)** Le contribuable qui acquiert, après le 18 mars 2007 et avant 2012, un bien qui est une machine ou du matériel de fabrication ou de transformation peut choisir, dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bien est acquis, d’inclure le bien dans la catégorie 29 de l’annexe II dans le cas où le bien, à la fois :
+- **(16.1)** Le contribuable qui acquiert, après le 18 mars 2007 et avant 2016, un bien qui est une machine ou du matériel de fabrication ou de transformation peut choisir, dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bien est acquis, d’inclure le bien dans la catégorie 29 de l’annexe II dans le cas où le bien, à la fois :
 	- **a)** serait compris par ailleurs dans la catégorie 43.1 ou 43.2 de l’annexe II;
 	- **b)** serait compris dans la catégorie 29 de cette annexe en l’absence des catégories 43.1 et 43.2.
 
@@ -4122,7 +4170,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 
 - **(25)** Pour l’application de la présente partie et de l’annexe II, si le bâtiment non résidentiel admissible d’un contribuable était en construction le 19 mars 2007, la partie de son coût en capital que le contribuable a engagée avant cette date est réputée avoir été engagée par lui le 19 mars 2007 sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3; DORS/2011-195, art. 5(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3; DORS/2011-195, art. 5(F); 2013, ch. 33, art. 35.
 
 
 
@@ -4785,8 +4833,8 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 #### Montant prévu
 
 
-- **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou payable à un contribuable dans le cadre du Programme de droits de diffusion du Fonds de télévision et de câblodistribution pour la production d’émissions canadiennes ou du Canada Television Fund/Fonds canadien de télévision.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2.
+- **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou payable à un contribuable dans le cadre du Programme de droits de diffusion du Fonds des médias du Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385.
 
 
 
@@ -5987,17 +6035,25 @@ lorsque le contrat
 	- **c)** est une police que visaient les dispositions de l’alinéa 1401(1)c), tel qu’il s’appliquait pour l’année d’imposition 1977 de l’assureur,
 l’assureur doit utiliser à l’égard de cette police les taux d’intérêt et de mortalité dont il s’est servi aux fins du calcul de la réserve pour la police en vertu de cet alinéa pour son année d’imposition 1977.
 
-- **(8)** Pour l’application du paragraphe (1), dans le cas où, à la fois :
-	- **a)** au cours d’une année d’imposition d’un assureur, une personne avec laquelle celui-ci n’a aucun lien de dépendance effectue, en sa faveur, une disposition à laquelle le paragraphe 138(11.92) de la Loi s’applique,
-	- **b)** par suite de cette disposition, l’assureur assume des obligations dans le cadre de polices d’assurance-vie (appelées « polices transférées » au présent paragraphe) pour lesquelles il peut déduire une réserve en application de l’alinéa 1401(1)c) pour l’année d’imposition,
-	- **c)** l’excédent éventuel
-		- **(i)** du total des montants que l’assureur a reçus ou doit recevoir de la personne au titre des polices transférées visées à l’alinéa b)
-sur
-		- **(ii)** le total des montants qu’il a payés ou qu’il doit payer à cette personne à titre de commissions sur les montants visés au sous-alinéa (i)
-dépasse le total des sommes maximales que l’assureur peut déduire à titre de réserve en application de l’alinéa 1401(1)c), abstraction faite du présent paragraphe, pour les polices transférées pour l’année d’imposition,
-	- **d)** il est raisonnable d’attribuer le montant calculé à l’alinéa c) (appelé « insuffisance de réserve » au présent paragraphe) au fait que les taux d’intérêt ou de mortalité utilisés par la personne ayant établi les polices transférées pour calculer les valeurs de rachat ou les primes de ces polices ne sont plus indiqués dans les circonstances,
-le ministre peut, à la demande de l’assureur et sur avis de l’autorité compétente, réviser les taux d’intérêt et de mortalité afin d’éliminer tout ou partie de cette insuffisance de réserve; ces taux révisés sont réputés avoir été utilisés par les personnes ayant établi les polices transférées pour calculer la valeur de rachat ou les primes de ces polices.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-419, art. 2; DORS/80-618, art. 4(A); DORS/90-661, art. 4; DORS/94-415, art. 6; DORS/94-686, art. 14(F) et 56(F).
+- **(8)** Les paragraphes (9) et (10) s’appliquent à un assureur si les conditions ci-après sont réunies :
+	- **a)** au cours d’une année d’imposition de l’assureur, une personne avec laquelle il n’a aucun lien de dépendance effectue en sa faveur une disposition relativement à laquelle le paragraphe 138(11.92) de la Loi s’applique;
+	- **b)** par suite de cette disposition, l’assureur assume des obligations dans le cadre de polices d’assurance-vie (appelées « polices transférées » au présent paragraphe et aux paragraphes (9) et (10)) relativement auxquelles il peut déduire une somme à titre de provision en application de l’alinéa 1401(1)c) pour l’année d’imposition;
+	- **c)** la somme (appelée « insuffisance de provision » au présent paragraphe et aux paragraphes (9) et (10)) obtenue par la formule ci-après est positive :
+```
+(A – B) – C
+```
+où :
+- **A** représente le total des sommes reçues ou à recevoir par l’assureur de la personne relativement aux polices transférées,
+- **B** le total des sommes payées ou à payer par l’assureur à la personne à titre de commissions relatives aux sommes visées à l’élément A,
+- **C** le total des sommes maximales que l’assureur peut déduire à titre de provision en application de l’alinéa 1401(1)c), déterminées compte non tenu du présent paragraphe, relativement aux polices transférées pour l’année d’imposition;
+	- **d)** il est raisonnable d’attribuer l’insuffisance de provision au fait que les taux d’intérêt, de mortalité ou de déchéance que l’émetteur des polices transférées utilise pour déterminer les valeurs de rachat ou les primes relatives à ces polices ne sont plus raisonnables dans les circonstances.
+
+- **(9)** Si le présent paragraphe s’applique à un assureur relativement à des polices transférées qui présentent une insuffisance de provision, les règles ci-après s’appliquent au paragraphe (1) sous réserve du paragraphe (10) :
+	- **a)** l’assureur peut réviser les taux d’intérêt, de mortalité ou de déchéance utilisés par l’émetteur des polices transférées de façon à éliminer tout ou partie de l’insuffisance de provision;
+	- **b)** les taux révisés sont réputés avoir été utilisés par l’émetteur des polices transférées pour déterminer la valeur de rachat ou les primes relatives aux polices.
+
+- **(10)** Si un assureur a révisé, en application du paragraphe (9), les taux d’intérêt, de mortalité ou de déchéance utilisés par l’émetteur de polices transférées, le ministre peut, pour l’application du paragraphe (1) et de l’alinéa (9)b), apporter d’autres révisions aux taux révisés dans la mesure où les révisions que l’assureur a apportées à ces taux ne sont pas raisonnables dans les circonstances.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-419, art. 2; DORS/80-618, art. 4(A); DORS/90-661, art. 4; DORS/94-415, art. 6; DORS/94-686, art. 14(F) et 56(F); 2013, ch. 34, art. 386.
 
 
 
@@ -6062,9 +6118,11 @@ où :
 
 **1406** Les montants déterminés selon les articles 1404 ou 1405 sont calculés :
 - **a)** après déduction des sommes à recouvrer au titre de la réassurance qui sont applicables;
-- **b)** compte non tenu du passif relatif à un fonds réservé, sauf le passif relatif à une garantie au titre d’une police à fonds réservé;
+- **b)** compte non tenu de toute obligation de verser sur une police à fonds réservé une prestation, à la fois :
+	- **(i)** dont le montant varie selon la juste valeur marchande du fonds réservé au moment où la prestation devient ou peut devenir payable,
+	- **(ii)** qui est sans rapport avec une garantie donnée par l’assureur dans le cadre d’une police à fonds réservé;
 - **c)** compte non tenu de toute somme relative à une police d’assurance à comptabilité de dépôt.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/99-269, art. 6; 2010, ch. 25, art. 79.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/99-269, art. 6; 2010, ch. 25, art. 79; 2013, ch. 34, art. 387.
 
 
 
@@ -6811,49 +6869,48 @@ Toutefois, dans le cas où, après le 2 mars 1988, les modalités de la police c
 
 **2000** 
 
-- **(1)** Tout reçu officiel délivré par un agent enregistré d’un parti enregistré doit porter une mention déclarant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, sous une forme difficilement modifiable,
-	- **a)** le nom complet du parti enregistré;
+- **(1)** Tout reçu officiel délivré par une personne donnée — agent enregistré d’un parti enregistré ou agent de circonscription d’une association enregistrée — à un particulier qui fait une contribution monétaire au parti enregistré ou à l’association enregistrée, selon le cas, doit porter une mention déclarant qu’il s’agit d’un reçu officiel aux fins d’impôt sur le revenu et indiquer clairement les renseignements ci-après, sous une forme difficilement modifiable :
+	- **a)** le nom du parti enregistré ou de l’association enregistrée, selon le cas;
 	- **b)** le numéro de série du reçu;
-	- **c)** le nom de l’agent enregistré figurant dans le registre tenu par le directeur général des élections en vertu du paragraphe 13.1(1) de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md);
+	- **c)** le nom de la personne donnée figurant dans le registre tenu par le directeur général des élections aux termes des articles 374 ou 403.08 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md);
 	- **d)** la date de délivrance du reçu;
-	- **e)** lorsque la personne qui verse la contribution est
-		- **(i)** une personne autre qu’un particulier, la date de réception de la contribution, si cette date diffère de celle mentionnée à l’alinéa d), ou
-		- **(ii)** un particulier, l’année civile de la réception de la contribution;
-	- **f)** le lieu de délivrance du reçu;
-	- **g)** le nom et l’adresse de la personne qui verse la contribution, y compris, s’il s’agit d’un particulier, son prénom ou ses initiales;
-	- **h)** le montant de la contribution; et
-	- **i)** la signature de l’agent enregistré.
+	- **e)** la date de réception de la contribution;
+	- **f)** les nom et adresse du particulier;
+	- **g)** le montant de la contribution;
+	- **h)** une description de l’avantage, le cas échéant, au titre de la contribution et le montant de cet avantage;
+	- **i)** le montant admissible de la contribution.
 
-- **(2)** Sous réserve du paragraphe (3), tout reçu officiel délivré par un agent officiel d’un candidat officiellement présenté doit porter une mention déclarant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, sous une forme difficilement modifiable,
-	- **a)** le nom du candidat présenté officiellement;
+- **(2)** Sous réserve du paragraphe (3), tout reçu officiel délivré par l’agent officiel d’un candidat à un particulier qui fait une contribution monétaire au candidat doit porter une mention déclarant qu’il s’agit d’un reçu officiel aux fins d’impôt sur le revenu et indiquer clairement, sous une forme difficilement modifiable :
+	- **a)** le nom du candidat, tel qu’il figure dans l’acte de candidature;
 	- **b)** le numéro de série du reçu;
-	- **c)** le nom de l’agent officiel, qu’a enregistré le ministre;
+	- **c)** le nom de l’agent officiel;
 	- **d)** la date de délivrance du reçu;
-	- **e)** la date de la réception de la contribution, si cette date diffère de celle mentionnée à l’alinéa d);
+	- **e)** la date de réception de la contribution;
 	- **f)** le jour du scrutin;
-	- **g)** le nom et l’adresse de la personne qui verse la contribution, y compris, s’il s’agit d’un particulier, son prénom ou ses initiales;
-	- **h)** le montant de la contribution; et
-	- **i)** la signature de l’agent officiel.
+	- **g)** les nom et adresse du particulier;
+	- **h)** le montant de la contribution;
+	- **i)** une description de l’avantage, le cas échéant, au titre de la contribution et le montant de cet avantage;
+	- **j)** le montant admissible de la contribution.
 
 - **(3)** Le renseignement prévu à l’alinéa (2)f) peut être fourni sous forme d’un code inscrit sur une formule officielle de reçu délivrée par le directeur général des élections, à condition que le ministre soit informé de la signification du code utilisé.
 
 - **(4)** Aux fins des paragraphes (1) et (2), un reçu officiel délivré en remplacement d’un reçu officiel déjà délivré doit indiquer clairement qu’il remplace le reçu initial et porter, outre son propre numéro de série, celui du reçu qu’il remplace.
 
-- **(5)** Une formule officielle de reçu gâchée doit être revêtue de la mention « annulée » et l’agent enregistré ou l’agent officiel, selon le cas, doit annexer l’original et son double aux doubles des reçus à déposer auprès du ministre en vertu du paragraphe 230.1(2) de la Loi.
+- **(5)** Tout formulaire de reçu officiel inutilisable doit porter la mention « annulé » et l’agent de circonscription, l’agent officiel ou l’agent enregistré, selon le cas, doit annexer l’original et son double à la déclaration de renseignements à présenter au ministre en vertu du paragraphe 230.1(2) de la Loi.
 
-- **(6)** Toute formule officielle de reçu sur laquelle
-	- **a)** la date de la réception de la contribution,
-	- **b)** l’année de la réception de la contribution, ou
-	- **c)** le montant de la contribution,
-ont été inscrits de façon incorrecte ou illisible est considérée comme gâchée.
-
-
-
-
-### États de renseignements
+- **(6)** Tout formulaire de reçu officiel sur lequel un ou plusieurs des renseignements ci-après sont inscrits de façon incorrecte ou illisible est considéré comme inutilisable :
+	- **a)** la date de réception de la contribution monétaire;
+	- **b)** le montant de la contribution;
+	- **c)** une description de l’avantage, le cas échéant, au titre de la contribution et le montant de cet avantage;
+	- **d)** le montant admissible de la contribution.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 388.
 
 
-**2001** Un agent enregistré doit produire chaque année, au plus tard le dernier jour du mois de mars, l’état de renseignements applicable à l’année civile précédente prévu au paragraphe 230.1(2) de la Loi.
+
+
+**2001** [Abrogé, 2013, ch. 34, art. 389]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 389.
+
 
 
 
@@ -6863,15 +6920,21 @@ ont été inscrits de façon incorrecte ou illisible est considérée comme gâc
 
 **2002** 
 
-- **(1)** Dans la présente partie,
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***contribution*** s’entend d’un montant versé au sens du paragraphe 127(4.1) de la Loi; (*contribution*)
+***acte de candidature*** Tout acte de candidature déposé relativement à un candidat en vertu de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), tel que corrigé, le cas échéant, après son dépôt conformément à cette loi. (*nomination paper*)
 
-***formule officielle de reçu*** désigne une formule imprimée que peut remplir ou faire remplir un agent enregistré ou un agent officiel, selon le cas, ou qui était initialement destinée à servir de reçu officiel délivré par l’agent enregistré ou l’agent officiel, selon le cas; (*official receipt form*)
+***directeur général des élections*** La personne nommée directeur général des élections ou suppléant au titre des articles 13 ou 14 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md). (*Chief Electoral Officer*)
 
-***reçu officiel*** désigne un reçu aux fins du paragraphe 127(3) de la Loi, qui renferme les renseignements prévus au paragraphe 2000(1) ou (2), selon le cas. (*official receipt*)
+***formulaire de reçu officiel***
+- **a)** Dans le cas d’un reçu officiel délivré par un agent de circonscription ou un agent enregistré aux termes du paragraphe 2000(1), tout formulaire imprimé en la possession d’un tel agent, selon le cas, qui est susceptible d’être rempli à titre de reçu officiel de l’agent ou qui était initialement destiné à être rempli à ce titre;
+- **b)** dans le cas d’un reçu officiel délivré par un agent officiel aux termes du paragraphe 2000(2), le formulaire prescrit visé à l’article 477 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md). (*official receipt form*)
 
-- **(2)** Dans la présente partie, « agent officiel », « jour du scrutin », « agent enregistré » et « parti enregistré » ont le sens que leur donne l’article 2 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) et ***candidat officiellement présenté*** désigne une personne à l’égard de laquelle un bulletin de présentation et un dépôt ont été produits au sens de la définition ***présentation officielle*** dans cet article de cette Loi.
+***reçu officiel*** Reçu délivré pour l’application du paragraphe 127(3) de la Loi et portant les renseignements exigés par ce paragraphe. (*official receipt*)
+
+- **(2)** Dans la présente partie, ***agent enregistré***, ***agent officiel*** et ***jour du scrutin*** s’entendent au sens de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 390.
+
 
 
 
@@ -7452,56 +7515,8 @@ où :
 
 
 
-
-### Revenu d’entreprises d’assurance-vie avec participation
-
-
-**2402** Aux fins de la disposition 138(3)a)(iii)(B) de la Loi et du sous-alinéa 309(1)e)(i), un assureur sur la vie doit, dans le calcul de son revenu pour une année d’imposition, tiré d’une entreprise d’assurance-vie avec participation exploitée au Canada,
-- **a)** inclure la proportion de ses revenus bruts de placements en assurance-vie au Canada pour cette année que
-	- **(i)** le total de sa réserve actuarielle maximale moyenne aux fins de l’impôt, pour l’année, à l’égard de ses polices d’assurance-vie avec participation au Canada, et du montant moyen en dépôt auprès de lui pour l’année à l’égard de ces polices
-représente par rapport
-	- **(ii)** au total des montants suivants :
-		- **(A)** sa réserve actuarielle maximale moyenne aux fins de l’impôt, pour l’année, à l’égard d’une catégorie de polices d’assurance-vie au Canada, et
-		- **(B)** le montant moyen en dépôt auprès de lui pour l’année à l’égard d’une catégorie de polices visées à la disposition (A);
-- **a.1)** inclure la somme obtenue par la formule suivante :
-```
-(A + B) × C/D
-```
-où :
-- **A** représente la somme à inclure en application du paragraphe 142.5(5) de la Loi dans le calcul de son revenu pour l’année,
-- **B** la somme qui est réputée, en vertu du paragraphe 142.5(7) de la Loi, être son gain en capital imposable pour l’année provenant de la disposition d’un bien,
-- **C** le total déterminé selon le sous-alinéa a)(i) pour son année d’imposition qui comprend le 31 octobre 1994,
-- **D** le total déterminé selon le sous-alinéa a)(ii) pour son année d’imposition qui comprend le 31 octobre 1994;
-- **b)** inclure
-	- **(i)** le montant qu’il a déduit en vertu du sous-alinéa 138(3)a)(iv) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente,
-	- **(ii)** le montant de sa réserve actuarielle maximale aux fins de l’impôt pour l’année d’imposition précédente, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(iii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente, à l’égard des polices d’assurance-vie avec participation au Canada;
-	- **(iv)** [Abrogé, DORS/2009-222, art. 2]
-- **c)** n’inclure aucune somme à l’égard de ses polices d’assurance-vie avec participation au Canada, qu’il a déduite en application du sous-alinéa 138(3)a)(i) ou (ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente;
-- **d)** sauf disposition contraire à l’alinéa a), n’inclure aucun montant, à titre de provision, qu’il a déduit en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente;
-- **e)** sauf disposition contraire énoncée à l’alinéa a), n’inclure aucune somme qu’il a incluse dans le calcul de ses revenus bruts de placements en assurance-vie au Canada pour l’année;
-- **e.1)** sauf disposition contraire énoncée à l’alinéa a.1), n’inclure aucune des sommes représentées par les éléments A et B de la formule figurant à cet alinéa;
-- **e.2)** si l’année comprend le 31 octobre 1994, déduire la somme obtenue par la formule suivante :
-```
-(A + B) × C/D
-```
-où :
-- **A** représente la somme déduite en application du paragraphe 142.5(4) de la Loi dans le calcul de son revenu pour l’année,
-- **B** la somme qui est réputée, en vertu du paragraphe 142.5(6) de la Loi, être sa perte en capital déductible pour l’année résultant de la disposition d’un bien,
-- **C** le total déterminé selon le sous-alinéa a)(i) pour l’année,
-- **D** le total déterminé selon le sous-alinéa a)(ii) pour l’année;
-- **f)** déduire, à la fois :
-	- **(i)** sa réserve actuarielle maximale aux fins de l’impôt pour l’année, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(ii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année, à l’égard des polices d’assurance-vie avec participation au Canada;
-	- **(iii)** [Abrogé, DORS/2009-222, art. 2]
-- **g)** n’opérer aucune déduction permise en vertu du sous-alinéa 138(3)a)(iii) ou (iv) de la Loi dans le calcul de son revenu pour l’année;
-- **h)** sauf disposition contraire énoncée à l’alinéa a), n’opérer aucune déduction au titre des sommes suivantes :
-	- **(i)** une somme prise en compte dans le calcul de ses revenus bruts de placements en assurance-vie au Canada pour l’année,
-	- **(ii)** une somme déductible en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année;
-- **h.1)** sauf disposition contraire énoncée à l’alinéa e.2), n’opérer aucune déduction au titre des sommes représentées par les éléments A et B de la formule figurant à cet alinéa;
-- **i)** sauf disposition contraire à l’alinéa f), n’opérer aucune déduction au titre d’une réserve déductible en application du sous-alinéa 138(3)a)(i) ou (ii) de la Loi dans le calcul de son revenu pour l’année;
-- **j)** sauf disposition contraire dans le présent article, se conformer aux dispositions de la Loi concernant le calcul du revenu tiré d’une source donnée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/83-865, art. 7; DORS/90-661, art. 7; DORS/2009-222, art. 2.
+**2402** [Abrogé, 2013, ch. 34, art. 391]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/83-865, art. 7; DORS/90-661, art. 7; DORS/2009-222, art. 2; 2013, ch. 34, art. 391.
 
 
 
@@ -7524,389 +7539,38 @@ où :
 
 
 
+**2404** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; 2013, ch. 34, art. 392.
 
-### Conversion des devises
-
-
-**2404** Aux fins de la présente partie, les montants exprimés en devises autres que canadiennes doivent être, pour les besoins de l’autorité compétente, convertis en devises canadiennes à l’aide du taux courant de change à la date à l’égard de laquelle le montant est calculé.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4.
-
-
-
-
-
-### Définitions
-
-
-**2405** 
-
-- **(1)** Dans la présente partie,
-	- **a)** ***amortissement total*** a le sens que lui prête l’alinéa 13(21)e) de la Loi;
-	- **b)** ***avance sur police***, ***biens non réservés***, ***déficit accumulé pour 1968***, ***fonds excédentaire résultant de l’activité***, ***montant payable***, ***police d’assurance-vie***, ***police d’assurance-vie au Canada***, ***police d’assurance-vie avec participation***, ***réserve actuarielle maximale aux fins de l’impôt*** et ***revenus bruts de placements*** ont le sens que leur prête le paragraphe 138(12) de la Loi; et
-	- **c)** ***fonds réservé*** et ***polices à fonds réservé*** ont le sens que leur prête le paragraphe 138.1(1) de la Loi.
-
-- **(2)** Aux fins du paragraphe 138(14) de la Loi, les expressions ***fonds de placement canadien pour une année d’imposition***, ***actifs canadiens déterminés*** et ***valeur pour l’année d’imposition*** ont le sens que leur prête le paragraphe 2404(1) tel qu’il s’appliquait à l’année d’imposition 1977.
-
-- **(3)** Dans la présente partie et aux fins de l’alinéa 219(7)a) de la Loi,
-
-***autorité compétente*** désigne
-- **a)** le surintendant des institutions financières, si l’assureur est légalement tenu de lui faire rapport, ou
-- **b)** dans tout autre cas, le surintendant des assurances ou le fonctionnaire ou l’organisme correspondant de la province qui a constitué l’assureur en société en vertu de ses lois; (*relevant authority*)
-
-***avance sur police étrangère*** S’entend d’une avance qu’un assureur consent à un moment donné à un titulaire de police conformément aux modalités d’une police d’assurance-vie qui n’est pas une police d’assurance-vie au Canada. (*foreign policy loan*)
-
-***avoir*** S’entend :
-- **a)** soit d’une action du capital-actions d’une personne (sauf une société désignée) ou d’une société de personnes, selon le cas, ou d’une obligation à intérêt conditionnel, d’une obligation pour le développement de la petite entreprise ou d’une obligation pour la petite entreprise émise par une telle personne ou société de personnes;
-- **b)** soit de la partie des actions du capital-actions d’une société désignée ou d’une participation dans une société de personnes ou une fiducie, représentée par le rapport entre :
-	- **(i)** d’une part, la valeur globale pour l’année des avoirs dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire,
-	- **(ii)** d’autre part, la valeur globale pour l’année des biens dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire. (*equity property*)
-
-***avoir canadien*** S’entend :
-- **a)** soit d’une action du capital-actions d’une personne (sauf une société désignée) ou d’une société de personnes, selon le cas, qui réside au Canada ou d’une obligation à intérêt conditionnel, d’une obligation pour le développement de la petite entreprise ou d’une obligation pour la petite entreprise émise par une telle personne ou société de personnes;
-- **b)** soit de la partie des actions du capital-actions d’une société désignée ou d’une participation dans une société de personnes ou une fiducie, représentée par le rapport entre :
-	- **(i)** d’une part, la valeur globale pour l’année des avoirs canadiens dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire,
-	- **(ii)** d’autre part, la valeur globale pour l’année des biens dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire. (*Canadian equity property*)
-
-***bien d’entreprise canadien*** Est un bien d’entreprise canadien d’un assureur pour une année d’imposition relativement à une entreprise d’assurance :
-- **a)** le bien qu’il utilise ou détient pendant l’année dans le cadre de l’exploitation de l’entreprise au Canada, s’il a résidé au Canada tout au long de l’année sans exploiter d’entreprise d’assurance-vie au cours de l’année et sans exploiter d’entreprise d’assurance à l’étranger au cours de l’année;
-- **b)** le bien désigné en application du paragraphe 2400(1) pour l’année relativement à l’entreprise, dans les autres cas. (*Canadian business property*)
-
-***bien de placement*** d’un assureur pour une année d’imposition désigne un bien non réservé
-- **a)** qui est acquis par lui en vue de gagner des revenus bruts de placements, à l’exclusion
-	- **(i)** d’un bien dont une partie constitue un bien de placement conformément à l’alinéa b) ou c),
-	- **(ii)** d’une action d’une société désignée,
-	- **(iii)** d’une créance exigible par l’assureur d’une société désignée,
-	- **(iv)** d’un intérêt dans une société de personnes, ou
-	- **(v)** d’un intérêt dans une fiducie,
-- **b)** qui correspond à la proportion, s’il y a lieu, pour les biens suivants de l’assureur (à l’exclusion des biens de placement visés à l’alinéa c)) :
-	- **(i)** un fonds de terre,
-	- **(ii)** un bien amortissable, ou
-	- **(iii)** un bien qui aurait constitué un bien amortissable s’il avait été situé au Canada et utilisé ou détenu pendant l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada,
-de
-	- **(iv)** l’utilisation qui en est faite pendant l’année en vue d’en tirer des revenus bruts de placements
-par rapport à
-	- **(v)** l’utilisation totale des biens pendant l’année,
-- **c)** qui correspond à la proportion éventuelle des biens de l’assureur qui ne sont pas utilisés dans l’année en vue de gagner des revenus bruts de placements et qui sont :
-	- **(i)** soit des fonds de terre,
-	- **(ii)** soit des biens amortissables,
-	- **(iii)** soit des biens qui seraient des biens amortissables s’ils étaient situés au Canada et utilisés ou détenus dans l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada,
-dans la mesure où les biens sont détenus en vue de la revente ou de l’aménagement ou dans la mesure où on peut s’attendre à ce qu’ils soient utilisés au cours d’une année d’imposition ultérieure en vue de gagner des revenus bruts de placements, ou
-- **d)** qui est l’un des suivants :
-	- **(i)** une action d’une société désignée ou une créance exigible par l’assureur d’une telle société, autre qu’une société qui exploite une entreprise d’assurance ou une banque, qui agit comme fiduciaire pour le public ou dont la principale entreprise consiste à prêter de l’argent,
-	- **(ii)** un intérêt dans une société de personnes, ou
-	- **(iii)** un intérêt dans une fiducie,
-si
-	- **(iv)** la valeur globale, pour l’année, de tous les biens de placement de la société, de la société de personnes ou de la fiducie, selon le cas, représente au moins 75 pour cent de la valeur globale, pour l’année, de tous ses biens, et
-	- **(v)** les revenus bruts de placements pour l’année provenant des biens de placement visés au sous-alinéa (iv) (à l’exclusion des revenus bruts de placements versés par des personnes avec lesquelles la société, la société de personnes ou la fiducie, selon le cas, a un lien de dépendance) représentent au moins 90 pour cent des revenus bruts, pour l’année, de la société, de la société de personnes ou de la fiducie, selon le cas,
-en présumant, aux fins des sous-alinéas (iv) et (v), que la définition de ***revenus bruts de placements*** à l’alinéa 138(12)e) de la Loi et la présente définition s’appliquent à une société, à une société de personnes ou à une fiducie visée à ces sous-alinéas comme si ces dernières étaient des assureurs; (*investment property*)
-
-***bien de placement canadien*** d’un assureur pour une année d’imposition, s’entend d’un des biens de placement suivants, sauf s’il est un assureur non résidant et s’il établit que le bien n’est pas réellement rattaché à ses entreprises d’assurance au Canada :
-- **a)** un fonds de terre ou un bien amortissable situé au Canada (à cette fin, le bien amortissable d’un assureur qu’une personne qui réside au Canada loue en vue de son utilisation au Canada et à l’étranger est réputé être un bien amortissable situé au Canada);
-- **b)** un avoir canadien;
-- **c)** un avoir minier canadien;
-- **d)** une hypothèque, un contrat de vente ou une autre dette afférents à un bien visé à l’alinéa a);
-- **e)** un montant en monnaie canadienne porté au crédit de l’assureur au titre des montants déposés auprès d’une société qui réside au Canada et qui est autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire;
-- **f)** une obligation ou autre titre d’emprunt (à l’exception d’un bien visé à l’alinéa d) ou e)) libellé en monnaie canadienne et émis, selon le cas :
-	- **(i)** par une personne qui réside au Canada, par une société de personnes canadienne ou par une société de personnes dont les participations constituent un bien de placement visé à l’alinéa g),
-	- **(ii)** par le gouvernement du Canada,
-	- **(iii)** par le gouvernement d’une province du Canada,
-	- **(iv)** par une autre subdivision politique du Canada ou d’une province du Canada,
-- **g)** un bien (dans la mesure où il n’est pas visé à l’alinéa b)) qui est :
-	- **(i)** soit une action d’une société désignée qui réside au Canada,
-	- **(ii)** soit une participation dans une société de personnes,
-	- **(iii)** soit une participation dans une fiducie qui réside au Canada,
-à condition que les biens visés aux alinéas a) à f) comptent pour au moins 75 pour cent de la valeur globale, pour l’année, de tous les biens de la société, de la société de personnes ou de la fiducie, selon le cas. (*Canadian investment property*)
-
-***biens de l’assureur en voie d’aménagement***[Abrogée, DORS/90-661, art. 8]
-
-***excédent provenant d’assurance de biens et de risques divers*** d’un assureur, pour une année d’imposition, désigne la somme des montants suivants :
-- **a)** 15 pour cent de la moitié du total
-	- **(i)** de sa réserve pour primes non gagnées à la fin de l’année, et
-	- **(ii)** de sa réserve pour primes non gagnées à la fin de l’année d’imposition précédente,
-qui est déclaré à l’autorité compétente relativement à son entreprise d’assurance de biens et de risques divers,
-- **b)** 15 pour cent de la moitié du total
-	- **(i)** de sa provision pour réclamation non réglées et frais de règlement à la fin de l’année, et
-	- **(ii)** de sa provision pour réclamations non réglées et frais de règlement à la fin de l’année d’imposition précédente,
-qui est déclaré à l’autorité compétente relativement à son entreprise d’assurance de biens et de risques divers, et
-- **c)** la moitié du total
-	- **(i)** de sa réserve pour la valeur des placements à la fin de l’année, et
-	- **(ii)** de sa réserve pour la valeur des placements à la fin de l’année d’imposition précédente,
-qui est déclaré à l’autorité compétente relativement à son entreprise d’assurance de biens et de risques divers; (*property and casualty surplus*)
-
-***facteur d’excédent d’assurance-vie*** d’un assureur sur la vie non résidant, pour une année d’imposition, désigne,
-- **a)** sous réserve du paragraphe 2401(2), lorsque l’assureur fait un choix à l’égard de l’année conformément au paragraphe 2401(1), la fraction (exprimée en pourcentage) que représente
-	- **(i)** l’excédent, s’il y a lieu,
-		- **(A)** du montant qui aurait constitué son fonds de placement canadien pour l’année s’il avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada et qu’il n’avait exploité aucune entreprise d’assurance-vie autre qu’une entreprise d’assurance contre les accidents et la maladiesur
-		- **(B)** l’excédent éventuel de la moitié du total des montants suivants :
-			- **(I)** l’ensemble des montants visés aux sous-alinéas b)(i), (i.1), (ii), (iii) et (v) de la définition de ***fonds de placement canadien***, quant à un assureur non résidant à la fin de l’année,
-			- **(II)** l’ensemble de ces mêmes montants à la fin de l’année d’imposition précédente,sur la valeur globale pour l’année des biens non réservés de l’assureur, visés à l’alinéa 2400(1) e), au titre des entreprises d’assurance (sauf les entreprises de biens et de risques divers) qu’il exploite au Canada, à l’exclusion
-			- **(III)** d’une somme d’argent, ou
-			- **(IV)** d’un solde porté à son crédit au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à agir comme fiduciaire
-par rapport
-	- **(ii)** au montant calculé conformément à la disposition (i)(B),
-- **b)** lorsque l’assureur n’exerce pas le choix visé à l’alinéa a) pour l’année, mais
-	- **(i)** l’a exercé pour l’une des quatre années d’imposition précédentes, et
-	- **(ii)** n’a pas choisi, depuis le dernier choix visé au sous-alinéa (i), le pourcentage visé à l’alinéa c) comme son facteur d’excédent d’assurance-vie pour une année antérieure à l’année d’imposition,
-il peut choisir
-	- **(iii)** le pourcentage calculé conformément à l’alinéa a) à l’égard de la dernière année d’imposition ayant fait l’objet d’un choix, ou
-	- **(iv)** le pourcentage visé à l’alinéa c), et
-- **c)** dans tous les autres cas, 10 pour cent; (*life surplus factor*)
-
-***fonds de placement canadien***, à la fin d’une année d’imposition
-- **a)** d’un assureur sur la vie qui réside au Canada, correspond au montant positif calculé selon la formule suivante :
-```
-(A / B(C - D)) - E
-```
-où 
-- **A** représente le passif de réserve canadienne de l’assureur à la fin de l’année,
-- **B** le passif total de réserve de l’assureur à la fin de l’année,
-- **C** le total des montants suivants :
-- **(i)** l’ensemble des avances sur police et avances sur police étrangère consenties par l’assureur à la fin de l’année,
-- **(ii)** la valeur des biens de l’assureur à la fin de l’année qui constituent chacun :
-- **(A)** soit un bien de placement,
-- **(B)** soit une somme d’argent,
-- **(C)** soit un solde créditeur de l’assureur, à l’exception d’un bien visé à la division (A) ou (B), au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire,
-- **D** le total des montants suivants :
-- **(i)** l’ensemble des montants dont chacun représente un montant non remboursé à la fin de l’année sur une dette, à l’exception d’une dette visée à l’alinéa h) de la définition de ***valeur*** au présent paragraphe et d’un montant visé au sous-alinéa (ii), dont l’assureur est débiteur en raison d’un emprunt d’argent, sauf de l’argent qu’il a utilisé en vue de tirer un revenu d’une source qui n’est pas une entreprise d’assurance,
-- **(ii)** l’ensemble des montants dont chacun représente le montant d’un chèque en circulation à la fin de l’année et tiré sur un compte de l’assureur auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire,
-- **E** le total des avances sur police que l’assureur a consenties à la fin de l’année;
-- **b)** d’un assureur non résidant, désigne l’excédent, s’il y a lieu, du total des montants suivants :
-	- **(i)** sa réserve actuarielle maximale aux fins de l’impôt pour l’année,
-	- **(i.1)** le montant maximal que l’assureur a le droit de déduire pour l’année en application du sous-alinéa 138(3)a)(ii) de la Loi,
-	- **(ii)** le montant maximal qu’il a le droit de déduire en vertu de l’alinéa 20(7)c) de la Loi dans le calcul de son revenu pour l’année, déterminé en présumant qu’il n’exploitait pas une entreprise d’assurance-vie autre qu’une entreprise d’assurance contre la maladie et les accidents,
-	- **(iii)** le montant des participations de police, dans la mesure où elles ne sont pas incluses dans les montants visés au sous-alinéa (i) ou (ii), qui deviendront payables par l’assureur au cours de l’année suivante aux termes de ses polices d’assurance-vie avec participation, conformément soit au rapport annuel qu’il a produit auprès de l’autorité compétente pour l’année, soit à ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année,
-	- **(iv)** une obligation contractée (à l’exception d’une dette visée à l’alinéa h) de la définition de ***valeur*** au présent paragraphe) ou une réserve prévue (à l’exception de sa réserve pour la valeur des placements) dans le cadre de l’exploitation de son entreprise d’assurance de biens et de risques divers au Canada, qu’il a déclarée soit dans son rapport annuel à l’autorité compétente pour l’année, soit dans ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année, sauf dans la mesure où ces montants sont déjà inclus dans les montants visés au sous-alinéa (ii),
-	- **(v)** une dette (à l’exception d’une dette visée à l’alinéa h) de la définition de ***valeur*** au présent paragraphe) dont l’assureur est débiteur à cette date et qui a été contractée dans le cadre de l’exploitation d’une entreprise d’assurance au Canada, à l’exception d’une entreprise d’assurance de biens et de risques divers, sauf dans la mesure où ce montant est déjà inclus dans les montants visés au sous-alinéa (i), (i.1) ou (iii),
-	- **(vi)** le plus élevé des montants suivants :
-		- **(A)** l’excédent, s’il y a lieu, du total
-			- **(I)** de ses fonds excédentaires provenant des activités, calculés à la fin de l’année d’imposition précédente, et
-			- **(II)** du total des montants à l’égard desquels l’assureur a fait un choix en vertu du paragraphe 219(4) ou (5.2) de la Loi dont chacun représente un montant inclus dans le total des montants calculés à l’égard de l’assureur en vertu du sous-alinéa 219(4)a) i.1) de la Loi à la fin de l’année d’imposition précédentesur
-			- **(III)** le total des montants calculés à l’égard de l’assureur en vertu des sous-alinéas 219(4)a)(ii), (iii), (iv) et (v) de la Loi, à la fin de l’année d’imposition, et
-		- **(B)** le montant de son surplus attribué pour l’année,
-sur le total
-	- **(vii)** de la valeur globale des biens non réservés visés à l’alinéa 2400(1)e) à la fin de l’année au titre de l’ensemble des entreprises d’assurance que l’assureur exploite au Canada, à l’exception des biens suivants :
-		- **(A)** des sommes d’argent,
-		- **(B)** un solde créditeur de l’assureur au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire,
-	- **(viii)** du montant global de ses frais d’acquisition reportés à l’égard de son entreprise d’assurance de biens et de risques divers au Canada, qu’il a déclaré soit dans son rapport annuel à l’autorité compétente pour l’année, soit dans ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année; (*Canadian investment fund*)
-
-***fonds de placement canadien pour l’année*** S’entend du montant calculé à l’article 2412 pour une année d’imposition au titre d’un assureur sur la vie qui réside au Canada ou d’un assureur non résidant. (*Canadian Investment fund for the year*)
-
-***montant moyen en dépôt*** auprès d’un assureur pour une année d’imposition, à l’égard de polices d’assurance-vie, désigne la moitié du total
-- **a)** de tous les montants en dépôt auprès de lui à la fin de l’année à l’égard de ces polices, et
-- **b)** de tous les montants en dépôt auprès de lui à la fin de l’année d’imposition précédente à l’égard de ces polices; (*mean amount on deposit*)
-
-***moyenne des avances sur police*** d’un assureur pour une année d’imposition correspond à la moitié du total des montants suivants :
-- **a)** les avances sur police consenties par l’assureur à la fin de l’année;
-- **b)** les avances sur police consenties par l’assureur à la fin de l’année d’imposition précédente. (*mean policy loans*)
-
-***moyenne des avances sur police et avances sur police étrangère*** d’un assureur pour une année d’imposition correspond à la moitié du total des montants suivants :
-- **a)** les avances sur police et avances sur police étrangère consenties par l’assureur à la fin de l’année;
-- **b)** les avances sur police et avances sur police étrangère consenties par l’assureur à la fin de l’année d’imposition précédente. (*mean policy loans and foreign policy loans*)
-
-***moyenne du passif de réserve canadienne*** d’un assureur pour une année d’imposition désigne la moitié du total
-- **a)** de son passif de réserve canadienne à la fin de l’année, et
-- **b)** de son passif de réserve canadienne à la fin de l’année d’imposition précédente; (*mean Canadian reserve liabilities*)
-
-***moyenne du passif total de réserve*** d’un assureur pour une année d’imposition désigne la moitié du total
-- **a)** du passif total de réserve de l’assureur à la fin de l’année, et
-- **b)** du passif total de réserve de l’assureur à la fin de l’année d’imposition précédente; (*mean total reserve liabilities*)
-
-***passif de réserve canadienne*** d’un assureur à la fin d’une année d’imposition, s’entend du montant global de son passif et de ses réserves, à l’exclusion des montants payables sur les fonds réservés, au titre de ses polices d’assurance au Canada, calculé à la fin de l’année pour les besoins de l’autorité compétente ou qui le serait si cette dernière l’exigeait. (*Canadian reserve liabilities*)
-
-***passif total de réserve*** d’un assureur, à la fin d’une année d’imposition, désigne le montant total de son passif et de ses réserves (à l’exclusion des montants payables sur des fonds réservés) à l’égard de toutes ses polices d’assurance, qui est calculé à la fin de l’année pour les besoins de l’autorité compétente; (*total reserve liabilities*)
-
-***plafond des avoirs d’assurance-vie*** d’un assureur sur la vie non résidant pour une année d’imposition, désigne
-- **a)** lorsque l’assureur exerce un choix à l’égard de son facteur d’excédent d’assurance-vie pour l’année conformément au paragraphe 2401(1), le montant qui aurait constitué le plafond de ses avoirs pour l’année s’il avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada et qu’il n’avait exploité aucune entreprise d’assurance-vie autre qu’une entreprise d’assurance contre la maladie et les accidents,
-- **b)** lorsque l’assureur n’exerce pas le choix visé à l’alinéa a) pour l’année, mais
-	- **(i)** l’a exercé pour l’une des quatre années d’imposition précédentes, et
-	- **(ii)** que son facteur d’excédent d’assurance-vie pour l’année n’est pas calculé conformément à l’alinéa c) de la définition de ***facteur d’excédent d’assurance-vie*** au présent paragraphe,
-le montant qui aurait constitué le plafond de ses avoirs pour l’année s’il avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada et qu’il n’avait exploité aucune entreprise d’assurance-vie autre qu’une entreprise d’assurance contre les accidents et la maladie, qui est égal au montant du dernier choix exercé pour une année d’imposition, calculé conformément au sous-alinéa a)(i) de la définition, au présent paragraphe, du « plafond des avoirs pour l’année », et
-- **c)** dans les autres cas, le montant correspondant à 8 pour cent du fonds de placement canadien pour l’année de l’assureur; (*Life equity limit*)
-
-***plafond des avoirs pour l’année*** S’entend des montants suivants pour une année d’imposition :
-- **a)** en ce qui concerne un assureur sur la vie qui réside au Canada, le plus élevé des montants suivants :
-	- **(i)** le produit de la valeur globale pour l’année de ses avoirs par le rapport entre :
-		- **(A)** d’une part, l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur sur le total de la moyenne des avances sur police consenties par celui-ci pour l’année et de la moitié du total des primes impayées de l’assureur au titre de ses entreprises d’assurance au Canada, calculé pour les besoins de l’autorité compétente à la fin de l’année et de l’année d’imposition précédente,
-		- **(B)** d’autre part, l’excédent éventuel de la moyenne du passif total de réserve de l’assureur sur le total de la moyenne des avances sur police et avances sur police étrangère consenties par celui-ci pour l’année et de la moitié du total des primes impayées de l’assureur au titre de ses entreprises d’assurance au Canada, calculé pour les besoins de l’autorité compétente à la fin de l’année et de l’année d’imposition précédente,
-	- **(ii)** le montant correspondant à 8 pour cent de son fonds de placement canadien pour l’année;
-- **b)** en ce qui concerne un assureur non résidant, à l’exception d’un assureur sur la vie, le quart du total des montants suivants :
-	- **(i)** l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur sur la moitié du total, pour l’assureur, des frais d’acquisition reportés et des primes à recevoir à la fin de l’année et de l’année précédente, dans la mesure où ces frais et primes sont inclus dans le passif de réserve canadienne de l’assureur pour ces années au titre de son entreprise au Canada, calculé pour les besoins de l’autorité compétente,
-	- **(ii)** l’excédent provenant d’assurance de biens et de risques divers de l’assureur pour l’année;
-- **c)** en ce qui concerne un assureur sur la vie non résidant, le total des montants suivants :
-	- **(i)** le plafond des avoirs d’assurance-vie de l’assureur pour l’année,
-	- **(ii)** le quart du total des montants suivants :
-		- **(A)** l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année sur la moitié du total, pour l’assureur, des frais d’acquisition reportés et des primes à recevoir à la fin de l’année et de l’année précédente au titre de son entreprise au Canada, calculé pour les besoins de l’autorité compétente, dans la mesure où ces frais et primes sont inclus dans le passif de réserve canadienne de l’assureur pour ces années (calculé en supposant que la seule entreprise d’assurance que l’assureur exploite au Canada est une entreprise d’assurance de biens et de risques divers),
-		- **(B)** l’excédent provenant d’assurance de biens et de risques divers de l’assureur pour l’année. (*equity limit for the year*)
-
-***police d’assurance au Canada*** d’un assureur désigne,
-- **a)** dans le cas d’une police d’assurance-vie, une police d’assurance-vie au Canada,
-- **b)** dans le cas d’une police d’assurance-incendie, une police émise ou souscrite sur des biens situés au Canada, et
-- **c)** dans le cas de toute autre catégorie de police d’assurance, une police émise ou souscrite pour assurer contre des risques qui existaient ordinairement au Canada à la date où la police a été émise ou souscrite; (*insurance policy in Canada*)
-
-***réserve actuarielle maximale moyenne aux fins de l’impôt***, à l’égard d’une catégorie particulière de polices d’assurance-vie d’un assureur pour une année d’imposition, désigne la moitié du total
-- **a)** de sa réserve actuarielle maximale aux fins de l’impôt à l’égard de cette catégorie de polices pour l’année, et
-- **b)** de sa réserve actuarielle maximale aux fins de l’impôt à l’égard de cette catégorie de polices pour l’année d’imposition précédente; (*mean maximum tax actuarial reserve*)
-
-***revenus bruts de placements en assurance-vie au Canada*** d’un assureur sur la vie pour une année d’imposition, s’entend de l’excédent éventuel du total des montants suivants :
-- **a)** ses revenus bruts de placements pour l’année, dans la mesure où ils proviennent de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
-- **b)** le montant inclus en application de l’alinéa 138(9)b) de la Loi dans le calcul de son revenu pour l’année,
-- **c)** [Abrogé, DORS/2009-222, art. 3]
-- **d)** la partie de la somme déduite en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente au titre de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
-- **d.1)** le total des sommes représentant chacune une somme incluse en application de l’article 142.4 de la Loi dans son revenu pour l’année au titre d’un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, faisait partie de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
-- **e)** le total des sommes représentant chacune son gain pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation et d’un bien auquel s’applique l’article 142.4 de la Loi,
-- **f)** le total des sommes représentant chacune son gain en capital imposable pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
-- **g) et h) ** [Abrogés, DORS/2009-222, art. 3]
-
-sur le total des montants suivants :
-- **i)** la partie de la somme déduite en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année relativement à des titres de créance qui font partie de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
-- **i.1)** le total des sommes représentant chacune une somme déductible en application de l’article 142.4 de la Loi dans le calcul de son revenu pour l’année relativement à un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, faisait partie de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
-- **j)** le total des sommes représentant chacune sa perte pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation et d’un bien auquel s’applique l’article 142.4 de la Loi,
-- **k)** le total des sommes représentant chacune sa perte en capital déductible pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie. (*gross Canadian life investment income*)
-
-***société désignée*** S’entend, en ce qui concerne un assureur à un moment d’une année d’imposition, d’une société dans laquelle l’assureur ou l’assureur et des personnes ou sociétés de personnes avec lesquelles il a un lien de dépendance détiennent, à un moment de l’année, des actions qui représentent au moins 30 pour cent des actions ordinaires de la société en circulation à ce moment. (*designated corporation*)
-
-***surplus attribué pour l’année*** d’un assureur non résidant désigne, pour une année d’imposition donnée, le total
-- **a)** de l’excédent provenant d’assurance de biens et de risques divers pour l’année, et
-- **b)** du montant égal au pourcentage (c’est-à-dire le facteur d’excédent d’assurance-vie pour l’année) du montant pour l’année calculé conformément à la disposition a)(i)(B) de la définition de ***facteur d’excédent d’assurance-vie*** au présent paragraphe; (*attributed surplus for the year*)
-
-***valeur*** à l’égard des biens d’un assureur ou d’une société désignée, d’une société de personnes ou d’une fiducie (appelés dans la présente définition ***propriétaire*** à une date donnée, désigne,
-- **a)** dans le cas d’un fonds de terre, le coût pour le propriétaire,
-- **b)** dans le cas de biens amortissables d’une catégorie prescrite (autres que les biens visés à l’alinéa f)), la proportion du coût en capital non amorti à cette date, pour le propriétaire, des biens de cette catégorie que représente
-	- **(i)** le coût en capital des biens pour le propriétaire
-par rapport
-	- **(ii)** au coût en capital de tous les biens de cette catégorie pour lui,
-- **c)** dans le cas de biens qui auraient constitué des biens amortissables d’une catégorie prescrite s’ils avaient été situés au Canada et utilisés ou détenus pendant l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada, l’excédent, s’il y a lieu
-	- **(i)** du coût en capital des biens pour le propriétaire,
-sur
-	- **(ii)** le montant qui aurait constitué l’amortissement total accordé au propriétaire avant la date donnée à l’égard des biens, si les biens avaient été les seuls biens amortissables du propriétaire dans cette catégorie et que celui-ci avait demandé la déduction maximale permise en vertu de l’alinéa 20(1)a) de la Loi à l’égard des biens de cette catégorie pour chaque année où il en était le propriétaire,
-- **d)** dans le cas d’une action d’une société (autre qu’une société désignée), son coût pour le propriétaire,
-- **e)** dans le cas d’une obligation, d’une débenture, d’un *mortgage*, d’une hypothèque ou d’un contrat de vente (à l’exclusion d’un bien visé à l’alinéa f)), sa valeur comptable inscrite dans les registres du propriétaire, qui a été calculée pour les besoins de l’autorité compétente ou qui l’aurait été si le propriétaire avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada,
-- **e.1)** dans le cas d’un solde créditeur du propriétaire au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire, le montant de ce solde,
-- **f)** dans le cas de biens acquis et ayant fait l’objet d’une aliénation pendant une année d’imposition, leur coût pour le propriétaire, et
-- **g)** dans le cas de biens (à l’exclusion des biens visés aux alinéas a) à f)), la valeur maximale des biens qui a été calculée pour les besoins de l’autorité compétente ou qui l’aurait été si le propriétaire avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada,
-
-moins
-- **h)** dans le cas d’un bien visé à l’un des alinéas a) à g), le montant de toute dette contractée ou assumée par le propriétaire pour acquérir ce bien et qui est due par lui à une date donnée; (*valuation*)
-
-***valeur pour l’année*** des biens d’un assureur ou d’une société désignée, d’une société de personnes ou d’une fiducie (appelé dans la présente définition ***propriétaire***) pour une année d’imposition désigne,
-- **a)** dans le cas d’un bien qui est un *mortgage*, une hypothèque, un contrat de vente ou un bien de placement qui constitue un solde créditeur de l’assureur au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de services de fiduciaire, l’excédent éventuel du quotient visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
-	- **(i)** le quotient obtenu lorsque le montant des revenus bruts de placements pour l’année provenant du bien est divisé par le taux annuel moyen (exprimé en fraction) des intérêts gagnés par le propriétaire sur le coût amorti du bien au cours de l’année,
-	- **(ii)** le quotient obtenu lorsque le montant des intérêts payés ou payables pour l’année sur une dette contractée en vue d’acquérir le bien est divisé par le taux annuel moyen (exprimé en fraction) des intérêts payés ou payables par le propriétaire sur la dette pour l’année,
-- **b)** dans le cas d’un bien (à l’exclusion d’un bien visé à l’alinéa a)) qui n’a pas appartenu au propriétaire durant toute l’année, la proportion
-	- **(i)** de la valeur du bien à la fin de l’année d’imposition précédente, s’il appartenait au propriétaire à cette date, et
-	- **(ii)** de la valeur du bien, s’il a été acquis par le propriétaire pendant l’année d’imposition,
-que représente
-	- **(iii)** le nombre de jours dans l’année d’imposition au cours desquels le bien peut raisonnablement être réputé avoir appartenu au propriétaire
-par rapport
-	- **(iv)** au nombre total de jours de l’année d’imposition, et
-- **c)** dans le cas d’un bien (à l’exclusion d’un bien visé à l’alinéa a) ou b)), la moitié du total
-	- **(i)** de la valeur du bien à la fin de l’année, et
-	- **(ii)** de la valeur du bien à la fin de l’année d’imposition précédente. (*value for the year*)
-
-- **(4)** Aux fins de la définition, au paragraphe (3), de ***fonds de placement canadien*** d’un assureur sur la vie résidant au Canada, et nonobstant les définitions de ***passif de réserve canadienne*** et ***total du passif de réserve*** au même paragraphe, l’assureur doit déterminer son passif et ses réserves à l’égard de ses polices d’assurance hors du Canada selon une méthode compatible avec celle qu’il a utilisée pour déterminer son passif et ses réserves à l’égard de ses polices d’assurance au Canada.
-
-- **(5)** Pour l’application du paragraphe (3), le coût d’un bien est déterminé compte non tenu du paragraphe 142.5(2) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-89, art. 1; DORS/79-670, art. 4; DORS/80-419, art. 4; DORS/80-618, art. 6; DORS/81-632, art. 2; DORS/90-661, art. 8; DORS/92-681, art. 3; DORS/94-686, art. 55(F), 62, 69(F), 78(F) et 79(F); DORS/2009-222, art. 3.
-
-
-
-
-**2406** Les articles 2404 et 2405 ne s’appliquent pas aux années d’imposition 1999 et suivantes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/94-686, art. 55(F); DORS/2000-413, art. 4.
-
-
-
-
-
-### Excédent de la déduction au titre de dividendes sur polices en 1977
-
-
-**2407** Aux fins de l’alinéa 138(3.1)b) de la Loi, l’excédent de la déduction au titre de participations de police d’un assureur sur la vie en 1977 est réputé être le moins élevé des montants suivants :
-- **a)** l’excédent, s’il y a lieu,
-	- **(i)** du montant calculé conformément à la disposition 138(3)a)(iii)(A) de la Loi pour son année d’imposition 1977 (sans égard à l’alinéa 138(3.1)b) de la Loi),
-sur
-	- **(ii)** le montant calculé conformément à la disposition 138(3)a)(iii)(B) de la Loi pour son année d’imposition 1977; et
-- **b)** l’excédent, s’il y a lieu,
-	- **(i)** de sa réserve actuarielle maximale aux fins de l’impôt à l’égard de ses polices d’assurance-vie avec participation au Canada pour son année d’imposition 1977,
-sur la somme des montants suivants :
-	- **(ii)** le montant qui aurait constitué sa réserve actuarielle maximale aux fins de l’impôt à l’égard de ses polices d’assurance-vie avec participation au Canada pour son année d’imposition 1977 si cette réserve avait été calculée selon les règles applicables à son année d’imposition 1978,
-	- **(iii)** le total des montants qui lui sont payables à l’égard d’avances sur polices impayées à la fin de son année d’imposition 1977 pour des polices d’assurance-vie avec participation au Canada, et
-	- **(iv)** l’excédent, s’il y a lieu,
-		- **(A)** de sa réserve actuarielle maximale aux fins de l’impôt à l’égard de ses polices d’assurance-vie avec participation au Canada pour son année d’imposition 1968,sur le total
-		- **(B)** du montant qui aurait constitué sa réserve actuarielle maximale aux fins de l’impôt à l’égard de ses polices d’assurance-vie avec participation au Canada pour son année d’imposition 1968 si cette réserve avait été déterminée selon les règles applicables à son année d’imposition 1978, et
-		- **(C)** de tous les montants payables à l’assureur à l’égard d’avances sur polices impayées à la fin de son année d’imposition 1968 pour des polices d’assurance-vie avec participation au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F).
-
-
-
-
-
-### Déduction reportée pour 1977
-
-
-**2408** Aux fins du sous-alinéa 138(4.2)a)(iv) de la Loi, le montant de la déduction reportée, pour 1977, d’un assureur sur la vie est prescrit comme étant l’excédent, s’il y a lieu,
-- **a)** de la somme des montants suivants :
-	- **(i)** le total des montants calculés conformément à l’alinéa 13(23)b) de la Loi à l’égard de biens d’une catégorie prescrite de l’assureur,
-	- **(ii)** le total des montants, s’il en est, qui constituent une perte autre qu’en capital de l’assureur pour une année d’imposition se terminant après 1972 et avant 1978, que l’assureur aurait pu déduire dans le calcul de son revenu imposable pour une année d’imposition se terminant après 1977 si la Loi était appliquée en faisant abstraction du paragraphe 111(7.2),
-	- **(iii)** l’excédent de la déduction au titre de participations de police de l’assureur en 1977 (au sens que donne à cette expression l’article 2407),
-	- **(iv)** le montant calculé conformément au sous-alinéa 138(4.2)b)(ii) de la Loi à l’égard de l’assureur,
-	- **(v)** le montant calculé conformément au sous-alinéa 138(4.2)c)(ii) de la Loi à l’égard de l’assureur,
-	- **(vi)** l’excédent, s’il y a lieu,
-		- **(A)** du total des réserves actuarielles maximales de l’assureur aux fins de l’impôt pour son année d’imposition 1977,sur
-		- **(B)** le total des montants que l’assureur a déduits pour son année d’imposition 1977 en vertu du sous-alinéa 138(3)a)(i) de la Loi, et
-	- **(vii)** l’excédent, s’il y a lieu,
-		- **(A)** du montant maximal que l’assureur peut déduire pour son année d’imposition 1977 en vertu du sous-alinéa 138(3)a)(ii) de la Loi,sur
-		- **(B)** le montant que l’assureur a déduit pour son année d’imposition 1977 en vertu du sous-alinéa 138(3)a)(ii) de la Loi,sur
-- **b)** l’excédent, s’il en est, du total
-	- **(i)** du moins élevé des montants suivants :
-		- **(A)** le déficit accumulé de l’assureur pour 1968, ou
-		- **(B)** le montant, s’il en est, calculé conformément au sous-alinéa (vi),
-	- **(ii)** du total des réserves actuarielles maximales de l’assureur aux fins de l’impôt pour son année d’imposition 1977, à l’exclusion de la totalité ou d’une fraction des réserves à l’égard de polices à fonds réservé, et
-	- **(iii)** du montant maximal que l’assureur peut déduire pour son année d’imposition 1977 en vertu du sous-alinéa 138(3)a)(ii) de la Loi,
-sur le total
-	- **(iv)** du total des montants qui auraient constitué les réserves actuarielles maximales de l’assureur aux fins de l’impôt pour son année d’imposition 1977, si ces réserves avaient été calculée selon les règles applicables à son année d’imposition 1978,
-	- **(v)** de tous les montants payables à l’assureur à l’égard d’avances sur polices impayées à la fin de son année d’imposition 1977, et
-	- **(vi)** de l’excédent, s’il en est,
-		- **(A)** du total des réserves actuarielles maximales de l’assureur aux fins de l’impôt pour son année d’imposition 1968, à l’exclusion de la totalité ou d’une fraction des réserves à l’égard de polices à fonds réservé,sur la somme des montants suivants :
-		- **(B)** le total des montants qui auraient constitué les réserves actuarielles maximales de l’assureur aux fins de l’impôt pour son année d’imposition 1968, si ces réserves avaient été calculées selon les règles applicables à son année d’imposition 1978, et
-		- **(C)** le total des montants payables à l’assureur à l’égard d’avances sur polices impayées à la fin de son année d’imposition 1968.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/80-163, art. 1; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F).
-
-
-
-
-
-### Dispositions transitoires
-
-
-**2409** 
-
-- **(1)** Aux fins de la présente partie et à moins d’indication contraire, lorsque l’expression « année d’imposition précédente » désigne l’année d’imposition 1977 d’un assureur, il faut interpréter la présente partie comme si les définitions qui y sont données s’appliquaient à l’année d’imposition 1977 de l’assureur.
-
-- **(2)** Aux fins de l’application des dispositions de l’alinéa 2400(1)c) à l’année d’imposition 1978 d’un assureur qui était assujetti aux dispositions du paragraphe 138(9) de la Loi à l’égard de son année d’imposition 1977, les règles suivantes s’appliquent :
-	- **a)** la présente partie doit être interprétée comme si les définitions qui y sont données s’appliquaient à l’année d’imposition 1977 de l’assureur;
-	- **b)** la partie des avoirs canadiens appartenant à l’assureur à la fin de son année d’imposition 1977 que l’assureur désigne, à l’égard d’une entreprise donnée, dans la déclaration de revenu qu’il est tenu de produire en vertu du paragraphe 150(1) de la Loi pour l’année d’imposition 1978, est réputée constituer des biens de placement de l’année antérieure de l’entreprise donnée; cependant la valeur globale, à la fin de l’année d’imposition 1977 de l’assureur, des avoirs canadiens désignés à l’égard de toutes ses entreprises d’assurance exploitées au Canada ne doit pas dépasser
-		- **(i)** dans le cas d’un assureur sur la vie résidant au Canada, ou d’un assureur sur la vie non résidant qui a exercé un choix en vertu du paragraphe 2401(1) à l’égard de son année d’imposition 1978, la proportion
-			- **(A)** de son fonds de placement canadien à la fin de son année d’imposition 1977 (calculé selon des règles applicables à son année d’imposition 1978)que représente
-			- **(B)** la valeur globale de ses avoirs à la fin de son année d’imposition 1977par rapport à
-			- **(C)** la valeur globale de ses biens de placement à cette date,
-		- **(ii)** dans le cas d’un assureur sur la vie non résidant autre qu’un assureur visé au sous-alinéa (i), huit pour cent de son fonds de placement canadien à la fin de son année d’imposition 1977 (calculé selon les règles applicables à son année d’imposition 1978), et
-		- **(iii)** dans les autres cas, 25 pour cent de son fonds de placement canadien à la fin de son année d’imposition 1977 (calculé selon les règles applicables à son année d’imposition 1978);
-	- **c)** lorsque l’assureur a exercé un choix en vertu du paragraphe 138(9) de la Loi à l’égard de son année d’imposition 1977, les biens de placement (autres que des avoirs canadiens) qui appartenaient à l’assureur à la fin de son année d’imposition 1977 et qui avaient été désignés à l’égard d’une entreprise d’assurance donnée par l’assureur dans sa déclaration de revenu pour l’année d’imposition 1977, conformément à l’alinéa 138(12)l) de la Loi tel qu’il s’appliquait à cette année, sont réputés être des biens d’assurance de l’entreprise d’assurance donnée pour l’année d’imposition 1977;
-	- **d)** lorsque l’assureur n’a pas exercé le choix visé à l’alinéa c) et n’a exploité qu’une seule entreprise d’assurance au Canada au cours de son année d’imposition 1977, les biens de placement (autres que des avoirs canadiens) qui appartenaient à l’assureur à la fin de son année d’imposition 1977 et qui sont des actifs canadiens spécifiés de l’assureur au sens du paragraphe 2405(1) tel qu’il s’appliquait à l’année d’imposition 1977, sont réputés être des biens d’assurance de cette entreprise d’assurance pour l’année d’imposition 1977; et
-	- **e)** lorsque l’assureur n’a pas exercé le choix visé à l’alinéa c) et a exploité une entreprise d’assurance autre qu’une entreprise d’assurance-vie au Canada et une entreprise d’assurance-vie au Canada au cours de son année d’imposition 1977, les biens de placement (autres que des avoirs canadiens) qui appartenaient à l’assureur à la fin de son année d’imposition 1977 et qui sont chacun un actif canadien spécifié de l’assureur au sens du paragraphe 2405(1) tel qu’il s’appliquait à l’année d’impositon 1977, dont la valeur globale, pour l’année, à l’égard de l’année d’imposition 1978 de l’assureur est égale à l’excédent, si excédent il y a,
-		- **(i)** de la moyenne du passif de réserve canadienne de l’assureur pour son année d’imposition 1978 à l’égard de son entreprise d’assurance autre qu’une entreprise d’assurance-vie
-qui est en sus
-		- **(ii)** de la valeur globale, pour l’année, à l’égard de l’année d’imposition 1978 de l’assureur de ses biens d’assurance de son entreprise d’assurance autre qu’une entreprise d’assurance-vie ainsi déterminée aux fins de la disposition 2400(1)c)(ii)(C),
-les biens de placement sont réputés être des biens d’assurance de l’entreprise d’assurance autre qu’une entreprise d’assurance-vie pour l’année d’imposition 1977 et tout autre bien de placement qui est un actif canadien spécifié de l’assureur est réputé être un bien d’assurance de l’entreprise d’assurance-vie pour l’année d’imposition 1977.
-
-- **(3)** Aux fins de l’application des dispositions de l’article 2402 à l’année d’imposition 1978 d’un assureur sur la vie, les règles suivantes s’appliquent :
-	- **a)** aux fins des sous-alinéas 2402a)(i) et b)(ii), la réserve actuarielle maximale de l’assureur aux fins de l’impôt pour son année d’imposition 1977 à l’égard de polices d’assurance-vie avec participation au Canada est réputée être le montant visé au sous-alinéa 2407b)(ii);
-	- **b)** aux fins de la disposition 2402a)(ii)(A), la réserve actuarielle maximale de l’assureur aux fins de l’impôt pour son année d’imposition 1977 à l’égard d’une catégorie de polices d’assurance-vie au Canada est réputée avoir été calculée selon les règles applicables à son année d’imposition 1978; et
-	- **c)** aux fins du sous-alinéa 2402b)(i), le montant que l’assureur a déduit en vertu du sous-alinéa 138(3)a)(iv) de la Loi dans le calcul de son revenu pour l’année d’imposition 1977 est réputé être le montant total calculé conformément à l’alinéa 138(4.2)b) de la Loi à l’égard de l’assureur.
-
-- **(4)** Sauf disposition contraire prévue à la présente partie, lorsque les mots « année d’imposition précédente » désignent — ailleurs qu’à l’article 2402 — l’année d’imposition 1987 d’un assureur, les définitions prévue à la présente partie s’appliquent à l’année d’imposition 1987 de l’assureur.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/80-419, art. 5; DORS/90-661, art. 9.
+
+
+
+**2405** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-89, art. 1; DORS/79-670, art. 4; DORS/80-419, art. 4; DORS/80-618, art. 6; DORS/81-632, art. 2; DORS/90-661, art. 8; DORS/92-681, art. 3; DORS/94-686, art. 55(F), 62, 69(F), 78(F) et 79(F); DORS/2009-222, art. 3; 2013, ch. 34, art. 392.
+
+
+
+
+**2406** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/94-686, art. 55(F); DORS/2000-413, art. 4; 2013, ch. 34, art. 392.
+
+
+
+
+**2407** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F); 2013, ch. 34, art. 392.
+
+
+
+
+**2408** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/80-163, art. 1; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F); 2013, ch. 34, art. 392.
+
+
+
+
+**2409** [Abrogé, 2013, ch. 34, art. 392]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/80-419, art. 5; DORS/90-661, art. 9; 2013, ch. 34, art. 392.
 
 
 
@@ -8844,16 +8508,18 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 	- **b)** le numéro d’enregistrement attribué par le ministre à l’organisation;
 	- **c)** le numéro de série du reçu;
 	- **d)** le lieu ou l’endroit où le reçu a été délivré;
-	- **e)** lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
-	- **e.1)** lorsque le don est un don de biens autres que des espèces
-		- **(i)** le jour où le don a été reçu,
+	- **e)** lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+	- **e.1)** lorsque le don est un don de biens autres que des espèces :
+		- **(i)** la date où il a été reçu,
 		- **(ii)** une brève description du bien, et
 		- **(iii)** le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
-	- **f)** le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa e) ou e.1);
-	- **g)** le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
-	- **h)** le montant qui correspond
-		- **(i)** au montant du don en espèces, ou
-		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+	- **f)** la date de délivrance du reçu;
+	- **g)** le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+	- **h)** celle des sommes ci-après qui est applicable :
+		- **(i)** le montant du don en espèces,
+		- **(ii)** lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+	- **h.1)** une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+	- **h.2)** le montant admissible du don;
 	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
 	- **j)** le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
 
@@ -8861,16 +8527,18 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 	- **a)** le nom et l’adresse de l’autre bénéficiaire d’un don;
 	- **b)** le numéro de série du reçu;
 	- **c)** le lieu ou l’endroit où le reçu a été délivré;
-	- **d)** lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
-	- **e)** lorsque le don est un don de biens autres que des espèces,
-		- **(i)** le jour où le don a été reçu,
+	- **d)** lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+	- **e)** lorsque le don est un don de biens autres que des espèces :
+		- **(i)** la date où il a été reçu,
 		- **(ii)** une brève description du bien, et
 		- **(iii)** le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
-	- **f)** le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa d) ou e);
-	- **g)** le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initial;
-	- **h)** le montant qui correspond
-		- **(i)** au montant du don en espèces, ou
-		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+	- **f)** la date de délivrance du reçu;
+	- **g)** le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+	- **h)** celle des sommes ci-après qui est applicable :
+		- **(i)** le montant du don en espèces,
+		- **(ii)** lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+	- **h.1)** une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+	- **h.2)** le montant admissible du don;
 	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3.1), d’un particulier responsable qui a été autorisé par l’autre bénéficiaire d’un don à accuser réception des dons;
 	- **j)** le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
 
@@ -8892,12 +8560,12 @@ les reçus officiels peuvent porter une signature autographiée.
 
 - **(5)** Une formule de reçu officiel qui est gâchée doit porter l’inscription « annulée » et cette formule ainsi que son duplicata doivent être conservés par l’organisation enregistrée ou par l’autre bénéficiaire d’un don en tant que partie de ses registres.
 
-- **(6)** Toute formule de reçu officiel sur laquelle
-	- **a)** le jour auquel le don a été reçu,
-	- **b)** l’année dans laquelle le don a été reçu, ou
-	- **c)** le montant du don,
-a été inscrit de façon inexacte ou illisible doit être considérée comme gâchée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 3; DORS/2007-74, art. 1.
+- **(6)** Tout formulaire de reçu officiel sur lequel un ou plusieurs des renseignements ci-après sont inscrits de façon incorrecte ou illisible est considéré comme inutilisable :
+	- **a)** la date de réception du don;
+	- **b)** le montant du don, dans le cas d’un don en espèces;
+	- **c)** une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+	- **d)** le montant admissible du don.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 3; DORS/2007-74, art. 1; 2013, ch. 34, art. 393.
 
 
 
@@ -8949,11 +8617,11 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 ### Donataires prescrits
 
 
-**3504** Les organismes ci-après sont des donataires visés pour l’application des alinéas 110.1(3)b) et 118.1(6)b) de la Loi :
-- **a)** Friends of the Nature Conservancy of Canada, Inc., organisme de bienfaisance établi aux États-Unis;
-- **b)** The Nature Conservancy, organisme de bienfaisance établi aux États-Unis;
-- **c)** American Friends of Canadian Land Trusts.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F); DORS/2007-74, art. 2; DORS/2010-197, art. 1.
+**3504** Les organismes ci-après sont des donataires visés pour l’application des sous-alinéas 110.1(2.1)a)(ii) et 118.1(5.4)a)(ii) de la Loi :
+- **a)** *Friends of the Nature Conservancy of Canada, Inc.*, organisme de bienfaisance établi aux États-Unis;
+- **b)** *The Nature Conservancy*, organisme de bienfaisance établi aux États-Unis;
+- **c)** *American Friends of Canadian Land Trusts*.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F); DORS/2007-74, art. 2; DORS/2010-197, art. 1; 2013, ch. 34, art. 394.
 
 
 
@@ -9300,13 +8968,13 @@ où :
 	- **h)** des biens compris à l’alinéa n) de la catégorie 10, ou dans la catégorie 15, de l’annexe II (à l’exclusion d’une chaussée);
 	- **i)** des biens compris aux alinéas a) à f) de la catégorie 9 de l’annexe II;
 	- **j)** des biens compris dans la catégorie 28 de l’annexe II, visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de cette annexe ou compris dans la catégorie 41.1 de cette annexe qui, en l’absence de ces catégories, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
-	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45 et 46 de l’annexe II;
+	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50 ou 52 de l’annexe II;
 	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
 	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie;
 	- **n)** des biens compris dans la catégorie 43.2 de l’annexe II par l’effet de son alinéa a).
 
 - **(3)** Sont des biens pour la production et l’économie d’énergie visés pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable, sauf ceux visés aux paragraphes (1) et (2), qui sont visés au sous-alinéa a.1)(i) de la catégorie 17 de l’annexe II ou compris dans les catégories 43.1, 43.2 ou 48 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5; 2012, ch. 31, art. 66.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5; 2012, ch. 31, art. 66; 2013, ch. 34, art. 395.
 
 
 
@@ -9609,17 +9277,17 @@ dépasse 5 000 000 $, tous les contribuables qui les ont engagées ou en fa
 
 **4800** 
 
-- **(1)** Pour l’application du sous-alinéa b)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi, les conditions suivantes doivent être remplies à l’égard d’une société, sauf une société coopérative (au sens de l’article 136 de la Loi) ou une caisse de crédit :
-	- **a)** une catégorie d’actions du capital-actions de la société désignée par la société dans son option ou par le ministre dans son avis à la société, selon le cas, doit être admissible à une répartition dans le public;
+- **(1)** Pour l’application du sous-alinéa b)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi, les conditions suivantes doivent être remplies à l’égard d’une société, sauf une société coopérative (au sens de l’article 136 de la Loi) ou une caisse de crédit :
+	- **a)** une catégorie d’actions du capital-actions de la société désignée par la société dans son choix ou par le ministre dans son avis à la société, selon le cas, doit pouvoir faire l’objet d’un appel public à l’épargne;
 	- **b)** il ne doit pas y avoir moins de
 		- **(i)** lorsque les actions de cette catégorie sont des actions à revenu variable, 150, et
 		- **(ii)** dans tout autre cas, 300
 personnes, autres que les dirigeants de la société, dont chacune détient
 		- **(iii)** pas moins d’une tranche d’actions de cette catégorie, et
-		- **(iv)** des actions de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
+		- **(iv)** des actions de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
 	- **c)** les dirigeants de la société ne doivent pas détenir plus de 80 pour cent des actions émises et en circulation de cette catégorie.
 
-- **(2)** Pour l’application du sous-alinéa c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi, les conditions suivantes doivent être remplies à l’égard d’une société :
+- **(2)** Pour l’application du sous-alinéa c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi, les conditions suivantes doivent être remplies à l’égard d’une société :
 	- **a)** les dirigeants de la société doivent détenir plus de 90 pour cent des actions émises et en circulation de chaque catégorie d’actions du capital-actions de la société qui
 		- **(i)** était, à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs désignée située au Canada, ou
 		- **(ii)** était une catégorie, désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la société est devenue pour la dernière fois une société publique;
@@ -9628,41 +9296,55 @@ personnes, autres que les dirigeants de la société, dont chacune détient
 		- **(ii)** dans tout autre cas, 100
 personnes, autres que les dirigeants de la société dont chacune détient
 		- **(iii)** pas moins d’une tranche d’actions de cette catégorie, et
-		- **(iv)** des actions de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
-	- **c)** il ne doit pas y avoir de catégorie d’actions du capital-actions de la société qui soit admissible à une répartition dans le public et qui remplisse les conditions énoncées aux alinéas (1)b) et c).
+		- **(iv)** des actions de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
+	- **c)** aucune catégorie d’actions du capital-actions de la société ne peut faire l’objet d’un appel public à l’épargne ni ne remplit les conditions énoncées aux alinéas (1)b) et c).
 
 - **(3)** Lorsqu’en vertu d’une fusion (au sens attribué par l’article 87 de la Loi) de sociétés remplacées dont une ou plusieurs étaient, immédiatement avant la fusion, une société publique, les actions d’une quelconque catégorie du capital-actions de toute société publique de ce genre qui était
 	- **a)** à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs désignée située au Canada, ou
 	- **b)** la catégorie désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la société est devenue pour la dernière fois une société publique,
 sont converties en actions d’une quelconque catégorie (désignée dans le présent paragraphe comme la « nouvelle catégorie ») du capital-actions de la nouvelle société, la nouvelle catégorie doit être réputée, aux fins du paragraphe (2), être une catégorie désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la nouvelle société est devenue pour la dernière fois une société publique.
 
-- **(4)** Le choix prévu aux sous-alinéas b)(i) ou c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi se fait par la présentation au ministre des documents suivants :
+- **(4)** Le choix prévu aux sous-alinéas b)(i) ou c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi se fait par la présentation au ministre des documents suivants :
 	- **a)** la formule prescrite par le ministre;
 	- **b)** lorsque les administrateurs de la société sont légalement habilités à administrer les affaires de la société, une copie certifiée conforme de leur résolution autorisant l’exercice de l’option;
 	- **c)** lorsque les administrateurs de la société ne sont pas légalement habilités à administrer les affaires de la société, une copie certifiée conforme de l’autorisation de l’exercice de l’option par la personne ou par les personnes légalement habilitées à administrer les affaires de la société; et
 	- **d)** une déclaration statutaire faite par un administrateur de la société indiquant qu’après avoir effectué une enquête raisonnable dans le but de s’informer à cet égard, à sa connaissance, la société remplit toutes les conditions prescrites qui doivent être remplies à la date où l’option est exercée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-268, art. 8; DORS/94-686, art. 74(F) et 79(F); DORS/2001-216, art. 3; 2007, ch. 35, art. 77.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-268, art. 8; DORS/94-686, art. 74(F) et 79(F); DORS/2001-216, art. 3; 2007, ch. 35, art. 77; 2013, ch. 34, art. 396(F).
 
 
 
 
-**4800.1** Les fiducies visées à l’alinéa 107(1)a), aux paragraphes 107(2) et (4.1) et à l’alinéa 108(1)c) de la Loi sont les suivantes :
+**4800.1** Les fiducies ci-après sont visées pour l’application de l’alinéa 107(1)a) et des paragraphes 107(1.1), (2) et (4.1) de la Loi :
 - **a)** la fiducie maintenue principalement au profit d’employés d’une société ou de deux ou plusieurs sociétés qui ont entre elles un lien de dépendance, dans le cas où l’un des principaux objets de la fiducie consiste à détenir des droits dans des actions du capital-actions de la société ou des sociétés ou de toute société qui a un lien de dépendance avec ces sociétés;
 - **b)** la fiducie établie exclusivement au profit d’une ou plusieurs personnes dont chacune est, au moment de la création de la fiducie, soit une personne de qui la fiducie a reçu des biens, soit le créancier de cette personne, dans le cas où l’un des principaux objets de la fiducie consiste à garantir les paiements qui doivent être faits par la personne ou pour son compte à ce créancier;
 - **c)** la fiducie dont la totalité, ou presque, des biens sont des actions du capital-actions d’une société, dans le cas où la fiducie a été établie aux termes d’une convention entre deux ou plusieurs actionnaires de la société et où l’un des principaux objets de la fiducie est de permettre l’exercice des droits de vote rattachés à ces actions conformément à cette entente.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-284, art. 1; DORS/92-661, art. 1; DORS/94-686, art. 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-284, art. 1; DORS/92-661, art. 1; DORS/94-686, art. 79(F); 2013, ch. 34, art. 397.
 
 
 
 
-**4801** Aux fins de l’alinéa 132(6)c) de la Loi, les conditions suivantes sont prescrites à l’égard d’une fiducie :
-- **a)** selon le cas :
-	- **(i)** une catégorie d’unités de la fiducie peut faire l’objet d’un appel public à l’épargne,
-	- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
-- **b)** à l’égard de l’une quelconque catégorie d’unités visée à l’alinéa a), il ne doit pas y avoir moins de 150 bénéficiaires de la fiducie, dont chacun détient
+**4801** Pour l’application, à un moment donné, de l’alinéa 132(6)c) de la Loi, les conditions auxquelles une fiducie doit satisfaire sont les suivantes :
+- **a)** selon le cas :
+	- **(i)** les conditions ci-après sont réunies :
+		- **(A)** des unités de la fiducie ont, au plus tard à ce moment, fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale,
+		- **(B)** la fiducie :
+			- **(I)** soit a été établie après 1999 et au plus tard à ce moment,
+			- **(II)** soit remplit, à ce moment, les conditions énoncées à l’article 4801.001,
+	- **(ii)** une catégorie d’unités de la fiducie peut, à ce moment, faire l’objet d’un appel public à l’épargne;
+- **b)** à l’égard d’une catégorie d’unités de la fiducie qui remplit à ce moment les conditions énoncées à l’alinéa a), la fiducie compte, à ce moment, au moins 150 bénéficiaires qui détiennent chacun :
 	- **(i)** pas moins d’une tranche d’unités de la catégorie, et
-	- **(ii)** des unités de la catégorie ayant une juste valeur marchande totale non inférieure à 500 $.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2001-216, art. 4.
+	- **(ii)** des unités de la catégorie ayant une juste valeur marchande totale non inférieure à 500 $.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2001-216, art. 4; 2013, ch. 34, art. 398.
+
+
+
+
+**4801.001** Pour l’application de la subdivision 4801a)(i)(B)(II) à un moment donné, les conditions mentionnées sont les suivantes :
+- **a)** la fiducie a été établie avant 2000;
+- **b)** elle était une fiducie d’investissement à participation unitaire le 18 juillet 2005;
+- **c)** le moment donné est postérieur à 2003;
+- **d)** la fiducie choisit, par avis écrit adressé au ministre avant la date d’échéance de production qui lui est applicable pour son année d’imposition 2012, de se prévaloir du présent article.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés. 2013, ch. 34, art. 399.
 
 
 
@@ -9729,40 +9411,40 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 
 - **(1)** Dans la présente partie,
 
-***action à revenu variable*** a le sens que lui donne l’article 204 de la Loi; (*equity share*)
+***action à revenu variable*** a le sens que lui donne l’article 204 de la Loi; (*equity share*)
 
-***dirigeant d’une société*** S’entend au sens de ***dirigeant*** ou ***dirigeant d’une compagnie*** à l’article 100 de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), dans sa version en vigueur le 22 juin 2009, à supposer que les mentions « compagnie publique » et « dirigeant d’une compagnie » à cet article vaillent mention respectivement de « société publique » et « dirigeant d’une société », et comprend toute personne qui est un employé de la société ou d’une personne ayant un lien de dépendance avec celle-ci et dont le droit de vendre ou de transférer une action du capital-actions de la société, ou d’exercer les droits de vote rattachés à l’action, est limité par :
+***dirigeant d’une société*** S’entend au sens de ***dirigeant*** ou ***dirigeant d’une compagnie*** à l’article 100 de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), dans sa version en vigueur le 22 juin 2009, à supposer que les mentions « compagnie publique » et « dirigeant d’une compagnie » à cet article vaillent mention respectivement de « société publique » et « dirigeant d’une société », et comprend toute personne qui est un employé de la société ou d’une personne ayant un lien de dépendance avec celle-ci et dont le droit de vendre ou de transférer une action du capital-actions de la société, ou d’exercer les droits de vote rattachés à l’action, est limité par :
 - **a)** les modalités que comporte l’action, ou
-- **b)** toute obligation contractuelle que la personne a, en *equity* ou autrement, envers la société ou envers une personne avec laquelle la société ne traite pas sans lien de dépendance; (*insider of a corporation*)
+- **b)** toute obligation contractuelle que la personne a, en *equity* ou autrement, envers la société ou envers une personne avec laquelle la société ne traite pas sans lien de dépendance; (*insider of a corporation*)
 
-***tranche d’actions*** désigne, à l’égard de toute catégorie du capital-actions d’une société,
-- **a)** 100 actions, si la juste valeur marchande d’une action de la catégorie est inférieure à 25 $,
-- **b)** 25 actions, si la juste valeur marchande d’une action de la catégorie est égale ou supérieure à 25 $ mais inférieure à 100 $, et
-- **c)** 10 actions, si la juste valeur marchande d’une action de la catégorie est égale ou supérieure à 100 $; (*block of shares*)
+***tranche d’actions*** désigne, à l’égard de toute catégorie du capital-actions d’une société,
+- **a)** 100 actions, si la juste valeur marchande d’une action de la catégorie est inférieure à 25 $,
+- **b)** 25 actions, si la juste valeur marchande d’une action de la catégorie est égale ou supérieure à 25 $ mais inférieure à 100 $, et
+- **c)** 10 actions, si la juste valeur marchande d’une action de la catégorie est égale ou supérieure à 100 $; (*block of shares*)
 
-***tranche d’unités*** désigne, à l’égard de toute catégorie d’unités d’une fiducie,
-- **a)** 100 unités, si la juste valeur marchande d’une unité de la catégorie est inférieure à 25 $,
-- **b)** 25 unités, si la juste valeur marchande d’une unité de la catégorie est égale ou supérieure à 25 $ mais inférieure à 100 $, et
-- **c)** 10 unités, si la juste valeur marchande d’une unité de la catégorie est égale ou supérieure à 100 $. (*block of units*)
+***tranche d’unités*** désigne, à l’égard de toute catégorie d’unités d’une fiducie,
+- **a)** 100 unités, si la juste valeur marchande d’une unité de la catégorie est inférieure à 25 $,
+- **b)** 25 unités, si la juste valeur marchande d’une unité de la catégorie est égale ou supérieure à 25 $ mais inférieure à 100 $, et
+- **c)** 10 unités, si la juste valeur marchande d’une unité de la catégorie est égale ou supérieure à 100 $. (*block of units*)
 
-- **(2)** Aux fins de la présente partie, une catégorie des actions du capital-actions d’une société ou une catégorie des unités d’une fiducie est admissible à la répartition dans le public seulement si
-	- **a)** un prospectus, un état d’enregistrement ou un document semblable a été adressé à une administration publique au Canada et, lorsque la loi l’exige, accepté aux fins d’être transmis par celle-ci, en vertu et en conformité de la loi du Canada ou de n’importe quelle province et qu’il y a eu une répartition légale dans le public d’actions ou d’unités de cette catégorie conformément à ce document;
-	- **b)** la catégorie est une catégorie d’actions, dont n’importe laquelle a été émise par la société à une date postérieure à 1971 alors qu’elle était une société publique en échange d’actions de toute autre catégorie du capital-actions de la société qui était, immédiatement avant l’échange, admissible à une répartition dans le public;
-	- **c)** dans le cas de toute catégorie d’actions dont n’importe laquelle était émise et en circulation le 1<sup>er</sup> janvier 1972, la catégorie remplissait à cette date les conditions énoncées aux alinéas 4800(1)b) et c); ou
+- **(2)** Pour l’application de la présente partie, une catégorie d’actions du capital-actions d’une société ou une catégorie d’unités d’une fiducie ne peut faire l’objet d’un appel public à l’épargne que si, selon le cas :
+	- **a)** un prospectus, une déclaration d’enregistrement ou un document semblable a été produit auprès d’une administration au Canada selon la législation fédérale ou provinciale et, si la législation le prévoit, approuvé par l’administration, et les actions ou unités de cette catégorie ont fait l’objet d’un appel public légal à l’épargne conformément à ce document;
+	- **b)** il s’agit d’une catégorie d’actions, dont une ou plusieurs des actions ont été émises par la société à un moment, postérieur à 1971, où elle était une société publique, en échange d’actions de toute autre catégorie du capital-actions de la société qui pouvait, immédiatement avant l’échange, faire l’objet d’un appel public à l’épargne;
+	- **c)** dans le cas d’une catégorie d’actions, dont une ou plusieurs des actions avaient été émises et étaient en circulation le 1<sup>er</sup> janvier 1972, la catégorie remplissait à cette date les conditions énoncées aux alinéas 4800(1)b) et c);
 	- **d)** dans le cas de toute catégorie d’unités dont n’importe laquelle était émise et en circulation le 1<sup>er</sup> janvier 1972, la catégorie remplissait à cette date les conditions énoncées à l’alinéa 4801b).
 
 - **(3)** Aux fins des alinéas 4800(1)b), 4800(2)b) et 4801b), lorsqu’un groupe de personnes détient
 	- **a)** pas moins d’une tranche d’actions de n’importe quelle catégorie d’actions du capital-actions d’une société, ou une tranche d’unités de n’importe quelle catégorie d’une fiducie, selon le cas, et
-	- **b)** des actions ou des unités, selon le cas, de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $,
+	- **b)** des actions ou des unités, selon le cas, de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $,
 ce groupe doit être, sous réserve du paragraphe (4), réputé être une personne aux fins de déterminer le nombre de personnes qui détiennent les actions ou les unités, selon le cas, de cette catégorie.
 
-- **(4)** En déterminant en vertu du paragraphe (3) les personnes qui appartiennent à un groupe aux fins de déterminer le nombre de personnes qui détiennent les actions ou les unités, selon le cas, d’une catégorie particulière, les règles suivantes s’appliquent :
+- **(4)** En déterminant en vertu du paragraphe (3) les personnes qui appartiennent à un groupe aux fins de déterminer le nombre de personnes qui détiennent les actions ou les unités, selon le cas, d’une catégorie particulière, les règles suivantes s’appliquent :
 	- **a)** aucune personne ne doit être comprise dans plus d’un groupe;
 	- **b)** aucune personne ne doit être comprise dans un groupe si elle détient
 		- **(i)** pas moins d’une tranche d’actions ou d’une tranche d’unités, selon le cas, de cette catégorie, et
-		- **(ii)** des actions ou des unités, selon le cas, de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
+		- **(ii)** des actions ou des unités, selon le cas, de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
 	- **c)** le nombre de membres de chaque groupe est déterminé de la manière qui entraîne le plus grand nombre possible de groupes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-470, art. 2; DORS/84-146, art. 1; DORS/85-696, art. 14; DORS/94-686, art. 25(F) et 79(F); DORS/2011-188, art. 19.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-470, art. 2; DORS/84-146, art. 1; DORS/85-696, art. 14; DORS/94-686, art. 25(F) et 79(F); DORS/2011-188, art. 19; 2013, ch. 34, art. 400(F).
 
 
 
@@ -10891,6 +10573,9 @@ la période se terminant deux ans après la date d’annulation de l’enregistr
 		- **(i)** la partie du dividende global payée par la société affiliée sur les actions de cette catégorie, à cette date, qui est réputée avoir été prélevée en vertu de l’article 5901 sur le surplus exonéré de la société affiliée à l’égard de la société
 par rapport au
 		- **(ii)** dividende global payé par la société affiliée sur les actions de cette catégorie à cette date;
+	- **a.1)** pour l’application de la présente partie et de l’alinéa 113(1)a.1) de la Loi, la partie du dividende qui est considérée comme ayant été versée sur le surplus hybride de la société affiliée correspond à la proportion du dividende reçu que représente le rapport entre :
+		- **(i)** d’une part, la partie du dividende global versé par la société affiliée sur les actions de cette catégorie à cette date qui est réputée, en vertu de l’article 5901, avoir été versée sur son surplus hybride relativement à la société,
+		- **(ii)** d’autre part, le dividende global versé par la société affiliée sur les actions de cette catégorie à cette date;
 	- **b)** aux fins de la présente partie, du paragraphe 91(5) et des alinéas 113(1)b) et c) de la Loi, la fraction du dividende prélevée sur le surplus imposable de la société affiliée est, selon les prescriptions, la fraction du dividende reçue que représente
 		- **(i)** la partie du dividende global payée par la société affiliée sur les actions de cette catégorie, à cette date, qui est réputée avoir été prélevée en vertu de l’article 5901 sur le surplus imposable de la société affiliée à l’égard de la société
 par rapport au
@@ -10898,7 +10583,10 @@ par rapport au
 	- **c)** aux fins de la présente partie et de l’alinéa 113(1)d) de la Loi, la fraction du dividende prélevée sur le surplus antérieur à l’acquisition de la société affiliée est, selon les prescriptions, la fraction du dividende reçue que représente
 		- **(i)** la partie du dividende global payée par la société affiliée sur les actions de cette catégorie, à cette date, qui est réputée avoir été prélevée en vertu de l’article 5901 sur le surplus antérieur à l’acquisition de la société affiliée à l’égard de la société
 par rapport au
-		- **(ii)** dividende global payé par la société affiliée sur les actions de cette catégorie à cette date; et
+		- **(ii)** dividende global payé par la société affiliée sur les actions de cette catégorie à cette date;
+	- **c.1)** pour l’application de la présente partie et de l’alinéa 113(1)a.1) de la Loi, l’impôt étranger applicable à la partie du dividende qui est considérée comme ayant été versée sur le surplus hybride de la société affiliée correspond à la proportion du montant intrinsèque d’impôt hybride applicable, relativement à la société, au dividende global versé par la société affiliée sur les actions de cette catégorie à cette date que représente le rapport entre :
+		- **(i)** d’une part, le montant du dividende reçu par la société ou par la société affiliée, selon le cas, sur l’action en cause à cette date,
+		- **(ii)** d’autre part, le dividende global versé par la société affiliée sur les actions de cette catégorie à cette date;
 	- **d)** aux fins de la présente partie et de l’alinéa 113(1)b) de la Loi, l’impôt étranger applicable à la fraction du dividende qui, selon les prescriptions, a été prélevée sur le surplus imposable de la société affiliée est, selon les prescriptions, la fraction du montant intrinsèque d’impôt étranger qui s’applique, à l’égard de la société, au dividende global payé par la société affiliée sur les actions de cette catégorie à cette date, qui représente
 		- **(i)** le montant du dividende reçu par la société ou la société affiliée, selon le cas, sur cette action à cette date
 par rapport au
@@ -10908,8 +10596,8 @@ par rapport au
 	- **a)** d’une part, est considéré comme ayant été prélevé sur le surplus imposable de la société affiliée à l’égard de la société et non sur son surplus exonéré;
 	- **b)** d’autre part, pour l’application de l’alinéa (1)d) et des définitions de ***montant intrinsèque d’impôt étranger*** et ***montant intrinsèque d’impôt étranger applicable*** au paragraphe 5907(1), est réputé avoir été versé par la société affiliée à la société à titre de dividende global distinct sur les actions de cette catégorie de son capital-actions immédiatement après cette date; ce dividende global est réputé avoir été prélevé sur le surplus imposable de la société affiliée à l’égard de la société.
 
-- **(3)** Aux fins du paragraphe 91(5) de la Loi, lorsque, à une date quelconque, un particulier résidant au Canada reçoit un dividende sur une action de toute catégorie du capital-actions d’une société étrangère affiliée de ce particulier, la société affiliée est réputée détenir un montant de surplus imposable à l’égard du particulier et la fraction du dividende prélevée sur le surplus imposable de la société affiliée à l’égard du particulier est, selon les prescriptions, un montant égal au dividende reçu.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); DORS/97-505, art. 2.
+- **(3)** Pour l’application du paragraphe 91(5) de la Loi, le dividende qu’une personne résidant au Canada (sauf une société) reçoit sur une action d’une catégorie du capital-actions de sa société étrangère affiliée est versé sur le surplus imposable de celle-ci.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); DORS/97-505, art. 2; 2013, ch. 34, art. 40 et 78.
 
 
 
@@ -10920,19 +10608,65 @@ par rapport au
 
 **5901** 
 
-- **(1)** Lorsque, à une date quelconque au cours de son année d’imposition une société étrangère affiliée d’une société résidant au Canada a payé un dividende global sur les actions de toutes catégories de son capital-actions, aux fins de la présente partie
-	- **a)** la fraction du dividende global réputée avoir été prélevée sur le surplus exonéré de la société affiliée à l’égard de la société à cette date est un montant égal au moins élevé des montants suivants :
-		- **(i)** le montant du dividende global, et
-		- **(ii)** l’excédent de surplus exonéré sur le déficit imposable de la société affiliée à l’égard de la société à cette date;
-	- **b)** la fraction du dividende global réputée avoir été prélevée sur le surplus imposable de la société affiliée à l’égard de la société à cette date est un montant égal au moins élevé des montants suivants :
-		- **(i)** l’excédent, si excédent il y a, du montant du dividende global sur la fraction déterminée en vertu de l’alinéa a), et
-		- **(ii)** l’excédent du surplus imposable sur le déficit exonéré de la société affiliée à l’égard de la société à cette date; et
-	- **c)** la fraction du dividende global réputée avoir été prélevée sur le surplus antérieur à l’acquisition de la société affiliée à l’égard de la société à cette date est l’excédent du dividende global sur le total des fractions déterminées en vertu des alinéas a) et b).
+- **(1)** Sous réserve du paragraphe (1.1), si une société étrangère affiliée d’une société résidant au Canada a versé, à un moment de son année d’imposition, un dividende global sur les actions d’une catégorie de son capital-actions, les règles ci-après s’appliquent à la présente partie :
+	- **a)** la partie du dividende global qui est réputée avoir été versée sur le surplus exonéré de la société affiliée relativement à la société à ce moment correspond à la moins élevée des sommes suivantes :
+		- **(i)** le montant du dividende global,
+		- **(ii)** l’excédent du surplus exonéré sur le total des sommes suivantes :
+			- **(A)** le déficit hybride de la société affiliée relativement à la société à ce moment,
+			- **(B)** son déficit imposable relativement à la société à ce moment;
+	- **a.1)** la partie du dividende global qui est réputée avoir été versée sur le surplus hybride de la société affiliée relativement à la société à ce moment correspond à la moins élevée des sommes suivantes :
+		- **(i)** l’excédent du montant du dividende global sur la partie déterminée selon l’alinéa a),
+		- **(ii)** l’excédent du surplus hybride sur celle des sommes ci-après qui est applicable :
+			- **(A)** si la société affiliée a un déficit exonéré et un déficit imposable, relativement à la société à ce moment, le total de ces déficits,
+			- **(B)** si elle a un déficit exonéré mais aucun déficit imposable, relativement à la société à ce moment, le montant du déficit exonéré,
+			- **(C)** si elle a un déficit imposable mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit imposable sur son surplus exonéré relativement à la société à ce moment;
+	- **b)** la partie du dividende global qui est réputée avoir été versée sur le surplus imposable de la société affiliée relativement à la société à ce moment correspond à la moins élevée des sommes suivantes :
+		- **(i)** l’excédent du montant du dividende global sur le total des parties déterminées selon les alinéas a) et a.1),
+		- **(ii)** l’excédent du surplus imposable sur celle des sommes ci-après qui est applicable :
+			- **(A)** si la société affiliée a un déficit exonéré et un déficit hybride, relativement à la société à ce moment, le total de ces déficits,
+			- **(B)** si elle a un déficit exonéré mais aucun déficit hybride, relativement à la société à ce moment, l’excédent du déficit exonéré sur son surplus hybride relativement à la société à ce moment,
+			- **(C)** si elle a un déficit hybride mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit hybride sur son surplus exonéré relativement à la société à ce moment;
+	- **c)** la partie du dividende global qui est réputée avoir été versée sur le surplus antérieur à l’acquisition de la société affiliée relativement à la société à ce moment correspond à l’excédent du dividende global sur le total des parties déterminées selon les alinéas a) à b).
 
-- **(2)** Malgré le paragraphe (1), lorsqu’une société étrangère affiliée d’une société résidant au Canada verse un dividende global, sauf celui visé au paragraphe 5902(1), à un moment donné de son année d’imposition qui suit de plus de 90 jours le début de cette année ou à un moment donné de son année d’imposition 1972 qui est antérieur au 1<sup>er</sup> janvier 1972, la fraction du dividende qui, n’était le présent paragraphe, serait réputée avoir été prélevée sur le surplus antérieur à l’acquisition de la société affiliée à l’égard de la société est réputée avoir été prélevée sur son surplus exonéré et son surplus imposable à l’égard de la société, dans la mesure où elle aurait été réputée avoir été ainsi prélevée si, immédiatement après la fin de l’année, elle avait été versée à titre de dividende global distinct avant tout dividende global versé après le moment donné et après tout dividende global versé avant ce moment par la société affiliée; pour le calcul du déficit exonéré, du déficit imposable, du montant intrinsèque d’impôt étranger, du surplus exonéré et du surplus imposable de la société affiliée à l’égard de la société, cette fraction de dividende est réputée avoir été versée à titre de dividende global distinct immédiatement après la fin de l’année et ne pas avoir été versée au moment donné.
+- **(1.1)** Si la société résidant au Canada qui est visée au paragraphe (1) en fait le choix selon le présent paragraphe, relativement au dividende global visé au paragraphe (1), dans un document qu’elle présente au ministre au plus tard à la date d’échéance de production qui lui est applicable pour son année d’imposition qui comprend la date de versement du dividende, le paragraphe (1) s’applique relativement au dividende comme si ses alinéas a.1) et b) avaient le libellé suivant :
+
+- **a.1)** la partie du dividende global qui est réputée avoir été versée sur le surplus imposable de la société affiliée relativement à la société à ce moment correspond à la moins élevée des sommes suivantes :
+	- **(i)** l’excédent du montant du dividende global sur la partie déterminée selon l’alinéa a),
+	- **(ii)** l’excédent du surplus imposable sur celle des sommes ci-après qui est applicable :
+		- **(A)** si la société affiliée a un déficit exonéré et un déficit hybride, relativement à la société à ce moment, le total de ces déficits,
+		- **(B)** si elle a un déficit exonéré mais aucun déficit hybride, relativement à la société à ce moment, le montant du déficit exonéré,
+		- **(C)** si elle a un déficit hybride mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit hybride sur son surplus exonéré relativement à la société à ce moment;
+- **b)** la partie du dividende global qui est réputée avoir été versée sur le surplus hybride de la société affiliée relativement à la société à ce moment correspond à la moins élevée des sommes suivantes :
+	- **(i)** l’excédent du montant du dividende global sur le total des parties déterminées selon les alinéas a) et a.1),
+	- **(ii)** l’excédent du surplus hybride sur celle des sommes ci-après qui est applicable :
+		- **(A)** si la société affiliée a un déficit exonéré et un déficit imposable. relativement à la société à ce moment, le total de ces déficits,
+		- **(B)** si elle a un déficit exonéré mais aucun déficit imposable, relativement à la société à ce moment, l’excédent du déficit exonéré sur son surplus imposable relativement à la société à ce moment,
+		- **(C)** si elle a un déficit imposable mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit imposable sur son surplus exonéré relativement à la société à ce moment;
+
+
+
+- **(2)** Malgré le paragraphe (1) :
+	- **a)** si une société étrangère affiliée d’une société résidant au Canada verse un dividende global, sauf celui visé au paragraphe 5902(1), à un moment donné de son année d’imposition qui suit de plus de 90 jours le début de cette année ou à un moment donné de son année d’imposition 1972 qui est antérieur au 1<sup>er</sup> janvier 1972, la partie du dividende qui, en l’absence du présent alinéa, serait réputée avoir été versée sur le surplus antérieur à l’acquisition de la société affiliée relativement à la société (autrement qu’en raison du choix prévu à l’alinéa b)) est plutôt réputée avoir été versée sur son surplus exonéré, son surplus hybride et son surplus imposable relativement à la société dans la mesure où elle aurait été réputée avoir été ainsi versée si, immédiatement après la fin de cette année, elle était versée à titre de dividende global distinct avant tout dividende global versé après le moment donné et après tout dividende global versé avant ce moment par la société affiliée; pour le calcul du déficit exonéré, du déficit hybride, du déficit imposable, du montant intrinsèque d’impôt étranger, du montant intrinsèque d’impôt hybride, du surplus exonéré, du surplus hybride et du surplus imposable de la société affiliée relativement à la société à un moment quelconque, la partie en cause est réputée avoir été versée à titre de dividende global distinct immédiatement après la fin de l’année et ne pas avoir été versée au moment donné;
+	- **b)** un dividende global visé au paragraphe (1) qui est versé à un moment donné par une société étrangère affiliée d’une société résidant au Canada et qui, en l’absence du présent alinéa, serait réputé en vertu de ce paragraphe avoir été versé en tout ou en partie sur le surplus exonéré, le surplus hybride ou le surplus imposable de la société affiliée relativement à la société est plutôt réputé avoir été versé sur son surplus antérieur à l’acquisition relativement à la société si, à la fois :
+		- **(i)** la société et, le cas échéant, chacune des autres sociétés qui sont liées à la société à ce moment et dont la société affiliée serait une société étrangère affiliée à ce moment si la mention « toute société », à l’alinéa b) de la définition de ***pourcentage d’intérêt*** au paragraphe 95(4) de la Loi, était remplacée par « toute société autre qu’une société résidant au Canada » :
+			- **(A)** dans le cas où il n’existe pas de telles autres sociétés, en fait le choix selon le présent sous-alinéa dans un document qu’elle présente au ministre au plus tard à la date d’échéance de production qui lui est applicable pour son année d’imposition au cours de laquelle le dividende est versé,
+			- **(B)** dans les autres cas, en font conjointement le choix selon le présent sous-alinéa dans un document qu’elles présentent au ministre au plus tard à la première des dates d’échéance de production que leur sont applicables pour leur année d’imposition au cours de laquelle le dividende est versé,
+		- **(ii)** aucun actionnaire de la société affiliée n’est, à ce moment, une société de personnes dont l’un des associés est :
+			- **(A)** une société qui, en l’absence du présent sous-alinéa, pourrait faire le choix prévu au sous-alinéa (i),
+			- **(B)** une société étrangère affiliée d’une telle société,
+		- **(iii)** aucune personne donnée ou société de personnes donnée — relativement à laquelle la société affiliée serait, à ce moment, une société étrangère affiliée si l’alinéa b) de la définition de ***pourcentage d’intérêt*** au paragraphe 95(4) de la Loi était libellé de la façon prévue au sous-alinéa (i) — n’a fait le choix prévu au paragraphe 90(3) de la Loi relativement à la distribution que représente le dividende global dans le cas où :
+			- **(A)** s’agissant d’une personne donnée, celle-ci est la société ou est liée à la société à ce moment,
+			- **(B)** s’agissant d’une société de personnes donnée, un associé de celle-ci est la société ou est lié à la société à ce moment.
+
+- **(2.1)** Le paragraphe (2.2) s’applique si, en ce qui concerne un dividende global versé par une société étrangère affiliée d’une société résidant au Canada, les faits ci-après s’avèrent :
+	- **a)** la société a décidé de ne pas faire le choix prévu au sous-alinéa (2)b)(i) relativement au dividende global avant la date d’échéance de production précisée dans la division applicable de ce sous-alinéa;
+	- **b)** la société démontre que la décision a été prise par suite d’efforts raisonnables;
+	- **c)** la société, conjointement avec une ou plusieurs autres sociétés ou autrement, présente le document concernant le choix au plus tard le jour qui suit de dix ans cette date d’échéance de production.
+
+- **(2.2)** Si le présent paragraphe s’applique et que, de l’avis du ministre, les circonstances sont telles qu’il serait juste et équitable de permettre que le document concernant le choix prévu au paragraphe (2.1) soit présenté après la date d’échéance de production précisée dans la division applicable du sous-alinéa (2)b)(i), ce document est réputé avoir été présenté à cette date.
 
 - **(3)** Malgré les paragraphes (1) et (2) et pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), le montant désigné conformément au paragraphe 5900(2) relativement à un dividende versé par une société étrangère affiliée d’une société résidant au Canada a pour effet d’augmenter la fraction du dividende global qui est réputée avoir été prélevée sur le surplus imposable de la société affiliée à l’égard de la société et de diminuer la fraction de ce dividende qui est réputée avoir été prélevée sur son surplus exonéré à l’égard de la société.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); DORS/97-505, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); DORS/97-505, art. 3; 2013, ch. 34, art. 79.
 
 
 
@@ -10943,35 +10677,65 @@ par rapport au
 
 **5902** 
 
-- **(1)** Lorsque, à une date quelconque, un dividende est, en vertu d’un choix fait en vertu du paragraphe 93(1) de la Loi à l’égard d’une disposition, réputé avoir été reçu sur une ou plusieurs actions d’une catégorie du capital-actions d’une société étrangère affiliée donnée d’une société résidant au Canada, les règles suivantes s’appliquent :
-	- **a)** pour déterminer les montants qui constitueraient le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable, le montant intrinsèque d’impôt étranger et le surplus net de la société affiliée donnée à l’égard de la société à cette date si
-		- **(i)** chaque autre société étrangère affiliée de la société dans laquelle la société affiliée détenait un pourcentage d’intérêt avait, immédiatement avant cette date, payé un dividende égal à son surplus net à l’égard de la société immédiatement avant le paiement du dividende, et
-		- **(ii)** tout dividende visé au sous-alinéa (i) que toute autre société étrangère affiliée aurait reçu, a été reçu par elle immédiatement avant le dividende qu’elle aurait payé;
-	- **b)** pour déterminer le montant qui aurait été reçu sur les actions (de cette catégorie) à l’égard desquelles un choix est fait, si la société affiliée donnée avait, à cette date, payé des dividendes dont le total sur toutes les actions de son capital-actions était égal au montant de son surplus net visé à l’alinéa a); et
-	- **c)** aux fins du paragraphe 5900(1) seulement, en appliquant les dispositions du paragraphe 5901(1)
-		- **(i)** le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger de la société affiliée donnée à l’égard de la société sont réputés être les montants respectifs visés à l’alinéa a), et
-		- **(ii)** la société affiliée donnée est réputée avoir payé un dividende global, à cette date, sur les actions de cette catégorie de son capital-actions d’un montant égal au produit obtenu lorsque le total des montants ainsi réputés avoir été reçus en vertu du paragraphe 93(1) de la Loi à titre de dividende sur les actions de cette catégorie est multiplié par le plus élevé des montants suivants :
-			- **(A)** un, et
-			- **(B)** la fraction que représente le montant du surplus net de la société affiliée donnée, déterminé selon l’alinéa a), par rapport au montant déterminé selon l’alinéa b); toutefois, s’il est inférieur à un, ce dernier montant est réputé correspondre à un pour l’application de la présente division.
+- **(1)** Dans le cas où, à un moment donné, un dividende (ce moment et ce dividende étant appelés respectivement « moment du dividende » et « dividende visé par le choix » au présent paragraphe et au paragraphe (2)) est réputé, en raison du choix qu’une société fait en vertu du paragraphe 93(1) de la Loi à l’égard d’une disposition, avoir été reçu sur une action (appelée « action visée par le choix » au présent paragraphe) d’une catégorie du capital-actions d’une société étrangère affiliée donnée de la société, les règles ci-après s’appliquent :
+	- **a)** pour l’application du paragraphe 5900(1), lorsqu’il s’agit d’appliquer les dispositions du paragraphe 5901(1) :
+		- **(i)** d’une part, le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le montant intrinsèque d’impôt étranger, le montant intrinsèque d’impôt hybride, le surplus imposable ou le déficit imposable et le surplus net de la société affiliée donnée, relativement à la société au moment du dividende, sont réputés correspondre aux sommes qui seraient déterminées par ailleurs immédiatement avant ce moment si, à la fois :
+			- **(A)** chacune des autres sociétés étrangères affiliées de la société dans laquelle la société affiliée donnée avait un pourcentage d’intérêt (au sens du paragraphe 95(4) de la Loi) au moment du dividende avait versé, immédiatement avant le moment immédiatement avant le moment du dividende, un dividende égal à son surplus net relatif à la société, déterminé immédiatement avant le versement du dividende,
+			- **(B)** tout dividende visé à la division (A) que toute autre société étrangère affiliée aurait reçu avait été reçu par elle immédiatement avant tout dividende semblable qu’elle aurait versé,
+		- **(ii)** d’autre part, la société affiliée donnée est réputée avoir versé, au moment du dividende, sur les actions de cette catégorie de son capital-actions, un dividende global égal à la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le total des sommes représentant chacune le montant d’un dividende visé par le choix,
+- **B** le plus élevé de ce qui suit :
+		- **(A)** un,
+		- **(B)** le quotient obtenu par la formule suivante :
+```
+C/D
+```
+où :
+- **C** représente le montant du surplus net de la société affiliée donnée, déterminé selon le sous-alinéa a)(i),
+- **D** la plus élevée des sommes suivantes :
+		- **(I)** une unité de la monnaie dans laquelle la valeur de l’élément C est exprimée,
+		- **(II)** la somme qui aurait été reçue sur les actions visées par le choix si la société affiliée donnée avait versé, au moment du dividende, sur l’ensemble des actions de son capital-actions, des dividendes dont le total est égal au montant de son surplus net visé au sous-alinéa a)(i);
+	- **b)** sous réserve de l’alinéa 5905(5)c), au moment du dividende :
+		- **(i)** est à inclure, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), dans le calcul du surplus exonéré ou du déficit exonéré, selon le cas, de la société affiliée donnée relativement à la société le résultat de la multiplication du facteur de rajustement déterminé relativement à la disposition par le total des sommes représentant chacune la partie de tout dividende visé par le choix qui, selon l’alinéa 5900(1)a), est versé sur le surplus exonéré de la société affiliée donnée,
+		- **(i.1)** est à inclure, en application du sous-alinéa (vi) de l’élément B de la formule figurant à la définition de ***surplus hybride*** au paragraphe 5907(1), dans le calcul du surplus hybride ou du déficit hybride de la société affiliée donnée, relativement à la société, le résultat de la multiplication du facteur de rajustement déterminé relativement à la disposition par le total des sommes représentant chacune la partie de tout dividende visé par le choix qui, selon l’alinéa 5900(1)a.1), est versé sur le surplus hybride de la société affiliée donnée,
+		- **(i.2)** est à inclure, en application du sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***montant intrinsèque d’impôt hybride*** au paragraphe 5907(1), dans le calcul du montant intrinsèque d’impôt hybride de la société affiliée donnée, relativement à la société, le résultat de la multiplication du facteur de rajustement déterminé relativement à la disposition par le total des sommes représentant chacune la somme qui, selon l’alinéa 5900(1)c.1), correspond à l’impôt étranger applicable à la partie de tout dividende visé par le choix qui, selon l’alinéa 5900(1)a.1), est versé sur le surplus hybride de la société affiliée donnée,
+		- **(ii)** est à inclure, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au paragraphe 5907(1), dans le calcul du surplus imposable ou du déficit imposable, selon le cas, de la société affiliée donnée relativement à la société le résultat de la multiplication du facteur de rajustement déterminé relativement à la disposition par le total des sommes représentant chacune la partie de tout dividende visé par le choix qui, selon l’alinéa 5900(1)b), est versé sur le surplus imposable de la société affiliée donnée,
+		- **(iii)** est à inclure, en application du sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***montant intrinsèque d’impôt étranger*** au paragraphe 5907(1), dans le calcul du montant intrinsèque d’impôt étranger de la société affiliée donnée relativement à la société le résultat de la multiplication du facteur de rajustement déterminé relativement à la disposition par le total des sommes représentant chacune la somme qui, selon l’alinéa 5900(1)d), correspond à l’impôt étranger applicable à la partie de tout dividende visé par le choix qui, selon l’alinéa 5900(1)b), est versé sur le surplus imposable de la société affiliée donnée.
 
-- **(2)** Aux fins des alinéas (1)a) et b),
-	- **a)** dans le calcul du surplus exonéré ou du déficit exonéré, du surplus imposable ou du déficit imposable, du montant intrinsèque d’impôt étranger et du surplus net d’une société étrangère affiliée donnée d’un contribuable résidant au Canada dans laquelle une autre société étrangère affiliée du contribuable détient un pourcentage d’intérêt, aucun montant ne doit être inclus à l’égard de toute attribution qui serait reçue par la société affiliée donnée de cette autre société affiliée; et
-	- **b)** si une autre société étrangère affiliée d’une société résidant au Canada a émis des actions de plus d’une catégorie de son capital-actions, le montant qui serait versé à titre de dividende sur les actions de toute catégorie est cette fraction de son surplus exonéré ou déficit exonéré et de son surplus imposable (comprenant le montant intrinsèque d’impôt étranger applicable) ou de son déficit imposable (et aussi son surplus net) qu’elle pourrait raisonnablement, dans les circonstances, considérer comme payé sur toutes les actions de cette catégorie.
+- **(2)** Les règles qui suivent s’appliquent au présent article :
+	- **a)** pour l’application de l’alinéa (1)a) :
+		- **(i)** si une société étrangère affiliée donnée d’une société a un pourcentage d’intérêt, au sens du paragraphe 95(4) de la Loi, dans une autre société étrangère affiliée de la société qui a un pourcentage d’intérêt dans la société affiliée donnée, le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le montant intrinsèque d’impôt étranger, le montant intrinsèque d’impôt hybride, le surplus imposable ou le déficit imposable et le surplus net de la société affiliée donnée, et le montant d’un dividende qu’elle a versé ou reçu, sont calculés d’une manière qui, à la fois :
+			- **(A)** est raisonnable dans les circonstances,
+			- **(B)** est conforme aux résultats qui seraient obtenus si une série de dividendes réels avaient été versés et reçus par les sociétés étrangères affiliées de la société qui sont pris en compte dans le calcul,
+		- **(ii)** si une société étrangère affiliée d’une société résidant au Canada a émis des actions de plusieurs catégories de son capital-actions, la somme qui serait versée à titre de dividende sur les actions d’une de ces catégories correspond à la partie de son surplus net qu’elle pourrait vraisemblablement avoir versée, dans les circonstances, sur l’ensemble des actions de cette catégorie;
+	- **b)** le facteur de rajustement déterminé relativement à une disposition correspond au pourcentage obtenu par la formule suivante :
+```
+A/B
+```
+où :
+- **A** représente :
+	- **(i)** si le dividende visé par le choix est reçu par la société, 100 %,
+	- **(ii)** si le dividende visé par le choix est reçu par une autre société étrangère affiliée de la société, le pourcentage de droit au surplus de la société à l’égard de l’autre société affiliée immédiatement avant le moment du dividende,
+- **B** le pourcentage de droit au surplus de la société à l’égard de la société affiliée donnée immédiatement avant le moment du dividende.
 
-- **(3)** Lorsque, en vertu du paragraphe 93(1) de la Loi, une société résidant au Canada fait un choix à l’égard de la disposition d’une action du capital-actions d’une société étrangère affiliée de la société, aucun rajustement par suite du choix n’est fait au surplus exonéré, au déficit exonéré, au surplus imposable, au déficit imposable ou au montant intrinsèque d’impôt étranger de la société affiliée, à l’égard de la société, sauf comme il est prévu aux paragraphes 5905(2), (5) et (8).
+- **(3)** [Abrogé, 2013, ch. 34, art. 41]
 
 - **(4)** [Abrogé, DORS/85-176, art. 1]
 
-- **(5)** Une société résidant au Canada qui exerce un choix en vertu du paragraphe 93(1) de la Loi à l’égard de toute action du capital-actions d’une de ses sociétés étrangères affiliées, qui a fait l’objet d’une disposition par elle-même ou par une autre de ses sociétés étrangères affiliées, doit, pour ce faire, déposer auprès du ministre la formule prescrite, à la dernière des dates suivantes :
+- **(5)** Une société résidant au Canada qui exerce un choix en vertu du paragraphe 93(1) de la Loi à l’égard de toute action du capital-actions d’une de ses sociétés étrangères affiliées, qui a fait l’objet d’une disposition par elle-même ou par une autre de ses sociétés étrangères affiliées, doit, pour ce faire, déposer auprès du ministre la formule prescrite, à la dernière des dates suivantes :
 	- **a)** le 31 décembre 1989;
 	- **b)** si le choix
 		- **(i)** vise une action ayant fait l’objet d’une disposition effectuée par la société, au plus tard le jour où la déclaration de son revenu pour l’année d’imposition où la disposition a été faite doit être produite conformément au paragraphe 150(1) de la Loi, ou
 		- **(ii)** vise une action ayant fait l’objet d’une disposition effectuée par une autre société étrangère affiliée de la société, au plus tard le jour où la déclaration de revenu de la société pour l’année d’imposition au cours de laquelle se termine celle de la société étrangère affiliée dont la disposition a été faite, doit être produite conformément au paragraphe 150(1) de la Loi.
 
-- **(6)** Lorsque, à une date quelconque, une société résidant au Canada est réputée, en vertu du paragraphe 93(1.1) de la Loi, avoir fait un choix conformément au paragraphe 93(1) de la Loi à l’égard d’une action du capital-actions d’une société étrangère affiliée donnée de la société dont a disposé une autre de ses sociétés étrangères affiliées, la somme réputée avoir été désignée dans ce choix est égale au moindre des deux montants suivants :
+- **(6)** Lorsque, à une date quelconque, une société résidant au Canada est réputée, en vertu du paragraphe 93(1.11) de la Loi, avoir fait le choix prévu au paragraphe 93(1) de la Loi concernant la disposition d’une action du capital-actions d’une société étrangère affiliée donnée de la société, la somme visée correspond à la moins élevée des sommes suivantes :
 	- **a)** le gain en capital, s’il en est, déterminé par ailleurs au titre de la disposition de l’action; et
-	- **b)** le montant qui pourrait raisonnablement être considéré comme ayant été reçu à l’égard de l’action si la société affiliée donnée avait, à cette date, payé des dividendes dont le total sur toutes les actions de son capital-actions était égal à son surplus net à l’égard de la société déterminé conformément à l’alinéa (1)a) pour les fins du choix.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 1; DORS/82-910, art. 1; DORS/85-176, art. 1; DORS/89-135, art. 1; DORS/94-686, art. 79(F); DORS/97-505, art. 4.
+	- **b)** la somme dont il serait raisonnable de s’attendre à ce qu’elle ait été reçue au titre de l’action si la société affiliée donnée avait versé, à cette date, sur l’ensemble des actions de son capital-actions, des dividendes dont le total est égal à la somme qui, selon le sous-alinéa (1)a)(i), correspond à son surplus net relatif à la société pour les fins du choix.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 1; DORS/82-910, art. 1; DORS/85-176, art. 1; DORS/89-135, art. 1; DORS/94-686, art. 79(F); DORS/97-505, art. 4; 2013, ch. 34, art. 41 et 80.
 
 
 
@@ -10982,23 +10746,81 @@ par rapport au
 
 **5903** 
 
-- **(1)** Pour l’application de l’élément F de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, la perte déductible d’une société étrangère affiliée d’un contribuable pour une année d’imposition et les cinq années d’imposition précédentes (chacune de ces années précédentes étant appelée « année précédente » au présent paragraphe) correspond à l’excédent éventuel :
-	- **a)** du total des montants représentant chacun l’excédent éventuel, déterminé relativement à la société affiliée pour une année précédente au cours de laquelle elle était une société étrangère affiliée contrôlée du contribuable ou d’une personne visée à l’un des sous-alinéas 95(2)f)(iv) à (vii) de la Loi, du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-		- **(i)** le total des montants représentés par les éléments D et E de la formule, relativement à la société affiliée pour l’année précédente,
-		- **(ii)** le total des montants représentés par les éléments A, B et C de la formule, relativement à la société affiliée pour l’année précédente,
-sur le total des montants suivants :
-	- **b)** le total des montants représentant chacun le moins élevé des montants ci-après, déterminé relativement à la société affiliée pour une année précédente au cours de laquelle elle était une société étrangère affiliée contrôlée du contribuable ou d’une personne visée à l’un des sous-alinéas 95(2)f)(iv) à (vii) de la Loi :
-		- **(i)** le montant qui serait représenté par l’élément F de la formule relativement à la société affiliée pour l’année précédente s’il était déterminé compte non tenu des montants représentés par les éléments A, B, C, D ou E de la formule relativement à la société affiliée pour une année d’imposition qui n’est pas une année d’imposition précédente,
-		- **(ii)** le montant qui représenterait le revenu étranger accumulé, tiré de biens, de la société affiliée pour l’année précédente s’il n’était pas tenu compte de l’élément F de la formule;
-	- **c)** lorsque la société affiliée a reçu un paiement qu’il est raisonnable de considérer comme se rapportant à un paiement visé au paragraphe 5907(1.3) effectué par une autre société étrangère affiliée du contribuable relativement à une perte, ou à une partie de perte, de la société affiliée visée aux éléments D ou E de la formule pour une année précédente de la société affiliée, le montant de cette perte ou de cette partie de perte.
+- **(1)** Sous réserve du paragraphe (2), est visé pour l’année (appelée « année donnée » au présent paragraphe et au paragraphe (2)), pour l’application de l’élément F de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, le total des sommes représentant chacune une partie, désignée par le contribuable pour l’année donnée, de la perte étrangère accumulée, relative à des biens de la société affiliée pour une année d’imposition de celle-ci qui est :
+	- **a)** soit l’une des vingt années d’imposition de la société affiliée qui précèdent l’année donnée;
+	- **b)** soit l’une des trois années d’imposition de la société affiliée qui suivent l’année donnée.
 
-- **(2)** Pour l’application du paragraphe (1), chaque montant visé à l’alinéa (1)c) relativement à une société étrangère affiliée contrôlée d’un contribuable résidant au Canada qui n’est pas par ailleurs déterminé en monnaie canadienne est converti en monnaie canadienne au taux de change applicable le dernier jour de l’année d’imposition de la société affiliée pour laquelle le montant déterminé selon le paragraphe (1) entre dans le calcul de son revenu étranger accumulé, tiré de biens, au sens du paragraphe 95(1) de la Loi.
+- **(2)** Les règles qui suivent s’appliquent au présent paragraphe et au paragraphe (1) :
+	- **a)** une partie d’une perte étrangère accumulée, relative à des biens de la société affiliée pour une année d’imposition de celle-ci ne peut être désignée pour l’année donnée que dans la mesure où cette perte excède le total des sommes représentant chacune une partie de cette perte qui a été désignée par le contribuable pour une année d’imposition de la société affiliée qui précède l’année donnée;
+	- **b)** aucune partie de la perte étrangère accumulée, relative à des biens de la société affiliée pour une année d’imposition de celle-ci ne peut être désignée pour l’année donnée tant que les pertes étrangères accumulées, relatives à des biens de la société affiliée pour les années d’imposition précédentes visées à l’alinéa (1)a) n’ont pas été entièrement désignées;
+	- **c)** si une personne ou une société de personnes qui était, à la fin d’une année d’imposition (appelée « année de perte » au présent alinéa) de la société affiliée, une personne ou société de personnes intéressée par rapport au contribuable désigne pour une année d’imposition (appelée « année de demande » au présent alinéa) de la société affiliée une partie donnée de la perte étrangère accumulée, relative à des biens de la société affiliée pour l’année de perte, est réputée avoir été désignée par le contribuable pour l’année de demande la partie de cette perte qui est égale à la plus élevée des sommes suivantes :
+		- **(i)** la partie donnée,
+		- **(ii)** la plus élevée des parties de cette perte qui sont ainsi désignées par d’autres personnes ou sociétés de personnes intéressées par rapport au contribuable.
 
-- **(3)** Lorsqu’il y a eu
-	- **a)** unification étrangère (au sens du paragraphe 87(8.1) de la Loi) de deux ou plusieurs sociétés étrangères affiliées d’un contribuable résidant au Canada à l’égard de chacune desquelles le pourcentage de droit au surplus du contribuable était d’au moins 90 pour cent immédiatement avant l’unification (appelées dans le présent paragraphe les « sociétés affiliées remplacées ») et qu’une nouvelle société étrangère affiliée en est issue à l’égard de laquelle le pourcentage de droit au surplus du contribuable immédiatement après l’unification était d’au moins 90 pour cent (appelée dans le présent paragraphe la « société affiliée remplaçante »), ou
-	- **b)** dissolution d’une société étrangère affiliée (appelée dans le présent paragraphe la « société affiliée remplacée ») d’un contribuable résidant au Canada et que lors de la dissolution les biens de la société affiliée remplacée, dont la juste valeur marchande n’était pas inférieure à 90 pour cent de la juste valeur marchande de tous les biens de la société affiliée remplacée immédiatement avant la dissolution, ont été distribués à une autre société étrangère affiliée (appelée dans le présent paragraphe la « société affiliée remplaçante ») du contribuable,
-la société affiliée remplaçante est, en ce qui concerne la partie du montant établi selon le paragraphe (1) à titre de perte déductible d’une société affiliée remplacée au moment de l’unification étrangère ou de la dissolution qu’il est raisonnable de considérer comme subie pendant que le contribuable ou l’une ou plusieurs des personnes visées à l’un des sous-alinéas 95(2)f)(iv) à (vii) de la Loi, ou le contribuable avec une ou plusieurs de ces personnes, avaient un pourcentage de droit au surplus à l’égard de cette société affiliée remplacée d’au moins 90 pour cent, considérée comme étant la même société que cette société affiliée remplacée et comme la continuation de celle-ci.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 2; DORS/85-176, art. 2; DORS/89-135, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 5.
+- **(3)** Sous réserve du paragraphe (4), pour l’application du présent article, ***perte étrangère accumulée, relative à des biens*** s’entend, relativement à la société affiliée pour son année d’imposition, de celle des sommes ci-après qui est applicable :
+	- **a)** si, à la fin de l’année, la société affiliée est une société étrangère affiliée contrôlée d’une personne ou d’une société de personnes qui, à la fin de l’année, est une personne ou société de personnes intéressée par rapport au contribuable, la somme obtenue par la formule suivante :
+```
+J – (K + L + M + N)
+```
+où :
+- **J** représente la valeur de l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi relativement à la société affiliée pour l’année,
+- **K** l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+	- **(i)** la valeur de l’élément A de cette formule relativement à la société affiliée pour l’année,
+	- **(ii)** la valeur de l’élément H de cette formule relativement à la société affiliée pour l’année,
+- **L** l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+	- **(i)** la valeur de l’élément B de cette formule relativement à la société affiliée pour l’année,
+	- **(ii)** le total des sommes suivantes :
+	- **(A)** la valeur de l’élément E de cette formule relativement à la société affiliée pour l’année,
+	- **(B)** la valeur de l’élément F.1 de cette formule relativement à la société affiliée pour l’année,
+- **M** la valeur de l’élément C de cette formule relativement à la société affiliée pour l’année,
+- **N** l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+	- **(i)** le total des sommes suivantes :
+	- **(A)** la valeur de l’élément A.1 de cette formule relativement à la société affiliée pour l’année,
+	- **(B)** la valeur de l’élément A.2 de cette formule relativement à la société affiliée pour l’année,
+	- **(ii)** la valeur de l’élément G de cette formule relativement à la société affiliée pour l’année;
+	- **b)** dans les autres cas, zéro.
+
+- **(4)** Pour le calcul, prévu au paragraphe (3), de la perte étrangère accumulée, relative à des biens de la société affiliée pour une année d’imposition, si la société affiliée ou une autre société reçoit un paiement visé au paragraphe 5907(1.3) d’une société non-résidente qui est, au moment du paiement, une société étrangère affiliée d’une personne ou société de personnes intéressée par rapport au contribuable et qu’il est raisonnable de considérer qu’une partie du paiement se rapporte à une perte ou à une partie de perte de la société affiliée pour l’année visée à l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, le montant de la perte ou de la partie de perte est réputé être nul.
+
+- **(5)** Les règles ci-après s’appliquent au présent article et à l’article 5903.1 :
+	- **a)** si l’alinéa 95(2)d.1) de la Loi s’applique à une fusion étrangère, la nouvelle société étrangère mentionnée à cet alinéa est réputée être la même société que chaque société affiliée remplacée et en être la continuation, sauf en ce qui a trait au calcul du revenu étranger accumulé, tiré de biens d’une société affiliée remplacée mentionnée à cet alinéa;
+	- **b)** si l’alinéa 95(2)e) de la Loi s’applique à la liquidation et dissolution d’une société cédante mentionnée à cet alinéa, qui est une liquidation et dissolution désignées de celle-ci, la société actionnaire mentionnée à cet alinéa est réputée être la même société que la société cédante et en être la continuation, sauf ce qui a trait au calcul du revenu étranger accumulé, tiré de biens de la société cédante.
+
+- **(6)** Au présent article et à l’article 5903.1, ***personne ou société de personnes intéressée*** s’entend, par rapport à un contribuable à un moment donné, du contribuable ou d’une personne (sauf une société acquise désignée du contribuable), ou d’une société de personnes, qui est, à ce moment :
+	- **a)** une personne (sauf une société de personnes) qui réside au Canada et qui, à ce moment, a un lien de dépendance avec le contribuable (autrement qu’à cause d’un droit visé à l’alinéa 251(5)b) de la Loi);
+	- **b)** une société antécédente d’une personne ou société de personnes intéressée par rapport au contribuable;
+	- **c)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes intéressée par rapport au contribuable en vertu du présent paragraphe;
+	- **d)** en cas d’application de l’alinéa (1)b), une société dont le contribuable est une société antécédente.
+
+- **(7)** Les règles qui suivent s’appliquent aux alinéas (6)a) à d) :
+	- **a)** si une personne ou une société de personnes (appelées « première personne » au présent alinéa) a un lien de dépendance (autrement qu’à cause d’un droit visé à l’alinéa 251(5)b) de la Loi) avec une autre personne ou société de personnes (appelée « deuxième personne » au présent alinéa) à un moment donné, la première personne est réputée avoir existé et avoir eu un lien de dépendance avec la deuxième personne, ainsi qu’avec chacune des sociétés antécédentes (sauf une société acquise désignée de la deuxième personne) de celle-ci, tout au long de la période ayant commencé au moment où la deuxième personne ou la société antécédente, selon le cas, a pris naissance et se terminant au moment donné;
+	- **b)** en cas d’application de l’alinéa (1)b), si une société dont une personne donnée (sauf une société acquise désignée de la société) est une société antécédente a un lien de dépendance (autrement qu’à cause d’un droit visé à l’alinéa 251(5)b) de la Loi) avec une autre personne ou une société de personnes à un moment donné, la personne donnée est réputée exister et avoir un lien de dépendance avec l’autre personne ou la société de personnes, selon le cas, à ce moment.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 2; DORS/85-176, art. 2; DORS/89-135, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 5; 2013, ch. 34, art. 42 et 81.
+
+
+
+
+**5903.1** 
+
+- **(1)** Pour l’application de l’élément F.1 de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi et sous réserve du paragraphe (2), est visé pour l’année (appelée « année donnée » au présent paragraphe et au paragraphe (2)) le total des sommes dont chacune représente une partie, désignée par le contribuable pour l’année donnée, de la perte en capital étrangère accumulée de la société affiliée pour une année d’imposition de celle-ci qui est :
+	- **a)** soit l’une des vingt années d’imposition de la société affiliée qui précèdent l’année donnée;
+	- **b)** soit l’une des trois années d’imposition de la société affiliée qui suivent l’année donnée.
+
+- **(2)** Les règles ci-après s’applique au présent paragraphe et au paragraphe (1) :
+	- **a)** une partie d’une perte en capital étrangère accumulée de la société affiliée pour une année d’imposition de celle-ci ne peut être désignée pour l’année donnée que dans la mesure où cette perte excède le total des sommes dont chacune représente une partie de cette perte qui a été désignée par le contribuable pour une année d’imposition de la société affiliée précédant l’année donnée;
+	- **b)** aucune partie de la perte en capital étrangère accumulée de la société affiliée pour une année d’imposition de celle-ci ne peut être désignée pour l’année donnée tant que ses pertes en capital étrangères accumulées pour les années d’imposition précédentes visées à l’alinéa (1)a) n’ont pas été entièrement désignées;
+	- **c)** si une personne ou une société de personnes qui était, à la fin d’une année d’imposition (appelée « année de la perte » au présent alinéa), une personne ou société de personnes intéressée par rapport au contribuable désigne pour une année d’imposition (appelée « année de la demande » au présent alinéa) de la société affiliée une partie donnée de la perte en capital étrangère accumulée de la société affiliée pour l’année de la perte, est réputée avoir été désignée par le contribuable pour l’année de la demande la partie de cette perte qui correspond à la plus élevée des sommes suivantes :
+		- **(i)** la partie donnée,
+		- **(ii)** la plus élevée des parties de cette perte qui sont ainsi désignées par toute autre personne ou société de personnes intéressée par rapport au contribuable.
+
+- **(3)** Pour l’application du présent article et sous réserve du paragraphe (4), la perte en capital étrangère accumulée de la société affiliée pour une année d’imposition de celle-ci correspond à celle des sommes ci-après qui est applicable :
+	- **a)** si, à la fin de l’année, la société affiliée est une société étrangère affiliée contrôlée d’une personne ou d’une société de personnes qui est, à la fin de l’année, une personne ou société de personnes intéressée par rapport au contribuable, l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+		- **(i)** la somme déterminée selon l’alinéa a) de l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi relativement à la société affiliée pour l’année,
+		- **(ii)** la valeur de l’élément E de cette formule relativement à la société affiliée pour l’année;
+	- **b)** dans les autres cas, zéro.
+
+- **(4)** Pour le calcul, prévu au paragraphe (3), de la perte en capital étrangère accumulée de la société affiliée pour une année d’imposition, si la société affiliée ou une autre société reçoit un paiement visé au paragraphe 5907(1.3) d’une société non-résidente qui est, au moment du paiement, une société étrangère affiliée d’une personne ou société de personnes intéressée par rapport au contribuable et qu’il est raisonnable de considérer qu’une partie du paiement se rapporte à une perte en capital déductible ou à une partie d’une telle perte de la société affiliée pour l’année visée à l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, le montant de la perte ou de la partie de perte est réputé être nul.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 82.
 
 
 
@@ -11009,15 +10831,23 @@ la société affiliée remplaçante est, en ce qui concerne la partie du montant
 
 **5904** 
 
-- **(1)** Pour l’application du sous-alinéa b)(ii) de la définition de ***pourcentage de participation*** au paragraphe 95(1) de la Loi, le pourcentage de participation d’une action, appartenant à un contribuable, du capital-actions d’une société relativement à une société étrangère affiliée du contribuable qui était, à la fin de son année d’imposition, une société étrangère affiliée contrôlée de celui-ci correspond au pourcentage qui constituerait le pourcentage d’intérêt du contribuable dans la société affiliée à ce moment si :
+- **(1)** Pour l’application du sous-alinéa b)(ii) de la définition de ***pourcentage de participation*** au paragraphe 95(1) de la Loi, le pourcentage de participation d’une action, appartenant à un contribuable, du capital-actions d’une société relativement à une société étrangère affiliée du contribuable qui était, à la fin de son année d’imposition, une société étrangère affiliée contrôlée de celui-ci correspond au pourcentage qui constituerait le pourcentage d’intérêt du contribuable dans la société affiliée à ce moment si :
 	- **a)** aucune autre action n’appartenait au contribuable;
-	- **b)** le pourcentage d’intérêt direct d’une personne dans une société étrangère affiliée du contribuable — pour laquelle l’ensemble des droits à l’attribution des actions des catégories du capital-actions de la société affiliée était supérieur à zéro — était déterminé selon les règles suivantes et non selon celles énoncées à la définition de ***pourcentage d’intérêt direct*** au paragraphe 95(4) de la Loi :
+	- **b)** le pourcentage d’intérêt direct d’une personne dans une société étrangère affiliée du contribuable — pour laquelle l’ensemble des droits à l’attribution des actions des catégories du capital-actions de la société affiliée était supérieur à zéro — était déterminé selon les règles suivantes et non selon celles énoncées à la définition de ***pourcentage d’intérêt direct*** au paragraphe 95(4) de la Loi :
 		- **(i)** établir, pour chaque catégorie du capital-actions de la société affiliée, le pourcentage du droit à l’attribution de toutes les actions de cette catégorie que représente le nombre d’actions de cette catégorie détenues par cette personne par rapport au nombre total d’actions émises de cette catégorie, et
 		- **(ii)** établir le pourcentage que représente
 			- **(A)** le total des montants déterminés en vertu du sous-alinéa (i) pour chacune des catégories du capital-actions de la société affiliéepar rapport
 			- **(B)** au total des droits à l’attribution de toutes les actions émises de toutes les catégories du capital-actions de la société affiliée
 et la fraction déterminée en vertu du sous-alinéa (ii), lorsqu’elle est exprimée en pourcentage, représente le pourcentage d’intérêt direct de cette personne dans la société affiliée; et
-	- **c)** le pourcentage d’intérêt direct d’une personne dans une société étrangère affiliée du contribuable — pour laquelle l’ensemble des droits à l’attribution des actions des catégories du capital-actions de la société affiliée n’était pas supérieur à zéro — était déterminé selon les règles énoncées à la définition de ***pourcentage d’intérêt direct*** au paragraphe 95(4) de la Loi.
+	- **c)** le pourcentage d’intérêt direct d’une personne dans une société étrangère affiliée du contribuable — pour laquelle l’ensemble des droits à l’attribution des actions des catégories du capital-actions de la société affiliée ne serait pas supérieur à zéro en l’absence du présent alinéa — était déterminé selon l’hypothèse que la somme déterminée selon le sous-alinéa (2)b)(i) correspondait à la plus élevée des sommes suivantes :
+		- **(i)** le montant des bénéfices non répartis de la société affiliée, déterminé à la fin de l’année selon les principes comptables qui s’appliquent à elle pour l’année,
+		- **(ii)** la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le montant de l’actif total de la société affiliée, déterminé à la fin de l’année selon les principes comptables qui s’appliquent à elle pour l’année,
+- **B** 25 %.
 
 - **(2)** Aux fins du présent article, le droit à l’attribution de toutes les actions d’une catégorie du capital-actions d’une société étrangère affiliée du contribuable à la fin de son année d’imposition est le total
 	- **a)** des attributions faites au cours de l’année par la société affiliée aux détenteurs d’actions de cette catégorie; et
@@ -11028,13 +10858,15 @@ et la fraction déterminée en vertu du sous-alinéa (ii), lorsqu’elle est exp
 			- **(B)** de chaque montant que la société étrangère affiliée contrôlée recevrait de toute autre société étrangère affiliée contrôlée du contribuable dans laquelle elle détenait un pourcentage d’intérêt.
 
 - **(3)** Aux fins du paragraphe (2),
-	- **a)** le surplus net d’une société étrangère affiliée d’un contribuable qui est un particulier, à l’égard de ce particulier, doit être calculé comme si ce particulier était une société résidant au Canada;
-	- **b)** dans le calcul du surplus net d’une société étrangère affiliée donnée d’un contribuable résidant au Canada dans laquelle toute autre société étrangère affiliée du contribuable détient un pourcentage d’intérêt, aucun montant n’est inclus à l’égard d’une attribution que la société affiliée donnée recevra de cette autre société affiliée;
+	- **a)** le surplus net d’une société étrangère affiliée d’une personne résidant au Canada est calculé, à l’égard de cette personne, comme si celle-ci était une société résidant au Canada;
+	- **b)** si une société étrangère affiliée donnée d’une société a un pourcentage d’intérêt, au sens du paragraphe 95(4) de la Loi, dans une autre société étrangère affiliée de la société qui a un pourcentage d’intérêt dans la société affiliée donnée, le surplus net de celle-ci, ou le montant d’une attribution qu’elle a reçue, est calculé d’une manière qui, à la fois :
+		- **(i)** est raisonnable dans les circonstances,
+		- **(ii)** est conforme aux résultats qui seraient obtenus si une série d’attributions réelles avaient été effectuées et reçues par les sociétés étrangères affiliées de la société qui sont prises en compte dans le calcul.
 	- **c)** si une société étrangère affiliée contrôlée d’un contribuable résidant au Canada a émis des actions de plus d’une catégorie de capital-actions, le montant qui serait attribué aux détenteurs d’actions de toute catégorie est la fraction du montant déterminé en vertu du sous-alinéa (2)b) (ii) qui, dans les circonstances, pourrait raisonnablement être considérée comme devant être distribuée aux détenteurs de ces actions; et
 	- **d)** dans le calcul du droit à l’attribution
 		- **(i)** d’une catégorie d’actions du capital-actions d’une société étrangère affiliée qui a droit à des dividendes cumulatifs, le montant de toute attribution visée à l’alinéa (2)a) est réputé n’inclure aucune attribution à l’égard de cette catégorie qui est ou serait, le cas échéant, attribuable aux bénéfices d’une année d’imposition précédente, et
 		- **(ii)** de toute autre catégorie d’actions du capital-actions de la société affiliée, le surplus net de la société affiliée à la fin de l’année visé au sous-alinéa (2)b)(i) est réputé ne pas avoir été réduit de toute attribution visée au sous-alinéa (i) à l’égard d’une catégorie d’actions qui ouvre droit à des dividendes cumulatifs dans la mesure où cette attribution était attribuable aux bénéfices d’une année d’imposition précédente.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-913, art. 1; DORS/80-141, art. 3; DORS/94-686, art. 79(F); DORS/97-505, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-913, art. 1; DORS/80-141, art. 3; DORS/94-686, art. 79(F); DORS/97-505, art. 6; 2013, ch. 34, art. 43 et 83.
 
 
 
@@ -11045,98 +10877,227 @@ et la fraction déterminée en vertu du sous-alinéa (ii), lorsqu’elle est exp
 
 **5905** 
 
-- **(1)** Le présent paragraphe s’applique lorsque, à une date quelconque, mais non dans le cadre d’une transaction à laquelle s’applique le paragraphe (2) ou (5), une société résidant au Canada ou une société étrangère affiliée de cette société acquiert de quelque manière que ce soit des actions du capital-actions d’une autre société qui était une société étrangère affiliée de la société immédiatement avant cette date (appelée dans le présent paragraphe la « société affiliée acquise ») et que, par suite de l’acquisition, le pourcentage de droit au surplus de la société, à l’égard de la société affiliée acquise, augmente. Aux fins de la présente partie, le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger, à l’égard de la société, de la société affiliée acquise et de chaque autre société étrangère affiliée de la société dans laquelle la société affiliée acquise détient un pourcentage d’intérêt (appelée dans le présent paragraphe « autre société affiliée »), autre qu’une société affiliée acquise ou une autre société affiliée à l’égard desquelles s’applique le paragraphe (8), sont, à cette date, réduits à la fraction de ceux-ci, déterminés par ailleurs, que représente
-	- **a)** le pourcentage de droit au surplus de la société immédiatement avant cette date à l’égard de la société affiliée acquise ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée acquise ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date,
-par rapport
-	- **b)** au pourcentage de droit au surplus de la société immédiatement après cette date à l’égard de la société affiliée acquise ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée acquise ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date,
-pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***montant intrinsèque d’impôt étranger***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), les montants ainsi réduits sont les déficit exonéré initial, déficit imposable initial, montant intrinsèque d’impôt étranger initial, surplus exonéré initial et surplus imposable initial, selon le cas, de chacune de ces sociétés affiliées à l’égard de la société.
+- **(1)** Si des actions du capital-actions d’une société étrangère affiliée donnée d’une société résidant au Canada font l’objet d’une acquisition ou d’une disposition à un moment donné et que le pourcentage de droit au surplus de la société relativement à la société affiliée donnée ou à toute autre société étrangère affiliée de la société dans laquelle la société affiliée donnée a un pourcentage d’intérêt, au sens du paragraphe 95(4) de la Loi, (la société affiliée donnée et ces autres sociétés étrangères affiliées étant appelées chacune « société affiliée déterminée » au présent paragraphe) change, pour l’application des définitions de ***montant intrinsèque d’impôt étranger***, ***montant intrinsèque d’impôt hybride***, ***surplus exonéré***, ***surplus hybride*** et ***surplus imposable*** au paragraphe 5907(1), le montant intrinsèque d’impôt étranger initial, le montant intrinsèque d’impôt hybride initial, le surplus exonéré initial ou le déficit exonéré initial, le surplus hybride initial ou le déficit hybride initial et le surplus imposable initial ou le déficit imposable initial, selon le cas, de la société affiliée déterminée relativement à la société correspondent chacun, sauf si l’acquisition ou la disposition fait partie d’une opération à laquelle l’alinéa (3)a) ou le paragraphe (5) ou (5.1) s’applique, à la somme obtenue à ce moment par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de ce surplus, déficit ou montant d’impôt, selon le cas, déterminé par ailleurs à ce moment;
+- **B** le pourcentage de droit au surplus de la société immédiatement avant ce moment relativement à la société affiliée déterminée;
+- **C** le pourcentage de droit au surplus de la société immédiatement après ce moment relativement à la société affiliée déterminée.
 
-- **(2)** Lorsque, à une date quelconque, une société étrangère affiliée d’une société résidant au Canada rachète, acquiert ou annule de quelque manière que ce soit (autrement que par voie de liquidation) une action quelconque d’une catégorie de son capital-actions (autre qu’une action rachetée ou annulée que la société affiliée avait achetée ou acquise auparavant et qu’elle détenait jusqu’à cette date et à l’égard de laquelle un rajustement a déjà été fait en vertu du présent paragraphe ou du paragraphe (1) tel qu’il était libellé avant le 13 novembre 1981), les règles suivantes s’appliquent :
-	- **a)** lorsque, en vertu d’un choix exercé par la société conformément au paragraphe 93(1) de la Loi, un dividende est réputé avoir été reçu sur une ou plusieurs actions de la société étrangère affiliée qui ont fait l’objet d’une disposition par la société ou une autre société étrangère affiliée de la société (appelée dans le présent alinéa la « cédante »), par suite du rachat, de l’acquisition ou de l’annulation de ladite ou desdites actions par la société étrangère affiliée, aux fins du rajustement prévu à l’alinéa b),
-		- **(i)** le produit de la multiplication du facteur de rajustement relatif à la disposition par le total des montants représentant chacun la fraction du dividende qui est considérée, selon l’alinéa 5900(1)a), comme ayant été prélevée sur le surplus exonéré de la société affiliée est inclus, immédiatement avant cette date, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), dans le calcul du surplus exonéré ou du déficit exonéré, selon le cas, de la société affiliée à l’égard de la société,
-		- **(ii)** le produit de la multiplication du facteur de rajustement relatif à la disposition par le total des montants représentant chacun la fraction du dividende qui est considérée, selon l’alinéa 5900(1)b), comme ayant été prélevée sur le surplus imposable de la société affiliée est inclus, immédiatement avant cette date, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au paragraphe 5907(1), dans le calcul du surplus imposable ou du déficit imposable, selon le cas, de la société affiliée à l’égard de la société,
-		- **(iii)** le montant, si montant il y a, établi par ailleurs comme étant le montant intrinsèque d’impôt étranger de la société affiliée à l’égard de la société est, immédiatement avant cette date, réduit d’un montant égal au produit obtenu en multipliant le facteur de rajustement au titre de la disposition par le total des montants dont chacun représente, selon ce qui est prescrit à l’alinéa 5900(1)d), l’impôt étranger applicable à la fraction du dividende qui, selon ce qui est prescrit à l’alinéa 5900(1)b), a été prélevée sur le surplus imposable de la société affiliée,
-et, aux fins des sous-alinéas (i) à (iii), le facteur de rajustement au titre de la disposition est égal au quotient obtenu en divisant
-		- **(iv)** lorsque la cédante est la société, 100 pour cent, et
-		- **(v)** lorsque la cédante est une autre société étrangère affiliée de la société, le pourcentage de droit au surplus de la société à l’égard de la cédante, immédiatement avant la disposition
-par
-		- **(vi)** le pourcentage de droit au surplus de la société à l’égard de la société étrangère affiliée immédiatement avant la disposition;
-	- **b)** le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger, à l’égard de la société, de la société affiliée et de chaque autre société étrangère affiliée de la société dans laquelle la société affiliée détient un pourcentage d’intérêt (appelée dans le présent alinéa « autre société affiliée ») sont, à cette date, rajustés à la fraction de ceux-ci, établis par ailleurs, que représente
-		- **(i)** le pourcentage de droit au surplus de la société immédiatement avant cette date à l’égard de la société affiliée ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date,
-par rapport
-		- **(ii)** au pourcentage de droit au surplus de la société immédiatement après cette date à l’égard de la société affiliée ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date; et
-	- **c)** pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***montant intrinsèque d’impôt étranger***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), les montants déterminés selon l’alinéa b) sont les déficit exonéré initial, déficit imposable initial, montant intrinsèque d’impôt étranger initial, surplus exonéré initial et surplus imposable initial, selon le cas, de la société affiliée et de chaque autre société affiliée à l’égard de la société résidant au Canada.
+- **(2)** [Abrogé, 2013, ch. 34, art. 44]
 
-- **(3)** Lorsque, à une date quelconque, une société étrangère affiliée d’une société résidant au Canada a été formée à la suite d’une unification étrangère (au sens du paragraphe 87(8.1) de la Loi) de deux ou plusieurs sociétés (appelées chacune dans le présent paragraphe et le paragraphe (4) « société remplacée »), aux fins de la présente partie, les règles suivantes s’appliquent :
-	- **a)** à l’égard de la société étrangère affiliée,
-		- **(i)** son surplus exonéré initial à l’égard de la société est égal à l’excédent, si excédent il y a, du total des montants dont chacun représente le surplus exonéré d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification sur le total des montants dont chacun représente le déficit exonéré d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification,
-		- **(ii)** son déficit exonéré initial à l’égard de la société est égal à l’excédent, si excédent il y a, du total des montants dont chacun représente le déficit exonéré d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification sur le total des montants dont chacun représente le surplus exonéré d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification,
-		- **(iii)** son surplus imposable initial à l’égard de la société est l’excédent, si excédent il y a, du total des montants dont chacun représente le surplus imposable d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification sur le total des montants dont chacun représente le déficit imposable d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification,
-		- **(iv)** son déficit imposable initial à l’égard de la société est l’excédent, si excédent il y a, du total des montants dont chacun représente le déficit imposable d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification sur le total des montants dont chacun représente le surplus imposable d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification, et
-		- **(v)** son montant intrinsèque d’impôt étranger initial à l’égard de la société est le total des montants dont chacun représente le montant intrinsèque d’impôt étranger d’une société remplacée qui était une société étrangère affiliée de la société immédiatement avant l’unification; et
-	- **b)** à l’égard de toute autre société étrangère affiliée de la société, autre qu’une société remplacée, dans laquelle une société remplacée détenait un pourcentage d’intérêt immédiatement avant l’unification, le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger de l’autre société affiliée, à l’égard de la société, sont rajustés, à cette date, à la fraction de ceux-ci, établis par ailleurs, que représente
-		- **(i)** le pourcentage de droit au surplus de la société immédiatement avant cette date, à l’égard de l’autre société affiliée, en supposant que l’année d’imposition de l’autre société affiliée, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date,
-par rapport
-		- **(ii)** au pourcentage de droit au surplus de la société immédiatement après cette date à l’égard de l’autre société affiliée, en supposant que l’année d’imposition de l’autre société affiliée, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date,
-pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***montant intrinsèque d’impôt étranger***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), les montants ainsi rajustés sont les déficit exonéré initial, déficit imposable initial, montant intrinsèque d’impôt étranger initial, surplus exonéré initial et surplus imposable initial, selon le cas, de l’autre société affiliée à l’égard de la société résidant au Canada.
+- **(3)** Dans le cas où une société étrangère affiliée (appelée « société affiliée fusionnée » au présent paragraphe) d’une société résidant au Canada est issue, à un moment donné (appelé « moment de la fusion » au présent paragraphe), de la fusion étrangère (au sens du paragraphe 87(8.1) de la Loi) de plusieurs sociétés (appelées chacune « société remplacée » au présent paragraphe), les règles ci-après s’appliquent :
+	- **a)** pour l’application des définitions de ***montant intrinsèque d’impôt étranger***, ***montant intrinsèque d’impôt hybride***, ***surplus exonéré***, ***surplus hybride*** et ***surplus imposable*** au paragraphe 5907(1) relativement à la société affiliée fusionnée :
+		- **(i)** le surplus exonéré initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes représentant chacune le surplus exonéré d’une société remplacée relativement à la société immédiatement avant le moment de la fusion sur le total des sommes représentant chacune le déficit exonéré d’une société remplacée relativement à la société immédiatement avant le moment de la fusion,
+		- **(ii)** le déficit exonéré initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes représentant chacune le déficit exonéré d’une société remplacée relativement à la société immédiatement avant le moment de la fusion sur le total des sommes représentant chacune le surplus exonéré d’une société remplacée relativement à la société immédiatement avant le moment de la fusion,
+		- **(ii.1)** le surplus hybride initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes dont chacune représente le surplus hybride d’une société remplacée, relativement à la société, immédiatement avant le moment de la fusion sur le total des sommes dont chacune représente le déficit hybride d’une société remplacée, relativement à la société, immédiatement avant ce moment,
+		- **(ii.2)** le déficit hybride initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes dont chacune représente le déficit hybride d’une société remplacée, relativement à la société, immédiatement avant le moment de la fusion sur le total des sommes dont chacune représente le surplus hybride d’une société remplacée, relativement à la société, immédiatement avant ce moment,
+		- **(ii.3)** le montant intrinsèque d’impôt hybride initial de la société affiliée fusionnée relativement à la société correspond au total des sommes dont chacune représente le montant intrinsèque d’impôt hybride d’une société remplacée relativement à la société immédiatement avant le moment de la fusion,
+		- **(iii)** le surplus imposable initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes représentant chacune le surplus imposable d’une société remplacée relativement à la société immédiatement avant le moment de la fusion sur le total des sommes représentant chacune le déficit imposable d’une société remplacée relativement à la société immédiatement avant le moment de la fusion,
+		- **(iv)** le déficit imposable initial de la société affiliée fusionnée relativement à la société correspond à l’excédent du total des sommes représentant chacune le déficit imposable d’une société remplacée relativement à la société immédiatement avant le moment de la fusion sur le total des sommes représentant chacune le surplus imposable d’une société remplacée relativement à la société immédiatement avant le moment de la fusion,
+		- **(v)** le montant intrinsèque d’impôt étranger initial de la société affiliée fusionnée relativement à la société correspond au total des sommes représentant chacune le montant intrinsèque d’impôt étranger d’une société remplacée relativement à la société immédiatement avant le moment de la fusion;
+	- **b)** pour l’application de l’alinéa a) :
+		- **(i)** le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le surplus imposable ou le déficit imposable, le montant intrinsèque d’impôt étranger et le montant intrinsèque d’impôt hybride, relativement à la société, de chaque société remplacée immédiatement avant le moment de la fusion sont chacun réputés correspondre à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de ce surplus, déficit ou montant d’impôt, selon le cas, déterminé par ailleurs,
+- **B** le pourcentage de droit au surplus de la société immédiatement avant le moment de la fusion relativement à la société remplacée,
+- **C** le pourcentage qui correspondrait au pourcentage de droit au surplus de la société immédiatement après le moment de la fusion relativement à la société affiliée fusionnée si le surplus net de celle-ci correspondait au total des sommes représentant chacune le surplus net d’une société remplacée immédiatement avant le moment de la fusion,
+		- **(ii)** toutefois, la valeur des éléments A, B et C de la formule figurant au sous-alinéa (i) tiennent compte de l’application de l’alinéa 5902(1)b) et du paragraphe 5907(8) relativement à la fusion;
+	- **c)** pour l’application du paragraphe (1), des actions du capital-actions de toute société étrangère affiliée (sauf une société remplacée) de la société dans laquelle une société remplacée avait un pourcentage d’intérêt (au sens du paragraphe 95(4) de la Loi) immédiatement avant le moment de la fusion sont réputées faire l’objet d’une acquisition ou d’une disposition au moment de la fusion.
 
-- **(4)** Aux fins de l’alinéa (3)a), le surplus exonéré, le déficit exonéré, le surplus imposable, le déficit imposable et le montant intrinsèque d’impôt étranger de chaque société remplacée immédiatement avant l’unification étrangère sont réputés être la fraction de ceux-ci, établis par ailleurs, que représente
-	- **a)** le pourcentage de droit au surplus de la société résidant au Canada immédiatement avant l’unification à l’égard de la société remplacée, en supposant que l’année d’imposition de la société remplacée, qui par ailleurs aurait compris la date d’unification, se soit terminée immédiatement avant cette date,
-par rapport
-	- **b)** au pourcentage qui serait le pourcentage de droit au surplus de la société résidant au Canada immédiatement après l’unification à l’égard de la société étrangère affiliée de la société formée à la suite de l’unification si le surplus net de cette société étrangère affiliée était égal au total des montants dont chacun représente le surplus net d’une société remplacée immédiatement avant l’unification.
+- **(4)** [Abrogé, 2013, ch. 34, art. 44]
 
-- **(5)** Lorsque, à une date quelconque,
-	- **a)** des actions du capital-actions d’une société étrangère affiliée donnée appartenant à une société résidant au Canada (appelée dans le présent paragraphe la « société remplacée ») font l’objet d’une disposition en faveur d’une société canadienne imposable avec laquelle la société remplacée avait un lien de dépendance (appelée dans le présent paragraphe le « cessionnaire »),
-	- **b)** il y a une fusion, à laquelle s’applique l’article 87 de la Loi, de deux ou plusieurs sociétés (appelées chacune dans le présent paragraphe « société remplacée ») en vue de former une nouvelle société (appelée dans le présent paragraphe le « cessionnaire ») et que, par suite de cette fusion, le cessionnaire devient propriétaire d’actions du capital-actions d’une société étrangère affiliée donnée d’une société remplacée, ou
-	- **c)** il y a une liquidation, à laquelle s’applique le paragraphe 88(1) de la Loi, d’une société (appelée dans le présent paragraphe la « société remplacée ») dans une autre société (appelée dans le présent paragraphe le « cessionnaire ») et que, par suite de cette liquidation, le cessionnaire devient propriétaire d’actions du capital-actions d’une société étrangère affiliée donnée de la société remplacée,
-les règles suivantes s’appliquent, aux fins de la présente partie, à l’égard de la société affiliée donnée et de chaque autre société étrangère affiliée de la société remplacée dans laquelle la société affiliée donnée détient un pourcentage d’intérêt :
-	- **d)** son surplus exonéré initial à l’égard du cessionnaire est égal à l’excédent, si excédent il y a, du total de son surplus exonéré à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b), ou c), sur le total de son déficit exonéré à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c);
-	- **e)** son déficit exonéré initial à l’égard du cessionnaire est égal à l’excédent, si excédent il y a, du total de son déficit exonéré à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c), sur le total de son surplus exonéré à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c);
-	- **f)** son surplus imposable initial à l’égard du cessionnaire est égal à l’excédent, si excédent il y a, du total de son surplus imposable à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c), sur le total de son déficit imposable à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b ou c);
-	- **g)** son déficit imposable initial à l’égard du cessionnaire est égal à l’excédent, si excédent il y a, du total de son déficit imposable à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c), sur le total de son surplus imposable à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b), ou c); et
-	- **h)** son montant intrinsèque d’impôt étranger initial à l’égard du cessionnaire est égal au total du montant intrinsèque d’impôt étranger à l’égard de chaque société remplacée et à l’égard du cessionnaire, immédiatement avant toute transaction visée à l’alinéa a), b) ou c).
+- **(5)** En cas de disposition, à un moment donné, par une société résidant au Canada (appelée « cédant » au présent paragraphe) d’actions (appelées « actions cédées » au présent paragraphe) du capital-actions d’une société étrangère affiliée donnée du cédant en faveur d’une société canadienne imposable (appelée « acquéreur » au présent paragraphe) avec laquelle le cédant a un lien de dépendance, les règles ci-après s’appliquent :
+	- **a)** le surplus exonéré initial ou le déficit exonéré initial, le surplus hybride initial ou le déficit hybride initial, le montant intrinsèque d’impôt hybride initial, le surplus imposable initial ou le déficit imposable initial et le montant intrinsèque d’impôt étranger initial, relativement à l’acquéreur, de la société affiliée donnée et de chacune des sociétés étrangères affiliées du cédant dans laquelle celle-ci a un pourcentage d’intérêt, au sens du paragraphe 95(4) de la Loi, immédiatement avant ce moment sont chacun réputés correspondre à celle des sommes ci-après qui est applicable :
+		- **(i)** dans le cas du surplus exonéré initial, l’excédent du total de son surplus exonéré relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son déficit exonéré relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(ii.1)** dans le cas du surplus hybride initial, l’excédent du total de son surplus hybride relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son déficit hybride relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(ii.2)** dans le cas du déficit hybride initial, l’excédent du total de son déficit hybride relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son surplus hybride relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(ii.3)** dans le cas du montant intrinsèque d’impôt hybride initial, le total de son montant intrinsèque d’impôt hybride relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment,
+		- **(ii)** dans le cas du déficit exonéré initial, l’excédent du total de son déficit exonéré relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son surplus exonéré relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(iii)** dans le cas du surplus imposable initial, l’excédent du total de son surplus imposable relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son déficit imposable relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(iv)** dans le cas du déficit imposable initial, l’excédent du total de son déficit imposable relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment, sur le total de son surplus imposable relativement à chacun d’eux, déterminé immédiatement avant ce moment,
+		- **(v)** dans le cas du montant intrinsèque d’impôt étranger initial, le total de son montant intrinsèque d’impôt étranger relativement à chacun du cédant et de l’acquéreur, déterminé immédiatement avant ce moment;
+	- **b)** pour l’application de l’alinéa a), le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le montant intrinsèque d’impôt hybride, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger d’une société affiliée relativement au cédant et à l’acquéreur, déterminés immédiatement avant ce moment, sont chacun réputés correspondre à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de ce surplus, déficit ou montant d’impôt, selon le cas, déterminé compte non tenu du présent paragraphe, mais compte tenu, s’il y a lieu, de l’application du sous-alinéa c)(i),
+- **B** le pourcentage de droit au surplus, immédiatement avant ce moment, du cédant ou de l’acquéreur, selon le cas, relativement à la société affiliée, déterminé comme si les actions cédées étaient les seules actions appartenant au cédant immédiatement avant ce moment,
+- **C** le pourcentage de droit au surplus, immédiatement après ce moment, de l’acquéreur relativement à la société affiliée;
+	- **c)** si le cédant fait le choix prévu au paragraphe 93(1) de la Loi relativement aux actions cédées :
+		- **(i)** pour l’application de l’alinéa b), le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le montant intrinsèque d’impôt hybride, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger d’une société affiliée relativement au cédant, déterminés compte non tenu du présent paragraphe, immédiatement avant ce moment, sont rajustés conformément à l’alinéa 5902(1)b) comme si le pourcentage de droit au surplus du cédant, visé à l’élément B de la formule figurant à l’alinéa 5902(2)b), était déterminé comme si les actions cédées étaient les seules actions lui appartenant immédiatement avant ce moment,
+		- **(ii)** aucun rajustement n’est apporté au montant du surplus exonéré ou du déficit exonéré, du surplus hybride ou du déficit hybride, du montant intrinsèque d’impôt hybride, du surplus imposable ou du déficit imposable ou du montant intrinsèque d’impôt étranger d’une société affiliée relativement au cédant en vertu de l’alinéa 5902(1)b) autrement que pour l’application de l’alinéa b);
+	- **d)** il est entendu qu’aucun rajustement n’est apporté en vertu du paragraphe (1) au surplus exonéré ou au déficit exonéré, au surplus hybride ou au déficit hybride, au montant intrinsèque d’impôt hybride, au surplus imposable ou au déficit imposable ou au montant intrinsèque d’impôt étranger d’une société affiliée relativement au cédant.
 
-- **(6)** Aux fins du paragraphe (5), les règles suivantes s’appliquent :
-	- **a)** lorsque l’alinéa (5)a) s’applique et que la société remplacée est, aux termes d’un choix exercé en vertu du paragraphe 93(1) de la Loi, réputée avoir reçu un dividende sur une ou plusieurs actions de la société affiliée donnée ayant fait l’objet de la disposition dans la transaction, aux fins du rajustement prévu à l’alinéa b),
-		- **(i)** est inclus, immédiatement avant la date de la transaction, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), dans le calcul du surplus exonéré ou du déficit exonéré, selon le cas, de la société affiliée donnée à l’égard de la société remplacée le quotient de la division de :
-			- **(A)** la fraction du dividende qui, selon ce qui est prescrit à l’alinéa 5900(1)a), a été prélevée sur le surplus exonéré de la société affiliée donnéepar
-			- **(B)** le pourcentage de droit au surplus de la société remplacée à l’égard de la société affiliée donnée immédiatement avant la disposition, en supposant que les actions qui ont fait l’objet de la disposition par la société remplacée soient les seules actions lui appartenant immédiatement avant la date de la transaction,
-		- **(ii)** est inclus, immédiatement avant la date de la transaction, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au paragraphe 5907(1), dans le calcul du surplus imposable ou du déficit imposable, selon le cas, de la société affiliée donnée à l’égard de la société remplacée le quotient de la division de :
-			- **(A)** la fraction du dividende qui, selon ce qui est prescrit à l’alinéa 5900(1)b), a été prélevée sur le surplus imposable de la société affiliée donnéepar
-			- **(B)** le pourcentage de droit au surplus visé à la disposition (i)(B), et
-		- **(iii)** le montant, si montant il y a, établi par ailleurs comme étant le montant intrinsèque d’impôt étranger de la société affiliée donnée à l’égard de la société remplacée est, immédiatement avant la date de la transaction, réduit d’un montant égal au quotient obtenu en divisant
-			- **(A)** le montant qui, selon ce qui est prescrit à l’alinéa 5900(1)d), constitue l’impôt étranger qui s’applique à la fraction du dividende qui, selon ce qui est prescrit à l’alinéa 5900(1)b), a été prélevée sur le surplus imposable de la société affiliée donnéepar
-			- **(B)** le pourcentage de droit au surplus visé à la disposition (i)(B); et
-	- **b)** le surplus exonéré, le déficit exonéré, le surplus imposable, le déficit imposable et le montant intrinsèque d’impôt étranger d’une société affiliée, à l’égard d’une société remplacée (au sens du paragraphe (5)) et du cessionnaire (au sens du paragraphe (5)), sont réputés être la fraction de ceux-ci, établis par ailleurs, que représente
-		- **(i)** le pourcentage de droit au surplus, immédiatement avant la date de celle des transactions visées à l’alinéa (5)a), b) ou c) qui survient la dernière, de la société remplacée ou du cessionnaire, selon le cas, à l’égard de la société affiliée, en supposant,
-			- **(A)** que l’année d’imposition de la société affiliée, qui par ailleurs aurait compris cette date, se soit terminée avant cette date, et
-			- **(B)** lorsqu’il s’agit d’une transaction visée à l’alinéa (5)a), que les actions dont il y est question étaient les seules actions appartenant à la société remplacée immédiatement avant cette date,
-par rapport
-		- **(ii)** au pourcentage de droit au surplus, immédiatement après la date de celle des transactions visées à l’alinéa (5)a), b) ou c) qui survient la dernière, du cessionnaire à l’égard de la société affiliée, en supposant que l’année d’imposition de la société affiliée, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date.
+- **(5.1)** Si, par suite d’une fusion, au sens du paragraphe 87(1) de la Loi, effectuée à un moment donné, des actions du capital-actions d’une société étrangère affiliée donnée d’une société remplacée deviennent des biens de la nouvelle société, les règles ci-après s’appliquent :
+	- **a)** le surplus exonéré initial ou le déficit exonéré initial, le surplus hybride initial ou le déficit hybride initial, le montant intrinsèque d’impôt hybride initial, le surplus imposable initial ou le déficit imposable initial et le montant intrinsèque d’impôt étranger initial, relativement à la nouvelle société, de la société affiliée donnée et de chacune des sociétés étrangères affiliées de la société remplacée dans laquelle la société affiliée donnée a un pourcentage d’intérêt, au sens du paragraphe 95(4) de la Loi, immédiatement avant ce moment sont chacun réputés correspondre à celle des sommes ci-après qui est applicable :
+		- **(i)** dans le cas du surplus exonéré initial, l’excédent du total de son surplus exonéré relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son déficit exonéré relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(ii)** dans le cas du déficit exonéré initial, l’excédent du total de son déficit exonéré relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son surplus exonéré relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(ii.1)** dans le cas du surplus hybride initial, l’excédent du total de son surplus hybride relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son déficit hybride relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(ii.2)** dans le cas du déficit hybride initial, l’excédent du total de son déficit hybride relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son surplus hybride relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(ii.3)** dans le cas du montant intrinsèque d’impôt hybride initial, le total de son montant intrinsèque d’impôt étranger relativement à chaque société remplacée, déterminé immédiatement avant ce moment,
+		- **(iii)** dans le cas du surplus imposable initial, l’excédent du total de son surplus imposable relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son déficit imposable relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(iv)** dans le cas du déficit imposable initial, l’excédent du total de son déficit imposable relativement à chaque société remplacée, déterminé immédiatement avant ce moment, sur le total de son surplus imposable relativement à chacune d’elles, déterminé immédiatement avant ce moment,
+		- **(v)** dans le cas du montant intrinsèque d’impôt étranger initial, le total de son montant intrinsèque d’impôt étranger relativement à chaque société remplacée, déterminé immédiatement avant ce moment;
+	- **b)** pour l’application de l’alinéa a), le surplus exonéré ou le déficit exonéré, le surplus hybride ou le déficit hybride, le montant intrinsèque d’impôt hybride, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger d’une société affiliée relativement à une société remplacée, déterminés immédiatement avant ce moment, sont chacun réputés correspondre à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de ce surplus, déficit ou montant d’impôt, selon le cas, déterminé compte non tenu du présent paragraphe,
+- **B** le pourcentage de droit au surplus, immédiatement avant ce moment, de la société remplacée relativement à la société affiliée,
+- **C** le pourcentage de droit au surplus, immédiatement après ce moment, de la nouvelle société relativement à la société affiliée.
 
-- **(7)** Lorsque, à une date quelconque, il y a eu dissolution d’une société étrangère affiliée (appelée dans le présent paragraphe la « société dissoute ») d’une société résidant au Canada et que l’alinéa 95(2)e.1) de la Loi s’applique à l’égard de la dissolution, chaque autre société étrangère affiliée de la société qui détenait un pourcentage d’intérêt direct dans la société dissoute immédiatement avant cette date est, aux fins du calcul de son surplus exonéré ou de son déficit exonéré, de son surplus imposable ou de son déficit imposable et de son montant intrinsèque d’impôt étranger, à l’égard de la société, réputée avoir reçu des dividendes immédiatement avant cette date dont le total est égal au montant qu’on pourrait raisonnablement conclure qu’elle aurait reçu si la société dissoute avait, immédiatement avant cette date, payé des dividendes dont le total sur toutes les actions de son capital-actions était égal à son surplus net à l’égard de la société immédiatement avant cette date, en supposant que l’année d’imposition de la société dissoute, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date.
+- **(5.11) à (5.13)** [Abrogés, 2013, ch. 34, art. 44]
 
-- **(8)** Lorsque, à une date quelconque, un dividende est, en vertu d’un choix fait par une société conformément au paragraphe 93(1) de la Loi, réputé avoir été reçu sur une ou plusieurs actions d’une catégorie du capital-actions d’une société étrangère affiliée donnée de la société qui ont fait l’objet d’une disposition en faveur de la société ou d’une autre société étrangère affiliée de la société, les règles suivantes s’appliquent :
-	- **a)** aux fins du rajustement prévu à l’alinéa b),
-		- **(i)** le produit de la multiplication du facteur de rajustement relatif à la disposition par le total des montants représentant chacun la fraction du dividende qui est considérée, selon l’alinéa 5900(1)a), comme ayant été prélevée sur le surplus exonéré de la société affiliée donnée est inclus, immédiatement avant cette date, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), dans le calcul du surplus exonéré ou du déficit exonéré, selon le cas, de la société affiliée donnée à l’égard de la société,
-		- **(ii)** le produit de la multiplication du facteur de rajustement relatif à la disposition par le total des montants représentant chacun la fraction du dividende qui est considérée, selon l’alinéa 5900(1)b), comme ayant été prélevée sur le surplus imposable de la société affiliée donnée est inclus, immédiatement avant cette date, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au paragraphe 5907(1), dans le calcul du surplus imposable ou du déficit imposable, selon le cas, de la société affiliée donnée à l’égard de la société,
-		- **(iii)** le montant, si montant il y a, établi par ailleurs comme étant le montant intrinsèque d’impôt étranger de la société affiliée donnée à l’égard de la société est, immédiatement avant cette date, réduit d’un montant égal au produit obtenu en multipliant le facteur de rajustement au titre de la disposition par le total des montants dont chacun représente le montant qui, selon ce qui est prescrit à l’alinéa 5900(1)d), constitue l’impôt étranger applicable à la fraction du dividende qui, selon ce qui est prescrit à l’alinéa 5900(1)b), a été prélevée sur le surplus imposable de la société affiliée donnée
-et, aux fins des sous-alinéas (i) à (iii), le facteur de rajustement au titre de la disposition est égal au quotient obtenu en divisant
-		- **(iv)** lorsque la personne qui dispose des actions est la société, 100 pour cent, et
-		- **(v)** lorsque la personne qui dispose des actions est une autre société étrangère affiliée de la société, le pourcentage de droit au surplus de la société à l’égard de cette société affiliée immédiatement avant la disposition
-par
-		- **(vi)** le pourcentage de droit au surplus de la société à l’égard de la société étrangère affiliée donnée immédiatement avant la disposition;
-	- **b)** le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger, à l’égard de la société, de la société affiliée donnée et de chaque autre société étrangère affiliée de la société dans laquelle la société affiliée donnée détient un pourcentage d’intérêt (appelée dans le présent paragraphe « autre société affiliée ») sont, à cette date, rajustés à la fraction de ceux-ci, établis par ailleurs, que représente
-		- **(i)** le pourcentage de droit au surplus de la société immédiatement avant cette date à l’égard de la société affiliée donnée ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée donnée ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date,
-par rapport
-		- **(ii)** au pourcentage de droit au surplus de la société immédiatement après cette date à l’égard de la société affiliée donnée ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée donnée ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date; et
-	- **c)** pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***montant intrinsèque d’impôt étranger***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), les montants déterminés selon l’alinéa b) sont les déficit exonéré initial, déficit imposable initial, montant intrinsèque d’impôt étranger initial, surplus exonéré initial et surplus imposable initial, selon le cas, de la société affiliée donnée et de chaque autre société affiliée à l’égard de la société résidant au Canada.
+- **(5.2)** Lorsque le contrôle d’une société résidant au Canada est acquis à un moment donné par une personne ou un groupe de personnes et que, à ce moment, la société détient des actions du capital-actions d’une de ses sociétés étrangères affiliées, est à inclure, en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), dans le calcul du surplus exonéré ou du déficit exonéré, selon le cas, de la société affiliée relativement à la société au moment immédiatement avant le moment donné, la somme éventuelle obtenue par la formule suivante :
+```
+(A + B – C)/D
+```
+où :
+- **A** représente la somme obtenue par la formule suivante :
+```
+E × F
+```
+où :
+- **E** représente le solde de surplus libre d’impôt de la société affiliée relativement à la société, déterminé au moment (appelé « moment pertinent » au présent paragraphe) immédiatement avant le moment immédiatement avant le moment donné,
+- **F** le pourcentage de droit au surplus de la société relativement à la société affiliée, déterminé au moment pertinent;
+- **B** le total des sommes représentant chacune le coût indiqué pour la société, déterminé au moment donné, d’une action du capital-actions de la société affiliée qui appartient à la société à ce moment;
+- **C** le total des sommes suivantes :
+- **a)** la juste valeur marchande, déterminée au moment donné, de l’ensemble des actions du capital-actions de la société affiliée qui appartiennent à la société à ce moment,
+- **b)** la somme déterminée selon l’alinéa 5908(6)b);
+- **D** le pourcentage de droit au surplus de la société relativement à la société affiliée, déterminé au moment pertinent.
 
-- **(9)** Lorsque, à une date quelconque, une société étrangère affiliée d’une société résidant au Canada (appelée dans le présent paragraphe la « société affiliée émettrice ») émet des actions d’une catégorie de son capital-actions à une personne autre que la société ou une autre société étrangère affiliée de la société et que, par suite de cette émission, le pourcentage de droit au surplus de la société à l’égard de la société affiliée émettrice diminue, aux fins de la présente partie, le surplus exonéré ou le déficit exonéré, le surplus imposable ou le déficit imposable et le montant intrinsèque d’impôt étranger, à l’égard de la société, de la société affiliée émettrice et de chaque autre société étrangère affiliée de la société dans laquelle la société affiliée émettrice détient un pourcentage d’intérêt (appelée dans le présent paragraphe « autre société affiliée ») sont, à cette date, augmentés à la fraction de ceux-ci, établis par ailleurs, que représente
-	- **a)** le pourcentage de droit au surplus de la société immédiatement avant cette date à l’égard de la société affiliée émettrice ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée émettrice ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement avant cette date,
-par rapport
-	- **b)** au pourcentage de droit au surplus de la société immédiatement après cette date à l’égard de la société affiliée émettrice ou de l’autre société affiliée, selon le cas, en supposant que l’année d’imposition de la société affiliée émettrice ou de l’autre société affiliée, selon le cas, qui par ailleurs aurait compris cette date, se soit terminée immédiatement après cette date,
-pour l’application des définitions de ***déficit exonéré***, ***déficit imposable***, ***montant intrinsèque d’impôt étranger***, ***surplus exonéré*** et ***surplus imposable*** au paragraphe 5907(1), les montants ainsi augmentés sont les déficit exonéré initial, déficit imposable initial, montant intrinsèque d’impôt étranger initial, surplus exonéré initial et surplus imposable initial, selon le cas, de chacune de ces sociétés affiliées à l’égard de la société résidant au Canada.
+- **(5.3)** Le coût indiqué d’une action visée à l’élément B de la formule figurant au paragraphe (5.2) est déterminé après l’application du paragraphe 111(4) de la Loi.
+
+- **(5.4)** Pour l’application de la division 88(1)d)(ii)(B) de la Loi, est visée celle des sommes ci-après qui est applicable :
+	- **a)** si le bien visé au sous-alinéa 88(1)d)(ii) de la Loi est une action du capital-actions d’une société étrangère affiliée de la filiale, la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le solde de surplus libre d’impôt de la société affiliée relativement à la filiale, déterminé au moment où la société mère a acquis le contrôle de la filiale la dernière fois,
+- **B** le pourcentage qui correspondrait au pourcentage de droit au surplus de la filiale, déterminé à ce moment, relativement à la société affiliée si l’action en cause était la seule action du capital-actions de la société affiliée appartenant à la filiale à ce moment;
+	- **b)** si le bien visé au sous-alinéa 88(1)d)(ii) de la Loi est une participation dans une société de personnes, la somme déterminée selon le paragraphe 5908(7);
+	- **c)** dans les autres cas, zéro.
+
+- **(5.5)** Pour l’application des paragraphes (5.2), (5.4), (7.2) et (7.3), le ***solde de surplus libre d’impôt*** d’une société étrangère affiliée d’une société résidant au Canada, relativement à la société à un moment donné, correspond au total des sommes suivantes :
+	- **a)** l’excédent du surplus exonéré de la société affiliée relativement à la société à ce moment sur le total des sommes suivantes :
+		- **(i)** son déficit hybride relativement à la société à ce moment,
+		- **(ii)** son déficit imposable relativement à la société à ce moment;
+	- **a.1)** l’excédent du surplus hybride de la société affiliée relativement à la société à ce moment sur la somme déterminée selon le paragraphe (5.7) relativement à la société à ce moment si, à ce moment, le montant de ce surplus est égal ou inférieur à la somme obtenue par la formule suivante :
+```
+[A × (B – 0,5)] + (C × 0,5)
+```
+où :
+- **A** représente le montant intrinsèque d’impôt hybride de la société affiliée relativement à la société à ce moment,
+- **B** le facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi, applicable à la société pour son année d’imposition qui comprend ce moment,
+- **C** le surplus hybride de la société affiliée relativement à la société à ce moment;
+	- **b)** la moins élevée des sommes suivantes :
+		- **(i)** la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le montant intrinsèque d’impôt étranger de la société affiliée relativement à la société à ce moment,
+- **B** l’excédent, sur un, du facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi, de la société pour son année d’imposition qui comprend ce moment,
+		- **(ii)** l’excédent du surplus imposable de la société affiliée relativement à la société à ce moment sur celle des sommes ci-après qui est applicable :
+			- **(A)** si la société affiliée a un déficit exonéré et un déficit hybride, relativement à la société à ce moment, le total de ces déficits,
+			- **(B)** si elle a un déficit exonéré mais aucun déficit hybride. relativement à la société à ce moment, l’excédent du déficit exonéré sur son surplus hybride relativement à la société à ce moment,
+			- **(C)** si elle a un déficit hybride mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit hybride sur son surplus exonéré relativement à la société à ce moment.
+
+- **(5.6)** Pour l’application du paragraphe (5.5), les montants de surplus exonéré ou de déficit exonéré, de surplus hybride ou de déficit hybride, de montant intrinsèque d’impôt hybride, de surplus imposable ou de déficit imposable et de montant intrinsèque d’impôt étranger d’une société étrangère affiliée d’une société résidant au Canada, relativement à la société à un moment donné, correspondent aux montants qui seraient déterminés, à ce moment, selon le sous-alinéa 5902(1)a)(i) si ce sous-alinéa s’appliquait à ce moment et si la mention « moment du dividende » à ce sous-alinéa était remplacée par « moment donné ».
+
+- **(5.7)** Pour l’application de l’alinéa (5.5)a.1), la somme déterminée selon le présent paragraphe relativement à la société à un moment donné correspond à celle des sommes ci-après qui est applicable :
+	- **a)** si la société affiliée a un déficit exonéré et un déficit imposable, relativement à la société à ce moment, le total de ces déficits;
+	- **b)** si elle a un déficit exonéré mais aucun déficit imposable, relativement à la société à ce moment, le montant du déficit exonéré;
+	- **c)** si elle a un déficit imposable mais aucun déficit exonéré, relativement à la société à ce moment, l’excédent du déficit imposable sur son surplus exonéré relativement à la société à ce moment.
+
+- **(6)** [Abrogé, 2013, ch. 34, art. 44]
+
+- **(7)** Si une société étrangère affiliée (appelée « société dissoute » au présent paragraphe) d’une société résidant au Canada fait l’objet, à un moment donné, d’une liquidation et dissolution qui est une liquidation et dissolution désignées au sens du paragraphe 95(1) de la Loi, chaque autre société étrangère affiliée de la société qui avait un pourcentage d’intérêt direct, au sens du paragraphe 95(4) de la Loi, dans la société dissoute immédiatement avant ce moment est réputée, pour ce qui est du calcul de son surplus exonéré ou déficit exonéré, de son surplus hybride ou déficit hybride, de son montant intrinsèque d’impôt hybride, de son surplus imposable ou déficit imposable et de son montant intrinsèque d’impôt étranger, relativement à la société, avoir reçu, immédiatement avant ce moment, des dividendes d’un total égal à la somme qu’elle aurait pu vraisemblablement recevoir si la société dissoute avait versé, immédiatement avant ce moment sur les actions de son capital-actions, des dividendes d’un total égal à son surplus net relativement à la société immédiatement avant ce moment, à supposer que l’année d’imposition de la société dissoute, qui aurait par ailleurs compris ce moment, ait pris fin immédiatement avant ce moment.
+
+- **(7.1)** Le paragraphe (7.2) s’applique si les conditions ci-après sont réunies :
+	- **a)** une société étrangère affiliée (appelée « société affiliée déficitaire » au présent paragraphe et aux paragraphes (7.2) à (7.6)) d’une société résidant au Canada a un déficit exonéré relativement à la société à un moment donné;
+	- **b)** au moment (appelé « moment d’acquisition » au présent alinéa et aux paragraphes (7.2) à (7.6)) immédiatement après le moment donné, des actions du capital-actions d’une société étrangère affiliée (appelée « société affiliée acquise » au présent paragraphe et aux paragraphes (7.2) à (7.6)) de la société dans laquelle la société affiliée déficitaire a un pourcentage d’intérêt (au sens du paragraphe 95(4) de la Loi) au moment donné sont acquises par l’une des personnes ci-après, ou deviennent par ailleurs des biens de celle-ci :
+		- **(i)** la société,
+		- **(ii)** une autre société étrangère affiliée de la société, dans le cas où le pourcentage qui correspondrait, si la société affiliée déficitaire résidait au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise immédiatement après le moment d’acquisition est inférieur au pourcentage qui correspondrait, si la société affiliée déficitaire résidait au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise au moment donné.
+
+- **(7.2)** En cas d’application du présent paragraphe :
+	- **a)** est à inclure en application du sous-alinéa (v) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), au moment (appelé « moment du rajustement » au présent paragraphe et aux paragraphes (7.6) et (7.7) et 5908(11) et (12)) immédiatement avant le moment immédiatement avant le moment immédiatement avant le moment d’acquisition, dans le calcul du surplus exonéré ou du déficit exonéré d’une société affiliée acquise relativement à la société, la somme éventuelle égale à la moins élevée des sommes suivantes :
+		- **(i)** la somme obtenue par la formule suivante :
+```
+A/B
+```
+où :
+- **A** représente le déficit exonéré de la société affiliée déficitaire relativement à la société immédiatement avant le moment d’acquisition,
+- **B** le pourcentage qui correspondrait, si la société affiliée déficitaire résidait au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise immédiatement avant le moment d’acquisition,
+		- **(ii)** la moins élevée des sommes suivantes :
+			- **(A)** le solde de surplus libre d’impôt de la société affiliée acquise relativement à la société immédiatement avant le moment du rajustement,
+			- **(B)** selon le cas :
+				- **(I)** s’il y a plus d’une société affiliée acquise, la somme désignée par la société relativement à la société affiliée acquise, dans sa déclaration de revenu pour l’année d’imposition dans laquelle prend fin l’année d’imposition de la société affiliée acquise qui comprend le moment d’acquisition,
+				- **(II)** dans les autres cas, la somme déterminée selon la division (A);
+	- **b)** est à inclure en application du sous-alinéa (vi.1) de l’élément A de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), au moment immédiatement après le moment d’acquisition, dans le calcul du déficit exonéré de la société affiliée déficitaire relativement à la société, le total des sommes représentant chacune la somme obtenue par la formule ci-après relativement à une société affiliée acquise :
+```
+C × D
+```
+où :
+- **C** représente la somme déterminée selon l’alinéa a) relativement à la société affiliée acquise,
+- **D** le pourcentage qui correspondrait, si la société affiliée déficitaire résidait au Canada, à son pourcentage de droit au surplus immédiatement avant le moment d’acquisition relativement à la société affiliée acquise;
+	- **c)** est à inclure en application du sous-alinéa (vi.1) de l’élément A de la formule figurant à la définition de ***surplus exonéré*** au paragraphe 5907(1), au moment immédiatement après le moment d’acquisition, dans le calcul du surplus exonéré ou du déficit exonéré de toute autre société étrangère affiliée (appelée « société affiliée subordonnée » au présent alinéa et à l’alinéa (7.6)b)) de la société, relativement à celle-ci, qui, immédiatement avant le moment d’acquisition, a un pourcentage d’intérêt direct, au sens du paragraphe 95(4) de la Loi, dans la société affiliée acquise et dans laquelle la société affiliée déficitaire n’a pas, immédiatement avant le moment d’acquisition, de pourcentage d’intérêt, au sens du même paragraphe de la Loi, la somme obtenue par la formule suivante :
+```
+E × F
+```
+où :
+- **E** représente la somme déterminée selon l’alinéa a) relativement à la société affiliée acquise,
+- **F** le pourcentage qui correspondrait, si la société affiliée subordonnée résidait au Canada, à son pourcentage de droit au surplus immédiatement avant le moment d’acquisition relativement à la société affiliée acquise si les seules actions du capital-actions d’une société lui appartenant étaient ses actions du capital-actions de la société affiliée acquise.
+
+- **(7.3)** Le paragraphe (7.4) s’applique si la somme visée à l’alinéa a) excède celle visée à l’alinéa b) :
+	- **a)** la moins élevée des sommes suivantes :
+		- **(i)** le déficit exonéré de la société affiliée déficitaire relativement à la société immédiatement avant le moment d’acquisition,
+		- **(ii)** le total des sommes représentant chacune le résultat de la multiplication de ce qui suit :
+			- **(A)** le solde de surplus libre d’impôt d’une société affiliée acquise relativement à la société immédiatement avant le moment d’acquisition,
+			- **(B)** le pourcentage de droit au surplus de la société relativement à cette société affiliée acquise immédiatement avant le moment d’acquisition;
+	- **b)** le total des sommes représentant chacune le résultat de la multiplication de ce qui suit :
+		- **(i)** la somme effectivement désignée en vertu de la subdivision (7.2)a)(ii)(B)(I) relativement à une société affiliée acquise,
+		- **(ii)** le pourcentage de droit au surplus de la société relativement à cette société affiliée acquise immédiatement avant le moment de l’acquisition.
+
+- **(7.4)** En cas d’application du présent paragraphe, la somme désignée par la société relativement à une société affiliée acquise est réputée, pour l’application de la subdivision (7.2)a)(ii)(B)(I) :
+	- **a)** être la somme déterminée par le ministre relativement à la société affiliée acquise;
+	- **b)** ne pas être la somme effectivement désignée en vertu de la subdivision (7.2)a)(ii)(B)(I).
+
+- **(7.5)** Le paragraphe (7.6) s’applique si les conditions ci-après sont réunies :
+	- **a)** le paragraphe (7.2) s’applique;
+	- **b)** la société affiliée déficitaire, ou toute autre société étrangère affiliée de la société dans laquelle la société affiliée déficitaire a un pourcentage d’intérêt immédiatement avant le moment d’acquisition (lequel pourcentage s’entend, pour l’application du présent paragraphe, au sens du paragraphe 95(4) de la Loi et laquelle société affiliée déficitaire ou autre société affiliée est appelée « détenteur direct » au paragraphe (7.6)), a, immédiatement avant le moment d’acquisition, un pourcentage d’intérêt direct (au sens du paragraphe 95(4) de la Loi) dans une autre société étrangère affiliée (appelée « société affiliée déterminée » à l’alinéa c) et au paragraphe (7.6)) de la société;
+	- **c)** la société affiliée déterminée est la société affiliée acquise ou a un pourcentage d’intérêt dans cette société immédiatement avant le moment d’acquisition.
+
+- **(7.6)** Sous réserve de l’alinéa 5908(11)c), pour l’application de l’alinéa 92(1.1)a) de la Loi, en cas d’application du présent paragraphe, les sommes obtenues par les formules ci-après sont à ajouter dans le calcul, au moment du rajustement et par la suite, des sommes suivantes :
+	- **a)** le prix de base rajusté pour le détenteur direct d’une action du capital-actions de la société affiliée déterminée :
+```
+A × B
+```
+où :
+- **A** représente la somme déterminée selon l’alinéa (7.2)a) relativement à la société affiliée acquise,
+- **B** le pourcentage qui correspondrait, si le détenteur direct résidait au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise immédiatement avant le moment d’acquisition si l’action était la seule action lui appartenant;
+	- **b)** le prix de base rajusté pour la société affiliée subordonnée d’une action du capital-actions de la société affiliée acquise :
+```
+C × D
+```
+où :
+- **C** représente la somme déterminée selon l’alinéa (7.2)a) relativement à la société affiliée acquise,
+- **D** le pourcentage qui correspondrait, si la société affiliée subordonnée résidait au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise immédiatement avant le moment d’acquisition si l’action était la seule action lui appartenant.
+
+- **(7.7)** Si une somme (appelée « montant de rajustement » au présent paragraphe et au paragraphe 5908(12)) est à ajouter, en application du paragraphe 92(1.1) de la Loi, dans le calcul, au moment du rajustement ou par la suite, du prix de base rajusté d’une action du capital-actions d’une société étrangère affiliée d’une société résidant au Canada, est visé pour l’application de l’alinéa 93(3)c) de la Loi :
+	- **a)** le montant de rajustement, en cas d’application de l’alinéa 92(1.1)a) de la Loi;
+	- **b)** la somme déterminée selon le paragraphe 5908(12), en cas d’application de l’alinéa 92(1.1)b) de la Loi.
+
+- **(8) et (9)** [Abrogés, 2013, ch. 34, art. 44]
 
 - **(10)** Aux fins du présent article, le pourcentage de droit au surplus, à une date quelconque, d’une action appartenant à une société résidant au Canada du capital-actions d’une société étrangère affiliée de la société à l’égard d’une société étrangère affiliée donnée de la société est égal à la fraction
 	- **a)** du montant qui aurait été reçu sur l’action si la société étrangère affiliée avait, à cette date, payé des dividendes dont le total sur toutes les actions de son capital-actions était égal au montant qui serait son surplus net à l’égard de la société à cette date en supposant que
@@ -11147,21 +11108,34 @@ qui peut être raisonnablement considérée comme se rapportant au
 		- **(i)** chaque autre société étrangère affiliée de la société dans laquelle la société étrangère affiliée donnée détenait un pourcentage d’intérêt eût, immédiatement avant cette date, payé un dividende égal à son surplus net à l’égard de la société immédiatement avant le paiement du dividende, et
 		- **(ii)** tout dividende visé au sous-alinéa (i), qu’une autre société étrangère affiliée aurait reçu, eût été reçu par elle immédiatement avant le dividende qu’elle aurait payé.
 
-- **(11)** Aux fins du paragraphe (10),
-	- **a)** dans le calcul du surplus net d’une société étrangère affiliée donnée d’un contribuable résidant au Canada, ou du montant d’un dividende reçu par elle, dans laquelle une autre société étrangère affiliée du contribuable détient un pourcentage d’intérêt, aucun montant n’est inclus à l’égard d’une distribution qui serait reçue de cette autre société affiliée par la société affiliée donnée; et
-	- **b)** si une société étrangère affiliée d’une société résidant au Canada a émis des actions de plus d’une catégorie de son capital-actions, le montant qui serait payé à titre de dividende sur les actions d’une catégorie est égal à la fraction de son surplus net qu’on pourrait raisonnablement considérer, dans les circonstances, qu’elle aurait payée sur toutes les actions de cette catégorie.
+- **(11)** Les règles ci-après s’appliquent au paragraphe (10) :
+	- **a)** si une société étrangère affiliée donnée d’une société a un pourcentage d’intérêt dans une autre société étrangère affiliée de la société qui a un pourcentage d’intérêt dans la société affiliée donnée, la somme qui représenterait soit le surplus net de celle-ci, soit un dividende qu’elle a reçu est calculée d’une manière qui, à la fois :
+		- **(i)** est raisonnable dans les circonstances,
+		- **(ii)** est conforme aux résultats qui seraient obtenus si une série de dividendes réels avaient été versés et reçus par les sociétés étrangères affiliées de la société qui sont pris en compte dans le calcul;
+	- **b)** si une société étrangère affiliée d’une société résidant au Canada a émis des actions de plusieurs catégories de son capital-actions, la somme qui serait versée à titre de dividende sur les actions d’une de ces catégories correspond à la partie de son surplus net qu’elle pourrait vraisemblablement avoir versée, dans les circonstances, sur l’ensemble des actions de cette catégorie;
+	- **c)** dans le cas où le surplus net de la société affiliée donnée, déterminé pour l’application du paragraphe (10), serait nul en l’absence du présent alinéa, il est réputé correspondre, pour l’application de ce paragraphe, à la plus élevée des sommes suivantes :
+		- **(i)** le montant des bénéfices non répartis de la société affiliée donnée, déterminé à la fin de sa dernière année d’imposition se terminant avant le moment mentionné à ce paragraphe, selon les principes comptables qui s’appliquent à elle pour cette année,
+		- **(ii)** la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le montant de l’actif total de la société affiliée donnée, déterminé à la fin de cette année selon les principes comptables qui s’appliquent à elle pour cette même année,
+- **B** 25 %.
 
-- **(12)** Nonobstant toute autre disposition de la présente partie, aux fins de déterminer, en vertu du paragraphe (10), le surplus net d’une société étrangère affiliée d’une société résidant au Canada à l’égard de la société, à une date quelconque d’une année d’imposition de la société affiliée qui par ailleurs aurait compris cette date (appelée dans le présent paragraphe « année normale »), les gains exonérés ou la perte exonérée et les gains imposables ou la perte imposable à inclure dans le calcul du surplus net à l’égard de toute année d’imposition de la société affiliée, qui est supposée aux fins d’une disposition du présent article s’être terminée à cette date, sont réputés être la fraction de ces montants déterminés pour l’année normale que représente le nombre de jours de l’année d’imposition, qui est supposée s’être terminée à cette date, par rapport au nombre de jours de l’année normale.
+- **(12)** [Abrogé, 2013, ch. 34, art. 84]
 
-- **(13)** Pour l’application de la définition de ***pourcentage de droit au surplus*** au paragraphe 95(1) de la Loi et de la présente partie, le pourcentage de droit au surplus, à une date donnée, d’une société résidant au Canada à l’égard d’une société étrangère affiliée donnée de celle-ci est :
-	- **a)** lorsque la société affiliée donnée et chaque société qui figure dans le calcul du pourcentage d’intérêt détenu par la société dans la société affiliée donnée ne détiennent qu’une catégorie d’actions émises à cette date, le pourcentage d’intérêt de la société dans la société affiliée donnée à cette date, et
+- **(13)** Pour l’application de la définition de ***pourcentage de droit au surplus*** au paragraphe 95(1) de la Loi et de la présente partie, le pourcentage de droit au surplus, à une date donnée, d’une société résidant au Canada à l’égard d’une société étrangère affiliée donnée de celle-ci est :
+	- **a)** le pourcentage qui correspond au pourcentage d’intérêt de la société dans la société affiliée donnée à cette date si, à la fois :
+		- **(i)** la société affiliée donnée et chaque société qui est prise en compte dans le calcul du pourcentage d’intérêt de la société dans la société affiliée donnée ne détiennent, à cette date, qu’une seule catégorie d’actions émises,
+		- **(ii)** aucune société étrangère affiliée (appelée « société affiliée de palier supérieur » au présent sous-alinéa) de la société qui est prise en compte dans le calcul du pourcentage d’intérêt de la société dans la société affiliée donnée n’a, à cette date, de pourcentage d’intérêt dans une société étrangère affiliée (y compris la société affiliée donnée) du contribuable qui a un pourcentage d’intérêt dans la société affiliée de palier supérieur;
 	- **b)** dans les autres cas, la fraction de 100 que représente
 		- **(i)** le total des montants dont chacun représente le pourcentage de droit au surplus, à cette date, d’une action appartenant à la société du capital-actions d’une société étrangère affiliée de la société à l’égard de la société étrangère affiliée donnée de la société,
 par rapport
-		- **(ii)** au montant qui, en vertu de l’alinéa (10)b), est le surplus net de la société affiliée donnée à l’égard de la société à cette date
-sauf que, lorsque le montant déterminé en vertu du sous-alinéa (ii) est égal à zéro, le pourcentage déterminé en vertu du présent alinéa est le pourcentage d’intérêt de la société dans la société affiliée donnée à cette date,
-pour l’application du présent paragraphe, ***pourcentage d’intérêt*** s’entend au sens du paragraphe 95(4) de la Loi; toutefois, le passage « toute société », à l’alinéa b) de cette définition, est remplacé par « toute société autre qu’une société résidant au Canada ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 4; DORS/85-176, art. 3; DORS/94-686, art. 79(F); DORS/97-505, art. 7.
+		- **(ii)** au montant qui, en vertu de l’alinéa (10)b), est le surplus net de la société affiliée donnée à l’égard de la société à cette date.
+
+- **(14)** Pour l’application des paragraphes (10), (11) et (13), ***pourcentage d’intérêt*** s’entend au sens qu’il aurait selon le paragraphe 95(4) de la Loi si la mention « toute société » à l’alinéa b) de la définition de ce terme à ce paragraphe était remplacée par « toute société autre qu’une société résidant au Canada ».
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-141, art. 4; DORS/85-176, art. 3; DORS/94-686, art. 79(F); DORS/97-505, art. 7; 2013, ch. 34, art. 44 et 84.
 
 
 
@@ -11176,10 +11150,21 @@ pour l’application du présent paragraphe, ***pourcentage d’intérêt*** s�
 	- **a)** dans un pays autre que le Canada que dans la mesure où cette entreprise est exploitée par l’entremise d’un établissement permanent situé dans ce pays; et
 	- **b)** au Canada que dans la mesure où son revenu tiré de cette entreprise est assujetti à l’impôt en vertu de la partie I de la Loi.
 
-- **(2)** Pour l’application du paragraphe (1), l’un ou l’autre des sens ci-après est à donner au terme « établissement stable » :
-	- **a)** si un sens particulier est donné à ce terme dans un traité fiscal conclu avec un pays, le sens qui lui est donné dans ce traité relativement à une entreprise exploitée dans ce pays;
-	- **b)** dans les autres cas, le sens qui lui serait donné par le paragraphe 400(2) si celui-ci s’appliquait compte non tenu de son alinéa e.1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 111.
+- **(2)** Le terme ***établissement stable*** s’entend :
+	- **a)** pour l’application de l’alinéa (1)a) et de la définition de ***gains*** au paragraphe 5907(1) :
+		- **(i)** si un sens particulier est donné à ce terme dans un traité fiscal conclu avec un pays, au sens qui lui est donné dans ce traité relativement à l’entreprise exploitée dans ce pays par la société étrangère affiliée visée à cet alinéa ou à cette définition,
+		- **(ii)** dans les autres cas, d’un lieu fixe d’affaires de cette société affiliée, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités;
+	- **b)** pour l’application de la sous-section i de la section B de la partie I de la Loi :
+		- **(i)** si un sens particulier est donné à ce terme dans un traité fiscal conclu avec un pays, au sens qui lui est donné dans ce traité si la personne ou la société de personnes (appelées « personne » au présent alinéa et au paragraphe (3)) visée dans le passage pertinent de cette sous-section réside dans ce pays pour l’application de ce traité,
+		- **(ii)** dans les autres cas, d’un lieu fixe d’affaires de la personne, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités.
+
+- **(3)** Pour l’application des sous-alinéas (2)a)(ii) et b)(ii) :
+	- **a)** si la société affiliée ou la personne, selon le cas, exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi dans un endroit donné, qui a l’autorité générale de passer des contrats pour la société affiliée ou la personne ou qui détient un stock de marchandises appartenant à la société affiliée ou à la personne à partir duquel il remplit régulièrement des commandes, la société affiliée ou la personne est réputée avoir un lieu fixe d’affaires à cet endroit;
+	- **b)** si la société affiliée ou la personne, selon le cas, est une compagnie d’assurance, elle est réputée avoir un lieu fixe d’affaires dans chaque pays où elle est enregistrée ou détient un permis pour exercer des affaires;
+	- **c)** si la société affiliée ou la personne, selon le cas, utilise des machines ou du matériel importants à un endroit donné au cours d’une année d’imposition, elle est réputée avoir un lieu fixe d’affaires à cet endroit;
+	- **d)** le fait que la société affiliée ou la personne, selon le cas, a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises dans un endroit donné ne signifie pas en soi qu’elle a un lieu fixe d’affaires à cet endroit;
+	- **e)** le fait que la société affiliée ou la personne, selon le cas, a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle a un lieu fixe d’affaires à cet endroit.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 111; 2013, ch. 34, art. 45.
 
 
 
@@ -11196,13 +11181,17 @@ pour l’application du présent paragraphe, ***pourcentage d’intérêt*** s�
 - **a)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vi) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au présent paragraphe;
 - **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vii) de l’élément A de cette formule. (*exempt deficit*)
 
+***déficit hybride*** Le déficit hybride d’une société étrangère affiliée d’une société, relativement à celle-ci à un moment donné, correspond à l’excédent du total visé à l’alinéa a) sur celui visé à l’alinéa b) :
+- **a)** le total des sommes dont chacune représente une somme déterminée à ce moment selon l’un des sous-alinéas (i) à (vii) de l’élément B de la formule figurant à la définition de ***surplus hybride***;
+- **b)** le total des sommes dont chacune représente une somme déterminée à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*hybrid deficit*)
+
 ***déficit imposable*** Quant à une société étrangère affiliée d’une société à l’égard de la société à un moment donné, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
 - **a)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vi) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au présent paragraphe;
 - **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*taxable deficit*)
 
 ***dividende global*** Le total des montants représentant chacun le dividende versé à un moment donné sur une action d’une catégorie du capital-actions d’une société étrangère affiliée d’un contribuable résidant au Canada. Toutefois :
 - **a)** lorsqu’un dividende est versé simultanément sur des actions de plusieurs catégories du capital-actions d’une société affiliée, le dividende global visé à l’article 5901 qui est versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de l’article 5900, être égal au total des montants représentant chacun le dividende versé à ce moment sur une action du capital-actions de la société affiliée;
-- **b)** lorsqu’un dividende global est réputé par l’alinéa 5902(1)c) avoir été versé simultanément sur des actions de plusieurs catégories d’actions du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de cet alinéa, être égal au total des montants représentant chacun un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée;
+- **b)** lorsqu’un dividende global est réputé par le sous-alinéa 5902(1)a)(ii) avoir été versé simultanément sur des actions de plusieurs catégories du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de ce sous-alinéa, être égal au total des sommes représentant chacune un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée;
 - **c)** lorsque des dividendes globaux sont réputés par l’alinéa 5900(2)b) avoir été versés simultanément sur des actions d’une catégorie du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de l’alinéa 5900(1)d) et des définitions de ***montant intrinsèque d’impôt étranger*** et ***montant intrinsèque d’impôt étranger applicable*** au présent paragraphe, être égal au total des montants représentant chacun un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée, et l’ensemble de ce dividende global est réputé avoir été prélevé sur le surplus imposable de la société affiliée à l’égard de la société. (*whole dividend*)
 
 ***entreprise exploitée activement*** S’entend au sens du paragraphe 95(1) de la Loi. (*active business*)
@@ -11213,36 +11202,54 @@ pour l’application du présent paragraphe, ***pourcentage d’intérêt*** s�
 	- **(ii)** le revenu ou le bénéfice tiré de l’entreprise pour l’année, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9) et calculé selon la législation concernant l’impôt sur le revenu du pays où l’entreprise est exploitée, dans le cas, non prévu au sous-alinéa (i), où la société affiliée est tenue par cette législation de calculer ce revenu ou ce bénéfice,
 	- **(iii)** dans les autres cas, le montant qui représenterait le revenu tiré de l’entreprise pour l’année en vertu de la partie I de la Loi, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9), si la société affiliée résidait au Canada et y exploitait l’entreprise et s’il n’était pas tenu compte des paragraphes 80(3) à (12), (15) et (17) et 80.01(5) à (11) et des articles 80.02 à 80.04 de la Loi;
 pour l’application de la présente partie, dans la mesure où ils ne peuvent être attribués à un établissement stable situé dans un pays en particulier, les gains d’une société affiliée tirés de son entreprise exploitée activement sont attribués à l’établissement stable situé dans son pays de résidence et, si elle réside dans plus d’un pays, à l’établissement stable situé dans le pays qu’il est raisonnable de considérer comme son principal lieu de résidence;
-- **b)** dans les autres cas, le total des montants qui accroissent, par l’effet de l’alinéa 95(2)a) de la Loi, le revenu pour l’année tiré d’une entreprise exploitée activement par la société affiliée. (*earnings*)
+- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de revenu qui serait à inclure, en application de l’alinéa 95(2)a) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si ce revenu était calculé compte tenu des règles énoncées au paragraphe (2.03). (*earnings*)
 
-***gains exonérés*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée, le total des montants représentant chacun l’un des montants suivants, moins la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur les gains visés à l’alinéa c) ou au sous-alinéa d)(ii) :
-- **a)** l’excédent des gains en capital de la société affiliée pour l’année sur le total des montants suivants :
+***gains exonérés*** En ce qui concerne une société étrangère affiliée d’une société donnée pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente l’une des sommes ci-après, moins la partie de l’impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur les gains visés à l’alinéa c) ou au sous-alinéa d)(ii) :
+- **a)** l’excédent des gains en capital de la société affiliée pour l’année (sauf ceux qui entrent dans le calcul du montant, à un moment de l’année, de son surplus hybride ou déficit hybride relativement à la société donnée) sur le total des sommes suivantes :
 	- **(i)** le montant des gains en capital imposables pour l’année visé à l’élément B de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi,
-	- **(ii)** le montant des gains en capital imposables pour l’année visé aux sous-alinéas c)(i) et d)(i) de la définition de ***gains nets*** au présent paragraphe,
+	- **(ii)** le montant des gains en capital imposables pour l’année visé aux sous-alinéas c)(i), e)(i) et f)(iv) de la définition de ***gains nets***,
 	- **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices payé pour l’année au gouvernement d’un pays par la société affiliée qu’il est raisonnable de considérer comme un impôt sur l’excédent des gains en capital de la société affiliée pour l’année sur le total des montants visés aux sous-alinéas (i) et (ii);
-pour l’application du présent alinéa, lorsque la société affiliée a disposé d’immobilisations qui étaient des actions du capital-actions d’une autre société étrangère affiliée de la société en faveur d’une autre société qui était, immédiatement après la disposition, une société étrangère affiliée de la société, est exclue des gains en capital de la société affiliée pour l’année la fraction de ces gains qui correspond au total des montants représentant chacun l’excédent de la juste valeur marchande, à la fin de l’année d’imposition 1975 de la société affiliée, de l’une des actions dont il a été disposé sur son prix de base rajusté;
+pour l’application du présent alinéa, lorsque la société affiliée a disposé d’immobilisations qui étaient des actions du capital-actions d’une autre société étrangère affiliée de la société donnée en faveur d’une autre société qui était, immédiatement après la disposition, une société étrangère affiliée de la société donnée, est exclue des gains en capital de la société affiliée pour l’année la partie de ces gains qui correspond au total des sommes représentant chacune l’excédent de la juste valeur marchande, à la fin de l’année d’imposition 1975 de la société affiliée, de l’une des actions dont il a été disposé sur son prix de base rajusté;
+- **a.1)** la somme obtenue par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente le total des sommes représentant chacune une somme donnée qui serait incluse, relativement à une entreprise donnée de la société affiliée, par l’effet des alinéas c), c.1) ou c.2) de la définition de ***compte de dividendes en capital*** au paragraphe 89(1) de la Loi, dans le calcul du compte de dividendes en capital de la société affiliée à la fin de l’année si, à la fois :
+- **(i)** la société affiliée était la société visée à cette définition,
+- **(ii)** la mention « entreprise », aux alinéas c.1) et c.2) de cette définition ainsi qu’à l’alinéa c) de cette définition dans sa version applicable aux années d’imposition ayant pris fin avant le 28 février 2000, valait mention d’une entreprise qui :
+- **(A)** n’est pas une entreprise exploitée activement, au sens du paragraphe 95(1) de la Loi,
+- **(B)** est une entreprise exploitée activement, au sens du même paragraphe, dont la société affiliée tire pour l’année des gains qui sont déterminés selon le sous-alinéa a)(iii) de la définition de ***gains***,
+- **(iii)** la somme donnée ne comprenait pas de somme qu’il est raisonnable de considérer comme s’étant accumulée pendant qu’aucune des personnes ou sociétés de personnes qui exploitaient l’entreprise donnée n’était une personne ou une société de personnes déterminée, au sens de l’article 95 de la Loi, relativement à la société,
+- **B** la valeur de l’élément A à la fin de l’année d’imposition de la société affiliée qui précède l’année;
 - **b)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, le total des montants représentant chacun les gains nets de la société affiliée pour l’année;
 - **c)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, les gains déterminés selon l’alinéa b) de la définition de ***gains*** au présent paragraphe, dans la mesure où ils n’ont pas été inclus par l’effet de l’alinéa b) ou déduits dans le calcul d’un montant visé au sous-alinéa b)(i) de la définition de ***perte exonérée*** au présent paragraphe;
-- **d)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée et si celle-ci réside dans un pays désigné, chaque montant qui représente, selon le cas :
-	- **(i)** les gains nets de la société affiliée pour l’année provenant de son entreprise exploitée activement au Canada ou dans un pays désigné,
-	- **(ii)** les gains de la société affiliée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où ils sont tirés de l’un des montants suivants :
-		- **(A)** les montants qui accroissent, par l’effet du sous-alinéa 95(2)a)(i) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et que la société affiliée tire d’activités qu’il est raisonnable de considérer comme se rapportant directement à des activités d’entreprise exercées par une société non-résidente — à laquelle la société affiliée et la société sont liées tout au long de l’année — dans le cadre d’une entreprise exploitée activement par la société non-résidente dont le revenu serait inclus, si celle-ci était une société étrangère affiliée d’une société, dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(B)** dans le cas où la société est une compagnie d’assurance-vie résidant au Canada tout au long de l’année et où la société affiliée est une société étrangère affiliée dans laquelle la société a une participation admissible tout au long de l’année, les montants qui accroissent, par l’effet du sous-alinéa 95(2)a)(i) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et que la société affiliée tire d’activités qu’il est raisonnable de considérer comme se rapportant directement à des activités d’entreprise exercées par la société dans le cadre de son entreprise exploitée activement à l’étranger dont le revenu serait inclus, si la société était une société étrangère affiliée d’une autre société et résidait dans le pays étranger où elle exploite cette entreprise, dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(C)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(A) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une société non-résidente à laquelle la société affiliée et la société sont liées tout au long de l’année, dans la mesure où les montants payés ou payables seraient déductibles par la société non-résidente, si elle était une société étrangère affiliée d’une société, au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(D)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(A) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une autre société de personnes dont une société non-résidente à laquelle la société affiliée et la société sont liées tout au long de l’année est un associé (mais non un associé déterminé au cours d’un exercice de l’autre société de personnes qui se termine dans l’année), dans la mesure où les montants payés ou payables seraient déductibles par l’autre société de personnes, si elle était une société étrangère affiliée d’une société et résidait dans le pays où la société non-résidente réside et est assujettie à l’impôt sur le revenu, au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(E)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(B) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une autre société étrangère affiliée de la société dans laquelle celle-ci a une participation admissible tout au long de l’année, dans la mesure où les montants payés ou payables sont déductibles par l’autre société affiliée au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(F)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(B) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une autre société de personnes dont une autre société étrangère affiliée de la société dans laquelle celle-ci a une participation admissible tout au long de l’année est un associé (mais non un associé déterminé au cours d’un exercice de l’autre société de personnes qui se termine dans l’année), dans la mesure où les montants payés ou payables seraient déductibles par l’autre société de personnes, si elle était une société étrangère affiliée d’une société et résidait dans le pays où l’autre société étrangère affiliée réside et est assujettie à l’impôt sur le revenu, au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(G)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(C) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une autre société de personnes dont la société affiliée est un associé (mais non un associé déterminé au cours d’un exercice de l’autre société de personnes qui se termine dans l’année), dans la mesure où les montants payés ou payables seraient déductibles par l’autre société de personnes, si elle était une société étrangère affiliée d’une société et résidait dans le pays où la société affiliée réside et est assujettie à l’impôt sur le revenu, au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(H)** les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(D) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par une autre société étrangère affiliée (appelée « deuxième société affiliée » à la présente division) de la société à laquelle la société affiliée et la société sont liées tout au long de l’année, dans la mesure où les montants payés ou payables :
-			- **(I)** d’une part, se rapportent à des intérêts soit sur de l’argent emprunté qui est utilisé pour tirer un revenu de biens, soit sur un montant payable pour des biens, dans le cas où, à la fois :
-				- **1.** les biens constituent des actions d’une société étrangère affiliée (appelée « troisième société affiliée » à la présente division) de la société dans laquelle celle-ci a une participation admissible tout au long de l’année qui sont des biens exclus,
-				- **2.** la deuxième société affiliée, la troisième société affiliée et chacune des autres sociétés affiliées dont il faut tenir compte pour déterminer si les actions de la troisième société affiliée constituent des biens exclus résident dans un pays désigné et y sont assujetties à l’impôt sur le revenu,
-			- **(II)** d’autre part, entrent dans le calcul des impôts sur le revenu dont sont redevables, dans le pays désigné où résident les deuxième et troisième sociétés affiliées, les membres d’un groupe de sociétés constitué de la deuxième société affiliée et d’une ou plusieurs autres sociétés étrangères affiliées de la société — dont les actions sont des biens exclus — qui résident dans ce pays et dans lesquelles la société a une participation admissible tout au long de l’année,pour l’application de la présente division, ***bien exclu*** s’entend au sens du paragraphe 95(1) de la Loi, compte tenu de ce qui suit :
-			- **(III)** il n’est pas tenu compte des montants à recevoir visés à l’alinéa c) de la définition de ***bien exclu***, au paragraphe 95(1) de la Loi, dans le cas où les intérêts sur ces montants ne sont pas déductibles dans le calcul des gains exonérés ou de la perte exonérée du débiteur ou ne seraient pas ainsi déductibles si des intérêts étaient payables sur ces montants,
-			- **(IV)** les actions d’une société étrangère affiliée (appelée « société affiliée non admissible » à la présente subdivision) qui ne réside pas dans un pays désigné et n’y est pas assujettie à l’impôt sur le revenu ne sont à prendre en compte pour déterminer si les actions de la troisième société affiliée constituent des biens exclus que dans le cas où ces actions n’auraient pas été des biens exclus si les actions de l’ensemble des sociétés affiliées non admissibles n’en avaient pas été,
-		- **(I)** dans le cas où la société est une compagnie d’assurance-vie résidant au Canada dont la société affiliée est une société étrangère affiliée dans laquelle la compagnie a une participation admissible tout au long de l’année, les montants qui accroissent, par l’effet de la division 95(2)a)(ii)(E) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de montants payés ou payables, directement ou indirectement, à la société affiliée ou à une société de personnes dont elle est un associé par la compagnie dans le cadre de l’exploitation de son entreprise d’assurance-vie à l’étranger, dans la mesure où les montants payés ou payables seraient déductibles, si la compagnie était une société étrangère affiliée d’une autre société et résidait dans le pays où elle exploite son entreprise d’assurance-vie à l’étranger, au cours de l’année ou d’une année d’imposition postérieure dans le calcul de ses gains exonérés ou de sa perte exonérée,
-		- **(J)** les montants qui accroissent, par l’effet du sous-alinéa 95(2)a)(iii) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de l’affacturage de comptes clients acquis par la société affiliée ou par une société de personnes dont elle est un associé auprès d’une société non-résidente à laquelle la société affiliée et la société sont liées tout au long de l’année, dans la mesure où les comptes clients ont pris naissance dans le cours des activités d’une entreprise exploitée activement par la société non-résidente et dont le revenu serait inclus dans ses gains exonérés si elle était une société étrangère affiliée d’une société,
-		- **(K)** les montants qui accroissent, par l’effet du sous-alinéa 95(2)a)(iv) de la Loi, le revenu de la société affiliée pour l’année provenant d’une entreprise exploitée activement et qui sont tirés de prêts ou de titres de crédit acquis par la société affiliée ou par une société de personnes dont elle est un associé auprès d’une société non-résidente à laquelle la société affiliée et la société sont liées tout au long de l’année, dans la mesure où les prêts ont été consentis ou les titres de crédit, émis dans le cours des activités d’une entreprise exploitée activement par la société non-résidente et dont le revenu serait inclus dans ses gains exonérés si elle était une société étrangère affiliée d’une société;
+- **d)** s’il s’agit d’une année d’imposition de la société affiliée se terminant après 1975 et que celle-ci réside tout au long de l’année dans un pays désigné :
+	- **(i)** soit les gains nets de la société affiliée pour l’année provenant de son entreprise exploitée activement au Canada ou dans un pays désigné,
+	- **(ii)** soit les gains de la société affiliée (appelée « société affiliée donnée » au présent sous-alinéa) pour l’année provenant d’une entreprise exploitée activement, dans la mesure où ils découlent de l’une des sommes suivantes :
+		- **(A)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(i) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement et qui :
+			- **(I)** s’il était gagné par l’autre société étrangère affiliée visée à la subdivision 95(2)a)(i)(A)(I) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette société affiliée pour une année d’imposition,
+			- **(II)** s’il était gagné par la compagnie d’assurance-vie visée à la subdivision 95(2)a)(i)(A)(II) de la Loi et fondé sur les suppositions énoncées à la subdivision 95(2)a)(i)(B)(II) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette compagnie pour une année d’imposition,
+		- **(B)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(A) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, s’il provient de sommes payées ou payables par la compagnie d’assurance-vie visée à cette division qui se rapportent à des dépenses qui seraient déductibles dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition si elle était une société étrangère affiliée de la société,
+		- **(C)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(B) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les sommes payées ou payables visées à cette division se rapportent à des dépenses qui sont déductibles dans le calcul des gains exonérés ou de la perte exonérée pour une année d’imposition de l’autre société étrangère affiliée visée à cette division,
+		- **(D)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(C) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les sommes payées ou payables visées à cette division se rapportent à des dépenses qui sont déductibles dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
+		- **(E)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(D) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement dans le cas où, à la fois :
+			- **(I)** le pays visé à la subdivision 95(2)a)(ii)(D)(IV) de la Loi est un pays désigné,
+			- **(II)** le revenu en cause serait à inclure dans ce calcul si :
+				- **1.** l’alinéa a) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi avait le libellé suivant :
+
+				- **a)** soit qu’elle utilise ou détient principalement en vue de tirer un revenu provenant de son entreprise exploitée activement dans un pays désigné, au sens du paragraphe 5907(11) du Règlement de l’impôt sur le revenu;
+
+
+				- **2.** l’alinéa c) de cette définition de ***bien exclu*** avait le libellé suivant :
+
+				- **c)** soit qui consiste en biens dont la totalité ou la presque totalité du revenu est ou serait, si les biens produisaient un revenu, un revenu provenant d’une entreprise exploitée activement (lequel comprend, à cette fin, un revenu qui serait réputé, par l’alinéa (2)a), être un revenu provenant d’une entreprise exploitée activement s’il n’était pas tenu compte du sous-alinéa (2)a)(v)) qui est inclus dans le calcul des gains exonérés ou de la perte exonérée (au sens du paragraphe 5907(1) du Règlement de l’impôt sur le revenu, de la société affiliée pour une année d’imposition;
+
+
+		- **(F)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(iii) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les comptes clients visés à ce sous-alinéa ont pris naissance dans le cours des activités d’une entreprise exploitée activement par l’autre société étrangère affiliée visée à ce sous-alinéa dont le revenu ou la perte est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
+		- **(G)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(iv) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les prêts ou les titres de crédit visés à ce sous-alinéa ont pris naissance dans le cours des activités d’une entreprise exploitée activement par l’autre société étrangère affiliée visée à ce sous-alinéa dont le revenu ou la perte est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
+		- **(H)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(v) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où la totalité ou la presque totalité de son revenu tiré de biens visés à ce sous-alinéa est ou serait, si les biens produisaient un revenu, un revenu provenant d’une entreprise exploitée activement (lequel comprend, à cette fin, un revenu qui serait réputé, par l’alinéa 95(2)a) de la Loi, être un revenu provenant d’une entreprise exploitée activement s’il n’était pas tenu compte du sous-alinéa 95(2)a)(v) de la Loi, étant entendu que le revenu provenant de la disposition des biens n’est pas un revenu provenant d’une entreprise exploitée activement) qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
+		- **(I)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(vi) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où il est raisonnable de considérer que la convention d’achat, de vente ou d’échange de monnaie visée à ce sous-alinéa a été conclue par la société affiliée donnée afin de réduire le risque, pour elle, lié à un montant de revenu ou de perte qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition;
 - **e)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans ses gains exonérés pour l’année par l’effet du paragraphe (10). (*exempt earnings*)
 
 ***gains imposables*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
@@ -11250,67 +11257,111 @@ pour l’application du présent alinéa, lorsque la société affiliée a dispo
 - **b)** dans les autres cas, le total des montants représentant chacun :
 	- **(i)** les gains nets de la société affiliée pour l’année tirés de son entreprise exploitée activement dans un pays,
 	- **(ii)** les gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
-	- **(iii)** dans la mesure où ils n’ont pas été inclus dans les gains visés au sous-alinéa (i) ou déduits dans le calcul du montant visé au sous-alinéa b)(i) de la définition de ***perte imposable*** au présent paragraphe, les gains pour l’année déterminés selon l’alinéa b) de la définition de ***gains*** au présent paragraphe, moins la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ces gains,
-	- **(iv)** les gains nets de la société affiliée pour l’année tirés de la disposition de biens qu’elle utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné,
-	- **(v)** les gains nets de la société affiliée pour l’année tirés de la disposition d’actions du capital-actions d’une autre société étrangère affiliée de la société qui étaient des biens exclus de la société affiliée (sauf une disposition à laquelle s’appliquent les alinéas 95(2)c), d) ou e) de la Loi) ou de la disposition de participations dans des sociétés de personnes qui étaient des biens exclus de la société affiliée.
+	- **(iii)** les gains de la société affiliée pour l’année, déterminés selon l’alinéa b) de la définition de ***gains***, moins la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé au titre de ces gains,
+	- **(iv)** dans la mesure où ils ne sont pas inclus dans les gains visés au sous-alinéa (ii), les gains nets de la société affiliée pour l’année, déterminés selon les alinéas c) à f) de la définition de ***gains nets***,
+	- **(iv.1)** l’excédent du total visé à la division (A) sur celui visé à la division (B) :
+		- **(A)** le total des sommes dont chacune représente une somme qui, aux termes de l’alinéa (2.02)a), est à inclure pour l’année selon la présente définition,
+		- **(B)** le total des sommes dont chacune représente une somme qui, aux termes de l’alinéa (2.02)b), est à déduire pour l’année selon la présente définition,
+	- **(v)** [Abrogé, 2013, ch. 34, art. 46]
 
 Ne sont pas des gains imposables les montants inclus dans les gains exonérés de la société affiliée pour l’année. (*taxable earnings*)
 
 ***gains nets*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
 - **a)** s’agissant des gains nets de la société affiliée pour l’année tirés de son entreprise exploitée activement dans un pays, le montant de ses gains pour l’année tirés de cette entreprise, moins la fraction de l’impôt sur le revenu ou sur les bénéfices qu’elle a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ces gains;
-- **b)** s’agissant des gains nets relatifs au revenu étranger accumulé, tiré de biens, le montant qui représenterait le revenu étranger accumulé, tiré de biens, de la société affiliée pour l’année s’il n’était pas tenu compte de l’élément F de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, moins la fraction de l’impôt sur le revenu ou sur les bénéfices qu’elle a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ce revenu;
+- **b)** s’agissant des gains nets relatifs au revenu étranger accumulé, tiré de biens, le montant qui représenterait le revenu étranger accumulé, tiré de biens de la société affiliée pour l’année s’il n’était pas tenu compte des éléments F et F.1 de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi et si la valeur de l’élément E de cette formule correspondait à la somme déterminée selon l’alinéa a) de l’élément E de cette formule, moins la fraction de l’impôt sur le revenu ou sur les bénéfices qu’elle a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ce revenu;
 - **c)** s’agissant des gains nets tirés de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la fraction des gains en capital imposables de la société affiliée pour l’année tirés de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après le 12 novembre 1981,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur le montant déterminé selon le sous-alinéa (i);
-- **d)** s’agissant des gains nets tirés de la disposition d’actions du capital-actions d’une autre société étrangère affiliée de la société qui étaient des biens exclus de la société affiliée (sauf une disposition à laquelle s’appliquent les alinéas 95(2)c), d) ou e) de la Loi) ou de la disposition de participations dans des sociétés de personnes qui étaient des biens exclus de la société affiliée, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
-	- **(i)** la fraction des gains en capital imposables de la société affiliée pour l’année tirés de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après son année d’imposition 1975,
-	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur le montant déterminé selon le sous-alinéa (i). (*net earnings*)
+- **d)** [Abrogé, 2013, ch. 34, art. 85]
+- **e)** s’agissant des gains nets tirés de la disposition d’un bien qui est un bien exclu de la société affiliée visé à l’alinéa c) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi, mais qui ne serait pas un tel bien si cet alinéa avait le libellé figurant à la sous-subdivision d)(ii)(E)(II)2 de la définition de ***gains exonérés***, l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+	- **(i)** la partie du gain en capital imposable de la société affiliée pour l’année provenant de la disposition du bien qui s’est accumulée après son année d’imposition 1975,
+	- **(ii)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été payé relativement à la somme déterminée selon le sous-alinéa (i);
+- **f)** s’agissant des gains nets tirés de la disposition donnée d’un bien qui est un bien exclu de la société affiliée par l’effet de l’alinéa c.1) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi, qui se rapportent, selon le cas :
+	- **(i)** à une somme à recevoir aux termes d’une convention concernant la vente d’un bien donné qui a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui a été inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***perte nette***, selon le cas,
+	- **(ii)** à une somme à recevoir qui était un bien visé à l’alinéa c) de cette définition de ***bien exclu***, mais qui n’aurait pas été un bien exclu de la société affiliée si cet alinéa avait le libellé figurant à la sous-subdivision d)(ii)(E)(II)2 de la définition de ***gains exonérés***,
+	- **(iii)** à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée dont la disposition a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui, s’il était disposé de ce bien exclu, serait inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***perte nette***, selon le cas,
+l’excédent de la somme visée au sous-alinéa (iv) sur celle visée au sous-alinéa (v) :
+	- **(iv)** la partie du gain en capital imposable de la société affiliée pour l’année provenant de la disposition donnée qui s’est accumulée après son année d’imposition 1975,
+	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé pour l’année au titre de la somme déterminée selon le sous-alinéa (iv). (*net earnings*)
 
-***montant intrinsèque d’impôt étranger*** Quant à une société étrangère affiliée (appelée ***société affiliée déterminée*** dans la présente définition) d’une société à l’égard de la société à un moment donné, le résultat du calcul ci-après pour la période qui commence au dernier en date des moments suivants et se termine au moment donné :
+***montant intrinsèque d’impôt étranger*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
-- **b)** lorsque la société est un cessionnaire visé au paragraphe 5905(5) et que la société affiliée déterminée est une société affiliée donnée visée à ce paragraphe ou une autre société étrangère affiliée dans laquelle une telle société affiliée donnée avait un pourcentage d’intérêt à la date visée à ce paragraphe, la dernière fois que ce paragraphe s’est appliqué à la société affiliée déterminée,
-- **c)** lorsque la société affiliée déterminée est une société étrangère affiliée visée aux paragraphes 5905(1), (2), (8) ou (9) ou à l’alinéa 5905(3)b), la dernière fois que ces paragraphes ou cet alinéa se sont appliqués à elle,
+- **b)** la dernière fois que le montant intrinsèque d’impôt étranger initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+- **c)** [Abrogé, 2013, ch. 34, art. 46]
 ```
 A - B
 ```
 où 
-- **A** représente le total des montants, pour la période, représentant chacun :
-- **(i)** le montant intrinsèque d’impôt étranger initial de la société affiliée déterminée, calculé selon les paragraphes 5905(1), (2), (3), (5), (8) ou (9), au moment visé aux alinéas a), b) ou c),
-- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payé sur ses gains imposables pour une année d’imposition se terminant dans la période,
+- **A** représente, sous réserve du paragraphe (1.03), le total des montants, pour la période, représentant chacun :
+- **(i)** le cas échéant, le montant intrinsèque d’impôt étranger initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
+- **(ii)** la partie de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée sur ses gains imposables (étant entendu que ces gains comprennent toute somme qui est incluse dans le calcul de ces gains par l’effet de l’alinéa (2.02)a)) pour une année d’imposition se terminant dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices visé au sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au présent paragraphe que la société affiliée déterminée a payée sur un dividende reçu d’une autre société étrangère affiliée de la société,
 - **(iv)** chaque montant qui est considéré, selon l’alinéa 5900(1)d), comme étant l’impôt étranger applicable à la fraction d’un dividende que la société affiliée déterminée a reçu au cours de la période et avant le moment donné d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7)) qui est considéré, selon l’alinéa 5900(1)b), comme ayant été prélevé sur le surplus imposable de l’autre société affiliée à l’égard de la société,
 - **(v)** le montant à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée déterminée;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
 - **(i)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée déterminée qu’il est raisonnable de considérer comme ayant été remboursée au titre de la perte imposable de la société affiliée déterminée pour une année d’imposition se terminant dans la période,
-- **(ii)** le montant intrinsèque d’impôt étranger applicable à un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé par l’alinéa 5901(1)b) avoir été prélevé, avant ce moment, sur le surplus imposable de la société affiliée déterminée à l’égard de la société,
-- **(iii)** chaque montant à déduire en application de l’alinéa 5902(4)c) ou des sous-alinéas 5905(2)a)(iii), (6)a)(iii) ou (8)a)(iii), au cours de la période et avant le moment donné, dans le calcul du montant intrinsèque d’impôt étranger de la société affiliée déterminée,
+- **(ii)** le montant intrinsèque d’impôt étranger applicable à un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versé, avant ce moment, sur le surplus imposable de la société affiliée déterminée relativement à la société,
+- **(iii)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)l)(x), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
 - **(iv)** le montant à soustraire, en application des paragraphes (1.1) ou (1.2), du montant intrinsèque d’impôt étranger de la société affiliée déterminée au cours de la période et avant le moment donné. (*underlying foreign tax*)
 
 ***montant intrinsèque d’impôt étranger applicable*** Quant à une société et s’agissant du montant intrinsèque d’impôt étranger applicable à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée, le total des montants suivants :
 - **a)** le produit de la multiplication du montant intrinsèque d’impôt étranger de la société affiliée à ce moment à l’égard de la société par le rapport entre :
 	- **(i)** d’une part, la fraction du dividende global qui est réputée avoir été prélevée sur le surplus imposable de la société affiliée à l’égard de la société,
 	- **(ii)** d’autre part, le surplus imposable de la société affiliée à ce moment à l’égard de la société;
-- **b)** sauf pour ce qui est d’un dividende global visé à l’article 5902, dans le cas où, tout au long de l’année d’imposition de la société affiliée au cours de laquelle le dividende global a été versé, l’une des situations suivantes existe :
-	- **(i)** il y a au plus une catégorie d’actions du capital-actions de la société affiliée qui est émise et en circulation,
-	- **(ii)** le pourcentage de droit au surplus de la société à l’égard de la société affiliée est de 100 pour cent,
-	- **(iii)** il y a au plus un actionnaire qui est propriétaire d’actions du capital-actions de la société affiliée,
-le montant supplémentaire relatif au dividende global que la société déduit dans la déclaration de revenu qu’elle produit en vertu de la partie I de la Loi au titre de ce dividende, jusqu’à concurrence du moins élevé des montants suivants :
-	- **(iv)** l’excédent de la fraction du dividende global qui est réputée avoir été prélevée sur le surplus imposable de la société affiliée à l’égard de la société sur le montant déterminé selon l’alinéa a),
-	- **(v)** l’excédent du montant intrinsèque d’impôt étranger de la société affiliée à l’égard de la société immédiatement avant le versement du dividende global sur le montant déterminé selon l’alinéa a). (*underlying foreign tax applicable*)
+- **b)** tout montant supplémentaire relatif au dividende global que la société demande dans la déclaration de revenu qu’elle produit en vertu de la partie I de la Loi au titre de ce dividende, jusqu’à concurrence de la moins élevée des sommes suivantes :
+	- **(i)** l’excédent de la partie du dividende global qui est réputée avoir été versée sur le surplus imposable de la société affiliée relativement à la société sur la somme déterminée selon l’alinéa a),
+	- **(ii)** l’excédent du montant intrinsèque d’impôt étranger de la société affiliée relativement à la société immédiatement avant le versement du dividende global sur la somme déterminée selon l’alinéa a). (*underlying foreign tax applicable*)
 
-***perte*** Perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition de la société affiliée résultant de son entreprise exploitée activement dans un pays, déterminée par application des dispositions de l’alinéa a) de la définition de ***gains*** au présent paragraphe concernant le calcul des gains tirés de cette entreprise, avec les modifications nécessaires. (*loss*)
+***montant intrinsèque d’impôt hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+- **a)** le premier jour de l’année d’imposition de la société affiliée déterminée dans laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
+- **b)** la dernière fois que le montant intrinsèque d’impôt hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+```
+A – B
+```
+où :
+- **A** représente le total des sommes relatives à la période dont chacune représente :
+- **(i)** le montant intrinsèque d’impôt hybride initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment visé à l’alinéa b),
+- **(ii)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée déterminée au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée au titre d’une somme visée aux sous-alinéas (ii) ou (iv) de l’élément A de la formule figurant à la définition de ***surplus hybride***,
+- **(iii)** chaque somme qui, selon l’alinéa 5900(1)c.1), représente l’impôt étranger applicable à la partie d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu en vertu du paragraphe 5905(7)) qui, selon l’alinéa 5900(1)a.1), est considérée comme ayant été versée sur le surplus hybride de l’autre société affiliée relativement à la société,
+- **(iv)** la somme à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt hybride de la société affiliée déterminée;
+- **B** le total de celles des sommes ci-après qui s’appliquent relativement à la période :
+- **(i)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été remboursée au titre d’une somme visée aux sous-alinéas (ii) ou (iii) de l’élément B de la formule figurant à la définition de ***surplus hybride***,
+- **(ii)** le montant intrinsèque d’impôt hybride applicable à tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versé sur son surplus hybride relativement à la société avant ce moment,
+- **(iii)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
+- **(iv)** la somme à retrancher, en application les paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné, du montant intrinsèque d’impôt hybride de la société affiliée déterminée. (*hybrid underlying tax*)
 
-***perte exonérée*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée, le total des montants représentant chacun :
-- **a)** l’excédent des pertes en capital de la société affiliée pour l’année sur le total des montants suivants :
+***montant intrinsèque d’impôt hybride applicable*** Le montant intrinsèque d’impôt hybride applicable, relativement à une société, à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée correspond à la proportion du montant intrinsèque d’impôt hybride de la société affiliée à ce moment relativement à la société que représente le rapport entre :
+- **a)** d’une part, la partie du dividende global qui est réputée avoir été versée sur le surplus hybride de la société affiliée relativement à la société;
+- **b)** d’autre part, le surplus hybride de la société affiliée à ce moment relativement à la société. (*hybrid underlying tax applicable*)
+
+***personne ou société de personnes désignée*** S’entend, par rapport à un contribuable à un moment donné, du contribuable ou d’une personne ou d’une société de personnes qui est, à ce moment :
+- **a)** une personne, sauf une société de personnes, qui a un lien de dépendance avec le contribuable à ce moment;
+- **b)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes désignée par rapport au contribuable selon la présente définition. (*designated person or partnership*)
+
+***perte*** La perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition de la société affiliée, résultant d’une entreprise exploitée activement, correspond à celle des sommes ci-après qui est applicable :
+- **a)** dans le cas d’une entreprise exploitée activement par la société affiliée dans un pays, le montant de sa perte pour l’année résultant de cette entreprise, déterminée par application des dispositions de l’alinéa a) de la définition de ***gains*** concernant le calcul des gains tirés de cette entreprise, avec les modifications nécessaires;
+- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de perte qui serait à inclure, en application de l’alinéa 95(2)a) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si cette perte était calculée compte tenu des règles énoncées au paragraphe (2.03). (*loss*)
+
+***perte exonérée*** En ce qui concerne une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente :
+- **a)** l’excédent des pertes en capital de la société affiliée pour l’année (sauf celles qui entrent dans le calcul du montant, à un moment de l’année, de son surplus hybride ou déficit hybride relativement à la société) sur le total des sommes suivantes :
 	- **(i)** le montant des pertes en capital déductibles pour l’année visé à l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi,
-	- **(ii)** le montant des pertes en capital déductibles pour l’année visé aux sous-alinéas c)(i) et d)(i) de la définition de ***perte nette*** au présent paragraphe,
+	- **(ii)** le montant des pertes en capital déductibles pour l’année visé aux sous-alinéas c)(i), e)(i) et f)(iv) de la définition de ***perte nette***,
 	- **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt remboursé au titre de l’excédent des pertes en capital de la société affiliée pour l’année sur le total des montants visés aux sous-alinéas (i) et (ii);
+- **a.1)** le total des sommes représentant chacune la partie d’une dépense en capital admissible de la société affiliée, relativement à une de ses entreprises, qui n’a pas été incluse dans son montant cumulatif des immobilisations admissibles relatif à l’entreprise, si, à la fois :
+	- **(i)** l’entreprise :
+		- **(A)** n’est pas une entreprise exploitée activement, au sens du paragraphe 95(1) de la Loi,
+		- **(B)** est une entreprise exploitée activement, au sens de ce paragraphe, dont la société affiliée tire des gains pour l’année qui sont déterminés selon le sous-alinéa a)(iii) de la définition de ***gains***,
+	- **(ii)** dans le calcul de son revenu pour l’année, la société affiliée a déduit pour l’année relativement à l’entreprise une somme visée à l’alinéa 24(1)a) de la Loi;
 - **b)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, le total des montants représentant chacun :
 	- **(i)** la perte nette de la société affiliée pour l’année résultant de son entreprise exploitée activement dans un pays,
 	- **(ii)** l’excédent éventuel pour l’année du montant visé à la division (A) sur le montant visé à la division (B) :
 		- **(A)** le montant représenté par l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi pour l’année,
 		- **(B)** le montant représenté par l’élément A de cette formule pour l’année;
-- **c)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée et si celle-ci réside dans un pays désigné, chaque montant qui représente sa perte nette pour l’année résultant de son entreprise exploitée activement au Canada ou dans un pays désigné;
+- **c)** s’il s’agit d’une année d’imposition de la société affiliée se terminant après 1975 et que celle-ci réside tout au long de l’année dans un pays désigné :
+	- **(i)** soit la perte nette de la société affiliée pour l’année résultant de son entreprise exploitée activement au Canada ou dans un pays désigné,
+	- **(ii)** soit l’excédent de la somme visée à la division (A) sur celle visée à la division (B) :
+		- **(A)** la perte de la société affiliée pour l’année résultant d’une entreprise exploitée activement, dans la mesure déterminée selon le sous-alinéa d)(ii) de la définition de ***gains exonérés*** pour l’année, avec les modifications nécessaires,
+		- **(B)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé au titre de la somme déterminée selon la division (A);
 - **d)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans sa perte exonérée pour l’année par l’effet du paragraphe (10). (*exempt loss*)
 
 ***perte imposable*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
@@ -11318,8 +11369,8 @@ le montant supplémentaire relatif au dividende global que la société déduit 
 - **b)** dans les autres cas, le total des montants représentant chacun :
 	- **(i)** la perte nette de la société affiliée pour l’année résultant de son entreprise exploitée activement dans un pays,
 	- **(ii)** la perte nette de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
-	- **(iii)** la perte nette de la société affiliée pour l’année résultant de la disposition de biens qu’elle utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné,
-	- **(iv)** la perte nette de la société affiliée pour l’année résultant de la disposition d’actions du capital-actions d’une autre société étrangère affiliée de la société qui étaient des biens exclus de la société affiliée (sauf une disposition à laquelle s’appliquent les alinéas 95(2)c), d) ou e) de la Loi) ou de la disposition de participations dans des sociétés de personnes qui étaient des biens exclus de la société affiliée.
+	- **(iii)** la perte de la société affiliée pour l’année, déterminée selon l’alinéa b) de la définition de ***perte***, moins la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt remboursé au titre de cette perte,
+	- **(iv)** dans la mesure où elle n’est pas incluse dans la perte visée au sous-alinéa (ii), la perte nette de la société affiliée pour l’année, déterminée selon les alinéas c) à f) de la définition de ***perte nette***,
 
 N’est pas une perte imposable tout montant inclus dans la perte exonérée de la société affiliée pour l’année. (*taxable loss*)
 
@@ -11327,72 +11378,163 @@ N’est pas une perte imposable tout montant inclus dans la perte exonérée de 
 - **a)** s’agissant de la perte nette de la société affiliée résultant de son entreprise exploitée activement dans un pays, le montant de sa perte pour l’année résultant de cette entreprise, moins la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays lui a remboursé pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre de cette perte;
 - **b)** s’agissant de la perte nette relative au revenu étranger accumulé, tiré de biens, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** l’excédent éventuel du total visé à la division (A) sur le total visé à la division (B) :
-		- **(A)** le total des montants représentés par les éléments D, E et G de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi pour l’année,
+		- **(A)** le total des sommes suivantes :
+			- **(I)** la valeur de l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi pour l’année,
+			- **(II)** la somme déterminée selon l’alinéa a) de l’élément E de cette formule pour l’année,
+			- **(III)** la valeur de l’élément G de cette formule pour l’année,
+			- **(IV)** la valeur de l’élément H de cette formule pour l’année,
 		- **(B)** le total des montants représentés par les éléments A, A.1, A.2, B et C de cette formule pour l’année,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre du montant déterminé selon le sous-alinéa (i);
 - **c)** s’agissant de la perte nette résultant de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la fraction des pertes en capital déductibles de la société affiliée pour l’année résultant de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après le 12 novembre 1981,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre du montant déterminé selon le sous-alinéa (i);
-- **d)** s’agissant de la perte nette résultant de la disposition d’actions du capital-actions d’une autre société étrangère affiliée de la société qui étaient des biens exclus de la société affiliée (sauf une disposition à laquelle s’appliquent les sous-alinéas 95(2)c), d) ou e) de la Loi) ou de la disposition de participations dans des sociétés de personnes qui étaient des biens exclus de la société affiliée, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
-	- **(i)** la fraction des pertes en capital déductibles de la société affiliée pour l’année résultant de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après son année d’imposition 1975,
-	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre du montant déterminé selon le sous-alinéa (i). (*net loss*)
+- **d)** [Abrogé, 2013, ch. 34, art. 85]
+- **e)** s’agissant de la perte nette résultant de la disposition d’un bien qui est un bien exclu de la société affiliée visé à l’alinéa c) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi, mais qui ne serait pas un tel bien si cet alinéa avait le libellé figurant à la sous-subdivision d)(ii)(E)(II)2 de la définition de ***gains exonérés***, l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+	- **(i)** la partie de la perte en capital déductible de la société affiliée pour l’année résultant de la disposition du bien qui s’est accumulée après son année d’imposition 1975,
+	- **(ii)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé relativement à la somme déterminée selon le sous-alinéa (i);
+- **f)** s’agissant de la perte nette résultant de la disposition donnée d’un bien qui est un bien exclu de la société affiliée par l’effet de l’alinéa c.1) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi, qui se rapporte, selon le cas :
+	- **(i)** à une somme à recevoir aux termes d’une convention concernant la vente d’un bien donné qui a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui a été inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***gains nets***, selon le cas,
+	- **(ii)** à une somme à recevoir qui était un bien visé à l’alinéa c) de cette définition de ***bien exclu***, mais qui n’aurait pas été un bien exclu de la société affiliée si cet alinéa avait le libellé figurant à la sous-subdivision d)(ii)(E)(II)2 de la définition de ***gains exonérés***,
+	- **(iii)** à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée dont la disposition a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui, s’il était disposé de ce bien exclu, serait inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***gains nets***, selon le cas,
+l’excédent de la somme visée au sous-alinéa (iv) sur celle visée au sous-alinéa (v) :
+	- **(iv)** la partie de la perte en capital déductible de la société affiliée pour l’année résultant de la disposition donnée qui s’est accumulée après son année d’imposition 1975,
+	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé au titre de la somme déterminée selon le sous-alinéa (iv). (*net loss*)
 
 ***société étrangère affiliée contrôlée*** S’entend au sens du paragraphe 95(1) de la Loi. (*controlled foreign affiliate*)
 
-***surplus exonéré*** Quant à une société étrangère affiliée (appelée ***société affiliée déterminée*** dans la présente définition) d’une société à l’égard de la société à un moment donné, le résultat du calcul ci-après pour la période qui commence au dernier en date des moments suivants et se termine au moment donné :
+***surplus exonéré*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
-- **b)** lorsque la société est un cessionnaire visé au paragraphe 5905(5) et que la société affiliée déterminée est une société affiliée donnée visée à ce paragraphe ou une autre société étrangère affiliée dans laquelle une telle société affiliée donnée avait un pourcentage d’intérêt à la date visée à ce paragraphe, la dernière fois que ce paragraphe s’est appliqué à la société affiliée déterminée,
-- **c)** lorsque la société affiliée déterminée est une société étrangère affiliée visée aux paragraphes 5905(1), (2), (8) ou (9) ou à l’alinéa 5905(3)b), la dernière fois que l’un de ces paragraphes ou cet alinéa s’est appliqué à la société affiliée déterminée,
+- **b)** la dernière fois que le surplus exonéré initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+- **c)** la dernière fois que le déficit exonéré initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 ```
 A - B
 ```
 où 
 - **A** représente le total des montants, pour la période, représentant chacun :
-- **(i)** le surplus exonéré initial de la société affiliée déterminée, calculé selon les paragraphes 5905(1), (2), (3), (5), (8) ou (9), au moment visé aux alinéas a), b) ou c),
+- **(i)** le cas échéant, le surplus exonéré initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
 - **(ii)** les gains exonérés de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)a), avoir été prélevée sur le surplus exonéré de l’autre société affiliée à l’égard de la société,
 - **(iv)** la fraction de l’impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, ou le montant d’un crédit d’impôt payé à celle-ci par ce gouvernement, qu’il est raisonnable de considérer comme ayant été remboursé ou payé au titre d’un montant visé au sous-alinéa (iii) du présent élément et qui n’a pas été déduit dans le calcul d’un montant visé au sous-alinéa (iii) de l’élément B,
 - **(v)** la fraction d’un dividende imposable que la société affiliée déterminée a reçu au cours de la période et avant le moment donné qui serait déductible par la société en application de l’article 112 de la Loi si le dividende était reçu par la société,
 - **(vi)** un montant ajouté au surplus exonéré de la société affiliée déterminée ou déduit de son déficit exonéré en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné,
-- **(vii)** un montant ajouté au surplus exonéré de la société affiliée déterminée en application de l’alinéa (7.1)d) au cours de la période et avant le moment donné;
+- **(vi.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
+- **(vii)** un montant ajouté, au cours de la période et avant le moment donné, au surplus exonéré de la société affiliée déterminée en application de l’alinéa (7.1)d), dans sa version applicable aux dividendes versés avant le 20 août 2011;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
-- **(i)** le déficit exonéré initial de la société affiliée déterminée, calculé selon les paragraphes 5905(1), (2), (3), (5), (8) ou (9), au moment visé aux alinéas a), b) ou c),
+- **(i)** le cas échéant, le déficit exonéré initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa c),
 - **(ii)** la perte exonérée de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur un montant visé aux sous-alinéas (iii), (iv) ou (v) de l’élément A,
 - **(iv)** la fraction d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée par l’alinéa 5901(1)a) avoir été prélevée sur le surplus exonéré de la société affiliée déterminée à l’égard de la société,
-- **(v)** chaque montant déterminé selon l’alinéa 5902(4)a) ou les sous-alinéas 5905(2)a)(i), (6)a)(i) ou (8)a)(i) au cours de la période et avant le moment donné,
+- **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)d)(xii), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
 - **(vi)** un montant déduit du surplus exonéré de la société affiliée déterminée, ou ajouté à son déficit exonéré, en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné. (*exempt surplus*)
 
-***surplus imposable*** Quant à une société étrangère affiliée (appelée ***société affiliée déterminée*** dans la présente définition) d’une société à l’égard de la société à un moment donné, le résultat du calcul ci-après pour la période qui commence au dernier en date des moments suivants et se termine au moment donné :
+***surplus hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+- **a)** le premier jour de l’année d’imposition de la société affiliée déterminée dans laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
+- **b)** la dernière fois que le surplus hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+- **c)** la dernière fois que le déficit hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+```
+A – B
+```
+où :
+- **A** représente le total des sommes relatives à la période dont chacune représente l’une ou l’autre des sommes suivantes :
+- **(i)** le surplus hybride initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment visé à l’alinéa b),
+- **(ii)** le montant d’un gain en capital (sauf dans la mesure où la partie imposable du gain est incluse dans la valeur de l’élément B de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi relativement à la société affiliée déterminée) pour une année d’imposition de la société affiliée déterminée ou d’une société de personnes dont celle-ci est un associé (dans la mesure où il est raisonnable d’attribuer le gain à la société affiliée déterminée), relativement à la disposition, effectuée au cours de la période :
+- **(A)** d’une action du capital-actions d’une autre société étrangère affiliée de la société,
+- **(B)** d’une participation dans une société de personnes,
+- **(C)** d’un bien qui est un bien exclu de la société affiliée déterminée par l’effet de l’alinéa c.1) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi et qui se rapporte :
+- **(I)** soit à une somme à recevoir aux termes d’une convention concernant la vente d’un bien mentionné aux divisions (A) ou (B) qui a donné lieu à un gain en capital ou à une perte en capital qui est inclus dans le montant visé au présent sous-alinéa ou au sous-alinéa (ii) de l’élément B, selon le cas,
+- **(II)** soit à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée visé aux divisions (A) ou (B) et dont la disposition a donné lieu à un gain en capital ou à une perte en capital qui, s’il était disposé de ce bien exclu, serait inclus dans le montant visé au présent sous-alinéa ou au sous-alinéa (ii) de l’élément B, selon le cas,
+- **(iii)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été remboursée au titre d’une somme visée aux sous-alinéas (ii) ou (iii) de l’élément B,
+- **(iv)** la partie de tout dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu en vertu du paragraphe 5905(7)) qui, selon l’alinéa 5900(1)a.1), est considérée comme ayant été versée sur le surplus hybride de l’autre société affiliée relativement à la société,
+- **(v)** une somme ajoutée au surplus hybride de la société affiliée déterminée, ou déduite de son déficit hybride, en application des paragraphes (1.1) ou (1.2), au cours de la période et avant le moment donné;
+- **B** le total de celles des sommes ci-après qui s’appliquent relativement à la période :
+- **(i)** le déficit hybride initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment visé à l’alinéa c),
+- **(ii)** le montant d’une perte en capital (sauf dans la mesure où la partie déductible de la perte est visée à l’alinéa a) de l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi relativement à la société affiliée déterminée) pour une année d’imposition de la société affiliée déterminée ou d’une société de personnes dont celle-ci est un associé (dans la mesure où il est raisonnable d’attribuer la perte à la société affiliée déterminée), relativement à la disposition, effectuée au cours de la période :
+- **(A)** d’une action du capital-actions d’une autre société étrangère affiliée de la société,
+- **(B)** d’une participation dans une société de personnes,
+- **(C)** d’un bien qui est un bien exclu de la société affiliée déterminée par l’effet de l’alinéa c.1) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi et qui se rapporte :
+- **(I)** soit à une somme à recevoir aux termes d’une convention concernant la vente d’un bien mentionné aux divisions (A) ou (B) qui a donné lieu à un gain en capital ou à une perte en capital qui est inclus dans le montant visé au sous-alinéa (ii) de l’élément A ou au présent sous-alinéa, selon le cas,
+- **(II)** soit à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée visé aux divisions (A) ou (B) et dont la disposition a donné lieu à un gain en capital ou à une perte en capital qui, s’il était disposé de ce bien exclu, serait inclus dans le montant visé au sous-alinéa (ii) de l’élément A ou au présent sous-alinéa, selon le cas,
+- **(iii)** le montant d’une perte en capital pour une année d’imposition de la société affiliée déterminée qui se produirait relativement à la disposition, effectuée au cours de la période, d’une action du capital-actions d’une autre société étrangère affiliée de la société au cours de la liquidation et dissolution de cette autre société affiliée si la subdivision 95(2)e)(iv)(A)(II) de la Loi s’appliquait compte non tenu de sa sous-subdivision 1 et si l’article 93 de la Loi s’appliquait compte non tenu de son paragraphe (4),
+- **(iv)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée déterminée au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée au titre d’une somme visée aux sous-alinéas (ii) ou (iv) de l’élément A,
+- **(v)** la partie de tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versée sur le surplus hybride de la société affiliée déterminée relativement à la société,
+- **(vi)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
+- **(vii)** une somme déduite du surplus hybride de la société affiliée déterminée, ou ajoutée à son déficit hybride, en application des paragraphes (1.1) ou (1.2), au cours de la période et avant le moment donné. (*hybrid surplus*)
+
+***surplus imposable*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
-- **b)** lorsque la société est un cessionnaire visé au paragraphe 5905(5) et que la société affiliée déterminée est une société affiliée donnée visée à ce paragraphe ou une autre société étrangère affiliée dans laquelle une telle société affiliée donnée avait un pourcentage d’intérêt à la date visée à ce paragraphe, la dernière fois que ce paragraphe s’est appliqué à la société affiliée déterminée,
-- **c)** lorsque la société affiliée déterminée est une société étrangère affiliée visée aux paragraphes 5905(1), (2), (8) ou (9) ou à l’alinéa 5905(3)b), la dernière fois que l’un de ces paragraphes ou cet alinéa s’est appliqué à la société affiliée déterminée,
+- **b)** la dernière fois que le surplus imposable initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
+- **c)** la dernière fois que le déficit imposable initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 ```
 A - B
 ```
 où 
 - **A** représente le total des montants, pour la période, représentant chacun :
-- **(i)** le surplus imposable initial de la société affiliée déterminée, calculé selon les paragraphes 5905(1), (2), (3), (5), (8) ou (9), au moment visé aux alinéas a), b) ou c),
+- **(i)** le cas échéant, le surplus imposable initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
 - **(ii)** les gains imposables de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)b), avoir été prélevée sur le surplus imposable de l’autre société affiliée à l’égard de la société,
 - **(iv)** un montant ajouté au surplus imposable de la société affiliée déterminée ou déduit de son déficit imposable en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné,
-- **(v)** un montant ajouté au surplus imposable de la société affiliée déterminée en application de l’alinéa (7.1)e) au cours de la période et avant le moment donné;
+- **(iv.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
+- **(v)** un montant ajouté, au cours de la période et avant le moment donné, au surplus imposable de la société affiliée déterminée en application de l’alinéa (7.1)e), dans sa version applicable aux dividendes versés avant le 20 août 2011;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
-- **(i)** le déficit imposable initial de la société affiliée déterminée, calculé selon les paragraphes 5905(1), (2), (3), (5), (8) ou (9), au moment visé aux alinéas a), b) ou c),
+- **(i)** le cas échéant, le déficit imposable initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa c),
 - **(ii)** la perte imposable de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur la fraction de dividende visée au sous-alinéa (iii) de l’élément A,
-- **(iv)** la fraction d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée par l’alinéa 5901(1)b) avoir été prélevée sur le surplus imposable de la société affiliée déterminée à l’égard de la société,
-- **(v)** chaque montant déterminé selon l’alinéa 5902(4)b) ou les sous-alinéas 5905(2)a)(ii), (6)a)(ii) ou (8)a)(ii) au cours de la période et avant le moment donné,
+- **(iv)** la partie d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versée sur le surplus imposable de la société affiliée déterminée relativement à la société,
+- **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)k)(xi), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
 - **(vi)** un montant déduit du surplus imposable de la société affiliée déterminée, ou ajouté à son déficit imposable, en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné. (*taxable surplus*)
 
 ***surplus net*** Quant à une société étrangère affiliée d’une société résidant au Canada à l’égard de la société à un moment donné :
-- **a)** si la société affiliée n’a ni déficit exonéré, ni déficit imposable, le total de son surplus exonéré et de son surplus imposable à l’égard de la société à ce moment;
-- **b)** si la société affiliée n’a pas de surplus imposable, l’excédent éventuel de son surplus exonéré sur son déficit imposable à l’égard de la société à ce moment;
-- **c)** si la société affiliée n’a pas de surplus exonéré, l’excédent éventuel de son surplus imposable sur son déficit exonéré à l’égard de la société à ce moment. (*net surplus*)
+- **a)** si la société affiliée n’a ni déficit exonéré, ni déficit hybride, ni déficit imposable, le total de ses surplus exonéré, surplus hybride et surplus imposable relativement à la société à ce moment;
+- **b)** si elle n’a pas de déficit exonéré mais a un déficit hybride et un déficit imposable, l’excédent de son surplus exonéré sur le total de ses déficit hybride et déficit imposable relativement à la société à ce moment;
+- **c)** si elle n’a ni déficit exonéré ni déficit hybride mais a un déficit imposable, l’excédent du total de ses surplus exonéré et surplus hybride sur son déficit imposable relativement à la société à ce moment;
+- **d)** si elle n’a ni déficit exonéré ni déficit imposable mais a un déficit hybride, l’excédent du total de ses surplus exonéré et surplus imposable sur son déficit hybride relativement à la société à ce moment;
+- **e)** si elle a un déficit exonéré mais aucun déficit hybride ou déficit imposable, l’excédent du total de ses surplus hybride et surplus imposable sur son déficit exonéré relativement à la société à ce moment;
+- **f)** si elle a un déficit exonéré et un déficit hybride mais aucun déficit imposable, l’excédent de son surplus imposable sur le total de ses déficit exonéré et déficit hybride relativement à la société à ce moment;
+- **g)** si elle a un déficit exonéré et un déficit imposable mais aucun déficit hybride, l’excédent de son surplus hybride sur le total de son déficit exonéré et déficit imposable relativement à la société à ce moment. (*net surplus*)
 
-- **(1.01)** Pour l’application de l’article 113 de la Loi, ***surplus exonéré*** et ***surplus imposable*** s’entendent au sens du paragraphe (1).
+- **(1.01)** Pour l’application de l’article 113 de la Loi, ***surplus exonéré***, ***surplus hybride*** et ***surplus imposable*** s’entendent au sens du paragraphe (1).
 
-- **(1.02)** Pour l’application de l’alinéa d) de la définition de ***gains exonérés*** au paragraphe (1), la question de savoir si une société a une participation admissible dans une société étrangère affiliée tout au long d’une année d’imposition ou est liée à une société tout au long d’une année d’imposition est déterminée ainsi qu’elle le serait pour l’application de l’alinéa 95(2)a) de la Loi.
+- **(1.02)** Pour l’application de l’alinéa d) de la définition de ***gains exonérés*** et de l’alinéa c) de la définition de ***perte exonérée*** au paragraphe (1), la société étrangère affiliée d’une société qui devient la société étrangère affiliée de celle-ci au cours de son année d’imposition, autrement que par suite d’une opération entre personnes ayant entre elles un lien de dépendance, et qui réside à la fin de l’année dans un pays désigné est réputée résider dans ce pays tout au long de l’année.
+
+- **(1.03)** Pour l’application de l’élément A de la formule figurant à la définition de ***montant intrinsèque d’impôt étranger*** au paragraphe (1), l’impôt sur le revenu ou sur les bénéfices payé relativement aux gains imposables d’une société étrangère affiliée donnée d’une société donnée ou relativement à un dividende reçu par la société affiliée donnée d’une autre société étrangère affiliée de la société donnée, et les sommes à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée donnée ou de toute autre société étrangère affiliée de la société donnée, ne comprennent ni un impôt sur le revenu ou sur les bénéfices payé ni une somme devant par ailleurs être ainsi ajoutée à ce montant intrinsèque d’impôt étranger, selon le cas, relativement au revenu étranger accumulé, tiré de biens de la société affiliée donnée pour une année d’imposition de celle-ci si, au cours de l’année, un propriétaire déterminé relativement à la société donnée est considéré, selon le cas :
+	- **a)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.07)) d’un pays étranger sous le régime des lois duquel le revenu d’une autre société — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, être propriétaire de moins que la totalité des actions du capital-actions de l’autre société qui sont considérées lui appartenir pour l’application de la Loi;
+	- **b)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.08)) d’un pays étranger sous le régime des lois duquel le revenu d’une société de personnes donnée — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, avoir une part directe ou indirecte du revenu de la société de personnes donnée qui est inférieure à celle qu’il est considéré avoir pour l’application de la Loi.
+
+- **(1.04)** Pour l’application des paragraphes (1.03) et (1.07), est un propriétaire déterminé relativement à une société à un moment donné la société ou une personne ou une société de personnes qui est, à ce moment :
+	- **a)** une société de personnes dont la société est un associé;
+	- **b)** une société étrangère affiliée de la société;
+	- **c)** une société de personnes dont l’un des associés est une société étrangère affiliée de la société;
+	- **d)** une personne ou une société de personnes mentionnée à l’un des sous-alinéas (1.06)a)(i) à (iii).
+
+- **(1.05)** Pour l’application du présent paragraphe et du paragraphe (1.03), est une personne ou société de personnes intéressée par rapport à une société étrangère affiliée donnée d’une société à un moment donné la société affiliée donnée ou une personne ou une société de personnes qui est, à ce moment :
+	- **a)** une autre société étrangère affiliée de la société;
+		- **(i)** soit dans laquelle la société affiliée donnée a un pourcentage d’intérêt,
+		- **(ii)** soit qui a un pourcentage d’intérêt dans la société affiliée donnée;
+	- **b)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes intéressée par rapport à la société affiliée donnée en vertu du présent paragraphe;
+	- **c)** une personne ou une société de personnes mentionnée à l’un des sous-alinéas (1.06)b)(i) à (iii).
+
+- **(1.06)** Pour l’application des paragraphes (1.04) et (1.05), si, dans le cadre d’une série d’opérations ou d’événements ayant permis notamment de gagner le revenu étranger accumulé, tiré de biens mentionné au paragraphe (1.03), une société étrangère affiliée (appelée « société de financement » au présent paragraphe) de la société ou d’une personne résidant au Canada qui lui est liée (appelée « personne liée » au présent paragraphe), ou une société de personnes (appelée « société de personnes de financement » au présent paragraphe) dont une telle société affiliée est un associé, a fourni des fonds directement ou indirectement à la société affiliée donnée ou à une société de personnes dont elle est un associé, autrement qu’au moyen de prêts ou d’autres dettes qui sont assujettis à des modalités conclues ou imposées, relativement aux prêts ou autres dettes, qui ne diffèrent pas de celles qui auraient été conclues ou imposées entre personnes sans lien de dépendance ou autrement qu’au moyen d’une acquisition d’actions du capital-actions d’une société, les règles ci-après s’appliquent :
+	- **a)** si la société de financement est une société étrangère affiliée de la personne liée ou si la société de personnes de financement compte un associé qui est une telle société affiliée, les personnes et les sociétés de personnes ci-après sont réputées être des propriétaires déterminés relativement à la société à tout moment où le revenu étranger accumulé, tiré de biens est gagné par la société affiliée donnée :
+		- **(i)** la personne liée,
+		- **(ii)** chaque société étrangère affiliée de la personne liée,
+		- **(iii)** chaque société de personnes dont l’un des associés est mentionné aux sous-alinéas (i) ou (ii);
+	- **b)** les personnes et les sociétés de personnes ci-après sont réputées être des personnes ou sociétés de personnes intéressées par rapport à la société affiliée donnée à tout moment où le revenu étranger accumulé, tiré de biens est gagné par celle-ci :
+		- **(i)** la société de financement ou la société de personnes de financement,
+		- **(ii)** une société non-résidente :
+			- **(A)** soit dans laquelle la société de financement a un pourcentage d’intérêt,
+			- **(B)** soit qui a un pourcentage d’intérêt dans la société de financement,
+		- **(iii)** une société de personnes dont l’un des associés est une personne ou une société de personnes mentionnée aux sous-alinéas (i) ou (ii).
+
+- **(1.07)** Pour l’application de l’alinéa (1.03)a), un propriétaire déterminé relativement à la société donnée n’est pas considéré, selon la législation étrangère applicable, être propriétaire de moins que la totalité des actions du capital-actions d’une autre société qui sont considérées appartenir à quelqu’un pour l’application de la Loi du seul fait qu’il n’est pas traité comme une société selon la législation étrangère applicable.
+
+- **(1.08)** Pour l’application de l’alinéa (1.03)b), l’associé d’une société de personnes n’est pas considéré, selon la législation étrangère applicable, avoir une part directe ou indirecte du revenu de la société de personnes qui est inférieure à celle qu’il a pour l’application de la Loi du seul fait :
+	- **a)** que la législation étrangère applicable et la Loi diffèrent sur l’un des plans suivants :
+		- **(i)** la méthode de calcul du revenu de la société de personnes,
+		- **(ii)** la méthode de répartition du revenu de la société de personnes par suite de l’entrée de nouveaux associés ou du retrait d’associés;
+	- **b)** que la société de personnes est traitée comme une société selon la législation étrangère applicable;
+	- **c)** que l’associé n’est pas traité comme une société selon la législation étrangère applicable.
+
+- **(1.09)** Pour l’application du paragraphe (1.03), si un propriétaire déterminé est propriétaire, pour l’application de la Loi, d’actions du capital-actions d’une société et que les dividendes, ou des sommes semblables, relatifs à ces actions sont traités selon la législation fiscale d’un pays étranger sous le régime des lois duquel tout revenu de la société est assujetti à l’impôt sur le revenu à titre d’intérêts ou d’une autre forme de paiement déductible, le propriétaire déterminé est réputé être considéré, selon cette législation, être propriétaire de moins que la totalité des actions du capital-actions de la société qui sont considérées lui appartenir pour l’application de la Loi.
 
 - **(1.1)** Aux fins de la présente partie, lorsque, en vertu de la loi de l’impôt sur le revenu d’un pays autre que le Canada, un groupe de deux ou de plusieurs sociétés étrangères affiliées (dans le présent paragraphe appelé le « groupe consolidé ») d’une société résidant au Canada qui résident dans ce pays déterminent, pour une année d’imposition, leur assujettissement à l’impôt sur le revenu ou les bénéfices payables au gouvernement de ce pays sur une base consolidée ou combinée et que l’une des sociétés affiliées (dans le présent paragraphe appelée la « société affiliée primaire ») est responsable du paiement ou des demandes de remboursement de cet impôt en son nom et au nom des autres membres du groupe consolidé (ci-après appelés les « sociétés affiliées secondaires »), les règles suivantes s’appliquent :
 	- **a)** à l’égard de la société affiliée primaire,
@@ -11402,14 +11544,20 @@ où
 			- **(A)** l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée primaire pour l’année au nom du groupe consolidé est réduit par suite d’une perte de la société affiliée primaire pour l’année ou une année d’imposition antérieure, ou
 			- **(B)** la société affiliée primaire reçoit, à l’égard d’une perte de la société affiliée primaire pour l’année ou une année d’imposition ultérieure, un remboursement de l’impôt sur le revenu ou les bénéfices autrement à payer pour l’année par la société affiliée primaire au nom du groupe consolidéle montant de cette réduction ou de ce remboursement, selon le cas, est réputé avoir été reçu par la société affiliée primaire à titre de remboursement, pour l’année de la perte, de l’impôt sur le revenu ou les bénéfices à l’égard de la perte,
 		- **(iv)** cet impôt sur le revenu ou les bénéfices qui aurait été payable par une société affiliée secondaire pour l’année si la société affiliée secondaire n’avait pas d’autre année d’imposition et n’avait pas été membre du groupe consolidé est, à la fin de l’année,
-			- **(A)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement réduit les gains nets inclus dans les gains exonérés de la société affiliée secondaire, déduit du surplus exonéré ou ajouté au déficit exonéré, selon le cas, de la société affiliée primaire, et
+			- **(A)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement réduit les gains nets inclus dans les gains exonérés de la société affiliée secondaire, déduit du surplus exonéré ou ajouté au déficit exonéré, selon le cas, de la société affiliée primaire,
+			- **(A.1)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait par ailleurs réduit le surplus hybride, ou augmenté le déficit hybride, de la société affiliée secondaire :
+				- **(I)** d’une part, déduit du surplus hybride, ou ajouté au déficit hybride, selon le cas, de la société affiliée primaire,
+				- **(II)** d’autre part, ajouté au montant intrinsèque d’impôt hybride de la société affiliée primaire,
 			- **(B)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement réduit les gains nets inclus dans les gains imposables de la société affiliée secondaire,
 				- **(I)** déduit du surplus imposable ou ajouté au déficit imposable, selon le cas, de la société affiliée primaire, et
 				- **(II)** ajouté au montant intrinsèque d’impôt étranger de la société affiliée primaire, et
 		- **(v)** dans la mesure où
 			- **(A)** l’impôt sur le revenu ou les bénéfices qui aurait été autrement payable par la société affiliée primaire pour l’année au nom du groupe consolidé est réduit en vertu d’une perte d’une société affiliée secondaire pour l’année ou pour une année antérieure, ou
 			- **(B)** la société affiliée primaire reçoit, à l’égard d’une perte d’une société affiliée secondaire pour l’année ou une année d’imposition ultérieure, un remboursement de l’impôt sur le revenu ou les bénéfices autrement à payer pour l’année par la société affiliée primaire au nom du groupe consolidé,le montant de cette réduction ou de ce remboursement, selon le cas, est, à la fin de l’année de la perte,
-			- **(C)** lorsque cette perte réduit le surplus exonéré ou augmente le déficit exonéré, selon le cas, de la société affiliée secondaire, ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée primaire, et
+			- **(C)** lorsque cette perte réduit le surplus exonéré ou augmente le déficit exonéré, selon le cas, de la société affiliée secondaire, ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée primaire,
+			- **(C.1)** lorsque cette perte réduit le surplus hybride, ou augmente le déficit hybride, de la société affiliée secondaire :
+				- **(I)** d’une part, ajouté au surplus hybride, ou déduit du déficit hybride, selon le cas, de la société affiliée primaire,
+				- **(II)** d’autre part, déduit du montant intrinsèque d’impôt hybride de la société affiliée primaire,
 			- **(D)** lorsque cette perte réduit le surplus imposable ou augmente le déficit imposable, selon le cas, de la société affiliée secondaire,
 				- **(I)** ajouté au surplus imposable ou déduit du déficit imposable, selon le cas, de la société affiliée primaire, et
 				- **(II)** déduit du montant intrinsèque d’impôt étranger de la société affiliée primaire; et
@@ -11417,32 +11565,49 @@ où
 		- **(i)** un montant est payé à la société affiliée primaire par une société affiliée secondaire à l’égard de l’impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée secondaire pour l’année si celle-ci n’avait pas fait partie du groupe consolidé,
 			- **(A)** à l’égard de la société affiliée secondaire, le montant ainsi payé est réputé avoir été versé à titre d’impôt sur le revenu ou les bénéfices pour l’année, et
 			- **(B)** à l’égard de la société affiliée primaire,
-				- **(I)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant inclus dans le surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée secondaire est, à la fin de l’année, ajoutée au surplus exonéré ou déduite du déficit exonéré, selon le cas, de la société affiliée primaire, et
+				- **(I)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant inclus dans le surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée secondaire est, à la fin de l’année, ajoutée au surplus exonéré ou déduite du déficit exonéré, selon le cas, de la société affiliée primaire,
+				- **(I.1)** la fraction du montant ainsi payé qu’il est raisonnable de considérer comme se rapportant à un montant inclus dans le surplus hybride, ou déduit du déficit hybride, de la société affiliée secondaire est, à la fin de l’année, ajoutée au surplus hybride ou déduite du déficit hybride, selon le cas, de la société affiliée primaire et déduite de son montant intrinsèque d’impôt hybride,
 				- **(II)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant inclus dans le surplus imposable ou déduit du déficit imposable, selon le cas, de la société affiliée secondaire est, à la fin de l’année, ajoutée au surplus imposable ou déduite du déficit imposable, selon le cas, de la société affiliée primaire et déduite du montant intrinsèque d’impôt étranger de la société affiliée primaire, ou
-		- **(ii)** un montant est payé par la société affiliée primaire à une société affiliée secondaire à l’égard d’une réduction ou d’un remboursement, en raison d’une perte de la société affiliée secondaire pour une année d’imposition, de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée primaire pour l’année au nom du groupe consolidé,
-			- **(A)** à l’égard de la société affiliée primaire,
-				- **(I)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus exonéré ou inclus dans le déficit exonéré, selon le cas, de la société affiliée secondaire est, à la fin de l’année de la perte, déduite du surplus exonéré ou ajoutée au déficit exonéré, selon le cas, de la société affiliée primaire, et
-				- **(II)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus imposable ou inclus dans le déficit imposable, selon le cas, de la société affiliée secondaire est, à la fin de l’année de la perte, déduite du surplus imposable ou ajoutée au déficit imposable, selon le cas, de la société affiliée primaire et ajoutée au montant intrinsèque d’impôt étranger de la société affiliée primaire, et
-			- **(B)** à l’égard de la société affiliée secondaire le montant est réputé être un remboursement à la société affiliée secondaire, pour l’année de la perte, de l’impôt sur le revenu ou les bénéfices à l’égard d’une telle perte
+		- **(ii)** une somme est payée par la société affiliée primaire à une société affiliée secondaire à l’égard d’une réduction ou d’un remboursement, en raison d’une perte ou d’un crédit d’impôt de la société affiliée secondaire pour une année d’imposition, de l’impôt sur le revenu ou sur les bénéfices qui aurait autrement été payable par la société affiliée primaire pour l’année au nom du groupe consolidé :
+			- **(A)** en ce qui concerne la société affiliée primaire, à la fois :
+				- **(I)** la partie de la somme ainsi payée qu’il est raisonnable de considérer comme se rapportant à une somme déduite du surplus exonéré ou incluse dans le déficit exonéré, selon le cas, de la société affiliée secondaire est, à la fin de l’année à laquelle se rapporte la perte ou le crédit d’impôt, déduite du surplus exonéré ou ajoutée au déficit exonéré, selon le cas, de la société affiliée primaire,
+				- **(I.1)** la fraction du montant ainsi payé qu’il est raisonnable de considérer comme se rapportant à un montant déduit du surplus hybride, ou inclus dans le déficit hybride, de la société affiliée secondaire est, à la fin de l’année de la perte, déduite du surplus hybride, ou ajoutée au déficit hybride, selon le cas, de la société affiliée primaire et ajoutée à son montant intrinsèque d’impôt hybride,
+				- **(II)** la partie de la somme ainsi payée qu’il est raisonnable de considérer comme se rapportant à une somme déduite du surplus imposable ou incluse dans le déficit imposable, selon le cas, de la société affiliée secondaire est, à la fin de l’année à laquelle se rapporte la perte ou le crédit d’impôt, déduite du surplus imposable ou ajoutée au déficit imposable, selon le cas, de la société affiliée primaire et ajoutée à son montant intrinsèque d’impôt étranger,
+			- **(B)** en ce qui concerne la société affiliée secondaire, la somme est réputée être un remboursement à celle-ci, pour l’année à laquelle se rapporte la perte ou le crédit d’impôt, de l’impôt sur le revenu ou sur les bénéfices à l’égard de la perte ou du crédit d’impôt,
 et, aux fins du présent alinéa, tout montant payé par une société affiliée secondaire donnée à une autre société affiliée secondaire à l’égard de tout impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée secondaire donnée pour l’année si elle n’avait pas fait partie du groupe consolidé est réputé avoir été payé à l’égard de cet impôt par la société affiliée secondaire donnée à la société affiliée primaire et avoir été payé à l’égard de cet impôt par la société affiliée primaire à l’autre société affiliée secondaire.
 
 - **(1.2)** Aux fins de la présente partie, lorsque, en vertu de la loi de l’impôt sur le revenu d’un pays autre que le Canada, une société résidant dans ce pays qui est une société étrangère affiliée d’une société résidant au Canada (dans le présent paragraphe appelée « société affiliée contribuable ») déduit, dans le calcul de son impôt sur le revenu ou les bénéfices à payer pour une année d’imposition à un gouvernement de ce pays, une perte d’une autre société résidant dans ce pays qui est une société étrangère affiliée de la société résidant au Canada (dans le présent paragraphe appelée « société affiliée de la perte »), les règles suivantes s’appliquent :
 	- **a)** cet impôt sur le revenu ou les bénéfices payé par la société affiliée contribuable pour l’année est réputé ne pas avoir été payé;
 	- **b)** cet impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée contribuable pour l’année si la société affiliée contribuable n’avait pas été autorisée à déduire cette perte est réputé avoir été payé pour l’année;
 	- **c)** dans la mesure où l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée contribuable pour l’année est réduit par suite de la perte, le montant de cette réduction est, à la fin de l’année,
-		- **(i)** lorsque la perte réduit le surplus exonéré ou augmente le déficit exonéré, selon le cas, de la société affiliée de la perte, ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée contribuable, et
+		- **(i)** lorsque la perte réduit le surplus exonéré ou augmente le déficit exonéré, selon le cas, de la société affiliée de la perte, ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée contribuable,
+		- **(i.1)** lorsque cette perte réduit le surplus hybride, ou augmente le déficit hybride, de la société affiliée de la perte :
+			- **(A)** d’une part, ajouté au surplus hybride, ou déduit du déficit hybride, selon le cas, de la société affiliée contribuable,
+			- **(B)** d’autre part, déduit du montant intrinsèque d’impôt hybride de la société affiliée contribuable,
 		- **(ii)** lorsque la perte réduit le surplus imposable ou augmente le déficit imposable, selon le cas, de la société affiliée de la perte,
 			- **(A)** ajouté au surplus imposable ou déduit du déficit imposable, selon le cas, de la société affiliée contribuable, et
 			- **(B)** déduit du montant intrinsèque d’impôt étranger de la société affiliée contribuable; et
 	- **d)** lorsqu’un montant est payé par la société affiliée contribuable à la société affiliée de la perte à l’égard de la réduction, par suite de la perte, de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée contribuable pour l’année,
 		- **(i)** à l’égard de la société affiliée contribuable,
-			- **(A)** la fraction du montant qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus exonéré ou inclus dans le déficit exonéré, selon le cas, de la société affiliée de la perte est, à la fin de l’année, déduite du surplus exonéré ou ajoutée au déficit exonéré, selon le cas, de la société affiliée contribuable, et
+			- **(A)** la fraction du montant qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus exonéré ou inclus dans le déficit exonéré, selon le cas, de la société affiliée de la perte est, à la fin de l’année, déduite du surplus exonéré ou ajoutée au déficit exonéré, selon le cas, de la société affiliée contribuable,
+			- **(A.1)** la fraction du montant qu’il est raisonnable de considérer comme se rapportant à un montant déduit du surplus hybride, ou inclus dans le déficit hybride, de la société affiliée de la perte est, à la fin de l’année de la perte, déduite du surplus hybride, ou ajoutée au déficit hybride, selon le cas, de la société affiliée contribuable et ajoutée à son montant intrinsèque d’impôt hybride,
 			- **(B)** la fraction du montant qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus imposable ou inclus dans le déficit imposable, selon le cas, de la société affiliée de la perte est, à la fin de l’année, déduite du surplus imposable ou ajoutée au déficit imposable, selon le cas, de la société affiliée contribuable et ajoutée au montant intrinsèque d’impôt étranger de la société affiliée contribuable, et
 		- **(ii)** à l’égard de la société affiliée de la perte, le montant est réputé être un remboursement d’impôt sur le revenu ou les bénéfices à la société affiliée de la perte à l’égard de la perte pour l’année d’imposition de la perte.
 
-- **(1.3)** Pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi :
+- **(1.3)** Sous réserve du paragraphe (1.4), pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi :
 	- **a)** lorsque, en vertu de la loi de l’impôt sur le revenu du pays dans lequel une société étrangère affiliée donnée est résidante, cette dernière et une ou plusieurs autres sociétés qui résident chacune dans ce pays déterminent leur assujettissement à l’impôt sur le revenu ou les bénéfices payable au gouvernement de ce pays pour une année d’imposition sur une base consolidée ou combinée, tout montant payé par la société affiliée donnée à l’une ou l’autre des autres sociétés, dans la mesure où il peut raisonnablement être considéré comme ayant été versé à l’égard de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée à l’égard d’un montant donné inclus dans le calcul du revenu du contribuable en vertu du paragraphe 91(1) de la Loi pour une année d’imposition à l’égard de la société affiliée donnée, si l’assujettissement à l’impôt de la société affiliée donnée et des autres sociétés n’avait pas été établi sur une base consolidée ou combinée, est, par les présentes, prescrit comme étant un impôt étranger accumulé applicable au montant donné; et
 	- **b)** lorsque, en vertu de la loi de l’impôt sur le revenu du pays dans lequel une société étrangère affiliée donnée d’un contribuable est résidante, cette société donnée déduit, dans le calcul de son revenu ou de ses bénéfices assujettis à l’impôt dans ce pays pour une année d’imposition, un montant à l’égard d’une perte d’une autre société résidant dans ce pays, tout montant payé par la société affiliée donnée à l’autre société, dans la mesure où il peut raisonnablement être considéré comme ayant été versé à l’égard de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée à l’égard d’un montant donné inclus dans le calcul du revenu du contribuable en vertu du paragraphe 91(1) de la Loi pour une année d’imposition à l’égard de la société affiliée donnée, si l’assujettissement à l’impôt de la société affiliée donnée avait été établi sans déduire la perte de l’autre société, est, par les présentes, prescrit comme étant un impôt étranger accumulé applicable au montant donné.
+
+- **(1.4)** S’il est raisonnable de considérer que la somme qui constitue un impôt étranger accumulé aux termes des alinéas (1.3)a) ou b), ou une partie de cette somme, se rapporte à une perte donnée (sauf une perte en capital) ou à une perte en capital d’une autre société pour une année d’imposition de celle-ci, cette somme est réduite dans la mesure où il est raisonnable de considérer qu’elle se rapporte à la partie de la perte donnée ou de la perte en capital, selon le cas, qui ne serait pas une perte étrangère accumulée, relative à des biens, au sens du paragraphe 5903(3), ni une perte en capital étrangère accumulée, au sens du paragraphe 5903.1(3), selon le cas, d’une société étrangère affiliée contrôlée d’une personne ou d’une société de personnes qui est, à la fin de cette année d’imposition, une personne ou société de personnes intéressée, au sens du paragraphe 5903(6), par rapport au contribuable si les articles 5903 et 5903.1 s’appliquaient compte non tenu de leur paragraphe (4).
+
+- **(1.5)** Si le paragraphe (1.4) a eu pour effet de réduire une somme qui, en l’absence de ce paragraphe, constituerait aux termes de l’alinéa (1.3)a) un impôt étranger accumulé applicable à un montant (appelé « montant REATB » au présent paragraphe) inclus dans le revenu du contribuable en application du paragraphe 91(1) de la Loi pour une année d’imposition (appelée « année REATB » au paragraphe (1.6)) de celui-ci, une somme égale à cette réduction constitue, pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi, un impôt étranger accumulé applicable au montant REATB au cours de l’année d’imposition du contribuable qui comprend le dernier jour de l’année d’imposition désignée de la société affiliée donnée mentionnée à l’alinéa (1.3)a).
+
+- **(1.6)** Pour l’application du paragraphe (1.5), l’année d’imposition désignée de la société affiliée donnée est une année d’imposition donnée de celle-ci dans le cas où, à la fois :
+	- **a)** au cours de l’année donnée, ou au cours de l’année d’imposition de la société affiliée donnée (appelée « année considérée » au présent alinéa) se terminant dans l’année REATB et d’une ou de plusieurs de ses années d’imposition dont chacune suit l’année considérée et dont la dernière correspond à l’année donnée, il serait raisonnable de considérer que toutes les pertes de la société affiliée et des autres sociétés mentionnées à l’alinéa (1.3)a) pour leurs années d’imposition se terminant dans l’année REATB, à supposer que ni la société affiliée donnée ni aucune de ces autres sociétés n’avaient de revenu étranger accumulé, tiré de biens pour une année d’imposition quelconque, avaient été entièrement déduites (selon la loi de l’impôt sur le revenu mentionnée à l’alinéa (1.3)a)) du revenu (déterminé selon cette loi) de la société affiliée donnée ou de ces autres sociétés;
+	- **b)** le contribuable démontre qu’aucune autre perte de la société affiliée donnée ou de ces autres sociétés pour une année d’imposition quelconque n’a été déduite du revenu selon cette loi ni n’aurait pu raisonnablement l’être;
+	- **c)** le dernier jour de l’année donnée fait partie de l’une des cinq années d’imposition du contribuable suivant l’année REATB.
+
+- **(1.7)** S’il est raisonnable de considérer que la somme qui constitue un impôt étranger accumulé aux termes des alinéas (1.3)a) ou b), ou une partie de cette somme, se rapporte à une perte en capital d’une autre société pour une année d’imposition de celle-ci, cette somme, telle qu’elle a été réduite par le paragraphe (1.4), le cas échéant, est réduite dans la mesure où il est raisonnable de considérer qu’elle se rapporte à la partie de cette perte qui ne serait pas déductible par la société affiliée donnée dans le calcul de son revenu étranger accumulé, tiré de biens pour l’année si la perte avait été subie par la société affiliée donnée.
 
 - **(2)** Dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement dans un pays, est à ajouter au montant de ces gains déterminé selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1) (appelé « montant des gains » au présent paragraphe) la fraction des montants suivants qui a été déduite ou n’a pas été incluse, selon le cas, dans le calcul du montant des gains :
 	- **a)** tout impôt sur le revenu ou sur les bénéfices payé au gouvernement d’un pays par la société affiliée ainsi déduit,
@@ -11455,7 +11620,9 @@ sur
 	- **e)** toute perte de la société affiliée pour une année d’imposition précédente ou ultérieure ainsi déduite,
 	- **f)** toute recette, tout revenu ou tout bénéfice (autre qu’un montant visé à l’alinéa f.1), h) ou i)) de la société affiliée tiré dans l’année de l’exploitation de cette entreprise dans ce pays, dans la mesure où le revenu, le bénéfice ou la recette
 		- **(i)** ne doit pas par ailleurs être inclus dans le calcul du montant des gains de la société affiliée pour une année d’imposition par la loi de l’impôt sur le revenu qui est applicable dans le calcul de ce montant, et
-		- **(ii)** ne provient pas à l’égard d’une disposition (autre qu’une disposition visée au paragraphe (9)) par la société affiliée de biens en faveur d’une autre société étrangère affiliée du contribuable ou d’une personne avec laquelle il a un lien de dépendance, lorsqu’une mesure de report d’impôt, de roulement ou de délai semblable de la loi d’impôt sur le revenu qui figure dans le calcul du montant des gains de la société affiliée s’appliquait à la disposition, et
+		- **(ii)** sous réserve du paragraphe (2.01), ne découle pas d’une disposition (sauf une disposition à laquelle le paragraphe (9) s’applique) de biens effectuée par la société affiliée :
+			- **(A)** en faveur d’une personne ou d’une société de personnes qui, au moment de la disposition, était une personne ou société de personnes désignée relativement au contribuable,
+			- **(B)** à laquelle s’est appliquée une mesure de report d’impôt, de roulement ou de sursis fiscal semblable prévue par la législation en matière d’impôt sur le revenu qui est prise en compte dans le calcul du montant des gains de la société affiliée,
 	- **f.1)** toute aide d’un gouvernement, d’une municipalité ou d’un autre pouvoir public (autre que celle qui réduit le montant d’une dépense aux fins du calcul du montant des gains pour une année d’imposition) que la société affiliée a reçue ou a été en droit de recevoir dans l’année relativement à l’exploitation de cette entreprise dans ce pays et qui ne doit pas par ailleurs être incluse dans le calcul du montant des gains pour l’année ou une autre année d’imposition,
 et il doit être déduit la fraction des montants suivants qui ont été inclus ou n’ont pas été déduits, selon le cas, dans le calcul du montant des gains,
 	- **g)** tout impôt sur le revenu ou sur les bénéfices remboursé par le gouvernement d’un pays à la société affiliée ainsi inclus;
@@ -11465,13 +11632,30 @@ et il doit être déduit la fraction des montants suivants qui ont été inclus 
 		- **(i)** cette perte ou cette dépense ne peut autrement être déduite dans le calcul du montant des gains de la société affiliée pour une année d’imposition en vertu de la loi de l’impôt sur le revenu qui est applicable dans le calcul de ce montant,
 		- **(ii)** cette dépense peut raisonnablement être considérée comme étant applicable à une recette ajoutée au montant des gains de la société affiliée en vertu de l’alinéa f),
 lorsque la perte ou la dépense :
-		- **(iii)** ne provient pas à l’égard d’une disposition (autre qu’une disposition visée au paragraphe (9)) par la société affiliée de biens en faveur d’une autre société étrangère affiliée du contribuable ou d’une personne avec laquelle il a un lien de dépendance, lorsqu’une mesure de report de pertes ou de délai semblable, à l’égard de pertes, de la loi d’impôt sur le revenu qui figure dans le calcul du montant des gains de la société affiliée s’appliquait à la disposition, et
+		- **(iii)** sous réserve du paragraphe (2.01), ne découle pas d’une disposition (sauf une disposition à laquelle le paragraphe (9) s’applique) de biens effectuée par la société affiliée :
+			- **(A)** en faveur d’une personne ou d’une société de personnes qui, au moment de la disposition, était une personne ou société de personnes désignée relativement au contribuable,
+			- **(B)** à laquelle s’est appliquée une mesure de report de pertes ou de sursis semblable visant les pertes prévue par la législation en matière d’impôt sur le revenu qui est prise en compte dans le calcul du montant des gains de la société affiliée,
 		- **(iv)** n’est pas
 			- **(A)** une perte visée à l’alinéa c) ou d),
 			- **(B)** une dépense en capital qui ne constitue pas des intérêts,
 			- **(C)** un impôt sur le revenu ou les bénéfices payé au gouvernement d’un pays;
 	- **k)** toute dépense effectuée au cours de l’année en remboursement d’un montant visé à l’alinéa f.1);
-	- **l)** lorsqu’un bien de la société affiliée acquis d’une autre société étrangère affiliée du contribuable ou d’une autre société étrangère affiliée d’une personne résidant au Canada avec laquelle le contribuable a un lien de dépendance, a fait l’objet d’une disposition, le montant à l’égard de ce bien qui peut raisonnablement être considéré comme ayant été inclus, en vertu de l’alinéa f), dans le calcul du montant des gains d’une société étrangère affiliée du contribuable ou d’une personne résidant au Canada avec laquelle le contribuable a un lien de dépendance.
+	- **l)** si un bien de la société affiliée qui a été acquis d’une personne ou d’une société de personnes qui, au moment de l’acquisition, était une personne ou société de personnes désignée relativement au contribuable a fait l’objet d’une disposition, la somme relative à ce bien qu’il est raisonnable de considérer comme ayant été incluse, en vertu de l’alinéa f), dans le calcul du montant des gains d’une société étrangère affiliée du contribuable ou d’une personne ou d’une société de personnes qui, au moment de la disposition, était une personne ou société de personnes désignée relativement au contribuable.
+
+- **(2.01)** Les sous-alinéas (2)f)(ii) et j)(iii) et le paragraphe (5.1) ne s’appliquent pas à la disposition donnée d’un bien (appelé « bien de société affiliée » au présent paragraphe) effectuée par une société étrangère affiliée donnée d’un contribuable si, à la fois :
+	- **a)** la seule contrepartie reçue relativement à la disposition donnée est constituée d’actions du capital-actions d’une autre société étrangère affiliée du contribuable;
+	- **b)** toutes les actions du capital-actions de l’autre société affiliée dont la société affiliée donnée est propriétaire immédiatement après la disposition donnée font l’objet d’une disposition, à un moment donné de la période de 90 jours suivant la date qui comprend le moment de la disposition donnée, en faveur d’une personne ou d’une société de personnes qui, au moment donné, n’est pas une personne ou société de personnes désignée relativement au contribuable;
+	- **c)** l’autre société affiliée ne dispose pas du bien de société affiliée dans le cadre d’une série d’opérations ou d’événements qui comprend la disposition donnée.
+
+- **(2.02)** Dans le cas où une somme ou une partie de somme, qui serait, en l’absence du présent paragraphe, incluse dans le calcul des gains exonérés, ou déduite dans le calcul de la perte exonérée, d’une société étrangère affiliée d’une société, relativement à celle-ci, pour une année d’imposition de la société affiliée, découle de la disposition d’un bien (sauf de l’argent) qui est effectuée au profit d’une personne ou d’une société de personnes qui était, au moment de la disposition, une personne ou société de personnes désignée relativement à la société et qui constitue une opération, au sens du paragraphe 245(1) de la Loi, qui est ou serait, si la somme ou la partie de somme représentait un avantage fiscal pour l’application de l’article 245 de la Loi, une opération d’évitement, au sens du paragraphe 245(3) de la Loi, les règles ci-après s’appliquent :
+	- **a)** la somme ou la partie de somme est plutôt incluse dans les gains imposables de la société affiliée pour l’année relativement à la société;
+	- **b)** tout impôt sur le revenu ou sur les bénéfices relatif à l’opération qui serait par ailleurs déduit dans le calcul des gains exonérés, ou inclus dans le calcul de la perte exonérée, de la société affiliée pour l’année, relativement à la société, est plutôt déduit de ses gains imposables pour l’année relativement à la société.
+
+- **(2.03)** Le calcul — prévu au sous-alinéa a)(iii) et à l’alinéa b) de la définition de ***gains*** au paragraphe (1) et à l’alinéa b) de la définition de ***perte*** à ce paragraphe — des gains ou de la perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition donnée provenant d’une entreprise exploitée activement est effectué comme si la société affiliée :
+	- **a)** dans le calcul de son revenu ou de sa perte provenant de l’entreprise pour chaque année d’imposition (appelée « année de gains ou de perte » au présent alinéa) qui correspond à l’année donnée ou à une année d’imposition antérieure se terminant après le 19 août 2011, avait :
+		- **(i)** d’une part, demandé toutes les déductions qu’elle pouvait demander en vertu de la Loi, jusqu’à concurrence de la somme maximale déductible dans le calcul du revenu ou de perte provenant de l’entreprise pour l’année de gains ou de perte,
+		- **(ii)** d’autre part, fait toutes les demandes et choix et pris toutes les mesures prévus par les dispositions applicables de la Loi ou de textes mettant en oeuvre des modifications à la Loi ou aux règlements pris sous son régime, en vue de maximiser le montant de toute déduction visée au sous-alinéa (i);
+	- **b)** dans le calcul de son revenu ou de sa perte provenant de l’entreprise pour toute année d’imposition antérieure s’étant terminée avant le 20 août 2011, avait demandé toutes les déductions qu’elle a effectivement demandées en vertu de la Loi, jusqu’à concurrence de la somme maximale déductible, et avait fait toutes les demandes et choix et pris toutes les mesures prévus par les dispositions applicables de la Loi ou de textes mettant en oeuvre des modifications à la Loi ou aux règlements pris sous son régime, qu’elle a effectivement faits.
 
 - **(2.1)** Dans le calcul des gains d’une société étrangère affiliée d’une société résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement au Canada ou dans un pays désigné, lorsque la société affiliée réside dans un pays désigné et que la société, ainsi que les autres sociétés résidant au Canada avec lesquelles elle a un lien de dépendance et à l’égard desquelles la société affiliée est une société étrangère affiliée, en font le choix à l’égard de l’entreprise pour l’année d’imposition ou pour une année d’imposition antérieure de la société affiliée, les règles suivantes s’appliquent :
 	- **a)** il est ajouté au montant déterminé selon le sous-alinéa a)(i) de la définition de ***gains***, au paragraphe (1), après rajustement effectué conformément au paragraphe (2) (appelé « montant des gains rajustés » au présent paragraphe et au paragraphe (2.2)) le total des montants représentant chacun l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
@@ -11510,71 +11694,73 @@ les renseignements suivants :
 	- **c)** une description de l’entreprise exploitée activement, qui suffit à l’identifier;
 	- **d)** une déclaration faite au nom de chacune de ces sociétés et signée par un représentant autorisé de la société, portant que celle-ci fait le choix prévu au paragraphe (2.1) à l’égard de l’entreprise.
 
-- **(2.7)** Malgré les autres dispositions de la présente partie, dans le cas où un montant est inclus, en application des sous-alinéas 95(2)a)(i) ou (ii) de la Loi, dans le calcul du revenu ou de la perte provenant d’une entreprise exploitée activement par une société étrangère affiliée d’un contribuable pour une année d’imposition donnée relativement à un montant payé ou payable, sauf un montant visé à la division 95(2)a)(ii)(D) de la Loi, par une autre société non-résidente visée aux sous-alinéas 95(2)a)(i) ou (ii) de la Loi ou par une société de personnes dont une telle société est un associé, le montant payé ou payable par la société non-résidente ou la société de personnes et au titre duquel un montant a été inclus dans le revenu ou la perte provenant d’une entreprise exploitée activement par la société affiliée pour l’année donnée :
-	- **a)** est déduit (sauf s’il a été déduit en application de l’alinéa (2)j) dans le calcul des gains ou de la perte de la société non-résidente provenant d’une entreprise exploitée activement) dans le calcul des gains ou pertes de la société non-résidente ou de la société de personnes, selon le cas, provenant de l’entreprise exploitée activement pour la première en date de ses années d’imposition où le montant a été payé ou était payable;
-	- **b)** n’est pas déduit dans le calcul des gains ou de la perte de la société non-résidente provenant d’une entreprise exploitée activement pour une autre année d’imposition.
+- **(2.7)** Malgré les autres dispositions de la présente partie, si une somme est incluse dans le calcul du revenu ou de la perte provenant d’une entreprise exploitée activement d’une société étrangère affiliée d’un contribuable pour une année d’imposition en vertu des sous-alinéas 95(2)a)(i) ou (ii) de la Loi et qu’elle se rapporte à une somme donnée qui est payée ou payable :
+	- **a)** en cas d’application de la division 95(2)a)(ii)(D) de la Loi, par la deuxième société affiliée visée à cette division, les règles ci-après s’appliquent :
+		- **(i)** la somme donnée est à déduire dans le calcul du revenu ou de la perte de la deuxième société affiliée provenant d’une entreprise exploitée activement par elle dans son pays de résidence pour sa première année d’imposition au cours de laquelle cette somme a été payée ou était payable,
+		- **(ii)** la deuxième société affiliée est réputée avoir exploité une entreprise exploitée activement dans ce pays pour cette première année d’imposition,
+		- **(iii)** dans le calcul du revenu ou de la perte de la deuxième société affiliée pour une année d’imposition provenant d’une source donnée, aucune somme n’est à déduire au titre de la somme donnée sauf dans la mesure permise par le sous-alinéa (i);
+	- **b)** dans les autres cas, par l’autre société étrangère affiliée visée aux sous-alinéas 95(2)a)(i) ou (ii) de la Loi, selon le cas, ou par une société de personnes dont l’autre société affiliée est un associé, la somme donnée, sauf si elle a été déduite en application de l’alinéa (2)j) dans le calcul des gains ou de la perte de l’autre société affiliée provenant d’une entreprise exploitée activement :
+		- **(i)** est à déduire dans le calcul des gains ou de la perte de l’autre société affiliée ou de la société de personnes, selon le cas, provenant d’une entreprise exploitée activement pour sa première année d’imposition au cours de laquelle la somme donnée a été payée ou était payable,
+		- **(ii)** ne peut être déduite dans le calcul de ses gains ou de sa perte provenant de l’entreprise exploitée activement pour une autre année d’imposition.
 
-- **(2.8)** Malgré les autres dispositions de la présente partie, dans le cas où un montant est inclus, en application de la division 95(2)a)(ii)(D) de la Loi, dans le calcul du revenu provenant d’une entreprise exploitée activement par une société étrangère affiliée d’un contribuable ou d’une personne liée à celui-ci pour une année d’imposition donnée relativement à des intérêts payés ou payables par une société non-résidente à laquelle la société affiliée et le contribuable sont liés, la société non-résidente, à la fois :
-	- **a)** est tenue de déduire ces intérêts dans le calcul du revenu ou de la perte provenant de son entreprise exploitée activement dans le pays où elle réside et est assujettie à l’impôt sur le revenu pour la première en date de ses années d’imposition où ces intérêts ont été payés ou étaient payables;
-	- **b)** est réputée avoir exploité activement une entreprise dans le pays où elle réside et est assujettie à l’impôt sur le revenu chaque année d’imposition visée à l’alinéa a) au cours de laquelle elle n’avait pas par ailleurs exploité une telle entreprise;
-	- **c)** ne peut déduire, dans le calcul de son revenu provenant d’une source quelconque pour une année d’imposition, un montant au titre des intérêts visés à l’alinéa a) qui sont payés ou payables par elle, sauf dans la mesure prévue à cet alinéa.
+- **(2.8)** [Abrogé, 2013, ch. 34, art. 46]
 
-- **(2.9)** Aux fins du calcul des gains provenant d’une entreprise exploitée activement par une société étrangère affiliée d’une société résidant au Canada pour l’année d’imposition de la société affiliée précédant son année d’imposition donnée visée à l’alinéa 95(2)k) de la Loi :
-	- **a)** est à ajouter au montant déterminé selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1), après rajustement effectué conformément aux paragraphes (2), (2.1) et (2.2), le total des montants suivants :
-		- **(i)** l’excédent éventuel du total déterminé selon la division b)(i)(B) pour l’année à l’égard de la société affiliée sur le total déterminé à son égard selon la division b)(i)(A) pour l’année,
-		- **(ii)** dans le cas où, à la fin de l’année, la société affiliée était réputée, par l’effet des alinéas 95(2)k) et 138(11.91)e) de la Loi, avoir disposé de biens lui appartenant qu’elle utilisait ou détenait dans le cadre de l’entreprise exploitée activement au cours de l’année, le total des montants représentant chacun l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
-			- **(A)** la juste valeur marchande à la fin de l’année d’une immobilisation (appelée « bien amortissable donné » au présent sous-alinéa et au sous-alinéa b)(ii)) appartenant à la société affiliée qui répond aux conditions ci-après, ou, s’il est inférieur, le coût d’une telle immobilisation pour elle à la fin de l’année :
-				- **(I)** elle était utilisée ou détenue par la société affiliée dans le cadre de l’entreprise exploitée activement au cours de l’année,
-				- **(II)** elle était réputée, par l’effet des alinéas 95(2)k) et 138(11.91)e) de la Loi, avoir fait l’objet d’une disposition à la fin de l’année,
-				- **(III)** elle était un bien relativement au coût duquel des montants étaient déductibles dans le calcul des gains provenant de l’entreprise exploitée activement selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1),
-			- **(B)** l’excédent éventuel du coût, pour la société affiliée, du bien amortissable donné sur le total des montants représentant chacun un montant qu’il est raisonnable de considérer comme ayant été déduit au titre du coût de ce bien dans le calcul des gains (au sens où cette expression s’entendrait s’il n’était pas tenu compte du renvoi au présent paragraphe figurant dans la définition de cette expression au paragraphe (1)) de la société affiliée provenant de l’entreprise exploitée activement au cours de l’année ou d’une année d’imposition antérieure de la société affiliée au cours de laquelle elle était la société étrangère affiliée de la société ou d’une autre société résidant au Canada avec laquelle la société avait un lien de dépendance,
-		- **(iii)** dans le cas où, à la fin de l’année, la société affiliée était réputée, par l’effet des alinéas 95(2)k) et 138(11.91)e) de la Loi, avoir disposé d’un bien (sauf une immobilisation) lui appartenant et qu’elle utilisait ou détenait dans le cadre de l’entreprise exploitée activement au cours de l’année, le total des montants représentant chacun l’excédent éventuel de la juste valeur marchande d’un tel bien sur son coût pour elle immédiatement avant la fin de l’année;
-	- **b)** est à déduire du montant déterminé selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1), après rajustement effectué conformément aux paragraphes (2), (2.1) et (2.2), le total des montants suivants :
-		- **(i)** l’excédent éventuel du total visé à la division (A) sur le total visé à la division (B) :
-			- **(A)** le total des montants représentant chacun un montant maximum réputé, par l’effet des alinéas 95(2)k) et 138(11.91)d) de la Loi, avoir été déduit en application des sous-alinéas 138(3)a)(i), (ii) et (iv) et les alinéas 20(1)l) et l.1) et 20(7)c) de la Loi (chacune de ces dispositions étant appelée « disposition applicable » au présent sous-alinéa) au cours de l’année,
-			- **(B)** le total des montants représentant chacun un montant effectivement déduit par la société affiliée à titre de provision au cours de l’année qu’il est raisonnable de considérer comme se rapportant à des montants relativement auxquels une provision aurait pu être déduite en application d’une disposition applicable si la société affiliée avait pu déduire des montants aux termes des dispositions applicables au cours de l’année,
-		- **(ii)** le total des montants représentant chacun l’excédent éventuel du montant déterminé selon la division a)(ii)(B) relativement à un bien amortissable donné visé à la division a)(ii)(A) sur la juste valeur marchande de ce bien à la fin de l’année,
-		- **(iii)** dans le cas où, à la fin de l’année, la société affiliée était réputée, par l’effet des alinéas 95(2)k) et 138(11.91)e) de la Loi, avoir disposé d’un bien (sauf une immobilisation) lui appartenant et qu’elle utilisait ou détenait dans le cadre de l’entreprise exploitée activement au cours de l’année, le total des montants représentant chacun l’excédent éventuel du coût d’un tel bien pour la société affiliée immédiatement avant la fin de l’année sur sa juste valeur marchande à la fin de l’année.
+- **(2.9)** Si l’alinéa 95(2)k.1) de la Loi s’applique relativement à une année d’imposition donnée d’une société étrangère affiliée d’un contribuable ou à un exercice donné d’une société de personnes (la société affiliée et la société de personnes étant chacune appelée « exploitant », et l’année d’imposition donnée et l’exercice donné étant chacun appelé « année déterminée », au présent paragraphe) dont l’un des associés est une société étrangère affiliée d’un contribuable à la fin de l’exercice, les règles ci-après s’appliquent :
+	- **a)** pour le calcul des gains ou de la perte de la société affiliée provenant d’une entreprise étrangère visé à cet alinéa pour l’année d’imposition de la société affiliée (appelée « année précédente » aux sous-alinéas (i) et (ii)) qui comprend la veille du début de l’année déterminée :
+		- **(i)** est à ajouter à la somme déterminée selon l’alinéa a) de la définition de ***gains*** au paragraphe (1), une fois effectué le rajustement prévu aux paragraphes (2) à (2.2) :
+			- **(A)** si l’exploitant est la société affiliée, le total des sommes suivantes :
+				- **(I)** l’excédent du total déterminé selon la sous-subdivision (ii)(A)(I)2 relativement à l’exploitant pour l’année précédente sur le total déterminé selon la sous-subdivision (ii)(A)(I)1 relativement à l’exploitant pour cette année,
+				- **(II)** si l’exploitant est réputé en vertu de l’alinéa 95(2)k.1) de la Loi avoir disposé, à la fin de l’année précédente, d’un bien lui appartenant et qu’il utilisait ou détenait dans le cadre de l’exploitation de l’entreprise étrangère au cours de cette année, le total des sommes dont chacune représente la somme obtenue par la formule suivante :
+```
+(A – B) – C
+```
+où :
+- **A** représente la juste valeur marchande, immédiatement avant la fin de cette année, d’un bien qui est réputé, par l’effet de cet alinéa, avoir fait l’objet d’une disposition,
+- **B** la somme déterminée selon l’alinéa a) de la définition de ***prix de base approprié***, au paragraphe 95(4) de la Loi, relativement au bien et au contribuable, immédiatement avant le moment de la disposition,
+- **C** le montant du gain en capital, déterminé relativement à la disposition du bien à ce moment,
+			- **(B)** si l’exploitant est une société de personnes, la somme déterminée selon le paragraphe 5908(13),
+		- **(ii)** est à ajouter à la somme déterminée selon l’alinéa a) de la définition de ***perte*** au paragraphe (1) :
+			- **(A)** si l’exploitant est la société affiliée, le total des sommes suivantes :
+				- **(I)** l’excédent du total visé à la sous-subdivision 1 sur celui visé à la sous-subdivision 2 :
+					- **1.** le total des sommes dont chacune représente une somme réputée en vertu de l’alinéa 95(2)k.1) de la Loi avoir été déduite en application des alinéas 20(1)l), l.1) ou (7)c), ou des sous-alinéas 138(3)a)(i), (ii) ou (iv), de la Loi (chacune de ces dispositions étant appelée « disposition applicable » au présent sous-alinéa) dans le calcul du revenu provenant de l’entreprise étrangère pour l’année précédente,
+					- **2.** le total des sommes dont chacune représente une somme effectivement déduite par l’exploitant à titre de provision dans le calcul de son revenu provenant de l’entreprise étrangère pour cette année qu’il est raisonnable de considérer comme se rapportant à des sommes relativement auxquelles une provision aurait pu être déduite en application d’une disposition applicable si l’exploitant avait pu déduire des sommes en application des dispositions applicables pour cette année,
+				- **(II)** le total des sommes dont chacune représente l’excédent de la valeur de l’élément B de la formule figurant à la subdivision (i)(A)(II) relativement à un bien visé à cette subdivision sur la valeur de l’élément A de cette formule relativement au bien,
+			- **(B)** si l’exploitant est la société de personnes, la somme déterminée selon le paragraphe 5908(13);
+	- **b)** tout bien de l’exploitant qui est réputé, en vertu de cet alinéa, avoir fait l’objet d’une disposition et d’une nouvelle acquisition par lui est réputé, pour l’application du présent article, avoir fait l’objet d’une disposition et d’une nouvelle acquisition par lui de la même manière et pour les mêmes sommes que si cet alinéa s’appliquait dans le cadre du présent article.
 
 - **(3)** Toute société qui était, le 1<sup>er</sup> janvier 1972, une société étrangère affiliée d’un contribuable, est réputée, aux fins de la présente partie, être devenue une société étrangère affiliée du contribuable à cette date.
 
 - **(4)** Aux fins de la présente partie, ***gouvernement d’un pays*** comprend le gouvernement d’un État, d’une province ou d’une autre subdivision politique de ce pays.
 
-- **(5)** Aux fins du présent article, chaque gain en capital et chaque perte en capital, pour une société étrangère affiliée d’un contribuable, résultant de la disposition d’un bien, sont calculés conformément aux règles prévues au paragraphe 95(2) de la Loi et, aux fins du paragraphe (6), lorsque le gain ou la perte doit être calculé en monnaie canadienne, le montant du gain ou de la perte exprimé en monnaie canadienne doit être converti en devises visées au paragraphe (6) au taux de change en vigueur à la date de la disposition du bien.
+- **(5)** Pour l’application du présent article, chaque gain en capital, perte en capital, gain en capital imposable ou perte en capital déductible d’une société étrangère affiliée d’un contribuable résultant de la disposition d’un bien est calculé conformément aux règles prévues au paragraphe 95(2) de la Loi.
 
-- **(5.1)** Malgré le paragraphe (5) et sous réserve du paragraphe (9), lorsque, dans la loi de l’impôt sur le revenu d’un pays autre que le Canada qui s’applique au calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada provenant d’une entreprise exploitée activement par elle dans un pays, aucun gain ou aucune perte n’est pris en compte à l’égard de la disposition par la société affiliée d’une immobilisation utilisée ou détenue principalement en vue de tirer un revenu d’une entreprise exploitée activement, en faveur d’une personne (appelée dans le présent paragraphe « cessionnaire du bien ») qui est une autre société étrangère affiliée du contribuable ou qui est une société étrangère affiliée d’une autre personne avec laquelle le contribuable a un lien de dépendance, aux fins du présent article :
+- **(5.01)** Pour l’application du paragraphe (6), si un gain en capital, une perte en capital, un gain en capital imposable ou une perte en capital déductible visé au paragraphe (5), ou une perte en capital visée au sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***surplus hybride*** au paragraphe (1), d’une société étrangère affiliée d’une société doit être calculé en monnaie canadienne et que la monnaie visée au paragraphe (6) n’est pas la monnaie canadienne, le montant du gain ou de la perte doit être converti en son équivalence dans la monnaie visée au paragraphe (6) selon le taux de change en vigueur à la date de la disposition du bien.
+
+- **(5.1)** Malgré le paragraphe (5), dans le cas où les lois d’un pays étranger en matière d’impôt sur le revenu, qui sont prises en compte dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada provenant de son entreprise exploitée activement dans un pays, ne reconnaissent pas les gains ou les pertes relatifs à la disposition (sauf celle à laquelle le paragraphe (9) s’applique) d’une immobilisation utilisée ou détenue principalement en vue de tirer un revenu d’une entreprise exploitée activement, effectuée par la société affiliée en faveur d’une personne ou d’une société de personnes (appelée « cessionnaire du bien » au présent paragraphe) qui était, au moment de la disposition, une personne ou société de personnes désignée relativement au contribuable, les règles ci-après s’appliquent au présent article :
 	- **a)** le produit de la disposition du bien pour la société affiliée est réputé être un montant égal au total du prix de base rajusté du bien, pour elle, immédiatement avant la disposition et de toute dépense dans la mesure où elle a été engagée ou effectuée par la société affiliée en vue de procéder à la disposition;
 	- **b)** le coût, pour le cessionnaire du bien, du bien acquis de la société affiliée est réputé être un montant égal au produit de la disposition pour la société affiliée, tel que déterminé à l’alinéa a); et
 	- **c)** le cessionnaire du bien est réputé avoir acquis le bien à la date où il a été acquis par la société affiliée.
 
-- **(6)** Tous les montants visés aux paragraphes (1) et (2) doivent être maintenus uniformément d’année en année dans les devises du pays dans lequel la société étrangère affiliée de la société résidant au Canada réside elle-même ou dans les devises autres que les devises canadiennes, qui sont raisonnables dans les circonstances.
+- **(6)** Toutes les sommes visées aux paragraphes (1) et (2) doivent être maintenues uniformément d’année en année dans la monnaie du pays de résidence de la société étrangère affiliée de la société résidant au Canada ou dans toute monnaie que cette dernière établie comme étant raisonnable dans les circonstances.
 
 - **(7)** Aux fins de la présente partie, le montant de tout dividende en actions payé par une société étrangère affiliée d’une société résidant au Canada sur une action d’une catégorie de son capital-actions est réputé être nul.
 
-- **(7.1)** Lorsque, à un moment d’une année d’imposition d’une société qui réside au Canada, une société étrangère affiliée de cette dernière — appelée « société affiliée débitrice » au présent paragraphe — verse à la société un dividende sur les actions d’une catégorie de son capital-actions — appelé « dividende donné » au présent paragraphe — et que, par suite de ce versement, la société a droit à un crédit d’impôt du gouvernement du pays où réside la société affiliée débitrice :
-	- **a)** si le dividende donné a été versé à la date d’entrée en vigueur du présent paragraphe ou après cette date, ou
-	- **b)** si le dividende donné a été versé avant la date d’entrée en vigueur du présent paragraphe et au cours d’une année d’imposition commençant après 1978 et si la société fait un choix à l’égard du crédit d’impôt dans sa déclaration de revenu pour l’année d’imposition 1985, 1986, 1987, 1988 ou 1989 à produire conformément au paragraphe 150(1) de la Loi,
-les règles suivantes s’appliquent pour l’application de la présente partie :
-	- **c)** le crédit d’impôt est réputé représenter un dividende versé à ce moment à la société par la société affiliée débitrice sur les actions de cette catégorie de son capital-actions;
-	- **d)** immédiatement avant ce moment, doit être ajouté au surplus exonéré de la société affiliée débitrice le montant égal au produit du crédit d’impôt par le rapport entre :
-		- **(i)** d’une part, la partie du dividende donné qui serait réputée en vertu du paragraphe 5900(1), si la société n’avait pas droit au crédit d’impôt, avoir été versée sur le surplus exonéré de la société affiliée débitrice à l’égard de la société,
-		- **(ii)** d’autre part, le dividende donné;
-	- **e)** immédiatement avant ce moment, doit être ajouté au surplus imposable de la société affiliée débitrice le montant égal au produit du crédit d’impôt par le rapport entre :
-		- **(i)** d’une part, la partie du dividende donné qui serait réputée en vertu du paragraphe 5900(1), si la société n’avait pas droit au crédit d’impôt, avoir été versée sur le surplus imposable de la société affiliée débitrice à l’égard de la société,
-		- **(ii)** d’autre part, le dividende donné;
-	- **f)** l’impôt étranger applicable au total :
-		- **(i)** de la partie du dividende donné visée au sous-alinéa e)(i), et
-		- **(ii)** de la partie de tout montant réputé représenter un dividende en vertu de l’alinéa c) qui est réputée, selon le paragraphe 5900(1), avoir été versée sur le surplus imposable de la société affiliée débitrice à l’égard de la société,
-est, nonobstant l’alinéa 5900(1)d), égal au montant déterminé conformément à l’alinéa 5900(1)d) à l’égard du montant visé au sous-alinéa (i), moins le montant déterminé en vertu de l’alinéa e).
+- **(7.1)** [Abrogé, 2013, ch. 34, art. 85]
 
-- **(8)** Aux fins du calcul des différents montants définis dans le présent article, la première année d’imposition d’une société étrangère affiliée formée à la suite d’une unification de la manière prescrite au paragraphe 5905(3) est réputée avoir commencé à la date de l’unification et une année d’imposition d’une société remplacée (au sens du paragraphe 5905(3)) qui ne serait par ailleurs terminée après l’unification est réputée s’être terminée immédiatement avant l’unification.
+- **(8)** Pour le calcul de diverses sommes visées au présent article, la première année d’imposition d’une société étrangère affiliée, d’une société résidant au Canada, qui est issue d’une fusion étrangère, au sens du paragraphe 87(8.1) de la Loi, est réputée avoir commencé au moment de la fusion, et toute année d’imposition d’une société remplacée, au sens du paragraphe 5905(3), qui aurait pris fin par ailleurs après ce moment est réputée avoir pris fin immédiatement avant ce moment.
 
-- **(9)** Lorsqu’une société étrangère affiliée d’un contribuable résidant au Canada a été dissoute et que l’alinéa 95(2)e.1) de la Loi ne s’applique pas, les règles suivantes s’appliquent aux fins du calcul des montants visés au présent article :
-	- **a)** lorsque, à une date donnée au cours de la dissolution, la totalité ou la presque totalité des biens appartenant à la société affiliée immédiatement avant cette date a été distribuée aux actionnaires de la société affiliée, l’année d’imposition de la société affiliée, qui aurait par ailleurs compris la date donnée, est réputée s’être terminée immédiatement avant la date donnée;
-	- **b)** sous réserve de l’alinéa 88(3)a) et du sous-alinéa 95(2)e)(i) de la Loi,
-		- **(i)** chaque bien de la société affiliée qui a été distribué aux actionnaires au cours de la dissolution est réputé avoir fait l’objet d’une disposition immédiatement avant la fin de l’année d’imposition de la société affiliée qui est réputée s’être terminée en vertu de l’alinéa a), pour un produit de la disposition égal à la juste valeur marchande de ce bien immédiatement avant la date donnée, et
-		- **(ii)** chaque bien de la société affiliée dont il a été autrement disposé au cours de la dissolution est réputé avoir fait l’objet d’une disposition par la société affiliée pour un produit de la disposition égal à la juste valeur marchande de ce bien à la date de la disposition; et
-	- **c)** sous réserve du sous-alinéa 95(2)e)(i) de la Loi, chaque bien de la société affiliée dissoute qui a été distribué ou a fait l’objet d’une disposition au cours de la dissolution en faveur d’une autre société étrangère affiliée du contribuable résidant au Canada est réputé avoir été acquis par cette autre société étrangère affiliée pour un coût égal au produit de la disposition de ce bien pour la société affiliée dissoute, tel que déterminé à l’alinéa b).
+- **(9)** Dans le cas où une société étrangère affiliée d’un contribuable a fait l’objet d’une liquidation et dissolution (autrement que par suite d’une fusion étrangère au sens du paragraphe 87(8.1) de la Loi), pour ce qui est du calcul des diverses sommes visées au présent article, les règles ci-après s’appliquent :
+	- **a)** si, à un moment donné au cours de la liquidation et dissolution, la société affiliée dispose d’un bien ayant une juste valeur marchande égale ou supérieure à 90 % de celle de l’ensemble des biens qui lui appartenaient immédiatement avant le début de la liquidation et dissolution, son année d’imposition qui aurait compris par ailleurs le moment donné est réputée avoir pris fin immédiatement avant ce moment;
+	- **b)** chaque bien de la société affiliée dont celle-ci a disposé au cours de la liquidation et dissolution est réputé :
+		- **(i)** d’une part, avoir fait l’objet d’une disposition par la société affiliée au moment où il a effectivement fait l’objet d’une disposition ou, s’il est antérieur, au moment immédiatement avant le moment immédiatement avant le moment donné, pour un produit de disposition égal à celle des sommes ci-après qui est applicable :
+			- **(A)** s’il s’agit d’une liquidation et dissolution à laquelle le paragraphe 88(3) de la Loi s’applique relativement à la disposition, la somme qui, en l’absence du paragraphe 88(3.3) de la Loi, serait déterminée selon les alinéas 88(3)a) ou b) de la Loi, selon le cas,
+			- **(B)** s’il s’agit d’une liquidation et dissolution à laquelle l’alinéa 95(2)e) de la Loi s’applique relativement à la disposition, la somme déterminée selon les sous-alinéas 95(2)e)(i) ou (ii) de la Loi, selon le cas,
+			- **(C)** dans les autres cas, la juste valeur marchande du bien au moment où il a effectivement fait l’objet d’une disposition,
+		- **(ii)** d’autre part, avoir été acquis par la personne ou la société de personnes en faveur de laquelle la société affiliée a disposé du bien, au moment où celui-ci a effectivement été acquis, à un coût égal à son produit de disposition pour la société affiliée.
+
+- **(9.1)** Malgré les autres dispositions de la présente partie, pour le calcul des gains ou des pertes d’une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de celle-ci provenant de son entreprise exploitée activement dans un pays, les règles ci-après s’appliquent :
+	- **a)** pour ce qui est des gains tirés de la disposition d’un bien auquel l’alinéa 95(2)d.1) de la Loi s’applique, ces gains ou ces pertes sont déterminés selon les règles énoncées à cet alinéa;
+	- **b)** pour ce qui est des gains tirés de la disposition d’un bien acquis dans le cadre d’une opération à laquelle cet alinéa s’applique, le coût du bien pour la société affiliée est déterminé selon les règles énoncées à cet alinéa.
 
 - **(10)** Lorsque
 	- **a)** les gains nets ou la perte nette pour une année d’imposition d’une société étrangère affiliée d’une société résidant au Canada provenant d’une entreprise exploitée activement dans un pays autre que le Canada auraient par ailleurs été inclus dans les gains imposables ou la perte imposable de la société affiliée, selon le cas, pour l’année,
@@ -11594,50 +11780,282 @@ aux fins de la présente partie, les gains nets ou la perte nette doivent être 
 	- **c)** dans le cas où l’accord ou la convention est entré en vigueur avant 1995, la société affiliée résiderait dans le pays désigné à ce moment si ce n’était une disposition de l’accord ou de la convention — qui n’a pas été modifiée après 1994 — selon laquelle elle est exclue de son application;
 	- **d)** la société affiliée résiderait dans le pays désigné à ce moment, ainsi qu’il est prévu aux alinéas a), b) ou c), si l’accord ou la convention était entré en vigueur.
 
-- **(12)** Aux fins de l’alinéa 95(2)j) de la Loi, le prix de base rajusté, pour une société étrangère affiliée d’un contribuable, d’une participation dans une société de personnes, à une date quelconque, est le coût de cette participation déterminé par ailleurs à cette date, sauf que :
-	- **a)** il est ajouté à ce coût ceux des montants suivants qui sont applicables :
-		- **(i)** tout montant inclus dans les gains de la société affiliée pour une année d’imposition se terminant après 1971 et avant cette date, qui peut raisonnablement être considéré comme se rapportant aux bénéfices de la société de personnes,
-		- **(ii)** les revenus de la société affiliée, visés à l’élément A de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, pour une année d’imposition qui se termine après 1971 et avant cette date qu’il est raisonnable de considérer comme se rapportant aux bénéfices de la société de personnes,
-		- **(iii)** tout montant inclus dans le calcul des gains exonérés ou des gains imposables, selon le cas, de la société affiliée pour une année d’imposition se terminant après 1971 et avant cette date, qui peut raisonnablement être considéré comme se rapportant à un gain en capital de la société de personnes,
-		- **(iv)** lorsque la société affiliée, à une date antérieure à cette date et au cours d’une année d’imposition se terminant après 1971, a contribué au capital de la société de personnes autrement que par le biais d’un prêt, la fraction du montant de la contribution qui ne peut raisonnablement être considérée comme étant un don à ou en faveur de tout autre associé de la société de personnes qui était lié à la société affiliée, et
-		- **(v)** la fraction d’un impôt sur le revenu ou les bénéfices remboursé à la société de personnes avant cette date par le gouvernement d’un pays qui peut raisonnablement être considérée comme étant de l’impôt remboursé à l’égard d’un montant visé à l’un des sous-alinéas b)(i) à (iii), et
-	- **b)** il est déduit de ce coût ceux des montants suivants qui sont applicables :
-		- **(i)** tout montant inclus dans la perte de la société affiliée pour une année d’imposition se terminant après 1971, qui peut raisonnablement être considéré comme se rapportant à une perte de la société de personnes,
-		- **(ii)** les pertes de la société affiliée, visées à l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, pour une année d’imposition qui se termine après 1971 et avant cette date qu’il est raisonnable de considérer comme se rapportant aux pertes de la société de personnes,
-		- **(iii)** tout montant inclus dans le calcul de la perte exonérée ou de la perte imposable, selon le cas, de la société affiliée pour une année d’imposition se terminant après 1971 et avant cette date, qui peut raisonnablement être considéré comme se rapportant à une perte en capital de la société de personnes,
-		- **(iv)** tout montant reçu par la société affiliée avant cette date et au cours d’une année d’imposition se terminant après 1971, au titre ou en paiement intégral ou partiel d’une distribution de sa part des bénéfices ou du capital de la société de personnes, et
-		- **(v)** la fraction d’un impôt sur le revenu ou les bénéfices payé par la société de personnes avant cette date au gouvernement d’un pays et qui peut raisonnablement être considérée comme étant de l’impôt payé à l’égard d’un montant visé à l’un des sous-alinéas a)(i) à (iii),
-et, pour plus de précision, lorsqu’il s’agit d’une participation dans une société de personnes qu’une société affiliée a acquise de nouveau après en avoir disposé, aucun rajustement qui devrait être apporté en vertu du présent paragraphe avant cette réacquisition n’est apporté, en vertu du présent paragraphe, au coût, pour la société affiliée, de la participation à titre de biens réacquis de la société affiliée.
+- **(12)** [Abrogé, 2013, ch. 34, art. 46]
 
-- **(13)** Pour l’application du sous-alinéa 128.1(1)d)(ii) de la Loi, le montant à inclure dans le revenu étranger accumulé, tiré de biens d’une société étrangère affiliée d’un contribuable pour une année d’imposition correspond à l’excédent éventuel :
-	- **a)** du surplus imposable de la société affiliée à l’égard du contribuable à la fin de l’année, à l’exclusion des gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
-sur le total des montants suivants :
-	- **b)** le résultat du calcul suivant :
+- **(13)** Pour l’application du sous-alinéa 128.1(1)d)(ii) de la Loi, le montant à inclure correspond à la somme obtenue par la formule suivante :
 ```
-(A - B) × (C - 1)
+X + Y
 ```
-où 
-- **A** représente le total du montant intrinsèque d’impôt étranger de la société affiliée à l’égard du contribuable à la fin de l’année et du montant, dans la mesure où il n’est pas par ailleurs inclus dans ce montant intrinsèque d’impôt étranger, qui aurait été ajouté à celui-ci si chaque disposition réputée effectuée selon l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle,
-- **B** la fraction de la valeur de l’élément A qu’il est raisonnable de considérer comme se rapportant aux gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
-- **C** le facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi,
-	- **c)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-		- **(i)** le total des montants à ajouter, en application de l’alinéa 92(1)a) de la Loi, au cours d’une année d’imposition antérieure dans le calcul du prix de base rajusté, pour le contribuable, des actions de la société affiliée qui lui appartiennent à la fin de l’année,
-		- **(ii)** le total des montants à déduire, en application de l’alinéa 92(1)b) de la Loi, au cours d’une année d’imposition antérieure dans le calcul du prix de base rajusté, pour le contribuable, des actions de la société affiliée qui lui appartiennent à la fin de l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112.
+où :
+- **X** représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+- **a)** la somme obtenue par la formule suivante :
+```
+A – B – (C – D) + (E – F)
+```
+où :
+- **A** représente le surplus imposable de la société affiliée de l’autre contribuable visée à l’alinéa 128.1(1)d) de la Loi, relativement à celui-ci, à la fin de l’année visée au sous-alinéa 128.1(1)d)(ii) de la Loi,
+- **B** les gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens pour l’année, dans la mesure où ils ont été inclus dans la valeur de l’élément A,
+- **C** le total des sommes dont chacune représente la somme qui aurait été ajoutée au montant intrinsèque d’impôt étranger de la société affiliée relativement à l’autre contribuable à la fin de l’année en raison du gain ou du revenu qu’elle aurait obtenu si la disposition qu’elle est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle,
+- **D** le total des sommes dont chacune représente la somme qui est ajoutée par ailleurs dans le calcul du montant intrinsèque d’impôt étranger de la société affiliée relativement à l’autre contribuable à la fin de l’année au titre de l’impôt sur le revenu ou sur les bénéfices payé au gouvernement d’un pays relativement à tout ou partie d’un gain ou d’un revenu de la société affiliée visé à l’élément C,
+- **E** le total des sommes dont chacune représente la somme qui aurait été retranchée du montant intrinsèque d’impôt étranger de la société affiliée relativement à l’autre contribuable à la fin de l’année en raison de la perte qu’elle aurait subie si la disposition qu’elle est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle,
+- **F** le total des sommes dont chacune représente la somme qui est déduite par ailleurs dans le calcul du montant intrinsèque d’impôt étranger de la société affiliée relativement à l’autre contribuable à la fin de l’année au titre de l’impôt sur le revenu ou sur les bénéfices remboursé par le gouvernement d’un pays relativement à tout ou partie d’une perte de la société affiliée visée à l’élément E,
+- **b)** la somme obtenue par la formule suivante :
+```
+[(G – H) × (J – 1)] + K
+```
+où :
+- **G** représente la somme obtenue par la formule suivante :
+```
+L + M – N
+```
+où :
+- **L** représente le montant intrinsèque d’impôt étranger de la société affiliée relativement à l’autre contribuable à la fin de l’année,
+- **M** l’excédent de la valeur de l’élément C de la formule figurant à l’alinéa a) sur la valeur de l’élément D de cette formule,
+- **N** l’excédent de la valeur de l’élément E de la formule figurant à l’alinéa a) sur la valeur de l’élément F de cette formule,
+- **H** la partie de la valeur de l’élément L qu’il est raisonnable de considérer comme se rapportant aux gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
+- **J** le facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi, applicable à l’autre contribuable pour son année d’imposition qui comprend le moment immédiatement avant le moment donné,
+- **K** l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) :
+- **(i)** le total des sommes à ajouter, en application de l’alinéa 92(1)a) de la Loi, au cours d’une année d’imposition antérieure dans le calcul du prix de base rajusté pour l’autre contribuable des actions de la société affiliée appartenant à celui-ci à la fin de l’année,
+- **(ii)** le total des sommes à déduire, en application de l’alinéa 92(1)b) de la Loi, au cours d’une année d’imposition antérieure dans le calcul du prix de base rajusté pour l’autre contribuable des actions de la société affiliée appartenant à celui-ci à la fin de l’année;
+- **Y** l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+- **a)** la somme obtenue par la formule suivante :
+```
+P – (Q – R) + (S – T)
+```
+où :
+- **P** représente le surplus hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année,
+- **Q** le total des sommes dont chacune représente la somme qui aurait été ajoutée au montant intrinsèque d’impôt hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année en raison du gain en capital qui se serait produit si la disposition qu’elle est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle,
+- **R** le total des sommes dont chacune représente la somme qui est ajoutée par ailleurs dans le calcul du montant intrinsèque d’impôt hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année au titre de l’impôt sur le revenu ou sur les bénéfices payé au gouvernement d’un pays relativement à tout ou partie d’un gain en capital de la société affiliée visé à l’élément Q,
+- **S** le total des sommes dont chacune représente la somme qui aurait été retranchée du montant intrinsèque d’impôt hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année en raison de la perte en capital qui se serait produite si la disposition qu’elle est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle,
+- **T** le total des sommes dont chacune représente la somme qui est déduite par ailleurs dans le calcul du montant intrinsèque d’impôt hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année au titre de l’impôt sur le revenu ou sur les bénéfices remboursé par le gouvernement d’un pays relativement à tout ou partie d’une perte en capital de la société affiliée visée à l’élément S,
+- **b)** la somme obtenue par la formule suivante :
+```
+[U × (V – 0,5)] + (W × 0,5)
+```
+où :
+- **U** représente la somme obtenue par la formule suivante :
+```
+U.1 + U.2 – U.3
+```
+où :
+- **U.1** représente le montant intrinsèque d’impôt hybride de la société affiliée relativement à l’autre contribuable à la fin de l’année,
+- **U.2** l’excédent de la valeur de l’élément Q de la formule figurant à l’alinéa a) sur la valeur de l’élément R de cette formule,
+- **U.3** l’excédent de la valeur de l’élément S de la formule figurant à l’alinéa a) sur la valeur de l’élément T de cette formule,
+- **V** le facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi, applicable à l’autre contribuable pour son année d’imposition qui comprend le moment immédiatement avant le moment donné,
+- **W** la somme déterminée selon l’alinéa a).
+
+- **(14)** Pour l’application de l’élément C de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément Q de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été ajoutée au montant intrinsèque d’impôt étranger ou au montant intrinsèque d’impôt hybride, selon le cas, de la société étrangère affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+	- **a)** la somme (déterminée selon l’hypothèse que la disposition hypothétique a été effectuée au moment de la disposition réputée) qu’il est raisonnable de considérer comme étant le montant de l’impôt sur le revenu ou sur les bénéfices que la société affiliée aurait eu à payer au gouvernement d’un pays étranger donné en raison de la disposition hypothétique, en plus de tout autre impôt sur le revenu ou sur les bénéfices payable par ailleurs à ce gouvernement, au titre du gain ou du revenu qu’elle a tiré de cette disposition;
+	- **b)** la somme qu’il est raisonnable de considérer comme étant la partie de l’impôt hypothétique sur le revenu ou sur les bénéfices payable par la société affiliée au gouvernement du pays donné au titre du gain ou du revenu qu’elle a tiré de la disposition hypothétique (déterminé selon les hypothèses que la disposition hypothétique a été effectuée immédiatement après le moment immédiatement après le moment de la disposition réputée et que l’impôt hypothétique sur le revenu ou sur les bénéfices payable par la société affiliée au gouvernement du pays donné relativement à la disposition hypothétique est égal à la somme déterminée selon l’alinéa a)) qui, en raison d’un accord ou d’une convention général visant à éliminer la double imposition du revenu conclu entre le gouvernement du pays donné et le gouvernement d’un autre pays, n’aurait pas été payable au gouvernement du pays donné.
+
+- **(15)** Pour l’application de l’élément E de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément S de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été retranchée du montant intrinsèque d’impôt étranger ou du montant intrinsèque d’impôt hybride, selon le cas, de la société affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+	- **a)** la somme (déterminée selon l’hypothèse que la disposition hypothétique a été effectuée au moment de la disposition réputée) qu’il est raisonnable de considérer comme étant le montant de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays étranger donné aurait remboursé à la société affiliée en raison de la disposition hypothétique, en plus de tout autre impôt sur le revenu ou sur les bénéfices remboursable par ailleurs par ce gouvernement, au titre de la perte ou de la perte en capital, selon le cas, de la société affiliée résultant de cette disposition;
+	- **b)** la somme qu’il est raisonnable de considérer comme étant la partie de l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné au titre de sa perte ou perte en capital, selon le cas, résultant de la disposition hypothétique (déterminée selon les hypothèses que la disposition hypothétique a été effectuée immédiatement après le moment immédiatement après le moment de la disposition réputée et que l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné relativement à la disposition hypothétique est égal à la somme déterminée selon l’alinéa a)) qui, en raison d’un accord ou d’une convention général visant à éliminer la double imposition du revenu conclu entre le gouvernement du pays donné et le gouvernement d’un autre pays, n’aurait pas été remboursable par le gouvernement du pays donné.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112; 2013, ch. 34, art. 46, 85 et 401.
 
 
 
 
-**5908** [Abrogé, DORS/97-505, art. 9]
+**5908** 
+
+- **(1)** Pour l’application du présent paragraphe, des paragraphes (2) à (7), de l’alinéa 5902(2)b) et de l’article 5905, les actions d’une catégorie du capital-actions d’une société étrangère affiliée d’une société résidant au Canada qui, compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi, appartiennent à une société de personnes, ou qui sont réputées par le présent paragraphe lui appartenir, à un moment donné sont réputées appartenir, à ce moment, à chacun de ses associés en un nombre égal à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le nombre d’actions de cette catégorie qui appartiennent ou sont réputées appartenir à la société de personnes;
+- **B** la juste valeur marchande de la participation de l’associé dans la société de personnes à ce moment;
+- **C** la juste valeur marchande de l’ensemble des participations des associés dans la société de personnes à ce moment.
+
+- **(2)** Pour l’application des paragraphes (4) et 5905(1), (5) et (7.1), si le nombre d’actions d’une catégorie du capital-actions d’une société étrangère affiliée d’une société résidant au Canada qui sont réputées par le paragraphe (1) appartenir à une personne à un moment donné diffère du nombre d’actions qui étaient ainsi réputées lui appartenir immédiatement avant ce moment, les règles ci-après s’appliquent :
+	- **a)** lorsque le nombre d’actions qui sont réputées appartenir à la personne au moment donné est moindre que le nombre d’actions qui sont réputées lui appartenir immédiatement avant ce moment, la personne est réputée avoir disposé, au moment donné, d’un nombre d’actions égal à la différence;
+	- **b)** dans le cas contraire, la personne est réputée avoir acquis, au moment donné, un nombre d’actions égal à la différence.
+
+- **(3)** Pour l’application du paragraphe (2) :
+	- **a)** si aucune action d’une catégorie du capital-actions de la société étrangère affiliée n’appartient, à un moment donné, à une société de personnes dont une personne est l’associé à ce moment, ni n’est réputée par le paragraphe (1) lui appartenir (abstraction faite du présent paragraphe) à ce moment, le paragraphe (1) est réputé s’être appliqué relativement à la personne et aucune action de cette catégorie n’est réputée, par l’effet de ce paragraphe, relativement à la société de personnes, appartenir à la personne;
+	- **b)** en cas d’acquisition ou de disposition par une société résidant au Canada, ou une société étrangère affiliée d’une telle société, de l’ensemble de ses participations dans une société de personnes à qui appartient, compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi, des actions d’une catégorie du capital-actions d’une société non-résidente, aucune action de cette catégorie n’est réputée, par l’effet du paragraphe (1), relativement à la société de personnes, appartenir à la société résidant au Canada ou à la société étrangère affiliée, selon le cas, au moment immédiatement avant l’acquisition ou immédiatement après la disposition, selon le cas.
+
+- **(4)** Pour l’application du paragraphe 5905(5), si une société résidant au Canada (appelée « société cédante » au présent paragraphe) dispose, à un moment donné, d’actions d’une catégorie du capital-actions d’une de ses sociétés étrangères affiliées et que, par suite de la même opération ou du même événement (sauf ceux auxquels ni l’alinéa (2)a) ni l’alinéa (2)b) ne s’appliquent) ayant donné lieu à la disposition, une société canadienne imposable avec laquelle la société cédante a un lien de dépendance à ce moment acquiert des actions de cette catégorie, la société cédante est réputée, à ce moment, avoir disposé, en faveur de la société canadienne imposable, d’un nombre d’actions de cette catégorie égal au nombre obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le nombre d’actions de cette catégorie dont la société cédante a disposé;
+- **B** selon le cas :
+- **a)** si la société canadienne imposable acquiert, par l’effet de l’alinéa (2)b), des actions de cette catégorie, la fraction obtenue par la formule suivante :
+```
+C/D
+```
+où :
+- **C** représente le nombre d’actions de cette catégorie qui est réputé par cet alinéa être acquis par la société canadienne imposable par suite de l’opération ou de l’événement,
+- **D** le total des nombres représentant chacun le nombre d’actions de cette catégorie qui est réputé par cet alinéa être acquis par une personne par suite de l’opération ou de l’événement;
+- **b)** dans les autres cas, un.
+
+- **(5)** Pour l’application du paragraphe 5905(5.1), si une société remplacée visée à ce paragraphe est, au moment immédiatement avant la fusion visée à ce paragraphe, un associé d’une société de personnes donnée à qui appartient à ce moment, compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi, des actions du capital-actions d’une société étrangère affiliée de la société remplacée et que la participation de celle-ci dans la société de personnes donnée, ou dans une autre société de personnes qui est l’associé de la société de personnes donnée, devient, au moment de la fusion, le bien de la nouvelle société visée à ce paragraphe, les actions du capital-actions de la société affiliée qui sont réputées, en vertu du paragraphe (1), appartenir à la société remplacée à ce moment sont réputées devenir des biens de la nouvelle société au moment de la fusion.
+
+- **(6)** Pour l’application du paragraphe 5905(5.2), si la société est un associé d’une société de personnes à qui appartient, compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi, des actions (appelées chacune « action déterminée » à l’alinéa a)) du capital-actions de la société affiliée au moment donné, les règles ci-après s’appliquent :
+	- **a)** pour l’application de l’élément B de la formule figurant au paragraphe 5905(5.2), le coût indiqué, pour la société, de chaque action déterminée au moment donné s’obtient par la formule suivante :
+```
+P × Q/R
+```
+où :
+- **P** représente le coût indiqué, pour la société de personnes, de cette action déterminée au moment donné,
+- **Q** le nombre d’actions du capital-actions de la société affiliée qui sont réputées, par le paragraphe (1), relativement à la société de personnes, appartenir à la société au moment donné,
+- **R** le nombre total d’actions déterminées au moment donné;
+	- **b)** pour l’application de l’alinéa b) de l’élément C de la formule figurant au paragraphe 5905(5.2), la somme déterminée selon le présent alinéa correspond au total des sommes représentant chacune la somme qui correspondrait à la partie d’un gain revenant à la société qui serait réputée, en vertu du paragraphe 92(5) de la Loi, être un gain de l’associé de la société de personnes provenant de la disposition d’une action du capital-actions de la société affiliée par la société de personnes s’il était disposé de cette action immédiatement avant le moment donné.
+
+- **(7)** Pour l’application de l’alinéa 5905(5.4)b), la somme déterminée selon le présent paragraphe correspond à la somme obtenue par la formule ci-après relativement à des actions du capital-actions d’une société étrangère affiliée de la filiale qui étaient réputées par le paragraphe (1), relativement à la société de personnes, appartenir à la filiale au moment où la société mère a acquis la dernière fois le contrôle de la filiale :
+```
+A × B
+```
+où :
+- **A** représente le solde de surplus libre d’impôt de la société affiliée, relativement à la filiale, à ce moment;
+- **B** le pourcentage qui correspondrait au pourcentage de droit au surplus de la filiale relativement à la société affiliée à ce moment si les seules actions de ce capital-actions qui appartenaient à ce moment à la filiale étaient les actions de ce même capital-actions qui étaient réputées par le paragraphe (1), relativement à la société de personnes, appartenir à la filiale au moment où la société mère a acquis la dernière fois le contrôle de la filiale.
+
+- **(8)** Si une société donnée résidant au Canada, ou une société étrangère affiliée donnée d’une telle société, est un associé d’une société de personnes donnée, que des actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société donnée appartiennent à la société de personnes donnée (compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi) et que la société de personnes donnée dispose d’une ou de plusieurs de ces actions, les règles ci-après s’appliquent :
+	- **a)** tout renvoi au paragraphe 93(1) de la Loi dans les dispositions de la présente partie, à l’exception des paragraphes 5902(5) et (6), est réputé comprendre un renvoi au paragraphe 93(1.2) de la Loi;
+	- **b)** le choix que fait la société donnée en vertu du paragraphe 93(1.2) de la Loi doit être présenté au ministre sur le formulaire prescrit au plus tard à celle des dates ci-après qui est applicable :
+		- **(i)** si la société donnée est la société cédante visée à ce paragraphe, la date d’échéance de production qui lui est applicable pour son année d’imposition qui comprend le dernier jour de l’exercice de la société de personnes donnée au cours duquel la disposition a été effectuée,
+		- **(ii)** si la société affiliée donnée est la société cédante visée à ce paragraphe, la date d’échéance de production qui est applicable à la société donnée pour son année d’imposition qui comprend le dernier jour de l’année d’imposition de la société affiliée donnée qui comprend le dernier jour de l’exercice de la société de personnes cédante au cours duquel la disposition a été effectuée;
+	- **c)** est visée, pour l’application du sous-alinéa 93(1.2)a)(ii) de la Loi, la moins élevée des sommes suivantes :
+		- **(i)** le gain en capital imposable de la société affiliée donnée, déterminé par ailleurs relativement à la disposition,
+		- **(ii)** la somme obtenue par la formule suivante :
+```
+A × B × C/D
+```
+où :
+- **A** représente la fraction mentionnée à l’alinéa 38a) de la Loi qui s’applique à l’année d’imposition de la société affiliée donnée qui comprend le dernier jour de l’exercice de la société de personnes donnée qui comprend le moment de la disposition,
+- **B** la somme dont il serait raisonnable de s’attendre à ce qu’elle ait été reçue relativement à l’ensemble des actions de la catégorie en cause si la deuxième société affiliée visée au paragraphe 93(1.2) de la Loi avait versé, immédiatement avant ce moment, sur l’ensemble des actions de son capital-actions, des dividendes dont le total est égal à la somme qui correspond, selon le sous-alinéa 5902(1)a)(i), à son surplus net relativement à la société donnée,
+- **C** le nombre d’actions de cette catégorie, déterminé selon le paragraphe 93(1.3) de la Loi,
+- **D** le nombre total d’actions émises de cette catégorie immédiatement avant ce moment.
+
+- **(9)** Pour l’application de la présente partie et sauf indication contraire du contexte, la personne ou la société de personnes qui est, ou qui est réputée être en vertu du présent paragraphe, un associé d’une société de personnes qui est elle-même l’associé d’une autre société de personnes est réputée être un associé de cette dernière.
+
+- **(10)** Pour l’application de l’alinéa 95(2)j) de la Loi, le prix de base rajusté, pour une société étrangère affiliée d’un contribuable, d’une participation dans une société de personnes à un moment donné correspond au coût de la participation pour la société affiliée, déterminé par ailleurs à ce moment. À cette fin :
+	- **a)** sont ajoutées à ce coût celles des sommes ci-après qui sont applicables :
+		- **(i)** toute somme incluse dans les gains de la société affiliée, pour une année d’imposition se terminant après 1971 et avant ce moment, qu’il est raisonnable de considérer comme se rapportant aux bénéfices de la société de personnes,
+		- **(ii)** les revenus de la société affiliée visés à l’élément A de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, pour une année d’imposition se terminant après 1971 et avant ce moment, qu’il est raisonnable de considérer comme se rapportant aux bénéfices de la société de personnes,
+		- **(iii)** toute somme incluse dans le calcul des gains exonérés ou des gains imposables, selon le cas, de la société affiliée, pour une année d’imposition se terminant après 1971 et avant ce moment, qu’il est raisonnable de considérer comme se rapportant à un gain en capital de la société de personnes,
+		- **(iii.1)** toute somme incluse dans le calcul du surplus hybride ou du déficit hybride de la société affiliée avant ce moment qu’il est raisonnable de considérer comme se rapportant à un gain en capital de la société de personnes,
+		- **(iv)** si la société affiliée a fait, avant ce moment et au cours d’une année d’imposition se terminant après 1971, un apport de capital à la société de personnes autrement qu’au moyen d’un prêt, toute partie du montant de l’apport qu’il n’est pas raisonnable de considérer comme un don fait à un autre associé de la société de personnes qui était lié à la société affiliée, ou pour son compte,
+		- **(v)** toute partie de l’impôt sur le revenu ou sur les bénéfices remboursé à la société de personnes avant ce moment par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt remboursé au titre d’une somme visée à l’un des sous-alinéas b)(i) à (iii),
+		- **(vi)** la somme éventuelle déterminée selon l’alinéa (11)b);
+	- **b)** sont déduites de ce coût celles des sommes ci-après qui sont applicables :
+		- **(i)** toute somme incluse dans la perte de la société affiliée, pour une année d’imposition se terminant après 1971, qu’il est raisonnable de considérer comme se rapportant à une perte de la société de personnes,
+		- **(ii)** les pertes de la société affiliée visées à l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi, pour une année d’imposition se terminant après 1971 et avant ce moment, qu’il est raisonnable de considérer comme se rapportant aux pertes de la société de personnes,
+		- **(iii)** toute somme incluse dans le calcul de la perte exonérée ou de la perte imposable, selon le cas, de la société affiliée, pour une année d’imposition se terminant après 1971 et avant ce moment, qu’il est raisonnable de considérer comme se rapportant à une perte en capital de la société de personnes,
+		- **(iii.1)** toute somme incluse dans le calcul du surplus hybride ou du déficit hybride de la société affiliée avant ce moment qu’il est raisonnable de considérer comme se rapportant à une perte en capital de la société de personnes,
+		- **(iv)** toute somme reçue par la société affiliée, avant ce moment et au cours d’une année d’imposition se terminant après 1971, au titre ou en règlement total ou partiel d’une distribution de la part des bénéfices ou du capital de la société de personnes qui revient à la société affiliée,
+		- **(v)** toute partie de l’impôt sur le revenu ou sur les bénéfices payé par la société de personnes avant ce moment au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé au titre d’une somme visée à l’un des sous-alinéas a)(i) à (iii);
+	- **c)** il est entendu que, dans le cas où une société étrangère affiliée acquiert de nouveau une participation dans une société de personnes après en avoir disposé, le coût pour elle de la participation à titre de bien acquis de nouveau ne peut faire l’objet d’aucun des rajustements prévus au présent paragraphe dont il devait faire l’objet avant la nouvelle acquisition.
+
+- **(11)** Si une société de personnes est propriétaire, compte tenu des hypothèses formulées à l’alinéa 96(1)c) de la Loi, d’une action du capital-actions d’une société étrangère affiliée donnée d’une société résidant au Canada et que l’un ou plusieurs des associés de la société de personnes sont, à ce moment, des détenteurs directs mentionnés à l’alinéa 5905(7.6)a) ou des sociétés affiliées subordonnées mentionnées à l’alinéa 5905(7.6)b), les règles ci-après s’appliquent :
+	- **a)** pour l’application de l’alinéa 92(1.1)b) de la Loi, est ajouté, dans le calcul, à ce moment ou par la suite, du prix de base rajusté de l’action pour la société de personnes, le total des sommes représentant chacune la somme obtenue par la formule ci-après relativement à une société affiliée acquise visée au paragraphe 5905(7.6) :
+```
+A × B
+```
+où :
+- **A** représente la somme éventuelle déterminée selon l’alinéa 5905(7.2)a) relativement à la société affiliée acquise,
+- **B** le pourcentage qui correspondrait, si la société de personnes était une société résidant au Canada, à son pourcentage de droit au surplus relativement à la société affiliée acquise au moment du rajustement si l’action était la seule action appartenant à la société de personnes;
+	- **b)** pour l’application du sous-alinéa (10)a)(vi), la somme déterminée selon le présent alinéa, relativement à la participation du détenteur direct ou de la société affiliée subordonnée dans la société de personnes, correspond à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le total des sommes représentant chacune la somme éventuelle déterminée selon l’alinéa a) relativement à une action du capital-actions de la société affiliée donnée,
+- **B** la juste valeur marchande, au moment du rajustement, de la participation du détenteur direct ou de la société affiliée subordonnée, selon le cas, dans la société de personnes,
+- **C** la juste valeur marchande, au moment du rajustement, de l’ensemble des participations des associés dans la société de personnes;
+	- **c)** aucune somme n’est à ajouter en application du paragraphe 5905(7.6) au prix de base rajusté de l’action pour le détenteur direct ou la société affiliée subordonnée.
+
+- **(12)** Pour l’application de l’alinéa 5905(7.7)b), la somme déterminée selon le présent paragraphe correspond à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de rajustement;
+- **B** la juste valeur marchande, au moment du rajustement, de la participation de la société affiliée donnée mentionnée à l’alinéa 93(3)c) de la Loi dans la société de personnes mentionnée à l’alinéa 92(1.1)b) de la Loi;
+- **C** la juste valeur marchande, au moment du rajustement, de l’ensemble des participations des associés dans la société de personnes.
+
+- **(13)** Pour l’application des divisions 5907(2.9)a)(i)(B) et (ii)(B), la somme déterminée selon le présent paragraphe correspond, sous réserve du paragraphe (14), à la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente :
+- **a)** en cas d’application de la division 5907(2.9)a)(i)(B), la somme déterminée selon la division 5907(2.9)a)(i)(A),
+- **b)** en cas d’application de la division 5907(2.9)a)(ii)(B), la somme déterminée selon la division 5907(2.9)a)(ii)(A);
+- **B** la part directe ou indirecte de la société affiliée sur le revenu ou la perte de la société de personnes pour l’année d’imposition précédente;
+- **C** le revenu ou la perte de la société de personnes pour l’année d’imposition précédente.
+
+- **(14)** Pour l’application du paragraphe (13), si le revenu et la perte de la société de personnes pour l’année d’imposition précédente sont tous deux nuls, les éléments B et C de la formule figurant à ce paragraphe s’appliquent comme si le revenu de la société de personnes pour cette année s’établissait à 1 000 000 $.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-505, art. 9; 2013, ch. 34, art. 47 et 86.
 
 
 
 
-### Circonstances prescrites
+**5909** [Abrogé, 2013, ch. 34, art. 28]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-135, art. 4; 2013, ch. 34, art. 28.
 
 
-**5909** Pour l’application du sous-alinéa 94(1)b)(i) de la Loi, les circonstances prescrites sont celles où les biens sont acquis en remboursement d’un prêt.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-135, art. 4.
+
+
+**5910** 
+
+- **(1)** La société étrangère affiliée d’une société résidant au Canada qui exploite, au cours d’une année d’imposition donnée, une entreprise exploitée activement qui est une entreprise pétrolière et gazière à l’étranger située dans un pays taxateur est réputée, pour l’application de la présente partie, avoir payé pour l’année donnée, à titre d’impôt sur le revenu ou sur les bénéfices au gouvernement du pays taxateur, relativement à ses gains provenant de l’entreprise pour cette année, une somme égale à la moins élevée des sommes suivantes :
+	- **a)** la somme éventuelle obtenue par la formule suivante :
+```
+(A × B) – C
+```
+où :
+- **A** représente le pourcentage déterminé selon le paragraphe (2) pour l’année donnée,
+- **B** les gains de la société affiliée provenant de l’entreprise pour l’année donnée,
+- **C** le total des sommes représentant chacune une somme qui, en l’absence du présent paragraphe, représenterait un impôt sur le revenu ou sur les bénéfices payé au gouvernement du pays taxateur par la société affiliée pour l’année donnée au titre de ses gains provenant de l’entreprise pour cette année;
+	- **b)** l’impôt sur la production payé par la société affiliée pour l’année donnée relativement à l’entreprise exploitée dans le pays taxateur.
+
+- **(2)** Le pourcentage déterminé selon le présent paragraphe pour l’année donnée s’obtient par la formule suivante :
+```
+P – Q
+```
+où :
+- **P** représente le pourcentage prévu à l’alinéa 123(1)a) de la Loi pour l’année d’imposition de la société qui comprend le dernier jour de l’année donnée;
+- **Q** le pourcentage de réduction du taux général de la société (au sens du paragraphe 123.4(1) de la Loi) pour cette année d’imposition de la société.
+
+- **(3)** [Abrogé, 2013, ch. 34, art. 87]
+
+- **(4)** Au présent article, ***entreprise pétrolière et gazière à l’étranger***, ***impôt sur la production*** et ***pays taxateur*** s’entendent au sens du paragraphe 126(7) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 48 et 87.
+
+
+
+
+**5911** 
+
+- **(1)** Un choix déterminé doit être fait par le contribuable et, le cas échéant, par la société affiliée cédante par avis écrit adressé au ministre au plus tard à celle des dates ci-après qui est applicable :
+	- **a)** si le contribuable est une société de personnes, la première des dates d’échéance de production applicables aux associés de la société de personnes pour leur année d’imposition qui comprend le dernier jour de l’exercice de celle-ci qui comprend le dernier jour de l’année d’imposition de la société affiliée qui comprend le moment de la distribution d’un bien distribué;
+	- **b)** dans les autres cas, la date d’échéance de production applicable au contribuable pour son année d’imposition qui comprend le dernier jour de l’année d’imposition de la société affiliée qui comprend le moment de la distribution d’un bien distribué.
+
+- **(2)** Pour l’application du paragraphe (1), est un choix déterminé :
+	- **a)** le choix que le contribuable fait en vertu du paragraphe 88(3.1) de la Loi relativement à la liquidation et dissolution d’une société cédante;
+	- **b)** le choix que le contribuable fait en vertu du paragraphe 88(3.3) de la Loi relativement à la distribution d’un bien distribué;
+	- **c)** le choix conjoint que le contribuable et une société distributrice font en vertu du paragraphe 88(3.5) de la Loi relativement à une distribution d’un bien distribué.
+
+- **(3)** Le paragraphe (4) s’applique si les faits ci-après s’avèrent :
+	- **a)** un contribuable a fait le choix (appelé « choix initial » au présent paragraphe et au paragraphe (4)) prévu au paragraphe 88(3.3) de la Loi relativement à la distribution d’un bien distribué au plus tard à la date d’échéance de production précisée au paragraphe (1);
+	- **b)** le contribuable a fait des efforts raisonnables pour déterminer les sommes, relatives à la société affiliée cédante, qu’il est raisonnable de considérer comme devant être prises en compte dans le cadre du choix initial;
+	- **c)** le contribuable modifie le choix initial au plus tard le jour qui suit de dix ans la date d’échéance de production mentionnée à l’alinéa a).
+
+- **(4)** Si le présent paragraphe s’applique et que, de l’avis du ministre, les circonstances sont telles qu’il serait juste et équitable de permettre la modification du choix initial, le choix modifié selon l’alinéa (3)c) est réputé avoir été fait à la date où le choix initial a été fait et ce dernier est réputé ne pas avoir été fait.
+
+- **(5)** Le choix prévu à la définition de ***prix de base approprié*** au paragraphe 95(4) de la Loi relativement à un bien d’une société étrangère affiliée d’un contribuable, relativement à celui-ci, doit être fait par le contribuable par avis écrit adressé au ministre au plus tard à celle des dates ci-après qui est applicable :
+	- **a)** si le contribuable est une société de personnes, la première des dates d’échéance de production applicables aux associés de la société de personnes pour leur année d’imposition qui comprend le dernier jour de l’exercice de celle-ci qui comprend le dernier jour de l’année d’imposition de la société affiliée pour laquelle le calcul du prix de base approprié du bien, relativement au contribuable, est pris en compte;
+	- **b)** dans les autres cas, la date d’échéance de production applicable au contribuable pour son année d’imposition qui comprend le dernier jour de l’année d’imposition de la société affiliée pour laquelle le calcul du prix de base approprié du bien, relativement au contribuable, est pris en compte.
+
+- **(6)** Le choix ou le choix conjoint, selon le cas, prévu au paragraphe 90(3) de la Loi relativement à une distribution effectuée par une société étrangère affiliée d’un contribuable doit être fait par le contribuable, ou par le contribuable et chaque personne ou société de personnes rattachée visée à ce paragraphe, selon le cas, par avis écrit au ministre présenté au plus tard à celle des dates ci-après qui est applicable :
+	- **a)** s’agissant d’un choix fait par le contribuable :
+		- **(i)** si le contribuable est une société de personnes, la première en date des dates d’échéance de production applicable à tout associé de la société de personnes pour son année d’imposition qui comprend le dernier jour de l’exercice de la société de personnes dans lequel la distribution a été effectuée,
+		- **(ii)** dans les autres cas, la date d’échéance de production applicable au contribuable pour son année d’imposition qui comprend le dernier jour de l’année d’imposition de la société affiliée dans laquelle la distribution a été effectuée;
+	- **b)** s’agissant d’un choix conjoint, la première en date des dates d’échéance de production qui seraient déterminées selon l’alinéa a) pour chaque contribuable tenu de faire le choix conjoint s’il n’y avait pas de personnes ou sociétés de personnes rattachées relativement au contribuable.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 88.
 
 
 
@@ -11825,40 +12243,69 @@ et, pour l’application du présent article,
 
 **6202.1** 
 
-- **(1)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, est une action exclue l’action nouvelle du capital-actions d’une société si, au moment de son émission, selon le cas :
-	- **a)** conformément aux conditions de l’action ou à une convention relative à l’action ou à son émission :
-		- **(i)** il est raisonnable de croire que le montant des dividendes qui peut être déclaré ou versé sur l’action — appelé « part des bénéfices » au présent article — est, par une formule ou autrement :
+- **(1)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, est une action exclue l’action nouvelle du capital-actions d’une société si, au moment de son émission, selon le cas :
+	- **a)** conformément aux conditions de l’action ou à une convention relative à l’action ou à son émission, l’un des énoncés ci-après se vérifie :
+		- **(i)** il est raisonnable de croire que le montant des dividendes qui peut être déclaré ou versé sur l’action — appelé « part des bénéfices » au présent article — est, par une formule ou autrement :
 			- **(A)** soit fixe,
 			- **(B)** soit plafonné,
 			- **(C)** soit assujetti à un plancher (y compris un montant déterminé sur une base cumulative), si les dividendes qui peuvent être déclarés ou versés sur l’action ont rang avant les dividendes qui peuvent être déclarés ou versés sur une autre action du capital-actions de la société,
 		- **(ii)** il est raisonnable de croire que le montant — appelé « part de liquidation » au présent article — que le détenteur de l’action a le droit de recevoir sur l’action lors de la dissolution ou de la liquidation de la société, de la réduction du capital versé au titre de l’action ou du rachat, de l’acquisition ou de l’annulation de l’action par la société ou par une personne apparentée à celle-ci est, par une formule ou autrement, fixe, plafonné ou assujetti à un plancher,
-		- **(iii)** l’action peut être convertie en un autre titre de la société ou échangée contre celui-ci, sauf si :
-			- **(A)** d’une part, elle peut être convertie seulement en l’un des titres ou droits suivants ou échangée contre l’un d’eux :
+		- **(iii)** l’action peut être convertie en un autre titre de la société ou échangée contre celui-ci, sauf si :
+			- **(A)** d’une part, elle peut être convertie seulement en l’un des titres ou droits suivants ou échangée contre l’un d’eux :
 				- **(I)** une autre action de la société qui, si elle était émise, ne serait pas une action exclue,
-				- **(II)** un droit, y compris celui conféré par un bon de souscription, qui, s’il était exercé, permettrait à la personne qui l’exercerait d’acquérir une action de la société qui, si elle était émise, ne serait pas une action exclue,
-				- **(III)** à la fois une action visée à la sub-division (I) et un droit ou un bon de souscription visé à la subdivision (II),
-			- **(B)** d’autre part, la totalité de la contrepartie à recevoir par le détenteur de l’action lors de la conversion ou de l’échange est l’action visée à la subdivision (A)(I) ou le droit ou le bon de souscription visé à la subdivision (A)(II), ou les deux, selon le cas, ou
+				- **(II)** un droit, y compris celui conféré par un bon de souscription, qui :
+					- **1** s’il était émis, ne serait pas un droit exclu,
+					- **2** s’il était exercé, permettrait à la personne qui l’exercerait d’acquérir une action de la société qui, si elle était émise, ne serait pas une action exclue,
+				- **(III)** à la fois une action visée à la subdivision (I) et un droit visé à la subdivision (II),
+			- **(B)** d’autre part, la totalité de la contrepartie à recevoir par le détenteur de l’action lors de la conversion ou de l’échange est l’action visée à la subdivision (A)(I) ou le droit visé à la subdivision (A)(II), ou les deux, selon le cas,
 		- **(iv)** la société a l’obligation, conditionnelle ou non, de réduire, ou une personne ou une société de personnes a l’obligation, conditionnelle ou non, de faire en sorte que la société réduise, le capital versé au titre de l’action — sauf par suite de la conversion ou de l’échange de l’action dans le cas où le droit de conversion ou d’échange n’en fait pas une action exclue selon le sous-alinéa (iii) —;
-	- **b)** une personne ou une société de personnes a l’une des obligations suivantes, conditionnelles ou non, immédiates ou futures (à l’exception d’une obligation exclue relative à l’action), qu’il est raisonnable de considérer comme étant, directement ou indirectement, un remboursement ou une remise par la société ou par une personne apparentée à celle-ci de tout ou partie de la contrepartie pour l’action émise ou la participation dans la société de personnes qui acquiert l’action :
+	- **b)** une personne ou une société de personnes a l’une des obligations suivantes, conditionnelles ou non, immédiates ou futures (à l’exception d’une obligation exclue relative à l’action), qu’il est raisonnable de considérer comme étant, directement ou indirectement, un remboursement ou une remise par la société ou par une personne apparentée à celle-ci de tout ou partie de la contrepartie pour l’action émise ou la participation dans la société de personnes qui acquiert l’action :
 		- **(i)** fournir une aide,
 		- **(ii)** consentir un prêt ou faire un paiement,
 		- **(iii)** transférer un bien,
 		- **(iv)** conférer par ailleurs un avantage, de quelque façon que ce soit, y compris le versement d’un dividende;
-	- **c)** une personne ou une société de personnes a l’obligation, conditionnelle ou non (à l’exception d’une obligation exclue relative à l’action), de fournir un engagement, immédiat ou futur, relatif à l’action ou à la convention en vertu de laquelle l’action est émise — notamment une garantie, une sûreté, une promesse ou un accord et y compris le dépôt d’un montant ou le prêt de fonds au détenteur de l’action ou, si celui-ci est une société de personnes, aux associés de celle-ci ou aux personnes apparentées au détenteur de l’action ou aux associés, ou pour le compte des uns ou des autres — qu’il est raisonnable de considérer comme donné pour faire en sorte, directement ou indirectement :
+	- **c)** une personne ou une société de personnes a l’obligation, conditionnelle ou non (à l’exception d’une obligation exclue relative à l’action), de fournir un engagement, immédiat ou futur, relatif à l’action ou à la convention en vertu de laquelle l’action est émise — notamment une garantie, une sûreté, une promesse ou un accord et y compris le dépôt d’un montant ou le prêt de fonds au détenteur de l’action ou, si celui-ci est une société de personnes, aux associés de celle-ci ou aux personnes apparentées au détenteur de l’action ou aux associés, ou pour le compte des uns ou des autres — qu’il est raisonnable de considérer comme donné pour faire en sorte, directement ou indirectement :
 		- **(i)** que soit limitée d’une façon quelconque toute perte que le détenteur de l’action et, si celui-ci est une société de personnes, les associés de celle-ci ou les personnes apparentées au détenteur de l’action ou aux associés peuvent subir parce qu’ils détiennent l’action ou un autre bien, en sont propriétaires ou en disposent, ou
 		- **(ii)** que le détenteur de l’action et, si celui-ci est une société de personnes, les associés de celle-ci ou les personnes apparentées au détenteur de l’action ou aux associés réalisent des gains parce qu’ils détiennent l’action ou un autre bien, en sont propriétaires ou en disposent;
-	- **d)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission de l’action, la société ou une personne apparentée à elle :
+	- **d)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission de l’action, la société ou une personne apparentée à elle :
 		- **(i)** soit acquière ou annule tout ou partie de l’action, autrement que par une conversion ou un échange conforme aux exigences des divisions a)(iii)(A) et (B),
 		- **(ii)** soit réduise le capital versé de la société au titre de l’action, autrement que par une conversion ou un échange conforme aux exigences des divisions a)(iii)(A) et (B),
 		- **(iii)** soit fasse — autrement qu’en exécution d’une obligation exclue relative à l’action — un paiement, un transfert ou autre opération, directement ou indirectement, sous forme de dividende, de prêt, d’achat d’actions, d’aide financière à un acheteur de l’action ou, si l’acheteur est une société de personnes, aux associés de celle-ci, ou sous toute autre forme, qu’il est raisonnable de considérer comme le remboursement ou la remise de tout ou partie de la contrepartie pour l’action émise ou pour une participation dans la société de personnes qui acquiert l’action,
 autrement que par suite de la fusion d’une filiale à cent pour cent, de la liquidation d’une filiale à cent pour cent à laquelle le paragraphe 88(1) de la Loi s’applique ou du versement d’un dividende à la société mère par une filiale à cent pour cent;
 	- **e)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission de l’action, une personne ou une société de personnes exécute un engagement qui, s’il était en vigueur au moment de l’émission, ferait de l’action une action exclue à cause de l’alinéa c);
-	- **f)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission de l’action :
+	- **f)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission de l’action :
 		- **(i)** une des conditions de l’action ou une convention existante relative à l’action ou à son émission soit modifiée, ou
 		- **(ii)** une nouvelle convention relative à l’action ou à son émission soit conclue,
 de telle sorte que l’action serait une action exclue si elle avait été émise lors de cette modification ou lors de la conclusion de cette convention.
 
-- **(2)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, est une action exclue l’action nouvelle du capital-actions d’une société si, selon le cas :
+- **(1.1)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, un nouveau droit d’acquérir une action du capital-actions d’une société est un droit exclu si, au moment de son émission, l’un des faits ci-après se vérifie :
+	- **a)** il est raisonnable de considérer que la somme (appelée « part de liquidation » au présent article) que le détenteur du droit peut recevoir relativement au droit lors de la dissolution ou de la liquidation de la société ou lors du rachat, de l’acquisition ou de l’annulation du droit par la société ou par une personne apparentée à celle-ci est, par une formule ou autrement, fixe, plafonnée ou assujettie à un plancher;
+	- **b)** le droit peut être converti en un autre titre émis par la société ou échangé contre un tel titre, sauf si :
+		- **(i)** d’une part, il peut être converti seulement en l’un des titres ou droits ci-après ou échangé contre l’un d’eux :
+			- **(A)** une action de la société qui, si elle était émise, ne serait pas une action exclue,
+			- **(B)** un autre droit, y compris celui conféré par un bon de souscription, qui :
+				- **(I)** s’il était émis, ne serait pas un droit exclu,
+				- **(II)** s’il était exercé, permettrait à la personne qui l’exercerait d’acquérir une action de la société qui, si elle était émise, ne serait pas une action exclue,
+			- **(C)** à la fois une action visée à la division (A) et un droit visé à la division (B),
+		- **(ii)** d’autre part, la totalité de la contrepartie à recevoir par le détenteur lors de la conversion ou de l’échange du droit est l’action visée à la division (A) ou le droit visé à la division (B), ou les deux, selon le cas;
+	- **c)** une personne ou une société de personnes a l’une des obligations (à l’exception d’une obligation exclue relative au droit) ci-après, conditionnelles ou non, immédiates ou futures, qu’il est raisonnable de considérer comme étant, directement ou indirectement, un remboursement ou une remise par la société ou par une personne apparentée à celle-ci de tout ou partie de la contrepartie de l’émission du droit ou de l’émission d’une participation dans une société de personnes qui acquiert le droit :
+		- **(i)** fournir une aide,
+		- **(ii)** consentir un prêt ou faire un paiement,
+		- **(iii)** transférer un bien,
+		- **(iv)** conférer par ailleurs un avantage, de quelque façon que ce soit, y compris le versement d’un dividende;
+	- **d)** une personne ou une société de personnes a l’obligation, conditionnelle ou non (à l’exception d’une obligation exclue relative au droit), d’exécuter un engagement, immédiat ou futur, relatif au droit ou à la convention en vertu de laquelle le droit est émis — notamment une garantie, une sûreté, une promesse ou un accord et y compris le dépôt d’une somme ou le prêt de fonds au détenteur du droit ou, si celui-ci est une société de personnes, aux associés de celle-ci ou aux personnes apparentées au détenteur ou aux associés, ou pour le compte des uns ou des autres — qu’il est raisonnable de considérer comme ayant été donné pour faire en sorte, directement ou indirectement, selon le cas :
+		- **(i)** que soit limitée d’une façon quelconque toute perte que le détenteur du droit et, si celui-ci est une société de personnes, les associés de celle-ci ou les personnes apparentées au détenteur ou aux associés peuvent subir parce qu’ils détiennent le droit ou un autre bien, en sont propriétaires ou en disposent,
+		- **(ii)** que le détenteur du droit et, si celui-ci est une société de personnes, les associés de celle-ci ou les personnes apparentées au détenteur ou aux associés réalisent des gains parce qu’ils détiennent le droit ou un autre bien, en sont propriétaires ou en disposent;
+	- **e)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission du droit, la société ou une personne apparentée à elle procède, autrement que par suite de la fusion d’une filiale à cent pour cent, de la liquidation d’une filiale à cent pour cent à laquelle le paragraphe 88(1) de la Loi s’applique ou du versement d’un dividende à la société mère par une filiale à cent pour cent :
+		- **(i)** soit à l’acquisition ou à l’annulation de tout ou partie du droit, autrement que par une conversion ou un échange conforme aux exigences des sous-alinéas b)(i) et (ii),
+		- **(ii)** soit à la réalisation — autrement qu’en exécution d’une obligation exclue relative au droit — d’un paiement, d’un transfert ou d’une autre opération, directement ou indirectement, sous forme de dividende, de prêt, d’achat de droits ou d’aide financière à un acheteur du droit ou, si l’acheteur est une société de personnes, aux associés de celle-ci, ou sous toute autre forme, qu’il est raisonnable de considérer comme le remboursement ou la remise de tout ou partie de la contrepartie pour le droit émis ou pour une participation dans une société de personnes qui acquiert le droit;
+	- **f)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission du droit, une personne ou une société de personnes exécute un engagement qui, s’il était en vigueur au moment de l’émission du droit, ferait du droit un droit exclu par l’effet de l’alinéa d);
+	- **g)** il est raisonnable de s’attendre à ce que, dans les cinq ans suivant la date d’émission du droit, selon le cas :
+		- **(i)** une des conditions du droit ou une convention existante relative au droit ou à son émission soit modifiée de sorte que le droit serait un droit exclu s’il avait été émis au moment de la modification,
+		- **(ii)** une nouvelle convention relative au droit ou à son émission soit conclue de sorte que le droit serait un droit exclu s’il avait été émis au moment de la conclusion de cette convention;
+	- **h)** il est raisonnable de s’attendre à ce que le droit, s’il est exercé, permettrait à la personne qui l’exercerait d’acquérir une action d’une société qui, si elle était émise, serait une action exclue dans les cinq ans suivant la date d’émission du droit.
+
+- **(2)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, est une action exclue l’action nouvelle du capital-actions d’une société si, selon le cas :
 	- **a)** la contrepartie de l’émission de l’action est à déterminer plus de 60 jours après la conclusion de la convention relative à l’émission;
 	- **b)** la société ou une personne apparentée à celle-ci a, directement ou indirectement,
 		- **(i)** soit fourni une aide,
@@ -11868,36 +12315,65 @@ de telle sorte que l’action serait une action exclue si elle avait été émis
 pour aider une personne ou une société de personnes — autrement qu’en raison d’une obligation exclue relative à l’action — à acquérir l’action ou une participation dans la société de personnes qui acquiert l’action;
 	- **c)** le détenteur de l’action ou, si celui-ci est une société de personnes, un associé de celle-ci a le droit, aux termes d’une convention ou d’un arrangement conclu dans des circonstances où il est raisonnable de croire que la convention ou l’arrangement était envisagé au moment de la conclusion de la convention relative à l’émission de l’action ou avant ce moment,
 		- **(i)** d’une part, de disposer de l’action,
-		- **(ii)** d’autre part, d’acquérir, par une opération, un événement ou une série d’opérations ou d’événements envisagés par la convention ou l’arrangement, une action (appelée « action acquise » au présent alinéa) du capital-actions d’une autre société qui serait une action exclue selon le paragraphe (1) si elle avait été émise au moment de l’émission de l’action, sauf une action qui ne serait pas une action exclue s’il était fait abstraction des sous-alinéas (1)a)(iv) et (1)d)(i) et (ii), dans le cas où l’action acquise est une action :
+		- **(ii)** d’autre part, d’acquérir, par une opération, un événement ou une série d’opérations ou d’événements envisagés par la convention ou l’arrangement, une action (appelée « action acquise » au présent alinéa) du capital-actions d’une autre société qui serait une action exclue selon le paragraphe (1) si elle avait été émise au moment de l’émission de l’action, sauf une action qui ne serait pas une action exclue s’il était fait abstraction des sous-alinéas (1)a)(iv) et (1)d)(i) et (ii), dans le cas où l’action acquise est une action :
 			- **(A)** soit d’une société de placement à capital variable,
 			- **(B)** soit d’une société qui devient une société de placement à capital variable dans les 90 jours suivant cette acquisition.
 
-- **(3)** Pour l’application du paragraphe (1) :
-	- **a)** la part des bénéfices d’une action du capital-actions d’une société est réputée ne pas être fixe, plafonnée ou assujettie à un plancher, si tous les dividendes sur l’action sont déterminés uniquement en fonction de la part des bénéfices — multiple ou fraction — d’une autre action du capital-actions de la société ou d’une autre société qui la contrôle, dont la part des bénéfices n’est pas visée au sous-alinéa (1)a)(i);
-	- **b)** la part de liquidation d’une action du capital-actions d’une société est réputée ne pas être fixe, plafonnée ou assujettie à un plancher, si la totalité de cette part peut être déterminée uniquement en fonction de la part de liquidation d’une autre action du capital-actions de la société ou d’une autre société qui la contrôle, dont la part de liquidation n’est pas visée au sous-alinéa (1)a)(ii).
+- **(2.1)** Pour l’application de la définition de ***action accréditive*** au paragraphe 66(15) de la Loi, un nouveau droit est un droit exclu si l’un des faits ci-après se vérifie :
+	- **a)** la contrepartie de l’émission du nouveau droit est à déterminer plus de 60 jours après la conclusion de la convention relative à l’émission;
+	- **b)** en vue d’aider une personne ou une société de personnes — autrement qu’en raison d’une obligation exclue relative au nouveau droit — à acquérir le nouveau droit ou une participation dans une société de personnes qui acquiert ce droit, la société ou une personne apparentée à celle-ci a, directement ou indirectement :
+		- **(i)** soit fourni une aide,
+		- **(ii)** soit consenti un prêt, fait un paiement ou pris des arrangements à l’une ou l’autre de ces fins,
+		- **(iii)** soit transféré un bien,
+		- **(iv)** soit conféré par ailleurs un avantage, de quelque façon que ce soit, y compris le versement d’un dividende;
+	- **c)** le détenteur du nouveau droit ou, si celui-ci est une société de personnes, un associé de celle-ci a le droit, aux termes d’une convention ou d’un arrangement conclu dans des circonstances où il est raisonnable de considérer que la convention ou l’arrangement était envisagé, au moment de la conclusion de la convention relative à l’émission du nouveau droit ou avant ce moment :
+		- **(i)** d’une part, de disposer du nouveau droit,
+		- **(ii)** d’autre part, d’acquérir, par une opération, un événement ou une série d’opérations ou d’événements envisagés par la convention ou l’arrangement :
+			- **(A)** soit une action (appelée « action acquise » au présent alinéa) du capital-actions d’une autre société qui serait une action exclue selon le paragraphe (1) si elle avait été émise au moment de l’émission du nouveau droit, sauf une action qui ne serait pas une action exclue s’il était fait abstraction des sous-alinéas (1)a)(iv) et (1)d)(i) et (ii), dans le cas où l’action acquise est une action, selon le cas :
+				- **(I)** d’une société de placement à capital variable,
+				- **(II)** d’une société qui devient une société de placement à capital variable dans les 90 jours suivant l’acquisition de l’action acquise,
+			- **(B)** soit un droit (appelé « droit acquis » au présent alinéa) d’acquérir une action du capital-actions d’une autre société qui serait un droit exclu s’il avait été émis au moment de l’émission du nouveau droit, sauf un droit qui ne serait pas un droit exclu s’il était fait abstraction du sous-alinéa (1.1)e)(i), dans le cas où le droit acquis est un droit d’acquérir une action du capital-actions, selon le cas :
+				- **(I)** d’une société de placement à capital variable,
+				- **(II)** d’une société qui devient une société de placement à capital variable dans les 90 jours suivant l’acquisition du droit acquis.
 
-- **(4)** Pour l’application des alinéas (1)c) et e), une convention de vente d’une action conclue entre le premier détenteur de l’action et une autre personne ou une société de personnes pour un montant égal à la juste valeur marchande de l’action au moment où cette autre personne ou cette société de personnes l’acquiert — déterminée sans égard à la convention — n’est pas considérée comme un engagement relatif à l’action.
+- **(3)** Pour l’application des paragraphes (1) et (1.1) :
+	- **a)** la part des bénéfices d’une action du capital-actions d’une société est réputée ne pas être fixe, plafonnée ou assujettie à un plancher, si tous les dividendes sur l’action sont déterminés uniquement en fonction de la part des bénéfices — multiple ou fraction — d’une autre action du capital-actions de la société, ou d’une action du capital-actions d’une autre société qui la contrôle, dont la part des bénéfices n’est pas visée au sous-alinéa (1)a)(i);
+	- **b)** la part de liquidation d’une action du capital-actions d’une société, ou d’un droit d’acquérir une telle action, selon le cas, est réputée ne pas être fixe, plafonnée ou assujettie à un plancher, si, à la fois :
+		- **(i)** la totalité de cette part peut être déterminée uniquement en fonction :
+			- **(A)** soit de la part de liquidation d’une autre action du capital-actions de la société ou d’une action du capital-actions d’une autre société qui la contrôle,
+			- **(B)** soit de la part de liquidation d’un droit d’acquérir le capital-actions de la société ou d’une autre société qui la contrôle,
+		- **(ii)** la part de liquidation visée à la division (i)(A) n’est pas visée au sous-alinéa (1)a)(ii),
+		- **(iii)** la part de liquidation visée à la division (i)(B) n’est pas visée à l’alinéa (1.1)a).
+
+- **(4)** Pour l’application des alinéas (1)c) et e) et (1.1)d) et f), une convention de vente d’une action ou d’un droit conclue entre le premier détenteur de l’action ou du droit et une autre personne ou une société de personnes pour une somme égale à la juste valeur marchande de l’action ou du droit au moment où cette autre personne ou cette société de personnes l’acquiert — déterminée sans égard à la convention — est réputée ne pas être un engagement relatif à l’action ou au droit, selon le cas.
 
 - **(5)** Les définitions qui suivent s’appliquent au présent article et à l’article 6202.
 
-***action nouvelle*** Action du capital-actions d’une société émise après le 17 juin 1987, sauf s’il s’agit d’une action émise à un moment donné avant 1989 :
+***action nouvelle*** Action du capital-actions d’une société émise après le 17 juin 1987, sauf s’il s’agit d’une action émise à un moment donné avant 1989 :
 - **a)** soit aux termes d’une convention écrite conclue avant le 18 juin 1987;
 - **b)** soit dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la loi exige la production avant le placement des actions, produit avant le 18 juin 1987 auprès d’un organisme public au Canada selon la législation sur les valeurs mobilières de la province où les actions ont été placées;
-- **c)** soit à une société de personnes dont les participations ont été émises dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la loi exige la production avant le placement des participations, produit avant le 18 juin 1987 auprès d’un organisme public au Canada selon la législation sur les valeurs mobilières de la province où les participations ont été placées, si toutes les participations émises au plus tard au moment donné l’ont été dans le cadre d’un tel appel public ou avant celui-ci. (*new share*)
+- **c)** soit à une société de personnes dont les participations ont été émises dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la loi exige la production avant le placement des participations, produit avant le 18 juin 1987 auprès d’un organisme public au Canada selon la législation sur les valeurs mobilières de la province où les participations ont été placées, si toutes les participations émises au plus tard au moment donné l’ont été dans le cadre d’un tel appel public ou avant celui-ci. (*new share*)
 
-***obligation exclue*** L’une des obligations suivantes relatives à l’action émise par une société :
-- **a)** l’obligation de la société concernant :
-	- **(i)** soit l’admissibilité à une subvention prévue par la Loi sur le programme canadien d’encouragement à l’exploration et à la mise en valeur d’hydrocarbures, la Loi sur le programme de stimulation de l’exploration minière au Canada, la Loi de 1989 sur le Programme ontarien d’exploration minière, chapitre 40 des Lois de l’Ontario de 1989, ou la Loi sur le Programme de stimulation de l’exploration minière (Manitoba), chapitre 45 des Lois du Manitoba de 1990-1991, ou le montant de cette subvention,
-	- **(ii)** soit l’exercice d’un choix relativement à cette subvention et la décision de passer cette subvention au détenteur de l’action conformément à l’une de ces lois;
-- **a.1)** l’obligation de la société, relative à l’action, de distribuer un montant qui représente un paiement prélevé sur un montant à titre d’aide auquel la société a droit, à la fois :
-	- **(i)** en vertu de l’article 25.1 de la loi intitulée Income Tax Act, Revised Statutes of British Columbia, 1996, ch. 215,
-	- **(ii)** du fait qu’elle a effectué des dépenses financées au moyen de la contrepartie reçue pour les actions qu’elle a émises et relativement auxquelles elle a censément renoncé à un montant en vertu du paragraphe 66(12.6) de la Loi;
-- **b)** l’obligation d’une personne ou d’une société de personnes d’exécuter un engagement visant à indemniser le détenteur de l’action ou, si celui-ci est une société de personnes, un associé de celle-ci, d’un montant ne dépassant pas l’impôt payable par le détenteur de l’action ou l’associé en vertu de la Loi ou de la législation provinciale :
-	- **(i)** soit du fait que la société n’a pas renoncé, en faveur du détenteur de l’action, à un montant concernant l’action,
-	- **(ii)** soit par suite de la réduction, prévue au paragraphe 66(12.73) de la Loi, d’un montant relatif à l’action auquel il a censément été renoncé en faveur du détenteur. (*excluded obligation*)
+***nouveau droit*** Droit émis après le 20 décembre 2002 d’acquérir une action du capital-actions d’une société. N’est pas un nouveau droit le droit émis à un moment donné avant 2003 :
+- **a)** soit aux termes d’une convention écrite conclue avant le 21 décembre 2002;
+- **b)** soit dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la loi exige la production avant le placement des droits, produit avant le 21 décembre 2002 auprès d’un organisme public au Canada selon la législation sur les valeurs mobilières de la province où les droits ont été placés;
+- **c)** soit à une société de personnes dont les participations ont été émises dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la loi exige la production avant le placement des participations, produit avant le 21 décembre 2002 auprès d’un organisme public au Canada selon la législation sur les valeurs mobilières de la province où les participations ont été placées, si toutes les participations émises au plus tard au moment donné l’ont été :
+	- **(i)** soit dans le cadre de l’appel public,
+	- **(ii)** soit avant l’appel public. (*new right*)
 
-***personne apparentée*** S’entend d’une personne qui a un lien de dépendance avec une autre personne ou d’une société de personnes ou d’une fiducie dont elle-même ou cette autre personne est associée ou bénéficiaire. (*specified person*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-86, art. 2; DORS/92-30, art. 1; DORS/92-681, art. 3(F); DORS/94-315, art. 1; DORS/94-686, art. 67(F), 71(F), 78(F) et 79(F); DORS/99-92, art. 3; DORS/2000-297, art. 1.
+***obligation exclue*** Toute obligation ci-après relative à une action ou à un nouveau droit émis par une société :
+- **a)** l’obligation de la société concernant :
+	- **(i)** soit l’admissibilité à une subvention prévue par la Loi sur le programme canadien d’encouragement à l’exploration et à la mise en valeur d’hydrocarbures, la Loi sur le programme de stimulation de l’exploration minière au Canada, la Loi sur le Programme ontarien d’exploration minière, L.R.O., ch. O.27, ou la Loi sur le programme d’encouragement à l’exploration minière, L.M. 1991-92, ch. 45, ou le montant de cette subvention,
+	- **(ii)** soit l’exercice d’un choix relativement à cette subvention et la décision de passer cette subvention au détenteur de l’action ou du nouveau droit conformément à l’une de ces lois;
+- **b)** l’obligation de la société, relative à l’action ou au nouveau droit, de distribuer une somme qui représente un paiement prélevé sur un montant à titre d’aide auquel la société a droit, à la fois :
+	- **(i)** du fait qu’elle a effectué des dépenses financées au moyen de la contrepartie reçue pour les actions ou les nouveaux droits qu’elle a émis et relativement auxquels elle a censément renoncé à une somme en vertu du paragraphe 66(12.6) de la Loi,
+	- **(ii)** en vertu de l’article 25.1 de la loi intitulée Income Tax Act, R.S.B.C., 1996, ch. 215;
+- **c)** l’obligation d’une personne ou d’une société de personnes d’exécuter un engagement visant à indemniser le détenteur de l’action ou du nouveau droit ou, si celui-ci est une société de personnes, un associé de celle-ci, d’une somme ne dépassant pas l’impôt à payer par le détenteur ou l’associé en vertu de la Loi ou de la législation provinciale :
+	- **(i)** soit du fait que la société n’a pas renoncé, en faveur du détenteur, à une somme relative à l’action ou au nouveau droit,
+	- **(ii)** soit par suite de la réduction, prévue au paragraphe 66(12.73) de la Loi, d’une somme relative à l’action ou au nouveau droit auquel il a censément été renoncé en faveur du détenteur. (*excluded obligation*)
+
+***personne apparentée*** S’entend d’une personne qui a un lien de dépendance avec une autre personne ou d’une société de personnes ou d’une fiducie dont elle-même ou cette autre personne est associée ou bénéficiaire. (*specified person*) 
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-86, art. 2; DORS/92-30, art. 1; DORS/92-681, art. 3(F); DORS/94-315, art. 1; DORS/94-686, art. 67(F), 71(F), 78(F) et 79(F); DORS/99-92, art. 3; DORS/2000-297, art. 1; 2013, ch. 34, art. 402.
 
 
 
@@ -12303,7 +12779,7 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6701** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société publique*** au paragraphe 89(1), de la définition de ***entreprise de placement déterminée*** au paragraphe 125(7), de la définition de ***action approuvée*** au paragraphe 127.4(1), des paragraphes 131(8) et (11), de l’article 186.1, de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1) et de la définition de ***placement admissible*** au paragraphe 204.8(1) de la Loi, sont des sociétés à capital de risque de travailleurs visées les sociétés suivantes :
+**6701** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société publique*** au paragraphe 89(1), de la définition de ***entreprise de placement déterminée*** au paragraphe 125(7), de la définition de ***action approuvée*** au paragraphe 127.4(1), des paragraphes 131(8) et (11), de l’article 186.1, de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1), de la définition de ***placement admissible*** au paragraphe 204.8(1) et du paragraphe 204.81(8.3) de la Loi, sont des sociétés à capital de risque de travailleurs visées les sociétés suivantes :
 - **a)** la société constituée par la Loi constituant le Fonds de solidarité des travailleurs du Québec (F.T.Q.), Lois du Québec 1983, ch. 58;
 - **b)** une société qui est enregistrée aux termes de la loi intitulée The Labour-sponsored Venture Capital Corporations Act, Statutes of Saskatchewan 1986, ch. L-0.2;
 - **c)** une société qui est enregistrée aux termes de la partie 2 de la loi de la Colombie-Britannique intitulée Employee Investment Act, Revised Statutes of British Columbia, 1996, ch. 112;
@@ -12314,7 +12790,7 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 - **g)** la société constituée par la Loi constituant Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Lois du Québec 1995, ch. 48;
 - **h)** une société qui est agréée en vertu de la partie II de la loi de la Nouvelle-Écosse intitulée Equity Tax Credit Act, Statutes of Nova Scotia 1993, ch. 3;
 - **i)** une société qui est inscrite aux termes de la partie II de la Loi sur les crédits d’impôt pour investissement de capital de risque, chapitre 22 des Lois des Territoires du Nord-Ouest de 1998.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/86-1136, art. 10; DORS/89-551, art. 3; DORS/92-397, art. 3; DORS/92-398, art. 2; DORS/93-396, art. 3; DORS/94-686, art. 38(F) et 79(F); DORS/96-173, art. 2; DORS/97-504, art. 2; DORS/98-12, art. 2; DORS/98-281, art. 3; DORS/99-102, art. 5; DORS/2001-289, art. 4; DORS/2005-126, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/86-1136, art. 10; DORS/89-551, art. 3; DORS/92-397, art. 3; DORS/92-398, art. 2; DORS/93-396, art. 3; DORS/94-686, art. 38(F) et 79(F); DORS/96-173, art. 2; DORS/97-504, art. 2; DORS/98-12, art. 2; DORS/98-281, art. 3; DORS/99-102, art. 5; DORS/2001-289, art. 4; DORS/2005-126, art. 4; 2013, ch. 34, art. 403.
 
 
 
@@ -12370,6 +12846,18 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
+**6708** Pour l’application de l’alinéa 204.8(2)b) et du paragraphe 204.81(8.3) de la Loi, l’article 27.2 de la Loi de 1992 sur les fonds communautaires de placement dans les petites entreprises, L.O. 1992, ch. 18, est une règle de liquidation.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 404.
+
+
+
+
+**6709** Pour l’application de l’article 211.81 de la Loi, les articles 1086.14 et 1086.20 de la Loi sur les impôts, L.R.Q., ch. I-3, sont des dispositions visées d’une loi provinciale.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 404.
+
+
+
+
 
 **PARTIE LXVIII** 
 ## Régimes, mécanismes et cotisations visés
@@ -12411,15 +12899,22 @@ sauf dans les cas où le mécanisme ou le régime ou la série d’opérations q
 
 
 
-**6802** Les régimes ou mécanismes suivants sont visés pour l’application de l’alinéa n) de la définition de ***convention de retraite*** au paragraphe 248(1) de la Loi :
+**6802** Les régimes ou mécanismes suivants sont visés pour l’application de l’alinéa n) de la définition de ***convention de retraite*** au paragraphe 248(1) de la Loi :
 - **a)** le régime institué par le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **b)** un régime provincial de pensions, au sens de l’article 3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **c)** un régime institué par la Loi sur l’assurance-chômage;
 - **d)** un régime établi en conformité avec une convention écrite visant à différer le traitement ou le salaire d’un arbitre ou d’un juge de ligne professionnel pour les services rendus à ce titre à la Ligne nationale de hockey, si la fiducie ou toute autre personne dépositaire de fonds, de placements ou d’autres biens selon le régime et en ayant le contrôle réside au Canada, dans le cas où l’arbitre ou le juge de ligne réside également au Canada;
 - **e)** le mécanisme dans le cadre duquel les cotisations sont versées en conformité avec une loi fédérale ou provinciale dont l’un des principaux objets consiste à assurer l’application de normes minimales en matière de salaires, d’indemnités de vacances ou d’indemnités de cessation d’emploi;
 - **f)** le mécanisme dans le cadre duquel les cotisations sont versées relativement à un différend ayant trait au droit d’une ou de plusieurs personnes de recevoir des prestations;
-- **g)** le régime ou mécanisme établi par la législation sur la sécurité sociale d’un pays étranger ou d’un État, d’une province ou de toute autre subdivision politique d’un tel pays.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 6; DORS/94-686, art. 79(F); DORS/96-311, art. 3.
+- **g)** le régime ou mécanisme établi par la législation sur la sécurité sociale d’un pays étranger ou d’un État, d’une province ou de toute autre subdivision politique d’un tel pays;
+- **h)** toute fiducie établie :
+	- **(i)** soit pour détenir des actions d’Air Canada, conformément au protocole d’accord conclu en juin 2009 entre Air Canada et certains syndicats représentant ses employés, à l’égard desquelles les faits ci-après s’avèrent :
+		- **(A)** les actions sont détenues par la fiducie pour le compte des syndicats,
+		- **(B)** chacun des syndicats peut ordonner au fiduciaire de verser, quand il y a lieu, des sommes reçues ou à recevoir par la fiducie au titre des actions, sous forme de dividendes, de produits de disposition ou sous une autre forme, à un ou plusieurs régimes de pension agréés dans le cadre desquels Air Canada est un employeur participant,
+	- **(ii)** soit relativement à la liquidation d’un régime de pension agréé dont le promoteur est *Fraser Papers Inc.*, dans le cas où, à la fois :
+		- **(A)** la fiducie détient des actions pour le compte du régime,
+		- **(B)** le fiduciaire versera au régime, au plus tard le 31 décembre 2018, des sommes reçues ou à recevoir par la fiducie au titre des actions, sous forme de dividendes, de produits de disposition ou sous une autre forme.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 6; DORS/94-686, art. 79(F); DORS/96-311, art. 3; 2013, ch. 34, art. 405.
 
 
 
@@ -13202,35 +13697,11 @@ où
 
 
 **PARTIE LXXV** 
-## Missions visées
+## [Abrogée, 2013, ch. 33, art. 36]
 
 
-**7500** Les missions ci-après sont visées pour l’application de la subdivision 110(1)f)(v)(A)(II) de la Loi :
-- **a)** Opération Palladium (Bosnie-Herzégovine);
-- **b)** Opération Halo (Haïti);
-- **c)** Opération Danaca (Moyen-Orient — plateau du Golan);
-- **d)** Opération Calumet (Moyen-Orient — Sinaï);
-- **e)** Opération Jade (Moyen-Orient — Jérusalem, Damas et Égypte);
-- **f)** Opération Iraqi Freedom (Koweït);
-- **g)** Opération Solitude (Sénégal);
-- **h)** Opération Altair (golfe Persique);
-- **i)** Opération Hamlet (Haïti);
-- **j)** Opération Structure (Sri Lanka);
-- **k)** Opération Habitation (Haïti);
-- **l)** Opération Augural (Soudan — Khartoum);
-- **m)** Opération Bronze (Bosnie-Herzégovine — Force de stabilisation de l’Organisation du traité de l’Atlantique Nord);
-- **n)** Opération Boreas (Bosnie-Herzégovine — Force européenne);
-- **o)** Opération Safari (Soudan — Khartoum);
-- **p)** Opération Gladius (plateau du Golan);
-- **q)** Opération Augural (Éthiopie — Addis-Abeba);
-- **r)** Mission des Nations Unies au Soudan — Composante de police civile (Soudan — Khartoum);
-- **s)** Opération Caribbe (Curaçao);
-- **t)** Opération Kobold (Balkans – Pristina);
-- **u)** Opération Saturn (Éthiopie – Addis-Abeba);
-- **v)** Opération Enduring Freedom (Koweït);
-- **w)** Opération du septième escadron de transport aérien (Kirghizistan);
-- **x)** Opération Slipper (Émirats arabes unis).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2008-49, art. 1; DORS/2013-22, art. 1.
+**7500** [Abrogé, 2013, ch. 33, art. 36]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2008-49, art. 1; 2013, ch. 33, art. 36; DORS/2013-22, art. 1.
 
 
 
@@ -13278,14 +13749,10 @@ où
 ## Institutions financières visées
 
 
-**7900** 
-
-- **(1)** Les institutions financières ci-après sont visées pour l’application de l’article 33.1 et des définitions de ***dépôt déterminé*** et ***revenu exclu*** au paragraphe 95(2.5) de la Loi :
-	- **a)** les membres de l’Association canadienne des paiements, à l’exclusion des banques étrangères autorisées;
-	- **b)** les caisses de crédit qui sont actionnaires ou membres d’une personne morale ou d’une organisation qui est une centrale pour l’application de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md).
-
-- **(2)** Les banques étrangères autorisées sont des institutions financières visées pour l’application des définitions de ***dépôt déterminé*** et ***revenu exclu*** au paragraphe 95(2.5) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-285, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 10; DORS/2009-302, art. 11.
+**7900** Les institutions financières ci-après sont visées pour l’application des définitions de ***dépôt déterminé*** et ***revenu exclu*** au paragraphe 95(2.5) de la Loi :
+- **a)** les membres de l’Association canadienne des paiements;
+- **b)** les caisses de crédit qui sont actionnaires ou membres d’une personne morale ou d’une organisation qui est une centrale pour l’application de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-285, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 10; DORS/2009-302, art. 11; 2013, ch. 33, art. 37.
 
 
 
@@ -13394,167 +13861,41 @@ les règles suivantes s’appliquent :
 
 
 **PARTIE LXXXI** 
-## Dispositions transitoires applicables aux institutions financières
+## [Abrogée, 2013, ch. 34, art. 406]
 
 
-
-### Déduction transitoire au titre de la provision pour sinistres non réglés
-
-
-**8100** Pour l’application du paragraphe 20(26) de la Loi, le montant du redressement pour provision pour sinistres non réglés d’un assureur, pour son année d’imposition qui comprend le 23 février 1994, correspond à l’excédent éventuel :
-- **a)** du total des montants représentant chacun le montant maximal qui, par l’effet de l’alinéa 1400e), était déductible en application de l’alinéa 20(7)c) de la Loi relativement à une police d’assurance dans le calcul de son revenu pour sa dernière année d’imposition qui s’est terminée avant le 23 février 1994,
-sur :
-- **b)** dans le cas où l’assureur choisit, par avis écrit adressé au ministre, de se prévaloir du présent alinéa, le total des montants représentant chacun le montant maximal qui, par l’effet de l’alinéa 1400e), aurait été déductible en application de l’alinéa 20(7)c) de la Loi relativement à une police d’assurance dans le calcul de son revenu pour sa dernière année d’imposition qui s’est terminée avant le 23 février 1994 si la fraction « 1/3 » dans la formule figurant au sous-alinéa 1400e)(ii), dans sa version applicable à cette année, était remplacée par « 1 »;
-- **c)** dans les autres cas, le total des montants représentant chacun le montant maximal qui, par l’effet des alinéas 1400e) ou e.1), aurait été déductible en application de l’alinéa 20(7)c) de la Loi relativement à une police d’assurance dans le calcul de son revenu pour sa dernière année d’imposition qui s’est terminée avant le 23 février 1994 si l’alinéa 1400e.1) s’était appliqué à cette année et si les alinéas 1400e) et e.1) s’étaient appliqués à cette année dans leur version applicable à l’année d’imposition de l’assureur qui comprend le 23 février 1994.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 4; DORS/94-686, art. 78(F), 79(F) et 81(F); DORS/96-443, art. 3.
+**8100** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 4; DORS/94-686, art. 78(F), 79(F) et 81(F); DORS/96-443, art. 3; 2013, ch. 34, art. 406.
 
 
 
 
-
-### Inclusion d’un montant transitoire au titre de la provision pour sinistres non réglés
-
-
-**8101** 
-
-- **(1)** Pour l’application du présent article, ***déduction transitoire*** s’entend du montant déduit en application du paragraphe 20(26) de la Loi dans le calcul du revenu d’un assureur pour son année d’imposition qui comprend le 23 février 1994.
-
-- **(2)** Sous réserve du paragraphe (3), la proportion visée à l’article 12.3 de la Loi relativement à un assureur pour une année d’imposition qui se termine après le 22 février 1994 est déterminée comme suit :
-```
-[(0,05A + 0,10B + 0,15C) / 365] × D
-```
-où 
-- **A** représente le total des nombres suivants :
-- **a)** le nombre de jours de l’année d’imposition qui tombent en 1994 ou en 1995,
-- **b)** dans le cas où l’année d’imposition comprend le 23 février 1994, le nombre de jours en 1994 qui sont antérieurs au premier jour de l’année d’imposition;
-- **B** le nombre de jours de l’année d’imposition, à l’exclusion du 29 février, qui tombent dans l’une des années 1996 à 2001;
-- **C** le nombre de jours de l’année d’imposition qui tombent en 2002 ou en 2003;
-- **D** la déduction transitoire de l’assureur moins le montant à soustraire en application du paragraphe (4) ou de l’alinéa (5)b).
-
-- **(3)** Dans le cas où le paragraphe 88(1) de la Loi s’est appliqué à la liquidation d’un assureur (appelé « filiale » au présent paragraphe), les règles suivantes s’appliquent :
-	- **a)** sont exclus des éléments A, B et C de la formule figurant au paragraphe (2) relativement à la filiale les jours qui sont postérieurs au jour de l’attribution, dans le cadre de la liquidation, des actifs de la filiale à la société mère;
-	- **b)** la proportion visée à l’article 12.3 de la Loi relativement à la société mère pour son année d’imposition qui comprend le jour d’attribution visé à l’alinéa a) est égale au total des montants suivants :
-		- **(i)** le montant qui correspondrait au résultat du calcul effectué au paragraphe (2) relativement à la société mère pour l’année si la déduction transitoire de celle-ci ne comprenait pas celle de la filiale,
-		- **(ii)** le montant qui correspondrait au résultat du calcul effectué au paragraphe (2) relativement à la société mère pour l’année si, à la fois :
-			- **(A)** le jour d’attribution visé à l’alinéa a) et les jours qui lui sont antérieurs étaient exclus des éléments A, B et C de ce calcul,
-			- **(B)** l’élément D de ce calcul représentait la déduction transitoire de la filiale.
-
-- **(4)** Dans le cas où les paragraphes 138(11.5) ou (11.94) de la Loi se sont appliqués au transfert d’une entreprise d’assurance par un assureur, la partie de la déduction transitoire de l’assureur qu’il est raisonnable d’attribuer à l’entreprise est à soustraire, dans le calcul de l’élément D de la formule figurant au paragraphe (2), relativement à l’assureur pour une année d’imposition se terminant après qu’il a cessé d’exploiter la totalité, ou presque, de l’entreprise.
-
-- **(5)** Dans le cas où un assureur cesse d’exploiter la totalité, ou presque, d’une entreprise d’assurance, autrement que par suite d’une unification à laquelle s’applique le paragraphe 87(2) de la Loi, d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi ou d’un transfert de l’entreprise auquel s’appliquent les paragraphes 138(11.5) ou (11.94) de la Loi, les règles suivantes s’appliquent :
-	- **a)** la proportion visée à l’article 12.3 de la Loi relativement à l’assureur pour son année d’imposition où il cesse d’exploiter l’entreprise est égale au total du montant déterminé conformément au paragraphe (2) et de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
-		- **(i)** la partie de la déduction transitoire de l’assureur qu’il est raisonnable d’attribuer à l’entreprise,
-		- **(ii)** la partie du total des montants inclus en application de l’article 12.3 de la Loi dans le calcul du revenu de l’assureur pour les années d’imposition antérieures qu’il est raisonnable de considérer comme se rapportant au montant déterminé selon le sous-alinéa (i);
-	- **b)** le montant déterminé selon le sous-alinéa a)(i) est à soustraire dans le calcul de l’élément D de la formule figurant au paragraphe (2) relativement à l’assureur pour l’année ou une année d’imposition postérieure.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 4; DORS/94-686, art. 78(F); DORS/96-443, art. 3.
+**8101** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 4; DORS/94-686, art. 78(F); DORS/96-443, art. 3; 2013, ch. 34, art. 406.
 
 
 
 
-
-### Évaluation à la valeur du marché — Déduction transitoire
-
-
-**8102** 
-
-- **(1)** Pour l’application du présent article, ***bien exclu***, quant à un contribuable, s’entend de tout bien évalué à la valeur du marché qu’il utilise dans le cadre de son entreprise au cours de son année d’imposition qui comprend le 31 octobre 1994, dans le cas où le bien serait vraisemblablement évalué à sa juste valeur marchande en vue du calcul du revenu du contribuable tiré de l’entreprise pour l’année si, à la fois :
-	- **a)** il n’était pas tenu compte du paragraphe 142.5(2) de la Loi;
-	- **b)** le bien était détenu à la fin de l’année.
-
-- **(2)** Pour l’application du paragraphe 142.5(4) de la Loi, le montant à déterminer pour l’année d’imposition d’un contribuable qui comprend le 31 octobre 1994 correspond à l’excédent de la somme visée à l’alinéa a) sur le total des sommes visées aux alinéas b) et c) :
-	- **a)** le total des sommes représentant chacune le bénéfice du contribuable provenant de la disposition d’un bien, sauf une immobilisation ou un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé au cours de l’année;
-	- **b)** le total des sommes représentant chacune la perte du contribuable résultant de la disposition d’un bien, sauf une immobilisation ou un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé au cours de l’année;
-	- **c)** l’excédent du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-		- **(i)** le total des sommes représentant chacune la perte du contribuable résultant de la disposition, effectuée au cours de l’année, d’un bien évalué à la valeur du marché, à l’exception d’une immobilisation, d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé,
-		- **(ii)** le total des sommes représentant chacune le bénéfice du contribuable provenant de la disposition, effectuée au cours de l’année, d’un bien évalué à la valeur du marché, à l’exception d’une immobilisation, d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+**8102** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6; 2013, ch. 34, art. 406.
 
 
 
 
-
-### Évaluation à la valeur du marché — Inclusion transitoire
-
-
-**8103** 
-
-- **(1)** Pour l’application du présent article, ***déduction transitoire***, quant à un contribuable, s’entend du montant qu’il déduit en application du paragraphe 142.5(4) de la Loi dans le calcul de son revenu pour son année d’imposition qui comprend le 31 octobre 1994.
-
-- **(2)** Sous réserve des paragraphes (3), (5) et (7), le montant à déterminer, pour l’application du paragraphe 142.5(5) de la Loi, relativement à un contribuable pour une année d’imposition qui se termine après le 30 octobre 1994 correspond à la somme obtenue par la formule suivante :
-```
-A × B/1825
-```
-où :
-- **A** représente le nombre de jours de l’année, exception faite du 29 février, antérieurs au jour qui suit de cinq ans le premier jour de l’année d’imposition du contribuable qui comprend le 31 octobre 1994;
-- **B** la déduction transitoire du contribuable moins la somme à soustraire en application du paragraphe (4) ou de l’alinéa (6)b).
-
-- **(3)** Dans le cas où le paragraphe 88(1) de la Loi s’applique à la liquidation d’un contribuable (appelé « filiale » au présent paragraphe), les règles suivantes s’appliquent :
-	- **a)** la valeur de l’élément A de la formule figurant au paragraphe (2) est déterminée relativement à la filiale compte non tenu des jours postérieurs au jour où ses actifs sont passés à sa société mère lors de la liquidation;
-	- **b)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement à la société mère pour son année d’imposition qui comprend le jour visé à l’alinéa a) correspond au total des sommes suivantes :
-		- **(i)** la somme qui serait déterminée selon le paragraphe (2) relativement à la société mère pour l’année si sa déduction transitoire ne comprenait pas celle de la filiale,
-		- **(ii)** la somme qui serait déterminée selon le paragraphe (2) relativement à la société mère pour l’année si, à la fois :
-			- **(A)** la valeur de l’élément A de la formule figurant à ce paragraphe était déterminée compte non tenu du jour visé à l’alinéa a) et des jours qui lui sont antérieurs,
-			- **(B)** la valeur de l’élément B de la formule figurant à ce paragraphe correspondait à la déduction transitoire de la filiale.
-
-- **(4)** Dans le cas où le paragraphe 138(11.5) ou (11.94) de la Loi s’est appliqué au transfert d’une entreprise d’assurance par un assureur, est à soustraire, dans le calcul de la valeur de l’élément B de la formule figurant au paragraphe (2) relativement à l’assureur pour une année d’imposition qui se termine après qu’il a cessé d’exploiter la totalité ou la presque totalité de l’entreprise, la partie de sa déduction transitoire qui est incluse, par l’effet de l’alinéa 138(11.5)k) de la Loi, dans la déduction transitoire du bénéficiaire du transfert.
-
-- **(5)** Dans le cas où une société de personnes (appelée « nouvelle société de personnes » au présent paragraphe) est réputée, en vertu du paragraphe 98(6) de la Loi, être la continuation d’une autre société de personnes (appelée « société de personnes remplacée » au présent paragraphe), les règles suivantes s’appliquent :
-	- **a)** la valeur de l’élément A de la formule figurant au paragraphe (2) est déterminée relativement à la société de personnes remplacée compte non tenu des jours postérieurs au jour où ses biens sont transférés à la nouvelle société de personnes;
-	- **b)** le montant à déterminer en application du paragraphe 142.5(5) de la Loi relativement à la nouvelle société de personnes pour son année d’imposition qui comprend le jour visé à l’alinéa a) correspond au total des sommes suivantes :
-		- **(i)** la somme qui serait déterminée selon le paragraphe (2) relativement à la nouvelle société de personnes pour l’année si sa déduction transitoire ne comprenait pas celle de la société de personnes remplacée,
-		- **(ii)** la somme qui serait déterminée selon le paragraphe (2) relativement à la nouvelle société de personnes pour l’année si, à la fois :
-			- **(A)** la valeur de l’élément A de la formule figurant à ce paragraphe était déterminée compte non tenu du jour visé à l’alinéa a) et des jours qui lui sont antérieurs,
-			- **(B)** la valeur de l’élément B de la formule figurant à ce paragraphe correspondait à la déduction transitoire de la société de personnes remplacée.
-
-- **(6)** Dans le cas où un contribuable cesse d’exploiter la totalité ou la presque totalité d’une entreprise autrement que par suite d’une unification à laquelle s’applique le paragraphe 87(2) de la Loi, d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi ou d’un transfert de l’entreprise auquel s’appliquent les paragraphes 98(6) ou 138(11.5) ou (11.94) de la Loi, les règles suivantes s’appliquent :
-	- **a)** outre la somme visée au paragraphe (2), est à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour son année d’imposition au cours de laquelle il cesse d’exploiter l’entreprise l’excédent de la somme visée au sous-alinéa (i) sur la somme visée au sous-alinéa (ii) :
-		- **(i)** la partie de la déduction transitoire du contribuable qu’il est raisonnable d’attribuer à l’entreprise,
-		- **(ii)** la partie du total des sommes incluses en application du paragraphe 142.5(5) de la Loi dans le calcul du revenu du contribuable pour les années d’imposition antérieures qu’il est raisonnable de considérer comme se rapportant à la somme déterminée selon le sous-alinéa (i);
-	- **b)** la somme déterminée selon le sous-alinéa a)(i) est à soustraire dans le calcul de la valeur de l’élément B de la formule figurant au paragraphe (2) relativement au contribuable pour l’année ou pour une année d’imposition postérieure.
-
-- **(7)** Dans le cas où un contribuable cesse d’être une institution financière à un moment donné autrement que pour avoir cessé d’exploiter une entreprise, les règles suivantes s’appliquent :
-	- **a)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour son année d’imposition qui a pris fin immédiatement avant ce moment correspond à l’excédent de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-		- **(i)** la déduction transitoire du contribuable,
-		- **(ii)** le total des sommes incluses en application du paragraphe 142.5(5) de la Loi dans le calcul du revenu du contribuable pour les années d’imposition antérieures;
-	- **b)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour les années d’imposition postérieures à l’année d’imposition visée à l’alinéa a) est nul.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+**8103** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6; 2013, ch. 34, art. 406.
 
 
 
 
-
-### Évaluation à la valeur du marché — Perte en capital transitoire
-
-
-**8104** 
-
-- **(1)** Pour l’application du présent article, ***bien exclu***, quant à un contribuable, s’entend de tout bien évalué à la valeur du marché du contribuable pour son année d’imposition qui comprend le 31 octobre 1994 si, selon le cas :
-	- **a)** le contribuable avait un gain en capital imposable ou une perte en capital déductible pour l’année provenant de la disposition des biens auxquels s’applique l’article 142 de la Loi;
-	- **b)** le contribuable est un non-résident au cours de l’année et le bien est une immobilisation autre qu’un bien canadien imposable.
-
-- **(2)** Pour l’application du paragraphe 142.5(6) de la Loi, le montant à déterminer pour l’année d’imposition d’un contribuable qui comprend le 31 octobre 1994 correspond à l’excédent de la somme visée à l’alinéa a) sur le total des sommes visées aux alinéas b) et c) :
-	- **a)** le total des sommes représentant chacune le gain en capital imposable du contribuable pour l’année provenant de la disposition d’un bien, sauf un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé;
-	- **b)** le total des sommes représentant chacune la perte en capital déductible du contribuable pour l’année résultant de la disposition d’un bien, sauf un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé;
-	- **c)** l’excédent du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-		- **(i)** le total des sommes représentant chacune la perte en capital déductible du contribuable pour l’année résultant de la disposition d’un bien évalué à la valeur du marché, à l’exception d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé,
-		- **(ii)** le total des sommes représentant chacune le gain en capital imposable du contribuable pour l’année provenant de la disposition d’un bien évalué à la valeur du marché, à l’exception d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+**8104** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6; 2013, ch. 34, art. 406.
 
 
 
 
-
-### Évaluation à la valeur du marché — Gain en capital transitoire
-
-
-**8105** 
-
-- **(1)** Pour l’application du présent article, ***perte transitoire***, quant à un contribuable, s’entend du montant qui, en raison du choix qu’il fait en application du paragraphe 142.5(6) de la Loi, constitue sa perte en capital déductible pour son année d’imposition qui comprend le 31 octobre 1994.
-
-- **(2)** Pour l’application du paragraphe 142.5(7) de la Loi, sont à déterminer relativement à un contribuable pour une année d’imposition qui prend fin après le 30 octobre 1994 les sommes qui seraient déterminées à son égard pour l’année selon l’article 8103 si, à la fois :
-	- **a)** les renvois au paragraphe 142.5(5) de la Loi, figurant aux paragraphes 8103(2) à (7), étaient remplacés par des renvois au paragraphe 142.5(7) de la Loi;
-	- **b)** le terme « déduction transitoire », aux paragraphes 8103(2) à (7), était remplacé par « perte transitoire, au sens du paragraphe 8105(1), ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+**8105** [Abrogé, 2013, ch. 34, art. 406]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6; 2013, ch. 34, art. 406.
 
 
 
@@ -13592,14 +13933,14 @@ où :
 ### Établissements stables
 
 
-**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 100(1.3), 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
+**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), des paragraphes 100(1.3) ou 112(2), de la définition de ***organisme de transport canadien admissible*** au paragraphe 118.02(1), des paragraphes 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
 - **a)** si la personne exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi à un endroit donné, qui a l’autorisation générale de passer des contrats pour la personne ou qui dispose d’un stock de marchandises appartenant à celle-ci et à partir duquel il remplit régulièrement les commandes, son établissement stable est réputé situé à cet endroit;
 - **b)** si la personne est une compagnie d’assurance, elle est réputée avoir un établissement stable dans chaque pays où elle est enregistrée ou détient un permis d’exercice;
 - **c)** si la personne utilise des machines ou du matériel importants dans un endroit donné au cours d’une année d’imposition, son établissement stable est réputé situé à cet endroit;
 - **d)** le fait que la personne a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 - **e)** si la personne est une société, le fait qu’elle a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
 Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un traité fiscal dans lequel le terme « établissement stable » a un sens particulier, ce terme a ce sens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25; 2012, ch. 31, art. 68.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25; 2012, ch. 31, art. 68; 2013, ch. 34, art. 49 et 427.
 
 
 
@@ -15363,19 +15704,19 @@ l’émetteur remplit, dans les 30 jours suivant la réception de la demande, le
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***bénéficiaire*** Personne qui a le droit, à cause de la participation d’un particulier à un régime de pension, de recevoir, après le décès du particulier, des prestations prévues par le régime. (*beneficiary*)
+***bénéficiaire*** Personne qui a le droit, à cause de la participation d’un particulier à un régime de pension, de recevoir, après le décès du particulier, des prestations prévues par le régime. (*beneficiary*)
 
-***employeur remplacé*** Employeur (appelé ***vendeur*** dans la présente définition) qui dispose, notamment par vente ou cession, de tout ou partie de son entreprise ou de son exploitation, ou de tout ou partie des actifs y afférents, en faveur d’un employeur donné ou d’un autre employeur qui, après la disposition, devient un employeur remplacé quant à l’employeur donné, lorsque l’employé du vendeur devient au moment de la disposition l’employé de l’acquéreur de l’entreprise, de l’exploitation ou des actifs. (*predecessor employer*)
+***employeur remplacé*** S’entend, quant à un employeur donné, d’un employeur (appelé « vendeur » à la présente définition) qui dispose, notamment par vente ou cession, de tout ou partie de son entreprise ou de son exploitation, ou de tout ou partie des actifs afférents, en faveur de l’employeur donné ou d’un autre employeur qui, après la disposition, devient un employeur remplacé quant à l’employeur donné, dans le cas où l’ensemble des employés du vendeur, ou un nombre important de ceux-ci, deviennent, par suite de la disposition, les employés de l’acquéreur de l’entreprise, de l’exploitation ou des actifs. (*predecessor employer*)
 
-***indice des prix à la consommation*** L’indice des prix à la consommation pour un mois, publié par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md). (*Consumer Price Index*)
+***indice des prix à la consommation*** L’indice des prix à la consommation pour un mois, publié par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md). (*Consumer Price Index*)
 
-***invalide*** Se dit du particulier souffrant d’une déficience physique ou mentale qui l’empêche d’accomplir les tâches de l’emploi qu’il occupait avant la déficience. (*disabled*)
+***invalide*** Se dit du particulier souffrant d’une déficience physique ou mentale qui l’empêche d’accomplir les tâches de l’emploi qu’il occupait avant la déficience. (*disabled*)
 
-***invalidité totale et permanente*** Déficience physique ou mentale d’un particulier qui l’empêche d’occuper l’emploi pour lequel il est raisonnablement qualifié par ses études, sa formation ou son expérience et qui durera vraisemblablement jusqu’à son décès. (*totally and permanently disabled*)
+***invalidité totale et permanente*** Déficience physique ou mentale d’un particulier qui l’empêche d’occuper l’emploi pour lequel il est raisonnablement qualifié par ses études, sa formation ou son expérience et qui durera vraisemblablement jusqu’à son décès. (*totally and permanently disabled*)
 
-***maximum des gains annuels ouvrant droit à pension*** Pour une année civile, s’entend au sens de l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). (*Year’s Maximum Pensionable Earnings*)
+***maximum des gains annuels ouvrant droit à pension*** Pour une année civile, s’entend au sens de l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). (*Year’s Maximum Pensionable Earnings*)
 
-***minimum RRI*** Le minimum RRI pour une année, relativement à une personne qui est soit un participant d’un régime de retraite individuel, soit un bénéficiaire du régime qui, au décès du participant, était l’époux ou le conjoint de fait de celui-ci, correspond à celle des sommes ci-après qui est applicable :
+***minimum RRI*** Le minimum RRI pour une année, relativement à une personne qui est soit un participant d’un régime de retraite individuel, soit un bénéficiaire du régime qui, au décès du participant, était l’époux ou le conjoint de fait de celui-ci, correspond à celle des sommes ci-après qui est applicable :
 - **a)** dans le cas où le régime compte une seule de ces personnes, le minimum qui serait déterminé selon le paragraphe 146.3(1) de la Loi pour l’année relativement au régime si celui-ci était un fonds enregistré de revenu de retraite détenant les mêmes biens que ceux détenus par le régime et si la personne était le rentier du fonds;
 - **b)** dans les autres cas, le minimum qui serait déterminé selon le paragraphe 146.3(1) de la Loi si la personne était le rentier d’un fonds enregistré de revenu de retraite et si la juste valeur marchande des biens détenus dans le cadre du fonds au début de l’année était déterminée selon la formule suivante :
 ```
@@ -15386,91 +15727,93 @@ où :
 - **B** le montant du passif actuariel relatif aux prestations payables à la personne aux termes du régime au début de l’année,
 - **C** le montant du passif actuariel relatif à l’ensemble des prestations payables aux termes du régime au début de l’année. (*IPP minimum amount*)
 
-***montant perdu*** Montant, dans le cadre de la disposition à cotisations déterminées d’un régime de pension, auquel le participant au régime cesse d’avoir droit, sauf la partie éventuelle d’un tel montant qui est payable :
+***montant perdu*** Montant, dans le cadre de la disposition à cotisations déterminées d’un régime de pension, auquel le participant au régime cesse d’avoir droit, sauf la partie éventuelle d’un tel montant qui est payable :
 - **a)** soit au bénéficiaire du participant par suite du décès de celui-ci;
-- **b)** soit à l’époux, au conjoint de fait, à l’ex-époux ou à l’ancien conjoint de fait du participant par suite de l’échec de leur mariage ou union de fait. (*forfeited amount*)
+- **b)** soit à l’époux, au conjoint de fait, à l’ex-époux ou à l’ancien conjoint de fait du participant par suite de l’échec de leur mariage ou union de fait. (*forfeited amount*)
 
-***moyenne de l’indice des prix à la consommation*** Quotient obtenu, pour une année civile, par la division, par 12, du total des montants représentant chacun l’indice des prix à la consommation pour un mois compris dans la période de 12 mois se terminant le 30 septembre de l’année civile précédente. (*average Consumer Price Index*)
+***moyenne de l’indice des prix à la consommation*** Quotient obtenu, pour une année civile, par la division, par 12, du total des montants représentant chacun l’indice des prix à la consommation pour un mois compris dans la période de 12 mois se terminant le 30 septembre de l’année civile précédente. (*average Consumer Price Index*)
 
-***participant actif*** Participant à un régime de pension au cours d’une année civile qui acquiert des prestations aux termes de la disposition à prestations déterminées du régime pour tout ou partie de l’année ou qui verse, ou pour le compte duquel sont versées, des cotisations se rapportant à l’année aux termes de la disposition à cotisations déterminées du régime. (*active member*)
+***participant actif*** Participant à un régime de pension au cours d’une année civile qui acquiert des prestations aux termes de la disposition à prestations déterminées du régime pour tout ou partie de l’année ou qui verse, ou pour le compte duquel sont versées, des cotisations se rapportant à l’année aux termes de la disposition à cotisations déterminées du régime. (*active member*)
 
-***période admissible d’absence temporaire*** Période d’un particulier quant à un employeur, tout au long de laquelle le particulier ne rend pas de services à l’employeur en raison d’un congé, d’une mise en disponibilité, d’une grève, d’un lock-out ou d’un autre concours de circonstances que le ministre juge acceptable, à l’exclusion des périodes suivantes :
+***période admissible d’absence temporaire*** Période d’un particulier quant à un employeur, tout au long de laquelle le particulier ne rend pas de services à l’employeur en raison d’un congé, d’une mise en disponibilité, d’une grève, d’un lock-out ou d’un autre concours de circonstances que le ministre juge acceptable, à l’exclusion des périodes suivantes :
 - **a)** celle qui comprend une période d’invalidité;
-- **b)** celle au cours de laquelle l’employé est, à un moment donné après 1990, rattaché à l’employeur. (*eligible period of temporary absence*)
+- **b)** celle au cours de laquelle l’employé est, à un moment donné après 1990, rattaché à l’employeur. (*eligible period of temporary absence*)
 
-***période admissible de prestations au survivant*** Période, applicable à la personne à charge d’un particulier au moment du décès de celui-ci, commençant le jour du décès du particulier et se terminant au dernier en date des jours suivants :
-- **a)** si la personne à charge a moins de 19 ans tout au long de l’année civile qui comprend le jour du décès du particulier, le premier en date des jours suivants :
+***période admissible de prestations au survivant*** Période, applicable à la personne à charge d’un particulier au moment du décès de celui-ci, commençant le jour du décès du particulier et se terminant au dernier en date des jours suivants :
+- **a)** si la personne à charge a moins de 19 ans tout au long de l’année civile qui comprend le jour du décès du particulier, le premier en date des jours suivants :
 	- **(i)** le 31 décembre de l’année civile où elle atteint 18 ans,
 	- **(ii)** le jour où elle décède;
 - **b)** si la personne à charge fréquente un établissement d’enseignement à plein temps au dernier en date du jour du décès du particulier et du 31 décembre de l’année civile où elle atteint 18 ans, le jour où elle cesse de le faire;
-- **c)** si, au décès du particulier, la personne était à la charge de celui-ci en raison d’une infirmité mentale ou physique, le jour où elle cesse d’être infirme ou, en l’absence d’un tel jour, le jour où elle décède. (*eligible survivor benefit period*)
+- **c)** si, au décès du particulier, la personne était à la charge de celui-ci en raison d’une infirmité mentale ou physique, le jour où elle cesse d’être infirme ou, en l’absence d’un tel jour, le jour où elle décède. (*eligible survivor benefit period*)
 
-***période admissible de salaire réduit*** Période d’un employé, quant à un employeur, (sauf celle qui comprend une période d’invalidité de l’employé et celle au cours de laquelle l’employé est, à un moment donné après 1990, rattaché à l’employeur) qui répond aux conditions suivantes :
+***période admissible de salaire réduit*** Période d’un employé, quant à un employeur, (sauf celle qui comprend une période d’invalidité de l’employé et celle au cours de laquelle l’employé est, à un moment donné après 1990, rattaché à l’employeur) qui répond aux conditions suivantes :
 - **a)** elle commence après que l’employé a accompli au moins 36 mois de services auprès de l’employeur ou d’employeurs remplacés;
 - **b)** il s’agit d’une période tout au long de laquelle l’employé rend des services à l’employeur;
-- **c)** il s’agit d’une période tout au long de laquelle la rémunération que l’employé reçoit de l’employeur est inférieure à celle qu’il aurait pu raisonnablement s’attendre à recevoir de celui-ci s’il lui avait rendu des services de façon régulière tout au long de la période (compte tenu des services qu’il lui a rendus avant la période) et si son taux de rémunération avait été proportionnel à son taux de rémunération avant la période. (*eligible period of reduced pay*)
+- **c)** il s’agit d’une période tout au long de laquelle la rémunération que l’employé reçoit de l’employeur est inférieure à celle qu’il aurait pu raisonnablement s’attendre à recevoir de celui-ci s’il lui avait rendu des services de façon régulière tout au long de la période (compte tenu des services qu’il lui a rendus avant la période) et si son taux de rémunération avait été proportionnel à son taux de rémunération avant la période. (*eligible period of reduced pay*)
 
-***période d’invalidité*** Période tout au long de laquelle un particulier est invalide. (*period of disability*)
+***période d’invalidité*** Période tout au long de laquelle un particulier est invalide. (*period of disability*)
 
-***personne à charge*** Père, mère, grand-père, grand-mère, frère, soeur, enfant ou petit-enfant d’un particulier aux besoins duquel celui-ci subvient au moment de son décès et qui, selon le cas :
+***personne à charge*** Père, mère, grand-père, grand-mère, frère, soeur, enfant ou petit-enfant d’un particulier aux besoins duquel celui-ci subvient au moment de son décès et qui, selon le cas :
 - **a)** est âgé de moins de 19 ans et n’atteindra pas 19 ans au cours de l’année civile qui comprend ce moment;
 - **b)** fréquente à plein temps un établissement d’enseignement;
-- **c)** est à la charge du particulier à cause d’une infirmité mentale ou physique. (*dependant*)
+- **c)** est à la charge du particulier à cause d’une infirmité mentale ou physique. (*dependant*)
 
-***plafond des prestations déterminées*** Quant à une année civile, le plus élevé des montants suivants :
-- **a)** 1 722,22 $;
-- **b)** le neuvième du plafond des cotisations déterminées pour l’année. (*defined benefit limit*)
+***plafond des prestations déterminées*** Quant à une année civile, le plus élevé des montants suivants :
+- **a)** 1 722,22 $;
+- **b)** le neuvième du plafond des cotisations déterminées pour l’année. (*defined benefit limit*)
 
-***prestation de pension de l’État*** Montant payable périodiquement en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), d’un régime provincial de pensions au sens de l’article 3 de cette loi, ou de la partie I de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), à l’exclusion des prestations pour invalidité, des prestations consécutives au décès et des prestations au survivant prévues par ces lois. (*public pension benefits*)
+***prestation de pension de l’État*** Montant payable périodiquement en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), d’un régime provincial de pensions au sens de l’article 3 de cette loi, ou de la partie I de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), à l’exclusion des prestations pour invalidité, des prestations consécutives au décès et des prestations au survivant prévues par ces lois. (*public pension benefits*)
 
-***prestation de raccordement*** Prestation de retraite payable à un participant aux termes de la disposition à cotisations ou à prestations déterminées d’un régime de pension pour une période se terminant au plus tard à une date déterminable au début du versement des prestations. (*bridging benefits*)
+***prestation de raccordement*** Prestation de retraite payable à un participant aux termes de la disposition à cotisations ou à prestations déterminées d’un régime de pension pour une période se terminant au plus tard à une date déterminable au début du versement des prestations. (*bridging benefits*)
 
-***prestation de retraite*** Prestation prévue pour un particulier par la disposition à cotisations ou à prestations déterminées d’un régime de pension qui est payable périodiquement. (*retirement benefits*)
+***prestation de retraite*** Prestation prévue pour un particulier par la disposition à cotisations ou à prestations déterminées d’un régime de pension qui est payable périodiquement. (*retirement benefits*)
 
 ***prestation viagère***
 - **a)** Prestation de retraite prévue pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension qui, une fois le versement commencé, lui est payable jusqu’à son décès, sauf si elle est rachetée ou que son versement est suspendu;
-- **b)** il est entendu que les prestations de retraite prévues pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension conformément à l’alinéa 8506(1)e.1) sont des prestations viagères. (*lifetime retirement benefits*)
+- **b)** il est entendu que les prestations de retraite prévues pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension conformément à l’alinéa 8506(1)e.1) sont des prestations viagères. (*lifetime retirement benefits*)
 
-***profession liée à la sécurité publique*** Les professions suivantes :
+***profession liée à la sécurité publique*** Les professions suivantes :
 - **a)** pompier;
 - **b)** policier;
 - **c)** agent des services correctionnels;
 - **d)** contrôleur de la circulation aérienne;
 - **e)** pilote de ligne;
-- **f)** travailleur paramédical. (*public safety occupation*)
+- **f)** travailleur paramédical. (*public safety occupation*)
 
-***régime désigné*** S’entend au sens de l’article 8515. (*designated plan*)
+***régime désigné*** S’entend au sens de l’article 8515. (*designated plan*)
 
-***régime exclu*** S’entend, selon le cas :
+***régime exclu*** S’entend, selon le cas :
 - **a)** d’un régime existant qui comportait une disposition à prestations déterminées le 27 mars 1988;
-- **b)** d’un régime de pension institué en vue d’assurer des prestations à un ou plusieurs particuliers aux termes d’une disposition à prestations déterminées en remplacement des prestations auxquelles ils avaient droit aux termes d’une telle disposition d’un autre régime exclu, indépendamment du fait que des prestations soient aussi assurées à d’autres particuliers. (*grandfathered plan*)
+- **b)** d’un régime de pension institué en vue d’assurer des prestations à un ou plusieurs particuliers aux termes d’une disposition à prestations déterminées en remplacement des prestations auxquelles ils avaient droit aux termes d’une telle disposition d’un autre régime exclu, indépendamment du fait que des prestations soient aussi assurées à d’autres particuliers. (*grandfathered plan*)
 
-***régime existant*** Régime de pension qui était un régime de pension agréé le 27 mars 1988 ou qui a fait l’objet d’une demande d’agrément avant le 28 mars 1988, y compris le régime de pension institué avant cette date aux termes d’une loi fédérale par laquelle les cotisations des participants sont réputées être des cotisations à un régime de pension agréé. (*existing plan*)
+***régime existant*** Régime de pension qui était un régime de pension agréé le 27 mars 1988 ou qui a fait l’objet d’une demande d’agrément avant le 28 mars 1988, y compris le régime de pension institué avant cette date aux termes d’une loi fédérale par laquelle les cotisations des participants sont réputées être des cotisations à un régime de pension agréé. (*existing plan*)
 
-***régime interentreprises*** L’un ou l’autre des régimes suivants pour une année civile :
+***régime interentreprises*** L’un ou l’autre des régimes suivants pour une année civile :
 - **a)** régime de pension à l’égard duquel il est raisonnable de s’attendre, au début de l’année ou à la date postérieure de l’année où le régime est institué, à ce que le pourcentage des participants actifs du régime — qui sont au service d’un seul employeur participant ou d’un groupe lié d’employeurs participants — ne dépasse 95 pour cent à aucun moment de l’année, sauf le régime à l’égard duquel il est raisonnable de considérer qu’un des principaux motifs de la participation de plusieurs employeurs consiste à tirer profit des dispositions applicables uniquement aux régimes interentreprises selon la Loi et son règlement d’application;
 - **b)** régime de pension qui est, au cours de l’année, un régime interentreprises déterminé.
 
 Pour l’application de la présente définition, les sociétés qui sont liées entre elles du seul fait qu’elles sont toutes deux contrôlées par Sa Majesté du chef du Canada ou d’une province sont réputées ne pas être liées. (*multi-employer plan*)
 
-***services validables*** Périodes pour lesquelles des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension. (*pensionable service*)
+***services validables*** Périodes pour lesquelles des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension. (*pensionable service*)
 
-***surplus*** La fraction éventuelle du montant détenu à un moment donné dans le cadre de la disposition à cotisations déterminées d’un régime de pension qui n’a pas été attribuée aux participants et qu’il n’est pas raisonnable d’imputer aux montants suivants :
+***surplus*** La fraction éventuelle du montant détenu à un moment donné dans le cadre de la disposition à cotisations déterminées d’un régime de pension qui n’a pas été attribuée aux participants et qu’il n’est pas raisonnable d’imputer aux montants suivants :
 - **a)** les montants perdus dans le cadre de la disposition ou les revenus du régime qu’il est raisonnable d’imputer à ces montants;
 - **b)** les cotisations qu’un employeur verse aux termes de la disposition et qui seront attribuées aux participants dans le cadre de l’attribution régulière;
-- **c)** les revenus du régime (sauf ceux qu’il est raisonnable d’imputer au surplus afférent à la disposition avant le moment donné) à attribuer aux participants dans le cadre de l’attribution régulière de tels revenus. (*surplus*)
+- **c)** les revenus du régime (sauf ceux qu’il est raisonnable d’imputer au surplus afférent à la disposition avant le moment donné) à attribuer aux participants dans le cadre de l’attribution régulière de tels revenus. (*surplus*)
 
 - **(1.1)** La définition de ***surplus*** au paragraphe (1) s’applique dans le cadre du paragraphe 147.3(7.1) de la Loi.
 
+- **(1.2)** La définition de ***employeur remplacé*** au paragraphe (1) s’applique au paragraphe 147.2(8) de la Loi.
+
 - **(2)** Les termes de la présente partie qui sont définis au paragraphe 147.1(1) de la Loi ou dans la partie LXXXIII s’entendent au sens de ces dispositions.
 
-- **(3)** Pour l’application de la présente partie, une personne est rattachée à un employeur à un moment donné si, à ce moment, selon le cas :
+- **(3)** Pour l’application de la présente partie, une personne est rattachée à un employeur à un moment donné si, à ce moment, selon le cas :
 	- **a)** elle est, directement ou indirectement, propriétaire d’au moins 10 pour cent des actions émises d’une catégorie du capital-actions de l’employeur ou de toute société liée à celui-ci;
 	- **b)** elle a un lien de dépendance avec l’employeur;
 	- **c)** elle est un actionnaire déterminé de l’employeur par application de l’alinéa d) de la définition de ce terme au paragraphe 248(1) de la Loi.
-Pour l’application du présent paragraphe :
+Pour l’application du présent paragraphe :
 	- **d)** une personne est réputée propriétaire, à un moment donné, de chaque action du capital-actions d’une société appartenant, à ce moment, à une personne avec laquelle elle a un lien de dépendance;
-	- **e)** lorsqu’une fiducie est propriétaire d’actions du capital- actions d’une société à un moment donné, les présomptions suivantes s’appliquent :
+	- **e)** lorsqu’une fiducie est propriétaire d’actions du capital- actions d’une société à un moment donné, les présomptions suivantes s’appliquent :
 		- **(i)** si la part d’un bénéficiaire sur le revenu ou le capital de la fiducie dépend de l’exercice ou du non-exercice d’un pouvoir discrétionnaire, chaque bénéficiaire de la fiducie est réputé propriétaire, à ce moment, de toutes les actions qui appartiennent à la fiducie,
 		- **(ii)** dans les autres cas, chaque bénéficiaire de la fiducie est réputé propriétaire, à ce moment, de la fraction des actions qui appartiennent à la fiducie, représentée par le rapport entre la juste valeur marchande, à ce moment, de son droit de bénéficiaire dans la fiducie et la juste valeur marchande, à ce moment, de tous les droits de bénéficiaire dans la fiducie;
 	- **f)** chaque associé d’une société de personnes est réputé propriétaire, à un moment donné, de la fraction des actions du capital-actions d’une société qui appartiennent à la société de personnes à ce moment, représentée par le rapport entre la juste valeur marchande, à ce moment, de sa participation dans la société de personnes et la juste valeur marchande, à ce moment, des participations de tous les associés de la société de personnes;
@@ -15488,11 +15831,13 @@ Pour l’application du présent paragraphe :
 	- **c)** soit à un bien transféré à la disposition relativement au surplus actuariel afférent à une disposition à prestations déterminées du régime ou d’un autre régime de pension agréé;
 	- **d)** soit à un bien transféré à la disposition relativement au surplus afférent, selon le cas, à une autre disposition à cotisations déterminées du régime ou à une disposition à cotisations déterminées d’un autre régime de pension agréé.
 
-- **(8)** Lorsque le particulier qui a le droit de recevoir des prestations (appelées « prestations de participant » au présent paragraphe) dans le cadre d’un régime de pension en raison de sa participation au régime a aussi le droit de recevoir d’autres prestations (appelées « prestations de non-participant » au présent paragraphe) dans le cadre du régime ou d’un autre régime de pension en raison seulement de la participation d’un autre particulier au régime ou à l’autre régime, les règles suivantes s’appliquent :
+- **(8)** Lorsque le particulier qui a le droit de recevoir des prestations (appelées « prestations de participant » au présent paragraphe) dans le cadre d’un régime de pension en raison de sa participation au régime a aussi le droit de recevoir d’autres prestations (appelées « prestations de non-participant » au présent paragraphe) dans le cadre du régime ou d’un autre régime de pension en raison seulement de la participation d’un autre particulier au régime ou à l’autre régime, les règles suivantes s’appliquent :
 	- **a)** pour déterminer si les prestations de participant sont permises par la présente partie, il n’est pas tenu compte des prestations de non-participant;
 	- **b)** pour déterminer si les prestations de non-participant sont permises par la présente partie, il n’est pas tenu compte des prestations de participant;
 	- **c)** pour calculer le facteur d’équivalence, le facteur d’équivalence rectifié ou le facteur d’équivalence pour services passés du particulier en vertu de la partie LXXXIII, il n’est pas tenu compte des prestations de non-participant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24; 2007, ch. 35, art. 82; DORS/2007-116, art. 15; 2011, ch. 24, art. 93.
+
+- **(9)** Pour l’application de l’alinéa 147.3(6)b) de la Loi et des sous-alinéas 8502d)(iv) et 8503(2)h)(iii), dans le cas où une somme est transférée conformément au paragraphe 147.3(3) de la Loi à une disposition à prestations déterminées (appelée « disposition courante » au présent paragraphe) d’un régime de pension agréé à partir d’une disposition à prestations déterminées (appelée « ancienne disposition » au présent paragraphe) d’un autre régime de pension agréé pour le compte de l’ensemble des participants, ou d’un nombre important de ceux-ci, dont les prestations prévues par l’ancienne disposition sont remplacées par des prestations prévues par la disposition courante, chaque cotisation pour services courants versée à un moment donné aux termes de l’ancienne disposition par un participant dont les prestations sont ainsi remplacées est réputée être une cotisation pour services courants versée par le participant à ce moment aux termes de la disposition courante.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24; 2007, ch. 35, art. 82; DORS/2007-116, art. 15; 2011, ch. 24, art. 93; 2013, ch. 34, art. 407.
 
 
 
@@ -15594,7 +15939,7 @@ pour déterminer si les prestations accessoires sont permises selon la présente
 ### Conditions applicables à tous les régimes
 
 
-**8502** Pour l’application de l’article 8501, les conditions suivantes s’appliquent aux régimes de pension :
+**8502** Pour l’application de l’article 8501, les conditions suivantes s’appliquent aux régimes de pension :
 
 #### Principal objet
 
@@ -15602,19 +15947,20 @@ pour déterminer si les prestations accessoires sont permises selon la présente
 
 #### Cotisations permises
 
-- **b)** chaque cotisation versée au régime après 1990 constitue, selon le cas :
+- **b)** chaque cotisation versée au régime après 1990 constitue, selon le cas :
 	- **(i)** un montant qu’un participant verse conformément au régime tel qu’il est agréé, et qui est porté au crédit du compte du participant au titre d’une disposition à cotisations déterminées du régime ou versé au titre des prestations prévues pour le participant par une disposition à prestations déterminées du régime,
 	- **(ii)** un montant qu’un employeur verse pour ses employés actuels ou anciens conformément à une disposition à cotisations déterminées du régime tel qu’il est agréé,
 	- **(iii)** une cotisation admissible qu’un employeur verse pour ses employés actuels ou anciens aux termes d’une disposition à prestations déterminées du régime,
 	- **(iv)** une somme transférée au régime en conformité avec l’un des paragraphes 146(16), 146.3(14.1), 147(19), 147.3(1) à (8) et 147.5(21) de la Loi,
-	- **(v)** un montant, que le ministre juge acceptable, transféré au régime d’un régime de pension principalement maintenu au profit de personnes non résidantes pour des services rendus à l’étranger;
+	- **(v)** un montant, que le ministre juge acceptable, transféré au régime d’un régime de pension principalement maintenu au profit de personnes non résidantes pour des services rendus à l’étranger,
+	- **(v.1)** une somme versée par le fiduciaire d’une fiducie visée à l’alinéa 6802h), dans le cas où elle aurait été une cotisation admissible si elle avait été versée par un employeur pour ses employés actuels ou anciens aux termes d’une disposition à prestations déterminées du régime;
 pour l’application du présent alinéa,
 	- **(vi)** la cotisation versée par un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension constitue une cotisation admissible lorsqu’elle est une cotisation admissible par application du paragraphe 147.2(2) de la Loi ou, étant une cotisation versée à un régime dont Sa Majesté du chef du Canada ou d’une province est un employeur participant, constituerait une cotisation admissible par application de ce paragraphe si tous les montants portés au crédit du régime dans les comptes du Canada ou de la province étaient exclus de l’actif du régime,
 	- **(vii)** la partie des cotisations, versées par Sa Majesté du chef du Canada ou d’une province, ou par une personne visée à l’alinéa 4802(1)d), aux termes d’une disposition à prestations déterminées du régime, qu’il est raisonnable de considérer comme versée pour les employés actuels ou anciens d’une autre personne est réputée être une cotisation versée par celle-ci;
 
 #### Prestations permises
 
-- **c)** le régime ne prévoit que les prestations suivantes, et ses modalités sont telles qu’il ne peut en aucun cas en prévoir d’autres :
+- **c)** le régime ne prévoit que les prestations suivantes, et ses modalités sont telles qu’il ne peut en aucun cas en prévoir d’autres :
 	- **(i)** celles, prévues par une ou plusieurs dispositions à prestations déterminées, qui sont conformes au paragraphe 8503(2), aux alinéas 8503(3)c) et e) à i) et à l’article 8504,
 	- **(ii)** celles, prévues par une ou plusieurs dispositions à cotisations déterminées, qui sont conformes au paragraphe 8506(1),
 	- **(iii)** celles que le régime est tenu de prévoir aux termes de la disposition déterminée d’une loi fédérale ou provinciale ou celles qu’il serait tenu de prévoir si cette disposition s’appliquait au régime quant à l’ensemble de ses participants,
@@ -15622,7 +15968,7 @@ pour l’application du présent alinéa,
 
 #### Éléments attribuables
 
-- **d)** seuls les éléments suivants sont attribuables par le régime :
+- **d)** seuls les éléments suivants sont attribuables par le régime :
 	- **(i)** les prestations versées conformément au régime tel qu’il est agréé,
 	- **(ii)** les biens détenus relativement au régime qui sont transférés conformément aux paragraphes 147.3(3), (4.1), (7.1) ou (8) de la Loi,
 	- **(iii)** le remboursement total ou partiel des cotisations versées par un participant ou par un employeur qui participe au régime, fait en vue d’empêcher le retrait de l’agrément du régime,
@@ -15636,7 +15982,7 @@ pour l’application du présent alinéa,
 
 #### Versement des prestations
 
-- **e)** le régime :
+- **e)** le régime :
 	- **(i)** d’une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard à la fin de l’année civile dans laquelle le participant atteint 71 ans; toutefois :
 		- **(A)** si les prestations sont prévues par une disposition à prestations déterminées, leur versement peut débuter à tout moment postérieur que le ministre juge acceptable, mais seulement si le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait à la fin de l’année civile dans laquelle le participant atteint 71 ans,
 		- **(B)** si les prestations sont prévues par une disposition à cotisations déterminées conformément à l’alinéa 8506(1)e.1), leur versement peut débuter au plus tard à la fin de l’année civile dans laquelle le participant atteint 72 ans,
@@ -15644,8 +15990,8 @@ pour l’application du présent alinéa,
 
 #### Cession de droits
 
-- **f)** le régime stipule que le droit d’une personne dans le cadre du régime ne peut ni être cédé, grevé, anticipé ou offert en garantie ni faire l’objet d’une renonciation; pour l’application de la présente condition :
-	- **(i)** ne sont pas des cessions :
+- **f)** le régime stipule que le droit d’une personne dans le cadre du régime ne peut ni être cédé, grevé, anticipé ou offert en garantie ni faire l’objet d’une renonciation; pour l’application de la présente condition :
+	- **(i)** ne sont pas des cessions :
 		- **(A)** celle qui fait suite à une ordonnance ou un jugement d’un tribunal compétent ou à un accord écrit au moment ou après l’échec du mariage ou de l’union de fait entre un particulier et son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait, en règlement des droits découlant du mariage ou de l’union de fait,
 		- **(B)** celle qui est effectuée par le représentant légal d’un particulier décédé, lors du règlement de la succession,
 	- **(ii)** n’est pas une renonciation le fait de réduire les prestations en vue d’éviter le retrait de l’agrément du régime;
@@ -15656,18 +16002,18 @@ pour l’application du présent alinéa,
 
 #### Placements
 
-- **h)** les biens suivants ne peuvent être détenus relativement au régime :
+- **h)** les biens suivants ne peuvent être détenus relativement au régime :
 	- **(i)** les placements interdits selon le paragraphe 8514(1),
 	- **(ii)** si le régime est, à un moment donné, visé par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou une loi provinciale semblable, les placements que ces lois interdisent à ce moment,
 	- **(iii)** si le régime n’est pas visé par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou une loi provinciale semblable, les placements qui seraient interdits si le régime était visé par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md);
 
 #### Emprunts
 
-- **i)** le fiduciaire ou une autre personne qui détient des biens relativement au régime n’emprunte de l’argent pour les fins de celui-ci que si sont réunies les conditions suivantes :
+- **i)** le fiduciaire ou une autre personne qui détient des biens relativement au régime n’emprunte de l’argent pour les fins de celui-ci que si sont réunies les conditions suivantes :
 	- **(i)** l’emprunt est d’une durée d’au plus 90 jours,
 	- **(ii)** il ne fait pas partie d’une série de prêts ou d’autres opérations et de remboursements,
 	- **(iii)** aucun des biens détenus relativement au régime n’est donné en garantie de l’emprunt, sauf si celui-ci est nécessaire pour assurer le paiement à court terme de prestations ou l’achat de rentes dans le cadre du régime sans recourir à la liquidation des biens détenus relativement au régime;
-ou encore les conditions suivantes :
+ou encore les conditions suivantes :
 	- **(iv)** l’argent est emprunté pour acquérir un bien immeuble qu’il est raisonnable de considérer comme acquis en vue de tirer un revenu de biens,
 	- **(v)** le total des montants empruntés à cette fin et des dettes contractées par suite de l’acquisition ne dépasse pas le coût du bien pour la personne,
 	- **(vi)** aucun des biens détenus relativement au régime, à l’exception du bien immeuble, n’est donné en garantie de l’emprunt;
@@ -15687,7 +16033,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34; 2011, ch. 24, art. 95; DORS/2011-188, art. 26; 2012, ch. 31, art. 69.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34; 2011, ch. 24, art. 95; DORS/2011-188, art. 26; 2012, ch. 31, art. 69; 2013, ch. 34, art. 408.
 
 
 
@@ -16266,10 +16612,10 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 
 **8504** 
 
-- **(1)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension :
-	- **a)** les prestations viagères, calculées sur une année, qui sont payables au participant pour l’année civile où leur versement débute (appelée « année du début » au présent alinéa) ne dépassent pas le total des montants suivants :
-		- **(i)** le total des montants représentant chacun le moins élevé des montants suivants pour l’année civile postérieure à 1990 (appelée « année déterminée » au présent alinéa) où le participant est, à un moment donné, rattaché à un employeur qui, au cours de cette année, participe au régime au profit du participant :
-			- **(A)** le montant calculé selon la formule suivante :
+- **(1)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension :
+	- **a)** les prestations viagères, calculées sur une année, qui sont payables au participant pour l’année civile où leur versement débute (appelée « année du début » au présent alinéa) ne dépassent pas le total des montants suivants :
+		- **(i)** le total des montants représentant chacun le moins élevé des montants suivants pour l’année civile postérieure à 1990 (appelée « année déterminée » au présent alinéa) où le participant est, à un moment donné, rattaché à un employeur qui, au cours de cette année, participe au régime au profit du participant :
+			- **(A)** le montant calculé selon la formule suivante :
 ```
 0,02 × A × (B / C)
 ```
@@ -16277,25 +16623,25 @@ où
 - **A** représente le total des montants correspondant chacun à la rétribution que le participant reçoit pour l’année déterminée d’un employeur qui, au cours de cette année, participe à la disposition au profit du participant;
 - **B** le plus élevé des montants représentant chacun le salaire moyen pour une année civile qui n’est ni antérieure à l’année déterminée ni postérieure à l’année du début;
 - **C** le salaire moyen pour l’année déterminée;
-			- **(B)** le montant calculé selon la formule suivante :
+			- **(B)** le montant calculé selon la formule suivante :
 ```
 D × E
 ```
 où 
 - **D** représente le plafond des prestations déterminées pour l’année du début;
-- **E** la fraction de l’année déterminée qui est constituée de services validables accomplis par le participant dans le cadre de la disposition :
-		- **(ii)** le montant calculé selon la formule suivante :
+- **E** la fraction de l’année déterminée qui est constituée de services validables accomplis par le participant dans le cadre de la disposition :
+		- **(ii)** le montant calculé selon la formule suivante :
 ```
 F × G
 ```
 où 
-- **F** représente le moins élevé des montants suivants :
+- **F** représente le moins élevé des montants suivants :
 		- **(A)** 2 pour cent de la rétribution moyenne la plus élevée (calculée selon le paragraphe (2)) du participant dans le cadre de la disposition, indexée à l’année du début,
 		- **(B)** le plafond des prestations déterminées pour l’année du début;
 - **G** le total des nombres représentant chacun la durée (en années et fractions d’année) de la période, ne faisant pas partie de l’année déterminée, qui est constituée de services validables accomplis par le participant dans le cadre de la disposition;
-	- **b)** les prestations viagères qui sont payables au participant pour une année civile donnée postérieure à l’année du début de leur versement ne dépassent pas le produit des montants suivants :
+	- **b)** les prestations viagères qui sont payables au participant pour une année civile donnée postérieure à l’année du début de leur versement ne dépassent pas le produit des montants suivants :
 		- **(i)** le total des montants calculés selon les sous-alinéas a)(i) et (ii),
-		- **(ii)** le plus élevé des montants représentant chacun le rapport entre la moyenne visée à la division (A) et celle visée à la division (B) :
+		- **(ii)** le plus élevé des montants représentant chacun le rapport entre la moyenne visée à la division (A) et celle visée à la division (B) :
 			- **(A)** la moyenne de l’indice des prix à la consommation pour une année civile qui n’est ni antérieure à l’année civile où le versement des prestations viagères débute, ni postérieure à l’année donnée,
 			- **(B)** la moyenne de l’indice des prix à la consommation pour l’année civile où le versement des prestations viagères débute.
 
@@ -16304,14 +16650,14 @@ où
 
 - **(2)** Pour l’application du paragraphe (1) et de l’alinéa 8505(3)d), la rétribution moyenne la plus élevée d’un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension, indexée à l’année civile (appelée « année du début » au présent paragraphe) où débute le versement au participant des prestations viagères prévues par la disposition, est égale au montant suivant :
 	- **a)** si, pendant trois périodes non chevauchantes de 12 mois consécutifs, le participant a été au service d’employeurs qui ont participé dans le cadre de la disposition à son profit, le tiers du plus élevé des montants représentant chacun la somme de sa rétribution totale indexée aux fins de la disposition pour chacun des 36 mois de ces périodes tout au long desquelles il était au service de tels employeurs;
-	- **b)** sinon, le montant calculé selon la formule suivante :
+	- **b)** sinon, le montant calculé selon la formule suivante :
 ```
 12 × (H / I)
 ```
 où 
 - **H** représente le total des montants correspondant chacun à la rétribution totale indexée du participant aux fins de la disposition pour un mois tout au long duquel il était au service d’un employeur qui participait dans le cadre de la disposition à son profit;
 - **I** le nombre de mois pour lesquels la rétribution totale indexée entre dans le calcul du total visé à l’élément H.
-Pour l’application du présent paragraphe, la rétribution totale indexée d’un participant pour un mois aux fins de la disposition est calculée selon la formule suivante :
+Pour l’application du présent paragraphe, la rétribution totale indexée d’un participant pour un mois aux fins de la disposition est calculée selon la formule suivante :
 ```
 J × (K / L)
 ```
@@ -16320,33 +16666,38 @@ où
 - **K** le plus élevé des montants représentant chacun le salaire moyen pour une année civile qui n’est ni antérieure à la dernière en date de l’année de la rétribution et de 1986 ni postérieure à l’année du début;
 - **L** le salaire moyen pour la dernière en date de l’année de la rétribution et de 1986.
 
+#### Employeur remplacé
+
+
+- **(2.1)** Pour l’application du paragraphe (2), si la période de services validables du participant dans le cadre de la disposition comprend une période tout au long de laquelle il a été l’employé d’un employeur remplacé quant à un employeur qui participe au régime, l’employeur remplacé est réputé avoir participé à la disposition au profit du participant.
+
 #### Autres règles applicables à la rétribution
 
 
-- **(3)** Les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes aux conditions énoncées au paragraphe (1) dans le cas où elles le seraient si l’une des règles suivantes, ou les deux, s’appliquaient :
+- **(3)** Les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes aux conditions énoncées au paragraphe (1) dans le cas où elles le seraient si l’une des règles suivantes, ou les deux, s’appliquaient :
 	- **a)** la rétribution que le participant reçoit d’un employeur pour une année civile correspond, pour l’application du paragraphe (2), au total de sa rétribution déterminée par ailleurs et de la fraction de chaque prime et de chaque augmentation rétroactive de rémunération que l’employeur lui a versée après la fin de l’année qu’il est raisonnable de considérer comme se rapportant à cette année, diminué de la fraction de chaque prime et de chaque augmentation rétroactive de rémunération que l’employeur lui a versée au cours de l’année qu’il est raisonnable de considérer comme se rapportant à une année antérieure;
 	- **b)** pour déterminer, dans le calcul du montant à l’élément J du paragraphe (2), la fraction de la rétribution que le participant reçoit d’un employeur pour une année civile qu’il est raisonnable de considérer comme se rapportant à un mois de l’année, la rétribution est répartie uniformément sur la période de l’année pour laquelle elle est versée.
 
 #### Employé à temps partiel
 
 
-- **(4)** Lorsque les services validables qu’un participant a accomplis dans le cadre de la disposition à prestations déterminées d’un régime de pension comprennent une période tout au long de laquelle il a rendu des services à temps partiel à un employeur qui participe au régime, les prestations viagères qui lui sont assurées aux termes de la disposition sont réputées conformes aux conditions énoncées au paragraphe (1) si, les conditions suivantes étant réunies, elles sont ainsi conformes ou sont réputées l’être aux termes du paragraphe (3) :
+- **(4)** Lorsque les services validables qu’un participant a accomplis dans le cadre de la disposition à prestations déterminées d’un régime de pension comprennent une période tout au long de laquelle il a rendu des services à temps partiel à un employeur qui participe au régime, les prestations viagères qui lui sont assurées aux termes de la disposition sont réputées conformes aux conditions énoncées au paragraphe (1) si, les conditions suivantes étant réunies, elles sont ainsi conformes ou sont réputées l’être aux termes du paragraphe (3) :
 	- **a)** pour déterminer l’élément J du paragraphe (2), la rétribution que le participant a reçue d’un employeur pendant l’année civile au cours de laquelle il lui a rendu des services à temps partiel correspond au montant qui aurait vraisemblablement constitué cette rétribution s’il lui avait rendu des services à plein temps tout au long de la ou des périodes de l’année tout au long desquelles il lui a rendu des services;
 	- **b)** pour calculer l’élément G du sous-alinéa (1)a)(ii), la durée de chaque période est multipliée par la fraction, ne dépassant pas un, représentée par le rapport entre les services rendus par le participant tout au long de la période à des employeurs qui participent au régime et les services qu’il leur aurait ainsi rendus s’il les avait rendus à plein temps.
-Pour l’application du présent paragraphe :
+Pour l’application du présent paragraphe :
 	- **c)** lorsque le participant à un régime de pension rend des services tout au long d’une période à plusieurs employeurs qui participent au régime, ceux-ci sont réputés ne constituer qu’un seul employeur tout au long de cette période;
-	- **d)** lorsqu’une période constitue :
+	- **d)** lorsqu’une période constitue :
 		- **(i)** soit une période admissible de salaire réduit ou d’absence temporaire du participant à un régime de pension quant à un employeur,
 		- **(ii)** soit une période d’invalidité du participant,
-le participant est réputé :
+le participant est réputé :
 		- **(iii)** d’une part, avoir rendu des services de façon régulière tout au long de la période (compte tenu des services qu’il a rendus avant cette période) à l’employeur ou aux employeurs au service desquels il était avant la période,
 		- **(iv)** d’autre part, avoir été rémunéré tout au long de la période à un taux proportionnel à son taux de rémunération avant la période.
 
 #### Prestations de retraite avant 65 ans
 
 
-- **(5)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations de retraite payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour la période (appelée « période de raccordement » au présent paragraphe) après le début du versement des prestations jusqu’au moment où le participant atteint 65 ans :
-	- **a)** le montant, calculé sur une année, des prestations de retraite payables au participant pour la partie de la période de raccordement qui fait partie de l’année civile du début du versement des prestations ne dépasse pas le montant calculé selon la formule suivante :
+- **(5)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations de retraite payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour la période (appelée « période de raccordement » au présent paragraphe) après le début du versement des prestations jusqu’au moment où le participant atteint 65 ans :
+	- **a)** le montant, calculé sur une année, des prestations de retraite payables au participant pour la partie de la période de raccordement qui fait partie de l’année civile du début du versement des prestations ne dépasse pas le montant calculé selon la formule suivante :
 ```
 (A × B) + (0,25 × C × (D / 35))
 ```
@@ -16355,32 +16706,32 @@ où
 - **B** le total des nombres représentant chacun la durée (en années et fractions d’année) d’une période de services validables du participant dans le cadre de la disposition;
 - **C** la moyenne du maximum des gains annuels ouvrant droit à pension pour l’année du début du versement des prestations et pour chacune des deux années précédentes;
 - **D** le moins élevé de 35 et du total déterminé à l’élément B;
-	- **b)** le montant, calculé sur une année, des prestations de retraite payables au participant pour la partie de la période de raccordement qui est incluse dans une année civile donnée postérieure à l’année du début du versement des prestations ne dépasse pas le produit des sommes suivantes :
+	- **b)** le montant, calculé sur une année, des prestations de retraite payables au participant pour la partie de la période de raccordement qui est incluse dans une année civile donnée postérieure à l’année du début du versement des prestations ne dépasse pas le produit des sommes suivantes :
 		- **(i)** le montant calculé selon la formule à l’alinéa a),
-		- **(ii)** le plus élevé des montants représentant chacun le rapport entre :
+		- **(ii)** le plus élevé des montants représentant chacun le rapport entre :
 			- **(A)** d’une part, la moyenne de l’indice des prix à la consommation pour une année civile qui n’est ni antérieure à celle du début du versement des prestations ni postérieure à l’année donnée,
 			- **(B)** d’autre part, la moyenne de l’indice des prix à la consommation pour l’année civile du début de versement des prestations.
 
 #### Prestations antérieures à 1990
 
 
-- **(6)** Pour l’application du sous-alinéa 8502c)(i) et sous réserve du paragraphe (7), des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour des services validables accomplis au cours d’une année civile antérieure à 1990 (appelée « année des prestations » au présent paragraphe) à la condition que le montant visé à l’alinéa a) ne dépasse pas le montant visé à l’alinéa b) :
+- **(6)** Pour l’application du sous-alinéa 8502c)(i) et sous réserve du paragraphe (7), des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour des services validables accomplis au cours d’une année civile antérieure à 1990 (appelée « année des prestations » au présent paragraphe) à la condition que le montant visé à l’alinéa a) ne dépasse pas le montant visé à l’alinéa b) :
 	- **a)** le montant des prestations viagères, calculé sur une année et payable au participant pour une année civile donnée (appelée « année du versement » au présent paragraphe);
-	- **b)** le montant calculé selon la formule suivante :
+	- **b)** le montant calculé selon la formule suivante :
 ```
 (2 / 3) × A × B × C
 ```
 où 
-- **A** représente le plus élevé de 1 725 $ et du plafond des prestations déterminées pour l’année du début du versement des prestations;
+- **A** représente le plus élevé de 1 725 $ et du plafond des prestations déterminées pour l’année du début du versement des prestations;
 - **B** le total des nombres représentant chacun la durée (en années et fractions d’année) d’une période de l’année des prestations qui constitue une période de services validables du participant dans le cadre de la disposition;
-- **C** le plus élevé des montants représentant chacun le rapport entre :
+- **C** le plus élevé des montants représentant chacun le rapport entre :
 	- **(i)** d’une part, la moyenne de l’indice des prix à la consommation pour une année civile qui n’est ni antérieure à celle du début du versement des prestations, ni postérieure à l’année du versement,
 	- **(ii)** d’autre part, la moyenne de l’indice des prix à la consommation pour l’année civile du début de versement des prestations.
 
 #### Inapplication du plafond
 
 
-- **(7)** La condition énoncée au paragraphe (6) ne s’applique pas aux prestations viagères assurées à un particulier pour des périodes de services validables d’une année civile donnée, si l’une des situations suivantes existe :
+- **(7)** La condition énoncée au paragraphe (6) ne s’applique pas aux prestations viagères assurées à un particulier pour des périodes de services validables d’une année civile donnée, si l’une des situations suivantes existe :
 	- **a)** avant le 8 juin 1990, une période de l’année donnée constituait une période de services validables du particulier dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé;
 	- **b)** le 7 juin 1990, le particulier avait droit, en conformité avec une convention écrite, à des prestations viagères aux termes de la disposition à prestations déterminées d’un régime de pension agréé pour une période de l’année donnée, que ce droit ait été ou non conditionnel au versement par le particulier de cotisations aux termes de la disposition;
 	- **c)** au début de l’année donnée, une période faisant partie d’une année antérieure était une période de services validables du particulier dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé, et le particulier n’a pas, en raison d’une invalidité ou d’un congé, rendu de services au cours de l’année donnée à un employeur qui participait au régime pour son compte;
@@ -16395,9 +16746,9 @@ où
 #### Dispositions à prestations déterminées liées
 
 
-- **(9)** Pour l’application du paragraphe (8), une disposition à prestations déterminées est liée à une semblable disposition donnée si :
+- **(9)** Pour l’application du paragraphe (8), une disposition à prestations déterminées est liée à une semblable disposition donnée si :
 	- **a)** les dispositions font partie du même régime;
-	- **b)** les dispositions font partie de régimes distincts mais, selon le cas :
+	- **b)** les dispositions font partie de régimes distincts mais, selon le cas :
 		- **(i)** un employeur donné participe aux deux régimes,
 		- **(ii)** un employeur qui participe à l’un des régimes a un lien de dépendance avec un employeur qui participe à l’autre,
 		- **(iii)** un particulier se voit assurer des prestations aux termes des deux dispositions, et ce particulier ou une personne avec laquelle il a un lien de dépendance peut déterminer les prestations qui sont assurées aux termes de la disposition donnée.
@@ -16406,11 +16757,11 @@ Toutefois, les dispositions ne sont pas liées s’il n’est pas raisonnable de
 #### Prestations exclues
 
 
-- **(10)** Pour déterminer si les prestations viagères prévues par la disposition à prestations déterminées d’un régime de pension sont conformes aux conditions énoncées au paragraphe (1), il n’est pas tenu compte des prestations suivantes :
+- **(10)** Pour déterminer si les prestations viagères prévues par la disposition à prestations déterminées d’un régime de pension sont conformes aux conditions énoncées au paragraphe (1), il n’est pas tenu compte des prestations suivantes :
 	- **a)** les prestations viagères supplémentaires payables à un participant en raison du fait qu’il a une invalidité totale et permanente au début du versement des prestations de retraite;
 	- **b)** les prestations viagères supplémentaires payables à un participant qui commence à recevoir des prestations de retraite après qu’il a atteint 65 ans, si elles découlent d’un rajustement apporté en vue de compenser, en tout ou en partie, la diminution de la valeur des prestations viagères qu’entraînerait par ailleurs le report de celles-ci jusqu’à un moment postérieur au jour où le participant atteint 65 ans et si le rajustement n’est pas plus favorable qu’un semblable rajustement apporté selon une méthode équivalente sur le plan actuariel.
 
-- **(11)** Pour déterminer si les prestations de retraite prévues par la disposition à prestations déterminées d’un régime de pension sont conformes aux conditions énoncées au paragraphe (5), il n’est pas tenu compte des prestations suivantes :
+- **(11)** Pour déterminer si les prestations de retraite prévues par la disposition à prestations déterminées d’un régime de pension sont conformes aux conditions énoncées au paragraphe (5), il n’est pas tenu compte des prestations suivantes :
 	- **a)** les prestations viagères supplémentaires visées à l’alinéa (10)a);
 	- **b)** les prestations de raccordement payables par suite du choix d’un participant, à condition que, sans être plus favorables sur le plan actuariel, elles soient prévues en remplacement de la totalité ou d’une partie des prestations qui seraient payables par ailleurs au participant aux termes de la disposition.
 
@@ -16424,7 +16775,7 @@ Toutefois, les dispositions ne sont pas liées s’il n’est pas raisonnable de
 - **(14)** Les prestations de retraite assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes à la condition énoncée à l’alinéa (5)b) dans le cas où elles le seraient si le rapport déterminé au sous-alinéa (5)b)(ii) était remplacé par une mesure à peu près semblable de la variation de l’indice des prix à la consommation.
 
 - **(15)** Les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes à la condition énoncée au paragraphe (6) dans le cas où elles le seraient si l’élément C de la formule figurant à l’alinéa (6)b) était remplacé par une mesure à peu près semblable de la variation de l’indice des prix à la consommation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 7; 2007, ch. 35, art. 84.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 7; 2007, ch. 35, art. 84; 2013, ch. 34, art. 409.
 
 
 
@@ -17166,7 +17517,7 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 
 **8514** 
 
-- **(1)** Pour l’application du sous-alinéa 8502h)(i) et sous réserve des paragraphes (2), (2.1) et (3), sont des placements interdits, dans le cadre d’un régime de pension agréé, les actions du capital-actions ou les créances des personnes suivantes ou les participations dans celles-ci :
+- **(1)** Pour l’application du sous-alinéa 8502h)(i) et sous réserve des paragraphes (2), (2.1) et (3), sont des placements interdits, dans le cadre d’un régime de pension agréé, les actions du capital-actions ou les créances des personnes suivantes ou les participations dans celles-ci :
 	- **a)** un employeur qui participe au régime,
 	- **b)** une personne rattachée à un tel employeur,
 	- **c)** un participant au régime,
@@ -17174,31 +17525,31 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 	- **e)** une personne ou une société de personnes qui a un lien de dépendance avec une personne ou une société de personnes visée aux alinéas a) à d),
 ou les droits dans ces actions, créances ou participations ou les droits de les acquérir.
 
-- **(2)** Ne sont pas des placements interdits :
+- **(2)** Ne sont pas des placements interdits :
 	- **a)** les titres de créance visés à l’alinéa a) de la définition de ***intérêts entièrement exonérés*** au paragraphe 212(3) de la Loi;
 	- **b)** les actions cotées à une bourse de valeurs désignée;
 	- **c)** les obligations, les billets ou des titres semblables d’une société dont des actions sont cotées à une bourse de valeurs désignée;
 	- **d)** les droits dans des biens visés aux alinéas b) ou c) ou les droits de les acquérir;
-	- **e)** les hypothèques sur les biens immeubles situés au Canada qui, à la fois :
+	- **e)** les hypothèques sur les biens immeubles situés au Canada qui, à la fois :
 		- **(i)** sont assurées conformément à la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou par une société qui offre au public au Canada des services d’assureur d’hypothèques, si le ministre n’a pas renoncé à appliquer la présente condition et si le total du montant payé pour l’hypothèque et du montant de toute somme impayée au moment où l’hypothèque est acquise aux termes d’une hypothèque de rang égal ou supérieur à l’hypothèque en question dépasse 75 pour cent de la juste valeur marchande, à ce moment, des biens immeubles visés par celle-ci,
 		- **(ii)** sont administrées par un prêteur agréé conformément à la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md), si le régime de pension agréé pour lequel l’hypothèque est détenue est un régime désigné pour l’application du paragraphe 8515(5), abstraction faite du sous-alinéa 8515(4)b),
 		- **(iii)** portent intérêt à un taux qui serait justifié dans les circonstances si le débiteur hypothécaire n’avait pas de lien de dépendance avec le créancier hypothécaire.
 
-- **(2.1)** L’action du capital-actions ou la créance d’une personne rattachée à un employeur donné qui participe à un régime de pension agréé qui est un régime interentreprises, ou la participation dans une telle personne, qui serait un placement interdit dans le cadre du régime si ce n’était le présent paragraphe n’est pas un tel placement dans ce cadre si les conditions suivantes sont réunies :
-	- **a)** le régime ne comporte pas de disposition à cotisations déterminées;
-	- **b)** au moment de l’acquisition du bien par le régime, celui-ci compte au moins 15 employeurs participants et, à cette fin :
+- **(2.1)** L’action du capital-actions ou la créance d’une personne rattachée à un employeur donné qui participe à un régime de pension agréé qui est un régime interentreprises, ou la participation dans une telle personne, qui serait un placement interdit dans le cadre du régime si ce n’était le présent paragraphe n’est pas un tel placement dans ce cadre si les conditions suivantes sont réunies :
+	- **a)** le régime ne comporte pas de disposition à cotisations déterminées autre que celle dans le cadre de laquelle est portée au crédit de chaque compte de participant, de façon raisonnable et au moins une fois par année, une somme fondée sur le revenu gagné, les pertes subies et les gains en capital et pertes en capital réalisés sur l’ensemble des biens détenus par le régime;
+	- **b)** au moment de l’acquisition du bien par le régime, celui-ci compte au moins 15 employeurs participants et, à cette fin :
 		- **(i)** les employeurs qui sont liés les uns aux autres sont réputés être un seul employeur,
 		- **(ii)** les éléments constitutifs d’un syndicat, notamment ses sections locales, divisions, unités nationales ou internationales, sont réputés être un seul employeur;
-	- **c)** au moment de l’acquisition du bien par le régime, au plus 10 % des participants actifs du régime sont au service de l’employeur donné ou d’une personne qui lui est liée;
+	- **c)** au moment de l’acquisition du bien par le régime, au plus 10 % des participants actifs du régime sont au service de l’employeur donné ou d’une personne qui lui est liée;
 	- **d)** le bien ne serait pas un placement interdit dans le cadre du régime si le paragraphe (1) s’appliquait compte non tenu de son alinéa b);
-	- **e)** immédiatement après l’acquisition du bien par le régime, le total des montants représentant chacun le coût indiqué, pour une personne, d’un bien détenu dans le cadre du régime qui serait un placement interdit dans ce cadre si ce n’était le présent paragraphe n’excède pas 10 % du total des montants représentant chacun le coût indiqué, pour une personne, d’un bien détenu dans le cadre du régime.
+	- **e)** immédiatement après l’acquisition du bien par le régime, le total des montants représentant chacun le coût indiqué, pour une personne, d’un bien détenu dans le cadre du régime qui serait un placement interdit dans ce cadre si ce n’était le présent paragraphe n’excède pas 10 % du total des montants représentant chacun le coût indiqué, pour une personne, d’un bien détenu dans le cadre du régime.
 
 - **(2.2)** Pour l’application des conditions énoncées aux alinéas (2.1)b) et c), les sociétés qui sont liées l’une à l’autre du seul fait qu’elles sont toutes deux contrôlées par Sa Majesté du chef du Canada ou d’une province sont réputées ne pas être liées l’une à l’autre.
 
 - **(3)** Ne sont pas des placements interdits dans le cadre d’un régime de pension agréé les placements acquis par le régime avant le 28 mars 1988.
 
 - **(4)** Pour l’application du paragraphe (3), lorsque, à un moment donné après le 27 mars 1988, le principal d’une obligation, d’un billet, d’une hypothèque ou d’un autre titre semblable augmente par suite de l’avance ou du prêt de montants supplémentaires ou lorsque l’échéance d’un tel titre est reportée après ce moment, le titre est réputé, après ce moment, avoir été émis à ce moment.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 62, 78(F) et 79(F); DORS/2001-67, art. 9; 2007, ch. 35, art. 86.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 62, 78(F) et 79(F); DORS/2001-67, art. 9; 2007, ch. 35, art. 86; 2013, ch. 34, art. 410.
 
 
 
@@ -17694,22 +18045,22 @@ le montant des prestations viagères du particulier aux termes de la disposition
 
 **8600** Les définitions qui suivent s’appliquent à la présente partie et à la partie I.3 de la Loi.
 
-***actif canadien*** S’entend, à l’égard d’une société qui est une institution financière, au sens du paragraphe 181(1) de la Loi à un moment d’une année d’imposition, de l’excédent éventuel, pour cette année, du montant suivant :
+***actif canadien*** S’entend, à l’égard d’une société qui est une institution financière, au sens du paragraphe 181(1) de la Loi à un moment d’une année d’imposition, de l’excédent éventuel, pour cette année, du montant suivant :
 - **a)** le total des montants dont chacun représente le montant, au titre d’un élément d’actif de cette société — qu’elle est tenue de déclarer en application du paragraphe 223(1) (si le relevé était établi sur une base non consolidée) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), dans sa version du 31 mai 1992, ou qu’elle serait ainsi tenue de déclarer si elle était une banque à laquelle cette loi s’applique —, qui figurerait à son bilan à la fin de l’année si celui-ci était dressé sur une base non consolidée,
 
-sur le total des montants suivants :
-- **b)** la déduction pour placements de la société pour l’année calculée selon le paragraphe 181.3(4) de la Loi;
-- **c)** le total des montants dont chacun représente le montant impayé à la fin de l’année au titre d’un dépôt, visé à l’alinéa c) de la définition de ***prêt admissible*** au paragraphe 33.1(1) de la Loi, fait par la société. (*Canadian assets*)
+sur :
+- **b)** la déduction pour placements de la société pour l’année calculée selon le paragraphe 181.3(4) de la Loi. (*Canadian assets*)
+- **c)** [Abrogé, 2013, ch. 33, art. 38]
 
-***actif total*** S’entend, à l’égard d’une société qui est une institution financière, au sens du paragraphe 181(1) de la Loi à un moment d’une année d’imposition, de l’excédent éventuel, pour cette année, du total visé à l’alinéa a) sur le montant visé à l’alinéa b) :
+***actif total*** S’entend, à l’égard d’une société qui est une institution financière, au sens du paragraphe 181(1) de la Loi à un moment d’une année d’imposition, de l’excédent éventuel, pour cette année, du total visé à l’alinéa a) sur le montant visé à l’alinéa b) :
 - **a)** le total des montants dont chacun représente le montant, au titre d’un élément d’actif de cette société, qui figurerait à son bilan à la fin de l’année si celui-ci était dressé sur une base non consolidée;
-- **b)** la déduction pour placements de la société pour l’année calculée selon le paragraphe 181.3(4) de la Loi. (*total assets*)
+- **b)** la déduction pour placements de la société pour l’année calculée selon le paragraphe 181.3(4) de la Loi. (*total assets*)
 
-***établissement stable*** S’entend au sens du paragraphe 400(2). (*permanent establishment*)
+***établissement stable*** S’entend au sens du paragraphe 400(2). (*permanent establishment*)
 
-***passif de réserve canadienne*** Quant à un assureur à la fin d’une année d’imposition, s’entend au sens du paragraphe 2400(1). (*Canadian reserve liabilities*)
+***passif de réserve canadienne*** Quant à un assureur à la fin d’une année d’imposition, s’entend au sens du paragraphe 2400(1). (*Canadian reserve liabilities*)
 
-***passif total de réserve*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
+***passif total de réserve*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
 ```
 A – B
 ```
@@ -17717,16 +18068,16 @@ où :
 - **A** représente le total à la fin de l’année du passif et des provisions de l’assureur, sauf ceux relatifs à un fonds réservé au sens du paragraphe 138(12) de la Loi, relatifs à ses polices d’assurance, déterminé pour les besoins du surintendant des institutions financières, dans le cas où l’assureur est tenu par la loi de faire rapport à ce surintendant, ou pour les besoins du surintendant des assurances ou d’un agent ou autorité semblable de la province sous le régime des lois de laquelle l’assureur est constitué, dans les autres cas;
 - **B** le total des montants à recouvrer au titre de la réassurance, au sens du paragraphe 2400(1), déclarés à titre d’actif au titre des cessions en réassurance par l’assureur à la fin de l’année relativement à ses passif et provisions visés à l’élément A. (*total reserve liabilities*)
 
-***primes canadiennes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total des primes nettes de la compagnie pour l’année relatives :
+***primes canadiennes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total des primes nettes de la compagnie pour l’année relatives :
 - **a)** à l’assurance sur des biens situés au Canada;
 - **b)** à toute assurance autre que celle sur des biens, découlant de contrats conclus avec des personnes qui résident au Canada.
 
 Pour l’application de la présente définition, ***primes nettes*** s’entend au sens du paragraphe 403(2), et la mention d’une province au paragraphe 403(3) vaut mention d’un pays. (*Canadian premiums*)
 
-***surplus attribué*** Quant à un assureur non-résident pour une année d’imposition, s’entend au sens du paragraphe 2400(1). (*attributed surplus*)
+***surplus attribué*** Quant à un assureur non-résident pour une année d’imposition, s’entend au sens du paragraphe 2400(1). (*attributed surplus*)
 
-***total des primes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total de celles de ses primes nettes pour l’année, au sens du paragraphe 403(2), qui sont incluses dans le calcul de son revenu fait en conformément à la partie I de la Loi. (*total premiums*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 57(F) et 79(F); DORS/2000-413, art. 8; 2010, ch. 25, art. 86.
+***total des primes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total de celles de ses primes nettes pour l’année, au sens du paragraphe 403(2), qui sont incluses dans le calcul de son revenu fait en conformément à la partie I de la Loi. (*total premiums*) 
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 57(F) et 79(F); DORS/2000-413, art. 8; 2010, ch. 25, art. 86; 2013, ch. 33, art. 38.
 
 
 
@@ -17760,57 +18111,25 @@ où
 
 
 
-**8603** Pour l’application de la partie VI de la Loi :
-- **a)** ***actif canadien*** s’entend, à l’égard d’une société qui est une institution financière au sens du paragraphe 190(1) de la Loi à un moment d’une année d’imposition, du montant pour cette année qui serait calculé selon la définition de ***actif canadien*** à l’article 8600 à l’égard de la société pour l’année, si le renvoi, dans cette définition, au paragraphe 181(1) était remplacé par un renvoi au paragraphe 190(1) et si l’alinéa b) de cette définition était remplacé par ce qui suit :
+**8603** Pour l’application de la partie VI de la Loi :
+- **a)** ***actif canadien*** s’entend, à l’égard d’une société qui est une institution financière au sens du paragraphe 190(1) de la Loi à un moment d’une année d’imposition, du montant pour cette année qui serait calculé selon la définition de ***actif canadien*** à l’article 8600 à l’égard de la société pour l’année, si le renvoi, dans cette définition, au paragraphe 181(1) était remplacé par un renvoi au paragraphe 190(1) et si l’alinéa b) de cette définition était remplacé par ce qui suit :
 
 - **« b)** le total calculé selon l’article 190.14 de la Loi relativement aux placements de la société pour l’année dans des institutions financières qui lui sont liées; »
 
 
-- **b)** ***actif total*** s’entend, à l’égard d’une société qui est une institution financière au sens du paragraphe 190(1) de la Loi à un moment d’une année d’imposition, du montant pour cette année qui serait calculé selon la définition de ***actif total*** à l’article 8600 à l’égard de la société pour l’année, si le renvoi, dans cette définition, au paragraphe 181(1) était remplacé par un renvoi au paragraphe 190(1) et si l’alinéa b) de cette définition était remplacé par ce qui suit :
+- **b)** ***actif total*** s’entend, à l’égard d’une société qui est une institution financière au sens du paragraphe 190(1) de la Loi à un moment d’une année d’imposition, du montant pour cette année qui serait calculé selon la définition de ***actif total*** à l’article 8600 à l’égard de la société pour l’année, si le renvoi, dans cette définition, au paragraphe 181(1) était remplacé par un renvoi au paragraphe 190(1) et si l’alinéa b) de cette définition était remplacé par ce qui suit :
 
 - **« b)** le total calculé selon l’article 190.14 de la Loi relativement aux placements de la société pour l’année dans des institutions financières qui lui sont liées. »
 
 
 - **c)** les expressions ***passif de réserve canadienne***, ***passif total de réserve*** et ***surplus attribué*** s’entendent au sens de l’article 8600.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 79(F); 2013, ch. 33, art. 39(A).
 
 
 
 
-**8604** Les sociétés visées pour l’application de l’alinéa g) de la définition de ***institution financière*** au paragraphe 181(1) de la Loi sont les suivantes :
-- **a)** la société dont la totalité, ou presque, des éléments d’actif sont des actions d’institutions financières, au sens de ce paragraphe, auxquelles elle est liée ou des créances sur celles-ci;
-- **b)** Services financiers AVCO Canada Limitée;
-- **c)** Services financiers immobiliers AVCO Limitée;
-- **d)** Services financiers AVCO Québec Limitée;
-- **e)** General Motors Acceptance Corporation du Canada, Limitée;
-- **f)** Corporation financière Household Limitée;
-- **g)** La Compagnie de finance Household du Canada;
-- **h)** Les Immeubles Household Limitée;
-- **i)** Services aux marchands détaillants Limitée;
-- **j)** Société financière Superior Limitée;
-- **k)** Société de crédit Superior Limitée;
-- **l)** Crédit Industriel Desjardins;
-- **m)** Beneficial Canada Inc.;
-- **n)** Les Immeubles Beneficial Limitée;
-- **o)** RT Mortgage-Backed Securities Limited;
-- **p)** RT Mortgage-Backed Securities II Limited;
-- **q)** Société de crédit T. Eaton Limitée;
-- **r)** Société de services de crédit aux détaillants nationale Limitée;
-- **s)** Crédit Ford du Canada Limitée;
-- **t)** Le Fonds principal incorporé;
-- **u)** Financement agricole Canada;
-- **v)** Canadian Cooperative Agricultural Financial Services;
-- **w)** CU Credit Inc.;
-- **x)** Société Commerciale Household du Canada Inc.;
-- **y)** Canadian Home Income Plan Corporation;
-- **z)** Société de financement des ventes Compagnie de la Baie d’Hudson Limitée;
-- **z.1)** Bombardier Capital Ltée;
-- **z.2)** La Corporation Crédit Trans Canada;
-- **z.3)** Norwest Financial Canada, Inc.;
-- **z.4)** Norwest Financial Capital Canada, Inc.;
-- **z.5)** GE Capital Canada Limitée;
-- **z.6)** GE Capital Canada Compagnie de Services financiers aux détaillants.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 79(F); DORS/98-571, art. 1; 2001, ch. 22, art. 22.
+**8604** [Abrogé, 2013, ch. 34, art. 411]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 79(F); DORS/98-571, art. 1; 2001, ch. 22, art. 22; 2013, ch. 34, art. 411.
 
 
 
@@ -17946,12 +18265,8 @@ sur le total des montants représentant chacun :
 
 
 
-
-### Société de personnes
-
-
-**8901** Pour l’application de l’alinéa 249.1(1)b) de la Loi, la Société en commandite Gaz Métropolitain est une société de personnes visée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2003-83, art. 2.
+**8901** [Abrogé, 2013, ch. 34, art. 412]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2003-83, art. 2; 2013, ch. 34, art. 412.
 
 
 
@@ -20829,7 +21144,7 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-**(iii)** soit après le 18 mars 2007 et avant 2014, qui sont des machines ou du matériel à l’égard desquels les conditions ci-après sont réunies :
+**(iii)** soit après le 18 mars 2007 et avant 2016, qui sont des machines ou du matériel à l’égard desquels les conditions ci-après sont réunies :
 
 **(A)** ils seraient visés à l’alinéa a) en l’absence du passage « de ses activités de traitement préliminaire au Canada ou » au sous-alinéa a)(ii),
 
@@ -20842,7 +21157,7 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5; DORS/2009-126, art. 8; 2011, ch. 24, art. 100..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5; DORS/2009-126, art. 8; 2011, ch. 24, art. 100; 2013, ch. 33, art. 40..
 
 
 
