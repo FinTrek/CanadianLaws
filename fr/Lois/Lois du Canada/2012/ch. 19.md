@@ -3100,9 +3100,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Remise de documents**
 
-**495** Le président du Centre remet les éléments ci-après — notamment toute version électronique de ceux-ci — au ministère des Affaires étrangères et du Commerce international :
+**495** Le président du Centre remet les éléments ci-après — notamment toute version électronique de ceux-ci — au ministère des Affaires étrangères, du Commerce et du Développement :
 - **a)** les documents comptables ainsi que les renseignements que le Centre a recueillis dans le but de les produire;
 - **b)** les études relevant du Centre, ainsi que les autres renseignements qu’il a recueillis dans le cadre de recherches.
+> 2012, ch. 19, art. 495; 2013, ch. 33, art. 195.
+
 
 
 
