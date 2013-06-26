@@ -58,7 +58,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***civil society organization*** means a not-for-profit or charitable organization whose governing structure is independent of government direction, and includes, but is not limited to, registered charities, non-governmental development organizations, community groups, women’s organizations, faith-based organizations, professional associations, trade unions, self-help groups, social movements, business associations, coalitions, human rights organizations and advocacy groups. (*organisme de la société civile*)
 
-***competent minister*** means the Minister of International Cooperation, the Minister of Finance, the Minister of Foreign Affairs or any other minister who is providing official development assistance. (*ministre compétent*)
+***competent minister*** means the Minister for International Development, the Minister of Finance, the Minister of Foreign Affairs or any other minister who is providing official development assistance. (*ministre compétent*)
 
 ***democracy*** includes, but is not limited to, political and civil rights as defined by the International Covenant on Civil and Political Rights. (*démocratie*)
 
@@ -68,11 +68,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***international human rights standards*** means standards that are based on international human rights conventions to which Canada is a party and on international customary law. (*normes internationales en matière de droits de la personne*)
 
-***Minister*** means the Minister of International Cooperation or any other minister designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
+***Minister*** means the Minister for International Development or any other minister designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
 
 ***official development assistance*** means international assistance
 - **(a)** that is administered with the principal objective of promoting the economic development and welfare of developing countries, that is concessional in character, that conveys a grant element of at least 25%, and that meets the requirements set out in section 4; or
 - **(b)** that is provided for the purpose of alleviating the effects of a natural or artificial disaster or other emergency occurring outside Canada. (*aide au développement officielle*)
+> 2008, c. 17, s. 3; 2013, c. 33, s. 196.
+
 
 
 
@@ -120,9 +122,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The Minister or the competent minister shall cause to be submitted to each House of Parliament, within six months after the termination of each fiscal year or, if that House is not then sitting, on any of the first five days next thereafter that the House is sitting, a report containing
 	- **(a)** the total amount spent by the Government of Canada on official development assistance in the previous fiscal year;
 	- **(b)** a summary of any activity or initiative taken under this Act;
-	- **(c)** a summary of the annual report submitted under the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md);
-	- **(d)** a summary of any representation made by Canadian representatives with respect to priorities and policies of the Bretton Woods Institutions; and
-	- **(e)** a summary of the Departmental Performance Report of the Canadian International Development Agency.
+	- **(c)** a summary of the annual report submitted under the [Bretton Woods and Related Agreements Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-7.md); and
+	- **(d)** a summary of any representation made by Canadian representatives with respect to priorities and policies of the Bretton Woods Institutions.
+	- **(e)** [Repealed, 2013, c. 33, s. 193]
 
 **Statistical report**
 
@@ -137,6 +139,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Information not to be disclosed**
 
 - **(4)** Despite subsections (1) and (3), information shall not be reported under this section if its disclosure is prohibited by the policies of the Bretton Woods Institutions.
+> 2008, c. 17, s. 5; 2013, c. 33, s. 193.
+
 
 
 
