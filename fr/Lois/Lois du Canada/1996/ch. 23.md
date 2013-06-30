@@ -556,15 +556,15 @@ plus de 13 %
 
 **8** 
 
-- **(1)** Sous réserve des paragraphes (2) à (7), la période de référence d’un assuré est la plus courte des périodes suivantes :
+- **(1)** Sous réserve des paragraphes (2) à (7), la période de référence d’un assuré est la plus courte des périodes suivantes :
 	- **a)** la période de cinquante-deux semaines qui précède le début d’une période de prestations prévue au paragraphe 10(1);
 	- **b)** la période qui débute en même temps que la période de prestations précédente et se termine à la fin de la semaine précédant le début d’une période de prestations prévue au paragraphe 10(1).
 
 **Prolongation de la période de référence**
 
-- **(2)** Lorsqu’une personne prouve, de la manière que la Commission peut ordonner, qu’au cours d’une période de référence visée à l’alinéa (1)a) elle n’a pas exercé, pendant une ou plusieurs semaines, un emploi assurable pour l’une ou l’autre des raisons ci-après, cette période de référence est prolongée d’un nombre équivalent de semaines :
+- **(2)** Lorsqu’une personne prouve, de la manière que la Commission peut ordonner, qu’au cours d’une période de référence visée à l’alinéa (1)a) elle n’a pas exercé, pendant une ou plusieurs semaines, un emploi assurable pour l’une ou l’autre des raisons ci-après, cette période de référence est prolongée d’un nombre équivalent de semaines :
 	- **a)** elle était incapable de travailler par suite d’une maladie, d’une blessure, d’une mise en quarantaine ou d’une grossesse prévue par règlement;
-	- **b)** elle était détenue dans une prison, un pénitencier ou une autre institution de même nature;
+	- **b)** elle était détenue dans une prison, un pénitencier ou une autre institution de même nature et n’a pas été déclarée coupable de l’infraction pour laquelle elle était détenue ni de toute autre infraction se rapportant à la même affaire;
 	- **c)** elle recevait de l’aide dans le cadre d’une prestation d’emploi;
 	- **d)** elle touchait des indemnités en vertu d’une loi provinciale du fait qu’elle avait cessé de travailler parce que la continuation de son travail la mettait en danger ou mettait en danger son enfant à naître ou l’enfant qu’elle allaitait.
 
@@ -574,7 +574,7 @@ plus de 13 %
 
 **Autre prolongation de la période de référence**
 
-- **(4)** La période de référence en cause est de nouveau prolongée d’un nombre équivalent de semaines lorsqu’une personne prouve, de la manière que la Commission peut ordonner, que :
+- **(4)** La période de référence en cause est de nouveau prolongée d’un nombre équivalent de semaines lorsqu’une personne prouve, de la manière que la Commission peut ordonner, que :
 	- **a)** au cours de la prolongation d’une période de référence visée au paragraphe (2), elle n’a pas exercé, pendant une ou plusieurs semaines, un emploi assurable pour l’une des raisons énoncées à ce paragraphe;
 	- **b)** au cours de la prolongation d’une période de référence visée au paragraphe (3), elle a touché, pendant une ou plusieurs semaines, une rémunération en raison de la rupture de tout lien avec son ancien employeur.
 
@@ -589,6 +589,8 @@ plus de 13 %
 **Prolongation maximale**
 
 - **(7)** Il n’est accordé, en application des paragraphes (2) à (4), aucune prolongation qui aurait pour effet de porter la durée d’une période de référence à plus de cent quatre semaines.
+> 1996, ch. 23, art. 8; 2013, ch. 35, art. 1.
+
 
 
 
@@ -608,7 +610,7 @@ plus de 13 %
 
 **10** 
 
-- **(1)** La période de prestations débute, selon le cas :
+- **(1)** La période de prestations débute, selon le cas :
 	- **a)** le dimanche de la semaine au cours de laquelle survient l’arrêt de rémunération;
 	- **b)** le dimanche de la semaine au cours de laquelle est formulée la demande initiale de prestations, si cette semaine est postérieure à celle de l’arrêt de rémunération.
 
@@ -644,9 +646,9 @@ plus de 13 %
 
 **Annulation de la période de prestations**
 
-- **(6)** Lorsqu’une période de prestations a été établie au profit d’un prestataire, la Commission peut :
+- **(6)** Lorsqu’une période de prestations a été établie au profit d’un prestataire, la Commission peut :
 	- **a)** annuler cette période si elle est terminée et si aucune prestation n’a été payée, ou ne devait l’être, pendant cette période;
-	- **b)** à la demande du prestataire, que la période soit ou non terminée, annuler la partie de cette période qui précède la première semaine à l’égard de laquelle des prestations ont été payées ou devaient l’être si :
+	- **b)** à la demande du prestataire, que la période soit ou non terminée, annuler la partie de cette période qui précède la première semaine à l’égard de laquelle des prestations ont été payées ou devaient l’être si :
 		- **(i)** d’une part, une nouvelle période de prestations, commençant cette semaine-là, est, si ce prestataire est un assuré, établie à son profit au titre de la présente partie ou est, si ce prestataire est un travailleur indépendant au sens du paragraphe 152.01(1), établie à son profit au titre de la partie VII.1;
 		- **(ii)** d’autre part, le prestataire démontre qu’il avait, durant toute la période écoulée entre la date à laquelle des prestations lui ont été payées ou devaient l’être et la date de sa demande d’annulation, un motif valable justifiant son retard.
 
@@ -656,11 +658,11 @@ plus de 13 %
 
 **Fin de la période**
 
-- **(8)** La période de prestations prend fin à la date de la première des éventualités suivantes à survenir :
+- **(8)** La période de prestations prend fin à la date de la première des éventualités suivantes à survenir :
 	- **a)** le prestataire n’a plus droit à des prestations au cours de sa période de prestations, notamment parce qu’elles lui ont été versées pour le nombre maximal de semaines prévu à l’article 12;
 	- **b)** la période se trouverait autrement terminée au titre du présent article;
 	- **c)** [Abrogé, 2002, ch. 9, art. 12]
-	- **d)** le prestataire, à la fois :
+	- **d)** le prestataire, à la fois :
 		- **(i)** demande de mettre fin à une période de prestations établie à son profit,
 		- **(ii)** formule une nouvelle demande initiale de prestations au titre de la présente partie ou de la partie VII.1,
 		- **(iii)** remplit les conditions qui lui donnent droit aux prestations prévues par la présente partie, dans le cas où il est un assuré, ou par la partie VII.1, dans le cas où il est un travailleur indépendant au sens du paragraphe 152.01(1).
@@ -671,8 +673,8 @@ plus de 13 %
 
 **Prolongation de la période de prestations**
 
-- **(10)** La période de prestations qui a été établie au profit d’un prestataire est prolongée du nombre de semaines à l’égard desquelles le prestataire prouve, de la manière que la Commission peut ordonner, qu’il n’avait pas droit à des prestations parce que, selon le cas :
-	- **a)** il était détenu dans une prison, un pénitencier ou un autre établissement semblable;
+- **(10)** La période de prestations qui a été établie au profit d’un prestataire est prolongée du nombre de semaines à l’égard desquelles le prestataire prouve, de la manière que la Commission peut ordonner, qu’il n’avait pas droit à des prestations parce que, selon le cas :
+	- **a)** il était détenu dans une prison, un pénitencier ou un autre établissement semblable et n’a pas été déclaré coupable de l’infraction pour laquelle il était détenu ni de toute autre infraction se rapportant à la même affaire;
 	- **b)** il touchait une rémunération versée en raison de la rupture de tout lien avec son ancien employeur;
 	- **c)** il touchait l’indemnité prévue pour un accident du travail ou une maladie professionnelle;
 	- **d)** il touchait des indemnités en vertu d’une loi provinciale du fait qu’il avait cessé de travailler parce que la continuation de son travail le mettait en danger ou, dans le cas d’une prestataire, mettait en danger son enfant à naître ou l’enfant qu’elle allaitait.
@@ -702,7 +704,7 @@ plus de 13 %
 **Prolongation visée au paragraphe (13) : durée maximale**
 
 - **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12.1), aucune prolongation au titre du paragraphe (13) ne peut avoir pour effet de porter la durée de la période de prestations à plus de la somme de deux semaines et du total du nombre maximal de semaines de prestations prévu au paragraphe 12(3) pour les prestations qui ont été versées pour une des raisons prévues aux alinéas 12(3)a) à e) pendant la période de prestations du prestataire avant la prolongation visée au paragraphe (13).
-> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2; 2012, ch. 27, art. 13.
+> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2; 2012, ch. 27, art. 13; 2013, ch. 35, art. 2.
 
 
 
@@ -4746,7 +4748,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Prolongation de la période de prestations**
 
 - **(11)** La période de prestations qui a été établie au profit d’un travailleur indépendant est prolongée du nombre de semaines à l’égard desquelles celui-ci prouve, de la manière que la Commission peut ordonner, qu’il n’avait pas droit à des prestations parce que, selon le cas :
-	- **a)** il était détenu dans une prison, un pénitencier ou un autre établissement semblable;
+	- **a)** il était détenu dans une prison, un pénitencier ou un autre établissement semblable et n’a pas été déclaré coupable de l’infraction pour laquelle il était détenu ni de toute autre infraction se rapportant à la même affaire;
 	- **b)** il touchait une rémunération versée en raison de la rupture de tout lien avec son ancien employeur;
 	- **c)** il touchait l’indemnité prévue pour un accident du travail ou une maladie professionnelle;
 	- **d)** il touchait des indemnités en vertu d’une loi provinciale du fait qu’il avait cessé de travailler parce que la continuation de son travail le mettait en danger ou, dans le cas d’une travailleuse indépendante, mettait en danger son enfant à naître ou l’enfant qu’elle allaitait.
@@ -4772,7 +4774,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 - **(16)** À moins que la période de prestations ne soit prolongée au titre de l’un des paragraphes (11) à (13), aucune prolongation au titre du paragraphe (14) ne peut avoir pour effet de porter la durée de la période de prestations à plus de la somme de deux semaines et du total du nombre maximal de semaines de prestations prévu au paragraphe 152.14(1) pour les prestations qui ont été versées pour une des raisons prévues aux alinéas 152.14(1)a) à e) pendant la période de prestations du travailleur indépendant avant la prolongation visée au paragraphe (14).
 
 - **(17) à (19)** [Abrogés, 2012, ch. 27, art. 24]
-> 2009, ch. 33, art. 16; 2012, ch. 27, art. 24.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 24; 2013, ch. 35, art. 3.
 
 
 
