@@ -573,7 +573,7 @@ by
 
 - **(2)** A qualifying period mentioned in paragraph (1)(a) is extended by the aggregate of any weeks during the qualifying period for which the person proves, in such manner as the Commission may direct, that throughout the week the person was not employed in insurable employment because the person was
 	- **(a)** incapable of work because of a prescribed illness, injury, quarantine or pregnancy;
-	- **(b)** confined in a jail, penitentiary or other similar institution;
+	- **(b)** confined in a jail, penitentiary or other similar institution and was not found guilty of the offence for which the person was being held or any other offence arising out of the same transaction;
 	- **(c)** receiving assistance under employment benefits; or
 	- **(d)** receiving payments under a provincial law on the basis of having ceased to work because continuing to work would have resulted in danger to the person, her unborn child or a child whom she was breast-feeding.
 
@@ -600,6 +600,8 @@ by
 **Maximum extension of qualifying period**
 
 - **(7)** No extension under any of subsections (2) to (4) may result in a qualifying period of more than 104 weeks.
+> 1996, c. 23, s. 8; 2013, c. 35, s. 1.
+
 
 
 
@@ -683,7 +685,7 @@ by
 **Extension of benefit period**
 
 - **(10)** A claimant’s benefit period is extended by the aggregate of any weeks during the benefit period for which the claimant proves, in such manner as the Commission may direct, that the claimant was not entitled to benefits because the claimant was
-	- **(a)** confined in a jail, penitentiary or other similar institution;
+	- **(a)** confined in a jail, penitentiary or other similar institution and was not found guilty of the offence for which the claimant was being held or any other offence arising out of the same transaction;
 	- **(b)** in receipt of earnings paid because of the complete severance of their relationship with their former employer;
 	- **(c)** in receipt of workers’ compensation payments for an illness or injury; or
 	- **(d)** in receipt of payments under a provincial law on the basis of having ceased to work because continuing to work would have resulted in danger to the claimant, her unborn child or a child whom she was breast-feeding.
@@ -717,7 +719,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Maximum extension under subsection (13)**
 
 - **(15)** Unless the benefit period is also extended under any of subsections (10) to (12.1), an extension under subsection (13) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 12(3) for each of the benefits paid to the claimant for one of the reasons mentioned in paragraphs 12(3)(a) to (e) during the claimant’s benefit period before it was extended under subsection (13).
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5; 2010, c. 9, s. 2; 2012, c. 27, s. 13.
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5; 2010, c. 9, s. 2; 2012, c. 27, s. 13; 2013, c. 35, s. 2.
 
 
 
@@ -4879,7 +4881,7 @@ and
 **Extension of benefit period**
 
 - **(11)** A self-employed person’s benefit period is extended by the aggregate of any weeks during the benefit period for which the self-employed person proves, in the manner that the Commission may direct, that they were not entitled to benefits because they were
-	- **(a)** confined in a jail, penitentiary or other similar institution;
+	- **(a)** confined in a jail, penitentiary or other similar institution and were not found guilty of the offence for which they were being held or any other offence arising out of the same transaction;
 	- **(b)** in receipt of earnings paid because of the complete severance of their relationship with their former employer;
 	- **(c)** in receipt of workers’ compensation payments for an illness or injury; or
 	- **(d)** in receipt of payments under a provincial law on the basis of having ceased to work because continuing to work would have resulted in danger to the self-employed person, her unborn child or a child whom she was breast-feeding.
@@ -4905,7 +4907,7 @@ and
 - **(16)** Unless the benefit period is also extended under any of subsections (11) to (13), an extension under subsection (14) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 152.14(1) for each of the benefits paid to the self-employed person for one of the reasons mentioned in paragraphs 152.14(1)(a) to (e) during the person’s benefit period before it was extended under subsection (14).
 
 - **(17) to (19)** [Repealed, 2012, c. 27, s. 24]
-> 2009, c. 33, s. 16; 2012, c. 27, s. 24.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 24; 2013, c. 35, s. 3.
 
 
 
