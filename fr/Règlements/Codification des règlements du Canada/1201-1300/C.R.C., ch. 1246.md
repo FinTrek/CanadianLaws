@@ -139,10 +139,10 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 ### Méthode pour arrondir le montant d’une pension mensuelle partielle
 
 
-**7** Lorsque le montant de la pension partielle visé au paragraphe 3(3) de la Loi contient une fraction d’un dollar représentée par trois chiffres ou plus :
+**7** Lorsque le montant de la pension partielle visé au paragraphe 3(3) de la Loi, majoré conformément au paragraphe 7.1(2) de la Loi, le cas échéant, contient une fraction de dollar représentée par trois chiffres ou plus :
 - **a)** si le troisième chiffre est inférieur à 5, on doit exclure le troisième chiffre et les chiffres subséquents; et
 - **b)** si le troisième chiffre est 5 ou un chiffre supérieur, on doit augmenter le deuxième chiffre de 1 et exclure le troisième chiffre et les chiffres subséquents.
-> DORS/90-813, art. 4.
+> DORS/90-813, art. 4; DORS/2013-23, art. 3.
 
 
 
@@ -159,14 +159,14 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 		- **(ii)** le produit de la multiplication du montant visé à l’alinéa 12(2)a) de la Loi par la fraction visée à l’alinéa 12(2)b) de la Loi;
 	- **b)** les proportions mentionnées à l’alinéa a) doivent être exprimées en fractions décimales conformément au paragraphe (3).
 
-- **(2)** Lorsque le produit mentionné à l’alinéa (1)a) renferme une fraction de dollar exprimée par trois chiffres ou plus,
+- **(2)** Lorsque le produit visé au sous-alinéa (1)a)(i), majoré conformément au paragraphe 7.1(1) de la Loi, le cas échéant, ou le produit visé au sous-alinéa (1)a)(ii) renferme une fraction de dollar exprimée par trois chiffres ou plus :
 	- **a)** si le troisième chiffre est inférieur à 5, ledit chiffre et les chiffres suivants doivent être supprimés; et
 	- **b)** si le troisième chiffre est 5 ou supérieur à 5, le deuxième chiffre doit être augmenté de 1 et le troisième chiffre et les chiffres suivants doivent être supprimés.
 
 - **(3)** Lorsque les proportions mentionnées à l’alinéa (1)a) renferment une fraction inférieure à 1, ladite fraction doit être exprimée sous forme de fraction décimale de quatre chiffres après le point décimal, et
 	- **a)** lorsque le quatrième chiffre après le point décimal est inférieur à 5, ledit chiffre après le point décimal doit être supprimé; et
 	- **b)** lorsque le quatrième chiffre après le point décimal est 5 ou supérieur à 5, le troisième chiffre après le point décimal doit être augmenté de 1 et le quatrième chiffre après le point décimal doit être supprimé.
-> DORS/90-813, art. 5.
+> DORS/90-813, art. 5; DORS/2013-23, art. 4.
 
 
 
