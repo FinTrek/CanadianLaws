@@ -7423,6 +7423,24 @@ where
 
 
 
+**Prohibition**
+
+**380.1** 
+
+- **(1)** It is prohibited for an association to issue a debt obligation in relation to which the amounts of principal and interest owing are guaranteed to be paid from loans or other assets held by an entity that is created and organized for the principal purpose of holding those loans or other assets and with the intention of legally isolating those loans or other assets from the association, unless
+	- **(a)** the debt obligation is a covered bond as defined in section 21.5 of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md);
+	- **(b)** the association is a registered issuer as defined in section 21.5 of that Act other than one whose right to issue covered bonds has been suspended; and
+	- **(c)** the debt obligation is issued under a registered program as defined in section 21.5 of that Act.
+
+**Exception**
+
+- **(2)** The Governor in Council may make regulations exempting any type of debt obligation from the application of subsection (1).
+> 2012, c. 19, s. 364.
+
+
+
+
+
 **Restriction on insurance business**
 
 **381** 
