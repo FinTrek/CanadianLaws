@@ -10289,6 +10289,24 @@ où :
 
 
 
+**Restriction : obligations sécurisées**
+
+**415.1** 
+
+- **(1)** Il est interdit à la banque d’émettre tout titre de créance dont le remboursement — en principal et en intérêts — est garanti par des prêts ou autres actifs détenus par une entité qui a été constituée principalement en vue de les détenir, et ce, dans le but de les isoler juridiquement de la banque, sauf si les conditions ci-après sont réunies :
+	- **a)** le titre de créance est une obligation sécurisée au sens de l’article 21.5 de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md);
+	- **b)** la banque est un émetteur inscrit au sens de l’article 21.5 de cette loi et son droit d’émettre des obligations sécurisées ne fait pas l’objet d’une suspension;
+	- **c)** l’émission est faite dans le cadre d’un programme inscrit au sens de l’article 21.5 de cette loi.
+
+**Exception**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements exemptant tout type de titre de créance de l’application du paragraphe (1).
+> 2012, ch. 19, art. 362.
+
+
+
+
+
 **Restriction : assurances**
 
 **416** 
