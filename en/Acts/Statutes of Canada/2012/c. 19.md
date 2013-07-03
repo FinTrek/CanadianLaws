@@ -647,7 +647,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind6241_hq_12855'>[*]</a></sup>**(2)** Sections 86 to 88, 91 and 98 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6241_hq_12855'><sup>*</sup></a>: [Note: Sections 86 to 88, 91 and 98 not in force.]<br />
+<a name='fn_Ind6241_hq_12855'><sup>*</sup></a>: [Note: Sections 86 to 88, 91 and 98 in force July 3, 2013, *see* SI/2013-69.]<br />
 
 
 
@@ -689,7 +689,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind628E_hq_12856'>[*]</a></sup>**121** Sections 116 to 119 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind628E_hq_12856'><sup>*</sup></a>: [Note: Sections 116 to 119 not in force.]<br />
+<a name='fn_Ind628E_hq_12856'><sup>*</sup></a>: [Note: Sections 116 to 119 in force July 3, 2013, *see* SI/2013-69.]<br />
 
 
 
@@ -747,7 +747,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind65D1_hq_12858'>[*]</a></sup>**131** Sections 122, 129 and 130 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind65D1_hq_12858'><sup>*</sup></a>: [Note: Sections 122, 129 and 130 not in force.]<br />
+<a name='fn_Ind65D1_hq_12858'><sup>*</sup></a>: [Note: Sections 122, 129 and 130 in force July 3, 2013, *see* SI/2013-69.]<br />
 
 
 
