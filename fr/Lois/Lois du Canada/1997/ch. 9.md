@@ -14,7 +14,7 @@ Sanctionnée sur le 20 mars 1997
 
 **Préambule**
 
-Attendu qu’il est essentiel :
+Attendu qu’il est essentiel :
 
 dans l’intérêt tant national qu’international, de réglementer le développement, la production et l’utilisation de l’énergie nucléaire, ainsi que la production, la possession et l’utilisation des substances nucléaires, de l’équipement réglementé et des renseignements réglementés;
 
@@ -22,7 +22,7 @@ dans l’intérêt national, d’appliquer de façon uniforme les normes nationa
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -48,19 +48,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***analyste*** Personne désignée à ce titre en vertu de l’article 28.
+***analyste*** Personne désignée à ce titre en vertu de l’article 28. (*analyst*)
 
-***Commission*** La Commission canadienne de sûreté nucléaire constituée par l’article 8.
+***Commission*** La Commission canadienne de sûreté nucléaire constituée par l’article 8. (*Commission*)
 
-***document*** S’entend au sens de l’article 3 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+***document*** S’entend au sens de l’article 3 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md). (*record*)
 
-***énergie nucléaire*** Toute forme d’énergie provenant de la fission ou de la fusion nucléaires ou de toute autre transmutation nucléaire.
+***énergie nucléaire*** Toute forme d’énergie provenant de la fission ou de la fusion nucléaires ou de toute autre transmutation nucléaire. (*nuclear energy*)
 
-***fonctionnaire désigné*** Personne désignée à ce titre en vertu de l’article 37.
+***fonctionnaire désigné*** Personne désignée à ce titre en vertu de l’article 37. (*designated officer*)
 
-***inspecteur*** Personne désignée à ce titre en vertu de l’article 29.
+***inspecteur*** Personne désignée à ce titre en vertu de l’article 29. (*inspector*)
 
-***installation nucléaire*** L’une des installations ci-après, y compris les terrains, les bâtiments, l’équipement utilisé dans le cadre de son exploitation et les systèmes de gestion, de stockage provisoire, d’évacuation et de stockage permanent des substances nucléaires :
+***installation nucléaire*** L’une des installations ci-après, y compris les terrains, les bâtiments, l’équipement utilisé dans le cadre de son exploitation et les systèmes de gestion, de stockage provisoire, d’évacuation et de stockage permanent des substances nucléaires :
 - **a)** un réacteur à fission ou à fusion nucléaires ou un assemblage nucléaire non divergent;
 - **b)** un accélérateur de particules;
 - **c)** une mine d’uranium ou de thorium ou une usine de concentration d’uranium ou de thorium;
@@ -69,17 +69,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** une usine qui traite ou utilise, par année civile, plus de 10<sup>15</sup> Bq de substances nucléaires autres que l’uranium, le thorium ou le plutonium;
 - **g)** une installation d’évacuation ou de stockage permanent des substances nucléaires provenant d’une autre installation nucléaire;
 - **h)** un véhicule muni d’un réacteur nucléaire;
-- **i)** les autres installations désignées par règlement servant au développement, à la production et à l’utilisation de l’énergie nucléaire ou à la production, à la possession ou à l’utilisation des substances nucléaires, de l’équipement réglementé ou des renseignements réglementés.
+- **i)** les autres installations désignées par règlement servant au développement, à la production et à l’utilisation de l’énergie nucléaire ou à la production, à la possession ou à l’utilisation des substances nucléaires, de l’équipement réglementé ou des renseignements réglementés. (*nuclear facility*)
 
- ou ***licence*** ou ***permis*** Licence ou permis délivrés en vertu de l’article 24.
+***licence*** ou ***permis*** Licence ou permis délivrés en vertu de l’article 24. (*licence*)
 
-***ministre*** Le ministre des Ressources naturelles ou le membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil désigne à titre de ministre chargé de l’application de la présente loi.
+***ministre*** Le ministre des Ressources naturelles ou le membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil désigne à titre de ministre chargé de l’application de la présente loi. (*Minister*)
 
-***rayonnement*** Émission par une substance nucléaire — ou production à l’aide d’une telle substance ou dans une installation nucléaire — d’une particule atomique ou subatomique ou d’une onde électromagnétique, si la particule ou l’onde a une énergie suffisante pour entraîner l’ionisation.
+***pénalité*** Sanction administrative pécuniaire infligée en vertu de la présente loi pour une violation. (*penalty*)
 
- ou ***réglementaire*** ou ***réglementé*** Prévu par les règlements de la Commission, à l’exclusion des règlements administratifs.
+***rayonnement*** Émission par une substance nucléaire — ou production à l’aide d’une telle substance ou dans une installation nucléaire — d’une particule atomique ou subatomique ou d’une onde électromagnétique, si la particule ou l’onde a une énergie suffisante pour entraîner l’ionisation. (*radiation*)
 
-***service de dosimétrie*** Service, désigné par règlement, assurant la mesure et le contrôle des doses de rayonnement.
+***réglementaire*** ou ***réglementé*** Prévu par les règlements de la Commission, à l’exclusion des règlements administratifs. (*prescribed*)
+
+***service de dosimétrie*** Service, désigné par règlement, assurant la mesure et le contrôle des doses de rayonnement. (*dosimetry service*)
 
 ***substance nucléaire***
 - **a)** Le deutérium, le thorium, l’uranium et les éléments de numéro atomique supérieur à 92;
@@ -87,11 +89,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** les radionucléides;
 - **d)** les substances désignées par règlement comme étant soit capables de libérer de l’énergie nucléaire, soit indispensables pour en produire ou en utiliser;
 - **e)** un sous-produit radioactif qui résulte du développement, de la production ou de l’utilisation de l’énergie nucléaire;
-- **f)** une substance ou un objet radioactif qui a servi dans le cadre du développement, de la production ou de l’utilisation de l’énergie nucléaire.
+- **f)** une substance ou un objet radioactif qui a servi dans le cadre du développement, de la production ou de l’utilisation de l’énergie nucléaire. (*nuclear substance*)
 
-***travailleur du secteur nucléaire*** Personne qui, du fait de sa profession ou de son occupation et des conditions dans lesquelles elle exerce ses activités, si celles-ci sont liées à une substance ou une installation nucléaire, risque vraisemblablement de recevoir une dose de rayonnement supérieure à la limite réglementaire fixée pour la population en général.
+***travailleur du secteur nucléaire*** Personne qui, du fait de sa profession ou de son occupation et des conditions dans lesquelles elle exerce ses activités, si celles-ci sont liées à une substance ou une installation nucléaire, risque vraisemblablement de recevoir une dose de rayonnement supérieure à la limite réglementaire fixée pour la population en général. (*nuclear energy worker*)
 
-***véhicule*** Tout moyen de transport aérien, maritime ou terrestre, notamment le matériel ferroviaire au sens du paragraphe 4(1) de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md).
+***véhicule*** Tout moyen de transport aérien, maritime ou terrestre, notamment le matériel ferroviaire au sens du paragraphe 4(1) de la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md). (*vehicle*)
+> 1997, ch. 9, art. 2; 2012, ch. 19, art. 122.
+
 
 
 
@@ -902,18 +906,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **44** 
 
-- **(1)** Avec l’agrément du gouverneur en conseil, la Commission peut, par règlement :
+- **(1)** Avec l’agrément du gouverneur en conseil, la Commission peut, par règlement :
 	- **a)** régir le développement, la production et l’utilisation de l’énergie nucléaire;
 	- **b)** régir l’extraction minière, la production, le raffinage, la conversion, l’enrichissement, le traitement, le retraitement, la possession, l’importation, l’exportation, l’utilisation, l’emballage, le transport, la gestion, le stockage provisoire et permanent et l’évacuation ainsi que l’abandon des substances nucléaires;
 	- **c)** régir la conception, l’inspection en cours de production ou d’installation, la production, la possession, l’entreposage, l’importation, l’exportation, l’utilisation, le déclassement, l’abandon et l’élimination de l’équipement réglementé;
 	- **d)** régir la production, la possession, le transfert, la conservation, l’importation, l’exportation, l’utilisation, la communication et les restrictions à la communication des renseignements réglementés;
 	- **e)** régir l’emplacement, la conception, la construction, l’installation, l’exploitation, l’entretien, la modification, le déclassement, l’abandon et l’aliénation d’une installation nucléaire ou d’une partie d’installation;
 	- **f)** régir la préservation de la santé et de la sécurité des personnes et la protection de l’environnement contre les dangers liés aux activités visées aux alinéas a), b), c) et e);
-	- **g)** régir les doses de rayonnement, notamment :
+	- **g)** régir les doses de rayonnement, notamment :
 		- **(i)** la création de différentes catégories de personnes et la détermination de la dose maximale de rayonnement acceptable pour chaque catégorie,
 		- **(ii)** la détermination des circonstances dans lesquelles une personne ou une catégorie de personnes peuvent recevoir une dose de rayonnement supérieure à la dose réglementaire,
 		- **(iii)** les mesures de protection des personnes contre l’exposition aux rayonnements;
-	- **h)** régir la protection des travailleurs du secteur nucléaire, notamment :
+	- **h)** régir la protection des travailleurs du secteur nucléaire, notamment :
 		- **(i)** déterminer les tâches qui peuvent être effectuées par une personne travaillant dans une installation nucléaire ou un autre lieu où une substance nucléaire est produite, utilisée, possédée, emballée, transportée, stockée provisoirement ou en permanence ou évacuée, et les modalités de modification des conditions d’emploi de ces travailleurs,
 		- **(ii)** déterminer les renseignements qu’une telle personne est tenue de fournir à son employeur ou à un service de dosimétrie pour mesurer et contrôler les doses de rayonnement qu’elle a reçues,
 		- **(iii)** déterminer les examens médicaux et les tests qu’une telle personne doit subir et les circonstances dans lesquelles elle doit les subir,
@@ -931,6 +935,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **s)** régir l’exploitation d’un service de dosimétrie;
 	- **t)** régir la forme des avis prévus par la présente loi et la façon de les donner;
 	- **u)** prévoir l’exemption d’une activité, d’une personne, d’une catégorie de personnes ou d’une quantité déterminée de substance nucléaire de l’application de la totalité ou d’une partie de la présente loi ou des règlements, d’une façon temporaire ou permanente;
+	- **u.1)** désigner comme violation punissable au titre de la présente loi :
+		- **(i)** la contravention à toute disposition spécifiée de la présente loi ou de ses règlements,
+		- **(ii)** la contravention à tout ordre ou à toute ordonnance ou décision — ou à tout ordre ou à toute ordonnance ou décision appartenant à une catégorie spécifiée — donné ou rendue, selon le cas, sous le régime de la présente loi,
+		- **(iii)** la contravention à toute condition d’une licence ou d’un permis ou à toute condition d’une licence ou d’un permis appartenant à une catégorie spécifiée;
+	- **u.2)** prévoir l’établissement ou la méthode d’établissement de la pénalité applicable à chaque violation, la pénalité prévue pour les personnes physiques pouvant différer de celle prévue pour les autres personnes;
+	- **u.3)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification de documents autorisée ou exigée par les articles 65.05, 65.1 ou 65.13;
 	- **v)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 	- **w)** prendre toutes les autres mesures qu’elle juge nécessaires à l’application de la présente loi et à la mise en oeuvre de sa mission.
 
@@ -956,7 +966,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Champ d’application**
 
-- **(7)** Le règlement visé au paragraphe (6) peut s’appliquer :
+- **(7)** Le règlement visé au paragraphe (6) peut s’appliquer :
 	- **a)** soit, d’une façon générale, à tous les ouvrages et entreprises visés à l’article 71;
 	- **b)** soit à un ouvrage ou entreprise en particulier, ou à une ou plusieurs catégories de ceux-ci;
 	- **c)** soit à une catégorie de personnes employées dans le cadre d’un ouvrage ou d’une entreprise visés aux alinéas a) ou b).
@@ -980,7 +990,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication et observations**
 
 - **(12)** Les projets de règlement d’application des alinéas (1)i) et (1)j) sont publiés dans la Gazette du Canada, les personnes intéressées se voyant accorder la possibilité de présenter à la Commission leurs observations à cet égard.
-> 1997, ch. 9, art. 44; 2001, ch. 34, art. 61(F); 2010, ch. 12, art. 2151.
+
+**Plafond — montant de la pénalité**
+
+- **(13)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)u.2) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 25 000 $ et, dans le cas des autres personnes, à 100 000 $.
+> 1997, ch. 9, art. 44; 2001, ch. 34, art. 61(F); 2010, ch. 12, art. 2151; 2012, ch. 19, art. 129.
 
 
 
@@ -1264,6 +1278,315 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Créances de Sa Majesté**
 
 - **(2)** Les frais de publication que la Commission engage au titre du paragraphe (1) ainsi que les indemnités visées à l’alinéa 60(1)g) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant toute juridiction compétente ou selon toute autre modalité de droit.
+
+
+
+
+## Sanctions administratives pécuniaires
+
+
+
+### Attributions de la Commission
+
+
+
+**Attributions**
+
+**65.01** La Commission peut :
+- **a)** établir la forme des procès-verbaux de violation;
+- **b)** désigner des inspecteurs ou fonctionnaires désignés comme agents verbalisateurs;
+- **c)** établir le sommaire caractérisant la violation dans les procès-verbaux;
+- **d)** désigner des fonctionnaires désignés pour effectuer les révisions prévues à l’article 65.13.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Violations
+
+
+
+**Violations**
+
+**65.02** 
+
+- **(1)** La contravention à une disposition, une décision, un ordre ou une condition désignés en vertu de l’alinéa 44(1)u.1) constitue une violation pour laquelle l’auteur s’expose à une pénalité dont le montant est déterminé conformément aux règlements.
+
+**But de la pénalité**
+
+- **(2)** L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente loi.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Participants à la violation : dirigeants, administrateurs et mandataires**
+
+**65.03** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Preuve**
+
+**65.04** Dans les procédures en violation engagées au titre de la présente loi, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Procès-verbal — établissement et signification**
+
+**65.05** 
+
+- **(1)** L’agent verbalisateur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait signifier au prétendu auteur de la violation.
+
+**Contenu**
+
+- **(2)** Tout procès-verbal mentionne les éléments suivants :
+	- **a)** le nom du prétendu auteur de la violation;
+	- **b)** les faits pertinents concernant la violation;
+	- **c)** le montant de la pénalité relatif à la violation;
+	- **d)** la faculté qu’a le prétendu auteur de la violation de demander la révision de celle-ci ou du montant de la pénalité, ainsi que le délai réglementaire pour ce faire;
+	- **e)** les modalités de paiement de la pénalité;
+	- **f)** le fait que le prétendu auteur de la violation, s’il ne fait pas de demande de révision ou s’il ne paie pas la pénalité, est réputé avoir commis la violation et est tenu au paiement de cette pénalité.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Règles propres aux violations
+
+
+
+**Exclusion de certains moyens de défense**
+
+**65.06** 
+
+- **(1)** Le prétendu auteur de la violation ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour empêcher la violation ou qu’il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’exonéreraient.
+
+**Principes de common law**
+
+- **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente loi.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Violation continue**
+
+**65.07** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Cumul interdit**
+
+**65.08** 
+
+- **(1)** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction aux termes de la présente loi, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+**Précision**
+
+- **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Prescription**
+
+**65.09** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la violation.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Révision
+
+
+
+**Droit de faire une demande de révision**
+
+**65.1** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans le délai supérieur que la Commission peut accorder, saisir la Commission d’une demande de révision du montant de la pénalité ou des faits quant à la violation, ou des deux.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Annulation ou correction du procès-verbal**
+
+**65.11** Tant que la Commission n’est pas saisie d’une demande de révision du procès-verbal, tout agent verbalisateur peut soit l’annuler, soit corriger toute erreur qu’il contient.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Révision**
+
+**65.12** 
+
+- **(1)** Sur réception de la demande de révision, la Commission procède à la révision ou y fait procéder par un fonctionnaire désigné.
+
+**Restriction**
+
+- **(2)** La Commission effectue la révision si le procès-verbal a été dressé par un fonctionnaire désigné.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Révision par le fonctionnaire désigné**
+
+**65.13** 
+
+- **(1)** Si la révision est effectuée par un fonctionnaire désigné, celui-ci décide, selon le cas, si le montant de la pénalité a été établi conformément aux règlements ou si le demandeur a commis la violation, ou les deux.
+
+**Décision**
+
+- **(2)** Le fonctionnaire désigné rend sa décision par écrit et signifie copie de celle-ci au demandeur, motifs à l’appui.
+
+**Correction du montant de la pénalité**
+
+- **(3)** Le fonctionnaire désigné modifie le montant de la pénalité s’il estime qu’il n’a pas été établi conformément aux règlements.
+
+**Obligation de payer la pénalité**
+
+- **(4)** En cas de décision défavorable du fonctionnaire désigné, l’auteur de la violation est tenu au paiement de la pénalité mentionnée dans la décision.
+
+**Demande de révision à la Commission**
+
+- **(5)** Le demandeur peut, dans les trente jours suivant la signification de la décision du fonctionnaire désigné ou dans le délai supplémentaire que la Commission peut accorder, saisir la Commission d’une demande de révision par celle-ci du montant de la pénalité ou des faits quant à la violation, ou des deux.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Révision par la Commission**
+
+**65.14** 
+
+- **(1)** Si la révision est effectuée par la Commission, celle-ci décide, selon le cas, si le montant de la pénalité a été établi conformément aux règlements ou si le demandeur a commis la violation, ou les deux.
+
+**Décision**
+
+- **(2)** La Commission rend sa décision par écrit et signifie copie de celle-ci au demandeur, motifs à l’appui.
+
+**Correction du montant de la pénalité**
+
+- **(3)** La Commission modifie le montant de la pénalité si elle estime qu’il n’a pas été établi conformément aux règlements.
+
+**Obligation de payer la pénalité**
+
+- **(4)** En cas de décision défavorable, l’auteur de la violation est tenu au paiement de la pénalité mentionnée dans la décision.
+
+**Décision définitive**
+
+- **(5)** Malgré le paragraphe 43(3), la décision est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), n’est pas susceptible d’appel ou de révision en justice.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Fardeau de la preuve**
+
+**65.15** En cas de révision visée aux articles 65.13 ou 65.14 portant sur les faits, il incombe à l’agent verbalisateur d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation mentionnée dans le procès-verbal.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Responsabilité
+
+
+
+**Paiement**
+
+**65.16** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité mentionnée au procès-verbal.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Défaut**
+
+**65.17** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité, le fait de ne pas demander de révision dans le délai réglementaire. Le cas échéant, le contrevenant est tenu du paiement de la pénalité.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Recouvrement des pénalités
+
+
+
+**Créance de Sa Majesté**
+
+**65.18** 
+
+- **(1)** La pénalité constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale ou tout autre tribunal compétent.
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**65.19** 
+
+- **(1)** La Commission peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 65.18(1).
+
+**Enregistrement à la Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale ou à tout autre tribunal compétent confère au certificat valeur de jugement pour la somme visée et les frais afférents.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+### Dispositions générales
+
+
+
+**Admissibilité de documents**
+
+**65.2** Dans les procédures pour violation, le document qui paraît être un procès-verbal signifié en application du paragraphe 65.05(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
+> 2012, ch. 19, art. 130.
+
+
+
+
+
+**Publication**
+
+**65.21** La Commission peut procéder à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
+> 2012, ch. 19, art. 130.
+
 
 
 
