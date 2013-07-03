@@ -647,7 +647,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind53BB_hq_12878'>[*]</a></sup>**(2)** Les articles 86 à 88, 91 et 98 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind53BB_hq_12878'><sup>*</sup></a>: [Note : Articles 86 à 88, 91 et 98 non en vigueur.]<br />
+<a name='fn_Ind53BB_hq_12878'><sup>*</sup></a>: [Note : Articles 86 à 88, 91 et 98 en vigueur le 3 juillet 2013, *voir* TR/2013-69.]<br />
 
 
 
@@ -689,7 +689,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind547B_hq_12879'>[*]</a></sup>**121** Les articles 116 à 119 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind547B_hq_12879'><sup>*</sup></a>: [Note : Articles 116 à 119 non en vigueur.]<br />
+<a name='fn_Ind547B_hq_12879'><sup>*</sup></a>: [Note : Articles 116 à 119 en vigueur le 3 juillet 2013, *voir* TR/2013-69.]<br />
 
 
 
@@ -747,7 +747,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind56C8_hq_12880'>[*]</a></sup>**131** Les articles 122, 129 et 130 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind56C8_hq_12880'><sup>*</sup></a>: [Note : Articles 122, 129 et 130 non en vigueur.]<br />
+<a name='fn_Ind56C8_hq_12880'><sup>*</sup></a>: [Note : Articles 122, 129 et 130 en vigueur le 3 juillet 2013, *voir* TR/2013-69.]<br />
 
 
 
