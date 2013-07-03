@@ -46,25 +46,25 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The definitions in this section apply in this Act.
 
-***analyst*** means a person designated as an analyst under section 28.
+***analyst*** means a person designated as an analyst under section 28. (*analyste*)
 
-***Commission*** means the Canadian Nuclear Safety Commission established by section 8.
+***Commission*** means the Canadian Nuclear Safety Commission established by section 8. (*Commission*)
 
-***designated officer*** means a person designated as a designated officer under section 37.
+***designated officer*** means a person designated as a designated officer under section 37. (*fonctionnaire désigné*)
 
-***dosimetry service*** means a prescribed facility for the measurement and monitoring of doses of radiation.
+***dosimetry service*** means a prescribed facility for the measurement and monitoring of doses of radiation. (*service de dosimétrie*)
 
-***inspector*** means a person designated as an inspector under section 29.
+***inspector*** means a person designated as an inspector under section 29. (*inspecteur*)
 
- ou ***licence*** means a licence issued under section 24.
+***licence*** means a licence issued under section 24. (*licence* ou *permis*)
 
-***Minister*** means the Minister of Natural Resources or such member of the Queen’s Privy Council for Canada as the Governor in Council may designate as the Minister for the purposes of this Act.
+***Minister*** means the Minister of Natural Resources or such member of the Queen’s Privy Council for Canada as the Governor in Council may designate as the Minister for the purposes of this Act. (*ministre*)
 
-***nuclear energy*** means any form of energy released in the course of nuclear fission or nuclear fusion or of any other nuclear transmutation.
+***nuclear energy*** means any form of energy released in the course of nuclear fission or nuclear fusion or of any other nuclear transmutation. (*énergie nucléaire*)
 
-***nuclear energy worker*** means a person who is required, in the course of the person’s business or occupation in connection with a nuclear substance or nuclear facility, to perform duties in such circumstances that there is a reasonable probability that the person may receive a dose of radiation that is greater than the prescribed limit for the general public.
+***nuclear energy worker*** means a person who is required, in the course of the person’s business or occupation in connection with a nuclear substance or nuclear facility, to perform duties in such circumstances that there is a reasonable probability that the person may receive a dose of radiation that is greater than the prescribed limit for the general public. (*travailleur du secteur nucléaire*)
 
-***nuclear facility*** means any of the following facilities, namely,
+***nuclear facility*** means any of the following facilities, namely,
 - **(a)** a nuclear fission or fusion reactor or subcritical nuclear assembly,
 - **(b)** a particle accelerator,
 - **(c)** a uranium or thorium mine or mill,
@@ -75,23 +75,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(h)** a vehicle that is equipped with a nuclear reactor, and
 - **(i)** any other facility that is prescribed for the development, production or use of nuclear energy or the production, possession or use of a nuclear substance, prescribed equipment or prescribed information,
 
-and includes, where applicable, the land on which the facility is located, a building that forms part of, or equipment used in conjunction with, the facility and any system for the management, storage or disposal of a nuclear substance.
+and includes, where applicable, the land on which the facility is located, a building that forms part of, or equipment used in conjunction with, the facility and any system for the management, storage or disposal of a nuclear substance. (*installation nucléaire*)
 
-***nuclear substance*** means
+***nuclear substance*** means
 - **(a)** deuterium, thorium, uranium or an element with an atomic number greater than 92;
 - **(b)** a derivative or compound of deuterium, thorium, uranium or of an element with an atomic number greater than 92;
 - **(c)** a radioactive nuclide;
 - **(d)** a substance that is prescribed as being capable of releasing nuclear energy or as being required for the production or use of nuclear energy;
 - **(e)** a radioactive by-product of the development, production or use of nuclear energy; and
-- **(f)** a radioactive substance or radioactive thing that was used for the development or production, or in connection with the use, of nuclear energy.
+- **(f)** a radioactive substance or radioactive thing that was used for the development or production, or in connection with the use, of nuclear energy. (*substance nucléaire*)
 
- ou ***prescribed*** means prescribed by regulation of the Commission.
+***penalty*** means an administrative monetary penalty imposed under this Act for a violation. (*pénalité*)
 
-***radiation*** means the emission by a nuclear substance, the production using a nuclear substance, or the production at a nuclear facility of, an atomic or subatomic particle or electromagnetic wave with sufficient energy for ionization.
+***prescribed*** means prescribed by regulation of the Commission. (*réglementaire* ou *réglementé*)
 
-***record*** has the meaning assigned to that word by section 3 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).
+***radiation*** means the emission by a nuclear substance, the production using a nuclear substance, or the production at a nuclear facility of, an atomic or subatomic particle or electromagnetic wave with sufficient energy for ionization. (*rayonnement*)
 
-***vehicle*** means any means of air, water or land transport, and includes railway equipment within the meaning assigned to that expression by subsection 4(1) of the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md).
+***record*** has the meaning assigned to that word by section 3 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md). (*document*)
+
+***vehicle*** means any means of air, water or land transport, and includes railway equipment within the meaning assigned to that expression by subsection 4(1) of the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md). (*véhicule*)
+> 1997, c. 9, s. 2; 2012, c. 19, s. 122.
+
 
 
 
@@ -940,6 +944,12 @@ and includes, where applicable, the land on which the facility is located, a bui
 	- **(s)** respecting the operation of a dosimetry service;
 	- **(t)** respecting the form of notices required by this Act and the manner in which they are to be given;
 	- **(u)** respecting the exemption of any activity, person, class of person or quantity of a nuclear substance, temporarily or permanently, from the application of this Act or the regulations or any provision thereof;
+	- **(u.1)** designating as a violation that may be proceeded with in accordance with this Act
+		- **(i)** the contravention of any specified provision of this Act or of any of its regulations,
+		- **(ii)** the contravention of any order or decision, or of any order or decision of any specified class of orders or decisions, made under this Act, or
+		- **(iii)** the failure to comply with any term or condition of a licence, or any term or condition of any specified class of licences;
+	- **(u.2)** respecting the determination of or the method of determining the amount payable as the penalty, which may be different for individuals and other persons, for each violation;
+	- **(u.3)** respecting the service of documents required or authorized under section 65.05, 65.1 or 65.13, including the manner and proof of service and the circumstances under which documents are deemed to be served;
 	- **(v)** prescribing anything that by this Act is to be prescribed; and
 	- **(w)** generally as the Commission considers necessary for carrying out the purposes of this Act and to assist the Commission in attaining its objects.
 
@@ -989,7 +999,11 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Publication of proposed regulations**
 
 - **(12)** A copy of each regulation that the Commission proposes to make under paragraph (1)(i) or (j) shall be published in the Canada Gazette and a reasonable opportunity shall be given to persons to make representations to the Commission with respect thereto.
-> 1997, c. 9, s. 44; 2001, c. 34, s. 61(F); 2010, c. 12, s. 2151.
+
+**Restriction — amount of penalty**
+
+- **(13)** The amount that may be determined under any regulations made under paragraph (1)(u.2) as the penalty for a violation shall not be more than $25,000, in the case of an individual, and $100,000, in the case of any other person.
+> 1997, c. 9, s. 44; 2001, c. 34, s. 61(F); 2010, c. 12, s. 2151; 2012, c. 19, s. 129.
 
 
 
@@ -1278,6 +1292,317 @@ shall immediately notify the Commission or an appropriate authority of the locat
 **Debt due to Her Majesty**
 
 - **(2)** Where the Commission incurs publication costs under subsection (1) or an offender is required by an order made under section 58, 59 or 60 to comply with a condition having the effect described in paragraph 60(1)(g), the costs and any interest thereon constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction or in any manner provided for by law.
+
+
+
+
+## Administrative Monetary Penalties
+
+
+
+### Commission’s Powers
+
+
+
+**Powers**
+
+**65.01** The Commission may
+- **(a)** establish the form of notices of violation;
+- **(b)** designate inspectors, or designated officers, who are authorized to issue notices of violation;
+- **(c)** establish, in respect of each violation, a short-form description to be used in notices of violation; and
+- **(d)** designate designated officers to conduct reviews under section 65.13.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### Violations
+
+
+
+**Commission of violation**
+
+**65.02** 
+
+- **(1)** Every person who contravenes or fails to comply with a provision, order, decision, term or condition designated under paragraph 44(1)(u.1) commits a violation and is liable to an administrative monetary penalty of an amount to be determined in accordance with the regulations.
+
+**Purpose of penalty**
+
+- **(2)** The purpose of the penalty is to promote compliance with this Act and not to punish.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Liability of directors, officers, etc.**
+
+**65.03** If a corporation commits a violation, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to an administrative monetary penalty of an amount to be determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Act.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Proof of violation**
+
+**65.04** In any proceedings under this Act against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee, or agent or mandatary, of the person whether or not the employee, agent or mandatary is identified or proceeded against in accordance with this Act.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Issuance and service of notice of violation**
+
+**65.05** 
+
+- **(1)** If a person designated under paragraph 65.01(b) believes on reasonable grounds that a person has committed a violation, the designated person may issue a notice of violation and cause it to be served on the person.
+
+**Contents**
+
+- **(2)** The notice of violation must
+	- **(a)** name the person that is believed to have committed the violation;
+	- **(b)** set out the relevant facts surrounding the violation;
+	- **(c)** set out the amount of the penalty for the violation;
+	- **(d)** inform the person of their right to request a review with respect to the violation or the amount of the penalty, and of the prescribed period within which that right must be exercised;
+	- **(e)** inform the person of the manner of paying the penalty set out in the notice; and
+	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they will be considered to have committed the violation and that they are liable to the penalty set out in the notice.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### Rules About Violations
+
+
+
+**Certain defences not available**
+
+**65.06** 
+
+- **(1)** A person named in a notice of violation does not have a defence by reason that the person
+	- **(a)** exercised due diligence to prevent the commission of the violation; or
+	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate the person.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Continuing violation**
+
+**65.07** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Violation or offence**
+
+**65.08** 
+
+- **(1)** Proceeding with any act or omission as a violation under this Act precludes proceeding with it as an offence under this Act, and proceeding with it as an offence under this Act precludes proceeding with it as a violation under this Act.
+
+**Violations not offences**
+
+- **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Limitation or prescription period**
+
+**65.09** No notice of violation in respect of a violation shall be issued more than two years after the day on which the subject matter of the violation arises.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### Reviews
+
+
+
+**Right to request review**
+
+**65.1** A person who is served with a notice of violation may, within 30 days after the day on which it is served, or within any longer period that the Commission allows, make a request to the Commission for a review of the amount of the penalty or the facts of the violation, or both.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Correction or cancellation of notice of violation**
+
+**65.11** At any time before a request for a review in respect of a notice of violation is received by the Commission, a person designated under paragraph 65.01(b) may cancel the notice of violation or correct an error in it.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Review**
+
+**65.12** 
+
+- **(1)** On receipt of a request made under section 65.1, the Commission shall conduct the review or cause the review to be conducted by a designated officer.
+
+**Restriction**
+
+- **(2)** If the notice of violation was issued by a designated officer, the Commission shall conduct the review.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Review by designated officer**
+
+**65.13** 
+
+- **(1)** If a review is conducted by a designated officer, the designated officer shall determine, as the case may be, whether the amount of the penalty for the violation was determined in accordance with the regulations or whether the person committed the violation, or both.
+
+**Determination**
+
+- **(2)** The designated officer shall render his or her determination in writing and cause the person who requested the review to be served with a copy of the determination and reasons.
+
+**Correction of penalty**
+
+- **(3)** If the designated officer determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the designated officer shall correct the amount of the penalty.
+
+**Responsibility**
+
+- **(4)** If the designated officer determines that the person who requested the review committed the violation, the person is liable to the penalty as set out in the determination.
+
+**Request for review by Commission**
+
+- **(5)** A person on whom a copy of a determination of a review is served may, within 30 days after the day on which it is served, or within any longer period that the Commission allows, make a request to the Commission for a review by the Commission of the amount of the penalty or the facts of the violation, or both.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Review by Commission**
+
+**65.14** 
+
+- **(1)** If a review is conducted by the Commission, the Commission shall determine, as the case may be, whether the amount of the penalty for the violation was determined in accordance with the regulations or whether the person committed the violation, or both.
+
+**Determination**
+
+- **(2)** The Commission shall render its determination in writing and cause the person who requested the review to be served with a copy of the determination and reasons.
+
+**Correction of penalty**
+
+- **(3)** If the Commission determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the Commission shall correct the amount of the penalty.
+
+**Responsibility**
+
+- **(4)** If the Commission determines that the person who requested the review committed the violation, the person is liable to the penalty as set out in the determination.
+
+**Determination final**
+
+- **(5)** Despite subsection 43(3), a determination made under this section is final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or to review by any court.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Burden of proof**
+
+**65.15** If the facts of a violation are reviewed under section 65.13 or 65.14, the person who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### Responsibility
+
+
+
+**Payment**
+
+**65.16** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Failure to act**
+
+**65.17** A person that neither pays the penalty imposed under this Act nor requests a review in the prescribed period is considered to have committed the violation and is liable to the penalty.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### Recovery of Penalties
+
+
+
+**Debts to Her Majesty**
+
+**65.18** 
+
+- **(1)** A penalty constitutes a debt due to Her Majesty in right of Canada and may be recovered in the Federal Court or any other court of competent jurisdiction.
+
+**Limitation or prescription period**
+
+- **(2)** No proceedings to recover the debt shall be instituted more than five years after the day on which the debt becomes payable.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Certificate**
+
+**65.19** 
+
+- **(1)** The Commission may issue a certificate certifying the unpaid amount of any debt referred to in subsection 65.18(1).
+
+**Registration in Federal Court**
+
+- **(2)** Registration in the Federal Court or in any other court of competent jurisdiction of a certificate issued under subsection (1) has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+### General
+
+
+
+**Admissibility of documents**
+
+**65.2** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 65.05(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
+> 2012, c. 19, s. 130.
+
+
+
+
+
+**Publication**
+
+**65.21** The Commission may make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
+> 2012, c. 19, s. 130.
+
 
 
 
