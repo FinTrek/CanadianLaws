@@ -157,13 +157,13 @@ Autorités habilitantes :
 	- **a)** contenir au moins 50 pour cent de folle avoine;
 	- **b)** contenir, au plus, un pour cent de matière passant au travers d’un crible à trous ronds de 4½/64 de pouce; et
 	- **c)** contenir, au plus, sous forme de grains entiers ou cassés, avec ou sans leur balle,
-		- **(i)** cinq pour cent de grains chauffés,
+		- **(i)** 10 pour cent de grains chauffés,
 		- **(ii)** cinq pour cent de renouée-liseron,
 		- **(iii)** un total de 10 pour cent d’épis de blé, de jointures, de paille et de balle brisée,
 		- **(iv)** cinq pour cent de graine de lin,
 		- **(v)** 0,2 pour cent de cailloux, ou
 		- **(vi)** 1/3 pour cent d’ergot.
-> DORS/93-363, art. 2(F).
+> DORS/93-363, art. 2(F); DORS/2013-146, art. 1.
 
 
 
@@ -333,9 +333,9 @@ Autorités habilitantes :
 **(article 3)**
 ## Grades de grain gourd, humide, mouillé et trempé
 <table>
-<h4>Grades de grain de l’Ouest canadien (OC)</h4>
+<h4>Grades de grain de l’Ouest canadien</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
@@ -343,7 +343,6 @@ Autorités habilitantes :
 <th>Colonne 5</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Grain</th>
 <th>Gourd — % de teneur en eau</th>
 <th>Humide — % de teneur en eau</th>
@@ -360,7 +359,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>2</td>
-<td>Blé extra fort, Ouest canadien</td>
+<td>Blé de force blanc de printemps, Ouest canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -368,7 +367,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>3</td>
-<td>Blé tendre blanc de printemps, Ouest canadien</td>
+<td>Blé dur ambré, Ouest canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -384,15 +383,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>5</td>
-<td>Blé dur ambré, Ouest canadien</td>
-<td>de 14,6 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5.1</td>
-<td>Blé à des fins générales, Ouest canadien</td>
+<td>Blé tendre blanc de printemps, Ouest canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -400,6 +391,30 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>6</td>
+<td>Blé extra fort, Ouest canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Blé à des fins générales, Ouest canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Blé fourrager, Ouest canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
 <td>Avoine, Ouest canadien</td>
 <td>de 13,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
@@ -407,15 +422,7 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>Orge à des fins générales, Ouest canadien</td>
-<td>de 14,9 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
+<td>10</td>
 <td>Orge brassicole, Ouest canadien</td>
 <td>de 13,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
@@ -423,7 +430,59 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>11</td>
+<td>Orge alimentaire, Ouest canadien</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** Alimentaire, extra OC à deux rangs
+
+</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** Alimentaire, extra OC à six rangs
+
+</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** Alimentaire, extra OC à grains nus à deux rangs
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** Alimentaire, extra OC à grains nus à six rangs
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Orge à des fins générales, Ouest canadien</td>
+<td>de 14,9 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
 <td>Seigle, Ouest canadien</td>
 <td>de 14,1 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
@@ -431,8 +490,11 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>14</td>
 <td>Grain mélangé, Ouest canadien</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -490,7 +552,7 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>15</td>
 <td>Graine de lin, Ouest canadien</td>
 <td>de 10,1 % à 13,5 %</td>
 <td>plus de 13,5 %</td>
@@ -498,7 +560,7 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>16</td>
 <td>Maïs — jaune, blanc ou mélangé —, Ouest canadien</td>
 <td>de 15,6 % à 17,5 %</td>
 <td>de 17,6 % à 21,0 %</td>
@@ -506,24 +568,16 @@ Autorités habilitantes :
 <td>plus de 25,0 %</td>
 </tr>
 <tr>
-<td>13</td>
-<td>Blé fourrager, Ouest canadien</td>
-<td>de 14,6 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
+<td>17</td>
+<td>Pois chiches, Ouest canadien, Desi</td>
+<td>de 14,1 % à 16,0 %</td>
+<td>plus de 16,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>14</td>
-<td>Solin, Ouest canadien</td>
-<td>de 10,1 % à 13,5 %</td>
-<td>plus de 13,5 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Pois chiches, Ouest canadien</td>
+<td>18</td>
+<td>Pois chiches, Ouest canadien, Kabuli</td>
 <td>de 14,1 % à 16,0 %</td>
 <td>plus de 16,0 %</td>
 <td></td>
@@ -531,7 +585,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/78-500, art. 1; DORS/79-534, art. 3 et 4; DORS/80-513, art. 2; DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/90-359, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1; DORS/95-392, art. 1; DORS/97-284, art. 1; DORS/97-425, art. 1; DORS/2001-241, art. 1; DORS/2008-227, art. 1.
+> DORS/78-500, art. 1; DORS/79-534, art. 3 et 4; DORS/80-513, art. 2; DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/90-359, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1; DORS/95-392, art. 1; DORS/97-284, art. 1; DORS/97-425, art. 1; DORS/2001-241, art. 1; DORS/2008-227, art. 1; DORS/2013-146, art. 2.
 
 
 
@@ -542,15 +596,14 @@ Autorités habilitantes :
 <table>
 <h4>Grades de grain de l’Est canadien</h4>
 <tr>
-<th></th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-<th>Colonne V</th>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+<th>Colonne 4</th>
+<th>Colonne 5</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Grain</th>
 <th>Gourd — % de teneur en eau</th>
 <th>Humide — % de teneur en eau</th>
@@ -559,7 +612,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>1</td>
-<td>Blé rouge</td>
+<td>Blé rouge, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -567,7 +620,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>2</td>
-<td>Blé extra fort</td>
+<td>Blé roux de printemps, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -575,7 +628,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>3</td>
-<td>Blé blanc d’hiver</td>
+<td>Blé de force rouge d’hiver, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -583,7 +636,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Blé tendre blanc de printemps</td>
+<td>Blé tendre rouge d’hiver, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -591,85 +644,31 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>5</td>
-<td>Avoine</td>
-<td>de 14,1 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Orge</td>
-<td>de 14,9 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Seigle</td>
-<td>de 14,1 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Grain mélangé</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** Grain mélangé, blé
-
-</td>
+<td>Blé dur ambré, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**b)** Grain mélangé, seigle
-
-</td>
-<td>de 14,1 % à 17,0 %</td>
+<td>6</td>
+<td>Blé de force blanc d’hiver, Est canadien</td>
+<td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**c)** Grain mélangé, orge
-
-</td>
-<td>de 14,9 % à 17,0 %</td>
+<td>7</td>
+<td>Blé blanc d’hiver, Est canadien</td>
+<td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**d)** Grain mélangé, avoine
-
-</td>
-<td>de 14,1 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**e)** Grain mélangé, triticale
-
-</td>
-<td>de 14,1 % à 17,0 %</td>
-<td>plus de 17,0 %</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**f)** Grain mélangé
-
-</td>
+<td>8</td>
+<td>Blé tendre blanc de printemps, Est canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -677,38 +676,176 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>9</td>
-<td>Graine de lin</td>
-<td>de 10,1 % à 13,5 %</td>
-<td>plus de 13,5 %</td>
+<td>Blé de force blanc de printemps, Est canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
-<td>Maïs</td>
-<td>de 15,6 % à 17,5 %</td>
-<td>de 17,6 % à 21,0 %</td>
-<td>de 21,1 % à 25,0 %</td>
-<td>plus de 25,0 %</td>
+<td>Blé fourrager, Est canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>Blé fourrager</td>
-<td>de 14,6 % à 17,0 %</td>
+<td>Avoine, Est canadien</td>
+<td>de 13,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>Blé dur amblé</td>
+<td>Orge brassicole, Est canadien</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Orge alimentaire, Est canadien</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** Alimentaire, extra EC à deux rangs
+
+</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** Alimentaire, extra EC à six rangs
+
+</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** Alimentaire, extra EC à grains nus à deux rangs
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** Alimentaire, extra EC à grains nus à six rangs
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Orge à des fins générales, Est canadien</td>
+<td>de 14,9 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Seigle, Est canadien</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Grain mélangé, Est canadien</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** Grain mélangé, blé EC
+
+</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>**b)** Grain mélangé, seigle EC
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** Grain mélangé, orge EC
+
+</td>
+<td>de 14,9 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** Grain mélangé, avoine EC
+
+</td>
+<td>de 13,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**e)** Grain mélangé, triticale EC
+
+</td>
+<td>de 14,1 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**f)** Grain mélangé, EC
+
+</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Graine de lin, Est canadien</td>
+<td>de 10,1 % à 13,5 %</td>
+<td>plus de 13,5 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Maïs — jaune, blanc ou mélangé, Est canadien</td>
+<td>de 15,6 % à 17,5 %</td>
+<td>de 17,6 % à 21,0 %</td>
+<td>de 21,1 % à 25,0 %</td>
+<td>plus de 25,0 %</td>
+</tr>
 </table>
 
-> DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1.
+> DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1; DORS/2013-146, art. 2.
 
 
