@@ -12,26 +12,24 @@ Autorités habilitantes :
 
 **1** Les définitions qui suivent s’appliquent au présent règlement.
 
-***classement des échantillons non officiels***[Abrogée, DORS/2001-273, art. 1]
+***classement des échantillons non officiels***[Abrogée, DORS/2001-273, art. 1]
 
-***écart brut de manutention*** La différence entre les valeurs suivantes :
-- **a)** la somme du poids brut de tous les grains, produits céréaliers et criblures stockés dans l’installation au moment de la pesée de contrôle précédente et du poids brut de tous les grains, produits céréaliers et criblures reçus à l’installation depuis ce moment jusqu’à la pesée de contrôle actuelle;
-- **b)** la somme du poids brut de tous les grains, produits céréaliers et criblures stockés dans l’installation au moment de la pesée de contrôle actuelle et du poids brut de tous les grains, produits céréaliers et criblures expédiés de l’installation depuis la pesée de contrôle précédente. (*gross handling variance*)
+***écart brut de manutention***[Abrogée, DORS/2013-111, art. 1]
 
-***inspecteur régional***[Abrogée, DORS/2004-198, art. 1]
+***inspecteur régional***[Abrogée, DORS/2004-198, art. 1]
 
-***installation terminale de l’intérieur***[Abrogée, DORS/2001-273, art. 1]
+***installation terminale de l’intérieur***[Abrogée, DORS/2001-273, art. 1]
 
-***Loi*** La [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md). (*Act*)
+***Loi*** La [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md). (*Act*)
 
-***poids comptable brut***[Abrogée, DORS/2004-198, art. 1]
+***poids comptable brut***[Abrogée, DORS/2004-198, art. 1]
 
-***poids net*** Le poids brut du grain diminué de la quantité d’impuretés mentionnée sur le récépissé, l’accusé de réception ou le bon de paiement remis pour le grain livré. (*net weight*)
+***poids net*** Le poids brut du grain diminué de la quantité d’impuretés mentionnée sur le récépissé, l’accusé de réception ou le bon de paiement remis pour le grain livré. (*net weight*)
 
-***pourcentage de l’écart brut de manutention*** Résultat obtenu par la division de l’écart brut de manutention par le poids brut total de tous les grains, produits céréaliers et criblures reçus par l’installation depuis la pesée de contrôle précédente jusqu’à la pesée de contrôle actuelle et par la multiplication du quotient par 100 pour cent. (*gross handling variance percentage*)
+***pourcentage de l’écart brut de manutention***[Abrogée, DORS/2013-111, art. 1]
 
-***substance dangereuse*** Tout pesticide, dessiccant ou inoculant. (*hazardous substance*) 
-> DORS/2000-213, art. 2; DORS/2001-273, art. 1; DORS/2002-255, art. 1; DORS/2004-198, art. 1.
+***substance dangereuse*** Tout pesticide, dessiccant ou inoculant. (*hazardous substance*)
+> DORS/2000-213, art. 2; DORS/2001-273, art. 1; DORS/2002-255, art. 1; DORS/2004-198, art. 1; DORS/2013-111, art. 1.
 
 
 
@@ -76,13 +74,7 @@ Autorités habilitantes :
 
 
 
-
-### Serment ou affirmation solennelle des membres des tribunaux d’appel pour les grains
-
-
-**4.1** Le serment ou l’affirmation solennelle professionnels que doivent prêter les membres des tribunaux d’appel pour les grains, à l’exception du président s’il est un agent de l’administration publique fédérale, figurent à la formule 3 de l’annexe 2.
-> DORS/2002-255, art. 2; DORS/2003-284, art. 4.
-
+**4.1** [Abrogé, DORS/2013-111, art. 2]
 
 
 
@@ -92,10 +84,10 @@ Autorités habilitantes :
 
 **5** 
 
-- **(1)** Les graines suivantes sont désignées comme grain pour l’application de la Loi : orge, haricots, sarrasin, canola, pois chiches, maïs, féveroles, lin, lentilles, grain mélangé, graine de moutarde, avoine, pois, colza, seigle, graine de carthame, solin, graine de soja, graine de tournesol, triticale et blé.
+- **(1)** Les graines suivantes sont désignées comme grain pour l’application de la Loi : avoine, blé, canola, colza, féveroles, graine de carthame, graine de moutarde, graine de tournesol, grain mélangé, haricots, lentilles, lin, maïs, orge, pois, pois chiches, sarrasin, seigle, soja et triticale.
 
-- **(2)** Les appellations de grade de grain et les caractéristiques correspondant aux grades sont celles indiquées à l’annexe 3.
-> DORS/96-508, art. 4; DORS/2000-213, art. 2; DORS/2003-285, art. 1.
+- **(2)** Les appellations de grade de grain et les caractéristiques correspondant aux grades sont celles indiquées à l’annexe 3.
+> DORS/96-508, art. 4; DORS/2000-213, art. 2; DORS/2003-285, art. 1; DORS/2013-111, art. 3.
 
 
 
@@ -106,7 +98,7 @@ Autorités habilitantes :
 
 **6** 
 
-- **(1)** L’échantillon officiel prélevé au titre de l’article 30 de la Loi l’est conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et Guide d’approbation.
+- **(1)** L’échantillon officiel prélevé au titre de l’article 30 de la Loi l’est conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et du Guide d’approbation, daté du 16 août 2012.
 
 - **(2)** Il est interdit de prélever un échantillon officiel à l’aide d’un échantillonneur mécanique, à moins que celui-ci ne soit installé, vérifié et entretenu par le titulaire de licence sous la supervision d’un inspecteur.
 
@@ -114,7 +106,7 @@ Autorités habilitantes :
 	- **a)** au moins six mois après cette date, si l’échantillon est prélevé lors du transbordement du grain d’une installation à un navire;
 	- **b)** [Abrogé, DORS/2003-284, art. 5]
 	- **c)** au moins vingt jours après cette date, dans tout autre cas.
-> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1.
+> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1; DORS/2013-111, art. 4.
 
 
 
@@ -130,15 +122,27 @@ Autorités habilitantes :
 
 
 
+### Échantillons d’installations terminales et de tierces parties
+
+
+**6.2** L’échantillon de grain prélevé dans le cadre d’une inspection prévue aux paragraphes 70(1) ou (2) ou 70.2(1) ou à l’article 70.3 de la Loi est :
+- **a)** d’une part, pris conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et du Guide d’approbation, daté du 16 août 2012;
+- **b)** d’autre part, conservé pendant au moins sept jours après sa date de classement.
+> DORS/2013-111, art. 5.
+
+
+
+
+
 ### Classement des échantillons non officiels
 
 
 **7** 
 
-- **(1)** Tout titulaire de licence ou toute personne n’étant pas tenue de détenir une licence ou bénéficiant d’une exemption de licence en vertu de l’article 44 de la Loi peut expédier à n’importe quel bureau régional d’inspection de la Commission un échantillon de grain non officiel pour en faire déterminer le grade, les impuretés ou d’autres critères de qualité.
+- **(1)** Tout titulaire de licence ou toute personne n’étant pas tenue de détenir une licence ou bénéficiant d’une exemption de licence en vertu de l’article 44 de la Loi peut expédier à n’importe quel bureau régional d’inspection de la Commission un échantillon de grain non officiel pour en faire déterminer le grade, les impuretés ou d’autres critères de qualité.
 
-- **(2)** L’échantillon expédié aux termes du paragraphe (1) doit être :
-	- **a)** d’au moins 750 g;
+- **(2)** L’échantillon expédié aux termes du paragraphe (1) doit être :
+	- **a)** d’au moins 1 kg;
 	- **b)** prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
 	- **c)** expédié en port payé, dans un contenant qui en préservera l’intégrité.
 
@@ -155,7 +159,7 @@ Autorités habilitantes :
 - **(7)** La décision de l’inspecteur en chef des grains pour le Canada est finale.
 
 - **(8)** Les échantillons non officiels sont conservés pendant la période commençant à la date de classement de l’échantillon et se terminant au moins vingt jours après celle-ci.
-> DORS/89-376, art. 11(F), 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2003-284, art. 6; DORS/2004-198, art. 4; DORS/2005-361, art. 2.
+> DORS/89-376, art. 11(F), 14(F) et 16(F); DORS/2000-213, art. 2; DORS/2003-284, art. 6; DORS/2004-198, art. 4; DORS/2005-361, art. 2; DORS/2013-111, art. 6.
 
 
 
@@ -184,10 +188,10 @@ Autorités habilitantes :
 ### Formule du certificat d’inspection
 
 
-**9** Le certificat d’inspection visé à l’article 32 de la Loi est établi selon :
-- **a)** la formule 12 de l’annexe 4, dans le cas du grain canadien autre que celui visé à l’alinéa b);
-- **b)** la formule 13 de l’annexe 4, dans le cas du grain canadien inspecté au moment de son déchargement d’une installation terminale ou de transbordement.
-> DORS/84-626, art. 1; DORS/85-677, art. 1(F); DORS/87-476, art. 1(F); DORS/89-393, art. 2; DORS/89-395, art. 2(F); DORS/93-197, art. 1; DORS/2000-213, art. 2; DORS/2003-284, art. 7; DORS/2004-198, art. 6.
+**9** Le certificat d’inspection visé à l’article 32 de la Loi est établi selon :
+- **a)** la formule 12 de l’annexe 4, dans le cas du grain canadien autre que celui visé à l’alinéa b);
+- **b)** la formule 13 de l’annexe 4, dans le cas du grain canadien inspecté au moment de son déchargement d’une installation terminale.
+> DORS/84-626, art. 1; DORS/85-677, art. 1(F); DORS/87-476, art. 1(F); DORS/89-393, art. 2; DORS/89-395, art. 2(F); DORS/93-197, art. 1; DORS/2000-213, art. 2; DORS/2003-284, art. 7; DORS/2004-198, art. 6; DORS/2013-111, art. 7.
 
 
 
@@ -200,36 +204,30 @@ Autorités habilitantes :
 ### Procédure devant les tribunaux d’appel pour les grains
 
 
-**11** 
-
-- **(1)** La demande présentée au titre de l’article 39 de la Loi en vue d’en appeler d’une inspection officielle de grain est faite par écrit et comporte les renseignements suivants :
-	- **a)** la désignation du lot de grain d’où provient l’échantillon officiel;
-	- **b)** le nom et l’emplacement de l’installation ou du lieu où l’échantillon officiel a été prélevé;
-	- **c)** la date de l’inspection officielle ou de toute réinspection;
-	- **d)** le grade attribué au grain à la suite de l’inspection officielle ou de la réinspection, ainsi que les impuretés que le grain contient.
-
-- **(2)** S’il y a appel de sa décision, l’inspecteur principal de la région où l’inspection a eu lieu transmet, sans délai, la demande et l’échantillon officiel à l’inspecteur en chef des grains pour le Canada ou au tribunal d’appel pour les grains, selon le cas.
-
-- **(3)** S’il y a appel de sa décision, l’inspecteur en chef des grains pour le Canada transmet, sans délai, la demande et l’échantillon officiel au tribunal d’appel pour les grains.
-> DORS/86-813, art. 2; DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/93-197, art. 2; DORS/96-508, art. 9; DORS/2000-213, art. 2; DORS/2003-284, art. 8; DORS/2004-198, art. 7.
+**11** La demande de réinspection présentée au titre de l’article 39 de la Loi est faite par écrit et comporte les renseignements suivants :
+- **a)** la désignation du lot de grain d’où provient l’échantillon officiel;
+- **b)** le nom et l’emplacement de l’installation ou du lieu où l’échantillon officiel a été prélevé;
+- **c)** la date de l’inspection officielle;
+- **d)** le grade attribué au grain à la suite de l’inspection officielle ainsi que les impuretés que le grain contient.
+> DORS/86-813, art. 2; DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/93-197, art. 2; DORS/96-508, art. 9; DORS/2000-213, art. 2; DORS/2003-284, art. 8; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
 
 
 
 
-**12** Pour l’application de l’article 40 de la Loi, est recevable en vertu de l’article 39 de la Loi, l’appel portant sur du grain ayant fait l’objet d’une inspection officielle lors de son déchargement d’une installation primaire en vue de son chargement dans une installation terminale ou une installation de transbordement.
-> DORS/89-376, art. 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7.
+**12** Pour l’application de l’article 40 de la Loi, est recevable en vertu de l’article 39 de la Loi l’appel portant sur du grain ayant fait l’objet d’une inspection officielle lors de son déchargement d’une installation primaire en vue de son chargement dans une installation terminale.
+> DORS/89-376, art. 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
 
 
 
 
-**13** Le tribunal d’appel pour les grains qui a été saisi d’un appel en communique sans délai le résultat par écrit à l’appelant et à l’exploitant de l’installation où le grain a fait l’objet d’une inspection officielle.
-> DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7.
+**13** L’inspecteur en chef des grains pour le Canada qui a été saisi de l’appel en communique sans délai le résultat par écrit à l’appelant et à l’exploitant de l’installation où le grain a fait l’objet d’une inspection officielle.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 7; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
 
 
 
 
-**14** En cas de changement de grade par suite d’un appel interjeté en application de l’article 39 de la Loi devant un inspecteur principal, l’inspecteur en chef des grains pour le Canada ou le tribunal d’appel pour les grains, le certificat d’inspection corrigé au titre de l’article 41 de la Loi porte la date de la décision de l’appel.
-> DORS/89-376, art. 14(F); DORS/96-508, art. 10(A); DORS/2000-213, art. 2; DORS/2004-198, art. 7.
+**14** En cas de changement de grade par suite d’un appel interjeté en application de l’article 39 de la Loi devant l’inspecteur en chef des grains pour le Canada, le certificat d’inspection corrigé au titre de l’article 41 de la Loi porte la date de la décision de l’appel.
+> DORS/89-376, art. 14(F); DORS/96-508, art. 10(A); DORS/2000-213, art. 2; DORS/2004-198, art. 7; DORS/2013-111, art. 8.
 
 
 
@@ -398,13 +396,11 @@ Autorités habilitantes :
 
 
 
-### Rapports sur les installations de transbordement
-> [DORS/2001-273, art. 14]
+### Rapport sur les installations terminales
 
 
-
-**27** L’exploitant d’une installation de transbordement doit, à ce titre, présenter chaque jour à la Commission des rapports sur ses opérations du jour précédent, sur tout support électronique accepté par celle-ci.
-> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8; DORS/2008-314, art. 3.
+**27** L’exploitant d’une installation terminale présente chaque jour à la Commission un rapport sur les opérations du jour précédent, sur tout support électronique accepté par celle-ci.
+> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8; DORS/2008-314, art. 3; DORS/2013-111, art. 9.
 
 
 
@@ -492,12 +488,12 @@ Autorités habilitantes :
 **35** 
 
 - **(1)** L’exploitant d’une installation primaire agréée doit déterminer avec précision les impuretés contenues dans le grain livré à l’installation :
-	- **a)** en prélevant sur l’échantillon visé à l’article 34 une portion représentative pesant au moins 750 g;
+	- **a)** en prélevant sur l’échantillon visé à l’article 34 une portion représentative pesant au moins 1 kg;
 	- **b)** en analysant l’échantillon à l’aide de matériel approuvé par la Commission et en enlevant à la main, au besoin, toute quantité que ce matériel ne peut séparer;
 	- **c)** en arrondissant la quantité d’impuretés à 0,1 % près.
 
 - **(2)** Si la personne qui livre du grain à une installation primaire agréée en fait la demande, l’analyse permettant de déterminer les impuretés contenues dans le grain doit avoir lieu en sa présence.
-> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10; DORS/2008-314, art. 5.
+> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10; DORS/2008-314, art. 5; DORS/2013-111, art. 10.
 
 
 
@@ -512,7 +508,7 @@ Autorités habilitantes :
 
 **36** 
 
-- **(1)** Si l’exploitant d’une installation primaire agréée et la personne y livrant du grain ne s’entendent pas sur le classement ou les impuretés du grain livré et qu’un récépissé provisoire d’installation primaire est délivré, l’exploitant, en présence de la personne livrant le grain, doit prélever une portion représentative pesant au moins 750 g sur l’échantillon visé à l’article 34 et doit :
+- **(1)** Si l’exploitant d’une installation primaire agréée et la personne y livrant du grain ne s’entendent pas sur le classement ou les impuretés du grain livré et qu’un récépissé provisoire d’installation primaire est délivré, l’exploitant, en présence de la personne livrant le grain, doit prélever une portion représentative pesant au moins 1 kg sur l’échantillon visé à l’article 34 et doit :
 	- **a)** mettre la portion représentative dans un contenant qui est fourni par l’exploitant ou la personne livrant le grain et que ceux-ci jugent propre à préserver l’intégrité de l’échantillon;
 	- **b)** apposer sur le contenant le nom du propriétaire du grain et le numéro du récépissé provisoire de l’installation primaire;
 	- **c)** inscrire la mention « Sous réserve du classement et de la détermination des impuretés par l’inspecteur » sur le contenant;
@@ -528,8 +524,8 @@ Autorités habilitantes :
 
 - **(6)** Sur réception de la décision finale, l’exploitant de l’installation remplace le récépissé provisoire d’installation primaire par le récépissé d’installation primaire approprié ou par un bon de paiement indiquant le grade et les impuretés attribués à la portion représentative conformément au présent article.
 
-- **(7)** Il est entendu qu’au présent article le terme « grade » vise également les grades de grain gourd, humide, mouillé et trempé prévus par l’[Arrêté sur les grades de grain défectueux et les grades de criblures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20890.md).
-> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15; DORS/2008-314, art. 6.
+- **(7)** Il est entendu qu’au présent article le terme « grade » vise également les grades de grain gourd, humide, mouillé et trempé prévus par l’[Arrêté sur les grades de grain défectueux et les grades de criblures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20890.md).
+> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15; DORS/2008-314, art. 6; DORS/2013-111, art. 11.
 
 
 
@@ -688,60 +684,92 @@ Autorités habilitantes :
 ### Expédition directe
 
 
-**47** L’exploitant d’une installation terminale ou de transbordement agréée peut recevoir du grain sans le soumettre à l’inspection officielle ni à la pesée officielle et sans délivrer un récépissé pour le grain, si les conditions suivantes sont réunies :
-- **a)** le grain est transbordé directement d’un wagon ou d’un autre véhicule à un navire, et fait l’objet d’une inspection et d’une pesée officielles au moment de son transbordement;
-- **b)** l’exploitant avise au préalable la Commission de l’expédition.
-> DORS/89-376, art. 10(F), 11(F), 14(F), 18(F) et 20(F); DORS/93-24, art. 7; DORS/96-508, art. 33; DORS/2000-213, art. 2; DORS/2002-255, art. 14; DORS/2004-198, art. 20; DORS/2005-361, art. 7.
+**47** L’exploitant d’une installation terminale agréée peut recevoir du grain sans le soumettre à l’inspection ou à la pesée et sans délivrer un récépissé pour le grain, si le grain est transbordé directement d’un wagon ou d’un autre véhicule à un navire et fait l’objet d’une inspection et d’une pesée officielles au moment de son transbordement.
+> DORS/89-376, art. 10(F), 11(F), 14(F), 18(F) et 20(F); DORS/93-24, art. 7; DORS/96-508, art. 33; DORS/2000-213, art. 2; DORS/2002-255, art. 14; DORS/2004-198, art. 20; DORS/2005-361, art. 7; DORS/2013-111, art. 12.
 
 
 
 
 
-### Réception et déchargement du grain d’une installation terminale ou de transbordement agréée
+### Réception et déchargement du grain d’une installation terminale agréée
 
 
-**48** L’exploitant d’une installation terminale agréée peut décharger du grain destiné à être exporté aux États-Unis :
-- **a)** sans le soumettre à l’inspection officielle s’il présente à la Commission, dans les trois jours suivant le déchargement complet du grain, un rapport concernant ce déchargement dans un format accepté par celle-ci;
-- **b)** sans le soumettre à la pesée officielle s’il présente à la Commission, dans les trois jours suivant le déchargement complet du grain, un rapport concernant ce déchargement dans un format accepté par celle-ci.
-> DORS/2010-55, art. 1.
-
-
-
-
-**49** [Abrogé, DORS/2004-198, art. 21]
+**48** L’exploitant d’une installation terminale agréée peut recevoir du grain sans le soumettre à l’inspection ou à la pesée dans les cas suivants :
+- **a)** il s’agit de grain de l’Est;
+- **b)** il s’agit de grain étranger;
+- **c)** il s’agit de grain de l’Ouest qui a déjà été soumis à l’inspection et à la pesée à une installation terminale agréée.
+> DORS/2010-55, art. 1; DORS/2013-111, art. 12.
 
 
 
-**50** L’exploitant d’une installation de transbordement agréée peut :
-- **a)** recevoir du grain sans le soumettre à l’inspection officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à cette inspection et qu’un échantillon non officiel de ce grain n’a pas non plus été soumis au classement par la Commission, avant ou dès sa réception, au lieu de l’inspection officielle;
-- **b)** décharger du grain sans le soumettre à l’inspection officielle dans les cas suivants :
-	- **(i)** le grain n’est pas destiné à l’exportation,
-	- **(ii)** le grain est destiné à être exporté aux États-Unis,
-	- **(iii)** il s’agit de grain de l’Est qui est destiné à être exporté par navire, qui a déjà été soumis à l’inspection officielle et qui satisfait aux conditions concernant la vente et l’inspection du grain prévues dans le document publié sous l’autorité de la Commission et intitulé Politique sur le grain de l’Est préalablement inspecté;
-- **c)** recevoir du grain sans le soumettre à la pesée officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à la pesée officielle;
-- **d)** décharger du grain sans le soumettre à la pesée officielle dans les cas suivants :
-	- **(i)** le grain n’est pas destiné à l’exportation,
-	- **(ii)** le grain est destiné à être exporté aux États-Unis.
-> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5; DORS/2010-55, art. 2.
+
+**49** Il peut décharger du grain sans le soumettre à l’inspection et à la pesée officielles dans les cas suivants :
+- **a)** le grain est destiné à être exporté aux États-Unis;
+- **b)** le grain n’est pas destiné à l’exportation.
+> DORS/2013-111, art. 12.
 
 
 
 
 
-### Détermination des impuretés à une installation de transbordement agréée
+### Détermination des impuretés à une installation terminale agréée
 
 
-**51** Dans les endroits où la Commission n’offre pas de service d’inspection officielle, l’exploitant d’une installation de transbordement agréée détermine avec précision les impuretés contenues dans le grain livré à l’installation, et ce, en arrondissant la quantité d’impuretés à 0,1 % près.
-> DORS/89-393, art. 4; DORS/96-508, art. 38; DORS/2000-213, art. 2; DORS/2004-198, art. 22.
+**50** L’exploitant d’une installation terminale agréée détermine avec précision les impuretés contenues dans le grain livré à l’installation, et ce, en arrondissant la quantité d’impuretés à 0,1 % près.
+> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5; DORS/2010-55, art. 2; DORS/2013-111, art. 12.
 
 
 
 
 
-### Impuretés
+### Réinspection par l’inspecteur en chef des grains pour le Canada
 
 
-**52** [Abrogé, DORS/2004-198, art. 23]
+**51** 
+
+- **(1)** La demande de réinspection ainsi que l’échantillon visés au paragraphe 70(5) de la Loi sont transmis à l’inspecteur en chef des grains pour le Canada dans les cinq jours suivant la date de l’inspection initiale.
+
+- **(2)** La demande comporte les renseignements suivants :
+	- **a)** la désignation du lot de grain d’où provient l’échantillon;
+	- **b)** le nom et l’emplacement de l’installation terminale agréée où l’échantillon a été prélevé;
+	- **c)** la date de l’inspection initiale;
+	- **d)** le grade attribué au lot de grain ainsi que les impuretés que le grain contient.
+
+- **(3)** L’échantillon est, à la fois :
+	- **a)** d’au moins 1 kg;
+	- **b)** prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
+	- **c)** expédié en port payé, dans un contenant qui en préservera l’intégrité;
+	- **d)** accompagné d’un formulaire accepté par la Commission sur lequel sont indiqués le nom et l’adresse postale de chacun des destinataires du rapport sur le grade et les impuretés;
+	- **e)** identifié par un numéro ou un autre élément que l’expéditeur n’a utilisé pour aucun autre échantillon au cours de la même campagne agricole.
+> DORS/89-393, art. 4; DORS/96-508, art. 38; DORS/2000-213, art. 2; DORS/2004-198, art. 22; DORS/2013-111, art. 12.
+
+
+
+
+
+### Échantillonnage du grain qui n’a pas été inspecté au moment de sa réception à une installation terminale agréée
+
+
+**52** L’échantillonnage visé au paragraphe 70.1(2) de la Loi s’effectue de la façon suivante :
+- **a)** chaque échantillon est prélevé au moment du chargement du grain sur le wagon;
+- **b)** il est d’au moins 1 kg;
+- **c)** il est prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
+- **d)** il est expédié en port payé à la Commission, dans un contenant qui en préservera l’intégrité.
+> DORS/2013-111, art. 12.
+
+
+
+
+
+### Échantillonnage du grain à sa réception d’une installation terminale agréée où il n’a pas fait l’objet d’une inspection
+
+
+**52.1** L’échantillonnage visé au paragraphe 70.4(2) de la Loi s’effectue de la façon suivante :
+- **a)** chaque échantillon est d’au moins 1 kg;
+- **b)** il est prélevé de façon à représenter un échantillon moyen et caractéristique du lot de grain dont il provient;
+- **c)** il est expédié en port payé à la Commission, dans un contenant qui en préservera l’intégrité.
+> DORS/2013-111, art. 12.
+
 
 
 
@@ -751,11 +779,11 @@ Autorités habilitantes :
 
 
 
-**53** L’exploitant d’une installation terminale ou de transbordement agréée qui désire obtenir l’autorisation de la Commission prévue à l’alinéa 75b) de la Loi pour décharger du grain contenant des impuretés en fait la demande par écrit à la Commission en indiquant :
+**53** L’exploitant d’une installation terminale agréée qui désire obtenir l’autorisation de la Commission prévue à l’alinéa 75b) de la Loi pour décharger du grain contenant des impuretés en fait la demande par écrit à la Commission en indiquant :
 - **a)** le type, le grade et la quantité du grain;
 - **b)** la destination finale du grain;
 - **c)** les motifs de la demande.
-> DORS/2000-213, art. 2; DORS/2004-198, art. 24.
+> DORS/2000-213, art. 2; DORS/2004-198, art. 24; DORS/2013-111, art. 13.
 
 
 
@@ -776,14 +804,14 @@ Autorités habilitantes :
 ### Stockage en cellule
 
 
-**57** L’exploitant d’une installation terminale ou de transbordement agréée peut stocker du grain en cellule si :
+**57** L’exploitant d’une installation terminale agréée peut stocker du grain en cellule si :
 - **a)** soit les conditions ci-après sont réunies :
-	- **(i)** il a conclu avec la personne demandant le stockage un contrat de stockage en cellule conforme à la formule 15 de l’annexe 4,
+	- **(i)** il a conclu avec la personne demandant le stockage un contrat de stockage en cellule conforme à la formule 15 de l’annexe 4,
 	- **(ii)** le grain est stocké conformément au contrat,
 	- **(iii)** pas plus de 30 % de la capacité totale de l’installation est affectée par contrat au stockage de grain en cellule,
 	- **(iv)** l’exploitant dépose une copie du contrat auprès de la Commission avant sa date d’entrée en vigueur;
 - **b)** soit le grain est mis en cellule selon sa teneur en protéines.
-> DORS/84-626, art. 11; DORS/89-376, art. 14(F); DORS/96-508, art. 39; DORS/2000-213, art. 2; DORS/2003-284, art. 26; DORS/2004-198, art. 27.
+> DORS/84-626, art. 11; DORS/89-376, art. 14(F); DORS/96-508, art. 39; DORS/2000-213, art. 2; DORS/2003-284, art. 26; DORS/2004-198, art. 27; DORS/2013-111, art. 14.
 
 
 
@@ -793,73 +821,34 @@ Autorités habilitantes :
 
 
 
-### Enregistrement et annulation des récépissés d’installations terminales ou de transbordement
+### Récépissés d’installation terminale
 
 
-**58** 
-
-- **(1)** Le récépissé d’installation terminale et le récépissé d’installation de transbordement doivent être conformes respectivement aux formules 9 et 10 de l’annexe 4.
-
-- **(2)** La Commission enregistre et annule les récépissés d’installations terminales et de transbordement délivrés par les exploitants des installations terminales ou de transbordement agréées.
-
-- **(3)** Si du grain est expédié d’une installation terminale agréée, l’exploitant de celle-ci présente à la Commission, pour annulation, les récépissés d’installation terminale enregistrés pour le type, le grade et la quantité de grain expédié :
-	- **a)** dans les trois jours ouvrables qui suivent l’expédition du grain, s’il ne s’agit pas de blé;
-	- **b)** dans les dix jours civils francs qui suivent l’expédition du grain, dans le cas du blé.
-
-- **(4)** Si du grain est expédié d’une installation de transbordement agréée, l’exploitant de celle-ci présente à la Commission, pour annulation, les récépissés d’installation de transbordement enregistrés pour le type, le grade et la quantité de grain expédié et ce, dans les vingt-quatre heures suivant le chargement du grain.
-> DORS/89-376, art. 12(F); DORS/89-395, art. 2(F); DORS/2000-213, art. 2; DORS/2002-255, art. 17; DORS/2003-284, art. 27; DORS/2004-198, art. 28.
+**58** Le récépissé d’installation terminale doit être conforme à la formule 9 de l’annexe 4.
+> DORS/89-376, art. 12(F); DORS/89-395, art. 2(F); DORS/2000-213, art. 2; DORS/2002-255, art. 17; DORS/2003-284, art. 27; DORS/2004-198, art. 28; DORS/2013-111, art. 15.
 
 
 
 
 
-### Enlèvement obligatoire du grain des installations terminales ou de transbordement agréées
+### Enlèvement obligatoire du grain des installations terminales agréées
 
 
 **59** 
 
-- **(1)** L’avis écrit donné par l’exploitant d’une installation terminale ou de transbordement agréée au dernier détenteur connu d’un récépissé d’installation terminale ou d’un récépissé d’installation de transbordement, en application de l’article 77 de la Loi, doit :
-	- **a)** lui être remis en mains propres ou expédié par courrier recommandé à sa dernière adresse connue;
-	- **b)** porter les numéros des récépissés établis pour le grain à enlever de l’installation;
-	- **c)** exiger l’enlèvement du grain de l’installation;
-	- **d)** indiquer la date limite avant laquelle le détenteur est tenu de prendre livraison du grain.
+- **(1)** L’avis écrit donné par l’exploitant d’une installation terminale au dernier détenteur connu d’un récépissé d’installation terminale, en application de l’article 77 de la Loi, satisfait aux exigences suivantes :
+	- **a)** il est remis en mains propres ou expédié par courrier recommandé à sa dernière adresse connue;
+	- **b)** il porte les numéros des récépissés établis pour le grain à enlever de l’installation;
+	- **c)** il comporte une mention exigeant l’enlèvement du grain de l’installation;
+	- **d)** il indique la date limite à laquelle le détenteur est tenu de prendre livraison du grain.
 
-- **(2)** L’exploitant d’une installation terminale ou de transbordement agréée qui donne l’avis visé au paragraphe (1) doit en envoyer en même temps copie à la Commission.
-> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2.
-
-
+- **(2)** L’exploitant de l’installation terminale agréée qui donne l’avis en transmet en même temps copie à la Commission.
+> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2; DORS/2013-111, art. 15.
 
 
 
-### Pesées de contrôle
 
-
-**60** 
-
-- **(1)** L’exploitant d’une installation primaire agréée doit :
-	- **a)** effectuer, conformément à l’article 79 de la Loi, une pesée de contrôle du grain, des produits céréaliers et des criblures entreposés dans son installation, au moins une fois tous les trois ans;
-	- **b)** fournir ensuite à la Commission un rapport sur la pesée de contrôle établi sur la formule appropriée fournie par la Commission ou sur tout support qui lui convient.
-
-- **(2)** La Commission effectue une pesée de contrôle du grain, des produits céréaliers et des criblures contenus dans toutes les installations terminales et de transbordement agréées, en application du paragraphe 80(1) de la Loi, aux intervalles suivants :
-	- **a)** dans le cas des installations terminales, au moins une fois par trente mois;
-	- **b)** dans le cas des installations de transbordement, au moins une fois par soixante mois, à moins d’avis contraire de la Commission.
-	- **c) et d)** [Abrogés, DORS/2001-273, art. 19]
-
-- **(3)** Si le pourcentage de l’écart brut de manutention, déterminé par suite d’une pesée de contrôle effectuée à une installation terminale agréée, est égal ou inférieur à 0,125 %, l’exploitant de l’installation peut conserver l’excédent résultant de l’exploitation de l’installation pour le grain de tout grade.
-
-- **(4)** Si le pourcentage de l’écart brut de manutention, déterminé par suite d’une pesée de contrôle effectuée à une installation terminale agréée, est supérieur à 0,125 %, l’excédent maximum que peut conserver l’exploitant de l’installation :
-	- **a)** pour les blés roux de printemps n<sup>o</sup> 1 et n<sup>o</sup> 2 de l’Ouest du Canada, est de 0,25 % de la quantité totale de ce grade de blé reçu entre deux pesées de contrôle consécutives effectuées à cette installation;
-	- **b)** pour tout autre grade de blé que ceux mentionnés à l’alinéa a) et pour tout autre grade de grain mentionné dans la Loi ou dans un de ses règlements, à l’exception des graines oléagineuses, du grain mélangé et des criblures, est de 0,5 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
-	- **c)** pour tout grade de graines oléagineuses, est de 2 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
-	- **d)** pour l’ensemble du grain mélangé et des criblures, est, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, la plus élevée des quantités suivantes :
-		- **(i)** 2 % du total brut de tous les grades de grain reçus entre deux pesées de contrôle consécutives effectuées à cette installation,
-		- **(ii)** le total des impuretés et de la marge de perte de poids autorisée pour tous les grains reçus entre deux pesées de contrôle consécutives effectuées à cette installation.
-
-- **(5)** L’excédent maximum, déterminé par suite d’une pesée de contrôle effectuée à une installation de transbordement agréée, que l’exploitant peut conserver en ce qui concerne du grain de tout grade, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, est de 0,0625 % de la quantité totale de grain de ce grade reçue entre deux pesées de contrôle consécutives effectuées à cette installation, sauf que, si l’excédent se produit dans un grade inférieur, il sera tenu compte des différences de valeurs représentées par les déficits dans les grades supérieurs.
-
-- **(6)** S’il est constaté, lors d’une pesée de contrôle à une installation terminale ou de transbordement agréée, que la quantité de grain stockée à cette installation est déficitaire par rapport à la quantité de grain que représentent tous les récépissés en circulation pour le grain de ce type et de ce grade à cette installation, l’exploitant doit présenter ces récépissés pour annulation avant de présenter pour enregistrement les récépissés pour le grain dont il a été établi, lors de la pesée de contrôle, qu’il est en excédent par rapport à la quantité de grain représentée par les récépissés en circulation.
-> DORS/89-376, art. 12(F) et 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 19; DORS/2003-284, art. 28; DORS/2005-361, art. 10(A); DORS/2011-45, art. 2.
-
+**60** [Abrogé, DORS/2013-111, art. 15]
 
 
 
@@ -962,11 +951,11 @@ Autorités habilitantes :
 - **(1)** Toute personne peut transporter ou faire transporter :
 	- **a)** du grain de l’Ouest de la région de l’Ouest à la région de l’Est, ou du grain de l’Est de la région de l’Est à la région de l’Ouest, à condition d’en aviser au préalable la Commission par écrit en précisant le type, la quantité et la destination du grain;
 	- **b)** tout grain destiné à l’exportation ayant comme destination finale les États-Unis, à condition d’en aviser au préalable la Commission par écrit;
-	- **c)** tout grain destiné à l’exportation par conteneur, à condition d’en aviser au préalable la Commission par écrit;
-	- **d)** [Abrogé, DORS/2004-198, art. 33]
+	- **c)** tout grain destiné à l’exportation par conteneur, à condition de présenter à la Commission un rapport sur les exportations de la semaine précédente, sur tout support électronique accepté par celle-ci.
+	- **d)** [Abrogé, DORS/2004-198, art. 33]
 
-- **(2)** [Abrogé, DORS/2004-198, art. 33]
-> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F); DORS/2010-55, art. 3.
+- **(2)** [Abrogé, DORS/2004-198, art. 33]
+> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F); DORS/2010-55, art. 3; DORS/2013-111, art. 16.
 
 
 
@@ -1005,542 +994,290 @@ Autorités habilitantes :
 
 
 ### **ANNEXE 1** 
-**(article 2)**
-## Droits exigés par la Commission
+**(article 2 et paragraphe 21(3))**
 <table>
-<h4>Frais à payer dans les régions de l’ouest et de l’est</h4>
+<h4>Droits exigés par la Commission</h4>
 <tr>
 <th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+<th>Colonne 4</th>
 </tr>
 <tr>
-<th>Service</th>
-<th>Unité de base</th>
-<th>Droit ($)</th>
+<th>Droits, par exercice financier</th>
 </tr>
 <tr>
-<td>SERVICES D’INSPECTION</td>
+<th>Désignation du droit</th>
+<th>Description du service</th>
+<th>Unité (par)</th>
+<th>2013-2014</th>
+<th>2014-2015</th>
+<th>2015-2016</th>
+<th>2016-2017</th>
+<th>2017-2018</th>
+</tr>
+<tr>
+<td>Inspection officielle à la sortie</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Inspection du grain, des criblures ou du grain étranger aux installations terminales ou aux installations de transbordement agréées (payable par l’exploitant) :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** en wagons, en camions ou en conteneurs au déchargement
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** pour chaque inspection, par wagon, par camion ou par conteneur :
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>**—** blé (sauf le blé CPS et le blé de l’Est)
-
-</td>
-<td>27,10</td>
-</tr>
-<tr>
-<td>**—** blé CPS et blé de l’Est
-
-</td>
-<td>20,10</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation lorsque l’inspection n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**(iii)** [Abrogé, DORS/2001-273, art. 25]
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>**b)** en wagons, en camions ou en conteneurs, lorsque l’inspection est effectuée au cours du chargement
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** pour chaque inspection, par wagon, par camion ou par conteneur
-
-</td>
-<td>29,00</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque l’inspection sur place n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**c)** sur livraison aux navires ou aux cellules d’ensachage :
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** lorsque le grain n’a pas été officiellement inspecté auparavant au cours du chargement ou du déchargement des navires
-
-</td>
-<td>par tonne métrique</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td>**(ii)** aux installations de transbordement, lorsque le grain a été officiellement inspecté auparavant au cours du chargement ou du déchargement des navires ou au cours du chargement des wagons
-
-</td>
-<td>par tonne métrique</td>
-<td>0,25</td>
-</tr>
-<tr>
-<td>**d)** sur réception des navires :
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** pour l’inspection demandée de l’état ou de l’infestation du grain, ou des deux
-
-</td>
-<td>par tonne métrique</td>
-<td>0,25</td>
-</tr>
-<tr>
-<td>**(ii)** pour l’inspection officielle
-
-</td>
-<td>par tonne métrique</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td>**e)** sur réception ou livraison non visée aux alinéas a) à d)
-
-</td>
-<td>par tonne métrique</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td>**f)** lorsque du grain ou du grain étranger stocké dans une installation est inspecté au cours d’un transfert interne effectué à une fin autre que la pesée de contrôle exigée par la Commission
-
-</td>
-<td>par tonne métrique</td>
-<td>0,25</td>
-</tr>
-<tr>
-<td>**g)** pour une pesée de contrôle exigée par la Commission
-
-</td>
-<td>par tonne métrique</td>
-<td>gratuit</td>
+<td>Inspection officielle à la sortie — navires (à payer par l’exploitant de l’installation)</td>
+<td>Inspection officielle du grain ou des criblures déchargés dans des navires et établissement d’un certificat</td>
+<td>Tonne métrique</td>
+<td>1,60 $</td>
+<td>1,63 $</td>
+<td>1,65 $</td>
+<td>1,68 $</td>
+<td>1,70 $</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Inspection du grain, des criblures ou du grain étranger à des endroits autres que les installations terminales ou les installations de transbordement agréées (payable par la personne demandant le service) :</td>
-<td></td>
-<td></td>
+<td>Inspection officielle à la sortie — wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
+<td>Inspection officielle du grain ou des criblures déchargés dans des wagons, des camions ou des conteneurs et établissement d’un certificat</td>
+<td>Inspection</td>
+<td>143,99 $</td>
+<td>146,29 $</td>
+<td>148,63 $</td>
+<td>151,01 $</td>
+<td>153,43 $</td>
 </tr>
 <tr>
-<td>**a)** classement des échantillons non officiels soumis, si un certificat est délivré (à payer par la personne qui soumet l’échantillon)
-
-</td>
-<td>la somme de, par échantillon :</td>
-<td>15,10</td>
-</tr>
-<tr>
-<td>**—** blé de printemps Canada Prairie et blé de l’Est
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>**b)** [Abrogé, DORS/2006-206, art. 6]
-
-</td>
-<td></td>
-<td></td>
+<td>Réinspection</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Réinspection du grain (payable par la personne demandant le service) :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** lorsque le grade est maintenu à la réinspection par l’inspecteur principal à l’endroit de la première inspection
+<td>Réinspection du grain (à payer par la personne demandant la réinspection)</td>
+<td>Réinspection par l’inspecteur en chef des grains pour le Canada ou un autre inspecteur autorisé relativement à :**a)** une inspection du grain à l’arrivage;
+
+**b)** une inspection d’un échantillon soumis
 
 </td>
-<td>pour chaque réinspection</td>
-<td>7,50</td>
+<td>Réinspection</td>
+<td>70,48 $</td>
+<td>71,61 $</td>
+<td>72,76 $</td>
+<td>73,92 $</td>
+<td>75,11 $</td>
 </tr>
 <tr>
-<td>**b)** lorsque le grade est maintenu à la réinspection par l’inspecteur en chef des grains à Winnipeg
-
-</td>
-<td>pour chaque réinspection</td>
-<td>15,00</td>
-</tr>
-<tr>
-<td>**c)** lorsque le grade n’est pas maintenu à la réinspection
-
-</td>
-<td>pour chaque réinspection</td>
-<td>gratuit</td>
-</tr>
-<tr>
-<td>SERVICES DE PESÉE</td>
+<td>Pesée officielle à la sortie</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Pesée officielle du grain, des produits céréaliers, des criblures ou du grain étranger aux installations terminales, installations terminales intérieures ou installations de transbordement agréées (payable par l’exploitant) :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** en wagons, en camions ou en conteneurs, lorsque la pesée est effectuée au cours du déchargement :
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** lorsque le grain n’a pas été officiellement pesé auparavant
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** par wagon, par camion ou par conteneur
-
-</td>
-<td>5,90</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**(ii)** lorsque le grain a été officiellement pesé auparavant
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** par tonne métrique
-
-</td>
-<td>0,12</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**b)** sur livraison aux wagons
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** par wagon
-
-</td>
-<td>18,00</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**c)** sur livraison aux conteneurs ou aux camions
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** par tonne métrique
-
-</td>
-<td>0,27</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**d)** sur livraison aux navires et aux cellules d’ensachage :
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** lorsque le grain n’a pas été officiellement pesé auparavant au cours du chargement ou du déchargement des navires
-
-</td>
-<td>par tonne métrique</td>
-<td>0,27</td>
-</tr>
-<tr>
-<td>**(ii)** aux installations de transbordement, lorsque le grain a été officiellement pesé auparavant au cours du chargement ou du déchargement des navires ou au cours du chargement des wagons
-
-</td>
-<td>par tonne métrique</td>
-<td>0,12</td>
-</tr>
-<tr>
-<td>**e)** sur réception des navires, lorsque la pesée est demandée
-
-</td>
-<td>par tonne métrique</td>
-<td>0,27</td>
-</tr>
-<tr>
-<td>**f)** sur réception ou livraison non visée aux alinéas a) à e)
-
-</td>
-<td>la somme de (en fonction du service) :</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** par tonne métrique
-
-</td>
-<td>0,27</td>
-</tr>
-<tr>
-<td>**(ii)** pour chaque employé, salaire à la démarcation
-
-</td>
-<td>frais de déplacement et de subsistance</td>
-</tr>
-<tr>
-<td>**g)** lorsque du grain, des produits céréaliers, des criblures ou du grain étranger stockés dans une installation sont pesés au cours d’un transfert interne effectué à une fin autre que la pesée de contrôle exigée par la Commission
-
-</td>
-<td>par tonne métrique</td>
-<td>0,22</td>
-</tr>
-<tr>
-<td>**h)** pour une pesée de contrôle exigée par la Commission
-
-</td>
-<td>par tonne métrique</td>
-<td>gratuit</td>
-</tr>
-<tr>
-<td>AUTRES SERVICES</td>
+<td>Pesée officielle à la sortie — navires (à payer par l’exploitant de l’installation)</td>
+<td>Supervision d’une pesée officielle du grain ou des criblures déchargés dans des navires et établissement d’un certificat</td>
+<td>Tonne métrique</td>
+<td>0,15 $</td>
+<td>0,16 $</td>
+<td>0,16 $</td>
+<td>0,16 $</td>
+<td>0,16 $</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Récépissés d’installations terminales (service payable par l’exploitant) :</td>
-<td></td>
-<td></td>
+<td>Pesée officielle à la sortie — wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
+<td>Supervision d’une pesée officielle du grain ou des criblures déchargés dans des wagons, des camions ou des conteneurs et établissement d’un certificat</td>
+<td>Wagon, camion ou conteneur</td>
+<td>13,87 $</td>
+<td>14,09 $</td>
+<td>14,31 $</td>
+<td>14,54 $</td>
+<td>14,78 $</td>
 </tr>
 <tr>
-<td>**a)** pour l’enregistrement au déchargement
-
-</td>
-<td>par tonne métrique</td>
-<td>0,080</td>
-</tr>
-<tr>
-<td>**b)** pour l’annulation à l’expédition
-
-</td>
-<td>par tonne métrique</td>
-<td>0,080</td>
+<td>Autorisation d’un tiers — inspection ou pesée à l’arrivage</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Récépissés d’installations de transbordement (service payable par l’exploitant) :</td>
-<td></td>
-<td></td>
+<td>Demande d’autorisation d’un tiers (à payer par le demandeur)</td>
+<td>Traitement d’une demande d’autorisation d’un tiers pour procéder à des inspections ou des pesées à l’arrivage</td>
+<td>Demande</td>
+<td>140,97 $</td>
+<td>143,22 $</td>
+<td>145,52 $</td>
+<td>147,84 $</td>
+<td>150,21 $</td>
 </tr>
 <tr>
-<td>**a)** pour l’enregistrement au déchargement
-
-</td>
-<td>par tonne métrique</td>
-<td>0,011</td>
-</tr>
-<tr>
-<td>**b)** pour l’annulation à l’expédition
-
-</td>
-<td>par tonne métrique</td>
-<td>0,011</td>
+<td>Frais supplémentaires pour inspection officielle à la sortie</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Traitement des demandes pour wagons de producteurs (payable par le producteur)</td>
-<td>par wagon</td>
-<td>20,00</td>
+<td>Déplacement et logement (à payer par l’exploitant de l’installation)</td>
+<td>Déplacement et logement pour procéder à une inspection officielle à la sortie dans les endroits où une telle inspection n’est pas offerte sur place par la Commission</td>
+<td>Voyage</td>
+<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
+<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
+<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
+<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
+<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Appel interjeté devant le tribunal d’appel pour les grains (payable par l’appelant) :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** si le tribunal modifie le grade ou la défalcation pour impuretés
-
-</td>
-<td>pour chaque appel interjeté</td>
-<td>gratuit</td>
-</tr>
-<tr>
-<td>**b)** si le tribunal ne modifie pas le grade ou la défalcation pour impuretés
-
-</td>
-<td>pour chaque appel interjeté</td>
-<td>25,00</td>
+<td>Heures supplémentaires à tarif et demi (à payer par l’exploitant de l’installation)</td>
+<td>Heures supplémentaires effectuées pour procéder à une inspection officielle à la sortie</td>
+<td>Heure/employé</td>
+<td>64,50 $</td>
+<td>65,53 $</td>
+<td>66,58 $</td>
+<td>67,65 $</td>
+<td>68,73 $</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Droits exigés pour l’obtention d’une licence :</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** installation primaire
-
-</td>
-<td>par licence, par mois</td>
-<td>5,00</td>
-</tr>
-<tr>
-<td>**b)** installation de transformation
-
-</td>
-<td>par licence, par mois</td>
-<td>100,00</td>
-</tr>
-<tr>
-<td>**c)** installation terminale
-
-</td>
-<td>par licence, par mois</td>
-<td>100,00</td>
-</tr>
-<tr>
-<td>**d)** installation de transbordement
-
-</td>
-<td>par licence, par mois</td>
-<td>100,00</td>
-</tr>
-<tr>
-<td>**e)** négociant en grains
-
-</td>
-<td>par licence, par mois</td>
-<td>100,00</td>
+<td>Heures supplémentaires à tarif double (à payer par l’exploitant de l’installation)</td>
+<td>Heures supplémentaires effectuées pour procéder à une inspection officielle à la sortie</td>
+<td>Heure/employé</td>
+<td>86,00 $</td>
+<td>87,38 $</td>
+<td>88,77 $</td>
+<td>90,19 $</td>
+<td>91,64 $</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Frais de disponibilité (payables par la personne demandant le service d’inspection ou de pesage)</td>
-<td>pour chaque employé, par heure, salaire à la démarcation</td>
-<td>28,20 plus les frais de déplacement et de subsistance</td>
+<td>Heures supplémentaires à tarif et demi — annulation (à payer par l’exploitant de l’installation)</td>
+<td>Annulation tardive d’heures supplémentaires pour procéder à une inspection officielle à la sortie</td>
+<td>Employé se présentant au travail</td>
+<td>193,50 $</td>
+<td>196,60 $</td>
+<td>199,74 $</td>
+<td>202,94 $</td>
+<td>206,18 $</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Service pour les heures supplémentaires (payable par la personne demandant le service) :</td>
-<td></td>
-<td></td>
+<td>Heures supplémentaires à tarif double — annulation (à payer par l’exploitant de l’installation)</td>
+<td>Annulation tardive d’heures supplémentaires pour procéder à une inspection officielle à la sortie</td>
+<td>Employé se présentant au travail</td>
+<td>258,00 $</td>
+<td>262,13 $</td>
+<td>266,32 $</td>
+<td>270,58 $</td>
+<td>274,91 $</td>
 </tr>
 <tr>
-<td>**a)** pour les huit premières heures de travail qui suivent immédiatement les huit heures régulières de travail, du lundi au vendredi, à l’exclusion des jours fériés
-
-</td>
-<td>pour chaque employé, par heure de travail, en plus des droits réguliers</td>
-<td>14,20</td>
+<td>12</td>
+<td>Disponibilité (à payer par l’exploitant de l’installation)</td>
+<td>Disponibilité d’un employé pour procéder à une inspection officielle à la sortie pendant ses heures hors service</td>
+<td>Heure/employé</td>
+<td>43,00 $</td>
+<td>43,69 $</td>
+<td>44,39 $</td>
+<td>45,10 $</td>
+<td>45,82 $</td>
 </tr>
 <tr>
-<td>**b)** pour toutes les heures de travail accomplies immédiatement après seize heures de travail consécutives ou accomplies après les huit premières heures qui ne suivent pas immédiatement les heures régulières de travail, du lundi au vendredi, à l’exclusion des jours fériés
-
-</td>
-<td>pour chaque employé, par heure de travail, en plus des droits réguliers</td>
-<td>21,00</td>
+<td>Délivrance de licences</td>
 </tr>
 <tr>
-<td>**c)** pour les huit premières heures de travail qui ne suivent pas immédiatement les huit heures régulières de travail, du lundi au vendredi, et pour les huit premières heures de travail le samedi, à l’exclusion des jours fériés
-
-</td>
-<td>le plus élevé des montants suivants :</td>
-<td></td>
+<td>13</td>
+<td>Licence pour une période complète (à payer par le titulaire)</td>
+<td>Délivrance d’une licence (de toute catégorie) pour un an ou, si la licence est délivrée suivant l’expiration d’une ou de plusieurs licences à court terme, pour une période équivalant au reste de l’année qui a commencé lors de la délivrance de la première licence à court terme</td>
+<td>Licence/mois ou partie de mois</td>
+<td>276,00 $</td>
+<td>280,00 $</td>
+<td>285,00 $</td>
+<td>289,00 $</td>
+<td>294,00 $</td>
 </tr>
 <tr>
-<td>**(i)** pour chaque employé, par heure de travail, en plus des droits réguliers
-
-</td>
-<td>14,20</td>
+<td>14</td>
+<td>Licence à court terme (à payer par le titulaire)</td>
+<td>Délivrance d’une licence (de toute catégorie) pour un mois ou une partie de mois</td>
+<td>Licence</td>
+<td>353,00 $</td>
+<td>358,00 $</td>
+<td>364,00 $</td>
+<td>370,00 $</td>
+<td>376,00 $</td>
 </tr>
 <tr>
-<td>**(ii)** pour chaque employé se présentant au travail
-
-</td>
-<td>107,20</td>
+<td>Wagons de producteurs</td>
 </tr>
 <tr>
-<td>**d)** pour toutes les heures de travail accomplies après les huit premières heures de travail le samedi, et pour toutes les heures de travail accomplies le dimanche et autres jours fériés
-
-</td>
-<td>le plus élevé des montants suivants :</td>
-<td></td>
+<td>15</td>
+<td>Demande de wagon de producteurs (à payer par le producteur)</td>
+<td>Traitement d’une demande de wagon de producteurs</td>
+<td>Wagon demandé</td>
+<td>26,50 $</td>
+<td>27,00 $</td>
+<td>27,50 $</td>
+<td>28,00 $</td>
+<td>28,50 $</td>
 </tr>
 <tr>
-<td>**(i)** pour chaque employé, par heure de travail, en plus des droits réguliers
-
-</td>
-<td>21,00</td>
+<td>Inspection d’échantillons soumis</td>
 </tr>
 <tr>
-<td>**(ii)** pour chaque employé se présentant au travail
-
-</td>
-<td>107,20</td>
+<td>16</td>
+<td>Inspection d’un échantillon soumis — échantillon non officiel (à payer par la personne soumettant l’échantillon)</td>
+<td>Inspection d’un échantillon non officiel du grain ou des criblures et établissement d’un certificat</td>
+<td>Échantillon</td>
+<td>46,99 $</td>
+<td>47,74 $</td>
+<td>48,51 $</td>
+<td>49,28 $</td>
+<td>50,07 $</td>
 </tr>
 <tr>
-<td>12. et 13. [Abrogés, DORS/2000-213, art. 5]</td>
+<td>17</td>
+<td>Inspection d’un échantillon soumis — Programme d’échantillonnage certifié de conteneurs (à payer par la personne soumettant l’échantillon)</td>
+<td>Inspection d’un échantillon de grain ou de criblures prélevé par une entreprise certifiée dans le cadre du Programme d’échantillonnage certifié de conteneurs de la Commission et établissement d’un certificat</td>
+<td>Échantillon</td>
+<td>46,99 $</td>
+<td>47,74 $</td>
+<td>48,51 $</td>
+<td>49,28 $</td>
+<td>50,07 $</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Inspection d’un échantillon soumis — Programme d’échantillonneurs accrédités de conteneurs (à payer par la personne soumettant l’échantillon)</td>
+<td>Inspection d’un échantillon de grain ou de criblures prélevé par une tierce partie accréditée dans le cadre du Programme d’échantillonneurs accrédités de conteneurs de la Commission et établissement d’un certificat</td>
+<td>Échantillon</td>
+<td>46,99 $</td>
+<td>47,74 $</td>
+<td>48,51 $</td>
+<td>49,28 $</td>
+<td>50,07 $</td>
 </tr>
 </table>
 
 
-## Remarques :
+###### REMARQUES :
 
-- **1** Lorsqu’il faut plus d’un certificat par wagon, des droits d’inspection et de pesée distincts sont perçus pour chaque certificat délivré.
-- **2** Lorsque le grain dans tous les compartiments d’un wagon-trémie ne peut être déchargé en une seule fois, ce qui nécessite des services supplémentaires d’inspection et de pesée pour le wagon, les droits d’inspection et de pesée sont perçus chaque fois que les services sont rendus pour ce grain dans ce wagon.
-- **3** Les droits qui figurent dans la présente annexe ne comprennent pas la taxe. La taxe sur les produits et services sera ajoutée à tous les droits, sauf ceux applicables aux services visés aux articles 5 à 7 et 9, qui en sont exemptés.
-- **4** Les droits sont arrondis au cent près.
-> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6.
+Droits visés aux articles 2 et 5
+
+**1** Lorsqu’il faut plus d’un certificat par wagon, camion ou conteneur, des droits d’inspection et de pesée distincts sont perçus pour chaque certificat établi.
+
+
+
+
+Droits visés aux articles 8 à 12
+
+**2** Le tarif applicable (tarif et demi ou tarif double) aux heures supplémentaires et le début des heures supplémentaires et de la disponibilité sont déterminés conformément à la convention collective relative aux inspecteurs (classification Inspection des produits primaires, groupe Services techniques), dont le texte se trouve sur le site Web du Secrétariat du Conseil du Trésor du Canada.
+
+
+
+
+Droits visés aux articles 10 et 11
+
+**3** Les frais d’annulation des heures supplémentaires ne sont pas exigibles si la Commission reçoit un avis d’annulation au plus tard à 14 h le jour prévu de l’inspection ou, s’il s’agit d’un samedi ou un jour férié, au plus tard à 14 h le jour — autre qu’un samedi ou un jour férié — précédant ce jour.
+
+
+
+**4** Les droits ne comprennent pas la taxe sur les produits et services.
+
+
+
+**5** Les droits sont arrondis au cent près. Les heures supplémentaires sont calculées par tranche de quinze minutes.
+
+
+
+
+> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1.
 
 
 
@@ -1558,11 +1295,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 
 
 ### **FORMULE 3** 
-## Serment ou affirmation solennelle professionnels du membre d’un tribunal d’appel pour les grains
-Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans partialité et de mon mieux les fonctions de membre du tribunal d’appel pour les grains de la division (de l’Ouest) (de l’Est) et que je n’agirai pas en cette qualité en cas d’appel concernant du grain qui présente pour moi un intérêt financier. (*Ajouter ce qui suit dans le cas d’un serment :* « Ainsi Dieu me soit en aide. »)
+[Abrogée, DORS/2013-111, art. 17]
 
 
-> DORS/2000-213, art. 7; DORS/2001-273, art. 31; DORS/2002-255, art. 20; DORS/2003-284, art. 34.
+> DORS/2000-213, art. 7; DORS/2001-273, art. 31; DORS/2002-255, art. 20; DORS/2003-284, art. 34; DORS/2013-111, art. 17.
 
 
 
@@ -2350,51 +2086,12 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-#### TABLEAU 13
-<table>
-<h4>Solin, Ouest canadien (OC)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales de dommages</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Condition</th>
-<th>Échauffé</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>OC n<sup>o</sup> 1</td>
-<td>65</td>
-<td>Toute variété de la classe de solin, Ouest canadien désignée comme telle par arrêté de la Commission</td>
-<td>Mûr, odeur agréable, bonne couleur naturelle</td>
-<td>0,05</td>
-<td>5</td>
-</tr>
-<tr>
-<td>OC n<sup>o</sup> 2</td>
-<td>62</td>
-<td>Toute variété de la classe de solin, Ouest canadien désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement bien mûri, odeur agréable, couleur naturelle raisonnablement bonne</td>
-<td>0,2</td>
-<td>10</td>
-</tr>
-<tr>
-<td>OC n<sup>o</sup> 3</td>
-<td>Aucun minimum</td>
-<td>Toute variété de solin</td>
-<td>Exclu des grades supérieurs en raison du poids léger ou de graines endommagées; peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur nettement sure, rance ou de moisi, ni d’odeur qui révèle une forte détérioration</td>
-<td>1</td>
-<td>20</td>
-</tr>
-</table>
+TABLEAU 13
+
+[Abrogé, DORS/2013-145, art. 1]
+
+
+
 
 #### TABLEAU 14
 <table>
@@ -5368,7 +5065,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1.
 
 
 
@@ -5406,14 +5103,81 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 4
 [Abrogée, DORS/2011-45, art. 4]
 
 
-### **FORMULE 9** 
-**(paragraphe 58(1))**
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/78-55, ART. 7; DORS/89-376, ART. 14(F); DORS/89-395, ART. 2(F); DORS/2004-198, ART. 42(A)
 
+
+--------------------------
+
+
+### **FORMULE 9** 
+**(article 58)**
+## Récépissé d’installation terminale
+<table>
+<tr>
+<td>Numéro du récépissé :</td>
+</tr>
+<tr>
+<td>Date d’émission :</td>
+</tr>
+<tr>
+<td>Société exploitant l’installation :</td>
+</tr>
+<tr>
+<td>Nous accusons réception du grain mentionné ci-dessous (type, grade et quantité), stocké dans notre installation située à _________________________ pour le compte de _________________________.</td>
+</tr>
+<tr>
+<td>Grain</td>
+<td>Teneur en protéines (%)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Grade</td>
+<td>Tonnes métriques nettes</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Taux d’impuretés (%)</td>
+<td>Livré par wagon (ID)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Livré par camion (ID)</td>
+<td>Nom du navire</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Date de réception du grain</td>
+<td>Frais de stockage accumulés payés à ce jour</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>AVERTISSEMENT : Lorsque les frais dus aux termes de ce récépissé le sont depuis plus d’un an, le grain peut être vendu, auquel cas le détenteur n’a, par la suite, que le droit de recevoir, sur remise du présent récépissé, le produit de la vente du grain, défalcation faite de ces frais et des frais de vente.</td>
+<td>AVERTISSEMENT : Le droit du détenteur du présent récépissé d’obtenir livraison du grain qui y est mentionné peut être modifié par l’émetteur du récépissé sur avis au dernier détenteur connu de lui. Tout détenteur doit immédiatement notifier à l’émetteur du récépissé son nom et son adresse.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>REMARQUE : Si le récépissé est émis pour du grain visé au paragraphe 71(2) de la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md), la présente doit comporter la mention suivante : « Le présent récépissé est établi sous réserve de retrait et de rectification ».</td>
+</tr>
+</table>
 
 ### **FORMULE 10** 
-**(paragraphe 58(1))**
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 9; DORS/2004-198, ART. 42(A)
+[Abrogée, DORS/2013-111, art. 19]
 
 
 ### **FORMULE 11** 
@@ -5440,6 +5204,11 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(
 
 
 
+
+
+--------------------------
+
+
 ### **FORMULE 15** 
 ## Contrat de stockage en cellule
 À :
@@ -5449,7 +5218,7 @@ Conformément à l’article 57 du Règlement sur les grains du Canada, nous acc
 ____________________
 (*quantité*) 
 ____________________
-(*brute ou nette*)  tonnes d’entreposage d’équivalent blé dans notre 
+(*brute ou nette*) tonnes métriques d’entreposage d’équivalent blé dans notre 
 ____________________
 (*emplacement et désignation de l’installation*) aux fins de stockage en cellule de 
 ____________________
@@ -5458,7 +5227,7 @@ ____________________
 
 Le grain ou le produit céréalier visé par le présent contrat sera stocké dans :
 
-*Numéro(s) de cellule(s) :Capacité :(brute**ou nette*)
+*Numéro(s) de cellule(s) : Capacité : (brute ou nette)*
 
 
 
@@ -5482,7 +5251,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4.
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4; DORS/2013-111, art. 18, 19 et 20(F).
 
 
 
