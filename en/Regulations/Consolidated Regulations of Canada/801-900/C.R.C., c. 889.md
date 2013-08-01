@@ -12,26 +12,24 @@ Enabling authorities:
 
 **1** The definitions in this section apply in these Regulations.
 
-***accountable gross weight***[Repealed, SOR/2004-198, s. 1]
+***accountable gross weight***[Repealed, SOR/2004-198, s. 1]
 
-***Act*** means the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md). (*Loi*)
+***Act*** means the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md). (*Loi*)
 
-***grading of unofficial samples***[Repealed, SOR/2001-273, s. 1]
+***grading of unofficial samples***[Repealed, SOR/2001-273, s. 1]
 
-***gross handling variance*** means the variance between the gross weight of all grain, grain products and screenings
-- **(a)** in store at an elevator as of the previous weigh-over plus that received at that elevator between the previous weigh-over and the current weigh-over; and
-- **(b)** in store at the elevator as of the current weigh-over plus that shipped from the elevator since the previous weigh-over. (*écart brut de manutention*)
+***gross handling variance***[Repealed, SOR/2013-111, s. 1]
 
-***gross handling variance percentage*** means the gross handling variance divided by the total gross weight of all grain, grain products and screenings received at an elevator between the previous weigh-over and the current weigh-over, multiplied by 100%. (*pourcentage de l’écart brut de manutention*)
+***gross handling variance percentage***[Repealed, SOR/2013-111, s. 1]
 
-***hazardous substance*** means any pesticide, desiccant or inoculant. (*substance dangereuse*)
+***hazardous substance*** means any pesticide, desiccant or inoculant. (*substance dangereuse*)
 
-***inland terminal elevator***[Repealed, SOR/2001-273, s. 1]
+***inland terminal elevator***[Repealed, SOR/2001-273, s. 1]
 
-***net weight*** means the gross weight of grain less the amount of dockage specified on the elevator or grain receipt or cash purchase ticket issued in respect of the grain. (*poids net*)
+***net weight*** means the gross weight of grain less the amount of dockage specified on the elevator or grain receipt or cash purchase ticket issued in respect of the grain. (*poids net*)
 
-***regional inspector***[Repealed, SOR/2004-198, s. 1]
-> SOR/2000-213, s. 2; SOR/2001-273, s. 1; SOR/2002-255, s. 1; SOR/2004-198, s. 1.
+***regional inspector***[Repealed, SOR/2004-198, s. 1]
+> SOR/2000-213, s. 2; SOR/2001-273, s. 1; SOR/2002-255, s. 1; SOR/2004-198, s. 1; SOR/2013-111, s. 1.
 
 
 
@@ -76,13 +74,7 @@ Enabling authorities:
 
 
 
-
-### Oath or Solemn Affirmation of Member of Grain Appeal Tribunal
-
-
-**4.1** The oath or solemn affirmation of office to be taken by each member of a grain appeal tribunal, except a chairperson employed in the public service of Canada, shall be taken as it appears in Form 3 of Schedule 2.
-> SOR/2002-255, s. 2; SOR/2003-284, s. 4.
-
+**4.1** [Repealed, SOR/2013-111, s. 2]
 
 
 
@@ -92,10 +84,10 @@ Enabling authorities:
 
 **5** 
 
-- **(1)** The following seeds are designated as grain for the purposes of the Act: barley, beans, buckwheat, canola, chick peas, corn, fababeans, flaxseed, lentils, mixed grain, mustard seed, oats, peas, rapeseed, rye, safflower seed, solin, soybeans, sunflower seed, triticale and wheat.
+- **(1)** The following seeds are designated as grain for the purposes of the Act: barley, beans, buckwheat, canola, chick peas, corn, fababeans, flaxseed, lentils, mixed grain, mustard seed, oats, peas, rapeseed, rye, safflower seed, soybeans, sunflower seed, triticale and wheat.
 
-- **(2)** The grade names and the specifications for grades of grain are those set out in Schedule 3.
-> SOR/96-508, s. 4; SOR/2000-213, s. 2; SOR/2003-285, s. 1.
+- **(2)** The grade names and the specifications for grades of grain are those set out in Schedule 3.
+> SOR/96-508, s. 4; SOR/2000-213, s. 2; SOR/2003-285, s. 1; SOR/2013-111, s. 3.
 
 
 
@@ -106,7 +98,7 @@ Enabling authorities:
 
 **6** 
 
-- **(1)** An official sample taken under section 30 of the Act shall be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide.
+- **(1)** An official sample taken under section 30 of the Act shall be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide dated August 16, 2012.
 
 - **(2)** No official samples shall be taken by means of a mechanical sampler unless it is installed, tested and maintained by the licensee under the direction of an inspector.
 
@@ -114,7 +106,7 @@ Enabling authorities:
 	- **(a)** not less than six months after that date, if the sample is taken on the discharge of grain out of an elevator into a ship; and
 	- **(b)** [Repealed, SOR/2003-284, s. 5]
 	- **(c)** not less than 20 days after that date, in any other case.
-> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1.
+> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1; SOR/2013-111, s. 4.
 
 
 
@@ -130,15 +122,27 @@ Enabling authorities:
 
 
 
+### Terminal Elevator and Third Party Samples
+
+
+**6.2** A sample taken as part of an inspection under subsection 70(1), (2) or 70.2(1) or section 70.3 of the Act shall
+- **(a)** be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide dated August 16, 2012; and
+- **(b)** be retained for not less than seven days after the date of the grading of the sample.
+> SOR/2013-111, s. 5.
+
+
+
+
+
 ### Grading of Unofficial Samples
 
 
 **7** 
 
-- **(1)** Any licensee or any person not required to be licensed or exempted from licensing under section 44 of the Act may forward an unofficial sample of grain to any regional inspection office of the Commission for a determination of one or more of its grade, dockage and other quality factors.
+- **(1)** Any licensee or any person not required to be licensed or exempted from licensing under section 44 of the Act may forward an unofficial sample of grain to any regional inspection office of the Commission for a determination of one or more of its grade, dockage and other quality factors.
 
-- **(2)** A sample forwarded under subsection (1) shall
-	- **(a)** consist of at least 750 g;
+- **(2)** A sample forwarded under subsection (1) shall
+	- **(a)** consist of at least 1 kg;
 	- **(b)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken; and
 	- **(c)** be forwarded, with all shipping charges prepaid, in a container that will maintain the integrity of the sample.
 
@@ -148,14 +152,14 @@ Enabling authorities:
 
 - **(4)** On receipt of a sample and its accompanying form forwarded in accordance with this section, an inspector shall examine the sample and make the requested determination of its grade, dockage or other quality factors and transmit a copy of the determination in writing to each person named on the form.
 
-- **(5)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the sample.
+- **(5)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the sample.
 
 - **(6)** On receipt of the sample, the chief grain inspector for Canada shall examine it, determine its grade, dockage and other quality factors and transmit a copy of the determination to each person named in the request.
 
 - **(7)** The determination of the chief grain inspector for Canada is final.
 
-- **(8)** An unofficial sample shall be retained for the period beginning on the date of the grading of the sample and ending not less than 20 days after that date.
-> SOR/89-376, ss. 11(F), 14(F), 16(F); SOR/2000-213, s. 2; SOR/2003-284, s. 6; SOR/2004-198, s. 4; SOR/2005-361, s. 2.
+- **(8)** An unofficial sample shall be retained for the period beginning on the date of the grading of the sample and ending not less than 20 days after that date.
+> SOR/89-376, ss. 11(F), 14(F), 16(F); SOR/2000-213, s. 2; SOR/2003-284, s. 6; SOR/2004-198, s. 4; SOR/2005-361, s. 2; SOR/2013-111, s. 6.
 
 
 
@@ -184,10 +188,10 @@ Enabling authorities:
 ### Prescribed Form of Inspection Certificate
 
 
-**9** An inspection certificate referred to in section 32 of the Act shall be in the form set out
-- **(a)** in the case of Canadian grain other than the case set out in paragraph (b), in Form 12 of Schedule 4; and
-- **(b)** in the case of Canadian grain inspected on discharge from terminal or transfer elevators, in Form 13 of Schedule 4.
-> SOR/84-626, s. 1; SOR/85-677, s. 1(F); SOR/87-476, s. 1(F); SOR/89-393, s. 2; SOR/89-395, s. 2(F); SOR/93-197, s. 1; SOR/2000-213, s. 2; SOR/2003-284, s. 7; SOR/2004-198, s. 6.
+**9** An inspection certificate referred to in section 32 of the Act shall be in the form set out
+- **(a)** in the case of Canadian grain other than the case set out in paragraph (b), in Form 12 of Schedule 4; and
+- **(b)** in the case of Canadian grain inspected on discharge from terminal elevators, in Form 13 of Schedule 4.
+> SOR/84-626, s. 1; SOR/85-677, s. 1(F); SOR/87-476, s. 1(F); SOR/89-393, s. 2; SOR/89-395, s. 2(F); SOR/93-197, s. 1; SOR/2000-213, s. 2; SOR/2003-284, s. 7; SOR/2004-198, s. 6; SOR/2013-111, s. 7.
 
 
 
@@ -200,36 +204,30 @@ Enabling authorities:
 ### Grain Appeal Procedures
 
 
-**11** 
-
-- **(1)** An application under section 39 of the Act for an appeal of an official inspection of grain shall be made in writing and include the following information:
-	- **(a)** the identification of the parcel of grain from which the official sample was taken;
-	- **(b)** the name and location of the elevator or other place where the official sample was taken;
-	- **(c)** the date of the official inspection and any reinspection; and
-	- **(d)** the grade and dockage assigned to the grain by the official inspection and any reinspection.
-
-- **(2)** If the decision of the principal inspector for the region in which the official inspection was conducted is appealed to the chief grain inspector for Canada or the grain appeal tribunal, the principal inspector shall without delay forward the application and the official sample to the chief grain inspector for Canada or the grain appeal tribunal, as the case may be.
-
-- **(3)** If the decision of the chief grain inspector for Canada is appealed, the chief grain inspector shall without delay forward the application and the official sample to the grain appeal tribunal.
-> SOR/86-813, s. 2; SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/93-197, s. 2; SOR/96-508, s. 9; SOR/2000-213, s. 2; SOR/2003-284, s. 8; SOR/2004-198, s. 7.
+**11** An application for the reinspection of grain under section 39 of the Act shall be made in writing and include the following information:
+- **(a)** the identification of the parcel of grain from which the official sample was taken;
+- **(b)** the name and location of the elevator or other place where the official sample was taken;
+- **(c)** the date of the official inspection; and
+- **(d)** the grade and dockage assigned to the grain by the official inspection.
+> SOR/86-813, s. 2; SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/93-197, s. 2; SOR/96-508, s. 9; SOR/2000-213, s. 2; SOR/2003-284, s. 8; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
 
 
 
 
-**12** For the purpose of section 40 of the Act, an appeal lies under section 39 of the Act in respect of grain that has been officially inspected on discharge from a primary elevator to a terminal elevator or transfer elevator.
-> SOR/89-376, s. 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7.
+**12** For the purpose of section 40 of the Act, an appeal lies under section 39 of the Act in respect of grain that has been officially inspected on discharge from a primary elevator to a terminal elevator.
+> SOR/89-376, s. 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
 
 
 
 
-**13** The result of an appeal to a grain appeal tribunal shall be given without delay in writing by the grain appeal tribunal to the appellant and to the operator of the elevator where the grain was officially inspected.
-> SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7.
+**13** The result of an appeal to the chief grain inspector for Canada shall be given without delay in writing by the chief grain inspector for Canada to the appellant and to the operator of the elevator where the grain was officially inspected.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 7; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
 
 
 
 
-**14** If, as a result of an appeal taken under section 39 of the Act to a principal inspector or the chief grain inspector for Canada or a grain appeal tribunal, a grade is assigned to the grain that is different from the grade previously assigned to it, the inspection certificate revised in accordance with section 41 of the Act shall bear the date on which the appeal was decided.
-> SOR/89-376, s. 14(F); SOR/96-508, s. 10(E); SOR/2000-213, s. 2; SOR/2004-198, s. 7.
+**14** If, as a result of an appeal taken under section 39 of the Act to the chief grain inspector for Canada, a grade is assigned to the grain that is different from the grade previously assigned to it, the inspection certificate revised in accordance with section 41 of the Act shall bear the date on which the appeal was decided.
+> SOR/89-376, s. 14(F); SOR/96-508, s. 10(E); SOR/2000-213, s. 2; SOR/2004-198, s. 7; SOR/2013-111, s. 8.
 
 
 
@@ -398,13 +396,11 @@ Enabling authorities:
 
 
 
-### Transfer Elevator Reports
-> [SOR/2001-273, s. 14]
+### Terminal Elevator Reports
 
 
-
-**27** Every day, the operator of a transfer elevator shall submit to the Commission, in an electronic format acceptable to the Commission, a report respecting the elevator’s operations during the preceding day.
-> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8; SOR/2008-314, s. 3.
+**27** Every day, the operator of a terminal elevator shall submit to the Commission, in an electronic format acceptable to the Commission, a 	report respecting the elevator’s operations during the preceding day.
+> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8; SOR/2008-314, s. 3; SOR/2013-111, s. 9.
 
 
 
@@ -492,12 +488,12 @@ Enabling authorities:
 **35** 
 
 - **(1)** The operator of a licensed primary elevator shall make an accurate determination of dockage in grain delivered at the elevator by
-	- **(a)** taking a representative portion of at least 750 g from the sample referred to in section 34;
+	- **(a)** taking a representative portion of at least 1 kg from the sample referred to in section 34;
 	- **(b)** testing the sample with equipment of a type authorized by the Commission and hand-picking, if necessary, any portion that is not separable by that equipment; and
 	- **(c)** computing the dockage to the nearest 0.1%.
 
 - **(2)** If the person delivering grain to a licensed primary elevator so requests, the test to determine the dockage in the grain shall be made in that person’s presence.
-> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10; SOR/2008-314, s. 5.
+> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10; SOR/2008-314, s. 5; SOR/2013-111, s. 10.
 
 
 
@@ -512,7 +508,7 @@ Enabling authorities:
 
 **36** 
 
-- **(1)** If the operator of a licensed primary elevator and a person delivering grain to the elevator do not agree on the grade of the grain or the dockage in the grain, and an interim primary elevator receipt is issued, the operator, in the presence of the person delivering the grain, shall take a representative portion of at least 750 g from the sample referred to in section 34 and shall
+- **(1)** If the operator of a licensed primary elevator and a person delivering grain to the elevator do not agree on the grade of the grain or the dockage in the grain, and an interim primary elevator receipt is issued, the operator, in the presence of the person delivering the grain, shall take a representative portion of at least 1 kg from the sample referred to in section 34 and shall
 	- **(a)** put the representative portion in a container that is supplied by the operator or the person delivering the grain and that the operator and that person agree will maintain the integrity of the sample;
 	- **(b)** identify the container with the name of the owner of the grain and with the interim primary elevator receipt number;
 	- **(c)** mark the container “Subject to Inspector’s Grade and Dockage”; and
@@ -520,7 +516,7 @@ Enabling authorities:
 
 - **(2)** On receipt of the representative portion, an inspector at the regional inspection office of the Commission shall examine it, determine its grade and dockage and transmit a copy of the determination to each person named in the request.
 
-- **(3)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the representative portion.
+- **(3)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the representative portion.
 
 - **(4)** On receipt of the representative portion, the chief grain inspector for Canada shall examine it, determine its grade and dockage and transmit a copy of the determination to each person named in the request.
 
@@ -529,7 +525,7 @@ Enabling authorities:
 - **(6)** On receipt of the final determination, the operator of the elevator shall exchange the interim primary elevator receipt for the appropriate primary elevator receipt or cash purchase ticket indicating the grade and dockage assigned to the representative portion in accordance with this section.
 
 - **(7)** For greater certainty, in this section, “grade” includes the tough, damp, moist and wet grades established in the [Off Grades of Grain and Grades of Screenings Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20890.md).
-> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15; SOR/2008-314, s. 6.
+> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15; SOR/2008-314, s. 6; SOR/2013-111, s. 11.
 
 
 
@@ -688,60 +684,92 @@ Enabling authorities:
 ### Direct Hit Shipments
 
 
-**47** The operator of a licensed terminal elevator or licensed transfer elevator may receive grain without causing it to be officially inspected and officially weighed and without issuing an elevator receipt for it if
-- **(a)** the grain is transferred directly from a railway car or other conveyance to a ship and is officially inspected and weighed on transfer to the ship; and
-- **(b)** the operator provides the Commission with advance notice of the shipment.
-> SOR/89-376, ss. 10(F), 11(F), 14(F), 18(F), 20(F); SOR/93-24, s. 7; SOR/96-508, s. 33; SOR/2000-213, s. 2; SOR/2002-255, s. 14; SOR/2004-198, s. 20; SOR/2005-361, s. 7.
+**47** The operator of a licensed terminal elevator may receive grain without causing it to be inspected and weighed and without issuing an elevator receipt for it if the grain is transferred directly from a railway car or other conveyance to a ship and is officially inspected and weighed on transfer to the ship.
+> SOR/89-376, ss. 10(F), 11(F), 14(F), 18(F), 20(F); SOR/93-24, s. 7; SOR/96-508, s. 33; SOR/2000-213, s. 2; SOR/2002-255, s. 14; SOR/2004-198, s. 20; SOR/2005-361, s. 7; SOR/2013-111, s. 12.
 
 
 
 
 
-### Receipt and Discharge of Grain from Licensed Terminal and Transfer Elevators
+### Receipt and Discharge of Grain from Licensed Terminal Elevators
 
 
-**48** The operator of a licensed terminal elevator may discharge grain that is for export to the United States
-- **(a)** without causing it to be officially inspected if the operator submits to the Commission within three days after the day on which the discharge of the grain is completed a report respecting the discharge in a format acceptable to the Commission; and
-- **(b)** without causing it to be officially weighed if the operator submits to the Commission within three days after the day on which the discharge of the grain is completed a report respecting the discharge in a format acceptable to the Commission.
-> SOR/2010-55, s. 1.
-
-
-
-
-**49** [Repealed, SOR/2004-198, s. 21]
+**48** The operator of a licensed terminal elevator may receive grain without causing it to be inspected or weighed if
+- **(a)** it is eastern grain;
+- **(b)** it is foreign grain; or
+- **(c)** it is western grain that has been previously inspected and weighed at a licensed terminal elevator.
+> SOR/2010-55, s. 1; SOR/2013-111, s. 12.
 
 
 
-**50** The operator of a licensed transfer elevator may
-- **(a)** receive grain without causing it to be officially inspected, unless it is western grain that has not been previously officially inspected and an unofficial sample of it has not been submitted to the Commission for grading, on or before receipt of the grain, in lieu of an official inspection;
-- **(b)** discharge grain, without causing it to be officially inspected, if
-	- **(i)** it is not for export,
-	- **(ii)** it is for export to the United States, or
-	- **(iii)** it is eastern grain for export by ship, it has previously been officially inspected and it meets the conditions in respect of its sale and inspection that are set out in the document published under the authority of the Commission and entitled Policy for Previously Inspected Eastern Grain;
-- **(c)** receive grain without causing it to be officially weighed, unless it is western grain that has not been previously officially weighed; and
-- **(d)** discharge grain, without causing it to be officially weighed, if
-	- **(i)** it is not for export, or
-	- **(ii)** it is for export to the United States.
-> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5; SOR/2010-55, s. 2.
+
+**49** The operator of a licensed terminal elevator may discharge grain without causing it to be officially inspected and officially weighed if
+- **(a)** it is for export to the United States; or
+- **(b)** it is not for export.
+> SOR/2013-111, s. 12.
 
 
 
 
 
-### Dockage Determination at Licensed Transfer Elevator
+### Dockage Determination at Licensed Terminal Elevator
 
 
-**51** If the Commission does not provide official inspection services, the operator of a licensed transfer elevator shall make an accurate determination of dockage of grain delivered at the elevator, computing the dockage to the nearest 0.1%.
-> SOR/89-393, s. 4; SOR/96-508, s. 38; SOR/2000-213, s. 2; SOR/2004-198, s. 22.
+**50** The operator of a licensed terminal elevator shall make an accurate determination of dockage of grain delivered at the elevator, computing the dockage to the nearest 0.1%.
+> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5; SOR/2010-55, s. 2; SOR/2013-111, s. 12.
 
 
 
 
 
-### Dockage
+### Reinspection by the Chief Grain Inspector for Canada
 
 
-**52** [Repealed, SOR/2004-198, s. 23]
+**51** 
+
+- **(1)** An application and a sample referred to in subsection 70(5) of the Act, for reinspection by the chief grain inspector for Canada, shall be forwarded to the chief grain inspector for Canada within five days after the date of the original inspection.
+
+- **(2)** An application referred to in subsection (1) shall include
+	- **(a)** the identification of the parcel of grain from which the sample was taken;
+	- **(b)** the name and location of the licensed terminal elevator where the sample was taken;
+	- **(c)** the date of the original inspection; and
+	- **(d)** the grade and dockage assigned to the parcel of grain.
+
+- **(3)** A sample of grain referred to in subsection (1) shall
+	- **(a)** consist of at least 1 kg;
+	- **(b)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken;
+	- **(c)** be forwarded, with all shipping charges prepaid, in a container that will maintain the integrity of the sample;
+	- **(d)** be accompanied by a form acceptable to the Commission that states the name and post office address of each person to whom the report respecting the grade and dockage of the sample is to be sent; and
+	- **(e)** be identified on the form by a distinguishing number or mark that the shipper has not previously used in respect of any other sample during that crop year.
+> SOR/89-393, s. 4; SOR/96-508, s. 38; SOR/2000-213, s. 2; SOR/2004-198, s. 22; SOR/2013-111, s. 12.
+
+
+
+
+
+### Sampling of Grain if not Inspected on Receipt at a Licensed Terminal Elevator
+
+
+**52** A sample referred to in subsection 70.1(2) of the Act shall
+- **(a)** be taken on loading of the grain into a railcar;
+- **(b)** consist of at least 1 kg;
+- **(c)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken; and
+- **(d)** be forwarded to the Commission, with all shipping charges prepaid, in a container that will maintain the integrity of the sample.
+> SOR/2013-111, s. 12.
+
+
+
+
+
+### Sampling of Grain on Receipt from a Licensed Terminal Elevator where Grain is not Inspected
+
+
+**52.1** A sample referred to in subsection 70.4(2) of the Act shall
+- **(a)** consist of at least 1 kg;
+- **(b)** be taken in such a manner as to ensure that it is an average and representative sample of the parcel of grain from which it is taken; and
+- **(c)** be forwarded to the Commission, with all shipping charges prepaid, in a container that will maintain the integrity of the sample.
+> SOR/2013-111, s. 12.
+
 
 
 
@@ -751,11 +779,11 @@ Enabling authorities:
 
 
 
-**53** If the operator of a licensed terminal elevator or licensed transfer elevator wishes to obtain the permission of the Commission under paragraph 75(b) of the Act to discharge from the elevator grain containing dockage, the operator shall make a written request to the Commission stating
+**53** If the operator of a licensed terminal elevator wishes to obtain the permission of the Commission under paragraph 75(b) of the Act to discharge from the elevator grain containing dockage, the operator shall make a written request to the Commission stating
 - **(a)** the kind, grade and quantity of the grain;
 - **(b)** the final destination of the grain; and
 - **(c)** the reasons for the request.
-> SOR/2000-213, s. 2; SOR/2004-198, s. 24.
+> SOR/2000-213, s. 2; SOR/2004-198, s. 24; SOR/2013-111, s. 13.
 
 
 
@@ -776,14 +804,14 @@ Enabling authorities:
 ### Special Binning
 
 
-**57** The operator of a licensed terminal elevator or a licensed transfer elevator may specially bin any grain if either
+**57** The operator of a licensed terminal elevator may specially bin any grain if either
 - **(a)** the following conditions are met, namely,
-	- **(i)** the operator and the person wishing to specially bin the grain enter into a special bin agreement in the form set out in Form 15 of Schedule 4,
+	- **(i)** the operator and the person wishing to specially bin the grain enter into a special bin agreement in the form set out in Form 15 of Schedule 4,
 	- **(ii)** all the grain is binned in accordance with the agreement,
 	- **(iii)** not more than 30% of the total operating capacity of the elevator is contractually committed to special binning of grain, and
 	- **(iv)** a copy of the agreement is filed by the operator with the Commission before the commencement date of the agreement; or
 - **(b)** the grain is binned according to protein level.
-> SOR/84-626, s. 11; SOR/89-376, s. 14(F); SOR/96-508, s. 39; SOR/2000-213, s. 2; SOR/2003-284, s. 26; SOR/2004-198, s. 27.
+> SOR/84-626, s. 11; SOR/89-376, s. 14(F); SOR/96-508, s. 39; SOR/2000-213, s. 2; SOR/2003-284, s. 26; SOR/2004-198, s. 27; SOR/2013-111, s. 14.
 
 
 
@@ -793,73 +821,34 @@ Enabling authorities:
 
 
 
-### Registration and Cancellation of Terminal Elevator and Transfer Elevator Receipts
+### Terminal Elevator Receipts
 
 
-**58** 
-
-- **(1)** A terminal elevator receipt or transfer elevator receipt shall be in Form 9 or 10, respectively, of Schedule 4.
-
-- **(2)** The Commission shall register and cancel terminal and transfer receipts issued by operators of licensed terminal elevators and licensed transfer elevators.
-
-- **(3)** If grain is shipped from a licensed terminal elevator, the operator of the elevator shall present to the Commission for cancellation registered terminal elevator receipts covering grain of the same kind, grade and quantity as the grain shipped within
-	- **(a)** three working days after the shipment of the grain, in the case of any grain other than wheat; and
-	- **(b)** 10 clear calendar days after the shipment of the grain, in the case of wheat.
-
-- **(4)** If grain is shipped from a licensed transfer elevator, the operator of the elevator shall, within 24 hours after the loading of the grain, present to the Commission for cancellation registered transfer elevator receipts covering grain of the same kind, grade and quantity as the grain shipped.
-> SOR/89-376, s. 12(F); SOR/89-395, s. 2(F); SOR/2000-213, s. 2; SOR/2002-255, s. 17; SOR/2003-284, s. 27; SOR/2004-198, s. 28.
+**58** A terminal elevator receipt shall be in Form 9 of Schedule 4.
+> SOR/89-376, s. 12(F); SOR/89-395, s. 2(F); SOR/2000-213, s. 2; SOR/2002-255, s. 17; SOR/2003-284, s. 27; SOR/2004-198, s. 28; SOR/2013-111, s. 15.
 
 
 
 
 
-### Compulsory Removal of Grain from Licensed Terminal Elevators and Transfer Elevators
+### Compulsory Removal of Grain from Licensed Terminal Elevators
 
 
 **59** 
 
-- **(1)** A notice in writing given by the operator of a licensed terminal elevator or a licensed transfer elevator to the last known holder of a terminal elevator receipt or a transfer elevator receipt under section 77 of the Act shall
+- **(1)** A notice in writing given by the operator of a licensed terminal elevator to the last known holder of a terminal elevator receipt under section 77 of the Act shall
 	- **(a)** be delivered to the holder of the receipt in person or sent by registered mail to the holder’s latest known address;
 	- **(b)** show the numbers of the elevator receipts issued in respect of the grain to be removed from the elevator;
 	- **(c)** make the demand that the grain be removed from the elevator; and
-	- **(d)** show the final date before which the holder is required to take delivery of the grain.
+	- **(d)** show the final date by which the holder is required to take delivery of the grain.
 
-- **(2)** If the operator of a licensed terminal elevator or licensed transfer elevator gives a notice in accordance with subsection (1), the operator shall at the same time forward a copy of the notice to the Commission.
-> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2.
-
-
+- **(2)** If the operator of a licensed terminal elevator gives the notice in accordance with subsection (1), the operator shall at the same time forward a copy of the notice to the Commission.
+> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2; SOR/2013-111, s. 15.
 
 
 
-### Weigh-overs
 
-
-**60** 
-
-- **(1)** Each operator of a licensed primary elevator shall
-	- **(a)** weigh over the grain, grain products and screenings contained in the elevator in accordance with section 79 of the Act not less than once every three years; and
-	- **(b)** supply to the Commission a report of the results of the completed weigh-over on the appropriate form supplied by the Commission or in an electronic format acceptable to it.
-
-- **(2)** The Commission shall weigh over the grain, grain products and screenings contained in every licensed terminal elevator and licensed transfer elevator, under subsection 80(1) of the Act, within the following intervals:
-	- **(a)** in the case of terminal elevators, at least once every 30 months; and
-	- **(b)** in the case of transfer elevators, at least once every 60 months, unless otherwise specified by the Commission.
-	- **(c) and (d)** [Repealed, SOR/2001-273, s. 19]
-
-- **(3)** If the gross handling variance percentage determined as a result of a weigh-over at a licensed terminal elevator is less than or equal to 0.125%, the operator of the elevator may retain the overage arising out of the operation of the elevator in respect of any grain of any grade.
-
-- **(4)** If the gross handling variance percentage determined as a result of a weigh-over at a licensed terminal elevator is greater than 0.125%, the maximum overage that the operator of the elevator may retain shall
-	- **(a)** in respect of No. 1 Canada Western Red Spring Wheat and No. 2 Canada Western Red Spring Wheat, be 0.25% of the total quantity of wheat of that grade received between consecutive weigh-overs at that elevator;
-	- **(b)** in respect of all grades of wheat other than those described in paragraph (a), and in respect of all grades of other grains named in the Act or any regulations made under the Act, other than oilseeds, mixed grain and screenings, be 0.5% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act;
-	- **(c)** in respect of all grades of oilseeds, be 2% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act; and
-	- **(d)** in respect of the total of all mixed grain and screenings and after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be the greater of
-		- **(i)** 2% of the gross total of all grades of grain received between consecutive weigh-overs at that elevator, and
-		- **(ii)** the total of the quantity of dockage and shrinkage allowance assessed on all grain received between consecutive weigh-overs at that elevator.
-
-- **(5)** The maximum overage, determined as a result of a weigh-over at a licensed transfer elevator, that may be retained in respect of grain of any grade by the operator of the elevator shall, after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be 0.0625% of the total quantity of grain of that grade received between consecutive weigh-overs at that elevator, except that if an overage occurs in a lower grade, regard shall be had for the differences in value represented by shortages in higher grades.
-
-- **(6)** If a weigh-over at a licensed terminal elevator or licensed transfer elevator indicates that there is a deficiency of grain in storage at that elevator compared to the amount of grain represented in all the outstanding elevator receipts for the kind and grade of grain at that elevator, the operator shall tender those receipts for cancellation before tendering for registration any receipts for grain found as a result of the weigh-over to be in excess of the amount of grain represented in all the outstanding elevator receipts.
-> SOR/89-376, ss. 12(F), 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 19; SOR/2003-284, s. 28; SOR/2005-361, s. 10(E); SOR/2011-45, s. 2.
-
+**60** [Repealed, SOR/2013-111, s. 15]
 
 
 
@@ -962,11 +951,11 @@ Enabling authorities:
 - **(1)** Any person may transport or cause to be transported
 	- **(a)** western grain from the Western Division to the Eastern Division or eastern grain from the Eastern Division to the Western Division on the condition that the Commission is notified in writing of the kind, quantity and destination of the grain, before the grain is transported;
 	- **(b)** any grain for export to a final destination in the United States on condition that the Commission is notified in writing before the grain is transported; and
-	- **(c)** any grain for export by container on condition that the Commission is notified in writing before the grain is transported.
-	- **(d)** [Repealed, SOR/2004-198, s. 33]
+	- **(c)** any grain for export by container on the condition that the Commission is presented, in an electronic format acceptable to the Commission, with a report respecting any grain exports that took place during the preceding week.
+	- **(d)** [Repealed, SOR/2004-198, s. 33]
 
-- **(2)** [Repealed, SOR/2004-198, s. 33]
-> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F); SOR/2010-55, s. 3.
+- **(2)** [Repealed, SOR/2004-198, s. 33]
+> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F); SOR/2010-55, s. 3; SOR/2013-111, s. 16.
 
 
 
@@ -1005,536 +994,290 @@ Enabling authorities:
 
 
 ### **SCHEDULE 1** 
-**(Section 2)**
-## Fees of the Commission
+**(Section 2 and subsection 21(3))**
 <table>
-<h4>Charges Payable in the Western and Eastern Divisions</h4>
+<h4>Fees of the Commission</h4>
 <tr>
 <th>Item</th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
 </tr>
 <tr>
-<th>Service</th>
-<th>Basis</th>
-<th>Fee ($)</th>
+<th>Fee by Fiscal Year</th>
 </tr>
 <tr>
-<td>INSPECTION SERVICES</td>
+<th>Fee Name</th>
+<th>Description of Service</th>
+<th>Unit (per)</th>
+<th>2013-14</th>
+<th>2014-15</th>
+<th>2015-16</th>
+<th>2016-17</th>
+<th>2017-18</th>
+</tr>
+<tr>
+<td>Outward Official Inspection</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Inspection of grain, screenings or foreign grain at licensed terminal elevators or transfer elevators (payable by the elevator operator)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** in carloads, truckloads or containers at unloading
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per inspection per carload, truckload or container
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>**—** wheat (except for CPS wheat and Eastern wheat)
-
-</td>
-<td>27.10</td>
-</tr>
-<tr>
-<td>**—** CPS wheat and Eastern wheat
-
-</td>
-<td>20.10</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site inspection is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(iii)** [Repealed, SOR/2001-273, s. 25]
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>**(b)** in carloads, truckloads or containers where inspected at loading
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per inspection per carload, truckload or container
-
-</td>
-<td>29.00</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site inspection is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(c)** on delivery to ships or sacking bins
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** where grain has not been previously officially inspected at loading or unloading of ships
-
-</td>
-<td>per tonne</td>
-<td>0.51</td>
-</tr>
-<tr>
-<td>**(ii)** at transfer elevators, where grain has been previously officially inspected at loading or unloading of ships or loading of railway cars
-
-</td>
-<td>per tonne</td>
-<td>0.25</td>
-</tr>
-<tr>
-<td>**(d)** on receipt from a ship
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** where inspection is requested for condition or infestation, or both
-
-</td>
-<td>per tonne</td>
-<td>0.25</td>
-</tr>
-<tr>
-<td>**(ii)** for official inspection
-
-</td>
-<td>per tonne</td>
-<td>0.51</td>
-</tr>
-<tr>
-<td>**(e)** on receipt or delivery other than as provided in paragraphs (a) to (d)
-
-</td>
-<td>per tonne</td>
-<td>0.51</td>
-</tr>
-<tr>
-<td>**(f)** where grain or foreign grain in storage in an elevator is inspected while being internally transferred for any reason, other than weigh-over required by the Commission
-
-</td>
-<td>per tonne</td>
-<td>0.25</td>
-</tr>
-<tr>
-<td>**(g)** for weigh-over required by the Commission
-
-</td>
-<td>per tonne</td>
-<td>free</td>
+<td>Outward official inspection — ships (payable by the elevator operator)</td>
+<td>Official inspection of grain or screenings discharged to ships, and issuance of certificate</td>
+<td>Tonne</td>
+<td>$1.60</td>
+<td>$1.63</td>
+<td>$1.65</td>
+<td>$1.68</td>
+<td>$1.70</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Inspection of grain, screenings or foreign grain at locations other than licensed terminal elevators or transfer elevators (payable by the person requesting the service)</td>
-<td></td>
-<td></td>
+<td>Outward official inspection — railway cars, trucks or containers (payable by the elevator operator)</td>
+<td>Official inspection of grain or screenings discharged to railway cars, trucks or containers, and issuance of certificate</td>
+<td>Inspection</td>
+<td>$143.99</td>
+<td>$146.29</td>
+<td>$148.63</td>
+<td>$151.01</td>
+<td>$153.43</td>
 </tr>
 <tr>
-<td>**(a)** for grading of unofficial samples submitted, where certificate is issued (payable by the person submitting the sample)
-
-</td>
-<td>the sum of, per sample of CPS wheat and Eastern wheat</td>
-<td>15.10</td>
-</tr>
-<tr>
-<td>**(b)** [Repealed, SOR/2006-206, s. 6]
-
-</td>
-<td></td>
-<td></td>
+<td>Reinspection</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Reinspection of grain (payable by the person requesting the service)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** where grade is upheld on reinspection by principal inspector at location of original inspection
+<td>Reinspection of grain (payable by the person requesting the reinspection)</td>
+<td>Reinspection by the chief grain inspector for Canada or other authorized inspector in respect of**(a)** an inward inspection of grain; or
+
+**(b)** an inspection of a submitted sample
 
 </td>
-<td>per reinspection</td>
-<td>7.50</td>
+<td>Reinspection</td>
+<td>$70.48</td>
+<td>$71.61</td>
+<td>$72.76</td>
+<td>$73.92</td>
+<td>$75.11</td>
 </tr>
 <tr>
-<td>**(b)** where grade is upheld on reinspection by chief grain inspector in Winnipeg
-
-</td>
-<td>per reinspection</td>
-<td>15.00</td>
-</tr>
-<tr>
-<td>**(c)** where grade is not upheld on reinspection
-
-</td>
-<td>per reinspection</td>
-<td>free</td>
-</tr>
-<tr>
-<td>WEIGHING SERVICES</td>
+<td>Outward Official Weighing</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Official weighing of grain, grain products, screenings or foreign grain at licensed terminal elevators, inland terminal elevators or transfer elevators (payable by the elevator operator)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** in carloads, truckloads or containers, where weighed at unloadingwhere grade is not upheld on reinspection
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** where grain has not been previously officially weighed
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per carload, truckload or container
-
-</td>
-<td>5.90</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(ii)** where grain has been previously officially weighed
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per tonne
-
-</td>
-<td>0.12</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(b)** on delivery to railway cars
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per carload
-
-</td>
-<td>18.00</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(c)** on delivery to containers or trucks
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per tonne
-
-</td>
-<td>0.27</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(d)** on delivery to ships or sacking bins
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** where grain has not been previously officially weighed at loading or unloading of ships
-
-</td>
-<td>per tonne</td>
-<td>0.27</td>
-</tr>
-<tr>
-<td>**(ii)** at transfer elevators, where grain has been previously officially weighed at loading or unloading of ships or loading of railway cars
-
-</td>
-<td>per tonne</td>
-<td>0.12</td>
-</tr>
-<tr>
-<td>**(e)** on receipt from ships, where weighing is requested
-
-</td>
-<td>per tonne</td>
-<td>0.27</td>
-</tr>
-<tr>
-<td>**(f)** on receipt or delivery other than as provided in paragraphs (a) to (e)
-
-</td>
-<td>the sum of (if applicable):</td>
-<td></td>
-</tr>
-<tr>
-<td>**(i)** per tonne
-
-</td>
-<td>0.27</td>
-</tr>
-<tr>
-<td>**(ii)** per employee, portal-to-portal
-
-</td>
-<td>travel and living expenses</td>
-</tr>
-<tr>
-<td>**(g)** where grain, grain products, screenings or foreign grain in an elevator is weighed while being internally transferred for any reason, other than for weigh-over required by the Commission
-
-</td>
-<td>per tonne</td>
-<td>0.22</td>
-</tr>
-<tr>
-<td>**(h)** for weigh-over required by the Commission
-
-</td>
-<td>per tonne</td>
-<td>free</td>
-</tr>
-<tr>
-<td>OTHER SERVICES</td>
+<td>Outward official weighing — ships (payable by the elevator operator)</td>
+<td>Monitoring of official weighing of grain or screenings discharged to ships, and issuance of certificate</td>
+<td>Tonne</td>
+<td>$0.15</td>
+<td>$0.16</td>
+<td>$0.16</td>
+<td>$0.16</td>
+<td>$0.16</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Terminal elevator receipts (payable by the elevator operator)</td>
-<td></td>
-<td></td>
+<td>Outward official weighing — railway cars, trucks or containers (payable by the elevator operator)</td>
+<td>Monitoring of official weighing of grain or screenings discharged to railway cars, trucks or containers, and issuance of certificate</td>
+<td>Railway car, truck or container</td>
+<td>$13.87</td>
+<td>$14.09</td>
+<td>$14.31</td>
+<td>$14.54</td>
+<td>$14.78</td>
 </tr>
 <tr>
-<td>**(a)** registration at unloading
-
-</td>
-<td>per tonne</td>
-<td>0.080</td>
-</tr>
-<tr>
-<td>**(b)** cancellation on shipment
-
-</td>
-<td>per tonne</td>
-<td>0.080</td>
+<td>Third-Party Authorization — Inward Inspection or Weighing</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Transfer elevator receipts (payable by the elevator operator)</td>
-<td></td>
-<td></td>
+<td>Third-party authorization application (payable by the applicant)</td>
+<td>Processing of application for third-party authorization to provide inward inspection services or inward weighing services</td>
+<td>Application</td>
+<td>$140.97</td>
+<td>$143.22</td>
+<td>$145.52</td>
+<td>$147.84</td>
+<td>$150.21</td>
 </tr>
 <tr>
-<td>**(a)** registration at unloading
-
-</td>
-<td>per tonne</td>
-<td>0.011</td>
-</tr>
-<tr>
-<td>**(b)** cancellation on shipment
-
-</td>
-<td>per tonne</td>
-<td>0.011</td>
+<td>Supplementary Fees for Outward Official Inspection</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Processing of applications for producer railway cars (payable by the producer)</td>
-<td>per car</td>
-<td>20.00</td>
+<td>Travel and accommodation (payable by the elevator operator)</td>
+<td>Travel and accommodation to conduct an outward official inspection in a location where on-site Commission inspection is not available</td>
+<td>Trip</td>
+<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
+<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
+<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
+<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
+<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Appeal to grain appeal tribunal (payable by appellant)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** where Tribunal changes grade or dockage
-
-</td>
-<td>for each inspection appealed</td>
-<td>free</td>
-</tr>
-<tr>
-<td>**(b)** where Tribunal does not change grade or dockage
-
-</td>
-<td>for each inspection appealed</td>
-<td>25.00</td>
+<td>Time and one-half overtime (payable by the elevator operator)</td>
+<td>Overtime incurred to conduct an outward official inspection</td>
+<td>Hour/employee</td>
+<td>$64.50</td>
+<td>$65.53</td>
+<td>$66.58</td>
+<td>$67.65</td>
+<td>$68.73</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Licence Fees</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** Primary Elevator
-
-</td>
-<td>per licence, per month</td>
-<td>5.00</td>
-</tr>
-<tr>
-<td>**(b)** Process Elevator
-
-</td>
-<td>per licence, per month</td>
-<td>100.00</td>
-</tr>
-<tr>
-<td>**(c)** Terminal Elevator
-
-</td>
-<td>per licence, per month</td>
-<td>100.00</td>
-</tr>
-<tr>
-<td>**(d)** Transfer Elevator
-
-</td>
-<td>per licence, per month</td>
-<td>100.00</td>
-</tr>
-<tr>
-<td>**(e)** Grain Dealer
-
-</td>
-<td>per licence, per month</td>
-<td>100.00</td>
+<td>Double time overtime (payable by the elevator operator)</td>
+<td>Overtime incurred to conduct an outward official inspection</td>
+<td>Hour/employee</td>
+<td>$86.00</td>
+<td>$87.38</td>
+<td>$88.77</td>
+<td>$90.19</td>
+<td>$91.64</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Standby charge (payable by the person requesting inspection or weighing service)</td>
-<td>per employee, per hour, portal-to-portal</td>
-<td>28.20 plus travel and living expenses</td>
+<td>Time and one-half overtime — cancellation (payable by the elevator operator)</td>
+<td>Late cancellation of overtime to conduct an outward official inspection</td>
+<td>Employee reporting</td>
+<td>$193.50</td>
+<td>$196.60</td>
+<td>$199.74</td>
+<td>$202.94</td>
+<td>$206.18</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Overtime service (payable by the person requesting the service)</td>
-<td></td>
-<td></td>
+<td>Double time overtime — cancellation (payable by the elevator operator)</td>
+<td>Late cancellation of overtime to conduct an outward official inspection</td>
+<td>Employee reporting</td>
+<td>$258.00</td>
+<td>$262.13</td>
+<td>$266.32</td>
+<td>$270.58</td>
+<td>$274.91</td>
 </tr>
 <tr>
-<td>**(a)** for the first eight hours of work contiguous to the regular eight-hour shift of work, Monday to Friday, other than a holiday
-
-</td>
-<td>per employee for each working hour, in addition to regular fees</td>
-<td>14.20</td>
+<td>12</td>
+<td>Standby (payable by the elevator operator)</td>
+<td>Employee on standby to conduct an outward official inspection during off-duty hours</td>
+<td>Hour/employee</td>
+<td>$43.00</td>
+<td>$43.69</td>
+<td>$44.39</td>
+<td>$45.10</td>
+<td>$45.82</td>
 </tr>
 <tr>
-<td>**(b)** for all hours of work contiguous to 16 consecutive hours of work or following the first eight hours not contiguous to the regular eight hours of work, Monday to Friday, other than a holiday
-
-</td>
-<td>per employee for each working hour, in addition to regular fees</td>
-<td>21.00</td>
+<td>Licensing</td>
 </tr>
 <tr>
-<td>**(c)** for the first eight hours of work not contiguous to the regular eight hours of work, Monday to Friday, and for the first eight hours of work on Saturday, other than hours of work on a holiday
-
-</td>
-<td>the greater of:</td>
-<td></td>
+<td>13</td>
+<td>Full-term licence (payable by the licensee)</td>
+<td>Issuance of licence (all classes) for a one-year term or, if the licence is issued following the expiry of one or more short-term licences, for a term that consists of the remainder of the year that began on the issuance of the first short-term licence</td>
+<td>Licence/month or partial month</td>
+<td>$276.00</td>
+<td>$280.00</td>
+<td>$285.00</td>
+<td>$289.00</td>
+<td>$294.00</td>
 </tr>
 <tr>
-<td>**(i)** per employee for each working hour, in addition to regular fees, and
-
-</td>
-<td>14.20</td>
+<td>14</td>
+<td>Short-term licence (payable by the licensee)</td>
+<td>Issuance of licence (all classes) for one month or partial month</td>
+<td>Licence</td>
+<td>$353.00</td>
+<td>$358.00</td>
+<td>$364.00</td>
+<td>$370.00</td>
+<td>$376.00</td>
 </tr>
 <tr>
-<td>**(ii)** per employee reporting for duty
-
-</td>
-<td>107.20</td>
+<td>Producer Railway Cars</td>
 </tr>
 <tr>
-<td>**(d)** for all hours of work following the first eight hours of work on Saturday, and for all hours of work on Sunday and statutory holidays
-
-</td>
-<td>the greater of:</td>
-<td></td>
+<td>15</td>
+<td>Producer railway car application (payable by the producer)</td>
+<td>Processing of application for producer railway car</td>
+<td>Railway car applied for</td>
+<td>$26.50</td>
+<td>$27.00</td>
+<td>$27.50</td>
+<td>$28.00</td>
+<td>$28.50</td>
 </tr>
 <tr>
-<td>**(i)** per employee for each working hour, in addition to regular fees, and
-
-</td>
-<td>21.00</td>
+<td>Inspection of Submitted Samples</td>
 </tr>
 <tr>
-<td>**(ii)** per employee reporting for duty
-
-</td>
-<td>107.20</td>
+<td>16</td>
+<td>Inspection of submitted sample — unofficial sample (payable by the person submitting the sample)</td>
+<td>Inspection of unofficial sample of grain or screenings, and issuance of certificate</td>
+<td>Sample</td>
+<td>$46.99</td>
+<td>$47.74</td>
+<td>$48.51</td>
+<td>$49.28</td>
+<td>$50.07</td>
 </tr>
 <tr>
-<td>12. and 13. [Repealed, SOR/2000-213, s. 5]</td>
+<td>17</td>
+<td>Inspection of submitted sample — Certified Container Sampling Program (payable by the person submitting the sample)</td>
+<td>Inspection of sample of grain or screenings taken by a company certified under the Commission’s Certified Container Sampling Program, and issuance of certificate</td>
+<td>Sample</td>
+<td>$46.99</td>
+<td>$47.74</td>
+<td>$48.51</td>
+<td>$49.28</td>
+<td>$50.07</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Inspection of submitted sample — Accredited Container Sampler Program (payable by the person submitting the sample)</td>
+<td>Inspection of sample of grain or screenings taken by a third party accredited under the Commission’s Accredited Container Sampler Program, and issuance of certificate</td>
+<td>Sample</td>
+<td>$46.99</td>
+<td>$47.74</td>
+<td>$48.51</td>
+<td>$49.28</td>
+<td>$50.07</td>
 </tr>
 </table>
 
 
-## Notes:
+###### NOTES:
 
-- **1** Where more than one certificate is required for a railway car, separate inspection and weighing fees shall be applied for each certificate issued.
-- **2** Where, for any reason, the grain in all compartments of a hopper railway car cannot be unloaded at the same time, thereby requiring additional inspection and weighing services on that railway car, inspection and weighing fees shall be applied each time the services are provided on the grain in that railway car.
-- **3** Fees shown in this Schedule are before tax. The Goods and Services Tax will be collected on all fees for services except the services described in items 5 to 7 and 9, which are exempt.
-- **4** All fees shall be calculated to the nearest cent.
-> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6.
+Fees for items 2 and 5
+
+**1** If more than one certificate is required for a railway car, truck or container, separate inspection and weighing fees will be applied for each certificate issued.
+
+
+
+
+Fees for items 8 to 12
+
+**2** Type of overtime (time and one-half or double time) and the commencement of overtime and standby are determined in accordance with the collective agreement that is applicable to inspectors (Primary Products Inspection classification, Technical Services Group). The agreement may be found on the Treasury Board of Canada Secretariat’s website.
+
+
+
+
+Fees for items 10 and 11
+
+**3** A fee is not payable for cancellation of overtime if notice of cancellation is received by the Commission no later than 2 p.m. on the day on which the inspection is to be conducted or, if the inspection is to be conducted on a Saturday or a holiday, no later than 2 p.m. on the day — other than a Saturday or holiday — before that day.
+
+
+
+**4** Fees are exclusive of the goods and services tax.
+
+
+
+**5** All fees are calculated to the nearest cent. Overtime hours are calculated in 15‑minute increments.
+
+
+
+
+> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1.
 
 
 
@@ -1552,11 +1295,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 
 
 ### **FORM 3** 
-## Oath or Solemn Affirmation of Office of Member of Grain Appeal Tribunal
-I do solemnly swear (or affirm) that I will faithfully and impartially perform my duties as a member of the grain appeal tribunal for the (Western) (Eastern) Division to the best of my skill and ability and that I will not act as a member of that tribunal on an appeal relating to grain in which I have a pecuniary interest. (*Add, in the case where an oath is taken*, “So Help Me God.”)
+[Repealed, SOR/2013-111, s. 17]
 
 
-> SOR/2000-213, s. 7; SOR/2001-273, s. 31; SOR/2002-255, s. 20; SOR/2003-284, s. 34.
+> SOR/2000-213, s. 7; SOR/2001-273, s. 31; SOR/2002-255, s. 20; SOR/2003-284, s. 34; SOR/2013-111, s. 17.
 
 
 
@@ -2347,51 +2089,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-#### TABLE 13
-<table>
-<h4>Solin, Canada Western (CW)</h4>
-<tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
-<th>Maximum Limits of Damage</th>
-</tr>
-<tr>
-<th>Minimum Test Weigh</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
-<th>Heated</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hL</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>No. 1 CW</td>
-<td>65</td>
-<td>Any variety of the class Solin, Canada Western designated as such by order of the Commission</td>
-<td>Mature and sweet, good natural colour</td>
-<td>0.05</td>
-<td>5</td>
-</tr>
-<tr>
-<td>No. 2 CW</td>
-<td>62</td>
-<td>Any variety of the class Solin, Canada Western designated as such by order of the Commission</td>
-<td>Reasonably well matured and sweet, reasonably good natural colour</td>
-<td>0.2</td>
-<td>10</td>
-</tr>
-<tr>
-<td>No. 3 CW</td>
-<td>No minimum</td>
-<td>Any variety of solin</td>
-<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid or having any odour that would indicate serious deterioration</td>
-<td>1</td>
-<td>20</td>
-</tr>
-</table>
+TABLE 13
+
+[Repealed, SOR/2013-145, s. 1]
+
+
+
 
 #### TABLE 14
 <table>
@@ -5362,7 +5065,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1.
 
 
 
@@ -5400,14 +5103,81 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/2004-198, S. 41; SOR/2005-361
 [Repealed, SOR/2011-45, s. 4]
 
 
-### **FORM 9** 
-**(Subsection 58(1))**
-GRAPHIC IS NOT DISPLAYED, SEE SOR/78-55, S. 7; SOR/89-376, S. 14(F); SOR/89-395, S. 2(F); SOR/2004-198, S. 42(E)
 
+
+--------------------------
+
+
+### **FORM 9** 
+**(Section 58)**
+## Terminal Elevator Receipt
+<table>
+<tr>
+<td>Receipt number:</td>
+</tr>
+<tr>
+<td>Date of issue:</td>
+</tr>
+<tr>
+<td>Name of elevator company:</td>
+</tr>
+<tr>
+<td>This acknowledges receipt of grain of the kind, grade and quantity referred to in this form, in store in our elevator located at _________________________ for the account of _________________________.</td>
+</tr>
+<tr>
+<td>Grain</td>
+<td>Protein (%)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Grade</td>
+<td>Net tonnes</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dockage (%)</td>
+<td>Delivered via rail (ID)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Delivered via truck (ID)</td>
+<td>Vessel name</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Date grain received</td>
+<td>Accrued storage paid to date</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>WARNING: If the charges accruing under this receipt have been unpaid for more than one year, the grain may be sold and after that the holder is entitled to receive, on surrender of this receipt, only the money received from the grain less those charges and the costs of sale.</td>
+<td>WARNING: The right of a holder of this receipt to obtain delivery of grain referred to in the receipt may be altered by the issuer by notice to the last holder known to them. Every holder must notify the issuer of their name and address without delay.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>NOTE: If this receipt is issued for grain referred to in subsection 71(2) of the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md), the following statement is required to be printed on the form: “This receipt is subject to recall and adjustment”.</td>
+</tr>
+</table>
 
 ### **FORM 10** 
-**(Subsection 58(1))**
-GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 9; SOR/2004-198, S. 42(E)
+[Repealed, SOR/2013-111, s. 19]
 
 
 ### **FORM 11** 
@@ -5432,6 +5202,11 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/87-476, S. 2; SOR/89-395, S. 2(F); SOR/2004-19
 
 > Image: Application for producer to obtain railway cars
 
+
+
+
+
+--------------------------
 
 
 ### **FORM 15** 
@@ -5476,7 +5251,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4.
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4; SOR/2013-111, ss. 18, 19, 20(F).
 
 
 
