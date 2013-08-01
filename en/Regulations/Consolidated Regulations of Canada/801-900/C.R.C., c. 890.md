@@ -157,13 +157,13 @@ Enabling authorities:
 	- **(a)** contain not less than 50 per cent wild oats;
 	- **(b)** contain not more than one per cent of material that passes through a 4½/64 inch round-hole sieve; and
 	- **(c)** contain in whole, broken, hulled or hulless form not more than
-		- **(i)** five per cent heated kernels,
+		- **(i)** 10 per cent heated kernels,
 		- **(ii)** five per cent wild buckwheat,
 		- **(iii)** 10 per cent in the aggregate of wheat heads, knuckles, straw and chaff,
 		- **(iv)** five per cent flaxseed,
 		- **(v)** 0.2 per cent stones, or
 		- **(vi)** 1/3 of one per cent ergot.
-> SOR/93-363, s. 2(F).
+> SOR/93-363, s. 2(F); SOR/2013-146, s. 1.
 
 
 
@@ -333,9 +333,9 @@ Enabling authorities:
 **(Section 3)**
 ## Tough, Damp, Moist and Wet Grades
 <table>
-<h4>Canada Western (CW) Grain Grades</h4>
+<h4>Canada Western Grain Grades</h4>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
@@ -343,7 +343,6 @@ Enabling authorities:
 <th>Column 5</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Grain</th>
 <th>Tough — Percentage of moisture</th>
 <th>Damp — Percentage of moisture</th>
@@ -360,7 +359,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>2</td>
-<td>Wheat, Canada Western Extra Strong</td>
+<td>Wheat, Canada Western Hard White Spring</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -368,7 +367,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>3</td>
-<td>Wheat, Canada Western Soft White Spring</td>
+<td>Wheat, Canada Western Amber Durum</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -384,15 +383,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>5</td>
-<td>Wheat, Canada Western Amber Durum</td>
-<td>14.6% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5.1</td>
-<td>Wheat, Canada Western General Purpose</td>
+<td>Wheat, Canada Western Soft White Spring</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -400,6 +391,30 @@ Enabling authorities:
 </tr>
 <tr>
 <td>6</td>
+<td>Wheat, Canada Western Extra Strong</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Wheat, Canada Western General Purpose</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wheat, Canada Western Feed</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
 <td>Oats, Canada Western</td>
 <td>13.6% to 17.0%</td>
 <td>Over 17.0%</td>
@@ -407,15 +422,7 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td>Barley, Canada Western General Purpose</td>
-<td>14.9% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
+<td>10</td>
 <td>Barley, Canada Western Malting</td>
 <td>13.6% to 17.0%</td>
 <td>Over 17.0%</td>
@@ -423,7 +430,59 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>11</td>
+<td>Barley, Canada Western Food</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Select Food CW Two-row
+
+</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Select Food CW Six-row
+
+</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Select Food CW Two-row Hulless
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Select Food CW Six-row Hulless
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Barley, Canada Western General Purpose</td>
+<td>14.9% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
 <td>Rye, Canada Western</td>
 <td>14.1% to 17.0%</td>
 <td>Over 17.0%</td>
@@ -431,8 +490,11 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>14</td>
 <td>Mixed Grain, Canada Western</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -490,7 +552,7 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>15</td>
 <td>Flaxseed, Canada Western</td>
 <td>10.1% to 13.5%</td>
 <td>Over 13.5%</td>
@@ -498,7 +560,7 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>16</td>
 <td>Corn, Canada Western Yellow, White or Mixed</td>
 <td>15.6% to 17.5%</td>
 <td>17.6% to 21.0%</td>
@@ -506,24 +568,16 @@ Enabling authorities:
 <td>Over 25.0%</td>
 </tr>
 <tr>
-<td>13</td>
-<td>Wheat, Canada Western Feed</td>
-<td>14.6% to 17.0%</td>
-<td>Over 17.0%</td>
+<td>17</td>
+<td>Chick Peas, Canada Western Desi</td>
+<td>14.1% to 16.0%</td>
+<td>Over 16.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>14</td>
-<td>Solin, Canada Western</td>
-<td>10.1% to 13.5%</td>
-<td>Over 13.5%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Chick Peas, Canada Western</td>
+<td>18</td>
+<td>Chick Peas, Canada Western Kabuli</td>
 <td>14.1% to 16.0%</td>
 <td>Over 16.0%</td>
 <td></td>
@@ -531,7 +585,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/78-500, s. 1; SOR/79-534, ss. 3, 4; SOR/80-513, s. 2; SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/90-359, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1; SOR/95-392, s. 1; SOR/97-284, s. 1; SOR/97-425, s. 1; SOR/2001-241, s. 1; SOR/2008-227, s. 1.
+> SOR/78-500, s. 1; SOR/79-534, ss. 3, 4; SOR/80-513, s. 2; SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/90-359, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1; SOR/95-392, s. 1; SOR/97-284, s. 1; SOR/97-425, s. 1; SOR/2001-241, s. 1; SOR/2008-227, s. 1; SOR/2013-146, s. 2.
 
 
 
@@ -542,15 +596,14 @@ Enabling authorities:
 <table>
 <h4>Canada Eastern Grain Grades</h4>
 <tr>
-<th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Colunn IV</th>
-<th>Column V</th>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Colunn 4</th>
+<th>Column 5</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Grain</th>
 <th>Tough — Percentage of moisture</th>
 <th>Damp — Percentage of moisture</th>
@@ -559,7 +612,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>1</td>
-<td>Red Wheat</td>
+<td>Wheat, Canada Eastern Red</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -567,7 +620,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>2</td>
-<td>Extra Strong Wheat</td>
+<td>Wheat, Canada Eastern Red Spring</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -575,7 +628,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>3</td>
-<td>White Winter Wheat</td>
+<td>Wheat, Canada Eastern Hard Red Winter</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -583,7 +636,7 @@ Enabling authorities:
 </tr>
 <tr>
 <td>4</td>
-<td>Soft White Spring Wheat</td>
+<td>Wheat, Canada Eastern Soft Red Winter</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -591,82 +644,31 @@ Enabling authorities:
 </tr>
 <tr>
 <td>5</td>
-<td>Oats</td>
-<td>14.1% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Barley</td>
-<td>14.9% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Rye</td>
-<td>14.1% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Mixed Grain</td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** Mixed Grain, Wheat
-
-</td>
+<td>Wheat, Canada Eastern Amber Durum</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**(b)** Mixed Grain, Rye
-
-</td>
-<td>14.1% to 17.0%</td>
+<td>6</td>
+<td>Wheat, Canada Eastern Hard White Winter</td>
+<td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**(c)** Mixed Grain, Barley
-
-</td>
-<td>14.9% to 17.0%</td>
+<td>7</td>
+<td>Wheat, Canada Eastern White Winter</td>
+<td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>**(d)** Mixed Grain, Oats
-
-</td>
-<td>14.1% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(e)** Mixed Grain, Triticale
-
-</td>
-<td>14.1% to 17.0%</td>
-<td>Over 17.0%</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(f)** Mixed Grain
-
-</td>
+<td>8</td>
+<td>Wheat, Canada Eastern Soft White Spring</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
@@ -674,38 +676,176 @@ Enabling authorities:
 </tr>
 <tr>
 <td>9</td>
-<td>Flaxseed</td>
-<td>10.1% to 13.5%</td>
-<td>Over 13.5%</td>
+<td>Wheat, Canada Eastern Hard White Spring</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
-<td>Corn</td>
-<td>15.6% to 17.5%</td>
-<td>17.6% to 21.0%</td>
-<td>21.1% to 25.0%</td>
-<td>Over 25.0%</td>
+<td>Feed Wheat, Canada Eastern</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>Feed Wheat</td>
-<td>14.6% to 17.0%</td>
+<td>Oats, Canada Eastern</td>
+<td>13.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>Amber Durum Wheat</td>
+<td>Barley, Canada Eastern Malting</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Barley, Canada Eastern Food</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Select Food CE Two-row
+
+</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Select Food CE Six-row
+
+</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Select Food CE Two-row Hulless
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Select Food CE Six-row Hulless
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Barley, Canada Eastern General Purpose</td>
+<td>14.9% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Rye, Canada Eastern</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Mixed Grain, Canada Eastern</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Mixed Grain, CE Wheat
+
+</td>
 <td>14.6% to 17.0%</td>
 <td>Over 17.0%</td>
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>**(b)** Mixed Grain, CE Rye
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Mixed Grain, CE Barley
+
+</td>
+<td>14.9% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Mixed Grain, CE Oats
+
+</td>
+<td>13.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(e)** Mixed Grain, CE Triticale
+
+</td>
+<td>14.1% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(f)** Mixed Grain, CE
+
+</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Flaxseed, Canada Eastern</td>
+<td>10.1% to 13.5%</td>
+<td>Over 13.5%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Corn, Canada Eastern Yellow, White or Mixed</td>
+<td>15.6% to 17.5%</td>
+<td>17.6% to 21.0%</td>
+<td>21.1% to 25.0%</td>
+<td>Over 25.0%</td>
+</tr>
 </table>
 
-> SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1.
+> SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1; SOR/2013-146, s. 2.
 
 
