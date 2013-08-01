@@ -10,117 +10,66 @@ Enabling authorities:
 ----------
 
 
+[Repealed, SOR/2013-19, s. 6]
+
+
 
 ## Short Title
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**1** These Regulations may be cited as the Canadian Wheat Board Regulations.
+
+**1** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Interpretation
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**2** In these Regulations,
 
-***Act*** means the [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md); (*Loi*)
-
-***applicant*** means a producer who makes an application; (*requérant*)
-
-***application*** means an application for a permit book; (*demande*)
-
-***assignable acres*** means the total of
-- **(a)** the number of acres that the applicant has seeded to wheat and barley, and
-- **(b)** the greater of
-	- **(i)** one-half the number of acres the applicant has seeded to wheat and barley, and
-	- **(ii)** one-third the number of acres the applicant has seeded in rye, oats, flaxseed, canola, rapeseed, miscellaneous crops and perennial forage, and has cultivated or managed as summerfallow; (*acres cessibles*)
-
-***dealer*** means any elevator, mill or feed dealer or grain dealer licensed under the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md) or holding an agreement with the Canadian Wheat Board; (*commerçant*)
-
-***feed grain*** means wheat of the grade No. 3 Canada Western Red Spring or wheat of any equivalent or lower level of excellence; (*grains de provende*)
-
-***licensed grain dealer*** means a person who is entitled to operate an elevator or carry on the business of a grain dealer under a licence issued under the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md); (*commerçant de grains titulaire d'une licence*)
-
-***Lower St. Lawrence*** means the region along the St. Lawrence River between Montreal and Port Cartier; (*Bas-Saint-Laurent*)
-
-***miscellaneous crops*** means crops seeded on the land referred to in an application, except wheat, oats, barley, rye, flaxseed, rapeseed, canola and perennial forage; (*cultures diverses*)
-
-***new breaking*** means cultivation for the first time and not seeded to any crop; (*terre nouvellement défrichée*)
-
-***perennial forage*** means all clovers (except sweet clover), sainfoin, trefoil, alfalfa and perennial grasses; (*fourrage vivace*)
-
-***quota acres*** means the acres specified by the Corporation in relation to any grain as the basis for the delivery of that grain under a permit book referring to the land described in the permit book; (*acres contingentées*)
-
-***summerfallow*** means fallow land that is cultivated or managed in such a way as to conserve soil moisture or to prevent soil from drifting or both. (*jachère d'été*) 
-> SOR/86-784, s. 1; SOR/88-149, s. 1; SOR/89-281, s. 1; SOR/89-365, ss. 2(F), 3(F); SOR/93-360, s. 1; SOR/93-390, s. 1; SOR/93-486, s. 1; SOR/95-384, s. 1; SOR/99-391, s. 1(E); SOR/2004-251, s. 1; SOR/2007-131, s. 1.
-
+**2** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Permit Books
-
-
-**3** 
-
-- **(1)** A producer may obtain an application form from any elevator manager in the designated area or from the Corporation.
-
-- **(2)** An application shall be signed by the applicant and shall
-	- **(a)** state the crop year during which the applicant proposes to deliver grain to an elevator;
-	- **(b)** state the legal description of the land in respect of which the application is being made, and the number of acres of that land that
-		- **(i)** in the preceding crop year have been seeded to wheat, oats, barley, rye, flaxseed, rapeseed and miscellaneous crops, or
-		- **(ii)** are in summerfallow, uncultivated land, pasture or in new breaking or perennial forage;
-	- **(c)** state the name and address of
-		- **(i)** the actual producer who is operating the land described pursuant to paragraph (b), and
-		- **(ii)** each other producer entitled to a share of the grain to be delivered from the said land under the permit book applied for in the application.
-> SOR/89-365, ss. 2(F) to 4(F); SOR/99-391, s. 1(E).
+> [Repealed, SOR/2013-19, s. 6]
 
 
 
-
-**4** An applicant shall
-- **(a)** verify his application by a statutory declaration;
-- **(b)** name a delivery point in the designated area at which he wishes to deliver his grain; and
-- **(c)** state the number of assignable acres that he assigns to the computation of quota acres for the delivery of wheat, oats or barley under the permit book.
-> SOR/89-365, s. 3(F); SOR/93-390, s. 8(F).
+**3** [Repealed, SOR/2013-19, s. 6]
 
 
 
-
-**5** An applicant shall sign the application and statutory declaration, prepared pursuant to sections 3 and 4, in ink or indelible pencil before a person authorized to administer oaths.
-
-
-
-**6** Unless otherwise directed by the Corporation, an application shall be delivered at the delivery point named in the application to an elevator manager at that point and the manager shall forward it to the Corporation.
-> SOR/89-365, s. 2(F); SOR/99-391, s. 1(E).
+**4** [Repealed, SOR/2013-19, s. 6]
 
 
 
-
-**7** Except with the permission of the Corporation, no person shall remove any page from a permit book.
-> SOR/89-365, s. 3(F); SOR/99-391, s. 1(E).
+**5** [Repealed, SOR/2013-19, s. 6]
 
 
 
+**6** [Repealed, SOR/2013-19, s. 6]
 
-**8** 
 
-- **(1)** No permit book shall be issued naming as a delivery point a point where there is no elevator that is licensed under the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md).
 
-- **(2)** [Repealed, SOR/84-408, s. 1]
-> SOR/84-408, s. 1; SOR/89-365, ss. 2(F), 3(F).
+**7** [Repealed, SOR/2013-19, s. 6]
 
+
+
+**8** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Barley
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**9** Part III of the Act is extended to barley.
-> SOR/89-282, s. 1; SOR/2007-131, s. 2.
 
+**9** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -134,57 +83,39 @@ Enabling authorities:
 
 
 ## Producer's Certificates
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**12** The form of certificate to be issued to producers delivering and selling wheat or barley to the Corporation is hereby prescribed as that set out in the schedule.
-> SOR/89-281, s. 2; SOR/99-391, s. 1(E).
 
+**12** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Transfer of Producer's Certificates
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**13** 
 
-- **(1)** The right to payment under a certificate issued by the Corporation pursuant to Part III of the Act may be transferred where a transfer is requested by
-	- **(a)** the executor or administrator of the estate of the producer named in the certificate; or
-	- **(b)** a producer who
-		- **(i)** is a vendor or mortgagee who is entitled to the wheat or barley referred to in the certificate, and
-		- **(ii)** received the certificate as collateral security in respect of a claim against the actual producer named in the certificate.
-
-- **(2)** The Corporation may require a person referred to in subsection (1), as a condition precedent to the transfer of the right to payment under a certificate, to provide the Corporation with evidence of the person's right to the transfer.
-> SOR/89-281, s. 3; SOR/89-365, s. 4(F); SOR/93-390, s. 3; SOR/99-391, s. 1(E).
-
+**13** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Licences
-
-
-**14** The Corporation may grant a licence for the export, or for the sale or purchase for delivery outside Canada, of wheat or wheat products if
-- **(a)** the export, sale or purchase does not adversely affect the marketing by the Corporation, in interprovincial or export trade, of wheat grown in Canada; and
-- **(b)** the applicant pays to the Corporation a sum of money that, in the Corporation’s opinion, represents the pecuniary benefit enuring to the applicant pursuant to the granting of the licence, arising solely by reason of the prohibition of the export of that wheat or those wheat products without a licence, and the then existing differences between the prices of that wheat or those wheat products inside and outside Canada.
-> SOR/79-110, s. 1; SOR/86-160, s. 1; SOR/89-281, s. 4; SOR/95-338, s. 1; SOR/99-391, s. 1(E); SOR/2007-131, s. 3.
+> [Repealed, SOR/2013-19, s. 6]
 
 
 
-
-**14.1** The Corporation may grant a licence for the transportation from one province to another, or for the sale or delivery anywhere in Canada, of wheat or wheat products, but no fee shall be charged for the licence.
-> SOR/93-360, s. 2; SOR/93-486, s. 2; SOR/99-391, s. 1(E); SOR/2007-131, s. 3.
+**14** [Repealed, SOR/2013-19, s. 6]
 
 
 
+**14.1** [Repealed, SOR/2013-19, s. 6]
 
-**14.2** Any person who exports wheat or wheat products from Canada shall, at the time of exportation, give to a customs officer at the customs office that is at the point of exit specified on the export licence
-- **(a)** the original export licence for that wheat or wheat product, and a copy of it; or
-- **(b)** in the case of an export licence for multiple shipments of that wheat or wheat product,
-	- **(i)** at the time of every shipment except the final shipment, two copies of the export licence, and
-	- **(ii)** at the time of the final shipment, the original export licence and a copy of it.
-> SOR/96-265, s. 1; SOR/2007-131, s. 3.
 
+
+**14.2** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -196,36 +127,25 @@ Enabling authorities:
 ## North American Free Trade Agreement
 > [SOR/93-586, s. 1]
 
-
-
-**15.1** Permission is hereby granted to any person to import into Canada wheat and wheat products that are entitled to the benefit of the United States Tariff of Schedule I to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and that are owned by a person other than the Corporation, where the wheat
-- **(a)** is accompanied by an end-use certificate referred to in subsection 87.1(1) of the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md), completed by the person importing the wheat and declaring that the wheat is imported for consumption in Canada and is consigned directly to a milling, manufacturing, brewing, distilling or other processing facility for consumption at that facility;
-- **(b)** is denatured in such a manner that the wheat contains at least 10 per cent by weight of kernels completely, visibly and permanently coloured by a colouring agent listed in Part I of Schedule IV to the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md) if imported for feed use; and
-- **(c)** is accompanied by a certificate issued pursuant to section 4.1 of the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) if the wheat is imported for seed use.
-> SOR/89-292, s. 1; SOR/91-302, s. 1; SOR/95-338, s. 2; SOR/99-391, s. 1(E).
+> [Repealed, SOR/2013-19, s. 6]
 
 
 
+**15.1** [Repealed, SOR/2013-19, s. 6]
 
-**15.2** Permission is granted to any person to import into Canada wheat and wheat products that are entitled to the benefit of the Mexico Tariff of Schedule I to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and that are owned by a person other than the Corporation.
-> SOR/93-586, s. 2; SOR/95-338, s. 3; SOR/99-391, s. 1(E); SOR/2007-131, s. 4.
 
+
+**15.2** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Interprovincial Transportation and Sale of Wheat and Wheat Products
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**16** 
 
-- **(1)** Permission is granted to any person who is not a public carrier and who resides or carries on business in Manitoba, Saskatchewan or Alberta to transport or cause to be transported interprovincially within the area that comprises those provinces
-	- **(a)** wheat that is not described by a grade name or by reference to a sample taken pursuant to the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md); or
-	- **(b)** any wheat products.
-
-- **(2)** Permission is granted to any licensee, as defined in section 2 of the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md), to sell and buy feed grain or wheat products that are situated in Manitoba, Saskatchewan or Alberta for delivery for consumption by livestock or poultry at any place in Canada elsewhere than in the province of purchase, and to transport or cause to be transported the feed grain or wheat products to that place.
-> SOR/89-281, s. 5; SOR/93-360, s. 3; SOR/93-486, s. 3; SOR/2007-131, s. 4.
-
+**16** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -235,9 +155,11 @@ Enabling authorities:
 
 
 ## Designated Products
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**17** Screenings that contain any quantity of wheat and all substances produced by processing or manufacturing wheat that contain wheat in any form to an extent greater than 25 per cent by weight, including wheat flour, breakfast foods, cereals, macaroni, spaghetti, vermicelli, noodles, animal and poultry feeds, wheat starch and wheat malt are hereby designated as ***wheat products*** for the purposes of the Act.
+
+**17** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -261,17 +183,15 @@ Enabling authorities:
 ## Assignable Acres and Quota Acres
 > [SOR/93-390, s. 4]
 
-
-
-**23** Subject to these Regulations, the Corporation shall specify the number of quota acres from which each grain produced on the land described in an application may be delivered to an elevator under the permit book issued in respect of the application.
-> SOR/89-365, ss. 2(F), 3(F); SOR/99-391, s. 1(E).
+> [Repealed, SOR/2013-19, s. 6]
 
 
 
+**23** [Repealed, SOR/2013-19, s. 6]
 
-**24** For the purpose of enabling the Corporation to compute and specify the number of quota acres from which wheat, oats or barley may be delivered under his permit book, an applicant may, in his application, assign in respect of the delivery of wheat, oats or barley, any number of his assignable acres that he has not assigned in respect of the delivery of any other grain.
-> SOR/89-365, s. 3(F); SOR/93-390, s. 8(F); SOR/99-391, s. 1(E).
 
+
+**24** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -281,35 +201,11 @@ Enabling authorities:
 
 
 ## Payment of Sum Certain
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**26** 
 
-- **(1)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period beginning on August 1, 2011 and ending on July 31, 2012 and known as No. 1 Canada Western Red Spring (12.5% protein content) is
-	- **(a)** $252.35 for straight wheat;
-	- **(b)** $244.35 for tough wheat; and
-	- **(c)** $236.85 for damp wheat.
-
-- **(2)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period beginning on August 1, 2011 and ending on July 31, 2012 and known as No. 1 Canada Western Amber Durum (12.5% protein content) is
-	- **(a)** $303.30 for straight wheat;
-	- **(b)** $295.30 for tough wheat; and
-	- **(c)** $287.80 for damp wheat.
-
-- **(3)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period beginning on August 1, 2011 and ending on January 31, 2012 and known as No. 1 Canada Western is
-	- **(a)** $155.00 for straight barley;
-	- **(b)** $148.00 for tough barley; and
-	- **(c)** $141.50 for damp barley.
-
-- **(4)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period beginning on August 1, 2011 and ending on July 31, 2012 and known as Select Canada Western Two-Row selected and accepted for use in the production of barley flour, barley malt or pot or pearled barley is
-	- **(a)** $281.90 for straight barley;
-	- **(b)** $274.90 for tough barley; and
-	- **(c)** $268.40 for damp barley.
-
-- **(5)** Where wheat or barley is delivered to an elevator or railway car by a person, other than a producer, who has been granted permission by the Corporation to deliver grain to an elevator, pursuant to subsection 24(1) of the Act, the Corporation shall pay to that person, without issuing a producer's certificate, the sum certain per tonne fixed by these Regulations for wheat or barley of the same grade pursuant to paragraph 32(1)(b) of the Act.
-
-- **(6) and (7)** [Repealed, SOR/90-442, s. 1]
-> SOR/78-76, s. 1; SOR/78-571, s. 1; SOR/79-239, s. 1; SOR/79-536, s. 1; SOR/79-723, s. 1; SOR/80-602, s. 1; SOR/80-884, s. 1; SOR/81-94, s. 1; SOR/81-579, s. 1; SOR/82-752, s. 1; SOR/83-630, s. 1; SOR/83-811, s. 1; SOR/84-174, s. 1; SOR/84-495, s. 1; SOR/84-642, s. 1; SOR/84-908, s. 1; SOR/85-413, s. 1; SOR/86-480, s. 1; SOR/87-454, s. 1; SOR/87-610, s. 1; SOR/88-226, s. 1; SOR/88-373, s. 1; SOR/88-587, s. 1; SOR/89-139, s. 1; SOR/89-281, s. 8; SOR/89-362, s. 1; SOR/89-476, s. 1; SOR/90-71, s. 1; SOR/90-442, s. 1; SOR/91-9, s. 1; SOR/91-467, s. 1; SOR/91-684, s. 1; SOR/92-55, s. 1; SOR/92-212, s. 1; SOR/92-470, s. 1; SOR/92-617, s. 1; SOR/93-32, s. 1; SOR/93-278, s. 1; SOR/93-390, s. 6; SOR/93-406, s. 1; SOR/93-519, s. 1; SOR/94-26, s. 1; SOR/94-230, s. 1; SOR/94-244, s. 1; SOR/94-412, s. 1; SOR/94-521, s. 1; SOR/94-522, s. 1; SOR/94-644, s. 1; SOR/94-756, s. 1; SOR/95-61, s. 1; SOR/95-88, s. 1; SOR/95-224, s. 1; SOR/95-324, s. 1; SOR/95-383, s. 1; SOR/95-480, s. 1; SOR/95-481, s. 1; SOR/95-511, s. 1; SOR/95-554, s. 1; SOR/95-555, s. 1; SOR/96-157, s. 1; SOR/96-264, s. 1; SOR/96-382, s. 1; SOR/96-392, s. 1; SOR/97-113, s. 1; SOR/97-223, s. 1; SOR/97-315, s. 1; SOR/97-361, s. 1; SOR/97-396, s. 1; SOR/97-431, s. 1; SOR/98-14, s. 1; SOR/98-109, s. 1; SOR/98-263, s. 1; SOR/98-384, s. 1; SOR/98-404, s. 1; SOR/99-24, s. 1; SOR/99-36, s. 1; SOR/99-104, s. 1; SOR/99-307, s. 1; SOR/99-341, s. 1; SOR/99-391, s. 1(E); SOR/99-430, s. 1; SOR/2000-23, s. 1; SOR/2000-64, s. 1; SOR/2000-171, s. 1; SOR/2000-295, s. 1; SOR/2000-321, s. 1; SOR/2001-21, s. 1; SOR/2001-137, s. 1; SOR/2001-151, s. 1; SOR/2001-240, s. 1; SOR/2001-267, s. 1; SOR/2001-333, s. 1; SOR/2001-488, s. 1; SOR/2002-28, s. 1; SOR/2002-139, s. 1; SOR/2002-248, s. 1; SOR/2002-285, s. 1; SOR/2002-328, s. 1; SOR/2002-433, s. 1; SOR/2003-287, s. 1; SOR/2003-418, s. 1; SOR/2004-41, s. 1; SOR/2004-134, s. 1; SOR/2004-173, s. 1; SOR/2005-21, s. 1; SOR/2005-36, s. 1; SOR/2005-140, s. 1; SOR/2005-233, s. 1; SOR/2005-349, s. 1; SOR/2006-22, s. 1;  SOR/2006-55, s. 1; SOR/2006-171, s. 1; SOR/2006-172, s. 1; SOR/2006-263, s. 1; SOR/2006-346, s. 1; SOR/2007-21, s. 1; SOR/2007-56, s. 1; SOR/2007-132, s. 1; SOR/2007-167, s. 1; SOR/2007-183, s. 1; SOR/2007-184, s. 1; SOR/2007-217, s. 1; SOR/2007-265, s. 1; SOR/2008-32, s. 1; SOR/2008-40, s. 1; SOR/2008-107, s. 1; SOR/2008-224, s. 1; SOR/2008-232, s. 1; SOR/2009-26, s. 1; SOR/2009-65, s. 1; SOR/2009-196, s. 1; SOR/2009-226, s. 1; SOR/2010-16, s. 1; SOR/2010-60, s. 1; SOR/2010-115, s. 1; SOR/2010-163, s. 1; SOR/2010-274, s. 1; SOR/2011-3, s. 1; SOR/2011-4, s. 1; SOR/2011-101, s. 1; SOR/2011-141, s. 1; SOR/2011-150, s. 1; SOR/2012-11, s. 1; SOR/2012-82, s. 1; SOR/2012-117, s. 1.
-
+**26** [Repealed, SOR/2013-19, s. 6]
 
 
 
@@ -319,56 +215,37 @@ Enabling authorities:
 
 
 ## Designation of Selected and Accepted Barley
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**28** All barley of the following grades that has been delivered to the Corporation after July 31, 2008, to be sold by the Corporation to purchasers who, with the consent of the Corporation, have selected and accepted the barley for use in the production of barley flour, barley malt or pot or pearled barley, is designated for the purposes of Part III of the Act:
-- **(a)** Select Canada Western Two-Row;
-- **(b)** Sample Select Canada Western Two-Row;
-- **(c)** Select Canada Western Two-Row Hull-less;
-- **(d)** Select Canada Western Six-Row;
-- **(e)** Sample Select Canada Western Six-Row;
-- **(f)** Select Canada Western Six-Row Hull-less; and
-- **(g)** all other grades of barley.
-> SOR/78-92, s. 1; SOR/86-784, s. 2; SOR/87-119, s. 1; SOR/94-213, s. 1; SOR/99-391, s. 1(E); SOR/2008-52, s. 1.
 
+**28** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Designation of Amber Durum Wheat
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**29** Pursuant to subsection 41(1) of the Act, amber durum wheat of the following grades that is delivered to the Corporation is designated to be subject to the separate application of Part III of the Act:
-- **(a)** No. 1 Canada Western;
-- **(b)** No. 2 Canada Western;
-- **(c)** No. 3 Canada Western;
-- **(d)** No. 4 Canada Western;
-- **(e)** No. 5 Canada Western; and
-- **(f)** all other grades of amber durum wheat.
-> SOR/78-24, s. 1; SOR/99-391, s. 1(E); SOR/2001-92, s. 1.
 
+**29** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ## Pooling Points
+> [Repealed, SOR/2013-19, s. 6]
 
 
-**30** The following places are designated as pooling points pursuant to subsection 2(5) of the Act:
-- **(a)** Vancouver; and
-- **(b)** Lower St. Lawrence.
-> SOR/95-384, s. 2.
 
+**30** [Repealed, SOR/2013-19, s. 6]
 
 
 
 
 ### **SCHEDULE** 
 **(Section 12)**
-FORM: PRODUCER'S CERTIFICATE
-
-GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 397, P. 2824; SOR/89-281, S. 10; SOR/99-391, S. 2(E).
-
-> SOR/89-281, s. 10; SOR/99-391, s. 2(E).
+[Repealed, SOR/2013-19, s. 6]
 
 
