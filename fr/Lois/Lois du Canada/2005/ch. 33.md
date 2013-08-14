@@ -106,73 +106,147 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi canadienne sur les coopératives
-
-
-**6** [Modifications]
-
+**PARTIE 2** 
+## Dissolution du mariage des époux non-résidents
 
 
 
-### Loi sur les prestations de guerre pour les civils
+**Définition de tribunal**
 
-
-**7** [Modification]
-
-
-
-
-### Loi sur le divorce
-
-
-**8** [Modifications]
+**6** Dans la présente partie, ***tribunal*** s’entend, dans le cas d’une province, de l’un des tribunaux suivants :
+- **a)** la Cour supérieure de justice de l’Ontario;
+- **b)** la Cour supérieure du Québec;
+- **c)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
+- **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
+- **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve-et-Labrador;
+- **f)** la Cour suprême du Yukon ou des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+Est visé par la présente définition tout autre tribunal d’une province qui est composé de juges nommés par le gouverneur général et qui est désigné par le lieutenant-gouverneur en conseil de cette province comme tribunal pour l’application de la présente partie.
+> 2005, ch. 33, art. 6; 2013, ch. 30, art. 4.
 
 
 
 
-### Loi sur le droit fédéral et le droit civil de la province de Québec
 
+**Divorce — époux non-résidents du Canada**
 
-**9** [Modification]
+**7** 
 
+- **(1)** Le tribunal de la province où les époux se sont mariés peut, sur demande, leur accorder le divorce si les conditions suivantes sont réunies :
+	- **a)** il y a échec du mariage comme l’établit le fait que les époux ont vécu séparément pendant au moins un an avant la présentation de la demande;
+	- **b)** au moment de la demande, aucun des époux ne réside au Canada;
+	- **c)** chacun des époux réside — et, pendant au moins un an avant la présentation de la demande, a résidé — dans un État où le divorce ne peut être accordé parce que la validité du mariage n’y est pas reconnue.
 
+**Demande**
 
+- **(2)** La demande peut être présentée par les deux époux conjointement ou par l’un d’eux avec le consentement de l’autre ou, à défaut de consentement, sur présentation d’une ordonnance du tribunal ou d’un tribunal de l’État où l’un d’eux réside qui déclare que l’autre époux :
+	- **a)** soit est incapable de prendre des décisions concernant son état civil en raison d’une incapacité mentale;
+	- **b)** soit refuse son consentement sans motif valable;
+	- **c)** soit est introuvable.
 
-### Loi de l’impôt sur le revenu
+**Exception — époux retrouvé**
 
-
-**10** [Modifications]
-
-
-
-**11** [Modification]
-
-
-
-**11.1** [Modification]
-
-
-
-**12** [Modifications]
+- **(3)** Malgré l’alinéa (2)c), le consentement de l’autre époux est requis si ce dernier a été trouvé dans le cadre de la signification de la demande.
+> 2005, ch. 33, art. 7; 2013, ch. 30, art. 4.
 
 
 
 
-### Loi sur le mariage (degrés prohibés)
 
+**Aucune mesure accessoire**
 
-**13** [Modification]
-
-
-
-**14** [Modification]
+**8** Il est entendu que la [Loi sur le divorce](/fr/Lois/Lois%20du%20Canada/1985/ch.%203%20(2e%20suppl.).md) ne s’applique pas au divorce accordé en application de la présente loi.
+> 2005, ch. 33, art. 8; 2013, ch. 30, art. 4.
 
 
 
 
-### Loi sur la modernisation de certains régimes d’avantages et d’obligations
+
+**Prise d’effet du divorce**
+
+**9** 
+
+- **(1)** Le divorce prend effet à la date où le jugement qui l’accorde est prononcé.
+
+**Certificat de divorce**
+
+- **(2)** Après la prise d’effet du divorce, le tribunal doit, sur demande, délivrer à quiconque un certificat attestant que le divorce prononcé en application de la présente loi a dissous le mariage des personnes visées à la date indiquée.
+
+**Preuve concluante**
+
+- **(3)** Le certificat ou une copie certifiée conforme fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+> 2005, ch. 33, art. 9; 2013, ch. 30, art. 4.
 
 
-**15** [Modification]
+
+
+
+**Validité du divorce dans tout le Canada**
+
+**10** À sa prise d’effet, le divorce accordé en application de la présente loi est valide dans tout le Canada.
+> 2005, ch. 33, art. 10; 2013, ch. 30, art. 4.
+
+
+
+
+
+**Effet du divorce**
+
+**11** À sa prise d’effet, le divorce accordé en application de la présente loi dissout le mariage des époux.
+> 2005, ch. 33, art. 11; 2013, ch. 30, art. 4.
+
+
+
+
+**11.1** [Abrogé, 2013, ch. 30, art. 4]
+
+
+
+
+**Définition de autorité compétente**
+
+**12** 
+
+- **(1)** Au présent article, ***autorité compétente*** s’entend, dans le cas du tribunal d’une province, des organismes, personnes ou groupes de personnes habituellement compétents, en vertu des lois de la province, pour établir les règles de pratique et de procédure de ce tribunal.
+
+**Règles**
+
+- **(2)** Sous réserve du paragraphe (3), l’autorité compétente peut établir les règles applicables aux demandes présentées au titre de la présente partie devant le tribunal, notamment en ce qui concerne :
+	- **a)** la pratique et la procédure devant ce tribunal;
+	- **b)** l’instruction et le règlement des demandes visées par la présente partie sans qu’il soit nécessaire aux parties de présenter leurs éléments de preuve et leur argumentation verbalement;
+	- **c)** les attributions des fonctionnaires du tribunal;
+	- **d)** toute autre mesure jugée opportune aux fins de la justice et pour l’application de la présente partie.
+
+**Mode d’exercice du pouvoir**
+
+- **(3)** Le pouvoir d’une autorité compétente d’établir des règles pour un tribunal s’exerce selon les mêmes modalités et conditions que le pouvoir conféré à cet égard par les lois provinciales.
+
+**Règles et textes réglementaires**
+
+- **(4)** Les règles établies en vertu du présent article par une autorité compétente qui n’est ni un organisme judiciaire ni un organisme quasi judiciaire sont réputées ne pas être des textes réglementaires au sens et pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2005, ch. 33, art. 12; 2013, ch. 30, art. 4.
+
+
+
+
+
+**Règlements**
+
+**13** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente partie, notamment en vue d’assurer l’uniformité des règles établies en vertu de l’article 12.
+
+**Primauté des règlements**
+
+- **(2)** Les règlements visant l’uniformité des règles l’emportent sur celles-ci.
+> 2005, ch. 33, art. 13; 2013, ch. 30, art. 4.
+
+
+
+
+**14** [Abrogé, 2013, ch. 30, art. 4]
+
+
+
+**15** [Abrogé, 2013, ch. 30, art. 4]
 
 
