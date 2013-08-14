@@ -104,73 +104,147 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Canada Cooperatives Act
-
-
-**6** [Amendments]
-
+**PART 2** 
+## Dissolution of Marriage For Non-Resident Spouses
 
 
 
-### Civilian War-related Benefits Act
+**Definition of court**
 
-
-**7** [Amendment]
-
-
-
-
-### Divorce Act
-
-
-**8** [Amendments]
+**6** In this Part, ***court***, in respect of a province, means
+- **(a)** for Ontario, the Superior Court of Justice;
+- **(b)** for Quebec, the Superior Court;
+- **(c)** for Nova Scotia and British Columbia, the Supreme Court of the province;
+- **(d)** for New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the province;
+- **(e)** for Prince Edward Island and Newfoundland and Labrador, the trial division of the Supreme Court of the province; and
+- **(f)** for Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice.
+It also means any other court in the province whose judges are appointed by the Governor General and that is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this Part.
+> 2005, c. 33, s. 6; 2013, c. 30, s. 4.
 
 
 
 
-### Federal Law and Civil Law of the Province of Quebec Act
 
+**Divorce — non-resident spouses**
 
-**9** [Amendment]
+**7** 
 
+- **(1)** The court of the province where the marriage was performed may, on application, grant the spouses a divorce if
+	- **(a)** there has been a breakdown of the marriage as established by the spouses having lived separate and apart for at least one year before the making of the application;
+	- **(b)** neither spouse resides in Canada at the time the application is made; and
+	- **(c)** each of the spouses is residing — and for at least one year immediately before the application is made, has resided — in a state where a divorce cannot be granted because that state does not recognize the validity of the marriage.
 
+**Application**
 
+- **(2)** The application may be made by both spouses jointly or by one of the spouses with the other spouse’s consent or, in the absence of that consent, on presentation of an order from the court or a court located in the state where one of the spouses resides that declares that the other spouse
+	- **(a)** is incapable of making decisions about his or her civil status because of a mental disability;
+	- **(b)** is unreasonably withholding consent; or
+	- **(c)** cannot be found.
 
-### Income Tax Act
+**Exception if spouse is found**
 
-
-**10** [Amendments]
-
-
-
-**11** [Amendment]
-
-
-
-**11.1** [Amendment]
-
-
-
-**12** [Amendments]
+- **(3)** Despite paragraph (2)(c), the other spouse’s consent is required if that spouse is found in connection with the service of the application.
+> 2005, c. 33, s. 7; 2013, c. 30, s. 4.
 
 
 
 
-### Marriage (Prohibited Degrees) Act
 
+**No corollary relief**
 
-**13** [Amendment]
-
-
-
-**14** [Amendment]
+**8** For greater certainty, the [Divorce Act](/en/Acts/Statutes%20of%20Canada/1985/c.%203%20(2nd%20Supp.).md) does not apply to a divorce granted under this Act.
+> 2005, c. 33, s. 8; 2013, c. 30, s. 4.
 
 
 
 
-### Modernization of Benefits and Obligations Act
+
+**Effective date generally**
+
+**9** 
+
+- **(1)** A divorce takes effect on the day on which the judgment granting the divorce is rendered.
+
+**Certificate of divorce**
+
+- **(2)** After a divorce takes effect, the court must, on request, issue to any person a certificate that a divorce granted under this Act dissolved the marriage of the specified persons effective as of a specified date.
+
+**Conclusive proof**
+
+- **(3)** The certificate, or a certified copy of it, is conclusive proof of the facts so certified without proof of the signature or authority of the person appearing to have signed the certificate.
+> 2005, c. 33, s. 9; 2013, c. 30, s. 4.
 
 
-**15** [Amendment]
+
+
+
+**Legal effect throughout Canada**
+
+**10** On taking effect, a divorce granted under this Act has legal effect throughout Canada.
+> 2005, c. 33, s. 10; 2013, c. 30, s. 4.
+
+
+
+
+
+**Marriage dissolved**
+
+**11** On taking effect, a divorce granted under this Act dissolves the marriage of the spouses.
+> 2005, c. 33, s. 11; 2013, c. 30, s. 4.
+
+
+
+
+**11.1** [Repealed, 2013, c. 30, s. 4]
+
+
+
+
+**Definition of competent authority**
+
+**12** 
+
+- **(1)** In this section, ***competent authority***, in respect of a court in a province, means the body, person or group of persons ordinarily competent under the laws of that province to make rules regulating the practice and procedure in that court.
+
+**Rules**
+
+- **(2)** Subject to subsection (3), the competent authority may make rules applicable to any applications made under this Part in a court in a province, including rules
+	- **(a)** regulating the practice and procedure in the court;
+	- **(b)** respecting the conduct and disposition of any applications that are made under this Part without an oral hearing;
+	- **(c)** prescribing and regulating the duties of the officers of the court; and
+	- **(d)** prescribing and regulating any other matter considered expedient to attain the ends of justice and carry into effect the purposes and provisions of this Part.
+
+**Exercise of power**
+
+- **(3)** The power of a competent authority to make rules for a court must be exercised in the like manner and subject to the like terms and conditions, if any, as the power to make rules for that court that are conferred on that authority by the laws of the province.
+
+**Not statutory instruments**
+
+- **(4)** Rules that are made under this section by a competent authority that is not a judicial or quasi-judicial body are deemed not to be statutory instruments within the meaning and for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2005, c. 33, s. 12; 2013, c. 30, s. 4.
+
+
+
+
+
+**Regulations**
+
+**13** 
+
+- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Part, including regulations providing for uniformity in the rules made under section 12.
+
+**Regulations prevail**
+
+- **(2)** Any regulations that are made to provide for uniformity in the rules prevail over those rules.
+> 2005, c. 33, s. 13; 2013, c. 30, s. 4.
+
+
+
+
+**14** [Repealed, 2013, c. 30, s. 4]
+
+
+
+**15** [Repealed, 2013, c. 30, s. 4]
 
 
