@@ -125,6 +125,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***equity***, in respect of a bank or a bank holding company, means its equity as determined in accordance with the regulations;
 
+***external complaints body*** means a body corporate approved under subsection 455.01(1) or designated under subsection 455.1(1).
+
 ***federal credit union*** means a bank that, within the meaning of section 12.1, is organized and carries on business on a cooperative basis;
 
 ***federal financial institution*** means
@@ -288,7 +290,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894; 2012, c. 5, ss. 2, 223.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223.
 
 
 
@@ -11633,11 +11635,50 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 
 
+**Approval of external complaints body**
+
+**455.01** 
+
+- **(1)** Subject to section 455.1, the Minister may, on the Commissioner’s recommendation and for the purposes of this section, approve a body corporate incorporated under the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) whose purpose, in the Minister’s view, under its letters patent is dealing with complaints, made by persons having requested or received products or services from its member financial institutions, that have not been resolved to the satisfaction of those persons under procedures established by those financial institutions under paragraph 455(1)(a).
+
+**Obligation to be member**
+
+- **(2)** A bank must be a member of one body corporate that is approved under subsection (1).
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting the requirements for the approval of a body corporate under subsection (1) and the requirements for a body corporate approved under that subsection for maintaining that approval.
+
+**Not an agent**
+
+- **(4)** A body corporate approved under subsection (1) is not an agent of Her Majesty.
+
+**Approval to be published**
+
+- **(5)** An approval given under subsection (1) must be published in the Canada Gazette.
+
+**Information, etc.**
+
+- **(6)** A body corporate that is seeking an approval under subsection (1) must apply to the Commissioner, and the application must provide, in the form and manner required by the Commissioner, any information, material and evidence that he or she may require.
+> 2010, c. 25, ss. 147, 163.
+
+
+
+
+
 **Designation of complaints body**
 
 **455.1** 
 
 - **(1)** The Minister may, for the purposes of this section, designate a body corporate incorporated under the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) whose purpose, in the view of the Minister, is dealing with complaints, made by persons having requested or received products or services from its member financial institutions, that have not been resolved to the satisfaction of those persons under procedures established by those financial institutions under paragraph 455(1)(a).
+
+**Effect of designation**
+
+- **(1.1)** If the Minister makes a designation under subsection (1), any approval given under subsection 455.01(1) is revoked.
+
+**Effect of revocation**
+
+- **(1.2)** If the Minister makes a designation under subsection (1), the body corporate designated under that subsection must deal with any complaint that was made to a body corporate approved under subsection 455.01(1) and that has not been resolved.
 
 **Obligation to be member**
 
@@ -11647,6 +11688,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 - **(3)** The Minister may, in accordance with the letters patent and by-laws of the body corporate designated under subsection (1), appoint the majority of its directors.
 
+**Regulations**
+
+- **(3.1)** The Governor in Council may make regulations respecting the requirements to be met by the body corporate designated under subsection (1).
+
 **Not an agent**
 
 - **(4)** A body corporate designated under subsection (1) is not an agent of Her Majesty.
@@ -11654,7 +11699,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Designation to be published**
 
 - **(5)** A designation under subsection (1) shall be published in the Canada Gazette.
-> 2001, c. 9, s. 121; 2009, c. 23, s. 306.
+> 2001, c. 9, s. 121; 2009, c. 23, s. 306; 2010, c. 25, s. 148.
 
 
 
@@ -15870,8 +15915,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Obligation to be member**
 
-**573.1** An authorized foreign bank shall be a member of any body corporate that is designated under subsection 455.1(1).
-> 2001, c. 9, s. 156.
+**573.1** An authorized foreign bank must be a member of one external complaints body.
+> 2001, c. 9, s. 156; 2010, c. 25, s. 150.
 
 
 
@@ -17633,14 +17678,14 @@ together with such other information about the background, business record and e
 
 
 **PART XIV** 
-## Regulation of Banks — Commissioner
+## Regulation of Banks and External Complaints Bodies — Commissioner
 
 
 
 **Required information**
 
-**657** A bank or an authorized foreign bank shall provide the Commissioner with the information at the times and in the form that the Commissioner may require for the purposes of the administration of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) and the consumer provisions.
-> 1999, c. 28, s. 58; 2001, c. 9, s. 183.
+**657** A bank, authorized foreign bank or external complaints body must provide the Commissioner with the information at the times and in the form that he or she may require for the purposes of the administration of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) and the consumer provisions.
+> 1999, c. 28, s. 58; 2001, c. 9, s. 183; 2010, c. 25, s. 151.
 
 
 
@@ -17650,7 +17695,7 @@ together with such other information about the background, business record and e
 
 **658** 
 
-- **(1)** Subject to subsection (2), information regarding the business or affairs of a bank or authorized foreign bank or regarding persons dealing with any of them that is obtained by the Commissioner or by any person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions referred to in subsection 5(1) of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), and any information prepared from that information, is confidential and shall be treated accordingly.
+- **(1)** Subject to subsection (2), information regarding the business or affairs of a bank, authorized foreign bank or external complaints body or regarding persons dealing with any of them that is obtained by the Commissioner or by any person acting under the Commissioner’s direction, in the course of the exercise or performance of powers, duties and functions referred to in subsection 5(1) of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), and any information prepared from that information, is confidential and shall be treated accordingly.
 
 **Disclosure permitted**
 
@@ -17659,7 +17704,7 @@ together with such other information about the background, business record and e
 	- **(b)** to any other agency or body that regulates or supervises financial institutions, for purposes related to that regulation or supervision;
 	- **(c)** to the Canada Deposit Insurance Corporation, for purposes related to its operation; and
 	- **(d)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for the purposes of policy analysis related to the regulation of financial institutions.
-> 1999, c. 28, s. 59; 2001, c. 9, s. 183.
+> 1999, c. 28, s. 59; 2001, c. 9, s. 183; 2010, c. 25, s. 152.
 
 
 
@@ -17674,9 +17719,9 @@ together with such other information about the background, business record and e
 **Access to records of bank**
 
 - **(2)** The Commissioner or a person acting under the Commissioner’s direction in carrying out his or her duties under subsection (1)
-	- **(a)** has a right of access to any records, including electronic records, of a bank or authorized foreign bank; and
-	- **(b)** may require the directors or officers of a bank or authorized foreign bank to provide information and explanations, to the extent that they are reasonably able to do so, in respect of any matter subject to examination or inquiry under subsection (1).
-> 1999, c. 28, s. 59; 2001, c. 9, s. 183.
+	- **(a)** has a right of access to any records, including electronic records, of a bank, authorized foreign bank or external complaints body; and
+	- **(b)** may require the directors or officers of a bank, authorized foreign bank or external complaints body to provide information and explanations, to the extent that they are reasonably able to do so, in respect of any matter subject to examination or inquiry under subsection (1).
+> 1999, c. 28, s. 59; 2001, c. 9, s. 183; 2010, c. 25, s. 153.
 
 
 
@@ -17693,8 +17738,8 @@ together with such other information about the background, business record and e
 
 **Compliance agreement**
 
-**661** The Commissioner may enter into an agreement, called a “compliance agreement”, with a bank or an authorized foreign bank for the purposes of implementing any measure designed to further compliance by it with the consumer provisions.
-> 1999, c. 28, s. 61; 2001, c. 9, s. 183.
+**661** The Commissioner may enter into an agreement, called a “compliance agreement”, with a bank, authorized foreign bank or external complaints body for the purposes of implementing any measure that is designed so as to further compliance by it with the consumer provisions.
+> 1999, c. 28, s. 61; 2001, c. 9, s. 183; 2010, c. 25, s. 154.
 
 
 
@@ -24192,8 +24237,8 @@ together with such other information about the background, business record and e
 
 **Not statutory instruments**
 
-**974** An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than an order referred to in section 499, is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2001, c. 9, s. 183.
+**974** An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than a regulation made under subsection 455.01(3) or 455.1(3.1) or an order referred to in section 499, is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2001, c. 9, s. 183; 2010, c. 25, s. 155.
 
 
 
