@@ -181,6 +181,8 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
 
+***organisme externe de traitement des plaintes*** Organisation approuvée en application du paragraphe 455.01(1) ou désignée en vertu du paragraphe 455.1(1).
+
 ***parts sociales*** Dans le cas d’une coopérative de crédit fédérale, la participation à son actif qui confère les droits prévus au paragraphe 79.1(1).
 
 ***personne*** Personne physique, entité ou représentant personnel.
@@ -277,7 +279,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894; 2012, ch. 5, art. 2 et 223.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223.
 
 
 
@@ -11482,11 +11484,50 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+**Approbation d’un organisme externe de traitement des plaintes**
+
+**455.01** 
+
+- **(1)** Sous réserve de l’article 455.1, le ministre peut, sur recommandation du commissaire et pour l’application du présent article, approuver une organisation constituée en personne morale sous le régime de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ou de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) dont la mission lui paraît être, en vertu de ses lettres patentes, d’examiner les réclamations de personnes qui ont demandé ou obtenu des produits ou services d’institutions financières membres de l’organisation et qui sont insatisfaites des conclusions de la procédure d’examen établie en application de l’alinéa 455(1)a).
+
+**Obligation d’adhésion**
+
+- **(2)** Toute banque est tenue d’être membre d’une organisation approuvée en application du paragraphe (1).
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements concernant les exigences à respecter par l’organisation en vue de l’obtention et du maintien de l’approbation visée au paragraphe (1).
+
+**Non mandataire de Sa Majesté**
+
+- **(4)** L’organisation n’est pas mandataire de Sa Majesté.
+
+**Publication**
+
+- **(5)** L’approbation donnée en application du paragraphe (1) est publiée dans la Gazette du Canada.
+
+**Renseignements et documents**
+
+- **(6)** L’organisation présente sa demande d’approbation au commissaire; elle y joint, en la forme et de la manière fixées par celui-ci, les renseignements, documents et pièces justificatives qu’il peut exiger.
+> 2010, ch. 25, art. 147 et 163.
+
+
+
+
+
 **Désignation d’une organisation par le ministre**
 
 **455.1** 
 
 - **(1)** Le ministre peut, pour l’application du présent article, désigner une personne morale constituée sous le régime de la Loi canadienne sur lesorganisations à but non lucratif dont la mission lui paraît être d’examiner les réclamations de personnes qui ont demandé ou obtenu des produits ou services d’institutions financières membres de l’organisation et qui sont insatisfaites des conclusions de la procédure d’examen établie en application de l’alinéa 455(1)a).
+
+**Effet de la désignation**
+
+- **(1.1)** La désignation d’une organisation en vertu du paragraphe (1) emporte révocation de toute approbation donnée en application du paragraphe 455.01(1).
+
+**Effet de la révocation**
+
+- **(1.2)** L’organisation désignée en vertu du paragraphe (1) décide des réclamations en instance qui ont été présentées au titre du paragraphe 455.01(1) aux organisations dont l’approbation a été révoquée.
 
 **Obligation d’adhésion**
 
@@ -11496,6 +11537,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(3)** Le ministre peut, en conformité avec les lettres patentes et les statuts de l’organisation, nommer la majorité des administrateurs de celle-ci.
 
+**Règlements**
+
+- **(3.1)** Le gouverneur en conseil peut prendre des règlements concernant les exigences à respecter par l’organisation désignée en vertu du paragraphe (1).
+
 **Non-mandataire de Sa Majesté**
 
 - **(4)** L’organisation n’est pas mandataire de Sa Majesté.
@@ -11503,7 +11548,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Publication**
 
 - **(5)** La désignation faite aux termes du paragraphe (1) est publiée dans la Gazette du Canada.
-> 2001, ch. 9, art. 121; 2009, ch. 23, art. 306.
+> 2001, ch. 9, art. 121; 2009, ch. 23, art. 306; 2010, ch. 25, art. 148.
 
 
 
@@ -15618,8 +15663,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Obligation d’adhésion**
 
-**573.1** Toute banque étrangère autorisée est tenue d’être membre d’une organisation visée au paragraphe 455.1(1).
-> 2001, ch. 9, art. 156.
+**573.1** Toute banque étrangère autorisée est tenue d’être membre d’un organisme externe de traitement des plaintes.
+> 2001, ch. 9, art. 156; 2010, ch. 25, art. 150.
 
 
 
@@ -17327,14 +17372,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 **PARTIE XIV** 
-## Réglementation des banques : commissaire
+## Réglementation des banques et des organismes externes de traitement des plaintes : commissaire
 
 
 
 **Demande de renseignements**
 
-**657** La banque ou la banque étrangère autorisée fournit au commissaire, aux dates et en la forme précisées, les renseignements qu’il exige pour l’application de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et des dispositions visant les consommateurs.
-> 1999, ch. 28, art. 58; 2001, ch. 9, art. 183.
+**657** La banque, la banque étrangère autorisée ou l’organisme externe de traitement des plaintes fournit au commissaire, aux dates et en la forme précisées, les renseignements qu’il exige pour l’application de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et des dispositions visant les consommateurs.
+> 1999, ch. 28, art. 58; 2001, ch. 9, art. 183; 2010, ch. 25, art. 151.
 
 
 
@@ -17344,33 +17389,33 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **658** 
 
-- **(1)** Sous réserve du paragraphe (2), sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque ou de la banque étrangère autorisée ou concernant une personne faisant affaire avec elles — ainsi que les renseignements qui sont tirés de ceux-ci — , obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées au paragraphe 5(1) de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+- **(1)** Sous réserve du paragraphe (2), sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque, de la banque étrangère autorisée ou de l’organisme externe de traitement des plaintes ou concernant toute personne faisant affaire avec eux — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées au paragraphe 5(1) de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 **Communication autorisée**
 
-- **(2)** S’il est convaincu que les renseignements seront traités comme confidentiels par leur destinataire, le commissaire peut les communiquer :
+- **(2)** S’il est convaincu que les renseignements seront traités comme confidentiels par leur destinataire, le commissaire peut les communiquer :
 	- **a)** à une agence ou à un organisme gouvernemental qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **b)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **c)** à la Société d’assurance-dépôts du Canada pour l’accomplissement de ses fonctions;
 	- **d)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, ou au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des institutions financières.
-> 1999, ch. 28, art. 59; 2001, ch. 9, art. 183.
+> 1999, ch. 28, art. 59; 2001, ch. 9, art. 183; 2010, ch. 25, art. 152.
 
 
 
 
 
-**Examen des banques**
+**Examen**
 
 **659** 
 
-- **(1)** Afin de s’assurer que la banque ou la banque étrangère autorisée se conforme aux dispositions visant les consommateurs applicables, le commissaire, à l’occasion, mais au moins une fois par an, procède ou fait procéder à un examen et à une enquête dont il fait rapport au ministre.
+- **(1)** Afin de s’assurer que la banque, la banque étrangère autorisée ou l’organisme externe de traitement des plaintes se conforme aux dispositions visant les consommateurs applicables, le commissaire, à l’occasion, mais au moins une fois par an, procède ou fait procéder à un examen et à une enquête dont il fait rapport au ministre.
 
 **Droit d’obtenir communication des pièces**
 
-- **(2)** Pour l’application du paragraphe (1), le commissaire ou toute personne agissant sous ses ordres :
-	- **a)** a accès aux documents, notamment sous forme électronique, de la banque;
+- **(2)** Pour l’application du paragraphe (1), le commissaire ou toute personne agissant sous ses ordres :
+	- **a)** a accès aux documents, notamment sous forme électronique, de la banque, de la banque étrangère autorisée ou de l’organisme externe de traitement des plaintes;
 	- **b)** peut exiger des administrateurs ou des dirigeants qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame pour examen ou enquête pour l’application du paragraphe (1).
-> 1999, ch. 28, art. 59; 2001, ch. 9, art. 183.
+> 1999, ch. 28, art. 59; 2001, ch. 9, art. 183; 2010, ch. 25, art. 153.
 
 
 
@@ -17387,8 +17432,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Accord de conformité**
 
-**661** Le commissaire peut conclure un accord, appelé «  accord de conformité », avec une banque ou une banque étrangère autorisée afin de mettre en oeuvre des mesures visant à favoriser le respect par celles-ci des dispositions visant les consommateurs.
-> 1999, ch. 28, art. 61; 2001, ch. 9, art. 183.
+**661** Le commissaire peut conclure un accord, appelé « accord de conformité », avec une banque, une banque étrangère autorisée ou un organisme externe de traitement des plaintes afin de mettre en oeuvre des mesures visant à favoriser le respect par ceux-ci des dispositions visant les consommateurs.
+> 1999, ch. 28, art. 61; 2001, ch. 9, art. 183; 2010, ch. 25, art. 154.
 
 
 
@@ -23815,8 +23860,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Caractère non réglementaire**
 
-**974** À l’exclusion de l’ordonnance prévue à l’article 499, les actes pris sous le régime de la présente loi à l’endroit d’une seule banque, société de portefeuille bancaire, banque étrangère autorisée ou personne ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 9, art. 183.
+**974** À l’exclusion de tout règlement pris en vertu des paragraphes 455.01(3) ou 455.1(3.1) et de l’ordonnance prévue à l’article 499, les actes pris sous le régime de la présente loi à l’endroit d’une seule banque, société de portefeuille bancaire, banque étrangère autorisée ou personne ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2001, ch. 9, art. 183; 2010, ch. 25, art. 155.
 
 
 
