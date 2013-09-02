@@ -37,13 +37,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this section and in sections 3 to 34.
 
-***Agency*** means the Financial Consumer Agency of Canada established under section 3.
+***Agency*** means the Financial Consumer Agency of Canada established under section 3. (*Agence*)
 
-***bank holding company*** means a bank holding company as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***bank holding company*** means a bank holding company as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*société de portefeuille bancaire*)
 
-***Commissioner*** means the Commissioner of the Agency appointed under section 4.
+***Commissioner*** means the Commissioner of the Agency appointed under section 4. (*commissaire*)
 
-***consumer provision*** means
+***consumer provision*** means
 - **(a)** paragraphs 157(2)(e) and (f), sections 273.1 and 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.3 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
 - **(a.1)** sections 992 to 1003 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (a);
 - **(b)** paragraphs 167(2)(f) and (g), subsection 382.2(3) and sections 385.05 to 385.28 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) together with any regulations made under or for the purposes of those provisions;
@@ -52,37 +52,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c.1)** sections 1034 to 1045 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (c);
 - **(d)** paragraphs 161(2)(e) and (f), subsection 418.1(3) and sections 425.1 to 444.3 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) together with any regulations made under or for the purposes of those provisions;
 - **(d.1)** sections 539.01 to 539.12 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (d); and
-- **(e)** subsection 469.1(3) as set out in paragraph 17(1)(f) of the Green Shield Canada Act and the provisions referred to in paragraph 17(1)(f.1) of that Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions.
+- **(e)** subsection 469.1(3) as set out in paragraph 17(1)(f) of the Green Shield Canada Act and the provisions referred to in paragraph 17(1)(f.1) of that Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions. (*disposition visant les consommateurs*)
 
-***Deputy Commissioner*** means a Deputy Commissioner appointed under section 8.
+***Deputy Commissioner*** means a Deputy Commissioner appointed under section 8. (*commissaire adjoint*)
 
-***financial institution*** means
+***external complaints body*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*organisme externe de traitement des plaintes*)
+
+***financial institution*** means
 - **(a)** a bank as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 - **(b)** an authorized foreign bank as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 - **(c)** a company to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies;
 - **(d)** a retail association as defined in section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md);
 - **(e)** a company or foreign company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies; and
-- **(f)** Green Shield Canada.
+- **(f)** Green Shield Canada. (*institution financière*)
 
-***Financial Literacy Leader*** means the person appointed under section 4.1.
+***Financial Literacy Leader*** means the person appointed under section 4.1. (*chef du développement de la littératie financière*)
 
-***governing statute*** means
+***governing statute*** means
 - **(a)** in relation to a bank or authorized foreign bank as defined in the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), that Act;
 - **(b)** in relation to a retail association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies, that Act;
 - **(c)** in relation to a company or foreign company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies, that Act;
 - **(d)** in relation to a company to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies, that Act; and
-- **(e)** in relation to Green Shield Canada, the Green Shield Canada Act.
+- **(e)** in relation to Green Shield Canada, the Green Shield Canada Act. (*loi d’application*)
 
-***insurance holding company*** means an insurance holding company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md).
+***insurance holding company*** means an insurance holding company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md). (*société de portefeuille d’assurances*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***payment card network operator*** means an entity, as defined in section 3 of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md), that operates or manages a payment card network, as defined in that section, including by establishing standards and procedures for the acceptance, transmission or processing of payment transactions and by facilitating the electronic transfer of information and funds.
+***payment card network operator*** means an entity, as defined in section 3 of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md), that operates or manages a payment card network, as defined in that section, including by establishing standards and procedures for the acceptance, transmission or processing of payment transactions and by facilitating the electronic transfer of information and funds. (*exploitant de réseau de cartes de paiement*)
 
-***penalty*** means an administrative monetary penalty.
+***penalty*** means an administrative monetary penalty. (*pénalité*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, ss. 217, 222; 2013, c. 1, s. 2.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835, c. 25, s. 156; 2012, c. 5, ss. 217, 222; 2013, c. 1, s. 2.
 
 
 
@@ -101,15 +103,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Objects**
 
 - **(2)** The objects of the Agency are to
-	- **(a)** supervise financial institutions to determine whether they are in compliance with
+	- **(a)** supervise financial institutions and external complaints bodies to determine whether the institution or body is in compliance with
 		- **(i)** the consumer provisions applicable to them, and
 		- **(ii)** the terms and conditions or undertakings with respect to the protection of customers of financial institutions that the Minister imposes or requires, as the case may be, under an Act listed in Schedule 1 and the directions that the Minister imposes under this Act;
-	- **(b)** promote the adoption by financial institutions of policies and procedures designed to implement
-		- **(i)** provisions, terms and conditions, undertakings or directions referred to in paragraph (a),
-		- **(ii)** voluntary codes of conduct that are designed to protect the interests of the customers of financial institutions that are adopted by financial institutions and that are publicly available, and
-		- **(iii)** any public commitments made by financial institutions that are designed to protect the interests of their customers;
+	- **(b)** promote the adoption by financial institutions and external complaints bodies of policies and procedures designed to implement the provisions, terms and conditions, undertakings or directions referred to in paragraph (a);
+	- **(b.1)** promote the adoption by financial institutions of policies and procedures designed to implement
+		- **(i)** voluntary codes of conduct that are designed to protect the interests of their customers, that are adopted by financial institutions and that are publicly available, and
+		- **(ii)** any public commitments made by them that are designed to protect the interests of their customers;
 	- **(c)** monitor the implementation of voluntary codes of conduct that are designed to protect the interests of customers of financial institutions, that have been adopted by financial institutions and that are publicly available and to monitor any public commitments made by financial institutions that are designed to protect the interests of their customers;
-	- **(d)** promote consumer awareness about the obligations of financial institutions under consumer provisions applicable to them and all matters connected with the protection of consumers of financial products and services;
+	- **(d)** promote consumer awareness about the obligations of financial institutions and of external complaints bodies under consumer provisions applicable to them and about all matters connected with the protection of consumers of financial products and services; and
 	- **(e)** foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services;
 	- **(f)** monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services; and
 	- **(g)** collaborate and coordinate its activities with stakeholders to contribute to and support initiatives to strengthen the financial literacy of Canadians.
@@ -121,7 +123,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(b)** promote the adoption by payment card network operators of policies and procedures designed to implement the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations;
 	- **(c)** monitor the implementation of voluntary codes of conduct that have been adopted by payment card network operators and that are publicly available, and to monitor any public commitments made by them regarding their commercial practices in relation to payment card networks; and
 	- **(d)** promote public awareness about the obligations of payment card network operators under a voluntary code of conduct or under the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md).
-> 2001, c. 9, s. 3; 2010, c. 12, ss. 1836, 1851; 2013, c. 1, s. 3.
+> 2001, c. 9, s. 3; 2010, c. 12, ss. 1836, 1851, c. 25, s. 157; 2013, c. 1, s. 3.
 
 
 
@@ -424,14 +426,14 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **14** 
 
-- **(1)** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall beneficially own, directly or indirectly, any shares of any financial institution, bank holding company, insurance holding company or of any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution.
+- **(1)** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall beneficially own, directly or indirectly, any shares of any financial institution, bank holding company, insurance holding company, external complaints body or of any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution or external complaints body.
 
 **Prohibitions — federal credit union**
 
 - **(2)** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall
 	- **(a)** directly or indirectly hold any interest or right in membership shares of a federal credit union, within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), in excess of the minimum number of membership shares of the federal credit union that is required for membership; or
 	- **(b)** exercise any right he or she has as a member of such a federal credit union, except any right that he or she has as a customer of the federal credit union.
-> 2001, c. 9, s. 14; 2010, c. 12, s. 2116.
+> 2001, c. 9, s. 14; 2010, c. 12, s. 2116, c. 25, ss. 158, 164.
 
 
 
@@ -457,7 +459,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **16** 
 
-- **(1)** The Commissioner, a person appointed under subsection 4(4), a Deputy Commissioner and any person appointed under section 10 shall not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, bank holding company, insurance holding company, or from a director, officer or employee of any of them, and no such financial institution, bank holding company, insurance holding company, director, officer or employee shall make or give any such grant or gratuity.
+- **(1)** The Commissioner, a person appointed under subsection 4(4), a Deputy Commissioner and any person appointed under section 10 shall not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, bank holding company, insurance holding company, external complaints body, or from a director, officer or employee of any of them, and no such financial institution, bank holding company, insurance holding company, external complaints body, director, officer or employee shall make or give any such grant or gratuity.
 
 **No grant or gratuity — payment card network operators**
 
@@ -468,7 +470,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(2)** Every person, financial institution, bank holding company, insurance holding company or payment card network operator that contravenes subsection (1) or (1.1) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $2000 or to imprisonment for a term of not more than six months or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $10,000 or to imprisonment for a term of not more than five years or to both.
-> 2001, c. 9, s. 16; 2010, c. 12, s. 1840.
+> 2001, c. 9, s. 16; 2010, c. 12, s. 1840, c. 25, s. 159.
 
 
 
@@ -482,7 +484,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **17** 
 
-- **(1)** Subject to subsection (2) and except as otherwise provided in this Act, information regarding the business or affairs of a financial institution or regarding persons dealing with one that is obtained by the Commissioner or by any person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions referred to in subsections 5(1) and (2) and 5.1(2) and any information prepared from that information, is confidential and shall be treated accordingly.
+- **(1)** Subject to subsection (2) and except as otherwise provided in this Act, information regarding the business or affairs of a financial institution or external complaints body or regarding persons dealing with one that is obtained by the Commissioner or by any person acting under the Commissioner’s direction, in the course of the exercise or performance of powers, duties and functions referred to in subsections 5(1) and (2) and 5.1(2), and any information prepared from that information, is confidential and shall be treated accordingly.
 
 **Disclosure permitted**
 
@@ -499,7 +501,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Disclosure permitted**
 
 - **(4)** If the Commissioner is satisfied that the information will be treated as confidential by the person to whom it is disclosed, the Commissioner may disclose it to the Deputy Minister of Finance, or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance, for the purpose of policy analysis related to the regulation of payment card network operators.
-> 2001, c. 9, s. 17; 2010, c. 12, ss. 1841, 1854; 2012, c. 5, s. 218(F).
+> 2001, c. 9, s. 17; 2010, c. 12, ss. 1841, 1854, c. 25, s. 160; 2012, c. 5, ss. 218(F), 224(F).
 
 
 
@@ -513,7 +515,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **18** 
 
-- **(1)** The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in subsection 3(3) — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions.
+- **(1)** The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in subsection 3(3) — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions and external complaints bodies.
 
 **Commissioner to ascertain expenses — direction**
 
@@ -525,7 +527,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Assessment**
 
-- **(3)** As soon as possible after ascertaining the amounts under subsections (1) and (1.1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution to the extent and in the manner that the Governor in Council may, by regulation, prescribe.
+- **(3)** As soon as possible after ascertaining the amounts under subsections (1) and (1.1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution and external complaints body to the extent and in the manner that the Governor in Council may, by regulation, prescribe.
 
 **Exception**
 
@@ -535,7 +537,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Interim assessment**
 
-- **(4)** The Commissioner may, during each fiscal year, prepare an interim assessment against any financial institution.
+- **(4)** The Commissioner may, during each fiscal year, prepare an interim assessment against any financial institution or external complaints body.
 
 **Assessment for financial literacy**
 
@@ -543,7 +545,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Assessment is binding**
 
-- **(5)** Every assessment and interim assessment is final and conclusive and binding on the financial institution against which it is made.
+- **(5)** Every assessment and interim assessment is final and conclusive and binding on the financial institution or external complaints body against which it is made.
 
 **Commissioner to ascertain expenses — payment card network operators**
 
@@ -572,7 +574,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Interest**
 
 - **(7)** Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%.
-> 2001, c. 9, s. 18; 2007, c. 6, s. 435; 2010, c. 12, ss. 1842, 1855; 2013, c. 1, s. 12.
+> 2001, c. 9, s. 18; 2007, c. 6, s. 435; 2010, c. 12, ss. 1842, 1855, c. 25, s. 161; 2013, c. 1, s. 12.
 
 
 
@@ -843,11 +845,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Annual report**
 
-**34** The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next following the end of each fiscal year, a report showing the operations of the Agency for that year and describing
-- **(a)** in aggregate form, its conclusions on the compliance, in that year, of financial institutions with the consumer provisions applicable to them;
+**34** The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next after the end of each fiscal year, a report showing the Agency’s operations for that year and describing
+- **(a)** in aggregate form, its conclusions on the compliance, in that year, of financial institutions and external complaints bodies with the consumer provisions applicable to them; and
 - **(b)** in aggregate form, its conclusions on the compliance, in that year, of payment card network operators with the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations; and
 - **(c)** its collaboration with stakeholders, and the coordination of its activities with those of stakeholders, to contribute to and support initiatives to strengthen the financial literacy of Canadians.
-> 2001, c. 9, s. 34; 2010, c. 12, s. 1848; 2013, c. 1, s. 14.
+> 2001, c. 9, s. 34; 2010, c. 12, s. 1848, c. 25, s. 162; 2013, c. 1, s. 14.
 
 
 
