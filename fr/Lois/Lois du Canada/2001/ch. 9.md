@@ -37,13 +37,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent au présent article et aux articles 3 à 34.
 
-***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3.
+***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3. (*Agency*)
 
-***chef du développement de la littératie financière*** La personne nommée en application de l’article 4.1.
+***chef du développement de la littératie financière*** La personne nommée en application de l’article 4.1. (*Financial Literacy Leader*)
 
-***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4.
+***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4. (*Commissioner*)
 
-***commissaire adjoint*** Commissaire adjoint nommé en vertu de l’article 8.
+***commissaire adjoint*** Commissaire adjoint nommé en vertu de l’article 8. (*Deputy Commissioner*)
 
 ***disposition visant les consommateurs***
 - **a)** Les alinéas 157(2)e) et f), les articles 273.1 et 413.1, le paragraphe 418.1(3), les articles 439.1 à 459.5, les paragraphes 540(2) et (3) et 545(4) et (5), les alinéas 545(6)b) et c), le paragraphe 552(3) et les articles 559 à 576.3 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et leurs règlements d’application éventuels;
@@ -54,9 +54,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c.1)** les articles 1034 à 1045 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa c);
 - **d)** les alinéas 161(2)e) et f), le paragraphe 418.1(3) et les articles 425.1 à 444.3 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et leurs règlements d’application éventuels;
 - **d.1)** les articles 539.01 à 539.12 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa d);
-- **e)** le paragraphe 469.1(3) prévu à l’alinéa 17(1)f) de la Loi sur l’association personnalisée le Bouclier vert du Canada et les dispositions mentionnées à l’alinéa 17(1)f.1) de cette loi, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels.
+- **e)** le paragraphe 469.1(3) prévu à l’alinéa 17(1)f) de la Loi sur l’association personnalisée le Bouclier vert du Canada et les dispositions mentionnées à l’alinéa 17(1)f.1) de cette loi, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels. (*consumer provision*)
 
-***exploitant de réseau de cartes de paiement*** Entité, au sens de l’article 3 de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md), qui exploite ou gère un réseau de cartes de paiement, au sens du même article, notamment par l’établissement de normes et de procédures pour l’acceptation, la transmission et le traitement d’opérations de paiement et la facilitation de transferts électroniques de renseignements et de fonds.
+***exploitant de réseau de cartes de paiement*** Entité, au sens de l’article 3 de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md), qui exploite ou gère un réseau de cartes de paiement, au sens du même article, notamment par l’établissement de normes et de procédures pour l’acceptation, la transmission et le traitement d’opérations de paiement et la facilitation de transferts électroniques de renseignements et de fonds. (*payment card network operator*)
 
 ***institution financière***
 - **a)** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
@@ -64,23 +64,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** société régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 - **d)** association de détail au sens de l’article 2 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **e)** société ou société étrangère régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
-- **f)** le Bouclier vert du Canada.
+- **f)** le Bouclier vert du Canada. (*financial institution*)
 
 ***loi d’application***
 - **a)** La [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), dans le cas d’une banque ou d’une banque étrangère autorisée au sens de cette loi;
 - **b)** la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), dans le cas d’une association de détail à laquelle s’applique cette loi;
 - **c)** la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), dans le cas d’une société ou société étrangère à laquelle s’applique cette loi;
 - **d)** la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), dans le cas d’une société à laquelle s’applique cette loi;
-- **e)** la Loi sur l’association personnalisée le Bouclier vert du Canada, dans le cas du Bouclier vert du Canada.
+- **e)** la Loi sur l’association personnalisée le Bouclier vert du Canada, dans le cas du Bouclier vert du Canada. (*governing statute*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***pénalité*** Sanction administrative pécuniaire.
+***organisme externe de traitement des plaintes*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*external complaints body*)
 
-***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***pénalité*** Sanction administrative pécuniaire. (*penalty*)
 
-***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
-> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835; 2012, ch. 5, art. 217 et 222; 2013, ch. 1, art. 2.
+***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*bank holding company*)
+
+***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*insurance holding company*)
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835, ch. 25, art. 156; 2012, ch. 5, art. 217 et 222; 2013, ch. 1, art. 2.
 
 
 
@@ -99,13 +101,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objectifs**
 
 - **(2)** L’Agence a pour mission :
-	- **a)** de superviser les institutions financières pour s’assurer qu’elles se conforment aux dispositions visant les consommateurs qui leur sont applicables, ainsi qu’à toutes conditions imposées par le ministre ou tous engagements exigés de sa part en vertu d’une loi mentionnée à l’annexe 1 relativement à la protection des clients des institutions financières ou à toutes instructions données par celui-ci en vertu de la présente loi;
-	- **b)** d’inciter les institutions financières à se doter de politiques et de procédures pour mettre en oeuvre :
-		- **(i)** les dispositions, conditions, engagements et instructions visés à l’alinéa a),
-		- **(ii)** les codes de conduite volontaires adoptés par elles en vue de protéger les intérêts de leurs clients et qui sont accessibles au public,
-		- **(iii)** les engagements publics pris par elles en vue de protéger les intérêts de leurs clients;
+	- **a)** de superviser les institutions financières et les organismes externes de traitement des plaintes pour s’assurer qu’ils se conforment aux dispositions visant les consommateurs qui leur sont applicables, ainsi qu’à toutes conditions imposées par le ministre ou tous engagements exigés de sa part en vertu d’une loi mentionnée à l’annexe 1 relativement à la protection des clients des institutions financières ou à toutes instructions données par celui-ci en vertu de la présente loi;
+	- **b)** d’inciter les institutions financières et ces organismes à se doter de politiques et de procédures pour mettre en oeuvre les dispositions, conditions, engagements et instructions visés à l’alinéa a);
+	- **b.1)** d’inciter les institutions financières à se doter de politiques et de procédures pour mettre en oeuvre les codes de conduite volontaires adoptés par elles en vue de protéger les intérêts de leurs clients et qui sont accessibles au public ainsi que les engagements publics pris par elles en vue de protéger ces intérêts;
 	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par ces institutions financières en vue de protéger les intérêts des clients et qui sont accessibles au public et de surveiller les engagements publics pris par les institutions financières en vue de protéger les intérêts des clients;
-	- **d)** de sensibiliser les consommateurs en ce qui a trait aux obligations des institutions financières découlant des dispositions visant les consommateurs qui leur sont applicables et à toute question liée à la protection des consommateurs de produits et services financiers;
+	- **d)** de sensibiliser les consommateurs en ce qui a trait aux obligations des institutions financières et de ces organismes découlant des dispositions visant les consommateurs qui leur sont applicables et à toute question liée à la protection des consommateurs de produits et services financiers;
 	- **e)** de favoriser, en collaboration avec les ministères, sociétés mandataires ou organismes fédéraux ou provinciaux, les institutions financières et les organisations de consommateurs ou autres, la compréhension des services financiers et les questions qui s’y rapportent;
 	- **f)** de surveiller et d’évaluer les tendances et questions qui se dessinent et qui peuvent influer sur les consommateurs de produits et services financiers;
 	- **g)** de collaborer avec les intéressés au développement et au soutien d’initiatives visant à renforcer la littératie financière des Canadiens et, à cette fin, de coordonner ses activités avec les leurs.
@@ -117,7 +117,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** d’inciter les exploitants de réseaux de cartes de paiement à se doter de politiques et de procédures pour mettre en oeuvre les dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
 	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par les exploitants de réseaux de cartes de paiement et qui sont accessibles au public et de surveiller les engagements publics qu’ils ont pris concernant leurs pratiques commerciales à l’égard des réseaux de cartes de paiement;
 	- **d)** de sensibiliser le public en ce qui a trait aux obligations des exploitants de réseaux de cartes de paiement au titre des codes de conduite volontaires ou au titre de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md).
-> 2001, ch. 9, art. 3; 2010, ch. 12, art. 1836 et 1851; 2013, ch. 1, art. 3.
+> 2001, ch. 9, art. 3; 2010, ch. 12, art. 1836 et 1851, ch. 25, art. 157; 2013, ch. 1, art. 3.
 
 
 
@@ -420,14 +420,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent avoir d’intérêt direct ou indirect, à titre d’actionnaires, dans une institution financière, société de portefeuille bancaire ou société de portefeuille d’assurances ou dans toute autre personne morale, quel que soit son mode de constitution, exerçant au Canada sensiblement les mêmes activités qu’une institution financière.
+- **(1)** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent avoir d’intérêt direct ou indirect, à titre d’actionnaires, dans une institution financière, société de portefeuille bancaire ou société de portefeuille d’assurances, dans un organisme externe de traitement des plaintes ou dans toute autre personne morale, quel que soit son mode de constitution, exerçant au Canada sensiblement les mêmes activités qu’une institution financière ou qu’un organisme externe de traitement des plaintes.
 
 **Restrictions — coopérative de crédit fédérale**
 
 - **(2)** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent :
 	- **a)** avoir de droit ou d’intérêt direct ou indirect à titre de membre dans une coopérative de crédit fédérale, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), sauf le nombre minimal de parts sociales requis pour être membre;
 	- **b)** exercer les droits découlant de leur statut de membre d’une coopérative de crédit fédérale à l’exception de ceux qu’ils exercent à titre de client de celle-ci.
-> 2001, ch. 9, art. 14; 2010, ch. 12, art. 2116.
+> 2001, ch. 9, art. 14; 2010, ch. 12, art. 2116, ch. 25, art. 158 et 164.
 
 
 
@@ -453,7 +453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Il est interdit au commissaire, aux personnes nommées en vertu du paragraphe 4(4), aux commissaires adjoints et aux personnes nommées en vertu de l’article 10 d’accepter, directement ou indirectement, des dons en espèces ou en nature d’une institution financière, d’une société de portefeuille bancaire, d’une société de portefeuille d’assurances, ou de leurs administrateurs, dirigeants ou employés, et réciproquement à ceux-ci de leur en faire.
+- **(1)** Il est interdit au commissaire, aux personnes nommées en vertu du paragraphe 4(4), aux commissaires adjoints et aux personnes nommées en vertu de l’article 10 d’accepter, directement ou indirectement, des dons en espèces ou en nature d’une institution financière, d’une société de portefeuille bancaire, d’une société de portefeuille d’assurances ou d’un organisme externe de traitement des plaintes, ou de leurs administrateurs, dirigeants ou employés, et réciproquement à ceux-ci de leur en faire.
 
 **Dons — exploitants de réseaux de cartes de paiement**
 
@@ -464,7 +464,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Toute personne, institution financière, société de portefeuille bancaire, société de portefeuille d’assurances ou exploitant de réseau de cartes de paiement qui enfreint les paragraphes (1) ou (1.1) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 2 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 10 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
-> 2001, ch. 9, art. 16; 2010, ch. 12, art. 1840.
+> 2001, ch. 9, art. 16; 2010, ch. 12, art. 1840, ch. 25, art. 159.
 
 
 
@@ -478,7 +478,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant les activités d’affaires et les affaires internes d’une institution financière ou concernant une personne faisant affaire avec elle — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2) et 5.1(2).
+- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant les activités d’affaires et les affaires internes d’une institution financière ou d’un organisme externe de traitement des plaintes ou concernant toute personne faisant affaire avec eux — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2) et 5.1(2).
 
 **Communication autorisée**
 
@@ -495,7 +495,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication autorisée**
 
 - **(4)** S’il est convaincu que les renseignements seront traités comme confidentiels par leur destinataire, le commissaire peut communiquer ces renseignements au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des exploitants de réseaux de cartes de paiement.
-> 2001, ch. 9, art. 17; 2010, ch. 12, art. 1841 et 1854; 2012, ch. 5, art. 218(F).
+> 2001, ch. 9, art. 17; 2010, ch. 12, art. 1841 et 1854, ch. 25, art. 160; 2012, ch. 5, art. 218(F) et 224(F).
 
 
 
@@ -509,7 +509,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** 
 
-- **(1)** Le commissaire doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses qui ont été engagées au cours de l’exercice précédent dans le cadre de l’application de la présente loi et des dispositions visant les consommateurs — à l’exclusion des dépenses engagées dans le cadre de la réalisation de sa mission au titre du paragraphe 3(3) —, de même que le montant des catégories de telles dépenses que le gouverneur en conseil peut préciser par règlement relativement aux groupes réglementaires d’institutions financières.
+- **(1)** Le commissaire doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses qui ont été engagées pendant l’exercice précédent dans le cadre de l’application de la présente loi et des dispositions visant les consommateurs — à l’exclusion des dépenses engagées dans le cadre de la réalisation de sa mission au titre du paragraphe 3(3) —, de même que le montant des catégories réglementaires de telles dépenses relativement aux groupes réglementaires d’institutions financières et d’organismes externes de traitement des plaintes.
 
 **Détermination du commissaire : instructions du ministre**
 
@@ -521,7 +521,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Cotisation**
 
-- **(3)** Le plus tôt possible après la détermination des montants visés aux paragraphes (1) ou (1.1), le commissaire impose à chaque institution financière une cotisation sur le montant total des dépenses, dans les limites et selon les modalités que peut prévoir, par règlement, le gouverneur en conseil.
+- **(3)** Le plus tôt possible après la détermination des montants visés aux paragraphes (1) ou (1.1), le commissaire doit imposer à chaque institution financière et à chaque organisme externe de traitement des plaintes une cotisation sur le montant total des dépenses, selon les limites et les modalités que peut prévoir, par règlement, le gouverneur en conseil.
 
 **Exception**
 
@@ -531,7 +531,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Cotisations provisoires**
 
-- **(4)** Au cours de l’exercice, le commissaire peut établir une cotisation provisoire pour toute institution financière.
+- **(4)** Au cours de l’exercice, le commissaire peut établir une cotisation provisoire pour toute institution financière ou tout organisme externe de traitement des plaintes.
 
 **Cotisation pour la littératie financière**
 
@@ -539,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Caractère obligatoire**
 
-- **(5)** Toute cotisation — provisoire ou non — est irrévocable et lie l’institution financière concernée.
+- **(5)** Toute cotisation — provisoire ou non — est irrévocable et lie l’institution financière ou l’organisme externe de traitement des plaintes en cause.
 
 **Détermination du commissaire — exploitants de réseaux de cartes de paiement**
 
@@ -568,7 +568,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêt**
 
 - **(7)** Toute partie impayée de la cotisation peut être majorée d’un intérêt calculé à un taux supérieur de 2 % au taux en vigueur fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) sur les montants à payer par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en vertu de cette loi.
-> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435; 2010, ch. 12, art. 1842 et 1855; 2013, ch. 1, art. 12.
+> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435; 2010, ch. 12, art. 1842 et 1855, ch. 25, art. 161; 2013, ch. 1, art. 12.
 
 
 
@@ -840,10 +840,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport annuel**
 
 **34** Chaque année, le ministre fait déposer devant chaque chambre du Parlement, au plus tard le cinquième jour de séance de celle-ci après le 30 septembre, le rapport faisant état des activités de l’Agence pour l’exercice précédent ainsi que des conclusions d’ordre général de celle-ci sur la situation en ce qui a trait, pour cet exercice :
-- **a)** au respect, par les institutions financières, des dispositions visant les consommateurs qui leur sont applicables;
+- **a)** au respect, par les institutions financières et les organismes externes de traitement des plaintes, des dispositions visant les consommateurs qui leur sont applicables;
 - **b)** au respect, par les exploitants de réseaux de cartes de paiement, des dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
 - **c)** à sa collaboration avec les intéressés quant au développement et au soutien d’initiatives visant à renforcer la littératie financière des Canadiens, et à la coordination, à cette fin, de ses activités avec les leurs.
-> 2001, ch. 9, art. 34; 2010, ch. 12, art. 1848; 2013, ch. 1, art. 14.
+> 2001, ch. 9, art. 34; 2010, ch. 12, art. 1848, ch. 25, art. 162; 2013, ch. 1, art. 14.
 
 
 
