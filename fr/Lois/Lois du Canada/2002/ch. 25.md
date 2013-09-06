@@ -619,201 +619,163 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(articles 2 et 3)**
-
-### Participants
-
-
+## Participants
 Afrique du Sud
-
 
 
 Angola
 
 
-
 Arménie
-
 
 
 Australie
 
 
-
 Bangladesh
-
 
 
 Bélarus
 
 
-
 Botswana
-
 
 
 Brésil
 
 
+Cambodge
+
+
+Cameroun
+
 
 Canada
-
 
 
 Chine
 
 
-
-Communauté européenne
-
-
-
 Corée du Sud
-
 
 
 Croatie
 
 
-
 Émirats arabes unis
-
 
 
 États-Unis d’Amérique
 
 
-
 Ghana
-
 
 
 Guinée
 
 
-
 Guyane
-
 
 
 Inde
 
 
-
 Indonésie
-
 
 
 Israël
 
 
-
 Japon
 
+
+Kazakhstan
 
 
 Laos
 
 
-
 Lesotho
-
 
 
 Liban
 
 
-
 Liberia
-
 
 
 Malaisie
 
 
-
 Maurice
-
 
 
 Mexique
 
 
-
 Namibie
-
 
 
 Norvège
 
 
-
 Nouvelle-Zélande
 
 
-
-République centrafricaine
-
+Panama
 
 
 République démocratique du Congo
 
 
-
 République du Congo
-
 
 
 Russie
 
 
-
 Sierra Leone
-
 
 
 Singapour
 
 
-
 Sri Lanka
-
 
 
 Suisse
 
 
+Swaziland
+
 
 Tanzanie
-
 
 
 Territoire douanier distinct de Taiwan, Penghu, Kinmen et Matsu
 
 
-
 Thaïlande
-
 
 
 Togo
 
 
-
 Turquie
-
 
 
 Ukraine
 
 
+Union européenne
+
 
 Vietnam
-
 
 
 Zimbabwe
 
 
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156.
 
 
