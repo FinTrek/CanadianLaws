@@ -66,30 +66,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Les domaines de compétence visés au paragraphe (1) sont notamment :
-	- **a)
-** la promotion d’une meilleure compréhension des droits de la personne, des libertés fondamentales et des valeurs qui en découlent;
-	- **b)
-** le multiculturalisme;
-	- **c)
-** les arts, y compris les aspects culturels du statut de l’artiste;
-	- **d)
-** les industries et le patrimoine culturels, y compris les arts d’interprétation et les arts plastiques et audio-visuels, l’édition et l’enregistrement sonore, le film, la vidéo et les lettres;
+	- **a)** la promotion d’une meilleure compréhension des droits de la personne, des libertés fondamentales et des valeurs qui en découlent;
+	- **b)** le multiculturalisme;
+	- **c)** les arts, y compris les aspects culturels du statut de l’artiste;
+	- **d)** les industries et le patrimoine culturels, y compris les arts d’interprétation et les arts plastiques et audio-visuels, l’édition et l’enregistrement sonore, le film, la vidéo et les lettres;
 	- **e)** les champs de bataille nationaux;
-	- **f)
-** l’encouragement, la promotion et le développement du sport;
-	- **g)
-** la progression vers l’égalité de statut et d’usage du français et de l’anglais et la promotion et le développement des minorités francophones et anglophones du Canada;
-	- **h)
-** le cérémonial d’État et les symboles canadiens;
-	- **i)
-** la radiodiffusion, sauf en ce qui concerne la gestion du spectre et les aspects techniques de la radiodiffusion;
-	- **j)
-** la formulation d’orientations culturelles, notamment en ce qui a trait à l’investissement étranger et au droit d’auteur;
-	- **k)
-** la conservation, l’exportation et l’importation de biens culturels;
-	- **l)
-** les bibliothèques, archives et musées nationaux.
-> 1995, ch. 11, art. 4; 2002, ch. 18, art. 32(F); 2003, ch. 2, art. 37; 2005, ch. 2, art. 1.
+	- **f)** l’encouragement, la promotion et le développement du sport;
+	- **g)** la progression vers l’égalité de statut et d’usage du français et de l’anglais et la promotion et le développement des minorités francophones et anglophones du Canada;
+	- **h)** le cérémonial d’État et les symboles canadiens;
+	- **i)** la radiodiffusion, sauf en ce qui concerne la gestion du spectre et les aspects techniques de la radiodiffusion;
+	- **j)** la formulation d’orientations culturelles, notamment en ce qui a trait à l’investissement étranger et au droit d’auteur;
+	- **k)** la conservation, l’exportation et l’importation de biens culturels;
+	- **k.1)** l’organisation, le parrainage et la promotion, dans la région de la capitale nationale au sens de l’article 2 de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md), d’activités et de manifestations publiques enrichissantes pour le Canada sur les plans culturel et social, compte tenu du caractère fédéral du pays, de l’égalité du statut des langues officielles du Canada ainsi que du patrimoine des Canadiens;
+	- **l)** les bibliothèques, archives et musées nationaux.
+> 1995, ch. 11, art. 4; 2002, ch. 18, art. 32(F); 2003, ch. 2, art. 37; 2005, ch. 2, art. 1; 2013, ch. 33, art. 214.
 
 
 
@@ -97,8 +87,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Tâches**
 
-**5** Dans le cadre de ses pouvoirs et fonctions, le ministre a pour tâche d’instaurer, de recommander, de coordonner et de mettre en œuvre les objectifs, opérations et programmes nationaux en matière d’identité, de valeurs, de développement culturel et de patrimoine canadiens et d’en faire la promotion.
-> 1995, ch. 11, art. 5; 2005, ch. 2, art. 2.
+**5** Dans le cadre de ses pouvoirs et fonctions, le ministre a pour tâche :
+- **a)** d’instaurer, de recommander, de coordonner et de mettre en oeuvre les objectifs, opérations et programmes nationaux en matière d’identité, de valeurs, de développement culturel et de patrimoine canadiens et d’en faire la promotion;
+- **b)** en ce qui a trait à ses domaines de compétence visés à l’alinéa 4(2)k.1), de coordonner les orientations et les programmes du gouvernement du Canada en ce qui concerne l’organisation, le parrainage ou la promotion, par les ministères, d’activités et de manifestations publiques liées à la région de la capitale nationale au sens de l’article 2 de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+> 1995, ch. 11, art. 5; 2005, ch. 2, art. 2; 2013, ch. 33, art. 215.
 
 
 
