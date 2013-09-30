@@ -76,9 +76,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(h)** state ceremonial and Canadian symbols;
 	- **(i)** broadcasting, except in respect of spectrum management and the technical aspects of broadcasting;
 	- **(j)** the formulation of cultural policy, including the formulation of cultural policy as it relates to foreign investment and copyright;
-	- **(k)** the conservation, exportation and importation of cultural property; and
+	- **(k)** the conservation, exportation and importation of cultural property;
+	- **(k.1)** the organization, sponsorship and promotion of public activities and events, in the National Capital Region as defined in section 2 of the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md), that will enrich the cultural and social fabric of Canada, taking into account the federal character of Canada, the equality of status of the official languages of Canada and the heritage of the people of Canada; and
 	- **(l)** national museums, archives and libraries.
-> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F); 2003, c. 2, s. 37; 2005, c. 2, s. 1.
+> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F); 2003, c. 2, s. 37; 2005, c. 2, s. 1; 2013, c. 33, s. 214.
 
 
 
@@ -86,8 +87,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **General duties**
 
-**5** In exercising the powers and performing the duties and functions assigned to the Minister by section 4, the Minister shall initiate, recommend, coordinate, implement and promote national policies, projects and programs with respect to Canadian identity and values, cultural development and heritage.
-> 1995, c. 11, s. 5; 2005, c. 2, s. 2.
+**5** In exercising the powers and performing the duties and functions assigned to the Minister by section 4, the Minister shall
+- **(a)** initiate, recommend, coordinate, implement and promote national policies, projects and programs with respect to Canadian identity and values, cultural development and heritage; and
+- **(b)** with respect to the Minister’s jurisdiction referred to in paragraph 4(2)(k.1), coordinate the policies and programs of the Government of Canada respecting the organization, sponsorship or promotion by departments of public activities and events related to the National Capital Region as defined in section 2 of the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+> 1995, c. 11, s. 5; 2005, c. 2, s. 2; 2013, c. 33, s. 215.
 
 
 
