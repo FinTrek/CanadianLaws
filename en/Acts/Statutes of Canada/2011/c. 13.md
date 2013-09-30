@@ -56,13 +56,15 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Council*** means the National Holocaust Monument Development Council established by the Minister under section 4.
+***Council*** means the National Holocaust Monument Development Council established by the Minister under section 4. (*Conseil*)
 
-***Minister*** means the Minister responsible for the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+***Minister*** means the Minister of Canadian Heritage. (*ministre*)
 
-***Monument*** means the National Holocaust Monument referred to in section 3.
+***Monument*** means the National Holocaust Monument referred to in section 3. (*Monument*)
 
-***public land*** means an area of land owned by the Crown that is accessible to the public at all times.
+***public land*** means an area of land owned by the Crown that is accessible to the public at all times. (*terrain public*)
+> 2011, c. 13, s. 2; 2013, c. 33, s. 221.
+
 
 
 
@@ -120,15 +122,17 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Construction and maintenance of Monument**
+**Construction of Monument**
 
 **7** 
 
-- **(1)** The Minister shall be responsible for the construction and maintenance of the Monument.
+- **(1)** The Minister shall be responsible for the construction of the Monument.
 
 **Fundraising campaign**
 
 - **(2)** The Council shall spearhead a fundraising campaign to cover the cost of constructing the Monument.
+> 2011, c. 13, s. 7; 2013, c. 33, s. 222.
+
 
 
 
@@ -141,7 +145,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Contribution of funds**
 
-- **(2)** Nothing shall prevent the Minister from contributing funds for the cost of planning, designing, constructing, installing and maintaining the Monument.
+- **(2)** Nothing shall prevent the Minister from contributing funds for the cost of planning, designing, contructing and installing the Monument.
+> 2011, c. 13, s. 8; 2013, c. 33, s. 223.
+
 
 
 
