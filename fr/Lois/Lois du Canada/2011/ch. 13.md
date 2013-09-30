@@ -58,13 +58,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Conseil*** Le Conseil d’édification du Monument national de l’Holocauste constitué par le ministre en vertu de l’article 4.
+***Conseil*** Le Conseil d’édification du Monument national de l’Holocauste constitué par le ministre en vertu de l’article 4. (*Council*)
 
-***ministre*** Le ministre responsable de l’application de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+***ministre*** Le ministre du Patrimoine canadien. (*Minister*)
 
-***Monument*** Le Monument national de l’Holocauste visé à l’article 3.
+***Monument*** Le Monument national de l’Holocauste visé à l’article 3. (*Monument*)
 
-***terrain public*** Terre appartenant à Sa Majesté et qui est accessible au public en tout temps.
+***terrain public*** Terre appartenant à Sa Majesté et qui est accessible au public en tout temps. (*public land*)
+> 2011, ch. 13, art. 2; 2013, ch. 33, art. 221.
+
 
 
 
@@ -122,15 +124,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Construction et entretien du Monument**
+**Construction du Monument**
 
 **7** 
 
-- **(1)** Le ministre est chargé de veiller à la construction et à l’entretien du Monument.
+- **(1)** Le ministre est chargé de veiller à la construction du Monument.
 
 **Campagne de financement**
 
 - **(2)** Le Conseil mène une campagne de financement afin de payer les frais de construction du Monument.
+> 2011, ch. 13, art. 7; 2013, ch. 33, art. 222.
+
 
 
 
@@ -143,7 +147,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fonds versés**
 
-- **(2)** Rien n’empêche le ministre de verser des fonds pour couvrir le coût de la planification, de la conception, de la construction, de l’édification et de l’entretien du Monument.
+- **(2)** Rien n’empêche le ministre de verser des fonds pour couvrir le coût de la planification, de la conception, de la construction et de l’édification du Monument.
+> 2011, ch. 13, art. 8; 2013, ch. 33, art. 223.
+
 
 
 
