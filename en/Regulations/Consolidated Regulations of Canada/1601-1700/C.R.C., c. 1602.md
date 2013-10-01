@@ -363,12 +363,7 @@ exceeds
 
 
 
-**28** For the purposes of subparagraph 4(3)(c)(ii) of the Act, the following enactments are prescribed:
-- **(a)** the Civilian War-related Befefits Act (Parts I to X); and
-- **(b)** the [Halifax Relief Commission Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1974-75-76/c.%2088.md).
-- **(c)** [Repealed, SOR/88-133, s. 1]
-> SOR/86-391, s. 10; SOR/88-133, s. 1; SOR/91-308, s. 3; SOR/2004-68, s. 17.
-
+**28** [Repealed, SOR/2013-158, s. 1]
 
 
 
