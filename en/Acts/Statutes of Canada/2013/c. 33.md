@@ -882,7 +882,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind4E1C_hq_12471'>[*]</a></sup>**160** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4E1C_hq_12471'><sup>*</sup></a>: [Note: Division 8 not in force.]<br />
+<a name='fn_Ind4E1C_hq_12471'><sup>*</sup></a>: [Note: Division 8 in force October 1, 2013, *see* SI/2013-103.]<br />
 
 
 
