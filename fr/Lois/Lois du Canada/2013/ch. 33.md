@@ -882,7 +882,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind4901_hq_12476'>[*]</a></sup>**160** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4901_hq_12476'><sup>*</sup></a>: [Note : Section 8 non en vigueur.]<br />
+<a name='fn_Ind4901_hq_12476'><sup>*</sup></a>: [Note : Section 8 en vigueur le 1<sup>er</sup> octobre 2013, *voir* TR/2013-103.]<br />
 
 
 
