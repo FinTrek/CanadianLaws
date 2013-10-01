@@ -362,12 +362,7 @@ Autorités habilitantes :
 
 
 
-**28** Pour l’application du sous-alinéa 4(3)c)(ii) de la Loi, les textes législatifs prescrits par règlement sont :
-- **a)** la [Loi sur les prestations de guerre pour les civils](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-31.md) (parties I à X);
-- **b)** la [Loi sur la prise en charge des prestations de la Commission de secours d’Halifax](/fr/Lois/Lois%20du%20Canada/1974-75-76/ch.%2088.md).
-- **c)** [Abrogé, DORS/88-133, art. 1]
-> DORS/86-391, art. 10; DORS/88-133, art. 1; DORS/91-308, art. 3; DORS/2004-68, art. 17.
-
+**28** [Abrogé, DORS/2013-158, art. 1]
 
 
 
