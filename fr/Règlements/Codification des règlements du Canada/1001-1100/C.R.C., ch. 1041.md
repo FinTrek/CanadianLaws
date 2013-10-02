@@ -22,7 +22,9 @@ Autorités habilitantes :
 ## Interprétation
 
 
-**2** Dans le présent règlement,
+**2** 
+
+- **(1)** Dans le présent règlement,
 
 ***annonce*** désigne toute représentation faite par quelque moyen que ce soit en vue de mousser directement ou indirectement la vente ou la façon de disposer d’un stupéfiant; (*advertisement*)
 
@@ -38,7 +40,7 @@ Autorités habilitantes :
 
 ***contenant immédiat*** Contenant qui est en contact direct avec le stupéfiant. (*immediate container*)
 
-***diacétylmorphine (héroïne)*** comprend les sels de diacétylmorphine; (*diacetylmorphine (heroin)*)
+***diacétylmorphine (héroïne)***[Abrogée, DORS/2013-172, art. 3]
 
 ***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives. (*Security Directive*)
 
@@ -95,11 +97,10 @@ Autorités habilitantes :
 ***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe 8.3(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
 
 ***pharmacien***
-- **a)** désigne une personne inscrite et autorisée par les lois d’une province
-	- **(i)** à exercer la profession de pharmacien, et
-	- **(ii)** à exploiter ou diriger une pharmacie ou une officine,
-et qui exploite ou dirige une pharmacie ou une officine et exerce la profession de pharmacien en vertu desdites lois dans cette province, et
-- **b)** comprend, pour l’application des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), une personne inscrite et autorisée en vertu des lois d’une province à exercer la pharmacie et qui exerce la pharmacie dans cette province. (*pharmacist*)
+- **a)** La personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et à exploiter ou diriger une pharmacie ou une officine, et qui, à la fois, dans cette province :
+	- **(i)** exerce la profession de pharmacien,
+	- **(ii)** exploite ou dirige une pharmacie ou une officine;
+- **b)** pour l’application du paragraphe 2(2), des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), la personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province. (***pharmacist***)
 
 ***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
 
@@ -111,17 +112,21 @@ et qui exploite ou dirige une pharmacie ou une officine et exerce la profession 
 
 ***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
 
-***stupéfiant*** Selon le cas :
+***stupéfiant*** Sous réserve du paragraphe (2), selon le cas :
 - **a)** toute substance visée à l’annexe ou toute matière en contenant;
 - **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*narcotic*)
 
 ***stupéfiant d’ordonnance verbale*** désigne un médicament
 - **a)** qui renferme, outre un stupéfiant, au moins deux ingrédients médicinaux qui ne sont pas des stupéfiants, en dose thérapeutique reconnue,
 - **b)** qui n’est pas destiné à l’administration parentérale, et
-- **c)** qui ne contient pas de diacétylmorphine (héroïne), d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine. (*verbal prescription narcotic*)
+- **c)** qui ne contient pas d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine. (*verbal prescription narcotic*)
 
 ***transférer*** Sauf au paragraphe 45(3), transférer, même indirectement, sans échange d’une contrepartie. (*transfer*)
-> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200.
+
+- **(2)** Malgré le paragraphe 2(2) de l’annexe, ne sont pas des stupéfiants pour l’application de ce règlement :
+	- **a) ** toute drogue sous sa forme posologique, au sens du paragraphe C.01.005(3) du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), qui contient de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, sauf si une identification numérique lui est attribuée sous le régime du titre 1 de la partie C du même règlement, si la vente de la drogue est autorisée sous le régime du titre 5 de la partie C de ce même règlement ou si la drogue a fait l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée;
+	- **b) ** la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, ou toute drogue qui n’est pas sous sa forme posologique et qui en contient, sauf si la cocaïne, le sel ou la drogue fera l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée.
+> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200; DORS/2013-172, art. 3.
 
 
 
@@ -145,7 +150,7 @@ et qui exploite ou dirige une pharmacie ou une officine et exerce la profession 
 		- **(iii)** un praticien immatriculé et autorisé à exercer dans la province où il détient ce stupéfiant;
 	- **b)** qu’elle est un praticien qui est immatriculé et autorisé à exercer dans une province autre que la province où il a la possession du stupéfiant et où la possession du stupéfiant est restreinte aux seules fins d’urgences médicales;
 	- **c)** qu’elle est un employé d’un hôpital ou un praticien exerçant dans un hôpital;
-	- **d)** qu’elle a obtenu pour son propre usage un stupéfiant autre que la diacétylmorphine (héroïne), de l’une des façons suivantes :
+	- **d)** qu’elle a obtenu pour son propre usage un stupéfiant, de l’une des façons suivantes :
 		- **(i)** d’un praticien,
 		- **(ii)** en vertu d’une ordonnance qui n’est pas émise ou obtenue en violation du présent règlement,
 		- **(iii)** d’un pharmacien en vertu de l’article 36,
@@ -163,7 +168,7 @@ et qui exploite ou dirige une pharmacie ou une officine et exerce la profession 
 	- **b)** d’autre part, la possession du stupéfiant a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
 
 - **(3)** [Abrogé, DORS/2012-230, art. 15]
-> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202.
+> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202; DORS/2013-172, art. 4.
 
 
 
@@ -649,7 +654,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(1)** Il est interdit au distributeur autorisé de vendre ou de fournir des stupéfiants, sauf s’il se conforme aux dispositions du présent article et des articles 27 et 28.
 
-- **(2)** Sous réserve du paragraphe (2.2) et de l’article 25, le distributeur autorisé peut vendre ou fournir un stupéfiant autre que la diacétylmorphine (héroïne) ou la méthadone à :
+- **(2)** Sous réserve du paragraphe (2.2) et de l’article 25, le distributeur autorisé peut vendre ou fournir un stupéfiant autre que la méthadone à :
 	- **a)** un autre distributeur autorisé;
 	- **b)** un pharmacien;
 	- **c)** un praticien;
@@ -669,14 +674,10 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant; ou
 	- **e)** [Abrogé, DORS/2010-221, art. 11]
 
-- **(4)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir de la diacétylmorphine (héroïne) à :
-	- **a)** un autre distributeur autorisé;
-	- **b)** un employé d’un hôpital qui assure des soins ou des traitements à des personnes;
-	- **b.1)** s’il exerce dans un hôpital qui assure des soins ou des traitements à des personnes, un praticien de la médecine ou un dentiste;
-	- **c)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant à des fins scientifiques.
+- **(4)** [Abrogé, DORS/2013-172, art. 5]
 
 - **(5)** Le distributeur autorisé peut vendre ou fournir du chanvre indien au producteur autorisé.
-> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209.
+> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209; DORS/2013-172, art. 5.
 
 
 
@@ -710,7 +711,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(2)** Le distributeur autorisé qui reçoit une commande visée à l’alinéa (1)a) peut vendre ou fournir un stupéfiant au titre des paragraphes 24(2) à (5) si les conditions ci-après sont réunies :
 	- **a)** la commande est signée et datée par la personne indiquée, selon le cas :
-		- **(i)** dans le cas où le stupéfiant doit être vendu ou fourni à une personne visée à l’un des alinéas 24(2)a), b), c) ou e), 24(3)a), b) ou d), 24(4)a) ou c) ou au paragraphe 24(5), par cette personne,
+		- **(i)** dans le cas où le stupéfiant doit être vendu ou fourni à une personne visée à l’un des alinéas 24(2)a), b), c) ou e) ou 24(3)a), b) ou d) ou au paragraphe 24(5), par cette personne,
 		- **(ii)** dans les cas où le stupéfiant doit être fourni à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, par le pharmacien responsable de l’officine de l’hôpital ou par un praticien autorisé par la personne à qui est confiée la charge de l’hôpital à signer la commande;
 	- **b)** le distributeur autorisé vérifie la signature visée à l’alinéa a) lorsqu’il ne la reconnaît pas.
 
@@ -747,7 +748,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(9)** Si, dans le délai prévu au paragraphe (8), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni le stupéfiant, il doit refuser d’honorer, jusqu’à ce qu’il obtienne ce reçu :
 	- **a)** aucune autre commande visée à l’alinéa (1)b), que ce pharmacien ou ce praciticien envoie par ordinateur à partir d’un périphérique d’entrée à distance, ni
 	- **b)** aucune autre commande verbale visée à l’alinéa (1)c), que fait ce pharmacien ou ce praticien.
-> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12; DORS/2012-230, art. 19; DORS/2013-119, art. 210.
+> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12; DORS/2012-230, art. 19; DORS/2013-119, art. 210; DORS/2013-172, art. 6.
 
 
 
@@ -1034,12 +1035,12 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(3)** Il est interdit au praticien d’administrer de la méthadone à une personne ou à un animal ou de la prescrire, de la vendre ou de la fournir, pour toute personne ou tout animal, à moins qu’il bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
-- **(4)** Il est interdit au praticien de la médecine, au dentiste et au vétérinaire d’administrer de la diacétylmorphine (héroïne) à un animal ou à une personne autre qu’un malade qui reçoit, comme patient hospitalisé ou patient externe, des traitements dans un hôpital assurant des soins ou des traitements à des personnes ou de prescrire, de vendre ou de fournir ce stupéfiant pour tout animal ou une telle personne.
+- **(4)** [Abrogé, DORS/2013-172, art. 7]
 
 - **(5)** Le praticien de la santé peut administrer de la marihuana séchée à une personne ou en prescrire ou en transférer pour toute personne si, à la fois :
 	- **a)** la personne est soumise à ses soins professionnels;
 	- **b)** la marihuana séchée est nécessaire pour l’état pathologique de cette personne.
-> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20; DORS/2012-230, art. 22; DORS/2013-119, art. 217.
+> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20; DORS/2012-230, art. 22; DORS/2013-119, art. 217; DORS/2013-172, art. 7.
 
 
 
@@ -1203,7 +1204,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(1)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre qu’un stupéfiant soit vendu, fourni ou administré si ce n’est en conformité avec le présent article.
 
-- **(2)** Sous réserve du paragraphe (5), la personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien, permettre qu’un stupéfiant, autre que la diacétylmorphine (héroïne) ou la marihuana séchée, soit administré à une personne ou à un animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou soit vendu ou fourni pour cette même personne ou au responsable de l’animal.
+- **(2)** Sous réserve du paragraphe (5), la personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien, permettre qu’un stupéfiant, autre que la marihuana séchée, soit administré à une personne ou à un animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou soit vendu ou fourni pour cette même personne ou au responsable de l’animal.
 
 - **(2.1)** La personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance, d’une commande écrite ou d’un document médical concernant la marihuana, signé et daté par un praticien de la santé, permettre que la marihuana séchée soit :
 	- **a)** administrée à une personne qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou vendue ou fournie à cette même personne;
@@ -1213,7 +1214,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(3.1)** Sous réserve du paragraphe (5.2), la personne à qui est confiée la charge d’un hôpital peut permettre que la marihuana séchée soit fournie pour une urgence à un employé d’un autre hôpital ou à un praticien de la santé exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien de la santé autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une telle commande.
 
-- **(4)** Sous réserve du paragraphe (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant, autre que la diacétylmorphine (héroïne) ou de la marihuana séchée, soit vendu ou fourni à un pharmacien pour une urgence, sur réception d’une commande écrite, signée et datée par ce pharmacien.
+- **(4)** Sous réserve du paragraphe (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant, autre que la marihuana séchée, soit vendu ou fourni à un pharmacien pour une urgence, sur réception d’une commande écrite, signée et datée par ce pharmacien.
 
 - **(5)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre que de la méthadone soit vendue, fournie ou administrée en vertu des paragraphes (2) ou (3), à moins que le praticien visé à ces paragraphes bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
@@ -1223,8 +1224,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(6)** Le responsable d’un hôpital peut permettre qu’un stupéfiant soit fourni à la personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à ce stupéfiant et qui est employée dans un laboratoire de recherche de cet hôpital à des fins de recherche.
 
-- **(7)** La personne à qui est confiée la charge d’un hôpital assurant des soins ou des traitements à des personnes peut permettre que de la diacétylmorphine (héroïne) soit vendue, fournie ou administrée à une personne qui reçoit des traitements comme patient hospitalisé ou externe de cet hôpital, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien de la médecine ou un dentiste.
-> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225.
+- **(7)** [Abrogé, DORS/2013-172, art. 8]
+> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225; DORS/2013-172, art. 8.
 
 
 
@@ -1378,7 +1379,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(7)** benzylmorphine (didéhydro-7,8 époxy-4,5 hydroxy-6 méthyl-17 (phénylméthoxy)-3 morphinane)
 - **(8)** codoxime (0-(carboxyméthyl) oxime de dihydrocodéinone)
 - **(9)** désomorphine (dihydrodésoxymorphine)
-- **(10)** diacétylmorphine (héroïne)
+- **(10)** [Abrogé, DORS/2013-172, art. 9]
 - **(11)** dihydrocodéine (époxy-4,5 hydroxy-6 méthoxy-3 méthyl-17 morphinane)
 - **(12)** dihydromorphine (époxy-4,5 méthyl-17 morphinanediol-3,6)
 - **(13)** éthylmorphine (didéhydro-7,8 époxy-4,5 éthoxy-3 hydroxy-6 méthyl-17 morphinane)
@@ -1403,6 +1404,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - mais non compris :
 - **(32)** apomorphine (tétrahydro-5,6,6a,7 méthyl-6 4H-dibenzo[de,g]quinoline diol-10,11)
 - **(33)** cyprénorphine (N-(cyclopropylméthyl) tétrahydro-6,7,8,14 (hydroxy-1 méthyl-1 éthyl)-7α endo-6,14 éthénonororipavine)
+- **(33.1)** Diacétylmorphine (héroïne) et ses sels
 - **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
 - **(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
 - **(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
@@ -1534,6 +1536,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - mais non compris :
 - **(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
 - **(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9.
 
 
