@@ -32794,10 +32794,14 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 		- **(i)** faire part au fabricant de la drogue nouvelle et au Directeur général des résultats de l’usage de la drogue au cours de l’urgence, y compris les renseignements se rapportant à toute réaction défavorable qu’il aura observée, et
 		- **(ii)** rendre compte au Directeur général, sur demande, de toutes les quantités de la drogue qu’il aura reçues.
 
+- **(1.1)** Toutefois, le Directeur général ne peut fournir une lettre d’autorisation pour une drogue nouvelle qui est ou qui contient une drogue d’usage restreint, au sens de l’article J.01.001.
+
 - **(2)** Le Directeur général doit, dans toute lettre d’autorisation fournie conformément au paragraphe (1), spécifier
 	- **a)** le nom du praticien auquel la drogue nouvelle peut être vendue;
 	- **b)** l’état pathologique urgent pour lequel la drogue nouvelle peut être vendue; et
 	- **c)** la quantité de la drogue nouvelle qui peut être vendue audit praticien pour ledit cas urgent.
+> DORS/2013-172, art. 11.
+
 
 
 
@@ -35584,35 +35588,41 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 **J.01.001** Dans la présente partie,
 
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de drogues d’usage restreint. (*competent authority*)
+***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de drogues d’usage restreint. (*competent authority*)
 
-***chercheur compétent*** signifie, en ce qui concerne les drogues d’usage restreint, une personne qui
+***chercheur compétent*** signifie, en ce qui concerne les drogues d’usage restreint, une personne qui
 - **a)** est employée par un établissement ou est en contact avec celui-ci, ou
 - **b)** se livre à des recherches sur cette drogue dans un établissement,
 
 et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser et à posséder cette drogue; (*qualified investigator*)
 
-***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article J.01.007.2. (*licensed dealer*)
+***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article J.01.007.2. (*licensed dealer*)
 
-***drogue d’usage restreint*** Toute drogue mentionnée à l’annexe de la présente partie. (*restricted drug*)
+***drogue d’usage restreint*** S’entend, à la fois :
+- **a)** de toute substance mentionnée à l’annexe de la présente partie ou de toute matière en contenant;
+- **b)** de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels ou de toute matière en contenant, à l’exception de toute drogue sous sa forme posologique, au sens du paragraphe C.01.005(3), à laquelle une identification numérique est attribuée sous le régime du titre 1 de la partie C ou dont la vente est autorisée sous le régime du titre 5 de la partie C, et à l’exception de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels ou de toute matière en contenant qui fera l’objet d’une composition, ou qui a fait l’objet d’une composition, par un pharmacien conformément à une ordonnance ou en prévision de celle-ci. (*restricted drug*)
 
-***établissement*** indique un établissement se livrant à la recherche sur les drogues et comprend les hôpitaux autorisés par les provinces, les universités, les ministères ou organismes du gouvernement du Canada ou des provinces ou une partie quelconque de ceux-ci; (*institution*)
+***établissement*** indique un établissement se livrant à la recherche sur les drogues et comprend les hôpitaux autorisés par les provinces, les universités, les ministères ou organismes du gouvernement du Canada ou des provinces ou une partie quelconque de ceux-ci; (*institution*)
 
 ***licence***[Abrogée, DORS/2004-238, art. 31]
 
-***nécessaire d’essai*** désigne un nécessaire
+***nécessaire d’essai*** désigne un nécessaire
 - **a)** contenant des réactifs, des substances-tampons ou les deux,
 - **b)** employé au cours d’une opération chimique ou analytique effectuée à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques, et
-- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
+- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
 
-***obligation internationale*** Toute obligation relative à une drogue d’usage restreint prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (*international obligation*)
+***obligation internationale*** Toute obligation relative à une drogue d’usage restreint prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (*international obligation*)
 
-***permis*** signifie un permis délivré en vertu de l’article J.01.005; (*permit*)
+***ordonnance*** Autorisation donnée par un praticien, au sens du paragraphe 2(1) de la Loi, portant qu’une quantité déclarée d’une drogue doit être dispensée à l’intention de la personne qui y est nommée. (*prescription*)
 
-***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe J.01.003.2(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
+***permis*** signifie un permis délivré en vertu de l’article J.01.005; (*permit*)
 
-***praticien*** signifie une personne qui, en vertu des lois d’une province, a le droit d’exercer la médecine et est inscrite à cette fin. (*practitioner*)
-> DORS/97-228, art. 22; DORS/2004-238, art. 31.
+***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe J.01.003.2(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
+
+***pharmacien*** Personne qui est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province. (*pharmacist*)
+
+***praticien*** signifie une personne qui, en vertu des lois d’une province, a le droit d’exercer la médecine et est inscrite à cette fin. (*practitioner*)
+> DORS/97-228, art. 22; DORS/2004-238, art. 31; DORS/2013-172, art. 1.
 
 
 
@@ -36276,7 +36286,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **20** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
 - **21** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
 - **22** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1.
+- **23** Diacétylmorphine (héroïne) et ses sels
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2.
 
 
 
