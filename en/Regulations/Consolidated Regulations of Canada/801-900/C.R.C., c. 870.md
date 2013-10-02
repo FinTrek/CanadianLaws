@@ -32832,10 +32832,14 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 		- **(i)** report to the manufacturer of the new drug and to the Director on the results of the use of the drug in the medical emergency, including information respecting any adverse reactions encountered, and
 		- **(ii)** account to the Director on request for all quantities of the drug received by him.
 
+- **(1.1)** The Director shall not issue a letter of authorization under subsection (1) for a new drug that is or that contains a restricted drug as defined in section J.01.001.
+
 - **(2)** The Director shall, in any letter of authorization issued pursuant to subsection (1), state
 	- **(a)** the name of the practitioner to whom the new drug may be sold;
 	- **(b)** the medical emergency in respect of which the new drug may be sold; and
 	- **(c)** the quantity of the new drug that may be sold to that practitioner for that emergency.
+> SOR/2013-172, s. 11.
+
 
 
 
@@ -35644,35 +35648,41 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **J.01.001** In this Part,
 
-***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of restricted drugs into or from the country; (*autorité compétente*)
+***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of restricted drugs into or from the country; (*autorité compétente*)
 
-***institution*** means any institution engaged in research on drugs and includes a hospital that is licensed by a province, a university, a department or agency of the Government of Canada or of a province or any part thereof; (*établissement*)
+***institution*** means any institution engaged in research on drugs and includes a hospital that is licensed by a province, a university, a department or agency of the Government of Canada or of a province or any part thereof; (*établissement*)
 
-***international obligation*** means an obligation in respect of a restricted drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres; (*obligation internationale*)
+***international obligation*** means an obligation in respect of a restricted drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres; (*obligation internationale*)
 
 ***licence***[Repealed, SOR/2004-238, s. 31]
 
-***licensed dealer*** means the holder of a licence issued under section J.01.007.2; (*distributeur autorisé*)
+***licensed dealer*** means the holder of a licence issued under section J.01.007.2; (*distributeur autorisé*)
 
-***permit*** means a permit issued under section J.01.005; (*permis*)
+***permit*** means a permit issued under section J.01.005; (*permis*)
 
-***practitioner*** means a person who is registered and entitled under the laws of a province to practise the profession of medicine; (*praticien*)
+***pharmacist*** means a person who is registered or otherwise entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province; (*pharmacien*)
 
-***qualified investigator*** means, in respect to a restricted drug, a person who
+***practitioner*** means a person who is registered and entitled under the laws of a province to practise the profession of medicine; (*praticien*)
+
+***prescription*** means an authorization given by a practitioner, as defined in subsection 2(1) of the Act, that a stated amount of a drug be dispensed for the person named in the authorization; (*ordonnance*)
+
+***qualified investigator*** means, in respect to a restricted drug, a person who
 - **(a)** is employed by or is connected with an institution, or
 - **(b)** is engaged in research in an institution in respect of that drug,
 
 and whose use and possession of that drug is authorized by the Minister pursuant to section J.01.018; (*chercheur compétent*)
 
-***qualified person in charge*** means the individual with the qualifications specified in subsection J.01.003.2(2) who is responsible for supervising the activities carried out by a licensed dealer under their licence at the premises specified in the licence; (*personne qualifiée responsable*)
+***qualified person in charge*** means the individual with the qualifications specified in subsection J.01.003.2(2) who is responsible for supervising the activities carried out by a licensed dealer under their licence at the premises specified in the licence; (*personne qualifiée responsable*)
 
-***restricted drug*** means a drug set out in the schedule to this Part; (*drogue d’usage restreint*)
+***restricted drug*** means
+- **(a)** any substance that is set out in the schedule to this Part or anything that contains the substance; and
+- **(b)** cocaine (benzoylmethylecgonine) or any of its salts, or anything that contains such a substance, except a drug in dosage form, as defined in subsection C.01.005(3), that has a drug identification number assigned to it under Division 1 of Part C or that is authorized for sale under Division 5 of Part C, and except cocaine (benzoylmethylecgonine) or any of its salts, or anything that contains such a substance, that is to be or that has been compounded by a pharmacist in accordance with or in anticipation of a prescription; (*drogue d’usage restreint*)
 
-***test kit*** means an apparatus
+***test kit*** means an apparatus
 - **(a)** that contains reagent systems or buffering agents or both,
 - **(b)** that is used in the course of a chemical or analytical procedure for medical, laboratory, industrial, educational or research purposes, and
-- **(c)** the contents of which are not intended for administration to humans. (*nécessaire d’essai*)
-> SOR/97-228, s. 22; SOR/2004-238, s. 31.
+- **(c)** the contents of which are not intended for administration to humans. (*nécessaire d’essai*)
+> SOR/97-228, s. 22; SOR/2004-238, s. 31; SOR/2013-172, s. 1.
 
 
 
@@ -36336,7 +36346,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **20** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
 - **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1.
+- **23** Diacetylmorphine (heroin) and its salts
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2.
 
 
 
