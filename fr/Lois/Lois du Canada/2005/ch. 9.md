@@ -2322,7 +2322,13 @@ Première Nation Cross Lake
 Douglas
 
 
+Ebb and Flow
+
+
 Première nation Elsipogtog
+
+
+Fisher River
 
 
 Première Nation George Gordon
@@ -2335,6 +2341,9 @@ Première nation Gitsegukla
 
 
 Première Nation Gitwangak
+
+
+Heiltsuk
 
 
 Première nation Indian Island
@@ -2388,6 +2397,9 @@ Première Nation Metlakatla
 Bande Millbrook
 
 
+Mistawasis
+
+
 Bande indienne Moricetown
 
 
@@ -2418,6 +2430,9 @@ Bande indienne Neskonlith
 Première Nation Nipissing
 
 
+Nation crie Norway House
+
+
 Obashkaandagaang
 
 
@@ -2431,6 +2446,12 @@ Bande indienne Osoyoos
 
 
 Nation crie Peepeekisis no. 81
+
+
+Peguis
+
+
+Bande indienne Penticton
 
 
 Première nation Popkum
@@ -2496,6 +2517,9 @@ Première nation St. Mary’s
 Sts’ailes
 
 
+St. Theresa Point
+
+
 Stz’uminus First Nation
 
 
@@ -2547,6 +2571,9 @@ Bande indienne Upper Nicola
 Première Nation Wasauksing
 
 
+Première Nation Wet’suwet’en
+
+
 Nation We Wai Kai
 
 
@@ -2565,6 +2592,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176.
 
 
