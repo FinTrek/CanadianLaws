@@ -2325,7 +2325,13 @@ Cross Lake First Nation
 Douglas
 
 
+Ebb and Flow
+
+
 Elsipogtog First Nation
+
+
+Fisher River
 
 
 George Gordon First Nation
@@ -2338,6 +2344,9 @@ Gitsegukla First Nation
 
 
 Gitwangak First Nation
+
+
+Heiltsuk
 
 
 Indian Island First Nation
@@ -2391,6 +2400,9 @@ Metlakatla First Nation
 Millbrook Band
 
 
+Mistawasis
+
+
 Moricetown Indian Band
 
 
@@ -2421,6 +2433,9 @@ Neskonlith Indian Band
 Nipissing First Nation
 
 
+Norway House Cree Nation
+
+
 Obashkaandagaang
 
 
@@ -2434,6 +2449,12 @@ Osoyoos Indian Band
 
 
 Peepeekisis Cree Nation No. 81
+
+
+Peguis
+
+
+Penticton Indian Band
 
 
 Popkum First Nation
@@ -2499,6 +2520,9 @@ St. Mary’s First Nation
 Sts’ailes
 
 
+St. Theresa Point
+
+
 Stz’uminus First Nation
 
 
@@ -2550,6 +2574,9 @@ Upper Nicola Indian Band
 Wasauksing First Nation
 
 
+Wet’suwet’en First Nation
+
+
 We Wai Kai Nation
 
 
@@ -2568,6 +2595,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176.
 
 
