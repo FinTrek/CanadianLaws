@@ -7580,599 +7580,191 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 Note : Dans les formules moléculaires de la présente annexe, « n » est égal au nombre d’atomes.
 
 
-**1** Les biphényles chlorés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
-
-
-**2** Dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane (mirex)
-
-
-**3** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
-
-
-**4** Les chlorofluorocarbures complètement halogénés dont la formule moléculaire est C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub>
-
-
-**5** Les triphényles polychlorés dont la formule moléculaire est C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
-
-
-**6** Amiante
-
-
-**7** Plomb
-
-
-**8** Mercure et ses composés
-
-
-**9** Chlorure de vinyle
-
-
-**10** Le bromochlorodifluorométhane dont la formule moléculaire est CF<sub>2</sub>BrCl
-
-
-**11** Le bromotrifluorométhane dont la formule moléculaire est CF<sub>3</sub>Br
-
-
-**12** Le dibromotétrafluoroéthane dont la formule moléculaire est C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub>
-
-
-**13** Combustible contenant une substance toxique qui est une marchandise dangereuse au sens de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md) et qui, selon le cas :
-
-**a)** n’est pas un composant normalement retrouvé dans le combustible ni un additif conçu pour améliorer les caractéristiques ou le rendement du combustible;
-
-
-
-**b)** est un composant normalement retrouvé dans le combustible ou un additif conçu pour améliorer les caractéristiques ou le rendement du combustible, mais qui est présent dans le combustible en quantité ou concentration plus élevée que ce qui est généralement accepté par les normes de l’industrie.
-
-
-
-
-**14** La dibenzo-para-dioxine dont la formule moléculaire est C<sub>12</sub>H<sub>8</sub>O<sub>2</sub>
-
-
-**15** Le dibenzofuranne dont la formule moléculaire est C<sub>12</sub>H<sub>8</sub>O
-
-
-**16** Les dibenzo-para-dioxines polychlorées dont la formule moléculaire est C<sub>12</sub>H<sub>(8-n)</sub>Cl<sub>n</sub>O<sub>2</sub>, où « n » est plus grand que 2
-
-
-**17** Les dibenzofurannes polychlorés dont la formule moléculaire est C<sub>12</sub>H<sub>(8-n)</sub>Cl<sub>n</sub>O, où « n » est plus grand que 2
-
-
-**18** Tétrachlorométhane (tétrachlorure de carbone, CCl<sub>4</sub>)
-
-
-**19** 1,1,1-trichloroéthane (méthylchloroforme, CCl<sub>3</sub>-CH<sub>3</sub>)
-
-
-**20** Bromofluorocarbures autres que ceux visés aux articles 10 à 12
-
-
-**21** Hydrobromofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>y</sub>Br<sub>(2n+2-x-y)</sub>, où 0<n≤3
-
-
-**22** Bromure de méthyle
-
-
-**23** Éther bis(chlorométhylique) (aussi appelé oxybis(chlorométhane)) dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O
-
-
-**24** Oxyde de chlorométhyle et de méthyle dont la formule moléculaire est C<sub>2</sub>H<sub>5</sub>ClO
-
-
-**25** Hydrochlorofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>y</sub>Cl<sub>(2n+2-x-y)</sub>, où 0<n≤3
-
-
-**26** Benzène dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>
-
-
-**27** Le (4-chlorophényle)cyclopropylméthanone,O-[(4-nitrophényle)méthyl]oxime dont la formule moléculaire est C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub>
-
-
-**28** Composés inorganiques d’arsenic
-
-
-**29** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>•2HCl
-
-
-**30** Phtalate de bis(2-éthylhexyle)
-
-
-**31** Composés inorganiques de cadmium
-
-
-**32** Eaux usées chlorées
-
-
-**33** Composés de chrome hexavalent
-
-
-**34** Matières résiduaires imprégnées de créosote provenant de lieux contaminés par la créosote
-
-
-**35** 3,3′-Dichlorobenzidine
-
-
-**36** 1,2-Dichloroéthane
-
-
-**37** Dichlorométhane
-
-
-**38** Effluents des usines de pâte blanchie
-
-
-**39** Hexachlorobenzène
-
-
-**40** Fluorures inorganiques
-
-
-**41** Fibres de céramique réfractaire
-
-
-**42** Composés inorganiques de nickel oxygénés, sulfurés et solubles
-
-
-**43** Hydrocarbures aromatiques polycycliques
-
-
-**44** Tétrachloroéthylène
-
-
-**45** Trichloroéthylène
-
-
-**46** Le chlorure de tributyltétradécylphosphonium dont la formule moléculaire est C<sub>26</sub>H<sub>56</sub>P•Cl
-
-
-**47** Bromochlorométhane, dont la formule moléculaire est CH<sub>2</sub>BrCl
-
-
-**48** Acétaldéhyde, dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>O
-
-
-**49** 1,3-butadiène, dont la formule moléculaire est C<sub>4</sub>H<sub>6</sub>
-
-
-**50** Acrylonitrile, dont la formule moléculaire est C<sub>3</sub>H<sub>3</sub>N
-
-
-**51** Particules inhalables de 10 microns ou moins
-
-
-**52** Acroléine, dont la formule moléculaire est C<sub>3</sub>H<sub>4</sub>O
-
-
-**53** Ammoniac dissous dans l’eau
-
-
-**54** Nonylphénol et ses dérivés éthoxylés
-
-
-**55** Effluents des usines de textile qui utilisent des procédés de traitement au mouillé
-
-
-**56** Chloramines inorganiques, dont la formule moléculaire est NH<sub>n</sub>Cl<sub>(3-n)</sub> où n = 0, 1 ou 2
-
-
-**57** Oxyde d’éthylène, dont la formule moléculaire est H<sub>2</sub>COCH<sub>2</sub>
-
-
-**58** Formaldéhyde, dont la formule moléculaire est CH<sub>2</sub>O
-
-
-**59** N-Nitrosodiméthylamine, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
-
-
-**60** L’ammoniac à l’état gazeux, dont la formule moléculaire est NH<sub>3</sub>(g)
-
-
-**61** L’ozone, dont la formule moléculaire est O<sub>3</sub>
-
-
-**62** Le monoxyde d’azote, dont la formule moléculaire est NO
-
-
-**63** Le dioxyde d’azote, dont la formule moléculaire est NO<sub>2</sub>
-
-
-**64** Le dioxyde de soufre, dont la formule moléculaire est SO<sub>2</sub>
-
-
-**65** Les composés organiques volatils participant à des réactions photochimiques atmosphériques, à l’exclusion des composés suivants :
-
-**a)** méthane;
-
-
-
-**b)** éthane;
-
-
-
-**c)** chlorure de méthylène (dichlorométhane);
-
-
-
-**d)** 1,1,1-trichloroéthane (méthylchloroforme);
-
-
-
-**e)** 1,1,2-trichloro-1,2,2-trifluoroéthane (CFC-113);
-
-
-
-**f)** trichlorofluorométhane (CFC-11);
-
-
-
-**g)** dichlorodifluorométhane (CFC-12);
-
-
-
-**h)** chlorodifluorométhane (HCFC-22);
-
-
-
-**i)** trifluorométhane (HFC-23);
-
-
-
-**j)** 1,2-dichloro-1,1,2,2-tétrafluoroéthane (CFC-114);
-
-
-
-**k)** chloropentafluoroéthane (CFC-115);
-
-
-
-**l)** 1,1,1-trifluoro-2,2-dichloroéthane (HCFC-123);
-
-
-
-**m)** 1,1,1,2-tétrafluoroéthane (HFC-134a);
-
-
-
-**n)** 1,1-dichloro-1-fluoroéthane (HCFC-141b);
-
-
-
-**o)** 1-chloro-1,1-difluoroéthane (HCFC-142b);
-
-
-
-**p)** 2-chloro-1,1,1,2-tétrafluoroéthane (HCFC-124);
-
-
-
-**q)** pentafluoroéthane (HFC-125);
-
-
-
-**r)** 1,1,2,2-tétrafluoroéthane (HFC-134);
-
-
-
-**s)** 1,1,1-trifluoroéthane (HFC-143a);
-
-
-
-**t)** 1,1-difluoroéthane (HFC-152a);
-
-
-
-**u)** parachlorobenzotrifluorure (PCBTF);
-
-
-
-**v)** perméthylsiloxanes cycliques, ramifiés ou linéaires;
-
-
-
-**w)** acétone;
-
-
-
-**x)** perchloroéthylène (tétrachloroéthylène);
-
-
-
-**y)** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca);
-
-
-
-**z)** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb);
-
-
-
-**z.1)** 1,1,1,2,3,4,4,5,5,5-décafluoropentane (HFC 43-10mee);
-
-
-
-**z.2)** difluorométhane (HFC-32);
-
-
-
-**z.3)** fluorure d’éthyle (HFC-161);
-
-
-
-**z.4)** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
-
-
-
-**z.5)** 1,1,2,2,3-pentafluoropropane (HFC-245ca);
-
-
-
-**z.6)** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
-
-
-
-**z.7)** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
-
-
-
-**z.8)** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
-
-
-
-**z.9)** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
-
-
-
-**z.10)** 1,1,1,3,3-pentafluorobutane (HFC-365mfc);
-
-
-
-**z.11)** chlorofluorométhane (HCFC-31);
-
-
-
-**z.12)** 1-chloro-1-fluoroéthane (HCFC-151a);
-
-
-
-**z.13)** 1,2-dichloro-1,1,2-trifluoroéthane (HCFC-123a);
-
-
-
-**z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
-
-
-
-**z.15)** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
-
-
-
-**z.16)** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
-
-
-
-**z.17)** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>);
-
-
-
-**z.18)** acétate de méthyle et perfluorocarbures faisant partie de l’une ou l’autre des catégories suivantes :
-
-**(i)** perfluoroalkanes cycliques, ramifiés ou linéaires,
-
-
-
-**(ii)** perfluoroéthers cycliques, ramifiés ou linéaires ne comportant aucune insaturation,
-
-
-
-**(iii)** amines tertiaires perfluorées cycliques, ramifiées ou linéaires ne comportant aucune insaturation,
-
-
-
-**(iv)** perfluorocarbures sulfurés ne comportant aucune insaturation et dont les atomes de soufre sont liés uniquement à des atomes de carbone et de fluor.
-
-
-
-
-
-
-**66** Hexachlorobutadiène, dont la formule moléculaire est C<sub>4</sub>Cl<sub>6</sub>
-
-
-**67** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des fonderies ou des affineries de cuivre, ou des deux
-
-
-**68** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des usines de traitement du zinc
-
-
-**69** Dichlorodiphényltrichloroéthane (DDT), dont la formule moléculaire est C<sub>14</sub>H<sub>9</sub>Cl<sub>5</sub>
-
-
-**70** Le 2-butoxyéthanol, dont la formule moléculaire est C<sub>6</sub>H<sub>14</sub>O<sub>2</sub>
-
-
-**71** Le 2-méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub>
-
-
-**72** Tétrachlorobenzènes, dont la formule moléculaire est C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub>
-
-
-**73** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub>
-
-
-**74** Dioxyde de carbone, dont la formule moléculaire est CO<sub>2</sub>
-
-
-**75** Méthane, dont la formule moléculaire est CH<sub>4</sub>
-
-
-**76** Oxyde nitreux, dont la formule moléculaire est N<sub>2</sub>O
-
-
-**77** Hydrofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>(2n+2-x)</sub>, où 0<n<6
-
-
-**78** Les hydrocarbures perfluorés suivants :
-
-**a)** ceux dont la formule moléculaire est C<sub>n</sub>F<sub>2n+2</sub>, où 0<n<7;
-
-
-
-**b)** l’octafluorocyclobutane, dont la formule moléculaire est C<sub>4</sub>F<sub>8.</sub>
-
-
-
-
-**79** Hexafluorure de soufre, dont la formule moléculaire est SF<sub>6</sub>
-
-
-**80** 4,4′-bis(diméthylamino) benzophénone, dont la formule moléculaire est C<sub>17</sub>H<sub>20</sub>N<sub>2</sub>O
-
-
-**81** Butanone-oxime, dont la formule moléculaire est C<sub>4</sub>H<sub>9</sub>NO
-
-
-**82** Oxyde de butyle et de 2,3-époxypropyle, dont la formule moléculaire est C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>
-
-
-**83** Polybromodiphényléthers dont la formule moléculaire est C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O où 4≤n≤10
-
-
-**84** Sulfonate de perfluorooctane et ses sels
-
-
-**85** Les composés qui contiennent un des groupements suivants : C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> ou C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
-
-
-**86** Méthyloxirane, dont la formule moléculaire est C<sub>3</sub>H<sub>6</sub>O
-
-
-**87** 1,2-Époxybutane, dont la formule moléculaire est C<sub>4</sub>H<sub>8</sub>O
-
-
-**88** Naphtalène, dont la formule moléculaire est C<sub>10</sub>H<sub>8</sub>
-
-
-**89** Diisocyanates de toluène, dont la formule moléculaire est C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>
-
-
-**90** Pyrocatéchol, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
-
-
-**91** Hydroquinone, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
-
-
-**92** 1,6-Diisocyanatohexane, homopolymérisé, produits de réaction avec l’alpha fluoro oméga-(2-hydroxyéthyl)-poly(difluorométhylène), des alcools ramifiés en C16-20 et l’octadécan-1-ol
-
-
-**93** Méthacrylate d’hexadécyle, polymères avec le méthacrylate de 2-hydroxyéthyle, l’acrylate de gamma-oméga-perfluoroalkyle en C10-16 et le méthacrylate de stéaryle
-
-
-**94** Méthacrylate d’isobutyle, polymérisé avec l’acrylate de butyle, l’anhydride maléique, esters de gamma-oméga-perfluoroalkyle en C8-14, amorcé avec du benzènecarboperoxoate de tert-butyle
-
-
-**95** Alcool allylique, produits de réaction avec du pentafluoroiodoéthane et de tétrafluoroéthylène télomérisés, déshydroiodés, produits de réaction avec de l’épichlorhydrine et la triéthylènetétramine
-
-
-**96** 4,4′-Isopropylidènediphénol, dont la formule moléculaire est C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
-
-
-**97** Thiourée, dont la formule moléculaire est CH<sub>4</sub>N<sub>2</sub>S
-
-
-**98** Isoprène, dont la formule moléculaire est C<sub>5</sub>H<sub>8</sub>
-
-
-**99** 1-Chloro-2,3-époxypropane, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>ClO
-
-
-**100** Jaune de sulfochromate de plomb (pigment jaune 34 du Colour Index)
-
-
-**101** Rouge de chromate, de molybdate et de sulfate de plomb (pigment rouge 104 du Colour Index)
-
-
-**102** Octaméthylcyclotétrasiloxane, dont la formule moléculaire est C<sub>8</sub>H<sub>24</sub>O<sub>4</sub>Si<sub>4</sub>
-
-
-**103** 2,4,6-Tri-*tert*-butylphénol, dont la formule moléculaire est C<sub>18</sub>H<sub>30</sub>O
-
-
-**104** Acétate de 2-méthoxyéthyle, dont la formule moléculaire est C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>
-
-
-**105** 2-Méthoxypropanol, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>
-
-
-**106** 1-(4-Méthyl-2-nitrophénylazo)-2-naphtol, dont la formule moléculaire est C<sub>17</sub>H<sub>13</sub>N<sub>3</sub>O<sub>3</sub>
-
-
-**107** 2-(2-Méthoxyéthoxy)éthanol, dont la formule moléculaire est C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
-
-
-**108** Sulfate de diéthyle, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S
-
-
-**109** Sulfate de diméthyle, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S
-
-
-**110** N-phénylaniline, produits de réaction avec le styrène et le 2,4,4-triméthylpentène
-
-
-**111** Acrylamide, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>NO
-
-
-**112** Phosphate de tris(2-chloroéthyle), dont la formule moléculaire est C<sub>6</sub>H<sub>12</sub>Cl<sub>3</sub>O<sub>4</sub>P
-
-
-**113** Les tributylétains, qui contiennent le groupement (C<sub>4</sub>H<sub>9</sub>)<sub>3</sub>Sn
-
-
-**114** Les tétrabutylétains, dont la formule moléculaire est (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
-
-
-**115** α-Chlorotoluène, dont la formule moléculaire est C<sub>7</sub>H<sub>7</sub>Cl
-
-
-**116** 2-Nitropropane, dont la formule moléculaire est C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub>
-
-
-**117** 2-Nitrotoluène, dont la formule moléculaire est C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>
-
-
-**118** 4-*sec*-Butyl-2,6-di-*tert*-butylphénol, dont la formule moléculaire est C<sub>18</sub>H<sub>30</sub>O
-
-
-**119** Acétate de [p-(diméthylamino)phényl]bis[4-(éthylamino)-3-méthylphényl]méthylium, dont la formule moléculaire est C<sub>27</sub>H<sub>34</sub>N<sub>3</sub>.C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>
-
-
-**120** Les alcanes chlorés dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> où 10 ≤ n ≤ 20
-
-
-**121** 4-Allylvératrole, dont la formule moléculaire est C<sub>11</sub>H<sub>14</sub>O<sub>2</sub>
-
-
-**122** Pentaoxyde de divanadium, dont la formule moléculaire est V<sub>2</sub>O<sub>5</sub>
-
-
-**123** 2,2′,2″,2″′-[Éthane-1,2-diylidènetétrakis (p-phénylénoxyméthylène)]tétraoxirane, dont la formule moléculaire est C<sub>38</sub>H<sub>38</sub>O<sub>8</sub>
-
-
-**124** Bromate de potassium, dont la formule moléculaire est KBrO<sub>3</sub>
-
-
-**125** Naphtalènes polychlorés, dont la formule moléculaire est C<sub>10</sub>H<sub>8–n</sub>Cl<sub>n</sub> où « n » est plus grand que 1
-
-
-**126** Hydrazine, dont la formule moléculaire est N<sub>2</sub>H<sub>4</sub>
-
-
-**127** Hexabromocyclododécane, dont la formule moléculaire est C<sub>12</sub>H<sub>18</sub>Br<sub>6</sub>
-
-
-**128** Quinoléine, dont la formule moléculaire est C<sub>9</sub>H<sub>7</sub>N
-
-
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235.
+- **1** Les biphényles chlorés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
+- **2** Dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane (mirex)
+- **3** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
+- **4** Les chlorofluorocarbures complètement halogénés dont la formule moléculaire est C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub>
+- **5** Les triphényles polychlorés dont la formule moléculaire est C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
+- **6** Amiante
+- **7** Plomb
+- **8** Mercure et ses composés
+- **9** Chlorure de vinyle
+- **10** Le bromochlorodifluorométhane dont la formule moléculaire est CF<sub>2</sub>BrCl
+- **11** Le bromotrifluorométhane dont la formule moléculaire est CF<sub>3</sub>Br
+- **12** Le dibromotétrafluoroéthane dont la formule moléculaire est C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub>
+- **13** Combustible contenant une substance toxique qui est une marchandise dangereuse au sens de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md) et qui, selon le cas :
+- **a)** n’est pas un composant normalement retrouvé dans le combustible ni un additif conçu pour améliorer les caractéristiques ou le rendement du combustible;
+- **b)** est un composant normalement retrouvé dans le combustible ou un additif conçu pour améliorer les caractéristiques ou le rendement du combustible, mais qui est présent dans le combustible en quantité ou concentration plus élevée que ce qui est généralement accepté par les normes de l’industrie.
+- **14** La dibenzo-para-dioxine dont la formule moléculaire est C<sub>12</sub>H<sub>8</sub>O<sub>2</sub>
+- **15** Le dibenzofuranne dont la formule moléculaire est C<sub>12</sub>H<sub>8</sub>O
+- **16** Les dibenzo-para-dioxines polychlorées dont la formule moléculaire est C<sub>12</sub>H<sub>(8-n)</sub>Cl<sub>n</sub>O<sub>2</sub>, où « n » est plus grand que 2
+- **17** Les dibenzofurannes polychlorés dont la formule moléculaire est C<sub>12</sub>H<sub>(8-n)</sub>Cl<sub>n</sub>O, où « n » est plus grand que 2
+- **18** Tétrachlorométhane (tétrachlorure de carbone, CCl<sub>4</sub>)
+- **19** 1,1,1-trichloroéthane (méthylchloroforme, CCl<sub>3</sub>-CH<sub>3</sub>)
+- **20** Bromofluorocarbures autres que ceux visés aux articles 10 à 12
+- **21** Hydrobromofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>y</sub>Br<sub>(2n+2-x-y)</sub>, où 0<n≤3
+- **22** Bromure de méthyle
+- **23** Éther bis(chlorométhylique) (aussi appelé oxybis(chlorométhane)) dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O
+- **24** Oxyde de chlorométhyle et de méthyle dont la formule moléculaire est C<sub>2</sub>H<sub>5</sub>ClO
+- **25** Hydrochlorofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>y</sub>Cl<sub>(2n+2-x-y)</sub>, où 0<n≤3
+- **26** Benzène dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>
+- **27** Le (4-chlorophényle)cyclopropylméthanone,O-[(4-nitrophényle)méthyl]oxime dont la formule moléculaire est C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub>
+- **28** Composés inorganiques d’arsenic
+- **29** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>•2HCl
+- **30** Phtalate de bis(2-éthylhexyle)
+- **31** Composés inorganiques de cadmium
+- **32** Eaux usées chlorées
+- **33** Composés de chrome hexavalent
+- **34** Matières résiduaires imprégnées de créosote provenant de lieux contaminés par la créosote
+- **35** 3,3′-Dichlorobenzidine
+- **36** 1,2-Dichloroéthane
+- **37** Dichlorométhane
+- **38** Effluents des usines de pâte blanchie
+- **39** Hexachlorobenzène
+- **40** Fluorures inorganiques
+- **41** Fibres de céramique réfractaire
+- **42** Composés inorganiques de nickel oxygénés, sulfurés et solubles
+- **43** Hydrocarbures aromatiques polycycliques
+- **44** Tétrachloroéthylène
+- **45** Trichloroéthylène
+- **46** Le chlorure de tributyltétradécylphosphonium dont la formule moléculaire est C<sub>26</sub>H<sub>56</sub>P•Cl
+- **47** Bromochlorométhane, dont la formule moléculaire est CH<sub>2</sub>BrCl
+- **48** Acétaldéhyde, dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>O
+- **49** 1,3-butadiène, dont la formule moléculaire est C<sub>4</sub>H<sub>6</sub>
+- **50** Acrylonitrile, dont la formule moléculaire est C<sub>3</sub>H<sub>3</sub>N
+- **51** Particules inhalables de 10 microns ou moins
+- **52** Acroléine, dont la formule moléculaire est C<sub>3</sub>H<sub>4</sub>O
+- **53** Ammoniac dissous dans l’eau
+- **54** Nonylphénol et ses dérivés éthoxylés
+- **55** Effluents des usines de textile qui utilisent des procédés de traitement au mouillé
+- **56** Chloramines inorganiques, dont la formule moléculaire est NH<sub>n</sub>Cl<sub>(3-n)</sub> où n = 0, 1 ou 2
+- **57** Oxyde d’éthylène, dont la formule moléculaire est H<sub>2</sub>COCH<sub>2</sub>
+- **58** Formaldéhyde, dont la formule moléculaire est CH<sub>2</sub>O
+- **59** N-Nitrosodiméthylamine, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
+- **60** L’ammoniac à l’état gazeux, dont la formule moléculaire est NH<sub>3</sub>(g)
+- **61** L’ozone, dont la formule moléculaire est O<sub>3</sub>
+- **62** Le monoxyde d’azote, dont la formule moléculaire est NO
+- **63** Le dioxyde d’azote, dont la formule moléculaire est NO<sub>2</sub>
+- **64** Le dioxyde de soufre, dont la formule moléculaire est SO<sub>2</sub>
+- **65** Les composés organiques volatils participant à des réactions photochimiques atmosphériques, à l’exclusion des composés suivants :
+- **a)** méthane;
+- **b)** éthane;
+- **c)** chlorure de méthylène (dichlorométhane);
+- **d)** 1,1,1-trichloroéthane (méthylchloroforme);
+- **e)** 1,1,2-trichloro-1,2,2-trifluoroéthane (CFC-113);
+- **f)** trichlorofluorométhane (CFC-11);
+- **g)** dichlorodifluorométhane (CFC-12);
+- **h)** chlorodifluorométhane (HCFC-22);
+- **i)** trifluorométhane (HFC-23);
+- **j)** 1,2-dichloro-1,1,2,2-tétrafluoroéthane (CFC-114);
+- **k)** chloropentafluoroéthane (CFC-115);
+- **l)** 1,1,1-trifluoro-2,2-dichloroéthane (HCFC-123);
+- **m)** 1,1,1,2-tétrafluoroéthane (HFC-134a);
+- **n)** 1,1-dichloro-1-fluoroéthane (HCFC-141b);
+- **o)** 1-chloro-1,1-difluoroéthane (HCFC-142b);
+- **p)** 2-chloro-1,1,1,2-tétrafluoroéthane (HCFC-124);
+- **q)** pentafluoroéthane (HFC-125);
+- **r)** 1,1,2,2-tétrafluoroéthane (HFC-134);
+- **s)** 1,1,1-trifluoroéthane (HFC-143a);
+- **t)** 1,1-difluoroéthane (HFC-152a);
+- **u)** parachlorobenzotrifluorure (PCBTF);
+- **v)** perméthylsiloxanes cycliques, ramifiés ou linéaires;
+- **w)** acétone;
+- **x)** perchloroéthylène (tétrachloroéthylène);
+- **y)** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca);
+- **z)** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb);
+- **z.1)** 1,1,1,2,3,4,4,5,5,5-décafluoropentane (HFC 43-10mee);
+- **z.2)** difluorométhane (HFC-32);
+- **z.3)** fluorure d’éthyle (HFC-161);
+- **z.4)** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
+- **z.5)** 1,1,2,2,3-pentafluoropropane (HFC-245ca);
+- **z.6)** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
+- **z.7)** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
+- **z.8)** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
+- **z.9)** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
+- **z.10)** 1,1,1,3,3-pentafluorobutane (HFC-365mfc);
+- **z.11)** chlorofluorométhane (HCFC-31);
+- **z.12)** 1-chloro-1-fluoroéthane (HCFC-151a);
+- **z.13)** 1,2-dichloro-1,1,2-trifluoroéthane (HCFC-123a);
+- **z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
+- **z.15)** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
+- **z.16)** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
+- **z.17)** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>);
+- **z.18)** acétate de méthyle et perfluorocarbures faisant partie de l’une ou l’autre des catégories suivantes :
+- **(i)** perfluoroalkanes cycliques, ramifiés ou linéaires,
+- **(ii)** perfluoroéthers cycliques, ramifiés ou linéaires ne comportant aucune insaturation,
+- **(iii)** amines tertiaires perfluorées cycliques, ramifiées ou linéaires ne comportant aucune insaturation,
+- **(iv)** perfluorocarbures sulfurés ne comportant aucune insaturation et dont les atomes de soufre sont liés uniquement à des atomes de carbone et de fluor.
+- **66** Hexachlorobutadiène, dont la formule moléculaire est C<sub>4</sub>Cl<sub>6</sub>
+- **67** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des fonderies ou des affineries de cuivre, ou des deux
+- **68** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des usines de traitement du zinc
+- **69** Dichlorodiphényltrichloroéthane (DDT), dont la formule moléculaire est C<sub>14</sub>H<sub>9</sub>Cl<sub>5</sub>
+- **70** Le 2-butoxyéthanol, dont la formule moléculaire est C<sub>6</sub>H<sub>14</sub>O<sub>2</sub>
+- **71** Le 2-méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub>
+- **72** Tétrachlorobenzènes, dont la formule moléculaire est C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub>
+- **73** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub>
+- **74** Dioxyde de carbone, dont la formule moléculaire est CO<sub>2</sub>
+- **75** Méthane, dont la formule moléculaire est CH<sub>4</sub>
+- **76** Oxyde nitreux, dont la formule moléculaire est N<sub>2</sub>O
+- **77** Hydrofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>(2n+2-x)</sub>, où 0<n<6
+- **78** Les hydrocarbures perfluorés suivants :
+- **a)** ceux dont la formule moléculaire est C<sub>n</sub>F<sub>2n+2</sub>, où 0<n<7;
+- **b)** l’octafluorocyclobutane, dont la formule moléculaire est C<sub>4</sub>F<sub>8.</sub>
+- **79** Hexafluorure de soufre, dont la formule moléculaire est SF<sub>6</sub>
+- **80** 4,4′-bis(diméthylamino) benzophénone, dont la formule moléculaire est C<sub>17</sub>H<sub>20</sub>N<sub>2</sub>O
+- **81** Butanone-oxime, dont la formule moléculaire est C<sub>4</sub>H<sub>9</sub>NO
+- **82** Oxyde de butyle et de 2,3-époxypropyle, dont la formule moléculaire est C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>
+- **83** Polybromodiphényléthers dont la formule moléculaire est C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O où 4≤n≤10
+- **84** Sulfonate de perfluorooctane et ses sels
+- **85** Les composés qui contiennent un des groupements suivants : C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> ou C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
+- **86** Méthyloxirane, dont la formule moléculaire est C<sub>3</sub>H<sub>6</sub>O
+- **87** 1,2-Époxybutane, dont la formule moléculaire est C<sub>4</sub>H<sub>8</sub>O
+- **88** Naphtalène, dont la formule moléculaire est C<sub>10</sub>H<sub>8</sub>
+- **89** Diisocyanates de toluène, dont la formule moléculaire est C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>
+- **90** Pyrocatéchol, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+- **91** Hydroquinone, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+- **92** 1,6-Diisocyanatohexane, homopolymérisé, produits de réaction avec l’alpha fluoro oméga-(2-hydroxyéthyl)-poly(difluorométhylène), des alcools ramifiés en C16-20 et l’octadécan-1-ol
+- **93** Méthacrylate d’hexadécyle, polymères avec le méthacrylate de 2-hydroxyéthyle, l’acrylate de gamma-oméga-perfluoroalkyle en C10-16 et le méthacrylate de stéaryle
+- **94** Méthacrylate d’isobutyle, polymérisé avec l’acrylate de butyle, l’anhydride maléique, esters de gamma-oméga-perfluoroalkyle en C8-14, amorcé avec du benzènecarboperoxoate de tert-butyle
+- **95** Alcool allylique, produits de réaction avec du pentafluoroiodoéthane et de tétrafluoroéthylène télomérisés, déshydroiodés, produits de réaction avec de l’épichlorhydrine et la triéthylènetétramine
+- **96** 4,4′-Isopropylidènediphénol, dont la formule moléculaire est C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
+- **97** Thiourée, dont la formule moléculaire est CH<sub>4</sub>N<sub>2</sub>S
+- **98** Isoprène, dont la formule moléculaire est C<sub>5</sub>H<sub>8</sub>
+- **99** 1-Chloro-2,3-époxypropane, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>ClO
+- **100** Jaune de sulfochromate de plomb (pigment jaune 34 du Colour Index)
+- **101** Rouge de chromate, de molybdate et de sulfate de plomb (pigment rouge 104 du Colour Index)
+- **102** Octaméthylcyclotétrasiloxane, dont la formule moléculaire est C<sub>8</sub>H<sub>24</sub>O<sub>4</sub>Si<sub>4</sub>
+- **103** 2,4,6-Tri-*tert*-butylphénol, dont la formule moléculaire est C<sub>18</sub>H<sub>30</sub>O
+- **104** Acétate de 2-méthoxyéthyle, dont la formule moléculaire est C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>
+- **105** 2-Méthoxypropanol, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>
+- **106** 1-(4-Méthyl-2-nitrophénylazo)-2-naphtol, dont la formule moléculaire est C<sub>17</sub>H<sub>13</sub>N<sub>3</sub>O<sub>3</sub>
+- **107** 2-(2-Méthoxyéthoxy)éthanol, dont la formule moléculaire est C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
+- **108** Sulfate de diéthyle, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S
+- **109** Sulfate de diméthyle, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S
+- **110** N-phénylaniline, produits de réaction avec le styrène et le 2,4,4-triméthylpentène
+- **111** Acrylamide, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>NO
+- **112** Phosphate de tris(2-chloroéthyle), dont la formule moléculaire est C<sub>6</sub>H<sub>12</sub>Cl<sub>3</sub>O<sub>4</sub>P
+- **113** Les tributylétains, qui contiennent le groupement (C<sub>4</sub>H<sub>9</sub>)<sub>3</sub>Sn
+- **114** Les tétrabutylétains, dont la formule moléculaire est (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
+- **115** α-Chlorotoluène, dont la formule moléculaire est C<sub>7</sub>H<sub>7</sub>Cl
+- **116** 2-Nitropropane, dont la formule moléculaire est C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub>
+- **117** 2-Nitrotoluène, dont la formule moléculaire est C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>
+- **118** 4-*sec*-Butyl-2,6-di-*tert*-butylphénol, dont la formule moléculaire est C<sub>18</sub>H<sub>30</sub>O
+- **119** Acétate de [p-(diméthylamino)phényl]bis[4-(éthylamino)-3-méthylphényl]méthylium, dont la formule moléculaire est C<sub>27</sub>H<sub>34</sub>N<sub>3</sub>.C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>
+- **120** Les alcanes chlorés dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> où 10 ≤ n ≤ 20
+- **121** 4-Allylvératrole, dont la formule moléculaire est C<sub>11</sub>H<sub>14</sub>O<sub>2</sub>
+- **122** Pentaoxyde de divanadium, dont la formule moléculaire est V<sub>2</sub>O<sub>5</sub>
+- **123** 2,2′,2″,2″′-[Éthane-1,2-diylidènetétrakis (p-phénylénoxyméthylène)]tétraoxirane, dont la formule moléculaire est C<sub>38</sub>H<sub>38</sub>O<sub>8</sub>
+- **124** Bromate de potassium, dont la formule moléculaire est KBrO<sub>3</sub>
+- **125** Naphtalènes polychlorés, dont la formule moléculaire est C<sub>10</sub>H<sub>8–n</sub>Cl<sub>n</sub> où « n » est plus grand que 1
+- **126** Hydrazine, dont la formule moléculaire est N<sub>2</sub>H<sub>4</sub>
+- **127** Hexabromocyclododécane, dont la formule moléculaire est C<sub>12</sub>H<sub>18</sub>Br<sub>6</sub>
+- **128** Quinoléine, dont la formule moléculaire est C<sub>9</sub>H<sub>7</sub>N
+- **129** Acide pentadécafluorooctanoïque, dont la formule moléculaire est C<sub>7</sub>F<sub>15</sub>CO<sub>2</sub>H, et ses sels
+- **130** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où n = 7 ou 8, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
+- **131** Les acides perfluorocarboxyliques dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>CO<sub>2</sub>H, où 8 ≤ n ≤ 20, et leurs sels
+- **132** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où 8 ≤ n ≤ 20, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188.
 
 
 
