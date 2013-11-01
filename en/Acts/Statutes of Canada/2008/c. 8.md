@@ -29,9 +29,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***award*** means an award rendered by the arbitral tribunal established under article 37 of the Convention and an interpretation, revision or annulment, if any, of the award under the Convention.
+***award*** means an award rendered by the arbitral tribunal established under article 37 of the Convention and an interpretation, revision or annulment, if any, of the award under the Convention. (*sentence*)
 
-***Convention*** means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, the text of which is set out in the schedule.
+***Convention*** means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States, the text of which is set out in the schedule. (*Convention*)
 
 
 
@@ -131,7 +131,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind26B2_hq_4249'>[*]</a></sup>**12** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind26B2_hq_4249'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind26B2_hq_4249'><sup>*</sup></a>: [Note: Act in force November 1, 2013, *see* SI/2013-115.]<br />
 
 
 
@@ -922,7 +922,7 @@ Except as the parties otherwise agree, the Tribunal may, if it considers that th
 
 
 
-**(2)** For the purposes of this Section, “award” shall include any decision interpreting, revising or annulling such award pursuant to Articles 50, 51 or 52.
+**(2)** For the purposes of this Section, ***award*** shall include any decision interpreting, revising or annulling such award pursuant to Articles 50, 51 or 52.
 
 
 
