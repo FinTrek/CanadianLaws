@@ -52,25 +52,25 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***drinking water*** means water intended for use by humans for drinking, bathing or food preparation.
+***drinking water*** means water intended for use by humans for drinking, bathing or food preparation. (*eau potable*)
 
-***drinking water system*** means a system for the collection, storage, treatment or distribution of drinking water, and includes a well.
+***drinking water system*** means a system for the collection, storage, treatment or distribution of drinking water, and includes a well. (*système d’alimentation en eau potable*)
 
-***First Nation*** means
+***First Nation*** means
 - **(a)** a band, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the disposition of whose lands is subject to that Act or the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md); or
-- **(b)** any other band, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), specified in regulations made under subsection (2).
+- **(b)** any other band, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), specified in regulations made under subsection (2). (*première nation*)
 
-***First Nation lands*** means
+***First Nation lands*** means
 - **(a)** lands the disposition of which is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md); or
-- **(b)** in relation to a band specified in regulations made under subsection (2), the lands described in those regulations.
+- **(b)** in relation to a band specified in regulations made under subsection (2), the lands described in those regulations. (*terres*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***provincial body*** means a body established by a provincial Act.
+***provincial body*** means a body established by a provincial Act. (*organisme provincial*)
 
-***provincial official*** means a minister of the Crown in right of a province, a person employed by a province or a person appointed to or employed by a provincial body.
+***provincial official*** means a minister of the Crown in right of a province, a person employed by a province or a person appointed to or employed by a provincial body. (*fonctionnaire provincial*)
 
-***waste water system*** means a system for the collection, treatment or disposal of waste water.
+***waste water system*** means a system for the collection, treatment or disposal of waste water. (*système de traitement des eaux usées*)
 
 **Regulations**
 
@@ -143,7 +143,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(o)** subject to paragraphs 11(1)(a), (2)(a) and (3)(a) and section 12, set limits on the liability of any person or body exercising a power or performing a duty under the regulations, and establish defences and immunities for such a person or body;
 	- **(p)** require permits to be obtained as a condition of engaging in any activity on First Nation lands that could affect the quality of drinking water, or as a condition of engaging in any activity governed by the regulations, specify the terms and conditions of those permits and provide for their issuance, suspension and cancellation;
 	- **(q)** deem a First Nation or any person or body, for the purposes of this Act, to be the owner of a drinking water system or waste water system of a prescribed class, and prescribe classes of drinking water systems and waste water systems for that purpose; and
-	- **(r)** require that an assessment of the environmental effects of drinking water systems or waste water systems be undertaken in circumstances where the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) does not apply, and establish a procedure to be followed in such assessments.
+	- **(r)** require that an assessment of the environmental effects of drinking water systems or waste water systems be undertaken in circumstances where the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply, and establish a procedure to be followed in such assessments.
 
 **Offences under provincial law**
 
@@ -162,6 +162,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(5)** Section 4 does not authorize the making of regulations respecting
 	- **(a)** the allocation of water supplies; or
 	- **(b)** the issuance of permits for the use of water for any purpose other than the provision of drinking water.
+> 2013, c. 21, s. 5; 2012, c. 19, s. 65
+
 
 
 
@@ -268,8 +270,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Order in council**
 
-***15** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#fn_Ind20D4_hq_12385'>[*]</a></sup>**15** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind20D4_hq_12385'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind20D4_hq_12385'><sup>*</sup></a>: [Note: Act in force November 1, 2013, *see* SI/2013-111.]<br />
 
 
