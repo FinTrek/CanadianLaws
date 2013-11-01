@@ -54,25 +54,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***eau potable*** Eau destinée à être utilisée par les humains pour boire, se laver ou préparer les aliments.
+***eau potable*** Eau destinée à être utilisée par les humains pour boire, se laver ou préparer les aliments. (*drinking water*)
 
-***fonctionnaire provincial*** Employé d’une province. Sont assimilés aux fonctionnaires provinciaux les ministres provinciaux et les personnes nommées aux organismes provinciaux ou employées par ceux-ci.
+***fonctionnaire provincial*** Employé d’une province. Sont assimilés aux fonctionnaires provinciaux les ministres provinciaux et les personnes nommées aux organismes provinciaux ou employées par ceux-ci. (*provincial official*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***organisme provincial*** Organisme constitué par une loi provinciale.
+***organisme provincial*** Organisme constitué par une loi provinciale. (*provincial body*)
 
 ***première nation***
 - **a)** Bande, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), dont l’aliénation des terres est régie par cette loi ou la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md);
-- **b)** toute autre bande, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), mentionnée dans les règlements pris en vertu du paragraphe (2).
+- **b)** toute autre bande, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), mentionnée dans les règlements pris en vertu du paragraphe (2). (*First Nation*)
 
-***système d’alimentation en eau potable*** Système — notamment un puits — servant à la collecte, au stockage, au traitement ou à la distribution d’eau potable.
+***système d’alimentation en eau potable*** Système — notamment un puits — servant à la collecte, au stockage, au traitement ou à la distribution d’eau potable. (*drinking water system*)
 
-***système de traitement des eaux usées*** Système servant à la collecte, au traitement ou à l’élimination des eaux usées.
+***système de traitement des eaux usées*** Système servant à la collecte, au traitement ou à l’élimination des eaux usées. (*waste water system*)
 
-***terres*** En ce qui concerne une première nation, s’entend des terres suivantes :
+***terres*** En ce qui concerne une première nation, s’entend des terres suivantes :
 - **a)** celles dont l’aliénation est régie par la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md);
-- **b)** s’agissant d’une bande mentionnée dans les règlements pris en vertu du paragraphe (2), celles délimitées par ceux-ci.
+- **b)** s’agissant d’une bande mentionnée dans les règlements pris en vertu du paragraphe (2), celles délimitées par ceux-ci. (*First Nation lands*)
 
 **Règlements**
 
@@ -145,7 +145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **o)** sous réserve des alinéas 11(1)a), (2)a) et (3)a) et de l’article 12, limiter la responsabilité de toute personne ou tout organisme qui exerce des attributions conférées par les règlements, et établir les moyens de défense et immunités dont ceux-ci peuvent se prévaloir;
 	- **p)** exiger l’obtention de permis préalablement à l’exercice de toute activité sur les terres d’une première nation susceptible d’influer sur la salubrité de l’eau potable ou de toute activité réglementée, prescrire les conditions qui y sont rattachées et régir leur délivrance, leur suspension et leur révocation;
 	- **q)** prévoir que toute première nation ou toute personne ou tout organisme est réputé, pour l’application de la présente loi, propriétaire d’un système d’alimentation en eau potable ou d’un système de traitement des eaux usées appartenant à une catégorie donnée et, à cette fin, établir des catégories de systèmes d’alimentation en eau potable ou de systèmes de traitement des eaux usées;
-	- **r)** exiger que l’évaluation des effets sur l’environnement des systèmes d’alimentation en eau potable ou des systèmes de traitement des eaux usées soit effectuée dans les cas où la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas et en prescrire la procédure.
+	- **r)** exiger que l’évaluation des effets sur l’environnement des systèmes d’alimentation en eau potable ou des systèmes de traitement des eaux usées soit effectuée dans les cas où la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas et en prescrire la procédure.
 
 **Infractions provinciales**
 
@@ -162,6 +162,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 - **(5)** L’article 4 ne permet pas la prise de règlements régissant la répartition des approvisionnements en eau, et il ne permet la prise de règlements régissant la délivrance de permis d’utilisation de l’eau qu’à des fins d’alimentation en eau potable.
+> 2013, ch. 21, art. 5; 2012, ch. 19, art. 65
+
 
 
 
@@ -270,6 +272,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndD524_hq_12398'>[*]</a></sup>**15** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndD524_hq_12398'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndD524_hq_12398'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> novembre 2013, *voir* TR/2013-111.]<br />
 
 
