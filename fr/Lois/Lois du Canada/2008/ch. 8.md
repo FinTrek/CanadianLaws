@@ -29,9 +29,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Convention*** La Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États, dont le texte figure à l’annexe.
+***Convention*** La Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États, dont le texte figure à l’annexe. (*Convention*)
 
-***sentence*** Décision rendue par le Tribunal arbitral constitué en vertu de l’article 37 de la Convention; sont assimilées à la sentence l’interprétation, la révision ou l’annulation d’une telle décision sous le régime de la Convention.
+***sentence*** Décision rendue par le Tribunal arbitral constitué en vertu de l’article 37 de la Convention; sont assimilées à la sentence l’interprétation, la révision ou l’annulation d’une telle décision sous le régime de la Convention. (*award*)
 
 
 
@@ -131,7 +131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7086_hq_4248'>[*]</a></sup>**12** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind7086_hq_4248'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind7086_hq_4248'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> novembre 2013, *voir* TR/2013-115.]<br />
 
 
 
@@ -920,7 +920,7 @@ Sauf accord contraire des parties, le Tribunal peut, s’il estime que les circo
 
 
 
-**(2)** Aux fins de la présente section, une « sentence » inclut toute décision concernant l’interprétation, la révision ou l’annulation de la sentence prise en vertu des articles 50, 51 ou 52.
+**(2)** Aux fins de la présente section, une ***sentence*** inclut toute décision concernant l’interprétation, la révision ou l’annulation de la sentence prise en vertu des articles 50, 51 ou 52.
 
 
 
