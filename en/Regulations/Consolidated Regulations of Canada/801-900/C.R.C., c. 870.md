@@ -24722,9 +24722,13 @@ and only the L forms of the amino acids have been added.
 - **(a)** commonly known, and
 - **(b)** designated in scientific or technical journals, other than the publications referred to in Schedule B to the Act; (*nom usuel*)
 
-***expiration date*** means the earlier of
-- **(a)** the date, expressed at minimum as a year and month, up to and including which a drug maintains its labelled potency, purity and physical characteristics, and
-- **(b)** the date, expressed at minimum as a year and month, after which the manufacturer recommends that the drug not be used; (*date limite d’utilisation*)
+***expiration date*** means
+- **(a)** in the case of a drug in dosage form, the earlier of the following dates, expressed at minimum as a year and month:
+	- **(i)** the date up to and including which the drug maintains its labelled potency, purity and physical characteristics, and
+	- **(ii)** the date after which the manufacturer recommends that the drug not be used; and
+- **(b)** in the case of an active ingredient, whichever of the following dates is applicable, expressed at minimum as a year and month:
+	- **(i)** the retest date, or
+	- **(ii)** the date after which the manufacturer recommends that the active ingredient not be used. (*date limite d’utilisation*)
 
 ***flavour*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug solely to produce or mask a particular taste. It does not include an ingredient or combination of ingredients that impart only a sweet taste to the drug; (*saveur*)
 
@@ -24792,7 +24796,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1.
 
 
 
@@ -27713,6 +27717,10 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(1)** The definitions in this subsection apply in this Division and in Divisions 2 to 4.
 
+***active ingredient*** means a drug that, when used as a raw material in the fabrication of a drug in dosage form, provides its intended effect. (*ingrédient actif*)
+
+***active pharmaceutical ingredient*** means an active ingredient that is used in the fabrication of a pharmaceutical. (*ingrédient actif pharmaceutique*)
+
 ***antimicrobial agent*** means a drug that is capable of destroying pathogenic micro-organisms and that is labelled as being for use in the disinfection of environmental surfaces or medical devices, as defined in the [Medical Devices Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/282.md), that
 - **(a)** are not invasive devices as defined in those Regulations; and
 - **(b)** are intended to come into contact with intact skin only. (*agent antimicrobien*)
@@ -27725,6 +27733,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(c)** identifies the analytical methods used in testing the lot or batch and provides details of the analytical results obtained;
 - **(d)** sets out the addresses of the buildings at which the lot or batch was fabricated, packaged/labelled and tested; and
 - **(e)** certifies that the lot or batch was fabricated, packaged/labelled and tested in accordance with the good manufacturing practices of the regulatory authority that has recognized those buildings as meeting its good manufacturing practices standards. (*certificat de lot*)
+
+***bulk process intermediate*** means an active ingredient that is used in the fabrication of either a drug of biological origin that is listed in Schedule C to the Act or a drug that is listed in Schedule D to the Act. (*produit intermédiaire en vrac*)
 
 ***class monograph*** means a document prepared by the Department of Health that
 - **(a)** lists the types and strengths of medicinal ingredients that may be contained in drugs of a specified class; and
@@ -27754,14 +27764,17 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 ***site***[Repealed, SOR/2002-368, s. 1]
 
-***wholesale*** means to sell any of the following drugs, other than at retail sale, where the seller’s name does not appear on the label of the drugs:
-- **(a)** a drug listed in Schedule C or D to the Act or in Schedule F to these Regulations or a controlled drug as defined in subsection G.01.001(1); or
-- **(b)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*vendre en gros*)
+***wholesale***[Repealed, SOR/2013-74, s. 2]
 
-- **(2)** In this Division and in Division 2, ***drug*** means a drug in dosage form, or a drug that is a bulk process intermediate that can be used in the preparation of a drug listed in Schedule C to the Act or in Schedule D to the Act that is of biological origin. It does not include a dilute drug premix, a medicated feed as defined section 2 of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015 or a drug listed in Schedule H to the Act.
+***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale: 
+- **(a)** a drug in dosage form that is listed in Schedule C or D to the Act or in Schedule F to these Regulations, or a controlled drug as defined in subsection G.01.001(1);
+- **(b)** an active ingredient; or
+- **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*grossiste*)
+
+- **(2)** In this Division and in Division 2, “drug” does not include a dilute drug premix, a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), an active ingredient that is for veterinary use or a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
 
 - **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request. 
-> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1.
+> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2.
 
 
 
@@ -27795,9 +27808,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 **C.01A.003** This Division and Divisions 2 to 4 apply to the following distributors:
-- **(a)** a distributor of a drug listed in Schedule C or D to the Act or in Schedule F to these Regulations, a controlled drug as defined in subsection G.01.001(1) or a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md), who does not hold the drug identification number for the drug or narcotic; and
-- **(b)** a distributor of a drug for which that distributor holds the drug identification number.
-> SOR/97-12, s. 5; SOR/2002-368, s. 2.
+- **(a)** a distributor of an active ingredient or a drug in dosage form that is listed in Schedule C to the Act; and
+- **(b)** a distributor of a drug for which the distributor holds the drug identification number.
+> SOR/97-12, s. 5; SOR/2002-368, s. 2; SOR/2013-74, s. 3.
 
 
 
@@ -27809,13 +27822,15 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 **C.01A.004** 
 
 - **(1)** Subject to subsection (2), no person shall, except in accordance with an establishment licence,
-	- **(a)** fabricate, package/label, distribute as set out in section C.01A.003, import or wholesale a drug; or
-	- **(b)** perform the tests, including examinations, required under Division 2.
+	- **(a)** fabricate, package/label or import a drug;
+	- **(b)** perform the tests, including examinations, required under Division 2;
+	- **(c)** distribute a drug as set out in section C.01A.003 that is not an active pharmaceutical ingredient; or
+	- **(d)** wholesale a drug that is not an active pharmaceutical ingredient.
 
 - **(2)** A person does not require an establishment licence to perform tests under Division 2 if the person holds an establishment licence as a fabricator, a packager/labeller, a distributor referred to in paragraph C.01A.003(b) or an importer.
 
 - **(3)** No person shall carry on an activity referred to in subsection (1) in respect of a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or a controlled drug as defined in subsection G.01.001(1) unless the person holds a licence for that narcotic or drug under the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or Part G of these Regulations, as the case may be.
-> SOR/97-12, s. 5; SOR/2002-368, s. 3.
+> SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4.
 
 
 
@@ -27832,10 +27847,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(c)** each activity set out in Table I to section C.01A.008 for which the licence is requested;
 - **(d)** each category of drugs set out in Table II to section C.01A.008 for which the licence is requested;
 - **(e)** each dosage form class in respect of which the applicant proposes to carry out a licensed activity, and whether it will be in a sterile dosage form;
-- **(f)** whether the applicant proposes to carry out a licensed activity in respect of a drug that is a bulk process intermediate;
-- **(g)** the address of each building in Canada in which the applicant proposes to fabricate, package/label, test as required under Division 2 or store drugs, specifying for each building which of those activities and for which category of drugs and, for each category,
-	- **(i)** the dosage form classes, and whether any drugs will be in a sterile dosage form, and
-	- **(ii)** whether any drugs will be bulk process intermediates;
+- **(f)** whether the applicant proposes to carry out a licensed activity in respect of an active ingredient;
+- **(g)** the address of each building in Canada in which the applicant proposes to fabricate, package/label, test as required under Division 2 or store drugs, specifying for each building the activities and the categories of drugs and, for each category, the dosage form classes, if any, and whether any drug will be in a sterile form;
 - **(h)** the address of each building in Canada at which records will be maintained;
 - **(i)** whether any building referred to in paragraphs (g) and (h) is a dwelling-house;
 - **(j)** the drug identification number, if any, or a name that clearly identifies the drug,
@@ -27844,20 +27857,16 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(k)** if any of the buildings referred to in paragraph (g) have been inspected under the Act or these Regulations, the date of the last inspection;
 - **(l)** evidence that the applicant’s buildings, equipment and proposed practices and procedures meet the applicable requirements of Divisions 2 to 4;
 - **(m)** in the case of an importer of a drug that is fabricated, packaged/labelled or tested in an MRA country at a recognized building,
-	- **(i)** the name and address of each fabricator, packager/labeller and tester of the drug and the address of each building at which the drug is fabricated, packaged/labelled or tested, specifying for each building the activities and the category of drug and
-		- **(A)** the dosage form class and whether the drug is in a sterile dosage form, and
-		- **(B)** whether the drug is a bulk process intermediate,
+	- **(i)** the name and address of each fabricator, packager/labeller and tester of the drug and the address of each building in which the drug is fabricated, packaged/labelled or tested, specifying for each building the activities and the categories of drugs and, for each category, the dosage form classes, if any, and whether any drug will be in a sterile form,
 	- **(ii)** in respect of each activity done in an MRA country at a recognized building, the name of the regulatory authority that is designated under subsection C.01A.019(1) in respect of that activity for that drug and that has recognized that building as meeting its good manufacturing practices standards in respect of that activity for that drug, and
 	- **(iii)** in respect of any other activities,
 		- **(A)** a certificate from a Canadian inspector indicating that the fabricator’s, packager/labeller’s or tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4, or
 		- **(B)** other evidence establishing that the fabricator’s, packager/labeller’s or tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4;
-- **(n)** in the case of any other importer, the name and address of each fabricator, packager/labeller and tester of the drugs proposed to be imported and the address of each building at which the drugs will be fabricated, packaged/labelled and tested, specifying for each building which of those activities and for which category of drugs and, for each category,
-	- **(i)** the dosage form classes and whether any drugs will be in a sterile dosage form, and
-	- **(ii)** whether any drugs will be bulk process intermediates; and
+- **(n)** in the case of any other importer, the name and address of each fabricator, packager/labeller and tester of the drugs proposed to be imported and the address of each building in which the drugs will be fabricated, packaged/labelled and tested, specifying for each building the activities and the categories of drugs and, for each category, the dosage form classes, if any, and whether any drug will be in a sterile form; and
 - **(o)** in the case of an importer referred to in paragraph (n),
 	- **(i)** a certificate from a Canadian inspector indicating that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4, or
 	- **(ii)** other evidence establishing that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4.
-> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2.
+> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2; SOR/2013-74, s. 5.
 
 
 
@@ -27932,7 +27941,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>4</td>
-<td>Distribute as set out in paragraph C.01A.003(a)</td>
+<td>Distribute as set out in paragraph C.01A.003(a) a drug that is not an active pharmaceutical ingredient</td>
 </tr>
 <tr>
 <td>5</td>
@@ -27944,7 +27953,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>7</td>
-<td>Wholesale</td>
+<td>Wholesale a drug that is not an active pharmaceutical ingredient</td>
 </tr>
 </table>
 
@@ -27957,6 +27966,10 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 <tr>
 <td>1</td>
 <td>Pharmaceuticals</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Active ingredients</td>
 </tr>
 <tr>
 <td>2</td>
@@ -27980,7 +27993,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6.
 
 
 
@@ -28261,6 +28274,34 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
+**C.02.003.1** No person shall sell a drug that they have fabricated, packaged/labelled, tested or stored unless they have fabricated, packaged/labelled, tested or stored it in accordance with the requirements of this Division.
+> SOR/2013-74, s. 7.
+
+
+
+
+**C.02.003.2** 
+
+- **(1)** No person shall import an active ingredient into Canada for the purpose of sale unless they have in Canada a person who is responsible for its sale.
+
+- **(2)** No person who imports an active ingredient into Canada shall sell any lot or batch of it unless the following appear on its label:
+	- **(a)** the name and civic address of the person who imports it; and
+	- **(b)** the name and address of the principal place of business in Canada of the person who is responsible for its sale.
+> SOR/2013-74, s. 7.
+
+
+
+
+
+#### Use in Fabrication
+
+
+**C.02.003.3** No person shall use an active ingredient in the fabrication of a drug unless it is fabricated, packaged/labelled, tested and stored in accordance with the requirements of this Division.
+> SOR/2013-74, s. 7.
+
+
+
+
 
 #### Premises
 
@@ -28384,14 +28425,14 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(a)** a system of control that permits complete and rapid recall of any lot or batch of the drug that is on the market; and
 	- **(b)** a program of self-inspection.
 
-- **(2)** Every fabricator and packager/labeller and, subject to subsections (3) and (4), every distributor referred to in paragraph C.01A.003(b) and importer of a drug shall maintain a system designed to ensure that any lot or batch of the drug fabricated and packaged/labelled on premises other than their own is fabricated and packaged/labelled in accordance with the requirements of this Division.
+- **(2)** Every fabricator and packager/labeller and, subject to subsections (3) and (4), every distributor referred to in paragraph C.01A.003(b) and importer of a drug shall maintain a system to ensure that any lot or batch of the drug fabricated and packaged/labelled on premises other than their own is fabricated and packaged/labelled in accordance with the requirements of this Division.
 
-- **(3)** The distributor referred to in paragraph C.01A.003(b) of a drug that is fabricated, packaged/labelled and tested in Canada by a person who holds an establishment licence that authorizes those activities is not required to comply with the requirements of subsection (2) in respect of that drug.
+- **(3)** Subsection (2) does not apply to a distributor if the drug is fabricated, packaged/labelled and tested in Canada by a person who holds an establishment licence that authorizes those activities in respect of that drug.
 
-- **(4)** If a drug is fabricated or packaged/labelled in an MRA country at a recognized building, the distributor referred to in paragraph C.01A.003(b) or importer of the drug is not required to comply with the requirements of subsection (2) in respect of that activity for that drug if
-	- **(a)** the address of the building is set out in that person’s establishment licence; and
-	- **(b)** that person retains a copy of the batch certificate for each lot or batch of the drug received by that person.
-> SOR/82-524, s. 3; SOR/97-12, s. 13; SOR/2000-120, s. 9; SOR/2002-368, s. 9.
+- **(4)** Subsection (2) does not apply to a distributor or importer if the drug is fabricated or packaged/labelled in an MRA country at a recognized building and both of the following requirements are met:
+	- **(a)** the address of the building is set out in their establishment licence; and
+	- **(b)** they retain a copy of the batch certificate for each lot or batch of the drug that they receive.
+> SOR/82-524, s. 3; SOR/97-12, s. 13; SOR/2000-120, s. 9; SOR/2002-368, s. 9; SOR/2013-74, s. 8.
 
 
 
@@ -28402,24 +28443,24 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.013** 
 
-- **(1)** Every fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall have on their premises in Canada a quality control department that is supervised by personnel described in section C.02.006.
+- **(1)** Every fabricator, packager/labeller, wholesaler, distributor referred to in section C.01A.003 and importer of a drug shall have on their premises in Canada a quality control department that is supervised by personnel described in section C.02.006.
 
-- **(2)** Except in the case of a wholesaler, the quality control department shall be a distinct organizational unit that functions and reports to management independently of any other functional unit, including the manufacturing, processing, packaging or sales unit.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, s. 55; SOR/2000-120, s. 10; SOR/2010-95, s. 4.
+- **(2)** Except in the case of a wholesaler or a distributor referred to in paragraph C.01A.003(a), the quality control department shall be a distinct organizational unit that functions and reports to management independently of any other functional unit, including the manufacturing, processing, packaging or sales unit.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, s. 55; SOR/2000-120, s. 10; SOR/2010-95, s. 4; SOR/2013-74, s. 9.
 
 
 
 
 **C.02.014** 
 
-- **(1)** Except in the case of a wholesaler, no lot or batch of a drug shall be made available for sale unless the sale of that lot or batch is approved by the person in charge of the quality control department.
+- **(1)** Except in the case of a wholesaler or a distributor referred to in paragraph C.01A.003(a), no lot or batch of a drug shall be made available for further use in fabrication or for sale unless the person in charge of the quality control department approves the sale or the further use.
 
-- **(2)** A drug that is returned to the fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer shall not be made available for further sale unless the sale of that drug is approved by the person in charge of the quality control department.
+- **(2)** A drug that is returned to its fabricator, packager/labeller, wholesaler, distributor referred to in section C.01A.003 or importer shall not be made available for further use in fabrication or for further sale unless the person in charge of the quality control department approves the further sale or further use.
 
-- **(3)** No lot or batch of raw material or of packaging/labelling material shall be used in the fabrication or packaging/labelling of a drug unless the material is approved for that use by the person in charge of the quality control department.
+- **(3)** No lot or batch of a raw material or packaging/labelling material shall be used in the fabrication or packaging/labelling of a drug unless the person in charge of the quality control department approves the use.
 
-- **(4)** No lot or batch of a drug shall be reprocessed without the approval of the person in charge of the quality control department.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 14, 55; SOR/2010-95, s. 5.
+- **(4)** No lot or batch of a drug shall be reprocessed unless the person in charge of the quality control department approves the reprocessing.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 14, 55; SOR/2010-95, s. 5; SOR/2013-74, s. 9.
 
 
 
@@ -28481,37 +28522,37 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.018** 
 
-- **(1)** Each lot or batch of a drug shall, prior to its availability for sale, be tested against the specifications for that drug.
+- **(1)** Each lot or batch of a drug shall, before it is made available for further use in fabrication or for sale, be tested against the specifications for that drug.
 
-- **(2)** No lot or batch of a drug shall be available for sale unless it complies with the specifications for that drug.
+- **(2)** No lot or batch of a drug shall be made available for further use in fabrication or for sale unless it complies with the specifications for that drug.
 
 - **(3)** The specifications referred to in subsections (1) and (2) shall
 	- **(a)** be in writing;
 	- **(b)** be approved by the person in charge of the quality control department; and
 	- **(c)** comply with the Act and these Regulations.
-> SOR/82-524, s. 3.
+> SOR/82-524, s. 3; SOR/2013-74, s. 10.
 
 
 
 
 **C.02.019** 
 
-- **(1)** Subject to subsections (3) and (4), in the case of a packager/labeller, distributor referred to in paragraph C.01A.003(b) or importer, the testing referred to in section C.02.018 shall be performed on a sample taken
-	- **(a)** after receipt of each lot or batch of the drug on the premises in Canada of the packager/labeller, distributor referred to in paragraph C.01A.003(b) or importer of the drug; or
-	- **(b)** subject to subsection (2), before receipt of each lot or batch of the drug on the premises described in paragraph (a), if
-		- **(i)** the packager/labeller, distributor referred to in paragraph C.01A.003(b) or importer
-			- **(A)** has evidence satisfactory to the Director to demonstrate that drugs sold to him by the vendor of that lot or batch of the drug are consistently manufactured in accordance with and consistently comply with the specifications for those drugs, and
-			- **(B)** undertakes periodic complete confirmatory testing with a frequency satisfactory to the Director, and
+- **(1)** A packager/labeller of a drug, a distributor referred to in paragraph C.01A.003(b) and an importer of a drug other than an active ingredient shall perform the finished product testing on a sample of the drug that is taken either
+	- **(a)** after receipt of each lot or batch of the drug on their premises in Canada; or
+	- **(b)** before receipt of each lot or batch of the drug on their premises in Canada if the following conditions are met:
+		- **(i)** the packager/labeller, distributor or importer
+			- **(A)** has evidence satisfactory to the Director to demonstrate that drugs sold to them by the vendor of that lot or batch are consistently manufactured in accordance with and consistently comply with the specifications for those drugs, and
+			- **(B)** undertakes periodic complete confirmatory testing, with a frequency satisfactory to the Director, and
 		- **(ii)** the drug has not been transported or stored under conditions that may affect its compliance with the specifications for that drug.
 
-- **(2)** Where the packager/labeller, distributor referred to in paragraph C.01A.003(b) or importer of a drug receives a lot or batch of the drug on their premises in Canada, and the useful life of the drug is more than 30 days, the lot or batch shall be tested for identity, and the packager/labeller shall confirm the identity after the lot or batch is packaged/labelled.
+- **(2)** If the packager/labeller, distributor or importer receives a lot or batch of a drug on their premises in Canada the useful life of which is more than 30 days, the lot or batch shall be tested for identity and the packager/labeller shall confirm the identity after the lot or batch is packaged/labelled.
 
-- **(3)** The distributor referred to in paragraph C.01A.003(b) of a drug that is fabricated, packaged/labelled and tested in Canada by a person who holds an establishment licence that authorizes those activities is not required to comply with the requirements of subsections (1) and (2) in respect of that drug.
+- **(3)** Subsections (1) and (2) do not apply to a distributor if the drug is fabricated, packaged/labelled and tested in Canada by a person who holds an establishment licence that authorizes that activity.
 
-- **(4)** If a drug is fabricated, packaged/labelled and tested in an MRA country at a recognized building, the distributor referred to in paragraph C.01A.003(b) or importer of that drug is not required to comply with the requirements of subsections (1) and (2) in respect of that drug if
-	- **(a)** the address of the building is set out in that person’s establishment licence; and
-	- **(b)** that person retains a copy of the batch certificate for each lot or batch of the drug received by that person.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 16, 57; SOR/2000-120, s. 11; SOR/2002-368, s. 10.
+- **(4)** Subsections (1) and (2) do not apply to a distributor or importer if the drug is fabricated, packaged/labelled and tested in an MRA country at a recognized building and both of the following requirements are met:
+	- **(a)** the address of the building is set out in their establishment licence; and
+	- **(b)** they retain a copy of the batch certificate for each lot or batch of the drug that they receive.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 16, 57; SOR/2000-120, s. 11; SOR/2002-368, s. 10; SOR/2013-74, s. 11.
 
 
 
@@ -28522,57 +28563,67 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.020** 
 
-- **(1)** Every fabricator, packager/labeller, distributor referred to in paragraph C.01A.003(b) and importer shall maintain on their premises in Canada, for each drug sold,
-	- **(a)** master production documents for the drug;
+- **(1)** Every fabricator, packager/labeller, distributor referred to in paragraph C.01A.003(b) and importer shall maintain all of the following records on their premises in Canada for each drug that they fabricate, package/label, distribute or import:
+	- **(a)** except in the case of an importer of an active pharmaceutical ingredient, master production documents for the drug;
 	- **(b)** evidence that each lot or batch of the drug has been fabricated, packaged/labelled, tested and stored in accordance with the procedures described in the master production documents;
 	- **(c)** evidence that the conditions under which the drug was fabricated, packaged/labelled, tested and stored are in compliance with the requirements of this Division;
-	- **(d)** evidence establishing the period of time during which the drug in the container in which it is sold will meet the specifications for that drug; and
-	- **(e)** adequate evidence of the testing referred to in section C.02.018.
+	- **(d)** evidence that establishes the period during which the drug in the container in which it is sold or made available for further use in fabrication will meet the specifications for that drug; and
+	- **(e)** evidence that the finished product testing referred to in section C.02.018 was carried out and the results of that testing.
 
-- **(2)** Every distributor referred to in paragraph C.01A.003(b) and importer shall make available to the Director, on request, the results of testing performed on raw materials and packaging/labelling material for each lot or batch of a drug sold.
+- **(2)** Every distributor referred to in paragraph C.01A.003(b) and importer shall make available to the Director, on request, the results of testing performed on raw materials and packaging/labelling materials for each lot or batch of a drug that it distributes or imports.
 
-- **(3)** Every fabricator shall maintain on his premises
-	- **(a)** the written specifications for the raw material; and
-	- **(b)** adequate evidence of the testing of the raw materials referred to in section C.02.009.
+- **(3)** Every fabricator shall maintain on their premises written specifications for all raw materials and adequate evidence of the testing of those raw materials referred to in section C.02.009 and of the test results.
 
-- **(4)** Every person who packages a drug shall maintain on his premises
-	- **(a)** the written specifications for the packaging material; and
-	- **(b)** adequate evidence of the packaging material examination or testing referred to in section C.02.016.
+- **(4)** Every person who packages a drug shall maintain on their premises written specifications for all packaging materials and adequate evidence of the examination or testing of those materials referred to in section C.02.016 and of any test results.
 
-- **(5)** Every fabricator shall maintain on their premises in Canada
-	- **(a)** detailed plans and specifications of each building in Canada at which they fabricate, package/label or test; and
-	- **(b)** a description of the design and construction of those buildings.
+- **(5)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada detailed plans and specifications of each building in Canada where they fabricate, package/label or test drugs and a description of the design and construction of those buildings.
 
-- **(6)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada details of the personnel employed to supervise the fabrication, packaging/labelling and testing, including each person’s title, responsibilities, qualifications, experience and training.
-> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60.
+- **(6)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada personnel records in respect of each person who is employed to supervise the fabrication, packaging/labelling and testing of drugs, including the person’s title, responsibilities, qualifications, experience and training.
+> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11.
 
 
 
 
 **C.02.021** 
 
-- **(1)** Subject to subsection (2), all records and evidence on the fabrication, packaging/labelling, testing and storage of a drug that are required to be maintained under this Division shall be retained for a period of at least one year after the expiration date on the label of the drug, unless otherwise specified in the person’s establishment licence.
+- **(1)** All records and evidence of the fabrication, packaging/labelling, finished product testing referred to in section C.02.018 and storage of a drug in dosage form that are required to be maintained under this Division shall be retained for one year after the expiration date of the drug unless the person’s establishment licence specifies some other period.
 
-- **(2)** All records and evidence on the testing of raw materials and packaging/labelling materials that are required to be maintained under this Division shall be retained for a period of at least five years after the materials were last used in the fabrication or packaging/labelling of a drug, unless otherwise specified in the person’s establishment licence.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/92-654, s. 6; SOR/97-12, s. 18.
+- **(2)** Subject to subsection (4), all records and evidence of the fabrication, packaging/labelling, finished product testing referred to in section C.02.018 and storage of an active ingredient that are required to be maintained under this Division shall be retained in respect of each lot or batch of the active ingredient for the following period unless the person holds an establishment licence that specifies some other period:
+	- **(a)** in the case of an active ingredient that has a retest date, three years after the lot or batch has been completely distributed; or
+	- **(b)** in any other case, one year after the expiration date of the lot or batch.
+
+- **(3)** Subject to subsection (4), all records and evidence of the raw material testing referred to in section C.02.009 and of the testing of packaging/labelling materials that are required to be maintained under this Division shall be retained for five years after the raw materials and packaging/labelling materials were last used in the fabrication or packaging/labelling of a drug unless the person’s establishment licence specifies some other period.
+
+- **(4)** If a fabricator is required to maintain records and evidence in respect of the same active ingredient under subsections (2) and (3), they shall maintain them for the longest period that is applicable.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/92-654, s. 6; SOR/97-12, s. 18; SOR/2013-74, s. 11.
 
 
 
 
-**C.02.022** Every distributor referred to in section C.01A.003, wholesaler and importer of a drug shall retain records of the sale of each lot or batch of the drug, which enable them to recall the lot or batch from the market, for a period of at least one year after the expiration date of that lot or batch, unless otherwise specified in their establishment licence.
-> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18.
+**C.02.022** 
+
+- **(1)** Every wholesaler, distributor referred to in section C.01A.003 and importer of a drug in dosage form shall retain records of sale of each lot or batch of the drug, which enable them to recall the lot or batch from the market, for one year after the expiration date of that lot or batch unless their establishment licence specifies some other period.
+
+- **(2)** Every distributor of an active ingredient referred to in paragraph C.01A.003(a) and every wholesaler and importer of an active ingredient shall retain records of sale of each lot or batch of the active ingredient, which enable them to recall the lot or batch from the market, for the following period unless the person holds an establishment licence that specifies some other period:
+	- **(a)** in the case of an active ingredient that has a retest date, three years after the lot or batch has been completely distributed; or
+	- **(b)** in any other case, one year after the expiration date of the lot or batch.
+> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18; SOR/2013-74, s. 11.
 
 
 
 
 **C.02.023** 
 
-- **(1)** On receipt of a complaint or any information respecting the quality of a drug or its deficiencies or hazards, every fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer of the drug, as the case may be, shall
-	- **(a)** in the case of a complaint or information described in subsection C.02.015(2), make a record of the complaint or information, its investigation and, if applicable, any corrective action taken; and
-	- **(b)** in the case of a complaint or information described in subsection C.02.015(2.1), make a record of the complaint or information, the name and business address of the person in charge of the quality control department to whom it was forwarded and the date on which it was forwarded.
+- **(1)** On receipt of a complaint or any information respecting the quality of a drug or its deficiencies or hazards, every fabricator, packager/labeller, wholesaler, distributor referred to in section C.01A.003 and importer of the drug shall make a record of the complaint or information that contains the following:
+	- **(a)** the results of any investigation carried out under subsection C.02.015(2) and, if applicable, the corrective action taken; or
+	- **(b)** the name and business address of the person in charge of the quality control department to whom the complaint or information was forwarded under subsection C.02.015(2.1) and the date on which it was forwarded.
 
-- **(2)** The fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer of the drug, as the case may be, shall retain the record for a period of at least one year after the expiration date of the lot or batch of that drug, unless their establishment licence specifies otherwise.
-> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18; SOR/2010-95, s. 7.
+- **(2)** Records referred to in subsection (1) shall be retained for the following period unless the person holds an establishment licence that specifies some other period:
+	- **(a)** in the case of a drug in dosage form, one year after the expiration date of the lot or batch of the drug; and
+	- **(b)** in the case of an active ingredient,
+		- **(i)** if the active ingredient has a retest date, three years after the lot or batch has been completely distributed, or
+		- **(ii)** in any other case, one year after the expiration date of the lot or batch of the active ingredient.
+> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18; SOR/2010-95, s. 7; SOR/2013-74, s. 11.
 
 
 
@@ -28591,16 +28642,32 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
+**C.02.024.1** Every distributor of an active ingredient referred to in paragraph C.01A.003(a) and every fabricator, packager/labeller, wholesaler and importer of an active ingredient shall add all of the following information to the documentation that accompanies the active ingredient, immediately after any like information that has been added by another person:
+- **(a)** their establishment licence number, or if there is none, their name, address, telephone number, fax number and email address;
+- **(b)** an indication whether they have fabricated, packaged/labelled, wholesaled, distributed or imported the active ingredient and the date on which that activity was carried out;
+- **(c)** the expiration date; and
+- **(d)** the lot number.
+> SOR/2013-74, s. 12.
+
+
+
+
 
 #### Samples
 
 
 **C.02.025** 
 
-- **(1)** Every distributor referred to in paragraph C.01A.003(b) and importer of a drug shall retain in Canada a sample of each lot or batch of the packaged/labelled drug for a period of at least one year after the expiration date on the label of the drug, unless otherwise specified in the distributor’s or importer’s establishment licence.
+- **(1)** Every distributor referred to in paragraph C.01A.003(b) and importer of a drug in dosage form shall retain in Canada a sample of each lot or batch of the packaged/labelled drug for one year after the expiration date of the drug unless their establishment licence specifies some other period.
 
-- **(2)** The fabricator shall retain a sample of each lot or batch of raw materials used in the fabrication of a drug for a period of at least two years after the materials were last used in the fabrication of the drug, unless otherwise specified in the fabricator’s establishment licence.
-> SOR/82-524, s. 3; SOR/89-174, s. 4(F); SOR/92-654, s. 8; SOR/97-12, s. 20.
+- **(2)** Subject to subsection (4), the fabricator of a drug in dosage form shall retain a sample of each lot or batch of raw materials used in the fabrication for two years after the materials were last used in the fabrication unless their establishment licence specifies some other period.
+
+- **(3)** Subject to subsection (4), the fabricator of an active ingredient shall retain a sample of each lot or batch of it for the following period unless their establishment licence specifies some other period:
+	- **(a)** in the case of an active ingredient that has a retest date, three years after the lot or batch has been completely distributed; or
+	- **(b)** in any other case, one year after the expiration date of the lot or batch.
+
+- **(4)** If a fabricator is required to maintain samples in respect of the same active ingredient under subsections (2) and (3), they shall maintain them for the longest period that is applicable.
+> SOR/82-524, s. 3; SOR/89-174, s. 4(F); SOR/92-654, s. 8; SOR/97-12, s. 20; SOR/2013-74, s. 13.
 
 
 
@@ -28615,14 +28682,22 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Stability
 
 
-**C.02.027** Every distributor referred to in paragraph C.01A.003(b) and importer shall establish the period of time during which each drug in the package in which it is sold will comply with the specifications.
-> SOR/82-524, s. 3; SOR/97-12, s. 58.
+**C.02.027** 
+
+- **(1)** Every distributor referred to in paragraph C.01A.003(b) and importer of a drug in dosage form shall establish the period during which each drug in the package in which it is sold will comply with the specifications for that drug.
+
+- **(2)** Every fabricator and importer of an active ingredient shall establish the period during which each drug in the package in which it is sold will comply with the specifications for that drug.
+> SOR/82-524, s. 3; SOR/97-12, s. 58; SOR/2013-74, s. 14.
 
 
 
 
-**C.02.028** Every distributor referred to in paragraph C.01A.003(b) and importer shall monitor, by means of a continuing program, the stability of the drug in the package in which it is sold.
-> SOR/82-524, s. 3; SOR/97-12, s. 58.
+**C.02.028** 
+
+- **(1)** Every distributor referred to in paragraph C.01A.003(b) and importer of a drug in dosage form shall monitor, by means of a continuing program, the stability of the drug in the package in which it is sold.
+
+- **(2)** Every fabricator and importer of an active ingredient shall monitor, by means of a continuing program, the stability of the drug in the package in which it is sold.
+> SOR/82-524, s. 3; SOR/97-12, s. 58; SOR/2013-74, s. 14.
 
 
 
@@ -28660,22 +28735,22 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.03.001** In this Division,
 
-***drug*** means a drug listed in Schedule C to the Act that is in dosage form, or a drug that is a bulk process intermediate that can be used in the preparation of a drug listed in Schedule C to the Act that is of biological origin; (*drogue*)
+***drug*** means a drug that is listed in Schedule C to the Act that is in dosage form or a drug that is an active ingredient of biological origin that can be used in the preparation of a drug listed in that Schedule; (*drogue*)
 
-***licence*** or ***Canadian licence***[Repealed, SOR/97-12, s. 22]
+***licence*** or ***Canadian licence***[Repealed, SOR/97-12, s. 22]
 
 ***manufacturer***[Repealed, SOR/97-12, s. 22]
 
-***master lot*** means a quantity of a drug from which a lot is prepared for sale by subsequent dilution or mixture; (*maître-lot*)
+***master lot*** means a quantity of a drug from which a lot is prepared for sale by subsequent dilution or mixture; (*maître-lot*)
 
-***radionuclide generator*** means a radioactive parent and daughter
+***radionuclide generator*** means a radioactive parent and daughter
 - **(a)** contained in an ion-exchange column, or
 - **(b)** dissolved in a suitable solvent in a liquid-liquid extraction system
 
 where the radioactive daughter is separated from its parent by
 - **(c)** elution from the ion exchange column, or
-- **(d)** a solvent extraction procedure. (*générateur de radionucléide*)
-> SOR/97-12, s. 22.
+- **(d)** a solvent extraction procedure. (*générateur de radionucléide*)
+> SOR/97-12, s. 22; SOR/2013-74, s. 15.
 
 
 
@@ -29290,17 +29365,17 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 
 **C.04.001** In this Division,
 
-***date of manufacture*** means
+***date of manufacture*** means
 - **(a)** in the case of a product for which a standard of potency exists, the date it satisfactorily passes a potency test,
 - **(b)** in the case of an animal product for which no standard of potency exists, the date of its removal from the animal, and
-- **(c)** in the case of a product other than an animal product for which no standard of potency exists, the date of cessation of growth; (*date de fabrication*)
+- **(c)** in the case of a product other than an animal product for which no standard of potency exists, the date of cessation of growth; (*date de fabrication*)
 
-***drug*** means a drug listed in Schedule D to the Act that is in dosage form, or a drug that is a bulk process intermediate that can be used in the preparation of a drug listed in Schedule D to the Act; (*drogue*)
+***drug*** means a drug that is listed in Schedule D to the Act that is in dosage form or a drug that is an active ingredient that can be used in the preparation of a drug listed in that Schedule; (*drogue*)
 
-***licence*** or ***Canadian licence***[Repealed, SOR/97-12, s. 31]
+***licence*** or ***Canadian licence***[Repealed, SOR/97-12, s. 31]
 
 ***manufacturer*** [Repealed, SOR/97-12, s. 31]
-> SOR/97-12, s. 31.
+> SOR/97-12, s. 31; SOR/2013-74, s. 16.
 
 
 
