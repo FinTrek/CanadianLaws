@@ -783,6 +783,109 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(2)** Lorsqu’une personne tenue de faire une déclaration en vertu de la présente partie discontinue son entreprise ou opération, la déclaration doit être produite dans les 30 jours qui suivent la date de la discontinuation de l’entreprise ou opération et doit viser la totalité ou une partie de l’année civile précédant la discontinuation de l’entreprise ou opération pour laquelle une déclaration n’a pas déjà été produite.
 
+- **(3)** Pour l’application du paragraphe 162(7.01) de la Loi, les types de déclarations de renseignements ci-après sont visés :
+<table>
+<tr>
+<td>Déclaration annuelle de renseignements du compte d’épargne libre d’impôt (CELI)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de renseignements d’un régime de pension agréé collectif (RPAC)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de renseignements pour les cotisations au régime enregistré d’épargne-retraite (REER)</td>
+<td></td>
+</tr>
+<tr>
+<td>État de la prestation universelle pour la garde d’enfants</td>
+<td>RC62</td>
+</tr>
+<tr>
+<td>État de la rémunération payée</td>
+<td>T4</td>
+</tr>
+<tr>
+<td>État des attributions et des paiements dans le cadre d’un régime de participation des employés aux bénéfices</td>
+<td>T4PS</td>
+</tr>
+<tr>
+<td>État des honoraires, des commissions ou d’autres sommes payés à des non-résidents pour services rendus au Canada</td>
+<td>T4A-NR</td>
+</tr>
+<tr>
+<td>État des montants attribués d’une convention de retraite (CR)</td>
+<td>T4A-RCA</td>
+</tr>
+<tr>
+<td>État des opérations sur titres</td>
+<td>T5008</td>
+</tr>
+<tr>
+<td>État des paiements contractuels</td>
+<td>T5018</td>
+</tr>
+<tr>
+<td>État des prestations</td>
+<td>T5007</td>
+</tr>
+<tr>
+<td>État des prestations d’assurance-emploi et autres prestations</td>
+<td>T4E</td>
+</tr>
+<tr>
+<td>État des prestations du Régime de pensions du Canada</td>
+<td>T4A(P)</td>
+</tr>
+<tr>
+<td>État des revenus de fiducie (Répartitions et attributions)</td>
+<td>T3</td>
+</tr>
+<tr>
+<td>État des revenus de placements</td>
+<td>T5</td>
+</tr>
+<tr>
+<td>État des sommes payées ou créditées à des non-résidents du Canada</td>
+<td>NR4</td>
+</tr>
+<tr>
+<td>État du revenu de pension, de retraite, de rente ou d’autres sources</td>
+<td>T4A</td>
+</tr>
+<tr>
+<td>État du revenu provenant d’un fonds enregistré de revenu de retraite</td>
+<td>T4RIF</td>
+</tr>
+<tr>
+<td>État du revenu provenant d’un régime enregistré d’épargne-retraite (REER)</td>
+<td>T4RSP</td>
+</tr>
+<tr>
+<td>Facteur d’équivalence pour services passés (FESP) exempté d’attestation</td>
+<td>T215</td>
+</tr>
+<tr>
+<td>Facteur d’équivalence rectifié (FER)</td>
+<td>T10</td>
+</tr>
+<tr>
+<td>Paiements contractuels de services du gouvernement</td>
+<td>T1204</td>
+</tr>
+<tr>
+<td>Relevé de la sécurité de la vieillesse</td>
+<td>T4A(OAS)</td>
+</tr>
+<tr>
+<td>Relevé des paiements de soutien agricole</td>
+<td>AGR-1</td>
+</tr>
+</table>
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2013-199, art. 1.
+
+
 
 
 
