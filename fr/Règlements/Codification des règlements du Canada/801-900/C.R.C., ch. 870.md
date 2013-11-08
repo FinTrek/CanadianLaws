@@ -24699,9 +24699,13 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***cuillerée à thé*** désigne, aux fins du calcul d’une dose, un volume de cinq centimètres cubes; (*teaspoon*)
 
-***date limite d’utilisation*** La plus rapprochée des dates suivantes :
-- **a)** la date, indiquée au moins par l’année et le mois, jusqu’à laquelle une drogue conserve l’activité, la pureté et les propriétés physiques précisées sur l’étiquette;
-- **b)** la date, indiquée au moins par l’année et le mois, après laquelle le fabricant recommande de ne plus employer la drogue. (*expiration date*)
+***date limite d’utilisation*** :
+- **a)** S’agissant d’une drogue sous forme posologique, celles des dates ci-après qui est antérieure à l’autre, indiquée au moins par l’année et le mois :
+	- **(i)** la date jusqu’à laquelle la drogue conserve l’activité, la pureté et les propriétés physiques précisées sur l’étiquette,
+	- **(ii)** la date après laquelle le fabricant recommande de ne plus utiliser la drogue;
+- **b)** s’agissant d’un ingrédient actif, celle des dates ci-après qui s’applique, indiquée au moins par l’année et le mois :
+	- **(i)** la date de nouvelle analyse,
+	- **(ii)** la date après laquelle le fabricant recommande de ne plus utiliser l’ingrédient actif. (*expiration date*)
 
 ***délai d’attente*** Intervalle entre le moment de la dernière administration d’une drogue à un animal et le moment où la concentration de tout résidu de la drogue présent dans les tissus ou les produits prélevés chez l’animal pour servir d’aliment ne présente vraisemblablement plus de risques pour la santé de l’être humain. (*withdrawal period*)
 
@@ -24788,7 +24792,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1.
 
 
 
@@ -27681,7 +27685,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 ***bâtiment reconnu*** À l’égard de la manufacture, de l’emballage-étiquetage ou de l’analyse d’une drogue, bâtiment qu’une autorité réglementaire, désignée aux termes du paragraphe C.01A.019(1) à l’égard de cette activité pour cette drogue, a reconnu comme satisfaisant à ses normes de bonnes pratiques de fabrication à l’égard de cette activité pour cette drogue. (*recognized building*)
 
-***certificat de lot*** Certificat délivré par le manufacturier d’un lot ou lot de fabrication d’une drogue exporté dans le cadre d’un accord de reconnaissance mutuelle et dans lequel le manufacturier :
+***certificat de lot*** Certificat délivré par le manufacturier d’un lot ou lot de fabrication d’une drogue exporté dans le cadre d’un accord de reconnaissance mutuelle et dans lequel le manufacturier :
 - **a)** identifie le document-type de production pour la drogue et atteste que le lot ou le lot de fabrication a été manufacturé, emballé-étiqueté et analysé conformément aux méthodes énoncées dans le document-type;
 - **b)** fournit une description détaillée de la drogue, y compris :
 	- **(i)** la liste des propriétés et des qualités de la drogue, y compris l’identité, l’activité et la pureté de la drogue,
@@ -27694,7 +27698,18 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 ***emballer-étiqueter*** Emballer une drogue dans son récipient immédiat ou apposer l’étiquette intérieure ou extérieure sur la drogue. (*package/label*)
 
+***grossiste*** Personne, autre qu’un distributeur visé à l’article C.01A.003, qui vend une ou plusieurs des drogues ci-après autrement qu’au détail :
+- **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi ou à l’annexe F du présent règlement ou toute drogue contrôlée au sens du paragraphe G.01.001(1);
+- **b)** un ingrédient actif;
+- **c)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md).
+
+L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
+
 ***importer*** Importer une drogue au Canada en vue de la vente. (*import*)
+
+***ingrédient actif*** Drogue qui, lorsqu’elle est utilisée comme matière première dans la manufacture d’une drogue sous forme posologique, lui confère les effets recherchés. (*active ingredient*)
+
+***ingrédient actif pharmaceutique*** Ingrédient actif utilisé dans la manufacture d’un produit pharmaceutique. (*active pharmaceutical ingredient*)
 
 ***manufacturer*** Préparer et conserver une drogue en vue de la vente. (*fabricate*)
 
@@ -27710,18 +27725,18 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 ***prémélange médicamenteux dilué*** Drogue à usage vétérinaire résultant de la combinaison d’un prémélange médicamenteux à un aliment au sens de l’article 2 de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md) de sorte qu’au taux le plus bas des posologies approuvées pour cette drogue, au moins 10 kg de la combinaison soit nécessaire pour médicamenter une tonne métrique d’un aliment complet au sens de l’article 2 du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md). (*dilute drug premix*)
 
+***produit intermédiaire en vrac*** Ingrédient actif utilisé dans la manufacture d’une drogue d’origine biologique visée à l’annexe C de la Loi ou d’une drogue visée à l’annexe D de la Loi. (*bulk process intermediate*)
+
 ***produit pharmaceutique*** Toute drogue non visée aux annexes C ou D de la Loi. (*pharmaceutical*)
 
 ***site***[Abrogée, DORS/2002-368, art. 1]
 
-***vendre en gros*** Vendre autrement qu’au détail une ou plusieurs des drogues suivantes sans que le nom du vendeur ne figure sur l’étiquette :
-- **a)** toute drogue visée aux annexes C ou D de la Loi, toute drogue visée à l’annexe F du présent règlement ou toute drogue contrôlée au sens du paragraphe G.01.001(1) de celui-ci;
-- **b)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md). (*wholesale*)
+***vendre en gros***[Abrogée, DORS/2013-74, art. 2]
 
-- **(2)** Au présent titre et au titre 2, ***drogue*** s’entend de toute drogue sous forme posologique ou de toute drogue sous forme de produit intermédiaire en vrac pouvant être utilisée dans la préparation d’une drogue d’origine biologique visée aux annexes C ou D de la Loi. La présente définition ne comprend pas le prémélange médicamenteux dilué, l’aliment médicamenté au sens de l’article 2 du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md), les drogues utilisées uniquement pour une étude expérimentale menée conformément au certificat délivré en vertu de l’article C.08.015 et les drogues visées à l’annexe H de la Loi.
+- **(2)** Au présent titre et au titre 2, le terme ***drogue*** ne vise pas le prémélange médicamenteux dilué, l’aliment médicamenté au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md), l’ingrédient actif pour usage vétérinaire et la drogue utilisée uniquement pour une étude expérimentale menée conformément au certificat délivré en vertu de l’article C.08.015.
 
 - **(3)** Lorsque le ministre désigne d’autres classes de formes posologiques, il met la liste de ces classes à la disposition de quiconque en fait la demande.
-> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1.
+> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2.
 
 
 
@@ -27754,10 +27769,10 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
-**C.01A.003** Le présent titre et les titres 2 à 4 s’appliquent au distributeur :
-- **a)** d’une drogue visée aux annexes C ou D de la Loi, d’une drogue visée à l’annexe F du présent règlement, d’une drogue contrôlée au sens du paragraphe G.01.001(1) de celui-ci ou d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md) dont il n’a pas obtenu l’identification numérique;
-- **b)** d’une drogue dont il a obtenu l’identification numérique.
-> DORS/97-12, art. 5; DORS/2002-368, art. 2.
+**C.01A.003** Le présent titre et les titres 2 à 4 s’appliquent aux distributeurs suivants :
+- **a)** le distributeur d’une drogue sous forme posologique visée à l’annexe C de la Loi ou d’un ingrédient actif;
+- **b)** celui d’une drogue dont il a obtenu l’identification numérique.
+> DORS/97-12, art. 5; DORS/2002-368, art. 2; DORS/2013-74, art. 3.
 
 
 
@@ -27769,13 +27784,15 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 **C.01A.004** 
 
 - **(1)** Sous réserve du paragraphe (2), il est interdit, sauf conformément à une licence d’établissement :
-	- **a)** de manufacturer, d’emballer-étiqueter, de distribuer à titre de distributeur visé à l’article C.01A.003, d’importer et de vendre en gros une drogue;
-	- **b)** d’effectuer les analyses, y compris les examens, exigées au titre 2.
+	- **a)** de manufacturer, d’emballer-étiqueter et d’importer une drogue;
+	- **b)** d’effectuer les analyses, y compris les examens, exigées au titre 2;
+	- **c)** de distribuer à titre de distributeur visé à l’article C.01A.003 une drogue autre qu’un ingrédient actif pharmaceutique;
+	- **d)** de vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique.
 
 - **(2)** Une personne n’est pas tenue d’être titulaire d’une licence d’établissement pour effectuer les analyses exigées au titre 2 si elle est autorisée par une licence d’établissement à manufacturer, emballer-étiqueter, distribuer à titre de distributeur visé à l’alinéa C.01A.003b) ou importer une drogue.
 
 - **(3)** Il est interdit d’exercer une activité visée au paragraphe (1) à l’égard d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md) ou d’une drogue contrôlée au sens du paragraphe G.01.001(1) du présent règlement à moins d’être titulaire de la licence prévue pour ce stupéfiant ou cette drogue dans le règlement applicable.
-> DORS/97-12, art. 5; DORS/2002-368, art. 3.
+> DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4.
 
 
 
@@ -27792,10 +27809,8 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 - **c)** chaque activité visée par la demande et figurant au tableau I de l’article C.01A.008;
 - **d)** chaque catégorie de drogues visée par la demande et figurant au tableau II de l’article C.01A.008;
 - **e)** chaque classe de forme posologique à l’égard de laquelle le demandeur se propose d’exercer une activité visée par sa licence et une mention indiquant s’il s’agit d’une drogue sous forme posologique stérile;
-- **f)** une mention indiquant si le demandeur se propose d’exercer une activité visée par sa licence à l’égard d’une drogue sous forme de produit intermédiaire en vrac;
-- **g)** l’adresse de chacun des bâtiments au Canada où le demandeur se propose de manufacturer, d’emballer-étiqueter, d’effectuer les analyses exigées au titre 2 ou d’entreposer des drogues, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues :
-	- **(i)** la classe de forme posologique et une mention indiquant s’il s’agit d’une drogue sous forme posologique stérile,
-	- **(ii)** une mention indiquant s’il s’agit d’une drogue sous forme de produit intermédiaire en vrac;
+- **f)** une mention indiquant si le demandeur se propose d’exercer une activité visée par sa licence à l’égard d’un ingrédient actif;
+- **g)** l’adresse de chacun des bâtiments au Canada où le demandeur se propose de manufacturer, d’emballer-étiqueter, d’effectuer les analyses exigées au titre 2 ou d’entreposer des drogues, avec indication, pour chaque bâtiment, des activités et des catégories de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile;
 - **h)** l’adresse de chacun des bâtiments au Canada où seront conservés les dossiers;
 - **i)** pour tout bâtiment visé aux alinéas g) ou h), une mention indiquant s’il s’agit d’une maison d’habitation;
 - **j)** l’identification numérique, le cas échéant, ou le nom qui identifie clairement la drogue s’il s’agit :
@@ -27804,20 +27819,16 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 - **k)** la date de la dernière inspection des bâtiments visés à l’alinéa g), le cas échéant, effectuée aux termes de la Loi ou du présent règlement;
 - **l)** la preuve que les bâtiments, l’équipement et les méthodes et pratiques que le demandeur propose satisfont aux exigences applicables des titres 2 à 4;
 - **m)** dans le cas de l’importateur d’une drogue qui, dans un pays participant, est manufacturée, emballée-étiquetée ou analysée dans un bâtiment reconnu :
-	- **(i)** les nom et adresse de chaque manufacturier, emballeur-étiqueteur et analyste ainsi que l’adresse de chaque bâtiment où la drogue est manufacturée, emballée-étiquetée ou analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que :
-		- **(A)** la classe de forme posologique de la drogue et une mention indiquant s’il s’agit d’une drogue sous forme posologique stérile,
-		- **(B)** une mention indiquant s’il s’agit d’une drogue sous forme de produit intermédiaire en vrac,
+	- **(i)** les nom et adresse de chaque manufacturier, emballeur-étiqueteur et analyste ainsi que l’adresse de chaque bâtiment où la drogue est manufacturée, emballée-étiquetée ou analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile,
 	- **(ii)** à l’égard de chaque activité qui, dans un pays participant, est effectuée dans un bâtiment reconnu, le nom de l’autorité réglementaire désignée aux termes du paragraphe C.01A.019(1) à l’égard de cette activité pour cette drogue, qui reconnaît ce bâtiment comme satisfaisant à ses normes de bonnes pratiques de fabrication qui ont trait à cette activité pour cette drogue,
 	- **(iii)** à l’égard des autres activités, selon le cas :
 		- **(A)** le certificat d’un inspecteur canadien indiquant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur ou de l’analyste satisfont aux exigences applicables des titres 2 à 4,
 		- **(B)** toute autre preuve établissant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur ou de l’analyste satisfont aux exigences applicables des titres 2 à 4;
-- **n)** dans le cas de tout autre importateur, les nom et adresse du manufacturier, de l’emballeur-étiqueteur et de l’analyste de qui il se propose d’importer la drogue, l’adresse de chaque bâtiment où elle sera manufacturée, emballée-étiquetée et analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues :
-	- **(i)** la classe de forme posologique et une mention indiquant s’il s’agit d’une drogue sous forme posologique stérile,
-	- **(ii)** une mention indiquant s’il s’agit d’une drogue sous forme de produit intermédiaire en vrac;
+- **n)** dans le cas de tout autre importateur, les nom et adresse du manufacturier, de l’emballeur-étiqueteur et de l’analyste de qui il se propose d’importer la drogue, l’adresse de chaque bâtiment où elle sera manufacturée, emballée-étiquetée et analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile;
 - **o)** dans le cas de l’importateur visé à l’alinéa n), selon le cas :
 	- **(i)** le certificat d’un inspecteur canadien indiquant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4,
 	- **(ii)** une autre preuve établissant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4.
-> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2.
+> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2; DORS/2013-74, art. 5.
 
 
 
@@ -27859,17 +27870,17 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 - **(1)** Sous réserve de l’article C.01A.010, le ministre délivre ou modifie une licence d’établissement sur réception des renseignements et des matériaux visés aux articles C.01A.005 à C.01A.007.
 
-- **(2)** La licence indique à la fois :
+- **(2)** La licence indique à la fois :
 	- **a)** chacune des activités autorisées et la catégorie de drogues pour chacune d’entre elles, selon les tableaux du présent article, en précisant pour chaque activité et catégorie de drogues, si des formes posologiques stériles sont autorisées;
 	- **b)** l’adresse de chacun des bâtiments au Canada où il est autorisé de manufacturer, d’emballer-étiqueter, d’analyser conformément au titre 2 et d’entreposer une catégorie de drogues en précisant, pour chacun d’eux, l’activité et la catégorie de drogues, et si des formes posologiques stériles sont autorisées;
-	- **c)** dans le cas de tout importateur, en plus des indications visées aux alinéas a) et b) :
+	- **c)** dans le cas de tout importateur, en plus des indications visées aux alinéas a) et b) :
 		- **(i)** les nom et adresse de chaque manufacturier, emballeur-étiqueteur et analyste auprès de qui il est autorisé à obtenir la drogue pour l’importation,
 		- **(ii)** l’adresse de chaque bâtiment où est autorisé la manufacture, l’emballage-étiquetage ou l’analyse de la drogue avec indication, pour chacun d’eux, des activités et de la catégorie de drogues autorisées et si des formes posologiques stériles sont autorisées.
 	- **d)** [Abrogé, DORS/2002-368, art. 5]
 
 - **(3)** Le ministre peut indiquer dans la licence d’établissement toute période pendant laquelle les dossiers doivent être conservés sous le régime du titre 2 et qui, selon le profil de sûreté de la drogue ou des matériaux, est suffisante pour assurer la protection du consommateur.
 
-- **(4)** Le ministre peut, outre les exigences visées au paragraphe (2), assortir la licence d’établissement de conditions portant sur :
+- **(4)** Le ministre peut, outre les exigences visées au paragraphe (2), assortir la licence d’établissement de conditions portant sur :
 	- **a)** les analyses à effectuer à l’égard de la drogue et l’équipement à utiliser afin que la drogue puisse être utilisée sans danger;
 	- **b)** tout autre élément nécessaire pour prévenir le risque pour la santé des consommateurs, notamment la façon dont la drogue est manufacturée, emballée-étiquetée ou analysée.
 #### TABLEAU I
@@ -27892,7 +27903,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 </tr>
 <tr>
 <td>4</td>
-<td>Distribuer à titre de distributeur visé à l’alinéa C.01A.003a)</td>
+<td>Distribuer à titre de distributeur visé à l’alinéa C.01A.003a) une drogue autre qu’un ingrédient actif pharmaceutique</td>
 </tr>
 <tr>
 <td>5</td>
@@ -27904,7 +27915,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 </tr>
 <tr>
 <td>7</td>
-<td>Vendre en gros</td>
+<td>Vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique</td>
 </tr>
 </table>
 
@@ -27917,6 +27928,10 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 <tr>
 <td>1</td>
 <td>Produit pharmaceutique</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Ingrédient actif</td>
 </tr>
 <tr>
 <td>2</td>
@@ -27940,7 +27955,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 </tr>
 </table>
 
-> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5.
+> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6.
 
 
 
@@ -28223,6 +28238,34 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
+**C.02.003.1** Il est interdit à la personne qui manufacture, emballe-étiquette, analyse ou entrepose une drogue de la vendre à moins d’avoir effectué l’activité conformément aux exigences du présent titre.
+> DORS/2013-74, art. 7.
+
+
+
+
+**C.02.003.2** 
+
+- **(1)** Il est interdit d’importer un ingrédient actif en vue de le vendre à moins qu’une personne ne soit responsable au Canada de sa vente.
+
+- **(2)** Il est interdit à toute personne qui importe un ingrédient actif d’en vendre un lot ou un lot de fabrication, à moins que les renseignements suivants ne figurent sur l’étiquette :
+	- **a)** les nom et adresse municipale de cette personne;
+	- **b)** les nom et adresse du principal établissement au Canada de la personne responsable de la vente.
+> DORS/2013-74, art. 7.
+
+
+
+
+
+#### Utilisation pour la manufacture
+
+
+**C.02.003.3** Il est interdit d’utiliser dans la manufacture d’une drogue tout ingrédient actif qui n’a pas été manufacturé, emballé-étiqueté, analysé et entreposé conformément aux exigences du présent titre.
+> DORS/2013-74, art. 7.
+
+
+
+
 
 #### Locaux
 
@@ -28346,14 +28389,14 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 	- **a)** un système de contrôle qui permet le retrait rapide et complet de tout lot ou tout lot de fabrication de la drogue se trouvant sur le marché;
 	- **b)** un programme d’auto-inspection.
 
-- **(2)** Le manufacturier, l’emballeur-étiqueteur et, sous réserve des paragraphes (3) et (4), le distributeur visé à l’alinéa C.01A.003b) et l’importateur doivent tenir un système visant à garantir que tout lot ou tout lot de fabrication de la drogue manufacturé et emballé-étiqueté ailleurs que dans leurs locaux l’est conformément aux exigences du présent titre.
+- **(2)** Le manufacturier, l’emballeur-étiqueteur et, sous réserve des paragraphes (3) et (4), le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue tiennent un système garantissant que tout lot ou tout lot de fabrication de la drogue manufacturé et emballé-étiqueté ailleurs que dans leurs locaux l’est conformément aux exigences du présent titre.
 
-- **(3)** Le distributeur visé à l’alinéa C.01A.003b) d’une drogue manufacturée, emballée-étiquetée et analysée au Canada par le titulaire d’une licence d’établissement autorisant ces activités à l’égard de cette drogue n’est pas tenu de satisfaire à l’exigence du paragraphe (2) pour cette drogue.
+- **(3)** Le paragraphe (2) ne s’applique pas au distributeur si la drogue est manufacturée, emballée-étiquetée et analysée au Canada par le titulaire d’une licence d’établissement autorisant ces activités à l’égard de celle-ci.
 
-- **(4)** Dans le cas d’une drogue qui, dans un pays participant, est manufacturée ou emballée-étiquetée dans un bâtiment reconnu, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de cette drogue n’est pas tenu de se conformer à l’exigence du paragraphe (2) à l’égard de cette activité pour cette drogue si les conditions suivantes sont réunies :
-	- **a)** l’adresse du bâtiment est indiquée dans sa licence d’établissement;
-	- **b)** pour chaque lot ou lot de fabrication de la drogue qu’il a reçu, il conserve une copie du certificat de lot.
-> DORS/82-524, art. 3; DORS/97-12, art. 13; DORS/2000-120, art. 9; DORS/2002-368, art. 9.
+- **(4)** Le paragraphe (2) ne s’applique pas au distributeur ou à l’importateur si la drogue est manufacturée ou emballée-étiquetée dans un bâtiment reconnu d’un pays participant et si les conditions ci-après sont réunies :
+	- **a)** l’adresse du bâtiment est indiquée dans la licence d’établissement du distributeur ou de l’importateur;
+	- **b)** pour chaque lot ou lot de fabrication de la drogue qu’il reçoit, le distributeur ou l’importateur conserve une copie du certificat de lot.
+> DORS/82-524, art. 3; DORS/97-12, art. 13; DORS/2000-120, art. 9; DORS/2002-368, art. 9; DORS/2013-74, art. 8.
 
 
 
@@ -28364,24 +28407,24 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.02.013** 
 
-- **(1)** Le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue ont dans leurs locaux au Canada un service du contrôle de la qualité qui est sous la surveillance du personnel visé à l’article C.02.006.
+- **(1)** Le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’article C.01A.003 et l’importateur d’une drogue ont dans leurs locaux au Canada un service du contrôle de la qualité qui est sous la surveillance du personnel visé à l’article C.02.006.
 
-- **(2)** Sauf dans le cas d’un grossiste, le service du contrôle de la qualité est un service organisationnel distinct, qui relève de la direction et fonctionne indépendamment des autres services fonctionnels, y compris les services de fabrication, de traitement, d’emballage ou des ventes.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 55; DORS/2000-120, art. 10; DORS/2010-95, art. 4.
+- **(2)** Sauf dans le cas du grossiste et du distributeur visé à l’alinéa C.01A.003a), le service du contrôle de la qualité est un service organisationnel distinct qui relève de la direction et fonctionne indépendamment des autres services fonctionnels, y compris les services de fabrication, de traitement, d’emballage ou des ventes.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 55; DORS/2000-120, art. 10; DORS/2010-95, art. 4; DORS/2013-74, art. 9.
 
 
 
 
 **C.02.014** 
 
-- **(1)** Sauf dans le cas d’un grossiste, un lot ou un lot de fabrication d’une drogue ne peut être mis en vente sans l’approbation du responsable du service du contrôle de la qualité.
+- **(1)** Sauf dans le cas du grossiste et du distributeur visé à l’alinéa C.01A.003a), il est interdit de rendre disponible pour utilisation ultérieure, dans le cadre d’un processus de manufacture, tout lot ou lot de fabrication d’une drogue, ou de mettre en vente un tel lot ou lot de fabrication, sans l’approbation du responsable du service de contrôle de la qualité.
 
-- **(2)** Une drogue qui est retournée au manufacturier, à l’emballeur-étiqueteur, au grossiste, au distributeur visé à l’alinéa C.01A.003b) ou à l’importateur ne peut être remise en vente sans l’approbation du responsable du service du contrôle de la qualité.
+- **(2)** Il est interdit au manufacturier, à l’emballeur-étiqueteur, au grossiste, au distributeur visé à l’article C.01A.003 ou à l’importateur de rendre disponible pour utilisation ultérieure, dans le cadre d’un processus de manufacture, toute drogue qui lui est retournée, ou de remettre en vente une telle drogue, sans l’approbation du responsable du service de contrôle de la qualité.
 
-- **(3)** Un lot ou un lot de fabrication de matières premières ou de matériaux d’emballage-étiquetage ne peut être utilisé pour manufacturer ou emballer-étiqueter une drogue sans l’approbation du responsable du service de contrôle de la qualité.
+- **(3)** Il est interdit d’utiliser tout lot ou lot de fabrication de matières premières ou de matériaux d’emballage-étiquetage pour manufacturer ou emballer-étiqueter une drogue sans l’approbation du responsable du service de contrôle de la qualité.
 
-- **(4)** Un lot ou un lot de fabrication d’une drogue ne peut être traité à nouveau sans l’approbation du responsable du service du contrôle de la qualité.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 14 et 55; DORS/2010-95, art. 5.
+- **(4)** Il est interdit de traiter de nouveau tout lot ou lot de fabrication d’une drogue sans l’approbation du responsable du service de contrôle de la qualité.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 14 et 55; DORS/2010-95, art. 5; DORS/2013-74, art. 9.
 
 
 
@@ -28443,37 +28486,37 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.02.018** 
 
-- **(1)** Un lot ou un lot de fabrication d’une drogue doit, avant sa mise en vente, être analysé en fonction des spécifications établies pour cette drogue.
+- **(1)** Tout lot ou lot de fabrication d’une drogue doit, avant d’être rendu disponible pour utilisation ultérieure dans le cadre d’un processus de manufacture ou mis en vente, être analysé en fonction des spécifications établies pour cette drogue.
 
-- **(2)** Un lot ou un lot de fabrication d’une drogue ne peut être mis en vente que s’il est conforme aux spécifications établies pour cette drogue.
+- **(2)** Il est interdit de rendre disponible pour utilisation ultérieure dans le cadre d’un processus de manufacture, ou de mettre en vente, tout lot ou lot de fabrication d’une drogue qui n’est pas conforme aux spécifications établies pour cette drogue.
 
 - **(3)** Les spécifications visées aux paragraphes (1) et (2) doivent
 	- **a)** être par écrit;
 	- **b)** être approuvées par le responsable du service du contrôle de la qualité; et
 	- **c)** être conformes à la Loi et au présent règlement.
-> DORS/82-524, art. 3.
+> DORS/82-524, art. 3; DORS/2013-74, art. 10.
 
 
 
 
 **C.02.019** 
 
-- **(1)** Dans le cas de l’emballeur-étiqueteur, du distributeur visé à l’alinéa C.01A.003b) et de l’importateur, les analyses visées à l’article C.02.018 doivent, sous réserve des paragraphes (3) et (4), être effectuées sur un échantillon prélevé :
-	- **a)** après la réception au Canada de chaque lot ou chaque lot de fabrication de la drogue dans les locaux de l’emballeur-étiqueteur, du distributeur visé à l’alinéa C.01A.003b) ou de l’importateur de la drogue; ou
-	- **b)** sous réserve du paragraphe (2), avant la réception de chaque lot ou chaque lot de fabrication de la drogue dans les locaux visés à l’alinéa a),
-		- **(i)** si l’emballeur-étiqueteur, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur
-			- **(A)** prouve, à la satisfaction du Directeur, que la drogue qui lui a été vendue par le vendeur du lot ou du lot de fabrication a été fabriquée d’une façon constante selon les spécifications établies pour cette drogue et qu’elle s’y conforme de manière constante, et
-			- **(B)** effectue des analyses de vérification complètes à une fréquence satisfaisant le Directeur, et
-		- **(ii)** si la drogue n’a pas été transportée ni entreposée dans des conditions pouvant modifier sa conformité aux spécifications établies à son égard.
+- **(1)** L’emballeur-étiqueteur d’une drogue, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur d’une drogue autre qu’un ingrédient actif fait l’analyse du produit fini sur un échantillon de la drogue prélevé :
+	- **a)** soit après la réception au Canada, dans ses locaux, du lot ou lot de fabrication de la drogue;
+	- **b)** soit avant la réception du lot ou lot de fabrication dans ses locaux, si les conditions ci-après sont réunies :
+		- **(i)** l’emballeur-étiqueteur, le distributeur ou l’importateur :
+			- **(A)** établit à la satisfaction du Directeur que la drogue qui lui a été vendue par le vendeur du lot ou lot de fabrication a été fabriquée d’une façon constante selon les spécifications établies pour celle-ci et qu’elle est invariablement conforme à ces spécifications,
+			- **(B)** effectue des analyses de vérification complètes à une fréquence acceptable selon le Directeur,
+		- **(ii)** la drogue n’a pas été transportée ou entreposée dans des conditions pouvant faire en sorte qu’elle ne soit plus conforme aux spécifications établies à son égard.
 
-- **(2)** Chaque lot ou lot de fabrication d’une drogue reçu au Canada dans les locaux de l’emballeur-étiqueteur, du distributeur visé à l’alinéa C.01A.003b) ou de l’importateur doit, lorsque la période de vie utile de cette drogue est de plus de 30 jours, être soumis à une analyse d’identité, celle-ci devant être confirmée par l’emballeur-étiqueteur après l’emballage-étiquetage.
+- **(2)** Chaque lot ou lot de fabrication d’une drogue reçu au Canada dans les locaux de l’emballeur-étiqueteur, du distributeur ou de l’importateur doit, lorsque la période de vie utile de cette drogue est de plus de 30 jours, être soumis à une analyse d’identité, celle-ci devant être confirmée par l’emballeur-étiqueteur après l’emballage-étiquetage.
 
-- **(3)** Le distributeur visé à l’alinéa C.01A.003b) d’une drogue manufacturée, emballée-étiquetée et analysée au Canada par le titulaire d’une licence d’établissement autorisant ces activités à l’égard de cette drogue n’est pas tenu de satisfaire aux exigences prévues aux paragraphes (1) et (2) pour cette drogue.
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas au distributeur si la drogue est manufacturée, emballée-étiquetée et analysée au Canada par le titulaire d’une licence d’établissement autorisant ces activités à l’égard de cette drogue.
 
-- **(4)** Dans le cas d’une drogue qui, dans un pays participant, est manufacturée, emballée-étiquetée et analysée dans un bâtiment reconnu, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de cette drogue n’est pas tenu de se conformer aux exigences des paragraphes (1) et (2) pour cette drogue si les conditions suivantes sont réunies :
-	- **a)** l’adresse du bâtiment est indiquée dans sa licence d’établissement;
-	- **b)** pour chaque lot ou lot de fabrication de la drogue qu’il a reçu, il conserve une copie du certificat de lot.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 16 et 57; DORS/2000-120, art. 11; DORS/2002-368, art. 10.
+- **(4)** Les paragraphes (1) et (2) ne s’appliquent ni au distributeur, ni à l’importateur si la drogue est manufacturée, emballée-étiquetée et analysée dans un bâtiment reconnu d’un pays participant et si les conditions ci-après sont réunies :
+	- **a)** l’adresse du bâtiment est indiquée dans la licence d’établissement du distributeur ou de l’importateur;
+	- **b)** pour chaque lot ou lot de fabrication de la drogue qu’il reçoit, le distributeur ou l’importateur conserve une copie du certificat de lot.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 16 et 57; DORS/2000-120, art. 11; DORS/2002-368, art. 10; DORS/2013-74, art. 11.
 
 
 
@@ -28484,57 +28527,67 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.02.020** 
 
-- **(1)** Le manufacturier, l’emballeur-étiqueteur, le distributeur visé à l’alinéa C.01A.003b) et l’importateur doivent conserver dans leurs locaux au Canada, pour chaque drogue vendue :
-	- **a)** des documents-types de production;
+- **(1)** Le manufacturier, l’emballeur-étiqueteur, le distributeur visé à l’alinéa C.01A.003b) et l’importateur conservent dans leurs locaux au Canada, pour chaque drogue qu’ils fabriquent, emballent-étiquettent, distribuent ou importent :
+	- **a)** sauf dans le cas de l’importateur d’un ingrédient actif pharmaceutique, des documents-types de production de la drogue;
 	- **b)** une preuve attestant que chaque lot ou chaque lot de fabrication de la drogue a été manufacturé, emballé-étiqueté, analysé et entreposé conformément aux méthodes énoncées dans les documents-types de production;
 	- **c)** une preuve attestant que les conditions dans lesquelles la drogue a été manufacturée, emballée-étiquetée, analysée et entreposée sont conformes aux exigences du présent titre;
-	- **d)** une preuve attestant la durée pendant laquelle la drogue, placée dans le contenant dans lequel elle est vendue, demeurera conforme aux spécifications établies à son égard; et
-	- **e)** une preuve satisfaisante des analyses visées à l’article C.02.018.
+	- **d)** une preuve attestant la période pendant laquelle la drogue demeurera conforme aux spécifications établies à son égard dans le contenant dans lequel elle est mise en vente ou rendue disponible pour utilisation ultérieure dans le cadre du processus de manufacture;
+	- **e)** une preuve attestant que les analyses du produit fini prévues à l’article C.02.018 ont été faites, accompagnée des résultats de celles-ci.
 
-- **(2)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur doivent fournir au Directeur, à sa demande, les résultats des analyses des matières premières et des matériaux d’emballage-étiquetage effectuées pour chaque lot ou lot de fabrication d’une drogue vendue.
+- **(2)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur fournissent au Directeur, sur demande, les résultats des analyses des matières premières et des matériaux d’emballage-étiquetage effectuées pour chaque lot ou lot de fabrication d’une drogue qu’ils distribuent ou importent.
 
-- **(3)** Le manufacturier doit conserver dans ses locaux :
-	- **a)** les spécifications écrites de ces matières; et
-	- **b)** une preuve satisfaisante des analyses des matières premières visées à l’article C.02.009.
+- **(3)** Le manufacturier conserve dans ses locaux les spécifications écrites relatives à ces matières ainsi qu’une preuve satisfaisante des analyses prévues à l’article C.02.009 et les résultats de celles-ci.
 
-- **(4)** La personne qui emballe une drogue doit conserver dans ses locaux :
-	- **a)** les spécifications écrites du matériel d’emballage; et
-	- **b)** une preuve satisfaisante des examens ou analyses visés à l’article C.02.016.
+- **(4)** La personne qui emballe une drogue conserve dans ses locaux les spécifications écrites relatives au matériel d’emballage ainsi qu’une preuve satisfaisante des examens ou analyses prévus à l’article C.02.016 et les résultats de ceux-ci.
 
-- **(5)** Le manufacturier doit conserver dans ses locaux au Canada :
-	- **a)** les plans et devis détaillés de chacun des bâtiments où la drogue est manufacturée, emballée-étiquetée ou analysée;
-	- **b)** la description de la conception et de la construction de ces bâtiments.
+- **(5)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada les plans et devis détaillés de chacun des bâtiments au Canada où la drogue est manufacturée, emballée-étiquetée ou analysée ainsi qu’une description de la conception et de la construction de ces bâtiments.
 
-- **(6)** Le manufacturier, l’emballeur-étiqueteur et l’analyste doivent conserver dans leurs locaux au Canada des renseignements sur les employés qui supervisent les opérations visant à manufacturer, emballer-étiqueter ou analyser la drogue, notamment le titre, les responsabilités, les qualifications, l’expérience et la formation de ces personnes.
-> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60.
+- **(6)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada un dossier sur chaque membre de son personnel qui supervise les opérations visant à manufacturer, emballer-étiqueter ou analyser la drogue, notamment son titre, ses responsabilités, ses qualifications, son expérience et sa formation.
+> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11.
 
 
 
 
 **C.02.021** 
 
-- **(1)** Sous réserve du paragraphe (2), les dossiers à tenir et les preuves à conserver aux termes du présent titre qui portent sur les opérations visant à manufacturer, emballer-étiqueter, analyser et entreposer une drogue doivent être conservés pendant au moins un an après la date limite d’utilisation indiquée sur l’étiquette de la drogue, sauf disposition contraire de la licence d’établissement de l’intéressé.
+- **(1)** Les dossiers et les preuves exigés par le présent titre qui portent sur les opéra tions visant à manufacturer, emballer-étiqueter, analyser le produit fini aux termes de l’article C.02.018 et entreposer une drogue sous forme posologique doivent être conservés pendant un an après la date limite d’utilisation de la drogue, à moins que la licence d’établissement de l’intéressé ne prévoie une autre période.
 
-- **(2)** Les dossiers et les preuves exigés par le présent titre au sujet de l’analyse des matières premières et des matériaux d’emballage-étiquetage doivent être conservés pendant au moins cinq ans après la dernière utilisation de ceux-ci au cours des opérations visant à manufacturer ou à emballer-étiqueter la drogue, sauf disposition contraire de la licence d’établissement de l’intéressé.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/92-654, art. 6; DORS/97-12, art. 18.
+- **(2)** Sous réserve du paragraphe (4), les dossiers et les preuves exigés par le présent titre qui portent sur les opérations visant à manufacturer, emballer-étiqueter, analyser le produit fini aux termes de l’article C.02.018 et entreposer un ingrédient actif doivent être conservés, pour chaque lot ou lot de fabrication de l’ingrédient actif, pendant celle des périodes ci-après qui s’applique, à moins que la licence d’établissement de l’intéressé ne prévoie une autre période :
+	- **a)** dans le cas d’un ingrédient actif ayant une date de nouvelle analyse, trois ans après la distribution complète du lot ou du lot de fabrication;
+	- **b)** dans les autres cas, un an après la date limite d’utilisation du lot ou du lot de fabrication.
+
+- **(3)** Sous réserve du paragraphe (4), les dossiers et les preuves exigés par le présent titre au sujet de l’analyse des matières premières visée à l’article C.02.009 et des matériaux d’emballage-étiquetage doivent être conservés pendant cinq ans après leur dernière utilisation au cours des opérations visant à manufacturer ou à emballer-étiqueter la drogue à moins que la licence d’établissement de l’intéressé ne prévoie une autre période.
+
+- **(4)** Si le manufacturier doit conserver des dossiers et des preuves à l’égard d’un même ingrédient actif aux termes des paragraphes (2) et (3), il les conserve pour la plus longue période applicable.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/92-654, art. 6; DORS/97-12, art. 18; DORS/2013-74, art. 11.
 
 
 
 
-**C.02.022** Le distributeur visé à l’article C.01A.003, le grossiste et l’importateur d’une drogue doivent conserver les dossiers sur la vente de chaque lot ou lot de fabrication de la drogue qui leur permettent de retirer du marché le lot ou le lot de fabrication, pendant au moins un an après la date limite d’utilisation du lot ou du lot de fabrication, sauf disposition contraire de la licence d’établissement de l’intéressé.
-> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18.
+**C.02.022** 
+
+- **(1)** Le grossiste, le distributeur visé à l’article C.01A.003 et l’importateur d’une drogue sous forme posologique conservent les dossiers sur la vente de chaque lot ou lot de fabrication de la drogue qui leur permettent de retirer du marché le lot ou lot de fabrication, pendant un an après sa date limite d’utilisation, à moins que la licence d’établissement de l’intéressé ne prévoie une autre période.
+
+- **(2)** Le distributeur d’un ingrédient actif visé à l’alinéa C.01A.003a) et le grossiste et l’importateur d’un ingrédient actif conservent les dossiers sur la vente de chaque lot ou lot de fabrication de l’ingrédient actif qui leur permettent de retirer du marché le lot ou lot de fabrication pendant celle des périodes ci-après qui s’applique, à moins que l’intéressé ne détienne une licence d’établissement qui prévoit une autre période :
+	- **a)** dans le cas d’un ingrédient actif ayant une date de nouvelle analyse, trois ans après la distribution complète du lot ou du lot de fabrication;
+	- **b)** dans les autres cas, un an après la date limite d’utilisation du lot ou du lot de fabrication.
+> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18; DORS/2013-74, art. 11.
 
 
 
 
 **C.02.023** 
 
-- **(1)** Sur réception d’une plainte ou d’un renseignement au sujet de la qualité d’une drogue — ou des défauts ou dangers qu’elle comporte — le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de la drogue, selon le cas :
-	- **a)** s’il s’agit d’une plainte ou d’un renseignement visé au paragraphe C.02.015(2), ouvre un dossier sur la plainte ou le renseignement, les enquêtes menées à leur égard et, le cas échéant, les mesures correctives prises;
-	- **b)** s’il s’agit d’une plainte ou d’un renseignement visé au paragraphe C.02.015(2.1), ouvre un dossier sur la plainte ou le renseignement et y note les nom et adresse du responsable du service du contrôle de la qualité à qui la plainte ou le renseignement a été acheminé et la date de l’acheminement.
+- **(1)** Sur réception d’une plainte ou de renseignements sur la qualité d’une drogue — ou sur des défauts ou dangers qu’elle comporte —, le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’article C.01A.003 et l’importateur de la drogue ouvrent un dossier dans lequel ils font état de la plainte ou des renseignements et consignent, selon le cas :
+	- **a)** les résultats des enquêtes qu’ils ont menées à cet égard aux termes du paragraphe C.02.015(2) et, le cas échéant, les mesures correctives prises;
+	- **b)** le nom et l’adresse du lieu de travail du responsable du service du contrôle de la qualité à qui la plainte ou le renseignement a été acheminé aux termes du paragraphe C.02.015(2.1) et la date de l’acheminement.
 
-- **(2)** Le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de la drogue, selon le cas, conserve le dossier pendant au moins un an après la date limite d’utilisation du lot ou du lot de fabrication de la drogue, sauf disposition contraire de sa licence d’établissement.
-> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18; DORS/2010-95, art. 7.
+- **(2)** Les dossiers visés au paragraphe (1) sont conservés pendant celle des périodes ci-après qui s’applique, à moins que l’intéressé ne détienne une licence d’établissement qui prévoit une autre période :
+	- **a)** dans le cas d’une drogue sous forme posologique, un an après la date limite d’utilisation du lot ou du lot de fabrication de la drogue;
+	- **b)** dans le cas d’un ingrédient actif :
+		- **(i)** s’il a une date de nouvelle analyse, trois ans après la distribution complète du lot ou du lot de fabrication,
+		- **(ii)** dans les autres cas, un an après la date limite d’utilisation du lot ou du lot de fabrication de l’ingrédient actif.
+> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18; DORS/2010-95, art. 7; DORS/2013-74, art. 11.
 
 
 
@@ -28553,16 +28606,32 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
+**C.02.024.1** Le distributeur d’un ingrédient actif visé à l’alinéa C.01A.003a) et le manufacturier, l’emballeur-étiqueteur, le grossiste et l’importateur d’un ingrédient actif inscrivent ce qui suit dans la documentation qui accompagne l’ingrédient actif, et ce, immédiatement après les renseignements de cette nature que toute autre personne y a déjà inscrits, le cas échéant :
+- **a)** le numéro de sa licence d’établissement, s’il y a lieu, ou ses nom, adresse, numéro de téléphone ainsi que son numéro de télécopieur et son adresse électronique;
+- **b)** le fait qu’il a manufacturé, emballé-étiqueté, distribué, vendu en gros ou importé l’ingrédient actif, selon le cas, et la date à laquelle il a accompli cette activité;
+- **c)** la date limite d’utilisation;
+- **d)** le numéro de lot.
+> DORS/2013-74, art. 12.
+
+
+
+
 
 #### Échantillons
 
 
 **C.02.025** 
 
-- **(1)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent conserver au Canada un échantillon de chaque lot ou lot de fabrication de la drogue emballée-étiquetée pendant au moins un an après la date limite d’utilisation indiquée sur l’étiquette de la drogue, sauf disposition contraire de la licence d’établissement de l’intéressé.
+- **(1)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue sous forme posologique conservent au Canada un échantillon de chaque lot ou lot de fabrication de la drogue emballée-étiquetée, et ce, pendant un an après la date limite d’utilisation de la drogue, à moins que leur licence d’établissement ne prévoie une autre période.
 
-- **(2)** Le manufacturier doit conserver un échantillon de chaque lot ou lot de fabrication des matières premières utilisées pour manufacturer une drogue pendant au moins deux ans après la dernière date d’utilisation de celles-ci, sauf disposition contraire de sa licence d’établissement.
-> DORS/82-524, art. 3; DORS/89-174, art. 4; DORS/92-654, art. 8; DORS/97-12, art. 20.
+- **(2)** Sous réserve du paragraphe (4), le manufacturier d’une drogue sous forme posologique conserve un échantillon de tout lot ou lot de fabrication des matières premières utilisées pour manufacturer la drogue, et ce, pendant deux ans après la dernière date d’utilisation de ces matières pour manufacturer la drogue, à moins que sa licence d’établissement ne prévoie une autre période.
+
+- **(3)** Sous réserve du paragraphe (4), le manufacturier d’un ingrédient actif conserve les échantillons de chaque lot ou lot de fabrication pendant celle des périodes ci-après qui s’applique, à moins que l’intéressé ne détienne une licence d’établissement qui prévoit une autre période :
+	- **a)** dans le cas d’un ingrédient actif ayant une date de nouvelle analyse, trois ans après la distribution complète du lot ou du lot de fabrication;
+	- **b)** dans les autres cas, un an après la date limite d’utilisation du lot ou du lot de fabrication.
+
+- **(4)** Si le manufacturier doit conserver les échantillons à l’égard d’un même ingrédient actif aux termes des paragraphes (2) et (3), il les conserve pour la plus longue période applicable.
+> DORS/82-524, art. 3; DORS/89-174, art. 4; DORS/92-654, art. 8; DORS/97-12, art. 20; DORS/2013-74, art. 13.
 
 
 
@@ -28577,14 +28646,22 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 #### Stabilité
 
 
-**C.02.027** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent déterminer la période durant laquelle la drogue, placée dans l’emballage dans lequel elle est vendue, demeurera conforme à ses spécifications.
-> DORS/82-524, art. 3; DORS/97-12, art. 58.
+**C.02.027** 
+
+- **(1)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue sous forme posologique déterminent la période durant laquelle la drogue demeurera conforme à ses spécifications dans l’emballage dans lequel elle est mise en vente.
+
+- **(2)** Le manufacturier et l’importateur d’un ingrédient actif déterminent la période durant laquelle la drogue demeurera conforme à ses spécifications dans l’emballage dans lequel elle est mise en vente.
+> DORS/82-524, art. 3; DORS/97-12, art. 58; DORS/2013-74, art. 14.
 
 
 
 
-**C.02.028** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent surveiller, dans le cadre d’un programme permanent, la stabilité de la drogue dans l’emballage dans lequel elle est vendue.
-> DORS/82-524, art. 3; DORS/97-12, art. 58.
+**C.02.028** 
+
+- **(1)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue sous forme posologique surveillent, dans le cadre d’un programme permanent, la stabilité de la drogue dans l’emballage dans lequel elle est mise en vente.
+
+- **(2)** Le manufacturier et l’importateur d’un ingrédient actif surveillent, dans le cadre d’un programme permanent, la stabilité de la drogue dans l’emballage dans lequel elle est mise en vente.
+> DORS/82-524, art. 3; DORS/97-12, art. 58; DORS/2013-74, art. 14.
 
 
 
@@ -28622,22 +28699,22 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.03.001** Dans le présent titre,
 
-***drogue*** Toute drogue sous forme posologique visée à l’annexe C de la Loi ou toute drogue sous forme de produit intermédiaire en vrac pouvant être utilisée dans la préparation d’une drogue d’origine biologique visée à l’annexe C de la Loi. (*drug*)
+***drogue*** Toute drogue sous forme posologique visée à l’annexe C de la Loi ou tout ingrédient actif d’origine biologique pouvant être utilisé dans la préparation d’une drogue visée à cette annexe. (*drug*)
 
 ***fabricant***[Abrogée, DORS/97-12, art. 22]
 
-***générateur de radionucléide*** désigne un dispositif contenant un élément mère radioactif et un élément de filiation,
+***générateur de radionucléide*** désigne un dispositif contenant un élément mère radioactif et un élément de filiation,
 - **a)** absorbés sur une colonne échangeuse d’ions, ou
 - **b)** dissous dans un solvant approprié dans un appareil d’extraction liquide-liquide,
 
 où l’élément de filiation est séparé de l’élément mère,
 - **c)** par élution sur la colonne échangeuse d’ions, ou
-- **d)** par extraction au solvant; (*radionuclide generator*)
+- **d)** par extraction au solvant; (*radionuclide generator*)
 
-***licence*** ou ***licence canadienne***[Abrogée, DORS/97-12, art. 22]
+***licence*** ou ***licence canadienne***[Abrogée, DORS/97-12, art. 22]
 
-***maître-lot*** désigne une certaine quantité d’une drogue, servant, par dilution ou mélange subséquents, à préparer un lot pour la vente. (*master lot*)
-> DORS/97-12, art. 22.
+***maître-lot*** désigne une certaine quantité d’une drogue, servant, par dilution ou mélange subséquents, à préparer un lot pour la vente. (*master lot*)
+> DORS/97-12, art. 22; DORS/2013-74, art. 15.
 
 
 
@@ -29252,17 +29329,17 @@ doit porter le symbole Pr dans le quart supérieur gauche de l’espace principa
 
 **C.04.001** Dans le présent titre,
 
-***date de fabrication*** signifie
+***date de fabrication*** signifie
 - **a)** dans le cas d’un produit pour lequel il existe une norme d’activité, la date à laquelle il subit une épreuve satisfaisante d’activité,
 - **b)** dans le cas d’un produit animal pour lequel il n’existe pas de norme d’activité, la date de son extraction de l’animal, et
-- **c)** dans le cas d’un produit autre qu’un produit animal pour lequel il n’existe pas de norme d’activité, la date de cessation de la croissance; (*date of manufacture*)
+- **c)** dans le cas d’un produit autre qu’un produit animal pour lequel il n’existe pas de norme d’activité, la date de cessation de la croissance; (*date of manufacture*)
 
-***drogue*** Toute drogue sous forme posologique visée à l’annexe D de la Loi ou toute drogue sous forme de produit intermédiaire en vrac pouvant être utilisée dans la préparation d’une drogue d’origine biologique visée à l’annexe D de la Loi. (*drug*)
+***drogue*** Toute drogue sous forme posologique visée à l’annexe D de la Loi ou tout ingrédient actif pouvant être utilisé dans la préparation d’une drogue visée à cette annexe. (*drug*)
 
 ***fabricant***[Abrogée, DORS/97-12, art. 31]
 
-***licence*** ou ***licence canadienne***[Abrogée, DORS/97-12, art. 31]
-> DORS/97-12, art. 31.
+***licence*** ou ***licence canadienne***[Abrogée, DORS/97-12, art. 31]
+> DORS/97-12, art. 31; DORS/2013-74, art. 16.
 
 
 
