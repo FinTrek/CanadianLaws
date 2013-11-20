@@ -5011,9 +5011,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(2)** In addition to the requirements set out in section S5.1.3 of TSD 120, used or retreaded tires installed on a bus, trailer, trailer converter dolly or truck shall
 	- **(a)** not have been the subject of a notice of defect;
 	- **(b)** have a tread depth greater than 1.5 mm; and
-	- **(c)** have been originally manufactured to comply with
-		- **(i)** in the case of used tires, the requirements of the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), and
-		- **(ii)** in the case of retreaded tires, Schedule V to the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), the United States Federal Motor Vehicle Safety Standard No. 119 or the Japanese Industrial Standard JIS D4230.
+	- **(c)** have been originally manufactured to comply with the requirements of any of the following that applied at the time of manufacture:
+		- **(i)** in the case of used tires, the [Motor Vehicle Tire Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/198.md) or the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), and
+		- **(ii)** in the case of retreaded tires, section 4 of the [Motor Vehicle Tire Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/198.md), Schedule V to the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), the United States Federal Motor Vehicle Safety Standard No. 119 or the Japanese Industrial Standard JIS D4230.
 
 - **(3)** The label information specified in section S5.3 of TSD 120 shall be in both official languages.
 
@@ -5037,7 +5037,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 - **(7)** This section expires on August 1, 2013.
-> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9..
+> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9; SOR/2013-198, s. 15..
 
 
 
