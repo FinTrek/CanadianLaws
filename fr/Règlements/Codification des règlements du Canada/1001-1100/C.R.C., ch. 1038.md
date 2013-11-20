@@ -5013,9 +5013,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(2)** En plus des exigences prévues à la disposition S5.1.3 du DNT 120, les pneus usagés ou rechapés qui sont installés sur un autobus, une remorque, un chariot de conversion ou un camion doivent être conformes aux exigences suivantes :
 	- **a)** ils n’ont pas fait l’objet d’un avis de défaut;
 	- **b)** leur bande de roulement est d’une épaisseur de plus de 1,5 mm;
-	- **c)** ils ont été fabriqués à l’origine de manière à être conformes aux exigences des textes suivants :
-		- **(i)** le [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md), dans le cas de pneus usagés,
-		- **(ii)** l’annexe V du [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md), la *Federal Motor Vehicle Safety Standard No. 119* des États-Unis ou la *Japanese Industrial Standard JIS D4230*, dans le cas de pneus rechapés.
+	- **c)** ils ont été fabriqués à l’origine de manière à être conformes aux exigences des textes ci-après qui s’appliquaient au moment de la fabrication :
+		- **(i)** dans le cas de pneus usagés, le [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md) ou le [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md),
+		- **(ii)** dans le cas de pneus rechapés, l’article 4 du [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md), l’annexe V du [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md), la Federal Motor Vehicle Safety Standard No. 119 des États-Unis ou la Japanese Industrial Standard JIS D4230.
 
 - **(3)** Les renseignements sur l’étiquette qui sont précisés à la disposition S5.3 du DNT 120 doivent être dans les deux langues officielles.
 
@@ -5039,7 +5039,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> août 2013.
-> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9..
+> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15..
 
 
 
@@ -6410,13 +6410,13 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(3)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être faits uniquement de matériaux conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
 - **(4)** Tout ensemble intégré de retenue doit, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble conformément au paragraphe 5.4 de la Méthode d’essai 213.4, assurer la retenue :
-	- **a) ** du haut du torse :
+	- **a)** du haut du torse :
 		- **(i)** soit au moyen de ceintures passant par-dessus chaque épaule,
 		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
-	- **b) ** du bas du torse :
+	- **b)** du bas du torse :
 		- **(i)** soit au moyen d’une ceinture formant un angle d’au moins 45° mais d’au plus 90° avec la surface assise de l’ensemble à la hauteur des points d’attache de la ceinture,
 		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
-	- **c) ** du bassin :
+	- **c)** du bassin :
 		- **(i)** soit au moyen d’une ceinture d’entrejambe qui peut être reliée à la ceinture visée au sous-alinéa b)(i), ou à la surface visée au sous-alinéa b)(ii),
 		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11).
 
@@ -6425,20 +6425,20 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(6)** Les attaches de ceinture et leurs pièces de réglage qui font partie d’un ensemble intégré de retenue doivent être conformes aux exigences des dispositions S4.3a)(2), sauf l’exigence visant le dépôt de la corrosion, et S4.3b) du DNT 209.
 
 - **(7)** Les attaches de ceinture dont sont munies les ceintures conçues pour retenir une personne dans un ensemble intégré de retenue :
-	- **a) ** dans les conditions prévues à l’article 4 de la Méthode d’essai 213.4 :
+	- **a)** dans les conditions prévues à l’article 4 de la Méthode d’essai 213.4 :
 		- **(i)** ne doivent pas s’ouvrir lorsque toute force de moins de 40 N est appliquée,
 		- **(ii)** doivent s’ouvrir lorsqu’une force d’au moins 40 N mais d’au plus 62 N est appliquée;
-	- **b) ** dans les conditions prévues à l’article 6 de la Méthode d’essai 213.4, doivent s’ouvrir lorsqu’une force d’au plus 71 N est appliquée;
-	- **c) ** doivent être conformes aux exigences de la disposition S4.3d)(2) du DNT 209, sauf que l’aire de la surface du bouton-poussoir des attaches de ceinture actionnées par un bouton-poussoir doit être d’au moins 385 mm<sup>2</sup>;
-	- **d) ** ne doivent pas s’ouvrir lors des essais dynamiques précisés à l’article 5 de la Méthode d’essai 213.4.
+	- **b)** dans les conditions prévues à l’article 6 de la Méthode d’essai 213.4, doivent s’ouvrir lorsqu’une force d’au plus 71 N est appliquée;
+	- **c)** doivent être conformes aux exigences de la disposition S4.3d)(2) du DNT 209, sauf que l’aire de la surface du bouton-poussoir des attaches de ceinture actionnées par un bouton-poussoir doit être d’au moins 385 mm<sup>2</sup>;
+	- **d)** ne doivent pas s’ouvrir lors des essais dynamiques précisés à l’article 5 de la Méthode d’essai 213.4.
 
 - **(8)** Toute sangle conçue pour retenir une personne dans un ensemble intégré de retenue doit :
-	- **a) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 avant de subir les essais visés aux alinéas b) à d), avoir une résistance à la rupture d’au moins 11 000 N;
-	- **b) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion conformément à la disposition S5.1d) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **c) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion de l’attache conformément à la disposition S5.3c) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **d) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition à la lumière conformément à la disposition S5.1e) du DNT 209, avoir une résistance à la rupture d’au moins 60 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **e) ** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition aux micro-organismes conformément à la disposition S5.1f) du DNT 209, avoir une résistance à la rupture d’au moins 85 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **f) ** si le torse d’un dispositif anthropomorphe d’essai peut toucher la sangle lorsque l’ensemble est soumis à un essai conformément à l’article 5 de la Méthode d’essai 213.4, avoir une largeur d’au moins 38 mm, mesurée conformément à la disposition S5.1a) du DNT 209.
+	- **a)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 avant de subir les essais visés aux alinéas b) à d), avoir une résistance à la rupture d’au moins 11 000 N;
+	- **b)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion conformément à la disposition S5.1d) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **c)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion de l’attache conformément à la disposition S5.3c) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **d)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition à la lumière conformément à la disposition S5.1e) du DNT 209, avoir une résistance à la rupture d’au moins 60 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **e)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition aux micro-organismes conformément à la disposition S5.1f) du DNT 209, avoir une résistance à la rupture d’au moins 85 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **f)** si le torse d’un dispositif anthropomorphe d’essai peut toucher la sangle lorsque l’ensemble est soumis à un essai conformément à l’article 5 de la Méthode d’essai 213.4, avoir une largeur d’au moins 38 mm, mesurée conformément à la disposition S5.1a) du DNT 209.
 
 - **(9)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent comporter, pour soutenir le dos d’une personne, une surface continue plate ou concave d’au moins 54 800 mm<sup>2</sup>.
 
@@ -6447,57 +6447,57 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(11)** Toute coupe transversale horizontale d’une surface d’un ensemble intégré de retenue qui est conçue pour limiter le mouvement d’une personne vers l’avant doit être plate ou concave, et toute coupe transversale longitudinale verticale de cette surface doit être plate ou convexe avec un rayon de courbure de la structure sous-jacente d’au moins 50 mm.
 
 - **(12)** Les éléments d’armature rigides qui sont sous-jacents à une surface de contact de l’ensemble intégré de retenue ou du siège d’appoint intégré ne doivent présenter :
-	- **a) ** une fois enlevé tout rembourrage ou matériel de revêtement souple, aucune protubérance de plus de 9,5 mm;
-	- **b) ** aucun bord exposé d’un rayon de moins de 6,4 mm.
+	- **a)** une fois enlevé tout rembourrage ou matériel de revêtement souple, aucune protubérance de plus de 9,5 mm;
+	- **b)** aucun bord exposé d’un rayon de moins de 6,4 mm.
 
 - **(13)** Tout ensemble intégré de retenue et tout siège d’appoint intégré, lorsqu’ils sont soumis à l’essai conformément à l’article 5 de la Méthode d’essai 213.4, à n’importe quelle position où l’ensemble, le siège d’appoint ou le siège du véhicule peut être utilisé pendant que le véhicule est en mouvement, doivent être conformes aux exigences suivantes :
-	- **a) ** ils ne présentent aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant une surface qui, selon le cas :
+	- **a)** ils ne présentent aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant une surface qui, selon le cas :
 		- **(i)** présente des protubérances de plus de 9,5 mm,
 		- **(ii)** a un rayon de moins de 6,4 mm;
-	- **b) ** ils gardent, au cours de l’essai, la même position de réglage qu’ils avaient immédiatement avant le début de l’essai;
-	- **c) ** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint;
-	- **d) ** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, la rotation de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint, dans le plan mi-sagittal de la tête, de manière que l’angle entre la tête et le torse ne soit, à aucun moment au cours de l’essai, supérieur à 45° par rapport à l’angle entre la tête et le torse immédiatement avant le début de l’essai;
-	- **e) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre installé dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms;
-	- **f) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 80 g l’accélération résultante du centre de gravité de la tête du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms, à moins qu’il ne soit établi que l’accélération résultante au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de celui-ci;
-	- **g) ** ils ne présentent pas un angle entre la surface de l’ensemble ou du siège d’appoint destinée à soutenir le dos et leur surface assise qui soit inférieur à 45° à la fin de l’essai;
-	- **h) ** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent, à tout moment pendant et immédiatement après l’essai, le déplacement de l’un ou l’autre des points d’articulation du genou de leur position avant l’essai à au plus 305 mm vers l’avant dans l’axe longitudinal.
+	- **b)** ils gardent, au cours de l’essai, la même position de réglage qu’ils avaient immédiatement avant le début de l’essai;
+	- **c)** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint;
+	- **d)** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, la rotation de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint, dans le plan mi-sagittal de la tête, de manière que l’angle entre la tête et le torse ne soit, à aucun moment au cours de l’essai, supérieur à 45° par rapport à l’angle entre la tête et le torse immédiatement avant le début de l’essai;
+	- **e)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre installé dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms;
+	- **f)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 80 g l’accélération résultante du centre de gravité de la tête du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms, à moins qu’il ne soit établi que l’accélération résultante au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de celui-ci;
+	- **g)** ils ne présentent pas un angle entre la surface de l’ensemble ou du siège d’appoint destinée à soutenir le dos et leur surface assise qui soit inférieur à 45° à la fin de l’essai;
+	- **h)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent, à tout moment pendant et immédiatement après l’essai, le déplacement de l’un ou l’autre des points d’articulation du genou de leur position avant l’essai à au plus 305 mm vers l’avant dans l’axe longitudinal.
 
 - **(14)** Les ceintures qui font partie d’un ensemble intégré de retenue et qui sont conçues pour retenir une personne dans l’ensemble ne doivent pas imposer au dispositif anthropomorphe d’essai, lorsque l’ensemble est soumis à un essai dynamique conformément à l’article 5 de la Méthode d’essai 213.4, aucune charge provenant de la masse de l’ensemble ou de la masse de toute partie du véhicule auquel l’ensemble est intégré.
 
 - **(15)** Le dossier continu visé aux alinéas (13)c) et d) doit avoir :
-	- **a) ** une hauteur :
+	- **a)** une hauteur :
 		- **(i)** d’au moins 500 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation que par une personne dont la masse est d’au plus 18 kg,
 		- **(ii)** d’au moins 560 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation par une personne dont la masse est de plus de 18 kg;
-	- **b) ** une largeur d’au moins 200 mm, mesurée dans le plan horizontal à une hauteur de 500 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(i) ou à une hauteur de 560 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(ii).
+	- **b)** une largeur d’au moins 200 mm, mesurée dans le plan horizontal à une hauteur de 500 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(i) ou à une hauteur de 560 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(ii).
 
 - **(16)** Le paragraphe (15) ne s’applique pas dans les cas suivants :
-	- **a) ** un ensemble intégré de retenue qui est conçu pour accueillir un dispositif anthropomorphe d’essai ayant, sur chaque côté, un point cible qui est inférieur à un plan horizontal tangent à la partie supérieure du siège du véhicule, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble intégré de retenue conformément à la Méthode d’essai 213.4;
-	- **b) ** un ensemble intégré de retenue qui est conçu pour accueillir le dispositif anthropomorphe d’essai précisé à la sous-partie N, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ou un dispositif anthropomorphe d’essai d’une taille supérieure.
+	- **a)** un ensemble intégré de retenue qui est conçu pour accueillir un dispositif anthropomorphe d’essai ayant, sur chaque côté, un point cible qui est inférieur à un plan horizontal tangent à la partie supérieure du siège du véhicule, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble intégré de retenue conformément à la Méthode d’essai 213.4;
+	- **b)** un ensemble intégré de retenue qui est conçu pour accueillir le dispositif anthropomorphe d’essai précisé à la sous-partie N, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ou un dispositif anthropomorphe d’essai d’une taille supérieure.
 
 - **(17)** Pour l’application du paragraphe (15), la hauteur du dossier continu doit être mesurée, dans un plan parallèle à la surface du dossier de l’ensemble intégré de retenue et orthogonal au plan longitudinal vertical passant par l’axe longitudinal de l’ensemble, à partir du point le plus bas de la surface assise de l’ensemble auquel touchent les fesses du dispositif anthropomorphe d’essai en position assise.
 
 - **(18)** Malgré l’alinéa (15)b), s’il comporte des surfaces qui sont destinées à soutenir les côtés du torse et qui s’étendent d’au moins 100 mm vers l’avant de la surface rembourrée de la portion de l’ensemble intégré de retenue ou du siège d’appoint intégré servant au support de la tête du dispositif anthropomorphe d’essai, l’ensemble ou le siège d’appoint peut avoir un dossier continu d’une largeur d’au moins 150 mm.
 
 - **(19)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent porter les renseignements ci-après piqués à même le tissu ou imprimés de façon indélébile, soit en creux ou en relief sur l’ensemble ou le siège d’appoint, soit sur une étiquette qui y est apposée de façon permanente :
-	- **a) ** une mention indiquant :
+	- **a)** une mention indiquant :
 		- **(i)** les masses et tailles minimales et maximales — en unités basées sur le système international d’unités et les unités de mesure impériales — des personnes pour lesquelles le fabricant recommande l’ensemble ou le siège d’appoint,
 		- **(ii)** dans le cas d’un siège d’appoint, qu’il doit être utilisé par des personnes dont la masse est d’au moins 18 kg;
-	- **b) ** un avertissement indiquant que :
+	- **b)** un avertissement indiquant que :
 		- **(i)** le fait de ne pas suivre les instructions du fabricant concernant l’utilisation de l’ensemble ou du siège d’appoint peut causer des blessures graves, voire mortelles,
 		- **(ii)** si l’ensemble est muni de ceintures pour retenir la personne, celles-ci doivent être ajustées étroitement au corps de celle-ci.
 
 - **(20)** Les renseignements visés au paragraphe (19) doivent être :
-	- **a) ** dans les deux langues officielles et en caractères d’au moins 10 points;
-	- **b) ** complètement visibles lorsque l’ensemble intégré de retenue ou le siège d’appoint intégré est configuré pour être utilisé.
+	- **a)** dans les deux langues officielles et en caractères d’au moins 10 points;
+	- **b)** complètement visibles lorsque l’ensemble intégré de retenue ou le siège d’appoint intégré est configuré pour être utilisé.
 
 - **(21)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être accompagnés d’instructions imprimées, dans les deux langues officielles, qui indiquent, notamment à l’aide de diagrammes, la marche à suivre détaillée pour :
-	- **a) ** utiliser l’ensemble ou le siège d’appoint;
-	- **b) ** placer une personne dans l’ensemble ou le siège d’appoint;
-	- **c) ** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
+	- **a)** utiliser l’ensemble ou le siège d’appoint;
+	- **b)** placer une personne dans l’ensemble ou le siège d’appoint;
+	- **c)** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
 
 - **(22)** Les instructions visées au paragraphe (21) doivent :
-	- **a) ** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
-	- **b) ** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
+	- **a)** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
+	- **b)** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
 
 - **(23)** Les paragraphes (2), (3) et (6) à (8) cessent d’avoir effet le 1<sup>er</sup> septembre 2017.
 
