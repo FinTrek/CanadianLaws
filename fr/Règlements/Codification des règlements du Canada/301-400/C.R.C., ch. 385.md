@@ -45,7 +45,7 @@ Autorités habilitantes :
 - **b)** la culture du sol,
 - **c)** la conservation du sol, y compris la construction, l’entretien et le fonctionnement de réseaux de tuyaux de drainage, de fossés, de canaux, de réservoirs ou de cours d’eau servant exclusivement à cultiver le sol,
 - **d)** la production, la récolte, l’entreposage ou le classement de tout produit agricole naturel,
-- **e)** l’aménagement d’un terrain pour la culture ou la cueillette de bois sauvages,
+- **e)** l’aménagement d’un terrain pour la culture ou la cueillette de baies sauvages,
 - **f)** l’apiculture et la production du miel,
 - **g)** la reproduction ou l’élevage de chevaux, de bêtes de somme, de bovins, de moutons, de chèvres, de porcs, d’animaux à fourrure, d’oiseaux de toutes espèces ou la production des oeufs,
 - **h)** l’industrie laitière et la préparation du lait, du beurre ou du fromage dans la ferme où le lait est produit,
@@ -84,7 +84,7 @@ et comprend tous les services incidents à l’exécution de l’une quelconque 
 ***sylviculture*** signifie la plantation, la reproduction, la propagation, la production, la protection, le mesurage ou la coupe des arbres lorsque ces opérations sont effectuées dans une forêt, sur un terrain boisé ou sur une terre à bois, et englobe tous les services se rattachant à ces activités dès lors que ces services sont rendus là où les activités sont exercées. (*forestry*)
 
 - **(3)** Aux fins des définitions ***exploitation forestière*** et ***débit des bois*** du paragraphe (2), ***bois d’oeuvre*** signifie billes de toutes grosseurs, bois à lattes, bois à pâte, bois de feu, bois pour traverses de chemin de fer, bois de placage, poteaux, billots, pilotis, étais de mines, perches, pieux, écorces, copeaux ou tout bois brut avant d’être usiné ou autrement ouvré.
-> DORS/92-17, art. 1; DORS/96-522, art. 1; DORS/2013-61, art. 1.
+> DORS/92-17, art. 1; DORS/96-522, art. 1; DORS/2013-61, art. 1; DORS/2013-208, art. 1.
 
 
 
@@ -380,28 +380,28 @@ Cette présomption s’applique tant que demeure impayé un montant que la perso
 
 - **(1)** Dans la présente partie,
 
-***emploi dans le transport international*** désigne l’emploi d’une personne au cours d’une période de paie
+***emploi dans le transport international*** désigne l’emploi auquel s’adonne principalement une personne au cours d’une période de paie et qui est exercé partiellement au Canada et partiellement hors du Canada, selon le cas :
 - **a)** sur un navire,
-- **b)** sur un aéronef utilisé dans l’exploitation d’un service de transport commercial par air par une personne qui est classée comme voiturier international par air en vertu du Règlement sur les transporteurs aériens,
-- **c)** sur un train de marchandises ou de voyageurs, ou
-- **d)** à l’égard d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis,
-
-lorsqu’un tel emploi constitue l’emploi auquel s’adonne principalement cette personne dans la période de paie et que cet emploi s’exerce partiellement au Canada et partiellement hors du Canada; (*employment in international transportation*)
+- **b)** à bord d’un aéronef utilisé dans l’exploitation d’un service aérien commercial par une personne qui possède une licence lui permettant d’exploiter un service international en application de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md),
+- **c)** sur un train de marchandises ou de voyageurs,
+- **d)** à bord d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs États des États-Unis; (*employment in international transportation*)
 
 ***employeur exerçant des opérations au Canada*** comprend
 - **a)** Sa Majesté du chef du Canada,
-- **b)** Sa Majesté du chef d’une province, si l’emploi par Sa Majesté du chef de cette province a été inclus par règlement dans l’emploi ouvrant droit à pension en conformité de l’alinéa 7(1)e) de la Loi,
-- **c)** un mandataire de Sa Majesté du chef d’une province, si l’emploi par ce mandataire a été inclus par règlement dans l’emploi ouvrant droit à pension en conformité de l’alinéa 7(1)e) de la Loi, et
+- **b)** Sa Majesté du chef d’une province, si l’emploi par Sa Majesté du chef de cette province a été inclus par règlement dans l’emploi ouvrant droit à pension en conformité de l’alinéa 7(1)e) de la Loi,
+- **c)** un mandataire de Sa Majesté du chef d’une province, si l’emploi par ce mandataire a été inclus par règlement dans l’emploi ouvrant droit à pension en conformité de l’alinéa 7(1)e) de la Loi, et
 - **d)** tout employeur qui a un établissement au Canada et qui
-	- **(i)** est assujetti à l’impôt sur le revenu en vertu de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), ou
-	- **(ii)** serait, si ce n’était de l’article 149 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), assujetti à l’impôt sur le revenu en vertu de la partie I de ladite Loi,
+	- **(i)** est assujetti à l’impôt sur le revenu en vertu de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), ou
+	- **(ii)** serait, si ce n’était de l’article 149 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), assujetti à l’impôt sur le revenu en vertu de la partie I de ladite Loi,
 pour toute année d’imposition pour laquelle il a un revenu imposable; (*employer operating in Canada*)
 
 ***établissement au Canada***, à l’égard d’un employeur, signifie tout bureau, entrepôt, fabrique, puits d’huile, puits de gaz, mine, atelier, exploitation agricole, concession forestière, quai, jetée, école, collège, club, résidence, hôtel, motel, restaurant, taverne, bar ou tout autre endroit ou lieu au Canada, possédé ou pris à bail par l’employeur ou pour lequel il a obtenu un permis et où l’employeur ou l’un ou plusieurs de ses employés travaillent ou se présentent au travail ou duquel ou auquel endroit l’un ou plusieurs de ses employés sont payés; (*establishment in Canada*)
 
-***navire*** a la même signification que dans la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md). (*ship*)
+***navire*** désigne un bâtiment, un bateau ou une embarcation utilisé — ou conçu pour l’être — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci. (*ship*)
 
-- **(2)** Tous les autres mots ou expressions ont la même signification que dans la partie I.
+- **(2)** Tous les autres mots ou expressions ont la même signification que dans la partie I.
+> DORS/2013-208, art. 2.
+
 
 
 
@@ -458,20 +458,25 @@ et que l’employeur s’est engagé en la forme prescrite à payer les cotisati
 **18** 
 
 - **(1)** Lorsqu’un employeur exerçant des opérations au Canada emploie des personnes dans le transport international sur un navire qui est exploité en vertu d’un contrat d’engagement de l’équipage conclu au Canada, l’emploi ouvrant droit à pension comprend,
-	- **a)** lorsque ce navire exécute un voyage de long cours ou un voyage de cabotage, l’emploi, sur le navire, de toute personne qui a un lieu de domicile au Canada ainsi que le définit le paragraphe (3); et
-	- **b)** lorsque ce navire exécute un voyage autre qu’un voyage de long cours ou un voyage de cabotage, toutes les personnes employées sur le navire.
+	- **a)** lorsque ce navire exécute un voyage — autre qu’un voyage en eaux internes —, l’emploi, sur le navire, de toute personne qui a un lieu de domicile au Canada;
+	- **b)** lorsque ce navire exécute un voyage en eaux internes, l’emploi de toutes les personnes employées sur le navire.
 
 - **(2)** Lorsqu’un employeur exerçant des opérations au Canada emploie des personnes dans le transport international sur un navire qui n’est pas exploité en vertu d’un contrat d’engagement de l’équipage, l’emploi ouvrant droit à pension comprend tout emploi sur le navire s’il est surtout exploité au Canada et près du Canada.
 
 - **(3)** Aux fins du présent article, une personne a un lieu de domicile au Canada si
 	- **a)** elle est un citoyen canadien; ou
-	- **b)** elle est un immigrant qui a antérieurement fait un débarquement au Canada et qui a un lieu au Canada (autre qu’un lieu où il réside pour une fin spéciale ou temporaire) auquel il retourne de temps à autre à titre de lieu de demeure permanente.
+	- **b)** elle est un résident permanent au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et utilise de temps à autre un lieu au Canada à titre de lieu de demeure permanente.
 
-- **(4)** Dans le présent article,
-	- **a)** les expressions ***contrat d’engagement de l’équipage***, ***voyage de long cours*** et ***voyage de cabotage*** ont la même signification que dans la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
-	- **b)** l’expression ***citoyen canadien*** a la même signification que dans la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md); et
-	- **c)** les mots ***immigrants*** et ***débarquement*** ont la même signification que dans la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
-> 2001, ch. 27, art. 273.
+- **(4)** Les définitions qui suivent s’appliquent au présent article.
+
+***contrat d’engagement de l’équipage*** S’entend d’un contrat d’engagement conclu sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*agreement with the crew*)
+
+***voyage en eaux internes*** S’entend de tout voyage effectué, selon le cas :
+- **a)** dans tout fleuve, rivière, lac ou toutes autres eaux douces navigables à l’intérieur du Canada, notamment le fleuve Saint-Laurent aussi loin vers la mer qu’une ligne droite tirée de Cap-des-Rosiers à Pointe-de-l’Ouest sur l’île d’Anticosti, et de l’île d’Anticosti à la rive nord du fleuve Saint-Laurent le long du méridien de longitude 63° ouest,
+- **b)** dans toute partie d’un lac, d’un fleuve ou d’une rivière faisant corps avec les eaux internes du Canada située aux États-Unis,
+- **c)** sur le lac Michigan,
+- **d)** dans toutes eaux abritées le long des côtes du Canada et visées à l’annexe 1 du [Règlement sur les certificats de bâtiment](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/31.md). (*inland voyage*)
+> 2001, ch. 27, art. 273; DORS/2013-208, art. 3.
 
 
 
@@ -480,7 +485,9 @@ et que l’employeur s’est engagé en la forme prescrite à payer les cotisati
 ### Aéronefs
 
 
-**19** L’emploi ouvrant droit à pension comprend l’emploi dans le transport international à bord d’un aéronef utilisé dans l’exploitation d’un service de transport commercial par air par une personne qui est classée par le Règlement sur les transporteurs aériens comme transporteur international par air ou transporteur national par air.
+**19** L’emploi ouvrant droit à pension comprend l’emploi dans le transport international à bord d’un aéronef utilisé dans l’exploitation d’un service aérien commercial par une personne qui possède une licence lui permettant d’exploiter un service international et un service intérieur en application de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+> DORS/2013-208, art. 4.
+
 
 
 
@@ -494,7 +501,9 @@ et que l’employeur s’est engagé en la forme prescrite à payer les cotisati
 
 - **(2)** L’emploi ouvrant droit à pension comprend, dans le cas d’un emploi dans le transport international à bord d’un train de marchandises ou de passagers, exploité par une compagnie de chemin de fer dont la principale place d’affaires est hors du Canada, la partie de l’emploi d’une personne résidant au Canada que l’employeur détermine (selon une norme approuvée par le ministre) être à l’égard d’emploi au Canada.
 
-- **(3)** Dans le présent article, l’expression ***compagnie de chemin de fer*** a la même signification que dans la Loi sur les chemins de fer.
+- **(3)** Au présent article, ***compagnie de chemin de fer*** s’entend au sens de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+> DORS/2013-208, art. 5.
+
 
 
 
@@ -502,9 +511,11 @@ et que l’employeur s’est engagé en la forme prescrite à payer les cotisati
 ### Véhicules automobiles
 
 
-**21** L’emploi ouvrant droit à pension comprend l’emploi dans le transport international à l’égard d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis, si
+**21** L’emploi ouvrant droit à pension comprend l’emploi dans le transport international à bord d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis, si
 - **a)** la personne ainsi employée est un résident du Canada; et
 - **b)** le véhicule automobile est exploité pour les fins d’une entreprise qui est considérée, aux fins de l’imposition en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), comme une entreprise du Canada.
+> DORS/2013-208, art. 6.
+
 
 
 
@@ -519,7 +530,7 @@ et que l’employeur s’est engagé en la forme prescrite à payer les cotisati
 	- **b)** n’a pas d’établissement au Canada,
 est exclu de l’emploi ouvrant droit à pension.
 
-- **(2)** Nonobstant le paragraphe (1) mais sous réserve du paragraphe (3), l’emploi ouvrant droit à pension comprend
+- **(2)** Nonobstant le paragraphe (1) mais sous réserve du paragraphe (3), l’emploi ouvrant droit à pension comprend
 	- **a)** l’emploi au Canada d’une personne
 		- **(i)** qui réside au Canada, et
 		- **(ii)** qui est employée par un employeur qui
@@ -527,18 +538,18 @@ est exclu de l’emploi ouvrant droit à pension.
 			- **(B)** n’a pas d’établissement au Canada, et
 	- **b)** dans le cas d’une personne
 		- **(i)** qui réside au Canada, et
-		- **(ii)** qui est employée dans le transport international à l’égard d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis et qui est exploité pour les fins d’une entreprise qui est considérée, aux fins de l’imposition en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), comme une entreprise des États-Unis,
+		- **(ii)** qui est employée dans le transport international à bord d’un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis et qui est exploité pour les fins d’une entreprise qui est considérée, aux fins de l’imposition en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), comme une entreprise des États-Unis,
 la partie de l’emploi d’une telle personne qui est au Canada,
-si l’employeur a pris des dispositions à la satisfaction du ministre pour payer les cotisations de l’employé et de l’employeur à l’égard d’un tel emploi en conformité de l’article 8 et pour produire des déclarations de renseignements à l’égard de l’emploi comme l’exige la partie II.
+si l’employeur a pris des dispositions à la satisfaction du ministre pour payer les cotisations de l’employé et de l’employeur à l’égard d’un tel emploi en conformité de l’article 8 et pour produire des déclarations de renseignements à l’égard de l’emploi comme l’exige la partie II.
 
-- **(3)** Lorsque l’emploi désigné à l’alinéa (2)a) ou b) est occupé dans une province instituant un régime général de pensions, cet emploi n’est pas inclus dans l’emploi ouvrant droit à pension à moins que l’employeur n’ait pris des dispositions (au lieu des dispositions à la satisfaction du ministre, désignées au paragraphe (2)) à la satisfaction des autorités chargées de l’administration du régime provincial de pensions en vue du paiement, en vertu de ce régime, des cotisations à l’égard de l’emploi.
+- **(3)** Lorsque l’emploi désigné à l’alinéa (2)a) ou b) est occupé dans une province instituant un régime général de pensions, cet emploi n’est pas inclus dans l’emploi ouvrant droit à pension à moins que l’employeur n’ait pris des dispositions (au lieu des dispositions à la satisfaction du ministre, désignées au paragraphe (2)) à la satisfaction des autorités chargées de l’administration du régime provincial de pensions en vue du paiement, en vertu de ce régime, des cotisations à l’égard de l’emploi.
 
-- **(4)** L’alinéa 15(1)b) de la Loi ne s’applique pas à l’égard de l’emploi d’une personne dans un emploi qui est inclus par le paragraphe (2) dans l’emploi ouvrant droit à pension.
+- **(4)** L’alinéa 15(1)b) de la Loi ne s’applique pas à l’égard de l’emploi d’une personne dans un emploi qui est inclus par le paragraphe (2) dans l’emploi ouvrant droit à pension.
 
-- **(5)** Lorsque l’employeur d’un employé dont il est question au paragraphe (2) n’a pas d’établissement au Canada au sens du paragraphe 4(4) de la Loi, l’employé sera censé se présenter au travail à un établissement de l’employeur, situé dans la province où
+- **(5)** Lorsque l’employeur d’un employé dont il est question au paragraphe (2) n’a pas d’établissement au Canada au sens du paragraphe 4(4) de la Loi, l’employé sera censé se présenter au travail à un établissement de l’employeur, situé dans la province où
 	- **a)** l’employé travaille ordinairement ou accomplit ordinairement la plus grande partie de son travail au Canada; ou
-	- **b)** l’employé, dans tout cas où une détermination ne peut être faite en vertu de l’alinéa a), réside au Canada.
-> DORS/90-829, art. 4.
+	- **b)** l’employé, dans tout cas où une détermination ne peut être faite en vertu de l’alinéa a), réside au Canada.
+> DORS/90-829, art. 4; DORS/2013-208, art. 7.
 
 
 
@@ -690,16 +701,16 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 **34.1** 
 
 - **(1)** Nonobstant toute autre disposition de la présente partie,
-	- **a)** sous réserve du paragraphe 6(2) de la Loi, lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie aux lois du Canada au cours d’une année donnée, l’emploi qu’elle occupe dans ces circonstances est un emploi ouvrant droit à pension pour cette année, si :
-		- **(i)** son employeur est un employeur exerçant des opérations au Canada, au sens du paragraphe 15(1),
-		- **(ii)** son employeur s’est engagé, selon la forme prescrite, à verser conformément aux articles 8 et 9 de la Loi les cotisations de cet employé ainsi que celles de l’employeur pour l’année et à produire, conformément à la partie II, des déclarations de renseignements, ou
-		- **(iii)** dans le cas où son employeur n’est pas un employeur exerçant des opérations au Canada et ne s’est pas engagé selon le sous-alinéa (ii) ou ne s’est pas conformé à cet engagement durant l’année, et si la personne satisfait aux exigences des alinéas 29c) et f) relativement à cette année; et
-	- **b)** lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie pendant une année donnée aux lois de l’autre pays partie à l’accord, l’emploi qu’elle occupe dans ces circonstances n’est pas un emploi ouvrant droit à pension pour cette année.
+	- **a)** sous réserve du paragraphe 6(2) de la Loi, lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie aux lois du Canada au cours d’une année donnée, l’emploi qu’elle occupe dans ces circonstances est un emploi ouvrant droit à pension pour cette année, si :
+		- **(i)** son employeur est un employeur exerçant des opérations au Canada, au sens du paragraphe 15(1),
+		- **(ii)** son employeur s’est engagé, selon la forme prescrite, à verser conformément aux articles 8 et 9 de la Loi les cotisations de cet employé ainsi que celles de l’employeur pour l’année et à produire, conformément à la partie II, des déclarations de renseignements, ou
+		- **(iii)** son employeur n’est pas un employeur exerçant des opérations au Canada et n’a pas pris l’engagement visé au sous-alinéa (ii) ou ne s’est pas conformé à cet engagement durant l’année, et que la personne satisfait aux exigences des alinéas 29c) à f) relativement à cette année;
+	- **b)** lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie pendant une année donnée aux lois de l’autre pays partie à l’accord, l’emploi qu’elle occupe dans ces circonstances n’est pas un emploi ouvrant droit à pension pour cette année.
 
-- **(2)** L’alinéa 15(1)b) de la Loi ne s’applique pas à un emploi qu’occupe une personne et qui est un emploi ouvrant droit à pension en vertu du sous-alinéa (1)a)(ii).
+- **(2)** L’alinéa 15(1)b) de la Loi ne s’applique pas à un emploi qu’occupe une personne et qui est un emploi ouvrant droit à pension en vertu du sous-alinéa (1)a)(ii).
 
 - **(3)** Aux fins du présent article, le terme ***lois*** a le sens que lui prête l’accord applicable.
-> DORS/80-877, art. 1; DORS/90-829, art. 7; DORS/96-522, art. 2.
+> DORS/80-877, art. 1; DORS/90-829, art. 7; DORS/96-522, art. 2; DORS/2013-208, art. 8(F).
 
 
 
