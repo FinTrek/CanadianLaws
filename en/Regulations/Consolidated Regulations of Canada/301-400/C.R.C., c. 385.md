@@ -63,8 +63,8 @@ when carried on on a farm for the benefit of an individual or other person who i
 
 ***horticulture*** means
 - **(a)** the operations relating to the breeding, producing, raising or harvesting of
-	- **(i)** legumes, flowers, shrubs or ornamental grasses, and
-	- **(ii)** seeds, seedlings, grafts and cuttings of legumes, flowers, shrubs or ornamental grasses, and
+	- **(i)** vegetables, flowers, shrubs or ornamental grasses, and
+	- **(ii)** seeds, seedlings, grafts and cuttings of vegetables, flowers, shrubs or ornamental grasses, and
 - **(b)** the operations relating to landscape gardening where the landscape gardening is incidental to the carrying on of
 	- **(i)** any of the operations described in paragraph (a), or
 	- **(ii)** agriculture,
@@ -84,7 +84,7 @@ and includes all services incidental to the carrying on of any of the operations
 ***trapping*** means the operations involved in using any trap, snare or other device for taking or destroying any wild animal, but does not include any operation involved in carrying on the business of rodent extermination. (*piégeage*)
 
 - **(3)** For the purposes of the definitions ***logging*** and ***lumbering*** in subsection (2), ***timber*** means logs of any size, lathwood, pulpwood, fuelwood, tiewood, veneerwood, posts, bolts, piles, pit props, spars, stakes, bark, chips or any crude wood before it has been milled or otherwise manufactured.
-> SOR/92-17, s. 1; SOR/96-522, s. 1; SOR/2013-61, s. 1.
+> SOR/92-17, s. 1; SOR/96-522, s. 1; SOR/2013-61, s. 1; SOR/2013-208, s. 1.
 
 
 
@@ -382,26 +382,26 @@ so long as any amount deemed under any enactment administered by the Minister, o
 
 ***employer operating in Canada*** includes
 - **(a)** Her Majesty in right of Canada,
-- **(b)** Her Majesty in right of a province, if employment by Her Majesty in right of that province has been included in pensionable employment by regulation in accordance with paragraph 7(1)(e) of the Act,
-- **(c)** an agent of Her Majesty in right of a province, if employment by that agent has been included in pensionable employment by regulation in accordance with paragraph 7(1)(e) of the Act, and
+- **(b)** Her Majesty in right of a province, if employment by Her Majesty in right of that province has been included in pensionable employment by regulation in accordance with paragraph 7(1)(e) of the Act,
+- **(c)** an agent of Her Majesty in right of a province, if employment by that agent has been included in pensionable employment by regulation in accordance with paragraph 7(1)(e) of the Act, and
 - **(d)** any employer who has an establishment in Canada and who
-	- **(i)** is subject to income tax under Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-	- **(ii)** but for section 149 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), would be subject to income tax under Part I of that Act,
+	- **(i)** is subject to income tax under Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+	- **(ii)** but for section 149 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), would be subject to income tax under Part I of that Act,
 for any taxation year for which he has taxable income; (*employeur exerçant des opérations au Canada*)
 
-***employment in international transportation*** means the employment of a person in a pay period
-- **(a)** on a ship,
-- **(b)** on an aircraft used in the operation of a commercial air service by a person who is classified under the Air Carrier Regulations as an international air carrier,
-- **(c)** on a freight or passenger train, or
-- **(d)** in respect of a motor vehicle that is licensed to operate in one or more provinces of Canada and in one or more states of the United States,
-
-where such employment is the employment primarily engaged in by that person in the pay period and is performed partly within and partly without Canada; (*emploi dans le transport international*)
+***employment in international transportation*** means employment that is primarily engaged in by a person in a pay period and that is performed partly within and partly outside Canada on
+- **(a)** a ship,
+- **(b)** an aircraft used in the operation of a commercial air service by a person who is licensed to operate an international service under the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md),
+- **(c)** a freight or passenger train, or
+- **(d)** a motor vehicle that is registered to operate in one or more provinces of Canada and in one or more states of the United States; (*emploi dans le transport international*)
 
 ***establishment in Canada***, with respect to an employer, means any office, warehouse, factory, oil well, gas well, mine, workshop, farm, timber land, pier, wharf, school, college, club, residence, hotel, motel, restaurant, tavern, bar or any other place or premises in Canada that is owned, leased or licensed by the employer and where the employer or one or more of his employees works or reports for work or from or at which one or more of his employees are paid; (*établissement au Canada*)
 
-***ship*** has the same meaning as in the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md). (*navire*)
+***ship*** means a vessel, boat or craft, used or designed to be used in navigation in, on, through or immediately above water. (*navire*)
 
-- **(2)** All other words and expressions in this Part have the same meaning as in Part I.
+- **(2)** All other words and expressions in this Part have the same meaning as in Part I.
+> SOR/2013-208, s. 2.
+
 
 
 
@@ -457,21 +457,26 @@ and the employer has undertaken in prescribed form to make payment of the employ
 
 **18** 
 
-- **(1)** Where an employer operating in Canada employs persons in international transportation on a ship that is operated under agreement entered into in Canada with the crew, pensionable employment includes
-	- **(a)** when that ship is engaged on a foreign voyage or a home-trade voyage, the employment thereon of any person who has a place of domicile in Canada as defined in subsection (3); and
-	- **(b)** when that ship is engaged on a voyage other than a foreign voyage or a home-trade voyage, all persons employed thereon.
+- **(1)** In the case of an employer who is operating in Canada and who employs persons in international transportation on a ship that is operated under an agreement with the crew that is entered into in Canada, pensionable employment includes
+	- **(a)** when that ship is engaged on a voyage other than an inland voyage, the employment on the ship of any person who has a place of domicile in Canada; and
+	- **(b)** when that ship is engaged on an inland voyage, all persons employed on the ship.
 
 - **(2)** Where an employer operating in Canada employs persons in international transportation on a ship that is not operating under an agreement with the crew, pensionable employment includes all employment on the ship if it is being operated mainly in and near Canada.
 
 - **(3)** For the purposes of this section, a person has a place of domicile in Canada if
-	- **(a)** he is a Canadian citizen; or
-	- **(b)** he is an immigrant who has previously made a landing in Canada and who has a place in Canada (other than a place in which he stays for a special or temporary purpose) to which he returns from time to time as his place of permanent abode.
+	- **(a)** the person is a Canadian citizen; or
+	- **(b)** the person is a permanent resident within the meaning of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and has a place in Canada to which they return from time to time as their place of permanent abode.
 
-- **(4)** In this section,
-	- **(a)** the expressions ***agreement with the crew***, ***foreign voyage*** and ***home-trade voyage*** have the same meaning as in the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
-	- **(b)** the expression ***Canadian citizen*** has the same meaning as in the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md); and
-	- **(c)** the words ***immigrant*** and ***landing*** have the same meaning as in the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
-> 2001, c. 27, s. 273.
+- **(4)** The following definitions apply in this section:
+
+***agreement with the crew*** means articles of agreement entered into under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*contrat d’engagement de l’équipage*)
+
+***inland voyage*** means a voyage on
+- **(a)** any river, lake or other navigable fresh waters within Canada, including the St. Lawrence River as far seaward as a straight line drawn from Cap-des-Rosiers to West Point, Anticosti Island and from Anticosti Island to the north shore of the St. Lawrence River along a meridian of longitude 63° W.;
+- **(b)** any part of any lake or river forming part of the inland waters of Canada that lies within the United States;
+- **(c)** Lake Michigan; or
+- **(d)** any sheltered waters on the coasts of Canada that are described in Schedule 1 to the [Vessel Certificates Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/31.md). (*voyage en eaux internes*)
+> 2001, c. 27, s. 273; SOR/2013-208, s. 3.
 
 
 
@@ -480,7 +485,9 @@ and the employer has undertaken in prescribed form to make payment of the employ
 ### Aircraft
 
 
-**19** Pensionable employment includes employment in international transportation on an aircraft used in the operation of a commercial air service by a person who is classified under the Air Carrier Regulations as an international air carrier and as a domestic air carrier.
+**19** Pensionable employment includes employment in international transportation on an aircraft used in the operation of a commercial air service by a person who is licensed to operate an international service and a domestic service under the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+> SOR/2013-208, s. 4.
+
 
 
 
@@ -494,7 +501,9 @@ and the employer has undertaken in prescribed form to make payment of the employ
 
 - **(2)** Pensionable employment includes, in the case of employment in international transportation on a freight or passenger train operated by a railway company whose principal place of business is outside Canada, that part of the employment of a person who is resident in Canada that is determined by the employer (on a basis approved by the Minister) to be in respect of employment in Canada.
 
-- **(3)** In this section, the expression ***railway company*** has the same meaning as in the Railway Act.
+- **(3)** In this section, ***railway company*** has the same meaning as in the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+> SOR/2013-208, s. 5.
+
 
 
 
@@ -502,9 +511,11 @@ and the employer has undertaken in prescribed form to make payment of the employ
 ### Motor Vehicles
 
 
-**21** Pensionable employment includes employment in international transportation in respect of a motor vehicle that is licensed to operate in one or more provinces of Canada and in one or more states of the United States, if
+**21** Pensionable employment includes employment in international transportation on a motor vehicle that is registered to operate in one or more provinces of Canada and in one or more states of the United States, if
 - **(a)** the person so employed is resident in Canada; and
 - **(b)** the motor vehicle is operated for the purposes of an enterprise that is regarded, for the purpose of taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as an enterprise of Canada.
+> SOR/2013-208, s. 6.
+
 
 
 
@@ -519,7 +530,7 @@ and the employer has undertaken in prescribed form to make payment of the employ
 	- **(b)** does not have an establishment in Canada,
 is excepted from pensionable employment.
 
-- **(2)** Notwithstanding subsection (1) but subject to subsection (3), pensionable employment includes
+- **(2)** Notwithstanding subsection (1) but subject to subsection (3), pensionable employment includes
 	- **(a)** the employment in Canada of a person
 		- **(i)** who is resident in Canada, and
 		- **(ii)** who is employed by an employer who
@@ -527,18 +538,18 @@ is excepted from pensionable employment.
 			- **(B)** does not have an establishment in Canada, and
 	- **(b)** in the case of a person
 		- **(i)** who is resident in Canada, and
-		- **(ii)** who is employed in international transportation in respect of a motor vehicle that is licensed to operate in one or more provinces of Canada and in one or more states of the United States and is operated for the purposes of an enterprise that is regarded, for the purpose of taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as an enterprise of the United States,
+		- **(ii)** who is employed in international transportation on a motor vehicle that is registered to operate in one or more provinces of Canada and in one or more states of the United States and is operated for the purposes of an enterprise that is regarded, for the purpose of taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as an enterprise of the United States,
 that part of the employment of such person that is in Canada,
-if the employer has made arrangements satisfactory to the Minister to make payment of the employee’s contributions and the employer’s contributions in respect of that employment in accordance with section 8 and to file information returns in respect of the employment as required by Part II.
+if the employer has made arrangements satisfactory to the Minister to make payment of the employee’s contributions and the employer’s contributions in respect of that employment in accordance with section 8 and to file information returns in respect of the employment as required by Part II.
 
-- **(3)** Where the employment described in paragraph (2)(a) or (b) is in a province providing a comprehensive pension plan, that employment is not included in pensionable employment unless the employer has made arrangements (in place of the arrangements satisfactory to the Minister described in subsection (2)) satisfactory to the authority having the administration of the provincial pension plan for the payment under that plan of contributions in respect of the employment.
+- **(3)** Where the employment described in paragraph (2)(a) or (b) is in a province providing a comprehensive pension plan, that employment is not included in pensionable employment unless the employer has made arrangements (in place of the arrangements satisfactory to the Minister described in subsection (2)) satisfactory to the authority having the administration of the provincial pension plan for the payment under that plan of contributions in respect of the employment.
 
-- **(4)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by subsection (2).
+- **(4)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by subsection (2).
 
-- **(5)** Where the employer of an employee referred to in subsection (2) does not have an establishment in Canada within the meaning of subsection 4(4) of the Act, the employee shall be deemed to report for work at an establishment of the employer situated in the province
+- **(5)** Where the employer of an employee referred to in subsection (2) does not have an establishment in Canada within the meaning of subsection 4(4) of the Act, the employee shall be deemed to report for work at an establishment of the employer situated in the province
 	- **(a)** where the employee ordinarily works or ordinarily does the most work in Canada; or
-	- **(b)** in any case where a determination cannot be made under paragraph (a), where the employee resides in Canada.
-> SOR/90-829, s. 4.
+	- **(b)** in any case where a determination cannot be made under paragraph (a), where the employee resides in Canada.
+> SOR/90-829, s. 4; SOR/2013-208, s. 7.
 
 
 
@@ -690,16 +701,16 @@ if the employee complies with the requirements of paragraphs 29(c) to (f) in re
 **34.1** 
 
 - **(1)** Notwithstanding any other provision of this Part
-	- **(a)** subject to subsection 6(2) of the Act, where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of Canada applies to a person in any year, the employment of that person in those circumstances is included in pensionable employment for that year, if
-		- **(i)** his employer is an employer operating in Canada within the meaning given to that term by subsection 15(1),
-		- **(ii)** his employer has, in respect of that employment, given an undertaking in prescribed form to pay the employee’s contributions and the employer’s contributions under sections 8 and 9 respectively, of the Act for the year and to file information returns in accordance with Part II, or
-		- **(iii)** in any case where his employer is not an employer operating in Canada and has not given the undertaking described in subparagraph (ii) or has not complied with the undertaking in the year, that person complies with the requirements of paragraphs 29(c) to (f) in respect of that year; and
-	- **(b)** where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of the other country that is a party to the agreement applies to a person in any year, the employment of that person in those circumstances is excepted from pensionable employment for that year.
+	- **(a)** subject to subsection 6(2) of the Act, where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of Canada applies to a person in any year, the employment of that person in those circumstances is included in pensionable employment for that year, if
+		- **(i)** his employer is an employer operating in Canada within the meaning given to that term by subsection 15(1),
+		- **(ii)** his employer has, in respect of that employment, given an undertaking in prescribed form to pay the employee’s contributions and the employer’s contributions under sections 8 and 9 respectively, of the Act for the year and to file information returns in accordance with Part II, or
+		- **(iii)** in any case where his employer is not an employer operating in Canada and has not given the undertaking described in subparagraph (ii) or has not complied with the undertaking in the year, that person complies with the requirements of paragraphs 29(c) to (f) in respect of that year; and
+	- **(b)** where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of the other country that is a party to the agreement applies to a person in any year, the employment of that person in those circumstances is excepted from pensionable employment for that year.
 
-- **(2)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by virtue of subparagraph (1)(a)(ii).
+- **(2)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by virtue of subparagraph (1)(a)(ii).
 
 - **(3)** For the purposes of this section, ***legislation*** has the meaning assigned to that term by the applicable agreement.
-> SOR/80-877, s. 1; SOR/90-829, s. 7; SOR/96-522, s. 2.
+> SOR/80-877, s. 1; SOR/90-829, s. 7; SOR/96-522, s. 2; SOR/2013-208, s. 8(F).
 
 
 
