@@ -135,11 +135,11 @@ Sanctionnée sur le 14 décembre 2012
 
 
 
-**Effet sur l’habitat du poisson**
+**Dommages au poisson**
 
 **8** 
 
-- **(1)** Avant de commencer à exploiter un ouvrage ou une entreprise ou à exercer une activité, aux fins de construction du pont, de la promenade ou d’un ouvrage connexe pour lequel ou laquelle l’autorisation prévue aux alinéas 35(2)b) ou c) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) aurait, n’eût été l’article 3, été nécessaire, la personne qui se propose de le faire dépose auprès du ministre un plan énonçant les mesures à prendre pour contrebalancer la perte d’habitat du poisson que l’exploitation de l’ouvrage ou de l’entreprise ou l’exercice de l’activité entraînerait.
+- **(1)** Avant de commencer à exploiter un ouvrage ou une entreprise ou à exercer une activité, aux fins de construction du pont, de la promenade ou d’un ouvrage connexe pour lequel ou laquelle l’autorisation prévue aux alinéas 35(2)b) ou c) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) aurait, n’eût été l’article 3, été nécessaire, la personne qui se propose de le faire dépose auprès du ministre un plan énonçant les mesures à prendre pour mitiger les dommages à tout poisson visé par une pêche commerciale, récréative ou autochtone, ou à tout poisson dont dépend une telle pêche, que l’exploitation de l’ouvrage ou de l’entreprise ou l’exercice de l’activité entraînerait.
 
 **Obligation de consultation**
 
@@ -148,6 +148,12 @@ Sanctionnée sur le 14 décembre 2012
 **Autorisation délivrée en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)**
 
 - **(3)** Toute autorisation délivrée au titre des alinéas 35(2)b) ou c) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) avant l’entrée en vigueur du présent article pour l’exploitation de l’ouvrage ou de l’entreprise ou l’exercice de l’activité vaut dépôt du plan en conformité avec les paragraphes (1) et (2).
+
+**Disposition transitoire**
+
+- **(4)** Si un plan a été déposé à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité en application du paragraphe (1) dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, ce paragraphe (1) continue de s’appliquer, à compter de cette date, à l’égard de l’exploitation de l’ouvrage ou de l’entreprise ou de l’exercice de l’activité.
+> 2012, ch. 31, art. 179 « 8 » et 184
+
 
 
 
