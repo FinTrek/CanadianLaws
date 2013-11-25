@@ -175,7 +175,7 @@ It does not include the Executive Council of — or a minister, department, agen
 
 - **(1)** For the purposes of this Act, the environmental effects that are to be taken into account in relation to an act or thing, a physical activity, a designated project or a project are
 	- **(a)** a change that may be caused to the following components of the environment that are within the legislative authority of Parliament:
-		- **(i)** fish as defined in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) and fish habitat as defined in subsection 34(1) of that Act,
+		- **(i)** fish and fish habitat as defined in subsection 2(1) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md),
 		- **(ii)** aquatic species as defined in subsection 2(1) of the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md),
 		- **(iii)** migratory birds as defined in subsection 2(1) of the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md), and
 		- **(iv)** any other component of the environment that is set out in Schedule 2;
@@ -201,7 +201,7 @@ It does not include the Executive Council of — or a minister, department, agen
 **Schedule 2**
 
 - **(3)** The Governor in Council may, by order, amend Schedule 2 to add or remove a component of the environment.
-> 2012, c. 19, s. 52 "5", c. 31, s. 425(F)
+> 2012, c. 19, ss. 52 “5”, 64, c. 31, s. 425(F)
 
 
 
