@@ -135,11 +135,11 @@ Assented to on 14 December 2012
 
 
 
-**Impact on fish habitat**
+**Harm to fish**
 
 **8** 
 
-- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraphs 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to offset any loss of fish habitat resulting from the carrying on of the work, undertaking or activity.
+- **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraphs 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the harm to fish that are part of a commercial, recreational or Aboriginal fishery, or to fish that support such a fishery resulting from the carrying on of the work, undertaking or activity.
 
 **Obligation to consult**
 
@@ -148,6 +148,12 @@ Assented to on 14 December 2012
 **Authorizations under [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)**
 
 - **(3)** Any authorization referred to in paragraph 35(2)(b) or (c) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) that was issued before the coming into force of this section in relation to the carrying on of such a work, undertaking or activity is deemed to be a plan that has been filed in accordance with subsections (1) and (2).
+
+**Transitional provision**
+
+- **(4)** If a plan was filed with respect to a work, undertaking or activity under subsection (1) as it read before the coming into force of this subsection, then, as of that coming into force, that subsection (1) continues to apply with respect to that work, undertaking or activity.
+> 2012, c. 31, ss. 179 “8”, 184
+
 
 
 
