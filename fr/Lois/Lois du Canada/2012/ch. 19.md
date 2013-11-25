@@ -865,7 +865,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5745_hq_12881'>[*]</a></sup>**156** L’article 132, les paragraphes 133(1), (3) et (4), les articles 135 à 138, le paragraphe 139(2), les articles 140 et 141, les paragraphes 142(2) à (4), 144(2) à (6), 145(2) à (4) et 147(1) à (5), (7), (9) et (10), l’article 148, les paragraphes 149(2) et (5) et les articles 152 et 153 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5745_hq_12881'><sup>*</sup></a>: [Note : Article 132, paragraphes 133(1), (3) et (4), articles 135 à 138, paragraphe 139(2), articles 140 et 141, paragraphes 142(2) à (4), 144(2) à (6), 145(2) à (4) et 147(1) à (5), (7), (9) et (10), article 148, paragraphes 149(2) et (5) et articles 152 et 153 non en vigueur.]<br />
+<a name='fn_Ind5745_hq_12881'><sup>*</sup></a>: [Note : Article 132, paragraphes 133(1), (3) et (4), articles 135 à 138, paragraphe 139(2), articles 140 et 141, paragraphes 142(2) à (4), 144(2) à (6), 145(2) à (4) et 147(1) à (5), (7), (9) et (10), article 148, paragraphes 149(2) et (5) et articles 152 et 153 en vigueur le 25 novembre 2013, *voir* TR/2013-116.]<br />
 
 
 
