@@ -865,7 +865,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind676E_hq_12859'>[*]</a></sup>**156** Section 132, subsections 133(1), (3) and (4), sections 135 to 138, subsection 139(2), sections 140 and 141, subsections 142(2) to (4), 144(2) to (6), 145(2) to (4) and 147(1) to (5), (7), (9) and (10), section 148, subsections 149(2) and (5) and sections 152 and 153 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind676E_hq_12859'><sup>*</sup></a>: [Note: Section 132, subsections 133(1), (3) and (4), sections 135 to 138, subsection 139(2), sections 140 and 141, subsections 142(2) to (4), 144(2) to (6), 145(2) to (4) and 147(1) to (5), (7), (9) and (10), section 148, subsections 149(2) and (5) and sections 152 and 153 not in force.]<br />
+<a name='fn_Ind676E_hq_12859'><sup>*</sup></a>: [Note: Section 132, subsections 133(1), (3) and (4), sections 135 to 138, subsection 139(2), sections 140 and 141, subsections 142(2) to (4), 144(2) to (6), 145(2) to (4) and 147(1) to (5), (7), (9) and (10), section 148, subsections 149(2) and (5) and sections 152 and 153 in force November 25, 2013, *see* SI/2013-116.]<br />
 
 
 
