@@ -169,7 +169,7 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 
 - **(1)** Pour l’application de la présente loi, les effets environnementaux qui sont en cause à l’égard d’une mesure, d’une activité concrète, d’un projet désigné ou d’un projet sont les suivants :
 	- **a)** les changements qui risquent d’être causés aux composantes ci-après de l’environnement qui relèvent de la compétence législative du Parlement :
-		- **(i)** les poissons au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) et l’habitat du poisson au sens du paragraphe 34(1) de cette loi,
+		- **(i)** les poissons et leur habitat, au sens du paragraphe 2(1) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md),
 		- **(ii)** les espèces aquatiques au sens du paragraphe 2(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md),
 		- **(iii)** les oiseaux migrateurs au sens du paragraphe 2(1) de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md),
 		- **(iv)** toute autre composante de l’environnement mentionnée à l’annexe 2;
@@ -195,7 +195,7 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **Annexe 2**
 
 - **(3)** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter ou en retrancher toute composante de l’environnement.
-> 2012, ch. 19, art. 52 « 5 », ch. 31, art. 425(F)
+> 2012, ch. 19, art. 52 « 5 » et 64, ch. 31, art. 425(F)
 
 
 
