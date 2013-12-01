@@ -61,7 +61,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi provinciale*** La loi, dans sa version modifiée, intitulée Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation (Nova Scotia) Act, chapitre 3 des lois intitulées Statutes of Nova Scotia, 1987.
 
-***loi sur les redevances*** La loi, dans sa version modifiée, intitulée Offshore Petroleum Royalty Act, chapitre 9 des lois intitulées *Statutes of Nova Scotia, 1987*.
+***loi sur les redevances*** La loi, dans sa version modifiée, intitulée Offshore Petroleum Royalty Act, chapitre 9 des lois intitulées Statutes of Nova Scotia, 1987.
 
 ***ministre fédéral*** Le ministre des Ressources naturelles.
 
@@ -81,6 +81,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 French version only***règlement*** Texte d’application pris par le gouverneur en conseil.
 
+***réserve à vocation de parc national de l’Île-de-Sable du Canada*** La réserve à vocation de parc national de l’Île-de-Sable du Canada décrite à l’annexe 2 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
+
 ***taux de participation canadienne***[Abrogée, 1993, ch. 47, art. 11]
 
 ***terres domaniales*** A le sens donné à la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md).
@@ -88,7 +90,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 ***titre*** A le sens donné à l’article 49.
 
  ou ***zone extracôtière*** ou ***zone*** Les zones terrestres et sous-marines situées dans les limites fixées à l’annexe I.
-> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16.
+> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16; 2013, ch. 28, art. 5.
 
 
 
@@ -2624,6 +2626,15 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
+**Interdiction : réserve à vocation de parc national de l’Île-de-Sable du Canada**
+
+**140.1** Nul ne peut exercer des travaux ou des activités liés au forage pétrolier, notamment le forage exploratoire, dans la réserve à vocation de parc national de l’Île-de-Sable du Canada ni à l’intérieur d’un mille marin de la laisse de basse mer.
+> 2013, ch. 28, art. 6.
+
+
+
+
+
 **Idem**
 
 **141** 
@@ -2718,6 +2729,25 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
+**Autorisations : réserve à vocation de parc national de l’Île-de-Sable du Canada**
+
+**142.01** 
+
+- **(1)** S’il reçoit une demande d’autorisation concernant des travaux ou une activité projetés dans la réserve à vocation de parc national de l’Île-de-Sable du Canada, l’Office fournit, dans un délai de soixante jours après réception de la demande, une copie de celle-ci à l’Agence Parcs Canada.
+
+**Agence Parcs Canada**
+
+- **(2)** Dans un délai de soixante jours après réception de la copie de la demande, l’Agence Parcs Canada fournit par écrit à l’Office son avis concernant l’incidence éventuelle des travaux ou de l’activité projetés sur la gestion de la surface de la réserve à vocation de parc national de l’Île-de-Sable du Canada.
+
+**Avis tenu compte par l’Office**
+
+- **(3)** Avant de délivrer une autorisation, l’Office tient compte de tout avis reçu en application du paragraphe (2). Le cas échéant, il peut assortir l’autorisation de conditions, notamment des mesures correctives ou d’atténuation à l’égard de l’incidence éventuelle des travaux ou de l’activité proposés sur la gestion de la surface de la réserve à vocation de parc national de l’Île-de-Sable du Canada.
+> 2013, ch. 28, art. 7.
+
+
+
+
+
 **Droit d’accès**
 
 **142.1** 
@@ -2727,7 +2757,15 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Restriction**
 
 - **(2)** Cependant, nul ne peut pénétrer sur une partie de la zone extracôtière ou y exercer ces activités sans le consentement du propriétaire ou possesseur légitime, autre qu’une autorisation délivrée en application de l’alinéa 142(1) b) ou d’un titre au sens de la partie II, ou, si le consentement est refusé, que conformément aux conditions fixées à la suite d’un arbitrage.
-> 1992, ch. 35, art. 96.
+
+**Réserve à vocation de parc national de l’Île-de-Sable du Canada**
+
+- **(3)** Les droits d’accès à la surface prévus au présent article, concernant la réserve à vocation de parc national de l’Île-de-Sable du Canada, se limitent à ce qui suit :
+	- **a)** l’accès aux têtes de puits existantes aux fins de sécurité et de la protection de l’environnement;
+	- **b)** les activités d’exploration pétrolière à faible incidence sur l’environnement, notamment les programmes sismiques, géologiques ou géophysiques;
+	- **c)** la capacité d’évacuation d’urgence des travailleurs extracôtiers;
+	- **d)** la mise en service, l’entretien et l’inspection des installations d’urgence, notamment l’aire d’atterrissage d’hélicoptère et les caches à carburant.
+> 1992, ch. 35, art. 96; 2013, ch. 28, art. 8.
 
 
 
