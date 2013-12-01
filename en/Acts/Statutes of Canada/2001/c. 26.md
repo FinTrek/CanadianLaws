@@ -2794,17 +2794,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 
-
-### Sable Island
-
-
-
-**Presence on Island**
-
-**134** No person shall be present on Sable Island unless the person
-- **(a)** has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization;
-- **(b)** is there to perform duties on behalf of the Government of Canada; or
-- **(c)** landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on.
+**134** [Repealed, 2013, c. 28, s. 9]
 
 
 
@@ -2848,10 +2838,9 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 **Regulations — Minister**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations
-	- **(a)** respecting the administration and control of Sable Island;
-	- **(b)** specifying classes of persons, or appointing persons, to ensure compliance with regulations made under paragraph (a) and specifying their powers and duties; and
+	- **(a) and (b)** [Repealed, 2013, c. 28, s. 10]
 	- **(c)** respecting maritime search and rescue.
-> 2001, c. 26, s. 136; 2005, c. 29, s. 18.
+> 2001, c. 26, s. 136; 2005, c. 29, s. 18; 2013, c. 28, s. 10.
 
 
 
@@ -2911,10 +2900,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 
-
-**Contravention of section 134**
-
-**139** Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000.
+**139** [Repealed, 2013, c. 28, s. 11]
 
 
 
