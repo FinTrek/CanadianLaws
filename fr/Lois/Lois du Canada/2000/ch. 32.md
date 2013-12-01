@@ -1192,8 +1192,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de la présente loi**
 
-**39** Sous réserve des articles 40 à 41.1, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
-> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6.
+**39** Sous réserve des articles 40 à 41.3, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
+> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6; 2013, ch. 28, art. 2.
 
 
 
@@ -1278,6 +1278,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(10)** Lorsque tout ou partie des terres domaniales situées dans l’aire d’agrandissement deviennent un parc ou sont intégrées à un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
 > 2009, ch. 17, art. 7.
+
+
+
+
+
+**Prorogation : baux, servitudes et permis d’occupation**
+
+**41.2** 
+
+- **(1)** Les baux, les servitudes et les permis d’occupation actuels portant sur la réserve à vocation de parc national de l’Île-de-Sable du Canada demeurent en vigueur pour l’application de la présente loi, conformément à leurs modalités; celles-ci l’emportent sur les dispositions incompatibles de la présente loi.
+
+**Renouvellement : baux et permis d’occupation actuels**
+
+- **(2)** Les baux et les permis d’occupation peuvent être renouvelés si leurs modalités le permettent. Dans le cas contraire, ils peuvent être renouvelés conformément à la présente loi.
+> 2013, ch. 28, art. 3.
+
+
+
+
+
+**Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers**
+
+**41.3** La présente loi n’a pas pour effet d’empêcher que soit menée dans la réserve à vocation de parc national de l’Île-de-Sable du Canada une activité autorisée par l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers en vertu de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md); aucune autorisation additionnelle en vertu de la présente loi n’est requise pour une telle activité.
+> 2013, ch. 28, art. 3.
 
 
 
@@ -8932,7 +8956,22 @@ Premièrement, la totalité de l’île Tumbo, excepté un rayon de 100 pieds au
 Deuxièmement, les terres qui s’étendent sur une distance perpendiculaire de 25 mètres au large de la limite naturelle des terres décrites au paragraphe Premièrement.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182.
+
+### Réserve à vocation de parc national de l’Île-de-Sable du Canada
+
+
+Toute la parcelle de terre, en Nouvelle-Écosse, située dans l’océan Atlantique, au sud-est de la ville de Halifax en Nouvelle-Écosse, et plus particulièrement délimitée de la façon suivante :
+
+
+
+L’ensemble de l’île de Sable, située près des coordonnées géographiques 43° 56′ de latitude nord et 59° 55′ de longitude ouest, y compris ses rivages et battures;
+
+
+
+La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
+
+
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4.
 
 
 
@@ -9245,18 +9284,18 @@ Toutes les directions sont astronomiques et dérivent de la direction établie e
 ### Station de ski du lac Louise
 
 
-Dans le parc national Banff du Canada, la zone suivante :
+Dans le parc national Banff du Canada, la zone suivante :
 
 
 
-La totalité du lopin DZ indiqué sur le plan numéro 69749 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du sud de l’Alberta, district de Calgary, sous le numéro 8510449, ledit lopin renfermant environ 2 192 hectares.
+La totalité du lopin DZ indiqué sur le plan numéro 69749 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du sud de l’Alberta, district de Calgary, sous le numéro 8510449, ledit lopin renfermant environ 2 192 hectares.
 
 
 
 ### Station de ski du mont Norquay
 
 
-Dans le parc national Banff du Canada, la zone suivante :
+Dans le parc national Banff du Canada, la zone suivante :
 
 
 
@@ -9267,22 +9306,24 @@ La totalité du lopin EY indiqué sur le plan numéro 74099 déposé aux Archive
 ### Station de ski de Marmot Basin
 
 
-Dans le parc national Jasper du Canada, la zone suivante :
+Dans le parc national Jasper du Canada, la zone suivante :
 
 
 
-La totalité du lopin FG indiqué sur le plan numéro 69622 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement des terres du nord de l’Alberta, district d’Edmonton, sous le numéro 8520246, ledit lopin renfermant environ 678 hectares.
+La totalité du lopin GS et des lopins GT et GU indiqués sur les plans numéros 98059 et 98067, respectivement, déposés aux Archives d’arpentage des terres du Canada, à Ottawa, dont des copies ont été déposées au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du nord de l’Alberta, district d’Edmonton, sous les numéros 112 0917 et 112 0921, respectivement, ces lopins renfermant environ 622 hectares.
 
 
 
 ### Station de ski du mont Agassiz
 
 
-Dans le parc national du Mont-Riding du Canada, la zone suivante :
+Dans le parc national du Mont-Riding du Canada, la zone suivante :
 
 
 
 La totalité du lopin représentant la station de ski du mont Agassiz sur le plan numéro 64217 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été déposée au Bureau des titres de biens-fonds à Neepawa, sous le numéro 6406, ledit lopin renfermant environ 141,64 hectares.
 
+
+> 2000, ch. 32, ann. 5; 2013, ch. 28, art. 15.
 
 
