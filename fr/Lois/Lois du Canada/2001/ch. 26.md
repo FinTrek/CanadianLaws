@@ -11,7 +11,7 @@ Sanctionnée sur le 1 novembre 2001
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -2784,17 +2784,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-
-### Île de Sable
-
-
-
-**Présence sur l’île**
-
-**134** Une personne ne peut se trouver sur l’île de Sable que si, selon le cas :
-- **a)** elle a obtenu du ministre une autorisation écrite à cet effet et elle se conforme aux modalités qui y sont prévues;
-- **b)** elle s’y trouve pour l’exercice d’attributions pour le compte du gouvernement du Canada;
-- **c)** sa présence est due à de mauvaises conditions climatiques ou au naufrage ou à la détresse du bâtiment ou de l’aéronef à bord duquel elle se trouvait.
+**134** [Abrogé, 2013, ch. 28, art. 9]
 
 
 
@@ -2838,10 +2828,9 @@ French version only***conseiller*** Membre du Tribunal.
 **Règlements — ministre**
 
 - **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre :
-	- **a)** régir la gestion et la maîtrise de l’île de Sable;
-	- **b)** nommer des personnes, individuellement ou par catégories, chargées de l’application des règlements pris en vertu de l’alinéa a) et prévoir leurs attributions;
+	- **a) et b)** [Abrogés, 2013, ch. 28, art. 10]
 	- **c)** régir les activités de recherche et de sauvetage maritimes.
-> 2001, ch. 26, art. 136; 2005, ch. 29, art. 18.
+> 2001, ch. 26, art. 136; 2005, ch. 29, art. 18; 2013, ch. 28, art. 10.
 
 
 
@@ -2901,10 +2890,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-
-**Contravention à l’article 134**
-
-**139** Quiconque contrevient à l’article 134 (présence interdite sur l’île de Sable) commet une infraction et encourt sur déclaration de culpabilité par procédure sommaire une amende maximale de 10 000 $.
+**139** [Abrogé, 2013, ch. 28, art. 11]
 
 
 
