@@ -96,7 +96,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 ***Provincial Minister*** means the Minister of Mines and Energy of the Province;
 
 ***Sable Island*** means the area, whether above or under water, that is within the limits described in Schedule III.
-> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37; 2007, c. 33, s. 16.
+
+***Sable Island National Park Reserve of Canada*** means Sable Island National Park Reserve of Canada as described in Schedule 2 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md);
+> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37; 2007, c. 33, s. 16; 2013, c. 28, s. 5.
 
 
 
@@ -2745,6 +2747,15 @@ have passed;
 
 
 
+**Prohibition — Sable Island National Park Reserve of Canada**
+
+**140.1** No person shall carry on any work or activity related to the drilling for petroleum, including exploratory drilling for petroleum, in Sable Island National Park Reserve of Canada or within one nautical mile seaward of its low-water mark.
+> 2013, c. 28, s. 6.
+
+
+
+
+
 **Prohibition**
 
 **141** 
@@ -2839,6 +2850,25 @@ have passed;
 
 
 
+**Authorizations — Sable Island National Park Reserve of Canada**
+
+**142.01** 
+
+- **(1)** If the Board receives an application for an authorization with respect to a work or activity proposed to be carried on in Sable Island National Park Reserve of Canada, it shall, within 60 days after the day on which it received the application, provide a copy of the application to the Parks Canada Agency.
+
+**Parks Canada Agency**
+
+- **(2)** The Parks Canada Agency shall, within 60 days after the day on which it received the copy of the application, advise the Board in writing about any potential impact of the proposed work or activity on the management of the surface of Sable Island National Park Reserve of Canada.
+
+**Board to consider advice**
+
+- **(3)** Before deciding whether to issue the authorization, the Board shall consider any advice that it receives under subsection (2). If it issues the authorization, it may include in it terms and conditions, including mitigation or remedial measures, to address the potential impact of the proposed work or activity on the management of the surface of Sable Island National Park Reserve of Canada.
+> 2013, c. 28, s. 7.
+
+
+
+
+
 **Right of entry**
 
 **142.1** 
@@ -2848,7 +2878,15 @@ have passed;
 **Restriction**
 
 - **(2)** Where a person occupies a portion of the offshore area under a lawful right or title, other than an authorization under paragraph 142(1)(b) or an interest as defined in Part II, no person may enter on or use that portion for a purpose referred to in subsection (1) without the consent of the occupier or, where consent has been refused, except in accordance with the terms and conditions imposed by a decision of an arbitrator made in accordance with the regulations.
-> 1992, c. 35, s. 96.
+
+**Sable Island National Park Reserve of Canada**
+
+- **(3)** With respect to Sable Island National Park Reserve of Canada, the surface access rights provided for under this section are limited to the following:
+	- **(a)** access to existing wellheads for the purposes of safety and environmental protection;
+	- **(b)** petroleum exploration activities with a low impact on the environment, including seismic, geological or geophysical programs;
+	- **(c)** emergency evacuation capacity for offshore workers; and
+	- **(d)** the operation, maintenance and inspection of emergency facilities, including helicopter landing and fuel storage facilities.
+> 1992, c. 35, s. 96; 2013, c. 28, s. 8.
 
 
 
