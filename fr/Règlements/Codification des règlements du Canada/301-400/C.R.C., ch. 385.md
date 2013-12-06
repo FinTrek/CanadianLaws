@@ -1843,7 +1843,11 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 **(article 24)**
 **1** *Province d’Ontario*
 
-Emploi à titre de juge nommé par le gouvernement du Canada.
+**a)** Emploi à titre de juge nommé par le gouvernement du Canada.
+
+
+
+**b)** Emploi à titre de membres d’une agence, d’un conseil, d’une commission, d’un comité ou de tout autre organisme, doté ou non de la personnalité morale, nommés par Sa Majesté du chef de l’Ontario ou par un de ses mandataires, qui touchent des émoluments, des appointements, des avances, des honoraires ou une autre rémunération à la journée mais qui ne sont pas employés à plein temps de Sa Majesté du chef de l’Ontario ou d’un de ses mandataires.
 
 
 
@@ -2188,7 +2192,7 @@ L’emploi à titre de membre ou d’employé de n’importe lequel des organism
 
 
 
-> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3; DORS/2007-55, art. 1.
+> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3; DORS/2007-55, art. 1; DORS/2013-233, art. 1.
 
 
 
