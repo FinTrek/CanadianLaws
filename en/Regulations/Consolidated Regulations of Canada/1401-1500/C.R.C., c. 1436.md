@@ -1523,7 +1523,7 @@ and such lifeboats shall, together with additional equipment as described under 
 	- **(d)** where the capacity of the survival craft referred to in paragraph (a), (b) or (c) is insufficient to accommodate the complement, additional Class 2 lifeboats that have the appropriate capacities or life rafts or inflatable rescue platforms, to make up the deficiency.
 	- **(e) to (h)** [Repealed, SOR/96-218, s. 14]
 
-- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms that is referred to in paragraph (1)(d) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
 - **(3)** A Class V ship that navigates in waters the temperature of which is 15°C or more may carry,
 	- **(a)** instead of the survival craft referred to in subsection (1), one lifebuoy for every four members of the complement if the ship navigates
@@ -1552,7 +1552,7 @@ and such lifeboats shall, together with additional equipment as described under 
 		- **(ii)** muster stations, and
 		- **(iii)** embarkation stations; and
 	- **(b)** directions to the muster and embarkation stations.
-> SOR/80-685, s. 11; SOR/85-859, s. 1; SOR/96-218, s. 14; SOR/2001-179, s. 12; SOR/2004-26, s. 10; SOR/2006-256, s. 1.
+> SOR/80-685, s. 11; SOR/85-859, s. 1; SOR/96-218, s. 14; SOR/2001-179, s. 12; SOR/2004-26, s. 10; SOR/2006-256, s. 1; SOR/2013-235, s. 1.
 
 
 
@@ -1568,7 +1568,7 @@ and such lifeboats shall, together with additional equipment as described under 
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms that is referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
 - **(3)** A Class VI ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
 	- **(a)** one lifebuoy for every four members of the complement if the ship navigates
@@ -1593,7 +1593,7 @@ and such lifeboats shall, together with additional equipment as described under 
 	- **(c)** two lifebuoys, one of which has a buoyant lifeline attached.
 
 - **(7)** A Class VI ship shall be provided with signs that indicate the location of life saving equipment that is not stowed in plain view.
-> SOR/96-218, s. 15; SOR/2001-179, s. 13; SOR/2004-26, s. 11; SOR/2006-256, s. 2.
+> SOR/96-218, s. 15; SOR/2001-179, s. 13; SOR/2004-26, s. 11; SOR/2006-256, s. 2; SOR/2013-235, s. 2.
 
 
 
@@ -1609,7 +1609,7 @@ and such lifeboats shall, together with additional equipment as described under 
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms that is referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
 - **(3)** A Class VII ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
 	- **(a)** one lifebuoy for every four members of the complement if the ship navigates
@@ -1675,7 +1675,7 @@ and such lifeboats shall, together with additional equipment as described under 
 		- **(ii)** muster stations, and
 		- **(iii)** embarkation stations; and
 	- **(b)** directions to the muster and embarkation stations.
-> SOR/96-218, s. 15; SOR/2001-179, s. 14; SOR/2004-26, s. 12; SOR/2006-256, s. 3.
+> SOR/96-218, s. 15; SOR/2001-179, s. 14; SOR/2004-26, s. 12; SOR/2006-256, s. 3; SOR/2013-235, s. 3.
 
 
 
@@ -3026,8 +3026,8 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(a)** enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** unless the ship has a freeboard of less than 1.5 m or is fitted with a boarding platform, one emergency boat.
 
-- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
-> SOR/96-218, s. 34; SOR/2006-256, s. 4.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms that is referred to in paragraph (1)(a) or 67(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+> SOR/96-218, s. 34; SOR/2006-256, s. 4; SOR/2013-235, s. 4.
 
 
 
@@ -3128,14 +3128,14 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms that is referred to in paragraph (1)(a) or 3(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
 - **(3)** A Class VI ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
 	- **(a)** one lifebuoy for every four members of the complement if the ship operates
 		- **(i)** within 150 m of shore, or
 		- **(ii)** in a depth of water not exceeding 1.5 m; or
 	- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
-> SOR/96-218, s. 34; SOR/2006-256, s. 6.
+> SOR/96-218, s. 34; SOR/2006-256, s. 6; SOR/2013-235, s. 5.
 
 
 
@@ -3467,10 +3467,10 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(b)** in any other case, one emergency boat under a launching device.
 
 - **(2)** A Class X ship that is over 85 m in length and is not a tanker shall carry
-	- **(a)** on each side of the ship, one rescue boat under a launching device if the ship is engaged on a home-trade voyage, Class II;
-	- **(b)** one rescue boat under a launching device if the ship is engaged on a home-trade voyage, Class III, or an inland voyage, Class I; and
-	- **(c)** one emergency boat under a launching device if the ship is engaged on any other voyage.
-> SOR/96-218, s. 34; SOR/2006-256, s. 8.
+	- **(a)** if the ship is engaged on a home-trade voyage, Class II, one rescue boat under a launching device on each side of the ship;
+	- **(b)** if the ship is engaged on a home-trade voyage, Class III, or an inland voyage, Class I, one rescue boat under a launching device; and
+	- **(c)** if the ship is engaged on any other voyage, one emergency boat under a launching device.
+> SOR/96-218, s. 34; SOR/2006-256, s. 8; SOR/2013-235, s. 6.
 
 
 
@@ -4048,8 +4048,8 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 - **(1)** Every buoyant apparatus carried on a ship shall bear a label of the United States Coast Guard indicating that the apparatus meets the requirements of subpart 160.010 of Title 46, Volume 6, of the Code of Federal Regulations of the United States.
 
-- **(2)** Every marking on a buoyant apparatus carried on a ship shall be in English and French.
-> SOR/96-218, s. 34; SOR/2001-179, s. 46; SOR/2006-256, s. 11.
+- **(2)** Every marking on a buoyant apparatus carried on a ship shall be in English and French. This requirement does not apply in respect of the label required by subsection (1).
+> SOR/96-218, s. 34; SOR/2001-179, s. 46; SOR/2006-256, s. 11; SOR/2013-235, s. 7.
 
 
 
@@ -5219,7 +5219,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(d)** made of a rigid plastic that is capable of withstanding temperatures of -30°C, such as acrylonitrile butadienestyrene (ABS) or high-impact polystyrene (HIPS).
 
 
-> SOR/80-685, s. 21; SOR/96-218, s. 35; SOR/2001-179, ss. 51 to 55; SOR/2006-256, ss. 12(E), 13.
+> SOR/80-685, s. 21; SOR/96-218, s. 35; SOR/2001-179, ss. 51 to 55; SOR/2006-256, ss. 12(E), 13; SOR/2013-235, s. 8(F).
 
 
 
@@ -8295,14 +8295,10 @@ where
 - **(1)** The launching device of a lifeboat shall be capable of hoisting the lifeboat with its crew.
 
 - **(2)** The launching device of a lifeboat shall be designed to be activated
-	- **(a)** in the case of a free-fall launching device, by one person from a position in the lifeboat only; and
-	- **(b)** in any other case, by
-		- **(i)** one person from a position on the ship’s deck, and
-		- **(ii)** one person from a position in the lifeboat.
+	- **(a)** in the case of a free-fall launching device, by one person from a position in the lifeboat; and
+	- **(b)** in any other case, by one person from a position on the ship’s deck and from a position in the lifeboat.
 
-- **(2.1)** The recovery arrangements of a lifeboat shall be designed to be activated by
-	- **(a)** one person from a position on the ship’s deck; and
-	- **(b)** one person from a position in the lifeboat.
+- **(2.1)** The recovery arrangements of a lifeboat shall be designed to be activated by one person from a position on the ship’s deck and from a position in the lifeboat.
 
 - **(3)** The launching device and recovery arrangements of a lifeboat that are designed to be activated from a position on the ship’s deck shall be designed in such a way that the operator can see the lifeboat at all times during launching and hoisting.
 
@@ -8319,14 +8315,10 @@ where
 	- **(b)** incorporate an on/off load release hook.
 
 - **(2)** The launching device of a rescue boat shall be designed to be activated
-	- **(a)** in the case of a free-fall launching device, by one person from a position in the rescue boat only; and
-	- **(b)** in any other case, by
-		- **(i)** one person from a position on the ship’s deck, and
-		- **(ii)** one person from a position in the rescue boat.
+	- **(a)** in the case of a free-fall launching device, by one person from a position in the rescue boat; and
+	- **(b)** in any other case, by one person from a position on the ship’s deck and from a position in the rescue boat.
 
-- **(2.1)** The recovery arrangements of a rescue boat shall be designed to be activated by
-	- **(a)** one person from a position on the ship’s deck; and
-	- **(b)** one person from a position in the rescue boat.
+- **(2.1)** The recovery arrangements of a rescue boat shall be designed to be activated by one person from a position on the ship’s deck and from a position in the rescue boat.
 
 - **(3)** The launching device and recovery arrangements of a rescue boat that are designed to be operated from a position on the ship’s deck shall be designed in such a way that the operator can see the rescue boat at all times during launching and hoisting.
 
@@ -8347,7 +8339,7 @@ where
 **19** An emergency boat is not required to be provided with a launching device if it can be readily lowered by the launching crew into the water without damage.
 
 
-> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F); SOR/2006-256, ss. 16(F), 17(F).
+> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F); SOR/2006-256, ss. 16(F), 17(F); SOR/2013-235, ss. 9, 10.
 
 
 
