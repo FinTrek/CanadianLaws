@@ -1843,7 +1843,11 @@ within one year from April 30th of the year following the year for which he so 
 **(Section 24)**
 **1** *Province of Ontario*
 
-Employment as a Judge appointed by the Government of Canada.
+**(a)** Employment as a judge appointed by the Government of Canada.
+
+
+
+**(b)** Employment by appointment of Her Majesty in right of Ontario, or of an agent of Her Majesty in right of Ontario, as a member of an agency, board, commission, committee or other incorporated or unincorporated body, who is paid fees or other remuneration on a per diem basis, or a retainer or honorarium, and who is not in the full-time employment of Her Majesty in right of Ontario or of an agent of Her Majesty in right of Ontario.
 
 
 
@@ -2188,7 +2192,7 @@ Employment as a member or an employee of any of the boards, commissions or commi
 
 
 
-> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3; SOR/2007-55, s. 1.
+> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3; SOR/2007-55, s. 1; SOR/2013-233, s. 1.
 
 
 
