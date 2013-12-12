@@ -441,10 +441,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Emprunt**
-
-**15** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent faire aucun emprunt auprès d’une institution financière ou d’une institution membre au sens de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), sans en informer préalablement le ministre par écrit.
+**15** [Abrogé, 2013, ch. 40, art. 166]
 
 
 
