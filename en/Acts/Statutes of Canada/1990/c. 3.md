@@ -121,7 +121,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-### Establishment of the Canadian Museum of Civilization
+### Establishment of the Canadian Museum of History
 
 
 
@@ -129,22 +129,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **7** 
 
-- **(1)** There is hereby established a corporation, to be called the Canadian Museum of Civilization.
+- **(1)** There is established a corporation to be called the Canadian Museum of History.
 
 **Affiliated museums**
 
-- **(2)** The Canadian Museum of Civilization shall include the Canadian War Museum and such other affiliated museums as the Board of the Canadian Museum of Civilization may, by by-law, establish with the approval of the Governor in Council.
+- **(2)** The Canadian Museum of History shall include the Canadian War Museum and any other affiliated museums that the Board of the Canadian Museum of History may, by by-law, establish with the Governor in Council’s approval.
+> 1990, c. 3, s. 7; 2013, c. 38, s. 2.
 
 
 
 
-### Purpose, Capacity and Powers of the Canadian Museum of Civilization
+
+### Purpose, Capacity and Powers of the Canadian Museum of History
 
 
 
 **Purpose**
 
-**8** The purpose of the Canadian Museum of Civilization is to increase, throughout Canada and internationally, interest in, knowledge and critical understanding of and appreciation and respect for human cultural achievements and human behavior by establishing, maintaining and developing for research and posterity a collection of objects of historical or cultural interest, with special but not exclusive reference to Canada, and by demonstrating those achievements and behaviour, the knowledge derived from them and the understanding they represent.
+**8** The purpose of the Canadian Museum of History is to enhance Canadians’ knowledge, understanding and appreciation of events, experiences, people and objects that reflect and have shaped Canada’s history and identity, and also to enhance their awareness of world history and cultures.
+> 1990, c. 3, s. 8; 2013, c. 38, s. 2.
+
 
 
 
@@ -153,27 +157,29 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **9** 
 
-- **(1)** In furtherance of its purpose, the Canadian Museum of Civilization has the capacity and, subject to this Act, the rights, powers and privileges of a natural person and in particular, but without limiting the generality of the foregoing, the Canadian Museum of Civilization may
+- **(1)** In furtherance of its purpose, the Canadian Museum of History has, subject to this Act, the capacity of a natural person and, elsewhere than in Quebec, the rights, powers and privileges of a natural person. In particular, the Canadian Museum of History may
 	- **(a)** collect objects of historical or cultural interest and other museum material;
-	- **(b)** maintain its collection by preservation, conservation and restoration and the establishment of records and documentation;
-	- **(c)** sell, exchange, give away, destroy or otherwise dispose of objects of historical or cultural interest and other museum material in its collection and use any revenue obtained therefrom to further its collection;
-	- **(d)** lend or borrow objects of historical or cultural interest and other museum material on long-term or short-term loan;
-	- **(e)** organize, sponsor, arrange for and participate in travelling exhibitions, in Canada and internationally, of objects of historical or cultural interest and other museum material in its collection and from other sources;
-	- **(f)** undertake and sponsor any research, including fundamental or basic research and theoretical and applied research, related to its purpose and to museology, and communicate the results of that research;
-	- **(g)** provide facilities to permit qualified individuals to use and study its collection;
-	- **(h)** promote knowledge and disseminate information related to its purpose, throughout Canada and internationally, by such means of education and communication as are appropriate;
-	- **(i)** establish and foster liaison with other organizations with a purpose similar to its purpose;
-	- **(j)** share the expertise of its staff by undertaking and sponsoring programs for training and apprenticeship in the professional and technical skills involved in the operation of other organizations with a purpose similar to its purpose;
-	- **(k)** provide and arrange for professional and technical services to other organizations with a purpose similar to its purpose;
-	- **(l)** acquire property by gift, bequest or otherwise and hold in trust or otherwise, expend, invest, administer and dispose of that property;
+	- **(b)** maintain its collection by preservation, conservation or restoration or the establishment of records or documentation;
+	- **(c)** sell, exchange, give away, destroy or otherwise dispose of museum material in its collection and use any revenue obtained from that disposal to further its collection;
+	- **(d)** lend or borrow museum material on long- or short-term loan;
+	- **(e)** organize, sponsor, arrange for or participate in travelling exhibitions, in Canada and internationally, of museum material in its collection and from other sources;
+	- **(f)** undertake or sponsor any research related to its purpose or to museology, and communicate the results of that research;
+	- **(g)** provide facilities to permit qualified individuals to use or study its collection;
+	- **(h)** promote knowledge and disseminate information related to its purpose, throughout Canada and internationally, by any appropriate means of education and communication;
+	- **(i)** establish and foster liaison with other organizations that have a purpose similar to its own;
+	- **(j)** share the expertise of its staff by undertaking or sponsoring training and apprenticeship programs that relate to its purpose;
+	- **(k)** provide or arrange for professional and technical services to other organizations that have a purpose similar to its own;
+	- **(l)** acquire property by gift, bequest or otherwise, hold that property in trust or otherwise and expend, invest, administer and dispose of that property;
 	- **(m)** develop, operate and maintain branches or exhibition centres;
 	- **(n)** operate restaurants, lounges, parking facilities, shops and other facilities for the use of the public;
 	- **(o)** lease or otherwise make available any of its facilities to other persons; and
-	- **(p)** charge for goods, services and admission and use the revenue obtained therefrom for its own purposes.
+	- **(p)** charge for goods, services and admission and use the revenue so obtained for its own purposes.
 
 **Restriction**
 
-- **(2)** The Canadian Museum of Civilization may not deal with property otherwise than in accordance with the terms, if any, on which it was acquired or is held.
+- **(2)** The Canadian Museum of History may deal with property only in accordance with the terms on which it was acquired or is held.
+> 1990, c. 3, s. 9; 2013, c. 38, s. 2.
+
 
 
 
@@ -731,210 +737,51 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**34** [Repealed, 2013, c. 38, s. 3]
 
-### Transitional Provisions
 
 
+**35** [Repealed, 2013, c. 38, s. 3]
 
-**Definitions**
 
-**34** 
 
-- **(1)** In this section and sections 35 to 39,
+**36** [Repealed, 2013, c. 38, s. 3]
 
-***constituent museum*** means a constituent museum of the National Museums of Canada, namely,
-- **(a)** the National Gallery of Canada, including the Canadian Museum of Contemporary Photography,
-- **(b)** the Canadian Museum of Civilization, including the Canadian War Museum,
-- **(c)** the National Museum of Natural Sciences, and
-- **(d)** the National Museum of Science and Technology, including the National Aviation Museum;
 
-***successor corporation***, in relation to a constituent museum, means
-- **(a)** in the case of the constituent museum referred to in paragraph (a) of the definition of that term, the National Gallery of Canada established by subsection 4(1),
-- **(b)** in the case of the constituent museum referred to in paragraph (b) of the definition of that term, the Canadian Museum of Civilization established by subsection 7(1),
-- **(c)** in the case of the constituent museum referred to in paragraph (c) of the definition of that term, the Canadian Museum of Nature established by subsection 10(1), and
-- **(d)** in the case of the constituent museum referred to in paragraph (d) of the definition of that term, the National Museum of Science and Technology established by subsection 13(1).
 
-**Transfer of administration and control of property**
+**37** [Repealed, 2013, c. 38, s. 3]
 
-- **(2)** The administration and control of all personal property, rights and assets held by or leased to the National Museums of Canada for the use or benefit of a constituent museum immediately before the coming into force of this Act are hereby vested in the successor corporation of that constituent museum.
 
-**Enforcement of obligations**
 
-- **(3)** All obligations and liabilities incurred by the National Museums of Canada for the purposes of a constituent museum and outstanding immediately before the coming into force of this Act are deemed to have been incurred by the successor corporation of that constituent museum, and all such obligations and liabilities and all actions then pending against the National Museums of Canada in respect of that constituent museum may be enforced or continued thereafter against Her Majesty in right of Canada or against that successor corporation.
+**38** [Repealed, 2013, c. 38, s. 3]
 
-**Idem**
 
-- **(4)** All obligations and liabilities incurred by the National Museums of Canada, otherwise than for the purposes of a constituent museum, and outstanding immediately before the coming into force of this Act and all actions then pending against the National Museums of Canada, otherwise than in respect of a constituent museum, may be enforced or continued thereafter against Her Majesty in right of Canada.
 
-**Administration**
+**39** [Repealed, 2013, c. 38, s. 3]
 
-- **(5)** The Governor in Council may do any thing necessary for or incidental to carrying out the purposes and provisions of this section.
 
 
+**40** [Repealed, 2013, c. 38, s. 3]
 
 
-**Contracts, etc.**
 
-**35** 
+**41** [Repealed, 2013, c. 38, s. 3]
 
-- **(1)** Every reference to the National Museums of Canada in any deed, contract, agreement or other document executed by the National Museums of Canada in its own name for the purposes of a constituent museum shall, unless the context otherwise requires, be read as a reference to the successor corporation of that constituent museum.
 
-**Idem**
 
-- **(2)** Every reference to the National Museums of Canada in any deed, contract, agreement or other document executed by the National Museums of Canada in its own name, otherwise than for the purposes of a constituent museum, shall, unless the context otherwise requires, be read as a reference to Her Majesty in right of Canada.
+**42** [Repealed, 2013, c. 38, s. 3]
 
 
 
+**43** [Repealed, 2013, c. 38, s. 3]
 
-**Transfer of staff**
 
-**36** 
 
-- **(1)** On the coming into force of this Act, every person who, immediately prior thereto, was an officer or employee in a constituent museum becomes an officer or employee in the successor corporation of the constituent museum.
+**44** [Repealed, 2013, c. 38, s. 3]
 
-**Idem**
 
-- **(2)** On the coming into force of this Act, every person who, immediately prior thereto, was an officer or employee in the National Museums of Canada, otherwise than in a constituent museum, becomes an officer or employee in the Department of Communications.
 
-**Benefits continued**
-
-- **(3)** Every person to whom subsection (1) or (2) applies continues, on the coming into force of this Act, to have the same employment benefits as the person had in the National Museums of Canada immediately prior thereto until such time as those benefits are modified by a collective agreement or arbitral award or, in the case of persons not represented by a bargaining agent, by a policy decision of the successor corporation or the Treasury Board, as the case may be.
-
-**No severance pay**
-
-- **(4)** For greater certainty, nothing in subsection (1) or (2) shall be construed as entitling any person to severance pay.
-
-
-
-
-**Definitions**
-
-**37** 
-
-- **(1)** In this section,
-
-***original indeterminate employee*** means a person who was appointed to a position in the National Museums of Canada for an indeterminate period in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and who became an officer or employee in a successor corporation pursuant to subsection 36(1);
-
-***original term employee*** means a person who was appointed to a position in the National Museums of Canada for a specified period in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and who became an officer or employee in a successor corporation pursuant to subsection 36(1).
-
-**Presumption for original indeterminate employees**
-
-- **(2)** Notwithstanding subsection 24(2), every original indeterminate employee is, in the two years after the coming into force of this Act, deemed to be employed in the Public Service for the purpose of being eligible to enter competitions or to be transferred under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and for the purposes of sections 11 and 13 of that Act.
-
-**Presumption for original term employees**
-
-- **(3)** Notwithstanding subsection 24(2), every original term employee is, in the period beginning on the coming into force of this Act and ending on the earlier of the day that is two years after that coming into force and the last day of the specified period for which the employee was last appointed before that coming into force, deemed to be employed in the Public Service for the purpose of being eligible to enter competitions or to be transferred under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and for the purposes of sections 11 and 13 of that Act.
-
-**Probation**
-
-- **(4)** Where an original indeterminate employee becomes an officer or employee in a successor corporation while on probation under section 28 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and is subsequently rejected for further employment by the successor corporation during or at the end of the probationary period, subsection 28(5) of that Act applies to the employee as if the employee were a person described therein.
-
-**Lay-offs**
-
-- **(5)** Subsections 29(3) and (4) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to any original indeterminate employee who is laid off by a successor corporation within two years after the coming into force of this Act.
-
-**Leave of absence**
-
-- **(6)** Where an original indeterminate employee becomes an officer or employee in a successor corporation while on leave of absence, section 30 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) continues to apply to the employee and to any person appointed before the coming into force of this Act for an indeterminate period to the position the employee previously occupied.
-
-
-
-
-**Competitions, etc., continued**
-
-**38** Every
-- **(a)** competition under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) in which an employee in the National Museums of Canada is a candidate,
-- **(b)** appeal under section 21 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) by an employee in the National Museums of Canada or in respect of an appointment in the National Museums of Canada,
-- **(c)** appeal under subsection 31(2) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) by an employee in the National Museums of Canada, and
-- **(d)** right to an appeal referred to in paragraph (b) or (c)
-subsisting on the coming into force of this Act shall be continued in accordance with that Act, as though the other provisions of this Act had not been enacted.
-
-
-
-
-**Continuation in office of directors of constituent museums**
-
-**39** Notwithstanding subsection 23(1), a person holding the office of director of a constituent museum immediately before the coming into force of this Act shall continue in office thereafter as the Director of the successor corporation of that constituent museum for a period ending eighteen months after that coming into force, subject to the terms and conditions of employment in effect on that coming into force.
-
-
-
-
-**Agreement and awards continued**
-
-**40** 
-
-- **(1)** Subject to subsection (2), a collective agreement or arbitral award that applies to any employees in the National Museums of Canada and is in force on the coming into force of this Act shall continue thereafter in force until its term expires, and the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) continues to apply in all respects to the interpretation and application of the agreement or award.
-
-**Provisions applicable**
-
-- **(2)** Subsections 47(2) to (7) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) apply in respect of a collective agreement or arbitral award continued by subsection (1) as if it were a collective agreement referred to in those subsections.
-
-**Collective bargaining**
-
-- **(3)** For greater certainty, a collective agreement or arbitral award continued by subsection (1) is deemed to be a collective agreement within the meaning of section 49 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), and Part I of that Act, other than section 80, applies in respect of the renewal or revision of the collective agreement or the entering into of a new collective agreement.
-
-
-
-
-**Continuation of terms and conditions**
-
-**41** 
-
-- **(1)** Where, prior to the coming into force of this Act, notice to bargain collectively has been given in respect of a collective agreement or arbitral award binding on employees in the National Museums of Canada, the terms and conditions of employment that are continued on that coming into force, or that were last continued prior thereto, in respect of those employees by section 52 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) shall continue or resume in force thereafter and shall be observed by the museum in which those employees are employed, the bargaining agent for those employees and those employees until the requirements of paragraphs 89(1)(a) to (d) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) have been met, unless the museum and the bargaining agent agree otherwise.
-
-**Provisions applicable**
-
-- **(2)** The [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) applies in all respects to the interpretation and application of any term or condition continued or resumed by subsection (1).
-
-**Order**
-
-- **(3)** On application by a museum or bargaining agent to which subsection (1) applies, made within thirty days after the coming into force of this Act, the Canada Industrial Relations Board shall make an order determining
-	- **(a)** whether the employees in the museum represented by the bargaining agent constitute one or more units appropriate for collective bargaining; and
-	- **(b)** which trade union shall be the bargaining agent for the employees in each such unit.
-
-**Notice to bargain**
-
-- **(4)** Where the Canada Industrial Relations Board has made an order under subsection (3), the museum, as employer, or the bargaining agent may, by notice, require the other to commence collective bargaining for the purpose of entering into a collective agreement.
-
-**Provisions applicable**
-
-- **(5)** Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) applies in respect of a notice given under subsection (4) as if the notice had been given under that Part.
-> 1990, c. 3, s. 41; 1998, c. 26, s. 76.
-
-
-
-
-
-**National Museums Trust Account**
-
-**42** The amount outstanding on the coming into force of this Act in the accounts of Canada in respect of the National Museums Trust Account shall be paid to the museums in the manner most appropriate to give effect to the purpose for which the moneys or property constituting or otherwise giving rise to that amount were given, bequeathed or otherwise made available to the National Museums of Canada.
-
-
-
-
-**First financial year**
-
-**43** Notwithstanding section 28, the first financial year of each museum is the period beginning on the day on which this Act comes into force and ending on March 31 in the following year.
-
-
-
-
-**First corporate plan and budgets**
-
-**44** 
-
-- **(1)** Notwithstanding the period prescribed for submitting corporate plans, operating budgets and capital budgets under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), each museum shall, within six months after the coming into force of this Act, submit to the Minister in accordance with that Act a corporate plan including the first financial year of the museum and an operating budget and capital budget for the first financial year of the museum.
-
-**Provision not applicable**
-
-- **(2)** Subsection 124(5) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply in respect of any capital expenditure incurred or committed to be incurred by a museum before the day on which the capital budget for the first financial year of the museum is approved in accordance with section 124 of that Act.
-
-
-
-
-**Appropriations**
-
-**45** The provisions made by any Appropriation Act for the fiscal year in which this Act comes into force, based on the Estimates for that year to defray the charges and expenses of the public service of Canada within the National Museums of Canada in relation to any matter to which the purposes or powers of a museum extend by law, shall be applied to that museum in such manner as the Treasury Board may, on the recommendation of the Minister, determine.
+**45** [Repealed, 2013, c. 38, s. 3]
 
 
 
