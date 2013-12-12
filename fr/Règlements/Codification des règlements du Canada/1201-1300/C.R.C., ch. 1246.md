@@ -299,20 +299,20 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 
 **18** 
 
-- **(1)** Sous réserve de l’article 19, le ministre établit l’âge et l’identité du demandeur pour l’application de la Loi conformément à celui des paragraphes (2) à (2.2) qui est applicable.
+- **(1)** Sous réserve de l’article 19, le ministre établit l’âge et l’identité du demandeur pour l’application de la Loi conformément à celui des paragraphes (2) à (2.2) qui est applicable.
 
-- **(2)** Le ministre établit l’âge et l’identité du demandeur sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
+- **(2)** Le ministre établit l’âge et l’identité du demandeur sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md).
 
 - **(2.1)** Le ministre établit l’âge et l’identité du demandeur sur le fondement d’un acte de naissance ou d’une copie conforme d’un tel acte.
 
 - **(2.2)** S’il y a des raisons suffisantes de croire qu’un acte de naissance ne peut être obtenu, le ministre établit l’âge et l’identité du demandeur sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identité de celui-ci.
 
-- **(3)** Si le ministre ne peut établir l’âge et l’identité du demandeur conformément à l’un des paragraphes (2) à (2.2), il peut, sous réserve des conditions ci-après, demander à Statistique Canada de chercher dans les dossiers de recensement des renseignements touchant l’âge et l’identité du demandeur :
+- **(3)** Si le ministre ne peut établir l’âge et l’identité du demandeur conformément à l’un des paragraphes (2) à (2.2), il peut, sous réserve des conditions ci-après, demander à Statistique Canada de chercher dans les dossiers de recensement des renseignements touchant l’âge et l’identité du demandeur :
 	- **a)** une telle demande doit être faite dans la forme prescrite par le statisticien en chef du Canada, s’accompagner du consentement écrit de la personne au sujet de laquelle l’information est sollicitée et inclure les renseignements précis nécessaires aux recherches dans les dossiers de recensements; et
 	- **b)** tout renseignement fourni par Statistique Canada doit demeurer confidentiel et ne peut servir qu’à déterminer l’âge du demandeur, comme l’exige la Loi, le Régime d’assistance publique du Canada ou le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), selon le cas.
 
-- **(4)** [Abrogé, DORS/96-521, art. 7]
-> DORS/96-521, art. 7, 27 et 29(F); DORS/2004-249, art. 7; DORS/2013-20, art. 6.
+- **(4)** [Abrogé, DORS/96-521, art. 7]
+> DORS/96-521, art. 7, 27 et 29(F); DORS/2004-249, art. 7; 2013, ch. 40, art. 236; DORS/2013-20, art. 6.
 
 
 
@@ -785,7 +785,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 - **(4)** Les intérêts courent sur une créance, à un taux qui est calculé quotidiennement et composé mensuellement au taux d’escompte moyen majoré de 3 %.
 
-- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 27.1(2) de la Loi, la durée de tout appel en vertu du paragraphe 28(1) de la Loi, tout appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
+- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 27.1(2) de la Loi, la durée de tout appel en vertu du paragraphe 28(1) de la Loi, tout appel porté en vertu de l’article 55 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
 
 - **(6)** Les intérêts sur la créance ou une partie de la créance, selon le cas, cessent de courir le jour :
 	- **a)** précédant celui où un paiement prévu à l’égard de la créance ou le paiement intégral de la créance, selon le cas, est reçu par Sa Majesté;
@@ -794,7 +794,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 		- **(i)** soit en vertu du paragraphe 44.1(4) de la Loi,
 		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 44.1 de la Loi :
 			- **(A)** celle du ministre en vertu du paragraphe 27.1(2) de la Loi,
-			- **(B)** celle faisant suite à un appel en vertu du paragraphe 28(1) de la Loi, un appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
+			- **(B)** celle faisant suite à un appel en vertu du paragraphe 28(1) de la Loi, un appel porté en vertu de l’article 55 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
 	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
 	- **e)** où le débiteur décède.
 
@@ -803,7 +803,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 	- **b)** les intérêts ne pourront être recouvrés dans un avenir suffisamment rapproché;
 	- **c)** les frais administratifs associés au recouvrement des intérêts seraient plus élevés que les intérêts dus;
 	- **d)** le paiement des intérêts causerait un préjudice injustifié au débiteur.
-> DORS/2010-45, art. 26; DORS/2013-62, art. 4.
+> DORS/2010-45, art. 26; 2013, ch. 40, art. 236; DORS/2013-62, art. 4.
 
 
 
