@@ -5827,7 +5827,7 @@ French version only***assemblée*** Assemblée de membres.
 
 
 
-**348** [Modification]
+**348** [Abrogé, 2013, ch. 40, art. 138]
 
 
 
