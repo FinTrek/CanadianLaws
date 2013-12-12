@@ -8268,28 +8268,36 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(1)** Sous réserve des paragraphes (2) à (4), il est interdit à l’association d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
-- **(2)** L’association peut, sous réserve de la partie XII, acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
+- **(2)** L’association peut, sous réserve de la partie XII, acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 390(1)a) à h), d’une entité s’occupant de financement spécial ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 390(1)a) à h), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle l’association,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 390(1)a) à h), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle l’association.
 
-**Exception : placements provisoires**
+**Exception : placements provisoires**
 
-- **(3)** L’association peut, sous réserve de la partie XII, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** L’association peut, sous réserve de la partie XII, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement provisoire prévu à l’article 393;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 394;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 395.
 
-**Exception : règlements**
+**Exception : règlements**
 
 - **(4)** L’association de détail peut, sous réserve de la partie XII, acquérir le contrôle d’une entité autre qu’une entité admissible ou détenir, acquérir ou augmenter un intérêt de groupe financier dans une telle entité à condition de le faire conformément aux règlements, pris en vertu de l’alinéa 389d), relatifs au financement spécial.
 
-**Exception : fait involontaire**
+**Exception : fait involontaire**
 
 - **(5)** L’association est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
+
+**Non-application du paragraphe (2)**
+
+- **(5.1)** Il est interdit à l’association de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 390(1)h) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(5.2)** L’association qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 390(1)h) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (5.1) peut continuer à le détenir.
 
 **Application d’une autre disposition**
 
@@ -8298,7 +8306,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), l’association est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 48, art. 388; 1997, ch. 15, art. 141; 2001, ch. 9, art. 314; 2007, ch. 6, art. 172.
+> 1991, ch. 48, art. 388; 1997, ch. 15, art. 141; 2001, ch. 9, art. 314; 2007, ch. 6, art. 172; 2013, ch. 40, art. 173.
 
 
 
