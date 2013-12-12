@@ -4071,7 +4071,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **168** 
 
-- **(1)** Ne peuvent être administrateurs les personnes :
+- **(1)** Ne peuvent être administrateurs les personnes :
 	- **a)** âgées de moins de dix-huit ans;
 	- **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 	- **c)** qui ont le statut de failli;
@@ -4079,7 +4079,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 	- **e)** à qui le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
 	- **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
 	- **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 406.1 ou qui agissent au nom d’un tel mandataire;
-	- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
+	- **g)** [Abrogé, 2013, ch. 40, art. 164]
 	- **h)** qui sont des ministres fédéraux ou provinciaux;
 	- **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires;
 	- **j)** qui sont des courtiers ou agents d’assurances de la société.
@@ -4088,10 +4088,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 - **(2)** Un actionnaire ne peut devenir administrateur pour les souscripteurs.
 
-**Exception**
-
-- **(3)** L’alinéa (1)g) ne s’applique pas à une société qui est contrôlée par une personne morale mutualiste dont la plupart des membres sont des employés de Sa Majesté du chef du Canada ou d’une province.
-> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377; 2012, ch. 19, art. 339, ch. 31, art. 131.
+- **(3)** [Abrogé, 2013, ch. 40, art. 164]
+> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377; 2012, ch. 19, art. 339, ch. 31, art. 131; 2013, ch. 40, art. 164.
 
 
 
@@ -10604,17 +10602,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(1)** Sous réserve des paragraphes (2) à (4), il est interdit à la société d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
-- **(2)** La société peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
+- **(2)** La société peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 495(1)a) à j), ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 495(1)a) à j), ou une entité visée par règlement, que contrôle la société,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 495(1)a) à j), ou une entité visée par règlement, que contrôle la société.
 
-**Exception : placements temporaires**
+**Exception : placements temporaires**
 
-- **(3)** La société peut, sous réserve de la partie XI, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** La société peut, sous réserve de la partie XI, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 498;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 499;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 500.
@@ -10623,9 +10621,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** La société d’assurance-vie peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible ou détenir, acquérir ou augmenter un intérêt de groupe financier dans une telle entité à condition de le faire conformément aux règlements, pris en vertu de l’alinéa 494d), relatifs au financement spécial.
 
-**Exception : fait involontaire**
+**Exception : fait involontaire**
 
 - **(5)** La société est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
+
+**Non-application du paragraphe (2)**
+
+- **(5.1)** Il est interdit à la société de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 495(1)j) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(5.2)** La société qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 495(1)j) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (5.1) peut continuer à le détenir.
 
 **Application d’une autre disposition**
 
@@ -10634,7 +10640,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la société est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426; 2007, ch. 6, art. 234.
+> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426; 2007, ch. 6, art. 234; 2013, ch. 40, art. 170.
 
 
 
@@ -12297,15 +12303,15 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Exception : placements indirects**
 
-- **(2)** La société de secours peut acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité par l’acquisition :
+- **(2)** La société de secours peut acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou une entité visée par règlement, que contrôle la société de secours,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou une entité visée par règlement, que contrôle la société de secours.
 
 **Exception : placements temporaires**
 
-- **(3)** La société de secours peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** La société de secours peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 557;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 558;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 559.
@@ -12314,6 +12320,14 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 - **(4)** La société de secours est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
+**Non-application du paragraphe (2)**
+
+- **(4.1)** Il est interdit à la société de secours de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 554(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(4.2)** La société de secours qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 554(1)c) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (4.1) peut continuer à le détenir.
+
 **Application d’une autre disposition**
 
 - **(5)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société de secours peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
@@ -12321,7 +12335,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de secours est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437; 2007, ch. 6, art. 252.
+> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437; 2007, ch. 6, art. 252; 2013, ch. 40, art. 171.
 
 
 
@@ -18081,7 +18095,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Incapacité d’exercice**
 
-**797** Ne peuvent être administrateurs les personnes :
+**797** Ne peuvent être administrateurs les personnes :
 - **a)** âgées de moins de dix-huit ans;
 - **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 - **c)** qui ont le statut de failli;
@@ -18089,10 +18103,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **e)** à qui le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
 - **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 406.1 ou qui agissent au nom d’un tel mandataire;
-- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
+- **g)** [Abrogé, 2013, ch. 40, art. 165]
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 465; 2012, ch. 19, art. 344, ch. 31, art. 141.
+> 2001, ch. 9, art. 465; 2012, ch. 19, art. 344, ch. 31, art. 141; 2013, ch. 40, art. 165.
 
 
 
@@ -21444,24 +21458,32 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(1)** Sous réserve des paragraphes (2) et (3), il est interdit à la société de portefeuille d’assurances d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
-- **(2)** La société de portefeuille d’assurances peut acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
+- **(2)** La société de portefeuille d’assurances peut acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 971(1)a) à j), d’une entité s’occupant de financement spécial ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 971(1)a) à j), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle la société de portefeuille d’assurances,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 971(1)a) à j), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle la société de portefeuille d’assurances.
 
-**Exception : placements temporaires**
+**Exception : placements temporaires**
 
-- **(3)** La société de portefeuille d’assurances peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** La société de portefeuille d’assurances peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 974;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 975;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 976.
 
-**Exception : fait involontaire**
+**Exception : fait involontaire**
 
 - **(4)** La société de portefeuille d’assurances est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
+
+**Non-application du paragraphe (2)**
+
+- **(4.1)** Il est interdit à la société de portefeuille d’assurances de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 971(1)j) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(4.2)** La société de portefeuille d’assurances qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 971(1)j) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (4.1) peut continuer à le détenir.
 
 **Application d’une autre disposition**
 
@@ -21470,7 +21492,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille d’assurances est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 2001, ch. 9, art. 465; 2007, ch. 6, art. 325.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 325; 2013, ch. 40, art. 172.
 
 
 
