@@ -159,7 +159,7 @@ Assented to on 26 June 2013
 **11** 
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister and the Treasury Board, make regulations prescribing
-	- **(a)** documents issued by the Minister for travel purposes for which fees are payable; and
+	- **(a)** documents issued by the Minister of Citizenship and Immigration for travel purposes for which fees are payable; and
 	- **(b)** the amount of the fees and the time and manner of their payment.
 
 **Cost recovery**
@@ -169,6 +169,8 @@ Assented to on 26 June 2013
 **Additional to other fees**
 
 - **(3)** The fees are to be paid in addition to any other fees payable under section 19 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of the same documents.
+> 2013, c. 33, s. 174 "11", c. 40, s. 175.
+
 
 
 
