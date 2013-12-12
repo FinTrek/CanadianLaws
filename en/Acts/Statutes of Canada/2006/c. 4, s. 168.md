@@ -42,12 +42,12 @@ Assented to on 22 June 2006
 
 ***eligible individual*** means a person who is an eligible individual for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
-***Minister*** means the Minister of Human Resources and Skills Development.
+***Minister*** means the Minister of Employment and Social Development.
 
 ***qualified dependant*** means a person who has not attained the age of six years and who is a qualified dependant for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 ***shared-custody parent*** has the meaning assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2006, c. 4, s. 168 "2"; 2010, c. 25, s. 74.
+> 2006, c. 4, s. 168 "2"; 2010, c. 25, s. 74; 2013, c. 40, s. 238.
 
 
 
