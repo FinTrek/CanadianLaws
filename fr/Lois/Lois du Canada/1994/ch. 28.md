@@ -506,7 +506,7 @@ où :
 
 **15** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** définir les termes énumérés au paragraphe 2(2);
 	- **b)** prévoir la possibilité de cession entre prêteurs de contrats de prêt d’études qu’ils ont conclus avec les emprunteurs, et préciser les conditions et effets de la cession;
 	- **c)** prévoir les modalités de transfert de contrats de prêt d’études entre succursales d’un même prêteur, et préciser les conditions et effets du transfert;
@@ -540,10 +540,8 @@ où :
 	- **a)** prévoir le montant total maximal des prêts d’études impayés;
 	- **b)** prévoir les prêts d’études à prendre en compte pour calculer, à un moment donné, le montant total des prêts d’études impayés.
 
-**Systèmes électroniques**
-
-- **(2)** Il peut en outre prendre des règlements prévoyant l’établissement et l’exploitation de systèmes électroniques qui fournissent de l’information sur l’assistance financière aux étudiants admissibles ou aux emprunteurs et qui peuvent recevoir de ceux-ci des renseignements et prévoyant les opérations pouvant être effectuées à l’égard de cette assistance financière au moyen de ces systèmes.
-> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20; 2005, ch. 34, art. 63; 2008, ch. 15, art. 3, ch. 28, art. 108; 2011, ch. 24, art. 155
+- **(2)** [Abrogé, 2013, ch. 40, art. 234]
+> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20; 2005, ch. 34, art. 63; 2008, ch. 15, art. 3, ch. 28, art. 108; 2011, ch. 24, art. 155; 2013, ch. 40, art. 234
 
 
 
