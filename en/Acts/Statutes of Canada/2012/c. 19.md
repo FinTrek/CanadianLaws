@@ -3831,15 +3831,33 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**609** [Amendments]
+**609** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2013, c. 40, s. 139]
+
+- **(3) to (5)** [Amendments]
+
+- **(6)** [Repealed, 2013, c. 40, s. 139]
+
+- **(7)** [Amendment]
 
 
 
-**610** [Amendments]
+**610** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2013, c. 40, s. 140]
 
 
 
-**611** [Amendments]
+**611** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2013, c. 40, s. 141]
 
 
 
@@ -3896,12 +3914,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <a name='fn_IndAD2C_hq_12930'><sup>*</sup></a>: [Note: Sections 605 and 607 in force January 6, 2013, *see* SI/2012-98.]<br />
 
-**Order in council**
-
-- <sup><a href='#fn_IndAD2C_hq_12931'>[*]</a></sup>**(3)** Subsections 609(2) and (6), 610(2) and 611(2) come into force on a day to be fixed by order of the Governor in Council.
-
-<a name='fn_IndAD2C_hq_12931'><sup>*</sup></a>: [Note: Subsections 609(2) and (6), 610(2) and 611(2) not in force.]<br />
-> 2012, c. 19, s. 619, c. 31, s. 451.
+- **(3)** [Repealed, 2013, c. 40, s. 142]
+> 2012, c. 19, s. 619, c. 31, s. 451; 2013, c. 40, s. 142.
 
 
 
