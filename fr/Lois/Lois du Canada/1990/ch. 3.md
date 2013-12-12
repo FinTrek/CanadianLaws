@@ -121,7 +121,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Constitution du Musée canadien des civilisations
+### Constitution du Musée canadien de l’histoire
 
 
 
@@ -129,22 +129,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Est constituée une personne morale sous le nom de Musée canadien des civilisations.
+- **(1)** Est constituée une personne morale sous le nom de Musée canadien de l’histoire.
 
 **Musées affiliés**
 
-- **(2)** Le Musée canadien des civilisations comprend le Musée canadien de la guerre et tout autre musée affilié institué par règlement administratif de son conseil avec l’agrément du gouverneur en conseil.
+- **(2)** Le Musée canadien de l’histoire comprend le Musée canadien de la guerre et tout autre musée affilié institué par règlement administratif de son conseil avec l’agrément du gouverneur en conseil.
+> 1990, ch. 3, art. 7; 2013, ch. 38, art. 2.
 
 
 
 
-### Mission, capacité et pouvoirs du Musée canadien des civilisations
+
+### Mission, capacité et pouvoirs du Musée canadien de l’histoire
 
 
 
 **Mission**
 
-**8** Le Musée canadien des civilisations a pour mission d’accroître, dans l’ensemble du Canada et à l’étranger, l’intérêt, le respect et la compréhension critique de même que la connaissance et le degré d’appréciation par tous à l’égard des réalisations culturelles et des comportements de l’humanité, par la constitution, l’entretien et le développement aux fins de la recherche et pour la postérité, d’une collection d’objets à valeur historique ou culturelle principalement axée sur le Canada ainsi que par la présentation de ces réalisations et comportements, et des enseignements et de la compréhension qu’ils génèrent.
+**8** Le Musée canadien de l’histoire a pour mission d’accroître la connaissance, la compréhension et le degré d’appréciation des Canadiens à l’égard d’évènements, d’expériences, de personnes et d’objets qui incarnent l’histoire et l’identité canadiennes, qu’ils ont façonnées, ainsi que de les sensibiliser à l’histoire du monde et aux autres cultures.
+> 1990, ch. 3, art. 8; 2013, ch. 38, art. 2.
+
 
 
 
@@ -153,27 +157,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Dans l’exécution de sa mission, le Musée canadien des civilisations a, sous réserve des autres dispositions de la présente loi, la capacité d’une personne physique; à ce titre, il peut notamment :
-	- **a)** collectionner des objets à valeur historique ou culturelle et autres éléments de matériel de musée;
-	- **b)** maintenir en état sa collection par la conservation, notamment la préservation, l’entretien et la restauration, ainsi que constituer des registres et de la documentation à son égard;
-	- **c)** se départir, notamment par vente, échange, don ou destruction, d’objets à valeur historique ou culturelle et autres éléments de matériel de musée provenant de sa collection, et utiliser le produit de l’aliénation pour améliorer celle-ci;
-	- **d)** prêter ou emprunter à court et à long terme des objets à valeur historique ou culturelle et autres éléments de matériel de musée;
-	- **e)** organiser, faire organiser ou parrainer, dans l’ensemble du Canada et à l’étranger, des expositions itinérantes d’objets à valeur historique ou culturelle et autres éléments de matériel de musée provenant de sa collection ou d’autres sources, ou encore y participer;
-	- **f)** entreprendre ou parrainer des recherches, notamment des recherches fondamentales, théoriques ou appliquées, dans le cadre de sa mission et de la muséologie, et en communiquer les résultats;
-	- **g)** fournir des installations permettant aux personnes qualifiées d’utiliser et d’étudier sa collection;
-	- **h)** favoriser l’approfondissement des connaissances, et diffuser de l’information dans les domaines liés à sa mission, dans l’ensemble du Canada et à l’étranger, par tout moyen de communication et d’enseignement approprié;
-	- **i)** établir et encourager des liens avec tous autres organismes à vocation analogue;
-	- **j)** mettre à contribution la compétence de son personnel en élaborant ou parrainant des programmes de formation ou de perfectionnement dans les professions et disciplines liées à l’activité et à la gestion de tous autres organismes à vocation analogue;
-	- **k)** fournir ou assurer des services spécialisés et techniques à tous autres organismes à vocation analogue;
-	- **l)** acquérir des biens, notamment par don, legs ou autre mode de libéralités, et les détenir en fiducie ou autrement, les employer, investir, gérer ou aliéner;
+- **(1)** Dans l’exécution de sa mission, le Musée canadien de l’histoire a, sous réserve des autres dispositions de la présente loi, la capacité d’une personne physique et, ailleurs qu’au Québec, les droits, pouvoirs et privilèges de celle-ci; à ce titre, il peut notamment :
+	- **a)** collectionner des objets à valeur historique ou culturelle et autre matériel de musée;
+	- **b)** gérer sa collection par la préservation, la conservation ou la restauration ainsi que la constitution de registres et de documentation;
+	- **c)** se départir, notamment par vente, échange, don ou destruction, du matériel de musée provenant de sa collection, et utiliser le produit de la disposition pour améliorer celle-ci;
+	- **d)** prêter ou emprunter à court ou à long terme du matériel de musée;
+	- **e)** organiser, faire organiser ou parrainer, dans l’ensemble du Canada et à l’étranger, des expositions itinérantes du matériel de musée provenant de sa collection ou d’autres sources, ou encore y participer;
+	- **f)** entreprendre ou parrainer des recherches dans les domaines liés à sa mission ou en muséologie, et en communiquer les résultats;
+	- **g)** fournir des installations permettant aux personnes qualifiées d’utiliser ou d’étudier sa collection;
+	- **h)** favoriser l’approfondissement des connaissances et diffuser de l’information dans les domaines liés à sa mission, dans l’ensemble du Canada et à l’étranger, par tout moyen de communication et d’enseignement approprié;
+	- **i)** établir et promouvoir des liens avec d’autres organismes à vocation analogue;
+	- **j)** mettre à contribution la compétence de son personnel en élaborant ou parrainant des programmes de formation ou de perfectionnement dans les domaines liés à sa mission;
+	- **k)** fournir ou assurer des services spécialisés et techniques à d’autres organismes à vocation analogue;
+	- **l)** acquérir des biens, notamment par don ou par legs, les détenir en fiducie ou autrement, les employer, investir ou gérer et en disposer;
 	- **m)** mettre sur pied, exploiter et entretenir des centres d’exposition ou des succursales;
 	- **n)** exploiter des restaurants, débits de boissons, parcs de stationnement, boutiques et autres installations à l’intention du public;
 	- **o)** mettre ses installations à la disposition d’autres personnes, notamment par location;
-	- **p)** percevoir des droits d’entrée et des redevances pour les biens et services qu’il fournit, et utiliser les recettes ainsi obtenues à ses propres fins.
+	- **p)** exiger des droits d’entrée et des droits pour les biens et services qu’il fournit, et utiliser les recettes ainsi obtenues à ses propres fins.
 
 **Restriction**
 
-- **(2)** Le Musée canadien des civilisations ne peut disposer de ses biens qu’aux conditions de leur acquisition ou détention.
+- **(2)** Le Musée canadien de l’histoire ne peut disposer de ses biens qu’aux conditions fixées pour leur acquisition ou détention.
+> 1990, ch. 3, art. 9; 2013, ch. 38, art. 2.
+
 
 
 
@@ -731,209 +737,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**34** [Abrogé, 2013, ch. 38, art. 3]
 
-### Dispositions transitoires
 
 
+**35** [Abrogé, 2013, ch. 38, art. 3]
 
-**Définitions**
 
-**34** 
 
-- **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 35 à 39.
+**36** [Abrogé, 2013, ch. 38, art. 3]
 
-***musée antérieur*** Tout musée qui faisait partie des Musées nationaux du Canada, soit :
-- **a)** le Musée des beaux-arts du Canada, y compris le Musée canadien de la photographie contemporaine;
-- **b)** le Musée canadien des civilisations, y compris le Musée canadien de la guerre;
-- **c)** le Musée national des sciences naturelles;
-- **d)** le Musée national des sciences et de la technologie, y compris le Musée national de l’aviation.
 
-***ayant droit*** S’entend respectivement, par rapport aux musées visés aux alinéas a) à d) de la définition de ***musée antérieur***, des personnes morales suivantes :
-- **a)** le Musée des beaux-arts du Canada constitué par le paragraphe 4(1);
-- **b)** le Musée canadien des civilisations constitué par le paragraphe 7(1);
-- **c)** le Musée canadien de la nature constitué par le paragraphe 10(1);
-- **d)** le Musée national des sciences et de la technologie constitué par le paragraphe 13(1).
 
-**Transfert de biens**
+**37** [Abrogé, 2013, ch. 38, art. 3]
 
-- **(2)** Sont transférées à l’ayant droit la gestion et la libre disposition de l’actif ainsi que de tous les biens mobiliers ou droits dont les Musées nationaux du Canada étaient, à l’entrée en vigueur de la présente loi, détenteurs ou locataires au profit d’un musée antérieur.
 
-**Obligations relatives à un musée antérieur**
 
-- **(3)** Les obligations contractées par les Musées nationaux du Canada à l’intention d’un musée antérieur sont réputées l’avoir été par l’ayant droit correspondant; leur exécution et l’exercice des actions pendantes en l’occurrence relativement à ce musée peuvent être poursuivis contre Sa Majesté du chef du Canada ou l’ayant droit.
+**38** [Abrogé, 2013, ch. 38, art. 3]
 
-**Autres obligations**
 
-- **(4)** L’exécution des autres obligations contractées par les Musées nationaux du Canada et l’exercice des autres actions pendantes en l’occurrence peuvent être poursuivis contre Sa Majesté du chef du Canada.
 
-**Administration**
+**39** [Abrogé, 2013, ch. 38, art. 3]
 
-- **(5)** Le gouverneur en conseil peut prendre toute mesure utile à l’application du présent article.
 
 
+**40** [Abrogé, 2013, ch. 38, art. 3]
 
 
-**Contrats**
 
-**35** 
+**41** [Abrogé, 2013, ch. 38, art. 3]
 
-- **(1)** Sauf indication contraire du contexte, tout document — notamment acte, contrat ou entente — signé par les Musées nationaux du Canada en leur nom pour les besoins d’un musée antérieur lie l’ayant droit correspondant.
 
-**Idem**
 
-- **(2)** Sauf indication contraire du contexte, tout document signé par les Musées nationaux du Canada en leur nom, mais non pour les besoins d’un musée antérieur, lie Sa Majesté du chef du Canada.
+**42** [Abrogé, 2013, ch. 38, art. 3]
 
 
 
+**43** [Abrogé, 2013, ch. 38, art. 3]
 
-**Mutation du personnel**
 
-**36** 
 
-- **(1)** Les membres du personnel en poste dans un musée antérieur à l’entrée en vigueur de la présente loi deviennent employés de l’ayant droit correspondant.
+**44** [Abrogé, 2013, ch. 38, art. 3]
 
-**Idem**
 
-- **(2)** Les membres du personnel en poste, à l’entrée en vigueur de la présente loi, aux Musées nationaux du Canada mais non dans un musée antérieur deviennent employés du ministère des Communications.
 
-**Maintien des avantages**
-
-- **(3)** Les membres du personnel visés au paragraphe (1) ou (2) conservent les avantages dont ils bénéficiaient au titre de leur emploi, sous réserve des modifications éventuelles découlant d’une nouvelle convention collective ou d’une décision arbitrale ou, dans le cas des membres du personnel qui ne sont pas représentés par un agent négociateur, des décisions administratives de l’ayant droit ou du Conseil du Trésor, selon le cas.
-
-**Absence d’indemnité de départ**
-
-- **(4)** Il est entendu que l’application du paragraphe (1) ou (2) ne donne droit à aucune indemnité de départ.
-
-
-
-
-**Définitions**
-
-**37** 
-
-- **(1)** Les définitions qui suivent s’appliquent au présent article.
-
-***titulaire*** Toute personne nommée pour une durée indéterminée à un poste des Musées nationaux du Canada en conformité avec la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et à qui le paragraphe 36(1) s’applique.
-
-***vacataire*** Toute personne nommée pour une période déterminée à un poste des Musées nationaux du Canada en conformité avec la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et à qui le paragraphe 36(1) s’applique.
-
-**Présomption : titulaires**
-
-- **(2)** Malgré le paragraphe 24(2), pour l’application des articles 11 et 13 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) de même que pour l’admissibilité aux concours tenus en vertu de cette loi et pour les mutations qu’elle prévoit, les titulaires sont, pendant les deux années qui suivent l’entrée en vigueur de la présente loi, réputés appartenir à la fonction publique.
-
-**Présomption : vacataires**
-
-- **(3)** Malgré le paragraphe 24(2), pour l’application des articles 11 et 13 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) de même que pour l’admissibilité aux concours tenus en vertu de cette loi et pour les mutations qu’elle prévoit, les vacataires sont, à compter de l’entrée en vigueur de la présente loi jusqu’au terme de leur emploi ou jusqu’à l’expiration, si elle est antérieure, d’une période de deux années, réputés appartenir à la fonction publique.
-
-**Stage**
-
-- **(4)** Le paragraphe 28(5) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique aux titulaires devenus employés d’un ayant droit alors qu’ils sont en période de stage, au sens de l’article 28 de cette loi, dans le cas de renvoi par l’ayant droit pendant le stage ou à la fin de celui-ci.
-
-**Mise en disponibilité**
-
-- **(5)** Les paragraphes 29(3) et (4) de la même loi s’appliquent aux titulaires mis en disponibilité par l’ayant droit dans les deux ans suivant l’entrée en vigueur de la présente loi.
-
-**Congé**
-
-- **(6)** L’article 30 de la même loi continue de s’appliquer aux titulaires devenus employés d’un ayant droit au cours d’un congé ainsi qu’aux personnes nommées avant l’entrée en vigueur de la présente loi pour les remplacer pendant une période indéterminée.
-
-
-
-
-**Maintien des appels et concours**
-
-**38** Sont maintenus, après l’entrée en vigueur de la présente loi et conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) mais indépendamment des autres dispositions de la présente loi :
-- **a)** les concours tenus en vertu de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et auxquels sont candidats des employés des Musées nationaux du Canada;
-- **b)** les appels pendants interjetés en vertu de l’article 21 de cette loi par des employés des Musées nationaux du Canada ou relativement à une nomination à ces musées;
-- **c)** les appels pendants interjetés en vertu du paragraphe 31(2) de la même loi par des employés des Musées nationaux du Canada;
-- **d)** le droit d’interjeter appel en vertu de l’article 21 ou du paragraphe 31(2) de la même loi dans les cas visés aux alinéas b) ou c).
-
-
-
-
-**Maintien en poste des directeurs**
-
-**39** Malgré le paragraphe 23(1), les personnes qui étaient titulaires du poste de directeur d’un musée antérieur lors de l’entrée en vigueur de la présente loi continuent d’occuper leur poste au sein de l’ayant droit pendant une période de dix-huit mois, sous réserve des conditions d’emploi ayant effet au moment de l’entrée en vigueur.
-
-
-
-
-**Maintien de la convention collective ou de la décision arbitrale**
-
-**40** 
-
-- **(1)** Sous réserve du paragraphe (2), toute convention collective ou décision arbitrale applicable aux employés des Musées nationaux du Canada à l’entrée en vigueur de la présente loi continue d’avoir effet jusqu’à la date d’expiration qui y est fixée et reste totalement assujettie, quant à son interprétation et à son application, à la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-
-**Dispositions applicables**
-
-- **(2)** Les paragraphes 47(2) à (7) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’appliquent à l’égard de toute convention collective ou décision arbitrale visée au paragraphe (1).
-
-**Négociation collective**
-
-- **(3)** Il demeure entendu que les conventions ou décisions visées au paragraphe (1) sont réputées être des conventions collectives pour l’application de l’article 49 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et que la partie I de ce code, à l’exception de l’article 80, s’applique au renouvellement et à la révision de ces conventions ainsi qu’à la conclusion de nouvelles conventions collectives.
-
-
-
-
-**Maintien des conditions d’emploi**
-
-**41** 
-
-- **(1)** En cas de dépôt, avant la date d’entrée en vigueur de la présente loi, d’un avis de négociation collective touchant une convention collective ou une décision arbitrale liant des employés des Musées nationaux du Canada, celles des conditions d’emploi de ces employés qui sont encore valides à cette date ou qui ont été les dernières à le rester auparavant, en vertu de l’article 52 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), conservent ou reprennent, selon le cas, leur validité après la même date et, sauf accord contraire entre le musée où les employés sont affectés et l’agent négociateur de ceux-ci, s’imposent au musée, à l’agent négociateur et aux employés jusqu’à ce qu’il soit satisfait aux alinéas 89(1)a) à d) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
-
-**Dispositions applicables**
-
-- **(2)** Les conditions visées au paragraphe (1) restent totalement assujetties, quant à leur interprétation et à leur application, à la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-
-**Ordonnance**
-
-- **(3)** Sur demande d’un musée ou agent négociateur visé au paragraphe (1) dans les trente jours qui suivent l’entrée en vigueur de la présente loi, le Conseil canadien des relations industrielles rend une ordonnance décidant :
-	- **a)** si les employés du musée représentés par l’agent négociateur constituent une ou plusieurs unités habiles à négocier collectivement;
-	- **b)** quel syndicat sera l’agent négociateur des employés de chacune de ces unités.
-
-**Avis de négociation**
-
-- **(4)** Une fois l’ordonnance rendue, le musée — à titre d’employeur — ou l’agent négociateur peut transmettre à l’autre partie un avis de négociation collective en vue de la conclusion d’une convention collective.
-
-**Dispositions applicables**
-
-- **(5)** La partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique à l’avis prévu au paragraphe (4).
-> 1990, ch. 3, art. 41; 1998, ch. 26, art. 76.
-
-
-
-
-
-**Compte de fiducie des Musées nationaux**
-
-**42** Le solde créditeur inscrit, à l’entrée en vigueur de la présente loi, dans les comptes du Canada à l’égard du compte de fiducie des Musées nationaux est versé aux musées selon les modalités qui permettent le mieux de réaliser l’objectif pour lequel les fonds ou biens à l’origine du solde ont été mis à la disposition, notamment par don ou legs, des Musées nationaux du Canada.
-
-
-
-
-**Premier exercice**
-
-**43** Malgré l’article 28, le premier exercice de chaque musée commence à la date d’entrée en vigueur de la présente loi et se termine le 31 mars de l’année suivante.
-
-
-
-
-**Premier plan d’entreprise et premier budget**
-
-**44** 
-
-- **(1)** Malgré le délai prévu par la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) pour la présentation des plans d’entreprise, ainsi que des budgets de fonctionnement et d’investissement, chaque musée présente au ministre, conformément à cette loi, dans les six mois suivant l’entrée en vigueur de la présente loi, un plan comprenant le premier exercice ainsi que le budget de fonctionnement et le budget d’investissement pour le premier exercice du musée.
-
-**Disposition non applicable**
-
-- **(2)** Le paragraphe 124(5) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas aux dépenses d’investissement faites par un musée — ou qu’il s’engage à faire — avant la date de l’approbation, conformément à l’article 124 de cette loi, du budget d’investissement du premier exercice du musée.
-
-
-
-
-**Transferts de crédits**
-
-**45** Les sommes allouées pour l’exercice au cours duquel la présente loi entre en vigueur, par toute loi de crédits consécutive aux prévisions budgétaires pour cet exercice, à la prise en charge des dépenses d’administration publique des Musées nationaux du Canada dans des domaines relevant de droit de la mission et des pouvoirs d’un musée sont transférées à ce musée selon les modalités fixées par le Conseil du Trésor sur recommandation du ministre.
+**45** [Abrogé, 2013, ch. 38, art. 3]
 
 
 
