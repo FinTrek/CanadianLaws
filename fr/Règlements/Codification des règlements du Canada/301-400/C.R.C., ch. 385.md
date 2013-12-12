@@ -845,26 +845,26 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **43** 
 
-- **(1)** La demande de prestations, la demande de partage des gains non ajustés ouvrant droit à pension en application des articles 55 ou 55.1 de la Loi ou la demande de cession d'une partie de la pension de retraite visée à l'article 65.1 de la Loi doit être présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère des Ressources humaines et du Développement des compétences.
+- **(1)** La demande de prestations, la demande de partage des gains non ajustés ouvrant droit à pension en application des articles 55 ou 55.1 de la Loi ou la demande de cession d’une partie de la pension de retraite visée à l’article 65.1 de la Loi doit être présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
 
-- **(1.1)** Si le requérant se voit refuser une demande de pension d’invalidité et qu’il atteint l’âge de 60 ans entre la date de la demande et celle du refus, ou aurait eu droit à une pension de retraite s’il en avait fait la demande à la date de la demande de pension d’invalidité, cette dernière est, sur présentation d’une requête par le requérant ou en son nom, réputée être une demande de pension de retraite si elle est faite :
+- **(1.1)** Si le requérant se voit refuser une demande de pension d’invalidité et qu’il atteint l’âge de 60 ans entre la date de la demande et celle du refus, ou aurait eu droit à une pension de retraite s’il en avait fait la demande à la date de la demande de pension d’invalidité, cette dernière est, sur présentation d’une requête par le requérant ou en son nom, réputée être une demande de pension de retraite si elle est faite :
 	- **a)** par écrit à tout bureau du ministère du Développement des ressources humaines;
-	- **b)** dans les 90 jours suivant la fin du mois où le requérant est avisé du refus ou, si celui-ci est porté en appel et confirmé, dans les 90 jours suivant le jour où le requérant est avisé de la confirmation définitive du refus.
+	- **b)** dans les 90 jours suivant la fin du mois où le requérant est avisé du refus ou, si celui-ci est porté en appel et confirmé, dans les 90 jours suivant le jour où le requérant est avisé de la confirmation définitive du refus.
 
-- **(2)** Lorsque, en raison de l’article 80 de la Loi et d’un accord intervenu en vertu de cet article avec une province disposant d’un régime général de pensions, le montant global d’une prestation payable à un requérant est réputé payable selon ce régime ou lorsque le partage des gains non ajustés ouvrant droit à pension peut être déterminé selon ce régime conformément à l’accord, le ministre doit, aussitôt que possible après avoir reçu la demande, la transmettre, ainsi qu’une attestation de la date de sa réception, à l’autorité chargée, en vertu de ce régime, de recevoir les demandes, de calculer le partage des gains non ajustés ouvrant droit à pension et de verser les prestations.
-> DORS/79-751, art. 1(A); DORS/86-1133, art. 3; DORS/89-345, art. 2; DORS/90-829, art. 14; DORS/93-290, art. 1; DORS/96-522, art. 23 et 24; DORS/2004-249, art. 2.
+- **(2)** Lorsque, en raison de l’article 80 de la Loi et d’un accord intervenu en vertu de cet article avec une province disposant d’un régime général de pensions, le montant global d’une prestation payable à un requérant est réputé payable selon ce régime ou lorsque le partage des gains non ajustés ouvrant droit à pension peut être déterminé selon ce régime conformément à l’accord, le ministre doit, aussitôt que possible après avoir reçu la demande, la transmettre, ainsi qu’une attestation de la date de sa réception, à l’autorité chargée, en vertu de ce régime, de recevoir les demandes, de calculer le partage des gains non ajustés ouvrant droit à pension et de verser les prestations.
+> DORS/79-751, art. 1(A); DORS/86-1133, art. 3; DORS/89-345, art. 2; DORS/90-829, art. 14; DORS/93-290, art. 1; DORS/96-522, art. 23 et 24; DORS/2004-249, art. 2; 2013, ch. 40, art. 237.
 
 
 
 
 **43.1** 
 
-- **(1)** Malgré le paragraphe 43(1), la demande de pension de retraite peut être présentée au ministre par Internet si, à la fois :
-	- **a)** les renseignements pertinents exigés aux termes de l'article 52 sont fournis au ministre par Internet au moyen de la formule électronique prévue à cette fin et accessible sur Internet, à moins que le ministre ne demande que ces renseignements lui soient fournis par écrit;
-	- **b)** la confirmation électronique transmise au requérant par le ministre et portant la date et l'heure auxquelles le ministre a reçu les renseignements ainsi que le numéro que celui-ci a assigné à la demande est signée par le requérant ou son représentant et est livrée au ministre en personne, par la poste ou par messager, à un bureau du ministère du Développement des ressources humaines ou du ministère des Ressources humaines et du Développement des compétences.
+- **(1)** Malgré le paragraphe 43(1), la demande de pension de retraite peut être présentée au ministre par Internet si, à la fois :
+	- **a)** les renseignements pertinents exigés aux termes de l’article 52 sont fournis au ministre par Internet au moyen de la formule électronique prévue à cette fin et accessible sur Internet, à moins que le ministre ne demande que ces renseignements lui soient fournis par écrit;
+	- **b)** la confirmation électronique transmise au requérant par le ministre et portant la date et l’heure auxquelles le ministre a reçu les renseignements ainsi que le numéro que celui-ci a assigné à la demande est signée par le requérant ou son représentant et est livrée au ministre en personne, par la poste ou par messager, à un bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
 
-- **(2)** La demande de pension de retraite transmise de façon électronique est réputée présentée au ministre à la date et à l'heure indiquées sur la confirmation électronique dès que toutes les exigences prévues au paragraphe (1) sont remplies.
-> DORS/2004-249, art. 3.
+- **(2)** La demande de pension de retraite transmise de façon électronique est réputée présentée au ministre à la date et à l’heure indiquées sur la confirmation électronique dès que toutes les exigences prévues au paragraphe (1) sont remplies.
+> DORS/2004-249, art. 3; 2013, ch. 40, art. 237.
 
 
 
@@ -951,16 +951,16 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **47** 
 
-- **(1)** Sous réserve des articles 49 et 50, le ministre établit l'âge et l'identité de toute personne pour l'application de la Loi conformément à celui des paragraphes (2) à (4) qui est applicable.
+- **(1)** Sous réserve des articles 49 et 50, le ministre établit l’âge et l’identité de toute personne pour l’application de la Loi conformément à celui des paragraphes (2) à (4) qui est applicable.
 
-- **(2)** Le ministre établit l’âge et l’identité de la personne sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
+- **(2)** Le ministre établit l’âge et l’identité de la personne sur le fondement des renseignements que la Commission de l’assurance-emploi du Canada lui a fournis en vertu du paragraphe 28.2(5) de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md).
 
-- **(3)** Le ministre établit l'âge et l'identité de la personne sur le fondement d'un acte de naissance ou d'une copie conforme d'un tel acte.
+- **(3)** Le ministre établit l’âge et l’identité de la personne sur le fondement d’un acte de naissance ou d’une copie conforme d’un tel acte.
 
-- **(4)** S'il y a des raisons suffisantes de croire qu'un acte de naissance ne peut être obtenu, le ministre établit l'âge et l'identité de la personne sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identitié de la personne.
+- **(4)** S’il y a des raisons suffisantes de croire qu’un acte de naissance ne peut être obtenu, le ministre établit l’âge et l’identité de la personne sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identitié de la personne.
 
-- **(5)** Si le ministre ne peut établir l'âge et l'identité de la personne conformément à l'un des paragraphes (2) à (4), il doit, si possible, les établir sur le fondement des renseignements obtenus auprès de Statistique Canada aux termes de l'article 87 de la Loi.
-> DORS/86-1133, art. 7; DORS/90-829, art. 20; DORS/96-522, art. 23; DORS/2004-249, art. 4; DORS/2013-20, art. 1.
+- **(5)** Si le ministre ne peut établir l’âge et l’identité de la personne conformément à l’un des paragraphes (2) à (4), il doit, si possible, les établir sur le fondement des renseignements obtenus auprès de Statistique Canada aux termes de l’article 87 de la Loi.
+> DORS/86-1133, art. 7; DORS/90-829, art. 20; DORS/96-522, art. 23; DORS/2004-249, art. 4; 2013, ch. 40, art. 236; DORS/2013-20, art. 1.
 
 
 
@@ -1409,10 +1409,10 @@ qu’il peut indiquer.
 
 **71** 
 
-- **(1)** La demande de rétablissement de la pension d'invalidité prévue à l'article 70.1 de la Loi est présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère des Ressources humaines et du Développement des compétences.
+- **(1)** La demande de rétablissement de la pension d’invalidité prévue à l’article 70.1 de la Loi est présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
 
-- **(2)** Elle est présentée dans les douze mois suivant le mois au cours duquel l'intéressé est redevenu incapable de travailler.
-> DORS/2005-38, art. 1.
+- **(2)** Elle est présentée dans les douze mois suivant le mois au cours duquel l’intéressé est redevenu incapable de travailler.
+> DORS/2005-38, art. 1; 2013, ch. 40, art. 237.
 
 
 
@@ -1444,8 +1444,8 @@ qu’il peut indiquer.
 ### Révision et appel au nom de certaines personnes
 
 
-**74** Toute personne ou tout organisme autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne à l’égard de laquelle il est établi — d’après les certificats médicaux ou autres déclarations qui ont été présentés par écrit au ministre ou au Tribunal de la sécurité sociale constitué par l’article 44 de la Loi sur le ministère des Ressources humaines et du Développement des compétences, selon le cas — qu’elle est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires peut, pour le compte de cette personne, demander une révision en vertu des paragraphes 81(1) ou (1.1) de la Loi, interjeter appel en vertu de l’article 82 de la Loi ou porter en appel une décision en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences. Lorsqu’il apparaît au ministre ou au Tribunal de la sécurité sociale, selon le cas, qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision est présentée ou l’appel interjeté par la personne ou l’organisme qu’il considère qualifié pour le faire.
-> DORS/2013-61, art. 2.
+**74** Toute personne ou tout organisme autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne à l’égard de laquelle il est établi — d’après les certificats médicaux ou autres déclarations qui ont été présentés par écrit au ministre ou au Tribunal de la sécurité sociale constitué par l’article 44 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md), selon le cas — qu’elle est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires peut, pour le compte de cette personne, demander une révision en vertu des paragraphes 81(1) ou (1.1) de la Loi, interjeter appel en vertu de l’article 82 de la Loi ou porter en appel une décision en vertu de l’article 55 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md). Lorsqu’il apparaît au ministre ou au Tribunal de la sécurité sociale, selon le cas, qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision est présentée ou l’appel interjeté par la personne ou l’organisme qu’il considère qualifié pour le faire.
+> 2013, ch. 40, art. 236; DORS/2013-61, art. 2.
 
 
 
@@ -1770,14 +1770,14 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
 ***créance***
-- **a)** Créance aux termes du paragraphe 66(2) de la Loi à l’égard de laquelle une pénalité a été infligée en vertu de l’article 90.1 de la Loi;
-- **b)** créance aux termes du paragraphe 66(2.02) de la Loi. (*debt*)
+- **a)** Créance aux termes du paragraphe 66(2) de la Loi à l’égard de laquelle une pénalité a été infligée en vertu de l’article 90.1 de la Loi;
+- **b)** créance aux termes du paragraphe 66(2.02) de la Loi. (*debt*)
 
 ***date d’exigibilité*** À l’égard d’une créance :
 - **a)** dans le cas où un calendrier des paiements a été établi, toute date de paiement qui y est prévue;
 - **b)** à défaut de calendrier des paiements, le cent vingtième jour suivant la date de la demande de paiement. (*due date*)
 
-***demande de paiement*** Demande de paiement sous forme écrite, y compris la notification de la décision d’infliger une pénalité en vertu de l’article 90.1 de la Loi ou du montant d’une telle pénalité. (*demand for payment*)
+***demande de paiement*** Demande de paiement sous forme écrite, y compris la notification de la décision d’infliger une pénalité en vertu de l’article 90.1 de la Loi ou du montant d’une telle pénalité. (*demand for payment*)
 
 ***taux d’escompte*** Taux d’intérêt fixé hebdomadairement par la Banque du Canada qui représente le taux minimum auquel elle consent des avances à court terme aux membres de l’Association canadienne des paiements. (*bank rate*)
 
@@ -1785,29 +1785,29 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 
 - **(2)** Des intérêts sont à payer sur les créances dont le recouvrement peut être poursuivi à la date d’entrée en vigueur du présent article ou après cette date.
 
-- **(3)** Les intérêts sur une créance commencent à courir, au taux prévu au paragraphe (4), à sa date d’exigibilité.
+- **(3)** Les intérêts sur une créance commencent à courir, au taux prévu au paragraphe (4), à sa date d’exigibilité.
 
 - **(4)** Les intérêts courent sur une créance à un taux qui est calculé quotidiennement et composé mensuellement au taux d’escompte moyen majoré de 3 %.
 
-- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 81(2) de la Loi, la durée de tout appel en vertu de l’article 82 de la Loi, tout appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
+- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 81(2) de la Loi, la durée de tout appel en vertu de l’article 82 de la Loi, tout appel porté en vertu de l’article 55 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
 
 - **(6)** Les intérêts sur la créance ou une partie de la créance, selon le cas, cessent de courir le jour :
 	- **a)** précédant celui où un paiement prévu à l’égard de la créance ou le paiement intégral de la créance, selon le cas, est reçu par Sa Majesté;
-	- **b)** où une remise totale ou partielle de la créance est accordée en vertu du paragraphe 66(3) de la Loi;
+	- **b)** où une remise totale ou partielle de la créance est accordée en vertu du paragraphe 66(3) de la Loi;
 	- **c)** où la pénalité qui constitue la créance est réduite ou la décision qui l’inflige est annulée :
-		- **(i)** soit en vertu du paragraphe 90.1(4) de la Loi,
-		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 90.1 de la Loi :
-			- **(A)** celle du ministre en vertu du paragraphe 81(2) de la Loi,
-			- **(B)** celle faisant suite à un appel en vertu de l’article 82 de la Loi, un appel porté en vertu de l’article 55 de la Loi sur le ministère des Ressources humaines et du Développement des compétences ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
-	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
+		- **(i)** soit en vertu du paragraphe 90.1(4) de la Loi,
+		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 90.1 de la Loi :
+			- **(A)** celle du ministre en vertu du paragraphe 81(2) de la Loi,
+			- **(B)** celle faisant suite à un appel en vertu de l’article 82 de la Loi, un appel porté en vertu de l’article 55 de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
+	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
 	- **e)** où le débiteur décède.
 
 - **(7)** Remise totale ou partielle des intérêts à payer en vertu du présent article ne peut être accordée par le ministre que si, selon le cas :
-	- **a)** les intérêts ont cessé de courir aux termes de l’alinéa (6)c);
+	- **a)** les intérêts ont cessé de courir aux termes de l’alinéa (6)c);
 	- **b)** les intérêts ne pourront être recouvrés dans un avenir suffisamment rapproché;
 	- **c)** les frais administratifs associés au recouvrement des intérêts seraient plus élevés que les intérêts dus;
 	- **d)** le paiement des intérêts causerait un préjudice injustifié au débiteur.
-> DORS/2010-45, art. 13; DORS/2013-61, art. 5.
+> DORS/2010-45, art. 13; 2013, ch. 40, art. 236; DORS/2013-61, art. 5.
 
 
 
