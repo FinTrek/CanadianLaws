@@ -447,10 +447,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Borrowing**
-
-**15** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall borrow money from any financial institution or from any member institution as defined in the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) unless the Minister is first informed in writing of the intention of the Commissioner, person or Deputy Commissioner to do so.
+**15** [Repealed, 2013, c. 40, s. 166]
 
 
 
