@@ -158,7 +158,7 @@ Sanctionnée sur le 26 juin 2013
 
 **11** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, sur la recommandation conjointe du ministre et du Conseil du Trésor, désigner les documents de voyage délivrés par le ministre et assujettis au paiement de droits et fixer ces droits et les modalités pour les acquitter.
+- **(1)** Le gouverneur en conseil peut, par règlement, sur la recommandation conjointe du ministre et du Conseil du Trésor, désigner les documents de voyage délivrés par le ministre de la Citoyenneté et de l’Immigration et assujettis au paiement de droits et fixer ces droits et les modalités pour les acquitter.
 
 **Compensation**
 
@@ -167,6 +167,8 @@ Sanctionnée sur le 26 juin 2013
 **Autres droits**
 
 - **(3)** Ils s’ajoutent aux droits à payer, à l’égard des mêmes documents, en vertu de l’article 19 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2013, ch. 33, art. 174 « 11 », ch. 40, art. 175.
+
 
 
 
