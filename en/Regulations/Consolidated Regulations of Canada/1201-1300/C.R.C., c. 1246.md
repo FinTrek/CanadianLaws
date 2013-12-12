@@ -299,20 +299,20 @@ the Minister’s approval shall be effective on the latest of
 
 **18** 
 
-- **(1)** Subject to section 19, the Minister shall determine the age and identity of an applicant for the purposes of the Act in accordance with whichever of subsections (2) to (2.2) is applicable.
+- **(1)** Subject to section 19, the Minister shall determine the age and identity of an applicant for the purposes of the Act in accordance with whichever of subsections (2) to (2.2) is applicable.
 
-- **(2)** The Minister shall determine the age and identity of an applicant on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the Department of Human Resources and Skills Development Act.
+- **(2)** The Minister shall determine the age and identity of an applicant on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md).
 
 - **(2.1)** The Minister shall determine the age and identity of an applicant on the basis of a birth certificate or a certified copy of one.
 
 - **(2.2)** If there is sufficient reason to believe that a birth certificate is not available, the Minister shall determine the age and identity of an applicant on the basis of any other evidence and information with respect to the age and identity of the applicant that is available from any source.
 
-- **(3)** If the Minister is unable to determine the age and identity of an applicant under any of subsections (2) to (2.2), the Minister shall, subject to the following conditions, request that Statistics Canada search the census records for information as to the age and identity of the applicant:
+- **(3)** If the Minister is unable to determine the age and identity of an applicant under any of subsections (2) to (2.2), the Minister shall, subject to the following conditions, request that Statistics Canada search the census records for information as to the age and identity of the applicant:
 	- **(a)** any such request shall be made in the form prescribed by the Chief Statistician of Canada and shall bear the signed consent of the person concerning whom the information is sought and shall provide such specific information as may be necessary for the purpose of making a search of the census records; and
 	- **(b)** any information supplied by Statistics Canada shall be kept confidential and shall not be used for any purpose other than that of establishing the age of the applicant as required under the Act, the Canada Assistance Plan or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), as the case may be.
 
 - **(4)** [Repealed, SOR/96-521, s. 7]
-> SOR/96-521, ss. 7, 27, 29(F); SOR/2004-249, s. 7; SOR/2013-20, s. 6.
+> SOR/96-521, ss. 7, 27, 29(F); SOR/2004-249, s. 7; 2013, c. 40, s. 236; SOR/2013-20, s. 6.
 
 
 
@@ -770,40 +770,40 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 ***bank rate*** means the rate of interest established weekly by the Bank of Canada as the minimum rate at which the Bank of Canada makes short-term advances to members of the Canadian Payments Association. (*taux d’escompte*)
 
 ***debt*** means 
-- **(a)** a debt due under subsection 37(2) of the Act in respect of which a penalty has been imposed under section 44.1 of the Act; or
-- **(b)** a debt due under subsection 37(2.02) of the Act. (*créance*)
+- **(a)** a debt due under subsection 37(2) of the Act in respect of which a penalty has been imposed under section 44.1 of the Act; or
+- **(b)** a debt due under subsection 37(2.02) of the Act. (*créance*)
 
-***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 44.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
+***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 44.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
 
 ***due date*** means, in respect of a debt,
 - **(a)** where a payment schedule has been established, any day on which a scheduled payment is to be made; or
-- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
+- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
 
 - **(2)** Interest is payable on all debts that are recoverable on or after the day on which this section comes into force.
 
-- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
+- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
 
 - **(4)** Interest accrues on a debt at a rate that is calculated daily and compounded monthly at the average bank rate plus three per cent.
 
-- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 27.1(2) of the Act, an appeal under subsection 28(1) of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
+- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 27.1(2) of the Act, an appeal under subsection 28(1) of the Act or section 55 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
 
 - **(6)** The accrual of interest on a debt or on a portion of the debt, as applicable, ceases on
 	- **(a)** the day before the day on which a scheduled payment in respect of the debt or a payment of the debt in full is received by Her Majesty;
-	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 37(4) of the Act;
+	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 37(4) of the Act;
 	- **(c)** the day on which the penalty that constitutes the debt is reduced or the decision imposing that penalty is rescinded under
-		- **(i)** subsection 44.1(4) of the Act, or
-		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 44.1 of the Act:
-			- **(A)** a decision of the Minister under subsection 27.1(2) of the Act, and
-			- **(B)** a decision on an appeal under subsection 28(1) of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
-	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
+		- **(i)** subsection 44.1(4) of the Act, or
+		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 44.1 of the Act:
+			- **(A)** a decision of the Minister under subsection 27.1(2) of the Act, and
+			- **(B)** a decision on an appeal under subsection 28(1) of the Act or section 55 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
+	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
 	- **(e)** the day on which the debtor dies.
 
 - **(7)** The conditions under which the Minister may remit in whole or in part the interest payable under this section are that
-	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
+	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
 	- **(b)** the interest cannot be collected within the reasonably foreseeable future;
 	- **(c)** the administrative costs of collecting the interest would exceed the amount of that interest; and
 	- **(d)** the payment of the interest would result in undue hardship to the debtor.
-> SOR/2010-45, s. 26; SOR/2013-62, s. 4.
+> SOR/2010-45, s. 26; 2013, c. 40, s. 236; SOR/2013-62, s. 4.
 
 
 
