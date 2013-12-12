@@ -3335,7 +3335,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Incapacité d’exercice**
 
-**164** Ne peuvent être administrateurs les personnes :
+**164** Ne peuvent être administrateurs les personnes :
 - **a)** âgées de moins de dix-huit ans;
 - **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 - **c)** qui ont le statut de failli;
@@ -3343,10 +3343,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **e)** à qui les articles 386 ou 399 interdisent d’exercer des droits de vote attachés à des actions de la société;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle les articles 386 ou 399 interdisent d’exercer des droits de vote attachés à des actions de la société;
 - **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens de l’article 374.1 ou qui agissent au nom d’un tel mandataire;
-- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
+- **g)** [Abrogé, 2013, ch. 40, art. 160]
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 1991, ch. 45, art. 164; 1994, ch. 47, art. 203; 1997, ch. 15, art. 350; 2012, ch. 19, art. 326, ch. 31, art. 99.
+> 1991, ch. 45, art. 164; 1994, ch. 47, art. 203; 1997, ch. 15, art. 350; 2012, ch. 19, art. 326, ch. 31, art. 99; 2013, ch. 40, art. 160.
 
 
 
@@ -9101,6 +9101,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(5)** La société est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
+**Non-application du paragraphe (2)**
+
+- **(5.1)** Il est interdit à la société de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 453(1)j) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(5.2)** La société qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 453(1)j) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (5.1) peut continuer à le détenir.
+
 **Application d’une autre disposition**
 
 - **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
@@ -9108,7 +9116,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la société est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 45, art. 451; 1997, ch. 15, art. 387; 2001, ch. 9, art. 550; 2007, ch. 6, art. 370.
+> 1991, ch. 45, art. 451; 1997, ch. 15, art. 387; 2001, ch. 9, art. 550; 2007, ch. 6, art. 370; 2013, ch. 40, art. 167.
 
 
 
