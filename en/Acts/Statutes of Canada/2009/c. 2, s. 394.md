@@ -341,9 +341,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Request for arbitration**
+**Arbitration**
 
-**17** If arbitration has been chosen under subsection 103(1) of the Public Service Labour Relations Act as the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
+**17** If arbitration has been chosen under subsection 104(1) of the Public Service Labour Relations Act as, or is, by reason of subsection 104(2) of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
+> 2009, c. 2, s. 394 “17”; 2013, c. 40, s. 361.
+
 
 
 
@@ -378,9 +380,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Request for conciliation**
+**Conciliation**
 
-**20** If conciliation has been chosen under subsection 103(1) of the Public Service Labour Relations Act as the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
+**20** If conciliation is the process for the resolution of disputes by reason of section 103 of the Public Service Labour Relations Act, questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
+> 2009, c. 2, s. 394 “20”; 2013, c. 40, s. 362.
+
 
 
 
