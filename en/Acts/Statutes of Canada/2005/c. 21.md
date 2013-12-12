@@ -1430,9 +1430,9 @@ where
 - **(c)** to any person or body, to the extent that the disclosure is required for the purpose of obtaining a payment that is due to Canada by
 	- **(i)** the United Nations, or
 	- **(ii)** another international organization or another country, pursuant to an international agreement;
-- **(d)** to the Department of Human Resources and Skills Development, to the extent that the disclosure is required for the administration of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
+- **(d)** to the Department of Employment and Social Development, to the extent that the disclosure is required for the administration of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
 - **(e)** to the Correctional Service of Canada, to the extent that the disclosure is required for the administration of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md).
-> 2005, c. 21, ss. 81, 116; 2012, c. 19, s. 695.
+> 2005, c. 21, ss. 81, 116; 2012, c. 19, s. 695; 2013, c. 40, s. 237.
 
 
 
