@@ -36,29 +36,29 @@
 
 **2** Les définitions qui suivent s’appliquent à la présente partie.
 
-***autorité provinciale*** Administration, organisme ou service désignés dans un accord conclu avec une province au titre de l’article 3 et habilités par les lois de cette province à exécuter les dispositions familiales.
+***autorité provinciale*** Administration, organisme ou service désignés dans un accord conclu avec une province au titre de l’article 3 et habilités par les lois de cette province à exécuter les dispositions familiales. (*provincial enforcement service*)
 
 ***directeur de fichier***
-- **a)** Le ministre des Ressources humaines et du Développement des compétences pour les fichiers régis par le ministère du même nom et susceptibles d’être consultés au titre de la présente partie;
+- **a)** Le ministre de l’Emploi et du Développement social pour les fichiers régis par le ministère du même nom et susceptibles d’être consultés au titre de la présente partie;
 - **b)** le président de la Commission de l’assurance-emploi du Canada pour les fichiers régis par la Commission du même nom et susceptibles d’être consultés au titre de la présente partie;
-- **c)** le ministre du Revenu national pour les fichiers régis par l’Agence du revenu du Canada et susceptibles d’être consultés au titre de la présente partie.
+- **c)** le ministre du Revenu national pour les fichiers régis par l’Agence du revenu du Canada et susceptibles d’être consultés au titre de la présente partie. (*information bank director*)
 
-***disposition alimentaire*** Disposition d’une ordonnance ou d’une entente relative aux aliments, y compris celle d’une ordonnance visant leurs arriérés.
+***disposition alimentaire*** Disposition d’une ordonnance ou d’une entente relative aux aliments, y compris celle d’une ordonnance visant leurs arriérés. (*support provision*)
 
-***disposition de garde*** Disposition d’une ordonnance ou d’une entente accordant la garde d’un enfant.
+***disposition de garde*** Disposition d’une ordonnance ou d’une entente accordant la garde d’un enfant. (*custody provision*)
 
-***disposition familiale*** Disposition alimentaire ou de garde ou disposition accordant un droit d’accès.
+***disposition familiale*** Disposition alimentaire ou de garde ou disposition accordant un droit d’accès. (*family provision*)
 
-***droit d’accès*** Droit d’accès ou de visite à un enfant accordé par une ordonnance ou une entente.
+***droit d’accès*** Droit d’accès ou de visite à un enfant accordé par une ordonnance ou une entente. (*access right*)
 
-***fichier provincial*** Fichier désigné dans un accord conclu au titre de l’article 3.
+***fichier provincial*** Fichier désigné dans un accord conclu au titre de l’article 3. (*provincial information bank*)
 
-***ministre*** Le ministre de la Justice.
+***ministre*** Le ministre de la Justice. (*Minister*)
 
-***ordonnance*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire, de garde ou d’accès, exécutoire dans une province.
+***ordonnance*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire, de garde ou d’accès, exécutoire dans une province. (*order*)
 
-***tribunal*** Juridiction compétente pour faire exécuter les dispositions familiales.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158; 2005, ch. 35, art. 66 et 67, ch. 38, art. 138; 2012, ch. 19, art. 694 et 695(A).
+***tribunal*** Juridiction compétente pour faire exécuter les dispositions familiales. (*court*)
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158; 2005, ch. 35, art. 66 et 67, ch. 38, art. 138; 2012, ch. 19, art. 694 et 695(A); 2013, ch. 40, art. 229.
 
 
 
@@ -91,12 +91,12 @@
 
 
 
-**Accord — régime général de pensions**
+**Accord  — régime général de pensions**
 
-**6** Le ministre des Ressources humaines et du Développement des compétences peut, avec l’approbation du gouverneur en conseil, conclure, au nom du gouvernement fédéral, un accord avec une province instituant un régime général de pensions, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), en vue d’être autorisé par celle-ci :
-- **a)** à établir, pour l’application de la présente loi, un fichier, qui sera régi par le ministère des Ressources humaines et du Développement des compétences, concernant les cotisants à ce régime ou les bénéficiaires de celui-ci;
-- **b)** à communiquer, au titre de la présente partie, des renseignements contenus dans le fichier visé à l’alinéa a) ou dans tout autre fichier régi par le ministère des Ressources humaines et du Développement des compétences concernant les cotisants à ce régime ou les bénéficiaires de celui-ci.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 6; 1996, ch. 11, art. 95 et 97; 2005, ch. 35, art. 53; 2012, ch. 19, art. 694 et 695.
+**6** Le ministre de l’Emploi et du Développement social peut, avec l’approbation du gouverneur en conseil, conclure, au nom du gouvernement fédéral, un accord avec une province instituant un régime général de pensions, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), en vue d’être autorisé par celle-ci :
+- **a)** à établir, pour l’application de la présente loi, un fichier, qui sera régi par le ministère de l’Emploi et du Développement social, concernant les cotisants à ce régime ou les bénéficiaires de celui-ci;
+- **b)** à communiquer, au titre de la présente partie, des renseignements contenus dans le fichier visé à l’alinéa a) ou dans tout autre fichier régi par le ministère de l’Emploi et du Développement social concernant les cotisants à ce régime ou les bénéficiaires de celui-ci.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 6; 1996, ch. 11, art. 95 et 97; 2005, ch. 35, art. 53; 2012, ch. 19, art. 694 et 695; 2013, ch. 40, art. 230.
 
 
 
@@ -229,8 +229,8 @@
 
 **Fichiers visés**
 
-**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère des Ressources humaines et du Développement des compétences, par l’Agence du revenu du Canada et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F); 2005, ch. 35, art. 66, ch. 38, art. 111 et 146; 2012, ch. 19, art. 695.
+**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère de l’Emploi et du Développement social , par l’Agence du revenu du Canada et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F); 2005, ch. 35, art. 66, ch. 38, art. 111 et 146; 2012, ch. 19, art. 695; 2013, ch. 40, art. 237.
 
 
 
