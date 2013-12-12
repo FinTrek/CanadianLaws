@@ -36,29 +36,29 @@
 
 **2** In this Part,
 
-***access right*** means a right, granted in an order or agreement, of access to or visitation of a child;
+***access right*** means a right, granted in an order or agreement, of access to or visitation of a child; (*droit d’accès*)
 
-***court*** means a court having jurisdiction with respect to the enforcement of family provisions;
+***court*** means a court having jurisdiction with respect to the enforcement of family provisions; (*tribunal*)
 
-***custody provision*** means a provision of an order or agreement awarding custody of a child;
+***custody provision*** means a provision of an order or agreement awarding custody of a child; (*disposition de garde*)
 
-***family provision*** means a support provision, a custody provision or an access right;
+***family provision*** means a support provision, a custody provision or an access right; (*disposition familiale*)
 
-***information bank director*** means
-- **(a)** with respect to any of the information banks controlled by the Department of Human Resources and Skills Development that may be searched under this Part, the Minister of Human Resources and Skills Development,
+***information bank director*** means
+- **(a)** with respect to any of the information banks controlled by the Department of Employment and Social Development that may be searched under this Part, the Minister of Employment and Social Development,
 - **(b)** with respect to any of the information banks controlled by the Canada Employment Insurance Commission that may be searched under this Part, the Chairman of the Canada Employment Insurance Commission, and
-- **(c)** with respect to any of the information banks controlled by the Canada Revenue Agency that may be searched under this Part, the Minister of National Revenue;
+- **(c)** with respect to any of the information banks controlled by the Canada Revenue Agency that may be searched under this Part, the Minister of National Revenue; (*directeur de fichier*)
 
-***Minister*** means the Minister of Justice;
+***Minister*** means the Minister of Justice; (*ministre*)
 
-***order*** means any order or judgment, or interim order or judgment, relating to family support, custody or access that is enforceable in a province;
+***order*** means any order or judgment, or interim order or judgment, relating to family support, custody or access that is enforceable in a province; (*ordonnance*)
 
-***provincial enforcement service*** means any service, agency or body designated in an agreement with a province under section 3 that is entitled under the laws of the province to enforce family provisions;
+***provincial enforcement service*** means any service, agency or body designated in an agreement with a province under section 3 that is entitled under the laws of the province to enforce family provisions; (*autorité provinciale*)
 
-***provincial information bank*** means a source of information designated in an agreement made under section 3;
+***provincial information bank*** means a source of information designated in an agreement made under section 3; (*fichier provincial*)
 
-***support provision*** means a provision of an order or agreement for maintenance, alimony or family financial support and includes any order for arrears of payments thereof.
-> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158; 2005, c. 35, ss. 66, 67, c. 38, s. 138; 2012, c. 19, ss. 694, 695(E).
+***support provision*** means a provision of an order or agreement for maintenance, alimony or family financial support and includes any order for arrears of payments thereof. (*disposition alimentaire*)
+> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158; 2005, c. 35, ss. 66, 67, c. 38, s. 138; 2012, c. 19, ss. 694, 695(E); 2013, c. 40, s. 229.
 
 
 
@@ -93,10 +93,10 @@
 
 **Agreements regarding comprehensive pension plans**
 
-**6** With the approval of the Governor in Council, the Minister of Human Resources and Skills Development may, on behalf of the Government of Canada, enter into an agreement with each province providing a comprehensive pension plan, as defined under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for the purpose of obtaining the approval of that province for
-- **(a)** the creation, for the purposes of this Act, of an information bank to be controlled by the Department of Human Resources and Skills Development in respect of contributors to and beneficiaries under that comprehensive pension plan; and
-- **(b)** the release of information under this Part from the information bank referred to in paragraph (a) and from any other information bank controlled by the Department of Human Resources and Skills Development that contains information in respect of contributors to and beneficiaries under that comprehensive pension plan.
-> R.S., 1985, c. 4 (2nd Supp.), s. 6; 1996, c. 11, ss. 95, 97; 2005, c. 35, s. 53; 2012, c. 19, ss. 694, 695.
+**6** With the approval of the Governor in Council, the Minister of Employment and Social Development may, on behalf of the Government of Canada, enter into an agreement with each province providing a comprehensive pension plan, as defined under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for the purpose of obtaining the approval of that province for
+- **(a)** the creation, for the purposes of this Act, of an information bank to be controlled by the Department of Employment and Social Development in respect of contributors to and beneficiaries under that comprehensive pension plan; and
+- **(b)** the release of information under this Part from the information bank referred to in paragraph (a) and from any other information bank controlled by the Department of Employment and Social Development that contains information in respect of contributors to and beneficiaries under that comprehensive pension plan.
+> R.S., 1985, c. 4 (2nd Supp.), s. 6; 1996, c. 11, ss. 95, 97; 2005, c. 35, s. 53; 2012, c. 19, ss. 694, 695; 2013, c. 40, s. 230.
 
 
 
@@ -231,8 +231,8 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 **Information banks that may be searched**
 
-**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Human Resources and Skills Development, the Canada Revenue Agency and the Canada Employment Insurance Commission.
-> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F); 2005, c. 35, s. 66, c. 38, ss. 111, 146; 2012, c. 19, s. 695.
+**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Employment and Social Development, the Canada Revenue Agency and the Canada Employment Insurance Commission.
+> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F); 2005, c. 35, s. 66, c. 38, ss. 111, 146; 2012, c. 19, s. 695; 2013, c. 40, s. 237.
 
 
 
