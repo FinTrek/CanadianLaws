@@ -3436,10 +3436,10 @@ but does not include
 - **(e)** a person who is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
 - **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 374.1;
-- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
+- **(g)** [Repealed, 2013, c. 40, s. 160]
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350; 2012, c. 19, s. 326, c. 31, s. 99.
+> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350; 2012, c. 19, s. 326, c. 31, s. 99; 2013, c. 40, s. 160.
 
 
 
@@ -9291,6 +9291,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(5)** A company is deemed not to contravene subsection (1) if the company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the company.
 
+**Non-application of subsection (2)**
+
+- **(5.1)** No company shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 453(1)(j).
+
+**Holding**
+
+- **(5.2)** If a company holds a substantial investment in an entity referred to in paragraph 453(1)(j) that it acquired or increased under subsection (2) before the coming into force of subsection (5.1), the company may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -9298,7 +9306,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Timing of deemed acquisition**
 
 - **(7)** If a company decides to exercise its right under subsection (6), the company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550; 2007, c. 6, s. 370.
+> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550; 2007, c. 6, s. 370; 2013, c. 40, s. 167.
 
 
 
