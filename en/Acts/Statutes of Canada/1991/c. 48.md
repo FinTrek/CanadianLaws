@@ -8479,6 +8479,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(5)** An association is deemed not to contravene subsection (1) if the association acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the association.
 
+**Non-application of subsection (2)**
+
+- **(5.1)** No association shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 390(1)(h).
+
+**Holding**
+
+- **(5.2)** If an association holds a substantial investment in an entity referred to in paragraph 390(1)(h) that it acquired or increased under subsection (2) before the coming into force of subsection (5.1), the association may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, an association may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -8486,7 +8494,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Timing of deemed acquisition**
 
 - **(7)** If an association decides to exercise its right under subsection (6), the association is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 48, s. 388; 1997, c. 15, s. 141; 2001, c. 9, s. 314; 2007, c. 6, s. 172.
+> 1991, c. 48, s. 388; 1997, c. 15, s. 141; 2001, c. 9, s. 314; 2007, c. 6, s. 172; 2013, c. 40, s. 173.
 
 
 
