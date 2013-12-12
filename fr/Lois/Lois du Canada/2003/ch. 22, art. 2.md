@@ -171,22 +171,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Conseil national mixte*** Le Conseil national mixte dont l’établissement a été autorisé par le décret C.P. 3676 du 16 mai 1944.
 
-***entente sur les services essentiels*** Entente conclue par l’employeur et l’agent négociateur indiquant :
-- **a)** les types des postes compris dans l’unité de négociation représentée par l’agent négociateur qui sont nécessaires pour permettre à l’employeur de fournir les services essentiels;
-- **b)** le nombre de ces postes qui est nécessaire pour permettre à l’employeur de fournir ces services;
-- **c)** les postes en question.
+***entente sur les services essentiels***[Abrogée, 2013, ch. 40, art. 294]
 
 ***médiateur*** Personne nommée à ce titre en vertu du paragraphe 108(1).
 
 ***parties*** L’employeur et l’agent négociateur, dans le cas de négociations collectives, d’un arbitrage, de la conciliation ou d’un différend.
 
-***services essentiels*** Services, installations ou activités du gouvernement du Canada qui sont ou seront nécessaires à la sécurité de tout ou partie du public.
+***services essentiels*** Services, installations ou activités de l’État fédéral qui, aux termes d’une décision prise en vertu du paragraphe 119(1), sont essentiels.  
 
-**Caractère nécessaire du poste**
+- **(2)** [Abrogé, 2013, ch. 40, art. 294]
+> 2003, ch. 22, art. 2 « 4 »; 2013, ch. 40, art. 294.
 
-- **(2)** Pour l’application de l’alinéa a) de la définition de ***entente sur les services essentiels***, au paragraphe (1), un poste est notamment nécessaire pour permettre à l’employeur de fournir des services essentiels si son titulaire est tenu :
-	- **a)** d’accomplir des fonctions qui sont liées à la fourniture de services essentiels;
-	- **b)** d’être disponible, pendant ses heures libres, si l’employeur lui demande de se présenter au travail sans délai pour accomplir ces fonctions.
 
 
 
@@ -279,7 +274,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mission**
 
-**13** La Commission est chargée de la prestation de services en matière d’arbitrage, de médiation et d’analyse et de recherche en matière de rémunération en conformité avec la présente loi.
+**13** La Commission est chargée de la prestation de services en matière d’arbitrage et de médiation en conformité avec la présente loi.
+> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295.
+
 
 
 
@@ -301,20 +298,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Services d’analyse et de recherche en matière de rémunération**
-
-**16** 
-
-- **(1)** Les services d’analyse et de recherche en matière de rémunération offerts par la Commission comprennent la conduite d’enquêtes sur la rémunération, l’obtention de renseignements sur la rémunération, leur analyse, la mise à la disposition des parties et du public de ces renseignements et analyses et la réalisation de recherches sur la rémunération exigées par le président.
-
-**Réserve**
-
-- **(2)** Dans le cadre de la mise à la disposition des parties et du public des renseignements et analyses visés au paragraphe (1), il est interdit aux commissaires et aux personnes employées par la Commission ou agissant sous sa supervision de révéler des renseignements ou de sciemment en faire révéler, par quelque moyen que ce soit, de telle manière qu’il soit possible, grâce à ces révélations, de rattacher les renseignements et analyses à un particulier, à une entreprise ou à une organisation identifiables.
-
-**Exception**
-
-- **(3)** Le paragraphe (2) ne s’applique pas si le particulier, l’entreprise ou l’organisation visé a consenti par écrit à la révélation des renseignements.
+**16** [Abrogé, 2013, ch. 40, art. 296]
 
 
 
@@ -571,15 +555,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** les modalités applicables aux demandes mentionnées aux articles 71 ou 77 et les délais et modalités applicables à l’envoi de copies de celles-ci et au dépôt d’avis d’opposition à l’égard de tout poste visé par la demande mentionnée à l’article 71;
 - **f)** les droits, privilèges et obligations acquis ou conservés par toute organisation syndicale relativement à toute unité de négociation ou à tout fonctionnaire en faisant partie, dans le cas d’une fusion ou d’un transfert de compétence entre plusieurs organisations syndicales;
 - **g)** la révocation de l’accréditation de tout agent négociateur, ainsi que les droits et privilèges que le fonctionnaire a acquis et qu’il conserve malgré cette révocation;
-- **h)** les modalités applicables à l’avis et à la demande prévus respectivement aux paragraphes 103(1) et 104(1);
+- **h)** [Abrogé, 2013, ch. 40, art. 297]
 - **i)** la procédure pour ses audiences;
-- **j)** l’établissement des délais d’envoi des avis, à l’exception des avis mentionnés aux paragraphes 130(1) et (2), et autres documents au titre de la présente partie, la désignation de leurs destinataires et la fixation de la date à laquelle ces avis sont réputés avoir été donnés et reçus;
+- **j)** l’établissement des délais d’envoi des avis, à l’exception des avis mentionnés aux paragraphes 124(1) et (2), et autres documents au titre de la présente partie, la désignation de leurs destinataires et la fixation de la date à laquelle ces avis sont réputés avoir été donnés et reçus;
 - **k)** les modalités de forme et de temps applicables à la présentation à la Commission, à la suite d’une demande d’accréditation ou de révocation d’accréditation comme agent négociateur, de la preuve :
 	- **(i)** de l’adhésion de fonctionnaires à une organisation syndicale,
 	- **(ii)** de l’opposition des fonctionnaires à l’accréditation d’une organisation syndicale,
 	- **(iii)** de l’expression de la volonté de ces fonctionnaires de ne plus être représentés par une organisation syndicale;
 - **l)** les circonstances lui permettant de recevoir les éléments visés à l’alinéa k) comme preuve de la volonté de fonctionnaires d’être représentés ou non par une organisation syndicale donnée à titre d’agent négociateur, ainsi que les cas où elle ne peut rendre ces éléments publics;
 - **m)** les autres questions pouvant se rattacher ou contribuer à l’exercice des pouvoirs et fonctions de la Commission ainsi qu’à la réalisation des objets de la présente partie.
+> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297.
+
 
 
 
@@ -753,28 +739,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-#### Comité consultatif
-
-
-
-**Établissement par le ministre**
-
-**53** 
-
-- **(1)** Le ministre établit un comité consultatif chargé de conseiller le président sur les services d’analyse et de recherche en matière de rémunération offerts par la Commission.
-
-**Formation**
-
-- **(2)** Le comité est formé d’au plus douze membres — dont le président de celui-ci — nommés par le ministre.
-
-**Qualifications**
-
-- **(3)** Les membres doivent avoir des connaissances ou de l’expérience susceptibles d’aider le comité consultatif à accomplir sa mission, notamment des connaissances ou de l’expérience dans le domaine de la rémunération ou de la statistique.
-
-**Représentativité**
-
-- **(4)** Le nombre des membres qui représentent les fonctionnaires doit être égal à celui des membres qui représentent l’employeur.
+**53** [Abrogé, 2013, ch. 40, art. 298]
 
 
 
@@ -993,8 +958,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** droit exclusif de négocier collectivement au nom des fonctionnaires de l’unité de négociation qu’elle représente;
 - **b)** révocation, en ce qui touche les fonctionnaires de l’unité de négociation, de l’accréditation de toute organisation syndicale antérieurement accréditée;
 - **c)** substitution de l’organisation syndicale — en qualité de partie à toute convention collective ou décision arbitrale s’appliquant à des fonctionnaires de l’unité de négociation, mais à l’égard de ces fonctionnaires seulement — à l’agent négociateur nommément désigné dans la convention collective ou à tout successeur de celui-ci;
-- **d)** assimilation de l’organisation syndicale à l’agent négociateur, pour l’application de l’article 107;
-- **e)** substitution de l’organisation syndicale — en qualité de partie à toute entente sur les services essentiels en vigueur — à l’agent négociateur nommément désigné dans l’entente ou à tout successeur de celui-ci.
+- **d)** assimilation de l’organisation syndicale à l’agent négociateur, pour l’application de l’article 107.
+- **e)** [Abrogé, 2013, ch. 40, art. 299]
+> 2003, ch. 22, art. 2 « 67 »; 2013, ch. 40, art. 299.
+
 
 
 
@@ -1140,15 +1107,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **79** 
 
-- **(1)** L’organisation syndicale qui, en raison de la fusion d’organisations syndicales ou du transfert de compétence entre de telles organisations — qui ne sont pas la conséquence d’une révocation d’accréditation —, succède à un agent négociateur donné est réputée en avoir acquis les droits, privilèges et obligations, y compris ceux qui découlent d’une convention collective, d’une décision arbitrale ou d’une entente sur les services essentiels.
+- **(1)** L’organisation syndicale qui, en raison de la fusion d’organisations syndicales ou du transfert de compétence entre de telles organisations  —  qui ne sont pas la conséquence d’une révocation d’accréditation  —, succède à un agent négociateur donné est réputée en avoir acquis les droits, privilèges et obligations, notamment ceux qui découlent d’une convention collective ou d’une décision arbitrale.
 
 **Détermination des droits, privilèges, etc.**
 
-- **(2)** Dans les cas de tels fusions ou transferts, la Commission, sur demande de l’employeur ou de toute personne ou organisation syndicale intéressée, détermine les droits, privilèges et obligations dévolus à l’organisation syndicale en cause en vertu de la présente partie, d’une convention collective, d’une décision arbitrale ou d’une entente sur les services essentiels à l’égard d’une unité de négociation ou d’un fonctionnaire en faisant partie.
+- **(2)** Dans les cas de tels fusions ou transferts, la Commission, sur demande de l’employeur ou de toute personne ou organisation syndicale intéressée, détermine les droits, privilèges et obligations dévolus à l’organisation syndicale en cause sous le régime de la présente partie, d’une convention collective ou d’une décision arbitrale à l’égard d’une unité de négociation ou d’un fonctionnaire en faisant partie.
 
 **Enquêtes et scrutin**
 
 - **(3)** La Commission peut, avant de rendre sa décision, faire des enquêtes et ordonner la tenue d’un scrutin de représentation parmi les fonctionnaires concernés. Le paragraphe 65(2) s’applique à la tenue du scrutin.
+> 2003, ch. 22, art. 2 « 79 »; 2013, ch. 40, art. 300.
+
 
 
 
@@ -1367,12 +1336,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La révocation de l’accréditation d’une organisation syndicale donnée comme agent négociateur emporte :
 	- **a)** sous réserve de l’alinéa 67c), cessation d’effet de toute convention collective ou de toute décision arbitrale liant les fonctionnaires de l’unité de négociation en cause;
-	- **b)** sous réserve du paragraphe (2), perte des droits et privilèges qui découlent de l’accréditation;
-	- **c)** sous réserve de l’alinéa 67e), cessation d’effet de toute entente sur les services essentiels à l’égard de postes au sein d’une unité de négociation.
+	- **b)** sous réserve du paragraphe (2), perte des droits et privilèges qui découlent de l’accréditation.
+	- **c)** [Abrogé, 2013, ch. 40, art. 301]
 
 **Détermination des droits de l’agent négociateur**
 
 - **(2)** Sur demande de l’une ou l’autre des organisations syndicales en cause, la Commission tranche toute question relative aux droits et obligations de l’agent négociateur dont elle vient de révoquer l’accréditation au titre des articles 96, 98, 99 ou 100 ou, le cas échéant, de l’organisation syndicale substituée à l’agent négociateur en vertu de l’alinéa 67c).
+> 2003, ch. 22, art. 2 « 101 »; 2013, ch. 40, art. 301.
+
 
 
 
@@ -1385,40 +1356,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 6** 
-### Choix du mode de règlement des différends
+### Mode de règlement des différends
 
 
 
-**Choix du mode de règlement des différends**
+**Conciliation**
 
-**103** 
-
-- **(1)** L’agent négociateur avise la Commission, en conformité avec les règlements, de son choix du mode de règlement — renvoi à l’arbitrage ou renvoi à la conciliation — applicable à tout différend auquel il peut être partie.
-
-**Enregistrement du mode de règlement des différends**
-
-- **(2)** La Commission enregistre le mode de règlement des différends choisi par l’agent négociateur.
-
-**Durée d’application du mode de règlement des différends**
-
-- **(3)** Le mode de règlement des différends enregistré par la Commission vaut, jusqu’à sa modification au titre de l’article 104, pour l’unité de négociation concernée à compter du jour où l’avis de négocier collectivement est donné pour la première fois après le choix du mode par l’agent négociateur.
+**103** Sous réserve de l’article 104, le mode de règlement des différends entre l’employeur et l’agent négociateur d’une unité de négociation est la conciliation.
+> 2003, ch. 22, art. 2 « 103 »; 2013, ch. 40, art. 302.
 
 
 
 
-**Demande de modification du mode de règlement des différends**
+
+**Arbitrage par convention**
 
 **104** 
 
-- **(1)** Tout agent négociateur peut, en conformité avec les règlements, demander à la Commission d’enregistrer une modification du mode de règlement des différends s’appliquant à l’unité de négociation pour laquelle il est accrédité.
+- **(1)** L’employeur et l’agent négociateur d’une unité de négociation peuvent convenir par écrit de l’arbitrage comme mode de règlement des différends. L’employeur qui est un organisme distinct ne peut convenir d’un tel mode de règlement sans l’agrément du président du Conseil du Trésor.
 
-**Enregistrement de la modification**
+**Arbitrage  — services essentiels**
 
-- **(2)** Sur réception de la demande, la Commission enregistre la modification.
+- **(2)** Si, à la date à laquelle l’avis de négocier collectivement peut être donné, au moins quatre-vingts pour cent des postes au sein de l’unité de négociation ont été désignés en vertu de l’article 120, l’arbitrage est le mode de règlement des différends entre l’employeur et l’agent négociateur.
+> 2003, ch. 22, art. 2 « 104 »; 2013, ch. 40, art. 302.
 
-**Date d’application et durée**
-
-- **(3)** La modification prend effet à la date du premier avis de négocier collectivement qui suit son enregistrement; elle reste en vigueur jusqu’à la modification du mode de règlement des différends conformément au présent article.
 
 
 
@@ -1440,17 +1401,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **105** 
 
-- **(1)** Une fois l’accréditation obtenue par l’organisation syndicale et le mode de règlement des différends enregistré par la Commission, l’agent négociateur ou l’employeur peut, par avis écrit, requérir l’autre partie d’entamer des négociations collectives en vue de la conclusion, du renouvellement ou de la révision d’une convention collective.
+- **(1)** Une fois l’accréditation obtenue par l’organisation syndicale, l’agent négociateur ou l’employeur peut, par avis écrit, requérir l’autre partie d’entamer des négociations collectives en vue de la conclusion, du renouvellement ou de la révision d’une convention collective.
 
 **Dates de l’avis**
 
-- **(2)** L’avis de négocier collectivement peut être donné :
-	- **a)** n’importe quand, si aucune convention collective ou décision arbitrale n’est en vigueur et si aucune des parties n’a présenté de demande d’arbitrage au titre de la présente partie;
-	- **b)** dans les quatre derniers mois d’application de la convention ou de la décision qui est alors en vigueur.
+- **(2)** Sous réserve du paragraphe (2.1), l’avis de négocier collectivement peut être donné :
+	- **a)** n’importe quand, si aucune convention collective ni aucune décision arbitrale n’est en vigueur et si aucune des parties n’a présenté de demande d’arbitrage au titre de la présente partie;
+	- **b)** dans les douze derniers mois d’application de la convention collective ou de la décision arbitrale qui est alors en vigueur.
+
+**Exception**
+
+- **(2.1)** Dans le cas d’un agent négociateur représentant une unité de négociation qui n’a jamais été lié par une convention collective ou une décision arbitrale à laquelle l’employeur est partie, l’avis de négocier collectivement ne peut être donné qu’après l’expiration des soixante jours suivant la date à laquelle l’employeur a donné l’avis exigé à l’article 121 à l’agent négociateur.
 
 **Copie à la Commission**
 
 - **(3)** Copie de l’avis est adressée à la Commission par la partie qui a donné l’avis.
+> 2003, ch. 22, art. 2 « 105 »; 2013, ch. 40, art. 303.
+
 
 
 
@@ -1470,9 +1437,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation de respecter les conditions d’emploi**
 
-**107** Une fois l’avis de négociation collective donné, sauf entente à l’effet contraire entre les parties aux négociations et sous réserve de l’article 132, les parties, y compris les fonctionnaires de l’unité de négociation, sont tenues de respecter chaque condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier a été donné, et ce, jusqu’à la conclusion d’une convention collective comportant cette condition ou :
-- **a)** dans le cas où le mode de règlement des différends est le renvoi à l’arbitrage, jusqu’à ce que la décision arbitrale soit rendue;
+**107** Une fois l’avis de négocier collectivement donné, sauf entente à l’effet contraire entre les parties aux négociations et sous réserve du paragraphe 125(1), les parties, y compris les fonctionnaires de l’unité de négociation, sont tenues de respecter chaque condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier a été donné, et ce, jusqu’à la conclusion d’une convention collective comportant cette condition ou :
+- **a)** dans le cas où le mode de règlement des différends est l’arbitrage, jusqu’à ce que la décision arbitrale soit rendue;
 - **b)** dans le cas où le mode de règlement des différends est le renvoi à la conciliation, jusqu’à ce qu’une grève puisse être déclarée ou autorisée, le cas échéant, sans qu’il y ait contravention au paragraphe 194(1).
+> 2003, ch. 22, art. 2 « 107 »; 2013, ch. 40, art. 304.
+
 
 
 
@@ -1621,208 +1590,145 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Application**
+**Droit de l’employeur de décider quels services sont essentiels**
 
-**119** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où le mode de règlement des différends applicable à celle-ci est le renvoi à la conciliation.
+**119** 
 
+- **(1)** L’employeur a le droit exclusif de décider que des services, installations ou activités de l’État fédéral sont essentiels parce qu’ils sont ou seront nécessaires à la sécurité de tout ou partie du public.
 
+**Droit de l’employeur**
 
-
-**Niveau des services par l’employeur**
-
-**120** L’employeur a le droit exclusif de fixer le niveau auquel un service essentiel doit être fourni à tout ou partie du public, notamment dans quelle mesure et selon quelle fréquence il doit être fourni. Aucune disposition de la présente section ne peut être interprétée de façon à porter atteinte à ce droit.
-
-
+- **(2)** La présente loi n’a pas pour effet de porter atteinte au droit conféré à l’employeur par le paragraphe (1).
+> 2003, ch. 22, art. 2 « 119 »; 2013, ch. 40, art. 305.
 
 
-**Accroissement de certaines fonctions lors d’une grève**
+
+
+
+**Droit de l’employeur de désigner des postes**
+
+**120** 
+
+- **(1)** L’employeur a le droit exclusif de désigner des postes au sein de l’unité de négociation dont tout ou partie des fonctions sont ou seront nécessaires pour lui permettre de fournir des services essentiels; il peut exercer ce droit en tout temps.
+
+**Droits de l’employeur**
+
+- **(2)** La présente loi n’a pas pour effet de porter atteinte au droit conféré à l’employeur par le paragraphe (1).
+> 2003, ch. 22, art. 2 « 120 »; 2013, ch. 40, art. 305.
+
+
+
+
+
+**Avis à l’agent négociateur**
 
 **121** 
 
-- **(1)** Pour le calcul du nombre des postes nécessaires à la fourniture d’un service essentiel, l’employeur et l’agent négociateur peuvent convenir que l’employeur pourra exiger de certains fonctionnaires de l’unité de négociation, lors d’une grève, qu’ils accomplissent leurs fonctions liées à la fourniture d’un service essentiel dans une proportion plus grande qu’à l’habitude.
+- **(1)** L’employeur est tenu d’aviser par écrit l’agent négociateur de l’unité de négociation qu’il a désigné ou non des postes au sein de cette unité de négociation en vertu de l’article 120.
 
-**Calcul du nombre de fonctionnaires nécessaires**
+**Postes désignés précisés**
 
-- **(2)** Pour l’application du paragraphe (1), le nombre de fonctionnaires de l’unité de négociation nécessaires à la fourniture d’un service essentiel est calculé :
-	- **a)** compte non tenu de la disponibilité d’autres personnes pour fournir ce service essentiel durant une grève;
-	- **b)** compte tenu du fait que l’employeur n’est pas obligé de changer le cours normal de ses opérations afin de fournir ce service essentiel pendant une grève, notamment en ce qui concerne les heures normales de travail, la mesure dans laquelle l’employeur a recours aux heures supplémentaires et le matériel que celui-ci utilise dans le cadre de ses opérations.
+- **(2)** L’employeur précise dans l’avis quels postes ont été désignés, le cas échéant.
+
+**Avis  —  délai**
+
+- **(3)** L’avis est donné au plus tard trois mois avant la date à partir de laquelle un avis de négocier collectivement peut être donné. Toutefois, dans le cas où l’organisation syndicale est accréditée à titre d’agent négociateur pour une unité de négociation après la date d’entrée en vigueur du présent article, l’avis doit être donné dans les soixante jours suivant l’accréditation.
+
+**Avis à la Commission**
+
+- **(4)** L’employeur doit aviser la Commission de la date où l’avis prévu au paragraphe (1) est donné à l’agent négociateur.
+> 2003, ch. 22, art. 2 « 121 »; 2013, ch. 40, art. 305.
 
 
 
 
-**Obligation de négocier**
+
+**Consultation**
 
 **122** 
 
-- **(1)** Si l’employeur a avisé par écrit l’agent négociateur qu’il estime que des fonctionnaires de l’unité de négociation occupent des postes nécessaires pour lui permettre de fournir des services essentiels, l’agent négociateur et lui font tous les efforts raisonnables pour conclure une entente sur les services essentiels dans les meilleurs délais.
+- **(1)** Dans le cas où l’avis prévu au paragraphe 121(1) précise que l’employeur a désigné des postes, l’employeur doit, une fois l’avis donné, entreprendre sans délai des consultations avec l’agent négociateur à l’égard des postes désignés qui y sont précisés. Ces consultations se terminent soixante jours après la date où l’avis a été donné.
 
-**Délai**
+**Décision de l’employeur**
 
-- **(2)** L’avis est donné au plus tard vingt jours après la date à laquelle un avis de négociation collective est donné.
+- **(2)** Dans les trente jours qui suivent l’expiration des soixante jours, l’employeur avise l’agent négociateur des postes au sein de l’unité de négociation qu’il a désignés ou qu’il désignera en vertu de l’article 120.
+> 2003, ch. 22, art. 2 « 122 »; 2013, ch. 40, art. 305.
 
-
-
-
-**Requête à la Commission**
-
-**123** 
-
-- **(1)** S’ils ne parviennent pas à conclure une entente sur les services essentiels, l’employeur ou l’agent négociateur peuvent demander à la Commission de statuer sur toute question qu’ils n’ont pas réglée et qui peut figurer dans une telle entente. La demande est présentée au plus tard :
-	- **a)** soit quinze jours après la date de présentation de la demande de conciliation;
-	- **b)** soit quinze jours après la date à laquelle les parties sont avisées par le président de son intention de recommander l’établissement d’une commission de l’intérêt public en application du paragraphe 163(2).
-
-**Report**
-
-- **(2)** La Commission peut attendre, avant de donner suite à la demande, d’être convaincue que l’employeur et l’agent négociateur ont fait tous les efforts raisonnables pour conclure une entente sur les services essentiels.
-
-**Pouvoirs de la Commission**
-
-- **(3)** Saisie de la demande, la Commission peut statuer sur toute question en litige pouvant figurer dans l’entente et, par ordonnance, prévoir que :
-	- **a)** sa décision est réputée faire partie de l’entente;
-	- **b)** les parties sont réputées avoir conclu une entente sur les services essentiels.
-
-**Réserve**
-
-- **(4)** L’ordonnance ne peut obliger l’employeur à modifier le niveau auquel un service essentiel doit être fourni à tout ou partie du public, notamment dans quelle mesure et selon quelle fréquence il doit être fourni.
-
-**Facteurs à prendre en compte**
-
-- **(5)** Pour le calcul du nombre des postes nécessaires à la fourniture d’un service essentiel, la Commission peut prendre en compte le fait que l’employeur pourra exiger de certains fonctionnaires de l’unité de négociation, lors d’une grève, qu’ils accomplissent leurs fonctions liées à la fourniture d’un service essentiel dans une proportion plus grande qu’à l’habitude.
-
-**Calcul du nombre de fonctionnaires nécessaires**
-
-- **(6)** Pour l’application du paragraphe (5), le nombre des fonctionnaires de l’unité de négociation nécessaires à la fourniture du service essentiel est calculé :
-	- **a)** compte non tenu de la disponibilité d’autres personnes pour fournir ce service essentiel durant une grève;
-	- **b)** compte tenu du fait que l’employeur n’est pas obligé de changer le cours normal de ses opérations afin de fournir ce service essentiel pendant une grève, notamment en ce qui concerne les heures normales de travail, la mesure dans laquelle l’employeur a recours aux heures supplémentaires et le matériel que celui-ci utilise dans le cadre de ses opérations.
-
-**Demande relative à un poste**
-
-- **(7)** Si la demande porte sur un poste en particulier à nommer dans l’entente, la proposition de l’employeur à cet égard l’emporte, sauf si la Commission décide que le poste en question n’est pas du type de ceux qui sont nécessaires pour permettre à l’employeur de fournir les services essentiels.
-
-
-
-
-**Entrée en vigueur de l’entente**
-
-**124** L’entente sur les services essentiels entre en vigueur à la date de sa signature par les parties ou, dans le cas où elle est réputée avoir été conclue en vertu d’une ordonnance prise au titre de l’alinéa 123(3)b), à la date de celle-ci.
-
-
-
-
-**Durée de l’entente**
-
-**125** L’entente sur les services essentiels demeure en vigueur jusqu’à ce que les parties décident conjointement qu’aucun des fonctionnaires de l’unité de négociation n’occupe un poste nécessaire pour permettre à l’employeur de fournir de tels services.
-
-
-
-
-**Avis de négociation**
-
-**126** 
-
-- **(1)** Si l’une des parties à l’entente sur les services essentiels avise l’autre par écrit qu’elle entend modifier l’entente, chacune d’elles fait tous les efforts raisonnables pour la modifier dans les meilleurs délais.
-
-**Délai**
-
-- **(2)** L’avis est donné au cours de la période de validité d’une convention collective entre les parties ou d’une décision arbitrale ou, si un avis de négociation collective en vue du renouvellement ou de la révision de la convention collective est donné, dans les soixante jours suivant celui-ci.
-
-
-
-
-**Demande à la Commission**
-
-**127** 
-
-- **(1)** S’ils ne parviennent pas à modifier l’entente sur les services essentiels, l’employeur ou l’agent négociateur peuvent demander à la Commission de la modifier. La demande est présentée au plus tard :
-	- **a)** soit quinze jours après la date de présentation de la demande de conciliation;
-	- **b)** soit quinze jours après la date à laquelle les parties sont avisées par le président de son intention de recommander l’établissement d’une commission de l’intérêt public en application du paragraphe 163(2).
-
-**Report**
-
-- **(2)** La Commission peut attendre, avant de donner suite à la demande, d’être convaincue que l’employeur et l’agent négociateur ont fait tous les efforts raisonnables pour modifier l’entente.
-
-**Modification de l’entente**
-
-- **(3)** La Commission peut, par ordonnance, modifier l’entente si elle l’estime nécessaire pour permettre à l’employeur de fournir les services essentiels.
-
-**Réserve**
-
-- **(4)** L’ordonnance ne peut obliger l’employeur à modifier le niveau auquel un service essentiel doit être fourni à tout ou partie du public, notamment dans quelle mesure et selon quelle fréquence il doit être fourni.
-
-**Facteurs à prendre en compte**
-
-- **(5)** Pour le calcul du nombre des postes nécessaires à la fourniture d’un service essentiel, la Commission peut prendre en compte le fait que l’employeur pourra exiger de certains fonctionnaires de l’unité de négociation, lors d’une grève, qu’ils accomplissent leurs fonctions liées à la fourniture d’un service essentiel dans une proportion plus grande qu’à l’habitude.
-
-**Calcul du nombre de fonctionnaires nécessaires**
-
-- **(6)** Pour l’application du paragraphe (5), le nombre des fonctionnaires de l’unité de négociation nécessaires à la fourniture du service essentiel est calculé :
-	- **a)** compte non tenu de la disponibilité d’autres personnes pour fournir ce service essentiel durant une grève;
-	- **b)** compte tenu du fait que l’employeur n’est pas obligé de changer le cours normal de ses opérations afin de fournir ce service essentiel pendant une grève, notamment en ce qui concerne les heures normales de travail, la mesure dans laquelle l’employeur a recours aux heures supplémentaires et le matériel que celui-ci utilise dans le cadre de ses opérations.
-
-**Demande relative à un poste**
-
-- **(7)** Si la demande porte sur un poste en particulier à nommer dans l’entente, la proposition de l’employeur à cet égard l’emporte, sauf si la Commission décide que le poste en question n’est pas du type de ceux qui sont nécessaires pour permettre à l’employeur de fournir les services essentiels.
-
-
-
-
-**Entrée en vigueur de la modification**
-
-**128** La modification de l’entente sur les services essentiels entre en vigueur à la date de la signature par les parties de l’entente la comportant ou, dans le cas où elle est faite par une ordonnance prise au titre du paragraphe 127(3), à la date de celle-ci.
 
 
 
 
 **Substitution de postes**
 
-**129** 
+**123** Si un poste désigné par l’employeur en vertu de l’article 120 devient vacant, l’employeur peut y substituer un autre poste du même type. L’employeur envoie alors un avis de substitution à l’agent négociateur.
+> 2003, ch. 22, art. 2 « 123 »; 2013, ch. 40, art. 305.
 
-- **(1)** Si, pendant la période de validité de l’entente sur les services essentiels, un poste qui y est nommé devient vacant, l’employeur peut y substituer un autre poste du même type. L’employeur envoie alors un avis de substitution à la Commission et une copie de celui-ci à l’agent négociateur.
-
-**Effet de l’avis**
-
-- **(2)** Une fois l’avis donné, le nouveau poste est réputé être nommé dans l’entente et celui qu’il remplace ne plus l’y être.
 
 
 
 
 **Avis aux fonctionnaires**
 
-**130** 
+**124** 
 
-- **(1)** L’employeur donne un avis aux fonctionnaires qui, aux termes de l’entente sur les services essentiels, occupent un poste nécessaire à la fourniture par l’employeur de ces services.
+- **(1)** Dès que possible après avoir désigné un poste en vertu de l’article 120, l’employeur donne au fonctionnaire qui occupe le poste un avis l’informant de la désignation.
 
 **Révocation de l’avis**
 
 - **(2)** L’avis donné au titre du présent article demeure en vigueur tant que le fonctionnaire occupe le poste, sauf révocation de l’avis par avis subséquent donné à celui-ci par l’employeur et précisant que son poste n’est plus nécessaire à la fourniture par l’employeur des services essentiels.
+> 2003, ch. 22, art. 2 « 124 »; 2013, ch. 40, art. 305.
 
-
-
-
-**Révision d’urgence de l’entente**
-
-**131** Malgré les autres dispositions de la présente section, si l’une des parties — employeur ou agent négociateur — estime qu’il est nécessaire, en raison d’une situation d’urgence, de modifier temporairement ou de suspendre l’entente sur les services essentiels mais qu’il leur est impossible de s’entendre à ce sujet, l’une ou l’autre de celles-ci peut à tout moment demander à la Commission de modifier temporairement ou de suspendre l’entente par ordonnance.
 
 
 
 
 **Obligation de respecter les conditions d’emploi**
 
-**132** Sauf entente à l’effet contraire entre les parties, toute condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier a été donné continue de s’appliquer aux fonctionnaires qui occupent un poste nécessaire, aux termes de l’entente sur les services essentiels, pour permettre à l’employeur de fournir ces services et lie les parties, y compris les fonctionnaires en question, jusqu’à la conclusion d’une convention collective.
+**125** 
+
+- **(1)** Sauf entente à l’effet contraire entre les parties, toute condition d’emploi qui peut figurer dans une convention collective et qui est encore en vigueur au moment où l’avis de négocier collectivement a été donné continue de s’appliquer aux fonctionnaires qui occupent un poste désigné en vertu de l’article 120 et lie les parties, y compris les fonctionnaires en question, jusqu’à la conclusion d’une convention collective.
+
+**Précision**
+
+- **(2)** La présente loi n’a pas pour effet de limiter le droit de l’employeur d’exiger du fonctionnaire qui occupe un poste désigné en vertu de l’article 120 d’exercer toutes les fonctions qui y sont attachées et d’être disponible, lorsqu’il n’est pas en service, au cas où l’employeur lui demanderait de se présenter au travail sans délai pour accomplir ces fonctions.
+> 2003, ch. 22, art. 2 « 125 »; 2013, ch. 40, art. 305.
 
 
 
 
-**Prorogation**
-
-**133** La Commission peut, sur demande de l’une ou l’autre partie, proroger tout délai prévu par la présente section.
+**126** [Abrogé, 2013, c. 40, art. 305]
 
 
 
+**127** [Abrogé, 2013, c. 40, art. 305]
 
-**Dépôt de l’entente auprès de la Commission**
 
-**134** L’une ou l’autre partie à l’entente sur les services essentiels peut en déposer une copie auprès de la Commission. L’entente, une fois déposée, est assimilée à une ordonnance de celle-ci.
+
+**128** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**129** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**130** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**131** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**132** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**133** [Abrogé, 2013, c. 40, art. 305]
+
+
+
+**134** [Abrogé, 2013, c. 40, art. 305]
 
 
 
@@ -1839,8 +1745,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 **135** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où :
-- **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est le renvoi à l’arbitrage;
+- **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est l’arbitrage;
 - **b)** d’autre part, les parties ont négocié de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi qui peut figurer dans une décision arbitrale.
+> 2003, ch. 22, art. 2 « 135 »; 2013, ch. 40, art. 306(F).
+
 
 
 
@@ -2021,31 +1929,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Facteurs à prendre en considération**
-
-**148** Dans la conduite de ses séances et dans la prise de ses décisions, le conseil d’arbitrage prend en considération les facteurs qui, à son avis, sont pertinents et notamment :
-- **a)** la nécessité d’attirer au sein de la fonction publique des personnes ayant les compétences voulues et de les y maintenir afin de répondre aux besoins des Canadiens;
-- **b)** la nécessité d’offrir au sein de la fonction publique une rémunération et d’autres conditions d’emploi comparables à celles des personnes qui occupent des postes analogues dans les secteurs privé et public, notamment les différences d’ordre géographique, industriel et autre qu’il juge importantes;
-- **c)** la nécessité de maintenir des rapports convenables, quant à la rémunération et aux autres conditions d’emploi, entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
-- **d)** la nécessité d’établir une rémunération et d’autres conditions d’emploi justes et raisonnables compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
-- **e)** l’état de l’économie canadienne et la situation fiscale du gouvernement du Canada.
+#### Prise des décisions arbitrales
 
 
 
+**Facteurs prépondérants**
 
-#### Établissement de la décision arbitrale
+**148** 
+
+- **(1)** Dans la conduite de ses séances et la prise de ses décisions arbitrales et afin de décider si le niveau de rémunération et les autres conditions d’emploi constituent une utilisation prudente des fonds publics et sont suffisants pour permettre à l’employeur de remplir ses besoins opérationnels, le conseil d’arbitrage se fonde sur les facteurs prépondérants suivants :
+	- **a)** la nécessité d’attirer et de maintenir au sein de la fonction publique des personnes ayant les compétences voulues afin de répondre aux besoins des Canadiens;
+	- **b)** la situation fiscale du Canada par rapport à ses politiques budgétaires énoncées.
+
+**Autres facteurs**
+
+- **(2)** Si cela est pertinent pour la prise de ses décisions visées au paragraphe (1), le conseil d’arbitrage peut prendre en considération les facteurs suivants :
+	- **a)** les rapports entre la rémunération et les autres conditions d’emploi entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
+	- **b)** la rémunération et les autres conditions d’emploi par rapport à celles des personnes qui occupent des postes analogues dans les secteurs privé et public, notamment les différences d’ordre géographique, industriel et autre qu’il juge pertinentes;
+	- **c)** la rémunération et les autres conditions d’emploi raisonnables compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
+	- **d)** l’état de l’économie canadienne.
+> 2003, ch. 22, art. 2 « 148 »; 2013, ch. 40, art. 307.
 
 
 
-**Établissement**
+
+
+**Décision**
 
 **149** 
 
-- **(1)** Le conseil d’arbitrage rend sa décision sur les questions en litige dans les meilleurs délais.
+- **(1)** Le conseil d’arbitrage rend sa décision sur les questions en litige dans les meilleurs délais et y énonce ses motifs pour chacune des questions en litige.
+
+**Aspects relatifs aux conditions d’emploi**
+
+- **(1.1)** Il ne peut rendre sa décision sans avoir pris en considération toutes les conditions d’emploi des fonctionnaires de l’unité de négociation en cause de même que les avantages dont ils bénéficient, notamment les salaires, les allocations, les primes, les indemnités de vacances, les cotisations de l’employeur aux caisses ou régimes de pension et toute forme de régime de soins médicaux et d’assurance dentaire.
 
 **Signature**
 
 - **(2)** La décision arbitrale est signée par le président du conseil d’arbitrage ou par le membre unique, selon le cas; un exemplaire en est transmis au président de la Commission.
+> 2003, ch. 22, art. 2 « 149 »; 2013, ch. 40, art. 309.
+
 
 
 
@@ -2168,6 +2091,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Réexamen
+
+
+
+**Réexamen à l’initiative du président**
+
+**158.1** 
+
+- **(1)** Le président peut, dans les sept jours suivant la date de la décision arbitrale, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision arbitrale s’il est d’avis que la décision ou la partie en cause ne représente pas une application raisonnable des facteurs visés à l’article 148 qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
+
+**Réexamen sur demande des parties**
+
+- **(2)** Sur demande de l’une ou l’autre des parties à la décision arbitrale présentée dans les sept jours suivant la date de la décision arbitrale, le président peut, dans les sept jours suivant la date de la demande, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision s’il est d’avis que la décision ou toute partie de celle-ci ne représente pas une application raisonnable des facteurs visés à l’article 148 qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
+
+**Confirmation ou modification**
+
+- **(3)** Dans les trente jours suivant l’ordonnance, le conseil d’arbitrage confirme la décision arbitrale ou la modifie en exposant ses motifs par écrit au président. Si la décision arbitrale est modifiée, il en fait également parvenir un exemplaire au président.
+
+**Avis**
+
+- **(4)** Le président est tenu, sans délai, d’aviser les parties de la décision du conseil d’arbitrage et de leur faire parvenir un exemplaire des motifs à l’appui de celle-ci. Si la décision arbitrale est modifiée, il en fait également parvenir un exemplaire aux parties.
+
+**Précision**
+
+- **(5)** Il est entendu que le pouvoir du conseil d’arbitrage de modifier la décision arbitrale est limité à ce qui touche les questions en litige qui lui ont été renvoyées originellement.
+> 2013, ch. 40, art. 310.
+
+
+
+
+
 #### Modification de la décision arbitrale
 
 
@@ -2191,8 +2145,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 **160** La présente section s’applique à l’employeur et à l’agent négociateur représentant une unité de négociation dans le cas où :
-- **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est le renvoi à la conciliation;
+- **a)** d’une part, le mode de règlement des différends applicable à l’unité de négociation est la conciliation;
 - **b)** d’autre part, les parties ont négocié de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi pouvant figurer dans une convention collective.
+> 2003, ch. 22, art. 2 « 160 »; 2013, ch. 40, art. 311(F).
+
 
 
 
@@ -2266,39 +2222,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **164** 
 
-- **(1)** La commission de l’intérêt public se compose d’un membre unique ou, sous réserve du paragraphe (2), de trois membres nommés conformément aux articles 166 ou 167, selon le cas.
+- **(1)** La commission de l’intérêt public se compose d’un membre unique ou, sous réserve du paragraphe (2), de trois membres nommés conformément aux articles 165 ou 167, selon le cas.
 
 **Trois membres à la demande des parties**
 
 - **(2)** La commission se compose de trois membres si une des parties en fait la demande.
+> 2003, ch. 22, art. 2 « 164 »; 2013, ch. 40, art. 312.
 
-
-
-
-**Liste**
-
-**165** 
-
-- **(1)** Pour l’application des articles 166 et 167, le président établit, après consultation des parties, une liste de noms de personnes en vue de l’établissement d’une commission de l’intérêt public formée d’un membre unique ou de la nomination du président d’une telle commission formée de trois membres.
-
-**Contenu de la liste**
-
-- **(2)** La liste contient :
-	- **a)** les noms des personnes admissibles recommandées conjointement par les parties;
-	- **b)** si le président estime que les parties n’ont pas conjointement recommandé un nombre suffisant de personnes, les noms d’autres personnes admissibles que le président estime compétentes.
 
 
 
 
 **Commission formée d’un membre unique**
 
-**166** 
+**165** 
 
-- **(1)** Si la commission de l’intérêt public doit être formée d’un membre unique, le président remet au ministre la liste établie conformément au paragraphe 165(1). Le président peut recommander la nomination de toute personne dont le nom figure sur la liste.
+- **(1)** Si la commission de l’intérêt public doit être formée d’un membre unique, le président soumet au ministre le nom de la personne recommandée conjointement par l’agent négociateur et l’employeur ou, à défaut de recommandation conjointe, le président peut recommander la personne de son choix.
 
 **Nomination par le ministre**
 
-- **(2)** Dès qu’il reçoit la liste, le ministre nomme une personne dont le nom y figure.
+- **(2)** Dès qu’il reçoit la recommandation, le ministre nomme la personne recommandée.
+> 2003, ch. 22, art. 2 « 165 »; 2013, ch. 40, art. 313.
+
+
+
+
+**166** [Abrogé, 2013, ch. 40, art. 313]
 
 
 
@@ -2315,15 +2264,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Nomination du président proposé par les membres**
 
-- **(3)** Dans les cinq jours qui suivent la date de nomination de la deuxième personne, les deux personnes nommées proposent, pour le poste de membre et président de la commission de l’intérêt public, le nom d’une personne figurant sur la liste établie conformément au paragraphe 165(1). Le président recommande ensuite au ministre de nommer la personne ainsi proposée, ce que ce dernier fait sans délai.
+- **(3)** Dans les cinq jours qui suivent la date de nomination de la deuxième personne, les deux personnes nommées proposent, pour le poste de membre et président de la commission de l’intérêt public, le nom d’une personne. Le président recommande ensuite au ministre de nommer la personne ainsi proposée, ce que ce dernier fait sans délai.
 
 **Absence de candidature**
 
-- **(4)** Faute de candidature proposée aux termes du paragraphe (3), le président remet immédiatement au ministre la liste établie conformément au paragraphe 165(1). Il peut lui recommander de nommer au poste de président de la commission de l’intérêt public toute personne dont le nom figure sur la liste.
+- **(4)** Faute de candidature proposée aux termes du paragraphe (3), le président soumet immédiatement au ministre le nom de la personne qu’il lui recommande de nommer au poste de président de la commission de l’intérêt public.
 
 **Nomination par le ministre**
 
-- **(5)** Dès qu’il reçoit la liste, le ministre nomme une personne dont le nom y figure.
+- **(5)** Dès qu’il reçoit la recommandation, le ministre nomme la personne recommandée au poste de président de la commission de l’intérêt public.
+> 2003, ch. 22, art. 2 « 167 »; 2013, ch. 40, art. 314.
+
 
 
 
@@ -2352,11 +2303,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **170** 
 
-- **(1)** En cas de décès, d’empêchement ou de démission du membre unique formant la commission de l’intérêt public avant la présentation du rapport au président, celui-ci recommande au ministre de nommer un nouveau membre unique parmi les autres personnes dont les noms figurent sur la liste visée à l’article 166; le ministre nomme sans délai la personne recommandée ou toute autre personne dont le nom figure sur la liste. Le nouveau membre unique recommence la procédure de conciliation.
+- **(1)** En cas de décès, d’empêchement ou de démission du membre unique formant la commission de l’intérêt public avant la présentation du rapport au président, celui-ci recommande au ministre de nommer un nouveau membre unique parmi les autres personnes visées à l’article 165; le ministre nomme sans délai la personne recommandée. Le nouveau membre unique recommence la procédure de conciliation.
 
 **Vacance d’un des trois membres**
 
 - **(2)** S’il se produit une vacance parmi les trois membres formant la commission de l’intérêt public avant que celle-ci n’ait rendu sa décision, le ministre, sur la recommandation du président, y pourvoit en procédant à une nomination de la manière prévue à l’article 167 pour le choix du titulaire du poste vacant.
+> 2003, ch. 22, art. 2 « 170 »; 2013, ch. 40, art. 315.
+
 
 
 
@@ -2405,14 +2358,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Facteurs à prendre en considération**
+**Facteurs prépondérants**
 
-**175** Dans la conduite de ses séances et l’établissement de son rapport, la commission de l’intérêt public prend en considération les facteurs qui, à son avis, sont pertinents et notamment :
-- **a)** la nécessité d’attirer au sein de la fonction publique des personnes ayant les compétences voulues et de les y maintenir afin de répondre aux besoins des Canadiens;
-- **b)** la nécessité d’offrir au sein de la fonction publique une rémunération et d’autres conditions d’emploi comparables à celles des personnes qui occupent des postes analogues dans les secteurs privé et public, notamment les différences d’ordre géographique, industriel et autre qu’elle juge importantes;
-- **c)** la nécessité de maintenir des rapports convenables, quant à la rémunération et aux autres conditions d’emploi, entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
-- **d)** la nécessité d’établir une rémunération et d’autres conditions d’emploi justes et raisonnables, compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
-- **e)** l’état de l’économie canadienne et la situation fiscale du gouvernement du Canada.
+**175** 
+
+- **(1)** Dans la conduite de ses séances et l’établissement de son rapport et afin de décider si le niveau de rémunération et les autres conditions d’emploi constituent une utilisation prudente des fonds publics et sont suffisants pour permettre à l’employeur de remplir ses besoins opérationnels, la commission de l’intérêt public se fonde sur les facteurs prépondérants suivants :
+	- **a)** la nécessité d’attirer et de maintenir au sein de la fonction publique des personnes ayant les compétences voulues afin de répondre aux besoins des Canadiens;
+	- **b)** la situation fiscale du Canada par rapport à ses politiques budgétaires énoncées.
+
+**Autres facteurs**
+
+- **(2)** Si cela est pertinent pour la prise de ses décisions visées au paragraphe (1), la commission de l’intérêt public peut prendre en considération les facteurs suivants :
+	- **a)** les rapports entre la rémunération et les autres conditions d’emploi entre les divers échelons au sein d’une même profession et entre les diverses professions au sein de la fonction publique;
+	- **b)** la rémunération et les autres conditions d’emploi par rapport à celles des personnes qui occupent des postes analogues dans les secteurs privé et public, notamment les différences d’ordre géographique, industriel et autre qu’elle juge pertinentes;
+	- **c)** la rémunération et les autres conditions d’emploi raisonnables compte tenu des qualifications requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
+	- **d)** l’état de l’économie canadienne.
+> 2003, ch. 22, art. 2 « 175 »; 2013, ch. 40, art. 316.
+
 
 
 
@@ -2427,9 +2389,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Dans les trente jours qui suivent la date de son établissement, ou dans le délai plus long convenu entre les parties ou fixé par le président, la commission de l’intérêt public présente à ce dernier un rapport exposant les résultats de son intervention ainsi que ses conclusions et recommandations.
 
+**Motifs**
+
+- **(1.1)** Elle indique dans son rapport les motifs de chacune de ses recommandations.
+
+**Prise en considération des conditions d’emploi**
+
+- **(1.2)** Elle ne peut présenter son rapport sans avoir pris en considération toutes les conditions d’emploi des fonctionnaires de l’unité de négociation en cause de même que les avantages dont ils bénéficient, notamment les salaires, les allocations, les primes, les indemnités de vacances, les cotisations de l’employeur aux caisses ou régimes de pension et toute forme de régime de soins médicaux et d’assurance dentaire.
+
 **Signature**
 
 - **(2)** Le rapport est signé par le président de la commission de l’intérêt public ou par le membre unique, selon le cas.
+> 2003, ch. 22, art. 2 « 176 »; 2013, ch. 40, art. 317.
+
 
 
 
@@ -2464,9 +2436,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Nouvel examen des questions contenues dans le rapport**
+**Réexamen des questions contenues dans le rapport**
 
-**179** Le président peut ordonner à la commission de l’intérêt public de réexaminer et de clarifier ou de développer tout ou partie de son rapport.
+**179** Le président peut ordonner à la commission de l’intérêt public de réexaminer et de clarifier ou de développer tout ou partie de son rapport s’il est d’avis que l’article 175 n’a pas été appliqué correctement.
+> 2003, ch. 22, art. 2 « 179 »; 2013, ch. 40, art. 318.
+
 
 
 
@@ -2489,15 +2463,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Mode substitutif de règlement**
+**Mode substitutif de règlement des différends**
 
 **182** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente partie, l’employeur et l’agent négociateur représentant une unité de négociation peuvent, à toute étape des négociations collectives, convenir de renvoyer à toute personne admissible, pour décision définitive et sans appel conformément au mode de règlement convenu entre eux, toute question concernant les conditions d’emploi des fonctionnaires de l’unité pouvant figurer dans une convention collective.
+- **(1)** Malgré les autres dispositions de la présente partie, l’employeur et l’agent négociateur représentant une unité de négociation peuvent, à toute étape des négociations collectives, convenir de renvoyer à toute personne admissible, pour décision définitive et sans appel conformément au mode de règlement convenu entre eux, toute question concernant les conditions d’emploi des fonctionnaires de l’unité qui peuvent figurer dans une convention collective. Si l’employeur est un organisme distinct, il ne peut procéder de la même façon qu’avec l’agrément du président du Conseil du Trésor.
 
 **Maintien du mode normal de règlement**
 
-- **(2)** Le mode de règlement des différends applicable à toute condition d’emploi non renvoyée à la personne en question pour décision définitive et sans appel demeure le renvoi à la conciliation.
+- **(2)** Le mode de règlement des différends applicable à toute condition d’emploi non renvoyée à la personne en question pour décision définitive et sans appel demeure la conciliation.
 
 **Effet du choix**
 
@@ -2516,6 +2490,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Admissibilité**
 
 - **(6)** Ne peut être saisie d’un renvoi au mode substitutif de règlement des différends la personne qui, dans les six mois précédant la nomination, a fait fonction de conseiller juridique ou de mandataire de l’employeur ou de toute organisation syndicale intéressée en matière de relations de travail.
+> 2003, ch. 22, art. 2 « 182 »; 2013, ch. 40, art. 319.
+
 
 
 
@@ -2682,7 +2658,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** l’employeur, l’agent négociateur ou le fonctionnaire a contrevenu à l’article 107 (obligation de respecter les conditions d’emploi);
 	- **d)** l’employeur, l’agent négociateur ou l’administrateur général a contrevenu au paragraphe 110(3) (obligation de négocier de bonne foi);
 	- **e)** l’employeur ou l’organisation syndicale a contrevenu aux articles 117 (obligation de mettre en application une convention) ou 157 (obligation de mettre en oeuvre la décision arbitrale);
-	- **f)** l’employeur, l’agent négociateur ou le fonctionnaire a contrevenu à l’article 132 (obligation de respecter les conditions d’emploi);
+	- **f)** l’employeur, l’agent négociateur ou le fonctionnaire a contrevenu au paragraphe 125(1) (obligation de respecter les conditions d’emploi);
 	- **g)** l’employeur, l’organisation syndicale ou toute personne s’est livré à une pratique déloyale au sens de l’article 185.
 
 **Délai de présentation**
@@ -2703,6 +2679,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** La Commission peut, sur demande, statuer sur la plainte visée au paragraphe (3) bien que celle-ci n’ait pas fait l’objet d’un grief ou d’un appel si elle est convaincue :
 	- **a)** soit que les faits donnant lieu à la plainte sont tels qu’il devrait être statué sans délai sur celle-ci;
 	- **b)** soit que l’organisation syndicale n’a pas donné au plaignant la possibilité de recourir facilement à une procédure de grief ou d’appel.
+> 2003, ch. 22, art. 2 « 190 »; 2013, ch. 40, art. 320.
+
 
 
 
@@ -2729,7 +2707,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **192** 
 
 - **(1)** Si elle décide que la plainte présentée au titre du paragraphe 190(1) est fondée, la Commission peut, par ordonnance, rendre à l’égard de la partie visée par la plainte toute ordonnance qu’elle estime indiquée dans les circonstances et, notamment :
-	- **a)** en cas de contravention par l’employeur des articles 107 ou 132, lui enjoindre de payer à un fonctionnaire donné une indemnité équivalant au plus, à son avis, à la rémunération qui aurait été payée par l’employeur au fonctionnaire s’il n’y avait pas eu contravention;
+	- **a)** en cas de contravention par l’employeur à l’article 107 ou au paragraphe 125(1), lui enjoindre de payer à un fonctionnaire donné une indemnité équivalant au plus, à son avis, à la rémunération qui aurait été payée par l’employeur au fonctionnaire s’il n’y avait pas eu contravention;
 	- **b)** en cas de contravention par l’employeur de l’alinéa 186(2)a), lui enjoindre :
 		- **(i)** d’engager, de continuer à employer ou de reprendre à son service le fonctionnaire ou toute autre personne, selon le cas, qui a fait l’objet d’une mesure interdite par cet alinéa,
 		- **(ii)** de payer à toute personne touchée par la contravention une indemnité équivalant au plus, à son avis, à la rémunération qui lui aurait été payée par l’employeur s’il n’y avait pas eu contravention,
@@ -2746,6 +2724,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne agissant pour le compte d’une organisation syndicale**
 
 - **(3)** Lorsqu’elle vise une personne qui a agi ou prétendu agir pour le compte d’une organisation syndicale, l’ordonnance est en outre adressée au dirigeant attitré de l’organisation.
+> 2003, ch. 22, art. 2 « 192 »; 2013, ch. 40, art. 321.
+
 
 
 
@@ -2779,17 +2759,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** si une convention collective est en vigueur pour l’unité de négociation;
 	- **c)** si aucune convention collective n’est en vigueur pour l’unité de négociation et qu’aucun avis de négocier collectivement n’a été donné;
 	- **d)** si aucune convention collective n’est en vigueur pour l’unité de négociation, qu’un avis de négocier collectivement a été donné et qu’aucune demande de renvoi à la conciliation n’a été faite au titre de l’article 161;
-	- **e)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à l’arbitrage;
-	- **f)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à la conciliation, que l’employeur ou l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, a donné l’avis au titre de l’article 122 en vue de la conclusion d’une entente sur les services essentiels et qu’aucune entente de ce genre n’est en vigueur;
-	- **g)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à la conciliation, que l’employeur ou l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, a donné l’avis au titre de l’article 126 en vue de la modification d’une entente sur les services essentiels et que l’entente n’a pas été modifiée par suite de l’avis ou, en cas de présentation de la demande visée au paragraphe 127(1), que la Commission n’a pas rendu de décision définitive à son égard;
-	- **h)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à la conciliation et que moins de trente jours francs se sont écoulés depuis la date à laquelle :
-		- **(i)** soit une entente sur les services essentiels est entrée en vigueur à l’égard de l’unité de négociation,
-		- **(ii)** soit, en cas de présentation de la demande visée au paragraphe 123(1) par l’employeur ou l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, la Commission a rendu une décision définitive à son égard;
-	- **i)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à la conciliation, que l’employeur ou l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, a donné l’avis en vue de la modification de l’entente sur les services essentiels et que moins de trente jours francs se sont écoulés depuis la date à laquelle :
-		- **(i)** soit la modification visée par l’avis est entrée en vigueur,
-		- **(ii)** soit, en cas de présentation de la demande visée au paragraphe 127(1) par l’employeur ou l’organisation syndicale, la Commission a rendu une décision définitive à son égard;
-	- **j)** si une entente sur les services essentiels liant l’organisation syndicale et l’employeur a été suspendue par ordonnance rendue en vertu de l’article 131;
-	- **k)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est le renvoi à la conciliation et qu’aucune commission de l’intérêt public n’a été établie pour aider l’employeur et l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, à conclure ou à réviser la convention collective, sauf si l’organisation syndicale a été avisée conformément au paragraphe 162(3) qu’une telle commission ne serait pas établie;
+	- **e)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est l’arbitrage;
+	- **f)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est la conciliation, qu’un avis a été donné en application de l’article 121 précisant que l’employeur a, en vertu de l’article 120, désigné des postes au sein de l’unité de négociation et que l’employeur n’a pas avisé l’agent négociateur en application du paragraphe 122(2);
+	- **g) à j)** [Abrogés, 2013, ch. 40, art. 322]
+	- **k)** si le mode de règlement des différends applicable à l’égard de l’unité de négociation est la conciliation et qu’aucune commission de l’intérêt public n’a été établie pour aider l’employeur et l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, à conclure ou à réviser la convention collective, sauf si l’organisation syndicale a été avisée conformément au paragraphe 162(3) qu’une telle commission ne serait pas établie;
 	- **l)** si l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, a été avisée conformément au paragraphe 162(3) qu’aucune commission de l’intérêt public ne serait établie pour aider l’employeur et l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, à conclure ou à réviser la convention collective et que moins de sept jours francs se sont écoulés depuis la date d’envoi de l’avis;
 	- **m)** si une commission de l’intérêt public a été établie pour aider l’employeur et l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, à conclure ou à réviser la convention collective et que, soit le président n’a pas encore envoyé aux parties le rapport — ou le rapport ayant fait l’objet d’un réexamen — de la commission, soit moins de sept jours francs se sont écoulés depuis la date d’envoi de celui-ci;
 	- **n)** si l’organisation syndicale, à titre d’agent négociateur de l’unité de négociation, a convenu avec l’employeur, conformément à l’article 181, qu’ils étaient liés en ce qui touche toutes les questions en litige;
@@ -2802,7 +2775,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Services essentiels**
 
-- **(2)** Il est interdit à toute organisation syndicale de déclarer ou d’autoriser une grève à l’égard d’une unité de négociation donnée, et à tout dirigeant ou représentant d’une telle organisation de conseiller ou susciter la déclaration ou l’autorisation d’une telle grève, ou encore la participation de fonctionnaires à une telle grève, quand celle-ci a ou aurait pour effet d’y faire participer tout fonctionnaire qui occupe un poste nécessaire, aux termes d’une entente sur les services essentiels, pour permettre à l’employeur de fournir ces services.
+- **(2)** Il est interdit à toute organisation syndicale de déclarer ou d’autoriser une grève à l’égard d’une unité de négociation donnée, et à tout dirigeant ou représentant d’une telle organisation de conseiller ou susciter la déclaration ou l’autorisation d’une telle grève, ou encore la participation de fonctionnaires à une telle grève, quand celle-ci a ou aurait pour effet d’y faire participer tout fonctionnaire qui occupe un poste désigné en vertu de l’article 120.
+> 2003, ch. 22, art. 2 « 194 »; 2013, ch. 40, art. 322.
+
 
 
 
@@ -2821,18 +2796,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** si une convention collective est en vigueur pour l’unité de négociation dont il fait partie;
 - **c)** si aucune convention collective n’est en vigueur pour l’unité de négociation dont il fait partie et qu’aucun avis de négocier collectivement n’a été donné;
 - **d)** si aucune convention collective n’est en vigueur pour l’unité de négociation dont il fait partie et qu’un avis de négocier collectivement a été donné et qu’aucune demande de renvoi à la conciliation n’a été faite au titre de l’article 161;
-- **e)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à l’arbitrage;
-- **f)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à la conciliation, que l’employeur ou l’agent négociateur de l’unité de négociation a donné l’avis au titre de l’article 122 en vue de la conclusion d’une entente sur les services essentiels et qu’aucune entente de ce genre n’est en vigueur à l’égard de cette unité de négociation;
-- **g)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à la conciliation, que l’employeur ou l’agent négociateur de l’unité de négociation a donné l’avis au titre de l’article 126 en vue de la modification d’une entente sur les services essentiels et que l’entente n’a pas été modifiée par suite de l’avis ou, en cas de présentation de la demande visée au paragraphe 127(1), que la Commission n’a pas rendu de décision définitive à son égard;
-- **h)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à la conciliation et que moins de trente jours francs se sont écoulés depuis la date à laquelle :
-	- **(i)** soit une entente sur les services essentiels est entrée en vigueur à l’égard de l’unité de négociation,
-	- **(ii)** soit, en cas de présentation de la demande visée au paragraphe 123(1) par l’employeur ou l’agent négociateur de l’unité de négociation, la Commission a rendu une décision définitive à son égard;
-- **i)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à la conciliation, que l’employeur ou l’agent négociateur de l’unité de négociation a donné l’avis en vue de la modification de l’entente sur les services essentiels et que moins de trente jours francs se sont écoulés depuis la date à laquelle :
-	- **(i)** soit la modification visée par l’avis est entrée en vigueur,
-	- **(ii)** soit, en cas de présentation de la demande visée au paragraphe 127(1) par l’employeur ou l’agent négociateur, la Commission a rendu une décision définitive à son égard;
-- **j)** s’il occupe un poste nécessaire, aux termes d’une entente sur les services essentiels, pour permettre à l’employeur de fournir ces services;
-- **k)** s’il appartient à une unité de négociation à l’égard de laquelle une entente sur les services essentiels liant l’agent négociateur de l’unité de négociation et l’employeur a été suspendue par ordonnance rendue en vertu de l’article 131;
-- **l)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est le renvoi à la conciliation et à l’égard de laquelle aucune commission de l’intérêt public n’a été établie pour aider l’employeur et l’agent négociateur de l’unité de négociation à conclure ou à réviser la convention collective, sauf si l’agent négociateur a été avisé conformément au paragraphe 162(3) qu’aucune commission ne serait établie;
+- **e)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est l’arbitrage;
+- **f)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est la conciliation, qu’un avis a été donné en application de l’article 121 précisant que l’employeur a, en vertu de l’article 120, désigné des postes au sein de l’unité de négociation et que l’employeur n’a pas avisé l’agent négociateur en application du paragraphe 122(2);
+- **g)** s’il occupe un poste désigné en vertu de l’article 120;
+- **h) à k)** [Abrogés, 2013, ch. 40, art. 323]
+- **l)** s’il appartient à une unité de négociation pour laquelle le mode de règlement des différends est la conciliation et à l’égard de laquelle aucune commission de l’intérêt public n’a été établie pour aider l’employeur et l’agent négociateur de l’unité de négociation à conclure ou à réviser la convention collective, sauf si l’agent négociateur a été avisé conformément au paragraphe 162(3) qu’aucune commission ne serait établie;
 - **m)** s’il appartient à une unité de négociation à l’égard de laquelle l’agent négociateur de l’unité de négociation a été avisé conformément au paragraphe 162(3) qu’aucune commission de l’intérêt public ne serait établie pour aider l’employeur et l’agent négociateur à conclure ou à réviser la convention collective et que moins de sept jours francs se sont écoulés depuis la date d’envoi de l’avis;
 - **n)** s’il appartient à une unité de négociation à l’égard de laquelle une commission de l’intérêt public a été établie pour aider l’employeur et l’agent négociateur de l’unité de négociation à conclure ou à réviser la convention collective et que soit le président n’a pas encore envoyé aux parties le rapport — ou le rapport ayant fait l’objet d’un réexamen — de la commission, soit moins de sept jours francs se sont écoulés depuis la date d’envoi de celui-ci;
 - **o)** s’il appartient à une unité de négociation dont l’agent négociateur a convenu avec l’employeur, conformément à l’article 181, qu’ils étaient liés en ce qui touche toutes les questions en litige;
@@ -2842,6 +2810,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **s)** s’il appartient à une unité de négociation à l’égard de laquelle l’agent négociateur a tenu le vote au scrutin secret en conformité avec l’article 184 et que :
 	- **(i)** soit la grève n’a pas été approuvée par la majorité des votants,
 	- **(ii)** soit la grève a été approuvée par la majorité des votants et elle a été déclarée ou autorisée par l’agent négociateur plus de soixante jours francs après la tenue du vote ou, si l’agent négociateur et l’employeur se sont entendus par écrit sur une période plus longue, après l’expiration de celle-ci.
+> 2003, ch. 22, art. 2 « 196 »; 2013, ch. 40, art. 323.
+
 
 
 
@@ -2907,7 +2877,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obstruction**
 
-**199** Il est interdit d’empêcher ou de tenter d’empêcher un fonctionnaire donné d’entrer dans son lieu de travail ou d’en sortir lorsque celui-ci occupe un poste nécessaire, au titre d’une entente sur les services essentiels, pour permettre à l’employeur de fournir de tels services.
+**199** Il est interdit d’empêcher ou de tenter d’empêcher un fonctionnaire d’entrer dans son lieu de travail ou d’en sortir lorsque celui-ci occupe un poste désigné en vertu de l’article 120.
+> 2003, ch. 22, art. 2 « 199 »; 2013, ch. 40, art. 324.
+
 
 
 
@@ -3643,7 +3615,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **247** 
 
-- **(1)** Les membres d’un conseil d’arbitrage, les médiateurs, les arbitres de grief, les personnes nommées en vertu du paragraphe 53(2) et les personnes saisies d’un renvoi aux termes du paragraphe 182(1) ont droit à la rémunération et aux indemnités que peut fixer le gouverneur en conseil.
+- **(1)** Les membres d’un conseil d’arbitrage, les médiateurs, les arbitres de grief et les personnes saisies d’un renvoi au titre du paragraphe 182(1) ont droit à la rémunération et aux indemnités que peut fixer le gouverneur en conseil.
 
 **Rémunération et indemnités**
 
@@ -3652,6 +3624,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération et indemnités à payer par la partie**
 
 - **(3)** Si la commission de l’intérêt public se compose de trois membres, la rémunération et les indemnités à payer aux membres dont la nomination a été faite sur proposition d’une partie, ou réputée ainsi faite, le sont par cette partie.
+> 2003, ch. 22, art. 2 « 247 »; 2013, ch. 40, art. 337.
+
 
 
 
