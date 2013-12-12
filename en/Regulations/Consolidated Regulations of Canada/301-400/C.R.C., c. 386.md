@@ -76,8 +76,8 @@ Enabling authorities:
 - **(a)** any post office;
 - **(b)** any local office of the Commission;
 - **(c)** any office of the Department of National Revenue; and
-- **(d)** any office of the Department of Human Resources and Skills Development.
-> SOR/2000-133, s. 6; SOR/2013-84, s. 3.
+- **(d)** any office of the Department of Employment and Social Development.
+> SOR/2000-133, s. 6; 2013, c. 40, s. 237; SOR/2013-84, s. 3.
 
 
 
