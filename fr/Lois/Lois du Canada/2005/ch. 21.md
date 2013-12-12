@@ -1383,9 +1383,9 @@ où :
 - **a)** à quiconque, pour obtenir de celui-ci les renseignements nécessaires à l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
 - **b)** à tout cadre ou fonctionnaire du ministère des Anciens Combattants, pour l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
 - **c)** à quiconque, pour le recouvrement d’une créance du Canada sur les Nations Unies ou sur un autre organisme international ou pays au titre d’une entente internationale;
-- **d)** au ministère des Ressources humaines et du Développement des compétences, pour l’application de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **d)** au ministère de l’Emploi et du Développement social, pour l’application de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **e)** au Service correctionnel du Canada, pour l’application de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md).
-> 2005, ch. 21, art. 81 et 116; 2012, ch. 19, art. 695.
+> 2005, ch. 21, art. 81 et 116; 2012, ch. 19, art. 695; 2013, ch. 40, art. 237.
 
 
 
