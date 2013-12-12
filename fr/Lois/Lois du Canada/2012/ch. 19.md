@@ -3831,15 +3831,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**609** [Modifications]
+**609** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé, 2013, ch. 40, art. 139]
+
+- **(3) à (5)** [Modifications]
+
+- **(6)** [Abrogé, 2013, ch. 40, art. 139]
+
+- **(7)** [Modification]
 
 
 
-**610** [Modifications]
+**610** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé, 2013, ch. 40, art. 140]
 
 
 
-**611** [Modifications]
+**611** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé, 2013, ch. 40, art. 141]
 
 
 
@@ -3896,12 +3914,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <a name='fn_Ind1FA3_hq_12929'><sup>*</sup></a>: [Note : Articles 605 et 607 en vigueur le 6 janvier 2013, *voir* TR/2012-98.]<br />
 
-**Décret**
-
-- <sup><a href='#fn_Ind311D_hq_12953'>[*]</a></sup>**(3)** Les paragraphes 609(2) et (6), 610(2) et 611(2) entrent en vigueur à la date fixée par décret.
-
-<a name='fn_Ind311D_hq_12953'><sup>*</sup></a>: [Note : Paragraphes 609(2) et (6), 610(2) et 611(2) non en vigueur.]<br />
-> 2012, ch. 19, art. 619, ch. 31, art. 451.
+- **(3)** [Abrogé, 2013, ch. 40, art. 142]
+> 2012, ch. 19, art. 619, ch. 31, art. 451; 2013, ch. 40, art. 142.
 
 
 
