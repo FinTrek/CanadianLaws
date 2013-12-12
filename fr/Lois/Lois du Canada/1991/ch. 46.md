@@ -4389,7 +4389,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Incapacité d’exercice**
 
-**160** Ne peuvent être administrateurs les personnes :
+**160** Ne peuvent être administrateurs les personnes :
 - **a)** âgées de moins de dix-huit ans;
 - **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 - **c)** qui ont le statut de failli;
@@ -4397,24 +4397,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **e)** à qui le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
 - **f.1)** qui sont des administrateurs, dirigeants employés ou mandataires d’un mandataire admissible au sens du paragraphe 370(1) ou qui agissent au nom d’un tel mandataire;
-- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
+- **g)** [Abrogé, 2013, ch. 40, art. 161]
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires;
 - **j)** qui, dans le cas d’une coopérative de crédit fédérale, ne se conforment pas aux exigences des règlements administratifs.
-> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2010, ch. 12, art. 1968; 2012, ch. 19, art. 330, ch. 31, art. 109.
+> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2010, ch. 12, art. 1968; 2012, ch. 19, art. 330, ch. 31, art. 109; 2013, ch. 40, art. 161.
 
 
 
 
-
-**Exception**
-
-**160.1** L’alinéa 160g) ne s’applique pas si les conditions suivantes sont réunies :
-- **a)** la personne est engagée dans un ministère ou organisme fédéral qui ne s’occupe pas de la réglementation ou de la supervision des institutions financières;
-- **b)** ses fonctions ne se rapportent pas aux institutions financières;
-- **c)** la banque est contrôlée par une coopérative de crédit locale, au sens de l’article 2 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), dans laquelle les personnes suivantes détiennent plus de cinquante pour cent — ou le pourcentage prévu par règlement — des titres de participation : les employés, anciens ou actuels, de Sa Majesté du chef du Canada ou d’une province, leur époux ou conjoint de fait ou leurs enfants de moins de dix-huit ans.
-> 2001, ch. 9, art. 71.
-
+**160.1** [Abrogé, 2013, ch. 40, art. 162]
 
 
 
@@ -12017,6 +12009,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(5)** La banque est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
+**Non-application du paragraphe (2)**
+
+- **(5.1)** Il est interdit à la banque de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 468(1)j) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(5.2)** La banque qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 468(1)j) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (5.1) peut continuer à le détenir.
+
 **Application d’une autre disposition**
 
 - **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la banque peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues à cette autre disposition soient respectées.
@@ -12024,7 +12024,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la banque est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127; 2007, ch. 6, art. 39.
+> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127; 2007, ch. 6, art. 39; 2013, ch. 40, art. 168.
 
 
 
@@ -19156,7 +19156,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Incapacité d’exercice**
 
-**750** Ne peuvent être administrateurs les personnes :
+**750** Ne peuvent être administrateurs les personnes :
 - **a)** âgées de moins de dix-huit ans;
 - **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 - **c)** qui ont le statut de failli;
@@ -19164,10 +19164,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **e)** à qui le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille bancaire;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société;
 - **f.1)** qui sont des administrateurs, dirigeants, employés ou mandataires d’un mandataire admissible au sens du paragraphe 370(1) ou qui agissent au nom d’un tel mandataire;
-- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
+- **g)** [Abrogé, 2013, ch. 40, art. 163]
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 183; 2012, ch. 19, art. 335, ch. 31, art. 119.
+> 2001, ch. 9, art. 183; 2012, ch. 19, art. 335, ch. 31, art. 119; 2013, ch. 40, art. 163.
 
 
 
@@ -22538,6 +22538,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(4)** La société de portefeuille bancaire est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
+**Non-application du paragraphe (2)**
+
+- **(4.1)** Il est interdit à la société de portefeuille bancaire de se prévaloir du paragraphe (2) pour acquérir le contrôle d’une entité visée à l’alinéa 930(1)j) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Détention**
+
+- **(4.2)** La société de portefeuille bancaire qui détient un intérêt de groupe financier dans une entité visée à l’alinéa 930(1)j) et qui s’est prévalue du paragraphe (2) pour acquérir ou augmenter cet intérêt avant l’entrée en vigueur du paragraphe (4.1) peut continuer à le détenir.
+
 **Application d’une autre disposition**
 
 - **(5)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société de portefeuille bancaire peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
@@ -22545,7 +22553,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille bancaire est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 121.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 121; 2013, ch. 40, art. 169.
 
 
 
