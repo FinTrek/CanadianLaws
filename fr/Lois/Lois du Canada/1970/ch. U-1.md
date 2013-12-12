@@ -30,14 +30,14 @@
 
 **2** Dans la présente loi
 
-***accord*** signifie un accord conclu selon l’article 3;
+***accord*** signifie un accord conclu selon l’article 3; (*agreement*)
 
-***contributions*** signifie les contributions versées par le Canada aux termes d’un accord;
+***contributions*** signifie les contributions versées par le Canada aux termes d’un accord; (*contributions*)
 
-***frais d’assistance-chômage*** signifie l’ensemble de ce que coûte à la province, ainsi qu’aux municipalités de la province, l’octroi de l’assistance financière aux nécessiteux;
+***frais d’assistance-chômage*** signifie l’ensemble de ce que coûte à la province, ainsi qu’aux municipalités de la province, l’octroi de l’assistance financière aux nécessiteux; (*unemployment assistance costs*)
 
-***Ministre*** Le ministre des Ressources humaines et du Développement des compétences.
-> S.R. 1970, ch. U-1; 1999, ch. 31, art. 221; 2005, ch. 34, art. 80.
+***Ministre*** Le ministre de l’Emploi et du Développement social. (*Minister*)
+> S.R. 1970, ch. U-1; 1999, ch. 31, art. 221; 2005, ch. 34, art. 80; 2013, ch. 40, art. 238.
 
 
 
@@ -117,8 +117,8 @@
 
 **Paiements sur le F.R.C.**
 
-**6** Les contributions doivent être payées sur le Fonds du revenu consolidé, moyennant le certificat du ministre des Ressources humaines et du Développement des compétences; mais tous les versements de contributions sont soumis aux conditions spécifiées dans l’accord et à l’observation, par la province, des dispositions de celui-ci.
-> S.R. 1970, ch. U-1; 1996, ch. 11, art. 96; 2005, ch. 34, art. 80.
+**6** Les contributions doivent être payées sur le Fonds du revenu consolidé, moyennant le certificat du ministre de l’Emploi et du Développement social; mais tous les versements de contributions sont soumis aux conditions spécifiées dans l’accord et à l’observation, par la province, des dispositions de celui-ci.
+> S.R. 1970, ch. U-1; 1996, ch. 11, art. 96; 2005, ch. 34, art. 80; 2013, ch. 40, art. 238.
 
 
 
