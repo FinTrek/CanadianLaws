@@ -372,7 +372,9 @@ It includes any prescribed family member of such a person.
 
 **Solicitor-client privilege**
 
-**11** Nothing in this Part requires a legal counsel to disclose any communication that is subject to solicitor-client privilege.
+**11** Nothing in this Act requires a legal counsel to disclose any communication that is subject to solicitor-client privilege.
+> 2000, c. 17, s. 11; 2013, c. 40, s. 279.
+
 
 
 
@@ -2062,8 +2064,8 @@ The order must be complied with within the period following the service of the o
 
 **Limitation**
 
-- **(3)** Any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in that subsection only for purposes relating to compliance with Part 1.
-> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36.
+- **(3)** Any information disclosed by the Centre under subsection (1) may be used by an agency referred to in that subsection only as evidence of a contravention of Part 1, and any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in subsection (2) only for purposes relating to compliance with Part 1.
+> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36; 2013, c. 40, s. 280.
 
 
 
