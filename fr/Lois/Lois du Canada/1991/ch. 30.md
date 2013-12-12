@@ -581,6 +581,8 @@ Ministère de la Santé<br />- <i>Department of Health</i>
 
 Ministère de la Sécurité publique et de la Protection civile<br />- <i> Department of Public Safety and Emergency Preparedness</i>
 
+Ministère de l’Emploi et du Développement social<br />- <i>Department of Employment and Social Development</i>
+
 Ministère de l’Environnement<br />- <i>Department of the Environment</i>
 
 Ministère de l’Industrie<br />- <i>Department of Industry</i>
@@ -594,8 +596,6 @@ Ministère des Anciens Combattants<br />- <i>Department of Veterans Affairs</i>
 Ministère des Finances<br />- <i>Department of Finance</i>
 
 Ministère des Pêches et des Océans<br />- <i>Department of Fisheries and Oceans</i>
-
-Ministère des Ressources humaines et du Développement des compétences<br />- <i>Department of Human Resources and Skills Development</i>
 
 Ministère des Ressources naturelles<br />- <i>Department of Natural Resources</i>
 
@@ -765,7 +765,7 @@ Tribunal de la concurrence<br />- <i>Competition Tribunal</i>
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des anciens combattants (révision et appel)<br />- <i>Veterans Review and Appeal Board</i>
-> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 33, art. 188 à 190.
+> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 1, art. 160, ch. 19, art. 279, 280, 592 et 693, ch. 31, art. 295; 2013, ch. 33, art. 188 à 190, ch. 40, art. 232 et 233.
 
 
 
@@ -786,9 +786,9 @@ Construction de défense (1951) Limitée<br />- <i>Defence Construction (1951) L
 
 Musée canadien de la nature<br />- <i>Canadian Museum of Nature</i>
 
-Musée canadien de l’immigration du Quai 21<br />- <i>Canadian Museum of Immigration at Pier 21</i>
+Musée canadien de l’histoire<br />- <i>Canadian Museum of History</i>
 
-Musée canadien des civilisations<br />- <i>Canadian Museum of Civilization</i>
+Musée canadien de l’immigration du Quai 21<br />- <i>Canadian Museum of Immigration at Pier 21</i>
 
 Musée canadien des droits de la personne<br />- <i>Canadian Museum for Human Rights</i>
 
@@ -803,6 +803,6 @@ Société de construction des musées du Canada Inc.<br />- <i>Canada Museums Co
 Société d’expansion du Cap-Breton<br />- <i>Enterprise Cape Breton Corporation</i>
 
 Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée<br />- <i>Old Port of Montreal Corporation Inc.</i>
-> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11.
+> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22.
 
 
