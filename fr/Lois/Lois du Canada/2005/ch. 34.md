@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md)
 
-# Loi sur le ministère des Ressources humaines et du Développement des compétences
+# Loi sur le ministère de l’Emploi et du Développement social
 
 **L.C. 2005, ch. 34**
 
@@ -24,7 +24,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur le ministère des Ressources humaines et du Développement des compétences.
+**1** Loi sur le ministère de l’Emploi et du Développement social.
+> 2005, ch. 34, art. 1; 2013, ch. 40, art. 205.
+
 
 
 
@@ -39,37 +41,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Commission*** La Commission de l’assurance-emploi du Canada maintenue par l’article 20.
 
-***ministre*** Le ministre des Ressources humaines et du Développement des compétences.
+***ministre*** Le ministre de l’Emploi et du Développement social.
 
 ***Tribunal*** Le Tribunal de la sécurité sociale constitué par l’article 44.
-> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223.
+> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223; 2013, ch. 40, art. 206.
 
 
 
 
 
 **PARTIE 1** 
-## Ministère des Ressources humaines et du Développement des compétences
+## Ministère de l’emploi et du développement social
 
 
 
-### Mise en place
+### Maintien
 
 
 
-**Constitution du ministère**
+**Maintien du ministère**
 
 **3** 
 
-- **(1)** Est constitué le ministère des Ressources humaines et du Développement des compétences, placé sous l’autorité du ministre des Ressources humaines et du Développement des compétences. Celui-ci est nommé par commission sous le grand sceau.
+- **(1)** Le ministère des Ressources humaines et du Développement des compétences est maintenu sous la dénomination de ministère de l’Emploi et du Développement social et placé sous l’autorité du ministre de l’Emploi et du Développement social. Celui-ci est nommé par commission sous le grand sceau.
 
-**Ressources humaines et Développement des compétences Canada**
+**Emploi et Développement social Canada**
 
-- **(2)** Les mentions « Ressources humaines et Développement des compétences Canada » et « *Human Resources and Skills Development Canada* » paraissant sur les documents délivrés ou faits en vertu des attributions que la présente loi ou toute autre loi confère au ministre valent mention, respectivement, du « ministère des Ressources humaines et du Développement des compétences » et du « *Department of Human Resources and Skills Development* ».
+- **(2)** Les mentions « Emploi et Développement social Canada » et « *Employment and Social Development Canada* » paraissant sur les documents délivrés ou faits en vertu des attributions que la présente loi ou toute autre loi confère au ministre valent mention, respectivement, du « ministère de l’Emploi et du Développement social » et du « *Department of Employment and Social Development *».
 
 **Ministre**
 
 - **(3)** Le ministre occupe sa charge à titre amovible; il assure la direction et la gestion du ministère.
+> 2005, ch. 34, art. 3; 2013, ch. 40, art. 208.
+
 
 
 
@@ -78,15 +82,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Le gouverneur en conseil peut nommer, à titre amovible, un sous-ministre des Ressources humaines et du Développement des compétences; celui-ci est l’administrateur général du ministère.
+- **(1)** Le gouverneur en conseil peut nommer, à titre amovible, un sous-ministre de l’Emploi et du Développement social; celui-ci est l’administrateur général du ministère.
 
 **Sous-ministres délégués**
 
-- **(2)** Le gouverneur en conseil peut nommer, à titre amovible, un ou plusieurs sous-ministres délégués des Ressources humaines et du Développement des compétences, avec rang et statut d’administrateurs généraux de ministère. Placés sous l’autorité du sous-ministre des Ressources humaines et du Développement des compétences, ils exercent, à titre de représentants du ministre ou à tout autre titre, les attributions que celui-ci leur confère.
+- **(2)** Le gouverneur en conseil peut nommer, à titre amovible, un ou plusieurs sous-ministres délégués de l’Emploi et du Développement social, avec rang et statut d’administrateurs généraux de ministère. Placés sous l’autorité du sous-ministre de l’Emploi et du Développement social, ils exercent, à titre de représentants du ministre ou à tout autre titre, les attributions que celui-ci leur confère.
 
 **Sous-ministre du Travail**
 
-- **(3)** Le gouverneur en conseil peut désigner comme sous-ministre du Travail le sous-ministre des Ressources humaines et du Développement des compétences ou l’un des sous-ministres délégués.
+- **(3)** Le gouverneur en conseil peut désigner comme sous-ministre du Travail le sous-ministre de l’Emploi et du Développement social ou l’un des sous-ministres délégués.
+> 2005, ch. 34, art. 4; 2013, ch. 40, art. 209.
+
 
 
 
@@ -310,12 +316,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Commissaires**
 
-- **(2)** Les quatre commissaires sont les suivants : le sous-ministre des Ressources humaines et du Développement des compétences, qui est le président de la Commission, un sous-ministre délégué des Ressources humaines et du Développement des compétences, qui en est le vice-président et deux personnes nommées par le gouverneur en conseil, l’une étant nommée après consultation des organisations ouvrières et l’autre après consultation des organisations patronales.
+- **(2)** Les quatre commissaires sont les suivants : le sous-ministre de l’Emploi et du Développement social, qui est le président de la Commission, un sous-ministre délégué de l’Emploi et du Développement social, qui en est le vice-président et deux personnes nommées par le gouverneur en conseil, l’une étant nommée après consultation des organisations ouvrières et l’autre après consultation des organisations patronales.
 
 **Assurance-emploi Canada**
 
 - **(3)** Les mentions « Assurance-emploi Canada » et « *Employment Insurance Canada* » paraissant sur les documents délivrés ou faits en vertu des attributions prévues à l’article 24 valent mention, respectivement, de la « Commission de l’assurance-emploi du Canada » et de la « *Canada Employment Insurance Commission* ».
-> 2005, ch. 34, art. 20; 2010, ch. 12, art. 1723.
+> 2005, ch. 34, art. 20; 2010, ch. 12, art. 1723; 2013, ch. 40, art. 210.
 
 
 
@@ -1291,11 +1297,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Application**
+
+**70.1** La présente partie s’applique aux lois, programmes et activités qui suivent :
+- **a)** le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **b)** la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md);
+- **c)** la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
+- **d)** la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md);
+- **e)** la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md);
+- **f)** le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
+- **g)** tout programme appuyé par des subventions ou des contributions en vertu de l’article 7;
+- **h)** toute activité dont la mise en oeuvre ou l’exécution relèvent du ministre en vertu du [Règlement sur l’immigration et la protection des réfugiés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/227.md).
+> 2013, ch. 40, art. 211.
+
+
+
+
+
 **Pouvoir**
 
 **71** 
 
-- **(1)** Sous réserve des règlements, le ministre peut, par voie électronique, mettre en oeuvre ou exécuter le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) et la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et tout programme appuyé par des subventions ou des contributions en vertu de l’article 7 et la Commission peut, par voie électronique, mettre en oeuvre ou exécuter la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), notamment pour :
+- **(1)** Sous réserve des règlements, le ministre peut, par voie électronique, mettre en oeuvre ou exécuter les lois, programmes et activités visés aux alinéas 70.1a) à e), g) et h), le ministre du Travail peut, par voie électronique, mettre en oeuvre ou exécuter le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et la Commission peut, par voie électronique, mettre en oeuvre ou exécuter la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), notamment pour :
 	- **a)** créer, communiquer, rendre accessibles, recueillir, recevoir, mettre en mémoire, gérer ou traiter de quelque autre façon des documents ou de l’information;
 	- **b)** fournir des services, des prestations ou d’autres formes d’aide;
 	- **c)** donner des notifications;
@@ -1306,7 +1329,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(2)** Le ministre ou la Commission ne peut exiger qu’une personne ou une entité demande ou obtienne par voie électronique des services, prestations ou autres formes d’aide, à moins que cette personne ou cette entité fasse partie d’une catégorie de personnes ou d’entités désignée par règlement et que ces services, prestations ou autres formes d’aide soient désignés par règlement.
-> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212.
 
 
 
@@ -1316,22 +1339,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **72** 
 
-- **(1)** À moins que toute disposition du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), ou d’un de leurs règlements, ou que toute modalité d’un programme appuyé par des subventions ou des contributions en vertu de l’article 7 n’exige un moyen exprès pour le dépôt de documents ou de l’information, le dépôt de leur version électronique satisfait à l’exigence de dépôt de la disposition ou modalité en cause.
+- **(1)** À moins que toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou que toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) n’exige un moyen exprès pour le dépôt de documents ou de l’information, le dépôt de leur version électronique satisfait à l’exigence de dépôt de la disposition ou modalité en cause.
 
 **Pouvoir de prescrire un formulaire ou d’établir un mode de dépôt**
 
-- **(2)** Le pouvoir de publier, de prescrire ou d’établir des formulaires ou d’établir le mode de dépôt de documents ou de l’information, prévu dans toute disposition du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), ou d’un de leurs règlements, ou prévu par toute modalité d’un programme appuyé par des subventions ou des contributions en vertu de l’article 7 emporte le même pouvoir quant à leur version électronique.
+- **(2)** Le pouvoir de publier, de prescrire ou d’établir des formulaires ou d’établir le mode de dépôt de documents ou de l’information, prévu dans toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou prévu par toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) emporte le même pouvoir quant à leur version électronique.
 
-**Documents ou informations sous forme écrite**
+**Documents ou information sous forme écrite**
 
-- **(3)** Dans le cas où toute disposition du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), ou d’un de leurs règlements, ou toute modalité d’un programme appuyé par des subventions ou des contributions en vertu de l’article 7 exige qu’un document soit fait par écrit ou que l’information soit fournie par écrit, leur version électronique satisfait à l’exigence si les conditions suivantes sont réunies :
+- **(3)** Dans le cas où toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) exige qu’un document soit fait par écrit ou que l’information soit fournie par écrit, leur version électronique satisfait à l’exigence si les conditions ci-après sont réunies :
 	- **a)** le document ou l’information est lisible ou perceptible de façon à pouvoir servir à la consultation ultérieure;
 	- **b)** le document ou l’information est sur un support qui n’empêche pas le destinataire de le conserver;
 	- **c)** le document ou l’information satisfait à toute autre exigence prévue par règlement.
 
 **Signatures**
 
-- **(4)** Dans le cas où toute disposition du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), ou d’un de leurs règlements, ou toute modalité d’un programme appuyé par des subventions ou des contributions en vertu de l’article 7 exige une signature, la signature électronique satisfait à l’exigence si les conditions suivantes sont réunies :
+- **(4)** Dans le cas où toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) exige une signature, la signature électronique satisfait à l’exigence si les conditions ci-après sont réunies :
 	- **a)** elle est fiable aux fins requises;
 	- **b)** le lien entre elle et le document électronique pour lequel elle est exigée est fiable;
 	- **c)** elle satisfait à toute autre exigence prévue par règlement.
@@ -1339,7 +1362,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de dépôt**
 
 - **(5)** Au présent article, est assimilée au dépôt toute forme de transmission, quelle que soit la désignation de celle-ci.
-> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224; 2013, ch. 40, art. 213.
 
 
 
@@ -1360,7 +1383,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** établir les critères de validité d’un accord ou d’un arrangement conclu par voie électronique;
 	- **e)** régir les modalités de fourniture ou de réception, par voie électronique, des services, prestations ou autres formes d’aide, notamment le versement de sommes;
 	- **f)** régir la technologie à utiliser et la procédure à suivre pour vérifier par voie électronique l’identité de toute personne ou entité;
-	- **g)** régir l’établissement et le fonctionnement de systèmes électroniques ou de tout autre moyen électronique pour la mise en oeuvre ou l’exécution du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) et de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et de tout programme appuyé par des subventions ou des contributions en vertu de l’article 7 et régir les modalités d’application des dispositions de ces lois ou de leurs règlements ou d’un tel programme à ces systèmes électroniques, ainsi que la mesure dans laquelle elles s’y appliquent;
+	- **g)** régir l’établissement et le fonctionnement de systèmes électroniques ou de tout autre moyen électronique pour la mise en oeuvre ou l’exécution d’une loi visée à l’article 70.1 et de tout programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) et régir les modalités d’application des dispositions de cette loi ou de ses règlements ou d’un tel programme ou d’une telle activité à ces systèmes électroniques, ainsi que la mesure dans laquelle elles s’y appliquent;
 	- **h)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie.
 
 **Incorporation par renvoi**
@@ -1369,7 +1392,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Accessibilité des documents**
 
-- **(3)** Le ministre veille à ce que tout document incorporé par renvoi dans les règlements soit accessible.
+- **(3)** Il incombe au ministre, au ministre du Travail ou à la Commission, selon le cas, de veiller à ce que tout document incorporé par renvoi dans un règlement dont la mise en oeuvre ou l’exécution relèvent de l’un ou l’autre d’entre eux soit accessible.
 
 **Aucune déclaration de culpabilité**
 
@@ -1378,7 +1401,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement ou publication non requis**
 
 - **(5)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
-> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224; 2013, ch. 40, art. 214.
 
 
 
