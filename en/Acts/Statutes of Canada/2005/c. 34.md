@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md)
 
-# Department of Human Resources and Skills Development Act
+# Department of Employment and Social Development Act
 
 **S.C. 2005, c. 34**
 
@@ -24,7 +24,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Short title**
 
-**1** This Act may be cited as the Department of Human Resources and Skills Development Act.
+**1** This Act may be cited as the Department of Employment and Social Development Act.
+> 2005, c. 34, s. 1; 2013, c. 40, s. 205.
+
 
 
 
@@ -39,37 +41,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Commission*** means the Canada Employment Insurance Commission continued by section 20.
 
-***Minister*** means the Minister of Human Resources and Skills Development.
+***Minister*** means the Minister of Employment and Social Development.
 
 ***Tribunal*** means the Social Security Tribunal established under section 44.
-> 2005, c. 34, s. 2; 2012, c. 19, s. 223.
+> 2005, c. 34, s. 2; 2012, c. 19, s. 223; 2013, c. 40, s. 206.
 
 
 
 
 
 **PART 1** 
-## Department of Human Resources and Skills Development
+## Department of Employment and Social Development
 
 
 
-### Establishment
+### Continuation
 
 
 
-**Department established**
+**Department continued**
 
 **3** 
 
-- **(1)** There is hereby established a department of the Government of Canada called the Department of Human Resources and Skills Development over which the Minister of Human Resources and Skills Development, appointed by commission under the Great Seal, shall preside.
+- **(1)** The Department of Human Resources and Skills Development is continued under the name of the Department of Employment and Social Development over which the Minister of Employment and Social Development, appointed by commission under the Great Seal, shall preside.
 
-**Human Resources and Skills Development Canada**
+**Employment and Social Development Canada**
 
-- **(2)** The expressions “Human Resources and Skills Development Canada” and “*Ressources humaines et Développement des compétences Canada*” in any document issued or executed in relation to the powers, duties and functions conferred on the Minister by this or any other Act are deemed to be references to the “Department of Human Resources and Skills Development” and the “*ministère des Ressources humaines et du Développement des compétences*”, respectively.
+- **(2)** The expressions “Employment and Social Development Canada” and “Emploi et Développement social Canada” in any document issued or executed in relation to the powers, duties and functions conferred on the Minister by this or any other Act are deemed to be references to the “Department of Employment and Social Development” and the “ministère de l’Emploi et du Développement social”, respectively.
 
 **Minister**
 
 - **(3)** The Minister holds office during pleasure and has the management and direction of the Department.
+> 2005, c. 34, s. 3; 2013, c. 40, s. 208.
+
 
 
 
@@ -78,15 +82,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** The Governor in Council may appoint an officer called the Deputy Minister of Human Resources and Skills Development to hold office during pleasure and to be the deputy head of the Department.
+- **(1)** The Governor in Council may appoint an officer called the Deputy Minister of Employment and Social Development to hold office during pleasure and to be the deputy head of the Department.
 
 **Associate Deputy Ministers**
 
-- **(2)** The Governor in Council may appoint one or more Associate Deputy Ministers of Human Resources and Skills Development to hold office during pleasure and each shall have the rank and status of a deputy head of a department and exercise, under the Deputy Minister of Human Resources and Skills Development, the powers and perform the duties and functions as deputies of the Minister and otherwise that the Minister may specify.
+- **(2)** The Governor in Council may appoint one or more Associate Deputy Ministers of Employment and Social Development to hold office during pleasure and each shall have the rank and status of a deputy head of a department and exercise, under the Deputy Minister of Employment and Social Development, the powers and perform the duties and functions as deputies of the Minister and otherwise that the Minister may specify.
 
 **Deputy Minister of Labour**
 
-- **(3)** The Governor in Council may designate the Deputy Minister of Human Resources and Skills Development or one of the Associate Deputy Ministers to be Deputy Minister of Labour.
+- **(3)** The Governor in Council may designate the Deputy Minister of Employment and Social Development or one of the Associate Deputy Ministers to be Deputy Minister of Labour.
+> 2005, c. 34, s. 4; 2013, c. 40, s. 209.
+
 
 
 
@@ -311,15 +317,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Commissioners**
 
 - **(2)** The four commissioners shall be
-	- **(a)** the Deputy Minister of Human Resources and Skills Development, who shall be the Chairperson of the Commission;
-	- **(b)** an Associate Deputy Minister of Human Resources and Skills Development, who shall be the Vice-Chairperson of the Commission;
+	- **(a)** the Deputy Minister of Employment and Social Development, who shall be the Chairperson of the Commission;
+	- **(b)** an Associate Deputy Minister of Employment and Social Development, who shall be the Vice-Chairperson of the Commission;
 	- **(c)** a person appointed by the Governor in Council after consultation with organizations representative of workers; and
 	- **(d)** a person appointed by the Governor in Council after consultation with organizations representative of employers.
 
 **Employment Insurance Canada**
 
 - **(3)** The expressions “Employment Insurance Canada” and “*Assurance-emploi Canada*” in any document issued or executed in relation to the matters set out in section 24 are deemed to be references to the “Canada Employment Insurance Commission” and the “*Commission de l’assurance-emploi du Canada*”, respectively.
-> 2005, c. 34, s. 20; 2010, c. 12, s. 1723.
+> 2005, c. 34, s. 20; 2010, c. 12, s. 1723; 2013, c. 40, s. 210.
 
 
 
@@ -1295,11 +1301,28 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Application**
+
+**70.1** This Part applies to the following Acts, programs and activities:
+- **(a)** the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
+- **(b)** the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md);
+- **(c)** the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md);
+- **(d)** the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md);
+- **(e)** the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
+- **(f)** the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md);
+- **(g)** any programs that are supported by grants or contributions under section 7; and
+- **(h)** any activities in respect of which the administration or enforcement is the responsibility of the Minister under the [Immigration and Refugee Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/227.md).
+> 2013, c. 40, s. 211.
+
+
+
+
+
 **Powers**
 
 **71** 
 
-- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) and any program which is supported by grants or contributions under section 7, and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
+- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (e), (g) and (h), the Minister of Labour may administer or enforce electronically the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
 	- **(a)** creating, communicating, making available, collecting, receiving, storing, or managing or otherwise dealing with documents or information;
 	- **(b)** providing any services, benefits or other assistance;
 	- **(c)** providing notifications;
@@ -1310,7 +1333,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(2)** The Minister and the Commission must not require persons or entities to apply electronically for, or receive electronically, services, benefits or other assistance except for classes of persons or entities and those services, benefits or other assistance that are prescribed by the regulations.
-> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224.
+> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212.
 
 
 
@@ -1320,22 +1343,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **72** 
 
-- **(1)** Unless another manner of filing a document or information is expressly required by a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, the filing of an electronic version of the document or information is to be considered as the filing of a document or information in accordance with the provision or the term or condition.
+- **(1)** Unless another manner of filing a document or information is expressly required by a provision of an Act referred to in section 70.1 or any of its regulations, by a term or condition of a program referred to in paragraph 70.1(g) or by a provision of a regulation referred to in paragraph 70.1(h), the filing of an electronic version of the document or information is to be considered as the filing of a document or information in accordance with the provision or the term or condition.
 
 **Power to prescribe form or manner of filing**
 
-- **(2)** A provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, that provides for a power to issue, prescribe or in any other manner establish a form or to establish the manner of filing a document or information includes the power to do so with respect to an electronic document or information.
+- **(2)** A provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), that provides for a power to issue, prescribe or in any other manner establish a form or to establish the manner of filing a document or information includes the power to do so with respect to an electronic document or information.
 
 **Written documents or information**
 
-- **(3)** A requirement under a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, that a document be in writing or information be provided in writing is satisfied by an electronic document or information if the electronic document or information
+- **(3)** A requirement under a provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), that a document be in writing or information be provided in writing is satisfied by an electronic document or information if the electronic document or information
 	- **(a)** is readable or perceivable so as to be usable for subsequent reference;
 	- **(b)** is in a format that does not prevent it from being retained by the recipient; and
 	- **(c)** meets the prescribed requirements, if any.
 
 **Signatures**
 
-- **(4)** A requirement under a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, for a signature is satisfied by an electronic signature if the electronic signature
+- **(4)** A requirement under a provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), for a signature is satisfied by an electronic signature if the electronic signature
 	- **(a)** is reliable for the purposes for which it is required;
 	- **(b)** is reliably linked with the electronic document in respect of which the signature is required; and
 	- **(c)** meets the prescribed requirements, if any.
@@ -1343,7 +1366,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Meaning of filing**
 
 - **(5)** In this section, ***filing*** includes all manner of transmitting, regardless of how it is designated.
-> 2005, c. 34, s. 72; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 72; 2012, c. 19, s. 224; 2013, c. 40, s. 213.
 
 
 
@@ -1358,13 +1381,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** defining, enlarging or restricting the meaning of any word or expression used but not defined in this Part;
 	- **(c)** respecting the creation, communication, making available, collection, reception, storage or management of, or any other method of dealing with, electronic documents or electronic information, and their admissibility in any proceedings, including establishing
 		- **(i)** criteria for the reliability of electronic documents, electronic information or electronic signatures,
-		- **(ii)** the date and hour when an electronic document or electronic information is considered to be sent or received and the place where it is considered to be sent or received,
+		- **(ii)** the date and hour when an electronic document or electronic information is deemed to be sent or received and the place where it is deemed to be sent or received,
 		- **(iii)** the technology to be used and process to be followed for making, receiving or verifying an electronic signature, and
 		- **(iv)** whether an electronic document must be signed with an electronic signature;
 	- **(d)** establishing criteria for the validity of an agreement or arrangement entered into electronically;
 	- **(e)** respecting terms and conditions for providing or receiving electronically services, benefits or other assistance, including the payment of amounts electronically;
 	- **(f)** respecting the technology to be used and the process to be followed for verifying electronically the identity of any person or entity;
-	- **(g)** respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) and the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) and any program which is supported by grants or contributions under section 7 and respecting the manner in which and the extent to which any provision of those Acts or their regulations or any term or condition of those programs applies to the electronic systems; and
+	- **(g)** respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of an Act referred to in section 70.1, of a program referred to in paragraph 70.1(g) or of a provision of a regulation referred to in paragraph 70.1(h), and respecting the manner in which and the extent to which any provision of that Act or its regulations, any term or condition of that program or any provision of that regulation applies to the electronic systems; and
 	- **(h)** prescribing anything that by this Part is to be prescribed.
 
 **Incorporation by reference**
@@ -1373,7 +1396,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Accessibility**
 
-- **(3)** The Minister shall ensure that any document that is incorporated by reference in the regulation is accessible.
+- **(3)** The Minister, the Minister of Labour or the Commission, as the case may be, shall ensure that any document that is incorporated by reference in a regulation in respect of which the administration or the enforcement is their responsibility is accessible.
 
 **Defence**
 
@@ -1382,7 +1405,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No registration or publication**
 
 - **(5)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2005, c. 34, s. 73; 2012, c. 19, s. 224.
+> 2005, c. 34, s. 73; 2012, c. 19, s. 224; 2013, c. 40, s. 214.
 
 
 
