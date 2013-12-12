@@ -39,8 +39,8 @@
 
 **Administration**
 
-**3** Jusqu’à ce qu’il en soit autrement statué par le gouverneur en conseil, la présente loi doit être administrée par le ministre des Ressources humaines et du Développement des compétences.
-> S.R. 1970, ch. G-6, art. 3; 1996, ch. 11, art. 95; 2005, ch. 34, art. 80.
+**3** Jusqu’à ce qu’il en soit autrement statué par le gouverneur en conseil, la présente loi doit être administrée par le ministre de l’Emploi et du Développement social .
+> S.R. 1970, ch. G-6, art. 3; 1996, ch. 11, art. 95; 2005, ch. 34, art. 80; 2013, ch. 40, art. 238.
 
 
 
