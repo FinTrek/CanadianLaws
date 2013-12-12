@@ -4791,7 +4791,7 @@ Ces normes visent notamment les questions suivantes :
 </tr>
 </table>
 
-Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère des Ressources humaines et du Développement des compétences, ou consultez le site Web
+Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère de l’Emploi et du Développement social, ou consultez le site Web
 
 
 http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
@@ -4800,7 +4800,7 @@ http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
 Les demandes de renseignements seront traitées de façon confidentielle.
 
 
-> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4.
+> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237.
 
 
 
