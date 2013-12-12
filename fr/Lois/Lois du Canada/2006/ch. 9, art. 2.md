@@ -81,7 +81,7 @@ Sanctionnée sur le 12 décembre 2006
 	- **(v)** des juges militaires au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md),
 	- **(vi)** des officiers de la Gendarmerie royale du Canada autres que le commissaire;
 - **d.1)** titulaire d’une nomination ministérielle lorsque celle-ci est approuvée par le gouverneur en conseil;
-- **e)** titulaire d’une nomination ministérielle à temps plein désigné comme titulaire de charge publique par le ministre compétent.
+- **e)** toute personne désignée en vertu des paragraphes 62.1(1) ou 62.2(1).
 
 ***titulaire de charge publique principal*** Titulaire de charge publique qui :
 - **a)** est un ministre, ministre d’État ou secrétaire parlementaire;
@@ -89,7 +89,7 @@ Sanctionnée sur le 12 décembre 2006
 - **c)** est un conseiller ministériel;
 - **d)** est nommé par le gouverneur en conseil ou par le ministre sur approbation de celui-ci et exerce ses fonctions officielles à temps partiel, reçoit une rémunération annuelle et bénéficie d’avantages;
 - **e)** est nommé par le gouverneur en conseil ou par le ministre sur approbation de celui-ci et exerce ses fonctions officielles à temps plein;
-- **f)** est nommé et désigné comme tel par le ministre compétent et exerce ses fonctions officielles à temps plein.
+- **f)** est désigné en vertu des paragraphes 62.1(2) ou 62.2(2).
 
 ***union de fait*** Relation qui existe entre deux conjoints de fait.
 
@@ -102,7 +102,7 @@ Sanctionnée sur le 12 décembre 2006
 **Parent**
 
 - **(3)** Toute personne apparentée à un titulaire de charge publique par les liens du mariage, d’une union de fait, de la filiation ou de l’adoption ou encore liée à lui par affinité est un parent de celui-ci pour l’application de la présente loi, à moins que le commissaire n’en vienne à la conclusion que, de façon générale ou à l’égard d’un titulaire de charge publique en particulier, il n’est pas nécessaire pour l’application de la présente loi de considérer telle personne ou catégorie de personnes comme un parent du titulaire.
-> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 33, art. 192.
+> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 33, art. 192, ch. 40, art. 288.
 
 
 
@@ -1086,6 +1086,36 @@ Sanctionnée sur le 12 décembre 2006
 
 **PARTIE 5** 
 ## Généralités
+
+
+
+**Désignation comme titulaire de charge publique par le ministre**
+
+**62.1** 
+
+- **(1)** Le ministre compétent peut, pour l’application de l’alinéa e) de la définition de titulaire de charge publique, au paragraphe 2(1), désigner comme titulaire de charge publique tout titulaire d’une nomination ministérielle qui exerce ses fonctions officielles à temps plein.
+
+**Désignation comme titulaire de charge publique principal par le ministre**
+
+- **(2)** Il peut, pour l’application de l’alinéa f) de la définition de titulaire de charge publique principal, au paragraphe 2(1), désigner comme titulaire de charge publique principal tout titulaire de charge publique qui est titulaire d’une nomination ministérielle et qui exerce ses fonctions officielles à temps plein.
+> 2013, ch. 40, art. 289.
+
+
+
+
+
+**Désignation comme titulaire de charge publique par le gouverneur en conseil**
+
+**62.2** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, pour l’application de l’alinéa e) de la définition de titulaire de charge publique, au paragraphe 2(1), désigner comme titulaire de charge publique toute personne, à titre individuel ou au titre de son appartenance à une catégorie déterminée.
+
+**Désignation comme titulaire de charge publique principal par le gouverneur en conseil**
+
+- **(2)** Il peut, par décret, pour l’application de l’alinéa f) de la définition de titulaire de charge publique principal, au paragraphe 2(1), désigner comme titulaire de charge publique principal tout titulaire de charge publique, à titre individuel ou au titre de son appartenance à une catégorie déterminée.
+> 2013, ch. 40, art. 289.
+
+
 
 
 
