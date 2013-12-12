@@ -370,7 +370,9 @@ Est assimilé à la personne tout membre de sa famille visé par règlement.
 
 **Secret professionnel**
 
-**11** La présente partie n’a pas pour effet de porter atteinte au secret professionnel du conseiller juridique.
+**11** La présente loi n’a pas pour effet de porter atteinte au secret professionnel du conseiller juridique.
+> 2000, ch. 17, art. 11; 2013, ch. 40, art. 279.
+
 
 
 
@@ -2051,8 +2053,8 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Restriction**
 
-- **(3)** Les renseignements communiqués par le Centre au titre du paragraphe (2) ne peuvent être utilisés par un organisme visé à ce paragraphe qu’à des fins relatives à l’observation de la partie 1.
-> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101; 2006, ch. 12, art. 36.
+- **(3)** Les renseignements communiqués par le Centre au titre du paragraphe (1) ne peuvent être utilisés par un organisme visé à ce paragraphe qu’à titre de preuve de la contravention à la partie 1 et les renseignements communiqués par le Centre au titre du paragraphe (2) ne peuvent être utilisés par un organisme visé à ce paragraphe qu’à des fins relatives à l’observation de cette partie.
+> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101; 2006, ch. 12, art. 36; 2013, ch. 40, art. 280.
 
 
 
