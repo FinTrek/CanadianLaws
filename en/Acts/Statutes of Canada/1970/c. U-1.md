@@ -30,14 +30,14 @@
 
 **2** In this Act
 
-***agreement*** means an agreement made under section 3;
+***agreement*** means an agreement made under section 3; (*accord*)
 
-***contributions*** means contributions by Canada pursuant to an agreement;
+***contributions*** means contributions by Canada pursuant to an agreement; (*contributions*)
 
-***Minister*** means the Minister of Human Resources and Skills Development;
+***Minister*** means the Minister of Employment and Social Development; (*Ministre*)
 
-***unemployment assistance costs*** means the aggregate of the cost to the province, and the cost to municipalities in the province, of providing financial assistance to persons who are in need.
-> R.S., 1970, c. U-1; 1999, c. 31, s. 221; 2005, c. 34, s. 80.
+***unemployment assistance costs*** means the aggregate of the cost to the province, and the cost to municipalities in the province, of providing financial assistance to persons who are in need. (*frais d’assistance-chômage*)
+> R.S., 1970, c. U-1; 1999, c. 31, s. 221; 2005, c. 34, s. 80; 2013, c. 40, s. 238.
 
 
 
@@ -117,8 +117,8 @@
 
 **Payments out of C.R.F.**
 
-**6** Contributions shall be paid out of the Consolidated Revenue Fund upon the certificate of the Minister of Human Resources and Skills Development; but all payments of contributions are subject to the conditions specified in the agreement and to the observance by the province of the provisions thereof.
-> R.S., 1970, c. U-1; 1996, c. 11, s. 96; 2005, c. 34, s. 80.
+**6** Contributions shall be paid out of the Consolidated Revenue Fund upon the certificate of the Minister of Employment and Social Development; but all payments of contributions are subject to the conditions specified in the agreement and to the observance by the province of the provisions thereof.
+> R.S., 1970, c. U-1; 1996, c. 11, s. 96; 2005, c. 34, s. 80; 2013, c. 40, s. 238.
 
 
 
