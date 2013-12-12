@@ -4183,7 +4183,7 @@ but does not include
 	- **(e)** a person who is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
 	- **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
 	- **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 406.1;
-	- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
+	- **(g)** [Repealed, 2013, c. 40, s. 164]
 	- **(h)** a minister of Her Majesty in right of Canada or in right of a province;
 	- **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof; and
 	- **(j)** a person who is an insurance agent or broker of the company.
@@ -4192,10 +4192,8 @@ but does not include
 
 - **(2)** A shareholder of a company is disqualified from being a policyholders’ director of the company.
 
-**Exception**
-
-- **(3)** Paragraph (1)(g) does not apply in respect of a company that is controlled by a body corporate organized in a mutual form the members of which are primarily employees of Her Majesty in right of Canada or in right of a province.
-> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377; 2012, c. 19, s. 339, c. 31, s. 131.
+- **(3)** [Repealed, 2013, c. 40, s. 164]
+> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377; 2012, c. 19, s. 339, c. 31, s. 131; 2013, c. 40, s. 164.
 
 
 
@@ -10847,6 +10845,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 - **(5)** A company is deemed not to contravene subsection (1) if the company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the company.
 
+**Non-application of subsection (2)**
+
+- **(5.1)** No company shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 495(1)(j).
+
+**Holding**
+
+- **(5.2)** If a company holds a substantial investment in an entity referred to in paragraph 495(1)(j) that it acquired or increased under subsection (2) before the coming into force of subsection (5.1), the company may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -10854,7 +10860,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Timing of deemed acquisition**
 
 - **(7)** If a company decides to exercise its right under subsection (6), the company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 47, s. 493; 1997, c. 15, s. 265; 2001, c. 9, s. 426; 2007, c. 6, s. 234.
+> 1991, c. 47, s. 493; 1997, c. 15, s. 265; 2001, c. 9, s. 426; 2007, c. 6, s. 234; 2013, c. 40, s. 170.
 
 
 
@@ -12577,6 +12583,14 @@ the society shall forthwith provide the Superintendent with such information as 
 
 - **(4)** A society is deemed not to contravene subsection (1) if the society acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the society.
 
+**Non-application of subsection (2)**
+
+- **(4.1)** No society shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 554(1)(c).
+
+**Holding**
+
+- **(4.2)** If a society holds a substantial investment in an entity referred to in paragraph 554(1)(c) that it acquired or increased under subsection (2) before the coming into force of subsection (4.1), the society may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(5)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a society may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -12584,7 +12598,7 @@ the society shall forthwith provide the Superintendent with such information as 
 **Timing of deemed acquisition**
 
 - **(6)** If a society decides to exercise its right under subsection (5), the society is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 47, s. 552; 1997, c. 15, s. 290; 1999, c. 31, s. 144; 2001, c. 9, s. 437; 2007, c. 6, s. 252.
+> 1991, c. 47, s. 552; 1997, c. 15, s. 290; 1999, c. 31, s. 144; 2001, c. 9, s. 437; 2007, c. 6, s. 252; 2013, c. 40, s. 171.
 
 
 
@@ -18476,10 +18490,10 @@ but does not include
 - **(e)** a person who is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
 - **(f)** a person who is an officer, director or full-time employee of an entity that is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
 - **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of section 406.1;
-- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
+- **(g)** [Repealed, 2013, c. 40, s. 165]
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 465; 2012, c. 19, s. 344, c. 31, s. 141.
+> 2001, c. 9, s. 465; 2012, c. 19, s. 344, c. 31, s. 141; 2013, c. 40, s. 165.
 
 
 
@@ -21884,6 +21898,14 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 - **(4)** An insurance holding company is deemed not to contravene subsection (1) if the insurance holding company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the insurance holding company.
 
+**Non-application of subsection (2)**
+
+- **(4.1)** No insurance holding company shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 971(1)(j).
+
+**Holding**
+
+- **(4.2)** If an insurance holding company holds a substantial investment in an entity referred to in paragraph 971(1)(j) that it acquired or increased under subsection (2) before the coming into force of subsection (4.1), the insurance holding company may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(5)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, an insurance holding company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -21891,7 +21913,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Timing of deemed acquisition**
 
 - **(6)** If an insurance holding company decides to exercise its right under subsection (5), the insurance holding company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 2001, c. 9, s. 465; 2007, c. 6, s. 325.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 325; 2013, c. 40, s. 172.
 
 
 
