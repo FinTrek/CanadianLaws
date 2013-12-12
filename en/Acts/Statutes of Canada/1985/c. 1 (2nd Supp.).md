@@ -4428,7 +4428,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(ii)** Her Majesty in right of a province on account of taxes payable to the province if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province;
 	- **(g.1)** an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(h)** counsel, as defined in subsection 84(4) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), in accordance with subsection 84(3) of that Act and subject to subsection 84(3.1) of that Act, except that the word “information” in those subsections is to be read as a reference to the words “customs information”;
-	- **(i)** an official of the Department of Human Resources and Skills Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
+	- **(i)** an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
 	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada;
 	- **(j.1)** an official of the Canadian Food Inspection Agency for the purpose of administering or enforcing any Act referred to in section 11 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) if the information relates to the import, export or in-transit movement of goods into or out of Canada;
 	- **(k)** an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of administering or enforcing the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
@@ -4487,7 +4487,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2013, c. 40, s. 237.
 
 
 
