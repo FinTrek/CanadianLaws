@@ -845,26 +845,26 @@ and ends on the day on which the amount is so refunded or applied.
 
 **43** 
 
-- **(1)** An application for a benefit, for a division of unadjusted pensionable earnings under section 55 or 55.1 of the Act or for an assignment of a portion of a retirement pension under section 65.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Human Resources and Skills Development.
+- **(1)** An application for a benefit, for a division of unadjusted pensionable earnings under section 55 or 55.1 of the Act or for an assignment of a portion of a retirement pension under section 65.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Employment and Social Development.
 
-- **(1.1)** Where an application for a disability pension has been denied, and the applicant has reached 60 years of age between the time of the application and the time of its denial or would have been entitled to a retirement pension if he had applied therefor at the time of application for the disability pension, that application shall, on request made by or on behalf of the applicant, be deemed to be an application for a retirement pension if the request is made
+- **(1.1)** Where an application for a disability pension has been denied, and the applicant has reached 60 years of age between the time of the application and the time of its denial or would have been entitled to a retirement pension if he had applied therefor at the time of application for the disability pension, that application shall, on request made by or on behalf of the applicant, be deemed to be an application for a retirement pension if the request is made
 	- **(a)** in writing at the location of any office of the Department of Human Resources Development; and
-	- **(b)** within 90 days following the month in which the applicant is notified of the denial or, where the denial is finally confirmed on appeal, within 90 days after the day on which the applicant is notified of the confirmation.
+	- **(b)** within 90 days following the month in which the applicant is notified of the denial or, where the denial is finally confirmed on appeal, within 90 days after the day on which the applicant is notified of the confirmation.
 
-- **(2)** Where by reason of section 80 of the Act and an agreement under that section with a province providing a comprehensive pension plan the whole amount of any benefit payable to an applicant is deemed to be payable under that plan or where the division of unadjusted pensionable earnings can be determined under that plan in accordance with the agreement, the Minister shall, as soon as possible after an application is received, forward the application, together with a statement of the date on which it was received, to the authority charged under that plan with the duty of receiving applications, calculating the division of unadjusted pensionable earnings and paying benefits.
-> SOR/79-751, s. 1(E); SOR/86-1133, s. 3; SOR/89-345, s. 2; SOR/90-829, s. 14; SOR/93-290, s. 1; SOR/96-522, ss. 23, 24; SOR/2004-249, s. 2.
+- **(2)** Where by reason of section 80 of the Act and an agreement under that section with a province providing a comprehensive pension plan the whole amount of any benefit payable to an applicant is deemed to be payable under that plan or where the division of unadjusted pensionable earnings can be determined under that plan in accordance with the agreement, the Minister shall, as soon as possible after an application is received, forward the application, together with a statement of the date on which it was received, to the authority charged under that plan with the duty of receiving applications, calculating the division of unadjusted pensionable earnings and paying benefits.
+> SOR/79-751, s. 1(E); SOR/86-1133, s. 3; SOR/89-345, s. 2; SOR/90-829, s. 14; SOR/93-290, s. 1; SOR/96-522, ss. 23, 24; SOR/2004-249, s. 2; 2013, c. 40, s. 237.
 
 
 
 
 **43.1** 
 
-- **(1)** Despite subsection 43(1), an application for a retirement pension may also be made to the Minister by way of the Internet if
-	- **(a)** the relevant information required under section 52 is sent to the Minister by way of the Internet on the electronic form prescribed for that purpose and made available on the Internet, unless the Minister requires that the information or evidence be provided to the Minister in writing; and
-	- **(b)** the electronic confirmation sheet sent to the applicant by the Minister and bearing the date and time of receipt of the information by the Minister and a confirmation number assigned to the application by the Minister is signed by the applicant or their representative and delivered by hand, mail or courier to the Minister at an office of the Department of Human Resources Development or the Department of Human Resources and Skills Development.
+- **(1)** Despite subsection 43(1), an application for a retirement pension may also be made to the Minister by way of the Internet if
+	- **(a)** the relevant information required under section 52 is sent to the Minister by way of the Internet on the electronic form prescribed for that purpose and made available on the Internet, unless the Minister requires that the information or evidence be provided to the Minister in writing; and
+	- **(b)** the electronic confirmation sheet sent to the applicant by the Minister and bearing the date and time of receipt of the information by the Minister and a confirmation number assigned to the application by the Minister is signed by the applicant or their representative and delivered by hand, mail or courier to the Minister at an office of the Department of Human Resources Development or the Department of Employment and Social Development.
 
-- **(2)** When all the requirements of subsection (1) have been met, the application submitted electronically is considered to have been received on the date and at the time indicated on the electronic confirmation sheet.
-> SOR/2004-249, s. 3.
+- **(2)** When all the requirements of subsection (1) have been met, the application submitted electronically is considered to have been received on the date and at the time indicated on the electronic confirmation sheet.
+> SOR/2004-249, s. 3; 2013, c. 40, s. 237.
 
 
 
@@ -951,16 +951,16 @@ and ends on the day on which the amount is so refunded or applied.
 
 **47** 
 
-- **(1)** Subject to sections 49 and 50, the Minister shall determine the age and identity of a person for the purposes of the Act in accordance with whichever of subsections (2) to (4) is applicable.
+- **(1)** Subject to sections 49 and 50, the Minister shall determine the age and identity of a person for the purposes of the Act in accordance with whichever of subsections (2) to (4) is applicable.
 
-- **(2)** The Minister shall determine the age and identity of a person on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the Department of Human Resources and Skills Development Act.
+- **(2)** The Minister shall determine the age and identity of a person on the basis of any information provided to the Minister by the Canada Employment Insurance Commission under subsection 28.2(5) of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md).
 
 - **(3)** The Minister shall determine the age and identity of a person on the basis of a birth certificate or a certified copy of one.
 
 - **(4)** If there is sufficient reason to believe that a birth certificate is not available, the Minister shall determine the age and identity of a person on the basis of any other evidence and information with respect to the age and identity of the person that is available from any source.
 
-- ** (5)** If the Minister is unable to determine the age and identity of a person under any of subsections (2) to (4), the Minister shall, if it is possible to do so, determine the age and identity of the person on the basis of information obtained from Statistics Canada in accordance with section 87 of the Act.
-> SOR/86-1133, s. 7; SOR/90-829, s. 20; SOR/96-522, s. 23; SOR/2004-249, s. 4; SOR/2013-20, s. 1.
+- **(5)** If the Minister is unable to determine the age and identity of a person under any of subsections (2) to (4), the Minister shall, if it is possible to do so, determine the age and identity of the person on the basis of information obtained from Statistics Canada in accordance with section 87 of the Act.
+> SOR/86-1133, s. 7; SOR/90-829, s. 20; SOR/96-522, s. 23; SOR/2004-249, s. 4; 2013, c. 40, s. 236; SOR/2013-20, s. 1.
 
 
 
@@ -1409,10 +1409,10 @@ as the Minister may specify.
 
 **71** 
 
-- **(1)** A request for reinstatement of a disability pension under section 70.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Human Resources and Skills Development.
+- **(1)** A request for reinstatement of a disability pension under section 70.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Employment and Social Development.
 
-- **(2)** The request shall be made within 12 months after the month in which the person became incapable again of working.
-> SOR/2005-38, s. 1.
+- **(2)** The request shall be made within 12 months after the month in which the person became incapable again of working.
+> SOR/2005-38, s. 1; 2013, c. 40, s. 237.
 
 
 
@@ -1444,8 +1444,8 @@ as the Minister may specify.
 ### Reconsideration and Appeal on Behalf of Certain Persons
 
 
-**74** If the Minister or the Social Security Tribunal established under section 44 of the Department of Human Resources and Skills Development Act is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing their affairs, a request for a reconsideration under subsection 81(1) or (1.1) of the Act or an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act may be made on the person’s behalf by another person or an agency if that other person or agency is authorized by or under a law of Canada or of a province to manage the person’s affairs or, if it appears to the Minister or the Social Security Tribunal that there is no other person or agency so authorized, if that other person or agency is considered to be qualified to do so by the Minister or the Social Security Tribunal, as the case may be.
-> SOR/2013-61, s. 2.
+**74** If the Minister or the Social Security Tribunal established under section 44 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing their affairs, a request for a reconsideration under subsection 81(1) or (1.1) of the Act or an appeal under section 82 of the Act or section 55 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) may be made on the person’s behalf by another person or an agency if that other person or agency is authorized by or under a law of Canada or of a province to manage the person’s affairs or, if it appears to the Minister or the Social Security Tribunal that there is no other person or agency so authorized, if that other person or agency is considered to be qualified to do so by the Minister or the Social Security Tribunal, as the case may be.
+> 2013, c. 40, s. 236; SOR/2013-61, s. 2.
 
 
 
@@ -1774,40 +1774,40 @@ within one year from April 30th of the year following the year for which he so 
 ***bank rate*** means the rate of interest established weekly by the Bank of Canada as the minimum rate at which the Bank of Canada makes short-term advances to members of the Canadian Payments Association. (*taux d’escompte*)
 
 ***debt*** means
-- **(a)** a debt due under subsection 66(2) of the Act in respect of which a penalty has been imposed under section 90.1 of the Act; or
-- **(b)** a debt due under subsection 66(2.02) of the Act. (*créance*)
+- **(a)** a debt due under subsection 66(2) of the Act in respect of which a penalty has been imposed under section 90.1 of the Act; or
+- **(b)** a debt due under subsection 66(2.02) of the Act. (*créance*)
 
-***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 90.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
+***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 90.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
 
 ***due date*** means, in respect of a debt, 
 - **(a)** where a payment schedule has been established, any day on which a scheduled payment is to be made; or
-- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
+- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
 
 - **(2)** Interest is payable on all debts that are recoverable on or after the day on which this section comes into force.
 
-- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
+- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
 
 - **(4)** Interest accrues on a debt at a rate that is calculated daily and compounded monthly at the average bank rate plus three per cent.
 
-- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 81(2) of the Act, an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act, or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
+- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 81(2) of the Act, an appeal under section 82 of the Act or section 55 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md), or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
 
 - **(6)** The accrual of interest on a debt or on a portion of the debt, as applicable, ceases on
 	- **(a)** the day before the day on which a scheduled payment in respect of the debt or a payment of the debt in full is received by Her Majesty;
-	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 66(3) of the Act;
+	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 66(3) of the Act;
 	- **(c)** the day on which the penalty that constitutes the debt is reduced or the decision imposing that penalty is rescinded under
-		- **(i)** subsection 90.1(4) of the Act, or
-		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 90.1 of the Act:
-			- **(A)** a decision of the Minister under subsection 81(2) of the Act, and
-			- **(B)** a decision on an appeal under section 82 of the Act or section 55 of the Department of Human Resources and Skills Development Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
-	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
+		- **(i)** subsection 90.1(4) of the Act, or
+		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 90.1 of the Act:
+			- **(A)** a decision of the Minister under subsection 81(2) of the Act, and
+			- **(B)** a decision on an appeal under section 82 of the Act or section 55 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
+	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
 	- **(e)** the day on which the debtor dies.
 
 - **(7)** The conditions under which the Minister may remit in whole or in part the interest payable under this section are that
-	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
+	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
 	- **(b)** the interest cannot be collected within the reasonably foreseeable future;
 	- **(c)** the administrative costs of collecting the interest would exceed the amount of that interest; and
 	- **(d)** the payment of the interest would result in undue hardship to the debtor.
-> SOR/2010-45, s. 13; SOR/2013-61, s. 5.
+> SOR/2010-45, s. 13; 2013, c. 40, s. 236; SOR/2013-61, s. 5.
 
 
 
