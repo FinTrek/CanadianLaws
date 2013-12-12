@@ -5922,7 +5922,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 
 
-**348** [Amendment]
+**348** [Repealed, 2013, c. 40, s. 138]
 
 
 
