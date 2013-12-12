@@ -130,9 +130,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, organized criminality or violating human or international rights; or
 	- **(d)** declarations referred to in section 42.1.
 
-**Minister of Human Resources and Skills Development**
+**Minister of Employment and Social Development**
 
-- **(2.1)** In making regulations under paragraphs 32(d.1) to (d.3), the Governor in Council may confer powers and duties on the Minister of Human Resources and Skills Development.
+- **(2.1)** In making regulations under paragraphs 32(d.1) to (d.3), the Governor in Council may confer powers and duties on the Minister of Employment and Social Development.
 
 **Specification**
 
@@ -143,7 +143,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication**
 
 - **(4)** Any order made under subsection (3) must be published in Part II of the Canada Gazette.
-> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701; 2013, c. 16, s. 2.
+> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701; 2013, c. 16, s. 2, c. 40, s. 238.
 
 
 
@@ -968,9 +968,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1.42)** For greater certainty, subsection (1.41) does not affect any other lawful authority to revoke a work permit.
 
-**Revocation or suspension of an opinion**
+**Revocation or suspension of opinion**
 
-- **(1.43)** If, in the view of the Department of Human Resources and Skills Development, public policy considerations that are specified in instructions given by the Minister of Human Resources and Skills Development justify it, that Department may
+- **(1.43)** If, in the view of the Department of Employment and Social Development, public policy considerations that are specified in instructions given by the Minister of Employment and Social Development justify it, that Department may
 	- **(a)** revoke an opinion provided by that Department with respect to an application for a work permit;
 	- **(b)** suspend the effects of the opinion; or
 	- **(c)** refuse to process a request for such an opinion.
@@ -994,7 +994,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Minor children**
 
 - **(2)** Every minor child in Canada, other than a child of a temporary resident not authorized to work or study, is authorized to study at the pre-school, primary or secondary level.
-> 2001, c. 27, s. 30; 2012, c. 1, s. 206; 2013, c. 33, s. 161.
+> 2001, c. 27, s. 30; 2012, c. 1, s. 206; 2013, c. 33, s. 161, c. 40, s. 235.
 
 
 
@@ -2333,7 +2333,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
-- **(1.1)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to a request for an opinion provided by the Department of Human Resources and Skills Development with respect to an application for a work permit.
+- **(1.1)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to a request for an opinion provided by the Department of Employment and Social Development with respect to an application for a work permit.
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
@@ -2342,7 +2342,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
 - **(3)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the collection, use and disclosure of biometric information and for the provision of related services.
-> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162.
+> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162, c. 40, s. 237.
 
 
 
@@ -2462,7 +2462,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Incorporated material — instructions**
 
-- **(1.1)** An instruction given by the Minister or the Minister of Human Resources and Skills Development under this Act may incorporate by reference any material, regardless of its source.
+- **(1.1)** An instruction given by the Minister or the Minister of Employment and Social Development under this Act may incorporate by reference any material, regardless of its source.
 
 **Amended from time to time**
 
@@ -2471,7 +2471,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Incorporated material is not a regulation**
 
 - **(3)** For greater certainty, material that is incorporated by reference in a regulation made under this Act is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2001, c. 27, s. 92; 2012, c. 19, s. 708; 2013, c. 33, s. 164.
+> 2001, c. 27, s. 92; 2012, c. 19, s. 708; 2013, c. 33, s. 164, c. 40, s. 238.
 
 
 
@@ -2479,8 +2479,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**93** Instructions given by the Minister or the Minister of Human Resources and Skills Development under this Act and guidelines issued by the Chairperson under paragraph 159(1)(h) are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2001, c. 27, s. 93; 2013, c. 33, s. 165.
+**93** Instructions given by the Minister or the Minister of Employment and Social Development under this Act and guidelines issued by the Chairperson under paragraph 159(1)(h) are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2001, c. 27, s. 93; 2013, c. 33, s. 165, c. 40, s. 238.
 
 
 
