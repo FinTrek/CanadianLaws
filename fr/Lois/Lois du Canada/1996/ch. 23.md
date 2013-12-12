@@ -51,7 +51,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***conflit collectif*** Conflit, entre employeurs et employés ou entre employés, qui se rattache à l’emploi ou aux modalités d’emploi de certaines personnes ou au fait qu’elles ne sont pas employées.
 
-***conjoint de fait *** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
 
 ***conseil arbitral***[Abrogée, 2012, ch. 19, art. 240]
 
@@ -71,11 +71,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi provinciale*** Les dispositions d’une loi provinciale qui autorisent le paiement de prestations en vertu d’un régime établi sous le régime de cette loi ou qui rendent une personne admissible à un tel paiement.
 
-***maison d’habitation*** Tout ou partie de quelque bâtiment ou construction tenu ou occupé comme résidence permanente ou temporaire, y compris :
+***maison d’habitation*** Tout ou partie de quelque bâtiment ou construction tenu ou occupé comme résidence permanente ou temporaire, y compris :
 - **a)** un bâtiment qui se trouve dans la même enceinte qu’une maison d’habitation et qui y est relié par une baie de porte ou par un passage couvert et clos;
 - **b)** une unité conçue pour être mobile et pour être utilisée comme résidence permanente ou temporaire et qui est ainsi utilisée.
 
-***ministre*** Sauf aux parties IV et VII, le ministre des Ressources humaines et du Développement des compétences.
+***ministre*** Sauf aux parties IV et VII, le ministre de l’Emploi et du Développement social .
 
 ***période de prestations*** La période visée aux articles 9, 10, 152.1 et 152.11.
 
@@ -114,7 +114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Semaines de prestations**
 
 - **(5)** Pour l’application du paragraphe 7(4.1) et de l’article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines à l’égard desquelles des prestations ont été versées au prestataire.
-> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80; 2009, ch. 33, art. 2; 2012, ch. 19, art. 240.
+> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80; 2009, ch. 33, art. 2; 2012, ch. 19, art. 240; 2013, ch. 40, art. 238.
 
 
 
@@ -157,17 +157,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Pour l’application du paragraphe 14(1.1), de l’article 17, du paragraphe 82(2) et des articles 95 et 145, le maximum de la rémunération annuelle assurable est de 39 000 $, jusqu’à ce que le montant calculé en application du paragraphe (2) pour une année excède 39 000 $, avant l’arrondissement prévu au paragraphe (4), auquel cas le maximum de la rémunération annuelle assurable pour cette année est le résultat de ce calcul, arrondi en vertu de ce paragraphe.
+- **(1)** Pour l’application du paragraphe 14(1.1), de l’article 17, du paragraphe 82(2) et des articles 95 et 145, le maximum de la rémunération annuelle assurable est de 39 000 $, jusqu’à ce que le montant calculé en application du paragraphe (2) pour une année excède 39 000 $, avant l’arrondissement prévu au paragraphe (4), auquel cas le maximum de la rémunération annuelle assurable pour cette année est le résultat de ce calcul, arrondi en vertu de ce paragraphe.
 
 **Calcul du montant**
 
-- **(2)** Le montant visé au paragraphe (1) est égal à cinquante-deux fois le produit de l’élément visé à l’alinéa a) par celui visé à l’alinéa b) :
-	- **a)** la moyenne, pour la période de douze mois se terminant le 31 mars de l’année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période;
-	- **b)** le rapport entre la moyenne, pour la période de douze mois se terminant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 31 mars de cette année précédente.
+- **(2)** Le montant visé au paragraphe (1) est égal à cinquante-deux fois le produit de l’élément visé à l’alinéa a) par celui visé à l’alinéa b) :
+	- **a)** la moyenne, pour la période de douze mois se terminant le 30 avril de l’année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période;
+	- **b)** le rapport entre la moyenne, pour la période de douze mois se terminant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 30 avril de cette année précédente.
 
 **Années subséquentes**
 
-- **(3)** Pour les années suivant l’année au cours de laquelle le maximum de la rémunération assurable excède 39 000 $, avant son arrondissement prévu au paragraphe (4), le maximum de la rémunération annuelle assurable est celui de l’année précédente, avant son arrondissement prévu à ce paragraphe, multiplié par le rapport entre la moyenne, pour la période de douze mois se terminant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 31 mars de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 31 mars de cette année précédente.
+- **(3)** Pour les années suivant l’année au cours de laquelle le maximum de la rémunération assurable excède 39 000 $, avant son arrondissement prévu au paragraphe (4), le maximum de la rémunération annuelle assurable est celui de l’année précédente, avant son arrondissement prévu à ce paragraphe, multiplié par le rapport entre la moyenne, pour la période de douze mois se terminant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 30 avril de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 30 avril de cette année précédente.
 
 **Arrondissement**
 
@@ -176,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération hebdomadaire moyenne**
 
 - **(5)** La rémunération hebdomadaire moyenne correspond à la rémunération hebdomadaire moyenne du total des industries au Canada, selon l’information publiée par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
-> 1996, ch. 23, art. 4; 2001, ch. 5, art. 3; 2012, ch. 19, art. 603, ch. 31, art. 433.
+> 1996, ch. 23, art. 4; 2001, ch. 5, art. 3; 2012, ch. 19, art. 603, ch. 31, art. 433; 2013, ch. 40, art. 125.
 
 
 
@@ -2226,8 +2226,8 @@ plus de 13 %
 
 **Définition de actuaire**
 
-**65.21** Dans la présente partie, ***actuaire*** s’entend du *Fellow* de l’Institut canadien des actuaires dont les services sont retenus par la Commission en application du paragraphe 28(4) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
-> 2008, ch. 28, art. 125; 2012, ch. 31, art. 434.
+**65.21** Dans la présente partie, ***actuaire*** s’entend du *Fellow* de l’Institut canadien des actuaires dont les services sont retenus par la Commission en application du paragraphe 28(4) de la Loi sur le ministère de l’Emploi et du Développement social .
+> 2008, ch. 28, art. 125; 2012, ch. 31, art. 434; 2013, ch. 40, art. 236.
 
 
 
@@ -2247,9 +2247,13 @@ plus de 13 %
 
 - **(1)** Sous réserve du paragraphe (7), le gouverneur en conseil, sur recommandation conjointe du ministre et du ministre des Finances, fixe le taux de cotisation pour chaque année de manière que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour faire en sorte que, à la fin de celle-ci, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
 
-**Taux de cotisation pour 2010**
+**Taux de cotisation pour 2015 et 2016**
 
-- **(1.1)** Malgré le paragraphe (1), le taux de cotisation pour l’année 2010 est fixé à 1,73 %.
+- **(1.1)** Malgré le paragraphe (1), le taux de cotisation pour les années 2015 et 2016 est fixé à 1,88 %.
+
+**Application des articles 66.1 à 66.31**
+
+- **(1.2)** Les articles 66.1 à 66.31 s’appliquent au cours des années 2014 et 2015 malgré le fait que, pour les années 2015 et 2016, le taux de cotisation est fixé en vertu du paragraphe (1.1).
 
 **Éléments à prendre en compte**
 
@@ -2258,8 +2262,8 @@ plus de 13 %
 	- **b)** [Abrogé, 2012, ch. 31, art. 435]
 	- **c)** [Abrogé, 2012, ch. 19, art. 609]
 	- **d)** les règlements pris en vertu de l’article 69;
-	- **e)** tout changement, annoncé par le ministre au plus tard le 31 juillet de l’année en cause, aux sommes à verser au titre des alinéas 77(1)a), b) ou c) pour l’année suivante;
-	- **f) ** les autres renseignements pertinents selon lui.
+	- **e)** tout changement, annoncé par le ministre au plus tard le 22 juillet de l’année en cause, aux sommes à verser au titre des alinéas 77(1)a), b) ou c) au cours de l’année suivante;
+	- **f)** les autres renseignements pertinents selon lui.
 
 - **(3)** [pas de paragraphe (3)]
 
@@ -2276,7 +2280,7 @@ plus de 13 %
 **Délai**
 
 - **(9)** Au plus tard le 14 septembre de chaque année, le gouverneur en conseil fixe le taux de cotisation de l’année suivante.
-> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 609, ch. 31, art. 435.
+> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 609, ch. 31, art. 435; 2013, ch. 40, art. 126.
 
 
 
@@ -2286,16 +2290,14 @@ plus de 13 %
 
 **66.1** 
 
-- **(1)** Au plus tard le 22 juin de chaque année, le ministre communique à l’actuaire les renseignements suivants :
+- **(1)** Au plus tard le 22 juillet de chaque année, le ministre communique à l’actuaire les renseignements suivants :
 	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
 	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
 	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre.
 	- **d)** [Abrogé, 2012, ch. 31, art. 436]
 
-**Mise à jour des renseignements**
-
-- **(2)** Outre les renseignements communiqués en application de l’alinéa (1)c), le ministre peut, au plus tard le 12 juillet d’une année, communiquer à l’actuaire une mise à jour des renseignements visés à cet alinéa.
-> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436 et 462.
+- **(2)** [Abrogé, 2013, ch. 40, art. 127]
+> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436 et 462; 2013, ch. 40, art. 127.
 
 
 
@@ -2305,19 +2307,17 @@ plus de 13 %
 
 **66.2** 
 
-- **(1)** Au plus tard le 22 juin de chaque année, le ministre des Finances communique à l’actuaire les renseignements suivants :
+- **(1)** Au plus tard le 22 juillet de chaque année, le ministre des Finances communique à l’actuaire les renseignements suivants :
 	- **a)** les plus récentes données estimatives liées aux variables économiques qui sont utiles pour la fixation du taux de cotisation pour l’année suivante au titre de l’article 66;
 	- **b)** les sommes estimées au titre des sous-alinéas 77.1a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1a)(iii).
 	- **c) et d)** [Abrogés, 2012, ch. 31, art. 437]
 
-**Mise à jour des renseignements**
-
-- **(2)** Outre les renseignements communiqués en application de l’alinéa (1)b), le ministre des Finances peut, au plus tard le 12 juillet d’une année, communiquer à l’actuaire une mise à jour des renseignements visés à cet alinéa.
+- **(2)** [Abrogé, 2013, ch. 40, art. 128]
 
 **Communication au gouverneur en conseil**
 
-- **(3)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre des Finances communique au gouverneur en conseil les renseignements communiqués à l’actuaire au titre des paragraphes (1) et (2).
-> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 611, ch. 31, art. 437.
+- **(3)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre des Finances communique au gouverneur en conseil les renseignements communiqués à l’actuaire au titre du paragraphe (1).
+> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 611, ch. 31, art. 437; 2013, ch. 40, art. 128.
 
 
 
@@ -2325,12 +2325,12 @@ plus de 13 %
 
 **Rapport de l’actuaire**
 
-**66.3** L’actuaire établit des prévisions et des estimations actuarielles pour l’application des articles 4, 66 et 69 et, au plus tard le 22 juillet de chaque année, communique à la Commission un rapport comprenant les renseignements suivants :
+**66.3** L’actuaire établit des prévisions et des estimations actuarielles pour l’application des articles 4, 66 et 69 et, au plus tard le 22 août de chaque année, communique à la Commission un rapport comprenant les renseignements suivants :
 - **a)** le taux de cotisation estimatif pour l’année suivante, analyse détaillée à l’appui;
 - **b)** les calculs faits pour l’application des articles 4 et 69;
 - **c)** les renseignements communiqués en application de l’article 66.1;
 - **d)** la source des données, les hypothèses économiques et actuarielles et les méthodes actuarielles utilisées.
-> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 19, art. 612, ch. 31, art. 438.
+> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 19, art. 612, ch. 31, art. 438; 2013, ch. 40, art. 129.
 
 
 
@@ -2340,16 +2340,12 @@ plus de 13 %
 
 **66.31** 
 
-- **(1)** La Commission communique au ministre et au ministre des Finances, au plus tard le 31 juillet de chaque année, le rapport prévu à l’article 66.3 ainsi que le résumé du rapport.
-
-**Communication au gouverneur en conseil**
-
-- **(2)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre communique le rapport et son résumé au gouverneur en conseil.
+- **(1)** La Commission, au plus tard le 14 septembre de chaque année, met à la disposition du public le rapport prévu à l’article 66.3 ainsi que le résumé du rapport.
 
 **Dépôt devant les chambres du Parlement**
 
-- **(3)** Le ministre fait déposer le rapport et son résumé devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant la fixation du taux de cotisation en application de l’article 66.
-> 2012, ch. 31, art. 438.
+- **(2)** Le ministre fait déposer le rapport et son résumé devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant leur mise à la disposition du public.
+> 2012, ch. 31, art. 438; 2013, ch. 40, art. 130.
 
 
 
@@ -2363,12 +2359,7 @@ plus de 13 %
 
 
 
-
-**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
-
-**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre de l’article 66 ni des cotisations fixées au titre des articles 67 et 68. Toutefois, le ministre publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
-> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438.
-
+**66.5** [Abrogé, 2013, ch. 40, art. 132]
 
 
 
@@ -2384,8 +2375,8 @@ plus de 13 %
 
 **Cotisation ouvrière**
 
-**67** Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66 ou 66.3, selon le cas.
-> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26; 2005, ch. 30, art. 126.
+**67** Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu de l’article 66.
+> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26; 2005, ch. 30, art. 126; 2013, ch. 40, art. 133.
 
 
 
@@ -2531,14 +2522,14 @@ plus de 13 %
 
 **77** 
 
-- **(1)** Sont payés sur le Trésor et portés au débit du Compte des opérations de l’assurance-emploi :
+- **(1)** Sont payés sur le Trésor et portés au débit du Compte des opérations de l’assurance-emploi :
 	- **a)** toutes les sommes versées au titre des prestations sous le régime de la présente loi;
 	- **b)** toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
 	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
 	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
-	- **d.1)** les frais d’application des articles 28.1 et 28.2 de la Loi sur le ministère des Ressources humaines et du Développement des compétences;
+	- **d.1)** les frais d’application des articles 28.1 et 28.2 de la Loi sur le ministère de l’Emploi et du Développement social ;
 	- **e) et f)** [Abrogés, 2012, ch. 31, art. 439]
-	- **g)** les frais d’application de la partie 5 de la Loi sur le ministère des Ressources humaines et du Développement des compétences à l’égard des appels relatifs à la présente loi.
+	- **g)** les frais d’application de la partie 5 de la Loi sur le ministère de l’Emploi et du Développement social  à l’égard des appels relatifs à la présente loi.
 
 **Paiement par mandats spéciaux**
 
@@ -2547,7 +2538,7 @@ plus de 13 %
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307, ch. 31, art. 439 et 462(A).
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307, ch. 31, art. 439 et 462(A); 2013, ch. 40, art. 236.
 
 
 
@@ -2557,7 +2548,7 @@ plus de 13 %
 
 **77.1** 
 
-- Au plus tard le 22 juin de chaque année :
+- Au plus tard le 22 juillet de chaque année :
 	- **a)** le ministre des Finances estime :
 		- **(i)** la somme à porter au crédit du Compte des opérations de l’assurance-emploi au cours de l’année en question au titre des articles 73 à 75,
 		- **(ii)** la somme à porter au débit de ce compte au cours de cette année au titre du paragraphe 77(1), calculée notamment sur la base des renseignements fournis par le ministre,
@@ -2565,7 +2556,7 @@ plus de 13 %
 	- **b)** le ministre estime le total, au 31 décembre de l’année qui précède l’année en question, des sommes portées au débit de ce compte.
 
 - **(2) à (6)** [Abrogés, 2012, ch. 31, art. 440]
-> 2008, ch. 28, art. 130; 2010, ch. 12, art. 2205; 2012, ch. 19, art. 614, ch. 31, art. 440.
+> 2008, ch. 28, art. 130; 2010, ch. 12, art. 2205; 2012, ch. 19, art. 614, ch. 31, art. 440; 2013, ch. 40, art. 134.
 
 
 
@@ -3023,23 +3014,23 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 
 
-**Remboursement : personne n’exerçant pas un emploi assurable**
+**Remboursement : personne n’exerçant pas un emploi assurable**
 
 **96** 
 
 - **(1)** Lorsqu’une personne a effectué un versement excédentaire au titre de ses cotisations ouvrières pour une année ou a effectué un versement au titre de cotisations ouvrières pour une année alors qu’elle n’exerçait pas un emploi assurable, le ministre doit, si cette personne lui en fait la demande par écrit dans les trois ans qui suivent la fin de cette année, lui rembourser le trop-perçu.
 
-**Remboursement : décision rendue sur appel**
+**Remboursement : décision rendue sur appel**
 
 - **(2)** Lorsque la totalité ou une partie d’une cotisation a été retenue sur la rétribution d’une personne au cours d’une année ou versée par un employeur pour une personne exerçant un emploi à son service au cours d’une année et que, par décision rendue au titre de l’article 91, 92 ou 103, il est statué que la somme ainsi retenue ou versée dépasse celle à retenir ou à verser — ou n’aurait pas dû être retenue ou versée — , le ministre doit, si cette personne ou l’employeur le lui demande par écrit au plus tard trente jours après avoir reçu communication de la décision, rembourser l’excédent — ou la somme — ainsi retenu ou versé.
 
-**Remboursement : demande au ministre**
+**Remboursement : demande au ministre**
 
 - **(3)** Malgré les autres dispositions de la présente partie, lorsqu’une personne ou un employeur présente une demande au ministre et le convainc que, pour une année, la somme retenue sur la rétribution de cette personne, ou versée par l’employeur pour elle, selon le cas, dépasse la somme à retenir ou à verser pour l’année — ou n’aurait pas dû être retenue ou versée — , le ministre peut, si cette demande est faite dans les trois ans qui suivent la fin de cette année, rembourser l’excédent — ou la somme — ainsi retenu ou versé.
 
-**Remboursement : rémunération assurable ne dépassant pas 2 000 $**
+**Remboursement : rémunération assurable ne dépassant pas 2 000 $**
 
-- **(4)** Lorsque la rémunération assurable d’un assuré ne dépasse pas 2 000 $ au cours d’une année, l’ensemble de toutes les retenues faites par un ou plusieurs employeurs sur cette rémunération au titre des cotisations ouvrières de l’année doivent lui être remboursées par le ministre.
+- **(4)** Lorsque la rémunération assurable d’un assuré ne dépasse pas 2 000 $ au cours d’une année, l’ensemble de toutes les retenues faites par un ou plusieurs employeurs sur cette rémunération au titre des cotisations ouvrières de l’année doivent lui être remboursées par le ministre.
 
 **Aucun remboursement**
 
@@ -3067,21 +3058,21 @@ où :
 - **RT** le total de la rémunération provenant d’un emploi assurable et de la rémunération provenant du travail que l’assuré a exécuté pour son propre compte calculée conformément à la partie VII.1;
 - **CT** représente l’ensemble de toutes les retenues visées au paragraphe (4) et de la cotisation prévue à l’article 152.21.
 
-**Mesure temporaire : remboursement de la cotisation patronale pour 1997**
+**Mesure temporaire : remboursement de la cotisation patronale pour 1997**
 
-- **(6)** Lorsqu’une cotisation patronale pour 1996 est inférieure à 60 000 $, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 1997, calculée selon la formule suivante, si ce montant excède 1 $ :
+- **(6)** Lorsqu’une cotisation patronale pour 1996 est inférieure à 60 000 $, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 1997, calculée selon la formule suivante, si ce montant excède 1 $ :
 ```
-C2 - (C1 + 250 $)
+C2 - (C1 + 250 $)
 ```
 où :
 - **C1** représente le montant de la cotisation patronale pour 1996,
 - **C2** le montant de la cotisation patronale pour 1997.
 
-**Mesure temporaire : remboursement de la cotisation patronale pour 1998**
+**Mesure temporaire : remboursement de la cotisation patronale pour 1998**
 
-- **(7)** Lorsqu’une cotisation patronale pour 1996 est inférieure à 60 000 $, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 1998, calculée selon la formule suivante, si ce montant excède 1 $ :
+- **(7)** Lorsqu’une cotisation patronale pour 1996 est inférieure à 60 000 $, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 1998, calculée selon la formule suivante, si ce montant excède 1 $ :
 ```
-[C2 - (C1 + 250 $)]/4
+[C2 - (C1 + 250 $)]/4
 ```
 où :
 - **C1** représente le montant de la cotisation patronale pour 1996,
@@ -3093,9 +3084,9 @@ où :
 
 **Remboursement maximal**
 
-- **(8)** Le remboursement prévu au paragraphe (6) ou (7) ne peut excéder :
-	- **a)** 10 000 $, si le montant de la cotisation patronale pour 1996 est inférieur à 50 000 $;
-	- **b)** la différence entre 60 000 $ et le montant de la cotisation patronale pour 1996, si celle-ci est d’au moins 50 000 $ mais inférieure à 60 000 $.
+- **(8)** Le remboursement prévu au paragraphe (6) ou (7) ne peut excéder :
+	- **a)** 10 000 $, si le montant de la cotisation patronale pour 1996 est inférieur à 50 000 $;
+	- **b)** la différence entre 60 000 $ et le montant de la cotisation patronale pour 1996, si celle-ci est d’au moins 50 000 $ mais inférieure à 60 000 $.
 
 **Précision**
 
@@ -3103,7 +3094,7 @@ où :
 
 **Remboursement de la cotisation patronale pour 1999**
 
-- **(8.2)** Pour 1999, le ministre rembourse à l’employeur la somme, calculée selon la formule suivante, qui excède 1 $ :
+- **(8.2)** Pour 1999, le ministre rembourse à l’employeur la somme, calculée selon la formule suivante, qui excède 1 $ :
 ```
 (RA2 – RA1) × C1999
 ```
@@ -3114,7 +3105,7 @@ où :
 
 **Remboursement de la cotisation patronale pour 2000**
 
-- **(8.3)** Pour 2000, le ministre rembourse à l’employeur la somme, calculée selon la formule suivante, qui excède 1 $ :
+- **(8.3)** Pour 2000, le ministre rembourse à l’employeur la somme, calculée selon la formule suivante, qui excède 1 $ :
 ```
 (RA2 – RA1) × C2000
 ```
@@ -3171,6 +3162,24 @@ où :
 
 - **(8.93)** Le remboursement prévu au paragraphe (8.91) ne peut excéder 1 000 $.
 
+**Mesure temporaire : remboursement aux petites entreprises de la cotisation patronale pour 2013**
+
+- **(8.94)** Lorsqu’une cotisation patronale pour 2012 est de 15 000 $ ou moins, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 2013, calculée selon la formule ci-après, qui excède 2 $ :
+```
+C2 – C1
+```
+où :
+- **C1** représente le montant de la cotisation patronale pour 2012,
+- **C2** le montant de la cotisation patronale pour 2013.
+
+**Cas d’absence de cotisation patronale pour 2012**
+
+- **(8.95)** Pour l’application du paragraphe (8.94), C1 est égal à zéro dans les cas où une personne n’était pas tenue de payer une cotisation patronale pour 2012.
+
+**Remboursement maximal**
+
+- **(8.96)** Le remboursement prévu au paragraphe (8.94) ne peut excéder 1 000 $.
+
 **Employeurs associés**
 
 - **(9)** Les employeurs qui sont, à un moment quelconque de l’année pour laquelle un remboursement est demandé, des employeurs associés au sens prévu par règlement sont réputés être un seul employeur pour l’application des paragraphes (6) à (8.4). Le remboursement est réparti entre eux conformément aux règlements.
@@ -3193,8 +3202,8 @@ où :
 
 **Aucun intérêt**
 
-- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7) ou (8.91).
-> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307.
+- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7), (8.91) ou (8.94).
+> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307; 2013, ch. 40, art. 135.
 
 
 
@@ -3573,8 +3582,8 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Appel au Tribunal de la sécurité sociale**
 
-**113** Quiconque se croit lésé par une décision de la Commission rendue en application de l’article 112, notamment une décision relative au délai supplémentaire, peut interjeter appel de la décision devant le Tribunal de la sécurité sociale constitué par l’article 44 de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
-> 1996, ch. 23, art. 113; 2012, ch. 19, art. 247.
+**113** Quiconque se croit lésé par une décision de la Commission rendue en application de l’article 112, notamment une décision relative au délai supplémentaire, peut interjeter appel de la décision devant le Tribunal de la sécurité sociale constitué par l’article 44 de la Loi sur le ministère de l’Emploi et du Développement social .
+> 1996, ch. 23, art. 113; 2012, ch. 19, art. 247; 2013, ch. 40, art. 236.
 
 
 
@@ -3584,14 +3593,14 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **114** 
 
-- **(1)** Lorsque la division générale du Tribunal de la sécurité sociale, constitué par l’article 44 de la Loi sur le ministère des Ressources humaines et du Développement des compétences, fait droit à une demande de prestations, les prestations doivent être payées conformément à la décision du Tribunal même si un appel de cette décision est en instance. Toute prestation versée en application du présent article après la décision du Tribunal est considérée comme acquise et ne peut être recouvrée du prestataire, même si le règlement de la question en dernier ressort lui est défavorable.
+- **(1)** Lorsque la division générale du Tribunal de la sécurité sociale, constitué par l’article 44 de la Loi sur le ministère de l’Emploi et du Développement social , fait droit à une demande de prestations, les prestations doivent être payées conformément à la décision du Tribunal même si un appel de cette décision est en instance. Toute prestation versée en application du présent article après la décision du Tribunal est considérée comme acquise et ne peut être recouvrée du prestataire, même si le règlement de la question en dernier ressort lui est défavorable.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** si l’appel devant la division d’appel du Tribunal a été interjeté dans les vingt et un jours suivant la décision de la division générale du Tribunal pour le motif que le prestataire ne serait pas admissible au titre de l’article 36;
 	- **b)** dans les autres cas que la Commission peut, avec l’agrément du gouverneur en conseil, prévoir par règlement.
-> 1996, ch. 23, art. 114; 2012, ch. 19, art. 247.
+> 1996, ch. 23, art. 114; 2012, ch. 19, art. 247; 2013, ch. 40, art. 236.
 
 
 
