@@ -4861,7 +4861,7 @@ These provisions include standards relating to the following:
 </tr>
 </table>
 
-For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Human Resources and Skills Development or visit the Web site address:
+For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Employment and Social Development or visit the Web site address:
 
 
 http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
@@ -4870,7 +4870,7 @@ http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
 All inquiries will be treated confidentially.
 
 
-> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4.
+> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237.
 
 
 
