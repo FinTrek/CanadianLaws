@@ -389,10 +389,7 @@ the Superintendent shall examine and inquire into the carrying out of those acti
 
 
 
-
-**Borrowing**
-
-**20** No member of the committee referred to in section 18, person appointed under subsection 5(5) or Deputy Superintendent shall borrow money from any financial institution or from any member institution within the meaning of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) unless the Minister is first informed in writing of the intention of that member, person or Deputy Superintendent to do so.
+**20** [Repealed, 2013, c. 40, s. 159]
 
 
 
