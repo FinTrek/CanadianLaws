@@ -77,7 +77,7 @@ Assented to on 12 December 2006
 	- **(v)** a military judge within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
 	- **(vi)** an officer of the Royal Canadian Mounted Police, not including the Commissioner;
 - **(d.1)** a ministerial appointee whose appointment is approved by the Governor in Council; and
-- **(e)** a full-time ministerial appointee designated by the appropriate minister of the Crown as a public office holder.
+- **(e)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(1) or 62.2(1).
 
 ***public sector entity*** means a department or agency of the Government of Canada, a Crown corporation established by or under an Act of Parliament or any other entity to which the Governor in Council may appoint a person, but does not include the Senate or the House of Commons.
 
@@ -89,7 +89,7 @@ Assented to on 12 December 2006
 - **(c)** a ministerial adviser;
 - **(d)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a part-time basis but receives an annual salary and benefits;
 - **(e)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a full-time basis; or
-- **(f)** a full-time ministerial appointee designated by the appropriate minister of the Crown as a reporting public office holder.
+- **(f)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(2) or 62.2(2).
 
 ***spouse*** does not include a person from whom a public office holder is separated if all support obligations and family property or patrimony have been dealt with by a separation agreement or a court order.
 
@@ -102,7 +102,7 @@ Assented to on 12 December 2006
 **Relatives**
 
 - **(3)** Persons who are related to a public office holder by birth, marriage, common-law partnership, adoption or affinity are the public office holder’s relatives for the purposes of this Act unless the Commissioner determines, either generally or in relation to a particular public office holder, that it is not necessary for the purposes of this Act that a person or a class of persons be considered a relative of a public office holder.
-> 2006, c. 9, s. 2 "2"; 2013, c. 33, s. 192.
+> 2006, c. 9, s. 2 "2"; 2013, c. 33, s. 192, c. 40, s. 288.
 
 
 
@@ -1092,6 +1092,36 @@ Assented to on 12 December 2006
 
 **PART 5** 
 ## General
+
+
+
+**Minister designating public office holder**
+
+**62.1** 
+
+- **(1)** The appropriate minister of the Crown may designate a full-time ministerial appointee as a public office holder for the purpose of paragraph (e) of the definition public office holder in subsection 2(1).
+
+**Minister designating reporting public office holder**
+
+- **(2)** The appropriate minister of the Crown may designate a full-time ministerial appointee who is a public office holder as a reporting public office holder for the purpose of paragraph (f) of the definition reporting public office holder in subsection 2(1).
+> 2013, c. 40, s. 289.
+
+
+
+
+
+**Governor in Council designating public office holder**
+
+**62.2** 
+
+- **(1)** The Governor in Council may, by order, designate any person or class of persons as public office holders for the purpose of paragraph (e) of the definition public office holder in subsection 2(1).
+
+**Governor in Council designating reporting public office holder**
+
+- **(2)** The Governor in Council may, by order, designate any person who is a public office holder or any class of persons who are public office holders as reporting public office holders for the purpose of paragraph (f) of the definition reporting public office holder in subsection 2(1).
+> 2013, c. 40, s. 289.
+
+
 
 
 
