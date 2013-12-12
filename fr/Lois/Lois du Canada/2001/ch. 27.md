@@ -130,9 +130,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** à l’établissement des orientations en matière d’exécution de la présente loi et d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou pour activités de criminalité organisée;
 	- **d)** aux déclarations visées à l’article 42.1.
 
-**Compétence du ministre des Ressources humaines et du Développement des compétences**
+**Compétence du ministre de l’Emploi et du Développement social**
 
-- **(2.1)** Le gouverneur en conseil peut, dans tout règlement pris en vertu des alinéas 32d.1) à d.3), conférer des attributions au ministre des Ressources humaines et du Développement des compétences.
+- **(2.1)** Le gouverneur en conseil peut, dans tout règlement pris en vertu des alinéas 32d.1) à d.3), conférer des attributions au ministre de l’Emploi et du Développement social.
 
 **Précisions du gouverneur en conseil**
 
@@ -143,7 +143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(4)** Tout décret pris pour l’application du paragraphe (3) est publié dans la partie II de la Gazette du Canada.
-> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701; 2013, ch. 16, art. 2.
+> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701; 2013, ch. 16, art. 2, ch. 40, art. 238.
 
 
 
@@ -966,7 +966,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Révocation ou suspension d’un avis**
 
-- **(1.43)** Le ministère des Ressources humaines et du Développement des compétences peut, s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre des Ressources humaines et du Développement des compétences, le justifie :
+- **(1.43)** Le ministère de l’Emploi et du Développement social peut, s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre de l’Emploi et du Développement social, le justifie :
 	- **a)** révoquer un avis qu’il a fourni relativement à une demande de permis de travail;
 	- **b)** suspendre les effets d’un tel avis;
 	- **c)** refuser de traiter une demande pour un tel avis.
@@ -990,7 +990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enfant mineur**
 
 - **(2)** L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
-> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206; 2013, ch. 33, art. 161.
+> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206; 2013, ch. 33, art. 161, ch. 40, art. 235.
 
 
 
@@ -2315,7 +2315,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
-- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’un avis fourni par le ministère des Ressources humaines et du Développement des compétences relativement à une demande de permis de travail.
+- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’un avis fourni par le ministère de l’Emploi et du Développement social relativement à une demande de permis de travail.
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
@@ -2324,7 +2324,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
 - **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
-> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162.
+> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162, ch. 40, art. 237.
 
 
 
@@ -2444,7 +2444,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incorporation de documents — instructions**
 
-- **(1.1)** Les instructions du ministre ou du ministre des Ressources humaines et du Développement des compétences données au titre de la présente loi peuvent incorporer par renvoi tout document, indépendamment de sa source.
+- **(1.1)** Les instructions du ministre ou du ministre de l’Emploi et du Développement social données au titre de la présente loi peuvent incorporer par renvoi tout document, indépendamment de sa source.
 
 **Portée de l’incorporation**
 
@@ -2453,7 +2453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature du document**
 
 - **(3)** L’incorporation ne confère pas au document valeur de règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708; 2013, ch. 33, art. 164.
+> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708; 2013, ch. 33, art. 164, ch. 40, art. 238.
 
 
 
@@ -2461,8 +2461,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**93** Les instructions du ministre ou du ministre des Ressources humaines et du Développement des compétences données au titre de la présente loi et les directives données par le président en vertu de l’alinéa 159(1)h) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 27, art. 93; 2013, ch. 33, art. 165.
+**93** Les instructions du ministre ou du ministre de l’Emploi et du Développement social données au titre de la présente loi et les directives données par le président en vertu de l’alinéa 159(1)h) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2001, ch. 27, art. 93; 2013, ch. 33, art. 165, ch. 40, art. 238.
 
 
 
