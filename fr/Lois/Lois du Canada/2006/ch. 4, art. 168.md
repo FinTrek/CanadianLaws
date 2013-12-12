@@ -40,14 +40,14 @@ Sanctionnée sur le 22 juin 2006
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le ministre des Ressources humaines et du Développement des compétences.
+***ministre*** Le ministre de l’Emploi et du Développement social.
 
 ***parent ayant la garde partagée*** S’entend au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 ***particulier admissible*** Particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 ***personne à charge admissible*** Personne à charge admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et qui est âgée de moins de six ans.
-> 2006, ch. 4, art. 168 « 2 »; 2010, ch. 25, art. 74.
+> 2006, ch. 4, art. 168 « 2 »; 2010, ch. 25, art. 74; 2013, ch. 40, art. 238.
 
 
 
