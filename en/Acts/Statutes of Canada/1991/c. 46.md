@@ -4473,28 +4473,16 @@ but does not include
 - **(e)** a person who is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
 - **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of subsection 370(1);
-- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
+- **(g)** [Repealed, 2013, c. 40, s. 161]
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province;
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof; and
 - **(j)** if the bank is a federal credit union, a person who fails to meet any of the qualification requirements set out in its by-laws.
-> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2010, c. 12, s. 1968; 2012, c. 19, s. 330, c. 31, s. 109.
+> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2010, c. 12, s. 1968; 2012, c. 19, s. 330, c. 31, s. 109; 2013, c. 40, s. 161.
 
 
 
 
-
-**Exception**
-
-**160.1** Paragraph 160(g) does not apply to a person if
-- **(a)** the person is employed in a department or agency of the Government of Canada that is not involved in the regulation or supervision of financial institutions;
-- **(b)** the person’s duties do not involve financial institutions; and
-- **(c)** the bank is controlled by a local cooperative credit society, as defined in section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), in which the following persons, in aggregate, hold more than 50 per cent or, if a percentage has been prescribed for the purpose of this paragraph, the prescribed percentage, of the ownership interests in the local cooperative credit society, namely,
-	- **(i)** employees of Her Majesty in right of Canada or of a province,
-	- **(ii)** former employees of Her Majesty in right of Canada or of a province,
-	- **(iii)** the spouse or common-law partner of a person referred to in subparagraph (i) or (ii), and
-	- **(iv)** a child who is less than eighteen years of age of a person referred to in subparagraph (i) or (ii).
-> 2001, c. 9, s. 71.
-
+**160.1** [Repealed, 2013, c. 40, s. 162]
 
 
 
@@ -12178,6 +12166,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(5)** A bank is deemed not to contravene subsection (1) if the bank acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the bank.
 
+**Non-application of subsection (2)**
+
+- **(5.1)** No bank shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 468(1)(j).
+
+**Holding**
+
+- **(5.2)** If a bank holds a substantial investment in an entity referred to in paragraph 468(1)(j) that it acquired or increased under subsection (2) before the coming into force of subsection (5.1), the bank may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a bank may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions set out in that other provision are met.
@@ -12185,7 +12181,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Timing of deemed acquisition**
 
 - **(7)** If a bank decides to exercise its right under subsection (6), the bank is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 46, s. 466; 1997, c. 15, s. 57; 2001, c. 9, s. 127; 2007, c. 6, s. 39.
+> 1991, c. 46, s. 466; 1997, c. 15, s. 57; 2001, c. 9, s. 127; 2007, c. 6, s. 39; 2013, c. 40, s. 168.
 
 
 
@@ -19488,10 +19484,10 @@ shall be submitted to the Superintendent at the time of the application for appr
 - **(e)** a person who is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
 - **(f.1)** a person who is an officer, director, employee or agent of — or any other person acting on behalf of — an eligible agent within the meaning of subsection 370(1);
-- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
+- **(g)** [Repealed, 2013, c. 40, s. 163]
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 183; 2012, c. 19, s. 335, c. 31, s. 119.
+> 2001, c. 9, s. 183; 2012, c. 19, s. 335, c. 31, s. 119; 2013, c. 40, s. 163.
 
 
 
@@ -22887,6 +22883,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 - **(4)** A bank holding company is deemed not to contravene subsection (1) if the bank holding company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the bank holding company.
 
+**Non-application of subsection (2)**
+
+- **(4.1)** No bank holding company shall, under subsection (2), acquire control of, or acquire or increase a substantial investment in, an entity referred to in paragraph 930(1)(j).
+
+**Holding**
+
+- **(4.2)** If a bank holding company holds a substantial investment in an entity referred to in paragraph 930(1)(j) that it acquired or increased under subsection (2) before the coming into force of subsection (4.1), the bank holding company may continue to hold that substantial investment.
+
 **Application of other provision**
 
 - **(5)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a bank holding company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
@@ -22894,7 +22898,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Timing of deemed acquisition**
 
 - **(6)** If a bank holding company decides to exercise its right under subsection (5), the bank holding company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 121.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 121; 2013, c. 40, s. 169.
 
 
 
