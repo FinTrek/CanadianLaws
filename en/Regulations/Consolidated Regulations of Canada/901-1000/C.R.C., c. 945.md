@@ -645,13 +645,17 @@ that person or partnership shall make an information return in prescribed form i
 
 - **(5)** Every insurer, within the meaning assigned by paragraph 148(10)(a) of the Act, who is a party to a life insurance policy in respect of which an amount is to be included in computing a taxpayer’s income under subsection 12.2(1) or (5) of the Act shall make an information return in prescribed form in respect of that amount.
 
+- **(5.1)** Subsection (5) applies to an insurer in respect of an LIA policy in respect of a calendar year only if
+	- **(a)** the insurer is notified in writing  —  before the end of the calendar year and by, or on behalf, of the policyholder  —  that the policy is an LIA policy; or
+	- **(b)** it is reasonable to conclude that the insurer knew, or ought to have known, before the end of the calendar year, that the policy is an LIA policy.
+
 - **(6)** Every person who makes a payment to, or acts as a nominee or agent for, an individual resident in Canada in respect of the disposition or redemption of a debt obligation in bearer form shall make an information return in prescribed form in respect of the transaction indicating the proceeds of disposition or the redemption amount and such other information as may be required by the prescribed form.
 
 - **(7)** For the purposes of subsection (6), ***debt obligation in bearer form*** means any debt obligation in bearer form other than
 	- **(a)** a debt obligation that is redeemed for the amount for which the debt obligation was issued;
 	- **(b)** a debt obligation described in paragraph 7000(1)(b); and
 	- **(c)** a coupon, warrant or cheque referred to in subsection 207(1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1; 2013, c. 40, s. 96.
 
 
 
@@ -1766,7 +1770,7 @@ is of
 
 **306** 
 
-- **(1)** For the purposes of this Part and subsection 12.2(11) of the Act, ***exempt policy*** at any time means a life insurance policy (other than an annuity contract or a deposit administration fund policy) in respect of which the following conditions are met at that time:
+- **(1)** For the purposes of this Part and subsection 12.2(11) of the Act, ***exempt policy*** at any time means a life insurance policy (other than an annuity contract, LIA policy or a deposit administration fund policy) in respect of which the following conditions are met at that time:
 	- **(a)** if that time is a policy anniversary of the policy, the accumulating fund of the policy at that time (determined without regard to any policy loan) does not exceed the total of the accumulating funds at that time of the exemption test policies issued at or before that time in respect of the policy;
 	- **(b)** assuming that the terms and conditions of the policy do not change from those in effect on the last policy anniversary of the policy at or before that time and, where necessary, making reasonable assumptions about all other factors (including, in the case of a participating life insurance policy within the meaning assigned by subsection 138(12) of the Act, the assumption that the amounts of dividends paid will be as shown in the dividend scale), it is reasonable to expect that the condition in paragraph (a) will be met on each policy anniversary of the policy on which the policy could remain in force after that time and before the date determined under subparagraph (3)(d)(ii) with respect to the exemption test policies issued in respect of the policy;
 	- **(c)** the condition in paragraph (a) was met on all policy anniversaries of the policy before that time; and
@@ -1800,7 +1804,7 @@ the policy shall be deemed to have been an exempt policy from the date of its is
 	- **(d)** a life insurance policy that ceases to be an exempt policy (other than by reason of its conversion into an annuity contract) on a policy anniversary shall be deemed to be an exempt policy on that anniversary
 		- **(i)** if, had that anniversary occurred 60 days after the date on which it did in fact occur, the policy would have been an exempt policy on that later date, or
 		- **(ii)** if the person whose life is insured under the policy dies on that anniversary or within 60 days thereafter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F); 2013, c. 40, s. 97.
 
 
 
@@ -2493,10 +2497,10 @@ where
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(b)** subsections 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
 - **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98.
 
 
 
@@ -2660,12 +2664,12 @@ is of
 ### Prescribed Obligation
 
 
-**806.2** For the purpose of paragraph 212(1)(b) of the Act, an obligation is a prescribed obligation if it is an indexed debt obligation and no amount payable in respect of it is
+**806.2** For the purposes of the definition ***participating debt interest*** in subsection 212(3) of the Act, an obligation is a prescribed obligation if it is an indexed debt obligation and no amount payable in respect of it is
 - **(a)** contingent or dependent upon the use of, or production from, property in Canada; or
 - **(b)** computed by reference to
 	- **(i)** revenue, profit, cash flow, commodity price or any other similar criterion, other than a change in the purchasing power of money, or
 	- **(ii)** dividends paid or payable to shareholders of any class of shares.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-345, s. 1; SOR/94-686, s. 79(F); SOR/96-435, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-345, s. 1; SOR/94-686, s. 79(F); SOR/96-435, s. 2; 2013, c. 40, s. 99.
 
 
 
@@ -2867,8 +2871,7 @@ and the product obtained under paragraph (d) is the amount by which the amount r
 
 
 **PART IX** 
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
-
+## [Repealed, SOR/2003-5, s. 13]
 
 
 
@@ -2976,6 +2979,7 @@ in respect of which the election is made;
 		- **(xxvi)** of Class 37, 15 per cent,
 		- **(xxvii)** of Class 41, 25 per cent,
 		- **(xxvii.1)** of Class 41.1, 25 per cent,
+		- **(xxvii.2)** of Class 41.2, 25 per cent,
 		- **(xxviii)** of Class 42, 12 per cent,
 		- **(xxix)** of Class 43, 30 per cent,
 		- **(xxix.1)** of Class 43.1, 30 per cent,
@@ -3146,16 +3150,16 @@ and, for the purposes of subparagraph (iv), a property shall be deemed to have b
 #### Additional Allowances — Class 28
 
 	- **(w)** subject to section 1100A, such additional amount as he may claim in respect of property described in Class 28 acquired for the purpose of gaining or producing income from a mine or in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101 (4a), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.1), (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.1), (y.2), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 	- **(x)** subject to section 1100A, such additional amount as he may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4b), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
 
 #### Additional Allowances — Class 41
 
 	- **(y)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4c), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (*ya*) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of a taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 
 #### Additional Allowances — Class 41.1
@@ -3166,7 +3170,7 @@ A × B
 ```
 where
 - **A** is the lesser of
-	- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(i)** the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.2), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
 	- **(A)** without reference to subsection (2),
 	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
@@ -3175,8 +3179,30 @@ where
 	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
 	- **(ii)** that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,
 	- **(iii)** that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,
-	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year, and
-	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year;
+	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year,
+	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and
+	- **(vi)** 0%, if one or more days in the year are after 2014;
+
+#### Additional Allowances  —  Class 41.2  —  Single Mine Properties
+
+	- **(y.2)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4g), not exceeding the amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the lesser of
+	- **(i)** the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the year computed
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the year, and
+	- **(C)** before making any deduction under this paragraph, and
+- **B** is the percentage that is the total of
+	- **(i)** that proportion of 100% that the number of days in the year that are before 2017 is of the number of days in the year,
+	- **(ii)** that proportion of 90% that the number of days in the year that are in 2017 is of the number of days in the year,
+	- **(iii)** that proportion of 80% that the number of days in the year that are in 2018 is of the number of days in the year,
+	- **(iv)** that proportion of 60% that the number of days in the year that are in 2019 is of the number of days in the year,
+	- **(v)** that proportion of 30% that the number of days in the year that are in 2020 is of the number of days in the year, and
+	- **(vi)** 0%, if one or more days in the year are after 2020;
 	- **(ya)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4d), not exceeding the lesser of
 		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
@@ -3189,7 +3215,7 @@ A × B
 ```
 where
 - **A** is the lesser of
-	- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(i)** the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
 	- **(A)** without reference to subsection (2),
 	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
@@ -3198,8 +3224,30 @@ where
 	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
 	- **(ii)** that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,
 	- **(iii)** that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,
-	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year, and
-	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year;
+	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year,
+	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and
+	- **(vi)** 0%, if one or more days in the year are after 2014;
+
+#### Additional allowances Class 41.2  —  Multiple Mine Properties
+
+	- **(ya.2)** such additional amount as the taxpayer may claim in respect of a property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4h), not exceeding the amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the lesser of
+	- **(i)** the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the year computed
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the year, and
+	- **(C)** before making any deduction under this paragraph, and
+- **B** is the percentage that is the total of
+	- **(i)** that proportion of 100% that the number of days in the year that are before 2017 is of the number of days in the year,
+	- **(ii)** that proportion of 90% that the number of days in the year that are in 2017 is of the number of days in the year,
+	- **(iii)** that proportion of 80% that the number of days in the year that are in 2018 is of the number of days in the year,
+	- **(iv)** that proportion of 60% that the number of days in the year that are in 2019 is of the number of days in the year,
+	- **(v)** that proportion of 30% that the number of days in the year that are in 2020 is of the number of days in the year, and
+	- **(vi)** 0%, if one or more days in the year are after 2020;
 
 #### Additional Allowances — Railway Cars
 
@@ -3510,7 +3558,9 @@ exceeds
 
 - **(12)** Subject to subsection (13), subsection (11) does not apply in respect of a taxation year of a taxpayer that was, throughout the year,
 	- **(a)** a life insurance corporation, or a corporation whose principal business was the leasing, rental, development or sale, or any combination thereof, of real property owned by it; or
-	- **(b)** a partnership each member of which was a corporation described in paragraph (a).
+	- **(b)** a partnership each member of which was
+		- **(i)** a corporation described in paragraph (a), or
+		- **(ii)** another partnership described in this paragraph.
 
 - **(13)** For the purposes of subsection (11), where a taxpayer or partnership has a leasehold interest in a property that is property of Class 1, 3 or 6 in Schedule II by virtue of subsection 1102(5) and the property is leased by the taxpayer or partnership to a person who owns the land, an interest therein or an option in respect thereof, on which the property is situated, this section shall be read without reference to subsection (12) with respect to that property.
 
@@ -3548,7 +3598,9 @@ exceeds
 		- **(i)** renting or leasing of leasing property or property that would be leasing property but for subsection (18), (19) or (20), or
 		- **(ii)** renting or leasing of property referred to in subparagraph (i) combined with selling and servicing of property of the same general type and description,
 if the gross revenue of the corporation for the year from such principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources; or
-	- **(b)** a partnership each member of which was a corporation described in paragraph (a).
+	- **(b)** a partnership each member of which was
+		- **(i)** a corporation described in paragraph (a), or
+		- **(ii)** another partnership described in this paragraph.
 
 - **(17)** Subject to subsection (18), in this section and section 1101, ***leasing property*** of a taxpayer or a partnership means depreciable property other than
 	- **(a)** rental property,
@@ -3672,14 +3724,18 @@ where the owner was
 			- **(A)** the renting or leasing of leasing property or property that would be leasing property but for subsection (18), (19) or (20),
 			- **(B)** the renting or leasing of property referred to in clause (A) combined with the selling and servicing of property of the same general type and description, or
 			- **(C)** the manufacturing of property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II that it sells or leases,and the gross revenue of the corporation for the year from that principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources, or
-		- **(iv)** a partnership each member of which was a corporation described in subparagraph (iii) or paragraph (26)(a).
+		- **(iv)** a partnership each member of which was
+			- **(A)** a corporation described in subparagraph (iii) or paragraph (26)(a), or
+			- **(B)** another partnership described in this subparagraph.
 
 - **(26)** Subsection (24) does not apply to a taxation year of a taxpayer that was, throughout the year,
 	- **(a)** a corporation whose principal business throughout the year was
 		- **(i)** manufacturing or processing,
 		- **(ii)** mining operations, or
 		- **(iii)** the sale, distribution or production of electricity, natural gas, oil, steam, heat or any other form of energy or potential energy; or
-	- **(b)** a partnership each member of which was a corporation described in paragraph (a).
+	- **(b)** a partnership each member of which was
+		- **(i)** a corporation described in paragraph (a), or
+		- **(ii)** another partnership described in this paragraph.
 
 - **(27)** Specified energy property of a person or partnership does not include property acquired by the person or partnership after February 9, 1988 and before 1990
 	- **(a)** pursuant to an obligation in writing entered into by the person or partnership before February 10, 1988;
@@ -3699,7 +3755,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100.
 
 
 
@@ -3868,6 +3924,21 @@ each such industrial mineral mine and each such right to remove industrial miner
 	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
 	- **(b)** would otherwise be included in Class 41.1 because of paragraph (a) of that class.
 
+#### Class 41.2  —  Single Mine Properties
+
+
+- **(4g)** If one or more properties of a taxpayer are described in paragraph (a) of Class 41.2 of Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from one mine and not from any other mine (in this subsection referred to as “single mine properties”), a separate class is prescribed for the single mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from that mine;
+	- **(b)** would otherwise be included in Class 41.2 because of paragraph (a) of that class; and
+	- **(c)** are not included in a separate class because of subsection (4h).
+
+#### Class 41.2  —  Multiple Mine Properties
+
+
+- **(4h)** If more than one property of a taxpayer is described in paragraph (a) of Class 41.2 in Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from particular mines and not from any other mine (in this subsection referred to as “multiple mine properties”), a separate class is prescribed for the multiple mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
+	- **(b)** would otherwise be included in Class 41.2 because of paragraph (a) of that class.
+
 #### Lease Option Agreements
 
 
@@ -4027,7 +4098,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384, c. 40, 101.
 
 
 
@@ -4122,7 +4193,7 @@ whichever period is later, was sold to the consumer for that purpose, the proper
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 or 41.1 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
+	- **(d)** Class 41, 41.1 or 41.2 in Schedule II in any other case, unless the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
 
 - **(9)** Where a taxpayer has acquired generating or distributing equipment and plant (including structures) for the purpose of providing power for his own consumption in operating a mine, ore mill, smelter, metal refinery or any combination thereof and at least 80 per cent of the output of electrical energy was so used
 	- **(a)** in his 1948 and 1949 taxation years, or
@@ -4134,25 +4205,20 @@ whichever period is the later, the property shall be included in
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 or 41.1 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
+	- **(d)** Class 41, 41.1 or 41.2 in Schedule II in any other case, unless the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
 
 - **(9.1)** In their application to generating or distributing equipment and plant (including structures) that were acquired by the taxpayer before November 8, 1969, subsections (8) and (9) shall be read without reference to a “metal refinery”.
 
 - **(9.2)** Where a taxpayer acquires property after November 7, 1969 from a person with whom he was not dealing at arm’s length that is property referred to in subsection (8) or (9), notwithstanding those subsections, that property shall not be included in Class 10 in Schedule II by the taxpayer unless the property had been included in that class by the person from whom it was acquired, by virtue of subsection (8) or (9) as it read in its application before November 8, 1969.
 
-#### Railway Companies
-
-
-- **(10)** For the purposes of section 36 of the Act, where a taxpayer is deemed to have acquired depreciable property of a prescribed class at the time a repair, replacement, alteration or renovation expenditure described therein was incurred,
-	- **(a)** if the expenditure was incurred by the taxpayer before May 26, 1976, the class hereby prescribed is Class 4 in Schedule II; and
-	- **(b)** if the expenditure was incurred by the taxpayer after May 25, 1976, the class hereby prescribed is the class in Schedule II in which the depreciable property that was repaired, replaced, altered or renovated would be included if such property had been acquired at the time the expenditure was incurred.
+- **(10)** [Repealed, 2013, c. 40, s. 102]
 
 #### Passenger Automobiles
 
 
 - **(11)** In paragraph (1)(h),
 
-***cost to the taxpayer*** of an automobile means, except as provided in subsections (12) and (13),
+***cost to the taxpayer*** of an automobile means, except as provided in subsections (12) and (13),
 - **(a)** except in any case coming under paragraph (b) or (c), the capital cost to the taxpayer of the automobile,
 - **(b)** except in any case coming under paragraph (c), where the automobile was acquired by a person (in this section referred to as the “original owner”) after June 13, 1963, and has, by one or more transactions between persons not dealing at arm’s length, become vested in the taxpayer, the greater of
 	- **(i)** the actual cost to the taxpayer, and
@@ -4161,20 +4227,20 @@ whichever period is the later, the property shall be included in
 	- **(i)** the actual cost to the taxpayer, and
 	- **(ii)** the amount that such an automobile would ordinarily cost the taxpayer if he purchased it from a dealer in automobiles in Canada for use in Canada; (*coût pour le contribuable*)
 
-***initial transportation charges*** in respect of an automobile means the costs incurred by a dealer in automobiles for transporting the automobile (before it had been used for any purpose whatever) from,
+***initial transportation charges*** in respect of an automobile means the costs incurred by a dealer in automobiles for transporting the automobile (before it had been used for any purpose whatever) from,
 - **(a)** in the case of an automobile manufactured in Canada, the manufacturer’s plant, and
 - **(b)** in any other case, the place in Canada, if any, at which the automobile was received or stored by a wholesale distributor,
 
 to the dealer’s place of business; (*frais de transport initiaux*)
 
-***passenger automobile*** means a vehicle, other than an ambulance or hearse, that was designed to carry not more than nine persons, and that is
+***passenger automobile*** means a vehicle, other than an ambulance or hearse, that was designed to carry not more than nine persons, and that is
 - **(a)** an automobile designed primarily for carrying persons on highways and streets, except an automobile that
 	- **(i)** is designed to accommodate and is equipped with auxiliary folding seats installed between the front and the rear seats,
 	- **(ii)** was acquired by a person carrying on the business of operating a taxi or automobile rental service, or arranging and managing funerals, for use in such business, and
 	- **(iii)** is not a vehicle described in paragraph (b), or
-- **(b)** a station wagon or substantially similar vehicle; (*automobile à voyageurs*)
+- **(b)** a station wagon or substantially similar vehicle; (*automobile à voyageurs*)
 
-***retail sales tax*** in respect of an automobile means the aggregate of municipal and provincial retail sales taxes payable in respect of the purchase of the automobile by the taxpayer. (*taxe de vente ou détail*)
+***retail sales tax*** in respect of an automobile means the aggregate of municipal and provincial retail sales taxes payable in respect of the purchase of the automobile by the taxpayer. (*taxe de vente ou détail*)
 
 - **(12)** For the purposes of paragraph (1)(h), where an automobile is owned by two or more persons or by partners, a reference to “cost to the taxpayer” shall be deemed to be a reference to the aggregate of the cost, as defined in subsection (11), to each such person or partner.
 
@@ -4183,7 +4249,7 @@ to the dealer’s place of business; (*frais de transport initiaux*)
 #### Property Acquired by Transfer, Amalgamation or Winding-Up
 
 
-- **(14)** Subject to subsection (14.11), for the purposes of this Part and Schedule II, if a property is acquired by a taxpayer
+- **(14)** Subject to subsections (14.11) and (14.12), for the purposes of this Part and Schedule II, if a property is acquired by a taxpayer
 	- **(a)** in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or
 	- **(a.1) to (c)** [Repealed, SOR/90-22, s. 3]
 	- **(d)** from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired, and
@@ -4195,6 +4261,10 @@ the property, immediately before it was so acquired by the taxpayer, was propert
 - **(14.11)** If, after March 18, 2007, a taxpayer acquires an oil sands property in circumstances to which subsection (14) applies and the property was depreciable property that was included in Class 41, because of paragraph (a), (a.1) or (a.2) of that Class, by the person or partnership from whom the taxpayer acquired the property, the following rules apply:
 	- **(a)** there may be included in Class 41 of the taxpayer only that portion of the property the capital cost of which portion to the taxpayer is the lesser of the undepreciated capital cost of Class 41 of that person or partnership immediately before the disposition of the property by the person or partnership and the amount, if any, by which that undepreciated capital cost is reduced as a result of that disposition; and
 	- **(b)** there shall be included in Class 41.1 of the taxpayer that portion, if any, of the property that is not the portion included in Class 41 of the taxpayer under paragraph (a).
+
+- **(14.12)** If, after March 20, 2013, a taxpayer acquires a property (other than an oil sands property) in circumstances to which subsection (14) applies and the property was depreciable property that was included in Class 41, because of paragraph (a) or (a.1) of that Class, by the person or partnership from whom the taxpayer acquired the property, the following rules apply:
+	- **(a)** there may be included in Class 41 of the taxpayer only that portion of the property the capital cost of which portion to the taxpayer is the lesser of the undepreciated capital cost of Class 41 of that person or partnership immediately before the disposition of the property by the person or partnership and the amount, if any, by which that undepreciated capital cost is reduced as a result of that disposition; and
+	- **(b)** there shall be included in Class 41.2 of the taxpayer that portion, if any, of the property that is not the portion included in Class 41 of the taxpayer under paragraph (a).
 
 #### Townsite Costs
 
@@ -4291,7 +4361,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 
 - **(25)** For the purposes of this Part and Schedule II, if an eligible non-residential building of a taxpayer was under construction on March 19, 2007, the portion, if any, of the capital cost of the building that was incurred by the taxpayer before March 19, 2007 is deemed to have been incurred by the taxpayer on March 19, 2007 unless the taxpayer elects (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building was acquired) that this subsection not apply to that cost.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3; SOR/2011-195, s. 5(F); 2013, c. 33, s. 35.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3; SOR/2011-195, s. 5(F); 2013, c. 33, s. 35, c. 40, 102.
 
 
 
@@ -4497,6 +4567,15 @@ and, for the purposes of the application of this definition,
 
 ***development phase*** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (*phase de mise en valeur*)
 
+***eligible mine development property*** means a property acquired by a taxpayer after March 20, 2013 and before 2018 for the purpose of gaining or producing income
+- **(a)** from a new mine or an expansion of a mine, if the property was acquired under a written agreement entered into by the taxpayer before March 21, 2013,
+- **(b)** from a new mine, if
+	- **(i)** the construction of the new mine was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose construction does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
+	- **(ii)** the engineering and design work for the construction of the new mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
+- **(c)** from an expansion of a mine, if
+	- **(i)** the construction for the expansion of the mine was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose construction does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
+	- **(ii)** the engineering and design work for the construction of the expansion of the mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities); (*bien admissible à l’aménagement d’une mine*)
+
 ***eligible non-residential building*** means a taxpayer’s building (other than a building that was used, or acquired for use, by any person or partnership before March 19, 2007) that is located in Canada, that is included in Class 1 in Schedule II and that is acquired by the taxpayer on or after March 19, 2007 to be used by the taxpayer, or a lessee of the taxpayer, for a non-residential use; (*bâtiment non résidentiel admissible*)
 
 ***gas or oil well equipment*** includes
@@ -4582,7 +4661,7 @@ and includes a right or licence to use such a combination of computer programs a
 #### Mining
 
 
-- **(5)** For the purposes of paragraphs 1100(1)(w) to (ya.1), subsections 1101(4a) to (4f) and Classes 10, 28, 41 and 41.1 of Schedule II, a taxpayer’s ***income from a mine***, or any expression referring to a taxpayer’s income from a mine, includes income reasonably attributable to
+- **(5)** For the purposes of paragraphs 1100(1)(w) to (ya.2), subsections 1101(4a) to (4h) and Classes 10, 28 and 41 to 41.2 of Schedule II, a taxpayer’s ***income from a mine***, or any expression referring to a taxpayer’s income from a mine, includes income reasonably attributable to
 	- **(a)** the processing by the taxpayer of
 		- **(i)** ore (other than iron ore or tar sands ore) all or substantially all of which is from a mineral resource owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
 		- **(ii)** iron ore all or substantially all of which is from a mineral resource owned by the taxpayer to any stage that is not beyond the pellet stage or its equivalent,
@@ -4595,7 +4674,7 @@ and includes a right or licence to use such a combination of computer programs a
 		- **(iii)** tar sands ore from a mineral resource owned by the taxpayer that has been processed by him to any stage that is not beyond the crude oil stage or its equivalent,
 to the extent that such transportation is effected through the use of property of the taxpayer that is included in Class 10 in Schedule II because of paragraph (m) thereof or that would be so included if that paragraph were read without reference to subparagraph (v) thereof and if Class 41 in Schedule II were read without the reference therein to that paragraph.
 
-- **(5.1)** For the purposes of Classes 41 and 41.1 of Schedule II, a taxpayer’s ***gross revenue from a mine*** includes
+- **(5.1)** For the purposes of Classes 41 to 41.2 of Schedule II, a taxpayer’s ***gross revenue from a mine*** includes
 	- **(a)** revenue reasonably attributable to the processing by the taxpayer of
 		- **(i)** ore (other than iron ore or tar sands ore) from a mineral resource owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
 		- **(ii)** iron ore from a mineral resource owned by the taxpayer to any stage that is not beyond the pellet stage or its equivalent,
@@ -4621,7 +4700,7 @@ exceeds the cost to the taxpayer of the ore or material processed; and
 
 - **(6.1)** [Repealed, SOR/99-179, s. 3]
 
-- **(7)** For the purposes of paragraphs 1100(1)(w) to (ya.1), subsections 1101(4a) to (4f) and 1102(8) and (9), section 1107 and Classes 12, 28, 41 and 41.1 of Schedule II,
+- **(7)** For the purposes of paragraphs 1100(1)(w) to (ya.2), subsections 1101(4a) to (4h) and 1102(8) and (9), section 1107 and Classes 12, 28 and 41 to 41.2 of Schedule II,
 	- **(a)** ***mine*** includes
 		- **(i)** a well for the extraction of material from a deposit of bituminous sands or oil shales or from a deposit of calcium chloride, halite or sylvite, and
 		- **(ii)** a pit for the extraction of kaolin or tar sands ore,
@@ -4633,7 +4712,7 @@ but does not include
 
 - **(8)** For the purposes of subsection (7), ***stone quarry*** includes a mine producing dimension stone or crushed rock for use as aggregates or for other construction purposes.
 
-- **(8.1)** For greater certainty, for the purposes of paragraphs (c) and (e) of Class 28 and paragraph (a) of Class 41 and Class 41.1 in Schedule II, production means production in reasonable commercial quantities.
+- **(8.1)** For greater certainty, for the purposes of paragraphs (c) and (e) of Class 28 and paragraph (a) of Classes 41 to 41.2 in Schedule II, ***production*** means production in reasonable commercial quantities.
 
 #### Manufacturing or Processing
 
@@ -4710,7 +4789,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
 
-***biogas*** means the gas produced by the anaerobic digestion of organic waste that is sludge from an eligible sewage treatment facility, food and animal waste, manure, plant residue or wood waste. (*biogaz*)
+***biogas*** means the gas produced by the anaerobic digestion of organic waste that is food and animal waste, manure, plant residue, pulp and paper by-product, separated organics, wood waste or sludge from an eligible sewage treatment facility. (*biogaz*)
 
 ***bio-oil*** means liquid fuel that is created from wood waste or plant residues using a thermo-chemical conversion process that takes place in the absence of oxygen. (*bio-huile*)
 
@@ -4737,8 +4816,8 @@ and a certificate that has been so revoked shall be void from the time of its is
 ***enhanced combined cycle system*** means an electrical generating system in which thermal waste from one or more natural gas compressor systems is recovered and used to contribute at least 20 per cent of the energy input of a combined cycle process in order to enhance the generation of electricity, but does not include the natural gas compressor systems. (*système à cycles combinés amélioré*)
 
 ***food and animal waste*** means organic waste that is disposed of in accordance with the laws of Canada or a province and that is 
-- **(a)** generated during the preparation or processing of food for human or animal consumption;
-- **(b)** food that is no longer fit for human or animal consumption; or
+- **(a)** generated during the preparation or processing of food or beverage for human or animal consumption;
+- **(b)** food or beverage that is no longer fit for human or animal consumption; or
 - **(c)** animal remains. (*déchets alimentaires et animaux*)
 
 ***food waste***[Repealed, 2010, c. 25, s. 76]
@@ -4753,9 +4832,13 @@ and a certificate that has been so revoked shall be void from the time of its is
 - **(a)** in a system that converts biomass into bio-oil or biogas; or
 - **(b)** as an eligible waste fuel. (*résidus végétaux*)
 
+***pulp and paper by-product*** means tall oil soaps and crude tall oil that are produced as by-products of the processing of wood into pulp or paper and the by-product of a pulp or paper plant’s effluent treatment or its de-inking processes. (*sous-produit d’usine de pâtes ou papiers*)
+
 ***pulp and paper waste*** means 
 - **(a)** tall oil soaps, crude tall oil and turpentine that are produced as by-products of the processing of wood into pulp or paper; and
 - **(b)** the by-product of a pulp or paper plant’s effluent treatment, or its de-inking processes, if that by-product has a solid content of at least 40 per cent before combustion. (*déchets d’usines de pâtes ou papiers*)
+
+***separated organics*** means organic waste (other than waste that is considered to be toxic or hazardous waste under any law of Canada or a province) that could, but for its use in a system that converts biomass into biogas, be disposed of in an eligible waste management facility or eligible landfill site. (*matières organiques séparées*)
 
 ***solution gas*** means a fossil fuel that is gas that would otherwise be flared and has been extracted from a solution of gas and produced oil. (*gaz dissous*)
 
@@ -4785,7 +4868,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 		- **(i)** of Canada, a province or a municipality in Canada, or
 		- **(ii)** of a municipal or public body performing a function of government in Canada
 applicable in respect of the property.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103.
 
 
 
@@ -8480,13 +8563,7 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 
 **PART XXX** 
-## Communication of Information to Provinces
-
-
-
-### Communication of Information
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
-
+## [Repealed, 2013, c. 40, s. 105]
 
 
 **3000 to 3002** [Repealed, SOR/93-531, s. 1]
@@ -8495,21 +8572,14 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 
 
-
-### Prescribed Laws of the Province of Quebec
-
-
-**3003** For the purposes of paragraph 122.64(2)(a) of the Act, the following are prescribed laws of the Province of Quebec:
-- **(a)** An Act respecting Family Benefits, R.S.Q., c. P-19.1;
-- **(b)** An Act respecting the Québec Pension Plan, R.S.Q., c. R-9; and
-- **(c)** An Act respecting Income Support, Employment Assistance and Social Solidarity, R.S.Q., c. S-32.001, as it relates to the additional amounts for dependent children.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-1, s. 1; SOR/93-148, s. 1; SOR/94-302, s. 1; SOR/94-632, s. 1; SOR/97-517, s. 1; SOR/2003-5, s. 14.
+**3003** [Repealed, 2013, c. 40, s. 105]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-1, s. 1; SOR/93-148, s. 1; SOR/94-302, s. 1; SOR/94-632, s. 1; SOR/97-517, s. 1; SOR/2003-5, s. 14; 2013, c. 40, ss. 104, 105.
 
 
 
 
-**3004** For the purposes of subparagraph 241(4)(j.1)(ii) of the Act, An Act Respecting Family Benefits, S.Q. 1997, c. 57, is, in respect of the Province of Quebec, a prescribed law of a province.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/98-347, s. 1.
+**3004** [Repealed, 2013, c. 40, s. 105]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/98-347, s. 1; 2013, c. 40, s. 105.
 
 
 
@@ -9101,7 +9171,7 @@ where
 
 - **(1)** Property is a prescribed building for the purposes of the definitions ***qualified property*** and ***qualified resource property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer that is a building or grain elevator and it is erected on land owned or leased by the taxpayer,
 	- **(a)** that is included in Class 1, 3, 6, 20, 24 or 27 or paragraph (c), (d) or (e) of Class 8 in Schedule II; or
-	- **(b)** that is included or would, but for Classes 28, 41 or 41.1 in Schedule II, be included in paragraph (g) of Class 10 in Schedule II.
+	- **(b)** that is included or would, but for Class 28, 41, 41.1 or 41.2 in Schedule II, be included in paragraph (g) of Class 10 in Schedule II.
 
 - **(2)** Property is prescribed machinery and equipment for the purposes of the definitions ***qualified property*** and ***qualified resource property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
 	- **(a)** a property included in paragraph (k) of Class 1 or paragraph (a) of Class 2 in Schedule II;
@@ -9113,14 +9183,14 @@ where
 	- **(g)** a property included in any of paragraphs (b) to (f), (h), (j), (k), (o), (r), (t) or (u) of Class 10 in Schedule II, or property included in paragraph (b) of Class 41 in Schedule II and that would otherwise be included in paragraph (j), (k), (r), (t) or (u) of Class 10 in Schedule II;
 	- **(h)** a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway);
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
-	- **(j)** a property included in Class 28, in paragraph (a), (a.1), (a.2) or (a.3) of Class 41 or in Class 41.1 in Schedule II that would, but for Class 28, 41 or 41.1, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
+	- **(j)** a property included in Class 28, in paragraph (a), (a.1), (a.2) or (a.3) of Class 41 or in Class 41.1 or 41.2 in Schedule II that would, but for Class 28, 41, 41.1 or 41.2, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
 	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50 or 52 in Schedule II;
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
 	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
 
 - **(3)** Property is prescribed energy generation and conservation property for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1) or (2)) that is a property included in any of subparagraph (a.1)(i) of Class 17 and Classes 43.1, 43.2 and 48 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66; 2013, c. 34, s. 395.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66; 2013, c. 34, s. 395, c. 40, s. 106.
 
 
 
@@ -9598,11 +9668,9 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 
 
 **PART XLIX** 
-## Deferred Income Plans
+## Registered Plans  —  Investments
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
 
-
-
-### Qualified Investments
 
 
 **4900** 
@@ -9783,7 +9851,9 @@ the share shall, immediately before the amount is received, cease to be and shal
 		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
 		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the RRIF, RRSP or TFSA; and
 	- **(b)** was not a prohibited investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20; SOR/2012-270, s. 1.
+
+- **(15)** For the purposes of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RRIF, RRSP or TFSA solely because of subsection (14) is prescribed property for the trust at any time if, at that time, the property is not described in any of subparagraphs (14)(a)(i) to (iii).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20; SOR/2012-270, s. 1; 2013, c. 40, s. 108.
 
 
 
@@ -9860,29 +9930,17 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 
 **PART L** 
-## Tax-free Savings Accounts — Prohibited Investments
-> 
+## [Repealed, 2013, c. 40, s. 109]
+
+
+**5000** [Repealed, 2013, c. 40, s. 109]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85; 2013, c. 40, s. 109.
 
 
 
 
-**Non-prohibited investment**
-
-**5000** For the purpose of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, an investment is prescribed excluded property at any time if it is
-- **(a)** property described in paragraph 4900(1)(j.1); or
-- **(b)** a share of a mutual fund corporation or a unit of a mutual fund trust where
-	- **(i)** the corporation or trust is a mutual fund that is subject to, and substantially complies with, the requirements of National Instrument 81-102 Mutual Funds, as amended from time to time, of the Canadian Securities Administrators, and
-	- **(ii)** the time is before the end of the second taxation year of the corporation or trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85.
-
-
-
-
-
-**Prohibited investment**
-
-**5001** For the purpose of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RRIF, RRSP or TFSA solely because of subsection 4900(14) is prescribed property for the trust at any time if, at that time, it is not described in any of subparagraphs 4900(14)(a)(i) to (iii).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85.
+**5001** [Repealed, 2013, c. 40, s. 109]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85; 2013, c. 40, s. 109.
 
 
 
@@ -10370,7 +10428,7 @@ where
 
 **5204** Where a corporation is a member of a partnership at any time in a taxation year of the corporation, the following rules apply:
 
-***cost of capital*** of the corporation for the year means an amount equal to the aggregate of
+***cost of capital*** of the corporation for the year means an amount equal to the aggregate of
 - **(a)** 10 per cent of the aggregate of all amounts each of which is the gross cost to the corporation of a property referred to in paragraph 1100(1)(e), (f), (g) or (h), paragraph 1102(1)(d) or (g) or Schedule II that
 	- **(i)** was owned by the corporation at the end of the year, and
 	- **(ii)** was used by the corporation at any time during the year,
@@ -10384,9 +10442,9 @@ but for the purposes of this definition, the gross cost of a property or rental 
 - **(d)** in an active business carried on outside Canada,
 - **(e)** to earn Canadian investment income or foreign investment income as defined in subsection 129(4) of the Act on the assumption that subsection 129(4) of the Act applied to a partnership as well as to a corporation,
 - **(f)** in activities engaged in for the purpose of earning Canadian resource profits of the corporation or the partnership, as the case may be, or
-- **(g)** in activities referred to in subparagraph 66(15)(b)(i), (ii) or (v), subparagraph 66(15)(e)(i) or (ii), subparagraph 66.1(6)(a)(i), (ii), (iii) or (v) or subparagraph 66.2(5)(a)(i), (ii) or (v) of the Act; (*coût en capital*)
+- **(g)** in activities referred to in subparagraph 66(15)(b)(i), (ii) or (v), subparagraph 66(15)(e)(i) or (ii), subparagraph 66.1(6)(a)(i), (ii), (iii) or (v) or subparagraph 66.2(5)(a)(i), (ii) or (v) of the Act; (*coût en capital*)
 
-***cost of labour*** of the corporation for the year means an amount equal to the aggregate of
+***cost of labour*** of the corporation for the year means an amount equal to the aggregate of
 - **(a)** the salaries and wages paid or payable during the year to all employees of the corporation for services performed during the year,
 - **(b)** all other amounts each of which is an amount paid or payable during the year for the performance during the year, by any person other than an employee of the corporation, of functions relating to
 	- **(i)** the management or administration of the corporation,
@@ -10401,15 +10459,15 @@ but for the purposes of this definition, the salaries and wages referred to in p
 - **(d)** was included in the gross cost to the corporation or partnership of a property (other than a property that was manufactured by the corporation or partnership and leased during the year by the corporation or the partnership to another person) that was included in computing the cost of capital of the corporation for the year,
 - **(e)** was related to an active business carried on outside Canada by the corporation or the partnership,
 - **(f)** was related to the activities engaged in for the purpose of earning Canadian resource profits of the corporation or the partnership, as the case may be, or
-- **(g)** was included in the Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expense or Canadian development expense, within the meanings assigned by paragraphs 66(15)(b) and (e), 66.1(6)(a) and 66.2(5)(a) of the Act respectively, of the corporation; (*coût en main-d’oeuvre*)
+- **(g)** was included in the Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expense or Canadian development expense, within the meanings assigned by paragraphs 66(15)(b) and (e), 66.1(6)(a) and 66.2(5)(a) of the Act respectively, of the corporation; (*coût en main-d’oeuvre*)
 
-***cost of manufacturing and processing capital*** of the corporation for the year means 100/85 of that portion of the cost of capital of the corporation for that year that reflects the extent to which each property included in the calculation thereof was used directly in qualified activities
+***cost of manufacturing and processing capital*** of the corporation for the year means 100/85 of that portion of the cost of capital of the corporation for that year that reflects the extent to which each property included in the calculation thereof was used directly in qualified activities
 - **(a)** of the corporation during the year, or
 - **(b)** of the partnership during its fiscal period coinciding with or ending in the year, as the case may be,
 
 but the amount so calculated shall not exceed the cost of capital of the corporation for the year; (*coût en capital de fabrication et de transformation*)
 
-***cost of manufacturing and processing labour*** of the corporation for the year means 100/75 of that portion of the cost of labour of the corporation for that year that reflects the extent to which
+***cost of manufacturing and processing labour*** of the corporation for the year means 100/75 of that portion of the cost of labour of the corporation for that year that reflects the extent to which
 - **(a)** the salaries and wages included in the calculation thereof were paid or payable to persons for the portion of their time that they were directly engaged in qualified activities
 	- **(i)** of the corporation during the year, or
 	- **(ii)** of the partnership during its fiscal period coinciding with or ending in the year, and
@@ -10420,12 +10478,12 @@ if those persons were employees of the corporation or the partnership, as the ca
 
 but the amount so calculated shall not exceed the cost of labour of the corporation for the year; (*coût en main-d’oeuvre de fabrication et de transformation*)
 
-***gross cost*** of a property at any time means
+***gross cost*** of a property at any time means
 - **(a)** in respect of a property that has become available for use by the partnership for the purposes of subsection 13(26) of the Act, the capital cost to the partnership of the property computed without reference to subsections 13(7.1), (7.4) and (10) and sections 21 and 80 of the Act, and
 - **(b)** in respect of any other property of the partnership, nil,
 
-and, for the purposes of paragraph (a), where the partnership acquired the property from a person who was a majority interest partner of the partnership (within the meaning assigned by subsection 97(3.1) of the Act) immediately after the property was acquired, the capital cost to the partnership of the property shall be computed as if the property had been acquired at a capital cost equal to the gross cost to the person of the property, except that where the property was partnership property on December 31, 1971, its gross cost shall be its capital cost to the partnership as determined under subsection 20(3) or (5) of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md). (*coût brut*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 14; SOR/94-140, s. 13; SOR/94-169, s. 8; SOR/94-686, ss. 48, 78(F) to 81(F).
+and, for the purposes of paragraph (a), if the partnership acquired the property from a person who was a majority-interest partner of the partnership immediately after the property was acquired, the capital cost to the partnership of the property is to be computed as if the property had been acquired at a capital cost equal to the gross cost to the person of the property, except that if the property was partnership property on December 31, 1971, its gross cost is its capital cost to the partnership as determined under subsection 20(3) or (5) of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md). (*coût brut*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 14; SOR/94-140, s. 13; SOR/94-169, s. 8; SOR/94-686, ss. 48, 78(F) to 81(F); 2013, c. 40, s. 110.
 
 
 
@@ -10593,9 +10651,12 @@ is of
 
 **5600** For the purpose of section 86.1 of the Act, the following distributions of shares are prescribed:
 - **(a)** the distribution by Active Biotech AB, on May 10, 1999, of shares of Wilhelm Sonesson AB;
-- **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd; and
-- **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22.
+- **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd;
+- **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB;
+- **(d)** the distribution by Fiat S.p.A., on January 1, 2011 to its common shareholders, of common shares of Fiat Industrial S.p.A;
+- **(e)** the distribution by Foster’s Group Limited, on May 9, 2011 to its common shareholders, of common shares of Treasury Wine Estates Limited; and
+- **(f)** the distribution by Telecom Corporation of New Zealand Limited, on November 30, 2011 to its common shareholders, of common shares of Chorus Limited.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22; 2013, c. 40, s. 111.
 
 
 
@@ -12845,8 +12906,10 @@ where all the consideration receivable upon a conversion or exchange of the obli
 
 
 
-**6500** [Repealed, SOR/2007-116, s. 9]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-245, s. 1; SOR/81-118, s. 1; SOR/82-214, s. 1; SOR/86-488, s. 8; SOR/2007-116, s. 9.
+**6500** For the purposes of paragraph 241(4)(j.2) of the Act, the following are prescribed laws of the Province of Quebec:
+- **(a)** An Act respecting the Québec Pension Plan, R.S.Q., c. R-9; and
+- **(b)** Individual and Family Assistance Act, R.S.Q., c. A-13.1.1, as it relates to the additional amounts for dependent children.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-245, s. 1; SOR/81-118, s. 1; SOR/82-214, s. 1; SOR/86-488, s. 8; SOR/2007-116, s. 9; 2013, c. 40, 112.
 
 
 
@@ -12970,6 +13033,12 @@ is prescribed as a class of persons described in the laws of a province.
 - **(h)** a corporation that is registered under Part II of the Equity Tax Credit Act, Statutes of Nova Scotia 1993, c. 3; or
 - **(i)** a corporation that is registered under Part II of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/86-1136, s. 10; SOR/89-551, s. 3; SOR/92-397, s. 3; SOR/92-398, s. 2; SOR/93-396, s. 3; SOR/94-686, ss. 38(F), 79(F); SOR/96-173, s. 2; SOR/97-504, s. 2; SOR/98-12, s. 2; SOR/98-281, s. 3; SOR/99-102, s. 5; SOR/2001-289, s. 4; SOR/2005-126, s. 4; 2013, c. 34, s. 403.
+
+
+
+
+**6701.1** Notwithstanding section 6701, a corporation that applies after March 20, 2013 for registration under a provincial act listed in that section is not a prescribed labour-sponsored venture capital corporation for the purposes of the definition ***approved share*** in subsection 127.4(1) of the Act and the definition ***eligible investment*** in subsection 204.8(1) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 40, s. 113.
 
 
 
@@ -14129,8 +14198,8 @@ the following rules apply:
 
 
 
-**8200.1** For the purposes of subsection 13(18.1) and subparagraph 241(4)(d)(vi.1) of the Act, ***prescribed energy conservation property*** means property described in Class 43.1 or 43.2 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-377, s. 5; SOR/2006-117, s. 7.
+**8200.1** For the purposes of subsection 13(18.1), the definition ***Canadian renewable and conservation expense*** in subsection 66.1(6) and subparagraph 241(4)(d)(vi.1) of the Act, ***prescribed energy conservation property*** means property described in Class 43.1 or 43.2 in Schedule II.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-377, s. 5; SOR/2006-117, s. 7; 2013, c. 40, s. 114.
 
 
 
@@ -18508,7 +18577,7 @@ exceeds
 
 **8900** 
 
-- **(1)** For the purpose of subparagraph 110(1)(f)(iii) of the Act, the following international organizations are prescribed:
+- **(1)** For the purposes of subparagraph 110(1)(f)(iii) and paragraph 126(3)(a) of the Act, the following international organizations are prescribed:
 	- **(a)** the United Nations; and
 	- **(b)** each international organization that is a specialized agency brought into relationship with the United Nations in accordance with Article 63 of the Charter of the United Nations.
 
@@ -18519,7 +18588,7 @@ exceeds
 	- **(a)** the International Air Transport Association;
 	- **(b)** the Société internationale de télécommunications aéronautiques; and
 	- **(c)** the World Anti-Doping Agency.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-202, s. 1; SOR/2003-83, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-202, s. 1; SOR/2003-83, s. 1; 2013, c. 40, s. 115.
 
 
 
@@ -20082,7 +20151,7 @@ Property not included in any other class that is
 
 
 
-and property (other than property included in Class 41 or 41.1 or property included in Class 43 that is described in paragraph (b) of that Class) that would otherwise be included in another Class in this Schedule, that is
+and property (other than property included in Class 41, 41.1 or 41.2 or property included in Class 43 that is described in paragraph (b) of that Class) that would otherwise be included in another Class in this Schedule, that is
 
 
 
@@ -20317,7 +20386,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F); SOR/2011-9, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F); SOR/2011-9, s. 6; 2013, c. 40, s. 116..
 
 
 
@@ -21894,7 +21963,7 @@ Property acquired after 1987 and before 1990 that is a powered industrial lift t
 
 **CLASS 41** 
 
-Property (other than property included in Class 41.1)
+Property (other than property included in Class 41.1 or 41.2)
 
 **(a)** not included in Class 28 that would otherwise be included in that Class if that Class were read without reference to paragraph (a) of that Class, and if subparagraphs (e)(i) to (iii) of that Class were read as follows:
 
@@ -22072,7 +22141,7 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F). .
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F); 2013, c. 40, s. 117..
 
 
 
@@ -22089,6 +22158,22 @@ Oil sands property (other than specified oil sands property) that
 
 
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2011-9, s. 8..
+
+
+
+
+**CLASS 41.2** 
+
+Property, other than an oil sands property or eligible mine development property,
+
+**(a)** that is acquired by a taxpayer after March 20, 2013 and before 2021 and that, if acquired on March 20, 2013, would be included in paragraph (a) or (a.1) of Class 41; or
+
+
+
+**(b)** that is acquired by a taxpayer after 2020 and that, if acquired on March 20, 2013, would be included in paragraph (a) or (a.1) of Class 41.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] 2013, c. 40, s. 118..
 
 
 
@@ -22363,7 +22448,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(viii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of collecting landfill gas or digester gas, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trenching, for the purpose of installing that piping), fans, compressors, storage tanks, heat exchang- ers and other ancillary equipment used to collect gas, to remove non-combustibles and contaminants from the gas or to store the gas, but not including property otherwise included in Class 10 or 17,
+**(viii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of collecting landfill gas or digester gas, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trenching, for the purpose of installing that piping), fans, compressors, storage tanks, heat exchangers and related equipment used to collect gas, to remove non-combustibles and contaminants from the gas or to store the gas, but not including property otherwise included in Class 10 or 17,
 
 
 
@@ -22399,7 +22484,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(xiii)** property that is part of a system that is used by the taxpayer, or by a lessee of the taxpayer, primarily to produce and store biogas, which property includes equipment that is an anaerobic digester reactor, a buffer tank, a pre-treatment tank, biogas piping, a biogas storage tank and a biogas scrubbing equipment, but not including
+**(xiii)** property that is part of a system that is used by the taxpayer, or by a lessee of the taxpayer, primarily to produce and store biogas, including equipment that is an anaerobic digester reactor, a buffer tank, a pre-treatment tank, biogas piping, a fan, a compressor, a heat exchanger, a biogas storage tank and equipment used to remove non-combustibles and contaminants from the gas, but not including
 
 **(A)** property (other than a buffer tank) that is used to collect, move or store organic waste,
 
@@ -22480,7 +22565,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119..
 
 
 
