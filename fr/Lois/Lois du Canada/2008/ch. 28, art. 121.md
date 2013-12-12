@@ -10,6 +10,9 @@ Sanctionnée sur le 18 juin 2008
 ----------
 
 
+[Abrogée, 2013, ch. 40, art. 137]
+
+
 
 [Édictée par l’article 121 du chapitre 28 des Lois du Canada (2008); loi, à l’exception de l’alinéa 4a), en vigueur le 20 juin 2008, *voir* TR/2008-76; alinéa 4a) en vigueur le 23 septembre 2010, *voir* TR/2010-74.]
 
@@ -19,785 +22,325 @@ Sanctionnée sur le 18 juin 2008
 
 
 ## Titre abrégé
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Titre abrégé**
-
-**1** Loi sur l’Office de financement de l’assurance-emploi du Canada.
+**1** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Définitions
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Définitions**
-
-**2** Les définitions qui suivent s’appliquent à la présente loi.
-
-***ministre*** Le ministre des Ressources humaines et du Développement des compétences.
-
-***Office*** L’Office de financement de l’assurance-emploi du Canada constitué par le paragraphe 3(1) dans sa version antérieure à son abrogation.
-
-***vérificateur général*** Le vérificateur général du Canada nommé en vertu du paragraphe 3(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md).
-> 2008, ch. 28, art. 121 « 2 »; 2012, ch. 31, art. 442.
-
+**2** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Constitution de l’office
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
-**3** 
 
-- **(1)** [Abrogé, 2012, ch. 31, art. 443]
-
-**Non-mandataire de Sa Majesté**
-
-- **(2)** L’Office n’est pas mandataire de Sa Majesté du chef du Canada.
-
-**Administration fédérale**
-
-- **(3)** Les administrateurs, dirigeants, employés et mandataires de l’Office ne font pas partie de l’administration publique fédérale.
-
-**Siège social**
-
-- **(4)** Le siège social et la principale place d’affaires de l’Office sont situés dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-**Lois non applicables**
-
-- **(5)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Office.
-
-**Incompatibilité avec la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
-
-- **(6)** Les dispositions de la présente loi l’emportent sur les dispositions incompatibles de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-
-**Non-application**
-
-- **(7)** Les articles 105, 121, 128 à 132, 138 à 142, 148 et 150 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office.
-> 2008, ch. 28, art. 121 « 3 »; 2009, ch. 23, art. 314; 2012, ch. 31, art. 443.
-
+**3** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Mission et attributions
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Mission**
-
-**4** L’Office a pour mission :
-- **a)** de fixer le taux de cotisation en vertu de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-- **b)** [Abrogé, 2012, ch. 19, art. 617]
-- **c)** de gérer les sommes qui lui sont versées en application de l’article 77.1 de cette loi;
-- **d)** de placer son actif financier en vue de s’acquitter de ses obligations financières.
-> 2008, ch. 28, art. 121 « 4 »; 2012, ch. 19, art. 617.
+**4** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-
-**Capacité d’une personne physique**
-
-**5** 
-
-- **(1)** L’Office a la capacité et, sous réserve des autres dispositions de la présente loi, les droits, pouvoirs et privilèges d’une personne physique.
-
-**Activités incompatibles**
-
-- **(2)** Il ne peut exercer, directement ou indirectement, ni pouvoirs ni activités incompatibles avec sa mission, notamment ceux se rapportant aux prestations ou aux sommes payées au titre du paragraphe 77(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou à la conception ou à la mise en oeuvre des programmes d’assurance-emploi, ou avec les restrictions imposées par la présente loi; il lui est aussi interdit d’exercer, directement ou indirectement, ses attributions en violation de celle-ci.
-
-**Emprunts**
-
-- **(3)** Il ne peut contracter d’emprunts qu’auprès de Sa Majesté du chef du Canada.
-
-**Filiales**
-
-- **(4)** Il ne peut constituer ou acquérir de filiales.
-
-**Validité des actes**
-
-- **(5)** Les actes de l’Office, notamment en matière de transfert de biens, ne sont pas nuls au seul motif qu’ils ont été accomplis sans pouvoir habilitant.
+**5** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Gestion
+> [Abrogée, 2013, ch. 40, art. 137]
+
 
 
 
 ### Conseil d’administration
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Conseil d’administration**
-
-**6** Le conseil d’administration de l’Office se compose de sept administrateurs, dont le président.
+**6** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Obligations précises**
-
-**7** Le conseil d’administration doit, notamment :
-- **a)** établir, sur une base annuelle et conformément à l’article 23, des principes, normes et méthodes en matière de placement;
-- **b)** surveiller le personnel et faire en sorte qu’il se conforme à ces principes, normes et méthodes;
-- **c)** instituer des mécanismes de détection et de résolution des conflits d’intérêts réels ou potentiels;
-- **d)** élaborer un code de déontologie pour le personnel;
-- **e)** désigner l’un de ses comités pour surveiller l’application de ce code et des mécanismes prévus à l’alinéa c).
+**7** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Délégation**
-
-**8** 
-
-- **(1)** Le conseil d’administration peut, sous réserve des règlements administratifs, déléguer certaines de ses attributions à un de ses comités, à son président ou à un dirigeant de l’Office.
-
-**Restrictions**
-
-- **(2)** Il ne peut toutefois déléguer les attributions suivantes :
-	- **a)** fixer le taux de cotisation en vertu de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-	- **b)** prendre, modifier ou abroger des règlements administratifs;
-	- **c)** établir des principes, normes et méthodes en matière de placement;
-	- **d)** pourvoir les vacances survenues au sein d’un comité d’administrateurs ou au poste de vérificateur de l’Office;
-	- **e)** nommer des dirigeants et fixer leur rémunération;
-	- **f)** approuver les états financiers annuels et les autres états financiers de l’Office.
+**8** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Administrateurs
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Nomination**
-
-**9** 
-
-- **(1)** Les administrateurs sont, sur recommandation du ministre, nommés à titre inamovible par le gouverneur en conseil pour des mandats respectifs de quatre ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié d’entre eux.
-
-**Nouveau mandat**
-
-- **(2)** Les mandats des administrateurs sont renouvelables plus d’une fois.
-
-**Révocation**
-
-- **(3)** Tout administrateur peut faire l’objet d’une révocation motivée de la part du gouverneur en conseil.
-
-**Vacance en cours de mandat**
-
-- **(4)** En cas de vacance en cours de mandat, le ministre nomme, pour la durée du mandat qui reste à courir, toute personne dont le nom figure sur la liste établie au titre de l’article 10.
-
-**Aucun candidat disponible**
-
-- **(5)** Si aucun candidat dont le nom figure sur la liste n’est disponible, il nomme, pour la durée du mandat qui reste à courir, toute personne compétente compte tenu des facteurs prévus au paragraphe 10(6).
-
-**Inadmissibilité**
-
-- **(6)** Ne peut être administrateur la personne :
-	- **a)** qui est âgée de moins de dix-huit ans;
-	- **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
-	- **c)** qui a le statut de failli;
-	- **d)** qui n’est pas une personne physique;
-	- **e)** qui est membre du comité constitué au titre du paragraphe 10(1);
-	- **e.1)** qui est un employé de l’Office;
-	- **f)** qui est mandataire ou employé de Sa Majesté du chef du Canada ou d’une province;
-	- **g)** qui est membre du Sénat ou de la Chambre des communes, ou d’une législature provinciale;
-	- **h)** qui travaille pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire;
-	- **i)** qui n’est pas résidente du Canada.
-> 2008, ch. 28, art. 121 « 9 »; 2009, ch. 2, art. 377.
+**9** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-
-**Comité de sélection**
-
-**10** 
-
-- **(1)** Le ministre constitue un comité chargé d’établir une liste de candidats aux postes d’administrateur; le comité est composé d’un président nommé par le ministre et des deux commissaires qui ont été nommés, après consultation des organisations ouvrières et des organisations patronales respectivement, au titre du paragraphe 20(2) de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
-
-**Nomination du président**
-
-- **(2)** La nomination du président est fondée sur le mérite, compte tenu de toute expérience pertinente du fonctionnement des conseils d’administration et du secteur de la finance ou de l’assurance à titre de cadre supérieur.
-
-**Durée du mandat**
-
-- **(3)** Le mandat du président est d’une durée maximale de cinq ans et est renouvelable plus d’une fois.
-
-**Révocation**
-
-- **(4)** Le ministre peut mettre fin au mandat du président à tout moment.
-
-**Rémunération et indemnités**
-
-- **(5)** Le président a droit à la rémunération et aux indemnités fixées et payées par le ministre.
-
-**Compétence**
-
-- **(6)** Dans le cadre de l’établissement de la liste, le comité consulte le conseil d’administration et tente d’assurer, autant que faire se peut, la présence au conseil d’un nombre suffisant de personnes ayant une compétence financière reconnue ou une expérience de travail propre à aider l’Office à accomplir sa mission avec efficacité.
-
-**Maintien de la liste**
-
-- **(7)** Le comité veille à ce qu’un nombre suffisant de candidats figure sur la liste afin que soit comblée toute vacance éventuelle au sein du conseil d’administration.
-
-**Recommandation du ministre**
-
-- **(8)** Le ministre ne peut, en application du paragraphe 9(1), recommander que des candidats dont le nom figure sur la liste établie par le comité.
-> 2008, ch. 28, art. 121 « 10 »; 2012, ch. 31, art. 444.
-
+**10** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Président du conseil d’administration
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Désignation**
-
-**11** 
-
-- **(1)** Sur recommandation faite par le ministre après consultation du conseil d’administration, le gouverneur en conseil désigne un des administrateurs à titre de président du conseil d’administration.
-
-**Durée du mandat**
-
-- **(2)** Le président est désigné à titre inamovible pour le mandat que le gouverneur en conseil juge indiqué; son mandat est renouvelable plus d’une fois.
-
-**Révocation**
-
-- **(3)** Il peut faire l’objet d’une révocation motivée de la part du gouverneur en conseil.
-
-**Présidence des réunions**
-
-- **(4)** Il préside les réunions du conseil d’administration et exerce les attributions que celui-ci lui délègue.
-
-**Absence du président**
-
-- **(5)** En cas d’absence du président à une réunion du conseil d’administration, les administrateurs présents choisissent l’un d’entre eux pour présider celle-ci et exercer les attributions du président.
-
-**Empêchement du président**
-
-- **(6)** En cas d’empêchement du président ou de vacance de son poste, le ministre peut désigner, après consultation du conseil d’administration, l’un des administrateurs pour exercer les attributions du président.
+**11** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Dirigeants
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Incompatibilité**
-
-**12** 
-
-- **(1)** Les administrateurs ne peuvent être nommés à des postes de direction.
-
-**Cumul de postes**
-
-- **(2)** La même personne peut occuper plusieurs postes de direction.
+**12** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Président de l’Office
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Nomination**
-
-**13** 
-
-- **(1)** Après consultation du ministre, le conseil d’administration nomme le président de l’Office en se fondant sur le mérite, compte tenu de toute expérience pertinente du secteur de la finance ou de l’assurance à titre de cadre supérieur.
-
-**Durée du mandat**
-
-- **(2)** Le président de l’Office est nommé pour le mandat que le conseil d’administration juge indiqué.
-
-**Révocation**
-
-- **(3)** Il peut faire l’objet d’une révocation motivée de la part du conseil d’administration.
-
-**Fonctions**
-
-- **(4)** Il assure la direction et la gestion des activités et des affaires courantes de l’Office.
-
-**Restriction**
-
-- **(5)** Il ne fait pas partie du conseil d’administration.
-
-**Absence ou empêchement**
-
-- **(6)** En cas d’absence ou d’empêchement du président de l’Office ou de vacance de son poste, le président du conseil d’administration désigne toute personne compétente pour assurer l’intérim, qui ne peut dépasser quatre-vingt-dix jours sans l’agrément du conseil d’administration.
+**13** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Actuaire en chef
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Nomination**
-
-**14** 
-
-- **(1)** Le conseil d’administration nomme un *Fellow* de l’Institut canadien des actuaires à titre d’actuaire en chef de l’Office.
-
-**Dirigeant**
-
-- **(2)** L’actuaire en chef est un dirigeant de l’Office et est placé sous l’autorité du président de celui-ci.
-
-**Attributions**
-
-- **(3)** Il établit des prévisions et des estimations actuarielles pour l’application de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et communique au conseil d’administration les renseignements ci-après, au plus tard le 31 août de chaque année :
-	- **a)** le taux de cotisation estimatif pour l’année suivante, assorti d’une analyse détaillée à cet égard;
-	- **b)** la juste valeur marchande estimative de la l’actif financier de l’Office moins son passif financier à la fin de l’année suivante;
-	- **c)** la détermination, assortie d’une analyse, de toute différence entre le taux fixé par l’Office pour la deuxième année précédant l’année en cours et celui qui aurait dû l’être pour cette année afin d’atteindre l’objectif visé au paragraphe 66(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-	- **d)** la source des données, les hypothèses économiques et actuarielles et les méthodes actuarielles utilisées.
-> 2008, ch. 28, art. 121 « 14 »; 2010, ch. 12, art. 2207; 2012, ch. 19, art. 618.
-
+**14** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Diligence
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Obligation**
-
-**15** 
-
-- **(1)** Les administrateurs et les dirigeants agissent, dans l’exercice de leurs attributions :
-	- **a)** avec intégrité et de bonne foi pour servir au mieux les intérêts de l’Office;
-	- **b)** avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente.
-
-**Compétences**
-
-- **(2)** L’administrateur ou le dirigeant qui a ou devrait avoir, compte tenu de sa profession ou de son entreprise, des connaissances ou aptitudes utiles dans l’exercice de ses attributions est tenu de les mettre en oeuvre.
-
-**Précision**
-
-- **(3)** Est réputé avoir agi en conformité avec les paragraphes (1) et (2) l’administrateur ou le dirigeant qui s’appuie de bonne foi sur :
-	- **a)** des états financiers de l’Office correspondant fidèlement à la situation financière de celui-ci, d’après l’un des dirigeants ou le rapport écrit du vérificateur;
-	- **b)** les rapports présentés par des personnes dont la profession donne une certaine crédibilité aux déclarations qu’elles font, notamment les avocats, notaires, comptables ou actuaires.
+**15** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Règlements administratifs
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
-
-**16** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux règlements administratifs pris par le conseil d’administration.
+**16** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Comités
+> [Abrogée, 2013, ch. 40, art. 137]
+
 
 
 
 ### Constitution
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Comités**
-
-**17** 
-
-- **(1)** Le conseil d’administration constitue trois comités chargés respectivement de la vérification, des placements et des ressources humaines.
-
-**Autres comités**
-
-- **(2)** Il peut, au besoin, constituer d’autres comités et leur attribuer les fonctions qu’il estime indiquées.
+**17** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Comité de vérification
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Fonctions**
-
-**18** Le comité de vérification :
-- **a)** veille à ce que les mécanismes appropriés de contrôle interne soient mis en place par la direction de l’Office;
-- **b)** revoit, évalue et approuve ces mécanismes;
-- **c)** examine les états financiers annuels de l’Office, les approuve et en fait rapport au conseil d’administration avant leur approbation par celui-ci;
-- **d)** rencontre le vérificateur pour discuter de son rapport et des états financiers annuels;
-- **e)** examine tous les placements et opérations susceptibles de nuire au rendement sur le capital investi que le vérificateur ou tout dirigeant porte à son attention;
-- **f)** rencontre le vérificateur interne, ou toute personne exerçant des fonctions semblables, ainsi que la direction de l’Office, pour discuter de l’efficacité des mécanismes de contrôle interne.
+**18** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Réunion du comité**
-
-**19** 
-
-- **(1)** Le vérificateur ou tout membre du comité de vérification peut convoquer une réunion du comité.
-
-**Réunion des administrateurs**
-
-- **(2)** Le comité de vérification peut convoquer une réunion du conseil d’administration pour l’étude des questions qui l’intéressent.
+**19** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Droit du vérificateur d’assister aux réunions**
-
-**20** 
-
-- **(1)** Le vérificateur reçoit avis de chacune des réunions du conseil d’administration et du comité de vérification; il a le droit d’y assister, aux frais de l’Office, et d’y être entendu sur les questions qui relèvent de son mandat.
-
-**Absence de réunion**
-
-- **(2)** Si le conseil d’administration ou le comité de vérification se propose de prendre une décision relativement à toute question visée au paragraphe (1) sans tenir de réunion, le vérificateur a le droit de recevoir copie de la décision projetée. Celle-ci ne peut être prise avant qu’il ait eu la possibilité de présenter ses observations par écrit, conformément aux règlements administratifs.
-
-**Présence obligatoire**
-
-- **(3)** Le vérificateur est en outre tenu, sur demande, selon le cas, de tout membre du comité de vérification ou administrateur, d’assister, aux frais de l’Office, aux réunions du comité ou du conseil d’administration.
+**20** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Comité de placement
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Fonctions**
-
-**21** Le comité de placement :
-- **a)** exerce les fonctions qui lui sont attribuées par le conseil d’administration;
-- **b)** approuve les contrats des gestionnaires de placements engagés par l’Office avec tous pouvoirs en matière de placement;
-- **c)** rencontre les membres du personnel de l’Office afin de discuter avec eux de l’efficacité des politiques de placement de l’Office et de la réalisation de sa mission;
-- **d)** veille à ce que la direction de l’Office mette en place des mécanismes appropriés pour :
-	- **(i)** surveiller la mise en oeuvre des principes, normes et méthodes de l’Office en matière de placement,
-	- **(ii)** faire en sorte que les mandataires de l’Office s’y conforment de même qu’à la présente loi;
-- **e)** revoit, évalue et approuve les mécanismes visés à l’alinéa d).
+**21** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Comité des ressources humaines
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Fonctions**
-
-**22** Le comité des ressources humaines :
-- **a)** établit des règles et pratiques en matière de ressources humaines, notamment en ce qui touche l’examen et l’évaluation du rendement des employés et le règlement des griefs;
-- **b)** fixe la rémunération des employés;
-- **c)** approuve les candidatures aux postes de cadres relevant directement du président de l’Office;
-- **d)** élabore, et recommande au conseil d’administration pour approbation, des critères de sélection pour le poste d’actuaire en chef.
+**22** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Placements
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Principes, normes et méthodes**
-
-**23** Sous réserve des règlements, l’Office est tenu de se conformer aux principes, normes et méthodes en matière de placement que le conseil d’administration établit sur le modèle de ceux qu’une personne prudente mettrait en oeuvre lorsqu’elle se charge du bien d’autrui.
+**23** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Gestionnaires de placements**
-
-**24** Les gestionnaires de placements effectuent leurs placements pour l’Office en conformité avec la présente loi ainsi qu’avec les principes, normes et méthodes visés à l’article 23.
+**24** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Gestion financière
+> [Abrogée, 2013, ch. 40, art. 137]
+
 
 
 
 ### Dispositions générales
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Exercice**
-
-**25** L’exercice de l’Office correspond à la période commençant le 1<sup>er</sup> avril et se terminant le 31 mars de l’année suivante.
+**25** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Comptes bancaires**
-
-**26** 
-
-- **(1)** L’Office ne peut avoir de comptes bancaires qu’auprès de banques figurant à l’annexe I de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
-
-**Règlements**
-
-- **(2)** Toutefois, le gouverneur en conseil peut, par règlement pris sur recommandation du ministre des Finances, préciser les types de comptes bancaires que l’Office peut avoir et les institutions financières auprès desquelles il peut avoir des comptes bancaires.
+**26** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### États financiers
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Documents comptables**
-
-**27** 
-
-- **(1)** L’Office veille :
-	- **a)** à faire tenir des documents comptables;
-	- **b)** à mettre en oeuvre, en matière de finances et de gestion, des moyens de contrôle et d’information et à faire appliquer des méthodes de gestion;
-	- **c)** à faire tenir pour chaque exercice un registre des placements présentant :
-		- **(i)** la valeur comptable de chacun d’eux,
-		- **(ii)** leur valeur marchande et les renseignements permettant de la vérifier,
-		- **(iii)** les renseignements permettant de vérifier si les exigences de la présente loi et les principes, normes et méthodes en matière de placement ont été respectés.
-
-**Tenue des documents**
-
-- **(2)** Pour l’application du paragraphe (1), il s’efforce d’assurer, dans la mesure du possible :
-	- **a)** la protection et le contrôle de son actif;
-	- **b)** la conformité de ses opérations avec la présente loi ainsi qu’avec ses règlements administratifs;
-	- **c)** une gestion économique et efficiente de ses ressources financières, humaines et matérielles et l’efficacité de ses opérations.
-
-**Vérification interne**
-
-- **(3)** Afin de surveiller l’observation des paragraphes (1) et (2), il fait procéder à des vérifications internes.
-
-**États financiers annuels**
-
-- **(4)** Il fait établir des états financiers annuels qui présentent notamment :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état des revenus pour l’exercice;
-	- **c)** un état des modifications de l’actif net;
-	- **d)** un état des placements de portefeuille.
-
-**Contenu des états financiers**
-
-- **(5)** Les états financiers annuels contiennent également l’information générale et particulière que le conseil d’administration juge nécessaire pour présenter fidèlement, selon les principes comptables généralement reconnus, la situation financière de l’Office à la clôture de l’exercice.
-
-**États financiers trimestriels**
-
-- **(6)** Au cours de chaque exercice, l’Office fait établir, pour chacun des quatre trimestres, des états financiers présentant pour la période en cause les mêmes renseignements que dans les états financiers annuels, à l’exception du bilan de fin d’exercice, et comportant un état financier comparatif de la partie de l’exercice écoulée et de la période correspondante de l’exercice précédent.
-
-**Approbation par le conseil d’administration**
-
-- **(7)** Le conseil d’administration approuve les états financiers annuels, l’approbation étant attestée par la signature d’au moins un des administrateurs.
+**27** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Rapport du vérificateur
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Rapport annuel du vérificateur**
-
-**28** 
-
-- **(1)** L’Office fait établir chaque année un rapport de vérification portant sur :
-	- **a)** les états financiers annuels prévus au paragraphe 27(4);
-	- **b)** le registre des placements visé à l’alinéa 27(1)c);
-	- **c)** les états financiers révisés prévus au paragraphe 133(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-
-**Contenu**
-
-- **(2)** Le rapport, qui est transmis à l’Office, comporte notamment les éléments suivants :
-	- **a)** des énoncés distincts indiquant si, selon le vérificateur :
-		- **(i)** les états financiers sont présentés fidèlement en conformité avec les principes comptables généralement reconnus appliqués d’une façon compatible avec celle de l’année précédente,
-		- **(ii)** les opérations de l’Office qui ont été portées à sa connaissance au cours des travaux menant à l’établissement du rapport ont été effectuées en conformité avec la présente loi et ses règlements administratifs,
-		- **(iii)** le registre des placements visé à l’alinéa 27(1)c) présente fidèlement l’information exigée par cet alinéa;
-	- **b)** la mention des autres questions qui entrent dans le champ des travaux de vérification devant mener à l’établissement du rapport et qui, selon lui, devraient être portées à l’attention de l’Office.
-
-**Examens**
-
-- **(3)** Le vérificateur procède aux examens qu’il estime nécessaires pour lui permettre d’établir le rapport.
-
-**Normes applicables**
-
-- **(4)** Ce faisant, il applique les normes de vérification généralement reconnues.
-
-**Vérifications internes**
-
-- **(5)** Dans le cadre de la vérification effectuée au titre du présent article, le vérificateur, dans la mesure où il la juge utilisable, se fie à toute vérification interne faite en conformité avec le paragraphe 27(3).
+**28** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Immunité du vérificateur
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Immunité relative**
-
-**29** Le vérificateur et ses prédécesseurs jouissent d’une immunité relative en ce qui concerne les déclarations orales ou écrites et les rapports qu’ils font en vertu de la présente loi.
+**29** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Examens spéciaux
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Examens spéciaux**
-
-**30** 
-
-- **(1)** Le ministre fait procéder, au moins tous les cinq ans, à un examen spécial afin d’évaluer si, pendant la période considérée, la mise en oeuvre des moyens et des méthodes visés à l’alinéa 27(1)b) a été, dans la mesure du possible, conforme aux exigences des alinéas 27(2)a) et c).
-
-**Plan d’action**
-
-- **(2)** Avant de procéder à ses travaux, l’examinateur étudie les moyens et les méthodes en cause et établit un plan d’action, notamment quant aux critères qu’il entend appliquer, qu’il présente ensuite au comité de vérification.
-
-**Désaccords**
-
-- **(3)** Les désaccords entre l’examinateur et le comité de vérification sur ce plan d’action peuvent être tranchés par le ministre.
-
-**Vérifications internes**
-
-- **(4)** L’examinateur, dans la mesure où il la juge utilisable, se fie à toute vérification interne faite en conformité avec le paragraphe 27(3).
+**30** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Rapport**
-
-**31** 
-
-- **(1)** Ses travaux terminés, l’examinateur expose ses conclusions dans un rapport qu’il soumet au ministre.
-
-**Contenu**
-
-- **(2)** Le rapport comporte notamment les énoncés suivants :
-	- **a)** l’un précisant si, selon l’examinateur, compte tenu des critères établis en conformité avec le paragraphe 30(2), il peut être garanti que, dans la mesure du possible, les moyens et les méthodes étudiés ne présentent pas de défauts graves;
-	- **b)** l’autre précisant dans quelle mesure l’examinateur s’est fié à une vérification interne.
-
-**Dépôt devant les chambres du Parlement**
-
-- **(3)** Le ministre fait déposer un exemplaire du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci qui suivent la réception du rapport.
-
-**Remise au conseil et au vérificateur général**
-
-- **(4)** Dans les dix jours suivant la réception du rapport, il en remet un exemplaire au conseil d’administration et au vérificateur général.
+**31** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
-
-**Examinateur**
-
-**32** 
-
-- **(1)** L’examen spécial prévu à l’article 30 est confié au vérificateur.
-
-**Examinateur**
-
-- **(2)** Toutefois, dans les cas où il estime contre-indiqué de voir confier l’examen spécial au vérificateur, le gouverneur en conseil peut, après consultation du conseil d’administration par le ministre, en charger un autre vérificateur remplissant les conditions requises; il peut également révoquer ce dernier en tout temps, après pareille consultation.
-
-**Application de dispositions**
-
-- **(3)** Sous réserve du paragraphe (4), les articles 135 et 137 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et l’article 29 s’appliquent à l’examinateur comme s’il s’agissait du vérificateur.
-
-**Nomination du vérificateur général**
-
-- **(4)** Le vérificateur général peut être nommé examinateur; le cas échéant, l’article 135 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas à lui.
+**32** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Rapports
+> [Abrogée, 2013, ch. 40, art. 137]
+
 
 
 
 ### États financiers trimestriels
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Envoi au ministre**
-
-**33** 
-
-- **(1)** Dans les quarante-cinq jours suivant la fin des premier, deuxième et troisième trimestres de l’exercice, l’Office envoie au ministre copie des états financiers du trimestre en cause établis en conformité avec le paragraphe 27(6).
-
-**Mise à la disposition du public**
-
-- **(2)** Dans les sept jours suivant l’envoi des états financiers au ministre, l’Office met ceux-ci à la disposition du public.
+**33** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Rapport annuel
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Rapport annuel**
-
-**34** 
-
-- **(1)** Le plus tôt possible, dans les quatre-vingt-dix jours suivant la fin de chaque exercice, l’Office fait parvenir un rapport annuel de ses activités pendant l’exercice au ministre et au président du Conseil du Trésor. Il met aussi le rapport à la disposition du public.
-
-**Dépôt devant les chambres du Parlement**
-
-- **(2)** Le ministre fait déposer un exemplaire du rapport annuel devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci qui suivent la réception du rapport.
-
-**Renvoi en comité**
-
-- **(3)** Le rapport annuel est renvoyé automatiquement devant tout comité parlementaire désigné ou constitué pour étudier les questions touchant aux activités de l’Office.
-
-**Contenu**
-
-- **(4)** Le rapport annuel contient les éléments suivants :
-	- **a)** les états financiers de l’Office prévus à l’article 27;
-	- **b)** le rapport annuel du vérificateur visé à l’article 28;
-	- **c)** un certificat signé, au nom du conseil d’administration, par un des administrateurs indiquant que les placements ont été effectués conformément à la présente loi ainsi qu’aux principes, normes et méthodes de l’Office en matière de placement;
-	- **d)** un énoncé des objectifs de l’Office et de la mesure dans laquelle celui-ci les a réalisés pour l’exercice en question;
-	- **e)** un énoncé des objectifs de l’Office pour l’exercice suivant et l’avenir prévisible;
-	- **f)** un énoncé des pratiques de régie interne de l’Office;
-	- **g)** un sommaire des principes, normes et méthodes en matière de placement établis en application de l’alinéa 7a) et une étude sur les placements détenus par l’Office au regard de ses principes en matière de placement;
-	- **h)** un sommaire du code de déontologie visé à l’alinéa 7d);
-	- **i)** le rapport de tout examen spécial établi au titre de l’article 31;
-	- **j)** les renseignements exigés par le ministre.
+**34** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ### Rapport sur la fixation du taux de cotisation
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Rapport**
-
-**35** Le jour où il fixe le taux de cotisation en vertu de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), l’Office rend public un rapport contenant les éléments suivants :
-- **a)** le taux de cotisation;
-- **b)** une analyse détaillée à l’appui du taux;
-- **c)** les renseignements communiqués par l’actuaire en chef au titre du paragraphe 14(3);
-- **d)** les renseignements communiqués par le ministre au titre du paragraphe 66.1(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-- **e)** les autres renseignements qu’il a pris en compte pour la fixation du taux.
+**35** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
 
 ## Règlements
+> [Abrogée, 2013, ch. 40, art. 137]
 
 
 
-**Règlements**
-
-**36** Sur recommandation conjointe du ministre et du ministre des Finances, le gouverneur en conseil peut prendre des règlements :
-- **a)** concernant les placements que l’Office peut faire;
-- **b)** concernant les restrictions s’appliquant à l’Office dans le cadre de ses placements;
-- **c)** en vue de toute autre mesure d’ordre réglementaire prévue par la présente loi.
+**36** [Abrogé, 2013, ch. 40, art. 137]
 
 
 
