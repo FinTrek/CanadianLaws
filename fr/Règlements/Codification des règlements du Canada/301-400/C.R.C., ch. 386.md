@@ -72,12 +72,12 @@ Autorités habilitantes :
 ## Endroits où l'on peut obtenir les formules de demande
 
 
-**4** Les formules de demande prescrites par le ministre pour les fins de l'article 3 peuvent être obtenues
+**4** Les formules de demande prescrites par le ministre pour les fins de l’article 3 peuvent être obtenues
 - **a)** de tout bureau de poste;
 - **b)** de tout bureau local de la Commission;
 - **c)** de tout bureau du ministère du Revenu national; et
-- **d)** de tout bureau du ministère des Ressources humaines et du Développement des compétences.
-> DORS/2000-133, art. 6; DORS/2013-84, art. 3.
+- **d)** de tout bureau du ministère de l’Emploi et du Développement social.
+> DORS/2000-133, art. 6; 2013, ch. 40, art. 237; DORS/2013-84, art. 3.
 
 
 
