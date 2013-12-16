@@ -72,41 +72,41 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***council***, in relation to a First Nation, has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council***, in relation to a First Nation, has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil*)
 
-***court***, unless otherwise indicated, means, in respect of a province, the court referred to in any of paragraphs (a) to (e) of the definition ***court*** in subsection 2(1) of the [Divorce Act](/en/Acts/Statutes%20of%20Canada/1985/c.%203%20(2nd%20Supp.).md).
+***court***, unless otherwise indicated, means, in respect of a province, the court referred to in any of paragraphs (a) to (e) of the definition ***court*** in subsection 2(1) of the [Divorce Act](/en/Acts/Statutes%20of%20Canada/1985/c.%203%20(2nd%20Supp.).md). (*tribunal*)
 
 ***designated judge***, in respect of a province, means any of the following persons who are authorized by the lieutenant governor in council of the province to act as a designated judge for the purposes of this Act:
 - **(a)** a justice of the peace appointed by the lieutenant governor in council of the province;
 - **(b)** a judge of the court in the province; or
-- **(c)** a judge of a court established under the laws of the province.
+- **(c)** a judge of a court established under the laws of the province. (*juge désigné*)
 
-***family home*** means a structure — that need not be affixed but that must be situated on reserve land — where the spouses or common-law partners habitually reside or, if they have ceased to cohabit or one of them has died, where they habitually resided on the day on which they ceased to cohabit or the death occurred. If the structure is normally used for a purpose in addition to a residential purpose, this definition includes only the portion of the structure that may reasonably be regarded as necessary for the residential purpose.
+***family home*** means a structure — that need not be affixed but that must be situated on reserve land — where the spouses or common-law partners habitually reside or, if they have ceased to cohabit or one of them has died, where they habitually resided on the day on which they ceased to cohabit or the death occurred. If the structure is normally used for a purpose in addition to a residential purpose, this definition includes only the portion of the structure that may reasonably be regarded as necessary for the residential purpose. (*foyer familial*)
 
-***First Nation*** means a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***First Nation*** means a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*première nation*)
 
-***First Nation member*** means a person whose name appears on the band list of a First Nation or who is entitled to have their name appear on that list.
+***First Nation member*** means a person whose name appears on the band list of a First Nation or who is entitled to have their name appear on that list. (*membre de la première nation*)
 
-***interest or right*** means
+***interest or right*** means
 - **(a)** the following interests or rights referred to in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md):
 	- **(i)** a right to possession, with or without a Certificate of Possession or a Certificate of Occupation, allotted in accordance with section 20 of that Act,
 	- **(ii)** a permit referred to in subsection 28(2) of that Act, and
 	- **(iii)** a lease under section 53 or 58 of that Act;
 - **(b)** an interest or right in or to reserve land that is subject to any land code or First Nation law as defined in subsection 2(1) of the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md), to any First Nation law enacted under a self-government agreement to which Her Majesty in right of Canada is a party, or to any land governance code adopted, or any Kanesatake Mohawk law enacted, under the [Kanesatake Interim Land Base Governance Act](/en/Acts/Statutes%20of%20Canada/2001/c.%208.md); and
-- **(c)** an interest or right in or to a structure — that need not be affixed but that must be situated on reserve land that is not the object of an interest or right referred to in paragraph (a) — which interest or right is recognized by the First Nation on whose reserve the structure is situated or by a court order made under section 48.
+- **(c)** an interest or right in or to a structure — that need not be affixed but that must be situated on reserve land that is not the object of an interest or right referred to in paragraph (a) — which interest or right is recognized by the First Nation on whose reserve the structure is situated or by a court order made under section 48. (*droit ou intérêt*)
 
-***matrimonial interests or rights*** means interests or rights, other than interests or rights in or to the family home, held by at least one of the spouses or common-law partners
+***matrimonial interests or rights*** means interests or rights, other than interests or rights in or to the family home, held by at least one of the spouses or common-law partners
 - **(a)** that were acquired during the conjugal relationship;
 - **(b)** that were acquired before the conjugal relationship but in specific contemplation of the relationship; or
 - **(c)** that were acquired before the conjugal relationship but not in specific contemplation of the relationship and that appreciated during the relationship.
 
-It excludes interests or rights that were received from a person as a gift or legacy or on devise or descent, and interests or rights that can be traced to those interests or rights.
+It excludes interests or rights that were received from a person as a gift or legacy or on devise or descent, and interests or rights that can be traced to those interests or rights. (*droits ou intérêts matrimoniaux*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***peace officer*** means a person referred to in paragraph (c) of the definition ***peace officer*** in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). 
+***peace officer*** means a person referred to in paragraph (c) of the definition ***peace officer*** in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).  (*agent de la paix*)
 
-***spouse*** includes either of two persons who have entered in good faith into a marriage that is voidable or void.
+***spouse*** includes either of two persons who have entered in good faith into a marriage that is voidable or void. (*époux*)
 
 **Words and expressions**
 
@@ -1200,6 +1200,6 @@ It excludes interests or rights that were received from a person as a gift or le
 
 - **(2)** Sections 12 to 52 come into force one year after the day on which section 7 comes into force.
 
-<a name='fn_Ind211C_hq_12397'><sup>*</sup></a>: [Note: Act, except sections 54 and 55, not in force.]<br />
+<a name='fn_Ind211C_hq_12397'><sup>*</sup></a>: [Note: Sections 1 to 11 and 53 in force December 16, 2013, sections 12 to 52 in force December 16, 2014, *see* SI/2013-128.]<br />
 
 
