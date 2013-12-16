@@ -74,9 +74,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de la paix*** Toute personne visée à l’alinéa c) de la définition de ***agent de la paix*** à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***agent de la paix*** Toute personne visée à l’alinéa c) de la définition de ***agent de la paix*** à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*peace officer*)
 
-***conseil*** En ce qui touche une première nation, le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***conseil*** En ce qui touche une première nation, le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council*)
 
 ***droit ou intérêt***
 - **a)** L’un ou l’autre des droits ou intérêts ci-après visés par la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) :
@@ -84,31 +84,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** le permis visé au paragraphe 28(2) de cette loi,
 	- **(iii)** le bail accordé en vertu des articles 53 ou 58 de cette loi;
 - **b)** le droit ou intérêt portant sur une terre de réserve assujettie à tout code foncier ou texte législatif au sens du paragraphe 2(1) de la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md), à tout texte législatif adopté en vertu d’un accord d’autonomie gouvernementale auquel Sa Majesté du chef du Canada est partie ou à tout code foncier ou toute loi des Mohawks de Kanesatake adoptés en vertu de la [Loi sur le gouvernement du territoire provisoire de Kanesatake](/fr/Lois/Lois%20du%20Canada/2001/ch.%208.md);
-- **c)** le droit ou intérêt portant sur une construction à caractère permanent ou non, située sur une terre de réserve — autre que la terre sur laquelle est détenu un droit ou intérêt visé à l’alinéa a) —, qui est reconnu soit par la première nation dans la réserve de laquelle est située la construction, soit par l’ordonnance prévue à l’article 48.
+- **c)** le droit ou intérêt portant sur une construction à caractère permanent ou non, située sur une terre de réserve — autre que la terre sur laquelle est détenu un droit ou intérêt visé à l’alinéa a) —, qui est reconnu soit par la première nation dans la réserve de laquelle est située la construction, soit par l’ordonnance prévue à l’article 48. (*interest or right*)
 
-***droits ou intérêts matrimoniaux*** Les droits ou intérêts — autres que ceux sur le foyer familial — qu’au moins l’un des époux ou conjoints de fait détient et qui, selon le cas :
+***droits ou intérêts matrimoniaux*** Les droits ou intérêts — autres que ceux sur le foyer familial — qu’au moins l’un des époux ou conjoints de fait détient et qui, selon le cas :
 - **a)** sont acquis pendant la relation conjugale;
 - **b)** sont acquis avant la relation conjugale mais en considération de celle-ci;
 - **c)** sont acquis avant la relation conjugale mais non en considération de celle-ci et se sont appréciés pendant celle-ci.
 
-Sont exclus de la présente définition les droits ou intérêts qui sont reçus d’une personne à titre de don ou en raison d’un legs ou de toute autre transmission par droit de succession et ceux qui remontent à ces derniers.
+Sont exclus de la présente définition les droits ou intérêts qui sont reçus d’une personne à titre de don ou en raison d’un legs ou de toute autre transmission par droit de succession et ceux qui remontent à ces derniers. (*matrimonial interests or rights*)
 
-***époux*** S’entend notamment de la personne qui a contracté de bonne foi un mariage nul de nullité relative ou absolue.
+***époux*** S’entend notamment de la personne qui a contracté de bonne foi un mariage nul de nullité relative ou absolue. (*spouse*)
 
-***foyer familial*** La construction à caractère permanent ou non, située dans la réserve, où les époux ou conjoints de fait résident habituellement ou, en cas de cessation de la cohabitation ou de décès de l’un d’eux, où ils résidaient habituellement à la date de la cessation ou du décès. Si la construction est aussi normalement utilisée à des fins autres que résidentielles, la présente définition vise uniquement la partie de la construction qui peut raisonnablement être considérée comme nécessaire aux fins résidentielles.
+***foyer familial*** La construction à caractère permanent ou non, située dans la réserve, où les époux ou conjoints de fait résident habituellement ou, en cas de cessation de la cohabitation ou de décès de l’un d’eux, où ils résidaient habituellement à la date de la cessation ou du décès. Si la construction est aussi normalement utilisée à des fins autres que résidentielles, la présente définition vise uniquement la partie de la construction qui peut raisonnablement être considérée comme nécessaire aux fins résidentielles. (*family home*)
 
-***juge désigné*** Dans le cas d’une province, l’une ou l’autre des personnes ci-après que le lieutenant-gouverneur en conseil de la province autorise à agir à ce titre pour l’application de la présente loi :
+***juge désigné*** Dans le cas d’une province, l’une ou l’autre des personnes ci-après que le lieutenant-gouverneur en conseil de la province autorise à agir à ce titre pour l’application de la présente loi :
 - **a)** le juge de paix nommé par celui-ci;
 - **b)** le juge du tribunal de la province;
-- **c)** le juge du tribunal établi en application des lois de la province.
+- **c)** le juge du tribunal établi en application des lois de la province. (*designated judge*)
 
-***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure.
+***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure. (*First Nation member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*First Nation*)
 
-***tribunal*** Sauf indication contraire, dans le cas d’une province, l’un des tribunaux énumérés aux alinéas a) à e) de la définition de ***tribunal*** au paragraphe 2(1) de la [Loi sur le divorce](/fr/Lois/Lois%20du%20Canada/1985/ch.%203%20(2e%20suppl.).md).
+***tribunal*** Sauf indication contraire, dans le cas d’une province, l’un des tribunaux énumérés aux alinéas a) à e) de la définition de ***tribunal*** au paragraphe 2(1) de la [Loi sur le divorce](/fr/Lois/Lois%20du%20Canada/1985/ch.%203%20(2e%20suppl.).md). (*court*)
 
 **Terminologie**
 
@@ -1197,6 +1197,6 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 
 - **(2)** Les articles 12 à 52 entrent en vigueur un an après l’entrée en vigueur de l’article 7.
 
-<a name='fn_Ind52D8_hq_12369'><sup>*</sup></a>: [Note : Loi, exception faite des articles 54 et 55, non en vigueur.]<br />
+<a name='fn_Ind52D8_hq_12369'><sup>*</sup></a>: [Note : Articles 1 à 11 et 53 en vigueur le 16 décembre 2013, articles 12 à 52 en vigueur le 16 décembre 2014, *voir* TR/2013-128.]<br />
 
 
