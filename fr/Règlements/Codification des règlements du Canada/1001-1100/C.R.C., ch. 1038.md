@@ -5048,18 +5048,27 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **121** 
 
-- **(1)** Les véhicules automobiles qui sont munis d’un système de freinage à air comprimé et auxquels s’applique le Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121) doivent être conformes aux exigences du DNT 121, avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), le présent article s’applique aux camions, aux autobus et aux remorques qui sont munis d’un système de freinage à air comprimé.
 
-- **(2)** Lorsqu’un camion ou un autobus est muni d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
+- **(2)** Le présent article ne s’applique pas aux camions, aux autobus et aux remorques suivants :
+	- **a)** les remorques d’une largeur de plus de 2,6 m, quand leur pièce extensible est en position complètement rentrée, et qui sont munies de deux essieux à voie courte posés dans le sens de la largeur de la remorque;
+	- **b)** les camions, les autobus et les remorques qui sont munis d’un essieu dont le poids nominal brut sur l’essieu est de 13 154 kg ou plus;
+	- **c)** les camions et les autobus ayant une vitesse, à 3,2 km (2 milles), d’au plus 53,1 km/h;
+	- **d)** les camions ayant une vitesse, à 3,2 km (2 milles), d’au plus 72,3 km/h, ayant une masse du véhicule sans charge équivalente à au moins 95 pour cent de leur PNBV et n’ayant aucune place pour les occupants autres que le conducteur et l’équipe du véhicule;
+	- **e)** les remorques dont le PNBV est de plus de 54 432 kg et dont la carrosserie est conforme à celle mentionnée à la définition de ***remorque lourde*** au paragraphe 2(1) du présent règlement;
+	- **f)** les remorques dont la masse du véhicule sans charge est équivalente à au moins 95 pour cent de leur PNBV;
+	- **g)** les chariots de répartition de charge.
 
-- **(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein antiblocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
+- **(3)** Les camions, les autobus et les remorques doivent être conformes aux exigences du Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121), avec ses modifications successives.
 
-- **(4)** Malgré la disposition S5.2.3.3a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe du mauvais fonctionnement du dispositif de frein antiblocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d) du DNT 121.
+- **(4)** Dans les cas des camions et des autobus qui sont munis d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
 
-- **(5)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et auquel il est fait référence à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, soit vers l’avant et vers l’arrière.
+- **(5)** Tout indicateur du mauvais fonctionnement du dispositif de frein antiblocage visé à la disposition S5.1.6.2 du DNT 121 doit être le témoin du mauvais fonctionnement du système de freinage antiblocage qui figure à l’article 101.
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F)..
+- **(6)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et qui est visé à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, vers l’avant et vers l’arrière.
+
+- **(7)** Les paragraphes (3), (5) et (6) cessent d’avoir effet le 1<sup>er</sup> janvier 2017.
+> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1..
 
 
 
@@ -5437,20 +5446,14 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **206** 
 
-- **(1)** Sous réserve du paragraphe (2), les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
-	- **a)** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
-	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent au règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
+- **(1)** Les autobus dont le PNBV est d’au plus 4 536 kg, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
+	- **a)** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
+	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent dans le règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
 
-- **(2)** Sous réserve du paragraphe (5), jusqu’au 31 août 2011, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière peuvent l’être en conformité avec les exigences du DNT 206, dans sa version au 23 août 1996, au lieu de l’être en conformité avec le paragraphe (1).
+- **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
-- **(3)** À compter du 1<sup>er</sup> septembre 2011, les autobus dont le PNBV est d’au plus 4 536 kg et qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec le paragraphe (1).
-
-- **(4)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
-
-- **(5)** Malgré les dispositions S5.1.1.2 et S5.4.1.2 du DNT 206, dans sa version au 23 août 1996, la conformité à ses dispositions S4.1.1.3 et S4.4.1.4 doit être démontrée conformément aux alinéas S5.1.1.4a) ou b) du document visé à l’alinéa (1)a).
-
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1..
+- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2017.
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2..
 
 
 
@@ -6979,7 +6982,11 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
 
-***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement, les protubérances non structurales, notamment les feux arrière, les pare-chocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’arrière. (*rear extremity*)
+***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
+- **a)** les feux arrière;
+- **b)** les pare-chocs en caoutchouc;
+- **c)** les charnières et les loquets;
+- **d)** les dispositifs aérodynamiques flexibles pouvant être pliés de façon à se trouver à moins de 305 mm du plan vertical transversal tangent à la surface la plus à l’arrière de la pièce horizontale et qui, lorsqu’ils sont à la position qu’ils occupent normalement lorsque la remorque est en mouvement, sont situés à l’avant du plan transversal qui est tangent au bord inférieur arrière de la pièce horizontale et qui croise un point situé à 1 210 mm à l’arrière de la surface la plus à l’arrière de la pièce horizontale et à 1 740 mm au-dessus du sol. (*rear extremity*)
 
 ***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*)
 
@@ -7003,7 +7010,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 
 - **(2)** Le présent article s’applique aux remorques d’un PNBV de 4 536 kg ou plus sauf :
-	- **a)** les remorques pour charges longues, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques aménagées en habitation temporaire;
+	- **a)** les remorques pour charges longues, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques conçues pour servir d’habitation temporaire;
 	- **b)** les remorques à châssis surbaissé;
 	- **c)** les remorques qui sont conçues pour interagir avec un équipement de travail ou qui sont dotées d’un tel équipement se trouvant ou se déplaçant dans l’aire qui serait occupée par une pièce horizontale qui est conforme aux exigences de configuration des paragraphes (6) à (8).
 
@@ -7089,7 +7096,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 </tr>
 </table>
 
-> DORS/2004-195, art. 2; DORS/2008-104, art. 19..
+> DORS/2004-195, art. 2; DORS/2008-104, art. 19; DORS/2013-220, art. 3..
 
 
 
@@ -7160,11 +7167,11 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 		- **(iii)** une barrière pour essais de collision qui se déplace à 32 km/h heurte l’un ou l’autre côté du véhicule;
 	- **b)** dans le cas d’un véhicule d’un PNBV de plus de 4 536 kg, une barrière profilée qui se déplace à une vitesse pouvant atteindre 48 km/h et heurte le véhicule sous n’importe quel angle et en n’importe quel point.
 
-- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.3(b) du DNT 301.
+- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.3(b) du DNT 301.
 
-- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.2(b) du DNT 301.
+- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.2(b) du DNT 301.
 
-- **(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 28 février 2009.
+- **(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 31 mars 2018.
 
 - **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
 	- **a)** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation;
@@ -7191,7 +7198,7 @@ où :
 - **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
 
 - **(6)** [Abrogé, DORS/2004-89, art. 3]
-> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21..
+> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4..
 
 
 
