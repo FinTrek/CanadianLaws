@@ -5046,18 +5046,27 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **121** 
 
-- **(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to the requirements of TSD 121, as amended from time to time.
+- **(1)** Subject to subsection (2), this section applies in respect of every truck, bus and trailer that is equipped with an air brake system.
 
-- **(2)** When a truck or bus is equipped with a front brake pressure limiting valve, that valve shall be automatic and shall operate while the service brakes are applied.
+- **(2)** This section does not apply in respect of the following trucks, buses and trailers:
+	- **(a)** a trailer that has a width of more than 2.6 m with extendable equipment in the fully retracted position and that is equipped with two short-track axles in a line across the width of the trailer;
+	- **(b)** a truck, bus or trailer that is equipped with an axle that has a gross axle weight rating of 13 154 kg or more;
+	- **(c)** a truck or bus that has a speed attainable in 3.2 km (2 miles) of not more than 53.1 km/h;
+	- **(d)** a truck that has a speed attainable in 3.2 km (2 miles) of not more than 72.3 km/h, an unloaded vehicle mass of not less than 95% of its GVWR, and no capacity to carry occupants other than the driver and the operating crew;
+	- **(e)** a trailer that has a GVWR of more than 54 432 kg and whose body conforms to that described in the definition ***heavy hauler trailer*** in subsection 2(1) of these Regulations;
+	- **(f)** a trailer that has an unloaded vehicle mass of not less than 95% of its GVWR; and
+	- **(g)** a load divider dolly.
 
-- **(3)** Every antilock brake system malfunction indicator referred to in S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
+- **(3)** Every truck, bus and trailer shall conform to the requirements of Technical Standards Document No. 121, Air Brake Systems (TSD 121), as amended from time to time.
 
-- **(4)** Despite S5.2.3.3(a) of TSD 121, in addition to conforming to the requirements of S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that conforms to the requirements of S5.2.3.3(b) to (d) of TSD 121.
+- **(4)** If a truck or bus is equipped with a front brake pressure limiting valve, that valve shall be automatic and shall operate while the service brakes are applied.
 
-- **(5)** The test of the parking brake static retardation force that is referred to in S5.6.1 of TSD 121 shall be conducted in both the forward and rearward directions.
+- **(5)** Any antilock brake system malfunction indicator referred to in S5.1.6.2 of TSD 121 shall be the antilock brake system tell-tale set out in section 101.
 
-- **(6)** This section expires on June 1, 2013.
-> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F)..
+- **(6)** The parking brake static retardation force test that is referred to in S5.6.1 of TSD 121 shall be conducted in both a forward and a rearward direction.
+
+- **(7)** Subsections (3), (5) and (6) expire on January 1, 2017.
+> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F); SOR/2013-220, s. 1..
 
 
 
@@ -5435,20 +5444,14 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **206** 
 
-- **(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
-	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
-	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
+- **(1)** Every bus with a GVWR of 4 536 kg or less, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
+	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
+	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
 
-- **(2)** Subject to subsection (5), until August 31, 2011, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with the requirements of TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
+- **(2)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
-- **(3)** Beginning on September 1, 2011, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
-
-- **(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
-
-- **(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
-
-- **(6)** This section expires on June 1, 2013.
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1..
+- **(3)** This section expires on January 1, 2017.
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2..
 
 
 
@@ -6986,7 +6989,11 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 ***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*) 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
+- **(a)** tail lamps;
+- **(b)** rubber bumpers;
+- **(c)** hinges and latches; and
+- **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
 
 ***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
 
@@ -7088,7 +7095,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 </tr>
 </table>
 
-> SOR/2004-195, s. 2; SOR/2008-104, s. 19..
+> SOR/2004-195, s. 2; SOR/2008-104, s. 19; SOR/2013-220, s. 3..
 
 
 
@@ -7159,11 +7166,11 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 		- **(iii)** by a collision barrier travelling at 32 km/h impacting the vehicle laterally on either side; and
 	- **(b)** in the case of a vehicle with a GVWR of more than 4 536 kg, by a moving contoured barrier assembly travelling at any speed up to and including 48 km/h impacting the vehicle at any point and any angle.
 
-- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
+- **(1.1)** Instead of being tested in accordance with subparagraph (1)(a)(ii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.2(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.3(b) of TSD 301.
 
-- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
+- **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
 
-- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
+- **(1.3)** Subsections (1.1) and (1.2) expire on March 31, 2018.
 
 - **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
 	- **(a)** the fuel container shall remain attached to the vehicle at a minimum of one attachment point; and
@@ -7190,7 +7197,7 @@ where
 - **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
 
 - **(6)** [Repealed, SOR/2004-89, s. 3]
-> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21..
+> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21; SOR/2013-220, s. 4..
 
 
 
