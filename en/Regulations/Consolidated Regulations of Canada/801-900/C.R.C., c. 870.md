@@ -59,10 +59,14 @@ Enabling authorities:
 
 ***outer label*** means the label on or affixed to the outside of a package of a food or drug; (*étiquette extérieure*)
 
+***prescription drug*** means a drug that is set out in the Prescription Drug List, as amended from time to time, or a drug that is part of a class of drugs that is set out in it; (*drogue sur ordonnance*) 
+
+***Prescription Drug List*** means the list established by the Minister under section 29.1 of the Act; (*Liste des drogues sur ordonnance*) 
+
 ***principal display panel*** has the same meaning as in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
 
 ***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
-> SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1.
+> SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1; SOR/2013-122, s. 1.
 
 
 
@@ -346,10 +350,8 @@ the design of the container, the materials used in its construction or the incor
 
 **A.01.066** Sections A.01.067 and A.01.068 do not apply to
 - **(a)** a drug included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md); or
-- **(b)** a drug that is listed or described in Schedule F, other than a drug that is listed or described in Part II of that Schedule and that is
-	- **(i)** in a form not suitable for human use, or
-	- **(ii)** labelled in the manner prescribed by paragraph C.01.046(b).
-> SOR/2007-288, s. 1.
+- **(b)** a prescription drug.
+> SOR/2007-288, s. 1; SOR/2013-122, s. 2.
 
 
 
@@ -24750,7 +24752,17 @@ and only the L forms of the amino acids have been added.
 
 ***pharmaceutical ink*** means a non-medicinal ingredient or combination of non-medicinal ingredients used to imprint the drug with marks or symbols; (*encre pharmaceutique*)
 
-***practitioner*** means a person authorized by the law of a province of Canada to treat patients with any drug listed or described in Schedule F to the Regulations; (*praticien*)
+***pharmacist*** means a person who 
+- **(a)** is registered or otherwise entitled under the laws of a province to practise pharmacy, and
+- **(b)** is practising pharmacy in that province; (*pharmacien*)
+
+***pharmacy technician*** means a person who 
+- **(a)** is registered or otherwise entitled under the laws of a province to practise as a pharmacy technician; and
+- **(b)** is practising as a pharmacy technician in that province; (*technicien en pharmacie*)
+
+***practitioner*** means a person who
+- **(a)** is entitled under the laws of a province to treat patients with a prescription drug, and
+- **(b)** is practising their profession in that province; (*praticien*)
 
 ***prescription*** means an order given by a practitioner directing that a stated amount of any drug or mixture of drugs specified therein be dispensed for the person named in the order; (*ordonnance*)
 
@@ -24796,7 +24808,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3.
 
 
 
@@ -25469,7 +25481,7 @@ and only the L forms of the amino acids have been added.
 		- **(iv)** where a standard for the drug is not prescribed in Division 6 of this Part but is contained in a publication mentioned in Schedule B to the Act, the name of the publication containing the standard used or its abbreviation as provided in Schedule B or, if a manufacturer’s standard is used, a statement setting forth the fact that such a standard is used, and
 		- **(v)** in both official languages, the notation “sterile” “*stérile*” if the drug is required to be sterile by these Regulations;
 	- **(b)** on the upper left quarter of the principal display panel
-		- **(i)** the symbol **Pr** in the case of a drug required by this Part or Part D to be sold on prescription, but in no other case shall the symbol **Pr** appear on the label of a drug,
+		- **(i)** the symbol “Pr” in the case of a prescription drug, but the symbol “Pr” shall not appear on the label of any other drug,
 		- **(ii)** the symbol “
 > Image: Symbol consisting of a diamond shape outline in which an uppercase letter C is centred.
 ” in a clear manner and a conspicuous colour and size, in the case of a controlled drug, other than a controlled drug contained in an agricultural implant and set out in Part III of the schedule to Part G,
@@ -25498,7 +25510,7 @@ and only the L forms of the amino acids have been added.
 - **(1.4)** When the composition of the drug varies from one lot to another, the outer label must include a reference to all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “or/*ou*” or “may contain/*peut contenir*”.
 
 - **(1.5)** Subsections (1.1) to (1.4) do not apply to
-	- **(a)** a drug that is required to be sold pursuant to a prescription;
+	- **(a)** a prescription drug;
 	- **(b)** a drug that is not required to be sold pursuant to a prescription but is administered only under the supervision of a practitioner;
 	- **(c)** a drug that is represented as being solely for use as a disinfectant on hard non-porous surfaces; or
 	- **(d)** a drug for veterinary use.
@@ -25525,7 +25537,7 @@ and only the L forms of the amino acids have been added.
 - **(5)** This section does not apply to
 	- **(a)** a drug sold to a drug manufacturer; or
 	- **(b)** a drug dispensed pursuant to a prescription, if its label carries suitable directions for use and complies with the requirements of section C.01.005.
-> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1.
+> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1; SOR/2013-122, ss. 4, 5.
 
 
 
@@ -25575,7 +25587,9 @@ and only the L forms of the amino acids have been added.
 
 
 
-**C.01.010** Where it is necessary to provide adequate directions for the safe use of a parenteral drug or Schedule F drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, such diseases, disorders or abnormal physical state may be mentioned on the labels and inserts accompanying that drug and to such extent, that drug is hereby exempted from the provisions of section 3 of the Act.
+**C.01.010** If it is necessary to provide adequate directions for the safe use of a parenteral drug or prescription drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, such diseases, disorders or abnormal physical state may be mentioned on the labels and inserts accompanying the drug and, in that respect, the drug is exempt from subsections 3(1) and (2) of the Act.
+> SOR/2013-122, s. 6.
+
 
 
 
@@ -26532,8 +26546,8 @@ Accurate dosagesmay be expressed in either metric units or imperial units. If th
 - **(2)** Subsection (1) does not apply to a drug that is
 	- **(a)** intended for parenteral use only;
 	- **(b)** dispensed pursuant to a prescription; or
-	- **(c)** required to be sold on prescription pursuant to these Regulations or pursuant to the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md).
-> SOR/86-93, s. 2; SOR/88-323, s. 2(F); SOR/93-411, s. 2.
+	- **(c)** a prescription drug or a drug that is required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/217.md) or the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md).
+> SOR/86-93, s. 2; SOR/88-323, s. 2(F); SOR/93-411, s. 2; SOR/2013-122, s. 7.
 
 
 
@@ -26590,7 +26604,7 @@ shall carry a cautionary statement to the effect that there is enough drug in th
 **C.01.031.2** 
 
 - **(1)** Sections C.01.029 to C.01.031 do not apply to a drug that is
-	- **(a)** required by these Regulations or the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) to be sold on prescription;
+	- **(a)** a prescription drug or a drug that is required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/217.md) or the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md);
 	- **(b)** intended for parenteral use only;
 	- **(c)** in effervescent or powder form;
 	- **(d)** in suppository form;
@@ -26604,7 +26618,7 @@ shall carry a cautionary statement to the effect that there is enough drug in th
 	- **(a)** sold only in containers that have roll-on or spray applicators or permanently installed wick applicators;
 	- **(b)** sold for exclusive use in animals other than household pets; or
 	- **(c)** intended solely for use in dentists’ offices, or packaged for hospital use only.
-> SOR/86-93, s. 2; SOR/87-484, s. 4; SOR/88-323, s. 5(F); SOR/93-468, s. 3.
+> SOR/86-93, s. 2; SOR/87-484, s. 4; SOR/88-323, s. 5(F); SOR/93-468, s. 3; SOR/2013-122, s. 8.
 
 
 
@@ -26648,7 +26662,9 @@ and
 
 
 
-**C.01.033** Section C.01.032 does not apply to a corticosteroid drug that is dispensed by a registered pharmacist pursuant to a prescription.
+**C.01.033** Section C.01.032 does not apply to a corticosteroid drug that is sold by a pharmacist under a prescription.
+> SOR/2013-122, s. 9.
+
 
 
 
@@ -26924,134 +26940,134 @@ ZINC OXIDE (C.I. No. 77947);
 
 
 
-#### Schedule F Drugs
+#### Prescription Drugs
+
+
+**C.01.040.3** In deciding whether to amend the Prescription Drug List in respect of a drug, including by adding the drug to it or removing the drug from it, the Minister shall consider whether any of the following criteria apply with respect to the drug:
+- **(a)** supervision by a practitioner is necessary
+	- **(i)** for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in respect of which the drug is recommended for use, or
+	- **(ii)** to monitor a disease, disorder or abnormal physical state, or its symptoms, in respect of which the drug is recommended for use, or to monitor the use of the drug;
+- **(b)** the level of uncertainty respecting the drug, its use or its effects justifies supervision by a practitioner; or
+- **(c)** use of the drug can cause harm to human or animal health or a risk to public health and the harm or the risk can be mitigated by a practitioner’s supervision.
+> SOR/2013-122, s. 10.
+
+
+
+
+**C.01.040.4** The Minister shall consult the general public on any proposal by the Minister to remove a drug from the Prescription Drug List.
+> SOR/2013-122, s. 10.
+
+
+
+
+**C.01.040.5** Sections C.01.040.3 and C.01.040.4 apply, with any modifications that the circumstances require, in respect of classes of drugs.
+> SOR/2013-122, s. 10.
+
+
 
 
 **C.01.041** 
 
-- **(1)** In this section and sections C.01.041.1 to C.01.046, ***Schedule F Drug*** means a drug listed or described in Schedule F to these Regulations.
+- **(1)** No person shall sell a prescription drug unless
+	- **(a)** they are entitled under the laws of a province to dispense a prescription drug and they sell it in that province under a verbal or written prescription that they received; or
+	- **(b)** they sell it under section C.01.043.
 
-- **(1.1)** Subject to sections C.01.043 and C.01.046, no person shall sell a substance containing a Schedule F Drug unless
-	- **(a)** the sale is made pursuant to a verbal or written prescription received by the seller; and
-	- **(b)** where the prescription has been transferred to the seller under section C.01.041.1, the requirements of section C.01.041.2 have been complied with.
+- **(2)** In the case of a verbal prescription, the person referred to in paragraph (1)(a) or a pharmacy technician shall create a written record of the prescription that includes the following information:
+	- **(a)** the date on which the prescription was received and, if applicable, the number of the prescription;
+	- **(b)** the name and address of the person to whom the prescription was issued;
+	- **(c)** the proper name, common name or brand name of the drug and its quantity;
+	- **(d)** the person’s name and the name of the practitioner who issued the prescription; and
+	- **(e)** the directions for use provided with the prescription, whether or not the practitioner authorized it to be refilled and, if refills are authorized, the number of authorized refills.
 
-- **(2)** Where the prescription for a Schedule F Drug is written, the person selling the drug shall retain the prescription for at least two years from the date of filling.
-
-- **(3)** Where the prescription for a Schedule F Drug is verbal, the person to whom the prescription is communicated by the practitioner shall forthwith reduce the prescription to writing and the person selling the drug shall retain that written prescription for a period of at least two years from the date of filling.
-
-- **(4)** The person reducing a verbal prescription to writing shall indicate on the written prescription
-	- **(a)** the date and number of the prescription;
-	- **(b)** the name and address of the person for whose benefit the prescription is given;
-	- **(c)** the proper name, common name or brand name of the specified drug and the quantity thereof;
-	- **(d)** his name and the name of the practitioner who issued the prescription; and
-	- **(e)** the directions for use given with the prescription, including whether or not the practitioner authorized the refilling of the prescription and, if the prescription is to be refilled, the number of times it may be refilled.
-
-- **(5)** Subsections (1.1) to (4) do not apply to a substance containing
-	- **(a)** chloral hydrate in preparations for external use, where it constitutes not more than one per cent of the substance, or
-	- **(b)** hexachlorophene and its salts, where it constitutes not more than 0.75 per cent of the substance, calculated as hexachlorophene.
-> SOR/78-424, s. 2; SOR/80-543, s. 3; SOR/93-202, s. 6; SOR/93-407, s. 2.
+- **(3)** The person referred to in paragraph (1)(a) shall retain the written prescription referred to in subsection (1) or the record referred to in subsection (2) for at least two years after the day on which the prescription is filled.
+> SOR/78-424, s. 2; SOR/80-543, s. 3; SOR/93-202, s. 6; SOR/93-407, s. 2; SOR/2013-122, s. 11.
 
 
 
 
-**C.01.041.1** A pharmacist may transfer to another pharmacist a prescription for a Schedule F Drug.
-> SOR/78-424, s. 3.
+**C.01.041.1** Subject to paragraph C.01.041.3(2)(b), a pharmacist or pharmacy technician may transfer to another pharmacist or pharmacy technician a prescription for a prescription drug.
+> SOR/78-424, s. 3; SOR/2013-122, s. 11.
 
 
 
 
 **C.01.041.2** 
 
-- A pharmacist to whom a prescription has been transferred under section C.01.041.1 shall not sell a drug pursuant thereto until
-	- **(a)** he has obtained from the pharmacist transferring the prescription his name and address, the number of authorized refills remaining and the date of the last refill; and
-	- **(b)** he has
-		- **(i)** received a copy of the prescription as written by the practitioner or as reduced to writing as required by subsections C.01.041(3) and (4), as the case may be, or
-		- **(ii)** where the prescription has been transferred to him verbally, reduced the prescription to writing indicating therein the information specified in subsection C.01.041(4).
+- **(1)** Before a pharmacist sells a drug under a prescription that was transferred under section C.01.041.1, the pharmacist or a pharmacy technician shall
+	- **(a)** create a written record of the name and address of the pharmacist or pharmacy technician who transferred the prescription and, if applicable, the number of authorized refills remaining and the date of the last refill; and
+	- **(b)** obtain a copy of the written prescription or of the written record that was created under subsection C.01.041(2), as the case may be, or, in the case of a verbal transfer, create a written record that includes the information referred to in that subsection.
 
-- 
-> SOR/78-424, s. 3.
+- **(2)** The pharmacist shall retain the documents referred to in subsection (1) for at least two years after the day on which the prescription was filled.
+> SOR/78-424, s. 3; SOR/2013-122, s. 11.
 
 
 
 
-**C.01.041.3** The pharmacist to whom a prescription for a Schedule F Drug is transferred under section C.01.041.1 shall retain in his files for a period of two years the information and documents referred to in section C.01.041.2.
-> SOR/78-424, s. 3.
+**C.01.041.3** 
+
+- **(1)** A pharmacist or a pharmacy technician who transfers a prescription under section C.01.041.1 shall indicate the date of transfer on the original of the written prescription or of the written record created under subsection C.01.041(2) or in a record kept under the name of the patient in question, as the case may be.
+
+- **(2)** When the pharmacist or pharmacy technician has transferred the prescription,
+	- **(a)** the pharmacist shall not make any additional sales under the prescription; and
+	- **(b)** the pharmacist or pharmacy technician shall not transfer the prescription to another pharmacist or pharmacy technician.
+> SOR/78-424, s. 3; SOR/2013-122, s. 11.
 
 
 
 
-**C.01.041.4** A pharmacist who transfers a prescription under section C.01.041.1
-- **(a)** shall enter on the original of the prescription or in a suitable record of prescription kept under the name of each patient, the date of transfer; and
-- **(b)** shall not make any further sales under the prescription nor transfer it to another pharmacist.
-> SOR/78-424, s. 3.
+**C.01.041.4** [Repealed, SOR/2013-122, s. 11]
+
+
+
+**C.01.042** A person referred to in paragraph C.01.041(1)(a) shall not refill a prescription for a prescription drug unless authorized by the practitioner and, in the case of such an authorization, they shall not refill a prescription more than the number of times specified by the practitioner.
+> SOR/78-424, s. 4; SOR/2013-122, s. 11.
 
 
 
 
-**C.01.042** 
-
-- **(1)** No person shall refill a prescription for a Schedule F Drug unless the practitioner so directs and no person shall refill such a prescription more times than the number of times prescribed by the practitioner.
-
-- **(2)** The person filling or refilling a prescription for a Schedule F Drug shall enter on the original of the prescription or in a suitable record of prescriptions kept under the name of each patient
-	- **(a)** the date of filling;
-	- **(b)** the date of each refill, if applicable;
-	- **(c)** the quantity of drug dispensed at the original filling and each refill; and
-	- **(d)** his name.
-> SOR/78-424, s. 4.
+**C.01.042.1** A person referred to in paragraph C.01.041(1)(a) shall indicate on the original of or on the copy of the written prescription or the written record created under subsection C.01.041(2) or in a record kept under the name of the patient in question, as the case may be,
+- **(a)** the date on which the prescription was filled;
+- **(b)** the date of each refill, if applicable;
+- **(c)** the quantity of drug sold when the prescription was filled and, if applicable, for each refill; and
+- **(d)** the name of the person who sold the drug.
+> SOR/2013-122, s. 11.
 
 
 
 
 **C.01.043** 
 
-- **(1)** A person may sell a Schedule F Drug, without having received a prescription therefor, to
+- **(1)** A person may sell a prescription drug to
 	- **(a)** a drug manufacturer;
 	- **(b)** a practitioner;
 	- **(c)** a wholesale druggist;
-	- **(d)** a registered pharmacist;
-	- **(e)** a hospital certified by the Department of National Health and Welfare;
-	- **(f)** a Department of the Government of Canada or of a province, upon receipt of a written order signed by the Minister thereof or his duly authorized representative; or
-	- **(g)** any person, upon receipt of a written order signed by the Director.
+	- **(d)** a pharmacist; or
+	- **(e)** the Government of Canada or the government of a province, for the use of a department or agency of that government, on receipt of a written order signed by the minister responsible for the department or by the person in charge of the agency, or by their duly authorized representative.
 
-- **(2)** Where a person makes a sale authorized by paragraph (1)(f) or (1)(g), he shall retain the written order for the drug for a period of at least two years from the date of filling the order.
-
-
-
-**C.01.044** 
-
-- **(1)** Where a person advertises to the general public a Schedule F Drug, the person shall not make any representation other than with respect to the brand name, proper name, common name, price and quantity of the drug.
-
-- **(2)** Subsection (1) does not apply where
-	- **(a)** the drug is listed in Part II of Schedule F; and
-	- **(b)** the drug is
-		- **(i)** in a form not suitable for human use, or
-		- **(ii)** labelled in the manner prescribed by paragraph C.01.046(b).
-> SOR/78-424, s. 5; SOR/93-202, s. 7; SOR/93-407, s. 3.
+- **(2)** If a person sells a prescription drug under paragraph (1)(e), they shall retain the written order for the drug for a period of at least two years after the day on which the drug is sold.
+> SOR/2013-122, s. 11.
 
 
 
 
-**C.01.045** 
-
-- **(1)** Subject to subsection (2), no person other than
-	- **(a)** a practitioner,
-	- **(b)** a drug manufacturer,
-	- **(c)** a wholesale druggist,
-	- **(d)** a registered pharmacist, or
-	- **(e)** a resident of a foreign country while a visitor in Canada,
-shall import a Schedule F Drug.
-
-- **(2)** Any person may import a Schedule F Drug listed in Part II of Schedule F if the drug is imported in such form or so labelled that it could be sold by that person pursuant to section C.01.046.
-> SOR/93-407, s. 4.
+**C.01.044** If a person advertises a prescription drug to the general public, the person shall not make any representation other than with respect to the brand name, the proper name, the common name and the price and quantity of the drug.
+> SOR/78-424, s. 5; SOR/93-202, s. 7; SOR/93-407, s. 3; SOR/2013-122, s. 11.
 
 
 
 
-**C.01.046** A person may sell a drug listed or described in Part II of Schedule F to the Regulations, without having received a prescription therefor, if
-- **(a)** the drug is in a form not suitable for human use; or
-- **(b)** the principal display panel of both the inner label and the outer label carries, in both official languages, the statement “For Veterinary Use Only / *Pour usage vétérinaire seulement*” or “Veterinary Use Only / *Usage vétérinaire seulement*”, immediately following or preceding the brand name, proper name or common name, in type size not less than one-half as large as the largest type on the label.
-> SOR/93-202, s. 8; SOR/93-407, s. 5; SOR/2001-181, s. 1(E).
+**C.01.045** No person, other than one of the following, shall import a prescription drug:
+- **(a)** a practitioner;
+- **(b)** a drug manufacturer;
+- **(c)** a wholesale druggist;
+- **(d)** a pharmacist; or
+- **(e)** a resident of a foreign country while a visitor in Canada.
+> SOR/93-407, s. 4; SOR/2013-122, s. 11.
 
+
+
+
+**C.01.046** [Repealed, SOR/2013-122, s. 11]
 
 
 
@@ -27507,7 +27523,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-**C.01.434** The provisions of section C.01.433 do not apply to chloramphenicol and its salts or derivatives sold by a registered pharmacist.
+**C.01.434** Section C.01.433 does not apply to chloramphenicol and its salts or derivatives that are sold by a pharmacist under a prescription.
+> SOR/2013-122, s. 12.
+
 
 
 
@@ -27700,7 +27718,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Contraceptive Drugs
 
 
-**C.01.625** Contraceptive drugs that are manufactured, sold or represented for use in the prevention of conception and that are not listed in Schedule F may be advertised to the general public.
+**C.01.625** Contraceptive drugs that are manufactured, sold or represented for use in the prevention of conception and that are not prescription drugs may be advertised to the general public.
+> SOR/2013-122, s. 13.
+
 
 
 
@@ -27767,14 +27787,14 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 ***wholesale***[Repealed, SOR/2013-74, s. 2]
 
 ***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale: 
-- **(a)** a drug in dosage form that is listed in Schedule C or D to the Act or in Schedule F to these Regulations, or a controlled drug as defined in subsection G.01.001(1);
+- **(a)** a drug in dosage form that is listed in Schedule C or D to the Act, a drug that is a prescription drug or a controlled drug as defined in subsection G.01.001(1);
 - **(b)** an active ingredient; or
 - **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*grossiste*)
 
-- **(2)** In this Division and in Division 2, “drug” does not include a dilute drug premix, a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), an active ingredient that is for veterinary use or a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
+- **(2)** In this Division and in Division 2, ***drug*** does not include a dilute drug premix, a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), an active ingredient that is for veterinary use or a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
 
 - **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request. 
-> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2.
+> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14.
 
 
 
@@ -27989,11 +28009,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>6</td>
-<td>Drugs listed in Schedule F to these Regulations, controlled drugs as defined in subsection G.01.001(1) and narcotics as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md)</td>
+<td>Drugs that are prescription drugs, controlled drugs as defined in subsection G.01.001(1) and narcotics as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md)</td>
 </tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15.
 
 
 
@@ -28795,13 +28815,16 @@ where the radioactive daughter is separated from its parent by
 
 
 
-**C.03.015** Every package of a drug listed or described in Schedule F in the Regulations, other than
-- **(a)** a drug sold to a drug fabricator,
-- **(b)** a drug dispensed pursuant to a prescription,
-- **(c)** a radiopharmaceutical as defined in section C.03.201, or
-- **(d)** a component or kit as defined in section C.03.205,
-shall carry the symbol **Pr** on the upper left quarter of the principal display panel of both its inner and outer labels or, in the case of a single dose container, on the upper left quarter of its outer label.
-> SOR/80-543, s. 9; SOR/97-12, s. 61; SOR/2001-181, s. 4.
+**C.03.015** 
+
+- **(1)** Every package of a drug that is a prescription drug shall carry the symbol “Pr” on the upper left quarter of the principal display panel of both its inner and outer labels or, in the case of a single dose container, on the upper left quarter of its outer label.
+
+- **(2)** Subsection (1) does not apply to
+	- **(a)** a drug sold to a drug fabricator;
+	- **(b)** a drug sold under a prescription;
+	- **(c)** a radiopharmaceutical as defined in section C.03.201; or
+	- **(d)** a component or kit as defined in section C.03.205.
+> SOR/80-543, s. 9; SOR/97-12, s. 61; SOR/2001-181, s. 4; SOR/2013-122, s. 16.
 
 
 
@@ -29475,10 +29498,10 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 
 
 
-**C.04.020** Except in the case of the following drugs, every package of a drug listed in Schedule F of these Regulations shall carry the symbol Pr on the upper left quarter of the principal display panel of both its inner and outer labels or, in the case of a single dose container, on the upper left quarter of its outer label:
+**C.04.020** Except in the case of the following drugs, every package of a drug that is a prescription drug shall carry the symbol “Pr” on the upper left quarter of the principal display panel of both its inner and outer labels or, in the case of a single dose container, on the upper left quarter of its outer label:
 - **(a)** a drug sold to a person who holds an establishment licence; and
-- **(b)** a drug dispensed pursuant to a prescription. 
-> SOR/80-543, s. 10; SOR/97-12, s. 40; SOR/2001-181, s. 4.
+- **(b)** a drug sold under a prescription.
+> SOR/80-543, s. 10; SOR/97-12, s. 40; SOR/2001-181, s. 4; SOR/2013-122, s. 17.
 
 
 
@@ -36428,2354 +36451,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 ### **SCHEDULE F** 
-**(Sections C.01.001, C.01.041 to C.01.047, C.01.601 and C.10.005)**
-
-## Part I
-
-
-
-Abacavir and its salts<br />- <i>Abacavir et ses sels</i>
-
-Abatacept<br />- <i>Abatacept</i>
-
-Abciximab<br />- <i>Abciximab</i>
-
-Acamprosate and its salts<br />- <i>Acamprosate et ses sels</i>
-
-Acarbose and its derivatives<br />- <i>Acarbose et ses dérivés</i>
-
-Acebutolol and its salts<br />- <i>Acébutolol et ses sels</i>
-
-Acetazolamide<br />- <i>Acétazolamide</i>
-
-Acetohexamide<br />- <i>Acétohexamide</i>
-
-Acetylcarbromal<br />- <i>Acétylcarbromal</i>
-
-Acetylcholine Chloride<br />- <i>Acétylcholine (chlorure d’)</i>
-
-Acitretin and its salts and derivatives<br />- <i>Acitrétine, ses sels et dérivés</i>
-
-Aconiazide and its salts<br />- <i>Aconiazide et ses sels</i>
-
-Acyclovir and its salts<br />- <i>Acyclovir et ses sels</i>
-
-Adalimumab<br />- <i>Adalimumab</i>
-
-Adapalene and its salts and derivatives<br />- <i>Adapalène, ses sels et dérivés</i>
-
-Adefovir and its salts and derivatives<br />- <i>Adéfovir, ses sels et dérivés</i>
-
-Adenosine and its salts, when sold or recommended for administration by intravenous injection<br />- <i>Adénosine et ses sels, s’il est vendu ou recommandé pour administration par injection intraveineuse</i>
-
-Agalsidase alfa<br />- <i>Agalsidase alfa</i>
-
-Alatrofloxacin and its salts and derivatives<br />- <i>Alatrofloxacine et ses sels et dérivés</i>
-
-Aldesleukin<br />- <i>Aldésleukine</i>
-
-Alefacept<br />- <i>Aléfacept</i>
-
-Alemtuzumab<br />- <i>Alemtuzumab</i>
-
-Alendronic acid and its salts<br />- <i>Alendronique (acide) et ses sels</i>
-
-Alfacalcidol<br />- <i>Alfacalcidol</i>
-
-Alfuzosin and its salts<br />- <i>Alfuzosine et ses sels</i>
-
-Alglucosidase alfa<br />- <i>Alglucosidase alfa</i>
-
-Aliskiren and its salts<br />- <i>Aliskirène et ses sels</i>
-
-Alkyl nitrites<br />- <i>Alkyle (nitrites d’)</i>
-
-Allopurinol<br />- <i>Allopurinol</i>
-
-Allylisopropylacetylurea<br />- <i>Allylisopropylacétylurée</i>
-
-Almotriptan and its salts<br />- <i>Almotriptan et ses sels</i>
-
-Alpha-chloralose<br />- <i>Alpha-chloralose</i>
-
-Alphadolone and its salts<br />- <i>Alphadolone et ses sels</i>
-
-Alphaxalone<br />- <i>Alfaxalone</i>
-
-Alteplase and its salts and derivatives<br />- <i>Altéplase, ses sels et dérivés</i>
-
-Altrenogest<br />- <i>Altrénogest</i>
-
-Altretamine<br />- <i>Altrétamine</i>
-
-Amantadine and its salts<br />- <i>Amantadine et ses sels</i>
-
-Ambenonium Chloride<br />- <i>Ambénonium (chlorure d’)</i>
-
-Ambrisentan<br />- <i>Ambrisentan</i>
-
-Amifostine and its salts<br />- <i>Amifostine et ses sels</i>
-
-Amikacin and its salts and derivatives<br />- <i>Amikacine, ses sels et dérivés</i>
-
-Amiloride and its salts<br />- <i>Amiloride et ses sels</i>
-
-Aminocaproic acid<br />- <i>Aminocaproïque (acide)</i>
-
-Aminoglutethimide<br />- <i>Aminoglutéhimide</i>
-
-Aminolevulinic acid and its salts and derivatives<br />- <i>Aminolévulinique (acide), ses sels et dérivés</i>
-
-Aminophylline<br />- <i>Aminophylline</i>
-
-Aminopterin and its salts<br />- <i>Aminoptérine et ses sels</i>
-
-4-Amino-pteroyl aspartic acid and its salts<br />- <i>Amino-4-ptéroyl aspartique (acide) et ses sels</i>
-
-5-Aminosalicylic acid<br />- <i>Amino-5-salicylique (acide)</i>
-
-4-Aminosalicylic Acid and its salts<br />- <i>Amino-4 salicylique (acide) et ses sels</i>
-
-Amiodarone and its salts<br />- <i>Amiodarone et ses sels</i>
-
-Amitraz<br />- <i>Amitraz</i>
-
-Amitriptyline and its salts<br />- <i>Amitriptyline et ses sels</i>
-
-Amlexanox and its salts and derivatives<br />- <i>Amlexanox, ses sels et dérivés</i>
-
-Amlodipine and its salts<br />- <i>Amlodipine et ses sels</i>
-
-Ammonium bromide<br />- <i>Bromure d’ammonium</i>
-
-Amoxapine<br />- <i>Amoxapine</i>
-
-Amoxicillin and its salts and derivatives<br />- <i>Amoxicilline, ses sels et dérivés</i>
-
-Amphotericin B and its salts and derivatives<br />- <i>Amphotéricine B, ses sels et dérivés</i>
-
-Ampicillin and its salts and derivatives<br />- <i>Ampicilline, ses sels et dérivés</i>
-
-Amprenavir and its salts and derivatives<br />- <i>Amprénavir et ses sels et dérivés</i>
-
-Amrinone and its salts<br />- <i>Amrinone et ses sels</i>
-
-Amsacrine and its salts<br />- <i>Amsacrine et ses sels</i>
-
-Anagrelide and its salts<br />- <i>Anagrélide et ses sels</i>
-
-Anakinra and its salts and derivatives<br />- <i>Anakinra, ses sels et dérivés</i>
-
-Anastrozole<br />- <i>Anastrozole</i>
-
-Ancestim<br />- <i>Ancestim</i>
-
-Anidulafungin<br />- <i>Anidulafungine</i>
-
-Anti-thymocyte globulin<br />- <i>Sérum antithymocytes</i>
-
-Apraclonidine and its salts<br />- <i>Apraclonidine et ses sels</i>
-
-Aprepitant and its derivatives<br />- <i>Aprépitant et ses dérivés</i>
-
-Aprotinin<br />- <i>Aprotinine</i>
-
-Argatroban and its salts and derivatives<br />- <i>Argatroban, ses sels et dérivés</i>
-
-Arsenic trioxide<br />- <i>Trioxyde d’arsenic</i>
-
-Asparaginase, when sold for administration by injection<br />- <i>Asparaginase, si elle est vendue pour administration par injection</i>
-
-Astemizole and its salts<br />- <i>Astémizole et ses sels</i>
-
-Atazanavir and its salts<br />- <i>Atazanavir et ses sels</i>
-
-Atenolol and its salts<br />- <i>Aténolol et ses sels</i>
-
-Atipamezole and its salts<br />- <i>Atipamézole et ses sels</i>
-
-Atomoxetine and its salts<br />- <i>Atomoxétine et ses sels</i>
-
-Atorvastatin and its salts<br />- <i>Atorvastatine et ses sels</i>
-
-Atovaquone<br />- <i>Atovaquone</i>
-
-Atracurium besilate<br />- <i>Atracurium (bésilate d’)</i>
-
-Atropine and its salts in ophthalmic or parenteral preparations only<br />- <i>Atropine et ses sels dans les préparations pour usage ophtalmique ou parentéral seulement</i>
-
-Auranofin<br />- <i>Auranofine</i>
-
-Aurothioglucose<br />- <i>Aurothioglucose</i>
-
-Azacyclonol and its salts<br />- <i>Azacyclonol et ses sels</i>
-
-Azaribine<br />- <i>Azaribine</i>
-
-Azathioprine and its salts<br />- <i>Azathioprine et ses sels</i>
-
-Azatidine and its salts<br />- <i>Azatadine et ses sels</i>
-
-Azelaic acid<br />- <i>Acide azélaïque</i>
-
-Azlocillin and its salts and derivatives<br />- <i>Azlocilline, ses sels et dérivés</i>
-
-Aztreonam and its salts<br />- <i>Aztréonam et ses sels</i>
-
-Baclofen and its salts<br />- <i>Baclofène et ses sels</i>
-
-Bambuterol and its salts<br />- <i>Bambutérol et ses sels</i>
-
-Becaplermin<br />- <i>Bécaplermine</i>
-
-Basiliximab<br />- <i>Basiliximab</i>
-
-Bemegride<br />- <i>Bémégride</i>
-
-Benactyzine and its salts<br />- <i>Benactyzine et ses sels</i>
-
-Benazepril and its salts and derivatives<br />- <i>Bénazépril, ses sels et dérivés</i>
-
-Bendazac and its salts<br />- <i>Bendazac et ses sels</i>
-
-Benoxaprofen and its salts<br />- <i>Benoxaprofène et ses sels</i>
-
-Benserazide and its salts<br />- <i>Bensérazide et ses sels</i>
-
-Benzathine penicillin and its salts and derivatives<br />- <i>Benzathine pénicilline, ses sels et dérivés</i>
-
-Benzoyl peroxide in concentrations greater than 5 per cent or when sold in combination with another medicinal ingredient<br />- <i>Benzoyle (peroxyde de) lorsqu’il constitue plus de cinq pour cent d’un mélange ou qu’il est vendu en association avec un autre ingrédient médicinal</i>
-
-Benztropine and its salts<br />- <i>Benzatropine et ses sels</i>
-
-Benzydamine and its salts<br />- <i>Benzydamine et ses sels</i>
-
-Beractant<br />- <i>Béractant</i>
-
-Betahistine and its salts<br />- <i>Bétahistine et ses sels</i>
-
-Betaine and its salts when sold or recommended for the treatment of homocystinuria<br />- <i>Bétaïne et ses sels s’ils sont vendus ou recommandés pour le traitement de l’homocystinurie</i>
-
-Betaxolol and its salts<br />- <i>Betaxolol et ses sels</i>
-
-Bethanechol chloride<br />- <i>Béthanéchol (chlorure de)</i>
-
-Bethanidine and its salts<br />- <i>Béthanidine et ses sels</i>
-
-Bevacizumab<br />- <i>Bévacizumab</i>
-
-Bezafibrate and its salts and derivatives<br />- <i>Bezafibrate, ses sels et dérivés</i>
-
-Bicalutamide<br />- <i>Bicalutamide</i>
-
-Bimatoprost and its derivatives<br />- <i>Bimatoprost et ses dérivés</i>
-
-Biperiden and its salts<br />- <i>Bipéridène et ses sels</i>
-
-Bishydroxycoumarin and its salts and derivatives<br />- <i>Bishydroxycoumarine, ses sels et dérivés</i>
-
-Bisoprolol and its salts<br />- <i>Bisoprolol et ses sels</i>
-
-Bitolterol and its salts<br />- <i>Bitoltérol et ses sels</i>
-
-Bivalirudin<br />- <i>Bivalirudine</i>
-
-Bleomycin<br />- <i>Bléomycine</i>
-
-Bortezomib<br />- <i>Bortézomib</i>
-
-Bosentan and its salts and derivatives<br />- <i>Bosentan et ses sels et dérivés</i>
-
-Botulinum toxin Type A<br />- <i>Toxine botulinique, type A</i>
-
-Botulinum Toxin Type B<br />- <i>Toxine botulinique, type B</i>
-
-Bretylium tosylate<br />- <i>Brétylium (tosylate de)</i>
-
-Brimonidine and its salts<br />- <i>Brimonidine et ses sels</i>
-
-Bromal<br />- <i>Bromal</i>
-
-Bromal hydrate<br />- <i>Bromal (hydrate de)</i>
-
-Brometone<br />- <i>Brométone</i>
-
-Bromisoval<br />- <i>Bromisoval</i>
-
-Bromocriptine and its salts<br />- <i>Bromocriptine et ses sels</i>
-
-Bromoform<br />- <i>Bromoforme</i>
-
-Bumetanide and its salts and derivatives<br />- <i>Bumétanide, ses sels et dérivés</i>
-
-Buproprion and its salts<br />- <i>Buproprione et ses sels</i>
-
-Buserelin and its salts<br />- <i>Buséréline et ses sels</i>
-
-Buspirone and its salts<br />- <i>Buspirone et ses sels</i>
-
-Busulfan<br />- <i>Busulfan</i>
-
-Butaperazine and its salts<br />- <i>Butapérazine et ses sels</i>
-
-Butoconazole and its salts<br />- <i>Butoconazole et ses sels</i>
-
-Butyl chloral hydrate<br />- <i>Butylchloral (hydrate de)</i>
-
-Cabergoline and its salts<br />- <i>Cabergoline et ses sels</i>
-
-Calcipotriol<br />- <i>Calcipotriol</i>
-
-Calcitonin<br />- <i>Calcitonine</i>
-
-Calcitriol<br />- <i>Calcitriol</i>
-
-Calcium bromide<br />- <i>Bromure de calcium</i>
-
-Calcium bromolactobionate<br />- <i>Bromolactobionate de calcium</i>
-
-Calcium carbimide<br />- <i>Calcium (carbimide de)</i>
-
-Candesartan and its salts and derivatives<br />- <i>Candésartan et ses sels et dérivés</i>
-
-Candicidin and its salts and derivatives<br />- <i>Candicidine, ses sels et dérivés</i>
-
-Capecitabine and its salts and derivatives<br />- <i>Capécitabine et ses sels et dérivés</i>
-
-Capreomycin and its salts and derivatives<br />- <i>Capréomycine, ses sels et dérivés</i>
-
-Captodiamine and its salts<br />- <i>Captodiamine et ses sels</i>
-
-Captopril and its salts<br />- <i>Captopril et ses sels</i>
-
-Carbachol<br />- <i>Carbachol</i>
-
-Carbamazepine<br />- <i>Carbamazépine</i>
-
-Carbenicillin and its salts and derivatives<br />- <i>Carbénicilline, ses sels et dérivés</i>
-
-Carbenoxolone and its salts<br />- <i>Carbenoxolone et ses sels</i>
-
-Carbetocin and its salts<br />- <i>Carbétocine et ses sels</i>
-
-Carbidopa and its salts<br />- <i>Carbidopa et ses sels</i>
-
-Carbimazole<br />- <i>Carbimazole</i>
-
-Carbocisteine<br />- <i>Carbocistéine</i>
-
-Carbomycin and its salts and derivatives<br />- <i>Carbomycine, ses sels et dérivés</i>
-
-Carboplatin<br />- <i>Carboplatine</i>
-
-Carbromal<br />- <i>Carbromal</i>
-
-Carisoprodol<br />- <i>Carisoprodol</i>
-
-Carmustine<br />- <i>Carmustine</i>
-
-Carphenazine and its salts<br />- <i>Carphénazine et ses sels</i>
-
-Carprofen and its salts and derivatives<br />- <i>Carprofène, ses sels et dérivés</i>
-
-Carvedilol and its salts<br />- <i>Carvédilol et ses sels</i>
-
-Caspofungin and its salts and derivatives<br />- <i>Caspofungine et ses sels et dérivés</i>
-
-Cefdinir and its salts and derivatives<br />- <i>Cefdinir et ses sels et dérivés</i>
-
-Cefepime and its salts and derivatives<br />- <i>Céfépime, ses sels et dérivés</i>
-
-Cefonicide and its salts<br />- <i>Céfonicide et ses sels</i>
-
-Cefoperazone and its salts and derivatives<br />- <i>Céfopérazone, ses sels et dérivés</i>
-
-Cefprozil and its salts and derivatives<br />- <i>Cefprozil, ses sels et dérivés</i>
-
-Ceftibuten and its salts and derivatives<br />- <i>Ceftibutène, ses sels et dérivés</i>
-
-Celecoxib and its salts<br />- <i>Célécoxib et ses sels</i>
-
-Cephalosporin C and its salts and derivatives<br />- <i>Céphalosporine C, ses sels et dérivés</i>
-
-Cerivastatin and its salts<br />- <i>Cérivastatine et ses sels</i>
-
-Cetirizine and its salts when sold in concentrations greater than 8.5 mg cetirizine per unit dose<br />- <i>Cétirizine et ses sels lorsque vendues en concentration supérieure à 8,5 mg de cétirizine par unité posologique</i>
-
-Cetrorelix and its salts<br />- <i>Cétrorélix et ses sels</i>
-
-Cetuximab<br />- <i>Cétuximab</i>
-
-Chloral<br />- <i>Chloral</i>
-
-Chloral hydrate<br />- <i>Chloral (hydrate de)</i>
-
-Chloralformamide<br />- <i>Chloralformamide</i>
-
-Chloralimide<br />- <i>Chloralimide</i>
-
-Chlorambucil and its salts and derivatives<br />- <i>Chlorambucil, ses sels et dérivés</i>
-
-Chloramphenicol and its salts and derivatives<br />- <i>Chloramphénicol, ses sels et dérivés</i>
-
-Chlorcyclizine and its salts (except in preparations for external use only)<br />- <i>Chlorcyclizine et ses sels (sauf dans les préparations pour usage externe seulement)</i>
-
-Chlorisondamine and its salts<br />- <i>Chlorisondamine et ses sels</i>
-
-Chlormezanone<br />- <i>Chlormézanone</i>
-
-Chloroquine and its salts<br />- <i>Chloroquine et ses sels</i>
-
-Chlorpropamide<br />- <i>Chlorpropamide</i>
-
-Chlorprothixene and its salts<br />- <i>Chlorprothixène et ses sels</i>
-
-Choline salicylate, when sold in combination with magnesium salicylate<br />- <i>Choline (salicylate de) s’il est vendu en association avec le salicylate de magnésium</i>
-
-Choline theophyllinate<br />- <i>Choline (théophyllinate de)</i>
-
-Choriogonadotropin alfa<br />- <i>Choriogonadotropine alfa</i>
-
-Ciclopirox and its salts<br />- <i>Ciclopirox et ses sels</i>
-
-Cilastatin and its salts<br />- <i>Cilastatine et ses sels</i>
-
-Cilazapril and its salts and derivatives<br />- <i>Cilazapril, ses sels et dérivés</i>
-
-Cimetidine and its salts, except when sold in concentrations of 200 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Cimétidine et ses sels, sauf s’ils sont vendus en une concentration de 200 mg ou moins par unité posologique orale pour le traitement des brûlures d’estomac</i>
-
-Cinacalcet and its salts<br />- <i>Cinacalcet et ses sels</i>
-
-Cinchophene and its salts<br />- <i>Cinchophène et ses sels</i>
-
-Cinoxacin<br />- <i>Cinoxacine</i>
-
-Ciprofloxacin and its salts<br />- <i>Ciprofloxacine et ses sels</i>
-
-Cisapride and its salts<br />- <i>Cisapride et ses sels</i>
-
-Cisatracurium besilate<br />- <i>Cisatracurium (bésilate de)</i>
-
-Cisplatin<br />- <i>Cisplatine</i>
-
-Citalopram and its salts<br />- <i>Citalopram et ses sels</i>
-
-Cladribine and its salts<br />- <i>Cladribine et ses sels</i>
-
-Clenbuterol and its salts<br />- <i>Clenbutérol et ses sels</i>
-
-Clindamycin and its salts and derivatives<br />- <i>Clindamycine et ses sels et dérivés</i>
-
-Clodronic acid and its salts<br />- <i>Clodronique (acide) et ses sels</i>
-
-Clofibrate<br />- <i>Clofibrate</i>
-
-Clomiphene and its salts<br />- <i>Clomiphène et ses sels</i>
-
-Clomipramine and its salts<br />- <i>Clomipramine et ses sels</i>
-
-Clonidine and its salts<br />- <i>Clonidine et ses sels</i>
-
-Clopidogrel and its salts<br />- <i>Clopidogrel et ses sels</i>
-
-Cloprostenol and its salts and derivatives<br />- <i>Cloprosténol, ses sels et dérivés</i>
-
-Clorazepic acid and its salts<br />- <i>Clorazépique (acide) et ses sels</i>
-
-Clotrimazole and its salts (except in preparations for topical and vaginal use)<br />- <i>Clotrimazole et ses sels (sauf dans les préparations pour usage topique et vaginal)</i>
-
-Cloxacillin and its salts and derivatives<br />- <i>Cloxacilline, ses sels et dérivés</i>
-
-Clozapine and its salts<br />- <i>Clozapine et ses sels</i>
-
-Colchicine<br />- <i>Colchicine</i>
-
-Colestipol and its salts<br />- <i>Colestipol et ses sels</i>
-
-Colfosceril and its derivatives<br />- <i>Colfoscéril et ses dérivés</i>
-
-Colistin and its salt and derivatives<br />- <i>Colistine, ses sels et dérivés</i>
-
-Cromoglicic acid and its salts (except sodium cromoglicate in solutions for ophthalmic or nasal use in concentrations of 2% or less)<br />- <i>Cromoglicique (acide) et ses sels (sauf le cromoglicate de sodium dans les solutions pour usage ophtalmique ou nasal en concentration de 2 % ou moins)</i>
-
-Cyclobenzaprine and its salts<br />- <i>Cyclobenzaprine et ses sels</i>
-
-Cyclopentolate and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada<br />- <i>Cyclopentolate et ses sels dans les préparations pour usage parentéral ou ophtalmique, sauf lorsqu’ils sont vendus pour usage diagnostique à un optométriste agréé dans une province du Canada</i>
-
-Cyclophosphamide<br />- <i>Cyclophosphamide</i>
-
-Cycloserine<br />- <i>Cyclosérine</i>
-
-Cyclosporine<br />- <i>Cyclosporine</i>
-
-Cyproterone acetate<br />- <i>Cyprotérone (acétate de)</i>
-
-Cytarabine and its salts<br />- <i>Cytarabine et ses sels</i>
-
-Dabigatran and its salts and derivatives<br />- <i>Dabigatran et ses sels et dérivés</i>
-
-Dacarbazine<br />- <i>Dacarbazine</i>
-
-Daclizumab<br />- <i>Daclizumab</i>
-
-Dactinomycin<br />- <i>Dactinomycine</i>
-
-Dalfopristin and its salts<br />- <i>Dalfopristine et ses sels</i>
-
-Dalteparin and its salts<br />- <i>Daltéparine et ses sels</i>
-
-Danaparoid and its salts and derivatives<br />- <i>Danaparoïde, ses sels et dérivés</i>
-
-Danazol<br />- <i>Danazol</i>
-
-Danofloxacin and its salts<br />- <i>Danofloxacine et ses sels</i>
-
-Dantrolene and its salts<br />- <i>Dantrolène et ses sels</i>
-
-Dapiprazole and its salts<br />- <i>Dapiprazole et ses sels</i>
-
-Daptomycin<br />- <i>Daptomycine</i>
-
-Darifenacin and its salts<br />- <i>Darifénacine et ses sels</i>
-
-Darunavir<br />- <i>Darunavir</i>
-
-Dasatinib<br />- <i>Dasatinib</i>
-
-Daunorubicin and its salts<br />- <i>Daunorubicine et ses sels</i>
-
-Debrisoquin and its salts<br />- <i>Debrisoquine et ses sels</i>
-
-Deferasirox<br />- <i>Déférasirox</i>
-
-Deferoxamine and its salts<br />- <i>Déféroxamine et ses sels</i>
-
-Delavirdine and its salts<br />- <i>Délavirdine et ses sels</i>
-
-Deracoxib<br />- <i>Déracoxib</i>
-
-Deserpidine and its alkaloids and salts<br />- <i>Déserpidine, ses alcaloïdes et sels</i>
-
-Desflurane<br />- <i>Desflurane</i>
-
-Desipramine and its salts<br />- <i>Désipramine et ses sels</i>
-
-Desmopressin and its salts<br />- <i>Desmopressin et ses sels</i>
-
-Detomidine and its salts<br />- <i>Détomidine et ses sels</i>
-
-Dexfenfluramine and its salts<br />- <i>Dexfenfluramine et ses sels</i>
-
-Dexrazoxane and its salts<br />- <i>Dexrazoxane et ses sels</i>
-
-Diazoxide and its salts<br />- <i>Diazoxide et ses sels</i>
-
-Dichloroacetic Acid<br />- <i>Dichloroacétique (acide)</i>
-
-Diclofenac and its salts, except when sold as a single medicinal ingredient in a concentration equivalent to 1% or less diclofenac in preparations for topical use on the skin<br />- <i>Diclofénac et ses sels sauf s’ils sont vendus comme ingrédient médicinal unique en une concentration maximale de 1 % dans les préparations pour usage topique sur la peau</i>
-
-Dicloxacillin and its salts and derivatives<br />- <i>Dicloxacilline, ses sels et dérivés</i>
-
-Didanosine and its salts and derivatives<br />- <i>Didanosine, ses sels et dérivés</i>
-
-Diethylbromacetamide<br />- <i>Diéthylbromacétamide</i>
-
-Diethylcarbamazine and its salts<br />- <i>Diéthylcarbamazine et ses sels</i>
-
-Diethylstilbestrol and its salts and derivatives<br />- <i>Diéthylstilbestrol, ses sels et dérivés</i>
-
-Difloxacin and its salts and derivatives<br />- <i>Difloxacine et ses sels et dérivés</i>
-
-Diflunisal and its salts<br />- <i>Diflunisal et ses sels</i>
-
-Digitalis lanata and its glycosides<br />- <i>Digitalis lanata et ses glycosides</i>
-
-Digitalis purpurea and its glycosides<br />- <i>Digitalis purpurea et ses glycosides</i>
-
-Digoxin immune Fab (ovine)<br />- <i>Digoxine [Fragments d’anticorps spécifiques de la digoxine Fab (ovins)]</i>
-
-Dihydrotachysterol<br />- <i>Dihydrotachystérol</i>
-
-Diiodohydroxyquin (except in preparations for topical use on the skin)<br />- <i>Diiodohydroxyquinoléine (sauf dans les préparations pour usage topique sur la peau)</i>
-
-Diltiazem and its salts<br />- <i>Diltiazem et ses sels</i>
-
-Dimercaprol<br />- <i>Dimercaprol</i>
-
-Dimethyl sulfoxide, for veterinary use or when sold for the treatment of interstitial cystitis or scleroderma in humans<br />- <i>Diméthylsulfoxide, s’il est vendu pour usage vétérinaire ou pour le traitement de la cystite interstitielle ou de la sclérodermie chez les humains</i>
-
-2,4-Dinitrophenol and its salts and derivatives<br />- <i>Dinitro-2,4-phénol, ses sels et dérivés</i>
-
-Dinoprostone and its salts and derivatives<br />- <i>Dinoprostone, ses sels et dérivés</i>
-
-Diphenidol and its salts<br />- <i>Diphénidol et ses sels</i>
-
-Diphenylhydantoin (phenytoin) and its salts<br />- <i>Diphénylhydantoine (phénytoïne) et ses sels</i>
-
-Dipivefrin and its salts<br />- <i>Dipivefrine et ses sels</i>
-
-Diprophylline and its salts<br />- <i>Diprophylline et ses sels</i>
-
-Dipyridamole<br />- <i>Dipyridamole</i>
-
-Disopyramide and its salts<br />- <i>Disopyramide et ses sels</i>
-
-Disulfiram<br />- <i>Disulfirame</i>
-
-Dobutamine and its salts<br />- <i>Dobutamine et ses sels</i>
-
-Docetaxel and its derivatives<br />- <i>Docétaxel et ses dérivés</i>
-
-Dolasetron and its salts<br />- <i>Dolasétron et ses sels</i>
-
-Domperidone<br />- <i>Dompéridone</i>
-
-Donepezil and its salts<br />- <i>Donépézil et ses sels</i>
-
-Dopamine and its salts, when sold for administration by injection<br />- <i>Dopamine et ses sels, s’ils sont vendus pour administration par injection</i>
-
-Dornase alfa<br />- <i>Dornase alfa</i>
-
-Dorzolamide and its salts<br />- <i>Dorzolamide et ses sels</i>
-
-Doxacurium chloride<br />- <i>Doxacurium (cholure de)</i>
-
-Doxapram<br />- <i>Doxapram</i>
-
-Doxazosin and its salts<br />- <i>Doxazosine et ses sels</i>
-
-Doxepin and its salts<br />- <i>Doxépine et ses sels</i>
-
-Doxercalciferol and its derivatives<br />- <i>Doxercalciférol et ses dérivés</i>
-
-Doxorubicin and its salts<br />- <i>Doxorubicine et ses sels</i>
-
-Doxycycline and its salts and derivatives, when sold for intramuscular administration in caged birds<br />- <i>Doxycycline, ses sels et dérivés, lorsque vendue pour administration intramusculaire aux oiseaux en cage</i>
-
-Doxylamine and its salts, when sold or recommended for use in the nausea or vomiting of pregnancy<br />- <i>Doxylamine et ses sels lorsque vendus ou recommandés contre les nausées ou vomissements de la grossesse</i>
-
-Droperidol and its salts<br />- <i>Dropéridol et ses sels</i>
-
-Drotrecogin<br />- <i>Drotrécogine</i>
-
-Duloxetine and its salts<br />- <i>Duloxétine et ses sels</i>
-
-Dutasteride<br />- <i>Dutastéride</i>
-
-Econazole and its salts<br />- <i>Éconazole et ses sels</i>
-
-Ecothiophate and its salts<br />- <i>Écothiophate et ses sels</i>
-
-Ectylurea and its salts<br />- <i>Ectylurée et ses sels</i>
-
-Eculizumab<br />- <i>Éculizumab</i>
-
-Edrophonium chloride<br />- <i>Édrophonium (chlorure d’)</i>
-
-Efalizumab<br />- <i>Éfalizumab</i>
-
-Efavirenz<br />- <i>Éfavirenz</i>
-
-Eflornithine and its salts and derivatives<br />- <i>Éflornithine, ses sels et dérivés</i>
-
-Eletriptan and its salts<br />- <i>Élétriptan et ses sels</i>
-
-Embutramide<br />- <i>Embutramide</i>
-
-Emedastine and its salts<br />- <i>Émédastine et ses sels</i>
-
-Emtricitabine<br />- <i>Emtricitabine</i>
-
-Emylcamate<br />- <i>Émylcamate</i>
-
-Enalaprilat and its salts and derivatives<br />- <i>Énalaprilate, ses sels et dérivés</i>
-
-Enflurane<br />- <i>Enflurane</i>
-
-Enfuvirtide<br />- <i>Enfuvirtide</i>
-
-Enoxaparin and its salts<br />- <i>Énoxaparine et ses sels</i>
-
-Enrofloxacin<br />- <i>Enrofloxacine</i>
-
-Entacapone<br />- <i>Entacapone</i>
-
-Entecavir<br />- <i>Entécavir</i>
-
-Epirubicine and its salts<br />- <i>Épirubicine et ses sels</i>
-
-Epoprostenol and its salts<br />- <i>Époprosténol et ses sels</i>
-
-Eprosartan and its salts and derivatives<br />- <i>Éprosartan et ses sels et dérivés</i>
-
-Epsiprantel<br />- <i>Epsiprantel</i>
-
-Eptifibatide and its salts<br />- <i>Eptifibatide et ses sels</i>
-
-Erlotinib and its salts<br />- <i>Erlotinib et ses sels</i>
-
-Ertapenem and its salts<br />- <i>Ertapénem et ses sels</i>
-
-Erythropoietin<br />- <i>Érythropoiétine</i>
-
-Escitalopram and its salts<br />- <i>Escitalopram et ses sels</i>
-
-Esmolol and its salts<br />- <i>Esmolol et ses sels</i>
-
-Esomeprazole and its salts<br />- <i>Ésoméprazole et ses sels</i>
-
-Estramustine and its salts<br />- <i>Estramustine et ses sels</i>
-
-Etanercept<br />- <i>Étanercept</i>
-
-Ethacrynic acid<br />- <i>Étacrynique (acide)</i>
-
-Ethambutol and its salts<br />- <i>Éthambutol et ses sels</i>
-
-Ethionamide and its salts<br />- <i>Éthionamide et ses sels</i>
-
-Ethomoxane and its salts<br />- <i>Éthomoxane et ses sels</i>
-
-Ethotoin and its salts<br />- <i>Éthotoine et ses sels</i>
-
-Ethyl trichloramate<br />- <i>Éthyle (trichloramate d’)</i>
-
-Etidronic acid and its salts<br />- <i>Étidronique (acide) et ses sels</i>
-
-Etodolac and its salts and derivatives<br />- <i>Étodolac, ses sels et dérivés</i>
-
-Etoposide and its derivatives<br />- <i>Étoposide et ses dérivés</i>
-
-Etravirine and its salts<br />- <i>Étravirine et ses sels</i>
-
-Etretinate<br />- <i>Étrétinate</i>
-
-Etymemazine and its salts<br />- <i>Étymémazine et ses sels</i>
-
-Exemestane<br />- <i>Exémestane</i>
-
-Ezetimibe<br />- <i>Ézétimibe</i>
-
-Famciclovir and its salts<br />- <i>Famciclovir et ses sels</i>
-
-Famotidine and its salts, except when sold in concentrations of 20 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Famotidine et ses sels, sauf s’ils sont vendus en une concentration de 20 mg ou moins par unité posologique orale et indiqués pour le traitement des brûlures d’estomac</i>
-
-Felodipine and its salts<br />- <i>Félodipine et ses sels</i>
-
-Fenfluramine and its salts<br />- <i>Fenfluramine et ses sels</i>
-
-Fenofibrate<br />- <i>Fénofibrate</i>
-
-Fenoprofen and its salts<br />- <i>Fénoprofène et ses sels</i>
-
-Fenoterol and its salts<br />- <i>Fénotérol et ses sels</i>
-
-Filgrastim<br />- <i>Filgrastime</i>
-
-Finasteride<br />- <i>Finastéride</i>
-
-Flavoxate and its salts<br />- <i>Flavoxate et ses sels</i>
-
-Flecainide and its salts<br />- <i>Flécaïnide et ses sels</i>
-
-Fleroxacin and its salts and derivatives<br />- <i>Fléroxacine, ses sels et dérivés</i>
-
-Floctafenine<br />- <i>Floctafénine</i>
-
-Florfenicol and its derivatives<br />- <i>Florfénicol et ses dérivés</i>
-
-Fluconazole, except when sold in a concentration of 150 mg per oral dosage unit and indicated for the treatment of vaginal candidiasis<br />- <i>Fluconazole, sauf s’il est vendu en une concentration de 150 mg par unité posologique orale pour le traitement des candidoses vaginales</i>
-
-Flucytosine<br />- <i>Flucytosine</i>
-
-Fludarabine and its salts and derivatives<br />- <i>Fludarabine, ses sels et dérivés</i>
-
-Flunarizine and its salts<br />- <i>Flunarizine et ses sels</i>
-
-Flunixin and its salts and derivatives<br />- <i>Flunixine, ses sels et dérivés</i>
-
-Fluorouracil and its derivatives<br />- <i>Fluorouracile et ses dérivés</i>
-
-Fluoxetine and its salts<br />- <i>Fluoxétine et ses sels</i>
-
-Flupentixol and its salts and derivatives<br />- <i>Flupentixol, ses sels et dérivés</i>
-
-Fluphenazine and its salts<br />- <i>Fluphénazine et ses sels</i>
-
-Fluprostenol and its salts and derivatives<br />- <i>Fluprosténol, ses sels et dérivés</i>
-
-Flurbiprofen and its salts<br />- <i>Flurbiprofène et ses sels</i>
-
-Fluspirilene<br />- <i>Fluspirilène</i>
-
-Flutamide<br />- <i>Flutamide</i>
-
-Fluvastatin and its salts and derivatives<br />- <i>Fluvastatine, ses sels et dérivés</i>
-
-Fluvoxamine and its salts<br />- <i>Fluvoxamine et ses sels</i>
-
-Folic acid in oral dosage form containing more than 1.0 mg of folic acid per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1.0 mg of folic acid<br />- <i>Acide folique présenté en unités posologiques orales contenant chacune plus de 1,0 mg d’acide folique ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion, par une personne, de plus de 1,0 mg d’acide folique</i>
-
-Follicle stimulating hormone<br />- <i>Folliculo-stimulante (hormone)</i>
-
-Fomepizole and its salts<br />- <i>Fomépizole et ses sels</i>
-
-Fondaparinux sodium<br />- <i>Fondaparinux sodique</i>
-
-Formestane and its derivatives<br />- <i>Formestane et ses dérivés</i>
-
-Formoterol and its salts<br />- <i>Formotérol et ses sels</i>
-
-Foscarnet sodium<br />- <i>Foscarnet sodique</i>
-
-Fosfomycin and its salts<br />- <i>Fosfomycine et ses sels</i>
-
-Fosinopril and its salts<br />- <i>Fosinopril et ses sels</i>
-
-Fosphenytoin and its salts<br />- <i>Fosphénytoïne et ses sels</i>
-
-Frovatriptan and its salts<br />- <i>Frovatriptan et ses sels</i>
-
-Fulvestrant<br />- <i>Fulvestrant</i>
-
-Fusidic acid and its salts<br />- <i>Fusidique (acide) et ses sels</i>
-
-Gabapentin and its salts and derivatives<br />- <i>Gabapentin, ses sels et dérivés</i>
-
-Galantamine and its salts and derivatives<br />- <i>Galantamine et ses sels et dérivés</i>
-
-Gallamine triethiodide<br />- <i>Gallamine (triéthiodure de)</i>
-
-Gallium and its salts<br />- <i>Gallium et ses sels</i>
-
-Ganciclovir and its salts<br />- <i>Ganciclovir et ses sels</i>
-
-Ganirelix and its salts and derivatives<br />- <i>Ganirélix, ses sels et dérivés</i>
-
-Gatifloxacin and its salts and derivatives<br />- <i>Gatifloxacine, ses sels et dérivés</i>
-
-Gefitinib<br />- <i>Géfitinib</i>
-
-Gemcitabine and its salts<br />- <i>Gemcitabine et ses sels</i>
-
-Gemfibrozil and its salts<br />- <i>Gemfibrozil et ses sels</i>
-
-Gemifloxacin and its salts<br />- <i>Gémifloxacine et ses sels</i>
-
-Gentamicin and its salts and derivatives<br />- <i>Gentamicine, ses sels et dérivés</i>
-
-Glatiramer and its salts<br />- <i>Glatiramère et ses sels</i>
-
-Gliclazide<br />- <i>Gliclazide</i>
-
-Glimepiride<br />- <i>Glimépiride</i>
-
-Glipizide<br />- <i>Glipizide</i>
-
-Glyburide and its salts and derivatives<br />- <i>Glyburide, ses sels et dérivés</i>
-
-Gold and its salts and derivatives, when sold for administration by injection<br />- <i>Or et ses sels et dérivés, s’ils sont vendus pour administration par injection</i>
-
-Golimumab<br />- <i>Golimumab</i>
-
-Gonadorelin and its salts<br />- <i>Gonadoréline et ses sels</i>
-
-Gonadotropin, chorionic (human)<br />- <i>Gonadotropine chorionique (humain)</i>
-
-Gonadotropins, serum (human)<br />- <i>Gonadotropines sériques (humains)</i>
-
-Goserelin and its salts<br />- <i>Goséréline et ses sels</i>
-
-Granisetron and its salts<br />- <i>Granisetron et ses sels</i>
-
-Grepafloxacin and its salts and derivatives<br />- <i>Grépafloxacine et ses sels et dérivés</i>
-
-Guanethidine and its salts<br />- <i>Guanéthidine et ses sels</i>
-
-Halofantrine and its salts<br />- <i>Halofantrine et ses sels</i>
-
-Haloperidol<br />- <i>Halopéridol</i>
-
-Halothane<br />- <i>Halothane</i>
-
-Hetacillin and its salts and derivatives<br />- <i>Hétacilline, ses sels et dérivés</i>
-
-Hetastarch and its derivatives<br />- <i>Hetastarch et ses dérivés</i>
-
-Hexachlorophene and its salts<br />- <i>Hexachlorophène et ses sels</i>
-
-Hexacyclonate sodium<br />- <i>Hexacyclonate sodique</i>
-
-Hexamethonium and its salts<br />- <i>Hexaméthonium et ses sels</i>
-
-Histrelin and its salts<br />- <i>Histréline et ses sels</i>
-
-Hyaluronic acid and its salts, when sold or recommended for administration by intra-articular injection to horses<br />- <i>Hyaluronique (acide) et ses sels, s’il est vendu ou recommandé pour administration par injection intra-articulaire aux chevaux</i>
-
-Hydralazine and its salts<br />- <i>Hydralazine et ses sels</i>
-
-Hydroxychloroquine and its salts<br />- <i>Hydroxychloroquine et ses sels</i>
-
-4-Hydroxycoumarin and its derivatives when sold or recommended as anticoagulants<br />- <i>Hydroxy-4 coumarine et ses dérivés, s’ils sont vendus ou recommandés comme anticoagulants</i>
-
-Hydroxyurea<br />- <i>Hydroxyurée</i>
-
-Hydroxyzine and its salts and derivatives<br />- <i>Hydroxyzine, ses sels et dérivés</i>
-
-Ibandronic acid and its salts<br />- <i>Acide ibandronique et ses sels</i>
-
-Ibuprofen and its salts except when sold for oral administration in a concentration of 400 mg or less per dosage unit.<br />- <i>Ibuprofène et ses sels, sauf s’ils sont vendus pour administration par voie orale en une concentration de 400 mg ou moins par unité posologique</i>
-
-Ibutilide and its salts and derivatives<br />- <i>Ibutilide et ses sels et dérivés</i>
-
-Idarubicin and its salts<br />- <i>Idarubicine et ses sels</i>
-
-Idoxuridine<br />- <i>Idoxuridine</i>
-
-Ifosfamide<br />- <i>Ifosfamide</i>
-
-Imatinib and its salts<br />- <i>Imatinib et ses sels</i>
-
-Imiglucerase<br />- <i>Imiglucérase</i>
-
-Imipenem and its salts and derivatives<br />- <i>Imipénem, ses sels et dérivés</i>
-
-Imipramine and its salts<br />- <i>Imipramine et ses sels</i>
-
-Imiquimod and its salts<br />- <i>Imiquimod et ses sels</i>
-
-Indapamide and its salts<br />- <i>Indapamide et ses sels</i>
-
-Indinavir and its salts<br />- <i>Indinavir et ses sels</i>
-
-Indomethacin<br />- <i>Indométhacine</i>
-
-Infliximab<br />- <i>Infliximab</i>
-
-Inhaled human insulin<br />- <i>Insuline humaine inhalée</i>
-
-Inosiplex<br />- <i>Inosiplex</i>
-
-Interferon<br />- <i>Interféron</i>
-
-Iodochlorohydroxyquin (except in preparations for topical use on the skin)<br />- <i>Iodochlorhydroxyquinoléine (sauf dans les préparations pour usage topique sur la peau)</i>
-
-Ipratropium and its salts<br />- <i>Ipratropium et ses sels</i>
-
-Iproniazid and its salts<br />- <i>Iproniazide et ses sels</i>
-
-Irbesartan and its salts<br />- <i>Irbésartan et ses sels</i>
-
-Irinotecan and its salts<br />- <i>Irinotécan et ses sels</i>
-
-Isocarboxazid and its salts<br />- <i>Isocarboxazide et ses sels</i>
-
-Isoflurane<br />- <i>Isoflurane</i>
-
-Isoniazid<br />- <i>Isoniazide</i>
-
-Isoproterenol (Isoprenaline) and its salts<br />- <i>Isoprotérénol (Isoprénaline) et ses sels</i>
-
-Isotretinoin and its salts<br />- <i>Isotrétinoïne et ses sels</i>
-
-Isoxsuprine and its salts<br />- <i>Isoxsuprine et ses sels</i>
-
-Isradipine and its salts<br />- <i>Isradipine et ses sels</i>
-
-Itraconazole and its salts<br />- <i>Itraconazole et ses sels</i>
-
-Ivermectin and its derivatives, for human use or for veterinary use when sold for intramuscular injection into horses or for oral administration to dogs and cats<br />- <i>Ivermectine et ses dérivés, destinés à l’usage humain ou à l’usage vétérinaire, s’ils sont vendus pour injection intramusculaire aux chevaux ou pour administration par voie orale aux chiens et aux chats</i>
-
-Ketanserin and its salts<br />- <i>Kétansérine et ses sels</i>
-
-Ketoconazole and its salts (except in preparations for topical use as a shampoo)<br />- <i>Kétoconazole et ses sels (excepté pour les préparations pour usage topique sous la forme d’un shampooing)</i>
-
-Ketoprofene and its salts<br />- <i>Kétoprofène et ses sels</i>
-
-Ketorolac and its salts<br />- <i>Kétorolac et ses sels</i>
-
-Ketotifen and its salts<br />- <i>Kétotifène et ses sels</i>
-
-Labetalol and its salts<br />- <i>Labétalol et ses sels</i>
-
-Lactic acid, when recommended for parenteral use as a tissue sclerosing agent<br />- <i>Acide lactique, s’il est recommandé pour usage parentéral comme agent sclérosant</i>
-
-Lamivudine and its salts<br />- <i>Lamivudine et ses sels</i>
-
-Lamotrigine and its salts<br />- <i>Lamotrigue et ses sels</i>
-
-Lanreotide and its salts<br />- <i>Lanréotide et ses sels</i>
-
-Lansoprazole and its salts<br />- <i>Lansoprazole et ses sels</i>
-
-Lanthanum salts, when sold for the treatment of hyperphosphatemia<br />- <i>Sels de lanthane vendus pour le traitement de l’hyperphosphatémie</i>
-
-Lapatinib and its salts<br />- <i>Lapatinib et ses sels</i>
-
-Laronidase<br />- <i>Laronidase</i>
-
-Latanoprost<br />- <i>Latanoprost</i>
-
-Leflunomide and its salts<br />- <i>Léflunomide et ses sels</i>
-
-Lenalidomide<br />- <i>Lénalidomide</i>
-
-Letrozole<br />- <i>Létrozole</i>
-
-Leucovorin and its salts<br />- <i>Acide folinique et ses sels</i>
-
-Leuprolide and its salts<br />- <i>Leuproréline et ses sels</i>
-
-Levetiracetam<br />- <i>Lévétiracétam</i>
-
-Levobunolol and its salts<br />- <i>Levobunolol et ses sels</i>
-
-Levocabastine and its salts and derivatives<br />- <i>Lévocabastine, ses sels et dérivés</i>
-
-Levocarnitine and its salts and derivatives, when sold for the treatment of primary or secondary levocarnitine deficiency<br />- <i>Lévocarnitine et ses sels et dérivés, s’ils sont vendus pour le traitement de la déficience primaire ou secondaire en lévocarnitine</i>
-
-Levodopa and its salts<br />- <i>Lévodopa et ses sels</i>
-
-Linezolid and its salts<br />- <i>Linézolide et ses sels</i>
-
-Lisinopril and its salts and derivatives<br />- <i>Lisinopril, ses sels et dérivés</i>
-
-Lithium and its salts<br />- <i>Lithium et ses sels</i>
-
-Lodoxamide and its salts and derivatives<br />- <i>Lodoxamide, ses sels et dérivés</i>
-
-Lomefloxacin and its salts<br />- <i>Loméfloxacine et ses sels</i>
-
-Lomustine<br />- <i>Lomustine</i>
-
-Lopinavir<br />- <i>Lopinavir</i>
-
-Loracarbef and its salts and derivatives<br />- <i>Loracarbef, ses sels et dérives</i>
-
-Losartan and its salts<br />- <i>Losartan et ses sels</i>
-
-Losoxantrone and its salts<br />- <i>Losoxantrone et ses sels</i>
-
-Lovastatin<br />- <i>Lovastatine</i>
-
-Loxapine and its salts<br />- <i>Loxapine et ses sels</i>
-
-Lumiracoxib<br />- <i>Lumiracoxib</i>
-
-Lutropin alfa<br />- <i>Lutropine alfa</i>
-
-Magnesium glutamate hydrobromide<br />- <i>Bromhydrate de glutamate de magnésium</i>
-
-Maprotiline and its salts<br />- <i>Maprotiline et ses sels</i>
-
-Maraviroc<br />- <i>Maraviroc</i>
-
-Marbofloxacin and its salts and derivatives<br />- <i>Marbofloxacine et ses sels et dérivés</i>
-
-Mecamylamine and its salts<br />- <i>Mécamylamine et ses sels</i>
-
-Mechlorethamine and its salts<br />- <i>Méchloréthamine et ses sels</i>
-
-Mecillinam and its salts and derivatives<br />- <i>Mécillinam, ses sels et dérivés</i>
-
-Meclofenamic acid and its salts<br />- <i>Méclofénamique (acide) et ses sels</i>
-
-Medetomidine and its salts<br />- <i>Médétomidine et ses sels</i>
-
-Mefenamic acid and its salts<br />- <i>Méfénamique (acide) et ses sels</i>
-
-Mefloquine and its salts and derivatives<br />- <i>Méfloquine, ses sels et dérivés</i>
-
-Megestrol and its salts<br />- <i>Mégestrol et ses sels</i>
-
-Melanoma therapeutic vaccine<br />- <i>Vaccin thérapeutique contre le mélanome</i>
-
-Melarsomine and its salts, when sold for the treatment of heartworm in dogs<br />- <i>Mélarsomine et ses sels, s’ils sont vendus pour le traitement du ver du coeur chez le chien</i>
-
-Meloxicam and its salts and derivatives<br />- <i>Méloxicam et ses sels et dérivés</i>
-
-Melphalan<br />- <i>Melphalan</i>
-
-Memantine and its salts<br />- <i>Mémantine et ses sels</i>
-
-Menotropins (human)<br />- <i>Ménotropines (humains)</i>
-
-Mepacrine and its salts<br />- <i>Mépacrine et ses sels</i>
-
-Mepazine and its salts<br />- <i>Mépazine et ses sels</i>
-
-Mephenoxalone<br />- <i>Méphenoxalone</i>
-
-Mephentermine and its salts<br />- <i>Méphentermine et ses sels</i>
-
-Mercaptopurine<br />- <i>Mercaptopurine</i>
-
-Meropenem and its salts and derivatives<br />- <i>Méropénem, ses sels et dérivés</i>
-
-Mesna<br />- <i>Mesna</i>
-
-Mesoridazine and its salts<br />- <i>Mésoridazine et ses sels</i>
-
-Metaldehyde<br />- <i>Métaldéhyde</i>
-
-Metformin and its salts and derivatives<br />- <i>Metformine, ses sels et dérivés</i>
-
-Methacholine chloride<br />- <i>Méthacholine (chlorure de)</i>
-
-Methazolamide and its salts<br />- <i>Méthazolamide et ses sels</i>
-
-Methicillin and its salts and derivatives<br />- <i>Méthicilline, ses sels et dérivés</i>
-
-Methimazole<br />- <i>Méthimazole</i>
-
-Methisazone<br />- <i>Méthisazone</i>
-
-Methoin (Mephenytoin) and its salts<br />- <i>Méthoïne (méphénytoine) et ses sels</i>
-
-Methotrexate and its salts<br />- <i>Méthotrexate et ses sels</i>
-
-Methotrimeprazine and its salts<br />- <i>Méthotriméprazine et ses sels</i>
-
-Methoxamine and its salts<br />- <i>Méthoxamine et ses sels</i>
-
-Methoxsalen<br />- <i>Méthoxsalène</i>
-
-Methoxy polyethylene glycol-epoetin beta<br />- <i>Méthoxy polyéthylèneglycol-époétine bêta</i>
-
-Methyldopa and its salts<br />- <i>Méthyldopa et ses sels</i>
-
-Methylparafynol<br />- <i>Méthylparafynol</i>
-
-Methysergide and its salts and derivatives<br />- <i>Méthysergide, ses sels et dérivés</i>
-
-Metoclopramide<br />- <i>Métoclopramide</i>
-
-Metolazone and its salts<br />- <i>Métolazone et ses sels</i>
-
-Metomidate and its salts<br />- <i>Métomidate et ses sels</i>
-
-Metopimazine and its salts<br />- <i>Métopimazine et ses sels</i>
-
-Metoprolol and its salts<br />- <i>Métoprolol et ses sels</i>
-
-Metronidazole<br />- <i>Métronïdazole</i>
-
-Metyrapone and its salts<br />- <i>Métyrapone et ses sels</i>
-
-Mexiletine and its salts<br />- <i>Mésiletine et ses sels</i>
-
-Mezlocillin and its salts and derivatives<br />- <i>Mézlocilline, ses sels et dérivés</i>
-
-Micafungin and its salts<br />- <i>Micafungine et ses sels</i>
-
-Miconazole and its salts (except in preparations for topical and vaginal use)<br />- <i>Miconazole et ses sels (sauf dans les préparations pour usage topique et vaginal)</i>
-
-Midodrine and its salts<br />- <i>Midodrine et ses sels</i>
-
-Miglustat<br />- <i>Miglustat</i>
-
-Milbemycin and its derivatives<br />- <i>Milbémycine et ses dérivés</i>
-
-Milrinone and its salts<br />- <i>Milrinone et ses sels</i>
-
-Minoxidil (except in solutions for topical use in concentrations of 2% or less)<br />- <i>Minoxidil (sauf dans les solutions pour usage topique où sa concentration est de 2 % ou moins)</i>
-
-Mirtazapine and its salts<br />- <i>Mirtazapine et ses sels</i>
-
-Mitomycin and its salts<br />- <i>Mitomycine et ses sels</i>
-
-Mitotane (o,p’-DDD)<br />- <i>Mitotane (o,p’-DDD)</i>
-
-Mitoxantrone and its salts<br />- <i>Mitoxantrone et ses sels</i>
-
-Mivacurium chloride<br />- <i>Mivacurium (chlorure de)</i>
-
-Modafinil and its salts<br />- <i>Modafinil et ses sels</i>
-
-Molgramostim<br />- <i>Molgramostim</i>
-
-Montelukast and its salts<br />- <i>Montélukast et ses sels</i>
-
-Moxidectin and its derivatives, when sold for the prevention of heartworm in dogs<br />- <i>Moxidectine et ses dérivés, s’ils sont vendus pour la prévention du ver du coeur chez le chien</i>
-
-Moxifloxacin and its salts and derivatives<br />- <i>Moxifloxacine, ses sels et dérivés</i>
-
-Muromonab‑CD3<br />- <i>Muromonab‑CD3</i>
-
-Mycophenolic acid and its salts and derivatives<br />- <i>Mycophénolique (acide) et ses sels et dérivés</i>
-
-Nabumetone<br />- <i>Nabumétone</i>
-
-Nadolol and its salts<br />- <i>Nadolol et ses sels</i>
-
-Nadroparin and its salts<br />- <i>Nadroparine et ses sels</i>
-
-Nafarelin and its salts and derivatives<br />- <i>Nafaréline, ses sels et dérivés</i>
-
-Nafcillin and its salts and derivatives<br />- <i>Nafcilline, ses sels et dérivés</i>
-
-Nalidixic acid<br />- <i>Nalidixique (acide)</i>
-
-Nalmefene and its salts<br />- <i>Nalméfène et ses sels</i>
-
-Naloxone and its salts<br />- <i>Naloxone et ses sels</i>
-
-Naltrexone and its salts and derivatives<br />- <i>Naltrexone, ses sels et ses dérivés</i>
-
-Naproxen and its salts, except when sold for oral use with a daily dosage of 440 mg<br />- <i>Naproxène et ses sels,sauf lorsque vendu pour administration par voie orale en dose quotidienne de 440 mg</i>
-
-Naratriptan and its salts<br />- <i>Naratriptan et ses sels</i>
-
-Natalizumab<br />- <i>Natalizumab</i>
-
-Nateglinide and its salts and derivatives<br />- <i>Natéglinide et ses sels et dérivés</i>
-
-Nedocromil and its salts<br />- <i>Nédocromil et ses sels</i>
-
-Nefazodone and its salts<br />- <i>Néfazodone et ses sels</i>
-
-Nelarabine<br />- <i>Nélarabine</i>
-
-Nelfinavir and its salts<br />- <i>Nelfinavir et ses sels</i>
-
-Neocinchophen and its salts<br />- <i>Néocinchophène et ses sels</i>
-
-Neostigmine salts<br />- <i>Néostigmine (les sels de)</i>
-
-Nepafenac<br />- <i>Népafénac</i>
-
-Netilmicin and its salts and derivatives<br />- <i>Nétilmicine, ses sels et dérivés</i>
-
-Nevirapine and its salts<br />- <i>Névirapine et ses sels</i>
-
-Nialamide and its salts<br />- <i>Nialamide et ses sels</i>
-
-Nicardipine and its salts<br />- <i>Nicardipine et ses sels</i>
-
-
-Nicotine and its salts, for human use, except
-
-**(a)** in natural substances;
-
-
-
-**(b)** in the form of a chewing gum containing 4 mg or less of nicotine per dosage unit;
-
-
-
-**(c)** in the form of a transdermal patch with a delivery rate of 22 mg or less of nicotine per day;
-
-
-
-**(d)** in a form to be administered orally by means of an inhalation device delivering 4 mg or less of nicotine per dosage unit; or
-
-
-
-**(e)** in the form of a lozenge containing 4 mg or less of nicotine per dosage unit
-
-
-
-
-*Nicotine et ses sels, destinés à l’usage humain, sauf :*
-
-**a)** *dans les substances naturelles;*
-
-
-
-**b)** *sous forme de gomme à mâcher contenant 4 mg ou moins de nicotine par unité posologique;*
-
-
-
-**c)** *sous forme de timbre cutané ayant un taux de libération de 22 mg ou moins de nicotine par jour;*
-
-
-
-**d)** *sous une forme destinée à être administrée par voie orale au moyen d’un inhalateur libérant 4 mg ou moins de nicotine par unité posologique;*
-
-
-
-**e)** *sous forme de pastille contenant 4 mg ou moins de nicotine par unité posologique*
-
-
-
-
-Nicotinic acid when sold in
-
-**(a)** a modified-release oral dosage form that provides 500 mg or more per dosage unit or per daily dose; or
-
-
-
-**(b)** an immediate-release oral dosage form that provides more than 500 mg per dosage unit or per daily dose
-
-
-
-
-*Acide nicotinique vendu sous l’une des forme suivantes :*
-
-**a)** *en forme posologique à libération modifiée fournissant, par unité posologique ou par dose quotidienne, 500 mg ou plus d’acide nicotinique administré par voie orale;*
-
-
-
-**b)** *en forme posologique à libération immédiate fournissant, par unité posologique ou par dose quotidienne, plus de 500 mg d’acide nicotinique administré par voie orale*
-
-
-
-
-
-
-Nifedipine<br />- <i>Nifédipine</i>
-
-Nilotinib and its salts<br />- <i>Nilotinib et ses sels</i>
-
-Nilutamide<br />- <i>Nilutamide</i>
-
-Nimodipine and its salts<br />- <i>Nimodipine et ses sels</i>
-
-Nitric oxide<br />- <i>Oxyde nitrique</i>
-
-Nitroscanate<br />- <i>Nitroscanate</i>
-
-Nizatidine and its salts (except when sold in an oral dosage form containing not more than the equivalent of 75 mg of nizatidine)<br />- <i>Nizatidine et ses sels (sauf lorsque vendue sous une forme posologique orale contenant au plus l’équivalent de 75 mg de nizatidine)</i>
-
-Nomifensine and its salts<br />- <i>Nomifensine et ses sels</i>
-
-Norfloxacin<br />- <i>Norfloxacine</i>
-
-Nortriptyline and its salts<br />- <i>Nortriptyline et ses sels</i>
-
-Nylidrin and its salts<br />- <i>Nylidrine et ses sels</i>
-
-Octatropine methylbromide<br />- <i>Octatropine (méthylbromure d’)</i>
-
-Octreotide<br />- <i>Octréotide</i>
-
-Ofloxacin and its salts<br />- <i>Ofloxacine et ses sels</i>
-
-Olanzapine and its salts<br />- <i>Olanzapine et ses sels</i>
-
-Olmesartan and its salts and derivatives<br />- <i>Olmésartan, ses sels et dérivés</i>
-
-Olopatadine and its salts<br />- <i>Olopatadine et ses sels</i>
-
-Olsalazine and its salts<br />- <i>Olsalazine et ses sels</i>
-
-Omalizumab<br />- <i>Omalizumab</i>
-
-Omeprazole and its salts<br />- <i>Oméprazole et ses sels</i>
-
-Ondansetron and its salts<br />- <i>Ondansétron et ses sels</i>
-
-Orbifloxacin and its salts and derivatives<br />- <i>Orbifloxacine, ses sels et dérivés</i>
-
-Orciprenaline (Metaproterenol) and its salts<br />- <i>Orciprénaline (Métaprotérénol) et ses sels</i>
-
-Orlistat<br />- <i>Orlistat</i>
-
-Ormetoprim and its salts<br />- <i>Ormétoprime et ses sels</i>
-
-Ornidazole<br />- <i>Ornidazole</i>
-
-Oseltamivir and its salts<br />- <i>Oséltamivir et ses sels</i>
-
-Oxacillin, and its salts and derivatives<br />- <i>Oxacilline, ses sels et dérivés</i>
-
-Oxaliplatin<br />- <i>Oxaliplatine</i>
-
-Oxanamide<br />- <i>Oxanamide</i>
-
-Oxaprozin and its salts and derivatives<br />- <i>Oxaprozine, ses sels et dérivés</i>
-
-Oxcarbazepine<br />- <i>Oxcarbazépine</i>
-
-Oxolinic acid and its salts<br />- <i>Oxolinique (acide) et ses sels</i>
-
-Oxprenolol and its salts<br />- <i>Oxprénolol et ses sels</i>
-
-Oxybutynin and its salts<br />- <i>Oxybutynine et ses sels</i>
-
-Oxyphenbutazone and its salts<br />- <i>Oxyphenbutazone et ses sels</i>
-
-Oxytocin<br />- <i>Oxytocine</i>
-
-Paclitaxel and its derivatives<br />- <i>Paclitaxel et ses dérivés</i>
-
-Palifermin<br />- <i>Palifermine</i>
-
-Paliperidone and its salts and derivatives<br />- <i>Palipéridone, ses sels et ses dérivés</i>
-
-Palivizumab<br />- <i>Palivizumab</i>
-
-Pamidronic acid and its salts<br />- <i>Pamidronique (acide) et ses sels</i>
-
-Pancreatic extracts, when sold in a dosage form that provides more than 20 000 USP units of lipase activity per dosage unit or indicated for the treatment of pancreatic exocrine insufficiency<br />- <i>Extraits pancréatiques, lorsque vendus sous forme posologique fournissant plus de 20 000 unités USP d’activité lipasique par unité posologique ou indiqués pour le traitement de l’insuffisance pancréatique exocrine</i>
-
-Pancreatin, when sold in a dosage form that provides more than 20 000 USP units of lipase activity per dosage unit or indicated for the treatment of pancreatic exocrine insufficiency<br />- <i>Pancréatine, lorsque vendue sous forme posologique fournissant plus de 20 000 unités USP d’activité lipasique par unité posologique ou indiquée pour le traitement de l’insuffisance pancréatique exocrine</i>
-
-Pancrelipase, when sold in a dosage form that provides more than 20 000 USP units of lipase activity per dosage unit or indicated for the treatment of pancreatic exocrine insufficiency<br />- <i>Pancrélipase, lorsque vendue sous forme posologique fournissant plus de 20 000 unités USP d’activité lipasique par unité posologique ou indiquée pour le traitement de l’insuffisance pancréatique exocrine</i>
-
-Pancuronium and its salts<br />- <i>Pancuronium et ses sels</i>
-
-Panitumumab<br />- <i>Panitumumab</i>
-
-Pantoprazole and its salts<br />- <i>Pantoprazole et ses sels</i>
-
-Paraldehyde<br />- <i>Paraldéhyde</i>
-
-Paramethadione<br />- <i>Paraméthadione</i>
-
-Pargyline and its salts<br />- <i>Pargyline et ses sels</i>
-
-Paricalcitol<br />- <i>Paricalcitol</i>
-
-Paroxetine and its salts<br />- <i>Paroxétine et ses sels</i>
-
-Pegaptanib and its salts<br />- <i>Pegaptanib et ses sels</i>
-
-Pegfilgrastim<br />- <i>Pegfilgrastim</i>
-
-Pegvisomant<br />- <i>Pegvisomant</i>
-
-Pemetrexed and its salts<br />- <i>Pémétrexed et ses sels</i>
-
-Penciclovir and its salts<br />- <i>Penciclovir et ses sels</i>
-
-Penicillamine<br />- <i>Pénicillamine</i>
-
-Pentamidine and its salts<br />- <i>Pentamidine et ses sels</i>
-
-Pentolinium tartrate<br />- <i>Pentolinium (tartrate de)</i>
-
-Pentosan polysulfate and its salts<br />- <i>Pentosane polysulfate et ses sels</i>
-
-Pentostatin and its salts<br />- <i>Pentostatine et ses sels</i>
-
-Pentoxifylline and its salts<br />- <i>Pentoxifylline et ses sels</i>
-
-Perflutren<br />- <i>Perflutrène</i>
-
-Pergolide and its salts<br />- <i>Pergolide et ses sels</i>
-
-Pericyazine and its salts<br />- <i>Péricyazine et ses sels</i>
-
-Perindopril and its salts<br />- <i>Périndopril et ses sels</i>
-
-Perphenazine and its salts<br />- <i>Perphénazine et ses sels</i>
-
-Phacetoperane and its salts<br />- <i>Phacétopérane et ses sels</i>
-
-Phenacemide<br />- <i>Phénacémide</i>
-
-Phenacetin<br />- <i>Phénacétine</i>
-
-Phenaglycodol<br />- <i>Phénaglycodol</i>
-
-Phenazopyridine and its salts<br />- <i>Phénazopyridine et ses sels</i>
-
-Phenelzine and its salts<br />- <i>Phénelzine et ses sels</i>
-
-Phenformin and its salts<br />- <i>Phenformine et ses sels</i>
-
-Pheniprazine and its salts<br />- <i>Phéniprazine et ses sels</i>
-
-Phenthoxate and its salts<br />- <i>Phentoxate et ses sels</i>
-
-Phentolamine and its salts<br />- <i>Phentolamine et ses sels</i>
-
-Phenylbutazone and its salts<br />- <i>Phénylbutazone et ses sels</i>
-
-Phenylephrine and its salts in preparations for ophthalmic or parenteral use in concentrations greater than 2.5%<br />- <i>Phényléphrine et ses sels dans les préparations pour usage ophtalmique ou parentéral lorsqu’il constitue plus de 2,5% d’un mélange</i>
-
-Phenylindanedione and its derivatives<br />- <i>Phénylindanédione et ses dérivés</i>
-
-Phenylpropanolamine and its salts and derivatives for veterinary use<br />- <i>Phénylpropanolamine, ses sels et dérivés, destinés à l’usage vétérinaire</i>
-
-Pilocarpine and its salts<br />- <i>Pilocarpine et ses sels</i>
-
-Pimecrolimus<br />- <i>Pimécrolimus</i>
-
-Pimobendan<br />- <i>Pimobendan</i>
-
-Pimozide<br />- <i>Pimozide</i>
-
-Pinaverium bromide<br />- <i>Pinavérium (bromure de)</i>
-
-Pindolol and its salts<br />- <i>Pindolol et ses sels</i>
-
-Pioglitazone and its salts<br />- <i>Pioglitazone et ses sels</i>
-
-Pipecuronium bromide<br />- <i>Pipécuronium (bromure de)</i>
-
-Piperacetazine and its salts<br />- <i>Pipéracétazine et ses sels</i>
-
-Piperilate and its salts<br />- <i>Pipérilate et ses sels</i>
-
-Pipotiazine and its salts<br />- <i>Pipotiazine et ses sels</i>
-
-Pipobroman<br />- <i>Pipobroman</i>
-
-Pirbuterol and its salts<br />- <i>Pirbutérol et ses sels</i>
-
-Pirenzepine and its salts<br />- <i>Pirenzépine et ses sels</i>
-
-Pirlimycin and its salts<br />- <i>Pirlimycine et ses sels</i>
-
-Piroxicam and its salts<br />- <i>Piroxicam et ses sels</i>
-
-Pizotyline and its salts<br />- <i>Pizotyline et ses sels</i>
-
-
-Podophyllum and the following extracts and active principles, when sold or recommended for topical use:
-
-**(a)** podophyllotoxin
-
-
-
-**(b)** podophyllum resin
-
-
-
-
-*Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recommandés pour usage topique :*
-
-**a)** *podophyllotoxine*
-
-
-
-**b)** *podophyllum (résine de)*
-
-
-
-
-
-
-Polysulfated glycosaminoglycan<br />- <i>Glycosaminoglycan polysulfaté</i>
-
-Ponazuril<br />- <i>Ponazuril</i>
-
-Poractant alfa<br />- <i>Poractant alfa</i>
-
-Porfimer and its salts<br />- <i>Porfimère et ses sels</i>
-
-Posaconazole<br />- <i>Posaconazole</i>
-
-Potassium bromide<br />- <i>Bromure de potassium</i>
-
-Potassium gluconate, when sold or recommended for administration to cats<br />- <i>Potassium (gluconate de), lorsqu’il est vendu ou recommandé pour administration aux chats</i>
-
-Potassium para-aminobenzoate (except in preparations for topical use on the skin)<br />- <i>Potassium (para-aminobenzoate de) (sauf dans les préparations pour usage topique sur la peau)</i>
-
-Pralidoxime and its salts<br />- <i>Pralidoxime et ses sels</i>
-
-Pramipexole and its salts<br />- <i>Pramipexole et ses sels</i>
-
-Pravastatin and its salts<br />- <i>Pravastatine et ses sels</i>
-
-Praziquantel, except when sold for the treatment of the tapeworm Anoplocephala perfoliata in horses<br />- <i>Praziquantel, sauf s’il est vendu pour le traitement du ver solitaire Anoplocephala perfoliata chez les chevaux</i>
-
-Prazosin and its salts<br />- <i>Prazosine et ses sels</i>
-
-Pregabalin and its salts and derivatives<br />- <i>Prégabaline, ses sels et ses dérivés</i>
-
-Prenylamine and its salts<br />- <i>Prénylamine et ses sels</i>
-
-Primaquine and its salts<br />- <i>Primaquine et ses sels</i>
-
-Probenecid and its salts<br />- <i>Probénécide et ses sels</i>
-
-Probucol<br />- <i>Probucol</i>
-
-Procainamide and its salts<br />- <i>Procainamide et ses sels</i>
-
-Procarbazine and its salts<br />- <i>Procarbazine et ses sels</i>
-
-Procaterol and its salts<br />- <i>Procatérol et ses sels</i>
-
-Prochlorperazine and its salts<br />- <i>Prochlorpérazine et ses sels</i>
-
-Procyclidine and its salts<br />- <i>Procyclidine et ses sels</i>
-
-Prodilidine and its salts<br />- <i>Prodilidine et ses sels</i>
-
-Profenamine and its salts<br />- <i>Profénamine et ses sels</i>
-
-Proguanil and its salts<br />- <i>Proguanil et ses sels</i>
-
-Propafenone and its salts<br />- <i>Propafénone et ses sels</i>
-
-Propofol<br />- <i>Propofol</i>
-
-Propranolol and its salts<br />- <i>Propranolol et ses sels</i>
-
-Prostaglandins and their salts and derivatives<br />- <i>Prostaglandines, leurs sels et dérivés</i>
-
-Prothipendyl hydrochloride<br />- <i>Prothipendyl (chlorhydrate de)</i>
-
-Protirelin<br />- <i>Protireline</i>
-
-Protriptyline and its salts<br />- <i>Protriptyline et ses sels</i>
-
-Pyrazinamide<br />- <i>Pyrazinamide</i>
-
-Pyridostigmine bromide<br />- <i>Pyridostigmine (bromure de)</i>
-
-Pyrimethamine and its salts<br />- <i>Pyriméthamine et ses sels</i>
-
-Quetiapine and its salts<br />- <i>Quétiapine et ses sels</i>
-
-Quinagolide and its salts<br />- <i>Quinagolide et ses sels</i>
-
-Quinapril and its salts and derivatives<br />- <i>Quinapril, ses sels et dérivés</i>
-
-Quinine and its salts and derivatives, except when sold in oral dosage form that provides 50 mg or less of quinine base per dosage unit or per daily dose<br />- <i>Quinine, ses sels et dérivés, sauf lorsque vendus en unité posologique orale fournissant 50 mg ou moins de quinine basique par unité posologique ou par dose quotidienne</i>
-
-Quinupristin and its salts<br />- <i>Quinupristine et ses sels</i>
-
-Rabeprazole and its salts<br />- <i>Rabéprazole et ses sels</i>
-
-Raloxifene and its salts<br />- <i>Raloxifène et ses sels</i>
-
-Raltegravir and its salts<br />- <i>Raltégravir et ses sels</i>
-
-Raltitrexed and its salts and derivatives<br />- <i>Raltitrexed, ses sels et dérivés</i>
-
-Ramipril and its salts and derivatives<br />- <i>Ramipril, ses sels et dérivés</i>
-
-Ranibizumab<br />- <i>Ranibizumab</i>
-
-Ranitidine and its salts, except when sold in concentrations of 150 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Ranitidine et ses sels, sauf s’ils sont vendus en une concentration de 150 mg ou moins par unité posologique orale et indiqués pour le traitement des brûlures d’estomac</i>
-
-Rasagiline and its salts<br />- <i>Rasagiline et ses sels</i>
-
-Rasburicase<br />- <i>Rasburicase</i>
-
-Raubasine and its salts<br />- <i>Raubasine et ses sels</i>
-
-Rauwolfia<br />- <i>Rauwolfia</i>
-
-Remoxipride and its salts<br />- <i>Rémoxipride et ses sels</i>
-
-Repaglinide and its salts and derivatives<br />- <i>Répaglinide et ses sels et dérivés</i>
-
-Rescinnamine and its salts<br />- <i>Rescinnamine et ses sels</i>
-
-Resocortol and its derivatives<br />- <i>Résocortol et ses dérivés</i>
-
-Retapamulin<br />- <i>Rétapamuline</i>
-
-Reviparin and its salts<br />- <i>Réviparine et ses sels</i>
-
-Ribavirin<br />- <i>Ribavirine</i>
-
-Rifabutin and its salts<br />- <i>Rifabutine et ses sels</i>
-
-Rifampin and its salts and derivatives<br />- <i>Rifampine, ses sels et dérivés</i>
-
-Riluzole and its salts<br />- <i>Riluzole et ses sels</i>
-
-Risedronic acid and its salts<br />- <i>Acide risédronique et ses sels</i>
-
-Risperidone and its salts<br />- <i>Rispéridone et ses sels</i>
-
-Ritodrine and its salts<br />- <i>Ritodrine et ses sels</i>
-
-Ritonavir<br />- <i>Ritonavir</i>
-
-Rituximab<br />- <i>Rituximab</i>
-
-Rivaroxaban<br />- <i>Rivaroxaban</i>
-
-Rivastigmine and its salts<br />- <i>Rivastigmine et ses sels</i>
-
-Rizatriptan and its salts<br />- <i>Rizatriptan et ses sels</i>
-
-Rocuronium bromide<br />- <i>Rocuronium (bromure de)</i>
-
-Rofecoxib<br />- <i>Rofécoxib</i>
-
-Romifidine and its salts<br />- <i>Romifidine et ses sels</i>
-
-Romiplostim<br />- <i>Romiplostim</i>
-
-Ropinirole and its salts<br />- <i>Ropinirole et ses sels</i>
-
-Rosiglitazone and its salts<br />- <i>Rosiglitazone et ses sels</i>
-
-Rosoxacin and its salts<br />- <i>Rosoxacine et ses sels</i>
-
-Rosuvastatin and its salts<br />- <i>Rosuvastatine et ses sels</i>
-
-Salbutamol and its salts<br />- <i>Salbutamol et ses sels</i>
-
-Salmeterol and its salts<br />- <i>Salmetérol et ses sels</i>
-
-Salsalate and its salts and derivatives<br />- <i>Salsalate, ses sels et dérivés</i>
-
-Saquinavir and its salts and derivatives<br />- <i>Saquinavir, ses sels et dérivés</i>
-
-Saralasin and its salts<br />- <i>Saralasine et ses sels</i>
-
-Sargramostim<br />- <i>Sargramostim</i>
-
-Selegiline and its salts<br />- <i>Sélégiline et ses sels</i>
-
-Sermorelin and its salts<br />- <i>Sermoréline et ses sels</i>
-
-Sertraline and its salts<br />- <i>Sertraline et ses sels</i>
-
-Sevelamer and its salts<br />- <i>Sévélamer et ses sels</i>
-
-Sibutramine and its salts<br />- <i>Sibutramine et ses sels</i>
-
-Sildenafil and its salts<br />- <i>Sildénafil et ses sels</i>
-
-Simvastatin<br />- <i>Simvastatine</i>
-
-Sirolimus and its derivatives<br />- <i>Sirolimus et ses dérivés</i>
-
-Sitagliptin and its salts<br />- <i>Sitagliptine et ses sels</i>
-
-Sitaxentan and its salts<br />- <i>Sitaxentan et ses sels</i>
-
-Sodium aurothiomalate<br />- <i>Aurothiomalate de sodium</i>
-
-Sodium bromide<br />- <i>Bromure de sodium</i>
-
-Sodium nitroprusside and its salts<br />- <i>Sodium (nitroprussiate de) et ses sels</i>
-
-Sodium polystyrene sulfonate<br />- <i>Sulfonate de polystyrène de sodium</i>
-
-Solifenacin and its salts<br />- <i>Solifénacine et ses sels</i>
-
-Somatostatin<br />- <i>Somatostatine</i>
-
-Somatrem<br />- <i>Somatrem</i>
-
-Somatropin<br />- <i>Somatropine</i>
-
-Sorafenib and its salts<br />- <i>Sorafénib et ses sels</i>
-
-Sotalol and its salts<br />- <i>Sotalol et ses sels</i>
-
-Spironolactone<br />- <i>Spironolactone</i>
-
-Stavudine<br />- <i>Stavudine</i>
-
-Streptozocin<br />- <i>Streptozocine</i>
-
-Strontium bromide<br />- <i>Bromure de strontium</i>
-
-Succinimide and its salts and derivatives (except those compounds used for decontaminating water)<br />- <i>Succinimide, ses sels et dérivés (sauf les produits utilisés pour décontaminer l’eau)</i>
-
-Sucralfate<br />- <i>Sucralfate</i>
-
-Sulconazole and its salts<br />- <i>Sulconazole et ses sels</i>
-
-Sulfinpyrazone and its salts<br />- <i>Sulfinpyrazone et ses sels</i>
-
-Sulindac and its salts<br />- <i>Sulindac et ses sels</i>
-
-Sulphones and their derivatives<br />- <i>Sulphones et leurs dérivés</i>
-
-Sumatriptan and its salts<br />- <i>Sumatriptan et ses sels</i>
-
-Sunitinib and its salts<br />- <i>Sunitinib et ses sels</i>
-
-Suprofen and its salts<br />- <i>Suprofène et ses sels</i>
-
-Suxamethonium chloride<br />- <i>Suxaméthonium (chlorure de)</i>
-
-Tacrolimus and its derivatives<br />- <i>Tacrolimus et ses dérivés</i>
-
-Tadalafil and its salts<br />- <i>Tadalafil et ses sels</i>
-
-Tamoxifen and its salts<br />- <i>Tamoxifène et ses sels</i>
-
-Tamsulosin and its salts<br />- <i>Tamsulosine et ses sels</i>
-
-Tazarotene<br />- <i>Tazarotène</i>
-
-Tazobactam and its salts and derivatives<br />- <i>Tazobactam, ses sels et dérivés</i>
-
-Teflubenzuron<br />- <i>Teflubenzuron</i>
-
-Tegafur and its salts<br />- <i>Tégafur et ses sels</i>
-
-Tegaserod and its salts<br />- <i>Tégasérod et ses sels</i>
-
-Telbivudine<br />- <i>Telbivudine</i>
-
-Telithromycin and its salts and derivatives<br />- <i>Télithromycine et ses sels et dérivés</i>
-
-Telmisartan and its salts and derivatives<br />- <i>Telmisartan et ses sels et dérivés</i>
-
-Temozolomide and its salts<br />- <i>Témozolomide et ses sels</i>
-
-Tenecteplase and its salts and derivatives<br />- <i>Ténectéplase et ses sels et dérivés</i>
-
-Teniposide<br />- <i>Téniposide</i>
-
-Tenofovir and its salts and derivatives<br />- <i>Ténofovir et ses sels et dérivés</i>
-
-Tenoxicam and its salts<br />- <i>Ténoxicam et ses sels</i>
-
-Terazosin and its salts<br />- <i>Térazosine et ses sels</i>
-
-Terbinafine and its salts<br />- <i>Terbinafine et ses sels</i>
-
-Terbutaline and its salts<br />- <i>Terbutaline et ses sels</i>
-
-Terconazole and its salts<br />- <i>Terconazole et ses sels</i>
-
-Terfenadine and its salts<br />- <i>Terfénadine et ses sels</i>
-
-Teriparatide and its salts<br />- <i>Tériparatide et ses sels</i>
-
-Terlipressin and its salts<br />- <i>Terlipressine et ses sels</i>
-
-Tetrabenazine and its salts<br />- <i>Tétrabénazine et ses sels</i>
-
-Thalidomide<br />- <i>Thalidomide</i>
-
-Theophylline and its salts<br />- <i>Théophylline et ses sels</i>
-
-Thiethylperazine and its salts<br />- <i>Thiéthylpérazine et ses sels</i>
-
-Thiocarlide<br />- <i>Thiocarlide</i>
-
-Thioguanine<br />- <i>Thioguanine</i>
-
-Thiopropazate and its salts<br />- <i>Thiopropazate et ses sels</i>
-
-Thioproperazine and its salts<br />- <i>Thiopropérazine et ses sels</i>
-
-Thioridazine and its salts<br />- <i>Thioridazine et ses sels</i>
-
-Thiotepa<br />- <i>Thiotépa</i>
-
-Thiothixene and its salts<br />- <i>Thiothixène et ses sels</i>
-
-Thiouracil and its derivatives<br />- <i>Thiouracile et ses dérivés</i>
-
-Thyrotropin alfa<br />- <i>Thyrotropine alfa</i>
-
-Thyroxin and its salts<br />- <i>Thyroxine et ses sels</i>
-
-Tiaprofenic acid and its salts<br />- <i>Tiaprofénique (acide) et ses sels</i>
-
-Ticarcillin and its salts and derivatives<br />- <i>Ticarcilline, ses sels et dérivés</i>
-
-Ticlopidine and its salts<br />- <i>Ticlopidine et ses sels</i>
-
-Tigecycline<br />- <i>Tigécycline</i>
-
-Tilmicosin, except in preparations for veterinary use to be administered orally<br />- <i>Tilmicosine, sauf dans les préparations pour usage vétérinaire destinées à être administrées par voie orale</i>
-
-Tiludronic acid and its salts<br />- <i>Tiludronique (acide) et ses sels</i>
-
-Timolol and its salts<br />- <i>Timolol et ses sels</i>
-
-Tinidazole<br />- <i>Tinidazole</i>
-
-Tinzaparin and its salts<br />- <i>Tinzaparine et ses sels</i>
-
-Tioconazole and its salts (except in preparations for topical and vaginal use)<br />- <i>Tioconazole et ses sels (sauf dans les préparations pour usage topique et vaginal)</i>
-
-Tiotropium bromide<br />- <i>Tiotropium (bromure de)</i>
-
-Tipranavir and its salts<br />- <i>Tipranavir et ses sels</i>
-
-Tirofiban and its salts and derivatives<br />- <i>Tirofiban et ses sels et dérivés</i>
-
-Tizanidine and its salts<br />- <i>Tizanidine et ses sels</i>
-
-Tobramycin and its salts and derivatives<br />- <i>Tobramycine, ses sels et dérivés</i>
-
-Tocainide and its salts<br />- <i>Tocaïnide et ses sels</i>
-
-Tolazamide<br />- <i>Tolazamide</i>
-
-Tolazoline and its salts<br />- <i>Tolazoline et ses sels</i>
-
-Tolbutamide<br />- <i>Tolbutamide</i>
-
-Tolcapone<br />- <i>Tolcapone</i>
-
-Tolfenamic acid and its salts and derivatives<br />- <i>Tolfénamique (acide), ses sels et dérivés</i>
-
-Tolmetin and its salts<br />- <i>Tolmétine et ses sels</i>
-
-Tolterodine and its salts<br />- <i>Toltérodine et ses sels</i>
-
-Topiramate<br />- <i>Topiramate</i>
-
-Topotecan and its salts<br />- <i>Topotécane et ses sels</i>
-
-Torasemide and its salts<br />- <i>Torasémide et ses sels</i>
-
-Toremifene and its salts<br />- <i>Torémifène et ses sels</i>
-
-Trandolaprilat and its salts and derivatives<br />- <i>Trandolaprilat et ses sels et dérivés</i>
-
-Tranexamic acid<br />- <i>Tranexamique (acide)</i>
-
-Tranylcypromine<br />- <i>Tranylcypromine</i>
-
-Trastuzumab<br />- <i>Trastuzumab</i>
-
-Trazodone and its salts<br />- <i>Trazodone et ses sels</i>
-
-Treosulfan<br />- <i>Tréosulfan</i>
-
-Treprostinil and its salts<br />- <i>Tréprostinil et ses sels</i>
-
-Tretamine<br />- <i>Trétamine</i>
-
-Tretinoin and its salts and derivatives<br />- <i>Trétinoïne, ses sels et dérivés</i>
-
-Tretinoin (Vitamin A acid)<br />- <i>Trétinoïne (acide de vitamine A)</i>
-
-Triamterene and its salts<br />- <i>Triamtérène et ses sels</i>
-
-Tricaine and its salts<br />- <i>Tricaïne et ses sels</i>
-
-Trifluoperazine and its salts<br />- <i>Trifluopérazine et ses sels</i>
-
-Triflupromazine and its salts<br />- <i>Triflupromazine et ses sels</i>
-
-Trifluridine<br />- <i>Trifluridine</i>
-
-Trihexyphenidyl and its salts<br />- <i>Trihexyphénidyle et ses sels</i>
-
-Triiodothyropropionic acid<br />- <i>Triiodothyropropionique (acide)</i>
-
-Trilostane<br />- <i>Trilostane</i>
-
-Trimebutine and its salts<br />- <i>Trimébutine et ses sels</i>
-
-Trimethadione<br />- <i>Triméthadione</i>
-
-Trimethaphan camsylate<br />- <i>Trimétaphan (camsilate de)</i>
-
-Trimethoprim and its salts<br />- <i>Triméthoprime et ses sels</i>
-
-Trimetrexate and its salts<br />- <i>Trimétrexate et ses sels</i>
-
-Trimipramine and its salts<br />- <i>Trimipramine et ses sels</i>
-
-Trioxsalen<br />- <i>Trioxysalène</i>
-
-Troglitazone<br />- <i>Troglitazone</i>
-
-Tropicamide and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada<br />- <i>Tropicamide et ses sels dans les préparations pour usage ophtalmique ou parentéral, sauf lorsque vendu pour usage diagnostique à un optométriste enregistré dans une province du Canada</i>
-
-Trospium chloride<br />- <i>Trospium (chlorure de)</i>
-
-Trovafloxacin and its salts and derivatives<br />- <i>Trovafloxacine et ses sels et dérivés</i>
-
-
-L-Tryptophan, when sold
-
-**(a)** for human use in oral dosage form at a concentration of more than 220 mg per dosage unit or per daily dose, as a single ingredient or in combination with other ingredients; or
-
-
-
-**(b)** for human or veterinary use as a single ingredient intended for any route of administration other than oral.
-
-
-
-
-*L-Tryptophane, s’il est vendu, selon le cas :*
-
-**a)** *pour usage humain sous forme posologique orale à une concentration de plus de 220 mg par unité posologique ou par dose quotidienne, comme ingrédient unique ou en combinaison avec d’autres ingrédients;*
-
-
-
-**b)** *pour usage humain ou vétérinaire, comme ingrédient unique destiné à être administré par toute voie autre que la voie orale.*
-
-
-
-
-
-
-Tubocurarine chloride<br />- <i>Tubocurarine (chlorure de)</i>
-
-Tybamate<br />- <i>Tybamate</i>
-
-Tylosin and its salts and derivatives, when sold for the treatment of chronic colitis in dogs<br />- <i>Tylosine, ses sels et dérivés, lorsque vendu pour le traitement de la colite chronique chez le chien</i>
-
-Unoprostone and its salts and derivatives<br />- <i>Unoprostone, ses sels et dérivés</i>
-
-Uracil and its salts, when sold for the treatment of cancer<br />- <i>Uracile et ses sels, s’ils sont vendus pour le traitement du cancer</i>
-
-Uracil mustard and its salts<br />- <i>Uracile (moutarde à l’) et ses sels</i>
-
-Ursodeoxycholic acid and its salts<br />- <i>Ursodéoxycholique (acide) et ses sels</i>
-
-Ustekinumab<br />- <i>Ustekinumab</i>
-
-Valaciclovir and its salts<br />- <i>Valaciclovir et ses sels</i>
-
-Valdecoxib and its salts<br />- <i>Valdécoxib et ses sels</i>
-
-Valganciclovir and its salts and derivatives<br />- <i>Valganciclovir, ses sels et dérivés</i>
-
-Valproic acid and its salts<br />- <i>Valproïque (acide) et ses sels</i>
-
-Valrubicin and its derivatives<br />- <i>Valrubicine et ses dérivés</i>
-
-Valsartan and its salts and derivatives<br />- <i>Valsartan et ses sels et dérivés</i>
-
-Vancomycin and its salts and derivatives<br />- <i>Vancomycine, ses sels et dérivés</i>
-
-Vardenafil and its salts<br />- <i>Vardénafil et ses sels</i>
-
-Varenicline and its salts<br />- <i>Varénicline et ses sels</i>
-
-Vasopressin and its salts<br />- <i>Vasopressine et ses sels</i>
-
-Vecuronium bromide<br />- <i>Vecuronium (bromure de)</i>
-
-Vedaprofen and its salts and derivatives<br />- <i>Védaprofène et ses sels et dérivés</i>
-
-Venlafaxine and its salts<br />- <i>Venlafaxine et ses sels</i>
-
-Verapamil and its salts<br />- <i>Vérapamil et ses sels</i>
-
-Verteporfin and its salts and derivatives<br />- <i>Vertéporfine et ses sels et dérivés</i>
-
-Vidarabine<br />- <i>Vidarabine</i>
-
-Vigabatrin and its salts and derivatives<br />- <i>Vigabatrine, ses sels et dérivés</i>
-
-Vinblastine and its salts<br />- <i>Vinblastine et ses sels</i>
-
-Vincristine and its salts<br />- <i>Vincristine et ses sels</i>
-
-Vindesine and its salts<br />- <i>Vindésine et ses sels</i>
-
-Vinorelbine and its salts<br />- <i>Vinorelbine et ses sels</i>
-
-Viomycin and its salts and derivatives<br />- <i>Viomycine, ses sels et dérivés</i>
-
-Vitamin A in oral dosage form containing more than 10,000 International Units of Vitamin A per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 10,000 International Units ofVitamin A<br />- <i>Vitamine A présentée en unités posologiques orales contenant chacune plus de 10 000 unités internationales de vitamine A ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 10 000 unités internationales de vitamine A</i>
-
-Vitamin B12 with Intrinsic Factor Concentrate<br />- <i>Vitamine B12 avec concentré de facteur intrinsèque</i>
-
-Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units ofVitamin D<br />- <i>Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 1 000 unités internationales de vitamine D</i>
-
-Voriconazole<br />- <i>Voriconazole</i>
-
-Vorinostat<br />- <i>Vorinostat</i>
-
-Xanthinol nicotinate<br />- <i>Xantinol (nicotinate de)</i>
-
-Xylazine and its salts<br />- <i>Xylazine et ses sels</i>
-
-Yohimbine and its salts<br />- <i>Yohimbine et ses sels</i>
-
-Zafirlukast and its salts<br />- <i>Zafirlukast et ses sels</i>
-
-Zalcitabine and its salts<br />- <i>Zalcitabine et ses sels</i>
-
-Zanamivir and its salts and derivatives<br />- <i>Zanamivir et ses sels et dérivés</i>
-
-Zidovudine<br />- <i>Zidovudine</i>
-
-Ziprasidone and its salts<br />- <i>Ziprasidone et ses sels</i>
-
-Zoledronic acid and its salts and derivatives<br />- <i>Acide zolédronique et ses sels et dérivés</i>
-
-Zomepirac and its salts<br />- <i>Zomépirac et ses sels</i>
-
-Zopiclone and its salts<br />- <i>Zopiclone et ses sels</i>
-
-Zuclopenthixol and its salts and derivatives<br />- <i>Zuclopenthixol, ses sels et dérivés</i>
-
-
-
-## Part II
-
-
-
-Acepromazine and its salts<br />- <i>Acépromazine et ses sels</i>
-
-Acetanilide<br />- <i>Acétanilide</i>
-
-
-Adrenocortical hormones and their salts and derivatives, except
-
-**(a)** hydrocortisone or hydrocortisone acetate, when sold as a single medicinal ingredient in a concentration that provides 0.5% hydrocortisone in preparations for topical use on the skin; and
-
-
-
-**(b)** clobetasone butyrate, when sold in a concentration of 0.05% clobetasone butyrate in cream preparations for topical use on the skin
-
-
-
-
-*Hormones corticosurrénales, leurs sels et dérivés sauf les suivants :*
-
-**(a)** *l’hydrocortisone et l’acétate d’hydrocortisone vendus en tant qu’ingrédient médicinal unique dont la concentration permet un apport en hydrocortisone de 0,5 % dans les préparations pour usage topique sur la peau;*
-
-
-
-**(b)** *le butyrate de clobétasone vendu sous forme de crème contenant 0,05 % de butyrate de clobétasone pour usage topique sur la peau*
-
-
-
-
-
-
-Aminopyrine and its derivatives<br />- <i>Aminopyrine et ses dérivés</i>
-
-Amprolium and its salts<br />- <i>Amprolium et ses sels</i>
-
-Antipyrine (except preparations for topical use)<br />- <i>Antipyrine (sauf dans les préparations pour usage topique)</i>
-
-Apramycin and its salts<br />- <i>Apramycine et ses sels</i>
-
-Azithromycin and its salts and derivatives<br />- <i>Azithromycine, ses sels et dérivés</i>
-
-Calcium salts when sold for the treatment of hyperphosphatemia<br />- <i>Calcium (sels de) vendus pour le traitement de l’hyperphosphatémie</i>
-
-Chlorhexidine and its salts, when used as a topical oral preparation<br />- <i>Chlorhexidine et ses sels, dans les préparations pour usage oral topique</i>
-
-Chlorothiazide and its salts and derivatives<br />- <i>Chlorothiazide, ses sels et dérivés</i>
-
-Chlorpromazine and its salts<br />- <i>Chlorpromazine et ses sels</i>
-
-Cholestyramine resin<br />- <i>Colestyramine (résine de)</i>
-
-Clarithromycin and its salts and derivatives<br />- <i>Clarithromycine, ses sels et dérivés</i>
-
-Cyclizine<br />- <i>Cyclizine</i>
-
-Dihydrostreptomycin and its salts and derivatives<br />- <i>Dihydrostreptomycine, ses sels et dérivés</i>
-
-Dirithromycin<br />- <i>Dirithromycine</i>
-
-Ergot alkaloids and their salts<br />- <i>Ergot (alcaloïdes d’) et leurs sels</i>
-
-Erythromycin and its salts and derivatives<br />- <i>Érythromycine, ses sels et dérivés</i>
-
-Folic acid<br />- <i>Acide folique</i>
-
-Framycetin and its salts and derivatives<br />- <i>Framycétine, ses sels et dérivés</i>
-
-Furaltadone and its salts<br />- <i>Furaltadone et ses sels</i>
-
-Furazolidone and its salts<br />- <i>Furazolidone et ses sels</i>
-
-Furosemide<br />- <i>Furosémide</i>
-
-Griseofulvin and its salts and derivatives<br />- <i>Griséofulvine, ses sels et dérivés</i>
-
-Iron derivatives for parenteral use only<br />- <i>Fer, ses dérivés pour usage parentéral seulement</i>
-
-Kanamycin and its salts and derivatives<br />- <i>Kanamycine, ses sels et dérivés</i>
-
-Levamisole and its salts<br />- <i>Lévamisole et ses sels</i>
-
-Lincomycin and its salts and derivatives<br />- <i>Lincomycine, ses sels et dérivés</i>
-
-Liothyronine and its salts<br />- <i>Liothyronine et ses sels</i>
-
-Mebendazole<br />- <i>Mébendazole</i>
-
-Meclizine and its salts when sold in concentrations greater than 25 mg per dosage unit<br />- <i>Méclizine et ses sels s’ils sont vendus en une concentration supérieure à 25 mg par unité posologique</i>
-
-Neomycin and its salts and derivatives<br />- <i>Néomycine, ses sels et dérivés</i>
-
-Nicarbazin<br />- <i>Nicarbazin</i>
-
-Nitrofurantoin and its salts<br />- <i>Nitrofurantoine et ses sels</i>
-
-Novobiocin and its salts and derivatives<br />- <i>Novobiocine, ses sels et dérivés</i>
-
-Nystatin (except preparations for topical use on the skin) and its salts and derivatives<br />- <i>Nystatine (sauf dans les préparations pour usage topique sur la peau), ses sels et dérivés</i>
-
-Oleandomycin and its salts and derivatives<br />- <i>Oléandomycine, ses sels et dérivés</i>
-
-Penicillin and its salts and derivatives, (except amoxicillin, ampicillin, azlocillin, benzathine penicillin, carbenicillin, cloxacillin, dicloxacillin, hetacillin, mecillinam, methicillin, mezlocillin, nafcillin, oxacillin and ticarcillin and their salts and derivatives)<br />- <i>Pénicilline, ses sels et dérivés, (sauf amoxicilline, ampicilline, azlocilline, benzathine pénicilline, carbénicilline, cloxacilline, dicloxacilline, hétacilline, mécillinam, méthicilline, mezlocilline, nafcilline, oxacilline et ticarcilline, leurs sels et dérivés)</i>
-
-Physostigmine salicylate (except preparations for oral or topical use only)<br />- <i>Physostigmine (salicylate de), (sauf dans les préparations pour usage oral et topique seulement)</i>
-
-Polymyxin B and its salts and derivatives, (except for topical use or for local action in the oral cavity or nasal passages)<br />- <i>Polymyxine B, ses sels et dérivés, (sauf pour usage topique ou local dans la cavité buccale ou dans les voies nasales)</i>
-
-Primidone<br />- <i>Primidone</i>
-
-Promazine and its salts<br />- <i>Promazine et ses sels</i>
-
-Reserpine and its salts<br />- <i>Réserpine et ses sels</i>
-
-Ronidazole and its salts and derivatives<br />- <i>Ronidazole, ses sels et dérivés</i>
-
-
-
-
-Sex hormones, except the following:<br />- <i>Hormones sexuelles, sauf :</i>
-
-
-
-Androisoxazole<br />- <i>Androisoxazole</i>
-
-Androstanolone<br />- <i>Androstanolone</i>
-
-Androstenediol and its derivatives<br />- <i>Androstènediol et ses dérivés</i>
-
-Bolandiol and its derivatives<br />- <i>Bolandiol et ses dérivés</i>
-
-Bolasterone<br />- <i>Bolastérone</i>
-
-Bolazine<br />- <i>Bolazine</i>
-
-Boldenone and its derivatives<br />- <i>Boldénone et ses dérivés</i>
-
-Bolenol<br />- <i>Bolénol</i>
-
-Calusterone<br />- <i>Calustérone</i>
-
-Clostebol and its derivatives<br />- <i>Clostébol et ses dérivés</i>
-
-Cyproterone and its derivatives<br />- <i>Cyprotérone et ses dérivés</i>
-
-Diethylstilbestrol and its derivatives<br />- <i>Diéthylstilbestrol et ses dérivés</i>
-
-Drostanolone and its derivatives<br />- <i>Drostanolone et ses dérivés</i>
-
-Enestebol<br />- <i>Énestébol</i>
-
-Epitiostanol<br />- <i>Épitiostanol</i>
-
-Ethylestrenol<br />- <i>Éthylestrénol</i>
-
-Fluoxymesterone<br />- <i>Fluoxymestérone</i>
-
-Formebolone<br />- <i>Formébolone</i>
-
-Furazabol<br />- <i>Furazabol</i>
-
-4-Hydroxy-19-nortestosterone and its derivatives<br />- <i>Hydroxy-4-nor-19 testostérone et ses dérivés</i>
-
-Levonorgestrel, when sold in concentrations of 0.75 mg per oral dosage unit<br />- <i>Lévonorgestrel, s’il est vendu en une concentration de 0,75 mg par unité posologique orale</i>
-
-Mebolazine<br />- <i>Mébolazine</i>
-
-Megestrol and its derivatives<br />- <i>Mégestrol et ses dérivés</i>
-
-Mesabolone<br />- <i>Mésabolone</i>
-
-Mesterolone<br />- <i>Mestérolone</i>
-
-Metandienone<br />- <i>Métandiénone</i>
-
-Metenolone and its derivatives<br />- <i>Méténolone et ses dérivés</i>
-
-Methandriol<br />- <i>Méthandriol</i>
-
-Methyltestosterone and its derivatives<br />- <i>Méthyltestostérone et ses dérivés</i>
-
-Metribolone<br />- <i>Métribolone</i>
-
-Mibolerone<br />- <i>Mibolérone</i>
-
-Nandrolone and its derivatives<br />- <i>Nandrolone et ses dérivés</i>
-
-Norboletone<br />- <i>Norbolétone</i>
-
-Norclostebol and its derivatives<br />- <i>Norclostébol et ses dérivés</i>
-
-Norethandrolone<br />- <i>Noréthandrolone</i>
-
-Oxabolone and its derivatives<br />- <i>Oxabolone et ses dérivés</i>
-
-Oxandrolone<br />- <i>Oxandrolone</i>
-
-Oxymesterone<br />- <i>Oxymestérone</i>
-
-Oxymetholone<br />- <i>Oxymétholone</i>
-
-Prasterone<br />- <i>Prastérone</i>
-
-Quinbolone<br />- <i>Quinbolone</i>
-
-Stanozolol<br />- <i>Stanozolol</i>
-
-Stenbolone and its derivatives<br />- <i>Stenbolone et ses dérivés</i>
-
-Testosterone and its derivatives<br />- <i>Testostérone et ses dérivés</i>
-
-Tibolone<br />- <i>Tibolone</i>
-
-Tiomesterone<br />- <i>Tiomestérone</i>
-
-Trenbolone and its derivatives<br />- <i>Trenbolone et ses dérivés</i>
-
-Zeranol<br />- <i>Zéranol</i>
-
-
-
-
-
-
-Sodium fluoride (in solid oral dosage forms containing more than one milligram of fluoride ion)<br />- <i>Sodium (fluorure de) (sous forme posologique solide orale contenant plus d’un milligramme d’ion fluor)</i>
-
-Spectinomycin and its salts and derivatives<br />- <i>Spectinomycine, ses sels et dérivés</i>
-
-Spiramycin and its salts and derivatives<br />- <i>Spiramycine, ses sels et dérivés</i>
-
-Streptomycin and its salts and derivatives<br />- <i>Streptomycine, ses sels et dérivés</i>
-
-Sulphonamides and their salts and derivatives<br />- <i>Sulfamides, leurs sels et dérivés</i>
-
-Tetracycline and its salts and derivatives (except doxycycline when sold for intramuscular administration in caged birds)<br />- <i>Tétracycline, ses sels et dérivés (sauf doxycycline si elle est vendue pour administration intramusculaire aux oiseaux en cage)</i>
-
-Thiabendazole<br />- <i>Thiabendazole</i>
-
-Thyroid<br />- <i>Thyroïde</i>
-
-Tioconazole and its salts<br />- <i>Tioconazole et ses sels</i>
-
-Trimeprazine and its salts<br />- <i>Triméprazine et ses sels</i>
-
-Tylosin and its salts and derivatives (except when sold for the treatment of chronic colitis in dogs)<br />- <i>Tylosine, ses sels et dérivés (sauf lorsque vendu pour le traitement de la colite chronique chez le chien)</i>
-
-Veratrum album and its alkaloids and their salts<br />- <i>Veratrum album, ses alcaloïdes et leurs sels</i>
-
-Veratrum viride and its alkaloids and their salts<br />- <i>Veratrum viride, ses alcaloïdes et leurs sels</i>
-
-Virginiamycin and its salts and derivatives<br />- <i>Virginiamycine, ses sels et dérivés</i>
-
-Vitamin A<br />- <i>Vitamine A</i>
-
-Vitamin D<br />- <i>Vitamine D</i>
-
-Vitamin K, except Vitamin K1 and Vitamin K2 sold
-
-**(a)** for external use in humans; or
-
-
-
-**(b)** in an oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less
-
-
-
-
-
-*Vitamine K, sauf la vitamine K1 et la vitamine K2 vendues :*
-
-**(a)** *soit pour usage externe destiné aux humains;*
-
-
-
-**(b)** *soit sous une forme posologique orale destinée aux humains si la dose quotidienne maximale recommandée est de 0,120 mg ou moins*
-
-
-
-
-
-
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1; SOR/2011-273, ss. 1, 2; SOR/2011-274, ss. 1 to 3; SOR/2011-275, ss. 1 to 3; SOR/2012-27, s. 1; SOR/2013-89, s. 1; SOR/2013-90, s. 1; SOR/2013-113, s. 2.
+[Repealed, SOR/2013-122, s. 18]
 
 
 
