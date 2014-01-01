@@ -58,9 +58,6 @@ Sa Majesté, sur l’avis et du consentement du Sénat et de la Chambre des Comm
 
 
 
-
-**Application de la [Loi sur les justes salaires et les heures de travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-4.md)**
-
-**6** La [Loi sur les justes salaires et les heures de travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-4.md) s’applique à l’égard de la main-d’oeuvre canadienne employée à la construction du pont.
+**6** [Abrogé, 2012, ch. 19, art. 443]
 
 
