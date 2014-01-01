@@ -103,7 +103,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-**10** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur de l’avenant et de l’accord figurant à l’annexe 5 dans les soixante jours suivant cette date.
+<sup><a href='#nbp_IndB214_hq_12926'>[*]</a></sup>**10** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur de l’avenant et de l’accord figurant à l’annexe 5 dans les soixante jours suivant cette date.
+
+<a name='nbp_IndB214_hq_12926'><sup>*</sup></a>: [Note : Avenant et accord en vigueur le 10 décembre 2013, *voir* Gazette du Canada Partie I, volume 148, page 160.]<br />
 
 
 
@@ -112,7 +114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind6EC7_hq_12396'>[*]</a></sup>**11** Les articles 6 à 8 entrent en vigueur le 1<sup>er</sup> janvier de l’année civile suivant celle au cours de laquelle l’avenant et l’accord figurant à l’annexe 5 entrent en vigueur.
 
-<a name='fn_Ind6EC7_hq_12396'><sup>*</sup></a>: [Note : Articles 6 à 8 non en vigueur.]<br />
+<a name='fn_Ind6EC7_hq_12396'><sup>*</sup></a>: [Note : Articles 6 à 8 en vigueur le 1<sup>er</sup> janvier 2014, *voir* Gazette du Canada Partie I, volume 148, page 160.]<br />
 
 
 
