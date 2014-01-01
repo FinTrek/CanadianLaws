@@ -58,9 +58,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Application of [Fair Wages and Hours of Labour Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-4.md)**
-
-**6** The [Fair Wages and Hours of Labour Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-4.md) applies in respect of Canadian labour employed in the construction of the bridge.
+**6** [Repealed, 2012, c. 19, s. 443]
 
 
