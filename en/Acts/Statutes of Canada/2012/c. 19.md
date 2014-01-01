@@ -2704,7 +2704,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind9471_hq_12896'>[*]</a></sup>**444** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9471_hq_12896'><sup>*</sup></a>: [Note: Division 23 not in force.]<br />
+<a name='fn_Ind9471_hq_12896'><sup>*</sup></a>: [Note: Division 23 in force January 1, 2014, *see* SI/2013-121.]<br />
 
 
 
