@@ -103,7 +103,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Notification**
 
-**10** The Minister of Finance must cause a notice of the day on which the Protocol and the Agreement set out in Schedule 5 enter into force to be published in the Canada Gazette within 60 days after their entry into force.
+<sup><a href='#fn_IndE53_hq_13258'>[*]</a></sup>**10** The Minister of Finance must cause a notice of the day on which the Protocol and the Agreement set out in Schedule 5 enter into force to be published in the Canada Gazette within 60 days after their entry into force.
+
+<a name='fn_IndE53_hq_13258'><sup>*</sup></a>: [Note: Protocol and Agreement in force December 10, 2013, *see* Canada Gazette Part I, Volume 148, page 160.]<br />
 
 
 
@@ -112,7 +114,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind1E0C_hq_12412'>[*]</a></sup>**11** Sections 6 to 8 come into force on January 1 of the calendar year following the calendar year in which the Protocol and the Agreement set out in Schedule 5 enter into force.
 
-<a name='fn_Ind1E0C_hq_12412'><sup>*</sup></a>: [Note: Sections 6 to 8 not in force.]<br />
+<a name='fn_Ind1E0C_hq_12412'><sup>*</sup></a>: [Note: Sections 6 to 8 in force January 1, 2014, *see* Canada Gazette Part I, Volume 148, page 160.]<br />
 
 
 
