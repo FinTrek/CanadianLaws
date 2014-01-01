@@ -2704,7 +2704,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind610F_hq_12912'>[*]</a></sup>**444** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind610F_hq_12912'><sup>*</sup></a>: [Note : Section 23 non en vigueur.]<br />
+<a name='fn_Ind610F_hq_12912'><sup>*</sup></a>: [Note : Section 23 en vigueur le 1<sup>er</sup> janvier 2014, *voir* TR/2013-121.]<br />
 
 
 
