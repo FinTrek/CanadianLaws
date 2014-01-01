@@ -601,12 +601,12 @@ Sont visés par la présente définition les musées.
 
 **Conditions**
 
-- **(2)** La cession d’un tel objet et de munitions n’est permise que si, au moment où elle s’opère :
+- **(2)** La cession d’un tel objet et de munitions n’est permise que si, au moment où elle s’opère :
 	- **a)** l’entreprise est titulaire d’un permis l’autorisant à acquérir et à posséder l’objet en cause;
 	- **b)** [Abrogé, 2003, ch. 8, art. 18]
-	- **c)** le cédant n’a aucun motif de croire que l’entreprise n’est pas autorisée à acquérir et à posséder l’objet en cause;
-	- **d)** les conditions réglementaires sont remplies.
-> 1995, ch. 39, art. 24; 2003, ch. 8, art. 18
+	- **c)** le cédant n’a aucun motif de croire que l’entreprise n’est pas autorisée à acquérir et à posséder l’objet en cause.
+	- **d)** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
+> 1995, ch. 39, art. 24; 2003, ch. 8, art. 18; 2008, ch. 20, art. 3
 
 
 
@@ -1224,12 +1224,12 @@ Sont visés par la présente définition les musées.
 
 - **(4)** Les permis délivrés aux entreprises qui vendent des munitions, mais qui ne sont pas autorisées à posséder des armes à feu, des armes prohibées, des armes à autorisation restreinte, des dispositifs prohibés ou des munitions prohibées sont valides pour la période mentionnée, qui ne peut dépasser cinq ans suivant la date de délivrance.
 
-- **(5) à (6)** [Non en vigueur]
+- **(5) à (6)** [Abrogés avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 **Notification**
 
 - **(7)** Le cas échéant, le contrôleur des armes à feu notifie la prolongation aux titulaires des permis.
-> 1995, ch. 39, art. 64; 2003, ch. 8, art. 40
+> 1995, ch. 39, art. 64; 2003, ch. 8, art. 40; 2008, ch. 20, art. 3
 
 
 
@@ -2475,7 +2475,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Entrée en vigueur**
 
-<sup><a href='#nbp_Ind5999_hq_16240'>[*]</a></sup>**193** 
+<sup><a href='#nbp_Ind1E9A_hq_16239'>[*]</a></sup>**193** 
 
 - **(1)** Sous réserve du paragraphe (2), la présente loi ou telle de ses dispositions, ou toute disposition édictée ou modifiée par la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à la date ou aux dates fixées par décret.
 
@@ -2483,6 +2483,6 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 - **(2)** Dans l’éventualité où aucun décret n’est pris en application du paragraphe (1) avant le 1<sup>er</sup> janvier 2003, la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à cette date.
 
-<a name='nbp_Ind5999_hq_16240'><sup>*</sup></a>: [Note : Article 85, édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15, édictés par l’article 139, et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161; alinéa 24(2)c), édicté par 2003, ch. 8, art. 18, en vigueur le 10 avril 2005, *voir* TR/2005-27; article 97, édicté par l’article 139, abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
+<a name='nbp_Ind1E9A_hq_16239'><sup>*</sup></a>: [Note : Article 85, édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15, édictés par l’article 139, et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161; alinéa 24(2)c), édicté par 2003, ch. 8, art. 18, en vigueur le 10 avril 2005, *voir* TR/2005-27; article 97, édicté par l’article 139, abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3; alinéa 24(2)d) abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
