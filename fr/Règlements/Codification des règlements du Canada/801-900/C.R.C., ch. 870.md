@@ -6859,8 +6859,10 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**B.02.003** Lorsqu’une boisson alcoolique a une teneur en alcool de 1,1 pour cent ou plus par volume, ce pourcentage, suivi de la mention « alcool en volume » ou « alc./vol. », doit être indiqué dans l’espace principal.
-> DORS/88-418, art. 1; DORS/93-145, art. 5(F).
+**B.02.003** Lorsqu’une boisson alcoolique a une teneur en alcool de 1,1 pour cent ou plus par volume, la teneur en alcool est indiquée dans l’espace principal en pourcentage, lequel :
+- **a)** est soit suivi de la mention « alcool en volume » ou de l’abréviation « alc./vol. » ou « alc/vol »;
+- **b)** est soit inséré entre les abréviations « alc. » ou « alc » et « vol. » ou « vol ».
+> DORS/88-418, art. 1; DORS/93-145, art. 5(F); DORS/2014-9, art. 1.
 
 
 
