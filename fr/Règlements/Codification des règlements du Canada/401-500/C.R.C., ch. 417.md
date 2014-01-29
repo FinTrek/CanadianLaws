@@ -26,33 +26,36 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***déclaration de quantité nette*** s’entend de la déclaration de quantité nette dont il est question à l’article 4 de la Loi; (*declaration of net quantity*)
+***déclaration de quantité nette*** s’entend de la déclaration de quantité nette dont il est question à l’article 4 de la Loi; (*declaration of net quantity*)
 
-***emballage décoratif*** désigne un emballage sur lequel ne figure aucune indication publicitaire ou promotionnelle, si ce n’est sur le dessous et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
+***emballage décoratif*** désigne un emballage sur lequel ne figure aucune indication publicitaire ou promotionnelle, si ce n’est sur le dessous et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
 
-***Loi*** désigne la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md); (*Act*)
+***Loi*** désigne la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md); (*Act*)
 
-***principale surface exposée*** désigne
+***principale surface exposée*** désigne
 - **a)** dans le cas d’un emballage dont le côté ou une surface en particulier est exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, la superficie totale de côté ou de cette surface à l’exclusion du dessus, s’il en est,
 - **b)** dans le cas d’un emballage dont le couvercle est la partie exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, la totalité de la surface supérieure du couvercle,
 - **c)** dans le cas d’un emballage dont un côté ou une surface en particulier n’est pas exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, 40 pour cent de la surface totale de l’emballage, à l’exclusion du dessus et du dessous, s’il en est, à la condition que ce 40 pour cent puisse être exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation,
 - **d)** dans le cas où l’emballage est un sac dont les côtés sont d’égales dimensions, la surface totale de l’un de ses côtés,
 - **e)** dans le cas où l’emballage est un sac dont les côtés sont de dimensions différentes, la surface totale de l’un de ses plus grands côtés, et
-- **f)** dans le cas où l’emballage est une enveloppe ou une bande, si étroite par rapport à la dimension du produit emballé qu’il n’est pas possible de dire que cet emballage a un côté ou une surface exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, tout un côté de l’étiquette mobile attachée à cet emballage; (*principal display surface*)
+- **f)** dans le cas où l’emballage est une enveloppe ou une bande, si étroite par rapport à la dimension du produit emballé qu’il n’est pas possible de dire que cet emballage a un côté ou une surface exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, tout un côté de l’étiquette mobile attachée à cet emballage,
+- **g)** malgré les alinéas a) à f) de la présente définition, dans le cas d’un contenant dans lequel le vin est exposé pour vente au consommateur, toute surface du contenant, à l’exclusion des parties supérieure et inférieure, qui peut être vue sans avoir à le tourner. (*principal display surface*)
 
-***unité canadienne*** désigne une unité de mesure indiquée à l’annexe II de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Canadian unit*)
+***unité canadienne*** désigne une unité de mesure indiquée à l’annexe II de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Canadian unit*)
 
-***unité métrique*** désigne une unité de mesure indiquée à l’annexe I de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*metric unit*)
+***unité métrique*** désigne une unité de mesure indiquée à l’annexe I de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*metric unit*)
+
+***vin*** Boisson alcoolique conforme à la norme du vin prescrite à l’article B.02.100 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
 
 ***volume nominal***[Abrogée, DORS/96-278, art. 1]
 
 - **(2)** Aux fins de la Loi et du présent règlement,
 
-***espace principal*** désigne,
+***espace principal*** désigne,
 - **a)** dans le cas d’un emballage qui comprend une carte réclame, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée de l’emballage ou entièrement ou en partie sur le côté de la carte réclame qui est exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation ou sur ces deux parties de l’emballage et de la carte réclame,
 - **b)** dans le cas d’un emballage décoratif, la partie de l’étiquette apposée, entièrement ou en partie sur le dessous de l’emballage, sur la principale surface exposée, ou sur une étiquette mobile fixée à l’emballage, et
-- **c)** dans le cas de tous les autres emballages, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée. (*principal display panel*)
-> DORS/96-278, art. 1.
+- **c)** dans le cas de tous les autres emballages, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée. (*principal display panel*)
+> DORS/96-278, art. 1; DORS/2014-8, art. 1.
 
 
 
@@ -248,6 +251,10 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 - **(3)** Lorsqu’un emballage comprend une carte réclame, la déclaration de quantité nette peut figurer dans l’espace principal de l’étiquette appliquée à l’emballage ou dans l’espace principal de l’étiquette appliquée à la carte de réclame, mais la hauteur des caractères des données numériques de la déclaration de quantité nette doit être, aux fins du paragraphe (2), proportionnée à la surface totale du côté de la carte réclame qui est exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation et non à la principale surface exposée de l’emballage.
 
 - **(4)** Tous les renseignements que porte la déclaration de quantité nette, sauf ceux dont il est question au paragraphe (2), doivent être indiqués en caractères d’au moins 1/16 de pouce (1,6 millimètre) de hauteur.
+
+- **(5)** Malgré les paragraphes (2) à (4), la déclaration de la quantité nette, sur l’étiquette d’un contenant de 750 millilitres qui mesure au plus 360 millimètres de hauteur et dans lequel un vin est exposé pour vente au consommateur, peut être indiquée en caractères d’au moins 3,3 millimètres de hauteur.
+> DORS/2014-8, art. 2.
+
 
 
 
