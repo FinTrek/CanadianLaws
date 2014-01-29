@@ -2816,7 +2816,7 @@ Non-electric lights shall so far as practicable comply with the minimum intensit
 
 
 
-**13** **High-speed Craft**<sup><a href='#footnotestar1_e'>[*]</a></sup>
+**13** **High-speed Craft**
 
 **(a)** The masthead light of high-speed craft may be placed at a height related to the breadth of the craft lower than that prescribed in subparagraph 2(a)(i) of this Annex, provided that the base angle of the isosceles triangles formed by the sidelights and masthead light, when seen in end elevation, is not less than 27°.
 
@@ -2834,9 +2834,10 @@ where
 
 
 
+#### Definition — Canadian Modification
 
 
-<a name='footnotestar1_e'><sup>*</sup></a>: Refer to the International Code of Safety for High-Speed Craft, 1994 and the International Code of Safety for High-Speed Craft, 2000.<br />
+**(c)** The term ***high-speed craft*** means a craft that has been certified in accordance with the International Code of Safety for High Speed Craft, 2000 or the International Code of Safety for High-Speed Craft, 1994.
 
 
 
@@ -3108,6 +3109,10 @@ If due to the presence of obstructions the sound field of a single whistle or of
 
 
 
+**(m)** The column under the heading “Audibility range in nautical miles” in the table to paragraph (c) and the notes after that table regarding range of audibility are not part of these Regulations.
+
+
+
 
 **2** **Bell or gong**
 
@@ -3148,7 +3153,7 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 **1** The following signals, used or exhibited either together or separately, indicate distress and need of assistance:
 
-**(a)** a gun or other explosive signal fired at intervals of about a minute;
+**(a)** a gun or other explosive signals fired at intervals of about a minute;
 
 
 
@@ -3160,11 +3165,11 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
-**(d)** a signal made by radiotelegraphy or by any other signalling method consisting of the group . . . - - - . . . (SOS) in the Morse Code;
+**(d)** a signal made by any signalling method consisting of the group …---… (SOS) in the Morse Code;
 
 
 
-**(e)** a signal sent by radiotelephony consisting of the spoken word “Mayday”;
+**(e)** a signal sent by radiotelephony consisting of the spoken word “MAYDAY”;
 
 
 
@@ -3180,7 +3185,7 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
-**(i)** a rocket parachute flare or a hand flare showing a red light;
+**(i)** a rocket parachute flare or a hand-flare showing a red light;
 
 
 
@@ -3192,11 +3197,19 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
-**(l)** the radiotelegraph alarm signal;
+**(l)** a distress alert by means of digital selective calling (DSC) transmitted on
+
+**(i)** VHF channel 70, or
 
 
 
-**(m)** the radiotelephone alarm signal;
+**(ii)** MF/HF on the frequencies 2 187.5 kHz, 8 414.5 kHz, 4 207.5 kHz, 6 312 kHz, 12 577 kHz or 16 804.5 kHz;
+
+
+
+
+
+**(m)** a ship-to-shore distress alert transmitted by the ship’s Inmarsat or other mobile satellite service provider ship earth station;
 
 
 
@@ -3204,21 +3217,17 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
-**(o)** approved signals transmitted by radiocommunication systems including survival craft transponders.
-
-
-
-**(p)** [Repealed, SOR/85-397, s. 3]
+**(o)** approved signals transmitted by radiocommunications systems, including survival craft radar transponders.
 
 
 
 
-**2** The use or exhibition of any of the foregoing signals except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals is prohibited.
+**2** The use or exhibition of any of the foregoing signals, except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals, is prohibited.
 
 
-**3** Attention is drawn to the relevant sections of the International Code of Signals, the Merchant Ship Search and Rescue Manual and the following signals:
+**3** Attention is drawn to the relevant sections of the International Code of Signals, the International Aeronautical and Maritime Search and Rescue Manual, Volume III, and the following signals:
 
-**(a)** a piece of orange canvas with either a black square and circle or other symbol appropriate for identification from the air; and
+**(a)** a piece of orange-coloured canvas with either a black square and circle or other appropriate symbol (for identification from the air); and
 
 
 
@@ -3244,10 +3253,22 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 **5** Notwithstanding section 2 and paragraph 4(b), a North Cardinal Buoy may use a quick flashing white light flashing at regular intervals of 60 times per minute.
 
 
-**6** For the purpose of section 3 of this Annex, the reference to the Merchant Ship Search and Rescue Manual shall be read as a reference to the International Aeronautical and Maritime Search and Rescue Manual (IAMSAR Manual), Volume III, Mobile Facilities, published by the Organization, as amended from time to time.
+**6** Section 3 of this Annex shall be read as follows:
+
+“The signals in the International Code of Signals and the International Aeronautical and Maritime Search and Rescue Manual, Volume III, shall be used as the circumstances require to supplement the signals described in section 1 of this Annex. The following signals are in addition to the signals described in section 1:
+
+**(a)** a piece of orange-coloured canvas with either a black square and circle or other appropriate symbol (for identification from the air); and
 
 
-> SOR/79-238, s. 2(F); SOR/83-202, s. 3; SOR/85-397, ss. 1 to 3; SOR/87-25, s. 1; SOR/88-10, ss. 1 to 4; SOR/88-322, s. 1; SOR/90-702, ss. 5 to 23; SOR/91-275, ss. 1, 2; SOR/93-112, ss. 1, 2; SOR/94-611, s. 1; SOR/96-145, ss. 1 to 8; SOR/2002-429, ss. 4(F), 5, 6 to 11(F), 12, 14(E); SOR/2003-41, ss. 1, 2; SOR/2004-27, ss. 2, 3, 4(F), 5 to 11, 12(F), 13(F), 14 to 19, 20(E); SOR/2008-272, ss. 7 to 18, 19(F), 20, 21(F), 22 to 26, 27(F), 28 to 30, 31(F), 32, 33(F), 34 to 36, 37(F), 38 to 42, 43(F), 44, 45, 46(F), 47 to 49, 50(F), 51(F).
+
+**(b)** a dye marker.”
+
+
+
+
+
+
+> SOR/79-238, s. 2(F); SOR/83-202, s. 3; SOR/85-397, ss. 1 to 3; SOR/87-25, s. 1; SOR/88-10, ss. 1 to 4; SOR/88-322, s. 1; SOR/90-702, ss. 5 to 23; SOR/91-275, ss. 1, 2; SOR/93-112, ss. 1, 2; SOR/94-611, s. 1; SOR/96-145, ss. 1 to 8; SOR/2002-429, ss. 4(F), 5, 6 to 11(F), 12, 14(E); SOR/2003-41, ss. 1, 2; SOR/2004-27, ss. 2, 3, 4(F), 5 to 11, 12(F), 13(F), 14 to 19, 20(E); SOR/2008-272, ss. 7 to 18, 19(F), 20, 21(F), 22 to 26, 27(F), 28 to 30, 31(F), 32, 33(F), 34 to 36, 37(F), 38 to 42, 43(F), 44, 45, 46(F), 47 to 49, 50(F), 51(F); SOR/2014-17, ss. 1 to 4, 5(F), 6.
 
 
 
