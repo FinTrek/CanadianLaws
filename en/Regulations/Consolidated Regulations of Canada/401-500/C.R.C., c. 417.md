@@ -26,33 +26,36 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***Act*** means the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md); (*Loi*)
+***Act*** means the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md); (*Loi*)
 
-***Canadian unit*** means a unit of measurement set out in Schedule II to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*unité canadienne*)
+***Canadian unit*** means a unit of measurement set out in Schedule II to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*unité canadienne*)
 
-***declaration of net quantity*** means the declaration of net quantity referred to in section 4 of the Act; (*déclaration de quantité nette*)
+***declaration of net quantity*** means the declaration of net quantity referred to in section 4 of the Act; (*déclaration de quantité nette*)
 
-***metric unit*** means a unit of measurement set out in Schedule I to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*unité métrique*)
+***metric unit*** means a unit of measurement set out in Schedule I to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*unité métrique*)
 
 ***nominal volume***[Repealed, SOR/96-278, s. 1]
 
-***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
 
-***principal display surface*** means,
+***principal display surface*** means,
 - **(a)** in the case of a container that has a side or surface that is displayed or visible under normal or customary conditions of sale or use, the total area of such side or surface excluding the top, if any,
 - **(b)** in the case of a container that has a lid that is the part of the container displayed or visible under normal or customary conditions of sale or use, the total area of the top surface of the lid,
 - **(c)** in the case of a container that does not have a particular side or surface that is displayed or visible under normal or customary conditions of sale or use, any 40 per cent of the total surface area of the container, excluding the top and bottom, if any, if such 40 per cent can be displayed or visible under normal or customary conditions of sale or use,
 - **(d)** in the case of a container that is a bag with sides of equal dimensions, the total area of one of the sides,
-- **(e)** in the case of a container that is a bag with sides of more than one size, the total area of one of the largest sides, and
-- **(f)** in the case of a container that is a wrapper or confining band that is so narrow in relation to the size of the product contained that it cannot reasonably be said to have any side or surface that is displayed or visible under normal or customary conditions of sale or use, the total area of one side of a ticket or tag attached to such container. (*principale surface exposée*)
+- **(e)** in the case of a container that is a bag with sides of more than one size, the total area of one of the largest sides,
+- **(f)** in the case of a container that is a wrapper or confining band that is so narrow in relation to the size of the product contained that it cannot reasonably be said to have any side or surface that is displayed or visible under normal or customary conditions of sale or use, the total area of one side of a ticket or tag attached to such container, and
+- **(g)** despite paragraphs (a) to (f) of this definition, in the case of a container of wine in which the wine is displayed for sale to consumers, any part of the surface of the container, excluding its top and bottom, that can be seen without having to turn the container; (*principale surface exposée*)
+
+***wine*** is an alcoholic beverage that meets the standard for wine set out in section B.02.100 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
 
 - **(2)** For the purposes of the Act and these Regulations,
 
-***principal display panel*** means,
+***principal display panel*** means,
 - **(a)** in the case of a container that is mounted on a display card, that part of the label applied to all or part of the principal display surface of the container or to all or part of the side of the display card that is displayed or visible under normal or customary conditions of sale or use or to both such parts of the container and the display card,
 - **(b)** in the case of an ornamental container, that part of the label applied to all or part of the bottom of the container or to all or part of the principal display surface or to all or part of a tag that is attached to the container, and
-- **(c)** in the case of all other containers, that part of the label applied to all or part of the principal display surface. (*espace principal*)
-> SOR/96-278, s. 1.
+- **(c)** in the case of all other containers, that part of the label applied to all or part of the principal display surface. (*espace principal*)
+> SOR/96-278, s. 1; SOR/2014-8, s. 1.
 
 
 
@@ -248,6 +251,10 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 - **(3)** Where a container is mounted on a display card, the declaration of net quantity may be shown on the principal display panel of the label applied to the container or on the principal display panel of the label applied to the display card but the height of the letters in the numerical quantity of the declaration of net quantity shall, for the purpose of subsection (2), be proportionate to the total area of the side of the display card that is displayed or visible under normal or customary conditions of sale or use and not to the principal display surface of the container.
 
 - **(4)** All information in the declaration of net quantity other than the information referred to in subsection (2), shall be shown in letters of not less than 1/16 inch (1.6 millimetres) in height.
+
+- **(5)** Despite subsections (2) to (4), in the case of the label on a 750 millilitre container, no taller than 360 millimetres, in which wine is displayed for sale to consumers, the declaration of net quantity may be shown in letters of not less than 3.3 millimetres in height.
+> SOR/2014-8, s. 2.
+
 
 
 
