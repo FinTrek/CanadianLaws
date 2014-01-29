@@ -6859,8 +6859,10 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**B.02.003** Where an alcoholic beverage contains 1.1 per cent or more alcohol by volume, the percentage by volume of alcohol present in the alcoholic beverage shall be shown on the principal display panel followed by the words “alcohol by volume” or the abbreviation “alc./vol.”. 
-> SOR/88-418, s. 1; SOR/93-145, s. 5(F).
+**B.02.003** If an alcoholic beverage contains 1.1% or more alcohol by volume, the percentage by volume of alcohol present in the alcoholic beverage shall be shown on the principal display panel
+- **(a)** followed by the words “alcohol by volume” or the abbreviation “alc./vol.” or “alc/vol”; or
+- **(b)** preceded by the abbreviation “alc.” or “alc” and followed by the abbreviation “vol.” or “vol”.
+> SOR/88-418, s. 1; SOR/93-145, s. 5(F); SOR/2014-9, s. 1.
 
 
 
