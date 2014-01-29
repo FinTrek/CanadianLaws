@@ -2809,7 +2809,7 @@ Les feux non électriques doivent avoir autant que possible les intensités mini
 
 
 
-**13** **Engins à grande vitesse***
+**13** **Engins à grande vitesse**
 
 **a)** Le feu de tête de mât des engins à grande vitesse peut être placé à une hauteur qui, par rapport à la largeur de l’engin, est inférieure à celle qui est prescrite au sous-alinéa 2a)(i) du présent appendice, à condition que l’angle à la base du triangle isocèle formé par le feu de tête de mât et les feux de côté, vus de face, ne soit pas inférieur à 27º.
 
@@ -2831,9 +2831,10 @@ Dans cette formule :
 
 
 
-<a name='footnotestar1_f'><sup>*</sup></a>: Se reporter au Recueil international de règles de sécurité applicables aux engins à grande vitesse de 1994 et au Recueil international de règles de sécurité applicables aux engins à grande vitesse, 2000.<br />
+#### Définition — modification canadienne
 
 
+**c)** L’expression ***engin à grande vitesse*** s’entend d’un engin certifié conformément au Recueil international de règles de sécurité applicables aux engins à grande vitesse, 2000 ou au Recueil international de règles de sécurité applicables aux engins à grande vitesse, 1994.
 
 
 
@@ -3109,6 +3110,10 @@ Si, en raison de la présence d’obstacles, le champ acoustique d’un seul sif
 
 
 
+**m) ** La colonne intitulée « Portée sonore en milles marins » du tableau de l’alinéa c) et les notes concernant la portée sonore qui figurent à la fin de ce tableau ne font pas partie du présent règlement.
+
+
+
 
 **2** **Cloche ou gong**
 
@@ -3147,7 +3152,7 @@ Les cloches et les gongs doivent être construits en un matériau résistant à 
 **APPENDICE IV** 
 ### SIGNAUX DE DÉTRESSE — INTERNATIONAL
 
-**1** Les signaux suivants, utilisés ou montrés ensemble ou séparément, traduisent la détresse et le besoin de secours :
+**1** Les signaux suivants, utilisés ou montrés ensemble ou séparément, indiquent la détresse et le besoin d’assistance :
 
 **a)** coup de canon ou autres signaux explosifs tirés à des intervalles d’une minute environ;
 
@@ -3161,19 +3166,19 @@ Les cloches et les gongs doivent être construits en un matériau résistant à 
 
 
 
-**d)** signal émis par radiotélégraphie ou par tout autre système de signalisation, se composant du groupe . . . - - - . . . (S.O.S.) du code Morse;
+**d) ** signal émis par tout système de signalisation, constitué par le groupe …_ _ _… (SOS) du code Morse;
 
 
 
-**e)** signal radiotéléphonique consistant dans le mot « Mayday »;
+**e)** signal radiotéléphonique constitué par le mot « MAYDAY »;
 
 
 
-**f)** signal de détresse N.C. du Code international de signaux;
+**f)** signal de détresse NC du Code international de signaux;
 
 
 
-**g)** signal consistant en un pavillon carré ayant, au-dessus ou en dessous, une boule ou un objet analogue;
+**g)** signal constitué par un pavillon carré avec une boule ou un objet analogue au-dessus ou en dessous;
 
 
 
@@ -3189,41 +3194,45 @@ Les cloches et les gongs doivent être construits en un matériau résistant à 
 
 
 
-**k)** mouvements lents et répétés de haut en bas des bras étendus de chaque côté;
+**k)** battements lents et répétés des bras étendus de chaque côté;
 
 
 
-**l)** signal d’alarme radiotélégraphique;
+**l)** alerte de détresse émise par appel sélectif numérique (ASN) sur :
+
+**(i)** la voie 70 en ondes métriques, ou
 
 
 
-**m)** signal d’alarme radiotéléphonique;
-
-
-
-**n)** signaux transmis par les radiobalises de localisation des sinistres;
-
-
-
-**o)** signaux approuvés transmis par des systèmes de radiocommunication, y compris les répondeurs radar des bateaux de sauvetage.
-
-
-
-**p)** [Abrogé, DORS/85-397, art. 3]
+**(ii)** les fréquences 2 187,5 kHz, 8 414,5 kHz, 4 207,5 kHz, 6 312 kHz, 12 577 kHz ou 16 804,5 kHz en ondes hectométriques/décamétriques;
 
 
 
 
-**2** Est interdit l’usage de l’un quelconque des signaux ci-dessus, sauf dans le but d’indiquer un cas de détresse ou un besoin de secours, ainsi que l’usage d’autres signaux susceptibles d’être confondus avec l’un des signaux ci-dessus.
 
-
-**3** Il convient de prêter attention aux chapitres pertinents du Code international de signaux, au Manuel de recherche et de sauvetage à l’usage des navires de commerce et aux signaux suivants :
-
-**a)** un morceau de toile de couleur orange avec soit un carré et un cercle de couleur noire, soit un autre symbole indiqué pour repérage aérien;
+**m)** alerte de détresse dans le sens navire-côtière émise par la station terrienne Inmarsat ou d’un autre prestataire de services mobiles par satellite du navire;
 
 
 
-**b)** de la teinture de balisage.
+**n)** signaux émis par les radiobalises de localisation des sinistres;
+
+
+
+**o)** signaux approuvés émis par des systèmes de radiocommunications, y compris les répondeurs radar pour embarcations et radeaux de sauvetage.
+
+
+
+
+**2** Est interdit l’usage de l’un quelconque des signaux ci-dessus, sauf dans le but d’indiquer un cas de détresse ou un besoin d’assistance, ainsi que l’usage d’autres signaux susceptibles d’être confondus avec l’un des signaux ci-dessus.
+
+
+**3** Il convient de prêter attention aux chapitres pertinents du Code international de signaux, au Manuel international de recherche et de sauvetage aéronautiques et maritimes (volume III) et aux signaux suivants :
+
+**a)** morceau de toile de couleur orange soit avec un carré et un cercle de couleur noire soit avec un autre symbole approprié (pour repérage aérien);
+
+
+
+**b)** colorant.
 
 
 
@@ -3231,7 +3240,7 @@ Les cloches et les gongs doivent être construits en un matériau résistant à 
 
 #### Signaux de détresse — Modifications canadiennes
 
-**4** Dans les eaux canadiennes ou dans les zones de pêche, en plus des signaux visés à la section 1 du présent appendice, les signaux suivants peuvent être utilisés ou montrés ensemble ou séparément dans le but d’indiquer un cas de détresse ou un besoin de secours :
+**4** Dans les eaux canadiennes ou les zones de pêche, en plus des signaux visés à la section 1 du présent appendice, les signaux ci-après peuvent être utilisés ou montrés ensemble ou séparément dans le but d’indiquer un cas de détresse ou un besoin d’assistance :
 
 **a)** une marque carrée ou un objet analogue;
 
@@ -3245,10 +3254,22 @@ Les cloches et les gongs doivent être construits en un matériau résistant à 
 **5** Par dérogation aux sections 2 et 4b), une bouée cardinale nord peut porter un feu blanc à occultation rapide, présentant des éclats à intervalles réguliers, 60 fois par minute.
 
 
-**6** Pour l’application de la section 3 du présent appendice, la mention du Manuel de recherche et de sauvetage à l’usage des navires de commerce vaut mention du Manuel international de recherche et de sauvetage aéronautiques et maritimes (Manuel IAMSAR), volume III, intitulé « Moyens mobiles », publié par l’Organisation, compte tenu de ses modifications éventuelles.
+**6** La section 3 du présent appendice est réputée être ainsi rédigée :
+
+« Les signaux du Code international de signaux et du Manuel international de recherche et de sauvetage aéronautiques et maritimes (volume III) doivent être utilisés lorsque les circonstances l’exigent pour compléter les signaux visés à la section 1 du présent appendice. Les signaux ci-après s’ajoutent aux signaux visés à la section 1 :
+
+**a)** morceau de toile de couleur orange soit avec un carré et un cercle de couleur noire soit avec un autre symbole approprié (pour repérage aérien);
 
 
-> DORS/79-238, art. 2(F); DORS/83-202, art. 3; DORS/85-397, art. 1 à 3; DORS/87-25, art. 1; DORS/88-10, art. 1 à 4; DORS/88-322, art. 1; DORS/90-702, art. 5 à 23; DORS/91-275, art. 1 et 2; DORS/93-112, art. 1 et 2; DORS/94-611, art. 1; DORS/96-145, art. 1 à 8; DORS/2002-429, art. 4(F), 5, 6 à 11(F), 12 et 14(A); DORS/2003-41, art. 1 et 2; DORS/2004-27, art. 2, 3, 4(F), 5 à 11, 12(F), 13(F), 14 à 19 et 20(A); DORS/2008-272, art. 7 à 18, 19(F), 20, 21(F), 22 à 26, 27(F), 28 à 30, 31(F), 32, 33(F), 34 à 36, 37(F), 38 à 42, 43(F), 44, 45, 46(F), 47 à 49, 50(F) et 51(F).
+
+**b)** colorant. »
+
+
+
+
+
+
+> DORS/79-238, art. 2(F); DORS/83-202, art. 3; DORS/85-397, art. 1 à 3; DORS/87-25, art. 1; DORS/88-10, art. 1 à 4; DORS/88-322, art. 1; DORS/90-702, art. 5 à 23; DORS/91-275, art. 1 et 2; DORS/93-112, art. 1 et 2; DORS/94-611, art. 1; DORS/96-145, art. 1 à 8; DORS/2002-429, art. 4(F), 5, 6 à 11(F), 12 et 14(A); DORS/2003-41, art. 1 et 2; DORS/2004-27, art. 2, 3, 4(F), 5 à 11, 12(F), 13(F), 14 à 19 et 20(A); DORS/2008-272, art. 7 à 18, 19(F), 20, 21(F), 22 à 26, 27(F), 28 à 30, 31(F), 32, 33(F), 34 à 36, 37(F), 38 à 42, 43(F), 44, 45, 46(F), 47 à 49, 50(F) et 51(F); DORS/2014-17, art. 1 à 4, 5(F) et 6.
 
 
 
