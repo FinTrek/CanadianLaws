@@ -185,7 +185,7 @@ Pérou
 
 **3** 
 
-- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus sept titulaires, dont le président et les deux vice-présidents, nommés par le gouverneur en conseil.
+- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus sept titulaires, dont le président, nommés par le gouverneur en conseil.
 
 **Vacataires**
 
@@ -206,7 +206,7 @@ Pérou
 **Nouveaux mandats des vacataires**
 
 - **(6)** Les vacataires peuvent recevoir de nouveaux mandats.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A); 2010, ch. 12, art. 1695.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A); 2010, ch. 12, art. 1695; 2012, ch. 19, art. 487.
 
 
 
@@ -256,12 +256,12 @@ Pérou
 
 **8** 
 
-- **(1)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le Tribunal peut autoriser l’un des vice-présidents à assurer l’intérim avec pleins pouvoirs.
+- **(1)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le ministre peut autoriser l’un des titulaires à assurer l’intérim avec pleins pouvoirs; l’intérim ne peut cependant dépasser soixante jours sans l’approbation du gouverneur en conseil.
 
 **Intérim des membres**
 
 - **(2)** En cas d’absence ou d’empêchement d’un titulaire autre que le président ou d’un vacataire, le gouverneur en conseil peut nommer un suppléant, aux conditions et selon les modalités qu’il fixe, pour assurer l’intérim.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 12, art. 55(A) et 61(A).
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 12, art. 55(A) et 61(A); 2012, ch. 19, art. 488.
 
 
 
