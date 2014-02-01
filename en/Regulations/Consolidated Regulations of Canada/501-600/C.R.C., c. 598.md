@@ -10,24 +10,29 @@ Enabling authorities:
 ----------
 
 
+[Repealed, P.C. 2013-1284]
+
+
 
 ## Short Title
+> [Repealed, P.C. 2013-1284]
 
 
-**1** This Order may be cited as the Ammonium Nitrate and Fuel Oil Order.
+
+**1** [Repealed, P.C. 2013-1284]
 
 
 
 
 ## Assembling and Blending
-
-
-**2** Where written permission of the Chief Inspector of Explosives is obtained, a person may assemble and blend ammonium nitrate and fuel oil in open pit mines and quarries for use therein.
+> [Repealed, P.C. 2013-1284]
 
 
 
-**3** The Chief Inspector of Explosives shall give permission to a person to assemble and blend the substances mentioned in section 2 only where he is satisfied that
-- **(a)** the proposed method of assembling and blending is a safe method; and
-- **(b)** the assembling and blending is to be carried out at the proposed blasting site for immediate use.
+**2** [Repealed, P.C. 2013-1284]
+
+
+
+**3** [Repealed, P.C. 2013-1284]
 
 
