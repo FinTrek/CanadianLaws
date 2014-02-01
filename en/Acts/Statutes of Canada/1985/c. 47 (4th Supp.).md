@@ -191,7 +191,7 @@ Peru
 
 **3** 
 
-- **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting, subject to subsection (2), of a Chairperson, two Vice-Chairpersons and not more than four other permanent members to be appointed by the Governor in Council.
+- **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting, subject to subsection (2), of a Chairperson and not more than six other permanent members to be appointed by the Governor in Council.
 
 **Temporary members**
 
@@ -212,7 +212,7 @@ Peru
 **Re-appointment of temporary members**
 
 - **(6)** A temporary member is eligible to be re-appointed on the expiration of a first or subsequent term of office.
-> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E); 2010, c. 12, s. 1695.
+> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E); 2010, c. 12, s. 1695; 2012, c. 19, s. 487.
 
 
 
@@ -264,12 +264,12 @@ Peru
 
 **8** 
 
-- **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Tribunal may authorize one of the Vice-Chairpersons to act as Chairperson for the time being, and a Vice-Chairperson so authorized has and may exercise and perform all the powers, duties and functions of the Chairperson.
+- **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Minister may authorize a permanent member to act as Chairperson but no person is authorized to act as Chairperson for a period exceeding 60 days without the approval of the Governor in Council. A permanent member so authorized has and may exercise and perform all the powers, duties and functions of the Chairperson.
 
 **Absence, etc., of other members**
 
 - **(2)** In the event of the absence or incapacity of a temporary member or a permanent member other than the Chairperson, the Governor in Council may appoint a person, on such terms and conditions as the Governor in Council may specify, to act as a substitute member for the time being.
-> R.S., 1985, c. 47 (4th Supp.), s. 8; 1999, c. 12, ss. 55(E), 61(E).
+> R.S., 1985, c. 47 (4th Supp.), s. 8; 1999, c. 12, ss. 55(E), 61(E); 2012, c. 19, s. 488.
 
 
 
