@@ -940,7 +940,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind4EF9_hq_12472'>[*]</a></sup>**169** Subsection 162(2) comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4EF9_hq_12472'><sup>*</sup></a>: [Note: Subsection 162(2) not in force.]<br />
+<a name='fn_Ind4EF9_hq_12472'><sup>*</sup></a>: [Note: Subsection 162(2) in force February 6, 2014, *see* SI/2014-7.]<br />
 
 
 
@@ -970,7 +970,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind4F6F_hq_12473'>[*]</a></sup>**172** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4F6F_hq_12473'><sup>*</sup></a>: [Note: The provisions of Division 10 not in force.]<br />
+<a name='fn_Ind4F6F_hq_12473'><sup>*</sup></a>: [Note: The provisions of Division 10 in force February 6, 2014, *see* SI/2014-8.]<br />
 
 
 
