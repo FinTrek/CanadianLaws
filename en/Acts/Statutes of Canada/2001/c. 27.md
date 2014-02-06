@@ -2337,6 +2337,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
+- **(1.2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the processing of an application for a temporary resident visa, work permit, study permit or extension of an authorization to remain in Canada as a temporary resident.
+
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
 - **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to an application referred to in subsection 11(1.01).
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
