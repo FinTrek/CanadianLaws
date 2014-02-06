@@ -940,7 +940,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5329_hq_12481'>[*]</a></sup>**169** Le paragraphe 162(2) entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5329_hq_12481'><sup>*</sup></a>: [Note : Paragraphe 162(2) non en vigueur.]<br />
+<a name='fn_Ind5329_hq_12481'><sup>*</sup></a>: [Note : Paragraphe 162(2) en vigueur le 6 février 2014, *voir* TR/2014-7.]<br />
 
 
 
@@ -970,7 +970,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5413_hq_12483'>[*]</a></sup>**172** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind5413_hq_12483'><sup>*</sup></a>: [Note : Dispositions de la section 10 non en vigueur.]<br />
+<a name='fn_Ind5413_hq_12483'><sup>*</sup></a>: [Note : Dispositions de la section 10 en vigueur le 6 février 2014, *voir* TR/2014-8.]<br />
 
 
 
