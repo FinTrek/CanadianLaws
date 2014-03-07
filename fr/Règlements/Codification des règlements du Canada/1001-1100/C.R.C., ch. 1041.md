@@ -798,8 +798,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone; ou
 	- **e)** une personne dont il a reçu une commande ou une ordonnance écrites à cet effet, signées et datées par un praticien en médecine qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
-- **(4)** S’il est autorisé à le faire par la personne à qui est confiée la charge de l’hôpital, le pharmacien qui exerce dans un hôpital peut vendre ou fournir de la marihuana séchée en vertu du paragraphe 65(2.1).
-> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14; DORS/2012-230, art. 20; DORS/2013-119, art. 212.
+- **(4)** S’il est autorisé à le faire par la personne à qui est confiée la charge de l’hôpital, le pharmacien qui exerce dans un hôpital peut vendre, fournir ou retourner de la marihuana séchée en vertu des paragraphes 65(2.1) ou (3.1) ou de l’article 65.3.
+> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14; DORS/2012-230, art. 20; DORS/2013-119, art. 212; DORS/2014-51, art. 1.
 
 
 
@@ -1202,7 +1202,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 **65** 
 
-- **(1)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre qu’un stupéfiant soit vendu, fourni ou administré si ce n’est en conformité avec le présent article.
+- **(1)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre qu’un stupéfiant soit vendu, fourni ou administré si ce n’est en conformité avec le présent article ou l’article 65.3.
 
 - **(2)** Sous réserve du paragraphe (5), la personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien, permettre qu’un stupéfiant, autre que la marihuana séchée, soit administré à une personne ou à un animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou soit vendu ou fourni pour cette même personne ou au responsable de l’animal.
 
@@ -1225,7 +1225,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(6)** Le responsable d’un hôpital peut permettre qu’un stupéfiant soit fourni à la personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à ce stupéfiant et qui est employée dans un laboratoire de recherche de cet hôpital à des fins de recherche.
 
 - **(7)** [Abrogé, DORS/2013-172, art. 8]
-> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225; DORS/2013-172, art. 8.
+> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225; DORS/2013-172, art. 8; DORS/2014-51, art. 2.
 
 
 
@@ -1239,7 +1239,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(2)** Lorsque la personne à qui la marihuana séchée est ainsi vendue ou fournie la retourne à l’hôpital, la personne à qui est confiée la charge de l’hôpital peut, sous réserve de l’alinéa (1)b), permettre que soit remplacée la même quantité que celle de la marihuana retournée.
 
 - **(3)** La quantité de marihuana séchée ainsi remplacée ne compte pas dans le calcul de la quantité totale visée à l’alinéa (1)a).
-> DORS/2013-119, art. 226.
+> DORS/2013-119, art. 226; DORS/2014-51, art. 3(A).
 
 
 
