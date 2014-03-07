@@ -800,8 +800,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(d)** a person exempted under section 56 of the Act with respect to methadone; or
 	- **(e)** a person from whom the pharmacist has received a written order or prescription therefor signed and dated by a practitioner of medicine who is exempted under section 56 of the Act with respect to methadone.
 
-- **(4)** If authorized by the person in charge of the hospital, a pharmacist practising in a hospital may sell or provide dried marihuana in accordance with subsection 65(2.1).
-> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14; SOR/2012-230, s. 20; SOR/2013-119, s. 212.
+- **(4)** If authorized by the person in charge of the hospital, a pharmacist practising in a hospital may sell, provide or return dried marihuana in accordance with subsection 65(2.1) or (3.1) or section 65.3.
+> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14; SOR/2012-230, s. 20; SOR/2013-119, s. 212; SOR/2014-51, s. 1.
 
 
 
@@ -1204,7 +1204,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **65** 
 
-- **(1)** No person in charge of a hospital shall permit a narcotic to be sold, provided or administered except in accordance with this section.
+- **(1)** No person in charge of a hospital shall permit a narcotic to be sold, provided or administered except in accordance with this section or section 65.3.
 
 - **(2)** Subject to subsection (5), on receipt of a prescription or a written order, signed and dated by a practitioner, the person in charge of a hospital may permit a narcotic other than dried marihuana to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided for the person or to the person in charge of the animal.
 
@@ -1227,21 +1227,21 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(6)** A person in charge of a hospital may permit a narcotic to be provided to a person who is exempted under section 56 of the Act with respect to the narcotic and who is employed in a research laboratory in the hospital for the purpose of research.
 
 - **(7)** [Repealed, SOR/2013-172, s. 8]
-> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8.
+> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8; SOR/2014-51, s. 2.
 
 
 
 
 **65.1** 
 
-- **(1)** The person in charge of a hospital who permits dried marihuana to be sold or provided iunder subsection 65(2.1) to an out-patient or an individual responsible for that patient shall ensure that
+- **(1)** The person in charge of a hospital who permits dried marihuana to be sold or provided under subsection 65(2.1) to an out-patient or an individual responsible for that patient shall ensure that
 	- **(a)** in any 30-day period the total quantity of dried marihuana that is sold or provided to that person does not exceed 30 times the daily quantity referred to in subparagraph 65.2(c)(iii); and
 	- **(b)** not more than 150 g of dried marihuana is sold or provided to that person at any one time.
 
 - **(2)** If the person to whom dried marihuana is sold or provided as described in subsection (1) returns it to the hospital, the person in charge of the hospital may, subject to paragraph (1)(b), permit it to be replaced with an equal quantity of dried marihuana.
 
 - **(3)** The quantity of any dried marihuana that is replaced under subsection (2) is to be excluded for the purpose of calculating the total quantity referred to in paragraph (1)(a).
-> SOR/2013-119, s. 226.
+> SOR/2013-119, s. 226; SOR/2014-51, s. 3(E).
 
 
 
