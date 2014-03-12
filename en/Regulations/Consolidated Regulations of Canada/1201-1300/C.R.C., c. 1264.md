@@ -30,18 +30,20 @@ Enabling authorities:
 
 ***Board of Examiners*** means the persons appointed pursuant to subsection 17(3) to conduct examinations for any class of licence or pilotage certificate; (*jury d’examen*)
 
-***deck watch officer*** means a person who has the immediate charge of the navigation and security of a ship, but does not include a pilot; (*officier de quart à la passerelle*)
+***deck watch officer***[Repealed, SOR/2014-36, s. 1]
 
 ***gross registered tons***[Repealed, SOR/2006-73, s. 1]
 
-***gross tons*** means gross tonnage as defined in section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md); (*jauge brute*)
+***gross tons*** means gross tonnage as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*jauge brute*)
 
 ***movage*** means the moving of a ship within a pilotage area, whether the ship is moved from one berth to another or is returned to the same berth, but does not include the warping of a ship from one berth to another solely by means of mooring lines attached to a wharf, to the shore or to a mooring buoy, unless a pilot is employed; (*déplacement*)
 
 ***offshore supply vessel*** means a highly manoeuvrable ship that is designed for the supply of offshore oil and gas installations; (*navire ravitailleur en mer*)
 
+***person in charge of the deck watch*** means a person who has the immediate charge of the navigation, communications and safety of a ship and who holds a certificate of competency that authorizes him or her to do so; (*personne chargée du quart à la passerelle*)
+
 ***pilot dispatch office*** means the Atlantic Pilotage Authority Dispatch Office as set out in the most recent annual edition of the *Notices to Mariners*, published by the Department of Fisheries and Oceans. (*bureau d’affectation des pilotes*)
-> SOR/2006-73, s. 1.
+> SOR/2006-73, s. 1; SOR/2014-36, s. 1.
 
 
 
@@ -66,7 +68,9 @@ Enabling authorities:
 	- **(a)** Canadian-registered ships over 1,500 gross tons;
 	- **(b)** ships not registered in Canada, including floating cranes;
 	- **(c)** oil rigs;
-	- **(d)** any combination of tug and tow, if more than one unit is being towed, without regard to gross tons;
+	- **(d)** any combination of tug and tow in which
+		- **(i)** the combined gross tonnage exceeds 1,500 gross tons, or
+		- **(ii)** more than one unit is being towed and the combined gross tonnage exceeds 500 gross tons;
 	- **(e)** pleasure craft over 500 gross tons; and
 	- **(f)** ferries that are entering or leaving a port that is not one of their regularly scheduled terminals.
 
@@ -74,15 +78,15 @@ Enabling authorities:
 	- **(a)** Canadian-government ships;
 	- **(b)** Canadian-registered ships that are employed in catching or processing fish or other living resources of the sea;
 	- **(c)** Canadian-registered offshore supply vessels of 5,000 gross tons or less that have an operations base in a port located within one of the areas;
-	- **(d)** ferries operating on a regular schedule between two terminals that are crewed by masters and officers in charge of the deck watch who
+	- **(d)** ferries that are operating on a regular schedule between two terminals and that are crewed by masters and persons in charge of the deck watch who
 		- **(i)** are regular members of their ferry’s complement, and
-		- **(ii)** hold certificates of competency under the [Marine Certification Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/391.md);
+		- **(ii)** hold certificates of competency under the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md);
 	- **(e)** pleasure craft of 500 gross tons or less not registered in Canada; and
-	- **(f)** tugs of 500 gross tons or less not registered in Canada that are crewed by masters and officers in charge of the deck watch who
+	- **(f)** tugs of 500 gross tons or less that are not registered in Canada and that are crewed by masters and persons in charge of the deck watch who
 		- **(i)** are regular members of their tug’s complement, and
-		- **(ii)** hold certificates of competency under the [Marine Certification Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/391.md).
+		- **(ii)** hold certificates of competency under the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md).
 
-- **(2.1)** Despite subsection (1), a ship that is 223 m (731.62 feet) or less in length is not subject to compulsory pilotage within the portion of the Cape Breton compulsory pilotage area described in paragraph 1(d) of Part III of the schedule (Zone D, Strait of Canso).
+- **(2.1)** Despite subsection (1), a ship that is 225.5 m (739.83 ft.) or less in length is not subject to compulsory pilotage within the portion of the Cape Breton compulsory pilotage area described in paragraph 1(d) of Part III of the schedule (Zone D, Strait of Canso) unless the ship is conducting operations that require it to move alongside or depart from alongside another ship.
 
 - **(2.2)** Despite subsection (1), a ship of war or vessel of war is not subject to compulsory pilotage within the Halifax compulsory pilotage area described in section 2 of Part III of the schedule if
 	- **(a)** the ship or vessel, while within that compulsory pilotage area, is under the operational command of the Commander, Maritime Command, and has been under his operational command for the 30 days before the ship or vessel entered the compulsory pilotage area; and
@@ -96,11 +100,12 @@ Enabling authorities:
 
 - **(2.5)** Despite subsection (1), a ship that is less than 15 000 gross tons is not subject to compulsory pilotage within the portion of the Voisey’s Bay compulsory pilotage area described in paragraph 2(a) of Part II of the schedule (Zone A, Outer).
 
-- **(3)** Despite subsection (2), a ship referred to in paragraph (2)(b), (c), (d), (e) or (f) is subject to compulsory pilotage if there is a risk to navigational safety because of
+- **(3)** Despite subsection (2), a ship referred to in paragraph (2)(b), (c), (d), (e) or (f) is subject to compulsory pilotage within the areas referred to in section 3 if the Authority determines that the ship poses a risk to safe navigation for any of the following reasons:
 	- **(a)** the seaworthiness of the ship;
-	- **(b)** unusual conditions on board the ship; or
-	- **(c)** weather conditions, tides, currents or ice.
-> SOR/82-52, s. 1; SOR/82-527, s. 1; SOR/86-685, s. 1; SOR/87-722, s. 1(F); SOR/90-576, s. 1; SOR/99-153, s. 1; SOR/2000-338, s. 1; SOR/2006-73, s. 2; SOR/2008-29, s. 1.
+	- **(b)** unusual conditions on board the ship;
+	- **(c)** operations being conducted by the ship; or
+	- **(d)** weather conditions, tides, currents or ice.
+> SOR/82-52, s. 1; SOR/82-527, s. 1; SOR/86-685, s. 1; SOR/87-722, s. 1(F); SOR/90-576, s. 1; SOR/99-153, s. 1; SOR/2000-338, s. 1; SOR/2006-73, s. 2; SOR/2008-29, s. 1; SOR/2014-36, s. 2.
 
 
 
@@ -139,40 +144,94 @@ Enabling authorities:
 ## Waivers
 
 
-**5** 
 
-- **(1)** The Authority may waive compulsory pilotage in respect of a ship
-	- **(a)** where the ship enters a compulsory pilotage area to embark a licensed pilot, until the ship reaches the place arranged for embarkation and the licensed pilot is embarked;
-	- **(b)** where the ship departs from a compulsory pilotage area after it has disembarked a licensed pilot, during the course of its departure;
-	- **(c)** where the ship is engaged in rescue operations;
-	- **(d)** where the ship enters a compulsory pilotage area for refuge;
-	- **(e)** where a licensed pilot is unable to board the ship owing to the stress of weather or ice conditions, without causing undue delay to the normal passage of the ship in the compulsory pilotage area; or
-	- **(f)** where the ship is in distress.
+### Boarding Stations
 
-- **(2)** Subject to subsection (3), where the owner, master or agent of a ship has complied with sections 6, 7 and 8, the Authority may waive compulsory pilotage if
+
+**5** If a boarding station is within a compulsory pilotage area, the Authority may waive compulsory pilotage in respect of the ship in either of the following circumstances:
+- **(a)** the ship is entering the compulsory pilotage area to embark a licensed pilot at the boarding station; or
+- **(b)** the ship is leaving the compulsory pilotage area after it has disembarked a licensed pilot at the boarding station.
+> SOR/81-317, s. 1; SOR/82-678, s. 1; SOR/90-576, s. 2; SOR/2000-319, s. 1; SOR/2006-73, s. 3; SOR/2014-36, s. 3.
+
+
+
+
+
+### Urgent Circumstances
+
+
+**5.1** The Authority may waive compulsory pilotage in respect of a ship in any of the following circumstances:
+- **(a)** the ship is engaged in rescue operations;
+- **(b)** the ship is entering a compulsory pilotage area for refuge;
+- **(c)** owing to weather or ice conditions, a licensed pilot is unable to board the ship without causing undue delay to the normal passage of the ship in the compulsory pilotage area; or
+- **(d)** the ship is in distress.
+> SOR/2014-36, s. 3.
+
+
+
+
+
+### Unavailability of Pilots
+
+
+**5.2** 
+
+- **(1)** Subject to subsection (2), the Authority may, on application, waive compulsory pilotage in respect of a ship in either of the following circumstances:
 	- **(a)** no licensed pilot is available to perform pilotage duties; or
 	- **(b)** one or more licensed pilots refuse to perform pilotage duties for any reason other than the safety of the ship.
 
-- **(3)** The Authority shall not waive compulsory pilotage in circumstances referred to in subsection (2) unless an application for waiver is submitted to the Authority that contains the following information:
-	- **(a)** the name, nationality, call sign, draught and gross registered tonnage of the ship;
+- **(2)** The Authority shall not waive compulsory pilotage in respect of a ship under this section unless the owner, master or agent of the ship has complied with sections 6 to 8 and the application for waiver contains the following information:
+	- **(a)** the name, nationality, call sign, draught and gross tonnage of the ship;
 	- **(b)** the immediate and ultimate destinations of the ship within the compulsory pilotage area;
 	- **(c)** the nature of any cargo on board the ship;
 	- **(d)** whether the master of the ship is familiar with the route and the marine traffic regulating system in the compulsory pilotage area; and
 	- **(e)** whether the master of the ship is prepared to proceed without the services of a pilot.
+> SOR/2014-36, s. 3.
 
-- **(4)** Notwithstanding subsection (2), the Authority may issue a written waiver of compulsory pilotage in respect of a ship if the Authority determines that the waiver will not impede safe navigation and if the ship is
-	- **(a)** specified in the waiver as being necessary for carrying out the following work or operations:
+
+
+
+
+### Extended Waivers
+
+
+**5.3** 
+
+- **(1)** If safe navigation will not be impeded, the Authority may, on application, waive compulsory pilotage in respect of a ship for a period of up to one year in any of the following circumstances:
+	- **(a)** the ship is necessary for carrying out
 		- **(i)** dredging work,
-		- **(ii)** the construction, laying or maintenance of underwater pipeline or cable or other similar facilities,
-		- **(iii)** other underwater engineering work, or
-		- **(iv)** work related to the work described in subparagraphs (i) to (iii);
-	- **(b)** engaged in salvage operations; or
-	- **(c)** [Repealed, SOR/2006-73, s. 3]
+		- **(ii)** the construction, laying or maintenance of an underwater pipeline or cable or of other similar facilities,
+		- **(iii)** other underwater engineering work,
+		- **(iv)** the construction of a wharf, pier, building or other infrastructure along a shoreline, or
+		- **(v)** work related to any work or operations set out in subparagraphs (i) to (iv);
+	- **(b)** the ship is engaged in salvage operations;
+	- **(c)** the ship is engaged in the movement of a barge within 100 m of a wharf, pier or shoreline; or
+	- **(d)** the ship is an offshore supply vessel that is engaged in operations within 150 m of its operations base.
 
-- **(5)** A waiver issued under paragraph (4)(a) is only valid for the site specified in the waiver and for proceeding to and from the harbour and, in the case of dredging work, for proceeding to or from spoil grounds within the distance specified in the waiver.
+- **(2)** A waiver under paragraph (1)(a) is valid only for a site specified in the waiver, for travel to or from any harbour specified in the waiver and, in the case of dredging work, for travel to or from any spoil grounds specified in the waiver.
 
-- **(6)** The Authority may issue a waiver under subsection (4) for a period of one year and may, if the Authority determines that the waiver will not impede safe navigation, on application, renew the waiver annually.
-> SOR/81-317, s. 1; SOR/82-678, s. 1; SOR/90-576, s. 2; SOR/2000-319, s. 1; SOR/2006-73, s. 3.
+- **(3)** A waiver under this section shall be issued in writing.
+
+- **(4)** If safe navigation will not be impeded, the Authority may, on application, renew a waiver under this section for a period of up to one year and may do so more than once.
+> SOR/2014-36, s. 3.
+
+
+
+
+
+### Conditions and Rescissions
+
+
+**5.4** The Authority may, on a waiver of compulsory pilotage, impose any conditions that are necessary to ensure safe navigation.
+> SOR/2014-36, s. 3.
+
+
+
+
+**5.5** The Authority may, at any time, rescind a waiver of compulsory pilotage in respect of a ship if
+- **(a)** a condition of the waiver is not met; or
+- **(b)** the operations of the ship impede safe navigation.
+> SOR/2014-36, s. 3.
 
 
 
@@ -257,8 +316,8 @@ Enabling authorities:
 ## Endorsements
 
 
-**12** A licence or pilotage certificate that is issued in respect of, and has endorsed thereon the name of, a compulsory pilotage area, permits the holder thereof to perform pilotage duties only in that area.
-> SOR/2006-73, s. 7(F).
+**12** A licence or pilotage certificate that is issued by the Authority for a compulsory pilotage area, and that has the name of that area endorsed on it, permits its holder to perform pilotage duties only in that area and in any approach to or from a boarding station for that area that is located outside of it.
+> SOR/2006-73, s. 7(F); SOR/2014-36, s. 4.
 
 
 
@@ -278,52 +337,125 @@ Enabling authorities:
 
 
 
-## Qualifications for Holders of Licences and Pilotage Certificates
+## Qualifications
+
+
+
+### General Qualifications
 
 
 **14** 
 
-- **(1)** The holder of a licence or pilotage certificate shall meet the following qualifications:
-	- **(a)** have obtained a mark of at least 70% in any examination with respect to the holder’s qualifications conducted by the Board of Examiners;
-	- **(b)** not less than 14 days and not more than 60 days prior to the examination referred to in paragraph (a), have been declared medically fit to perform pilotage duties;
-	- **(c)** be the holder of a Restricted Radiotelephone Operator’s certificate;
-	- **(d)** be the holder of a certificate indicating that the holder has attended and successfully completed a radar simulator course, except that holders of licences or pilotage certificates issued after January 1, 1987 shall have attended and successfully completed SEN (Simulated Electronic Navigation) and MED (Marine Emergency Duties) courses;
-	- **(e)** subject to paragraph (e.1), be the holder of a certificate of competency not lower than master, intermediate voyage, that is unlimited as to tonnage, or the equivalent, and, where the holder is to perform pilotage duties in the Saint John compulsory pilotage area of New Brunswick, in the St. John’s, Holyrood or Placentia Bay compulsory pilotage areas of Newfoundland and Labrador, or in the Halifax or Cape Breton compulsory pilotage areas of Nova Scotia, have served, within the five-year period immediately preceding the date of application to become the holder of a licence or pilotage certificate, on voyages in the relevant compulsory pilotage area for a period of at least
-		- **(i)** 18 months as master,
-		- **(ii)** one year as deck watch officer and at least one year as master, or
-		- **(iii)** three years as deck watch officer;
-	- **(e.01)** as an equivalent to the period of service at sea set out in subparagraph (e)(i), (ii) or (iii), have completed, within the five-year period and in the relevant compulsory pilotage area referred to in paragraph (e),
-		- **(i)** 30 one-way trips as master,
-		- **(ii)** 20 one-way trips as master and 20 one-way trips as deck watch officer, or
-		- **(iii)** 60 one-way trips as deck watch officer;
-	- **(e.1)** where the holder is to perform pilotage duties in any area other than a compulsory pilotage area referred to in paragraph (e).
-		- **(i)** hold a certificate of competency as master, ship of not more than 350 tons, gross tonnage, or tug, local voyage, or the equivalent, and
-		- **(ii)** undergo further training in accordance with a program approved by the Authority in order to ensure competency in the performance of pilotage duties in that area;
-	- **(f)** [Repealed, SOR/90-576, s. 5]
-	- **(g)** be able to speak and write English to the extent necessary to carry out the holder’s pilotage duties;
-	- **(h)** hold in a valid and subsisting condition every certificate that the holder was required to hold in order to obtain the licence or pilotage certificate;
-	- **(i)** meet the health qualifications set out in the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), and shall undergo medical examinations at intervals of not more than twelve months;
-	- **(j)** have local knowledge of the pilotage area in which the holder is to perform pilotage duties, including knowledge of the tides, currents, depths of water, anchorages and aids-to-navigation;
-	- **(k)** have up-to-date knowledge of the harbour and other marine regulations that apply in the pilotage area in which the holder is to perform pilotage duties, including, in so far as they apply in that pilotage area, knowledge of
-		- **(i)** the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md),
-		- **(ii)** the [Quarantine Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201368.md), and
-		- **(iii)** the Act and the regulations made pursuant thereto; and
-	- **(l)** have a good record of ship handling and navigation.
+- **(1)** In addition to meeting the navigational and health qualifications prescribed by the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), an applicant for a licence or a pilotage certificate shall
+	- **(a)** hold a Restricted Operator’s Certificate (ROC-MC);
+	- **(b)** obtain a mark of at least 70% in any examination conducted by a Board of Examiners with respect to his or her qualifications;
+	- **(c)** be declared, not less than 14 days and not more than 180 days before the date of any examination referred to in paragraph (b), medically fit to perform pilotage duties in accordance with the requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+	- **(d)** be able to speak and write English to the extent necessary to carry out pilotage duties;
+	- **(e)** have local knowledge of each pilotage area in which he or she intends to perform pilotage duties, including knowledge of the tides, currents, depths of water, anchorages and aids-to-navigation;
+	- **(f)** have up-to-date knowledge of the harbour and other marine regulations that apply in each pilotage area in which he or she intends to perform pilotage duties, including, in so far as they apply in each of the pilotage areas, knowledge of the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md), the Act and the regulations made under it; and
+	- **(g)** have a record of safe ship handling and navigation.
 
-- **(2)** In addition to the qualifications required under subsection (1), the holder of a pilotage certificate shall, while having the conduct of a ship, complete every two years at least
-	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the holder performs pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John’s or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
-	- **(b)** four one-way trips in each of the compulsory pilotage areas in which the holder performs pilotage duties, if the compulsory pilotage area is Bay of Exploits or Humber Arm in Newfoundland and Labrador or Confederation Bridge in Prince Edward Island.
-
-- **(3)** The holder of a pilotage certificate shall provide the Authority, on request, with documents confirming that the holder meets the requirements of subsection (2).
-> SOR/82-52, s. 2; SOR/83-741, s. 1; SOR/90-576, s. 5; SOR/92-679, s. 1; SOR/95-430, s. 1; SOR/98-326, s. 1; SOR/2006-73, ss. 9, 16, 17(F); SOR/2009-78, s. 5(F).
+- **(2)** The holder of a licence or pilotage certificate shall
+	- **(a)** obtain a mark of at least 70% in any examination conducted by a Board of Examiners with respect to his or her qualifications;
+	- **(b)** continue to meet the qualifications prescribed by paragraphs (1)(d) to (g); and
+	- **(c)** continue to hold every certificate that he or she was required to hold in order to obtain the licence or pilotage certificate.
+> SOR/82-52, s. 2; SOR/83-741, s. 1; SOR/90-576, s. 5; SOR/92-679, s. 1; SOR/95-430, s. 1; SOR/98-326, s. 1; SOR/2006-73, ss. 9, 16, 17(F); SOR/2009-78, s. 5(F); SOR/2014-36, s. 5.
 
 
 
 
-**15** An applicant for a licence in respect of an area that is not a compulsory pilotage area who is the holder of a licence in respect of a compulsory pilotage area meets the qualifications set out in subsection 14(1).
-> SOR/90-576, s. 6; SOR/95-430, s. 2; SOR/2006-73, s. 10(F).
+
+### Experience at Sea — Applicants
 
 
+**14.1** 
+
+- **(1)** In addition to meeting the experience at sea qualifications prescribed by the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), an applicant for a licence or a pilotage certificate for a compulsory pilotage area shall, within the five-year period immediately before the date of the application,
+	- **(a)** have served on voyages in the compulsory pilotage area for
+		- **(i)** at least 18 months as master,
+		- **(ii)** at least one year as the person in charge of the deck watch and at least one year as master, or
+		- **(iii)** at least three years as the person in charge of the deck watch; or
+	- **(b)** have completed in the compulsory pilotage area
+		- **(i)** at least 30 one-way trips as master,
+		- **(ii)** at least 20 one-way trips as master and 20 one-way trips as the person in charge of the deck watch, or
+		- **(iii)** at least 60 one-way trips as the person in charge of the deck watch.
+
+- **(2)** Instead of meeting the additional experience at sea qualifications prescribed by subsection (1), an applicant for a licence for a compulsory pilotage area may, within the two-year period immediately before the date of the application, have successfully completed a familiarity program that is established by the Authority and provides an equivalent degree of experience.
+> SOR/2014-36, s. 5.
+
+
+
+
+**14.2** 
+
+- **(1)** In addition to meeting the additional experience at sea qualifications prescribed by section 14.1, an applicant for a pilotage certificate for a compulsory pilotage area set out below shall, within the two-year period immediately before the date of the application, have completed at least 12 one-way trips in that area while being on the bridge of a ship:
+	- **(a)** the Saint John compulsory pilotage area in New Brunswick;
+	- **(b)** the Placentia Bay or St. John’s compulsory pilotage area in Newfoundland and Labrador; and
+	- **(c)** the Cape Breton or Halifax compulsory pilotage area in Nova Scotia.
+
+- **(2)** In addition to meeting the additional experience at sea qualifications prescribed by section 14.1, an applicant for a pilotage certificate for any compulsory pilotage area that is not set out in subsection (1) shall, within the two-year period immediately before the date of the application, have completed at least four one-way trips in that area while being on the bridge of a ship.
+
+- **(3)** Subsections (1) and (2) do not apply in respect of an applicant for a pilotage certificate for a compulsory pilotage area if
+	- **(a)** the applicant submits the application within the six-month period after the day on which the area was established as a compulsory pilotage area; and
+	- **(b)** the applicant provides the Board of Examiners with documents establishing that, within the five-year period before the day on which the area was established as a compulsory pilotage area, the applicant was in the area while being on the bridge of a ship that is subject to compulsory pilotage under section 4.
+> SOR/2014-36, s. 5.
+
+
+
+
+
+### Experience at Sea — Holders
+
+
+**14.3** 
+
+- **(1)** The holder of a licence for a compulsory pilotage area set out below shall, while having the conduct of a ship, complete at least 12 one-way trips in that area every two years:
+	- **(a)** the Saint John compulsory pilotage area in New Brunswick;
+	- **(b)** the Placentia Bay or St. John’s compulsory pilotage area in Newfoundland and Labrador; and
+	- **(c)** the Cape Breton or Halifax compulsory pilotage area in Nova Scotia.
+
+- **(2)** The holder of a licence for any compulsory pilotage area that is not set out in subsection (1) shall, while having the conduct of a ship, complete at least four one-way trips in that area every two years.
+
+- **(3)** Subsections (1) and (2) do not apply in respect of the holder of a licence for a compulsory pilotage area if
+	- **(a)** the Authority determines that the level of marine traffic in the compulsory pilotage area was not high enough to permit the holder to complete the prescribed number of trips within the prescribed period;
+	- **(b)** the holder completes a familiarity program established by the Authority; and
+	- **(c)** the holder demonstrates to the Authority that, within the prescribed period, he or she has gained experience equivalent to the number of trips prescribed for that area.
+> SOR/2014-36, s. 5.
+
+
+
+
+**14.4** 
+
+- **(1)** Subject to section 24, the holder of a pilotage certificate for a compulsory pilotage area set out below shall, while having the conduct of a ship, complete at least 12 one-way trips in that area every two years:
+	- **(a)** the Saint John compulsory pilotage area in New Brunswick;
+	- **(b)** the Placentia Bay or St. John’s compulsory pilotage area in Newfoundland and Labrador; and
+	- **(c)** the Cape Breton or Halifax compulsory pilotage area in Nova Scotia.
+
+- **(2)** Subject to section 24, the holder of a pilotage certificate for a compulsory pilotage area that is not set out in subsection (1) shall, while having the conduct of a ship, complete at least four one-way trips in that area every two years.
+> SOR/2014-36, s. 5.
+
+
+
+
+**14.5** The holder of a licence or a pilotage certificate shall, on request, provide the Authority with documents confirming that the holder meets, as applicable, the requirements of sections 14.3 and 14.4.
+> SOR/2014-36, s. 5.
+
+
+
+
+
+### Licences for Non-compulsory Pilotage Areas
+
+
+**15** Subsection 14(1) does not apply in respect of an applicant for a licence for a non-compulsory pilotage area if the applicant is the holder of a licence for a compulsory pilotage area.
+> SOR/90-576, s. 6; SOR/95-430, s. 2; SOR/2006-73, s. 10(F); SOR/2014-36, s. 5.
+
+
+
+
+
+### Convictions under the Act or the Criminal Code
 
 
 **16** No person shall be the holder of a licence or pilotage certificate if within the year immediately preceding the date of his application to become a holder, he has been convicted
@@ -341,72 +473,64 @@ Enabling authorities:
 
 **17** 
 
-- **(1)** For the purpose of determining whether an applicant for or the holder of a licence or pilotage certificate meets the qualifications prescribed by the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md) and these Regulations for applicants and holders, the Authority shall refer the matter to a Board of Examiners for an examination of the qualifications of that applicant or holder.
+- **(1)** For the purpose of determining whether an applicant for a licence or a pilotage certificate meets the qualifications prescribed by the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md) and these Regulations, the Authority shall refer the applicant to a Board of Examiners for an examination.
+
+- **(1.1)** For the purpose of determining whether the holder of a licence or a pilotage certificate meets the qualifications prescribed by the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md) and these Regulations, the Authority shall refer the holder to a Board of Examiners for an examination.
 
 - **(2)** Every examination shall be conducted at the time and place or places determined by the Authority and notice of the examination shall be communicated by the Authority to every applicant for a licence or pilotage certificate.
 
-- **(3)** The Board of Examiners shall be appointed by the Authority in respect of compulsory pilotage areas and areas that are not compulsory pilotage areas and
-	- **(a)** shall, in respect of compulsory pilotage areas, consist of
-		- **(i)** one representative of the Authority, who shall be the Chairman of the Board, and
-		- **(ii)** two licensed pilots who are knowledgeable about each pilotage area in which an applicant for or the holder of a licence or pilotage certificate is to perform pilotage duties; and
-	- **(b)** shall, in respect of areas that are not compulsory pilotage areas, consist of
-		- **(i)** one representative of the Authority, who shall be the Chairman of the Board, and
-		- **(ii)** one licensed pilot who is knowledgeable about each pilotage area in which an applicant for a licence is to peform pilotage duties, and where there is no pilot licensed for that pilotage area, a licensed pilot from an area that has similar navigational characteristics, appointed by the Authority.
+- **(3)** Subject to subsections (3.1) and (3.2), a Board of Examiners shall be appointed by the Authority and shall consist of one representative of the Authority, who shall be the Chairperson of the Board, and the following additional examiners:
+	- **(a)** for an examination respecting a compulsory pilotage area, two pilots who are both licensed for that area; and
+	- **(b)** for an examination respecting a non-compulsory pilotage area, one pilot who is licensed for that area.
 
-- **(4)** The Authority may appoint a person as an observer who is knowledgeable about each pilotage area where the applicant for or holder of a licence or pilotage certificate is to perform pilotage duties and to observe the conduct of any examination by the Board of Examiners and such person may, following the examination, file with the Chairman of the Authority a written report on the conduct of the examination.
-> SOR/90-576, s. 7; SOR/2006-73, ss. 11(F), 18(F).
+- **(3.1)** An additional examiner for an examination respecting a compulsory pilotage area may be replaced as follows:
+	- **(a)** if a pilot who is licensed for the compulsory pilotage area in question is unavailable, he or she may be replaced by a pilot who is knowledgeable about that area but is licensed for another compulsory pilotage area; and
+	- **(b)** if a replacement examiner described in paragraph (a) is unavailable, he or she may be replaced by a pilot who is knowledgeable about a compulsory pilotage area that has similar navigational characteristics to the compulsory pilotage area in question but is licensed for another compulsory pilotage area.
+
+- **(3.2)** The additional examiner for an examination respecting a non-compulsory pilotage area may be replaced as follows:
+	- **(a)** if a pilot who is licensed for the non-compulsory pilotage area in question is unavailable, he or she may be replaced by a pilot who is knowledgeable about that area but is licensed for any other pilotage area; and
+	- **(b)** if a replacement examiner described in paragraph (a) is unavailable, he or she may be replaced by a pilot who is knowledgeable about a pilotage area that has similar navigational characteristics to the non-compulsory pilotage area in question but is licensed for any other pilotage area.
+
+- **(4)** The Authority may appoint a person as an observer who is knowledgeable about each pilotage area where the applicant for or holder of a licence or pilotage certificate is to perform pilotage duties and to observe the conduct of any examination by the Board of Examiners and such person may, following the examination, file with the Chairperson of the Authority a written report on the conduct of the examination.
+> SOR/90-576, s. 7; SOR/2006-73, ss. 11(F), 18(F); SOR/2014-36, ss. 6, 12(E).
 
 
 
 
-**18** 
-
-- **(1)** An applicant for a licence or pilotage certificate shall, within 60 days and not later than 14 days prior to the date of the examination, provide the Authority with
-	- **(a)** documents establishing that the applicant is a Canadian citizen or a permanent resident as described in paragraph 22(2)(b) of the Act;
-	- **(b)** a birth certificate or other official document showing the date and place of birth of the applicant;
-	- **(c)** documents establishing the navigational qualifications of the applicant;
-	- **(d)** a written report of the results of the medical examination referred to in section 6 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
-	- **(e)** a letter of recommendation that includes information about the applicant’s history of ship handling and navigation from
-		- **(i)** the applicant’s most recent employer, if the applicant was employed by that employer for more than two years, or
-		- **(ii)** each of the applicant’s two most recent employers, if the applicant was employed by the most recent employer for less than two years.
-
-- **(2)** In addition to providing the information required under subsection (1), an applicant for a pilotage certificate shall have completed, within the two years before the date of the application, while being on the bridge of a ship, at least
-	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the applicant is to perform pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John’s or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
-	- **(b)** four one-way trips in each of the compulsory pilotage areas in which the applicant is to perform pilotage duties, if the compulsory pilotage area is Bay of Exploits or Humber Arm in Newfoundland and Labrador or Confederation Bridge in Prince Edward Island.
-
-- **(3)** An applicant for a pilotage certificate shall provide the Board of Examiners with documents confirming that the applicant meets the requirements of subsection (2).
-
-- **(4)** An applicant for a pilotage certificate in respect of an area that is established as a compulsory pilotage area need not comply with subsection (2) if
-	- **(a)** the application is submitted within six months of the area being established as a compulsory pilotage area; and
-	- **(b)** the applicant provides the Board of Examiners with documents establishing that the applicant was in the area, on the bridge of a ship that is subject to compulsory pilotage under section 4, within the five years prior to the area being established as a compulsory pilotage area.
-> SOR/98-326, s. 2; SOR/2006-73, ss. 12, 16, 17(F); SOR/2009-78, s. 5(F).
+**18** An applicant for a licence or a pilotage certificate shall, not less than 14 days and not more than 60 days before the date of the examination, provide the Authority with
+- **(a)** documents establishing that the applicant is a Canadian citizen or a permanent resident as described in paragraph 22(2)(b) of the Act;
+- **(b)** a birth certificate or other official document showing the date and place of birth of the applicant;
+- **(c)** documents establishing the navigational qualifications of the applicant;
+- **(d)** documents confirming, in the case of an applicant for a pilotage certificate, that he or she meets the experience at sea qualifications prescribed by sections 14.1 and 14.2;
+- **(e)** a written report of the results of the medical examination referred to in section 4 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
+- **(f)** a letter of recommendation that includes information about the applicant’s history of ship handling and navigation from
+	- **(i)** the applicant’s most recent employer, if the applicant was employed by that employer for more than two years, or
+	- **(ii)** each of the applicant’s two most recent employers, if the applicant was employed by the most recent employer for less than two years.
+> SOR/98-326, s. 2; SOR/2006-73, ss. 12, 16, 17(F); SOR/2009-78, s. 5(F); SOR/2014-36, s. 7.
 
 
 
 
 **19** The examinations conducted by the Board of Examiners may include questions relating to
-- **(a)** local knowledge of the pilotage area where the applicant intends to perform pilotage duties, including knowledge of tides, currents, depths of water, anchorages, aids to navigation and the marine traffic regulating system;
+- **(a)** local knowledge of the pilotage area in which the applicant intends to perform pilotage duties or for which the holder’s licence or pilotage certificate was issued, including knowledge of tides, currents, depths of water, anchorages, aids to navigation and the marine traffic regulating system;
 - **(b)** practical knowledge of the interpretation of radar;
-- **(c)** knowledge of the harbour and other marine regulations that apply in the pilotage area where the applicant intends to perform pilotage duties including knowledge of
-	- **(i)** the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md),
-	- **(ii)** the [Quarantine Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201368.md), and
-	- **(iii)** the Act and the regulations made pursuant thereto in so far as they apply in that pilotage area;
+- **(c)** knowledge of the harbour and other marine regulations that apply in the pilotage area in which the applicant intends to perform pilotage duties or for which the holder’s licence or pilotage certificate was issued, including, insofar as they apply in that pilotage area, knowledge of the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md), the Act and the regulations made under it;
 - **(d)** knowledge of the handling of ships that are within the tonnage restriction for the class of licence or pilotage certificate held or applied for; and
 - **(e)** the duties, responsibilities and obligations of a pilot including the use of modern navigational instruments for pilotage purposes.
-> SOR/2006-73, ss. 13(F), 18(F).
+> SOR/2006-73, ss. 13(F), 18(F); SOR/2014-36, s. 8.
 
 
 
 
 **20** 
 
-- **(1)** The Chairman of the Board of Examiners shall report to the Authority the results of every examination, including
+- **(1)** The Chairperson of the Board of Examiners shall report to the Authority the results of every examination, including
 	- **(a)** the name of each person who passed the examination;
 	- **(b)** the class of licence that each person who passed the examination therefor is entitled to; and
 	- **(c)** the class of pilotage certificate that each person who passed the examination therefor will receive.
 
 - **(2)** The Authority shall, when requested by any person who fails an examination, provide that person with a report indicating the reason he failed.
-> SOR/2006-73, s. 14.
+> SOR/2006-73, s. 14; SOR/2014-36, s. 12(E).
 
 
 
@@ -419,18 +543,16 @@ Enabling authorities:
 
 **21** 
 
-- **(1)** The fee payable to the Authority by an applicant for a licence is
-	- **(a)** $250 for the examination; and
-	- **(b)** $250 for the issue of the licence.
+- **(1)** The fees payable to the Authority by an applicant for a licence are
+	- **(a)** $500 for the examination; and
+	- **(b)** $500 for the issue of the licence.
 
-- **(2)** The fee payable to the Authority by an applicant for a pilotage certificate is
-	- **(a)** $1,000 for the examination; and
-	- **(b)** $250 for the issue of the pilotage certificate.
+- **(2)** The fees payable to the Authority by an applicant for a pilotage certificate are
+	- **(a)** $2,000 for the examination; and
+	- **(b)** $500 for the issue of the pilotage certificate.
 
-- **(3)** The fee payable to the Authority by the holder of a pilotage certificate is $250 in respect of each compulsory pilotage area endorsed on the certificate for each period of two years after the year in which the certificate is issued.
-
-- **(4) and (5)** [Repealed, SOR/2006-73, s. 15]
-> SOR/80-342, s. 1; SOR/96-402, s. 1; SOR/2000-319, s. 3; SOR/2006-73, s. 15.
+- **(3)** The fee payable to the Authority by the holder of a pilotage certificate is $500 in respect of each compulsory pilotage area endorsed on the certificate for each period of two years after the year in which the certificate is issued.
+> SOR/80-342, s. 1; SOR/96-402, s. 1; SOR/2000-319, s. 3; SOR/2006-73, s. 15; SOR/2014-36, s. 9.
 
 
 
@@ -447,16 +569,22 @@ Enabling authorities:
 ## Further Training
 
 
-**23** Where a licence or pilotage certificate is suspended by the Authority pursuant to paragraph 17(4)(b) of the Act, the holder of the licence or pilotage certificate shall, if he wishes to have his licence or certificate reinstated, take such further training as will enable him to meet the qualifications prescribed in paragraphs 14(1)(j), (k) and (l) of these Regulations.
-
-
-
-**24** Where a person who holds a pilotage certificate is unable to meet the qualification under paragraph 14(2)(a), he shall be required to take further training to ensure that his knowledge of the pilotage area in respect of which his certificate is in force, is adequate.
+**23** If a licence or a pilotage certificate is suspended by the Authority under paragraph 27(4)(b) of the Act, the holder of the licence or pilotage certificate shall, if he or she wishes to have the licence or certificate reinstated, take further training that will enable him or her to continue to meet the qualifications prescribed by paragraphs 14(1)(e) to (g) of these Regulations.
+> SOR/2014-36, s. 10.
 
 
 
 
-## Shipping Casualty
+**24** If the holder of a pilotage certificate for a pilotage area is unable to meet the applicable qualification prescribed by section 14.4, he or she shall take further training to ensure that his or her knowledge of the pilotage area is equivalent to that of a holder of a pilotage certificate who meets that qualification.
+> SOR/2014-36, s. 10.
+
+
+
+
+
+## Shipping Incident
+> [SOR/2014-36, s. 11]
+
 
 
 **25** 
