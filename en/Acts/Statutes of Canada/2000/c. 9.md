@@ -13274,7 +13274,7 @@ Traffic Safety Act, R.S.A. 2000, c. T-6
 
 
 
-Vital Statistics Act, R.S.A. 2000, c. V-4
+Vital Statistics Act, S.A. 2007, c. V-4.1
 
 
 
@@ -13299,6 +13299,10 @@ Vital Statistics Act, R.S.B.C. 1996, c. 479
 Manitoba
 
 The City of Winnipeg Charter Act, S.M. 2002, c. 39
+
+
+
+The Drivers and Vehicles Act, C.C.S.M. c. D104
 
 
 
@@ -13346,7 +13350,7 @@ Highway Traffic Act, R.S.N.L. 1990, c. H-3
 
 
 
-Vital Statistics Act, R.S.N.L. 1990, c. V-6
+Vital Statistics Act, S.N.L. 2009, c. V-6.01
 
 
 
@@ -13362,7 +13366,7 @@ Motor Vehicles Act, R.S.N.W.T. 1988, c. M-16
 
 
 
-Vital Statistics Act, R.S.N.W.T. 1988, c. V-3
+Vital Statistics Act, S.W.N.T. 2011, c. 34
 
 
 
@@ -13370,7 +13374,7 @@ Vital Statistics Act, R.S.N.W.T. 1988, c. V-3
 
 Nova Scotia
 
-Elections Act, R.S.N.S. 1989, c. 140
+Elections Act, S.N.S. 2011, c. 5
 
 
 
@@ -13462,7 +13466,7 @@ The Traffic Safety Act, S.S. 2004, c. T-18.1
 
 
 
-The Vital Statistics Act, S.S. 1995, c. V-7.1
+The Vital Statistics Act, S.S. 2009, c. V-7.21
 
 
 
@@ -13498,7 +13502,7 @@ Info-direct<sup>TM</sup>
 Public Curator (Quebec)
 
 
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, pages 283, 976, 1329; Canada Gazette Part I, Volume 140, page 3630; Canada Gazette Part I, Volume 142, pages 2159 to 2161.
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, pages 283, 976, 1329; Canada Gazette Part I, Volume 140, page 3630; Canada Gazette Part I, Volume 142, pages 2159 to 2161; Canada Gazette Part I, Volume 148, page 623.
 
 
 
