@@ -13219,7 +13219,7 @@ Traffic Safety Act, R.S.A. 2000, ch. T-6
 
 
 
-Vital Statistics Act, R.S.A. 2000, ch. V-4
+Vital Statistics Act, S.A. 2007, ch. V-4.1
 
 
 
@@ -13271,6 +13271,10 @@ Loi sur la charte de la Ville de Winnipeg, L.M. 2002, ch. 39
 
 
 
+Loi sur les conducteurs et les véhicules, C.P.L.M. c. D104
+
+
+
 Loi sur les élections municipales et scolaires, L.M. 2005, ch. 27
 
 
@@ -13299,7 +13303,7 @@ Loi sur les véhicules à moteur, L.R.N.-B. 1973, ch. M-17
 
 Nouvelle-Écosse
 
-Elections Act, R.S.N.S. 1989, ch. 140
+Elections Act, S.N.S. 2011, c. 5
 
 
 
@@ -13367,7 +13371,7 @@ Loi électorale, L.R.Q., ch. E-3.3
 
 Saskatchewan
 
-Loi de 1995 sur les services de l’état civil, L.S. 1995, ch. V-7,1
+Loi de 2009 sur les services de l’état civil, L.S. 2009, ch. V-7,21
 
 
 
@@ -13391,7 +13395,7 @@ Highway Traffic Act, R.S.N.L. 1990, ch. H-3
 
 
 
-Vital Statistics Act, R.S.N.L. 1990, ch. V-6
+Vital Statistics Act, S.N.L. 2009, c. V-6.01
 
 
 
@@ -13403,7 +13407,7 @@ Loi sur les élections et les référendums, L.T.N.-O. 2006, ch. 15
 
 
 
-Loi sur les statistiques de l’état civil, L.R.T.N.-O. 1988, ch. V-3
+Loi sur les statistiques de l’état civil, L.T.N.-O. 2011, ch. 34
 
 
 
@@ -13443,7 +13447,7 @@ Info-direct<sup>TM</sup>
 La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
 
 
-> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329; Gazette du Canada Partie I, volume 140, page 3630; Gazette du Canada Partie I, volume 142, pages 2159 à 2161.
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup> 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup> 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329; Gazette du Canada Partie I, volume 140, page 3630; Gazette du Canada Partie I, volume 142, pages 2159 à 2161; Gazette du Canada Partie I, volume 148, page 623.
 
 
 
