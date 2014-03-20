@@ -924,4 +924,9 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 ### **SCHEDULE 2** 
 **(Section 29)**
+**1** Kawacatoose First Nation
+
+
+> 2005, c. 48, Sch. 2; SOR/2014-64.
+
 
