@@ -119,11 +119,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Délégation : ministre territorial**
+**Délégation**
 
 **4** 
 
-- **(1)** Le ministre fédéral peut, par écrit, déléguer au ministre du gouvernement territorial chargé des ressources renouvelables les attributions qui lui sont conférées sous le régime de la présente loi; la délégation peut être générale ou spécifique, auquel cas sa portée est précisée dans l’acte de délégation.
+- **(1)** Le ministre fédéral peut, par écrit, déléguer tout ou partie des attributions que lui confère la présente loi au ministre des Territoires du Nord-Ouest désigné, par le commissaire de ces territoires, pour l’application du présent article. La délégation peut être générale ou spécifique; dans ce dernier cas, sa portée est précisée dans l’acte de délégation.
 
 **Subdélégation**
 
@@ -140,7 +140,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** tout ministère ou organisme administratif fédéral ou territorial;
 	- **c)** tout organisme public constitué sous le régime d’une loi fédérale ou d’une règle de droit territoriale;
 	- **d)** toute administration locale.
-> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16.
+> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16; 2014, ch. 2, art. 114.
 
 
 
@@ -163,6 +163,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5.1** Les droits de la première nation tlicho, des citoyens tlichos et du gouvernement tlicho prévus par la présente loi sont assujettis à tout accord conclu entre le gouvernement tlicho et un peuple autochtone, autre que la première nation tlicho, en vertu de l’article 2.7.3 de l’accord tlicho.
 > 2005, ch. 1, art. 17.
+
+
+
+
+
+**Délais**
+
+**5.2** 
+
+- **(1)** Le fait, pour l’une des personnes ou l’un des organes ci-après, de ne pas exercer ses attributions dans le délai prévu sous le régime de la présente loi n’a pas pour effet de mettre fin à son mandat, ni d’invalider le document préparé ou présenté, la décision prise ou l’acte accompli en les exerçant :
+	- **a)** le ministre fédéral;
+	- **b)** l’Office gwich’in d’aménagement territorial;
+	- **c)** l’Office d’aménagement territorial du Sahtu;
+	- **d)** l’Office gwich’in des terres et des eaux;
+	- **e)** l’Office des terres et des eaux du Sahtu;
+	- **f)** l’Office des terres et des eaux du Wekeezhii;
+	- **g)** l’Office des terres et des eaux de la vallée du Mackenzie;
+	- **h)** un ministre compétent, au sens de l’article 111;
+	- **i)** l’Office d’examen des répercussions environnementales de la vallée du Mackenzie ou l’une de ses formations;
+	- **j)** une formation conjointe visée au paragraphe 140(2) ou aux alinéas 141(2)b) ou (3)a) ou une commission visée au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md);
+	- **k)** un organisme administratif désigné, au sens de l’article 111.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’égard :
+	- **a)** d’un délai réglementaire visé aux paragraphes 138.1(2), (3) ou (4) ou 141(4);
+	- **b)** de tout autre délai réglementaire qui est exclu par règlement de l’application du paragraphe (1).
+
+**Règlement**
+
+- **(3)** Le gouverneur en conseil peut, par règlement, exclure tout délai réglementaire autre que celui visé à l’alinéa (2)a) de l’application du paragraphe (1).
+> 2014, ch. 2, art. 115.
 
 
 
@@ -327,12 +359,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Les membres de l’office, exception faite des membres nommés suivant la manière déterminée en application de l’article 15, reçoivent la rémunération et les autres indemnités fixées par le ministre fédéral.
+- **(1)** Les membres de l’office, y compris les membres nommés suivant la manière déterminée en application de l’article 15, reçoivent la rémunération et les autres indemnités fixées par le ministre fédéral.
 
 **Frais**
 
 - **(2)** Ces membres sont indemnisés, selon des règles compatibles avec les directives du Conseil du Trésor, des frais de déplacement et de séjour faits dans l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
-> 1998, ch. 25, art. 17; 2005, ch. 1, art. 24.
+> 1998, ch. 25, art. 17; 2005, ch. 1, art. 24; 2014, ch. 2, art. 123.
 
 
 
@@ -362,7 +394,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exclusion de la responsabilité personnelle**
 
-**20** Les membres de l’office et son personnel ne peuvent être tenus pour personnellement responsables des faits — actes ou omissions — accomplis de bonne foi dans l’exercice, même présumé, des pouvoirs et fonctions prévus par la présente loi.
+**20** Les membres de l’office et son personnel ne peuvent être tenus pour personnellement responsables des faits — actes ou omissions — accomplis de bonne foi dans l’exercice, même présumé, des attributions prévues par la présente loi.
+> 1998, ch. 25, art. 20; 2014, ch. 2, art. 124.
+
 
 
 
@@ -518,7 +552,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **31** 
 
-- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 83(1) ou (2), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 et aux directives établies en vertu de l’article 120.
+- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 50.1(1) ou 83(1) ou (2), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 ou du paragraphe 142.2(1) et aux directives établies en vertu de l’article 120.
 
 **Avis dans la Gazette du Canada**
 
@@ -527,7 +561,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Permis d’utilisation des terres**
 
 - **(3)** Il est entendu que les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27.
+> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128.
 
 
 
@@ -537,16 +571,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Compétence concurrente**
-
-**32** 
-
-- **(1)** Indépendamment de la compétence exclusive accordée par l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême des Territoires du Nord-Ouest afin d’obtenir, contre l’office, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
-
 **Compétence exclusive**
 
-- **(2)** Malgré le paragraphe (1) et l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute question relative à la compétence de l’Office des terres et des eaux de la vallée du Mackenzie ou de l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, qu’elle soit soulevée ou non par une demande du même type que celle visée au paragraphe (1).
-> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182; 2005, ch. 1, art. 28.
+**32** Malgré l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute demande faite par le procureur général du Canada, le procureur général des Territoires du Nord-Ouest ou quiconque est directement touché par l’affaire afin d’obtenir, contre l’office, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182; 2005, ch. 1, art. 28; 2014, ch. 2, art. 129.
 
 
 
@@ -824,6 +852,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Instructions générales obligatoires
+
+
+
+**Instructions ministérielles**
+
+**50.1** 
+
+- **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relativement à l’exercice de ses attributions en vertu de la présente loi.
+
+**Non-application**
+
+- **(2)** Les instructions ne visent toutefois pas les demandes de dérogation visées à l’article 44, le renvoi ou la demande visés au paragraphe 47(1) et les propositions de modification au plan d’aménagement prévues au paragraphe 48(1), dont l’office est saisi au moment où ces instructions sont données.
+
+**Incompatibilité entre la loi et les instructions**
+
+- **(3)** Les dispositions des lois fédérales, de leurs règlements et les règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
+> 2014, ch. 2, art. 131.
+
+
+
+
+
 **PARTIE 3** 
 ## Réglementation des terres et des eaux
 
@@ -1044,14 +1095,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3.1)** Les articles 15.1 à 15.5 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) s’appliquent à l’office en ce qui concerne les terres inuit visées à ces articles, même si ces terres sont situées à l’extérieur de la vallée du Mackenzie.
 
+**Période exclue des délais**
+
+- **(3.2)** Dans le cas où un permis d’utilisation des eaux concerne un projet de développement qui fait l’objet d’une évaluation environnementale, d’une étude d’impact ou d’un examen des répercussions environnementales qui tient lieu d’étude d’impact effectué sous le régime de la partie 5, la période prise pour compléter l’évaluation, l’étude ou l’examen n’est pas comprise dans le calcul des délais prévus aux paragraphes 24.2(1) et 24.3(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou de leur prolongation.
+
+**Suspension des délais**
+
+- **(3.3)** L’office peut suspendre les délais prévus aux paragraphes 24.2(1) et 24.3(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou leur prolongation, tant que :
+	- **a)** dans le cas où l’office décide que le demandeur est tenu de payer une indemnité — ou qu’il est tenu de conclure un accord d’indemnisation — au titre du paragraphe 14(4) de cette loi, le demandeur n’a pas prouvé à l’office qu’il a payé cette indemnité ou qu’il la paiera ou qu’il a conclu l’accord, selon le cas;
+	- **b)** dans le cas où l’office ne peut délivrer un permis qu’en conformité avec le paragraphe 15.1(1) de cette loi, le demandeur n’a pas conclu un accord d’indemnisation en application de l’alinéa 15.1(1)a) de cette loi ou qu’une indemnité n’a pas été fixée en vertu de l’alinéa 15.1(1)b) de cette loi, selon le cas;
+	- **c)** dans le cas où l’office décide que le demandeur est tenu de conclure un accord d’indemnisation au titre des articles 77 ou 79.1, le demandeur ne lui a pas prouvé qu’il l’a conclu ou l’office n’a pas fixé l’indemnité prévue aux articles 79 ou 79.3.
+
 **[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
 
-- **(4)** Malgré le paragraphe (1), les dispositions ci-après de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’appliquent pas aux zones de gestion : les articles 10 à 13, le paragraphe 14(6), les articles 20 et 22, les paragraphes 23(1) et (2) en ce qui concerne l’obligation de publication dans la Gazette du Canada, les articles 24, 26 — sauf en ce qui concerne les permis de type A au sens de cette loi —, 27 et 28 ainsi que le paragraphe 37(2).
+- **(4)** Malgré le paragraphe (1), les dispositions ci-après de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’appliquent pas aux zones de gestion : les articles 7.2, 7.3, 10 à 13, 18.1, 20 et 22, les paragraphes 23(1) et (2) — en ce qui concerne l’obligation de publication dans la Gazette du Canada —, l’article 24, les paragraphes 24.3(2) et (3), les articles 24.6, 26 — sauf en ce qui concerne les permis de type A au sens de cette loi — et 27 à 28.2, le paragraphe 37(2) ainsi que les articles 44.01 à 44.3.
 
 **[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
 
 - **(5)** De même, malgré le paragraphe (1), l’article 31 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’applique pas en ce qui touche les terres d’une première nation ou les terres tlichos.
-> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34.
+> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34; 2014, ch. 2, art. 110 et 138.
 
 
 
@@ -1443,17 +1505,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Agrément ministériel**
 
-**81** 
+**81** Sont subordonnés à l’agrément du ministre fédéral, la délivrance, le renouvellement, la modification et l’annulation des permis de type A au sens de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), et, si l’office tient des audiences publiques à cet égard, des permis de type B au sens de cette loi.
+> 1998, ch. 25, art. 81; 2014, ch. 2, art. 173.
 
-- **(1)** La délivrance des permis d’utilisation des eaux de type A — au sens de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) — est subordonnée à l’agrément du ministre fédéral.
-
-**Notification**
-
-- **(2)** Le ministre fédéral notifie à l’office son agrément ou son refus, ainsi que ses motifs, dans les trente jours suivant la réception du permis de ce type que ce dernier se propose de délivrer.
-
-**Prorogation**
-
-- **(3)** Il peut prolonger ce délai d’au plus trente jours.
 
 
 
@@ -1481,7 +1535,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **83** 
 
-- **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente partie. Le ministre consulte également le gouvernement tlicho avant de donner par écrit de telles instructions à l’Office des terres et des eaux du Wekeezhii.
+- **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente loi. Le ministre consulte également le gouvernement tlicho avant de donner par écrit de telles instructions à l’Office des terres et des eaux du Wekeezhii.
 
 **Instructions du gouvernement tlicho**
 
@@ -1502,7 +1556,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(6)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
-> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47.
+> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47; 2014, ch. 2, art. 175.
 
 
 
@@ -1668,11 +1722,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Infractions principales**
+**Infractions principales — utilisation des terres**
 
 **92** 
 
-- **(1)** Quiconque contrevient à l’article 90.1, aux règlements, aux conditions d’un permis d’utilisation des terres ou à l’ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 15 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+- **(1)** Quiconque contrevient à l’article 90.1, aux règlements pris en vertu de l’article 90, aux conditions d’un permis d’utilisation des terres ou à l’ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 100 000$ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 200 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
 
 **Ordonnance du tribunal**
 
@@ -1684,8 +1740,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres infractions**
 
-- **(4)** Quiconque contrevient à l’article 87 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 2 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
-> 1998, ch. 25, art. 92; 2005, ch. 1, art. 53.
+- **(4)** Quiconque contrevient aux paragraphes 87(1), (2) ou (3) en ce qui touche l’utilisation des terres commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 200 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 1998, ch. 25, art. 92; 2005, ch. 1, art. 53; 2014, ch. 2, art. 187.
+
+
+
+
+
+**Présomption — récidive relative à l’utilisation des terres**
+
+**92.1** 
+
+- **(1)** Pour l’application des paragraphes 92(1) et (4), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement, des espèces sauvages ou des ressources patrimoniales, d’une infraction essentiellement semblable.
+
+**Limitation**
+
+- **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2014, ch. 2, art. 190.
 
 
 
@@ -1693,7 +1766,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prescription**
 
-**93** Les poursuites relatives à une infraction visée à l’article 92 se prescrivent par deux ans à compter de sa perpétration.
+**93** Les poursuites relatives à une infraction visée à l’article 92 se prescrivent par cinq ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
+> 1998, ch. 25, art. 93; 2014, ch. 2, art. 190.
+
 
 
 
@@ -2089,6 +2164,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Ministre fédéral : attributions**
+
+**111.1** Pour l’application des paragraphes 130(1) à (3) et des articles 131.2, 135 et 137.2, le ministre fédéral exerce les attributions de tout ministre compétent qui est un ministre du gouvernement fédéral.
+> 2014, ch. 2, art. 199.
+
+
+
+
+
 ### Mise en place de l’Office
 
 
@@ -2139,11 +2223,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Principes directeurs**
 
-**115** Le processus mis en place par la présente partie est suivi avec célérité, compte tenu des points suivants :
-- **a)** la protection de l’environnement contre les répercussions négatives importantes du projet de développement;
-- **b)** le maintien du bien-être social, culturel et économique des habitants et des collectivités de la vallée du Mackenzie;
-- **c)** l’importance de préserver les ressources pour le bien-être et le mode de vie des peuples autochtones du Canada visés par l’article 35 de la Loi constitutionnelle de 1982 et qui utilisent les ressources d’une région de la vallée du Mackenzie.
-> 1998, ch. 25, art. 115; 2005, ch. 1, art. 67.
+**115** 
+
+- **(1)** Le processus mis en place par la présente partie est suivi avec célérité, compte tenu des points suivants :
+	- **a)** la protection de l’environnement contre les répercussions négatives importantes du projet de développement;
+	- **b)** le maintien du bien-être social, culturel et économique des habitants et des collectivités de la vallée du Mackenzie;
+	- **c)** l’importance de préserver les ressources pour le bien-être et le mode de vie des peuples autochtones du Canada visés par l’article 35 de la Loi constitutionnelle de 1982 et qui utilisent les ressources d’une région de la vallée du Mackenzie.
+
+**Prise en compte des travaux antérieurs**
+
+- **(2)** Les personnes ou organes qui effectuent un examen préalable, une évaluation environnementale, une étude d’impact ou un examen des répercussions environnementales qui tient lieu d’étude d’impact relativement à un projet de développement tiennent compte des travaux d’évaluation déjà effectués au titre de la présente partie à l’égard du projet et peuvent s’appuyer sur ceux-ci.
+> 1998, ch. 25, art. 115; 2005, ch. 1, art. 67; 2014, ch. 2, art. 201.
 
 
 
@@ -2158,12 +2248,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
+**[Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md)**
 
-**116** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
+**116** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
 - **a)** dans les cas où le ministre de l’Environnement a été saisi de l’affaire en vertu de l’alinéa 130(1)c), dans la mesure qui y est prévue;
 - **b)** dans les cas de projets faisant l’objet d’accords visés à l’alinéa 141(2)a) ou (3)b), dans la mesure prévue par ceux-ci.
-> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69.
+> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69; 2014, ch. 2, art. 202.
 
 
 
@@ -2402,7 +2492,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport de l’Office**
 
-- **(2)** L’Office adresse son rapport d’évaluation, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet. Il adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+- **(2)** Dans les neuf mois suivant la date où l’affaire lui a été renvoyée en application de l’article 125 ou du paragraphe 126(2) ou suivant celle où il a commencé l’évaluation environnementale du projet en application du paragraphe 126(3), l’Office termine celle-ci et adresse son rapport d’évaluation :
+	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
+	- **b)** à l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet;
+	- **c)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+
+**Délai : audience publique**
+
+- **(2.1)** Dans le cas où l’Office tient une audience publique au cours de l’évaluation environnementale, le délai prévu au paragraphe (2) est de seize mois.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(2.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu aux paragraphes (2) ou (2.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(2.3)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (2.2).
+
+**Période exclue**
+
+- **(2.4)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
 
 **Copie**
 
@@ -2411,7 +2520,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Régions touchées**
 
 - **(4)** Dans son rapport, l’Office précise la région — même située à l’extérieur de la vallée du Mackenzie — dans laquelle, à son avis, le projet aura vraisemblablement les répercussions visées à l’alinéa (1)b) ou sera vraisemblablement la cause des préoccupations visées à l’alinéa (1)c), ainsi que la mesure dans laquelle la région sera ainsi touchée.
-> 1998, ch. 25, art. 128; 2005, ch. 1, art. 78.
+> 1998, ch. 25, art. 128; 2005, ch. 1, art. 78; 2014, ch. 2, art. 206.
 
 
 
@@ -2433,11 +2542,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Au terme de leur étude du rapport d’évaluation environnementale, le ministre fédéral et les ministres compétents auxquels le rapport a été transmis peuvent, d’un commun accord :
 	- **a)** ordonner la réalisation d’une étude d’impact malgré la déclaration contraire faite en vertu de l’alinéa 128(1)a);
 	- **b)** accepter la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii) ou de l’alinéa 128(1)d), la lui renvoyer pour réexamen ou après avoir consulté ce dernier soit l’accepter avec certaines modifications, soit la rejeter et ordonner la réalisation d’une étude d’impact;
-	- **c)** dans les cas où, à leur avis, l’intérêt national l’exige et après avoir consulté le ministre de l’Environnement, saisir celui-ci de l’affaire, quelles que soient les conclusions du rapport, pour qu’un examen conjoint soit effectué sous le régime de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+	- **c)** dans les cas où, à leur avis, l’intérêt national l’exige et après avoir consulté le ministre de l’Environnement, saisir celui-ci de l’affaire, quelles que soient les conclusions du rapport, pour qu’un examen conjoint soit effectué sous le régime de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
 
-**Consultation du gouvernement tlicho**
+**Consultation**
 
-- **(1.1)** Avant de prendre la mesure visée aux alinéas (1)a) ou c), le ministre fédéral et les ministres compétents consultent le gouvernement tlicho si le projet de développement doit être réalisé — même en partie — sur les terres tlichos.
+- **(1.1)** Avant de prendre la mesure visée aux alinéas (1)a) ou c), le ministre fédéral et les ministres compétents consultent :
+	- **a)** la première nation des Gwich’in, dans le cas où le projet de développement doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51;
+	- **b)** la première nation du Sahtu, dans le cas où le projet de développement doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51;
+	- **c)** le gouvernement tlicho, dans le cas où le projet de développement doit être réalisé — même en partie — sur les terres tlichos.
 
 **Régions touchées**
 
@@ -2451,10 +2563,50 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le ministre fédéral est chargé de communiquer la décision ainsi rendue à l’Office, aux premières nations, administrations locales et autorités administratives touchées par celle-ci et aux ministères et organismes des gouvernements fédéral et territorial concernés.
 
-**Mise en œuvre**
+**Délais**
 
-- **(5)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en œuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
-> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80.
+- **(4.01)** La communication de la décision est faite dans les trois mois suivant la réception par le ministre fédéral du rapport d’évaluation de l’Office.
+
+**Délai : audience publique**
+
+- **(4.02)** Dans le cas où l’Office tient une audience publique au cours de l’évaluation environnementale, le délai prévu au paragraphe (4.01) est de cinq mois.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(4.03)** Le ministre fédéral peut prolonger d’au plus deux mois le délai prévu aux paragraphes (4.01) ou (4.02) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4.04)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (4.03).
+
+**Délai : réexamen**
+
+- **(4.05)** Dans le cas où la recommandation est renvoyée à l’Office en vertu de l’alinéa (1)b) pour réexamen, la période nécessaire au renvoi et au réexamen est comprise dans le calcul du délai visé aux paragraphes (4.01) ou (4.02) ou de sa prolongation.
+
+**Période exclue**
+
+- **(4.06)** Dans le cas où le ministre fédéral ou l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé aux paragraphes (4.01) ou (4.02) ou de sa prolongation.
+
+**Notification : alinéa (1)c)**
+
+- **(4.07)** Dans le cas où, après l’ordre de l’Office exigeant la réalisation d’une étude d’impact, le ministre fédéral et les ministres compétents ne saisissent pas le ministre de l’Environnement de l’affaire comme le permet l’alinéa (1)c), le ministre fédéral en informe par écrit l’Office dans les trois mois après avoir reçu le rapport d’évaluation de l’Office.
+
+**Délai : audience publique**
+
+- **(4.08)** Dans le cas où l’Office tient une audience publique au cours de l’évaluation environnementale, le délai prévu au paragraphe (4.07) est de cinq mois.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(4.09)** Le ministre fédéral peut prolonger d’au plus deux mois le délai prévu aux paragraphes (4.07) ou (4.08) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4.1)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (4.09).
+
+**Mise en oeuvre**
+
+- **(5)** Les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (4) sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en oeuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
+> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80; 2014, ch. 2, art. 208.
 
 
 
@@ -2465,6 +2617,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **131** 
 
 - **(1)** Au terme de son étude du rapport d’évaluation environnementale, l’organisme administratif désigné accepte la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii) ou de l’alinéa 128(1)d), la lui renvoie pour réexamen ou après avoir consulté ce dernier soit l’accepte avec certaines modifications, soit la rejette et ordonne la réalisation d’une étude d’impact.
+
+**Délai**
+
+- **(1.1)** L’organisme administratif désigné doit rendre la décision visée au paragraphe (1) dans les trois mois suivant la réception par celui-ci du rapport d’évaluation de l’Office.
+
+**Délai : audience publique**
+
+- **(1.2)** Dans le cas où l’Office tient une audience publique au cours de l’évaluation environnementale, le délai prévu au paragraphe (1.1) est de cinq mois.
+
+**Prolongation du délai par l’organisme administratif désigné**
+
+- **(1.3)** L’organisme administratif désigné peut prolonger d’au plus deux mois le délai prévu aux paragraphes (1.1) ou (1.2) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.4)** Le gouverneur en conseil peut, sur la recommandation du ministre responsable de l’organisme administratif désigné, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (1.3).
+
+**Délai : réexamen**
+
+- **(1.5)** Dans le cas où la recommandation est renvoyée à l’Office en vertu du paragraphe (1) pour réexamen, la période nécessaire au renvoi et au réexamen est comprise dans le calcul du délai visé aux paragraphes (1.1) ou (1.2) ou de sa prolongation.
+
+**Période exclue**
+
+- **(1.6)** Dans le cas où l’organisme administratif désigné ou l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé aux paragraphes (1.1) ou (1.2) ou de sa prolongation.
 
 **Mise en oeuvre**
 
@@ -2477,6 +2653,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements supplémentaires**
 
 - **(4)** L’organisme administratif désigné est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de l’Office, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par ce dernier.
+> 1998, ch. 25, art. 131; 2014, ch. 2, art. 209.
+
 
 
 
@@ -2527,8 +2705,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La nomination prévue au paragraphe (1) n’est valide que si un nombre égal de membres de l’Office nommés sur la proposition d’une première nation ou du gouvernement tlicho et de membres — autres que le président — qui ne sont pas ainsi nommés y participe.
 
-- **(4)** [Abrogé, 2005, ch. 1, art. 82]
-> 1998, ch. 25, art. 132; 2005, ch. 1, art. 82.
+**Délai**
+
+- **(4)** L’Office nomme les membres de la formation dans les trois mois suivant la date où il est informé :
+	- **a)** soit que la réalisation d’une étude d’impact est ordonnée en vertu des alinéas 130(1)a) ou b) ou du paragraphe 131(1);
+	- **b)** soit que le ministre de l’Environnement n’est pas saisi de l’affaire aux termes du paragraphe 130(4.07).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(5)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (4) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(6)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (5).
+
+**Période exclue**
+
+- **(7)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (4) ou de sa prolongation.
+> 1998, ch. 25, art. 132; 2005, ch. 1, art. 82; 2014, ch. 2, art. 212.
 
 
 
@@ -2567,14 +2761,53 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les examens du projet que la formation estime nécessaires;
 	- **e)** la tenue d’enquêtes publiques au sein des collectivités concernées ou la consultation de celles-ci.
 
+**Délai**
+
+- **(1.1)** L’Office établit le mandat de sa formation dans les trois mois suivant la date où il est informé :
+	- **a)** soit que la réalisation d’une étude d’impact est ordonnée en vertu des alinéas 130(1)a) ou b) ou du paragraphe 131(1);
+	- **b)** soit que le ministre de l’Environnement n’est pas saisi de l’affaire aux termes de l’alinéa 130(4.07).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(1.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (1.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.3)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (1.2).
+
+**Période exclue**
+
+- **(1.4)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (1.1) ou de sa prolongation.
+
 **Rapport**
 
 - **(2)** La formation établit un rapport qui comporte un résumé des commentaires formulés par le public, un exposé des examens qu’elle a effectués ainsi que ses conclusions; elle y recommande l’agrément du projet, avec ou sans mesures correctives ou d’atténuation ou programme de suivi, ou son rejet.
 
-**Destinataires**
+**Rapport de la formation**
 
-- **(3)** Le rapport est adressé, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou les autres autorisations nécessaires à la réalisation du projet. Il est également adressé au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
-> 1998, ch. 25, art. 134; 2005, ch. 1, art. 84.
+- **(3)** Dans les quinze mois suivant la date de nomination des membres de la formation ou, si elle est postérieure, suivant celle de l’établissement de son mandat, le rapport est adressé :
+	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
+	- **b)** à l’organisme administratif désigné chargé de délivrer les permis ou les autres autorisations nécessaires à la réalisation du projet;
+	- **c)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(4)** Le ministre fédéral peut, sur demande de la formation, prolonger d’au plus deux mois le délai prévu au paragraphe (3) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(5)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (4).
+
+**Période exclue**
+
+- **(6)** Dans le cas où la formation exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (3) ou de sa prolongation.
+
+**Copie du rapport**
+
+- **(7)** Une copie du rapport est adressée :
+	- **a)** à la première nation des Gwich’in, dans le cas où le projet doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51;
+	- **b)** à la première nation du Sahtu, dans le cas où le projet doit être réalisé — même en partie — sur les terres de cette première nation, au sens de l’article 51.
+> 1998, ch. 25, art. 134; 2005, ch. 1, art. 84; 2014, ch. 2, art. 213.
 
 
 
@@ -2601,10 +2834,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre fédéral communique la décision rendue en vertu de l’article 135 aux premières nations, administrations locales et autorités administratives touchées par celle-ci et aux ministères et organismes des gouvernements fédéral et territorial concernés.
 
-**Mise en œuvre**
+**Délais**
 
-- **(2)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en œuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
-> 1998, ch. 25, art. 136; 2005, ch. 1, art. 85.
+- **(1.1)** La communication de la décision est faite dans les six mois suivant la réception par le ministre fédéral du rapport visé au paragraphe 134(2).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(1.2)** Le ministre fédéral peut prolonger d’au plus deux mois le délai prévu au paragraphe (1.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.3)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (1.2).
+
+**Délai : réexamen**
+
+- **(1.4)** Dans le cas où la recommandation est renvoyée à la formation de l’Office en vertu de l’alinéa 135(1)a) pour réexamen, la période nécessaire au renvoi et au réexamen est comprise dans le calcul du délai visé au paragraphe (1.1) ou de sa prolongation.
+
+**Période exclue**
+
+- **(1.5)** Dans le cas où le ministre fédéral ou la formation exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (1.1) ou de sa prolongation.
+
+**Mise en oeuvre**
+
+- **(2)** Les premières nations, administrations locales, autorités administratives, ministères et organismes visés au paragraphe (1) sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en oeuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
+> 1998, ch. 25, art. 136; 2005, ch. 1, art. 85; 2014, ch. 2, art. 214.
 
 
 
@@ -2616,6 +2869,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Au terme de son étude du rapport visé au paragraphe 134(2), l’organisme administratif désigné accepte la recommandation de la formation de l’Office, la lui renvoie pour réexamen ou après avoir consulté cette dernière soit l’accepte avec certaines modifications, soit la rejette.
 
+**Délai**
+
+- **(1.1)** L’organisme administratif désigné doit prendre la décision visée au paragraphe (1) dans les six mois suivant la réception par celui-ci du rapport visé au paragraphe 134(2).
+
+**Prolongation du délai par l’organisme administratif désigné**
+
+- **(1.2)** L’organisme administratif désigné peut prolonger d’au plus deux mois le délai prévu au paragraphe (1.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.3)** Le gouverneur en conseil peut, sur la recommandation du ministre responsable de l’organisme administratif désigné, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (1.2).
+
+**Délai : réexamen**
+
+- **(1.4)** Dans le cas où la recommandation est renvoyée à la formation en vertu du paragraphe (1) pour réexamen, la période nécessaire au renvoi et au réexamen est comprise dans le calcul du délai visé au paragraphe (1.1) ou de sa prolongation.
+
+**Période exclue**
+
+- **(1.5)** Dans le cas où l’organisme administratif désigné ou la formation exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (1.1) ou de sa prolongation.
+
 **Renseignements supplémentaires**
 
 - **(2)** L’organisme administratif désigné est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de la formation, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par celle-ci.
@@ -2623,6 +2896,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mise en oeuvre**
 
 - **(3)** L’organisme administratif désigné est tenu, dans la mesure de sa compétence, de mettre en oeuvre toute recommandation qu’il accepte.
+> 1998, ch. 25, art. 137; 2014, ch. 2, art. 215.
+
 
 
 
@@ -2657,8 +2932,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation de toute autorité responsable**
 
-**137.3** Avant de prendre leur décision aux termes des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) concernant le projet et consultent toute autorité responsable qui doit recevoir un rapport aux termes de cette loi.
-> 2005, ch. 1, art. 86.
+**137.3** Avant de prendre leur décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) concernant le projet et consultent toute autorité responsable qui doit recevoir un rapport en application de cette loi.
+> 2005, ch. 1, art. 86; 2014, ch. 2, art. 217.
 
 
 
@@ -2672,12 +2947,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **138** 
 
-- **(1)** Outre ce qui est prévu à l’alinéa 41f) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), la commission constituée sous le régime du paragraphe 40(2.1) de cette loi, à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations nécessaires à la réalisation du projet en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+- **(1)** Outre ce qui est prévu à l’alinéa 43(1)e) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), à la suite du renvoi effectué en vertu de l’alinéa 130(1)c), la commission qui est constituée sous le régime du paragraphe 41(2) de cette loi et qui fait l’objet de l’accord visé aux paragraphes (3) ou 138.1(1) adresse son rapport dans les quinze mois suivant la date où elle a été ainsi constituée :
+	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
+	- **b)** à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement;
+	- **c)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(1.1)** Le ministre fédéral peut, sur demande de la commission, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.2)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (1.1).
+
+**Période exclue**
+
+- **(1.3)** Dans le cas où la commission exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (1) ou de sa prolongation.
 
 **Application de certaines dispositions**
 
 - **(2)** L’examen effectué par cette commission tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la commission pour réexamen.
-> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87.
+
+**Renvoi : alinéa 130(1)c)**
+
+- **(3)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement, à l’exception d’un projet visé à l’article 138.1, l’Office doit conclure avec lui, dans les trois mois suivant la date où ce ministre a été saisi du projet, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(4)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (3) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(5)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (4).
+
+**Période exclue**
+
+- **(6)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (3) ou de sa prolongation.
+> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87; 2014, ch. 2, art. 219.
 
 
 
@@ -2687,7 +2993,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **138.1** 
 
-- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec celui-ci un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2.1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec lui un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 41(2) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
 
 **Médiation**
 
@@ -2700,27 +3006,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Portée de l’étude d’impact en l’absence d’un accord**
 
 - **(4)** Malgré les paragraphes (1) à (3), faute de conclusion, dans le délai réglementaire, de l’accord prévu au présent article, une formation de l’Office réalise une étude d’impact qui ne porte que sur les parties du projet devant être réalisées dans la vallée du Mackenzie.
-> 2005, ch. 1, art. 87.
+> 2005, ch. 1, art. 87; 2014, ch. 2, art. 220.
 
 
 
 
-
-**Entente avec l’organisme administratif désigné**
-
-**139** 
-
-- **(1)** Dans les cas où une étude d’impact a été ordonnée en vertu de la présente partie, l’Office et l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement devant, selon l’Office, être réalisé entièrement dans la vallée du Mackenzie, mais à l’exclusion d’un projet de développement dont le ministre de l’Environnement a été saisi en vertu de l’alinéa 130(1)c), peuvent conclure une entente visant l’examen des répercussions environnementales du projet par une formation conjointe mise sur pied à cette fin.
-
-**Rapport de la formation conjointe**
-
-- **(2)** La formation conjointe adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations visés au paragraphe (1). Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
-
-**Application de certaines dispositions**
-
-- **(3)** L’examen effectué par une telle formation tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
-> 1998, ch. 25, art. 139; 2005, ch. 1, art. 87.
-
+**139** [Abrogé, 2014, ch. 2, art. 221]
 
 
 
@@ -2735,14 +3026,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Dans les cas où, selon l’Office, le projet de développement visé au paragraphe (1), autre qu’un projet de développement dont le ministre de l’Environnement a été saisi en vertu de l’alinéa 130(1)c), aura vraisemblablement des répercussions négatives importantes sur l’environnement dans une région située à l’extérieur de la vallée du Mackenzie, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région une entente visant soit la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet, soit l’examen de ces répercussions par une formation conjointe mise sur pied à cette fin.
 
+**Délai**
+
+- **(2.1)** Toute entente conclue en vertu du paragraphe (2) visant l’examen des répercussions environnementales du projet par une formation conjointe doit l’être dans les trois mois suivant la date où l’Office est informé :
+	- **a)** soit que la réalisation d’une étude d’impact est ordonnée en vertu de l’alinéa 130(1)b) ou du paragraphe 131(1);
+	- **b)** soit que le ministre de l’Environnement n’est pas saisi de l’affaire aux termes du paragraphe 130(4.07).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(2.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (2.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(2.3)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (2.2).
+
+**Période exclue**
+
+- **(2.4)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (2.1) ou de sa prolongation.
+
+**Étude d’impact**
+
+- **(2.5)** Malgré les paragraphes (2.1) à (2.4), faute de conclusion, dans le délai imparti, de l’entente, une formation de l’Office réalise l’étude d’impact.
+
 **Rapport de la formation conjointe**
 
-- **(3)** La formation conjointe mise sur pied sous le régime d’une telle entente adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+- **(3)** La formation conjointe mise sur pied sous le régime d’une telle entente adresse son rapport dans les quinze mois suivant la date où elle a été mise sur pied :
+	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
+	- **b)** à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet en question;
+	- **c)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(3.1)** Le ministre fédéral peut, sur demande de la formation conjointe, prolonger d’au plus deux mois le délai prévu au paragraphe (3) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(3.2)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (3.1).
+
+**Période exclue**
+
+- **(3.3)** Dans le cas où la formation conjointe exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (3) ou de sa prolongation.
 
 **Application de certaines dispositions**
 
 - **(4)** L’examen effectué par cette formation conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
-> 1998, ch. 25, art. 140; 2005, ch. 1, art. 88.
+> 1998, ch. 25, art. 140; 2005, ch. 1, art. 88; 2014, ch. 2, art. 222.
 
 
 
@@ -2761,14 +3089,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord ou entente — projet ne concernant pas le Wekeezhii**
 
 - **(2)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1) b)(i), des alinéas 128(1)c) ou 130(1) a) ou b) ou du paragraphe 131(1) à l’égard d’un projet visé au paragraphe (1) mais non visé au paragraphe (3), l’Office peut, avec l’agrément du ministre fédéral :
-	- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régie par la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), conclure avec le ministre de l’Environnement un accord conformément aux articles 40 et 41 de cette loi visant un examen par une commission conjointe;
+	- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régie par la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), conclure avec le ministre de l’Environnement un accord conformément au paragraphe 40(1) de cette loi visant un examen par une commission conjointe;
 	- **b)** dans tous les autres cas, conclure avec l’organisme chargé, dans cette province ou cette région, de l’examen des effets sur l’environnement une entente visant la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet ou visant l’examen de celles-ci par une formation conjointe mise sur pied à cette fin.
+
+**Délai**
+
+- **(2.1)** Tout accord conclu en vertu de l’alinéa (2)a) — ou toute entente conclue en vertu de l’alinéa (2)b) visant l’examen des répercussions environnementales du projet par une formation conjointe — doit l’être dans les trois mois suivant la date où l’Office est informé :
+	- **a)** soit que la réalisation d’une étude d’impact est ordonnée en vertu des alinéas 130(1)a) ou b) ou du paragraphe 131(1);
+	- **b)** soit que le ministre de l’Environnement n’est pas saisi de l’affaire aux termes du paragraphe 130(4.07).
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(2.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (2.1) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(2.3)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (2.2).
+
+**Période exclue**
+
+- **(2.4)** Dans le cas où l’Office exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (2.1) ou de sa prolongation.
+
+**Étude d’impact**
+
+- **(2.5)** Malgré les paragraphes (2.1) à (2.4), faute de conclusion, dans le délai imparti, de l’accord ou de l’entente, selon le cas, une formation de l’Office réalise une étude d’impact portant sur les seules parties du projet devant être réalisées dans la vallée du Mackenzie.
 
 **Accord — projet en partie au Wekeezhii ou susceptible d’y avoir des répercussions**
 
 - **(3)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1)b)(i), des alinéas 128(1)c) ou 130(1)a) ou b) ou du paragraphe 131(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure :
 	- **a)** avec l’organisme chargé, pour la partie du projet devant être réalisée à l’extérieur de la vallée du Mackenzie, de l’examen des effets sur l’environnement, un accord établissant une formation conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci;
-	- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où le ministre est habilité à conclure un accord en vertu de l’article 40 de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+	- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où ce ministre est habilité à conclure un accord en vertu du paragraphe 40(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
 
 **Portée de l’étude d’impact en l’absence d’un accord**
 
@@ -2776,12 +3126,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport de la formation conjointe ou de la commission conjointe**
 
-- **(5)** La formation conjointe ou la com­mission conjointe adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé en partie sur les terres tlichos. Dans les cas d’entente ou d’accord visé à l’alinéa (2)b) ou (3)a), le rapport est en outre adressé au ministre des gouvernements fédéral, provincial ou territorial ayant compétence en ce qui touche l’examen effectué par l’organisme en question.
+- **(5)** La formation conjointe ou la commission conjointe adresse son rapport dans les quinze mois suivant la date où a été conclu l’entente visée au paragraphe (2) ou l’accord visé aux paragraphes (2) ou (3) :
+	- **a)** au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent;
+	- **b)** à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet en question;
+	- **c)** dans le cas d’une entente ou d’un accord visé aux alinéas (2)b) et (3)a), respectivement, au ministre des gouvernements fédéral, provincial ou territorial ayant compétence en ce qui touche l’examen effectué par l’organisme en question;
+	- **d)** au gouvernement tlicho, s’il s’agit d’un projet devant être réalisé en partie sur les terres tlichos.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(5.1)** Le ministre fédéral peut, sur demande de la formation conjointe ou de la commission conjointe, prolonger d’au plus deux mois le délai prévu au paragraphe (5) pour tenir compte des circonstances particulières du projet.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(5.2)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu du paragraphe (5.1).
+
+**Période exclue**
+
+- **(5.3)** Dans le cas où la formation conjointe ou la commission conjointe exige du promoteur du projet qu’il lui fournisse des renseignements ou qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai visé au paragraphe (5) ou de sa prolongation.
 
 **Application de certaines dispositions**
 
 - **(6)** L’examen effectué par la formation conjointe ou la commission conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe ou à la commission conjointe pour réexamen.
-> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89.
+> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89; 2014, ch. 2, art. 223.
 
 
 
@@ -2791,6 +3157,73 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **142** Dans les cas de projet de développement qui, d’une part, doit être entièrement réalisé soit dans une région des Territoires du Nord-Ouest, du Yukon ou du Nunavut voisine de la vallée du Mackenzie, soit dans une province, et, d’autre part, est susceptible d’avoir des répercussions négatives importantes sur l’environnement de cette vallée, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent de cette région ou de cette province une entente visant la participation de l’Office à l’examen effectué par cet organisme au sujet des effets sur l’environnement du projet.
 > 1998, ch. 15, art. 48, ch. 25, art. 142; 2002, ch. 7, art. 207(A).
+
+
+
+
+
+### Registre public
+
+
+
+**Registre public**
+
+**142.1** 
+
+- **(1)** L’Office tient à son siège un registre accessible au public dans lequel sont portés :
+	- **a)** tous les renseignements produits, recueillis ou reçus par lui et par ses formations, les formations conjointes et les commissions conjointes établies par lui et une autre autorité dans le cadre de l’évaluation environnementale ou de l’étude d’impact d’un projet de développement;
+	- **b)** la notification relative au projet visée aux paragraphes 124(1) ou (2);
+	- **c)** le rapport d’examen visé aux paragraphes 125(1) ou (2).
+
+**Consultation**
+
+- **(2)** Toute personne peut, sur paiement des droits réglementaires, consulter le registre pendant les heures de bureau de l’Office.
+
+**Copies d’extraits du registre**
+
+- **(3)** L’Office fournit, sur demande et sur paiement des droits réglementaires, copie des renseignements contenus dans le registre.
+
+**Accessibilité dans Internet**
+
+- **(4)** Le registre doit également être accessible au public dans Internet.
+
+**Genre d’information disponible**
+
+- **(5)** Malgré toute autre disposition de la présente loi, le registre ne comporte que les renseignements :
+	- **a)** qui ont par ailleurs été rendus publics;
+	- **b)** dont, de l’avis de l’Office, dans le cas de documents :
+		- **(i)** soit la communication serait faite conformément à la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) si une demande en ce sens était faite sous le régime de celle-ci au moment où l’Office prend le contrôle des documents, y compris les documents qui seraient communiqués dans l’intérêt public en vertu du paragraphe 20(6) de cette loi,
+		- **(ii)** soit il existe des motifs raisonnables de croire qu’il serait dans l’intérêt public de les communiquer parce qu’ils sont nécessaires à une participation efficace du public à l’examen préalable, à l’évaluation environnementale ou à l’étude d’impact d’un projet, à l’exception des documents contenant des renseignements dont la communication doit être refusée au titre de l’article 20 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+
+**Application des articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)**
+
+- **(6)** Sous réserve des adaptations nécessaires, notamment de celles ci-après, les articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’appliquent à tout renseignement visé au paragraphe 27(1) de cette loi que l’Office a l’intention de faire verser au registre :
+	- **a)** le renseignement est réputé constituer un document que le responsable d’une institution fédérale a l’intention de communiquer;
+	- **b)** il ne doit pas être tenu compte des mentions de la personne qui fait la demande de communication des renseignements.
+> 2014, ch. 2, art. 224.
+
+
+
+
+
+### Instructions générales obligatoires
+
+
+
+**Instructions ministérielles**
+
+**142.2** 
+
+- **(1)** Le ministre fédéral peut, après consultation de l’Office et du gouvernement tlicho, donner par écrit des instructions générales obligatoires à l’Office ou à ses formations relativement à l’exercice de leurs attributions en vertu de la présente loi.
+
+**Non-application**
+
+- **(2)** Les instructions ne visent toutefois pas le projet de développement dont l’Office ou l’une de ses formations est saisi au moment où ces instructions sont données.
+
+**Incompatibilité entre la loi et les instructions**
+
+- **(3)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
+> 2014, ch. 2, art. 224.
 
 
 
@@ -2810,7 +3243,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** la forme et le contenu des rapports;
 	- **b)** énumérer, parmi les règles de droit fédérales et territoriales qui prévoient la délivrance de permis ou d’autres autorisations par une autorité administrative ou un organisme administratif désigné, relativement aux projets de développement, celles pour lesquelles cette délivrance doit être précédée d’un examen préalable;
 	- **c)** soustraire à l’examen préalable certains projets de développement ou certaines catégories de ceux-ci pour l’un des motifs prévus aux alinéas 124(1) a) ou b);
-	- **d)** prévoir l’établissement et la tenue de registres publics, permettre leur consultation par le public, fixer les heures et les modalités de consultation et de reproduction des registres ainsi que les droits à payer pour ces services;
+	- **d)** déterminer la forme du registre que doit tenir l’Office en application de l’article 142.1 et les renseignements à y porter et régir les droits à payer pour sa consultation ou l’obtention de copies;
 	- **e)** régir la médiation visée au paragraphe 138.1(2) et fixer le délai prévu par ce paragraphe;
 	- **f)** régir l’arbitrage visé au paragraphe 138.1(3) et fixer le délai prévu par ce paragraphe;
 	- **g)** fixer le délai prévu par les paragraphes 138.1(4) et 141(4).
@@ -2821,10 +3254,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Limite**
 
-- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1) b) les projets de développement :
-	- **a)** ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 59 b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md);
-	- **b)** assujettis, individuellement ou par catégorie, à une étude environnementale approfondie du fait de la désignation prévue à l’alinéa 59 d) de cette loi.
-> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90.
+- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 84a) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90; 2014, ch. 2, art. 226.
 
 
 
@@ -2941,79 +3372,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Dispositions transitoires
 
 
-
-**Permis d’utilisation des terres existants**
-
-**151** 
-
-- **(1)** Les permis délivrés en vertu des règlements d’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou en vertu de toute règle de droit territoriale en ce qui touche l’utilisation des terres soit dans une région désignée, soit dans toute autre région de la vallée du Mackenzie et existant à la date d’entrée en vigueur des articles 54 et 56 ou 99, selon le cas, sont maintenus, ainsi que les conditions dont ils sont assortis.
-
-**Permis délivrés sous l’ancien régime**
-
-- **(2)** L’office constitué en vertu des articles 54, 56 ou 99 peut soit modifier, renouveler ou annuler les permis visés au paragraphe (1) et délivrés relativement à la région désignée ou à toute autre région de la vallée du Mackenzie, selon le cas, soit en autoriser la cession, le tout en conformité avec les règlements d’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou les règles de droit territoriales pertinentes. Il peut de plus exercer, en ce qui touche ces permis, toute autre attribution conférée soit par ces règlements à l’ingénieur — au sens de ceux-ci — , soit par ces règles de droit à l’autorité qui y est précisée, selon le cas.
-
-**Registre public**
-
-- **(3)** Sont portés au registre visé au paragraphe 72(1) les renseignements prévus par les règlements pris en vertu de l’article 90 en ce qui touche les permis visés au paragraphe (1).
-
-**Formation régionale**
-
-- **(4)** Il est entendu que, dans les cas visés au paragraphe 102(2), les pouvoirs conférés par le présent article à l’office constitué en vertu de l’article 99 sont exercés par la formation régionale compétente, les demandes en ce sens lui étant directement présentées.
+**151** [Abrogé, 2014, ch. 2, art. 232]
 
 
 
 
 **Droits existants**
 
-**152** Les droits d’utilisation des terres découlant d’un bail, d’un droit de passage ou d’un autre droit sur les terres accordé sous le régime soit de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md), soit d’une règle de droit territoriale, et existant à la date d’entrée en vigueur des articles 54 et 56 ou 99, selon le cas, sont maintenus, ainsi que les conditions auxquelles leur exercice est assujetti.
+**152** Les droits d’utilisation des terres découlant d’un bail, d’une servitude ou d’un autre intérêt sur les terres accordé sous le régime soit de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md), soit d’une règle de droit territoriale, et, en ce qui touche une région désignée, existant le 22 décembre 1998 ou, en ce qui touche toute autre région de la vallée du Mackenzie, existant le 31 mars 2000, sont maintenus, ainsi que les conditions auxquelles leur exercice est assujetti.
+> 1998, ch. 25, art. 152; 2014, ch. 2, art. 233.
+
 
 
 
 
 **Permis d’utilisation des eaux existants**
 
-**153** Les permis délivrés sous le régime de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) en ce qui touche soit la région désignée en question, soit toute autre région de la vallée du Mackenzie et existant à la date d’entrée en vigueur des articles 54 et 56 ou 99, selon le cas, sont maintenus et assimilés aux permis d’utilisation des eaux au sens des parties 3 ou 4.
+**153** Les permis délivrés sous le régime de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) en ce qui touche une région désignée et existant le 22 décembre 1998 ou, en ce qui touche toute autre région de la vallée du Mackenzie, existant le 31 mars 2000, sont maintenus et assimilés aux permis d’utilisation des eaux au sens de la partie 3.
+> 1998, ch. 25, art. 153; 2014, ch. 2, art. 233.
 
 
 
 
-**Demandes antérieures à l’entrée en vigueur : terres**
-
-**154** 
-
-- **(1)** Sont instruites en conformité avec les règlements d’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) — dans leur version en vigueur au moment de la présentation — les demandes présentées en vertu de ces textes avant l’entrée en vigueur des articles 54 et 56 ou 99 et relatives à l’utilisation des terres soit d’une région désignée, soit de toute autre région de la vallée du Mackenzie, selon le cas.
-
-**Présomption**
-
-- **(2)** Le document alors délivré, la modification alors apportée ou le renouvellement alors effectué est censé l’avoir été par l’office compétent et ce, en conformité avec les parties 3 ou 4, selon le cas.
+**154** [Abrogé, 2014, ch. 2, art. 234]
 
 
 
-
-**Demandes antérieures à l’entrée en vigueur : eaux**
-
-**155** 
-
-- **(1)** Sont instruites en conformité avec les dispositions de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) — dans leur version en vigueur au moment de la présentation — les demandes présentées sous le régime de celle-ci avant l’entrée en vigueur des articles 54 et 56 ou 99 et relatives à l’utilisation des eaux ou au dépôt de déchets soit dans une région désignée, soit dans toute autre région de la vallée du Mackenzie, selon le cas, si un avis d’audience a été publié, avant cette entrée en vigueur, en vertu du paragraphe 23(2) de cette loi.
-
-**Présomption**
-
-- **(2)** Le document alors délivré, la modification alors apportée ou le renouvellement alors effectué est censé l’avoir été par l’office compétent et ce, en conformité avec les parties 3 ou 4, selon le cas.
-
-**Demandes n’ayant pas fait l’objet d’un avis**
-
-- **(3)** Dans les cas où un avis d’audience n’a pas été publié en vertu du paragraphe 23(2) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les demandes visées au paragraphe (1) sont instruites par l’office compétent aux termes des parties 3 ou 4, selon le cas.
-
-**Transfert de dossiers**
-
-- **(4)** L’Office des eaux des Territoires du Nord-Ouest est tenu de transférer à l’office compétent aux termes des parties 3 ou 4 les dossiers relatifs aux demandes visées au paragraphe (3) et de lui fournir tout renseignement en sa possession que ce dernier peut exiger pour exercer la compétence que lui confère ce paragraphe.
+**155** [Abrogé, 2014, ch. 2, art. 234]
 
 
 
-
-**Situation particulière**
-
-**156** Dans les cas où, avant l’entrée en vigueur de l’article 99, l’utilisation projetée des terres, dans une région non désignée de la vallée du Mackenzie nécessiterait, en l’absence du présent paragraphe, la délivrance d’un permis en vertu de la partie 3, le promoteur est tenu de présenter une demande en conformité avec les règlements d’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) comme si les règlements pris en vertu de la partie 3 ne s’appliquaient pas à cette région.
+**156** [Abrogé, 2014, ch. 2, art. 234]
 
 
 
@@ -3024,9 +3413,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Toute personne qui, avant l’entrée en vigueur de l’article 84, remplit les fonctions d’un inspecteur pour l’application des règlements pris en vertu de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) est assimilée à un inspecteur désigné en vertu de cet article.
 
-**Permis délivrés sous l’ancien régime**
+- **(2)** [Abrogé, 2014, ch. 2, art. 235]
+> 1998, ch. 25, art. 157; 2014, ch. 2, art. 235.
 
-- **(2)** L’inspecteur désigné en vertu de l’article 84 peut exercer les pouvoirs d’inspection attribués par les règlements d’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) relativement aux permis d’utilisation des terres délivrés sous leur régime en ce qui touche la vallée du Mackenzie.
 
 
 
@@ -3037,33 +3426,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Maintien de l’application du décret**
-
-**158** 
-
-- **(1)** Le Décret sur les lignes directrices visant le processus d’évaluation et d’examen en matière d’environnement, approuvé par le décret C.P. 1984-2132 du 21 juin 1984 et enregistré sous le numéro DORS/84-467, continue de s’appliquer aux projets de développement — au sens de la partie 5 — pour lesquels une commission d’évaluation environnementale a été constituée sous son régime avant l’entrée en vigueur de cette partie.
-
-**Examens préalables en cours et évaluations initiales**
-
-- **(2)** Il en va de même des projets pour lesquels un examen préalable ou une évaluation initiale a été entrepris sous le régime du décret visé au paragraphe (1) avant l’entrée en vigueur de la partie 5, jusqu’à ce que le ministre de l’Environnement en soit saisi pour examen public aux termes de l’article 20 du décret. Le cas échéant, la partie 5 s’applique avec les adaptations nécessaires, la réalisation d’une étude d’impact étant réputée ordonnée en vertu de l’alinéa 130(1)a).
+**158** [Abrogé, 2014, ch. 2, art. 236]
 
 
 
-
-**[Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
-
-**159** 
-
-- **(1)** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) continue de s’appliquer aux projets de développement, au sens de la partie 5, qui, avant l’entrée en vigueur de cette partie, ont fait l’objet d’un renvoi à un médiateur ou à une commission d’évaluation environnementale en vertu du paragraphe 29(1) de cette loi.
-
-**Examen préalable et étude approfondie**
-
-- **(2)** Il en va de même des projets pour lesquels, avant l’entrée en vigueur de la partie 5, un examen préalable ou une étude approfondie a été entrepris sous le régime de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) sans qu’une décision ait été prise en vertu du paragraphe 20(1), de l’article 23 ou, en cas de renvoi effectué en vertu de l’alinéa 23a), du paragraphe 37(1) de cette loi. La prise de cette décision est cependant subordonnée à la remise d’une copie du rapport d’examen ou d’étude à l’Office d’examen des répercussions environnementales de la vallée du Mackenzie et à la consultation de celui-ci.
-
-**Renvoi aux ministres fédéral et compétents**
-
-- **(3)** Dans les cas où, toutefois, l’autorité responsable, au sens de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), ou le ministre de l’Environnement prend, en ce qui touche le projet visé au paragraphe (2), la décision prévue aux alinéas 20(1)c) ou 23b) de cette loi, selon le cas, l’affaire est renvoyée au ministre fédéral et aux ministres compétents — au sens de la partie 5 — pour qu’ils prennent une décision en vertu des alinéas 130(1)a) ou c). Dans le cas de l’alinéa 130(1)a), cette loi cesse alors de s’appliquer, au profit de la partie 5; dans le cas de l’alinéa 130(1)c), elle continue de s’appliquer dans la mesure prévue par cette dernière disposition.
+**159** [Abrogé, 2014, ch. 2, art. 236]
 
 
 
@@ -3099,5 +3466,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **(articles 111 et 144)**
 ## Organismes administratifs désignés
 
+Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
+
 Office national de l’énergie<br />- <i>National Energy Board</i>
+> 1998, ch. 25, ann.; 2014, ch. 2, art. 237.
+
 
