@@ -122,11 +122,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Delegation to territorial Minister**
+**Delegation**
 
 **4** 
 
-- **(1)** The federal Minister may, by instrument in writing, delegate to the minister of the territorial government responsible for renewable resources any of the federal Minister’s functions under this Act, either generally or as otherwise provided in the instrument of delegation.
+- **(1)** The federal Minister may delegate, in writing, any of his or her powers, duties or functions under this Act — either generally or as otherwise provided in the instrument of delegation — to the minister of the Northwest Territories designated by the Commissioner of the Northwest Territories for the purposes of this section.
 
 **Included functions**
 
@@ -143,7 +143,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** any department, agency or office of the federal or the territorial government;
 	- **(c)** a board or other public body established by or under an Act of Parliament or by a territorial law; or
 	- **(d)** a local government.
-> 1998, c. 25, s. 4; 2005, c. 1, s. 16.
+> 1998, c. 25, s. 4; 2005, c. 1, s. 16; 2014, c. 2, s. 114.
 
 
 
@@ -166,6 +166,38 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **5.1** The rights of the Tlicho First Nation, Tlicho citizens and the Tlicho Government under this Act are subject to the provisions of any agreement entered into between the Tlicho Government and an aboriginal people, other than the Tlicho First Nation, under 2.7.3 of chapter 2 of the Tlicho Agreement.
 > 2005, c. 1, s. 17.
+
+
+
+
+
+**Time limits**
+
+**5.2** 
+
+- **(1)** The failure of any of the following to exercise a power or perform a duty or function within a period or time limit fixed or prescribed under this Act does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise of such a power or the performance of such duty or function:
+	- **(a)** the federal Minister;
+	- **(b)** the Gwich’in Land Use Planning Board;
+	- **(c)** the Sahtu Land Use Planning Board;
+	- **(d)** the Gwich’in Land and Water Board;
+	- **(e)** the Sahtu Land and Water Board;
+	- **(f)** the Wekeezhii Land and Water Board;
+	- **(g)** the Mackenzie Valley Land and Water Board;
+	- **(h)** a responsible minister, as defined in section 111;
+	- **(i)** the Mackenzie Valley Environmental Impact Review Board or one of its panels;
+	- **(j)** a joint panel established under subsection 140(2) or paragraph 141(2)(b) or (3)(a) or a review panel referred to in subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md); and
+	- **(k)** a designated regulatory agency, as defined in section 111.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply with respect to
+	- **(a)** the periods fixed by regulations referred to in subsections 138.1(2), (3) and (4) and 141(4); and
+	- **(b)** any other period or time limit fixed by regulations that is exempted from the application of subsection (1) by regulation.
+
+**Regulations**
+
+- **(3)** The Governor in Council may, by regulation, exempt a period or time limit set out in the regulations, other than those referred to in paragraph 2(a), from the application of subsection (1).
+> 2014, c. 2, s. 115.
 
 
 
@@ -332,12 +364,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **17** 
 
-- **(1)** Members of a board, other than any members appointed pursuant to a determination under section 15, shall be paid such fees or other remuneration as the federal Minister may fix.
+- **(1)** Members of a board, including any members appointed in accordance with a determination under section 15, shall be paid the fees or other remuneration that the federal Minister may fix.
 
 **Expenses**
 
 - **(2)** Such members shall be paid such travel and living expenses, incurred by them while absent from their ordinary place of residence in the course of performing their duties, as are consistent with directives of the Treasury Board.
-> 1998, c. 25, s. 17; 2005, c. 1, s. 24.
+> 1998, c. 25, s. 17; 2005, c. 1, s. 24; 2014, c. 2, s. 123.
 
 
 
@@ -367,7 +399,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Protection from personal liability**
 
-**20** The members and employees of a board are not liable for anything done or omitted to be done in good faith in the exercise or purported exercise of any powers under this Act.
+**20** The members and employees of a board are not liable for anything done or omitted to be done in good faith in the exercise or performance or purported exercise or performance of any powers, duties or functions under this Act.
+> 1998, c. 25, s. 20; 2014, c. 2, s. 124.
+
 
 
 
@@ -523,7 +557,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **31** 
 
-- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment thereto under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 83(1) or (2), directions under section 106, policy directions under section 109 or 109.1 or guidelines under section 120.
+- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 50.1(1) or 83(1) or (2), directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
 
 **Notice in Canada Gazette**
 
@@ -532,7 +566,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(3)** For greater certainty, permits issued by a board under Part 3 or 4 either before or after the coming into force of this subsection are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1998, c. 25, s. 31; 2005, c. 1, s. 27.
+> 1998, c. 25, s. 31; 2005, c. 1, s. 27; 2014, c. 2, s. 128.
 
 
 
@@ -542,16 +576,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Concurrent jurisdiction**
-
-**32** 
-
-- **(1)** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Northwest Territories for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
-
 **Exclusive original jurisdiction**
 
-- **(2)** Despite subsection (1) and section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine any action or proceeding, whether or not by way of an application of a type referred to in subsection (1), concerning the jurisdiction of the Mackenzie Valley Land and Water Board or the Mackenzie Valley Environmental Impact Review Board.
-> 1998, c. 25, s. 32; 2002, c. 8, s. 182; 2005, c. 1, s. 28.
+**32** Despite section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine an application for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition by the Attorney General of Canada, the Attorney General of the Northwest Territories or anyone directly affected by the matter in respect of which relief is sought.
+> 1998, c. 25, s. 32; 2002, c. 8, s. 182; 2005, c. 1, s. 28; 2014, c. 2, s. 129.
 
 
 
@@ -831,6 +859,29 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+### Policy Directions
+
+
+
+**Minister’s policy directions to board**
+
+**50.1** 
+
+- **(1)** The federal Minister may, after consultation with a planning board, give written policy directions that are binding on the planning board with respect to the exercise of any of its functions under this Act.
+
+**Limitation**
+
+- **(2)** Policy directions do not apply in respect of an application referred to in paragraph 44(b), a referral or application under subsection 47(1) or a proposed amendment to a land use plan under subsection 48(1) that, at the time the directions are given, is before the planning board.
+
+**Conflict**
+
+- **(3)** If there is a conflict between the policy directions given under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
+> 2014, c. 2, s. 131.
+
+
+
+
+
 **PART 3** 
 ## Land and Water Regulation
 
@@ -1056,14 +1107,25 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 - **(3.1)** Sections 15.1 to 15.5 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) apply to the board in relation to Inuit-owned lands referred to in those sections, even though those lands are outside the Mackenzie Valley.
 
+**Excluded period**
+
+- **(3.2)** If a licence relates to a proposed development that is, under Part 5, subject to an environmental assessment, an environmental impact review or an examination of impacts on the environment that stands in lieu of an environmental impact review, then the period that is taken to complete that assessment, review or examination is not included in the calculation of the time limit under subsection 24.2(1) or 24.3(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or of its extension.
+
+**Suspension of time limit**
+
+- **(3.3)** A board may suspend a time limit referred to in subsection 24.2(1) or 24.3(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or the extension of such a limit
+	- **(a)** if the board determines that the applicant is required to pay compensation, or to enter into a compensation agreement, under subsection 14(4) of that Act, until the applicant satisfies the board that the compensation has been or will be paid or that they have entered into a compensation agreement, as the case may be;
+	- **(b)** if the board is not permitted to issue a licence except in accordance with subsection 15.1(1) of that Act, until the applicant has entered into a compensation agreement under paragraph 15.1(1)(a) of that Act or until a determination of compensation has been made under paragraph 15.1(1)(b) of that Act, as the case may be; or
+	- **(c)** if the board determines that the applicant is required to enter into a compensation agreement under section 77 or 79.1, until the applicant satisfies the board that they have done so or the board has determined, under section 79 or 79.3, the compensation payable by the applicant.
+
 **[Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md)**
 
-- **(4)** Notwithstanding subsection (1), the following provisions of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) do not apply in respect of a management area, namely, sections 10 to 13, subsection 14(6), sections 20 and 22, paragraphs 23(1)(b) and (2)(b), section 24, section 26 except in relation to type A licences under that Act, sections 27 and 28 and subsection 37(2).
+- **(4)** Despite subsection (1), sections 7.2, 7.3, 10 to 13, 18.1, 20 and 22, paragraphs 23(1)(b) and (2)(b), section 24, subsections 24.3(2) and (3), section 24.6, section 26 except in relation to type A licences under that Act, sections 27 to 28.2, subsection 37(2) and sections 44.01 to 44.3 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) do not apply in respect of a management area.
 
 **[Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md)**
 
 - **(5)** Notwithstanding subsection (1), section 31 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) does not apply in respect of first nation lands or Tlicho lands.
-> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178; 2005, c. 1, s. 34.
+> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178; 2005, c. 1, s. 34; 2014, c. 2, ss. 110, 138.
 
 
 
@@ -1470,19 +1532,11 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**Ministerial approval of type A licences**
+**Ministerial approval**
 
-**81** 
+**81** A board is not permitted to issue, amend, renew or cancel a type A licence referred to in the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), or a type B licence referred to in that Act in connection with which a public hearing is held by the board with respect to its issuance, renewal, amendment or cancellation, without the approval of the federal Minister.
+> 1998, c. 25, s. 81; 2014, c. 2, s. 173.
 
-- **(1)** A board may not issue a type A licence referred to in the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) without the approval of the federal Minister.
-
-**Notification**
-
-- **(2)** The federal Minister shall, within thirty days after receiving a type A licence prepared by a board, notify the board whether or not the licence is approved and provide written reasons in the notification.
-
-**Time extension**
-
-- **(3)** The federal Minister may extend the period of thirty days allowed by subsection (2) by not more than thirty additional days.
 
 
 
@@ -1510,7 +1564,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **83** 
 
-- **(1)** The federal Minister may, after consultation with a board, give written policy directions binding on the board with respect to the exercise of any of its functions under this Part. The federal Minister shall also consult the Tlicho Government before giving such written policy directions to the Wekeezhii Land and Water Board.
+- **(1)** The federal Minister may, after consultation with a board, give written policy directions that are binding on the board with respect to the exercise of any of its functions under this Act. The federal Minister shall also consult the Tlicho Government before giving such written policy directions to the Wekeezhii Land and Water Board.
 
 **Policy directions by the Tlicho Government to the Wekeezhii Board**
 
@@ -1531,7 +1585,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Conflict between legislation and policy directions**
 
 - **(6)** If there is a conflict between policy directions given by the federal Minister or the Tlicho Government under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
-> 1998, c. 25, s. 83; 2005, c. 1, s. 47.
+> 1998, c. 25, s. 83; 2005, c. 1, s. 47; 2014, c. 2, s. 175.
 
 
 
@@ -1699,11 +1753,13 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**Principal offences**
+**Principal offences — land use**
 
 **92** 
 
-- **(1)** Every person who contravenes section 90.1, any provision of the regulations, any condition of a permit or an order of an inspector under subsection 86(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding six months, or to both.
+- **(1)** Every person who contravenes section 90.1, any provision of regulations made under section 90, any condition of a permit or an order of an inspector under subsection 86(1) or (2) is guilty of an offence and is liable on summary conviction
+	- **(a)** for a first offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding six months, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding six months, or to both.
 
 **Reparation**
 
@@ -1715,16 +1771,35 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Contravening orders**
 
-- **(4)** Every person who contravenes section 87 is guilty of an offence and liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding six months, or to both.
-> 1998, c. 25, s. 92; 2005, c. 1, s. 53.
+- **(4)** Every person who contravenes subsection 87(1), (2) or (3), in relation to the use of land, is guilty of an offence and is liable on summary conviction
+	- **(a)** for a first offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding six months, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding six months, or to both.
+> 1998, c. 25, s. 92; 2005, c. 1, s. 53; 2014, c. 2, s. 187.
 
 
 
 
 
-**Limitation period**
+**Deeming — subsequent offence for land use**
 
-**93** Proceedings in respect of an offence under section 92 may not be instituted later than two years after the time when the subject-matter of the proceedings arose.
+**92.1** 
+
+- **(1)** For the purposes of subsections 92(1) and (4), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted of a substantially similar offence under an Act of Parliament — or an Act of the legislature of a province — that relates to environmental or wildlife conservation or protection or heritage resources.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2014, c. 2, s. 190.
+
+
+
+
+
+**Limitation period or prescription**
+
+**93** No proceedings in respect of an offence under section 92 are to be instituted more than five years after the day on which the federal Minister becomes aware of the acts or omissions that constitute the alleged offence.
+> 1998, c. 25, s. 93; 2014, c. 2, s. 190.
+
 
 
 
@@ -2130,6 +2205,15 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+**Federal Minister — powers, duties and functions**
+
+**111.1** The federal Minister shall exercise the powers and perform the duties and functions of any responsible minister who is a minister of the Crown in right of Canada for the purposes of subsections 130(1) to (3) and sections 131.2, 135 and 137.2.
+> 2014, c. 2, s. 199.
+
+
+
+
+
 ### Establishment of Review Board
 
 
@@ -2180,11 +2264,17 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Guiding principles**
 
-**115** The process established by this Part shall be carried out in a timely and expeditious manner and shall have regard to
-- **(a)** the protection of the environment from the significant adverse impacts of proposed developments;
-- **(b)** the protection of the social, cultural and economic well-being of residents and communities in the Mackenzie Valley; and
-- **(c)** the importance of conservation to the well-being and way of life of the aboriginal peoples of Canada to whom section 35 of the Constitution Act, 1982 applies and who use an area of the Mackenzie Valley.
-> 1998, c. 25, s. 115; 2005, c. 1, s. 67.
+**115** 
+
+- **(1)** The process established by this Part shall be carried out in a timely and expeditious manner and shall have regard to
+	- **(a)** the protection of the environment from the significant adverse impacts of proposed developments;
+	- **(b)** the protection of the social, cultural and economic well-being of residents and communities in the Mackenzie Valley; and
+	- **(c)** the importance of conservation to the well-being and way of life of the aboriginal peoples of Canada to whom section 35 of the Constitution Act, 1982 applies and who use an area of the Mackenzie Valley.
+
+**Consideration of previous assessment activities**
+
+- **(2)** A person or body conducting a preliminary screening, an environmental assessment, an environmental impact review or an examination of impacts on the environment that stands in lieu of an environmental impact review in respect of a proposed development shall consider, and may rely on, any assessment activities previously carried out under this Part in respect of that development.
+> 1998, c. 25, s. 115; 2005, c. 1, s. 67; 2014, c. 2, s. 201.
 
 
 
@@ -2199,12 +2289,12 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**[Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
+**[Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
 
-**116** The [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
+**116** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
 - **(a)** proposals referred to the Minister of the Environment pursuant to paragraph 130(1)(c), to the extent provided by that Act; or
 - **(b)** proposals that are the subject of agreements referred to in paragraph 141(2)(a) or (3)(b), to the extent provided by such agreements.
-> 1998, c. 25, s. 116; 2005, c. 1, s. 69.
+> 1998, c. 25, s. 116; 2005, c. 1, s. 69; 2014, c. 2, s. 202.
 
 
 
@@ -2447,12 +2537,28 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(c)** where the development is likely in its opinion to be a cause of significant public concern, order that an environmental impact review of the proposal be conducted, subject to paragraph 130(1)(c); and
 	- **(d)** where the development is likely in its opinion to cause an adverse impact on the environment so significant that it cannot be justified, recommend that the proposal be rejected without an environmental impact review.
 
-**Report to ministers, agencies and Tlicho Government**
+**Review Board’s report**
 
-- **(2)** The Review Board shall make a report of an environmental assessment to
+- **(2)** The Review Board shall, within nine months after the day on which a proposal is referred to it under section 125 or subsection 126(2) or the day on which it starts to conduct an assessment under subsection 126(3), complete its environmental assessment and make a report of that assessment to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
 	- **(c)** if the development is to be carried out wholly or partly on Tlicho lands, the Tlicho Government.
+
+**Time limit — hearings**
+
+- **(2.1)** If the Review Board holds a public hearing during the conduct of the environmental assessment, the time limit referred to in subsection (2) is extended to 16 months.
+
+**Extension of time limit by federal Minister**
+
+- **(2.2)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (2) or (2.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(2.3)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (2.2) any number of times.
+
+**Excluded period**
+
+- **(2.4)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit or of its extension.
 
 **Copies of report**
 
@@ -2461,7 +2567,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Areas identified**
 
 - **(4)** The Review Board shall identify in its report any area within or outside the Mackenzie Valley in which the development is likely, in its opinion, to have a significant adverse impact or to be a cause of significant public concern and specify the extent to which that area is affected.
-> 1998, c. 25, s. 128; 2005, c. 1, s. 78.
+> 1998, c. 25, s. 128; 2005, c. 1, s. 78; 2014, c. 2, s. 206.
 
 
 
@@ -2488,11 +2594,14 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(b)** where a recommendation is made under subparagraph 128(1)(b)(ii) or paragraph 128(1)(d),
 		- **(i)** to adopt the recommendation or refer it back to the Review Board for further consideration, or
 		- **(ii)** after consulting the Review Board, to adopt the recommendation with modifications or reject it and order an environmental impact review of the proposal; or
-	- **(c)** irrespective of the determination in the report, to refer the proposal to the Minister of the Environment, following consultation with that Minister, for the purpose of a joint review under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), where the federal Minister and the responsible ministers determine that it is in the national interest to do so.
+	- **(c)** irrespective of the determination in the report, to refer the proposal to the Minister of the Environment, following consultation with that Minister, for the purpose of a joint review under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), if the federal Minister and the responsible ministers determine that it is in the national interest to do so.
 
 **Consultation**
 
-- **(1.1)** Before making an order under paragraph (1)(a) or a referral under paragraph (1)(c), the federal Minister and the responsible ministers shall consult the Tlicho Government if the development is to be carried out wholly or partly on Tlicho lands.
+- **(1.1)** Before making an order under paragraph (1)(a) or a referral under paragraph (1)(c), the federal Minister and the responsible ministers shall consult
+	- **(a)** the Gwich’in First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51;
+	- **(b)** the Sahtu First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51; and
+	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
 **Areas identified**
 
@@ -2506,10 +2615,50 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(4)** The federal Minister shall distribute a decision made under this section to the Review Board and to every first nation, local government, regulatory authority and department and agency of the federal or territorial government affected by the decision.
 
+**Time limits**
+
+- **(4.01)** The federal Minister shall distribute a decision made under this section within three months after the day on which the federal Minister receives the Review Board’s report of an environmental assessment.
+
+**Time limit — hearings**
+
+- **(4.02)** If the Review Board holds a public hearing during the conduct of the environmental assessment, the time limit referred to in subsection (4.01) is extended to five months.
+
+**Extension of time limit by federal Minister**
+
+- **(4.03)** The federal Minister may extend the time limit referred to in subsection (4.01) or (4.02) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(4.04)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (4.03) any number of times.
+
+**Time limit — further consideration**
+
+- **(4.05)** If a recommendation is referred back to the Review Board for further consideration under subparagraph (1)(b)(i), the time taken for that referral and consideration is included in the calculation of the time limit set out in subsection (4.01) or (4.02) or of its extension.
+
+**Excluded period**
+
+- **(4.06)** If the federal Minister or the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the federal Minister’s or the Review Board’s opinion, as the case may be, to comply with the requirement is not included in the calculation of the time limit under subsection (4.01) or (4.02) or of its extension.
+
+**Notification — paragraph (1)(c)**
+
+- **(4.07)** If, following an order by the Review Board that an environmental impact review of a proposal be conducted, the federal Minister and the responsible ministers do not refer a proposal to the Minister of the Environment under paragraph (1)(c), the federal Minister shall so advise the Review Board in writing within three months after the day on which the federal Minister receives the Review Board’s report of an environmental assessment.
+
+**Time limit — hearings**
+
+- **(4.08)** If the Review Board holds a public hearing during the conduct of the environmental assessment, the time limit referred to in subsection (4.07) is extended to five months.
+
+**Extension of time limit by federal Minister**
+
+- **(4.09)** The federal Minister may extend the time limit referred to in subsection (4.07) or (4.08) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(4.1)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (4.09) any number of times.
+
 **Effect of decision**
 
 - **(5)** The federal Minister and responsible ministers shall carry out a decision made under this section to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision to the extent of their respective authorities.
-> 1998, c. 25, s. 130; 2005, c. 1, s. 80.
+> 1998, c. 25, s. 130; 2005, c. 1, s. 80; 2014, c. 2, s. 208.
 
 
 
@@ -2523,6 +2672,30 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(a)** adopt the recommendation or refer it back to the Review Board for further consideration; or
 	- **(b)** after consulting the Review Board, adopt the recommendation with modifications or reject it and order an environmental impact review of the proposal.
 
+**Time limit**
+
+- **(1.1)** The designated regulatory agency shall make a decision under subsection (1) within three months after the day on which the agency receives the Review Board’s report of an environmental assessment.
+
+**Time limit — hearings**
+
+- **(1.2)** If the Review Board holds a public hearing during the conduct of the environmental assessment, the time limit referred to in subsection (1.1) is extended to five months.
+
+**Extension of time limit by designated regulatory agency**
+
+- **(1.3)** The designated regulatory agency may extend the time limit referred to in subsection (1.1) or (1.2) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.4)** The Governor in Council may, on the recommendation of the Minister responsible for the designated regulatory agency, further extend the time limit extended under subsection (1.3) any number of times.
+
+**Time limit — further consideration**
+
+- **(1.5)** If a recommendation is referred back to the Review Board for further consideration under paragraph (1)(a), the time taken for that referral and consideration is included in the calculation of the time limit set out in subsection (1.1) or (1.2) or of its extension.
+
+**Excluded period**
+
+- **(1.6)** If the designated regulatory agency or the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the designated regulatory agency’s or the Review Board’s opinion, as the case may be, to comply with the requirement is not included in the calculation of the time limit under subsection (1.1) or (1.2) or of its extension.
+
 **Effect of decision**
 
 - **(2)** A designated regulatory agency shall carry out, to the extent of its authority, any recommendation that it adopts.
@@ -2534,6 +2707,8 @@ before the expiration of ten days after receiving the report of the Review Board
 **Additional information**
 
 - **(4)** If a designated regulatory agency considers any new information that was not before the Review Board, or any matter of public concern that was not referred to in the Review Board’s reasons, the new information or matter shall be identified in the decision made under this section and in any consultation under paragraph (1)(b).
+> 1998, c. 25, s. 131; 2014, c. 2, s. 209.
+
 
 
 
@@ -2588,8 +2763,24 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(a)** members who were appointed on the nomination of a first nation or the Tlicho Government; and
 	- **(b)** members not so appointed, other than the chairperson.
 
-- **(4)** [Repealed, 2005, c. 1, s. 82]
-> 1998, c. 25, s. 132; 2005, c. 1, s. 82.
+**Time limit**
+
+- **(4)** The Review Board shall appoint members to a review panel within three months after the day on which the Review Board is advised, as the case may be,
+	- **(a)** of an order for an environmental impact review under paragraph 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b); or
+	- **(b)** in accordance with subsection 130(4.07), that the proposal has not been referred to the Minister of the Environment.
+
+**Extension of time limit by federal Minister**
+
+- **(5)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (4) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(6)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (5) any number of times.
+
+**Excluded period**
+
+- **(7)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (4) or of its extension.
+> 1998, c. 25, s. 132; 2005, c. 1, s. 82; 2014, c. 2, s. 212.
 
 
 
@@ -2628,17 +2819,53 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(d)** such analysis of the proposal as the review panel considers appropriate; and
 	- **(e)** public consultations or hearings in communities that will be affected by the development.
 
+**Time limit — terms of reference**
+
+- **(1.1)** The Review Board shall fix the terms of reference for the review panel within three months after the day on which the Review Board is advised, as the case may be,
+	- **(a)** of an order for an environmental impact review under paragraph 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b); or
+	- **(b)** in accordance with subsection 130(4.07), that the proposal has not been referred to the Minister of the Environment.
+
+**Extension of time limit by federal Minister**
+
+- **(1.2)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (1.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.3)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (1.2) any number of times.
+
+**Excluded period**
+
+- **(1.4)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (1.1) or of its extension.
+
 **Report**
 
 - **(2)** A review panel shall issue a report containing a summary of comments received from the public, an account of the panel’s analysis, the conclusions of the panel and its recommendation whether the proposal for the development be approved, with or without mitigative or remedial measures or a follow-up program, or rejected.
 
-**Submission to ministers, agencies and Tlicho Government**
+**Review panel’s report**
 
-- **(3)** The report of a review panel shall be submitted to
+- **(3)** Within 15 months after the first day on which both the members of the panel are appointed and the terms of reference are established, the report of a review panel shall be submitted to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
 	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
-> 1998, c. 25, s. 134; 2005, c. 1, s. 84.
+
+**Extension of time limit by federal Minister**
+
+- **(4)** The federal Minister may, at the request of the review panel, extend the time limit referred to in subsection (3) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(5)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (4) any number of times.
+
+**Excluded period**
+
+- **(6)** If the review panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the review panel’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (3) or of its extension.
+
+**Copy of report**
+
+- **(7)** A copy of the report of a review panel shall be provided to
+	- **(a)** the Gwich’in First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51; and
+	- **(b)** the Sahtu First Nation, if the development is to be carried out wholly or partly on its first nation lands, as defined in section 51.
+> 1998, c. 25, s. 134; 2005, c. 1, s. 84; 2014, c. 2, s. 213.
 
 
 
@@ -2665,10 +2892,30 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(1)** The federal Minister shall distribute a decision under section 135 to every first nation, local government, regulatory authority and department or agency of the territorial or federal government affected by the decision.
 
+**Time limits**
+
+- **(1.1)** The federal Minister shall distribute the decision within six months after the day on which the federal Minister received the review panel’s report.
+
+**Extension of time limit by federal Minister**
+
+- **(1.2)** The federal Minister may extend the time limit referred to in subsection (1.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.3)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (1.2) any number of times.
+
+**Time limit — further consideration**
+
+- **(1.4)** If a recommendation is referred back to the review panel for further consideration under paragraph 135(1)(a), the time taken for that referral and consideration is included in the calculation of the time limit set out in subsection (1.1) or of its extension.
+
+**Excluded period**
+
+- **(1.5)** If the federal Minister or the review panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the federal Minister’s or the review panel’s opinion, as the case may be, to comply with the requirement is not included in the calculation of the time limit under subsection (1.1) or of its extension.
+
 **Effect of decision**
 
 - **(2)** The federal Minister and responsible ministers shall carry out a decision made under section 135 to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision under that section shall act in conformity with the decision to the extent of their respective authorities.
-> 1998, c. 25, s. 136; 2005, c. 1, s. 85.
+> 1998, c. 25, s. 136; 2005, c. 1, s. 85; 2014, c. 2, s. 214.
 
 
 
@@ -2682,6 +2929,26 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(a)** adopt the recommendation of the review panel or refer it back to the panel for further consideration; or
 	- **(b)** after consulting the review panel, adopt the recommendation with modifications or reject it.
 
+**Time limits**
+
+- **(1.1)** The designated regulatory agency shall make a decision under subsection (1) within six months after the day on which it receives the review panel’s report.
+
+**Extension of time limit by designated regulatory agency**
+
+- **(1.2)** The designated regulatory agency may extend the time limit referred to in subsection (1.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.3)** The Governor in Council may, on the recommendation of the Minister responsible for the designated regulatory agency, further extend the time limit extended under subsection (1.2) any number of times.
+
+**Time limit — further consideration**
+
+- **(1.4)** If a recommendation is referred back to the review panel for further consideration under paragraph (1)(a), the time taken for that referral and consideration is included in the calculation of the time limit set out in subsection (1.1) or of its extension.
+
+**Excluded period**
+
+- **(1.5)** If the designated regulatory agency or the review panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the designated regulatory agency’s or the review panel’s opinion, as the case may be, to comply with the requirement is not included in the calculation of the time limit under subsection (1.1) or of its extension.
+
 **Additional information**
 
 - **(2)** If a designated regulatory agency considers any new information that was not before the review panel, or any matter of public concern that was not referred to in the panel’s reasons, such new information or such matter shall be identified in the decision of the agency and in any consultation under paragraph (1)(b).
@@ -2689,6 +2956,8 @@ before the expiration of ten days after receiving the report of the Review Board
 **Effect of decision**
 
 - **(3)** A designated regulatory agency shall carry out, to the extent of its authority, any recommendation that it adopts.
+> 1998, c. 25, s. 137; 2014, c. 2, s. 215.
+
 
 
 
@@ -2725,8 +2994,8 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Consultation**
 
-**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) and shall consult every responsible authority to whom the report is submitted under that Act.
-> 2005, c. 1, s. 86.
+**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) and shall consult every responsible authority to whom the report is submitted under that Act.
+> 2005, c. 1, s. 86; 2014, c. 2, s. 217.
 
 
 
@@ -2740,15 +3009,43 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **138** 
 
-- **(1)** A review panel established under subsection 40(2.1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) in respect of a proposal for a development that was referred pursuant to paragraph 130(1)(c) of this Act shall, in addition to satisfying the requirements of paragraph 41(f) of that Act, submit the report of its recommendations to
+- **(1)** Within 15 months after the day on which a review panel, that is the subject of an agreement entered into under subsection (3) or 138.1(1), is established under subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) in respect of a proposal for a development that was referred under paragraph 130(1)(c) of this Act shall, in addition to satisfying the requirements of paragraph 43(1)(e) of that Act, submit the report of its recommendations to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
 	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
+**Extension of time limit by federal Minister**
+
+- **(1.1)** The federal Minister may, at the request of the review panel, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.2)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (1.1) any number of times.
+
+**Excluded period**
+
+- **(1.3)** If the review panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the review panel’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
+
 **Provisions applicable**
 
 - **(2)** An examination by a review panel referred to in subsection (1) stands in lieu of an environmental impact review and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 25, s. 138; 2005, c. 1, s. 87.
+
+**Referral — paragraph 130(1)(c)**
+
+- **(3)** If a proposal for a development, other than a proposal to which section 138.1 applies, is referred to the Minister of the Environment under paragraph 130(1)(c), the Review Board shall, within three months after the day on which the proposal was referred to that Minister, enter into an agreement with him or her for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+
+**Extension of time limit by federal Minister**
+
+- **(4)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (3) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(5)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (4) any number of times.
+
+**Excluded period**
+
+- **(6)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (3) or of its extension.
+> 1998, c. 25, s. 138; 2005, c. 1, s. 87; 2014, c. 2, s. 219.
 
 
 
@@ -2758,7 +3055,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **138.1** 
 
-- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the impact on the environment of the development in accordance with subsection 40(2.1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the development’s impact on the environment in accordance with subsection 41(2) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
 
 **Mediation**
 
@@ -2771,30 +3068,12 @@ before the expiration of ten days after receiving the report of the Review Board
 **Where no agreement**
 
 - **(4)** Despite subsections (1) to (3), if, within the period fixed by the regulations, an agreement has not been entered into under this section, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
-> 2005, c. 1, s. 87.
+> 2005, c. 1, s. 87; 2014, c. 2, s. 220.
 
 
 
 
-
-**Agreement — designated regulatory agency**
-
-**139** 
-
-- **(1)** Where an environmental impact review of a proposal for a development that, as determined by the Review Board, is to be carried out wholly in the Mackenzie Valley, other than a development that has been referred to the Minister of the Environment under paragraph 130(1)(c), is ordered under this Part, and a licence, permit or other authorization must be issued by a designated regulatory agency in order for the proposed development to be carried out, the Review Board and the agency may enter into an agreement for the examination of the impact of the development on the environment by a joint panel established for that purpose.
-
-**Report to ministers, agencies and Tlicho Government**
-
-- **(2)** A joint panel so established shall make a report of its examination to
-	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
-	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
-
-**Provisions applicable**
-
-- **(3)** An examination by a joint panel established under this section stands in lieu of an environmental impact review and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 25, s. 139; 2005, c. 1, s. 87.
-
+**139** [Repealed, 2014, c. 2, s. 221]
 
 
 
@@ -2811,17 +3090,51 @@ before the expiration of ten days after receiving the report of the Review Board
 	- **(a)** the coordination of the respective examinations of the environmental impact of the development; or
 	- **(b)** the examination of the environmental impact of the development by a joint panel established for that purpose.
 
-**Report to ministers, agencies and Tlicho Government**
+**Time limit**
 
-- **(3)** A joint panel established under subsection (2) shall make a report of its recommendations to
+- **(2.1)** Any agreement under paragraph (2)(b) shall be entered into within three months after the day on which the Review Board is advised, as the case may be,
+	- **(a)** of an order for an environmental impact review under subparagraph 130(1)(b)(ii) or paragraph 131(1)(b); or
+	- **(b)** in accordance with subsection 130(4.07), that the proposal has not been referred to the Minister of the Environment.
+
+**Extension of time limit by federal Minister**
+
+- **(2.2)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (2.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(2.3)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (2.2) any number of times.
+
+**Excluded period**
+
+- **(2.4)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (2.1) or of its extension.
+
+**Environmental impact review**
+
+- **(2.5)** Despite subsections (2.1) to (2.4), if, within the time limit set out in those subsections, an agreement has not been entered into under paragraph (2)(b), a panel of the Review Board shall conduct an environmental impact review of the development.
+
+**Joint panel’s report**
+
+- **(3)** Within 15 months after the day on which a joint panel is established under paragraph (2)(b), the panel shall make a report of its recommendations to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
 	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
+**Extension of time limit by federal Minister**
+
+- **(3.1)** The federal Minister may, at the request of the joint panel, extend the time limit referred to in subsection (3) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(3.2)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (3.1) any number of times.
+
+**Excluded period**
+
+- **(3.3)** If the joint panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the joint panel’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (3) or of its extension.
+
 **Provisions applicable**
 
 - **(4)** An examination by a joint panel established under subsection (2) stands in lieu of an environmental impact review of the proposal and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 25, s. 140; 2005, c. 1, s. 88.
+> 1998, c. 25, s. 140; 2005, c. 1, s. 88; 2014, c. 2, s. 222.
 
 
 
@@ -2840,31 +3153,65 @@ before the expiration of ten days after receiving the report of the Review Board
 **Agreement — cases other than Wekeezhii**
 
 - **(2)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development referred to in subsection (1), other than a development referred to in subsection (3), the Review Board may, with the approval of the federal Minister,
-	- **(a)** enter into an agreement with the Minister of the Environment in accordance with sections 40 and 41 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) to provide for an examination by a review panel, in any case where that Act applies in respect of the development in the region or province referred to in subsection (1); and
+	- **(a)** enter into an agreement with the Minister of the Environment in accordance with subsection 40(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) to provide for an examination by a review panel, if that Act applies in respect of the development in the region or province referred to in subsection (1); and
 	- **(b)** in any other case, enter into an agreement with an authority responsible for the examination of environmental effects of such developments in that region or province to provide for the coordination of their respective examinations of the environmental impact of the development or to provide for the examination of that impact by a joint panel established for that purpose.
+
+**Time limit**
+
+- **(2.1)** An agreement made under paragraph (2)(a), or an agreement made under paragraph (2)(b) that provides for an examination by a joint panel, shall be entered into within three months after the day on which the Review Board is advised, as the case may be,
+	- **(a)** of an order for an environmental impact review made under paragraph 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b); or
+	- **(b)** in accordance with subsection 130(4.07), that the proposal has not been referred to the Minister of the Environment.
+
+**Extension of time limit by federal Minister**
+
+- **(2.2)** The federal Minister may, at the request of the Review Board, extend the time limit referred to in subsection (2.1) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(2.3)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (2.2) any number of times.
+
+**Excluded period**
+
+- **(2.4)** If the Review Board requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the Review Board’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (2.1) or of its extension.
+
+**Environmental impact review**
+
+- **(2.5)** Despite subsections (2.1) to (2.4), if, within the time limit set out in those subsections, an agreement has not been entered into under paragraph (2)(b), a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
 
 **Agreement — Wekeezhii**
 
 - **(3)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii, the Review Board shall enter into an agreement for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the impact on the environment of the development
 	- **(a)** with an authority responsible for the examination of environmental effects of the part of the development that is to be carried out outside the Mackenzie Valley; or
-	- **(b)** with the Minister of the Environment if that Minister is authorized under section 40 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) to enter into such an agreement.
+	- **(b)** with the Minister of the Environment if that Minister is authorized under subsection 40(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) to enter into such an agreement.
 
 **Where no agreement**
 
 - **(4)** Despite subsection (3), if, within the period fixed by the regulations, an agreement has not been entered into under that subsection, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
 
-**Report**
+**Report — review panel or joint panel**
 
-- **(5)** A review panel or joint panel established by an agreement referred to in subsection (2) or (3) shall make a report of its examination to
+- **(5)** Within 15 months after the day on which a review panel or joint panel is established by an agreement referred to in subsection (2) or (3), the panel shall make a report of its examination to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
 	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development;
 	- **(c)** in the case of a joint panel referred to in paragraph (2)(b) or (3)(a), the minister of the federal, provincial or territorial government having jurisdiction in relation to examinations conducted by the authority referred to in that paragraph; and
 	- **(d)** the Tlicho Government, if the development is to be carried out partly on Tlicho lands.
 
+**Extension of time limit by federal Minister**
+
+- **(5.1)** The federal Minister may, at the request of the review panel or joint panel, extend the time limit referred to in subsection (5) by a maximum of two months to take into account circumstances that are specific to the proposal.
+
+**Extension of time limit by Governor in Council**
+
+- **(5.2)** The Governor in Council may, on the recommendation of the federal Minister, further extend the time limit extended under subsection (5.1) any number of times.
+
+**Excluded period**
+
+- **(5.3)** If the review panel or joint panel requires the person or body that proposes to carry out the development to provide information, or collect information or undertake a study with respect to the development, then the period that is taken by that person or body, in the panel’s opinion, to comply with the requirement is not included in the calculation of the time limit under subsection (5) or of its extension.
+
 **Provisions applicable**
 
 - **(6)** An examination by a review panel or joint panel referred to in subsection (2) or (3) stands in lieu of an environmental impact review of the proposal referred to in that subsection and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
-> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89.
+> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89; 2014, c. 2, s. 223.
 
 
 
@@ -2874,6 +3221,73 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **142** Where a development proposed to be carried out wholly in a region of the Northwest Territories, Yukon or Nunavut adjacent to the Mackenzie Valley, or wholly in a province, might have a significant adverse impact on the environment in the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of the environmental effects of such developments in that region or province to provide for the participation of the Review Board in the examination of the environmental effects of the development by that authority.
 > 1998, c. 15, s. 48, c. 25, s. 142; 2002, c. 7, s. 207(E).
+
+
+
+
+
+### Public Register
+
+
+
+**Public register**
+
+**142.1** 
+
+- **(1)** The Review Board shall maintain at its main office a register convenient for use by the public in which shall be entered the following:
+	- **(a)** all documents that are produced, collected or received by the Review Board, a review panel of the Review Board, a review panel or a joint panel established jointly by the Review Board and any other person or body in relation to any environmental assessment or environmental impact review;
+	- **(b)** any notice it receives under subsection 124(1) or (2); and
+	- **(c)** any report it receives under paragraph 125(1)(a) or (2)(a).
+
+**Register to be open to inspection**
+
+- **(2)** The register shall be open to inspection by any person during the Review Board’s normal business hours, subject to the payment of any fee prescribed by the regulations.
+
+**Copies of contents of register**
+
+- **(3)** The Review Board shall, on request and on payment of any fee prescribed by the regulations, make available copies of information contained in the register.
+
+**Internet access**
+
+- **(4)** The register shall also be made accessible to the public via the Internet.
+
+**Categories of available information**
+
+- **(5)** Despite any other provision of this Act, the register shall contain information only if
+	- **(a)** it has otherwise been made publicly available; or
+	- **(b)** in the case of a record, the Review Board
+		- **(i)** determines that it would have been disclosed to the public in accordance with the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) if a request had been made in respect of that record under that Act at the time the record came under the control of the Review Board, including any record that would be disclosed in the public interest under subsection 20(6) of that Act, or
+		- **(ii)** has reasonable grounds to believe that it would be in the public interest to disclose the record because it is required for the public to participate effectively in a preliminary screening, environmental assessment or environmental impact review, other than any record whose disclosure would be prohibited under section 20 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).
+
+**Applicability of sections 27, 28 and 44 of [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)**
+
+- **(6)** Sections 27, 28 and 44 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) apply to any information described in subsection 27(1) of that Act that the Review Board intends to be included in the register with any necessary modifications, including the following:
+	- **(a)** the information is deemed to be a record that the head of a government institution intends to disclose; and
+	- **(b)** any reference to the person who requested access shall be disregarded.
+> 2014, c. 2, s. 224.
+
+
+
+
+
+### Policy Directions
+
+
+
+**Minister’s policy directions to Review Board**
+
+**142.2** 
+
+- **(1)** The federal Minister may, after consultation with the Review Board and the Tlicho Government, give written policy directions that are binding on the Review Board or its review panels with respect to the exercise of any of their functions under this Act.
+
+**Limitation**
+
+- **(2)** Policy directions do not apply in respect of a proposal for a development that, at the time the directions are given, is before the Review Board or one of its review panels.
+
+**Conflict**
+
+- **(3)** If there is a conflict between policy directions given under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
+> 2014, c. 2, s. 224.
 
 
 
@@ -2893,7 +3307,7 @@ before the expiration of ten days after receiving the report of the Review Board
 		- **(ii)** the form and content of reports required by this Part;
 	- **(b)** specifying the federal and territorial laws in respect of which preliminary screenings of proposals must be conducted by regulatory authorities and designated regulatory agencies before the issuance of licences, permits or other authorizations;
 	- **(c)** exempting any development or class of development from a preliminary screening for a reason referred to in paragraph 124(1)(a) or (b);
-	- **(d)** respecting the establishment, maintenance and operation of a public registry, public accessibility to records contained in the registry, the time and manner in which those records may be examined or copied and fees that may be charged to the public therefor;
+	- **(d)** prescribing the form of the register to be maintained by the Review Board under section 142.1 and the information to be entered in it, and respecting the fees, if any, to be paid to examine the register or to obtain copies from it;
 	- **(e)** fixing a period for the purposes of subsection 138.1(2) and respecting mediation referred to in that subsection;
 	- **(f)** fixing the period within which a matter may be referred to arbitration under subsection 138.1(3) and respecting arbitration under that subsection; and
 	- **(g)** fixing a period for the purposes of subsections 138.1(4) and 141(4).
@@ -2904,10 +3318,8 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Exemptions**
 
-- **(3)** No development may be exempted for a reason set out in paragraph 124(1)(b) if
-	- **(a)** it is a project or belongs to a class of projects, within the meaning of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), by virtue of regulations made pursuant to paragraph 59(b) of that Act; or
-	- **(b)** it is a project or belongs to a class of projects for which a comprehensive study is required under that Act by regulations made pursuant to paragraph 59(d) of that Act.
-> 1998, c. 25, s. 143; 2005, c. 1, s. 90.
+- **(3)** No development is to be exempted for a reason set out in paragraph 124(1)(b) if it is a designated project or belongs to a class of designated projects, within the meaning of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), by virtue of regulations made under paragraph 84(a) of that Act.
+> 1998, c. 25, s. 143; 2005, c. 1, s. 90; 2014, c. 2, s. 226.
 
 
 
@@ -3024,79 +3436,37 @@ before the expiration of ten days after receiving the report of the Review Board
 ### Transitional Provisions
 
 
-
-**Existing permits continued**
-
-**151** 
-
-- **(1)** Permits issued under regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or under any territorial law respecting a use of land in a settlement area, or in any other portion of the Mackenzie Valley, that exist on the coming into force of sections 54 and 56 or section 99, as the case may be, continue in effect, subject to any terms and conditions attached to those permits.
-
-**Permits under former law**
-
-- **(2)** A board established by section 54 or 56, or by section 99, may, in accordance with regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or in accordance with any applicable territorial law, amend, renew or cancel a permit referred to in subsection (1) and issued in respect of a settlement area or other portion of the Mackenzie Valley, as the case may be, or approve the assignment of such a permit and may, in relation to such a permit, carry out any other power conferred by those regulations on the Engineer, as defined in those regulations, or conferred by that territorial law on any authority specified in it.
-
-**Public register**
-
-- **(3)** Information prescribed by regulations made under section 90 relating to permits referred to in subsection (1) shall be entered in the register referred to in subsection 72(1).
-
-**Regional panels**
-
-- **(4)** For greater certainty, in cases referred to in subsection 102(2), the powers conferred by this section on the Board established by section 99 shall be carried out by the appropriate regional panel of the Board and applications for that purpose shall be made to that regional panel.
+**151** [Repealed, 2014, c. 2, s. 232]
 
 
 
 
 **Existing rights and interests**
 
-**152** Rights to the use of land under any lease, easement or other interest in land that was granted under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or the regulations made pursuant to that Act, or under any territorial law, and that exist on the coming into force of sections 54 and 56 or section 99 continue in effect, subject to the terms and conditions of exercising those rights.
+**152** Rights to the use of land under any lease, easement or other interest in land that was granted under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) or the regulations made under that Act, or under any territorial law, and that exist on December 22, 1998, with respect to a settlement area, or on March 31, 2000, with respect to any other portion of the Mackenzie Valley, continue in effect, subject to the terms and conditions of exercising those rights.
+> 1998, c. 25, s. 152; 2014, c. 2, s. 233.
+
 
 
 
 
 **Existing licences continued**
 
-**153** Licences issued under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) respecting a use of waters or deposit of waste in a settlement area, or in another portion of the Mackenzie Valley, that exist on the coming into force of sections 54 and 56 or of section 99, continue in effect and are deemed to be licences within the meaning of Part 3 or 4, as the case may be.
+**153** Licences issued under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) respecting a use of waters or deposit of waste in a settlement area that exist on December 22, 1998 — and, respecting a use of waters or deposit of waste in another portion of the Mackenzie Valley, that exist on March 31, 2000 — continue in effect and are deemed to be licences within the meaning of Part 3.
+> 1998, c. 25, s. 153; 2014, c. 2, s. 233.
 
 
 
 
-**Pending applications for permits**
-
-**154** 
-
-- **(1)** An application made before the coming into force of sections 54 and 56 or of section 99 under regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) in respect of a use of land in a settlement area or in another portion of the Mackenzie Valley, as the case may be, shall be disposed of under those regulations as they read at the time of the application.
-
-**Deeming**
-
-- **(2)** A permit or an amendment thereto or renewal thereof issued pursuant to such an application is deemed to have been issued by the appropriate board under Part 3 or 4, as the case may be.
+**154** [Repealed, 2014, c. 2, s. 234]
 
 
 
-
-**Pending applications for licences**
-
-**155** 
-
-- **(1)** An application made before the coming into force of sections 54 and 56 or of section 99 under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) in respect of a use of waters or deposit of waste in a settlement area or in another portion of the Mackenzie Valley, as the case may be, shall be disposed of under that Act as it read at the time of the application where a notice of hearing was published in respect of the application under subsection 23(2) of that Act before the coming into force of that section.
-
-**Deeming**
-
-- **(2)** A licence or an amendment thereto or renewal thereof issued pursuant to subsection (1) is deemed to have been issued by the appropriate board under Part 3 or 4, as the case may be.
-
-**Where no notice of hearing**
-
-- **(3)** Where a notice of hearing was not issued under subsection 23(2) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) in respect of an application referred to in subsection (1), the application shall be disposed of by the appropriate board under Part 3 or 4, as the case may be.
-
-**Transfer of records**
-
-- **(4)** The Northwest Territories Water Board shall transfer to the boards established by Parts 3 and 4 its records relating to applications to which subsection (3) applies and shall provide those boards with any other information in its possession that is required by them in the consideration of those applications.
+**155** [Repealed, 2014, c. 2, s. 234]
 
 
 
-
-**Permit outside jurisdiction of boards**
-
-**156** Where a use of land is proposed, prior to the coming into force of section 99, in a portion of the Mackenzie Valley not within a settlement area, that would but for this section require a permit under Part 3, an application shall be made for a permit under the regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) as if the regulations under Part 3 did not apply in that portion of the Mackenzie Valley.
+**156** [Repealed, 2014, c. 2, s. 234]
 
 
 
@@ -3107,9 +3477,9 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(1)** A person acting, before the coming into force of section 84, as an inspector for the purposes of regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) is deemed to be an inspector designated under that section.
 
-**Existing permits**
+- **(2)** [Repealed, 2014, c. 2, s. 235]
+> 1998, c. 25, s. 157; 2014, c. 2, s. 235.
 
-- **(2)** In relation to permits applicable in the Mackenzie Valley issued under regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md), an inspector designated pursuant to section 84 may exercise the powers of inspection conferred by those regulations.
 
 
 
@@ -3120,35 +3490,11 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
-
-**Application of *EARP Guidelines Order***
-
-**158** 
-
-- **(1)** The Environmental Assessment and Review Process Guidelines Order, approved by Order in Council P.C. 1984-2132 of June 21, 1984, and registered as SOR/84-467, continues to apply in respect of any proposal for a development, as defined in Part 5 of this Act, that is, on the coming into force of that Part, before an environmental assessment panel established pursuant to that Order.
-
-**Application of *EARP Guidelines Order***
-
-- **(2)** The Order referred to in subsection (1) continues to apply in respect of any proposal for a development, as defined in Part 5 of this Act, for which an environmental screening or initial assessment under that Order was commenced but not completed before the coming into force of Part 5, but on the referral of any such proposal to the Minister of the Environment for public review pursuant to section 20 of that Order, Part 5 applies in respect of the proposal as if an environmental impact review of the proposal had been ordered under paragraph 130(1)(a) with such modifications as may be required.
+**158** [Repealed, 2014, c. 2, s. 236]
 
 
 
-
-**Application of [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
-
-**159** 
-
-- **(1)** The [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) continues to apply in respect of a proposal for a development, as defined in Part 5 of this Act, that was referred before the coming into force of that Part to a mediator or a review panel pursuant to subsection 29(1) of that Act.
-
-**Screening or comprehensive study**
-
-- **(2)** The [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) continues to apply in respect of a proposal for a development, as defined in Part 5 of this Act, for which a screening or comprehensive study was commenced under that Act before the coming into force of Part 5 without a determination being made pursuant to subsection 20(1) or section 23 or, in the case of a referral under paragraph 23(a), pursuant to subsection 37(1), of that Act, and that determination may only be made after the screening report or comprehensive study report is submitted to the Mackenzie Valley Environmental Impact Review Board and after consultation with that Board.
-
-**Application of Part 5**
-
-- **(3)** Where a responsible authority, within the meaning of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), or the Minister of the Environment, in relation to a project referred to in subsection (2), takes the course of action pursuant to paragraph 20(1)(c) or 23(b) of that Act, as the case may be, the project is thereby referred to the federal Minister and the responsible Ministers, within the meaning of Part 5, who shall make a determination in accordance with
-	- **(a)** paragraph 130(1)(a), in which case that Act ceases to apply and Part 5 of this Act commences to apply in respect of the proposal; or
-	- **(b)** paragraph 130(1)(c), in which case that Act continues to apply to the extent provided for in that paragraph.
+**159** [Repealed, 2014, c. 2, s. 236]
 
 
 
@@ -3184,5 +3530,9 @@ before the expiration of ten days after receiving the report of the Review Board
 **(Sections 111 and 144)**
 ## Designated Regulatory Agencies
 
+Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
+
 National Energy Board<br />- <i>Office national de l’énergie</i>
+> 1998, c. 25, Sch.; 2014, c. 2, s. 237.
+
 
