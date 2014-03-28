@@ -3600,11 +3600,11 @@ but does not include
 	- **(b)** the vehicle, engine or equipment is in transit through Canada, from a place outside Canada, to another place outside Canada and is accompanied by written evidence establishing that the vehicle, engine or equipment will not be sold or used in Canada; or
 	- **(c)** the vehicle, engine or equipment is being imported exclusively for use by a visitor to Canada or by a person passing through Canada to another country.
 
-**Vehicles sold in United States**
+**Vehicle from United States or Mexico**
 
-- **(2)** Except as otherwise provided by the regulations, sections 153 and 154 do not apply in respect of the importation of a vehicle that has been sold at the retail level in the United States if the person importing it makes a declaration in the prescribed form and manner that, before the vehicle is presented for registration under the laws of a province or an aboriginal government,
-	- **(a)** those requirements will be met; and
-	- **(b)** the vehicle will be certified, in accordance with the regulations, as conforming.
+- **(2)** Sections 153 and 154 do not apply in respect of the importation of a vehicle that has been sold at the retail level in the United States, or that is a prescribed vehicle from Mexico, if the vehicle satisfies the conditions specified in the regulations, if any, and if the person importing it makes a declaration in the prescribed form and manner that,
+	- **(a)** within the prescribed period, the applicable requirements of those sections will be met and, if required by the regulations, the vehicle will be inspected in accordance with them; and
+	- **(b)** before the vehicle is presented for licensing under the laws of a province or an aboriginal government, the vehicle will be certified, in accordance with the regulations, as conforming to the applicable requirements of those sections.
 
 **Change in standard since manufacture**
 
@@ -3623,6 +3623,8 @@ but does not include
 **Record keeping**
 
 - **(6)** Every person who makes a declaration referred to in paragraph (1)(a) or subsection (2), or provides evidence referred to in paragraph (1)(b), in respect of any vehicle, engine or equipment shall keep a record of the use or disposition of the vehicle, engine or equipment in accordance with the regulations.
+> 1999, c. 33, s. 155; 2011, c. 1, s. 4.
+
 
 
 
@@ -3764,12 +3766,15 @@ but does not include
 	- **(d)** respecting the manner of applying national emissions marks;
 	- **(e)** prescribing the period for which records referred to in paragraph 153(1)(g) or a registration system referred to in paragraph 153(1)(h) shall be retained;
 	- **(f)** respecting exemptions from sections 153 and 154;
-	- **(g)** respecting the information to be submitted under section 153; and
+	- **(g)** respecting the information to be submitted under section 153;
+	- **(g.1)** respecting inspection and certification referred to in subsection 155(2) and, in particular, designating any person who is authorized to inspect or certify vehicles; and
 	- **(h)** prescribing or providing for anything that by this Division is to be prescribed or provided for by the regulations.
 
 **Progressive application**
 
 - **(2)** Regulations prescribing a standard may be made applicable in respect of a specified proportion of vehicles, engines or equipment of a class before they are made applicable in respect of all vehicles, engines or equipment of that class.
+> 1999, c. 33, s. 160; 2011, c. 1, s. 5.
+
 
 
 
