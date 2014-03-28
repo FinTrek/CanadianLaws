@@ -3457,20 +3457,22 @@ Sont toutefois exclus :
 
 **155** 
 
-- **(1)** Les articles 153 et 154 ne s’appliquent pas à l’importation de véhicules, moteurs ou équipements :
+- **(1)** Les articles 153 et 154 ne s’appliquent pas à l’importation de véhicules, moteurs ou équipements :
 	- **a)** destinés à une utilisation au Canada, sur justification de l’importateur faite conformément au règlement, à des fins strictement promotionnelles ou expérimentales, pour une période maximale de un an ou toute autre période fixée par le ministre;
 	- **b)** en transit, en provenance et à destination d’un lieu en dehors du Canada, et accompagnés d’une preuve écrite attestant qu’ils ne seront pas utilisés ou vendus au Canada;
 	- **c)** destinés à être utilisés exclusivement par une personne de passage ou en transit au Canada.
 
-**Véhicules vendus aux États-Unis**
+**Véhicules provenant des États-Unis ou du Mexique**
 
-- **(2)** Sauf disposition contraire du règlement, les articles 153 et 154 ne s’appliquent pas à l’importation de véhicules vendus au détail aux États-Unis pourvu que l’importateur justifie, conformément au règlement, que les conditions qui y sont mentionnées seront remplies et que les véhicules seront attestés conformes, en application du règlement, avant la présentation des véhicules pour immatriculation sous le régime des lois d’une province ou d’un gouvernement autochtone.
+- **(2)** Les articles 153 et 154 ne s’appliquent pas à l’importation de véhicules vendus au détail aux États-Unis ni à celle de véhicules réglementés provenant du Mexique, pourvu que les véhicules soient conformes aux conditions réglementaires éventuellement fixées et que l’importateur déclare, conformément au règlement, que :
+	- **a)** dans le délai réglementaire, les conditions applicables mentionnées à ces articles seront remplies et les véhicules seront inspectés conformément à tout règlement éventuellement pris à cet égard;
+	- **b)** avant leur présentation pour immatriculation sous le régime des lois d’une province ou d’un gouvernement autochtone, les véhicules seront certifiés conformes aux conditions applicables mentionnées à ces articles, conformément au règlement.
 
 **Modification des normes après la fabrication**
 
 - **(3)** Les articles 153 et 154 ne s’appliquent pas à l’importation de véhicules, moteurs ou équipements qui ne se conforment pas à une norme réglementaire applicable à leur catégorie au moment de leur fabrication si, au moment de l’importation, la norme n’est plus en vigueur et que, selon le cas, ils sont conformes à la norme réglementaire correspondante alors applicable ou aucune autre norme correspondante n’est en vigueur.
 
-**Conformité aux normes : véhicules et moteurs importés**
+**Conformité aux normes : véhicules et moteurs importés**
 
 - **(4)** Les véhicules ou moteurs importés pour lesquels aucune norme réglementaire n’a été prévue doivent être conformes à la norme réglementaire pour une catégorie équivalente, ou l’être rendu, avant leur présentation pour immatriculation sous le régime des lois d’une province ou d’un gouvernement autochtone.
 
@@ -3481,6 +3483,8 @@ Sont toutefois exclus :
 **Dossier**
 
 - **(6)** Dans les cas prévus par les alinéas (1)a) ou b) ou le paragraphe (2), l’importateur tient, conformément au règlement, un dossier contenant les renseignements réglementaires relatifs à l’utilisation et à la façon de se départir des véhicules, moteurs ou équipements.
+> 1999, ch. 33, art. 155; 2011, ch. 1, art. 4.
+
 
 
 
@@ -3606,7 +3610,7 @@ Sont toutefois exclus :
 
 **160** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut par règlement prendre toute mesure d’application de la présente section et notamment :
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut par règlement prendre toute mesure d’application de la présente section et notamment :
 	- **a)** régir les émissions et adopter des normes pour celles-ci;
 	- **b)** désigner les marques nationales;
 	- **c)** prévoir les conditions préalables à l’utilisation d’une marque nationale pour les véhicules, moteurs ou équipements — individuellement ou par catégorie;
@@ -3614,11 +3618,14 @@ Sont toutefois exclus :
 	- **e)** prescrire la durée de conservation obligatoire des dossiers visés à l’alinéa 153(1)g) ou du fichier visé à l’alinéa 153(1)h);
 	- **f)** prévoir les exemptions aux articles 153 et 154;
 	- **g)** prévoir les renseignements à fournir au titre de l’article 153;
+	- **g.1)** régir les inspections et les certifications visées au paragraphe 155(2), y compris désigner les personnes autorisées à inspecter les véhicules ou à certifier leur conformité;
 	- **h)** prendre toute mesure réglementaire prévue par la présente section.
 
 **Précision**
 
 - **(2)** Le règlement d’établissement d’une norme peut être applicable à une partie déterminée des véhicules, moteurs ou équipements d’une catégorie avant de l’être à tous.
+> 1999, ch. 33, art. 160; 2011, ch. 1, art. 5.
+
 
 
 
