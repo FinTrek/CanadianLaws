@@ -24564,7 +24564,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-#### au 31 décembre 2012
+#### au 31 décembre 2013
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -24607,6 +24607,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
+<td>Banque Continentale du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque CS Alterna</td>
 <td>Ontario</td>
 </tr>
@@ -24615,7 +24619,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Banque Dundee du Canada</td>
+<td>Banque Équitable</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24625,6 +24629,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>General Bank of Canada</td>
 <td>Alberta</td>
+</tr>
+<tr>
+<td>Banque canadienne Hollis</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque HomEquity</td>
@@ -24663,6 +24671,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque de Brique Rouge</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Banque Rogers</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Royale du Canada</td>
 <td>Québec</td>
 </tr>
@@ -24672,14 +24688,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-#### au 31 décembre 2012
+#### au 31 décembre 2013
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -24722,7 +24738,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque CTC du Canada</td>
+<td>Société de banque CTBC (Canada)</td>
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
@@ -24783,14 +24799,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-#### au 31 décembre 2012
+#### au 31 décembre 2013
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -24815,6 +24831,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Barclays Bank PLC, succursale canadienne</td>
 <td>Services complets</td>
 <td>Ontario</td>
+</tr>
+<tr>
+<td>BNP Paribas</td>
+<td>BNP Paribas</td>
+<td>Services complets</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Capital One Bank (USA), N.A.</td>
@@ -24895,8 +24917,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Mizuho Corporate Bank, Ltd.</td>
-<td>Banque d’affaires Mizuho, Ltée, branche canadienne</td>
+<td>Mizuho Bank, Ltd.</td>
+<td>Banque Mizuho Ltée, succursale canadienne</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -24919,6 +24941,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Royal Bank of Scotland plc (The)</td>
+<td>La Banque RBS plc</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Société Générale</td>
 <td>Société Générale (Succursale Canada)</td>
 <td>Services complets</td>
@@ -24927,6 +24955,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>U.S. Bank National Association</td>
+<td>U.S. Bank National Association</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -24949,12 +24983,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
-<td>U.S. Bank National Association</td>
-<td>U.S. Bank National Association</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Wells Fargo Bank, National Association</td>
 <td>Wells Fargo Bank, National Association, succursale canadienne</td>
 <td>Services complets</td>
@@ -24964,6 +24992,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 147, page 1261.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
 
 
