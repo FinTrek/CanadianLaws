@@ -361,8 +361,8 @@ if
 
 ### **SCHEDULE VII** 
 **(Sections 2.1 and 6 subsection 16(1))**
-#### RATES OF POSTAGE — SPECIAL SERVICES
 <table>
+<h4>Rates of Postage — Special Services</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -388,7 +388,7 @@ if
 <td>**(a)** delivery
 
 </td>
-<td>$8.50</td>
+<td>$9.00</td>
 </tr>
 <tr>
 <td>**(b)** [Repealed, SOR/2006-345, s. 2]
@@ -467,13 +467,13 @@ if
 <td></td>
 </tr>
 <tr>
-<td>10. to 14.</td>
+<td>10 to 14</td>
 <td>[Repealed, SOR/90-17, s. 21]</td>
 <td></td>
 </tr>
 </table>
 
-> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1; SOR/2008-284, s. 2; SOR/2009-289, s. 1; SOR/2010-287, s. 8; SOR/2011-297, s. 1; SOR/2012-277, s. 1.
+> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1; SOR/2008-284, s. 2; SOR/2009-289, s. 1; SOR/2010-287, s. 8; SOR/2011-297, s. 1; SOR/2012-277, s. 1; SOR/2014-50, s. 1.
 
 
 
