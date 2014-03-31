@@ -221,7 +221,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **8** 
 
-- **(1)** Subject to these Regulations, the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md) and the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md), no person except a licensed dealer shall produce, make, assemble, import, export, sell, provide, transport, send or deliver a narcotic.
+- **(1)** Subject to these Regulations and the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md), no person except a licensed dealer shall produce, make, assemble, import, export, sell, provide, transport, send or deliver a narcotic.
 
 - **(2)** No licensed dealer shall import or export a narcotic without a permit.
 
@@ -1029,7 +1029,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **53** 
 
-- **(1)** No practitioner shall administer a narcotic to a person or animal, or prescribe, sell or provide a narcotic for a person or animal, except as authorized under this section, the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md).
+- **(1)** No practitioner shall administer a narcotic to a person or animal, or prescribe, sell or provide a narcotic for a person or animal, except as authorized under this section or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md).
 
 - **(2)** Subject to subsections (3) and (4), a practitioner may administer a narcotic other than dried marihuana to a person or animal, or prescribe, sell or provide it for a person or animal, if
 	- **(a)** the person or animal is a patient under their professional treatment; and
@@ -1101,9 +1101,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(b)** recipients of the notice must not sell or provide a verbal prescription narcotic to the practitioner;
 - **(c)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a narcotic, other than a verbal prescription narcotic, written by that practitioner;
 - **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a verbal prescription narcotic from that practitioner;
-- **(e)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner;
-- **(f)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner; or
-- **(g)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical declaration made under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) by that practitioner.
+- **(e)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner; or
+- **(f)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner.
+- **(g)** [Repealed, SOR/2013-119, s. 221]
 > SOR/2003-134, s. 5; SOR/2013-119, s. 221.
 
 
@@ -1115,9 +1115,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(a)** licensed dealers and pharmacists practising in the notified pharmacies must not sell or provide to the practitioner named in the notice a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both;
 	- **(a.1)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not ship dried marihuana to that practitioner;
 	- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both;
-	- **(c)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner;
-	- **(d)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner; or
-	- **(e)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical declaration made under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) by that practitioner.
+	- **(c)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner; or
+	- **(d)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner.
+	- **(e)** [Repealed, SOR/2013-119, s. 222]
 
 - **(2)** The notice must be issued if the practitioner named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 58 to issue the notice;
