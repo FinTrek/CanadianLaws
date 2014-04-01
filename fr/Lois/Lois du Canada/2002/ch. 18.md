@@ -391,8 +391,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité**
 
-- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), la Loi sur la protection des eaux navigables ou la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20.
+- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), la Loi sur la protection de la navigation ou la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35; 2009, ch. 14, art. 20; 2012, ch. 31, art. 346.
 
 
 
