@@ -61,14 +61,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***institutions fédérales*** Les institutions suivantes du gouvernement fédéral :
+***institutions fédérales*** Les institutions suivantes du gouvernement fédéral :
 - **a)** les ministères, organismes — bureaux, commissions, conseils, offices ou autres — chargés de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil;
 - **b)** les établissements publics et les sociétés d’État au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
-Ne sont pas visés les institutions du conseil ou de l'administration des Territoires du Nord-Ouest, celles de l'assemblée législative ou de l'administration du Yukon ou du Nunavut, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l'administration d'une bande indienne ou d'autres groupes de peuples autochtones.
+Ne sont pas visés les institutions de l’Assemblée législative du Yukon, de l’Assemblée législative des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut ou celles de l’administration de chacun de ces territoires, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones. (*federal institution*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
-> L.R. (1985), ch. 24 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 2002, ch. 7, art. 129.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
+> L.R. (1985), ch. 24 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 2002, ch. 7, art. 129; 2014, ch. 2, art. 38.
 
 
 
