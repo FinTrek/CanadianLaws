@@ -56,66 +56,66 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***adolescent*** Toute personne qui, étant âgée d’au moins douze ans, n’a pas atteint l’âge de dix-huit ans ou qui, en l’absence de preuve contraire, paraît avoir un âge compris entre ces limites. Y est assimilée, pour les besoins du contexte, toute personne qui, sous le régime de la présente loi, est soit accusée d’avoir commis une infraction durant son adolescence, soit déclarée coupable d’une infraction.
+***adolescent*** Toute personne qui, étant âgée d’au moins douze ans, n’a pas atteint l’âge de dix-huit ans ou qui, en l’absence de preuve contraire, paraît avoir un âge compris entre ces limites. Y est assimilée, pour les besoins du contexte, toute personne qui, sous le régime de la présente loi, est soit accusée d’avoir commis une infraction durant son adolescence, soit déclarée coupable d’une infraction. (*young person*)
 
-***adulte*** Toute personne qui n’est plus un adolescent.
+***adulte*** Toute personne qui n’est plus un adolescent. (*adult*)
 
-***commission d’examen*** La commission d’examen visée au paragraphe 87(2).
+***commission d’examen*** La commission d’examen visée au paragraphe 87(2). (*review board*)
 
-***communication*** S’agissant de renseignements, toute communication qui ne constitue pas une publication.
+***communication*** S’agissant de renseignements, toute communication qui ne constitue pas une publication. (*disclosure*)
 
-***délégué à la jeunesse*** Personne nommée ou désignée à titre de délégué à la jeunesse, d’agent de probation ou à tout autre titre, soit sous le régime de la loi d’une province, soit par le lieutenant-gouverneur en conseil d’une province ou son délégué, pour y exercer, d’une manière générale ou pour un cas déterminé, les attributions que la présente loi confère aux délégués à la jeunesse.
+***délégué à la jeunesse*** Personne nommée ou désignée à titre de délégué à la jeunesse, d’agent de probation ou à tout autre titre, soit sous le régime de la loi d’une province, soit par le lieutenant-gouverneur en conseil d’une province ou son délégué, pour y exercer, d’une manière générale ou pour un cas déterminé, les attributions que la présente loi confère aux délégués à la jeunesse. (*youth worker*)
 
- ou ***directeur provincial*** ou ***directeur*** Personne, groupe ou catégorie de personnes ou organisme nommé ou désigné soit sous le régime de la loi d’une province, soit par le lieutenant-gouverneur en conseil d’une province ou son délégué, pour y exercer, d’une manière générale ou pour un cas déterminé, les attributions que la présente loi confère au directeur provincial.
+***directeur provincial*** ou ***directeur*** Personne, groupe ou catégorie de personnes ou organisme nommé ou désigné soit sous le régime de la loi d’une province, soit par le lieutenant-gouverneur en conseil d’une province ou son délégué, pour y exercer, d’une manière générale ou pour un cas déterminé, les attributions que la présente loi confère au directeur provincial. (*provincial director*)
 
-***dossier*** Toute chose renfermant des éléments d’information, quels que soient leur forme et leur support, notamment microforme, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information, obtenus ou conservés pour l’application de la présente loi ou dans le cadre d’une enquête conduite à l’égard d’une infraction qui est ou peut être poursuivie en vertu de la présente loi.
+***dossier*** Toute chose renfermant des éléments d’information, quels que soient leur forme et leur support, notamment microforme, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information, obtenus ou conservés pour l’application de la présente loi ou dans le cadre d’une enquête conduite à l’égard d’une infraction qui est ou peut être poursuivie en vertu de la présente loi. (*record*)
 
-***enfant*** Toute personne âgée de moins de douze ans ou, en l’absence de preuve contraire, paraissant ne pas avoir atteint cet âge.
+***enfant*** Toute personne âgée de moins de douze ans ou, en l’absence de preuve contraire, paraissant ne pas avoir atteint cet âge. (*child*)
 
-***groupe consultatif*** Tout groupe de personnes constitué pour l’application de l’article 19.
+***groupe consultatif*** Tout groupe de personnes constitué pour l’application de l’article 19. (*conference*)
 
-***infraction*** Toute infraction créée par une loi fédérale ou par ses textes d’application : règlement, règle, ordre, décret, arrêté, règlement administratif ou ordonnance, à l’exclusion des ordonnances des Territoires du Nord-Ouest et des lois de la Législature du Yukon ou de celle du Nunavut.
+***infraction*** Toute infraction créée par une loi fédérale ou par ses textes d’application : règlement, règle, ordre, décret, arrêté, règlement administratif ou ordonnance, à l’exclusion des lois de la Législature du Yukon, de la Législature des Territoires du Nord-Ouest ou de la Législature du Nunavut. (*offence*)
 
-***infraction avec violence*** Selon le cas :
+***infraction avec violence*** Selon le cas :
 - **a)** infraction commise par un adolescent dont l’un des éléments constitutifs est l’infliction de lésions corporelles;
 - **b)** tentative ou menace de commettre l’infraction visée à l’alinéa a);
-- **c)** infraction commise par un adolescent au cours de la perpétration de laquelle il met en danger la vie ou la sécurité d’une autre personne en créant une probabilité marquée qu’il en résulte des lésions corporelles.
+- **c)** infraction commise par un adolescent au cours de la perpétration de laquelle il met en danger la vie ou la sécurité d’une autre personne en créant une probabilité marquée qu’il en résulte des lésions corporelles. (*violent offence*)
 
 ***infraction désignée***[Abrogée, 2012, ch. 1, art. 167]
 
-***infraction grave*** Tout acte criminel prévu par une loi fédérale et passible d’un emprisonnement maximal de cinq ans ou plus.
+***infraction grave*** Tout acte criminel prévu par une loi fédérale et passible d’un emprisonnement maximal de cinq ans ou plus. (*serious offence*)
 
-***infraction grave avec violence*** Toute infraction visée à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+***infraction grave avec violence*** Toute infraction visée à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
 - **a)** les articles 231 ou 235 (meurtre au premier ou au deuxième degré);
 - **b)** l’article 239 (tentative de meurtre);
 - **c)** les articles 232, 234 ou 236 (homicide involontaire coupable);
-- **d)** l’article 273 (agression sexuelle grave).
+- **d)** l’article 273 (agression sexuelle grave). (*serious violent offence*)
 
-***juge du tribunal pour adolescents*** Tout juge du tribunal pour adolescents visé à l’article 13.
+***juge du tribunal pour adolescents*** Tout juge du tribunal pour adolescents visé à l’article 13. (*youth justice court judge*)
 
-***lieu de garde*** Tout lieu désigné en vertu du paragraphe 85(2) pour le placement des adolescents. Peuvent être ainsi désignés notamment les établissements pour l’internement sécuritaire des adolescents, les centres résidentiels locaux, les foyers collectifs, les établissements d’aide à l’enfance, les camps forestiers et les camps de pleine nature.
+***lieu de garde*** Tout lieu désigné en vertu du paragraphe 85(2) pour le placement des adolescents. Peuvent être ainsi désignés notamment les établissements pour l’internement sécuritaire des adolescents, les centres résidentiels locaux, les foyers collectifs, les établissements d’aide à l’enfance, les camps forestiers et les camps de pleine nature. (*youth custody facility*)
 
-***mesures extrajudiciaires*** Mesures, autres que les procédures judiciaires prévues par la présente loi, utilisées à l’endroit des adolescents auxquels une infraction est imputée, y compris les sanctions extrajudiciaires.
+***mesures extrajudiciaires*** Mesures, autres que les procédures judiciaires prévues par la présente loi, utilisées à l’endroit des adolescents auxquels une infraction est imputée, y compris les sanctions extrajudiciaires. (*extrajudicial measures*)
 
-***peine applicable aux adultes*** S’agissant d’un adolescent déclaré coupable d’une infraction, toute peine dont est passible l’adulte déclaré coupable de la même infraction.
+***peine applicable aux adultes*** S’agissant d’un adolescent déclaré coupable d’une infraction, toute peine dont est passible l’adulte déclaré coupable de la même infraction. (*adult sentence*)
 
-***peine spécifique*** Toute peine visée aux articles 42, 51, 59 ou 94 à 96 ou confirmation ou modification d’une telle peine.
+***peine spécifique*** Toute peine visée aux articles 42, 51, 59 ou 94 à 96 ou confirmation ou modification d’une telle peine. (*youth sentence*)
 
- ou ***père ou mère*** ou ***père et mère*** Le père ou la mère, ainsi que toute personne légalement tenue de subvenir aux besoins d’un adolescent, ou qui assume en droit ou en fait — mais non uniquement en raison de procédures intentées au titre de la présente loi — la garde ou la surveillance de celui-ci.
+***père ou mère*** ou ***père et mère*** Le père ou la mère, ainsi que toute personne légalement tenue de subvenir aux besoins d’un adolescent, ou qui assume en droit ou en fait — mais non uniquement en raison de procédures intentées au titre de la présente loi — la garde ou la surveillance de celui-ci. (*parent*)
 
-***période de garde*** Période ou partie de la peine imposée à l’adolescent, qu’il doit purger sous garde avant de purger la période de surveillance au sein de la collectivité conformément à l’alinéa 42(2)n) ou la période de liberté sous condition conformément aux alinéas 42(2)o), q) ou r).
+***période de garde*** Période ou partie de la peine imposée à l’adolescent, qu’il doit purger sous garde avant de purger la période de surveillance au sein de la collectivité conformément à l’alinéa 42(2)n) ou la période de liberté sous condition conformément aux alinéas 42(2)o), q) ou r). (*custodial portion*)
 
-***procureur général*** Le procureur général, au sens de la définition de ce terme à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la mention de poursuites dans cette définition valant mention de poursuites et mesures extrajudiciaires. Est assimilé au procureur général son représentant ou son mandataire.
+***procureur général*** Le procureur général, au sens de la définition de ce terme à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la mention de poursuites dans cette définition valant mention de poursuites et mesures extrajudiciaires. Est assimilé au procureur général son représentant ou son mandataire. (*Attorney General*)
 
-***publication*** S’agissant de renseignements, toute divulgation destinée au public en général, quelle que soit la façon dont elle est faite, par écrit, radiodiffusion, télécommunication, voie électronique ou tout autre moyen.
+***publication*** S’agissant de renseignements, toute divulgation destinée au public en général, quelle que soit la façon dont elle est faite, par écrit, radiodiffusion, télécommunication, voie électronique ou tout autre moyen. (*publication*)
 
-***rapport prédécisionnel*** Le rapport établi en application de l’article 40 sur les antécédents personnels et familiaux de l’adolescent et sa situation actuelle.
+***rapport prédécisionnel*** Le rapport établi en application de l’article 40 sur les antécédents personnels et familiaux de l’adolescent et sa situation actuelle. (*pre-sentence report*)
 
-***sanction extrajudiciaire*** Toute sanction prévue par un programme visé à l’article 10.
+***sanction extrajudiciaire*** Toute sanction prévue par un programme visé à l’article 10. (*extrajudicial sanction*)
 
-***service de messagerie*** Service de courrier recommandé ou certifié, de même que tout autre service de messagerie fournissant une preuve de livraison.
+***service de messagerie*** Service de courrier recommandé ou certifié, de même que tout autre service de messagerie fournissant une preuve de livraison. (*confirmed delivery service*)
 
-***tribunal pour adolescents*** Le tribunal visé à l’article 13.
+***tribunal pour adolescents*** Le tribunal visé à l’article 13. (*youth justice court*)
 
 **Terminologie**
 
@@ -124,7 +124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2002, ch. 1, art. 2, ch. 7, art. 274; 2012, ch. 1, art. 167.
+> 2002, ch. 1, art. 2, ch. 7, art. 274; 2012, ch. 1, art. 167; 2014, ch. 2, art. 52.
 
 
 
