@@ -234,25 +234,11 @@ that are directed to a single person or body;
 
 
 
-
-## Distribution of Canada Gazette
-
-
-**19** 
-
-- **(1)** A copy of Part I of the Canada Gazette shall be delivered without charge to each person who issues, makes or establishes a statutory instrument or other document that is published therein and to those persons holding the offices specified in Part I of Schedule I.
-
-- **(2)** A copy of Part II of the Canada Gazette shall, in addition to being provided to each member of Parliament, be delivered without charge to those persons holding the offices specified in Part II of Schedule I.
-
-- **(2.1)** A copy of Part III of the Canada Gazette shall be delivered without charge to those persons holding the offices specified in Part III of Schedule I.
-
-- **(3)** One copy of Part I, and four copies of Part II and Part III of the Canada Gazette shall be delivered without charge to the chairperson or to one of the joint chairpersons of the Committee of the House of Commons, of the Senate or of both Houses of Parliament established for the purpose of reviewing and scrutinizing statutory instruments.
-> SOR/81-194, s. 1; SOR/85-529, s. 1; SOR/89-314, s. 1.
+**19** [Repealed, SOR/2013-85, s. 1]
 
 
 
-
-**20** Copies of Part I, Part II and Part III of the Canada Gazette may be sold to any person upon payment of the appropriate charge therefor set out in Schedule II.
+**20** [Repealed, SOR/2013-85, s. 1]
 
 
 
@@ -310,220 +296,13 @@ that are directed to a single person or body;
 
 
 ### **SCHEDULE I** 
-**(Section 19)**
-
-**PART I** 
-
-
-**1** The Parliamentary Librarian
-
-
-
-**2** The Librarian of the Supreme Court of Canada
-
-
-
-**3** The Librarian of the Federal Court
-
-
-
-**4** The Librarian of the Tax Court of Canada
-
-
-
-**5** The Chief Librarian of each court house in Canada
-
-
-
-**6** The Chief Librarian of each law school in Canada
-
-
-
-**PART II** 
-
-
-**1** The Parliamentary Librarian
-
-
-
-**2** The Librarian of the Supreme Court of Canada
-
-
-
-**3** The Librarian of the Federal Court
-
-
-
-**4** The Librarian of the Tax Court of Canada
-
-
-
-**5** The Chief Librarian of each court house in Canada
-
-
-
-**6** The Chief Librarian of each university and of each law school in Canada
-
-
-
-**7** The Chief Librarian of each public library in Canada
-
-
-
-**8** Members or officials of the Government of any foreign country and persons holding positions in universities or other institutions in that country, if
-
-
-
-**(a)** reciprocal arrangements exist for similar distribution without charge in Canada; or
-
-
-
-**(b)** the Minister of Justice, the Secretary of State for External Affairs, the Librarian and Archivist of Canada or the Parliamentary Librarian recommend the free distribution.
-
-
-
-**PART III** 
-
-
-**1** Governor General
-
-
-
-**2** Lieutenant Governors of the Provinces
-
-
-
-**3** Speaker of the Senate
-
-
-
-**4** Speaker of the House of Commons
-
-
-
-**5** Prime Minister
-
-
-
-**6** Leader of the Opposition in the Senate
-
-
-
-**7** Leader of the Opposition in the House of Commons
-
-
-
-**8** Ministers of the Government of Canada
-
-
-
-**9** Members of the Parliament of Canada not otherwise included on this list
-
-
-
-**10** Members of the judiciary of Canada, including provincial court judges and magistrates
-
-
-
-**11** Attorneys General, Ministers of Justice and Solicitors General of the Governments of the Provinces
-
-
-
-**12** Chief or senior legislative counsel of each Province
-
-
-
-**13** The Chief Librarian of each court house in Canada
-
-
-
-**14** The Chief Librarian of each law school in Canada
-
-
-
-**15** Members and officials of the Government of any foreign country and persons holding positions in universities and other institutions in that country, if
-
-
-
-**(a)** reciprocal arrangements exist for similar distribution without charge in Canada; or
-
-
-
-**(b)** the Minister of Justice, the Secretary of State for External Affairs, the Librarian and Archivist of Canada or the Parliamentary Librarian recommend the free distribution.
-
-
->  SOR/85-529, s. 2; 2004, c. 11, subpar. 52(5) and (6).
+[Repealed, SOR/2013-85, s. 2]
 
 
 
 
 ### **SCHEDULE II** 
-**(Section 20)**
-## Charges for Obtaining Copies of the Canada Gazette
-**1** Part I of the Canada Gazette
-
-
-**(a)** for residents of Canada
-
-
-**(i)** for a single issue$  2.95
-
-
-**(ii)** for annual subscription135.00
-
-
-**(b)** for residents of all countries outside Canada
-
-
-**(i)** for a single issue3.55
-
-
-**(ii)** for annual subscription162.00
-
-
-**2** Part II of the Canada Gazette
-
-
-**(a)** for residents of Canada
-
-
-**(i)** for a single issue3.50
-
-
-**(ii)** for annual subscription67.50
-
-
-**(b)** for residents of all countries outside Canada
-
-
-**(i)** for a single issue4.50
-
-
-**(ii)** for annual subscription79.80
-
-
-**3** Part III of the Canada Gazette
-
-
-**(a)** for residents of Canada
-
-
-**(i)** for a single issue$  4.50
-
-
-**(ii)** for annual subscription28.50
-
-
-**(b)** for residents of all countries outside Canada
-
-
-**(i)** for a single issue5.40
-
-
-**(ii)** for annual subscription34.20
-
-
->  SOR/85-529, s. 2.
+[Repealed, SOR/2013-85, s. 2]
 
 
 
