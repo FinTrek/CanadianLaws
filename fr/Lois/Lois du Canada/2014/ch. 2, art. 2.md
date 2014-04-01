@@ -8,7 +8,7 @@
 Sanctionnée sur le 25 mars 2014
 
 ```
-[Édictée par l’article 2 du chapitre 2 des Lois du Canada (2014), non en vigueur.]
+[Édictée par l’article 2 du chapitre 2 des Lois du Canada (2014), en vigueur le 1<sup>er</sup> avril 2014, voir TR/2014-34.]
 ```
 ----------
 
@@ -40,60 +40,60 @@ Sanctionnée sur le 25 mars 2014
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, avec ses modifications éventuelles.
+***accord*** L’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, avec ses modifications éventuelles. (*Agreement*)
 
-***accord gwichin*** L’Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Gwich’in](/fr/Lois/Lois%20du%20Canada/1992/ch.%2053.md).
+***accord gwichin*** L’Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Gwich’in](/fr/Lois/Lois%20du%20Canada/1992/ch.%2053.md). (*Gwich’in Agreement*)
 
-***accord du Sahtu*** L’Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md).
+***accord du Sahtu*** L’Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md). (*Sahtu Agreement*)
 
-***accord sur l’autonomie gouvernementale*** Accord conclu entre Sa Majesté du chef du Canada et un peuple autochtone des Territoires du Nord-Ouest, mis en oeuvre par une loi fédérale et reconnaissant, à la fois :
+***accord sur l’autonomie gouvernementale*** Accord conclu entre Sa Majesté du chef du Canada et un peuple autochtone des Territoires du Nord-Ouest, mis en oeuvre par une loi fédérale et reconnaissant, à la fois :
 - **a)** le statut en droit et la capacité juridique d’un organisme de gouvernance de représenter ce peuple autochtone;
-- **b)** le pouvoir de cet organisme d’édicter des lois.
+- **b)** le pouvoir de cet organisme d’édicter des lois. (*self-government agreement*)
 
-***accord tlicho*** L’Accord au sens de l’article 2 de la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md).
+***accord tlicho*** L’Accord au sens de l’article 2 de la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md). (*Tlicho Agreement*)
 
-***ancienne loi*** La Loi sur les Territoires du Nord-Ouest, chapitre N-27 des Lois révisées du Canada (1985).
+***ancienne loi*** La Loi sur les Territoires du Nord-Ouest, chapitre N-27 des Lois révisées du Canada (1985). (*former Act*)
 
-***Convention définitive des Inuvialuits*** La Convention au sens de l’article 2 de la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md).
+***Convention définitive des Inuvialuits*** La Convention au sens de l’article 2 de la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md). (*Inuvialuit Final Agreement*)
 
-***eaux*** Eaux intérieures qui se trouvent à la surface ou dans le sous-sol des terres situées dans la région intracôtière, qu’elles soient à l’état liquide ou solide.
+***eaux*** Eaux intérieures qui se trouvent à la surface ou dans le sous-sol des terres situées dans la région intracôtière, qu’elles soient à l’état liquide ou solide. (*waters*)
 
-***entente de règlement*** Entente mentionnée à l’annexe 1 de l’accord.
+***entente de règlement*** Entente mentionnée à l’annexe 1 de l’accord. (*settlement agreement*)
 
-***entreprise fédérale en cause*** Entreprise à l’égard de laquelle un permis visant l’utilisation des eaux ou le dépôt de déchets a été délivré et qui, selon le cas :
+***entreprise fédérale en cause*** Entreprise à l’égard de laquelle un permis visant l’utilisation des eaux ou le dépôt de déchets a été délivré et qui, selon le cas :
 - **a)** est liée à des travaux d’assainissement exécutés par l’État fédéral ou pour son compte :
 	- **(i)** soit au titre de l’accord,
 	- **(ii)** soit à l’égard d’une décharge publique visée par une exception au sens de l’article 1.1 de l’accord;
-- **b)** est située sur des terres domaniales dont un ministre fédéral a la gestion.
+- **b)** est située sur des terres domaniales dont un ministre fédéral a la gestion. (*federal appurtenant undertaking*)
 
-***gaz*** Le gaz naturel — notamment le méthane de houille — et toutes les substances produites avec ce gaz, à l’exclusion du pétrole.
+***gaz*** Le gaz naturel — notamment le méthane de houille — et toutes les substances produites avec ce gaz, à l’exclusion du pétrole. (*gas*)
 
-***ligne de démarcation*** La ligne de délimitation décrite à l’annexe 18 de l’accord.
+***ligne de démarcation*** La ligne de délimitation décrite à l’annexe 18 de l’accord. (*line of delimitation*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***partie autochtone*** Organisation autochtone qui est une partie à l’accord.
+***partie autochtone*** Organisation autochtone qui est une partie à l’accord. (*Aboriginal party*)
 
-***petite baie fermée*** Indentation côtière qui satisfait aux conditions suivantes :
+***petite baie fermée*** Indentation côtière qui satisfait aux conditions suivantes :
 - **a)** la distance de la ligne droite parcourant l’entrée de l’indentation au niveau de basse mer est d’au plus quatre kilomètres;
-- **b)** l’aire de l’indentation, incluant les îles ou parties d’île qui y sont situées, est supérieure à celle d’un demi-cercle dont le diamètre correspond à la ligne droite visée à l’alinéa a).
+- **b)** l’aire de l’indentation, incluant les îles ou parties d’île qui y sont situées, est supérieure à celle d’un demi-cercle dont le diamètre correspond à la ligne droite visée à l’alinéa a). (*small enclosed bay*)
 
-***pétrole*** Le pétrole brut, quelle que soit sa densité, qui est extrait à la tête de puits sous forme liquide et les autres hydrocarbures, à l’exclusion du charbon et du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements en affleurement ou souterrains de sables pétrolifères, de bitume, de sables ou de schistes bitumineux, ou d’autres sortes de gisements.
+***pétrole*** Le pétrole brut, quelle que soit sa densité, qui est extrait à la tête de puits sous forme liquide et les autres hydrocarbures, à l’exclusion du charbon et du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements en affleurement ou souterrains de sables pétrolifères, de bitume, de sables ou de schistes bitumineux, ou d’autres sortes de gisements. (*oil*)
 
-***région intracôtière*** La partie du Canada située au nord du soixantième parallèle de latitude nord et à l’ouest de la limite décrite à l’annexe I de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md) — à l’exclusion du Yukon —, qui comprend les terres suivantes :
+***région intracôtière*** La partie du Canada située au nord du soixantième parallèle de latitude nord et à l’ouest de la limite décrite à l’annexe I de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md) — à l’exclusion du Yukon —, qui comprend les terres suivantes :
 - **a)** les terres, y compris celles se trouvant sous l’eau, situées vers la terre, à partir du niveau de basse mer — ou de la laisse de basse mer ordinaire ou moyenne, dans le cas de terres inuvialuites au sens de l’article 2 de la Convention définitive des Inuvialuits — de la côte de la partie continentale ou de la côte de toute île permanente naturelle;
 - **b)** les terres se trouvant sous l’eau dans de petites baies fermées le long de la côte de la partie continentale ou de la côte de toute île permanente naturelle;
 - **c)** les terres, y compris celles se trouvant sous l’eau, situées vers la terre, à partir de la ligne de démarcation, et vers la mer, à partir du niveau de basse mer — ou de la laisse de basse mer ordinaire ou moyenne, dans le cas de terres contiguës à la côte des terres inu­vialuites au sens de l’article 2 de la Convention définitive des Inuvialuits — de la côte de la partie continentale.
 
-Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de démarcation, à l’exception, d’une part, des terres, y compris celles se trouvant sous l’eau, situées vers la terre, à partir du niveau de basse mer de la côte des îles permanentes naturelles et, d’autre part, des terres se trouvant sous l’eau dans de petites baies fermées le long de la côte des îles permanentes naturelles.
+Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de démarcation, à l’exception, d’une part, des terres, y compris celles se trouvant sous l’eau, situées vers la terre, à partir du niveau de basse mer de la côte des îles permanentes naturelles et, d’autre part, des terres se trouvant sous l’eau dans de petites baies fermées le long de la côte des îles permanentes naturelles. (*onshore*)
 
-***ressources minérales*** Métaux précieux, métaux de base ou autres substances naturelles non vivantes — notamment le charbon, mais à l’exclusion du pétrole, du gaz et de l’eau — qui font partie des terres ou qui en faisaient partie avant leur production, sous forme solide, liquide ou gazeuse.
+***ressources minérales*** Métaux précieux, métaux de base ou autres substances naturelles non vivantes — notamment le charbon, mais à l’exclusion du pétrole, du gaz et de l’eau — qui font partie des terres ou qui en faisaient partie avant leur production, sous forme solide, liquide ou gazeuse. (*minerals*)
 
-***terres domaniales*** Les terres — y compris les ressources minérales, le pétrole, le gaz, les bois et forêts ainsi que les bâtiments, les structures, les améliorations et les autres accessoires — situées dans la région intracôtière et qui appartiennent à l’État fédéral, et les intérêts que celui-ci détient sur des terres situées dans cette région.
+***terres domaniales*** Les terres — y compris les ressources minérales, le pétrole, le gaz, les bois et forêts ainsi que les bâtiments, les structures, les améliorations et les autres accessoires — situées dans la région intracôtière et qui appartiennent à l’État fédéral, et les intérêts que celui-ci détient sur des terres situées dans cette région. (*public lands*)
 
-***terres visées par un règlement*** Terres des Territoires du Nord-Ouest dont le titre est acquis par une organisation autochtone au titre d’une entente de règlement.
+***terres visées par un règlement*** Terres des Territoires du Nord-Ouest dont le titre est acquis par une organisation autochtone au titre d’une entente de règlement. (*settlement lands*)
 
-***Territoires du Nord-Ouest*** La partie du Canada située au nord du soixantième parallèle de latitude nord et à l’ouest de la limite décrite à l’annexe I de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), à l’exclusion du Yukon.
+***Territoires du Nord-Ouest*** La partie du Canada située au nord du soixantième parallèle de latitude nord et à l’ouest de la limite décrite à l’annexe I de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), à l’exclusion du Yukon. (*Northwest Territories*)
 
 
 
