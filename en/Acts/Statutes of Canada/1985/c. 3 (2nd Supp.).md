@@ -646,13 +646,13 @@ the court may order that the divorce takes effect at such earlier time as it con
 
 ***Attorney General***, in respect of a province, means
 - **(a)** for Yukon, the member of the Executive Council of Yukon designated by the Commissioner of Yukon,
-- **(b)** for the Northwest Territories, the member of the Council of the Northwest Territories designated by the Commissioner of the Northwest Territories,
+- **(b)** for the Northwest Territories, the member of the Executive Council of the Northwest Territories designated by the Commissioner of the Northwest Territories,
 - **(b.1)** for Nunavut, the member of the Executive Council of Nunavut designated by the Commissioner of Nunavut, and
 - **(c)** for the other provinces, the Attorney General of the province,
 
-and includes any person authorized in writing by the member or Attorney General to act for the member or Attorney General in the performance of a function under this section or section 19;
+and includes any person authorized in writing by the member or Attorney General to act for the member or Attorney General in the performance of a function under this section or section 19; (*procureur général*)
 
-***provisional order*** means an order made pursuant to subsection (2).
+***provisional order*** means an order made pursuant to subsection (2). (*ordonnance conditionnelle*)
 
 **Provisional order**
 
@@ -679,7 +679,7 @@ the court shall make a variation order with or without notice to and in the abse
 **Transmission**
 
 - **(6)** Where evidence is received under subsection (5), the court that received the evidence shall forward to the court that remitted the matter back a certified or sworn document setting out or summarizing the evidence, together with such recommendations as the court that received the evidence considers appropriate.
-> R.S., 1985, c. 3 (2nd Supp.), s. 18; 1993, c. 8, s. 3, c. 28, s. 78; 2002, c. 7, s. 159
+> R.S., 1985, c. 3 (2nd Supp.), s. 18; 1993, c. 8, s. 3, c. 28, s. 78; 2002, c. 7, s. 159; 2014, c. 2, s. 33
 
 
 
@@ -787,13 +787,13 @@ the court shall make a variation order with or without notice to and in the abse
 	- **(a)** any minister of the Crown for Canada designated by the Governor in Council;
 	- **(b)** any minister of the Crown for a province, or any agency in a province, designated by the Lieutenant Governor in Council of the province;
 	- **(c)** any member of the Legislative Assembly of Yukon, or any agency in Yukon, designated by the Commissioner of Yukon;
-	- **(d)** any member of the Council of the Northwest Territories, or any agency in the Northwest Territories, designated by the Commissioner of the Northwest Territories; or
+	- **(d)** any member of the Legislative Assembly of the Northwest Territories, or any agency in the Northwest Territories, designated by the Commissioner of the Northwest Territories; or
 	- **(e)** any member of the Legislative Assembly of Nunavut, or any agency in Nunavut, designated by the Commissioner of Nunavut.
 
 **Rights**
 
 - **(2)** A minister, member or agency referred to in subsection (1) to whom an order is assigned is entitled to the payments due under the order, and has the same right to be notified of, and to participate in, proceedings under this Act to vary, rescind, suspend or enforce the order as the person who would otherwise be entitled to the payments.
-> 1993, c. 28, s. 78; 1997, c. 1, s. 9; 1998, c. 15, s. 23; 2002, c. 7, s. 160
+> 1993, c. 28, s. 78; 1997, c. 1, s. 9; 1998, c. 15, s. 23; 2002, c. 7, s. 160; 2014, c. 2, s. 34
 
 
 
