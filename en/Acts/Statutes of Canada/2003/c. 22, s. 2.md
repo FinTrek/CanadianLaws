@@ -327,8 +327,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exception**
 
-- **(2)** Despite paragraph (1)(b), a person is not ineligible to hold office as a member by reason only of holding office as a member of any board that may be constituted by the Commissioner in Council of the Northwest Territories or the Legislature of Yukon or the Legislature for Nunavut with powers and functions similar to those of the Board.
-> 2003, c. 22, ss. 2 “18”, 273.
+- **(2)** Despite paragraph (1)(b), a person is not ineligible to hold office as a member by reason only of holding office as a member of any board that may be constituted by the Legislature of Yukon, of the Northwest Territories or for Nunavut with powers and functions similar to those of the Board.
+> 2003, c. 22, ss. 2 “18”, 273; 2014, c. 2, s. 54.
 
 
 
