@@ -112,11 +112,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Les dispositions de la présente loi, de ses règlements et de l’Accord l’emportent sur les dispositions incompatibles de toute autre loi fédérale, de toute ordonnance des Territoires du Nord-Ouest ainsi que de leurs règlements ou de toute loi tlicho.
+- **(1)** Les dispositions de la présente loi, de ses règlements et de l’Accord l’emportent sur les dispositions incompatibles de toute autre loi fédérale, de toute loi de la Législature des Territoires du Nord-Ouest ainsi que de leurs règlements ou de toute loi tlicho.
 
 **Primauté de l’Accord**
 
 - **(2)** Les dispositions de l’Accord l’emportent sur les dispositions incompatibles de la présente loi ou de ses règlements.
+> 2005, ch. 1, art. 5; 2014, ch. 2, art. 56.
+
 
 
 
@@ -219,7 +221,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Il ne peut être statué sur aucune question soulevée dans une procédure judiciaire ou administrative quant à l’interprétation, la validité ou l’applicabilité de l’Accord ou quant à la validité ou l’applicabilité de la présente loi, de l’ordonnance intitulée Loi sur l’accord sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho ou d’une loi tlicho à moins qu’un préavis n’en ait été donné par la partie qui la soulève aux procureurs généraux du Canada et des Territoires du Nord-Ouest et au gouvernement tlicho.
+- **(1)** Il ne peut être statué sur aucune question soulevée dans une procédure judiciaire ou administrative quant à l’interprétation, la validité ou l’applicabilité de l’Accord ou quant à la validité ou l’applicabilité de la présente loi, de la loi de la Législature des Territoires du Nord-Ouest intitulée Loi sur l’accord sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho ou d’une loi tlicho à moins qu’un préavis n’en ait été donné par la partie qui la soulève aux procureurs généraux du Canada et des Territoires du Nord-Ouest et au gouvernement tlicho.
 
 **Teneur et délai du préavis**
 
@@ -232,6 +234,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(4)** Il est entendu que les paragraphes (2) et (3) n’ont pas pour effet d’imposer la tenue d’une audience si elle n’est pas par ailleurs nécessaire.
+> 2005, ch. 1, art. 14; 2014, ch. 2, art. 57.
+
 
 
 
