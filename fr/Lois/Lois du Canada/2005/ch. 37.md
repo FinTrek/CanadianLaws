@@ -74,6 +74,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet de la loi**
 
-**5** Il est entendu que la présente loi n’a pas pour effet de porter atteinte à l’application de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), de la Loi sur la protection des eaux navigables ni d’aucune autre loi fédérale en ce qui concerne la construction et l’entretien des ponts et ouvrages accessoires autorisés par la présente loi.
+**5** Il est entendu que la présente loi n’a pas pour effet de porter atteinte à l’application de la Loi sur la protection de la navigation ni d’aucune autre loi fédérale en ce qui concerne la construction et l’entretien des ponts et ouvrages accessoires autorisés par la présente loi.
+> 2005, ch. 37, art. 5; 2012, ch. 31, art. 347.
+
 
 
