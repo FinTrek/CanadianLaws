@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1201-1300/C.R.C.,%20ch.%201239.md)
 
-# Order Prescribing Oaths of Allegiance and Office and the Seat of the Government
+# Order prescribing oaths of allegiance and office
 
 **C.R.C., c. 1239**
 
@@ -14,7 +14,9 @@ Enabling authorities:
 ## Short Title
 
 
-**1** This Order may be cited as the Oaths of Allegiance and Office and Seat of Government Order (N.W.T.).
+**1** This Order may be cited as the Oaths of Allegiance and Office Order (N.W.T.).
+> 2014, c. 2, s. 59.
+
 
 
 
@@ -22,7 +24,9 @@ Enabling authorities:
 ## Oath of Allegiance
 
 
-**2** The oath of allegiance prescribed by the [Oaths of Allegiance Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-1.md) is the oath of allegiance to be taken and subscribed by the Commissioner of the Northwest Territories and the members of the Northwest Territories Council.
+**2** The oath of allegiance prescribed by the [Oaths of Allegiance Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-1.md) is the oath of allegiance to be taken and subscribed by the Commissioner of the Northwest Territories.
+> 2014, c. 2, s. 60.
+
 
 
 
@@ -34,7 +38,7 @@ Enabling authorities:
 
 
 
-**4** The oath of office to be taken and subscribed by members of the Northwest Territories Council is in the form set out in Schedule II.
+**4** [Repealed, 2014, c. 2, s. 61]
 
 
 
@@ -46,11 +50,7 @@ Enabling authorities:
 
 
 
-
-## Seat of Government
-
-
-**6** The seat of government of the Northwest Territories shall be in the Town of Yellowknife in the Northwest Territories.
+**6** [Repealed, 2014, c. 2, s. 62]
 
 
 
@@ -65,9 +65,6 @@ I, ____________ do solemnly and sincerely promise and swear that I will duly and
 
 
 ### **SCHEDULE II** 
-**(Section 4)**
-## Oath of Office for Member of the Northwest Territories Council
-I, ____________ do solemnly and sincerely promise and swear that I will duly and faithfully and to the best of my skill and knowledge execute the powers and trust reposed in me as a member of the Northwest Territories Council. So help me God.
-
+[Repealed, 2014, c. 2, s. 63]
 
 
