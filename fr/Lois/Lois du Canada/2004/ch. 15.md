@@ -471,7 +471,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Loi sur la protection des eaux navigables
 
 
-**94** [Modification]
+**94** [Abrogé, 2012, ch. 31, art. 348]
 
 
 
