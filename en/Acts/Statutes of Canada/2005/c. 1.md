@@ -104,15 +104,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Conflict between the Agreement or this Act and other legislation**
+**Conflict with Agreement or this Act**
 
 **5** 
 
-- **(1)** In the event of an inconsistency or conflict between the Agreement or this Act, or any regulations made under this Act, and the provisions of any other Act of Parliament, any ordinance of the Northwest Territories, any regulations made under any of those other Acts or ordinances, or any Tlicho law, then the Agreement or this Act, or regulations made under this Act, as the case may be, prevail to the extent of the inconsistency or conflict.
+- **(1)** In the event of an inconsistency or conflict between the Agreement or this Act, or any regulations made under this Act, and the provisions of any other Act of Parliament, any law of the Legislature of the Northwest Territories, any regulations made under any of those other Acts or laws, or any Tlicho law, then the Agreement or this Act, or regulations made under this Act, as the case may be, prevail to the extent of the inconsistency or conflict.
 
 **Conflict between the Agreement and this Act**
 
 - **(2)** In the event of an inconsistency or conflict between the Agreement and the provisions of this Act or any regulations made under this Act, the Agreement prevails to the extent of the inconsistency or conflict.
+> 2005, c. 1, s. 5; 2014, c. 2, s. 56.
+
 
 
 
@@ -217,7 +219,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** If, in any judicial or administrative proceeding, an issue arises in respect of
 	- **(a)** the interpretation, validity or applicability of the Agreement, or
-	- **(b)** the validity or applicability of this Act, the ordinance of the Northwest Territories entitled the Tlicho Land Claims and Self-Government Agreement Act or any Tlicho law,
+	- **(b)** the validity or applicability of this Act, the law of the Legislature of the Northwest Territories entitled the Tlicho Land Claims and Self-Government Agreement Act or any Tlicho law,
 the issue shall not be decided until the party raising the issue has served notice on the Attorney General of Canada, the Attorney General of the Northwest Territories and the Tlicho Government.
 
 **Content of notice**
@@ -236,6 +238,8 @@ the issue shall not be decided until the party raising the issue has served noti
 **Saving**
 
 - **(4)** For greater certainty, subsections (2) and (3) do not require that an oral hearing be held if one is not otherwise required.
+> 2005, c. 1, s. 14; 2014, c. 2, s. 57.
+
 
 
 
