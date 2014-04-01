@@ -1104,10 +1104,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la protection des eaux navigables**
+**Loi sur la protection de la navigation**
 
-**47** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 62.
-> 1998, ch. 10, art. 47; 2008, ch. 21, art. 26.
+**47** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 62.
+> 1998, ch. 10, art. 47; 2008, ch. 21, art. 26; 2012, ch. 31, art. 342.
 
 
 
@@ -1716,10 +1716,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la protection des eaux navigables**
+**Loi sur la protection de la navigation**
 
-**73** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 74.
-> 1998, ch. 10, art. 73; 2008, ch. 21, art. 40.
+**73** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 74.
+> 1998, ch. 10, art. 73; 2008, ch. 21, art. 40; 2012, ch. 31, art. 343.
 
 
 
@@ -2253,10 +2253,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la protection des eaux navigables**
+**Loi sur la protection de la navigation**
 
-**101** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 98.
-> 1998, ch. 10, art. 101; 2008, ch. 21, art. 47.
+**101** La Loi sur la protection de la navigation ne s’applique pas aux ouvrages, au sens de l’article 2 de cette loi, exemptés par règlement pris en vertu de l’article 98.
+> 1998, ch. 10, art. 101; 2008, ch. 21, art. 47; 2012, ch. 31, art. 344.
 
 
 
