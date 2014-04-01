@@ -521,7 +521,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The following persons shall not be appointed as an election officer:
 	- **(a)** a minister of the Crown or a member of the executive council of a province;
 	- **(b)** a member of the Senate or the House of Commons;
-	- **(c)** a member of the legislature of a province, the Council of the Northwest Territories or the Legislative Assembly of Yukon or Nunavut;
+	- **(c)** a member of the legislative assembly of a province;
 	- **(d)** a judge or deputy judge of any superior court or any bankruptcy or insolvency court and, in Yukon and the Northwest Territories, a judge of the Supreme Court;
 	- **(d.1)** a person who was a candidate at the last general election or at a by-election held since the last general election;
 	- **(e)** a person who has served in Parliament in the session immediately before the election or in the session in progress at the time of the election; and
@@ -540,7 +540,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — acting as election officer**
 
 - **(6)** No person shall act as an election officer knowing that they do not meet the requirements for an election officer set out in this section.
-> 2000, c. 9, s. 22; 2002, c. 7, s. 91; 2006, c. 9, s. 173.
+> 2000, c. 9, s. 22; 2002, c. 7, s. 91; 2006, c. 9, s. 173; 2014, c. 2, s. 48.
 
 
 
@@ -1438,14 +1438,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **65** The following persons are not eligible to be a candidate:
 - **(a)** a person who is not qualified as an elector on the date on which his or her nomination paper is filed;
 - **(b)** a person who is disentitled under paragraph 502(3)(a) while they are so disentitled;
-- **(c)** a member of the legislature of a province, the Council of the Northwest Territories or the Legislative Assembly of Yukon or Nunavut;
+- **(c)** a member of the legislative assembly of a province;
 - **(d)** a sheriff, clerk of the peace or county Crown Attorney in any of the provinces;
 - **(e)** a person who is not entitled under section 4 to vote;
 - **(f)** a judge appointed by the Governor in Council, other than a citizenship judge appointed under the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md);
 - **(g)** a person who is imprisoned in a correctional institution;
 - **(h)** an election officer; and
 - **(i)** a person who was a candidate in a previous election and for whom a return, report, document or declaration has not been provided under subsection 451(1), if the time and any extension for providing it have expired.
-> 2000, c. 9, s. 65; 2002, c. 7, s. 92.
+> 2000, c. 9, s. 65; 2002, c. 7, s. 92; 2014, c. 2, s. 49.
 
 
 
