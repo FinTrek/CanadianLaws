@@ -59,16 +59,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** In this Act,
 
-***federal institution*** means any of the following institutions of the Government of Canada:
+***federal institution*** means any of the following institutions of the Government of Canada:
 - **(a)** a department, board, commission or council, or other body or office, established to perform a governmental function by or pursuant to an Act of Parliament or by or under the authority of the Governor in Council, and
 - **(b)** a departmental corporation or Crown corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md),
 
 but does not include
-- **(c)** any institution of the Council or government of the Northwest Territories or of the Legislative Assembly or government of Yukon or Nunavut, or
-- **(d)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people;
+- **(c)** any institution of the Legislative Assembly or government of Yukon, the Northwest Territories or Nunavut, as the case may be, or
+- **(d)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people; (*institutions fédérales*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act.
-> R.S., 1985, c. 24 (4th Supp.), s. 2; 1993, c. 28, s. 78; 2002, c. 7, s. 129.
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
+> R.S., 1985, c. 24 (4th Supp.), s. 2; 1993, c. 28, s. 78; 2002, c. 7, s. 129; 2014, c. 2, s. 38.
 
 
 
