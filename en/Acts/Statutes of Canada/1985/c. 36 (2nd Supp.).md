@@ -48,8 +48,13 @@
 ***former special renewal permit*** means a special renewal permit under the [Canada Oil and Gas Land Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201518.md); (*ancien permis spécial de renouvellement*)
 
 ***frontier lands*** means lands that belong to Her Majesty in right of Canada, or in respect of which Her Majesty in right of Canada has the right to dispose of or exploit the natural resources, and that are situated in
-- **(a)** the Northwest Territories, Nunavut or Sable Island, or
-- **(b)** submarine areas, not within a province, in the internal waters of Canada, the territorial sea of Canada or the continental shelf of Canada,
+- **(a)** that part of the onshore that is under the administration of a federal minister,
+- **(b)** Nunavut,
+- **(c)** Sable Island,
+- **(d)** the submarine areas in that part — of the internal waters of Canada or the territorial sea of Canada — that is not situated
+	- **(i)** in a province other than the Northwest Territories, or
+	- **(ii)** in that part of the onshore that is not under the administration of a federal minister, or
+- **(e)** the continental shelf of Canada,
 
 but does not include the adjoining area, as defined in section 2 of the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md); (*terres domaniales*)
 
@@ -69,6 +74,8 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 - **(a)** crude oil, regardless of gravity, produced at a well head in liquid form, and
 - **(b)** any other hydrocarbons, except coal and gas, and, without limiting the generality of the foregoing, hydrocarbons that may be extracted or recovered from deposits of oil sand, bitumen, bituminous sand, oil shale or from any other types of deposits on the surface or subsurface or the seabed or its subsoil of any frontier lands; (*pétrole*)
 
+***onshore*** has the same meaning as in section 2 of the [Northwest Territories Act](/en/Acts/Statutes%20of%20Canada/2014/c.%202,%20s.%202.md); (*région intracôtière*)
+
 ***petroleum*** means oil or gas; (*hydrocarbures*)
 
 ***prescribed*** means
@@ -80,7 +87,7 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 ***significant discovery*** means a discovery indicated by the first well on a geological feature that demonstrates by flow testing the existence of hydrocarbons in that feature and, having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (*découverte importante*)
 
 ***significant discovery area*** means, in relation to a declaration of significant discovery made pursuant to subsection 28(1) or (2), those frontier lands described in the declaration. (*périmètre de découverte importante*)
-> R.S., 1985, c. 36 (2nd Supp.), s. 2; 1993, c. 28, s. 78; 1994, c. 41, s. 13; 1996, c. 31, s. 58; 1998, c. 5, s. 13, c. 15, s. 49.
+> R.S., 1985, c. 36 (2nd Supp.), s. 2; 1993, c. 28, s. 78; 1994, c. 41, s. 13; 1996, c. 31, s. 58; 1998, c. 5, s. 13, c. 15, s. 49; 2014, c. 2, s. 35.
 
 
 
@@ -1756,6 +1763,21 @@ whether that other right was acquired before or after that particular right; or
 
 - **(6)** The recipient of information or documentation disclosed pursuant to an agreement referred to in subsection (5) shall not disclose that information or documentation except as otherwise provided in this section.
 
+**Disclosure — governments and agencies**
+
+- **(6.1)** The National Energy Board may disclose any information or documentation that it obtains under this Act or the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) — to officials of the Government of Canada, the government of a province or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, if
+	- **(a)** the government or agency undertakes to keep the information or documentation confidential and not to disclose it without the Board’s written consent;
+	- **(b)** the information or documentation is disclosed in accordance with any conditions agreed to by the Board and the government or agency; and
+	- **(c)** in the case of disclosure to a foreign government or agency, the Minister consents in writing.
+
+**Disclosure — Minister**
+
+- **(6.2)** The National Energy Board may disclose to the Minister the information or documentation that it has disclosed or intends to disclose under subsection (6.1), but the Minister is not to further disclose that information or documentation unless the Board consents in writing to that disclosure or the Minister is required by an Act of Parliament to disclose that information or documentation.
+
+**Consent**
+
+- **(6.3)** For the purposes of paragraph (6.1)(a) and subsection (6.2), the National Energy Board may consent to the further disclosure of information or documentation only if the Board itself is authorized under this section to disclose it.
+
 **Information that may be disclosed**
 
 - **(7)** Subsection (2) does not apply in respect of the following classes of information or documentation obtained as a result of carrying on a work or activity that is authorized under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), namely, information or documentation in respect of
@@ -1783,7 +1805,7 @@ have passed;
 		- **(ii)** in any other case, if five years have passed since the completion of the study.
 
 - **(8)** [Repealed, R.S., 1985, c. 21 (4th Supp.), s. 4]
-> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151.
+> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36.
 
 
 
@@ -2128,6 +2150,29 @@ have passed;
 
 - **(6)** The division of an interest and the assignment of new numbers under this section shall be construed as a continuation of that interest and not as the issuance of new interests.
 > 1998, c. 5, s. 14.
+
+
+
+
+
+**Northwest Territories**
+
+**117.2** 
+
+- **(1)** An interest in respect of lands that straddle the onshore and the offshore — that is in effect on the coming into force of this section — is divided into two interests: one in respect of the portion of those lands that is situated in the onshore and one in respect of the portion that is situated in the offshore. Only the offshore interest is to be under the administration of a federal minister.
+
+**Assignment of new numbers**
+
+- **(2)** The Registrar referred to in subsection 87(2) may assign new numbers to the interests resulting from the division of the interest.
+
+**Interpretation**
+
+- **(3)** The division of the interest and assignment of new numbers is to be construed as a continuation of the interest and not as the issuance of new interests.
+
+**Definition of offshore**
+
+- **(4)** In this section, ***offshore*** has the same meaning as in section 48.01 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
+> 2014, c. 2, s. 37.
 
 
 
