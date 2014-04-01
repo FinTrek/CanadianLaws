@@ -975,9 +975,9 @@ The Board shall take the representations into account.
 - **(1)** The Board may not issue a licence unless
 	- **(a)** the applicant satisfies the Board that compensation that the Board considers appropriate has been or will be paid by the applicant to any person who would be adversely affected by the proposed use of waters or deposit of waste and who, at the time the application was filed,
 		- **(i)** used waters for a domestic purpose in the Northwest Territories or in Nunavut,
-		- **(ii)** held a licence under this Act or the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) to deposit waste in the Northwest Territories or in Nunavut,
+		- **(ii)** held a licence that was issued under this Act, the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) or a law of the Legislature of the Northwest Territories to deposit waste in the Northwest Territories or in Nunavut,
 		- **(iii)** was an instream user in the Northwest Territories or in Nunavut,
-		- **(iv)** was, as authorized by regulations made under this Act or the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), using waters or depositing waste in the Northwest Territories or in Nunavut without a licence under either Act,
+		- **(iv)** was — as authorized by regulations made under this Act or a law of the Legislature of the Northwest Territories — using waters or depositing waste in the Northwest Territories or in Nunavut without a licence that was issued under this Act, the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) or a law of the Legislature of the Northwest Territories,
 		- **(v)** was an owner or an occupier of land in the Northwest Territories or in Nunavut, or
 		- **(vi)** was a holder of an outfitting concession, a registered trapline or other rights of a similar nature in the Northwest Territories or in Nunavut; or
 	- **(b)** the applicant has entered into an agreement to compensate any person described in subparagraphs (a)(i) to (vi) who would be adversely affected.
@@ -989,6 +989,8 @@ The Board shall take the representations into account.
 **Inuit-owned land**
 
 - **(3)** Where subsection 63(1) applies in respect of adverse effects on any person described in subparagraphs (1)(a)(i) to (vi) that are caused by a use of waters or a deposit of waste that may substantially alter the quality, quantity or flow of waters flowing through Inuit-owned land, subsection (1) does not apply in respect of those effects for which compensation has already been paid, has been agreed to be paid or has been determined by the Board pursuant to subsection 63(1).
+> 2002, c. 10, s. 60; 2014, c. 2, s. 53.
+
 
 
 
