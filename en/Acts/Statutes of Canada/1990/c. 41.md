@@ -46,7 +46,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** that extend to such outer limits as are prescribed pursuant to paragraph (2)(a), or
 - **(c)** that are designated as being part of the continental shelf pursuant to that paragraph; (*plateau continental*)
 
-***federal laws*** includes Acts of Parliament, regulations as defined in section 2 of the  [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md)  and any other rules of law within the jurisdiction of Parliament, and any provision of those Acts, regulations or rules of law, but does not include ordinances within the meaning of the  [Northwest Territories Act](/en/Acts/Statutes%20of%20Canada/2014/c.%202,%20s.%202.md)  or laws of the Legislature of Yukon or of the Legislature for Nunavut;  (*lois fédérales*)
+***federal laws*** includes Acts of Parliament, regulations as defined in section 2 of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md) and any other rules of law within the jurisdiction of Parliament, and any provision of those Acts, regulations or rules of law, but does not include laws of the Legislature of Yukon, of the Northwest Territories or for Nunavut; (*lois fédérales*)
 
 ***Her Majesty*** means Her Majesty in right of Canada; (*Sa Majesté*)
 
@@ -74,7 +74,7 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 	- **(a)** prescribing outer limits of the continental shelf or any portion thereof for the purpose of the definition ***continental shelf*** in subsection (1), or designating, for greater certainty, the seabed and subsoil of a particular submarine area as being part of the continental shelf;
 	- **(b)** designating an area of the sea for the purpose of the definition ***offshore area*** in subsection (1); and
 	- **(c)** prescribing, in respect of any area of the sea and for the purpose of the definition ***offshore area*** in subsection (1), the manner of determining the province that has the coast nearest to that area.
-> 1990, c. 41, s. 2; 1994, c. 41, s. 37; 2002, c. 7, s. 178.
+> 1990, c. 41, s. 2; 1994, c. 41, s. 37; 2002, c. 7, s. 178; 2014, c. 2, s. 41.
 
 
 
