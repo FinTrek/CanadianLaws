@@ -74,6 +74,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of other Acts**
 
-**5** For greater certainty, nothing in this Act limits the application of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), the Navigable Waters Protection Act or any other Act of Parliament in respect of the construction and maintenance of the bridges and ancillary works authorized by this Act.
+**5** For greater certainty, nothing in this Act limits the application of the Navigation Protection Act or any other Act of Parliament in respect of the construction and maintenance of the bridges and ancillary works authorized by this Act.
+> 2005, c. 37, s. 5; 2012, c. 31, s. 347.
+
 
 
