@@ -68,13 +68,9 @@ Sanctionnée sur le 14 décembre 2012
 
 **Non-application de certains textes législatifs**
 
-**3** 
+**3** La [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection de la navigation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-22.md), la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md) et l’article 6 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md) et le [Règlement sur l’exploitation des administrations portuaires](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/55.md) ne s’appliquent pas à la construction du pont, de la promenade ou d’un ouvrage connexe.
+> 2012, ch. 31, art. 179 « 3 » et 183
 
-- **(1)** La [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la Loi sur la protection des eaux navigables, la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md), l’article 6 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md) et le [Règlement sur l’exploitation des administrations portuaires](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/55.md) ne s’appliquent pas à la construction du pont, de la promenade ou d’un ouvrage connexe.
-
-**Fiction juridique : autorisation**
-
-- **(2)** Une fois le pont, la promenade ou un ouvrage connexe construit, toute autorisation qui, n’eût été le paragraphe (1), aurait été requise pour sa construction, est réputée avoir été délivrée pour l’application des lois et du règlement visés à ce paragraphe.
 
 
 
