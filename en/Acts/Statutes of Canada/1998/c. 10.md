@@ -1105,10 +1105,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Navigable Waters Protection Act**
+**Navigation Protection Act**
 
-**47** The Navigable Waters Protection Act does not apply to a work, within the meaning of that Act, that has been exempted by a regulation made under section 62.
-> 1998, c. 10, s. 47; 2008, c. 21, s. 26.
+**47** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 62.
+> 1998, c. 10, s. 47; 2008, c. 21, s. 26; 2012, c. 31, s. 342.
 
 
 
@@ -1729,10 +1729,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Navigable Waters Protection Act**
+**Navigation Protection Act**
 
-**73** The Navigable Waters Protection Act does not apply to a work, within the meaning of that Act, that has been exempted by a regulation made under section 74.
-> 1998, c. 10, s. 73; 2008, c. 21, s. 40.
+**73** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 74.
+> 1998, c. 10, s. 73; 2008, c. 21, s. 40; 2012, c. 31, s. 343.
 
 
 
@@ -2268,10 +2268,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Navigable Waters Protection Act**
+**Navigation Protection Act**
 
-**101** The Navigable Waters Protection Act does not apply to a work, within the meaning of that Act, that has been exempted by a regulation made under section 98.
-> 1998, c. 10, s. 101; 2008, c. 21, s. 47.
+**101** The Navigation Protection Act does not apply to a work, as defined in section 2 of that Act, that has been exempted by a regulation made under section 98.
+> 1998, c. 10, s. 101; 2008, c. 21, s. 47; 2012, c. 31, s. 344.
 
 
 
