@@ -195,9 +195,11 @@
 
 
 
-**Conformité avec la Loi sur la protection des eaux navigables**
+**Conformité avec la Loi sur la protection de la navigation**
 
-**5** Lorsque les eaux navigables, au sens de la Loi sur la protection des eaux navigables, entrent en ligne de compte dans la construction ou la modification d’installations ferroviaires, il ne peut être porté atteinte aux obligations découlant de cette loi par celles imposées sous le régime de la présente loi.
+**5** Lorsque les eaux navigables, au sens de l’article 2 de la Loi sur la protection de la navigation, entrent en ligne de compte dans la construction ou la modification d’installations ferroviaires, il ne peut être porté atteinte aux obligations découlant de cette loi par celles imposées sous le régime de la présente loi.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 5; 2012, ch. 31, art. 341.
+
 
 
 
