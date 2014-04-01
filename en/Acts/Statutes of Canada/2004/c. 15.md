@@ -471,7 +471,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Navigable Waters Protection Act
 
 
-**94** [Amendment]
+**94** [Repealed, 2012, c. 31, s. 348]
 
 
 
