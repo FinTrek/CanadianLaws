@@ -962,9 +962,9 @@ Il tient compte des observations ainsi reçues.
 - **(1)** Le demandeur doit, pour obtenir la délivrance du permis :
 	- **a)** soit prouver à l’Office qu’il a versé ou s’est engagé à verser, à chacune des personnes mentionnées ci-après à qui nuira l’activité projetée, l’indemnité jugée suffisante par l’Office si, au moment de la demande, cette personne :
 		- **(i)** utilisait les eaux à des fins domestiques dans les Territoires du Nord-Ouest ou au Nunavut,
-		- **(ii)** était autorisée par un permis délivré sous le régime de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) à rejeter des déchets dans les Territoires du Nord-Ouest ou au Nunavut,
+		- **(ii)** était autorisée par un permis délivré sous le régime de la présente loi, de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) ou d’une loi de la Législature des Territoires du Nord-Ouest à rejeter des déchets dans les Territoires du Nord-Ouest ou au Nunavut,
 		- **(iii)** était un usager ordinaire dans les Territoires du Nord-Ouest ou au Nunavut,
-		- **(iv)** utilisait les eaux dans les Territoires du Nord-Ouest ou au Nunavut ou y rejetait des déchets sans permis — que ce soit sous le régime de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) — sous l’autorité des règlements d’application de l’une ou l’autre loi,
+		- **(iv)** utilisait les eaux dans les Territoires du Nord-Ouest ou au Nunavut ou y rejetait des déchets sans permis — délivré sous le régime de la présente loi, de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) ou d’une loi de la Législature des Territoires du Nord-Ouest — sous l’autorité des règlements d’application de la présente loi ou d’une loi de la Législature des Territoires du Nord-Ouest,
 		- **(v)** était le propriétaire ou l’occupant d’un bien-fonds situé dans les Territoires du Nord-Ouest ou au Nunavut,
 		- **(vi)** était titulaire, dans les Territoires du Nord-Ouest ou au Nunavut, d’une concession de pourvoirie, d’une ligne de piégeage ou d’autres droits analogues;
 	- **b)** soit avoir conclu un accord d’indemnisation avec chacune des personnes mentionnées aux sous-alinéas a)(i) à (vi) à qui nuira l’activité projetée.
@@ -976,6 +976,8 @@ Il tient compte des observations ainsi reçues.
 **Terres inuit**
 
 - **(3)** Si le paragraphe 63(1) s’applique à l’égard de nuisances causées à des personnes mentionnées aux sous-alinéas (1)a)(i) à (vi) par des activités — utilisation des eaux ou rejet de déchets — qui peuvent modifier d’une façon importante la qualité, la quantité ou le débit des eaux traversant une terre inuit, le paragraphe (1) ne s’applique pas à l’égard de telles de ces nuisances à l’égard desquelles une indemnité a déjà été versée ou il a été convenu qu’elle serait versée ou a été fixée par l’Office au titre du paragraphe 63(1).
+> 2002, ch. 10, art. 60; 2014, ch. 2, art. 53.
+
 
 
 
