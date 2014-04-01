@@ -10,14 +10,15 @@ Enabling authorities:
 ----------
 
 
-**1** The Governor in Council hereby declares the game listed in the schedule as game in danger of becoming extinct.
+[Repealed, 2014, c. 2, s. 68]
+
+
+**1** [Repealed, 2014, c. 2, s. 68]
 
 
 
 
 ### **SCHEDULE** 
-- Barren-ground caribou
-- Musk-ox
-- Polar bear
-- Wood buffalo
+[Repealed, 2014, c. 2, s. 68]
+
 
