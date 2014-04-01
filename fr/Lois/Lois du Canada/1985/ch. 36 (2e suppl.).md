@@ -63,20 +63,27 @@
 
 ***pétrole*** Le pétrole brut, quelle que soit sa densité, extrait à la tête de puits sous une forme liquide et les autres hydrocarbures, à l’exclusion du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements en affleurement ou souterrains, ou des fonds ou des sous-sols marins, de sables pétrolifères, de bitume, de sables ou de schistes bitumineux, ou d’autres sortes de gisements. La présente définition ne s’applique pas au charbon. (*oil*)
 
+***région intracôtière*** S’entend au sens de l’article 2 de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md). (*onshore*)
+
 ***règlement*** Texte d’application pris par le gouverneur en conseil.
 
 ***réserves de l’État*** Les terres domaniales à l’égard desquelles aucun titre n’est en cours de validité. (*Crown reserve lands*)
 
-***terres domaniales*** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle peut légalement aliéner ou exploiter les ressources naturelles, et qui sont situées :
-- **a)** soit dans les Territoires du Nord-Ouest, au Nunavut ou dans l’île de Sable;
-- **b)** soit dans les zones sous-marines non comprises dans le territoire d’une province, et faisant partie des eaux intérieures, de la mer territoriale ou du plateau continental du Canada.
+***terres domaniales*** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle peut légalement aliéner ou exploiter les ressources naturelles, et qui sont situées, selon le cas :
+- **a)** dans la partie de la région intracôtière dont un ministre fédéral a la gestion;
+- **b)** au Nunavut;
+- **c)** dans l’île de Sable;
+- **d)** dans les zones sous-marines qui sont dans la partie des eaux intérieures du Canada — ou de la mer territoriale du Canada — qui n’est pas comprise, selon le cas :
+	- **(i)** dans le territoire d’une province autre que les Territoires du Nord-Ouest,
+	- **(ii)** dans la partie de la région intracôtière dont un ministre fédéral n’a pas la gestion;
+- **e)** dans le plateau continental du Canada.
 
 Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md). (*frontier lands*)
 
 ***titre*** Ancien accord d’exploration, ancienne concession, ancien permis, ancien permis spécial de renouvellement, permis de prospection, licence de production ou attestation de découverte importante. (*interest*)
 
 ***titulaire*** Le possesseur d’un titre enregistré sous le régime de la partie VIII ou le groupe de tous les indivisaires d’un titre, selon le cas.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 1994, ch. 41, art. 13; 1996, ch. 31, art. 58; 1998, ch. 5, art. 13, ch. 15, art. 49.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 2; 1993, ch. 28, art. 78; 1994, ch. 41, art. 13; 1996, ch. 31, art. 58; 1998, ch. 5, art. 13, ch. 15, art. 49; 2014, ch. 2, art. 35.
 
 
 
@@ -1700,6 +1707,21 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 - **(6)** Le destinataire des renseignements visés au paragraphe (5) ne peut les communiquer que sous le régime du présent article.
 
+**Communication : administrations publiques et organismes**
+
+- **(6.1)** L’Office national de l’énergie peut communiquer tout renseignement qu’il a obtenu au titre de la présente loi ou de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) à des fonctionnaires de l’administration publique fédérale ou d’une administration publique provinciale ou étrangère ou à des représentants de tout organisme de l’une de ces administrations, pour l’application d’une règle de droit — fédérale, provinciale ou d’un État étranger — portant principalement sur des activités afférentes aux hydrocarbures, y compris la prospection, la gestion, l’administration et la production de ceux-ci si, à la fois :
+	- **a)** l’administration publique ou l’organisme s’engage à en protéger la confidentialité et à ne pas le communiquer sans le consentement écrit de l’Office;
+	- **b)** la communication est effectuée selon les conditions convenues entre l’Office et l’administration publique ou l’organisme;
+	- **c)** dans le cas de toute communication à une administration publique étrangère ou à l’un de ses organismes, le ministre consent par écrit à la communication.
+
+**Communication au ministre**
+
+- **(6.2)** L’Office national de l’énergie peut communiquer au ministre les renseignements qu’il a communiqués ou qu’il entend communiquer en vertu du paragraphe (6.1); le ministre ne peut les communiquer que si une loi fédérale l’y oblige ou si l’Office y consent par écrit.
+
+**Consentement**
+
+- **(6.3)** Pour l’application de l’alinéa (6.1)a) et du paragraphe (6.2), l’Office national de l’énergie ne peut consentir à la communication de renseignements que dans les cas où il peut lui-même les communiquer sous le régime du présent article.
+
 **Renseignements communicables**
 
 - **(7)** Le paragraphe (2) ne vise pas les catégories de renseignements provenant d’activités autorisées sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et relatives à :
@@ -1721,7 +1743,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 		- **(ii)** par ailleurs, lorsque cinq ans se sont écoulés depuis leur achèvement.
 
 - **(8)** [Abrogé, L.R. (1985), ch. 21 (4<sup>e</sup> suppl.), art. 4]
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36.
 
 
 
@@ -2064,6 +2086,29 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 - **(6)** Ni la scission de titres en vertu du présent article, ni l’attribution de nouveaux numéros aux titres en résultant n’a pour effet de créer de nouveaux titres, les titres existants étant remplacés sans solution de continuité.
 > 1998, ch. 5, art. 14.
+
+
+
+
+
+**Territoires du Nord-Ouest**
+
+**117.2** 
+
+- **(1)** À l’entrée en vigueur du présent article, tout intérêt à l’égard de terres qui se trouvent à la fois dans les régions intracôtière et extracôtière est scindé en deux intérêts, l’un visant les terres situées dans la région intracôtière, l’autre visant celles qui sont situées dans la région extracôtière. Seule la gestion du second intérêt est confiée à un ministre fédéral.
+
+**Attribution de nouveaux numéros**
+
+- **(2)** Le directeur visé au paragraphe 87(2) peut attribuer de nouveaux numéros aux intérêts résultant de la scission.
+
+**Précision**
+
+- **(3)** Ni la scission d’un intérêt ni l’attribution de nouveaux numéros aux intérêts n’a pour effet de créer de nouveaux intérêts, les intérêts existants étant remplacés sans solution de continuité.
+
+**Définition de région extracôtière**
+
+- **(4)** Au présent article, ***région extracôtière*** s’entend au sens de l’article 48.01 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
+> 2014, ch. 2, art. 37.
 
 
 
