@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1201-1300/C.R.C.,%20c.%201239.md)
 
-# Décret prescrivant des serments d’allégeance et d’office et le siège du gouvernement
+# Décret prescrivant des serments d’allégeance et d’office
 
 **C.R.C., ch. 1239**
 
@@ -14,7 +14,9 @@ Autorités habilitantes :
 ## Titre abrégé
 
 
-**1** Le présent décret peut être cité sous le titre : Décret sur les serments d’allégeance et d’office et le siège du gouvernement (T.N.-O.).
+**1** Le présent décret peut être cité sous le titre : Décret sur les serments d’allégeance et d’office (T.N.-O.).
+> 2014, ch. 2, art. 59.
+
 
 
 
@@ -22,7 +24,9 @@ Autorités habilitantes :
 ## Serment d’allégeance
 
 
-**2** Le serment d’allégeance prescrit par la [Loi sur les serments d’allégeance](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-1.md) est celui que doivent prêter et souscrire le commissaire des Territoires du Nord-Ouest et les membres du conseil des Territoires du Nord-Ouest.
+**2** Le serment d’allégeance prescrit par la [Loi sur les serments d’allégeance](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-1.md) est celui que doit prêter et souscrire le commissaire des Territoires du Nord-Ouest.
+> 2014, ch. 2, art. 60.
+
 
 
 
@@ -34,7 +38,7 @@ Autorités habilitantes :
 
 
 
-**4** Le serment d’office que doivent prêter et souscrire les membres du conseil des Territoires du Nord-Ouest est celui qui est indiqué dans l’annexe II.
+**4** [Abrogé, 2014, ch. 2, art. 61]
 
 
 
@@ -46,11 +50,7 @@ Autorités habilitantes :
 
 
 
-
-## Siège du gouvernement
-
-
-**6** Le siège du gouvernement des Territoires du Nord-Ouest est dans la ville de Yellowknife dans les Territoires du Nord-Ouest.
+**6** [Abrogé, 2014, ch. 2, art. 62]
 
 
 
@@ -65,9 +65,6 @@ Je, ____________, promets solennellement et sincèrement et jure que j’exercer
 
 
 ### **ANNEXE II** 
-**(article 4)**
-## Serment d’office pour les membres du conseil des Territoires du Nord-Ouest
-Je, ____________, promets solennellement et sincèrement et jure que j’exercerai convenablement et fidèlement, et au mieux de mon habileté et de ma connaissance, les pouvoirs et les fonctions qui m’ont été confiés à titre de membre du conseil des Territoires du Nord-Ouest. Que Dieu me soit en aide.
-
+[Abrogée, 2014, ch. 2, art. 63]
 
 
