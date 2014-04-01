@@ -234,25 +234,11 @@ lorsqu’ils s’adressent à une seule personne ou à un seul organisme;
 
 
 
-
-## Distribution de la gazette du Canada
-
-
-**19** 
-
-- **(1)** Un exemplaire de la Partie I de la Gazette du Canada doit être remis à titre gratuit à toute personne qui établit un texte réglementaire ou autre document qui paraît dans cette publication, ainsi qu’aux personnes qui occupent un poste mentionné à la partie I de l’annexe I.
-
-- **(2)** Un exemplaire de la Partie II de la Gazette du Canada doit être remis à titre gratuit à chacun des membres du Parlement ainsi qu’aux personnes qui occupent un poste mentionné à la partie II de l’annexe I.
-
-- **(2.1)** Un exemplaire de la Partie III de la Gazette du Canada doit être remis à titre gratuit aux personnes qui occupent un poste mentionné à la partie III de l’annexe I.
-
-- **(3)** Un exemplaire de la Partie I et quatre exemplaires de la Partie II et de la Partie III de la Gazette du Canada sont remis à titre gratuit au président ou à l’un des coprésidents du comité — soit de la Chambre des communes, soit du Sénat, soit mixte — chargé d’étudier et de contrôler les textes réglementaires.
-> DORS/81-194, art. 1; DORS/85-529, art. 1; DORS/89-314, art. 1.
+**19** [Abrogé, DORS/2013-85, art. 1]
 
 
 
-
-**20** Toute personne peut acheter un exemplaire de la Partie I, de la Partie II ou de la Partie III de la Gazette du Canada sur paiement du prix indiqué à l’annexe II.
+**20** [Abrogé, DORS/2013-85, art. 1]
 
 
 
@@ -310,220 +296,13 @@ lorsqu’ils s’adressent à une seule personne ou à un seul organisme;
 
 
 ### **ANNEXE I** 
-**(art. 19)**
-
-**PARTIE I** 
-
-
-**1** Le bibliothécaire parlementaire
-
-
-
-**2** Le bibliothécaire de la Cour suprême du Canada
-
-
-
-**3** Le bibliothécaire de la Cour fédérale
-
-
-
-**4** Le bibliothécaire de la Cour canadienne de l’impôt
-
-
-
-**5** Le bibliothécaire en chef des divers palais de justice du Canada
-
-
-
-**6** Le bibliothécaire en chef des diverses facultés de droit au Canada
-
-
-
-**PARTIE II** 
-
-
-**1** Le bibliothécaire parlementaire
-
-
-
-**2** Le bibliothécaire de la Cour suprême du Canada
-
-
-
-**3** Le bibliothécaire de la Cour fédérale
-
-
-
-**4** Le bibliothécaire de la Cour canadienne de l’impôt
-
-
-
-**5** Le bibliothécaire en chef des divers palais de justice du Canada
-
-
-
-**6** Le bibliothécaire en chef des diverses universités et facultés de droit au Canada
-
-
-
-**7** Le bibliothécaire en chef des diverses bibliothèques publiques du Canada
-
-
-
-**8** Les membres ou hauts fonctionnaires du gouvernement d’un pays étranger et les personnes qui occupent des postes dans des universités ou autres établissements de ce pays, si
-
-
-
-**a)** il existe des arrangements réciproques pour la distribution au Canada, à titre gratuit, de la gazette officielle de ce pays; ou
-
-
-
-**b)** le ministre de la Justice, le secrétaire d’État aux Affaires extérieures, le directeur général de la Bibliothèque et Archives Canada ou le bibliothécaire parlementaire recommande la distribution gratuite.
-
-
-
-**PARTIE III** 
-
-
-**1** Le gouverneur général
-
-
-
-**2** Les lieutenants-gouverneurs des provinces
-
-
-
-**3** Le président du Sénat
-
-
-
-**4** Le président de la Chambre des communes
-
-
-
-**5** Le premier ministre
-
-
-
-**6** Le chef de l’opposition au Sénat
-
-
-
-**7** Le chef de l’opposition à la Chambre des communes
-
-
-
-**8** Les ministres du gouvernement du Canada
-
-
-
-**9** Les membres du Parlement du Canada non mentionnés ailleurs dans la présente partie
-
-
-
-**10** Les membres de la magistrature du Canada, y compris les juges des cours provinciales et les magistrats
-
-
-
-**11** Les procureurs généraux, les ministres de la Justice et les solliciteurs généraux des provinces
-
-
-
-**12** Les premiers conseillers législatifs de chaque province
-
-
-
-**13** Le bibliothécaire en chef des divers palais de justice du Canada
-
-
-
-**14** Le bibliothécaire en chef des diverses facultés de droit du Canada
-
-
-
-**15** Les membres et les hauts fonctionnaires du gouvernement d’un pays étranger et les personnes qui occupent des postes dans des universités ou autres établissements de ce pays, si
-
-
-
-**(a)** il existe des arrangements réciproques pour la distribution au Canada, à titre gratuit, de la gazette officielle de ce pays; ou
-
-
-
-**(b)** le ministre de la Justice, le secrétaire d’État aux Affaires extérieures, le directeur général de la Bibliothèque et Archives Canada ou le bibliothécaire parlementaire recommande la distribution gratuite.
-
-
->  DORS/85-529, art. 2; 2004, ch. 11, par. 52(5) et (6).
+[Abrogée, DORS/2013-85, art. 2]
 
 
 
 
 ### **ANNEXE II** 
-**(art. 20)**
-## Prix à payer pour obtenir des exemplaires de la Gazette du Canada
-**1** Partie I de la Gazette du Canada
-
-
-**a)** pour les résidents du Canada
-
-
-**(i)** l’exemplaire2,95 $
-
-
-**(ii)** abonnement annuel135,00   
-
-
-**b)** pour les résidents des pays autres que le Canada
-
-
-**(i)** l’exemplaire3,55   
-
-
-**(ii)** abonnement annuel162,00   
-
-
-**2** Partie II de la Gazette du Canada
-
-
-**a)** pour les résidents du Canada
-
-
-**(i)** l’exemplaire3,50   
-
-
-**(ii)** abonnement annuel67,50   
-
-
-**b)** pour les résidents des pays autres que le Canada
-
-
-**(i)** l’exemplaire4,20   
-
-
-**(ii)** abonnement annuel79,80   
-
-
-**3** Partie III de la Gazette du Canada
-
-
-**a)** pour les résidents du Canada
-
-
-**(i)** l’exemplaire4,50   
-
-
-**(ii)** abonnement annuel28,50   
-
-
-**b)** pour les résidents des pays autres que le Canada
-
-
-**(i)** l’exemplaire5,40   
-
-
-**(ii)** abonnement annuel34,20   
-
-
->  DORS/85-529, art. 2.
+[Abrogée, DORS/2013-85, art. 2]
 
 
 
