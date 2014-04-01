@@ -10,6 +10,9 @@ Assented to on 23 June 1992
 ----------
 
 
+[Repealed, 2014, c. 2, s. 66]
+
+
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -19,1978 +22,704 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ## Short Title
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Northwest Territories Waters Act.
+**1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Interpretation
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Definitions**
-
-**2** In this Act,
-
-***appurtenant undertaking*** means the work described in a licence;
-
-***authorized user*** means a person using waters without a licence but under the authority of regulations made under paragraph 33(1)(m);
-
-***authorized waste depositor*** means a person depositing waste without a licence but under the authority of regulations made under paragraph 33(1)(n);
-
-***Board*** means the Inuvialuit Water Board established by section 10;
-
-***domestic user*** means a person using waters
-- **(a)** for household requirements, including, without limiting the generality of the foregoing, sanitation and fire prevention,
-- **(b)** for the watering of domestic animals, or
-- **(c)** for the irrigation of a garden adjoining a dwelling-house that is not ordinarily used in the growth of produce for a market;
-
-***Gwich’in First Nation*** has the same meaning as in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md);
-
-***instream user*** means a person using waters, otherwise than as described in paragraph (a), (b) or (c) of the definition “use”, to earn income or for subsistence purposes;
-
-***Inuvialuit Final Agreement*** means the Agreement as defined in section 2 of the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md);
-
-***Inuvialuit Regional Corporation*** means the Inuvialuit Regional Corporation referred to in the Inuvialuit Final Agreement, or an entity designated by that Corporation;
-
-***Inuvialuit Settlement Region*** has the same meaning as in section 2 of the Inuvialuit Final Agreement;
-
-***licence*** means a type A or type B licence permitting the use of waters or the deposit of waste, or both, issued pursuant to section 14;
-
-***licensee***[Repealed, 2014, c. 2, s. 78]
-
-***Minister*** means the Minister of Indian Affairs and Northern Development;
-
-***penalty*** means an administrative monetary penalty imposed under this Act for a violation;
-
-***Sahtu First Nation*** has the same meaning as in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md);
-
-***territorial lands*** means lands in the Northwest Territories that are vested in Her Majesty in right of Canada or of which the Government of Canada has power to dispose;
-
-***territorial minister*** means the person occupying the recognized position of Minister of the Northwest Territories responsible for water resources;
-
-***Tlicho Government*** has the same meaning as in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md);
-
-***use***, in relation to waters, means a direct or indirect use of any kind, including, without limiting the generality of the foregoing,
-- **(a)** any diversion or obstruction of waters,
-- **(b)** any alteration of the flow of waters, and
-- **(c)** any alteration of the bed or banks of a river, stream, lake or other body of water, whether or not the body of water is seasonal,
-
-but does not include a use connected with shipping activities that are governed by the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
-
-***waste*** means
-- **(a)** any substance that, if added to water, would degrade or alter or form part of a process of degradation or alteration of the quality of the water to an extent that is detrimental to its use by people or by any animal, fish or plant, or
-- **(b)** water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, that it would, if added to any other water, degrade or alter or form part of a process of degradation or alteration of the quality of that water to the extent described in paragraph (a),
-
-and, without limiting the generality of the foregoing, includes
-- **(c)** any substance or water that, for the purposes of the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), is deemed to be waste,
-- **(d)** any substance or class of substances prescribed by regulations made under subparagraph 33(1)(b)(i),
-- **(e)** water that contains any substance or class of substances in a quantity or concentration that is equal to or greater than a quantity or concentration prescribed in respect of that substance or class of substances by regulations made under subparagraph 33(1)(b)(ii), and
-- **(f)** water that has been subjected to a treatment, process or change prescribed by regulations made under subparagraph 33(1)(b)(iii);
-
-***water management area*** means a water management area established by the Governor in Council by regulations made under subparagraph 33(1)(a)(i);
-
-***waters*** means any inland water, whether in a liquid or frozen state, on or below the surface of the land in the Northwest Territories.
-> 1992, c. 39, s. 2; 2001, c. 26, s. 313; 2002, c. 10, s. 180(F); 2014, c. 2, s. 78.
-
+**2** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## General
+> [Repealed, 2014, c. 2, s. 66]
+
 
 
 
 ### Application
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**National parks and historic sites**
-
-**2.1** 
-
-- **(1)** This Act does not apply in respect of the use of waters or the deposit of waste within a park or park reserve to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies, or on any land acquired for the purposes of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), that is situated within the Mackenzie Valley, as that expression is defined in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
-
-**Mackenzie Valley**
-
-- **(2)** Sections 7.2, 7.3, 10 to 13, 18.1, 20 and 22, paragraphs 23(1)(b) and (2)(b), section 24, subsections 24.3(2) and (3), section 24.6, section 26 except in relation to type A licences, sections 27 to 28.2, subsection 37(2) and sections 44.01 to 44.3 do not apply in respect of the Mackenzie Valley, as defined in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
-
-**Mackenzie Valley**
-
-- **(3)** Section 31 does not apply in respect of first nation lands within the meaning of Part 3 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
-> 1998, c. 25, s. 165; 2000, c. 32, s. 69; 2014, c. 2, s. 79.
+**2.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Binding on Her Majesty**
-
-**3** This Act is binding on Her Majesty in right of Canada, except that Her Majesty in right of Canada is not required to pay any fee prescribed by regulations made under subparagraph 33(1)(k)(i) or (ii).
+**3** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Waters vested in Her Majesty**
-
-**4** Subject to any rights, powers or privileges granted pursuant to the [Dominion Water Power Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-4.md) or preserved under that Act, the property in and the right to the use and flow of all waters are vested in Her Majesty in right of Canada.
+**4** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Application of Other Acts
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Other Acts, etc., to be complied with**
-
-**5** Nothing in this Act, the regulations or a licence authorizes a person to contravene or fail to comply with any other Act or any regulation or order made thereunder, except as provided in that other Act, regulation or order.
+**5** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Delegation to Northwest Territories Minister
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Delegation to territorial minister**
-
-**6** After consultation with the Board, the Minister may, in writing, delegate to the territorial minister any of the Minister’s powers, duties and functions under this Act, either generally or as otherwise provided in the instrument of delegation.
-> 1992, c. 39, s. 6; 2014, c. 2, s. 80.
-
+**6** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Agreements
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Agreements with provinces and territories**
-
-**7** With the approval of the Governor in Council and subject to any agreement entered into under section 5 or 11 of the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), the Minister may, on behalf of the Government of Canada, enter into an agreement with a provincial or territorial government providing for the management of any waters
-- **(a)** situated partially in the Northwest Territories and partially in a province or any other territory; or
-- **(b)** flowing between the Northwest Territories and a province or any other territory.
-> 1992, c. 39, s. 7; 1993, c. 28, s. 78; 1998, c. 15, s. 35.
+**7** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Other water authorities**
-
-**7.1** Where the use of waters or the deposit of waste that is the subject of an application to the Board would have a significant impact on a use of waters or a deposit of waste in an area for which another body is exercising powers of water management, the Board may collaborate with that body.
-> 2002, c. 10, s. 181.
-
+**7.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Consultation
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Duty to consult**
-
-**7.2** When, in relation to any matter, a reference is made in this Act to consultation, the duty to consult shall be exercised
-- **(a)** by providing, to the party to be consulted,
-	- **(i)** notice of the matter in sufficient form and detail to allow the party to prepare its views on the matter,
-	- **(ii)** a reasonable period for the party to prepare its views, and
-	- **(iii)** an opportunity to present its views to the party having the duty to consult; and
-- **(b)** by considering, fully and fairly, any views so presented.
-> 2014, c. 2, s. 81.
+**7.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Consultation — Act or regulation**
-
-**7.3** The Minister shall consult with the Gwich’in and Sahtu First Nations, the Tlicho Government, the Inuvialuit Regional Corporation, the territorial minister and the Board with respect to the amendment of this Act or the making or amendment of any regulation under this Act.
-> 2014, c. 2, s. 81.
-
+**7.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Use of Waters
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Use of waters in water management areas**
-
-**8** 
-
-- **(1)** Except as authorized pursuant to the [Dominion Water Power Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-4.md), and subject to subsection (2), no person shall use, or permit the use of, waters in a water management area except
-	- **(a)** in accordance with the conditions of a licence; or
-	- **(b)** as authorized by regulations made under paragraph 33(1)(m).
-
-**Exemptions from application of subsection (1)**
-
-- **(2)** Subsection (1) does not apply in respect of the use of waters
-	- **(a)** by a domestic user;
-	- **(b)** by an instream user; or
-	- **(c)** for the purpose of
-		- **(i)** extinguishing a fire, or
-		- **(ii)** on an emergency basis, controlling or preventing a flood.
-
-**Duties in certain cases**
-
-- **(3)** Where any person diverts waters for a purpose set out in paragraph (2)(c), the person shall, when the need for the diversion has ceased, discontinue the diversion and, in so far as possible, restore the original channel conditions.
-> 1992, c. 39, s. 8; 2002, c. 10, s. 182(F).
-
+**8** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Deposit of Waste
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Prohibition**
-
-**9** 
-
-- **(1)** Except in accordance with the conditions of a licence or as authorized by regulations made under paragraph 33(1)(n), no person shall, subject to subsection (2), deposit or permit the deposit of waste
-	- **(a)** in any waters in a water management area; or
-	- **(b)** in any other place under conditions in which the waste, or any other waste that results from the deposit of that waste, may enter any waters in a water management area.
-
-**Exception**
-
-- **(2)** Subsection (1) does not apply to the deposit of waste in waters that form part of a water quality management area designated pursuant to the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md) if the waste so deposited
-	- **(a)** is of a type and quantity, and
-	- **(b)** is deposited under conditions
-prescribed by regulations made by the Governor in Council under paragraph 18(2)(a) of that Act with respect to that water quality management area.
-
-**Duty to report unlawful deposits of waste**
-
-- **(3)** Where waste is deposited in contravention of this section, every person who
-	- **(a)** owns the waste or has the charge, management or control thereof, or
-	- **(b)** caused or contributed to the deposit
-shall forthwith, in accordance with the regulations, if any, made under subparagraph 33(1)(o)(i), report the deposit to an inspector designated under subsection 35(1) if no person or authority has been prescribed under subparagraph 33(1)(o)(ii) or, if a person or authority has been prescribed under subparagraph 33(1)(o)(ii), to that person or authority.
+**9** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Tlicho Communities
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Exemption**
-
-**9.1** 
-
-- **(1)** Sections 8 and 9 do not apply in respect of a use of waters or a deposit of waste in a Tlicho community, if the local government of that community has enacted a bylaw providing that a licence is not required for that type of use or deposit.
-
-**Same meaning**
-
-- **(2)** The expressions ***Tlicho community*** and ***local government*** in subsection (1) have the same meaning as in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
-> 2005, c. 1, s. 103.
-
+**9.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Inuvialuit Water Board
+> [Repealed, 2014, c. 2, s. 66]
+
 
 
 
 ### Board Established
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Establishment**
-
-**10** 
-
-- **(1)** The Inuvialuit Water Board is established.
-
-**Capacity**
-
-- **(2)** The Board has, for the purposes of its functions, the capacity, rights, powers and privileges of a natural person.
-
-**Main office**
-
-- **(3)** The main office of the Board shall be at any place that is in the portion of the Inuvialuit Settlement Region located in the Northwest Territories and that is designated by the Governor in Council. If no place is so designated, it shall be at Inuvik.
-
-**Membership**
-
-- **(4)** The Board shall consist of five members appointed by the Minister, including the Chairperson, two members appointed on the nomination of the Inuvialuit Regional Corporation and one member appointed on the nomination of the territorial minister.
-> 1992, c. 39, s. 10; 2014, c. 2, s. 82.
+**10** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Chairperson — nomination by members**
-
-**10.1** 
-
-- **(1)** The Chairperson of the Board shall be appointed by the Minister from persons nominated by a majority of the members of the Board.
-
-**Chairperson — appointment by Minister**
-
-- **(2)** If a majority of the members of the Board does not nominate a person acceptable to the Minister within a reasonable time, the Minister may appoint any person as Chairperson.
-
-**Absence or incapacity of Chairperson**
-
-- **(3)** The Board may designate a member to act as its Chairperson during the absence or incapacity of the Chairperson or a vacancy in the office of Chairperson, and that person while so acting may exercise the powers and shall perform the duties and functions of the Chairperson.
-> 2014, c. 2, s. 82.
+**10.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Powers, duties and functions of Chairperson**
-
-**10.2** The Chairperson of the Board is its chief executive officer and has the powers, duties and functions prescribed by the rules of the Board.
-> 2014, c. 2, s. 82.
+**10.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Quorum**
-
-**10.3** A quorum of the Board consists of three members, including one of the members appointed on the nomination of the Inuvialuit Regional Corporation and one of the members not so appointed other than the Chairperson.
-> 2014, c. 2, s. 82.
+**10.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Alternate members**
-
-**10.4** The Minister may appoint alternate members to act in the event of the absence or incapacity, or a vacancy in the office, of a member of the Board, including
-- **(a)** one or more persons on the nomination of the Inuvialuit Regional Corporation to act as a member when the absence or incapacity, or vacancy in the office, is in respect of a member who was appointed on such a nomination;
-- **(b)** one or more persons on the nomination of the territorial minister to act as a member when the absence or incapacity, or vacancy in the office, is in respect of a member who was appointed on such a nomination; and
-- **(c)** one or more persons to act when the absence or incapacity, or vacancy in the office, is in respect of a member other than a member referred to in paragraph (a) or (b).
-> 2014, c. 2, s. 82.
-
+**10.4** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Term of Office
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Term of office**
-
-**10.5** 
-
-- **(1)** Members of the Board and alternate members hold office for a term of three years.
-
-**Reappointment**
-
-- **(2)** Members of the Board and alternate members may be reappointed in the same or another capacity.
-
-**Removal by Minister after consultation**
-
-- **(3)** Members of the Board and alternate members may be removed from office for cause by the Minister, after consultation by the Minister with the Board. If the member or alternate member was appointed on the nomination of the Inuvialuit Regional Corporation or the territorial minister, the Minister shall also consult with the Inuvialuit Regional Corporation or the territorial minister, as the case may be.
-> 2014, c. 2, s. 82.
+**10.5** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Acting after expiry of term**
-
-**10.6** 
-
-- **(1)** If the Chairperson is of the opinion that it is necessary for a member of the Board to continue to act after the expiry of that member’s term in order for the Board to make a decision in relation to the issuance, renewal, amendment or cancellation of a licence, as the case may be, the Chairperson may request in writing that the Minister authorize the member to act in relation to that matter until a decision is made. For the purpose of the appointment of a replacement, their office is deemed to be vacant as soon as their term expires.
-
-**Request**
-
-- **(2)** A request under subsection (1) shall be made at least two months before the day on which the member’s term expires.
-
-**Deemed acceptance**
-
-- **(3)** If the Minister neither accepts nor rejects the request within two months after the day on which it is made, the request is deemed to be accepted.
-> 2014, c. 2, s. 82.
-
+**10.6** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Remuneration
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Remuneration and expenses — members**
-
-**10.7** 
-
-- **(1)** Members of the Board are to receive the remuneration determined by the Minister for the exercise of their powers and the performance of their duties and functions and are to be paid the travel and living expenses that are incurred by them while absent from their ordinary place of residence that are consistent with Treasury Board directives for public servants.
-
-**Remuneration and expenses — alternate members**
-
-- **(2)** Alternate members are not entitled to receive any remuneration unless they attend a meeting, training session or other event at the request of the Chairperson, in which case they are to receive the remuneration that is determined by the Minister, and are to be paid the travel and living expenses incurred by them while absent from their ordinary place of residence that are consistent with Treasury Board directives for public servants.
-> 2014, c. 2, s. 82.
+**10.7** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Staff of Board**
-
-**11** The Minister shall provide such officers and employees from within the federal public administration and such professional and technical advisers as are necessary for the proper conduct of the business of the Board.
-> 1992, c. 39, s. 11; 2003, c. 22, s. 224(E).
+**11** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Deemed employment**
-
-**11.1** The members of the Board, alternate members who attend meetings, training sessions or other events at the request of the Chairperson and employees are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2014, c. 2, s. 84.
-
+**11.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Conflict of Interest
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Conflict of interest — members and staff**
-
-**11.2** 
-
-- **(1)** A member of the Board, an employee or an agent, adviser or expert shall not perform their functions in relation to a matter if doing so would place them in a conflict of interest.
-
-**Status or entitlements under Inuvialuit Final Agreement**
-
-- **(2)** A person is not placed in a conflict of interest solely because of any status or entitlement conferred on them under the Inuvialuit Final Agreement.
-> 2014, c. 2, s. 84.
-
+**11.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Immunity
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Acts done in good faith**
-
-**11.3** No action lies against a member or an employee for anything done or omitted to be done in good faith in the performance, or purported performance, of any power, duty or function under this Act.
-> 2014, c. 2, s. 84.
-
+**11.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Objects and Powers of Board
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Objects**
+**12** [Repealed, 2014, c. 2, s. 66]
 
-**12** The objects of the Board are to provide for the conservation, development and utilization of waters in a manner that will provide the optimum benefit for all Canadians in general and, in particular, for the residents of the portion of the Inuvialuit Settlement Region located in the Northwest Territories for which the Board is authorized to issue licences.
-> 1992, c. 39, s. 12; 2002, c. 10, s. 183; 2014, c. 2, s. 84.
 
 
+**13** [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Minister’s policy directions to Board**
+**14** [Repealed, 2014, c. 2, s. 66]
 
-**13** 
 
-- **(1)** The Minister may, after consultation with the Board, give written policy directions to the Board with respect to the carrying out of any of its powers, duties and functions under this Act, and the Board shall, subject to subsections (2) and (3), comply with those policy directions.
 
-**Limitation**
+**15** [Repealed, 2014, c. 2, s. 66]
 
-- **(2)** Except as provided by subsection (3), a policy direction does not apply in respect of applications that, at the time when the policy direction is given,
-	- **(a)** are pending before the Board; or
-	- **(b)** have been approved by the Board and are awaiting the approval referred to in section 18.1.
 
-**Exception**
 
-- **(3)** A policy direction applies in respect of applications referred to in subsection (2) if non-application of the policy direction could result in a licence that is inconsistent with another Act or a regulation or order made thereunder.
+**15.1** [Repealed, 2014, c. 2, s. 66]
 
-**Notice in Canada Gazette**
 
-- **(3.1)** Immediately after the Minister’s written policy direction is given to the Board, the Minister shall publish a notice in the Canada Gazette stating that the policy direction will be published by the Board on its Internet site. The Board shall publish the policy direction on its Internet site as soon as feasible and may also make it accessible by any other means that the Board considers appropriate.
 
-**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+**15.2** [Repealed, 2014, c. 2, s. 66]
 
-- **(4)** A policy direction shall be deemed not to be a regulation within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1992, c. 39, s. 13; 2014, c. 2, s. 85.
 
 
+**15.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Issuance of licences**
+**15.4** [Repealed, 2014, c. 2, s. 66]
 
-**14** 
 
-- **(1)** Subject to this section, the Board may issue, in accordance with the criteria set out in the regulations made under paragraph 33(1)(c), type A licences and type B licences permitting the applicant for the licence, on payment of the fees prescribed by regulations made under subparagraph 33(1)(k)(i), at the times and in the manner prescribed by any applicable regulations made under paragraph 33(1)(l) or, in the absence of such regulations, at the times and in the manner set out in the licence, to use waters or deposit waste, or both, in connection with the operation of the appurtenant undertaking and in accordance with the conditions specified in the licence.
 
-**Term of licence**
+**15.5** [Repealed, 2014, c. 2, s. 66]
 
-- **(1.1)** A licence under subsection (1) may be issued for a term
-	- **(a)** not exceeding 25 years, in the case of a type A licence in respect of a prescribed class of undertakings or in the case of a type B licence; or
-	- **(b)** not exceeding the anticipated duration of the undertaking, in the case of a type A licence other than one described in paragraph (a).
 
-**Idem**
 
-- **(2)** The Board shall not issue a licence in respect of a use of waters referred to in subsection 8(2).
+**15.6** [Repealed, 2014, c. 2, s. 66]
 
-**Idem**
 
-- **(3)** The Board shall not refuse to issue a licence merely because the use of waters or deposit of waste in respect of which the application for the licence is made is already authorized by regulations made under paragraph 33(1)(m) or (n).
 
-**Conditions for issue of licence**
+**16** [Repealed, 2014, c. 2, s. 66]
 
-- **(4)** Where an application for a licence is made, the Board shall not issue a licence unless the applicant satisfies the Board that
-	- **(a)** either
-		- **(i)** the use of waters or the deposit of waste proposed by the applicant would not adversely affect, in a significant way, the use of waters, whether in or outside the water management area to which the application relates,
-			- **(A)** by any existing licensee who holds a licence issued under this Act or the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md), or
-			- **(B)** by any other applicant whose proposed use of waters would take precedence over the applicant’s proposed use by virtue of section 29, or
-		- **(ii)** every licensee and applicant to whom subparagraph (i) applies has entered into a compensation agreement with the applicant;
-	- **(b)** compensation that the Board considers appropriate has been or will be paid by the applicant to any other applicant described in clause (a)(i)(B) but to whom paragraph (a) does not apply, and to
-		- **(i)** any licensee who holds a licence issued under this Act or the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md) and to whom paragraph (a) does not apply,
-		- **(ii)** domestic users,
-		- **(iii)** instream users,
-		- **(iv)** authorized users,
-		- **(v)** authorized waste depositors,
-		- **(v.1)** persons referred to in paragraph 61(d) of the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md),
-		- **(vi)** owners of property,
-		- **(vii)** occupiers of property, and
-		- **(viii)** holders of outfitting concessions, registered trapline holders, and holders of other rights of a similar nature
-who were such licensees, users, depositors, owners, occupiers or holders, whether in or outside the water management area to which the application relates, at the time when the applicant filed an application with the Board in accordance with the regulations made under paragraphs 33(1)(d) and (e), who would be adversely affected by the use of waters or deposit of waste proposed by the applicant, and who have notified the Board in response to the notice of the application given pursuant to subsection 23(1) and within the time period stipulated in that notice for making representations to the Board;
-	- **(b.1)** [Repealed, 2002, c. 10, s. 184]
-	- **(c)** any waste that would be produced by the appurtenant undertaking will be treated and disposed of in a manner that is appropriate for the maintenance of
-		- **(i)** water quality standards prescribed by regulations made under paragraph 33(1)(h) or, in the absence of such regulations, such water quality standards as the Board considers acceptable, and
-		- **(ii)** effluent standards prescribed by regulations made under paragraph 33(1)(i) or, in the absence of such regulations, such effluent standards as the Board considers acceptable; and
-	- **(d)** the financial responsibility of the applicant, taking into account the applicant’s past performance, is adequate for
-		- **(i)** the completion of the appurtenant undertaking,
-		- **(ii)** such mitigative measures as may be required, and
-		- **(iii)** the satisfactory maintenance and restoration of the site in the event of any future closing or abandonment of that undertaking.
 
-**Factors in determining compensation**
 
-- **(5)** In determining the compensation that is appropriate for the purpose of paragraph (4)(b), the Board shall consider all relevant factors, including, without limiting the generality of the foregoing,
-	- **(a)** provable loss or damage;
-	- **(b)** potential loss or damage;
-	- **(c)** the extent and duration of the adverse effect, including the incremental adverse effect;
-	- **(d)** the extent of the use of waters by persons who would be adversely affected; and
-	- **(e)** nuisance, inconvenience and noise.
+**17** [Repealed, 2014, c. 2, s. 66]
 
-- **(6)** [Repealed, 2014, c. 2, s. 86]
 
-**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(7)** For greater certainty, licences issued by the Board under this Act either before or after the coming into force of this subsection are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1992, c. 39, s. 14; 1998, c. 25, s. 166; 2002, c. 10, s. 184; 2005, c. 1, s. 104; 2014, c. 2, s. 86.
+**18** [Repealed, 2014, c. 2, s. 66]
 
 
 
+**18.1** [Repealed, 2014, c. 2, s. 66]
 
 
-**Conditions of licence**
 
-**15** 
+**19** [Repealed, 2014, c. 2, s. 66]
 
-- **(1)** Subject to this Act and the regulations, the Board may include in a licence any conditions that it considers appropriate, including, without limiting the generality of the foregoing,
-	- **(a)** conditions relating to the manner of use of waters permitted to be used under the licence;
-	- **(b)** conditions relating to the quantity, concentration and types of waste that may be deposited in any waters by the licensee;
-	- **(c)** conditions under which any such waste may be so deposited;
-	- **(d)** conditions relating to studies to be undertaken, works to be constructed, plans to be submitted, and monitoring programs to be undertaken; and
-	- **(e)** conditions relating to any future closing or abandonment of the appurtenant undertaking.
 
-**Board to minimize adverse effects**
 
-- **(2)** In fixing the conditions of a licence, the Board shall make all reasonable efforts to minimize any adverse effects of the issuance of the licence on
-	- **(a)** licensees,
-	- **(b)** domestic users,
-	- **(c)** instream users,
-	- **(d)** authorized users,
-	- **(e)** authorized waste depositors,
-	- **(f)** owners of property,
-	- **(g)** occupiers of property, and
-	- **(h)** holders of outfitting concessions, registered trapline holders, and holders of other rights of a similar nature
-who are such licensees, users, depositors, owners, occupiers or holders, whether in or outside the water management area to which the application relates, at the time when the Board is considering the fixing of those conditions, who would be adversely affected by the use of waters or deposit of waste proposed by the applicant, and who have notified the Board in response to the notice of the application given pursuant to subsection 23(1) and within the time period stipulated in that notice for making representations to the Board.
-
-**Conditions relating to waste, where regulations under [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md) apply**
-
-- **(3)** Where the Board issues a licence in respect of any waters that form part of a water quality management area designated pursuant to the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), it may not include in the licence any conditions relating to the deposit of waste in those waters that are less stringent than the provisions of the regulations made under paragraph 18(2)(a) of that Act with respect to those waters.
-
-**Conditions relating to waste, where regulations under [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md) do not apply**
-
-- **(4)** Where the Board issues a licence in respect of any waters that do not form part of a water quality management area designated pursuant to the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md),
-	- **(a)** if any regulations made under paragraph 33(1)(h) are in force for those waters, the Board may not include in the licence any conditions relating to the deposit of waste in those waters that are not based on the water quality standards prescribed for those waters by those regulations; and
-	- **(b)** if any regulations made under paragraph 33(1)(i) are in force in relation to those waters, the Board may not include in the licence any conditions relating to the deposit of waste in those waters that are less stringent than the effluent standards prescribed in relation to those waters by those regulations.
-
-**Conditions relating to waste, where regulations under [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) apply**
-
-- **(5)** Where the Board issues a licence in respect of any waters that do not form part of a water quality management area designated pursuant to the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), and to which any regulations made under subsection 36(5) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) apply, the Board may not include in the licence any conditions relating to the deposit of waste in those waters that are less stringent than the provisions of those regulations.
-
-**Conditions relating to design, etc., of works**
-
-- **(6)** If any regulations made under paragraph 33(1)(j) are in force, a licence shall include conditions that are at least as stringent as any applicable standards prescribed by those regulations.
-
-**Licence conditions deemed amended**
-
-- **(7)** Where regulations referred to in subsection (3), (4), (5) or (6) are made or amended after the issuance of a licence, the conditions of the licence are thereupon deemed to be amended to the extent, if any, necessary in order to comply, or remain in compliance, with that subsection.
-> 1992, c. 39, s. 15; 2002, c. 10, s. 185(F).
-
-
-
-
-
-**Inuit-owned land**
-
-**15.1** 
-
-- **(1)** The Board shall not issue a licence in respect of a use of waters or a deposit of waste that may substantially alter the quality, quantity or flow of waters flowing through Inuit-owned land, unless
-	- **(a)** the applicant has entered into an agreement with the designated Inuit organization to pay compensation for any loss or damage that may be caused by the alteration; or
-	- **(b)** where there is no agreement referred to in paragraph (a),
-		- **(i)** on the request of the applicant or the designated Inuit organization, the Board has made a joint determination of the appropriate compensation with the Nunavut Water Board, or
-		- **(ii)** where the Board and the Nunavut Water Board are unable to jointly determine compensation under subparagraph (i), a judge of the Nunavut Court of Justice has determined the compensation.
-
-**Payment of compensation**
-
-- **(2)** The payment of compensation referred to in paragraph (1)(b) shall be a condition of the licence.
-
-**Costs**
-
-- **(3)** Unless otherwise determined by the Nunavut Water Board, costs incurred by the designated Inuit organization as a result of a request referred to in subparagraph (1)(b)(i) shall be paid by the applicant.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Negotiation to be in good faith**
-
-**15.2** A request referred to in subparagraph 15.1(1)(b)(i) shall not be considered by the Board unless the requester has negotiated in good faith and has been unable to reach an agreement.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Factors in determining compensation**
-
-**15.3** For the purpose of determining compensation under paragraph 15.1(1)(b), the following factors shall be taken into account:
-- **(a)** the adverse effects of the alteration of the quality, quantity or flow of waters on Inuit-owned land;
-- **(b)** the nuisance, inconvenience or disturbance, including noise, caused by the alteration;
-- **(c)** the cumulative adverse effects of the alteration and of any existing uses of waters and deposits of waste;
-- **(d)** the cultural attachment of Inuit to the affected Inuit-owned land, including waters;
-- **(e)** the peculiar and special value of the affected Inuit-owned land, including waters; and
-- **(f)** any interference with Inuit rights derived from the Agreement or otherwise.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Periodic review and payment**
-
-**15.4** Unless otherwise agreed by the designated Inuit organization and the applicant, where a determination of compensation has been made under paragraph 15.1(1)(b), that determination shall provide, having due regard to the nature and duration of the use of waters or deposit of waste, for the periodic review and periodic payment of that compensation.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Interpretation**
-
-**15.5** 
-
-- **(1)** In this section and sections 15.1 to 15.4,
-	- **(a)** “Agreement”, “Inuit”, “Inuit-owned land”, “Makivik” and “Tunngavik” have the meanings assigned by subsection 2(1) of the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md); and
-	- **(b)** “designated Inuit organization” means
-		- **(i)** except in the case of the jointly owned lands referred to in section 40.2.8 of the Agreement,
-			- **(A)** Tunngavik, or
-			- **(B)** any organization designated in the public record maintained by Tunngavik under the Agreement as being responsible for the functions described under sections 20.3.1 and 20.4.1 of the Agreement, or
-		- **(ii)** in the case of the jointly owned lands referred to in section 40.2.8 of the Agreement, Makivik, acting jointly with the organization determined under subparagraph (i).
-
-**Interpretation**
-
-- **(2)** For greater certainty, sections 15.1 to 15.4 apply where a body of water delineates a boundary between Inuit-owned land and other land and that body of water is not located entirely on Inuit-owned land.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Gwich’in and Sahtu lands**
-
-**15.6** Where the Board has been notified under subsection 78(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), it may not issue a licence for a use of waters or deposit of waste referred to in that subsection unless the requirements of subsection 78(3) of that Act are satisfied.
-> 2002, c. 10, s. 186.
-
-
-
-
-
-**Application for licence**
-
-**16** 
-
-- **(1)** An application for a licence shall be in such form and contain such information as is prescribed by the regulations.
-
-**Information and studies to be provided to Board**
-
-- **(2)** The Board shall require an applicant for a licence to provide the Board with such information and studies concerning the use of waters or deposit of waste proposed by the applicant as will enable the Board to evaluate any qualitative and quantitative effects thereof on waters.
-
-
-
-
-**Board may require security**
-
-**17** 
-
-- **(1)** The Board may require an applicant for a licence, a licensee or a prospective assignee of a licence to furnish and maintain security with the Minister, in an amount specified in, or determined in accordance with, the regulations made under paragraph 33(1)(g) and in a form prescribed by those regulations or a form satisfactory to the Minister.
-
-**How security may be applied**
-
-- **(2)** The security may be applied by the Minister in the following manner:
-	- **(a)** where the Minister is satisfied that a person who is entitled to be compensated by a licensee pursuant to section 30 has taken all reasonable measures to recover compensation from the licensee and has been unsuccessful in that recovery, the security may be applied to compensate that person, either fully or partially; and
-	- **(b)** the security may be applied to reimburse Her Majesty in right of Canada, either fully or partially, for reasonable costs incurred by Her Majesty in right of Canada pursuant to subsection 37(3) or 39(1), subject to subsection (3).
-
-**Limitation**
-
-- **(3)** Paragraph (2)(b) applies in respect of costs incurred pursuant to subsection 39(1) only to the extent that the incurring of those costs was based on subparagraph 39(1)(b)(i).
-
-**Idem**
-
-- **(4)** The amount of security that the Minister may apply pursuant to subsection (2) in respect of any particular incident or matter may not exceed in the aggregate the amount of the security referred to in subsection (1).
-
-**Refund of security**
-
-- **(5)** Where the Minister is satisfied that
-	- **(a)** an appurtenant undertaking has been permanently closed or permanently abandoned, or
-	- **(b)** a licence has been assigned,
-any portion of the security that, in the Minister’s opinion, will not be required under subsection (2) shall forthwith be refunded to the licensee (where paragraph (a) applies) or to the assignor (where paragraph (b) applies).
-
-
-
-
-**Renewal, amendment and cancellation of licences**
-
-**18** 
-
-- **(1)** Subject to subsections (2) and (3), the Board may
-	- **(a)** renew a licence, with or without changes to its conditions, for a term not exceeding 25 years in the case of a type A licence in respect of a prescribed class of undertakings or in the case of a type B licence, or for a term not exceeding the anticipated duration of the undertaking in the case of any other type A licence,
-		- **(i)** on the application of the licensee, or
-		- **(ii)** in any other case, where the renewal appears to the Board to be in the public interest;
-	- **(b)** amend, for a specified term or otherwise, any condition of a licence
-		- **(i)** on the application of the licensee,
-		- **(ii)** to deal with a water shortage in any water management area, or
-		- **(iii)** in any other case, where the amendment appears to the Board to be in the public interest; and
-	- **(c)** cancel a licence
-		- **(i)** on the application of the licensee,
-		- **(ii)** where the licensee, for three successive years, fails to exercise the licensee’s rights under the licence, or
-		- **(iii)** in any other case, where the cancellation appears to the Board to be in the public interest.
-
-**Application of certain provisions**
-
-- **(2)** Sections 14 to 17 apply, with such modifications as the circumstances require, in respect of a renewal of, or an amendment to, a licence.
-
-**Application to cancel licence**
-
-- **(3)** An application to cancel a licence must be in the form and contain the information that is prescribed by the regulations.
-> 1992, c. 39, s. 18; 2014, c. 2, s. 87.
-
-
-
-
-
-**Approval to issue, renew, amend or cancel licence**
-
-**18.1** The Board may issue, renew, amend or cancel a licence only with the approval
-- **(a)** in the case of a type A licence, of the Minister; or
-- **(b)** in the case of a type B licence,
-	- **(i)** of the Chairperson of the Board, if no public hearing is held by the Board in connection with the issuance, renewal, amendment or cancellation of the licence, or
-	- **(ii)** of the Minister, if a public hearing is held by the Board in connection with the issuance, renewal, amendment or cancellation of the licence.
-> 2014, c. 2, s. 88.
-
-
-
-
-
-**Assignment of licences**
-
-**19** 
-
-- **(1)** Any sale or other disposition of any right, title or interest of a licensee in an appurtenant undertaking constitutes, without further action by the licensee, an assignment of the licence to the person or persons to whom the sale or other disposition is made if the assignment of the licence was authorized by the Board.
-
-**Authorization of assignment of licence**
-
-- **(2)** The Board shall authorize the assignment of a licence if it is satisfied that
-	- **(a)** the sale or other disposition of any right, title or interest of the licensee in the appurtenant undertaking at the time, in the manner and on the terms and conditions agreed to by the licensee, and
-	- **(b)** the operation of the appurtenant undertaking by the prospective assignee
-would not be likely to result in a contravention of, or failure to comply with, any condition of the licence or any provision of this Act or the regulations.
-
-**Licence not otherwise assignable**
-
-- **(3)** Except as provided in this section, a licence is not assignable.
-
-
-
-
-**Recommendations to Minister**
-
-**20** The Board may, and at the request of the Minister shall, make such recommendations to the Minister as it considers appropriate concerning any matter in respect of which the Governor in Council is authorized by section 33 or 34 to make regulations or orders.
+**20** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Public Hearings and Procedure
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Optional hearing**
-
-**21** 
-
-- **(1)** The Board may, where satisfied that it would be in the public interest, hold a public hearing in connection with any matter relating to its objects, including, without limiting the generality of the foregoing,
-	- **(a)** the issuance or renewal of, or an amendment to, a type B licence;
-	- **(b)** an amendment to a type A licence pursuant to which neither the use, flow or quality of waters nor the term of the licence would be altered; and
-	- **(c)** the cancellation of a type B licence pursuant to subparagraph 18(1)(c)(i).
-
-**Mandatory hearing**
-
-- **(2)** Subject to subsection (3), a public hearing shall be held by the Board where the Board is considering
-	- **(a)** the issuance or renewal of a type A licence;
-	- **(b)** an amendment to a type A licence pursuant to which the use, flow or quality of waters, or the term of the licence, would be altered;
-	- **(c)** the cancellation of a type A licence pursuant to paragraph 18(1)(c);
-	- **(d)** the cancellation of a type B licence pursuant to subparagraph 18(1)(c)(ii) or (iii); or
-	- **(e)** an application pursuant to section 31 for permission to enter on, use, occupy, take and acquire any lands or any interest therein.
-
-**Cases where subsection (2) does not apply**
-
-- **(3)** Subsection (2) does not apply
-	- **(a)** where
-		- **(i)** the applicant or the licensee, as the case may be, consents in writing to the disposition of the matter without a public hearing, and
-		- **(ii)** after giving notice of a public hearing in connection with the matter pursuant to section 23, the Board receives no notification on or before the tenth day prior to the day of the proposed hearing that any person or body intends to appear and make representations in connection with the matter;
-	- **(b)** where, in the case of a renewal referred to in paragraph (2)(a), the licensee has filed with the Board an application for renewal in accordance with the regulations made under paragraphs 33(1)(d) and (e) and the term of the renewal or renewals granted by the Board does not exceed sixty days in the aggregate; or
-	- **(c)** where, in the case of an amendment to a type A licence pursuant to which the use, flow or quality of waters would be altered, the Board, with the consent of the Minister, declares the amendment to be required on an emergency basis.
-
-**Place of hearing**
-
-- **(4)** A public hearing under this section shall be held at such place in the Northwest Territories as the Board considers appropriate, and may be adjourned by the Board from time to time and from place to place within Canada.
-> 1992, c. 39, s. 21; 2002, c. 10, s. 187(F).
+**21** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Powers of the Board**
-
-**22** The Board has, in respect of any public hearing under section 21, all the powers of a commissioner appointed under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+**22** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Notice of applications**
-
-**23** 
-
-- **(1)** Subject to subsection (4), the Board shall give notice of each application made to it
-	- **(a)** by publishing the application in a newspaper of general circulation in the area affected or, if there is not such a newspaper, in such other manner as the Board considers appropriate; and
-	- **(b)** where an application is made in respect of a matter mentioned in any of paragraphs 21(2)(a) to (e), by publishing the application in the Canada Gazette.
-
-**Notice of public hearing**
-
-- **(2)** Subject to subsection (4), the Board shall give notice of a public hearing to be held by it
-	- **(a)** by publishing a notice in a newspaper of general circulation in the area affected or, if there is not such a newspaper, in such other manner as the Board considers appropriate, and
-	- **(b)** by publishing a notice in the Canada Gazette,
-and the day fixed for the public hearing shall be at least thirty-five days after the day on which the requirements of this subsection have been met.
-
-**Where public hearing not held**
-
-- **(3)** Subject to subsection (4), where a public hearing is not held by the Board in connection with an application, the Board may not act on the application until at least ten days after the requirements of subsection (1) have been met.
-
-**Where subsections (1) to (3) do not apply**
-
-- **(4)** Subsections (1) to (3) do not apply in respect of an application for the amendment of a licence where the Board, with the consent of the Minister, declares the amendment to be required on an emergency basis.
+**23** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Notice — on Board’s initiative**
-
-**23.1** 
-
-- **(1)** The Board shall give notice of its intention to consider, on its own initiative, the renewal of a licence under subparagraph 18(1)(a)(ii), or the amendment of a condition of a licence under subparagraph 18(1)(b)(ii) or (iii), by publishing a notice in a newspaper of general circulation in the area affected or, if there is not such a newspaper, in any other manner that the Board considers appropriate.
-
-**Exception**
-
-- **(2)** Subsection (1) does not apply in respect of an application for the amendment of a licence if the Board, with the consent of the Minister, declares the amendment to be required on an emergency basis.
-> 2014, c. 2, s. 89.
+**23.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Rules**
-
-**24** The Board may make rules respecting
-- **(a)** its sittings;
-- **(b)** the powers, duties and functions of the Chairperson of the Board;
-- **(b.1)** the circumstances in which an alternate member is to perform the powers, duties and functions of a member who is absent or incapacitated or whose office is vacant and the process for selecting among alternate members;
-- **(b.2)** in the case of a member whose term has expired, the circumstances in which a member may continue to perform their powers, duties and functions in relation to a matter involving a public hearing until a decision is made by the Board;
-- **(c)** the procedure for making representations and complaints to it, the conduct of hearings before it, and generally the manner of conducting any business before it; and
-- **(d)** generally, the carrying on of its work, the management of its internal affairs, and the duties of the officers and employees and the professional and technical advisers provided to it by the Minister.
-> 1992, c. 39, s. 24; 2014, c. 2, s. 90.
-
+**24** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Time Limits
+> [Repealed, 2014, c. 2, s. 66]
+
 
 
 
 ### Authority to Act
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Authority, etc.**
-
-**24.1** The failure of the Minister or the Board to exercise a power or perform a duty or function within a time limit under this Act does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise of such a power or performance of such a duty or function.
-> 2014, c. 2, s. 91.
-
+**24.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Decisions by Board and Approvals
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Type A licence and type B licence if public hearing held**
-
-**24.2** 
-
-- **(1)** In the case of an application for the issuance, renewal or amendment of a type A licence, or a type B licence in connection with which a public hearing is held, or in the case when the Board intends to consider, on its own initiative, the renewal or amendment of such a licence, the Board shall make a decision within a period of nine months after the day on which the application is made or on which notice of the Board’s intention is published under subsection 23.1(1).
-
-**Referral to Minister for approval**
-
-- **(2)** If the Board decides to issue, renew or amend the licence, that decision shall be immediately referred to the Minister for approval.
-
-**Decision of Minister and reasons**
-
-- **(3)** The Minister shall, within 45 days after the Board’s decision is referred to him or her, notify the Board whether or not the decision is approved and, if it is not approved, provide written reasons in the notification.
-
-**Extension of time limit**
-
-- **(4)** The Minister may extend that time limit by not more than an additional 45 days, if the Minister notifies the Board of the extension within the first 45 days.
-
-**Absence of decision**
-
-- **(5)** If the Minister does not notify the Board whether or not the decision is approved within the time limit referred to in subsection (3) or (4), whichever is applicable, the Minister is deemed to have given approval.
-> 2014, c. 2, s. 91.
+**24.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Other type B licences**
-
-**24.3** 
-
-- **(1)** In the case of an application for the issuance, renewal or amendment of a type B licence in connection with which no public hearing is held or in the case when the Board intends to consider, on its own initiative, the renewal or amendment of such a licence, the Board shall make a decision within a period of nine months after the day on which the application is made or on which notice of the Board’s intention is published under subsection 23.1(1).
-
-**Referral to Chairperson**
-
-- **(2)** If the Board decides to issue, renew or amend the licence, that decision shall be immediately referred to the Chairperson for his or her approval.
-
-**Chairperson’s decision**
-
-- **(3)** The Chairperson must, without delay after the Board’s decision is referred to him or her, notify the Board whether or not the decision is approved.
-> 2014, c. 2, s. 91.
+**24.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Day on which application is made**
-
-**24.4** An application is considered to be made on the day on which the Board is satisfied that the application is in the form, and contains all of the information, that is prescribed by the regulations.
-> 2014, c. 2, s. 91.
-
+**24.4** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Excluded Periods
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Excluded period**
-
-**24.5** If the Board requires an applicant or a licensee to provide information or studies, then the period taken by the applicant or licensee, in the Board’s opinion, to provide the required information or studies is not included in the calculation of the time limit under subsection 24.2(1) or 24.3(1) or of an extension of the time limit.
-> 2014, c. 2, s. 91.
+**24.5** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Suspension of time limit**
-
-**24.6** The Board may suspend the time limit referred to in subsection 24.2(1) or 24.3(1) or the extension of such a limit
-- **(a)** if the proposed use of waters or deposit of waste is part of a development in respect of which an environmental screening, environmental assessment or environmental impact review is required under an Act of Parliament or the Inuvialuit Final Agreement, until the screening, assessment or review is completed;
-- **(b)** if the Board determines that the applicant is required to pay compensation, or to enter into a compensation agreement, under subsection 14(4), until the applicant satisfies the Board that the compensation has been or will be paid or that they have entered into a compensation agreement, as the case may be;
-- **(c)** if the board is not permitted to issue a licence except in accordance with subsection 15.1(1), until the applicant has entered into a compensation agreement under paragraph 15.1(1)(a) or until a determination of compensation has been made under paragraph 15.1(1)(b), as the case may be; or
-- **(d)** if the Board receives notice under subsection 78(1) or 79.2(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), until the requirements of subsection 78(3) or 79.2(3) of that Act, as the case may be, have been met.
-> 2014, c. 2, s. 91.
-
+**24.6** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Extensions
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Extension of time limit by Minister**
-
-**24.7** 
-
-- **(1)** The Minister may, at the request of the Board, extend the time limit referred to in subsection 24.2(1) or 24.3(1) by a maximum of two months to take into account circumstances that are specific to the issuance, renewal or amendment of the licence.
-
-**Extension of time limit by Governor in Council**
-
-- **(2)** The Governor in Council may, by order, on the recommendation of the Minister, further extend, any number of times, the time limit extended under subsection (1).
-> 2014, c. 2, s. 91.
-
+**24.7** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Public Register
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Public register**
-
-**25** 
-
-- **(1)** The Board shall maintain at its main office a register, in the form prescribed by the regulations made under paragraph 33(1)(s) and convenient for use by the public, in which shall be entered, with respect to each application received by the Board and with respect to each licence, such information as is prescribed by those regulations.
-
-**Register to be open to inspection**
-
-- **(2)** The register maintained pursuant to this section shall be open to inspection, during normal business hours of the Board, by any person on payment of a fee, if any, prescribed by the regulations made under subparagraph 33(1)(k)(iii).
-
-**Copies of contents of register**
-
-- **(3)** The Board shall, on request and on payment of a fee, if any, fixed by the Board, make available copies of information contained in the register.
+**25** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Decisions and Orders
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Where Board is to issue reasons**
-
-**26** The Board shall issue, and make available to the public, written reasons for its decisions or orders relating to any licence or any application.
+**26** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Decisions and orders final**
-
-**27** Except as provided in this Act, every decision or order of the Board is final and conclusive.
+**27** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Appeal to Federal Court**
-
-**28** 
-
-- **(1)** An appeal lies from a decision or order of the Board to the Federal Court on a question of law, or a question of jurisdiction, on leave therefor being obtained from that Court on application made within forty-five days after the making of that decision or order or within such further time as that Court, or a judge thereof, under special circumstances allows.
-
-**Entry of appeal**
-
-- **(2)** No appeal lies after leave therefor has been obtained under subsection (1) unless the appeal is entered in the Federal Court within sixty days after the making of the order granting leave to appeal.
+**28** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Reports
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Annual report**
-
-**28.1** 
-
-- **(1)** The Board shall, within three months after the end of each fiscal year, submit to the Minister, in the form that the Minister may specify, a report on the activities of the Board in that year, including its financial statements for the year and any other matters that the Minister may specify.
-
-**Publication on Internet**
-
-- **(2)** The Board shall publish the annual report on its Internet site and, if the Board considers it appropriate, make it available by any other means.
-> 2014, c. 2, s. 92.
-
+**28.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Cost Recovery
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Obligation to pay costs**
-
-**28.2** 
-
-- **(1)** For the Minister to recover costs incurred in relation to the consideration of an application for a licence or for the renewal, amendment or cancellation of a licence, the applicant or a licensee shall pay to the Minister
-	- **(a)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the Board or of its members;
-	- **(b)** any costs incurred by the Board for services that are prescribed by the regulations and that are provided to it by a third party; and
-	- **(c)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the Minister.
-
-**Debt due to Her Majesty**
-
-- **(2)** The costs and amounts that a person must pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-> 2014, c. 2, s. 92.
-
+**28.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Rights and Duties of Licensees and Others
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Precedence**
-
-**29** 
-
-- **(1)** Where two persons have licences or other authorizations to use waters issued by any authority responsible for the management of waters in the Northwest Territories or in Nunavut, the person who first applied is entitled to the use of the waters in accordance with that person’s licence or authorization in precedence to the other person.
-
-**Amendments to a licence or authorization**
-
-- **(2)** Subsection (1) applies, with such modifications as circumstances require, in respect of any rights a person acquires through an amendment to that person’s licence or authorization.
-
-**Renewal or assignment of a licence or authorization**
-
-- **(3)** Subject to subsection (2), a licence or authorization that has been renewed or assigned shall, for the purposes of this section, be deemed to be a continuation of the original licence or authorization.
-> 1992, c. 39, s. 29; 2002, c. 10, s. 188.
+**29** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Right to sue for compensation**
-
-**30** 
-
-- **(1)** Except as otherwise provided by a compensation agreement referred to in subparagraph 14(4)(a)(ii), a person who is adversely affected as a result of
-	- **(a)** the issuance of a licence, or
-	- **(b)** a use of water or deposit of waste authorized by regulations made under paragraph 33(1)(m) or (n)
-is entitled to be compensated by the licensee, authorized user or authorized waste depositor in respect of that adverse effect, and may sue for and recover any such compensation in any court of competent jurisdiction.
-
-**Rights protected**
-
-- **(2)** A person is not barred from exercising any rights conferred by subsection (1) merely because of having been paid compensation referred to in subsection 14(4), or because of having been paid compensation pursuant to paragraph 17(2)(a) or pursuant to a compensation agreement referred to in subparagraph 14(4)(a)(ii).
+**30** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Permission to expropriate**
-
-**31** 
-
-- **(1)** An applicant for a licence, or a licensee, may apply to the Board for permission from the Minister to expropriate, in accordance with the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), land or an interest in land in the Northwest Territories, and where the Minister, on the recommendation of the Board, is satisfied that
-	- **(a)** the lands or interest are reasonably required by the applicant or licensee for use in relation to the appurtenant undertaking, and
-	- **(b)** the applicant or licensee has made reasonable efforts to acquire the lands or interest and has been unable to do so and it is in the public interest that such permission be granted to the applicant or licensee,
-the Minister may, in writing, grant the permission.
-
-**Notice to appropriate minister**
-
-- **(2)** Where the Minister grants permission under subsection (1), the applicant or licensee shall so advise the appropriate minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md).
-
-**[Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md)**
-
-- **(3)** For the purposes of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), land or an interest in land in respect of which the Minister has granted permission under subsection (1) is deemed to be an interest in land that, in the opinion of the appropriate minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), is required for a public work or other public purpose, and a reference to the Crown in that Act shall be construed as a reference to the applicant or licensee.
-
-**Charges for services**
-
-- **(3.1)** The appropriate minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) may make regulations prescribing fees or charges to be paid by an applicant or a licensee in respect of an expropriation referred to in subsection (1), and rates of interest payable in respect of those fees and charges.
-
-**Debt due to Her Majesty**
-
-- **(3.2)** The fees or charges are a debt due to Her Majesty in right of Canada by the applicant or licensee, and shall bear interest at the prescribed rate from the date they are payable.
-
-**Security**
-
-- **(3.3)** The Minister may require the applicant or licensee to provide security, in an amount determined by the Minister and subject to any terms and conditions that the Minister may specify, for the payment of any fees or charges that are or may become payable under this section.
-
-**Mitigation of damages — enforcement of undertaking**
-
-- **(3.4)** Where the applicant or licensee, in mitigation of any injury or damage caused or likely to be caused to lands by an expropriation, undertakes
-	- **(a)** to abandon or grant, to the owner of the lands or a person interested in the lands, any portion of its lands or of the land being taken or any easement, servitude or privilege over or in respect of the lands, and
-	- **(b)** to construct and maintain any work for the benefit of the owner or interested person,
-and the owner or interested person accepts the undertaking, the undertaking is deemed to be an undertaking referred to in paragraph 28(1)(b) of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), and it may be enforced by the Board as if it were a condition of the licensee’s licence.
-
-**Copy of document evidencing permission to be deposited**
-
-- **(4)** A copy of the document evidencing the permission granted by the Minister under subsection (1), certified as such by the Chairperson of the Board, shall be deposited with the registrar or registrars of titles for the land registration district or districts in which the lands affected by the permission are situated.
-
-**Duties of registrars of titles**
-
-- **(5)** The provisions of section 43 of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) relating to plans, profiles and books of reference deposited with registrars of deeds pursuant to that Act and the duties of registrars of deeds with respect thereto, in so far as they are reasonably applicable and not inconsistent with this Act, apply in respect of copies deposited pursuant to subsection (4).
-
-**Exceptions**
-
-- **(6)** This section does not apply in respect of
-	- **(a)** territorial lands; or
-	- **(b)** lands belonging to any railway company that are used or required by the company for the purposes of its railway.
-> 1992, c. 39, s. 31; 1996, c. 10, s. 248; 2002, c. 10, s. 189; 2014, c. 2, s. 93.
+**31** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Rights of persons not affected**
-
-**32** Nothing in this Act or the regulations or in a licence constitutes a defence to a claim for loss or damage sustained by any person by reason of the construction or operation of any work forming part of an appurtenant undertaking.
+**32** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Regulations and Orders
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Regulations**
-
-**33** 
-
-- **(1)** The Governor in Council may make regulations
-	- **(a)** on the recommendation of the Minister and the Board,
-		- **(i)** establishing water management areas consisting of river basins or other geographical areas, and
-		- **(ii)** classifying purposes of use of waters in any water management area;
-	- **(b)** prescribing
-		- **(i)** substances and classes of substances,
-		- **(ii)** quantities or concentrations of substances and classes of substances in water, and
-		- **(iii)** treatments, processes and changes of water
-for the purposes of paragraphs (d) to (f) of the definition “waste” in section 2;
-	- **(c)** setting out the criteria to be applied by the Board in determining whether a proposed use of waters or deposit of waste for which a licence is required under this Act requires a type A licence or a type B licence;
-	- **(d)** setting out the procedure to be followed on an application to the Board;
-	- **(e)** prescribing the form of applications to the Board, the information to be submitted to the Board in connection with any application, and the form in which any of that information is to be submitted;
-	- **(f)** prescribing forms, in addition to any forms prescribed under paragraph (e);
-	- **(g)** respecting the amount of security that may be required to be furnished and maintained under subsection 17(1), and prescribing the form and the terms and conditions of the security, which regulations may empower the Board to fix the amount of the security subject to a maximum specified in, or determined in accordance with, those regulations;
-	- **(h)** prescribing water quality standards for any waters;
-	- **(i)** prescribing effluent standards in relation to any waters;
-	- **(j)** prescribing standards for the design, construction, operation and maintenance of works related to the use of waters or the deposit of waste;
-	- **(k)** prescribing fees to be paid
-		- **(i)** for the right to use waters or deposit waste pursuant to a licence,
-		- **(ii)** for the filing of any application with the Board, and
-		- **(iii)** for inspection of the register maintained pursuant to section 25;
-	- **(l)** prescribing the times at which and the manner in which fees prescribed under paragraph (k) shall be paid;
-	- **(l.1)** respecting the recovery of amounts and costs for the purposes of section 28.2, including prescribing amounts and services for the purposes of that section and exempting any class of applicants or licensees from the application of that section;
-	- **(m)** subject to any order made under subsection 34(2), authorizing the use without a licence of waters in a water management area for a purpose or use, in a quantity or at a rate, or for a period, or any combination of purpose, use, quantity, rate or period, specified in the regulations, and prescribing the conditions under which those waters may be used without a licence;
-	- **(n)** subject to any order made under subsection 34(2), prescribing quantities, concentrations and types of waste that may be deposited without a licence, and the conditions under which any such waste may be deposited;
-	- **(o)** prescribing
-		- **(i)** the manner in which a report under subsection 9(3) is to be made and the information to be contained therein, and
-		- **(ii)** a person or authority, in lieu of an inspector, to whom such a report is to be made;
-	- **(p)** requiring persons who use waters or deposit waste in a water management area
-		- **(i)** to maintain books and records for the proper enforcement of this Act, and
-		- **(ii)** to submit to the Board, on a regular monthly, quarterly, semi-annual or annual basis, reports on any of their operations to which this Act applies, and specifying the information to be contained therein;
-	- **(q)** requiring persons who deposit waste in a water management area
-		- **(i)** to submit representative samples of the waste to the Board for analysis, or
-		- **(ii)** to analyse representative samples of the waste and submit the results of the analysis to the Board;
-	- **(r)** respecting the taking of representative samples of waters or waste and respecting the method of analysis of those samples;
-	- **(s)** prescribing the form of the register to be maintained by the Board pursuant to section 25 and the information to be entered therein;
-	- **(t)** respecting the duties of persons designated as analysts pursuant to section 35;
-	- **(t.1)** prescribing anything that is to be prescribed under this Act; and
-	- **(u)** generally, for carrying out the purposes and provisions of this Act.
-
-**Regulations may vary**
-
-- **(2)** Regulations made under subsection (1) may vary according to any criterion or combination of criteria, including, without limiting the generality of the foregoing, the use of waters, the purpose of that use, the quantity and rate of waters used, and the quantities, concentrations and types of waste deposited.
-> 1992, c. 39, s. 33; 2014, c. 2, s. 94.
+**33** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Reservation of lands from disposition**
-
-**34** 
-
-- **(1)** The Governor in Council may, by order, reserve from disposition under any enactment relating to the disposition of territorial lands, for a specified period or otherwise, all or any interests in any territorial lands under the management, charge and direction of the Minister where the interests are, in the opinion of the Governor in Council, required
-	- **(a)** for the protection of any waters; or
-	- **(b)** in connection with any undertaking the development or operation of which is, in the opinion of the Governor in Council, in the public interest and that would require the use of those interests in lands and of waters adjacent to those lands.
-
-**Reservation of water rights**
-
-- **(2)** The Governor in Council may, by order, direct the Board, for a specified period or otherwise, not to issue any licences permitting the use of, or the deposit of waste directly or indirectly into, any waters specified in the order,
-	- **(a)** to enable comprehensive evaluation and planning to be carried out with respect to those waters, or
-	- **(b)** where the use and flow of those waters, or the maintenance of the quality of those waters, is required in connection with a particular undertaking the development of which is, in the opinion of the Governor in Council, in the public interest,
-and an order made pursuant to this subsection may, for a reason set out in paragraph (a) or (b), prohibit a use of waters or a deposit of waste that would otherwise be permitted pursuant to regulations made under paragraph 33(1)(m) or (n), as the case may be.
-
-**Effect of contravention of order**
-
-- **(3)** A disposition of all or any interests in any territorial lands in contravention of an order made pursuant to subsection (1), and a licence issued in contravention of an order made pursuant to subsection (2), is of no force or effect.
+**34** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Enforcement
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Inspectors and analysts**
-
-**35** 
-
-- **(1)** The Minister may designate any qualified person as an inspector or analyst for the purposes of this Act.
-
-**Certificate to be produced**
-
-- **(2)** The Minister shall furnish every inspector with a certificate of designation as an inspector, and on entering any area, place or premises an inspector shall, if so requested, produce the certificate to the person in charge thereof.
+**35** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Powers of inspectors**
-
-**36** 
-
-- **(1)** For the purpose of ensuring compliance with this Act, the regulations or a licence, an inspector may, at any reasonable time,
-	- **(a)** enter, subject to subsection (3), any area, place or premises in a water management area in which the inspector believes, on reasonable grounds, is being carried out
-		- **(i)** the construction of any work that, on completion, will form part of an undertaking the operation of which will require the use of waters or the deposit of waste, or
-		- **(ii)** the alteration or extension of a work that forms part of such an undertaking;
-	- **(b)** conduct such inspections of a work described in paragraph (a) as the inspector deems necessary in order to determine
-		- **(i)** whether any plans and specifications forming part of any application for a licence filed with the Board by the person constructing the work are being complied with, or
-		- **(ii)** whether any alteration or extension of the work will or is likely to result in a contravention of any condition of a licence issued in association with an undertaking of which the work forms part; and
-	- **(c)** enter, subject to subsection (3), any area, place or premises in which the inspector believes, on reasonable grounds, that
-		- **(i)** waters are being used, or
-		- **(ii)** there is being or has been carried out any process that may result in or has resulted in waste, or there is any waste, that may be added to waters,
-and examine any works related to the matters mentioned in subparagraphs (i) and (ii) and any waters or waste, open any container that the inspector believes on reasonable grounds contains any waters or waste, and take samples of any waters or waste.
-
-**Books, records or documents**
-
-- **(2)** An inspector who lawfully enters any area, place or premises pursuant to paragraph (1)(a) or (c) may examine any books, records or documents in the area, place or premises that the inspector believes, on reasonable grounds, contain any information relating to
-	- **(a)** the use of waters, or
-	- **(b)** any process that is being or has been carried out therein that involves the use of waters or results or is likely to result in waste,
-and may make copies thereof or take extracts therefrom.
-
-**Exception where dwelling-place**
-
-- **(3)** No inspector may, pursuant to paragraph (1)(a) or (c), enter any area, place or premises that is designed to be used and is being used as a permanent or temporary private dwelling-place.
-
-**Assistance to inspectors**
-
-- **(4)** The owner or person in charge of any area, place or premises referred to in this section and every person found therein shall give an inspector all reasonable assistance to enable the inspector to carry out the inspector’s functions under this Act and shall furnish the inspector with such information with respect to the administration of this Act as the inspector may reasonably request.
+**36** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Remedial measures**
-
-**37** 
-
-- **(1)** Where an inspector, whether or not a report has been made under subsection 9(3), believes, on reasonable grounds,
-	- **(a)** that
-		- **(i)** waters have been or may be used in contravention of subsection 8(1) or of a condition of a licence,
-		- **(ii)** waste has been or may be deposited in contravention of subsection 9(1) or of a condition of a licence, or
-		- **(iii)** there has been, or may be, a failure of a work related to the use of waters or the deposit of waste, whether or not there has been compliance with any standards prescribed by regulations made under paragraph 33(1)(j) and with any standards imposed by a licence, and
-	- **(b)** that a danger to persons, property or the environment results, or may reasonably be expected to result, from the adverse effects of that use, deposit or failure,
-the inspector may direct any person to take such reasonable measures as the inspector may specify, including the cessation of an activity, to prevent the use, deposit or failure from occurring or to counteract, mitigate or remedy the adverse effects.
-
-**Review by Minister**
-
-- **(2)** Where an inspector gives a direction to a person under subsection (1), the Minister
-	- **(a)** shall, if so requested by the person, forthwith review the direction; and
-	- **(b)** may, after completion of the review referred to in paragraph (a), or on the Minister’s own initiative, alter or revoke the direction.
-
-**Inspector may take measures**
-
-- **(3)** Where a person to whom a direction is given under subsection (1) contravenes or fails to comply with the direction, the inspector may take the measures referred to in that direction, and may, for that purpose, enter any area, place or premises, except one that is designed to be used and is being used as a permanent or temporary private dwelling-place.
-
-**Recovery of Her Majesty’s costs**
-
-- **(4)** Any portion of the reasonable costs incurred by Her Majesty in right of Canada pursuant to subsection (3) that is not recoverable from the security referred to in section 17
-	- **(a)** because of the non-existence or inadequacy of that security,
-	- **(b)** because all or a portion of that security has been applied pursuant to paragraph 17(2)(a),
-	- **(c)** because all or a portion of that security has been refunded pursuant to subsection 17(5), or
-	- **(d)** for any other reason
-may be recovered from the person to whom the direction under subsection (1) was given, as a debt due to Her Majesty.
+**37** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Obstruction**
-
-**38** 
-
-- **(1)** No person shall wilfully obstruct or otherwise interfere with an inspector in the carrying out of the inspector’s functions under this Act.
-
-**False statements**
-
-- **(2)** No person shall knowingly make a false or misleading statement, either orally or in writing, to an inspector or other person engaged in carrying out functions under this Act.
+**38** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Where work closed or abandoned**
-
-**39** 
-
-- **(1)** Where the Minister believes, on reasonable grounds, that
-	- **(a)** a person has closed or abandoned, temporarily or permanently, a work related to the use of waters or the deposit of waste, and
-	- **(b)** either
-		- **(i)** the person has contravened or failed to comply with any condition of a licence or any provision of this Act or the regulations, whether or not the condition or provision relates to closing or abandonment, or
-		- **(ii)** a danger to persons, property or the environment may result from the past operation of the work or from its closing or abandonment,
-the Minister may take any reasonable measures to prevent, counteract, mitigate or remedy any resulting adverse effect on persons, property or the environment, and for that purpose may enter any area, place or premises, except one that is designed to be used and is being used as a permanent or temporary private dwelling-place.
-
-**Recovery of Her Majesty’s costs**
-
-- **(2)** Any portion of the reasonable costs incurred by Her Majesty in right of Canada pursuant to subsection (1) that is not recoverable from the security referred to in section 17
-	- **(a)** because of the non-existence or inadequacy of that security,
-	- **(b)** because all or a portion of that security has been applied pursuant to paragraph 17(2)(a),
-	- **(c)** because all or a portion of that security has been refunded pursuant to subsection 17(5), or
-	- **(d)** for any other reason
-may be recovered from the person referred to in subsection (1) as a debt due to Her Majesty, to the extent that the incurring of those costs was based on subparagraph (1)(b)(i).
+**39** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Offences and Punishment
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Principal offences**
+**40** [Repealed, 2014, c. 2, s. 66]
 
-**40** 
 
-- **(1)** Every person is guilty of an offence who
-	- **(a)** contravenes subsection 8(1) or section 9;
-	- **(b)** fails to comply with subsection 8(3); or
-	- **(c)** contravenes or fails to comply with a direction given by an inspector under subsection 37(1).
 
-**Punishment**
+**40.1** [Repealed, 2014, c. 2, s. 66]
 
-- **(2)** Every person who commits an offence under subsection (1) is liable on summary conviction,
-	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
-	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 1992, c. 39, s. 40; 2014, c. 2, s. 95.
 
 
+**40.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Offences — type A licensees**
+**40.3** [Repealed, 2014, c. 2, s. 66]
 
-**40.1** 
 
-- **(1)** Every type A licensee is guilty of an offence who
-	- **(a)** contravenes or fails to comply with any condition of the licence, if the contravention or failure to comply does not constitute an offence under section 41; or
-	- **(b)** without reasonable excuse, fails to furnish or maintain security as required under subsection 17(1).
 
-**Punishment**
+**40.4** [Repealed, 2014, c. 2, s. 66]
 
-- **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction,
-	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
-	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
-> 2014, c. 2, s. 95.
 
 
+**41** [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Offences — type B licensees**
+**42** [Repealed, 2014, c. 2, s. 66]
 
-**40.2** 
 
-- **(1)** Every type B licensee is guilty of an offence who
-	- **(a)** contravenes or fails to comply with any condition of the licence, if the contravention or failure to comply does not constitute an offence under section 41; or
-	- **(b)** without reasonable excuse, fails to furnish or maintain security as required under subsection 17(1).
 
-**Punishment**
+**43** [Repealed, 2014, c. 2, s. 66]
 
-- **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction,
-	- **(a)** for a first offence, to a fine not exceeding $37,500 or to imprisonment for a term not exceeding six months, or to both; and
-	- **(b)** for a second or subsequent offence, to a fine not exceeding $75,000 or to imprisonment for a term not exceeding six months, or to both.
-> 2014, c. 2, s. 95.
 
 
-
-
-
-**Continuing offences**
-
-**40.3** An offence under subsection 40(1), 40.1(1) or 40.2(1) that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
-> 2014, c. 2, s. 95.
-
-
-
-
-
-**Deeming — subsequent offences**
-
-**40.4** 
-
-- **(1)** For the purposes of subsections 40(2), 40.1(2) and 40.2(2), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted of a substantially similar offence under any Act of Parliament — or any Act of the legislature of a province — that relates to environmental or wildlife conservation or protection.
-
-**Application**
-
-- **(2)** Subsection (1) applies only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under any Act of the legislature of a province.
-> 2014, c. 2, s. 95.
-
-
-
-
-
-**Other offences**
-
-**41** Any person who
-- **(a)** contravenes or fails to comply with subsection 36(4), section 38 or any regulations made under paragraph 33(1)(p), (q) or (r), or
-- **(b)** except as authorized pursuant to this Act or any other Act of Parliament, wilfully obstructs or otherwise interferes with a licensee or any person acting on behalf of a licensee in the exercise of any rights granted to the licensee under this Act
-is guilty of an offence punishable on summary conviction.
-
-
-
-
-**Limitation period or prescription**
-
-**42** No proceedings in respect of an offence under this Act are to be instituted more than five years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged offence.
-> 1992, c. 39, s. 42; 2014, c. 2, s. 96.
-
-
-
-
-
-**Action to enjoin not prejudiced by prosecution**
-
-**43** 
-
-- **(1)** Despite the fact that a prosecution has been instituted in respect of an offence under subsection 40(1), 40.1(1), or 40.2(1), the Attorney General of Canada may commence and maintain proceedings to enjoin conduct that constitutes an offence under any of those subsections.
-
-**Civil remedy not affected**
-
-- **(2)** No civil remedy for any act or omission is suspended or affected by reason that the act or omission is an offence under this Act.
-> 1992, c. 39, s. 43; 2014, c. 2, s. 97.
-
-
-
-
-
-**Certificate of analyst**
-
-**44** 
-
-- **(1)** Subject to this section, a certificate purporting to be signed by an analyst and stating that the analyst has analysed or examined a sample submitted to the analyst by an inspector and stating the result of the analysis or examination is admissible in evidence in any prosecution under this Act and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
-
-**Attendance of analyst**
-
-- **(2)** A party against whom a certificate of an analyst is produced pursuant to subsection (1) may, with leave of the court, require the attendance of the analyst for the purposes of cross-examination.
-
-**Notice**
-
-- **(3)** No certificate shall be admitted in evidence pursuant to subsection (1) unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate.
+**44** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Administrative Monetary Penalties
+> [Repealed, 2014, c. 2, s. 66]
+
 
 
 
 ### Regulations
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Regulations**
-
-**44.01** 
-
-- **(1)** The Minister may, with the approval of the Governor in Council, make regulations for the purposes of sections 44.02 to 44.3, including regulations
-	- **(a)** designating as a violation that may be proceeded with in accordance with this Act
-		- **(i)** the contravention of any specified provision of this Act or of its regulations,
-		- **(ii)** the contravention of any order, direction or decision — or of any order, direction or decision of a specified class — made or given under this Act, or
-		- **(iii)** the failure to comply with a term or condition of any licence or a term or condition of a specified class of licences;
-	- **(b)** respecting the determination of or the method of determining the amount payable as the penalty, which may be different for individuals and other persons, for each violation;
-	- **(c)** establishing the form and content of notices of violations;
-	- **(d)** respecting the service of documents required or authorized under this Act, including the manner and proof of service and the circumstances under which documents are considered to be served; and
-	- **(e)** respecting reviews by the Minister in respect of a notice of violation.
-
-**Maximum**
-
-- **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for each violation must not be more than $25,000, in the case of an individual, and $100,000 in the case of any other person.
-> 2014, c. 2, s. 98.
-
+**44.01** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Violations
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Who may issue notices**
-
-**44.02** Persons who are designated as inspectors under section 35 are authorized to issue notices of violation.
-> 2014, c. 2, s. 98.
+**44.02** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Commission of violation**
-
-**44.03** 
-
-- **(1)** Every person who contravenes or fails to comply with a provision, order, direction, decision, term or condition designated under paragraph 44.01(1)(a) commits a violation and is liable to a penalty in the amount that is determined in accordance with the regulations.
-
-**Purpose of penalty**
-
-- **(2)** The purpose of the penalty is to promote compliance with this Act and not to punish.
-> 2014, c. 2, s. 98.
+**44.03** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Liability of directors, officers, agents and mandataries**
-
-**44.04** If a corporation commits a violation, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty in the amount that is determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Act.
-> 2014, c. 2, s. 98.
+**44.04** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Proof of violation**
-
-**44.05** In any proceedings under this Act against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee, or agent or mandatary, of the person, whether or not the employee, agent or mandatary is identified or proceeded against in accordance with this Act.
-> 2014, c. 2, s. 98.
+**44.05** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Issuance and service of notice of violation**
-
-**44.06** 
-
-- **(1)** If an inspector believes on reasonable grounds that a person has committed a violation, the inspector may issue a notice of violation and cause it to be served on the person.
-
-**Contents**
-
-- **(2)** The notice of violation must
-	- **(a)** name the person that is believed to have committed the violation;
-	- **(b)** set out the relevant facts surrounding the violation;
-	- **(c)** set out the amount of the penalty;
-	- **(d)** inform the person of their right to request a review with respect to the violation or the amount of the penalty and of the period within which that right must be exercised;
-	- **(e)** inform the person of the time and manner of paying the penalty; and
-	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they are considered to have committed the violation and are liable to the penalty.
-
-**Inspector to provide copy to Board**
-
-- **(3)** The inspector shall, without delay after issuing a notice of violation, provide a copy to the Board.
-> 2014, c. 2, s. 98.
-
+**44.06** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Rules About Violations
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Certain defences not available**
-
-**44.07** 
-
-- **(1)** A person named in a notice of violation does not have a defence by reason that the person
-	- **(a)** exercised due diligence to prevent the commission of the violation; or
-	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate the person.
-
-**Common law principles**
-
-- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
-> 2014, c. 2, s. 98.
+**44.07** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Continuing violation**
-
-**44.08** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
-> 2014, c. 2, s. 98.
+**44.08** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Violations or offences**
-
-**44.09** 
-
-- **(1)** Proceeding with any act or omission as a violation under this Act precludes proceeding with it as an offence under this Act, and proceeding with it as an offence under this Act precludes proceeding with it as a violation under this Act.
-
-**Violations not offences**
-
-- **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
-> 2014, c. 2, s. 98.
+**44.09** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Limitation period or prescription**
-
-**44.1** No notice of violation is to be issued more than two years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged violation.
-> 2014, c. 2, s. 98.
-
+**44.1** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Reviews
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Right to request review**
-
-**44.11** A person who is served with a notice of violation may — within 30 days after the day on which it is served or within any longer period that is prescribed by the regulations — make a request to the Minister for a review of the amount of the penalty or the facts of the violation, or both.
-> 2014, c. 2, s. 98.
+**44.11** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Correction or cancellation of notice of violation**
-
-**44.12** At any time before a request for a review in respect of a notice of violation is received by the Minister, an inspector may cancel the notice of violation or correct an error in it.
-> 2014, c. 2, s. 98.
+**44.12** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Review**
-
-**44.13** On receipt of a request for a review in respect of a notice of violation, the Minister shall conduct the review.
-> 2014, c. 2, s. 98.
+**44.13** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Object of review**
-
-**44.14** 
-
-- **(1)** The Minister shall determine, as the case may be, whether the amount of the penalty was determined in accordance with the regulations or whether the person committed the violation, or both.
-
-**Determination**
-
-- **(2)** The Minister shall render a determination in writing and cause the person who requested the review to be served with a copy of the determination, with reasons. A copy of the determination, with reasons, shall also be provided without delay to the Board.
-
-**Correction of penalty**
-
-- **(3)** If the Minister determines that the amount of the penalty was not determined in accordance with the regulations, the Minister shall correct it.
-
-**Responsibility**
-
-- **(4)** If the Minister determines that the person who requested the review committed the violation, that person is liable to the penalty as set out in the determination.
-
-**Determination final**
-
-- **(5)** A determination made under this section is final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or to review by any court.
-> 2014, c. 2, s. 98.
+**44.14** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Burden of proof**
-
-**44.15** If the facts of a violation are reviewed, the inspector who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
-> 2014, c. 2, s. 98.
-
+**44.15** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Responsibility
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Payment**
-
-**44.16** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
-> 2014, c. 2, s. 98.
+**44.16** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Failure to act**
-
-**44.17** A person that neither pays the penalty within the period set out in the notice of violation — nor requests a review within the period referred to in section 44.11 — is considered to have committed the violation and is liable to the penalty.
-> 2014, c. 2, s. 98.
-
+**44.17** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Recovery of Penalties
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Debts to Her Majesty**
-
-**44.18** 
-
-- **(1)** A penalty constitutes a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
-
-**Limitation period or prescription**
-
-- **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
-> 2014, c. 2, s. 98.
+**44.18** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Certificate**
-
-**44.19** 
-
-- **(1)** The Minister may issue a certificate of non-payment certifying the unpaid amount of any debt referred to in subsection 44.18(1).
-
-**Registration**
-
-- **(2)** Registration of a certificate of non-payment in any court of competent jurisdiction has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
-> 2014, c. 2, s. 98.
-
+**44.19** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### General
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Authenticity of documents**
-
-**44.2** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 44.06(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
-> 2014, c. 2, s. 98.
+**44.2** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Publication**
-
-**44.3** The Board may, subject to any regulations, make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
-> 2014, c. 2, s. 98.
-
+**44.3** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Transitional Provisions
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Members of the Board**
-
-**45** Persons who, pursuant to the Northern Inland Waters Act, were members of the Northwest Territories Water Board immediately before the coming into force of this Act continue as such thereafter as if they had been appointed pursuant to this Act.
-> 1992, c. 39, s. 45; 1994, c. 26, s. 48(F).
+**45** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Licenses**
-
-**46** 
-
-- **(1)** Licences relating to the Northwest Territories that were in force under the Northern Inland Waters Act immediately before the coming into force of this Act continue in force thereafter as if they had been issued in accordance with this Act.
-
-**Idem**
-
-- **(2)** On the day on which this Act comes into force, the Board shall send a written notification to the holder of each licence referred to in subsection (1), stating whether the licence is a type A licence or a type B licence in accordance with the regulations made under paragraph 33(1)(c), and that licence shall henceforth be deemed to be of the type stated in the notification.
-
-**Licenses**
-
-- **(3)** Sections 40.1 and 40.2 of this Act do not apply in respect of any condition of a licence referred to in subsection (1)
-	- **(a)** until the ninetieth day after the coming into force of this Act; or
-	- **(b)** if, on or before the day referred to in paragraph (a), the licensee has applied to the Board to amend the licence in relation to that condition, until the day on which that application is finally disposed of by the Board.
-> 1992, c. 39, s. 46; 2014, c. 2, s. 99.
+**46** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-
-**Authorized users and authorized waste depositors**
-
-**47** Where, immediately before the coming into force of this Act, a person was using waters or depositing waste under the authority of regulations made under paragraph 29(f) or (g) of the Northern Inland Waters Act in such a way that, after the coming into force of this Act, that use or deposit would constitute a contravention of subsection 8(1) or 9(1) of this Act if the person were not a licensee, the person may, notwithstanding those subsections, continue to use waters or deposit waste in a substantially equivalent way
-- **(a)** until the ninetieth day after the coming into force of this Act; or
-- **(b)** if, on or before the day referred to in paragraph (a), the person has applied to the Board for a licence to continue that use or deposit, until the day on which that application is finally disposed of by the Board.
+**47** [Repealed, 2014, c. 2, s. 66]
 
 
 
-
-**Applications to have priority**
-
-**48** The Board shall deal with applications referred to in paragraphs 46(3)(b) and 47(b) in priority to all other applications received by it.
+**48** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Consequential Amendment
+> [Repealed, 2014, c. 2, s. 66]
+
 
 
 
 **1988, c. 12**
 
 ### Northern Canada Power Commission (share issuance and sale authorization) Act
+> [Repealed, 2014, c. 2, s. 66]
 
 
-**49** [Amendment]
+
+**49** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ### Other references to Northern Inland Waters Act
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Other references to Northern Inland Waters Act**
-
-**50** A reference to the Northern Inland Waters Act in any Act, regulation, document, instrument, proclamation or order in council shall be deemed, unless the context otherwise requires, to be a reference to
-- **(a)** this Act,
-- **(b)** the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md),
-- **(c)** this Act and the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md), or
-- **(d)** this Act or the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md),
-whichever is appropriate.
+**50** [Repealed, 2014, c. 2, s. 66]
 
 
 
 
 ## Coming into Force
+> [Repealed, 2014, c. 2, s. 66]
 
 
 
-**Coming into force**
-
-***51** This Act shall come into force on the day fixed pursuant to section 53 of Bill C-52 entitled An Act respecting water resources in the Yukon Territory, as introduced on December 12, 1991, for the coming into force of that Act.
-
-<a name='N-27.3_en_1'><sup>*</sup></a>: [Note: Act in force June 15, 1993, *see* SI/93-88.]<br />
+**51** [Repealed, 2014, c. 2, s. 66]
 
 
