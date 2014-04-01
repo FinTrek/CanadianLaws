@@ -643,30 +643,25 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article ainsi qu’à l’article 19.
 
-***procureur général*** Selon la province, l’une des personnes suivantes :
+***procureur général*** Selon la province, l’une des personnes suivantes :
+- **a)** le membre du Conseil exécutif du Yukon désigné par le commissaire du Yukon;
+- **b)** le membre du Conseil exécutif des Territoires du Nord-Ouest désigné par le commissaire de ces territoires;
+- **b.1)** le membre du Conseil exécutif du Nunavut désigné par le commissaire du territoire;
+- **c)** le procureur général de toute autre province.
 
-- **a)
-** le membre du Conseil exécutif du Yukon désigné par le commissaire du Yukon;
-- **b)
-** le membre du Conseil des Territoires du Nord-Ouest désigné par le commissaire de ces territoires;
-- **b.1)
-** le membre du Conseil exécutif du Nunavut désigné par le commissaire du territoire;
-- **c)
-** le procureur général de toute autre province.
+La présente définition s’applique également à toute personne que le membre du conseil ou le procureur général autorise par écrit à le représenter dans l’exercice des fonctions prévues par le présent article ou l’article 19. (*Attorney General*)
 
-La présente définition s’applique également à toute personne que le membre du conseil ou le procureur général autorise par écrit à le représenter dans l’exercice des fonctions prévues par le présent article ou l’article 19.
-
-***ordonnance conditionnelle*** Ordonnance rendue en vertu du paragraphe (2).
+***ordonnance conditionnelle*** Ordonnance rendue en vertu du paragraphe (2). (*provisional order*)
 
 **Ordonnance conditionnelle**
 
-- **(2)** Par dérogation à l’alinéa 5(1)a) ou au paragraphe 17(1), lorsqu’une demande est présentée devant le tribunal d’une province en vue d’une ordonnance modificative d’une ordonnance alimentaire, le tribunal rend par défaut, avec ou sans préavis au défendeur, une ordonnance modificative conditionnelle, qui n’est exécutoire que sur confirmation dans le cadre de la procédure prévue à l’article 19 et que selon les modalités de l’ordonnance de confirmation. Cette ordonnance conditionnelle est rendue dans les cas suivants :
+- **(2)** Par dérogation à l’alinéa 5(1)a) ou au paragraphe 17(1), lorsqu’une demande est présentée devant le tribunal d’une province en vue d’une ordonnance modificative d’une ordonnance alimentaire, le tribunal rend par défaut, avec ou sans préavis au défendeur, une ordonnance modificative conditionnelle, qui n’est exécutoire que sur confirmation dans le cadre de la procédure prévue à l’article 19 et que selon les modalités de l’ordonnance de confirmation. Cette ordonnance conditionnelle est rendue dans les cas suivants :
 	- **a)** le défendeur réside habituellement dans une autre province et ne reconnaît pas la compétence du tribunal, ou encore les parties ne s’entendent pas pour procéder selon l’article 17.1;
 	- **b)** dans les circonstances de l’espèce, le tribunal estime que les questions en cause peuvent être convenablement réglées en procédant conformément au présent article et à l’article 19.
 
 **Communication**
 
-- **(3)** Le tribunal d’une province qui rend une ordonnance conditionnelle envoie les documents suivants au procureur général de la province :
+- **(3)** Le tribunal d’une province qui rend une ordonnance conditionnelle envoie les documents suivants au procureur général de la province :
 	- **a)** trois copies de l’ordonnance, certifiées conformes par un juge ou un fonctionnaire du tribunal;
 	- **b)** un document certifié conforme ou attesté sous serment qui comporte l’énoncé ou un résumé des éléments de preuve soumis au tribunal;
 	- **c)** une déclaration qui donne tout renseignement dont il dispose au sujet de l’identité du défendeur, de ses revenus, de ses biens ainsi que du lieu où il se trouve.
@@ -682,7 +677,7 @@ La présente définition s’applique également à toute personne que le membre
 **Communication**
 
 - **(6)** Après avoir recueilli ces éléments de preuve, le tribunal transmet au tribunal qui lui a renvoyé l’affaire un document certifié conforme ou attesté sous serment qui comporte l’énoncé ou un résumé de ces éléments assorti des recommandations qu’il juge indiquées.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 18; 1993, ch. 8, art. 3, ch. 28, art. 78; 2002, ch. 7, art. 159
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 18; 1993, ch. 8, art. 3, ch. 28, art. 78; 2002, ch. 7, art. 159; 2014, ch. 2, art. 33
 
 
 
@@ -786,22 +781,17 @@ La présente définition s’applique également à toute personne que le membre
 
 **20.1** 
 
-- **(1)** La créance alimentaire octroyée par une ordonnance peut être cédée :
-	- **a)
-** à un ministre fédéral désigné par le gouverneur en conseil;
-	- **b)
-** à un ministre d’une province ou à une administration qui est située dans celle-ci, désigné par le lieutenant-gouverneur en conseil de la province;
-	- **c)
-** à un député de l'Assemblée législative du Yukon ou à une administration située dans ce territoire, désigné par le commissaire du Yukon;
-	- **d)
-** à un membre du Conseil des Territoires du Nord-Ouest ou à une administration qui est située dans ces territoires, désigné par le commissaire de ces territoires;
-	- **e)
-** à un membre de l’Assemblée législative du Nunavut ou à une administration qui est située dans ce territoire, désigné par le commissaire de ce territoire.
+- **(1)** La créance alimentaire octroyée par une ordonnance peut être cédée :
+	- **a)** à un ministre fédéral désigné par le gouverneur en conseil;
+	- **b)** à un ministre d’une province ou à une administration qui est située dans celle-ci, désigné par le lieutenant-gouverneur en conseil de la province;
+	- **c)** à un député de l’Assemblée législative du Yukon ou à une administration située dans ce territoire, désigné par le commissaire du Yukon;
+	- **d)** à un député de l’Assemblée législative des Territoires du Nord-Ouest ou à une administration qui est située dans ces territoires, désigné par le commissaire de ces territoires;
+	- **e)** à un membre de l’Assemblée législative du Nunavut ou à une administration qui est située dans ce territoire, désigné par le commissaire de ce territoire.
 
 **Droits**
 
 - **(2)** Le ministre, le membre ou l’administration à qui la créance alimentaire octroyée par une ordonnance a été cédée a droit aux montants dus au titre de l’ordonnance et a le droit, dans le cadre des procédures relatives à la modification, l’annulation, la suspension ou l’exécution de l’ordonnance, d’en être avisé ou d’y participer au même titre que la personne qui aurait autrement eu droit à ces montants.
-> 1993, ch. 28, art. 78; 1997, ch. 1, art. 9; 1998, ch. 15, art. 23; 2002, ch. 7, art. 160
+> 1993, ch. 28, art. 78; 1997, ch. 1, art. 9; 1998, ch. 15, art. 23; 2002, ch. 7, art. 160; 2014, ch. 2, art. 34
 
 
 
