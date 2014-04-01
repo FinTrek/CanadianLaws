@@ -62,28 +62,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***droit*** Au sens objectif :
+***droit*** Au sens objectif :
+- **a)** s’agissant du droit fédéral, les lois fédérales et les règlements au sens du paragraphe 2(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) ainsi que les autres règles de droit qui relèvent de la compétence du Parlement. Sont toutefois exclues les lois de la Législature du Yukon, de la Législature des Territoires du Nord-Ouest ou de la Législature du Nunavut;
+- **b)** s’agissant du droit d’une province, les lois de celle-ci et les textes d’application en vigueur sous le régime de ces lois, ainsi que les autres règles de droit relevant de la compétence de la province et en vigueur dans celle-ci. (*law**federal laws*)
 
-- **a)
-** s'agissant du droit fédéral, les lois fédérales et les règlements au sens du paragraphe 2(1) de la 
-Loi d'interprétation, ainsi que les autres règles de droit qui relèvent de la compétence du Parlement. Sont toutefois exclues de la présente définition les ordonnances au sens de la 
-[Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md), ainsi que les lois de la Législature du Yukon ou de celle du Nunavut;
-- **b)
-** s’agissant du droit d’une province, les lois de celle-ci et les textes d’application en vigueur sous le régime de ces lois, ainsi que les autres règles de droit relevant de la compétence de la province et en vigueur dans celle-ci.
+***île artificielle*** Toute adjonction d’origine humaine aux fonds marins ou à un élément de ces fonds, émergée ou immergée. (*artificial island*)
 
-***île artificielle*** Toute adjonction d’origine humaine aux fonds marins ou à un élément de ces fonds, émergée ou immergée.
+***ministère*** Le ministère des Pêches et des Océans. (*Department*)
 
-***ministère*** Le ministère des Pêches et des Océans.
+***ministre*** Le ministre des Pêches et des Océans. (*Minister*)
 
-***ministre*** Le ministre des Pêches et des Océans.
+***navire*** Tout genre de navire, bateau, embarcation ou bâtiment conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion. (*ship*)
 
-***navire*** Tout genre de navire, bateau, embarcation ou bâtiment conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion.
-
-***ouvrages en mer*** Sont compris parmi les ouvrages en mer :
+***ouvrages en mer*** Sont compris parmi les ouvrages en mer :
 - **a)** les navires, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
 - **b)** les unités de forage en mer, les stations de pompage, les plates-formes de chargement, de production ou d’atterrissage, les installations sous-marines, les unités de logement ou d’entreposage, les dragues, les grues flottantes, les barges, les unités d’installation de canalisations et les canalisations, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
-- **c)** les autres ouvrages désignés — ou qui font partie d’une catégorie désignée — sous le régime de l’alinéa 26(1)a).
-> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35; 2002, ch. 7, art. 223.
+- **c)** les autres ouvrages désignés — ou qui font partie d’une catégorie désignée — sous le régime de l’alinéa 26(1)a). (*marine installation or structure*)
+> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35; 2002, ch. 7, art. 223; 2014, ch. 2, art. 46.
 
 
 
