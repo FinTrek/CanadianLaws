@@ -68,13 +68,9 @@ Assented to on 14 December 2012
 
 **Exemption from certain Acts and regulations**
 
-**3** 
+**3** The [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Navigation Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-22.md), the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md), section 6 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md) and the [Port Authorities Operations Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/55.md) do not apply to the construction of the bridge, parkway or any related work.
+> 2012, c. 31, ss. 179 “3”, 183
 
-- **(1)** The [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the Navigable Waters Protection Act, the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md), section 6 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md) and the [Port Authorities Operations Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/55.md) do not apply to the construction of the bridge, parkway or any related work.
-
-**Authorizations deemed issued**
-
-- **(2)** After completion of the construction of the bridge, parkway or any related work, as the case may be, any authorization that would have been required for its construction but for subsection (1), is deemed to have been issued for the purpose of the application of the Acts and regulations referred to in subsection (1).
 
 
 
