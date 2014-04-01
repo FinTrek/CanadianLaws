@@ -64,7 +64,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***collectivité tlicho*** Collectivité à l’égard de laquelle une administration communautaire est constituée conformément au chapitre 8 de l’accord tlicho.
 
-***dépôt de déchets*** Dépôt de déchets visé au paragraphe 9(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md).
+***dépôt de déchets*** Dépôt de déchets dans des eaux de la vallée du Mackenzie ainsi qu’en tout autre endroit dans des conditions qui permettent à ces déchets ou à ceux résultant de leur dépôt d’atteindre ces eaux.
 
 ***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
 - **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
@@ -95,7 +95,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***région désignée*** La région décrite à l’annexe A de l’accord gwich’in ou de l’accord du Sahtu.
 
-***règle de droit territoriale*** Ordonnance des Territoires du Nord-Ouest ou règlement pris en vertu d’une telle ordonnance.
+***règle de droit territoriale*** Loi de la Législature des Territoires du Nord-Ouest.
 
 ***ressources patrimoniales*** Les sites archéologiques ou historiques, les lieux de sépulture, les artéfacts et autres objets de valeur historique, culturelle ou religieuse, ainsi que les documents se rapportant à l’histoire ou à la culture.
 
@@ -106,7 +106,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada.
 
 ***Wekeezhii*** La zone décrite à la partie 2 de l’annexe du chapitre 1 de l’accord tlicho.
-> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15.
+> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15; 2014, ch. 2, art. 113.
 
 
 
@@ -213,7 +213,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation de Sa Majesté**
 
-**7** La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+**7** La présente loi lie Sa Majesté du chef du Canada ou d’une province mais n’a pas pour effet d’imposer à Sa Majesté du chef du Canada le paiement des droits fixés par règlement pris en vertu de l’alinéa 90.3(1)k) ou du sous-alinéa 90.3(2)a)(i).
+> 1998, ch. 25, art. 7; 2014, ch. 2, art. 116.
+
+
+
+
+
+**Dévolution**
+
+**7.1** Sous réserve des droits, pouvoirs ou privilèges accordés sous le régime de la [Loi sur les forces hydrauliques du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-4.md) — ou sauvegardés par cette loi —, la propriété et le droit d’utilisation des eaux et de leur énergie motrice sont dévolus à Sa Majesté du chef du Canada.
+> 2014, ch. 2, art. 116.
+
+
+
+
+
+**Obligation de respecter d’autres exigences**
+
+**7.2** Sauf dans la mesure autorisée par une autre loi, ses règlements ou un décret ou arrêté pris sous son régime, il est entendu que la présente loi, ses règlements ou un permis d’utilisation des eaux ou permis d’utilisation des terres, au sens de l’article 51, n’ont pas pour effet d’autoriser une personne à contrevenir à cette autre loi ou aux règlements, décrets ou arrêtés pris sous son régime, ou à ne pas s’y conformer.
+> 2014, ch. 2, art. 116.
+
 
 
 
@@ -434,10 +454,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Enquêtes**
+**Audiences**
 
-**24** L’office peut tenir, outre les enquêtes dont la tenue est prévue par la présente loi, celles qu’il estime utiles à l’exercice de ses attributions.
-> 1998, ch. 25, art. 24; 2005, ch. 1, art. 26.
+**24** L’office peut tenir, outre les audiences dont la tenue est prévue par la présente loi, celles qu’il estime utiles à l’exercice de ses attributions.
+> 1998, ch. 25, art. 24; 2005, ch. 1, art. 26; 2014, ch. 2, art. 125(F).
 
 
 
@@ -445,14 +465,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Coordination des activités de l’office**
 
-**24.1** L’office veille à coordonner ses activités, y compris ses enquêtes, avec celles des organismes suivants :
+**24.1** L’office veille à coordonner ses activités, y compris ses audiences, avec celles des organismes suivants :
 - **a)** les autres offices;
 - **b)** les ministères et organismes fédéraux responsables de la gestion des parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou des terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
 - **c)** les comités de gestion de parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) constitués en vertu d’un accord de revendication;
 - **d)** les comités de gestion de zones protégées au sens d’un accord de revendication ou les organismes semblables;
 - **e)** les offices des ressources renouvelables constitués en vertu d’un accord de revendication;
 - **f)** les organismes d’aménagement territorial constitués pour le Wekeezhii ou une partie de celui-ci.
-> 2005, ch. 1, art. 26.
+> 2005, ch. 1, art. 26; 2014, ch. 2, art. 126(F).
 
 
 
@@ -558,9 +578,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Toutefois, dès soit la réception par l’office de ces instructions, soit l’agrément du plan d’aménagement ou de ses modifications, soit encore la prise des autres textes visés au paragraphe (1), un avis indiquant que des exemplaires sont mis à la disposition du public au siège de l’office et aux autres endroits que celui-ci estime appropriés doit être publié dans la Gazette du Canada.
 
-**Permis d’utilisation des terres**
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** Il est entendu que les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+- **(3)** Il est entendu que les permis d’utilisation des eaux et les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, dans sa version édictée par le paragraphe 128(3) de la Loi sur le transfert de responsabilités aux Territoires du Nord-Ouest, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
 > 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128.
 
 
@@ -714,9 +734,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’office est tenu de publier, dans la région désignée et dans toute région désignée avoisinante de la vallée du Mackenzie, un avis invitant les intéressés à examiner, aux lieux, dates et heures qui y sont mentionnés, l’ébauche du plan d’aménagement qu’il entend adopter.
 
-**Enquêtes publiques**
+**Audiences publiques**
 
-- **(2)** L’office peut tenir des enquêtes publiques au sujet du plan qu’il entend adopter; il publie, dans la région désignée et dans toute région désignée avoisinante de la vallée du Mackenzie, un avis indiquant les lieux, dates et heures des séances ainsi que la procédure qui y sera suivie.
+- **(2)** L’office peut tenir des audiences publiques au sujet du plan qu’il entend adopter; il publie, dans la région désignée et dans toute région désignée avoisinante de la vallée du Mackenzie, un avis indiquant les lieux, dates et heures des séances ainsi que la procédure qui y sera suivie.
+> 1998, ch. 25, art. 42; 2014, ch. 2, art. 130(F).
+
 
 
 
@@ -888,22 +910,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **51** Les définitions qui suivent s’appliquent à la présente partie.
 
-***autorité de gestion des eaux*** Office ou autre autorité ayant compétence en matière d’utilisation des eaux ou de dépôt de déchets dans toute partie des Territoires du Nord-Ouest ou du Nunavut.
+***autorité de gestion des eaux*** Office ou autre autorité ayant compétence en matière d’utilisation des eaux ou de dépôt de déchets dans toute partie des Territoires du Nord-Ouest ou du Nunavut. (*water authority*)
 
-***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide.
+***décharge publique*** S’entend au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013. (*waste site*)
 
-***office*** L’Office gwich’in des terres et des eaux, l’Office des terres et des eaux du Sahtu ou l’Office des terres et des eaux du Wekeezhii constitués respectivement par les articles 54, 56 et 57.1.
+***déchet*** Toute substance qui, si elle était ajoutée à l’eau, altérerait ou contribuerait à altérer la qualité de celle-ci au point d’en rendre l’utilisation nocive pour l’être humain ou pour les animaux et les végétaux, ou toute eau qui contient une substance en une quantité ou concentration telle — ou qui, à partir de son état naturel, a été traitée ou transformée par la chaleur ou d’autres moyens d’une façon telle — que, si elle était ajoutée à une autre eau, elle aurait un tel effet. Sont notamment comprises dans la présente définition :
+- **a)** toute eau ou substance qui, pour l’application du paragraphe 2(2) la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), est assimilée à un déchet;
+- **b)** les substances ou catégories de substances désignées par règlement pris en vertu du sous-alinéa 90.3(1)b)(i);
+- **c)** les eaux qui contiennent une substance ou catégorie de substances en une quantité ou concentration au moins égale à celle qui est fixée par règlement pris en vertu du sous-alinéa 90.3(1)b)(ii);
+- **d)** les eaux soumises aux traitements ou transformations dont le mode est prescrit par règlement pris en vertu du sous-alinéa 90.3(1)b)(iii). (*waste*)
 
-***permis d’utilisation des eaux*** Permis délivré par l’office conformément à la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et à la présente partie et visant l’utilisation des eaux ou le dépôt de déchets, ou les deux.
+***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide. (*waters*)
 
-***permis d’utilisation des terres*** Permis délivré par l’office sous le régime de la présente partie et visant l’utilisation des terres.
+***entreprise en cause*** Entreprise visée par un permis d’utilisation des eaux. (*appurtenant undertaking*)
 
-***terres*** La surface du sol.
+***office*** L’Office gwich’in des terres et des eaux, l’Office des terres et des eaux du Sahtu ou l’Office des terres et des eaux du Wekeezhii constitués respectivement par les articles 54, 56 et 57.1. (*board*)
 
-***terres d’une première nation*** Outre les terres désignées de la première nation, les terres situées dans le territoire d’une administration locale et désignées comme « terres municipales » par l’accord de revendication pertinent.
+***permis d’utilisation des eaux***
+- **a)** S’agissant d’une zone fédérale, permis de type A ou de type B délivré par l’office sous le régime de la présente partie et visant l’utilisation des eaux ou le dépôt de déchets, ou les deux;
+- **b)** s’agissant de terres situées à l’extérieur d’une zone fédérale, permis de type A ou de type B — ou autre permis visant l’utilisation des eaux ou le dépôt de déchets, ou les deux, —   délivrés par l’office sous le régime de la présente partie en conformité avec les règles de droit territorial. (*licence*)
 
-***zone de gestion*** La zone à l’égard de laquelle l’office a été constitué, à savoir la région décrite à l’annexe A de l’accord gwich’in dans le cas de l’Office gwich’in des terres et des eaux ou décrite à l’annexe A de l’accord du Sahtu dans le cas de l’Office des terres et des eaux du Sahtu et le Wekeezhii dans le cas de l’Office des terres et des eaux du Wekeezhii.
-> 1998, ch. 15, art. 48, ch. 25, art. 51; 2005, ch. 1, art. 29.
+***permis d’utilisation des terres*** Permis délivré par l’office sous le régime de la présente partie et visant l’utilisation des terres. (*permit*)
+
+***personne autorisée à déposer des déchets*** Personne qui dépose des déchets sans permis d’utilisation des eaux mais en conformité avec les règlements pris en vertu de l’alinéa 90.3(1)n). (*authorized waste depositor*)
+
+***terres*** La surface du sol. (*land*)
+
+***terres d’une première nation*** Outre les terres désignées de la première nation, les terres situées dans le territoire d’une administration locale et désignées comme « terres municipales » par l’accord de revendication pertinent. (*first nation lands*)
+
+***usager agréé*** Personne qui utilise les eaux sans permis d’utilisation des eaux mais en conformité avec les règlements pris en vertu de l’alinéa 90.3(1)m). (*authorized user*)
+
+***usager domestique*** Personne qui utilise les eaux pour les besoins du ménage, notamment les soins d’hygiène et la prévention des incendies, pour l’abreuvage des animaux domestiques ou pour l’irrigation d’un jardin attenant à une maison d’habitation et ne servant habituellement pas à la culture de produits pour le marché. (*domestic user*)
+
+***usager ordinaire*** Personne qui utilise les eaux pour subvenir à ses besoins ou se constituer un revenu, sans toutefois les détourner, les obstruer ni modifier leur cours, leurs rives ou leur lit. (*instream user*)
+
+***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature, notamment le détournement ou le barrage des eaux, toute modification de leur cours ou toute modification des rives ou du lit d’un cours d’eau, d’un lac ou autre plan d’eau, qu’il soit saisonnier ou non, mais à l’exclusion des utilisations liées aux activités de navigation marchande régies par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*use*)
+
+***zone de gestion*** La zone à l’égard de laquelle l’office a été constitué, à savoir la région décrite à l’annexe A de l’accord gwich’in dans le cas de l’Office gwich’in des terres et des eaux ou décrite à l’annexe A de l’accord du Sahtu dans le cas de l’Office des terres et des eaux du Sahtu et le Wekeezhii dans le cas de l’Office des terres et des eaux du Wekeezhii. (*management area*)
+
+***zone de gestion des eaux*** Zone de gestion des eaux constituée par règlement du gouverneur en conseil pris en vertu du sous-alinéa 90.3(1)a)(i). (*water management area*)
+
+***zone fédérale*** S’entend de toute terre dont un ministre du gouvernement du Canada a la gestion et la maîtrise, ainsi que de toute terre sur laquelle est située une décharge publique dont la gestion, au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, relève du gouvernement du Canada. (*federal area*)
+> 1998, ch. 15, art. 48, ch. 25, art. 51; 2005, ch. 1, art. 29; 2014, ch. 2, art. 132.
 
 
 
@@ -941,6 +989,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(3)** Ces précisions sont consignées et mises à la disposition du public au siège de l’office et à celui de l’administration locale.
+
+
+
+
+**Zone fédérale**
+
+**53.1** 
+
+- **(1)** Dès que la gestion, au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, d’une décharge publique relève du gouvernement du Canada, le ministre fédéral informe l’office, par avis écrit, de la terre sur laquelle la décharge publique se trouve.
+
+**Zone fédérale**
+
+- **(2)** Dès que la gestion, au sens de l’Entente sur le transfert des responsabilités liées aux terres et aux ressources des Territoires du Nord-Ouest, conclue le 25 juin 2013, d’une décharge publique cesse de relever du gouvernement du Canada, le ministre fédéral en avise l’office par écrit.
+> 2014, ch. 2, art. 135.
+
 
 
 
@@ -1074,46 +1137,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Compétence sur les eaux et le dépôt de déchets**
+**Compétence sur les eaux et le dépôt de déchets — zones fédérales**
 
 **60** 
 
-- **(1)** L’office a compétence, dans sa zone de gestion, en ce qui touche toute forme d’utilisation des eaux ou de dépôt de déchets pour laquelle un permis est nécessaire aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et peut :
-	- **a)** en conformité avec cette loi, délivrer, modifier, renouveler ou annuler tout permis d’utilisation des eaux, ou en autoriser la cession;
-	- **b)** exercer toute autre attribution conférée à l’Office des eaux des Territoires du Nord-Ouest par cette loi.
-À cet égard, la mention, dans cette loi, de l’Office des eaux des Territoires du Nord-Ouest vaut mention de l’office.
+- **(1)** L’office a compétence, dans sa zone de gestion, en ce qui touche toute forme d’utilisation des eaux ou de dépôt de déchets dans des zones fédérales pour laquelle un permis d’utilisation des eaux est nécessaire sous le régime de la présente partie. Il peut, à cet égard et en conformité avec les règlements, délivrer, modifier, renouveler ou annuler un tel permis d’utilisation des eaux ou en autoriser la cession.
+
+**Compétence — terres situées à l’extérieur d’une zone fédérale**
+
+- **(1.1)** L’office a compétence, dans sa zone de gestion, en ce qui touche toute forme d’utilisation des eaux ou de dépôt de déchets sur les terres situées à l’extérieur d’une zone fédérale pour laquelle un permis d’utilisation des eaux est nécessaire sous le régime des règles de droit territoriales. Il peut, à cet égard, en conformité avec ces règles :
+	- **a)** délivrer, modifier, renouveler, suspendre ou annuler un tel permis d’utilisation des eaux ou en autoriser la cession;
+	- **b)** assortir un tel permis des conditions qu’il juge indiquées;
+	- **c)** déterminer la durée d’un tel permis;
+	- **d)** déterminer l’indemnité appropriée à payer par le demandeur d’un tel permis — ou, dans le cas de sa modification ou de son renouvellement, le titulaire de celui-ci — aux personnes à qui nuirait l’utilisation des eaux ou le dépôt de déchets projetés;
+	- **e)** exiger du demandeur ou du titulaire d’un tel permis, ou de son éventuel cessionnaire, qu’il fournisse une garantie et qu’il la maintienne au même montant;
+	- **f)** sur demande de toute personne visée par un ordre donné par un inspecteur, réviser l’ordre et le confirmer, le modifier ou l’annuler.
 
 **Pouvoir de suspension**
 
-- **(2)** L’office peut en outre suspendre tout permis d’utilisation des eaux en cas de violation, par le titulaire, des dispositions de la présente partie, de celles de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou des conditions dont ce permis est assorti et ce, pour la période qu’il fixe ou jusqu’à ce que les conditions qu’il précise soient remplies.
-
-**Activités à l’extérieur de la zone de gestion**
-
-- **(3)** Dans les cas d’utilisation des eaux ou de dépôt de déchets, dans une zone de gestion, ayant des répercussions ailleurs dans les Territoires du Nord-Ouest ou au Nunavut, les paragraphes 14(4) et (5) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) s’appliquent en ce qui touche la protection qui y est accordée aux droits de titulaires de permis ou d’autres personnes dans la région où se font sentir ces répercussions.
-
-**Terres inuit**
-
-- **(3.1)** Les articles 15.1 à 15.5 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) s’appliquent à l’office en ce qui concerne les terres inuit visées à ces articles, même si ces terres sont situées à l’extérieur de la vallée du Mackenzie.
-
-**Période exclue des délais**
-
-- **(3.2)** Dans le cas où un permis d’utilisation des eaux concerne un projet de développement qui fait l’objet d’une évaluation environnementale, d’une étude d’impact ou d’un examen des répercussions environnementales qui tient lieu d’étude d’impact effectué sous le régime de la partie 5, la période prise pour compléter l’évaluation, l’étude ou l’examen n’est pas comprise dans le calcul des délais prévus aux paragraphes 24.2(1) et 24.3(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou de leur prolongation.
-
-**Suspension des délais**
-
-- **(3.3)** L’office peut suspendre les délais prévus aux paragraphes 24.2(1) et 24.3(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou leur prolongation, tant que :
-	- **a)** dans le cas où l’office décide que le demandeur est tenu de payer une indemnité — ou qu’il est tenu de conclure un accord d’indemnisation — au titre du paragraphe 14(4) de cette loi, le demandeur n’a pas prouvé à l’office qu’il a payé cette indemnité ou qu’il la paiera ou qu’il a conclu l’accord, selon le cas;
-	- **b)** dans le cas où l’office ne peut délivrer un permis qu’en conformité avec le paragraphe 15.1(1) de cette loi, le demandeur n’a pas conclu un accord d’indemnisation en application de l’alinéa 15.1(1)a) de cette loi ou qu’une indemnité n’a pas été fixée en vertu de l’alinéa 15.1(1)b) de cette loi, selon le cas;
-	- **c)** dans le cas où l’office décide que le demandeur est tenu de conclure un accord d’indemnisation au titre des articles 77 ou 79.1, le demandeur ne lui a pas prouvé qu’il l’a conclu ou l’office n’a pas fixé l’indemnité prévue aux articles 79 ou 79.3.
-
-**[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
-
-- **(4)** Malgré le paragraphe (1), les dispositions ci-après de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’appliquent pas aux zones de gestion : les articles 7.2, 7.3, 10 à 13, 18.1, 20 et 22, les paragraphes 23(1) et (2) — en ce qui concerne l’obligation de publication dans la Gazette du Canada —, l’article 24, les paragraphes 24.3(2) et (3), les articles 24.6, 26 — sauf en ce qui concerne les permis de type A au sens de cette loi — et 27 à 28.2, le paragraphe 37(2) ainsi que les articles 44.01 à 44.3.
-
-**[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
-
-- **(5)** De même, malgré le paragraphe (1), l’article 31 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’applique pas en ce qui touche les terres d’une première nation ou les terres tlichos.
-> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34; 2014, ch. 2, art. 110 et 138.
+- **(2)** L’office peut en outre suspendre tout permis d’utilisation des eaux visant une zone fédérale en cas de contravention, par le titulaire, des dispositions de la présente partie ou des conditions dont ce permis est assorti, et ce pour la période qu’il fixe ou jusqu’à ce que les conditions qu’il précise soient remplies.
+> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34; 2014, ch. 2, art. 110, 138 et 139.
 
 
 
@@ -1197,9 +1240,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Principes directeurs et directives**
+**Principes directeurs et directives : permis d’utilisation des terres**
 
-**65** L’office peut, sous réserve des règlements, établir des principes directeurs et des directives concernant les permis et autorisations, notamment en ce qui touche leur délivrance sous le régime de la présente partie.
+**65** 
+
+- **(1)** L’office peut, sous réserve des règlements, établir des principes directeurs et des directives concernant les permis d’utilisation des terres et autres autorisations, notamment en ce qui touche leur délivrance sous le régime de la présente partie.
+
+**Principes directeurs et directives : permis d’utilisation des eaux**
+
+- **(2)** L’office peut, sous réserve des règlements et des règles de droit territoriales, établir des principes directeurs et des directives concernant les permis d’utilisation des eaux, notamment en ce qui touche leur délivrance sous le régime de la présente partie.
+> 1998, ch. 25, art. 65; 2014, ch. 2, art. 140.
+
 
 
 
@@ -1213,11 +1264,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Caractère définitif**
 
-**67** Les décisions et ordonnances de l’office sont, sous réserve des articles 32 et 81, définitives.
+**67** Sous réserve des articles 32 et 72.13 ou de toute exigence prévue par les règles de droit territoriales en matière d’agrément à l’égard de la délivrance, du renouvellement, de la modification ou de l’annulation des permis d’utilisation des eaux, les décisions et ordonnances de l’office sont définitives.
+> 1998, ch. 25, art. 67; 2014, ch. 2, art. 141.
 
 
 
-**68** [Abrogé, 2005, ch. 1, art. 38]
+
+
+**Registre public**
+
+**68** 
+
+- **(1)** L’office tient à son siège, en la forme réglementaire, un registre accessible au public et dans lequel sont portés, pour chaque demande qu’il reçoit et pour chaque permis d’utilisation des terres et permis d’utilisation des eaux qu’il délivre, les renseignements prévus par les règlements.
+
+**Consultation**
+
+- **(2)** Toute personne peut, sur paiement des droits réglementaires, consulter le registre pendant les heures de bureau de l’office.
+
+**Copies d’extraits du registre**
+
+- **(3)** L’office fournit, sur demande et sur paiement des droits réglementaires, copie de renseignements contenus dans le registre.
+> 1998, ch. 25, art. 68; 2005, ch. 1, art. 38; 2014, ch. 2, art. 141.
+
 
 
 
@@ -1230,8 +1298,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69** L’office doit, avant de délivrer un permis d’utilisation des terres, consulter les personnes suivantes au sujet des conditions dont celui-ci doit être assorti en ce qui concerne la protection de l’environnement :
 - **a)** dans les cas de terres dont le commissaire des Territoires du Nord-Ouest a la gestion et la maîtrise, le ministre territorial;
-- **b)** dans les cas d’autres terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, le ministre chargé de la gestion de celles-ci;
+- **b)** dans les cas de terres dont un ministre du gouvernement du Canada a la gestion et la maîtrise, ce ministre;
 - **c)** dans les autres cas, le propriétaire des terres.
+> 1998, ch. 25, art. 69; 2014, ch. 2, art. 142.
+
 
 
 
@@ -1268,19 +1338,589 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Registre public**
+### Règles propres à l’utilisation des eaux et au dépôt de déchets
+
+
+
+#### Interdictions
+
+
+
+**Utilisation des eaux**
 
 **72** 
 
-- **(1)** L’office tient à son siège, en la forme réglementaire, un registre accessible au public et dans lequel sont portés, pour chaque demande qu’il reçoit et pour chaque permis d’utilisation des terres, les renseignements prévus par les règlements.
+- **(1)** Sauf dans la mesure autorisée par la [Loi sur les forces hydrauliques du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-4.md) et sous réserve du paragraphe (2), il est interdit, dans une zone fédérale, d’utiliser — ou de permettre que soient utilisées — les eaux d’une zone de gestion des eaux contrairement aux conditions d’un permis d’utilisation des eaux ou sans l’autorisation réglementaire visée à l’alinéa 90.3(1)m).
 
-**Consultation**
+**Sauvegarde de certains droits d’utilisation**
 
-- **(2)** Toute personne peut, sur paiement des droits réglementaires, consulter le registre pendant les heures de bureau de l’office.
+- **(2)** Le paragraphe (1) ne s’applique pas à l’utilisation des eaux :
+	- **a)** par un usager domestique;
+	- **b)** par un usager ordinaire;
+	- **c)** en vue d’éteindre un incendie ou, en cas d’urgence, de contenir ou de prévenir une inondation.
 
-**Copies d’extraits du registre**
+**Obligations dans certains cas**
 
-- **(3)** L’office fournit, sur demande et sur paiement des droits réglementaires, copie des renseignements contenus dans le registre.
+- **(3)** Tout détournement des eaux éventuellement effectué dans les cas visés à l’alinéa (2)c) doit prendre fin — et, dans la mesure du possible, le cours original être rétabli — dès qu’il n’a plus de raison d’être.
+> 1998, ch. 25, art. 72; 2014, ch. 2, art. 145.
+
+
+
+
+
+**Dépôt des déchets**
+
+**72.01** 
+
+- **(1)** Sauf autorisation par règlement pris en vertu de l’alinéa 90.3(1)n) ou aux conditions prévues dans un permis d’utilisation des eaux, il est interdit, sous réserve du paragraphe (2), dans une zone fédérale, de déposer des déchets — ou d’en permettre le dépôt — dans des eaux d’une zone de gestion des eaux ainsi qu’en tout autre endroit dans des conditions qui permettent à ces déchets ou à ceux résultant de leur dépôt d’atteindre ces eaux.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas au dépôt de déchets dans des eaux comprises dans une zone de gestion qualitative des eaux désignée en application de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md) si, étant donné la nature et la quantité des déchets déposés et les conditions dans lesquelles s’effectue le dépôt, celui-ci est prescrit par règlement d’application de l’alinéa 18(2)a) de cette loi relativement à cette zone.
+
+**Déclaration des dépôts illégaux**
+
+- **(3)** En cas de dépôt de déchets contrevenant au présent article, quiconque a la propriété ou la maîtrise des déchets, ou a contribué au dépôt ou l’a causé, doit signaler sans délai le fait, conformément aux éventuels règlements pris en vertu de l’alinéa 90.3(1)o), à la personne ou autorité désignée en application des règlements pris en vertu de cet alinéa ou, à défaut, à un inspecteur désigné en application du paragraphe 84(1).
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Exception — collectivités tlichos**
+
+**72.02** Les articles 72 et 72.01 ne s’appliquent pas à l’égard de l’utilisation des eaux ou du dépôt de déchets dans une collectivité tlicho si un règlement municipal établi par l’administration locale de cette collectivité prévoit, à l’égard du type d’utilisation ou de dépôt projeté, qu’il n’est pas requis d’obtenir un permis d’utilisation des eaux.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+#### Permis d’utilisation des eaux
+
+
+
+**Délivrance**
+
+**72.03** 
+
+- **(1)** Sous réserve des autres dispositions du présent article, l’office peut délivrer, en conformité avec les critères énoncés dans les règlements pris en vertu de l’alinéa 90.3(1)c), des permis d’utilisation des eaux de type A ou de type B autorisant, aux conditions qui y sont fixées et sur paiement des droits d’utilisation fixés par règlement pris en vertu de l’alinéa 90.3(1)k), les demandeurs à utiliser les eaux ou à déposer des déchets, ou les deux, dans une zone fédérale, aux dates et de la manière prévues soit par règlement pris en vertu de l’alinéa 90.3(1)l) soit, à défaut, par le permis, pour l’exploitation de l’entreprise en cause.
+
+**Durée**
+
+- **(2)** La durée des permis d’utilisation des eaux visés au paragraphe (1) n’excède pas :
+	- **a)** vingt-cinq ans, dans le cas des permis de type A à l’égard des catégories d’entreprises prévues par règlement et des permis de type B;
+	- **b)** la durée prévue de l’entreprise en cause, dans le cas des autres permis de type A.
+
+**Utilisations spécifiques**
+
+- **(3)** L’office ne peut délivrer de permis d’utilisation des eaux à l’égard des utilisations des eaux mentionnées au paragraphe 72(2).
+
+**Refus**
+
+- **(4)** L’office ne peut refuser de délivrer un permis d’utilisation des eaux au seul motif que les règlements pris en vertu des alinéas 90.3(1)m) ou n) autorisent déjà l’utilisation des eaux ou le dépôt de déchets en cause.
+
+**Conditions**
+
+- **(5)** L’office ne peut délivrer de permis d’utilisation des eaux visant une zone fédérale que si le demandeur lui prouve :
+	- **a)** que :
+		- **(i)** soit l’utilisation des eaux ou le dépôt de déchets projeté ne nuira pas de façon appréciable à l’utilisation des eaux, qu’elle ait lieu ou non dans la zone fédérale visée par la demande, par :
+			- **(A)** soit le titulaire d’un permis délivré sous le régime de la présente loi, ou d’un autre permis visant l’utilisation des eaux ou le dépôt de déchets, ou les deux, délivré sous le régime des règles de droit territoriales ou de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md),
+			- **(B)** soit un autre demandeur qui, si sa demande de permis d’utilisation des eaux était accordée, aurait priorité sur le demandeur en application de l’article 72.26 ou des règles de droit territoriales,
+		- **(ii)** soit le demandeur ou titulaire visé au sous-alinéa (i) a conclu un accord d’indemnisation avec lui;
+	- **b)** qu’une indemnité appropriée a été ou sera payée par le demandeur aux autres demandeurs mentionnés à la division a)(i)(B) mais auxquels l’alinéa a) ne s’applique pas ainsi qu’aux personnes, qu’elles soient ou non dans la zone fédérale visée par la demande, qui ont notifié l’office dans le délai prévu dans l’avis donné par celui-ci en application du paragraphe 72.16(1) et à qui nuirait l’utilisation des eaux ou le dépôt de déchets projeté, si, au moment de la demande faite conformément aux règlements pris en vertu des alinéas 90.3(1)d) et e), ces personnes étaient :
+		- **(i)** des titulaires d’un permis d’utilisation des eaux délivré sous le régime de la présente loi ou d’un autre permis visant l’utilisation des eaux ou le dépôt de déchets, ou les deux, délivré sous le régime des règles de droit territoriales ou de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md) auxquels l’alinéa a) ne s’applique pas,
+		- **(ii)** des usagers domestiques,
+		- **(iii)** des usagers ordinaires,
+		- **(iv)** des usagers agréés,
+		- **(v)** des personnes autorisées à déposer des déchets,
+		- **(vi)** des personnes qui utilisent les eaux ou déposent des déchets, ou les deux, sans permis d’utilisation des eaux, en conformité avec les règles de droit territoriales,
+		- **(vii)** des personnes visées à l’alinéa 61d) de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md),
+		- **(viii)** les propriétaires d’un bien-fonds,
+		- **(ix)** les occupants d’un bien-fonds,
+		- **(x)** les titulaires d’une concession de pourvoirie, de permis de trappeurs et d’autres droits de nature similaire;
+	- **c)** que le traitement et l’élimination des déchets produits par l’entreprise en cause pour l’exploitation de laquelle les eaux seront utilisées se feront de manière à respecter :
+		- **(i)** les normes de qualité des eaux fixées par règlement pris en vertu de l’alinéa 90.3(1)h) ou, à défaut, celles que l’office juge acceptables,
+		- **(ii)** les normes relatives à la qualité des effluents fixées par règlement pris en vertu de l’alinéa 90.3(1)i) ou, à défaut, celles que l’office juge acceptables;
+	- **d)** que sa solvabilité est de nature, compte tenu de son dossier antérieur, à lui permettre :
+		- **(i)** de procéder à l’achèvement de l’entreprise en cause,
+		- **(ii)** de prendre les mesures d’atténuation nécessaires,
+		- **(iii)** de procéder à l’entretien et à la restauration du site en cas d’abandon ou de fermeture.
+
+**Facteurs de détermination de l’indemnité**
+
+- **(6)** Pour déterminer l’indemnité appropriée pour l’application de l’alinéa (5)b), l’office tient compte de tous les facteurs pertinents, notamment :
+	- **a)** de toute preuve de perte ou de dommage;
+	- **b)** de toute possibilité de perte ou de dommage;
+	- **c)** de l’importance et de la durée des effets négatifs, y compris les effets négatifs cumulatifs;
+	- **d)** de l’importance de l’utilisation des eaux par les personnes à qui elle nuirait;
+	- **e)** des nuisances, des inconvénients et du bruit.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Conditions**
+
+**72.04** 
+
+- **(1)** Sous réserve de la présente loi et de ses règlements, l’office peut assortir le permis d’utilisation des eaux visant une zone fédérale des conditions qu’il juge indiquées, notamment en ce qui touche :
+	- **a)** le mode d’utilisation des eaux visées par le permis;
+	- **b)** la quantité, la concentration et le type de déchets pouvant être déposés dans les eaux par le titulaire;
+	- **c)** l’opération de dépôt proprement dite;
+	- **d)** les études à mener, les travaux à réaliser, les plans à proposer et les programmes de surveillance à entreprendre;
+	- **e)** tout éventuel abandon ou fermeture de l’entreprise en cause.
+
+**Décision de l’office**
+
+- **(2)** Le cas échéant, l’office s’efforce, dans la mesure du possible, de minimiser les effets négatifs des conditions — du fait de l’utilisation des eaux ou du dépôt de déchets projeté — sur les personnes mentionnées aux alinéas a) à h) qui ont notifié l’office dans le délai prévu dans l’avis donné par celui-ci en application du paragraphe 72.16(1), qu’elles soient ou non, à ce moment, dans la zone fédérale visée par la demande :
+	- **a)** les titulaires d’un permis d’utilisation des eaux visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale;
+	- **b)** les usagers domestiques;
+	- **c)** les usagers ordinaires;
+	- **d)** les usagers agréés;
+	- **e)** les personnes autorisées à déposer des déchets;
+	- **f)** des personnes qui utilisent les eaux ou déposent des déchets, ou les deux, sans permis d’utilisation des eaux, en conformité avec les règles de droit territoriales;
+	- **g)** les propriétaires d’un bien-fonds;
+	- **h)** les occupants d’un bien-fonds;
+	- **i)** les titulaires d’une concession de pourvoirie, de permis de trappeurs et d’autres droits de nature similaire.
+
+**Conditions relatives aux déchets**
+
+- **(3)** Les conditions doivent être au moins aussi sévères, dans le cas d’un permis d’utilisation des eaux visant des eaux d’une zone fédérale comprises dans une zone de gestion qualitative des eaux désignée en application de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), que les restrictions imposées par règlement pris en vertu de l’alinéa 18(2)a) de cette loi en matière de dépôt de déchets à l’égard de ces eaux.
+
+**Non-application des règlements pris en vertu de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md)**
+
+- **(4)** Les conditions dont peut être assorti en matière de dépôt de déchets un permis d’utilisation des eaux visant des eaux d’une zone fédérale non comprises dans une zone de gestion qualitative des eaux désignée en application de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md) doivent être :
+	- **a)** soit fondées sur les normes de qualité fixées par règlement pris en vertu de l’alinéa 90.3(1)h);
+	- **b)** soit au moins aussi sévères que les normes relatives à la qualité des effluents pour ces eaux fixées par règlement pris en vertu de l’alinéa 90.3(1)i).
+
+**Application de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)**
+
+- **(5)** Les conditions doivent être au moins aussi sévères, dans le cas d’un permis d’utilisation des eaux visant des eaux d’une zone fédérale non comprises dans une zone de gestion qualitative des eaux désignée en application de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md) et régies par des règlements d’application du paragraphe 36(5) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), que les restrictions imposées en matière d’immersion ou de rejet de substances nocives, au sens du paragraphe 34(1) de cette loi, à l’égard de ces eaux, par ces règlements.
+
+**Conditions relatives aux ouvrages et structures**
+
+- **(6)** Le permis d’utilisation des eaux visant une zone fédérale doit être assorti de conditions qui sont au moins aussi sévères que les normes fixées par règlement pris en vertu de l’alinéa 90.3(1)j).
+
+**Présomption de modification**
+
+- **(7)** Les conditions sont réputées automatiquement modifiées, dans la mesure où cela est nécessaire pour l’application des paragraphes (3), (4), (5) ou (6), par la prise ou la modification, après la délivrance du permis d’utilisation des eaux, des règlements visés à ces paragraphes.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Terres inuites**
+
+**72.05** 
+
+- **(1)** L’office ne peut délivrer de permis d’utilisation des eaux à l’égard d’une activité — utilisation des eaux ou dépôt de déchets dans une zone fédérale — susceptible d’altérer sensiblement la qualité, la quantité ou le débit des eaux traversant une terre inuite que dans les cas suivants :
+	- **a)** le demandeur a conclu avec l’organisation inuite désignée un accord d’indemnisation relativement aux pertes ou dommages susceptibles d’être causés par le changement;
+	- **b)** à défaut d’accord :
+		- **(i)** soit l’office a, à la requête de l’une ou l’autre des parties et conjointement avec l’Office des eaux du Nunavut, fixé une indemnité convenable,
+		- **(ii)** soit, faute d’entente avec l’Office des eaux du Nunavut sur l’indemnité mentionnée au sous-alinéa (i), celle-ci a été fixée par un juge de la Cour de justice du Nunavut.
+
+**Paiement de l’indemnité**
+
+- **(2)** Le paiement de l’indemnité visée à l’alinéa (1)b) fait partie des conditions du permis d’utilisation des eaux.
+
+**Frais**
+
+- **(3)** Sauf décision contraire de l’Office des eaux du Nunavut, les frais faits par l’organisation inuite désignée dans le cadre de la requête visée au sous-alinéa (1)b)(i) sont à la charge du demandeur.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Négociation de bonne foi**
+
+**72.06** L’office n’examine la requête visée au sous-alinéa 72.05(1)b)(i) que si le requérant a tenté, de bonne foi mais sans succès, de négocier un accord d’indemnisation.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Facteurs de détermination**
+
+**72.07** L’indemnité dont il est question à l’alinéa 72.05(1)b) est déterminée en fonction des facteurs suivants :
+- **a)** les effets négatifs du changement de qualité, de quantité ou de débit des eaux sur les terres inuites;
+- **b)** les nuisances, les inconvénients et les troubles de jouissance — y compris le bruit — causés par le changement;
+- **c)** les effets négatifs cumulatifs du changement et des activités — utilisation des eaux et dépôt de déchets — existantes;
+- **d)** l’attachement culturel des Inuits aux terres inuites visées et aux eaux s’y trouvant;
+- **e)** la valeur particulière ou exceptionnelle des terres inuites visées et des eaux s’y trouvant;
+- **f)** toute atteinte causée aux droits des Inuits découlant de l’Accord ou de quelque autre source.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Révision périodique**
+
+**72.08** Sauf entente à l’effet contraire entre l’organisation inuite désignée et le demandeur, l’indemnité fixée en vertu de l’alinéa 72.05(1)b) est versée sous forme de paiements périodiques et fait l’objet de révisions périodiques, compte tenu de la nature et de la durée de l’activité.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Terminologie**
+
+**72.09** 
+
+- **(1)** Au présent article et aux articles 72.05 à 72.08 :
+	- **a)** ***Accord***, ***Inuit***, ***Makivik***, ***terre inuite*** et ***Tunngavik*** s’entendent au sens du paragraphe 2(1) de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md);
+	- **b)** ***organisation inuite désignée*** s’entend, selon le cas :
+		- **(i)** sous réserve du sous-alinéa (ii), soit de Tunngavik, soit de l’organisation désignée, dans le registre public que tient Tunngavik conformément à l’Accord, pour l’exercice des attributions prévues aux articles 20.3.1 et 20.4.1 de celui-ci,
+		- **(ii)** en ce qui concerne les terres détenues en propriété conjointe en application de l’article 40.2.8 de l’Accord, de Makivik agissant conjointement avec l’organisation compétente au titre du sous-alinéa (i).
+
+**Précision**
+
+- **(2)** Il est entendu que les articles 72.05 à 72.08 s’appliquent aux plans d’eau qui délimitent des terres inuites et d’autres terres et qui ne sont pas situés entièrement sur des terres inuites.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Demande de permis**
+
+**72.1** 
+
+- **(1)** Toute demande de permis d’utilisation des eaux doit respecter, quant à sa forme et à son contenu :
+	- **a)** les modalités réglementaires, dans le cas où le permis faisant l’objet de la demande vise une zone fédérale;
+	- **b)** les modalités prévues par les règles de droit territoriales, dans le cas où le permis faisant l’objet de la demande vise des terres situées à l’extérieur d’une zone fédérale.
+
+**Renseignements et études**
+
+- **(2)** L’office doit exiger du demandeur qu’il lui communique les renseignements et les études relatives à l’utilisation des eaux ou au dépôt de déchets projeté qui lui permettront d’en évaluer les effets qualitatifs et quantitatifs sur les eaux.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Demande de garantie — zone fédérale**
+
+**72.11** 
+
+- **(1)** L’office peut exiger du demandeur ou du titulaire d’un permis d’utilisation des eaux visant une zone fédérale, ou de l’éventuel cessionnaire d’un tel permis, qu’il fournisse une garantie au ministre fédéral — et qu’il la maintienne en permanence au même montant — pour le montant prévu par les règlements pris en vertu de l’alinéa 90.3(1)g) ou déterminé en conformité avec ceux-ci et en la forme qui y est prévue ou que le ministre fédéral juge acceptable.
+
+**Utilisation de la garantie**
+
+- **(2)** Le ministre fédéral peut utiliser la garantie :
+	- **a)** pour dédommager, en tout ou en partie, quiconque n’a pas réussi à obtenir d’un titulaire de permis d’utilisation des eaux l’indemnisation à laquelle il avait droit aux termes de l’article 72.27, s’il est convaincu que les dispositions nécessaires à cette fin ont bel et bien été prises;
+	- **b)** pour rembourser, en tout ou en partie, à Sa Majesté du chef du Canada les frais qu’entraîne l’application du paragraphe 86.2(1) ou, sous réserve du paragraphe (3), du paragraphe 89(1).
+
+**Exception**
+
+- **(3)** Dans le cas des frais engagés au titre du paragraphe 89(1), l’alinéa (2)b) ne s’applique qu’à ceux qui découlent de l’application du sous-alinéa 89(1)b)(i).
+
+**Limitation de la garantie**
+
+- **(4)** Le ministre fédéral ne peut s’autoriser du paragraphe (2) pour utiliser, pour quelque motif que ce soit, une somme qui excède le montant de la garantie.
+
+**Remboursement de la garantie**
+
+- **(5)** Dans les cas où le ministre fédéral est convaincu que l’entreprise en cause est définitivement fermée ou abandonnée ou que le permis d’utilisation des eaux a été cédé, la partie de la garantie qui, selon lui, n’est pas nécessaire pour l’application du paragraphe (2) est immédiatement remboursée au titulaire du permis ou au cédant, selon le cas.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Renouvellement, modification et annulation**
+
+**72.12** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), l’office peut :
+	- **a)** soit à la demande du titulaire, soit lorsqu’il estime que cela sert l’intérêt public, renouveler un permis d’utilisation des eaux visant une zone fédérale, pour une durée n’excédant pas celle prévue ci-après, avec ou sans modification des conditions du permis :
+		- **(i)** vingt-cinq ans, dans le cas d’un permis de type A à l’égard des catégories d’entreprises prévues par règlement ou d’un permis de type B,
+		- **(ii)** la durée prévue de l’entreprise en cause, dans le cas de tout autre permis de type A;
+	- **b)** modifier, pour une durée déterminée ou non, toute condition d’un permis d’utilisation des eaux visant une zone fédérale :
+		- **(i)** soit à la demande du titulaire du permis,
+		- **(ii)** soit en cas de pénurie d’eau dans une zone de gestion des eaux,
+		- **(iii)** soit dans tout autre cas où il estime que la modification sert l’intérêt public;
+	- **c)** annuler un permis d’utilisation des eaux visant une zone fédérale dans l’une des situations suivantes :
+		- **(i)** le titulaire le demande,
+		- **(ii)** le titulaire n’a pas exercé ses droits pendant trois années consécutives,
+		- **(iii)** tout autre cas où il estime que l’annulation sert l’intérêt public.
+
+**Application de certaines dispositions**
+
+- **(2)** Les articles 72.03 à 72.11 s’appliquent, avec les adaptations nécessaires, à l’égard du renouvellement ou de la modification d’un permis d’utilisation des eaux.
+
+**Demande d’annulation**
+
+- **(3)** Toute demande d’annulation d’un permis d’utilisation des eaux doit respecter, quant à sa forme et à son contenu :
+	- **a)** les modalités réglementaires, dans le cas où le permis faisant l’objet de la demande vise une zone fédérale;
+	- **b)** les modalités prévues par les règles de droit territoriales, dans le cas où le permis faisant l’objet de la demande vise des terres situées à l’extérieur d’une zone fédérale.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Agrément — délivrance, renouvellement, modification et annulation de permis**
+
+**72.13** La délivrance, le renouvellement, la modification et l’annulation des permis d’utilisation des eaux ci-après visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale sont subordonnés à l’agrément du ministre fédéral :
+- **a)** les permis de type A;
+- **b)** les permis de type B, dans le cas où l’office tient des audiences publiques à cet égard.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Cession**
+
+**72.14** 
+
+- **(1)** L’aliénation, notamment par vente, de droits, titres et intérêts dans une entreprise en cause d’un titulaire de permis d’utilisation des eaux visant une zone fédérale emporte, sans autre action de la part de celui-ci, cession du permis aux personnes auxquelles est faite l’aliénation à condition que la cession soit autorisée par l’office.
+
+**Autorisation de cession**
+
+- **(2)** L’office autorise la cession du permis d’utilisation des eaux s’il est convaincu que l’aliénation, notamment par vente, de droits, titres et intérêts du titulaire dans l’entreprise en cause, à la date, de la manière et selon les modalités acceptées par celui-ci, de même que l’exploitation de l’entreprise par le cessionnaire éventuel n’entraîneraient vraisemblablement pas de contravention à une condition du permis ou à une disposition de la présente loi ou de ses règlements.
+
+**Incessibilité sans autorisation**
+
+- **(3)** Sauf dans la mesure où le prévoit le présent article, le permis d’utilisation des eaux visant une zone fédérale n’est pas cessible.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+#### Audiences publiques et procédure
+
+
+
+**Audiences facultatives**
+
+**72.15** 
+
+- **(1)** L’office peut, s’il est convaincu qu’elles servent l’intérêt public, tenir des audiences publiques sur toute question qui relève de sa compétence et qui concerne notamment, en ce qui a trait à une zone fédérale ou à des terres situées à l’extérieur d’une zone fédérale :
+	- **a)** la délivrance, le renouvellement ou la modification d’un permis d’utilisation des eaux de type B;
+	- **b)** la modification d’un permis d’utilisation des eaux de type A qui n’aurait pas de répercussions sur l’utilisation, le cours ou la qualité de l’eau ou sur la durée du permis;
+	- **c)** l’annulation d’un permis d’utilisation des eaux de type B dans la situation prévue au sous-alinéa 72.12(1)c)(i).
+
+**Audiences obligatoires**
+
+- **(2)** Sous réserve du paragraphe (3), doivent faire l’objet d’audiences publiques :
+	- **a)** la délivrance ou le renouvellement d’un permis d’utilisation des eaux de type A visant une zone fédérale;
+	- **b)** la modification d’un tel permis qui aurait des répercussions sur l’utilisation, le cours ou la qualité de l’eau ou sur la durée du permis;
+	- **c)** l’annulation d’un tel permis dans les situations prévues à l’alinéa 72.12(1)c);
+	- **d)** l’annulation d’un permis d’utilisation des eaux de type B visant une zone fédérale dans les situations prévues aux sous-alinéas 72.12(1)c)(ii) ou (iii).
+
+**Exception**
+
+- **(3)** Le paragraphe (2) ne s’applique pas dans les circonstances suivantes :
+	- **a)** le demandeur ou le titulaire du permis d’utilisation des eaux a accepté par écrit que l’office prenne sa décision sans audience publique, pourvu que personne, après la publication d’avis prévue à l’article 72.16, n’ait informé l’office, au plus tard le dixième jour précédant la date fixée pour l’audience, de son intention de comparaître et de présenter ses observations;
+	- **b)** l’office, saisi d’une demande de renouvellement d’un permis d’utilisation des eaux de type A par le titulaire faite conformément aux règlements pris en vertu des alinéas 90.3(1)d) et e), ne renouvelle le permis que pour une période totale de soixante jours;
+	- **c)** l’office, saisi d’une modification à un permis d’utilisation des eaux de type A qui aurait des répercussions sur l’utilisation, le cours ou la qualité de l’eau, déclare, avec le consentement du ministre fédéral, que la modification s’impose d’urgence.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Avis**
+
+**72.16** 
+
+- **(1)** Sous réserve du paragraphe (4), l’office donne avis des demandes de permis d’utilisation des eaux visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale qui lui sont faites par publication de celles-ci dans un journal largement diffusé dans la région concernée ou, à défaut, par tout autre moyen qu’il estime indiqué.
+
+**Avis d’audition**
+
+- **(2)** Sous réserve du paragraphe (4), l’office annonce ses audiences, au moins trente-cinq jours avant leur tenue, par publication d’un avis dans un journal largement diffusé dans la région concernée ou, à défaut, par tout autre moyen qu’il estime indiqué.
+
+**Absence d’audience publique**
+
+- **(3)** Sous réserve du paragraphe (4), dans les cas où il ne tient pas d’audience publique à son égard, l’office doit attendre au moins dix jours après s’être conformé au paragraphe (1) avant de se prononcer sur une demande.
+
+**Exception**
+
+- **(4)** Les paragraphes (1) à (3) ne s’appliquent pas à l’égard d’une demande de modification de permis d’utilisation des eaux lorsque l’office déclare, avec le consentement du ministre fédéral dans le cas d’une zone fédérale ou, en conformité avec les règles de droit territoriales, dans le cas des terres situées à l’extérieur d’une zone fédérale, que la modification s’impose d’urgence.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Avis — zone fédérale**
+
+**72.17** 
+
+- **(1)** L’office annonce son intention d’examiner, de sa propre initiative, la possibilité soit de renouveler un permis d’utilisation des eaux en vertu des alinéas 72.12(1)a), soit d’en modifier une condition en vertu des sous-alinéas 72.12(1)b)(ii) ou (iii), par publication d’un avis dans un journal largement diffusé dans la région concernée ou, à défaut, par tout autre moyen qu’il estime indiqué.
+
+**Avis — terres situées à l’extérieur d’une zone fédérale**
+
+- **(2)** L’office annonce son intention d’examiner, de sa propre initiative, la possibilité soit de renouveler un permis d’utilisation des eaux visant des terres situées à l’extérieur d’une zone fédérale en conformité avec les règles de droit territoriales, soit d’en modifier une condition en conformité avec celles-ci, par publication d’un avis dans un journal largement diffusé dans la région concernée ou, à défaut, par tout autre moyen qu’il estime indiqué.
+
+**Exception**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’égard d’une demande de modification de permis d’utilisation des eaux lorsque l’office déclare, avec le consentement du ministre fédéral dans le cas d’une zone fédérale, ou, en conformité avec les règles de droit territoriales, dans le cas d’une terre située à l’extérieur d’une zone fédérale, que la modification s’impose d’urgence.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Délais — permis de type A et permis de type B**
+
+**72.18** 
+
+- **(1)** L’office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux de type A, ou d’un permis d’utilisation des eaux de type B qui fait l’objet d’une audience publique visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale ou de l’examen, de sa propre initiative, du renouvellement ou de la modification d’un tel permis dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu aux paragraphes 72.17(1) ou (2).
+
+**Renvoi de la décision pour agrément**
+
+- **(2)** La décision de l’office de délivrer, de renouveler ou de modifier le permis d’utilisation des eaux est renvoyée immédiatement au ministre fédéral pour agrément.
+
+**Délai — agrément**
+
+- **(3)** Le ministre fédéral notifie son agrément ou son refus à l’office dans les quarante-cinq jours suivant la réception de la décision. En cas de refus, il en expose les motifs par écrit.
+
+**Prolongation**
+
+- **(4)** Le ministre fédéral peut prolonger ce délai d’au plus quarante-cinq jours s’il en avise l’office avant l’expiration du délai.
+
+**Absence de décision**
+
+- **(5)** Faute d’avoir notifié son agrément ou son refus à l’office à l’expiration du délai de quarante-cinq jours ou de quatre-vingt-dix jours, selon le cas, suivant la réception de la décision, le ministre fédéral est réputé avoir donné son agrément.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Délais — délivrance des autres permis d’utilisation des eaux de type B**
+
+**72.19** L’office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux de type B visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale qui ne fait pas l’objet d’une audience publique ou de l’examen, de sa propre initiative, du renouvellement ou de la modification d’un tel permis dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu aux paragraphes 72.17(1) ou (2).
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Délais — délivrance des autres permis d’utilisation des eaux**
+
+**72.2** L’office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux — autre qu’un permis de type A ou de type B — visant des terres situées à l’extérieur d’une zone fédérale ou de l’examen, de sa propre initiative, du renouvellement ou de la modification d’un tel permis dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu au paragraphe 72.17(2).
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Date de présentation réputée**
+
+**72.21** La demande de délivrance, de renouvellement ou de modification d’un permis d’utilisation des eaux est réputée être présentée à la date à laquelle l’office est convaincu qu’elle respecte, quant à sa forme et à son contenu :
+- **a)** les modalités réglementaires, dans le cas où le permis faisant l’objet de la demande vise une zone fédérale;
+- **b)** les modalités prévues par les règles de droit territoriales, dans le cas où le permis faisant l’objet de la demande vise des terres situées à l’extérieur d’une zone fédérale.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Période exclue des délais — renseignements ou études**
+
+**72.22** 
+
+- **(1)** Dans le cas où l’office exige du demandeur ou du titulaire du permis d’utilisation des eaux qu’il lui fournisse des renseignements ou des études, la période prise, à son avis, par le demandeur ou le titulaire, pour remplir l’exigence n’est pas comprise dans le calcul des délais prévus au paragraphe 72.18(1) et aux articles 72.19 ou 72.2 ou de leur prolongation.
+
+**Période exclue des délais — évaluations environnementales et études d’impact**
+
+- **(2)** Dans le cas où l’activité projetée — utilisation des eaux ou dépôt de déchets — visée par la demande ou le permis d’utilisation des eaux s’insère dans le cadre d’un projet de développement à propos duquel une évaluation environnementale, une étude d’impact ou un examen des répercussions environnementales qui tient lieu d’étude d’impact est effectuée sous le régime de la partie 5, la période prise pour compléter l’évaluation, l’étude ou l’examen n’est pas comprise dans le calcul des délais prévus au paragraphe 72.18(1) et aux articles 72.19 ou 72.2 ou de leur prolongation.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Suspension du délai**
+
+**72.23** L’office peut suspendre les délais prévus au paragraphe 72.18(1) et aux articles 72.19 ou 72.2 ou leur prolongation, tant que :
+- **a)** dans le cas où l’office décide que le demandeur est tenu de payer une indemnité — ou de conclure un accord d’indemnisation — au titre du paragraphe 72.03(5), le demandeur n’a pas prouvé à l’office qu’il a payé ou qu’il paiera l’indemnité ou qu’il a conclu l’accord, selon le cas;
+- **b)** dans le cas où l’office ne peut délivrer un permis qu’en conformité avec le paragraphe 72.05(1), le demandeur n’a pas conclu un accord d’indemnisation en application de l’alinéa 72.05(1)a) ou qu’une indemnité n’a pas été fixée en vertu de l’alinéa 15.1(1)b) de cette loi, selon le cas;
+- **c)** dans le cas où l’office ne peut délivrer un permis visant des terres situées à l’extérieur d’une zone fédérale qu’en conformité avec toute exigence requise en matière d’indemnité en application des règles de droit territoriales, cette exigence n’a pas été satisfaite;
+- **d)** dans le cas où l’office décide que le demandeur est tenu de conclure un accord d’indemnisation au titre des articles 77 ou 79.1, le demandeur n’a pas prouvé à l’office qu’il l’a conclu ou l’office n’a pas fixé l’indemnité prévue aux articles 79 ou 79.3.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Prolongation du délai par le ministre fédéral**
+
+**72.24** 
+
+- **(1)** Le ministre fédéral peut, sur demande de l’office, prolonger d’au plus deux mois les délais prévus au paragraphe 72.18(1) et aux articles 72.19 ou 72.2 pour tenir compte des circonstances particulières de la délivrance, du renouvellement ou de la modification du permis d’utilisation des eaux en cause.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(2)** Le gouverneur en conseil peut, sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations du délai prolongé en vertu paragraphe (1).
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Motifs — décisions et ordonnances**
+
+**72.25** L’office motive par écrit et met à la disposition du public toutes les décisions ou ordonnances qu’il rend concernant un permis d’utilisation des eaux visant une zone fédérale ou des terres situées à l’extérieur d’une zone fédérale ou une demande visant un tel permis.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+#### Droits et obligations des titulaires de permis d’utilisation des eaux et autres autorisations d’utilisation des eaux
+
+
+
+**Priorité**
+
+**72.26** 
+
+- **(1)** Lorsque plus d’une personne est titulaire d’un permis d’utilisation des eaux visant une zone fédérale ou d’une autre autorisation d’utilisation des eaux visant une telle zone délivrée par une autorité ayant compétence pour la gestion des eaux dans les Territoires du Nord-Ouest ou au Nunavut, celle qui a présenté sa demande en premier lieu a priorité sur les autres quant à l’utilisation des eaux visée par son permis ou son autorisation.
+
+**Modifications d’un permis ou d’une autorisation**
+
+- **(2)** Le paragraphe (1) s’applique, avec les adaptations nécessaires, à l’égard des droits acquis par un titulaire grâce à la modification de son permis ou de son autorisation.
+
+**Renouvellement ou cession d’un permis ou d’une autorisation**
+
+- **(3)** Pour l’application du présent article et sous réserve du paragraphe (2), le permis ou l’autorisation renouvelé ou ayant fait l’objet d’une cession est assimilé au permis ou à l’autorisation original.
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Droit de réclamation**
+
+**72.27** 
+
+- **(1)** Sauf entente contraire par l’accord d’indemnisation visé au sous-alinéa 72.03(5)a)(ii), les personnes qui subissent un préjudice du fait de la délivrance d’un permis d’utilisation des eaux visant une zone fédérale ou de l’utilisation des eaux ou du dépôt de déchets autorisé par règlement pris en vertu des alinéas 90.3(1)m) ou n) ont droit à une indemnisation du titulaire du permis, de l’usager agréé ou de la personne autorisée à déposer des déchets pour tout préjudice qu’elles subissent de ce fait et peuvent en poursuivre le recouvrement devant tout tribunal compétent.
+
+**Protection des droits**
+
+- **(2)** Le fait d’avoir déjà reçu une indemnité dans le cadre du paragraphe 72.03(5) ou de l’alinéa 72.11(2)a) ou en vertu de l’accord visé au sous-alinéa 72.03(5)a)(ii) ne fait pas obstacle à l’exercice des droits prévus au paragraphe (1).
+> 2014, ch. 2, art. 145.
+
+
+
+
+
+**Copie des permis d’utilisation des eaux**
+
+**72.28** L’office fournit au ministre territorial une copie des permis d’utilisation des eaux qui sont délivrés sous le régime de la présente partie et de toute décision ou ordonnance rendue relativement à ceux-ci.
+> 2014, ch. 2, art. 145.
+
 
 
 
@@ -1293,12 +1933,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **73** 
 
-- **(1)** Malgré les articles 8 et 9 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu ont le droit d’utiliser les eaux ou de déposer des déchets, sans permis d’utilisation de celles-ci, soit pour leurs activités de piégeage, soit pour toute autre forme d’exploitation — à des fins non commerciales toutefois — des ressources fauniques, soit encore pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles et spirituelles traditionnelles.
+- **(1)** Malgré les articles 72 et 72.01 ou les règles de droit territoriales, les premières nations des Gwich’in et du Sahtu ont le droit d’utiliser les eaux ou de déposer des déchets, sans permis d’utilisation des eaux, soit pour leurs activités de piégeage, soit pour toute autre forme d’exploitation — à des fins non commerciales toutefois — des ressources fauniques, soit encore pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles et spirituelles traditionnelles.
 
 **Utilisation sans permis — citoyen tlicho**
 
-- **(2)** Malgré les articles 8 et 9 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), tout citoyen tlicho a le droit d’utiliser les eaux se trouvant dans la partie du Monfwi gogha de niitlee comprise dans les Territoires du Nord-Ouest, sans permis d’utilisation de celles-ci, pour l’exploitation des ressources fauniques aux termes de l’article 10.1.1 de l’accord tlicho, pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles ou spirituelles propres à la première nation tlicho, sous réserve de toute loi tlicho applicable et, s’agissant des eaux se trouvant sur des terres désignées, des limites prévues dans l’accord de revendication applicable qui sont analogues aux limites relatives aux eaux se trouvant sur des terres tlichos.
-> 1998, ch. 25, art. 73; 2005, ch. 1, art. 39.
+- **(2)** Malgré les articles 72 et 72.01 ou les règles de droit territoriales, tout citoyen tlicho a le droit d’utiliser les eaux se trouvant dans la partie du Monfwi gogha de niitlee comprise dans les Territoires du Nord-Ouest, sans permis d’utilisation des eaux, pour l’exploitation des ressources fauniques au titre de l’article 10.1.1 de l’accord tlicho, pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles ou spirituelles propres à la première nation tlicho, sous réserve de toute loi tlicho applicable et, s’agissant des eaux se trouvant sur des terres désignées, des limites prévues dans l’accord de revendication applicable qui sont analogues aux limites relatives aux eaux se trouvant sur des terres tlichos.
+> 1998, ch. 25, art. 73; 2005, ch. 1, art. 39; 2014, ch. 2, art. 163.
 
 
 
@@ -1306,7 +1946,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit exclusif**
 
-**74** Malgré l’article 4 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu ont, en ce qui touche les eaux qui sont sur leurs terres ou qui les traversent, un droit exclusif d’utilisation ou de dépôt de déchets, le tout en conformité avec les autres dispositions de cette loi et de la présente partie.
+**74** Malgré l’article 7.1, les premières nations des Gwich’in et du Sahtu ont, en ce qui touche les eaux qui sont sur leurs terres ou qui les traversent, un droit exclusif d’utilisation ou de dépôt de déchets, le tout en conformité avec les autres dispositions de la présente partie ou des règles de droit territoriales, selon le cas.
+> 1998, ch. 25, art. 74; 2014, ch. 2, art. 163.
+
 
 
 
@@ -1502,26 +2144,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Attributions ministérielles
 
 
-
-**Agrément ministériel**
-
-**81** Sont subordonnés à l’agrément du ministre fédéral, la délivrance, le renouvellement, la modification et l’annulation des permis de type A au sens de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), et, si l’office tient des audiences publiques à cet égard, des permis de type B au sens de cette loi.
-> 1998, ch. 25, art. 81; 2014, ch. 2, art. 173.
+**81** [Abrogé, 2014, ch. 2, art. 173]
 
 
 
-
-
-**Consultation des premières nations et du gouvernement tlicho**
-
-**82** 
-
-- **(1)** Le ministre fédéral est tenu de consulter les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho au sujet des propositions de modification de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou des règlements d’application de celle-ci.
 
 **Consultation de l’office**
 
-- **(2)** Il est de plus tenu de consulter l’office en ce qui touche soit les propositions de modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application.
-> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47.
+**82** Le ministre fédéral est tenu de consulter l’office en ce qui touche les propositions de modification de la présente loi et la prise ou les propositions de modification de ses textes d’application.
+> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47; 2014, ch. 2, art. 174.
 
 
 
@@ -1543,7 +2174,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application**
 
-- **(3)** Sauf dans la mesure prévue au paragraphe (4), les instructions ne visent toutefois pas la demande qui, au moment où elles sont données, soit est pendante devant l’office, soit a été accueillie par celui-ci mais n’a pas encore reçu l’agrément prévu à l’article 81.
+- **(3)** Sauf dans la mesure prévue au paragraphe (4), les instructions ne visent toutefois pas la demande qui, au moment où elles sont données, soit est pendante devant l’office, soit a été accueillie par celui-ci mais n’a pas encore reçu l’agrément prévu à l’article 72.13 ou par les règles de droit territoriales, selon le cas.
 
 **Exception**
 
@@ -1562,45 +2193,119 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Contrôle d’application
+### Exécution et contrôle d’application
 
 
 
-**Désignation d’inspecteurs des terres**
+#### Désignation
+
+
+
+**Désignation**
 
 **84** 
 
-- **(1)** Le ministre fédéral peut désigner toute personne qualifiée à titre d’inspecteur des terres pour l’application de la présente partie.
+- **(1)** Le ministre fédéral peut désigner toute personne qualifiée — individuellement ou au titre de son appartenance à une catégorie donnée — à titre d’inspecteur pour exercer des pouvoirs relativement à la vérification du respect de la présente partie ou des ordres donnés en vertu des articles 86 ou 86.1 ou à la prévention du non-respect de cette partie ou de ces ordres.
 
-**Certificat**
+**Désignation — analyste**
 
-- **(2)** L’inspecteur ainsi désigné reçoit du ministre fédéral un certificat attestant sa qualité; il le présente, sur demande, au responsable du lieu visité.
+- **(2)** Le ministre fédéral peut désigner toute personne qualifiée à titre d’analyste pour l’application de la présente partie.
+> 1998, ch. 25, art. 84; 2014, ch. 2, art. 177.
 
 
 
 
-**Pouvoirs de l’inspecteur**
+
+#### Pouvoirs
+
+
+
+**Accès au lieu**
 
 **85** 
 
-- **(1)** Dans le but de vérifier l’observation des règlements ou des conditions d’un permis d’utilisation des terres, l’inspecteur peut :
-	- **a)** procéder, à toute heure convenable, à toute visite qu’il estime utile des lieux visés par le permis dont le titulaire est le propriétaire ou l’occupant;
-	- **b)** dans le cadre de sa visite, d’une part, prélever les échantillons qu’il estime nécessaires et, d’autre part, examiner et reproduire les livres ou autres documents se trouvant sur les lieux, s’il a des motifs raisonnables de croire qu’ils contiennent des renseignements sur l’utilisation des terres.
+- **(1)** L’inspecteur peut, pour vérifier le respect de la présente partie ou des ordres donnés en vertu des articles 86 ou 86.1 ou en prévenir le non-respect, entrer dans tout lieu s’il a des motifs raisonnables de croire, selon le cas :
+	- **a)** qu’une personne utilise des terres;
+	- **b)** qu’une personne utilise des eaux ou dépose des déchets dans une zone fédérale située dans une zone de gestion des eaux;
+	- **c)** que, dans une zone fédérale située dans une zone de gestion des eaux, une personne soit construit des ouvrages qui, une fois achevés, feront partie d’une entreprise dont l’exploitation nécessitera l’utilisation des eaux ou le dépôt de déchets, soit modifie ou agrandit des ouvrages qui font partie d’une telle entreprise;
+	- **d)** qu’un document ou une autre chose concernant une telle utilisation ou un tel dépôt de déchets s’y trouve.
+
+**Autres pouvoirs**
+
+- **(2)** Il peut, à ces mêmes fins :
+	- **a)** examiner toute chose se trouvant dans le lieu;
+	- **b)** faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+	- **c)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+	- **d)** établir ou faire établir tout document à partir de ces données;
+	- **e)** faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+	- **f)** prendre des mesures et prélever des échantillons de toute chose se trouvant dans le lieu;
+	- **g)** emporter toute chose se trouvant dans le lieu à des fins d’examen ou pour en faire des copies;
+	- **h)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **i)** ordonner au propriétaire ou au responsable du lieu ou à quiconque s’y trouve d’établir, à sa satisfaction, son identité ou d’arrêter ou de reprendre toute activité;
+	- **j)** ordonner au propriétaire de toute chose se trouvant dans le lieu ou à la personne qui en a la possession, la responsabilité ou la charge de ne pas la déplacer ou d’en limiter le déplacement pour la période de temps qu’il estime suffisante;
+	- **k)** ordonner à quiconque de faire fonctionner ou de cesser de faire fonctionner une machine, un véhicule ou de l’équipement se trouvant dans le lieu;
+	- **l)** interdire ou limiter l’accès à tout ou partie du lieu.
+
+**Certificat**
+
+- **(3)** Le ministre fédéral remet à chaque inspecteur un certificat attestant sa qualité; celui-ci le présente, sur demande, au responsable ou à l’occupant du lieu.
 
 **Préavis**
 
-- **(2)** Dans les cas où il l’estime indiqué, l’inspecteur donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
+- **(4)** Dans les cas où il l’estime indiqué, l’inspecteur donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
 
 **Préavis au gouvernement tlicho**
 
-- **(2.1)** L’inspecteur donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
-
-**Local d’habitation**
-
-- **(3)** Le présent article n’a pas pour effet de permettre la visite d’un lieu conçu et utilisé de façon temporaire ou permanente comme local d’habitation.
-> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48.
+- **(5)** Il donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
+> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177.
 
 
+
+
+
+**Mandat : maison d’habitation**
+
+**85.1** 
+
+- **(1)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y entrer sans le consentement de l’occupant que s’il est muni d’un mandat décerné en vertu du paragraphe (2).
+
+**Délivrance du mandat**
+
+- **(2)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** la maison d’habitation est un lieu visé au paragraphe 85(1);
+	- **b)** l’entrée est nécessaire à la vérification du respect de la présente partie ou des ordres donnés en vertu de l’article 86 ou 86.1 ou à la prévention du non-respect de cette partie ou de ces ordres;
+	- **c)** soit l’occupant a refusé l’entrée à l’inspecteur, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+> 2014, ch. 2, art. 177.
+
+
+
+
+
+**Entrée dans une propriété privée**
+
+**85.2** 
+
+- **(1)** L’inspecteur peut, pour accéder au lieu visé au paragraphe 85(1), entrer dans une propriété privée et y passer; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+**Personne accompagnant l’inspecteur**
+
+- **(2)** Toute personne peut, à la demande de l’inspecteur, accompagner celui-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+> 2014, ch. 2, art. 177.
+
+
+
+
+
+**Usage de la force**
+
+**85.3** L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat autorisant l’entrée dans une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’il est accompagné d’un agent de la paix.
+> 2014, ch. 2, art. 177.
+
+
+
+
+
+#### Ordres
 
 
 
@@ -1608,57 +2313,98 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **86** 
 
-- **(1)** S’il a des motifs raisonnables de croire que l’utilisation des terres visée par un permis soit a eu des effets négatifs sur l’environnement, soit en aura vraisemblablement, l’inspecteur peut, en conformité avec les règlements, ordonner par écrit au titulaire de prendre les mesures qu’il juge propres à éviter ces effets, à les atténuer ou à y remédier.
+- **(1)** S’il a des motifs raisonnables de croire que l’utilisation des terres soit a eu des effets négatifs sur l’environnement, soit en aura vraisemblablement, l’inspecteur peut, en conformité avec les règlements, ordonner à la personne utilisant les terres de prendre les mesures qu’il juge propres à éviter ces effets, à les atténuer ou à y remédier.
 
-**Ordre de l’inspecteur en cas de violation**
+**Ordre de l’inspecteur en cas de contravention**
 
-- **(2)** S’il a des motifs raisonnables de croire à la violation, par le titulaire, des règlements ou des conditions d’un permis d’utilisation des terres, l’inspecteur peut, en conformité avec les règlements, ordonner par écrit à ce dernier de prendre les mesures qu’il juge propres à mettre un terme à la violation.
+- **(2)** S’il a des motifs raisonnables de croire à la contravention, par la personne utilisant les terres, des règlements ou des conditions d’un permis d’utilisation des terres, l’inspecteur peut, en conformité avec les règlements, ordonner à cette dernière de prendre les mesures qu’il juge propres à mettre un terme à la contravention.
 
-**Défaut**
+**Avis**
 
-- **(3)** Dans les cas de défaut de la part du titulaire, l’inspecteur peut prendre lui-même les mesures qu’il a ordonnées en vertu des paragraphes (1) ou (2); il peut à cette fin pénétrer dans tout lieu, à l’exception d’un lieu conçu et utilisé de façon temporaire ou permanente comme local d’habitation.
+- **(3)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs et les délais et modalités d’exécution.
+> 1998, ch. 25, art. 86; 2014, ch. 2, art. 177.
+
+
+
+
+
+**Réparation**
+
+**86.1** 
+
+- **(1)** Que le fait lui ait été ou non signalé dans le cadre du paragraphe 72.01(3), l’inspecteur peut ordonner à une personne qui utilise les eaux ou qui dépose des déchets dans une zone fédérale la prise des mesures qu’il juge raisonnable d’imposer, notamment la cessation de toute activité, pour empêcher l’utilisation des eaux, le dépôt de déchets ou la défectuosité d’un ouvrage, ou pour en neutraliser, atténuer ou réparer les effets négatifs, s’il a des motifs raisonnables de croire :
+	- **a)** que :
+		- **(i)** soit les eaux ont été utilisées — ou risquent de l’être — contrairement au paragraphe 72(1) ou à une condition du permis,
+		- **(ii)** soit des déchets ont été déposés — ou risquent de l’être — contrairement au paragraphe 72.01(1) ou à une condition du permis,
+		- **(iii)** soit il y a eu — ou risque d’y avoir — une défectuosité dans un ouvrage lié à l’utilisation des eaux ou au dépôt de déchets même lorsque les normes fixées par règlement au titre de l’alinéa 90.3(1)j) ou celles fixées par le permis ont été respectées;
+	- **b)** que les effets négatifs de l’utilisation, du dépôt ou de la défectuosité entraînent — ou risquent d’entraîner — un danger pour les personnes, les biens ou l’environnement.
+
+**Avis**
+
+- **(2)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs et les délais et modalités d’exécution.
+> 2014, ch. 2, art. 177.
+
+
+
+
+
+**Prise de mesures par l’inspecteur**
+
+**86.2** 
+
+- **(1)** Si la personne ne se conforme pas à l’ordre donné en vertu des paragraphes 86(1) ou (2) ou de l’article 86.1 dans le délai imparti, l’inspecteur peut, de sa propre initiative, prendre les mesures qui y sont visées.
 
 **Recouvrement des frais**
 
-- **(4)** Les frais engagés par sa Majesté du chef du Canada au titre du paragraphe (3) constituent une créance de sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre le titulaire. Ils peuvent en outre être recouvrés sur la garantie visée à l’article 71.
+- **(2)** Les frais engagés par sa Majesté du chef du Canada au titre du paragraphe (1) constituent une créance de sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre la personne. Ils peuvent en outre être recouvrés sur la garantie visée aux articles 71 ou 72.11, selon le cas.
+> 2014, ch. 2, art. 177.
 
 
 
 
-**Assistance à l’inspecteur**
+
+**Assistance**
 
 **87** 
 
-- **(1)** Le propriétaire ou le responsable du lieu visité en conformité avec l’article 85 ou le paragraphe 86(3) ainsi que quiconque s’y trouve sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui fournir les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
+- **(1)** Le propriétaire ou le responsable du lieu visité au titre de l’article 85, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance qu’il peut valablement exiger pour lui permettre de vérifier le respect de la présente partie ou des ordres donnés en vertu des articles 86 ou 86.1 ou d’en prévenir le non-respect, et de lui fournir les documents, données et renseignements qu’il peut valablement exiger.
 
-**Entrave et fausses déclarations**
+**Entrave**
 
-- **(2)** Il est interdit d’entraver volontairement l’action de l’inspecteur dans l’exercice des fonctions que lui confère la présente loi ou de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(2)** Il est interdit d’entraver sciemment l’action de l’inspecteur dans l’exercice des attributions que lui confère la présente loi.
+
+**Déclarations et renseignements faux ou trompeurs**
+
+- **(3)** Il est interdit de faire sciemment une déclaration fausse ou trompeuse ou de communiquer sciemment des renseignements faux ou trompeurs, relativement à toute question visée par la présente loi, à un inspecteur qui agit dans l’exercice de ses attributions au titre de celle-ci.
+> 1998, ch. 25, art. 87; 2014, ch. 2, art. 177.
+
 
 
 
 
 **Révision par l’office**
 
-**88** Sur demande du titulaire de permis d’utilisation des terres concerné, l’office révise sans délai l’ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) et le confirme, le modifie ou l’annule.
+**88** Sur demande de toute personne visée par un ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) ou de l’article 86.1, l’office révise sans délai l’ordre et le confirme, le modifie ou l’annule.
+> 1998, ch. 25, art. 88; 2014, ch. 2, art. 177.
 
 
 
 
-**Inspecteur des eaux : préavis**
+
+**Fermeture ou abandon d’un ouvrage**
 
 **89** 
 
-- **(1)** Dans les cas où il l’estime indiqué, l’inspecteur désigné en vertu de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
+- **(1)** Le ministre fédéral peut prendre les mesures nécessaires pour empêcher, neutraliser, diminuer ou réparer tout effet négatif, dans une zone fédérale, sur les personnes, les biens ou l’environnement et, à cette fin, entrer dans tout lieu situé dans une zone fédérale, à l’exclusion d’un lieu conçu et utilisé de façon temporaire ou permanente comme maison d’habitation, s’il a des motifs raisonnables de croire :
+	- **a)** qu’une personne a fermé ou abandonné, de façon temporaire ou permanente, un ouvrage lié à l’utilisation des eaux ou au dépôt de déchets;
+	- **b)** que :
+		- **(i)** soit une personne a contrevenu ou ne s’est pas conformée à une condition du permis d’utilisation des eaux ou à une disposition de la présente loi ou de ses règlements, indépendamment du fait que la disposition ou la condition soit liée à la fermeture ou à l’abandon,
+		- **(ii)** soit l’exploitation antérieure de l’ouvrage ou sa fermeture ou son abandon risque d’entraîner un danger pour les personnes, les biens ou l’environnement.
 
-**Préavis au gouvernement tlicho**
+**Recouvrement des frais**
 
-- **(1.1)** L’inspecteur donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
-
-**Révision par l’office**
-
-- **(2)** L’office révise sans délai, sur demande de toute personne, l’ordre donné à celle-ci par l’inspecteur en vertu du paragraphe 37(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et le confirme, le modifie ou l’annule.
-> 1998, ch. 25, art. 89; 2005, ch. 1, art. 49.
+- **(2)** Les frais engagés par Sa Majesté du chef du Canada au titre du paragraphe (1) constituent une créance de Sa Majesté dont le recouvrement peut être poursuivi, devant tout tribunal compétent, contre la personne visée au sous-alinéa (1)b)(i). Ils peuvent en outre être recouvrés sur la garantie visée à l’article 72.11.
+> 1998, ch. 25, art. 89; 2005, ch. 1, art. 49; 2014, ch. 2, art. 177.
 
 
 
@@ -1702,8 +2448,108 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-**90.2** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autorisation délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si un règlement municipal établi par l’administration locale de la collectivité tlicho prévoit une exemption à l’égard du type d’utilisation projetée.
-> 2005, ch. 1, art. 51.
+**90.2** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autre autorisation d’utilisation des terres délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si un règlement municipal établi par l’administration locale de la collectivité tlicho prévoit une exemption à l’égard du type d’utilisation projetée.
+> 2005, ch. 1, art. 51; 2014, ch. 2, art. 182.
+
+
+
+
+
+**Règlements : zones fédérales**
+
+**90.3** 
+
+- **(1)** Le gouverneur en conseil peut, après consultation des premières nations des Gwich’in et du Sahtu et du gouvernement tlicho par le ministre fédéral, prendre des règlements relativement à l’utilisation des eaux et au dépôt de déchets dans les zones fédérales; il peut, notamment, prendre de tels règlements :
+	- **a)** sur recommandation du ministre fédéral et de l’office :
+		- **(i)** pour constituer des zones de gestion des eaux comprenant des bassins fluviaux ou autres régions géographiques,
+		- **(ii)** pour classer en catégories les fins des utilisations des eaux dans les zones de gestion des eaux;
+	- **b)** pour l’application des alinéas b) à d) de la définition de ***déchet*** à l’article 51 :
+		- **(i)** pour désigner la liste des substances et catégories de substances,
+		- **(ii)** pour fixer la quantité ou la concentration de substances ou de catégories de substances permises dans l’eau,
+		- **(iii)** pour prescrire les modes de traitement et de transformation de l’eau;
+	- **c)** pour énoncer les critères à suivre par l’office pour déterminer si l’utilisation des eaux ou le dépôt de déchets projeté faisant l’objet d’une demande de permis d’utilisation des eaux requiert un permis de type A ou de type B;
+	- **d)** pour fixer la procédure à suivre pour toute demande à l’office;
+	- **e)** pour établir les formules de demande à l’office, déterminer les renseignements à fournir à l’office à l’appui de la demande et fixer la forme de leur présentation;
+	- **f)** pour établir les autres formules à utiliser;
+	- **g)** pour régir le montant et fixer les modalités et les conditions de la garantie prévue au paragraphe 72.11(1), et éventuellement habiliter l’office à en fixer le montant, compte tenu du plafond précisé ou déterminé en conséquence;
+	- **h)** pour fixer les normes de qualité des eaux;
+	- **i)** pour fixer les normes relatives à la qualité des effluents;
+	- **j)** pour fixer les normes de conception, de construction, d’exploitation et d’entretien des ouvrages liés à l’utilisation des eaux ou au dépôt de déchets;
+	- **k)** pour fixer les droits à payer pour le droit d’utiliser des eaux ou de déposer des déchets en conformité avec un permis d’utilisation des eaux;
+	- **l)** pour déterminer les modalités, temporelles et autres, de paiement des droits;
+	- **m)** sous réserve du décret prévu au paragraphe 91.1(2), pour autoriser l’utilisation — et en déterminer les conditions —, sans permis d’utilisation des eaux, des eaux se trouvant dans une zone de gestion des eaux :
+		- **(i)** pour une fin ou une utilisation réglementaire,
+		- **(ii)** en une quantité, à un régime ou pour une période ne dépassant pas la quantité, le régime ou la période prévus par les règlements,
+		- **(iii)** à la fois pour une fin ou une utilisation réglementaire, et en une quantité, à un régime ou pour une période ne dépassant pas la quantité, le régime ou la période prévus par les règlements;
+	- **n)** sous réserve du décret prévu au paragraphe 91.1(2), pour fixer les quantités, concentrations et types de déchets qui peuvent être déposés sans permis d’utilisation des eaux et déterminer les conditions de leur dépôt;
+	- **o)** pour prévoir les modalités selon lesquelles le fait doit être signalé en application du paragraphe 72.01(3) ainsi que les renseignements à fournir et la désignation de la personne ou de l’autorité à laquelle il doit l’être, au lieu de l’inspecteur;
+	- **p)** pour enjoindre aux personnes qui utilisent des eaux ou déposent des déchets dans une zone de gestion des eaux de tenir les livres et registres nécessaires à l’application de la présente partie et de déposer auprès de l’office les rapports mensuels, trimestriels, semestriels ou annuels contenant les renseignements réglementaires sur celles de leurs activités auxquelles s’applique la présente partie;
+	- **q)** pour enjoindre aux personnes qui déposent des déchets dans une zone de gestion des eaux de fournir, pour analyse, des échantillons de ces déchets à l’office ou d’en faire l’analyse elles-mêmes et d’en communiquer les résultats à celui-ci;
+	- **r)** pour régir le prélèvement et la méthode d’analyse d’échantillons d’eau ou de déchets;
+	- **s)** pour régir les attributions des analystes désignés en vertu du paragraphe 84(2);
+	- **t)** pour prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+	- **u)** pour, d’une façon générale, prendre toute autre mesure nécessaire à l’application de la présente partie.
+
+**Règlements : vallée du Mackenzie**
+
+- **(2)** Le gouverneur en conseil peut, après consultation des premières nations des Gwich’in et du Sahtu et du gouvernement tlicho par le ministre fédéral, prendre des règlements relativement à l’utilisation des eaux et au dépôt de déchets dans la vallée du Mackenzie, notamment :
+	- **a)** pour fixer les droits à payer :
+		- **(i)** pour le dépôt d’une demande auprès de l’office,
+		- **(ii)** pour la consultation du registre tenu en application de l’article 68;
+	- **b)** pour déterminer les modalités, temporelles et autres, de paiement des droits;
+	- **c)** pour déterminer la forme du registre que doit tenir l’office en application de l’article 68 et les renseignements à y porter.
+
+**Variation des règlements**
+
+- **(3)** Les règlements pris en vertu du paragraphe (1) peuvent varier en fonction de certains critères, notamment l’utilisation des eaux autorisée, les fins de l’utilisation, la quantité et le régime utilisés, de même que la quantité, la concentration et le type de déchets déposés.
+> 2014, ch. 2, art. 182.
+
+
+
+
+
+**Documents externes**
+
+**90.4** 
+
+- **(1)** Peut être incorporé par renvoi dans un règlement tout document produit par un organisme ou une personne autre que le ministre fédéral.
+
+**Documents reproduits ou traduits**
+
+- **(2)** Peut être incorporé par renvoi dans un règlement tout document qui résulte de la reproduction ou de la traduction, par le ministre fédéral, d’un document produit par une autre personne ou un organisme et qui comporte, selon le cas :
+	- **a)** des adaptations quant à la forme et aux renvois destinées à en faciliter l’incorporation;
+	- **b)** seulement les passages pertinents pour l’application du règlement.
+
+**Documents produits conjointement**
+
+- **(3)** Peut être incorporé par renvoi dans un règlement tout document produit conjointement par le ministre fédéral et toute autre administration en vue d’harmoniser le règlement avec d’autres règles de droit.
+
+**Normes techniques dans des documents internes**
+
+- **(4)** Peut être incorporé par renvoi dans un règlement tout document technique ou explicatif produit par le ministre fédéral, notamment :
+	- **a)** des spécifications, classifications, illustrations ou graphiques ou tout autre renseignement de nature technique;
+	- **b)** des méthodes d’essai, procédures ou normes d’exploitation, de rendement ou de sécurité, de nature technique.
+
+**Portée de l’incorporation**
+
+- **(5)** L’incorporation par renvoi peut viser le document avec ses modifications successives.
+
+**Interprétation**
+
+- **(6)** Il est entendu que les paragraphes (1) à (5) n’ont pas pour objet d’empêcher la prise de règlements incorporant par renvoi des documents autres que ceux visés à ces paragraphes.
+
+**Accessibilité des documents**
+
+- **(7)** Le ministre fédéral veille à ce que tout document incorporé par renvoi dans les règlements soit accessible.
+
+**Aucune déclaration de culpabilité ni sanction administrative**
+
+- **(8)** Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi dans les règlements et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (7) ou était autrement accessible à la personne en cause.
+
+**Enregistrement ou publication non requis**
+
+- **(9)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+> 2014, ch. 2, art. 182.
 
 
 
@@ -1713,6 +2559,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **91** L’office peut établir des règles en ce qui touche soit le délai à respecter pour la conclusion de l’accord d’indemnisation visé aux articles 77 et 78, soit la résolution des conflits visés à l’article 80 ou 80.1.
 > 1998, ch. 25, art. 91; 2005, ch. 1, art. 52.
+
+
+
+
+
+### Décrets
+
+
+
+**Biens-fonds non cessibles**
+
+**91.1** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, empêcher la cession, en vertu d’un texte législatif ou réglementaire relatif à la cession de toute terre située dans une zone fédérale, pour une période déterminée ou non, de tout ou partie des intérêts dans cette terre lorsqu’il estime que ces intérêts sont requis :
+	- **a)** pour la protection des eaux;
+	- **b)** relativement à une entreprise dont la mise en valeur ou l’exploitation sont, à son avis, d’intérêt public et nécessiteraient l’utilisation de ces intérêts et des eaux adjacentes à cette terre.
+
+**Réserve à l’égard de droits d’utilisation des eaux**
+
+- **(2)** Le gouverneur en conseil peut, par décret, ordonner à l’office, pour une période déterminée ou non, de ne pas délivrer de permis d’utilisation des eaux visant une zone fédérale à l’égard des eaux spécifiées dans le décret ou interdire l’utilisation des eaux ou le dépôt de déchets qui serait autrement permis au titre des alinéas 90.3(1)m) ou n) :
+	- **a)** soit afin de permettre l’évaluation et la planification détaillées de l’ensemble de ces eaux;
+	- **b)** soit dans les cas où l’utilisation de ces eaux et de leur énergie motrice ou le maintien de la qualité de celles-ci est requis à l’égard d’une entreprise déterminée dont la mise en valeur est, à son avis, d’intérêt public.
+
+**Effet d’une cession contraire au décret**
+
+- **(3)** La cession de tout ou partie des intérêts de toute terre d’une zone fédérale faite en contravention avec un décret pris en application du paragraphe (1), ou la délivrance d’un permis d’utilisation des eaux enfreignant un décret pris en application du paragraphe (2), est nulle et sans effet.
+> 2014, ch. 2, art. 185.
 
 
 
@@ -1734,9 +2607,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** En sus de toute autre peine prévue par le paragraphe (1) et compte tenu de la nature de l’infraction et des circonstances de sa perpétration, le tribunal peut rendre une ordonnance enjoignant au contrevenant déclaré coupable d’avoir exercé une activité sans permis d’utilisation des terres de prendre les mesures qu’il estime justes pour réparer ou limiter les dommages découlant des faits ayant mené à la déclaration de culpabilité.
 
-**Infractions continues**
-
-- **(3)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction visée au paragraphe (1).
+- **(3)** [Abrogé, 2014, ch. 2, art. 187]
 
 **Autres infractions**
 
@@ -1749,16 +2620,98 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Infractions principales — utilisation des eaux et dépôt de déchets**
+
+**92.01** 
+
+- **(1)** Commet une infraction quiconque :
+	- **a)** contrevient au paragraphe 72(1) ou à l’article 72.01;
+	- **b)** néglige de se conformer au paragraphe 72(3);
+	- **c)** contrevient aux ordres donnés par l’inspecteur en vertu de l’article 86.1 ou néglige de s’y conformer.
+
+**Peine**
+
+- **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+> 2014, ch. 2, art. 188.
+
+
+
+
+
+**Infractions — permis d’utilisation des eaux de type A**
+
+**92.02** 
+
+- **(1)** Commet une infraction le titulaire d’un permis d’utilisation des eaux de type A visant une zone fédérale :
+	- **a)** qui contrevient aux conditions du permis ou néglige de s’y conformer, si la contravention ou le défaut ne constitue pas une infraction prévue à l’article 92.04;
+	- **b)** qui, sans excuse légitime, néglige de fournir ou de maintenir la garantie exigée par le paragraphe 72.11(1).
+
+**Peine**
+
+- **(2)** Le titulaire qui commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+> 2014, ch. 2, art. 188.
+
+
+
+
+
+**Infractions — permis d’utilisation des eaux de type B**
+
+**92.03** 
+
+- **(1)** Commet une infraction le titulaire d’un permis d’utilisation des eaux de type B visant une zone fédérale :
+	- **a)** qui contrevient aux conditions du permis ou néglige de s’y conformer, si la contravention ou le défaut ne constitue pas une infraction prévue à l’article 92.04;
+	- **b)** qui, sans excuse légitime, néglige de fournir ou de maintenir la garantie exigée par le paragraphe 72.11(1).
+
+**Peine**
+
+- **(2)** Le titulaire qui commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 37 500 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 75 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 2014, ch. 2, art. 188.
+
+
+
+
+
+**Autres infractions — utilisation des eaux et dépôt des déchets**
+
+**92.04** Commet une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque :
+- **a)** contrevient aux paragraphes 87(1), (2) ou (3) en ce qui touche l’utilisation des eaux ou le dépôt de déchets dans une zone fédérale ou à tout règlement pris en vertu des alinéas 90.3(1)p), q) ou r);
+- **b)** sauf dans la mesure permise par la présente partie ou toute autre loi fédérale, entrave ou gêne volontairement de quelque autre façon l’action du titulaire d’un permis d’utilisation des eaux visant une zone fédérale ou de quiconque agit en son nom dans l’exercice des droits que lui confère la présente partie.
+> 2014, ch. 2, art. 188.
+
+
+
+
+
+**Infractions continues**
+
+**92.05** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction prévue aux paragraphes 92(1), 92.01(1), 92.02(1) ou 92.03(1).
+> 2014, ch. 2, art. 188.
+
+
+
+
+
 **Présomption — récidive relative à l’utilisation des terres**
 
 **92.1** 
 
 - **(1)** Pour l’application des paragraphes 92(1) et (4), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement, des espèces sauvages ou des ressources patrimoniales, d’une infraction essentiellement semblable.
 
+**Présomption — récidive relative à l’utilisation des eaux**
+
+- **(1.1)** Pour l’application des paragraphes 92.01(2), 92.02(2) et 92.03(2), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement ou des espèces sauvages, d’une infraction essentiellement semblable.
+
 **Limitation**
 
 - **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
-> 2014, ch. 2, art. 190.
+> 2014, ch. 2, art. 189 et 190.
 
 
 
@@ -1766,8 +2719,50 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prescription**
 
-**93** Les poursuites relatives à une infraction visée à l’article 92 se prescrivent par cinq ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
+**93** Les poursuites relatives à une infraction visée aux articles 92, 92.01, 92.02, 92.03, 92.04 ou 92.05 se prescrivent par cinq ans à compter de la date où le ministre fédéral a eu connaissance des faits reprochés.
 > 1998, ch. 25, art. 93; 2014, ch. 2, art. 190.
+
+
+
+
+
+**Admissibilité**
+
+**93.1** 
+
+- **(1)** Dans les poursuites pour infraction à la présente partie, le certificat, le rapport ou tout autre document paraissant signé par le ministre fédéral, l’office ou un inspecteur est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+**Copies ou extraits**
+
+- **(2)** De même, la copie ou l’extrait de documents établis par le ministre fédéral, l’office ou l’inspecteur et paraissant certifié conforme par lui est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la certification ni la qualité officielle du certificateur; sauf preuve contraire, il a la force probante d’un original dont l’authenticité serait prouvée de la manière habituelle.
+
+**Date**
+
+- **(3)** Sauf preuve contraire, les documents visés au présent article sont présumés avoir été établis à la date qu’ils portent.
+
+**Préavis**
+
+- **(4)** Ils ne sont reçus en preuve que si la partie qui entend les produire contre une autre lui donne un préavis suffisant, accompagné d’une copie de ceux-ci.
+> 2014, ch. 2, art. 190.
+
+
+
+
+
+**Certificat de l’analyste**
+
+**93.2** 
+
+- **(1)** Sous réserve des autres dispositions du présent article, le certificat paraissant signé par l’analyste, où il est déclaré que celui-ci a étudié tel échantillon que lui a remis l’inspecteur et où sont donnés ses résultats, est admissible en preuve dans les poursuites engagées en vertu de la présente partie et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+**Présence de l’analyste**
+
+- **(2)** La partie contre laquelle est produit le certificat peut, avec l’autorisation du tribunal, exiger la présence de l’analyste pour contre-interrogatoire.
+
+**Préavis**
+
+- **(3)** Le certificat n’est recevable en preuve que si la partie qui entend le produire contre une autre lui donne un préavis suffisant, accompagné d’une copie du certificat.
+> 2014, ch. 2, art. 190.
 
 
 
@@ -1786,8 +2781,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droits**
 
-**95** Malgré le paragraphe 14(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres ou les terres tlichos, selon le cas.
-> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54.
+**95** Malgré le paragraphe 72.03(1) et les règles de droit territoriales, les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres ou les terres tlichos, selon le cas.
+> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54; 2014, ch. 2, art. 192.
 
 
 
@@ -1808,11 +2803,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Office*** L’Office des terres et des eaux de la vallée du Mackenzie, constitué en application du paragraphe 99(1).
+***Office*** L’Office des terres et des eaux de la vallée du Mackenzie, constitué en application du paragraphe 99(1). (*Board*)
 
-***permis d’utilisation des eaux*** Permis délivré par l’Office conformément à la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et à la présente partie et visant l’utilisation des eaux ou le dépôt de déchets, ou les deux.
+***permis d’utilisation des eaux***
+- **a)** S’agissant d’une zone fédérale, permis de type A ou de type B délivré par l’Office sous le régime de la présente partie et visant l’utilisation des eaux ou le dépôt de déchets, ou les deux;
+- **b)** s’agissant de terres situées à l’extérieur d’une zone fédérale, permis de type A ou de type B ou autre permis visant l’utilisation des eaux ou le dépôt de déchets, ou les deux, délivré par l’Office sous le régime de la présente partie en conformité avec les règles de droit territoriales. (*licence*)
 
-***permis d’utilisation des terres*** Permis délivré par l’Office conformément à la présente partie et visant l’utilisation des terres.
+***permis d’utilisation des terres*** Permis délivré par l’Office conformément à la présente partie et visant l’utilisation des terres. (*permit*)
 
 **Définitions de la partie 3**
 
@@ -1821,7 +2818,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention de permis**
 
 - **(3)** Pour l’application de la présente partie, la mention de permis, à l’article 90 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 90.1, 90.2 et 92, vise également le permis d’utilisation des terres au sens du paragraphe (1).
-> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55.
+
+**Mention de permis d’utilisation des eaux**
+
+- **(4)** Pour l’application de la présente partie, la mention de permis d’utilisation des eaux, à l’article 90.3 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 72.02, 92.02 à 92.04, vise également le permis d’utilisation des eaux au sens du paragraphe (1).
+> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55; 2014, ch. 2, art. 194.
 
 
 
@@ -1938,12 +2939,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **102** 
 
-- **(1)** L’Office a compétence en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets réalisée dans la vallée du Mackenzie pour laquelle un permis est nécessaire sous le régime de la partie 3 ou aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md). Il exerce à cet égard les attributions conférées aux offices constitués en vertu de cette partie, exception faite toutefois de celles prévues aux articles 78, 79 et 79.2 à 80.1, la mention de la zone de gestion dans les dispositions pertinentes de cette partie valant mention de la vallée du Mackenzie, sauf au paragraphe 61(2) où cette mention continue de viser le Wekeezhii.
+- **(1)** L’Office a compétence en ce qui touche toute forme d’utilisation des terres dans la vallée du Mackenzie pour laquelle un permis est nécessaire sous le régime de la partie 3, ou toute forme d’utilisation des eaux ou de dépôt de déchets dans la vallée du Mackenzie pour laquelle un permis est nécessaire sous le régime de cette partie ou des règles de droit territoriales, selon le cas. Il exerce à cet égard les attributions conférées aux offices constitués en vertu de cette partie, exception faite toutefois de celles prévues aux articles 78, 79 et 79.2 à 80.1, la mention de la zone de gestion dans les dispositions pertinentes de cette partie valant mention de la vallée du Mackenzie, sauf au paragraphe 61(2) où cette mention continue de viser le Wekeezhii.
 
 **Compétence des formations régionales**
 
 - **(2)** Les attributions visées au paragraphe (1) sont exercées, en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets devant être réalisée entièrement dans les limites de sa zone de gestion, et devant vraisemblablement y avoir ses répercussions, par la formation régionale compétente. Celle-ci exerce aussi, malgré ce paragraphe, les attributions conférées aux offices par les articles 78, 79 et 79.2 à 80.1.
-> 1998, ch. 25, art. 102; 2005, ch. 1, art. 58.
+> 1998, ch. 25, art. 102; 2005, ch. 1, art. 58; 2014, ch. 2, art. 195.
 
 
 
@@ -1984,10 +2985,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
-
-**105** Les dispositions de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) mentionnées au paragraphe 60(4) ne s’appliquent pas dans le ressort de l’Office.
+**105** [Abrogé, 2014, ch. 2, art. 196]
 
 
 
@@ -2003,12 +3001,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **106.1** 
 
-- **(1)** L’Office fait au ministre fédéral, sur demande de celui-ci, des recommandations concernant soit la modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application.
+- **(1)** L’Office fait au ministre fédéral, sur demande de celui-ci, des recommandations concernant soit la modification de la présente loi, soit la prise ou la modification de ses textes d’application.
 
 **Recommandations à d’autres autorités**
 
 - **(2)** Il peut également, de sa propre initiative, faire des recommandations au ministre responsable, au ministre territorial et à toute administration locale respectivement, selon qu’il s’agit de la modification d’une loi fédérale — ou la prise ou la modification de ses textes d’application —, d’une règle de droit territoriale ou d’un règlement municipal régissant l’utilisation des terres ou des eaux ou le dépôt de déchets. Il peut en outre faire des recommandations au gouvernement tlicho concernant la modification d’une loi tlicho régissant l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux.
-> 2005, ch. 1, art. 61.
+> 2005, ch. 1, art. 61; 2014, ch. 2, art. 197.
 
 
 
@@ -2113,7 +3111,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Inspecteur des terres**
 
-**110** L’inspecteur désigné en vertu du paragraphe 84(1) exerce, en ce qui touche les lieux visés par un permis d’utilisation des terres, les attributions qui lui sont conférées en vertu de la partie 3.
+**110** L’inspecteur désigné en vertu du paragraphe 84(1) exerce, en ce qui touche l’utilisation des terres ou des eaux et le dépôt de déchets, les attributions qui lui sont conférées en vertu de la partie 3.
+> 1998, ch. 25, art. 110; 2014, ch. 2, art. 198.
+
 
 
 
@@ -2759,7 +3759,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** le dépôt, par quiconque demande un permis ou une autre autorisation relativement au projet ou par le promoteur de celui-ci, d’un énoncé des répercussions et sa mise en circulation en conformité avec les directives établies en vertu de l’article 120 et les instructions données en vertu du paragraphe 133(2);
 	- **c)** la publication, en conformité avec ces directives, d’un avis de ce dépôt;
 	- **d)** les examens du projet que la formation estime nécessaires;
-	- **e)** la tenue d’enquêtes publiques au sein des collectivités concernées ou la consultation de celles-ci.
+	- **e)** la tenue d’audiences publiques au sein des collectivités concernées ou la consultation de celles-ci.
 
 **Délai**
 
