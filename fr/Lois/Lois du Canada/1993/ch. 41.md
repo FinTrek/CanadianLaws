@@ -82,12 +82,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Malgré toute autre loi fédérale, le commissaire en conseil des Territoires du Nord-Ouest et la Législature du Yukon ne peuvent, sans l’agrément du gouverneur en conseil, abroger, modifier ni rendre inopérantes les dispositions visées à l’alinéa 3(2) c).
+- **(1)** Malgré toute autre loi fédérale, la Législature du Yukon et la Législature des Territoires du Nord-Ouest ne peuvent, sans l’agrément du gouverneur en conseil, abroger, modifier ni rendre inopérantes les dispositions visées à l’alinéa 3(2)c).
 
 **Nunavut**
 
 - **(2)** La même restriction s’applique à la Législature du Nunavut en ce qui touche les dispositions de ses lois qui correspondent à celles visées aux sous-alinéas 3(2) c)(i), (iii) et (iv).
-> 1993, ch. 41, art. 4; 2002, ch. 7, art. 198.
+> 1993, ch. 41, art. 4; 2002, ch. 7, art. 198; 2014, ch. 2, art. 44.
 
 
 
@@ -97,12 +97,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** L’ordonnance sur les titres fonciers, ainsi que la loi de la Législature du Yukon ou du Nunavut qui en tient lieu, peuvent disposer que les certificats de titre délivrés sous leur régime sont opposables à Sa Majesté devant les tribunaux, sous réserve des exceptions prévues par la  Loi sur les titres de biens-fonds, dans sa version à l’abrogation pour le territoire.
+- **(1)** Toute loi de la Législature du Yukon, de la Législature des Territoires du Nord-Ouest ou de la Législature du Nunavut peut disposer que les certificats de titre délivrés sous leur régime sont opposables à Sa Majesté devant les tribunaux, sous réserve des mêmes exceptions que celles prévues par la Loi sur les titres de biens-fonds, dans sa version à l’abrogation pour le territoire.
 
 **Modification des exceptions**
 
 - **(2)** Le gouverneur en conseil peut toutefois permettre la modification ou la suppression d’exceptions, de même que l’ajout de nouvelles exceptions.
-> 1993, ch. 41, art. 5; 2002, ch. 7, art. 199.
+> 1993, ch. 41, art. 5; 2002, ch. 7, art. 199; 2014, ch. 2, art. 45.
 
 
 
