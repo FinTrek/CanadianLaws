@@ -1043,42 +1043,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-### Initial Laws of Nunavut
-
-
-
-**Amending ordinances**
-
-**76.05** 
-
-- **(1)** In relation to any ordinance referred to in subsection 29(1), on the recommendation of the Interim Commissioner, the Commissioner in Council of the Northwest Territories may, before the day that section 3 comes into force and to the extent of the legislative competence of the Legislature, by ordinance, specify
-	- **(a)** the text that will become the law of the Legislature instead of a duplicate of that ordinance that would otherwise become a law of the Legislature under subsection 29(1); or
-	- **(b)** the differences between the text of what will become the law of the Legislature and the ordinance referred to in subsection 29(1).
-
-**Consultation**
-
-- **(2)** The recommendation may be made only after the Government of the Northwest Territories consults with Tunngavik.
-
-**Ordinances — paragraph (1)(a)**
-
-- **(3)** If an ordinance is made under paragraph (1)(a), the text it specifies is, on the day that section 3 comes into force, deemed to be a law of the Legislature and the ordinance referred to in that paragraph is not duplicated under subsection 29(1).
-
-**Ordinances — paragraph (1)(b)**
-
-- **(4)** If an ordinance is made under paragraph (1)(b), the law of the Legislature, on the day that section 3 comes into force, is the duplicate under subsection 29(1) of the ordinance referred to in that paragraph with the differences specified.
-
-**Transmittal and disallowance**
-
-- **(5)** Section 21 of the [Northwest Territories Act](/en/Acts/Statutes%20of%20Canada/2014/c.%202,%20s.%202.md) applies to an ordinance made under subsection (1), and section 28 of this Act does not apply to the law of the Legislature resulting from the application of subsection (3) or (4) to the ordinance. If a provision of the ordinance is disallowed under subsection 21(2) of that Act, then the provision of the law of the Legislature resulting from the application of subsection (3) or (4) to the provision of the ordinance is disallowed.
-
-**Public offices and public bodies**
-
-- **(6)** An ordinance made under subsection (1) may exempt a public office or public body from the application of section 76.06 and, in that case,
-	- **(a)** the recommendation by the Interim Commissioner may be made only after the Government of the Northwest Territories consults with the public office or public body; and
-	- **(b)** the ordinance must provide for the circumstances under which the assets and liabilities of the public office or public body, and any funds that it administers, may be divided and the manner in or process by which that division may be determined.
-> 1998, c. 15, s. 16.
-
+**76.05** [Repealed, 2014, c. 2, s. 43]
 
 
 
