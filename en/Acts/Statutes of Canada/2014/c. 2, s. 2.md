@@ -8,7 +8,7 @@
 Assented to on 25 March 2014
 
 ```
-[Enacted by section 2 of chapter 2 of the Statutes of Canada, 2014, not in force.]
+[Enacted by section 2 of chapter 2 of the Statutes of Canada, 2014, in force April 1, 2014, see SI/2014-34.]
 ```
 ----------
 
@@ -40,64 +40,64 @@ Assented to on 25 March 2014
 
 **2** The following definitions apply in this Act.
 
-***Aboriginal party*** means an Aboriginal organization that is a party to the Agreement.
+***Aboriginal party*** means an Aboriginal organization that is a party to the Agreement. (*partie autochtone*)
 
-***Agreement*** means the Northwest Territories Lands and Resources Devolution Agreement that was made on June 25, 2013, as amended from time to time.
+***Agreement*** means the Northwest Territories Lands and Resources Devolution Agreement that was made on June 25, 2013, as amended from time to time. (*accord*)
 
-***federal appurtenant undertaking*** means an undertaking in relation to which a use of waters or a deposit of waste is permitted by a licence and that is
+***federal appurtenant undertaking*** means an undertaking in relation to which a use of waters or a deposit of waste is permitted by a licence and that is
 - **(a)** related to remediation that is performed by or on behalf of Her Majesty in right of Canada
 	- **(i)** under the Agreement, or
 	- **(ii)** in respect of an Excepted Waste Site as defined in section 1.1 of the Agreement; or
-- **(b)** located on public lands that are under the administration of a federal minister.
+- **(b)** located on public lands that are under the administration of a federal minister. (*entreprise fédérale en cause*)
 
-***former Act*** means the Northwest Territories Act, chapter N-27 of the Revised Statutes of Canada, 1985.
+***former Act*** means the Northwest Territories Act, chapter N-27 of the Revised Statutes of Canada, 1985. (*ancienne loi*)
 
-***gas*** means natural gas — including coal-bed methane — and all substances other than oil that are produced in association with natural gas.
+***gas*** means natural gas — including coal-bed methane — and all substances other than oil that are produced in association with natural gas. (*gaz*)
 
-***Gwich’in Agreement*** means the Agreement as defined in section 2 of the [Gwich’in Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md).
+***Gwich’in Agreement*** means the Agreement as defined in section 2 of the [Gwich’in Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md). (*accord gwichin*)
 
-***Inuvialuit Final Agreement*** means the Agreement as defined in section 2 of the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md).
+***Inuvialuit Final Agreement*** means the Agreement as defined in section 2 of the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md). (*Convention définitive des Inuvialuits*)
 
-***line of delimitation*** means the Line of Delimitation that is described in Schedule 18 to the Agreement.
+***line of delimitation*** means the Line of Delimitation that is described in Schedule 18 to the Agreement. (*ligne de démarcation*)
 
-***minerals*** means precious or base metals or other non-living naturally occurring substances — including coal, but not including oil, gas or water — that are, or were before their production, part of the land, whether solid, liquid or gaseous.
+***minerals*** means precious or base metals or other non-living naturally occurring substances — including coal, but not including oil, gas or water — that are, or were before their production, part of the land, whether solid, liquid or gaseous. (*ressources minérales*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***Northwest Territories*** means that part of Canada that is north of the 60th parallel of north latitude, west of the boundary described in Schedule I to the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md) and not within Yukon.
+***Northwest Territories*** means that part of Canada that is north of the 60th parallel of north latitude, west of the boundary described in Schedule I to the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md) and not within Yukon. (*Territoires du Nord-Ouest*)
 
-***oil*** means
+***oil*** means
 - **(a)** crude petroleum — regardless of gravity — that is produced at a well-head in liquid form; or
-- **(b)** any other hydrocarbons — except coal and gas — including hydrocarbons that may be extracted or recovered from surface or subsurface deposits, including deposits of oil sand, bitumen, bituminous sand or oil shale and other types of deposits.
+- **(b)** any other hydrocarbons — except coal and gas — including hydrocarbons that may be extracted or recovered from surface or subsurface deposits, including deposits of oil sand, bitumen, bituminous sand or oil shale and other types of deposits. (*pétrole*)
 
-***onshore*** means that part of Canada that is north of the 60th parallel of north latitude, west of the boundary described in Schedule I to the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md) and not within Yukon that consists of the following lands:
+***onshore*** means that part of Canada that is north of the 60th parallel of north latitude, west of the boundary described in Schedule I to the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md) and not within Yukon that consists of the following lands:
 - **(a)** lands, including lands under water, that lie landward of the low-water line — or in respect of Inuvialuit lands as defined in section 2 of the Inuvialuit Final Agreement, landward of the mean or ordinary high-water mark — of the sea coast of the mainland or of the sea coast of any naturally occurring permanent island;
 - **(b)** lands under water that are within small enclosed bays along the sea coast of the mainland or the sea coast of any naturally occurring permanent island; and
 - **(c)** lands, including lands under water, that lie landward of the line of delimitation and seaward of the low-water line — or in respect of lands that are contiguous with the sea coast of Inuvialuit lands as defined in section 2 of the Inuvialuit Final Agreement, seaward of the mean or ordinary high-water mark — of the sea coast of the mainland.
 
-It does not include lands that lie seaward of the line of delimitation, other than those lands — including lands under water — that lie landward of the low-water line of the sea coast of those naturally occurring permanent islands and those lands under water that are within small enclosed bays along the sea coast of those islands.
+It does not include lands that lie seaward of the line of delimitation, other than those lands — including lands under water — that lie landward of the low-water line of the sea coast of those naturally occurring permanent islands and those lands under water that are within small enclosed bays along the sea coast of those islands. (*région intracôtière*)
 
-***public lands*** means
+***public lands*** means
 - **(a)** lands — including minerals, oil, gas, timber or wood and buildings, structures, improvements or other fixtures — that are situated in the onshore and that belong to Her Majesty in right of Canada; or
-- **(b)** interests — in lands that are situated in the onshore — that belong to Her Majesty in right of Canada.
+- **(b)** interests — in lands that are situated in the onshore — that belong to Her Majesty in right of Canada. (*terres domaniales*)
 
-***Sahtu Agreement*** means the Agreement as defined in section 2 of the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md).
+***Sahtu Agreement*** means the Agreement as defined in section 2 of the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md). (*accord du Sahtu*)
 
-***self-government agreement*** means an agreement between Her Majesty in right of Canada and an Aboriginal people of the Northwest Territories that is implemented by an Act of Parliament and that recognizes
+***self-government agreement*** means an agreement between Her Majesty in right of Canada and an Aboriginal people of the Northwest Territories that is implemented by an Act of Parliament and that recognizes
 - **(a)** the legal status and capacity of a governing body to represent that Aboriginal people; and
-- **(b)** the authority of that governing body to enact laws.
+- **(b)** the authority of that governing body to enact laws. (*accord sur l’autonomie gouvernementale*)
 
-***settlement agreement*** means an agreement that is listed in Schedule 1 to the Agreement.
+***settlement agreement*** means an agreement that is listed in Schedule 1 to the Agreement. (*entente de règlement*)
 
-***settlement lands*** means lands in the Northwest Territories whose title is vested in an Aboriginal organization under a settlement agreement.
+***settlement lands*** means lands in the Northwest Territories whose title is vested in an Aboriginal organization under a settlement agreement. (*terres visées par un règlement*)
 
-***small enclosed bay*** means any coastal indentation that meets the following conditions:
+***small enclosed bay*** means any coastal indentation that meets the following conditions:
 - **(a)** the distance of a straight line across the entrance of the indentation at the low-water line measures four kilometres or less; and
-- **(b)** the area of the indentation, including any islands or parts of islands lying within the indentation, is greater than that of a semicircle whose diameter is the distance of the straight line referred to in paragraph (a).
+- **(b)** the area of the indentation, including any islands or parts of islands lying within the indentation, is greater than that of a semicircle whose diameter is the distance of the straight line referred to in paragraph (a). (*petite baie fermée*)
 
-***Tlicho Agreement*** means the Agreement as defined in section 2 of the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md).
+***Tlicho Agreement*** means the Agreement as defined in section 2 of the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md). (*accord tlicho*)
 
-***waters*** means any inland waters — whether in a liquid or frozen state — that are on or below the surface of lands that are situated in the onshore.
+***waters*** means any inland waters — whether in a liquid or frozen state — that are on or below the surface of lands that are situated in the onshore. (*eaux*)
 
 
 
