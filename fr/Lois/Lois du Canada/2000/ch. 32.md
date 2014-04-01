@@ -1245,7 +1245,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Permis d’utilisation des eaux**
 
-- **(4)** Le ministre peut délivrer, modifier, renouveler, suspendre, annuler ou autoriser la cession de tout permis pour l’utilisation des eaux situées dans l’aire d’agrandissement pour les besoins prévus au paragraphe (2). À cette fin, les paragraphes 14(1), (4), (5) et (7), les articles 15, 16 à 19, 32 et 36, les paragraphes 37(1), (3) et (4) et les articles 38, 39, 43 et 44 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et ses règlements s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre ou de l’Office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
+- **(4)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis — ou en autoriser la cession — pour l’utilisation des eaux situées dans l’aire d’agrandissement pour les besoins prévus au paragraphe (2). À cette fin, les paragraphes 31(3) et 72.03(1), (6) et (7), les articles 72.04, 72.1, 72.11, 72.13 et 72.15, les paragraphes 85(1) et (2) et les articles 85.1 à 85.3, 86.1 à 87, 89 et 93.2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements — et, jusqu’à ce qu’il soit modifié ou abrogé par un règlement pris sous cette loi, le Règlement sur les eaux des Territoires du Nord-Ouest — s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou de l’Office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
 
 **Permis de pourvoirie**
 
@@ -1277,7 +1277,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application au parc**
 
 - **(10)** Lorsque tout ou partie des terres domaniales situées dans l’aire d’agrandissement deviennent un parc ou sont intégrées à un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
-> 2009, ch. 17, art. 7.
+> 2009, ch. 17, art. 7; 2014, ch. 2, art. 50.
 
 
 
@@ -6972,7 +6972,7 @@ De là, vers le nord-est, le long de la limite sud de la région visée par le r
 
 
 
-EXCLUANT toute les terres décrites à la Partie I ainsi que celles décrites comme étant la Région de Prairie Creek et allant comme suit :
+EXCLUANT toutes les terres décrites à la Partie I, celles situées dans le lot 2, groupe 859, sur le plan 62730MC déposé aux Archives d’arpentage des terres du Canada à Ottawa ainsi que celles décrites comme étant la Région de Prairie Creek et allant comme suit :
 
 
 
@@ -8971,7 +8971,7 @@ L’ensemble de l’île de Sable, située près des coordonnées géographiques
 La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4.
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51.
 
 
 
