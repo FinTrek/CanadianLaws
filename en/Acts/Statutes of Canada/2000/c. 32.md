@@ -1255,7 +1255,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 
 **Water licences**
 
-- **(4)** The Minister may issue, amend, renew, suspend, cancel, and approve the assignment of, licences for the use of waters in the expansion area for the purposes of the mining access roads referred to in subsection (2) and, in relation to such licences, subsections 14(1), (4), (5) and (7) and sections 15, 16 to 19, 32 and 36, subsections 37(1), (3) and (4) and sections 38, 39, 43 and 44 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) and the regulations made under that Act apply, with any adaptations that may be necessary, as if the references in those provisions to the Minister or the Board were references to the Minister responsible for the Parks Canada Agency and the references in those provisions to an inspector were references to the superintendent of the Park Reserve, a park warden or an enforcement officer designated for the purposes of this subsection.
+- **(4)** The Minister may issue, amend, renew, suspend or cancel — or approve the assignment of — licences for the use of waters in the expansion area for the purposes of the mining access roads referred to in subsection (2) and, in relation to such licences, subsections 31(3) and 72.03(1), (6) and (7), sections 72.04, 72.1, 72.11, 72.13 and 72.15, subsections 85(1) and (2) and sections 85.1 to 85.3, 86.1 to 87, 89 and 93.2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), the regulations made under that Act and, until they are amended or repealed, the Northwest Territories Waters Regulations apply, with any adaptations that may be necessary, as if the references in those provisions to the federal Minister or the Board were references to the Minister responsible for the Parks Canada Agency and the references in those provisions to an inspector were references to the superintendent of the Park Reserve, a park warden or an enforcement officer designated for the purposes of this subsection.
 
 **Outfitter licences**
 
@@ -1287,7 +1287,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Creation of park**
 
 - **(10)** After any public lands within the expansion area become a park, this section continues to apply in respect of those lands with any adaptations that may be necessary.
-> 2009, c. 17, s. 7.
+> 2009, c. 17, s. 7; 2014, c. 2, s. 50.
 
 
 
@@ -7018,7 +7018,7 @@ Thence northeasterly along the southerly boundary of the Sahtu Settlement Area t
 
 
 
-Saving and Excepting thereout and therefrom, all those lands within Part I and those described as the Prairie Creek Area being described as follows:
+Saving and Excepting thereout and therefrom, all those lands within Part I, those within the area of Lot 2, Group 859 as shown on Plan 62730MC recorded in the Canada Lands Surveys Records at Ottawa and those described as the Prairie Creek Area being described as follows:
 
 
 
@@ -9009,7 +9009,7 @@ All of Sable Island located near the geographic coordinates 43°56′ north lati
 Said parcel containing an area of approximately 30 square kilometres.
 
 
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4.
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51.
 
 
 
