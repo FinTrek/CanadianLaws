@@ -327,8 +327,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compatibilité**
 
-- **(2)** Malgré l’alinéa (1)b), le seul fait d’être membre d’un organisme ou d’une commission constitué par le commissaire en conseil des Territoires du Nord-Ouest ou par la Législature du Yukon ou celle du Nunavut, et d’être doté de pouvoirs et fonctions semblables à ceux de la Commission n’est pas incompatible avec la charge de commissaire.
-> 2003, ch. 22, art. 2 « 18 » et 273.
+- **(2)** Malgré l’alinéa (1)b), le seul fait d’être membre d’un organisme ou d’une commission constitué par la Législature du Yukon, la Législature des Territoires du Nord-Ouest ou la Législature du Nunavut, et d’être doté de pouvoirs et fonctions semblables à ceux de la Commission n’est pas incompatible avec la charge de commissaire.
+> 2003, ch. 22, art. 2 « 18 » et 273; 2014, ch. 2, art. 54.
 
 
 
