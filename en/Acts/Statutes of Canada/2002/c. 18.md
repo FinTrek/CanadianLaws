@@ -394,8 +394,8 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **Conflicts**
 
-- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the Navigable Waters Protection Act or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) to the extent of any conflict between them.
-> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20.
+- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the Navigation Protection Act or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) to the extent of any conflict between them.
+> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35; 2009, c. 14, s. 20; 2012, c. 31, s. 346.
 
 
 
