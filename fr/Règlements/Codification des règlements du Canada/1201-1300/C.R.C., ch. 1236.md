@@ -10,14 +10,15 @@ Autorités habilitantes :
 ----------
 
 
-**1** Le gouverneur en conseil déclare le gibier énuméré à l’annexe comme étant menacé d’extinction.
+[Abrogé, 2014, ch. 2, art. 68]
+
+
+**1** [Abrogé, 2014, ch. 2, art. 68]
 
 
 
 
 ### **ANNEXE** 
-- Bison d’Athabasca
-- Boeuf musqué
-- Ours polaire
-- Renne arctique
+[Abrogée, 2014, ch. 2, art. 68]
+
 
