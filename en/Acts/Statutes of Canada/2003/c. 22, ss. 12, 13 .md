@@ -1703,12 +1703,12 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 ***provincial election*** means an election to the legislature of a province.
 
-***territorial election*** means an election to the Council of the Northwest Territories or the Legislative Assembly of Yukon or of Nunavut.
+***territorial election*** means an election to the Legislative Assembly of Yukon, the Northwest Territories or Nunavut.
 
 **Meaning of deputy head**
 
 - **(2)** For the purposes of this Part, ***deputy head*** includes a Commissioner appointed under subsection 4(5) and the Chairperson of the Tribunal designated under subsection 88(5).
-> 2003, c. 22, ss. 12 “111”, 272.
+> 2003, c. 22, ss. 12 “111”, 272; 2014, c. 2, s. 55.
 
 
 
