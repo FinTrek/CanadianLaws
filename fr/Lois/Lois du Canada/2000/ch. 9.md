@@ -519,7 +519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Ne peuvent être nommés fonctionnaire électoral :
 	- **a)** les ministres fédéraux ou les membres du conseil exécutif d’une province;
 	- **b)** les membres du Sénat ou de la Chambre des communes;
-	- **c)** les membres de l’Assemblée législative d’une province, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Yukon ou du Nunavut;
+	- **c)** les membres de l’assemblée législative d’une province;
 	- **d)** les juges et les juges adjoints ou suppléants soit de toute cour supérieure ou de tout tribunal de faillite, soit, au Yukon ou dans les Territoires du Nord-Ouest, de la Cour suprême de ces territoires;
 	- **d.1)** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
 	- **e)** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
@@ -538,7 +538,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 - **(6)** Il est interdit à quiconque d’agir à titre de fonctionnaire électoral, sachant que le présent article le rend inhabile à le faire.
-> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91; 2006, ch. 9, art. 173.
+> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91; 2006, ch. 9, art. 173; 2014, ch. 2, art. 48.
 
 
 
@@ -1427,14 +1427,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **65** Les personnes suivantes ne peuvent se porter candidat à une élection :
 - **a)** les personnes qui n’ont pas qualité d’électeur le jour où elles déposent leur acte de candidature;
 - **b)** les personnes qui sont inéligibles aux termes de l’alinéa 502(3)a);
-- **c)** les membres de l’Assemblée législative d’une province, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Yukon ou du Nunavut;
+- **c)** les membres de l’assemblée législative d’une province;
 - **d)** les personnes qui exercent la charge de shérif, de greffier de la paix ou de procureur de la Couronne dans une province;
 - **e)** les personnes qui, aux termes de l’article 4, sont inhabiles à voter;
 - **f)** les juges nommés par le gouverneur en conseil, à l’exception des juges de la citoyenneté nommés sous le régime de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md);
 - **g)** les personnes incarcérées dans un établissement correctionnel;
 - **h)** les fonctionnaires électoraux;
 - **i)** les personnes qui étaient candidates lors d’une élection antérieure, dans les cas où les documents visés au paragraphe 451(1) n’ont pas été produits pour cette élection dans les délais ou les délais supplémentaires impartis pour leur production.
-> 2000, ch. 9, art. 65; 2002, ch. 7, art. 92.
+> 2000, ch. 9, art. 65; 2002, ch. 7, art. 92; 2014, ch. 2, art. 49.
 
 
 
