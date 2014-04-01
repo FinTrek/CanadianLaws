@@ -1725,15 +1725,15 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 - **b)** toute activité exercée pour soutenir un candidat avant ou pendant la période électorale ou pour s’y opposer;
 - **c)** le fait d’être candidat à une élection ou de tenter de le devenir, avant ou pendant la période électorale.
 
-***élection*** Élection fédérale, provinciale, territoriale ou municipale.
+***élection*** Élection fédérale, provinciale, territoriale ou municipale. 
 
-***élection fédérale*** Élection à la Chambre des communes.
+***élection fédérale*** Élection à la Chambre des communes. 
 
-***élection municipale*** Élection à la charge de maire ou de conseiller d’une municipalité.
+***élection municipale*** Élection à la charge de maire ou de conseiller d’une municipalité. 
 
-***élection provinciale*** Élection à l’assemblée législative d’une province.
+***élection provinciale*** Élection à l’assemblée législative d’une province. 
 
-***élection territoriale*** Élection au Conseil des Territoires du Nord-Ouest ou à l’Assemblée législative du Yukon ou à celle du Nunavut.
+***élection territoriale*** Élection à l’Assemblée législative du Yukon, à l’Assemblée législative des Territoires du Nord-Ouest ou à l’Assemblée législative du Nunavut.
 
 ***municipalité***
 - **a)** Municipalité régionale, ville, village, canton, district, comté, municipalité rurale — ou autre municipalité, quelle qu’en soit la désignation — dotés ou non de la personnalité morale;
@@ -1742,7 +1742,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Administrateur général**
 
 - **(2)** Pour l’application de la présente partie, les commissaires nommés aux termes du paragraphe 4(5) et le président du Tribunal désigné en vertu du paragraphe 88(5) sont considérés comme des administrateurs généraux.
-> 2003, ch. 22, art. 12 « 111 » et 272.
+> 2003, ch. 22, art. 12 « 111 » et 272; 2014, ch. 2, art. 55.
 
 
 
