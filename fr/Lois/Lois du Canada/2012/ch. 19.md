@@ -2820,7 +2820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les articles 446, 448 et 451 entrent en vigueur le 1<sup>er</sup> juillet 2013.
 
-<a name='fn_IndAD7C_hq_14025'><sup>*</sup></a>: [Note : Articles 449, 450 et 453 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-18.]<br />
+<a name='fn_IndAD7C_hq_14025'><sup>*</sup></a>: [Note : Articles 449, 450 et 453 en vigueur le 1<sup>er</sup> mars 2013, *voir* TR/2013-18; article 466 en vigueur le 1<sup>er</sup> avril 2014, *voir* TR/2014-31.]<br />
 
 
 
@@ -2920,7 +2920,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind15A1_hq_12924'>[*]</a></sup>**478** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind15A1_hq_12924'><sup>*</sup></a>: [Note : Section 27 non en vigueur.]<br />
+<a name='fn_Ind15A1_hq_12924'><sup>*</sup></a>: [Note : Section 27 en vigueur le 1<sup>er</sup> avril 2014, *voir* TR/2014-17.]<br />
 
 
 
