@@ -2820,7 +2820,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Sections 446, 448 and 451 come into force on July 1, 2013.
 
-<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Sections 449, 450 and 453 in force March 1, 2013, *see* SI/2013-18.]<br />
+<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Sections 449, 450 and 453 in force March 1, 2013, *see* SI/2013-18; section 466 in force April 1, 2014, *see* SI/2014-31.]<br />
 
 
 
@@ -2920,7 +2920,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind979C_hq_12902'>[*]</a></sup>**478** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind979C_hq_12902'><sup>*</sup></a>: [Note: Division 27 not in force.]<br />
+<a name='fn_Ind979C_hq_12902'><sup>*</sup></a>: [Note: Division 27 in force April 1, 2014, *see* SI/2014-17.]<br />
 
 
 
