@@ -211,13 +211,15 @@ and that is declared by order of the Minister to be a relevant association or or
 
 
 
-## Relationship to Navigable Waters Protection Act
+## Relationship to Navigation Protection Act
 
 
 
-**Compliance with Navigable Waters Protection Act**
+**Compliance with Navigation Protection Act**
 
-**5** Where a person proposes to construct or alter a railway work in, on, over, under, through or across any navigable water within the meaning of the Navigable Waters Protection Act, the requirements imposed by or under this Act apply in addition to, and not in substitution for, the requirements imposed by or under the Navigable Waters Protection Act.
+**5** If a person proposes to construct or alter a railway work in, on, over, under, through or across any navigable water as defined in section 2 of the Navigation Protection Act, the requirements imposed by or under this Act apply in addition to, and not in substitution for, the requirements imposed by or under the Navigation Protection Act.
+> R.S., 1985, c. 32 (4th Supp.), s. 5; 2012, c. 31, s. 341.
+
 
 
 
