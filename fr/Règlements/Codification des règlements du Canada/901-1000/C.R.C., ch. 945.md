@@ -50622,6 +50622,7 @@ par
 - American University, The, Washington, District de Columbia
 - American University in Cairo, The, New York, New York
 - Amherst College, Amherst, Massachusetts
+- Anabaptist Mennonite Biblical Seminary, Elkhart, Indiana
 - Anderson College, Anderson, Caroline du Sud
 - Andover Newton Theological School, Newton Centre, Massachusetts
 - Andrews University, Berrien Springs, Michigan
@@ -50634,6 +50635,7 @@ par
 - Aurora University, Aurora, Illinois
 - Azusa Pacific College, Azusa, Californie
 - Babson College, Babson Park, Massachusetts
+- Bacone College, Muskogee, Oklahoma
 - Bard College, Annandale-on-Hudson, New York
 - Barnard College, New York, New York
 - Bastyr University, Seattle, Washington
@@ -50695,6 +50697,7 @@ par
 - Concordia College, Moorhead, Minnesota
 - Connecticut College, New London, Connecticut
 - Conway School of Landscape Design, Conway, Massachusetts
+- Cooper Union for the Advancement of Science and Art, The, New York, New York
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
@@ -50730,6 +50733,7 @@ par
 - Florida State University, Tallahassee, Floride
 - Fordham University, New York, New York
 - Franciscan University of Steubenville, Steubenville, Ohio
+- Freed-Hardeman University, Henderson, Tennessee
 - Fresno Pacific College, Fresno, Californie
 - Fuller Theological Seminary, Pasadena, Californie
 - Gallaudet College, Washington, District de Columbia
@@ -50784,9 +50788,11 @@ par
 - Liberty University, Lynchburg, Virginie
 - Life Chiropractic College West, Hayward, Californie
 - Life University, Marietta, Georgie
+- Limestone College, Gaffney, Caroline du Sud
 - Logan College of Chiropractic, Saint-Louis, Missouri
 - Loma Linda University, Loma Linda, Californie
 - Louisiana State University and Agricultural and Mechanical College, Baton Rouge, Louisiane
+- Loyola Marymount University, Los Angeles, Californie
 - Loyola University, Chicago, Illinois
 - Macalester College, St. Paul, Minnesota
 - Magdalen College, Warner, New Hampshire
@@ -50808,6 +50814,7 @@ par
 - Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
 - Messiah College, Grantham, Pennsylvanie
 - Miami University, Oxford, Ohio
+- Michigan State University College of Law, East Lansing, Michigan
 - Michigan State University, Detroit College of Law, East Lansing, Michigan
 - Michigan State University, East Lansing, Michigan
 - Michigan Technological University, Houghton, Michigan
@@ -50939,6 +50946,7 @@ par
 - Telshe Yeshiva Rabbinical College of Telshe, Inc., Wickcliffe, Ohio
 - Telshe Yeshiva-Chicago, Rabbinical College of Telshe-Chicago, Inc., Chicago, Illinois
 - Temple University, Philadelphie, Pennsylvanie
+- Temple University School of Podiatric Medicine, Philadelphie, Pennsylvanie
 - Texas A&M University, College Station, Texas
 - Texas Chiropractic College, Pasadena, Texas
 - Texas Woman’s University, Denton, Texas
@@ -50963,6 +50971,7 @@ par
 - University at Albany, State University of New York, Albany, New York
 - University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
+- University of Alabama in Huntsville, Huntsville, Alabama
 - University of Arizona, The, Tucson, Arizona
 - University of Arkansas at Little Rock, Little Rock, Arkansas
 - University of California, Berkeley, Californie
@@ -51021,6 +51030,7 @@ par
 - University of St. Thomas, St. Paul, Minnesota
 - University of Tennessee, The, Knoxville, Tennessee
 - University of Texas, Austin, Texas
+- University of Texas Health Science Center at Houston, Houston, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, Californie
 - University of Tulsa, Tulsa, Oklahoma
@@ -51030,6 +51040,7 @@ par
 - University of Washington, Seattle, Washington
 - University of Western States, Portland, Oregon
 - University of Wisconsin, Madison, Wisconsin
+- University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
 - University of Wyoming, The, Laramie, Wyoming
 - Utah State University of Agriculture and Applied Science, Logan, Utah
 - Valparaiso University, Valparaiso, Indiana
@@ -51043,10 +51054,13 @@ par
 - Washington State University, Pullman, Washington
 - Washington University, Saint Louis, Missouri
 - Wayne State University, Detroit, Michigan
+- Welch College, Nashville, Tennessee
 - Wellesley College, Wellesley, Massachusetts
 - Wesleyan University, Middletown, Connecticut
 - Western Conservative Baptist Seminary, Portland, Oregon
+- Western Illinois University, Macomb, Illinois
 - Western Michigan University, Kalamazoo, Michigan
+- Western Seminary, Portland, Oregon
 - Western University of Health Sciences, Pomona, Californie
 - Western Washington University, Bellingham, Washington
 - Westfield State College, Westfield, Massachusetts
@@ -51110,6 +51124,7 @@ par
 - University of Sussex, Brighton, Angleterre
 - University of Ulster, Newtonabbey, Irlande du Nord
 - University of Wales, Cardiff, Pays de Galles
+- University of York, York, Angleterre
 
 
 **3** Les universités situées en France qui sont prescrites par l’article 3503 sont les suivantes :
@@ -51143,6 +51158,7 @@ par
 
 **8** Les universités situées en Israël qui sont prescrites par l’article 3503 sont les suivantes :
 - École biblique et archéologique française, Jérusalem
+- Interdisciplinary Center, The, Herzliya, Israël
 - Jerusalem College for Women, Bayit-Vegan, Jerusalem
 - Jerusalem College of Technology, Jerusalem
 - L’Université Bar-Ilan, Ramat-Gan
@@ -51151,6 +51167,7 @@ par
 - Technion-Israel Institute of Technology, Haïfa
 - Université de Tel-Aviv, Tel-Aviv
 - Université de Haïfa, Haïfa
+- Weizmann Institute of Science, Rehovot, Israël
 - Yeshivat Aish Hatorah, Jérusalem
 
 
@@ -51243,7 +51260,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9; DORS/2014-81, art. 1, 2 et 6.
 
 
 
