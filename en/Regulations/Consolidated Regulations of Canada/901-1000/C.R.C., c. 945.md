@@ -50774,6 +50774,7 @@ by
 - American University, The, Washington, District of Columbia
 - American University in Cairo, The, New York, New York
 - Amherst College, Amherst, Massachusetts
+- Anabaptist Mennonite Biblical Seminary, Elkhart, Indiana
 - Anderson College, Anderson, South Carolina
 - Andover Newton Theological School, Newton Centre, Massachusetts
 - Andrews University, Berrien Springs, Michigan
@@ -50786,6 +50787,7 @@ by
 - Aurora University, Aurora, Illinois
 - Azusa Pacific College, Azusa, California
 - Babson College, Babson Park, Massachusetts
+- Bacone College, Muskogee, Oklahoma
 - Bard College, Annandale-On-Hudson, New York
 - Barnard College, New York, New York
 - Bastyr University, Seattle, Washington
@@ -50847,6 +50849,7 @@ by
 - Concordia College, Moorhead, Minnesota
 - Connecticut College, New London, Connecticut
 - Conway School of Landscape Design, Conway, Massachusetts
+- Cooper Union for the Advancement of Science and Art, The, New York, New York
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
@@ -50882,6 +50885,7 @@ by
 - Florida State University, Tallahassee, Florida
 - Fordham University, New York, New York
 - Franciscan University of Steubenville, Steubenville, Ohio
+- Freed-Hardeman University, Henderson, Tennessee
 - Fresno Pacific College, Fresno, California
 - Fuller Theological Seminary, Pasadena, California
 - Gallaudet College, Washington, District of Columbia
@@ -50936,9 +50940,11 @@ by
 - Liberty University, Lynchburg, Virginia
 - Life Chiropractic College West, Hayward, California
 - Life University, Marietta, Georgia
+- Limestone College, Gaffney, South Carolina
 - Logan College of Chiropractic, St. Louis, Missouri
 - Loma Linda University, Loma Linda, California
 - Louisiana State University and Agricultural and Mechanical College, Baton Rouge, Louisiana
+- Loyola Marymount University, Los Angeles, California
 - Loyola University, Chicago, Illinois
 - Macalester College, St. Paul, Minnesota
 - Magdalen College, Warner, New Hampshire
@@ -50960,6 +50966,7 @@ by
 - Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
 - Messiah College, Grantham, Pennsylvania
 - Miami University, Oxford, Ohio
+- Michigan State University College of Law, East Lansing, Michigan
 - Michigan State University, Detroit College of Law, East Lansing, Michigan
 - Michigan State University, East Lansing, Michigan
 - Michigan Technological University, Houghton, Michigan
@@ -51091,6 +51098,7 @@ by
 - Telshe Yeshiva Rabbinical College of Telshe, Inc., Wickcliffe, Ohio
 - Telshe Yeshiva-Chicago, Rabbinical College of Telshe-Chicago, Inc., Chicago, Illinois
 - Temple University, Philadelphia, Pennsylvania
+- Temple University School of Podiatric Medicine, Philadelphia, Pennsylvania
 - Texas A&M University, College Station, Texas
 - Texas Chiropractic College, Pasadena, Texas
 - Texas Woman’s University, Denton, Texas
@@ -51115,6 +51123,7 @@ by
 - University at Albany, State University of New York, Albany, New York
 - University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
+- University of Alabama in Huntsville, Huntsville, Alabama
 - University of Arizona, The, Tucson, Arizona
 - University of Arkansas at Little Rock, Little Rock, Arkansas
 - University of California, Berkeley, California
@@ -51173,6 +51182,7 @@ by
 - University of St. Thomas, St. Paul, Minnesota
 - University of Tennessee, The, Knoxville, Tennessee
 - University of Texas, Austin, Texas
+- University of Texas Health Science Center at Houston, Houston, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, California
 - University of Tulsa, Tulsa, Oklahoma
@@ -51182,6 +51192,7 @@ by
 - University of Washington, Seattle, Washington
 - University of Western States, Portland, Oregon
 - University of Wisconsin, Madison, Wisconsin
+- University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
 - University of Wyoming, The, Laramie, Wyoming
 - Utah State University of Agriculture and Applied Science, Logan, Utah
 - Valparaiso University, Valparaiso, Indiana
@@ -51195,10 +51206,13 @@ by
 - Washington State University, Pullman, Washington
 - Washington University, St. Louis, Missouri
 - Wayne State University, Detroit, Michigan
+- Welch College, Nashville, Tennessee
 - Wellesley College, Wellesley, Massachusetts
 - Wesleyan University, Middletown, Connecticut
 - Western Conservative Baptist Seminary, Portland, Oregon
+- Western Illinois University, Macomb, Illinois
 - Western Michigan University, Kalamazoo, Michigan
+- Western Seminary, Portland, Oregon
 - Western University of Health Sciences, Pomona, California
 - Western Washington University, Bellingham, Washington
 - Westfield State College, Westfield, Massachusetts
@@ -51263,6 +51277,7 @@ by
 - University of Sussex, Brighton, England
 - University of Ulster, Newtonabbey, Northern Ireland
 - University of Wales, Cardiff, Wales
+- University of York, York, England
 
 
 **3** The universities situated in France that are prescribed by section 3503 are the following:
@@ -51300,10 +51315,12 @@ by
 - College for Women, Bayit-Vegan, Jerusalem
 - École biblique et archéologique française, Jerusalem
 - Hebrew University of Jerusalem, The, Jerusalem
+- Interdisciplinary Center, The, Herzliya, Israel
 - Jerusalem College of Technology, Jerusalem
 - Technion-Israel Institute of Technology, Haifa
 - Tel-Aviv University, Tel-Aviv
 - University of Haifa, Haifa
+- Weizmann Institute of Science, Rehovot, Israel
 - Yeshivat Aish Hatorah, Jerusalem
 
 
@@ -51396,7 +51413,7 @@ by
 - University of Tartu, Tartu
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9; SOR/2014-81, ss. 1, 2, 6.
 
 
 
