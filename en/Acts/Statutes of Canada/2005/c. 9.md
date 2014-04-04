@@ -2280,7 +2280,13 @@ Aitchelitz First Nation
 ?Akisq’nuk First Nation
 
 
+Bear River First Nation
+
+
 Beaver Lake Cree Nation
+
+
+Beecher Bay
 
 
 Bingwi Neyaashi Anishinaabek
@@ -2289,10 +2295,16 @@ Bingwi Neyaashi Anishinaabek
 Brokenhead Ojibway Nation
 
 
+Buctouche Mic Mac Band
+
+
 Buffalo Point First Nation
 
 
 Campbell River Indian Band
+
+
+Cayoose Creek Indian Band
 
 
 Chawathil First Nation
@@ -2302,6 +2314,9 @@ Cheam
 
 
 Chippewas of Georgina Island First Nation
+
+
+Chippewas of Kettle and Stony Point First Nation
 
 
 Chippewas of the Thames First Nation
@@ -2355,6 +2370,9 @@ Indian Island First Nation
 Kahkewistahaw First Nation
 
 
+Kanaka Bar
+
+
 Kitselas First Nation
 
 
@@ -2362,6 +2380,9 @@ K’ómoks First Nation
 
 
 Kwadacha
+
+
+Kwantlen First Nation
 
 
 Kwaw-Kwaw-Apilt First Nation
@@ -2374,6 +2395,9 @@ Leq’á:mel First Nation
 
 
 Lheidli T’enneh
+
+
+Long Plain First Nation
 
 
 Lower Kootenay Indian Band
@@ -2400,7 +2424,13 @@ Metlakatla First Nation
 Millbrook Band
 
 
+Misipawistik Cree Nation
+
+
 Mistawasis
+
+
+Mohawks of Akwesasne
 
 
 Moricetown Indian Band
@@ -2448,6 +2478,9 @@ Oromocto
 Osoyoos Indian Band
 
 
+Pauingassi First Nation
+
+
 Peepeekisis Cree Nation No. 81
 
 
@@ -2457,7 +2490,13 @@ Peguis
 Penticton Indian Band
 
 
+Peter Ballantyne Cree Nation
+
+
 Popkum First Nation
+
+
+Red Sucker Lake First Nation
 
 
 Saulteaux First Nation
@@ -2499,10 +2538,16 @@ Skidegate First Nation
 Skowkale First Nation
 
 
+Skwah
+
+
 Sliammon First Nation
 
 
 Songhees First Nation
+
+
+Soowahlie
 
 
 Splatsin First Nation
@@ -2589,12 +2634,15 @@ White Bear First Nation
 Whitecap Dakota First Nation
 
 
+Williams Lake
+
+
 Yakweakwioose First Nation
 
 
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77.
 
 
