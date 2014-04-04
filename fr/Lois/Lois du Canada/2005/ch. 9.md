@@ -2277,7 +2277,13 @@ Première nation Aitchelitz
 Première nation ?Akisq’nuk
 
 
+Première Nation Bear River
+
+
 Nation crie Beaver Lake
+
+
+Beecher Bay
 
 
 Bingwi Neyaashi Anishinaabek
@@ -2286,10 +2292,16 @@ Bingwi Neyaashi Anishinaabek
 Nation Brokenhead Ojibway
 
 
+Bande Buctouche Micmac
+
+
 Première Nation Buffalo Point
 
 
 Bande indienne Campbell River
+
+
+Bande indienne Cayoose Creek
 
 
 Première nation Chawathil
@@ -2299,6 +2311,9 @@ Cheam
 
 
 Première nation Chippewas de Georgina Island
+
+
+Première Nation Chippewas of Kettle and Stony Point
 
 
 Première Nation Chippewas of the Thames
@@ -2352,6 +2367,9 @@ Première nation Indian Island
 Première nation Kahkewistahaw
 
 
+Kanaka Bar
+
+
 Première nation Kitselas
 
 
@@ -2359,6 +2377,9 @@ Première nation K’ómoks
 
 
 Kwadacha
+
+
+Première Nation Kwantlen
 
 
 Première nation Kwaw-Kwaw Apilt
@@ -2371,6 +2392,9 @@ Première nation Leq’á:mel
 
 
 Lheidli T’enneh
+
+
+Première Nation Long Plain
 
 
 Bande indienne Lower Kootenay
@@ -2397,7 +2421,13 @@ Première Nation Metlakatla
 Bande Millbrook
 
 
+Nation crie Misipawistik
+
+
 Mistawasis
+
+
+Mohawks of Akwesasne
 
 
 Bande indienne Moricetown
@@ -2445,6 +2475,9 @@ Oromocto
 Bande indienne Osoyoos
 
 
+Première Nation Pauingassi
+
+
 Nation crie Peepeekisis no. 81
 
 
@@ -2454,7 +2487,13 @@ Peguis
 Bande indienne Penticton
 
 
+Nation crie Peter Ballantyne
+
+
 Première nation Popkum
+
+
+Première Nation Red Sucker Lake
 
 
 Première nation Saulteaux
@@ -2496,10 +2535,16 @@ Première Nation Skidegate
 Première nation Skowkale
 
 
+Skwah
+
+
 Première nation Sliammon
 
 
 Première nation Songhees
+
+
+Soowahlie
 
 
 Première Nation Splatsin
@@ -2586,12 +2631,15 @@ Première nation White Bear
 Première Nation Whitecap Dakota
 
 
+Williams Lake
+
+
 Première nation Yakweakwioose
 
 
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77.
 
 
