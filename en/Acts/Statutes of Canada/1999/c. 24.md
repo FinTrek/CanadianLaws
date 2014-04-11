@@ -1444,8 +1444,48 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <td>Membertou</td>
 <td></td>
 </tr>
+<tr>
+<td>78</td>
+<td>Kwantlen</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td>Mount Currie</td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td>Neskonlith</td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td>Shxw’ow’hamel</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td>George Gordon</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td>Brokenhead Ojibway</td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td>Algonquins of Pikwakanagan</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td>Shawanaga</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89.
 
 
