@@ -1434,8 +1434,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <td>Membertou</td>
 <td></td>
 </tr>
+<tr>
+<td>78</td>
+<td>Kwantlen</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td>Mount Currie</td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td>Neskonlith</td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td>Shxw’ow’hamel</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td>George Gordon</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td>Brokenhead Ojibway</td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td>Algonquins of Pikwakanagan</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td>Shawanaga</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89.
 
 
