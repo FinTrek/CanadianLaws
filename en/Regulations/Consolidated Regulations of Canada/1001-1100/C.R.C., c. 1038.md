@@ -4178,26 +4178,26 @@ YELLOW
 
 **110** 
 
-- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
+- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
 
 #### Technical Standards Document No. 110
 
 
-- **(2)** Except as provided in subsections (3) and (4), the information specified in sections S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
-	- **(a)** in both official languages on one vehicle placard, as shown in Figure 3, or, if the manufacturer chooses to use a tire inflation pressure label, on one placard and one label, as shown in Figures 3 and 6; or
-	- **(b)** in each official language on two vehicle placards, as shown in Figures 1 and 2, or, if the manufacturer chooses to use a tire inflation pressure label, on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
+- **(2)** Except as provided in subsections (3) and (4), the information specified in S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
+	- **(a)** in both official languages on one vehicle placard, as shown in Figure 3, or, if the manufacturer chooses to use a tire inflation pressure label, on one placard and one label, as shown in Figures 3 and 6; or
+	- **(b)** in each official language on two vehicle placards, as shown in Figures 1 and 2, or, if the manufacturer chooses to use a tire inflation pressure label, on two placards and two labels, as shown in Figures 1, 2, 4 and 5, affixed at the same location on the vehicle but apart.
 
-- **(3)** The information specified in section S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label in accordance with paragraph (2)(a) shall appear either
-	- **(a)** in the form of the symbol number N.03 for Operator’s manual, operation instructions, that is included in International Standard ISO 2575, entitled Road vehicles — Symbols for controls, indicators and tell-tales, 7th edition, May 1, 2004; or
-	- **(b)** in both official languages on one placard, as shown in Figure 3, or on one placard and one label, as shown in Figures 3 and 6.
+- **(3)** The information specified in S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label, in accordance with paragraph (2)(a), shall appear either
+	- **(a)** in the form of the symbol number N.03 for Operator’s manual, operation instructions, that is included in International Standard ISO 2575, entitled Road vehicles — Symbols for controls, indicators and tell-tales, 7th edition, May 1, 2004; or
+	- **(b)** in both official languages on one placard, as shown in Figure 3, or on one placard and one label, as shown in Figures 3 and 6.
 
-- **(4)** The information specified in section S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label in accordance with paragraph 2(b) shall appear either
-	- **(a)** in the form of the symbol number N.03 specified in paragraph (3)(a); or
-	- **(b)** in each official language on two placards, as shown in Figures 1 and 2, or on two placards and two labels, as shown in Figures 1, 2, 4 and 5, and affixed at the same location on the vehicle but apart.
+- **(4)** The information specified in S4.3(f) of TSD 110 that appears on a vehicle placard and, at the manufacturer’s option, on a tire inflation pressure label, in accordance with paragraph 2(b), shall appear either
+	- **(a)** in the form of the symbol number N.03 specified in paragraph (3)(a); or
+	- **(b)** in each official language on two placards, as shown in Figures 1 and 2, or on two placards and two labels, as shown in Figures 1, 2, 4 and 5, affixed at the same location on the vehicle but apart.
 
-- **(5)** The words “*Voir le manuel de l’usager pour plus de renseignements*” of the French version of the information specified in section S4.3(f) of TSD 110 may, at the option of the manufacturer, be replaced by the words “*Voir le guide du propriétaire pour plus de renseignements*”, “*Voir le manuel du propriétaire pour plus de renseignements*” or “*Voir le guide de l’automobiliste pour plus de renseignements*”.
+- **(5)** The words “*Voir le manuel de l’usager pour plus de renseignements*”, in the French version of the information specified in S4.3(f) of TSD 110, may, at the option of the manufacturer, be replaced by the words “*Voir le guide du propriétaire pour plus de renseignements*”, “*Voir le manuel du propriétaire pour plus de renseignements*” or “*Voir le guide de l’automobiliste pour plus de renseignements*”.
 
-- **(6)** The information specified in section S4.3.3 of TSD 110 shall be in both official languages.
+- **(6)** The information specified in S4.3.3 of TSD 110 shall be in both official languages.
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
@@ -4205,35 +4205,30 @@ YELLOW
 
 ***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
 
-***rim base*** means that portion of a rim remaining after removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
+***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
 
 #### Load Range Identification Symbol
 
 
-- **(8)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or after the tire size designation on the vehicle placard or tire inflation pressure label.
-
-#### Compliance
-
-
-- **(9)** Until August 31, 2009, the motor vehicles and tire rims referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
+- **(8)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear either on the compliance label required by section 6 of these Regulations or on the vehicle placard or tire inflation pressure label, after the tire size designation.
 
 #### Expiry Date
 
 
-- **(10)** This section expires on August 1, 2013.
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b)
+- **(9)** This section expires on March 31, 2018.
+> Image: Figure showing a unilingual English example of a vehicle placard displaying the information required by paragraph 110(2)(b).
 
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b)
+> Image: Figure showing a unilingual French example of a vehicle placard displaying the information required by paragraph 110(2)(b).
 
-> Image: Symbol showing a Vehicle Tire and Loading Information Placard, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b)
+> Image: Figure showing a bilingual example of a vehicle placard displaying the information required by paragraph 110(2)(a).
 
-> Image: Symbol showing Tire Inflation Pressure Label, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b)
+> Image: Figure showing a unilingual English example of a tire inflation pressure label displaying the information required by paragraph 110(2)(b).
 
-> Image: Symbol showing Tire Inflation Pressure Label, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b)
+> Image: Figure showing a unilingual French example of a tire inflation pressure label displaying the information required by paragraph 110(2)(b).
 
-> Image: Symbol showing Tire Inflation Pressure Label, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b)
+> Image: Figure showing a bilingual example of a tire inflation pressure label displaying the information required by paragraph 110(2)(a).
 
-> SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8..
+> SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8; SOR/2014-82, s. 1..
 
 
 
@@ -4447,11 +4442,11 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **114** 
 
-- **(1)** With the exception of a walk-in van, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 114, Theft Protection and Rollaway Prevention (TSD 114), as amended from time to time.
+- **(1)** With the exception of a walk-in van, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 114, Theft Protection and Rollaway Prevention (TSD 114), as amended from time to time.
 
 - **(2)** The term ***self-mobility*** in TSD 114 means movement of a vehicle under its own power.
 
-- **(3)** Subsection (1) expires on January 1, 2015.
+- **(3)** This section expires on March 31, 2018.
 
 #### Immobilization System
 
@@ -4539,7 +4534,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
 	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
 	- **(d)** all references to paragraph 8.4 do not apply.
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1..
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1; SOR/2014-82, s. 2..
 
 
 
@@ -5003,19 +4998,19 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **120** 
 
-- **(1)** Every motor vehicle with a GVWR of more than 4 536 kg, except vehicles imported temporarily for special purposes, every three-wheeled vehicle equipped with tires other than passenger car tires, every motorcycle except motor tricycles equipped with passenger car tires, and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4 536 kg (TSD 120), as amended from time to time.
+- **(1)** Every motor vehicle with a GVWR of more than 4 536 kg, except vehicles imported temporarily for special purposes, every three-wheeled vehicle equipped with tires other than passenger car tires, every motorcycle except motor tricycles equipped with passenger car tires, and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4,536 kg (TSD 120), as amended from time to time.
 
 #### Technical Standards Document No. 120
 
 
-- **(2)** In addition to the requirements set out in section S5.1.3 of TSD 120, used or retreaded tires installed on a bus, trailer, trailer converter dolly or truck shall
+- **(2)** In addition to conforming to the requirements of S5.1.3 of TSD 120, used or retreaded tires installed on a bus, trailer, trailer converter dolly or truck shall
 	- **(a)** not have been the subject of a notice of defect;
-	- **(b)** have a tread depth greater than 1.5 mm; and
-	- **(c)** have been originally manufactured to comply with the requirements of any of the following that applied at the time of manufacture:
+	- **(b)** have a tread depth greater than 1.5 mm; and
+	- **(c)** have been originally manufactured to conform to the requirements of any of the following that applied at the time of manufacture:
 		- **(i)** in the case of used tires, the [Motor Vehicle Tire Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/198.md) or the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), and
 		- **(ii)** in the case of retreaded tires, section 4 of the [Motor Vehicle Tire Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/198.md), Schedule V to the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md), the United States Federal Motor Vehicle Safety Standard No. 119 or the Japanese Industrial Standard JIS D4230.
 
-- **(3)** The label information specified in section S5.3 of TSD 120 shall be in both official languages.
+- **(3)** The information specified in S5.3 of TSD 120 shall be in both official languages.
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
@@ -5026,18 +5021,13 @@ All spaces provided for in the vehicle identification number must be occupied by
 #### Load Range Identification Symbol
 
 
-- **(5)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear on the compliance label required by section 6 of these Regulations or on the tire information label.
-
-#### Compliance
-
-
-- **(6)** Compliance with subsection (3) is only required after August 31, 2009.
+- **(5)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear either on the compliance label required by section 6 of these Regulations or on the tire information label.
 
 #### Expiry Date
 
 
-- **(7)** This section expires on August 1, 2013.
-> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9; SOR/2013-198, s. 15..
+- **(6)** This section expires on March 31, 2018.
+> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9; SOR/2013-198, s. 15; SOR/2014-82, s. 3..
 
 
 
@@ -5079,21 +5069,21 @@ All spaces provided for in the vehicle identification number must be occupied by
 **122** 
 
 - **(1)** Every motorcycle shall conform to
-	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
-	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
+	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
+	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
 
-- **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
+- **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
 
 - **(3)** Every motorcycle shall have a mark containing the symbol “DOT” followed by a reference to the type of brake fluid recommended by the manufacturer.
 
 - **(4)** The mark shall
 	- **(a)** be permanently affixed and of a colour that contrasts with its background, or be engraved or embossed;
-	- **(b)** be located, so as to be visible without obstruction, either on or within 101.6 mm of the brake-fluid reservoir filler plug or cap; and
-	- **(c)** have letters and numbers at least 2.38 mm in height.
+	- **(b)** be located, so as to be visible without obstruction, either on or within 101.6 mm of the brake-fluid reservoir filler plug or cap; and
+	- **(c)** have letters and numbers at least 2.38 mm in height.
 
-- **(5)** Beginning on September 1, 2011, the English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
-“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
-« *AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé.* »
+- **(5)** The English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
+“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
+*« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »*
 
 #### Technical Standards Document No. 122
 
@@ -5104,43 +5094,43 @@ All spaces provided for in the vehicle identification number must be occupied by
 		- **(i)** a motorcycle that is designed to travel on three wheels in contact with the ground, or
 		- **(ii)** a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar.
 
-- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II of section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
+- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II to section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
 
 - **(8)** The vehicle mass referred to in S6.1 of TSD 122 is limited to a maximum value equal to the GVWR of the motorcycle.
 
 - **(9)** Despite S5.4, S5.5, S7.6, S7.7 and S7.8 of TSD 122, a limited-speed motorcycle shall conform to the test requirements set out in those sections.
 
-- **(10)** Despite S6.6 of TSD 122, the wind velocity shall be not more than 5 m/s.
+- **(10)** Despite S6.6 of TSD 122, the wind velocity shall be not more than 5 m/s.
 
-- **(11)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.6 km (1 mile).
+- **(11)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.6 km (1 mile).
 
-#### ECE Regulation No. 78
+#### ECE Regulation No. 78
 
 
 - **(12)** For the purposes of this section,
-	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
-	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
-	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on three wheels in contact with the ground and symmetrically arranged in relation to the longitudinal median plane, and that has a maximum speed of more than 50 km/h.
+	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
+	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
+	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that has a maximum speed of more than 50 km/h and that is designed to travel on three wheels in contact with the ground that are symmetrically arranged in relation to the longitudinal median plane.
 
-- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1), the term “three-wheeled vehicle” used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
+- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1) of these Regulations, the term ***three-wheeled vehicle*** used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
 
-- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
+- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
 
-- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
+- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
 
-- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
+- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
 
-- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
+- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
 
-- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
+- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
 
 #### Expiry Date
 
 
-- **(19)** This section expires on April 1, 2015.
-> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3..
+- **(19)** This section expires on March 31, 2018.
+> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3; SOR/2014-82, s. 4..
 
 
 
@@ -5353,12 +5343,10 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **202** 
 
-- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
+- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
 
-- **(2)** Until August 31, 2012, a vehicle referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
-
-- **(3)** This section expires on March 1, 2014.
-> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1..
+- **(2)** This section expires on March 31, 2018.
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1; SOR/2014-82, s. 5..
 
 
 
@@ -6572,14 +6560,14 @@ Note: Drawing not to scale
 
 **216** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR of 4 536 kg or less, except trucks built from a cutaway chassis with a GVWR greater than 2 722 kg, school buses and convertibles, shall conform to Technical Standards Document No. 216, Roof Crush Resistance (TSD 216), as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR of 4 536 kg or less, except trucks with a GVWR greater than 2 722 kg built from a cutaway chassis, school buses and convertibles, shall conform to the requirements of Technical Standards Document No. 216, Roof Crush Resistance (TSD 216), as amended from time to time.
 
-- **(2)** Every passenger car, multi-purpose passenger vehicle, truck or bus that is built in two or more stages not using a chassis-cab and with a GVWR of 4 536 kg or less and every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR greater than 2 722 kg but not greater than 4 536 kg and with an altered roof shall conform to the requirements of TSD 216 or TSD 220, which is referred to in section 220 of this schedule.
+- **(2)** Every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR of 4 536 kg or less that is built in two or more stages not using a chassis-cab and every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR greater than 2 722 kg but not greater than 4 536 kg that has an altered roof shall conform to the requirements of TSD 216 or TSD 220, which is referred to in section 220 of this schedule.
 
-- **(3)** The vehicles referred to in subsections (1) and (2) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
+- **(3)** Until August 31, 2016, the vehicles referred to in subsections (1) and (2) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
 
-- **(4)** This section expires on January 1, 2014.
-> SOR/94-291, s. 5; SOR/2000-402, s. 1; SOR/2006-94, s. 4(E); SOR/2009-291, s. 4..
+- **(4)** This section expires on March 31, 2018.
+> SOR/94-291, s. 5; SOR/2000-402, s. 1; SOR/2006-94, s. 4(E); SOR/2009-291, s. 4; SOR/2014-82, s. 6..
 
 
 
@@ -6818,12 +6806,12 @@ whichever is the higher.
 
 **220** 
 
-- **(1)** Every school bus shall conform to Technical Standards Document No. 220, Rollover Protection (TSD 220), as amended from time to time.
+- **(1)** Every school bus shall conform to the requirements of Technical Standards Document No. 220, Rollover Protection (TSD 220), as amended from time to time.
 
-- **(2)** Every passenger car, multi-purpose passenger vehicle, truck or bus that is built in two or more stages not using a chassis-cab and with a GVWR of 4 536 kg or less and every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR greater than 2 722 kg but not greater than 4 536 kg and with an altered roof shall conform to the requirements of TSD 220 or TSD 216, which is referred to in section 216 of this schedule.
+- **(2)** Every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR of 4 536 kg or less that is built in two or more stages not using a chassis-cab and every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR greater than 2 722 kg but not greater than 4 536 kg that has an altered roof shall conform to the requirements of TSD 220 or TSD 216, which is referred to in section 216 of this schedule.
 
-- **(3)** This section expires on January 1, 2014.
-> SOR/79-940, s. 9; SOR/2009-291, s. 5..
+- **(3)** This section expires on March 31, 2018.
+> SOR/79-940, s. 9; SOR/2009-291, s. 5; SOR/2014-82, s. 7..
 
 
 
