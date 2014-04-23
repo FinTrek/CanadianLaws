@@ -4180,62 +4180,57 @@ JAUNE
 
 **110** 
 
-- **(1)** Les véhicules automobiles qui ont un PNBV de 4 536 kg ou moins — à l’exception des motocyclettes autres que les tricycles à moteur munis de pneus pour voiture de tourisme, des motocyclettes à usage restreint, des véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, des véhicules importés temporairement à des fins spéciales et des véhicules à basse vitesse — et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 110 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins (DNT 110), avec ses modifications successives.
+- **(1)** Les véhicules automobiles d’un PNBV de 4 536 kg ou moins — à l’exception des motocyclettes autres que les tricycles à moteur munis de pneus pour voiture de tourisme, des motocyclettes à usage restreint, des véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, des véhicules importés temporairement à des fins spéciales et des véhicules à basse vitesse — et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 110 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins (DNT 110), avec ses modifications successives.
 
-#### Document de normes techniques n<sup>o</sup> 110
+#### Document de normes techniques n<sup>o</sup> 110
 
 
-- **(2)** Sauf dans les cas prévus aux paragraphes (3) et (4), les renseignements précisés aux dispositions S4.3 et S4.3.5 du DNT 110 doivent figurer, au choix du fabricant :
-	- **a)** soit dans les deux langues officielles sur une seule plaque du véhicule, comme l’illustre la figure 3, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6;
-	- **b)** soit dans chacune des deux langues officielles sur deux plaques du véhicule, comme l’illustrent les figures 1 et 2, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
+- **(2)** Sauf dans les cas prévus aux paragraphes (3) et (4), les renseignements précisés aux dispositions S4.3 et S4.3.5 du DNT 110 doivent figurer, au choix du fabricant :
+	- **a) ** soit dans les deux langues officielles sur une seule plaque du véhicule, comme l’illustre la figure 3, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6;
+	- **b) ** soit dans chaque langue officielle sur deux plaques du véhicule, comme l’illustrent les figures 1 et 2, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
 
-- **(3)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)a), doit figurer, selon le cas :
-	- **a)** dans la forme du symbole numéro N.03 pour le Manuel de l’utilisateur, mode d’emploi, figurant dans la norme internationale ISO 2575, intitulée Véhicules routiers — Symboles pour les commandes, indicateurs et témoins, 7<sup>e</sup> édition, 1<sup>er</sup> mai 2004;
-	- **b)** dans les deux langues officielles sur une seule plaque, comme l’illustre la figure 3, ou sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6.
+- **(3)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)a), doit figurer, selon le cas :
+	- **a) ** dans la forme du symbole numéro N.03 pour le Manuel de l’utilisateur, mode d’emploi, figurant dans la norme internationale ISO 2575, intitulée Véhicules routiers — Symboles pour les commandes, indicateurs et témoins, 7<sup>e</sup> édition, 1<sup>er</sup> mai 2004;
+	- **b) ** dans les deux langues officielles sur une seule plaque, comme l’illustre la figure 3, ou sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6.
 
-- **(4)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)b), doit figurer, selon le cas :
-	- **a)** dans la forme du symbole numéro N.03 précisé à l’alinéa (3)a);
-	- **b)** dans chacune des deux langues officielles sur deux plaques du véhicule, comme l’illustrent les figures 1 et 2, ou sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
+- **(4)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)b), doit figurer, selon le cas :
+	- **a) ** dans la forme du symbole numéro N.03 précisé à l’alinéa (3)a);
+	- **b) ** dans chaque langue officielle sur deux plaques, comme l’illustrent les figures 1 et 2, ou sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
 
-- **(5)** La mention « Voir le manuel de l’usager pour plus de renseignements » de la version française du renseignement précisé à la disposition S4.3f) du DNT 110 peut être remplacée, au choix du fabricant, par la mention « Voir le guide du propriétaire pour plus de renseignements », « Voir le manuel du propriétaire pour plus de renseignements » ou « Voir le guide de l’automobiliste pour plus de renseignements ».
+- **(5)** La mention « Voir le manuel de l’usager pour plus de renseignements » de la version française du renseignement précisé à la disposition S4.3f) du DNT 110 peut être remplacée, au choix du fabricant, par la mention « Voir le guide du propriétaire pour plus de renseignements », « Voir le manuel du propriétaire pour plus de renseignements » ou « Voir le guide de l’automobiliste pour plus de renseignements ».
 
 - **(6)** Les renseignements précisés à la disposition S4.3.3 du DNT 110 doivent être dans les deux langues officielles.
 
-- **(7)** Les définitions qui suivent s’appliquent aux fins du DNT 110.
+- **(7)** Les définitions qui suivent s’appliquent au DNT 110.
 
-***base de jante*** Partie de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage en une ou plusieurs pièces qui peuvent se détacher de la jante. (*rim base*)
+***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
 
-***charge nominale*** Charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
-***limite de charge nominale*** Charge nominale à la pression maximale permise de gonflage du pneu. (*maximum load rating*)
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
 
 #### Symbole d’identification de la limite de charge
 
 
-- **(8)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer sur l’étiquette de conformité exigée par l’article 6 du présent règlement ou après la désignation des dimensions du pneu sur la plaque du véhicule ou l’étiquette de pression de gonflage des pneus.
-
-#### Conformité
-
-
-- **(9)** Jusqu’au 31 août 2009, les véhicules automobiles et les jantes de pneu visés au paragraphe (1) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
+- **(8)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer soit sur l’étiquette de conformité exigée par l’article 6 du présent règlement, soit sur la plaque du véhicule ou l’étiquette de pression de gonflage des pneus, à la suite de la désignation des dimensions du pneu.
 
 #### Cessation d’effet
 
 
-- **(10)** Le présent article cesse d’avoir effet le 1<sup>er</sup> août 2013.
-> Image: Symbole montrant la plaque du véhicule, exemple unilingue anglais avec mesures et descriptions selon RVSA S110(2)(b)
+- **(9)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> Image: Figure montrant un exemple unilingue français de la plaque du véhicule qui comporte les renseignements exigés par l’alinéa 110(2)b).
 
-> Image: Symbole montrant la plaque du véhicule, exemple unilingue français avec mesures et descriptions selon RVSA S110(2)(b)
+> Image: Figure montrant un exemple unilingue anglais de plaque de véhicule qui comporte les renseignements exigés par l’alinéa 110(2)b).
 
-> Image: Symbole montrant la plaque du véhicule, exemple bilingue avec mesures et descriptions selon RVSA S110(2)(b)
+> Image: Figure montrant un exemple bilingue de plaque de véhicule qui comporte les renseignements exigés par l’alinéa 110(2)a).
 
-> Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple unilingue anglais avec mesures et descriptions selon RVSA S110(2)(b)
+> Image: Figure montrant un exemple unilingue français d’étiquette de pression de gonflage des pneus qui comporte les renseignements exigés par l’alinéa 110(2)b).
 
-> Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple unilingue français avec mesures et descriptions selon RVSA S110(2)(b)
+> Image: Figure montrant un exemple unilingue anglais d’étiquette de pression de gonflage des pneus qui comporte les renseignements exigés par l’alinéa 110(2)b).
 
-> Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple bilingue avec mesures et descriptions selon RVSA S110(2)(b)
+> Image: Figure montrant un exemple bilingue d’étiquette de pression de gonflage des pneus qui comporte les renseignements exigés par l’alinéa 110(2)a).
 
-> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8..
+> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8; DORS/2014-82, art. 1..
 
 
 
@@ -4449,11 +4444,11 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **114** 
 
-- **(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
+- **(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
 
 - **(2)** Dans le DNT 114, la mention ***mis en mouvement*** s’entend du déplacement du véhicule par ses propres moyens.
 
-- **(3)** Le paragraphe (1) cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
+- **(3)** Le présent article cesse d’avoir effet le 31 mars 2018.
 
 #### Système d’immobilisation
 
@@ -4541,7 +4536,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2..
 
 
 
@@ -5005,41 +5000,36 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **120** 
 
-- **(1)** Les véhicules automobiles qui ont un PNBV de plus de 4 536 kg, à l’exception des véhicules importés temporairement à des fins spéciales, les véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, les motocyclettes, à l’exception des tricycles à moteur munis de pneus pour voiture de tourisme, et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 120 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg (DNT 120), avec ses modifications successives.
+- **(1)** Les véhicules automobiles qui ont un PNBV de plus de 4 536 kg, à l’exception des véhicules importés temporairement à des fins spéciales, les véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, les motocyclettes, à l’exception des tricycles à moteur munis de pneus pour voiture de tourisme, et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 120 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg (DNT 120), avec ses modifications successives.
 
-#### Document de normes techniques n<sup>o</sup> 120
+#### Document de normes techniques n<sup>o</sup> 120
 
 
-- **(2)** En plus des exigences prévues à la disposition S5.1.3 du DNT 120, les pneus usagés ou rechapés qui sont installés sur un autobus, une remorque, un chariot de conversion ou un camion doivent être conformes aux exigences suivantes :
+- **(2)** En plus d’être conformes aux exigences de la disposition S5.1.3 du DNT 120, les pneus usagés ou rechapés qui sont installés sur un autobus, une remorque, un chariot de conversion ou un camion doivent être conformes aux exigences suivantes :
 	- **a)** ils n’ont pas fait l’objet d’un avis de défaut;
-	- **b)** leur bande de roulement est d’une épaisseur de plus de 1,5 mm;
+	- **b)** leur bande de roulement est d’une épaisseur de plus de 1,5 mm;
 	- **c)** ils ont été fabriqués à l’origine de manière à être conformes aux exigences des textes ci-après qui s’appliquaient au moment de la fabrication :
 		- **(i)** dans le cas de pneus usagés, le [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md) ou le [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md),
 		- **(ii)** dans le cas de pneus rechapés, l’article 4 du [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md), l’annexe V du [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md), la Federal Motor Vehicle Safety Standard No. 119 des États-Unis ou la Japanese Industrial Standard JIS D4230.
 
-- **(3)** Les renseignements sur l’étiquette qui sont précisés à la disposition S5.3 du DNT 120 doivent être dans les deux langues officielles.
+- **(3)** Les renseignements précisés à la disposition S5.3 du DNT 120 doivent être dans les deux langues officielles.
 
-- **(4)** Les définitions qui suivent s’appliquent aux fins du DNT 120.
+- **(4)** Les définitions qui suivent s’appliquent au DNT 120.
 
-***charge nominale*** Charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
 
-***limite de charge nominale*** Charge nominale à la pression maximale permise de gonflage du pneu. (*maximum load rating*)
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*)
 
 #### Symbole d’identification de la limite de charge
 
 
-- **(5)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer sur l’étiquette de conformité exigée par l’article 6 du présent règlement ou sur l’étiquette informative relative aux pneus.
-
-#### Conformité
-
-
-- **(6)** La conformité au paragraphe (3) est exigée seulement après le 31 août 2009.
+- **(5)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer soit sur l’étiquette de conformité exigée par l’article 6 du présent règlement, soit sur l’étiquette informative relative aux pneus.
 
 #### Cessation d’effet
 
 
-- **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> août 2013.
-> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15..
+- **(6)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15; DORS/2014-82, art. 3..
 
 
 
@@ -5081,68 +5071,68 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 **122** 
 
 - **(1)** Toute motocyclette doit être conforme :
-	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
-	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
+	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
+	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
 
-- **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
+- **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
 
-- **(3)** Toute motocyclette doit porter une marque contenant le symbole « DOT », suivi de la mention du type de liquide pour frein recommandé par le fabricant.
+- **(3)** Toute motocyclette doit porter une marque contenant le symbole « DOT », suivi de la mention du type de liquide pour frein recommandé par le fabricant.
 
 - **(4)** La marque doit :
-	- **a)** être apposée de façon permanente et être d’une couleur contrastante par rapport à son arrière-plan ou gravée en creux ou en relief;
-	- **b)** être placée, de façon à être visible sans obstacle, dans un rayon d’au plus 101,6 mm autour du bouchon de remplissage du réservoir de liquide pour freins ou sur ce bouchon;
-	- **c)** avoir des lettres et des chiffres d’au moins 2,38 mm de hauteur.
+	- **a)** être apposée de façon permanente et être d’une couleur contrastante par rapport à son arrière-plan ou être gravée en creux ou en relief;
+	- **b)** être placée, de façon à être visible sans obstacle, soit sur le bouchon de remplissage du réservoir de liquide pour frein, soit dans un rayon d’au plus 101,6 mm de celui-ci;
+	- **c)** avoir des lettres et des chiffres d’au moins 2,38 mm de hauteur.
 
-- **(5)** À compter du 1<sup>er</sup> septembre 2011, les versions française et anglaise du manuel de l’usager doivent contenir, respectivement, la version française ou anglaise de l’avertissement ci-après concernant le liquide pour freins :
-« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
-“*WARNING : Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.*”
+- **(5)** Les versions française et anglaise du manuel de l’usager doivent contenir, respectivement, la version française ou anglaise de l’avertissement ci-après concernant le liquide pour frein :
+« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
+*“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”*
 
-#### Document de normes techniques n<sup>o</sup> 122
+#### Document de normes techniques n<sup>o</sup> 122
 
 
 - **(6)** Le terme ***motocyclette à trois roues*** employé dans le DNT 122 s’entend :
-	- **a)** pour l’application de sa disposition S5.1.4, d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol;
-	- **b)** pour l’application de ses dispositions S6.7 et S7.8.2 :
-		- **(i)** d’une part, d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol,
-		- **(ii)** d’autre part, d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car.
+	- **a)** pour l’application de la disposition S5.1.4 de ce document, d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol;
+	- **b)** pour l’application des dispositions S6.7 et S7.8.2 de ce document :
+		- **(i)** soit d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol,
+		- **(ii)** soit d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car.
 
-- **(7)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage, mais l’utilisation de la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
+- **(7)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage, mais l’utilisation de la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
 
-- **(8)** La masse du véhicule visée à la disposition S6.1 du DNT 122 se limite à la masse maximale égale au PNBV de la motocyclette.
+- **(8)** La masse du véhicule visée à la disposition S6.1 du DNT 122 se limite à la valeur maximale égale au PNBV de la motocyclette.
 
 - **(9)** Malgré les dispositions S5.4, S5.5, S7.6, S7.7 et S7.8 du DNT 122, les motocyclettes à vitesse limitée doivent être conformes aux exigences relatives aux essais qui sont prévues à ces dispositions.
 
-- **(10)** Malgré la disposition S6.6 du DNT 122, la vitesse du vent est d’au plus 5 m/s.
+- **(10)** Malgré la disposition S6.6 du DNT 122, la vitesse du vent doit être d’au plus 5 m/s.
 
-- **(11)** Pour l’application de la disposition S7.6.2 du DNT 122, les motocyclettes qui ne peuvent atteindre la vitesse d’essai exigée doivent être soumises aux essais à une vitesse à 1,6 km (1 mille).
+- **(11)** Pour l’application de la disposition S7.6.2 du DNT 122, les motocyclettes qui ne peuvent atteindre la vitesse d’essai exigée doivent être soumises aux essais à la vitesse à 1,6 km (1 mille).
 
-#### Règlement n<sup>o</sup> 78 de la CEE
+#### Règlement n<sup>o</sup> 78 de la CEE
 
 
 - **(12)** Pour l’application du présent article :
-	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
-	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
-	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal, et qui a une vitesse maximale supérieure à 50 km/h.
+	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol, qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
+	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
+	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui a une vitesse maximale supérieure à 50 km/h et qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal.
 
-- **(13)** Pour l’application du présent article et malgré la définition de ***véhicules à trois roues*** figurant au paragraphe 2(1), le terme « véhicule à trois roues » employé dans le règlement n<sup>o</sup> 78 de la CEE s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
+- **(13)** Pour l’application du présent article et malgré la définition de ***véhicules à trois roues*** figurant au paragraphe 2(1) du présent règlement, le terme ***véhicule à trois roues*** employé dans le règlement n<sup>o</sup> 78 de la CEE s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
 
-- **(14)** Pour l’application du paragraphe 1.1.3 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, le coefficient de freinage maximal doit être mesuré conformément au paragraphe 1.1.3 a) de ce règlement.
+- **(14)** Pour l’application du paragraphe 1.1.3 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, le coefficient de freinage maximal doit être mesuré conformément au paragraphe 1.1.3 a) de ce règlement.
 
-- **(15)** Pour l’application du paragraphe 2.4 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, la température des freins doit être mesurée conformément au paragraphe 2.4 b) de ce règlement.
+- **(15)** Pour l’application du paragraphe 2.4 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, la température des freins doit être mesurée conformément au paragraphe 2.4 b) de ce règlement.
 
-- **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
+- **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
 
-- **(17)** La lampe témoin visée au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage.
+- **(17)** La lampe témoin visée au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage.
 
-- **(18)** La lampe témoin visée au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du dispositif de frein antiblocage.
+- **(18)** La lampe témoin visée au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du dispositif de frein antiblocage.
 
 #### Cessation d’effet
 
 
-- **(19)** Le présent article cesse d’avoir effet le 1<sup>er</sup> avril 2015.
-> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3..
+- **(19)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4..
 
 
 
@@ -5355,12 +5345,10 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **202** 
 
-- **(1)** Sous réserve du paragraphe (2), tout véhicule de tourisme à usages multiples, autobus ou camion ayant un PNBV d’au plus 4 536 kg, toute voiture de tourisme et tout véhicule à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
 
-- **(2)** Jusqu’au 31 août 2012, les véhicules visés au paragraphe (1) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent article.
-
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> mars 2014.
-> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1..
+- **(2)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5..
 
 
 
@@ -6573,14 +6561,14 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 **216** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, à l’exception des camions fabriqués à partir d’un châssis tronqué qui ont un PNBV de plus de 2 722 kg, des autobus scolaires et des décapotables, doivent être conformes aux exigences du Document de normes techniques no 216 — Résistance du toit à l’écrasement (DNT 216), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, à l’exception des camions fabriqués à partir d’un châssis tronqué qui ont un PNBV de plus de 2 722 kg, des autobus scolaires et des décapotables, doivent être conformes aux exigences du Document de normes techniques no 216 — Résistance du toit à l’écrasement (DNT 216), avec ses modifications successives.
 
-- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus fabriqués en deux étapes ou plus, qui ne sont pas fabriqués à partir d’un châssis-cabine et qui ont un PNBV d’au plus 4 536 kg et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 216 ou du DNT 220, lequel est mentionné à l’article 220 de la présente annexe.
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 216 ou du DNT 220, lequel est mentionné à l’article 220 de la présente annexe.
 
-- **(3)** Les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
+- **(3)** Jusqu’au 31 août 2016, les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
 
-- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2014.
-> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4..
+- **(4)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4; DORS/2014-82, art. 6..
 
 
 
@@ -6819,12 +6807,12 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 **220** 
 
-- **(1)** Les autobus scolaires doivent être conformes aux exigences du Document de normes techniques no 220 — Protection contre les tonneaux (DNT 220), avec ses modifications successives.
+- **(1)** Les autobus scolaires doivent être conformes aux exigences du Document de normes techniques no 220 — Protection contre les tonneaux (DNT 220), avec ses modifications successives.
 
-- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus fabriqués en deux étapes ou plus, qui ne sont pas fabriqués à partir d’un châssis-cabine et qui ont un PNBV d’au plus 4 536 kg et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2014.
-> DORS/79-940, art. 9; DORS/2009-291, art. 5..
+- **(3)** Le présent article cesse d’avoir effet le 31 mars 2018.
+> DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7..
 
 
 
