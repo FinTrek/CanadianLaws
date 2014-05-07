@@ -285,11 +285,12 @@ where
 		- **(ii)** provide a degree of attenuation of the X-ray beam such that the first half-value layer of aluminum is not less than the value shown in column II of the table to this subparagraph that corresponds to the X-ray tube voltage shown in column I of the table, or is not less than the value obtained by linear interpolation from that table;
 <table>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column I</th>
 <th>Column II</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>X-ray Tube Voltage (Kilovolts (Peak Value))</th>
 <th>First Half-value Layer of Aluminum (mm)</th>
 </tr>
@@ -367,17 +368,19 @@ where
 			- **(A)** is such that the minimum value at which it can be set is equal to or less than the longest of the minimum irradiation times set out in columns II to IV of the table to this clause for the minimum X-ray tube voltage shown in column I of the table,
 <table>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
+<th></th>
 <th>Minimum X-ray Tube Voltage (Kilovolts (Peak Value))</th>
 <th>Minimum Irradiation Time</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>(Seconds)</th>
 <th>(Cycles)</th>
 <th>(Milliampere-seconds)</th>
@@ -541,7 +544,7 @@ where
 	- **(c)** a description of the test load prescribed by paragraph 4(3)(a);
 	- **(d)** the year and month of manufacture of the oven;
 	- **(e)** the sign described in section 3; and
-	- **(f)** where the oven is not a commercial microwave oven, the words “NOT FOR COMMERCIAL USE — NON DESTINÉ À UN USAGE COMMERCIAL”.
+	- **(f)** where the oven is not a commercial microwave oven, the words “NOT FOR COMMERCIAL USE — *NON DESTINÉ À UN USAGE COMMERCIAL*”.
 
 - **(4)** Where a microwave oven is equipped with a conveyorized system, a warning sign described in section 3 shall be permanently affixed to its external surface adjacent to each entry and exit port.
 
@@ -555,7 +558,7 @@ where
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION — MICROWAVES” and “ATTENTION — MICRO-ONDES”; and
+- **(d)** bears the words “CAUTION — MICROWAVES” and “*ATTENTION — MICRO-ONDES*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: A Warning sign, bearing the words “Caution - Microwaves”, and “Attention - Micro-ondes”, described by an inverted triangle containing a satellite dish emitting a series of lines
 
@@ -666,7 +669,7 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION — X-RAYS” and “ATTENTION — RAYONS X”; and
+- **(d)** bears the words “CAUTION — X-RAYS” and “*ATTENTION — RAYONS X*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “CAUTION: X-RAYS — ATTENTION : RAYONS X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -743,7 +746,7 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION — X-RAYS” and “ATTENTION — RAYONS X”; and
+- **(d)** bears the words “CAUTION — X-RAYS” and “*ATTENTION — RAYONS X*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “CAUTION: X-RAYS — ATTENTION : RAYONS X ”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -899,7 +902,7 @@ where
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION X-RAYS” and “ATTENTION RAYONS X”; and
+- **(d)** bears the words “CAUTION X-RAYS” and “*ATTENTION RAYONS X*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “CAUTION: X-RAYS — ATTENTION : RAYONS”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -1006,7 +1009,7 @@ where
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimension less than 2 centimetres;
-- **(d)** bears the words “CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED” — “ATTENTION — RAYONNEMENT LASER ET ELECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ”; and
+- **(d)** bears the words “CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED” — “*ATTENTION — RAYONNEMENT LASER ET ELECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “Caution - Hazardous laser and electromagnetic radiation when open and interlock defeated” — “Attention - Rayonnement laser et electromagnétique dangereux si ouvert avec l’enclenchement de sécurité annulé”, consisting of an inverted triangle containing a spark with a line attached going to the top right corner.
 
@@ -1094,7 +1097,7 @@ where
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU”; and
+- **(d)** bears the words “CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — *ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU”, consisting of an inverted triangle containing a spark with a line attached going to the top right corner.
 
@@ -1164,7 +1167,7 @@ does not exceed 0.5 milliroentgen per hour.
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 metre;
 - **(c)** has no outer dimensions less than 2 centimetres;
-- **(d)** bears the words “CAUTION, X-RAYS” and “ATTENTION, RAYONS X”; and
+- **(d)** bears the words “CAUTION, X-RAYS” and “*ATTENTION, RAYONS X*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -1219,7 +1222,7 @@ in such a manner that the information is legible whether the lamp is intact or i
 
 - **(2)** Every lamp container of a lamp other than a self-extinguishing lamp shall bear, in a clear and prominent manner,
 	- **(a)** the letter “R”; and
-	- **(b)** the words “WARNING — MISE EN GARDE” followed by a statement in English and French to the following effect:“This lamp can cause serious skin burn and eye inflammation from shortwave ultraviolet radiation if the outer envelope of the lamp is broken or punctured. Do not use where people will remain for more than a few minutes unless adequate shielding or other safety precautions are used. Lamps that will automatically extinguish when the outer envelope is broken or punctured are commercially available.”.
+	- **(b)** the words “WARNING — *MISE EN GARDE*” followed by a statement in English and French to the following effect:“This lamp can cause serious skin burn and eye inflammation from shortwave ultraviolet radiation if the outer envelope of the lamp is broken or punctured. Do not use where people will remain for more than a few minutes unless adequate shielding or other safety precautions are used. Lamps that will automatically extinguish when the outer envelope is broken or punctured are commercially available.”.
 
 
 
@@ -1244,9 +1247,9 @@ in such a manner that the information is legible whether the lamp is intact or i
 
 **1** The following definitions apply in this Part.
 
-***double-contact medium screw lampholder*** means a lampholder described in American National Standard for Lampholders for Electric Lamps, ANSI C81.62-1991, Standard Sheet 2-158-1, entitled Double-Contact Medium Screw Lampholder, published by the American National Standards Institute and approved on July 15, 1991. (*douille à contact double pour vis moyenne*)
+***double-contact medium screw lampholder*** means a lampholder described in the International Electrotechnical Commission Standard IEC 60061-2, Edition 3.41, 2010-04, Sheet 7005-29-2, entitled Position of holder thread in relation to the central and intermediate contacts of the lampholder E26d, as amended from time to time. (*douille à contact double pour vis moyenne*) 
 
-***erythema reference action spectrum*** means the erythema action spectrum set out in section 5.2 of CIE Standard CIE S 007/E-1998 entitled Erythema Reference Action Spectrum and Standard Erythema Dose, published in 1998 by the Commission internationale de l’éclairage. (*spectre d’action érythémale de référence*)
+***erythema reference action spectrum*** means the erythema action spectrum set out in section 5.2 of the International Commission on Illumination Standard ISO 17166:1999(E) / CIE S 007/E-1998, first edition, entitled Erythema reference action spectrum and standard erythema dose, as amended from time to time. (*spectre d’action érythémale de référence*) 
 
 ***exposure position*** means any place, orientation or distance relative to the ultraviolet-radiating surface of tanning equipment at which it is recommended by the manufacturer that the user be exposed. (*position pendant l’exposition*)
 
@@ -1258,7 +1261,7 @@ in such a manner that the information is legible whether the lamp is intact or i
 
 ***protective eyewear*** means a device that is worn by the user of tanning equipment to reduce the ultraviolet radiation reaching their eyes either directly or indirectly. (*dispositif de protection des yeux*)
 
-***single-contact medium screw lampholder*** means a lampholder described in American National Standard for Lampholders for Electric Lamps, ANSI C81.62-1991, Standard Sheet 2-157-1, entitled Single-Contact Medium Screw Lampholder, published by the American National Standards Institute and approved on July 15, 1991. (*douille à contact unique pour vis moyenne*)
+***single-contact medium screw lampholder*** means a lampholder described in the International Electrotechnical Commission Standard IEC 60061-2, Edition 3.41, 2010-04, Sheet 7005-21A-1, entitled Lampholders E26, as amended from time to time. (*douille à contact unique pour vis moyenne*) 
 
 ***spectral irradiance*** means the irradiance that results from radiation within an infinitesimally small wavelength range, expressed in watts per square metre per nanometre (W/m<sup>2</sup>/nm). (*éclairement énergétique spectral*)
 
@@ -1326,34 +1329,79 @@ and converted into and expressed in minutes, where
 - **(a)** be reproduced from the electronic file provided by the Minister;
 - **(b)** include in the French version of the label illustrated in Figure 1 of paragraph (e), enclosed within a black border,
 	- **(i)** in the upper portion, on a white background, the signal word “Danger” in red with the hazard symbol to its right,
-	- **(ii)** in the middle portion, the primary hazard statement “Rayonnements ultraviolets” in yellow on a black background, and
-	- **(iii)** in the lower portion, the following message in black on a white background:“La surexposition provoque des brûlures aux yeux et à la peau. Porter le dispositif de protection des yeux. Suivre les instructions. Médicaments et cosmétiques peuvent augmenter les effets des UV. L’exposition aux UV peut avoir des effets nocifs sur la santé et contribuer, à long terme, au vieillissement prématuré et au cancer de la peau. Ces effets sont cumulatifs. Plus l’exposition régulière commence tôt, plus les risques qui y sont associés sont élevés.”;
+	- **(ii)** in the middle portion, the primary hazard statement “*Les appareils de bronzage peuvent causer le cancer*” in yellow on a black background,
+	- **(iii)** in the lower left portion, the following statements in black on a white background and in the following order:“*L’exposition aux rayonnements ultraviolets (UV) peut avoir des effets nocifs sur la santé :*”
+
+“*• La surexposition provoque des brûlures aux yeux et à la peau*”
+
+“*• Les effets des UV sont cumulatifs et peuvent être cancérogènes — plus l’exposition régulière commence tôt, plus les risques qui y sont associés sont élevés*”
+
+“*• Les facteurs de risque comprennent le type de peau, la photosensibilité et les antécédents de cancer de la peau*”
+
+“*• Les médicaments et les cosmétiques peuvent augmenter les effets des UV*”,
+
+
+	- **(iv)** in the lower right portion, the following statements in black on a white background and in the following order:“*L’exposition aux UV peut contribuer, à long terme, au vieillissement prématuré et au cancer de la peau*”
+
+“*• Suivre les instructions*”
+
+“*• Porter un dispositif de protection des yeux*”
+
+“*• Usage déconseillé aux personnes de moins de 18 ans*”,
+
+
+	- **(v)** in the lower left corner, the attribution “*Santé Canada* — Health Canada” on a white background, and
+	- **(vi)** in the lower right corner, the attribution “Canada” on a white background;
 - **(c)** include in the English version of the label illustrated in Figure 2 of paragraph (e), enclosed within a black border,
 	- **(i)** in the upper portion, on a white background, the signal word “Danger” in red with the hazard symbol to its right,
-	- **(ii)** in the middle portion, the primary hazard statement “Ultraviolet Radiation” in yellow on a black background, and
-	- **(iii)** in the lower portion, the following message in black on a white background:“Overexposure causes skin and eye burns. Use protective eyewear. Follow instructions. Drugs and cosmetics may increase UV effects. UV exposure can be hazardous to your health and in the long term can contribute to premature skin ageing and skin cancer. UV effects are cumulative. Greater risks are associated with early and repeated exposure.”;
+	- **(ii)** in the middle portion, the primary hazard statement “Tanning Equipment Can Cause Cancer” in yellow on a black background,
+	- **(iii)** in the lower left portion, the following statements in black on a white background and in the following order:“Ultraviolet (UV) radiation exposure can be hazardous to your health:”
+
+“• Overexposure causes skin and eye burns”
+
+“• UV effects are cumulative and may be carcinogenic — greater risks are associated with early and repeated exposure”
+
+“• Risk factors include skin type, photosensitivity and history of skin cancer”
+
+“• Drugs and cosmetics may increase UV effects”,
+
+
+	- **(iv)** in the lower right portion, the following statements in black on a white background and in the following order:“In the long term, UV exposure can contribute to premature ageing and skin cancer”
+
+“• Follow instructions”
+
+“• Use protective eyewear”
+
+“• Not recommended for use by those under 18 years of age”,
+
+
+	- **(v)** in the lower left corner, the attribution “Health Canada — *Santé Canada*” on a white background, and
+	- **(vi)** in the lower right corner, the attribution “Canada” on a white background;
 - **(d)** measure
 	- **(i)** 75 mm high and 200 mm wide, in the case of tanning equipment used for full- or half-body exposure, and
-	- **(ii)** 50 mm high and 100 mm wide, in any other case; and
-- **(e)** conform to the following diagrams:
-> Image: The image is the French version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the upper left corner is a Canadian flag with the words “Health Canada” and “Santé Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
+	- **(ii)** 50 mm high and 100 mm wide, in any other case;
+- **(d.1)** be reproduced
+	- **(i)** in colours that are as close as possible to the colours in which they are set out in the electronic file referred to in paragraph (a), and
+	- **(ii)** as clearly as possible taking into consideration the method of printing used; and
+- **(e)** conform to the following figures:
+> Image: The image is the French version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the lower left corner is a Canadian flag with the words “Santé Canada” and “Health Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
 
-> Image: The image is the English version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the upper left corner is a Canadian flag with the words “Health Canada” and “Santé Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
+> Image: The image is the English version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the lower left corner is a Canadian flag with the words “Health Canada” and “Santé Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
 
 
 
 **6** 
 
-- **(1)** Subject to subsection (2), all advertising material in relation to tanning equipment must include, in a clearly legible manner, the signal word “Danger”, the primary hazard statements “Ultraviolet Radiation / Rayonnements ultraviolets” and the messages set out in subparagraphs 5(b)(iii) and (c)(iii).
+- **(1)** Subject to subsection (2), all advertising material in relation to tanning equipment must include, in a clearly legible manner, the signal word “Danger”, followed by the attribution “According to Health Canada / *Selon Santé Canada*”, the primary hazard statement “Tanning Equipment Can Cause Cancer / *Les appareils de bronzage peuvent causer le cancer*” and the statements set out in subparagraphs 5(b)(iii) and (iv) and 5(c)(iii) and (iv).
 
-- **(2)** Advertising material that is in only English or French must include, in a clearly legible manner,
-	- **(a)** if it is only in French, the signal word “Danger”, the primary hazard statement “Rayonnements ultraviolets” and the message set out in subparagraph 5(b)(iii); and
-	- **(b)** if it is only in English, the signal word “Danger”, the primary hazard statement “Ultraviolet Radiation” and the message set out in subparagraph 5(c)(iii).
+- **(2)** Advertising material that is in English or French only must include, in a clearly legible manner,
+	- **(a)** if it is in French only, the signal word “*Danger*”, followed by the attribution “*Selon Santé Canada*”, the primary hazard statement “*Les appareils de bronzage peuvent causer le cancer*” and the statements set out in subparagraphs 5(b)(iii) and (iv); and
+	- **(b)** if it is in English only, the signal word “Danger”, followed by the attribution “According to Health Canada”, the primary hazard statement “Tanning Equipment Can Cause Cancer” and the statements set out in subparagraphs 5(c)(iii) and (iv).
 
 
 **7** Every ultraviolet lamp must have a tag, tape or card affixed to it that sets out
 - **(a)** its model designation; and
-- **(b)** the warning “DANGER — Ultraviolet radiation. Follow instructions. Use only in fixtures equipped with a timer. / DANGER — Rayonnements ultraviolets. Suivre les instructions. À n’utiliser qu’avec un dispositif pourvu d’une minuterie.”.
+- **(b)** the warning “DANGER — Ultraviolet radiation. Follow instructions. Use only in fixtures equipped with a timer. / *DANGER — Rayonnements ultraviolets. Suivre les instructions. À n’utiliser qu’avec un dispositif pourvu d’une minuterie.*”.
 
 
 
@@ -1517,7 +1565,7 @@ and converted into and expressed in minutes, where
 - **(a)** be displayed in two contrasting colours;
 - **(b)** be visible and identifiable from a distance of 1 m;
 - **(c)** be at least 2 cm high and at least 2 cm wide;
-- **(d)** bear the words “CAUTION: X-RAYS — ATTENTION : RAYONS X”; and
+- **(d)** bear the words “CAUTION: X-RAYS — *ATTENTION : RAYONS X*”; and
 - **(e)** conform to
 	- **(i)** the following diagram:
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
@@ -1561,12 +1609,13 @@ or
 <table>
 <h4>Minimum Half-Value Layer of Aluminum</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Operating Range for Normal Use (kV)</th>
 <th>X-ray Tube Voltage (kV)</th>
 <th>Half-value Layer of Aluminum (mm)</th>
@@ -1668,11 +1717,12 @@ or
 <table>
 <h4>Non-Mammography Equipment — Maximum Aluminum Equivalent of Interpositioned Objects</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Object</th>
 <th>Maximum Aluminum Equivalent (mm)</th>
 </tr>
@@ -1727,11 +1777,12 @@ or
 <table>
 <h4>Mammography Equipment — Maximum Aluminum Equivalent of Interpositioned Objects</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Object</th>
 <th>Maximum Aluminum Equivalent (mm)</th>
 </tr>
@@ -1961,11 +2012,12 @@ where
 <table>
 <h4>Maximum Deviation of Loading Factors</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Loading Factor</th>
 <th>Maximum Deviation from the Selected Value</th>
 </tr>
@@ -2011,12 +2063,13 @@ where
 <table>
 <h4>Maximum Variation in Optical Density</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>X-ray Tube Voltage</th>
 <th>Thickness of the Object</th>
 <th>Maximum Variation in Optical Density</th>
@@ -2104,12 +2157,13 @@ where
 <table>
 <h4>Maximum Air Kerma or Exposure Rate of Radioscopic Equipment, Other Than When It Is Recording Images</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Feature</th>
 <th>Maximum Air Kerma Rate</th>
 <th>Maximum Exposure Rate</th>
@@ -2330,7 +2384,7 @@ where
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of 1 m;
 - **(c)** has no outer dimensions less than 2 cm;
-- **(d)** bears the words “CAUTION-ULTRASOUND, ATTENTION-ULTRASONS”; and
+- **(d)** bears the words “CAUTION-ULTRASOUND, *ATTENTION-ULTRASONS*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “CAUTION-ULTRASOUND, ATTENTION-ULTRASONS”, described by an inverted triangle containing a small rectangle with a curled line attached in the right corner emitting a series of lines
 
@@ -2388,13 +2442,13 @@ where
 	- **(i)** is displayed in two contrasting colours,
 	- **(ii)** is clearly visible and readily discernible from a distance of 1 m,
 	- **(iii)** has no outer dimension that is less than 2 cm,
-	- **(iv)** bears the words “CAUTION: X-RADIATION — ATTENTION: RAYONNEMENTS X”, and
+	- **(iv)** bears the words “CAUTION: X-RADIATION — *ATTENTION: RAYONNEMENTS X*”, and
 	- **(v)** conforms to the following diagram, namely,
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
 - **(b)** a label bearing the words“CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When Energized. To be Operated Only by Qualified Personnel.
 
-ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute intensité lorsqu’il est sous tension. Son utilisation est réservée au personnel compétent;” and
+*ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute intensité lorsqu’il est sous tension. Son utilisation est réservée au personnel compétent;*” and
 
 
 - **(c)** a label setting out
@@ -2579,7 +2633,7 @@ when averaged over a detection area of ten square centimetres.
 - **(a)** is shown in two contrasting colours;
 - **(b)** is clearly visible and identifiable from a distance of one metre;
 - **(c)** has no outer dimensions less than two centimetres;
-- **(d)** bears the words “CAUTION, X-RAYS” and “ATTENTION, RAYONS X”; and
+- **(d)** bears the words “CAUTION, X-RAYS” and “*ATTENTION, RAYONS X*”; and
 - **(e)** is designed in accordance with the following diagram:
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -2589,6 +2643,6 @@ when averaged over a detection area of ten square centimetres.
 **PART XVI** 
 ## [Revoked, SOR/88-471, s. 4]
 
-> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, s. 1(F), 2(F), 3(F), 4(F), 5(F), 6(F), 7, 8(F), 9(F) and 10.
+> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, ss. 1 to 6(F), 7, 8(F), 9(F), 10; SOR/2014-25, ss. 1 to 3.
 
 
