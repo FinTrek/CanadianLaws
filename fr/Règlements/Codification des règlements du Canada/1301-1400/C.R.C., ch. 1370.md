@@ -438,7 +438,7 @@ où
 		- **(ii)** est de deux couleurs contrastantes,
 		- **(iii)** est bien visible et facilement perceptible à une distance de 1 m,
 		- **(iv)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
-		- **(v)** porte la mention « ATTENTION : RAYONS X — CAUTION : X-RAYS »,
+		- **(v)** porte la mention « ATTENTION : RAYONS X — *CAUTION : X-RAYS* »,
 		- **(vi)** est conforme au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “CAUTION: X-RAYS — ATTENTION : RAYONS X”
 
@@ -542,7 +542,7 @@ y compris l’ouverture et la fermeture de la porte.
 	- **c)** une description de la charge d’épreuve prescrite à l’alinéa 4(3)a);
 	- **d)** l’année et le mois de fabrication du four;
 	- **e)** le symbole décrit à l’article 3; et
-	- **f)** lorsque le four n’est pas un four à micro-ondes commercial, les mots « NON DESTINÉ À UN USAGE COMMERCIAL — NOT FOR COMMERCIAL USE ».
+	- **f)** lorsque le four n’est pas un four à micro-ondes commercial, les mots « NON DESTINÉ À UN USAGE COMMERCIAL — *NOT FOR COMMERCIAL USE* ».
 
 - **(4)** Les fours munis d’un système à convoyeur doivent porter, sur la surface externe du four, près de toutes les bouches d’entrée et de sortie, un symbole de mise en garde décrit à l’article 3.
 
@@ -556,7 +556,7 @@ y compris l’ouverture et la fermeture de la porte.
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** portant la mention « CAUTION — MICROWAVES » et « ATTENTION — MICRO-ONDES »; et
+- **d)** portant la mention « *CAUTION — MICROWAVES* » et « ATTENTION — MICRO-ONDES »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une antenne satellite émettant une série de lignes, incluant les mots “Attention - Micro-ondes” et “Caution - Microwaves”
 
@@ -667,7 +667,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 - **a)** de deux couleurs contrastantes;
 - **b)** qui est bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte la mention « CAUTION — X-RAYS » et « ATTENTION — RAYONS X »; et
+- **d)** qui porte la mention « *CAUTION — X-RAYS* » et « ATTENTION — RAYONS X »; et
 - **e)** qui est conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
@@ -744,7 +744,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte la mention « CAUTION — X-RAYS » et « ATTENTION — RAYONS X »; et
+- **d)** qui porte la mention « *CAUTION — X-RAYS* » et « ATTENTION — RAYONS X »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
@@ -902,7 +902,7 @@ où
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 mètre;
 - **c)** dont les dimensions extérieures ont au moins 2 centimètres;
-- **d)** portant la mention « CAUTION X-RAYS », et « ATTENTION RAYONS X »; et
+- **d)** portant la mention « *CAUTION X-RAYS* », et « ATTENTION RAYONS X »; et
 - **e)** conçu selon le modèle ci-après :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
@@ -1009,7 +1009,7 @@ où
 - **a)** de deux couleurs contrastantes;
 - **b)** qui est bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte les mentions « CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED » — « ATTENTION — RAYONNEMENT LASER ET ÉLECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ »; et
+- **d)** qui porte les mentions « *CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED* » — « ATTENTION — RAYONNEMENT LASER ET ÉLECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ »; et
 - **e)** qui est conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une étincelle avec une ligne rattachée qui va vers le coin droit supérieur, incluant les mots “Attention - Rayonnement laser et electromagnétique dangereux si ouvert avec l’enclenchement de sécurité annulé” — “Caution - Hazardous laser and electromagnetic radiation when open and interlock defeated”
 
@@ -1095,7 +1095,7 @@ où
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte les mentions « CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU »; et
+- **d)** qui porte les mentions « *CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM* — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU »; et
 - **e)** conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une étincelle avec une ligne rattachée qui va vers le coin droit supérieur, incluant les mots “ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU — CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM”
 
@@ -1165,7 +1165,7 @@ ne dépasse pas 0,5 mR/h.
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 m;
 - **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
-- **d)** qui porte la mention « CAUTION, X-RAYS » et « ATTENTION, RAYONS X»; et
+- **d)** qui porte la mention « *CAUTION, X-RAYS* » et « ATTENTION, RAYONS X»; et
 - **e)** conçue d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
@@ -1220,7 +1220,7 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 - **(2)** Le conteneur d’une lampe qui n’est pas une lampe à auto-extinction doit porter, clairement et bien en vue,
 	- **a)** la lettre « R »; et
-	- **b)** les mots « MISE EN GARDE » — « WARNING », suivis d’un avertissement, en français et anglais, portant que :« Tout bris ou perforation de l’enveloppe extérieure de cette lampe peut causer de graves brûlures à la peau et une inflammation des yeux, dues au rayonnement ultraviolet court émis. Ne pas utiliser cette lampe là où il y aurait des gens pendant plus de quelques minutes, à moins d’assurer un blindage adéquat ou de prendre d’autres mesures de sécurité. Des lampes qui s’éteignent automatiquement en cas de bris ou de perforation de l’enveloppe extérieure sont offertes sur le marché. ».
+	- **b)** les mots « MISE EN GARDE » — « *WARNING* », suivis d’un avertissement, en français et anglais, portant que :« Tout bris ou perforation de l’enveloppe extérieure de cette lampe peut causer de graves brûlures à la peau et une inflammation des yeux, dues au rayonnement ultraviolet court émis. Ne pas utiliser cette lampe là où il y aurait des gens pendant plus de quelques minutes, à moins d’assurer un blindage adéquat ou de prendre d’autres mesures de sécurité. Des lampes qui s’éteignent automatiquement en cas de bris ou de perforation de l’enveloppe extérieure sont offertes sur le marché. ».
 
 
 
@@ -1251,9 +1251,9 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 ***dispositif de protection des yeux*** Dispositif que porte l’utilisateur d’un appareil de bronzage pour réduire le rayonnement ultraviolet atteignant directement ou indirectement les yeux. (*protective eyewear*)
 
-***douille à contact double pour vis moyenne*** Douille visée à la norme ANSI C81.62-1991 de l’American National Standards Institute intitulée American National Standard for Lampholders for Electric Lamps, Standard Sheet 2-158-1 “Double Contact Medium Screw Lampholder” et approuvée le 15 juillet 1991. (*double-contact medium screw lampholder*)
+***douille à contact double pour vis moyenne*** Douille visée par la norme de la Commission électrotechnique internationale CEI 60061-2, édition 3.41, 2010-04, feuille 7005-29-2, intitulée Position de la chemise filetée par rapport aux contacts central et intermédiaire de la douille E26d, avec ses modifications successives. (*double-contact medium screw lampholder*) 
 
-***douille à contact unique pour vis moyenne*** Douille visée à la norme ANSI C81.62-1991 de l’American National Standards Institute intitulée American National Standard for Lampholders for Electric Lamps, Standard Sheet 2-157-1 “Single Contact Medium Screw Lampholder” et approuvée le 15 juillet 1991. (*single contact medium screw lampholder*)
+***douille à contact unique pour vis moyenne*** Douille visée par la norme de la Commission électrotechnique internationale CEI 60061-2, édition 3.41, 2010-04, feuille 7005-21A-1, intitulée Douilles E26, avec ses modifications successives. (*single-contact medium screw lampholder*) 
 
 ***durée maximale d’exposition*** La période maximale de temps recommandée par le fabricant de l’appareil de bronzage pour une exposition continue. (*maximum exposure time*)
 
@@ -1271,7 +1271,7 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 ***programme d’expositions*** Régime d’expositions recommandé par le fabricant de l’appareil de bronzage selon les durées d’exposition, les intervalles entre les expositions et le degré de sensibilité pour chaque type de peau. (*exposure schedule*)
 
-***spectre d’action érythémale de référence*** Spectre d’action érythémale figurant à l’article 5.2 de la norme CIE S 007/F-1998 de la Commission internationale de l’éclairage intitulée Spectre d’action érythémale de référence et dose érythémale normalisée et publiée en 1998. (*erythema reference action spectrum*)
+***spectre d’action érythémale de référence*** Spectre d’action érythémale figurant à l’article 5.2 de la norme ISO 17166:1999(F) / CIE S 007/F-1998, première édition, de la Commission internationale de l’éclairage, intitulée Spectre d’action érythémale de référence et dose érythémale normalisée, avec ses modifications successives. (*erythema reference action spectrum*) 
 
 ***transmittance spectrale*** Rapport entre l’éclairement énergétique spectral transmis à travers le dispositif de protection des yeux et l’éclairement énergétique spectral incident et normal à la surface de ce dispositif. (*spectral transmittance*)
 
@@ -1325,36 +1325,79 @@ où :
 - **a)** être reproduite à partir du fichier électronique fourni par le ministre;
 - **b)** comporter dans sa version française, comme il est illustré à la figure 1 de l’alinéa e), à l’intérieur d’un encadré noir :
 	- **(i)** dans sa partie supérieure sur fond blanc, le mot indicateur « Danger » en rouge et à sa droite, le pictogramme de danger,
-	- **(ii)** dans sa partie centrale sur fond noir, la mention de danger principal « Rayonnements ultraviolets » en jaune,
-	- **(iii)** dans sa partie inférieure sur fond blanc, l’énoncé ci-après, en noir :
-		- « La surexposition provoque des brûlures aux yeux et à la peau. Porter le dispositif de protection des yeux. Suivre les instructions. Médicaments et cosmétiques peuvent augmenter les effets des UV. L’exposition aux UV peut avoir des effets nocifs sur la santé et contribuer, à long terme, au vieillissement prématuré et au cancer de la peau. Ces effets sont cumulatifs. Plus l’exposition régulière commence tôt, plus les risques qui y sont associés sont élevés. »;
+	- **(ii)** dans sa partie centrale sur fond noir, la mention du danger principal « Les appareils de bronzage peuvent causer le cancer » en jaune,
+	- **(iii)** dans sa partie inférieure gauche sur fond blanc, les énoncés ci-après, en noir et dans le même ordre :« L’exposition aux rayonnements ultraviolets (UV) peut avoir des effets nocifs sur la santé : »
+
+« • La surexposition provoque des brûlures aux yeux et à la peau »
+
+« • Les effets des UV sont cumulatifs et peuvent être cancérogènes — plus l’exposition régulière commence tôt, plus les risques qui y sont associés sont élevés »
+
+« • Les facteurs de risque comprennent le type de peau, la photosensibilité et les antécédents de cancer de la peau »
+
+« • Les médicaments et les cosmétiques peuvent augmenter les effets des UV »,
+
+
+	- **(iv)** dans sa partie inférieure droite sur fond blanc, les énoncés ci-après, en noir et dans le même ordre :« L’exposition aux UV peut contribuer, à long terme, au vieillissement prématuré et au cancer de la peau »
+
+« • Suivre les instructions »
+
+« • Porter un dispositif de protection des yeux »
+
+« • Usage déconseillé aux personnes de moins de 18 ans »,
+
+
+	- **(v)** dans le coin inférieur gauche sur fond blanc, la mention de la source « Santé Canada — *Health Canada* »,
+	- **(vi)** dans le coin inférieur droit sur fond blanc, la mention de la source « Canada »;
 - **c)** comporter dans sa version anglaise, comme il est illustré à la figure 2 de l’alinéa e), à l’intérieur d’un encadré noir :
 	- **(i)** dans sa partie supérieure sur fond blanc, le mot indicateur « Danger » en rouge et à sa droite, le pictogramme de danger,
-	- **(ii)** dans sa partie centrale sur fond noir, la mention de danger principal « Ultraviolet Radiation » en jaune,
-	- **(iii)** dans sa partie inférieure sur fond blanc, l’énoncé ci-après, en noir :
-		- « Overexposure causes skin and eye burns. Use protective eyewear. Follow instructions. Drugs and cosmetics may increase UV effects. UV exposure can be hazardous to your health and in the long term can contribute to premature skin ageing and skin cancer. UV effets are cumulative. Greater risks are associated with early and repeated exposure. »;
+	- **(ii)** dans sa partie centrale sur fond noir, la mention du danger principal « *Tanning Equipment Can Cause Cancer* » en jaune,
+	- **(iii)** dans sa partie inférieure gauche sur fond blanc, les énoncés ci-après, en noir et dans le même ordre :« *Ultraviolet (UV) radiation exposure can be hazardous to your health :* »
+
+« *• Overexposure causes skin and eye burns* »
+
+« *• UV effects are cumulative and may be carcinogenic — greater risks are associated with early and repeated exposure* »
+
+« *• Risk factors include skin type, photosensitivity and history of skin cancer* »
+
+« *• Drugs and cosmetics may increase UV effects* »,
+
+
+	- **(iv)** dans sa partie inférieure droite sur fond blanc, les énoncés ci-après, en noir et dans le même ordre :« *In the long term, UV exposure can contribute to premature ageing and skin cancer* »
+
+« *• Follow instructions* »
+
+« *• Use protective eyewear* »
+
+« *• Not recommended for use by those under 18 years of age* »,
+
+
+	- **(v)** dans le coin inférieur gauche sur fond blanc, la mention de la source « *Health Canada* — Santé Canada »,
+	- **(vi)** dans le coin inférieur droit sur fond blanc, la mention de la source « Canada »;
 - **d)** mesurer :
 	- **(i)** 75 mm sur 200 mm, s’il s’agit d’un appareil de bronzage utilisé pour l’exposition de la moitié ou de l’intégralité du corps,
 	- **(ii)** 50 mm sur 100 mm, s’il s’agit de tout autre appareil de bronzage;
-- **e)** être conforme aux modèles suivants :
-> Image: Cette image correspond à la version française de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Santé Canada » et « Health Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
+- **d.1)** être reproduite :
+	- **(i)** d’une part, dans des couleurs se rapprochant le plus possible de celles utilisées dans le fichier électronique mentionné à l’alinéa a),
+	- **(ii)** d’autre part, avec le plus de clarté possible, compte tenu de la technique d’impression utilisée;
+- **e)** être conforme aux figures suivantes :
+> Image: Cette image correspond à la version française de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un pictogramme de danger de forme octogonale, représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin inférieur gauche, un drapeau canadien avec les mots « Santé Canada » et « Health Canada » à sa droite. Dans son coin inférieur droit se trouve le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
 
-> Image: Cette image correspond à la version anglaise de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Health Canada » et « Santé Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
+> Image: Cette image correspond à la version anglaise de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un pictogramme de danger de forme octogonale, représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin inférieur gauche, un drapeau canadien avec les mots « Health Canada » et « Santé Canada » à sa droite. Dans son coin inférieur droit se trouve le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
 
 
 
 **6** 
 
-- **(1)** Sous réserve du paragraphe (2), tout document publicitaire relatif à un appareil de bronzage doit reproduire lisiblement le mot indicateur « Danger », les mentions de danger principal « Rayonnements ultraviolets / Ultraviolet radiation » et les énoncés prévus aux sous-alinéas 5b)(iii) et c)(iii).
+- **(1)** Sous réserve du paragraphe (2), tout document publicitaire relatif à un appareil de bronzage doit reproduire lisiblement le mot indicateur « Danger », suivi de la mention de la source « Selon Santé Canada / *According to Health Canada* », de la mention du danger principal « Les appareils de bronzage peuvent causer le cancer / *Tanning Equipment Can Cause Cancer* » et des énoncés prévus aux sous-alinéas 5b)(iii) et (iv) et 5c)(iii) et (iv).
 
 - **(2)** Le document publicitaire unilingue français ou anglais doit reproduire lisiblement :
-	- **a)** s’il est en français, le mot indicateur « Danger », la mention de danger principal « Rayonnements ultraviolets » et l’énoncé prévu au sous-alinéa 5b)(iii);
-	- **b)** s’il est en anglais, le mot indicateur « Danger », la mention de danger principal « Ultraviolet Radiation » et l’énoncé prévu au sous-alinéa 5c)(iii).
+	- **a)** s’il est en français, le mot indicateur « Danger », suivi de la mention de la source « Selon Santé Canada », de la mention du danger principal « Les appareils de bronzage peuvent causer le cancer » et des énoncés prévus aux sous-alinéas 5b)(iii) et (iv);
+	- **b)** s’il est en anglais, le mot indicateur « *Danger* », suivi de la mention de la source « *According to Health Canada* », de la mention du danger principal « *Tanning Equipment Can Cause Cancer* » et des énoncés prévus aux sous-alinéas 5c)(iii) et (iv).
 
 
 **7** Toute lampe à rayonnements ultraviolets doit avoir une étiquette volante, un ruban ou une carte attachés à la lampe, sur lesquels figurent les renseignements suivants :
 - **a)** la désignation de son modèle;
-- **b)** l’avertissement « DANGER — Rayonnements ultraviolets. Suivre les instructions. À n’utiliser qu’avec un dispositif pourvu d’une minuterie. / DANGER — Ultraviolet radiation. Follow instructions. Use only in fixtures equipped with a timer. ».
+- **b)** l’avertissement « DANGER — Rayonnements ultraviolets. Suivre les instructions. À n’utiliser qu’avec un dispositif pourvu d’une minuterie. / *DANGER — Ultraviolet radiation. Follow instructions. Use only in fixtures equipped with a timer.* ».
 
 
 
@@ -1518,7 +1561,7 @@ où :
 - **a)** être de deux couleurs contrastantes;
 - **b)** être visible et reconnaissable à une distance de 1 m;
 - **c)** avoir une hauteur minimale de 2 cm et une largeur minimale de 2 cm;
-- **d)** porter la mention « ATTENTION : RAYONS X — CAUTION : X-RAYS »;
+- **d)** porter la mention « ATTENTION : RAYONS X — *CAUTION : X-RAYS* »;
 - **e)** être conforme :
 	- **(i)** soit au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec, au milieu, un cercle émettant des lignes en pointillé, avec “Attention: Rayons X — Caution: X-Rays”
@@ -1782,8 +1825,8 @@ où :
 		- **(iii)** permettant d’aligner le centre du champ de rayons X sur celui de la surface réceptrice de l’image, l’écart ne pouvant dépasser 2 % de la distance foyer-récepteur d’image.
 
 - **(2)** Le dispositif visé à l’alinéa (1)b) doit :
-	- **a)** avoir un éclairement minimal moyen de 100 lx selon la plus courte des distances suivantes :
-		- **(i)** 1 m de la source de rayons X,
+	- **a)** avoir un éclairement minimal moyen de 100 lx selon la plus courte des distances suivantes :
+		- **(i)** 1 m de la source de rayons X,
 		- **(ii)** la distance foyer-récepteur d’image maximale;
 	- **b)** être délimité par le dispositif de limitation du faisceau;
 	- **c)** avoir un périmètre qui est le lieu des points où l’éclairement correspond au quart de l’éclairement maximal de la zone;
@@ -2328,7 +2371,7 @@ où
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 m;
 - **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
-- **d)** qui porte les mentions « CAUTION-ULTRASOUND, ATTENTION-ULTRASONS »; et
+- **d)** qui porte les mentions « *CAUTION-ULTRASOUND*, ATTENTION-ULTRASONS »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un petit rectangle avec une ligne courbée rattachée dans le coin droit émettant une série de lignes, avec “Attention - ultrasons, Caution-Ultrasound”
 
@@ -2386,13 +2429,13 @@ où
 	- **(i)** est de deux couleurs contrastantes,
 	- **(ii)** est bien visible et nettement perceptible à une distance de 1 m,
 	- **(iii)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
-	- **(iv)** porte la mention « ATTENTION : RAYONNEMENTS X — CAUTION : X-RADIATION »,
+	- **(iv)** porte la mention « ATTENTION : RAYONNEMENTS X — *CAUTION : X-RADIATION* »,
 	- **(v)** est conforme au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
 - **b)** une étiquette portant la mention :“ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute intensité lorsqu’il est sous tension. Son utilisation est réservée au personnel compétent.
 
-CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When Energized. To be Operated Only by Qualified Personnel.;”
+*CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When Energized. To be Operated Only by Qualified Personnel.;*”
 
 
 - **c)** une étiquette indiquant les renseignements suivants :
@@ -2452,7 +2495,7 @@ CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When
 
 ### Normes de fonctionnement
 
-**10** Une fois assemblé, l’appareil d’analyse à rayonnement X doit fonctionner de manière que, lorsque la haute tension radiogène et le courant dans le tube radiogène sont réglés à un degré donné, l’émission de rayonnements X ne soit pas supérieure à une exposition de 0,5 milliroentgen (un kerma dans l’air ≈ 4,38 micrograys) l’heure à une distance de 5 cm :
+**10** Une fois assemblé, l’appareil d’analyse à rayonnement X doit fonctionner de manière que, lorsque la haute tension radiogène et le courant dans le tube radiogène sont réglés à un degré donné, l’émission de rayonnements X ne soit pas supérieure à une exposition de 0,5 milliroentgen (un kerma dans l’air ≈ 4,38 micrograys) l’heure à une distance de 5 cm :
 - **a)** des surfaces extérieures accessibles de toute gaine du tube radiogène, de tout dispositif de limitation du faisceau, de toute barrière de protection radiologique ou de tout accessoire;
 - **b)** de toute fenêtre, tout obturateur ou toute fente du filtre, lorsqu’ils sont sur la position « fermé »;
 - **c)** de tout point de la gaine du générateur radiologique.
@@ -2577,7 +2620,7 @@ la moyenne étant établie sur une surface de détection de 10 centimètres carr
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont les dimensions extérieures sont d’au moins deux centimètres;
-- **d)** portant les mentions « CAUTION, X-RAYS » et « ATTENTION, RAYONS X »; et
+- **d)** portant les mentions « *CAUTION, X-RAYS* » et « ATTENTION, RAYONS X »; et
 - **e)** conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrit par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
@@ -2587,6 +2630,6 @@ la moyenne étant établie sur une surface de détection de 10 centimètres carr
 **PARTIE XVI** 
 ## [Abrogée, DORS/88-471, art. 4]
 
-> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1(F), 2(F), 3(F), 4(F), 5(F), 6(F), 7, 8(F), 9(F) et 10.
+> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1 à 6(F), 7, 8(F), 9(F) et 10; DORS/2014-25, art. 1 à 3.
 
 
