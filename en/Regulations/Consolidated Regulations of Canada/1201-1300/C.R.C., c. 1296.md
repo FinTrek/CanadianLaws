@@ -38,8 +38,8 @@ Enabling authorities:
 
 ***special handling service***[Repealed, SOR/90-17, s. 1]
 
-***Universal Postal Convention*** means the Universal Postal Convention drawn up by the Universal Postal Union at the 24<sup>th</sup> Congress, 2008. (*Convention postale universelle*)
-> SOR/81-386, s. 1; SOR/86-241, s. 1; SOR/90-17, s. 1; SOR/90-800, s. 1; SOR/91-628, s. 1; SOR/91-635, s. 1; SOR/98-559, s. 1; SOR/2003-378, s. 1; SOR/2003-382, s. 4; SOR/2005-360, s. 1; SOR/2009-335, s. 1.
+***Universal Postal Convention*** means the Universal Postal Convention drawn up by the Universal Postal Union at the 25th Congress, 2012. (*Convention postale universelle*)
+> SOR/81-386, s. 1; SOR/86-241, s. 1; SOR/90-17, s. 1; SOR/90-800, s. 1; SOR/91-628, s. 1; SOR/91-635, s. 1; SOR/98-559, s. 1; SOR/2003-378, s. 1; SOR/2003-382, s. 4; SOR/2005-360, s. 1; SOR/2009-335, s. 1; SOR/2014-53, s. 1.
 
 
 
