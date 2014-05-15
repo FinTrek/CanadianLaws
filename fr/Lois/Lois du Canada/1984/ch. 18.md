@@ -54,9 +54,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***assemblée extraordinaire*** L’assemblée de bande mentionnée aux articles 83 à 88.
 
-***bande*** Bande constituée par les articles 12 ou 14.
+***bande*** Toute bande constituée par les articles 12 ou 14, ou la Bande de Oujé-Bougoumou visée à l’article 12.1.
 
-***bande crie*** Bande constituée par l’article 12.
+***bande crie*** Toute bande constituée par l’article 12, ou la Bande de Oujé-Bougoumou visée à l’article 12.1.
 
 ***bande naskapie*** Bande Naskapi du Québec constituée par l’article 14.
 
@@ -73,6 +73,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***conseil*** Le groupe permanent visé à l’article 25.
 
 ***conseiller*** Personne qui occupe un poste de conseiller conformément à la partie II.
+
+***convention complémentaire de la Bande de Oujé-Bougoumou*** Convention passée conformément aux dispositions modificatives de la Convention de la Baie James et du Nord québécois et prévoyant notamment la constitution — en vertu de la présente loi — de la collectivité connue sous le nom de Cris de Oujé-Bougoumou en administration locale dotée de la personnalité morale.
 
 ***Convention de la Baie James et du Nord québécois*** La convention passée entre le *Grand Council of the Crees (of Québec)*, la *Northern Québec Inuit Association*, le gouvernement du Québec, la Société d’énergie de la Baie James, la Société de développement de la Baie James, la Commission hydroélectrique de Québec et le gouvernement du Canada, le 11 novembre 1975, dans sa version modifiée par :
 - **a)** toute convention non visée aux alinéas b) ou c) et passée conformément aux dispositions modificatrices de la Convention de la Baie James et du Nord québécois;
@@ -147,6 +149,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention des lois du Québec**
 
 - **(4)** Sauf indication contraire de la présente loi, la mention d’une loi du Québec ou de telle de ses dispositions est celle de son état éventuellement modifié.
+> 1984, ch. 18, art. 2; 2009, ch. 12, art. 1.
+
 
 
 
@@ -327,9 +331,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Bande de Oujé-Bougoumou**
+
+**12.1** Conformément au sous-alinéa 9.0.3A de la Convention de la Baie James et du Nord québécois, est constituée en administration locale dotée de la personnalité morale la collectivité connue sous le nom de Cris de Oujé-Bougoumou, et sa désignation officielle est, sous réserve de l’article 16, en français « Bande de Oujé-Bougoumou », en anglais « Oujé-Bougoumou Band » et en cri « Oujé-Bougoumou Eenuch ».
+> 2009, ch. 12, art. 3.
+
+
+
+
+
 **Dissolution**
 
 **13** À l’entrée en vigueur de la présente partie, les bandes antérieures cries mentionnées aux alinéas 12(1)a) à h) cessent d’exister, et leur actif, leurs droits, titres, intérêts, obligations et responsabilités, y compris ceux de leurs conseils, sont transmis aux bandes mentionnées aux alinéas 12(2)a) à h), respectivement.
+
+
+
+
+**Transmission de l’actif, etc. : collectivité des Cris de Oujé-Bougoumou**
+
+**13.1** 
+
+- **(1)** À l’entrée en vigueur du présent article, l’actif, le passif et les obligations de la collectivité connue sous le nom de Cris de Oujé-Bougoumou sont transmis à la Bande de Oujé-Bougoumou.
+
+**Oujé-Bougoumou Eenuch Association**
+
+- **(2)** À l’entrée en vigueur du présent article, la Oujé-Bougoumou Eenuch Association, personne morale constituée en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, cesse d’exister, et son actif, ses droits, titres, intérêts, ainsi que son passif et ses obligations sont transmis à la Bande de Oujé-Bougoumou.
+> 2009, ch. 12, art. 4.
+
 
 
 
@@ -378,12 +406,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Dispositions particulières pour les Indiens qui ne sont pas des bénéficiaires cris**
+**Disposition pour les personnes qui ne sont pas des bénéficiaires cris**
 
-**18** Toute personne qui, jusqu’à l’entrée en vigueur de la présente partie, était membre d’une bande antérieure crie mentionnée au paragraphe 12(1) sans être un bénéficiaire cri :
-- **a)** a la qualité de membre de la bande qui est substituée à celle-ci et mentionnée au paragraphe 12(2) pour l’application de l’alinéa 21f), de l’article 45, du paragraphe 55(1), des alinéas 90(2)a) et b) et des paragraphes 94(3) et (4) et 103(1);
-- **b)** a la qualité d’électeur de cette bande pour l’application de l’article 63, du sous-alinéa 66(1)a)(i), des articles 68 et 75 et du paragraphe 97(2), sans être éligible au poste de chef de celle-ci, si elle est âgée d’au moins dix-huit ans et n’est pas déclarée mentalement incapable par les lois de la province;
-- **c)** a la qualité d’électeur de cette bande pour l’application de l’article 81, si elle est âgée d’au moins dix-huit ans et n’est pas déclarée mentalement incapable par les lois de la province, sauf lorsque la question qui fait l’objet du vote est mentionnée dans les parties VI, VII, VIII ou IX.
+**18** A la qualité prévue à l’un des alinéas ci-après la personne qui, sans être bénéficiaire cri, était, jusqu’au 3 juillet 1984, membre d’une bande antérieure crie mentionnée au paragraphe 12(1) ou, jusqu’à l’entrée en vigueur de l’article 12.1, un Indien, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), faisant partie de la collectivité connue sous le nom de Cris de Oujé-Bougoumou :
+- **a)** pour l’application de l’alinéa 21f), de l’article 45, du paragraphe 55(1), de l’alinéa 62.01d), du paragraphe 62.1(1), des alinéas 90(2)a) et b) et des paragraphes 94(3) et (4) et 103(1), la qualité de membre de la bande mentionnée au paragraphe 12(2) qui est substituée à la bande antérieure ou de membre de la Bande de Oujé-Bougoumou, selon le cas;
+- **b)** pour l’application de l’article 63, du sous-alinéa 66(1)a)(i), des articles 68 et 75 et du paragraphe 97(2) et si elle est âgée d’au moins dix-huit ans et n’est pas déclarée mentalement incapable par les lois de la province, la qualité d’électeur de la bande qui est substituée à la bande antérieure ou d’électeur de la Bande de Oujé-Bougoumou, selon le cas, sans être éligible au poste de chef de l’une ou l’autre;
+- **c)** pour l’application de l’article 81, sauf lorsque la question qui fait l’objet du vote est mentionnée dans les parties VI, VII, VIII ou IX, et si elle est âgée d’au moins dix-huit ans et n’est pas déclarée mentalement incapable par les lois de la province, la qualité d’électeur de la bande qui est substituée à la bande antérieure ou d’électeur de la Bande de Oujé-Bougoumou, selon le cas.
+> 1984, ch. 18, art. 18; 2009, ch. 12, art. 5.
+
 
 
 
@@ -1066,9 +1096,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Conseil d’administration de la Oujé-Bougoumou Eenuch Association en exercice**
+
+**58.1** Sous réserve de l’article 59, le conseil d’administration de la Oujé-Bougoumou Eenuch Association et le président du conseil qui sont en exercice jusqu’à l’entrée en vigueur du présent article deviennent respectivement, à compter de celle-ci, le conseil de la Bande de Oujé-Bougoumou et le chef de cette bande. Le conseil d’administration et le président du conseil restent en exercice à ce titre jusqu’à la fin de leur mandat respectif.
+> 2009, ch. 12, art. 7.
+
+
+
+
+
 **Assujettissement à la présente loi**
 
-**59** Pendant la période visée à l’article 58, les conseils sont, pour leurs pouvoirs et fonctions et pour l’application, compte tenu des adaptations de circonstance, de la présente loi et de ses règlements, assimilés aux conseils élus sous le régime de cette loi.
+**59** Pendant les périodes de transition visées aux articles 58 et 58.1, les conseils sont, pour leurs pouvoirs et fonctions et pour l’application — avec les adaptations nécessaires — de la présente loi et de ses règlements, assimilés aux conseils élus sous le régime de cette loi.
+> 1984, ch. 18, art. 59; 2009, ch. 12, art. 7.
+
 
 
 
@@ -1076,6 +1117,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des règlements administratifs**
 
 **60** Les règlements administratifs des bandes antérieures cries énumérées au paragraphe 12(1), en vigueur jusqu’à l’entrée en vigueur de la présente partie, continuent à s’appliquer sur le territoire, visé à l’article 6, des bandes qui leur sont substituées pendant un an suivant cette entrée en vigueur, sauf s’ils sont abrogés entre temps conformément à la présente loi.
+
+
+
+
+**Maintien des règlements administratifs**
+
+**60.1** Les règlements administratifs de la Oujé-Bougoumou Eenuch Association en vigueur jusqu’à l’entrée en vigueur du présent article continuent à s’appliquer sur le territoire, visé à l’article 6, de la Bande de Oujé-Bougoumou pendant un an à compter de cette entrée en vigueur, sauf s’ils sont abrogés entre-temps conformément à la présente loi.
+> 2009, ch. 12, art. 8.
+
 
 
 
@@ -2048,11 +2098,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **104** 
 
-- **(1)** Les personnes qui ne sont pas des bénéficiaires cris et qui exerçaient, jusqu’au 11 novembre 1975, puis jusqu’à la date d’entrée en vigueur de la présente partie, des droits de résidence ou d’occupation sur des terres constituées, par la Convention de la Baie James et du Nord québécois, en terres de catégorie IA peuvent continuer à exercer ces droits jusqu’à l’extinction de ceux-ci.
+- **(1)** Les personnes qui ne sont pas des bénéficiaires cris et qui exerçaient, jusqu’au 11 novembre 1975, puis jusqu’à la date d’entrée en vigueur de la présente partie, des droits de résidence ou d’occupation sur des terres constituées par la Convention de la Baie James et du Nord québécois en terres de catégorie IA, à l’exception des terres visées au paragraphe (1.1), peuvent continuer à exercer ces droits jusqu’à l’extinction de ceux-ci.
+
+**Maintien des droits acquis**
+
+- **(1.1)** Les personnes qui ne sont pas des bénéficiaires cris et qui exerçaient, jusqu’à l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou, puis jusqu’à la date d’entrée en vigueur du présent paragraphe, des droits de résidence ou d’occupation sur des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de cette convention peuvent continuer à exercer ces droits jusqu’à l’extinction de ceux-ci.
 
 **Idem**
 
 - **(2)** Les personnes qui ne sont pas des bénéficiaires naskapis et qui exerçaient, jusqu’au 31 janvier 1978, puis jusqu’à la date d’entrée en vigueur de la présente partie, des droits de résidence ou d’occupation sur des terres constituées, par la Convention du Nord-Est québécois, en terres de catégorie IA-N peuvent continuer à exercer ces droits jusqu’à l’extinction de ceux-ci.
+> 1984, ch. 18, art. 104; 2009, ch. 12, art. 15.
+
 
 
 
@@ -2074,6 +2130,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les personnes qui, jusqu’à l’entrée en vigueur de la présente partie, étaient membres d’une bande antérieure crie mentionnée au paragraphe 12(1), mais sans être des bénéficiaires cris, ont le droit d’accès aux terres de catégorie IA attribuées à la bande dont elles ont qualité de membres aux termes de l’alinéa 18a).
 
+**Indiens non-bénéfici­aires cris**
+
+- **(2.1)** Les personnes qui, jusqu’à l’entrée en vigueur du présent paragraphe, étaient des Indiens, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et faisaient partie de la collectivité connue sous le nom de Cris de Oujé-Bougoumou, sans être des bénéficiaires cris, ont le droit d’accès aux terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou.
+
 **Inuit de Fort George**
 
 - **(3)** Les Inuit de Fort George ont le droit d’accès aux terres de catégorie IA attribuées à la bande de Chisasibi.
@@ -2092,8 +2152,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les personnes autorisées par un organisme d’État ou autre organisme public, constitué sous le régime d’une loi fédérale ou de la province ou d’un règlement administratif de la bande, à y exercer une fonction publique, à y établir ou assurer un service public, à y construire ou exploiter des installations publiques ou à y effectuer des levés techniques;
 	- **b)** les titulaires de droits ou d’intérêts accordés en vertu de la partie VIII sur ces terres ou sur des bâtiments qui s’y trouvent;
 	- **c)** les titulaires d’une autorisation d’exploitation forestière commerciale visée au paragraphe 111(2);
-	- **d)** les titulaires de droits relatifs aux minéraux ou d’autres droits tréfonciers visés à l’article 114 ou 115 ou les personnes exerçant les droits prévus au paragraphe 113(3);
+	- **d)** les titulaires de droits relatifs aux minéraux ou d’autres droits tréfonciers visés à l’article 114 ou 115 ou les personnes exerçant les droits prévus au paragraphe 113(3) ou (3.1);
 	- **e)** les personnes à qui la bande a donné, soit simplement par écrit, soit par règlement administratif, une autorisation à cet effet.
+> 1984, ch. 18, art. 105; 2009, ch. 12, art. 16.
+
 
 
 
@@ -2206,11 +2268,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consentement et indemnisation**
 
-- **(2)** Sous réserve du paragraphe (3), l’octroi des droits relatifs aux minéraux et des droits tréfonciers sur les terres de catégorie IA ou IA-N, l’exercice de ces droits et l’extraction ou l’exploitation de minerais ou d’autres substances ou minéraux souterrains sont subordonnés, après le 11 novembre 1975, dans le cas des terres de catégorie IA, et après le 31 janvier 1978, dans le cas des terres de catégorie IA-N, au consentement et à l’indemnisation de la bande, selon un montant agréé par elle.
+- **(2)** Sous réserve des paragraphes (3) et (3.1), l’octroi des droits relatifs aux minéraux et des droits tréfonciers sur les terres de catégorie IA ou IA-N, l’exercice de ces droits et l’extraction ou l’exploitation de minerais ou d’autres substances ou minéraux souterrains s’y trouvant sont subordonnés, après le 11 novembre 1975, dans le cas des terres de catégorie IA autres que les terres visées au paragraphe 114(2), à compter de l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou, dans le cas des terres visées à ce paragraphe, et après le 31 janvier 1978, dans le cas des terres de catégorie IA-N, au consentement et à l’indemnisation de la bande, selon un montant agréé par elle.
 
 **Exception**
 
-- **(3)** Le titulaire d’un permis d’exploration visé à l’article 114 ou d’un droit ou titre visé à l’article 115 peut, sans le consentement ni l’indemnisation mentionnés au paragraphe (2), mais sous réserve de l’article 116 et du versement de l’indemnité qui y est prévue, prospecter et exploiter un gisement de minéraux situé dans des terres de catégorie IA ou IA-N et formant le prolongement ininterrompu du gisement, situé dans un périmètre contigu à ces terres, qui fait l’objet du permis, droit ou titre.
+- **(3)** Le titulaire d’un permis d’exploration visé au paragraphe 114(1) ou d’un droit ou titre visé aux paragraphes 115(1) et (2) peut, sans le consentement ni l’indemnisation mentionnés au paragraphe (2), mais sous réserve des paragraphes 116(1) et (3) et du versement de l’indemnité qui est prévue aux paragraphes 116(2) et (4), prospecter et exploiter un gisement de minéraux situé dans des terres de catégorie IA ou IA-N et formant le prolongement ininterrompu du gisement, situé dans un périmètre contigu à ces terres, qui fait l’objet du permis, droit ou titre.
+
+**Exception : Bande de Oujé-Bougoumou**
+
+- **(3.1)** Le titulaire d’un permis d’exploration visé au paragraphe 114(2) ou d’un droit ou titre visé au paragraphe 115(1.1) peut, sans le consentement ni l’indemnisation mentionnés au paragraphe (2), mais sous réserve du paragraphe 116(1.1) et du versement de l’indemnité qui est prévue au paragraphe 116(2), prospecter et exploiter un gisement de minéraux situé dans des terres de catégorie IA et formant le prolongement ininterrompu du gisement, situé dans un périmètre contigu à ces terres, qui fait l’objet du permis, droit ou titre.
 
 **Approbation des électeurs**
 
@@ -2218,13 +2284,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le consentement visé au paragraphe (2);
 	- **b)** l’octroi du droit ou de l’intérêt visé par ce consentement;
 	- **c)** la nature et le montant de l’indemnisation visée au paragraphe (2).
+> 1984, ch. 18, art. 113; 2009, ch. 12, art. 17.
+
 
 
 
 
 **Société de développement de la Baie James**
 
-**114** La Société de développement de la Baie James, dans les cas où elle est titulaire d’un permis d’exploration délivré par le Québec avant le 11 novembre 1975 pour des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois, peut, sous réserve des paragraphes 116(1) et (2), faire usage de ces terres, dans les conditions précisées par le permis, à des fins de prospection et d’exploitation de gisements de minéraux.
+**114** 
+
+- **(1)** La Société de développement de la Baie James, dans les cas où elle est titulaire d’un permis d’exploration délivré par le Québec avant le 11 novembre 1975 pour des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois, à l’exception des terres visées au paragraphe (2), peut, sous réserve des paragraphes 116(1) et (2), faire usage de ces terres, dans les conditions précisées par le permis, à des fins de prospection et d’exploitation de gisements de minéraux.
+
+**Bande de Oujé-Bougoumou**
+
+- **(2)** La Société de développement de la Baie James, dans les cas où elle est titulaire d’un permis d’exploration délivré par le Québec avant l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou pour des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de cette convention, peut, sous réserve des paragraphes 116(1.1) et (2), faire usage de ces terres, dans les conditions précisées par le permis, à des fins de prospection et d’exploitation de gisements de minéraux.
+> 1984, ch. 18, art. 114; 2009, ch. 12, art. 18.
+
 
 
 
@@ -2233,11 +2309,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **115** 
 
-- **(1)** Le titulaire d’un droit ou d’un titre, notamment d’un claim, d’un permis de mise en valeur, d’un permis d’exploration, d’une concession minière ou d’un bail minier octroyé avant le 11 novembre 1975, relatif à des minéraux (au sens donné à « minéraux » par la Loi des mines (Québec), en sa rédaction à cette date) et portant sur un périmètre enclavé dans des terres, ou contigu à des terres, ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois, peut, sous réserve des paragraphes 116(1) et (2), faire usage de ces terres dans la mesure nécessaire à l’exercice de son droit ou titre.
+- **(1)** Le titulaire d’un droit ou d’un titre, notamment d’un claim, d’un permis de mise en valeur, d’un permis d’exploration, d’une concession minière ou d’un bail minier octroyé avant le 11 novembre 1975, relatif à des minéraux (au sens donné à ***minéraux*** par la Loi des mines (Québec), dans sa version à cette date) et portant sur un périmètre enclavé dans des terres — ou contigu à des terres — ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois, à l’exception des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de la convention complémentaire de la Bande de Oujé-Bougoumou, peut, sous réserve des paragraphes 116(1) et (2), faire usage de ces terres dans la mesure nécessaire à l’exercice de son droit ou titre.
+
+**Droits acquis**
+
+- **(1.1)** Le titulaire d’un droit ou d’un titre, notamment d’un claim, d’un permis de mise en valeur, d’un permis d’exploration, d’une concession minière ou d’un bail minier octroyé, à compter du 11 novembre 1975 et avant l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou, relatif à des substances minérales (au sens donné à ce terme par la Loi sur les mines, L.R.Q., ch. M-13.1, dans sa version au 24 octobre 1988 ou, si elle est modifiée après cette date, dans sa version à l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou) et portant sur un périmètre enclavé dans des terres — ou contigu à des terres — constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de cette convention, peut, sous réserve des paragraphes 116(1.1) et (2), faire usage de ces terres dans la mesure nécessaire à l’exercice de son droit ou titre.
 
 **Idem**
 
 - **(2)** Le titulaire d’un droit ou d’un titre, notamment d’un claim, d’un permis de mise en valeur, d’un permis d’exploration, d’une concession minière ou d’un bail minier octroyé avant le 31 janvier 1978, relatif à des minéraux (au sens donné à « minéraux » par la Loi des mines (Québec), en sa rédaction à cette date) et portant sur un périmètre enclavé dans des terres, ou contigu à des terres, ultérieurement constituées en terres de catégorie IA-N aux termes de la Convention du Nord-Est québécois, peut, sous réserve des paragraphes 116(3) et (4), faire usage de ces terres dans la mesure nécessaire à l’exercice de son droit ou titre.
+> 1984, ch. 18, art. 115; 2009, ch. 12, art. 19.
+
 
 
 
@@ -2246,11 +2328,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **116** 
 
-- **(1)** Les droits visés au paragraphe 113(3), à l’article 114 et au paragraphe 115(1) ne peuvent s’exercer que conformément à la section XXII de la Loi des mines (Québec), en sa rédaction au 11 novembre 1975, sauf que l’établissement des servitudes que prévoit cette section se limite aux servitudes temporaires.
+- **(1)** Les droits visés aux paragraphes 113(3), 114(1) et 115(1) ne peuvent s’exercer que conformément à la section XXII de la Loi des mines (Québec), dans sa version au 11 novembre 1975, sauf que l’établissement des servitudes que prévoit cette section se limite aux servitudes temporaires.
+
+**Modalités d’exercice des droits**
+
+- **(1.1)** Les droits visés aux paragraphes 113(3.1), 114(2) et 115(1.1) ne peuvent s’exercer que conformément à la section V du chapitre IV de la Loi sur les mines, L.R.Q., ch. M-13.1, dans sa version au 22 octobre 1999 ou, si elle est modifiée après cette date, dans sa version à l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou, sauf que toute expropriation nécessaire à l’exercice de ces droits se limite à l’acquisition d’une servitude temporaire.
 
 **Indemnisation de la bande**
 
-- **(2)** La bande crie concernée reçoit, à titre d’indemnisation pour l’usage, dans les conditions prévues au paragraphe 113(3), à l’article 114 ou au paragraphe 115(1), des terres de catégorie IA qui lui sont attribuées :
+- **(2)** La bande crie concernée reçoit, à titre d’indemnisation pour l’usage — dans les conditions prévues au paragraphe 113(3) ou (3.1), à l’article 114 ou au paragraphe 115(1) ou (1.1) — des terres de catégorie IA qui lui sont attribuées :
 	- **a)** des terres de superficie égale, s’il ne s’agit pas d’exploration;
 	- **b)** s’il s’agit d’exploration, un montant équivalent à celui qui est versé au Québec pour un usage comparable des terres de celle-ci.
 
@@ -2267,6 +2353,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnités foncières**
 
 - **(5)** Les articles 125 et 126 s’appliquent, compte tenu des adaptations de circonstance, aux indemnités foncières visées aux alinéas (2)a) ou (4)a).
+> 1984, ch. 18, art. 116; 2009, ch. 12, art. 20.
+
 
 
 
@@ -2279,7 +2367,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **117** 
 
-- **(1)** Le titulaire d’un droit, notamment bail, permis d’occupation ou autre concession ou autorisation, encore existant à l’entrée en vigueur de la présente partie et octroyé par écrit par le Québec avant le 11 novembre 1975 sur des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois peut exercer son droit comme s’il s’agissait de terres de catégorie III, jusqu’au terme prévu dans son titre ou, en cas de reconduction octroyée à cette date ou ultérieurement, jusqu’au nouveau terme.
+- **(1)** Le titulaire d’un droit, notamment bail, permis d’occupation ou autre concession ou autorisation, encore existant le 3 juillet 1984 et octroyé par écrit par le Québec avant le 11 novembre 1975 sur des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois, à l’exception des terres visées au paragraphe (1.1), peut exercer son droit comme s’il s’agissait de terres de catégorie III, jusqu’au terme prévu dans son titre ou, en cas de reconduction octroyée à cette date ou ultérieurement, jusqu’au nouveau terme.
+
+**Terres de catégorie IA : Bande de Oujé-Bougoumou**
+
+- **(1.1)** Le titulaire d’un droit, notamment bail, permis d’occupation ou autre concession ou autorisation, encore existant à l’entrée en vigueur du présent paragraphe et octroyé par écrit par le Québec, avant l’entrée en vigueur de la convention complémentaire de la Bande de Oujé-Bougoumou, sur des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de cette convention, peut exercer son droit comme s’il s’agissait de terres de catégorie III, jusqu’au terme prévu dans son titre ou, en cas de reconduction octroyée à la date d’entrée en vigueur de cette convention ou ultérieurement, jusqu’au nouveau terme.
 
 **Terres de catégorie IA-N**
 
@@ -2289,6 +2381,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La bande crie concernée est tenue d’octroyer immédiatement, sous le régime de la partie VIII, au titulaire d’un droit octroyé légalement par le ministre ou la bande antérieure crie sur des terres de catégorie IA, sur des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois ou sur un bâtiment situé sur ces terres, un droit équivalent à celui dont l’intéressé était titulaire jusqu’à l’entrée en vigueur de la présente partie, à condition que celui-ci en fasse la demande dans les deux ans suivant l’entrée en vigueur de la partie VIII. L’ancien droit est dès lors remplacé par le nouveau ou, à défaut de demande dans le délai prévu, s’éteint à l’expiration de celui-ci.
 
+**Droit équivalent : Bande de Oujé-Bougoumou**
+
+- **(3.1)** La Bande de Oujé-Bougoumou est tenue d’octroyer immédiatement, sous le régime de la partie VIII, au titulaire d’un droit légalement octroyé par le ministre ou la Oujé-Bougoumou Eenuch Association, sur des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de la convention complémentaire de la Bande de Oujé-Bougoumou ou sur un bâtiment situé sur ces terres, un droit équivalent à celui dont l’intéressé était titulaire jusqu’à l’entrée en vigueur du présent paragraphe, à condition que celui-ci en fasse la demande dans les deux ans suivant cette entrée en vigueur. L’ancien droit est dès lors remplacé par le nouveau ou, à défaut de demande dans le délai prévu, s’éteint à l’expiration de celui-ci.
+
 **Idem : terres de catégorie IA-N**
 
 - **(4)** La bande naskapie est tenue d’octroyer immédiatement, sous le régime de la partie VIII, au titulaire d’un droit octroyé légalement par le ministre ou la bande antérieure des Naskapis de Schefferville sur des terres de catégorie IA-N, sur des terres ultérieurement constituées en terres de catégorie IA-N aux termes de la Convention du Nord-Est québécois ou sur un bâtiment situé sur ces terres, un droit équivalent à celui dont l’intéressé était titulaire jusqu’à l’entrée en vigueur de la présente partie, à condition que celui-ci en fasse la demande dans les deux ans suivant l’entrée en vigueur de la partie VIII. L’ancien droit est dès lors remplacé par le nouveau ou, à défaut de demande dans le délai prévu, s’éteint à l’expiration de celui-ci.
@@ -2297,13 +2393,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** La bande crie concernée est tenue d’octroyer immédiatement, sous le régime de la partie VIII, à la personne qui, avec le consentement explicite de la bande antérieure crie et jusqu’à l’entrée en vigueur de la présente partie, possédait ou occupait des terres de catégorie IA, des terres ultérieurement constituées en terres de catégorie IA aux termes de la Convention de la Baie James et du Nord québécois ou un bâtiment de la bande antérieure crie situé sur ces terres, sans que cette personne soit titulaire d’un droit ou d’un intérêt visés aux paragraphes (1) ou (3), sur ces terres ou ce bâtiment, un droit ou un intérêt qui soit équitable en l’occurrence, compte tenu de la possession ou de l’occupation elle-même et des circonstances, à condition que l’intéressé en fasse la demande dans les deux ans suivant l’entrée en vigueur de la partie VIII.
 
+**Cas de possession ou d’occupation : Bande de Oujé-Bougoumou**
+
+- **(5.1)** La Bande de Oujé-Bougoumou est tenue d’octroyer immédiatement, sous le régime de la partie VIII, à la personne qui, avec le consentement explicite de la Oujé-Bougoumou Eenuch Association et jusqu’à l’entrée en vigueur du présent paragraphe, possédait ou occupait des terres constituées en terres de catégorie IA attribuées à la Bande de Oujé-Bougoumou aux termes de la convention complémentaire de la Bande de Oujé-Bougoumou ou un bâtiment de la Oujé-Bougoumou Eenuch Association situé sur ces terres, sans que cette personne soit titulaire d’un droit ou d’un intérêt visés aux paragraphes (1.1) ou (3.1), sur ces terres ou ce bâtiment, un droit ou un intérêt qui soit équitable en l’occurrence, compte tenu de la possession ou de l’occupation elle-même et des circonstances, à condition que l’intéressé en fasse la demande dans les deux ans suivant l’entrée en vigueur du présent paragraphe.
+
 **Idem : terres de catégorie IA-N**
 
 - **(6)** La bande naskapie est tenue d’octroyer immédiatement, sous le régime de la partie VIII, à la personne qui, avec le consentement explicite de la bande antérieure des Naskapis de Schefferville et jusqu’à l’entrée en vigueur de la présente partie, possédait ou occupait des terres de catégorie IA-N, des terres ultérieurement constituées en terres de catégorie IA-N aux termes de la Convention du Nord-Est québécois ou un bâtiment de la bande antérieure des Naskapis de Schefferville situé sur ces terres, sans que cette personne soit titulaire d’un droit ou d’un intérêt visés aux paragraphes (2) ou (4), sur ces terres ou ce bâtiment, un droit ou un intérêt qui soit équitable en l’occurrence, compte tenu de la possession ou de l’occupation elle-même et des circonstances, à condition que l’intéressé en fasse la demande dans les deux ans suivant l’entrée en vigueur de la partie VIII.
 
 **Restrictions applicables**
 
-- **(7)** Les paragraphes 132(2) et (4) et l’article 137 s’appliquent, compte tenu des adaptations de circonstance, à l’octroi par la bande de droits ou d’intérêts sur des terres en application des paragraphes (3), (4), (5) ou (6).
+- **(7)** Les paragraphes 132(2) et (4) et l’article 137 s’appliquent, compte tenu des adaptations nécessaires, à l’octroi par la bande de droits ou d’intérêts sur des terres en application de l’un des paragraphes (3) à (6).
+> 1984, ch. 18, art. 117; 2009, ch. 12, art. 21.
+
 
 
 
@@ -3346,16 +3448,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **187** 
 
-- **(1)** Dans la présente partie, « Indien » s’entend :
+- **(1)** Dans la présente partie, ***Indien*** s’entend :
 	- **a)** au paragraphe (2), d’un bénéficiaire cri ou naskapi qui est un Indien au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
 	- **b)** à l’article 188, d’un Indien au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
 
 **Idem**
 
 - **(2)** Pour l’application de la présente partie, sont considérés comme situés en permanence sur les terres de catégorie IA ou IA-N les biens personnels :
-	- **a)** devenus la propriété de la bande en vertu des articles 13 ou 15, après avoir été achetés par le Canada sur les crédits affectés à cette fin par le Parlement;
+	- **a)** devenus la propriété de la bande en vertu des articles 13, 13.1 ou 15, après avoir été achetés par le Canada sur les crédits affectés à cette fin par le Parlement;
 	- **b)** achetés par le Canada, après l’entrée en vigueur de la présente partie, sur les crédits affectés par le Parlement à l’usage et au profit d’Indiens ou de bandes;
 	- **c)** donnés, après l’entrée en vigueur de la présente partie, aux Indiens ou à la bande en vertu d’un traité ou d’un accord conclu entre une bande et le Canada.
+> 1984, ch. 18, art. 187; 2009, ch. 12, art. 25.
+
 
 
 
@@ -3419,9 +3523,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rattachement aux terres de catégorie IA ou IA-N**
 
 **191** Pour l’application de l’article 190, sont considérés comme situés en permanence sur les terres de catégorie IA ou IA-N les biens meubles :
-- **a)** devenus la propriété de la bande en vertu des articles 13 ou 15, après avoir été achetés sur les crédits affectés à cette fin par le Parlement;
+- **a)** devenus la propriété de la bande en vertu des articles 13, 13.1 ou 15, après avoir été achetés sur les crédits affectés à cette fin par le Parlement;
 - **b)** achetés, après l’entrée en vigueur de la présente partie, sur les crédits affectés par le Parlement ou par la législature du Québec à l’usage et au bénéfice d’Indiens, de bénéficiaires cris ou naskapis ou de bandes;
 - **c)** fournis, après l’entrée en vigueur de la présente partie, à des bénéficiaires cris ou naskapis, ou à une bande, en vertu d’un traité ou d’un accord entre une bande et le Canada.
+> 1984, ch. 18, art. 191; 2009, ch. 12, art. 27.
+
 
 
 
