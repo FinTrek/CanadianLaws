@@ -1005,7 +1005,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 - <sup><a href='#A-3.7_fr_3'>[*]</a></sup>**(2)** Les articles 44, 45 et 46 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='A-3.7_fr_3'><sup>*</sup></a>: [Note : Articles 44 à 46 non en vigueur.]<br />
+<a name='A-3.7_fr_3'><sup>*</sup></a>: [Note : Article 44 en vigueur le 15 mai 2014, *voir* TR/2014-47; article 45 en vigueur le 15 mai 2014, *voir* TR/2014-48.]<br />
 
 
 
