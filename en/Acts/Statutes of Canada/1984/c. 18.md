@@ -50,7 +50,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Agreements*** means the James Bay and Northern Quebec Agreement and the Northeastern Quebec Agreement;
 
-***band*** means a band incorporated by section 12 or 14;
+***band*** means a band incorporated by section 12 or 14 or the Oujé-Bougoumou Band referred to in section 12.1;
 
 ***building*** includes a permanent structure of any kind and also includes a mobile home;
 
@@ -86,7 +86,7 @@ and, in relation to any particular Cree band, means
 
 ***councillor*** means a person holding office as councillor of a band pursuant to Part II;
 
-***Cree band*** means a band incorporated by section 12;
+***Cree band*** means a band incorporated by section 12 or the Oujé-Bougoumou Band referred to in section 12.1;
 
 ***Cree beneficiary*** means a person who is enrolled or entitled to be enrolled as a Cree beneficiary pursuant to section 3 of the James Bay and Northern Quebec Agreement;
 
@@ -131,6 +131,8 @@ become affiliated with the Inuit community of Fort George pursuant to subparagra
 
 Version anglaise seulement***ordinary band meeting*** means any band meeting other than a special band meeting;
 
+***Oujé-Bougoumou Band Complementary Agreement*** means the agreement made in accordance with the applicable amending provisions of the James Bay and Northern Quebec Agreement, which agreement provides for, among other things, the incorporation under this Act of the collectivity known as the Crees of Oujé-Bougoumou, to act as a local government;
+
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***Province*** means the Province of Quebec;
@@ -152,6 +154,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **References to Quebec statutes**
 
 - **(4)** Unless otherwise indicated in this Act, a reference to an Act of the legislature of Quebec or to a provision thereof is a reference to that Act or provision as amended from time to time.
+> 1984, c. 18, s. 2; 2009, c. 12, s. 1.
+
 
 
 
@@ -333,9 +337,33 @@ are hereby separately constituted as corporations bearing the names set out in p
 
 
 
+**Oujé-Bougoumou Band**
+
+**12.1** Pursuant to subparagraph 9.0.3A of the James Bay and Northern Quebec Agreement, the collectivity known as the Crees of Oujé-Bougoumou is constituted as a corporation, and that corporation may be legally designated by its English name, Oujé-Bougoumou Band, its French name, Bande de Oujé-Bougoumou, or its Cree name, Oujé-Bougoumou Eenuch, subject to section 16.
+> 2009, c. 12, s. 3.
+
+
+
+
+
 **Predecessor [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) bands cease to exist**
 
 **13** On the coming into force of this Part, the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree bands listed in paragraphs 12(1)(a) to (h) cease to exist, and all their rights, titles, interests, assets, obligations and liabilities, including those of their band councils, shall vest, respectively, in the bands listed in paragraphs 12(2)(a) to (h).
+
+
+
+
+**Vesting of assets, etc., of collectivity in Oujé-Bougoumou Band**
+
+**13.1** 
+
+- **(1)** On the coming into force of this section, the assets, obligations and liabilities of the collectivity known as the Crees of Oujé-Bougoumou shall vest in the Oujé-Bougoumou Band.
+
+**Oujé-Bougoumou Eenuch Association**
+
+- **(2)** On the coming into force of this section, the Oujé-Bougoumou Eenuch Association, a corporation established under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, ceases to exist, and all its rights, titles, interests, assets, obligations and liabilities shall vest in the Oujé-Bougoumou Band.
+> 2009, c. 12, s. 4.
+
 
 
 
@@ -384,12 +412,14 @@ are hereby separately constituted as corporations bearing the names set out in p
 
 
 
-**Special provision for Indians who are not Cree beneficiaries**
+**Provision for persons who are not Cree beneficiaries**
 
-**18** A person who, immediately before the coming into force of this Part, was a member of one of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree bands mentioned in subsection 12(1) but was not a Cree beneficiary
-- **(a)** shall be deemed to be a member of that band’s successor band listed in subsection 12(2) for the purposes of paragraph 21(f), section 45, subsection 55(1), paragraphs 90(2)(a) and (b), subsections 94(3) and (4) and subsection 103(1);
-- **(b)** shall, if eighteen years of age or over and not declared mentally incompetent under the laws of the Province, be deemed to be an elector of the successor band for the purposes of section 63, subparagraph 66(1)(a)(i), sections 68 and 75 and subsection 97(2), but is not eligible to be elected chief of that band; and
-- **(c)** shall, if eighteen years of age or over and not declared mentally incompetent under the laws of the Province, be deemed to be an elector of the successor band for the purposes of section 81, except where the matter submitted to a vote is a matter referred to in Part VI, VII, VIII or IX.
+**18** A person, not being a Cree beneficiary, who immediately before July 3, 1984 was a member of one of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree bands mentioned in subsection 12(1), or who immediately before the coming into force of section 12.1 was an Indian, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), who belonged to the collectivity known as the Crees of Oujé-Bougoumou,
+- **(a)** is deemed to be a member of that band’s successor band listed in subsection 12(2), or the Oujé-Bougoumou Band, as the case may be, for the purposes of paragraph 21(f), section 45, subsection 55(1), paragraph 62.01(d), subsection 62.1(1), paragraphs 90(2)(a) and (b) and subsections 94(3) and (4) and 103(1);
+- **(b)** is, if 18 years of age or over and not declared mentally incompetent under the laws of the Province, deemed to be an elector of the successor band or of the Oujé-Bougoumou Band, as the case may be, for the purposes of section 63, subparagraph 66(1)(a)(i), sections 68 and 75 and subsection 97(2), but is not eligible to be elected chief of that band; and
+- **(c)** is, if 18 years of age or over and not declared mentally incompetent under the laws of the Province, deemed to be an elector of the successor band or of the Oujé-Bougoumou Band, as the case may be, for the purposes of section 81, except where the matter submitted to a vote is a matter referred to in Part VI, VII, VIII or IX.
+> 1984, c. 18, s. 18; 2009, c. 12, s. 5.
+
 
 
 
@@ -1074,9 +1104,20 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 
 
 
+**Board of directors of the Oujé-Bougoumou Eenuch Association**
+
+**58.1** Subject to section 59, the board of directors of the Oujé-Bougoumou Eenuch Association that is in office immediately before the coming into force of this section becomes the council of the Oujé-Bougoumou Band on that coming into force, and for that purpose the chairperson of that Association holds the office of chief of that band. The board of directors, including the chairperson, continues in office as such until the expiry of their term of office.
+> 2009, c. 12, s. 7.
+
+
+
+
+
 **Provisions of this Act to apply**
 
-**59** For the transitional period described in section 58, the council has the powers and duties of a band council elected under this Act, and the provisions of this Act and the regulations apply, with such modifications as the circumstances require, to that council as if it had been elected under this Act.
+**59** For the transitional periods described in sections 58 and 58.1, the council has the powers and duties of a band council elected under this Act, and the provisions of this Act and the regulations apply, with any modifications that the circumstances require, to that council as if it had been elected under this Act.
+> 1984, c. 18, s. 59; 2009, c. 12, s. 7.
+
 
 
 
@@ -1084,6 +1125,15 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 **Continuation in force of by-laws of [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree bands**
 
 **60** The by-laws of an [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree band listed in subsection 12(1) that are in force immediately before the coming into force of this Part remain in force on the territory of that band’s successor band described in section 6 for a period of one year after the coming into force of this Part, unless repealed during that period pursuant to this Act.
+
+
+
+
+**Continuation in force of by-laws of the Oujé-Bougoumou Eenuch Association**
+
+**60.1** The by-laws of the Oujé-Bougoumou Eenuch Association that are in force immediately before the coming into force of this section remain in force on the territory, described in section 6, of the Oujé-Bougoumou Band for a period of one year commencing on that coming into force, unless repealed during that period pursuant to this Act.
+> 2009, c. 12, s. 8.
+
 
 
 
@@ -2059,9 +2109,13 @@ is guilty of an offence.
 **104** 
 
 - **(1)** A person who is not a Cree beneficiary and who
-	- **(a)** was, immediately before November 11, 1975, residing on or occupying, by virtue of a right of residence or occupancy, land that became Category IA land by virtue of the James Bay and Northern Quebec Agreement, and
+	- **(a)** was, immediately before November 11, 1975, residing on or occupying, by virtue of a right of residence or occupancy, land that became Category IA land by virtue of the James Bay and Northern Quebec Agreement, other than land referred to in subsection (1.1), and
 	- **(b)** continues to reside on or occupy that land by virtue of that right at the coming into force of this Part
 may continue to reside on or occupy that land in accordance with that right until the expiry of that right.
+
+**Pre-agreement residence and occupation rights not affected**
+
+- **(1.1)** A person, not being a Cree beneficiary, who immediately before the coming into force of the Oujé-Bougoumou Band Complementary Agreement was residing on or occupying, by virtue of a right of residence or occupancy, land that became Category IA land of the Oujé-Bougoumou Band by virtue of that Agreement, and who continues to reside on or occupy that land by virtue of that right on the coming into force of this subsection, may continue to reside on or occupy that land in accordance with that right until the expiry of that right.
 
 **Idem**
 
@@ -2070,6 +2124,8 @@ may continue to reside on or occupy that land in accordance with that right unti
 	- **(b)** was, immediately before January 31, 1978, residing on or occupying, by virtue of a right of residence or occupancy, land that became Category IA-N land by virtue of the Northeastern Quebec Agreement, and
 	- **(c)** continues to reside on or occupy that land by virtue of that right at the coming into force of this Part
 may continue to reside on or occupy that land in accordance with that right until the expiry of that right.
+> 1984, c. 18, s. 104; 2009, c. 12, s. 15.
+
 
 
 
@@ -2091,6 +2147,10 @@ may continue to reside on or occupy that land in accordance with that right unti
 
 - **(2)** A person who, immediately before the coming into force of this Part, was a member of one of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Cree bands mentioned in subsection 12(1) but was not a Cree beneficiary has a right of access to the Category IA land of the band of which he is deemed by paragraph 18(a) to be a member.
 
+**Indians who are not Cree beneficiaries**
+
+- **(2.1)** A person who, immediately before the coming into force of this subsection, was an Indian, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), who belonged to the collectivity known as the Crees of Oujé-Bougoumou but was not a Cree beneficiary has a right of access to the Category IA land of the Oujé-Bougoumou Band.
+
 **Inuit of Fort George**
 
 - **(3)** The Inuit of Fort George have a right of access to the Category IA land of the Chisasibi Band.
@@ -2109,8 +2169,10 @@ may continue to reside on or occupy that land in accordance with that right unti
 	- **(a)** a person who is authorized by a government body or any other public body, established by or under an Act of Parliament, an Act of the legislature of Quebec or a by-law of the band to perform a public function, establish, operate or administer a public service, construct or operate a public installation or conduct a technical survey thereon;
 	- **(b)** a holder of a right or interest granted under Part VIII in Category IA or IA-N land or in a building situated thereon;
 	- **(c)** a person who has an authorization for commercial exploitation of forest resources referred to in subsection 111(2);
-	- **(d)** a holder of a mining right or other subsurface right referred to in section 114 or 115 or a person exercising a right under subsection 113(3); and
+	- **(d)** a holder of a mining right or other subsurface right referred to in section 114 or 115 or a person exercising a right under subsection 113(3) or (3.1); and
 	- **(e)** a person authorized in writing by the band or by a by-law of the band.
+> 1984, c. 18, s. 105; 2009, c. 12, s. 16.
+
 
 
 
@@ -2225,11 +2287,15 @@ on Category IA or IA-N land of a band are the property of the band.
 
 **Consent and compensation requirements**
 
-- **(2)** Subject to subsection (3), after November 11, 1975 (in the case of Category IA land) or January 31, 1978 (in the case of Category IA-N land) no mineral right or subsurface right on Category IA or IA-N land of a band may be granted or exercised and no mineral or other subsurface material or substance may be mined or extracted from such land without the consent of the band and payment to the band of compensation agreed to by the band.
+- **(2)** Subject to subsections (3) and (3.1), after November 11, 1975 (in the case of Category IA land other than land referred to in subsection 114(2)), on or after the day on which the Oujé-Bougoumou Band Complementary Agreement came into force (in the case of Category IA land referred to in subsection 114(2)) or after January 31, 1978 (in the case of Category IA-N land) no mineral right or subsurface right on Category IA or IA-N land of a band may be granted or exercised and no mineral or other subsurface material or substance may be mined or extracted from such land without the consent of the band and payment to the band of compensation agreed to by the band.
 
 **Exception**
 
-- **(3)** A holder of an exploration permit described in section 114 or of a right or title described in section 115 may, without the consent and payment referred to in subsection (2) but subject to section 116 and the payment of compensation as set out in that section, explore for and exploit minerals on adjacent Category IA or IA-N land if those minerals extend continuously from the minerals that are the object of the permit, right or title.
+- **(3)** A holder of an exploration permit described in subsection 114(1) or of a right or title described in subsections 115(1) and (2) may, without the consent and payment referred to in subsection (2) but subject to subsections 116(1) and (3) and the payment of compensation as set out in subsections 116(2) and (4), explore for and exploit minerals on adjacent Category IA or IA-N land if those minerals extend continuously from the minerals that are the object of the permit, right or title.
+
+**Exception**
+
+- **(3.1)** A holder of an exploration permit described in subsection 114(2) or of a right or title described in subsection 115(1.1) may, without the consent and payment referred to in subsection (2) but subject to subsection 116(1.1) and the payment of compensation as set out in subsection 116(2), explore for and exploit minerals on adjacent Category IA land if those minerals extend continuously from the minerals that are the object of the permit, right or title.
 
 **Where approval required at band meeting**
 
@@ -2237,13 +2303,23 @@ on Category IA or IA-N land of a band are the property of the band.
 	- **(a)** the giving by the band of the consent referred to in subsection (2);
 	- **(b)** a grant by the band of a right or interest in its Category IA or IA-N land in connection with the giving of the consent referred to in subsection (2); and
 	- **(c)** the band’s agreement as to the type and amount of the compensation referred to in subsection (2).
+> 1984, c. 18, s. 113; 2009, c. 12, s. 17.
+
 
 
 
 
 **Société de développement de la Baie James**
 
-**114** Where an exploration permit was granted by Quebec to the Société de développement de la Baie James prior to November 11, 1975 for land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement, the Société de développement de la Baie James may, in accordance with that exploration permit and subject to subsections 116(1) and (2), use that Category IA land to carry out exploration activities and exploit mineral deposits.
+**114** 
+
+- **(1)** Where an exploration permit was granted by Quebec to the Société de développement de la Baie James before November 11, 1975 for land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement, other than land referred to in subsection (2), the Société de développement de la Baie James may, in accordance with that exploration permit and subject to subsections 116(1) and (2), use that Category IA land to carry out exploration activities and exploit mineral deposits.
+
+**Oujé-Bougoumou Band**
+
+- **(2)** Where an exploration permit was, before the coming into force of the Oujé-Bougoumou Band Complementary Agreement, granted by Quebec to the Société de développement de la Baie James in respect of land that became Category IA land of the Oujé-Bougoumou Band by virtue of that Agreement, the Société de développement de la Baie James may, in accordance with that exploration permit and subject to subsections 116(1.1) and (2), use that Category IA land to carry out exploration activities and exploit mineral deposits.
+> 1984, c. 18, s. 114; 2009, c. 12, s. 18.
+
 
 
 
@@ -2252,11 +2328,17 @@ on Category IA or IA-N land of a band are the property of the band.
 
 **115** 
 
-- **(1)** A holder of a right or title (including a mining claim, development licence, exploration permit, mining concession and mining lease) to minerals (“minerals” as defined in the Mining Act (Quebec) as it read on November 11, 1975) granted before November 11, 1975 on land surrounded by or adjacent to land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement may, subject to subsections 116(1) and (2), use that Category IA land to the extent necessary for the exercise of his right or title.
+- **(1)** A holder of a right or title (including a mining claim, development licence, exploration permit, mining concession and mining lease) to minerals (***minerals*** as defined in the Mining Act (Quebec) as it read on November 11, 1975) granted before November 11, 1975 on land surrounded by or adjacent to land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement, other than land that became Category IA land of the Oujé-Bougoumou Band by virtue of the Oujé-Bougoumou Band Complementary Agreement, may, subject to subsections 116(1) and (2), use that Category IA land to the extent necessary for the exercise of the holder’s right or title.
+
+**Holders of prior rights or titles to minerals**
+
+- **(1.1)** A holder of a right or title (including a mining claim, development licence, exploration permit, mining concession and mining lease) to mineral substances (***mineral substances*** as defined in the Mining Act, R.S.Q., c. M-13.1, as it read on October 24, 1988, or, if it is amended after that day, as it read on the day on which the Oujé-Bougoumou Band Complementary Agreement came into force) granted on or after November 11, 1975 and before the coming into force of the Oujé-Bougoumou Band Complementary Agreement, on land surrounded by or adjacent to land that became Category IA land of the Oujé-Bougoumou Band by virtue of that Agreement may, subject to subsections 116(1.1) and (2), use that Category IA land to the extent necessary for the exercise of the holder’s right or title.
 
 **Idem**
 
 - **(2)** A holder of a right or title (including a mining claim, development licence, exploration permit, mining concession and mining lease) to minerals (“minerals” as defined in the Mining Act (Quebec) as it read on January 31, 1978) granted before January 31, 1978 on land surrounded by or adjacent to land that subsequently became Category IA-N land pursuant to the Northeastern Quebec Agreement may, subject to subsections 116(3) and (4), use that Category IA-N land to the extent necessary for the exercise of his right or title.
+> 1984, c. 18, s. 115; 2009, c. 12, s. 19.
+
 
 
 
@@ -2265,11 +2347,15 @@ on Category IA or IA-N land of a band are the property of the band.
 
 **116** 
 
-- **(1)** The rights conferred by subsection 113(3), section 114 and subsection 115(1) may not be exercised otherwise than in accordance with Division XXII of the Mining Act (Quebec) as it read on November 11, 1975, except that the expropriation of servitudes provided for by that Division shall be restricted to temporary servitudes.
+- **(1)** The rights conferred by subsections 113(3), 114(1) and 115(1) may not be exercised otherwise than in accordance with Division XXII of the Mining Act (Quebec) as it read on November 11, 1975, except that the expropriation of servitudes provided for by that Division shall be restricted to temporary servitudes.
+
+**Manner in which rights must be exercised**
+
+- **(1.1)** The rights conferred by subsections 113(3.1), 114(2) and 115(1.1) may not be exercised otherwise than in accordance with Division V of Chapter IV of the Mining Act, R.S.Q., c. M-13.1, as it read on October 22, 1999, or, if it is amended after that day, as it read on the day on which the Oujé-Bougoumou Band Complementary Agreement came into force, except that any expropriation that is required for the purpose of exercising those rights must be restricted to the acquisition of temporary servitudes.
 
 **Compensation to band**
 
-- **(2)** Where Category IA land is used pursuant to subsection 113(3), section 114 or subsection 115(1), compensation shall be paid to the Cree band in question
+- **(2)** Where Category IA land is used pursuant to subsection 113(3) or (3.1), section 114 or subsection 115(1) or (1.1), compensation shall be paid to the Cree band in question
 	- **(a)** in the form of an equal area of land, where the Category IA land is used for a purpose other than exploration; or
 	- **(b)** where the Category IA land is used for the purpose of exploration, in an amount equivalent to that paid to Quebec for the use of its land in similar cases.
 
@@ -2286,6 +2372,8 @@ on Category IA or IA-N land of a band are the property of the band.
 **Procedure re replacement land**
 
 - **(5)** Where compensation is payable under paragraph (2)(a) or paragraph (4)(a), sections 125 and 126 apply, with such modifications as the circumstances require.
+> 1984, c. 18, s. 116; 2009, c. 12, s. 20.
+
 
 
 
@@ -2298,7 +2386,11 @@ on Category IA or IA-N land of a band are the property of the band.
 
 **117** 
 
-- **(1)** A holder of any lease, occupation permit or other grant or authorization the term of which lease, permit, grant or authorization had not expired at the coming into force of this Part, granted in writing by Quebec before November 11, 1975 on land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement, may continue to exercise his rights under such lease, permit, grant or authorization, as if the land were Category III land, until the end of the term fixed therein, or, where the term is renewed on or after November 11, 1975, until the end of the renewal period.
+- **(1)** A holder of any lease, occupation permit or other grant or authorization the term of which had not expired on or before July 3, 1984, granted in writing by Quebec before November 11, 1975 on land that subsequently became Category IA land pursuant to the James Bay and Northern Quebec Agreement, other than land referred to in subsection (1.1), may continue to exercise the holder’s rights under that lease, permit, grant or authorization, as if the land were Category III land, until the end of the term fixed in it, or,where the term is renewed on or after November 11, 1975, until the end of the renewal period.
+
+**Certain pre-existing rights on IA land to continue until expiry**
+
+- **(1.1)** A holder of any lease, occupation permit or other grant or authorization the term of which had not expired on or before the coming into force of this subsection, granted in writing by Quebec — before the coming into force of the Oujé-Bougoumou Band Complementary Agreement — on land that became Category IA land of the Oujé-Bougoumou Band by virtue of that Agreement, may continue to exercise the holder’s rights under that lease, permit, grant or authorization, as if the land were Category III land, until the end of the term fixed in it, or, where the term is renewed on or after the day on which that Agreement came into force, until the end of the renewal period.
 
 **Certain pre-existing rights on IA-N land to continue until expiry**
 
@@ -2311,6 +2403,10 @@ on Category IA or IA-N land of a band are the property of the band.
 	- **(b)** in land that became Category IA land by virtue of the James Bay and Northern Quebec Agreement, or
 	- **(c)** in a building situated on land described in paragraph (a) or (b),
 that band’s successor band under this Act shall, if that person so requests within two years after the coming into force of Part VIII, forthwith grant to that person under that Part a right or interest that is equivalent to the person’s former right or interest, whereupon the person’s former right or interest expires; and where the person does not make the request within two years after the coming into force of Part VIII, that person’s former right or interest expires at the end of that period.
+
+**Previously held rights and interests — Oujé-Bougoumou Band**
+
+- **(3.1)** If, immediately before the coming into force of this subsection, a person held a right or interest, lawfully granted by the Minister or the Oujé-Bougoumou Eenuch Association in land that became Category IA land of the Oujé-Bougoumou Band by virtue of the Oujé-Bougoumou Band Complementary Agreement, or in a building situated on that land, the Oujé-Bougoumou Band shall, if that person so requests within two years after the coming into force of this subsection, without delay grant to that person under Part VIII a right or interest that is equivalent to the person’s former right or interest, at which time the person’s former right or interest expires. If the person does not make the request within two years after the coming into force of this subsection, that person’s former right or interest expires at the end of that period.
 
 **Idem, for IA-N land**
 
@@ -2328,6 +2424,10 @@ the Naskapi band shall, if that person so requests within two years after the co
 	- **(c)** a building owned by that band and situated on land described in paragraph (a) or (b),
 but that person was not a holder of a right or interest in that land or building referred to in subsection (1) or (3), that band’s successor band under this Act shall, if that person so requests within two years after the coming into force of Part VIII, forthwith grant to that person under that Part a right or interest in such land or building that is equitable in the circumstances, taking into account that possession or occupation and all other relevant factors.
 
+**Previous possession or occupation — Oujé-Bougoumou Band**
+
+- **(5.1)** If, immediately before the coming into force of this subsection, a person was in possession of, or occupied, with the explicit consent of the Oujé-Bougoumou Eenuch Association, land that became Category IA land of the Oujé-Bougoumou Band by virtue of the Oujé-Bougoumou Band Complementary Agreement, or a building owned by the Oujé-Bougoumou Eenuch Association and situated on that land, but that person was not a holder of a right or interest in that land or building referred to in subsection (1.1) or (3.1), the Oujé-Bougoumou Band shall, if that person so requests within two years after the coming into force of this subsection, without delay grant to that person under Part VIII a right or interest in that land or building that is equitable in the circumstances, taking into account that possession or occupation and all other relevant factors.
+
 **Idem, for IA-N land**
 
 - **(6)** Where, immediately before the coming into force of this Part, a person was in possession of, or occupied, with the explicit consent of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) Naskapis de Schefferville band,
@@ -2338,7 +2438,9 @@ but that person was not a holder of a right or interest in that land or building
 
 **Certain restrictions applicable**
 
-- **(7)** Subsections 132(2) and (4) and section 137 apply, with such modifications as the circumstances require, in respect of a grant by a band of a right or interest in land pursuant to subsection (3), (4), (5) or (6).
+- **(7)** Subsections 132(2) and (4) and section 137 apply, with any modifications that the circumstances require, in respect of a grant by a band of a right or interest in land pursuant to any of subsections (3) to (6).
+> 1984, c. 18, s. 117; 2009, c. 12, s. 21.
+
 
 
 
@@ -3406,17 +3508,19 @@ the council of the band of which the deceased was a member at the time of his de
 
 **187** 
 
-- **(1)** In this Part, “Indian” means
+- **(1)** In this Part, ***Indian*** means
 	- **(a)** in subsection (2), a Cree beneficiary or Naskapi beneficiary who is an Indian as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
 	- **(b)** in section 188, an Indian as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
 
 **Idem**
 
 - **(2)** For the purposes of this Part, personal property
-	- **(a)** that became the property of a band by virtue of section 13 or 15 and had been purchased by Canada with money appropriated by Parliament,
+	- **(a)** that became the property of a band by virtue of section 13, 13.1 or 15 and had been purchased by Canada with money appropriated by Parliament,
 	- **(b)** that is purchased by Canada after the coming into force of this Part with money appropriated by Parliament for the use and benefit of Indians or bands, or
 	- **(c)** that is given, after the coming into force of this Part, to Indians or to a band under a treaty or agreement between a band and Canada
 shall be deemed always to be situated on Category IA or IA-N land.
+> 1984, c. 18, s. 187; 2009, c. 12, s. 25.
+
 
 
 
@@ -3485,10 +3589,12 @@ under an agreement whereby the right of property or right of possession thereto 
 **Property deemed situated on Category IA or IA-N land**
 
 **191** For the purposes of section 190, movable property
-- **(a)** that became the property of a band by virtue of section 13 or 15 and had been purchased with money appropriated by Parliament,
+- **(a)** that became the property of a band by virtue of section 13, 13.1 or 15 and had been purchased with money appropriated by Parliament,
 - **(b)** that is purchased after the coming into force of this Part with money appropriated by Parliament or by the legislature of Quebec for the use and benefit of Indians, Cree beneficiaries, Naskapi beneficiaries, or bands, or
 - **(c)** that is, after the coming into force of this Part, provided to Cree beneficiaries, Naskapi beneficiaries or a band under a treaty or agreement between a band and Canada
 shall be deemed always to be situated on Category IA or IA-N land, as the case may be.
+> 1984, c. 18, s. 191; 2009, c. 12, s. 27.
+
 
 
 
