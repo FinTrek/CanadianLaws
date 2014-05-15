@@ -1031,7 +1031,7 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 - <sup><a href='#A-3.7_en_3'>[*]</a></sup>**(2)** Sections 44 to 46 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='A-3.7_en_3'><sup>*</sup></a>: [Note: Sections 44 to 46 not in force.]<br />
+<a name='A-3.7_en_3'><sup>*</sup></a>: [Note: Section 44 in force May 15, 2014, *see* SI/2014-47; section 45 in force May 15, 2014, *see* SI/2014-48.]<br />
 
 
 
