@@ -32447,9 +32447,9 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 **C.07.010** Le fabricant est tenu, à l’égard de la drogue dont la vente est autorisée sous le régime du présent titre :
-- **a)** d’établir et de tenir, de façon à en permettre la vérification, un registre concernant les renseignements visés à l’article C.08.007;
-- **b)** de fournir au ministre les rapports visés à l’article C.08.008.
-> DORS/2005-141, art. 1.
+- **a)** d’établir et de tenir, de façon à en permettre la vérification, un registre relatif aux renseignements visés au paragraphe C.08.007(1), et de le conserver durant une période minimale de sept ans à compter de la date de son établissement;
+- **b)** de fournir au ministre les résumés visés à l’article C.08.008.
+> DORS/2005-141, art. 1; DORS/2014-125, art. 1.
 
 
 
@@ -32692,15 +32692,15 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***drogue innovante*** S’entend de toute drogue qui contient un ingrédient médicinal non déjà approuvé dans une drogue par le ministre et qui ne constitue pas une variante d’un ingrédient médicinal déjà approuvé tel un changement de sel, d’ester, d’énantiomère, de solvate ou de polymorphe. (*innovative drug*)
+***drogue innovante*** S’entend de toute drogue qui contient un ingrédient médicinal non déjà approuvé dans une drogue par le ministre et qui ne constitue pas une variante d’un ingrédient médicinal déjà approuvé tel un changement de sel, d’ester, d’énantiomère, de solvate ou de polymorphe. (*innovative drug*)
 
-***population pédiatrique*** S’entend de chacun des groupes suivants : les bébés prématurés nés avant la 37<sup>e</sup> semaine de gestation, les bébés menés à terme et âgés de 0 à 27 jours, tous les enfants âgés de 28 jours à deux ans, ceux âgés de deux ans et un jour à 11 ans et ceux âgés de 11 ans et un jour à 18 ans. (*pediatric populations*)
+***population pédiatrique*** S’entend de chacun des groupes suivants : les bébés prématurés nés avant la 37<sup>e</sup> semaine de gestation, les bébés menés à terme et âgés de 0 à 27 jours, tous les enfants âgés de 28 jours à deux ans, ceux âgés de deux ans et un jour à 11 ans et ceux âgés de 11 ans et un jour à 18 ans. (*pediatric populations*)
 
-***présentation abrégée de drogue nouvelle*** S’entend également d’une présentation abrégée de drogue nouvelle pour usage exceptionnel. (*abbreviated new drug submission*) 
+***présentation abrégée de drogue nouvelle*** S’entend également d’une présentation abrégée de drogue nouvelle pour usage exceptionnel. (*abbreviated new drug submission*) 
 
-***présentation de drogue nouvelle*** S’entend également d’une présentation de drogue nouvelle pour usage exceptionnel. (*new drug submission*) 
+***présentation de drogue nouvelle*** S’entend également d’une présentation de drogue nouvelle pour usage exceptionnel. (*new drug submission*) 
 
-- **(2)** Le présent article s’applique à la mise en œuvre de l’article 1711 de l’Accord de libre-échange nord-américain, au sens du terme ***Accord*** au paragraphe 2(1) de la Loi de mise en œuvre de l’Accord de libre-échange nord-américain, et du paragraphe 3 de l’article 39 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce figurant à l’annexe 1C de l’Accord sur l’Organisation mondiale du commerce, au sens du terme ***Accord*** au paragraphe 2(1) de la Loi de mise en œuvre de l’Accord sur l’Organisation mondiale du commerce.
+- **(2)** L’objet du présent article est de mettre en oeuvre l’article 1711 de l’Accord de libre-échange nord-américain, au sens du terme ***Accord*** au paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md), et le paragraphe 3 de l’article 39 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce figurant à l’annexe 1C de l’Accord instituant l’Organisation mondiale du commerce, au sens du terme ***Accord*** au paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md).
 
 - **(3)** Lorsque le fabricant demande la délivrance d’un avis de conformité pour une drogue nouvelle sur la base d’une comparaison directe ou indirecte entre celle-ci et la drogue innovante :
 	- **a)** le fabricant ne peut déposer pour cette drogue nouvelle de présentation de drogue nouvelle, de présentation abrégée de drogue nouvelle ou de supplément à l’une de ces présentations avant l’expiration d’un délai de six ans suivant la date à laquelle le premier avis de conformité a été délivré à l’innovateur pour la drogue innovante;
@@ -32712,14 +32712,14 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(5)** Le paragraphe (3) ne s’applique pas si la drogue innovante n’est pas commercialisée au Canada.
 
-- **(6)** L’alinéa (3)a) ne s’applique pas au fabricant ultérieur dans le cas où l’innovateur consent à ce qu’il dépose une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l’une de ces présentations avant l’expiration du délai de six ans prévu à cet alinéa.
+- **(6)** L’alinéa (3)a) ne s’applique pas au fabricant dans le cas où l’innovateur consent à ce qu’il dépose une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l’une de ces présentations avant l’expiration du délai de six ans prévu à cet alinéa.
 
-- **(7)** L’alinéa (3)a) ne s’applique pas au fabricant ultérieur s’il dépose une demande d’autorisation pour vendre cette drogue nouvelle aux termes de l’article C.07.003.
+- **(7)** L’alinéa (3)a) ne s’applique pas au fabricant s’il dépose une demande d’autorisation pour vendre cette drogue nouvelle aux termes de l’article C.07.003.
 
-- **(8)** L’alinéa (3)b) ne s’applique pas au fabricant ultérieur dans le cas où l’innovateur consent à ce que lui soit délivré un avis de conformité avant l’expiration du délai de huit ans prévu à cet alinéa ou de huit ans et six mois prévu au paragraphe (4).
+- **(8)** L’alinéa (3)b) ne s’applique pas au fabricant dans le cas où l’innovateur consent à ce que lui soit délivré un avis de conformité avant l’expiration du délai de huit ans prévu à cet alinéa ou de huit ans et six mois prévu au paragraphe (4).
 
 - **(9)** Le ministre tient un registre des drogues innovantes, lequel contient les renseignements relatifs à l’application des paragraphes (3) et (4).
-> DORS/95-411, art. 6; DORS/2006-241, art. 1; DORS/2011-88, art. 16.
+> DORS/95-411, art. 6; DORS/2006-241, art. 1; DORS/2011-88, art. 16; DORS/2014-124, art. 1.
 
 
 
@@ -32835,17 +32835,19 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **h)** tout cas inhabituel où la drogue nouvelle ne produit pas l’effet prévu.
 	- **i)** [Abrogé, DORS/95-521, art. 3]
 
+- **(1.1)** Le fabricant conserve tout registre relatif aux renseignements visés au paragraphe (1) durant une période minimale de sept ans à compter de la date de son établissement;
+
 - **(2)** Le fabricant ou l’importateur qui vend une drogue nouvelle pour usage exceptionnel conformément à l’article C.08.002.02 doit conserver la commande écrite durant une période minimale de quinze ans à partir de l’exécution de la commande.
-> DORS/95-411, art. 10; DORS/95-521, art. 3; DORS/2011-88, art. 19.
+> DORS/95-411, art. 10; DORS/95-521, art. 3; DORS/2011-88, art. 19; DORS/2014-125, art. 2.
 
 
 
 
 **C.08.008** Il est interdit au fabricant de vendre une drogue nouvelle à moins que, à l’égard de ses ventes antérieures de cette drogue, il n’ait fourni au ministre :
-- **a)** sur demande, des rapports de tous les dossiers relatifs aux renseignements visés aux alinéas C.08.007a) à c);
-- **b)** dès leur réception, des rapports de tous les dossiers relatifs aux renseignements visés aux alinéas C.08.007d) à f);
-- **c)** dans les 15 jours suivant la réception par lui des renseignements visés aux alinéas C.08.007g) et h), un rapport sur les renseignements reçus.
-> DORS/95-411, art. 11; DORS/95-521, art. 4.
+- **a)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007(1)a) à c), sur réception d’une demande du ministre à cet effet;
+- **b)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007(1)d) à f), dès son établissement par le fabricant;
+- **c)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007g) et h), dans les quinze jours suivant la date de son établissement par le fabricant.
+> DORS/95-411, art. 11; DORS/95-521, art. 4; DORS/2014-125, art. 3.
 
 
 
