@@ -2436,7 +2436,7 @@ Inspection for the purpose of certification was made either visually or through 
 		- **(ii)** the scientific and common names of the kind or species to which the variety belongs,
 		- **(iii)** a description of the pedigree, origin, history and methods of development of the variety,
 		- **(iv)** a detailed description of the variety including, where applicable, morphological, agronomic, pathological, physiological and biochemical characteristics,
-		- **(v)** a recommendation that is not more than two years old or, in the case of a forage variety, not more than four years old, from a recommending committee stating whether the variety should be registered,
+		- **(v)** a recommendation that is not more than two years old from a recommending committee stating whether the variety should be registered,
 		- **(vi)** the results of the testing on which the recommendation is based,
 		- **(vii)** a statement as to whether the variety is sold in other countries and, if so, the name or names under which it is sold,
 		- **(viii)** particulars of the arrangements for the maintenance of seed stocks, and
@@ -2451,7 +2451,7 @@ Inspection for the purpose of certification was made either visually or through 
 - **(2)** The Registrar may, in addition to the information referred to in subsection (1), require that the applicant provide such further information as may be necessary to determine the merit and identity of the variety.
 
 - **(3)** The applicant or the registrant, as the case may be, shall provide the Registrar with any information pertaining to the genetic purity or the utility of a variety which differs in any way from the information supplied in support of the application for registration, forthwith upon receiving the information.
-> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 3.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 3; SOR/2014-114, s. 1.
 
 
 
@@ -2541,10 +2541,10 @@ Inspection for the purpose of certification was made either visually or through 
 
 **71** 
 
-- **(1)** The Registrar shall annually establish a list of experts consisting of not less than six and not more than twenty persons whose professional qualifications, experience or achievements in the field of seed or variety development and evaluation render them experts for the purposes of advising the Registrar on matters involving the refusal, suspension or cancellation of any registration under this Part.
+- **(1)** The Registrar must annually establish a list of experts consisting of not less than six and not more than twenty persons whose professional qualifications, experience or achievements in the field of seed or variety development and evaluation render them experts for the purposes of advising the Registrar on matters involving the refusal or cancellation of any registration under this Part.
 
-- **(2)** The Registrar shall not enter the name of any person on the list of experts unless that person consents to advise the Registrar, on request, on matters involving the refusal, suspension or cancellation of any registration under this Part without charging any fees or claiming any disbursements.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+- **(2)** The Registrar shall not enter the name of any person on the list of experts unless that person consents to advise the Registrar, on request, on matters involving the refusal or cancellation of any registration under this Part without charging any fees or claiming any disbursements.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2014-114, s. 2.
 
 
 
@@ -2582,53 +2582,49 @@ Inspection for the purpose of certification was made either visually or through 
 
 
 
-### Suspension and Cancellation of Registration
+### Cancellation of Registration
 
 
-**74** 
-
-- **(1)** The Registrar shall suspend the registration of a variety where
-	- **(a)** the variety has demonstrated susceptibility to disease or such inferior quality as to have an adverse effect on Canadian agriculture and the food system;
-	- **(b)** the variety has demonstrated significant levels of contamination such that the genetic purity of the variety has been jeopardised;
-	- **(c)** the variety has been altered in such a manner that it differs from the representative reference sample;
-	- **(d)** the variety or its progeny may be detrimental to human or animal health and safety or the environment;
-	- **(e)** false or misleading information was submitted in support of the application for registration; or
-	- **(f)** the variety name became a registered trademark in respect of that variety after registration.
-
-- **(2)** Where the Registrar confirms within two years after the day on which the registration of a variety is suspended that the reasons for the suspension are no longer valid, the Registrar shall revoke the suspension.
-
-- **(3)** Where the Registrar revokes the suspension of the registration of a variety pursuant to subsection (2), the Registrar shall immediately notify, by registered mail, the registrant.
-
-- **(4)** The Registrar shall cancel the registration of a variety where
-	- **(a)** the variety has been altered in such a manner as to convert it to a variety that is registered under a different name;
-	- **(b)** the variety has been found to be indistinguishable from another variety that was or currently is registered in Canada;
-	- **(c)** the registrant has not established within two years after the day on which the registration of a variety was suspended that the reasons for the suspension are no longer valid; or
-	- **(d)** the variety is no longer subject to the variety registration requirements.
-
-- **(5)** Subject to subsection 75(1), the Registrar shall suspend or cancel, as the case may be, the registration of a variety on request of the registrant.
-> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 7.
+**74** The Registrar must cancel the registration of a variety if
+- **(a)** the variety has demonstrated susceptibility to disease or such inferior quality as to have an adverse effect on Canadian agriculture and the food system;
+- **(b)** the variety has demonstrated significant levels of contamination such that the genetic purity of the variety has been jeopardized;
+- **(c)** the variety has been altered in such a manner that it differs from the representative reference sample;
+- **(d)** the variety or its progeny may be detrimental to human or animal health and safety or the environment;
+- **(e)** false or misleading information was submitted in support of the application for registration;
+- **(f)** the variety name became a registered trademark in respect of that variety after registration;
+- **(g)** the variety has been altered in such a manner as to convert it to a variety that is registered under a different name;
+- **(h)** the variety has been found to be indistinguishable from another variety that was or currently is registered in Canada;
+- **(i)** the variety is no longer subject to the variety registration requirements; or
+- **(j)** the registrant has requested the cancellation of the registration of the variety.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 7; SOR/2014-114, s. 3.
 
 
 
 
 **75** 
 
-- **(1)** The Registrar shall not suspend or cancel the registration of a variety unless the Registrar sends a notice, by registered mail, to the registrant giving the reasons therefor and advising that the registrant may make representations concerning the suspension or cancellation to the Registrar in accordance with this section.
+- **(1)** The Registrar must not cancel the registration of a variety unless the Registrar sends a notice, by registered mail, to the registrant giving the reasons for the cancellation and advising that the registrant may make representations concerning the cancellation to the Registrar in accordance with this section.
+
+- **(1.1)** Subsection (1) does not apply if the registrant has requested the cancellation of the variety.
 
 - **(2)** The notice referred to in subsection (1) is deemed to be received by the registrant on the seventh day after the day on which the notice is mailed.
 
-- **(3)** A registrant who receives a notice referred to in subsection (1) may, within thirty days after the day on which the notice is received, make written representations to the Registrar concerning the suspension or cancellation.
+- **(3)** A registrant who receives a notice referred to in subsection (1) may, within 30 days after the day on which the notice is received, make written representations to the Registrar concerning the cancellation.
 
 - **(4)** The procedure set out in subsections 73(3) to (9) applies in respect of the review of the representations made under subsection (3), with such modifications as the circumstances require.
 
-- **(5)** Where, on conclusion of the review of the representations made under subsection (3), the Registrar determines that it is appropriate to suspend or cancel the registration of the variety, the suspension or cancellation shall be effective on the seventh day after the day on which the notice of that determination is mailed to the registrant.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+- **(5)** If, on conclusion of the review of the representations made under subsection (3), the Registrar determines that the registration must be cancelled, the cancellation is effective on the seventh day after the day on which the notice of that determination is mailed to the registrant.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2014-114, s. 4.
 
 
 
 
-**76** Where the Registrar determines that it is appropriate to reinstate the registration of a variety that has been suspended or cancelled, the Registrar shall, upon written request of the registrant, reinstate the registration of the variety without requiring a new application for registration.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+**76** 
+
+- **(1)** The Registrar must reinstate the registration of a variety if the former registrant makes a written request to reinstate the registration and the Registrar determines that the reasons for cancelling the registration are no longer valid.
+
+- **(2)** A former registrant who makes a request to reinstate a registration is not required to submit the information referred to in section 67.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2014-114, s. 5.
 
 
 
@@ -6954,19 +6950,16 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 
 
 ### **SCHEDULE III** 
-**(Section 65, subsections 65.1(1), (2) and (4) and 67(1.1), section 67.1 and paragraph 68(2)(a))**
-#### SPECIES, KINDS OR TYPES OF CROPS SUBJECT TO VARIETY REGISTRATION
+**(Section 65, subsections 65.1(1), (2) and (4) and 67(1.1), section 67.1 and paragraph 68(2)(a))**
 <table>
+<h4>Species, Kinds or Types of Crops Subject to Variety Registration</h4>
 <tr>
 <th>Species, Kind or Type</th>
 <th>Scientific Name</th>
 </tr>
 <tr>
+<td></td>
 <td>PART I</td>
-</tr>
-<tr>
-<td>Alfalfa (forage type)</td>
-<td>*Medicago sativa* L.</td>
 </tr>
 <tr>
 <td>Barley, six-row, two-row</td>
@@ -6981,6 +6974,78 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 <td>*Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
+<td>Buckwheat</td>
+<td>*Fagopyrum esculentum* Moench</td>
+</tr>
+<tr>
+<td>Canola, oilseed rape, rapeseed</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Flax (oilseed)</td>
+<td>*Linum usitatissimum* L.</td>
+</tr>
+<tr>
+<td>Lentil (grain type)</td>
+<td>*Lens culinaris* Medik.</td>
+</tr>
+<tr>
+<td>Mustard, brown, oriental, Indian</td>
+<td>*Brassica juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Mustard, white (= yellow)</td>
+<td>*Sinapis alba* L.</td>
+</tr>
+<tr>
+<td>Oat (grain type)</td>
+<td>*Avena sativa* L., *A. nuda* L.</td>
+</tr>
+<tr>
+<td>Pea, field (commodity type)</td>
+<td>*Pisum sativum* L.</td>
+</tr>
+<tr>
+<td>Rye (grain type)</td>
+<td>*Secale cereale* L.</td>
+</tr>
+<tr>
+<td>Tobacco (flue-cured)</td>
+<td>*Nicotiana tabacum* L.</td>
+</tr>
+<tr>
+<td>Triticale (grain type)</td>
+<td>× *Triticosecale* Wittm. ex A. Camus</td>
+</tr>
+<tr>
+<td>Wheat, common</td>
+<td>*Triticum aestivum* L.</td>
+</tr>
+<tr>
+<td>Wheat, durum</td>
+<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
+</tr>
+<tr>
+<td>Wheat, spelt</td>
+<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
+</tr>
+<tr>
+<td></td>
+<td>PART II</td>
+</tr>
+<tr>
+<td>Safflower</td>
+<td>*Carthamus tinctorius* L.</td>
+</tr>
+<tr>
+<td></td>
+<td>PART III</td>
+</tr>
+<tr>
+<td>Alfalfa (forage type)</td>
+<td>*Medicago sativa* L.</td>
+</tr>
+<tr>
 <td>Bird’s foot trefoil</td>
 <td>*Lotus corniculatus* L.</td>
 </tr>
@@ -6993,20 +7058,12 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 <td>*Bromus inermis* Leyss.</td>
 </tr>
 <tr>
-<td>Buckwheat</td>
-<td>*Fagopyrum esculentum* Moench</td>
-</tr>
-<tr>
 <td>Canarygrass, annual</td>
 <td>*Phalaris canariensis* L.</td>
 </tr>
 <tr>
-<td>Canarygrass, reed</td>
+<td>Canary grass, reed</td>
 <td>*Phalaris arundinacea* L.</td>
-</tr>
-<tr>
-<td>Canola, oilseed rape, rapeseed</td>
-<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus*(= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Clover, alsike</td>
@@ -7041,40 +7098,16 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 <td>*Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
-<td>Flax (oilseed)</td>
-<td>*Linum usitatissimum* L.</td>
-</tr>
-<tr>
-<td>Lentil (grain type)</td>
-<td>*Lens culinaris* Medik.</td>
-</tr>
-<tr>
 <td>Lupin, lupine (grain and forage types)</td>
 <td>*Lupinus* spp.</td>
-</tr>
-<tr>
-<td>Mustard, brown, oriental, Indian</td>
-<td>*Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>Mustard, white (= yellow)</td>
-<td>*Sinapis alba* L.</td>
-</tr>
-<tr>
-<td>Oat (grain type)</td>
-<td>*Avena sativa* L., *A. nuda* L.</td>
 </tr>
 <tr>
 <td>Orchardgrass</td>
 <td>*Dactylis glomerata* L.</td>
 </tr>
 <tr>
-<td>Pea, field (commodity type)</td>
-<td>*Pisum sativum* L.</td>
-</tr>
-<tr>
-<td>Rye (grain type)</td>
-<td>*Secale cereale* L.</td>
+<td>Potato (commercial production)</td>
+<td>*Solanum tuberosum* L.</td>
 </tr>
 <tr>
 <td>Ryegrass, annual (forage type)</td>
@@ -7089,32 +7122,16 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 <td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
+<td>Sunflower (non-ornamental)</td>
+<td>*Helianthus annuus* L.</td>
+</tr>
+<tr>
 <td>Timothy, common (forage type)</td>
 <td>*Phleum pratense* L.</td>
 </tr>
 <tr>
-<td>Tobacco (flue-cured)</td>
-<td>*Nicotiana tabacum* L.</td>
-</tr>
-<tr>
-<td>Triticale (grain type)</td>
-<td>x *Triticosecale* Wittm. ex A. Camus</td>
-</tr>
-<tr>
-<td>Wheat, common</td>
-<td>*Triticum aestivum* L.</td>
-</tr>
-<tr>
-<td>Wheat, durum</td>
-<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
-</tr>
-<tr>
-<td>Wheat, spelt</td>
-<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
-</tr>
-<tr>
 <td>Wheatgrass, beardless</td>
-<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Wheatgrass, crested</td>
@@ -7122,39 +7139,39 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 </tr>
 <tr>
 <td>Wheatgrass, intermediate</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, northern</td>
-<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, pubescent</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Wheatgrass, Siberian</td>
-<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron**sibiricum* (Willd.) Beauv.)</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, slender</td>
-<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
 <td>Wheatgrass, streambank</td>
-<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
 <td>Wheatgrass, tall</td>
-<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, western</td>
-<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
+<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Wildrye, Altai</td>
-<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
+<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
 <td>Wildrye, Dahurian</td>
@@ -7162,29 +7179,11 @@ Applicable to all kinds of seeds referred to in Tables I to XX except those refe
 </tr>
 <tr>
 <td>Wildrye, Russian</td>
-<td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
-</tr>
-<tr>
-<td>PART II</td>
-</tr>
-<tr>
-<td>Safflower</td>
-<td>*Carthamus tinctorius* L.</td>
-</tr>
-<tr>
-<td>PART III</td>
-</tr>
-<tr>
-<td>Potato (commercial production)</td>
-<td>*Solanum tuberosum* L.</td>
-</tr>
-<tr>
-<td>Sunflower (non-ornamental)</td>
-<td>*Helianthus annuus* L.</td>
+<td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 </table>
 
-> SOR/97-199, s. 2; SOR/2007-223, s. 25; SOR/2009-186, s. 8.
+> SOR/97-199, s. 2; SOR/2007-223, s. 25; SOR/2009-186, s. 8; SOR/2014-114, s. 6.
 
 
 
