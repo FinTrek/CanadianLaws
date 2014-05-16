@@ -5714,6 +5714,10 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 <td>Maladie d’Akabane</td>
 </tr>
 <tr>
+<td>3.1</td>
+<td>Anaplasmose (*A. marginale*)</td>
+</tr>
+<tr>
 <td>4</td>
 <td>Chlamydiose aviaire (*C. pscittaci*)</td>
 </tr>
@@ -5931,7 +5935,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 </tr>
 </table>
 
-> DORS/2003-155, art. 2; DORS/2010-86, art. 1; DORS/2010-296, art. 7; DORS/2012-155, art. 1.
+> DORS/2003-155, art. 2; DORS/2010-86, art. 1; DORS/2010-296, art. 7; DORS/2012-155, art. 1; DORS/2014-116, art. 1.
 
 
 
