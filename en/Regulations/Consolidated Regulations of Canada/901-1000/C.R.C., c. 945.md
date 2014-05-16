@@ -13669,18 +13669,18 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 
 **7305.1** For the purpose of subparagraph (v) of the description of A in paragraph 6(1)(k) of the Act, the amount prescribed for a taxation year is
-- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 21 cents; and
-- **(b)** in any other case, 24 cents.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1; 2009, c. 2, s. 113.
+- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 24 cents; and
+- **(b)** in any other case, 27 cents.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1; 2009, c. 2, s. 113; SOR/2014-118, s. 1.
 
 
 
 
 **7306** For the purposes of paragraph 18(1)(r) of the Act, the amount in respect of the use of one or more automobiles in a taxation year by an individual for kilometres driven in the year for the purpose of earning income of the individual is the total of
-- **(a)** the product of 46 cents multiplied by the number of those kilometres;
+- **(a)** the product of 48 cents multiplied by the number of those kilometres;
 - **(b)** the product of 6 cents multiplied by the lesser of 5,000 and the number of those kilometres; and
 - **(c)** the product of 4 cents multiplied by the number of those kilometres driven in the Yukon Territory, the Northwest Territories or Nunavut.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2; 2009, c. 2, s. 114.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2; 2009, c. 2, s. 114; SOR/2014-118, s. 2.
 
 
 
