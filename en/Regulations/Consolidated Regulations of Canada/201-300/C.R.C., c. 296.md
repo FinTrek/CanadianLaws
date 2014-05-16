@@ -5711,6 +5711,10 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 <td>akabane disease</td>
 </tr>
 <tr>
+<td>3.1</td>
+<td>anaplasmosis (*A. marginale*)</td>
+</tr>
+<tr>
 <td>4</td>
 <td>avian chlamydiosis (*C. pscittaci*)</td>
 </tr>
@@ -5928,7 +5932,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 </tr>
 </table>
 
-> SOR/2003-155, s. 2; SOR/2010-86, s. 1; SOR/2010-296, s. 7; SOR/2012-155, s. 1.
+> SOR/2003-155, s. 2; SOR/2010-86, s. 1; SOR/2010-296, s. 7; SOR/2012-155, s. 1; SOR/2014-116, s. 1.
 
 
 
