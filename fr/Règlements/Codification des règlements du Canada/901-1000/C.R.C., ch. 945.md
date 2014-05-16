@@ -13587,18 +13587,18 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 
 **7305.1** Pour l’application du sous-alinéa (ii) de l’élément A de la formule figurant à l’alinéa 6(1)k) de la Loi, le montant prescrit pour une année d’imposition correspond au montant suivant :
-- **a)** 0,21 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
-- **b)** 0,24 $, dans les autres cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1; DORS/2006-250, art. 1; 2009, ch. 2, art. 113.
+- **a)** 0,24 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
+- **b)** 0,27 $, dans les autres cas.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1; DORS/2006-250, art. 1; 2009, ch. 2, art. 113; DORS/2014-118, art. 1.
 
 
 
 
 **7306** Pour l’application de l’alinéa 18(1)r) de la Loi, le montant pour usage d’une ou de plusieurs automobiles par un particulier au cours d’une année d’imposition quant aux kilomètres parcourus au cours de l’année en vue de lui permettre de gagner un revenu correspond au total des montants suivants :
-- **a)** le produit de 0,46 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
+- **a)** le produit de 0,48 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
 - **b)** le produit de 0,06 $ par le nombre de kilomètres, jusqu’à concurrence de 5 000, parcourus au cours de l’année à cette fin;
 - **c)** le produit de 0,04 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2; DORS/2006-250, art. 2; 2009, ch. 2, art. 114.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2; DORS/2006-250, art. 2; 2009, ch. 2, art. 114; DORS/2014-118, art. 2.
 
 
 
