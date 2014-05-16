@@ -32475,10 +32475,10 @@ and if unpurified anterior pituitary extract
 #### Records
 
 
-**C.07.010** The manufacturer shall, with respect to a drug authorized to be sold under this Division, 
-- **(a)** establish and maintain records, in a manner that enables an audit to be made, respecting the information described in section C.08.007; and 
-- **(b)** provide to the Minister the reports referred to in section C.08.008.
-> SOR/2005-141, s. 1.
+**C.07.010** The manufacturer shall, with respect to a drug authorized to be sold under this Division,
+- **(a)** establish and maintain records, in a manner that enables an audit to be made, respecting the information referred to in subsection C.08.007(1), and retain those records for at least seven years from the day on which they were established; and
+- **(b)** provide to the Minister the summaries referred to in section C.08.008.
+> SOR/2005-141, s. 1; SOR/2014-125, s. 1.
 
 
 
@@ -32721,15 +32721,15 @@ and if unpurified anterior pituitary extract
 
 - **(1)** The following definitions apply in this section.
 
-***abbreviated new drug submission*** includes an abbreviated extraordinary use new drug submission. (*présentation abrégée de drogue nouvelle*)
+***abbreviated new drug submission*** includes an abbreviated extraordinary use new drug submission. (*présentation abrégée de drogue nouvelle*)
 
-***innovative drug*** means a drug that contains a medicinal ingredient not previously approved in a drug by the Minister and that is not a variation of a previously approved medicinal ingredient such as a salt, ester, enantiomer, solvate or polymorph. (*drogue innovante*)
+***innovative drug*** means a drug that contains a medicinal ingredient not previously approved in a drug by the Minister and that is not a variation of a previously approved medicinal ingredient such as a salt, ester, enantiomer, solvate or polymorph. (*drogue innovante*)
 
-***new drug submission*** includes an extraordinary use new drug submission. (*présentation de drogue nouvelle*)
+***new drug submission*** includes an extraordinary use new drug submission. (*présentation de drogue nouvelle*)
 
-***pediatric populations*** means the following groups: premature babies born before the 37th week of gestation; full-term babies from 0 to 27 days of age; and all children from 28 days to 2 years of age, 2 years plus 1 day to 11 years of age and 11 years plus 1 day to 18 years of age. (*population pédiatrique*)
+***pediatric populations*** means the following groups: premature babies born before the 37th week of gestation; full-term babies from 0 to 27 days of age; and all children from 28 days to 2 years of age, 2 years plus 1 day to 11 years of age and 11 years plus 1 day to 18 years of age. (*population pédiatrique*)
 
-- **(2)** This section applies to the implementation of Article 1711 of the North American Free Trade Agreement, as defined in the definition ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md), and of paragraph 3 of Article 39 of the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the World Trade Organization Agreement, as defined in the definition ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+- **(2)** The purpose of this section is to implement Article 1711 of the North American Free Trade Agreement, as defined in the definition ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md), and paragraph 3 of Article 39 of the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the Agreement Establishing the World Trade Organization, as defined in the definition ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
 
 - **(3)** If a manufacturer seeks a notice of compliance for a new drug on the basis of a direct or indirect comparison between the new drug and an innovative drug,
 	- **(a)** the manufacturer may not file a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission in respect of the new drug before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug; and
@@ -32741,14 +32741,14 @@ and if unpurified anterior pituitary extract
 
 - **(5)** Subsection (3) does not apply if the innovative drug is not being marketed in Canada.
 
-- **(6)** Paragraph (3)(a) does not apply to a subsequent manufacturer if the innovator consents to the filing of a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission by the subsequent manufacturer before the end of the period of six years specified in that paragraph.
+- **(6)** Paragraph (3)(a) does not apply to a manufacturer if the innovator consents to the filing of a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission by the manufacturer before the end of the period of six years specified in that paragraph.
 
-- **(7)** Paragraph (3)(a) does not apply to a subsequent manufacturer if the manufacturer files an application for authorization to sell its new drug under section C.07.003.
+- **(7)** Paragraph (3)(a) does not apply to a manufacturer if the manufacturer files an application for authorization to sell its new drug under section C.07.003.
 
-- **(8)** Paragraph (3)(b) does not apply to a subsequent manufacturer if the innovator consents to the issuance of a notice of compliance to the subsequent manufacturer before the end of the period of eight years specified in that paragraph or of eight years and six months specified in subsection (4).
+- **(8)** Paragraph (3)(b) does not apply to a manufacturer if the innovator consents to the issuance of a notice of compliance to the manufacturer before the end of the period of eight years specified in that paragraph or of eight years and six months specified in subsection (4).
 
 - **(9)** The Minister shall maintain a register of innovative drugs that includes information relating to the matters specified in subsections (3) and (4).
-> SOR/95-411, s. 6; SOR/2006-241, s. 1; SOR/2011-88, s. 16.
+> SOR/95-411, s. 6; SOR/2006-241, s. 1; SOR/2011-88, s. 16; SOR/2014-124, s. 1.
 
 
 
@@ -32861,20 +32861,22 @@ and if unpurified anterior pituitary extract
 	- **(e)** any error in the labelling of that new drug or in the use of the labels designed for that new drug;
 	- **(f)** any bacteriological or any significant chemical or physical or other change or deterioration in any lot of that new drug;
 	- **(g)** any failure of one or more distributed lots of the new drug to meet the specifications established for that new drug in the submission or supplement; and
-	- **(h)** any unusual failure in efficacy of that new drug. 
+	- **(h)** any unusual failure in efficacy of that new drug.
 	- **(i)** [Repealed, SOR/95-521, s. 3]
 
-- **(2)** A manufacturer or importer who sells a new drug for extraordinary use in accordance with section C.08.002.02 shall retain the written order for at least 15 years from the day on which the order was filled. 
-> SOR/95-411, s. 10; SOR/95-521, s. 3; SOR/2011-88, s. 19.
+- **(1.1)** The manufacturer shall retain the records respecting the information referred to in subsection (1) for at least seven years from the day on which they were established.
+
+- **(2)** A manufacturer or importer who sells a new drug for extraordinary use in accordance with section C.08.002.02 shall retain the written order for at least 15 years from the day on which the order was filled.
+> SOR/95-411, s. 10; SOR/95-521, s. 3; SOR/2011-88, s. 19; SOR/2014-125, s. 2.
 
 
 
 
 **C.08.008** No manufacturer shall sell a new drug unless the manufacturer has, with respect to all the manufacturer’s previous sales of that new drug, furnished to the Minister
-- **(a)** on request, reports of all records respecting the information described in paragraphs C.08.007(a) to (c);
-- **(b)** immediately on receipt by the manufacturer, reports of all records respecting the information described in paragraphs C.08.007(d) to (f); and
-- **(c)** within 15 days after the receipt by the manufacturer of information referred to in paragraphs C.08.007(g) and (h), a report on the information received. 
-> SOR/95-411, s. 11; SOR/95-521, s. 4.
+- **(a)** a summary of a record respecting any information referred to in paragraphs C.08.007(1)(a) to (c), on receipt of a request from the Minister for the summary;
+- **(b)** a summary of a record respecting any information referred to in paragraph C.08.007(1)(d) to (f), immediately on the manufacturer establishing the record; and
+- **(c)** a summary of a record respecting any information referred to in paragraph C.08.007(g) or (h), within 15 days of the day on which the manufacturer established the record. 
+> SOR/95-411, s. 11; SOR/95-521, s. 4; SOR/2014-125, s. 3.
 
 
 
