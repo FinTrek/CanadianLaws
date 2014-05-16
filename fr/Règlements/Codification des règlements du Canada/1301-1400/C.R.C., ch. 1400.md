@@ -2430,7 +2430,7 @@ NOTE
 		- **(ii)** les noms scientifique et commun de la sorte ou de l’espèce à laquelle appartient la variété,
 		- **(iii)** une description de la généalogie, de l’origine, de l’historique et des méthodes de sélection de la variété,
 		- **(iv)** une description détaillée de la variété, y compris, le cas échéant, ses caractéristiques morphologiques, agronomiques, pathologiques, physiologiques et biochimiques,
-		- **(v)** une recommandation d’enregistrement ou de non-enregistrement de la variété formulée par le comité de recommandation qui remonte à au plus deux ans ou, dans le cas d’une variété de plante fourragère, à au plus quatre ans,
+		- **(v)** une recommandation d’enregistrement ou de non-enregistrement de la variété, formulée par le comité de recommandation, qui remonte à au plus deux ans,
 		- **(vi)** les résultats des essais sur lesquels s’appuie la recommandation,
 		- **(vii)** une déclaration indiquant si la variété est vendue dans d’autres pays et, le cas échéant, sous quels noms,
 		- **(viii)** le détail des mesures permettant de maintenir les semences souches,
@@ -2445,7 +2445,7 @@ NOTE
 - **(2)** Outre les renseignements visés au paragraphe (1), le registraire peut exiger du demandeur tout renseignement supplémentaire qui s’impose pour déterminer la valeur et l’identité de la variété.
 
 - **(3)** Le demandeur ou le titulaire, selon le cas, est tenu de fournir au registraire, dès qu’il le reçoit, tout renseignement relatif à la pureté génétique ou à l’utilité d’une variété qui diffère de quelque façon que ce soit des renseignements fournis à l’appui de la demande.
-> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 3.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 3; DORS/2014-114, art. 1.
 
 
 
@@ -2535,10 +2535,10 @@ NOTE
 
 **71** 
 
-- **(1)** Le registraire dresse une fois l’an une liste d’experts d’au moins 6 et d’au plus 20 personnes dont les qualités professionnelles, l’expérience ou les réalisations dans le domaine de la sélection et de l’évaluation de la semence ou des variétés en font des experts qui pourront le conseiller sur tout point ayant trait au refus, à la suspension ou à l’annulation d’un enregistrement en vertu de la présente partie.
+- **(1)** Le registraire dresse une fois l’an une liste d’experts d’au moins 6 et d’au plus 20 personnes dont les qualités professionnelles, l’expérience ou les réalisations dans le domaine de la sélection et de l’évaluation de la semence ou des variétés en font des experts qui pourront le conseiller sur tout point ayant trait au refus ou à l’annulation d’un enregistrement en vertu de la présente partie.
 
-- **(2)** Le registraire ne peut inscrire le nom d’une personne sur la liste d’experts que si celle-ci accepte, sans exiger d’honoraires ni de remboursement de dépenses, de le conseiller à sa demande sur tout point ayant trait au refus, à la suspension ou à l’annulation d’un enregistrement en vertu de la présente partie.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+- **(2)** Le registraire ne peut inscrire le nom d’une personne sur la liste d’experts que si celle-ci accepte, sans exiger d’honoraires ni de remboursement de dépenses, de le conseiller à sa demande sur tout point ayant trait au refus ou à l’annulation d’un enregistrement en vertu de la présente partie.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2014-114, art. 2.
 
 
 
@@ -2576,53 +2576,49 @@ NOTE
 
 
 
-### Suspension et annulation de l’enregistrement
+### Annulation de l’enregistrement
 
 
-**74** 
-
-- **(1)** Le registraire suspend l’enregistrement d’une variété lorsque, selon le cas :
-	- **a)** la variété s’est montrée vulnérable aux maladies ou est de qualité tellement inférieure qu’elle risque de nuire au système agroalimentaire canadien;
-	- **b)** la variété s’est révélée tellement contaminée que sa pureté génétique est compromise;
-	- **c)** la variété a subi des modifications telles qu’elle diffère de l’échantillon de référence représentatif;
-	- **d)** la variété ou sa descendance risque de nuire à l’environnement ou à la santé et à la sécurité des personnes ou des animaux;
-	- **e)** des renseignements faux ou trompeurs ont été soumis à l’appui de la demande d’enregistrement;
-	- **f)** le nom de variété est devenu une marque de commerce déposée à l’égard de la variété après l’enregistrement.
-
-- **(2)** Si le registraire confirme, dans les deux années suivant la date de suspension de l’enregistrement d’une variété, que les motifs de la suspension ne sont plus valables, il lève la suspension.
-
-- **(3)** Lorsque le registraire lève la suspension de l’enregistrement d’une variété conformément au paragraphe (2), il en avise sans délai le titulaire par courrier recommandé.
-
-- **(4)** Le registraire annule l’enregistrement d’une variété dans les cas suivants :
-	- **a)** la variété a subi des modifications telles qu’elle a été transformée en une variété déjà enregistrée sous un autre nom;
-	- **b)** il a été conclu que la variété ne se distingue pas d’une autre variété qui a été enregistrée au Canada ou qui l’est présentement;
-	- **c)** le titulaire n’a pas établi que les motifs de suspension de l’enregistrement ne sont plus valables, dans les deux ans suivant la date de la suspension;
-	- **d)** la variété n’est plus assujettie aux exigences d’enregistrement.
-
-- **(5)** Sous réserve du paragraphe 75(1), le registraire suspend ou annule l’enregistrement d’une variété à la demande du titulaire.
-> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 7.
+**74** Le registraire annule l’enregistrement d’une variété dans les cas suivants :
+- **a)** la variété s’est montrée vulnérable aux maladies ou est de qualité tellement inférieure qu’elle risque de nuire au système agroalimentaire canadien;
+- **b)** la variété s’est révélée tellement contaminée que sa pureté génétique est compromise;
+- **c)** la variété a subi des modifications telles qu’elle diffère de l’échantillon de référence représentatif;
+- **d)** la variété ou sa descendance risque de nuire à l’environnement ou à la santé et à la sécurité des personnes ou des animaux;
+- **e)** des renseignements faux ou trompeurs ont été soumis à l’appui de la demande d’enregistrement;
+- **f)** le nom de variété est devenu une marque de commerce déposée à l’égard de la variété après l’enregistrement;
+- **g)** la variété a subi des modifications telles qu’elle a été transformée en une variété déjà enregistrée sous un autre nom;
+- **h)** il a été conclu que la variété ne se distingue pas d’une autre variété qui est enregistrée au Canada ou qui l’a déjà été;
+- **i)** la variété n’est plus assujettie aux exigences d’enregistrement;
+- **j)** le titulaire en fait la demande.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 7; DORS/2014-114, art. 3.
 
 
 
 
 **75** 
 
-- **(1)** Le registraire ne peut suspendre ou annuler l’enregistrement d’une variété que s’il fait parvenir au titulaire, par courrier recommandé, un avis motivé de sa décision qui indique que le titulaire peut lui soumettre des observations à cet égard conformément au présent article.
+- **(1)** Le registraire ne peut annuler l’enregistrement d’une variété que s’il fait parvenir au titulaire, par courrier recommandé, un avis motivé de sa décision qui indique que le titulaire peut lui soumettre des observations à cet égard conformément au présent article.
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la demande d’annulation faite par le titulaire.
 
 - **(2)** L’avis visé au paragraphe (1) est réputé reçu par le titulaire le septième jour suivant la date de sa mise à la poste.
 
-- **(3)** Le titulaire qui reçoit l’avis visé au paragraphe (1) peut, dans les 30 jours suivant la date de réception de l’avis, soumettre par écrit des observations au registraire à propos de la suspension ou de l’annulation.
+- **(3)** Le titulaire qui reçoit l’avis visé au paragraphe (1) peut, dans les trente jours suivant la date de réception de l’avis, soumettre par écrit des observations au registraire à propos de l’annulation.
 
 - **(4)** La procédure énoncée aux paragraphes 73(3) à (9) s’applique à l’examen des observations soumises aux termes du paragraphe (3), avec les adaptations nécessaires.
 
-- **(5)** Lorsque, à l’issue de l’examen des observations soumises aux termes du paragraphe (3), le registraire détermine qu’il y a lieu de suspendre ou d’annuler l’enregistrement d’une variété, la suspension ou l’annulation prend effet le septième jour suivant la date à laquelle l’avis de cette détermination est postée au titulaire.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+- **(5)** Si, à l’issue de l’examen des observations soumises aux termes du paragraphe (3), le registraire décide qu’il y a lieu d’annuler l’enregistrement d’une variété, l’annulation prend effet le septième jour suivant la date à laquelle l’avis de cette décision est posté au titulaire.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2014-114, art. 4.
 
 
 
 
-**76** Lorsque le registraire détermine qu’il y a lieu de rétablir l’enregistrement d’une variété suspendu ou annulé, il le rétablit, à la demande écrite du titulaire, sans qu’une nouvelle demande d’enregistrement soit nécessaire.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+**76** 
+
+- **(1)** Si le registraire conclut que les motifs ayant mené à l’annulation de l’enregistrement d’une variété ne sont plus valables, il rétablit l’enregistrement, sur présentation d’une demande écrite de l’ex-titulaire à cet effet.
+
+- **(2)** Les renseignements prévus à l’article 67 n’ont pas à être fournis avec la demande de rétablissement de l’enregistrement.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2014-114, art. 5.
 
 
 
@@ -6983,72 +6979,19 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 
 
 ### **ANNEXE III** 
-**(art. 65, par. 65.1(1), (2) et (4) et 67(1.1), art. 67.1 et al. 68(2)a))**
-#### ESPÈCES, SORTES OU TYPES DONT LES VARIÉTÉS DOIVENT ÊTRE ENREGISTRÉES
+**(article 65, paragraphes 65.1(1), (2) et (4) et 67(1.1), article 67.1 et alinéa 68(2)a))**
 <table>
+<h4>Espèces, sortes ou types de plantes cultivées dont les variétés doivent être enregistrées</h4>
 <tr>
 <th>Espèce, sorte ou type</th>
 <th>Nom scientifique</th>
 </tr>
 <tr>
+<td></td>
 <td>PARTIE I</td>
 </tr>
 <tr>
-<td>Agropyre à crête</td>
-<td>*Agropyron cristatum* (L.) Gaertn. ou</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>Agropyre de l’Ouest</td>
-<td>*A. desertorum* (Fisch. ex Link) Schult. *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
-</tr>
-<tr>
-<td>Agropyre de Sibérie</td>
-<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
-</tr>
-<tr>
-<td>Agropyre des rives</td>
-<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
-</tr>
-<tr>
-<td>Agropyre du Nord</td>
-<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
-</tr>
-<tr>
-<td>Agropyre élevé</td>
-<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
-</tr>
-<tr>
-<td>Agropyre grêle</td>
-<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
-</tr>
-<tr>
-<td>Agropyre inerme</td>
-<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>Agropyre intermédiaire</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host)Beauv.)</td>
-</tr>
-<tr>
-<td>Agropyre pubescent</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
-</tr>
-<tr>
-<td>Alpiste des Canaries</td>
-<td>*Phalaris canariensis* L.</td>
-</tr>
-<tr>
-<td>Alpiste roseau</td>
-<td>*Phalaris arundinacea* L.</td>
-</tr>
-<tr>
-<td>Avoine (type grainier)</td>
+<td>Avoine (de type grain)</td>
 <td>*Avena sativa* L., *A. nuda* L.</td>
 </tr>
 <tr>
@@ -7060,22 +7003,128 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 <td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 <tr>
+<td>Canola, colza oléagineux, colza </td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham ou *B. napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile) ou *B. juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Épeautre </td>
+<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
+</tr>
+<tr>
+<td>Féverole (à petits grains)</td>
+<td>*Vicia faba* L.</td>
+</tr>
+<tr>
+<td>Haricot de grande culture</td>
+<td>*Phaseolus vulgaris* L.</td>
+</tr>
+<tr>
+<td>Lentille (de type grain)</td>
+<td>*Lens culinaris* Medik.</td>
+</tr>
+<tr>
+<td>Lin (oléagineux)</td>
+<td>*Linum usitatissimum* L.</td>
+</tr>
+<tr>
+<td>Moutarde, blanche (= jaune)</td>
+<td>*Sinapis alba* L.</td>
+</tr>
+<tr>
+<td>Moutarde, brune, orientale, de l’Inde</td>
+<td>*Brassica juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Orge, à six rangs, à deux rangs</td>
+<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
+</tr>
+<tr>
+<td>Pois de grande culture (de type grain)</td>
+<td>*Pisum sativum* L.</td>
+</tr>
+<tr>
+<td>Sarrasin</td>
+<td>*Fagopyrum esculentum* Mo​ench</td>
+</tr>
+<tr>
+<td>Seigle (de type grain)</td>
+<td>*Secale cereale* L.</td>
+</tr>
+<tr>
+<td>Tabac jaune</td>
+<td>*Nicotiana tabacum* L.</td>
+</tr>
+<tr>
+<td>Triticale (de type grain)</td>
+<td>× *Triticosecale* Wittm. ex A. Camus</td>
+</tr>
+<tr>
+<td></td>
+<td>PARTIE II</td>
+</tr>
+<tr>
+<td>Carthame des teinturiers</td>
+<td>*Carthamus tinctorius* L.</td>
+</tr>
+<tr>
+<td></td>
+<td>PARTIE III</td>
+</tr>
+<tr>
+<td>Agropyre à crête</td>
+<td>*Agropyron cristatum* (L.) Gaertn. ou *A. desertorum* (Fisch. ex Link) Schult.</td>
+</tr>
+<tr>
+<td>Agropyre de l’Ouest</td>
+<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
+</tr>
+<tr>
+<td>Agropyre de Sibérie</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
+</tr>
+<tr>
+<td>Agropyre des rives</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
+</tr>
+<tr>
+<td>Agropyre du Nord</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
+</tr>
+<tr>
+<td>Agropyre élevé</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
+</tr>
+<tr>
+<td>Agropyre grêle</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
+</tr>
+<tr>
+<td>Agropyre inerme </td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
+</tr>
+<tr>
+<td>Agropyre intermédiaire</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
+</tr>
+<tr>
+<td>Agropyre pubescent</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
+</tr>
+<tr>
+<td>Alpiste des Canaries</td>
+<td>*Phalaris canariensis* L.</td>
+</tr>
+<tr>
+<td>Alpiste roseau</td>
+<td>*Phalaris arundinacea* L.</td>
+</tr>
+<tr>
 <td>Brome des prés</td>
 <td>*Bromus riparius* Rehmann</td>
 </tr>
 <tr>
 <td>Brome inerme</td>
 <td>*Bromus inermis* Leyss.</td>
-</tr>
-<tr>
-<td>Canola, colza oléagineux, colza</td>
-<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham ou *B. napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile) ou *B. juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>Dactyle pelotonné</td>
@@ -7087,18 +7136,11 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 </tr>
 <tr>
 <td>Élyme de l’Altaï</td>
-<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
+<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
 <td>Élyme de Russie</td>
 <td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
-</tr>
-<tr>
-<td>Épeautre</td>
-<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>Fétuque des prés (type fourrager)</td>
@@ -7113,31 +7155,15 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 <td>*Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
-<td>Féverole (à petits grains)</td>
-<td>*Vicia faba* L.</td>
-</tr>
-<tr>
 <td>Fléole des prés (mil) (type fourrager)</td>
 <td>*Phleum pratense* L.</td>
-</tr>
-<tr>
-<td>Haricot de grande culture</td>
-<td>*Phaseolus vulgaris* L.</td>
-</tr>
-<tr>
-<td>Lentille (type grainier)</td>
-<td>*Lens culinaris* Medik.</td>
-</tr>
-<tr>
-<td>Lin (oléagineux)</td>
-<td>*Linum usitatissimum* L.</td>
 </tr>
 <tr>
 <td>Lotier corniculé</td>
 <td>*Lotus corniculatus* L.</td>
 </tr>
 <tr>
-<td>Lupin (types grainier et fourrager)</td>
+<td>Lupin (de types grain et fourrager)</td>
 <td>*Lupinus* spp.</td>
 </tr>
 <tr>
@@ -7153,20 +7179,8 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 <td>*Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
-<td>Moutarde, blanche (= jaune)</td>
-<td>*Sinapis alba* L.</td>
-</tr>
-<tr>
-<td>Moutarde, brune, orientale, de l’Inde</td>
-<td>*Brassica juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>Orge, à six rangs, à deux rangs</td>
-<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
-</tr>
-<tr>
-<td>Pois de grande culture (type grainier)</td>
-<td>*Pisum sativum* L.</td>
+<td>Pomme de terre (production commerciale)</td>
+<td>*Solanum tuberosum* L.</td>
 </tr>
 <tr>
 <td>Ray-grass annuel (type fourrager)</td>
@@ -7177,23 +7191,15 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 <td>*Lolium perenne* L.</td>
 </tr>
 <tr>
-<td>Sarrasin</td>
-<td>*Fagopyrum esculentum* Moench</td>
-</tr>
-<tr>
-<td>Seigle (type grainier)</td>
-<td>*Secale cereale* L.</td>
-</tr>
-<tr>
 <td>Soja (oléagineux)</td>
 <td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
-<td>Tabac jaune</td>
-<td>*Nicotiana tabacum* L.</td>
+<td>Tournesol (non ornemental)</td>
+<td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
-<td>Trèfle Alsike</td>
+<td>Trèfle alsike</td>
 <td>*Trifolium hybridum* L.</td>
 </tr>
 <tr>
@@ -7204,31 +7210,9 @@ Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sa
 <td>Trèfle rouge</td>
 <td>*Trifolium pratense* L.</td>
 </tr>
-<tr>
-<td>Triticale (type grainier)</td>
-<td>× *Triticosecale* Wittm. ex A. Camus</td>
-</tr>
-<tr>
-<td>PARTIE II</td>
-</tr>
-<tr>
-<td>Carthame des teinturiers</td>
-<td>*Carthamus tinctorius* L.</td>
-</tr>
-<tr>
-<td>PARTIE III</td>
-</tr>
-<tr>
-<td>Pomme de terre (production commerciale)</td>
-<td>*Solanum tuberosum* L.</td>
-</tr>
-<tr>
-<td>Tournesol (non ornemental)</td>
-<td>*Helianthus annuus* L.</td>
-</tr>
 </table>
 
-> DORS/97-199, art. 2; DORS/2007-223, art. 25; DORS/2009-186, art. 8.
+> DORS/97-199, art. 2; DORS/2007-223, art. 25; DORS/2009-186, art. 8; DORS/2014-114, art. 6.
 
 
 
