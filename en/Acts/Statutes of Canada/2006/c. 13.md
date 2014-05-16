@@ -273,9 +273,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Higher rate — Ontario and Quebec**
 
-**12.2** The rate of charge applicable in respect of an export of a softwood lumber product from Ontario or Quebec on or after the day on which this section comes into force is equal to the sum of the rate of charge otherwise applicable under this Act and
+<sup><a href='#fn_Ind9F5A_hq_13975'>[*]</a></sup>**12.2** The rate of charge applicable in respect of an export of a softwood lumber product from Ontario or Quebec on or after the day on which this section comes into force is equal to the sum of the rate of charge otherwise applicable under this Act and
 - **(a)** 0.1%, in the case of an export from Ontario; or
 - **(b)** 2.6%, in the case of an export from Quebec.
+
+<a name='fn_Ind9F5A_hq_13975'><sup>*</sup></a>: [Note: Section 12.2 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2013, *see* SOR/2014-121.]<br />
 > 2011, c. 24, s. 105.
 
 
