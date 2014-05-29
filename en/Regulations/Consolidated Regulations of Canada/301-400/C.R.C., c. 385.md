@@ -1360,6 +1360,23 @@ by reason of an illness, that child shall be considered to be or to have been in
 
 
 
+**68.1** 
+
+- **(1)** For the purpose of subparagraph 42(2)(a)(i) of the Act, ***substantially gainful***, in respect of an occupation, describes an occupation that provides a salary or wages equal to or greater than the maximum annual amount a person could receive as a disability pension. The amount is determined by the formula
+```
+(A × B) + C
+```
+where
+- **A** is .25 × the Maximum Pensionable Earnings Average;
+- **B** is .75; and
+- **C** is the flat rate benefit, calculated as provided in subsection 56(2) of the Act, × 12.
+
+- **(2)** If the amount calculated under subsection (1) contains a fraction of a cent, the amount is to be rounded to the nearest whole cent or, if the amount is equidistant from two whole cents, to the higher of them.
+> SOR/2014-135, s. 1.
+
+
+
+
 **69** 
 
 - **(1)** For the purpose of determining whether any amount shall be paid or shall continue to be paid as a benefit in respect of a person who has been determined to be disabled within the meaning of the Act, the Minister may require that person from time to time
