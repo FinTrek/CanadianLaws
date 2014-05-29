@@ -2739,6 +2739,7 @@ Version anglaise seulement***service obligations*** means obligations under sect
 		- **(iv)** any specified steps, systems or methods be taken or followed by the company;
 	- **(b)** specify in the order the maximum charges that may be made by the company in respect of the matter so ordered;
 	- **(c)** order the company to fulfil that obligation in any manner and within any time or during any period that the Agency deems expedient, having regard to all proper interests, and specify the particulars of the obligation to be fulfilled;
+	- **(c.1)** order the company to compensate any person adversely affected for any expenses that they incurred as a result of the company’s failure to fulfill its service obligations or, if the company is a party to a confidential contract with a shipper that requires the company to pay an amount of compensation for expenses incurred by the shipper as a result of the company’s failure to fulfill its service obligations, order the company to pay that amount to the shipper;
 	- **(d)** if the service obligation is in respect of a grain-dependent branch line listed in Schedule I, order the company to add to the plan it is required to prepare under subsection 141(1) an indication that it intends to take steps to discontinue operating the line; or
 	- **(e)** if the service obligation is in respect of a grain-dependent branch line listed in Schedule I, order the company, on the terms and conditions that the Agency considers appropriate, to grant to another railway company the right
 		- **(i)** to run and operate its trains over and on any portion of the line, and
@@ -2751,7 +2752,72 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **Company not relieved**
 
 - **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff setting out a competitive line rate referred to in subsection 136(4), a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
-> 1996, c. 10, s. 116; 2000, c. 16, s. 4.
+> 1996, c. 10, s. 116; 2000, c. 16, s. 4; 2014, c. 8, s. 5.1.
+
+
+
+
+
+#### Traffic of Grain
+
+
+
+**Definitions**
+
+**116.1** The following definitions apply in this section and in section 116.2.
+
+***crop year*** means the period that begins on August 1 in any year and ends on July 31 in the next year.
+
+***grain*** means any grain, crop or product listed in Schedule II.
+
+***move*** means to carry grain over a railway line from a point on any rail line west of Thunder Bay or Armstrong, Ontario, to any point in Canada or the United States or beyond for unloading.
+> 2014, c. 8, s. 6.
+
+
+
+
+
+**Obligation to move grain**
+
+**116.2** 
+
+- **(1)** Subject to volume demand and corridor capacity, the Canadian National Railway Company and the Canadian Pacific Railway Company must each move at least 500,000 tonnes of grain during each week in the period that
+	- **(a)** begins on the later of April 7, 2014 and the first Monday after the day on which this section comes into force; and
+	- **(b)** ends on August 3, 2014.
+
+**Order in council**
+
+- **(2)** The Governor in Council may, by order, on the recommendation of the Minister and the Minister of Agriculture and Agri-Food, specify the minimum amount of grain that each company referred to in subsection (1) must move during any period within a crop year that begins on or after August 1, 2014.
+
+**Amount varied**
+
+- **(3)** The Governor in Council may, by order, on the recommendation of the Minister and the Minister of Agriculture and Agri-Food, vary the minimum amount of grain that each company referred to in subsection (1) must move during the period.
+
+**Obligation**
+
+- **(4)** Subject to volume demand and corridor capacity, each company referred to in subsection (1) must move the minimum amount of grain that the Governor in Council specifies or varies by order.
+
+**Agency’s advice**
+
+- **(5)** On or before the July 1 that precedes each crop year, and after consulting with the companies referred to in subsection (1) and the owners or operators of grain handling undertakings, the Agency must provide the Minister with advice on the minimum amount of grain that each company referred to in subsection (1) should move during each month of that crop year. The Agency may also consult with any other person that it considers appropriate.
+
+**Initial advice**
+
+- **(6)** Despite subsection (5), before the first order is made under subsection (2), the Minister may, by order, set another day on or before which the Agency must provide him or her with the advice.
+
+**Updated advice**
+
+- **(7)** On the Minister’s request and after consulting with the companies referred to in subsection (1) and the owners or operators of grain handling undertakings, the Agency must update its advice. The Agency may also consult with any other person it considers appropriate.
+> 2014, c. 8, s. 6.
+
+
+
+
+
+**Inquiry**
+
+**116.3** On the Minister’s request, the Agency must inquire into whether a company is complying with subsection 116.2(1) or (4) and must report the results of its inquiry to the Minister.
+> 2014, c. 8, s. 6.
 
 
 
@@ -3014,6 +3080,10 @@ Version anglaise seulement***service obligations*** means obligations under sect
 	- **(b)** determining the rate per car to be charged for interswitching traffic, or prescribing the manner of determining that rate, including the adjustments to be made to that rate as a result of changes in costs, and establishing distance zones for those purposes; and
 	- **(c)** prescribing, for the purposes of subsections 127(3) and (4), a greater distance than 30 km from an interchange.
 
+**Different distances**
+
+- **(1.1)** A regulation made under paragraph (1)(c) may prescribe different distances for the regions or goods that it specifies.
+
 **Cost savings to be considered**
 
 - **(2)** In determining an interswitching rate, the Agency shall take into consideration any reduction in costs that, in the opinion of the Agency, results from moving a greater number of cars or from transferring several cars at the same time.
@@ -3029,6 +3099,8 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **Review of interswitching regulations**
 
 - **(5)** The Agency shall review the regulations when the circumstances warrant and at least once in every five year period after the regulations are made.
+> 1996, c. 10, s. 128; 2014, c. 8, s. 7.
+
 
 
 
@@ -4377,6 +4449,10 @@ where
 	- **(d)** any service provided by the railway company incidental to transportation that is customary or usual in connection with the business of a railway company; or
 	- **(e)** the question of whether the railway company may apply a charge with respect to an operational term described in paragraph (a) or (b) or for a service described in paragraph (d).
 
+**Regulations**
+
+- **(1.1)** The Agency may make regulations specifying what constitutes operational terms for the purposes of paragraphs (1)(a) to (c).
+
 **Matter excluded from arbitration**
 
 - **(2)** The shipper is not entitled to submit to the Agency for arbitration a matter that
@@ -4394,7 +4470,7 @@ where
 **Clarification**
 
 - **(4)** For greater certainty, neither a rate for the movement of the traffic nor the amount of a charge for that movement or for the provision of incidental services is to be subject to arbitration.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11; 2014, c. 8, s. 8.
 
 
 
@@ -4780,7 +4856,11 @@ as a provision, requirement or condition the contravention of which may be proce
 	- **(b)** prescribe the maximum amount payable for each violation, but the amount shall not exceed
 		- **(i)** $5,000, in the case of an individual, and
 		- **(ii)** $25,000, in the case of a corporation.
-> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12.
+
+**Subsection 116.2(1) or (4)**
+
+- **(3)** The contravention of subsection 116.2(1) or (4) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
+> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9.
 
 
 
@@ -4790,7 +4870,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **178** 
 
-- **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (1.1), or the Minister, in respect of a violation referred to in subsection 177(2), may
+- **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (1.1), or the Minister, in respect of a violation referred to in subsection 177(2) or (3), may
 	- **(a)** designate persons, or classes of persons, as enforcement officers who are authorized to issue notices of violation; and
 	- **(b)** establish the form and content of notices of violation.
 
@@ -4809,7 +4889,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Assistance to enforcement officers**
 
 - **(5)** Any person from whom documents or data are requested pursuant to subsection (4) shall provide all such reasonable assistance as is in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish such information as the enforcement officer reasonably requires for the purposes of this Act.
-> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13.
+> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10.
 
 
 
@@ -4821,6 +4901,10 @@ as a provision, requirement or condition the contravention of which may be proce
 
 - **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed pursuant to that section.
 
+**Continuing violation**
+
+- **(1.1)** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+
 **How contraventions may be proceeded with**
 
 - **(2)** Where any act or omission can be proceeded with as a violation or as an offence, proceedings may be commenced in respect of that act or omission as a violation or as an offence, but proceeding with it as a violation precludes proceeding with it as an offence, and proceeding with it as an offence precludes proceeding with it as a violation.
@@ -4828,7 +4912,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Nature of violation**
 
 - **(3)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply.
-> 1996, c. 10, s. 179; 2007, c. 19, s. 51(F).
+> 1996, c. 10, s. 179; 2007, c. 19, s. 51(F); 2014, c. 8, s. 11.
 
 
 
@@ -4960,8 +5044,8 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **Delegation by Minister**
 
-- **(2)** In the case of a violation referred to in subsection 177(2), the Minister may delegate to the Agency any power, duty or function conferred on the Minister under this Part.
-> 2007, c. 19, s. 52; 2013, c. 31, s. 14.
+- **(2)** In the case of a violation referred to in subsection 177(2) or (3), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
+> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12.
 
 
 
