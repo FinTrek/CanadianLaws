@@ -2689,6 +2689,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 		- **(iv)** la prise de mesures ou l’application de systèmes ou de méthodes par la compagnie;
 	- **b)** préciser le prix maximal que la compagnie peut exiger pour mettre en oeuvre les mesures qu’il impose;
 	- **c)** ordonner à la compagnie de remplir ses obligations selon les modalités de forme et de temps qu’il estime indiquées, eu égard aux intérêts légitimes, et préciser les détails de l’obligation à respecter;
+	- **c.1)** ordonner à la compagnie d’indemniser toute personne lésée des dépenses qu’elle a supportées en conséquence du non-respect des obligations de la compagnie ou, si celle-ci est partie à un contrat confidentiel avec un expéditeur qui prévoit qu’elle versera, en cas de manquement à ses obligations, une indemnité pour les dépenses que l’expéditeur a supportées en conséquence du non-respect des obligations de la compagnie, lui ordonner de verser à l’expéditeur cette indemnité;
 	- **d)** en cas de manquement à une obligation de service relative à un embranchement tributaire du transport du grain mentionné à l’annexe I, ordonner à la compagnie d’ajouter l’embranchement au plan visé au paragraphe 141(1) à titre de ligne dont elle entend cesser l’exploitation;
 	- **e)** en cas de manquement à une obligation de service relative à un embranchement tributaire du transport du grain mentionné à l’annexe I, ordonner à la compagnie, selon les modalités qu’il estime indiquées, d’autoriser une autre compagnie :
 		- **(i)** à faire circuler et à exploiter ses trains sur toute partie de l’embranchement,
@@ -2701,7 +2702,70 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Compagnie non soustraite**
 
 - **(6)** Sous réserve des stipulations d’un contrat confidentiel visé au paragraphe 113(4) ou d’un tarif établissant un prix de ligne concurrentiel visé au paragraphe 136(4), une compagnie n’est pas soustraite à une action intentée en vertu du paragraphe (5) par un avis, une condition ou une déclaration, si les dommages-intérêts réclamés sont causés par la négligence ou les omissions de la compagnie ou d’un de ses employés.
-> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4.
+> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4; 2014, ch. 8, art. 5.1.
+
+
+
+
+
+#### Transport du grain
+
+
+
+**Définitions**
+
+**116.1** Les définitions qui suivent s’appliquent au présent article et à l’article 116.2.
+
+***campagne agricole*** Période commençant le 1<sup>er</sup> août et se terminant le 31 juillet de l’année suivante.
+
+***grain*** Tous les grains, plantes et produits mentionnés à l’annexe II.
+
+***transporter*** Action de transporter du grain sur une ligne ferroviaire à partir d’un point sur toute ligne ferroviaire située à l’ouest de Thunder Bay ou d’Armstrong (Ontario) vers tout point situé au Canada ou aux États-Unis ou plus loin pour déchargement.
+> 2014, ch. 8, art. 6.
+
+
+
+
+
+**Obligation de transporter le grain**
+
+**116.2** 
+
+- **(1)** Sous réserve de la demande en volume et de la capacité des corridors, la Compagnie des chemins de fer nationaux du Canada et la Compagnie de chemin de fer Canadien Pacifique transportent chacune au moins 500 000 tonnes métriques de grain par semaine à compter du lundi suivant l’entrée en vigueur du présent article ou à compter du 7 avril 2014, si cette date est postérieure, et ce jusqu’au 3 août 2014.
+
+**Décret**
+
+- **(2)** Le gouverneur en conseil peut, par décret, sur recommandation du ministre et du ministre de l’Agriculture et de l’Agroalimentaire, préciser la quantité minimum de grain que chacune de ces compagnies doit transporter durant toute période d’une campagne agricole commençant le 1<sup>er</sup> août 2014 ou après cette date.
+
+**Modification de la quantité**
+
+- **(3)** Le gouverneur en conseil peut, par décret, sur recommandation du ministre et du ministre de l’Agriculture et de l’Agroalimentaire, modifier la quantité minimum de grain que chacune de ces compagnies doit transporter durant la période.
+
+**Obligation**
+
+- **(4)** Sous réserve de la demande en volume et de la capacité des corridors, chacune de ces compagnies transporte la quantité minimum de grain ainsi précisée ou modifiée.
+
+**Avis de l’Office**
+
+- **(5)** Au plus tard le 1<sup>er</sup> juillet précédant chaque campagne agricole et après consultation de ces compagnies et des propriétaires ou exploitants d’entreprises de manutention de grain, l’Office donne son avis au ministre sur la quantité minimum de grain que chacune des compagnies devrait transporter durant chaque mois de cette campagne. L’Office peut également consulter toute autre personne qu’il estime indiquée.
+
+**Avis initial**
+
+- **(6)** Malgré le paragraphe (5) et avant la prise du premier décret en vertu du paragraphe (2), le ministre peut, par arrêté, fixer une autre date à laquelle ou avant laquelle l’Office lui donne son avis.
+
+**Mise à jour de l’avis de l’Office**
+
+- **(7)** Sur demande du ministre et après consultation de ces compagnies et des propriétaires ou exploitants d’entreprises de manutention de grain, l’Office met à jour son avis. Il peut également consulter toute autre personne qu’il estime indiquée.
+> 2014, ch. 8, art. 6.
+
+
+
+
+
+**Enquête**
+
+**116.3** L’Office, sur demande du ministre, fait enquête pour vérifier si les compagnies se sont conformées aux paragraphes 116.2(1) ou (4) et lui rend compte des résultats.
+> 2014, ch. 8, art. 6.
 
 
 
@@ -2962,6 +3026,10 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **b)** fixer le prix par wagon ou la manière de le déterminer, de même que les modifications de ce prix découlant de la variation des coûts, à exiger pour l’interconnexion du trafic et, à ces fins, établir des zones tarifaires;
 	- **c)** fixer, pour l’application des paragraphes 127(3) et (4), la distance depuis un lieu de correspondance qui est supérieure à 30 kilomètres.
 
+**Distances selon les régions ou les marchandises**
+
+- **(1.1)** Le règlement pris en vertu de l’alinéa (1)c) peut prévoir des distances différentes selon les régions ou les marchandises qu’il précise.
+
 **Prise en compte des économies**
 
 - **(2)** Lorsqu’il fixe le prix, l’Office prend en compte les réductions de frais qui, à son avis, sont entraînées par le mouvement d’un plus grand nombre de wagons ou par le transfert de plusieurs wagons à la fois.
@@ -2977,6 +3045,8 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Révision des limites**
 
 - **(5)** L’Office révise les règlements à intervalles de cinq ans à compter de la date de leur prise ou à intervalles plus rapprochés si les circonstances le justifient.
+> 1996, ch. 10, art. 128; 2014, ch. 8, art. 7.
+
 
 
 
@@ -4294,6 +4364,10 @@ où
 	- **d)** les services fournis par la compagnie de chemin de fer qui sont normalement liés à l’exploitation d’un service de transport par une compagnie de chemin de fer;
 	- **e)** la question de savoir si des frais peuvent être imposés par la compagnie de chemin de fer relativement aux conditions d’exploitation visées aux alinéas a) ou b) ou pour les services visés à l’alinéa d).
 
+**Règlement**
+
+- **(1.1)** L’Office peut, par règlement, préciser ce qui constitue des conditions d’exploitation pour l’application des alinéas (1)a) à c).
+
 **Exclusions**
 
 - **(2)** L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui, selon le cas :
@@ -4311,7 +4385,7 @@ où
 **Précision**
 
 - **(4)** Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport, ni sur le montant des frais relatifs au transport ou aux services connexes.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11; 2014, ch. 8, art. 8.
 
 
 
@@ -4692,7 +4766,11 @@ où
 - **(2)** Le ministre peut, par règlement :
 	- **a)** désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition de l’article 51 ou des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par l’article 51 ou ces règlements;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
-> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12.
+
+**Paragraphes 116.2(1) ou (4)**
+
+- **(3)** Toute contravention aux paragraphes 116.2(1) ou (4) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
+> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9.
 
 
 
@@ -4702,7 +4780,7 @@ où
 
 **178** 
 
-- **(1)** L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1) ou (2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+- **(1)** L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1), (2) ou (3), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
 
 **Attributions des agents**
 
@@ -4719,7 +4797,7 @@ où
 **Assistance**
 
 - **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13.
+> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10.
 
 
 
@@ -4731,6 +4809,10 @@ où
 
 - **(1)** Toute contravention à un texte désigné au titre de l’article 177 constitue une violation pour laquelle le contrevenant s’expose à la sanction établie conformément à cet article.
 
+**Violations continues**
+
+- **(1.1)** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+
 **Précision**
 
 - **(2)** Tout acte ou omission qualifiable à la fois de violation et d’infraction peut être réprimé soit comme violation, soit comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
@@ -4738,7 +4820,7 @@ où
 **Nature de la violation**
 
 - **(3)** Les violations n’ont pas valeur d’infractions; en conséquence nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 1996, ch. 10, art. 179; 2007, ch. 19, art. 51(F).
+> 1996, ch. 10, art. 179; 2007, ch. 19, art. 51(F); 2014, ch. 8, art. 11.
 
 
 
@@ -4868,8 +4950,8 @@ où
 
 **Délégation ministérielle**
 
-- **(2)** S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
-> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14.
+- **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2) ou (3), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
+> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12.
 
 
 
