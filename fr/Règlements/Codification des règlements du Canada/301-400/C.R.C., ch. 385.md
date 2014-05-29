@@ -1360,6 +1360,23 @@ pour des raisons de maladie, l’enfant est considéré comme fréquentant ou ay
 
 
 
+**68.1** 
+
+- **(1)** Pour l’application du sous-alinéa 42(2)a)(i) de la Loi, ***véritablement rémunératrice*** se dit d’une occupation qui procure un traitement ou un salaire égal ou supérieur à la somme annuelle maximale qu’une personne pourrait recevoir à titre de pension d’invalidité, calculée selon la formule suivante :
+```
+(A × B) + C
+```
+où :
+- **A** représente 25 % du maximum moyen des gains ouvrant droit à pension;
+- **B** 75 %;
+- **C** le montant de la prestation à taux uniforme, calculé conformément au paragraphe 56(2) de la Loi, multiplié par 12.
+
+- **(2)** Dans le calcul de la somme visée au paragraphe (1), le résultat est arrondi au cent supérieur s’il comporte une fraction égale ou supérieure à un demi-cent et, dans le cas contraire, au cent inférieur.
+> DORS/2014-135, art. 1.
+
+
+
+
 **69** 
 
 - **(1)** En vue de déterminer si un certain montant doit être payé ou doit continuer d’être payé comme prestation à l’égard d’une personne dont on a déterminé l’invalidité au sens de la Loi, le ministre peut requérir ladite personne, de temps à autre,
