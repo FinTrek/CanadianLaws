@@ -234,6 +234,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **4** Bande d’Eskasoni
 
 
+**4.1** Première nation de Glooscap
+
+
 **5** Bande de Membertou
 
 
@@ -252,6 +255,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **9** Première nation de Whycocomagh
 
 
-> 1998, ch. 24, ann.; DORS/2005-275; DORS/2011-190.
+> 1998, ch. 24, ann.; DORS/2005-275; DORS/2011-190; DORS/2014-132.
 
 
