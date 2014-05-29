@@ -236,6 +236,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **4** Eskasoni Band
 
 
+**4.1** Glooscap First Nation
+
+
 **5** Membertou Band
 
 
@@ -254,6 +257,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **9** Whycocomagh First Nation
 
 
-> 1998, c. 24, Sch.; SOR/2005-275; SOR/2011-190.
+> 1998, c. 24, Sch.; SOR/2005-275; SOR/2011-190; SOR/2014-132.
 
 
