@@ -393,7 +393,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**77** [Modification]
+**77** [Abrogé avant d’entrer en vigueur, 2013, ch. 24. art. 131]
 
 
 
