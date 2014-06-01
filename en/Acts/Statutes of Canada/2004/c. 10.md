@@ -389,7 +389,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(8)** A person who registers information under this section shall
 	- **(a)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality; and
 	- **(b)** once the information is registered under any of subsections (2) to (7), on request, send the sex offender or the person served with a notice under section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) a copy of all of the information relating to them that is registered in the database, by registered mail, free of charge and without delay.
-> 2007, c. 5, s. 41; 2010, c. 17, s. 40.
+> 2007, c. 5, s. 41; 2010, c. 17, s. 40; 2013, c. 24, s. 130(F).
 
 
 
@@ -460,7 +460,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The person to whom the request is made shall, without delay, ensure that
 	- **(a)** information in the database is corrected if they are satisfied that the information contains an error or omission; or
 	- **(b)** a notation is attached to the information in the database that reflects any correction that is requested but not made.
-> 2004, c. 10, s. 12; 2007, c. 5, s. 44.
+> 2004, c. 10, s. 12; 2007, c. 5, s. 44; 2013, c. 24, s. 130(F).
 
 
 
