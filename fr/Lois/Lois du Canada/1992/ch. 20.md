@@ -366,7 +366,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le directeur du pénitencier peut autoriser un délinquant à sortir si celui-ci est escorté d’une personne — agent ou autre — habilitée à cet effet par lui lorsque, à son avis :
+- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le directeur du pénitencier peut autoriser un délinquant à sortir si celui-ci est escorté d’une personne — agent ou autre — habilitée à cet effet par lui lorsque, à son avis :
 	- **a)** une récidive du délinquant pendant la sortie ne présentera pas un risque inacceptable pour la société;
 	- **b)** il l’estime souhaitable pour des raisons médicales, administratives, de compassion ou en vue d’un service à la collectivité, ou du perfectionnement personnel lié à la réadaptation du délinquant, ou pour lui permettre d’établir ou d’entretenir des rapports familiaux notamment en ce qui touche ses responsabilités parentales;
 	- **c)** la conduite du détenu pendant la détention ne justifie pas un refus;
@@ -392,7 +392,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Délégation au responsable d’un hôpital**
 
 - **(6)** Le directeur peut, aux conditions et pour la durée qu’il estime indiquées, déléguer au responsable d’un hôpital sous administration provinciale où la liberté des personnes est normalement soumise à des restrictions l’un ou l’autre des pouvoirs que lui confère le présent article à l’égard des détenus admis dans l’hôpital aux termes d’un accord conclu conformément au paragraphe 16(1).
-> 1992, ch. 20, art. 17; 1995, ch. 22, art. 13, ch. 42, art. 7(F); 1998, ch. 35, art. 108; 2000, ch. 24, art. 34
+> 1992, ch. 20, art. 17; 1995, ch. 22, art. 13, ch. 42, art. 7(F); 1998, ch. 35, art. 108; 2000, ch. 24, art. 34; 2013, ch. 24, art. 127
 
 
 
@@ -402,7 +402,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
-**Définition de « placement à l’extérieur »**
+**Définition de placement à l’extérieur**
 
 **18** 
 
@@ -410,7 +410,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Autorisation de placement à l’extérieur**
 
-- **(2)** Le directeur peut faire bénéficier le détenu qui est admissible à une permission de sortir sans escorte en application de la partie II, de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) d’un placement à l’extérieur pour la période qu’il détermine — sous réserve de l’approbation du commissaire lorsqu’elle excède soixante jours — si, à son avis :
+- **(2)** Le directeur peut faire bénéficier le détenu qui est admissible à une permission de sortir sans escorte en application de la partie II, de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) d’un placement à l’extérieur pour la période qu’il détermine — sous réserve de l’approbation du commissaire lorsqu’elle excède soixante jours — si, à son avis :
 	- **a)** une récidive du détenu pendant le placement ne présentera pas un risque inacceptable pour la société;
 	- **b)** il est souhaitable que le détenu participe à un programme structuré de travail ou de service à la collectivité à l’intérieur de celle-ci;
 	- **c)** sa conduite pendant la détention ne justifie pas un refus;
@@ -431,7 +431,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Mandat**
 
 - **(6)** S’il suspend ou annule le placement après la sortie, le directeur peut autoriser par mandat écrit l’arrestation et la réincarcération du détenu.
-> 1992, ch. 20, art. 18; 1995, ch. 22, art. 13, ch. 42, art. 8 et 71(F); 1998, ch. 35, art. 109; 2000, ch. 24, art. 35
+> 1992, ch. 20, art. 18; 1995, ch. 22, art. 13, ch. 42, art. 8 et 71(F); 1998, ch. 35, art. 109; 2000, ch. 24, art. 35; 2013, ch. 24, art. 127
 
 
 
@@ -2154,7 +2154,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **119** 
 
-- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le temps d’épreuve pour l’admissibilité à la semi-liberté est :
+- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le temps d’épreuve pour l’admissibilité à la semi-liberté est :
 	- **a)** un an, en cas de condamnation à la détention préventive avant le 15 octobre 1977;
 	- **b)** dans le cas d’un délinquant — autre que celui visé à l’alinéa b.1) — condamné à une peine de détention dans un pénitencier pour une période indéterminée, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément à l’article 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2);
 	- **b.1)** dans le cas d’un délinquant condamné, avant la date d’entrée en vigueur du présent alinéa, à une peine de détention dans un pénitencier pour une période indéterminée, trois ans ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2);
@@ -2163,16 +2163,16 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Temps d’épreuve pour la semi-liberté**
 
-- **(1.1)** Par dérogation à l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), dans les cas visés aux paragraphes 120.2(2) ou (3), le temps d’épreuve pour l’admissibilité à la semi-liberté est, dans le cas du délinquant visé aux paragraphes 746.1(1) ou (2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou auquel l’une ou l’autre de ces dispositions s’appliquent aux termes du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), la période qui se termine trois ans avant la date déterminée conformément aux paragraphes 120.2(2) ou (3).
+- **(1.1)** Par dérogation à l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), dans les cas visés aux paragraphes 120.2(2) ou (3), le temps d’épreuve pour l’admissibilité à la semi-liberté est, dans le cas du délinquant visé aux paragraphes 746.1(1) ou (2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou auquel l’une ou l’autre de ces dispositions s’appliquent aux termes du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), la période qui se termine trois ans avant la date déterminée conformément aux paragraphes 120.2(2) ou (3).
 
 **Temps d’épreuve pour la semi-liberté — personne âgée de moins de dix-huit ans**
 
-- **(1.2)** Par dérogation à l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), dans les cas visés au paragraphe 120.2(2), le temps d’épreuve pour l’admissibilité à la semi-liberté est la période qui se termine, dans le cas d’un délinquant visé au paragraphe 746.1(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou auquel ce paragraphe s’applique aux termes du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), au dernier cinquième du délai préalable à l’admissibilité à la libération conditionnelle ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2).
+- **(1.2)** Par dérogation à l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), dans les cas visés au paragraphe 120.2(2), le temps d’épreuve pour l’admissibilité à la semi-liberté est la période qui se termine, dans le cas d’un délinquant visé au paragraphe 746.1(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou auquel ce paragraphe s’applique aux termes du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), au dernier cinquième du délai préalable à l’admissibilité à la libération conditionnelle ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2).
 
 **Courtes peines d’emprisonnement**
 
 - **(2)** La Commission n’est pas tenue d’examiner les demandes de semi-liberté émanant des délinquants condamnés à une peine d’emprisonnement inférieure à six mois.
-> 1992, ch. 20, art. 119; 1995, ch. 22, art. 13 et 18, ch. 42, art. 33 et 69(A); 1997, ch. 17, art. 20; 1998, ch. 35, art. 111; 2000, ch. 24, art. 37
+> 1992, ch. 20, art. 119; 1995, ch. 22, art. 13 et 18, ch. 42, art. 33 et 69(A); 1997, ch. 17, art. 20; 1998, ch. 35, art. 111; 2000, ch. 24, art. 37; 2013, ch. 24, art. 127
 
 
 
@@ -2200,12 +2200,12 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **120** 
 
-- **(1)** Sous réserve des articles 746.1 et 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et de toute ordonnance rendue en vertu de l’article 743.6 de cette loi, du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et de toute ordonnance rendue en vertu de l’article 140.4 de cette loi, et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est d’un tiers de la peine à concurrence de sept ans.
+- **(1)** Sous réserve des articles 746.1 et 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et de toute ordonnance rendue en vertu de l’article 743.6 de cette loi, du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et de toute ordonnance rendue en vertu de l’article 226.2 de cette loi, et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est d’un tiers de la peine à concurrence de sept ans.
 
-**Cas particulier : perpétuité**
+**Cas particulier : perpétuité**
 
-- **(2)** Dans le cas d’une condamnation à l’emprisonnement à perpétuité et à condition que cette peine n’ait pas constitué un minimum en l’occurrence, le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est, sous réserve de toute ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)ou en vertu de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de sept ans moins le temps de détention compris entre le jour de l’arrestation et celui de la condamnation à cette peine.
-> 1992, ch. 20, art. 120; 1995, ch. 22, art. 13, ch. 42, art. 34; 1998, ch. 35, art. 112; 2000, ch. 24, art. 38
+- **(2)** Dans le cas d’une condamnation à l’emprisonnement à perpétuité et à condition que cette peine n’ait pas constitué un minimum en l’occurrence, le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est, sous réserve de toute ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)ou en vertu de l’article 226.2 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de sept ans moins le temps de détention compris entre le jour de l’arrestation et celui de la condamnation à cette peine.
+> 1992, ch. 20, art. 120; 1995, ch. 22, art. 13, ch. 42, art. 34; 1998, ch. 35, art. 112; 2000, ch. 24, art. 38; 2013, ch. 24, art. 126 et 128
 
 
 
@@ -2216,7 +2216,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **120.1** 
 
 - **(1)** La personne qui est condamnée le même jour à plusieurs peines d’emprisonnement alors qu’elle n’en purgeait aucune n’est admissible à la libération conditionnelle totale qu’après avoir accompli le temps d’épreuve égal à la somme des périodes suivantes :
-	- **a)** le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1), qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **a)** le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1), qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 226.2 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
 	- **b)** le temps d’épreuve requis relativement à toute autre partie de cette peine.
 
 **Peine supplémentaire consécutive**
@@ -2230,7 +2230,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 - **(3)** Par dérogation au paragraphe (2), le délinquant dont la peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — n’est pas expirée et qui est condamné à une ou plusieurs peines d’emprisonnement supplémentaires à purger consécutivement à une partie de la peine non expirée ou qui est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires dont une à purger concurremment à la peine non expirée et une ou plusieurs peines à purger consécutivement à la peine supplémentaire concurrente n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation, le temps d’épreuve qui correspond à la période la plus longue résultant de la somme des périodes ci-après, d’une part, le reste du temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation et, d’autre part :
 	- **a)** soit un tiers de la période équivalant à la différence entre la durée de la peine déterminée conformément au paragraphe 139(1) qui englobe la ou les peines supplémentaires et la durée de la peine non expirée;
 	- **b)** soit le temps d’épreuve relatif à la ou aux peines supplémentaires à purger consécutivement.
-> 1995, ch. 42, art. 34; 1997, ch. 17, art. 22(F); 2012, ch. 1, art. 76
+> 1995, ch. 42, art. 34; 1997, ch. 17, art. 22(F); 2012, ch. 1, art. 76; 2013, ch. 24, art. 133
 
 
 
@@ -2242,7 +2242,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** Sous réserve du paragraphe (2), le délinquant dont la peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — n’est pas expirée et qui est condamné à une peine d’emprisonnement supplémentaire à purger concurremment à l’autre n’est admissible à la libération conditionnelle totale qu’à la plus éloignée des dates suivantes :
 	- **a)** la date à laquelle il a accompli le temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation;
-	- **b)** la date à laquelle il a accompli, d’une part, le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1) et englobant la peine supplémentaire, qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et, d’autre part, le temps d’épreuve requis relativement à toute autre partie de cette peine.
+	- **b)** la date à laquelle il a accompli, d’une part, le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1) et englobant la peine supplémentaire, qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 226.2 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et, d’autre part, le temps d’épreuve requis relativement à toute autre partie de cette peine.
 
 **Peine supplémentaire — peine d’emprisonnement à perpétuité**
 
@@ -2252,10 +2252,10 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Nouveau calcul en cas de réduction du temps d’épreuve**
 
-- **(3)** En cas de réduction du temps d’épreuve relatif à la peine d’emprisonnement à perpétuité en vertu de l’article 745.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le délinquant visé au paragraphe (2) n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation à la peine ou aux peines supplémentaires, le temps d’épreuve égal à la somme des périodes suivantes :
+- **(3)** En cas de réduction du temps d’épreuve relatif à la peine d’emprisonnement à perpétuité en vertu de l’article 745.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le délinquant visé au paragraphe (2) n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation à la peine ou aux peines supplémentaires, le temps d’épreuve égal à la somme des périodes suivantes :
 	- **a)** le temps d’épreuve auquel il aurait été assujetti, compte tenu de la réduction, à la date de la condamnation;
 	- **b)** le temps d’épreuve relatif à la peine supplémentaire ou, en cas de condamnation à plusieurs peines supplémentaires, le temps d’épreuve relatif à celles-ci déterminé conformément au paragraphe (1) ou à l’article 120.1, selon le cas.
-> 1995, ch. 22, art. 18, ch. 42, art. 34; 1997, ch. 17, art. 23(F); 1998, ch. 35, art. 113; 2000, ch. 24, art. 39; 2012, ch. 1, art. 76
+> 1995, ch. 22, art. 18, ch. 42, art. 34; 1997, ch. 17, art. 23(F); 1998, ch. 35, art. 113; 2000, ch. 24, art. 39; 2012, ch. 1, art. 76; 2013, ch. 24, art. 127 et 128
 
 
 
@@ -2263,11 +2263,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Maximum**
 
-**120.3** Sous réserve de l’article 745 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), la limite maximale du temps d’épreuve requis pour la libération conditionnelle totale est :
+**120.3** Sous réserve de l’article 745 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), la limite maximale du temps d’épreuve requis pour la libération conditionnelle totale est :
 - **a)** dans le cas où une personne est condamnée le même jour à plusieurs peines d’emprisonnement alors qu’elle n’en purgeait aucune, de quinze ans à compter de ce jour;
 - **b)** dans le cas où le délinquant qui purge une peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — est condamné à une peine d’emprisonnement supplémentaire et que la condamnation change sa date d’admissibilité à la libération conditionnelle, de quinze ans à compter de la condamnation;
 - **c)** dans le cas où le délinquant qui purge une peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires et que la condamnation change sa date d’admissibilité à la libération conditionnelle, de quinze ans à compter de la condamnation.
-> 1995, ch. 22, art. 18, ch. 42, art. 34; 1998, ch. 35, art. 114; 2000, ch. 24, art. 40; 2012, ch. 1, art. 76
+> 1995, ch. 22, art. 18, ch. 42, art. 34; 1998, ch. 35, art. 114; 2000, ch. 24, art. 40; 2012, ch. 1, art. 76; 2013, ch. 24, art. 127
 
 
 
@@ -2277,7 +2277,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **121** 
 
-- **(1)** Sous réserve de l’article 102 mais par dérogation aux articles 119 à 120.3 de la présente loi, aux articles 746.1 et 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), et même si le temps d’épreuve a été fixé par le tribunal en application de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le délinquant peut bénéficier de la libération conditionnelle dans les cas suivants :
+- **(1)** Sous réserve de l’article 102 mais par dérogation aux articles 119 à 120.3 de la présente loi, aux articles 746.1 et 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), et même si le temps d’épreuve a été fixé par le tribunal en application de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 226.2 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le délinquant peut bénéficier de la libération conditionnelle dans les cas suivants :
 	- **a)** il est malade en phase terminale;
 	- **b)** sa santé physique ou mentale risque d’être gravement compromise si la détention se poursuit;
 	- **c)** l’incarcération constitue pour lui une contrainte excessive difficilement prévisible au moment de sa condamnation;
@@ -2289,7 +2289,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **a)** une peine d’emprisonnement à perpétuité infligée comme peine minimale;
 	- **b)** une peine de mort commuée en emprisonnement à perpétuité;
 	- **c)** une peine de détention dans un pénitencier pour une période indéterminée.
-> 1992, ch. 20, art. 121; 1995, ch. 22, art. 13, ch. 42, art. 35; 1998, ch. 35, art. 115; 1999, ch. 18, art. 86; 2012, ch. 1, art. 77
+> 1992, ch. 20, art. 121; 1995, ch. 22, art. 13, ch. 42, art. 35; 1998, ch. 35, art. 115; 1999, ch. 18, art. 86; 2012, ch. 1, art. 77; 2013, ch. 24, art. 128 et 133
 
 
 
