@@ -400,7 +400,7 @@ confine the person in the provincial correctional facility until the person is t
 	- **(b)** it is desirable for the inmate to be absent from penitentiary, escorted by a staff member or other person authorized by the institutional head, for medical, administrative, community service, family contact, personal development for rehabilitative purposes, or compassionate reasons, including parental responsibilities,
 	- **(c)** the inmate’s behaviour while under sentence does not preclude authorizing the absence, and
 	- **(d)** a structured plan for the absence has been prepared,
-the absence may, subject to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), be authorized by the institutional head
+the absence may, subject to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), be authorized by the institutional head
 	- **(e)** for an unlimited period for medical reasons, or
 	- **(f)** for reasons other than medical,
 		- **(i)** for a period not exceeding five days, or
@@ -425,7 +425,7 @@ the absence may, subject to section 746.1 of the [Criminal Code](/en/Acts/Revise
 **Delegation to provincial hospital**
 
 - **(6)** Where, pursuant to an agreement under paragraph 16(1)(a), an inmate has been admitted to a hospital operated by a provincial government in which the liberty of patients is normally subject to restrictions, the institutional head may confer on the person in charge of the hospital, for such period and subject to such conditions as the institutional head specifies, any of the institutional head’s powers under this section in relation to that inmate.
-> 1992, c. 20, s. 17; 1995, c. 22, s. 13, c. 42, s. 7(F); 1998, c. 35, s. 108; 2000, c. 24, s. 34
+> 1992, c. 20, s. 17; 1995, c. 22, s. 13, c. 42, s. 7(F); 1998, c. 35, s. 108; 2000, c. 24, s. 34; 2013, c. 24, s. 127
 
 
 
@@ -435,7 +435,7 @@ the absence may, subject to section 746.1 of the [Criminal Code](/en/Acts/Revise
 
 
 
-**Definition of “work release”**
+**Definition of work release**
 
 **18** 
 
@@ -443,7 +443,7 @@ the absence may, subject to section 746.1 of the [Criminal Code](/en/Acts/Revise
 
 **Work releases may be authorized**
 
-- **(2)** Where an inmate is eligible for unescorted temporary absences under Part II or pursuant to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), and, in the opinion of the institutional head,
+- **(2)** Where an inmate is eligible for unescorted temporary absences under Part II or pursuant to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), and, in the opinion of the institutional head,
 	- **(a)** the inmate will not, by reoffending, present an undue risk to society during a work release,
 	- **(b)** it is desirable for the inmate to participate in a structured program of work or community service in the community,
 	- **(c)** the inmate’s behaviour while under sentence does not preclude authorizing the work release, and
@@ -465,7 +465,7 @@ the institutional head may authorize a work release, for such duration as is fix
 **Warrant**
 
 - **(6)** Where a work release is suspended or cancelled after its commencement, the institutional head may cause a warrant in writing to be issued authorizing the apprehension and recommitment to custody of the inmate.
-> 1992, c. 20, s. 18; 1995, c. 22, s. 13, c. 42, ss. 8, 71(F); 1998, c. 35, s. 109; 2000, c. 24, s. 35
+> 1992, c. 20, s. 18; 1995, c. 22, s. 13, c. 42, ss. 8, 71(F); 1998, c. 35, s. 109; 2000, c. 24, s. 35; 2013, c. 24, s. 127
 
 
 
@@ -2326,7 +2326,7 @@ but does not include a person whose only sentence is a sentence being served int
 
 **119** 
 
-- **(1)** Subject to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), the portion of a sentence that must be served before an offender may be released on day parole is
+- **(1)** Subject to section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), the portion of a sentence that must be served before an offender may be released on day parole is
 	- **(a)** one year, where the offender was, before October 15, 1977, sentenced to preventive detention;
 	- **(b)** where the offender is an offender, other than an offender referred to in paragraph (b.1), who was sentenced to detention in a penitentiary for an indeterminate period, the longer of
 		- **(i)** the period required to be served by the offender to reach the offender’s full parole eligibility date, determined in accordance with section 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), less three years, and
@@ -2341,18 +2341,18 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Time when eligible for day parole**
 
-- **(1.1)** Notwithstanding section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), an offender described in subsection 746.1(1) or (2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or to whom those subsections apply pursuant to subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), shall not, in the circumstances described in subsection 120.2(2) or (3), be released on day parole until three years before the day that is determined in accordance with subsection 120.2(2) or (3).
+- **(1.1)** Notwithstanding section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), an offender described in subsection 746.1(1) or (2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or to whom those subsections apply pursuant to subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), shall not, in the circumstances described in subsection 120.2(2) or (3), be released on day parole until three years before the day that is determined in accordance with subsection 120.2(2) or (3).
 
 **When eligible for day parole — young offender sentenced to life imprisonment**
 
-- **(1.2)** Notwithstanding section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), in the circumstances described in subsection 120.2(2), the portion of the sentence of an offender described in subsection 746.1(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or to whom that subsection applies pursuant to subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) that must be served before the offender may be released on day parole is the longer of
+- **(1.2)** Notwithstanding section 746.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), in the circumstances described in subsection 120.2(2), the portion of the sentence of an offender described in subsection 746.1(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or to whom that subsection applies pursuant to subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) that must be served before the offender may be released on day parole is the longer of
 	- **(a)** the period that expires when all but one fifth of the period of imprisonment the offender is to serve without eligibility for parole has been served, and
 	- **(b)** the portion of the sentence that must be served before full parole may be granted to the offender, determined in accordance with subsection 120.2(2), less three years.
 
 **Short sentences**
 
 - **(2)** The Board is not required to review the case of an offender who applies for day parole if the offender is serving a sentence of less than six months.
-> 1992, c. 20, s. 119; 1995, c. 22, ss. 13, 18, c. 42, ss. 33, 69(E); 1997, c. 17, s. 20; 1998, c. 35, s. 111; 2000, c. 24, s. 37
+> 1992, c. 20, s. 119; 1995, c. 22, ss. 13, 18, c. 42, ss. 33, 69(E); 1997, c. 17, s. 20; 1998, c. 35, s. 111; 2000, c. 24, s. 37; 2013, c. 24, s. 127
 
 
 
@@ -2380,12 +2380,12 @@ but does not include a person whose only sentence is a sentence being served int
 
 **120** 
 
-- **(1)** Subject to sections 746.1 and 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and to any order made under section 743.6 of that Act, to subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and to any order made under section 140.4 of that Act, and to subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), an offender is not eligible for full parole until the day on which the offender has served a period of ineligibility of the lesser of one third of the sentence and seven years.
+- **(1)** Subject to sections 746.1 and 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and to any order made under section 743.6 of that Act, to subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and to any order made under section 226.2 of that Act, and to subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), an offender is not eligible for full parole until the day on which the offender has served a period of ineligibility of the lesser of one third of the sentence and seven years.
 
 **Life sentence**
 
-- **(2)** Subject to any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), an offender who is serving a life sentence, imposed otherwise than as a minimum punishment, is not eligible for full parole until the day on which the offender has served a period of ineligibility of seven years less any time spent in custody between the day on which the offender was arrested and taken into custody, in respect of the offence for which the sentence was imposed, and the day on which the sentence was imposed.
-> 1992, c. 20, s. 120; 1995, c. 22, s. 13, c. 42, s. 34; 1998, c. 35, s. 112; 2000, c. 24, s. 38
+- **(2)** Subject to any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 226.2 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), an offender who is serving a life sentence, imposed otherwise than as a minimum punishment, is not eligible for full parole until the day on which the offender has served a period of ineligibility of seven years less any time spent in custody between the day on which the offender was arrested and taken into custody, in respect of the offence for which the sentence was imposed, and the day on which the sentence was imposed.
+> 1992, c. 20, s. 120; 1995, c. 22, s. 13, c. 42, s. 34; 1998, c. 35, s. 112; 2000, c. 24, s. 38; 2013, c. 24, ss. 126, 128
 
 
 
@@ -2396,7 +2396,7 @@ but does not include a person whose only sentence is a sentence being served int
 **120.1** 
 
 - **(1)** A person who is not serving a sentence and who receives more than one sentence on the same day is not eligible for full parole until the day on which they have served a period equal to the total of
-	- **(a)** the period of ineligibility in respect of any portion of the sentence constituted under subsection 139(1) that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
+	- **(a)** the period of ineligibility in respect of any portion of the sentence constituted under subsection 139(1) that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 226.2 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
 	- **(b)** the period of ineligibility in respect of any other portion of that sentence.
 
 **One or more additional consecutive sentences**
@@ -2410,7 +2410,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(3)** Despite subsection (2), if an offender who is serving a sentence or a sentence that was constituted under subsection 139(1) receives an additional sentence or two or more sentences that are to be served consecutively to a portion of the sentence they are serving when the additional sentence is imposed — or receives, on the same day, two or more additional sentences including a sentence to be served concurrently with the sentence being served and one or more sentences to be served consecutively to the additional concurrent sentence — they are not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, any remaining period of ineligibility to which they are subject and the longer of the following periods:
 	- **(a)** one third of the period that equals the difference between the length of the sentence that was constituted under subsection 139(1), including the additional sentence or sentences, and the length of the sentence that they are serving when the additional sentence is or sentences are imposed; or
 	- **(b)** the period of ineligibility of the additional sentence that is or sentences that are ordered to be served consecutively.
-> 1995, c. 42, s. 34; 1997, c. 17, s. 22(F); 2012, c. 1, s. 76
+> 1995, c. 42, s. 34; 1997, c. 17, s. 22(F); 2012, c. 1, s. 76; 2013, c. 24, s. 133
 
 
 
@@ -2423,7 +2423,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(1)** Subject to subsection (2), if an offender who is serving a sentence, or is serving a sentence that was constituted under subsection 139(1), receives an additional sentence that is to be served concurrently with the sentence they are serving when the additional sentence is imposed, they are not eligible for full parole until the day that is the later of
 	- **(a)** the day on which they have served the period of ineligibility in respect of the sentence they are serving when the additional sentence is imposed, and
 	- **(b)** the day on which they have served
-		- **(i)** the period of ineligibility in respect of any portion, of the sentence that includes the additional sentence as provided by subsection 139(1), that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
+		- **(i)** the period of ineligibility in respect of any portion, of the sentence that includes the additional sentence as provided by subsection 139(1), that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 226.2 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
 		- **(ii)** the period of ineligibility in respect of any other portion of that sentence.
 
 **One or more sentences in addition to life sentence**
@@ -2434,10 +2434,10 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Reduction of period of ineligibility for parole**
 
-- **(3)** If there has been a reduction — under section 745.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) — in the number of years of imprisonment without eligibility for parole of an offender referred to in subsection (2), the offender is not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, the total of the following periods:
+- **(3)** If there has been a reduction — under section 745.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) — in the number of years of imprisonment without eligibility for parole of an offender referred to in subsection (2), the offender is not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, the total of the following periods:
 	- **(a)** any remaining period of ineligibility to which they would have been subject after taking into account the reduction, and
 	- **(b)** the period of ineligibility in respect of the additional sentence or, in the case of two or more additional sentences, the period of ineligibility — determined in accordance with subsection (1) or section 120.1, as the case may be — in respect of the additional sentences.
-> 1995, c. 22, s. 18, c. 42, s. 34; 1997, c. 17, s. 23(F); 1998, c. 35, s. 113; 2000, c. 24, s. 39; 2012, c. 1, s. 76
+> 1995, c. 22, s. 18, c. 42, s. 34; 1997, c. 17, s. 23(F); 1998, c. 35, s. 113; 2000, c. 24, s. 39; 2012, c. 1, s. 76; 2013, c. 24, ss. 127, 128
 
 
 
@@ -2445,11 +2445,11 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Maximum period**
 
-**120.3** Subject to section 745 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), the day on which an offender is eligible for full parole shall not be later than
+**120.3** Subject to section 745 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), the day on which an offender is eligible for full parole shall not be later than
 - **(a)** in the case of a person who is not serving a sentence and receives more than one sentence on the same day, the day on which they have served 15 years from the day on which the sentences are imposed;
 - **(b)** in the case of an offender who is serving a sentence — or is serving a sentence that was constituted under subsection 139(1) — and who receives an additional sentence that changes the day on which they are eligible for parole, the day on which they have served 15 years from the day on which the additional sentence is imposed; and
 - **(c)** in the case of an offender who is serving a sentence — or is serving a sentence that was constituted under subsection 139(1) — and who receives, on the same day, two or more additional sentences that change the day on which they are eligible for parole, the day on which they have served 15 years from the day on which the additional sentences are imposed.
-> 1995, c. 22, s. 18, c. 42, s. 34; 1998, c. 35, s. 114; 2000, c. 24, s. 40; 2012, c. 1, s. 76
+> 1995, c. 22, s. 18, c. 42, s. 34; 1998, c. 35, s. 114; 2000, c. 24, s. 40; 2012, c. 1, s. 76; 2013, c. 24, s. 127
 
 
 
@@ -2459,7 +2459,7 @@ but does not include a person whose only sentence is a sentence being served int
 
 **121** 
 
-- **(1)** Subject to section 102 — and despite sections 119 to 120.3 of this Act, sections 746.1 and 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) and any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) — parole may be granted at any time to an offender
+- **(1)** Subject to section 102 — and despite sections 119 to 120.3 of this Act, sections 746.1 and 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 226.1(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) and any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 226.2 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) — parole may be granted at any time to an offender
 	- **(a)** who is terminally ill;
 	- **(b)** whose physical or mental health is likely to suffer serious damage if the offender continues to be held in confinement;
 	- **(c)** for whom continued confinement would constitute an excessive hardship that was not reasonably foreseeable at the time the offender was sentenced; or
@@ -2470,7 +2470,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(2)** Paragraphs (1)(b) to (d) do not apply to an offender who is
 	- **(a)** serving a life sentence imposed as a minimum punishment or commuted from a sentence of death; or
 	- **(b)** serving, in a penitentiary, a sentence for an indeterminate period.
-> 1992, c. 20, s. 121; 1995, c. 22, s. 13, c. 42, s. 35; 1998, c. 35, s. 115; 1999, c. 18, s. 86; 2012, c. 1, s. 77
+> 1992, c. 20, s. 121; 1995, c. 22, s. 13, c. 42, s. 35; 1998, c. 35, s. 115; 1999, c. 18, s. 86; 2012, c. 1, s. 77; 2013, c. 24, ss. 128, 133
 
 
 
