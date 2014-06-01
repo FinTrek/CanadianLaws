@@ -334,7 +334,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8.2** 
 
-- **(1)** Dès réception de la copie d’une ordonnance transmise au titre du sous-alinéa 227.05(1)d)(iii) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes enregistre dans la banque de données les seuls renseignements suivants sur l’intéressé :
+- **(1)** Dès réception de la copie d’une ordonnance transmise au titre du sous-alinéa 227.05(1)d)(iii) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes enregistre dans la banque de données les seuls renseignements suivants sur l’intéressé :
 	- **a)** ses nom et prénom;
 	- **b)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md);
 	- **c)** toute infraction visée par l’ordonnance;
@@ -346,7 +346,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(2)** Dès réception d’un double de l’affidavit et de l’avis transmis en application du paragraphe 227.08(4) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes enregistre dans la banque de données les seuls renseignements suivants sur l’intéressé :
+- **(2)** Dès réception d’un double de l’affidavit et de l’avis transmis en application du paragraphe 227.08(4) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes enregistre dans la banque de données les seuls renseignements suivants sur l’intéressé :
 	- **a)** ses nom et prénom;
 	- **b)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md);
 	- **c)** la date de la signification de l’avis;
@@ -359,26 +359,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(3)** Dès réception de l’avis transmis en application des paragraphes 227.04(3), 227.13(3) et 240.5(3) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes enregistre dans la banque de données le fait qu’une ordonnance de révocation ou d’extinction, selon le cas, a été rendue.
+- **(3)** Dès réception de l’avis transmis en application des paragraphes 227.04(3), 227.13(3) et 240.5(3) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes enregistre dans la banque de données le fait qu’une ordonnance de révocation ou d’extinction, selon le cas, a été rendue.
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(4)** Le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes peut enregistrer dans la banque de données le fait qu’une personne a fait une demande de dispense en vertu de l’article 227.1 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+- **(4)** Le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes peut enregistrer dans la banque de données le fait qu’une personne a fait une demande de dispense en vertu de l’article 227.1 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(5)** Dès réception de l’avis transmis en application de l’article 227.11 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes enregistre dans la banque de données le fait que la cour martiale ou la Cour d’appel de la cour martiale, selon le cas, n’a pas accordé ou a annulé la dispense visée au paragraphe 227.1(4) de cette loi ou a rejeté l’appel de l’intéressé.
+- **(5)** Dès réception de l’avis transmis en application de l’article 227.11 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes enregistre dans la banque de données le fait que la cour martiale ou la Cour d’appel de la cour martiale, selon le cas, n’a pas accordé ou a annulé la dispense visée au paragraphe 227.1(4) de cette loi ou a rejeté l’appel de l’intéressé.
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(6)** Dans le cas où le délinquant sexuel a été poursuivi en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes peut enregistrer dans la banque de données les renseignements suivants :
+- **(6)** Dans le cas où le délinquant sexuel a été poursuivi en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes peut enregistrer dans la banque de données les renseignements suivants :
 	- **a)** la date à partir de laquelle le délinquant sexuel purge la partie privative de liberté de sa peine pour l’infraction, ou est détenu;
 	- **b)** les dates prévues ou réelles de toute absence provisoire du délinquant sexuel d’une prison militaire ou d’une caserne disciplinaire — au sens du paragraphe 2(1) de cette loi — et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
 	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(7)** Le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes enregistre sans délai dans la banque de données :
+- **(7)** Le préposé à l’enregistrement pour le compte du grand prévôt des Forces canadiennes enregistre sans délai dans la banque de données :
 	- **a)** le fait qu’une personne est visée par une décision prise en vertu du paragraphe 227.15(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), les effets de cette décision à l’égard de cette personne, la date à laquelle commence la suspension des délais, des instances ou des obligations et la date à laquelle cesse cette suspension;
 	- **b)** le fait qu’une personne est visée par une décision prise en vertu du paragraphe 227.16(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et la date de la décision;
 	- **c)** le fait qu’une personne est visée ou n’est plus visée par un règlement pris en vertu des alinéas 227.2a) ou e) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
@@ -388,7 +388,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(8)** Il incombe au préposé à l’enregistrement :
 	- **a)** de veiller à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
 	- **b)** de transmettre, sur demande, au délinquant sexuel ou à la personne ayant reçu signification de l’avis prévu à l’article 227.08 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), par courrier recommandé, sans frais et sans délai après l’enregistrement des renseignements au titre des paragraphes (2) à (7), une copie de la transcription de tous les renseignements les concernant qui sont enregistrés dans la banque de données.
-> 2007, ch. 5, art. 41; 2010, ch. 17, art. 40.
+> 2007, ch. 5, art. 41; 2010, ch. 17, art. 40; 2013, ch. 24, art. 130(F).
 
 
 
@@ -447,14 +447,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande de correction**
 
-- **(2)** La demande est présentée au prévôt des Forces canadiennes si elle vise des renseignements enregistrés dans la banque de données au titre de l’article 8.2.
+- **(2)** La demande est présentée au grand prévôt des Forces canadiennes si elle vise des renseignements enregistrés dans la banque de données au titre de l’article 8.2.
 
 **Correction ou mention**
 
 - **(3)** Le destinataire de la demande veille sans délai :
 	- **a)** à ce que la correction soit effectuée, s’il est convaincu que le renseignement est erroné ou incomplet;
 	- **b)** à ce qu’il soit fait mention dans la banque de données, avec le renseignement visé, des corrections demandées mais non effectuées.
-> 2004, ch. 10, art. 12; 2007, ch. 5, art. 44.
+> 2004, ch. 10, art. 12; 2007, ch. 5, art. 44; 2013, ch. 24, art. 130(F).
 
 
 
