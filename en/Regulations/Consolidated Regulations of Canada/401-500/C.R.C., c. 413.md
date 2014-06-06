@@ -20,6 +20,8 @@ Enabling authorities:
 
 
 ## Interpretation
+> [SOR/2014-149, s. 1(F)]
+
 
 
 **2** In these Regulations,
@@ -54,11 +56,11 @@ Enabling authorities:
 
 ***NAFO*** means the Northwest Atlantic Fisheries Organization; (*OPAN*)
 
+***NAFO Convention*** means the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries; (*Convention de l’OPAN*)
+
 ***NAFO Measures*** means the Conservation and Enforcement Measures adopted by NAFO, as amended from time to time; (*mesures de l’OPAN*)
 
-***observer*** means
-- **(a)** for the purposes of sections 37 and 38, a person placed on board a fishing vessel of a participating state pursuant to Measure VI.A of the NAFO Measures, or
-- **(b)** for any other purpose, a person who is designated as such by a Regional Director-General and is in possession of an identification card indicating that designation; (*observateur*)
+***observer*** means a person who is designated as an observer by a Regional Director-General and is in possession of an identification card indicating that designation; (*observateur*)
 
 ***permit***[Repealed, SOR/85-527, s. 1]
 
@@ -79,7 +81,7 @@ Enabling authorities:
 ***sport fishing*** means fishing for pleasure and not for sale or barter; (*pêche sportive*)
 
 ***Subarea*** has the same meaning as the Atlantic Fishery Regulations. (*sous-zone*) 
-> SOR/79-713, s. 1; SOR/81-729, s. 1; SOR/83-264, s. 1; SOR/85-527, s. 1; SOR/86-939, s. 1(E); SOR/94-362, ss. 1, 4(F), 7(F); SOR/99-313, s. 1; SOR/2004-110, s. 1.
+> SOR/79-713, s. 1; SOR/81-729, s. 1; SOR/83-264, s. 1; SOR/85-527, s. 1; SOR/86-939, s. 1(E); SOR/94-362, ss. 1, 4(F), 7(F); SOR/99-313, s. 1; SOR/2004-110, s. 1; SOR/2014-149, s. 2.
 
 
 
@@ -106,7 +108,7 @@ Enabling authorities:
 
 - **(1)** The Minister may, on receipt of an application for a licence, issue a licence authorizing
 	- **(a)** a foreign fishing vessel and its crew to enter Canadian fisheries waters for any of the following purposes:
-		- **(i)** to engage in commercial fishing or fishing for purposes of scientific research,
+		- **(i)** to engage in commercial fishing,
 		- **(ii)** to tranship or take on board any fish, outfit or supplies while at sea,
 		- **(iii)** to process fish at sea,
 		- **(iv)** to transport fish from fishing grounds,
@@ -124,7 +126,8 @@ Enabling authorities:
 		- **(iv)** Laredo Channel bounded on the south by a straight line from Tildesley Point on Aristazabal Island to Dallain Point on Princess Royal Island and bounded on the north by a straight line from Ulric Point on Aristazabal Island to McPhee Point on Princess Royal Island,
 		- **(v)** Princess Royal Channel bounded on the south by a straight line from Quarry Point on Princess Royal Island to Netherby Point on the mainland of British Columbia and bounded on the north by a straight line from Nelly Point on Princess Royal Island to Point Cumming on Gribbell Island,
 		- **(vi)** Principe Channel bounded on the south by a straight line from Deer Point on Banks Island to Ring Point on Pitt Island and bounded on the north by a straight line true west from Keswar Point on McCauley Island to the shore of Banks Island, and
-		- **(vii)** Grenville Channel bounded on the south by a straight line from Yolk Point on Farrant Island to Sainty Point on the mainland of British Columbia and bounded on the north by a straight line from Rippon Point on Pitt Island to Buckley Point on the mainland of British Columbia.
+		- **(vii)** Grenville Channel bounded on the south by a straight line from Yolk Point on Farrant Island to Sainty Point on the mainland of British Columbia and bounded on the north by a straight line from Rippon Point on Pitt Island to Buckley Point on the mainland of British Columbia; and
+	- **(c)** a foreign fishing vessel and its crew to enter Canadian fisheries waters to engage in fishing for purposes of scientific research or any activity described in any of subparagraphs (a)(ii) to (xi) or subsection (1.1) that relates to the scientific research.
 
 - **(1.1)** The Minister may, on receipt of an application for a licence, issue a licence authorizing a foreign fishing vessel and its crew to enter Canadian fisheries waters for any of the following purposes:
 	- **(a)** to provide supplies to a Canadian fishing vessel or a foreign fishing vessel while it is at sea; and
@@ -154,7 +157,7 @@ Enabling authorities:
 - **(3)** The licence fees for foreign fishing vessels shall be paid within 45 days from the date of billing.
 
 - **(4)** The Minister may, at the request of the master of a foreign fishing vessel that is in Canadian fisheries waters in the circumstances referred to in section 14 or 15, issue a licence authorizing that vessel and its crew to engage in all or any of the activities described in subparagraphs (1)(a)(vi) to (xi) and paragraph (1)(b).
-> SOR/78-447, s. 1; SOR/78-795, s. 1; SOR/79-138, s. 1; SOR/79-713, s. 4; SOR/80-186, s. 1; SOR/85-527, s. 3; SOR/86-939, s. 2; SOR/94-362, ss. 4(F), 5(F); SOR/94-444, s. 1; SOR/95-261, s. 1; SOR/95-356, s. 1; SOR/96-309, s. 1; SOR/98-410, s. 1; SOR/99-474, s. 1; SOR/2000-36, s. 1; SOR/2001-204, s. 1; SOR/2003-391, s. 1.
+> SOR/78-447, s. 1; SOR/78-795, s. 1; SOR/79-138, s. 1; SOR/79-713, s. 4; SOR/80-186, s. 1; SOR/85-527, s. 3; SOR/86-939, s. 2; SOR/94-362, ss. 4(F), 5(F); SOR/94-444, s. 1; SOR/95-261, s. 1; SOR/95-356, s. 1; SOR/96-309, s. 1; SOR/98-410, s. 1; SOR/99-474, s. 1; SOR/2000-36, s. 1; SOR/2001-204, s. 1; SOR/2003-391, s. 1; SOR/2014-149, s. 3.
 
 
 
@@ -494,8 +497,8 @@ amend any provision set out in the licence.
 ## Use of Force
 
 
-**19.3** A protection officer may use force under section 8.1 of the Act only where the protection officer is proceeding lawfully and in accordance with the manner set out in sections 19.4 and 19.5 to arrest the master or other person in command of a foreign fishing vessel for the commission of an offence under section 3, paragraph 4(1)(a) or section 5.2 of the Act or of an offence set out in subparagraph 17(a)(ii) of the Act.
-> SOR/94-362, s. 2.
+**19.3** A protection officer may use force under section 8.1 of the Act only if the protection officer is proceeding lawfully and in accordance with the manner set out in sections 19.4 and 19.5 to arrest the master or other person in command of a foreign fishing vessel for the commission of an offence under section 3, paragraph 4(1)(a) or section 5.2 or 5.5 of the Act or of an offence set out in subparagraph 17(1)(a)(ii) of the Act.
+> SOR/94-362, s. 2; SOR/2014-149, s. 4.
 
 
 
@@ -749,27 +752,7 @@ amend any provision set out in the licence.
 </tr>
 <tr>
 <td>1</td>
-<td>Belize</td>
-</tr>
-<tr>
-<td>2</td>
 <td>Cayman Islands</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Honduras</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Panama</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Saint-Vincent and the Grenadines</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Sierra Leone</td>
 </tr>
 </table>
 
@@ -879,7 +862,7 @@ amend any provision set out in the licence.
 </tr>
 </table>
 
-> SOR/94-362, s. 3; SOR/95-136, s. 2; SOR/95-222, s. 1; SOR/99-313, s. 3.
+> SOR/94-362, s. 3; SOR/95-136, s. 2; SOR/95-222, s. 1; SOR/99-313, s. 3; SOR/2014-149, s. 5.
 
 
 
@@ -912,284 +895,85 @@ amend any provision set out in the licence.
 
 
 
-**24** Subject to section 25, sections 26 to 38 apply to fishing vessels of a participating state that are engaged in fishing in the NAFO Regulatory Area for a straddling stock set out in Table I or II to section 21.
-> SOR/99-313, s. 4.
-
-
-
-
-**25** A provision of these Regulations that is set out in column 1 of an item of the table to this section does not apply in respect of a fishing vessel of a participating state that, by virtue of Article XII of the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, is not bound by the provision of the NAFO Measures that is set out in column 2.
-#### TABLE
-<table>
-<tr>
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-</tr>
-<tr>
-<th>Item</th>
-<th>Provision of these Regulations</th>
-<th>Provision of the NAFO Measures</th>
-</tr>
-<tr>
-<td>1</td>
-<td>subsection 27(1)</td>
-<td>paragraph 2 of Article 3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>subsection 27(2)</td>
-<td>Article 5</td>
-</tr>
-<tr>
-<td>3</td>
-<td>subsection 28(1)</td>
-<td>paragraph 3 of Article 3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>subsection 28(3)</td>
-<td>paragraph 5 of Article 3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>paragraph 29(a)</td>
-<td>paragraph 2 of Article 19</td>
-</tr>
-<tr>
-<td>6</td>
-<td>paragraph 29(b)</td>
-<td>paragraph 4 of Article 19</td>
-</tr>
-<tr>
-<td>7</td>
-<td>section 30</td>
-<td>paragraph 1 of Article 19</td>
-</tr>
-<tr>
-<td>8</td>
-<td>subsection 31(1)</td>
-<td>Annex I.A</td>
-</tr>
-<tr>
-<td>9</td>
-<td>paragraph 31(2)(a)</td>
-<td>paragraph 2 of Article 12</td>
-</tr>
-<tr>
-<td>10</td>
-<td>paragraph 31(2)(b)</td>
-<td>paragraph 1 of Article 12</td>
-</tr>
-<tr>
-<td>11</td>
-<td>paragraph 32(1)(a)</td>
-<td>paragraph 6a of Annex XIV</td>
-</tr>
-<tr>
-<td>12</td>
-<td>section 33</td>
-<td>paragraph 6 of Article 10</td>
-</tr>
-<tr>
-<td>13</td>
-<td>section 34</td>
-<td>Article 22</td>
-</tr>
-<tr>
-<td>14</td>
-<td>section 35</td>
-<td>paragraph 1h of Article 32</td>
-</tr>
-<tr>
-<td>15</td>
-<td>section 37</td>
-<td>paragraph 1j of Article 32</td>
-</tr>
-<tr>
-<td>16</td>
-<td>section 37.1</td>
-<td>paragraph 3 of Article 28</td>
-</tr>
-<tr>
-<td>17</td>
-<td>section 38</td>
-<td>paragraph 7 of Article 23</td>
-</tr>
-</table>
+**24** 
 
-> SOR/99-313, s. 4; SOR/2004-110, s. 3.
+- **(1)** A fishing vessel of a participating state may fish in the NAFO Regulatory Area for fish of a stock set out in Annex I.A or I.B of the NAFO Measures only if the participating state is a party to the NAFO Convention.
 
+- **(2)** Despite subsection (1), a fishing vessel of a participating state that is not a party to the NAFO Convention may fish in the NAFO Regulatory Area for the fish referred to in that subsection if the fishing is done under an arrangement that is consistent with the NAFO Measures.
+> SOR/99-313, s. 4; SOR/2014-149, s. 6.
 
 
 
-**26** Every fishing vessel of a participating state shall comply with the provision of the NAFO Measures that are set out in the table to this section, except those to which, by virtue of Article XII of the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, the participating state is not bound.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Provision of the NAFO Measures</th>
-</tr>
-<tr>
-<td>1</td>
-<td>paragraphs 2 to 6 of Article 9</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Article 11</td>
-</tr>
-<tr>
-<td>3</td>
-<td>paragraph 5 of Article 9</td>
-</tr>
-<tr>
-<td>4</td>
-<td>paragraph 1 of Article 10</td>
-</tr>
-<tr>
-<td>5</td>
-<td>paragraph 7 of Article 10</td>
-</tr>
-<tr>
-<td>6</td>
-<td>paragraph 5 of Article 9</td>
-</tr>
-</table>
 
-> SOR/99-313, s. 4; SOR/2004-110, s. 3.
+**25** [Repealed, SOR/2014-149, s. 6]
 
 
 
+**26** [Repealed, SOR/2014-149, s. 6]
 
-**26.1** Every master of a fishing vessel of a participating state shall not engage in a directed fishery within the meaning of paragraph 1 of Article 9 of the NAFO Measures for species for which a catch limit applies.
-> SOR/2004-110, s. 3.
 
 
+**26.1** [Repealed, SOR/2014-149, s. 6]
 
 
-**27** 
 
-- **(1)** Where in any calendar year a participating state notifies the Executive Secretary of NAFO of the date that it will close its fishery for a fish stock allocated to that state for that calendar year, no fishing vessel of that state shall, in any part of that calendar year after that date, engage in a directed fishery for fish of that stock.
+**27** [Repealed, SOR/2014-149, s. 6]
 
-- **(2)** Where in any calendar year a participating state closes its fishery in shrimp in Division 3M, as defined in Article 5 of the NAFO Measures, because it has exhausted its fishing days under that Article, no fishing vessel of that state shall, in any part of that calendar year after that date, engage in a directed fishery for shrimp in Division 3M.
-> SOR/99-313, s. 4; SOR/2004-110, s. 4.
 
 
+**28** [Repealed, SOR/2014-149, s. 6]
 
 
-**28** 
 
-- **(1)** Subject to subsection (2), no fishing vessel of a participating state that has not been allocated a quota of a particular stock set out in Annex I.A of the NAFO Measures shall fish for fish of that stock.
+**28.1** [Repealed, SOR/2014-149, s. 6]
 
-- **(2)** Subject to subsection (3), a fishing vessel of a participating state that is a contracting party to the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries and that has not been allocated a quota of a particular stock set out in Annex I.A of the NAFO Measures may fish for fish of that stock if
-	- **(a)** a quota for that stock has been allocated to “Others” in that Annex and the participating state has notified the Executive Secretary of NAFO that its vessels intend to fish for that stock;
-	- **(b)** the vessel is fishing, wholly or partly, a quota or shrimp fishing day allocated to another contracting party in accordance with
-		- **(i)** a transfer of the quota or shrimp fishing day to the participating state that has been authorized under the relevant NAFO process, or
-		- **(ii)** a chartering arrangement that meets the requirements of Article 14 of the NAFO Measures; or
-	- **(c)** the participating state is not bound by the quota set out in that Annex allocated for that stock by virtue of Article XII of that Convention.
 
-- **(3)** No fishing vessel referred to in subsection (2) shall fish for fish of a stock for which a quota has been allocated to “Others” more than seven days after the day the Executive Secretary of NAFO notifies the participating state that the quota for that fish stock has been reached.
-> SOR/99-313, s. 4; SOR/2004-110, s. 5.
 
+**29** [Repealed, SOR/2014-149, s. 6]
 
 
 
-**28.1** No fishing vessel of a participating state shall fish in the NAFO Regulatory Area for any stock set out in Annex II of the NAFO Measures unless it has a valid authorization to do so issued by the participating state.
-> SOR/2004-110, s. 6.
+**30** [Repealed, SOR/2014-149, s. 6]
 
 
 
+**31** [Repealed, SOR/2014-149, s. 6]
 
-**29** Every fishing vessel of a participating state shall
-- **(a)** maintain an accurate fishing logbook, in the manner specified in paragraphs 2 and 3 of Article 19 of the NAFO Measures; and
-- **(b)** either
-	- **(i)** maintain an accurate production logbook, in accordance with paragraph 4 of Article 19 of the NAFO Measures, or
-	- **(ii)** stow all processed catch in the hold separately by species and maintain an accurate stowage plan showing the location of the products in the hold.
-> SOR/99-313, s. 4; SOR/2004-110, s. 7.
 
 
+**31.1** [Repealed, SOR/2014-149, s. 6]
 
 
-**30** No fishing vessel of a participating state shall enter the NAFO Regulatory Area without having an accurate record in its fishing logbook of the amount of each species of fish on board at the time of entry.
-> SOR/99-313, s. 4.
 
+**32** [Repealed, SOR/2014-149, s. 6]
 
 
 
-**31** 
+**33** [Repealed, SOR/2014-149, s. 6]
 
-- **(1)** No fishing vessel of a participating state shall fish for shrimp in Division 3NO.
 
-- **(2)** No fishing vessel of a participating state shall fish for shrimp in Division 3L as defined in Article 6 of the NAFO Measures, unless the fishing takes place both
-	- **(a)** in the area in which fishing is permitted under paragraph 2 of Article 12 of the NAFO Measures; and
-	- **(b)** at a time when fishing is not prohibited by paragraph 1 of Article 12 of the NAFO Measures.
-> SOR/99-313, s. 4; SOR/2004-110, s. 8.
 
+**34** [Repealed, SOR/2014-149, s. 6]
 
 
 
-**31.1** No fishing vessel of a participating state shall fish for Atlantic cod or witch flounder in Division 3L.
-> SOR/2004-110, s. 8.
+**35** [Repealed, SOR/2014-149, s. 6]
 
 
 
+**36** [Repealed, SOR/2014-149, s. 6]
 
-**32** 
 
-- **(1)** No fishing vessel of a participating state shall
-	- **(a)** fish using a net that has meshes that do not meet the requirements of paragraph 6a of Annex XIV of the NAFO Measures;
-	- **(b)** except in the circumstances set out in paragraphs 3 and 4 of Article 10 of the NAFO Measures, when fishing for a particular species of fish, have on board a net with a mesh size smaller than that authorized for that species under paragraph 1 of that Article; or
-	- **(c)** except in the circumstances set out in paragraph 3 of Article 10 of the NAFO Measures, fish for a species of fish set out in paragraph 1 of that Article using a net having, in any part, meshes of a size less than that specified for that species in that paragraph 1, as measured wet after use by inserting into the meshes an appropriate gauge, described in Annex XIV of the NAFO Measures.
 
-- **(2)** If, by virtue of Article XII of the Convention on Future Multilateral Cooperation in the Northwest Atlantic Fisheries, a participating state is not bound by the minimum mesh size requirement set out in paragraph 1 of Article 10 of the NAFO Measures for a particular species of fish, paragraphs (1)(b) and (c) of this section do not apply to a fishing vessel of that participating state when fishing for that species of fish.
-> SOR/99-313, s. 4; SOR/2004-110, s. 9.
+**37** [Repealed, SOR/2014-149, s. 6]
 
 
 
+**37.1** [Repealed, SOR/2014-149, s. 6]
 
-**33** 
 
-- **(1)** No fishing vessel of a participating state shall fish for a species of fish, for which the NAFO Measures prescribe a minimum mesh size, with a net in which the mesh size in any part of the net, other than the underside of a trawl codend, is obstructed so as to diminish the size of the meshes.
 
-- **(2)** Subsection (1) does not apply where the vessel has attached a device described in Annex XV of the NAFO Measures to the upper side of the codend, provided that the device is attached in such a manner that it does not obstruct the meshes of the codend, including any extension used to lengthen that codend.
-> SOR/99-313, s. 4; SOR/2004-110, s. 10.
-
-
-
-
-**34** Every fishing vessel of a participating state shall comply with the catch communication requirements set out in Article 22 of the NAFO Measures.
-> SOR/99-313, s. 4; SOR/2004-110, s. 11.
-
-
-
-
-**35** No fishing vessel of a participating state shall interfere with a satellite tracking system on board the vessel.
-> SOR/99-313, s. 4.
-
-
-
-
-**36** [Repealed, SOR/2004-110, s. 12]
-
-
-
-**37** No fishing vessel of a participating state shall prevent an observer from carrying out his or her duties.
-> SOR/99-313, s. 4.
-
-
-
-
-**37.1** When an inspection vessel sends Signal SQ 3 to a fishing vessel of a participating state that has begun or is about to begin hauling its nets, the fishing vessel shall ensure that the nets are not hauled for a period of at least 30 minutes after the signal has been sent.
-> SOR/2004-110, s. 13.
-
-
-
-
-**38** A fishing vessel of a participating state that is carrying an observer shall
-- **(a)** provide suitable food and lodging for the observer while the observer remains on the vessel; and
-- **(b)** ensure that all necessary cooperation is extended to the observer to enable the observer to carry out his or her duties, including providing access to the retained catch and to catch that is intended to be discarded.
-> SOR/99-313, s. 4.
-
+**38** [Repealed, SOR/2014-149, s. 6]
 
 
 
@@ -1213,8 +997,8 @@ amend any provision set out in the licence.
 
 
 
-**41** Sections 25 to 38 and 40 are hereby designated as regulations the contravention of which is prohibited under paragraph 5.3(a) of the Act.
-> SOR/99-313, s. 4.
+**41** Sections 24 and 40 are designated as regulations whose contravention is prohibited under paragraph 5.3(a) of the Act.
+> SOR/99-313, s. 4; SOR/2014-149, s. 7.
 
 
 
@@ -1321,14 +1105,31 @@ amend any provision set out in the licence.
 
 
 
+## Implementation of the NAFO Measures
+
+
+**46.1** 
+
+- **(1)** A protection officer who is acting in the performance of their duties in relation to the NAFO Convention may exercise the enforcement powers set out in the NAFO Measures in the NAFO Regulatory Area with respect to
+	- **(a)** a foreign fishing vessel of a state party to the NAFO Convention;
+	- **(b)** a foreign fishing vessel that is authorized to fish in that Area under an arrangement that is consistent with the NAFO Measures; or
+	- **(c)** any other foreign fishing vessel, except a foreign fishing vessel of a state that is set out in Table III or IV to section 21, if the master of the vessel consents to the protection officer exercising those enforcement powers.
+
+- **(2)** The protection officer may exercise those enforcement powers in Canadian fisheries waters with respect to a foreign fishing vessel referred to in paragraph (1)(a) or (b).
+> SOR/2014-149, s. 8.
+
+
+
+
+
 ## Recovery of Costs
 
 
-**47** Where a fishing vessel of a participating state is seized and, following a further investigation in port, the protection officer continues to have reasonable grounds to believe an offence has been committed under any of sections 27 to 38 and 40, Her Majesty in right of Canada may recover
+**47** If a fishing vessel of a participating state is seized and, following a further investigation in port, the protection officer continues to have reasonable grounds to believe that an offence has been committed under section 24 or 40, Her Majesty in right of Canada may recover
 - **(a)** any reasonable costs incurred for berthage of the fishing vessel;
 - **(b)** any reasonable costs incurred for the security and maintenance of the fishing vessel; and
 - **(c)** any reasonable costs incurred for the repatriation of the crew of the fishing vessel.
-> SOR/99-313, s. 4.
+> SOR/99-313, s. 4; SOR/2014-149, s. 9.
 
 
 
@@ -1618,7 +1419,7 @@ amend any provision set out in the licence.
 </tr>
 <tr>
 <td>1</td>
-<td>Australia</td>
+<td>The Commonwealth of Australia</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1630,198 +1431,326 @@ amend any provision set out in the licence.
 </tr>
 <tr>
 <td>4</td>
-<td>Barbados</td>
+<td>The People’s Republic of Bangladesh</td>
 </tr>
 <tr>
 <td>5</td>
-<td>The Kingdom of Belgium</td>
+<td>Barbados</td>
 </tr>
 <tr>
 <td>6</td>
-<td>The Federal Republic of Brazil</td>
+<td>The Kingdom of Belgium</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Cook Islands</td>
+<td>Belize</td>
 </tr>
 <tr>
 <td>8</td>
-<td>The Republic of Costa Rica</td>
+<td>The Federative Republic of Brazil</td>
 </tr>
 <tr>
 <td>9</td>
-<td>The Republic of Cyprus</td>
+<td>The Republic of Bulgaria</td>
 </tr>
 <tr>
 <td>10</td>
-<td>The Kingdom of Denmark</td>
+<td>Cook Islands</td>
 </tr>
 <tr>
 <td>11</td>
-<td>The Kingdom of Denmark (in respect of the Faeroe Islands and Greenland)</td>
+<td>The Republic of Costa Rica</td>
 </tr>
 <tr>
 <td>12</td>
-<td>The European Community</td>
+<td>The Republic of Croatia</td>
 </tr>
 <tr>
 <td>13</td>
-<td>The Republic of Fiji</td>
+<td>The Republic of Cyprus</td>
 </tr>
 <tr>
 <td>14</td>
-<td>The Republic of Finland</td>
+<td>The Czech Republic</td>
 </tr>
 <tr>
 <td>15</td>
-<td>The French Republic</td>
+<td>The Kingdom of Denmark</td>
 </tr>
 <tr>
 <td>16</td>
-<td>The French Republic (in respect of Saint-Pierre and Miquelon)</td>
+<td>The Kingdom of Denmark (in respect of the Faeroe Islands and Greenland)</td>
 </tr>
 <tr>
 <td>17</td>
-<td>The Federal Republic of Germany</td>
+<td>The Republic of Estonia</td>
 </tr>
 <tr>
 <td>18</td>
-<td>The Hellenic Republic</td>
+<td>The European Union</td>
 </tr>
 <tr>
 <td>19</td>
-<td>The Republic of Iceland</td>
+<td>The Republic of Fiji</td>
 </tr>
 <tr>
 <td>20</td>
-<td>The Islamic Republic of Iran</td>
+<td>The Republic of Finland</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Ireland</td>
+<td>The French Republic</td>
 </tr>
 <tr>
 <td>22</td>
-<td>The Italian Republic</td>
+<td>The French Republic (in respect of Saint-Pierre and Miquelon)</td>
 </tr>
 <tr>
 <td>23</td>
-<td>The Grand Duchy of Luxembourg</td>
+<td>The Federal Republic of Germany</td>
 </tr>
 <tr>
 <td>24</td>
-<td>The Republic of Maldives</td>
+<td>The Republic of Guinea</td>
 </tr>
 <tr>
 <td>25</td>
-<td>The Republic of Malta</td>
+<td>The Hellenic Republic (Greece)</td>
 </tr>
 <tr>
 <td>26</td>
-<td>The Republic of the Marshall Islands</td>
+<td>The Republic of Hungary</td>
 </tr>
 <tr>
 <td>27</td>
-<td>The Republic of Mauritius</td>
+<td>The Republic of Iceland</td>
 </tr>
 <tr>
 <td>28</td>
-<td>The Federated States of Micronesia</td>
+<td>The Republic of India</td>
 </tr>
 <tr>
 <td>29</td>
-<td>The Principality of Monaco</td>
+<td>The Republic of Indonesia</td>
 </tr>
 <tr>
 <td>30</td>
-<td>The Republic of Namibia</td>
+<td>The Islamic Republic of Iran</td>
 </tr>
 <tr>
 <td>31</td>
-<td>The Republic of Nauru</td>
+<td>Ireland</td>
 </tr>
 <tr>
 <td>32</td>
-<td>The Kingdom of the Netherlands</td>
+<td>The Italian Republic</td>
 </tr>
 <tr>
 <td>33</td>
-<td>New Zealand</td>
+<td>Japan</td>
 </tr>
 <tr>
 <td>34</td>
-<td>The Kingdom of Norway</td>
+<td>The Republic of Kenya</td>
 </tr>
 <tr>
 <td>35</td>
-<td>Papua New Guinea</td>
+<td>The Republic of Kiribati</td>
 </tr>
 <tr>
 <td>36</td>
-<td>The Portuguese Republic</td>
+<td>The Republic of Korea</td>
 </tr>
 <tr>
 <td>37</td>
-<td>The Russian Federation</td>
+<td>The Republic of Latvia</td>
 </tr>
 <tr>
 <td>38</td>
-<td>Saint Lucia</td>
+<td>The Republic of Liberia</td>
 </tr>
 <tr>
 <td>39</td>
-<td>The Independent State of Samoa</td>
+<td>The Republic of Lithuania</td>
 </tr>
 <tr>
 <td>40</td>
-<td>The Republic of Senegal</td>
+<td>The Grand Duchy of Luxembourg</td>
 </tr>
 <tr>
 <td>41</td>
-<td>The Republic of Seychelles</td>
+<td>The Republic of Maldives</td>
 </tr>
 <tr>
 <td>42</td>
-<td>Solomon Islands</td>
+<td>The Republic of Malta</td>
 </tr>
 <tr>
 <td>43</td>
-<td>The Kingdom of Spain</td>
+<td>The Republic of the Marshall Islands</td>
 </tr>
 <tr>
 <td>44</td>
-<td>The Democratic Socialist Republic of Sri Lanka</td>
+<td>The Republic of Mauritius</td>
 </tr>
 <tr>
 <td>45</td>
-<td>The Kingdom of Sweden</td>
+<td>The Federated States of Micronesia</td>
 </tr>
 <tr>
 <td>46</td>
-<td>The Kingdom of Tonga</td>
+<td>The Principality of Monaco</td>
 </tr>
 <tr>
 <td>47</td>
-<td>Ukraine</td>
+<td>The Kingdom of Morocco</td>
 </tr>
 <tr>
 <td>48</td>
-<td>The United Kingdom of Great Britain and Northern Ireland</td>
+<td>The Republic of Mozambique</td>
 </tr>
 <tr>
 <td>49</td>
-<td>The United Kingdom on behalf of Pitcairn, Henderson, Ducie and Oeno Islands, Falkland Islands, South Georgia and South Sandwich Islands, Bermuda, Turks and Caicos Islands, British Indian Ocean Territory, British Virgin Islands and Anguilla</td>
+<td>The Republic of Namibia</td>
 </tr>
 <tr>
 <td>50</td>
-<td>The United States</td>
+<td>The Republic of Nauru</td>
 </tr>
 <tr>
 <td>51</td>
-<td>The Eastern Republic of Uruguay</td>
+<td>The Kingdom of the Netherlands</td>
+</tr>
+<tr>
+<td>52</td>
+<td>New Zealand</td>
+</tr>
+<tr>
+<td>53</td>
+<td>The Federal Republic of Nigeria</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Niue</td>
+</tr>
+<tr>
+<td>55</td>
+<td>The Kingdom of Norway</td>
+</tr>
+<tr>
+<td>56</td>
+<td>The Sultanate of Oman</td>
+</tr>
+<tr>
+<td>57</td>
+<td>The Republic of Palau</td>
+</tr>
+<tr>
+<td>58</td>
+<td>The Republic of Panama</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Papua New Guinea</td>
+</tr>
+<tr>
+<td>60</td>
+<td>The Republic of Poland</td>
+</tr>
+<tr>
+<td>61</td>
+<td>The Portuguese Republic</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Romania</td>
+</tr>
+<tr>
+<td>63</td>
+<td>The Russian Federation</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Saint Lucia</td>
+</tr>
+<tr>
+<td>65</td>
+<td>Saint Vincent and the Grenadines</td>
+</tr>
+<tr>
+<td>66</td>
+<td>The Independent State of Samoa</td>
+</tr>
+<tr>
+<td>67</td>
+<td>The Republic of Senegal</td>
+</tr>
+<tr>
+<td>68</td>
+<td>The Republic of Seychelles</td>
+</tr>
+<tr>
+<td>69</td>
+<td>Slovak Republic</td>
+</tr>
+<tr>
+<td>70</td>
+<td>The Republic of Slovenia</td>
+</tr>
+<tr>
+<td>71</td>
+<td>Solomon Islands</td>
+</tr>
+<tr>
+<td>72</td>
+<td>The Republic of South Africa</td>
+</tr>
+<tr>
+<td>73</td>
+<td>The Kingdom of Spain</td>
+</tr>
+<tr>
+<td>74</td>
+<td>The Democratic Socialist Republic of Sri Lanka</td>
+</tr>
+<tr>
+<td>75</td>
+<td>The Kingdom of Sweden</td>
+</tr>
+<tr>
+<td>76</td>
+<td>The Kingdom of Tonga</td>
+</tr>
+<tr>
+<td>77</td>
+<td>The Republic of Trinidad and Tobago</td>
+</tr>
+<tr>
+<td>78</td>
+<td>Tuvalu</td>
+</tr>
+<tr>
+<td>79</td>
+<td>Ukraine</td>
+</tr>
+<tr>
+<td>80</td>
+<td>The United Kingdom of Great Britain and Northern Ireland</td>
+</tr>
+<tr>
+<td>81</td>
+<td>The United Kingdom on behalf of Pitcairn, Henderson, Ducie and Oeno Islands, Falkland Islands, South Georgia and South Sandwich Islands, Bermuda, Turks and Caicos Islands, British Indian Ocean Territory, British Virgin Islands and Anguilla</td>
+</tr>
+<tr>
+<td>82</td>
+<td>The United States of America</td>
+</tr>
+<tr>
+<td>83</td>
+<td>The Oriental Republic of Uruguay</td>
 </tr>
 </table>
 
-> SOR/99-313, s. 5; SOR/2004-110, s. 15.
+> SOR/99-313, s. 5; SOR/2004-110, s. 15; SOR/2014-149, s. 10.
 
 
