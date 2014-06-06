@@ -19,7 +19,9 @@ Autorités habilitantes :
 
 
 
-## Interprétation
+## Définitions
+> [DORS/2014-149, art. 1(F)]
+
 
 
 **2** Dans le présent règlement,
@@ -29,6 +31,8 @@ Autorités habilitantes :
 ***Code international de signaux*** Le Code international de signaux publié par le ministère des Transports. (*International Code of Signals*)
 
 ***convention CPAPN*** La Convention pour la conservation des stocks de poissons anadromes de l’océan Pacifique nord. (*CASPO Convention*)
+
+***Convention de l’OPAN*** La Convention sur la future coopération multilatérale dans les pêches de l’Atlantique nord-ouest. (*NAFO Convention*)
 
 ***directeur général régional*** désigne le directeur général du ministère des Pêches et des Océans pour la région du Pacifique, la région du Québec, la région du Golfe, la région de Terre-Neuve ou la région Scotia-Fundy, selon le cas; (*Regional Director-General*)
 
@@ -54,9 +58,7 @@ Autorités habilitantes :
 
 ***mesures de l’OPAN*** Les mesures intitulées Conservation and Enforcement Measures et adoptées par l’OPAN, compte tenu de leurs modifications successives. (*NAFO Measures*)
 
-***observateur*** Selon le cas :
-- **a)** pour l’application des articles 37 et 38, personne qui est placée à ce titre à bord d’un bateau de pêche d’un État assujetti à l’accord en application de la mesure de l’OPAN VI.A;
-- **b)** personne nommée à ce titre par le directeur général régional et détentrice d’une carte d’identité en faisant foi. (*observer*)
+***observateur*** Personne nommée à ce titre par le directeur général régional et détentrice d’une carte d’identité en faisant foi. (*observer*)
 
 ***OPAN*** L’Organisation des pêches de l’Atlantique nord-ouest. (*NAFO*)
 
@@ -79,7 +81,7 @@ Autorités habilitantes :
 ***traitement*** comprend le nettoyage, le filetage, la mise en tubes, la mise en glace, l’emballage, la mise en conserve, la congélation, le fumage, le salage, la cuisson, le saumurage, le séchage et toute autre façon de préparer le poisson pour sa mise en marché; (*processing*)
 
 ***Zone de pêche 4, Zone de pêche 5, Zone de pêche 6*** désigne les régions maritimes décrites comme étant la Zone de pêche 4 et la Zone de pêche 5 dans le [Décret sur les zones de pêche du Canada (Zones 4 et 5)](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201548.md) et la Zone de pêche 6 dans le [Décret sur les zones de pêche du Canada (Zone 6)](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201549.md). (*Fishing Zone 4*, *Fishing Zone 5* or *Fishing Zone 6*)
-> DORS/79-713, art. 1; DORS/81-729, art. 1; DORS/83-264, art. 1; DORS/85-527, art. 1; DORS/86-939, art. 1(A); DORS/94-362, art. 1, 4(F) et 7(F); DORS/99-313, art. 1; DORS/2004-110, art. 1.
+> DORS/79-713, art. 1; DORS/81-729, art. 1; DORS/83-264, art. 1; DORS/85-527, art. 1; DORS/86-939, art. 1(A); DORS/94-362, art. 1, 4(F) et 7(F); DORS/99-313, art. 1; DORS/2004-110, art. 1; DORS/2014-149, art. 2.
 
 
 
@@ -106,7 +108,7 @@ Autorités habilitantes :
 
 - **(1)** Le ministre peut, sur réception d’une demande, délivrer une licence autorisant
 	- **a)** un bateau de pêche étranger et les membres de son équipage à pénétrer dans les eaux de pêche canadiennes aux fins suivantes :
-		- **(i)** pratiquer la pêche commerciale ou pêcher à des fins de recherche scientifique,
+		- **(i)** pratiquer la pêche commerciale,
 		- **(ii)** transborder ou embarquer, en mer, du poisson, des agrès ou des fournitures,
 		- **(iii)** traiter le poisson en mer,
 		- **(iv)** transporter le poisson à partir des zones de pêche,
@@ -124,7 +126,8 @@ Autorités habilitantes :
 		- **(iv)** les eaux du chenal Laredo délimitées au sud par une ligne droite tirée de la pointe Tildesley, sur l’île Aristazabal, jusqu’à la pointe Dallain, sur l’île Princess Royal, et au nord par une ligne droite tirée de la pointe Ulric, sur l’île Aristazabal, jusqu’à la pointe McPhee, sur l’île Princess Royal,
 		- **(v)** les eaux du chenal Princess Royal délimitées au sud par une ligne droite tirée de la pointe Quarry, sur l’île Princess Royal, jusqu’à la pointe Netherby, sur la terre ferme de la Colombie-Britannique, et au nord par une ligne droite tirée de la pointe Nelly, sur l’île Princess Royal, jusqu’à la pointe Cumming, sur l’île Gribbell,
 		- **(vi)** les eaux du chenal Principe délimitées au sud par une ligne droite tirée de la pointe Deer, sur l’île Banks, jusqu’à la pointe Ring, sur l’île Pitt, et au nord par une ligne droite tirée franc ouest de la pointe Keswar, sur l’île McCauley, jusqu’au littoral de l’île Banks,
-		- **(vii)** les eaux du chenal Grenville délimitées au sud par une ligne droite tirée de la pointe Yolk, sur l’île Farrant, jusqu’à la pointe Sainty, sur la terre ferme de la Colombie-Britannique, et au nord par une ligne droite tirée de la pointe Rippon, sur l’île Pitt, jusqu’à la pointe Buckley, sur la terre ferme de la Colombie-Britannique.
+		- **(vii)** les eaux du chenal Grenville délimitées au sud par une ligne droite tirée de la pointe Yolk, sur l’île Farrant, jusqu’à la pointe Sainty, sur la terre ferme de la Colombie-Britannique, et au nord par une ligne droite tirée de la pointe Rippon, sur l’île Pitt, jusqu’à la pointe Buckley, sur la terre ferme de la Colombie-Britannique;
+	- **c)** un bateau de pêche étranger et les membres de son équipage à pénétrer dans les eaux de pêche canadiennes pour y pêcher à des fins de recherche scientifique ou pour y exercer toute activité visée aux sous-alinéas a)(ii) à (xi) et au paragraphe (1.1) et liée à la recherche scientifique.
 
 - **(1.1)** Le ministre peut, sur réception d’une demande, délivrer une licence autorisant un bateau de pêche étranger et les membres de son équipage à pénétrer dans les eaux de pêche canadiennes aux fins suivantes :
 	- **a)** apporter des fournitures à un bateau de pêche canadien ou à un bateau de pêche étranger qui sont en mer;
@@ -154,7 +157,7 @@ Autorités habilitantes :
 - **(3)** Les droits exigés pour la délivrance de la licence à un bateau de pêche étranger doivent être payés dans les 45 jours suivant la date de facturation.
 
 - **(4)** Le ministre peut, à la demande du capitaine d’un bateau de pêche étranger qui se trouve dans les eaux de pêche canadiennes dans les circonstances visées aux articles 14 ou 15, délivrer une licence pour autoriser ce bateau et les membres de son équipage à exercer toute activité visée aux sous-alinéas (1)a)(vi) à (xi) et à l’alinéa (1)b).
-> DORS/78-447, art. 1; DORS/78-795, art. 1; DORS/79-138, art. 1; DORS/79-713, art. 4; DORS/80-186, art. 1; DORS/85-527, art. 3; DORS/86-939, art. 2; DORS/94-362, art. 4(F) et 5(F); DORS/94-444, art. 1; DORS/95-261, art. 1; DORS/95-356, art. 1; DORS/96-309, art. 1; DORS/98-410, art. 1; DORS/99-474, art. 1; DORS/2000-36, art. 1; DORS/2001-204, art. 1; DORS/2003-391, art. 1.
+> DORS/78-447, art. 1; DORS/78-795, art. 1; DORS/79-138, art. 1; DORS/79-713, art. 4; DORS/80-186, art. 1; DORS/85-527, art. 3; DORS/86-939, art. 2; DORS/94-362, art. 4(F) et 5(F); DORS/94-444, art. 1; DORS/95-261, art. 1; DORS/95-356, art. 1; DORS/96-309, art. 1; DORS/98-410, art. 1; DORS/99-474, art. 1; DORS/2000-36, art. 1; DORS/2001-204, art. 1; DORS/2003-391, art. 1; DORS/2014-149, art. 3.
 
 
 
@@ -493,8 +496,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 ## Usage de la force
 
 
-**19.3** Le garde-pêche ne peut employer la force en application de l’article 8.1 de la Loi que lorsqu’il procède légalement et de la manière prévue aux articles 19.4 et 19.5 à l’arrestation du capitaine ou du responsable d’un bateau de pêche étranger à l’égard d’une infraction à l’article 3, à l’alinéa 4(1)a) ou à l’article 5.2 de la Loi ou d’une infraction visée au sous-alinéa 17a)(ii) de la Loi.
-> DORS/94-362, art. 2.
+**19.3** Le garde-pêche ne peut employer la force en application de l’article 8.1 de la Loi que lorsqu’il procède légalement et de la manière prévue aux articles 19.4 et 19.5 à l’arrestation du capitaine ou du responsable d’un bateau de pêche étranger à l’égard d’une infraction à l’article 3, à l’alinéa 4(1)a), aux articles 5.2 ou 5.5 ou au sous-alinéa 17(1)a)(ii) de la Loi.
+> DORS/94-362, art. 2; DORS/2014-149, art. 4.
 
 
 
@@ -537,7 +540,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 - **(2)** Pour l’application de l’article 5.2 de la Loi :
 	- **a)** constituent des stocks chevauchants :
-		- **(i)** dans la division 3L, la division 3N et la division 3O, les stocks de poissons mentionnés au tableau I du présent article,
+		- **(i)** dans la division 3L, la division 3N et la division 3O, les stocks de poissons figurant au tableau I du présent article,
 		- **(ii)** dans la division 3M, les stocks de poissons mentionnés au tableau II du présent article;
 	- **b)** les classes réglementaires de bateaux de pêche étrangers sont :
 		- **(i)** [Abrogé, DORS/99-313, art. 3]
@@ -748,27 +751,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 <tr>
 <td>1</td>
-<td>Belize</td>
-</tr>
-<tr>
-<td>2</td>
 <td>Îles Cayman</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Honduras</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Panama</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Saint-Vincent-et-Grenadines</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Sierra Leone</td>
 </tr>
 </table>
 
@@ -878,7 +861,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 </table>
 
-> DORS/94-362, art. 3; DORS/95-136, art. 2; DORS/95-222, art. 1; DORS/99-313, art. 3.
+> DORS/94-362, art. 3; DORS/95-136, art. 2; DORS/95-222, art. 1; DORS/99-313, art. 3; DORS/2014-149, art. 5.
 
 
 
@@ -911,284 +894,85 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-**24** Sous réserve de l’article 25, les articles 26 à 38 s’appliquent à tout bateau de pêche d’un État assujetti à l’accord qui pêche, dans la zone de réglementation de l’OPAN, des stocks chevauchants visés aux tableaux I ou II de l’article 21.
-> DORS/99-313, art. 4.
-
-
-
-
-**25** Les dispositions du présent règlement mentionnées à la colonne 1 du tableau du présent article ne s’appliquent pas aux bateaux de pêche d’un État assujetti à l’accord, lequel, en application de l’article XII de la Convention sur la future coopération multilatérale dans les pêches de l’Atlantique nord-ouest, n’est pas tenu de se conformer à la disposition des mesures de l’OPAN mentionnée à la colonne 2.
-#### TABLEAU
-<table>
-<tr>
-<th></th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Disposition du présent règlement</th>
-<th>Disposition des mesures de l’OPAN</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Paragraphe 27(1)</td>
-<td>Paragraphe 2 de l’article 3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Paragraphe 27(2)</td>
-<td>Article 5</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Paragraphe 28(1)</td>
-<td>Paragraphe 3 de l’article 3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Paragraphe 28(3)</td>
-<td>Paragraphe 5 de l’article 3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Alinéa 29a)</td>
-<td>Paragraphe 2 de l’article 19</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Alinéa 29b)</td>
-<td>Paragraphe 4 de l’article 19</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Article 30</td>
-<td>Paragraphe 1 de l’article 19</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Paragraphe 31(1)</td>
-<td>Annexe I.A</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Alinéa 31(2)a)</td>
-<td>Paragraphe 2 de l’article 12</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Alinéa 31(2)b)</td>
-<td>Paragraphe 1 de l’article 12</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Alinéa 32(1)a)</td>
-<td>Alinéa 6a de l’annexe XIV</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Article 33</td>
-<td>Paragraphe 6 de l’article 10</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Article 34</td>
-<td>Article 22</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Article 35</td>
-<td>Alinéa 1h de l’article 32</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Article 37</td>
-<td>Alinéa 1j de l’article 32</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Article 37.1</td>
-<td>Paragraphe 3 de l’article 28</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Article 38</td>
-<td>Paragraphe 7 de l’article 23</td>
-</tr>
-</table>
+**24** 
 
-> DORS/99-313, art. 4.; DORS/2004-110, art. 3.
+- **(1)** Un bateau de pêche d’un État assujetti à l’accord peut pêcher dans la zone de réglementation de l’OPAN les poissons d’un stock figurant aux annexes I.A ou I.B des mesures de l’OPAN à la condition que cet État soit partie à la Convention de l’OPAN.
 
+- **(2)** Malgré le paragraphe (1), un bateau de pêche d’un État assujetti à l’accord, mais non partie à la Convention de l’OPAN, peut pratiquer la pêche qui y est visée si celle-ci fait l’objet d’une entente conforme aux mesures de l’OPAN.
+> DORS/99-313, art. 4; DORS/2014-149, art. 6.
 
 
 
-**26** Les bateaux de pêche d’un État assujetti à l’accord doivent se conformer aux dispositions des mesures de l’OPAN mentionnées au tableau du présent article, sauf celles auxquelles, en application de l’article XII de la Convention sur la future coopération multilatérale dans les pêches de l’Atlantique nord-ouest, l’État n’est pas tenu de se conformer.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Disposition des mesures de l’OPAN</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Paragraphes 2 à 6 de l’article 9</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Article 11</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Paragraphe 5 de l’article 9</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Paragraphe 1 de l’article 10</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Paragraphe 7 de l’article 10</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Paragraphe 5 de l’article 9</td>
-</tr>
-</table>
 
-> DORS/99-313, art. 4; DORS/2004-110, art. 3.
+**25** [Abrogé, DORS/2014-149, art. 6]
 
 
 
+**26** [Abrogé, DORS/2014-149, art. 6]
 
-**26.1** Il est interdit à tout capitaine d’un bateau de pêche d’un État assujetti à l’accord de se livrer à une pêche sélective au sens du paragraphe 1 de l’article 9 des mesures de l’OPAN d’une espèce de poisson pour laquelle une limite de prise est prévue.
-> DORS/2004-110, art. 3.
 
 
+**26.1** [Abrogé, DORS/2014-149, art. 6]
 
 
-**27** 
 
-- **(1)** Lorsque, dans une année civile, un État assujetti à l’accord avise le secrétaire général de l’OPAN de la date à laquelle il cessera la pêche d’un stock de poissons qui lui a été attribué pour cette année, il est interdit à tout bateau de pêche de cet État de se livrer à la pêche sélective du poisson de ce stock pendant le reste de cette année.
+**27** [Abrogé, DORS/2014-149, art. 6]
 
-- **(2)** Lorsque, dans une année civile, un État assujetti à l’accord cesse sa pêche de crevettes dans la division 3M, au sens de l’article 5 des mesures de l’OPAN, parce qu’il a épuisé ses jours de pêche aux termes de cet article, il est interdit à tout bateau de pêche de cet État de se livrer à la pêche sélective de crevettes dans cette division pendant le reste de cette année.
-> DORS/99-313, art. 4; DORS/2004-110, art. 4.
 
 
+**28** [Abrogé, DORS/2014-149, art. 6]
 
 
-**28** 
 
-- **(1)** Sous réserve du paragraphe (2), il est interdit à tout bateau de pêche d’un État assujetti à l’accord auquel n’a pas été attribué de contingent pour un stock de poissons mentionné à l’annexe I.A des mesures de l’OPAN de pêcher le poisson de ce stock.
+**28.1** [Abrogé, DORS/2014-149, art. 6]
 
-- **(2)** Sous réserve du paragraphe (3), le bateau de pêche d’un État assujetti à l’accord qui est une partie contractante à la Convention sur la future coopération multilatérale dans les pêches de l’Atlantique nord-ouest et auquel n’a pas été attribué de contingent pour un stock particulier mentionné à l’annexe I.A des mesures de l’OPAN peut pêcher le poisson de ce stock à l’une ou l’autre des conditions suivantes :
-	- **a)** un contingent pour ce stock a été attribué à « Others » dans cette annexe et l’État a avisé le secrétaire général de l’OPAN de l’intention du bateau de pêche de se livrer à cette pêche;
-	- **b)** le bateau pêche, en tout ou en partie, un contingent ou un jour de pêche à la crevette attribués à une autre partie contractante conformément :
-		- **(i)** soit à un transfert de contingent ou de jour de pêche à la crevette à cet État, transfert qui a été autorisé en vertu de la procédure de l’OPAN applicable,
-		- **(ii)** soit à un accord d’affrètement conforme aux conditions de l’article 14 des mesures de l’OPAN;
-	- **c)** l’État assujetti à l’accord n’est pas tenu, en application de l’article XII de cette convention, au contingent prévu à cette annexe qui a été attribué pour ce stock.
 
-- **(3)** Il est interdit au bateau de pêche visé au paragraphe (2) de pêcher le poisson d’un stock pour lequel un contingent a été attribué à « Others » après le septième jour suivant celui où le secrétaire général de l’OPAN a avisé l’État assujetti à l’accord que le contingent a été atteint.
-> DORS/99-313, art. 4; DORS/2004-110, art. 5.
 
+**29** [Abrogé, DORS/2014-149, art. 6]
 
 
 
-**28.1** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pêcher dans la zone de réglementation de l’OPAN tout stock de poissons mentionné à l’annexe II des mesures de l’OPAN, à moins d’y être autorisé par cet État.
-> DORS/2004-110, art. 6.
+**30** [Abrogé, DORS/2014-149, art. 6]
 
 
 
+**31** [Abrogé, DORS/2014-149, art. 6]
 
-**29** Tout bateau de pêche d’un État assujetti à l’accord doit :
-- **a)** d’une part, tenir avec précision un journal de pêche en conformité avec les paragraphes 2 et 3 de l’article 19 des mesures de l’OPAN;
-- **b)** d’autre part :
-	- **(i)** soit tenir avec précision un journal de production en conformité avec le paragraphe 4 de l’article 19 des mesures de l’OPAN,
-	- **(ii)** soit répartir par espèces, dans la cale, le poisson transformé et tenir un plan de chargement indiquant avec précision l’endroit où chacune d’entre elles se trouve.
-> DORS/99-313, art. 4; DORS/2004-110, art. 7.
 
 
+**31.1** [Abrogé, DORS/2014-149, art. 6]
 
 
-**30** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pénétrer dans la zone de réglementation de l’OPAN à moins que, au moment de son entrée, le journal de pêche n’indique avec précision la quantité de poissons de chaque espèce à bord.
-> DORS/99-313, art. 4.
 
+**32** [Abrogé, DORS/2014-149, art. 6]
 
 
 
-**31** 
+**33** [Abrogé, DORS/2014-149, art. 6]
 
-- **(1)** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pêcher la crevette dans la division 3NO.
 
-- **(2)** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pêcher la crevette dans la division 3L au sens de l’article 6 des mesures de l’OPAN, sauf s’il le fait à la fois :
-	- **a)** dans la zone où le paragraphe 2 de l’article 12 des mesures de l’OPAN l’y autorise;
-	- **b)** durant une période où la pêche n’est pas interdite par le paragraphe 1 de l’article 12 des mesures de l’OPAN.
-> DORS/99-313, art. 4; DORS/2004-110, art. 8.
 
+**34** [Abrogé, DORS/2014-149, art. 6]
 
 
 
-**31.1** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pêcher la morue franche et la plie grise dans la division 3L.
-> DORS/2004-110, art. 8.
+**35** [Abrogé, DORS/2014-149, art. 6]
 
 
 
+**36** [Abrogé, DORS/2014-149, art. 6]
 
-**32** 
 
-- **(1)** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord :
-	- **a)** de pêcher au moyen d’un filet dont le maillage n’est pas conforme aux exigences prévues à l’alinéa 6a de l’annexe XIV des mesures de l’OPAN;
-	- **b)** sauf dans les cas prévus aux paragraphes 3 et 4 de l’article 10 des mesures de l’OPAN, d’avoir à bord, lorsqu’il pêche une espèce de poisson particulière, un filet dont le maillage est inférieur au maillage minimal autorisé pour cette espèce selon le paragraphe 1 de cet article;
-	- **c)** sauf dans les cas prévus au paragraphe 3 de l’article 10 des mesures de l’OPAN, de pêcher une espèce mentionnée au paragraphe 1 de cet article au moyen d’un filet dont le maillage en tout point est inférieur au maillage prévu au paragraphe 1 pour cette espèce, le maillage étant mesuré par insertion d’un calibre approprié dans les mailles lorsque le filet est mouillé, conformément à l’annexe XIV des mesures de l’OPAN.
 
-- **(2)** Les alinéas (1)b) et c) ne s’appliquent pas au bateau de pêche d’un État assujetti à l’accord lorsqu’il pêche une espèce particulière prévue au paragraphe 1 de l’article 10 des mesures de l’OPAN, si cet État n’est pas tenu au maillage minimal prévu à cet article pour cette espèce en application de l’article XII de la Convention sur la future coopération multilatérale dans les pêches de l’Atlantique nord-ouest.
-> DORS/99-313, art. 4; DORS/2004-110, art.9.
+**37** [Abrogé, DORS/2014-149, art. 6]
 
 
 
+**37.1** [Abrogé, DORS/2014-149, art. 6]
 
-**33** 
 
-- **(1)** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord de pêcher une espèce de poissons — pour laquelle les mesures de l’OPAN prévoient un maillage minimal — au moyen d’un filet dont le maillage, dans toute partie autre que la partie inférieure au cul de chalut, est obstrué de façon à réduire la dimension des mailles.
 
-- **(2)** Le paragraphe (1) ne s’applique pas au bateau de pêche qui a attaché un dispositif décrit à l’annexe XV des mesures de l’OPAN à la partie supérieure du cul de chalut, pourvu que le dispositif n’obstrue pas les mailles du cul de chalut, ni les rallonges.
-> DORS/99-313, art. 4; DORS/2004-110, art.10.
-
-
-
-
-**34** Tout bateau de pêche d’un État assujetti à l’accord doit se conformer aux exigences prévues à l’article 22 des mesures de l’OPAN concernant la communication des prises.
-> DORS/99-313, art. 4; DORS/2004-110, art. 11.
-
-
-
-
-**35** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord d’entraver le fonctionnement du système de localisation par satellite qui se trouve à son bord.
-> DORS/99-313, art. 4.
-
-
-
-
-**36** [Abrogé, DORS/2004-110, art. 12]
-
-
-
-**37** Il est interdit à tout bateau de pêche d’un État assujetti à l’accord d’empêcher l’observateur d’exercer ses fonctions.
-> DORS/99-313, art. 4.
-
-
-
-
-**37.1** Lorsqu’un bateau d’inspection envoie le signal SQ 3 au bateau de pêche d’un État assujetti à l’accord qui a commencé à haler ses filets ou qui est sur le point de le faire, le bateau de pêche veille à ce que les filets ne soient pas halés pour une période d’au moins trente minutes après l’envoi du signal.
-> DORS/2004-110, art. 13.
-
-
-
-
-**38** Tout bateau de pêche d’un État assujetti à l’accord ayant un observateur à bord doit :
-- **a)** fournir à celui-ci les repas et l’hébergement convenables pour la durée de son séjour à bord;
-- **b)** veiller à ce qu’il reçoive toute l’aide nécessaire à l’exercice de ses fonctions, notamment en lui donnant accès aux prises gardées ou à rejeter.
-> DORS/99-313, art. 4.
-
+**38** [Abrogé, DORS/2014-149, art. 6]
 
 
 
@@ -1212,8 +996,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-**41** Les articles 25 à 38 et 40 sont des dispositions dont la contravention est interdite par l’alinéa 5.3a) de la Loi.
-> DORS/99-313, art. 4.
+**41** Pour l’application de l’alinéa 5.3a) de la Loi, sont désignés les articles 24 et 40.
+> DORS/99-313, art. 4; DORS/2014-149, art. 7.
 
 
 
@@ -1320,14 +1104,31 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
+## Mise en oeuvre des mesures de l’OPAN
+
+
+**46.1** 
+
+- **(1)** Le garde-pêche, agissant dans l’exercice de ses fonctions en application de la Convention de l’OPAN, peut exercer les pouvoirs de contrôle qui lui sont conférés au titre des mesures de l’OPAN dans la zone de réglementation de l’OPAN, à l’égard de tout :
+	- **a)** bateau de pêche étranger partie à cette convention;
+	- **b)** bateau de pêche étranger autorisé à pêcher dans cette zone en vertu d’une entente conforme aux mesures de l’OPAN;
+	- **c)** autre bateau de pêche étranger, à l’exception de celui d’un État visé aux tableaux III ou IV de l’article 21, à la condition qu’il ait l’autorisation du capitaine du bateau.
+
+- **(2)** Il peut exercer les mêmes pouvoirs dans les eaux de pêche canadiennes à l’égard de tout bateau de pêche visé aux alinéas (1)a) ou b).
+> DORS/2014-149, art. 8.
+
+
+
+
+
 ## Recouvrement des frais
 
 
-**47** Lorsqu’un bateau de pêche d’un État assujetti à l’accord est saisi et que, après avoir mené une enquête plus poussée au port, le garde-pêche continue d’avoir des motifs raisonnables de croire à la perpétration d’une infraction prévue à l’un des articles 27 à 38 et 40, les frais suivants constituent des créances de Sa Majesté du chef du Canada :
+**47** Lorsqu’un bateau de pêche d’un État assujetti à l’accord est saisi et que, après avoir mené une enquête plus poussée au port, le garde-pêche continue d’avoir des motifs raisonnables de croire à la perpétration d’une infraction prévue aux articles 24 ou 40, les frais ci-après constituent des créances de Sa Majesté du chef du Canada :
 - **a)** les frais raisonnablement exposés pour l’accostage du bateau;
 - **b)** les frais raisonnablement exposés pour assurer la sécurité et l’entretien du bateau;
 - **c)** les frais raisonnablement exposés pour le rapatriement des membres de l’équipage du bateau.
-> DORS/99-313, art. 4.
+> DORS/99-313, art. 4; DORS/2014-149, art. 9.
 
 
 
@@ -1615,7 +1416,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 <tr>
 <td>1</td>
-<td>L’Australie</td>
+<td>Le Commonwealth d’Australie</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1627,198 +1428,326 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 <tr>
 <td>4</td>
-<td>La Barbade</td>
+<td>La République populaire du Bangladesh</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Le Royaume de Belgique</td>
+<td>La Barbade</td>
 </tr>
 <tr>
 <td>6</td>
-<td>La République fédérative du Brésil</td>
+<td>Le Royaume de Belgique</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Les Îles Cook</td>
+<td>Le Belize</td>
 </tr>
 <tr>
 <td>8</td>
-<td>La République du Costa Rica</td>
+<td>La République fédérative du Brésil</td>
 </tr>
 <tr>
 <td>9</td>
-<td>La République de Chypre</td>
+<td>La République de Bulgarie</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Le Royaume du Danemark</td>
+<td>Les îles Cook</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Le Royaume du Danemark (à l’égard des îles Féroé et du Groenland)</td>
+<td>La République du Costa Rica</td>
 </tr>
 <tr>
 <td>12</td>
-<td>La Communauté européenne</td>
+<td>La République de Croatie</td>
 </tr>
 <tr>
 <td>13</td>
-<td>La République des Fidji</td>
+<td>La République de Chypre</td>
 </tr>
 <tr>
 <td>14</td>
-<td>La République de Finlande</td>
+<td>La République tchèque</td>
 </tr>
 <tr>
 <td>15</td>
-<td>La République française</td>
+<td>Le Royaume du Danemark</td>
 </tr>
 <tr>
 <td>16</td>
-<td>La République française (à l’égard de Saint-Pierre-et-Miquelon)</td>
+<td>Le Royaume du Danemark (à l’égard des îles Féroé et du Groenland)</td>
 </tr>
 <tr>
 <td>17</td>
-<td>La République fédérale d’Allemagne</td>
+<td>La République d’Estonie</td>
 </tr>
 <tr>
 <td>18</td>
-<td>La République hellénique</td>
+<td>L’Union européenne</td>
 </tr>
 <tr>
 <td>19</td>
-<td>La République d’Islande</td>
+<td>La République des Fidji</td>
 </tr>
 <tr>
 <td>20</td>
-<td>La République islamique d’Iran</td>
+<td>La République de Finlande</td>
 </tr>
 <tr>
 <td>21</td>
-<td>L’Irlande</td>
+<td>La République française</td>
 </tr>
 <tr>
 <td>22</td>
-<td>La République italienne</td>
+<td>La République française (à l’égard de Saint-Pierre-et-Miquelon)</td>
 </tr>
 <tr>
 <td>23</td>
-<td>Le Grand-Duché de Luxembourg</td>
+<td>La République fédérale d’Allemagne</td>
 </tr>
 <tr>
 <td>24</td>
-<td>La République des Maldives</td>
+<td>La République de Guinée</td>
 </tr>
 <tr>
 <td>25</td>
-<td>La République de Malte</td>
+<td>La République hellénique (Grèce)</td>
 </tr>
 <tr>
 <td>26</td>
-<td>La République des Îles Marshall</td>
+<td>La République de Hongrie</td>
 </tr>
 <tr>
 <td>27</td>
-<td>La République de Maurice</td>
+<td>La République d’Islande</td>
 </tr>
 <tr>
 <td>28</td>
-<td>Les États fédérés de Micronésie</td>
+<td>La République de l’Inde</td>
 </tr>
 <tr>
 <td>29</td>
-<td>La Principauté de Monaco</td>
+<td>La République d’Indonésie</td>
 </tr>
 <tr>
 <td>30</td>
-<td>La République de Namibie</td>
+<td>La République islamique d’Iran</td>
 </tr>
 <tr>
 <td>31</td>
-<td>La République de Nauru</td>
+<td>L’Irlande</td>
 </tr>
 <tr>
 <td>32</td>
-<td>Le Royaume des Pays-Bas</td>
+<td>La République italienne</td>
 </tr>
 <tr>
 <td>33</td>
-<td>La Nouvelle-Zélande</td>
+<td>Le Japon</td>
 </tr>
 <tr>
 <td>34</td>
-<td>Le Royaume de Norvège</td>
+<td>La République du Kenya</td>
 </tr>
 <tr>
 <td>35</td>
-<td>La Papouasie-Nouvelle-Guinée</td>
+<td>La République de Kiribati</td>
 </tr>
 <tr>
 <td>36</td>
-<td>La République portugaise</td>
+<td>La République de Corée</td>
 </tr>
 <tr>
 <td>37</td>
-<td>La Fédération de Russie</td>
+<td>La République de Lettonie</td>
 </tr>
 <tr>
 <td>38</td>
-<td>Sainte-Lucie</td>
+<td>La République du Libéria</td>
 </tr>
 <tr>
 <td>39</td>
-<td>L’État indépendant du Samoa</td>
+<td>La République de Lituanie</td>
 </tr>
 <tr>
 <td>40</td>
-<td>La République du Sénégal</td>
+<td>Le Grand-Duché de Luxembourg</td>
 </tr>
 <tr>
 <td>41</td>
-<td>La République des Seychelles</td>
+<td>La République des Maldives</td>
 </tr>
 <tr>
 <td>42</td>
-<td>Les Îles Salomon</td>
+<td>La République de Malte</td>
 </tr>
 <tr>
 <td>43</td>
-<td>Le Royaume d’Espagne</td>
+<td>La République des Îles Marshall</td>
 </tr>
 <tr>
 <td>44</td>
-<td>La République socialiste démocratique de Sri Lanka</td>
+<td>La République de Maurice</td>
 </tr>
 <tr>
 <td>45</td>
-<td>Le Royaume de Suède</td>
+<td>Les États fédérés de Micronésie</td>
 </tr>
 <tr>
 <td>46</td>
-<td>Le Royaume des Tonga</td>
+<td>La Principauté de Monaco</td>
 </tr>
 <tr>
 <td>47</td>
-<td>L’Ukraine</td>
+<td>Le Royaume du Maroc</td>
 </tr>
 <tr>
 <td>48</td>
-<td>Le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord</td>
+<td>La République du Mozambique</td>
 </tr>
 <tr>
 <td>49</td>
-<td>Le Royaume-Uni au nom des Îles Pitcairn, Henderson, Ducie et Oeno, des Îles Malouines, de la Géorgie du Sud et des Îles Sandwich du Sud, des Bermudes, des Îles Turks et Caicos, du Territoire britannique de l’océan Indien, des Îles Vierges britanniques et d’Anguilla</td>
+<td>La République de Namibie</td>
 </tr>
 <tr>
 <td>50</td>
-<td>Les États-Unis</td>
+<td>La République de Nauru</td>
 </tr>
 <tr>
 <td>51</td>
+<td>Le Royaume des Pays-Bas</td>
+</tr>
+<tr>
+<td>52</td>
+<td>La Nouvelle-Zélande</td>
+</tr>
+<tr>
+<td>53</td>
+<td>La République fédérale du Nigeria</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Niue</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Le Royaume de Norvège</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Le Sultanat d’Oman</td>
+</tr>
+<tr>
+<td>57</td>
+<td>La République des Palaos</td>
+</tr>
+<tr>
+<td>58</td>
+<td>La République du Panama</td>
+</tr>
+<tr>
+<td>59</td>
+<td>La Papouasie-Nouvelle-Guinée</td>
+</tr>
+<tr>
+<td>60</td>
+<td>La République de Pologne</td>
+</tr>
+<tr>
+<td>61</td>
+<td>La République portugaise</td>
+</tr>
+<tr>
+<td>62</td>
+<td>La Roumanie</td>
+</tr>
+<tr>
+<td>63</td>
+<td>La Fédération de Russie</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Sainte-Lucie</td>
+</tr>
+<tr>
+<td>65</td>
+<td>Saint-Vincent-et-Grenadines</td>
+</tr>
+<tr>
+<td>66</td>
+<td>L’État indépendant du Samoa</td>
+</tr>
+<tr>
+<td>67</td>
+<td>La République du Sénégal</td>
+</tr>
+<tr>
+<td>68</td>
+<td>La République des Seychelles</td>
+</tr>
+<tr>
+<td>69</td>
+<td>La République slovaque</td>
+</tr>
+<tr>
+<td>70</td>
+<td>La République de Slovénie</td>
+</tr>
+<tr>
+<td>71</td>
+<td>Les Îles Salomon</td>
+</tr>
+<tr>
+<td>72</td>
+<td>La République sud-africaine</td>
+</tr>
+<tr>
+<td>73</td>
+<td>Le Royaume d’Espagne</td>
+</tr>
+<tr>
+<td>74</td>
+<td>La République socialiste démocratique de Sri Lanka</td>
+</tr>
+<tr>
+<td>75</td>
+<td>Le Royaume de Suède</td>
+</tr>
+<tr>
+<td>76</td>
+<td>Le Royaume des Tonga</td>
+</tr>
+<tr>
+<td>77</td>
+<td>La République de Trinité-et-Tobago</td>
+</tr>
+<tr>
+<td>78</td>
+<td>Tuvalu</td>
+</tr>
+<tr>
+<td>79</td>
+<td>L’Ukraine</td>
+</tr>
+<tr>
+<td>80</td>
+<td>Le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord</td>
+</tr>
+<tr>
+<td>81</td>
+<td>Le Royaume-Uni au nom des îles Pitcairn, Henderson, Ducie et Oeno, des îles Malouines, de la Géorgie du Sud et des îles Sandwich du Sud, des Bermudes, des îles Turks et Caicos, du Territoire britannique de l’océan Indien, des îles Vierges britanniques et d’Anguilla</td>
+</tr>
+<tr>
+<td>82</td>
+<td>Les États-Unis d’Amérique</td>
+</tr>
+<tr>
+<td>83</td>
 <td>La République orientale de l’Uruguay</td>
 </tr>
 </table>
 
-> DORS/99-313, art. 5; DORS/2004-110, art. 15.
+> DORS/99-313, art. 5; DORS/2004-110, art. 15; DORS/2014-149, art. 10.
 
 
