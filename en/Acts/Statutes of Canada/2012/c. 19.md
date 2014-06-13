@@ -2568,7 +2568,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind91A6_hq_12886'>[*]</a></sup>**426** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind91A6_hq_12886'><sup>*</sup></a>: [Note: Division 20 not in force.]<br />
+<a name='fn_Ind91A6_hq_12886'><sup>*</sup></a>: [Note: Division 20 in force June 13, 2014, *see* SI/2014-53.]<br />
 
 
 
