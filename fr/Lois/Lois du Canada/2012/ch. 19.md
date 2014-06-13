@@ -2568,7 +2568,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind604C_hq_12904'>[*]</a></sup>**426** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind604C_hq_12904'><sup>*</sup></a>: [Note : Section 20 non en vigueur.]<br />
+<a name='fn_Ind604C_hq_12904'><sup>*</sup></a>: [Note : Section 20 en vigueur le 13 juin 2014, *voir* TR/2014-53.]<br />
 
 
 
