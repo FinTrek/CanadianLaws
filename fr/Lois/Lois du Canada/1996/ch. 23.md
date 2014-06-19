@@ -4662,8 +4662,9 @@ Est exclu de la présente définition tout particulier visé par les règlements
 	- **a)** grossesse;
 	- **b)** soins à donner par le travailleur indépendant à son ou ses nouveau-nés ou à un ou plusieurs enfants placés chez celui-ci en vue de leur adoption;
 	- **c)** maladie, blessure ou mise en quarantaine prévue par règlement;
-	- **d)** soins ou soutien à donner à un ou plusieurs membres de sa famille.
-> 2009, ch. 33, art. 16.
+	- **d)** soins ou soutien à donner à un ou plusieurs membres de sa famille;
+	- **e)** soins ou soutien à donner par le travailleur indépendant à un ou plusieurs de ses enfants gravement malades.
+> 2009, ch. 33, art. 16; 2014, ch. 20, art. 249.
 
 
 
