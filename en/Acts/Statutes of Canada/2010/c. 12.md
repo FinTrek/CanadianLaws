@@ -2402,11 +2402,13 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 
 
-**Order in council**
+**Royal assent of [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md)**
 
-<sup><a href='#fn_Ind18F4_hq_9617'>[*]</a></sup>**1884** The provisions of this Part come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#fn_Ind18F4_hq_9617'>[*]</a></sup>**1884** The provisions of this Part, other than sections 1874 and 1875, are deemed to have come into force immediately before the day on which the [Economic Action Plan 2014 Act, No. 1](/en/Acts/Statutes%20of%20Canada/2014/c.%2020.md) receives royal assent.
 
-<a name='fn_Ind18F4_hq_9617'><sup>*</sup></a>: [Note: Sections 1874 and 1875 in force February 14, 2011, *see* SI/2011-13.]<br />
+<a name='fn_Ind18F4_hq_9617'><sup>*</sup></a>: [Note: Sections 1874 and 1875 in force February 14, 2011, *see* SI/2011-13; Part 14, other than sections 1874 and 1875, in force June 18, 2014.]<br />
+> 2010, c. 12, s. 1884; 2014, c. 20, s. 297.
+
 
 
 
