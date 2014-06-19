@@ -132,7 +132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence du ministre de l’Emploi et du Développement social**
 
-- **(2.1)** Le gouverneur en conseil peut, dans tout règlement pris en vertu des alinéas 32d.1) à d.3), conférer des attributions au ministre de l’Emploi et du Développement social.
+- **(2.1)** Le gouverneur en conseil peut, dans tout règlement pris en vertu des alinéas 32d.1) à d.4), conférer des attributions au ministre de l’Emploi et du Développement social.
 
 **Précisions du gouverneur en conseil**
 
@@ -143,7 +143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(4)** Tout décret pris pour l’application du paragraphe (3) est publié dans la partie II de la Gazette du Canada.
-> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701; 2013, ch. 16, art. 2, ch. 40, art. 238.
+> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701; 2013, ch. 16, art. 2, ch. 40, art. 238; 2014, ch. 20, art. 299.
 
 
 
@@ -1047,9 +1047,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d.1)** les conditions qui peuvent ou doivent être, quant à toute personne ou entité, notamment des employeurs et des établissements d’enseignement, imposées, modifiées ou levées, individuellement ou par catégorie, relativement aux résidents permanents et aux étrangers;
 - **d.2)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des conditions imposées en vertu des alinéas d) et d.1);
 - **d.3)** les conséquences du non-respect des conditions visées aux alinéas d) et d.1);
+- **d.4)** le régime de sanctions administratives pécuniaires applicable aux cas de non-respect par un employeur de toute condition visée à l’alinéa d.1) et le montant des pénalités imposées au titre de ce régime;
 - **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
 - **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
-> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37.
+> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37; 2014, ch. 20, art. 302.
 
 
 
@@ -2281,6 +2282,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Nul n’a de recours contre sa Majesté ni droit à une indemnité de sa part relativement à une demande à laquelle il est mis fin en vertu du paragraphe (1).
 > 2012, ch. 19, art. 707.
+
+
+
+
+
+#### Catégories fédérales des investisseurs et des entrepreneurs
+
+
+
+**Demandes pendantes**
+
+**87.5** 
+
+- **(1)** Il est mis fin à toute demande de visa de résident permanent faite au titre de la catégorie réglementaire des investisseurs ou de celle des entrepreneurs si, au 11 février 2014, un agent n’a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à la catégorie en cause.
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux demandes suivantes :
+	- **a)** celle à l’égard de laquelle une cour supérieure a rendu une décision finale, sauf dans les cas où celle-ci a été rendue le 11 février 2014 ou après cette date;
+	- **b)** celle faite par un investisseur ou un entrepreneur sélectionné à ce titre par une province ayant conclu un accord visé au paragraphe 9(1).
+
+**Effet**
+
+- **(3)** Le fait qu’il a été mis fin à une demande de visa de résident permanent par application du paragraphe (1) ne constitue pas un refus de délivrer le visa.
+
+**Remboursement de frais**
+
+- **(4)** Les frais versés au ministre à l’égard de la demande visée au paragraphe (1), notamment pour l’acquisition du statut de résident permanent, sont remboursés, sans intérêts, à la personne qui les a acquittés; ils peuvent être payés sur le Trésor.
+
+**Remboursement du placement**
+
+- **(5)** Une somme égale au placement fait par une personne à l’égard de sa demande de visa de résident permanent faite au titre de la catégorie réglementaire des investisseurs et à laquelle il est mis fin par application du paragraphe (1) lui est remboursée, sans intérêts; elle peut être payée sur le Trésor.
+
+**Quote-part provinciale**
+
+- **(6)** Si, à l’égard d’une demande de visa de résident permanent faite au titre de la catégorie réglementaire des investisseurs et à laquelle il est mis fin par application du paragraphe (1), une quote-part provinciale a été transférée à un fonds agréé, au sens du paragraphe 88(1) du [Règlement sur l’immigration et la protection des réfugiés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/227.md), la province dont le gouvernement contrôle le fonds retourne sans délai au ministre une somme équivalant à la quote-part provinciale, entraînant ainsi l’extinction du titre de créance à l’égard de celle-ci.
+
+**Absence de recours ou d’indemnité**
+
+- **(7)** Nul n’a de recours contre Sa Majesté du chef du Canada ni droit à une indemnité de sa part relativement à une demande à laquelle il est mis fin par application du paragraphe (1), notamment à l’égard de tout contrat ou autre forme d’entente qui a trait à la demande.
+> 2014, ch. 20, art. 303.
 
 
 
@@ -3567,6 +3609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Constitue une créance de Sa Majesté du chef du Canada payable sur demande :
 	- **a)** le montant supporté par celle-ci à la place de celui à qui il incombe aux termes de la présente loi;
 	- **b)** le montant qu’une personne s’est engagée à payer à titre de cautionnement ou en garantie de la bonne exécution de la présente loi;
+	- **b.1)** le montant de toute pénalité imposée au titre du règlement pris en vertu de l’alinéa 32d.4);
 	- **c)** le montant des frais engagés pour le renvoi d’un étranger visé par règlement;
 	- **d)** le montant exigible au titre de l’article 147 à compter du défaut;
 	- **e)** tout montant visé à l’alinéa 148(1)g).
@@ -3578,6 +3621,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Recouvrement**
 
 - **(3)** Le recouvrement de la créance n’est pas affecté par le seul écoulement du temps.
+> 2001, ch. 27, art. 145; 2014, ch. 20, art. 304.
+
 
 
 
@@ -3592,6 +3637,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le montant de tout ou partie d’une somme payable au titre de la présente loi et en souffrance peut être constaté par certificat du ministre sans délai, s’il est d’avis que le débiteur tente d’éluder le paiement, sinon, trente jours francs après le défaut.
 
+**Ministre de l’Emploi et du Développement social**
+
+- **(1.1)** Dans le cas où la pénalité est imposée en raison de l’exercice par le ministre de l’Emploi et du Développement social de toute attribution qui lui est conférée par règlement pris en vertu de l’alinéa 32d.4), ce ministre est chargé du recouvrement de la créance visée à l’alinéa 145(1)b.1).
+
 **Jugement**
 
 - **(2)** Le certificat est déposé et enregistré à la Cour fédérale et est dès lors assimilé à un jugement de cette juridiction pour une dette du montant qui y est spécifié, majoré des intérêts prévus par la présente loi jusqu’à la date du paiement.
@@ -3599,6 +3648,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Frais**
 
 - **(3)** Les frais engagés pour l’enregistrement sont recouvrables de la même manière que s’ils avaient été eux-mêmes constatés par le certificat.
+> 2001, ch. 27, art. 146; 2014, ch. 20, art. 305.
+
 
 
 
