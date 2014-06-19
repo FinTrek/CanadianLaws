@@ -788,6 +788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** établir des sceaux d’inspection et des noms de catégorie à l’égard d’un produit alimentaire et régir leur apposition ou leur utilisation;
 	- **d)** régir ou interdire la fabrication, le conditionnement, l’entreposage, l’emballage, l’étiquetage, la vente ou la publicité d’un produit alimentaire;
 	- **e)** régir ou interdire l’expédition ou le transport, d’une province à une autre, ou l’importation ou l’exportation d’un produit alimentaire;
+	- **e.1)** régir ou interdire l’achat ou la réception de fruits ou de légumes frais expédiés ou transportés, d’une province à une autre, ou importés;
 	- **f)** préciser les conditions permettant d’établir si l’activité est exercée uniquement pour usage personnel et prévoir les activités qui ne sont pas assujetties à l’article 19;
 	- **g)** régir des programmes de gestion ou de contrôle de la qualité, des programmes de salubrité, des plans de contrôle préventif ou d’autres programmes ou plans semblables à mettre en oeuvre par les personnes exerçant une activité régie par la présente loi;
 	- **h)** régir, relativement aux établissements où une activité régie par la présente loi est exercée, le matériel et les installations à utiliser, les méthodes à suivre et les normes à respecter pour le traitement et l’abattage sans cruauté des animaux;
@@ -822,6 +823,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les règlements pris en vertu de l’alinéa (1)e) peuvent notamment prévoir les exigences d’approbation préalable et de transit qui s’appliquent à un produit alimentaire importé ainsi qu’à toute chose importée avec lui.
 
+**Alinéas (1)d) à e.1)**
+
+- **(2.1)** Les règlements pris en vertu des alinéas (1)d), e) ou e.1) à l’égard des fruits ou des légumes frais peuvent notamment exiger qu’une personne soit membre d’une entité ou d’un organisme désignés par règlement.
+
 **Alinéa (1)m)**
 
 - **(3)** Les règlements pris en vertu de l’alinéa (1)m) peuvent notamment exiger des personnes exerçant une activité régie par la présente loi qui prennent connaissance du fait qu’un produit alimentaire présente un risque de préjudice à la santé humaine ou est susceptible d’en présenter un ou qu’il ne satisfait pas aux exigences des règlements qu’elles fournissent un avis écrit au ministre ou à l’inspecteur.
@@ -829,6 +834,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Alinéa (1)w)**
 
 - **(4)** Les règlements pris en vertu de l’alinéa (1)w) qui permettent au ministre d’accorder une exemption prévoient notamment que le ministre ne peut le faire que s’il est d’avis qu’aucun risque de préjudice à la santé humaine n’en résultera.
+> 2012, ch. 24, art. 51; 2014, ch. 20, art. 234.
+
 
 
 
@@ -930,122 +937,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**60** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-### Conseil d’arbitrage
 
 
+**61** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-#### Composition
 
 
+**62** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-**Prorogation du Conseil d’arbitrage**
 
-**60** 
 
-- **(1)** Est prorogé le Conseil d’arbitrage prorogé par le paragraphe 4(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+**63** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-**Composition**
 
-- **(2)** Le Conseil d’arbitrage est composé des membres, dont le président et le vice-président, nommés par le ministre.
 
+**64** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
 
 
-**Mandat**
+**65** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-**61** 
 
-- **(1)** Les membres occupent leur poste à titre inamovible pour un mandat maximal de cinq ans, sous réserve de révocation motivée prononcée par le ministre.
 
-**Nouveau mandat**
+**66** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
-- **(2)** Les membres peuvent recevoir un nouveau mandat, aux fonctions identiques ou non.
 
 
-
-
-**Absence ou empêchement**
-
-**62** En cas d’absence ou d’empêchement d’un membre, ou de vacance de son poste, le ministre peut confier les attributions du titulaire du poste à toute personne compétente. Le vice-président assure l’intérim de la présidence.
-
-
-
-
-#### Président
-
-
-
-**Fonctions du président**
-
-**63** Le président du Conseil d’arbitrage en est le premier dirigeant; à ce titre, il en assure la direction et répartit les tâches entre les membres.
-
-
-
-
-#### Indemnités et frais
-
-
-
-**Indemnités et frais**
-
-**64** Les membres du Conseil d’arbitrage, à l’exclusion de ceux qui font partie de l’administration publique fédérale, reçoivent les indemnités fixées par le Conseil du Trésor pour les journées ou fractions de journée pendant lesquelles ils exercent leurs attributions; cependant, tous sont indemnisés des frais de déplacement et de séjour entraînés par l’exercice de leurs attributions, conformément aux directives du Conseil du Trésor.
-
-
-
-
-#### Personnel
-
-
-
-**Personnel et installations**
-
-**65** Le ministre peut mettre à la disposition du Conseil d’arbitrage les cadres et agents de l’administration publique fédérale, les conseillers professionnels, ainsi que les installations nécessaires à son bon fonctionnement.
-
-
-
-
-#### Mission
-
-
-
-**Mission**
-
-**66** Le Conseil d’arbitrage est chargé d’instruire les plaintes pour inobservation de toute disposition de la présente loi ou des règlements précisée par les règlements pris en vertu de l’alinéa 67(1)a) ou pour manquement à toute obligation contractuelle précisée dans ces règlements concernant les produits alimentaires précisés dans ceux-ci.
-
-
-
-
-#### Règlements
-
-
-
-**Règlements**
-
-**67** 
-
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre des mesures pour permettre au Conseil d’arbitrage d’exercer ses activités et, notamment :
-	- **a)** préciser, pour l’application de l’article 66, des dispositions, des obligations et des produits alimentaires;
-	- **b)** préciser par qui et contre qui une plainte peut être déposée, ainsi que les modalités — notamment de temps — de dépôt;
-	- **c)** fixer son quorum;
-	- **d)** fixer le lieu de son siège;
-	- **e)** prévoir qu’il est une cour d’archives;
-	- **f)** prévoir qu’il a compétence exclusive pour instruire les plaintes visées à l’article 66;
-	- **g)** fixer ses attributions, notamment :
-		- **(i)** les attributions d’une cour supérieure d’archives pour la comparution, la prestation de serment et l’interrogatoire des témoins, la production et l’examen des documents et autres pièces, l’exécution de ses ordonnances et toutes autres questions relevant de sa compétence,
-		- **(ii)** l’obligation de traiter rapidement et sans formalité les questions dont il est saisi dans la mesure où les circonstances, l’équité et la justice naturelle le permettent,
-		- **(iii)** le pouvoir de contracter pour l’exercice de ses attributions,
-		- **(iv)** le pouvoir de siéger en tout lieu qui lui semble indiqué,
-		- **(v)** le pouvoir, avec l’approbation du gouverneur en conseil, d’établir des règles régissant l’exercice de ses activités et la pratique et la procédure de ses audiences,
-		- **(vi)** le pouvoir de rendre toute ordonnance qu’il estime indiquée pour réparer — y compris, sous forme d’indemnité et d’intérêts — le tort causé par l’inobservation ou le manquement,
-		- **(vii)** l’obligation de motiver ses décisions;
-	- **h)** prévoir qu’il n’est pas lié par les règles juridiques ou techniques applicables en matière de preuve;
-	- **i)** régir la révision de ses ordonnances;
-	- **j)** régir l’exécution de ses ordonnances, notamment leur enregistrement à la Cour fédérale.
-
-**Restriction — alinéa (1)h)**
-
-- **(2)** Les règlements pris en vertu de l’alinéa (1)h) ne peuvent permettre au conseil de recevoir ou d’admettre en preuve les éléments protégés par le droit de la preuve et rendus, de ce fait, inadmissibles en justice devant un tribunal judiciaire.
+**67** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 235]
 
 
 
