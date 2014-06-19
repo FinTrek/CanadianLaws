@@ -2203,22 +2203,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 
 
-
-### Publication des règlements
-
-
-
-**Publication des projets de règlement**
-
-**50** 
-
-- **(1)** Sous réserve du paragraphe (2), les projets de règlements fondés sur le paragraphe 7(1), l’article 7.1, le paragraphe 16(5.1) et les articles 18, 24, 37, 47 et 47.1 sont publiés dans la Gazette du Canada au moins quatre-vingt-dix jours avant la date envisagée pour leur entrée en vigueur, les intéressés se voyant accorder la possibilité de présenter au ministre, pendant ce délai, leurs observations à cet égard.
-
-**Exception**
-
-- **(2)** Ne sont pas visés les projets de règlement soit déjà publiés dans les conditions visées au paragraphe (1), qu’ils aient ou non été modifiés à la suite d’observations présentées conformément au même paragraphe, soit qui n’apportent pas de modification de fond à la réglementation en vigueur.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 50; 1999, ch. 9, art. 36; 2012, ch. 19, art. 485.
-
+**50** [Abrogé, 2014, ch. 20, art. 231]
 
 
 
