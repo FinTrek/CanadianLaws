@@ -5459,7 +5459,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Assemblée extraordinaire**
 
-- **(1.1)** Avant de faire la demande visée au paragraphe (1), le conseil d’administration de la société convoque une assemblée extraordinaire des souscripteurs admissibles pour obtenir :
+- **(1.1)** Avant de faire la demande visée au paragraphe (1), le conseil d’administration de la société convoque une assemblée extraordinaire des souscripteurs admissibles pour obtenir :
 	- **a)** l’approbation de la proposition de transformation;
 	- **b)** la confirmation de tout règlement administratif — ou de toute modification ou révocation d’un règlement administratif — nécessaire à la mise en oeuvre de la proposition de transformation;
 	- **c)** l’autorisation de la demande.
@@ -5472,7 +5472,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Application du par. 149(5)**
 
-- **(1.3)** Le paragraphe 149(5) s’applique, avec les adaptations nécessaires, à la liste des souscripteurs admissibles.
+- **(1.3)** Le paragraphe 149(5) s’applique, avec les adaptations nécessaires, à la liste des souscripteurs admissibles.
 
 **Droit de recevoir le préavis et de voter**
 
@@ -5480,20 +5480,21 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Résolution extraordinaire**
 
-- **(1.5)** L’approbation, la confirmation et l’autorisation visées au paragraphe (1.1) sont données par résolution extraordinaire des souscripteurs admissibles.
+- **(1.5)** L’approbation, la confirmation et l’autorisation visées au paragraphe (1.1) sont données par résolution extraordinaire des souscripteurs admissibles.
 
 **Règlements**
 
 - **(2)** Le gouverneur en conseil peut, par règlement :
-	- **a)** régir la demande visée au paragraphe (1), notamment en ce qui concerne sa forme et les renseignements qu’elle doit contenir, et autoriser le surintendant à demander des renseignements supplémentaires pour faire sa recommandation;
+	- **a)** régir la demande visée au paragraphe (1), notamment en ce qui concerne sa forme et les renseignements qu’elle doit contenir, et autoriser le surintendant à demander des renseignements supplémentaires pour faire sa recommandation;
+	- **a.01)** régir le processus précédant la convocation de l’assemblée extraordinaire visée au paragraphe (1.1), notamment l’élaboration d’une proposition de transformation, et régir la convocation de cette assemblée;
 	- **a.1)** régir la proposition de transformation, notamment en ce qui concerne les renseignements qu’elle doit contenir, et autoriser le surintendant à approuver les mesures que la société en transformation adoptera à l’égard de toute modification de la proposition;
 	- **a.2)** régir la valeur d’une société en transformation pour l’application des règlements et autoriser le surintendant à fixer la date à laquelle la société fait une estimation de sa valeur;
 	- **b)** régir le traitement juste et équitable des souscripteurs aux termes d’une proposition de transformation;
-	- **c)** régir la propriété des actions d’une société mutuelle transformée en société avec actions ordinaires;
+	- **c)** régir la propriété des actions d’une société mutuelle transformée en société avec actions ordinaires, notamment limiter les circonstances dans lesquelles le ministre peut donner l’agrément visé au paragraphe 407(1);
 	- **c.1)** régir l’autorisation par le surintendant de l’envoi du préavis de l’assemblée extraordinaire, notamment :
 		- **(i)** préciser les renseignements que doit transmettre la société en transformation à l’appui de sa demande d’autorisation,
 		- **(ii)** autoriser le surintendant à examiner des renseignements supplémentaires,
-		- **(iii)** autoriser le surintendant à exiger que, outre les renseignements réglementaires prévus à l’alinéa (1.2)a), des renseignements supplémentaires soient fournis avec le préavis d’assemblée extraordinaire;
+		- **(iii)** autoriser le surintendant à exiger que, outre les renseignements réglementaires prévus à l’alinéa (1.2)a), des renseignements supplémentaires soient fournis avec le préavis d’assemblée extraordinaire;
 	- **c.2)** autoriser le surintendant à :
 		- **(i)** exiger de la société en transformation qu’elle tienne une ou plusieurs séances d’information à l’intention des souscripteurs admissibles et qu’elle prenne d’autres mesures pour leur permettre de porter un jugement éclairé sur la proposition,
 		- **(ii)** fixer les modalités selon lesquelles les séances d’information doivent être tenues;
@@ -5503,14 +5504,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 		- **(ii)** toute personne qui était administrateur, dirigeant ou employé de la société au cours de l’année précédant la date de transformation de celle-ci;
 	- **d)** d’une façon générale, régir la transformation d’une société mutuelle en société avec actions ordinaires.
 
+**Règlements pris en vertu de l’alinéa (2)a.01)**
+
+- **(2.1)** Les règlements pris en vertu de l’alinéa (2)a.01) peuvent prévoir l’intervention du tribunal dans le cadre du processus visé à cet alinéa, notamment les circonstances dans lesquelles le tribunal doit être saisi de questions relatives à ce processus, et régir les pouvoirs et la procédure du tribunal à cet égard. Ils peuvent aussi régir les autorisations du surintendant relativement aux préavis envoyés dans le cadre de ce processus.
+
 **Exemption par le surintendant**
 
-- **(3)** Les règlements pris en vertu du paragraphe (2) peuvent autoriser le surintendant à exempter une société, aux conditions qu’il estime indiquées, des exigences de tout ou partie de ceux-ci.
+- **(3)** Les règlements pris en vertu du paragraphe (2) peuvent autoriser le surintendant à exempter une société, aux conditions qu’il estime indiquées, des exigences de tout ou partie de ceux-ci.
 
 **Exemption par le ministre**
 
 - **(4)** Le ministre peut, aux conditions qu’il estime indiquées, exempter des exigences de la présente loi ou de ses règlements la société mutuelle qui demande l’approbation d’une proposition visant à la transformer en société avec actions ordinaires s’il estime qu’elle éprouve ou est sur le point d’éprouver des difficultés financières et que l’exemption l’aiderait à améliorer sa situation.
-> 1991, ch. 47, art. 237; 1994, ch. 26, art. 38(A); 1997, ch. 15, art. 215; 1999, ch. 1, art. 5.
+> 1991, ch. 47, art. 237; 1994, ch. 26, art. 38(A); 1997, ch. 15, art. 215; 1999, ch. 1, art. 5; 2014, ch. 20, art. 211.
 
 
 
