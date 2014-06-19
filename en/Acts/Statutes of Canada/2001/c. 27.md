@@ -132,7 +132,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Minister of Employment and Social Development**
 
-- **(2.1)** In making regulations under paragraphs 32(d.1) to (d.3), the Governor in Council may confer powers and duties on the Minister of Employment and Social Development.
+- **(2.1)** In making regulations under paragraphs 32(d.1) to (d.4), the Governor in Council may confer powers and duties on the Minister of Employment and Social Development.
 
 **Specification**
 
@@ -143,7 +143,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication**
 
 - **(4)** Any order made under subsection (3) must be published in Part II of the Canada Gazette.
-> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701; 2013, c. 16, s. 2, c. 40, s. 238.
+> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701; 2013, c. 16, s. 2, c. 40, s. 238; 2014, c. 20, s. 299.
 
 
 
@@ -1053,9 +1053,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d.1)** the conditions that must or may be imposed, individually or by class, on individuals and entities — including employers and educational institutions — in respect of permanent residents and foreign nationals, or that must or may be varied or cancelled;
 - **(d.2)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with the conditions imposed under paragraphs (d) and (d.1);
 - **(d.3)** the consequences of a failure to comply with the conditions referred to in paragraphs (d) and (d.1);
+- **(d.4)** a system of administrative monetary penalties applicable to the contravention by an employer of any conditions referred to in paragraph (d.1) and the amounts of those penalties;
 - **(e)** the residency obligation under section 28, including rules for calculating applicable days and periods; and
 - **(f)** the circumstances in which a document indicating status or a travel document may or must be issued, renewed or revoked.
-> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37.
+> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37; 2014, c. 20, s. 302.
 
 
 
@@ -2299,6 +2300,47 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(5)** No person has a right of recourse or indemnity against Her Majesty in connection with an application that is terminated under subsection (1).
 > 2012, c. 19, s. 707.
+
+
+
+
+
+#### Federal Investor and Entrepreneur Classes
+
+
+
+**Pending applications**
+
+**87.5** 
+
+- **(1)** An application by a foreign national for a permanent resident visa as a member of the prescribed class of investors or of entrepreneurs is terminated if, before February 11, 2014, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to the class in question.
+
+**Application**
+
+- **(2)** Subsection (1) does not apply to
+	- **(a)** an application in respect of which a superior court has made a final determination unless the determination is made on or after February 11, 2014; or
+	- **(b)** an application made by an investor or entrepreneur who is selected as such by a province whose government has entered into an agreement referred to in subsection 9(1).
+
+**Effect**
+
+- **(3)** The fact that an application is terminated under subsection (1) does not constitute a decision not to issue a permanent resident visa.
+
+**Fees returned**
+
+- **(4)** Any fees paid to the Minister in respect of the application referred to in subsection (1) — including for the acquisition of permanent resident status — must be returned, without interest, to the person who paid them. The amounts payable may be paid out of the Consolidated Revenue Fund.
+
+**Investment returned**
+
+- **(5)** If an application for a permanent resident visa as a member of the prescribed class of investors is terminated under subsection (1), an amount equal to the investment made by the applicant in respect of their application must be returned, without interest, to the applicant. The amount may be paid out of the Consolidated Revenue Fund.
+
+**Provincial allocation**
+
+- **(6)** If the provincial allocation of an investment made in respect of an application for a permanent resident visa as a member of the prescribed class of investors that is terminated under subsection (1) has been transferred to an approved fund, as defined in subsection 88(1) of the [Immigration and Refugee Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/227.md), the province whose government controls the approved fund must return an amount equal to that provincial allocation to the Minister without delay. The return of the amount extinguishes the debt obligation in respect of that provincial allocation.
+
+**No recourse or indemnity**
+
+- **(7)** No right of recourse or indemnity lies against Her Majesty in right of Canada in connection with an application that is terminated under subsection (1), including in respect of any contract or other arrangement relating to any aspect of the application.
+> 2014, c. 20, s. 303.
 
 
 
@@ -3595,6 +3637,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The following amounts are debts due to Her Majesty in right of Canada payable on demand:
 	- **(a)** a debt incurred by Her Majesty for which any person is liable under this Act;
 	- **(b)** an amount that a person has agreed to pay as a deposit or guarantee of performance of an obligation under this Act;
+	- **(b.1)** the amount of a penalty imposed under any regulation made under paragraph 32(d.4);
 	- **(c)** the costs incurred in removing a prescribed foreign national from Canada;
 	- **(d)** an amount that is ordered to be paid under section 147 on account of an unpaid liability; and
 	- **(e)** an amount referred to in paragraph 148(1)(g).
@@ -3606,6 +3649,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Recovery of debt**
 
 - **(3)** A debt may be recovered at any time.
+> 2001, c. 27, s. 145; 2014, c. 20, s. 304.
+
 
 
 
@@ -3622,6 +3667,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** without delay, if the Minister is of the opinion that the person liable for that amount is attempting to avoid payment; and
 	- **(b)** in any other case, on the expiration of 30 days after the default.
 
+**Minister of Employment and Social Development**
+
+- **(1.1)** When a penalty is imposed as a result of the Minister of Employment and Social Development exercising a power conferred on him or her by regulation made under paragraph 32(d.4), that Minister is responsible for the recovery of the debt referred to in paragraph 145(1)(b.1).
+
 **Judgments**
 
 - **(2)** The certificate is to be filed and registered in the Federal Court and, when registered, has the same force and effect, and all proceedings may be taken, as if the certificate were a judgment obtained in the Court for a debt of the amount specified in the certificate plus interest to the day of payment.
@@ -3629,6 +3678,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Costs**
 
 - **(3)** The costs of registering the certificate are recoverable in the same manner as if they had been included in the certificate.
+> 2001, c. 27, s. 146; 2014, c. 20, s. 305.
+
 
 
 
