@@ -35,13 +35,15 @@
 
 ***Canada atlantique*** La Nouvelle-Écosse, le Nouveau-Brunswick, l’Île-du-Prince-Édouard et Terre-Neuve.
 
-***conseil*** Le Conseil de promotion économique du Canada atlantique, constitué par l’article 18.
+***conseil***[Abrogée, 2014, ch. 20, art. 175]
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, par commission sous le grand sceau, de l’application de la présente partie.
 
 ***président*** Le président de l’Agence, nommé aux termes du paragraphe 11(1).
 
 ***zone désignée*** Zone du Canada atlantique désignée par arrêté du ministre aux termes de l’article 7.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 3; 2014, ch. 20, art. 175.
+
 
 
 
@@ -175,13 +177,13 @@
 
 **Pouvoirs**
 
-**13** L’Agence peut, dans le cadre de sa mission :
+**13** L’Agence peut, dans le cadre de sa mission :
 - **a)** de concert avec les autres ministères ou organismes fédéraux, élaborer des projets et des méthodes fédérales unifiées en vue de favoriser les possibilités de développement économique du Canada atlantique;
-- **b)** concevoir, réaliser, diriger et gérer des programmes ou opérations destinés à contribuer, même indirectement :
+- **b)** concevoir, réaliser, diriger et gérer des programmes ou opérations destinés à contribuer, même indirectement :
 	- **(i)** à la création, au développement, au soutien et à la promotion d’entreprises, et plus particulièrement de petites et moyennes entreprises, au Canada atlantique,
 	- **(ii)** à la valorisation de l’esprit d’entreprise dans la région,
 	- **(iii)** à la prospérité économique de la région;
-- **c)** concevoir, réaliser, diriger et gérer des programmes ou opérations visant à améliorer le contexte commercial du Canada atlantique, notamment en ce qui concerne :
+- **c)** concevoir, réaliser, diriger et gérer des programmes ou opérations visant à améliorer le contexte commercial du Canada atlantique, notamment en ce qui concerne :
 	- **(i)** dans le domaine des affaires, les aides aux associations, conférences, recherches, consultations, expositions et projets de démonstration ainsi qu’aux études de marché,
 	- **(ii)** la création de fichiers et de réseaux informatisés sur les perspectives commerciales,
 	- **(iii)** l’amélioration de l’information et de la coopération commerciales,
@@ -191,9 +193,16 @@
 - **f)** garantir le remboursement de tout engagement financier contracté par quiconque aux fins visées à l’alinéa e), ou souscrire des assurances-prêts ou assurances-crédit à cet égard;
 - **g)** contribuer, par des subventions ou autres aides, au financement de programmes ou opérations entrepris par elle-même ou le ministre, conformément aux modalités approuvées par le Conseil du Trésor;
 - **h)** conclure des contrats, ententes ou autres arrangements sous le nom de Sa Majesté du chef du Canada ou le sien;
-- **h.1)** conclure avec la Société d’expansion du Cap-Breton un arrangement permettant à celle-ci, dans les limites de sa mission et de ses pouvoirs mentionnés aux articles 33 et 34 de la [Loi sur la Société d’expansion du Cap-Breton](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md), d’exercer les attributions conférées par le présent article, notamment le pouvoir de conclure des accords qui lient l’Agence;
+- **h.1)** acquérir les éléments d’actif et assumer les obligations de la Société d’expansion du Cap-Breton ou de l’une de ses filiales;
+- **h.2)** dans le cas où elle acquiert de la Société d’expansion du Cap-Breton ou de l’une de ses filiales une sûreté qui était détenue par cette société ou filiale concernant un prêt, un investissement ou un accord que cette société ou filiale a obtenu :
+	- **(i)** détenir toute sûreté,
+	- **(ii)** renoncer à toute sûreté,
+	- **(iii)** réaliser toute sûreté,
+	- **(iv)** échanger, céder ou vendre toute sûreté ou en disposer autrement;
+- **h.3)** détenir, exercer ou remettre des options d’achat d’actions, des actions ou tout autre instrument financier de même nature qu’elle a acquis de la Société d’expansion du Cap-Breton ou de l’une de ses filiales ou les céder ou les vendre, ou en disposer autrement;
+- **h.4)** prendre toute mesure nécessaire ou utile, exception faite des mesures prévues aux alinéas h.2) et h.3), au contrôle, à la gestion ou à la disposition des éléments d’actif et des obligations de la Société d’expansion du Cap-Breton ou de l’une de ses filiales que l’Agence a acquis ou assumées, selon le cas;
 - **i)** prendre toute autre mesure utile à la réalisation de sa mission.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 13; 2002, ch. 17, art. 3.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 13; 2002, ch. 17, art. 3; 2014, ch. 20, art. 187.
 
 
 
@@ -247,57 +256,11 @@
 
 
 
-
-## Conseil de promotion économique du Canada atlantique
-
-
-
-**Constitution du conseil**
-
-**18** 
-
-- **(1)** Est constitué le Conseil de promotion économique du Canada atlantique, composé d’au plus huit membres, ou conseillers, dont le président, nommés à titre amovible par le gouverneur en conseil sur recommandation du ministre pour un mandat maximal de trois ans.
-
-**Mission**
-
-- **(2)** Le conseil a pour mission d’aider l’Agence dans l’exercice de ses attributions.
-
-**Représentation**
-
-- **(3)** Le conseil comprend des représentants de chacune des provinces du Canada atlantique.
-
-**Président**
-
-- **(4)** Le président de l’Agence assure la présidence du conseil; en prévision de son absence de ce dernier poste, il choisit un intérimaire parmi les conseillers.
-
-**Absence ou empêchement**
-
-- **(5)** En cas d’absence ou d’empêchement d’un simple conseiller, le ministre désigne un intérimaire; cependant, l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
-
-**Reconduction du mandat**
-
-- **(6)** Le mandat des simples conseillers ne peut être reconduit qu’une fois.
-
-**Rémunération et indemnités**
-
-- **(7)** Les simples conseillers ont droit à la rémunération fixée par le gouverneur en conseil pour chaque jour de présence aux réunions du conseil et pour les services fournis à l’Agence en dehors de ces réunions. Ils ont également droit aux frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 18; 1995, ch. 29, art. 2.
+**18** [Abrogé, 2014, ch. 20, art. 176]
 
 
 
-
-
-**Réunions**
-
-**19** 
-
-- **(1)** Le conseil se réunit au moins une fois par année aux date, heure et lieu choisis par le président.
-
-**Quorum**
-
-- **(2)** Quatre personnes, y compris le président ou l’intérimaire, constituent le quorum aux réunions du conseil.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 19; 1995, ch. 29, art. 3; 2002, ch. 17, art. 4.
-
+**19** [Abrogé, 2014, ch. 20, art. 176]
 
 
 
@@ -338,18 +301,12 @@
 
 - **(1)** Dans les quatre mois suivant la fin de chaque exercice, le président présente au ministre le rapport d’activité de l’Agence pour l’exercice.
 
-**Rapport global d’évaluation**
-
-- **(2)** Le président présente au ministre au plus tard le 15 septembre 1993 et tous les cinq ans par la suite, en sus du rapport annuel de l’Agence, un rapport global d’évaluation des activités de l’Agence et de leur effet sur les disparités régionales.
-
-**Dépôt**
-
-- **(2.1)** Le ministre fait déposer un exemplaire du rapport global d’évaluation devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+- **(2) et (2.1)** [Abrogés, 2014, ch. 20, art. 177]
 
 **Rapport annuel du ministre**
 
 - **(3)** Le ministre fait déposer devant chaque chambre du Parlement, dans les quinze premiers jours de séance de celle-ci suivant le 30 septembre, son rapport sur l’application de la présente partie au cours de l’exercice précédant cette date, en y joignant un exemplaire du rapport annuel de l’Agence.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 21; 1992, ch. 1, art. 10.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 21; 1992, ch. 1, art. 10; 2014, ch. 20, art. 177.
 
 
 
