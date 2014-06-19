@@ -967,16 +967,9 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 
 
-
-**Proposed regulations and orders to be published**
-
 **30** 
 
-- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under section 27 or 27.1 and each order that the Minister proposes to make under section 29 shall be published in the Canada Gazette and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the regulation or order.
-
-**Single publication required**
-
-- **(2)** No proposed regulation or order need be published more than once, whether or not it is amended after that publication as a result of representations made by interested persons.
+- **(1) and (2)** [Repealed, 2014, c. 20, s. 232]
 
 **Review of regulations — House of Commons**
 
@@ -985,7 +978,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Review of regulations — Senate**
 
 - **(4)** The Standing Senate Committee on Transport and Communications or, if there is not a Standing Senate Committee on Transport and Communications, the appropriate committee of the Senate may review any regulations made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The committee may hold public hearings and may table its report on its review in the Senate.
-> 1992, c. 34, s. 30; 2009, c. 9, s. 29.
+> 1992, c. 34, s. 30; 2009, c. 9, s. 29; 2014, c. 20, s. 232.
 
 
 
