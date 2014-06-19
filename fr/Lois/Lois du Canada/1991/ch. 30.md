@@ -800,9 +800,7 @@ Office canadien des provendes<br />- <i>Canadian Livestock Feed Board</i>
 
 Société de construction des musées du Canada Inc.<br />- <i>Canada Museums Construction Corporation Inc.</i>
 
-Société d’expansion du Cap-Breton<br />- <i>Enterprise Cape Breton Corporation</i>
-
 Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée<br />- <i>Old Port of Montreal Corporation Inc.</i>
-> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22.
+> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11; 2013, ch. 38, art. 21 et 22; 2014, ch. 20, art. 191.
 
 
