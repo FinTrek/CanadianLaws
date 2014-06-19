@@ -2453,7 +2453,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**447** [Amendment]
+**447** [Repealed before coming into force, 2014, c. 20, s. 475]
 
 
 
@@ -2485,7 +2485,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**452** [Amendment]
+**452** [Repealed before coming into force, 2014, c. 20, s. 476]
 
 
 
@@ -2497,7 +2497,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**455** [Amendment]
+**455** [Repealed before coming into force, 2014, c. 20, s. 477]
 
 
 
@@ -2509,7 +2509,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**458** [Amendment]
+**458** [Repealed before coming into force, 2014, c. 20, s. 478]
 
 
 
@@ -2521,7 +2521,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**460** [Amendment]
+**460** [Repealed before coming into force, 2014, c. 20, s. 479]
 
 
 
