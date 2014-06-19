@@ -1090,6 +1090,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** The following rules apply to partially manufactured tobacco that is imported by a tobacco licensee for further manufacture:
 	- **(a)** for the purposes of this Act, the tobacco is deemed to be manufactured in Canada by the licensee; and
 	- **(b)** paragraph (1)(a) applies to the tobacco and paragraph (1)(b) and section 44 do not apply.
+> 2002, c. 22, s. 42; 2014, c. 20, s. 62(F).
+
 
 
 
@@ -1099,6 +1101,56 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **43** In addition to the duty imposed under section 42, duty is imposed on cigars at the rates set out in Schedule 2 and is payable
 - **(a)** in the case of cigars manufactured and sold in Canada, by the tobacco licensee who manufactured the cigars, at the time of their delivery to a purchaser; and
 - **(b)** in the case of imported cigars, by the importer, owner or other person who is liable under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to pay duty levied under section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or who would be liable to pay that duty on the cigars if they were subject to that duty.
+> 2002, c. 22, s. 43; 2014, c. 20, s. 63(F).
+
+
+
+
+
+**Definition of inflationary adjusted year**
+
+**43.1** 
+
+- **(1)** In this section, ***inflationary adjusted year*** means 2019 and every fifth year after that year.
+
+**Adjustments**
+
+- **(2)** Each rate of duty set out in sections 1 to 4 of Schedule 1 and paragraph (a) of Schedule 2 in respect of a tobacco product is to be adjusted on December 1 of a particular inflationary adjusted year so that the rate is equal to the greater of
+	- **(a)** the rate determined by the formula
+```
+A × B
+```
+where
+- **A** is the rate of duty applicable to the tobacco product on November 30 of the particular inflationary adjusted year, and
+- **B** is the amount determined by the formula in subparagraph (i) or (ii), rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth,
+	- **(i)** if the particular inflationary adjusted year is 2019,
+```
+C/D
+```
+where
+- **C** is the Consumer Price Index for the 12-month period ending on September 30, 2019, and
+- **D** is the Consumer Price Index for the 12-month period that ended on September 30, 2013,
+	- **(ii)** for any other particular inflationary adjusted year,
+```
+E/F
+```
+where
+- **E** is the Consumer Price Index for the 12-month period ending on September 30 of the particular inflationary adjusted year, and
+- **F** is the Consumer Price Index for the 12-month period ending on September 30 of the inflationary adjusted year that precedes the particular inflationary adjusted year; and
+	- **(b)** the rate of duty referred to in the description of A in paragraph (a).
+
+**Rounding**
+
+- **(3)** The adjusted rate determined under subsection (2) is to be rounded to the nearest one-hundred-thousandth or, if the adjusted rate is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth.
+
+**Consumer Price Index**
+
+- **(4)** In this section, the Consumer Price Index for any 12-month period is the result arrived at by
+	- **(a)** aggregating the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that period;
+	- **(b)** dividing the aggregate obtained under paragraph (a) by 12; and
+	- **(c)** rounding the result obtained under paragraph (b) to the nearest one-thousandth or, if the result obtained is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+> 2014, c. 20, s. 64.
+
 
 
 
@@ -1276,7 +1328,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **When and by whom duty is payable**
 
 - **(2)** The special duty is payable at the time of delivery and is payable by the duty free shop licensee.
-> 2002, c. 22, s. 53; 2008, c. 28, s. 56.
+> 2002, c. 22, s. 53; 2008, c. 28, s. 56; 2014, c. 20, s. 65(F).
 
 
 
@@ -1301,7 +1353,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(4)** The special duty is not imposed on traveller’s tobacco imported by an individual for their personal use if duty under section 42 was previously imposed on the tobacco and the tobacco is stamped.
-> 2002, c. 22, s. 54; 2008, c. 28, s. 57.
+> 2002, c. 22, s. 54; 2008, c. 28, s. 57; 2014, c. 20, s. 66(F).
 
 
 
@@ -1327,6 +1379,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Subject to sections 57 and 58, the special duty is payable, at the time the tobacco product is exported, by
 	- **(a)** if paragraph (1)(a) applies, the tobacco licensee who manufactured it; or
 	- **(b)** if paragraph (1)(b) applies, the person who exported it.
+> 2002, c. 22, s. 56; 2014, c. 20, s. 67(F).
+
 
 
 
@@ -1363,7 +1417,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 3.1** 
-## Tobacco Products Inventory Tax
+## Cigarette Inventory Tax
 
 
 
@@ -1371,33 +1425,61 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **58.1** The following definitions apply in this Part.
 
-***loose tobacco*** means loose, fine-cut manufactured tobacco for use in making cigarettes.
+***adjustment day*** means
+- **(a)** February 12, 2014; or
+- **(b)** in the case of an inflationary adjusted year, December 1 of that year. (*date d’ajustement*)
 
-***separate retail establishment*** of a person means a shop or store of the person
+***inflationary adjusted year*** has the same meaning as in subsection 43.1(1). (*année inflationniste*)
+
+***loose tobacco***[Repealed, 2014, c. 20, s. 69]
+
+***separate retail establishment*** of a person means a shop or store of the person
 - **(a)** that is geographically separate from other places of business of the person;
 - **(b)** at which, in the ordinary course of the person’s business, the person regularly sells, otherwise than through vending machines, tobacco products to consumers, within the meaning of section 123 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), attending at the shop or store; and
-- **(c)** in respect of which separate records are maintained.
+- **(c)** in respect of which separate records are maintained. (*établissement de détail distinct*)
 
-***taxed tobacco*** of a person means cigarettes, tobacco sticks, loose tobacco and cigars, in respect of which duty has been imposed under section 42 before January 1, 2008 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 or in section 4 of that Schedule, as those provisions read on December 31, 2007, and that, at the beginning of January 1, 2008,
+***taxed cigarettes*** of a person means cigarettes in respect of which duty has been imposed under section 42 before February 12, 2014 at the rate set out in paragraph 1(b) of Schedule 1, as that provision read on February 11, 2014, and that, at the beginning of February 12, 2014,
 - **(a)** were owned by that person for sale in the ordinary course of a business of the person;
 - **(b)** were not held in a vending machine; and
-- **(c)** were not relieved from that duty under this Act.
+- **(c)** were not relieved from that duty under this Act. (*cigarettes imposées*)
 
-***unit*** means one cigarette, tobacco stick, gram of loose tobacco or cigar.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 197.
+***taxed tobacco***[Repealed, 2014, c. 20, s. 69]
+
+***unit***[Repealed, 2014, c. 20, s. 69]
+> 2006, c. 4, s. 34; 2007, c. 35, s. 197; 2014, c. 20, s. 69.
 
 
 
 
 
-**Imposition of tax**
+**Imposition of tax  —  2014 increase**
 
-**58.2** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed tobacco of the person at the rate of
-- **(a)** 0.295 cent per cigarette;
-- **(b)** 0.275 cent per tobacco stick;
-- **(c)** 0.195 cent per gram of loose tobacco; and
-- **(d)** 0.19 cent per cigar.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 198.
+**58.2** 
+
+- **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of February 12, 2014 at the rate of $0.02015 per cigarette.
+
+**Imposition of tax  — inflationary adjusted years**
+
+- **(2)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of December 1 of an inflationary adjusted year at a rate per cigarette equal to
+	- **(a)** in the case of cigarettes in respect of which duty has been imposed under section 42, the amount determined by the formula
+```
+(A – B)/5
+```
+where
+- **A** is the rate of duty applicable under paragraph 1(b) of Schedule 1 for each five cigarettes on December 1 of the inflationary adjusted year, and
+- **B** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on November 30 of the inflationary adjusted year; and
+	- **(b)** in the case of cigarettes in respect of which duty has been imposed under section 53, the amount determined by the formula
+```
+C – D
+```
+where
+- **C** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on December 1 of the inflationary adjusted year, and
+- **D** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on November 30 of the inflationary adjusted year.
+
+**Rounding**
+
+- **(3)** The amount determined under paragraph (2)(a) or (b) is to be rounded to the nearest one-hundred-thousandth or, if the amount is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 198; 2014, c. 20, s. 70.
 
 
 
@@ -1405,8 +1487,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exemption for small retail inventory**
 
-**58.3** Tax under this Part in respect of the inventory of all taxed tobacco of a person that is held at the beginning of January 1, 2008 at a separate retail establishment of the person is not payable if that retail establishment holds inventory of 30,000 or fewer units.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 199.
+**58.3** Tax under this Part in respect of the inventory of all taxed cigarettes of a person that is held at the beginning of an adjustment day at a separate retail establishment of the person is not payable if that retail establishment holds inventory of 30,000 or fewer cigarettes.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 199; 2014, c. 20, s. 70.
 
 
 
@@ -1414,8 +1496,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Taking of inventory**
 
-**58.4** Every person liable to pay tax under this Part shall, for the purposes of this Part, determine that person’s inventory of all taxed tobacco.
-> 2006, c. 4, s. 34.
+**58.4** Every person liable to pay tax under this Part shall, for the purposes of this Part, determine that person’s inventory of all taxed cigarettes held at the beginning of an adjustment day.
+> 2006, c. 4, s. 34; 2014, c. 20, s. 70.
 
 
 
@@ -1425,12 +1507,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **58.5** 
 
-- **(1)** Every person liable to pay tax under this Part shall, on or before February 29, 2008, file a return with the Minister in the prescribed form and manner.
+- **(1)** Every person liable to pay tax under this Part shall file a return with the Minister in the prescribed form and manner on or before,
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), April 30, 2014; or
+	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
 
 **Separate returns**
 
 - **(2)** A person authorized under subsection 239(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to file separate returns in respect of a separate branch or division may file separate returns under this Part in respect of that branch or division.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 200.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 200; 2014, c. 20, s. 71.
 
 
 
@@ -1440,7 +1524,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **58.6** 
 
-- **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before February 29, 2008.
+- **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), April 30, 2014; or
+	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
 
 **Minimum interest**
 
@@ -1451,7 +1537,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The Minister may at any time extend in writing the time for filing a return, or paying the tax payable, under this Part and, where the Minister so extends the time,
 	- **(a)** the return shall be filed or tax payable shall be paid within the time as so extended; and
 	- **(b)** interest is payable under section 170 as if the time had not been extended.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 201.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 201; 2014, c. 20, s. 72.
 
 
 
@@ -3252,16 +3338,16 @@ where
 
 
 
-**Refund — imported black stock tobacco**
+**Refund  — imported black stock tobacco**
 
 **180.1** 
 
 - **(1)** The Minister may refund to a person who has imported manufactured tobacco an amount determined in accordance with subsection (2) in respect of the tobacco if
 	- **(a)** the person provides evidence satisfactory to the Minister that
-		- **(i)** duty was imposed on the tobacco under section 42 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 and paid, and
+		- **(i)** duty was imposed on the tobacco under section 42 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1, as those paragraphs read on February 11, 2014, and paid, and
 		- **(ii)** the tobacco was black stock
-			- **(A)** that was delivered to a duty free shop or customs bonded warehouse or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
-			- **(B)** that was exported for delivery to a foreign duty free shop or as foreign ships’ stores; and
+			- **(A)** that was delivered to a duty free shop or customs bonded warehouse, or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), before February 12, 2014, or
+			- **(B)** that was exported before February 12, 2014 for delivery to a foreign duty free shop or as foreign ships’ stores; and
 	- **(b)** the person applies to the Minister for the refund within two years after the tobacco was imported.
 
 **Determination of refund**
@@ -3269,8 +3355,8 @@ where
 - **(2)** The amount of the refund is equal to the amount by which
 	- **(a)** the duty referred to in subparagraph (1)(a)(i)
 exceeds
-	- **(b)** the duty that would have been imposed under section 42 on the tobacco if the applicable rate of duty had been the rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1.
-> 2008, c. 28, s. 58.
+	- **(b)** the duty that would have been imposed under section 42 on the tobacco if the applicable rate of duty had been the rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1, as those paragraphs read on February 11, 2014.
+> 2008, c. 28, s. 58; 2014, c. 20, s. 73.
 
 
 
@@ -4205,8 +4291,9 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(v)** to an official of a department or agency of the Government of Canada or of a province as to the name, address, telephone number, occupation, size or type of business of a person, solely for the purpose of enabling the department or agency to obtain statistical data for research and analysis,
 		- **(vi)** to an official solely for the purpose of setting off, against any sum of money that may be due or payable by Her Majesty, a debt due to
 			- **(A)** Her Majesty, or
-			- **(B)** Her Majesty in right of a province on account of taxes payable to the province, if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province, or
-		- **(vii)** to an official solely for the purposes of section 7.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md);
+			- **(B)** Her Majesty in right of a province on account of taxes payable to the province, if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province,
+		- **(vii)** to an official solely for the purposes of section 7.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), or
+		- **(viii)** to an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of enabling the Centre to evaluate the usefulness of information provided by the Centre to the Canada Revenue Agency under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(f)** provide confidential information solely for the purposes of sections 23 to 25 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 	- **(g)** use confidential information to compile information in a form that does not directly or indirectly reveal the identity of the person to whom the information relates;
 	- **(h)** use, or provide any person with, confidential information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by Her Majesty in respect of a period during which the authorized person was employed by or engaged by or on behalf of Her Majesty to assist in the administration or enforcement of this Act, to the extent that the information is relevant for that purpose;
@@ -4218,8 +4305,9 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(i)** the information can reasonably be regarded as being relevant for the purpose of ascertaining the circumstances in which an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may have been committed, or the identity of the person or persons who may have committed an offence, with respect to an official, or with respect to any person related to that official,
 		- **(ii)** the official was or is engaged in the administration or enforcement of this Act, and
 		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement;
-	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement; or
-	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities.
+	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement;
+	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities; or
+	- **(n)** provide confidential information to a person who has  —  under a program administered by the Canada Revenue Agency to obtain information relating to tax non-compliance  —  entered into a contract to provide information to the Canada Revenue Agency, to the extent necessary to inform the person of any amount they may be entitled to under the contract and of the status of their claim under the contract.
 
 **Restrictions on information sharing**
 
@@ -4234,6 +4322,25 @@ It excludes information that does not directly or indirectly reveal the identity
 - **(6.3)** A representative of a government entity may, in connection with a program, activity or service provided or undertaken by the government entity, make available to the public the business number of, and the name of (including any trade name or other name used by), the holder of a business number, if
 	- **(a)** a representative of the government entity was provided with that information pursuant to paragraph (6)(j); and
 	- **(b)** the government entity uses the business number as an identifier in connection with the program, activity or service.
+
+**Serious offences**
+
+- **(6.4)** An official may provide to a law enforcement officer of an appropriate police organization
+	- **(a)** confidential information, if the official has reasonable grounds to believe that the information will afford evidence of an act or omission in or outside of Canada that, if committed in Canada, would be
+		- **(i)** an offence under any of
+			- **(A)** section 3 of the [Corruption of Foreign Public Officials Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2034.md),
+			- **(B)** sections 119 to 121, 123 to 125 and 426 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+			- **(C)** section 465 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) as it relates to an offence described in clause (B), and
+			- **(D)** sections 144, 264, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+		- **(ii)** a terrorism offence or a criminal organization offence, as those terms are defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), for which the maximum term of imprisonment is 10 years or more, or
+		- **(iii)** an offence
+			- **(A)** that is punishable by minimum term of imprisonment,
+			- **(B)** for which the maximum term of imprisonment is 14 years or life, or
+			- **(C)** for which the maximum term of imprisonment is 10 years and that
+				- **(I)** resulted in bodily harm,
+				- **(II)** involved the import, export, trafficking or production of drugs, or
+				- **(III)** involved the use of a weapon; and
+	- **(b)** information setting out the reasonable grounds referred to in paragraph (a), to the extent that any such grounds rely on information referred to in that paragraph.
 
 **Measures to prevent unauthorized use or disclosure**
 
@@ -4262,7 +4369,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75.
 
 
 
@@ -4405,22 +4512,22 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.17 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.17 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.213 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.29 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.21 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.21 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.26 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.41 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.255 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.255 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.319 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.67 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.32 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.32 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.39 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.82 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76.
 
 
 
@@ -4719,27 +4826,7 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 
 
-
-**Diversion of black stock tobacco**
-
-**236** 
-
-- **(1)** Every tobacco licensee or customs bonded warehouse licensee is liable to a penalty if manufactured tobacco on which duty was imposed under section 42 at a rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1 is
-	- **(a)** in the case of a tobacco licensee,
-		- **(i)** delivered by the licensee other than to a duty free shop or customs bonded warehouse or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
-		- **(ii)** exported by the licensee other than for delivery to a foreign duty free shop or as foreign ships’ stores; or
-	- **(b)** in the case of a customs bonded warehouse licensee, delivered by the licensee other than to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md).
-
-**Amount of penalty**
-
-- **(2)** The amount of the penalty is equal to 200% of the total of
-	- **(a)** the amount by which
-		- **(i)** the duty that would have been imposed under section 42 on the tobacco if the applicable rate of duty had been the rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1
-exceeds
-		- **(ii)** the duty that was imposed under section 42 on the tobacco, and
-	- **(b)** the amount, if any, of special duty that was payable under paragraph 56(1)(b) in respect of the tobacco.
-> 2002, c. 22, s. 236; 2007, c. 18, s. 122.
-
+**236** [Repealed, 2014, c. 20, s. 77]
 
 
 
@@ -4814,10 +4901,10 @@ exceeds
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.361448 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.361448 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $451.81 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55.
+- **(a)** $0.40 per cigarette that was removed in contravention of that subsection,
+- **(b)** $0.40 per tobacco stick that was removed in contravention of that subsection, and
+- **(c)** $502.19 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78.
 
 
 
@@ -6605,163 +6692,164 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 ### **SCHEDULE 1** 
-**(Section 42)**
+**(Sections 42, 43.1 and 58.2)**
 ## Rates of Duty on Tobacco Products
-**1** Cigarettes:
+**1** Cigarettes: for each five cigarettes or fraction of five cigarettes contained in any package,
 
-**(a)** $0.374875 for each five cigarettes or fraction of five cigarettes contained in any package, if the cigarettes are black stock
-
-**(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
+**(a)** $0.52575; or
 
 
 
-**(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
-
-
-
-**(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 
 
 
+**2** Tobacco sticks: per stick,
 
-**(b)** $0.425 for each five cigarettes or fraction of five cigarettes contained in any package, in any other case.
-
-
-
-
-**2** Tobacco sticks:
-
-**(a)** $0.074975 per stick, if the tobacco sticks are black stock
-
-**(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
+**(a)** $0.10515; or
 
 
 
-**(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the Ships’ Stores Regulations, or
-
-
-
-**(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 
 
 
+**3** Manufactured tobacco other than cigarettes and tobacco sticks: per 50 grams or fraction of 50 grams contained in any package,
 
-**(b)** $0.085 per stick, in any other case.
-
-
-
-
-**3** Manufactured tobacco other than cigarettes and tobacco sticks:
-
-**(a)** $4.685938 per 50 grams or fraction of 50 grams contained in any package, if the manufactured tobacco is black stock
-
-**(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
+**(a)** $6.57188; or
 
 
 
-**(ii)** for delivery by the tobacco licensee who manufactured it to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
-
-
-
-**(iii)** for export by the tobacco licensee who manufactured it for delivery to a foreign duty free shop or as foreign ships’ stores; and
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
 
 
 
+**4** Cigars: per 1,000 cigars,
 
-**(b)** $5.3125 per 50 grams or fraction of 50 grams contained in any package, in any other case.
+**(a)** $22.88559; or
 
 
 
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 43.1(2), the adjusted rate.
 
-**4** Cigars: $18.50 per 1,000 cigars.
+
 
 
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56; 2014, c. 20, s. 79.
 
 
 
 
 ### **SCHEDULE 2** 
-**(Section 43)**
+**(Sections 43 and 43.1)**
 ## Additional Duty on Cigars
-Cigars:
+Cigars: per cigar, the greater of
 
-The greater of
+**(a)** either
 
-**(a)** $0.067 per cigar, and
-
-
-
-**(b)** 67%, computed on
-
-**(i)** the sale price, in the case of cigars manufactured in Canada, or
+**(i)** $0.08226, or
 
 
 
-**(ii)** the duty-paid value, in the case of imported cigars.
+**(ii)** if the rate referred to in subparagraph (i) has been adjusted under subsection 43.1(2), the adjusted rate; and
 
 
 
 
 
+**(b)** the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by the following percentage:
+
+**(i)** if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), 82%, or
 
 
 
-> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208.
+**(ii)** if the rate referred to in subparagraph (a)(i) has been adjusted under subsection 43.1(2), the amount, rounded to the nearest whole number, or, if the amount is equidistant from two consecutive whole numbers, to the higher whole number, expressed as a percentage, determined by the formula
+```
+A × 1000
+```
+where
+- **A** is the adjusted rate referred to in subparagraph (a)(ii), as if that rate were not expressed in dollars.
+
+
+
+
+
+
+> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208; 2014, c. 20, s. 80.
 
 
 
 
 ### **SCHEDULE 3** 
-**(Sections 53, 54 and 56)**
+**(Sections 53, 54, 56 and 58.2)**
 ## Rates of Special Duties on Certain Manufactured Tobacco
 **1** Special duty on imported manufactured tobacco:
 
-**(a)** $0.075 per cigarette, in the case of cigarettes;
+**(a)** in dollars per cigarette, the rate determined by the formula, rounded to the nearest one-hundred-thousandth, or, if the rate is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth,
+```
+A/5
+```
+where
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes;
 
 
 
-**(b)** $0.075 per stick, in the case of tobacco sticks; and
+**(b)** in dollars per tobacco stick, the rate of duty applicable under section 2 of Schedule 1 per tobacco stick; and
 
 
 
-**(c)** $4.6875 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** in dollars per 50 grams, or fraction of 50 grams, contained in any package of manufactured tobacco other than cigarettes or tobacco sticks, the rate of duty applicable under section 3 of Schedule 1 per 50 grams.
 
 
 
 
 **2** Special duty on traveller’s tobacco:
 
-**(a)** $0.075 per cigarette, in the case of cigarettes;
+**(a)** in dollars per cigarette, the rate determined by the formula, rounded to the nearest one-hundred-thousandth, or, if the rate is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth,
+```
+A/5
+```
+where
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes;
 
 
 
-**(b)** $0.075 per stick, in the case of tobacco sticks; and
+**(b)** in dollars per tobacco stick, the rate of duty applicable under section 2 of Schedule 1 per tobacco stick; and
 
 
 
-**(c)** $4.6875 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** in dollars per 50 grams, or fraction of 50 grams, contained in any package of manufactured tobacco other than cigarettes or tobacco sticks, the rate of duty applicable under section 3 of Schedule 1 per 50 grams.
 
 
 
 
 **3** Special duty on unstamped tobacco products:
 
-**(a)** $0.075 per cigarette, in the case of cigarettes;
+**(a)** in dollars per cigarette, the rate determined by the formula, rounded to the nearest one-hundred-thousandth, or, if the rate is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth,
+```
+A/5
+```
+where
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes;
 
 
 
-**(b)** $0.075 per stick, in the case of tobacco sticks; and
+**(b)** in dollars per tobacco stick, the rate of duty applicable under section 2 of Schedule 1 per tobacco stick; and
 
 
 
-**(c)** $93.75 per kilogram, in the case of tobacco products other than cigarettes or tobacco sticks.
+**(c)** in dollars per kilogram of tobacco products other than cigarettes or tobacco sticks, the rate determined by the formula, rounded to the nearest one-hundred-thousandth, or, if the rate is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth,
+```
+A × 20
+```
+where
+- **A** is the rate of duty applicable under section 3 of Schedule 1 per 50 grams of manufactured tobacco.
 
 
 
@@ -6781,7 +6869,7 @@ The greater of
 
 
 
-> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54; 2008, c. 28, ss. 65 to 68; 2013, c. 33, ss. 57 to 60.
+> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54; 2008, c. 28, ss. 65 to 68; 2013, c. 33, ss. 57 to 60; 2014, c. 20, s. 81.
 
 
 
