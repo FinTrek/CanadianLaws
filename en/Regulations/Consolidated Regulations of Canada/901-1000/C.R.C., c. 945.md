@@ -322,7 +322,11 @@ of such payment in lieu of the amount determined under section 102.
 - **(8)** Every employer making a payment described in paragraph (n) of the definition ***remuneration*** in subsection 100(1) shall withhold — in addition to any other amount required to be withheld under Part I of these Regulations — on account of the tax payable under Part X.5 of the Act, an amount equal to
 	- **(a)** where the amount is paid in the province of Quebec, 12 per cent of the payment, and
 	- **(b)** in any other case, 20 per cent of the payment.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 2; SOR/78-331, s. 3; SOR/78-449, s. 2; SOR/78-625, s. 2; SOR/79-359, s. 2; SOR/79-694, s. 2; SOR/80-382, s. 2; SOR/80-502, s. 2; SOR/80-683, s. 3; SOR/80-901, s. 2; SOR/80-941, s. 3; SOR/81-471, s. 4; SOR/83-349, s. 3; SOR/83-360, s. 1; SOR/83-692, s. 5; SOR/84-223, s. 1; SOR/84-913, s. 2; SOR/85-979, s. 1; SOR/86-629, s. 3; SOR/87-256, s. 1; SOR/87-471, s. 3; SOR/87-638, s. 2; SOR/88-153, s. 1; SOR/88-310, s. 2; SOR/89-147, s. 2; SOR/89-508, s. 3; SOR/90-161, s. 2; SOR/91-150, s. 2; SOR/91-279, s. 2; SOR/91-536, s. 2; SOR/92-51, s. 2; SOR/92-138, s. 2; SOR/92-667, s. 2; SOR/93-399, s. 1; SOR/94-238, s. 3; SOR/94-569, s. 2; SOR/94-686, s. 48; SOR/96-205, s. 1; SOR/96-464, s. 1; SOR/97-137, s. 1; SOR/97-531, s. 1; SOR/99-17, s. 3; SOR/99-18, s. 1; SOR/99-22, s. 2; SOR/2000-10, s. 1; SOR/2000-12, s. 1; SOR/2000-329, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 3.
+
+- **(9)** The amount to be deducted or withheld by a person from any payment of an amount described in paragraph 56(1)(z.4) of the Act is
+	- **(a)** in the case of a payment to a resident of Quebec, 30% of the payment; or
+	- **(b)** in the case of a payment to a resident of Canada who is not a resident of Quebec, 50% of the payment.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 2; SOR/78-331, s. 3; SOR/78-449, s. 2; SOR/78-625, s. 2; SOR/79-359, s. 2; SOR/79-694, s. 2; SOR/80-382, s. 2; SOR/80-502, s. 2; SOR/80-683, s. 3; SOR/80-901, s. 2; SOR/80-941, s. 3; SOR/81-471, s. 4; SOR/83-349, s. 3; SOR/83-360, s. 1; SOR/83-692, s. 5; SOR/84-223, s. 1; SOR/84-913, s. 2; SOR/85-979, s. 1; SOR/86-629, s. 3; SOR/87-256, s. 1; SOR/87-471, s. 3; SOR/87-638, s. 2; SOR/88-153, s. 1; SOR/88-310, s. 2; SOR/89-147, s. 2; SOR/89-508, s. 3; SOR/90-161, s. 2; SOR/91-150, s. 2; SOR/91-279, s. 2; SOR/91-536, s. 2; SOR/92-51, s. 2; SOR/92-138, s. 2; SOR/92-667, s. 2; SOR/93-399, s. 1; SOR/94-238, s. 3; SOR/94-569, s. 2; SOR/94-686, s. 48; SOR/96-205, s. 1; SOR/96-464, s. 1; SOR/97-137, s. 1; SOR/97-531, s. 1; SOR/99-17, s. 3; SOR/99-18, s. 1; SOR/99-22, s. 2; SOR/2000-10, s. 1; SOR/2000-12, s. 1; SOR/2000-329, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 3; 2014, c. 20, s. 32.
 
 
 
@@ -484,18 +488,18 @@ the amount to be deducted or withheld by the employer from any such payment is t
 - **(1)** Subject to subsections (1.1), (1.11) and (1.12), amounts deducted or withheld in a month under subsection 153(1) of the Act shall be remitted to the Receiver General on or before the 15th day of the following month.
 
 - **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
-	- **(a)** equal to or greater than $15,000 and less than $50,000, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General
+	- **(a)** equal to or greater than $25,000 and less than $100,000, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General
 		- **(i)** in respect of payments made before the 16th day of the month, on or before the 25th day of the month, and
 		- **(ii)** in respect of payments made after the 15th day of the month, on or before the 10th day of the following month; or
-	- **(b)** equal to or greater than $50,000, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which the payments were made,
+	- **(b)** equal to or greater than $100,000, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which the payments were made,
 		- **(i)** the period beginning on the first day and ending on the 7th day of the month,
 		- **(ii)** the period beginning on the 8th day and ending on the 14th day of the month,
 		- **(iii)** the period beginning on the 15th day and ending on the 21st day of the month, and
 		- **(iv)** the period beginning on the 22nd day and ending on the last day of the month.
 
 - **(1.11)** Where an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit in accordance with that paragraph the amounts withheld or deducted under subsection 153(1) of the Act in respect of a particular calendar year, the employer may elect to remit those amounts
-	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $15,000 and the employer has advised the Minister that the employer has so elected; or
-	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $15,000 and less than $50,000 and the employer has advised the Minister that the employer has so elected,
+	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $25,000 and the employer has advised the Minister that the employer has so elected; or
+	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $25,000 and less than $100,000 and the employer has advised the Minister that the employer has so elected,
 		- **(i)** in respect of payments made before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
 		- **(ii)** in respect of payments made after the 15th day of a month in particular calendar year, on or before the 10th day of the following month.
 
@@ -513,7 +517,7 @@ all amounts deducted or withheld from payments described in the definition ***re
 	- **(a)** the aggregate of all amounts each of which is an amount required to be remitted with respect to the particular year under
 		- **(i)** subsection 153(1) of the Act and a similar provision of a law of a province which imposes a tax upon the income of individuals, where the province has entered into an agreement with the Minister of Finance for the collection of taxes payable to the province, in respect of payments described in the definition ***remuneration*** in subsection 100(1),
 		- **(ii)** subsection 21(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or
-		- **(iii)** subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or subsection 53(1) of the Unemployment Insurance Act,
+		- **(iii)** subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md),
 by the employer or, where the employer is a corporation, by each corporation associated with the corporation in a taxation year of the employer ending in the second calendar year following the particular year
 is divided by
 	- **(b)** the number of months in the particular year, not exceeding twelve, for which such amounts were required to be remitted by the employer and, where the employer is a corporation, by each corporation associated with it in a taxation year of the employer ending in the second calendar year following the particular year.
@@ -529,7 +533,7 @@ the other employer shall be deemed to be a corporation associated with the parti
 - **(3)** Remittances made to the Receiver General under subsection 153(1) of the Act shall be accompanied by a return in prescribed form.
 
 - **(4)** Amounts deducted or withheld under subsection 153(4) of the Act shall be remitted to the Receiver General within 60 days after the end of the taxation year subsequent to the 12-month period referred to in that subsection.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4; 2007, c. 35, s. 71.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4; 2007, c. 35, s. 71; 2014, c. 20, s. 33.
 
 
 
@@ -694,7 +698,7 @@ that person or partnership shall make an information return in prescribed form i
 	- **(j)** a payment that is or that would be, if paragraph 212(1)(r) of the Act were read without reference to subparagraph 212(1)(r)(ii), a payment described in that paragraph in respect of a registered education savings plan,
 	- **(k)** a grant under a program prescribed for the purposes of paragraph 212(1)(s) of the Act,
 	- **(l)** a payment described in paragraph 212(1)(j) of the Act in respect of a retirement compensation arrangement, or
-	- **(m)** a payment described in paragraph 212(1)(v) of the Act,
+	- **(m)** a payment described in paragraph 212(1)(v) or (x) of the Act,
 shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such amount.
 
 - **(2.1)** Every person resident in Canada who pays an amount to a non-resident person from a NISA Fund No. 2 shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of the amount.
@@ -712,7 +716,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2; 2013, c. 34, s. 27.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2; 2013, c. 34, s. 27; 2014, c. 20, s. 34.
 
 
 
@@ -13094,8 +13098,8 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
-**6708** For the purpose of paragraph 204.8(2)(b) and subsection 204.81(8.3) of the Act, section 27.2 of the Community Small Business Investment Funds Act, 1992, S.O. 1992, c. 18, is a prescribed wind-up rule.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 404.
+**6708** For the purposes of paragraph 204.8(2)(b), section 27.2 of the Community Small Business Investment Funds Act, 1992, S.O. 1992, c. 18, is a prescribed wind-up rule.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 34, s. 404; 2014, c. 20, s. 35.
 
 
 
@@ -18263,8 +18267,16 @@ where
 	- **(d)** the plan is not a designated plan; and
 	- **(e)** the Minister has approved the application of subsection (3.01) in respect of the transfer.
 
-- **(3.01)** If this subsection applies, the description of A in subsection (1) shall be read as follows in respect of the transfer:
-- **A** is the amount of the individual’s lifetime retirement benefits under the provision commuted in connection with the transfer, as determined under subsection (4), but without reference to the benefit reduction referred to in paragraph (3)(c); and
+- **(3.001)** Subsection (3.01) applies in respect of a transfer of an amount on behalf of an individual in full or partial satisfaction of the individual’s entitlement to benefits under a defined benefit provision of a registered pension plan if
+	- **(a)** the individual is an employee or a former employee of an employer (or a predecessor employer of the employer) that was a participating employer under the provision;
+	- **(b)** lifetime retirement benefits paid or payable to the individual under the provision have been reduced because the assets of the plan are insufficient to pay the benefits provided under the provision of the plan as registered;
+	- **(c)** the Minister has approved the application of subsection (3.01) in respect of the transfer; and
+	- **(d)** either
+		- **(i)** the plan is not an individual pension plan and the reduction in the lifetime retirement benefits paid or payable to the individual has been approved under the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, or
+		- **(ii)** the plan is an individual pension plan, the amount transferred from the plan on behalf of the individual is the last payment from the plan to the individual and all the property held in connection with the plan is distributed from the plan on behalf of plan members within 90 days of the transfer.
+
+- **(3.01)** If this subsection applies, the description of A in subsection (1) is to be read as follows in respect of the transfer:
+- **A** is the amount of the individual’s lifetime retirement benefits under the provision commuted in connection with the transfer, as determined under subsection (4), but without reference to the benefit reduction referred to in paragraph (3)(c) or (3.001)(b), as the case may be; and
 
 - **(3.02)** If a particular amount is transferred in full or partial satisfaction of an individual’s entitlement to benefits under a defined benefit provision of a registered pension plan and subsection (3.01) had applied in respect of a transfer (in this subsection referred to as the “initial transfer”) of an amount on behalf of the individual under the provision, for the purpose of paragraph 147.3(4)(c) of the Act the prescribed amount in respect of the transfer of the particular amount is the lesser of
 	- **(a)** the particular amount, and
@@ -18332,7 +18344,7 @@ paragraph (5)(g) applies as if
 	- **(b)** in conjunction with the transfer, benefits become provided to the individual under another defined benefit provision of the plan or under a defined benefit provision of another registered pension plan, and
 	- **(c)** an employer who participated under the particular provision for the benefit of the individual also participates under the other provision for the individual’s benefit,
 the amount of the individual’s lifetime retirement benefits under the particular provision commuted in connection with the transfer is the amount that would be determined under subsection (4) if the benefits provided under the other provision were provided under the particular provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97; 2014, c. 20, s. 36.
 
 
 
@@ -18605,14 +18617,17 @@ exceeds
 
 
 
-### Prescribed Trust not a Financial Institution
+### Prescribed Person not a Financial Institution
 
 
-**9000** For the purpose of paragraph (e) of the definition ***financial institution*** in subsection 142.2(1) of the Act, a trust is, at any particular time, a prescribed person if the following conditions are satisfied at that particular time:
-- **(a)** the trust is a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a) of the Act);
-- **(b)** the trust is deemed, under paragraph 138.1(1)(a) of the Act, to have been created at a time that is not more than two years before that particular time; and
-- **(c)** the cost of the trustee’s interest (as determined by paragraph 138.1(1)(c) and (d) of the Act) in the trust does not exceed $5,000,000.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+**9000** For the purposes of paragraph (e) of the definition ***financial institution*** in subsection 142.2(1) of the Act, the following are prescribed persons:
+- **(a)** the Business Development Bank of Canada;
+- **(b)** BDC Capital Inc.; and
+- **(c)** a trust, at any particular time, if at that particular time
+	- **(i)** the trust is a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a) of the Act),
+	- **(ii)** the trust is deemed, under paragraph 138.1(1)(a) of the Act, to have been created at a time that is not more than two years before that particular time, and
+	- **(iii)** the cost of the trustee’s interest (as determined by paragraph 138.1(1)(c) and (d) of the Act) in the trust does not exceed $5,000,000.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118; 2014, c. 20, s. 37.
 
 
 
