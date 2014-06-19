@@ -811,8 +811,6 @@ Canadian Museum of Nature<br />- <i>Musée canadien de la nature</i>
 
 Defence Construction (1951) Ltd.<br />- <i>Construction de défense (1951) Limitée</i>
 
-Enterprise Cape Breton Corporation<br />- <i>Société d’expansion du Cap-Breton</i>
-
 National Capital Commission<br />- <i>Commission de la capitale nationale</i>
 
 National Gallery of Canada<br />- <i>Musée des Beaux-arts du Canada</i>
@@ -820,6 +818,6 @@ National Gallery of Canada<br />- <i>Musée des Beaux-arts du Canada</i>
 National Museum of Science and Technology<br />- <i>Musée national des sciences et de la technologie</i>
 
 Old Port of Montreal Corporation Inc.<br />- <i>Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée</i>
-> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12; 2010, c. 7, s. 11; 2013, c. 38, ss. 21, 22.
+> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12; 2010, c. 7, s. 11; 2013, c. 38, ss. 21, 22; 2014, c. 20, s. 191.
 
 
