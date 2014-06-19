@@ -35,13 +35,15 @@
 
 ***Atlantic Canada*** means the Provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland;
 
-***Board*** means the Atlantic Canada Opportunities Board established by section 18;
+***Board***[Repealed, 2014, c. 20, s. 175]
 
 ***designated area*** means an area of Atlantic Canada designated by order of the Minister pursuant to section 7;
 
 ***Minister*** means such member of the Queen’s Privy Council for Canada as is appointed by Commission under the Great Seal to be the Minister for the purposes of this Part;
 
 ***President*** means the President of the Agency appointed pursuant to subsection 11(1).
+> R.S., 1985, c. 41 (4th Supp.), s. 3; 2014, c. 20, s. 175.
+
 
 
 
@@ -191,9 +193,16 @@
 - **(f)** guarantee the repayment of, or provide loan insurance or credit insurance in respect of, any financial obligation undertaken by any person in respect of the establishment and development of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada;
 - **(g)** in accordance with terms and conditions approved by Treasury Board, make grants and contributions in support of programs and projects undertaken by the Agency or the Minister;
 - **(h)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the Agency;
-- **(h.1)** enter into an arrangement with the Enterprise Cape Breton Corporation that allows that corporation, within the limits of its objects and powers as set out in sections 33 and 34 of the [Enterprise Cape Breton Corporation Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md), to exercise the powers or perform the duties or functions of the Agency under this section, including the power to enter into agreements that commit moneys appropriated by Parliament for the purposes of the Agency; and
+- **(h.1)** acquire the assets and assume the obligations of the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries;
+- **(h.2)** in respect of any security interest that it acquires from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries and that was held by that Corporation or any of those subsidiaries in respect of a loan, investment or agreement that was acquired by that Corporation or any of those subsidiaries,
+	- **(i)** hold any security interest,
+	- **(ii)** surrender any security interest,
+	- **(iii)** realize any security interest, or
+	- **(iv)** exchange, sell, assign or otherwise dispose of any security interest;
+- **(h.3)** hold or exercise, or surrender, sell, assign or otherwise dispose of, a stock option, share or other similar financial instrument that it acquires from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries;
+- **(h.4)** do all things, other than those mentioned in paragraphs (h.2) and (h.3), that are necessary for or incidental to the administration, management, control or disposal of the assets and obligations that it acquires or assumes from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries; and
 - **(i)** do all such other things as are necessary or incidental to the attainment of the object of the Agency.
-> R.S., 1985, c. 41 (4th Supp.), s. 13; 2002, c. 17, s. 3.
+> R.S., 1985, c. 41 (4th Supp.), s. 13; 2002, c. 17, s. 3; 2014, c. 20, s. 187.
 
 
 
@@ -247,57 +256,11 @@
 
 
 
-
-## Atlantic Canada Opportunities Board
-
-
-
-**Establishment of Board**
-
-**18** 
-
-- **(1)** There is hereby established a board to be known as the Atlantic Canada Opportunities Board, consisting of the President and not more than seven other members appointed by the Governor in Council on the recommendation of the Minister to hold office during pleasure for a term not exceeding three years.
-
-**Object**
-
-- **(2)** The object of the Board is to assist the Agency in the exercise of its powers and the performance of its duties and functions.
-
-**Membership**
-
-- **(3)** The Board shall include persons from each province in Atlantic Canada.
-
-**Chairperson**
-
-- **(4)** The President is the Chairperson of the Board, but in the event of the absence of the President, another member of the Board designated by the President shall act as chairperson of the Board.
-
-**Acting member**
-
-- **(5)** In the event of the absence or incapacity of a member of the Board other than the President, the Minister may designate a person to act as a member, but no person may act as a member for a period exceeding ninety days without the approval of the Governor in Council.
-
-**Re-appointment**
-
-- **(6)** A member of the Board other than the President, on the expiration of a first term of office, is eligible to be re-appointed for one further term only.
-
-**Remuneration and expenses**
-
-- **(7)** Each member of the Board, other than the President, is entitled to be paid, for each day on which the member attends a meeting of the Board and for services provided to the Agency other than at a meeting of the Board, such remuneration as may be fixed by the Governor in Council and shall be paid reasonable travel and living expenses incurred by the member in the performance of duties and functions as such.
-> R.S., 1985, c. 41 (4th Supp.), s. 18; 1995, c. 29, s. 2.
+**18** [Repealed, 2014, c. 20, s. 176]
 
 
 
-
-
-**Meetings**
-
-**19** 
-
-- **(1)** The Board shall meet at such times, but at least once in each year, and at such places as the President may select.
-
-**Quorum**
-
-- **(2)** At a meeting of the Board, four members of the Board, including the President or the member designated pursuant to subsection 18(4) to act as chairperson at that meeting, constitute a quorum.
-> R.S., 1985, c. 41 (4th Supp.), s. 19; 1995, c. 29, s. 3; 2002, c. 17, s. 4.
-
+**19** [Repealed, 2014, c. 20, s. 176]
 
 
 
@@ -338,18 +301,12 @@
 
 - **(1)** The President shall, within four months after the end of each fiscal year, submit a report on the operations of the Agency in that year to the Minister.
 
-**Comprehensive report**
-
-- **(2)** The President shall, on or before September 15, 1993 and every five years thereafter, submit to the Minister a comprehensive report, in addition to the annual report of the Agency, providing an evaluation of all activities in which the Agency was involved and the impact those activities have had on regional disparity.
-
-**Tabling**
-
-- **(2.1)** The Minister shall cause a copy of the comprehensive report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives it.
+- **(2) and (2.1)** [Repealed, 2014, c. 20, s. 177]
 
 **Annual report by Minister**
 
 - **(3)** The Minister shall cause to be laid before each House of Parliament, on any of the first fifteen days on which that House is sitting after September 30 next following the end of each fiscal year, a report, including a copy of the annual report submitted to the Minister under subsection (1), on the administration of this Part for that fiscal year.
-> R.S., 1985, c. 41 (4th Supp.), s. 21; 1992, c. 1, s. 10.
+> R.S., 1985, c. 41 (4th Supp.), s. 21; 1992, c. 1, s. 10; 2014, c. 20, s. 177.
 
 
 
