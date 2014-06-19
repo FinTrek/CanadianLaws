@@ -215,18 +215,18 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 - **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
 
 - **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
-	- **a)** égale ou supérieure à 15 000 $ et inférieure à 50 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur :
+	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur :
 		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
 		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant;
-	- **b)** égale ou supérieure à 50 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur au plus tard le troisième jour — samedis et jours fériés non compris — suivant la fin des périodes suivantes au cours desquelles la rémunération a été payée :
+	- **b)** égale ou supérieure à 100 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur au plus tard le troisième jour  — samedis et jours fériés non compris  —  suivant la fin des périodes ci-après au cours desquelles la rémunération a été payée :
 		- **(i)** la période commençant le 1<sup>er</sup> jour et se terminant le 7<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(ii)** la période commençant le 8<sup>e</sup> jour et se terminant le 14<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour d’un mois de l’année civile donnée.
 
 - **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre la cotisation de l’employé et la cotisation de l’employeur pour une année civile donnée conformément à l’un ou l’autre de ces alinéas peut choisir de les remettre :
-	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 15 000 $ et s’il informe le ministre de son choix;
-	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 15 000 $ et inférieure à 50 000 $ et s’il informe le ministre de son choix :
+	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 25 000 $ et s’il informe le ministre de son choix;
+	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 25 000 $ et inférieure à 100 000 $ et s’il informe le ministre de son choix :
 		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
 		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
 
@@ -245,7 +245,7 @@ les cotisations payables au cours d’un mois qui se termine après le moment do
 - **(2)** L’employeur qui exploite une entreprise ou exerce une activité à l’égard de laquelle il occupe des employés dans des emplois ouvrant droit à pension doit, s’il cesse d’exploiter cette entreprise ou d’exercer cette activité, faire remise au receveur général, dans les sept jours d’une telle cessation, de toutes les cotisations de l’employé et de l’employeur dont il est tenu de faire remise à l’égard desdits employés.
 
 - **(3)** Tout paiement fait par l’employeur au titre de la cotisation de l’employé ou de la cotisation de l’employeur doit être accompagné d’une déclaration en la forme prescrite.
-> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90.
+> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90; 2014, ch. 20, art. 38.
 
 
 
