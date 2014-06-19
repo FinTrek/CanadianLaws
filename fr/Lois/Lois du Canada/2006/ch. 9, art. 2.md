@@ -71,6 +71,7 @@ Sanctionnée sur le 12 décembre 2006
 
 ***titulaire de charge publique***
 - **a)** Ministre, ministre d’État ou secrétaire parlementaire;
+- **a.1)** directeur général des élections;
 - **b)** membre du personnel ministériel;
 - **c)** conseiller ministériel;
 - **d)** titulaire de charge nommé par le gouverneur en conseil, à l’exception :
@@ -85,6 +86,7 @@ Sanctionnée sur le 12 décembre 2006
 
 ***titulaire de charge publique principal*** Titulaire de charge publique qui :
 - **a)** est un ministre, ministre d’État ou secrétaire parlementaire;
+- **a.1)** est le directeur général des élections;
 - **b)** est un membre du personnel ministériel qui travaille en moyenne quinze heures ou plus par semaine;
 - **c)** est un conseiller ministériel;
 - **d)** est nommé par le gouverneur en conseil ou par le ministre sur approbation de celui-ci et exerce ses fonctions officielles à temps partiel, reçoit une rémunération annuelle et bénéficie d’avantages;
@@ -102,7 +104,7 @@ Sanctionnée sur le 12 décembre 2006
 **Parent**
 
 - **(3)** Toute personne apparentée à un titulaire de charge publique par les liens du mariage, d’une union de fait, de la filiation ou de l’adoption ou encore liée à lui par affinité est un parent de celui-ci pour l’application de la présente loi, à moins que le commissaire n’en vienne à la conclusion que, de façon générale ou à l’égard d’un titulaire de charge publique en particulier, il n’est pas nécessaire pour l’application de la présente loi de considérer telle personne ou catégorie de personnes comme un parent du titulaire.
-> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 33, art. 192, ch. 40, art. 288.
+> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 33, art. 192, ch. 40, art. 288; 2014, ch. 12, art. 145.
 
 
 
