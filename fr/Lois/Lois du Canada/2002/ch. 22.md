@@ -1076,7 +1076,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **42** 
 
-- **(1)** Un droit sur les produits du tabac fabriqués au Canada ou importés et sur le tabac en feuilles importé est imposé aux taux figurant à l’annexe 1 et est exigible :
+- **(1)** Un droit sur les produits du tabac fabriqués au Canada ou importés et sur le tabac en feuilles importé est imposé aux taux prévus à l’annexe 1 et est exigible :
 	- **a)** dans le cas de produits du tabac fabriqués au Canada, du titulaire de licence de tabac qui les a fabriqués, au moment de leur emballage;
 	- **b)** dans le cas de produits du tabac ou de tabac en feuilles importés, de l’importateur, du propriétaire ou d’une autre personne qui est tenue, aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de payer les droits perçus en vertu de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou qui serait tenue de payer ces droits sur les produits ou le tabac s’ils y étaient assujettis.
 
@@ -1085,15 +1085,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les règles suivantes s’appliquent au tabac partiellement fabriqué qu’un titulaire de licence de tabac importe pour une étape ultérieure de fabrication :
 	- **a)** pour l’application de la présente loi, le tabac est réputé être fabriqué au Canada par le titulaire de licence;
 	- **b)** l’alinéa (1)a) s’applique au tabac, mais l’alinéa (1)b) et l’article 44 ne s’y appliquent pas.
+> 2002, ch. 22, art. 42; 2014, ch. 20, art. 62(F).
+
 
 
 
 
 **Droit additionnel sur les cigares**
 
-**43** Est imposé aux taux figurant à l’annexe 2, en plus du droit imposé en vertu de l’article 42, un droit sur les cigares qui sont fabriqués et vendus au Canada ou importés. Ce droit est exigible :
+**43** Est imposé aux taux prévus à l’annexe 2, en plus du droit imposé en vertu de l’article 42, un droit sur les cigares qui sont fabriqués et vendus au Canada ou importés. Ce droit est exigible :
 - **a)** dans le cas de cigares fabriqués et vendus au Canada, du titulaire de licence de tabac qui les a fabriqués, au moment de leur livraison à l’acheteur;
 - **b)** dans le cas de cigares importés, de l’importateur, du propriétaire ou d’une autre personne qui est tenue, aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de payer les droits perçus en vertu de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou qui serait tenue de payer ces droits sur les cigares s’ils y étaient assujettis.
+> 2002, ch. 22, art. 43; 2014, ch. 20, art. 63(F).
+
+
+
+
+
+**Définition de année inflationniste**
+
+**43.1** 
+
+- **(1)** Au présent article, ***année inflationniste*** s’entend de 2019 et de chacune des cinquièmes années suivantes.
+
+**Ajustements**
+
+- **(2)** Chacun des taux de droit prévus aux articles 1 à 4 de l’annexe 1 et à l’alinéa a) de l’annexe 2 relativement à un produit du tabac est ajusté le 1<sup>er</sup> décembre d’une année inflationniste donnée de façon à ce qu’il s’établisse au plus élevé des taux suivants :
+	- **a)** le taux obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le taux de droit applicable au produit du tabac le 30 novembre de l’année inflationniste donnée,
+- **B** la somme  —  arrêtée à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure  —  obtenue par celle des formules ci-après qui est applicable :
+	- **(i)** si l’année inflationniste donnée est 2019 :
+```
+C/D
+```
+où :
+- **C** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre 2019,
+- **D** l’indice des prix à la consommation pour la période de douze mois s’étant terminée le 30 septembre 2013,
+	- **(ii)** pour toute autre année inflationniste donnée :
+```
+E/F
+```
+où :
+- **E** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année inflationniste donnée,
+- **F** l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année inflationniste qui précède l’année inflationniste donnée;
+	- **b)** le taux de droit visé à l’élément A de la formule figurant à l’alinéa a).
+
+**Arrondissement**
+
+- **(3)** Le taux ajusté déterminé selon le paragraphe (2) est arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure.
+
+**Indice des prix à la consommation**
+
+- **(4)** Au présent article, l’indice des prix à la consommation pour une période de douze mois est obtenu par :
+	- **a)** l’addition des indices mensuels des prix à la consommation de la période pour le Canada, publiés par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** la division de ce total par douze;
+	- **c)** l’arrêt du quotient ainsi obtenu à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
+> 2014, ch. 20, art. 64.
+
 
 
 
@@ -1266,12 +1318,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **53** 
 
-- **(1)** Un droit spécial est imposé, aux taux figurant à l’article 1 de l’annexe 3, sur le tabac fabriqué importé qui est livré à une boutique hors taxes et qui n’est pas estampillé.
+- **(1)** Un droit spécial est imposé, aux taux prévus à l’article 1 de l’annexe 3, sur le tabac fabriqué importé qui est livré à une boutique hors taxes et qui n’est pas estampillé.
 
 **Paiement du droit**
 
 - **(2)** Le droit spécial est exigible de l’exploitant agréé de boutique hors taxes au moment de la livraison.
-> 2002, ch. 22, art. 53; 2008, ch. 28, art. 56.
+> 2002, ch. 22, art. 53; 2008, ch. 28, art. 56; 2014, ch. 20, art. 65(F).
 
 
 
@@ -1287,7 +1339,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit spécial sur le tabac du voyageur**
 
-- **(2)** Un droit spécial est imposé, aux taux figurant à l’article 2 de l’annexe 3, sur le tabac du voyageur au moment de son importation.
+- **(2)** Un droit spécial est imposé, aux taux prévus à l’article 2 de l’annexe 3, sur le tabac du voyageur au moment de son importation.
 
 **Paiement du droit**
 
@@ -1296,7 +1348,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(4)** Le tabac du voyageur qui est importé par un particulier pour son usage personnel n’est pas frappé du droit spécial s’il est estampillé et a déjà été frappé du droit prévu à l’article 42.
-> 2002, ch. 22, art. 54; 2008, ch. 28, art. 57.
+> 2002, ch. 22, art. 54; 2008, ch. 28, art. 57; 2014, ch. 20, art. 66(F).
 
 
 
@@ -1314,14 +1366,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **56** 
 
 - **(1)** Un droit spécial est imposé, aux taux ci-après, sur les produits du tabac qui sont fabriqués au Canada puis exportés :
-	- **a)** si l’exportation est effectuée conformément à l’alinéa 50(4)a) par le titulaire de licence de tabac qui a fabriqué les produits, les taux figurant à l’article 3 de l’annexe 3;
-	- **b)** sinon, les taux figurant à l’article 4 de l’annexe 3.
+	- **a)** si l’exportation est effectuée conformément à l’alinéa 50(4)a) par le titulaire de licence de tabac qui a fabriqué les produits, les taux prévus à l’article 3 de l’annexe 3;
+	- **b)** sinon, les taux prévus à l’article 4 de l’annexe 3.
 
 **Paiement du droit**
 
 - **(2)** Sous réserve des articles 57 et 58, le droit spécial est exigible au moment de l’exportation des produits du tabac :
 	- **a)** dans le cas visé à l’alinéa (1)a), du titulaire de licence de tabac qui a fabriqué les produits;
 	- **b)** dans le cas visé à l’alinéa (1)b), de l’exportateur des produits.
+> 2002, ch. 22, art. 56; 2014, ch. 20, art. 67(F).
+
 
 
 
@@ -1358,7 +1412,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 3.1** 
-## Taxe sur les stocks de produits du tabac
+## Taxe sur les stocks de cigarettes
 
 
 
@@ -1366,33 +1420,61 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58.1** Les définitions qui suivent s’appliquent à la présente partie.
 
-***établissement de détail distinct*** Boutique ou magasin qui répond aux conditions suivantes :
+***année inflationniste*** S’entend au sens du paragraphe 43.1(1). (*inflationary adjusted year*)
+
+***cigarettes imposées*** Cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé avant le 12 février 2014 au taux figurant à l’alinéa 1b) de l’annexe 1, en son état le 11 février 2014, et qui, à zéro heure le 12 février 2014, à la fois :
+- **a)** étaient offertes en vente dans le cours normal des activités de leur propriétaire;
+- **b)** n’étaient pas offertes en vente par distributeur automatique;
+- **c)** n’étaient pas exonérées de ce droit en vertu de la présente loi. (*taxed cigarettes*)
+
+***date d’ajustement***
+- **a)** Le 12 février 2014;
+- **b)** dans le cas d’une année inflationniste, le 1<sup>er</sup> décembre de cette année. (*adjustment day*)
+
+***établissement de détail distinct*** Boutique ou magasin qui répond aux conditions suivantes :
 - **a)** il est géographiquement distinct des autres établissements commerciaux de l’exploitant;
 - **b)** l’exploitant y vend régulièrement dans le cours normal de ses activités, mais autrement que par distributeur automatique, des produits du tabac aux consommateurs, au sens de l’article 123 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), qui s’y présentent;
-- **c)** des registres distincts sont tenus à son égard.
+- **c)** des registres distincts sont tenus à son égard. (*separate retail establishment*)
 
-***tabac à cigarettes*** Tabac en vrac, manufacturé et haché fin, servant à la confection de cigarettes.
+***tabac à cigarettes***[Abrogée, 2014, ch. 20, art. 69]
 
-***tabac imposé*** Cigarettes, bâtonnets de tabac, tabac à cigarettes et cigares sur lesquels le droit prévu à l’article 42 a été imposé avant le 1<sup>er</sup> janvier 2008 au taux figurant aux alinéas 1b), 2b) ou 3b) ou à l’article 4 de l’annexe 1, dans leur version applicable le 31 décembre 2007, et qui, à zéro heure le 1<sup>er</sup> janvier 2008, à la fois : 
-- **a)** étaient offerts en vente dans le cours normal des activités de leur propriétaire;
-- **b)** n’étaient pas offerts en vente par distributeur automatique;
-- **c)** n’étaient pas exonérés de ce droit en vertu de la loi.
+***tabac imposé***[Abrogée, 2014, ch. 20, art. 69]
 
-***unité*** Cigarette, bâtonnet de tabac, gramme de tabac à cigarettes ou cigare.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197.
+***unité***[Abrogée, 2014, ch. 20, art. 69]
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69.
 
 
 
 
 
-**Assujettissement**
+**Assujettissement —  majoration de 2014**
 
-**58.2** Sous réserve de l’article 58.3, tout propriétaire de tabac imposé est tenu de payer à Sa Majesté une taxe sur ce tabac au taux de :
-- **a)** 0,295 cent par cigarette;
-- **b)** 0,275 cent par bâtonnet de tabac;
-- **c)** 0,195 cent par gramme de tabac à cigarettes;
-- **d)** 0,19 cent par cigare.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198.
+**58.2** 
+
+- **(1)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 12 février 2014 au taux de 0,020 15 $ par cigarette.
+
+**Assujettissement —  années inflationnistes**
+
+- **(2)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 1<sup>er</sup> décembre d’une année inflationniste au taux, par cigarette, obtenu par celle des formules ci-après qui est applicable :
+	- **a)** s’agissant de cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé :
+```
+(A – B)/5
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes le 1<sup>er</sup> décembre de l’année inflationniste, prévu à l’alinéa 1b) de l’annexe 1,
+- **B** le taux de droit applicable à chaque quantité de cinq cigarettes le 30 novembre de l’année inflationniste, prévu à l’article 1 de l’annexe 1;
+	- **b)** s’agissant de cigarettes sur lesquelles le droit prévu à l’article 53 a été imposé :
+```
+C – D
+```
+où :
+- **C** représente le taux de droit applicable à chaque cigarette le 1<sup>er</sup> décembre de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3,
+- **D** le taux de droit applicable à chaque cigarette le 30 novembre de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3.
+
+**Arrondissement**
+
+- **(3)** Le résultat obtenu en application des alinéas (2)a) ou b) est arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70.
 
 
 
@@ -1400,8 +1482,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exemption pour petits détaillants**
 
-**58.3** La taxe prévue par la présente partie n’est pas exigible sur les stocks de tabac imposé qu’un exploitant détient à zéro heure le 1<sup>er</sup> janvier 2008 dans son établissement de détail distinct si ces stocks n’excèdent pas 30 000 unités.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 199.
+**58.3** La taxe prévue par la présente partie n’est pas exigible sur les stocks de cigarettes imposées qu’un exploitant détient à zéro heure à une date d’ajustement dans son établissement de détail distinct si ces stocks n’excèdent pas 30 000 cigarettes.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 199; 2014, ch. 20, art. 70.
 
 
 
@@ -1409,8 +1491,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Inventaire**
 
-**58.4** Pour l’application de la présente partie, le redevable de la taxe prévue par cette partie est tenu de faire l’inventaire de son tabac imposé.
-> 2006, ch. 4, art. 34.
+**58.4** Pour l’application de la présente partie, le redevable de la taxe prévue par cette partie est tenu de faire l’inventaire de ses cigarettes imposées détenues à zéro heure à une date d’ajustement.
+> 2006, ch. 4, art. 34; 2014, ch. 20, art. 70.
 
 
 
@@ -1420,12 +1502,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58.5** 
 
-- **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter au ministre, au plus tard le 29 février 2008, une déclaration en la forme et selon les modalités autorisées par celui-ci.
+- **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter une déclaration au ministre, en la forme et selon les modalités autorisées par celui-ci, au plus tard :
+	- **a)** le 30 avril 2014, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
+	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
 
 **Déclarations distinctes**
 
 - **(2)** Toute personne autorisée, en vertu du paragraphe 239(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à produire des déclarations distinctes pour des succursales ou divisions peut aussi en produire pour chacune d’elles en application de la présente partie.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71.
 
 
 
@@ -1435,7 +1519,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58.6** 
 
-- **(1)** Toute personne est tenue de verser au receveur général, au plus tard le 29 février 2008, le total de la taxe dont elle est redevable en vertu de la présente partie.
+- **(1)** Toute personne est tenue de verser au receveur général le total de la taxe dont elle est redevable en vertu de la présente partie, au plus tard :
+	- **a)** le 30 avril 2014, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
+	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
 
 **Intérêts de moins de 25 $**
 
@@ -1446,7 +1532,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Le ministre peut, à tout moment, proroger par écrit le délai prévu par la présente partie pour la production d’une déclaration ou le versement de la taxe exigible. Le cas échéant :
 	- **a)** la déclaration doit être produite ou la taxe exigible, payée dans le délai prorogé;
 	- **b)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72.
 
 
 
@@ -3247,24 +3333,24 @@ où :
 
 
 
-**Remboursement — tabac non ciblé importé**
+**Remboursement —  tabac non ciblé importé**
 
 **180.1** 
 
 - **(1)** Le ministre peut rembourser à la personne qui a importé du tabac fabriqué la somme déterminée selon le paragraphe (2) relativement au tabac si, à la fois :
 	- **a)** la personne fournit au ministre une preuve, agréée par celui-ci, des faits suivants :
-		- **(i)** le droit imposé sur le tabac en vertu de l’article 42, au taux fixé aux alinéas 1b), 2b) ou 3b) de l’annexe 1, a été acquitté,
+		- **(i)** le droit imposé sur le tabac en vertu de l’article 42, au taux fixé aux alinéas 1b), 2b) ou 3b) de l’annexe 1, en leur état le 11 février 2014, a été acquitté,
 		- **(ii)** il s’agit de tabac non ciblé qui :
-			- **(A)** a été livré à une boutique hors taxes ou à un entrepôt de stockage ou à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-			- **(B)** a été exporté pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+			- **(A)** a été livré à une boutique hors taxes ou à un entrepôt de stockage, ou à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), avant le 12 février 2014,
+			- **(B)** a été exporté avant le 12 février 2014 pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
 	- **b)** la personne demande le remboursement au ministre dans les deux ans suivant l’importation du tabac.
 
 **Montant du remboursement**
 
 - **(2)** Le montant du remboursement est égal à l’excédent du droit visé à l’alinéa a) sur le droit visé à l’alinéa b) :
 	- **a)** le droit visé au sous-alinéa (1)a)(i);
-	- **b)** le droit qui aurait été imposé sur le tabac en vertu de l’article 42 si le taux de droit applicable avait été celui fixé aux alinéas 1a), 2a) ou 3a) de l’annexe 1.
-> 2008, ch. 28, art. 58.
+	- **b)** le droit qui aurait été imposé sur le tabac en vertu de l’article 42 si le taux de droit applicable avait été celui fixé aux alinéas 1a), 2a) ou 3a) de l’annexe 1, en leur état le 11 février 2014.
+> 2008, ch. 28, art. 58; 2014, ch. 20, art. 73.
 
 
 
@@ -4174,7 +4260,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 		- **(vi)** à un fonctionnaire, mais uniquement en vue de procéder, par voie de compensation, à la retenue, sur toute somme due par Sa Majesté, de tout montant égal à une créance :
 			- **(A)** soit de Sa Majesté,
 			- **(B)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province aux termes de laquelle le Canada est autorisé à percevoir les impôts ou taxes à payer à la province,
-		- **(vii)** à un fonctionnaire, mais uniquement pour l’application de l’article 7.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md);
+		- **(vii)** à un fonctionnaire, mais uniquement pour l’application de l’article 7.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md),
+		- **(viii)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, mais uniquement en vue de permettre au Centre d’évaluer l’utilité des renseignements qu’il fournit à l’Agence du revenu du Canada en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 	- **f)** fournir un renseignement confidentiel, mais uniquement pour l’application des articles 23 à 25 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **g)** utiliser un renseignement confidentiel en vue de compiler des renseignements sous une forme qui ne révèle pas, même indirectement, l’identité de la personne en cause;
 	- **h)** utiliser ou fournir un renseignement confidentiel, mais uniquement à une fin liée à la surveillance ou à l’évaluation d’une personne autorisée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté relativement à une période au cours de laquelle la personne autorisée était soit employée par Sa Majesté, soit engagée par elle ou en son nom, pour aider à l’exécution ou au contrôle d’application de la présente loi, dans la mesure où le renseignement a rapport à cette fin;
@@ -4187,7 +4274,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 		- **(ii)** le fonctionnaire est ou était chargé de l’application ou de l’exécution de la présente loi,
 		- **(iii)** il est raisonnable de considérer que l’infraction est liée à l’application ou à l’exécution de la présente loi;
 	- **l)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, mais uniquement pour l’application d’une disposition figurant dans un accord international désigné;
-	- **m)** fournir un renseignement confidentiel à toute personne, mais uniquement en vue de permettre au statisticien en chef, au sens de l’article 2 de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), de fournir à un organisme de la statistique d’une province des données portant sur les activités d’entreprise exercées dans la province, à condition que le renseignement soit utilisé par l’organisme uniquement aux fins de recherche et d’analyse et que l’organisme soit autorisé en vertu des lois de la province à recueillir, pour son propre compte, le même renseignement ou un renseignement semblable relativement à ces activités.
+	- **m)** fournir un renseignement confidentiel à toute personne, mais uniquement en vue de permettre au statisticien en chef, au sens de l’article 2 de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), de fournir à un organisme de la statistique d’une province des données portant sur les activités d’entreprise exercées dans la province, à condition que le renseignement soit utilisé par l’organisme uniquement aux fins de recherche et d’analyse et que l’organisme soit autorisé en vertu des lois de la province à recueillir, pour son propre compte, le même renseignement ou un renseignement semblable relativement à ces activités;
+	- **n)** fournir des renseignements confidentiels à une personne qui a conclu, dans le cadre d’un programme administré par l’Agence du revenu du Canada qui permet d’obtenir des renseignements concernant l’inobservation fiscale, un contrat pour la fourniture de renseignements à l’Agence du revenu du Canada, dans la mesure nécessaire pour informer la personne de toute somme qu’elle pourrait recevoir en vertu du contrat et de l’état de son dossier en vertu du contrat.
 
 **Restriction — partage des renseignements**
 
@@ -4202,6 +4290,25 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 - **(6.3)** Le représentant d’une entité gouvernementale peut mettre à la disposition du public, relativement à un programme, à une activité ou à un service offert ou entrepris par l’entité, le numéro d’entreprise et le nom d’un détenteur de numéro d’entreprise (y compris tout nom commercial ou autre nom qu’il utilise) si, à la fois :
 	- **a)** ces renseignements ont été fournis à un représentant de l’entité en conformité avec l’alinéa (6)j);
 	- **b)** l’entité utilise le numéro d’entreprise comme identificateur du programme, de l’activité ou du service.
+
+**Infractions graves**
+
+- **(6.4)** Un fonctionnaire peut fournir les renseignements ci-après à un agent d’exécution de la loi d’une organisation de police compétente :
+	- **a)** des renseignements confidentiels, si le fonctionnaire a des motifs raisonnables de croire qu’ils constituent des éléments de preuve d’une action ou d’une omission commise au Canada ou à l’étranger qui, si elle était commise au Canada, constituerait :
+		- **(i)** une infraction prévue à l’une des dispositions suivantes :
+			- **(A)** l’article 3 de la [Loi sur la corruption d’agents publics étrangers](/fr/Lois/Lois%20du%20Canada/1998/ch.%2034.md),
+			- **(B)** les articles 119 à 121, 123 à 125 et 426 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+			- **(C)** l’article 465 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), relativement à une infraction visée à la division (B),
+			- **(D)** les articles 144, 264, 271, 279, 279.02, 281 et 333.1, les alinéas 334a) et 348(1)e) et les articles 349, 435 et 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(ii)** une infraction de terrorisme ou une infraction d’organisation criminelle, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), passible d’une peine maximale d’emprisonnement de dix ans ou plus,
+		- **(iii)** une infraction passible :
+			- **(A)** d’une peine minimale d’emprisonnement,
+			- **(B)** d’une peine maximale d’emprisonnement de quatorze ans ou d’emprisonnement à perpétuité,
+			- **(C)** d’une peine maximale d’emprisonnement de dix ans, et, selon le cas :
+				- **(I)** dont la perpétration entraîne des lésions corporelles,
+				- **(II)** qui met en cause l’importation, l’exportation, le trafic ou la production de drogues,
+				- **(III)** qui met en cause l’usage d’une arme;
+	- **b)** les renseignements établissant les motifs raisonnables mentionnés à l’alinéa a), dans la mesure où ces motifs sont fondés sur les renseignements visés à cet alinéa.
 
 **Mesures visant à prévenir l’utilisation ou la divulgation non autorisées d’un renseignement**
 
@@ -4230,7 +4337,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75.
 
 
 
@@ -4372,23 +4479,23 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Amende minimale**
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
-	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,17 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,17 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,213 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,29 $ par le nombre de cigares auxquels l’infraction se rapporte;
+	- **a)** le total des produits suivants :
+		- **(i)** le produit de 0,21 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,21 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,26 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,41 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
-	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,255 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,255 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,319 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,67 $ par le nombre de cigares auxquels l’infraction se rapporte;
+	- **a)** le total des produits suivants :
+		- **(i)** le produit de 0,32 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,32 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,39 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,82 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76.
 
 
 
@@ -4685,26 +4792,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-
-**Réaffectation de tabac non ciblé**
-
-**236** 
-
-- **(1)** Est passible d’une pénalité le titulaire de licence de tabac ou l’exploitant agréé d’entrepôt de stockage qui, en ce qui concerne le tabac fabriqué sur lequel le droit prévu à l’article 42 a été imposé au taux figurant aux alinéas 1a), 2a) ou 3a) de l’annexe 1 :
-	- **a)** s’agissant du titulaire de licence de tabac :
-		- **(i)** soit livre le tabac ailleurs qu’à une boutique hors taxes ou un entrepôt de stockage ou autrement que pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-		- **(ii)** soit exporte le tabac autrement que pour livraison à une boutique hors taxes à l’étranger ou autrement qu’à titre de provisions de bord à l’étranger;
-	- **b)** s’agissant de l’exploitant agréé d’entrepôt de stockage, livre le tabac autrement que pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md).
-
-**Pénalité**
-
-- **(2)** La pénalité est égale au montant représentant 200 % de la somme des montants suivants :
-	- **a)** l’excédent du droit visé au sous-alinéa (i) sur le droit visé au sous-alinéa (ii) :
-		- **(i)** le droit qui aurait été imposé en vertu de l’article 42 sur le tabac si le taux applicable de droit avait été celui qui figure aux alinéas 1b), 2b) ou 3b) de l’annexe 1,
-		- **(ii)** le droit qui a été imposé en vertu de l’article 42 sur le tabac;
-	- **b)** le droit spécial qui était exigible en vertu de l’alinéa 56(1)b) sur le tabac.
-> 2002, ch. 22, art. 236; 2007, ch. 18, art. 122.
-
+**236** [Abrogé, 2014, ch. 20, art. 77]
 
 
 
@@ -4779,10 +4867,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,361 448 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,361 448 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 451,81 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55.
+- **a)** 0,40 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,40 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 502,19 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78.
 
 
 
@@ -6548,159 +6636,164 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 ### **ANNEXE 1** 
-**(article 42)**
+**(article 42, 43.1 et 58.2)**
 ## Taux du droit sur les produits du tabac
-**1** Cigarettes :
+**1** Cigarettes, par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet :
 
-**a)** 0,374 875 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, si les cigarettes constituent des produits non ciblés destinés, selon le cas :
-
-**(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
+**a)** 0,525 75 $;
 
 
 
-**(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-
-
-
-**(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 43.1(2), le taux ajusté.
 
 
 
 
+**2** Bâtonnets de tabac, par bâtonnet :
 
-**b)** 0,425 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
-
-
-
-
-**2** Bâtonnets de tabac :
-
-**a)** 0,074 975 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
-
-**(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
+**a)** 0,105 15 $;
 
 
 
-**(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-
-
-
-**(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 43.1(2), le taux ajusté.
 
 
 
 
+**3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, par quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage :
 
-**b)** 0,085 $ le bâtonnet, dans les autres cas.
-
-
-
-
-**3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
-
-**a)** 4,685 938 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
-
-**(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
+**a)** 6,571 88 $;
 
 
 
-**(ii)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-
-
-
-**(iii)** à être exporté par le titulaire de licence de tabac qui l’a fabriqué pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 43.1(2), le taux ajusté.
 
 
 
 
+**4** Cigares, par lot de 1 000 cigares :
 
-**b)** 5,3125 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, dans les autres cas.
+**a)** 22,885 59 $;
 
 
 
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 43.1(2), le taux ajusté.
 
-**4** Cigares, 18,50 $ le lot de 1 000 cigares.
+
 
 
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79.
 
 
 
 
 ### **ANNEXE 2** 
-**(article 43)**
+**(article 43 et 43.1)**
 ## Droit additionnel sur les cigares
-Cigares — la plus élevée des sommes suivantes :
+Cigares, par cigare, la plus élevée des sommes suivantes :
 
-**a)** 0,067 $ le cigare;
+**a)** selon le cas :
 
-
-
-**b)** 67 % de la somme applicable suivante :
-
-**(i)** le prix de vente, dans le cas de cigares fabriqués au Canada,
+**(i)** 0,082 26 $,
 
 
 
-**(ii)** la valeur à l’acquitté, dans le cas de cigares importés.
+**(ii)** si le taux prévu au sous-alinéa (i) a été ajusté conformément au paragraphe 43.1(2), le taux ajusté;
 
 
 
 
 
+**b)** le produit du prix de vente, dans le cas de cigares fabriqués au Canada, ou de la valeur à l’acquitté, dans le cas de cigares importés, par celui des pourcentages ci-après qui est applicable :
 
-> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208.
+**(i)** si le taux prévu au sous-alinéa a)(i) n’a pas été ajusté conformément au paragraphe 43.1(2), 82 %,
+
+
+
+**(ii)** si oui, la somme, exprimée en pourcentage,  —  arrêtée à l’unité, les résultats ayant au moins cinq en première décimale étant arrondis à l’unité supérieure  —  obtenue par la formule suivante :
+```
+A × 1000
+```
+où :
+- **A** représente le taux ajusté prévu au sous-alinéa a)(ii), à supposer qu’il n’est pas exprimé en dollars.
+
+
+
+
+
+
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80.
 
 
 
 
 ### **ANNEXE 3** 
-**(articles 53, 54 et 56)**
+**(articles 53, 54, 56 et 58.2)**
 ## Taux des droits spéciaux sur certains produits de tabac fabriqué
 **1** Droit spécial sur le tabac fabriqué importé :
 
-**a)** 0,075 $ la cigarette;
+**a)** en dollars par cigarette, le taux  —  arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure  —  obtenu par la formule suivante :
+```
+A/5
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes, prévu à l’article 1 de l’annexe 1;
 
 
 
-**b)** 0,075 $ le bâtonnet de tabac;
+**b)** en dollars par bâtonnet de tabac, le taux de droit applicable à chaque bâtonnet de tabac, prévu à l’article 2 de l’annexe 1;
 
 
 
-**c)** 4,6875 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** en dollars par quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac, le taux de droit applicable à chaque quantité de 50 grammes, prévu à l’article 3 de l’annexe 1.
 
 
 
 
 **2** Droit spécial sur le tabac du voyageur :
 
-**a)** 0,075 $ la cigarette;
+**a)** en dollars par cigarette, le taux  —  arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure  —  obtenu par la formule suivante :
+```
+A/5
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes, prévu à l’article 1 de l’annexe 1;
 
 
 
-**b)** 0,075 $ le bâtonnet de tabac;
+**b)** en dollars par bâtonnet de tabac, le taux de droit applicable à chaque bâtonnet de tabac, prévu à l’article 2 de l’annexe 1;
 
 
 
-**c)** 4,6875 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** en dollars par quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac, le taux de droit applicable à chaque quantité de 50 grammes, prévu à l’article 3 de l’annexe 1.
 
 
 
 
 **3** Droit spécial sur les produits du tabac non estampillés :
 
-**a)** 0,075 $ la cigarette;
+**a)** en dollars par cigarette, le taux  —  arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure  —  obtenu par la formule suivante :
+```
+A/5
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes, prévu à l’article 1 de l’annexe 1;
 
 
 
-**b)** 0,075 $ le bâtonnet de tabac;
+**b)** en dollars par bâtonnet de tabac, le taux de droit applicable à chaque bâtonnet de tabac, prévu à l’article 2 de l’annexe 1;
 
 
 
-**c)** 93,75 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** en dollars par kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac, le taux  —  arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure  —  obtenu par la formule suivante :
+```
+A × 20
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de 50 grammes de tabac fabriqué, prévu à l’article 3 de l’annexe 1.
 
 
 
@@ -6720,7 +6813,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54; 2008, ch. 28, art. 65 à 68; 2013, ch. 33, art. 57 à 60.
+> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54; 2008, ch. 28, art. 65 à 68; 2013, ch. 33, art. 57 à 60; 2014, ch. 20, art. 81.
 
 
 
