@@ -343,7 +343,11 @@ Assented to on 26 June 2011
 
 **Pre-existing contracts**
 
-**19** If a winding-up order is made in respect of a company, a contract of insurance that the company entered into before the coming into force of this Act is deemed, for the purposes of sections 16, 17 and 20 to 25 to be a policy issued to a qualified mortgage lender in respect of an eligible mortgage loan if Her Majesty would have been bound to make a payment in respect of the contract of insurance had section 44 not come into force.
+**19** If a winding-up order is made in respect of a company, a contract of insurance that the company entered into before the coming into force of this Act is deemed, in respect of a mortgage or hypothecary loan that is the subject of the contract of insurance, to be a policy issued to a qualified mortgage lender in respect of an eligible mortgage loan for the purposes of sections 16, 17 and 20 to 25, if
+- **(a)** Her Majesty would have been bound to make a payment in respect of the contract of insurance had section 44 not come into force; and
+- **(b)** the mortgage or hypothecary loan meets the criteria established by regulations made under subsection 42(1) that relate to a guarantee of payment referred to in subsection 14(1) of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md).
+> 2011, c. 15, s. 20 “19”; 2014, c. 20, s. 314.
+
 
 
 
@@ -630,6 +634,10 @@ where
 
 - **(1)** The Minister may, after consulting with the Governor of the Bank of Canada and the Superintendent, make regulations establishing criteria that a mortgage or hypothecary loan must meet in order for it to be an eligible mortgage loan.
 
+**Criterion  — guarantee**
+
+- **(1.1)** Any criterion established by a regulation made under subsection (1) that relates to a guarantee of payment referred to in subsection 14(1) of the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md) may apply to an existing insured mortgage or hypothecary loan.
+
 **Ministerial regulations — agreements and undertakings**
 
 - **(2)** The Minister may make regulations specifying, for the purposes of paragraph 43(k), agreements entered into by Her Majesty and a company in respect of mortgage or hypothecary insurance, and undertakings given by a company under an agreement as defined in section 43.
@@ -637,6 +645,8 @@ where
 **Coming into force**
 
 - **(3)** A regulation made under this section comes into force on the day on which it is published in the Canada Gazette or on any later day that is specified in the regulation unless the regulation provides otherwise and it gives effect to a budgetary or other public announcement, in which case the regulation must not come into force before the day on which the announcement was made.
+> 2011, c. 15, s. 20 “42”; 2014, c. 20, s. 315.
+
 
 
 
