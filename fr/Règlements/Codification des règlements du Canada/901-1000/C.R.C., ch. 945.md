@@ -249,8 +249,8 @@ où :
 
 **103** 
 
-- **(1)** Lorsqu’un paiement à l’égard d’une gratification ou d’une augmentation de rémunération avec effet rétroactif est effectué par un employeur à un employé dont la rémunération totale provenant de l’employeur (y compris la gratification ou l’augmentation rétroactive) peut vraisemblablement ne pas excéder 5 000 $ dans l’année d’imposition de l’employé dans laquelle le paiement est effectué, l’employeur est tenu de déduire ou de retenir, dans le cas d’un employé qui se présente au travail à un établissement de l’employeur situé
-	- **a)** dans une province, 10 %,
+- **(1)** Lorsqu’un paiement à l’égard d’une gratification ou d’une augmentation de rémunération avec effet rétroactif est effectué par un employeur à un employé dont la rémunération totale provenant de l’employeur (y compris la gratification ou l’augmentation rétroactive) peut vraisemblablement ne pas excéder 5 000 $ dans l’année d’imposition de l’employé dans laquelle le paiement est effectué, l’employeur est tenu de déduire ou de retenir, dans le cas d’un employé qui se présente au travail à un établissement de l’employeur situé
+	- **a)** dans une province, 10 %,
 	- **b)** au Canada au-delà des limites d’une province ou à l’extérieur du Canada, 15 %,
 	- **c) à n)** [Abrogés, DORS/2001-221, art. 3]
 d’un tel paiement au lieu du montant déterminé en vertu de l’article 102.
@@ -291,7 +291,7 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102; et
 		- **(iv) à (xiv)** [Abrogés, DORS/2001-221, art. 3]
 de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 
-- **(5)** Le paiement visé au paragraphe (4) qui serait un revenu de pension ou un revenu de pension admissible de l’employé auquel le paragraphe 118(3) de la Loi s’appliquerait s’il était fait abstraction des sous-alinéas a)(ii) et (iii) de la définition de ***revenu de pension***, au paragraphe 118(7) de la Loi, est réputé être le montant du paiement diminué :
+- **(5)** Le paiement visé au paragraphe (4) qui serait un revenu de pension ou un revenu de pension admissible de l’employé auquel le paragraphe 118(3) de la Loi s’appliquerait s’il était fait abstraction des sous-alinéas a)(ii) et (iii) de la définition de ***revenu de pension***, au paragraphe 118(7) de la Loi, est réputé être le montant du paiement diminué :
 	- **a)** du moins élevé de 1 000 $ ou du montant du paiement, lorsque celui-ci ne dépasse pas le montant imposable visé à l’alinéa 117(2)a) de la Loi, rajusté annuellement conformément à l’article 117.1 de la Loi;
 	- **b)** de 727 $, si le paiement dépasse le montant visé à l’alinéa a) mais ne dépasse pas 61 509 $;
 	- **c)** de 615 $, si le paiement dépasse 61 509 $ mais ne dépasse pas 100 000 $;
@@ -300,7 +300,7 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 - **(6)** Aux fins du paragraphe (4), on entend par ***paiement d’une somme forfaitaire***
 	- **a)** un paiement visé au sous-alinéa 40(1)a)(i) ou (iii) ou à l’alinéa 40(1)c) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md);
 	- **b)** un paiement versé aux termes d’un régime de participation différée aux bénéfices ou d’un régime dit « régime dont l’agrément est retiré » à l’article 147 de la Loi, sauf un paiement visé au sous-alinéa 147(2)k)(v) de la Loi;
-	- **c)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
+	- **c)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
 		- **(i)** un paiement périodique de rente,
 		- **(ii)** un paiement fait par une personne qui a des motifs raisonnables de croire que le paiement est déductible en application du paragraphe 146(8.2) de la Loi dans le calcul du revenu d’un contribuable;
 	- **d)** un paiement versé à partir ou aux termes d’un régime appelé, au paragraphe 146(12) de la Loi, « régime modifié », autre
@@ -311,8 +311,8 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 	- **f)** un paiement versé à titre de ou tenant lieu de paiement ou de règlement du produit de l’abandon, de l’annulation ou du rachat d’un contrat de rentes à versements invariables;
 	- **g)** un paiement visé à l’alinéa n) de la définition de ***rémunération*** au paragraphe 100(1).
 
-- **(7)** La somme qu’une personne doit déduire ou retenir en application du paragraphe 153(1) de la Loi correspond à 50 pour cent :
-	- **a)** des cotisations qu’elle a versées dans le cadre d’une convention de retraite, à l’exclusion des suivantes :
+- **(7)** La somme qu’une personne doit déduire ou retenir en application du paragraphe 153(1) de la Loi correspond à 50 pour cent :
+	- **a)** des cotisations qu’elle a versées dans le cadre d’une convention de retraite, à l’exclusion des suivantes :
 		- **(i)** la cotisation qu’elle a versée à titre d’employé,
 		- **(ii)** la cotisation versée à un régime ou mécanisme qui est visé pour l’application du paragraphe 207.6(6) de la Loi,
 		- **(iii)** la cotisation versée par voie de transfert d’une autre convention de retraite dans les circonstances visées au paragraphe 207.6(7) de la Loi;
@@ -321,7 +321,11 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 - **(8)** L’employeur qui effectue un paiement visé à l’alinéa n) de la définition de ***rémunération*** au paragraphe 100(1) doit retenir — en sus de tout montant qui doit par ailleurs être retenu en application de la partie I du présent règlement — au titre de l’impôt payable en application de la partie X.5 de la Loi, un montant égal à ce qui suit :
 	- **a)** 12 pour cent du paiement si celui-ci est effectué dans la province de Québec;
 	- **b)** 20 pour cent du paiement dans tout autre cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 2; DORS/78-331, art. 3; DORS/78-449, art. 2; DORS/78-625, art. 2; DORS/79-359, art. 2; DORS/79-694, art. 2; DORS/80-382, art. 2; DORS/80-502, art. 2; DORS/80-683, art. 3; DORS/80-901, art. 2; DORS/80-941, art. 3; DORS/81-471, art. 4; DORS/83-349, art. 3; DORS/83-360, art. 1; DORS/83-692, art. 5; DORS/84-223, art. 1; DORS/84-913, art. 2; DORS/85-979, art. 1; DORS/86-629, art. 3; DORS/87-256, art. 1; DORS/87-471, art. 3; DORS/87-638, art. 2; DORS/88-153, art. 1; DORS/88-310, art. 2; DORS/89-147, art. 2; DORS/89-508, art. 3; DORS/90-161, art. 2; DORS/91-150, art. 2; DORS/91-279, art. 2; DORS/91-536, art. 2; DORS/92-51, art. 2; DORS/92-138, art. 2; DORS/92-667, art. 2; DORS/93-399, art. 1; DORS/94-238, art. 3; DORS/94-569, art. 2; DORS/94-686, art. 48; DORS/96-205, art. 1; DORS/96-464, art. 1; DORS/97-137, art. 1; DORS/97-531, art. 1; DORS/99-17, art. 3; DORS/99-18, art. 1; DORS/99-22, art. 2; DORS/2000-10, art. 1; DORS/2000-12, art. 1; DORS/2000-329, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 3.
+
+- **(9)** La somme à déduire ou à retenir par une personne sur le paiement d’une somme visée à l’alinéa 56(1)z.4) de la Loi représente :
+	- **a)** s’agissant d’un paiement fait à une personne résidant au Québec, 30 % du paiement;
+	- **b)** s’agissant d’un paiement fait à une personne résidant au Canada mais non au Québec, 50 % du paiement.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 2; DORS/78-331, art. 3; DORS/78-449, art. 2; DORS/78-625, art. 2; DORS/79-359, art. 2; DORS/79-694, art. 2; DORS/80-382, art. 2; DORS/80-502, art. 2; DORS/80-683, art. 3; DORS/80-901, art. 2; DORS/80-941, art. 3; DORS/81-471, art. 4; DORS/83-349, art. 3; DORS/83-360, art. 1; DORS/83-692, art. 5; DORS/84-223, art. 1; DORS/84-913, art. 2; DORS/85-979, art. 1; DORS/86-629, art. 3; DORS/87-256, art. 1; DORS/87-471, art. 3; DORS/87-638, art. 2; DORS/88-153, art. 1; DORS/88-310, art. 2; DORS/89-147, art. 2; DORS/89-508, art. 3; DORS/90-161, art. 2; DORS/91-150, art. 2; DORS/91-279, art. 2; DORS/91-536, art. 2; DORS/92-51, art. 2; DORS/92-138, art. 2; DORS/92-667, art. 2; DORS/93-399, art. 1; DORS/94-238, art. 3; DORS/94-569, art. 2; DORS/94-686, art. 48; DORS/96-205, art. 1; DORS/96-464, art. 1; DORS/97-137, art. 1; DORS/97-531, art. 1; DORS/99-17, art. 3; DORS/99-18, art. 1; DORS/99-22, art. 2; DORS/2000-10, art. 1; DORS/2000-12, art. 1; DORS/2000-329, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 3; 2014, ch. 20, art. 32.
 
 
 
@@ -483,18 +487,18 @@ le montant que l’employeur doit déduire ou retenir sur un tel paiement est la
 - **(1)** Sous réserve des paragraphes (1.1), (1.11) et (1.12), les montants déduits ou retenus au cours d’un mois aux termes du paragraphe 153(1) de la Loi doivent être remis au receveur général au plus tard le 15<sup>e</sup> jour du mois suivant.
 
 - **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
-	- **a)** égale ou supérieure à 15 000 $ et inférieure à 50 000 $, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois de l’année civile donnée doivent être remis au receveur général au plus tard :
+	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois de l’année civile donnée doivent être remis au receveur général au plus tard :
 		- **(i)** le 25<sup>e</sup> jour du mois, si les paiements sont effectués avant le 16<sup>e</sup> jour du mois,
 		- **(ii)** le 10<sup>e</sup> jour du mois suivant, s’ils sont effectués après le 15<sup>e</sup> jour du mois;
-	- **b)** égale ou supérieure à 50 000 $, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois de l’année civile donnée doivent être remis au receveur général au plus tard le troisième jour — samedis et jours fériés non compris — suivant la fin des périodes suivantes au cours desquelles les paiements ont été effectués :
+	- **b)** égale ou supérieure à 100 000 $, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois de l’année civile donnée doivent être remis au receveur général au plus tard le troisième jour  — samedis et jours fériés non compris  —  suivant la fin des périodes ci-après au cours desquelles les paiements ont été effectués :
 		- **(i)** la période commençant le 1<sup>er</sup> jour et se terminant le 7<sup>e</sup> jour du mois,
 		- **(ii)** la période commençant le 8<sup>e</sup> jour et se terminant le 14<sup>e</sup> jour du mois,
 		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour du mois,
 		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour du mois.
 
 - **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre, conformément à l’un ou l’autre de ces alinéas, les montants déduits ou retenus aux termes du paragraphe 153(1) de la Loi pour une année civile donnée peut choisir de les remettre :
-	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 15 000 $ et s’il informe le ministre de son choix;
-	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 15 000 $ et inférieure à 50 000 $ et s’il informe le ministre de son choix :
+	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 25 000 $ et s’il informe le ministre de son choix;
+	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 25 000 $ et inférieure à 100 000 $ et s’il informe le ministre de son choix :
 		- **(i)** à l’égard des paiements effectués avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
 		- **(ii)** à l’égard des paiements effectués après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
 
@@ -512,7 +516,7 @@ les montants déduits ou retenus sur les paiements visés à la définition de *
 	- **a)** du total des sommes dont chacune est une somme à remettre pour l’année donnée par cet employeur et, s’il s’agit d’une société, par chaque société qui lui est associée au cours d’une année d’imposition de l’employeur se terminant pendant la deuxième année civile suivant l’année donnée, en application, selon le cas :
 		- **(i)** du paragraphe 153(1) de la Loi et d’une disposition semblable d’une loi provinciale qui prévoit un impôt sur le revenu des particuliers, dans le cas où la province a conclu avec le ministre des Finances une convention pour la perception des impôts payables à la province, au titre des paiements visés à la définition de ***rémunération*** au paragraphe 100(1),
 		- **(ii)** du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md),
-		- **(iii)** du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou du paragraphe 53(1) de la Loi sur l’assurance-chômage,
+		- **(iii)** du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md),
 par
 	- **b)** le nombre de mois de l’année donnée, ne dépassant pas 12, pour lesquels ces sommes doivent être remises par l’employeur et, s’il s’agit d’une société, par chaque société qui lui est associée au cours d’une année d’imposition de l’employeur se terminant pendant la deuxième année civile suivant l’année donnée.
 
@@ -527,7 +531,7 @@ cet autre employeur est réputé être une société associée à l’employeur 
 - **(3)** Les remises au Receveur général en vertu du paragraphe 153(1) de la Loi doivent être accompagnées d’une déclaration selon le formulaire prescrit.
 
 - **(4)** Les montants déduits ou retenus en vertu du paragraphe 153(4) de la Loi doivent être remis au Receveur général dans les 60 jours de la fin de l’année d’imposition qui suit la période de 12 mois mentionnée dans ce paragraphe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4; 2007, ch. 35, art. 71.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4; 2007, ch. 35, art. 71; 2014, ch. 20, art. 33.
 
 
 
@@ -691,7 +695,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **j)** d’un paiement visé à l’alinéa 212(1)r) de la Loi à l’égard d’un régime enregistré d’épargne-études, ou qui y serait visé s’il n’était pas tenu compte du sous-alinéa 212(1)r)(ii),
 	- **k)** une subvention accordée en vertu d’un programme prescrit aux fins de l’alinéa 212(1)s) de la Loi,
 	- **l)** d’un paiement visé à l’alinéa 212(1)j) de la Loi à l’égard d’une convention de retraite,
-	- **m)** d’un paiement visé à l’alinéa 212(1)v) de la Loi,
+	- **m)** d’un paiement visé aux alinéas 212(1)v) ou x) de la Loi,
 doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de telle somme.
 
 - **(2.1)** Toute personne qui réside au Canada et qui verse une somme prélevée sur le second fonds du compte de stabilisation du revenu net à une personne non résidante est tenue de remplir, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, une déclaration de renseignements selon le formulaire prescrit, à l’égard d’une telle somme.
@@ -709,7 +713,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(7)** Sous réserve du paragraphe (8), une déclaration de renseignements exigée en vertu du présent article doit être produite au plus tard le 31 mars et doit viser l’année civile précédente.
 
 - **(8)** Lorsqu’une somme mentionnée au paragraphe (1) ou (2) est un revenu d’une succession ou d’une fiducie ou en provenant, la déclaration de renseignements exigée à cet égard en vertu du présent article doit être produite dans les 90 jours suivant la fin de l’année d’imposition de la succession ou de la fiducie au cours de laquelle cette somme a été versée ou créditée, et doit viser cette année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2; 2013, ch. 34, art. 27.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2; 2013, ch. 34, art. 27; 2014, ch. 20, art. 34.
 
 
 
@@ -13018,8 +13022,8 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6708** Pour l’application de l’alinéa 204.8(2)b) et du paragraphe 204.81(8.3) de la Loi, l’article 27.2 de la Loi de 1992 sur les fonds communautaires de placement dans les petites entreprises, L.O. 1992, ch. 18, est une règle de liquidation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 404.
+**6708** Pour l’application de l’alinéa 204.8(2)b), l’article 27.2 de la Loi de 1992 sur les fonds communautaires de placement dans les petites entreprises, L.O. 1992, ch. 18, est une règle de liquidation.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 34, art. 404; 2014, ch. 20, art. 35.
 
 
 
@@ -17543,7 +17547,7 @@ les présomptions suivantes s’appliquent :
 
 
 
-#### Définition de « régime interentreprises »
+#### Définition de ***régime interentreprises***
 
 
 **8510** 
@@ -18132,8 +18136,16 @@ où
 	- **d)** le régime n’est pas un régime désigné;
 	- **e)** le ministre a approuvé l’application du paragraphe (3.01) relativement au transfert.
 
+- **(3.001)** Le paragraphe (3.01) s’applique relativement au transfert d’une somme pour le compte d’un particulier en règlement total ou partiel de son droit aux prestations prévues par une disposition à prestations déterminées d’un régime de pension agréé si les conditions ci-après sont réunies :
+	- **a)** le particulier est un employé ou un ancien employé d’un employeur (ou d’un employeur que celui-ci a remplacé) qui était un employeur participant dans le cadre de la disposition;
+	- **b)** des prestations viagères payées ou à payer au particulier dans le cadre de la disposition ont été réduites du fait que les actifs du régime sont insuffisants pour verser les prestations prévues par la disposition du régime tel qu’il est agréé;
+	- **c)** le ministre a approuvé l’application du paragraphe (3.01) relativement au transfert;
+	- **d)** selon le cas :
+		- **(i)** le régime n’est pas un régime de retraite individuel et la réduction des prestations viagères payées ou à payer au particulier a été approuvée en vertu de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou d’une loi provinciale semblable,
+		- **(ii)** le régime est un régime de retraite individuel, la somme transférée du régime pour le compte du particulier est le dernier paiement provenant du régime et tous les biens détenus dans le cadre du régime sont distribués pour le compte des participants au régime dans les 90 jours suivant le transfert.
+
 - **(3.01)** En cas d’application du présent paragraphe, l’élément A de la formule figurant au paragraphe (1) est réputé avoir le libellé ci-après en ce qui concerne le transfert :
-- **A** représente le montant, calculé au paragraphe (4), des prestations viagères assurées au particulier par la disposition qui sont rachetées en vue du transfert, compte non tenu de la réduction mentionnée à l’alinéa (3)c);
+- **A** représente le montant, calculé au paragraphe (4), des prestations viagères assurées au particulier par la disposition qui sont rachetées en vue du transfert, compte non tenu de la réduction mentionnée aux alinéas (3)c) ou (3.001)b), selon le cas;
 
 - **(3.02)** Si une somme donnée est transférée en règlement total ou partiel du droit d’un particulier aux prestations prévues par une disposition à prestations déterminées d’un régime de pension agréé et que le paragraphe (3.01) s’est appliqué relativement au transfert (appelé « transfert initial » au présent paragraphe) d’une somme pour le compte du particulier dans le cadre de la disposition, le montant prescrit pour l’application de l’alinéa 147.3(4)c) de la Loi relativement au transfert de la somme donnée correspond à la moins élevée des sommes suivantes :
 	- **a)** la somme donnée;
@@ -18200,7 +18212,7 @@ l’alinéa (5)g) s’applique comme si les choix suivants ne s’offraient pas 
 	- **b)** à partir de ce même moment, des prestations lui sont assurées aux termes d’une autre disposition à prestations déterminées du régime ou d’une semblable disposition d’un autre régime de pension agréé;
 	- **c)** un employeur qui a participé dans le cadre de la disposition donnée au profit du particulier participe également à l’autre disposition au profit du particulier,
 le montant des prestations viagères du particulier aux termes de la disposition donnée, rachetées en vue de transfert, est égal au montant qui serait calculé selon le paragraphe (4) si les prestations prévues par l’autre disposition étaient prévues par la disposition donnée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 26; DORS/2001-188, art. 12; 2011, ch. 24, art. 97.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 26; DORS/2001-188, art. 12; 2011, ch. 24, art. 97; 2014, ch. 20, art. 36.
 
 
 
@@ -18470,14 +18482,17 @@ sur le total des montants représentant chacun :
 
 
 
-### Fiducie qui n’est pas une institution financière
+### Personne qui n’est pas une institution financière
 
 
-**9000** Pour l’application de la définition de ***institution financière*** au paragraphe 142.2(1) de la Loi, une fiducie est une personne visée à un moment donné si les conditions suivantes sont réunies à ce moment :
-- **a)** la fiducie est une fiducie créée à l’égard du fonds réservé, au sens de l’alinéa 138.1(1)a) de la Loi;
-- **b)** la fiducie est réputée, en vertu de l’alinéa 138.1(1)a) de la Loi, avoir été établie au plus deux ans avant le moment donné;
-- **c)** le coût, déterminé selon les alinéas 138.1(1)c) et d) de la Loi, de la participation du fiduciaire dans la fiducie ne dépasse pas 5 000 000 $.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 118.
+**9000** Les personnes ci-après sont des personnes visées pour l’application de la définition de ***institution financière*** au paragraphe 142.2(1) de la Loi :
+- **a)** la Banque de développement du Canada;
+- **b)** la BDC Capital Inc.;
+- **c)** une fiducie, à un moment donné, à l’égard de laquelle les conditions ci-après sont réunies à ce moment :
+	- **(i)** la fiducie est une fiducie créée à l’égard du fonds réservé, au sens de l’alinéa 138.1(1)a) de la Loi,
+	- **(ii)** la fiducie est réputée, en vertu de cet alinéa, avoir été créée au plus deux ans avant ce moment,
+	- **(iii)** le coût de la participation du fiduciaire dans la fiducie, déterminé selon les alinéas 138.1(1)c) et d) de la Loi, ne dépasse pas 5 000 000 $.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 118; 2014, ch. 20, art. 37.
 
 
 
