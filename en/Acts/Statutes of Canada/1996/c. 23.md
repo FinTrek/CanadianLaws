@@ -4793,9 +4793,10 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 - **(2)** The election is binding on the individual in respect of the initial claim for all benefits payable, for any of the following reasons, during the benefit period established in relation to the initial claim:
 	- **(a)** pregnancy;
 	- **(b)** caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption;
-	- **(c)** a prescribed illness, injury or quarantine; and
-	- **(d)** providing care or support to one or more family members.
-> 2009, c. 33, s. 16.
+	- **(c)** a prescribed illness, injury or quarantine;
+	- **(d)** providing care or support to one or more family members; and
+	- **(e)** providing care or support to one or more critically ill children of the self-employed person.
+> 2009, c. 33, s. 16; 2014, c. 20, s. 249.
 
 
 
