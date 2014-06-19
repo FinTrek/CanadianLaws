@@ -2423,9 +2423,51 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **a)** des frais que Sa Majesté a engagés dans le cadre de l’application de la présente loi et de l’accord sur le bois d’oeuvre, au sens du paragraphe 2(1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md);
 	- **b)** des frais de justice — y compris les dommages-intérêts — entraînés pour Sa Majesté par tout litige relatif à la présente loi ou à cet accord.
 
+**Calculs**
+
+- **(1.1)** La portion des recettes à verser à une province est calculée trimestriellement au cours de tout exercice.
+
+**Définition de exercice**
+
+- **(1.2)** Pour l’application du paragraphe (1.1), ***exercice*** s’entend de la période commençant le 1<sup>er</sup> avril d’une année et se terminant le 31 mars de l’année suivante.
+
+**Recettes**
+
+- **(1.3)** Les recettes à attribuer à une province pour un trimestre donné sont celles tirées des droits prévus aux articles 10 ou 15 sur les produits de bois d’oeuvre provenant de cette province.
+
+**Frais**
+
+- **(1.4)** Les frais visés aux alinéas (1)a) et b) à attribuer à une province pour un trimestre donné sont calculés selon la formule suivante :
+```
+A × (B/C) + D
+```
+où :
+- **A** représente les frais qui viennent à la connaissance du ministre au cours de ce trimestre;
+- **B** le volume, en pied-planche, de produits de bois d’oeuvre exportés de la province vers les États-Unis au cours de ce trimestre en vertu de licences d’exportation;
+- **C** le volume, en pied-planche, de produits de bois d’oeuvre exportés de toutes les provinces vers les États-Unis au cours de ce trimestre en vertu de licences d’exportation;
+- **D** le montant total des frais attribués à la province pour les trimestres antérieurs, y compris tout trimestre antérieur à la date d’entrée en vigueur du présent paragraphe, qui n’ont pas été déduits des transferts de recettes à la province ni perçus précédemment en vertu de l’article 40.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) ou au moyen de paiements volontaires faits par la province à Sa Majesté du chef du Canada.
+
+**Exception**
+
+- **(1.5)** Dans le cas des frais visés à l’alinéa (1)b), la formule s’applique à moins que le ministre ne décide, au titre du paragraphe (1), d’attribuer les frais autrement.
+
+**Montant égal ou inférieur à zéro**
+
+- **(1.6)** Si, après les déductions, le montant obtenu est égal ou inférieur à zéro à l’égard d’une province, le ministre n’a pas à verser une portion des recettes à cette province.
+
+**Rapprochement**
+
+- **(1.7)** Sauf en ce qui a trait au rapprochement final, un rapprochement des sommes est effectué annuellement.
+
 **Montant du transfert**
 
 - **(2)** La somme à verser à une province donnée est payée sur le Trésor.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre du Commerce international, prendre toute mesure d’application du présent article.
+> 2006, ch. 13, art. 99; 2014, ch. 20, art. 311.
+
 
 
 
@@ -2443,9 +2485,9 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **b)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **c)** prendre toute autre mesure d’application de la présente loi.
 
-**Règlements — article 99**
+- **(2)** [Abrogé, 2014, ch. 20, art. 312]
+> 2006, ch. 13, art. 100; 2014, ch. 20, art. 312.
 
-- **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre du Commerce international, prévoir les modalités de détermination de la somme à verser au titre de l’article 99 et les conditions de versement de celle-ci.
 
 
 
