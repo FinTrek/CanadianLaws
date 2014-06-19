@@ -415,18 +415,18 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 **22** 
 
-- **(1)** Sous réserve du paragraphe (3), sont confidentiels et doivent être traités comme tels les renseignements ci-après, ainsi que les renseignements qui sont tirés de ceux-ci :
+- **(1)** Sous réserve du paragraphe (3), sont confidentiels et doivent être traités comme tels les renseignements ci-après, ainsi que les renseignements qui sont tirés de ceux-ci :
 	- **a)** ceux concernant les activités commerciales et les affaires internes d’une institution financière, d’une banque étrangère, d’une société de portefeuille bancaire ou d’une société de portefeuille d’assurances ou concernant une personne faisant affaire avec l’une d’elles, et obtenus par le surintendant ou par toute autre personne exécutant ses directives, dans le cadre de l’application de toute loi fédérale;
 	- **b)** ceux reçus par un membre du comité établi en vertu du paragraphe 18(1) ou par une personne désignée par lui en vertu du paragraphe 18(5) dans le cadre de l’échange d’information prévu au paragraphe 18(3);
 	- **c)** ceux communiqués au surintendant aux termes de l’article 522.27 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 **Réserve**
 
-- **(1.1)** Malgré le paragraphe (1), les paragraphes 606(1) et 636(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), le paragraphe 435(1) de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), le paragraphe 672(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et le paragraphe 503(1) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), le surintendant peut communiquer au Centre d’analyse des opérations et déclarations financières du Canada, constitué par l’article 41 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), des renseignements relatifs aux directives et aux mécanismes mis en oeuvre par les institutions financières dans le but d’assurer l’observation de la partie 1 de cette loi.
+- **(1.1)** Malgré le paragraphe (1), les paragraphes 606(1) et 636(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), le paragraphe 435(1) de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), le paragraphe 672(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et le paragraphe 503(1) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), le surintendant peut communiquer au Centre d’analyse des opérations et déclarations financières du Canada, constitué par l’article 41 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), des renseignements relatifs aux directives et aux mécanismes mis en oeuvre par les institutions financières dans le but d’assurer l’observation des parties 1 et 1.1 de cette loi.
 
 **Communication autorisée**
 
-- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
+- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
 	- **a)** à une agence ou à un organisme gouvernemental qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.01)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.1)** à la Société d’assurance-dépôts du Canada ou à l’association d’indemnisation désignée par le ministre aux termes des paragraphes 449(1) et 591(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) pour l’accomplissement de leurs fonctions;
@@ -451,7 +451,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Rapport**
 
 - **(6)** Le surintendant joint au rapport visé à l’article 40 un rapport sur la divulgation de renseignements par les institutions financières et faisant état du progrès accompli pour améliorer la divulgation des renseignements sur le milieu des services financiers.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 22; 1991, ch. 46, art. 601; 1994, ch. 26, art. 49(F); 1996, ch. 6, art. 109; 1997, ch. 15, art. 338; 1999, ch. 28, art. 129; 2001, ch. 9, art. 472; 2004, ch. 15, art. 97.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 22; 1991, ch. 46, art. 601; 1994, ch. 26, art. 49(F); 1996, ch. 6, art. 109; 1997, ch. 15, art. 338; 1999, ch. 28, art. 129; 2001, ch. 9, art. 472; 2004, ch. 15, art. 97; 2010, ch. 12, art. 1883.
 
 
 
