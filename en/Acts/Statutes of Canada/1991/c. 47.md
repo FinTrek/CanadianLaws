@@ -5582,7 +5582,7 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **Special meeting of eligible policyholders**
 
-- **(1.1)** Before an application is made under subsection (1), the directors of the company must call a special meeting of eligible policyholders to obtain
+- **(1.1)** Before an application is made under subsection (1), the directors of the company must call a special meeting of eligible policyholders to obtain
 	- **(a)** approval of the conversion proposal;
 	- **(b)** confirmation of any by-law or of any amendment to or repeal of a by-law that is necessary to implement the conversion proposal; and
 	- **(c)** authorization to make the application.
@@ -5590,12 +5590,12 @@ is entitled to submit to the company a written statement giving the reasons for 
 **Notice of meeting and policyholder list**
 
 - **(1.2)** A company shall, in respect of a special meeting,
-	- **(a)** send, not less than 45 days and not more than 75 days before the meeting, to each eligible policyholder a notice of the time and place of the meeting, describing the conversion proposal in sufficient detail to permit a policyholder to form a reasoned judgment about the terms of the proposal and its impact on both policyholders and the company, together with the prescribed information in respect of the conversion proposal; and
-	- **(b)** prepare, not less than 45 days before the meeting, a list, which may be in electronic form, of all eligible policyholders.
+	- **(a)** send, not less than 45 days and not more than 75 days before the meeting, to each eligible policyholder a notice of the time and place of the meeting, describing the conversion proposal in sufficient detail to permit a policyholder to form a reasoned judgment about the terms of the proposal and its impact on both policyholders and the company, together with the prescribed information in respect of the conversion proposal; and
+	- **(b)** prepare, not less than 45 days before the meeting, a list, which may be in electronic form, of all eligible policyholders.
 
 **Application of subsection 149(5)**
 
-- **(1.3)** Subsection 149(5) applies, with any modifications that the circumstances require, in respect of the list of eligible policyholders.
+- **(1.3)** Subsection 149(5) applies, with any modifications that the circumstances require, in respect of the list of eligible policyholders.
 
 **Entitlement to notice and right to vote**
 
@@ -5603,20 +5603,21 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **Special resolution**
 
-- **(1.5)** Any approval, confirmation or authorization referred to in subsection (1.1) must be given by special resolution of the eligible policyholders.
+- **(1.5)** Any approval, confirmation or authorization referred to in subsection (1.1) must be given by special resolution of the eligible policyholders.
 
 **Regulations**
 
 - **(2)** The Governor in Council may make regulations
-	- **(a)** respecting the application referred to in subsection (1), including the form of the application and the information to be contained in the application, and authorizing the Superintendent to require additional information in order to make a recommendation;
+	- **(a)** respecting the application referred to in subsection (1), including the form of the application and the information to be contained in the application, and authorizing the Superintendent to require additional information in order to make a recommendation;
+	- **(a.01)** respecting the process that precedes the calling of a special meeting under subsection (1.1), including the development of a conversion proposal, and respecting the calling of that meeting;
 	- **(a.1)** respecting the conversion proposal, including the information to be contained in the conversion proposal, and authorizing the Superintendent to approve the measures to be taken by the converting company in respect of any proposed amendment to the conversion proposal;
 	- **(a.2)** respecting the value of a converting company for the purposes of the regulations and authorizing the Superintendent to specify a day at which the value shall be estimated by the converting company;
 	- **(b)** concerning the fair and equitable treatment of policyholders under a conversion proposal;
-	- **(c)** governing the ownership of shares issued by a mutual company that has been converted into a company with common shares;
-	- **(c.1)** respecting the authorization by the Superintendent of the sending of a notice of a special meeting referred to in subsection (1.1), including
+	- **(c)** governing the ownership of shares issued by a mutual company that has been converted into a company with common shares, including limiting the circumstances in which the Minister may give approval under subsection 407(1);
+	- **(c.1)** respecting the authorization by the Superintendent of the sending of a notice of a special meeting referred to in subsection (1.1), including
 		- **(i)** prescribing the information to be submitted by the converting company in support of an authorization,
-		- **(ii)** authorizing the Superintendent to consider information in addition to that referred to in subparagraph (i), and
-		- **(iii)** authorizing the Superintendent to require that information, in addition to the prescribed information referred to in paragraph (1.2)(a), be sent with a notice;
+		- **(ii)** authorizing the Superintendent to consider information in addition to that referred to in subparagraph (i), and
+		- **(iii)** authorizing the Superintendent to require that information, in addition to the prescribed information referred to in paragraph (1.2)(a), be sent with a notice;
 	- **(c.2)** authorizing the Superintendent to
 		- **(i)** require the converting company to hold one or more information sessions for eligible policyholders and to take other measures to assist eligible policyholders in forming a reasoned judgment on the conversion proposal, and
 		- **(ii)** set the rules under which the information sessions must be held;
@@ -5626,16 +5627,20 @@ is entitled to submit to the company a written statement giving the reasons for 
 		- **(ii)** any person who was a director, officer or employee of the company during the year preceding the effective date of conversion of the company; and
 	- **(d)** generally, respecting the conversion of a mutual company into a company with common shares.
 
+**Regulations made under paragraph (2)(a.01)**
+
+- **(2.1)** Regulations made under paragraph (2)(a.01) may provide for court intervention in the process referred to in that paragraph, including the circumstances in which the court is to be seized of any matter in relation to that process, and may govern the court’s powers and procedures in that regard. They may also govern authorizations by the Superintendent in respect of notices to be sent in the context of that process.
+
 **Exemption by Superintendent**
 
-- **(3)** A regulation made under subsection (2) may provide that the Superintendent may, on such terms and conditions as the Superintendent considers appropriate, exempt a company from prescribed requirements of that regulation.
+- **(3)** A regulation made under subsection (2) may provide that the Superintendent may, on such terms and conditions as the Superintendent considers appropriate, exempt a company from prescribed requirements of that regulation.
 
 **Exemption by Minister**
 
 - **(4)** The Minister may, on such terms and conditions as the Minister considers appropriate, exempt a company from any requirement of this Act or the regulations if
 	- **(a)** the company is a mutual company applying for the approval of a proposal to convert the company into a company with common shares; and
 	- **(b)** the Minister is of the opinion that the company is, or is about to be, in financial difficulty and that the exemption would help to facilitate an improvement in the financial condition of the company.
-> 1991, c. 47, s. 237; 1994, c. 26, s. 38(E); 1997, c. 15, s. 215; 1999, c. 1, s. 5.
+> 1991, c. 47, s. 237; 1994, c. 26, s. 38(E); 1997, c. 15, s. 215; 1999, c. 1, s. 5; 2014, c. 20, s. 211.
 
 
 
