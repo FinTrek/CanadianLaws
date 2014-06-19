@@ -39,11 +39,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council for the purposes of this Act; (*ministre*)
 
-***Nordion*** means Nordion International Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
+***Nordion*** means Nordion International Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any successor to that corporation; (*Nordion*)
 
-***Theratronics*** means Theratronics International Limited, a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
+***Theratronics*** means Theratronics International Limited, a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or any successor to that corporation. (*Theratronics*)
 
 **Same meaning**
 
@@ -52,7 +52,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Operation of [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)**
 
 - **(3)** In the event of any inconsistency between this Act and the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), or anything issued, made or established under that Act, this Act prevails to the extent of the inconsistency.
-> 1990, c. 4, s. 2; 1994, c. 24, s. 34(F).
+> 1990, c. 4, s. 2; 1994, c. 24, s. 34(F); 2014, c. 20, s. 206.
 
 
 
@@ -120,8 +120,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exceptions**
 
 - **(3)** No provision imposing constraints pursuant to subsection (1) and no regulation referred to in subsection (2) apply in respect of voting shares of Nordion that are held
-	- **(a)** by one or more underwriters solely for the purpose of distributing the shares to the public; or
-	- **(b)** by any person providing centralized facilities for the clearing of trades in securities and acting in relation to trading in the shares solely as an intermediary in the payment of funds or the delivery of the shares, or both.
+	- **(a)** by one or more underwriters solely for the purpose of distributing the shares to the public;
+	- **(b)** by any person providing centralized facilities for the clearing of trades in securities and acting in relation to trading in the shares solely as an intermediary in the payment of funds or the delivery of the shares, or both; or
+	- **(c)** by any person if the acquisition of those shares by that person
+		- **(i)** is an investment that, under sections 21 to 23 of the [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md), is, or is deemed, likely to be of net benefit to Canada, and
+		- **(ii)** is not prohibited under Part IV.1 of that Act.
+
+**Exception  — subsequent holders**
+
+- **(3.1)** No provision imposing constraints under subsection (1) and no regulation referred to in subsection (2) apply in respect of any voting shares of Nordion referred to in paragraph (3)(c) that are subsequently held by any other person.
 
 **Associates**
 
@@ -154,9 +161,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(7)** In this section,
 
-***corporation*** includes a body corporate, partnership and unincorporated organization;
+***corporation*** includes a body corporate, partnership and unincorporated organization; (*société*)
 
-***non-resident*** means
+***non-resident*** means
 - **(a)** an individual, other than a Canadian citizen, who is not ordinarily resident in Canada,
 - **(b)** a corporation incorporated, formed or otherwise organized outside Canada,
 - **(c)** a foreign government or an agency thereof,
@@ -164,14 +171,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(e)** a trust
 	- **(i)** established by a non-resident as defined in any of paragraphs (b) to (d), other than a trust for the administration of a pension fund for the benefit of individuals a majority of whom are residents, or
 	- **(ii)** in which non-residents as defined in any of paragraphs (a) to (d) have more than fifty per cent of the beneficial interest, or
-- **(f)** a corporation that is controlled by a trust described in paragraph (e);
+- **(f)** a corporation that is controlled by a trust described in paragraph (e); (*non-résident*)
 
-***person*** includes an individual, corporation, government or agency thereof, trustee, executor, administrator and other legal representative;
+***person*** includes an individual, corporation, government or agency thereof, trustee, executor, administrator and other legal representative; (*personne*)
 
-***resident*** means an individual, corporation, government or agency thereof or trust that is not a non-resident;
+***resident*** means an individual, corporation, government or agency thereof or trust that is not a non-resident; (*résident*)
 
-***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security.
-> 1990, c. 4, s. 6; 1994, c. 24, s. 34(F).
+***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security. (*action avec droit de vote*)
+> 1990, c. 4, s. 6; 1994, c. 24, s. 34(F); 2014, c. 20, s. 207.
 
 
 
@@ -179,9 +186,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Restriction on amendment**
 
-**7** Nordion and its shareholders and directors shall not
-- **(a)** apply for continuance of Nordion in another jurisdiction; or
-- **(b)** make any articles or by-laws that are inconsistent with the provisions included in its articles of amendment pursuant to subsection 6(1).
+**7** 
+
+- **(1)** Nordion and its shareholders and directors shall not
+	- **(a)** apply for continuance of Nordion in another jurisdiction; or
+	- **(b)** make any articles or by-laws that are inconsistent with the provisions included in its articles of amendment pursuant to subsection 6(1).
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if a person holds voting shares referred to in paragraph 6(3)(c) or subsection 6(3.1).
+> 1990, c. 4, s. 7; 2014, c. 20, s. 208.
+
 
 
 
@@ -192,9 +207,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Provisions applicable to Theratronics**
 
-**8** Sections 5 to 7 apply to Theratronics as if
+**8** Sections 5 to 7, with the exception of paragraph 6(3)(c) and subsections 6(3.1) and 7(2), apply to Theratronics as if
 - **(a)** the references therein to “Nordion” were references to “Theratronics”; and
 - **(b)** the reference in subsection 6(1) to “twenty-five per cent” were a reference to “forty-nine per cent”.
+> 1990, c. 4, s. 8; 2014, c. 20, s. 209.
+
 
 
 
