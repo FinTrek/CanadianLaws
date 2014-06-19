@@ -10424,6 +10424,42 @@ where
 
 
 
+**Derivatives  — regulations**
+
+**415.2** 
+
+- **(1)** The Governor in Council may make regulations respecting a bank’s activities in relation to derivatives.
+
+**Definition of derivative**
+
+- **(2)** In this section, ***derivative*** means an option, swap, futures contract, forward contract or other financial or commodity contract or instrument whose market price, value, delivery obligations, payment obligations or settlement obligations are derived from, referenced to or based on an underlying interest, including a price, rate, index, value, variable, event, probability or thing.
+> 2014, c. 20, s. 210.
+
+
+
+
+
+**Benchmarks  — regulations**
+
+**415.3** 
+
+- **(1)** The Governor in Council may make regulations respecting a bank’s activities in relation to benchmarks.
+
+**Definition of benchmark**
+
+- **(2)** In this section, ***benchmark*** means a price, estimate, rate, index or value that is
+	- **(a)** determined from time to time by reference to an assessment of one or more underlying interests;
+	- **(b)** made available to the public, either free of charge or on payment; and
+	- **(c)** used for reference for any purpose, including
+		- **(i)** determining the interest payable, or other sums that are due, under loan agreements or other financial contracts or instruments,
+		- **(ii)** determining the value of financial instruments or the price at which they may be bought or sold, and
+		- **(iii)** measuring the performance of financial instruments.
+> 2014, c. 20, s. 210.
+
+
+
+
+
 **Restriction on insurance business**
 
 **416** 
