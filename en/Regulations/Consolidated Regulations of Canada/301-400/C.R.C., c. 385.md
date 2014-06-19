@@ -215,18 +215,18 @@ where
 - **(1)** Subject to subsections (1.1), (1.11), (1.12) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
 
 - **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
-	- **(a)** equal to or greater than $15,000 and less than $50,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General
+	- **(a)** equal to or greater than $25,000 and less than $100,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General
 		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
 		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month; or
-	- **(b)** equal to or greater than $50,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which remuneration was paid,
+	- **(b)** equal to or greater than $100,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which remuneration was paid,
 		- **(i)** the period beginning on the first day of a month in the particular calendar year and ending on the 7th day of the month,
 		- **(ii)** the period beginning on the 8th day of a month in the particular calendar year and ending on the 14th day of the month,
 		- **(iii)** the period beginning on the 15th day of a month in the particular calendar year and ending on the 21st day of the month, and
 		- **(iv)** the period beginning on the 22nd day of a month in the particular calendar year and ending on the last day of the month.
 
 - **(1.11)** Where an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit the employee’s contribution and employer’s contribution in respect of a particular calendar year in accordance with that paragraph, the employer may elect to remit those contributions
-	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $15,000 and the employer has advised the Minister that the employer has so elected; or
-	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $15,000 and less than $50,000 and the employer has advised the Minister that the employer has so elected,
+	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $25,000 and the employer has advised the Minister that the employer has so elected; or
+	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $25,000 and less than $100,000 and the employer has advised the Minister that the employer has so elected,
 		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
 		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month.
 
@@ -245,7 +245,7 @@ contributions payable in a month that ends after that time and that is in the pa
 - **(2)** An employer carrying on a business or activity with respect to which he employs employees in pensionable employment shall, if he ceases to carry on that business or activity, within seven days of so ceasing remit to the Receiver General any employee’s contribution and any employer’s contribution that he is required to remit with respect to those employees.
 
 - **(3)** Every payment by an employer of an employee’s contribution or an employer’s contribution shall be accompanied by a return in prescribed form.
-> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90.
+> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90; 2014, c. 20, s. 38.
 
 
 
