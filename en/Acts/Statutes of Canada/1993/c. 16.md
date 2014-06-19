@@ -77,7 +77,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Use of marks**
 
-- **(2)** A company authorized by the Minister in the prescribed manner may, subject to the provisions of this Act, apply a national safety mark, in the prescribed form and manner and on the prescribed place, to a vehicle or equipment of a prescribed class.
+- **(2)** A company authorized by the Minister, as provided for in the regulations, may apply a national safety mark to a vehicle or equipment, as provided for in the regulations.
+
+**Provision of address**
+
+- **(2.1)** The company shall provide the Minister with the address of the premises at which the national safety mark is to be applied.
 
 **Prohibition**
 
@@ -86,6 +90,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Confusing marks**
 
 - **(4)** No person shall use a mark other than a national safety mark in such a manner that it is likely to be mistaken for a national safety mark.
+> 1993, c. 16, s. 3; 2014, c. 20, s. 214.
+
 
 
 
@@ -97,7 +103,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-## Vehicle and Equipment Standards
+## Vehicle and Equipment Requirements
 
 
 
@@ -107,19 +113,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 - **(1)** No company shall apply a national safety mark to any vehicle or equipment, sell any vehicle or equipment to which a national safety mark has been applied, or import into Canada any vehicle or equipment of a prescribed class unless
 	- **(a)** the vehicle or equipment conforms to the standards prescribed for vehicles or equipment of its class at the time the main assembly of the vehicle was completed or the equipment was manufactured;
-	- **(b)** evidence of such conformity has been obtained and produced in the prescribed form and manner or, where the regulations so provide, in a form and manner satisfactory to the Minister;
+	- **(b)** evidence of that conformity has been obtained and produced as provided for in the regulations or, if the regulations so provide, to the Minister’s satisfaction;
 	- **(c)** [Repealed, 1999, c. 33, s. 351]
-	- **(d)** prescribed information is marked on the vehicle or equipment in the prescribed form and manner and on the prescribed place;
-	- **(e)** where required by the regulations, prescribed documentation or prescribed accessories accompany the vehicle or equipment;
-	- **(f)** prescribed information relating to the operation of the vehicle or equipment is disseminated in the prescribed form and manner;
-	- **(g)** records are maintained and furnished in the prescribed form and manner in relation to the design, manufacture, testing and field performance of the vehicle or equipment, for the purpose of
-		- **(i)** enabling an inspector to determine whether the vehicle or equipment conforms to all prescribed standards applicable to it, and
+	- **(d)** prescribed information is marked on the vehicle or equipment as provided for in the regulations;
+	- **(e)** prescribed documentation or prescribed accessories accompany the vehicle or equipment as provided for in the regulations;
+	- **(f)** prescribed information relating to the operation of the vehicle or equipment is disseminated as provided for in the regulations;
+	- **(g)** records are maintained and furnished, as provided for in the regulations, in relation to the design, manufacture, testing and field performance of the vehicle or equipment, for the purpose of
+		- **(i)** enabling an inspector to determine whether the vehicle or equipment conforms to all requirements applicable to it, and
 		- **(ii)** facilitating the identification and analysis of defects referred to in subsection 10(1); and
-	- **(h)** in the case of equipment, the company maintains a registration system in the prescribed form and manner by which any person who has purchased equipment manufactured, imported or sold by the company and who wishes to be identified may be identified.
+	- **(h)** in the case of equipment, the company maintains, as provided for in the regulations, a registration system by which any person who has purchased equipment manufactured, imported or sold by the company and who wishes to be identified may be so identified.
 
-**Maintenance of records**
-
-- **(2)** A person who maintains records referred to in paragraph (1)(g) or a registration system referred to in paragraph (1)(h) shall cause information therein to be retained for the prescribed period.
+- **(2)** [Repealed, 2014, c. 20, s. 216]
 
 **Time of compliance**
 
@@ -128,7 +132,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Certification by foreign agency**
 
 - **(4)** Where the regulations so provide in relation to a prescribed standard that corresponds to a prescribed enactment of a foreign government, a vehicle shall be deemed to conform to the standard if a prescribed agency of that government has certified that the vehicle conforms to the enactment as applied by the agency, unless the Minister determines that the vehicle does not conform to that enactment as so applied.
-> 1993, c. 16, s. 5; 1999, c. 33, s. 351.
+> 1993, c. 16, s. 5; 1999, c. 33, s. 351; 2014, c. 20, s. 216.
 
 
 
@@ -147,7 +151,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 - **(1)** Sections 5 and 6 do not apply in respect of the importation of a vehicle or equipment if
 	- **(a)** the person importing the vehicle or equipment makes a declaration in the prescribed form and manner that the vehicle or equipment will be used in Canada solely for purposes of exhibition, demonstration, evaluation or testing and will remain in Canada for not longer than one year or such other period as the Minister specifies in relation to the vehicle or equipment; or
-	- **(b)** the vehicle or equipment is being imported exclusively for use by a visitor to Canada or by a person passing through Canada to another country.
+	- **(b)** the vehicle or equipment is passing through Canada to another country or is exclusively for use by a visitor to Canada.
 
 **Exception — temporary importation**
 
@@ -184,19 +188,22 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** the vehicle conforms to the corresponding standard prescribed for vehicles of its class at that time; or
 	- **(b)** there is no corresponding standard at that time.
 
-**Imported vehicles**
-
-- **(4)** A vehicle that is imported into Canada must conform to the standard prescribed for the class of equivalent non-imported vehicle, or made to conform to this standard prior to the presentation for registration under the laws of a province.
+- **(4)** [Repealed, 2014, c. 20, s. 217]
 
 **Declarations binding**
 
 - **(5)** No person who makes a declaration referred to in paragraph (1)(a) or subsection (2) in respect of a vehicle or equipment shall use or dispose of the vehicle or equipment in a manner contrary to the terms of that declaration.
-> 1993, c. 16, s. 7; 2011, c. 24, s. 185.
+> 1993, c. 16, s. 7; 2011, c. 24, s. 185; 2014, c. 20, s. 217.
 
 
 
 
-**8** [Repealed, 1999, c. 33, s. 352]
+
+**Analytical aids**
+
+**8** A company that applies a national safety mark to any vehicle or equipment or that imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister’ request, provide the Minister with the means to retrieve and analyse information created or recorded by the vehicle or equipment.
+> 1993, c. 16, s. 8; 1999, c. 33, s. 352; 2014, c. 20, s. 218.
+
 
 
 
@@ -209,7 +216,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9** 
 
-- **(1)** On application by a company in the prescribed form, supported by prescribed technical and financial information, the Governor in Council may, by order, grant an exemption for a specified period, subject to any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard applicable to that model where conformity with that standard would, in the opinion of the Governor in Council,
+- **(1)** On application by a company as provided for in the regulations, the Governor in Council may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if conformity with that standard would, in the opinion of the Governor in Council,
 	- **(a)** create substantial financial hardship for the company;
 	- **(b)** impede the development of new safety features that are equivalent to or superior to those that conform to prescribed standards; or
 	- **(c)** impede the development of new kinds of vehicles, vehicle systems or components.
@@ -233,7 +240,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Renewal of exemption**
 
 - **(5)** On expiration of the period of an exemption, a new exemption may be granted in accordance with this section.
-> 1993, c. 16, s. 9; 1999, c. 33, s. 353.
+> 1993, c. 16, s. 9; 1999, c. 33, s. 353; 2014, c. 20, s. 219.
 
 
 
@@ -292,48 +299,53 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **11** 
 
-- **(1)** The Governor in Council may make regulations
-	- **(a)** prescribing or providing for anything that by this Act is to be prescribed or provided for by the regulations; and
-	- **(b)** generally for carrying out the purposes and provisions of this Act.
+- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
+	- **(a)** respecting the keeping of records and the provision of information to the Minister; and
+	- **(b)** prescribing or providing for anything that by this Act is to be prescribed or provided for by the regulations.
 
 **Progressive application**
 
 - **(2)** Regulations prescribing a standard may be made applicable in respect of a specified proportion of vehicles of any class before those regulations are made applicable in respect of all vehicles of that class.
 
-**Publication of proposed regulations**
+**Incorporation by reference**
 
-- **(3)** Regulations proposed to be made under this Act shall be published in the Canada Gazette and a reasonable opportunity afforded to interested persons to make representations to the Minister with respect to them.
+- **(3)** Regulations made under this section may, in whole or in part, incorporate by reference, as it is amended from time to time or as it exists on a particular date,
+	- **(a)** a document produced by a person or body other than the Minister; or
+	- **(b)** a technical or explanatory document produced by the Minister including specifications, classifications, illustrations, graphs, test methods, procedures, operational standards and performance standards.
 
-**Exceptions**
+**No registration or publication**
 
-- **(4)** Subsection (3) does not require the publication of proposed regulations
-	- **(a)** that have been modified as a result of representations made to the Minister following their previous publication under that subsection; or
-	- **(b)** that would make no substantive change to existing regulations.
-
+- **(4)** For greater certainty, a document that is incorporated by reference in a regulation is not required to be transmitted for registration or published in the Canada Gazette under the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) by reason only that it is incorporated by reference.
+> 1993, c. 16, s. 11; 2014, c. 20, s. 223.
 
 
 
-**Definition of “technical standards document”**
+
+
+**Definition of technical standards document**
 
 **12** 
 
-- **(1)** In this section, ***technical standards document*** means a document, published in the prescribed manner by authority of the Minister, that reproduces in the official languages of Canada an enactment of a foreign government with such adaptations of form and reference as will facilitate the incorporation of the enactment under this section.
+- **(1)** In this section, ***technical standards document*** means a document that is published by the Minister, as provided for in the regulations, that adapts, or that reproduces in whole or in part in the official languages of Canada, an enactment of a foreign government or material produced by an international organization. The adaptations may include amendments to the content of the originating enactment or material.
 
 **Incorporation of document**
 
-- **(2)** Regulations made under this Act may incorporate by reference a technical standards document as it reads on a prescribed day or as it is amended from time to time following the incorporation by reference, and may extend, qualify or exclude the application of any provision of the document so incorporated.
+- **(2)** Regulations made under this Act may, in whole or in part, incorporate by reference a technical standards document as it is amended from time to time or as it exists on a particular date.
 
-**Publication**
+**No registration or publication**
 
-- **(3)** No person is required to comply with a provision of a technical standards document incorporated by the regulations until six months after the publication of the provision in the prescribed manner, provided the person continues to comply with any provision for which that provision is substituted.
+- **(3)** For greater certainty, a technical standards document that is incorporated by reference in a regulation is not required to be transmitted for registration or published in the Canada Gazette under the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) by reason only that it is incorporated by reference.
+> 1993, c. 16, s. 12; 2014, c. 20, s. 224.
 
-**Expiration**
 
-- **(4)** Where regulations incorporate a technical standards document as amended from time to time, those regulations shall specify the day on which they shall expire, which day may not be later than five years after the day on which they come into force.
 
-**Document not a statutory instrument**
 
-- **(5)** A technical standards document is not a statutory instrument for the purposes of the Statutory Instruments Act.
+
+**For greater certainty**
+
+**12.1** For greater certainty, subsections 11(3) and 12(2) do not limit any authority to make regulations incorporating material by reference that exists apart from those subsections.
+> 2014, c. 20, s. 224.
+
 
 
 
@@ -365,6 +377,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 - **(2)** The Minister shall furnish every inspector with a certificate of designation, and on entering any place referred to in subsection 15(1) an inspector shall, on demand from the person in charge of that place, produce the certificate for examination by that person.
 
+**Testimony  — civil suits**
+
+- **(3)** An inspector may not be compelled to give testimony in any civil suit, with regard to information obtained by them in the discharge of their duties, without the Minister’s written permission.
+> 1993, c. 16, s. 14; 2014, c. 20, s. 225.
+
+
 
 
 
@@ -373,7 +391,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **15** 
 
 - **(1)** For the purpose of verifying compliance with this Act, an inspector may at any reasonable time enter any place in which the inspector believes on reasonable grounds there is
-	- **(a)** any vehicle or equipment of a class for which safety standards have been prescribed that is owned by, or is on the premises of, a company or a consignee of imported vehicles or imported equipment;
+	- **(a)** any vehicle or equipment of a class for which standards have been prescribed that is owned by, or is on the premises of, a company or a consignee of imported vehicles or imported equipment;
 	- **(b)** any component intended to be used in the manufacture of a vehicle or equipment for which safety standards have been prescribed; or
 	- **(c)** any record referred to in paragraph 5(1)(g).
 
@@ -390,6 +408,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(4)** An inspector may seize and, subject to sections 489.1 to 491.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), detain any vehicle, equipment or component described in subsection (1)
 	- **(a)** by means of which or in relation to which the inspector believes on reasonable grounds this Act has been contravened; or
 	- **(b)** that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of this Act.
+> 1993, c. 16, s. 15; 2014, c. 20, s. 226.
+
 
 
 
@@ -419,20 +439,20 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **17** 
 
-- **(1)** Every corporation that contravenes any provision of this Act or the regulations
-	- **(a)** is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding one hundred thousand dollars; or
-	- **(b)** is guilty of an indictable offence and is liable to a fine not exceeding one million dollars.
+- **(1)** Every corporation or company that contravenes this Act, the regulations or an order
+	- **(a)** is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $200,000; or
+	- **(b)** is guilty of an indictable offence and is liable to a fine of not more than $2 million.
 
 **Offence and punishment**
 
-- **(2)** Every individual who contravenes any provision of this Act or the regulations
-	- **(a)** is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding six months, or to both; or
-	- **(b)** is guilty of an indictable offence and is liable to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding two years, or to both.
+- **(2)** Every individual who contravenes this Act, the regulations or an order
+	- **(a)** is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $4,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** is guilty of an indictable offence and is liable to a fine of not more than $20,000 or to imprisonment for a term of not more than two years, or to both.
 
 **Defence where more than one manufacturer**
 
 - **(3)** In a prosecution for a contravention of section 4 or subsection 5(1) by a company engaged in the business of assembling or altering vehicles, it is a defence for the company to establish that the contravention occurred as a result of work previously done on a vehicle by another person engaged in the manufacture of the vehicle.
-> 1993, c. 16, s. 17; 2011, c. 24, s. 186.
+> 1993, c. 16, s. 17; 2011, c. 24, s. 186; 2014, c. 20, s. 227.
 
 
 
@@ -468,7 +488,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-## Research, Testing and Fees
+## Research, Analysis, Testing and Fees
 
 
 
@@ -477,11 +497,16 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **20** 
 
 - **(1)** The Minister may
-	- **(a)** conduct such research, studies and evaluations as the Minister considers necessary for the administration and enforcement of this Act;
+	- **(a)** conduct any research, studies, evaluations and analyses that the Minister considers necessary for the administration and enforcement of this Act;
 	- **(b)** undertake research and development programs for the study of the impact of vehicles, drivers of vehicles, and streets and highways on road safety, energy conservation and the environment and for the promotion of measures to control that impact;
 	- **(c)** establish and operate facilities for the testing of vehicles, equipment and components, and acquire test equipment for that purpose;
-	- **(d)** make the facilities referred to in paragraph (c) and all related materials, parts and services available to any person; and
-	- **(e)** publish or otherwise disseminate any information relating to the activities of the Minister under this section.
+	- **(d)** make the facilities referred to in paragraph (c) and all related materials, parts and services available to any person;
+	- **(e)** collect any information related to vehicles or equipment that the Minister considers to be in the public interest; and
+	- **(f)** publish or otherwise disseminate any information, other than personal information, relating to the activities of the Minister under this section.
+
+**Personal information**
+
+- **(1.1)** For the purposes of paragraphs (1)(a), (b) and (e), the Minister may collect personal information, as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), including personal information from third parties.
 
 **Fees and prices to be charged**
 
@@ -494,6 +519,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Recovery of charges**
 
 - **(4)** Any amount charged pursuant to subsection (2) may be recovered as a debt due to Her Majesty in the Federal Court.
+> 1993, c. 16, s. 20; 2014, c. 20, s. 229.
+
 
 
 
