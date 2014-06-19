@@ -77,7 +77,11 @@ French version only***matériels*** Véhicules ou équipements.
 
 **Usage des marques**
 
-- **(2)** Sous réserve des autres dispositions de la présente loi, les entreprises autorisées, selon les modalités réglementaires, par le ministre, peuvent apposer des marques nationales de sécurité selon les modalités réglementaires et aux endroits prévus par règlement, sur les matériels appartenant à une catégorie déterminée par règlement.
+- **(2)** Les entreprises autorisées par le ministre, conformément aux règlements, peuvent apposer des marques nationales de sécurité sur des matériels conformément aux règlements.
+
+**Communication de l’adresse**
+
+- **(2.1)** L’entreprise communique au ministre l’adresse des locaux où l’apposition de la marque nationale de sécurité est effectuée.
 
 **Interdiction**
 
@@ -86,6 +90,8 @@ French version only***matériels*** Véhicules ou équipements.
 **Usage trompeur**
 
 - **(4)** Il est interdit d’employer une marque différente susceptible d’être confondue avec une marque nationale de sécurité.
+> 1993, ch. 16, art. 3; 2014, ch. 20, art. 214.
+
 
 
 
@@ -97,7 +103,7 @@ French version only***matériels*** Véhicules ou équipements.
 
 
 
-## Normes relatives aux matériels
+## Exigences relatives aux matériels
 
 
 
@@ -107,17 +113,15 @@ French version only***matériels*** Véhicules ou équipements.
 
 - **(1)** Pour une entreprise, l’apposition de la marque nationale de sécurité sur des matériels ou la vente de matériels ainsi marqués, de même que l’importation de matériels appartenant à une catégorie déterminée par règlement, sont subordonnées aux conditions suivantes :
 	- **a)** conformité aux normes réglementaires applicables à la catégorie à la fin de l’assemblage principal du véhicule ou de la fabrication de l’équipement;
-	- **b)** justification de la conformité selon les modalités réglementaires ou, si les règlements le prévoient, selon les modalités que le ministre juge satisfaisantes;
+	- **b)** justification, conformément aux règlements, de la conformité ou, si les règlements le prévoient, à la satisfaction du ministre;
 	- **c)** [Abrogé, 1999, ch. 33, art. 351]
-	- **d)** apposition sur les matériels des renseignements réglementaires selon les modalités réglementaires et aux endroits prévus par règlement;
-	- **e)** fourniture avec les matériels, dans les cas prévus par règlement, des documents et accessoires réglementaires;
-	- **f)** diffusion, selon les modalités réglementaires, de tous renseignements réglementaires relatifs au fonctionnement ou à l’utilisation des matériels;
-	- **g)** tenue et fourniture, selon les modalités réglementaires, de dossiers relatifs à la conception, à la fabrication, aux essais ou au rendement sur le terrain des matériels, en vue de permettre à l’inspecteur de procéder aux vérifications de conformité à toutes les normes réglementaires applicables et de faciliter la détection et l’analyse des défauts visés au paragraphe 10(1);
-	- **h)** tenue par l’entreprise, en la forme et selon les modalités réglementaires, d’un fichier permettant d’identifier, à la demande de l’intéressé, tout acheteur d’équipements fabriqués, importés ou vendus par l’entreprise.
+	- **d)** apposition sur les matériels, conformément aux règlements, des renseignements réglementaires;
+	- **e)** fourniture avec les matériels, conformément aux règlements, des documents et accessoires réglementaires;
+	- **f)** diffusion, conformément aux règlements, de tous renseignements réglementaires relatifs au fonctionnement ou à l’utilisation des matériels;
+	- **g)** tenue et fourniture, conformément aux règlements, de dossiers relatifs à la conception, à la fabrication, aux essais ou au rendement sur le terrain des matériels, en vue de permettre à l’inspecteur de procéder aux vérifications de conformité à toutes les exigences applicables et de faciliter la détection et l’analyse des défauts visés au paragraphe 10(1);
+	- **h)** tenue par l’entreprise, conformément aux règlements, d’un fichier permettant d’identifier tout acheteur d’équipements  —  fabriqués, importés ou vendus par l’entreprise  —  qui souhaite y être identifié.
 
-**Conservation des dossiers**
-
-- **(2)** La durée de conservation obligatoire des dossiers visés à l’alinéa (1)g) ou du fichier visé à l’alinéa (1)h) est fixée par règlement.
+- **(2)** [Abrogé, 2014, ch. 20, art. 216]
 
 **Exception**
 
@@ -126,7 +130,7 @@ French version only***matériels*** Véhicules ou équipements.
 **Certification par un organisme étranger**
 
 - **(4)** Dans les cas prévus par règlement à l’égard d’une norme réglementaire qui correspond à un texte réglementaire d’un gouvernement étranger et sauf avis contraire du ministre, un véhicule est réputé conforme à la norme si un organisme de ce gouvernement, désigné par règlement, certifie que le véhicule est conforme à ce texte tel qu’appliqué par l’organisme.
-> 1993, ch. 16, art. 5; 1999, ch. 33, art. 351.
+> 1993, ch. 16, art. 5; 1999, ch. 33, art. 351; 2014, ch. 20, art. 216.
 
 
 
@@ -145,7 +149,7 @@ French version only***matériels*** Véhicules ou équipements.
 
 - **(1)** Les articles 5 et 6 ne s’appliquent pas à l’importation de matériels qui, selon le cas :
 	- **a)** ne doivent être utilisés qu’à des fins promotionnelles ou expérimentales, pendant une période fixée par le ministre ou n’excédant pas un an, l’importateur ayant fait, selon les modalités réglementaires, une déclaration à cet effet;
-	- **b)** doivent être utilisés exclusivement par une personne de passage ou en transit au Canada.
+	- **b)** sont en transit au Canada ou utilisés exclusivement par une personne de passage.
 
 **Exception — importations temporaires**
 
@@ -180,19 +184,22 @@ French version only***matériels*** Véhicules ou équipements.
 	- **a)** soit le véhicule est conforme à la norme réglementaire correspondante prévue pour sa catégorie à ce moment;
 	- **b)** soit aucune autre norme correspondante n’est en vigueur.
 
-**Conformité aux normes : véhicules importés**
-
-- **(4)** Un véhicule qui est importé au Canada doit se conformer à la norme prescrite pour la catégorie équivalente de véhicules non importés, ou être rendu conforme à cette norme avant sa présentation pour immatriculation sous le régime des lois d’une province.
+- **(4)** [Abrogé, 2014, ch. 20, art. 217]
 
 **Effets des déclarations**
 
 - **(5)** Il est interdit à l’auteur des déclarations visées à l’alinéa (1)a) ou au paragraphe (2) d’utiliser les matériels ou de s’en départir contrairement à celles-ci.
-> 1993, ch. 16, art. 7; 2011, ch. 24, art. 185.
+> 1993, ch. 16, art. 7; 2011, ch. 24, art. 185; 2014, ch. 20, art. 217.
 
 
 
 
-**8** [Abrogé, 1999, ch. 33, art. 352]
+
+**Moyens d’analyse**
+
+**8** L’entreprise qui appose une marque nationale de sécurité sur des matériels ou qui importe des matériels d’une catégorie régie par des normes réglementaires fournit au ministre, à sa demande, les moyens lui permettant d’extraire ou d’analyser les renseignements créés ou recueillis par les matériels.
+> 1993, ch. 16, art. 8; 1999, c. 33, s. 352; 2014, ch. 20, art. 218.
+
 
 
 
@@ -205,7 +212,7 @@ French version only***matériels*** Véhicules ou équipements.
 
 **9** 
 
-- **(1)** Le gouverneur en conseil peut par décret, pour une période et à des conditions déterminées, dispenser une entreprise de se conformer aux normes réglementaires applicables à un modèle de véhicule qu’elle fabrique ou importe, pourvu que l’entreprise en fasse la demande, en la forme et avec les renseignements techniques et financiers prévus par règlement, et qu’il juge que, par l’application de ces normes, se réaliserait l’une des conditions suivantes :
+- **(1)** Le gouverneur en conseil peut par décret, pour une période et aux conditions qui y sont précisées, dispenser une entreprise de se conformer aux normes réglementaires applicables à un modèle de véhicule qu’elle fabrique ou importe, pourvu que l’entreprise en fasse la demande, conformément aux règlements, et qu’il juge que, par l’application de ces normes, se réaliserait l’une des conditions suivantes :
 	- **a)** création de grandes difficultés financières pour l’entreprise;
 	- **b)** entrave à la mise au point de dispositifs de sécurité équivalents ou supérieurs à ceux qui sont conformes aux normes réglementaires;
 	- **c)** entrave à la mise au point de nouveaux types de véhicules ou de dispositifs ou pièces de véhicules.
@@ -229,7 +236,7 @@ French version only***matériels*** Véhicules ou équipements.
 **Renouvellement**
 
 - **(5)** Une nouvelle dispense peut être accordée dans les conditions prévues par le présent article à l’échéance de la dispense originelle.
-> 1993, ch. 16, art. 9; 1999, ch. 33, art. 353.
+> 1993, ch. 16, art. 9; 1999, ch. 33, art. 353; 2014, ch. 20, art. 219.
 
 
 
@@ -283,46 +290,53 @@ French version only***matériels*** Véhicules ou équipements.
 
 **11** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
-	- **b)** prendre toute autre mesure d’application de la présente loi.
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi, notamment :
+	- **a)** régir toute question concernant la tenue de dossiers et la communication de renseignements au ministre;
+	- **b)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi.
 
 **Portée**
 
 - **(2)** Un règlement d’établissement d’une norme peut être applicable à une proportion déterminée de véhicules d’une catégorie avant de l’être à tous.
 
-**Publication des projets de règlement**
+**Incorporation par renvoi**
 
-- **(3)** Les projets de règlements d’application de la présente loi sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+- **(3)** Les règlements pris en vertu du présent article peuvent incorporer par renvoi soit dans sa version à une date donnée, soit avec ses modifications successives :
+	- **a)** tout ou partie d’un document produit par une personne ou un organisme autre que le ministre;
+	- **b)** tout ou partie d’un document technique ou explicatif, notamment des spécifications, des classifications, des illustrations, des graphiques, des méthodes d’essai, des procédures ou des normes d’exploitation ou de rendement, produit par le ministre.
 
-**Exception**
+**Ni enregistrement ni publication**
 
-- **(4)** Ne sont pas visés les projets de règlement déjà publiés dans les conditions prévues au paragraphe (3) s’ils ont été modifiés à la suite de ces observations ou s’ils n’apportent pas de modifications de fond notables à la réglementation en vigueur.
+- **(4)** Il est entendu que les documents qui sont incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada en application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) du seul fait de leur incorporation.
+> 1993, ch. 16, art. 11; 2014, ch. 20, art. 223.
 
 
 
 
-**Définition de « document de normes techniques »**
+
+**Définition de document de normes techniques**
 
 **12** 
 
-- **(1)** Au présent article, ***document de normes techniques*** s’entend d’un document publié selon les modalités réglementaires sous l’autorité du ministre et reproduisant, dans les deux langues officielles du Canada et avec les adaptations facilitant son incorporation au titre du présent article, un texte édicté par un gouvernement étranger.
+- **(1)** Au présent article, ***document de normes techniques*** s’entend d’un document, publié par le ministre conformément aux règlements, qui reproduit en tout ou en partie, dans les deux langues officielles du Canada, ou qui l’adapte, un texte édicté par un gouvernement étranger ou un document produit par un organisme international. L’adaptation du texte ou du document d’origine se fait notamment par modification de son contenu.
 
 **Incorporation d’un document**
 
-- **(2)** Les règlements pris au titre de la présente loi peuvent incorporer par renvoi un document de normes techniques en son état à la date qu’ils prévoient ou avec ses modifications éventuelles et étendre, limiter ou exclure l’application de toute disposition de ce document.
+- **(2)** Les règlements pris au titre de la présente loi peuvent incorporer par renvoi tout ou partie d’un document de normes techniques soit dans sa version à une date donnée, soit avec ses modifications successives.
 
-**Publication**
+**Ni enregistrement ni publication**
 
-- **(3)** La personne qui continue de se conformer à toute disposition remplacée par un document de normes techniques incorporé dans un règlement n’est pas tenue de se conformer à celui-ci pendant les six mois qui suivent sa publication selon les modalités réglementaires.
+- **(3)** Il est entendu que les documents de normes techniques qui sont incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada en application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) du seul fait de leur incorporation.
+> 1993, ch. 16, art. 12; 2014, ch. 20, art. 224.
 
-**Expiration**
 
-- **(4)** Dans le cas où ils incorporent un document de normes techniques avec ses modifications éventuelles, les règlements précisent leur propre date de cessation d’effet, qui doit se situer dans les cinq années qui suivent leur entrée en vigueur.
 
-**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(5)** Les documents de normes techniques ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+**Précision**
+
+**12.1** Il est entendu que les paragraphes 11(3) et 12(2) n’ont pas pour effet d’empêcher la prise de règlements incorporant par renvoi des documents autres que ceux visés par ces paragraphes.
+> 2014, ch. 20, art. 224.
+
 
 
 
@@ -354,6 +368,12 @@ French version only***matériels*** Véhicules ou équipements.
 
 - **(2)** Le ministre remet à l’inspecteur un certificat attestant sa qualité, que celui-ci présente, sur demande, au responsable des lieux visés au paragraphe 15(1).
 
+**Non-contraignabilité**
+
+- **(3)** L’inspecteur ne peut être contraint sans l’autorisation écrite du ministre à témoigner dans une action civile relativement à des renseignements qu’il a obtenus dans l’exercice de ses fonctions.
+> 1993, ch. 16, art. 14; 2014, ch. 20, art. 225.
+
+
 
 
 
@@ -362,7 +382,7 @@ French version only***matériels*** Véhicules ou équipements.
 **15** 
 
 - **(1)** Afin de procéder à des vérifications de conformité à la présente loi, l’inspecteur peut, à toute heure convenable, pénétrer dans les lieux où il a des motifs raisonnables de croire à la présence :
-	- **a)** de matériels appartenant à une catégorie assujettie à des normes de sécurité réglementaires et qui sont la propriété ou se trouvent dans les locaux d’une entreprise ou d’un consignataire de matériels importés;
+	- **a)** de matériels appartenant à une catégorie assujettie à des normes réglementaires et qui sont la propriété ou se trouvent dans les locaux d’une entreprise ou d’un consignataire de matériels importés;
 	- **b)** de pièces destinées à servir à la fabrication de matériels ainsi assujettis;
 	- **c)** de dossiers visés par l’alinéa 5(1)g).
 
@@ -377,6 +397,8 @@ French version only***matériels*** Véhicules ou équipements.
 **Saisie de biens**
 
 - **(4)** L’inspecteur peut saisir et, sous réserve des articles 489.1 à 491.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatifs à la disposition de biens saisis, retenir tous matériels ou pièces visés au paragraphe (1) qu’il croit, pour des motifs raisonnables, avoir servi ou donné lieu à une infraction à la présente loi ou pouvoir servir à prouver l’infraction.
+> 1993, ch. 16, art. 15; 2014, ch. 20, art. 226.
+
 
 
 
@@ -406,20 +428,20 @@ French version only***matériels*** Véhicules ou équipements.
 
 **17** 
 
-- **(1)** Toute personne morale qui contrevient à une disposition de la présente loi ou de ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire, une amende maximale de cent mille dollars;
-	- **b)** par mise en accusation, une amende maximale d’un million de dollars.
+- **(1)** Toute personne morale ou entreprise qui contrevient à la présente loi ou ses règlements ou à un arrêté commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de deux cent mille dollars;
+	- **b)** par mise en accusation, une amende maximale de deux millions de dollars.
 
 **Infractions et peines**
 
-- **(2)** Tout individu qui contrevient à une disposition de la présente loi ou de ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire, une amende maximale de deux mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
-	- **b)** par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+- **(2)** Toute personne physique qui contrevient à la présente loi ou ses règlements ou à un arrêté commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de quatre mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de vingt mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
 **Moyen de défense**
 
 - **(3)** Dans les poursuites engagées, pour infraction à l’article 4 ou au paragraphe 5(1), contre une entreprise qui se livre à l’assemblage ou à la modification de véhicules, la preuve que l’infraction résulte de l’acte antérieur d’un autre constructeur automobile constitue un moyen de défense pour l’entreprise.
-> 1993, ch. 16, art. 17; 2011, ch. 24, art. 186.
+> 1993, ch. 16, art. 17; 2011, ch. 24, art. 186; 2014, ch. 20, art. 227.
 
 
 
@@ -455,7 +477,7 @@ French version only***matériels*** Véhicules ou équipements.
 
 
 
-## Recherches, tests et droits
+## Recherches, examens, tests et droits
 
 
 
@@ -464,11 +486,16 @@ French version only***matériels*** Véhicules ou équipements.
 **20** 
 
 - **(1)** Le ministre peut :
-	- **a)** mener les recherches, enquêtes et évaluations qu’il estime nécessaires à l’application de la présente loi;
+	- **a)** mener les recherches, enquêtes, évaluations et examens qu’il estime nécessaires à l’application de la présente loi;
 	- **b)** mettre en oeuvre des programmes de recherche et développement permettant de mieux connaître les incidences de l’utilisation des véhicules, du comportement des conducteurs et de la configuration des voies de circulation sur la sécurité routière, les économies d’énergie et l’environnement, et de favoriser la prise de mesures propres à limiter ces incidences;
 	- **c)** établir, exploiter et acquérir des installations servant aux tests de matériels et de leurs pièces;
 	- **d)** rendre accessibles à toute personne les installations visées à l’alinéa c), ainsi que les éléments et services connexes;
-	- **e)** publier ou diffuser les informations relatives à celles de ses activités qui sont visées au présent article.
+	- **e)** recueillir les renseignements relatifs aux matériels qu’il estime d’intérêt public;
+	- **f)** diffuser, notamment en les publiant, les renseignements, à l’exception des renseignements personnels, relatifs à celles de ses activités qui sont visées au présent article.
+
+**Renseignements personnels**
+
+- **(1.1)** Le ministre peut recueillir, notamment d’un tiers, des renseignements personnels, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), dans le cadre des activités visées aux alinéas (1)a), b) et e).
 
 **Droits et prix exigés**
 
@@ -481,6 +508,8 @@ French version only***matériels*** Véhicules ou équipements.
 **Recouvrement des droits**
 
 - **(4)** Toute somme exigée en conformité avec le paragraphe (2) peut être recouvrée à titre de créance de Sa Majesté devant la Cour fédérale.
+> 1993, ch. 16, art. 20; 2014, ch. 20, art. 229.
+
 
 
 
