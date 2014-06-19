@@ -4976,14 +4976,14 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 
 **127.1** 
 
-- **(1)** The Minister, or any officer des­ignated by the President for the purposes of this section, may cancel a seizure made under section 110, cancel or reduce a penalty assessed under section 109.3 or an amount demanded under section 124 or refund an amount received under any of sections 117 to 119 within thirty days after the seizure, assessment or demand, if
+- **(1)** The Minister, or any officer designated by the President for the purposes of this section, may cancel a seizure made under section 110, cancel or reduce a penalty assessed under section 109.3 or an amount demanded under section 124 or refund an amount received under any of sections 117 to 119 within 90 days after the seizure, assessment or demand, if
 	- **(a)** the Minister is satisfied that there was no contravention; or
 	- **(b)** there was a contravention but the Minister considers that there was an error with respect to the amount assessed, collected, demanded or taken as security and that the amount should be reduced.
 
 **Interest**
 
 - **(2)** If an amount is returned to a person under paragraph (1)(a), the person shall be given interest on that amount at the prescribed rate for the period beginning on the day after the amount was originally paid by that person and ending on the day it was returned.
-> 2001, c. 25, s. 68; 2005, c. 38, s. 81; 2009, c. 10, s. 13(F).
+> 2001, c. 25, s. 68; 2005, c. 38, s. 81; 2009, c. 10, s. 13(F); 2014, c. 20, s. 172.
 
 
 
@@ -5002,7 +5002,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 
 **129** 
 
-- **(1)** The following persons may, within ninety days after the date of a seizure or the service of a notice, request a decision of the Minister under section 131 by giving notice in writing, or by any other means satisfactory to the Minister, to the officer who seized the goods or conveyance or served the notice or caused it to be served, or to an officer at the customs office closest to the place where the seizure took place or closest to the place from where the notice was served:
+- **(1)** The following persons may, within 90 days after the date of a seizure or the service of a notice, request a decision of the Minister under section 131 by giving notice to the Minister in writing or by any other means that is satisfactory to the Minister:
 	- **(a)** any person from whom goods or a conveyance is seized under this Act;
 	- **(b)** any person who owns goods or a conveyance that is seized under this Act;
 	- **(c)** any person from whom money or security is received pursuant to section 117, 118 or 119 in respect of goods or a conveyance seized under this Act; or
@@ -5011,7 +5011,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Burden of proof**
 
 - **(2)** The burden of proof that notice was given under subsection (1) lies on the person claiming to have given the notice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 129; 1993, c. 25, s. 82; 2001, c. 25, s. 69.
+> R.S., 1985, c. 1 (2nd Supp.), s. 129; 1993, c. 25, s. 82; 2001, c. 25, s. 69; 2014, c. 20, s. 173.
 
 
 
@@ -5247,7 +5247,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **Application procedure**
 
-- **(2)** A person may apply for a decision by giving notice in writing to the officer who seized or detained the goods or conveyance or to an officer at the customs office closest to the place where the seizure or detention took place.
+- **(2)** A person may apply for a decision by giving notice to the Minister in writing or by any other means that is satisfactory to the Minister.
 
 **Burden of proof of application**
 
@@ -5273,7 +5273,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 		- **(ii)** had a *bona fide* intention to apply under that subsection;
 	- **(b)** it would be just and equitable to grant the application; and
 	- **(c)** the application was made as soon as circumstances permitted.
-> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75.
+> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75; 2014, c. 20, s. 174.
 
 
 
