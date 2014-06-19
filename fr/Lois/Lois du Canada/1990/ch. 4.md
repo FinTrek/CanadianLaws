@@ -39,11 +39,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***Nordion*** Nordion International Inc., société constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
+***Nordion*** Nordion International Inc., société constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), ou tout successeur de cette société. (*Nordion*)
 
-***Theratronics*** Theratronics International Limitée, société constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
+***Theratronics*** Theratronics International Limitée, société constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), ou tout successeur de cette société. (*Theratronics*)
 
 **Terminologie**
 
@@ -52,7 +52,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 - **(3)** Les dispositions de la présente loi l’emportent sur les dispositions incompatibles de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), de ses textes d’application ou de toute autre mesure prise sous le régime de cette loi.
-> 1990, ch. 4, art. 2; 1994, ch. 24, art. 34(F).
+> 1990, ch. 4, art. 2; 1994, ch. 24, art. 34(F); 2014, ch. 20, art. 206.
 
 
 
@@ -119,13 +119,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exceptions**
 
-- **(3)** Aucune des restrictions découlant du paragraphe (1) ni aucun des règlements visés au paragraphe (2) ne s’appliquent aux actions avec droit de vote de Nordion détenues :
+- **(3)** Aucune des restrictions découlant du paragraphe (1) ni aucun des règlements visés au paragraphe (2) ne s’appliquent aux actions avec droit de vote de Nordion détenues :
 	- **a)** par un ou plusieurs souscripteurs à forfait uniquement dans le but de placer les actions dans le public;
-	- **b)** par toute personne agissant, à l’égard du commerce des actions, uniquement en qualité d’intermédiaire pour le paiement de fonds ou la livraison d’actions, ou les deux, et qui fournit des services centralisés pour la compensation des transactions en la matière.
+	- **b)** par toute personne agissant, à l’égard du commerce des actions, uniquement en qualité d’intermédiaire pour le paiement de fonds ou la livraison d’actions, ou les deux, et qui fournit des services centralisés pour la compensation des transactions en la matière;
+	- **c)** par une personne si l’acquisition des actions par cette personne :
+		- **(i)** d’une part, est ou est réputée être un investissement vraisemblablement à l’avantage net du Canada aux termes des articles 21 à 23 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md),
+		- **(ii)** d’autre part, n’est pas interdite par la partie IV.1 de cette loi.
+
+**Exception : détenteurs subséquents**
+
+- **(3.1)** Aucune des restrictions découlant du paragraphe (1) ni aucun des règlements visés au paragraphe (2) ne s’appliquent aux actions avec droit de vote visées à l’alinéa (3)c) qui sont détenues subséquemment par une autre personne.
 
 **Personnes liées**
 
-- **(4)** Pour l’application du présent article, une personne est liée à un non-résident dans chacun des cas suivants :
+- **(4)** Pour l’application du présent article, une personne est liée à un non-résident dans chacun des cas suivants :
 	- **a)** l’une est une société dont l’autre est un dirigeant ou un administrateur;
 	- **b)** l’une est une société contrôlée par l’autre ou par un groupement dont cet autre fait partie;
 	- **c)** l’une est une société de personnes dont l’autre est un associé;
@@ -137,14 +144,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exceptions**
 
-- **(5)** Par dérogation au paragraphe (4), pour l’application du présent article :
+- **(5)** Par dérogation au paragraphe (4), pour l’application du présent article :
 	- **a)** dans les cas où un résident qui, sans le présent alinéa, serait lié à un non-résident présente à Nordion une déclaration solennelle énonçant qu’aucune des actions avec droit de vote de celle-ci qu’il détient ou détiendra n’est détenue, ou ne le sera, à sa connaissance, du chef, pour l’usage, au profit ou sous le contrôle d’un non-résident avec qui, sans le présent alinéa, il serait lié, ce résident et ce non-résident ne sont pas liés tant que les actions avec droit de vote détenues par le résident ne le sont pas en contravention des énoncés de la déclaration;
 	- **b)** deux sociétés ne sont pas liées, au sens de l’alinéa (4)h), du seul fait que, en application de l’alinéa (4)a), chacune est liée au même dirigeant ou administrateur;
 	- **c)** lorsque le registre central des valeurs mobilières de Nordion indique qu’une personne est la détentrice ou la véritable propriétaire ou a le contrôle d’actions avec droit de vote conférant au plus deux centièmes pour cent — pour un maximum de deux mille — des droits de vote qui peuvent habituellement être exercés pour l’élection des administrateurs de Nordion, cette personne n’est liée à nulle autre et nulle autre n’est liée à elle.
 
 **Contrôle**
 
-- **(6)** Pour l’application du présent article, a le contrôle :
+- **(6)** Pour l’application du présent article, a le contrôle :
 	- **a)** dans le cas d’une personne morale, la personne qui détient — ou au profit de laquelle sont détenues — , autrement qu’à titre de garantie seulement, des valeurs mobilières conférant des droits de vote dont l’exercice permet d’obtenir plus de cinquante pour cent du maximum possible des voix à l’élection des administrateurs de la personne morale et d’en élire la majorité;
 	- **b)** dans le cas d’une société de personnes ou d’un organisme non doté de la personnalité morale, la personne qui détient — ou au profit de laquelle sont détenus — , autrement qu’à titre de garantie seulement, des droits de propriété représentant plus de cinquante pour cent de l’actif de l’un ou l’autre.
 
@@ -152,24 +159,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(7)** Les définitions qui suivent s’appliquent au présent article.
 
-***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et toute option ou tout droit susceptible d’exercice immédiat et permettant d’acquérir cette action ou cette valeur.
+***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et toute option ou tout droit susceptible d’exercice immédiat et permettant d’acquérir cette action ou cette valeur. (*voting share*)
 
-***non-résident*** Selon le cas :
+***non-résident*** Selon le cas :
 - **a)** un particulier, autre qu’un citoyen canadien, qui ne réside pas habituellement au Canada;
 - **b)** une société constituée, formée ou autrement organisée ailleurs qu’au Canada;
 - **c)** un gouvernement étranger ou ses mandataires;
 - **d)** une société contrôlée par des non-résidents au sens des alinéas a) à c);
-- **e)** une fiducie :
+- **e)** une fiducie :
 	- **(i)** soit établie par un non-résident au sens des alinéas b) à d), autre qu’une fiducie chargée de l’administration d’un fonds de pension au profit de particuliers en majorité résidents,
 	- **(ii)** soit dont plus de cinquante pour cent de la propriété véritable appartient à des non-résidents au sens des alinéas a) à d);
-- **f)** une société contrôlée par la fiducie visée à l’alinéa e).
+- **f)** une société contrôlée par la fiducie visée à l’alinéa e). (*non-resident*)
 
-***personne*** Personne physique ou morale; y sont assimilés les gouvernements ou leurs mandataires, les fiduciaires, exécuteurs, administrateurs, ou autres représentants légaux.
+***personne*** Personne physique ou morale; y sont assimilés les gouvernements ou leurs mandataires, les fiduciaires, exécuteurs, administrateurs, ou autres représentants légaux. (*person*)
 
-***résident*** Particulier ou société et, en outre, gouvernement ou ses mandataires, ou fiducie qui ne sont pas des non-résidents.
+***résident*** Particulier ou société et, en outre, gouvernement ou ses mandataires, ou fiducie qui ne sont pas des non-résidents. (*resident*)
 
-***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale.
-> 1990, ch. 4, art. 6; 1994, ch. 24, art. 34(F).
+***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale. (*corporation*)
+> 1990, ch. 4, art. 6; 1994, ch. 24, art. 34(F); 2014, ch. 20, art. 207.
 
 
 
@@ -177,9 +184,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Limitation**
 
-**7** Nordion et ses actionnaires et administrateurs ne peuvent :
-- **a)** ni demander sa prorogation sous le régime d’une autre autorité législative;
-- **b)** ni établir des statuts ou prendre des règlements administratifs incompatibles avec les clauses modificatrices visées au paragraphe 6(1).
+**7** 
+
+- **(1)** Nordion et ses actionnaires et administrateurs ne peuvent :
+	- **a)** ni demander sa prorogation sous le régime d’une autre autorité législative;
+	- **b)** ni établir des statuts ou prendre des règlements administratifs incompatibles avec les clauses modificatrices visées au paragraphe 6(1).
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si une personne détient des actions avec droit de vote visées à l’alinéa 6(3)c) ou au paragraphe 6(3.1).
+> 1990, ch. 4, art. 7; 2014, ch. 20, art. 208.
+
 
 
 
@@ -190,7 +205,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application à Theratronics**
 
-**8** Les articles 5 à 7 s’appliquent également à Theratronics, sauf qu’au paragraphe 6(1), il faut lire quarante-neuf pour cent au lieu de vingt-cinq pour cent.
+**8** Les articles 5 à 7, exception faite de l’alinéa 6(3)c) et des paragraphes 6(3.1) et 7(2), s’appliquent également à Theratronics, sauf qu’au paragraphe 6(1) il faut lire quarante-neuf pour cent au lieu de vingt-cinq pour cent.
+> 1990, ch. 4, art. 8; 2014, ch. 20, art. 209.
+
 
 
 
