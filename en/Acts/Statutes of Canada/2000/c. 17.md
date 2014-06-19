@@ -53,7 +53,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***entity*** means a body corporate, a trust, a partnership, a fund or an unincorporated association or organization.
 
-***legal counsel*** means, in the Province of Quebec, an advocate or a notary and, in any other province, a barrister or solicitor.
+***Financial Action Task Force*** means the Financial Action Task Force on Money Laundering established in 1989.
+
+***legal counsel*** means, in Quebec, an advocate or a notary and, in any other province, a barrister or solicitor.
+
+***legal firm*** means an entity that is engaged in the business of providing legal services to the public.
 
  ou ***mail*** has the same meaning as in subsection 2(1) of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
 
@@ -61,7 +65,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***money laundering offence*** means an offence under subsection 462.31(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
-***officer*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***officer***[Repealed, 2014, c. 20, s. 254]
 
 ***person*** means an individual.
 
@@ -76,7 +80,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 ***threats to the security of Canada*** has the same meaning as in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
 
 ***violation*** means a contravention of this Act or the regulations that is designated as a violation by regulations made under subsection 73.1(1).
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1.
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254.
 
 
 
@@ -92,10 +96,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(a)** to implement specific measures to detect and deter money laundering and the financing of terrorist activities and to facilitate the investigation and prosecution of money laundering offences and terrorist activity financing offences, including
 	- **(i)** establishing record keeping and client identification requirements for financial services providers and other persons or entities that engage in businesses, professions or activities that are susceptible to being used for money laundering or the financing of terrorist activities,
 	- **(ii)** requiring the reporting of suspicious financial transactions and of cross-border movements of currency and monetary instruments, and
-	- **(iii)** establishing an agency that is responsible for dealing with reported and other information;
-- **(b)** to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves; and
-- **(c)** to assist in fulfilling Canada’s international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity.
-> 2000, c. 17, s. 3; 2001, c. 41, s. 50.
+	- **(iii)** establishing an agency that is responsible for ensuring compliance with Parts 1 and 1.1 and for dealing with reported and other information;
+- **(b)** to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves;
+- **(c)** to assist in fulfilling Canada’s international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity; and
+- **(d)** to enhance Canada’s capacity to take targeted measures to protect its financial system and to facilitate Canada’s efforts to mitigate the risk that its financial system could be used as a vehicle for money laundering and the financing of terrorist activities.
+> 2000, c. 17, s. 3; 2001, c. 41, s. 50; 2010, c. 12, s. 1863; 2014, c. 20, s. 255.
 
 
 
@@ -130,14 +135,14 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(d)** companies to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies;
 - **(e)** trust companies regulated by a provincial Act;
 - **(f)** loan companies regulated by a provincial Act;
-- **(g)** persons and entities authorized under provincial legislation to engage in the business of dealing in securities or any other financial instruments, or to provide portfolio management or investment advising services;
+- **(g)** persons and entities authorized under provincial legislation to engage in the business of dealing in securities or any other financial instruments or to provide portfolio management or investment advising services, other than persons who act exclusively on behalf of such an authorized person or entity;
 - **(h)** persons and entities engaged in the business of foreign exchange dealing, of remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network, or of issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity;
 - **(i)** persons and entities engaged in a business, profession or activity described in regulations made under paragraph 73(1)(a);
 - **(j)** persons and entities engaged in a business or profession described in regulations made under paragraph 73(1)(b), while carrying out the activities described in the regulations;
 - **(k)** casinos, as defined in the regulations, including those owned or controlled by Her Majesty;
 - **(l)** departments and agents of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that sell money orders to the public or that sell prescribed precious metals, while carrying out the activities described in regulations made under paragraph 73(1)(c); and
 - **(m)** for the purposes of section 7, employees of a person or entity referred to in any of paragraphs (a) to (l).
-> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3.
+> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256.
 
 
 
@@ -202,11 +207,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-**Prescribed financial transactions**
+**Financial transactions to be reported**
 
 **9** 
 
-- **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner, every prescribed financial transaction that occurs in the course of their activities.
+- **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner,
+	- **(a)** any financial transaction, or any financial transaction within a class of financial transactions, specified in a directive issued under Part 1.1 that occurs or that is attempted in the course of their activities; and
+	- **(b)** any prescribed financial transaction that occurs in the course of their activities.
 
 **Limitation**
 
@@ -215,7 +222,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **List of persons**
 
 - **(3)** Every person or entity referred to in section 5 shall establish and maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
-> 2000, c. 17, s. 9; 2006, c. 12, s. 7.
+> 2000, c. 17, s. 9; 2006, c. 12, s. 7; 2010, c. 12, s. 1864.
 
 
 
@@ -282,12 +289,12 @@ It includes any prescribed family member of such a person.
 
 **Prohibition — shell bank**
 
-- **(2)** No person or entity shall enter into a correspondent banking relationship with a shell bank as defined in the regulations.
+- **(2)** No person or entity shall have a correspondent banking relationship with a shell bank as defined in the regulations.
 
 **Definition of correspondent banking relationship**
 
 - **(3)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d) and (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
-> 2006, c. 12, s. 8.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 259.
 
 
 
@@ -309,7 +316,7 @@ It includes any prescribed family member of such a person.
 
 **9.6** 
 
-- **(1)** Every person or entity referred to in section 5 shall establish and implement, in accordance with the regulations, a program intended to ensure their compliance with this Part.
+- **(1)** Every person or entity referred to in section 5 shall establish and implement, in accordance with the regulations, a program intended to ensure their compliance with this Part and Part 1.1.
 
 **Risk assessment**
 
@@ -318,7 +325,7 @@ It includes any prescribed family member of such a person.
 **Special measures**
 
 - **(3)** If the person or entity considers that the risk referred to in subsection (2) is high, the person or entity shall take prescribed special measures for identifying clients, keeping records and monitoring financial transactions in respect of the activities that pose the high risk.
-> 2006, c. 12, s. 8.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1865.
 
 
 
@@ -328,16 +335,12 @@ It includes any prescribed family member of such a person.
 
 **9.7** 
 
-- **(1)** Every person or entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for authorized foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their wholly owned subsidiaries, that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs, develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their wholly owned subsidiaries that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6, when the laws of the country permit it.
 
 **Record keeping**
 
-- **(2)** If the development or application by a subsidiary of a policy or procedure referred to in subsection (1) would contravene the laws of the country in which the subsidiary is located, the person or entity shall keep and retain a record of that fact in accordance with section 6.
-
-**Definition of Financial Action Task Force**
-
-- **(3)** For the purposes of this section, ***Financial Action Task Force*** means the Financial Action Task Force on Money Laundering established in 1989.
-> 2006, c. 12, s. 8.
+- **(2)** If the development or application by a subsidiary of a policy or procedure referred to in subsection (1) would contravene the laws of the country in which the subsidiary is located, the entity shall keep and retain a record of that fact in accordance with section 6.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866.
 
 
 
@@ -345,8 +348,8 @@ It includes any prescribed family member of such a person.
 
 **Foreign branches**
 
-**9.8** Every entity referred to in paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for authorized foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their branches, that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs, develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
-> 2006, c. 12, s. 8.
+**9.8** Every entity referred to in paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their branches that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866.
 
 
 
@@ -364,16 +367,16 @@ It includes any prescribed family member of such a person.
 **Non-application to legal counsel**
 
 **10.1** Sections 7 and 9 do not apply to persons or entities referred to in paragraph 5(i) or (j) who are, as the case may be, legal counsel or legal firms, when they are providing legal services.
-> 2006, c. 12, s. 9.
+> 2006, c. 12, s. 9; 2010, c. 12, s. 1867(F).
 
 
 
 
 
-**Solicitor-client privilege**
+**Solicitor-client privilege or professional secrecy**
 
-**11** Nothing in this Act requires a legal counsel to disclose any communication that is subject to solicitor-client privilege.
-> 2000, c. 17, s. 11; 2013, c. 40, s. 279.
+**11** Nothing in this Act requires a legal counsel to disclose any communication that is subject to solicitor-client privilege or, in Quebec, the professional secrecy of legal counsel.
+> 2000, c. 17, s. 11; 2010, c. 12, s. 1868(E); 2013, c. 40, ss. 279, 281(E).
 
 
 
@@ -404,19 +407,23 @@ It includes any prescribed family member of such a person.
 	- **(a)** a listed person as defined in section 1 of the [Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/360.md);
 	- **(b)** a listed entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 	- **(c)** a person or entity that has been convicted of any of the following:
-		- **(i)** a money laundering offence,
-		- **(ii)** a terrorist activity financing offence,
-		- **(iii)** an offence under this Act when convicted on indictment,
-		- **(iv)** an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or
+		- **(i)** a money laundering offence, or an offence under the laws of a foreign country that is substantially similar to a money laundering offence,
+		- **(ii)** a terrorist activity financing offence, or an offence under the laws of a foreign country that is substantially similar to a terrorist activity financing offence,
+		- **(iii)** an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 when convicted on indictment, or an offence under the laws of a foreign country that is substantially similar to an offence under either Act,
+		- **(iv)** an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or an offence under the laws of a foreign country that is substantially similar to such an offence, or
 		- **(v)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in subparagraphs (i) to (iv);
-	- **(d)** a person or entity that has been convicted on indictment or convicted more than once for an offence under Part X of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) except for the offence under subsection 4(1) of that Act;
-	- **(e)** an entity that is a corporation in respect of which a director, the chief executive officer, the president or the person who owns or controls, directly or indirectly, 20 per cent or more of the shares has been convicted on indictment of an offence under this Act; or
+	- **(d)** a person or entity that has been convicted on indictment or convicted more than once for an offence under any of the following, or that has been convicted of an offence under the laws of a foreign country that is substantially similar to an offence under any of the following:
+		- **(i)** Part X of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+		- **(ii)** the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), except for the offence under subsection 4(1) of that Act,
+		- **(iii)** section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as that section read immediately before May 14, 1997, or
+		- **(iv)** section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, chapter N-1 of the Revised Statutes of Canada, 1985, as that section read immediately before May 14, 1997;
+	- **(e)** an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign country that is substantially similar to an offence under either Act;
 	- **(f)** any prescribed person or entity.
 
 **Revocation of registration**
 
 - **(2)** If the Centre becomes aware that a person or entity referred to in subsection (1) is registered, the Centre shall revoke the registration and shall, without delay, inform the person or entity of the revocation.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11; 2014, c. 20, s. 262.
 
 
 
@@ -567,8 +574,220 @@ It includes any prescribed family member of such a person.
 
 
 
+**PART 1.1** 
+## Protection of Canada’s Financial System
+
+
+
+### Interpretation
+
+
+
+**Definitions**
+
+**11.41** The following definitions apply in this Part.
+
+***foreign entity*** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a country other than Canada, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
+
+***foreign state*** means a country other than Canada and includes any political subdivision or territory of a foreign state.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 267.
+
+
+
+
+
+### Ministerial Directive
+
+
+
+**Minister’s written directive**
+
+**11.42** 
+
+- **(1)** In addition to any other measure required by this Act, the Minister may, by written directive, require any person or entity referred to in section 5 to take, in order to safeguard the integrity of Canada’s financial system, any measure specified in the directive with respect to any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state or foreign entity, that occurs or is attempted in the course of their activities, or with respect to any activity that is related to any such financial transaction or class of financial transactions.
+
+**Measures**
+
+- **(2)** The measures specified in a directive may include provision for the following matters:
+	- **(a)** the verification of the identity of any person or entity;
+	- **(b)** the exercise of customer due diligence, including ascertaining the source of funds in any financial transaction, the purpose of any financial transaction or the beneficial ownership or control of any entity;
+	- **(c)** the monitoring of any financial transaction or any account;
+	- **(d)** the keeping and retention of any records;
+	- **(e)** the reporting of any financial transaction to the Centre; and
+	- **(f)** compliance with this Part and Part 1.
+
+**Non-application to legal counsel**
+
+- **(2.1)** A requirement in a directive to take a reporting measure as contemplated by paragraph (2)(e) does not apply to persons or entities referred to in paragraph 5(i) or (j) who are, as the case may be, legal counsel or legal firms, when they are providing legal services.
+
+**Director to communicate directive**
+
+- **(3)** The Minister may require the Director of the Centre to communicate a directive in accordance with the Minister’s instructions.
+
+**Relevant circumstances**
+
+- **(4)** Before issuing a directive, the Minister may take into account any circumstance that the Minister considers relevant. However, the Minister may only issue a directive if
+	- **(a)** an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state or foreign entity on the ground that the state’s or entity’s anti-money laundering or anti-terrorist financing measures are ineffective or insufficient; or
+	- **(b)** the anti-money laundering or anti-terrorist financing measures that a foreign state or a foreign entity has implemented are ineffective or insufficient and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+
+**Terms and conditions**
+
+- **(5)** The Minister may impose any terms and conditions in the directive that the Minister considers appropriate.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 268.
+
+
+
+
+
+**Duty to comply**
+
+**11.43** The person or entity to which a directive under this Part applies shall comply with it within the time and in the manner specified in the directive.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+**Foreign branches and subsidiaries**
+
+**11.44** 
+
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches, and that its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, comply with any directive issued under this Part, except with respect to any reporting measure as contemplated by paragraph 11.42(2)(e), to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch or subsidiary is located.
+
+**Records and reporting**
+
+- **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the country in which the branch or subsidiary is located, the entity shall keep and retain, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 269.
+
+
+
+
+**11.45** [Repealed, 2014, c. 20, s. 269]
+
+
+
+
+**Inconsistency**
+
+**11.46** In the event of any inconsistency or conflict between a directive issued under this Part and a regulation made under this Act, the directive prevails to the extent of the inconsistency or conflict.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**11.47** A directive issued under this Part is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it must be published in the Canada Gazette.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+**Review**
+
+**11.48** 
+
+- **(1)** The Minister shall, at least every three years after the issuance of a directive under this Part, review that directive to determine whether it is advisable, in the Minister’s opinion, to amend or revoke it.
+
+**Relevant circumstance**
+
+- **(2)** In reviewing a directive, the Minister may take into account any circumstance that the Minister considers relevant.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+### Limitation and Prohibition of Financial Transactions
+
+
+
+**Regulations — limitation and prohibition**
+
+**11.49** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations
+	- **(a)** imposing a limitation or a prohibition on any person or entity referred to in section 5, with respect to entering into, undertaking or facilitating, directly or indirectly, any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state or foreign entity;
+	- **(b)** prescribing terms and conditions with respect to a limitation or prohibition referred to in paragraph (a); and
+	- **(c)** excluding any transaction or any class of transactions from a limitation or prohibition imposed under paragraph (a).
+
+**Consultation with the Minister of Foreign Affairs**
+
+- **(2)** The Minister shall consult with the Minister of Foreign Affairs before making a recommendation.
+
+**Relevant circumstances**
+
+- **(3)** The Minister may, before making a recommendation, take into account any circumstance that the Minister considers relevant. However, the Minister may only make a recommendation
+	- **(a)** if
+		- **(i)** an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state or foreign entity on the ground that the state’s or entity’s anti-money laundering or anti-terrorist financing measures are ineffective or insufficient, and
+		- **(ii)** there is a risk that money laundering activities or terrorist financing activities may be carried out in that foreign state or by means of that foreign entity; or
+	- **(b)** if the anti-money laundering or anti-terrorist financing measures that a foreign state or a foreign entity has implemented are ineffective or insufficient, the risk of money laundering activities or terrorist financing activities being carried out in that foreign state or by means of that foreign entity is significant and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+**Review**
+
+**11.5** 
+
+- **(1)** The Minister shall, at least every three years after the making of a regulation under this Part, review that regulation to determine whether it is advisable, in the Minister’s opinion, that it be amended or repealed.
+
+**Relevant circumstances**
+
+- **(2)** In reviewing a regulation, the Minister may take into account any circumstance that the Minister considers relevant.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
+**Foreign branches**
+
+**11.6** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch is located.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 270.
+
+
+
+
+
+**Ministerial permit**
+
+**11.7** 
+
+- **(1)** The Governor in Council may, by order, authorize the Minister to issue to any person or entity referred to in section 5 a permit to enter into, undertake or facilitate a financial transaction or class of financial transactions, specified by the Minister, that is otherwise limited or prohibited by regulation.
+
+**Terms and conditions**
+
+- **(2)** A permit may be subject to any terms and conditions that the Minister considers appropriate.
+
+**Amendment, etc.**
+
+- **(3)** The Minister may amend, suspend, revoke or reinstate a permit.
+> 2010, c. 12, s. 1869.
+
+
+
+
+
 **PART 2** 
 ## Reporting of Currency and Monetary Instruments
+
+
+
+### Interpretation
+
+
+
+**Definition of officer**
+
+**11.8** In this Part, ***officer*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+> 2014, c. 20, s. 271.
+
+
 
 
 
@@ -595,16 +814,16 @@ It includes any prescribed family member of such a person.
 	- **(d)** in the case of currency or monetary instruments, other than those referred to in paragraph (a) or imported or exported as mail, that are on board a conveyance arriving in or departing from Canada, by the person in charge of the conveyance; and
 	- **(e)** in any other case, by the person on whose behalf the currency or monetary instruments are imported or exported.
 
-**Duty to answer and comply with the request of an officer**
+**Duty to answer and comply**
 
-- **(4)** If a report is made in respect of currency or monetary instruments, the person arriving in or departing from Canada with the currency or monetary instruments shall
-	- **(a)** answer truthfully any questions that the officer asks with respect to the information required to be contained in the report; and
-	- **(b)** on request of an officer, present the currency or monetary instruments that they are carrying or transporting, unload any conveyance or part of a conveyance or baggage and open or unpack any package or container that the officer wishes to examine.
+- **(4)** Every person arriving in or departing from Canada shall
+	- **(a)** answer truthfully any questions asked by the officer in the performance of the officer’s duties and functions under this Part; and
+	- **(b)** if the person is arriving in or departing from Canada with any currency or monetary instruments in respect of which a report is made, on request of an officer, present the currency or monetary instruments that they are carrying or transporting, unload any conveyance or part of a conveyance or baggage and open or unpack any package or container that the officer wishes to examine.
 
 **Sending reports to Centre**
 
-- **(5)** Officers shall send the reports they receive under subsection (1) to the Centre.
-> 2000, c. 17, s. 12; 2001, c. 41, s. 54; 2006, c. 12, s. 12(F).
+- **(5)** The Canada Border Services Agency shall send the reports they receive under subsection (1) to the Centre. It shall also create an electronic version of the information contained in each report, in the format specified by the Centre, and send it to the Centre by the electronic means specified by the Centre.
+> 2000, c. 17, s. 12; 2001, c. 41, s. 54; 2006, c. 12, s. 12(F); 2014, c. 20, s. 272.
 
 
 
@@ -847,14 +1066,14 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **24.1** 
 
-- **(1)** The Minister, or any officer delegated by the President for the purposes of this section, may, within 30 days after a seizure made under subsection 18(1) or an assessment of a penalty referred to in subsection 18(2),
+- **(1)** The Minister, or any officer delegated by the President for the purposes of this section, may, within 90 days after a seizure made under subsection 18(1) or an assessment of a penalty referred to in subsection 18(2),
 	- **(a)** cancel the seizure, or cancel or refund the penalty, if the Minister is satisfied that there was no contravention; or
 	- **(b)** reduce the penalty or refund the excess amount of the penalty collected if there was a contravention but the Minister considers that there was an error with respect to the penalty assessed or collected, and that the penalty should be reduced.
 
 **Interest**
 
 - **(2)** If an amount is refunded to a person or entity under paragraph (1)(a), the person or entity shall be given interest on that amount at the prescribed rate for the period beginning on the day after the day on which the amount was paid by that person or entity and ending on the day on which it was refunded.
-> 2006, c. 12, s. 14.
+> 2006, c. 12, s. 14; 2014, c. 20, s. 273.
 
 
 
@@ -862,8 +1081,70 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Request for Minister’s decision**
 
-**25** A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may within 90 days after the date of the seizure request a decision of the Minister as to whether subsection 12(1) was contravened, by giving notice in writing to the officer who seized the currency or monetary instruments or to an officer at the customs office closest to the place where the seizure took place.
-> 2000, c. 17, s. 25; 2001, c. 41, s. 61.
+**25** A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may, within 90 days after the date of the seizure, request a decision of the Minister as to whether subsection 12(1) was contravened, by giving notice to the Minister in writing or by any other means satisfactory to the Minister.
+> 2000, c. 17, s. 25; 2001, c. 41, s. 61; 2014, c. 20, s. 274.
+
+
+
+
+
+**Extension of time by Minister**
+
+**25.1** 
+
+- **(1)** If no request for a decision of the Minister is made under section 25 within the period provided in that section, the person or lawful owner referred to in that section may apply to the Minister in writing or by any other means satisfactory to the Minister for an extension of the time for making the request.
+
+**Reasons**
+
+- **(2)** An application shall set out the reasons why the request was not made on time.
+
+**Burden of proof**
+
+- **(3)** The burden of proof that an application has been made under subsection (1) lies on the person or lawful owner claiming to have made it.
+
+**Notice of decision**
+
+- **(4)** The Minister shall, without delay after making a decision in respect of an application, notify the applicant in writing of the decision.
+
+**Conditions for granting application**
+
+- **(5)** The application is not to be granted unless
+	- **(a)** it is made within one year after the end of the period provided in section 25; and
+	- **(b)** the applicant demonstrates that
+		- **(i)** within the period provided in section 25, they were unable to act or to instruct another person to act in their name or had a *bona fide* intention to request a decision,
+		- **(ii)** it would be just and equitable to grant the application, and
+		- **(iii)** the application was made as soon as circumstances permitted.
+> 2014, c. 20, s. 274.
+
+
+
+
+
+**Extension of time by Federal Court**
+
+**25.2** 
+
+- **(1)** The person or lawful owner referred to in section 25 may apply to the Federal Court to have their application under section 25.1 granted
+	- **(a)** within the period of 90 days after the Minister dismisses that application, if it is dismissed; or
+	- **(b)** after 90 days have expired after that application was made, if the Minister has not notified the person or lawful owner of a decision made in respect of it.
+
+**Application process**
+
+- **(2)** The application shall be made by filing in the Federal Court a copy of the application made under section 25.1, and any notice given in respect of it. The applicant shall notify the Minister that they have filed the application immediately after having filed it.
+
+**Powers of the Court**
+
+- **(3)** The Court may grant or dismiss the application and, if it grants the application, may impose any terms that it considers just or order that the request made under section 25 be deemed to have been made on the date the order was made.
+
+**Conditions for granting application**
+
+- **(4)** The application is not to be granted unless
+	- **(a)** the application under subsection 25.1(1) was made within one year after the end of the period provided in section 25; and
+	- **(b)** the person or lawful owner making the application demonstrates that
+		- **(i)** within the period provided in section 25, they were unable to act or to instruct another person to act in their name or had a *bona fide* intention to request a decision,
+		- **(ii)** it would be just and equitable to grant the application, and
+		- **(iii)** the application was made as soon as circumstances permitted.
+> 2014, c. 20, s. 274.
 
 
 
@@ -1058,7 +1339,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Use of information**
 
-- **(1.1)** An officer who has reasonable grounds to suspect that the information referred to in subsection (1) is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act may use that information.
+- **(1.1)** An officer may use information referred to in subsection (1) if the officer has reasonable grounds to suspect that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act.
 
 **Disclosure of information to a police force**
 
@@ -1068,9 +1349,15 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(3)** An officer may disclose to the Centre information referred to in subsection (1) if the officer has reasonable grounds to suspect that it would be of assistance to the Centre in the detection, prevention or deterrence of money laundering or of the financing of terrorist activities.
 
+**Disclosure of information to Canada Revenue Agency**
+
+- **(3.01)** An officer may disclose to the Canada Revenue Agency information referred to in subsection (1) about the circumstances of a seizure under subsection 18(1) if the officer has reasonable grounds to suspect that the currency or monetary instruments seized
+	- **(a)** are proceeds of crime as defined in subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or funds for use in the financing of terrorist activities; and
+	- **(b)** relate to a registered charity as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), to an entity that has applied for registration as such a registered charity, or to a person or any other entity that solicits charitable financial donations from the public.
+
 **Recording of reasons for decision**
 
-- **(3.1)** If an officer decides to disclose information under subsection (2) or (3), the officer shall record in writing the reasons for the decision.
+- **(3.1)** If an officer decides to disclose information under any of subsections (2) to (3.01), the officer shall record in writing the reasons for the decision.
 
 **Powers, duties and functions**
 
@@ -1085,7 +1372,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Definition of official**
 
 - **(6)** In this section and section 37, ***official*** means a person who obtained or who has or had access to information referred to in subsection (1) in the course of exercising powers or performing duties and functions under this Part.
-> 2000, c. 17, s. 36; 2001, c. 41, s. 64; 2006, c. 12, s. 22.
+> 2000, c. 17, s. 36; 2001, c. 41, s. 64; 2006, c. 12, s. 22; 2014, c. 20, s. 275.
 
 
 
@@ -1162,13 +1449,13 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Object**
 
-**40** The object of this Part is to establish an independent agency that
-- **(a)** acts at arm’s length from law enforcement agencies and other entities to which it is authorized to disclose information;
-- **(b)** collects, analyses, assesses and discloses information in order to assist in the detection, prevention and deterrence of money laundering and of the financing of terrorist activities;
+**40** The object of this Part is to establish an agency that
+- **(a)** acts at arm’s length and is independent from law enforcement agencies and other entities to which it is authorized to disclose information under subsection 55(3), 55.1(1) or 56.1(1) or (2);
+- **(b)** collects, analyses, assesses and discloses information in order to assist in the detection, prevention and deterrence of money laundering and of the financing of terrorist activities, and in order to assist the Minister in carrying out the Minister’s powers and duties under Part 1.1;
 - **(c)** ensures that personal information under its control is protected from unauthorized disclosure;
-- **(d)** operates to enhance public awareness and understanding of matters related to money laundering; and
-- **(e)** ensures compliance with Part 1.
-> 2000, c. 17, s. 40; 2001, c. 41, s. 65.
+- **(d)** operates to enhance public awareness and understanding of matters related to money laundering and the financing of terrorist activities; and
+- **(e)** ensures compliance with Parts 1 and 1.1.
+> 2000, c. 17, s. 40; 2001, c. 41, s. 65; 2010, c. 12, s. 1870; 2014, c. 20, s. 276.
 
 
 
@@ -1351,24 +1638,93 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(1)** The Director shall report to the Minister from time to time on the exercise of the Director’s powers and the performance of his or her duties and functions under this Act.
 
-**Director to keep Minister informed**
+**Director to report to Minister**
 
-- **(2)** The Director shall keep the Minister informed of any matter that could materially affect public policy or the strategic direction of the Centre, and any other matter that the Minister considers necessary.
+- **(1.1)** On or before September 30 of each year, the Director shall submit to the Minister a report on the Centre’s activities for the preceding year that includes the following information about that year’s activities as well as information on any matters that the Minister or an officer of the Department of Finance specifies:
+	- **(a)** a description of the activities carried out by the Centre to ensure compliance with Parts 1 and 1.1, including a description of those activities by class of persons or entities referred to in section 5, and of its conclusions as to the compliance of those persons or entities with Parts 1 and 1.1;
+	- **(b)** any measures undertaken under paragraph 58(1)(c); and
+	- **(c)** a description, with the relevant statistics included, of the results achieved by and the effectiveness of the Centre in the exercise of its powers and the performance of its duties and functions.
+
+**Obligation to inform**
+
+- **(2)** The Director shall keep the Minister and any officer of the Department of Finance whom the Director considers appropriate informed of any matter that could materially affect public policy or the strategic direction of the Centre, and any other matter that the Minister considers necessary.
 
 **Director to disclose other information**
 
-- **(3)** The Director shall, at the Minister’s request, disclose to the Minister any information that the Minister considers relevant for the purpose of carrying out the Minister’s powers and duties under this Act.
+- **(3)** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information obtained by the Centre in the administration and enforcement of this Act, or any information prepared by the Centre from that information, that the Minister or the officer considers relevant for the purpose of carrying out the Minister’s powers and duties under this Act.
 
 **Disclosure of information to advisor**
 
-- **(4)** The Director shall disclose to a person engaged under subsection 42(4) any information that the person considers relevant for the purpose of advising the Minister on any matter referred to in subsection 42(2).
+- **(4)** The Director shall disclose to a person engaged under subsection 42(4), in the form and manner that the person directs, any information obtained by the Centre in the administration and enforcement of this Act, or any information prepared by the Centre from that information, that the person considers relevant for the purpose of advising the Minister on any matter referred to in subsection 42(2).
+> 2000, c. 17, s. 52; 2010, c. 12, s. 1871; 2014, c. 20, s. 277.
+
 
 
 
 
 **Limitation**
 
-**53** The Director may not disclose any information under section 52 that would directly or indirectly identify an individual who provided a report or information to the Centre, or a person or an entity about whom a report or information was provided under this Act.
+**53** 
+
+- **(1)** The Director shall not disclose under section 52
+	- **(a)** any information collected by the Centre under subparagraph 54(1)(b)(ii);
+	- **(b)** any information referred to in paragraphs 55(1)(a) to (b.1), (c) or (d);
+	- **(c)** any information referred to in paragraph 55(1)(e) that the Centre prepared for possible disclosure under subsection 55(3), section 55.1 or subsection 56.1(1) or (2); or
+	- **(d)** any information that would directly or indirectly identify a client or employee of a person or entity referred to in section 5.
+
+**Clarification**
+
+- **(2)** For greater certainty, if information referred to in subsection (1) is contained in a document, whether in written form or in any other form, that is otherwise required to be disclosed under section 52, the Director shall provide the document with that information excluded.
+> 2000, c. 17, s. 53; 2014, c. 20, s. 278.
+
+
+
+
+
+**Director or officer to disclose information for the purpose of Part 1.1**
+
+**53.1** 
+
+- **(1)** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information received or collected by the Centre under paragraph 54(1)(a) or (b), or any analysis conducted by the Centre under paragraph 54(1)(c), that the Minister or the officer considers relevant for the purpose of carrying out the Minister’s powers and duties under Part 1.1.
+
+**Director may disclose information**
+
+- **(2)** If the Director is of the opinion that information received or collected by the Centre under paragraph 54(1)(a) or (b), or any analysis conducted by the Centre under paragraph 54(1)(c), would assist the Minister in carrying out the Minister’s powers and duties under Part 1.1, the Director may disclose that information or analysis to the Minister or any officer of the Department of Finance whom the Director considers appropriate.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 278.
+
+
+
+
+
+**Limitation**
+
+**53.2** 
+
+- **(1)** The Director shall not disclose under section 53.1 any information that would directly or indirectly identify any person or entity other than a foreign entity as defined in section 11.41.
+
+**Clarification**
+
+- **(2)** For greater certainty, if information referred to in subsection (1) is contained in a document, whether in written form or in any other form, that is otherwise required or permitted to be disclosed under section 53.1, the Director shall provide the document with that information excluded.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 278.
+
+
+
+
+
+**Director to seek consent**
+
+**53.3** 
+
+- **(1)** The Director shall seek consent for disclosure of information that was provided to the Centre in confidence by the institutions, agencies or organizations mentioned in paragraph (a), (b) or (c), as the case may be, if that information is contained in the information or analysis requested by the Minister or an officer of the Department of Finance under subsection 53.1(1):
+	- **(a)** federal or provincial law enforcement agencies;
+	- **(b)** federal government institutions or federal government agencies; or
+	- **(c)** a government of a foreign state, an international organization established by the governments of foreign states, or an institution or agency of a foreign state that has powers and duties similar to those of the Centre, with which the Minister or the Centre has entered into a written agreement or arrangement under subsection 56(1) or (2), if the agreement or arrangement so provides.
+
+**No disclosure without consent**
+
+- **(2)** The Director shall not disclose the information that was provided to the Centre in confidence before having obtained the consent referred to in subsection (1).
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 279.
+
 
 
 
@@ -1379,13 +1735,21 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Reports and information**
 
-**54** The Centre
-- **(a)** shall receive reports made under section 7, 7.1, 9, 12 or 20, incomplete reports sent under subsection 14(5), reports referred to in section 9.1, information provided to the Centre by any agency of another country that has powers and duties similar to those of the Centre, information provided to the Centre by law enforcement agencies or government institutions or agencies, and other information voluntarily provided to the Centre about suspicions of money laundering or of the financing of terrorist activities;
-- **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that is publicly available, including commercially available databases, or that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement or national security and in respect of which an agreement was entered into under subsection 66(1);
-- **(c)** shall analyse and assess the reports and information;
-- **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report referred to in paragraph (a) and all information referred to in paragraph (a) or (b) for 10 years beginning on the day on which the report is received or the information is received or collected; and
-- **(e)** despite the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy, 15 years after the day on which a report referred to in paragraph (a) is received, any identifying information contained in the report if the report was not disclosed under subsection 55(3), 55.1(1) or 56.1(1) or (2).
-> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100; 2006, c. 12, s. 24.
+**54** 
+
+- **(1)** The Centre
+	- **(a)** shall receive reports made under section 7, 7.1, 9, 12 or 20, or in accordance with a directive issued under Part 1.1, incomplete reports sent under subsection 14(5), reports referred to in section 9.1, information provided to the Centre by any agency of another country that has powers and duties similar to those of the Centre, information provided to the Centre by law enforcement agencies or government institutions or agencies, and other information voluntarily provided to the Centre about suspicions of money laundering or of the financing of terrorist activities;
+	- **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that
+		- **(i)** is publicly available, including in a commercially available database, or
+		- **(ii)** is stored in a database maintained, for purposes related to law enforcement or national security, by the federal government, by a provincial government, by the government of a foreign state or by an international organization, if an agreement was entered into under subsection 66(1) to collect such information;
+	- **(c)** shall analyse and assess the reports and information;
+	- **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report referred to in paragraph (a) and all information referred to in paragraph (a) or (b) for 10 years beginning on the day on which the report is received or the information is received or collected; and
+	- **(e)** despite the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy, 15 years after the day on which a report referred to in paragraph (a) is received, any identifying information contained in the report if the report was not disclosed under subsection 55(3), 55.1(1) or 56.1(1) or (2).
+
+**Destruction of certain information**
+
+- **(2)** The Centre shall destroy any information contained in a document, whether in written form or in any other form, that it receives that purports to be a report made under section 7, 7.1, 9 or 12, made in accordance with a directive issued under Part 1.1, sent under subsection 14(5) or referred to in section 9.1, and that it determines, in the normal course of its activities, relates to a financial transaction or circumstance that is not required to be reported to the Centre under this Act, and shall destroy any information voluntarily provided to the Centre by the public that it determines, in the normal course of its activities, is not about suspicions of money laundering or the financing of terrorist activities. The Centre shall destroy the information within a reasonable time after the determination is made.
+> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100; 2006, c. 12, s. 24; 2010, c. 12, s. 1873; 2014, c. 20, s. 280.
 
 
 
@@ -1411,12 +1775,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Analysis of information**
 
-- **(5)** The Centre may analyse and assess the information referred to in subsection (4) and, in that case, that analysis or assessment is deemed to be an analysis or assessment conducted under paragraph 54(c).
+- **(5)** The Centre may analyse and assess the information referred to in subsection (4) and, in that case, that analysis or assessment is deemed to be an analysis or assessment conducted under paragraph 54(1)(c).
 
 **Retention of information**
 
 - **(6)** Subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall retain information referred to in subsection (4) for 10 years beginning on the day on which the Centre denies the registration of an applicant, on which a registered person or entity notifies the Centre that they have ceased their activities, or on which a person or entity is no longer registered with the Centre.
-> 2006, c. 12, s. 25.
+> 2006, c. 12, s. 25; 2014, c. 20, s. 281.
 
 
 
@@ -1430,7 +1794,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **55** 
 
-- **(1)** Subject to subsection (3), sections 52, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 and 65.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
+- **(1)** Subject to subsections (3) and (6.1), sections 52, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
 	- **(a)** information set out in a report made under section 7;
 	- **(a.1)** information set out in a report made under section 7.1;
 	- **(b)** information set out in a report made under section 9;
@@ -1449,15 +1813,19 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Disclosure of designated information**
 
-- **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
+- **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(1)(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
 	- **(a)** the appropriate police force;
-	- **(b)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+	- **(b)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
 	- **(b.1)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency;
 	- **(c)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining
-		- **(i)** whether a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), has ceased to comply with the requirements of that Act for its registration as such, or
-		- **(ii)** whether a person or entity that the Centre has reasonable grounds to suspect has applied to be a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is eligible to be registered as such;
-	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act;
-	- **(e)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament; and
+		- **(i)** whether a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), has ceased to comply with the requirements of that Act for its registration as such,
+		- **(ii)** whether a person or entity that the Centre has reasonable grounds to suspect has applied to be a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is eligible to be registered as such, or
+		- **(iii)** whether a person or entity that the Centre has reasonable grounds to suspect may apply to be a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+			- **(A)** has made or will make available any resources, directly or indirectly, to a listed entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+			- **(B)** has made available any resources, directly or indirectly, to an entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that was at that time, and continues to be, engaged in terrorist activities as defined in that subsection or activities in support of them, or
+			- **(C)** has made or will make available any resources, directly or indirectly, to an entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that engages or will engage in terrorist activities as defined in that subsection or activities in support of them;
+	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act;
+	- **(e)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament; and
 	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 **Exception**
@@ -1474,10 +1842,14 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(6)** A person may disclose any information referred to in subsection (1) if the disclosure is necessary for the purpose of exercising powers or performing duties and functions under this Part.
 
+**Publication**
+
+- **(6.1)** After a person has been determined by a court to be guilty of a money laundering offence or a terrorist activity financing offence, or has been determined by a foreign court to be guilty of an offence that is substantially similar to either of those offences, whether on acceptance of a plea of guilty or on a finding of guilt, the Centre may, if it has disclosed designated information under subsection (3) with respect to the investigation or prosecution of the offence, make public the fact that it made such a disclosure.
+
 **Definition of designated information**
 
 - **(7)** For the purposes of subsection (3), ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation or of any person or entity acting on their behalf, as well as the occupation or business and gender of those persons and the business of those entities;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
@@ -1487,21 +1859,28 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
 	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
 	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
-	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and any action taken by the person or entity as a result of the suspicions that led them to make the report;
 	- **(l)** the number and types of reports on which a disclosure is based;
-	- **(m)** the number and categories of persons or entities that made those reports; and
-	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874.
+	- **(m)** the number and categories of persons or entities that made those reports;
+	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
+	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication; and
+	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282.
 
 
 
 
 
-**Disclosure of information to the Canadian Security Intelligence Service**
+**Disclosure — threats to security of Canada**
 
 **55.1** 
 
-- **(1)** If the Centre, on the basis of its analysis and assessment under paragraph 54(c), has reasonable grounds to suspect that designated information would be relevant to threats to the security of Canada, the Centre shall disclose that information to the Canadian Security Intelligence Service.
+- **(1)** If the Centre, on the basis of its analysis and assessment under paragraph 54(1)(c), has reasonable grounds to suspect that designated information would be relevant to threats to the security of Canada, the Centre shall disclose the information to
+	- **(a)** the Canadian Security Intelligence Service;
+	- **(b)** the appropriate police force, if the Centre also has reasonable grounds to suspect that the information is relevant to investigating or prosecuting an offence under Canadian law that the Centre has reasonable grounds to suspect arises out of conduct constituting such a threat;
+	- **(c)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act; and
+	- **(d)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament.
 
 **Recording of reasons for decision**
 
@@ -1510,7 +1889,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 **Definition of designated information**
 
 - **(3)** For the purposes of subsection (1), ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation or of any person or entity acting on their behalf, as well as the occupation or business and gender of those persons and the business of those entities;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
@@ -1520,11 +1899,14 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
 	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
 	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
-	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and any action taken by the person or entity as a result of the suspicions that led them to make the report;
 	- **(l)** the number and types of reports on which a disclosure is based;
-	- **(m)** the number and categories of persons or entities that made those reports; and
-	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
-> 2001, c. 41, s. 68; 2006, c. 12, s. 27.
+	- **(m)** the number and categories of persons or entities that made those reports;
+	- **(n)** indicators of a money laundering offence, a terrorist activity financing offence or a threat to the security of Canada related to the transaction, attempted transaction, importation or exportation;
+	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication; and
+	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283.
 
 
 
@@ -1571,16 +1953,20 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Other disclosure**
 
-- **(3)** In order to perform its functions under paragraph 54(c), the Centre may direct queries to an institution or agency in respect of which an agreement or arrangement referred to in subsection (1) or (2) has been entered into, and in doing so it may disclose designated information.
+- **(3)** In order to perform its functions under paragraph 54(1)(c), the Centre may direct queries to an institution or agency in respect of which an agreement or arrangement referred to in paragraph (1)(b) or (2)(b) has been entered into, and in doing so it may disclose designated information.
 
 **Recording of reasons for decision**
 
 - **(4)** The Centre shall record in writing the reasons for all decisions to disclose information made under paragraph (1)(a) or (2)(a).
 
+**Publication**
+
+- **(4.1)** After a person has been determined by a court to be guilty of a money laundering offence or a terrorist activity financing offence, or has been determined by a foreign court to be guilty of an offence that is substantially similar to either offence, whether on acceptance of a plea of guilty or on a finding of guilt, the Centre may, if it has disclosed designated information under subsection (1) or (2) with respect to the investigation or prosecution of the offence, make public the fact that it made such a disclosure.
+
 **Definition of designated information**
 
 - **(5)** For the purposes of this section, ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation or of any person or entity acting on their behalf, as well as the person’s occupation or business and gender and the entity’s business;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
@@ -1590,11 +1976,13 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
 	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
 	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
-	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and any action taken by the person or entity as a result of the suspicions that led them to make the report;
 	- **(l)** the number and types of reports on which a disclosure is based;
-	- **(m)** the number and categories of persons or entities that made those reports; and
-	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
-> 2001, c. 41, s. 68; 2006, c. 12, s. 28.
+	- **(m)** the number and categories of persons or entities that made those reports;
+	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
+	- **(o)** information about the importation or exportation that was reported to the Centre under section 20; and
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284.
 
 
 
@@ -1631,8 +2019,23 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Limitation**
 
-- **(2)** The Centre may not disclose any information that would directly or indirectly identify an individual who provided a report or information to the Centre, or a person or an entity about whom a report or information was provided.
-> 2000, c. 17, s. 58; 2001, c. 41, s. 69; 2010, c. 12, s. 1875.
+- **(2)** The Centre shall not disclose under subsection (1) any information that would directly or indirectly identify an individual who provided a report or information to the Centre, or a person or an entity about whom a report or information was provided.
+> 2000, c. 17, s. 58; 2001, c. 41, s. 69; 2010, c. 12, s. 1875; 2014, c. 20, s. 285.
+
+
+
+
+
+**Centre may disclose information to Minister**
+
+**58.1** 
+
+- **(1)** The Centre may, at the request of the Minister, disclose information received or collected by the Centre under paragraph 54(1)(a) or (b), or any analysis conducted by the Centre under paragraph 54(1)(c), to authorities specified by the Minister for the purpose of assisting the Minister in carrying out the Minister’s powers and duties under Part 1.1.
+
+**Limitation**
+
+- **(2)** The Centre shall not disclose under subsection (1) any information that would directly or indirectly identify any person or entity other than a foreign entity as defined in section 11.41.
+> 2010, c. 12, s. 1876; 2014, c. 20, s. 286.
 
 
 
@@ -1941,15 +2344,17 @@ The order must be complied with within the period following the service of the o
 
 **62** 
 
-- **(1)** An authorized person may, from time to time, examine the records and inquire into the business and affairs of any person or entity referred to in section 5 for the purpose of ensuring compliance with Part 1, and for that purpose may
-	- **(a)** at any reasonable time, enter any premises, other than a dwelling-house, in which the authorized person believes, on reasonable grounds, that there are records relevant to ensuring compliance with Part 1;
+- **(1)** An authorized person may, from time to time, examine the records and inquire into the business and affairs of any person or entity referred to in section 5 for the purpose of ensuring compliance with Part 1 or 1.1, and for that purpose may
+	- **(a)** at any reasonable time, enter any premises, other than a dwelling-house, in which the authorized person believes, on reasonable grounds, that there are records relevant to ensuring compliance with Part 1 or 1.1;
 	- **(b)** use or cause to be used any computer system or data processing system in the premises to examine any data contained in or available to the system;
 	- **(c)** reproduce any record, or cause it to be reproduced from the data, in the form of a printout or other intelligible output and remove the printout or other output for examination or copying; and
 	- **(d)** use or cause to be used any copying equipment in the premises to make copies of any record.
 
 **Assistance to Centre**
 
-- **(2)** The owner or person in charge of premises referred to in subsection (1) and every person found there shall give the authorized person all reasonable assistance to enable them to carry out their responsibilities and shall furnish them with any information with respect to the administration of Part 1 or the regulations under it that they may reasonably require.
+- **(2)** The owner or person in charge of premises referred to in subsection (1) and every person found there shall give the authorized person all reasonable assistance to enable them to carry out their responsibilities and shall furnish them with any information with respect to the administration of Part 1 or 1.1 or the regulations under it that they may reasonably require.
+> 2000, c. 17, s. 62; 2010, c. 12, s. 1882.
+
 
 
 
@@ -1963,13 +2368,15 @@ The order must be complied with within the period following the service of the o
 **Authority to issue warrant**
 
 - **(2)** A justice of the peace may issue a warrant authorizing the authorized person to enter a dwelling-house, subject to any conditions that may be specified in the warrant, if on *ex parte* application the justice is satisfied by information on oath that
-	- **(a)** there are reasonable grounds to believe that there are in the premises records relevant to ensuring compliance with Part 1;
-	- **(b)** entry to the dwelling-house is necessary for any purpose that relates to ensuring compliance with Part 1; and
+	- **(a)** there are reasonable grounds to believe that there are in the premises records relevant to ensuring compliance with Part 1 or 1.1;
+	- **(b)** entry to the dwelling-house is necessary for any purpose that relates to ensuring compliance with Part 1 or 1.1; and
 	- **(c)** entry to the dwelling-house has been refused or there are reasonable grounds for believing that entry will be refused.
 
 **Areas that may be entered**
 
 - **(3)** For greater certainty, an authorized person who enters a dwelling-house under authority of a warrant may enter only a room or part of a room in which the person believes on reasonable grounds that a person or an entity referred to in section 5 is carrying on its business, profession or activity.
+> 2000, c. 17, s. 63; 2010, c. 12, s. 1882.
+
 
 
 
@@ -1978,12 +2385,12 @@ The order must be complied with within the period following the service of the o
 
 **63.1** 
 
-- **(1)** For an examination under subsection 62(1), an authorized person may also serve notice to require that the person or entity provide, at the place and in accordance with the time and manner stipulated in the notice, any document or other information relevant to the administration of Part 1 in the form of electronic data, a printout or other intelligible output.
+- **(1)** For an examination under subsection 62(1), an authorized person may also serve notice to require that the person or entity provide, at the place and in accordance with the time and manner stipulated in the notice, any document or other information relevant to the administration of Part 1 or 1.1 in the form of electronic data, a printout or other intelligible output.
 
 **Obligation to provide information**
 
-- **(2)** The person or entity on whom the notice is served shall provide, in accordance with the notice, the documents or other information with respect to the administration of Part 1 that the authorized person may reasonably require.
-> 2006, c. 12, s. 34.
+- **(2)** The person or entity on whom the notice is served shall provide, in accordance with the notice, the documents or other information with respect to the administration of Part 1 or 1.1 that the authorized person may reasonably require.
+> 2006, c. 12, s. 34; 2010, c. 12, s. 1882.
 
 
 
@@ -2056,16 +2463,39 @@ The order must be complied with within the period following the service of the o
 
 **65** 
 
-- **(1)** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62, 63 or 63.1 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
+- **(1)** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under subsection (4) or section 62, 63 or 63.1 and that it suspects on reasonable grounds would be relevant to investigating or prosecuting an offence under this Act arising out of a contravention of Part 1 or 1.1.
 
 **Compliance of persons or entities**
 
-- **(2)** For the purpose of ensuring compliance with Part 1, the Centre may disclose to or receive from any agency or body that regulates or supervises persons or entities to whom Part 1 applies information relating to the compliance of those persons or entities with that Part.
+- **(2)** For the purpose of ensuring compliance with Part 1 or 1.1, the Centre may disclose to or receive from any agency or body that regulates or supervises persons or entities to whom Part 1 or 1.1 applies information relating to the compliance of those persons or entities with that Part.
 
 **Limitation**
 
-- **(3)** Any information disclosed by the Centre under subsection (1) may be used by an agency referred to in that subsection only as evidence of a contravention of Part 1, and any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in subsection (2) only for purposes relating to compliance with Part 1.
-> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36; 2013, c. 40, s. 280.
+- **(3)** Any information disclosed by the Centre under subsection (1) may be used by an agency referred to in that subsection only as evidence of a contravention of Part 1 or 1.1, and any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in subsection (2) only for purposes relating to compliance with Part 1 or 1.1.
+
+**Compliance of persons or entities**
+
+- **(4)** For the purpose of ensuring compliance with Parts 1 and 1.1, the Centre shall receive information voluntarily provided to it by a person or entity — other than an agency or body referred to in subsection (2) — relating to the compliance with Part 1 or 1.1 of persons or entities referred to in section 5.
+> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36; 2010, c. 12, s. 1882; 2013, c. 40, ss. 280, 281; 2014, c. 20, s. 287.
+
+
+
+
+
+**Disclosure to Canada Revenue Agency**
+
+**65.01** 
+
+- **(1)** The Centre may disclose to the Canada Revenue Agency information relating to the compliance with Part 1 of persons or entities referred to in section 5 if the Centre has reasonable grounds to suspect that the information would be relevant to the initial implementation of policies respecting the reporting of international electronic funds transfers to the Canada Revenue Agency.
+
+**Limitation**
+
+- **(2)** Any information disclosed by the Centre under subsection (1) may be used by the Canada Revenue Agency only for purposes relating to the initial implementation of the policies referred to in that subsection or to ensuring compliance with any provision of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) that requires the reporting of international electronic funds transfers to the Canada Revenue Agency.
+
+**Limitation**
+
+- **(3)** The Centre shall not disclose any information under subsection (1) that would directly or indirectly identify a client of a person or entity referred to in section 5.
+> 2014, c. 20, s. 288.
 
 
 
@@ -2101,15 +2531,17 @@ The order must be complied with within the period following the service of the o
 
 **66** 
 
-- **(1)** The Centre may, for the purpose of exercising its powers or performing its duties and functions under this Part, enter into contracts, memoranda of understanding and other agreements with a department or an agency of the Government of Canada or the government of a province and with any other person or organization, whether inside or outside Canada, in its own name or in the name of Her Majesty in right of Canada.
+- **(1)** The Centre may, for the purpose of exercising its powers or performing its duties and functions under this Part, enter into contracts, memoranda of understanding and other agreements with a department or an agency of the Government of Canada, with the government of a province, with the government of a foreign state and with any other person or organization, whether inside or outside Canada, in its own name or in the name of Her Majesty in right of Canada.
 
 **Agreements re databases**
 
-- **(2)** Agreements relating to the Centre’s collection of information from databases referred to in paragraph 54(b) must specify the nature of and limits with respect to the information that the Centre may collect from those databases.
+- **(2)** Agreements relating to the Centre’s collection of information from databases referred to in paragraph 54(1)(b) must specify the nature of and limits with respect to the information that the Centre may collect from those databases.
 
 **Limitation**
 
 - **(3)** Despite subsection (1), only the Minister may enter into an agreement or arrangement referred to in subsection 56(1).
+> 2000, c. 17, s. 66; 2014, c. 20, s. 290.
+
 
 
 
@@ -2130,6 +2562,15 @@ The order must be complied with within the period following the service of the o
 **Centre**
 
 **68** Actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Centre, whether in its own name or in the name of Her Majesty in right of Canada, may be brought or taken by or against the Centre in the name of the Centre in any court that would have jurisdiction if the Centre were a corporation that is not an agent of Her Majesty.
+
+
+
+
+**Filing of documents**
+
+**68.1** The Centre may, for the purpose of any action, suit or other legal proceedings brought or taken under this Act, file with the court any documents containing information referred to in subsection 55(1).
+> 2014, c. 20, s. 291.
+
 
 
 
@@ -2168,9 +2609,13 @@ The order must be complied with within the period following the service of the o
 
 - **(1)** The Director shall, on or before September 30 of each year following the Centre’s first full year of operations, submit an annual report on the operations of the Centre for the preceding year to the Minister, and the Minister shall table a copy of the report in each House of Parliament on any of the first 30 days on which that House is sitting after the Minister receives the report.
 
-**Human rights and freedoms**
+**Contents**
 
-- **(2)** The report referred to in subsection (1) shall include a description of the management guidelines and policies of the Centre for the protection of human rights and freedoms.
+- **(2)** The report referred to in subsection (1) shall include
+	- **(a)** a description of the management guidelines and policies of the Centre for the protection of human rights and freedoms; and
+	- **(b)** information on the performance by the Centre of its duties and functions, including any statistics by which that performance is measured.
+> 2000, c. 17, s. 71; 2014, c. 20, s. 292.
+
 
 
 
@@ -2227,11 +2672,12 @@ The order must be complied with within the period following the service of the o
 	- **(w)** prescribing the form and manner of notifying the Centre of any information that must be provided under section 11.13;
 	- **(x)** prescribing the form and manner of providing the Centre with any clarifications under subsection 11.14(1) and any clarifications under subsection 11.17(1);
 	- **(y)** prescribing, for the purposes of section 11.19, the form and manner for renewing registration and any longer renewal period;
+	- **(y.1) and (y.2)** [Repealed, 2014, c. 20, s. 294]
 	- **(z)** defining ***identifying information*** for the purposes of subsection 54.1(3); and
 	- **(z.1)** prescribing anything else that by this Act is to be prescribed.
 
 - **(2) and (3)** [Repealed, 2001, c. 41, s. 73]
-> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39.
+> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39; 2010, c. 12, s. 1877; 2014, c. 20, s. 294.
 
 
 
@@ -2647,20 +3093,28 @@ The order must be complied with within the period following the service of the o
 
 **General offences**
 
-**74** Every person or entity that knowingly contravenes any of sections 6, 6.1 or 9.1 to 9.3, subsection 9.4(2), sections 9.5 to 9.7 or 11.1, subsection 12(1) or (4) or 36(1), section 37, subsection 55(1) or (2), section 57 or subsection 62(2), 63.1(2) or 64(3) or the regulations is guilty of an offence and liable
-- **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
-- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
-> 2000, c. 17, s. 74; 2006, c. 12, s. 41.
+**74** 
+
+- **(1)** Every person or entity that knowingly contravenes any of sections 6, 6.1 and 9.1 to 9.3, subsection 9.4(2), sections 9.5 to 9.7, 11.1, 11.43, 11.44 and 11.6, subsections 12(1) and (4) and 36(1), section 37, subsections 55(1) and (2), section 57 and subsections 62(2), 63.1(2) and 64(3) or the regulations is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
+
+**Offence — contravention of a directive**
+
+- **(2)** Every person or entity that knowingly contravenes section 11.43, except insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
+> 2000, c. 17, s. 74; 2006, c. 12, s. 41; 2010, c. 12, s. 1878; 2014, c. 20, s. 295.
 
 
 
 
 
-**Reporting — sections 7 and 7.1**
+**Reporting and regulations — sections 7 and 7.1 and subsection 11.49(1)**
 
 **75** 
 
-- **(1)** Every person or entity that knowingly contravenes section 7 or 7.1 is guilty of an offence and liable
+- **(1)** Every person or entity that knowingly contravenes section 7 or 7.1 or any regulation made under subsection 11.49(1) is guilty of an offence and liable
 	- **(a)** on summary conviction,
 		- **(i)** for a first offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both, and
 		- **(ii)** for a subsequent offence, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than one year, or to both; or
@@ -2669,7 +3123,7 @@ The order must be complied with within the period following the service of the o
 **Defence for employees**
 
 - **(2)** No employee of a person or an entity shall be convicted of an offence under subsection (1) in respect of a transaction or proposed transaction that they reported to their superior or in respect of property whose existence they reported to their superior.
-> 2000, c. 17, s. 75; 2001, c. 41, s. 74.
+> 2000, c. 17, s. 75; 2001, c. 41, s. 74; 2010, c. 12, s. 1879.
 
 
 
@@ -2690,9 +3144,15 @@ The order must be complied with within the period following the service of the o
 
 - **(1)** Every person or entity that contravenes subsection 9(1) or (3) is guilty of an offence and liable on summary conviction to a fine of not more than $500,000 for a first offence and of not more than $1,000,000 for each subsequent offence.
 
+**Reporting — section 11.43**
+
+- **(2)** Every person or entity that contravenes section 11.43, only insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable on summary conviction to a fine of not more than $500,000 for a first offence and of not more than $1,000,000 for each subsequent offence.
+
 **Due diligence defence**
 
-- **(2)** No person or entity shall be convicted of an offence under subsection (1) if they exercised due diligence to prevent its commission.
+- **(3)** No person or entity shall be convicted of an offence under subsection (1) or (2) if they establish that they exercised due diligence to prevent its commission.
+> 2000, c. 17, s. 77; 2010, c. 12, s. 1880.
+
 
 
 
@@ -2737,8 +3197,8 @@ The order must be complied with within the period following the service of the o
 
 **Time limitation**
 
-**81** Proceedings under paragraph 74(a), 75(1)(a) or 76(a), subsection 77(1) or paragraph 77.1(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
-> 2000, c. 17, s. 81; 2006, c. 12, s. 44.
+**81** Proceedings under paragraph 74(1)(a), 74(2)(a), 75(1)(a) or 76(a), subsection 77(1) or (2), or paragraph 77.1(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
+> 2000, c. 17, s. 81; 2006, c. 12, s. 44; 2010, c. 12, s. 1881.
 
 
 
