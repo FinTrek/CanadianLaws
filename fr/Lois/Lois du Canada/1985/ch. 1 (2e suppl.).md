@@ -4963,14 +4963,14 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 
 **127.1** 
 
-- **(1)** Le ministre ou l’agent que le président désigne pour l’application du présent article peut annuler une saisie faite en vertu de l’article 110, annuler ou réduire une pénalité établie en vertu de l’article 109.3 ou une somme réclamée en vertu de l’article 124 ou rembourser un montant reçu en vertu de l’un des articles 117 à 119, dans les trente jours suivant la saisie ou l’établissement de la pénalité ou la réclamation dans les cas suivants :
+- **(1)** Le ministre ou l’agent que le président désigne pour l’application du présent article peut annuler une saisie faite en vertu de l’article 110, annuler ou réduire une pénalité établie en vertu de l’article 109.3 ou une somme réclamée en vertu de l’article 124 ou rembourser un montant reçu en vertu de l’un des articles 117 à 119, dans les quatre-vingt-dix jours suivant la saisie ou l’établissement de la pénalité ou la réclamation dans les cas suivants :
 	- **a)** le ministre est convaincu qu’aucune infraction n’a été commise;
 	- **b)** il y a eu infraction, mais le ministre est d’avis qu’une erreur a été commise concernant la somme établie, versée ou réclamée en garantie et que celle-ci doit être réduite.
 
 **Intérêt**
 
 - **(2)** La somme qui est remboursée à une personne en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par cette personne jusqu’à celui de son remboursement.
-> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81; 2009, ch. 10, art. 13(F).
+> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81; 2009, ch. 10, art. 13(F); 2014, ch. 20, art. 172.
 
 
 
@@ -4989,7 +4989,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 
 **129** 
 
-- **(1)** Les personnes ci-après peuvent, dans les quatre-vingt-dix jours suivant la saisie ou la signification de l’avis, en s’adressant par écrit, ou par tout autre moyen que le ministre juge indiqué, à l’agent qui a saisi les biens ou les moyens de transport ou a signifié ou fait signifier l’avis, ou à un agent du bureau de douane le plus proche du lieu de la saisie ou de la signification, présenter une demande en vue de faire rendre au ministre la décision prévue à l’article 131 :
+- **(1)** Les personnes ci-après peuvent, dans les quatre-vingt-dix jours suivant la saisie ou la signification de l’avis, en s’adressant au ministre par écrit, ou par tout autre moyen que celui-ci juge indiqué, présenter une demande en vue de lui faire rendre la décision prévue à l’article 131 :
 	- **a)** celles entre les mains de qui ont été saisis des marchandises ou des moyens de transport en vertu de la présente loi;
 	- **b)** celles à qui appartiennent les marchandises ou les moyens de transport saisis en vertu de la présente loi;
 	- **c)** celles de qui ont été reçus les montants ou garanties prévus à l’article 117, 118 ou 119 concernant des marchandises ou des moyens de transport saisis en vertu de la présente loi;
@@ -4998,7 +4998,7 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **Charge de la preuve**
 
 - **(2)** Il incombe à la personne qui prétend avoir présenté la demande visée au paragraphe (1) de prouver qu’elle l’a présentée.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 129; 1993, ch. 25, art. 82; 2001, ch. 25, art. 69.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 129; 1993, ch. 25, art. 82; 2001, ch. 25, art. 69; 2014, ch. 20, art. 173.
 
 
 
@@ -5234,7 +5234,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Procédure applicable**
 
-- **(2)** La demande se fait par remise d’un avis écrit à l’agent qui a saisi ou qui détient les marchandises ou le moyen de transport ou à un agent du bureau de douane le plus proche du lieu de la saisie ou de la détention.
+- **(2)** La demande se fait par remise d’un avis au ministre par écrit, ou sous toute autre forme prévue par celui-ci.
 
 **Fardeau de la preuve**
 
@@ -5260,7 +5260,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 		- **(ii)** soit il avait véritablement l’intention de demander au ministre de rendre une décision;
 	- **b)** il serait juste et équitable de faire droit à la demande;
 	- **c)** la demande a été présentée dès que possible.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75; 2014, ch. 20, art. 174.
 
 
 
