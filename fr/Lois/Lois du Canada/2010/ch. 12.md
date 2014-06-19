@@ -2406,7 +2406,9 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind46C0_hq_9622'>[*]</a></sup>**1884** Les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind46C0_hq_9622'><sup>*</sup></a>: [Note : Articles 1874 et 1875 en vigueur le 14 février 2011, *voir* TR/2011-13.]<br />
+<a name='fn_Ind46C0_hq_9622'><sup>*</sup></a>: [Note : Articles 1874 et 1875 en vigueur le 14 février 2011, *voir* TR/2011-13; les dispositions de la présente partie, à l’exception des articles 1874 et 1875, en vigueur le 18 juin 2014.]<br />
+> 2010, ch. 12, art. 1884; 2014, ch. 20, art. 297.
+
 
 
 
