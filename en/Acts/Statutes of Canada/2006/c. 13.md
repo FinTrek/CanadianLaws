@@ -2471,9 +2471,51 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(a)** costs incurred in the administration of this Act and the softwood lumber agreement, as defined in subsection 2(1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md); and
 	- **(b)** costs incurred in relation to any litigation, including damages, in respect of this Act or that agreement.
 
+**Calculations**
+
+- **(1.1)** The portion of the revenue to be distributed to a province shall be calculated in respect of each fiscal quarter in a fiscal year.
+
+**Definition of fiscal year**
+
+- **(1.2)** In subsection (1.1), ***fiscal year*** means the period beginning on April 1 in one year and ending on March 31 in the next year.
+
+**Revenue**
+
+- **(1.3)** The amount of revenue to be attributed to a province for a fiscal quarter is the revenue derived from the charge imposed under section 10 or 15 on softwood lumber products originating from that province.
+
+**Costs**
+
+- **(1.4)** The amount of the costs referred to in paragraphs (1)(a) and (b) to be attributed to a province for a fiscal quarter is determined by the formula
+```
+A × (B/C) + D
+```
+where
+- **A** is the costs that the Minister becomes aware of during the fiscal quarter;
+- **B** is the volume in board feet of softwood lumber products exported from the province to the United States during the fiscal quarter under export permits;
+- **C** is the volume in board feet of softwood lumber products exported from all of the provinces to the United States during the fiscal quarter under export permits; and
+- **D** is the total amount of the costs attributed to the province for previous fiscal quarters, including any fiscal quarter that is before the day on which this subsection comes into force, that have not already been deducted from revenue transfers to that province and that have not been previously collected under section 40.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) or through voluntary payments by that province to Her Majesty in right of Canada.
+
+**Exception**
+
+- **(1.5)** In the case of the costs referred to in paragraph (1)(b), the formula applies unless the Minister determines under subsection (1) that the costs are to be attributed otherwise.
+
+**Amount equal to or less than zero**
+
+- **(1.6)** If, after deducting any refunds and the costs referred to in paragraphs (1)(a) and (b), the resulting amount with respect to a province is equal to or less than zero, the Minister is not required to distribute any portion of the revenue to that province.
+
+**Reconciliation**
+
+- **(1.7)** Except for the final reconciliation, a reconciliation of the amounts used in calculations is to be made annually.
+
 **Amount of payments**
 
 - **(2)** The amount to be paid to a province shall be paid out of the Consolidated Revenue Fund.
+
+**Regulations**
+
+- **(3)** The Governor in Council may, on the recommendation of the Minister for International Trade, make regulations generally to carry out the purposes of this section.
+> 2006, c. 13, s. 99; 2014, c. 20, s. 311.
+
 
 
 
@@ -2491,9 +2533,9 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(b)** prescribing any matter or thing that by this Act is to be or may be prescribed; and
 	- **(c)** generally to carry out the purposes and provisions of this Act.
 
-**Regulations — section 99**
+- **(2)** [Repealed, 2014, c. 20, s. 312]
+> 2006, c. 13, s. 100; 2014, c. 20, s. 312.
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister for International Trade, make regulations establishing conditions to which payments under section 99 are subject and respecting the amount that shall be paid to a province under that section.
 
 
 
