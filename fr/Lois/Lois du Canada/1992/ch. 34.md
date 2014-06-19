@@ -960,16 +960,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Publication des projets de règlement et arrêtés**
-
 **30** 
 
-- **(1)** Sous réserve du paragraphe (2), les projets de règlements d’application des articles 27 et 27.1 et les arrêtés prévus à l’article 29 sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter leurs observations au ministre.
-
-**Exception**
-
-- **(2)** Ne sont pas visés les projets de règlement ou d’arrêté déjà publiés, qu’ils aient été modifiés ou non à la suite des observations.
+- **(1) et (2)** [Abrogés, 2014, ch. 20, art. 232]
 
 **Examen des règlements : Chambre des communes**
 
@@ -978,7 +971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Examen des règlements : Sénat**
 
 - **(4)** Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
-> 1992, ch. 34, art. 30; 2009, ch. 9, art. 29.
+> 1992, ch. 34, art. 30; 2009, ch. 9, art. 29; 2014, ch. 20, art. 232.
 
 
 
