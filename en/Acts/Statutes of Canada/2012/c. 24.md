@@ -795,6 +795,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** prescribing inspection marks and grade names in respect of any food commodity and regulating their application or use;
 	- **(d)** respecting or prohibiting the manufacturing, preparing, storing, packaging, labelling, selling or advertising of any food commodity;
 	- **(e)** respecting or prohibiting the sending or conveying, from one province to another, or the importation or exportation of any food commodity;
+	- **(e.1)** respecting or prohibiting the purchasing or receiving of any fresh fruit or vegetable that is imported or that is sent or conveyed from one province to another;
 	- **(f)** specifying criteria for determining whether an activity is carried out solely for personal use and specifying activities to which section 19 does not apply;
 	- **(g)** respecting quality management programs, quality control programs, safety programs or preventive control plans or any other similar programs or plans to be implemented by persons who conduct any activity regulated under this Act;
 	- **(h)** respecting, in relation to establishments where any activity regulated under this Act is conducted, the equipment and facilities to be used, the procedures to be followed and the standards to be maintained for the humane treatment and slaughter of animals;
@@ -833,6 +834,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Regulations made under paragraph (1)(e) may, among other things, establish pre-clearance or in-transit requirements for any imported food commodity or anything imported with it.
 
+**Paragraphs (1)(d) to (e.1)**
+
+- **(2.1)** Regulations made under paragraph (1)(d), (e) or (e.1) in respect of any fresh fruit or vegetable may, among other things, require a person to be a member of an entity or organization specified in the regulations.
+
 **Paragraph (1)(m)**
 
 - **(3)** Regulations made under paragraph (1)(m) may, among other things, require the provision to the Minister or an inspector of written notice by persons who conduct any activity regulated under this Act who become aware that a food commodity presents or is likely to present a risk of injury to human health or does not meet the requirements of the regulations.
@@ -840,6 +845,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Paragraph (1)(w)**
 
 - **(4)** Regulations made under paragraph (1)(w) that permit the Minister to make exemptions must provide that he or she may do so only if he or she is of the opinion that no risk of injury to human health will result.
+> 2012, c. 24, s. 51; 2014, c. 20, s. 234.
+
 
 
 
@@ -945,124 +952,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**60** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-### Board of Arbitration
 
 
+**61** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-#### Composition
 
 
+**62** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-**Board of Arbitration continued**
 
-**60** 
 
-- **(1)** The Board of Arbitration, continued by subsection 4(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) is continued.
+**63** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-**Composition**
 
-- **(2)** The Board of Arbitration consists of the members appointed by the Minister, one of whom is to be appointed as Chairperson and one as Vice-Chairperson.
 
+**64** [Repealed before coming into force, 2014, c. 20, s. 235]
 
 
 
-**Tenure**
+**65** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-**61** 
 
-- **(1)** Each member is to be appointed for a term of not more than five years and holds office during good behaviour, but may be removed by the Minister for cause.
 
-**Re-appointment**
+**66** [Repealed before coming into force, 2014, c. 20, s. 235]
 
-- **(2)** Each member may be re-appointed as a member in the same or another capacity.
 
 
-
-
-**Absence or incapacity of members**
-
-**62** If a member is absent or unable to act or the member’s office becomes vacant, the Minister may appoint a qualified person to act in the member’s place and, in the case of the Chairperson, the Vice-Chairperson acts as Chairperson.
-
-
-
-
-#### Chairperson
-
-
-
-**Duties of Chairperson**
-
-**63** The Chairperson is the Board of Arbitration’s chief executive officer and apportions work among its members.
-
-
-
-
-#### Remuneration and Expenses
-
-
-
-**Remuneration and expenses**
-
-**64** Each member is to be paid
-- **(a)** an amount that is fixed by the Treasury Board for each day or part of a day that the member is performing duties and functions unless the member is employed in the federal public administration; and
-- **(b)** in accordance with Treasury Board directives, reasonable travel and living expenses incurred by the member in the course of the performance of the member’s duties and functions.
-
-
-
-
-#### Staff
-
-
-
-**Staff and facilities**
-
-**65** The Minister may provide the Board of Arbitration with any officers and employees from within the federal public administration, and any facilities and professional advisers, that are necessary for the proper conduct of its business.
-
-
-
-
-#### Role
-
-
-
-**Role**
-
-**66** The role of the Board of Arbitration is to hear complaints involving the failure to comply with provisions of this Act or regulations specified in regulations made under paragraph 67(1)(a) or the failure to fulfil obligations specified in those regulations arising from contracts involving food commodities specified in those regulations.
-
-
-
-
-#### Regulations
-
-
-
-**Regulations**
-
-**67** 
-
-- **(1)** The Governor in Council may make any regulations for the Board of Arbitration with respect to the performance of its role, including regulations
-	- **(a)** specifying provisions, obligations and food commodities for the purposes of section 66;
-	- **(b)** specifying who may file a complaint to the Board, against whom a complaint may be filed and the time and manner in which a complaint may be filed;
-	- **(c)** fixing the quorum of the Board;
-	- **(d)** fixing the location of the Board’s head office;
-	- **(e)** specifying that the Board is a court of record;
-	- **(f)** specifying that the Board has sole and exclusive jurisdiction to hear complaints referred to in section 66;
-	- **(g)** setting out the powers, duties and functions of the Board, including
-		- **(i)** any of the powers, rights and privileges of a superior court of record with respect to the appearance, swearing and examination of witnesses, the production and inspection of documents and other things, the enforcement of its orders and other matters necessary or proper for the due exercise of its jurisdiction,
-		- **(ii)** the duty to deal with matters that come before the Board as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit,
-		- **(iii)** the power to enter into contracts to assist in the exercise of its powers and the performance of its duties or functions,
-		- **(iv)** the power to determine the location of its sittings,
-		- **(v)** the power to, with the approval of the Governor in Council, make rules governing the work of the Board and the practice and procedure in respect of its hearings,
-		- **(vi)** the power to make orders granting adequate relief, including the payment of compensation and interest, and
-		- **(vii)** the duty to give reasons for its decisions;
-	- **(h)** specifying that the Board is not bound by legal or technical rules of evidence;
-	- **(i)** respecting the review of the Board’s orders; and
-	- **(j)** respecting enforcement of the Board’s orders, including their registration in the Federal Court.
-
-**Restriction — paragraph (1)(h)**
-
-- **(2)** No regulation may be made under paragraph (1)(h) that permits the Board to receive or accept as evidence anything that would be inadmissible in a court by reason of any privilege under the law of evidence.
+**67** [Repealed before coming into force, 2014, c. 20, s. 235]
 
 
 
