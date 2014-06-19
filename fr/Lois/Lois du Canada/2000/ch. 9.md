@@ -128,9 +128,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
 - **b)** relativement à la province de Québec, un juge de la cour supérieure du Québec;
-- **c)** relativement aux provinces de la Nouvelle-Écosse et de la Colombie-Britannique, un juge de la Cour suprême de la province;
+- **c)** relativement aux provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, un juge de la Cour suprême de la province;
 - **d)** relativement aux provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et d’Alberta, un juge de la Cour du Banc de la Reine de la province;
-- **e)** relativement aux provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, un juge de la Section de première instance de la Cour suprême de la province;
+- **e)** relativement à la province de Terre-Neuve-et-Labrador, un juge de la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** relativement à la circonscription du Yukon, un juge de la Cour suprême du Yukon;
 - **g)** relativement à la circonscription des Territoires du Nord-Ouest, un juge de la Cour suprême des Territoires du Nord-Ouest;
 - **h)** relativement à la circonscription du territoire du Nunavut, un juge de la Cour de justice du Nunavut;
@@ -198,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(5)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2.
 
 
 
@@ -333,15 +333,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Nomination du directeur général des élections**
+**Nomination et durée du mandat**
 
 **13** 
 
-- **(1)** Est institué le poste de directeur général des élections, dont le titulaire est nommé à titre inamovible par résolution de la Chambre des communes. Il peut être révoqué pour motif valable par le gouverneur général sur adresse du Sénat et de la Chambre des communes.
+- **(1)** Est institué le poste de directeur général des élections, dont le titulaire est nommé à titre inamovible pour un mandat de dix ans par résolution de la Chambre des communes. La nomination peut être révoquée pour motif valable par le gouverneur général sur adresse du Sénat et de la Chambre des communes.
 
-**Limite d’âge**
+**Mandat unique**
 
-- **(2)** La limite d’âge pour l’exercice de la charge de directeur général des élections est de soixante-cinq ans.
+- **(2)** La personne qui a servi à titre de directeur général des élections ne peut être nommée de nouveau à ce poste.
+> 2000, ch. 9, art. 13; 2014, ch. 12, art. 3.
+
 
 
 
@@ -405,16 +407,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Le directeur général des élections peut, pendant la période électorale et les trente jours qui suivent celle-ci, adapter les dispositions de la présente loi dans les cas où il est nécessaire de le faire en raison d’une situation d’urgence, d’une circonstance exceptionnelle ou imprévue ou d’une erreur; il peut notamment prolonger le délai imparti pour l’accomplissement de toute opération et augmenter le nombre de fonctionnaires électoraux ou de bureaux de scrutin.
+- **(1)** Le directeur général des élections peut, pendant la période électorale et les trente jours qui suivent celle-ci, — uniquement pour permettre à des électeurs d’exercer leur droit de vote ou pour permettre le dépouillement du scrutin — adapter les dispositions de la présente loi dans les cas où il est nécessaire de le faire en raison d’une situation d’urgence, d’une circonstance exceptionnelle ou imprévue ou d’une erreur. Il peut notamment prolonger le délai imparti pour l’accomplissement de toute opération et augmenter le nombre de fonctionnaires électoraux ou de bureaux de scrutin.
 
 **Restriction**
 
-- **(2)** Il ne peut toutefois modifier l’heure limite de réception des actes de candidature ni prolonger les heures du vote par anticipation ou, sous réserve du paragraphe (3), les heures de vote le jour du scrutin.
+- **(2)** Il ne peut toutefois prolonger les heures du vote par anticipation ou, sous réserve du paragraphe (3), les heures de vote le jour du scrutin.
 
 **Exception**
 
 - **(3)** Lorsque, à la suite d’une urgence, il a fallu fermer un bureau de scrutin le jour du scrutin, le directeur général des élections reporte la fermeture du bureau à un moment ultérieur s’il est convaincu qu’autrement un nombre important d’électeurs ne pourront y voter; le cas échéant, il reporte la fermeture du bureau pour la durée qu’il juge suffisante pour que ces électeurs aient le temps voulu pour y voter, mais le total des heures au cours desquelles le bureau est ouvert ne peut dépasser douze et le bureau ne peut fermer après minuit.
-> 2000, ch. 9, art. 17; 2007, ch. 21, art. 2.
+> 2000, ch. 9, art. 17; 2007, ch. 21, art. 2; 2014, ch. 12, art. 6.
 
 
 
@@ -437,10 +439,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Vote électronique**
+**Coopération internationale**
 
-**18.1** Le directeur général des élections peut faire des études sur la tenue d’un scrutin, notamment sur de nouvelles manières de voter, concevoir et mettre à l’essai un processus de vote électronique pour usage à une élection générale ou partielle ultérieure. Tel processus ne peut être utilisé pour un vote officiel sans l’agrément préalable des comités du Sénat et de la Chambre des communes qui traitent habituellement des questions électorales.
-> 2000, ch. 9, art. 18.1; 2001, ch. 21, art. 2.
+**18.01** Le directeur général des élections peut, à la demande du gouverneur en conseil, fournir aux organismes électoraux d’autres pays ou à des organisations internationales, son aide et sa collaboration en matière électorale.
+> 2014, ch. 12, art. 8.
+
+
+
+
+
+**Nouvelle manière de voter**
+
+**18.1** Le directeur général des élections peut mener des études sur la tenue d’un scrutin, notamment sur de nouveaux processus de vote, concevoir et mettre à l’essai un nouveau processus de vote pour usage à une élection générale ou partielle ultérieure. Un tel processus ne peut être utilisé pour un vote officiel sans l’agrément préalable des comités du Sénat et de la Chambre des communes qui traitent habituellement des questions électorales ou, s’agissant d’un nouveau processus de vote électronique, sans l’agrément préalable du Sénat et de la Chambre des communes.
+> 2000, ch. 9, art. 18.1; 2001, ch. 21, art. 2; 2014, ch. 12, art. 8.
+
+
+
+
+
+**Contrats**
+
+**18.2** 
+
+- **(1)** Le directeur général des élections peut conclure des contrats, des ententes ou d’autres arrangements en son nom ou au nom de Sa Majesté du chef du Canada.
+
+**Baux**
+
+- **(2)** Le directeur général des élections peut autoriser le directeur du scrutin à conclure des baux au nom du directeur général des élections, selon les modalités et dans les limites qu’il fixe.
+
+**Contrats : Sa Majesté liée**
+
+- **(3)** Les contrats, ententes ou autres arrangements conclus au nom du directeur général des élections lient Sa Majesté du chef du Canada au même titre que le directeur général des élections.
+
+**Biens et services**
+
+- **(4)** Malgré l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), le directeur général des élections peut obtenir des biens et services à l’extérieur de l’administration publique fédérale.
+> 2014, ch. 12, art. 8.
 
 
 
@@ -465,9 +499,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Assistance technique**
+
+**20** 
+
+- **(1)** Le directeur général des élections peut retenir temporairement les services d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice des attributions que lui confèrent la présente loi ou une autre loi fédérale; il peut fixer et payer, avec l’approbation du Conseil du Trésor, leur rémunération et leurs frais.
+
 **Personnel nommé à titre temporaire**
 
-**20** Les cadres et employés supplémentaires que le directeur général des élections estime nécessaires à l’exercice des fonctions que lui confère la présente loi relativement à la préparation et à la tenue d’une élection peuvent être engagés, à titre temporaire, de la manière autorisée par la loi.
+- **(2)** Les cadres et employés supplémentaires que le directeur général des élections estime nécessaires à l’exercice des attributions que lui confère la présente loi relativement à la préparation et à la tenue d’une élection peuvent être engagés à titre temporaire ou à titre d’employés occasionnels conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2000, ch. 9, art. 20; 2014, ch. 12, art. 10.
+
 
 
 
@@ -475,6 +517,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 **21** Le directeur général des élections peut autoriser le directeur général adjoint des élections ou tout autre cadre de son personnel à exercer les fonctions que lui confère la présente loi.
+
+
+
+
+### Comité consultatif des partis politiques
+
+
+
+**Constitution**
+
+**21.1** 
+
+- **(1)** Est constitué le comité consultatif des partis politiques, composé du directeur général des élections et de deux représentants de chacun des partis enregistrés nommés par le chef du parti.
+
+**Mandat**
+
+- **(2)** Le comité fournit des avis et des recommandations au directeur général des élections sur toute question liée aux élections et au financement politique.
+
+**Directeur général des élections non lié**
+
+- **(3)** Les avis et les recommandations ne lient pas le directeur général des élections.
+
+**Réunions**
+
+- **(4)** Le comité est présidé par le directeur général des élections et se réunit au moins une fois l’an.
+> 2014, ch. 12, art. 11.
+
 
 
 
@@ -654,11 +723,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **27** 
 
-- **(1)** Le directeur du scrutin peut, avec l’agrément du directeur général des élections, autoriser toute personne agissant sous son autorité à exercer les fonctions que lui confère la présente loi, à l’exception de celles qui sont prévues au paragraphe 24(3), aux articles 57, 62, 63 et 67, aux paragraphes 71(1) et 72(1), aux articles 74, 77, 103, 104, 130, 293 à 298 et 300, au paragraphe 301(6) et aux articles 313 à 316.
+- **(1)** Le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections, autoriser toute personne agissant sous son autorité à exercer les attributions que lui confère la présente loi, à l’exception de celles qui sont prévues au paragraphe 24(3), aux articles 62, 63 et 67, aux paragraphes 71(1) et 72(1), aux articles 74, 77, 103, 104, 130, 293 à 298 et 300, au paragraphe 301(6) et aux articles 313 à 316.
 
 **Délégation par écrit**
 
 - **(2)** L’autorisation visée au paragraphe (1) doit être datée et signée par le directeur du scrutin.
+> 2000, ch. 9, art. 27; 2014, ch. 12, art. 15.
+
 
 
 
@@ -1466,18 +1537,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les règles suivantes s’appliquent dans le cadre du sous-alinéa (1)a)(i) :
 	- **a)** le nom ne peut être ni précédé ni suivi de titres, grades ou diplômes ou de tout autre préfixe ou suffixe;
-	- **b)** le ou les prénoms peuvent être remplacés par un surnom — sauf un surnom susceptible d’être confondu avec le nom d’un parti politique — sous lequel la personne qui désire se porter candidat est publiquement connue et, dans ce cas, le surnom peut être accompagné des initiales du ou des prénoms;
+	- **b)** un ou plusieurs des prénoms peuvent être remplacés par un surnom — sauf un surnom susceptible d’être confondu avec le nom d’un parti politique — sous lequel la personne qui désire se porter candidat est publiquement connue et, dans ce cas, le surnom peut être accompagné des initiales du ou des prénoms;
 	- **c)** il peut être substitué aux prénoms une abréviation courante de ceux-ci;
 	- **d)** la profession doit être énoncée de manière concise et correspondre à celle par laquelle la personne qui désire se porter candidat est connue au lieu de sa résidence habituelle.
 
 **Preuve de la connaissance publique**
 
-- **(3)** Dans le cas où elle a remplacé son prénom par un surnom dans l’acte de candidature, la personne qui désire se porter candidat doit aussi fournir au directeur du scrutin, sur demande, les documents requis par le directeur général des élections à titre de preuve qu’elle est publiquement connue sous ce surnom.
+- **(3)** Dans le cas où elle a remplacé un ou plusieurs de ses prénoms par un surnom dans l’acte de candidature, la personne qui désire se porter candidat doit aussi fournir au directeur du scrutin, à sa demande, les documents requis par le directeur général des élections à titre de preuve qu’elle est publiquement connue sous ce surnom.
 
 **Notification et détermination**
 
 - **(4)** Si le directeur du scrutin estime que le surnom d’un candidat visé à l’alinéa (2)b) est susceptible d’être confondu avec le nom d’un parti politique, il notifie le directeur général des élections qui détermine si, à son avis, le surnom est conforme à cet alinéa.
-> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7.
+> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7; 2014, ch. 12, art. 26.
 
 
 
@@ -1591,7 +1662,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Sanction**
 
-- **(2)** Si les originaux ne parviennent pas au directeur du scrutin dans le délai fixé, la candidature est rejetée sauf si l’intéressé convainc celui-ci qu’il a pris les mesures raisonnables pour acheminer les originaux dans ce délai.
+- **(2)** Si les originaux ne parviennent pas au directeur du scrutin dans le délai fixé, la candidature est annulée sauf si l’intéressé convainc celui-ci qu’il a pris les mesures raisonnables pour acheminer les originaux dans ce délai.
+> 2000, ch. 9, art. 73; 2014, ch. 12, art. 28(F).
+
 
 
 
@@ -2076,9 +2149,11 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 
-**Location des bureaux**
+**Bureaux de révision**
 
-**98** Avec l’agrément du directeur général des élections, le directeur du scrutin peut louer un ou des bureaux devant servir à la révision des listes électorales préliminaires. Les bureaux de révision doivent offrir un accès de plain-pied.
+**98** Le directeur du scrutin peut établir un ou plusieurs bureaux devant servir à la révision des listes électorales préliminaires. Les bureaux de révision doivent offrir un accès de plain-pied.
+> 2000, ch. 9, art. 98; 2014, ch. 12, art. 34.
+
 
 
 
@@ -2127,6 +2202,10 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 		- **(ii)** une preuve suffisante de l’identité de cet électeur et de sa propre identité;
 	- **d)** l’électeur, ou un autre électeur qui vit dans la même résidence que cet électeur, remplit le formulaire et prête le serment prescrit à sa résidence et en présence des agents réviseurs.
 
+**Formulaire d’inscription**
+
+- **(1.01)** Le formulaire visé aux alinéas (1)a) à d) contient une déclaration à signer par l’électeur qui le remplit selon laquelle l’électeur dont le nom doit être ajouté à la liste électorale préliminaire a qualité d’électeur.
+
 **Adjonctions sur la foi du Registre des électeurs**
 
 - **(1.1)** Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d’un électeur à la liste électorale préliminaire s’il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée.
@@ -2137,7 +2216,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Changement d’adresse**
 
-- **(3)** L’adresse précédente de l’électeur qui s’inscrit au titre de l’alinéa (1)a) ou qui est inscrit au titre de l’alinéa (1)b) ou c) doit être donnée si elle a changé depuis son inscription au Registre des électeurs. Son nom est alors radié du Registre des électeurs relativement à son adresse précédente.
+- **(3)** L’adresse précédente de l’électeur dont le nom est ajouté au titre de l’un des alinéas (1)a) à d) doit être donnée si elle a changé depuis son inscription au Registre des électeurs. Son nom est alors radié du Registre des électeurs relativement à son adresse précédente.
 
 **Radiations**
 
@@ -2156,7 +2235,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Changement d’adresse dans la circonscription**
 
 - **(6)** L’électeur qui change d’adresse dans sa circonscription peut, notamment par téléphone, s’il fournit à l’un des fonctionnaires électoraux visés au paragraphe 97(1) une preuve suffisante de son identité, faire apporter à la liste électorale préliminaire appropriée les corrections pertinentes. Peut faire de même l’électeur qui vit dans la même résidence que cet électeur, s’il fournit une preuve suffisante de l’identité de ce dernier.
-> 2000, ch. 9, art. 101; 2007, ch. 21, art. 16.
+> 2000, ch. 9, art. 101; 2007, ch. 21, art. 16; 2014, ch. 12, art. 35.
 
 
 
@@ -2357,10 +2436,13 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **b)** sauf dans la mesure autorisée par la présente loi, de demander volontairement d’être inscrit sur la liste électorale d’une section de vote lorsqu’il est inscrit sur celle d’une autre section de vote pour l’élection en cours;
 - **c)** sauf dans la mesure autorisée par la présente loi, de demander volontairement d’être inscrit sur la liste électorale d’une section de vote dans laquelle il ne réside pas habituellement;
 - **d)** de demander que le nom d’une personne soit inscrit sur une liste électorale, sachant que celle-ci n’a pas qualité d’électeur ou est inhabile à voter dans la circonscription;
+- **d.1)** de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à faire une déclaration fausse ou trompeuse relativement à la qualité d’électeur de celle-ci afin d’être inscrite sur la liste électorale;
 - **e)** de demander volontairement l’inscription sur une liste électorale du nom d’une chose ou d’un animal;
 - **f)** d’utiliser sciemment un renseignement personnel figurant à une liste électorale à une fin autre que les fins suivantes :
 	- **(i)** la communication, conformément à l’article 110, des partis enregistrés, des députés et des candidats avec des électeurs,
 	- **(ii)** une élection ou un référendum fédéral.
+> 2000, ch. 9, art. 111; 2014, ch. 12, art. 39.
+
 
 
 
@@ -3232,11 +3314,19 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Certificat d’inscription**
 
-- **(4)** Si l’électeur satisfait aux exigences du paragraphe (1), l’agent d’inscription ou le scrutateur, selon le cas, lui délivre un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter au bureau de scrutin établi dans la section de vote où il réside habituellement et le lui fait signer.
+- **(4)** Si l’électeur satisfait aux exigences du paragraphe (1), l’agent d’inscription ou le scrutateur, selon le cas, lui délivre un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer. Le certificat d’inscription contient une déclaration faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
 
 **Présomption de modification**
 
 - **(5)** La liste électorale est réputée avoir été modifiée en conformité avec tout certificat délivré aux termes du paragraphe (4).
+
+**Interdictions — inscription le jour du scrutin**
+
+- **(5.1)** Il est interdit à quiconque :
+	- **a)** de demander sciemment d’être inscrit le jour du scrutin sous un nom qui n’est pas le sien;
+	- **b)** sauf dans la mesure autorisée par la présente loi, de demander sciemment d’être inscrit le jour du scrutin pour voter dans une section de vote dans laquelle il ne réside pas habituellement;
+	- **c)** de demander d’être inscrit le jour du scrutin pour voter dans une circonscription, sachant qu’il n’a pas qualité d’électeur ou est inhabile à voter dans la circonscription;
+	- **d)** de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à faire une déclaration fausse ou trompeuse relativement à la qualité d’électeur de celle-ci afin d’être inscrite le jour du scrutin.
 
 **Infraction : répondre de plus d’un électeur**
 
@@ -3245,7 +3335,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Interdiction d’agir à titre de répondant**
 
 - **(7)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
-> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26, ch. 37, art. 2.
+> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26, ch. 37, art. 2; 2014, ch. 12, art. 50.
 
 
 
@@ -3438,11 +3528,19 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Certificat d’inscription**
 
-- **(3)** Si l’électeur satisfait aux exigences du paragraphe (2), le scrutateur remplit un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer.
+- **(3)** Si l’électeur satisfait aux exigences du paragraphe (2), le scrutateur remplit un certificat d’inscription, selon le formulaire prescrit, l’autorisant à voter et le lui fait signer. Le certificat d’inscription contient une déclaration faite par l’électeur selon laquelle il a cette qualité aux termes de l’article 3.
 
 **Obligation du greffier du scrutin**
 
 - **(4)** Le greffier du scrutin inscrit sur le formulaire prescrit le nom des électeurs admis à voter en vertu du présent article.
+
+**Interdictions — inscription à un bureau de vote par anticipation**
+
+- **(4.1)** Il est interdit à quiconque :
+	- **a)** de demander sciemment d’être inscrit à un bureau de vote par anticipation sous un nom qui n’est pas le sien;
+	- **b)** sauf dans la mesure autorisée par la présente loi, de demander sciemment d’être inscrit à un bureau de vote par anticipation pour voter dans un district de vote par anticipation dans lequel il ne réside pas habituellement;
+	- **c)** de demander d’être inscrit à un bureau de vote par anticipation pour voter dans une circonscription, sachant qu’il n’a pas qualité d’électeur ou est inhabile à voter dans la circonscription;
+	- **d)** de contraindre ou de tenter de contraindre, d’inciter ou de tenter d’inciter une autre personne à faire une déclaration fausse ou trompeuse relativement à la qualité d’électeur de celle-ci afin d’être inscrite à un bureau de vote par anticipation.
 
 **Infraction : répondre de plus d’un électeur**
 
@@ -3451,7 +3549,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Interdiction d’agir à titre de répondant**
 
 - **(6)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
-> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30, ch. 37, art. 3.
+> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30, ch. 37, art. 3; 2014, ch. 12, art. 54.
 
 
 
@@ -5556,9 +5654,9 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **(1)** Si le juge ne se conforme pas aux articles 300 à 309, une partie lésée peut, dans les huit jours qui suivent le défaut d’agir, présenter une requête :
 	- **a)** dans la province d’Ontario, à un juge de la Cour supérieure de justice;
 	- **b)** dans les provinces de Québec, du Nouveau-Brunswick et d’Alberta et au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, à un juge de la Cour d’appel de la province ou du territoire;
-	- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, à un juge de la Cour suprême de la province;
+	- **c)** dans les provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, à un juge de la Cour suprême de la province;
 	- **d)** dans les provinces du Manitoba et de la Saskatchewan, à un juge de la Cour du Banc de la Reine de la province;
-	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, à un juge de la Section de première instance de la Cour suprême de la province.
+	- **e)** dans la province de Terre-Neuve-et-Labrador, à un juge de la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador.
 
 **Requête appuyée d’une déclaration sous serment**
 
@@ -5574,7 +5672,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Production des déclarations sous serment**
 
 - **(4)** Le juge visé ou toute partie intéressée peuvent déposer au bureau du greffier, du registraire ou du protonotaire du tribunal du juge auquel la requête a été présentée, des déclarations sous serment en réponse à celles que le requérant a produites; sur demande, ils en fournissent des copies au requérant.
-> 2000, ch. 9, art. 311; 2002, ch. 7, art. 93.
+> 2000, ch. 9, art. 311; 2002, ch. 7, art. 93; 2014, ch. 12, art. 71.
 
 
 
@@ -5865,14 +5963,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 
-
-### Diffusion prématurée des résultats
-
-
-
-**Interdiction de diffusion prématurée**
-
-**329** Il est interdit de diffuser le résultat ou ce qui semble être le résultat du scrutin d’une circonscription dans une circonscription avant la fermeture de tous les bureaux de scrutin de cette dernière.
+**329** [Abrogé, 2014, ch. 12, art. 73]
 
 
 
@@ -8132,25 +8223,40 @@ La demande est notifiée au directeur général des élections.
 	- **b)** 1 000 $, au total, au candidat qui n’est pas le candidat d’un parti enregistré pour une élection donnée;
 	- **c)** 1 000 $, au total, à l’ensemble des candidats à la direction pour une course à la direction donnée.
 
-**Exception**
+**Disposition testamentaire**
 
-- **(2)** Sont soustraites à l’application du paragraphe (1) les contributions apportées par disposition testamentaire inconditionnelle et non discrétionnaire.
+- **(2)** Des contributions peuvent être apportées par disposition testamentaire si elles ne sont apportées qu’au cours d’une année civile et si elles respectent les plafonds établis au titre du paragraphe (1) en tenant compte des contributions apportées par le testateur avant son décès.
+
+**Disposition testamentaire non conforme devant être lue différemment**
+
+- **(2.1)** Toute disposition testamentaire qui prévoit des contributions dépassant les plafonds établis au titre du paragraphe (1) doit être lue comme si celles-ci respectent ces plafonds, et toute disposition testamentaire qui prévoit que des contributions peuvent être apportées au cours de plusieurs années civiles suivant l’année de l’entrée en vigueur du présent paragraphe doit être lue comme si les contributions ne sont apportées qu’au cours de la première année civile visée.
 
 **Affiliation présumée d’un candidat**
 
 - **(3)** Pour l’application du paragraphe (1), toute contribution apportée à la personne qui déclare qu’elle cherchera à obtenir le soutien d’un parti enregistré donné lors d’une élection est considérée comme une contribution apportée à un candidat de ce parti visé à l’alinéa (1)a.1) et toute contribution apportée à la personne qui déclare qu’elle ne cherchera pas à obtenir le soutien d’un parti enregistré lors d’une élection est considérée comme une contribution apportée à un candidat visé à l’alinéa (1)b).
 
-**Exceptions : contributions à sa propre campagne**
+**Exceptions : contributions du candidat à l’investiture à sa propre campagne**
 
-- **(4)** Les contributions ci-après ne sont pas prises en compte pour le calcul des plafonds prévus au paragraphe (1) :
-	- **a)** les contributions de 1 000 $, au total, apportées par un candidat à l’investiture ou par un candidat d’un parti enregistré — provenant de ses propres fonds — à sa campagne à l’investiture ou à titre de candidat;
-	- **b)** les contributions de 1 000 $, au total, apportées par un candidat qui n’est pas candidat d’un parti enregistré — provenant de ses propres fonds — à sa campagne;
-	- **c)** les contributions de 1 000 $, au total, apportées par un candidat à la direction — provenant de ses propres fonds — à sa campagne.
+- **(4)** Les contributions de 1 000 $, au total, apportées par un candidat à l’investiture — provenant de ses propres fonds — à sa campagne d’investiture ne sont pas prises en compte pour le calcul du plafond prévu à son égard à l’alinéa (1)a.1).
+
+**Contributions : candidats et candidats à la direction**
+
+- **(4.1)** Sous réserve du paragraphe (4.2), il est interdit à tout candidat ainsi qu’à tout candidat à la direction d’apporter à sa campagne des contributions provenant de ses propres fonds.
+
+**Exception : contributions à sa propre campagne**
+
+- **(4.2)** Sont permises les contributions suivantes :
+	- **a)** les contributions de 5 000 $, au total, apportées par un candidat — provenant de ses propres fonds — à sa campagne, pour une élection donnée;
+	- **b)** les contributions de 25 000 $, au total, apportées par un candidat à la direction —  provenant de ses propres fonds — à sa campagne, pour une course à la direction donnée.
+
+**Aucun effet sur les plafonds prévus au paragraphe (1)**
+
+- **(4.3)** Les contributions visées au paragraphe (4.2) n’ont pas pour effet de réduire les plafonds prévus au paragraphe (1) relativement aux contributions que le candidat ou le candidat à la direction peut apporter à un autre candidat ou candidat à la direction.
 
 **Contribution réputée**
 
 - **(5)** Pour l’application de la présente loi, les contributions faites à un candidat à la direction dans les dix-huit mois suivant la course à la direction sont considérées comme des contributions pour cette course.
-> 2000, ch. 9, art. 405; 2003, ch. 19, art. 25; 2006, ch. 9, art. 46.
+> 2000, ch. 9, art. 405; 2003, ch. 19, art. 25; 2006, ch. 9, art. 46; 2014, ch. 12, art. 80.
 
 
 
@@ -8186,7 +8292,7 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 **405.2** 
 
 - **(1)** Il est interdit à toute personne ou entité :
-	- **a)** d’esquiver ou de tenter d’esquiver l’interdiction prévue par le paragraphe 404(1) ou un plafond prévu par le paragraphe 405(1) ou l’article 405.31;
+	- **a)** d’esquiver ou de tenter d’esquiver l’interdiction prévue par les paragraphes 404(1) ou 405(4.1) ou un plafond prévu par les paragraphes 405(1) ou (4.2) ou l’article 405.31;
 	- **b)** d’agir de concert avec d’autres personnes ou entités en vue d’accomplir un tel fait.
 
 **Interdiction de cacher l’identité d’un donateur**
@@ -8201,8 +8307,8 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 
 **Accords interdits**
 
-- **(4)** Nul ne peut conclure d’accord prévoyant le paiement de biens ou de services fournis à un parti enregistré ou à un candidat à la condition qu’un particulier apporte une contribution, directement ou indirectement, à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
-> 2003, ch. 19, art. 25; 2006, ch. 9, art. 48.
+- **(4)** Il est interdit à toute personne ou entité de conclure un accord prévoyant le paiement de biens ou de services fournis, directement ou indirectement, à un parti enregistré ou à un candidat à la condition qu’un particulier apporte une contribution, directement ou indirectement, à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
+> 2003, ch. 19, art. 25; 2006, ch. 9, art. 48; 2014, ch. 12, art. 82.
 
 
 
@@ -8225,8 +8331,14 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 
 **Interdiction : contribution indirecte**
 
-**405.3** Il est interdit à tout particulier d’apporter à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture une contribution qui provient des fonds, des biens ou des services d’une personne ou entité et qui ont été fournis au particulier à cette fin.
-> 2003, ch. 19, art. 25; 2006, ch. 9, art. 49.
+**405.3** 
+
+- **(1)** Il est interdit à tout particulier d’apporter à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture une contribution qui provient des fonds, des biens ou des services d’une personne ou entité et qui ont été fournis au particulier à cette fin.
+
+**Exception : candidats et candidats à la direction**
+
+- **(2)** Toutefois, un candidat ou un candidat à la direction peut apporter une contribution visée au paragraphe 405(4.2) qui provient de fonds obtenus sous forme d’un prêt qu’une institution financière au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) lui a consenti par écrit à un taux d’intérêt du marché, mais seuls ses biens peuvent être fournis à titre de sûreté pour ce prêt.
+> 2003, ch. 19, art. 25; 2006, ch. 9, art. 49; 2014, ch. 12, art. 83.
 
 
 
@@ -8857,10 +8969,18 @@ La demande est notifiée au directeur général des élections.
 		- **(i)** soit au moins 2 % du nombre des votes validement exprimés dans cette élection,
 		- **(ii)** soit au moins 5 % du nombre des votes validement exprimés dans les circonscriptions dans lesquelles il a soutenu un candidat.
 
+**Réduction du remboursement**
+
+- **(1.1)** Dans le cas où les dépenses électorales exposées dans le compte des dépenses électorales du parti enregistré dépassent le plafond fixé en application de l’article 422, la somme visée au paragraphe (1) est réduite de la façon ci-après, sans jamais toutefois être inférieure à zéro :
+	- **a)** de 1 $ pour chaque dollar de ces dépenses qui excède de moins de 5 % le plafond;
+	- **b)** de 2 $ pour chaque dollar de ces dépenses qui excède de 5 % ou plus, mais de moins de 10 %, le plafond;
+	- **c)** de 3 $ pour chaque dollar de ces dépenses qui excède de 10 % ou plus, mais de moins de 12,5 %, le plafond;
+	- **d)** de 4 $ pour chaque dollar de ces dépenses qui excède de 12,5 % ou plus le plafond.
+
 **Paiement du remboursement**
 
 - **(2)** Sur réception du certificat, le receveur général paie au parti visé, sur le Trésor, la somme qui y est précisée.
-> 2000, ch. 9, art. 435; 2003, ch. 19, art. 39.
+> 2000, ch. 9, art. 435; 2003, ch. 19, art. 39; 2014, ch. 12, art. 84.
 
 
 
@@ -10379,10 +10499,22 @@ La demande est notifiée au directeur général des élections.
 	- **a)** 60 % de la somme des dépenses électorales payées et des dépenses personnelles payées, exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 464;
 	- **b)** 60 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 440, moins le remboursement partiel déjà reçu au titre de l’article 464.
 
+**Réduction du remboursement**
+
+- **(2.1)** Dans le cas où les dépenses électorales exposées dans le compte de campagne électorale du candidat dépassent le plafond fixé en application de l’article 440, le montant établi au titre du paragraphe (2) est réduit de la façon suivante :
+	- **a)** de 1 $ pour chaque dollar de ces dépenses qui excède de moins de 5 % le plafond;
+	- **b)** de 2 $ pour chaque dollar de ces dépenses qui excède de 5 % ou plus, mais de moins de 10 %, le plafond;
+	- **c)** de 3 $ pour chaque dollar de ces dépenses qui excède de 10 % ou plus, mais de moins de 12,5 %, le plafond;
+	- **d)** de 4 $ pour chaque dollar de ces dépenses qui excède de 12,5 % ou plus le plafond.
+
 **Versement à l’agent officiel**
 
 - **(3)** Sur réception du certificat, le receveur général verse à l’agent officiel, sur le Trésor, le montant visé à l’alinéa (1)d) relativement au candidat. Le versement peut aussi être fait à la personne désignée par l’agent officiel.
-> 2000, ch. 9, art. 465; 2003, ch. 19, art. 49.
+
+**Remboursement**
+
+- **(4)** Dans le cas où le montant établi au titre du paragraphe (2), après réduction en application du paragraphe (2.1), est négatif, l’agent officiel est tenu de remettre sans délai au receveur général une somme égale au montant exprimé de façon positive, jusqu’à concurrence du remboursement partiel reçu au titre de l’article 464.
+> 2000, ch. 9, art. 465; 2003, ch. 19, art. 49; 2014, ch. 12, art. 85.
 
 
 
@@ -11425,6 +11557,20 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Usurpation de qualité**
+
+**480.1** Commet une infraction quiconque, avec l’intention de tromper, se présente faussement, ou fait en sorte que quelqu’un se présente faussement, comme :
+- **a)** le directeur général des élections, un membre de son personnel ou une personne autorisée à agir en son nom;
+- **b)** un fonctionnaire électoral ou une personne autorisée à agir en son nom;
+- **c)** une personne autorisée à agir au nom du bureau du directeur général des élections;
+- **d)** une personne autorisée à agir au nom d’un parti enregistré ou d’une association enregistrée;
+- **e)** un candidat ou une personne autorisée à agir en son nom.
+> 2014, ch. 12, art. 88.
+
+
+
+
+
 **Offre de pot-de-vin**
 
 **481** 
@@ -11443,6 +11589,15 @@ La demande est notifiée au directeur général des élections.
 **482** Commet une infraction quiconque :
 - **a)** par intimidation ou par la contrainte, force ou incite une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné;
 - **b)** incite une autre personne à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné par quelque prétexte ou ruse, notamment en tentant de lui faire croire que le scrutin à une élection n’est pas secret.
+
+
+
+
+**Entrave**
+
+**482.1** Commet une infraction quiconque entrave l’action du commissaire aux élections fédérales ou des personnes agissant sous son autorité, ou leur fait sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse, alors qu’ils exercent les attributions que la présente loi confère au commissaire.
+> 2014, ch. 12, art. 89.
+
 
 
 
@@ -11552,8 +11707,8 @@ La demande est notifiée au directeur général des élections.
 
 **Infraction exigeant une intention — double procédure**
 
-- **(2)** Commet une infraction quiconque contrevient aux alinéas 111a), d) ou e) (actions interdites relatives à une liste électorale).
-> 2000, ch. 9, art. 487; 2007, ch. 21, art. 37.1.
+- **(2)** Commet une infraction quiconque contrevient aux alinéas 111a), d), d.1) ou e) (actions interdites relatives à une liste électorale).
+> 2000, ch. 9, art. 487; 2007, ch. 21, art. 37.1; 2014, ch. 12, art. 92.
 
 
 
@@ -11609,12 +11764,13 @@ La demande est notifiée au directeur général des élections.
 - **(3)** Commet une infraction :
 	- **a)** l’employeur qui contrevient à l’article 134 (empêcher l’employé de disposer de temps pour voter);
 	- **b)** quiconque contrevient volontairement au paragraphe 155(4) (divulguer le vote de l’électeur que l’on a aidé);
+	- **b.1)** quiconque contrevient à l’un ou l’autre des alinéas 161(5.1)a) à d) (actions interdites relatives à l’inscription le jour du scrutin);
 	- **c)** le candidat, le fonctionnaire électoral ou le représentant d’un candidat qui contrevient au paragraphe 164(1) (non-respect du secret du vote);
 	- **d)** quiconque contrevient à l’alinéa 166(1)c) (influencer le vote dans un bureau de scrutin);
 	- **e)** quiconque contrevient à l’un ou l’autre des alinéas 167(1)a) à d) (actions interdites relatives aux bulletins de vote) ou des alinéas 167(2)a) à d) (actions interdites relatives aux bulletins de vote ou à l’urne faites avec l’intention d’influencer les résultats);
 	- **f)** le scrutateur qui contrevient à l’alinéa 167(3)a) (apposer son paraphe avec l’intention d’influencer les résultats);
 	- **g)** le scrutateur qui contrevient à l’alinéa 167(3)b) (marquer un bulletin de vote de façon à reconnaître l’électeur).
-> 2000, ch. 9, art. 489; 2007, ch. 21, art. 38.
+> 2000, ch. 9, art. 489; 2007, ch. 21, art. 38; 2014, ch. 12, art. 93.
 
 
 
@@ -11627,9 +11783,12 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — double procédure**
 
 **490** Commet une infraction :
-- **a)** le scrutateur qui contrevient volontairement au paragraphe 174(1) (défaut de permettre à l’électeur de voter);
+- **a)** quiconque contrevient à l’un ou l’autre des alinéas 169(4.1)a) à d) (actions interdites relatives à l’inscription au bureau de vote par anticipation);
+- **a.1)** le scrutateur qui contrevient sciemment au paragraphe 174(1) (défaut de permettre à l’électeur de voter);
 - **b)** le greffier du scrutin qui contrevient volontairement au paragraphe 174(2) (défaut de tenir un registre du vote);
 - **c)** s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur qui contrevient à l’article 175 (défaut de prendre les mesures requises concernant l’urne et les bulletins de vote au bureau de vote par anticipation), le directeur du scrutin qui contrevient aux paragraphes 176(2) ou (3) ou le scrutateur qui contrevient au paragraphe 176(3) (défaut de biffer des noms).
+> 2000, ch. 9, art. 490; 2014, ch. 12, art. 94.
+
 
 
 
@@ -11732,7 +11891,7 @@ La demande est notifiée au directeur général des élections.
 	- **a)** quiconque contrevient volontairement aux paragraphes 326(1) ou 326(2) (défaut de fournir des renseignements relatifs à un sondage électoral), le demandeur d’un sondage électoral qui contrevient volontairement au paragraphe 326(3) (défaut de fournir le compte rendu des résultats d’un sondage électoral);
 	- **b)** quiconque contrevient volontairement à l’article 327 (défaut d’indiquer qu’un sondage électoral n’est pas fondé sur une méthode statistique reconnue);
 	- **c)** quiconque contrevient volontairement au paragraphe 328(2) (diffusion des résultats d’un sondage électoral pendant la période d’interdiction);
-	- **d)** quiconque contrevient volontairement à l’article 329 (diffusion prématurée des résultats de l’élection);
+	- **d)** [Abrogé, 2014, ch. 12, art. 95]
 	- **e)** quiconque contrevient volontairement aux paragraphes 330(1) ou (2) (radiodiffusion à l’étranger);
 	- **f)** le radiodiffuseur qui contrevient volontairement au paragraphe 335(1) ou l’exploitant de réseau qui contrevient volontairement au paragraphe 335(2) (défaut de libérer du temps d’émission);
 	- **g)** le radiodiffuseur qui contrevient volontairement aux paragraphes 339(3) (défaut de libérer du temps d’émission additionnel) ou 339(4) (modification ou réajustement du temps libéré) ou l’exploitant de réseau qui contrevient volontairement au paragraphe 345(1) (défaut d’accorder du temps d’émission gratuit);
@@ -11745,6 +11904,8 @@ La demande est notifiée au directeur général des élections.
 - **(5)** Commet une infraction :
 	- **a)** quiconque contrevient aux paragraphes 321(1) (publicité électorale sur un support gouvernemental) ou 323(1) (faire diffuser de la publicité électorale pendant la période d’interdiction);
 	- **b)** quiconque contrevient au paragraphe 328(1) (faire diffuser les résultats d’un sondage électoral pendant la période d’interdiction).
+> 2000, ch. 9, art. 495; 2014, ch. 12, art. 95.
+
 
 
 
@@ -11758,7 +11919,7 @@ La demande est notifiée au directeur général des élections.
 **496** 
 
 - **(1)** Commet une infraction le tiers qui contrevient :
-	- **a)** à l’un ou l’autre des paragraphes 350(1) à (3) (engagement de dépenses de publicité électorale dépassant les plafonds fixés);
+	- **a)** à l’un ou l’autre des paragraphes 350(1) à (4) (engagement de dépenses de publicité électorale dépassant les plafonds fixés);
 	- **b)** à l’article 352 (défaut de mentionner son nom dans la publicité électorale);
 	- **c)** au paragraphe 353(1) (défaut de s’enregistrer);
 	- **d)** à l’article 354 ou au paragraphe 355(1) (défaut de nommer un agent financier ou un vérificateur);
@@ -11768,9 +11929,11 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction le tiers qui :
-	- **a)** contrevient volontairement à l’un ou l’autre des paragraphes 350(1) à (3) ou à l’article 351 (dépasser ou esquiver les plafonds fixés pour les dépenses de publicité électorale);
+	- **a)** contrevient volontairement à l’un ou l’autre des paragraphes 350(1) à (4) ou à l’article 351 (dépasser ou esquiver les plafonds fixés pour les dépenses de publicité électorale);
 	- **b)** contrevient volontairement au paragraphe 353(1) (défaut de s’enregistrer);
 	- **c)** contrevient volontairement au paragraphe 359(1) (défaut de présenter le rapport de dépenses de publicité électorale).
+> 2000, ch. 9, art. 496; 2014, ch. 12, art. 97.
+
 
 
 
@@ -11900,7 +12063,7 @@ La demande est notifiée au directeur général des élections.
 	- **f.1)** la personne ou l’entité qui contrevient sciemment au paragraphe 404(1) (contribution inadmissible);
 	- **f.11)** le parti enregistré ou l’association de circonscription qui contrevient volontairement au paragraphe 404.3(1) (cession interdite);
 	- **f.12)** la personne habilitée à accepter des contributions pour le compte d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture qui contrevient volontairement à l’article 404.4 (défaut de délivrer un reçu);
-	- **f.13)** quiconque contrevient volontairement au paragraphe 405(1) (apporter des contributions qui excèdent le plafond);
+	- **f.13)** quiconque contrevient sciemment aux paragraphes 405(1) ou (4.1) (apporter des contributions qui dépassent le plafond);
 	- **f.14)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(1) (esquiver le plafond d’une contribution);
 	- **f.15)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(2) (cacher l’identité d’un donateur);
 	- **f.16)** la personne habilitée par la présente loi à accepter des contributions qui contrevient au paragraphe 405.2(3) (accepter sciemment une contribution excessive);
@@ -11968,7 +12131,7 @@ La demande est notifiée au directeur général des élections.
 **Poursuites postérieures à l’expiration des délais**
 
 - **(4)** Il ne peut être engagé de poursuite pour défaut de produire un rapport ou un autre document auprès du directeur général des élections avant l’expiration du délai de présentation, au titre de la présente loi, d’une demande de prorogation du délai de production du rapport ou du document.
-> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57; 2007, ch. 21, art. 39.
+> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57; 2007, ch. 21, art. 39; 2014, ch. 12, art. 98.
 
 
 
@@ -12012,32 +12175,32 @@ La demande est notifiée au directeur général des élections.
 
 **500** 
 
-- **(1)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 496(1), 497(1) et 499(1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
+- **(1)** Quiconque commet une infraction visée à l’un des paragraphes 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 496(1), 497(1) et 499(1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
 
 **Peine — infractions intentionnelles (déclaration sommaire)**
 
-- **(2)** Quiconque commet une infraction visée à l’une ou l’autre des dispositions suivantes : le paragraphe 485(1), l’alinéa 487(1)a), les paragraphes 488(1), 489(2) et 491(2), l’article 493 et le paragraphe 495(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
+- **(2)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 484(2) et 486(2), l’alinéa 487(1)a), les paragraphes 488(1), 489(2) et 491(2), l’article 493 et les paragraphes 495(2) et (3) et 497(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
 
-**Peine — infractions intentionnelles (déclaration sommaire)**
+**Peine — infraction intentionnelle (déclaration sommaire)**
 
-- **(3)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(2), 486(2), 495(3) et 497(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+- **(3)** Quiconque commet une infraction visée au paragraphe 485(1) ou à l’alinéa 487(1)b) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
 
-- **(3.1)** Quiconque commet une infraction visée à l’alinéa 487(1)b) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines.
+- **(3.1)** [Abrogé, 2014, ch. 12, art. 100]
 
 **Peine — infractions intentionnelles (déclaration sommaire, amende seulement)**
 
-- **(4)** Quiconque commet une infraction visée au paragraphe 495(4) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $.
+- **(4)** Quiconque commet une infraction visée au paragraphe 495(4) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
 
 **Peine — infractions intentionnelles (double procédure)**
 
-- **(5)** Quiconque commet une infraction visée à l’une ou l’autre des dispositions suivantes : les paragraphes 480(1) et (2), les articles 481 à 483, les paragraphes 484(3), 485(2), 486(3), 487(2), 488(2) et 489(3), l’article 490, les paragraphes 491(3) et 492(2), l’article 494, les paragraphes 495(5), 496(2) et 497(3), l’article 498 et le paragraphe 499(2) est passible, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
-	- **b)** par mise en accusation, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+- **(5)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 480(1) et (2), les articles 480.1 à 483, les paragraphes 484(3), 485(2), 486(3), 487(2), 488(2) et 489(3), l’article 490, les paragraphes 491(3) et 492(2), l’article 494, les paragraphes 495(5), 496(2) et 497(3), l’article 498 et le paragraphe 499(2) est passible, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, d’une amende maximale de 20 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** par mise en accusation, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
 
 **Peine supplémentaire — tiers**
 
 - **(6)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 496(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses de publicité électorale sur le plafond autorisé.
-> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1.
+> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1; 2014, ch. 12, art. 100.
 
 
 
@@ -12072,8 +12235,8 @@ La demande est notifiée au directeur général des élections.
 	- **f)** l’alinéa 497(3)*f.163*) (collusion);
 	- **g)** l’alinéa 497(3)i) (défaut de produire le rapport financier d’un parti enregistré ou un document afférent);
 	- **h)** l’alinéa 497(3)k) (production d’un rapport financier renfermant une déclaration fausse ou trompeuse);
-	- **i)** le sous-alinéa 497(3)m)(ii) (production d’un compte des dépenses électorales renfermant une déclaration fausse ou trompeuse);
-	- **j)** l’alinéa 497(3)v) (production d’un compte de campagne électorale renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne électorale incomplet).
+	- **i)** le sous-alinéa 497(3)m)(ii) (production d’un compte des dépenses électorales renfermant une déclaration fausse ou trompeuse).
+	- **j)** [Abrogé, 2014, ch. 12, art. 101]
 
 **Documents à remettre au directeur général des élections**
 
@@ -12093,7 +12256,7 @@ La demande est notifiée au directeur général des élections.
 **Application aux associations enregistrées**
 
 - **(7)** Les paragraphes (4) à (6) s’appliquent à la liquidation, au titre du paragraphe (2), des biens d’une association enregistrée, la mention de « agent principal » et « parti » à ces paragraphes valant mention de « agent financier » et « association enregistrée » respectivement.
-> 2000, ch. 9, art. 501; 2004, ch. 24, art. 22.
+> 2000, ch. 9, art. 501; 2004, ch. 24, art. 22; 2014, ch. 12, art. 101.
 
 
 
@@ -12127,6 +12290,8 @@ La demande est notifiée au directeur général des élections.
 	- **f.1)** le candidat qui contrevient volontairement au paragraphe 92.2(1) (accepter un cadeau ou autre avantage);
 	- **g)** quiconque contrevient aux alinéas 111a), d) ou e) (actions interdites relatives à une liste électorale);
 	- **h)** quiconque contrevient à l’alinéa 167(1)a) (demander un bulletin de vote sous un faux nom);
+	- **h.1)** le candidat ou l’agent officiel d’un candidat qui commet une infraction visée à l’article 480.1 (usurpation de qualité);
+	- **h.2)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée à l’article 482.1 (entrave);
 	- **i)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée au paragraphe 481(1) (offre d’un pot-de-vin).
 
 **Conséquences des manoeuvres frauduleuses et des actes illégaux**
@@ -12134,7 +12299,7 @@ La demande est notifiée au directeur général des élections.
 - **(3)** Toute personne qui commet une infraction constituant une manoeuvre frauduleuse ou un acte illégal aux termes de la présente loi est, pendant les sept ans qui suivent la déclaration de culpabilité dans le cas d’une manoeuvre frauduleuse et pendant les cinq ans qui suivent cette déclaration dans le cas d’un acte illégal, en sus de toute autre peine que la présente loi prévoit à l’égard de cette infraction :
 	- **a)** inéligible à être candidat et inhabile à siéger à la Chambre des communes;
 	- **b)** inhabile à remplir une charge dont la Couronne ou le gouverneur en conseil nomme le titulaire.
-> 2000, ch. 9, art. 502; 2006, ch. 9, art. 58.
+> 2000, ch. 9, art. 502; 2006, ch. 9, art. 58; 2014, ch. 12, art. 102.
 
 
 
@@ -12188,30 +12353,44 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 - **(2)** Dans le cadre d’une poursuite intentée contre un tiers dans le cadre de l’article 496, le tiers est réputé être une personne et les actes ou omissions de la personne qui a signé la demande d’enregistrement — ou, faute de demande, qui l’aurait signé — ou de l’agent financier, dans les limites de leur mandat, sont réputés être les actes ou omissions du tiers.
 
-**Poursuite de tiers : personne morale ou groupe (10 000 $)**
+**Poursuite de tiers : personne morale ou groupe (50 000 $)**
 
-- **(3)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(1)c) est passible, au lieu de la peine prévue au paragraphe 500(1), d’une amende maximale de 10 000 $.
+- **(3)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(1)c) est passible, au lieu de la peine prévue au paragraphe 500(1), d’une amende maximale de 50 000 $.
 
-**Poursuite de tiers : personne morale ou groupe (25 000 $)**
+**Poursuite de tiers : personne morale ou groupe (100 000 $)**
 
-- **(4)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(2)b) est passible, au lieu de la peine prévue au paragraphe 500(5), d’une amende maximale de 25 000 $.
-
-
-
-
-**Entités radiées**
-
-**506** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti politique radié dont l’agent principal commet une infraction visée aux alinéas 497(1)e) ou (3)c).
-> 2000, ch. 9, art. 506; 2003, ch. 19, art. 61.
+- **(4)** La personne morale ou le groupe qui commet l’infraction visée à l’alinéa 496(2)b) est passible, au lieu de la peine prévue au paragraphe 500(5), d’une amende maximale de 100 000 $.
+> 2000, ch. 9, art. 505; 2014, ch. 12, art. 104.
 
 
 
 
 
-**Parti enregistré**
+**Entités radiées — responsabilité stricte**
 
-**507** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti enregistré dont l’agent principal commet une infraction visée aux alinéas 497(1)l), m), n), o), q) ou q.01) ou (3)g), i), j) ou m).
-> 2000, ch. 9, art. 507; 2003, ch. 19, art. 61.
+**506** 
+
+- **(1)** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ le parti politique radié dont l’agent principal commet une infraction visée à l’alinéa 497(1)e).
+
+**Entités radiées — infraction intentionnelle**
+
+- **(2)** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ le parti politique radié dont l’agent principal commet une infraction visée à l’alinéa 497(3)c).
+> 2000, ch. 9, art. 506; 2003, ch. 19, art. 61; 2014, ch. 12, art. 106.
+
+
+
+
+
+**Parti enregistré — responsabilité stricte**
+
+**507** 
+
+- **(1)** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ le parti enregistré dont l’agent principal commet une infraction visée aux alinéas 497(1)l), m), n), o), q) ou q.01).
+
+**Parti enregistré — infractions intentionnelles**
+
+- **(2)** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ le parti enregistré dont l’agent principal commet une infraction visée aux alinéas 497(3)g), i), j) ou m).
+> 2000, ch. 9, art. 507; 2003, ch. 19, art. 61; 2014, ch. 12, art. 106.
 
 
 
@@ -12293,16 +12472,16 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 **514** 
 
-- **(1)** Aucune poursuite pour infraction à la présente loi ne peut être engagée plus de cinq ans après la date où le commissaire a eu connaissance des faits qui lui donnent lieu et, en tout état de cause, plus de dix ans après la date de la perpétration.
+- **(1)** Les poursuites relatives à une infraction visée à l’une ou l’autre des dispositions mentionnées au paragraphe 500(1) se prescrivent par six ans à compter de la date de sa perpétration.
 
 **Exception**
 
 - **(2)** Toutefois, si le fait que le contrevenant s’est soustrait à la juridiction compétente empêche qu’elles soient engagées, les poursuites peuvent être commencées dans l’année qui suit son retour.
 
-**Certificat du commissaire**
+**Aucune prescription**
 
-- **(3)** Le certificat censé délivré par le commissaire et attestant la date à laquelle il a eu connaissance des faits qui donnent lieu à la poursuite est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
-> 2000, ch. 9, art. 514; 2003, ch. 19, art. 63; 2006, ch. 9, art. 59.
+- **(3)** Les poursuites relatives à une infraction visée à l’une ou l’autre des dispositions mentionnées aux paragraphes 500(2) à (5) peuvent être engagées en tout temps.
+> 2000, ch. 9, art. 514; 2003, ch. 19, art. 63; 2006, ch. 9, art. 59; 2014, ch. 12, art. 109.
 
 
 
@@ -12434,7 +12613,9 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 **Publication**
 
-**521** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’intéressé, les faits reprochés et un résumé des modalités de la transaction.
+**521** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’intéressé, les faits reprochés et le texte de la transaction, à l’exception de la signature des parties.
+> 2000, ch. 9, art. 521; 2014, ch. 12, art. 110.
+
 
 
 
@@ -12537,15 +12718,15 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 - **(2)** Au paragraphe (1), ***juridiction*** s’entend de :
 	- **a)** en Ontario, la Cour supérieure de justice;
 	- **b)** au Québec, la Cour supérieure;
-	- **c)** en Nouvelle-Écosse, en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême;
+	- **c)** en Nouvelle-Écosse, en Colombie-Britannique, à l’Île-du-Prince-Édouard, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême;
 	- **d)** au Nouveau-Brunswick, au Manitoba, en Saskatchewan et en Alberta, la Cour du Banc de la Reine;
-	- **e)** à l’Île-du-Prince-Édouard et à Terre-Neuve, la Section de première instance de la Cour suprême;
+	- **e)** à Terre-Neuve-et-Labrador, la Section de première instance de la Cour suprême;
 	- **f)** au Nunavut, la Cour de justice.
 
 **Règles de procédure**
 
 - **(3)** La requête est instruite sans délai et selon la procédure sommaire; le tribunal peut toutefois entendre des témoins lors de l’audition dans des circonstances particulières.
-> 2000, ch. 9, art. 525; 2002, ch. 7, art. 94(A), ch. 8, art. 117.
+> 2000, ch. 9, art. 525; 2002, ch. 7, art. 94(A), ch. 8, art. 117; 2014, ch. 12, art. 111.
 
 
 
@@ -13021,96 +13202,39 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 - **(1)** Les modifications de la présente loi ne s’appliquent pas aux élections déclenchées dans les six mois qui suivent leur adoption, à moins qu’avant la délivrance du bref, le directeur général des élections n’ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à la mise en application de la modification ont été faits et que celle-ci peut en conséquence entrer en vigueur.
 
-**Codification des modifications**
+**Modifications**
 
-- **(2)** Le directeur général des élections est tenu, immédiatement après l’adoption d’une modification, de la codifier, au besoin, dans les exemplaires de la loi imprimés pour distribution aux directeurs du scrutin, de corriger et de réimprimer les formulaires et instructions touchés par la modification et de publier un avis dans la Gazette du Canada aussitôt que les corrections et la réimpression ont été effectuées.
-
-
-
-
-**PARTIE 22** 
-## Dispositions transitoires, modifications corrélatives, abrogations et entrée en vigueur
-
-
-
-### Dispositions transitoires
-
-
-
-**État de l’actif et du passif avant le 1<sup>er</sup> juillet**
-
-***555** 
-
-- **(1)** Dans le cas où la présente loi entre en vigueur avant le 1<sup>er</sup> juillet, tout parti enregistré à la date d’entrée en vigueur est tenu de produire auprès du directeur général des élections, dans les six mois suivant cette date :
-	- **a)** un état de son actif et de son passif et de son excédent ou de son déficit, au 31 décembre de l’exercice précédent;
-	- **b)** le rapport de son vérificateur, adressé à son agent principal, indiquant si l’état présente fidèlement ou non — et selon les principes comptables généralement reconnus — les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
-	- **c)** la déclaration de son agent principal concernant l’état, effectuée sur le formulaire prescrit.
-
-<a name='E-2.01_fr_2'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> septembre 2000, *voir* Gazette du Canada Partie I, édition spéciale volume 134, n<sup>o</sup> 6.]<br />
-
-**État de l’actif et du passif après le 30 juin**
-
-- <sup><a href='#E-2.01_fr_3'>[*]</a></sup>**(2)** Dans le cas où la présente loi entre en vigueur après le 30 juin, tout parti enregistré à la date d’entrée en vigueur est tenu de produire auprès du directeur général des élections, dans les six mois suivant la fin de l’exercice alors en cours, un état de son actif et de son passif et de son excédent ou de son déficit, au 31 décembre de cet exercice, assorti des documents prévus aux alinéas (1)b) et c).
-
-<a name='E-2.01_fr_3'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> septembre 2000, *voir* Gazette du Canada Partie I, édition spéciale volume 134, n<sup>o</sup> 6.]<br />
+- **(2)** Le directeur général des élections est tenu, immédiatement après l’entrée en vigueur d’une modification, de publier sur son site Internet la version codifiée de la présente loi, de corriger et de réimprimer les formulaires et instructions touchés par la modification et de publier un avis dans la Gazette du Canada aussitôt que la publication, les corrections et la réimpression ont été effectuées.
+> 2000, ch. 9, art. 554; 2014, ch. 12, art. 124.
 
 
 
 
-**Rapports financiers**
-
-***556** Dans le cas où la présente loi entre en vigueur après le 30 juin :
-- **a)** les articles 43 à 46 de la Loi électorale du Canada, dans leur version antérieure à l’entrée en vigueur de la présente loi, s’appliquent aux documents que les partis enregistrés doivent produire relativement à leurs opérations financières pour leur exercice alors en cours;
-- **b)** l’article 424 de la présente loi s’applique aux documents que les partis enregistrés doivent produire relativement à leurs opérations financières pour leurs exercices ultérieurs.
-
-<a name='E-2.01_fr_4'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> septembre 2000, *voir* Gazette du Canada Partie I, édition spéciale volume 134, n<sup>o</sup> 6.]<br />
+**555** [Abrogé, 2014, ch. 12, art. 125]
 
 
 
-
-**Rapports financiers des partis fusionnants**
-
-***557** Dans le cas où la présente loi entre en vigueur après le 30 juin, les articles 43 à 46 de la Loi électorale du Canada, dans leur version antérieure à l’entrée en vigueur du présent article, s’appliquent aux documents que les partis fusionnants doivent produire au titre de l’alinéa 403a) de la présente loi relativement à leurs opérations financières pour la partie de leur exercice en cours antérieure à la date de la fusion et pour tout exercice antérieur pour lequel ils n’ont pas déjà produit ces documents.
-
-<a name='E-2.01_fr_5'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> septembre 2000, *voir* Gazette du Canada Partie I, édition spéciale volume 134, n<sup>o</sup> 6.]<br />
+**556** [Abrogé, 2014, ch. 12, art. 125]
 
 
 
-
-**Compte de campagne électorale des candidats**
-
-**558** En ce qui concerne les contributions apportées avant le 1<sup>er</sup> septembre 2000, l’agent officiel est tenu d’inclure dans le compte de campagne électorale d’un candidat les renseignements visés aux alinéas 451(2)h) et i), sauf l’adresse des donateurs.
-> 2000, ch. 9, art. 558; 2001, ch. 21, art. 26.
+**557** [Abrogé, 2014, ch. 12, art. 125]
 
 
 
-
-
-### Modifications corrélatives
-
-
-**559 à 572** [Modifications]
+**558** [Abrogé, 2014, ch. 12, art. 125]
 
 
 
-
-### Abrogations
-
-
-**573 à 576** [Abrogations]
+**559 à 572** [Abrogés, 2014, ch. 12, art. 125]
 
 
 
-
-### Entrée en vigueur
-
+**573 à 576** [Abrogés, 2014, ch. 12, art. 125]
 
 
-**Entrée en vigueur**
 
-***577** La présente loi entre en vigueur six mois après sa sanction à moins qu’avant cette date, le directeur général des élections n’ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à sa mise en application ont été faits et qu’elle peut en conséquence entrer en vigueur.
-
-<a name='E-2.01_fr_6'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> septembre 2000, *voir* Gazette du Canada Partie I, édition spéciale volume 134, n<sup>o</sup> 6.]<br />
+**577** [Abrogé, 2014, ch. 12, art. 125]
 
 
 
