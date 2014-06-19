@@ -67,6 +67,7 @@ Assented to on 12 December 2006
 
 ***public office holder*** means
 - **(a)** a minister of the Crown, a minister of state or a parliamentary secretary;
+- **(a.1)** the Chief Electoral Officer;
 - **(b)** a member of ministerial staff;
 - **(c)** a ministerial adviser;
 - **(d)** a Governor in Council appointee, other than the following persons, namely,
@@ -85,6 +86,7 @@ Assented to on 12 December 2006
 
 ***reporting public office holder*** means a public office holder who is
 - **(a)** a minister of the Crown, minister of state or parliamentary secretary;
+- **(a.1)** the Chief Electoral Officer;
 - **(b)** a member of ministerial staff who works on average 15 hours or more a week;
 - **(c)** a ministerial adviser;
 - **(d)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a part-time basis but receives an annual salary and benefits;
@@ -102,7 +104,7 @@ Assented to on 12 December 2006
 **Relatives**
 
 - **(3)** Persons who are related to a public office holder by birth, marriage, common-law partnership, adoption or affinity are the public office holder’s relatives for the purposes of this Act unless the Commissioner determines, either generally or in relation to a particular public office holder, that it is not necessary for the purposes of this Act that a person or a class of persons be considered a relative of a public office holder.
-> 2006, c. 9, s. 2 "2"; 2013, c. 33, s. 192, c. 40, s. 288.
+> 2006, c. 9, s. 2 "2"; 2013, c. 33, s. 192, c. 40, s. 288; 2014, c. 12, s. 145.
 
 
 
