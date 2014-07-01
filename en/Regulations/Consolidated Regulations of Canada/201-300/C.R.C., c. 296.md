@@ -26,59 +26,61 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***accredited veterinarian*** means a veterinarian who is authorized to perform certain duties or functions under an agreement made under section 34 of the Act; (*vétérinaire accrédité*)
+***abattoir*** includes a mobile abattoir; (*abattoir*)
 
-***Act*** means the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md); (*Loi*)
+***accredited veterinarian*** means a veterinarian who is authorized to perform certain duties or functions under an agreement made under section 34 of the Act; (*vétérinaire accrédité*)
 
-***advertisement*** includes any representation by any means whatever for the purpose of promoting directly or indirectly the sale or disposal of a veterinary biologic; (*publicité*)
+***Act*** means the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md); (*Loi*)
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***advertisement*** includes any representation by any means whatever for the purpose of promoting directly or indirectly the sale or disposal of a veterinary biologic; (*publicité*)
 
-***air carrier*** means the owner or operator of an aircraft engaged in the transportation of animals by air; (*transporteur aérien*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
-***animal by-product*** means an animal by-product that originated from a bird or from any mammal except a member of the orders *Rodentia*, *Cetacea*, *Pinnipedia* and *Sirenia*; (*sous-produit animal*)
+***air carrier*** means the owner or operator of an aircraft engaged in the transportation of animals by air; (*transporteur aérien*)
+
+***animal by-product*** means an animal by-product that originated from a bird or from any mammal except a member of the orders *Rodentia*, *Cetacea*, *Pinnipedia* and *Sirenia*; (*sous-produit animal*)
 
 ***animal embryo***[Repealed, SOR/2001-210, s. 1]
 
 ***animal embryo transfer centre***[Repealed, SOR/97-85, s. 1]
 
-***animal food*** means food containing an animal product or animal by-product for chickens, turkeys, ducks, geese, ratites, game birds, ruminants, swine or horses; (*aliments pour animaux*)
+***animal food*** means food containing an animal product or animal by-product for chickens, turkeys, ducks, geese, ratites, game birds, ruminants, swine or horses; (*aliments pour animaux*)
 
-***animal glands and organs*** includes ox gall or bile, rennet and similar substances derived from domestic animals; (*glandes et organes d’animaux*)
+***animal glands and organs*** includes ox gall or bile, rennet and similar substances derived from domestic animals; (*glandes et organes d’animaux*)
 
-***animal pathogen*** includes any animal pathogen derived through biotechnology; (*agent zoopathogène*)
+***animal pathogen*** includes any animal pathogen derived through biotechnology; (*agent zoopathogène*)
 
-***animal product*** means an animal product that originated from a bird or from any mammal except a member of the orders *Rodentia*, *Cetacea*, *Pinnipedia* and *Sirenia*; (*produit animal*)
+***animal product*** means an animal product that originated from a bird or from any mammal except a member of the orders *Rodentia*, *Cetacea*, *Pinnipedia* and *Sirenia*; (*produit animal*)
 
-***animal semen distribution centre*** means an establishment or vehicle from which animal semen is distributed; (*centre de distribution de sperme animal*)
+***animal semen distribution centre*** means an establishment or vehicle from which animal semen is distributed; (*centre de distribution de sperme animal*)
 
-***animal semen production centre*** means an establishment where semen from ruminants or swine is collected or processed; (*centre de production de sperme animal*)
+***animal semen production centre*** means an establishment where semen from ruminants or swine is collected or processed; (*centre de production de sperme animal*)
 
 ***antibiotic***[Repealed, SOR/2002-438, s. 6]
 
-***approved disinfection establishment*** means any factory, plant or other place approved by the Minister for the cleaning, disinfection or treatment of any animal by-product or any other thing; (*établissement de désinfection approuvé*)
+***approved disinfection establishment*** means any factory, plant or other place approved by the Minister for the cleaning, disinfection or treatment of any animal by-product or any other thing; (*établissement de désinfection approuvé*)
 
-***approved laboratory*** means an establishment or vehicle approved by the Minister for carrying out examinations or tests of animals; (*laboratoire approuvé*)
+***approved laboratory*** means an establishment or vehicle approved by the Minister for carrying out examinations or tests of animals; (*laboratoire approuvé*)
 
-***assigned name*** means, with reference to a veterinary biologic, the name, in English or French, specified in a permit to import a veterinary biologic or in a product licence; (*nom assigné*)
+***assigned name*** means, with reference to a veterinary biologic, the name, in English or French, specified in a permit to import a veterinary biologic or in a product licence; (*nom assigné*)
 
 ***association***[Repealed, SOR/97-85, s. 1]
 
-***bee product*** includes bee pollen, bee propolis, royal jelly, beeswax and honey; (*produit d’abeille*)
+***bee product*** includes bee pollen, bee propolis, royal jelly, beeswax and honey; (*produit d’abeille*)
 
-***biotechnology*** means the application of science and engineering to the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms; (*biotechnologie*)
+***biotechnology*** means the application of science and engineering to the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms; (*biotechnologie*)
 
-***bird of the parrot family*** means parrot, Amazon, Mexican double head, African grey, cockatoo, macaw, love-bird, lorie, lorikeet, and any other member of the species *psittacidae*; (*psittacidés*)
+***bird of the parrot family*** means parrot, Amazon, Mexican double head, African grey, cockatoo, macaw, love-bird, lorie, lorikeet, and any other member of the species *psittacidae*; (*psittacidés*)
 
-***blood meal*** means dried blood of an animal; (*farine de sang*)
+***blood meal*** means dried blood of an animal; (*farine de sang*)
 
-***bone meal*** means ground animal bones, hoofs or horns which may include pieces of hide, flesh or sinew; (*farine d’os*)
+***bone meal*** means ground animal bones, hoofs or horns which may include pieces of hide, flesh or sinew; (*farine d’os*)
 
-***bovine*** means cattle or bison domestically raised or kept, but for the purposes of the import reference document does not include a bison that has ever been in contact with or part of a wild herd; (*bovin*)
+***bovine*** means cattle or bison domestically raised or kept, but for the purposes of the import reference document does not include a bison that has ever been in contact with or part of a wild herd; (*bovin*)
 
-***brucellosis-accredited area*** means an eradication area, or a part of one, that is declared to be a brucellosis-accredited area under subsection 75(1); (*zone accréditée pour la brucellose*)
+***brucellosis-accredited area*** means an eradication area, or a part of one, that is declared to be a brucellosis-accredited area under subsection 75(1); (*zone accréditée pour la brucellose*)
 
-***brucellosis-free area*** means an eradication area, or a part of one, that is declared to be a brucellosis-free area under subsection 75(3); (*zone exempte de brucellose*)
+***brucellosis-free area*** means an eradication area, or a part of one, that is declared to be a brucellosis-free area under subsection 75(3); (*zone exempte de brucellose*)
 
 ***brucellosis free listed herd***[Repealed, SOR/97-85, s. 1]
 
@@ -90,160 +92,160 @@ Enabling authorities:
 
 ***calf***[Repealed, SOR/2001-210, s. 1]
 
-***carrier*** means air carrier, sea carrier, motor carrier or railway company; (*transporteur*)
+***carrier*** means air carrier, sea carrier, motor carrier or railway company; (*transporteur*)
 
-***cattle*** means animals of the species *Bos taurus* or *Bos indicus*; (*boeuf*)
+***cattle*** means animals of the species *Bos taurus* or *Bos indicus*; (*boeuf*)
 
 ***certified brucellosis-free herd***[Repealed, SOR/78-205, s. 1]
 
-***chick*** means, in relation to any species, a bird up to 72 hours of age that has not been fed or watered; (*poussin*)
+***chick*** means, in relation to any species, a bird up to 72 hours of age that has not been fed or watered; (*poussin*)
 
-***communicable disease*** means an infectious or contagious disease; (*maladie transmissible*)
+***communicable disease*** means an infectious or contagious disease; (*maladie transmissible*)
 
-***country of origin*** means
+***country of origin*** means
 - **(a)** with respect to an animal, the country from which the animal was imported into Canada, where the animal has lived for no less than 60 days in that country in association with other animals of its own species and, in any other case, means the country in which the animal was born,
 - **(b)** with respect to an animal embryo, animal product or animal by-product, the country in which the animal embryo, animal product or animal by-product was taken from an animal, or
-- **(c)** with respect to an animal product or animal by-product — other than non-fertilized ova, semen and meat as defined in subsection 2(1) of the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md) — that has undergone processing that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, the country in which the product or by-product underwent that processing; (*pays d’origine*)
+- **(c)** with respect to an animal product or animal by-product — other than non-fertilized ova, semen and meat as defined in subsection 2(1) of the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md) — that has undergone processing that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, the country in which the product or by-product underwent that processing; (*pays d’origine*)
 
-***disease*** means, for the purposes of Parts III and IV, any reportable disease or other serious epizootic disease to which an animal or germplasm is susceptible and which can be transmitted by the animal or germplasm; (*maladie*)
+***disease*** means, for the purposes of Parts III and IV, any reportable disease or other serious epizootic disease to which an animal or germplasm is susceptible and which can be transmitted by the animal or germplasm; (*maladie*)
 
-***domestic cat*** means the animal *felis domesticus*; (*chat domestique*)
+***domestic cat*** means the animal *felis domesticus*; (*chat domestique*)
 
-***domestic dog*** means the animal *canis domesticus*; (*chien domestique*)
+***domestic dog*** means the animal *canis domesticus*; (*chien domestique*)
 
-***egg product*** means any of the following, namely, whole egg, egg shells, egg yolk, egg albumen or any mix of these, in a liquid, dried, frozen or fresh form; (*produit d’oeuf*)
+***egg product*** means any of the following, namely, whole egg, egg shells, egg yolk, egg albumen or any mix of these, in a liquid, dried, frozen or fresh form; (*produit d’oeuf*)
 
-***equine*** means a horse, ass, mule or zebra; (*équidés*)
+***equine*** means a horse, ass, mule or zebra; (*équidés*)
 
 ***eradication area***[Repealed, SOR/79-295, s. 1]
 
-***establishment licence*** means a licence issued by the Minister in respect of an establishment; (*permis d’établissement*)
+***establishment licence*** means a licence issued by the Minister in respect of an establishment; (*permis d’établissement*)
 
-***expiration date*** means a date designating the end of the period during which a veterinary biologic, when properly stored and handled, may be expected to be effective; (*date de péremption*)
+***expiration date*** means a date designating the end of the period during which a veterinary biologic, when properly stored and handled, may be expected to be effective; (*date de péremption*)
 
-***fertilizer*** has the same meaning as in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*engrais*)
+***fertilizer*** has the same meaning as in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*engrais*)
 
-***fertilizer supplement*** has the same meaning as the word ***supplement*** in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*supplément d’engrais*)
+***fertilizer supplement*** has the same meaning as the word ***supplement*** in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*supplément d’engrais*)
 
-***flock of origin*** or ***herd of origin*** means the flock or herd of which an animal was a member, where the animal was a member of that flock or herd for not less than 60 days immediately preceding its importation into Canada and in any other case means the flock or herd in which it was born; (*troupeau de provenance*)
+***flock of origin*** or ***herd of origin*** means the flock or herd of which an animal was a member, where the animal was a member of that flock or herd for not less than 60 days immediately preceding its importation into Canada and in any other case means the flock or herd in which it was born; (*troupeau de provenance*)
 
-***fowl plague*** means highly pathogenic avian influenza; (*peste aviaire*)
+***fowl plague*** means highly pathogenic avian influenza; (*peste aviaire*)
 
-***game bird*** means a wild bird kept in captivity and includes pheasants, partridges, quail, grouse, guinea fowl and pea fowl, but does not include doves, pigeons, ducks, geese, birds of the parrot family or songbirds; (*gibier à plumes*)
+***game bird*** means a wild bird kept in captivity and includes pheasants, partridges, quail, grouse, guinea fowl and pea fowl, but does not include doves, pigeons, ducks, geese, birds of the parrot family or songbirds; (*gibier à plumes*)
 
-***gluestock*** means the hair, bones, hoofs, horns, fleshings, hide cuttings or parings of an animal or any other part of an animal that may be used in the manufacture of glue; (*carnasse*)
+***gluestock*** means the hair, bones, hoofs, horns, fleshings, hide cuttings or parings of an animal or any other part of an animal that may be used in the manufacture of glue; (*carnasse*)
 
-***hatching eggs*** means the fertilized eggs of poultry; (*oeufs d’incubation*)
+***hatching eggs*** means the fertilized eggs of poultry; (*oeufs d’incubation*)
 
 ***Health of Animals Branch***[Repealed, SOR/82-590, s. 1]
 
 ***herd***[Repealed, SOR/91-525, s. 3]
 
-***herd*** or ***flock***, in respect of ruminants, means all ruminants
+***herd*** or ***flock***, in respect of ruminants, means all ruminants
 - **(a)** that are owned by, or are in the possession or under the care or control of, any person and are kept
 	- **(i)** on one or more parts of any single premises, or
 	- **(ii)** on two or more premises that are geographically separate, where the ruminants have been interchanged or have had contact, or
-- **(b)** that are kept on a community pasture, grazing association unit or other common premises where the ruminants of more than one owner are kept, and includes any ruminants owned by the owners of those ruminants that are kept on any other premises and that are under the care or control of any of those owners; (*troupeau*)
+- **(b)** that are kept on a community pasture, grazing association unit or other common premises where the ruminants of more than one owner are kept, and includes any ruminants owned by the owners of those ruminants that are kept on any other premises and that are under the care or control of any of those owners; (*troupeau*)
 
 ***herd of negative status***[Repealed, SOR/97-85, s. 1]
 
-***inspect*** includes test; (*inspecter*)
+***inspect*** includes test; (*inspecter*)
 
-***inspection*** means an inspection carried out by an inspector, except where a customs officer carries out an inspection pursuant to section 16 of the Act; (*inspection*)
+***inspection*** means an inspection carried out by an inspector, except where a customs officer carries out an inspection pursuant to section 16 of the Act; (*inspection*)
 
-***inspection port*** means a place listed in Schedule II where facilities exist to inspect animals; (*poste d’inspection*)
+***inspection port*** means a place listed in Schedule II where facilities exist to inspect animals; (*poste d’inspection*)
 
 ***inspector***[Repealed, SOR/97-85, s. 1]
 
-***label*** includes any legend, word or mark attached to, included in, belonging to or accompanying any veterinary biologic or package; (*étiquette*)
+***label*** includes any legend, word or mark attached to, included in, belonging to or accompanying any veterinary biologic or package; (*étiquette*)
 
-***level 2 containment laboratory*** means a laboratory that meets or exceeds the criteria for the containment of pathogens at containment level 2 according to the Laboratory Biosafety Guidelines published by the Public Health Agency of Canada on its Internet site, as amended from time to time; (*laboratoire de niveau de confinement 2*)
+***level 2 containment laboratory*** means a laboratory that meets or exceeds the criteria for the containment of pathogens at containment level 2 according to the Laboratory Biosafety Guidelines published by the Public Health Agency of Canada on its Internet site, as amended from time to time; (*laboratoire de niveau de confinement 2*)
 
-***licensed establishment*** means a place consisting of one or more rooms or buildings for which an establishment licence has been issued by the Minister; (*établissement agréé*)
+***licensed establishment*** means a place consisting of one or more rooms or buildings for which an establishment licence has been issued by the Minister; (*établissement agréé*)
 
-***livestock*** means animals of the bovine, caprine, equine, ovine and porcine species; (*animaux de ferme*)
+***livestock*** means animals of the bovine, caprine, equine, ovine and porcine species; (*animaux de ferme*)
 
 ***livestock dealer***[Repealed, SOR/97-85, s. 1]
 
-***manufacture*** includes prepare; (*fabriquer*)
+***manufacture*** includes prepare; (*fabriquer*)
 
-***manure*** includes guano, feces with or without urine and anything containing feces from any bird, ruminant or porcine; (*fumier*)
+***manure*** includes guano, feces with or without urine and anything containing feces from any bird, ruminant or porcine; (*fumier*)
 
-***meat meal*** or ***tankage*** means the rendered and dried carcass or part of the carcass of an animal; (*farine de viande*or*résidus de graisse*)
+***meat meal*** or ***tankage*** means the rendered and dried carcass or part of the carcass of an animal; (*farine de viande*or*résidus de graisse*)
 
-***milk*** means the lacteal secretion obtained from the mammary gland of any ruminant, in concentrated, dried, frozen, reconstituted or fresh form; (*lait*)
+***milk*** means the lacteal secretion obtained from the mammary gland of any ruminant, in concentrated, dried, frozen, reconstituted or fresh form; (*lait*)
 
-***milk product*** means any of the following, namely, partly-skimmed milk, skim milk, cream, butter, buttermilk, butter oil, whey, whey butter or whey cream, in concentrated, dried, frozen or reconstituted or fresh form, but does not include milk proteins, milk sugars and milk enzymes; (*produit du lait*)
+***milk product*** means any of the following, namely, partly-skimmed milk, skim milk, cream, butter, buttermilk, butter oil, whey, whey butter or whey cream, in concentrated, dried, frozen or reconstituted or fresh form, but does not include milk proteins, milk sugars and milk enzymes; (*produit du lait*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***motor carrier*** means the owner or operator of a motor vehicle engaged in the transportation of animals by motor vehicle; (*transporteur routier*)
+***motor carrier*** means the owner or operator of a motor vehicle engaged in the transportation of animals by motor vehicle; (*transporteur routier*)
 
-***non-ambulatory animal*** means an animal of the bovine, caprine, cervid, camelid, equine, ovine, porcine or ratite species that is unable to stand without assistance or to move without being dragged or carried. (*animal non ambulatoire*)
+***non-ambulatory animal*** means an animal of the bovine, caprine, cervid, camelid, equine, ovine, porcine or ratite species that is unable to stand without assistance or to move without being dragged or carried. (*animal non ambulatoire*)
 
 ***non-designated region***[Repealed, SOR/85-545, s. 1]
 
 ***official vaccinate***[Repealed, SOR/2001-210, s. 1]
 
-***official veterinarian*** of a country means, for the purposes of all Parts except Part II, a veterinarian employed by the government of that country; (*vétérinaire officiel*)
+***official veterinarian*** of a country means, for the purposes of all Parts except Part II, a veterinarian employed by the government of that country; (*vétérinaire officiel*)
 
-***package*** includes anything in which any veterinary biologic is wholly or partly contained, placed or packed; (*emballage*)
+***package*** includes anything in which any veterinary biologic is wholly or partly contained, placed or packed; (*emballage*)
 
 ***part of a country***[Repealed, SOR/2001-210, s. 1]
 
-***poultry*** means domestic fowl and pigeons and includes any bird that is in captivity; (*volaille*)
+***poultry*** means domestic fowl and pigeons and includes any bird that is in captivity; (*volaille*)
 
-***product licence*** means a licence issued by the Minister to manufacture the veterinary biologic described in the licence; (*permis de fabrication*)
+***product licence*** means a licence issued by the Minister to manufacture the veterinary biologic described in the licence; (*permis de fabrication*)
 
-***product outline*** means a detailed description of
+***product outline*** means a detailed description of
 - **(a)** the process followed in preparing a veterinary biologic and any diluent to be used therewith,
 - **(b)** the methods and procedures to be employed in handling, storing, administering and testing a veterinary biologic and any diluent to be used therewith, and
-- **(c)** the tests used to establish the purity, safety, potency and efficacy of a veterinary biologic, and the purity and safety of any diluent to be used therewith, and the results of all such tests; (*données générales sur le produit*)
+- **(c)** the tests used to establish the purity, safety, potency and efficacy of a veterinary biologic, and the purity and safety of any diluent to be used therewith, and the results of all such tests; (*données générales sur le produit*)
 
 ***purebred***[Repealed, SOR/97-85, s. 1]
 
-***quarantine port*** means a place listed in Schedule I where facilities exist to quarantine animals; (*poste de quarantaine*)
+***quarantine port*** means a place listed in Schedule I where facilities exist to quarantine animals; (*poste de quarantaine*)
 
-***railway company*** means a railway company engaged in the transportation of livestock by rail; (*compagnie de chemin de fer*)
+***railway company*** means a railway company engaged in the transportation of livestock by rail; (*compagnie de chemin de fer*)
 
-***raw wool, hair or bristles*** means wool, hair or bristles taken from an animal but does not include wool tops, wool waste, wool noils, wool laps, small trade samples of wool, lime pulled wool and hair, scoured wool and hair and carbonized wool and hair; (*laine, poils et soies bruts*)
+***raw wool, hair or bristles*** means wool, hair or bristles taken from an animal but does not include wool tops, wool waste, wool noils, wool laps, small trade samples of wool, lime pulled wool and hair, scoured wool and hair and carbonized wool and hair; (*laine, poils et soies bruts*)
 
-***registered processed egg station*** has the same meaning as in the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*poste enregistré d’oeufs transformés*)
+***registered processed egg station*** has the same meaning as in the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*poste enregistré d’oeufs transformés*)
 
-***ruminant*** means an animal of the suborder *Ruminatiae* and includes an animal of the family *Camelidae*; (*ruminant*)
+***ruminant*** means an animal of the suborder *Ruminatiae* and includes an animal of the family *Camelidae*; (*ruminant*)
 
-***sea carrier*** means the owner or operator of a vessel engaged in the transportation of animals by water; (*transporteur maritime*)
+***sea carrier*** means the owner or operator of a vessel engaged in the transportation of animals by water; (*transporteur maritime*)
 
 ***serious epizootic disease***[Repealed, SOR/2007-24, s. 1]
 
-***song bird*** means canary, finch, oriole, cardinal and any other songster; (*oiseau chanteur*)
+***song bird*** means canary, finch, oriole, cardinal and any other songster; (*oiseau chanteur*)
 
-***tag*** means an ear tag stamped with the letters “H of A” and includes any device used for the identification of an animal pursuant to the Act and these Regulations; (*bague*)
+***tag*** means an ear tag stamped with the letters “H of A” and includes any device used for the identification of an animal pursuant to the Act and these Regulations; (*bague*)
 
-***test*** includes
+***test*** includes
 - **(a)** the collection of body tissue or fluid from an animal, and
-- **(b)** the injection of an animal for the purpose of determining that animal’s freedom from or infection with disease; (*épreuve*)
+- **(b)** the injection of an animal for the purpose of determining that animal’s freedom from or infection with disease; (*épreuve*)
 
-***tuberculosis-accredited advanced area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited advanced area under subsection 74(3); (*zone accréditée supérieure pour la tuberculose*)
+***tuberculosis-accredited advanced area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited advanced area under subsection 74(3); (*zone accréditée supérieure pour la tuberculose*)
 
-***tuberculosis-accredited area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited area under subsection 74(1); (*zone accréditée pour la tuberculose*)
+***tuberculosis-accredited area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited area under subsection 74(1); (*zone accréditée pour la tuberculose*)
 
 ***tuberculosis-accredited herd***[Repealed, SOR/97-85, s. 1]
 
-***tuberculosis-free area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-free area under subsection 74(5); (*zone exempte de tuberculose*)
+***tuberculosis-free area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-free area under subsection 74(5); (*zone exempte de tuberculose*)
 
-***United States*** means the states of the United States that are on the mainland of the North American continent and the state of Hawaii; (*États-Unis*)
+***United States*** means the states of the United States that are on the mainland of the North American continent and the state of Hawaii; (*États-Unis*)
 
-***untanned hide or skin*** means the outer covering of ruminants, ratites, equines and porcines that is raw and has not been chemically processed into a permanent and durable form of leather; (*peau ou cuir non tannés*)
+***untanned hide or skin*** means the outer covering of ruminants, ratites, equines and porcines that is raw and has not been chemically processed into a permanent and durable form of leather; (*peau ou cuir non tannés*)
 
-***veterinarian*** means a person duly qualified to practice veterinary medicine under the laws of the place where he practises; (*vétérinaire*)
+***veterinarian*** means a person duly qualified to practice veterinary medicine under the laws of the place where he practises; (*vétérinaire*)
 
-***veterinary biologic*** includes any veterinary biologic derived through biotechnology. (*produit vétérinaire biologique*)
+***veterinary biologic*** includes any veterinary biologic derived through biotechnology. (*produit vétérinaire biologique*)
 
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3; SOR/2014-23, s. 1.
 
 
 
@@ -342,10 +344,10 @@ the inspector may order the person who owns or has possession, care or control o
 - **(1)** Every person who slaughters, cuts up or debones cattle for human consumption as food shall ensure that, immediately after removal of the specified risk material, the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
 
 - **(2)** Subsection (1) does not apply in respect of
-	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle remains on the farm or ranch or is submitted to a level 2 containment laboratory;
+	- **(a)** cattle that are slaughtered, cut up or deboned on a farm, as defined in subsection 172(1), if the specified risk material from the carcasses of those cattle is not removed from the farm except for submission to a level 2 containment laboratory;
 	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if all parts of the carcass of any animal remain on the premises of the abattoir other than those parts that are for human consumption as food or samples that are submitted to a level 2 containment laboratory; or
 	- **(c)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12; SOR/2009-220, s. 3; SOR/2012-286, s. 47.
+> SOR/2006-147, s. 12; SOR/2009-220, s. 3; SOR/2012-286, s. 47; SOR/2014-23, s. 2.
 
 
 
@@ -2980,28 +2982,68 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 ### Interpretation
 
 
-**172** The definitions in this section apply in this Part.
+**172** 
 
-***administrator*** means a person with whom the Minister has entered into an agreement, under section 34 of the Act, under which the person is to administer a national identification program for animals. (*administrateur*)
+- **(1)** The definitions in this section apply in this Part.
 
-***animal*** means a bison, a bovine and an ovine. (*animal*)
+***administrator***[Repealed, SOR/2014-23, s. 3]
 
-***approved tag*** means a tag, chip or other indicator approved by the Minister under subsection 173(1). (*étiquette approuvée*)
+***animal*** means a bison, bovine, ovine or pig. (*animal*)
+
+***approved slap tattoo*** means a slap tattoo bearing an identification number issued by the responsible administrator in respect of a site under paragraph 174(2)(a). (*tatouage au marteau approuvé*)
+
+***approved tag*** means a tag, chip or other indicator approved by the Minister under subsection 173(1) and listed on the Agency’s web site as an approved tag. (*étiquette approuvée*)
 
 ***bison*** means an animal, other than an embryo or a fertilized egg, of the subspecies *Bison bison bison*, *Bison bison athabascae* or *Bison bison bonasus*. (*bison*)
 
 ***bovine*** means an animal, other than an embryo or a fertilized egg, of the species *Bos taurus* or *Bos indicus*. (*bovin*)
 
+***bred*** means an animal that is mated either naturally or artificially or that has provided semen, ova or embryos for reproduction. (*sailli*)
+
 ***distributor*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that sells or distributes approved tags. (*distributeur*) 
 
-***farm of origin*** means the farm or ranch where the animal was born — or the first farm or ranch to which the animal was moved after its birth if it was born at a place other than a farm or ranch, — including all areas of land, and buildings and other structures on those areas, that are used under one management for breeding or raising animals except any of those areas where the animal may be commingled with animals that are from another farm or ranch. (*ferme d’origine*)
+***farm*** means land, and all buildings and other structures on that land, that is used under one management for breeding or raising animals but does not include an artificial insemination unit. (*ferme*)
 
-***farm or ranch*** includes a feed lot, a breeding herd, an artificial insemination unit or any other place where an animal has been since leaving its farm of origin. (*ferme ou ranch*)
+***farm of origin*** means the farm on which an animal is born or, if an animal is not born on a farm, the first farm to which it is moved after its birth. (*ferme d’origine*)
+
+***farm or ranch***[Repealed, SOR/2014-23, s. 3]
 
 ***organization that manages an animal identification system*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that is authorized by provincial legislation to manage an animal identification system. (*organisme de gestion d’un système d’identification des animaux*) 
 
 ***ovine*** means an animal, other than an embryo or a fertilized egg, of the genus *Ovis*. (*ovin*)
-> SOR/2000-416, s. 1; SOR/2003-409, s. 1; SOR/2005-192, s. 1.
+
+***pig*** means an animal, other than an embryo or a fertilized egg, of the species *domestica* or *scrofa domestica* of the genus *Sus*. (*porc*)
+
+***responsible administrator*** means a person who is authorized by the Minister to receive information in relation to animals or things to which the Act or these Regulations apply, is listed on the Agency’s web site as an administrator and administers a national identification program in relation to certain animals of all or part of one or more genera, species or subspecies that are located in one or more provinces. (*administrateur responsable*)
+
+***site*** means a place where animals or carcasses of animals are kept or collected but does not include a conveyance. (*installation*)
+
+- **(2)** In this Part, other than in subsection 175.1(2), paragraph 186(1)(a) and subsection 186(2), any reference to the carcass of an animal or to a part of the carcass of an animal does not include any part of the carcass that is intended for human consumption.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 1; SOR/2005-192, s. 1; SOR/2014-23, s. 3.
+
+
+
+
+
+### Registration of Linked Sites
+
+
+**172.1** 
+
+- **(1)** On application from the operators of two farms where pigs are kept, the responsible administrator shall register the two sites as being linked with each other for the purposes of this Part for a period of six months if
+	- **(a)** the sites and all sites having linked health status with either of them are all located in only one of the following parts of Canada:
+		- **(i)** the eastern part of Canada that includes Ontario, Quebec, Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador, or
+		- **(ii)** the western part of Canada that includes Manitoba, British Columbia, Saskatchewan, Alberta, Yukon, Northwest Territories and Nunavut;
+	- **(b)** pigs are transported between the sites at least three times per month;
+	- **(c)** the operators of the sites have reported to the responsible administrator information identifying all of the conveyances being used to transport pigs between the sites and all movements of pigs between the sites are made exclusively by those conveyances; and
+	- **(d)** in the case where the sites were not registered as being linked with each other during the three-month period before the application, the operators of the sites have reported each transport of pigs between the sites to the responsible administrator for that three-month period and the reports of each operator are consistent with those of the other.
+
+- **(2)** If by the end of the 10th day of any month in the six-month period for which two sites are registered as being linked the operators of the two sites have not reported to the responsible administrator the total number of pigs that were transported between the sites and the number of pig movements between the sites during the preceding month, the registration in respect of the two sites being linked shall be cancelled at the end of that day for the remainder of the six-month period.
+
+- **(3)** For the purpose of this section, two sites have linked health status with each other if
+	- **(a)** the two sites are registered under subsection (1) as being linked with each other or have been registered under that subsection as being linked with each other at any time in the preceding six months; or
+	- **(b)** one of the two sites, at any time in the preceding six months, is considered to have had linked health status under this section with another site that, at any time in those six months, is considered to have had linked health status under this section with the other of the two sites.
+> SOR/2014-23, s. 4.
 
 
 
@@ -3029,10 +3071,16 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **174** 
 
-- **(1)** At the request of the operator of a farm, ranch or auction barn, the administrator may issue approved tags or cause them to be issued, for the purpose of identifying animals on that farm or ranch or in that auction barn.
+- **(1)** At the request of the operator of a site, the responsible administrator may issue approved tags or cause them to be issued for the purpose of identifying animals on that site.
 
-- **(2)** At the request of an importer of animals, the administrator may issue approved tags or cause them to be issued, for the purpose of identifying the imported animals.
-> SOR/2000-416, s. 1.
+- **(2)** At the request of the operator of a site where pigs are kept, the responsible administrator may issue an identification number in respect of that site or cause one to be issued for the purpose of being applied by
+	- **(a)** approved slap tattoos to pigs from that site that are destined for slaughter; and
+	- **(b)** indicators to pigs from that site that are destined for export.
+
+- **(3)** At the request of an importer of animals, the administrator may issue approved tags or cause them to be issued for the purpose of identifying the animals to be imported.
+
+- **(4)** When requesting an identification number in respect of a site under subsection (2), the operator of the site shall report to the responsible administrator their name, address and telephone number.
+> SOR/2000-416, s. 1; SOR/2014-23, s. 5.
 
 
 
@@ -3041,41 +3089,85 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 ### Reporting Requirement
 
 
-**174.1** A distributor, or an organization that manages an animal identification system, that sells or distributes approved tags shall, within 24 hours after selling or distributing them, report the following information in respect of those approved tags to the administrator:
+**174.1** A distributor, or an organization that manages an animal identification system, that sells or distributes approved tags shall, within 24 hours after selling or distributing them, report the following information in respect of those approved tags to the responsible administrator:
 - **(a)** the name, address and telephone number of the person to whom they were sold or distributed;
 - **(b)** the date they were sold or distributed;
 - **(c)** their unique identification numbers; and
 - **(d)** the total number that were sold or distributed.
-> SOR/2005-192, s. 2.
+> SOR/2005-192, s. 2; SOR/2014-23, s. 6.
 
 
 
 
 
-### Identification Requirement
+### Identification Requirements
+> [SOR/2014-23, s. 7]
+
 
 
 **175** 
 
-- **(1)** Except as otherwise provided in this Part, every person who owns or has the possession, care or control of an animal or a carcass of an animal shall ensure that it is identified by an approved tag that is applied to it before it is moved from its farm of origin.
+- **(1)** Except as otherwise provided in this Part, every person who owns or has the possession, care or control of a bison, bovine or ovine or of the carcass of a bison, bovine or ovine shall ensure that it is identified by an approved tag that is applied to it before it is removed from a site.
 
 - **(1.1)** Every person who applies, or causes the application of, an approved tag to an animal, or the carcass of an animal, shall ensure that the tag is for the species of that animal and is applied to the animal, or the carcass, for which the tag was issued under subsection 174(1).
 
 - **(1.2)** Every person who owns or has the possession, care or control of an animal or a carcass of an animal shall ensure that the approved tag that is applied to it is applied to its ear with the logo and number facing forward.
 
-- **(2)** Except as otherwise provided in this Part, every person who owns or has the possession, care or control of an animal or a carcass of an animal shall ensure that it bears the approved tag referred to in subsection (1) at all times after it is moved from its farm of origin.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 2; SOR/2005-192, s. 3.
+- **(2)** Except as otherwise provided in this Part, every person who owns or has the possession, care or control of a bison, bovine or ovine or of the carcass of a bison, bovine or ovine shall ensure that it bears the approved tag referred to in subsection (1) at all times after it is removed from its farm of origin.
+
+- **(3)** Every person who owns or has the possession, care or control of a pig to which an approved tag has been applied shall ensure that it bears the approved tag until it is identified in some other manner provided for under these Regulations.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 2; SOR/2005-192, s. 3; SOR/2014-23, s. 8.
+
+
+
+
+**175.01** 
+
+- **(1)** Except as otherwise provided in this section, every person who owns or has the possession, care or control of a pig shall ensure that it is identified by an approved tag that is applied to it before it is removed from a site.
+
+- **(2)** Subsection (1) does not apply to the transportation of pigs, other than bred pigs, between parts of a farm that are not contiguous or between farms if
+	- **(a)** the operator of the departure site ensures that the pigs being transported are accompanied with the following information in a form that can be immediately read by an inspector:
+		- **(i)** the location of the departure site and the location of the destination site,
+		- **(ii)** the date and time that the conveyance carrying the pigs left the departure site,
+		- **(iii)** the number of pigs loaded onto the conveyance,
+		- **(iv)** the identification number on any approved tag applied to the pigs, and
+		- **(v)** the licence plate number or, if there is no licence plate, other identification of the conveyance;
+	- **(b)** the operator of the departure site reports that information to the responsible administrator within seven days after the departure of the pigs; and
+	- **(c)** the operator of the destination site, within seven days after the pigs’ reception, reports the following information to the responsible administrator:
+		- **(i)** the location of the departure site and the location of the destination site,
+		- **(ii)** the date and time that the conveyance carrying the pigs arrived at the destination site,
+		- **(iii)** the number of pigs and pig carcasses that arrived at the destination site,
+		- **(iv)** the identification number on any approved tag applied to the pigs, and
+		- **(v)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+
+- **(3)** The reporting requirements set out in paragraphs (2)(b) and (c) do not apply if at the time of the transportation the departure site and the destination site are registered as being linked with each other under section 172.1.
+
+- **(4)** There is no requirement to identify pigs if they are transported from one part of a farm to another contiguous part of that farm.
+
+- **(5)** If a pig is transported directly from any site to any other site that is an abattoir or that is used exclusively for the purpose of collecting animals before they are transported to an abattoir, every person who owns or has the possession, care or control of the pig at the departure site shall ensure that it is identified by an approved tag or an approved slap tattoo before it is moved from that site.
+
+- **(6)** The operator of a site that is used for the purpose of collecting pigs before transport shall apply an approved tag to any pig that remains at the collection site for longer than 96 hours or that is sent anywhere other than to an abattoir.
+
+- **(7)** Every person who exports a pig shall ensure that, before its export, it has applied to it an indicator approved by the importing country and bearing or corresponding to an identification number issued by the responsible administrator under paragraph 174(2)(b).
+
+- **(8)** Every person who owns or has the possession, care or control of a pig carcass or part of a pig carcass that is transported from any site to any other site shall ensure that the carcass or the part is accompanied with the following information in a form that can be immediately read by an inspector:
+	- **(a)** the location of the departure site and the location of the destination site;
+	- **(b)** the date and time that the conveyance carrying the carcass or the part left the departure site; and
+	- **(c)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+> SOR/2014-23, s. 9.
 
 
 
 
 
-### Record-Keeping Requirement
+### Record-keeping and Information Reporting Requirements
+> [SOR/2014-23, s. 10]
+
 
 
 **175.1** 
 
-- **(1)** Subject to subsection (2), every operator of a farm of origin, or of a farm or ranch other than the farm of origin, who removes, or causes the removal of, an ovine 18 months of age or older from the farm of origin or from the farm or ranch other than the farm of origin shall keep a record of
+- **(1)** Subject to subsection (2), the operator of a site who removes or causes the removal of an ovine 18 months of age or older from the site shall keep a record of
 	- **(a)** the identification number on the approved tag that is applied  to the ovine;
 	- **(b)** the date of removal;
 	- **(c)** the reason for removal; and
@@ -3083,13 +3175,62 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(2)** Subsection (1) does not apply to an ovine transported directly for slaughter to an establishment registered under the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md) or under an Act of the legislature of a province that provides for the inspection of ovine carcasses.
 
-- **(3)** Every operator of a farm of origin, or of a farm or ranch other than the farm of origin, who receives, or causes the reception of, an ovine for breeding purposes, shall keep a record of
+- **(3)** The operator of a site who receives or causes the reception of a bred ovine shall keep a record of
 	- **(a)** the identification number on the approved tag that is applied  to the ovine;
 	- **(b)** the date of reception; and
-	- **(c)** the name and address of the owner or person who had the possession, care or control of the ovine at the farm or ranch from which it was removed.
+	- **(c)** the name and address of the owner or person who had the possession, care or control of the ovine at the site from which it was removed.
 
 - **(4)** Every person who is required to keep a record under this section shall keep the record for a period of at least five years.
-> SOR/2003-409, s. 3; SOR/2005-192, s. 4(E).
+> SOR/2003-409, s. 3; SOR/2005-192, s. 4(E); SOR/2014-23, s. 11.
+
+
+
+
+**175.2** 
+
+- **(1)** Except as otherwise provided in this Part, if a pig is transported from one site to another, the operator of the departure site, within seven days after the pig’s departure, and the operator of the destination site, within seven days after the pig’s reception, shall report the following information to the responsible administrator:
+	- **(a)** the location of the departure site and the location of the destination site;
+	- **(b)** in the case of the operator of the departure site, the date and time that the conveyance carrying the pig left the departure site and, in the case of the operator of the destination site, the date and time that the conveyance arrived at the destination site;
+	- **(c)** in the case of the operator of the departure site, the number of pigs loaded onto the conveyance and, in the case of the operator of the destination site, the number of pigs and pig carcasses that arrived at the destination site; and
+	- **(d)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+
+- **(2)** There is no requirement to report to the responsible administrator or keep records on the movement of pigs transported from one part of a farm to another contiguous part of that farm.
+
+- **(3)** Every person who operates a site where an approved tag or approved slap tattoo is applied to a pig shall report the following information to the responsible administrator within seven days after the pig’s departure:
+	- **(a)** the location of the departure site and the location of the destination site;
+	- **(b)** the date and time that the conveyance carrying the pig left the departure site;
+	- **(c)** the identification numbers on the approved tags and approved slap tattoos applied to the pigs; and
+	- **(d)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+
+- **(4)** If pigs are transported from a site to an abattoir, the operator of the departure site, within seven days after the departure of the pigs, and the operator of the abattoir, within seven days after the reception of the pigs, shall report the following information to the responsible administrator:
+	- **(a)** the location of the departure site and the location of the abattoir;
+	- **(b)** in the case of the operator of the departure site, the date and time that the conveyance carrying the pigs left the departure site and, in the case of the operator of the abattoir, the date and time that the conveyance arrived at the abattoir;
+	- **(c)** in the case of the operator of the departure site, the number of pigs loaded onto the conveyance and, in the case of the operator of the abattoir, the number of pigs and pig carcasses that arrived at the abattoir;
+	- **(d)** in the case of the operator of the abattoir, the identification numbers on the approved tags or the approved slap tattoos applied to the pigs; and
+	- **(e)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+
+- **(5)** If a pig carcass or part of a pig carcass is transported from one site to another, the operator of the departure site, within seven days after the departure of the carcass or the part, and the operator of the destination site, within seven days after the reception of the carcass or the part, shall report the following information to the responsible administrator:
+	- **(a)** the location of the departure site and either the name of the operator of the destination site or the location of the destination site;
+	- **(b)** in the case of the operator of the departure site, the date that the conveyance carrying the carcass or the part left the departure site and, in the case of the operator of the destination site, the date that the conveyance arrived at the destination site; and
+	- **(c)** in the case of the operator of the destination site, the licence plate number or, if there is no licence plate, other identification of the conveyance.
+> SOR/2014-23, s. 12.
+
+
+
+
+**175.3** Every person who is required under this Part to report information in respect of a pig, pig carcass or part of a pig carcass shall keep a record of that information for five years.
+> SOR/2014-23, s. 12.
+
+
+
+
+**175.4** If pigs are transported as described in subsection 175.01(2) between two sites that are registered as being linked with each other, the operator of the departure site and the operator of the destination site shall keep a record of the following information for five years after the departure of the pigs:
+- **(a)** the location of the departure site and the location of the destination site;
+- **(b)** in the case of the operator of the departure site, the date and time that the conveyance carrying the pigs left the departure site and, in the case of the operator of the destination site, the date and time that the conveyance arrived at the destination site;
+- **(c)** in the case of the operator of the departure site, the number of pigs loaded onto the conveyance and, in the case of the operator of the destination site, the number of pigs and pig carcasses that arrived at the destination site;
+- **(d)** the identification numbers on the approved tags applied to the pigs; and
+- **(e)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+> SOR/2014-23, s. 12.
 
 
 
@@ -3098,28 +3239,53 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 ### Prohibitions
 
 
-**176** Subject to section 183, no person shall move, or cause the movement of, an animal or the carcass of an animal from its farm of origin or from any other farm or ranch unless it bears an approved tag issued under subsection 174(1) to the operator of the farm or ranch where the approved tag was applied to it.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 4; SOR/2005-192, s. 5.
+**176** Subject to section 183, no person shall remove or cause the removal of a bison, bovine or ovine or the carcass of a bison, bovine or ovine from a site unless it bears an approved tag that has been applied to it under section 175.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 4; SOR/2005-192, s. 5; SOR/2014-23, s. 13.
+
+
+
+
+**176.1** No person shall remove or cause the removal of a pig from a site unless the pig bears an approved tag or an approved slap tattoo that has been applied to it under section 175.01 or the pig is otherwise dealt with in accordance with that section.
+> SOR/2014-23, s. 13.
 
 
 
 
 **177** 
 
-- **(1)** Subject to section 183 and subsection 184(2), no person shall transport, or cause the transportation of, an animal or the carcass of an animal that does not bear an approved tag.
+- **(1)** Subject to section 183 and subsection 184(2), no person shall transport or cause the transportation of a bison, bovine or ovine or the carcass of a bison, bovine or ovine that does not bear an approved tag.
 
-- **(2)** Subject to section 183 and subsection 184(2), no person shall receive, or cause the reception of, an animal or the carcass of an animal that does not bear an approved tag.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 5.
+- **(2)** Subject to section 183 and subsection 184(2), no person shall receive or cause the reception of a bison, bovine or ovine or the carcass of a bison, bovine or ovine that does not bear an approved tag.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 5; SOR/2014-23, s. 13.
+
+
+
+
+**177.1** 
+
+- **(1)** Subject to subsection 184(2), no person shall transport, cause the transportation of, receive or cause the reception of a pig unless the pig bears an approved tag or an approved slap tattoo that has been applied to it under section 175.01 or the pig is otherwise dealt with in accordance with that section.
+
+- **(2)** Subsection (1) does not apply to the reception of pigs that are transported as described in subsection 175.01(2) if
+	- **(a)** at the time of the transportation, the departure site and the destination site are registered as being linked with each other; or
+	- **(b)** the operator of the destination site, within seven days after the pigs’ reception, reports the following information to the responsible administrator:
+		- **(i)** the location of the departure site and the location of the destination site,
+		- **(ii)** the date and time that the conveyance carrying the pigs arrived at the destination site,
+		- **(iii)** the number of pigs and pig carcasses that arrived at the destination site,
+		- **(iv)** the identification number on any approved tag applied to the pigs, and
+		- **(v)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+> SOR/2014-23, s. 13.
 
 
 
 
 **178** 
 
-- **(1)** Subject to section 183, no person shall apply, or cause the application of, an approved tag issued under subsection 174(1) to an animal or the carcass of an animal that is not on the farm or ranch, or in the auction barn, for which the approved tag was issued.
+- **(1)** Subject to section 183, no person shall apply or cause the application of an approved tag issued under subsection 174(1) to an animal or the carcass of an animal that is not on the site in respect of which the approved tag was issued.
+
+- **(1.1)** No person shall apply or cause the application of, to a pig, an approved slap tattoo or, in the case of pigs that are destined for export, an indicator that bears an identification number issued by a responsible administrator in respect of a site unless the pig is at that site.
 
 - **(2)** No person shall apply, or cause the application of, an approved tag issued to an importer under subsection 174(2) to an animal that has not been imported by the importer.
-> SOR/2000-416, s. 1.
+> SOR/2000-416, s. 1; SOR/2014-23, s. 14.
 
 
 
@@ -3132,6 +3298,12 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **180** No person shall apply, or cause the application of, an approved tag from an animal or the carcass of an animal to another animal or the carcass of another animal.
 > SOR/2000-416, s. 1.
+
+
+
+
+**180.1** No person shall apply or cause the application of an approved tag to an animal or the carcass of an animal that is not listed in the definition ***animal*** in section 172.
+> SOR/2014-23, s. 15.
 
 
 
@@ -3156,38 +3328,35 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **183** 
 
-- **(1)** Subject to subsection (5), a bison or a bovine may be moved from its farm of origin, without having an approved tag applied to it, to a site for the purpose of having an approved tag applied to the animal at that site if
-	- **(a)** the person who manages the site has previously provided the administrator with a statement containing the name and address of the site and an undertaking that the person will comply with the requirements of paragraphs (c) to (e);
-	- **(b)** the operator of the farm of origin supplies, along with the bison or bovine, the approved tag issued to that operator under subsection 174(1), or a prior arrangement has been made by the operator of the farm of origin with the person who manages the tagging site to have approved tags applied at that site;
-	- **(c)** the bison or bovine is not mixed with any other person’s animals that do not bear approved tags;
-	- **(d)** the approved tag referred to in paragraph (b) is applied to the bison or bovine immediately after it is received at the site; and
-	- **(e)** the person who manages the site keeps records, and makes them available to the administrator on request, of enough information about the origin of the bison or bovines received there to enable their origin to be traced, including
-		- **(i)** the names and addresses of the owners or persons having the possession, care or control of the animals when they are brought to the site,
-		- **(ii)** the dates when the animals are brought to the site, and
-		- **(iii)** the numbers of the approved tags that are applied to the animals and the dates when the approved tags are applied to the animals.
+- **(1)** A bison or a bovine may be transported from its farm of origin without having an approved tag applied to it to a site for the purpose of having an approved tag applied to it at that site if
+	- **(a)** the name and address of the site is on the list that sets out tagging sites approved by the responsible administrator and is published on that administrator’s web site; and
+	- **(b)** an approved tag issued to the farm of origin under subsection 174(1) will be supplied, along with the bison or bovine, by the operator of the farm of origin or, through a prior arrangement with the manager of the tagging site, will be issued and applied to the bison or bovine at the tagging site.
 
-- **(2)** The person who manages a tagging site shall tag all bison or bovines brought to the site that do not already bear an approved tag.
+- **(2)** The manager of a tagging site shall
+	- **(a)** ensure that the bison or bovine is not mixed with any other person’s animals that do not bear approved tags;
+	- **(b)** ensure that the approved tag is applied to the bison or bovine immediately after it arrives at the site; and
+	- **(c)** keep records, and make them available on request to the responsible administrator, of enough information about the bison or bovines received at the site to enable their origin to be traced, including
+		- **(i)** the names and addresses of the owners or persons having the possession, care or control of the animals before the transportation of the animals to the site,
+		- **(ii)** the dates of the arrival of the animals at the site, and
+		- **(iii)** the identification numbers on the approved tags applied to the animals and the dates of the application of those tags to the animals.
 
-- **(3)** Every person who gives an undertaking referred to in paragraph (1)(a) to comply with the requirements of paragraphs (1)(c) to (e) shall comply with those requirements.
+- **(3)** The responsible administrator shall approve a site for inclusion on the list of approved tagging sites, on application from the manager of the site, if the manager has stated in writing that
+	- **(a)** the manager understands the requirements of subsection (2); and
+	- **(b)** the equipment and facilities at the site are adequate to enable the application of an approved tag to a bison or bovine without endangering its safety or the safety of the personnel at the site.
 
-- **(4)** [Repealed, SOR/2005-192, s. 9]
+- **(4)** If the manager of a tagging site does not comply with subsection (2) or (3), the responsible administrator shall remove the name and address of the tagging site from the list of approved tagging sites if
+	- **(a)** the responsible administrator has caused to be delivered to the manager of the tagging site a notice that
+		- **(i)** describes the non-compliance, and
+		- **(ii)** specifies the period within which the manager may rectify the non-compliance;
+	- **(b)** the person has not rectified the non-compliance within the period specified in the notice; and
+	- **(c)** the person has been given an opportunity to be heard in respect of the proposed removal.
 
-- **(5)** If a person fails to comply with subsection (3), the Minister may order the person not to receive any bison or bovines at the site referred to in subsection (1) for the purpose of applying approved tags to them at that site.
+- **(5)** If the responsible administrator removes the name and address of the tagging site from the list, that administrator shall, without delay,
+	- **(a)** notify the manager of the tagging site that the name and address have been removed from the list; and
+	- **(b)** cause a notice of the removal to be published on its web site.
 
-- **(6)** [Repealed, SOR/2005-192, s. 9]
-
-- **(7)** An order issued under subsection (5) is effective for the period specified in the order.
-
-- **(8)** A person who receives an order under subsection (5) must comply with it.
-
-- **(9)** The Minister shall not issue an order to a person under subsection (5) unless
-	- **(a)** a notice has been delivered to the person
-		- **(i)** informing the person that the Minister proposes to issue the order, and
-		- **(ii)** identifying the requirement that the person has not complied with; and
-	- **(b)** the person has been given an opportunity to be heard in respect of the non-compliance within the period specified in the notice.
-
-- **(10)** The Minister shall have the notice published in a newspaper of general circulation in the community where the site referred to in subsection (1) is located.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 6; SOR/2005-192, s. 9.
+- **(6)** If the name and address of a tagging site have been removed from the list, the manager of the site may reapply under subsection (3) to have the site approved as a tagging site.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 6; SOR/2005-192, s. 9; SOR/2014-23, s. 16.
 
 
 
@@ -3200,20 +3369,20 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **184** 
 
-- **(1)** Subject to subsections (2) and (3), if an animal does not bear an approved tag, bears an approved tag that has been revoked or loses its approved tag, the person who owns or has the possession, care or control of the animal shall immediately apply a new approved tag to it.
+- **(1)** Subject to subsections (2) and (3), if an animal that is required to bear an approved tag does not bear an approved tag, bears an approved tag that has been revoked or loses its approved tag, the person who owns or has the possession, care or control of the animal shall immediately apply a new approved tag to it.
 
-- **(2)** Subject to subsection (3), an animal that loses its approved tag while being transported may continue to be transported until it reaches the next place where it is to be unloaded, and it may be received at that place only if a new approved tag is applied to the animal immediately after it is received there.
+- **(2)** Subject to subsection (3), an animal that loses its approved tag while being transported may continue to be transported until it reaches the next site where it is to be unloaded, and it may be received at that site only if a new approved tag is applied to the animal immediately after it is received there.
 
 - **(3)** An animal that loses its approved tag on the way to an abattoir does not have to have a new approved tag applied to it if
 	- **(a)** it is slaughtered at the abattoir;
 	- **(b)** the person who operates the abattoir keeps a record of enough information about the origin of the animal to enable the origin to be traced, including, if it is known by that person,
 		- **(i)** the number of the approved tag that was lost and, in the case of an animal to which more than one approved tag had been applied since the animal’s birth, the numbers of all of them,
 		- **(ii)** the name and address of the owner or person having the possession, care or control of the animal when it was brought to the abattoir and the date when it was brought to the abattoir, and
-		- **(iii)** the identification of the conveyance that brought the animal to the abattoir; and
-	- **(c)** in the case of a bison or a bovine, the person who operates the abattoir reports to the administrator, within 30 days after the animal is slaughtered, the information that the person is required by paragraph (b) to record in respect of the animal.
+		- **(iii)** the licence plate number or, if there is no licence plate, other identification of the conveyance that brought the animal to the abattoir; and
+	- **(c)** in the case of a bison or a bovine, the person who operates the abattoir reports to the responsible administrator, within 30 days after the animal is slaughtered, the information that the person is required by paragraph (b) to record in respect of the animal.
 
-- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (3)(b), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11; SOR/2010-137, s. 3; SOR/2012-286, s. 64(F).
+- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (3)(b), report the information to the responsible administrator within 30 days after receiving it.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11; SOR/2010-137, s. 3; SOR/2012-286, s. 64(F); SOR/2014-23, s. 17.
 
 
 
@@ -3224,17 +3393,17 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(a)** the number of the new approved tag; and
 	- **(b)** enough information about the origin of the animal or the carcass to enable the origin to be traced, including, if it is known by that person,
 		- **(i)** the number of the approved tag that was previously applied to the animal or carcass and, in the case of an animal or carcass to which more than one approved tag has been applied since the animal’s birth, the numbers of all of them,
-		- **(ii)** the name and address of the owner or person having the possession, care or control of the animal or carcass when it was brought to the place where the new approved tag was attached to it and the date when it was brought to the place, and
-		- **(iii)** the identification of any conveyance that brought the animal or carcass to the place where the new approved tag was attached to it.
+		- **(ii)** the name and address of the owner or person having the possession, care or control of the animal or carcass when it was brought to the site where the new approved tag was attached to it and the date when it was brought to the site, and
+		- **(iii)** the licence plate number or, if there is no licence plate, other identification of the conveyance that brought the animal or carcass to the site where the new approved tag was attached to it.
 
 - **(2)** Subsection (1) does not apply in respect of the application of an approved tag to
 	- **(a)** an animal before it leaves its farm of origin; or
 	- **(b)** the carcass of an animal before the carcass leaves the animal’s farm of origin.
 
-- **(3)** Every person who applies, or causes the application of, a new approved tag to an animal, or the carcass of an animal, that already bears an approved tag or an approved tag that has been revoked, shall, within 30 days after the new approved tag is applied, report to the administrator the number of the new approved tag as well as the number of the previously applied tag.
+- **(3)** Every person who applies, or causes the application of, a new approved tag to an animal, or the carcass of an animal, that already bears an approved tag or an approved tag that has been revoked shall, within 30 days after the new approved tag is applied, report to the responsible administrator the number of the new approved tag as well as the number of the previously applied tag.
 
-- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in subsection (3), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 12; SOR/2010-137, s. 4.
+- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in subsection (3), report the information to the responsible administrator within 30 days after receiving it.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 12; SOR/2010-137, s. 4; SOR/2014-23, s. 18.
 
 
 
@@ -3247,34 +3416,34 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(1)** If an animal bearing an approved tag is slaughtered at an abattoir or otherwise dies at an abattoir, the operator of the abattoir
 	- **(a)** may remove any tag from the animal or the animal’s carcass; and
-	- **(b)** in the case of a bison or a bovine, shall report the death of the animal and the number of the approved tag to the administrator within 30 days after the death.
+	- **(b)** in the case of a bison or a bovine, shall report the death of the animal and the number of the approved tag to the responsible administrator within 30 days after the death.
 
 - **(2)** The operator of an abattoir where an animal bearing an approved tag is slaughtered shall maintain the ability to identify the animal’s carcass in the abattoir until the carcass is approved for human consumption or is condemned.
 
-- **(3)** If an animal bearing an approved tag or an approved tag that has been revoked is slaughtered, or otherwise dies, on a farm or ranch or at an auction barn, the operator of the farm, ranch or auction barn shall keep a record of the slaughter or death of the animal and the number of its tag.
+- **(3)** If an animal bearing an approved tag or an approved tag that has been revoked is slaughtered or otherwise dies at a site, the operator of the site shall keep a record of the slaughter or death of the animal and the identification number on its tag.
 
-- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b), report the information to the administrator within 30 days after receiving it.
+- **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b), report the information to the responsible administrator within 30 days after receiving it.
 
-- **(5)** For the purposes of this section, ***abattoir*** includes a mobile abattoir.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 8; SOR/2005-192, s. 13; SOR/2010-137, s. 5.
+- **(5)** [Repealed, SOR/2014-23, s. 19]
+> SOR/2000-416, s. 1; SOR/2003-409, s. 8; SOR/2005-192, s. 13; SOR/2010-137, s. 5; SOR/2014-23, s. 19.
 
 
 
 
 **187** 
 
-- **(1)** Every person, including a renderer, a dead stock operator, a post-mortem laboratory official or a veterinarian, who disposes of the carcass of an animal bearing an approved tag or an approved tag that has been revoked
+- **(1)** Every person, including a renderer, dead stock operator, post-mortem laboratory official and veterinarian, who disposes of the carcass of a bison, bovine or ovine bearing an approved tag or an approved tag that has been revoked
 	- **(a)** may remove the tag from the carcass; and
-	- **(b)** shall report the number of the tag to the administrator within 30 days after disposing of the carcass.
+	- **(b)** shall report the identification number on the tag to the responsible administrator within 30 days after disposing of the carcass.
 
-- **(2)** Every person, including a renderer or dead stock operator, a post-mortem laboratory official or a veterinarian, who disposes of the carcass of an animal not bearing an approved tag anywhere but on the farm or ranch where the animal died shall
-	- **(a)** collect enough information about the origin of the animal or carcass to enable the origin to be traced, including, if it is known by that person,
-		- **(i)** the farm, ranch or other place from which the carcass was removed and the date when the carcass was removed from that place, and
+- **(2)** Every person, including a renderer, dead stock operator, post-mortem laboratory official and veterinarian, who disposes of the carcass of a bison, bovine or ovine not bearing an approved tag anywhere but on the farm of origin where the animal died shall
+	- **(a)** collect enough information about the carcass to enable the origin to be traced, including, if it is known by that person,
+		- **(i)** the site from which the carcass was removed and the date when the carcass was removed from that place, and
 		- **(ii)** the name and address of the owner or person having the possession, care or control of the carcass when it was removed from that place; and
-	- **(b)** report that information to the administrator within 30 days after disposing of the carcass.
+	- **(b)** report that information to the responsible administrator within 30 days after disposing of the carcass.
 
-- **(3)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b) or (2)(a), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 14; SOR/2010-137, s. 6.
+- **(3)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b) or (2)(a), report that information to the responsible administrator within 30 days after receiving it.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 14; SOR/2010-137, s. 6; SOR/2014-23, s. 20.
 
 
 
@@ -3283,8 +3452,17 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 ### Export
 
 
-**188** Every person who exports a bison or a bovine shall ensure that the number of the animal’s approved tag is reported to the administrator within 30 days after the exportation.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 9; SOR/2005-192, s. 15.
+**188** 
+
+- **(1)** Every person who exports a bison or bovine shall report the identification number on the animal’s approved tag to the responsible administrator within 30 days after the exportation.
+
+- **(2)** Every person who exports pigs shall report the following information to the responsible administrator within seven days after the exportation:
+	- **(a)** the locations of the last sites at which the pigs were kept before they were exported and the number of pigs that were from each of those sites;
+	- **(b)** the locations to which the pigs were exported and the number of pigs that were exported to each of those locations;
+	- **(c)** the dates on which the pigs were loaded onto the conveyance by which they were exported and the number of pigs that were loaded on each of those dates;
+	- **(d)** except in the case of cull breeding pigs that are exported for immediate slaughter from a site that is used exclusively for the purpose of collecting animals before they are transported to an abattoir, the identification numbers on the indicators approved by the importing country that have been applied to the pigs and that identify the last sites at which they were kept before they were exported and the number of pigs bearing each of those identification numbers; and
+	- **(e)** the licence plate number or, if there is no licence plate, other identification of the conveyance.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 9; SOR/2005-192, s. 15; SOR/2014-23, s. 21.
 
 
 
@@ -3296,20 +3474,57 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 **189** 
 
 - **(1)** Every person who imports an animal shall
-	- **(a)** apply or cause the application of an approved tag to the animal either before importation or as soon as the animal reaches its initial destination; and
-	- **(b)** report to the administrator
-		- **(i)** the number of the approved tag, and
-		- **(ii)** enough information about the origin of the animal to allow the origin to be traced.
+	- **(a)** apply or cause the application of an approved tag to the animal either before importation or immediately after the animal reaches its initial destination;
+	- **(b)** in the case of a bison, bovine or ovine, report to the responsible administrator
+		- **(i)** the identification number on the animal’s approved tag, and
+		- **(ii)** enough information about the animal to allow the origin to be traced; and
+	- **(c)** in the case of a pig, report to the responsible administrator
+		- **(i)** the location of the last site at which the pig was kept before it was imported,
+		- **(ii)** the location to which the pig was imported,
+		- **(iii)** the date on which the pig was received,
+		- **(iv)** the identification number on the pig’s approved tag, and
+		- **(v)** the licence plate number or, if there is no licence plate, other identification of the conveyance by which the pig was imported.
 
-- **(2)** The report referred to in paragraph (1)(b) shall be made
+- **(2)** The reports referred to in paragraphs (1)(b) and (c) shall be made
 	- **(a)** if a bison is being imported, within 60 days after importation;
-	- **(b)** if a bovine is being imported, within 30 days after importation; or
-	- **(c)** if an ovine is being imported, within 7 days after importation.
+	- **(b)** if a bovine is being imported, within 30 days after importation;
+	- **(c)** if an ovine is being imported, within 7 days after importation; or
+	- **(d)** if a pig is being imported, within 7 days after importation.
 
-- **(3)** Subsection (1) does not apply to an animal imported for immediate slaughter.
+- **(3)** Paragraphs (1)(a) and (b) do not apply to a bison, bovine or ovine that is imported for immediate slaughter.
 
-- **(4)** Paragraph (1)(a) and subparagraph (1)(b)(i) do not apply to an animal bearing an official tag of the country of origin if the administrator considers that the tag bears information similar to the information required on an approved tag.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 10; SOR/2005-192, s. 16(F).
+- **(4)** Paragraph (1)(a) does not apply to an animal bearing an indicator of a foreign country if the Minister determines that the indicator meets the criteria set out in subsection 173(2) and that the identification number on the indicator can be entered and tracked in the responsible administrator’s database.
+
+- **(5)** For the purposes of subsection 175(3) and sections 175.01, 175.1, 176 to 177.1, 179 to 181 and 186 to 188, if an imported animal bears an indicator of a foreign country and the Minister determines that the indicator meets the criteria set out in subsection 173(2) and that the identification number on the indicator can be entered and tracked in the responsible administrator’s database, the indicator is deemed to be an approved tag that was issued and applied to the animal in accordance with this Part.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 10; SOR/2005-192, s. 16(F); SOR/2014-23, s. 22.
+
+
+
+
+
+### Information Obtained by a Responsible Administrator
+
+
+**189.1** A responsible administrator shall maintain a database and other records obtained under this Part.
+> SOR/2014-23, s. 23.
+
+
+
+
+**189.2** 
+
+- **(1)** If a person who is a responsible administrator obtains information under this Part in relation to an animal or the carcass of an animal and that animal or carcass was previously located in a province in respect of which the person is not the responsible administrator, the person shall provide that information without delay to the responsible administrator in respect of the province in which that animal or carcass was located.
+
+- **(2)** A responsible administrator may allow persons to have access to the information that that administrator obtains under this Part for the purpose of providing services in relation to the database if those persons agree in writing not to disclose the information to any other person.
+
+- **(3)** Every responsible administrator shall allow the Agency to have access to the information that that administrator obtains under this Part.
+
+- **(4)** A responsible administrator shall allow any person to have access to the information that that administrator obtains under this Part if the Agency advises that administrator that the access is provided for in an agreement or memorandum of understanding that the Agency has entered into under subsection 14(1) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md).
+
+- **(5)** If a person (in this subsection referred to as the “former administrator”) ceases to be the responsible administrator for animals of all or part of a genus, species or subspecies that are located in a province and another person (in this subsection referred to as the “new administrator”) becomes the responsible administrator for animals of that genus, species or subspecies or of that part that are located in that province, the former administrator shall
+	- **(a)** provide to the new administrator the information that the former administrator has obtained under this Part; and
+	- **(b)** after receiving from the new administrator an acknowledgement in writing that the transferred information has been entered successfully into the database or other records maintained by the new administrator, permanently delete that information from the database and other records maintained by the former administrator except if the former administrator has the express, free and informed consent of any person to whom the information relates to retain that information.
+> SOR/2014-23, s. 23.
 
 
 
