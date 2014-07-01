@@ -4156,9 +4156,10 @@ TABLE 13
 <th>Grade Name</th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
 </tr>
 <tr>
-<th>Minimum Test Weight</th>
+<th>Minimum Test Weight kg/hL</th>
 <th>Degree of Soundness</th>
 <th>Damage</th>
 <th>Foreign Material</th>
@@ -4172,7 +4173,6 @@ TABLE 13
 <th>Total Damage and Foreign Material</th>
 </tr>
 <tr>
-<th>kg/hL</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4183,46 +4183,46 @@ TABLE 13
 <tr>
 <td>No. 1 CE</td>
 <td>51</td>
-<td>Well matured, good natural colour, 97% sound groats</td>
+<td>Good natural colour, 98% sound groats</td>
 <td>Nil</td>
-<td>0.1</td>
+<td>2</td>
+<td>0.75</td>
+<td>0.75</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
 <td>49</td>
-<td>Reasonably well matured, reasonably good natural colour, 96% sound groats</td>
+<td>Good natural colour, 96% sound groats</td>
 <td>0.1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<td>4</td>
+<td>1.5</td>
+<td>1.5</td>
 <td>2</td>
 <td>4</td>
 </tr>
 <tr>
 <td>No. 3 CE</td>
 <td>46</td>
-<td>Fairly well matured, fair colour, 94% of sound groats</td>
-<td>1</td>
-<td>4</td>
+<td>Fair colour, 94% sound groats</td>
+<td>0.5</td>
 <td>6</td>
-<td>6</td>
+<td>3</td>
+<td>3</td>
 <td>3</td>
 <td>6</td>
 </tr>
 <tr>
 <td>No. 4 CE</td>
 <td>43</td>
-<td>86% of sound groats</td>
-<td>3</td>
-<td>6</td>
-<td>14</td>
-<td>14</td>
+<td>92% sound groats</td>
+<td>1</td>
 <td>8</td>
-<td>14</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
 </tr>
 </table>
 
@@ -5065,7 +5065,7 @@ TABLE 13
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, s. 2.
 
 
 
