@@ -26,159 +26,159 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***abattoir*** S’entend notamment d’un abattoir mobile. (*abattoir*)
 
-***agent zoopathogène*** Vise notamment tout agent zoopathogène issu de la biotechnologie. (*animal pathogen*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***aliments pour animaux*** Aliments contenant un produit animal ou sous-produit animal destiné aux poulets, aux dindons, aux canards, aux oies, aux ratites, au gibier à plumes, aux ruminants, aux porcs ou aux chevaux. (*animal food*)
+***agent zoopathogène*** Vise notamment tout agent zoopathogène issu de la biotechnologie. (*animal pathogen*)
 
-***animal non ambulatoire*** Animal de ferme ou animal des espèces cervidés, camélidés et ratites, qui est incapable de se tenir debout sans aide ou de se déplacer sans être traîné ou porté. (*non-ambulatory animal*)
+***aliments pour animaux*** Aliments contenant un produit animal ou sous-produit animal destiné aux poulets, aux dindons, aux canards, aux oies, aux ratites, au gibier à plumes, aux ruminants, aux porcs ou aux chevaux. (*animal food*)
 
-***animaux de ferme*** désigne les animaux des espèces bovine, caprine, équine, ovine et porcine. (*livestock*)
+***animal non ambulatoire*** Animal de ferme ou animal des espèces cervidés, camélidés et ratites, qui est incapable de se tenir debout sans aide ou de se déplacer sans être traîné ou porté. (*non-ambulatory animal*)
+
+***animaux de ferme*** désigne les animaux des espèces bovine, caprine, équine, ovine et porcine. (*livestock*)
 
 ***antibiotique***[Abrogée, DORS/2002-438, art. 6]
 
 ***association***[Abrogée, DORS/97-85, art. 1]
 
-***bague*** désigne une étiquette fixée à l’oreille d’un animal et portant les lettres « H of A » et comprend tout dispositif servant à identifier un animal en vertu de la Loi et du présent règlement. (*tag*)
+***bague*** désigne une étiquette fixée à l’oreille d’un animal et portant les lettres « H of A » et comprend tout dispositif servant à identifier un animal en vertu de la Loi et du présent règlement. (*tag*)
 
-***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
+***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
 
-***boeuf*** Animal des espèces *Bos taurus* ou *Bos indicus*. (*cattle*)
+***boeuf*** Animal des espèces *Bos taurus* ou *Bos indicus*. (*cattle*)
 
-***bovin*** Boeuf ou bison élevé ou gardé dans un milieu domestique. Toutefois, pour l’application du document de référence, le terme ***bovin*** exclut le bison qui a été en contact avec un troupeau sauvage ou en a fait partie. (*bovine*)
+***bovin*** Boeuf ou bison élevé ou gardé dans un milieu domestique. Toutefois, pour l’application du document de référence, le terme ***bovin*** exclut le bison qui a été en contact avec un troupeau sauvage ou en a fait partie. (*bovine*)
 
-***carnasse*** désigne les poils, os, sabots, cornes, écharnures, rognures ou coupures de peau d’un animal et toute autre partie d’un animal pouvant servir à la fabrication de la colle. (*gluestock*)
+***carnasse*** désigne les poils, os, sabots, cornes, écharnures, rognures ou coupures de peau d’un animal et toute autre partie d’un animal pouvant servir à la fabrication de la colle. (*gluestock*)
 
-***centre de distribution de sperme animal*** désigne un établissement ou véhicule à partir duquel le sperme animal est distribué. (*animal semen distribution centre*)
+***centre de distribution de sperme animal*** désigne un établissement ou véhicule à partir duquel le sperme animal est distribué. (*animal semen distribution centre*)
 
-***centre de production de sperme animal*** Établissement où le sperme de ruminant ou de porc est recueilli ou traité. (*animal semen production centre*)
+***centre de production de sperme animal*** Établissement où le sperme de ruminant ou de porc est recueilli ou traité. (*animal semen production centre*)
 
 ***centre de transplantation d’embryons animaux***[Abrogée, DORS/97-85, art. 1]
 
-***chat domestique*** signifie le *felis domesticus*. (*domestic cat*)
+***chat domestique*** signifie le *felis domesticus*. (*domestic cat*)
 
-***chien domestique*** S’entend du *canis domesticus*. (*domestic dog*)
+***chien domestique*** S’entend du *canis domesticus*. (*domestic dog*)
 
-***compagnie de chemin de fer*** désigne une compagnie de chemin de fer s’occupant du transport des animaux de ferme par voie ferrée. (*railway company*)
+***compagnie de chemin de fer*** désigne une compagnie de chemin de fer s’occupant du transport des animaux de ferme par voie ferrée. (*railway company*)
 
-***date de péremption*** désigne la date de la fin de la période d’efficacité d’un produit vétérinaire biologique, lorsqu’il a été convenablement entreposé et manipulé. (*expiration date*)
+***date de péremption*** désigne la date de la fin de la période d’efficacité d’un produit vétérinaire biologique, lorsqu’il a été convenablement entreposé et manipulé. (*expiration date*)
 
 ***Direction de l’hygiène vétérinaire***[Abrogée, DORS/82-590, art. 1]
 
-***données générales sur le produit*** désigne une description détaillée
+***données générales sur le produit*** désigne une description détaillée
 - **a)** du procédé de préparation d’un produit vétérinaire biologique et de tout diluant qui doit être utilisé avec celui-ci,
 - **b)** des méthodes et modalités de manutention, d’entreposage, d’administration et d’épreuve d’un produit vétérinaire biologique et de tout diluant qui doit être utilisé avec celui-ci, et
-- **c)** des épreuves — et de leurs résultats — effectuées afin d’établir la pureté, l’innocuité, la puissance et l’efficacité d’un produit vétérinaire biologique, et la pureté et l’innocuité de tout diluant qui sera utilisé avec celui-ci. (*product outline*)
+- **c)** des épreuves — et de leurs résultats — effectuées afin d’établir la pureté, l’innocuité, la puissance et l’efficacité d’un produit vétérinaire biologique, et la pureté et l’innocuité de tout diluant qui sera utilisé avec celui-ci. (*product outline*)
 
-***emballage*** désigne tout ce qui sert à contenir, à ranger ou à emballer complètement ou partiellement un produit vétérinaire biologique. (*package*)
+***emballage*** désigne tout ce qui sert à contenir, à ranger ou à emballer complètement ou partiellement un produit vétérinaire biologique. (*package*)
 
 ***embryon animal***[Abrogée, DORS/2001-210, art. 1]
 
-***engrais*** S’entend au sens de l’article 2 de la Loi sur les engrais. (*fertilizer*)
+***engrais*** S’entend au sens de l’article 2 de la Loi sur les engrais. (*fertilizer*)
 
 ***épizootie grave***[Abrogée, DORS/2007-24, art. 1]
 
-***épreuve*** comprend
+***épreuve*** comprend
 - **a)** le prélèvement de tissus ou de liquides d’un animal, et
-- **b)** une injection pratiquée sur un animal pour déterminer s’il est atteint d’une maladie. (*test*)
+- **b)** une injection pratiquée sur un animal pour déterminer s’il est atteint d’une maladie. (*test*)
 
-***équidés*** désigne les chevaux, ânes, mulets ou zèbres. (*equine*)
+***équidés*** désigne les chevaux, ânes, mulets ou zèbres. (*equine*)
 
-***établissement agréé*** désigne un endroit, composé d’une ou de plusieurs pièces ou bâtiments, pour lequel un permis d’établissement a été délivré par le ministre. (*licensed establishment*)
+***établissement agréé*** désigne un endroit, composé d’une ou de plusieurs pièces ou bâtiments, pour lequel un permis d’établissement a été délivré par le ministre. (*licensed establishment*)
 
-***établissement de désinfection approuvé*** désigne une usine, un établissement ou autre endroit approuvé par le ministre pour le nettoyage, la désinfection ou le traitement d’un sous-produit animal ou de toute autre chose. (*approved disinfection establishment*)
+***établissement de désinfection approuvé*** désigne une usine, un établissement ou autre endroit approuvé par le ministre pour le nettoyage, la désinfection ou le traitement d’un sous-produit animal ou de toute autre chose. (*approved disinfection establishment*)
 
-***États-Unis*** Les États des États-Unis qui forment la partie continentale de l’Amérique du Nord et l’État d’Hawaï. (*United States*)
+***États-Unis*** Les États des États-Unis qui forment la partie continentale de l’Amérique du Nord et l’État d’Hawaï. (*United States*)
 
-***étiquette*** désigne une légende, un mot ou une marque qu’on appose sur l’emballage de tout produit vétérinaire biologique, qu’on lui incorpore ou qui accompagne celui-ci. (*label*)
+***étiquette*** désigne une légende, un mot ou une marque qu’on appose sur l’emballage de tout produit vétérinaire biologique, qu’on lui incorpore ou qui accompagne celui-ci. (*label*)
 
-***fabriquer*** comprend préparer. (*manufacture*)
+***fabriquer*** comprend préparer. (*manufacture*)
 
-***farine d’os*** Os, sabots ou cornes d’animal moulus qui peuvent contenir des morceaux de cuir, de chair ou de tendon. (*bone meal*)
+***farine d’os*** Os, sabots ou cornes d’animal moulus qui peuvent contenir des morceaux de cuir, de chair ou de tendon. (*bone meal*)
 
-***farine de sang*** désigne le sang séché d’un animal. (*blood meal*)
+***farine de sang*** désigne le sang séché d’un animal. (*blood meal*)
 
-***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché. (*meat meal*ou*tankage*)
+***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché. (*meat meal*ou*tankage*)
 
-***fumier*** Y sont assimilés le guano, les fèces avec ou sans urine et tout ce qui contient des fèces d’oiseau, de ruminant ou de porc. (*manure*)
+***fumier*** Y sont assimilés le guano, les fèces avec ou sans urine et tout ce qui contient des fèces d’oiseau, de ruminant ou de porc. (*manure*)
 
-***gibier à plumes*** Oiseaux sauvages gardés en captivité, notamment les faisans, les perdrix, les cailles, les coqs de bruyère, les pintades et les paons. Sont exclus de la présente définition les colombes, les pigeons, les canards, les oies, les psittacidés et les oiseaux chanteurs. (*game bird*)
+***gibier à plumes*** Oiseaux sauvages gardés en captivité, notamment les faisans, les perdrix, les cailles, les coqs de bruyère, les pintades et les paons. Sont exclus de la présente définition les colombes, les pigeons, les canards, les oies, les psittacidés et les oiseaux chanteurs. (*game bird*)
 
-***glandes et organes d’animaux*** comprend le fiel ou la bile de boeuf, la présure et des substances analogues provenant d’animaux domestiques. (*animal glands and organs*)
+***glandes et organes d’animaux*** comprend le fiel ou la bile de boeuf, la présure et des substances analogues provenant d’animaux domestiques. (*animal glands and organs*)
 
-***inspecter*** comprend mettre à l’épreuve. (*inspect*)
+***inspecter*** comprend mettre à l’épreuve. (*inspect*)
 
 ***inspecteur***[Abrogée, DORS/97-85, art. 1]
 
 ***inspecteur-vétérinaire***[Abrogée, DORS/97-85, art. 1]
 
-***inspection*** Inspection effectuée par un inspecteur, sauf celle effectuée par un agent des douanes en vertu de l’article 16 de la Loi. (*inspection*)
+***inspection*** Inspection effectuée par un inspecteur, sauf celle effectuée par un agent des douanes en vertu de l’article 16 de la Loi. (*inspection*)
 
 ***Inspection vétérinaire, (opérations)***[Abrogée, DORS/97-85, art. 1]
 
-***laboratoire approuvé*** désigne un établissement ou véhicule approuvé par le ministre pour faire subir des examens ou des épreuves aux animaux. (*approved laboratory*)
+***laboratoire approuvé*** désigne un établissement ou véhicule approuvé par le ministre pour faire subir des examens ou des épreuves aux animaux. (*approved laboratory*)
 
-***laboratoire de niveau de confinement 2*** Laboratoire qui satisfait aux normes du niveau de confinement 2 pour les agents pathogènes ou les excède, selon les Lignes directrices en matière de biosécurité en laboratoire, publiées, avec leurs modifications successives, par l’Agence de santé publique du Canada sur son site Web. (*level 2 containment laboratory*)
+***laboratoire de niveau de confinement 2*** Laboratoire qui satisfait aux normes du niveau de confinement 2 pour les agents pathogènes ou les excède, selon les Lignes directrices en matière de biosécurité en laboratoire, publiées, avec leurs modifications successives, par l’Agence de santé publique du Canada sur son site Web. (*level 2 containment laboratory*)
 
-***laine, poils et soies bruts*** La laine, les poils et les soies bruts prélevés d’un animal, à l’exception des rubans de carde, des déchets de laine, de la blousse de laine, de la nappe de laine et des petits échantillons de commerce, ainsi que de la laine et des poils tirés à la chaux, dessuintés ou carbonisés. (*raw wool, hair or bristles*)
+***laine, poils et soies bruts*** La laine, les poils et les soies bruts prélevés d’un animal, à l’exception des rubans de carde, des déchets de laine, de la blousse de laine, de la nappe de laine et des petits échantillons de commerce, ainsi que de la laine et des poils tirés à la chaux, dessuintés ou carbonisés. (*raw wool, hair or bristles*)
 
-***lait*** Sécrétion lactée obtenue de la glande mammaire d’un ruminant, sous forme concentrée, séchée, congelée, reconstituée ou fraîche. (*milk*)
+***lait*** Sécrétion lactée obtenue de la glande mammaire d’un ruminant, sous forme concentrée, séchée, congelée, reconstituée ou fraîche. (*milk*)
 
-***Loi*** La [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md). (*Act*)
+***Loi*** La [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md). (*Act*)
 
-***maladie*** Pour l’application des parties III et IV, toute maladie déclarable ou toute autre épizootie grave qu’un animal ou matériel génétique est susceptible de contracter et de transmettre. (*disease*)
+***maladie*** Pour l’application des parties III et IV, toute maladie déclarable ou toute autre épizootie grave qu’un animal ou matériel génétique est susceptible de contracter et de transmettre. (*disease*)
 
-***maladie transmissible*** désigne une maladie infectieuse ou contagieuse. (*communicable disease*)
+***maladie transmissible*** désigne une maladie infectieuse ou contagieuse. (*communicable disease*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
 ***négociant en animaux de ferme***[Abrogée, DORS/97-85, art. 1]
 
-***nom assigné*** Dans le cas d’un produit vétérinaire biologique, le nom — français ou anglais — mentionné sur le permis d’importation ou sur le permis de fabrication du produit. (*assigned name*)
+***nom assigné*** Dans le cas d’un produit vétérinaire biologique, le nom — français ou anglais — mentionné sur le permis d’importation ou sur le permis de fabrication du produit. (*assigned name*)
 
-***oeufs d’incubation*** désigne les oeufs de volailles fécondés. (*hatching eggs*)
+***oeufs d’incubation*** désigne les oeufs de volailles fécondés. (*hatching eggs*)
 
-***oiseau chanteur*** désigne les serins, pinsons, loriots, cardinaux et tout autre oiseau chanteur. (*song bird*)
+***oiseau chanteur*** désigne les serins, pinsons, loriots, cardinaux et tout autre oiseau chanteur. (*song bird*)
 
 ***partie d’un pays***[Abrogée, DORS/2001-210, art. 1]
 
 ***pays d’origine***
 - **a)** Dans le cas d’un animal, le pays d’où il a été importé, s’il y a séjourné pendant au moins 60 jours en contact avec d’autres animaux de sa propre espèce et, dans tous les autres cas, le pays où il est né;
 - **b)** dans le cas d’un embryon animal, d’un produit animal ou d’un sous-produit animal, le pays où il a été tiré de l’animal;
+- **c)** dans le cas d’un produit animal ou d’un sous-produit animal — autre que les ovules non fertilisées, le sperme et la viande au sens du paragraphe 2(1) du [Règlement de 1990 sur l’inspection des viandes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/288.md) —, le pays où il a subi un traitement de nature à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui. (*country of origin*)
 
+***peau ou cuir non tannés*** Couverture extérieure d’un ruminant, d’un ratite, d’un équidé ou d’un porc qui est à l’état brut et qui n’a subi aucun traitement chimique visant à en faire un cuir permanent et durable. (*untanned hide or skin*)
 
-- **c)** dans le cas d’un produit animal ou d’un sous-produit animal — autre que les ovules non fertilisées, le sperme et la viande au sens du paragraphe 2(1) du [Règlement de 1990 sur l’inspection des viandes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/288.md) —, le pays où il a subi un traitement de nature à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui. (*country of origin*)
+***permis d’établissement*** désigne le permis délivré par le ministre pour un établissement. (*establishment licence*)
 
-***peau ou cuir non tannés*** Couverture extérieure d’un ruminant, d’un ratite, d’un équidé ou d’un porc qui est à l’état brut et qui n’a subi aucun traitement chimique visant à en faire un cuir permanent et durable. (*untanned hide or skin*)
+***permis de fabrication*** désigne un permis délivré par le ministre pour la fabrication du produit vétérinaire biologique décrit sur le permis. (*product licence*)
 
-***permis d’établissement*** désigne le permis délivré par le ministre pour un établissement. (*establishment licence*)
+***peste aviaire*** Influenza aviaire hautement pathogène. (*fowl plague*)
 
-***permis de fabrication*** désigne un permis délivré par le ministre pour la fabrication du produit vétérinaire biologique décrit sur le permis. (*product licence*)
+***poste d’inspection*** désigne un endroit indiqué dans l’annexe II où des installations existent pour inspecter des animaux. (*inspection port*)
 
-***peste aviaire*** Influenza aviaire hautement pathogène. (*fowl plague*)
+***poste de quarantaine*** désigne un endroit indiqué dans l’annexe I où il existe des installations de mise en quarantaine des animaux. (*quarantine port*)
 
-***poste d’inspection*** désigne un endroit indiqué dans l’annexe II où des installations existent pour inspecter des animaux. (*inspection port*)
+***poste enregistré d’oeufs transformés*** a le sens que lui donne le [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*registered processed egg station*)
 
-***poste de quarantaine*** désigne un endroit indiqué dans l’annexe I où il existe des installations de mise en quarantaine des animaux. (*quarantine port*)
+***poussin*** S’entend, à l’égard de toute espèce, d’un oiseau âgé d’au plus soixante-douze heures qui n’a été ni nourri ni abreuvé. (*chick*)
 
-***poste enregistré d’oeufs transformés*** a le sens que lui donne le [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*registered processed egg station*)
+***produit animal*** Produit animal provenant d’un oiseau ou d’un mammifère, à l’exception des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*animal product*)
 
-***poussin*** S’entend, à l’égard de toute espèce, d’un oiseau âgé d’au plus soixante-douze heures qui n’a été ni nourri ni abreuvé. (*chick*)
+***produit d’abeille*** Y sont assimilés le pollen d’abeille, la propolis d’abeille, la gelée royale, la cire d’abeille et le miel. (*bee product*)
 
-***produit animal*** Produit animal provenant d’un oiseau ou d’un mammifère, à l’exception des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*animal product*)
+***produit d’oeuf*** Oeuf entier, coquille d’oeuf, jaune d’oeuf ou albumen d’oeuf, ou tout mélange de ceux-ci, à l’état frais, liquide, congelé ou déshydraté. (*egg product*)
 
-***produit d’abeille*** Y sont assimilés le pollen d’abeille, la propolis d’abeille, la gelée royale, la cire d’abeille et le miel. (*bee product*)
+***produit du lait*** Lait partiellement écrémé, lait écrémé, crème, beurre, babeurre, huile de beurre, lactosérum, beurre de lactosérum ou crème de lactosérum, sous forme concentrée, séchée, congelée, reconstituée ou fraîche, à l’exclusion des protéines, sucres et enzymes du lait. (*milk product*)
 
-***produit d’oeuf*** Oeuf entier, coquille d’oeuf, jaune d’oeuf ou albumen d’oeuf, ou tout mélange de ceux-ci, à l’état frais, liquide, congelé ou déshydraté. (*egg product*)
+***produit vétérinaire biologique*** Vise notamment tout produit vétérinaire biologique issu de la biotechnologie. (*veterinary biologic*)
 
-***produit du lait*** Lait partiellement écrémé, lait écrémé, crème, beurre, babeurre, huile de beurre, lactosérum, beurre de lactosérum ou crème de lactosérum, sous forme concentrée, séchée, congelée, reconstituée ou fraîche, à l’exclusion des protéines, sucres et enzymes du lait. (*milk product*)
+***psittacidés*** désigne les perroquets, amazones, perroquets à tête double du Mexique, jacos, cacatoès, aras, psittacules, loris, trichoglosses et tout autre membre de l’espèce des *psittacidae*. (*bird of the parrot family*)
 
-***produit vétérinaire biologique*** Vise notamment tout produit vétérinaire biologique issu de la biotechnologie. (*veterinary biologic*)
-
-***psittacidés*** désigne les perroquets, amazones, perroquets à tête double du Mexique, jacos, cacatoès, aras, psittacules, loris, trichoglosses et tout autre membre de l’espèce des *psittacidae*. (*bird of the parrot family*)
-
-***publicité*** désigne toute représentation exercée par un moyen quelconque en vue de promouvoir, directement ou indirectement, la vente ou l’écoulement d’un produit vétérinaire biologique. (*advertisement*)
+***publicité*** désigne toute représentation exercée par un moyen quelconque en vue de promouvoir, directement ou indirectement, la vente ou l’écoulement d’un produit vétérinaire biologique. (*advertisement*)
 
 ***pure race***[Abrogée, DORS/97-85, art. 1]
 
@@ -190,27 +190,27 @@ Autorités habilitantes :
 
 ***région non désignée***[Abrogée, DORS/85-545, art. 1]
 
-***ruminant*** Animal du sous-ordre des ruminants. S’entend en outre d’un animal de la famille des camélidés. (*ruminant*)
+***ruminant*** Animal du sous-ordre des ruminants. S’entend en outre d’un animal de la famille des camélidés. (*ruminant*)
 
-***sous-produit animal*** Sous-produit animal provenant d’un oiseau ou d’un mammifère, à l’exception des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*animal by-product*)
+***sous-produit animal*** Sous-produit animal provenant d’un oiseau ou d’un mammifère, à l’exception des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*animal by-product*)
 
 ***sujet officiellement vacciné***[Abrogée, DORS/2001-210, art. 1]
 
-***supplément d’engrais*** S’entend au sens de ***supplément*** à l’article 2 de la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md). (*fertilizer supplement*)
+***supplément d’engrais*** S’entend au sens de ***supplément*** à l’article 2 de la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md). (*fertilizer supplement*)
 
-***transporteur*** désigne un transporteur aérien, maritime, routier ou une compagnie de chemin de fer. (*carrier*)
+***transporteur*** désigne un transporteur aérien, maritime, routier ou une compagnie de chemin de fer. (*carrier*)
 
-***transporteur aérien*** désigne le propriétaire ou l’exploitant d’un aéronef s’occupant du transport aérien des animaux. (*air carrier*)
+***transporteur aérien*** désigne le propriétaire ou l’exploitant d’un aéronef s’occupant du transport aérien des animaux. (*air carrier*)
 
-***transporteur maritime*** désigne le propriétaire ou l’exploitant d’un bateau s’occupant du transport maritime des animaux. (*sea carrier*)
+***transporteur maritime*** désigne le propriétaire ou l’exploitant d’un bateau s’occupant du transport maritime des animaux. (*sea carrier*)
 
-***transporteur routier*** désigne le propriétaire ou l’exploitant d’un véhicule à moteur s’occupant du transport des animaux par véhicule à moteur. (*motor carrier*)
+***transporteur routier*** désigne le propriétaire ou l’exploitant d’un véhicule à moteur s’occupant du transport des animaux par véhicule à moteur. (*motor carrier*)
 
-***troupeau*** Selon le cas :
+***troupeau*** Selon le cas :
 - **a)** tous les ruminants dont une personne est propriétaire ou dont elle a la possession, la responsabilité ou la charge des soins, et qui sont gardés dans :
 	- **(i)** soit tout ou partie d’un même lieu,
 	- **(ii)** soit deux ou plusieurs lieux distincts entre lesquels il y a eu des échanges de ruminants ou dans lesquels il y a eu des contacts entre les ruminants de l’un ou l’autre lieu;
-- **b)** les ruminants appartenant à divers propriétaires qui sont gardés ensemble dans un pâturage communautaire, une parcelle exploitée par une association de pâture ou un autre lieu commun, y compris les ruminants leur appartenant qui sont gardés ailleurs et dont l’un des propriétaires a la responsabilité ou la charge des soins. (*herd or flock*)
+- **b)** les ruminants appartenant à divers propriétaires qui sont gardés ensemble dans un pâturage communautaire, une parcelle exploitée par une association de pâture ou un autre lieu commun, y compris les ruminants leur appartenant qui sont gardés ailleurs et dont l’un des propriétaires a la responsabilité ou la charge des soins. (*herd or flock*)
 
 ***troupeau accrédité pour la tuberculose***[Abrogée, DORS/97-85, art. 1]
 
@@ -220,30 +220,30 @@ Autorités habilitantes :
 
 ***troupeau déclaré exempt de brucellose***[Abrogée, DORS/97-85, art. 1]
 
-***troupeau de provenance*** désigne le troupeau dont un animal a fait partie pendant au moins les 60 jours précédant immédiatement son importation au Canada ou, dans tout autre cas, le troupeau où il est né. (*flock of origin*or*herd of origin*)
+***troupeau de provenance*** désigne le troupeau dont un animal a fait partie pendant au moins les 60 jours précédant immédiatement son importation au Canada ou, dans tout autre cas, le troupeau où il est né. (*flock of origin*or*herd of origin*)
 
 ***veau***[Abrogée, DORS/2001-210, art. 1]
 
-***vétérinaire*** désigne une personne possédant les qualités requises pour pratiquer la médecine vétérinaire selon les lois du pays où elle exerce. (*veterinarian*)
+***vétérinaire*** désigne une personne possédant les qualités requises pour pratiquer la médecine vétérinaire selon les lois du pays où elle exerce. (*veterinarian*)
 
-***vétérinaire accrédité*** Vétérinaire autorisé à exercer certaines fonctions conformément à un accord conclu aux termes de l’article 34 de la Loi. (*accredited veterinarian*)
+***vétérinaire accrédité*** Vétérinaire autorisé à exercer certaines fonctions conformément à un accord conclu aux termes de l’article 34 de la Loi. (*accredited veterinarian*)
 
-***vétérinaire officiel*** Sauf pour l’application de la partie II, vétérinaire qui, dans un pays, est employé par le gouvernement de ce pays. (*official veterinarian*)
+***vétérinaire officiel*** Sauf pour l’application de la partie II, vétérinaire qui, dans un pays, est employé par le gouvernement de ce pays. (*official veterinarian*)
 
-***volaille*** Tout oiseau en captivité, notamment les oiseaux de basse-cour et les pigeons. (*poultry*)
+***volaille*** Tout oiseau en captivité, notamment les oiseaux de basse-cour et les pigeons. (*poultry*)
 
-***zone accréditée pour la brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la brucellose en vertu du paragraphe 75(1). (*brucellosis-accredited area*)
+***zone accréditée pour la brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la brucellose en vertu du paragraphe 75(1). (*brucellosis-accredited area*)
 
-***zone accréditée pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la tuberculose en vertu du paragraphe 74(1). (*tuberculosis-accredited area*)
+***zone accréditée pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la tuberculose en vertu du paragraphe 74(1). (*tuberculosis-accredited area*)
 
-***zone accréditée supérieure pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée supérieure pour la tuberculose en vertu du paragraphe 74(3). (*tuberculosis-accredited advanced area*)
+***zone accréditée supérieure pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée supérieure pour la tuberculose en vertu du paragraphe 74(3). (*tuberculosis-accredited advanced area*)
 
 ***zone d’éradication***[Abrogée, DORS/79-295, art. 1]
 
-***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
+***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
 
-***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
-> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3.
+***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
+> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3; DORS/2014-23, art. 1.
 
 
 
@@ -341,10 +341,10 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(1)** Quiconque abat, découpe ou désosse un bœuf pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit, dès son enlèvement de l’animal, badigeonné d’une teinture voyante et indélébile, et recueilli dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** au bœuf qui est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, si le matériel à risque spécifié provenant de sa carcasse demeure dans la ferme ou le ranch ou est envoyé à un laboratoire de niveau de confinement 2;
+	- **a)** au bœuf qui est abattu, découpé ou désossé dans une ferme, au sens du paragraphe 172(1), si le matériel à risque spécifié provenant de sa carcasse ne sort pas de la ferme, sauf pour être envoyé à un laboratoire de niveau de confinement 2;
 	- **b)** au bœuf qui est abattu, découpé ou désossé dans un abattoir, si toutes les parties de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine ou les échantillons qui sont envoyés à un laboratoire de niveau de confinement 2, demeurent sur le site de l’abattoir;
 	- **c)** aux échantillons de matériel à risque spécifié ou aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré, qui sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12; DORS/2009-220, art. 3; DORS/2012-286, art. 47.
+> DORS/2006-147, art. 12; DORS/2009-220, art. 3; DORS/2012-286, art. 47; DORS/2014-23, art. 2.
 
 
 
@@ -2983,11 +2983,15 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Définitions
 
 
-**172** Les définitions qui suivent s’appliquent à la présente partie.
+**172** 
 
-***administrateur*** Personne avec qui le ministre conclut un accord, aux termes de l’article 34 de la Loi, pour l’administration d’un programme national d’identification des animaux. (*administrator*)
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***animal*** Bison, bovin ou ovin. (*animal*)
+***administrateur***[Abrogée, DORS/2014-23, art. 3]
+
+***administrateur responsable*** Personne autorisée par le ministre à recevoir des renseignements relatifs aux animaux ou aux choses visés par la loi ou ses règlements, nommée sur le site Web de l’Agence, et qui administre un programme d’identification national visant tout ou partie d’un ou de plusieurs genres, espèces ou sous-espèces d’animaux situés dans une ou plusieurs provinces. (*responsible administrator*)
+
+***animal*** Bison, bovin, ovin ou porc. (*animal*)
 
 ***bison*** Animal, autre qu’un embryon ou un oeuf fécondé, des sous-espèces *Bison bison bison*, *Bison bison anthabascae* ou *Bison bison bonasus*. (*bison*)
 
@@ -2995,16 +2999,52 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 ***distributeur*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui vend ou distribue des étiquettes approuvées. (*distributor*)
 
-***étiquette approuvée*** Étiquette, puce ou autre indicateur approuvé par le ministre aux termes du paragraphe 173(1). (*approved tag*)
+***étiquette approuvée*** Étiquette, puce ou autre indicateur approuvé par le ministre aux termes du paragraphe 173(1) et figurant sur le site Web de l’Agence. (*approved tag*)
 
-***ferme d’origine*** La ferme ou le ranch où est né un animal — ou la première ferme ou le premier ranch qui accueille un animal né hors d’une ferme ou d’un ranch — y compris tout terrain et tout bâtiment et autre ouvrage qui y sont érigés et qui servent, sous une seule direction, à la sélection ou à l’élevage des animaux, sauf ceux où l’animal peut être mêlé à des animaux provenant d’une autre ferme ou d’un autre ranch. (*farm of origin*)
+***ferme*** S’entend de tout terrain ou de tout bâtiment ou autre ouvrage érigé sur un terrain, qui est sous une seule direction, et qui sert à la sélection ou à l’élevage des animaux à l’exclusion d’un centre d’insémination artificielle. (*farm*)
 
-***ferme ou ranch*** S’entend d’un troupeau d’élevage, d’un parc d’engraissement, d’un centre d’insémination artificielle ou de tout autre lieu où un animal a été depuis qu’il a quitté sa ferme d’origine. (*farm or ranch*)
+***ferme d’origine*** Ferme où est né un animal ou première ferme où il a été expédié après sa naissance s’il est né ailleurs que dans une ferme. (*farm of origin*)
+
+***ferme ou ranch***[Abrogée, DORS/2014-23, art. 3]
+
+***installation*** Endroit où l’on rassemble ou garde des animaux ou des carcasses d’animaux, à l’exclusion des véhicules. (*site*)
 
 ***organisme de gestion d’un système d’identification des animaux*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui gère, en vertu d’une loi provinciale, un système d’identification des animaux. (*organization that manages an animal identification system*)
 
 ***ovin*** Animal, autre qu’un embryon ou un oeuf fécondé, du genre *Ovis*. (*ovine*)
-> DORS/2000-416, art. 1; DORS/2003-409, art. 1; DORS/2005-192, art. 1.
+
+***porc*** Animal, autre qu’un embryon ou un oeuf fécondé, de l’espèce *domestica* ou *scrofa domestica* du genre *Sus*. (*pig*)
+
+***sailli*** Animal inséminé naturellement ou artificiellement ou ayant fourni de la semence, un ovaire ou un embryon à des fins de reproduction. (*bred*)
+
+***tatouage au marteau approuvé*** Tatouage au marteau portant un numéro d’identification attribué par l’administrateur responsable à une installation en vertu de l’alinéa 174(2)a). (*approved slap tattoo*)
+
+- **(2)** Pour l’application de la présente partie, à l’exception du paragraphe 175.1(2), de l’alinéa 186(1)a) et du paragraphe 186(2), la mention d’une carcasse ou d’une partie de carcasse d’animal ne vise pas la partie de carcasse destinée à la consommation humaine.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 1; DORS/2005-192, art. 1; DORS/2014-23, art. 3.
+
+
+
+
+
+### Enregistrement des installations liées
+
+
+**172.1** 
+
+- **(1)** Pour l’application de la présente partie, à la demande des exploitants de deux fermes où sont gardés des porcs, l’administrateur responsable enregistre ces installations comme étant liées pour une période de six mois, si les conditions suivantes sont réunies :
+	- **a)** les deux installations ainsi que les installations catégories sanitaires liées qui leur sont liées sont situées :
+		- **(i)** soit dans la partie est du Canada, qui comprend l’Ontario, le Québec, la Nouvelle-Écosse, le Nouveau-Brunswick, l’Île-du-Prince-Édouard et Terre-Neuve-et-Labrador,
+		- **(ii)** soit dans la partie ouest du Canada, qui comprend le Manitoba, la Colombie-Britannique, la Saskatchewan, l’Alberta, le Yukon, les Territoires du Nord-Ouest et le Nunavut;
+	- **b)** il y a au moins trois déplacements de porcs par mois entre elles;
+	- **c)** tous ces déplacements se font à l’aide de véhicules déclarés par les exploitants auprès de l’administrateur responsable comme étant les seuls moyens de transport utilisés;
+	- **d)** les deux exploitants dont les installations n’étaient pas enregistrées comme étant liées, pendant une période de trois mois précédant leur demande d’enregistrement, ont déclaré de façon concordante à l’administrateur responsable tous les déplacements de porcs entre elles au cours de cette période.
+
+- **(2)** Si, à la fin du dixième jour de tout mois compris dans la période de six mois pour laquelle les deux installations sont enregistrées comme étant liées, les exploitants de ces installations n’ont pas déclaré à l’administrateur responsable le nombre total de porcs qui ont été déplacés ainsi que le nombre total d’envoi entre celles-ci au cours du mois précédent, l’enregistrement est annulé pour le reste de la période.
+
+- **(3)** Pour l’application du présent article, deux installations sont considérées comme ayant des catégories sanitaires liées si, selon le cas :
+	- **a)** elles sont enregistrées comme étant liées en application du paragraphe (1) ou l’ont été à tout moment dans les six derniers mois;
+	- **b)** la catégorie sanitaire de l’une des deux installations a été considérée comme étant liée, en vertu du présent article, à celui d’une autre installation de catégorie sanitaire à tout moment dans les six derniers mois.
+> DORS/2014-23, art. 4.
 
 
 
@@ -3032,10 +3072,16 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **174** 
 
-- **(1)** À la demande de l’exploitant d’une ferme, d’un ranch ou d’une salle d’encan, l’administrateur peut délivrer ou faire délivrer des étiquettes approuvées pour l’identification des animaux qui s’y trouvent.
+- **(1)** À la demande de l’exploitant d’une installation où sont gardés des animaux, l’administrateur responsable peut délivrer ou faire délivrer des étiquettes approuvées pour l’identification de ces animaux.
 
-- **(2)** À la demande d’un importateur d’animaux, l’administrateur peut délivrer ou faire délivrer des étiquettes approuvées pour les animaux à être importés.
-> DORS/2000-416, art. 1.
+- **(2)** À la demande de l’exploitant d’une installation où sont gardés des porcs, l’administrateur responsable peut attribuer ou faire attribuer à cette installation un numéro d’identification à appliquer, à la fois :
+	- **a)** par tatouage au marteau approuvé, aux porcs destinés à l’abattage;
+	- **b)** par un indicateur servant à l’identification des porcs destinés à l’exportation.
+
+- **(3)** À la demande d’un importateur d’animaux, l’administrateur peut délivrer ou faire délivrer des étiquettes approuvées pour les animaux à importer.
+
+- **(4)** L’exploitant d’une installation qui, conformément au paragraphe (2), demande un numéro d’identification à l’administrateur responsable, fournit à ce dernier ses nom, adresse et numéro de téléphone.
+> DORS/2000-416, art. 1; DORS/2014-23, art. 5.
 
 
 
@@ -3044,41 +3090,85 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Renseignements
 
 
-**174.1** Le distributeur ou l’organisme de gestion d’un système d’identification des animaux qui vend ou distribue des étiquettes approuvées communique à l’administrateur, dans les vingt-quatre heures suivant la vente ou la distribution, les renseignements suivants :
+**174.1** Le distributeur ou l’organisme de gestion d’un système d’identification des animaux qui vend ou distribue des étiquettes approuvées communique à l’administrateur responsable, dans les vingt-quatre heures suivant la vente ou la distribution, les renseignements suivants :
 - **a)** les nom, adresse et numéro de téléphone de la personne à qui les étiquettes approuvées ont été vendues ou distribuées;
 - **b)** la date de la vente ou de la distribution;
 - **c)** les numéros d’identification uniques des étiquettes approuvées vendues ou distribuées;
 - **d)** le nombre total d’étiquettes approuvées vendues ou distribuées.
-> DORS/2005-192, art. 2.
+> DORS/2005-192, art. 2; DORS/2014-23, art. 6.
 
 
 
 
 
-### Identification obligatoire
+### Exigences en matière d’identification
+> [DORS/2014-23, art. 7]
+
 
 
 **175** 
 
-- **(1)** Sauf disposition contraire de la présente partie, quiconque est propriétaire d’un animal ou d’une carcasse d’animal ou en a la possession, la garde ou la charge des soins veille à ce que l’animal ou la carcasse d’animal soit identifié à l’aide d’une étiquette approuvée apposée avant que l’animal ou la carcasse d’animal n’ait été retiré de sa ferme d’origine.
+- **(1)** Sauf disposition contraire de la présente partie, quiconque est propriétaire d’un bison, d’un bovin ou d’un ovin ou d’une carcasse de bison, de bovin ou d’ovin, ou en a la possession, la garde ou la charge des soins, veille à ce qu’il soit identifié à l’aide d’une étiquette approuvée apposée avant qu’il ne quitte l’installation.
 
 - **(1.1)** Quiconque appose ou fait apposer une étiquette approuvée sur un animal ou une carcasse d’animal doit veiller à ce qu’elle corresponde bien à l’espèce de l’animal en cause et soit apposée sur l’animal ou la carcasse pour lequel elle a été délivrée aux termes du paragraphe 174(1).
 
 - **(1.2)** Quiconque est propriétaire d’un animal ou d’une carcasse d’animal ou en a la possession, la garde ou la charge des soins veille à ce qu’une étiquette approuvée soit apposée à l’oreille de l’animal ou de la carcasse d’animal et à ce que le logo et le numéro soient visibles à l’avant.
 
-- **(2)** Sauf disposition contraire de la présente partie, quiconque est propriétaire d’un animal ou d’une carcasse d’animal ou en a la possession, la garde ou la charge des soins veille à ce que l’animal ou la carcasse d’animal porte en tout temps l’étiquette approuvée visée au paragraphe (1) après que l’animal ou la carcasse d’animal a été retiré de sa ferme d’origine.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 2; DORS/2005-192, art. 3.
+- **(2)** Sauf disposition contraire de la présente partie, quiconque est propriétaire d’un bison, d’un bovin ou d’un ovin ou d’une carcasse de bison, de bovin ou d’ovin, ou en a la possession, la garde ou la charge des soins, veille à ce qu’il porte en tout temps l’étiquette approuvée visée au paragraphe (1) après avoir quitté sa ferme d’origine.
+
+- **(3)** Quiconque est propriétaire d’un porc sur lequel une étiquette approuvée a été apposée, ou quiconque en a la possession, la garde ou la charge des soins, veille à ce qu’il porte celle-ci jusqu’à ce qu’il soit identifié de toute autre façon prévue par le présent règlement.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 2; DORS/2005-192, art. 3; DORS/2014-23, art. 8.
+
+
+
+
+**175.01** 
+
+- **(1)** Sauf disposition contraire du présent article, quiconque est propriétaire d’un porc ou en a la possession, la garde ou la charge des soins, veille à ce qu’il soit identifié à l’aide d’une étiquette approuvée avant qu’il ne quitte l’installation.
+
+- **(2)** Le paragraphe (1) ne s’applique pas au transport des porcs, à l’exception des porcs saillis, entre deux endroits non contigus dans une même ferme ou entre deux fermes si, à la fois :
+	- **a)** l’exploitant de l’installation d’expédition s’assure que les porcs transportés sont accompagnés des renseignements ci-après, présentés sous une forme pouvant être lue immédiatement par un inspecteur :
+		- **(i)** l’emplacement de l’installation d’expédition et celui de l’installation de réception,
+		- **(ii)** la date et l’heure où le véhicule transportant les porcs a quitté l’installation d’expédition,
+		- **(iii)** le nombre de porcs chargés dans le véhicule,
+		- **(iv)** le numéro d’identification figurant sur chaque étiquette approuvée apposée sur les porcs,
+		- **(v)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci;
+	- **b)** il communique ces renseignements à l’administrateur responsable dans les sept jours suivant l’expédition des porcs;
+	- **c)** l’exploitant de l’installation de réception communique à l’administrateur responsable, dans les sept jours suivant la réception des porcs, les renseignements suivants :
+		- **(i)** l’emplacement de l’installation d’expédition et celui de l’installation de réception,
+		- **(ii)** la date et l’heure où le véhicule transportant les porcs est arrivé à l’installation de réception,
+		- **(iii)** le nombre de porcs et de carcasses de porcs arrivés à l’installation de réception,
+		- **(iv)** le numéro d’identification figurant sur chaque étiquette approuvée apposée sur les porcs,
+		- **(v)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+
+- **(3)** Les alinéas (2)b) et c) ne s’appliquent pas si, au moment du transport, l’installation d’expédition et l’installation de réception étaient enregistrées comme étant liées conformément à l’article 172.1.
+
+- **(4)** L’obligation d’identifier les porcs ne s’applique pas lorsque le transport est effectué d’un endroit à un autre contiguë dans une même ferme.
+
+- **(5)** Si un porc est transporté directement d’une installation à un abattoir ou à un parc de rassemblement voué exclusivement à la garde des animaux avant leur transport à un abattoir, quiconque est propriétaire du porc ou en a la possession, la garde ou la charge des soins à l’installation d’expédition veille à ce qu’il soit identifié à l’aide d’une étiquette approuvée ou d’un tatouage au marteau approuvé avant qu’il ne quitte cette installation.
+
+- **(6)** L’exploitant d’un parc de rassemblement utilisé pour garder les porcs appose une étiquette approuvée sur ceux qui sont gardés pendant plus de quatre-vingt seize heures ou sur ceux qui sont transportés ailleurs qu’à un abattoir.
+
+- **(7)** Quiconque exporte un porc veille, avant l’exportation, à ce qu’il soit identifié par un indicateur approuvé par un pays importateur sur lequel figure un numéro d’identification fourni par l’administrateur responsable en vertu de l’alinéa 174(2)b).
+
+- **(8)** Quiconque est propriétaire de carcasses — ou parties de carcasse — de porcs qui sont transportées d’une installation vers une autre ou en a la possession, la garde ou la charge des soins, veille à ce qu’elles soient accompagnées des renseignements ci-après, présentés sous une forme pouvant être lue immédiatement par un inspecteur :
+	- **a)** l’emplacement de l’installation d’expédition et de l’installation de réception;
+	- **b)** la date et l’heure où le véhicule transportant les carcasses — ou parties de carcasse — a quitté l’installation d’expédition;
+	- **c)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+> DORS/2014-23, art. 9.
 
 
 
 
 
-### Exigences en matière de registres
+### Exigences en matière de registre et de communication de renseignements
+> [DORS/2014-23, art. 10]
+
 
 
 **175.1** 
 
-- **(1)** Sous réserve du paragraphe (2), l’exploitant d’une ferme d’origine, ou d’une ferme ou d’un ranch qui n’est pas une ferme d’origine, tient, lorsqu’il en retire ou en fait retirer un ovin âgé d’au moins 18 mois, un registre contenant les renseignements suivants :
+- **(1)** Sous réserve du paragraphe (2), l’exploitant d’une installation qui en retire ou en fait retirer un ovin âgé d’au moins dix-huit mois tient un registre contenant les renseignements suivants :
 	- **a)** le numéro d’identification de l’étiquette approuvée qui est apposée sur l’ovin;
 	- **b)** la date du retrait;
 	- **c)** les motifs du retrait;
@@ -3086,13 +3176,62 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(2)** Le paragraphe (1) ne s’applique pas à l’ovin qui est transporté directement pour abattage à un établissement agréé aux termes de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md) ou d’une loi provinciale régissant l’inspection des carcasses ovines.
 
-- **(3)** L’exploitant d’une ferme d’origine, ou d’une ferme ou d’un ranch qui n’est pas une ferme d’origine, tient, lorsqu’il reçoit ou fait en sorte que soit reçu un ovin destiné à la reproduction, un registre contenant les renseignements suivants :
+- **(3)** L’exploitant d’une installation qui y reçoit ou y fait livrer un ovin sailli tient un registre contenant les renseignements suivants :
 	- **a)** le numéro d’identification de l’étiquette approuvée apposée sur l’ovin;
 	- **b)** la date de réception de l’ovin;
-	- **c)** le nom et l’adresse du propriétaire ou de la personne qui avait la possession, la garde ou la charge des soins de l’ovin à la ferme ou au ranch duquel celui-ci a été retiré.
+	- **c)** le nom et l’adresse du propriétaire ou de la personne qui avait la possession, la garde ou la charge des soins de l’ovin dans l’installation d’où il a été retiré.
 
 - **(4)** Quiconque tient un registre en application du présent article le conserve pour une période d’au moins cinq ans.
-> DORS/2003-409, art. 3; DORS/2005-192, art. 4(A).
+> DORS/2003-409, art. 3; DORS/2005-192, art. 4(A); DORS/2014-23, art. 11.
+
+
+
+
+**175.2** 
+
+- **(1)** Sauf disposition contraire de la présente partie, lorsqu’un porc est transporté d’une installation à une autre, l’exploitant de l’installation d’expédition et celui de l’installation de réception communiquent à l’administrateur responsable, dans les sept jours suivant l’expédition et la réception, respectivement, les renseignements suivants :
+	- **a)** l’emplacement de l’installation d’expédition et celui de l’installation de réception;
+	- **b)** s’agissant de l’exploitant de l’installation d’expédition, la date et l’heure où le véhicule de chargement a quitté l’installation d’expédition et, s’agissant de l’exploitant de l’installation de réception, celles où ce véhicule est arrivé à l’installation de réception;
+	- **c)** s’agissant de l’exploitant de l’installation d’expédition, le nombre de porcs chargés dans le véhicule et, s’agissant de l’exploitant de l’installation de réception, le nombre de porcs et de carcasses de porcs arrivés à l’installation de réception;
+	- **d)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+
+- **(2)** L’obligation de communiquer des renseignements à l’administrateur responsable ou celle de tenir un registre des déplacements des porcs ne s’applique pas lorsque le transport est effectué d’un endroit à un autre endroit contiguë dans une même ferme.
+
+- **(3)** L’exploitant de toute installation où l’on appose une étiquette approuvée ou un tatouage au marteau approuvé sur un porc communique à l’administrateur responsable dans les sept jours suivant l’expédition, les renseignements suivants :
+	- **a)** l’emplacement de l’installation d’expédition et celui de réception;
+	- **b)** la date et l’heure où le véhicule de chargement a quitté cette installation;
+	- **c)** le numéro d’identification figurant sur chaque étiquette approuvée ou sur chaque tatouage au marteau approuvé apposé sur les porcs;
+	- **d)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+
+- **(4)** Si les porcs sont transportés d’une installation à un abattoir, l’exploitant de l’installation d’expédition et celui de l’abattoir communiquent à l’administrateur responsable, dans les sept jours suivant l’expédition et la réception, respectivement, les renseignements suivants :
+	- **a)** l’emplacement de l’installation d’expédition et celui de l’abattoir;
+	- **b)** s’agissant de l’exploitant de l’installation d’expédition, la date et l’heure où le véhicule de chargement a quitté cette installation et, s’agissant de l’exploitant de l’abattoir, celles où ce véhicule est arrivé à l’abattoir;
+	- **c)** s’agissant de l’exploitant de l’installation d’expédition, le nombre de porcs chargés dans le véhicule et, s’agissant de l’exploitant de l’abattoir, le nombre de porcs et de carcasses de porcs arrivés à l’abattoir;
+	- **d)** s’agissant de l’opérateur d’un abattoir, le numéro d’identification figurant sur chaque étiquette approuvée ou sur chaque tatouage au marteau approuvé apposé sur les porcs;
+	- **e)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+
+- **(5)** Lorsqu’une carcasse de porc ou une partie de carcasse de porc est transportée d’une installation à une autre, l’exploitant de l’installation d’expédition et celui de l’installation de réception communiquent à l’administrateur responsable, dans les sept jours suivant l’expédition et la réception, respectivement, les renseignements suivants :
+	- **a)** l’emplacement de l’installation d’expédition et le nom de l’exploitant de l’installation de réception ou l’emplacement de celle-ci;
+	- **b)** s’agissant de l’exploitant de l’installation d’expédition, la date où le véhicule de chargement a quitté l’installation d’expédition et, s’agissant de l’exploitant de l’installation de réception, la date où ce véhicule est arrivé à cette installation;
+	- **c)** s’agissant de l’exploitant de l’installation de réception, le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+> DORS/2014-23, art. 12.
+
+
+
+
+**175.3** Quiconque est tenu, en application de la présente partie, de communiquer des renseignements relatifs à un porc, à une carcasse de porc ou à une partie de carcasse de porc conserve un registre de ces renseignements pendant une période de cinq ans.
+> DORS/2014-23, art. 12.
+
+
+
+
+**175.4** Dans le cas du transport de porcs visé au paragraphe 175.01(2) entre deux installations qui sont enregistrées comme étant liées, l’exploitant de l’installation d’expédition et l’exploitant de l’installation de réception doivent conserver, pour une période de cinq ans après le départ des porcs, un registre contenant les renseignements suivants :
+- **a)** l’emplacement de l’installation d’expédition et celui de l’installation de réception;
+- **b)** s’agissant de l’exploitant de l’installation d’expédition, la date et l’heure où le véhicule de chargement a quitté l’installation d’expédition et, s’agissant de l’exploitant de l’installation de réception, celles où ce véhicule est arrivé à cette installation;
+- **c)** s’agissant de l’exploitant de l’installation d’expédition, le nombre de porcs chargés dans le véhicule et, s’agissant de l’exploitant de l’installation de réception, le nombre de porcs et de carcasses de porcs arrivés à cette installation;
+- **d)** le numéro d’identification figurant sur chaque étiquette approuvée apposée sur les porcs;
+- **e)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+> DORS/2014-23, art. 12.
 
 
 
@@ -3101,28 +3240,53 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Interdictions
 
 
-**176** Sous réserve de l’article 183, nul ne peut retirer ou faire retirer un animal ou une carcasse d’animal de sa ferme d’origine ou d’une ferme ou d’un ranch autre que sa ferme d’origine, à moins que l’animal ou la carcasse d’animal ne porte une étiquette approuvée, délivrée aux termes du paragraphe 174(1) à l’exploitant de la ferme ou du ranch où l’étiquette approuvée a été apposée sur l’animal ou la carcasse d’animal.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 4; DORS/2005-192, art. 5.
+**176** Sous réserve de l’article 183, nul ne peut retirer ou faire retirer un bison, un bovin ou un ovin, ou une carcasse de bison, de bovin ou d’ovin d’une installation à moins que celui-ci ne porte une étiquette approuvée apposée conformément à l’article 175.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 4; DORS/2005-192, art. 5; DORS/2014-23, art. 13.
+
+
+
+
+**176.1** Nul ne peut retirer ou faire retirer un porc de l’installation où il est gardé, à moins que celui-ci ne porte une étiquette approuvée ou un tatouage au marteau approuvé conformément à l’article 175.01 ou qu’il ne soit identifié autrement en conformité avec cet article.
+> DORS/2014-23, art. 13.
 
 
 
 
 **177** 
 
-- **(1)** Sous réserve de l’article 183 et du paragraphe 184(2), nul ne peut transporter ou faire transporter un animal ou une carcasse d’animal qui ne porte pas une étiquette approuvée.
+- **(1)** Sous réserve de l’article 183 et du paragraphe 184(2), nul ne peut transporter ou faire transporter un bison, un bovin ou un ovin, ou une carcasse de bison, de bovin ou d’ovin qui ne porte pas d’étiquette approuvée.
 
-- **(2)** Sous réserve de l’article 183 et du paragraphe 184(2), nul ne peut réceptionner ou faire réceptionner un animal ou une carcasse d’animal qui ne porte pas une étiquette approuvée.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 5.
+- **(2)** Sous réserve de l’article 183 et du paragraphe 184(2), nul ne peut recevoir ou faire livrer un bison, un bovin ou un ovin, ou une carcasse de bison, de bovin ou d’ovin qui ne porte pas d’étiquette approuvée.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 5; DORS/2014-23, art. 13.
+
+
+
+
+**177.1** 
+
+- **(1)** Sous réserve du paragraphe 184(2), nul ne peut transporter, faire transporter, recevoir ou faire livrer un porc, à moins que celui-ci ne porte une étiquette approuvée ou un tatouage au marteau approuvé conformément à l’article 175.01 ou qu’il ne soit identifié autrement en conformité avec cet article.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la réception de porcs qui sont transportés conformément au paragraphe 175.01(2) si, selon le cas :
+	- **a)** au moment du transport, l’installation d’expédition et celle de réception sont enregistrées comme étant liées;
+	- **b)** l’exploitant de l’installation de réception communique à l’administrateur responsable, dans les sept jours suivant la réception des porcs, les renseignements suivants :
+		- **(i)** l’emplacement de l’installation d’expédition et celui de l’installation de réception,
+		- **(ii)** la date et l’heure où le véhicule de chargement est arrivé à l’installation de réception,
+		- **(iii)** le nombre de porcs et de carcasses de porcs arrivés à l’installation de réception,
+		- **(iv)** le numéro d’identification figurant sur chaque étiquette approuvée apposée sur les porcs,
+		- **(v)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+> DORS/2014-23, art. 13.
 
 
 
 
 **178** 
 
-- **(1)** Sous réserve de l’article 183, nul ne peut apposer ou faire apposer une étiquette approuvée délivrée aux termes du paragraphe 174(1) sur un animal ou une carcasse qui ne se trouve pas à la ferme, au ranch ou à la salle d’encan pour lequel l’étiquette a été délivrée.
+- **(1)** Sous réserve de l’article 183, nul ne peut apposer ou faire apposer une étiquette approuvée délivrée aux termes du paragraphe 174(1) sur un animal ou une carcasse d’animal qui ne se trouve pas dans l’installation pour lequel l’étiquette a été délivrée.
+
+- **(1.1)** Nul ne peut apposer ou faire apposer sur un porc un tatouage au marteau approuvé, ou tout autre indicateur nécessaire à l’exportation, sur lequel figure un numéro d’identification attribué par un administrateur responsable à une installation, à moins que le porc ne se trouve dans cette installation.
 
 - **(2)** Nul ne peut apposer ou faire apposer une étiquette approuvée délivrée à un importateur aux termes du paragraphe 174(2) sur un animal qui n’a pas été importé par cette personne.
-> DORS/2000-416, art. 1.
+> DORS/2000-416, art. 1; DORS/2014-23, art. 14.
 
 
 
@@ -3135,6 +3299,12 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **180** Nul ne peut apposer ou faire apposer sur un animal ou une carcasse d’animal l’étiquette approuvée d’un autre animal ou d’une autre carcasse.
 > DORS/2000-416, art. 1.
+
+
+
+
+**180.1** Nul ne peut apposer ou faire apposer une étiquette approuvée sur un animal ou une carcasse d’animal qui n’est pas visé par la définition de ***animal*** à l’article 172.
+> DORS/2014-23, art. 15.
 
 
 
@@ -3159,38 +3329,35 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **183** 
 
-- **(1)** Sous réserve du paragraphe (5), le bison ou le bovin ne portant pas d’étiquette approuvée peut être déplacé de sa ferme d’origine à une installation pour qu’une telle étiquette y soit apposée, si les conditions suivantes sont réunies :
-	- **a)** la personne chargée de la gestion de l’installation a préalablement transmis à l’administrateur une déclaration portant les nom et adresse de l’installation ainsi qu’un engagement de sa part de se conformer aux alinéas c) à e);
-	- **b)** l’exploitant de la ferme d’origine transmet, avec le bison ou le bovin déplacé, l’étiquette approuvée qui lui a été délivrée aux termes du paragraphe 174(1) ou a pris des dispositions auprès de la personne chargée de la gestion de l’installation d’étiquetage pour que les étiquettes approuvées soient apposées sur les lieux de l’installation;
-	- **c)** le bison ou le bovin n’entre pas en contact avec des animaux qui appartiennent à une autre personne et qui ne portent pas d’étiquette approuvée;
-	- **d)** l’étiquette approuvée visée à l’alinéa b) est apposée sur le bison ou sur le bovin dès la réception de l’animal à l’installation;
-	- **e)** la personne chargée de la gestion de l’installation tient un registre, qu’elle fournit à l’administrateur à sa demande, contenant suffisamment de renseignements pour que l’origine du bison ou du bovin puisse être établie, notamment les renseignements suivants :
-		- **(i)** les nom et adresse du propriétaire de l’animal ou de la personne qui en a la possession, la garde ou la charge des soins au moment où il est amené à l’installation,
-		- **(ii)** la date où l’animal est amené à l’installation,
-		- **(iii)** le numéro de l’étiquette approuvée apposée sur l’animal ainsi que la date d’apposition.
+- **(1)** Le bison ou le bovin ne portant pas d’étiquette approuvée peut être transporté de sa ferme d’origine à une installation pour qu’une telle étiquette lui soit apposée, si les conditions suivantes sont réunies :
+	- **a)** le nom et l’adresse de l’installation figurent sur la liste des installations d’étiquetage autorisées par l’administrateur responsable et qui est affichée sur son site Web;
+	- **b)** l’exploitant de la ferme d’origine transmettra, avec le bison ou le bovin transporté, une étiquette approuvée délivrée à cette ferme en vertu du paragraphe 174(1), ou prendra au préalable avec le gestionnaire de l’installation d’étiquetage des arrangements pour qu’elle soit délivrée et apposée sur le bison ou le bovin à l’installation.
 
-- **(2)** La personne chargée de la gestion d’une installation d’étiquetage appose une étiquette approuvée sur tous les bisons et les bovins qui y sont transportés et qui n’en portent pas déjà une.
+- **(2)** La personne chargée de la gestion de l’installation d’étiquetage :
+	- **a)** veille à ce que le bison ou le bovin ne se mêle pas aux animaux appartenant à une autre personne et ne portant pas d’étiquette approuvée;
+	- **b)** veille à ce que l’étiquette approuvée soit apposée sur le bison ou le bovin dès son arrivée à l’installation;
+	- **c)** tient un registre — qu’elle fournit à l’administrateur responsable sur demande — contenant suffisamment de renseignements pour que puisse être établie l’origine de tout bison ou bovin reçu à l’installation, notamment :
+		- **(i)** les nom et adresse du propriétaire de l’animal ou de la personne qui en a la possession, la garde ou la charge des soins avant qu’il ne soit transporté à l’installation,
+		- **(ii)** la date où l’animal est arrivé à l’installation,
+		- **(iii)** le numéro d’identification de l’étiquette approuvée apposée sur l’animal ainsi que la date où elle a été apposée.
 
-- **(3)** Toute personne qui s’engage aux termes de l’alinéa (1)a) à se conformer aux exigences des alinéas (1)c) à e) doit se conformer à ces exigences.
+- **(3)** Sur demande de la personne chargée de la gestion d’une installation, l’administrateur responsable inscrit le nom de cette installation sur la liste des installations d’étiquetage autorisées si, à la fois la personne déclare par écrit :
+	- **a)** qu’elle comprend les exigences prévues au paragraphe (2);
+	- **b)** que l’installation est adéquatement équipée pour permettre l’apposition d’une étiquette approuvée sans risque tant pour le bison ou le bovin que pour le personnel de l’installation.
 
-- **(4)** [Abrogé, DORS/2005-192, art. 9]
+- **(4)** Lorsque la personne chargée de la gestion d’une installation d’étiquetage ne respecte pas les conditions prévues aux paragraphes (2) ou (3), l’administrateur responsable retire de la liste les nom et adresse de l’installation visée si, à la fois :
+	- **a)** la personne a reçu de l’administrateur responsable un avis de retrait précisant :
+		- **(i)** la contravention qui lui est reprochée,
+		- **(ii)** le délai qui lui est imparti pour corriger la situation;
+	- **b)** elle n’a pas corrigé la situation dans le délai précisé dans l’avis;
+	- **c)** elle a eu la possibilité de se faire entendre relativement au retrait.
 
-- **(5)** Le ministre peut ordonner à quiconque ne se conforme pas au paragraphe (3), de cesser de recevoir des bisons ou des bovins à son installation en vue d’apposer sur eux une étiquette approuvée.
+- **(5)** L’administrateur responsable qui retire le nom et l’adresse d’une installation de la liste des installations d’étiquetage autorisées doit, sans délai :
+	- **a)** en aviser la personne chargée de la gestion de cette installation;
+	- **b)** afficher l’avis de retrait sur son site Web.
 
-- **(6)** [Abrogé, DORS/2005-192, art. 9]
-
-- **(7)** L’ordre donné en vertu du paragraphe (5) reste en vigueur durant la période qui y est indiquée.
-
-- **(8)** Toute personne qui reçoit un ordre en vertu du paragraphe (5) doit s’y conformer.
-
-- **(9)** Le ministre ne donne un ordre en vertu du paragraphe (5) que si les conditions suivantes sont réunies :
-	- **a)** un avis, contenant les renseignements suivants, a été remis à la personne en cause :
-		- **(i)** une déclaration portant que le ministre se propose de donner un ordre,
-		- **(ii)** l’exigence à laquelle la personne ne s’est pas conformée;
-	- **b)** la personne a eu la possibilité de se faire entendre au sujet des faits reprochés avant l’expiration du délai indiqué dans l’avis.
-
-- **(10)** Le ministre fait publier l’avis dans une publication à grand tirage de la localité où est située l’installation visée au paragraphe (1).
-> DORS/2000-416, art. 1; DORS/2003-409, art. 6; DORS/2005-192, art. 9.
+- **(6)** Si le nom et l’adresse d’une installation ont été retirés de la liste des installations d’étiquetage autorisées, la personne chargée de la gestion de cette installation peut faire une nouvelle demande d’inscription au titre du paragraphe (3).
+> DORS/2000-416, art. 1; DORS/2003-409, art. 6; DORS/2005-192, art. 9; DORS/2014-23, art. 16.
 
 
 
@@ -3203,20 +3370,20 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **184** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), si un animal ne porte pas une étiquette approuvée, porte une étiquette approuvée qui a été révoquée ou perd une étiquette approuvée, la personne qui en est le propriétaire ou qui en a la possession, la garde ou la charge des soins lui appose immédiatement une nouvelle étiquette approuvée.
+- **(1)** Sous réserve des paragraphes (2) et (3), si un animal qui doit porter une étiquette approuvée la perd, en porte une qui a été révoquée ou n’en porte pas, la personne qui est propriétaire de l’animal ou en a la possession, la garde ou la charge des soins lui appose immédiatement une nouvelle étiquette approuvée.
 
-- **(2)** Sous réserve du paragraphe (3), l’animal qui perd son étiquette approuvée au cours du transport peut continuer à être transporté jusqu’au point de déchargement suivant et peut être réceptionné à cet endroit, seulement si une nouvelle étiquette approuvée lui est apposée immédiatement après sa réception.
+- **(2)** Sous réserve du paragraphe (3), l’animal qui perd son étiquette approuvée au cours du transport continue à être transporté jusqu’à l’installation suivante et peut y être réceptionné seulement si une nouvelle étiquette approuvée lui est apposée dès sa réception.
 
 - **(3)** L’animal qui perd son étiquette approuvée au cours du transport vers un abattoir n’a pas à être réétiqueté si les conditions suivantes sont réunies :
 	- **a)** l’animal est abattu à cet abattoir;
 	- **b)** le responsable de l’abattoir tient un registre contenant suffisamment de renseignements pour que l’origine de l’animal puisse être établie, notamment les renseignements suivants, s’il les connaît :
 		- **(i)** le numéro de l’étiquette approuvée qui est perdue et, dans le cas où plus d’une étiquette approuvée a été apposée sur l’animal depuis sa naissance, le numéro de chacune d’entre elles,
 		- **(ii)** la date où l’animal est arrivé à l’abattoir ainsi que les nom et adresse de son propriétaire ou de la personne qui en avait la garde, la possession ou la charge des soins à cette date,
-		- **(iii)** l’identification du véhicule ayant servi au transport de l’animal jusqu’à l’abattoir;
-	- **c)** dans le cas d’un bison ou d’un bovin, le responsable de l’abattoir communique à l’administrateur, dans les trente jours suivant l’abattage, les renseignements visés à l’alinéa b).
+		- **(iii)** le numéro d’immatriculation du véhicule ayant servi au transport jusqu’à l’abattoir ou, à défaut, toute autre forme d’identification de celui-ci;
+	- **c)** dans le cas d’un bison ou d’un bovin, le responsable de l’abattoir communique à l’administrateur responsable, dans les trente jours suivant l’abattage, les renseignements visés à l’alinéa b).
 
-- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (3)b) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11; DORS/2010-137, art. 3; DORS/2012-286, art. 64(F).
+- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (3)b) les communique à l’administrateur responsable dans les trente jours suivant leur réception.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11; DORS/2010-137, art. 3; DORS/2012-286, art. 64(F); DORS/2014-23, art. 17.
 
 
 
@@ -3227,17 +3394,17 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **a)** le numéro de la nouvelle étiquette approuvée;
 	- **b)** suffisamment de renseignements pour que l’origine de l’animal ou de la carcasse puisse être établie, notamment les renseignements suivants, s’il les connaît :
 		- **(i)** le numéro de l’étiquette approuvée qui est perdue et, dans le cas où plus d’une étiquette approuvée a été apposée sur l’animal depuis sa naissance ou sur la carcasse, le numéro de chacune d’entre elles,
-		- **(ii)** la date où l’animal ou la carcasse a été déchargé à l’endroit où la nouvelle étiquette a été apposée et les nom et adresse du propriétaire de l’animal ou de la carcasse ou de la personne qui en avait la garde, la possession ou la charge des soins à cette date,
-		- **(iii)** l’identification du véhicule ayant servi au transport de l’animal ou de la carcasse jusqu’à l’endroit où la nouvelle étiquette approuvée a été apposée.
+		- **(ii)** la date où l’animal ou la carcasse a été déchargé à l’installation où la nouvelle étiquette a été apposée et les nom et adresse du propriétaire de l’animal ou de la carcasse ou de la personne qui en avait la garde, la possession ou la charge des soins à cette date,
+		- **(iii)** le numéro d’immatriculation du véhicule ayant servi au transport de l’animal ou de la carcasse jusqu’à l’installation où la nouvelle étiquette approuvée a été apposée ou, à défaut, toute autre forme d’identification de celui-ci.
 
 - **(2)** Le paragraphe (1) ne s’applique pas si la nouvelle étiquette approuvée est apposée :
 	- **a)** sur un animal avant qu’il ne quitte sa ferme d’origine;
 	- **b)** sur une carcasse avant qu’elle ne soit déplacée de la ferme d’origine de l’animal dont elle provient.
 
-- **(3)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui porte déjà une étiquette approuvée ou une étiquette approuvée qui a été révoquée communique à l’administrateur, dans les trente jours suivant l’apposition, le numéro de la nouvelle étiquette approuvée de même que le numéro de l’étiquette que l’animal ou la carcasse portait.
+- **(3)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui porte déjà une étiquette approuvée ou une étiquette approuvée qui a été révoquée communique à l’administrateur responsable, dans les trente jours suivant l’apposition, le numéro de la nouvelle étiquette approuvée de même que le numéro de l’étiquette que l’animal ou la carcasse portait.
 
-- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés au paragraphe (3) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 12; DORS/2010-137, art. 4.
+- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés au paragraphe (3) les communique à l’administrateur responsable dans les trente jours suivant leur réception.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 12; DORS/2010-137, art. 4; DORS/2014-23, art. 18.
 
 
 
@@ -3250,34 +3417,34 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** Si un animal portant une étiquette approuvée est abattu dans un abattoir ou y meurt, le responsable de l’abattoir :
 	- **a)** peut lui enlever toute étiquette;
-	- **b)** doit, dans le cas d’un bison ou d’un bovin, signaler la mort de l’animal et le numéro de l’étiquette approuvée à l’administrateur dans les trente jours suivant la mort.
+	- **b)** doit, dans le cas d’un bison ou d’un bovin, signaler la mort de l’animal et communiquer le numéro de l’étiquette approuvée à l’administrateur responsable dans les trente jours suivant sa mort.
 
 - **(2)** L’exploitant d’un abattoir où un animal portant une étiquette approuvée est abattu doit pouvoir identifier la carcasse de l’animal dans l’abattoir jusqu’à ce que celle-ci soit désignée comme étant comestible ou jusqu’à ce qu’elle soit condamnée.
 
-- **(3)** L’exploitant d’une ferme, d’un ranch ou d’une salle d’encan où un animal portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée meurt, par abattage ou autrement, doit consigner dans un registre la date de la mort de l’animal et le numéro de l’étiquette.
+- **(3)** L’exploitant d’une installation où un animal portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée meurt par abattage ou autrement doit consigner dans un registre la date de la mort de l’animal et le numéro d’identification figurant sur l’étiquette.
 
-- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (1)b) les communique à l’administrateur dans les trente jours suivant leur réception.
+- **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (1)b) les communique à l’administrateur responsable dans les trente jours suivant leur réception.
 
-- **(5)** Pour l’application du présent article, ***abattoir*** s’entend notamment d’un abattoir mobile.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 8; DORS/2005-192, art. 13; DORS/2010-137, art. 5.
+- **(5)** [Abrogé, DORS/2014-23, art. 19]
+> DORS/2000-416, art. 1; DORS/2003-409, art. 8; DORS/2005-192, art. 13; DORS/2010-137, art. 5; DORS/2014-23, art. 19.
 
 
 
 
 **187** 
 
-- **(1)** Quiconque, y compris l’exploitant d’une entreprise d’équarrissage, le représentant d’un laboratoire d’examen post mortem et un vétérinaire, dispose d’une carcasse portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée :
+- **(1)** Quiconque, notamment l’exploitant d’une entreprise d’équarrissage ou d’un service de récupération de cadavres d’animaux, le représentant d’un laboratoire d’examen *post mortem* ou un vétérinaire, dispose d’une carcasse de bison, de bovin ou d’ovin portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée :
 	- **a)** peut lui enlever son étiquette;
-	- **b)** doit signaler le numéro de l’étiquette à l’administrateur dans les trente jours après avoir disposé de la carcasse.
+	- **b)** communique le numéro d’identification figurant sur l’étiquette à l’administrateur responsable au plus tard trente jours après avoir disposé de la carcasse.
 
-- **(2)** Quiconque, y compris l’exploitant d’une entreprise d’équarrissage, le représentant d’un laboratoire d’examen *post mortem* et un vétérinaire, dispose d’une carcasse ne portant pas d’étiquette approuvée, ailleurs que dans la ferme ou le ranch où l’animal est mort, doit :
-	- **a)** recueillir suffisamment de renseignements sur l’animal ou la carcasse pour que l’origine de l’animal puisse être établie, notamment les renseignements suivants, s’il les connaît :
-		- **(i)** la ferme, le ranch ou l’autre endroit duquel la carcasse a été enlevée ainsi que la date d’enlèvement,
+- **(2)** Quiconque, notamment l’exploitant d’une entreprise d’équarrissage ou d’un service de récupération de cadavres d’animaux, le représentant d’un laboratoire d’examen *post mortem* et un vétérinaire, dispose d’une carcasse de bison, de bovin ou d’ovin ne portant pas d’étiquette approuvée ailleurs que dans la ferme d’origine où l’animal est mort doit :
+	- **a)** recueillir suffisamment de renseignements sur la carcasse pour que son origine puisse être établie, notamment les renseignements suivants, s’il les connaît :
+		- **(i)** l’installation de laquelle la carcasse a été enlevée ainsi que la date de l’enlèvement,
 		- **(ii)** les nom et adresse du propriétaire de la carcasse ou de la personne qui en avait la possession, la garde ou la charge des soins au moment de l’enlèvement;
-	- **b)** communiquer ces renseignements à l’administrateur dans les trente jours après avoir disposé de la carcasse.
+	- **b)** communique ces renseignements à l’administrateur responsable au plus tard trente jours après avoir disposé de la carcasse.
 
-- **(3)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés aux alinéas (1)b) ou (2)a) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 14; DORS/2010-137, art. 6.
+- **(3)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés aux alinéas (1)b) ou (2)a) les communique à l’administrateur responsable dans les trente jours suivant leur réception.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 14; DORS/2010-137, art. 6; DORS/2014-23, art. 20.
 
 
 
@@ -3286,8 +3453,17 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Exportation
 
 
-**188** Quiconque exporte un bison ou un bovin veille à ce que le numéro de l’étiquette approuvée soit communiqué à l’administrateur dans les trente jours suivant l’exportation.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 9; DORS/2005-192, art. 15.
+**188** 
+
+- **(1)** Quiconque exporte un bison ou un bovin communique le numéro d’identification figurant sur l’étiquette approuvée à l’administrateur responsable dans les trente jours suivant l’exportation.
+
+- **(2)** Quiconque exporte des porcs communique à l’administrateur responsable, dans les sept jours suivant l’exportation, les renseignements suivants :
+	- **a)** l’emplacement des dernières installations où les porcs étaient gardés avant d’être exportés ainsi que leur nombre pour chacune de ces installations;
+	- **b)** les lieux où les porcs ont été exportés ainsi que leur nombre pour chacun de ces lieux;
+	- **c)** les dates de chargement des porcs dans le véhicule qui a servi à leur exportation ainsi que le nombre de porcs chargés à chacune de ces dates;
+	- **d)** sauf dans le cas des porcs reproducteurs réformés qui sont exportés pour abattage immédiat et qui proviennent d’un parc de rassemblement voué exclusivement à la garde d’animaux avant leur transport à un abattoir, les numéros d’identification figurant sur l’indicateur approuvé par un pays importateur apposé sur les porcs et qui identifie la dernière installation où ils ont été gardés avant d’être exportés ainsi que, pour chaque numéro d’identification, le nombre de porcs ayant ce numéro;
+	- **e)** le numéro d’immatriculation du véhicule ou, à défaut, toute autre forme d’identification de celui-ci.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 9; DORS/2005-192, art. 15; DORS/2014-23, art. 21.
 
 
 
@@ -3300,19 +3476,56 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** Quiconque importe un animal doit :
 	- **a)** apposer ou faire apposer une étiquette approuvée sur l’animal soit avant l’importation, soit dès que celui-ci arrive à sa première destination;
-	- **b)** communiquer à l’administrateur :
-		- **(i)** le numéro de l’étiquette approuvée,
-		- **(ii)** suffisamment de renseignements pour que l’origine de l’animal puisse être établie.
+	- **b)** s’il s’agit d’un bison, d’un bovin ou d’un ovin, communiquer à l’administrateur responsable :
+		- **(i)** le numéro d’identification de l’étiquette approuvée,
+		- **(ii)** suffisamment de renseignements pour que l’origine de l’animal puisse être établie;
+	- **c)** s’il s’agit d’un porc, communiquer à l’administrateur responsable :
+		- **(i)** l’emplacement de la dernière installation où le porc a été gardé avant d’être importé,
+		- **(ii)** l’emplacement où le porc a été importé,
+		- **(iii)** la date à laquelle le porc a été reçu,
+		- **(iv)** le numéro d’identification figurant sur l’étiquette approuvée,
+		- **(v)** le numéro d’immatriculation du véhicule qui a servi à l’importation ou, à défaut, toute autre forme d’identification de celui-ci.
 
-- **(2)** Les renseignements visés à l’alinéa (1)b) doivent être communiqués :
+- **(2)** Les renseignements visés aux alinéas (1)b) et c) doivent être communiqués :
 	- **a)** dans les soixante jours suivant l’importation, si l’animal importé est un bison;
 	- **b)** dans les trente jours suivant l’importation, si l’animal importé est un bovin;
-	- **c)** dans les sept jours suivant l’importation, si l’animal importé est un ovin.
+	- **c)** dans les sept jours suivant l’importation, si l’animal importé est un ovin;
+	- **d)** dans les sept jours suivant l’importation, si l’animal importé est un porc.
 
-- **(3)** Le présent article ne s’applique pas à un animal importé pour abattage immédiat.
+- **(3)** Les alinéas (1)a) et b) ne s’appliquent pas au bison, au bovin ou à l’ovin importé pour abattage immédiat.
 
-- **(4)** L’alinéa (1)a) et le sous-alinéa (1)b)(i) ne s’appliquent pas à un animal portant une étiquette officielle du pays d’origine dont l’administrateur constate qu’elle contient les mêmes renseignements que ceux exigés pour une étiquette approuvée.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 10; DORS/2005-192, art. 16(F).
+- **(4)** L’alinéa (1)a) ne s’applique pas à l’animal qui porte un indicateur d’un pays étranger si le ministre constate que cet indicateur répond aux critères prévus au paragraphe 173(2) et que son numéro d’identification peut être intégré et retrouvé dans une base de données de l’administrateur responsable.
+
+- **(5)** Pour l’application du paragraphe 175(3) et des articles 175.01, 175.1, 176 à 177.1, 179 à 181 et 186 à 188, si un animal importé porte un indicateur d’un pays étranger et que le ministre constate, d’une part, que cet indicateur répond aux critères prévus au paragraphe 173(2) et d’autre part, que le numéro d’identification qu’il porte peut être intégré et retrouvé dans une base de données de l’administrateur responsable, l’indicateur est réputé être une étiquette approuvée qui a été délivrée et apposée sur l’animal conformément à la présente partie.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 10; DORS/2005-192, art. 16(F); DORS/2014-23, art. 22.
+
+
+
+
+
+### Renseignements obtenus par l’administrateur responsable
+
+
+**189.1** L’administrateur responsable tient à jour la base de données ainsi que les registres obtenus sous le régime de la présente partie.
+> DORS/2014-23, art. 23.
+
+
+
+
+**189.2** 
+
+- **(1)** L’administrateur responsable qui obtient des renseignements sous le régime de la présente partie relativement à un animal ou à une carcasse d’animal qui se trouvait antérieurement dans une autre province dont il n’est pas l’administrateur responsable, les transmet sans délai à l’administrateur responsable de l’animal ou de la carcasse dans cette province.
+
+- **(2)** L’administrateur responsable peut donner accès aux renseignements qu’il obtient sous le régime de la présente partie à toute personne qui fournit un soutien relativement à la base de données à condition que cette personne consente par écrit à ne communiquer cette information à quiconque.
+
+- **(3)** Chaque administrateur responsable donne accès aux renseignements qu’il obtient sous le régime de la présente partie à l’Agence.
+
+- **(4)** Toute personne peut accéder aux renseignements obtenus par l’administrateur responsable sous le régime de la présente partie si l’Agence avise celui-ci que la communication est autorisée aux termes d’un accord ou d’un protocole d’entente qu’elle a conclu en vertu du paragraphe 14(1) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md).
+
+- **(5)** La personne qui cesse d’être l’administrateur responsable de tout ou partie d’un genre ou d’une espèce ou sous-espèce d’animaux se trouvant dans une province, doit :
+	- **a)** remettre à son remplaçant les renseignements qu’elle a obtenus sous le régime de la présente partie;
+	- **b)** lorsque son remplaçant lui confirme par écrit que tous les renseignements ont été transférés dans la base de données et dans les registres que ce dernier administre, supprimer définitivement les renseignements de la base de données et détruire les registres dont il était responsable, sauf s’il a reçu de toute personne à laquelle ces renseignements se rapportent le consentement exprès, libre et éclairé de les conserver.
+> DORS/2014-23, art. 23.
 
 
 
