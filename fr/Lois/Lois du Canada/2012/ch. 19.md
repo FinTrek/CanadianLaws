@@ -2659,7 +2659,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind60F0_hq_12911'>[*]</a></sup>**(2)** Les articles 434 à 439 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind60F0_hq_12911'><sup>*</sup></a>: [Note : Articles 434 à 439 non en vigueur.]<br />
+<a name='fn_Ind60F0_hq_12911'><sup>*</sup></a>: [Note : Articles 434 à 439 en vigueur le 1<sup>er</sup> juillet 2014, *voir* TR/2013-49.]<br />
 
 
 
