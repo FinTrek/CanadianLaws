@@ -28,44 +28,44 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***activité commerciale*** Tout acte isolé ou activité régulière qui revêt un caractère commercial, que la personne qui l’accomplit le fasse ou non dans le but de réaliser un profit, à l’exception de tout acte ou activité accompli à des fins d’observation de la loi, de sécurité publique, de protection du Canada, de conduite des affaires internationales ou de défense du Canada.
+***activité commerciale*** Tout acte isolé ou activité régulière qui revêt un caractère commercial, que la personne qui l’accomplit le fasse ou non dans le but de réaliser un profit, à l’exception de tout acte ou activité accompli à des fins d’observation de la loi, de sécurité publique, de protection du Canada, de conduite des affaires internationales ou de défense du Canada. (*commercial activity*)
 
-***adresse électronique*** Toute adresse utilisée relativement à la transmission d’un message électronique à l’un des comptes suivants :
+***adresse électronique*** Toute adresse utilisée relativement à la transmission d’un message électronique à l’un des comptes suivants :
 - **a)** un compte courriel;
 - **b)** un compte messagerie instantanée;
 - **c)** un compte téléphone;
-- **d)** tout autre compte similaire.
+- **d)** tout autre compte similaire. (*electronic address*)
 
-***Commissaire à la protection de la vie privée*** Le Commissaire à la protection de la vie privée nommé en application de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+***Commissaire à la protection de la vie privée*** Le Commissaire à la protection de la vie privée nommé en application de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*Privacy Commissioner*)
 
-***commissaire de la concurrence*** Le commissaire de la concurrence nommé en application du paragraphe 7(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md).
+***commissaire de la concurrence*** Le commissaire de la concurrence nommé en application du paragraphe 7(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md). (*Commissioner of Competition*)
 
-***Conseil*** Le Conseil de la radiodiffusion et des télécommunications canadiennes.
+***Conseil*** Le Conseil de la radiodiffusion et des télécommunications canadiennes. (*Commission*)
 
-***document*** S’entend au sens de l’article 487.011 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***document*** S’entend au sens de l’article 487.011 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*document*)
 
-***données*** Signes, signaux, symboles ou représentations de concepts qui sont préparés ou l’ont été de façon à pouvoir être utilisés dans un ordinateur.
+***données*** Signes, signaux, symboles ou représentations de concepts qui sont préparés ou l’ont été de façon à pouvoir être utilisés dans un ordinateur. (*data*)
 
-***données de transmission*** Données qui, à la fois :
+***données de transmission*** Données qui, à la fois :
 - **a)** concernent les fonctions de composition, de routage, d’adressage ou de signalisation en matière de télécommunication;
 - **b)** soit sont transmises pour identifier, activer ou configurer un appareil ou un dispositif, notamment un programme d’ordinateur, en vue d’établir ou de maintenir une communication, soit sont produites durant la création, la transmission ou la réception d’une communication et indiquent, ou visent à indiquer, le type, la direction, la date, l’heure, la durée, le volume, le point d’envoi, la destination ou le point d’arrivée de la communication;
-- **c)** ne révèlent pas la substance, le sens ou l’objet de la communication.
+- **c)** ne révèlent pas la substance, le sens ou l’objet de la communication. (*transmission data*)
 
-***installation de télécommunication*** Installation, appareil ou autre chose utilisé en matière de télécommunication ou pour toute opération directement liée aux télécommunications.
+***installation de télécommunication*** Installation, appareil ou autre chose utilisé en matière de télécommunication ou pour toute opération directement liée aux télécommunications. (*telecommunications facility*)
 
-***message électronique*** Message envoyé par tout moyen de télécommunication, notamment un message textuel, sonore, vocal ou visuel.
+***message électronique*** Message envoyé par tout moyen de télécommunication, notamment un message textuel, sonore, vocal ou visuel. (*electronic message*)
 
-***ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*computer system*)
 
-***personne*** Personne physique, société de personnes, personne morale, organisation, association, fiduciaire, exécuteur, liquidateur de la succession, administrateur, séquestre ou représentant légal.
+***personne*** Personne physique, société de personnes, personne morale, organisation, association, fiduciaire, exécuteur, liquidateur de la succession, administrateur, séquestre ou représentant légal. (*person*)
 
-***programme d’ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***programme d’ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*computer program*)
 
-***service de télécommunication*** Service — ou complément de service — fourni au moyen d’installations de télécommunication, que celles-ci et le matériel connexe appartiennent au télécommunicateur, soient loués par lui ou fassent l’objet d’un droit ou intérêt en sa faveur.
+***service de télécommunication*** Service — ou complément de service — fourni au moyen d’installations de télécommunication, que celles-ci et le matériel connexe appartiennent au télécommunicateur, soient loués par lui ou fassent l’objet d’un droit ou intérêt en sa faveur. (*telecommunications service*)
 
-***télécommunicateur*** Personne qui fournit des services de télécommunication, seule ou au titre de son appartenance à un groupe ou à une association.
+***télécommunicateur*** Personne qui fournit des services de télécommunication, seule ou au titre de son appartenance à un groupe ou à une association. (*telecommunications service provider*)
 
-***tribunal compétent*** La Cour fédérale ou la cour supérieure d’une province.
+***tribunal compétent*** La Cour fédérale ou la cour supérieure d’une province. (*court of competent jurisdiction*)
 
 **Message électronique commercial**
 
@@ -1449,6 +1449,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndA645_hq_10268'>[*]</a></sup>**91** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndA645_hq_10268'><sup>*</sup></a>: [Note : Paragraphes 12(1), (3) et (4), article 12.1 et paragraphes 12.2(1) et (3), édictés par l’article 83, articles 84 et 85, paragraphe 86(1) et article 87 en vigueur le 1<sup>er</sup> avril 2011, *voir* TR/2011-22.]<br />
+<a name='fn_IndA645_hq_10268'><sup>*</sup></a>: [Note : Paragraphes 12(1), (3) et (4), article 12.1 et paragraphes 12.2(1) et (3), édictés par l’article 83, articles 84 et 85, paragraphe 86(1) et article 87 en vigueur le 1<sup>er</sup> avril 2011, *voir* TR/2011-22; articles 1 à 7, 9 à 46, 52 à 54, 56 à 67 et 69 à 82, paragraphes 12(2) et 12.2(2), édictés par l’article 83, paragraphe 86(2), article 88 et paragraphe 89(1) en vigueur le 1<sup>er</sup> juillet 2014, article 8 en vigueur le 15 janvier 2015, *voir* TR/2013-127.]<br />
 
 
