@@ -310,8 +310,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Order in council**
 
-***21** This Act, except for section 20, comes into force on a day to be fixed by order of the Governor in Council.
+<sup><a href='#fn_IndF508_hq_13496'>[*]</a></sup>**21. ** This Act, except for section 20, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndF508_hq_13496'><sup>*</sup></a>: [Note: Act, except for section 20, not in force.]<br />
+<a name='fn_IndF508_hq_13496'><sup>*</sup></a>: [Note: Act, except for section 20, in force July 1, 2014, *see* SI/2014-51.]<br />
 
 
