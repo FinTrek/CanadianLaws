@@ -28,44 +28,44 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***commercial activity*** means any particular transaction, act or conduct or any regular course of conduct that is of a commercial character, whether or not the person who carries it out does so in the expectation of profit, other than any transaction, act or conduct that is carried out for the purposes of law enforcement, public safety, the protection of Canada, the conduct of international affairs or the defence of Canada.
+***commercial activity*** means any particular transaction, act or conduct or any regular course of conduct that is of a commercial character, whether or not the person who carries it out does so in the expectation of profit, other than any transaction, act or conduct that is carried out for the purposes of law enforcement, public safety, the protection of Canada, the conduct of international affairs or the defence of Canada. (*activité commerciale*)
 
-***Commission*** means the Canadian Radio-television and Telecommunications Commission.
+***Commission*** means the Canadian Radio-television and Telecommunications Commission. (*Conseil*)
 
-***Commissioner of Competition*** means the Commissioner of Competition appointed under subsection 7(1) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md).
+***Commissioner of Competition*** means the Commissioner of Competition appointed under subsection 7(1) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md). (*commissaire de la concurrence*)
 
-***computer program*** has the same meaning as in subsection 342.1(2) of the Criminal Code.
+***computer program*** has the same meaning as in subsection 342.1(2) of the Criminal Code. (*programme d’ordinateur*)
 
-***computer system*** has the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***computer system*** has the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*ordinateur*)
 
-***court of competent jurisdiction*** means the Federal Court or a superior court of a province.
+***court of competent jurisdiction*** means the Federal Court or a superior court of a province. (*tribunal compétent*)
 
-***data*** means signs, signals, symbols or concepts that are being prepared or have been prepared in a form suitable for use in a computer system.
+***data*** means signs, signals, symbols or concepts that are being prepared or have been prepared in a form suitable for use in a computer system. (*données*)
 
-***document*** has the same meaning as in section 487.011 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***document*** has the same meaning as in section 487.011 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*document*)
 
-***electronic address*** means an address used in connection with the transmission of an electronic message to
+***electronic address*** means an address used in connection with the transmission of an electronic message to
 - **(a)** an electronic mail account;
 - **(b)** an instant messaging account;
 - **(c)** a telephone account; or
-- **(d)** any similar account.
+- **(d)** any similar account. (*adresse électronique*)
 
-***electronic message*** means a message sent by any means of telecommunication, including a text, sound, voice or image message.
+***electronic message*** means a message sent by any means of telecommunication, including a text, sound, voice or image message. (*message électronique*)
 
-***person*** means an individual, partnership, corporation, organization, association, trustee, administrator, executor, liquidator of a succession, receiver or legal representative.
+***person*** means an individual, partnership, corporation, organization, association, trustee, administrator, executor, liquidator of a succession, receiver or legal representative. (*personne*)
 
-***Privacy Commissioner*** means the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+***Privacy Commissioner*** means the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*Commissaire à la protection de la vie privée*)
 
-***telecommunications facility*** means any facility, apparatus or other thing that is used for telecommunications or for any operation directly connected with telecommunications.
+***telecommunications facility*** means any facility, apparatus or other thing that is used for telecommunications or for any operation directly connected with telecommunications. (*installation de télécommunication*)
 
-***telecommunications service*** means a service, or a feature of a service, that is provided by means of telecommunications facilities, whether the telecommunications service provider owns, leases or has any other interest in or right respecting the telecommunications facilities and any related equipment used to provide the service.
+***telecommunications service*** means a service, or a feature of a service, that is provided by means of telecommunications facilities, whether the telecommunications service provider owns, leases or has any other interest in or right respecting the telecommunications facilities and any related equipment used to provide the service. (*service de télécommunication*)
 
-***telecommunications service provider*** means a person who, independently or as part of a group or association, provides telecommunications services.
+***telecommunications service provider*** means a person who, independently or as part of a group or association, provides telecommunications services. (*télécommunicateur*)
 
-***transmission data*** means data that 
+***transmission data*** means data that 
 - **(a)** relates to the telecommunications functions of dialling, routing, addressing or signalling;
 - **(b)** either is transmitted to identify, activate or configure an apparatus or device, including a computer program, in order to establish or maintain a communication, or is generated during the creation, transmission or reception of a communication and identifies or purports to identify the type, direction, date, time, duration, size, origin, destination or termination of the communication; and
-- **(c)** does not reveal the substance, meaning or purpose of the communication.
+- **(c)** does not reveal the substance, meaning or purpose of the communication. (*données de transmission*)
 
 **Meaning of commercial electronic message**
 
@@ -1465,6 +1465,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndA780_hq_10269'>[*]</a></sup>**91** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA780_hq_10269'><sup>*</sup></a>: [Note: Subsections 12(1), (3) and (4), section 12.1 and subsections 12.2(1) and (3), as enacted by section 83, sections 84 and 85, subsection 86(1) and section 87 in force April 1, 2011, *see* SI/2011-22.]<br />
+<a name='fn_IndA780_hq_10269'><sup>*</sup></a>: [Note: Subsections 12(1), (3) and (4), section 12.1 and subsections 12.2(1) and (3), as enacted by section 83, sections 84 and 85, subsection 86(1) and section 87 in force April 1, 2011, *see* SI/2011-22; sections 1 to 7, 9 to 46, 52 to 54, 56 to 67 and 69 to 82, subsections 12(2) and 12.2(2), as enacted by section 83, subsection 86(2), section 88 and subsection 89(1) in force July 1, 2014, section 8 in force January 15, 2015, *see* SI/2013-127.]<br />
 
 
