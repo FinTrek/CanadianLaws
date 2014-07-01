@@ -309,6 +309,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***21** La présente loi, à l’exception de l’article 20, entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndB66_hq_13499'><sup>*</sup></a>: [Note : Loi, à l'exception de l'article 20, non en vigueur.]<br />
+<a name='fn_IndB66_hq_13499'><sup>*</sup></a>: [Note : Loi, à l'exception de l'article 20, en vigueur le 1<sup>er</sup> juillet 2014, *voir* TR/2014-51.]<br />
 
 
