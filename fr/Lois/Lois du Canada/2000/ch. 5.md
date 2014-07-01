@@ -238,6 +238,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Définitions**
+
+**7.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***adresse électronique*** Toute adresse utilisée relativement à l’un des comptes suivants :
+- **a)** un compte courriel;
+- **b)** un compte messagerie instantanée;
+- **c)** tout autre compte similaire. (*electronic address*)
+
+***ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*computer system*)
+
+***programme d’ordinateur*** S’entend au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*computer program*)
+
+***utiliser*** S’agissant d’un ordinateur ou d’un réseau informatique, le programmer, lui faire exécuter un programme, communiquer avec lui, y mettre en mémoire, ou en extraire, des données ou utiliser ses ressources de toute autre façon, notamment ses données et ses programmes. (*access*)
+
+**Collecte, utilisation et communication d’adresses électroniques**
+
+- **(2)** Les alinéas 7(1)a), c) et d) et (2)a) à c.1) et l’exception prévue à l’article 4.3 de l’annexe 1 ne s’appliquent pas :
+	- **a)** à la collecte de l’adresse électronique d’un individu effectuée à l’aide d’un programme d’ordinateur conçu ou mis en marché principalement pour produire ou rechercher des adresses électroniques et les recueillir;
+	- **b)** à l’utilisation d’une telle adresse recueillie à l’aide d’un programme d’ordinateur visé à l’alinéa a).
+
+**Collecte et utilisation de renseignements personnels**
+
+- **(3)** Les alinéas 7(1)a) à d) et (2)a) à c.1) et l’exception prévue à l’article 4.3 de l’annexe 1 ne s’appliquent pas :
+	- **a)** à la collecte de renseignements personnels, par tout moyen de télécommunication, dans le cas où l’organisation qui y procède le fait en utilisant ou faisant utiliser un ordinateur en contravention d’une loi fédérale;
+	- **b)** à l’utilisation de renseignements personnels dont la collecte est visée à l’alinéa a).
+> 2010, ch. 23, art. 82.
+
+
+
+
+
 **Demande écrite**
 
 **8** 
@@ -400,7 +434,9 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 	- **b)** la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par le droit fédéral — à l’exception de la présente partie — ou le droit provincial;
 	- **c)** la plainte n’a pas été déposée dans un délai raisonnable après que son objet a pris naissance.
 
-- **(2)** [Non en vigueur]
+**Exception**
+
+- **(2)** Malgré le paragraphe (1), le commissaire n’a pas à examiner tout acte allégué dans la plainte qui, à son avis, constituerait, s’il était prouvé, une contravention à l’un des articles 6 à 9 de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md) ou à l’article 52.01 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ou un comportement susceptible d’examen visé à l’article 74.011 de cette loi.
 
 **Avis aux parties**
 
@@ -408,7 +444,7 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Raisons impérieuses**
 
-- **(4)** Le commissaire peut réexaminer sa décision de ne pas examiner la plainte aux termes du paragraphe (1) si le plaignant le convainc qu’il existe des raisons impérieuses pour ce faire.
+- **(4)** Le commissaire peut réexaminer sa décision de ne pas examiner la plainte aux termes du paragraphe (1) si le plaignant le convainc qu’il existe des raisons impérieuses pour ce faire.
 > 2000, ch. 5, art. 12; 2010, ch. 23, art. 83.
 
 
@@ -465,7 +501,9 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 	- **f)** que les circonstances visées à l’un des alinéas 12(1)a) à c) existent;
 	- **g)** que la plainte fait ou a fait l’objet d’un recours ou d’une procédure visés à l’alinéa 12(1)a) ou est ou a été instruite selon des procédures visées à l’alinéa 12(1)b).
 
-- **(2)** [Non en vigueur]
+**Autre motif**
+
+- **(2)** Le commissaire peut mettre fin à l’examen de tout acte allégué dans la plainte qui, à son avis, constituerait, s’il était prouvé, une contravention à l’un des articles 6 à 9 de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md) ou à l’article 52.01 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ou un comportement susceptible d’examen visé à l’article 74.011 de cette loi.
 
 **Avis aux parties**
 
@@ -630,6 +668,10 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 **Dénonciation autorisée**
 
 - **(5)** Dans les cas où, à son avis, il existe des éléments de preuve touchant la perpétration d’infractions au droit fédéral ou provincial par un cadre ou employé d’une organisation, le commissaire peut faire part au procureur général du Canada ou d’une province, selon le cas, des renseignements qu’il détient à cet égard.
+
+**Communication de renseignements**
+
+- **(6)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures où il est intervenu au titre de l’alinéa 50c) de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md), soit en conformité avec les paragraphes 58(3) ou 60(1) de cette loi.
 > 2000, ch. 5, art. 20; 2010, ch. 23, art. 86.
 
 
