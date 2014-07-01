@@ -2659,7 +2659,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind9372_hq_12895'>[*]</a></sup>**(2)** Sections 434 to 439 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9372_hq_12895'><sup>*</sup></a>: [Note: Sections 434 to 439 not in force.]<br />
+<a name='fn_Ind9372_hq_12895'><sup>*</sup></a>: [Note: Sections 434 to 439 in force July 1, 2014, *see* SI/2013-49.]<br />
 
 
 
