@@ -242,6 +242,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Definitions**
+
+**7.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***access*** means to program, to execute programs on, to communicate with, to store data in, to retrieve data from, or to otherwise make use of any resources, including data or programs on a computer system or a computer network. (*utiliser*)
+
+***computer program*** has the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*programme d’ordinateur*)
+
+***computer system*** has the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*ordinateur*)
+
+***electronic address*** means an address used in connection with 
+- **(a)** an electronic mail account;
+- **(b)** an instant messaging account; or
+- **(c)** any similar account. (*adresse électronique*)
+
+**Collection of electronic addresses, etc.**
+
+- **(2)** Paragraphs 7(1)(a), (c) and (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
+	- **(a)** the collection of an individual’s electronic address, if the address is collected by the use of a computer program that is designed or marketed primarily for use in generating or searching for, and collecting, electronic addresses; or
+	- **(b)** the use of an individual’s electronic address, if the address is collected by the use of a computer program described in paragraph (a).
+
+**Accessing a computer system to collect personal information, etc.**
+
+- **(3)** Paragraphs 7(1)(a) to (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
+	- **(a)** the collection of personal information, through any means of telecommunication, if the collection is made by accessing a computer system or causing a computer system to be accessed in contravention of an Act of Parliament; or
+	- **(b)** the use of personal information that is collected in a manner described in paragraph (a).
+> 2010, c. 23, s. 82.
+
+
+
+
+
 **Written request**
 
 **8** 
@@ -408,7 +442,9 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 	- **(b)** the complaint could more appropriately be dealt with, initially or completely, by means of a procedure provided for under the laws of Canada, other than this Part, or the laws of a province; or
 	- **(c)** the complaint was not filed within a reasonable period after the day on which the subject matter of the complaint arose.
 
-- **(2)** [Not in force]
+**Exception**
+
+- **(2)** Despite subsection (1), the Commissioner is not required to conduct an investigation in respect of an act alleged in a complaint if the Commissioner is of the opinion that the act, if proved, would constitute a contravention of any of sections 6 to 9 of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or section 52.01 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or would constitute conduct that is reviewable under section 74.011 of that Act.
 
 **Notification**
 
@@ -416,7 +452,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **Compelling reasons**
 
-- **(4)** The Commissioner may reconsider a decision not to investigate under subsection (1), if the Commissioner is satisfied that the complainant has established that there are compelling reasons to investigate.
+- **(4)** The Commissioner may reconsider a decision not to investigate under subsection (1), if the Commissioner is satisfied that the complainant has established that there are compelling reasons to investigate.
 > 2000, c. 5, s. 12; 2010, c. 23, s. 83.
 
 
@@ -473,7 +509,9 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 	- **(f)** any of the circumstances mentioned in paragraph 12(1)(a), (b) or (c) apply; or
 	- **(g)** the matter is being or has already been addressed under a procedure referred to in paragraph 12(1)(a) or (b).
 
-- **(2)** [Not in force]
+**Other reason**
+
+- **(2)** The Commissioner may discontinue an investigation in respect of an act alleged in a complaint if the Commissioner is of the opinion that the act, if proved, would constitute a contravention of any of sections 6 to 9 of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or section 52.01 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or would constitute conduct that is reviewable under section 74.011 of that Act.
 
 **Notification**
 
@@ -642,6 +680,10 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 **Disclosure of offence authorized**
 
 - **(5)** The Commissioner may disclose to the Attorney General of Canada or of a province, as the case may be, information relating to the commission of an offence against any law of Canada or a province on the part of an officer or employee of an organization if, in the Commissioner’s opinion, there is evidence of an offence.
+
+**Disclosure**
+
+- **(6)** The Commissioner may disclose information, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose information, in the course of proceedings in which the Commissioner has intervened under paragraph 50(c) of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or in accordance with subsection 58(3) or 60(1) of that Act.
 > 2000, c. 5, s. 20; 2010, c. 23, s. 86.
 
 
