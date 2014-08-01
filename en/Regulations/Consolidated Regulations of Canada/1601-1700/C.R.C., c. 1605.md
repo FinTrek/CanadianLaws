@@ -24,40 +24,48 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***acceptance limits of error*** means the limits of error that apply to a device when the performance of the device is tested
-- **(a)** at the time the class, type or design of that device is examined for approval,
-- **(b)** at the time the device is inspected prior to its first use in trade,
-- **(c)** at the time the measuring elements of the device are overhauled or repaired following the failure of the device on inspection to measure within the applicable limits of error, or
-- **(d)** at any time within 30 days after the time referred to in paragraph (b) or (c); (*marge de tolérance à l’acceptation*)
+***acceptance limits of error*** means the limits of error that apply to a device when the performance of the device is tested
+- **(a)** at the time the class, type or design of that device is evaluated for approval;
+- **(b)** at the time the device is examined before its first use in trade;
+- **(c)** at the time the measuring elements of the device are overhauled or repaired following the failure of the device on examination to measure within the applicable limits of error; or
+- **(d)** at any time within 30 days after the time referred to in paragraph (b) or (c); (*marge de tolérance à l’acceptation*)
 
-***Act*** means the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*Loi*)
+***Act*** means the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md); (*Loi*)
 
 ***automatic weighing device*** [Repealed, SOR/2005-130, s. 1]
 
-***Canadian unit*** means a unit of measurement set out in Schedule II to the Act; (*unité canadienne*)
+***Canadian unit*** means a unit of measurement set out in Schedule II to the Act; (*unité canadienne*)
 
-***height*** means, with respect to the height of a letter, the height of an upper case letter where words appear in upper case and the height of the lower case letter “o” where words appear in lower case or in a mixture of upper and lower case; (*hauteur*)
+***examination mark*** means a mark that indicates the year in which a device was examined; (*marque d’examen*) 
 
-***in-service limits of error*** means the limits of error that apply to a device when the performance of the device is tested at any time other than a time referred to in the definition of ***acceptance limits of error***; (*marge de tolérance en service*)
+***examination sticker*** means a self-adhesive label that indicates the month and year in which a device was examined and, if applicable, the month and year of the next examination required under section 15 of the Act, as determined in accordance with section 29; (*étiquette d’examen*)
 
-***inspection mark*** means a mark that is made by an inspector after an inspection of a device and that consists of a symbol for the time being in use by inspectors and the date of inspection; (*marque de vérification*)
+***height*** means, with respect to the height of a letter, the height of an upper case letter where words appear in upper case and the height of the lower case letter “o” where words appear in lower case or in a mixture of upper and lower case; (*hauteur*)
 
-***Measurement Canada office*** means any office of the Department of Industry for use by persons employed in the administration of the Act; (*bureau de Mesures Canada*) 
+***in-service limits of error*** means the limits of error that apply to a device when the performance of the device is tested at any time other than a time referred to in the definition of ***acceptance limits of error***; (*marge de tolérance en service*)
 
-***metric unit*** means a unit of measurement set out in Schedule I to the Act; (*unité métrique*)
+***inspection mark***[Repealed, SOR/2014-111, s. 1]
+
+***Measurement Canada office*** means any office of the Department of Industry for use by persons employed in the administration of the Act; (*bureau de Mesures Canada*) 
+
+***measuring tank*** means a tank for use in trade for measuring the volume of liquid received or delivered, and includes a fixed, portable or vehicle-mounted tank; (*réservoir jaugeur*)
+
+***metric unit*** means a unit of measurement set out in Schedule I to the Act; (*unité métrique*)
 
 ***non-automatic weighing device*** [Repealed, SOR/2005-130, s. 1]
 
-***packing device*** means a device that, as part of a mechanical packaging system, measures a predetermined quantity of commodity without recording the measurement of each quantity of commodity measured by the device or without being operated by a person who observes or records the measurement of each quantity of commodity measured by the device; (*instrument d’emballage*)
+***packing device*** means a device that, as part of a mechanical packaging system, measures a predetermined quantity of commodity without recording the measurement of each quantity of commodity measured by the device or without being operated by a person who observes or records the measurement of each quantity of commodity measured by the device; (*instrument d’emballage*)
 
-***previous enactment*** means any Act of Parliament relating to weights and measures, and any regulations made under that Act, enacted prior to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md), S.C. 1970-71-72, c. 36; (*texte législatif antérieur*)
+***previous enactment*** means any Act of Parliament relating to weights and measures, and any regulations made under that Act, enacted prior to the [Weights and Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-6.md), S.C. 1970-71-72, c. 36; (*texte législatif antérieur*)
 
-***standard quantity commodity*** means a commodity that is part of a lot made up of the same commodity, with identical net quantity statements; (*marchandise à quantité standard*) 
+***standard quantity commodity*** means a commodity that is part of a lot made up of the same commodity, with identical net quantity statements; (*marchandise à quantité standard*) 
 
-***tank*** means a measuring tank for use in trade for measuring the volume of liquid received or delivered, and includes a fixed, portable and vehicle-mounted measuring tank; (*réservoir*)
+***tank***[Repealed, SOR/2014-111, s. 1]
+
+***vehicle tank*** means a measuring tank that is mounted on a vehicle other than a vehicle for railway use. (*réservoir sur véhicule*)
 
 ***weights and measures office*** [Repealed, SOR/2005-297, s. 1]
-> SOR/89-570, s. 6(F); SOR/90-118, s. 1; SOR/93-234, s. 2; SOR/98-115, s. 1; SOR/2005-130, s. 1; SOR/2005-297, ss. 1, 41(F).
+> SOR/89-570, s. 6(F); SOR/90-118, s. 1; SOR/93-234, s. 2; SOR/98-115, s. 1; SOR/2005-130, s. 1; SOR/2005-297, ss. 1, 41(F); SOR/2014-111, ss. 1, 47(F).
 
 
 
@@ -68,86 +76,137 @@ Enabling authorities:
 
 
 
+### Interpretation
+
+
+**2.1** The following definitions apply in this Part and in Schedule I.
+
+***downstream petroleum trade*** means the trade of refined petroleum products and liquid alternative fuels between petroleum refineries, gas processing facilities, wholesalers, retailers and commercial customers. (*commerce pétrolier aval*)
+
+***fishing products*** means finfish, shellfish, marine vegetation and marine animals, including seals but no other furry marine animals, that are obtained from ocean or inland waters or aquaculture farms, and the products and by-products of their processing. (*produits de la pêche*)
+
+***forestry products*** means
+- **(a)** trees, logs and firewood;
+- **(b)** wood by-products other than methyl alcohol and wood resins; and
+- **(c)** paper, other than recycled paper in its untreated form. (*produits forestiers*)
+
+***grain and field crop products and services*** means
+- **(a)** cereal grains, oil seeds, grain corn, wheat, forage, hay, dry field peas, beans and seeds for those crops;
+- **(b)** feed grains and other animal foods processed by feed mills; and
+- **(c)** grain storage services offered in grain elevators. (*grains, grandes cultures et services connexes*)
+
+***mining products*** means metal and non-metal ores, refined ores and their transformed products, as well as refined precious metals and precious stones, but does not include scrap metal, products produced from the subsequent refining of precious metals and precious stones and, if used for construction, sand, gravel, stone and concrete products. (*produits miniers*)
+
+***retail food trade*** means the retail trade of food by retail food stores, including grocery stores, supermarkets, delicatessens, ethnic food stores, natural food stores, butcher shops, farmers’ markets, fish and seafood retailers, fruit and vegetable retailers, coffee retailers and specialty candy and nuts retailers. (*commerce au détail des aliments*)
+
+***retail petroleum trade*** means the retail trade of liquid refined petroleum products and liquid alternative fuels. (*commerce pétrolier au détail*)
+> SOR/2014-111, s. 2.
+
+
+
+
+
 ### Exemptions from the Act
 
 
-**3** A class, type or design of device is exempt from the Act where the class, type or design is
-- **(a)** subject to verification pursuant to the [Electricity and Gas Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-4.md); or
-- **(b)** designed for use and used only in laboratories or in scientific study and not approved pursuant to section 3 of the Act.
-> SOR/80-429, s. 1; SOR/93-234, s. 2.
+**3** 
+
+- **(1)** A class, type or design of device is exempt from the Act where the class, type or design is
+	- **(a)** subject to verification pursuant to the [Electricity and Gas Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-4.md); or
+	- **(b)** designed for use and used only in laboratories or in scientific study and not approved pursuant to section 3 of the Act.
+
+- **(2)** A device is exempt from the Act if it is used exclusively for
+	- **(a)** gauging and strapping tanker ship holds or tanks that have a capacity of more than 55,000 litres and that are used in the downstream petroleum trade; or
+	- **(b)** gauging ship holds that are used in the wholesale trade of mining products.
+> SOR/80-429, s. 1; SOR/93-234, s. 2; SOR/2014-111, s. 3.
 
 
 
 
 
-### Exemptions from Section 8 of the Act
-> [SOR/90-118, s. 2]
+### Exemptions from Section 8 and Subsection 15(1) of the Act
+> [SOR/90-118, s. 2; SOR/2014-111, s. 4]
 
 
 
 **4** 
 
-- **(1)** The following classes or types of devices are exempt from section 8 of the Act:
+- **(1)** The following classes or types of devices are exempt from section 8 and subsection 15(1) of the Act:
 	- **(a)** water meters;
 	- **(b)** parking meters;
 	- **(c)** taxi meters;
 	- **(d)** odometers of motor vehicles;
 	- **(e)** coin-operated machines for weighing persons;
-	- **(f)** coin-operated machines that dispense a predetermined quantity of liquid into a container and that do not register by a mechanical or an electrical indicator the quantity of liquid dispensed;
+	- **(f)** payment-operated machines that dispense a predetermined quantity of liquid and that do not register by a mechanical or an electrical indicator the quantity of liquid dispensed;
 	- **(g)** clocks, watches, chronometers and other time measuring devices;
 	- **(h)** milk measuring tanks for farm use;
 	- **(i)** measuring tanks mounted on railway cars;
-	- **(j)** tanks that have a capacity in excess of 55 000 L or 12,000 gallons;
+	- **(j)** measuring tanks that have a capacity in excess of 55 000 L or 12,000 gallons;
 	- **(k)** meters for the measurement of grease and other commodities having flow properties similar to grease;
 	- **(l)** static measures that are used as containers in which a commodity is sold or offered for sale;
-	- **(m)** packing devices; and
-	- **(n)** weighing machines designed for use in laboratories, scientific study or weighing precious metals and that are used for weighing precious metals or other commodities of comparable value, if they conform to applicable specifications for performance, installation and use established by these Regulations and if, prior to December 31, 1981, they are inspected and certified as meeting such specifications.
+	- **(m)** packing devices;
+	- **(n)** weighing machines designed for use in laboratories, scientific study or weighing precious metals and that are used for weighing precious metals or other commodities of comparable value, if they conform to applicable specifications for performance, installation and use established by these Regulations and if, prior to December 31, 1981, they are examined and certified as meeting such specifications;
+	- **(o)** linear static measures; and
+	- **(p)** devices used in the downstream petroleum trade to measure liquids carried in a permanent closed piping system, either to or from a place where they are processed, treated or stored, other than to a place where the product is consumed or processed and is no longer considered a hydrocarbon.
 
-- **(2)** A device used exclusively to weigh or measure standard quantity commodities is exempt from section 8 of the Act. 
-> SOR/80-429, s. 2; SOR/90-118, s. 3; SOR/93-234, s. 2(F); SOR/2005-297, ss. 2, 41(F).
-
-
-
-
-
-### Exemptions from Paragraphs 8(b) and 26(1)(c) of the Act
-> [SOR/93-234, s. 2]
-
-
-
-**5** 
-
-- **(1)** Subject to subsection (2), a meter register approved pursuant to section 3 of the Act that has no means, or has means that are not in use, of automatic temperature, pressure or density compensation is exempt from paragraphs 8(b) and 26(1)(c) of the Act if it is installed as a replacement register on a volumetric liquid meter that has previously been inspected and certified pursuant to paragraph 8(b) of the Act.
-
-- **(2)** Where a register described in subsection (1) is altered to operate with automatic temperature, pressure or density compensation, the register shall be inspected and certified pursuant to paragraphs 8(b) and 26(1)(c) of the Act.
-> SOR/90-118, s. 4.
+- **(2)** A device is exempt from section 8 and subsection 15(1) of the Act if it is used exclusively to weigh or measure
+	- **(a)** standard quantity commodities; or
+	- **(b)** crude petroleum products.
+> SOR/80-429, s. 2; SOR/90-118, s. 3; SOR/93-234, s. 2(F); SOR/2005-297, ss. 2, 41(F); SOR/2014-111, ss. 5, 45, 46, 48(F).
 
 
 
 
 
-### Exemption from Paragraph 8(a) of the Act
-> [SOR/93-234, s. 2; SOR/94-691, s. 4(E)]
+### Exemptions from Paragraph 8(a) and Subsection 15(1) of the Act
+> [SOR/93-234, s. 2; SOR/2014-111, s. 6]
 
 
 
-**6** A tank is exempt from paragraph 8(a) of the Act if it conforms to applicable specifications relating to design, composition, construction and performance set out in Divisions I,V, X and XII of Part V and any additional specifications established pursuant to section 13.
-> SOR/90-118, s. 4.
+**5** A measuring tank is exempt from paragraph 8(a) and subsection 15(1) of the Act if it conforms to applicable specifications relating to design, composition, construction and performance set out in Divisions I, V, X and XII of Part V and any additional specifications established under section 13.
+> SOR/90-118, s. 4; SOR/2014-111, s. 6.
 
 
 
 
 
-### Exemptions from Sections 8, 23 and 33 of the Act and Paragraph 24(b) of the Act
+### Exemptions from Paragraph 8(b) and Subsection 15(1) of the Act
+> [SOR/93-234, s. 2; SOR/94-691, s. 4(E); SOR/2014-111, s. 6]
+
+
+
+**6** A device is exempt from paragraph 8(b) and subsection 15(1) of the Act if it is used exclusively in the wholesale trade of gold, silver or diamonds, after initial refining.
+> SOR/90-118, s. 4; SOR/2014-111, s. 6.
+
+
+
+
+
+### Exemptions from Paragraph 8(b), Subsection 15(1) and Paragraph 26(1)(c) of the Act
+
+
+**6.1** 
+
+- **(1)** Subject to subsection (2), a meter register approved under section 3 of the Act that has no means, or has means that are not in use, of automatic temperature, pressure or density compensation is exempt from paragraph 8(b), subsection 15(1) and paragraph 26(1)(c) of the Act if it is installed as a replacement register on a volumetric liquid meter that has previously been examined and certified for the purposes of paragraph 8(b) of the Act.
+
+- **(2)** Subsection (1) does not apply to a register that is altered to operate with automatic temperature, pressure or density compensation.
+> SOR/2014-111, s. 6.
+
+
+
+
+
+### Exemptions from Section 8, Subsection 15(1), Section 23, Paragraph 24(b) and Section 33 of the Act
+> [SOR/2014-111, s. 7]
+
 
 
 **7** 
 
-- **(1)** Subject to subsection (2), where the parties to an intended trade transaction give written notice to the Minister that
-	- **(a)** a device approved for use in trade or approved for use in the particular manner or for the particular purpose contemplated by the parties (hereinafter referred to as an “approved device”) is not available to the parties for use in their intended trade transaction,
-	- **(b)** the parties wish to use in their intended trade transaction a device that is not an approved device, and
-	- **(c)** it would be impractical or unreasonably expensive to obtain approval for the class, type or design of device that the parties wish to use in their intended trade transaction or to comply with the inspection required by paragraph 8(b) of the Act,
-the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragraph 24(b) of the Act.
+- **(1)** Subject to subsection (2), section 8, subsection 15(1), section 23, paragraph 24(b) and section 33 of the Act do not apply in respect of a trade transaction if the parties give written notice to the Minister that
+	- **(a)** a device approved for use in trade or approved for use in the particular manner or for the particular purpose contemplated by them is not available to them for use in their intended trade transaction;
+	- **(b)** they wish to use in their intended trade transaction a device other than one referred to in paragraph (a); and
+	- **(c)** it would be impractical or unreasonably expensive to obtain approval for the class, type or design of device that they wish to use in their intended trade transaction or to comply with the examination requirement under paragraph 8(b) or subsection 15(1) of the Act.
 
 - **(2)** A trade transaction referred to in subsection (1) is not exempt from the provisions of the Act referred to in that subsection unless
 	- **(a)** the parties referred to in subsection (1) furnish to the Minister such information as the Minister requires relating to the device that the parties wish to use;
@@ -158,7 +217,7 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 		- **(iii)** the intervals at which that device will be calibrated;
 	- **(d)** the parties have forwarded to the Minister a true copy of the part of the contract dealing with the use of the device; and
 	- **(e)** the device that the parties wish to use measures within the limits of error referred to in subparagraph (c)(i).
-> SOR/89-570, s. 6(F); SOR/2005-297, s. 41(F).
+> SOR/89-570, s. 6(F); SOR/2005-297, s. 41(F); SOR/2014-111, s. 8.
 
 
 
@@ -169,34 +228,46 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 
 **8** 
 
-- **(1)** Subject to section 10, a device that has been inspected and certified under a previous enactment but not approved pursuant to section 3 of the Act is exempt from paragraph 8(a) of the Act.
+- **(1)** Subject to section 10, a device that has been examined and certified under a previous enactment but not approved pursuant to section 3 of the Act is exempt from paragraph 8(a) of the Act.
 
 - **(2)** Subject to section 10, a device or class, type or design of device that has been approved for use in trade under a previous enactment is exempt from paragraph 8(a) of the Act.
-> SOR/90-118, s. 5.
+> SOR/90-118, s. 5; SOR/2014-111, s. 46.
 
 
 
 
 **9** 
 
-- **(1)** Subject to subsection (2), where a device or class, type or design of device approved pursuant to subsection 3(1) of the Act or under a previous enactment, or a device inspected and certified by an inspector on or before December 31, 1989, is altered to measure in terms of any units of measurement set out and defined in Schedule I of the Act, the device or class, type or design of device is exempt from paragraph 8(a) of the Act if the device or class, type or design of device as altered conforms to
+- **(1)** Subject to subsection (2), where a device or class, type or design of device approved pursuant to subsection 3(1) of the Act or under a previous enactment, or a device examined and certified by an inspector on or before December 31, 1989, is altered to measure in terms of any units of measurement set out and defined in Schedule I of the Act, the device or class, type or design of device is exempt from paragraph 8(a) of the Act if the device or class, type or design of device as altered conforms to
 	- **(a)** applicable specifications relating to design, composition, construction and performance set out in Part V and any additional specifications established pursuant to section 13; or
-	- **(b)** applicable specifications relating to design, composition, construction and performance in force at the time the device was initially inspected and certified by an inspector or when the device or class, type or design of device was approved.
+	- **(b)** applicable specifications relating to design, composition, construction and performance in force at the time the device was initially examined and certified by an inspector or when the device or class, type or design of device was approved.
 
 - **(2)** Subsection (1) does not apply in respect of any device or class, type or design of device approved on a temporary basis pursuant to subsection 3(2) of the Act.
-> SOR/90-118, s. 5.
+> SOR/90-118, s. 5; SOR/2014-111, s. 46.
 
 
 
 
-**10** A static measure inspected and certified by an inspector on or before December 31, 1989 is exempt from paragraph 8(a) of the Act.
-> SOR/90-118 s. 5.
+**10** A static measure examined and certified by an inspector on or before December 31, 1989 is exempt from paragraph 8(a) of the Act.
+> SOR/90-118 s. 5; SOR/2014-111, s. 46.
 
 
 
 
 **10.1** A device or class, type or design of device is exempt from paragraph 8(a) of the Act if every part of the device that can have an effect on the accuracy of the device or class, type or design of device is approved pursuant to section 3 of the Act.
 > SOR/90-118, s. 5.
+
+
+
+
+
+### Exemptions from Subsection 19(2) of the Act
+
+
+**10.2** The following devices are exempt from subsection 19(2) of the Act:
+- **(a)** static measures; and
+- **(b)** weights that do not have lead plugs that have been marked in accordance with paragraph 30(3)(d).
+> SOR/2014-111, s. 9.
 
 
 
@@ -223,10 +294,10 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 	- **(c)** the port of entry of the device;
 	- **(d)** a description of the device sufficient to enable an inspector to identify it;
 	- **(e)** if more than one device is imported, the number of devices imported;
-	- **(f)** the address at which the device may be inspected;
+	- **(f)** the address at which the device may be examined;
 	- **(g)** whether the device is of a class, type or design approved for use in trade, and if so, the approval number referred to in paragraph 17(c) for that class, type or design of device; and
 	- **(h)** whether the device has been marked in accordance with these Regulations.
-> SOR/93-234, s. 2(F); SOR/2005-297, ss. 40, 41(F), 43.
+> SOR/93-234, s. 2(F); SOR/2005-297, ss. 40, 41(F), 43; SOR/2014-111, s. 46.
 
 
 
@@ -279,13 +350,13 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 	- **(c)** the promotional material, bulletins, brochures, instructions and other information distributed or intended for distribution to purchasers or prospective purchasers of a device of the class, type or design to which the application relates.
 
 - **(2)** A person who submits an application under section 14 shall, when requested to do so by the Minister, supply to the Minister such additional information, test data, drawings or specifications as are necessary to enable the Minister to deal with the application.
-> SOR/2005-297, s. 41(F).
+> SOR/2005-297, s. 41(F); SOR/2014-111, s. 10(F).
 
 
 
 
-**16** Upon the request of the Minister and under such conditions as may be specified by him, the applicant shall make available to the Minister one or more devices of the class, type or design to which the application relates, together with such information, equipment, material and services as are required to examine and test the device.
-> SOR/2005-297, s. 41(F).
+**16** On the request of the Minister and under any conditions that may be specified by him or her, the applicant shall make available to the Minister one or more devices of the class, type or design to which the application relates, together with any information, equipment, material and services that are required to evaluate the device for approval.
+> SOR/2005-297, s. 41(F); SOR/2014-111, s. 11.
 
 
 
@@ -320,7 +391,7 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 	- **(c)** partly on the device and partly on a plate or plates that are permanently affixed to the device; or
 	- **(d)** in the case of a device not large enough to accommodate the required information in the manner referred to in paragraph (a), (b) or (c), on a notice attached to or displayed in close proximity to the device.
 
-- **(2)** Where information is marked on a plate, a suitable area of not less than 12 mm by 25 mm or ½ inch by 1 inch shall be left blank on the plate for the inspection mark referred to in section 29 and the plate shall be made of a durable material and shall be so located and mounted that it can be stamped with a steel die.
+- **(2)** If information is marked on a plate, a suitable area of not less than 12 mm by 25 mm shall be left blank on the plate for the examination mark referred to in section 30 and the plate shall be made of a durable material and shall be located and mounted so that it can be stamped with a steel die.
 
 - **(3)** The information required by these Regulations to be marked on the device shall be shown in numbers or letters that are
 	- **(a)** permanent;
@@ -329,7 +400,7 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 	- **(d)** located in such a place as to be readily legible by a person using the device under normal conditions of use.
 
 - **(4)** When numbers are used with letters or in place of letters on any marking on a device, the size and height of the numbers shall correspond to the size and height of the letters used or required to be used thereon by these Regulations.
-> SOR/93-234, s. 2(F); SOR/98-115, s. 2; SOR/2005-130, s. 2.
+> SOR/93-234, s. 2(F); SOR/98-115, s. 2; SOR/2005-130, s. 2; SOR/2014-111, s. 12.
 
 
 
@@ -338,13 +409,13 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 ### Marking Static Measures Approved for Use in Trade
 
 
-**19** Before being sold, leased or otherwise disposed of, a static measure that is of a class, type or design approved for use in trade and that is manufactured on or after January 1, 1976 shall be marked with the following information:
+**19** Before being sold or otherwise disposed of, or leased, a static measure that is of a class, type or design approved for use in trade and that is manufactured on or after January 1, 1976 shall be marked with the following information:
 - **(a)** the name or registered trade mark of the manufacturer or importer of the measure;
 - **(b)** the approval number for that class, type or design of measure;
 - **(c)** the capacity of the measure expressed in terms of the appropriate unit of measurement;
 - **(d)** the words “Legal for Trade” (“*Légal pour le commerce*”); and
 - **(e)** any other information required to be marked on the device by the notice of approval.
-> SOR/2005-297, s. 41(F).
+> SOR/2005-297, s. 41(F); SOR/2014-111, s. 13.
 
 
 
@@ -355,7 +426,7 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 
 **20** 
 
-- **(1)** Before being sold, leased or otherwise disposed of, a weight that is of a class, type or design approved for use in trade shall be marked with the following information:
+- **(1)** Before being sold or otherwise disposed of, or leased, a weight that is of a class, type or design approved for use in trade shall be marked with the following information:
 	- **(a)** the number of units of mass or weight that the weight contains;
 	- **(b)** in the case of a counterpoise weight used as part of a weighing machine, the number of units of mass or weight to which the weight is equivalent when used as a counterpoise with the weighing machine of which it forms a part;
 	- **(c)** in the case of a weight of 1 gram or multiple or submultiple thereof, the word “gram” or its symbol “g”, together with the appropriate prefix or symbol as set out in Part V of Schedule I to the Act;
@@ -368,7 +439,7 @@ the trade transaction is exempt from sections 8, 23 and 33 of the Act and paragr
 	- **(a)** sheet metal or wire weights of 1 milligram or multiples or submultiples thereof, or
 	- **(b)** sheet metal or wire weights of 1 grain or multiples or submultiples thereof
 if the weights are manufactured in the customary distinctive shapes to denote the multiple or submultiple of the milligram or grain that the weight represents.
-> SOR/2005-297, s. 41(F).
+> SOR/2005-297, s. 41(F); SOR/2014-111, s. 14.
 
 
 
@@ -377,7 +448,7 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 ### Marking Approved Weighing Machines, Measuring Machines and Related Equipment and Accessories
 
 
-**21** Before being sold, leased or otherwise disposed of, a weighing machine (other than a weighing device to which the Specifications Relating to Non-Automatic Weighing Devices (1998) apply) or a measuring machine, that is of a class, type or design approved pursuant to section 3 of the Act, and any equipment or accessory attached to or used in conjunction with the machine that has or could have an effect on the accuracy of the machine and that was approved pursuant to section 3 of the Act shall be marked with the following information:
+**21** Before being sold or otherwise disposed of, or leased, a weighing machine (other than a weighing device to which the Specifications Relating to Non-Automatic Weighing Devices (1998) apply) or measuring machine that is of a class, type or design approved under section 3 of the Act, and any equipment or accessory attached to or used in conjunction with the machine that has or could have an effect on the accuracy of the machine and that was approved under section 3 of the Act shall be marked with the following information:
 - **(a)** the name of the manufacturer or importer of the machine, equipment or accessory;
 - **(b)** the model number and serial number of the machine, equipment or accessory;
 - **(c)** the approval number of the machine, equipment or accessory;
@@ -387,41 +458,43 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 - **(e)** in the case of a weighing machine, the maximum load that may be weighed on the machine;
 - **(f)** in the case of any equipment or accessory, the range for which it was approved pursuant to section 3 of the Act; and
 - **(g)** any other information that is required by the notice of approval issued pursuant to section 3 of the Act.
-> SOR/90-118, s. 6; SOR/98-115, s. 3; SOR/2005-130, s. 3.
+> SOR/90-118, s. 6; SOR/98-115, s. 3; SOR/2005-130, s. 3; SOR/2014-111, s. 15.
 
 
 
 
-**22** Before being sold, leased or otherwise disposed of, a weighing machine or measuring machine that is of a class, type or design approved for use in trade and that is referred to in subsection 28(2) shall be marked “Not for Use in Trade until Inspected” (“*Ne pas utiliser dans le commerce avant l’inspection*”) or shall be marked in words that convey the same meaning, and such markings shall be in letters of not less than 12 mm or ½ inch in height and shall remain on the device until it has been inspected and is found to meet the requirements of the Act and these Regulations.
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 41(F).
+**22** Before being sold or otherwise disposed of, or leased, a weighing machine or measuring machine that is of a class, type or design approved under section 3 of the Act and that is referred to in subsection 28(2) shall be marked “Not for Use in Trade until Examined” (“*Ne pas utiliser dans le commerce avant l’examen*”) or shall be marked with words that convey the same meaning, and those markings shall be in letters of not less than 12 mm in height and shall remain on the device until it has been examined and is found to meet the requirements of the Act and these Regulations.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 41(F); SOR/2014-111, s. 16.
 
 
 
 
 **23** 
 
-- **(1)** Before being sold, leased or otherwise disposed of, a weighing machine or measuring machine that is not of a class, type or design approved pursuant to section 3 of the Act and that is not exempt from approval pursuant to that section shall be marked “Not Legal for Trade” or “*Non légal pour le commerce*” in letters of not less than 6 mm in height. 
+- **(1)** Before being sold or otherwise disposed of, or leased, a weighing machine or measuring machine that is not of a class, type or design approved under section 3 of the Act and that is not exempt from approval under that section shall be marked “Not Legal for Trade” (“*Non légal pour le commerce*”) in letters of not less than 6 mm in height.
 
-- **(2)** A device described in subsection 4(2) shall be marked “For Prepackaging Use Only” or “*Pour préemballage seulement*” in letters of not less than 6 mm in height.
-> SOR/93-234, s. 2; SOR/2005-297, s. 4.
+- **(2)** A device described in paragraph 4(2)(a) shall be marked “For Prepackaging Use Only” (“*Pour préemballage seulement*”) in letters of not less than 6 mm in height.
+> SOR/93-234, s. 2; SOR/2005-297, s. 4; SOR/2014-111, s. 16.
 
 
 
 
 
 ### Marking Measuring Tanks
+> [SOR/2014-111, s. 48(F)]
+
 
 
 **24** 
 
-- **(1)** Before being sold, leased or otherwise disposed of, a measuring tank that is of a class, type or design approved for use in trade shall be marked with the following information:
-	- **(a)** the name of the manufacturer or importer of the tank;
-	- **(b)** the model number and serial number of the tank;
-	- **(c)** the approval number for that class, type or design of tank;
-	- **(d)** the maximum capacity of the tank;
-	- **(e)** in the case of a tank that contains one or more internal capacity indicators, the capacity of the tank at the level of each indicator and where there is more than one indicator, the various capacities shown in descending order;
-	- **(f)** in the case of a tank that has been calibrated to a valve located immediately at the outlet of the tank or that has been calibrated to an emergency valve, the words “dry line calibration” (“*calibré avec tuyauterie vide*”);
-	- **(g)** in the case of a tank that has not been calibrated as set out in paragraph (f), the words “wet line calibration” (“*calibré avec tuyauterie pleine*”); and
+- **(1)** Before being sold or otherwise disposed of, or leased, a measuring tank that is of a class, type or design approved under section 3 of the Act shall be marked with the following information:
+	- **(a)** the name of the manufacturer or importer of the measuring tank;
+	- **(b)** the model number and serial number of the measuring tank;
+	- **(c)** the approval number for that class, type or design of measuring tank;
+	- **(d)** the maximum capacity of the measuring tank;
+	- **(e)** in the case of a measuring tank that contains one or more internal capacity indicators, the capacity of the measuring tank at the level of each indicator and where there is more than one indicator, the various capacities shown in descending order;
+	- **(f)** in the case of a measuring tank that has been calibrated to a valve located immediately at the outlet of the measuring tank or that has been calibrated to an emergency valve, the words “dry line calibration” (“*calibré avec tuyauterie vide*”);
+	- **(g)** in the case of a measuring tank that has not been calibrated as set out in paragraph (f), the words “wet line calibration” (“*calibré avec tuyauterie pleine*”); and
 	- **(h)** in the case of two or more measuring tanks installed on a vehicle, a number or letter in an identifiable sequence commencing with the tank closest to the front of the vehicle and proceeding to the tank closest to the rear of the vehicle.
 
 - **(2)** Where two or more measuring tanks are installed on a vehicle, the information required by paragraphs (1)(a) to (g) may appear in one location if the tanks are identified in accordance with paragraph (1)(h) and the information is correlated to the number or letter shown on the tank.
@@ -432,10 +505,10 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 	- **(a)** to show the capacity of the tank at the level of the indicator; or
 	- **(b)** to identify the indicator.
 
-- **(5)** Where the internal capacity indicator is identified in accordance with paragraph (4)(b), the identification and the capacity of the tank at the level of that indicator shall be shown on the outside of the neck or fill opening of the tank in numbers or letters of at least 12 mm or ½ inch in height.
+- **(5)** Where the internal capacity indicator is identified in accordance with paragraph (4)(b), the identification and the capacity of the measuring tank at the level of that indicator shall be shown on the outside of the neck or fill opening of the measuring tank in numbers or letters of at least 12 mm or ½ inch in height.
 
 - **(6)** When two or more measuring tanks are installed on a vehicle, the discharge valve for each tank shall be marked in numbers or letters of not less than 6 mm or ¼ inch in height to show the tank from which the commodity is discharged.
-> SOR/2005-297, s. 41(F).
+> SOR/2005-297, s. 41(F); SOR/2014-111, ss. 17, 45, 48(F).
 
 
 
@@ -444,8 +517,8 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 ### Marking Devices “Not for Use in Trade”
 
 
-**25** A weighing machine or measuring machine that is of a class, type or design approved for use in trade pursuant to section 3 of the Act shall, before being sold, leased or otherwise disposed of for a use other than use in trade, be permanently marked “Not for use in trade” or “*Ne pas utiliser dans le commerce*” in letters of not less than 12 mm in height.
-> SOR/90-118, s. 7.
+**25** Before being sold or otherwise disposed of, or leased, for a use other than use in trade, a weighing machine or measuring machine that is of a class, type or design approved under section 3 of the Act shall be permanently marked “Not for Use in Trade” (“*Ne pas utiliser dans le commerce*”) in letters of not less than 12 mm in height.
+> SOR/90-118, s. 7; SOR/2014-111, s. 18.
 
 
 
@@ -467,119 +540,146 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 
 
 
-### Inspection Pursuant to Paragraph 26(1)(c) of the Act
-> [SOR/93-234, s. 2]
+### Examination of Devices
+> [SOR/93-234, s. 2; SOR/2014-111, s. 19]
 
 
 
 **28** 
 
-- **(1)** Subject to subsections (2) and (3), a device that is of a class, type or design approved pursuant to section 3 of the Act or that is described in section 8, other than a static measure or a device described in subsection 4(2), shall not be sold, leased or otherwise disposed of unless 
-	- **(a)** the device is manufactured in Canada and the manufacturer has had it inspected by an inspector; or 
-	- **(b)** the device is imported into Canada and the dealer who imported the device has had it inspected by an inspector. 
+- **(1)** For the purposes of paragraph 26(1)(c) of the Act and subject to subsections (2) and (3), a device that is of a class, type or design approved under section 3 of the Act or that is described in section 8, other than a static measure or a device described in subsection 4(2), shall not be sold or otherwise disposed of, or leased, unless
+	- **(a)** the device is manufactured in Canada and the manufacturer has had it examined by an inspector; or
+	- **(b)** the device is imported into Canada and the dealer who imported the device has had it examined by an inspector.
 
-- **(2)** Subsection (1) does not apply to any device, the performance of which cannot be inspected until the device is installed for use in trade, if the dealer
-	- **(a)** marks the device as prescribed in section 22; and
-	- **(b)** within five days after shipping the device, sends to the nearest Measurement Canada office a notice in writing stating
+- **(2)** Subsection (1) does not apply to any device, the performance of which cannot be examined until the device is installed for use in trade, if the dealer
+	- **(a)** marks the device in the manner set out in section 22;
+	- **(b)** within five days after shipping the device, sends to the nearest Measurement Canada office a notice in writing containing
 		- **(i)** the dealer’s name and address,
 		- **(ii)** the name of the person to whom the device was shipped,
 		- **(iii)** a description of the device, and
-		- **(iv)** the address of the place where the device is to be installed.
+		- **(iv)** the address of the place where the device is to be installed; and
+	- **(c)** advises the trader that the device must be examined by an inspector before it is used in trade.
 
-- **(3)** Subsection (1) does not apply in respect of a device that is to be sold, leased or otherwise disposed of for a use other than use in trade where the dealer
+- **(3)** Subsection (1) does not apply in respect of a device that is to be sold or otherwise disposed of, or leased, for a use other than use in trade if the dealer
 	- **(a)** marks the device in the manner set out in section 25; and
-	- **(b)** within five days after selling, leasing or otherwise disposing of the device, sends to the nearest Measurement Canada office a notice in writing stating
-		- **(i)** the name and address of the dealer,
-		- **(ii)** the name and address of the person to whom the device was sold, leased or otherwise disposed of, and
+	- **(b)** within five days after selling or otherwise disposing of, or leasing, the device, sends to the nearest Measurement Canada office a notice in writing containing
+		- **(i)** the dealer’s name and address,
+		- **(ii)** the name and address of the person to whom the device was sold or otherwise disposed of, or leased, and
 		- **(iii)** a description of the device, including the approval number, serial number and model number.
+> SOR/90-118, s. 9; SOR/93-234, s. 2; SOR/2005-297, ss. 5, 40, 41(F); SOR/2014-111, s. 19.
 
-- **(4)** A dealer or trader who installs or causes to be installed a device described in subsection (2) for use in trade shall have the device inspected by an inspector before it is used in trade. 
-> SOR/90-118, s. 9; SOR/93-234, s. 2; SOR/2005-297, ss. 5, 40, 41(F).
-
-
-
-
-
-### Marking Devices after Initial Inspections Pursuant to Section 28
-> [SOR/93-234, s. 2(F)]
 
 
 
 **29** 
 
-- **(1)** Where a device is inspected as prescribed by subsection 28(1) or following the installation referred to in subsection 28(2) and the inspector determines that the device meets the requirements of the Act and these Regulations, he shall mark the device or the container in which the device is kept when not in use as prescribed by subsections (2), (3) and (4).
+- **(1)** For the purpose of subsection 15(1) of the Act, a trader who uses or possesses for use a device set out in column I of Part I of Schedule I, in the category of trade set out in column II, shall cause the device to be examined within the period set out in column III, counting from the most recent day on or after August 1, 2014 on which a certificate showing that the device meets the requirements of the Act and these Regulations was issued following an examination referred to in paragraph 8(b) or section 15 or 15.1 of the Act.
 
-- **(2)** A device referred to in subsection (1) shall be marked by means of a steel die or, where it is not practicable to do so, by means of a sticker.
+- **(2)** If a device referred to in subsection (1) was used in or possessed for use in trade before August 1, 2014, the trader shall first cause it to be examined for the purpose of subsection 15(1) of the Act within whichever of the following periods ends later:
+	- **(a)** the implementation period set out in column I — or, if the device is used in the retail food trade, in column II — of Part II of Schedule I for the geographic area set out in column III in which the device is located, counting from August 1, 2014; and
+	- **(b)** the period set out for the device in column III of Part I of Schedule I, counting from the most recent day before August 1, 2014 on which a certificate was issued showing that the device meets the requirements of the Act and these Regulations, as they then read.
 
-- **(3)** An inspection mark shall be located,
-	- **(a)** in the case of a weighing or measuring machine that has a plate or plates permanently affixed to the machine, on the blank area of the plate referred to in subsection 18(2);
-	- **(b)** in the case of a weighing or measuring machine that does not have a plate or plates permanently affixed to the machine, on a part of the machine where it will be readily legible to a person using the machine under normal conditions of use;
+- **(3)** If a device falls under more than one item of Part I of Schedule I, the shortest period set out in column III for those items applies for the purposes of subsection (1) and paragraph (2)(b).
+
+- **(4)** For the purpose of paragraph (2)(a), if a device is moved from one geographic area to another before the expiry of the applicable implementation period set out in column I or II of Part II of Schedule I for the geographic area set out in column III from which the device is moved, the implementation period in respect of that device is, counting from August 1, 2014,
+	- **(a)** the applicable implementation period set out in column I or II of Part II of Schedule I for the geographic area set out in column III to which the device is moved; or
+	- **(b)** 24 months — or 36 months if the device is used in the retail food trade — if the period referred to in paragraph (a) has already expired.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 19.
+
+
+
+
+**29.1** For the purpose of subsection 15(2) of the Act, the Minister may grant to a trader an extension of a period established under subsection 29(1) or (2) if
+- **(a)** the trader sends to the nearest Measurement Canada office a written request containing
+	- **(i)** the trader’s name and address,
+	- **(ii)** the address where the device is located, if different from that referred to in subparagraph (i),
+	- **(iii)** the device’s make, model and serial number,
+	- **(iv)** the range of the flow rate or the maximum load that may be measured by the device,
+	- **(v)** the date of the most recent regulatory examination of the device,
+	- **(vi)** a description of the purpose for which the device is used, sufficient to determine the category of trade in which it is used,
+	- **(vii)** the reason for the extension request,
+	- **(viii)** the efforts made to comply with the period, and
+	- **(ix)** the duration of the extension being requested, not to exceed one year;
+- **(b)** the trader establishes that circumstances beyond their control make it impossible to have the device examined within the period; and
+- **(c)** the trader has not previously been granted an extension of the period.
+> SOR/2014-111, s. 19.
+
+
+
+
+
+### Marking of Devices
+> [SOR/93-234, s. 2(F); SOR/2014-111, s. 19]
+
+
+
+**30** 
+
+- **(1)** An inspector who, for the purposes of paragraph 8(b) or 26(1)(c) of the Act, examines a device and determines that it meets the requirements of the Act and these Regulations shall mark the device or the container in which the device is stored when not in use with an examination mark in accordance with subsections (2), (3) and (4).
+
+- **(2)** A device referred to in subsection (1) shall be marked by means of a steel die or, if that is not possible, by means of a sticker.
+
+- **(3)** The examination mark shall be placed,
+	- **(a)** in the case of a weighing or measuring machine to which a plate is permanently affixed, on the blank area referred to in subsection 18(2) or, if that is not possible, close to the plate;
+	- **(b)** in the case of a weighing or measuring machine to which no plate is permanently affixed, on a part of the machine where it will be readily legible to a person using the machine under normal conditions of use;
 	- **(c)** in the case of a weight that has a lead plug, on the lead plug; and
 	- **(d)** in the case of a weight that does not have a lead plug, on any appropriate part of the weight.
 
-- **(4)** Notwithstanding subsection (3), where a device is so small that it is not practicable to mark it in accordance with that subsection, the inspection mark shall be located on the container in which the device is kept when not in use.
-> SOR/93-234, s. 2(F).
+- **(4)** Despite subsection (3), if a device is so small that it cannot be marked in accordance with that subsection, the examination mark shall be placed on the container in which the device is stored when not in use.
+> SOR/2014-111, s. 19.
 
 
 
 
+**30.1** An inspector who marks a weighing or measuring machine with an examination mark under section 30 shall also place an examination sticker on the device.
+> SOR/2014-111, s. 19.
 
-### Inspections Pursuant to Subsection 15(1) of the Act
-> [SOR/93-234, s. 2(F)]
-
-
-
-**30** [Repealed, SOR/94-650, s. 1]
-
-
-
-
-### Marking Devices after Inspections other than Inspections Pursuant to Section 28
-> [SOR/93-234, s. 2(F)]
 
 
 
 **31** 
 
-- **(1)** Where a device is inspected pursuant to section 15, subsection 17(1) or section 18 of the Act and the inspector determines that the device meets the requirements of the Act and these Regulations, he shall mark the device in the following manner:
-	- **(a)** in the case of a weighing machine or measuring machine, by attaching a sticker to the machine; and
-	- **(b)** in the case of a weight that has a lead plug, by marking the plug by means of a steel die, after defacing any existing inspection mark on the plug.
+- **(1)** An inspector who, under section 15 of the Act, examines a weighing or measuring machine set out in column I of Part I of Schedule I that is or is to be used in the category of trade set out in column II or who, under section 15.1 of the Act, examines a weighing or measuring machine that is or is to be used in trade and, in either case, determines that the machine meets the requirements of the Act and these Regulations shall mark the machine by placing on it an examination sticker.
 
-- **(2)** Notwithstanding subsection (1),
-	- **(a)** in the case of a weight that does not have a lead plug, no new inspection mark shall be made following an inspection pursuant to section 15 or subsection 17(1) of the Act; and
-	- **(b)** in the case of a weight that is so small that it is not practicable to mark it in accordance with subsection (1), the inspection mark shall be located on the container in which the device is kept when not in use.
-> SOR/93-234, s. 2(F).
+- **(2)** An inspector who, under paragraph 17(1)(b) or subsection 21(2) of the Act, examines a weighing or measuring machine that is or is to be used in trade and determines that it meets the requirements of the Act and these Regulations shall mark the machine by placing on it a sticker bearing the examination mark.
 
-
-
-
-
-### Sealing of Devices Pursuant to Subsection 19(2) of the Act
-
-
-**32** Except with respect to weighing devices to which the Specifications Relating to Non-Automatic Weighing Devices (1998) apply, where a volumetric liquid meter, measuring tank or electronic device is marked as prescribed by section 29 or 31, the inspector shall attach a seal of the self-adhesive, self locking or lead and wire type to such parts of the device as may be necessary in order that no adjustment, alteration or repair can be made to the device without breaking or removing the seal.
-> SOR/98-115, s. 4; SOR/2005-130, s. 4.
+- **(3)** An inspector who, under section 15 of the Act, examines a weight set out in column I of Part I of Schedule I that has a lead plug and that is or is to be used in the category of trade set out in column II or who, under section 15.1, paragraph 17(1)(b) or subsection 21(2) of the Act, examines a weight that has a lead plug that is or is to be used in trade and, in either case, determines that the weight meets the requirements of the Act and these Regulations shall
+	- **(a)** mark the plug with an examination mark by means of a steel die; or
+	- **(b)** if the weight is so small that this is not possible, place an examination mark on the container in which the weight is stored when not in use.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 19.
 
 
 
 
 
-### Accessibility and Assistance for Inspecting, Testing and Sealing Devices
+### Sealing of Devices
+
+
+**32** For the purpose of paragraph 19(2)(a) of the Act, the seal that shall be attached by an inspector who marks, as prescribed by section 30 or 31, a volumetric liquid meter, measuring tank or electronic device, other than a weighing device to which the Specifications Relating to Non-Automatic Weighing Devices (1998) apply, shall be of the self-adhesive, self-locking or lead-and-wire type.
+> SOR/98-115, s. 4; SOR/2005-130, s. 4; SOR/2014-111, ss. 19, 48(F).
+
+
+
+
+
+### Accessibility and Assistance for Examining and Sealing Devices
+> [SOR/2014-111, s. 20]
+
 
 
 **33** 
 
 - **(1)** Subject to subsection (2), the owner or person in possession of a device shall ensure that the location of the device, or access to it by customary means, is such that an inspector is able
-	- **(a)** to inspect and test the device, including a visual examination of its particular elements;
+	- **(a)** to examine the device, including performing a thorough visual examination of it and its components;
 	- **(b)** to verify the sealing means on the device and to seal it; and
-	- **(c)** to transport and to manoeuvre the applicable local standards and other testing equipment by customary means in the amount and size necessary for the test.
+	- **(c)** to transport and to manoeuvre by customary means the local standards and other equipment necessary for performing the examination.
 
-- **(2)** Subsection (1) does not apply where the owner or person in possession of the device agrees
-	- **(a)** to supply the labour and to supply and arrange the facilities, test products, standards calibrated in relation to a relevant local standard and other testing equipment that may be required to inspect, examine, test and seal the device; or
-	- **(b)** on the request of the inspector, to remove the device to a suitable location and to supply the equipment, material and services that may be necessary to inspect, examine, test and seal the device.
+- **(2)** Subsection (1) does not apply if the owner or person in possession of the device agrees
+	- **(a)** to put at the inspector’s disposal the necessary facilities and to supply the necessary labour, test products, standards calibrated in relation to a relevant local standard and any other equipment necessary for examining and sealing the device; or
+	- **(b)** on the request of the inspector, to remove the device to a suitable location and to supply the necessary equipment, material and services for examining and sealing the device.
 
 - **(3)** [Repealed, SOR/2005-130, s. 5]
-> SOR/98-115, s. 4; SOR/2005-130, s. 5.
+> SOR/98-115, s. 4; SOR/2005-130, s. 5; SOR/2014-111, ss. 21, 49(F).
 
 
 
@@ -635,8 +735,8 @@ the trader shall, within five days after the date of the installation, make a re
 	- **(e)** the range of flow rate or capacity of the device; and
 	- **(f)** the address and description of the place where the device is installed.
 
-- **(3)** Where a device described in subsection (2) has been removed from its installation and is installed again, the trader who owns the device or holds it in his possession for use in trade shall, within five days after the date of the installation, make a report in writing to the nearest Measurement Canada office containing the information required by subsection (2) and the address and description of the place where the device was previously installed.
-> SOR/2005-297, ss. 40, 41(F), 43.
+- **(3)** If a device described in subsection (2) has been removed from its installation and is installed again, the trader who owns the device or has it in their possession for use in trade shall, within five days after the date of the installation, make a report in writing to the nearest Measurement Canada office containing the information required by subsection (2) and the address and description of the place where the device was previously installed.
+> SOR/2005-297, ss. 40, 41(F), 43; SOR/2014-111, s. 22(E).
 
 
 
@@ -649,10 +749,10 @@ the trader shall, within five days after the date of the installation, make a re
 	- **(c)** the range of flow rate or capacity of the machine;
 	- **(d)** the make, fleet and unit number of the vehicle on which the machine is installed;
 	- **(e)** the address, if known, at which the machine was located prior to the acquisition; and
-	- **(f)** the new address at which the machine can be inspected.
+	- **(f)** the new address at which the machine can be examined.
 
-- **(2)** Where a trader who owns or holds in his possession for use in trade a machine described in subsection (1) changes the address at which the machine can be found for inspection, he shall, within five days after the date of changing the address, make a report in writing to the nearest Measurement Canada office containing the information required by paragraphs (1)(a), (b), (c), (d) and (f) and the address at which the machine could have been inspected prior to the change of address.
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 40.
+- **(2)** If a trader who owns or has in their possession for use in trade a measuring machine described in subsection (1) changes the address at which the machine can be examined, they shall, within five days after the date of changing the address, make a report in writing to the nearest Measurement Canada office containing the information required by paragraphs (1)(a), (b), (c), (d) and (f) and the address at which the machine could have been examined before the change of address.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 40; SOR/2014-111, s. 23.
 
 
 
@@ -668,7 +768,7 @@ the trader shall, within five days after the date of the installation, make a re
 - **(2)** The written notice referred to in subparagraph 29(a)(ii) of the Act shall be forwarded to the nearest Measurement Canada office within five days from the date of the repair of the device and shall contain the following information:
 	- **(a)** the name and address of the person who made the repair;
 	- **(b)** the name and address of the person to whom the repaired device will be sent;
-	- **(c)** if known to the person who made the repair, the address of the place where the device will be located for inspection, if that address is different from the address referred to in paragraph (b);
+	- **(c)** if known to the person who made the repair, the address of the place where the device will be located for examination, if that address is different from the address referred to in paragraph (b);
 	- **(d)** the date of completion of the repair;
 	- **(e)** the make, model and serial number of the device;
 	- **(f)** the range of flow rate or capacity of the device;
@@ -677,7 +777,7 @@ the trader shall, within five days after the date of the installation, make a re
 	- **(i)** [Repealed, SOR/81-623, s. 1]
 	- **(j)** whether the person who made the repair removed or broke or found removed or broken any marking, tag or seal placed on or attached to the device by an inspector or a person who had previously adjusted, altered or repaired the device, and, where possible, a description of such marking, tag or seal; and
 	- **(k)** where the person who made the repair removed or broke or found removed or broken any seal, whether he replaced it with another seal and, if so, a description of that seal and the number of the seal, if any.
-> SOR/81-623, s. 1; SOR/93-234, s. 2(F); SOR/2005-297, ss. 40, 41(F), 43.
+> SOR/81-623, s. 1; SOR/93-234, s. 2(F); SOR/2005-297, ss. 40, 41(F), 43; SOR/2014-111, ss. 46, 47(F).
 
 
 
@@ -702,7 +802,7 @@ the trader shall, within five days after the date of the installation, make a re
 	- **(k)** where the person who made the alteration, adjustment or repair removed or broke or found removed or broken any seal, whether he replaced it with another seal and, if so, a description of that seal and the number of the seal, if any.
 
 - **(2)** A report under subsection (1) shall be in writing, but an inspector may authorize the report to be made verbally, in which case the report shall be made verbally.
-> SOR/81-623, s. 2; SOR/2005-297, ss. 40, 41(F).
+> SOR/81-623, s. 2; SOR/2005-297, ss. 40, 41(F); SOR/2014-111, s. 47(F).
 
 
 
@@ -807,8 +907,8 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 
-**47.1** The statement of quantity for a commodity set out in column I of Schedule I shall consist of at least one statement per parameter set out in column II. 
-> SOR/2005-297, s. 8.
+**47.1** The statement of quantity for a commodity set out in column I of Schedule II.1 shall consist of at least one statement per parameter set out in column II.
+> SOR/2005-297, s. 8; SOR/2014-111, s. 24.
 
 
 
@@ -848,50 +948,50 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 
-### Inspection
-> [SOR/93-234, s. 2(F)]
+### Examination
+> [SOR/93-234, s. 2(F); SOR/2014-111, s. 46]
 
 
 
 **50** 
 
-- **(1)** When an inspection is made of an individually measured commodity that is in a liquid state and has its quantity stated in units of volume, the quantity of the commodity shall be determined at the temperature at which it is customarily measured for sale. 
+- **(1)** When an examination is made of an individually measured commodity that is in a liquid state and has its quantity stated in units of volume, the quantity of the commodity shall be determined at the temperature at which it is customarily measured for sale.
 
-- **(2)** When an inspection is made of an individually measured commodity that is in a liquid state and has its quantity stated in units of volume at 15°C, the quantity of the commodity shall be determined at a temperature of 15°C. 
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 10.
+- **(2)** When an examination is made of an individually measured commodity that is in a liquid state and has its quantity stated in units of volume at 15°C, the quantity of the commodity shall be determined at a temperature of 15°C.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 10; SOR/2014-111, s. 46.
 
 
 
 
 **51** 
 
-- **(1)** When an inspection is made of a standard quantity commodity that is in a liquid or near liquid state at a temperature of 20°C and has its quantity stated in units of volume, the quantity of the commodity shall be determined at a temperature of 20°C. 
+- **(1)** When an examination is made of a standard quantity commodity that is in a liquid or near liquid state at a temperature of 20°C and has its quantity stated in units of volume, the quantity of the commodity shall be determined at a temperature of 20°C.
 
-- **(2)** When an inspection is made of a standard quantity commodity that is in a frozen state and has its quantity stated in units of volume, the quantity of the commodity shall be determined at the temperature at which it is customarily offered for sale. 
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 10.
-
-
+- **(2)** When an examination is made of a standard quantity commodity that is in a frozen state and has its quantity stated in units of volume, the quantity of the commodity shall be determined at the temperature at which it is customarily offered for sale.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 10; SOR/2014-111, s. 46.
 
 
 
-### Inspection by Sample
-> [SOR/93-234, s. 2(F)]
+
+
+### Examination by Sample
+> [SOR/93-234, s. 2(F); SOR/2014-111, s. 46]
 
 
 
 **52** 
 
-- **(1)** The inspection of any quantity of prepackaged commodities, hereinafter referred to as a lot, each unit of which purports to contain the same quantity of commodity, that an inspector undertakes to determine whether the lot meets the requirements of the Act and these Regulations respecting the statement of quantity, shall be made by selecting and inspecting a sample from the lot.
+- **(1)** The examination of any quantity of prepackaged commodities, referred to as a lot, each unit of which purports to contain the same quantity of commodity, that an inspector undertakes to determine whether the lot meets the requirements of the Act and these Regulations respecting the statement of quantity, shall be made by selecting and examining a sample from the lot.
 
 - **(2)** Subject to subsection (3), where a lot contains the number of units set out in Column I of an item of Part I of Schedule III, an inspector shall select from the lot a number of units not less than the number set out in Column II of that item, and the number of units selected shall constitute the sample referred to in subsection (1).
 
 - **(3)** Where, for the purpose of determining the quantity, other than for establishing the weight of the package containing the commodity, it is necessary to destroy a certain number of units in the lot, an inspector shall select, for destruction, not more than 10 per cent of the total number of units in the lot and not less than one unit, and the number of units selected shall constitute the sample referred to in subsection (1).
 
-- **(4)** The lot from which a sample was taken and inspected by an inspector does not meet the requirements of the Act and these Regulations respecting the statement of quantity where the inspector determines that
+- **(4)** The lot from which a sample was taken and examined by an inspector does not meet the requirements of the Act and these Regulations respecting the statement of quantity if the inspector determines that
 	- **(a)** the weighted average quantity of the units in the sample, as determined by the formula set out in Part II of Schedule III, is less than the stated quantity;
 	- **(b)** the number of units in the sample that contain less than the stated quantity by more than the prescribed limits of error set out in Schedule II for that quantity is equal to or greater than the number set out in Column II of Part IV of Schedule III for the sample size set out in Column I thereof; or
 	- **(c)** two or more units in the sample contain less than the stated quantity by more than twice the prescribed limits of error set out in Schedule II for that quantity.
-> SOR/89-570, s. 3, 6(F).
+> SOR/89-570, s. 3, 6(F); SOR/2014-111, s. 25(E).
 
 
 
@@ -948,12 +1048,12 @@ the trader shall, within five days after the date of the installation, make a re
 
 - **(1)** Subject to subsection (2), the amount set out in Column II of an item in the appropriate Part of Schedule IV is hereby prescribed to be the tolerance for the purpose of subsection 13(1) of the Act for a local standard that has a nominal value set out in Column I of that item.
 
-- **(2)** Where a local standard is tested to determine whether it is within the tolerance set out in a Part of Schedule IV for that local standard and the nominal value of that local standard is not specified in Column I of an item of that Part, the tolerance for that local standard shall be the amount resulting from linear interpolation between the tolerances set out in Column II of that Part opposite the specific nominal values set out in Column I of that Part that are nearest to the nominal value of the local standard being tested.
+- **(2)** If the nominal value of a local standard is not set out in column I of the appropriate Part of Schedule IV, the tolerance for that standard shall be the amount resulting from linear interpolation between the tolerances set out in column II of that Part in respect of the nominal values set out in column I that are nearest to the nominal value of the standard.
 
 - **(3)** The tolerances set out in Parts XI and XII of Schedule IV for the nominal value of cylindrical graduated standards are also the tolerances for any other values that are marked on those standards as intermediate graduations.
 
 - **(4)** For the purposes of subsection 13(1) of the Act, the tolerance for a local standard referred to in subsection 56(2) at any point within the measuring range designated by the owner of the standard for the purpose of use of the standard is two per cent of the value or reading of that point indicated by the reference standard.
-> SOR/86-132, s. 1; SOR/89-570, s. 6(F); SOR/2005-297, s. 12.
+> SOR/86-132, s. 1; SOR/89-570, s. 6(F); SOR/2005-297, s. 12; SOR/2014-111, s. 26.
 
 
 
@@ -984,12 +1084,12 @@ the trader shall, within five days after the date of the installation, make a re
 </tr>
 <tr>
 <td>1</td>
-<td>A weight, other than a weight referred to in items 2 to 4, that is used by an inspector in inspecting devices for use in trade </td>
+<td>A weight, other than a weight referred to in items 2 to 4, that is used by an inspector in examining devices for use in trade </td>
 <td>1 year</td>
 </tr>
 <tr>
 <td>2</td>
-<td>A weight that is retained in one location and that is used exclusively in inspecting discontinuous totalizing weighing systems at that location </td>
+<td>A weight that is retained in one location and that is used exclusively in examining discontinuous totalizing weighing systems at that location </td>
 <td>5 years</td>
 </tr>
 <tr>
@@ -1029,7 +1129,7 @@ the trader shall, within five days after the date of the installation, make a re
 </tr>
 <tr>
 <td>10</td>
-<td>A static linear measure </td>
+<td>A linear static measure </td>
 <td>10 years</td>
 </tr>
 <tr>
@@ -1078,7 +1178,7 @@ the trader shall, within five days after the date of the installation, make a re
 </table>
 
 
-- **(2)** Where the tolerance for a local standard is that referred to in subsection 54(4), every local standard described in column I of the table to this subsection shall be calibrated and certified at least once within the period set out in column II. 
+- **(2)** Where the tolerance for a local standard is that referred to in subsection 54(4), every local standard described in column I of the table to this subsection shall be calibrated and certified at least once within the period set out in column II.
 #### TABLE
 <table>
 <tr>
@@ -1102,7 +1202,7 @@ the trader shall, within five days after the date of the installation, make a re
 </tr>
 </table>
 
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 13.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 13; SOR/2014-111, ss. 27, 46.
 
 
 
@@ -1132,14 +1232,20 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 
+**58.1** The fees and charges under this Part do not apply to services provided by an inspector who is not employed in the federal public administration.
+> SOR/2014-111, s. 28.
+
+
+
+
 **59** 
 
 - **(1)** The fees and charges for the following services provided by an inspector shall be determined in accordance with Part I of Schedule V:
-	- **(a)** inspection of a device in accordance with a request referred to in subsection 15(2) of the Act;
-	- **(b)** initial inspection of a device pursuant to paragraph 8(b) of the Act;
-	- **(c)** calibration of a standard, other than a standard used or intended to be used by an inspector to inspect a device, at the request of the owner or person in possession of the standard;
-	- **(d)** inspection of a commodity at the request of the owner or person in possession of the commodity;
-	- **(e)** examination of a device or provision of any other service related to an application for the approval of a device or of a class, type or design of a device referred to in section 14; and
+	- **(a)** examination of a device in accordance with a request referred to in section 15.1 or subsection 21(2) of the Act;
+	- **(b)** examination of a device for the purposes of paragraph 8(b) of the Act;
+	- **(c)** calibration of a standard, other than a standard used or intended to be used by an inspector to examine a device, at the request of the owner or person in possession of the standard;
+	- **(d)** examination of a commodity at the request of the owner or person in possession of the commodity;
+	- **(e)** provision of any service related to an application for the approval of a device or of a class, type or design of a device referred to in section 14; and
 	- **(f)** alteration or adjustment of a device with the consent of the owner or person in possession of the device.
 
 - **(2)** Where, in order to provide a service set out in subsection (1), an inspector provides or transports a piece of equipment or a vehicle described in column I of item 1 of Part II of Schedule V, the applicable charges set out in column II of that item shall be paid in addition to the fees and charges set out in Part I of that Schedule.
@@ -1147,7 +1253,7 @@ the trader shall, within five days after the date of the installation, make a re
 - **(3)** The charges incurred by an inspector for accommodation, meals, incidental expenses and transportation referred to in Schedule V are determined in accordance with the rates and allowances set out in the “Travel Directive” contained in the Treasury Board Manual that are in effect at the time that the service set out in subsection (1) is provided.
 
 - **(4)** Where the fees and charges set out in Schedule V are calculated on the basis of time, that time includes travel time and waiting time.
-> SOR/79-747, s. 1; SOR/85-736, s. 2; SOR/87-582, s. 2; SOR/93-413, s. 1.
+> SOR/79-747, s. 1; SOR/85-736, s. 2; SOR/87-582, s. 2; SOR/93-413, s. 1; SOR/2014-111, ss. 29, 49(F).
 
 
 
@@ -1164,8 +1270,8 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 
-**63** Where, in order to make an inspection, an inspector requires any equipment, material or commodity that is not customarily supplied by a Measurement Canada office and that has not been supplied by the dealer or trader for whom the inspection is to be made, the cost of purchasing or renting the necessary equipment, material or commodity and transporting it to and from the place where the inspection is to be made shall, in addition to the fee and charge otherwise payable for the inspection, be a charge that shall be paid in relation to the inspection.
-> SOR/93-234, s. 2(F); SOR/2005-297, s. 40.
+**63** If, in order to perform an examination, an inspector requires any equipment, material or commodity that is not customarily supplied by a Measurement Canada office and that has not been supplied by the dealer or trader for whom the examination is to be performed, the cost of purchasing or renting the necessary equipment, material or commodity and transporting it to and from the place where the examination is to be performed shall be payable in addition to the fee and charge otherwise payable for the examination.
+> SOR/93-234, s. 2(F); SOR/2005-297, s. 40; SOR/2014-111, s. 30.
 
 
 
@@ -1176,10 +1282,10 @@ the trader shall, within five days after the date of the installation, make a re
 
 **64** 
 
-- **(1)** Subject to section 21 of the Act, the fee and charge prescribed by these Regulations for the inspection, altering or adjusting of a device shall be paid by the owner of the device or by the person in possession of the device.
+- **(1)** Subject to section 21 of the Act, the fee and charge prescribed by these Regulations for the examination, altering or adjusting of a device shall be paid by the owner of the device or by the person in possession of the device.
 
-- **(2)** Where a commodity is inspected pursuant to the Act, the fee and charge prescribed by these Regulations for inspecting the commodity shall be paid by the person who requests the inspection.
-> SOR/93-234, s. 2(F).
+- **(2)** Where a commodity is examined pursuant to the Act, the fee and charge prescribed by these Regulations for examining the commodity shall be paid by the person who requests the examination.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 46.
 
 
 
@@ -1241,12 +1347,12 @@ the trader shall, within five days after the date of the installation, make a re
 </tr>
 <tr>
 <td>1</td>
-<td>Tank having a capacity greater than 450 L or 100 gallons </td>
+<td>Measuring tank having a capacity greater than 450 L or 100 gallons </td>
 <td>5 years</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Slow-flow meter having a flow rate of 115 L or less per hour or 25 gallons or less per hour </td>
+<td>Slow-flow meter having a flow rate of 115 L or less per hour or 25 gallons or less per hour </td>
 <td>5 years</td>
 </tr>
 <tr>
@@ -1258,7 +1364,7 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 - **(2)** Where a device is tested for performance and a specific value for the known test quantity is not set out in the applicable table to this Part or in specifications established pursuant to subsection 13(1), the acceptance limits of error and in-service limits of error shall be determined by linear interpolation between the lower and higher limits of error nearest to the known test quantity.
-> SOR/80-290, s. 2; SOR/89-570, s. 6(F); SOR/90-118, s. 17; SOR/2005-297, s. 14.
+> SOR/80-290, s. 2; SOR/89-570, s. 6(F); SOR/90-118, s. 17; SOR/2005-297, s. 14; SOR/2014-111, s. 45.
 
 
 
@@ -1283,11 +1389,8 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 
-**70** Where the use of a device in any manner or for any purpose is prohibited
-- **(a)** in the certificate of inspection issued at the time of the most recent inspection made under the Act, or
-- **(b)** in the notice of approval of that device pursuant to section 3 of the Act or pursuant to a notice of approval under a previous enactment,
-the device shall, throughout the period of its use in trade, have closely associated with it or prominently displayed thereon a readily legible sign or notice setting out the manner or purpose of use that is prohibited.
-> SOR/93-234, s. 2(F).
+**70** If the use of a device in any manner or for any purpose is prohibited in either the certificate issued at the time of the most recent examination performed under the Act or in the notice of approval of the device issued under section 3 of the Act or under a previous enactment, the device shall, throughout the period of its use in trade, have closely associated with it or prominently displayed on it a readily legible sign or notice setting out the manner or purpose of use that is prohibited.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 31.
 
 
 
@@ -1333,8 +1436,8 @@ the device shall, throughout the period of its use in trade, have closely associ
 
 
 
-**78** At the time of inspection pursuant to paragraph 8(b) of the Act or section 28 of these Regulations, not more than two adjusting holes shall be provided in a single weight and at every inspection there shall be lead in each adjusting hole sufficient to accept an imprint from an inspection stamp.
-> SOR/93-234, s. 2(F).
+**78** At the time of an examination for the purposes of paragraph 8(b) or 26(1)(c) of the Act, not more than two adjusting holes shall be provided in a single weight and at every examination there shall be lead in each adjusting hole sufficient to accept an examination mark.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 32.
 
 
 
@@ -2123,8 +2226,8 @@ the device shall, throughout the period of its use in trade, have closely associ
 
 
 
-**90** When not in use, a weight that, due to its small size is not individually stamped with a mark of inspection shall be stored in a receptacle that bears the inspection mark.
-> SOR/93-234, s. 2(F).
+**90** When not in use, a weight that, due to its small size, is not individually marked with an examination mark shall be stored in a container that bears the examination mark.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 33.
 
 
 
@@ -2628,309 +2731,58 @@ the device shall, throughout the period of its use in trade, have closely associ
 
 
 **DIVISION IV** 
-### Static Linear Measures
+### [Repealed, SOR/2014-111, s. 34]
+
+
+**107** [Repealed, SOR/2014-111, s. 34]
 
 
 
-#### Interpretation
-
-
-**107** In this Division, ***linear measure*** means a static linear measure for use in trade.
+**108** [Repealed, SOR/2014-111, s. 34]
 
 
 
-
-#### Design, Composition and Construction
-
-
-**108** Rigid linear measures shall be smooth and straight and made of steel, brass, hardwood or such other dimensionally stable materials as will retain their shape and remain reasonably permanent under normal conditions of use.
+**109** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**109** The ends of linear measures made of wood or other materials susceptible to wear through use shall be protected by a material, not less durable than brass, permanently attached to the ends.
+**110** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**110** Tape linear measures shall be made of steel, woven tape or other suitable dimensionally stable and durable material.
+**111** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**111** The units of measurement on a linear measure shall be so identified as to prevent confusion between metric and Canadian units.
+**112** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**112** In any series of graduations on a linear measure, lines representing equal intervals, shall be uniform in size and character and spaced at equal intervals.
+**113** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**113** Where figures, words, symbols or combinations thereof are set out on a linear measure to define the value of sub-graduations, they shall not be so placed as to interfere with the accuracy of reading or to cause confusion to the user.
+**114** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**114** The width of a graduation line shall in no case be greater than the width of the minimum clear interval between graduations.
+**115** [Repealed, SOR/2014-111, s. 34]
 
 
 
-
-#### Performance
-> [SOR/2005-297, s. 42(F)]
+**116** [Repealed, SOR/2014-111, s. 34]
 
 
 
-**115** When a linear measure has an indicated length between ends or between one end and any graduation or between any two graduations and that length is set out in Column I of an item in a table to sections 118 and 119, and the linear measure is tested for acceptance limits of error in relation to a relevant local standard of length, the linear measure is within the acceptance limits of error in respect of such indicated length if the actual length determined by the test
-- **(a)** is not less than its indicated length, and
-- **(b)** does not exceed its indicated length
-by an amount in excess of the amount set out in Column II of that item.
-> SOR/89-570, s. 6(F); SOR/2012-28, s. 13(F).
+**117** [Repealed, SOR/2014-111, s. 34]
 
 
 
-
-**116** When a linear measure has an indicated length between ends or between one end and any graduation or between any two graduations and that length is set out in Column I of an item in a table to sections 118 and 119, and the linear measure is tested for in-service limits of error in relation to a relevant local standard of length, the linear measure is within the in-service limits of error in respect of such indicated length if the actual length determined by the test
-- **(a)** is not less than the indicated length, and
-- **(b)** does not exceed its indicated length
-by an amount in excess of the amount set out in Column III of that item.
-> SOR/89-570, s. 6(F).
+**118** [Repealed, SOR/2014-111, s. 34]
 
 
 
-
-**117** When a test referred to in section 115 or 116 is carried out on
-- **(a)** a tape linear measure, other than a land surveyor’s tape linear measure, the measure shall be supported on a flat surface;
-- **(b)** a metal tape linear measure that is designed to be used under tension and the measure has
-	- **(i)** metric units of measurement and is 10 metres or less in length, it shall be subjected to a tension of 25 N,
-	- **(ii)** metric units of measurement and is over 10 metres in length, it shall be subjected to a tension of 50 N,
-	- **(iii)** only Canadian units of measurement and is 25 feet or less in length, it shall be subjected to a tension of 5 pounds, and
-	- **(iv)** only Canadian units of measurement and is over 25 feet in length, it shall be subjected to a tension of 10 pounds;
-- **(c)** a woven tape measure that has metric units of measurement, it shall be subjected to a tension of 25 N;
-- **(d)** a woven tape measure that has only Canadian units of measurement, it shall be subjected to a tension of 5 pounds; and
-- **(e)** a metal tape measure that, when extended, becomes semi-rigid, it shall not be subjected to a tension during the test.
-
-
-
-**118** 
-
-- **(1)** Subject to subsection (2), the limits of error set out in the following table apply to all metal or woven fabric tape measures with graduations and markings in terms of metric units of length:
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Column I</th>
-<th>Acceptance Limits of Error</th>
-<th>In-Service Limits of Error</th>
-</tr>
-<tr>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Indicated Length</th>
-<th>Over or Under Indicated Length</th>
-<th>Over or Under Indicated Length</th>
-</tr>
-<tr>
-<td></td>
-<td>*Metres*</td>
-<td>*Millimetres*</td>
-<td>*Millimetres*</td>
-</tr>
-<tr>
-<td>1</td>
-<td>0.2</td>
-<td>0.2</td>
-<td>0.2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>0.5</td>
-<td>0.4</td>
-<td>0.4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1</td>
-<td>0.6</td>
-<td>0.6</td>
-</tr>
-<tr>
-<td>4</td>
-<td>1.5</td>
-<td>0.8</td>
-<td>0.8</td>
-</tr>
-<tr>
-<td>5</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>3</td>
-<td>1.5</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>7</td>
-<td>2.5</td>
-<td>2.5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>10</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>10</td>
-<td>15</td>
-<td>3.5</td>
-<td>3.5</td>
-</tr>
-<tr>
-<td>11</td>
-<td>20</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>12</td>
-<td>30</td>
-<td>5.5</td>
-<td>5.5</td>
-</tr>
-<tr>
-<td>13</td>
-<td>50</td>
-<td>7.5</td>
-<td>7.5</td>
-</tr>
-<tr>
-<td>14</td>
-<td>70</td>
-<td>9</td>
-<td>9</td>
-</tr>
-<tr>
-<td>15</td>
-<td>100</td>
-<td>12</td>
-<td>12</td>
-</tr>
-</table>
-
-
-- **(2)** The limits of error for rigid linear measures with graduations and markings in terms of metric units of length are twice the limits of error set out in the table to subsection (1).
-> SOR/89-570, s. 6(F).
-
-
-
-
-**119** 
-
-- **(1)** Subject to subsection (2), the limits of error set out in the following table apply to all metal or woven fabric tape measures with graduations and markings in terms of Canadian units of length:
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Column I</th>
-<th>Acceptance Limits of Error</th>
-<th>In-Service Limits of Error</th>
-</tr>
-<tr>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Indicated Length</th>
-<th>Over or Under Indicated Length</th>
-<th>Over or Under Indicated Length</th>
-</tr>
-<tr>
-<td></td>
-<td>*Feet*</td>
-<td>*Inches*</td>
-<td>*Inches*</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2 or less</td>
-<td>1/64</td>
-<td>1/64</td>
-</tr>
-<tr>
-<td>2</td>
-<td>3 to 6</td>
-<td>1/32</td>
-<td>1/32</td>
-</tr>
-<tr>
-<td>3</td>
-<td>10</td>
-<td>3/64</td>
-<td>3/64</td>
-</tr>
-<tr>
-<td>4</td>
-<td>15</td>
-<td>1/16</td>
-<td>1/16</td>
-</tr>
-<tr>
-<td>5</td>
-<td>20</td>
-<td>3/32</td>
-<td>3/32</td>
-</tr>
-<tr>
-<td>6</td>
-<td>30</td>
-<td>3/32</td>
-<td>3/32</td>
-</tr>
-<tr>
-<td>7</td>
-<td>50</td>
-<td>1/8</td>
-<td>1/8</td>
-</tr>
-<tr>
-<td>8</td>
-<td>75</td>
-<td>3/16</td>
-<td>3/16</td>
-</tr>
-<tr>
-<td>9</td>
-<td>100</td>
-<td>3/16</td>
-<td>3/16</td>
-</tr>
-<tr>
-<td>10</td>
-<td>150</td>
-<td>¼</td>
-<td>¼</td>
-</tr>
-<tr>
-<td>11</td>
-<td>200</td>
-<td>5/16</td>
-<td>5/16</td>
-</tr>
-</table>
-
-
-- **(2)** The limits of error for rigid linear measures with graduations and markings in terms of Canadian units of length are twice the limits of error set out in the table to subsection (1).
-> SOR/89-570, s. 6(F).
-
+**119** [Repealed, SOR/2014-111, s. 34]
 
 
 
@@ -3253,8 +3105,8 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 
-**163** An electronic machine shall be equipped with the means to seal the coarse zero and span adjustment controls so that all other components and adjustments are readily accessible without breaking the seal. The means shall be readily observable upon inspection without having to disassemble any part using tools that are not supplied with the machine.
-> SOR/2012-28, s. 6.
+**163** An electronic machine shall be equipped with the means to seal the coarse zero and span adjustment controls so that all other components and adjustments are readily accessible without breaking the seal. The means shall be readily observable upon examination without having to disassemble any part using tools that are not supplied with the machine.
+> SOR/2012-28, s. 6; SOR/2014-111, s. 46.
 
 
 
@@ -4970,8 +4822,8 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
-**257** A meter that has a ticket printer shall be so designed that a jammed ticket can be removed without breaking the inspection seals on the means of adjusting the registration.
-> SOR/90-118, s. 33.
+**257** A meter that has a ticket printer shall be so designed that a jammed ticket can be removed without breaking the examination seals on the means of adjusting the registration.
+> SOR/90-118, s. 33; SOR/2014-111, s. 46.
 
 
 
@@ -5783,23 +5635,25 @@ to
 	- **(b)** in the case of a meter installed to receive a quantity of liquid, so that the piping upstream of the transfer point shall empty at the completion of the transaction.
 
 - **(3)** Subject to section 289 and except as otherwise allowed by any additional specifications established pursuant to section 27, a meter shall be installed
-	- **(a)** so that all piping downstream of the meter, where the meter is installed to deliver a quantity of liquid, or all piping upstream of the meter, where the meter is installed to receive a quantity of liquid, may be readily inspected; and
+	- **(a)** so that all piping downstream of the meter, where the meter is installed to deliver a quantity of liquid, or all piping upstream of the meter, where the meter is installed to receive a quantity of liquid, may be readily examined; and
 	- **(b)** with only one delivery outlet unless the meter is installed
-		- **(i)** so that diversion of flow is readily apparent to the purchaser or the purchaser’s agent by automatic means such as visible valves or lights with explanatory signs that indicate which outlets are in operation,
+		- **(i)** so that diversion of flow is readily apparent to the purchaser or the purchaser’s agent or mandatary by automatic means such as visible valves or lights with explanatory signs that indicate which outlets are in operation,
 		- **(ii)** to fuel or defuel aircraft, or
 		- **(iii)** to be used exclusively to load vehicle-mounted propane tanks with a capacity greater than 5 000 L.
-> SOR/90-118, s. 38.
+> SOR/90-118, s. 38; SOR/2014-111, ss. 35(E), 46.
 
 
 
 
-**283** A meter, other than a slow-flow meter, slow-flow dispenser, dispenser of the service station type for motor fuel or a meter equipped with a preset valve, shall have a quick-acting valve installed near its outlet for inspection purposes.
-> SOR/93-234, s. 2(F).
+**283** A meter, other than a slow-flow meter, slow-flow dispenser, dispenser of the service station type for motor fuel or a meter equipped with a preset valve, shall have a quick-acting valve installed near its outlet for examination purposes.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 46.
 
 
 
 
-**284** A meter, other than a slow-flow meter, shall be installed so that it has a convenient means for delivering the measured product when the meter installation is tested and inspected.
+**284** A meter, other than a slow-flow meter, shall be installed so that it has a convenient means for delivering the measured product when the meter installation is examined.
+> SOR/2014-111, s. 36.
+
 
 
 
@@ -5850,11 +5704,15 @@ appropriate automatic controls shall be installed in the meter system to permit 
 
 
 
-**292** A flow transmitter for input to an electronic data processing system may be attached to a liquid meter and the output from the data processing system used for invoicing purposes if the purchaser of the liquid being measured or his agent is given a printed copy of the data recorded by the data processing system before he leaves the trader’s premises.
+**292** A flow transmitter for input to an electronic data processing system may be attached to a liquid meter and the output from the data processing system used for invoicing purposes if the purchaser of the liquid being measured or their agent or mandatary is given a printed copy of the data recorded by the data processing system before they leave the trader’s premises.
+> SOR/2014-111, s. 37.
 
 
 
-**293** A flow transmitter may be installed at a key-operated self-service meter installation to drive the unverified accumulative totalizers for individual customers if the purchaser of the liquid being measured is able to visually check the advance of his totalizer against the indication of the primary indicator at the time of delivery of the liquid.
+
+**293** A flow transmitter may be installed at a key-operated self-service meter installation to drive the auxiliary accumulative totalizers for individual customers if the purchaser of the liquid being measured is able to visually check the advance of their totalizer against the indication of the primary indicator at the time of delivery of the liquid.
+> SOR/2014-111, s. 37.
+
 
 
 
@@ -5871,17 +5729,7 @@ appropriate automatic controls shall be installed in the meter system to permit 
 ### Measuring and Vehicle Tanks
 
 
-
-#### Interpretation
-
-
-**296** In this Division,
-
-***tank*** [Revoked, SOR/90-118, s. 40]
-
-***vehicle tank*** means a measuring tank that is mounted on a vehicle other than a vehicle for railway use. (*réservoir sur véhicule*)
-> SOR/90-118, s. 40.
-
+**296** [Repealed, SOR/2014-111, s. 38]
 
 
 
@@ -5889,82 +5737,100 @@ appropriate automatic controls shall be installed in the meter system to permit 
 #### Design, Composition and Construction
 
 
-**297** A tank and its piping system and any equipment or accessories that can affect its accuracy of measurement shall be of such design, composition and construction that when a delivery is made from any capacity indication, the quantity of liquid delivered through any discharge valve rigidly connected to the tank is within the prescribed limits of error for the tank.
-> SOR/89-570, s. 6(F).
+**297** A measuring tank and its piping system and any equipment or accessories that can affect its accuracy of measurement shall be of such design, composition and construction that when a delivery is made from any capacity indication, the quantity of liquid delivered through any discharge valve rigidly connected to the measuring tank is within the prescribed limits of error for the measuring tank.
+> SOR/89-570, s. 6(F); SOR/2014-111, s. 45.
 
 
 
 
-**298** The shells or bulkheads of a tank shall consist of such material and be so constructed that they will not become distorted under any condition of loading under normal conditions of use.
+**298** The shells or bulkheads of a measuring tank shall consist of such material and be so constructed that they will not become distorted under any condition of loading under normal conditions of use.
+> SOR/2014-111, s. 45.
 
 
 
-**299** A tank shall have an effective means of automatic venting to permit the free passage of air into and out of the tank when it is emptied and filled.
+
+**299** A measuring tank shall have an effective means of automatic venting to permit the free passage of air into and out of the measuring tank when it is emptied and filled.
+> SOR/2014-111, s. 45.
 
 
 
-**300** Subject to section 320, there shall be no pipe or other flow connection between two or more tanks that are separately calibrated, but a battery of calibrated tanks may be connected to a common discharge manifold that prevents flow from one tank to another.
+
+**300** Subject to section 320, there shall be no pipe or other flow connection between two or more measuring tanks that are separately calibrated, but a battery of calibrated measuring tanks may be connected to a common discharge manifold that prevents flow from one measuring tank to another.
+> SOR/2014-111, s. 45.
 
 
 
-**301** The capacity indicators on a tank shall consist of
+
+**301** The capacity indicators on a measuring tank shall consist of
 - **(a)** graduations on or adjacent to a gauge glass or tube; or
 - **(b)** appropriate internal capacity indicators.
-> SOR/93-234, s. 2.
+> SOR/93-234, s. 2; SOR/2014-111, s. 45.
 
 
 
 
-**302** A capacity indicator shall only be installed in a tank at any level where a quantity of liquid equal to the limit of error referred to in section 325 for the indicated quantity causes the liquid at that level to rise by at least 2.5 mm or 3/32 of an inch.
-> SOR/89-570, s. 6(F); SOR/90-118, s. 41.
+**302** A capacity indicator shall only be installed in a measuring tank at any level where a quantity of liquid equal to the limit of error referred to in section 325 for the indicated quantity causes the liquid at that level to rise by at least 2.5 mm or 3/32 of an inch.
+> SOR/89-570, s. 6(F); SOR/90-118, s. 41; SOR/2014-111, s. 45.
 
 
 
 
-**303** A maximum capacity indicator shall be positioned to allow a volume equal to at least one per cent of the capacity of the tank for the thermal expansion of the liquid.
+**303** A maximum capacity indicator shall be positioned to allow a volume equal to at least one per cent of the capacity of the measuring tank for the thermal expansion of the liquid.
+> SOR/2014-111, s. 45.
 
 
 
-**304** When an internal capacity indicator is installed in a tank,
-- **(a)** the indicator shall be attached to a permanent section of the tank; and
+
+**304** When an internal capacity indicator is installed in a measuring tank,
+- **(a)** the indicator shall be attached to a permanent section of the measuring tank; and
 - **(b)** a means shall be provided to attach a seal on the indicator.
-> SOR/93-234, s. 2; SOR/94-691, s. 4.
+> SOR/93-234, s. 2; SOR/94-691, s. 4; SOR/2014-111, s. 45.
 
 
 
 
-**305** A tank equipped with an internal capacity indicator shall have a suitable opening for the convenient installation, adjustment and sealing of the indicator assembly and the capacity indicator shall be located so that it can be seen under normal conditions of use.
+**305** A measuring tank equipped with an internal capacity indicator shall have a suitable opening for the convenient installation, adjustment and sealing of the indicator assembly and the capacity indicator shall be located so that it can be seen under normal conditions of use.
+> SOR/2014-111, s. 45.
 
 
 
-**306** Gauge glass fittings shall not, except on tanks for liquefied gases, be of the ball check type or be of any type designed to prevent loss of liquid in case of glass breakage, but a bottom gauge glass fitting may include an emergency valve if means are provided thereon to allow an inspector to seal the valve in the open position.
+
+**306** Gauge glass fittings shall not, except on measuring tanks for liquefied gases, be of the ball check type or be of any type designed to prevent loss of liquid in case of glass breakage, but a bottom gauge glass fitting may include an emergency valve if means are provided thereon to allow an inspector to seal the valve in the open position.
+> SOR/2014-111, s. 45.
 
 
 
-**307** The discharge hose on a tank that discharges by gravity shall normally be of the dry hose type, without a shut-off valve at its discharge end, shall be of such length, size and stiffness as will ensure its complete drainage and shall be provided with a means to indicate when all of the measured liquid has been delivered thereby.
+
+**307** The discharge hose on a measuring tank that discharges by gravity shall normally be of the dry hose type, without a shut-off valve at its discharge end, shall be of such length, size and stiffness as will ensure its complete drainage and shall be provided with a means to indicate when all of the measured liquid has been delivered thereby.
+> SOR/2014-111, s. 45.
+
 
 
 
 **308** 
 
-- **(1)** A tank that discharges through a pump shall have an automatic means of ensuring that
+- **(1)** A measuring tank that discharges through a pump shall have an automatic means of ensuring that
 	- **(a)** the quantity of liquid in the pump suction and discharge lines remains constant; and
 	- **(b)** all the measured liquid is delivered through the pump.
 
-- **(2)** Subsection (1) does not apply to a tank used for bunker oils and similar liquids.
+- **(2)** Subsection (1) does not apply to a measuring tank used for bunker oils and similar liquids.
+> SOR/2014-111, s. 45.
 
 
 
-**309** A fixed tank shall have suitably installed and identified levelling ledges that will permit the detection of any tilting of the tank from the position in which it was calibrated.
+
+**309** A fixed measuring tank shall have suitably installed and identified levelling ledges that will permit the detection of any tilting of the measuring tank from the position in which it was calibrated.
+> SOR/2014-111, s. 45.
+
 
 
 
 **310** 
 
-- **(1)** A portable tank shall be equipped with permanent level gauges to enable it to be levelled for inspection and use.
+- **(1)** A portable measuring tank shall be equipped with permanent level gauges to enable it to be levelled for examination and use.
 
-- **(2)** A portable tank with a gauge glass shall be equipped with levelling jacks to enable it to be levelled for inspection and use.
-> SOR/93-234, s. 2(F).
+- **(2)** A portable measuring tank with a gauge glass shall be equipped with levelling jacks to enable it to be levelled for examination and use.
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 39.
 
 
 
@@ -6019,33 +5885,41 @@ appropriate automatic controls shall be installed in the meter system to permit 
 
 
 
-**321** A tank shall be tested and calibrated with a liquid that has a thermal expansion coefficient, volatility and viscosity not greater than that of domestic furnace fuel oil and that will not have a corrosive effect on the tank.
+**321** A measuring tank shall be tested and calibrated with a liquid that has a thermal expansion coefficient, volatility and viscosity not greater than those of domestic furnace fuel oil and that will not have a corrosive effect on the tank.
+> SOR/2014-111, s. 40.
 
 
 
-**322** A tank shall be tested and calibrated when all necessary supports have been installed and it is resting in the position in which it is designed to be used.
+
+**322** A measuring tank shall be tested and calibrated when all necessary supports have been installed and it is resting in the position in which it is designed to be used.
+> SOR/2014-111, s. 40.
 
 
 
-**323** A tank, other than a vehicle tank, shall be calibrated to a valve immediately adjacent to the outlet connection on the tank.
+
+**323** A measuring tank, other than a vehicle tank, shall be calibrated to a valve immediately adjacent to the outlet connection on the tank.
+> SOR/2014-111, s. 40.
 
 
 
-**324** Unless otherwise authorized by specifications established by the Minister, a tank that has a gauge glass or a slip type gauge shall not be calibrated for a delivery of less than 50 per cent of the tank capacity.
+
+**324** Unless otherwise authorized by specifications established by the Minister, a measuring tank that has a gauge glass or a slip type gauge shall not be calibrated for a delivery of less than 50 per cent of the measuring tank capacity.
+> SOR/2014-111, s. 45.
+
 
 
 
 **325** 
 
-- **(1)** Subject to subsection (5), when a tank is tested for acceptance limits of error using a known test volume determined in relation to a relevant local standard and set out in Column I of an item of a table to subsection (3) or (4), the tank is within the acceptance limits of error in respect of that known test volume if the actual volume of the tank
-	- **(a)** does not exceed the test volume by an amount in excess of the amount set out in Column II of that item; and
-	- **(b)** is not less than the test volume by an amount in excess of the amount set out in Column II of that item.
+- **(1)** Subject to subsection (5), when a measuring tank is tested for acceptance limits of error using a known test volume determined in relation to a relevant local standard and set out in Column I of an item of a table to subsection (3) or (4), the measuring tank is within the acceptance limits of error in respect of that known test volume if the actual volume of the measuring tank
+	- **(a)** does not exceed the test volume by an amount in excess of the amount set out in Column II of that item; and
+	- **(b)** is not less than the test volume by an amount in excess of the amount set out in Column II of that item.
 
-- **(2)** Subject to subsection (5), when a tank is tested for in-service limits of error using a known test volume determined in relation to a relevant local standard and set out in Column I of an item of a table to subsection (3) or (4), the tank is within the in-service limits of error in respect of that known test volume if the actual volume of the tank
-	- **(a)** does not exceed the test volume by an amount in excess of the amount set out in Column III of that item; and
-	- **(b)** is not less than the test volume by an amount in excess of the amount set out in Column III of that item.
+- **(2)** Subject to subsection (5), when a measuring tank is tested for in-service limits of error using a known test volume determined in relation to a relevant local standard and set out in Column I of an item of a table to subsection (3) or (4), the measuring tank is within the in-service limits of error in respect of that known test volume if the actual volume of the measuring tank
+	- **(a)** does not exceed the test volume by an amount in excess of the amount set out in Column III of that item; and
+	- **(b)** is not less than the test volume by an amount in excess of the amount set out in Column III of that item.
 
-- **(3)** Subject to subsection (5), the limits of error set out in the following table apply to all measuring tanks whether fixed, portable or vehicle mounted, that are calibrated in terms of metric units of volume:
+- **(3)** Subject to subsection (5), the limits of error set out in the table to this subsection apply to all measuring tanks that are calibrated in terms of metric units of volume.
 #### TABLE
 <table>
 <tr>
@@ -6092,7 +5966,7 @@ appropriate automatic controls shall be installed in the meter system to permit 
 </table>
 
 
-- **(4)** Subject to subsection (5), the limits of error set out in the following table apply to all measuring tanks whether fixed, portable or vehicle mounted, that are calibrated in terms of Canadian units of volume:
+- **(4)** Subject to subsection (5), the limits of error set out in the table to this subsection apply to all measuring tanks that are calibrated in terms of Canadian units of volume.
 #### TABLE
 <table>
 <tr>
@@ -6139,15 +6013,17 @@ appropriate automatic controls shall be installed in the meter system to permit 
 </table>
 
 
-- **(5)** The limits of error for a tank that is designed for use in measuring liquefied gases are twice the applicable limits of error set out in the table to subsection (3) or (4).
+- **(5)** The limits of error for a measuring tank that is designed for use in measuring liquefied gases are twice the applicable limits of error set out in the table to subsection (3) or (4).
 
-- **(6)** The limits of error set out in the tables to subsections (3) and (4) refer to the total inaccuracy of measurement by the tank, including errors due to entrapment of air or liquid by parts of the tank or its associated piping, equipment or accessories during filling or emptying.
-> SOR/89-570, s. 6(F); SOR/94-691, s. 4(E).
+- **(6)** The limits of error set out in the tables to subsections (3) and (4) refer to the total inaccuracy of measurement by the measuring tank, including errors due to entrapment of air or liquid by parts of the measuring tank or its associated piping, equipment or accessories during filling or emptying.
+> SOR/89-570, s. 6(F); SOR/94-691, s. 4(E); SOR/2014-111, ss. 41, 45.
 
 
 
 
 **326** A vehicle tank shall be tested to ensure that air or liquid is not trapped therein in excess of 0.125 per cent of the capacity of the tank under conditions of normal use.
+> SOR/2014-111, s. 47(F).
+
 
 
 
@@ -6155,19 +6031,27 @@ appropriate automatic controls shall be installed in the meter system to permit 
 #### Installation and Use
 
 
-**327** A fixed tank shall be installed on substantial supports adequate to ensure that the position of the tank remains constant and level with reference to the levelling ledges.
+**327** A fixed measuring tank shall be installed on substantial supports adequate to ensure that the position of the measuring tank remains constant and level with reference to the levelling ledges.
+> SOR/2014-111, s. 45.
 
 
 
-**328** A fixed tank shall be level when filled, as shown by the levels installed on the tank or levelling ledges, and when in use, a portable or vehicle tank shall be filled and emptied when it is as close to level conditions as practicable.
+
+**328** A fixed measuring tank shall be level when filled, as shown by the levels installed on the tank or by the levelling ledges, and, when in use, a portable measuring tank or vehicle tank shall be filled and emptied when it is as close to level conditions as possible.
+> SOR/2014-111, s. 42.
 
 
 
-**329** When a tank is being filled, care shall be taken to minimize the possibility of air being trapped in the piping or entrained in the liquid.
+
+**329** When a measuring tank is being filled, care shall be taken to minimize the possibility of air being trapped in the piping or entrained in the liquid.
+> SOR/2014-111, s. 45.
 
 
 
-**330** A tank shall not be used for deliveries of quantities between internal capacity indicators.
+
+**330** A measuring tank shall not be used for deliveries of quantities between internal capacity indicators.
+> SOR/2014-111, s. 45.
+
 
 
 
@@ -7077,28 +6961,251 @@ if, in the preceding year, total retail sales of gasoline and diesel fuel of tha
 
 
 
+**PART VIII** 
+## Administrative Monetary Penalties
+
+
+
+### Violations
+
+
+**346** The contravention of a provision of the Act or these Regulations set out in column 1 of Part 1 or 2, respectively, of Schedule VI may be proceeded with as a violation in accordance with sections 22.1 to 22.28 of the Act.
+> SOR/2014-112, s. 1.
+
+
+
+
+
+### Classification
+
+
+**347** The violation of each provision set out in column 1 of Part 1 or 2 of Schedule VI is classified as a minor, serious or very serious violation in accordance with the classification set out in column 2.
+> SOR/2014-112, s. 1.
+
+
+
+
+
+### Penalties
+
+
+**348** 
+
+- **(1)** The amount of the penalty in respect of each violation is, subject to subsection (2),
+	- **(a)** $250, for a minor violation;
+	- **(b)** $500, for a serious violation; and
+	- **(c)** $1,000, for a very serious violation.
+
+- **(2)** The amount of the penalty is to be adjusted in accordance with the calculation set out in column 2 of Schedule VII that corresponds to the history set out in column 1 of the person who has committed the violation.
+
+- **(3)** For the purposes of determining a person’s history, the points set out in column 3 of Part 1 or 2 of Schedule VI are assigned for each violation of a provision set out in column 1.
+> SOR/2014-112, s. 1.
+
+
+
+
+**349** The notice of violation is to set out that an amount equal to 50% of the penalty may be paid as complete satisfaction of the penalty if it is paid within the period referred to in subsection 351(1) and in the manner set out in the notice of violation in accordance with subsection 351(6).
+> SOR/2014-112, s. 1.
+
+
+
+
+
+### Compliance Agreements
+
+
+**350** If the Minister enters into a compliance agreement under subsection 22.13(1) of the Act, the conditions of which include the making of expenditures by a person, the amount of the penalty set out in the notice of violation is to be reduced by an amount equal to one half of the expenditures made in fulfilment of the agreement, with a maximum reduction to nil.
+> SOR/2014-112, s. 1.
+
+
+
+
+
+### Payment
+
+
+**351** 
+
+- **(1)** For the purposes of paragraph 22.11(2)(e) of the Act, payment is to be made within 15 days after the day on which the person is provided with the notice of violation.
+
+- **(2)** For the purposes of subsection 22.12(1) of the Act, payment of the penalty set out in the notice of violation is to be made within 30 days after the day on which the person is provided with the notice.
+
+- **(3)** For the purposes of paragraph 22.13(4)(a) of the Act, payment is to be made within 15 days after the day on which the person is provided with the notice of default.
+
+- **(4)** For the purposes of subsection 22.14(1) of the Act, payment is to be made within 15 days after the day on which the person is provided with the Minister’s notice.
+
+- **(5)** For the purposes of subsection 22.15(3) of the Act, payment is to be made within 15 days after the day on which the person is provided with notice of the Minister’s decision under subsection 22.15(1) or (2) of the Act.
+
+- **(6)** A payment referred to in any of subsections (1) to (5) is to be made in one of the following manners, as set out in the applicable notice:
+	- **(a)** by means of a certified cheque or money order made payable to the Receiver General for Canada and submitted to a Measurement Canada office
+		- **(i)** by regular mail,
+		- **(ii)** by registered mail, or
+		- **(iii)** by courier; or
+	- **(b)** by electronic means.
+> SOR/2014-112, s. 1.
+
+
+
+
+
+### Requests Under Subsection 22.12(2) of the Act
+
+
+**352** 
+
+- **(1)** A request under paragraph 22.12(2)(a) or (b) of the Act shall, within 30 days after the day on which the person is provided with the notice of violation, be submitted in writing to a Measurement Canada office in one of the following manners, as set out in the notice:
+	- **(a)** in person;
+	- **(b)** by registered mail or courier; or
+	- **(c)** by electronic means.
+
+- **(2)** The request shall set out
+	- **(a)** the notice of violation number;
+	- **(b)** the person’s name, mailing address, email address, telephone number, facsimile number and contact person, if any;
+	- **(c)** an indication of whether the person prefers to communicate in English or French;
+	- **(d)** in the case of a request made under paragraph 22.12(2)(a) of the Act, a proposal detailing the corrective action that will be taken to ensure the person’s compliance with the provision to which the violation relates; and
+	- **(e)** in the case of a request made under paragraph 22.12(2)(b) of the Act, the person’s reasons for requesting the review.
+
+- **(3)** The date of the request is
+	- **(a)** the day on which it is submitted, if it is submitted in person; or
+	- **(b)** the day on which it is sent, if it is sent by registered mail, courier or electronic means.
+> SOR/2014-112, s. 1.
+
+
+
+
+
 ### **SCHEDULE I** 
-**(Section 47.1)**
+**(Sections 2.1 and 29 and subsections 31(1) and (3))**
+## Examination Periods
+#### PART I
 <table>
-<h4>Statement of Quantity</h4>
 <tr>
 <th></th>
 <th>Column I</th>
 <th>Column II</th>
+<th>Column III</th>
 </tr>
 <tr>
 <th>Item</th>
-<th>Commodity</th>
-<th>Parameter</th>
+<th>Device</th>
+<th>Category of trade</th>
+<th>Period</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Baler twine</td>
-<td>Mass, length</td>
+<td>weighing machine</td>
+<td>wholesale trade of dairy products</td>
+<td>2 years</td>
+</tr>
+<tr>
+<td>2</td>
+<td>meter</td>
+<td>wholesale trade of dairy products</td>
+<td>1 year</td>
+</tr>
+<tr>
+<td>3</td>
+<td>any device</td>
+<td>downstream petroleum trade</td>
+<td>2 years</td>
+</tr>
+<tr>
+<td>4</td>
+<td>any device</td>
+<td>wholesale trade of fishing products</td>
+<td>1 year</td>
+</tr>
+<tr>
+<td>5</td>
+<td>weighing machine</td>
+<td>trade of forestry products</td>
+<td>1 year</td>
+</tr>
+<tr>
+<td>6</td>
+<td>device other than a weighing machine used in a grain elevator licensed by the Canadian Grain Commission</td>
+<td>wholesale trade of grain and field crop products and services</td>
+<td>2 years</td>
+</tr>
+<tr>
+<td>7</td>
+<td>weighing machine used in a grain elevator licensed by the Canadian Grain Commission</td>
+<td>wholesale trade of grain and field crop products and services</td>
+<td>1 year</td>
+</tr>
+<tr>
+<td>8</td>
+<td>any device</td>
+<td>wholesale trade of mining products</td>
+<td>2 years</td>
+</tr>
+<tr>
+<td>9</td>
+<td>any device</td>
+<td>retail food trade</td>
+<td>5 years</td>
+</tr>
+<tr>
+<td>10</td>
+<td>device other than a propane meter</td>
+<td>retail petroleum trade</td>
+<td>2 years</td>
+</tr>
+<tr>
+<td>11</td>
+<td>propane meter</td>
+<td>retail petroleum trade</td>
+<td>1 year</td>
 </tr>
 </table>
 
-> SOR/2005-297, s. 22.
+#### PART II
+<table>
+<tr>
+<th></th>
+<th>Column I</th>
+<th>Column II</th>
+<th>Column III</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Implementation period — General</th>
+<th>Implementation period — Devices used in retail food trade</th>
+<th>Geographic area by first three characters of postal code</th>
+</tr>
+<tr>
+<td>1</td>
+<td>6 months</td>
+<td>18 months</td>
+<td>A0A, A1A, A1B, A1C, A1E, A1G, A1H, A1K, A1L, A1N, A1S, A1W, A1X, A1Y, B0H, B0M, B2T, B2V, B2W, B2X, B2Y, B2Z, B3A, B3B, B3E, B3G, B4A, B4B, B4C, B4E, B4G, E1H, E1J, E2V, E4A, E4B, E4C, E4E, E4G, E4H, E4J, E4K, E4L, E4M, E4N, E4P, E4R, E4T, E4Z, E5J, E5K, E5L, E5M, E5N, E5P, E5R, E5S, E5T, E6C, G0K, G0L, G1B, G1C, G1E, G1G, G1H, G1X, G1Y, G2B, G2C, G2E, G2G, G2J, G2K, G2L, G5H, G5L, G5M, G5N, G5R, G5T, G7B, G7G, G7H, G7J, G7K, G7N, G7P, G7S, G7T, G7X, G7Y, G7Z, G8A, H0A, H1A, H1B, H1C, H1E, H1G, H1H, H1J, H1K, H1L, H1M, H1N, H1P, H1R, H1T, H1V, H1X, H1Z, H7A, J0A, J0B, J0C, J0G, J1A, J1E, J1G, J1H, J1J, J1K, J1L, J1M, J1N, J1S, J1T, J1X, J1Z, J2A, J2B, J2C, J2E, J3P, J3R, J3T, H7B, H7C, H2A, H2E, H2P, H2R, H3N, H3P, H3R, H3X, H4P, H4W, H4V, H4B, H4X, H4E, H4H, H8N, H8P, H8R, H8S, K1B, K1C, K1E, K1G, K1H, K1J, K1S, K1W, K1Y, K1Z, K2A, K2B, K2C, K2H, K2K, K4A, L0P, L0R, L3M, L4X, L4Y, L5E, L7G, L7J, L7M, L7P, L8E, L8J, L8W, L9B, L9G, L9K, L9T, M1E, M1G, M1H, M1J, M1K, M1L, M1M, M1N, M1P, M1R, M3A, M8V, M8W, M8X, M8Y, M8Z, M9A, M9B, M9C, M9N, M9P, M9R, N0A, N0B, N0E, N0J, N0K, N0L, N0M, N0N, N0P, N0R, N1A, N1M, N1P, N1T, N2A, N2B, N2E, N2K, N2N, N2P, N2R, N2T, N2V, N3B, N3C, N3E, N3L, N3W, N3Y, N4B, N4G, N4S, N4T, N4V, N4X, N4Z, N5A, N5C, N5H, N5L, N5P, N5R, N5V, N5X, N6E, N6G, N6H, N6K, N6L, N6M, N6N, N6P, N7G, N7L, N7M, N8A, N8H, N8M, N8N, N8P, N8R, N8S, N8T, N8V, N8W, N8X, N8Y, N9A, N9B, N9C, N9E, N9G, N9H, N9J, N9K, N9V, N9Y, P0H, P0J, P0K, P0M, P0N, P0S, P1A, P1B, P1C, P2N, P3A, P3B, P3C, P3E, P3G, P3L, P3N, P3P, P3Y, P4N, P4P, P4R, R2C, R2G, R2H, R2J, R2K, R2L, R2M, R2N, R2P, R2R, R2V, R2W, R2X, R2Y, R3A, R3B, R3C, R3E, R3G, R3H, R3J, R3K, R3L, R3M, R3N, R3P, R3R, R3S, R3T, R3V, R3W, R3X, R3Y, R7A, R7B, R7C, S4L, S4N, S4P, S4R, S4S, S4T, S4V, S4W, S4X, S4Y, S4Z, S7H, S7J, S7K, S7L, S7M, S7N, S7P, S7R, S7S, S7T, S7V, T1H, T1J, T1K, T1Y, T2A, T2B, T2C, T2J, T2W, T2Z, T3B, T3H, T3J, T5A, T5C, T5E, T5L, T5M, T5N, T5P, T5R, T5W, T6B, T6H, T6J, T6K, T6L, T6N, V1M, V2K, V2L, V2M, V2N, V2Y, V2Z, V3A, V3C, V3J, V3K, V3L, V3M, V3N, V3R, V3S, V3T, V3V, V3W, V3X, V4C, V4E, V4G, V4N, V4W, V6V, V6W, V6X, V6Y, V7A, V7C, V7E</td>
+</tr>
+<tr>
+<td>2</td>
+<td>11 months</td>
+<td>23 months</td>
+<td>A0B, A0H, A0L, A0M, A2A, A2B, A2H, B0R, B0W, B2G, B2H, B4V, E1A, E1B, E1C, E1E, E1G, E2E, E2G, E2H, E2J, E2K, E2L, E2M, E2N, E2P, E2R, E2S, E3A, E3B, E3C, E3E, G0A, G0R, G0S, G2A, G2M, G2N, G3A, G3E, G3G, G3H, G3J, G3K, G3L, G3Z, G4A, G5A, G5V, G6C, G6E, G6J, G6K, G6L, G6V, G6W, G6X, G6Z, G7A, G8B, G8C, G8N, H2B, H2C, H2M, H2N, H3L, H3M, H4J, H4K, H4L, H4M, H4N, H4R, H4S, H4T, H4Y, H7E, H7G, H7H, H7K, H7L, H7M, H7N, H7P, H7R, H7S, H7T, H7V, H7W, H7X, H7Y, H8T, H8Y, H8Z, H9A, H9B, H9C, H9E, H9G, H9H, H9J, H9K, H9P, H9R, H9S, H9W, H9X, J0E, J0H, J2G, J2H, J2J, J2K, J2L, J2S, J2T, K1K, K1L, K1P, K1R, K2P, K6H, K6J, K6K, K6T, K6V, L2E, L2G, L2H, L2J, L2M, L2N, L2P, L2R, L2S, L2T, L2V, L2W, L3B, L3C, L4T, L4V, L4W, L4Z, L5M, L5N, L5P, L5R, L5S, L5T, L5V, L5W, L6H, L6M, L7L, L7N, L7R, L7S, L7T, L8G, L8K, L8N, L8T, L8V, L9A, L9C, M1B, M1C, M1S, M1T, M1V, M1W, M1X, M2H, M2J, M2K, M2M, M2N, M2R, M3H, M3J, M3K, M3L, M3M, M3N, M9L, M9M, M9V, M9W, N0G, N1C, N1E, N1G, N1H, N1K, N1L, N1R, N1S, N2C, N2G, N2H, N2J, N2L, N2M, N2Z, N3H, N3P, N3R, N3S, N3T, N3V, N4N, N4W, N5W, N5Y, N5Z, N6A, N6B, N6C, N6J, N7A, P0A, P0G, P2A, P5A, P5N, P6A, P6B, P6C, P7A, P7B, P7C, P7E, P7G, P7J, P7K, R0G, R0H, R0K, R1A, R1N, R2E, R4A, R4H, R4J, R4K, R4L, R5A, R5G, R5H, R6M, R6W, S0A, S0G, S0K, S2V, S4H, S6H, S6J, S6K, S6V, S6W, S6X, S9A, T1M, T1P, T1X, T2X, T2Y, T3A, T3G, T3K, T3L, T3M, T3N, T3Z, T4A, T4B, T4C, T4H, T4V, T4X, T5S, T5T, T5V, T5X, T5Y, T5Z, T6M, T6P, T6R, T6S, T6T, T6V, T6W, T6X, T7N, T7P, T7X, T7Y, T7Z, T8A, T8B, T8C, T8E, T8G, T8H, T8L, T8N, T8R, T9A, T9C, T9E, T9G, V0R, V2J, V2T, V2X, V3B, V3E, V3H, V3Y, V4K, V4P, V4R, V4X, V5A, V5B, V5C, V5E, V5G, V5H, V5J, V5K, V5M, V5P, V5R, V5S, V5W, V5X, V6M, V6N, V6P, V7B, V9G, V9K, V9L, V9P, V9R, V9S, V9T, V9V, V9X, V9Y</td>
+</tr>
+<tr>
+<td>3</td>
+<td>15 months</td>
+<td>27 months</td>
+<td>A0E, A0J, A0N, A2N, B0J, B0T, B2N, B3H, B3J, B3K, B3L, B3M, B3N, B3P, B3R, B3S, B3T, B3V, B3Z, all postal codes beginning with the letter C, E1N, E1V, E3L, E3Z, E4S, E4V, E4W, E4X, E4Y, E5A, E5C, E5H, E6A, E6B, E6E, E6G, E6H, E6J, E6K, E6L, E7G, E7H, E7J, E7K, E7L, E7M, E7N, E7P, E9A, E9B, E9C, E9E, E9G, E9H, G0J, G0M, G0N, G0P, G0X, G0Y, G0Z, G4W, G4Z, G5C, G5J, G5X, G5Y, G5Z, G6A, G6B, G6G, G6H, G6P, G6R, G6S, G6T, G8H, G8J, G8K, G8L, G8M, G8T, G8V, G8W, G8Y, G8Z, G9A, G9B, G9C, G9H, G9N, G9P, G9R, G9T, G9X, H0M, J0J, J0L, J0N, J0P, J0R, J0S, J0V, J2N, J2W, J2X, J2Y, J3A, J3B, J3E, J3G, J3H, J3L, J3M, J3N, J3V, J3X, J4B, J4G, J4H, J4J, J4K, J4L, J4M, J4N, J4P, J4R, J4S, J4V, J4W, J4X, J4Y, J4Z, J5A, J5J, J5R, J5V, J5W, J5X, J5Y, J5Z, J6A, J6E, J6J, J6K, J6N, J6R, J6S, J6T, J6V, J6W, J6X, J6Y, J6Z, J7A, J7B, J7C, J7E, J7G, J7H, J7J, J7K, J7L, J7M, J7N, J7P, J7R, J7T, J7V, J7X, J7Y, J7Z, J8A, J8B, J8C, J8G, J8H, J8L, J8M, K0C, K0E, K0G, K1M, K1N, K1T, K1V, K2E, K2G, K2L, K2M, K2R, K2S, K2T, K2V, K4C, K7A, K7G, K7H, L0A, L0B, L0C, L0E, L0G, L0H, L0J, L0L, L0M, L0N, L0S, L1A, L1B, L1C, L1E, L1G, L1H, L1J, L1K, L1L, L1M, L1N, L1P, L1R, L1S, L1T, L1V, L1W, L1Z, L2A, L3K, L3P, L3R, L3S, L3T, L3X, L3Y, L3Z, L4B, L4G, L4J, L4K, L4L, L4M, L4N, L4P, L5A, L5B, L5C, L5G, L5H, L5J, L5K, L5L, L6G, L7B, L7C, L7E, L8H, L8L, L8M, L8P, L8R, L8S, L9H, L9L, L9N, L9P, L9R, L9S, L9V, L9W, L9Y, N0C, N0H, N4K, N4L, N7S, N7T, N7V, N7W, N7X, P0B, P0C, P0E, P0R, P0W, P0X, P0Y, P1H, P1L, P1P, P5E, P8N, P8T, P9A, P9N, R0A, R0C, R0E, R0J, R0L, R0M, R7N, S0C, S0E, S0H, S0L, S3N, S4A, S9H, T0L, T0M, T1A, T1B, T1C, T1G, T1R, T1W, T2E, T2H, T2V, T3E, T4E, T4G, T4J, T4L, T4N, T4P, T4R, T4S, T7A, T7E, T7S, T9N, T9S, T9W, T9X, V0L, V0M, V0N, V0P, V0X, V1B, V1H, V1K, V1P, V1T, V1V, V1W, V1X, V1Y, V1Z, V2G, V2P, V2R, V2S, V2V, V2W, V4A, V4B, V4L, V4M, V4S, V4T, V4V, V4Z, V6K, V6L, V6R, V6S, V6T, V7G, V7H, V7J, V7K, V7L, V7M, V7N, V8A, V8C, V8G, V9H, V9J, V9M, V9N, V9W</td>
+</tr>
+<tr>
+<td>4</td>
+<td>18 months</td>
+<td>30 months</td>
+<td>A0C, A0G, A1V, A0K (on Newfoundland Island only), B0C, B0E, B0K, B0L, B0N, B0S, B0V, B2C, B2J, B4H, B5A, E2A, E3N, E3Y, E7C, E7E, E8A, E8B, E8C, E8E, E8G, E8J, E8K, E8L, G0C, G0E, G0H, G0T, G0V, G0W, G4R, G4S, G4X, G5B, J0K, J0T, J0W, J0X, J0Z, J8N, J8P, J8R, J8T, J8V, J8X, J8Y, J8Z, J9A, J9B, J9E, J9H, J9J, J9L, K0A, K0B, K0H, K0J, K0K, K0L, K0M, K1X, K2J, K4M, K4P, K4R, K6A, K7C, K7K, K7L, K7M, K7N, K7P, K7R, K7V, K8A, K8B, K8H, K8N, K8P, K8R, K8V, K9A, K9H, K9J, K9K, K9L, K9V, L0K, L1X, L1Y, L3V, L4A, L4C, L4E, L4H, L4R, L4S, L6A, L6B, L6C, L6E, L6J, L6K, L6L, L9M, P0P, P0T, R8A, R8N, R9A, S0M, S0N, S0P, S9V, S9X, T0A, T0B, T0C, T0E, T0G, T0J, T0K, T2G, T2K, T2L, T2M, T2N, T2P, T2R, T2S, T2T, T3C, T5B, T5G, T5H, T5J, T5K, T6A, T6C, T6E, T6G, T7V, T8V, T8W, T8X, T9M, T9V, V0E, V0G, V0H, V0J, V0K, V0S, V0T, V0V, V1E, V1G, V1J, V1L, V1N, V1R, V1S, V2A, V2B, V2C, V2E, V2H, V3G, V7P, V7R, V7S, V7T, V7V, V7W, V8J, V8M, V8N, V8P, V8R, V8S, V8T, V8V, V8W, V8X, V8Y, V8Z, V9A, V9B, V9C, V9E</td>
+</tr>
+<tr>
+<td>5</td>
+<td>24 months</td>
+<td>36 months</td>
+<td>all other postal codes</td>
+</tr>
+</table>
+
+> SOR/2014-111, s. 44.
 
 
 
@@ -8217,6 +8324,32 @@ Where a quantity is not listed in column I of this Part, the limits of error for
 
 
 
+### **SCHEDULE II.1** 
+**(Section 47.1)**
+<table>
+<h4>Statement of Quantity</h4>
+<tr>
+<th></th>
+<th>Column I</th>
+<th>Column II</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Commodity</th>
+<th>Parameter</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Baler twine</td>
+<td>Mass, length</td>
+</tr>
+</table>
+
+> SOR/2005-297, s. 22; SOR/2014-111, s. 43.
+
+
+
+
 ### **SCHEDULE III** 
 **(Section 52)**
 
@@ -8568,7 +8701,7 @@ where
 ## Tolerances for Local Standards
 #### PART I
 <table>
-<h4>Tolerances for Local Standards of Mass that Have a Nominal Value Shown in Metric Units and that Are Used to Inspect Devices for Weighing Precious Metals</h4>
+<h4>Tolerances for Local Standards of Mass That Have a Nominal Value Shown in Metric Units and That are Used to Examine Devices for Weighing Precious Metals</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -8673,7 +8806,7 @@ where
 
 #### PART II
 <table>
-<h4>Tolerances for Local Standards of Mass or Weight that Have a Nominal Value Shown in Canadian Units and that Are Used to Inspect Devices for Weighing Precious Metals</h4>
+<h4>Tolerances for Local Standards of Mass or Weight That Have a Nominal Value Shown in Canadian Units and That are Used to Examine Devices for Weighing Precious Metals</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -8853,7 +8986,7 @@ where
 
 #### PART III
 <table>
-<h4>Tolerances for Local Standards of Mass that Have a Nominal Value Shown in Metric Units and that Are Used to Inspect Devices for Weighing Commodities other than Precious Metals</h4>
+<h4>Tolerances for Local Standards of Mass That Have a Nominal Value Shown in Metric Units and That are Used to Examine Devices for Weighing Commodities Other Than Precious Metals</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -8978,7 +9111,7 @@ where
 
 #### PART IV
 <table>
-<h4>Tolerances for Local Standards of Mass or Weight that Have a Nominal Value Shown in Canadian Units and that Are Used to Inspect Devices for Weighing Commodities other than Precious Metals</h4>
+<h4>Tolerances for Local Standards of Mass or Weight That Have a Nominal Value Shown in Canadian Units and That are Used to Examine Devices for Weighing Commodities Other Than Precious Metals</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -9592,7 +9725,7 @@ where
 
 #### PART XIII
 <table>
-<h4>Tolerance for Master Meter Standards that Are Used to Inspect Liquefied Gas Measuring Machines</h4>
+<h4>Tolerance for Master Meter Standards That are Used to Examine Liquefied Gas Measuring Machines</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -9612,7 +9745,7 @@ where
 
 #### PART XIV
 <table>
-<h4>Tolerance for Master Meter Standards that Are Used to Inspect Meters other than Liquefied Gas Measuring Machines</h4>
+<h4>Tolerance for Master Meter Standards That are Used to Examine Meters Other Than Liquefied Gas Measuring Machines</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -9775,7 +9908,7 @@ where
 </tr>
 </table>
 
-> SOR/89-570, s. 6(F); SOR/90-118, ss. 43, 44; SOR/93-234, s. 2; SOR/2005-297, ss. 38, 39.
+> SOR/89-570, s. 6(F); SOR/90-118, ss. 43, 44; SOR/93-234, s. 2; SOR/2005-297, ss. 38, 39; SOR/2014-111, s. 46.
 
 
 
@@ -9855,11 +9988,11 @@ where
 <td>$30.00</td>
 </tr>
 <tr>
-<td>(c) gravimetric prover standard designed to inspect meters that measure liquefied gases</td>
+<td>(c) gravimetric prover standard designed to examine meters that measure liquefied gases</td>
 <td>$40.00</td>
 </tr>
 <tr>
-<td>(d) pipe prover standard designed to inspect meters with a marked maximum flow rate of</td>
+<td>(d) pipe prover standard designed to examine meters with a marked maximum flow rate of</td>
 <td></td>
 </tr>
 <tr>
@@ -9875,7 +10008,7 @@ where
 <td>$100.00</td>
 </tr>
 <tr>
-<td>(e) master meter standard designed to inspect meters with a marked maximum flow rate of</td>
+<td>(e) master meter standard designed to examine meters with a marked maximum flow rate of</td>
 <td></td>
 </tr>
 <tr>
@@ -9895,7 +10028,7 @@ where
 <td>$15.00</td>
 </tr>
 <tr>
-<td>(g) portable weighing equipment with a capacity greater than 1 000 kg, including equipment designed to inspect on-board weighing systems that measure anhydrous ammonia</td>
+<td>(g) portable weighing equipment with a capacity greater than 1 000 kg, including equipment designed to examine on-board weighing systems that measure anhydrous ammonia</td>
 <td>$50.00</td>
 </tr>
 <tr>
@@ -9921,6 +10054,274 @@ where
 </tr>
 </table>
 
-> SOR/79-747, s. 2; SOR/85-736, s. 3; SOR/87-582, s. 5; SOR/93-413, s. 3.
+> SOR/79-747, s. 2; SOR/85-736, s. 3; SOR/87-582, s. 5; SOR/93-413, s. 3; SOR/2014-111, s. 46.
+
+
+
+
+### **SCHEDULE VI** 
+**(Sections 346 and 347 and subsection 348(3))**
+## Violations
+#### PART 1
+<table>
+<h4>Weights and Measures Act</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Provision of the Weights and Measures Act</th>
+<th>Classification</th>
+<th>Points</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>8(a)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>8(b)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>9(1)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>15(1)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>17(3)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>23(a)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>23(b)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td>24(a)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>24(b)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11</td>
+<td>26(1)(a)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>26(1)(b)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>26(1)(c)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>26(2)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>28</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>16</td>
+<td>29(a)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>29(c)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>31(3)</td>
+<td>Very serious</td>
+<td>5</td>
+</tr>
+<tr>
+<td>19</td>
+<td>33(1)(a)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>20</td>
+<td>33(1)(b)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>33(2)(a)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>22</td>
+<td>33(2)(b)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>23</td>
+<td>34(1)(a)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>24</td>
+<td>34(1)(b)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+</table>
+
+#### PART 2
+<table>
+<h4>Weights and Measures Regulations</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Provision of the Weights and Measures Regulations</th>
+<th>Classification</th>
+<th>Points</th>
+</tr>
+<tr>
+<td>1</td>
+<td>33(1)</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>35.1</td>
+<td>Serious</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>38(2)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>38(3)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>39(1)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>39(2)</td>
+<td>Minor</td>
+<td>1</td>
+</tr>
+</table>
+
+> SOR/2014-112, s. 2.
+
+
+
+
+### **SCHEDULE VII** 
+**(Subsection 348(2))**
+<table>
+<h4>Penalty Adjustments</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>History</th>
+<th>Adjustment Calculation</th>
+</tr>
+<tr>
+<td>1</td>
+<td>No violations committed under the Act or these Regulations in the five-year period immediately before the day on which the current violation was committed.</td>
+<td>Reduce penalty by 50%</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sum of the points assigned for all violations committed under the Act or these Regulations in the five-year period immediately before the day on which the current violation was committed is either one or two.</td>
+<td>Reduce penalty by 25%</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sum of the points assigned for all violations committed under the Act or these Regulations in the five-year period immediately before the day on which the current violation was committed is not less than three and not more than five.</td>
+<td>No penalty adjustment</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sum of the points assigned for all violations committed under the Act or these Regulations in the five-year period immediately before the day on which the current violation was committed is not less than six and not more than eight.</td>
+<td>Increase penalty by 25%</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sum of the points assigned for all violations committed under the Act or these Regulations in the five-year period immediately before the day on which the current violation was committed is more than eight.</td>
+<td>Increase penalty by 50%</td>
+</tr>
+</table>
+
+> SOR/2014-112, s. 2.
 
 
