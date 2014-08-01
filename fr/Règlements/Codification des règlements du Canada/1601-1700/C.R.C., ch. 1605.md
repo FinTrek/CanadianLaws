@@ -28,38 +28,46 @@ Autorités habilitantes :
 
 ***appareil de pesage à fonctionnement non automatique***[Abrogée, DORS/2005-130, art. 1]
 
-***bureau de Mesures Canada*** Tout bureau du ministère de l’Industrie destiné à l’usage des personnes qui travaillent à l’application de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md). (*Measurement Canada office*)
+***bureau de Mesures Canada*** Tout bureau du ministère de l’Industrie destiné à l’usage des personnes qui travaillent à l’application de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md). (*Measurement Canada office*)
 
 ***bureau des poids et mesures***[Abrogée, DORS/2005-297, art. 1]
 
-***hauteur*** d’une lettre, signifie la hauteur d’une lettre majuscule lorsque les mots sont en majuscules et la hauteur de la lettre minuscule « o » lorsque les mots sont en minuscules ou qu’il s’agit à la fois de majuscules et de minuscules; (*height*)
+***étiquette d’examen*** Étiquette autocollante sur laquelle figurent le mois et l’année de l’examen ainsi que, s’il y a lieu, le mois et l’année où, en vertu de l’article 15 de la Loi et selon le délai établi à l’article 29, le prochain examen devra être effectué. (*examination sticker*)
 
-***instrument d’emballage*** désigne un instrument qui, en tant qu’élément d’un système d’emballage mécanique, mesure une quantité déterminée de marchandises sans enregistrer la mesure de chaque quantité de marchandise qu’il mesure et sans être manoeuvré par une personne qui observe ou enregistre la mesure de chaque quantité de marchandise qu’il mesure; (*packing device*)
+***hauteur*** d’une lettre, signifie la hauteur d’une lettre majuscule lorsque les mots sont en majuscules et la hauteur de la lettre minuscule « o » lorsque les mots sont en minuscules ou qu’il s’agit à la fois de majuscules et de minuscules; (*height*)
 
-***Loi*** désigne la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Act*)
+***instrument d’emballage*** désigne un instrument qui, en tant qu’élément d’un système d’emballage mécanique, mesure une quantité déterminée de marchandises sans enregistrer la mesure de chaque quantité de marchandise qu’il mesure et sans être manoeuvré par une personne qui observe ou enregistre la mesure de chaque quantité de marchandise qu’il mesure; (*packing device*)
 
-***marchandise à quantité standard*** Marchandise faisant partie d’un lot composé du même produit et faisant l’objet de déclarations de quantité nette identique. (*standard quantity commodity*)
+***Loi*** désigne la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Act*)
 
-***marge de tolérance à l’acceptation*** s’entend de la marge de tolérance qui s’applique à un instrument dont le fonctionnement est vérifié
-- **a)** au moment où la catégorie, le type ou le modèle de l’instrument fait l’objet d’un examen aux fins d’approbation,
-- **b)** au moment où l’instrument subit la vérification avant d’être utilisé dans le commerce pour la première fois,
-- **c)** au moment où les éléments de mesures de l’instrument sont révisés ou réparés après qu’une vérification a permis de constater que l’instrument ne mesure pas dans les limites de la marge de tolérance applicable, ou
-- **d)** à n’importe quel moment dans les 30 jours qui suivent le moment dont il est question aux alinéas b) ou c); (*acceptance limits of error*)
+***marchandise à quantité standard*** Marchandise faisant partie d’un lot composé du même produit et faisant l’objet de déclarations de quantité nette identique. (*standard quantity commodity*)
 
-***marge de tolérance en service*** s’entend de la marge de tolérance qui s’applique à un instrument dont le fonctionnement est vérifié à n’importe quel autre moment que ceux dont il est question dans la définition de ***marge de tolérance à l’acceptation***; (*in-service limits of error*)
+***marge de tolérance à l’acceptation*** Marge de tolérance qui s’applique à un instrument dont le fonctionnement est mis à l’essai :
+- **a)** au moment où la catégorie, le type ou le modèle de l’instrument fait l’objet d’une étude préalable à l’approbation;
+- **b)** au moment où l’instrument est examiné avant d’être utilisé dans le commerce pour la première fois;
+- **c)** au moment où les éléments de mesure de l’instrument sont révisés ou réparés après qu’un examen a permis de constater que l’instrument ne mesure pas dans les limites de la marge de tolérance applicable;
+- **d)** à tout moment dans les trente jours suivant le moment visé aux alinéas b) ou c). (*acceptance limits of error*)
+
+***marge de tolérance en service*** s’entend de la marge de tolérance qui s’applique à un instrument dont le fonctionnement est mis à l’essai à n’importe quel autre moment que ceux dont il est question dans la définition de ***marge de tolérance à l’acceptation***; (*in-service limits of error*)
+
+***marque de vérification***[Abrogée, DORS/2014-111, art. 1]
+
+***marque d’examen*** Marque indiquant l’année de l’examen de l’instrument. (*examination mark*)
 
 ***marque d’inspection***[Abrogée, DORS/93-234, art. 2]
 
-***marque de vérification*** S’entend de la marque qu’appose l’inspecteur après la vérification d’un instrument, soit le symbole en usage chez les inspecteurs et la date de la vérification. (*inspection mark*)
+***réservoir***[Abrogée, DORS/2014-111, art. 1]
 
-***réservoir*** Réservoir jaugeur destiné à être utilisé dans le commerce pour mesurer le volume de liquide reçu ou livré. Sont inclus dans la présente définition les réservoirs jaugeurs fixes ou portatifs et les réservoirs jaugeurs installés sur un véhicule. (*tank*)
+***réservoir jaugeur*** Réservoir destiné à être utilisé dans le commerce pour mesurer le volume de liquide reçu ou livré, notamment les réservoirs jaugeurs fixes ou portatifs et les réservoirs installés sur un véhicule. (*measuring tank*)
 
-***texte législatif antérieur*** Toute loi fédérale concernant les poids et mesures, y compris ses règlements d’application, qui est antérieure à la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md), S.C. 1970-71-72, ch. 36. (*previous enactement*)
+***réservoir sur véhicule*** Réservoir jaugeur installé sur un véhicule autre qu’un véhicule sur rails. (*vehicle tank*)
 
-***unité canadienne*** s’entend d’une unité de mesure établie à l’annexe II de la Loi; (*Canadian unit*)
+***texte législatif antérieur*** Toute loi fédérale concernant les poids et mesures, y compris ses règlements d’application, qui est antérieure à la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md), S.C. 1970-71-72, ch. 36. (*previous enactement*)
 
-***unité métrique*** s’entend d’une unité de mesure établie à l’annexe I de la Loi. (*metric unit*)
-> DORS/89-570, art. 6(F); DORS/90-118, art. 1; DORS/93-234, art. 2; DORS/98-115, art. 1; DORS/2005-130, art. 1; DORS/2005-297, art. 1 et 41(F).
+***unité canadienne*** s’entend d’une unité de mesure établie à l’annexe II de la Loi; (*Canadian unit*)
+
+***unité métrique*** s’entend d’une unité de mesure établie à l’annexe I de la Loi. (*metric unit*)
+> DORS/89-570, art. 6(F); DORS/90-118, art. 1; DORS/93-234, art. 2; DORS/98-115, art. 1; DORS/2005-130, art. 1; DORS/2005-297, art. 1 et 41(F); DORS/2014-111, art. 1 et 47(F).
 
 
 
@@ -70,86 +78,137 @@ Autorités habilitantes :
 
 
 
+### Définitions
+
+
+**2.1** Les définitions qui suivent s’appliquent à la présente partie et à l’annexe I.
+
+***commerce au détail des aliments*** Le commerce au détail d’aliments effectué par les marchés d’alimentation, notamment les épiceries, les supermarchés, les épiceries fines et ethniques, les magasins d’aliments naturels, les boucheries, les marchés fermiers et les poissonneries ainsi que par les détaillants de fruits et légumes, les détaillants de café et ceux qui sont spécialisés dans la vente de bonbons et noix. (*retail food trade*)
+
+***commerce pétrolier au détail*** Le commerce au détail de produits pétroliers raffinés à l’état liquide et de carburants liquides de remplacement. (*retail petroleum trade*)
+
+***commerce pétrolier aval*** Le commerce des produits pétroliers raffinés et des carburants liquides de remplacement entre les raffineries de pétrole, les installations de traitement du gaz, les grossistes, les détaillants et les clients commerciaux. (*downstream petroleum trade*)
+
+***grains, grandes cultures et services connexes***
+- **a)** Les grains de céréales, les graines oléagineuses, le maïs-grain, le blé tendre, le fourrage, le foin, les pois secs, les haricots et les semences utilisées dans ces cultures;
+- **b)** les céréales fourragères et autre nourriture pour animaux transformée par les provenderies;
+- **c)** les services d’entreposage du grain dans les silos à grains. (*grain and field crop products and services*)
+
+***produits forestiers***
+- **a)** Les arbres, les grumes, les billes et le bois de chauffage;
+- **b)** les sous-produits du bois à l’exception de l’alcool méthylique et de la résine de bois;
+- **c)** le papier, sauf le papier recyclé brut. (*forestry products*)
+
+***produits de la pêche*** Les poissons, crustacés et mollusques, la végétation marine et les animaux marins — y compris les phoques mais aucun autre animal marin à fourrure —, provenant de l’océan, des eaux intérieures ou des fermes d’aquaculture, ainsi que leurs produits transformés et leurs sous-produits. (*fishing products*)
+
+***produits miniers*** Les minerais métalliques et non métalliques, les minerais raffinés et leurs produits transformés ainsi que les métaux précieux et pierres précieuses raffinés, à l’exception de la ferraille, des produits du raffinage subséquent des métaux précieux et pierres précieuses et, s’ils sont utilisés pour la construction, du sable, du gravier, de la pierre et des produits de béton. (*mining products*)
+> DORS/2014-111, art. 2.
+
+
+
+
+
 ### Exemptions de l’application de la Loi
 
 
-**3** Sont soustraits à l’application de la Loi les catégories, types ou modèles d’instrument qui :
-- **a)** soit doivent faire l’objet d’une vérification aux termes de la [Loi sur l’inspection de l’électricité et du gaz](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-4.md);
-- **b)** soit sont conçus pour être utilisés et sont utilisés exclusivement dans des laboratoires ou pour des études scientifiques et n’ont pas été approuvés selon l’article 3 de la Loi.
-> DORS/80-429, art. 1; DORS/93-234, art. 2.
+**3** 
+
+- **(1)** Sont soustraits à l’application de la Loi les catégories, types ou modèles d’instrument qui :
+	- **a)** soit doivent faire l’objet d’une vérification aux termes de la [Loi sur l’inspection de l’électricité et du gaz](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-4.md);
+	- **b)** soit sont conçus pour être utilisés et sont utilisés exclusivement dans des laboratoires ou pour des études scientifiques et n’ont pas été approuvés selon l’article 3 de la Loi.
+
+- **(2)** Sont soustraits à l’application de la Loi les instruments utilisés exclusivement :
+	- **a)** soit pour jauger les cales des navires-citernes ou les réservoirs d’une capacité supérieure à 55 000 litres qui sont utilisés dans le commerce pétrolier aval ou pour en faire le barémage;
+	- **b)** soit pour jauger les cales des navires utilisés dans le commerce en gros des produits miniers.
+> DORS/80-429, art. 1; DORS/93-234, art. 2; DORS/2014-111, art. 3.
 
 
 
 
 
-### Exemptions de l’application de l’article 8 de la Loi
-> [DORS/90-118, art. 2]
+### Exemptions — article 8 et paragraphe 15(1) de la Loi
+> [DORS/90-118, art. 2; DORS/2014-111, art. 4]
 
 
 
 **4** 
 
-- **(1)** Les catégories ou types d’instruments ci-après sont exemptés des dispositions de l’article 8 de la Loi :
+- **(1)** Sont soustraits à l’application de l’article 8 et du paragraphe 15(1) de la Loi les catégories ou types d’instruments ci-après :
 	- **a)** les compteurs à eau;
 	- **b)** les parcomètres;
 	- **c)** les compteurs de taxi;
 	- **d)** les odomètres de véhicules à moteur;
 	- **e)** les balances pour personnes, actionnées par des pièces de monnaie;
-	- **f)** les distributeurs automatiques qui dispensent une quantité déterminée de liquide mais ne l’enregistrent pas au moyen d’un indicateur électrique ou mécanique;
+	- **f)** les distributeurs automatiques payants qui dispensent une quantité déterminée de liquide, mais qui n’enregistrent pas cette quantité au moyen d’un indicateur électrique ou mécanique;
 	- **g)** les horloges, montres, chronomètres et autres instruments de mesure du temps;
-	- **h)** les réservoirs à lait dans les fermes;
-	- **i)** les réservoirs-mesures installés sur des wagons de chemin de fer;
-	- **j)** les réservoirs ayant une capacité supérieure à 55 000 L ou à 12 000 gallons;
+	- **h)** les réservoirs jaugeurs à lait dans les fermes;
+	- **i)** les réservoirs jaugeurs installés sur des wagons de chemin de fer;
+	- **j)** les réservoirs jaugeurs ayant une capacité supérieure à 55 000 L ou à 12 000 gallons;
 	- **k)** les compteurs servant à mesurer les graisses et les autres marchandises ayant les mêmes caractéristiques d’écoulement que les graisses;
 	- **l)** les mesures matérialisées (statiques) utilisées comme récipients dans lesquels une marchandise est vendue ou mise en vente;
-	- **m)** les instruments d’emballage; et
-	- **n)** les appareils de pesage conçus pour être utilisés en laboratoire ou pour des études scientifiques ou pour peser les métaux précieux, et utilisés pour peser les métaux précieux ou autres marchandises de valeur comparable, s’ils sont conformes aux caractéristiques de fonctionnement, d’installation et d’utilisation établies par le présent règlement et s’ils sont, avant le 31 décembre 1981, vérifiés et jugés conformes à ces caractéristiques.
+	- **m)** les instruments d’emballage;
+	- **n)** les appareils de pesage conçus pour être utilisés en laboratoire ou pour des études scientifiques ou pour peser les métaux précieux, et utilisés pour peser les métaux précieux ou autres marchandises de valeur comparable, s’ils sont conformes aux caractéristiques de fonctionnement, d’installation et d’utilisation établies par le présent règlement et s’ils sont, avant le 31 décembre 1981, examinés et jugés conformes à ces caractéristiques;
+	- **o)** les mesures matérialisées linéaires;
+	- **p)** les instruments utilisés dans le commerce pétrolier aval pour mesurer des liquides transportés dans un réseau de canalisation permanent fermé, en provenance ou à destination d’un lieu où ils sont transformés, traités ou stockés, mais non à destination d’un lieu où le produit est consommé ou transformé et n’est plus considéré comme un hydrocarbure.
 
-- **(2)** L'instrument utilisé exclusivement pour peser ou mesurer des marchandises à quantité standard est exempté de l'application de l'article 8 de la Loi. 
-> DORS/80-429, art. 2; DORS/90-118, art. 3; DORS/93-234, art. 2(F); DORS/2005-297, art. 2 et 41(F).
-
-
-
-
-
-### Exemptions de l’application des alinéas 8b) et 26(1)c) de la Loi
-> [DORS/93-234, art. 2]
-
-
-
-**5** 
-
-- **(1)** Sous réserve du paragraphe (2), un enregistreur de compteur approuvé en application de l’article 3 de la Loi qui ne comporte pas de dispositif de compensation automatique de température, de pression ou de masse volumique, ou qui comporte un tel dispositif qui n’est pas opérationnel, est soustrait à l’application des alinéas 8b) et 26(1)c) de la Loi s’il est installé comme enregistreur de rechange sur un compteur volumétrique de liquide qui a préalablement été vérifié et certifié conformément à l’alinéa 8b) de la Loi.
-
-- **(2)** Lorsqu’un enregistreur visé au paragraphe (1) est modifié de façon à fonctionner avec compensation automatique de température, de pression ou de masse volumique, il doit être vérifié et certifié conformément aux alinéas 8b) et 26(1)c) de la Loi.
-> DORS/90-118, art. 4.
+- **(2)** Sont soustraits à l’application de l’article 8 et du paragraphe 15(1) de la Loi les instruments utilisés exclusivement pour peser ou mesurer :
+	- **a)** les marchandises à quantité standard;
+	- **b)** les produits pétroliers bruts.
+> DORS/80-429, art. 2; DORS/90-118, art. 3; DORS/93-234, art. 2(F); DORS/2005-297, art. 2 et 41(F); DORS/2014-111, art. 5, 45, 46 et 48(F).
 
 
 
 
 
-### Exemption de l’application de l’alinéa 8a) de la Loi
-> [DORS/93-234, art. 2; DORS/94-691, art. 4(A)]
+### Exemptions — alinéa 8a) et paragraphe 15(1) de la Loi
+> [DORS/93-234, art. 2; DORS/2014-111, art. 6]
 
 
 
-**6** Un réservoir est soustrait à l’application de l’alinéa 8a) de la Loi s’il satisfait aux normes applicables de conception, de composition, de construction et de fonctionnement énoncées aux sections I, V, X et XII de la partie V et à toute norme additionnelle établie en application de l’article 13.
-> DORS/90-118, art. 4.
+**5** Est soustrait à l’application de l’alinéa 8a) et du paragraphe 15(1) de la Loi le réservoir jaugeur qui satisfait aux normes applicables de conception, de composition, de construction et de fonctionnement énoncées aux sections I, V, X et XII de la partie V et à toute autre norme établie en vertu de l’article 13.
+> DORS/90-118, art. 4; DORS/2014-111, art. 6.
 
 
 
 
 
-### Exemptions de l’application des articles 8, 23 et 33 de la Loi et de l’alinéa 24b) de la Loi
+### Exemptions — alinéa 8b) et paragraphe 15(1) de la Loi
+> [DORS/93-234, art. 2; DORS/94-691, art. 4(A); DORS/2014-111, art. 6]
+
+
+
+**6** Est soustrait à l’application de l’alinéa 8b) et du paragraphe 15(1) de la Loi l’instrument qui est utilisé exclusivement pour le commerce en gros de l’or, de l’argent ou des diamants, à la suite de l’affinage initial de ces derniers.
+> DORS/90-118, art. 4; DORS/2014-111, art. 6.
+
+
+
+
+
+### Exemptions — alinéa 8b), paragraphe 15(1) et alinéa 26(1)c) de la Loi
+
+
+**6.1** 
+
+- **(1)** Sous réserve du paragraphe (2), l’enregistreur de compteur approuvé en vertu de l’article 3 de la Loi qui ne comporte pas de dispositif de compensation automatique de température, de pression ou de masse volumique, ou qui comporte un tel dispositif, mais qui ne sert pas, est soustrait à l’application de l’alinéa 8b), du paragraphe 15(1) et de l’alinéa 26(1)c) de la Loi s’il est installé comme enregistreur de rechange sur un compteur volumétrique de liquide qui a préalablement été examiné et certifié pour l’application de l’alinéa 8b) de la Loi.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’enregistreur qui est modifié de façon à fonctionner avec compensation automatique de température, de pression ou de masse volumique.
+> DORS/2014-111, art. 6.
+
+
+
+
+
+### Exemptions — article 8, paragraphe 15(1), article 23, alinéa 24b) et article 33 de la Loi
+> [DORS/2014-111, art. 7]
+
 
 
 **7** 
 
-- **(1)** Sous réserve du paragraphe (2), lorsque les parties à une transaction projetée font savoir au ministre, par écrit,
-	- **a)** qu’elles ne peuvent obtenir, pour utilisation dans la transaction projetée, un instrument approuvé pour utilisation dans le commerce ou approuvé pour utilisation de la façon particulière ou dans le but particulier qu’elles envisagent (instrument ci-après appelé « instrument approuvé »),
-	- **b)** qu’elles veulent utiliser, dans leur transaction projetée, un instrument qui n’est pas un instrument approuvé, et
-	- **c)** qu’il serait peu pratique ou trop coûteux d’obtenir l’approbation pour la catégorie, le type ou le modèle d’instrument qu’elles veulent utiliser dans leur transaction projetée ou de satisfaire aux exigences de l’alinéa 8b) de la Loi,
-ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’alinéa 24b) de la Loi.
+- **(1)** Sous réserve du paragraphe (2), l’article 8, le paragraphe 15(1), l’article 23, l’alinéa 24b) et l’article 33 de la Loi ne s’appliquent pas à l’égard des transactions commerciales, si les parties font parvenir au ministre un avis écrit indiquant :
+	- **a)** qu’elles ne peuvent obtenir pour utilisation dans la transaction projetée un instrument approuvé pour utilisation dans le commerce ou approuvé pour utilisation de la façon particulière ou dans le but particulier qu’elles envisagent;
+	- **b)** qu’elles veulent utiliser dans la transaction projetée un instrument qui n’est pas un instrument approuvé visé à l’alinéa a);
+	- **c)** qu’il serait peu pratique ou trop coûteux d’obtenir l’approbation pour la catégorie, le type ou le modèle d’instrument qu’elles veulent utiliser dans la transaction projetée ou de satisfaire aux exigences de l’examen prévu à l’alinéa 8b) ou au paragraphe 15(1) de la Loi.
 
 - **(2)** La transaction prévue au paragraphe (1) n’est pas exemptée des dispositions de la Loi qui sont mentionnées à ce paragraphe, à moins
 	- **a)** que les parties dont il est question au paragraphe (1) ne donnent au ministre tous les renseignements qu’il peut demander sur l’instrument qu’elles veulent utiliser;
@@ -160,7 +219,7 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 		- **(iii)** à quels intervalles l’instrument devra être calibré;
 	- **d)** que les parties aient envoyé au ministre une copie conforme de la partie du contrat qui concerne l’utilisation de l’instrument; et
 	- **e)** que l’instrument que les parties veulent utiliser mesure dans les limites de la marge de tolérance dont il est question au sous-alinéa c)(i).
-> DORS/89-570, art. 6(F); DORS/2005-297, art. 41(F).
+> DORS/89-570, art. 6(F); DORS/2005-297, art. 41(F); DORS/2014-111, art. 8.
 
 
 
@@ -171,34 +230,46 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 
 **8** 
 
-- **(1)** Sous réserve de l’article 10, est soustrait à l’application de l’alinéa 8a) de la Loi l’instrument qui a été vérifié et certifié aux termes d’un texte législatif antérieur et qui n’a pas été approuvé en application de l’article 3 de la Loi.
+- **(1)** Sous réserve de l’article 10, est soustrait à l’application de l’alinéa 8a) de la Loi l’instrument qui a été examiné et certifié aux termes d’un texte législatif antérieur et qui n’a pas été approuvé en application de l’article 3 de la Loi.
 
 - **(2)** Sous réserve de l’article 10, est soustrait à l’application de l’alinéa 8a) de la Loi l’instrument ou la catégorie, le type ou le modèle d’instrument qui a été approuvé pour utilisation dans le commerce aux termes d’un texte législatif antérieur.
-> DORS/90-118, art. 5.
+> DORS/90-118, art. 5; DORS/2014-111, art. 46.
 
 
 
 
 **9** 
 
-- **(1)** Sous réserve du paragraphe (2), lorsqu’un instrument ou une catégorie, un type ou un modèle d’instrument approuvé en application du paragraphe 3(1) de la Loi ou aux termes d’un texte législatif antérieur, ou un instrument vérifié et certifié par un inspecteur au plus tard le 31 décembre 1989, est modifié pour fonctionner avec des unités de mesure figurant à l’annexe I de la Loi, cet instrument ou cette catégorie, ce type ou ce modèle d’instrument est soustrait à l’application de l’alinéa 8a) de la Loi si, une fois modifié, il est conforme :
+- **(1)** Sous réserve du paragraphe (2), lorsqu’un instrument ou une catégorie, un type ou un modèle d’instrument approuvé en application du paragraphe 3(1) de la Loi ou aux termes d’un texte législatif antérieur, ou un instrument examiné et certifié par un inspecteur au plus tard le 31 décembre 1989, est modifié pour fonctionner avec des unités de mesure figurant à l’annexe I de la Loi, cet instrument ou cette catégorie, ce type ou ce modèle d’instrument est soustrait à l’application de l’alinéa 8a) de la Loi si, une fois modifié, il est conforme :
 	- **a)** soit aux normes applicables de conception, de composition, de construction et de fonctionnement énoncées à la partie V et à toute norme additionnelle établie en application de l’article 13;
-	- **b)** soit aux normes applicables de conception, de composition, de construction et de fonctionnement en vigueur à l’époque où l’instrument a initialement été vérifié et certifié par un inspecteur ou à l’époque où l’instrument ou la catégorie, le type ou le modèle d’instrument a été approuvé.
+	- **b)** soit aux normes applicables de conception, de composition, de construction et de fonctionnement en vigueur à l’époque où l’instrument a initialement été examiné et certifié par un inspecteur ou à l’époque où l’instrument ou la catégorie, le type ou le modèle d’instrument a été approuvé.
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux instruments et aux catégories, types ou modèles d’instrument qui font l’objet d’une approbation temporaire accordée en application du paragraphe 3(2) de la Loi.
-> DORS/90-118, art. 5.
+> DORS/90-118, art. 5; DORS/2014-111, art. 46.
 
 
 
 
-**10** Les mesures matérialisées vérifiées et certifiées par un inspecteur au plus tard le 31 décembre 1989 sont soustraites à l’application de l’alinéa 8a) de la Loi.
-> DORS/90-118, art. 5.
+**10** Les mesures matérialisées examinées et certifiées par un inspecteur au plus tard le 31 décembre 1989 sont soustraites à l’application de l’alinéa 8a) de la Loi.
+> DORS/90-118, art. 5; DORS/2014-111, art. 46.
 
 
 
 
 **10.1** Un instrument ou une catégorie, un type ou un modèle d’instrument est soustrait à l’application de l’alinéa 8a) de la Loi si chacun de ses éléments qui peuvent avoir un effet sur son exactitude est approuvé en application de l’article 3 de la Loi.
 > DORS/90-118, 5.
+
+
+
+
+
+### Exemptions — paragraphe 19(2) de la Loi
+
+
+**10.2** Sont soustraits à l’application du paragraphe 19(2) de la Loi les instruments suivants :
+- **a)** les mesures matérialisées;
+- **b)** les poids sans bouchon de plomb qui ont été marqués conformément à l’alinéa 30(3)d).
+> DORS/2014-111, art. 9.
 
 
 
@@ -225,10 +296,10 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 	- **c)** le port d’entrée de l’instrument;
 	- **d)** une description assez détaillée de l’instrument pour permettre à un inspecteur de le reconnaître;
 	- **e)** le nombre d’instruments importés lorsqu’il y en a plus d’un;
-	- **f)** l’adresse à laquelle l’instrument pourra être vérifié;
+	- **f)** l’adresse à laquelle l’instrument pourra être examiné;
 	- **g)** si, oui ou non, l’instrument est d’une catégorie, d’un type ou d’un modèle approuvé pour l’utilisation dans le commerce, et dans l’affirmative, le numéro d’approbation mentionné à l’alinéa 17c) pour cette catégorie, ce type ou ce modèle d’instrument; et
 	- **h)** si, oui ou non, l’instrument a été marqué conformément au présent règlement.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 40, 41(F) et 43.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 40, 41(F) et 43; DORS/2014-111, art. 46.
 
 
 
@@ -276,18 +347,18 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 **15** 
 
 - **(1)** La demande dont il est question à l’article 14 doit être accompagnée des documents suivants, reproduits en double exemplaire :
-	- **a)** le résultat des vérifications du fonctionnement de l’instrument dans des conditions réelles ou simulées;
-	- **b)** les principaux dessins et les caractéristiques que doit utiliser le fabricant pour monter, vérifier et, s’il y a lieu, installer les instruments de cette catégorie, de ce type ou de ce modèle; et
+	- **a)** le résultat des essais sur le fonctionnement de l’instrument dans des conditions réelles ou simulées;
+	- **b)** les principaux dessins et les caractéristiques que doit utiliser le fabricant pour monter, mettre à l’essai et, s’il y a lieu, installer les instruments de cette catégorie, de ce type ou de ce modèle;
 	- **c)** le matériel promotionnel, les bulletins, brochures, instructions et autres renseignements distribués ou pour distribution aux acheteurs éventuels ou autres d’un instrument de la catégorie, du type ou du modèle qui fait l’objet de la demande.
 
-- **(2)** Une personne qui présente une demande en vertu de l’article 14 doit fournir tous les autres renseignements, résultats de vérifications, dessins ou caractéristiques que demande le ministre et dont il a besoin pour examiner la demande.
-> DORS/2005-297, art. 41(F).
+- **(2)** La personne qui présente une demande au titre de l’article 14 doit fournir tous les autres renseignements, résultats des essais, dessins ou caractéristiques que demande le ministre et dont il a besoin pour traiter la demande.
+> DORS/2005-297, art. 41(F); DORS/2014-111, art. 10(F).
 
 
 
 
-**16** À la demande du ministre et dans les conditions qu’il peut préciser, le requérant doit mettre à la disposition du ministre un ou plusieurs instruments de la catégorie, du type ou du modèle qui fait l’objet de la demande ainsi que les renseignements, le matériel, les matières et les services requis pour inspecter, examiner et vérifier l’instrument.
-> DORS/2005-297, art. 41(F).
+**16** À la demande du ministre et dans les conditions qu’il peut préciser, le requérant doit mettre à la disposition du ministre un ou plusieurs instruments de la catégorie, du type ou du modèle qui fait l’objet de la demande ainsi que les renseignements, le matériel, les matières et les services exigés pour l’étude préalable à l’approbation de l’instrument.
+> DORS/2005-297, art. 41(F); DORS/2014-111, art. 11.
 
 
 
@@ -322,7 +393,7 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 	- **c)** en partie sur l’instrument et en partie sur une ou des plaques fixées en permanence sur l’instrument;
 	- **d)** dans le cas d’un instrument trop petit pour porter les renseignements requis de la manière indiquée aux alinéas a), b) ou c), sur un avis attaché à l’instrument ou exposé tout près.
 
-- **(2)** Lorsque les renseignements sont inscrits sur une plaque, un espace approprié d’au moins 12 mm sur 25 mm ou de ½ pouce sur un pouce doit être laissé en blanc sur la plaque pour permettre d’y apposer la marque de vérification mentionnée à l’article 29, et la plaque doit être faite d’une matière durable et placée et montée de façon à ce que l’on puisse la marquer avec un poinçon d’acier.
+- **(2)** Lorsque les renseignements sont inscrits sur une plaque, un espace approprié d’au moins 12 mm sur 25 mm doit être laissé en blanc sur la plaque pour permettre d’y apposer la marque d’examen mentionnée à l’article 30, et la plaque doit être faite d’une matière durable et placée et montée de façon à ce que l’on puisse la marquer avec un poinçon d’acier.
 
 - **(3)** Les renseignements qu’il est prescrit d’inscrire sur l’instrument, conformément au présent règlement, doivent être inscrits en lettres
 	- **a)** indélébiles;
@@ -331,7 +402,7 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 	- **d)** placées de façon à être facilement lisibles pour une personne qui utilise l’instrument dans des conditions normales d’usage.
 
 - **(4)** Lorsqu’on utilise des chiffres et des lettres ou des chiffres au lieu de lettres pour marquer un instrument, la grosseur et la hauteur des chiffres doivent correspondre à celles des lettres utilisées ou qu’il est prescrit d’utiliser par le présent règlement.
-> DORS/93-234, art. 2(F); DORS/98-115, art. 2; DORS/2005-130, art. 2.
+> DORS/93-234, art. 2(F); DORS/98-115, art. 2; DORS/2005-130, art. 2; DORS/2014-111, art. 12.
 
 
 
@@ -340,13 +411,13 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 ### Marquage des mesures matérialisées (statiques) approuvées pour utilisation dans le commerce
 
 
-**19** Une mesure matérialisée (statique) d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce et fabriquée à compter du 1<sup>er</sup> janvier 1976 doit, avant d’être vendue, louée ou aliénée de quelque autre façon, porter les renseignements suivants :
+**19** La mesure matérialisée d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce et fabriquée le 1<sup>er</sup> janvier 1976 ou après cette date doit, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter les renseignements suivants :
 - **a)** le nom ou la marque de commerce enregistré du fabricant ou de l’importateur de la mesure;
 - **b)** le numéro d’approbation pour cette catégorie, ce type ou ce modèle de mesure;
 - **c)** la capacité de la mesure, exprimée en unités de mesures appropriées;
 - **d)** les mots « Légal pour le commerce » (« *Legal for Trade* »); et
 - **e)** les renseignements qu’il est prescrit d’inscrire sur l’instrument dans l’avis d’approbation.
-> DORS/2005-297, art. 41(F).
+> DORS/2005-297, art. 41(F); DORS/2014-111, art. 13.
 
 
 
@@ -357,7 +428,7 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 
 **20** 
 
-- **(1)** Un poids d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce doit, avant d’être vendu, loué ou aliéné de quelque autre façon, porter les renseignements suivants :
+- **(1)** Le poids d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce doit, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter les renseignements suivants :
 	- **a)** le nombre d’unités de masse ou de poids qu’il contient;
 	- **b)** s’il s’agit d’un contrepoids utilisé dans un appareil de pesage, le nombre d’unités de masse ou de poids auquel le poids équivaut lorsqu’il est utilisé comme contrepoids avec l’appareil de mesure dont il fait partie;
 	- **c)** s’il s’agit d’un poids de un gramme ou d’un multiple ou sous-multiple de gramme, le mot « gramme » ou son symbole « g », avec le préfixe ou le symbole approprié tel qu’il est indiqué à la partie V de l’annexe I de la Loi;
@@ -370,7 +441,7 @@ ladite transaction est exemptée des articles 8, 23 et 33 de la Loi et de l’al
 	- **a)** aux poids en tôle ou en fil métallique de un milligramme ou de multiples ou sous-multiples de un milligramme, ni
 	- **b)** aux poids en tôle ou en fil métallique de un grain ou de multiples ou de sous-multiples de un grain
 si les poids sont fabriqués en leurs formes distinctives habituelles pour indiquer le multiple ou le sous-multiple du milligramme ou du grain que représente le poids.
-> DORS/2005-297, art. 41(F).
+> DORS/2005-297, art. 41(F); DORS/2014-111, art. 14.
 
 
 
@@ -379,65 +450,67 @@ si les poids sont fabriqués en leurs formes distinctives habituelles pour indiq
 ### Marquage des appareils approuvés de pesage et de mesure et de leurs accessoires et matériel
 
 
-**21** Tout appareil de pesage non visé par les [Normes applicables aux appareils de pesage à fonctionnement non automatique (1998)](/fr/Règlements/Textes%20réglementaires/98/81.md) et tout appareil de mesure qui sont d’une catégorie, d’un type ou d’un modèle approuvé en application de l’article 3 de la Loi, ainsi que le matériel et les accessoires rattachés ou utilisés en conjonction avec eux qui ont ou peuvent avoir un effet sur l’exactitude de l’appareil, et qui sont approuvés en application de l’article 3 de la Loi, doivent, avant d’être cédés, notamment par vente ou location, être marqués des renseignements suivants :
+**21** L’appareil de pesage — non visé par les [Normes applicables aux appareils de pesage à fonctionnement non automatique (1998)](/fr/Règlements/Textes%20réglementaires/98/81.md) — ou l’appareil de mesure, d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi, ainsi que le matériel et les accessoires rattachés ou utilisés en conjonction avec ceux-ci qui ont ou peuvent avoir un effet sur leur exactitude et qui sont approuvés en vertu de l’article 3 de la Loi, doivent, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter les renseignements suivants :
 - **a)** le nom du fabricant ou de l’importateur de l’appareil, du matériel et des accessoires;
 - **b)** le numéro de modèle et le numéro de série de l’appareil, du matériel et des accessoires;
 - **c)** le numéro d’approbation de l’appareil, du matériel et des accessoires;
-- **d)** s’il s’agit d’un compteur volumétrique de liquide :
+- **d)** s’il s’agit d’un compteur volumétrique de liquide :
 	- **(i)** les débits maximal et minimal,
 	- **(ii)** dans le cas d’un compteur muni d’un compensateur automatique de température, la mention « Volume corrigé à 15 °C » ou « *Volume corrected to 15°C* », inscrite juste à côté des indications de la quantité nette;
 - **e)** s’il s’agit d’un appareil de pesage, la charge maximale qu’il peut peser;
 - **f)** s’il s’agit de matériel et d’accessoires, la plage pour laquelle ils ont été approuvés en application de l’article 3 de la Loi;
 - **g)** tout autre renseignement qu’exige l’avis d’approbation délivré sous le régime de l’article 3 de la Loi.
-> DORS/90-118, art. 6; DORS/98-115, art. 3; DORS/2005-130, art. 3.
+> DORS/90-118, art. 6; DORS/98-115, art. 3; DORS/2005-130, art. 3; DORS/2014-111, art. 15.
 
 
 
 
-**22** Un appareil de pesage ou de mesure d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce et mentionné au paragraphe 28(2) doit, avant d’être vendu, loué ou aliéné de quelque autre façon, porter la mention « Ne pas utiliser dans le commerce avant la vérification » (« *Not for Use in Trade until Inspected* ») ou des mots ayant la même signification, et ces inscriptions doivent être faites en lettres d’au moins 12 mm ou ½ pouce de hauteur et doivent être laissées sur l’appareil jusqu’à ce qu’il ait été vérifié et trouvé conforme aux prescriptions de la Loi et du présent règlement.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 41(F).
+**22** L’appareil de pesage ou l’appareil de mesure d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi et mentionné au paragraphe 28(2) doit, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter la mention « Ne pas utiliser dans le commerce avant l’examen » (« *Not for Use in Trade until Examined* ») ou des mots ayant la même signification, et ces inscriptions doivent être faites en lettres d’au moins 12 mm de hauteur et doivent être laissées sur l’appareil jusqu’à ce qu’il ait été examiné et trouvé conforme aux prescriptions de la Loi et du présent règlement.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 41(F); DORS/2014-111, art. 16.
 
 
 
 
 **23** 
 
-- **(1)** L’appareil de pesage ou l’appareil de mesure qui n’est pas d’une catégorie, d’un type ou d’un modèle approuvé conformément à l’article 3 de la Loi et qui n’est pas exempté de l’approbation prévue à cet article est marqué, avant d’être cédé, notamment par vente ou location, de la mention « Non légal pour le commerce » ou « *Not Legal for Trade* » en lettres d’au moins 6 mm de hauteur.
+- **(1)** L’appareil de pesage ou l’appareil de mesure qui n’est pas d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi et qui n’est pas exempté de l’approbation prévue à cet article doit, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter la mention « Non légal pour le commerce » (« *Not Legal for Trade* ») en lettres d’au moins 6 mm de hauteur.
 
-- **(2)** Tout instrument visé par le paragraphe 4(2) est marqué de la mention « Pour préemballage seulement » ou « *For Prepackaging Use Only* » en lettres d’au moins 6 mm de hauteur.
-> DORS/93-234, art. 2; DORS/2005-297, art. 4.
-
-
+- **(2)** L’instrument visé par l’alinéa 4(2)a) doit porter la mention « Pour préemballage seulement » (« *For Prepackaging Use Only* ») en lettres d’au moins 6 mm de hauteur.
+> DORS/93-234, art. 2; DORS/2005-297, art. 4; DORS/2014-111, art. 16.
 
 
 
-### Marquage des réservoirs-mesures
+
+
+### Marquage des réservoirs jaugeurs
+> [DORS/2014-111, art. 48(F)]
+
 
 
 **24** 
 
-- **(1)** Un réservoir-mesure qui est d’une catégorie, d’un type ou d’un modèle approuvé pour utilisation dans le commerce doit, avant d’être vendu, loué ou aliéné de quelque autre façon, porter les renseignements suivants :
-	- **a)** le nom du fabricant ou de l’importateur du réservoir;
-	- **b)** le numéro du modèle et le numéro de série du réservoir;
-	- **c)** le numéro d’approbation pour cette catégorie, ce type ou ce modèle de réservoir;
-	- **d)** la capacité maximale du réservoir;
-	- **e)** s’il s’agit d’un réservoir qui contient un ou plusieurs indicateurs de capacité internes, la capacité du réservoir au niveau de chaque indicateur, et, s’il y a plusieurs indicateurs, les diverses capacités doivent être indiquées dans l’ordre décroissant;
-	- **f)** s’il s’agit d’un réservoir qui a été calibré à un robinet situé tout près de la sortie du réservoir ou qui a été calibré à une soupape de sûreté, les mots « calibré avec tuyauterie vide » (« *dry line calibration* »);
-	- **g)** s’il s’agit d’un réservoir qui n’a pas été calibré selon qu’il est indiqué à l’alinéa f), les mots « calibré avec tuyauterie pleine » (« *wet line calibration* »); et
-	- **h)** s’il s’agit de plusieurs réservoirs-mesures installés sur un véhicule, une lettre ou un numéro dans un ordre reconnu depuis le réservoir le plus proche de l’avant du véhicule jusqu’à celui qui est le plus proche de l’arrière du véhicule.
+- **(1)** Le réservoir jaugeur d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi doit, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, porter les renseignements suivants :
+	- **a)** le nom du fabricant ou de l’importateur du réservoir jaugeur;
+	- **b)** le numéro du modèle et le numéro de série du réservoir jaugeur;
+	- **c)** le numéro d’approbation pour cette catégorie, ce type ou ce modèle de réservoir jaugeur;
+	- **d)** la capacité maximale du réservoir jaugeur;
+	- **e)** s’il s’agit d’un réservoir jaugeur qui contient un ou plusieurs indicateurs de capacité internes, la capacité du réservoir jaugeur au niveau de chaque indicateur, et, s’il y a plusieurs indicateurs, les diverses capacités doivent être indiquées dans l’ordre décroissant;
+	- **f)** s’il s’agit d’un réservoir jaugeur qui a été calibré à un robinet situé tout près de la sortie du réservoir jaugeur ou qui a été calibré à une soupape de sûreté, les mots « calibré avec tuyauterie vide » (« *dry line calibration* »);
+	- **g)** s’il s’agit d’un réservoir jaugeur qui n’a pas été calibré selon qu’il est indiqué à l’alinéa f), les mots « calibré avec tuyauterie pleine » (« *wet line calibration* »); et
+	- **h)** s’il s’agit de plusieurs réservoirs jaugeurs installés sur un véhicule, une lettre ou un numéro dans un ordre reconnu depuis le réservoir jaugeur le plus proche de l’avant du véhicule jusqu’à celui qui est le plus proche de l’arrière du véhicule.
 
-- **(2)** Lorsque plusieurs réservoirs-mesures sont installés sur un véhicule, les renseignements requis par les alinéas (1)a) à g) peuvent figurer au même endroit si les réservoirs sont identifiés conformément à l’alinéa (1)h) et si les renseignements correspondent à la lettre ou au numéro indiqué sur le réservoir.
+- **(2)** Lorsque plusieurs réservoirs jaugeurs sont installés sur un véhicule, les renseignements requis par les alinéas (1)a) à g) peuvent figurer au même endroit si les réservoirs jaugeurs sont identifiés conformément à l’alinéa (1)h) et si les renseignements correspondent à la lettre ou au numéro indiqué sur le réservoir jaugeur.
 
 - **(3)** Les renseignements requis par les alinéas (1)f), g) et h) doivent figurer en chiffres ou en lettres d’au moins 12 mm ou ½ pouce de hauteur.
 
-- **(4)** Tout indicateur de capacité à l’intérieur d’un réservoir-mesure doit être marqué en chiffres ou en lettres d’au moins 6 mm ou ¼ de pouce de hauteur
-	- **a)** pour indiquer la capacité du réservoir au niveau de l’indicateur; ou
+- **(4)** Tout indicateur de capacité à l’intérieur d’un réservoir jaugeur doit être marqué en chiffres ou en lettres d’au moins 6 mm ou ¼ de pouce de hauteur
+	- **a)** pour indiquer la capacité du réservoir jaugeur au niveau de l’indicateur; ou
 	- **b)** pour identifier l’indicateur.
 
-- **(5)** Lorsque l’indicateur de capacité interne est identifié conformément à l’alinéa (4)b), la lettre ou le numéro d’identification et la capacité du réservoir au niveau de cet indicateur doivent figurer sur l’extérieur du col ou de l’ouverture de remplissage du réservoir en chiffres ou en lettres d’au moins 12 mm ou ½ pouce de hauteur.
+- **(5)** Lorsque l’indicateur de capacité interne est identifié conformément à l’alinéa (4)b), la lettre ou le numéro d’identification et la capacité du réservoir jaugeur au niveau de cet indicateur doivent figurer sur l’extérieur du col ou de l’ouverture de remplissage du réservoir jaugeur en chiffres ou en lettres d’au moins 12 mm ou ½ pouce de hauteur.
 
-- **(6)** Lorsque plusieurs réservoirs-mesures sont installés sur un véhicule, la soupape de décharge de chacun des réservoirs doit être marquée de façon à indiquer le réservoir à partir duquel la marchandise est déchargée et ce en lettres d’au moins 6 mm ou ¼ de pouce de hauteur.
-> DORS/2005-297, art. 41(F).
+- **(6)** Lorsque plusieurs réservoirs jaugeurs sont installés sur un véhicule, la soupape de décharge de chacun des réservoirs jaugeurs doit être marquée de façon à indiquer le réservoir jaugeur à partir duquel la marchandise est déchargée et ce en lettres d’au moins 6 mm ou ¼ de pouce de hauteur.
+> DORS/2005-297, art. 41(F); DORS/2014-111, art. 17, 45 et 48(F).
 
 
 
@@ -446,8 +519,8 @@ si les poids sont fabriqués en leurs formes distinctives habituelles pour indiq
 ### Inscription de la mention « Ne pas utiliser dans le commerce »
 
 
-**25** Tout appareil de pesage et tout appareil de mesure qui sont d’une catégorie, d’un type ou d’un modèle approuvé en application de l’article 3 de la Loi pour utilisation dans le commerce doivent, avant d’être cédés, notamment par vente ou location, pour usage non commercial, être marqués en permanence de la mention « Ne pas utiliser dans le commerce » ou « *Not for use in trade* » en lettres d’au moins 12 mm de hauteur.
-> DORS/90-118, art. 7.
+**25** L’appareil de pesage et l’appareil de mesure d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi doivent, avant de faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, pour usage non commercial, porter en permanence la mention « Ne pas utiliser dans le commerce » (« *Not for Use in Trade* ») en lettres d’au moins 12 mm de hauteur.
+> DORS/90-118, art. 7; DORS/2014-111, art. 18.
 
 
 
@@ -469,119 +542,146 @@ si les poids sont fabriqués en leurs formes distinctives habituelles pour indiq
 
 
 
-### Vérification en application de l’alinéa 26(1)c) de la Loi
-> [DORS/93-234, art. 2]
+### Examen des instruments
+> [DORS/93-234, art. 2; DORS/2014-111, art. 19]
 
 
 
 **28** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), tout instrument qui est d’une catégorie, d’un type ou d’un modèle approuvé conformément à l’article 3 de la Loi ou qui est visé à l’article 8, autre qu’une mesure matérialisée ou un instrument visé au paragraphe 4(2), ne peut être cédé, notamment par vente ou location, qu’à la condition suivante : 
-	- **a)** dans le cas d’un instrument fabriqué au Canada, le fabricant l’a fait vérifier par un inspecteur; 
-	- **b)** dans le cas d’un instrument importé au Canada, le fournisseur qui l’a importé l’a fait vérifier par un inspecteur.
+- **(1)** Pour l’application de l’alinéa 26(1)c) de la Loi et sous réserve des paragraphes (2) et (3), l’instrument qui est d’une catégorie, d’un type ou d’un modèle approuvé en vertu de l’article 3 de la Loi ou qui est visé à l’article 8, autre qu’une mesure matérialisée ou un instrument visé au paragraphe 4(2), ne peut faire l’objet d’une vente ou d’une autre forme de disposition, ni d’une location, sauf si :
+	- **a)** dans le cas d’un instrument fabriqué au Canada, le fabricant l’a fait examiner par un inspecteur;
+	- **b)** dans le cas d’un instrument importé au Canada, le fournisseur qui l’a importé l’a fait examiner par un inspecteur.
 
-- **(2)** L’instrument dont le fonctionnement ne peut être vérifié avant qu’il soit installé pour utilisation dans le commerce est soustrait à l’application du paragraphe (1) si le fournisseur remplit les conditions suivantes :
+- **(2)** Est soustrait à l’application du paragraphe (1) l’instrument dont le fonctionnement ne peut être examiné avant qu’il ne soit installé pour utilisation dans le commerce, si le fournisseur remplit les conditions suivantes :
 	- **a)** il marque l’instrument conformément à l’article 22;
-	- **b)** il fait parvenir au bureau de Mesures Canada le plus proche, dans les cinq jours suivant l’expédition de l’instrument, un avis écrit indiquant :
+	- **b)** dans les cinq jours suivant l’expédition de l’instrument, il fait parvenir au bureau de Mesures Canada le plus près, un avis écrit indiquant :
 		- **(i)** ses nom et adresse,
 		- **(ii)** le nom de la personne à qui l’instrument a été expédié,
 		- **(iii)** une description de l’instrument,
-		- **(iv)** l’adresse du lieu où l’instrument sera installé.
+		- **(iv)** l’adresse du lieu où l’instrument sera installé;
+	- **c)** il avise le commerçant que l’instrument doit être examiné par un inspecteur avant son utilisation dans le commerce.
 
-- **(3)** Le paragraphe (1) ne s’applique pas à l’instrument destiné à être cédé, notamment par vente ou location, pour usage non commercial, si le fournisseur remplit les conditions suivantes :
+- **(3)** Le paragraphe (1) ne s’applique pas à l’instrument destiné à faire l’objet d’une vente ou d’une autre forme de disposition, ou d’une location, pour usage non commercial, si le fournisseur remplit les conditions suivantes :
 	- **a)** il marque l’instrument conformément à l’article 25;
-	- **b)** dans les cinq jours après l’avoir cédé, notamment par vente ou location, il envoie au bureau de Mesures Canada le plus proche un avis écrit portant les renseignements suivants :
+	- **b)** dans les cinq jours après en avoir disposé par vente ou autrement, ou l’avoir loué, il fait parvenir au bureau de Mesures Canada le plus près un avis écrit portant les renseignements suivants :
 		- **(i)** ses nom et adresse,
-		- **(ii)** les nom et adresse de la personne à qui l’instrument a été cédé, notamment par vente ou location,
+		- **(ii)** les nom et adresse de la personne qui a reçu l’instrument dans le cadre d’une vente ou d’une autre forme de disposition, ou d’une location,
 		- **(iii)** une description de l’instrument, y compris son numéro d’approbation, son numéro de série et son numéro de modèle.
+> DORS/90-118, art. 9; DORS/93-234, art. 2; DORS/2005-297, art. 5, 40 et 41(F); DORS/2014-111, art. 19.
 
-- **(4)** Le fournisseur ou le commerçant qui installe ou fait installer un instrument visé au paragraphe (2) pour utilisation dans le commerce fait vérifier l’instrument par un inspecteur avant de l’utiliser.
-> DORS/90-118, art. 9; DORS/93-234, art. 2; DORS/2005-297, art. 5, 40 et 41(F).
-
-
-
-
-
-### Marquage des instruments après les vérifications initiales faites en application de l’article 28
-> [DORS/93-234, art. 2(F)]
 
 
 
 **29** 
 
-- **(1)** Lorsqu’un instrument est vérifié selon qu’il est prescrit au paragraphe 28(1) ou après l’installation dont il est question au paragraphe 28(2) et que l’inspecteur constate que l’instrument répond aux exigences de la Loi et du présent règlement, ce dernier doit faire une marque de vérification sur l’instrument ou sur le contenant dans lequel l’instrument est gardé lorsqu’il ne sert pas, selon qu’il est prescrit aux paragraphes (2), (3) et (4).
+- **(1)** Pour l’application du paragraphe 15(1) de la Loi, le commerçant qui utilise un instrument visé à la colonne I de la partie I de l’annexe I pour la catégorie de commerce visée à la colonne II, ou qui l’a en sa possession à cette fin, le fait examiner dans le délai indiqué à la colonne III, calculé à compter de la date de délivrance la plus récente à compter du 1<sup>er</sup> août 2014 du certificat attestant la conformité de l’instrument à la Loi et au présent règlement à la suite de l’examen visé à l’alinéa 8b) ou aux articles 15 ou 15.1 de la Loi.
 
-- **(2)** Un instrument visé au paragraphe (1) doit être marqué au moyen d’un poinçon d’acier ou, si ce n’est pas possible, au moyen d’une étiquette gommée.
+- **(2)** Dans le cas où l’instrument visé au paragraphe (1) était utilisé dans le commerce ou possédé à cette fin avant le 1<sup>er</sup> août 2014, le commerçant le fait d’abord examiner pour l’application du paragraphe 15(1) de la Loi dans celui des délais ci-après qui expire le plus tard :
+	- **a)** le délai de mise en application indiqué à la colonne I de la partie II de l’annexe I, ou à la colonne II dans le cas d’un instrument utilisé dans le commerce au détail des aliments, calculé, pour la zone géographique visée à la colonne III dans laquelle se trouve l’instrument, à compter du 1<sup>er</sup> août 2014;
+	- **b)** le délai indiqué à la colonne III de la partie I de l’annexe I, calculé à compter de la date de délivrance la plus récente avant le 1<sup>er</sup> août 2014 du certificat attestant la conformité de l’instrument à la Loi et au présent règlement dans leur version à cette date.
 
-- **(3)** La marque de vérification doit être apposée,
-	- **a)** dans le cas d’un appareil de pesage ou de mesure qui comporte une ou des plaques fixées en permanence à l’appareil, sur la partie en blanc de la plaque dont il est question au paragraphe 18(2);
-	- **b)** dans le cas d’un appareil de pesage ou de mesure qui ne comporte pas de plaque fixée en permanence à l’appareil, sur une partie de l’appareil où elle sera facilement lisible pour une personne qui utilise l’appareil dans des conditions normales d’usage;
-	- **c)** dans le cas d’un poids à bouchon de plomb, sur le bouchon de plomb; et
+- **(3)** Pour l’application du paragraphe (1) et de l’alinéa (2)b), dans le cas où un instrument est visé par plus d’un article de la partie I de l’annexe I, le plus court des délais indiqués à la colonne III pour ces articles s’applique.
+
+- **(4)** Pour l’application de l’alinéa (2)a), si un instrument est déplacé d’une zone géographique à une autre avant l’expiration du délai indiqué à la colonne I ou à la colonne II de la partie II de l’annexe I pour la zone géographique visée à la colonne III de laquelle il est déplacé, le délai de mise en application pour cet instrument est, à compter du 1<sup>er</sup> août 2014 :
+	- **a)** le délai de mise en application visé à la colonne I ou à la colonne II de la partie II de l’annexe I pour la zone géographique visée à la colonne III dans laquelle il est déplacé;
+	- **b)** si le délai visé à l’alinéa a) est expiré, vingt-quatre mois, ou trente-six mois dans le cas d’un instrument utilisé dans le commerce au détail des aliments.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 19.
+
+
+
+
+**29.1** Pour l’application du paragraphe 15(2) de la Loi, le ministre peut accorder au commerçant une prorogation du délai visé au paragraphe 29(1) ou (2) si les conditions suivantes sont remplies :
+- **a)** le commerçant fait parvenir au bureau de Mesures Canada le plus près une demande écrite comportant les renseignements suivants :
+	- **(i)** ses nom et adresse,
+	- **(ii)** l’adresse du lieu où se trouve l’instrument, si elle est différente de celle visée au sous-alinéa (i),
+	- **(iii)** la marque, le modèle et le numéro de série de l’instrument,
+	- **(iv)** l’étendue de mesure du débit ou la charge maximale que l’instrument peut mesurer,
+	- **(v)** la date du dernier examen réglementaire de l’instrument,
+	- **(vi)** la description suffisamment détaillée des fins auxquelles l’instrument est utilisé pour qu’il soit possible de déterminer la catégorie de commerce visée,
+	- **(vii)** la raison pour laquelle une prorogation est demandée,
+	- **(viii)** les efforts faits pour respecter le délai prévu,
+	- **(ix)** la durée de la prorogation demandée, laquelle ne peut excéder un an;
+- **b)** le commerçant établit que des circonstances indépendantes de sa volonté rendent impossible l’examen de l’instrument dans le délai prévu;
+- **c)** le commerçant n’a bénéficié d’aucune autre prorogation du délai prévu.
+> DORS/2014-111, art. 19.
+
+
+
+
+
+### Marquage des instruments
+> [DORS/93-234, art. 2(F); DORS/2014-111, art. 19]
+
+
+
+**30** 
+
+- **(1)** L’inspecteur qui, pour l’application des alinéas 8b) ou 26(1)c) de la Loi, examine un instrument et constate qu’il répond aux exigences de la Loi et du présent règlement, appose sur l’instrument ou le contenant dans lequel l’instrument est rangé lorsqu’il ne sert pas une marque d’examen conformément aux paragraphes (2), (3) et (4).
+
+- **(2)** L’instrument visé au paragraphe (1) doit être marqué au moyen d’un poinçon d’acier ou, si ce n’est pas possible, d’une étiquette autocollante.
+
+- **(3)** La marque d’examen doit être apposée :
+	- **a)** dans le cas d’un appareil de pesage ou de mesure sur lequel une plaque est fixée en permanence, sur l’espace en blanc visé au paragraphe 18(2) ou, si ce n’est pas possible, à proximité de la plaque;
+	- **b)** dans le cas d’un appareil de pesage ou de mesure sur lequel aucune plaque n’est fixée en permanence, sur une partie de l’appareil où elle sera facilement lisible pour une personne qui utilise l’appareil dans des conditions normales;
+	- **c)** dans le cas d’un poids à bouchon de plomb, sur le bouchon de plomb;
 	- **d)** dans le cas d’un poids sans bouchon de plomb, sur une partie appropriée du poids.
 
-- **(4)** Nonobstant le paragraphe (3), lorsqu’un instrument est si petit qu’il n’est pas possible de le marquer conformément audit paragraphe, la marque de vérification doit être placée sur le contenant où l’instrument est gardé lorsqu’il ne sert pas.
-> DORS/93-234, art. 2(F).
+- **(4)** Malgré le paragraphe (3), si l’instrument est trop petit pour être marqué de cette façon, la marque d’examen doit être apposée sur le contenant dans lequel il est rangé lorsqu’il ne sert pas.
+> DORS/2014-111, art. 19.
 
 
 
 
+**30.1** L’inspecteur qui appose la marque d’examen visée à l’article 30 sur un appareil de pesage ou de mesure y appose également une étiquette d’examen.
+> DORS/2014-111, art. 19.
 
-### Vérifications faites en vertu du paragraphe 15(1) de la Loi
-> [DORS/93-234, art. 2(F)]
-
-
-
-**30** [Abrogé, DORS/94-650, art. 1]
-
-
-
-
-### Marquage des instruments après les vérifications qui ne sont pas des vérifications faites en vertu de l’article 28
-> [DORS/93-234, art. 2(F)]
 
 
 
 **31** 
 
-- **(1)** Lorsqu’un instrument est vérifié en vertu de l’article 15, du paragraphe 17(1) ou de l’article 18 de la Loi et que l’inspecteur constate que l’instrument répond aux exigences de la Loi et du présent règlement, ce dernier doit faire une marque de vérification de la façon suivante :
-	- **a)** s’il s’agit d’un appareil de pesage ou de mesure, la marque de vérification doit figurer sur une étiquette gommée qui doit être apposée sur l’appareil; et
-	- **b)** s’il s’agit d’un poids muni d’un bouchon de plomb, la marque de la dernière vérification doit être enlevée du bouchon de plomb et la marque de vérification doit être faite sur le bouchon de plomb à l’aide d’un poinçon d’acier.
+- **(1)** L’inspecteur qui, en vertu de l’article 15 de la Loi, examine un appareil de pesage ou de mesure mentionné à la colonne I de la partie I de l’annexe I utilisé ou destiné à être utilisé dans la catégorie de commerce visée à la colonne II, ou qui, en vertu de l’article 15.1 de la Loi, examine un appareil de pesage ou de mesure utilisé ou destiné à être utilisé dans le commerce, et constate qu’il répond aux exigences de la Loi et du présent règlement, le marque en y apposant une étiquette d’examen.
 
-- **(2)** Nonobstant le paragraphe (1),
-	- **a)** s’il s’agit d’un poids non muni d’un bouchon de plomb, aucune nouvelle marque de vérification ne doit être faite après une vérification effectuée en vertu de l’article 15 ou du paragraphe 17(1) de la Loi; et
-	- **b)** s’il s’agit d’un poids si petit qu’il n’est pas possible de le marquer conformément au paragraphe (1), la marque de vérification doit être faite sur le contenant dans lequel il est gardé lorsqu’il ne sert pas.
-> DORS/93-234, art. 2(F).
+- **(2)** L’inspecteur qui, en vertu de l’alinéa 17(1)b) ou du paragraphe 21(2) de la Loi, examine un appareil de pesage ou de mesure utilisé ou destiné à être utilisé dans le commerce et constate qu’il répond aux exigences de la Loi et du présent règlement, le marque en y apposant une étiquette autocollante sur laquelle figure la marque d’examen.
 
-
-
-
-
-### Apposition de sceaux sur les instruments en vertu du paragraphe 19(2) de la Loi
-
-
-**32** Sauf pour les appareils de pesage visés par les [Normes applicables aux appareils de pesage à fonctionnement non automatique (1998)](/fr/Règlements/Textes%20réglementaires/98/81.md), lorsqu’un compteur volumétrique de liquide, un réservoir-mesure ou un instrument électronique est marqué conformément aux exigences prévues aux articles 29 ou 31, l’inspecteur doit apposer un sceau de type autocollant, à blocage automatique ou de plomb et fil sur une ou plusieurs parties de l’instrument de façon à ce qu’il soit impossible de régler, modifier ou réparer l’instrument sans briser ou enlever le sceau.
-> DORS/98-115, art. 4; DORS/2005-130, art. 4.
+- **(3)** L’inspecteur qui, en vertu de l’article 15 de la Loi, examine un poids muni d’un bouchon de plomb, mentionné à la colonne I de la partie I de l’annexe I utilisé ou destiné à être utilisé dans la catégorie de commerce visée à la colonne II, ou qui, en vertu de l’article 15.1, de l’alinéa 17(1)b) ou du paragraphe 21(2) de la Loi, examine un poids muni d’un bouchon de plomb utilisé ou destiné à être utilisé dans le commerce, et constate qu’il répond aux exigences de la Loi et du présent règlement appose, selon le cas :
+	- **a)** une marque d’examen sur le bouchon à l’aide d’un poinçon d’acier;
+	- **b)** si le poids est trop petit pour être marqué de cette façon, une marque d’examen sur le contenant dans lequel il est rangé lorsqu’il ne sert pas.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 19.
 
 
 
 
 
-### Accès et assistance pour la vérification, les essais et le scellage des instruments
+### Apposition de sceaux
+
+
+**32** Pour l’application de l’alinéa 19(2)a) de la Loi, le sceau apposé par l’inspecteur qui marque, conformément aux articles 30 ou 31, un compteur volumétrique de liquide, un réservoir jaugeur ou un instrument électronique, autre qu’un appareil de pesage visé par les [Normes applicables aux appareils de pesage à fonctionnement non automatique (1998)](/fr/Règlements/Textes%20réglementaires/98/81.md), est de type autocollant, à blocage automatique ou de plomb et fil.
+> DORS/98-115, art. 4; DORS/2005-130, art. 4; DORS/2014-111, art. 19 et 48(F).
+
+
+
+
+
+### Accès et assistance pour l’examen et le scellage des instruments
+> [DORS/2014-111, art. 20]
+
 
 
 **33** 
 
-- **(1)** Sous réserve du paragraphe (2), le propriétaire ou le détenteur doit s’assurer que l’instrument soit situé et que des moyens d’accès normaux à l’instrument soient prévus de façon à permettre à l’inspecteur :
-	- **a)** de vérifier et de mettre à l’essai l’instrument, notamment d’examiner visuellement les éléments particuliers de l’instrument;
+- **(1)** Sous réserve du paragraphe (2), le propriétaire de l’instrument ou la personne qui l’a en sa possession doit s’assurer que l’instrument soit situé et que des moyens d’accès normaux à l’instrument soient prévus de façon à permettre à l’inspecteur :
+	- **a)** d’examiner l’instrument, notamment d’effectuer un examen visuel complet de celui-ci et de ses éléments;
 	- **b)** de vérifier les sceaux et de sceller l’instrument;
-	- **c)** de transporter et de manoeuvrer les étalons locaux et tout autre matériel de vérification applicables, par des moyens normaux et en la quantité et selon la dimension nécessaires pour l’essai.
+	- **c)** de transporter et de manoeuvrer par des moyens normaux les étalons locaux et tout autre matériel nécessaire à l’examen.
 
-- **(2)** Le paragraphe (1) ne s’applique pas au propriétaire ou au détenteur de l’instrument qui s’engage :
-	- **a)** soit à fournir et disposer les installations, le produit, les étalons calibrés selon un étalon local correspondant, et tout le matériel nécessaires pour vérifier, examiner, mettre à l’essai et sceller l’instrument, ainsi qu’à fournir la main-d’oeuvre nécessaire pour ce faire;
-	- **b)** soit, à la demande de l’inspecteur, à transporter l’instrument à un endroit convenable et à fournir le matériel, les matières et les services nécessaires pour vérifier, examiner, mettre à l’essai et sceller l’instrument.
+- **(2)** Le paragraphe (1) ne s’applique pas si le propriétaire de l’instrument ou la personne qui l’a en sa possession s’engage :
+	- **a)** soit à mettre les installations nécessaires à la disposition de l’inspecteur et à lui fournir la main-d’oeuvre, les produits, les étalons calibrés selon un étalon local correspondant et tout autre matériel nécessaire pour examiner et sceller l’instrument;
+	- **b)** soit, à la demande de l’inspecteur, à transporter l’instrument à un endroit convenable et à fournir le matériel, les matières et les services nécessaires pour l’examiner et le sceller.
 
 - **(3)** [Abrogé, DORS/2005-130, art. 5]
-> DORS/98-115, art. 4; DORS/2005-130, art. 5.
+> DORS/98-115, art. 4; DORS/2005-130, art. 5; DORS/2014-111, art. 21 et 49(F).
 
 
 
@@ -638,7 +738,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 	- **f)** l’adresse et la description du lieu où l’instrument est installé.
 
 - **(3)** Lorsqu’un instrument décrit au paragraphe (2) a été enlevé de l’endroit où il était installé et qu’il a été réinstallé, le commerçant à qui appartient l’instrument ou qui l’a en sa possession pour utilisation dans le commerce doit, dans les cinq jours qui suivent la date de réinstallation, déclarer par écrit au bureau de Mesures Canada le plus proche les renseignements requis par le paragraphe (2) ainsi que l’adresse et la description du lieu où l’instrument était installé auparavant.
-> DORS/2005-297, art. 40, 41(F) et 43.
+> DORS/2005-297, art. 40, 41(F) et 43; DORS/2014-111, art. 22(A).
 
 
 
@@ -651,10 +751,10 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 	- **c)** l’étendue des mesures de débit ou de capacité de l’appareil;
 	- **d)** la marque, le numéro de la flotte à laquelle appartient le véhicule sur lequel l’appareil est installé ainsi que le numéro d’ordre du véhicule;
 	- **e)** l’adresse, si elle est connue, à laquelle se trouvait l’appareil avant l’acquisition; et
-	- **f)** la nouvelle adresse à laquelle le véhicule peut être vérifié.
+	- **f)** la nouvelle adresse à laquelle l’appareil peut être examiné.
 
-- **(2)** Lorsqu’un commerçant auquel appartient ou qui a en sa possession, pour utilisation dans le commerce, un appareil décrit au paragraphe (1) change l’adresse à laquelle on peut trouver l’appareil pour vérification, il doit, dans les cinq jours qui suivent la date du changement d’adresse, déclarer par écrit au bureau de Mesures Canada le plus proche les renseignements requis par les alinéas (1)a), b), c), d) et f) ainsi que l’adresse à laquelle l’appareil pouvait être vérifié avant le changement d’adresse.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 40.
+- **(2)** Lorsqu’un commerçant à qui appartient ou qui a en sa possession, pour utilisation dans le commerce, un appareil de mesure visé au paragraphe (1) change l’adresse à laquelle l’appareil peut être examiné, il doit, dans les cinq jours qui suivent la date du changement d’adresse, déclarer par écrit au bureau de Mesures Canada le plus proche les renseignements visés aux alinéas (1)a), b), c), d) et f) ainsi que l’adresse à laquelle l’appareil pouvait être examiné avant le changement d’adresse.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 40; DORS/2014-111, art. 23.
 
 
 
@@ -670,16 +770,16 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 - **(2)** L’avis par écrit dont il est question au sous-alinéa 29a)(ii) de la Loi doit être envoyé au bureau de Mesures Canada le plus proche dans les cinq jours qui suivent la date de réparation de l’instrument et doit donner ou indiquer ce qui suit :
 	- **a)** le nom et l’adresse de la personne qui a effectué la réparation;
 	- **b)** le nom et l’adresse de la personne à laquelle l’instrument réparé sera envoyé;
-	- **c)** l’adresse du lieu où l’instrument se trouvera pour vérification, si la personne qui a effectué la réparation la connaît et si cette adresse est différente de celle dont il est question à l’alinéa b);
+	- **c)** l’adresse du lieu où l’instrument se trouvera pour examen, si la personne qui a effectué la réparation la connaît et si cette adresse est différente de celle dont il est question à l’alinéa b);
 	- **d)** la date d’achèvement du travail de réparation;
 	- **e)** la marque, le modèle et le numéro de série de l’instrument;
 	- **f)** l’étendue des mesures de débit ou de capacité de l’instrument;
 	- **g)** une description de la réparation effectuée;
-	- **h)** une description des vérifications effectuées après la réparation pour déterminer l’exactitude de l’instrument, les résultats de ces vérifications et le matériel utilisé pour la vérification;
+	- **h)** une description des essais effectués après la réparation pour déterminer l’exactitude de l’instrument, les résultats de ces essais et le matériel utilisé pour l’essai;
 	- **i)** [Abrogé, DORS/81-623, art. 1]
 	- **j)** si, oui ou non, la personne ayant effectué la réparation a enlevé ou brisé une marque ou en a constaté l’enlèvement ou le bris, une étiquette ou un sceau placés ou apposés sur l’instrument par un inspecteur ou une personne qui avait antérieurement réglé, modifié ou réparé l’instrument et, si c’est possible, une description de la marque, de l’étiquette ou du sceau; et
 	- **k)** lorsque la personne ayant effectué la réparation a enlevé ou brisé un sceau ou en a constaté l’enlèvement ou le bris, si, oui ou non, elle l’a remplacé par un autre sceau, et dans l’affirmative, une description de ce sceau ainsi que le numéro du sceau s’il s’agit d’un sceau numéroté.
-> DORS/81-623, art. 1; DORS/93-234, art. 2(F); DORS/2005-297, art. 40, 41(F) et 43.
+> DORS/81-623, art. 1; DORS/93-234, art. 2(F); DORS/2005-297, art. 40, 41(F) et 43; DORS/2014-111, art. 46 et 47(F).
 
 
 
@@ -698,13 +798,13 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 	- **e)** la marque, le modèle et le numéro de série de l’instrument;
 	- **f)** l’étendue des mesures de débit ou de capacité de l’instrument;
 	- **g)** une description de la modification, du réglage ou de la réparation effectués;
-	- **h)** une description des vérifications qui ont été faites après la modification, le réglage ou la réparation pour déterminer l’exactitude de l’instrument, les résultats de ces vérifications ainsi que le matériel utilisé pour la vérification;
+	- **h)** une description des essais qui ont été faits après la modification, le réglage ou la réparation pour déterminer l’exactitude de l’instrument, les résultats de ces essais ainsi que le matériel utilisé pour l’essai;
 	- **i)** [Abrogé, DORS/81-623, art. 2]
 	- **j)** si, oui ou non, la personne ayant effectué la modification, le réglage ou la réparation a enlevé ou brisé une marque, une étiquette ou un sceau placés ou apposés sur l’instrument par un inspecteur ou une personne qui a antérieurement modifié, réglé ou réparé l’instrument, ou en a constaté l’enlèvement ou le bris, si c’est possible, une description de la marque, de l’étiquette ou du sceau; et
 	- **k)** lorsque la personne ayant effectué la modification, le réglage ou la réparation a enlevé ou brisé un sceau ou en a constaté l’enlèvement ou le bris, si, oui ou non, elle l’a remplacé par un autre sceau, et dans l’affirmative, une description de ce sceau ainsi que le numéro du sceau s’il s’agit d’un sceau numéroté.
 
 - **(2)** La déclaration prévue au paragraphe (1) doit être faite par écrit, toutefois, un inspecteur peut autoriser une déclaration verbale et, dans ce cas, elle doit être faite verbalement.
-> DORS/81-623, art. 2; DORS/2005-297, art. 40 et 41(F).
+> DORS/81-623, art. 2; DORS/2005-297, art. 40 et 41(F); DORS/2014-111, art. 47(F).
 
 
 
@@ -809,8 +909,8 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 
-**47.1** La déclaration de quantité de toute marchandise visée à la colonne I de l'annexe I comprend au moins une déclaration par paramètre prévue à la colonne II.
-> DORS/2005-297, art. 8.
+**47.1** La déclaration de quantité de toute marchandise visée à la colonne I de l’annexe II.1 comporte au moins une déclaration par paramètre prévue à la colonne II.
+> DORS/2005-297, art. 8; DORS/2014-111, art. 24.
 
 
 
@@ -850,34 +950,34 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 
-### Vérification
+### Examen
 > [DORS/93-234, art. 2(F)]
 
 
 
 **50** 
 
-- **(1)** Dans le cas de la vérification d’une marchandise à l’état liquide mesurée individuellement et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à la température à laquelle la marchandise se mesure habituellement pour la vente.
+- **(1)** Dans le cas de l’examen d’une marchandise à l’état liquide mesurée individuellement et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à la température à laquelle la marchandise se mesure habituellement pour la vente.
 
-- **(2)** Dans le cas de la vérification d’une marchandise à l’état liquide mesurée individuellement et dont la quantité est déclarée en unités de volume à 15 °C, la quantité de la marchandise est déterminée à une température de 15 °C.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 10.
+- **(2)** Dans le cas de l’examen d’une marchandise à l’état liquide mesurée individuellement et dont la quantité est déclarée en unités de volume à 15 °C, la quantité de la marchandise est déterminée à une température de 15 °C.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 10; DORS/2014-111, art. 46.
 
 
 
 
 **51** 
 
-- **(1)** Dans le cas de la vérification d’une marchandise à quantité standard qui est à l’état liquide ou presque liquide à une température de 20 °C et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à une température de 20 °C.
+- **(1)** Dans le cas de l’examen d’une marchandise à quantité standard qui est à l’état liquide ou presque liquide à une température de 20 °C et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à une température de 20 °C.
 
-- **(2)** Dans le cas de la vérification d’une marchandise à quantité standard qui est à l’état congelé et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à la température à laquelle la marchandise est habituellement mise en vente.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 10.
-
-
+- **(2)** Dans le cas de l’examen d’une marchandise à quantité standard qui est à l’état congelé et dont la quantité est déclarée en unités de volume, la quantité de la marchandise est déterminée à la température à laquelle la marchandise est habituellement mise en vente.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 10; DORS/2014-111, art. 46.
 
 
 
-### Vérification par échantillonnage
-> [DORS/93-234, art. 2(F)]
+
+
+### Examen par échantillonnage
+> [DORS/93-234, art. 2(F); DORS/2014-111, art. 46]
 
 
 
@@ -893,7 +993,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 	- **a)** que la quantité moyenne pondérée des unités de l’échantillon, calculée d’après la formule énoncée à la partie II de l’annexe III, est inférieure à la quantité indiquée;
 	- **b)** que le nombre d’unités de l’échantillon dont le contenu est inférieur à la quantité indiquée au delà de la marge de tolérance applicable prévue à l’annexe II est égal ou supérieur au nombre spécifié à la colonne II de la partie IV de l’annexe III, selon l’échantillon visé à la colonne I;
 	- **c)** que le contenu de deux unités ou plus de l’échantillon est inférieur à la quantité indiquée au delà de deux fois la marge de tolérance applicable prévue à l’annexe II.
-> DORS/89-570, art. 3 et 6(F).
+> DORS/89-570, art. 3 et 6(F); DORS/2014-111, art. 25(A).
 
 
 
@@ -950,12 +1050,12 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 - **(1)** Sous réserve du paragraphe (2), la quantité indiquée à l’un des articles de la partie applicable de l’annexe IV, dans la colonne II, est la marge de tolérance prescrite aux fins du paragraphe 13(1) de la Loi pour un étalon local qui a une valeur nominale indiquée à cet article, dans la colonne I.
 
-- **(2)** Lorsqu’un étalon local est vérifié pour établir s’il mesure dans les limites de la marge de tolérance indiquée pour cet étalon dans une partie de l’annexe IV et que sa valeur nominale n’est indiquée à l’un des articles de cette partie, dans la colonne I, la marge de tolérance pour cet étalon local est la quantité obtenue par interpolation linéaire entre les marges de tolérance indiquées dans la colonne II de cette partie vis-à-vis des valeurs nominales spécifiques indiquées dans la colonne I de cette partie et se rapprochant le plus de la valeur nominale de l’étalon local à vérifier.
+- **(2)** Si la valeur nominale d’un étalon local n’est pas indiquée à l’un des articles de la colonne I de la partie applicable de l’annexe IV, la marge de tolérance pour cet étalon est la quantité obtenue par interpolation linéaire entre les marges de tolérance indiquées à la colonne II de cette partie en regard des valeurs nominales indiquées à la colonne I qui se rapprochent le plus de la valeur nominale de cet étalon.
 
 - **(3)** Les marges de tolérance établies aux parties XI et XII de l’annexe IV pour la valeur nominale des étalons cylindriques gradués s’appliquent aussi aux autres valeurs qui sont indiquées sur ces étalons par des graduations intermédiaires.
 
-- **(4)** Pour l'application du paragraphe 13(1) de la Loi, la marge de tolérance applicable à un étalon local visé au paragraphe 56(2) est, pour tout point de la plage de mesure désignée par le propriétaire de cet étalon pour son usage, de deux pour cent de la valeur qu'indique l'étalon de référence à ce point.
-> DORS/86-132, art. 1; DORS/89-570, art. 6(F); DORS/2005-297, art. 12.
+- **(4)** Pour l’application du paragraphe 13(1) de la Loi, la marge de tolérance applicable à un étalon local visé au paragraphe 56(2) est, pour tout point de la plage de mesure désignée par le propriétaire de cet étalon pour son usage, de deux pour cent de la valeur qu’indique l’étalon de référence à ce point.
+> DORS/86-132, art. 1; DORS/89-570, art. 6(F); DORS/2005-297, art. 12; DORS/2014-111, art. 26.
 
 
 
@@ -976,22 +1076,23 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 #### TABLEAU
 <table>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
+<th>Article</th>
 <th>Étalon local</th>
 <th>Période</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Poids, sauf les poids visés aux articles 2 à 4, utilisé par un inspecteur pour vérifier des instruments à utiliser dans le commerce </td>
+<td>Poids, sauf les poids visés aux articles 2 à 4, utilisé par un inspecteur pour l’examen des instruments à utiliser dans le commerce </td>
 <td>1 an</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Poids conservé à un endroit et utilisé exclusivement pour vérifier les systèmes de pesage totalisateurs en discontinu situés à cet endroit </td>
+<td>Poids conservé à un endroit et utilisé exclusivement pour l’examen des systèmes de pesage totalisateurs en discontinu situés à cet endroit </td>
 <td>5 ans</td>
 </tr>
 <tr>
@@ -1031,21 +1132,19 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </tr>
 <tr>
 <td>10</td>
-<td>Mesure linéaire matérialisée (statique) </td>
+<td>Mesure matérialisée linéaire </td>
 <td>10 ans</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Étalon de température :</td>
+<td>Étalon de température :</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>a) en verre, de type capillaire </td>
 <td>10 ans</td>
 </tr>
 <tr>
-<td></td>
 <td>b) de tout autre type </td>
 <td>2 ans</td>
 </tr>
@@ -1086,11 +1185,12 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 #### TABLEAU
 <table>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
+<th>Article</th>
 <th>Étalon local</th>
 <th>Période</th>
 </tr>
@@ -1106,7 +1206,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </tr>
 </table>
 
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 13.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 13; DORS/2014-111, art. 27 et 46.
 
 
 
@@ -1136,22 +1236,28 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 
+**58.1** Les droits et frais visés par la présente partie ne s’appliquent pas aux services fournis par l’inspecteur qui n’est pas employé dans l’administration publique fédérale.
+> DORS/2014-111, art. 28.
+
+
+
+
 **59** 
 
 - **(1)** Les droits et les frais afférents aux services suivants fournis par l’inspecteur sont ceux établis à la partie I de l’annexe V :
-	- **a)** la vérification d’un instrument faite par suite d’une demande visée au paragraphe 15(2) de la Loi;
-	- **b)** la vérification initiale d’un instrument faite en vertu de l’alinéa 8b) de la Loi;
-	- **c)** le calibrage d’un étalon, autre qu’un étalon qui sert ou doit servir à l’inspecteur pour vérifier un instrument, fait à la demande du propriétaire ou du détenteur de l’étalon;
-	- **d)** la vérification de marchandises faite à la demande du propriétaire ou du détenteur de celles-ci;
-	- **e)** l’examen d’un instrument ou tout autre service fourni relativement à la demande d’approbation d’un instrument ou d’une catégorie, d’un type ou d’un modèle d’instrument visé à l’article 14;
-	- **f)** la modification ou le réglage d’un instrument avec l’accord du propriétaire ou du détenteur de celui-ci.
+	- **a)** l’examen d’un instrument fait par suite d’une demande visée à l’article 15.1 ou au paragraphe 21(2) de la Loi;
+	- **b)** l’examen d’un instrument fait pour l’application de l’alinéa 8b) de la Loi;
+	- **c)** le calibrage d’un étalon, autre qu’un étalon qui sert ou doit servir à l’inspecteur pour examiner un instrument, fait à la demande du propriétaire de l’étalon ou de la personne qui l’a en sa possession;
+	- **d)** l’examen de marchandises fait à la demande du propriétaire des marchandises ou de la personne qui les a en sa possession;
+	- **e)** tout service fourni relativement à la demande d’approbation d’un instrument ou d’une catégorie, d’un type ou d’un modèle d’instrument visé à l’article 14;
+	- **f)** la modification ou le réglage d’un instrument avec l’accord du propriétaire ou de celui-ci ou de la personne qui l’a en sa possession.
 
 - **(2)** Lorsque l’inspecteur, aux fins de la prestation d’un service visé au paragraphe (1), fournit ou transporte une pièce d’équipement ou un véhicule mentionnés à la colonne I de l’article 1 de la partie II de l’annexe V, les frais applicables indiqués à la colonne II sont payables en sus des droits et des frais établis à la partie I de cette annexe.
 
 - **(3)** Le montant des frais de logement, de repas, de transport et des faux frais de l’inspecteur visés à l’annexe V est établi selon les taux et les indemnités prévus dans la « Directive sur les voyages d’affaires » contenue dans le Manuel du Conseil du Trésor, qui sont en vigueur au moment de la prestation du service visé au paragraphe (1).
 
 - **(4)** Lorsque les droits et les frais prévus à l’annexe V sont calculés sur une base horaire, le temps de déplacement et la période d’attente sont comptés dans ce calcul.
-> DORS/79-747, art. 1; DORS/85-736, art. 2; DORS/87-582, art. 2; DORS/93-413, art. 1.
+> DORS/79-747, art. 1; DORS/85-736, art. 2; DORS/87-582, art. 2; DORS/93-413, art. 1; DORS/2014-111, art. 29 et 49(F).
 
 
 
@@ -1168,8 +1274,8 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 
-**63** Lorsqu’un inspecteur a besoin, pour faire une vérification, de matériel, de matières ou de marchandises qui ne sont pas habituellement fournis par un bureau de Mesures Canada ni fournis par le fournisseur ou le commerçant pour qui la vérification doit être faite, le prix d’achat ou de location de l’équipement, des matières ou de la marchandise nécessaires et les frais de transport, aller et retour, à l’endroit où la vérification doit être faite, s’ajoute aux autres droits et frais exigibles pour la vérification.
-> DORS/93-234, art. 2(F); DORS/2005-297, art. 40.
+**63** Lorsque l’inspecteur a besoin, pour effectuer un examen, de matériel, de matières ou de marchandises qui ne sont pas habituellement fournis par un bureau de Mesures Canada, et qui n’ont pas été fournis non plus par le fournisseur ou le commerçant pour qui l’examen est fait, le prix d’achat ou de location de l’équipement, des matières ou de la marchandise nécessaires ainsi que les frais de transport, aller et retour, à l’endroit de l’examen, s’ajoutent aux autres droits et frais exigibles pour l’examen.
+> DORS/93-234, art. 2(F); DORS/2005-297, art. 40; DORS/2014-111, art. 30.
 
 
 
@@ -1180,10 +1286,10 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 **64** 
 
-- **(1)** Sous réserve de l’article 21 de la Loi, le droit et les frais prévus par le présent règlement pour la vérification, la modification ou le réglage d’un instrument doivent être payés par le propriétaire de l’instrument ou par la personne qui l’a en sa possession.
+- **(1)** Sous réserve de l’article 21 de la Loi, le droit et les frais prévus par le présent règlement pour l’examen, la modification ou le réglage d’un instrument doivent être payés par le propriétaire de l’instrument ou par la personne qui l’a en sa possession.
 
-- **(2)** Lorsqu’une marchandise est vérifiée en vertu de la Loi, le droit et les frais prévus par le présent règlement pour la vérification de cette marchandise doivent être payés par la personne qui demande la vérification.
-> DORS/93-234, art. 2(F).
+- **(2)** Lorsqu’une marchandise est examinée en vertu de la Loi, le droit et les frais prévus par le présent règlement pour l’examen de cette marchandise doivent être payés par la personne qui demande l’examen.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 46.
 
 
 
@@ -1244,7 +1350,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </tr>
 <tr>
 <td>1</td>
-<td>Réservoir d’une capacité supérieure à 450 L ou à 100 gallons </td>
+<td>Réservoir jaugeur d’une capacité supérieure à 450 L ou à 100 gallons </td>
 <td>5 ans</td>
 </tr>
 <tr>
@@ -1260,8 +1366,8 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </table>
 
 
-- **(2)** Pour les essais de fonctionnement d'un instrument, lorsque la quantité de charge connue ne figure pas dans le tableau applicable de la présente partie ou dans les normes établies en vertu du paragraphe 13(1), la marge de tolérance à l'acceptation et la marge de tolérance en service se calculent par interpolation linéaire, en fonction des marges de tolérance inférieures et supérieures les plus proches de la quantité de charge connue.
-> DORS/80-290, art. 2; DORS/89-570, art. 6(F); DORS/90-118, art. 17; DORS/2005-297, art. 14.
+- **(2)** Pour les essais de fonctionnement d’un instrument, lorsque la quantité de charge connue ne figure pas dans le tableau applicable de la présente partie ou dans les normes établies en vertu du paragraphe 13(1), la marge de tolérance à l’acceptation et la marge de tolérance en service se calculent par interpolation linéaire, en fonction des marges de tolérance inférieures et supérieures les plus proches de la quantité de charge connue.
+> DORS/80-290, art. 2; DORS/89-570, art. 6(F); DORS/90-118, art. 17; DORS/2005-297, art. 14; DORS/2014-111, art. 45.
 
 
 
@@ -1286,11 +1392,8 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 
-**70** Lorsque l’utilisation d’un instrument est soumise à certaines réserves quant à la manière de s’en servir ou à l’utilisation qu’on peut en faire
-- **a)** par le certificat de vérification délivré lors de la plus récente vérification faite conformément à la Loi, ou
-- **b)** par l’avis d’approbation délivré conformément à l’article 3 de la Loi ou par un avis d’approbation délivré aux termes d’un texte législatif antérieur,
-l’instrument doit porter pour toute la durée de son usage dans le commerce une note ou un avis, affiché bien en vue et facilement lisible, faisant état de ces réserves.
-> DORS/93-234, art. 2(F).
+**70** Si l’utilisation d’un instrument est soumise, par le certificat délivré lors du plus récent examen effectué conformément à la Loi ou par l’avis d’approbation délivré en vertu de l’article 3 de la Loi ou aux termes d’un texte législatif antérieur, à certaines réserves quant à la manière de s’en servir ou à l’utilisation qu’on peut en faire, l’instrument doit porter pour toute la durée de son usage dans le commerce une note ou un avis, affiché bien en vue et facilement lisible, faisant état de ces réserves.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 31.
 
 
 
@@ -1336,8 +1439,8 @@ l’instrument doit porter pour toute la durée de son usage dans le commerce un
 
 
 
-**78** Lors de la vérification conformément à l’alinéa 8b) de la Loi ou à l’article 28 du présent règlement, il ne doit pas y avoir plus de deux trous de réglage par poids, et à chaque vérification, chacun des trous de réglage doit contenir suffisamment de plomb pour l’apposition du sceau de vérification.
-> DORS/93-234, art. 2(F).
+**78** Lors d’un examen effectué pour l’application des alinéas 8b) ou 26(1)c) de la Loi, il ne doit pas y avoir plus de deux trous de réglage par poids, et à chaque examen, chacun des trous de réglage doit contenir suffisamment de plomb pour qu’il soit possible d’y apposer la marque d’examen.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 32.
 
 
 
@@ -2120,8 +2223,8 @@ l’instrument doit porter pour toute la durée de son usage dans le commerce un
 
 
 
-**90** Lorsqu’il n’est pas utilisé, un poids qui, en raison de sa petite taille ne porte pas lui-même la marque de vérification, doit être rangé dans le récipient qui porte ledit sceau.
-> DORS/93-234, art. 2(F).
+**90** Lorsqu’il n’est pas utilisé, le poids qui, en raison de sa petite taille, ne porte pas la marque d’examen doit être rangé dans le contenant qui porte cette marque.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 33.
 
 
 
@@ -2622,309 +2725,58 @@ l’instrument doit porter pour toute la durée de son usage dans le commerce un
 
 
 **SECTION IV** 
-### Mesures linéaires matérialisées (statiques)
+### [Abrogée, DORS/2014-111, art. 34]
+
+
+**107** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-#### Interprétation
-
-
-**107** Dans la présente section, ***mesure linéaire*** s’entend de toutes les mesures linéaires matérialisées (statiques) en usage dans le commerce.
+**108** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-
-#### Conception, composition et construction
-
-
-**108** Les mesures linéaires rigides doivent être lisses et droites et faites d’acier, de laiton, de bois dur ou de toute autre matière qui garde sa forme et demeure raisonnablement permanente dans des conditions normales d’usage.
+**109** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**109** Les extrémités des mesures linéaires en bois ou toute autre matière susceptible de s’user doivent être protégées par une matière non moins durable que le laiton et qui sera fixée de manière permanente aux extrémités.
+**110** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**110** Les mesures linéaires à ruban doivent être faites d’acier, de ruban tissé ou de toute autre matière durable dont les dimensions sont stables.
+**111** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**111** Les unités de mesure d’une mesure linéaire doivent être indiquées de manière à empêcher toute confusion entre unités canadiennes et unités métriques.
+**112** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**112** Dans toute série de graduations d’une mesure linéaire, les lignes représentant des intervalles égaux doivent être de taille et de caractères uniformes et séparées par des intervalles égaux.
+**113** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**113** Lorsque des chiffres, mots, symboles, ou combinaisons de ceux-ci, servent à indiquer les valeurs des sous-graduations, ils doivent être placés de façon à ne pas nuire à la lecture ou dérouter l’usager.
+**114** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**114** La largeur d’une ligne de graduation ne doit, en aucun cas, être plus large que le plus petit intervalle entre les graduations.
+**115** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-
-#### Fonctionnement
-> [DORS/2005-297, art. 42(F)]
+**116** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-**115** Lors d’un essai portant sur les marges de tolérance à l’acceptation  comparativement à un étalon linéaire local de longueur, une mesure linéaire dont la longueur entre les extrémités, ou entre une extrémité et une graduation ou entre deux graduations est indiquée dans la colonne I d’un article d’un tableau des articles 118 et 119, est reconnue conforme aux marges de tolérance à l’acceptation comparativement audit étalon si la longueur réelle déterminée par l’essai
-- **a)** n’est pas inférieure à la longueur indiquée, et
-- **b)** ni supérieure à la longueur indiquée
-d’une quantité dépassant celle qui est indiquée dans la colonne II de cet article.
-> DORS/89-570, art. 6(F); DORS/2012-28, art. 13(F).
+**117** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-
-**116** Lors d’un essai portant sur les marges de tolérance en service comparativement à un étalon linéaire local de longueur, une mesure linéaire dont la longueur entre les extrémités ou entre une extrémité et une graduation ou entre deux graduations est indiquée dans la colonne I d’un article d’un tableau des articles 118 et 119, est reconnue conforme aux marges de tolérance en service par rapport à la longueur indiquée si la longueur réelle déterminée par l’essai
-- **a)** n’est pas inférieure à la longueur indiquée, et
-- **b)** ni supérieure à la longueur indiquée
-d’une quantité dépassant celle établie dans la colonne III de cet article.
-> DORS/89-570, art. 6(F).
+**118** [Abrogé, DORS/2014-111, art. 34]
 
 
 
-
-**117** Lorsque l’essai dont il est question à l’article 115 ou 116 porte sur
-- **a)** une mesure linéaire à ruban autre qu’un ruban d’arpenteur, la mesure à ruban doit reposer sur une surface plane;
-- **b)** une mesure à ruban métallique conçue pour supporter une tension,
-	- **(i)** ne dépassant pas 10 mètres de long et dont les mesures sont en unités métriques, elle devra être soumise à une tension de 25 N,
-	- **(ii)** de plus de 10 mètres de long et dont les mesures sont en unités métriques, elle devra être soumise à une tension de 50 N,
-	- **(iii)** ne dépassant pas 25 pieds de long, et dont les mesures sont en unités canadiennes uniquement, elle devra être soumise à une tension de cinq livres, et
-	- **(iv)** de plus de 25 pieds de long, et dont les mesures sont en unités canadiennes uniquement, elle devra être soumise à une tension de 10 livres;
-- **c)** une mesure à ruban tissé dont les mesures sont en unités métriques, elle devra être soumise à une tension de 25 N;
-- **d)** une mesure à ruban tissé comportant uniquement des unités canadiennes de mesure, elle devra être soumise à une tension de cinq livres; et
-- **e)** une mesure à ruban métallique qui, une fois étendue devient semi-rigide, elle ne devra être soumise à aucune tension lors de l’essai.
-
-
-
-**118** 
-
-- **(1)** Sous réserve du paragraphe (2), les marges de tolérance établies dans le tableau ci-après s’appliquent à toutes les mesures à ruban métallique ou tissé avec des graduations et des marques en unités métriques de longueur :
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Marge de tolérance à l’acceptation</th>
-<th>Marge de tolérance en service</th>
-</tr>
-<tr>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Longueur indiquée</th>
-<th>Au-dessus ou au-dessous de la longueur indiquée</th>
-<th>Au-dessus ou au-dessous de la longueur indiquée</th>
-</tr>
-<tr>
-<td></td>
-<td>*Mètres*</td>
-<td>*Millimètres*</td>
-<td>*Millimètres*</td>
-</tr>
-<tr>
-<td>1</td>
-<td>0,2</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>0,5</td>
-<td>0,4</td>
-<td>0,4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1</td>
-<td>0,6</td>
-<td>0,6</td>
-</tr>
-<tr>
-<td>4</td>
-<td>1,5</td>
-<td>0,8</td>
-<td>0,8</td>
-</tr>
-<tr>
-<td>5</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>3</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>7</td>
-<td>2,5</td>
-<td>2,5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>10</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>10</td>
-<td>15</td>
-<td>3,5</td>
-<td>3,5</td>
-</tr>
-<tr>
-<td>11</td>
-<td>20</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>12</td>
-<td>30</td>
-<td>5,5</td>
-<td>5,5</td>
-</tr>
-<tr>
-<td>13</td>
-<td>50</td>
-<td>7,5</td>
-<td>7,5</td>
-</tr>
-<tr>
-<td>14</td>
-<td>70</td>
-<td>9</td>
-<td>9</td>
-</tr>
-<tr>
-<td>15</td>
-<td>100</td>
-<td>12</td>
-<td>12</td>
-</tr>
-</table>
-
-
-- **(2)** Les marges de tolérance qui s’appliquent aux mesures linéaires rigides comportant des graduations et des marques en unités métriques de longueur sont le double de celles établies dans le tableau du paragraphe (1).
-> DORS/89-570, art. 6(F).
-
-
-
-
-**119** 
-
-- **(1)** Les marges de tolérance établies dans le tableau ci-dessous s’appliquent à toutes les mesures à ruban métallique ou tissé, avec des graduations et des marques en unités canadiennes de longueur :
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Marge de tolérance à l’acceptation</th>
-<th>Marge de tolérance en service</th>
-</tr>
-<tr>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Longueur indiquée</th>
-<th>Au-dessus ou au-dessous de la longueur indiquée</th>
-<th>Au-dessus ou au-dessous de la longueur indiquée</th>
-</tr>
-<tr>
-<td></td>
-<td>*Pieds*</td>
-<td>*Pouces*</td>
-<td>*Pouces*</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2 ou moins</td>
-<td>1/64</td>
-<td>1/64</td>
-</tr>
-<tr>
-<td>2</td>
-<td>3 à 6</td>
-<td>1/32</td>
-<td>1/32</td>
-</tr>
-<tr>
-<td>3</td>
-<td>10</td>
-<td>3/64</td>
-<td>3/64</td>
-</tr>
-<tr>
-<td>4</td>
-<td>15</td>
-<td>1/16</td>
-<td>1/16</td>
-</tr>
-<tr>
-<td>5</td>
-<td>20</td>
-<td>3/32</td>
-<td>3/32</td>
-</tr>
-<tr>
-<td>6</td>
-<td>30</td>
-<td>3/32</td>
-<td>3/32</td>
-</tr>
-<tr>
-<td>7</td>
-<td>50</td>
-<td>1/8</td>
-<td>1/8</td>
-</tr>
-<tr>
-<td>8</td>
-<td>75</td>
-<td>3/16</td>
-<td>3/16</td>
-</tr>
-<tr>
-<td>9</td>
-<td>100</td>
-<td>3/16</td>
-<td>3/16</td>
-</tr>
-<tr>
-<td>10</td>
-<td>150</td>
-<td>¼</td>
-<td>¼</td>
-</tr>
-<tr>
-<td>11</td>
-<td>200</td>
-<td>5/16</td>
-<td>5/16</td>
-</tr>
-</table>
-
-
-- **(2)** Les marges de tolérance qui s’appliquent aux mesures linéaires rigides comportant des graduations et des marques en unités canadiennes de longueur sont le double de celles établies dans le tableau du paragraphe (1).
-> DORS/89-570, art. 6(F).
-
+**119** [Abrogé, DORS/2014-111, art. 34]
 
 
 
@@ -3247,8 +3099,8 @@ d’une quantité dépassant celle établie dans la colonne III de cet article.
 
 
 
-**163** Un appareil électronique doit être muni de moyens permettant de sceller les commandes de réglage du zéro brut et de l’ajustement de la portée afin de rendre facilement accessibles tous les autres composants ou dispositifs de réglage sans bris des sceaux; ces moyens doivent être facilement observables lors de l’inspection sans qu’il ne soit nécessaire de démonter des pièces à l’aide d’outils qui ne sont pas fournis avec l’appareil.
-> DORS/2012-28, art. 6.
+**163** Un appareil électronique doit être muni de moyens permettant de sceller les commandes de réglage du zéro brut et de l’ajustement de la portée afin de rendre facilement accessibles tous les autres composants ou dispositifs de réglage sans bris des sceaux; ces moyens doivent être facilement observables lors de l’examen sans qu’il ne soit nécessaire de démonter des pièces à l’aide d’outils qui ne sont pas fournis avec l’appareil.
+> DORS/2012-28, art. 6; DORS/2014-111, art. 46.
 
 
 
@@ -4963,8 +4815,8 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 
 
 
-**257** Un compteur qui comporte une imprimante de tickets doit être conçu de sorte qu’il soit possible de retirer un ticket coincé sans devoir briser les sceaux de vérification apposés sur le dispositif de réglage de l’enregistrement.
-> DORS/90-118, art. 33.
+**257** Un compteur qui comporte une imprimante de tickets doit être conçu de sorte qu’il soit possible de retirer un ticket coincé sans devoir briser les sceaux d’examen apposés sur le dispositif de réglage de l’enregistrement.
+> DORS/90-118, art. 33; DORS/2014-111, art. 46.
 
 
 
@@ -5761,23 +5613,25 @@ densité API = (141,5) ÷ (densité relative 60/60 °F) – 131,5.
 	- **b)** dans le cas d’un compteur installé pour recevoir le liquide, de façon que la tuyauterie en amont du point de transfert se vide à la fin de l’opération.
 
 - **(3)** Sous réserve de l’article 289 et sauf indication contraire dans toute norme additionnelle établie en application de l’article 27, un compteur doit être installé de façon à assurer le respect des exigences suivantes :
-	- **a)** la tuyauterie en aval du compteur, si celui-ci est installé pour livrer du liquide, ou la tuyauterie en amont du compteur, si celui-ci est installé pour recevoir du liquide, peut être vérifiée aisément;
+	- **a)** la tuyauterie en aval du compteur, si celui-ci est installé pour livrer du liquide, ou la tuyauterie en amont du compteur, si celui-ci est installé pour recevoir du liquide, peut être examinée aisément;
 	- **b)** il n’y a qu’une seule sortie de livraison, sauf dans les cas où le compteur est installé :
 		- **(i)** soit de façon que le détournement du liquide puisse être facilement décelé par l’acheteur ou son mandataire par des moyens automatiques tels des soupapes visibles ou des signaux lumineux accompagnés d’affiches explicatives qui indiquent quelles sorties sont en usage,
 		- **(ii)** soit pour avitailler les aéronefs ou en reprendre le carburant,
 		- **(iii)** soit pour servir exclusivement à remplir les réservoirs à propane installés sur un véhicule qui ont une capacité supérieure à 5 000 L.
-> DORS/90-118, art. 38.
+> DORS/90-118, art. 38; DORS/2014-111, art. 35(A) et 46.
 
 
 
 
-**283** Un compteur, à l’exception des compteurs à débit lent, les distributeurs à débit lent, les distributeurs de carburant des stations-service et les compteurs munis de soupapes préajustées, doit avoir une soupape à ouverture rapide disposée près de la sortie du compteur à des fins de vérification.
-> DORS/93-234, art. 2(F).
+**283** Un compteur, à l’exception des compteurs à débit lent, les distributeurs à débit lent, les distributeurs de carburant des stations-service et les compteurs munis de soupapes préajustées, doit avoir une soupape à ouverture rapide disposée près de la sortie du compteur à des fins d’examen.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 46.
 
 
 
 
-**284** Un compteur, à l’exception des compteurs à débit lent, doit être muni de dispositifs pratiques permettant de délivrer le produit mesuré lors d’un essai ou de la vérification de l’installation.
+**284** Tout compteur, à l’exception des compteurs à débit lent, doit être installé de manière à ce qu’il soit muni de dispositifs pratiques permettant de délivrer le produit mesuré lors de l’examen de l’installation.
+> DORS/2014-111, art. 36.
+
 
 
 
@@ -5828,11 +5682,15 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 
 
 
-**292** Un dispositif de transmission d’information relative au débit destiné à alimenter un système de traitement électronique des données peut être fixé à un compteur volumétrique et les données de sortie du système peuvent servir à des fins de facturation, pourvu que l’acheteur ou son agent reçoive une copie imprimée des données enregistrées par le système avant de quitter le local du commerçant.
+**292** Le dispositif de transmission d’information relative au débit destiné à alimenter un système de traitement électronique des données peut être fixé à un compteur volumétrique et les données de sortie du système peuvent servir à des fins de facturation, pourvu que l’acheteur ou son mandataire reçoive une copie imprimée des données enregistrées par le système avant de quitter le local du commerçant.
+> DORS/2014-111, art. 37.
 
 
 
-**293** Aux installations comprenant un compteur libre-service à clé, on peut ajouter un dispositif de transmission pour actionner les totalisateurs cumulatifs non vérifiés à l’intention des clients, pourvu que l’acheteur puisse contrôler visuellement l’avance de son totalisateur au moment de la distribution contre les données de l’indicateur principal.
+
+**293** Aux installations comprenant un compteur libre-service à clé, on peut ajouter un dispositif de transmission pour actionner les totalisateurs cumulatifs auxiliaires à l’intention des clients, pourvu que l’acheteur puisse contrôler visuellement l’avance de son totalisateur au moment de la distribution contre les données de l’indicateur principal.
+> DORS/2014-111, art. 37.
+
 
 
 
@@ -5849,17 +5707,7 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 ### Réservoirs jaugeurs et sur véhicule
 
 
-
-#### Interprétation
-
-
-**296** Dans la présente section,
-
-***réservoir*** [Abrogée, DORS/90-118, art. 40]
-
-***réservoir sur véhicule*** désigne un réservoir jaugeur installé sur un véhicule autre qu’un véhicule sur rails. (*vehicle tank*) 
-> DORS/90-118, art. 40.
-
+**296** [Abrogé, DORS/2014-111, art. 38]
 
 
 
@@ -5867,82 +5715,100 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 #### Conception, composition et construction
 
 
-**297** Un réservoir ainsi que sa tuyauterie et les accessoires susceptibles d’influer sur l’exactitude des mesures, doivent être conçus et construits de telle sorte que, quelle que soit la capacité indiquée au moment de la distribution du liquide, la quantité fournie par tout robinet de vidange auquel le réservoir est relié rigidement puisse respecter les marges de tolérance prescrites.
-> DORS/89-570, art. 6(F).
+**297** Un réservoir jaugeur ainsi que sa tuyauterie et les accessoires susceptibles d’influer sur l’exactitude des mesures, doivent être conçus et construits de telle sorte que, quelle que soit la capacité indiquée au moment de la distribution du liquide, la quantité fournie par tout robinet de vidange auquel le réservoir jaugeur est relié rigidement puisse respecter les marges de tolérance prescrites.
+> DORS/89-570, art. 6(F); DORS/2014-111, art. 45.
 
 
 
 
-**298** L’enveloppe ou les cloisons d’un réservoir doivent être faits de matériaux appropriés et construits de manière à ne pas se déformer dans toute condition de chargement qui peut se présenter normalement.
+**298** L’enveloppe ou les cloisons d’un réservoir jaugeur doivent être faits de matériaux appropriés et construits de manière à ne pas se déformer dans toute condition de chargement qui peut se présenter normalement.
+> DORS/2014-111, art. 45.
 
 
 
-**299** Des moyens efficaces de ventilation doivent être prévus dans les réservoirs afin de permettre à l’air de pénétrer dans le réservoir et d’en sortir librement pendant le remplissage ou la vidange.
+
+**299** Des moyens efficaces de ventilation doivent être prévus dans les réservoirs jaugeurs afin de permettre à l’air de pénétrer dans le réservoir jaugeur et d’en sortir librement pendant le remplissage ou la vidange.
+> DORS/2014-111, art. 45.
 
 
 
-**300** Sous réserve de l’article 320, il ne doit y avoir aucun tuyau ni aucune autre connexion entre des réservoirs destinés à être calibrés séparément, mais une batterie de réservoirs calibrés peut être connectée à une tubulure commune de vidange empêchant le liquide de passer d’un réservoir à l’autre.
+
+**300** Sous réserve de l’article 320, il ne doit y avoir aucun tuyau ni aucune autre connexion entre des réservoirs jaugeurs destinés à être calibrés séparément, mais une batterie de réservoirs jaugeurs calibrés peut être connectée à une tubulure commune de vidange empêchant le liquide de passer d’un réservoir jaugeur à l’autre.
+> DORS/2014-111, art. 45.
 
 
 
-**301** Les indicateurs de capacité d’un réservoir doivent être
+
+**301** Les indicateurs de capacité d’un réservoir jaugeur doivent être
 - **a)** des lignes graduées sur un tube indicateur de niveau ou à proximité d’un tel tube; ou
 - **b)** des indicateurs intérieurs de capacité qui sont adéquats.
-> DORS/93-234, art. 2.
+> DORS/93-234, art. 2; DORS/2014-111, art. 45.
 
 
 
 
-**302** Dans un réservoir, un indicateur de capacité ne peut être installé qu’aux niveaux où l’addition d’une quantité de liquide égale à la marge de tolérance visée à l’article 325 pour la quantité indiquée fait monter le niveau du liquide d’au moins 2,5 mm ou 3/32 pouce.
-> DORS/89-570, art. 6(F); DORS/90-118, art. 41.
+**302** Dans un réservoir jaugeur, un indicateur de capacité ne peut être installé qu’aux niveaux où l’addition d’une quantité de liquide égale à la marge de tolérance visée à l’article 325 pour la quantité indiquée fait monter le niveau du liquide d’au moins 2,5 mm ou 3/32 pouce.
+> DORS/89-570, art. 6(F); DORS/90-118, art. 41; DORS/2014-111, art. 45.
 
 
 
 
-**303** Un indicateur de capacité maximum doit être placé de façon à prévoir pour l’expansion thermique du liquide un espace égal à un pour cent au moins de la capacité du réservoir.
+**303** Un indicateur de capacité maximum doit être placé de façon à prévoir pour l’expansion thermique du liquide un espace égal à un pour cent au moins de la capacité du réservoir jaugeur.
+> DORS/2014-111, art. 45.
 
 
 
-**304** Lorsqu’un indicateur intérieur de capacité est installé dans un réservoir :
-- **a)** il doit être fixé à une partie permanente du réservoir;
+
+**304** Lorsqu’un indicateur intérieur de capacité est installé dans un réservoir jaugeur :
+- **a)** il doit être fixé à une partie permanente du réservoir jaugeur;
 - **b)** un moyen doit être prévu pour permettre l’apposition d’un sceau sur l’indicateur.
-> DORS/93-234, art. 2; DORS/94-691, art. 4.
+> DORS/93-234, art. 2; DORS/94-691, art. 4; DORS/2014-111, art. 45.
 
 
 
 
-**305** Il doit y avoir une ouverture appropriée dans les réservoirs munis d’indicateurs intérieurs de capacité pour faciliter l’installation, le réglage et le scellage des éléments indicateurs et l’indicateur de capacité doit être situé de façon à être vu dans des conditions normales d’utilisation.
+**305** Il doit y avoir une ouverture appropriée dans les réservoirs jaugeurs munis d’indicateurs intérieurs de capacité pour faciliter l’installation, le réglage et le scellage des éléments indicateurs et l’indicateur de capacité doit être situé de façon à être vu dans des conditions normales d’utilisation.
+> DORS/2014-111, art. 45.
 
 
 
-**306** Les raccords de jauge, sauf dans le cas de réservoir pour gaz liquéfiés, ne doivent pas être du type à clapet à billes ou de tout autre type conçu pour empêcher les pertes de liquide en cas de bris du verre, mais le raccord de la jauge de fond peut comprendre une soupape de sécurité, pourvu qu’on ait prévu les moyens de faire sceller la soupape dans sa position ouverte par un inspecteur.
+
+**306** Les raccords de jauge, sauf dans le cas de réservoir jaugeur pour gaz liquéfiés, ne doivent pas être du type à clapet à billes ou de tout autre type conçu pour empêcher les pertes de liquide en cas de bris du verre, mais le raccord de la jauge de fond peut comprendre une soupape de sécurité, pourvu qu’on ait prévu les moyens de faire sceller la soupape dans sa position ouverte par un inspecteur.
+> DORS/2014-111, art. 45.
 
 
 
-**307** Dans le cas des réservoirs à écoulement par gravité, le tuyau d’évacuation doit normalement être du type sec, sans obturateur à son orifice, et il doit être suffisamment long, grand et rigide pour permettre une vidange complète, et il doit être pourvu d’un dispositif pour indiquer quand tout le liquide mesuré a été débité.
+
+**307** Dans le cas des réservoirs jaugeurs à écoulement par gravité, le tuyau d’évacuation doit normalement être du type sec, sans obturateur à son orifice, et il doit être suffisamment long, grand et rigide pour permettre une vidange complète, et il doit être pourvu d’un dispositif pour indiquer quand tout le liquide mesuré a été débité.
+> DORS/2014-111, art. 45.
+
 
 
 
 **308** 
 
-- **(1)** Un réservoir qui se vide au moyen d’une pompe doit être muni d’un dispositif automatique servant à assurer
+- **(1)** Un réservoir jaugeur qui se vide au moyen d’une pompe doit être muni d’un dispositif automatique servant à assurer
 	- **a)** que la quantité de liquide qui se trouve dans les éléments d’aspiration et dans le tuyau du vidange reste constante; et
 	- **b)** que tout le liquide mesuré soit débité par la pompe.
 
-- **(2)** Le paragraphe (1) ne s’applique pas à un réservoir qui loge les fuels de soute ou autre liquide semblable.
+- **(2)** Le paragraphe (1) ne s’applique pas à un réservoir jaugeur qui loge les fuels de soute ou autre liquide semblable.
+> DORS/2014-111, art. 45.
 
 
 
-**309** Les réservoirs fixes doivent avoir des rebords de nivellement installés et identifiés convenablement, qui permettront de déceler toute inclinaison du réservoir, par rapport à la position dans laquelle il a été calibré.
+
+**309** Les réservoirs jaugeurs fixes doivent avoir des rebords de nivellement installés et identifiés convenablement, qui permettront de déceler toute inclinaison du réservoir jaugeur, par rapport à la position dans laquelle il a été calibré.
+> DORS/2014-111, art. 45.
+
 
 
 
 **310** 
 
-- **(1)** Un réservoir portatif doit être muni d’indicateurs de niveau afin qu’on puisse le mettre de niveau à des fins de vérification et d’utilisation.
+- **(1)** Tout réservoir jaugeur portatif doit être muni d’indicateurs de niveau permanents afin qu’on puisse le mettre de niveau à des fins d’examen et d’utilisation.
 
-- **(2)** Un réservoir portatif ayant un tube de niveau doit être muni de crics ou vérins permettant de le mettre de niveau à des fins de vérification et d’utilisation.
-> DORS/93-234, art. 2(F).
+- **(2)** Tout réservoir jaugeur portatif ayant un tube de niveau doit être muni de crics ou vérins permettant de le mettre de niveau à des fins d’examen et d’utilisation.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 39.
 
 
 
@@ -5997,33 +5863,41 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 
 
 
-**321** Un réservoir doit être vérifié et calibré avec un liquide ayant un coefficient d’expansion thermique, une volatilité et une viscosité qui ne soient pas supérieurs à ceux du mazout à chaudière et qui n’aura pas un effet corrosif sur le réservoir.
+**321** Tout réservoir jaugeur doit être mis à l’essai et calibré avec un liquide ayant un coefficient d’expansion thermique, une volatilité et une viscosité qui ne soient pas supérieurs à ceux du mazout à chaudière et qui n’aura pas un effet corrosif sur le réservoir.
+> DORS/2014-111, art. 40.
 
 
 
-**322** Un réservoir doit être calibré lorsque tous ces appuis sont installés et qu’il se trouve dans la position d’utilisation prévue.
+
+**322** Le réservoir jaugeur doit être mis à l’essai et calibré lorsque tous ses appuis sont installés et qu’il se trouve dans la position d’utilisation prévue.
+> DORS/2014-111, art. 40.
 
 
 
-**323** Un réservoir autre qu’un réservoir sur véhicule doit être calibré à une soupape immédiatement adjacente à l’orifice de sortie du réservoir.
+
+**323** Tout réservoir jaugeur autre qu’un réservoir sur véhicule doit être calibré à une soupape immédiatement adjacente à l’orifice de sortie du réservoir.
+> DORS/2014-111, art. 40.
 
 
 
-**324** Sauf autorisation donnée dans des prescriptions qu’établit le ministre, un réservoir muni d’un tube de niveau ou d’un indicateur à coins pour tubes ne doit pas être calibré pour un débit de moins de 50 pour cent de la capacité du réservoir.
+
+**324** Sauf autorisation donnée dans des prescriptions qu’établit le ministre, un réservoir jaugeur muni d’un tube de niveau ou d’un indicateur à coins pour tubes ne doit pas être calibré pour un débit de moins de 50 pour cent de la capacité du réservoir jaugeur.
+> DORS/2014-111, art. 45.
+
 
 
 
 **325** 
 
-- **(1)** Sous réserve du paragraphe (5), lors de l’essai d’un réservoir pour les marges de tolérance à l’acceptation, utilisant un volume de contrôle connu et établi en fonction d’un étalon local et qui figure dans la colonne I d’un article dans un tableau du paragraphe (3) ou (4), le réservoir est considéré conforme aux marges de tolérance par rapport au volume de contrôle lorsque le volume réel du réservoir
+- **(1)** Sous réserve du paragraphe (5), lors de l’essai d’un réservoir jaugeur pour les marges de tolérance à l’acceptation, utilisant un volume de contrôle connu et établi en fonction d’un étalon local et qui figure dans la colonne I d’un article dans un tableau du paragraphe (3) ou (4), le réservoir jaugeur est considéré conforme aux marges de tolérance par rapport au volume de contrôle lorsque le volume réel du réservoir jaugeur
 	- **a)** n’est pas supérieur au volume de contrôle par un montant excédant le volume indiqué dans la colonne II de cet article; et
 	- **b)** n’est pas inférieur au volume de contrôle par un montant excédant le volume indiqué dans la colonne II de cet article.
 
-- **(2)** Sous réserve du paragraphe (5), lors de l’essai d’un réservoir pour les marges de tolérance en service, utilisant un volume de contrôle connu et établi en fonction d’un étalon local et qui figure dans la colonne I d’un article dans un tableau du paragraphe (3) ou (4), le réservoir est considéré conforme aux marges de tolérance par rapport au volume de contrôle lorsque le volume réel du réservoir
+- **(2)** Sous réserve du paragraphe (5), lors de l’essai d’un réservoir jaugeur pour les marges de tolérance en service, utilisant un volume de contrôle connu et établi en fonction d’un étalon local et qui figure dans la colonne I d’un article dans un tableau du paragraphe (3) ou (4), le réservoir jaugeur est considéré conforme aux marges de tolérance par rapport au volume de contrôle lorsque le volume réel du réservoir jaugeur
 	- **a)** n’est pas supérieur au volume de contrôle par un montant excédant le volume indiqué dans la colonne III de cet article; et
 	- **b)** n’est pas inférieur au volume de contrôle par un montant excédant le volume indiqué dans la colonne III de cet article.
 
-- **(3)** Sous réserve du paragraphe (5), les marges de tolérance dans le tableau ci-après s’appliquent à tous les réservoirs jaugeurs, qu’ils soient fixes, portatifs ou installés sur un véhicule, et qui sont calibrés en unités métriques de volume :
+- **(3)** Sous réserve du paragraphe (5), les marges de tolérance indiquées dans le tableau du présent paragraphe s’appliquent à tous les réservoirs jaugeurs qui sont calibrés en unités métriques de volume.
 #### TABLEAU
 <table>
 <tr>
@@ -6035,7 +5909,7 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 <tr>
 <th>Volume de contrôle connue</th>
 <th>Marge de tolérance à l’acceptation</th>
-<th>Marge de tolérance en service</th>
+<th>Marge de tolérance en service</th>
 </tr>
 <tr>
 <td></td>
@@ -6070,7 +5944,7 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 </table>
 
 
-- **(4)** Sous réserve du paragraphe (5), les marges de tolérance indiquées dans le tableau ci-après s’appliquent à tous les réservoirs jaugeurs, qu’ils soient fixes, portatifs ou installés sur un véhicule, et qui sont calibrés en unités canadiennes de volume :
+- **(4)** Sous réserve du paragraphe (5), les marges de tolérance indiquées dans le tableau du présent paragraphe s’appliquent à tous les réservoirs jaugeurs qui sont calibrés en unités canadiennes de volume.
 #### TABLEAU
 <table>
 <tr>
@@ -6082,7 +5956,7 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 <tr>
 <th>Volume de contrôle connue</th>
 <th>Marge de tolérance à l’acceptation</th>
-<th>Marge de tolérance en service</th>
+<th>Marge de tolérance en service</th>
 </tr>
 <tr>
 <td></td>
@@ -6117,15 +5991,17 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 </table>
 
 
-- **(5)** Les marges de tolérance pour un réservoir destiné à mesurer les gaz liquéfiés sont le double des marges de tolérance applicables qui figurent au tableau du paragraphe (3) ou (4).
+- **(5)** Les marges de tolérance pour un réservoir jaugeur destiné à mesurer les gaz liquéfiés sont le double des marges de tolérance applicables qui figurent au tableau du paragraphe (3) ou (4).
 
-- **(6)** Les marges de tolérance indiquées dans les tableaux des paragraphes (3) et (4) se rapportent à l’inexactitude globale des mesures du réservoir, y compris les erreurs dues à la présence d’air ou de liquide dans certaines parties du réservoir, dans la tuyauterie ou dans les accessoires, pendant l’opération de remplissage ou de vidange.
-> DORS/89-570, art. 6(F); DORS/94-691, art. 4(A).
-
-
+- **(6)** Les marges de tolérance indiquées dans les tableaux des paragraphes (3) et (4) se rapportent à l’inexactitude globale des mesures du réservoir jaugeur, y compris les erreurs dues à la présence d’air ou de liquide dans certaines parties du réservoir jaugeur, dans la tuyauterie ou dans les accessoires, pendant l’opération de remplissage ou de vidange.
+> DORS/89-570, art. 6(F); DORS/94-691, art. 4(A); DORS/2014-111, art. 41 et 45.
 
 
-**326** Un réservoir sur véhicule doit être vérifié pour s’assurer que l’air ou le liquide emprisonné dans le réservoir ne dépasse pas de 0,125 pour cent de la capacité du réservoir dans des conditions normales d’utilisation.
+
+
+**326** Un réservoir sur véhicule doit être mis à l’essai pour s’assurer que l’air ou le liquide emprisonné dans le réservoir ne dépasse pas de 0,125 pour cent de la capacité du réservoir dans des conditions normales d’utilisation.
+> DORS/2014-111, art. 47(F).
+
 
 
 
@@ -6133,19 +6009,27 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 #### Installation et utilisation
 
 
-**327** Un réservoir fixe doit être installé sur un bâti solide propre à assurer que la position du réservoir reste constante et de niveau par rapport aux rebords de nivellement.
+**327** Un réservoir jaugeur fixe doit être installé sur un bâti solide propre à assurer que la position du réservoir jaugeur reste constante et de niveau par rapport aux rebords de nivellement.
+> DORS/2014-111, art. 45.
 
 
 
-**328** Lors du remplissage d’un réservoir fixe, celui-ci doit être de niveau en fonction des niveaux installés sur le réservoir ou des rebords de nivellement, et les réservoirs portatifs ou sur véhicule doivent être remplis et vidés lorsqu’ils sont aussi proches que possible des conditions de niveau requises.
+
+**328** Lors du remplissage, le réservoir jaugeur fixe doit être de niveau par rapport aux niveaux installés sur le réservoir ou par rapport aux rebords de nivellement, et les réservoirs jaugeurs portatifs ainsi que les réservoirs sur véhicule doivent être remplis et vidés lorsqu’ils sont aussi près que possible d’être de niveau.
+> DORS/2014-111, art. 42.
 
 
 
-**329** Pendant le remplissage d’un réservoir, il faut veiller à ce que l’air ne soit pas emprisonné dans la tuyauterie ou ne soit pas entraîner dans le liquide.
+
+**329** Pendant le remplissage d’un réservoir jaugeur, il faut veiller à ce que l’air ne soit pas emprisonné dans la tuyauterie ou ne soit pas entraîner dans le liquide.
+> DORS/2014-111, art. 45.
 
 
 
-**330** Un réservoir ne doit pas être utilisé pour débiter des quantités qui se situent entre les indicateurs intérieurs de capacité.
+
+**330** Un réservoir jaugeur ne doit pas être utilisé pour débiter des quantités qui se situent entre les indicateurs intérieurs de capacité.
+> DORS/2014-111, art. 45.
+
 
 
 
@@ -7046,28 +6930,251 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 
 
 
+**PARTIE VIII** 
+## Pénalités
+
+
+
+### Violations
+
+
+**346** Toute contravention à une disposition de la Loi ou du présent règlement mentionnée à la colonne 1 des parties 1 et 2, respectivement, de l’annexe VI peut faire l’objet d’une procédure en violation au titre des articles 22.1 à 22.28 de la Loi.
+> DORS/2014-112, art. 1.
+
+
+
+
+
+### Qualification
+
+
+**347** La violation de toute disposition mentionnée à la colonne 1 des parties 1 et 2 de l’annexe VI est qualifiée de mineure, de grave ou de très grave selon ce qui est prévu à la colonne 2.
+> DORS/2014-112, art. 1.
+
+
+
+
+
+### Pénalités
+
+
+**348** 
+
+- **(1)** Sous réserve du paragraphe (2), le montant de la pénalité applicable est de :
+	- **a)** 250 $ pour une violation mineure;
+	- **b)** 500 $ pour une violation grave;
+	- **c)** 1 000 $ pour une violation très grave.
+
+- **(2)** Le montant de la pénalité est rajusté, conformément à la colonne 2 de l’annexe VII, en fonction des antécédents de l’auteur de la violation, tels qu’ils figurent à la colonne 1.
+
+- **(3)** Les antécédents de l’auteur de la violation sont déterminés en attribuant, pour chaque violation d’une disposition mentionnée à la colonne 1 des parties 1 ou 2 de l’annexe VI, le nombre de points figurant à la colonne 3.
+> DORS/2014-112, art. 1.
+
+
+
+
+**349** Le procès-verbal prévoit que le paiement d’une somme égale à 50 % de la pénalité infligée vaut règlement s’il est effectué dans le délai prévu au paragraphe 351(1) et selon les modalités que le procès-verbal précise en application du paragraphe 351(6).
+> DORS/2014-112, art. 1.
+
+
+
+
+
+### Transactions
+
+
+**350** Si le ministre conclut une transaction, au titre du paragraphe 22.13(1) de la Loi, dont les conditions obligent notamment une personne à effectuer des dépenses, le montant de la pénalité mentionné dans le procès-verbal est réduit de la moitié des dépenses effectuées dans le cadre de la transaction, jusqu’à concurrence du montant de la pénalité.
+> DORS/2014-112, art. 1.
+
+
+
+
+
+### Paiement
+
+
+**351** 
+
+- **(1)** Pour l’application de l’alinéa 22.11(2)e) de la Loi, le délai de paiement est de quinze jours suivant la date de notification du procès-verbal.
+
+- **(2)** Pour l’application du paragraphe 22.12(1) de la Loi, le délai de paiement pour le montant de la pénalité est de trente jours suivant la date de notification du procès-verbal.
+
+- **(3)** Pour l’application du paragraphe 22.13(4) de la Loi, le délai de paiement est de quinze jours suivant la date de notification de l’avis de défaut.
+
+- **(4)** Pour l’application du paragraphe 22.14(1) de la Loi, le délai de paiement est de quinze jours suivant la date de notification de l’avis du ministre.
+
+- **(5)** Pour l’application du paragraphe 22.15(3) de la Loi, le délai de paiement est de quinze jours suivant la date de notification de la décision du ministre en application des paragraphes 22.15(1) ou (2) de la Loi.
+
+- **(6)** Tout paiement visé aux paragraphes (1) à (5) est effectué selon l’une des modalités ci-après que le procès-verbal, l’avis ou la décision applicable précise :
+	- **a)** par chèque certifié ou mandat libellé à l’ordre du receveur général du Canada et transmis à un bureau de Mesures Canada de l’une des façons suivantes :
+		- **(i)** par courrier ordinaire,
+		- **(ii)** par courrier recommandé,
+		- **(iii)** par messagerie;
+	- **b)** par moyen électronique.
+> DORS/2014-112, art. 1.
+
+
+
+
+
+### Demandes faites en vertu du paragraphe 22.12(2) de la loi
+
+
+**352** 
+
+- **(1)** Toute demande ou contestation prévue à l’alinéa 22.12(2)a) ou b) de la Loi est, dans les trente jours suivant la date de notification du procès-verbal, transmise par écrit à un bureau de Mesures Canada selon l’une des modalités ci-après que le procès-verbal précise :
+	- **a)** par remise en mains propres;
+	- **b)** par courrier recommandé ou messagerie;
+	- **c)** par moyen électronique.
+
+- **(2)** La demande ou la contestation comprend les renseignements suivants :
+	- **a)** le numéro du procès-verbal;
+	- **b)** le nom de l’intéressé, ses adresses postale et électronique, numéro de téléphone et de télécopieur ainsi que le nom d’une personne-ressource s’il y a lieu;
+	- **c)** la langue de communication — anglais ou français — que choisit l’intéressé;
+	- **d)** dans le cas d’une demande, une proposition détaillant les mesures correctives qui seront prises pour prévenir toute récidive de la violation;
+	- **e)** dans le cas d’une contestation, les motifs de la contestation.
+
+- **(3)** La date de la demande ou de la contestation correspond :
+	- **a)** à celle de sa remise, si elle est remise en mains propres;
+	- **b)** à celle de son envoi, si elle est envoyée par courrier recommandé, messagerie ou moyen électronique.
+> DORS/2014-112, art. 1.
+
+
+
+
+
 ### **ANNEXE I** 
-**(article 47.1)**
+**(articles 2.1 et 29 et paragraphes 31(1) et (3))**
+## Délais d’examen
+#### PARTIE I
 <table>
-<h4>Déclaration de quantité</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
 <th>Colonne II</th>
+<th>Colonne III</th>
 </tr>
 <tr>
 <th>Article</th>
-<th>Marchandise</th>
-<th>Paramètres</th>
+<th>Instrument</th>
+<th>Catégorie de commerce</th>
+<th>Délai</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Ficelle agricole</td>
-<td>Masse, longueur</td>
+<td>Appareil de pesage</td>
+<td>Commerce en gros des produits laitiers</td>
+<td>2 ans</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Compteur</td>
+<td>Commerce en gros des produits laitiers</td>
+<td>1 an</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tout instrument</td>
+<td>Commerce pétrolier aval</td>
+<td>2 ans</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tout instrument</td>
+<td>Commerce en gros des produits de la pêche</td>
+<td>1 an</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Appareil de pesage</td>
+<td>Commerce des produits forestiers</td>
+<td>1 an</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tout instrument, à l’exception des appareils de pesage utilisés dans un silo à grains agréé par la Commission canadienne des grains</td>
+<td>Commerce en gros des grains, grandes cultures et services connexes</td>
+<td>2 ans</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Appareil de pesage utilisé dans un silo à grains agréé par la Commission canadienne des grains</td>
+<td>Commerce en gros des grains, grandes cultures et services connexes</td>
+<td>1 an</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tout instrument</td>
+<td>Commerce en gros des produits miniers</td>
+<td>2 ans</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tout instrument</td>
+<td>Commerce au détail des aliments</td>
+<td>5 ans</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Tout instrument, à l’exception d’un compteur de propane</td>
+<td>Commerce pétrolier au détail</td>
+<td>2 ans</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Compteur de propane</td>
+<td>Commerce pétrolier au détail</td>
+<td>1 an</td>
 </tr>
 </table>
 
-> DORS/2005-297, art. 22.
+#### PARTIE II
+<table>
+<tr>
+<th></th>
+<th>Colonne I</th>
+<th>Colonne II</th>
+<th>Colonne III</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Délai de mise en application — général</th>
+<th>Délai de mise en application — instrument utilisé dans le commerce au détail des aliments</th>
+<th>Zone géographique selon les trois premiers caractères des codes postaux</th>
+</tr>
+<tr>
+<td>1</td>
+<td>6 mois</td>
+<td>18 mois</td>
+<td>A0A, A1A, A1B, A1C, A1E, A1G, A1H, A1K, A1L, A1N, A1S, A1W, A1X, A1Y, B0H, B0M, B2T, B2V, B2W, B2X, B2Y, B2Z, B3A, B3B, B3E, B3G, B4A, B4B, B4C, B4E, B4G, E1H, E1J, E2V, E4A, E4B, E4C, E4E, E4G, E4H, E4J, E4K, E4L, E4M, E4N, E4P, E4R, E4T, E4Z, E5J, E5K, E5L, E5M, E5N, E5P, E5R, E5S, E5T, E6C, G0K, G0L, G1B, G1C, G1E, G1G, G1H, G1X, G1Y, G2B, G2C, G2E, G2G, G2J, G2K, G2L, G5H, G5L, G5M, G5N, G5R, G5T, G7B, G7G, G7H, G7J, G7K, G7N, G7P, G7S, G7T, G7X, G7Y, G7Z, G8A, H0A, H1A, H1B, H1C, H1E, H1G, H1H, H1J, H1K, H1L, H1M, H1N, H1P, H1R, H1T, H1V, H1X, H1Z, H7A, J0A, J0B, J0C, J0G, J1A, J1E, J1G, J1H, J1J, J1K, J1L, J1M, J1N, J1S, J1T, J1X, J1Z, J2A, J2B, J2C, J2E, J3P, J3R, J3T, H7B, H7C, H2A, H2E, H2P, H2R, H3N, H3P, H3R, H3X, H4P, H4W, H4V, H4B, H4X, H4E, H4H, H8N, H8P, H8R, H8S, K1B, K1C, K1E, K1G, K1H, K1J, K1S, K1W, K1Y, K1Z, K2A, K2B, K2C, K2H, K2K, K4A, L0P, L0R, L3M, L4X, L4Y, L5E, L7G, L7J, L7M, L7P, L8E, L8J, L8W, L9B, L9G, L9K, L9T, M1E, M1G, M1H, M1J, M1K, M1L, M1M, M1N, M1P, M1R, M3A, M8V, M8W, M8X, M8Y, M8Z, M9A, M9B, M9C, M9N, M9P, M9R, N0A, N0B, N0E, N0J, N0K, N0L, N0M, N0N, N0P, N0R, N1A, N1M, N1P, N1T, N2A, N2B, N2E, N2K, N2N, N2P, N2R, N2T, N2V, N3B, N3C, N3E, N3L, N3W, N3Y, N4B, N4G, N4S, N4T, N4V, N4X, N4Z, N5A, N5C, N5H, N5L, N5P, N5R, N5V, N5X, N6E, N6G, N6H, N6K, N6L, N6M, N6N, N6P, N7G, N7L, N7M, N8A, N8H, N8M, N8N, N8P, N8R, N8S, N8T, N8V, N8W, N8X, N8Y, N9A, N9B, N9C, N9E, N9G, N9H, N9J, N9K, N9V, N9Y, P0H, P0J, P0K, P0M, P0N, P0S, P1A, P1B, P1C, P2N, P3A, P3B, P3C, P3E, P3G, P3L, P3N, P3P, P3Y, P4N, P4P, P4R, R2C, R2G, R2H, R2J, R2K, R2L, R2M, R2N, R2P, R2R, R2V, R2W, R2X, R2Y, R3A, R3B, R3C, R3E, R3G, R3H, R3J, R3K, R3L, R3M, R3N, R3P, R3R, R3S, R3T, R3V, R3W, R3X, R3Y, R7A, R7B, R7C, S4L, S4N, S4P, S4R, S4S, S4T, S4V, S4W, S4X, S4Y, S4Z, S7H, S7J, S7K, S7L, S7M, S7N, S7P, S7R, S7S, S7T, S7V, T1H, T1J, T1K, T1Y, T2A, T2B, T2C, T2J, T2W, T2Z, T3B, T3H, T3J, T5A, T5C, T5E, T5L, T5M, T5N, T5P, T5R, T5W, T6B, T6H, T6J, T6K, T6L, T6N, V1M, V2K, V2L, V2M, V2N, V2Y, V2Z, V3A, V3C, V3J, V3K, V3L, V3M, V3N, V3R, V3S, V3T, V3V, V3W, V3X, V4C, V4E, V4G, V4N, V4W, V6V, V6W, V6X, V6Y, V7A, V7C, V7E</td>
+</tr>
+<tr>
+<td>2</td>
+<td>11 mois</td>
+<td>23 mois</td>
+<td>A0B, A0H, A0L, A0M, A2A, A2B, A2H, B0R, B0W, B2G, B2H, B4V, E1A, E1B, E1C, E1E, E1G, E2E, E2G, E2H, E2J, E2K, E2L, E2M, E2N, E2P, E2R, E2S, E3A, E3B, E3C, E3E, G0A, G0R, G0S, G2A, G2M, G2N, G3A, G3E, G3G, G3H, G3J, G3K, G3L, G3Z, G4A, G5A, G5V, G6C, G6E, G6J, G6K, G6L, G6V, G6W, G6X, G6Z, G7A, G8B, G8C, G8N, H2B, H2C, H2M, H2N, H3L, H3M, H4J, H4K, H4L, H4M, H4N, H4R, H4S, H4T, H4Y, H7E, H7G, H7H, H7K, H7L, H7M, H7N, H7P, H7R, H7S, H7T, H7V, H7W, H7X, H7Y, H8T, H8Y, H8Z, H9A, H9B, H9C, H9E, H9G, H9H, H9J, H9K, H9P, H9R, H9S, H9W, H9X, J0E, J0H, J2G, J2H, J2J, J2K, J2L, J2S, J2T, K1K, K1L, K1P, K1R, K2P, K6H, K6J, K6K, K6T, K6V, L2E, L2G, L2H, L2J, L2M, L2N, L2P, L2R, L2S, L2T, L2V, L2W, L3B, L3C, L4T, L4V, L4W, L4Z, L5M, L5N, L5P, L5R, L5S, L5T, L5V, L5W, L6H, L6M, L7L, L7N, L7R, L7S, L7T, L8G, L8K, L8N, L8T, L8V, L9A, L9C, M1B, M1C, M1S, M1T, M1V, M1W, M1X, M2H, M2J, M2K, M2M, M2N, M2R, M3H, M3J, M3K, M3L, M3M, M3N, M9L, M9M, M9V, M9W, N0G, N1C, N1E, N1G, N1H, N1K, N1L, N1R, N1S, N2C, N2G, N2H, N2J, N2L, N2M, N2Z, N3H, N3P, N3R, N3S, N3T, N3V, N4N, N4W, N5W, N5Y, N5Z, N6A, N6B, N6C, N6J, N7A, P0A, P0G, P2A, P5A, P5N, P6A, P6B, P6C, P7A, P7B, P7C, P7E, P7G, P7J, P7K, R0G, R0H, R0K, R1A, R1N, R2E, R4A, R4H, R4J, R4K, R4L, R5A, R5G, R5H, R6M, R6W, S0A, S0G, S0K, S2V, S4H, S6H, S6J, S6K, S6V, S6W, S6X, S9A, T1M, T1P, T1X, T2X, T2Y, T3A, T3G, T3K, T3L, T3M, T3N, T3Z, T4A, T4B, T4C, T4H, T4V, T4X, T5S, T5T, T5V, T5X, T5Y, T5Z, T6M, T6P, T6R, T6S, T6T, T6V, T6W, T6X, T7N, T7P, T7X, T7Y, T7Z, T8A, T8B, T8C, T8E, T8G, T8H, T8L, T8N, T8R, T9A, T9C, T9E, T9G, V0R, V2J, V2T, V2X, V3B, V3E, V3H, V3Y, V4K, V4P, V4R, V4X, V5A, V5B, V5C, V5E, V5G, V5H, V5J, V5K, V5M, V5P, V5R, V5S, V5W, V5X, V6M, V6N, V6P, V7B, V9G, V9K, V9L, V9P, V9R, V9S, V9T, V9V, V9X, V9Y</td>
+</tr>
+<tr>
+<td>3</td>
+<td>15 mois</td>
+<td>27 mois</td>
+<td>A0E, A0J, A0N, A2N, B0J, B0T, B2N, B3H, B3J, B3K, B3L, B3M, B3N, B3P, B3R, B3S, B3T, B3V, B3Z, tous les codes postaux commençant par la lettre C, E1N, E1V, E3L, E3Z, E4S, E4V, E4W, E4X, E4Y, E5A, E5C, E5H, E6A, E6B, E6E, E6G, E6H, E6J, E6K, E6L, E7G, E7H, E7J, E7K, E7L, E7M, E7N, E7P, E9A, E9B, E9C, E9E, E9G, E9H, G0J, G0M, G0N, G0P, G0X, G0Y, G0Z, G4W, G4Z, G5C, G5J, G5X, G5Y, G5Z, G6A, G6B, G6G, G6H, G6P, G6R, G6S, G6T, G8H, G8J, G8K, G8L, G8M, G8T, G8V, G8W, G8Y, G8Z, G9A, G9B, G9C, G9H, G9N, G9P, G9R, G9T, G9X, H0M, J0J, J0L, J0N, J0P, J0R, J0S, J0V, J2N, J2W, J2X, J2Y, J3A, J3B, J3E, J3G, J3H, J3L, J3M, J3N, J3V, J3X, J4B, J4G, J4H, J4J, J4K, J4L, J4M, J4N, J4P, J4R, J4S, J4V, J4W, J4X, J4Y, J4Z, J5A, J5J, J5R, J5V, J5W, J5X, J5Y, J5Z, J6A, J6E, J6J, J6K, J6N, J6R, J6S, J6T, J6V, J6W, J6X, J6Y, J6Z, J7A, J7B, J7C, J7E, J7G, J7H, J7J, J7K, J7L, J7M, J7N, J7P, J7R, J7T, J7V, J7X, J7Y, J7Z, J8A, J8B, J8C, J8G, J8H, J8L, J8M, K0C, K0E, K0G, K1M, K1N, K1T, K1V, K2E, K2G, K2L, K2M, K2R, K2S, K2T, K2V, K4C, K7A, K7G, K7H, L0A, L0B, L0C, L0E, L0G, L0H, L0J, L0L, L0M, L0N, L0S, L1A, L1B, L1C, L1E, L1G, L1H, L1J, L1K, L1L, L1M, L1N, L1P, L1R, L1S, L1T, L1V, L1W, L1Z, L2A, L3K, L3P, L3R, L3S, L3T, L3X, L3Y, L3Z, L4B, L4G, L4J, L4K, L4L, L4M, L4N, L4P, L5A, L5B, L5C, L5G, L5H, L5J, L5K, L5L, L6G, L7B, L7C, L7E, L8H, L8L, L8M, L8P, L8R, L8S, L9H, L9L, L9N, L9P, L9R, L9S, L9V, L9W, L9Y, N0C, N0H, N4K, N4L, N7S, N7T, N7V, N7W, N7X, P0B, P0C, P0E, P0R, P0W, P0X, P0Y, P1H, P1L, P1P, P5E, P8N, P8T, P9A, P9N, R0A, R0C, R0E, R0J, R0L, R0M, R7N, S0C, S0E, S0H, S0L, S3N, S4A, S9H, T0L, T0M, T1A, T1B, T1C, T1G, T1R, T1W, T2E, T2H, T2V, T3E, T4E, T4G, T4J, T4L, T4N, T4P, T4R, T4S, T7A, T7E, T7S, T9N, T9S, T9W, T9X, V0L, V0M, V0N, V0P, V0X, V1B, V1H, V1K, V1P, V1T, V1V, V1W, V1X, V1Y, V1Z, V2G, V2P, V2R, V2S, V2V, V2W, V4A, V4B, V4L, V4M, V4S, V4T, V4V, V4Z, V6K, V6L, V6R, V6S, V6T, V7G, V7H, V7J, V7K, V7L, V7M, V7N, V8A, V8C, V8G, V9H, V9J, V9M, V9N, V9W</td>
+</tr>
+<tr>
+<td>4</td>
+<td>18 mois</td>
+<td>30 mois</td>
+<td>A0C, A0G, A1V, A0K (sur l’île de Terre-Neuve seulement), B0C, B0E, B0K, B0L, B0N, B0S, B0V, B2C, B2J, B4H, B5A, E2A, E3N, E3Y, E7C, E7E, E8A, E8B, E8C, E8E, E8G, E8J, E8K, E8L, G0C, G0E, G0H, G0T, G0V, G0W, G4R, G4S, G4X, G5B, J0K, J0T, J0W, J0X, J0Z, J8N, J8P, J8R, J8T, J8V, J8X, J8Y, J8Z, J9A, J9B, J9E, J9H, J9J, J9L, K0A, K0B, K0H, K0J, K0K, K0L, K0M, K1X, K2J, K4M, K4P, K4R, K6A, K7C, K7K, K7L, K7M, K7N, K7P, K7R, K7V, K8A, K8B, K8H, K8N, K8P, K8R, K8V, K9A, K9H, K9J, K9K, K9L, K9V, L0K, L1X, L1Y, L3V, L4A, L4C, L4E, L4H, L4R, L4S, L6A, L6B, L6C, L6E, L6J, L6K, L6L, L9M, P0P, P0T, R8A, R8N, R9A, S0M, S0N, S0P, S9V, S9X, T0A, T0B, T0C, T0E, T0G, T0J, T0K, T2G, T2K, T2L, T2M, T2N, T2P, T2R, T2S, T2T, T3C, T5B, T5G, T5H, T5J, T5K, T6A, T6C, T6E, T6G, T7V, T8V, T8W, T8X, T9M, T9V, V0E, V0G, V0H, V0J, V0K, V0S, V0T, V0V, V1E, V1G, V1J, V1L, V1N, V1R, V1S, V2A, V2B, V2C, V2E, V2H, V3G, V7P, V7R, V7S, V7T, V7V, V7W, V8J, V8M, V8N, V8P, V8R, V8S, V8T, V8V, V8W, V8X, V8Y, V8Z, V9A, V9B, V9C, V9E</td>
+</tr>
+<tr>
+<td>5</td>
+<td>24 mois</td>
+<td>36 mois</td>
+<td>Tous les autres codes postaux</td>
+</tr>
+</table>
+
+> DORS/2014-111, art. 44.
 
 
 
@@ -8170,6 +8277,32 @@ Lorsqu’une quantité ne figure pas à la colonne I de la présente partie, la
 
 
 
+### **ANNEXE II.1** 
+**(article 47.1)**
+<table>
+<h4>Déclaration de quantité</h4>
+<tr>
+<th></th>
+<th>Colonne I</th>
+<th>Colonne II</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Marchandise</th>
+<th>Paramètres</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Ficelle agricole</td>
+<td>Masse, longueur</td>
+</tr>
+</table>
+
+> DORS/2005-297, art. 22; DORS/2014-111, art. 43.
+
+
+
+
 ### **ANNEXE III** 
 **(article 52)**
 
@@ -8521,7 +8654,7 @@ où :
 ## Marges de tolérance pour les étalons locaux
 #### PARTIE I
 <table>
-<h4>Marges de tolérance applicables aux étalons locaux de masse dont la valeur nominale est indiquée en unités métriques et qui sont utilisés pour la vérification des instruments servant à peser les métaux précieux</h4>
+<h4>Marges de tolérance applicables aux étalons locaux de masse dont la valeur nominale est indiquée en unités métriques et qui sont utilisés pour l’examen des instruments servant à peser les métaux précieux</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -8626,7 +8759,7 @@ où :
 
 #### PARTIE II
 <table>
-<h4>Marges de tolérance applicables aux étalons locaux de masse ou de poids dont la valeur nominale est indiquée en unités canadiennes et qui sont utilisés pour la vérification des instruments servant à peser les métaux précieux</h4>
+<h4>Marges de tolérance applicables aux étalons locaux de masse ou de poids dont la valeur nominale est indiquée en unités canadiennes et qui sont utilisés pour l’examen des instruments servant à peser les métaux précieux</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -8806,7 +8939,7 @@ où :
 
 #### PARTIE III
 <table>
-<h4>Marges de tolérance applicables aux étalons locaux de masse dont la valeur nominale est indiquée en unités métriques et qui sont utilisés pour la vérification des instruments de pesage servant à peser les marchandises autres que les métaux précieux</h4>
+<h4>Marges de tolérance applicables aux étalons locaux de masse dont la valeur nominale est indiquée en unités métriques et qui sont utilisés pour l’examen des instruments de pesage servant à peser les marchandises autres que les métaux précieux</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -8931,7 +9064,7 @@ où :
 
 #### PARTIE IV
 <table>
-<h4>Marges de tolérance applicables aux étalons locaux de masse ou de poids dont la valeur nominale est indiquée en unités canadiennes et qui sont utilisés pour la vérification des instruments servant à peser les marchandises autres que les métaux précieux</h4>
+<h4>Marges de tolérance applicables aux étalons locaux de masse ou de poids dont la valeur nominale est indiquée en unités canadiennes et qui sont utilisés pour l’examen des instruments servant à peser les marchandises autres que les métaux précieux</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -9430,7 +9563,7 @@ où :
 <tr>
 <td>1</td>
 <td>Tout volume</td>
-<td>0,02 % du volume</td>
+<td>0,02 % du volume</td>
 </tr>
 </table>
 
@@ -9545,7 +9678,7 @@ où :
 
 #### PARTIE XIII
 <table>
-<h4>Marge de tolérance applicable aux compteurs étalons-témoins utilisés pour la vérification des appareils de mesure des gaz liquéfiés</h4>
+<h4>Marge de tolérance applicable aux compteurs étalons-témoins utilisés pour l’examen des appareils de mesure des gaz liquéfiés</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -9565,7 +9698,7 @@ où :
 
 #### PARTIE XIV
 <table>
-<h4>Marge de tolérance applicable aux compteurs étalons-témoins utilisés pour la vérification des compteurs autres que les appareils de mesure des gaz liquéfiés</h4>
+<h4>Marge de tolérance applicable aux compteurs étalons-témoins utilisés pour l’examen des compteurs autres que les appareils de mesure des gaz liquéfiés</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -9728,7 +9861,7 @@ où :
 </tr>
 </table>
 
-> DORS/89-570, art. 6(F); DORS/90-118, art. 43 et 44; DORS/93-234, art. 2; DORS/2005-297, art. 38 et 39.
+> DORS/89-570, art. 6(F); DORS/90-118, art. 43 et 44; DORS/93-234, art. 2; DORS/2005-297, art. 38 et 39; DORS/2014-111, art. 46.
 
 
 
@@ -9808,11 +9941,11 @@ où :
 <td>30 $</td>
 </tr>
 <tr>
-<td>c) cuve étalon gravimétrique conçue pour la vérification des compteurs servant à mesurer des gaz liquéfiés</td>
+<td>c) cuve étalon gravimétrique conçue pour l’examen des compteurs servant à mesurer des gaz liquéfiés</td>
 <td>40 $</td>
 </tr>
 <tr>
-<td>d) tube étalon conçu pour la vérification des compteurs dont le débit maximal indiqué est :</td>
+<td>d) tube étalon conçu pour l’examen des compteurs dont le débit maximal indiqué est :</td>
 <td></td>
 </tr>
 <tr>
@@ -9828,7 +9961,7 @@ où :
 <td>100 $</td>
 </tr>
 <tr>
-<td>e) compteur étalon-témoin conçu pour la vérification des compteurs dont le débit maximal indiqué est :</td>
+<td>e) compteur étalon-témoin conçu pour l’examen des compteurs dont le débit maximal indiqué est :</td>
 <td></td>
 </tr>
 <tr>
@@ -9848,7 +9981,7 @@ où :
 <td>15 $</td>
 </tr>
 <tr>
-<td>g) équipement mobile de pesage d’une capacité de plus de 1 000 kg, y compris l’équipement conçu pour la vérification des systèmes de pesage mobile montés sur véhicule servant à mesurer l’ammoniac anhydre</td>
+<td>g) équipement mobile de pesage d’une capacité de plus de 1 000 kg, y compris l’équipement conçu pour l’examen des systèmes de pesage mobile montés sur véhicule servant à mesurer l’ammoniac anhydre</td>
 <td>50 $</td>
 </tr>
 <tr>
@@ -9874,6 +10007,274 @@ où :
 </tr>
 </table>
 
-> DORS/79-747, art. 2; DORS/85-736, art. 3; DORS/87-582, art. 5; DORS/93-413, art. 3.
+> DORS/79-747, art. 2; DORS/85-736, art. 3; DORS/87-582, art. 5; DORS/93-413, art. 3; DORS/2014-111, art. 46.
+
+
+
+
+### **ANNEXE VI** 
+**(articles 346 et 347 et paragraphe 348(3))**
+## Violations
+#### PARTIE 1
+<table>
+<h4>Loi sur les poids et mesures</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Dispositions de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md)</th>
+<th>Qualification</th>
+<th>Points</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>8 a)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>8 b)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>9(1)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>15(1)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>17(3)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>23a)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>23b)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td>24a)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>24b)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11</td>
+<td>26(1)a)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>26(1)b)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>26(1)c)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>26(2)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>28</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>16</td>
+<td>29a)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>29c)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>31(3)</td>
+<td>Très grave</td>
+<td>5</td>
+</tr>
+<tr>
+<td>19</td>
+<td>33(1)a)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>20</td>
+<td>33(1)b)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>33(2)a)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>22</td>
+<td>33(2)b)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>23</td>
+<td>34(1)a)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>24</td>
+<td>34(1)b)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+</table>
+
+#### PARTIE 2
+<table>
+<h4>Règlement sur les poids et mesures</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Dispositions du Règlement sur les poids et mesures</th>
+<th>Qualification</th>
+<th>Points</th>
+</tr>
+<tr>
+<td>1</td>
+<td>33(1)</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>35.1</td>
+<td>Grave</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>38(2)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>38(3)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>39(1)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>39(2)</td>
+<td>Mineure</td>
+<td>1</td>
+</tr>
+</table>
+
+> DORS/2014-112, art. 2.
+
+
+
+
+### **ANNEXE VII** 
+**(paragraphe 348(2))**
+<table>
+<h4>Rajustement des pénalités</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Antécédents</th>
+<th>Rajustement</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Aucune violation de la Loi ou du présent règlement n’a été commise au cours des cinq années précédant la date à laquelle la violation en cause a été commise</td>
+<td>Réduction de 50 %</td>
+</tr>
+<tr>
+<td>2</td>
+<td>La somme des points attribués pour les violations de la Loi ou du présent règlement commises au cours des cinq années précédant la date à laquelle la violation en cause a été commise est de un ou deux</td>
+<td>Réduction de 25 %</td>
+</tr>
+<tr>
+<td>3</td>
+<td>La somme des points attribués pour les violations de la Loi ou du présent règlement commises au cours des cinq années précédant la date à laquelle la violation en cause a été commise est d’au moins trois et d’au plus cinq</td>
+<td>Aucun rajustement</td>
+</tr>
+<tr>
+<td>4</td>
+<td>La somme des points attribués pour les violations de la Loi ou du présent règlement commises au cours des cinq années précédant la date à laquelle la violation en cause a été commise est d’au moins six et d’au plus huit</td>
+<td>Augmentation de 25 %</td>
+</tr>
+<tr>
+<td>5</td>
+<td>La somme des points attribués pour les violations de la Loi ou du présent règlement commises au cours des cinq années précédant la date à laquelle la violation en cause a été commise est de plus de huit</td>
+<td>Augmentation de 50 %</td>
+</tr>
+</table>
+
+> DORS/2014-112, art. 2.
 
 
