@@ -437,6 +437,32 @@ Autorités habilitantes :
 
 
 
+**PARTIE 4.1** 
+## Contrats relatifs à la livraison de grain
+
+
+**29.2** Dans la présente partie, ***période de livraison*** s’entend, à l’égard d’un contrat d’achat de grain, de la période qui y est précisée et au cours de laquelle le grain doit être livré au titulaire de licence par le producteur. (**delivery period**)
+> DORS/2014-191, art. 1.
+
+
+
+
+**29.3** 
+
+- **(1)** Tout contrat d’achat de grain pour une période de livraison conclu entre un titulaire de licence et un producteur prévoit une disposition stipulant que, dans le cas où la livraison de grain — du type et du grade indiqués dans le contrat — n’est pas acceptée par le titulaire de licence au cours de cette période, ce dernier est tenu de verser au producteur une pénalité.
+
+- **(2)** Le contrat prévoit également que la pénalité :
+	- **a)** est convenue dans le contrat entre le titulaire de licence et le producteur et est :
+		- **(i)** soit la somme à payer pour chacun des jours de la période commençant le lendemain de l’expiration de la période de livraison et se terminant à la date de l’acceptation et de la réception par le titulaire de licence de la quantité totale de grain indiquée au contrat ou à toute autre date convenue entre le producteur et le titulaire de licence,
+		- **(ii)** soit une somme forfaitaire;
+	- **b)** est due à l’égard de la portion restante et non livrée du grain visé par le contrat mais qui n’a pas été accepté par le titulaire de licence au cours de la période de livraison;
+	- **c)** est exigible à la date de la livraison complète du grain par le producteur ou à toute autre date convenue entre le producteur et le titulaire de licence.
+> DORS/2014-191, art. 1.
+
+
+
+
+
 **PARTIE 5** 
 ## Installations, négociants en grains et manutention du grain
 
@@ -1310,20 +1336,29 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Blé roux de printemps, Ouest canadien (CWRS)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
+<th>Blé d’autres classes ou variétés</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th>Variété</th>
 <th>Pourcentage minimum de grains vitreux durs</th>
 <th>Pourcentage minimum de protéines</th>
 <th>Condition</th>
-<th>Matières étrangères</th>
-<th>Blé d’autres classes ou variétés</th>
-</tr>
-<tr>
 <th>Matières autres que des céréales</th>
 <th>Total</th>
 <th>Classes contrastantes</th>
@@ -1331,6 +1366,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <th>kg/hl</th>
+<th>%</th>
+<th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1367,18 +1404,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>Aucun minimum</td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,5</td>
-<td>2,4</td>
-<td>3,8</td>
-<td>7,5</td>
-</tr>
-<tr>
-<td>CWRS n<sup>o</sup> 4</td>
-<td>68</td>
-<td>Toute variété de la classe CWRS désignée comme telle par arrêté de la Commission</td>
-<td>Aucun minimum</td>
-<td>Aucun minimum</td>
-<td>Peut être fortement atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt d’autres grains fortement endommagés</td>
 <td>0,5</td>
 <td>2,4</td>
 <td>3,8</td>
@@ -1792,24 +1817,24 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <th>Variété</th>
-<th>Fusariés%
-
-</th>
-<th>Échauffés%
-
-</th>
-<th>Gelée%
-
-</th>
+<th></th>
+<th></th>
+<th></th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
-<th>Graines inséparables%
-
-</th>
-<th>Grosses graines oléagineuses%
-
-</th>
+<th>Fusariés</th>
+<th>Échauffés</th>
+<th>Gelée</th>
+<th>Graines inséparables</th>
+<th>Grosses graines oléagineuses</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Brassicole, extra OC à deux rangs</td>
@@ -1855,27 +1880,26 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Orge à des fins générales, Ouest canadien (OC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
-<th>Poids spécifique minimumkg/hl
-
-</th>
+<th>Poids spécifique minimum</th>
+<th></th>
+<th>Graines inséparables</th>
+<th>Autres céréales</th>
+<th>Folle avoine</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>kg/hl</th>
 <th>Condition</th>
-<th>Graines inséparables%
-
-</th>
-<th>Autres céréales%
-
-</th>
-<th>Folle avoine%
-
-</th>
-<th>Total%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>OC n<sup>o</sup> 1</td>
@@ -1919,29 +1943,26 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <table>
 <h4>Orge alimentaire, Ouest canadien (OC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
-<th>Variétés avec glumes adhérées%
-
-</th>
-<th>Autres variétés à grains nus%
-
-</th>
-<th>Total, glumes adhérées%
-
-</th>
-<th>Graines inséparables%
-
-</th>
-<th>Autres céréales%
-
-</th>
-<th>Total%
-
-</th>
+<th>Variétés avec glumes adhérées</th>
+<th>Autres variétés à grains nus</th>
+<th>Total, glumes adhérées</th>
+<th>Graines inséparables</th>
+<th>Autres céréales</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Alimentaire, extra OC à deux rangs</td>
@@ -2097,11 +2118,14 @@ TABLEAU 13
 <table>
 <h4>Grain mélangé, Ouest canadien (OC)</h4>
 <tr>
+<th></th>
+<th></th>
+<th>Limites maximales de matières étrangères</th>
+</tr>
+<tr>
 <th>Nom de grade</th>
 <th>Composition</th>
-<th>Limites maximales de matières étrangères%
-
-</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Grain mélangé, blé OC</td>
@@ -2726,9 +2750,6 @@ TABLEAU 13
 <td>1,5</td>
 <td>5</td>
 <td>8,5</td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
@@ -3394,9 +3415,6 @@ TABLEAU 13
 <td>1</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>Couleur raisonnablement bonne</td>
 <td>3</td>
@@ -3626,50 +3644,43 @@ TABLEAU 13
 <table>
 <h4>Lentilles rouges, Canada (Can)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
 </tr>
 <tr>
 <th>Condition</th>
-<th>Classes contrastantes%
-
-</th>
+<th>Classes contrastantes</th>
 <th>Dommages</th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
 <th></th>
-<th>Cuivrées%
-
-</th>
-<th>Total cuivrées, y compris lentilles délavées%
-
-</th>
-<th>Échauffées%
-
-</th>
-<th>Pelées, fendues et cassées%
-
-</th>
-<th>Autres dommages%
-
-</th>
-<th>Total%
-
-</th>
-<th>Ridées%
-
-</th>
-<th>Total, dommages, y compris lentilles ridées%
-
-</th>
-<th>Pierres%
-
-</th>
-<th>Total%
-
-</th>
+<th>Cuivrées</th>
+<th>Total cuivrées, y compris lentilles délavées</th>
+<th>Échauffées</th>
+<th>Pelées, fendues et cassées</th>
+<th>Autres dommages</th>
+<th>Total</th>
+<th>Ridées</th>
+<th>Total, dommages, y compris lentilles ridées</th>
+<th>Pierres</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th></th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Rouge Canada n<sup>o</sup> 1</td>
@@ -4243,24 +4254,24 @@ TABLEAU 13
 </tr>
 <tr>
 <th>Variété</th>
-<th>Fusariés%
-
-</th>
-<th>Échauffés%
-
-</th>
-<th>Gelée%
-
-</th>
+<th></th>
+<th></th>
+<th></th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
-<th>Graines inséparables%
-
-</th>
-<th>Grosses graines oléagineuses%
-
-</th>
+<th>Fusariés</th>
+<th>Échauffés</th>
+<th>Gelée</th>
+<th>Graines inséparables</th>
+<th>Grosses graines oléagineuses</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Brassicole, extra EC à deux rangs</td>
@@ -4306,27 +4317,26 @@ TABLEAU 13
 <table>
 <h4>Orge à des fins générales, Est canadien (EC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
-<th>Poids spécifique minimumkg/hl
-
-</th>
+<th>Poids spécifique minimum</th>
+<th></th>
+<th>Graines inséparables</th>
+<th>Autres céréales</th>
+<th>Folle avoine</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>kg/hl</th>
 <th>Condition</th>
-<th>Graines inséparables%
-
-</th>
-<th>Autres céréales%
-
-</th>
-<th>Folle avoine%
-
-</th>
-<th>Total%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>EC n<sup>o</sup> 1</td>
@@ -4370,29 +4380,26 @@ TABLEAU 13
 <table>
 <h4>Orge alimentaire, Est canadien (EC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
-<th>Variétés avec glumes adhérées%
-
-</th>
-<th>Autres variétés à grains nus%
-
-</th>
-<th>Total, glumes adhérées%
-
-</th>
-<th>Graines inséparables%
-
-</th>
-<th>Autres céréales%
-
-</th>
-<th>Total%
-
-</th>
+<th>Variétés avec glumes adhérées</th>
+<th>Autres variétés à grains nus</th>
+<th>Total, glumes adhérées</th>
+<th>Graines inséparables</th>
+<th>Autres céréales</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Alimentaire, extra EC à deux rangs</td>
@@ -4438,7 +4445,7 @@ TABLEAU 13
 <table>
 <h4>Seigle, Est canadien (EC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th>Nom de grade</th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
@@ -4490,7 +4497,7 @@ TABLEAU 13
 <table>
 <h4>Graine de lin, Est canadien (EC)</h4>
 <tr>
-<th>Nom de grade</th>
+<th>Nom de grade</th>
 <th>Norme de qualité</th>
 <th>Norme de propreté</th>
 <th>Dommages maximums</th>
@@ -4547,9 +4554,10 @@ TABLEAU 13
 <th>Limites maximales</th>
 </tr>
 <tr>
-<th>Matières étrangères%
-
-</th>
+<th>Matières étrangères</th>
+</tr>
+<tr>
+<th>%</th>
 </tr>
 <tr>
 <td>Grain mélangé, blé EC</td>
@@ -4712,54 +4720,12 @@ TABLEAU 13
 </tr>
 </table>
 
-#### TABLEAU 54
-<table>
-<h4>Orge expérimentale, Ouest canadien (OC EXPRMTL)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales de matières étrangères</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Pourcentage minimum de la variété désignée</th>
-<th>Condition</th>
-<th>Graines inséparables</th>
-<th>Autres céréales</th>
-<th>Folle avoine</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>Expérimental OC n<sup>o</sup> 1</td>
-<td>62</td>
-<td>Toute variété de la classe d’orge expérimentale, Ouest canadien désignée comme telle par arrêté de la Commission</td>
-<td>95</td>
-<td>Presque saine, raisonnablement bien mûrie, peut contenir des grains légèrement abîmés par les intempéries, non fortement tachés ou décolorés</td>
-<td>0,2</td>
-<td>1</td>
-<td>0,5</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Expérimental OC n<sup>o</sup> 2</td>
-<td>60</td>
-<td>Toute variété de la classe d’orge expérimentale, Ouest canadien désignée comme telle par arrêté de la Commission</td>
-<td>90</td>
-<td>Raisonnablement saine, passablement bien mûrie, peut contenir des grains modérément abîmés par les intempéries, non fortement décolorés</td>
-<td>0,2</td>
-<td>3</td>
-<td>1</td>
-<td>3</td>
-</tr>
-</table>
+TABLEAU 54
+
+[Abrogé, DORS/2014-150, art. 3]
+
+
+
 
 #### TABLEAU 55
 <table>
@@ -4840,12 +4806,13 @@ TABLEAU 13
 <table>
 <h4>Blé de force blanc de printemps, Ouest canadien (CWHWS)</h4>
 <tr>
-<th>Nom de grade</th>
+<th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
-<th>Poids spécifique minimum</th>
+<th>Nom de grade</th>
+<th>Poids spécifique minimum </th>
 <th>Variété</th>
 <th>Pourcentage minimum de protéines</th>
 <th>Condition</th>
@@ -4864,6 +4831,7 @@ TABLEAU 13
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CWHWS n<sup>o</sup> 1</td>
@@ -4871,10 +4839,10 @@ TABLEAU 13
 <td>Toute variété de la classe CWHWS désignée comme telle par arrêté de la Commission</td>
 <td>10</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
-<td>0,01</td>
+<td>0,04</td>
 <td>0,01</td>
 <td>0,2</td>
-<td>0,01</td>
+<td>0,04</td>
 <td>0,03</td>
 <td>0,6</td>
 </tr>
@@ -4884,10 +4852,10 @@ TABLEAU 13
 <td>Toute variété de la classe CWHWS désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
-<td>0,02</td>
+<td>0,04</td>
 <td>0,01</td>
 <td>0,3</td>
-<td>0,02</td>
+<td>0,04</td>
 <td>0,03</td>
 <td>1,2</td>
 </tr>
@@ -4897,19 +4865,6 @@ TABLEAU 13
 <td>Toute variété de la classe CWHWS désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
-<td>0,04</td>
-<td>0,015</td>
-<td>0,5</td>
-<td>0,04</td>
-<td>0,06</td>
-<td>2,4</td>
-</tr>
-<tr>
-<td>CWHWS n<sup>o</sup> 4</td>
-<td>68</td>
-<td>Toute variété de la classe CWHWS désignée comme telle par arrêté de la Commission</td>
-<td>Aucun minimum</td>
-<td>Peut être fortement atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt d’autres grains fortement endommagés</td>
 <td>0,04</td>
 <td>0,015</td>
 <td>0,5</td>
@@ -5006,7 +4961,7 @@ TABLEAU 13
 <td>65</td>
 <td>Toute variété de la classe de blé à des fins générales désignée comme telle par arrêté de la Commission</td>
 <td>2,5</td>
-<td>5</td>
+<td>4</td>
 <td>0,03</td>
 <td>10</td>
 </tr>
@@ -5066,7 +5021,7 @@ TABLEAU 13
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 2.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1.
 
 
 
