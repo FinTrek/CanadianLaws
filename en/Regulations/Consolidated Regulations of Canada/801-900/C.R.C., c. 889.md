@@ -437,6 +437,32 @@ Enabling authorities:
 
 
 
+**PART 4.1** 
+## Grain Delivery Contracts
+
+
+**29.2** In this Part, ***delivery period*** means, in relation to a contract for the purchase of grain, the period specified in the contract during which grain is to be delivered by the producer to the licensee. (*période de livraison*)
+> SOR/2014-191, s. 1.
+
+
+
+
+**29.3** 
+
+- **(1)** Any contract between a producer and a licensee for the purchase of grain within a delivery period must include a provision stating that, in the event that delivery of the kind and grade of grain indicated in the contract is not accepted by the licensee during the delivery period, a penalty is to be paid by the licensee to the producer.
+
+- **(2)** The contract must also include provisions stating that the penalty
+	- **(a)** is agreed on by the producer and the licensee in the contract and is either
+		- **(i)** based on a daily amount, in which case it is payable for each day during the period beginning on the first day after the day on which the delivery period expires and ending on the day on which the total amount of grain specified in the contract is accepted and received by the licensee, or on another day otherwise agreed upon by the producer and the licensee; or
+		- **(ii)** a lump sum;
+	- **(b)** applies to the remaining undelivered portion of grain that was contracted for but that was not accepted by the licensee during the delivery period; and
+	- **(c)** is payable either at the time that the delivery of grain is completed by the producer or on another day otherwise agreed on by the producer and the licensee.
+> SOR/2014-191, s. 1.
+
+
+
+
+
 **PART 5** 
 ## Elevators, Grain Dealers and Grain Handling
 
@@ -1374,18 +1400,6 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>3.8</td>
 <td>7.5</td>
 </tr>
-<tr>
-<td>No. 4 CWRS</td>
-<td>68</td>
-<td>Any variety of the class CWRS designated as such by order of the Commission</td>
-<td>No minimum</td>
-<td>No minimum</td>
-<td>May be severely frost-damaged, immature or weather-damaged, moderately free from other severely damaged kernels</td>
-<td>0.5</td>
-<td>2.4</td>
-<td>3.8</td>
-<td>7.5</td>
-</tr>
 </table>
 
 #### TABLE 2
@@ -1397,7 +1411,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of</th>
 </tr>
 <tr>
-<th>Minimum Test Weight kg/hL</th>
+<th></th>
 <th>Variety</th>
 <th>Minimum Protein</th>
 <th>Degree of Soundness</th>
@@ -1405,12 +1419,14 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
+<th>Minimum Test Weight</th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classess</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>kg/hL</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1797,21 +1813,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>Variety</th>
-<th>Fusarium%
-
-</th>
-<th>Heated%
-
-</th>
-<th>Frost%
-
-</th>
-<th>Inseparable Seeds%
-
-</th>
-<th>Large Oil-bearing Seeds%
-
-</th>
+<th>Fusarium</th>
+<th>Heated</th>
+<th>Frost</th>
+<th>Inseparable Seeds</th>
+<th>Large Oil-bearing Seeds</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select Malting CW Two-row</td>
@@ -1862,22 +1875,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds%
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Wild Oats%
-
-</th>
-<th>Total%
-
-</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
@@ -1926,24 +1936,20 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Varieties with Adhered Hulls%
-
-</th>
-<th>Other Hulless Varieties%
-
-</th>
-<th>Total Adhered Hulls%
-
-</th>
-<th>Inseparable Seeds%
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Total%
-
-</th>
+<th>Varieties with Adhered Hulls</th>
+<th>Other Hulless Varieties</th>
+<th>Total Adhered Hulls</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select Food CW Two-row</td>
@@ -2102,9 +2108,10 @@ TABLE 13
 <tr>
 <th>Grade Name</th>
 <th>Composition</th>
-<th>Maximum Limits of Foreign Material%
-
-</th>
+<th>Maximum Limits of Foreign Material</th>
+</tr>
+<tr>
+<th>%</th>
 </tr>
 <tr>
 <td>Mixed Grain, CW Wheat</td>
@@ -3626,44 +3633,36 @@ TABLE 13
 </tr>
 <tr>
 <th>Degree of Soundness</th>
-<th>Contrasting Classes%
-
-</th>
+<th>Contrasting Classes</th>
 <th>Damage</th>
 <th>Foreign Material</th>
 </tr>
 <tr>
 <th></th>
-<th>Copper%
-
-</th>
-<th>Total copper including bleach%
-
-</th>
-<th>Heated%
-
-</th>
-<th>Peeled, Split and Broken%
-
-</th>
-<th>Other Damage%
-
-</th>
-<th>Total%
-
-</th>
-<th>Wrinkled%
-
-</th>
-<th>Total Damage Including Wrinkled%
-
-</th>
-<th>Stones%
-
-</th>
-<th>Total%
-
-</th>
+<th>Copper</th>
+<th>Total copper including bleach</th>
+<th>Heated</th>
+<th>Peeled, Split and Broken</th>
+<th>Other Damage</th>
+<th>Total</th>
+<th>Wrinkled</th>
+<th>Total Damage Including Wrinkled</th>
+<th>Stones</th>
+<th>Total</th>
+</tr>
+<tr>
+<th></th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada Red</td>
@@ -4236,24 +4235,24 @@ TABLE 13
 </tr>
 <tr>
 <th>Variety</th>
-<th>Fusarium%
-
-</th>
-<th>Heated%
-
-</th>
-<th>Frost%
-
-</th>
+<th></th>
+<th></th>
+<th></th>
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Inseparable Seeds%
-
-</th>
-<th>Large Oil-bearing Seeds%
-
-</th>
+<th>Fusarium</th>
+<th>Heated</th>
+<th>Frost</th>
+<th>Inseparable Seeds</th>
+<th>Large Oil-bearing Seeds</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select Malting CE Two-row</td>
@@ -4304,22 +4303,20 @@ TABLE 13
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds%
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Wild Oats%
-
-</th>
-<th>Total%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
@@ -4368,24 +4365,20 @@ TABLE 13
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Varieties with Adhered Hulls%
-
-</th>
-<th>Other Hulless Varieties%
-
-</th>
-<th>Total Adhered Hulls%
-
-</th>
-<th>Inseparable Seeds%
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Total%
-
-</th>
+<th>Varieties with Adhered Hulls</th>
+<th>Other Hulless Varieties</th>
+<th>Total Adhered Hulls</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select Food CE Two-row</td>
@@ -4537,12 +4530,10 @@ TABLE 13
 <tr>
 <th>Grade Name</th>
 <th>Composition</th>
-<th>Maximum Limits of</th>
+<th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Foreign Material%
-
-</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Mixed Grain, CE Wheat</td>
@@ -4709,54 +4700,12 @@ TABLE 13
 </tr>
 </table>
 
-#### TABLE 54
-<table>
-<h4>Barley, Canada Western Experimental (CW EXPRMTL)</h4>
-<tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
-<th>Maximum Limits of Foreign Material</th>
-</tr>
-<tr>
-<th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Minimum Designated Variety</th>
-<th>Degree of Soundness</th>
-<th>Inseparable Seeds</th>
-<th>Other Cereal Grains</th>
-<th>Wild Oats</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hL</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>No. 1 CW EXPRMTL</td>
-<td>62</td>
-<td>Any variety of barley of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>95</td>
-<td>Practically sound, reasonably well matured, may contain slightly weather-damaged, not badly stained or discoloured kernels</td>
-<td>0.2</td>
-<td>1</td>
-<td>0.5</td>
-<td>1</td>
-</tr>
-<tr>
-<td>No. 2 CW EXPRMTL</td>
-<td>60</td>
-<td>Any variety of barley of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>90</td>
-<td>Reasonably sound, fairly well matured, may contain moderately weather-damaged, not severely discoloured kernels</td>
-<td>0.2</td>
-<td>3</td>
-<td>1</td>
-<td>3</td>
-</tr>
-</table>
+TABLE 54
+
+[Repealed, SOR/2014-150, s. 3]
+
+
+
 
 #### TABLE 55
 <table>
@@ -4838,12 +4787,15 @@ TABLE 13
 <table>
 <h4>Wheat, Canada Western Hard White Spring (CWHWS)</h4>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Standard of Quality</th>
+<th></th>
+<th></th>
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Minimum Test Weight</th>
+<th>Grade Name</th>
+<th>Minimum Test Weight kg/hL</th>
 <th>Variety</th>
 <th>Minimum Protein</th>
 <th>Degree of Soundness</th>
@@ -4855,7 +4807,6 @@ TABLE 13
 <th>Total</th>
 </tr>
 <tr>
-<th>kg/hL</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4870,10 +4821,10 @@ TABLE 13
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
 <td>10</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>0.01</td>
+<td>0.04</td>
 <td>0.01</td>
 <td>0.2</td>
-<td>0.01</td>
+<td>0.04</td>
 <td>0.03</td>
 <td>0.6</td>
 </tr>
@@ -4883,10 +4834,10 @@ TABLE 13
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
-<td>0.02</td>
+<td>0.04</td>
 <td>0.01</td>
 <td>0.3</td>
-<td>0.02</td>
+<td>0.04</td>
 <td>0.03</td>
 <td>1.2</td>
 </tr>
@@ -4896,19 +4847,6 @@ TABLE 13
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
-<td>0.04</td>
-<td>0.015</td>
-<td>0.5</td>
-<td>0.04</td>
-<td>0.06</td>
-<td>2.4</td>
-</tr>
-<tr>
-<td>No. 4 CWHWS</td>
-<td>68</td>
-<td>Any variety of the class CWHWS designated as such by order of the Commission</td>
-<td>No minimum</td>
-<td>May be severely frost-damaged, immature or weather-damaged, moderately free from other severely damaged kernels</td>
 <td>0.04</td>
 <td>0.015</td>
 <td>0.5</td>
@@ -5005,7 +4943,7 @@ TABLE 13
 <td>65</td>
 <td>Any variety of the class General Purpose designated as such by order of the Commission</td>
 <td>2.5</td>
-<td>5</td>
+<td>4</td>
 <td>0.03</td>
 <td>10</td>
 </tr>
@@ -5065,7 +5003,7 @@ TABLE 13
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, s. 2.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8; SOR/2010-160, ss. 1, 2; SOR/2011-123, ss. 1, 2; SOR/2012-38, s. 1; SOR/2012-137, ss. 1 to 3; SOR/2013-145, s. 1; SOR/2014-150, ss. 1 to 4; SOR/2014-194, s. 1.
 
 
 
