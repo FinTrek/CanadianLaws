@@ -458,6 +458,10 @@ but does not include
 
 ***meat product extender*** means a food that is a source of protein and that is represented as being for the purpose of extending meat products; (*allongeur de produit de viande*)
 
+***mechanically tenderized beef*** means uncooked solid cut beef that is prepared in either of the following ways:
+- **(a)** the integrity of the surface of the beef is compromised by being pierced by blades, needles or other similar instruments; or
+- **(b)** the beef is injected with a marinade or other tenderizing solution. (*boeuf attendri mécaniquement*)
+
 ***monounsaturated fatty acids***, ***monounsaturated fat***, ***monounsaturates*** or ***monounsaturated*** means *cis*-monounsaturated fatty acids; (*acides gras monoinsaturés*, *graisses monoinsaturées*, *gras monoinsaturés*, *lipides monoinsaturés*ou*monoinsaturés*)
 
 ***nutritional supplement*** means a food sold or represented as a supplement to a diet that may be inadequate in energy and essential nutrients; (*supplément nutritif*)
@@ -544,7 +548,7 @@ but does not include
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1.
 
 
 
@@ -12125,6 +12129,24 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 - **(2)** A bone or a visible fat layer shall not be included in any calculation used to determine meat protein content for the purposes of paragraph (1)(a).
 > SOR/94-262, s. 3.
+
+
+
+
+**B.14.022** No person shall sell mechanically tenderized beef unless
+- **(a)** the beef is identified as mechanically tenderized when it is offered or exposed for sale; and
+- **(b)** the beef has a label on it with a principal display panel that, subject to section B.01.012, includes all of the following information:
+	- **(i)** in type at least as legible and prominent as that of the common name,
+		- **(A)** the expression “mechanically tenderized” in the English version of the label, and
+		- **(B)** the expression “*attendri mécaniquement*”, with any necessary grammatical modifications, in the French version of the label, and
+	- **(ii)** in type at least as legible and prominent as that of any other information other than the common name,
+		- **(A)** in the English version of the label,
+			- **(I)** the message “Cook to a minimum internal temperature of 63°C (145°F).”, and
+			- **(II)** in the case of steak, the additional message “Turn steak over at least twice during cooking.”, and
+		- **(B)** in the French version of the label,
+			- **(I)** the message “*Faire cuire jusqu’à ce que la température interne atteigne au moins 63 °C (145 °F).*”, and
+			- **(II)** in the case of steak, the additional message “*Retourner le bifteck au moins deux fois durant la cuisson.*”.
+> SOR/2014-99, s. 2.
 
 
 
@@ -24461,7 +24483,7 @@ and only the L forms of the amino acids have been added.
 
 
 
-####  Records
+#### Records
 
 
 **B.26.004** 
