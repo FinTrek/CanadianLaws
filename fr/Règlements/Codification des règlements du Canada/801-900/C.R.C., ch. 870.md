@@ -442,6 +442,10 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***à proximité***, appliqué au nom usuel, signifie adjacent au nom usuel sans qu’aucun texte imprimé ou écrit, ni aucun signe graphique, ne soit intercalé entre les deux; (*close proximity*)
 
+***boeuf attendri mécaniquement*** Boeuf coupé solide non cuit conditionné de l’une des façons suivantes :
+- **a)** sa surface est affaiblie du fait qu’elle est perforée par des lames, des aiguilles ou tout autre instrument similaire;
+- **b)** une marinade ou toute autre solution attendrissante y est injectée. (*mechanically tenderized beef*)
+
 ***colorant alimentaire*** désigne les matières colorantes que le titre 6 permet d’employer dans ou sur les produits alimentaires; (*food colour*)
 
 ***constituant*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire individuel, à une ou plusieurs autres unités alimentaires pour former un ingrédient; (*component*)
@@ -544,7 +548,7 @@ Sont toutefois exclus :
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1.
 
 
 
@@ -12127,6 +12131,24 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 - **(2)** Aux fins du calcul de la teneur en protéines de viande visée à l’alinéa (1)a), les os et les couches de gras visible ne doivent pas être pris en compte.
 > DORS/94-262, art. 3.
+
+
+
+
+**B.14.022** Est interdite la vente de boeuf attendri mécaniquement à moins que les conditions ci-après ne soient réunies :
+- **a)** le boeuf est identifié comme tel lorsqu’il est offert ou exposé en vente;
+- **b)** il porte une étiquette ayant un espace principal qui, sous réserve de l’article B.01.012, contient les renseignements suivants :
+	- **(i)** en caractères au moins aussi lisibles et en évidence que ceux du nom usuel :
+		- **(A)** pour ce qui est de la version française de l’étiquette, les mots « attendri mécaniquement », avec les adaptations nécessaires, le cas échéant,
+		- **(B)** pour ce qui est de la version anglaise de l’étiquette, les mots « *mechanically tenderized* »,
+	- **(ii)** en caractères au moins aussi lisibles et en évidence que ceux de tout autre renseignement autre que le nom usuel :
+		- **(A)** pour ce qui est de la version française de l’étiquette, les mentions ci-après :
+			- **(I)** « Faire cuire jusqu’à ce que la température interne atteigne au moins 63 °C (145 °F). »,
+			- **(II)** en outre, s’agissant de bifteck, « Retourner le bifteck au moins deux fois durant la cuisson. »,
+		- **(B)** pour ce qui est de la version anglaise de l’étiquette, les mentions ci-après :
+			- **(I)** « *Cook to a minimum internal temperature of 63°C (145°F).* »,
+			- **(II)** en outre, s’agissant de bifteck, « *Turn steak over at least twice during cooking.* ».
+> DORS/2014-99, art. 2.
 
 
 
