@@ -178,7 +178,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(2)** Le Musée canadien de l’histoire ne peut disposer de ses biens qu’aux conditions fixées pour leur acquisition ou détention.
-> 1990, ch. 3, art. 9; 2013, ch. 38, art. 2.
+
+**Soutien**
+
+- **(3)** Le Musée canadien de l’histoire peut fournir du soutien aux autres musées ou à des organismes à vocation complémentaire à la sienne en administrant des programmes qui visent :
+	- **a)** à fournir du contenu en ligne;
+	- **b)** à soutenir l’élaboration d’un tel contenu, notamment par l’octroi d’aide financière.
+> 1990, ch. 3, art. 9; 2013, ch. 38, art. 2; 2014, ch. 20, art. 193.
 
 
 
