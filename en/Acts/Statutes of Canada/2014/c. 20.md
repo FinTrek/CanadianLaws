@@ -1291,7 +1291,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind228E_hq_14282'>[*]</a></sup>**205** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind228E_hq_14282'><sup>*</sup></a>: [Note: Division 11 not in force.]<br />
+<a name='fn_Ind228E_hq_14282'><sup>*</sup></a>: [Note: Sections 193 to 199 in force August 29, 2014, *see* SI/2014-72.]<br />
 
 
 
