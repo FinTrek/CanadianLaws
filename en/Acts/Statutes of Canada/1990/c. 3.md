@@ -178,7 +178,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(2)** The Canadian Museum of History may deal with property only in accordance with the terms on which it was acquired or is held.
-> 1990, c. 3, s. 9; 2013, c. 38, s. 2.
+
+**Support**
+
+- **(3)** The Canadian Museum of History may support other museums or organizations that have a purpose that is complementary to its own by administering programs that
+	- **(a)** provide online content; and
+	- **(b)** support the development of online content, including by providing financial assistance.
+> 1990, c. 3, s. 9; 2013, c. 38, s. 2; 2014, c. 20, s. 193.
 
 
 
