@@ -2289,6 +2289,9 @@ Beecher Bay
 Bingwi Neyaashi Anishinaabek
 
 
+Première Nation Black River
+
+
 Nation Brokenhead Ojibway
 
 
@@ -2358,6 +2361,9 @@ Première nation Gitsegukla
 Première Nation Gitwangak
 
 
+Première Nation Halalt
+
+
 Heiltsuk
 
 
@@ -2406,6 +2412,9 @@ Bande indienne Lower Nicola
 Première Nation Madawaska Maliseet
 
 
+Première Nation Malahat
+
+
 Première nation Matsqui
 
 
@@ -2428,6 +2437,9 @@ Mistawasis
 
 
 Mohawks of Akwesasne
+
+
+Mohawks of the Bay of Quinte
 
 
 Bande indienne Moricetown
@@ -2466,6 +2478,9 @@ Nation crie Norway House
 Obashkaandagaang
 
 
+Ochapowace
+
+
 Nation crie Onion Lake
 
 
@@ -2490,16 +2505,40 @@ Bande indienne Penticton
 Nation crie Peter Ballantyne
 
 
+Peters
+
+
+Première Nation Pictou Landing
+
+
 Première nation Popkum
 
 
 Première Nation Red Sucker Lake
 
 
+Première Nation Rolling River
+
+
+Première Nation Saik’uz
+
+
+Saugeen
+
+
+Premières Nations Saulteau
+
+
 Première nation Saulteaux
 
 
+Scowlitz
+
+
 Bande Seabird Island
+
+
+Première Nation Semiahmoo
 
 
 Première Nation Serpent River
@@ -2601,6 +2640,9 @@ Première nation Tsawout
 Première nation Tseycum
 
 
+Première Nation Ts’kw’aylaxw
+
+
 Tsleil-Waututh Nation
 
 
@@ -2640,6 +2682,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208.
 
 
