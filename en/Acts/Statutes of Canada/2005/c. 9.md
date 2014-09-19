@@ -2292,6 +2292,9 @@ Beecher Bay
 Bingwi Neyaashi Anishinaabek
 
 
+Black River First Nation
+
+
 Brokenhead Ojibway Nation
 
 
@@ -2361,6 +2364,9 @@ Gitsegukla First Nation
 Gitwangak First Nation
 
 
+Halalt First Nation
+
+
 Heiltsuk
 
 
@@ -2409,6 +2415,9 @@ Lower Nicola Indian Band
 Madawaska Maliseet First Nation
 
 
+Malahat First Nation
+
+
 Matsqui First Nation
 
 
@@ -2431,6 +2440,9 @@ Mistawasis
 
 
 Mohawks of Akwesasne
+
+
+Mohawks of the Bay of Quinte
 
 
 Moricetown Indian Band
@@ -2469,6 +2481,9 @@ Norway House Cree Nation
 Obashkaandagaang
 
 
+Ochapowace
+
+
 Onion Lake Cree Nation
 
 
@@ -2493,16 +2508,40 @@ Penticton Indian Band
 Peter Ballantyne Cree Nation
 
 
+Peters
+
+
+Pictou Landing First Nation
+
+
 Popkum First Nation
 
 
 Red Sucker Lake First Nation
 
 
+Rolling River First Nation
+
+
+Saik’uz First Nation
+
+
+Saugeen
+
+
+Saulteau First Nations
+
+
 Saulteaux First Nation
 
 
+Scowlitz
+
+
 Seabird Island Band
+
+
+Semiahmoo First Nation
 
 
 Serpent River First Nation
@@ -2604,6 +2643,9 @@ Tsawout First Nation
 Tseycum First Nation
 
 
+Ts’kw’aylaxw First Nation
+
+
 Tsleil-Waututh Nation
 
 
@@ -2643,6 +2685,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208.
 
 
