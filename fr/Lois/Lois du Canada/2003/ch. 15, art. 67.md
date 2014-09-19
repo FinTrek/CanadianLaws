@@ -1065,6 +1065,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Splatsin
+
+</td>
+<td>Conseil de Splatsin
+
+</td>
+<td>Réserves de Splatsin
+
+</td>
+</tr>
+<tr>
 <td>St. Mary’s
 
 </td>
@@ -1209,7 +1220,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209.
 
 
 
