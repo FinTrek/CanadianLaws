@@ -3007,15 +3007,15 @@ but does not include
 
 
 
-**Minister may issue permit**
+**Permit**
 
 **127** 
 
-- **(1)** The Minister may, on application, issue permits authorizing the loading for disposal and disposal of waste or other matter.
+- **(1)** The Minister may, on application, issue a permit authorizing the loading for disposal and disposal of waste or other matter and, subject to the regulations, renew it no more than four times.
 
 **Application**
 
-- **(2)** An application for a permit must
+- **(2)** The application must
 	- **(a)** be in the prescribed form;
 	- **(b)** contain the information that may be prescribed or that may be required by the Minister for the purpose of complying with Schedule 6;
 	- **(c)** be accompanied by the prescribed fees; and
@@ -3023,7 +3023,9 @@ but does not include
 
 **Factors for consideration**
 
-- **(3)** Before issuing a permit under subsection (1), the Minister shall comply with Schedule 6 and shall take into account any factors that the Minister considers necessary.
+- **(3)** Before issuing a permit under subsection (1) or renewing it, the Minister shall comply with Schedule 6 and shall take into account any factors that the Minister considers necessary.
+> 1999, c. 33, s. 127; 2012, c. 19, s. 157.
+
 
 
 
@@ -3082,11 +3084,13 @@ but does not include
 
 **Duration of permit**
 
-- **(2)** A Canadian permit shall specify that it is valid for a particular date or dates or for a particular period that shall not exceed one year.
+- **(2)** A Canadian permit shall specify that it is valid for a particular date or dates or for a particular period that shall not exceed one year. For greater certainty, this subsection applies to each renewal of a permit issued under subsection 127(1).
 
 **Powers to suspend, revoke or vary permit**
 
 - **(3)** The Minister may suspend or revoke a Canadian permit or vary its conditions where, having regard to Schedule 6 or the establishment of, or any report of, a board of review under section 333, the Minister considers it advisable to do so.
+> 1999, c. 33, s. 129; 2012, c. 19, s. 158.
+
 
 
 
@@ -3147,13 +3151,13 @@ but does not include
 
 **133** 
 
-- **(1)** When issuing a Canadian permit or varying any of its conditions, the Minister shall publish the text of the permit or the varied condition, as the case may be, in the Environmental Registry.
+- **(1)** When issuing a Canadian permit or varying any of its conditions or renewing a permit issued under subsection 127(1), the Minister shall publish the text of the permit, the varied condition or the renewed permit, as the case may be, in the Environmental Registry.
 
 **Publication before disposal or loading**
 
 - **(2)** Publication under subsection (1) shall be made
 	- **(a)** in the case of a permit issued under subsection 128(2), as soon as possible after the permit is issued; and
-	- **(b)** in every other case, at least seven days before the effective date of the permit or of the variation of its conditions.
+	- **(b)** in every other case, at least seven days before the effective date of the permit, the variation of its conditions or its renewal.
 > 1999, c. 33, s. 133; 2012, c. 19, s. 159.
 
 
@@ -3169,14 +3173,15 @@ but does not include
 **134** 
 
 - **(1)** Any person may file with the Minister a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection, if the Minister
-	- **(a)** issues or refuses a Canadian permit; or
+	- **(a)** issues or refuses a Canadian permit;
+	- **(a.1)** renews or refuses to renew a permit issued under subsection 127(1); or
 	- **(b)** suspends or revokes a Canadian permit or varies its conditions, otherwise than in accordance with the recommendations of a report of a board of review established under section 333 in respect of the permit.
 
 **Time for filing notice of objection**
 
 - **(2)** The notice of objection shall be filed within seven days after
-	- **(a)** the date the text of the Canadian permit is published in the Environmental Registry; or
-	- **(b)** the date the person received a notice from the Minister that the Canadian permit has been refused, suspended or revoked, or that its conditions have been varied.
+	- **(a)** the date the text of the Canadian permit or the permit renewed under subsection 127(1), as the case may be, is published in the Environmental Registry; or
+	- **(b)** the date the person receives a notice from the Minister that the Canadian permit has been refused, suspended or revoked, that its conditions have been varied or that the renewal of a permit issued under subsection 127(1) has been refused.
 > 1999, c. 33, s. 134; 2012, c. 19, s. 160.
 
 
@@ -3195,6 +3200,7 @@ but does not include
 	- **(a)** for carrying out and giving effect to the provisions of the Convention or the Protocol;
 	- **(b)** defining the expression ***Canadian platform or other structure***;
 	- **(b.1)** respecting time limits for issuing permits under subsection 127(1) or for refusing to issue them, specifying the circumstances under which any of those time limits do not apply and authorizing the Minister to extend any of those time limits or to decide that a time limit does not apply when the Minister considers that it is appropriate to do so;
+	- **(b.2)** respecting the renewal of permits under subsection 127(1), including regulations respecting time limits for renewing them or for refusing to renew them, specifying the circumstances under which any of those time limits do not apply and authorizing the Minister to extend any of those time limits or to decide that a time limit does not apply when the Minister considers that it is appropriate to do so;
 	- **(c)** respecting the report referred to in subsection 130(4);
 	- **(d)** respecting the conduct of sampling, analyses, tests, measurements or monitoring;
 	- **(e)** respecting the conditions, test procedures and laboratory practices to be followed for sampling, analysing, testing, measuring or monitoring;
@@ -3210,7 +3216,7 @@ but does not include
 **Regulations**
 
 - **(3)** The Minister may make regulations
-	- **(a)** prescribing the form of an application for a Canadian permit;
+	- **(a)** prescribing the form of an application for a Canadian permit or for the renewal of a permit issued under subsection 127(1);
 	- **(b)** specifying the information required to be contained in or to accompany an application referred to in paragraph (a);
 	- **(c)** specifying acts or omissions that constitute a disposal for the purposes of paragraph (g) of the definition ***disposal*** in subsection 122(1);
 	- **(d)** specifying, for the purposes of paragraph (h) of the definition ***disposal*** in subsection 122(1), the operations that are deemed to be, or deemed not to be, the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure;
