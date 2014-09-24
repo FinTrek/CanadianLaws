@@ -907,7 +907,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind698B_hq_12864'>[*]</a></sup>**162** Sections 157 and 158 and subsections 159(2) and (4), 160(1), (3) and (4) and 161(2) and (3) come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind698B_hq_12864'><sup>*</sup></a>: [Note: Sections 157 and 158 and subsections 159(2) and (4), 160(1), (3) and (4) and 161(2) and (3) not in force.]<br />
+<a name='fn_Ind698B_hq_12864'><sup>*</sup></a>: [Note: Sections 157 and 158 and subsections 159(2) and (4), 160(1), (3) and (4) and 161(2) and (3) in force September 24, 2014, *see* SI/2014-6.]<br />
 
 
 
