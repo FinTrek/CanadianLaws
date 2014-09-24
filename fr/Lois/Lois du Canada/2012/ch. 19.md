@@ -907,7 +907,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5763_hq_12882'>[*]</a></sup>**162** Les articles 157 et 158 et les paragraphes 159(2) et (4), 160(1), (3) et (4) et 161(2) et (3) entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind5763_hq_12882'><sup>*</sup></a>: [Note : Articles 157 et 158 et paragraphes 159(2) et (4), 160(1), (3) et (4) et 161(2) et (3) non en vigueur.]<br />
+<a name='fn_Ind5763_hq_12882'><sup>*</sup></a>: [Note : Articles 157 et 158 et paragraphes 159(2) et (4), 160(1), (3) et (4) et 161(2) et (3) en vigueur le 24 septembre 2014, *voir* TR/2014-6.]<br />
 
 
 
