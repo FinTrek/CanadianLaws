@@ -2877,23 +2877,25 @@ Sont toutefois exclus :
 
 
 
-**Chargement et immersion**
+**Permis**
 
 **127** 
 
-- **(1)** Le ministre peut, sur demande, délivrer un permis pour le chargement pour immersion et l’immersion de déchets ou autres matières.
+- **(1)** Le ministre peut, sur demande, délivrer un permis pour le chargement pour immersion et l’immersion de déchets ou autres matières et, sous réserve des règlements, le renouveler jusqu’à quatre fois.
 
 **Demande**
 
-- **(2)** La demande :
+- **(2)** La demande :
 	- **a)** est présentée en la forme réglementaire;
 	- **b)** contient les renseignements requis par les règlements ou que peut exiger le ministre en vue de se conformer à l’annexe 6;
 	- **c)** est accompagnée des droits réglementaires;
 	- **d)** comporte la preuve qu’il en a été donné préavis dans un journal circulant près du lieu de chargement ou d’immersion ou dans toute publication requise par le ministre.
 
-**Facteurs relatifs à la délivrance**
+**Facteurs à considérer**
 
-- **(3)** Le ministre ne peut délivrer le permis que s’il se conforme à l’annexe 6 et considère tout facteur qu’il juge utile.
+- **(3)** Le ministre ne peut délivrer ou renouveler le permis que s’il se conforme à l’annexe 6 et considère tout facteur qu’il juge utile.
+> 1999, ch. 33, art. 127; 2012, ch. 19, art. 157.
+
 
 
 
@@ -2939,7 +2941,7 @@ Sont toutefois exclus :
 
 **129** 
 
-- **(1)** Le permis canadien doit être assorti des conditions que le ministre estime nécessaires à la protection du milieu biologique marin ou de la vie humaine ou à toute utilisation légitime de la mer; ces conditions peuvent notamment viser :
+- **(1)** Le permis canadien doit être assorti des conditions que le ministre estime nécessaires à la protection du milieu biologique marin ou de la vie humaine ou à toute utilisation légitime de la mer; ces conditions peuvent notamment viser :
 	- **a)** la nature et la quantité de substances dont le chargement, l’immersion ou l’incinération peuvent être autorisés;
 	- **b)** le mode et la fréquence des immersions ou incinérations, y compris, au besoin, leurs dates;
 	- **c)** le mode de chargement et d’arrimage des substances à immerger ou à incinérer;
@@ -2950,11 +2952,13 @@ Sont toutefois exclus :
 
 **Durée de validité du permis**
 
-- **(2)** Le permis canadien indique la ou les dates pendant lesquelles il est valide ou encore, sa durée de validité, laquelle ne peut dépasser un an.
+- **(2)** Le permis canadien indique la ou les dates pendant lesquelles il est valide ou encore, sa durée de validité, laquelle ne peut dépasser un an. Il est entendu que le présent paragraphe s’applique à chaque renouvellement de permis délivré en vertu du paragraphe 127(1).
 
 **Suspension, retrait ou modification du permis**
 
 - **(3)** S’il l’estime souhaitable, le ministre peut, compte tenu de l’annexe 6, de la constitution de la commission de révision visée à l’article 333 ou de tout rapport de celle-ci, suspendre ou retirer un permis canadien ou en modifier les conditions.
+> 1999, ch. 33, art. 129; 2012, ch. 19, art. 158.
+
 
 
 
@@ -3015,13 +3019,13 @@ Sont toutefois exclus :
 
 **133** 
 
-- **(1)** Lorsqu’il délivre tout permis canadien ou en modifie les conditions, le ministre publie dans le Registre le texte du permis ou des conditions modifiées, selon le cas.
+- **(1)** Lorsqu’il délivre tout permis canadien, en modifie les conditions ou renouvelle le permis délivré en vertu du paragraphe 127(1), le ministre publie dans le Registre le texte du permis délivré ou renouvelé ou des conditions modifiées, selon le cas.
 
 **Moment de la publication**
 
-- **(2)** La publication a lieu :
+- **(2)** La publication a lieu :
 	- **a)** aussitôt que possible après la délivrance du permis visé à au paragraphe 128(2);
-	- **b)** dans les autres cas, au moins sept jours avant la date de prise d’effet du permis ou de la modification de ses conditions.
+	- **b)** dans les autres cas, au moins sept jours avant la date de prise d’effet du permis, de son renouvellement ou de la modification de ses conditions.
 > 1999, ch. 33, art. 133; 2012, ch. 19, art. 159.
 
 
@@ -3036,14 +3040,15 @@ Sont toutefois exclus :
 
 **134** 
 
-- **(1)** Quiconque peut déposer auprès du ministre un avis motivé d’opposition demandant la constitution de la commission de révision prévue à l’article 333 dans les cas suivants :
+- **(1)** Quiconque peut déposer auprès du ministre un avis motivé d’opposition demandant la constitution de la commission de révision prévue à l’article 333 dans les cas suivants :
 	- **a)** le ministre délivre ou refuse le permis canadien;
+	- **a.1)** le ministre renouvelle ou refuse de renouveler le permis délivré en vertu du paragraphe 127(1);
 	- **b)** le ministre suspend ou annule le permis canadien, ou modifie ses conditions, sauf si la mesure donne suite aux recommandations du rapport d’une commission de révision.
 
 **Délai de dépôt**
 
 - **(2)** L’avis d’opposition doit être déposé dans les sept jours suivant :
-	- **a)** la publication du texte du permis canadien dans le Registre;
+	- **a)** la publication dans le Registre du texte du permis canadien ou du permis renouvelé en vertu du paragraphe 127(1);
 	- **b)** la réception par la personne d’un avis du ministre l’informant de la mesure.
 > 1999, ch. 33, art. 134; 2012, ch. 19, art. 160.
 
@@ -3059,10 +3064,11 @@ Sont toutefois exclus :
 
 **135** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement d’application de la présente section et de l’annexe 6, notamment pour :
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement d’application de la présente section et de l’annexe 6, notamment pour :
 	- **a)** mettre en oeuvre la Convention ou le Protocole;
-	- **b)** définir « plate-forme ou autre ouvrage canadiens »;
+	- **b)** définir ***plate-forme ou autre ouvrage canadiens***;
 	- **b.1)** régir les délais à respecter pour délivrer un permis en vertu du paragraphe 127(1) ou refuser de le faire, prévoir les circonstances où l’un ou l’autre de ces délais ne s’applique pas et autoriser le ministre, dans les cas où il l’estime indiqué, à proroger l’un ou l’autre de ces délais ou à décider qu’il ne s’applique pas;
+	- **b.2)** régir le renouvellement des permis en vertu du paragraphe 127(1), notamment régir les délais à respecter pour renouveler de tels permis ou refuser de le faire, prévoir les circonstances où l’un ou l’autre de ces délais ne s’applique pas et autoriser le ministre, dans les cas où il l’estime indiqué, à proroger l’un ou l’autre de ces délais ou à décider qu’il ne s’applique pas;
 	- **c)** régir le rapport visé au paragraphe 130(4);
 	- **d)** régir l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance;
 	- **e)** prévoir les conditions, procédures d’essai et pratiques de laboratoire auxquelles il faut se conformer pour les opérations mentionnées à l’alinéa d);
@@ -3078,7 +3084,7 @@ Sont toutefois exclus :
 **Règlements du ministre**
 
 - **(3)** Le ministre peut, par règlement :
-	- **a)** fixer la forme des demandes de permis canadien;
+	- **a)** fixer la forme des demandes de permis canadien et des demandes de renouvellement des permis délivrés en vertu du paragraphe 127(1);
 	- **b)** préciser les renseignements à fournir ou à joindre à l’égard de ces demandes;
 	- **c)** préciser des faits — actes ou omissions — constituant une immersion pour l’application de l’alinéa g) de la définition de ***immersion*** au paragraphe 122(1);
 	- **d)** préciser, pour l’application de l’alinéa h) de la définition de ***immersion*** au paragraphe 122(1), ce qui est réputé constituer ou ne pas constituer l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage, ou de leur équipement;
