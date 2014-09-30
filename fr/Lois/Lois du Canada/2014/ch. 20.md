@@ -1291,7 +1291,7 @@ où :
 
 <sup><a href='#fn_Ind6B6B_hq_14270'>[*]</a></sup>**205** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind6B6B_hq_14270'><sup>*</sup></a>: [Note : Articles 193 à 199 en vigueur le 29 août 2014, *voir* TR/2014-72.]<br />
+<a name='fn_Ind6B6B_hq_14270'><sup>*</sup></a>: [Note : Articles 193 à 199 en vigueur le 29 août 2014 et articles 200 à 204 en vigueur le 30 septembre 2014, *voir* TR/2014-72.]<br />
 
 
 
