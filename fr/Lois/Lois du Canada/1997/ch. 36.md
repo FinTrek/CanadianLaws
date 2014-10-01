@@ -54,6 +54,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md).
 
+***Accord de libre-échange Canada-Honduras*** S’entend de l’Accord au sens de l’article 2 de la Loi sur la croissance économique et la prospérité  —  Canada-Honduras. 
+
 ***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
 
 ***Accord de libre-échange Canada-Jordanie*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
@@ -84,6 +86,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** du territoire douanier des États-Unis, notamment les cinquante États des États-Unis, le District de Columbia et Porto Rico;
 - **b)** des zones franches situées sur le territoire des États-Unis et de Porto Rico;
 - **c)** des régions s’étendant au-delà de la mer territoriale des États-Unis et qui, en conformité avec le droit international et les lois des États-Unis, sont des régions à l’égard desquelles les États-Unis sont habilités à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles.
+
+***Honduras*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Honduras exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Honduras exerce des droits souverains et sa compétence conformément à son droit interne et au droit international. 
 
 ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
 
@@ -158,7 +162,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39.
 
 
 
@@ -309,12 +313,14 @@ Suisse
 		- **(ix)** le paragraphe 71.41(1),
 		- **(x)** le paragraphe 71.5(1),
 		- **(xi)** le paragraphe 71.6(1),
-		- **(xii)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(xii)** le paragraphe 72(2),
+		- **(xiii)** le paragraphe 73(1),
+		- **(xiv)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40.
 
 
 
@@ -589,12 +595,13 @@ Suisse
 		- **(vi)** l’article 48,
 		- **(vii)** le paragraphe 49.01(8),
 		- **(viii)** l’article 49.2,
-		- **(ix)** le paragraphe 49.5(8).
+		- **(ix)** le paragraphe 49.5(8),
+		- **(x)** le paragraphe 49.6(8).
 
 **Exception**
 
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, exempter les marchandises bénéficiant d’un traitement tarifaire, sauf le tarif général, d’une condition prévue au paragraphe (1) et fixer les conditions de l’exemption.
-> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33; 2011, ch. 24, art. 115.
+> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33; 2011, ch. 24, art. 115; 2014, ch. 14, art. 41.
 
 
 
@@ -632,6 +639,8 @@ Suisse
 
 ***TÉU*** Tarif des États-Unis.
 
+***THN*** Tarif du Honduras.
+
 ***TI*** Tarif de l’Islande.
 
 ***TJ*** Tarif de la Jordanie.
@@ -655,7 +664,7 @@ Suisse
 ***TPMD*** Tarif des pays les moins développés.
 
 ***TSL*** Tarif de Suisse-Liechtenstein.
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42.
 
 
 
@@ -1480,6 +1489,65 @@ Suisse
 
 - **(9)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes et aux conditions qui y sont spécifiées, limiter la quantité globale des marchandises des n<sup>os</sup> tarifaires 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 et 1702.90.81 qui bénéficient du tarif du Pérou.
 > 2009, ch. 16, art. 42.
+
+
+
+
+
+#### Tarif du Honduras
+
+
+
+**Application du THN**
+
+**49.6** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires du Honduras bénéficient des taux du tarif du Honduras.
+
+**Taux final « A » pour le THN**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « THN » pour des marchandises qui bénéficient du tarif du Honduras, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le THN**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « THN » pour des marchandises qui bénéficient du tarif du Honduras, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le THN**
+
+- **(4)** Dans les cas où « U1 » ou « U2 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « THN » pour des marchandises qui bénéficient du tarif du Honduras, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « U1 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux deux tiers du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, au tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « U2 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent paragraphe, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent paragraphe, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent paragraphe, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+
+**Octroi du tarif du Honduras**
+
+- **(8)** Par dérogation aux autres dispositions de la présente loi, le ministre peut, par arrêté pris pour donner effet à l’annexe 3.1 de l’Accord de libre-échange Canada-Honduras, modifier l’annexe pour accorder, aux conditions qu’il détermine, le bénéfice du tarif du Honduras à des marchandises importées.
+
+**Limitation**
+
+- **(9)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes et aux conditions qui y sont spécifiées, limiter la quantité globale des marchandises des n<sup>os</sup> tarifaires 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 et 1702.90.81 qui bénéficient du tarif du Honduras.
+> 2014, ch. 14, art. 43.
 
 
 
@@ -2562,11 +2630,100 @@ Pérou
 
 
 
-**72** [Abrogé, 2011, ch. 24, art. 128]
+
+#### Mesures d’urgence bilatérales : Honduras
 
 
 
-**73** [Abrogé, 2011, ch. 24, art. 128]
+**Non-application**
+
+**72** 
+
+- **(1)** Le présent article ne s’applique pas aux produits textiles et vêtements figurant à la section 1 de l’annexe 3.1 de l’Accord de libre-échange Canada-Honduras.
+
+**Décret de mesures temporaires**
+
+- **(2)** Sous réserve des paragraphes (3) à (7), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.019(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.095) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif du Honduras, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.6;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(3)** Le décret :
+	- **a)** ne peut être pris plus de deux fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le jour de son huitième anniversaire;
+	- **b)** demeure en vigueur pendant la période  —  d’au plus trois ans  —  qui y est spécifiée;
+	- **c)** peut être pris après le huitième anniversaire de la date d’entrée en vigueur du présent paragraphe, aux termes d’un accord conclu par le gouvernement du Canada et celui de la République du Honduras portant sur l’application du paragraphe (2).
+
+**Application d’une mesure pour la deuxième fois**
+
+- **(4)** La mesure visée au paragraphe (2) peut être appliquée une deuxième fois si les conditions suivantes sont réunies :
+	- **a)** la durée qui s’est écoulée depuis l’application initiale de la mesure expirée représente au moins la moitié de la durée initiale d’application;
+	- **b)** le taux pour la première année de la seconde mesure ne dépassera pas le taux qui était en vigueur, conformément à l’article 49.6;
+	- **c)** le taux applicable au cours de toute année subséquente fera l’objet d’une réduction progressive par tranches égales jusqu’à ce que le taux pour la dernière année de la mesure soit équivalent au taux prévu à l’article 49.6, pour cette année.
+
+**Taux à la cessation d’effet**
+
+- **(5)** En cas de cessation d’effet du décret :
+	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 49.6;
+	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (6).
+
+**Taux précisé par arrêté**
+
+- **(6)** Pour l’application du paragraphe (5), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (5)b) est :
+	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret s’il avait été réduit en conformité avec l’article 49.6, lequel est réduit en conformité avec cet article pour les années suivantes;
+	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qu’il est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit en conformité avec l’article 49.6, réduit par tranches annuelles égales pour atteindre le taux final.
+
+**Définition de cause principale**
+
+- **(7)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+> 1997, ch. 36, art. 72; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44.
+
+
+
+
+
+#### Mesures d’urgence bilatérales visant les produits textiles et vêtements importés du Honduras
+
+
+
+**Décret**
+
+**73** 
+
+- **(1)** S’il est convaincu, sur le fondement soit d’un rapport du ministre établi par suite d’une plainte déposée en vertu du paragraphe 23(1.096) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), soit d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.96) de cette loi, que des produits textiles et vêtements figurant à la section 1 de l’annexe 3.1 de l’Accord de libre-échange Canada-Honduras et bénéficiant du tarif du Honduras sont importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur pour de telles marchandises, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de marchandises similaires ou directement concurrentes, sur recommandation du ministre, le gouverneur en conseil peut, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.6;
+	- **b)** assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Application du décret**
+
+- **(2)** Sous réserve du paragraphe (3), le décret pris en vertu du paragraphe (1) s’applique pendant la période  —  d’au plus trois ans  —  qui y est spécifiée.
+
+**Durée d’application du décret**
+
+- **(3)** Le décret pris en vertu du paragraphe (1) sur le fondement d’un rapport du ministre cesse d’avoir effet à l’expiration du cent quatre-vingtième jour suivant sa prise; toutefois, il s’applique pendant la période qui y est spécifiée si, avant la date de cessation d’effet, le Tribunal canadien du commerce extérieur fait, par suite d’une enquête menée en vertu du sous-alinéa 26(1)a)(i.96) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), rapport au gouverneur en conseil l’informant que les marchandises faisant l’objet du rapport du ministre sont importées d’un pays que mentionne le rapport, dans des conditions telles qu’elles causent ou menacent de causer un préjudice grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
+
+**Prorogation du décret**
+
+- **(4)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, proroger la période d’application du décret pris par suite de l’enquête du Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.96) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou du décret s’appliquant encore au titre du paragraphe (3) par suite du rapport fait par ce tribunal, la période d’application totale du décret ne pouvant toutefois dépasser trois ans.
+
+**Taux à la cessation d’effet**
+
+- **(5)** En cas de cessation d’effet du décret :
+	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 49.6;
+	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (6).
+
+**Taux précisé par arrêté**
+
+- **(6)** Pour l’application du paragraphe (5), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (5)b) est :
+	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret s’il avait été réduit en conformité avec l’article 49.6, lequel est réduit en conformité avec cet article pour les années suivantes;
+	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qu’il est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit en conformité avec l’article 49.6, réduit par tranches annuelles égales pour atteindre le taux final.
+
+**Décrets ultérieurs**
+
+- **(7)** Le décret visé au paragraphe (1) ne peut être pris qu’une fois à l’égard de marchandises d’une nature donnée pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le jour de son cinquième anniversaire.
+> 1997, ch. 36, art. 73; 2011, ch. 24, art. 128; 2014, ch. 14, art. 44.
+
 
 
 
@@ -2788,8 +2945,10 @@ Pérou
 - **h)** le paragraphe 71.1(2);
 - **i)** le paragraphe 71.41(1);
 - **j)** le paragraphe 71.5(1);
-- **k)** le paragraphe 71.6(1).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63.
+- **k)** le paragraphe 71.6(1);
+- **l)** le paragraphe 72(2);
+- **m)** le paragraphe 73(1).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45.
 
 
 
@@ -3817,6 +3976,8 @@ Colombie
 
 Costa Rica
 
+Honduras
+
 Islande
 
 Israël ou autre bénéficiaire de l’ALÉCI
@@ -3842,6 +4003,8 @@ Colombie
 
 Costa Rica
 
+Honduras
+
 Israël ou autre bénéficiaire de l’ALÉCI
 
 Jordanie
@@ -3858,7 +4021,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46.
 
 
 
