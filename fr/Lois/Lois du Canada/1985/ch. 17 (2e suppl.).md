@@ -849,8 +849,12 @@ Si le tribunal arbitral considère que la demande est justifiée, il fait la rec
 <td>Articles 9.20 ou 9.21</td>
 <td>Accord de libre-échange entre le Canada et la République du Panama, fait à Ottawa le 14 mai 2010</td>
 </tr>
+<tr>
+<td>Articles 10.19 ou 10.20</td>
+<td>Accord de libre-échange entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013</td>
+</tr>
 </table>
 
-> 2012, ch. 26, art. 26.
+> 2012, ch. 26, art. 26; 2014, ch. 14, art. 30.
 
 
