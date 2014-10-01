@@ -52,6 +52,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada–EFTA Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–EFTA Agreement Implementation Act.
 
+***Canada–Honduras Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md).
+
 ***Canada–Israel Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
 
 ***Canada–Jordan Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md).
@@ -84,6 +86,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***“F” Staging List*** means the List of Intermediate and Final Rates for Tariff Items of the “F” Staging Category set out in the schedule.
 
 ***heading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a four-digit number and includes all subheadings or tariff items the first four digits of which correspond to that number.
+
+***Honduras*** means the land, maritime areas, and air space under the sovereignty of the Republic of Honduras and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
 
 ***Iceland*** means 
 - **(a)** the land territory, air space, internal waters and territorial sea of Iceland; and
@@ -158,7 +162,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39.
 
 
 
@@ -309,12 +313,14 @@ Switzerland
 		- **(ix)** subsection 71.41(1),
 		- **(x)** subsection 71.5(1),
 		- **(xi)** subsection 71.6(1),
-		- **(xii)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(xii)** subsection 72(2),
+		- **(xiii)** subsection 73(1),
+		- **(xiv)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40.
 
 
 
@@ -591,12 +597,13 @@ Switzerland
 		- **(vi)** section 48,
 		- **(vii)** subsection 49.01(8),
 		- **(viii)** section 49.2,
-		- **(ix)** subsection 49.5(8).
+		- **(ix)** subsection 49.5(8),
+		- **(x)** subsection 49.6(8).
 
 **Exemption**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, by order, exempt goods entitled to a tariff treatment other than the General Tariff from any condition set out in subsection (1), on such conditions as may be specified in the order.
-> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33; 2011, c. 24, s. 115.
+> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33; 2011, c. 24, s. 115; 2014, c. 14, s. 41.
 
 
 
@@ -634,6 +641,8 @@ Switzerland
 
 ***GPT*** refers to the General Preferential Tariff.
 
+***HNT*** refers to the Honduras Tariff.
+
 ***IT*** refers to the Iceland Tariff.
 
 ***JT*** refers to the Jordan Tariff.
@@ -657,7 +666,7 @@ Switzerland
 ***SLT*** refers to the Switzerland–Liechtenstein Tariff.
 
 ***UST*** refers to the United States Tariff.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42.
 
 
 
@@ -1482,6 +1491,65 @@ Switzerland
 
 - **(9)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of tariff item Nos. 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 and 1702.90.81 that are entitled to the Peru Tariff, and the limits apply during the periods and subject to the conditions that may be specified in the order.
 > 2009, c. 16, s. 42.
+
+
+
+
+
+#### Honduras Tariff
+
+
+
+**Application of HNT**
+
+**49.6** 
+
+- **(1)** Subject to section 24, goods that originate in Honduras are entitled to the Honduras Tariff rates of customs duty.
+
+**“A” final rate for HNT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “HNT” in relation to goods entitled to the Honduras Tariff, the Honduras Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for HNT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “HNT” in relation to goods entitled to the Honduras Tariff, the Honduras Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for HNT**
+
+- **(4)** If “U1” or “U2” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “HNT” in relation to goods entitled to the Honduras Tariff, the Honduras Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “U1” is set out,
+		- **(i)** effective on the coming into force of this subsection, to two thirds of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to one third of the initial rate, and
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to the final rate of “Free”; and
+	- **(b)** if “U2” is set out,
+		- **(i)** effective on the coming into force of this subsection, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the year that is three years after the year of the coming into force of this subsection, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the year that is four years after the year of the coming into force of this subsection, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the year that is five years after the year of the coming into force of this subsection, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the year that is six years after the year of the coming into force of this subsection, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+
+**Extension of Honduras Tariff**
+
+- **(8)** Notwithstanding any other provision of this Act, for the purpose of giving effect to Annex 3.1 of the Canada–Honduras Free Trade Agreement, the Minister may, by order, amend the schedule to extend entitlement to the Honduras Tariff to any imported goods under such conditions as may be specified in the order.
+
+**Limits on reduction of duty**
+
+- **(9)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of tariff item Nos. 1701.91.10, 1701.99.10, 1702.90.21, 1702.90.61, 1702.90.70 and 1702.90.81 that are entitled to the Honduras Tariff, and the limits apply during the periods and subject to the conditions that may be specified in the order.
+> 2014, c. 14, s. 43.
 
 
 
@@ -2618,11 +2686,102 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
-**72** [Repealed, 2011, c. 24, s. 128]
+
+#### Bilateral Emergency Measures  —  Honduras
 
 
 
-**73** [Repealed, 2011, c. 24, s. 128]
+**Order by Governor in Council**
+
+**72** 
+
+- **(1)** This section does not apply in respect of textile and apparel goods set out in section 1 of Annex 3.1 of the Canada–Honduras Free Trade Agreement.
+
+- **(2)** Subject to subsections (3) to (7), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.019(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.095) of that Act, that goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 49.6;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in the Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Honduras Tariff, may not exceed the Most-Favoured-Nation Tariff rate of customs duty that was in effect for the corresponding season immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Honduras Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Terms and conditions**
+
+- **(3)** An order under subsection (2)
+	- **(a)** may not be made more than twice during the period beginning on the coming into force of this subsection and ending on the date that is eight years after the coming into force of this subsection in respect of goods of a particular kind;
+	- **(b)** remains in effect only for the period, not exceeding three years, that is specified in the order; and
+	- **(c)** may be made after the date that is eight years after the coming into force of this subsection if the order is based on an agreement between the Government of Canada and the Government of the Republic of Honduras relating to the application of subsection (2).
+
+**Application of measures a second time**
+
+- **(4)** A measure referred to in an order made under subsection (2) may be applied a second time if
+	- **(a)** the period of time that has elapsed since the initial application of the measure ended is equal to at least one half the initial period of application;
+	- **(b)** the rate of duty for the first year of the second action is not greater than the rate that would be in effect in accordance with section 49.6, at the time the first action was imposed; and
+	- **(c)** the rate of duty applicable to any subsequent year is reduced in equal steps such that the duty rate in the final year of the action is equivalent to the rate provided for section 49.6 for that year.
+
+**Rate of duty when order ceases to have effect**
+
+- **(5)** If an order made under subsection (2) ceases to have effect in a particular calendar year
+	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would otherwise have been applicable one year after the making of the order, as reduced in accordance with section 49.6; and
+	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (6).
+
+**Specification of applicable rate**
+
+- **(6)** For the purposes of subsection (5), the Minister shall, by order, specify that the rate referred to in paragraph (5)(b) is
+	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year after the year in which the order ceases to have effect, if the rate of customs duty had been reduced in accordance with section 49.6, reduced for subsequent years in accordance with that section; or
+	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year after the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 49.6.
+
+**Definition of principal cause**
+
+- **(7)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+> 1997, c. 36, s. 72; 2011, c. 24, s. 128; 2014, c. 14, s. 44.
+
+
+
+
+
+#### Bilateral Emergency Measures for Textile and Apparel Goods Imported from Honduras
+
+
+
+**Order by Governor in Council**
+
+**73** 
+
+- **(1)** If it appears to the satisfaction of the Governor in Council, on the basis of a report of the Minister further to a complaint under subsection 23(1.096) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or as a result of an inquiry made by the Canadian International Trade Tribunal under subparagraph 26(1)(a)(i.96) of that Act, that textile and apparel goods set out in section 1 of Annex 3.1 of the Canada–Honduras Free Trade Agreement and entitled to the Honduras Tariff are being imported in such increased quantities, in absolute terms or relative to the domestic market for the goods, and under such conditions as to cause serious damage or an actual threat of serious damage to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty in respect of the goods that would otherwise be made after that time by virtue of section 49.6; or
+	- **(b)** make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Honduras Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate for the goods in effect when the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate for the goods in effect immediately before the coming into force of this subsection.
+
+**Terms and conditions**
+
+- **(2)** Subject to subsection (3), an order made under subsection (1) remains in effect for a period, not exceeding three years, specified in the order.
+
+**Duration of order**
+
+- **(3)** If an order is made under subsection (1) on the basis of a report of the Minister, the order ceases to have effect at the end of the one hundred and eightieth day after the day on which the order is made unless, before the order so ceases to have effect, the Canadian International Trade Tribunal reports to the Governor in Council, on the basis of an inquiry made under subparagraph 26(1)(a)(i.96) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the goods described in the report of the Minister are being imported from the country named in the report under such conditions as to cause or threaten serious damage to domestic producers of like or directly competitive goods.
+
+**Extension of order**
+
+- **(4)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made as a result of an inquiry of the Canadian International Trade Tribunal made under subparagraph 26(1)(a)(i.96) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or an order that remains in effect by virtue of subsection (3) on the basis of a report of that Tribunal, but the total period of the order may not exceed three years.
+
+**Rate of duty after order ceases to have effect**
+
+- **(5)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
+	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would have been applicable one year after the making of the order, as reduced in accordance with section 49.6; and
+	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (6).
+
+**Specification of applicable rates**
+
+- **(6)** For the purposes of subsection (5), the Minister shall, by order, specify that the rate referred to in paragraph (5)(b) is
+	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year after the year in which the order ceases to have effect if the rate of customs duty had been reduced in accordance with section 49.6, reduced for subsequent years in accordance with that section; or
+	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year after the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 49.6.
+
+**Further orders**
+
+- **(7)** An order under subsection (1) may not be made more than once during the period beginning on the coming into force of this subsection and ending on the date that is five years after the coming into force of this subsection in respect of goods of a particular kind.
+> 1997, c. 36, s. 73; 2011, c. 24, s. 128; 2014, c. 14, s. 44.
+
 
 
 
@@ -2853,8 +3012,10 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(h)** subsection 71.1(2);
 - **(i)** subsection 71.41(1);
 - **(j)** subsection 71.5(1);
-- **(k)** subsection 71.6(1).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63.
+- **(k)** subsection 71.6(1);
+- **(l)** subsection 72(2);
+- **(m)** subsection 73(1).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45.
 
 
 
@@ -3889,6 +4050,8 @@ Colombia
 
 Costa Rica
 
+Honduras
+
 Iceland
 
 Israel or another CIFTA beneficiary
@@ -3914,6 +4077,8 @@ Colombia
 
 Costa Rica
 
+Honduras
+
 Israel or another CIFTA beneficiary
 
 Jordan
@@ -3928,7 +4093,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46.
 
 
 
