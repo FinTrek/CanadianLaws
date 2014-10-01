@@ -59,13 +59,13 @@ Sanctionnée sur le 12 décembre 2006
 
 **Rang et statut**
 
-- **(2)** Le directeur a rang et statut d’administrateur général de ministère.
+- **(2)** Sous réserve des paragraphes 509.1(2) et (3) de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), le directeur a rang et statut d’administrateur général de ministère.
 
 **Rôle et attributions**
 
 - **(3)** Il exerce, sous l’autorité et pour le compte du procureur général, les attributions suivantes :
-	- **a)** engager et mener les poursuites pour le compte de l'État, sauf celles qui sont prises en charge par le procureur général en vertu de l'article 15;
-	- **b)** intervenir relativement à toute affaire dans laquelle des questions d'intérêt public sont soulevées qui pourraient avoir une incidence sur la conduite des poursuites ou des enquêtes connexes, sauf les affaires à l'égard desquelles le procureur général a décidé d'intervenir en vertu de l'article 14;
+	- **a)** engager et mener les poursuites pour le compte de l’État, sauf celles qui sont prises en charge par le procureur général en vertu de l’article 15;
+	- **b)** intervenir relativement à toute affaire dans laquelle des questions d’intérêt public sont soulevées qui pourraient avoir une incidence sur la conduite des poursuites ou des enquêtes connexes, sauf les affaires à l’égard desquelles le procureur général a décidé d’intervenir en vertu de l’article 14;
 	- **c)** donner des lignes directrices aux personnes agissant à titre de procureurs de l’État relativement à la conduite des poursuites en général;
 	- **d)** conseiller les organismes chargés de l’application de la loi ou les organismes d’enquête à l’égard des poursuites, de façon générale ou à l’égard d’une enquête pouvant mener à des poursuites;
 	- **e)** communiquer avec les médias et le public relativement à toute question liée à l’introduction ou à la conduite des poursuites;
@@ -95,6 +95,8 @@ Sanctionnée sur le 12 décembre 2006
 **Autres attributions**
 
 - **(9)** Il peut, sous l’autorité et pour le compte du procureur général, exercer les attributions conférées à ce dernier par la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md) et la [Loi sur l’entraide juridique en matière criminelle](/fr/Lois/Lois%20du%20Canada/1985/ch.%2030%20(4e%20suppl.).md).
+> 2006, ch. 9, art. 121 « 3 »; 2014, ch. 12, art. 150.
+
 
 
 
@@ -174,7 +176,9 @@ Sanctionnée sur le 12 décembre 2006
 
 **Autres attributions**
 
-- **(4)** Ils peuvent aussi exercer, au nom et pour le compte du directeur et sous sa supervision, toute autre attribution que celui-ci est autorisé à exercer en vertu de la présente loi ou toute autre loi fédérale.
+- **(4)** Ils peuvent aussi exercer, au nom et pour le compte du directeur et sous sa supervision, toute autre attribution que celui-ci est autorisé à exercer en vertu de la présente loi ou toute autre loi fédérale, à l’exception des pouvoirs prévus au paragraphe 509(1) de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md).
+> 2006, ch. 9, art. 121 « 6 »; 2014, ch. 12, art. 151.
+
 
 
 
@@ -314,10 +318,16 @@ Sanctionnée sur le 12 décembre 2006
 
 **16** 
 
-- **(1)** Au plus tard le 30 juin de chaque année, le directeur présente au procureur général un rapport des activités de son bureau — sauf en ce qui concerne toute affaire visée au paragraphe 3(8) — pour l’exercice précédent.
+- **(1)** Au plus tard le 30 juin de chaque année, le directeur présente au procureur général un rapport des activités de son bureau pour l’exercice précédent.
+
+**Commissaire aux élections fédérales**
+
+- **(1.1)** Le rapport comporte une section, fournie par le commissaire aux élections fédérales, portant sur ses activités sous le régime de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) pour le même exercice; le commissaire ne peut toutefois y inclure de détails relatifs à toute enquête.
 
 **Dépôt**
 
 - **(2)** Le procureur général fait déposer le rapport devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 2006, ch. 9, art. 121 « 16 »; 2014, ch. 12, art. 152.
+
 
 
