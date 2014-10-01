@@ -77,7 +77,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2).
 
-***commissaire*** Le commissaire aux élections fédérales nommé au titre de l’article 509.
+***commissaire*** Le commissaire aux élections fédérales nommé au titre du paragraphe 509(1).
 
 ***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
 
@@ -399,6 +399,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** veille à ce que les fonctionnaires électoraux agissent avec équité et impartialité et observent la présente loi;
 - **c)** donne aux fonctionnaires électoraux les instructions qu’il juge nécessaires à l’application de la présente loi;
 - **d)** exerce les pouvoirs et fonctions nécessaires à l’application de la présente loi.
+
+
+
+
+**Pouvoir de communiquer des renseignements ou documents**
+
+**16.5** 
+
+- **(1)** Le directeur général des élections peut communiquer au commissaire tout document ou renseignement qu’il obtient sous le régime de la présente loi et qu’il estime utile pour l’exercice des attributions de celui-ci sous le régime de la présente loi.
+
+**Obligation de communiquer des renseignements ou documents**
+
+- **(2)** Le directeur général des élections communique au commissaire, à la demande de celui-ci, tout document ou renseignement qu’il a obtenu sous le régime de la présente loi et que le commissaire estime nécessaire pour l’exercice de ses attributions sous le régime de la présente loi.
+> 2014, ch. 12, art. 5.1.
+
 
 
 
@@ -12409,14 +12424,160 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 **Commissaire aux élections fédérales**
 
-**509** Le directeur général des élections nomme le commissaire aux élections fédérales qui a pour mission de veiller à l’observation et à l’exécution de la présente loi.
+**509** 
+
+- **(1)** Le commissaire aux élections fédérales est nommé à titre inamovible pour un mandat de sept ans par le directeur des poursuites pénales, sous réserve de révocation motivée de sa part.
+
+**Absence de consultation**
+
+- **(2)** Le directeur des poursuites pénales ne peut consulter le directeur général des élections relativement à la nomination du commissaire.
+
+**Inéligibilité**
+
+- **(3)** Ne peut être nommé commissaire quiconque est ou a été :
+	- **a)** un candidat;
+	- **b)** un employé d’un parti enregistré ou une personne dont les services ont été retenus par le parti enregistré au soutien de ses activités électorales ou de ses activités de financement politique;
+	- **c)** un membre du personnel visé à l’un ou l’autre des alinéas 4(2)a) à g) de la [Loi sur les relations de travail au Parlement](/fr/Lois/Lois%20du%20Canada/1985/ch.%2033%20(2e%20suppl.).md);
+	- **d)** le directeur général des élections, un membre de son personnel ou une personne dont les services ont été retenus au titre du paragraphe 20(1);
+	- **e)** un fonctionnaire électoral visé aux alinéas 22(1)a) ou b).
+
+**Commissaire ne peut être nommé**
+
+- **(4)** La personne qui a servi à titre de commissaire ne peut être nommée à nouveau à ce poste.
+> 2000, ch. 9, art. 509; 2014, ch. 12, art. 108.
 
 
 
 
-**Enquête à la demande du directeur général des élections**
 
-**510** Le directeur général des élections ordonne au commissaire de faire enquête lorsqu’il a des motifs raisonnables de croire qu’un fonctionnaire électoral a commis une infraction à la présente loi ou qu’une personne a commis une infraction visée à l’une ou l’autre des dispositions suivantes : les alinéas 486(3)a) ou d), l’article 488, l’alinéa 489(3)g), l’article 493 ou le paragraphe 499(1); le cas échéant, le commissaire procède à l’enquête.
+**Position — Bureau du directeur des poursuites pénales**
+
+**509.1** 
+
+- **(1)** Le commissaire occupe son poste au sein du Bureau du directeur des poursuites pénales.
+
+**Administrateur général — [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
+
+- **(2)** Pour l’application des articles 11 à 13 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le commissaire est l’administrateur général à l’égard des secteurs de l’administration publique fédérale faisant partie du Bureau du directeur des poursuites pénales dans lesquels les employés visés à l’article 509.3 occupent un poste.
+
+**Administrateur général — [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+
+- **(3)** Pour l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le commissaire est l’administrateur général dans les secteurs de l’administration publique fédérale faisant partie du Bureau du directeur des poursuites pénales dans lesquels les employés visés à l’article 509.3 occupent un poste.
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+**Fonction du commissaire**
+
+**509.2** Le commissaire est chargé de veiller à l’observation et au contrôle d’application de la présente loi.
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+### Personnel
+
+
+
+**Employés**
+
+**509.3** 
+
+- **(1)** Les employés dont le commissaire a besoin pour l’exercice des attributions que la présente loi lui confère sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+
+**Employés occasionnels, etc.**
+
+- **(2)** Les employés supplémentaires que le commissaire estime nécessaires à l’exercice des attributions que la présente loi lui confère peuvent être nommés, pour une durée déterminée ou à titre d’employés occasionnels, conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+**Assistance technique**
+
+**509.4** Le commissaire peut retenir temporairement les services d’enquêteurs, d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice des attributions que lui confère la présente loi.
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+**Autorisation**
+
+**509.5** Le commissaire peut autoriser toute personne employée au sein du Bureau du directeur des poursuites pénales à l’aider à exercer, aux conditions qu’il fixe, les attributions découlant de l’application des paragraphes 509.1(2) ou (3) ou prévues à l’article 509.4.
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+### Paiements sur le Trésor
+
+
+
+**Dépenses, indemnités et salaires**
+
+**509.6** Sont acquittés sur les fonds non attribués du Trésor, sur présentation du certificat du directeur des poursuites pénales :
+- **a)** la rémunération du commissaire ou des employés visés au paragraphe 509.3(2) et la rémunération versée aux employés visés au paragraphe 509.3(1) au titre des heures supplémentaires consacrées à l’exercice des attributions du commissaire dans le cadre de la présente loi;
+- **b)** les frais engagés par le commissaire, en son nom ou à son égard, au titre des autres dispositions de la présente partie.
+> 2014, ch. 12, art. 108.
+
+
+
+
+
+### Enquêtes et poursuites
+
+
+
+**Enquête du commissaire**
+
+**510** 
+
+- **(1)** Le commissaire peut, de sa propre initiative ou en réponse à une plainte, mener une enquête.
+
+**Avis**
+
+- **(2)** Lorsque la conduite d’une personne fait l’objet d’une enquête, le commissaire en avise celle-ci par écrit dans les meilleurs délais après le début de l’enquête, pour autant qu’il soit d’avis qu’une telle mesure ne risque pas de compromettre l’enquête, ni toute autre enquête, ou de nuire à celle-ci.
+
+**Indépendance**
+
+- **(3)** Le commissaire mène ses enquêtes de façon indépendante du directeur des poursuites pénales.
+> 2000, ch. 9, art. 510; 2014, ch. 12, art. 108.
+
+
+
+
+
+**Confidentialité**
+
+**510.1** 
+
+- **(1)** Sous réserve du paragraphe (2), le commissaire et les personnes agissant sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance dans le cadre d’une enquête menée dans l’exercice des attributions que leur confère la présente loi, notamment tout renseignement qui révèle ou permettrait de découvrir le nom du plaignant, le nom de la personne dont la conduite fait l’objet de l’enquête ou d’un témoin.
+
+**Communication autorisée**
+
+- **(2)** Le commissaire peut communiquer — ou autoriser toute personne agissant sous son autorité à communiquer — les renseignements suivants :
+	- **a)** avec le consentement de l’intéressé, le nom du plaignant, de la personne dont la conduite fait l’objet de l’enquête ou d’un témoin;
+	- **b)** les renseignements qui, à son avis, sont nécessaires pour mener une enquête;
+	- **c)** les renseignements requis par le directeur des poursuites pénales, lorsqu’on lui renvoie une affaire en application du paragraphe 511(1);
+	- **d)** les renseignements dont la communication est nécessaire dans le cadre des poursuites relatives à une infraction à la présente loi;
+	- **e)** les renseignements dont la communication est requise par toute autre loi fédérale;
+	- **f)** les renseignements qui, à son avis, sont nécessaires pour conclure ou modifier une transaction;
+	- **g)** les renseignements dont la communication est, à son avis, dans l’intérêt public.
+
+**Intérêt public**
+
+- **(3)** Pour l’application de l’alinéa (2)g), le commissaire tient compte des effets de la communication sur :
+	- **a)** le droit à la vie privée de l’intéressé;
+	- **b)** le droit à la présomption d’innocence, jusqu’à ce que la preuve de culpabilité ait été établie conformément au droit, de la personne sous enquête;
+	- **c)** la confiance du public dans l’équité du processus électoral.
+> 2014, ch. 12, art. 108.
+
 
 
 
@@ -12854,12 +13015,7 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 
 
-
-**Consultation préalable**
-
-**535.1** Le directeur général des élections peut, avant de faire rapport conformément aux articles 534 et 535, consulter au préalable le directeur des poursuites pénales sur toute question portant sur les mesures prises sous le régime des articles 511 et 512.
-> 2006, ch. 9, art. 135.
-
+**535.1** [Abrogé, 2014, ch. 12, art. 114]
 
 
 
@@ -12974,7 +13130,11 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 **Exception**
 
-- **(4)** Le directeur général des élections, les membres autorisés de son personnel ainsi que le commissaire peuvent examiner les documents visés au paragraphe (3). Le commissaire peut en outre produire ces documents dans le cadre de toute enquête tenue en vertu de l’article 510 ou les remettre au directeur des poursuites pénales qui peut les produire dans le cadre de toute poursuite — même éventuelle — pour infraction à la présente loi.
+- **(4)** Le directeur général des élections et les membres autorisés de son personnel peuvent examiner les documents visés au paragraphe (3).
+
+**Exception**
+
+- **(4.1)** Le directeur général des élections peut remettre les documents visés au paragraphe (3) au commissaire aux fins de l’exercice des attributions de celui-ci sous le régime de la présente loi; le commissaire peut à son tour les remettre au directeur des poursuites pénales, lequel peut les produire dans le cadre de toute poursuite — même éventuelle — pour infraction à la présente loi.
 
 **Certification**
 
@@ -12995,7 +13155,7 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 **Conditions d’examen**
 
 - **(9)** Toute ordonnance d’examen ou de production de documents électoraux ou de documents relatifs à la mise à jour du Registre des électeurs peut être rendue sous réserve des conditions que le juge croit utile de poser quant aux personnes, au jour, à l’heure et au lieu et au mode d’examen ou de production.
-> 2000, ch. 9, art. 540; 2006, ch. 9, art. 136.
+> 2000, ch. 9, art. 540; 2006, ch. 9, art. 136; 2014, ch. 12, art. 117.
 
 
 
@@ -13186,8 +13346,10 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 - **b)** la rémunération des cadres et employés visés à l’article 20, la rémunération versée au personnel visé au paragraphe 19(1) au titre des heures supplémentaires consacrées à l’exercice des attributions du directeur général des élections dans le cadre de la présente loi et les frais d’administration exposés à cette même fin;
 - **c)** les frais exposés par le directeur général des élections pour l’obtention des renseignements visés à l’alinéa 46(1)b);
 - **d)** les honoraires, frais et indemnités visés au paragraphe 542(1);
-- **e)** les dépenses faites par le directeur général des élections pour l’impression, la préparation et l’achat du matériel électoral;
-- **f)** sur présentation du certificat du directeur général des élections, les frais engagés par le commissaire à l’égard de celui-ci ou pour celui-ci, au titre des articles 509 à 513 et 516 à 521.
+- **e)** les dépenses faites par le directeur général des élections pour l’impression, la préparation et l’achat du matériel électoral.
+- **f)** [Abrogé, 2014, ch. 12, art. 123]
+> 2000, ch. 9, art. 553; 2014, ch. 12, art. 123.
+
 
 
 
