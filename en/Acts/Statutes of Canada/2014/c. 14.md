@@ -37,17 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013.
+***Agreement*** means the Free Trade Agreement between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013. (*Accord*)
 
-***Commission*** means the Free Trade Commission established under Article 21.1 of the Agreement.
+***Commission*** means the Free Trade Commission established under Article 21.1 of the Agreement. (*Commission*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
-***related agreement*** means
+***related agreement*** means
 - **(a)** the Agreement on Environmental Cooperation between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013; or
-- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013.
+- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013. (*accord connexe*)
 
 
 
@@ -427,7 +427,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind7E84_hq_14199'>[*]</a></sup>**53** This Act, other than sections 51 and 52, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7E84_hq_14199'><sup>*</sup></a>: [Note: Act, other than sections 51 and 52, not in force.]<br />
+<a name='fn_Ind7E84_hq_14199'><sup>*</sup></a>: [Note: Act, other than sections 51 and 52, in force October 1, 2014, *see* SI/2014-74.]<br />
 
 
 
