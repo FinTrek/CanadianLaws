@@ -63,7 +63,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the person who provided it, if the person is in the business of providing that property or service; or
 - **(b)** another person who provides that property or service on a commercial basis in the area where it was provided, if the person who provided the property or service is not in that business.
 
-***Commissioner*** means the Commissioner of Canada Elections appointed under section 509.
+***Commissioner*** means the Commissioner of Canada Elections appointed under subsection 509(1).
 
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
 
@@ -399,6 +399,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** ensure that all election officers act with fairness and impartiality and in compliance with this Act;
 - **(c)** issue to election officers the instructions that the Chief Electoral Officer considers necessary for the administration of this Act; and
 - **(d)** exercise the powers and perform the duties and functions that are necessary for the administration of this Act.
+
+
+
+
+**Power to disclose documents and information**
+
+**16.5** 
+
+- **(1)** The Chief Electoral Officer may disclose to the Commissioner any document or information that he or she has obtained under this Act and that he or she considers useful to the Commissioner in the exercise or performance of his or her powers, duties and functions under this Act.
+
+**Obligation to disclose documents and information**
+
+- **(2)** On the request of the Commissioner, the Chief Electoral Officer shall disclose to the Commissioner any document or information that the Chief Electoral Officer obtained under this Act and that the Commissioner considers necessary to the exercise or performance of his or her powers, duties and functions under this Act.
+> 2014, c. 12, s. 5.1.
+
 
 
 
@@ -12456,14 +12471,160 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 **Commissioner of Canada Elections**
 
-**509** The Chief Electoral Officer shall appoint a Commissioner of Canada Elections, whose duty is to ensure that this Act is complied with and enforced.
+**509** 
+
+- **(1)** The Commissioner of Canada Elections shall be appointed by the Director of Public Prosecutions to hold office during good behaviour for a term of seven years and may be removed by the Director of Public Prosecutions for cause.
+
+**No consultation**
+
+- **(2)** The Director of Public Prosecutions shall not consult the Chief Electoral Officer with respect to the appointment of the Commissioner.
+
+**Ineligibility**
+
+- **(3)** A person is not eligible to be appointed as Commissioner if the person is or has been
+	- **(a)** a candidate;
+	- **(b)** an employee of a registered party or a person whose services have been engaged by the registered party to support its electoral or political financing activities;
+	- **(c)** a member of the staff referred to in any of paragraphs 4(2)(a) to (f) of the [Parliamentary Employment and Staff Relations Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2033%20(2nd%20Supp.).md) or a person referred to in paragraph 4(2)(g) of that Act;
+	- **(d)** the Chief Electoral Officer, a member of his or her staff or a person whose services have been engaged under subsection 20(1); or
+	- **(e)** an election officer referred to in paragraph 22(1)(a) or (b).
+
+**No re-appointment**
+
+- **(4)** A person who has served as Commissioner is not eligible for re-appointment to that office.
+> 2000, c. 9, s. 509; 2014, c. 12, s. 108.
 
 
 
 
-**Chief Electoral Officer to direct inquiry**
 
-**510** If the Chief Electoral Officer believes on reasonable grounds that an election officer may have committed an offence against this Act or that any person may have committed an offence under any of paragraphs 486(3)(a) and (d), section 488, paragraph 489(3)(g), section 493 and subsection 499(1), the Chief Electoral Officer shall direct the Commissioner to make any inquiry that appears to be called for in the circumstances and the Commissioner shall proceed with the inquiry.
+**Position within Office of the Director of Public Prosecutions**
+
+**509.1** 
+
+- **(1)** The position of Commissioner of Canada Elections is within the Office of the Director of Public Prosecutions.
+
+**Deputy head — [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
+
+- **(2)** For the purposes of sections 11 to 13 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Director of Public Prosecutions in which the employees referred to in section 509.3 occupy their positions.
+
+**Deputy head — [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
+
+- **(3)** For the purposes of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Director of Public Prosecutions in which the employees referred to in section 509.3 occupy their positions.
+> 2014, c. 12, s. 108.
+
+
+
+
+
+**Duty**
+
+**509.2** The Commissioner’s duty is to ensure that this Act is complied with and enforced.
+> 2014, c. 12, s. 108.
+
+
+
+
+
+### Staff
+
+
+
+**Employees**
+
+**509.3** 
+
+- **(1)** The employees necessary for the Commissioner to exercise or perform his or her powers, duties and functions under this Act are to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+
+**Casual employees, etc.**
+
+- **(2)** Any additional employees that the Commissioner considers necessary for the exercise or performance of his or her powers, duties and functions under this Act may be appointed for a specified term or on a casual basis in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 2014, c. 12, s. 108.
+
+
+
+
+
+**Technical assistance**
+
+**509.4** The Commissioner may engage on a temporary basis investigators or persons having technical or specialized knowledge to advise and assist him or her in the exercise or performance of his or her powers, duties and functions under this Act.
+> 2014, c. 12, s. 108.
+
+
+
+
+
+**Authorization to assist**
+
+**509.5** The Commissioner may authorize a person employed in the Office of the Director of Public Prosecutions to assist him or her in the exercise or performance of any of his or her powers, duties and functions arising from subsections 509.1(2) and (3) and in the exercise of his or her power under section 509.4, subject to the terms and conditions that the Commissioner sets.
+> 2014, c. 12, s. 108.
+
+
+
+
+
+### Payments out of Consolidated Revenue Fund
+
+
+
+**Amounts to be paid out of C.R.F.**
+
+**509.6** The following shall be paid out of unappropriated moneys forming part of the Consolidated Revenue Fund on the certificate of the Director of Public Prosecutions:
+- **(a)** the remuneration paid to the Commissioner or to a person employed under subsection 509.3(2) and any additional remuneration paid to employees referred to in subsection 509.3(1) for overtime work to enable the Commissioner to exercise or perform his or her powers, duties and functions under this Act; and
+- **(b)** any expenses incurred by, on behalf of or in relation to the Commissioner under any other provision of this Part.
+> 2014, c. 12, s. 108.
+
+
+
+
+
+### Investigations and Prosecutions
+
+
+
+**Investigation by Commissioner**
+
+**510** 
+
+- **(1)** The Commissioner, on his or her own initiative or in response to a complaint, may conduct an investigation.
+
+**Notice**
+
+- **(2)** As soon as feasible after beginning an investigation, the Commissioner shall give written notice of the investigation to the person whose conduct is being investigated. The notice is not to be given if, in the Commissioner’s opinion, to do so might compromise or hinder the investigation or any other investigation.
+
+**Independence**
+
+- **(3)** The Commissioner is to conduct the investigation independently of the Director of Public Prosecutions.
+> 2000, c. 9, s. 510; 2014, c. 12, s. 108.
+
+
+
+
+
+**Confidentiality**
+
+**510.1** 
+
+- **(1)** Subject to subsection (2), neither the Commissioner nor any person acting under his or her direction shall disclose any information relating to an investigation that comes to their knowledge in the exercise of their powers or the performance of their duties and functions under this Act, including information that reveals or from which may be inferred the name of the complainant, if any, the person whose conduct is being investigated or any witness.
+
+**Disclosure authorized**
+
+- **(2)** The Commissioner may disclose or may authorize any person acting under his or her direction to disclose
+	- **(a)** with the consent of the person in question, the name of any of the following: the complainant, if any, the person whose conduct is being investigated and any witness;
+	- **(b)** information that, in the Commissioner’s opinion, is necessary to carry out an investigation;
+	- **(c)** when a matter is referred to the Director of Public Prosecutions under subsection 511(1), information that the Director of Public Prosecutions requires;
+	- **(d)** information that is required to be disclosed in the course of a prosecution for an offence under this Act;
+	- **(e)** information that is required to be disclosed under any other Act of Parliament;
+	- **(f)** information that, in the Commissioner’s opinion, is necessary in order to enter into or renegotiate a compliance agreement; and
+	- **(g)** information whose disclosure is, in the Commissioner’s opinion, in the public interest.
+
+**Public interest**
+
+- **(3)** For the purposes of paragraph (2)(g), the Commissioner shall take into consideration the effects of disclosure on
+	- **(a)** the privacy rights of any person who is the subject of the disclosure;
+	- **(b)** the right of the person under investigation to be presumed innocent until proved guilty according to law; and
+	- **(c)** public confidence in the fairness of the electoral process.
+> 2014, c. 12, s. 108.
+
 
 
 
@@ -12909,12 +13070,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 
 
-
-**Consultation**
-
-**535.1** The Chief Electoral Officer may, before making a report under section 534 or 535, consult the Director of Public Prosecutions on any question relating to measures taken under section 511 or 512.
-> 2006, c. 9, s. 135.
-
+**535.1** [Repealed, 2014, c. 12, s. 114]
 
 
 
@@ -13029,7 +13185,11 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 **Exception**
 
-- **(4)** Subsection (3) does not prohibit the Chief Electoral Officer, any authorized member of his or her staff or the Commissioner from inspecting the documents referred to in that subsection, and any of those documents may be produced by the Commissioner for the purpose of an inquiry made under section 510 or provided to the Director of Public Prosecutions who may produce them for the purpose of a prosecution — or possible prosecution — by the Director for an offence under this Act.
+- **(4)** Subsection (3) does not prohibit the Chief Electoral Officer or any authorized member of his or her staff from inspecting the documents referred to in that subsection.
+
+**Exception**
+
+- **(4.1)** The Chief Electoral Officer may also disclose any of the documents referred to in subsection (3) to the Commissioner for the purposes of the exercise or performance of the Commissioner’s powers, duties and functions under this Act and the Commissioner may, in turn, disclose any of those documents to the Director of Public Prosecutions, who may produce them for the purpose of a prosecution — or possible prosecution — by the Director for an offence under this Act.
 
 **Election documents or papers admissible in evidence when certified**
 
@@ -13050,7 +13210,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 **Conditions of inspections**
 
 - **(9)** An order for the inspection or production of election documents or documents that relate to the updating of the Register of Electors may be made subject to any conditions with respect to persons, time, place and mode of inspection or production that the judge considers appropriate.
-> 2000, c. 9, s. 540; 2006, c. 9, s. 136.
+> 2000, c. 9, s. 540; 2006, c. 9, s. 136; 2014, c. 12, s. 117.
 
 
 
@@ -13240,9 +13400,11 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 - **(a)** any amount payable under section 15;
 - **(b)** the remuneration paid to a person employed under section 20, any additional remuneration paid to staff referred to in subsection 19(1) for overtime work to enable the Chief Electoral Officer to exercise his or her powers and discharge his or her duties under this Act and any administration expenses that are incurred for that purpose;
 - **(c)** any expenses incurred by the Chief Electoral Officer to acquire information referred to in paragraph 46(1)(b);
-- **(d)** any fees, costs, allowances or expenses referred to in subsection 542(1);
-- **(e)** any expenses incurred by the Chief Electoral Officer for preparing and printing election material and for the purchase of election supplies; and
-- **(f)** on the certificate of the Chief Electoral Officer, any expenses incurred by, on behalf of or in relation to the Commissioner under sections 509 to 513 and 516 to 521.
+- **(d)** any fees, costs, allowances or expenses referred to in subsection 542(1); and
+- **(e)** any expenses incurred by the Chief Electoral Officer for preparing and printing election material and for the purchase of election supplies.
+- **(f)** [Repealed, 2014, c. 12, s. 123]
+> 2000, c. 9, s. 553; 2014, c. 12, s. 123.
+
 
 
 
