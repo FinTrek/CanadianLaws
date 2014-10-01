@@ -51,6 +51,8 @@
 
 ***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b);
 
+***CHFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md);
+
 ***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
@@ -110,6 +112,8 @@
 ***free trade partner*** means a country or territory set out in column 1 of Part 1 of the schedule;
 
 ***goods***, for greater certainty, includes conveyances, animals and any document in any form;
+
+***Honduras*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***Iceland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
@@ -259,7 +263,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62; 2014, c. 14, s. 23.
 
 
 
@@ -1765,28 +1769,28 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **42.3** 
 
-- **(1)** In this section, ***customs administration*** has the meaning assigned to that expression by Article 514 of NAFTA, Article E-14 of CCFTA or Article V.14 of CCRFTA, as the case may be.
+- **(1)** In this section, ***customs administration*** has the meaning assigned to that expression by Article 514 of NAFTA, Article E-14 of CCFTA, Article V.14 of CCRFTA or Article 5.1 of CHFTA, as the case may be.
 
 **Effective date of redetermination or further redetermination of origin of goods**
 
-- **(2)** Subject to subsection (4), a redetermination or further redetermination of origin does not take effect until notice of it is given to the importer of the goods and any person who completed and signed a Certificate of Origin for the goods if the result of the redetermination or further redetermination of origin made under subsection 59(1) in respect of goods for which preferential tariff treatment under NAFTA, CCFTA or CCRFTA is claimed and that are the subject of a verification of origin under this Act is that
+- **(2)** Subject to subsection (4), a redetermination or further redetermination of origin does not take effect until notice of it is given to the importer of the goods and any person who completed and signed a Certificate of Origin for the goods if the result of the redetermination or further redetermination of origin made under subsection 59(1) in respect of goods for which preferential tariff treatment under NAFTA, CCFTA, CCRFTA or CHFTA is claimed and that are the subject of a verification of origin under this Act is that
 	- **(a)** the goods are not eligible for that preferential tariff treatment on the basis of the tariff classification or value of one or more materials used in their production; and
-	- **(b)** that tariff classification or value differs from the tariff classification or value applied to those materials by the NAFTA country from which the goods were exported, from Chile or from Costa Rica, as the case may be.
+	- **(b)** that tariff classification or value differs from the tariff classification or value applied to those materials by the NAFTA country from which the goods were exported, from Chile, from Costa Rica or from Honduras, as the case may be.
 
 **Limitation**
 
-- **(3)** A redetermination or further redetermination of origin referred to in subsection (2) shall not be applied to goods imported before the date on which the notice was given if the customs administration of the NAFTA country from which the goods were exported, of Chile or of Costa Rica, as the case may be, has, before that date,
-	- **(a)** given an advance ruling under Article 509 of NAFTA, Article E-09 of CCFTA or Article V.9 of CCRFTA, as the case may be, or given another ruling referred to in paragraph 12 of Article 506 of NAFTA, paragraph 12 of Article E-06 of CCFTA or paragraph 15 of Article V.6 of CCRFTA, as the case may be, on the tariff classification or value of the materials referred to in subsection (2); or
-	- **(b)** given consistent treatment with respect to the tariff classification or value of the materials referred to in subsection (2) on their importation into the NAFTA country, Chile or Costa Rica, as the case may be.
+- **(3)** A redetermination or further redetermination of origin referred to in subsection (2) shall not be applied to goods imported before the date on which the notice was given if the customs administration of the NAFTA country from which the goods were exported, of Chile, of Costa Rica or of Honduras, as the case may be, has, before that date,
+	- **(a)** given an advance ruling under Article 509 of NAFTA, Article E-09 of CCFTA, Article V.9 of CCRFTA, paragraph 1 of Article 5.10 or paragraph 11 of Article 6.2 of CHFTA as the case may be, or given another ruling referred to in paragraph 12 of Article 506 of NAFTA, paragraph 12 of Article E-06 of CCFTA, paragraph 15 of Article V.6 of CCRFTA, or paragraph 15 of Article 5.7 of CHFTA, as the case may be, on the tariff classification or value of the materials referred to in subsection (2); or
+	- **(b)** given consistent treatment with respect to the tariff classification or value of the materials referred to in subsection (2) on their importation into the NAFTA country, Chile, Costa Rica or Honduras, as the case may be.
 
 **Postponement of effective date**
 
-- **(4)** The date on which a redetermination or further redetermination of origin referred to in subsection (2) takes effect shall be postponed for a period not exceeding ninety days if the importer of the goods that are the subject of the redetermination or further redetermination or any person who completed and signed a Certificate of Origin for the goods establishes to the satisfaction of the Minister that the importer or the person, as the case may be, has relied in good faith, to the detriment of the importer or person, on the tariff classification or value applied to the materials referred to in that subsection by the customs administration of the NAFTA country from which the goods were exported, of Chile or of Costa Rica, as the case may be.
+- **(4)** The date on which a redetermination or further redetermination of origin referred to in subsection (2) takes effect shall be postponed for a period not exceeding ninety days if the importer of the goods that are the subject of the redetermination or further redetermination or any person who completed and signed a Certificate of Origin for the goods establishes to the satisfaction of the Minister that the importer or the person, as the case may be, has relied in good faith, to the detriment of the importer or person, on the tariff classification or value applied to the materials referred to in that subsection by the customs administration of the NAFTA country from which the goods were exported, of Chile, Costa Rica or of Honduras, as the case may be.
 
 **Effect of detrimental reliance under CEFTA**
 
 - **(5)** If an exporter of goods from an EFTA state demonstrates, to the satisfaction of the Minister, that it has relied, in good faith and to its detriment, on a ruling made by the Agency or the customs administration of an EFTA state with respect to the tariff classification or value of a non-originating material used in the production of goods, a redetermination of origin by the Agency in respect of goods for which preferential tariff treatment under CEFTA is claimed shall apply only to importations of the goods made after the date of the redetermination.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27; 2009, c. 6, s. 25.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27; 2009, c. 6, s. 25; 2014, c. 14, s. 24.
 
 
 
@@ -6019,6 +6023,11 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
 </tr>
 <tr>
+<td>Honduras</td>
+<td>CHFTA</td>
+<td>Honduras Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
 <td>Israel or another CIFTA beneficiary</td>
 <td>CIFTA</td>
 <td>Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
@@ -6068,6 +6077,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Article V.14</td>
 </tr>
 <tr>
+<td>CHFTA</td>
+<td>Article 4.1</td>
+</tr>
+<tr>
 <td>CJFTA</td>
 <td>Article 5-11</td>
 </tr>
@@ -6112,6 +6125,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Article 28(2) of Annex C of CEFTA</td>
 </tr>
 <tr>
+<td>Honduras</td>
+<td>paragraph 1 of Article 5.10 or paragraph 11 of Article 6.2 of CHFTA</td>
+</tr>
+<tr>
 <td>Jordan</td>
 <td>paragraph 10 of Article 6-2 of CJFTA</td>
 </tr>
@@ -6150,6 +6167,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <tr>
 <td>EFTA State</td>
 <td>CEFTA</td>
+</tr>
+<tr>
+<td>Honduras</td>
+<td>CHFTA</td>
 </tr>
 <tr>
 <td>Jordan</td>
@@ -6192,6 +6213,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Chapter II and Annex C</td>
 </tr>
 <tr>
+<td>CHFTA</td>
+<td>Chapter Five</td>
+</tr>
+<tr>
 <td>CJFTA</td>
 <td>Chapter Five</td>
 </tr>
@@ -6209,6 +6234,6 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 </tr>
 </table>
 
-> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62.
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29.
 
 
