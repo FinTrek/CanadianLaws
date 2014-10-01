@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013.
+***Accord*** L’Accord de libre-échange entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013. (*Agreement*)
 
-***accord connexe*** L’un ou l’autre des accords suivants :
+***accord connexe*** L’un ou l’autre des accords suivants :
 - **a)** l’Accord de coopération dans le domaine de l’environnement entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013;
-- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013.
+- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013. (*related agreement*)
 
-***Commission*** La commission du libre-échange établie aux termes de l’article 21.1 de l’Accord.
+***Commission*** La commission du libre-échange établie aux termes de l’article 21.1 de l’Accord. (*Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
@@ -427,7 +427,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind824C_hq_14189'>[*]</a></sup>**53** La présente loi, à l’exception des articles 51 et 52, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind824C_hq_14189'><sup>*</sup></a>: [Note : Loi, à l’exception des articles 51 et 52, non en vigueur.]<br />
+<a name='fn_Ind824C_hq_14189'><sup>*</sup></a>: [Note : Loi, à l’exception des articles 51 et 52, en vigueur le 1<sup>er</sup> octobre 2014, *voir* TR/2014-74.]<br />
 
 
 
