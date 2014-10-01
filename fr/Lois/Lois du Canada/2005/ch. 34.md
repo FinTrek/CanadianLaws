@@ -280,7 +280,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **19.1** 
 
-- **(1)** Les sommes reçues par Sa Majesté à titre de compensations monétaires versées par suite de la décision d’un groupe spécial rendue en vertu d’un traité sur le travail mentionné à l’annexe sont versées au Trésor et portées au crédit du compte spécial intitulé « compte sur les traités sur le travail », ouvert parmi les comptes du Canada.
+- **(1)** Les sommes reçues par Sa Majesté à titre de compensations monétaires versées par suite de la décision d’un groupe spécial rendue en vertu d’un traité sur le travail mentionné à l’annexe sont versées au Trésor et portées, lorsque le traité l’exige, au crédit du compte spécial intitulé « compte sur les traités sur le travail », ouvert parmi les comptes du Canada.
 
 **Crédits additionnels**
 
@@ -293,7 +293,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Débit**
 
 - **(4)** À la demande du ministre du Travail, peuvent être prélevées sur le Trésor, en conformité avec les dispositions d’un traité, une ou plusieurs sommes dont le total n’excède pas la somme portée au crédit du compte, y compris les intérêts, relativement au traité. Ces sommes sont alors affectées au compte.
-> 2009, ch. 16, art. 50.
+> 2009, ch. 16, art. 50; 2014, ch. 14, art. 49 et 51.
 
 
 
@@ -1461,6 +1461,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 L’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie, signé le 21 novembre 2008, avec ses modifications éventuelles apportées en conformité avec son article 30.
 
 
+L’Accord de coopération dans le domaine du travail entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013, avec ses modifications éventuelles apportées en conformité avec son article 22.
+
+
 L’Accord de coopération dans le domaine du travail entre le Canada et la République du Panama, fait à Ottawa le 13 mai 2010, avec ses modifications éventuelles apportées en conformité avec son article 22.
 
 
@@ -1470,6 +1473,6 @@ L’Accord de coopération dans le domaine du travail entre le Canada et la Rép
 L’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009, avec ses modifications éventuelles apportées en conformité avec son article 22.
 
 
-> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62.
+> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62; 2014, ch. 14, art. 50.
 
 
