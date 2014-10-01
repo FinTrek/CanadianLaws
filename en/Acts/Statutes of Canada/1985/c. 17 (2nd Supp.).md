@@ -849,8 +849,12 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 <td>Article 9.20 or 9.21</td>
 <td>Free Trade Agreement between Canada and the Republic of Panama, done at Ottawa on May 14, 2010</td>
 </tr>
+<tr>
+<td>Articles 10.19 or 10.20</td>
+<td>Free Trade Agreement between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013</td>
+</tr>
 </table>
 
-> 2012, c. 26, s. 26.
+> 2012, c. 26, s. 26; 2014, c. 14, s. 30.
 
 
