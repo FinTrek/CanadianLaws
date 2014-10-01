@@ -370,6 +370,28 @@ Autorités habilitantes :
 - **c)** sont admissibles à un avantage relatif au niveau de préférence tarifaire indiqué à l’appendice III 1.6.1 de l’annexe III.1 de l’ALÉCCR.
 
 
+**86.95** 
+
+- **(1)** Vêtements qui, à la fois :
+	- **a)** sont coupés ou façonnés et cousus ou autrement assemblés au Honduras à partir de tissus ou de fil produits ou obtenus à l’extérieur du Honduras et du Canada;
+	- **b)** ne sont pas inclus dans un autre article de la présente liste;
+	- **c)** sont admissibles à un avantage relatif au niveau de préférence tarifaire indiqué à la section 5 de l’annexe 3.1 de l’ALÉCH.
+
+- **(2)** Au présent article, ***vêtements*** s’entend des marchandises visées aux chapitres 61 et 62 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
+
+**86.96** Tissus et articles textiles confectionnés visés aux chapitres 51 à 55, 58, 60 et 63 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) qui, à la fois :
+- **a)** sont tissés ou confectionnés au Honduras à partir de fil produit ou obtenu à l’extérieur du Honduras et du Canada, ou confectionnés au Honduras à partir de fil fabriqué au Honduras ou au Canada à partir de fibres ou de filaments produits ou obtenus à l’extérieur du Honduras et du Canada;
+- **b)** ne sont pas inclus dans un autre article de la présente liste;
+- **c)** sont admissibles à un avantage relatif au niveau de préférence tarifaire indiqué à la section 5 de l’annexe 3.1 de l’ALÉCH.
+
+
+**86.97** Les produits visés à la sous-position 9404.90 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) qui, à la fois :
+- **a)** sont finis et coupés et cousus ou autrement assemblés au Honduras à partir de tissus ou de fil produits ou obtenus à l’extérieur du Honduras et du Canada;
+- **b)** ne sont pas inclus dans un autre article de la présente liste;
+- **c)** sont admissibles à un avantage relatif au niveau de préférence tarifaire indiqué à la section 5 de l’annexe 3.1 de l’ALÉCH.
+
+
 **87 et 88** [Abrogés, DORS/95-32, art. 7]
 
 
@@ -725,7 +747,7 @@ Autorités habilitantes :
 **194** [Abrogé, DORS/2011-157, art. 1]
 
 
-> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1; DORS/2011-321, art. 1 à 7; DORS/2012-258, art. 1 et 2.
+> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1; DORS/2011-321, art. 1 à 7; DORS/2012-258, art. 1 et 2; DORS/2014-224, art. 1.
 
 
 
