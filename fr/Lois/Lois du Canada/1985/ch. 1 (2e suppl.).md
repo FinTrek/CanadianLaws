@@ -51,6 +51,8 @@
 
 ***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
+***ALÉCH*** S’entend de l’Accord au sens de l’article 2 de la Loi sur la croissance économique et la prospérité  —  Canada-Honduras.
+
 ***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
 
 ***ALÉCJ*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
@@ -110,6 +112,8 @@
 ***États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
 ***exporter*** Exporter hors du Canada.
+
+***Honduras*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
@@ -259,7 +263,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62; 2014, ch. 14, art. 23.
 
 
 
@@ -1757,26 +1761,26 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **42.3** 
 
-- **(1)** Au présent article, ***administration douanière*** s’entend, selon le cas, au sens de l’article 514 de l’ALÉNA, à celui de l’article E-14 de l’ALÉCC ou à celui de l’article V.14 de l’ALÉCCR.
+- **(1)** Au présent article, ***administration douanière*** s’entend, selon le cas, au sens de l’article 514 de l’ALÉNA, à celui de l’article E-14 de l’ALÉCC, à celui de l’article V.14 de l’ALÉCCR ou à celui de l’article 5.1 de l’ALÉCH.
 
 **Prise d’effet de la révision ou du réexamen**
 
-- **(2)** Sous réserve du paragraphe (4), si, à la suite de la révision ou du réexamen, en application du paragraphe 59(1), de l’origine de marchandises qui font l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉNA, de celui de l’ALÉCC ou de celui de l’ALÉCCR et dont la vérification de l’origine est prévue par la présente loi, celles-ci ne peuvent pas bénéficier du traitement tarifaire préférentiel demandé pour le motif que le classement tarifaire ou la valeur d’une matière ou d’un matériel ou de plusieurs matières ou matériels utilisés pour la production de ces marchandises diffère du classement ou de la valeur correspondants de ces matières ou matériels dans le pays d’exportation — pays ALÉNA, Chili ou Costa Rica — , la prise d’effet de la révision ou du réexamen est subordonnée à leur notification à l’importateur et à l’auteur de tout certificat d’origine des marchandises.
+- **(2)** Sous réserve du paragraphe (4), si, à la suite de la révision ou du réexamen, en application du paragraphe 59(1), de l’origine de marchandises qui font l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉNA, de celui de l’ALÉCC, de celui de l’ALÉCCR ou de celui de l’ALÉCH et dont la vérification de l’origine est prévue par la présente loi, celles-ci ne peuvent pas bénéficier du traitement tarifaire préférentiel demandé pour le motif que le classement tarifaire ou la valeur d’une matière ou d’un matériel ou de plusieurs matières ou matériels utilisés pour la production de ces marchandises diffère du classement ou de la valeur correspondants de ces matières ou matériels dans le pays d’exportation  —  pays ALÉNA, Chili, Costa Rica ou Honduras  —, la prise d’effet de la révision ou du réexamen est subordonnée à leur notification à l’importateur et à l’auteur de tout certificat d’origine des marchandises.
 
 **Réserve**
 
 - **(3)** La révision ou le réexamen de l’origine visée au paragraphe (2) ne s’applique pas aux marchandises importées avant la date de la notification dans les cas où l’administration douanière du pays d’exportation a, avant cette date :
-	- **a)** soit rendu une décision anticipée aux termes de l’article 509 de l’ALÉNA, de l’article E-09 de l’ALÉCC ou de l’article V.9 de l’ALÉCCR, selon le cas, ou une décision visée au paragraphe 12 de l’article 506 de l’ALÉNA, au paragraphe 12 de l’article E-06 de l’ALÉCC ou au paragraphe 15 de l’article V.6 de l’ALÉCCR, selon le cas, sur le classement tarifaire ou la valeur des matières ou matériels visés au paragraphe (2);
+	- **a)** soit rendu une décision anticipée aux termes de l’article 509 de l’ALÉNA, de l’article E-09 de l’ALÉCC, de l’article V.9 de l’ALÉCCR ou du paragraphe 1 de l’article 5.10 ou du paragraphe 11 de l’article 6.2 de l’ALÉCH, selon le cas, ou une décision visée au paragraphe 12 de l’article 506 de l’ALÉNA, au paragraphe 12 de l’article E-06 de l’ALÉCC, au paragraphe 15 de l’article V.6 de l’ALÉCCR ou au paragraphe 15 de l’article 5.7 de l’ALÉCH, selon le cas, sur le classement tarifaire ou la valeur des matières ou matériels visés au paragraphe (2);
 	- **b)** soit effectué le classement tarifaire ou la détermination de la valeur des matières ou matériels visés au paragraphe (2) de manière uniforme au moment de leur importation dans ce pays.
 
 **Report de la date de prise d’effet**
 
-- **(4)** La date de prise d’effet de la révision ou du réexamen de l’origine visé au paragraphe (2) est reportée pour une période maximale de quatre-vingt-dix jours, si le ministre est convaincu que l’importateur des marchandises ou l’auteur de tout certificat d’origine de celles-ci a démontré qu’il s’est fondé de bonne foi, à son détriment, sur le classement tarifaire ou la détermination de la valeur des matières ou matériels visés à ce paragraphe effectués par l’administration douanière du pays ALÉNA d’exportation des marchandises, du Chili ou du Costa Rica, selon le cas.
+- **(4)** La date de prise d’effet de la révision ou du réexamen de l’origine visé au paragraphe (2) est reportée pour une période maximale de quatre-vingt-dix jours, si le ministre est convaincu que l’importateur des marchandises ou l’auteur de tout certificat d’origine de celles-ci a démontré qu’il s’est fondé de bonne foi, à son détriment, sur le classement tarifaire ou la détermination de la valeur des matières ou matériels visés à ce paragraphe effectués par l’administration douanière du pays ALÉNA d’exportation des marchandises, du Chili, du Costa Rica ou du Honduras, selon le cas.
 
 **Information préjudiciable en vertu de l’ALÉCA**
 
 - **(5)** Lorsque l’exportateur de marchandises d’un État de l’AELÉ convainc le ministre qu’il s’est fondé de bonne foi, à son détriment, sur une décision de l’Agence ou de l’administration douanière d’un État de l’AELÉ concernant le classement tarifaire ou la valeur d’une matière non originaire utilisée dans la production de marchandises, la révision de l’origine rendue par l’Agence en ce qui concerne les marchandises pour lesquelles le traitement tarifaire préférentiel est réclamé en vertu de l’ALÉCA ne s’appliquera qu’à des importations de marchandises effectuées après la date de la révision.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27; 2009, ch. 6, art. 25.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27; 2009, ch. 6, art. 25; 2014, ch. 14, art. 24.
 
 
 
@@ -5999,6 +6003,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Taux de droits de douane du tarif de l’Islande, du tarif de la Norvège ou du tarif de Suisse-Liechtenstein visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
 <tr>
+<td>Honduras</td>
+<td>ALÉCH</td>
+<td>Taux de droits de douane du tarif du Honduras visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
+</tr>
+<tr>
 <td>Israël ou autre bénéficiare de l’ALÉCI</td>
 <td>ALÉCI</td>
 <td>Taux de droits de douane du tarif de l’Accord Canada — Israël visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
@@ -6048,6 +6057,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Article V.14</td>
 </tr>
 <tr>
+<td>ALÉCH</td>
+<td>Article 4.1</td>
+</tr>
+<tr>
 <td>ALÉCJ</td>
 <td>Article 5-11</td>
 </tr>
@@ -6092,6 +6105,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>paragraphe 28(2) de l’annexe C de l’ALÉCA</td>
 </tr>
 <tr>
+<td>Honduras</td>
+<td>paragraphe 1 de l’article 5.10 ou paragraphe 11 de l’article 6.2 de l’ALÉCH</td>
+</tr>
+<tr>
 <td>Jordanie</td>
 <td>paragraphe 10 de l’article 6-2 de l’ALÉCJ</td>
 </tr>
@@ -6130,6 +6147,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>État de l’AELÉ</td>
 <td>ALÉCA</td>
+</tr>
+<tr>
+<td>Honduras</td>
+<td>ALÉCH</td>
 </tr>
 <tr>
 <td>Jordanie</td>
@@ -6172,6 +6193,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Chapitres III et V</td>
 </tr>
 <tr>
+<td>ALÉCH</td>
+<td>Chapitre cinq</td>
+</tr>
+<tr>
 <td>ALÉCJ</td>
 <td>Chapitre 5</td>
 </tr>
@@ -6189,6 +6214,6 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29.
 
 
