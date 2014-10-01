@@ -280,7 +280,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **19.1** 
 
-- **(1)** All moneys received by Her Majesty as a result of a monetary assessment by a panel determination under any treaty respecting labour cooperation referred to in the schedule shall be paid into the Consolidated Revenue Fund and credited to a special account in the accounts of Canada to be known as the Labour Cooperation Treaties Account.
+- **(1)** All moneys received by Her Majesty as a result of a monetary assessment by a panel determination under any treaty respecting labour cooperation referred to in the schedule shall be paid into the Consolidated Revenue Fund and, if required under the treaty, credited to a special account in the accounts of Canada to be known as the Labour Cooperation Treaties Account.
 
 **Additional credits to the Account**
 
@@ -293,7 +293,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payment of moneys**
 
 - **(4)** One or more amounts not exceeding in total the amount standing in the Account in relation to a treaty, including interest, may, on the requisition of the Minister of Labour, be paid out of the Consolidated Revenue Fund in accordance with the provisions of the treaty. The amount of all such payments is to be charged to the Account.
-> 2009, c. 16, s. 50.
+> 2009, c. 16, s. 50; 2014, c. 14, ss. 49, 51.
 
 
 
@@ -1468,12 +1468,15 @@ The Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of 
 The Agreement on Labour Cooperation between Canada and the Republic of Colombia, signed on November 21, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
+The Agreement on Labour Cooperation between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013, as amended from time to time in accordance with Article 22 of that Agreement.
+
+
 The Agreement on Labour Cooperation between Canada and the Republic of Panama, done at Ottawa on May 13, 2010, as amended from time to time in accordance with Article 22 of that Agreement.
 
 
 The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
-> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62.
+> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50.
 
 
