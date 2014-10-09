@@ -274,9 +274,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Il consulte les ministres provinciaux compétents des provinces participantes avant de recommander au gouverneur en conseil la nomination d’un administrateur ou d’y procéder en vertu du paragraphe (8).
 
-**Représentativité**
+**Représentativité et compétence**
 
-- **(4)** Lorsqu’il fait la recommandation visée au paragraphe (1) ou lorsqu’il nomme un administrateur en application du paragraphe (8), le ministre tente d’assurer, autant que faire se peut, d’une part, la représentation des diverses régions du pays et, d’autre part, la présence au conseil d’un nombre suffisant de personnes ayant une compétence financière reconnue ou une expérience de travail propre à aider l’Office à accomplir sa mission avec efficacité.
+- **(4)** Avant de faire la recommandation visée au paragraphe (1) ou de nommer un administrateur en application du paragraphe (8), le ministre :
+	- **a)** tient compte de l’opportunité d’assurer :
+		- **(i)** la représentation des diverses régions du pays au sein du conseil,
+		- **(ii)** la présence au conseil d’un nombre suffisant de personnes ayant une compétence financière reconnue ou une expérience de travail propre à aider l’Office à accomplir sa mission avec efficacité;
+	- **b)** veille à ce que, dans la mesure du possible, au plus trois des douze administrateurs résident à l’extérieur du Canada.
 
 **Nouveau mandat**
 
@@ -303,12 +307,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** qui n’est pas une personne physique;
 	- **e)** qui est mandataire ou employé de Sa Majesté du chef du Canada ou d’une province;
 	- **f)** qui est membre du Sénat ou de la Chambre des communes, ou d’une législature provinciale;
-	- **g)** qui travaille pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire;
-	- **h)** qui n’est pas résidente du Canada.
+	- **g)** qui travaille pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire.
+	- **h)** [Abrogé, 2013, ch. 40, art. 277]
 
 **Rémunération des administrateurs**
 
 - **(10)** Les administrateurs reçoivent de l’Office la rémunération et les avantages fixés par règlement administratif compte tenu de la rémunération et des avantages accordés aux personnes ayant des fonctions et des responsabilités semblables.
+> 1997, ch. 40, art. 10; 2013, ch. 40, art. 277.
+
 
 
 
