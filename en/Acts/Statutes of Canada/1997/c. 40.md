@@ -278,9 +278,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The Minister shall consult with the appropriate provincial Ministers of the participating provinces before making any recommendation to the Governor in Council with respect to the appointment of directors and before making an appointment under subsection (8).
 
-**Factors for consideration in appointments**
+**Appointment factors**
 
-- **(4)** Before making any recommendation to the Governor in Council with respect to the appointment of directors, and before making an appointment under subsection (8), the Minister shall have regard to the desirability of having directors who are representative of the various regions of Canada and having on the board of directors a sufficient number of directors with proven financial ability or relevant work experience such that the Board will be able to effectively achieve its objects.
+- **(4)** Before making a recommendation to the Governor in Council with respect to the appointment of directors and before making an appointment under subsection (8), the Minister shall
+	- **(a)** have regard to the desirability of having on the board of directors
+		- **(i)** directors who are representative of the various regions of Canada, and
+		- **(ii)** a sufficient number of directors with proven financial ability or relevant work experience to enable the Board to effectively achieve its objects; and
+	- **(b)** endeavour to ensure that no more than three of the 12 directors reside outside Canada.
 
 **Reappointment**
 
@@ -306,13 +310,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** a person who has the status of a bankrupt;
 	- **(d)** a person who is not a natural person;
 	- **(e)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
-	- **(f)** a person who is a member of the Senate or House of Commons of Canada or a member of a provincial legislature;
-	- **(g)** a person who is an agent or employee of the government of a foreign country or any political subdivision of a foreign country; and
-	- **(h)** a person who is not a resident of Canada.
+	- **(f)** a person who is a member of the Senate or House of Commons of Canada or a member of a provincial legislature; and
+	- **(g)** a person who is an agent or employee of the government of a foreign country or any political subdivision of a foreign country.
+	- **(h)** [Repealed, 2013, c. 40, s. 277]
 
 **Remuneration and benefits of directors**
 
 - **(10)** A director is entitled to receive from the Board such remuneration and benefits as may be fixed by the by-laws, which remuneration and benefits shall be fixed having regard to the remuneration and benefits received by persons having similar responsibilities and engaged in similar activities.
+> 1997, c. 40, s. 10; 2013, c. 40, s. 277.
+
 
 
 
