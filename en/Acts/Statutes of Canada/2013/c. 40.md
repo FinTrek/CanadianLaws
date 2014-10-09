@@ -1557,7 +1557,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind15B9_hq_13122'>[*]</a></sup>**278** Section 277 comes into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind15B9_hq_13122'><sup>*</sup></a>: [Note: Section 277 not in force.]<br />
+<a name='fn_Ind15B9_hq_13122'><sup>*</sup></a>: [Note: Section 277 in force October 9, 2014, *see* SI/2014-82.]<br />
 
 
 
