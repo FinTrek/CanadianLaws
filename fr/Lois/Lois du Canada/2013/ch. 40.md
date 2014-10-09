@@ -1557,7 +1557,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind2FDE_hq_13118'>[*]</a></sup>**278** L’article 277 entre en vigueur, conformément au paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date fixée par décret.
 
-<a name='fn_Ind2FDE_hq_13118'><sup>*</sup></a>: [Note : Article 277 non en vigueur.]<br />
+<a name='fn_Ind2FDE_hq_13118'><sup>*</sup></a>: [Note : Article 277 en vigueur le 9 octobre 2014, *voir* TR/2014-82.]<br />
 
 
 
