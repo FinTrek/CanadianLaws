@@ -962,8 +962,8 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Exception**
 
-- **(2)** A claimant to whom benefits are payable under section 23 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
-> 1996, c. 23, s. 18; 2012, c. 27, s. 15.
+- **(2)** A claimant to whom benefits are payable under any of sections 23 to 23.2 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
+> 1996, c. 23, s. 18; 2012, c. 27, s. 15; 2014, c. 20, s. 247.
 
 
 
@@ -4449,7 +4449,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Exception**
 
-- **(1.1)** A self-employed person to whom benefits are payable under section 152.05 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
+- **(1.1)** A self-employed person to whom benefits are payable under any of sections 152.05 to 152.061 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
 
 **Limitation**
 
@@ -4462,7 +4462,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Disentitlement**
 
 - **(4)** A self-employed person, other than one referred to in subsection (1.1), is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 21.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 21; 2014, c. 20, s. 248.
 
 
 
