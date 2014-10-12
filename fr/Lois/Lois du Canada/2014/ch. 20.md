@@ -1572,7 +1572,7 @@ où :
 
 <sup><a href='#fn_Ind61A4_hq_14274'>[*]</a></sup>**251** La présente section, à l’exception de l’article 249, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind61A4_hq_14274'><sup>*</sup></a>: [Note : Section 17, à l’exception de l’article 249, non en vigueur.]<br />
+<a name='fn_Ind61A4_hq_14274'><sup>*</sup></a>: [Note : Section 17, à l’exception de l’article 249, en vigueur le 12 octobre 2014, *voir* TR/2014-79.]<br />
 
 
 
