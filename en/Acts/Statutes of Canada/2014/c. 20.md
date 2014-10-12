@@ -1572,7 +1572,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind1BA7_hq_14287'>[*]</a></sup>**251** This Division, other than section 249, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1BA7_hq_14287'><sup>*</sup></a>: [Note: Division 17, other than section 249, not in force.]<br />
+<a name='fn_Ind1BA7_hq_14287'><sup>*</sup></a>: [Note: Division 17, other than section 249, in force October 12, 2014, *see* SI/2014-79.]<br />
 
 
 
