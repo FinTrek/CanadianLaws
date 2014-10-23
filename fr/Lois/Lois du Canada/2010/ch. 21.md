@@ -1321,11 +1321,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **  8** Cerfs-volants contenant du métal non isolé qui est séparé des surfaces conductrices adjacentes par une surface non conductrice inférieure à 50 mm et qui satisfait à l’un des critères suivants :
 
-a) sa dimension linéaire maximale est supérieure à 150 mm;
+**a)** sa dimension linéaire maximale est supérieure à 150 mm;
 
 
 
-b) il est plaqué ou couvert d’une pellicule conductrice dont la dimension linéaire maximale est supérieure à 150 mm.
+**b)** il est plaqué ou couvert d’une pellicule conductrice dont la dimension linéaire maximale est supérieure à 150 mm.
 
 
 
@@ -1338,19 +1338,19 @@ b) il est plaqué ou couvert d’une pellicule conductrice dont la dimension lin
 
 **11** Substance utilisée pour faire éternuer qui peut être dénommée « poudre à éternuer » et qui contient l’un des éléments suivants :
 
-a) du 3,3′-diméthoxybenzidine (4,4′-diamino-3,3′-diméthoxybiphényl) ou l’un de ses sels;
+**a)** du 3,3′-diméthoxybenzidine (4,4′-diamino-3,3′-diméthoxybiphényl) ou l’un de ses sels;
 
 
 
-b) un produit dérivé d’une plante appartenant aux espèces *Helleborus* (ellébore), *Vératrum album* (vératre blanc) ou *Quillaia* (bois de Panama);
+**b)** un produit dérivé d’une plante appartenant aux espèces *Helleborus* (ellébore), *Vératrum album* (vératre blanc) ou *Quillaia* (bois de Panama);
 
 
 
-c) de la protovératrine ou de la vératrine;
+**c)** de la protovératrine ou de la vératrine;
 
 
 
-d) un isomère de nitrobenzaldéhyde.
+**d)** un isomère de nitrobenzaldéhyde.
 
 
 
@@ -1366,5 +1366,10 @@ d) un isomère de nitrobenzaldéhyde.
 
 **15** Biberons de polycarbonate qui contiennent du 4,4′-isopropylidènediphénol (bisphénol A).
 
+
+**16** Produits en mousse de polyuréthane ou qui en sont composés contenant du phosphate de tris (2-chloroéthyle) et destinés aux enfants de moins de trois ans.
+
+
+> 2010, ch. 21, ann. 2; DORS/2014-79.
 
 
