@@ -25662,8 +25662,8 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 - **(1)** No manufacturer shall sell a drug in dosage form unless a drug identification number has been assigned for that drug and the assignment of the number has not been cancelled pursuant to section C.01.014.6.
 
-- **(2)** Subsection (1) does not apply in respect of a drug listed in Schedule C to the Act, whole blood and its components, or a medicated feed as defined in section 2 of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md).
-> SOR/81-248, s. 2; SOR/97-12, s. 3.
+- **(2)** Subsection (1) does not apply in respect of a drug that is listed in Schedule C to the Act or a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md).
+> SOR/81-248, s. 2; SOR/97-12, s. 3; SOR/2013-179, s. 1.
 
 
 
@@ -28021,11 +28021,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>3</td>
-<td>Whole blood and its components</td>
+<td>[Repealed, SOR/2013-179, s. 2]</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Drugs listed in Schedule D to the Act, other than vaccines or whole blood and its components</td>
+<td>Drugs that are listed in Schedule D to the Act, other than vaccines</td>
 </tr>
 <tr>
 <td>5</td>
@@ -28037,7 +28037,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2.
 
 
 
@@ -29508,7 +29508,7 @@ where the radioactive daughter is separated from its parent by
 	- **(vii)** adequate direction for use; and
 - **(b)** on the outer label
 	- **(i)** the address of the distributor referred to in paragraph C.01A.003(b),
-	- **(ii)** for whole blood and its components, the establishment licence number of the distributor referred to in paragraph C.01A.003(b), preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof,
+	- **(ii)** [Repealed, SOR/2013-179, s. 3]
 	- **(iii)** the proper name, or the common name if there is no proper name, and the amount, of any preservative in the drug,
 	- **(iv)** a statement that the drug shall be stored at a temperature of not less than 2°C and not more than 10°C, unless the Minister has received evidence demonstrating that such a statement is not required,
 	- **(v)** a statement of the net contents in terms of weight, measure, or number, and
@@ -29517,7 +29517,7 @@ where the radioactive daughter is separated from its parent by
 *SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.*”.
 
 
-> SOR/78-424, s. 7; SOR/93-202, s. 21; SOR/97-12, ss. 39, 54, 58; SOR/2011-88, s. 6.
+> SOR/78-424, s. 7; SOR/93-202, s. 21; SOR/97-12, ss. 39, 54, 58; SOR/2011-88, s. 6; SOR/2013-179, s. 3.
 
 
 
@@ -30230,601 +30230,99 @@ acceptable to the Director.
 
 
 
+**C.04.400** [Repealed, SOR/2013-179, s. 4]
 
-#### Human Plasma Collected by Plasmapheresis
 
 
+**C.04.401** [Repealed, SOR/2013-179, s. 4]
 
-##### Interpretation
 
 
-**C.04.400** The following definitions apply in this section and in sections C.04.401 to C.04.423.
+**C.04.402** [Repealed, SOR/2013-179, s. 4]
 
-***accident*** means an unexpected event that is not attributable to a deviation from a fabricator’s procedures or applicable laws and that could adversely affect the safety of a donor or the safety, efficacy or quality of plasma. (*accident*)
 
-***donor*** means a person aged 17 years or older who has given their name to a fabricator for the purpose of participating in plasmapheresis with that fabricator. (*donneur*)
 
-***error*** means a deviation from a fabricator’s procedures or applicable laws that could adversely affect the safety of a donor or the safety, efficacy or quality of plasma. (*manquement*)
+**C.04.403** [Repealed, SOR/2013-179, s. 4]
 
-***fabricator*** means a person who is the holder of an establishment licence issued under these Regulations that authorizes the person to fabricate source plasma. (*manufacturier*)
 
-***personal identifier*** means a unique group of letters, numbers or symbols, or any combination of them, that is assigned to a donor by a fabricator. (*identificateur personnel*)
 
-***physician*** means a person who is entitled to practise the profession of medicine under the laws of the province in which the person provides medical service in connection with plasmapheresis or specific immunization. (*médecin*)
+**C.04.404** [Repealed, SOR/2013-179, s. 4]
 
-***physician substitute*** means a person who
-- **(a)** acts under the general supervision and direction of a physician; and
-- **(b)** is authorized to provide the services that may be provided by a physician substitute under sections C.04.401 to C.04.423, according to the applicable laws of the province in which the person provides any of those services. (*substitut*)
 
-***plasmapheresis*** means a process during which:
-- **(a)** blood is taken from a donor from which plasma is separated; and
-- **(b)** red blood cells and formed elements from the blood are returned to the donor. (*plasmaphérèse*)
 
-***plasmapheresis session*** means a meeting between a fabricator and a donor held for the purpose of proceeding with plasmapheresis. (*séance de plasmaphérèse*)
+**C.04.405** [Repealed, SOR/2013-179, s. 4]
 
-***serious adverse reaction*** means an unexpected and undesirable response in a donor, associated with plasmapheresis or specific immunization, that results in any of the following consequences for the donor:
-- **(a)** hospitalization;
-- **(b)** persistent or significant disability or incapacity;
-- **(c)** a medical or surgical intervention to preclude a persistent or significant disability or incapacity;
-- **(d)** a life-threatening condition; or
-- **(e)** death. (*effet indésirable grave*)
 
-***source plasma*** means human plasma collected by plasmapheresis that is intended for use in producing a drug for human use. (*plasma destiné au fractionnement*)
 
-***specific immunization*** means the administration of an immunogen to a donor with the intention of eliciting an immune response in their blood for the purpose of plasmapheresis. (*immunisation spécifique*)
+**C.04.406** [Repealed, SOR/2013-179, s. 4]
 
-***unique identifier*** means a unique group of letters, numbers or symbols, or any combination of them, that is assigned by a fabricator to source plasma or red blood cells to be used in specific immunization. (*identificateur unique*)
-> SOR/78-545, s. 1; SOR/85-1022, s. 1; SOR/2006-353, s. 1.
 
 
+**C.04.407** [Repealed, SOR/2013-179, s. 4]
 
 
 
-##### Prohibitions
+**C.04.408** [Repealed, SOR/2013-179, s. 4]
 
 
-**C.04.401** No person shall
-- **(a)** sell source plasma unless it has been fabricated, tested, packaged/labelled and stored in accordance with sections C.04.402 to C.04.423; or
-- **(b)** fabricate source plasma from blood collected from a person who is not suitable to participate in plasmapheresis according to sections C.04.402 to C.04.423.
-> SOR/78-545, s. 1; SOR/85-1022, s. 2; SOR/2006-353, s. 1.
 
+**C.04.409** [Repealed, SOR/2013-179, s. 4]
 
 
 
+**C.04.410** [Repealed, SOR/2013-179, s. 4]
 
-##### Fabricator’s Responsibility
 
 
-**C.04.402** 
+**C.04.411** [Repealed, SOR/2013-179, s. 4]
 
-- **(1)** A fabricator shall ensure that a person who provides services to them in connection with plasmapheresis or specific immunization is qualified by education and by training or experience to provide the services.
 
-- **(2)** The fabricator shall ensure that the premises used for donor screening, plasmapheresis or specific immunization are designed, constructed and maintained in a manner that permits medical information to be communicated in confidence.
-> SOR/78-545, s. 1; SOR/85-1022, s. 2; SOR/97-12, s. 47; SOR/2006-353, s. 1.
 
+**C.04.412** [Repealed, SOR/2013-179, s. 4]
 
 
 
+**C.04.413** [Repealed, SOR/2013-179, s. 4]
 
-##### Consent and Preliminary Evaluation
 
 
-**C.04.403** 
+**C.04.414** [Repealed, SOR/2013-179, s. 4]
 
-- **(1)** A fabricator shall not begin plasmapheresis with a donor unless
-	- **(a)** the fabricator has informed the donor of what is involved with plasmapheresis, including the risks to the donor’s health associated with plasmapheresis and with participating in plasmapheresis more frequently than once every eight weeks; and
-	- **(b)** after paragraph (a) has been satisfied, the fabricator obtains from the donor
-		- **(i)** a written acknowledgement that the information specified in paragraph (a) has been provided to them, and
-		- **(ii)** in accordance with the applicable laws governing consent, written informed consent to participate in plasmapheresis.
 
-- **(2)** A fabricator shall not begin the specific immunization of a donor unless
-	- **(a)** a physician has selected the immunogen to be administered to the donor and informed the donor of
-		- **(i)** the name and nature of the selected immunogen,
-		- **(ii)** the proposed frequency and the maximum number of specific immunization injections the donor is expected to receive, and
-		- **(iii)** what is involved with specific immunization, including the risks to the donor’s health associated with specific immunization and with receiving the selected immunogen; and
-	- **(b)** after paragraph (a) has been satisfied, the fabricator obtains from the donor
-		- **(i)** a written acknowledgement that the information specified in paragraph (a) has been provided to them, and
-		- **(ii)** in accordance with the applicable laws governing consent, written informed consent to receive the selected immunogen.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
 
+**C.04.415** [Repealed, SOR/2013-179, s. 4]
 
 
 
-**C.04.404** 
-
-- **(1)** A fabricator shall not proceed with plasmapheresis or specific immunization unless a physician or physician substitute has determined the donor’s suitability to participate in plasmapheresis more frequently than once every eight weeks based on the donor’s medical history and a medical examination of the donor.
-
-- **(2)** If the donor is determined to be suitable, the fabricator shall document the following information:
-	- **(a)** the fact that the donor is suitable to participate in plasmapheresis more frequently than once every eight weeks;
-	- **(b)** the donor’s name and personal identifier;
-	- **(c)** the name and signature of the physician who makes the determination, or supervises the physician substitute making the determination; and
-	- **(d)** the date of the determination.
-
-- **(3)** The fabricator shall not proceed with plasmapheresis or specific immunization if the most recent determination under subsection (1) in respect of the donor was made more than
-	- **(a)** 30 days before the date set for the donor’s first participation in plasmapheresis or specific immunization; or
-	- **(b)** one year before any other date set for the donor’s participation in plasmapheresis or specific immunization.
-> SOR/78-545, s. 1; SOR/85-1022, s. 3; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Specific Immunization
-
-
-**C.04.405** 
-
-- **(1)** No one other than a physician or physician substitute shall administer an immunogen to a donor for the purpose of specific immunization.
-
-- **(2)** A physician shall monitor the donor’s response to the immunogen to determine if the donor can continue to receive specific immunization.
-
-- **(3)** If the donor cannot continue to receive specific immunization, the fabricator shall cease to provide it to the donor until a physician determines that the donor can receive specific immunization using the same or another immunogen.
-> SOR/78-545, s. 1; SOR/85-1022, s. 3; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Evaluation Before Collection
-
-
-**C.04.406** 
-
-- **(1)** At the beginning of each plasmapheresis session, a physician or physician substitute shall determine if the donor is suitable to participate in plasmapheresis.
-
-- **(2)** If the donor is determined to be temporarily not suitable to participate in plasmapheresis based on the criteria set out in Table 1 or any other medical reason justifying a determination of temporary non-suitability, the fabricator shall cancel the session, inform the donor of the reason why they are temporarily not suitable and indicate the date when the donor may continue to participate in plasmapheresis.
-
-- **(3)** If the donor is determined to be not suitable to participate in plasmapheresis for an indefinite period based on the exclusion criteria set out in Table 2 or any other medical reason justifying a determination of indefinite non-suitability, the fabricator shall cancel the session and inform the donor of the reason why they are not suitable to participate in plasmapheresis for an indefinite period.
-#### TABLE 1
-<table>
-<tr>
-<th>Item</th>
-<th>Criteria</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Weight of less than 50 kg</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Temperature outside of normal limits</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Blood pressure above 100 mmHg diastolic or 180 mmHg systolic</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Haemoglobin level of less than 125 g/L of blood or haematocrit value of less than 0.38 L/L of blood</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Total protein level of less than 60 g/L of blood</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Substantial blood loss</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Prior donation of plasma or other blood components</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Pregnancy</td>
-</tr>
-<tr>
-<td>9</td>
-<td>History of medical or surgical procedures</td>
-</tr>
-<tr>
-<td>10</td>
-<td>History of convulsions requiring medical treatment</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Ability to answer questions compromised by alcohol or drug use</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Prior transfusion of blood, blood components or a blood product, or prior transplantation of a cell, tissue or organ other than dura mater</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Skin infection at the site of the phlebotomy</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Sign or symptom of infection</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Risk of infection with HIV, hepatitis B virus or hepatitis C virus based on, but not limited to, a history of acupuncture, skin piercing, tattooing, accidental needle-stick injury or occasional sexual relations with a person at risk of having any of those infections</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Current or past use of medication that poses a risk to a recipient of a product manufactured from source plasma</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Receipt of a live attenuated vaccine</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Animal bite requiring prophylaxis for rabies or for which the need for post-exposure prophylaxis has not been assessed</td>
-</tr>
-</table>
-
-#### TABLE 2
-<table>
-<tr>
-<th>Item</th>
-<th>Exclusion Criteria</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Abnormal cardiovascular function or serious or chronic cardiovascular disease</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Abnormal respiratory function or serious or chronic respiratory disease</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Bleeding disorder that poses a risk to the donor in relation to plasmapheresis</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Serious disease or medical condition of the liver, kidneys, another organ, a system or blood</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Persistent abnormal plasma proteins including monoclonal or polyclonal gammopathy</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Current or past use of medication that poses an ongoing risk to a recipient of a product manufactured from source plasma</td>
-</tr>
-<tr>
-<td>7</td>
-<td>History of recurrent fainting associated with the donation of blood or plasma</td>
-</tr>
-<tr>
-<td>8</td>
-<td>History, signs or symptoms of injectable drug abuse such as skin punctures, scars or sharing needles to inject drugs</td>
-</tr>
-<tr>
-<td>9</td>
-<td>History, signs or symptoms of AIDS or HIV infection</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Risk of HIV infection based on sexual practices</td>
-</tr>
-<tr>
-<td>11</td>
-<td>History, signs or symptoms of a chronic or persistent infection or parasitic disease transmissible by blood</td>
-</tr>
-<tr>
-<td>12</td>
-<td>History, signs or symptoms of hepatitis, other than hepatitis A</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Cancer, other than non-melanoma skin cancer or in-situ cervical cancer</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Risk factor for Creutzfeldt-Jacob disease (CJD) or its variant (vCJD) based on, but not limited to, the receipt of dura mater transplant or a treatment using a human pituitary hormone</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Positive test result for any transmissible disease agent</td>
-</tr>
-</table>
+**C.04.416** [Repealed, SOR/2013-179, s. 4]
 
-> SOR/78-545, s. 1; SOR/85-1022, s. 3; SOR/2006-353, s. 1.
 
 
+**C.04.417** [Repealed, SOR/2013-179, s. 4]
 
 
 
-##### Plasma Protein Composition
+**C.04.418** [Repealed, SOR/2013-179, s. 4]
 
 
-**C.04.407** 
 
-- **(1)** Before beginning plasmapheresis with a donor, a fabricator shall take a blood sample from the donor to determine the plasma protein composition of the donor’s blood by means of a serum protein electrophoresis test or an equivalent test.
+**C.04.419** [Repealed, SOR/2013-179, s. 4]
 
-- **(2)** A blood sample shall be taken within seven days before the donor’s first plasmapheresis session at which the fabricator proceeds with plasmapheresis.
 
-- **(3)** If 21 days have elapsed from the taking of the sample without a physician examining the test result, the fabricator may not proceed with plasmapheresis until a physician examines the test result.
 
-- **(4)** If a physician concludes that the plasma protein composition of the donor’s blood is not within normal limits, the fabricator may not proceed with plasmapheresis until a physician determines that the plasma protein composition of the donor’s blood is within normal limits.
+**C.04.420** [Repealed, SOR/2013-179, s. 4]
 
-- **(5)** If the fabricator has not taken a blood sample from the donor as required under subsection (1) for more than four months, the fabricator may not proceed with plasmapheresis until the blood sample is taken from the donor.
-> SOR/78-545, s. 1; SOR/85-1022, s. 3; SOR/2006-353, s. 1.
 
 
+**C.04.421** [Repealed, SOR/2013-179, s. 4]
 
 
 
-##### Ongoing Review of Collection Records
+**C.04.422** [Repealed, SOR/2013-179, s. 4]
 
 
-**C.04.408** 
 
-- **(1)** A physician shall determine if a donor is suitable to continue to participate in plasmapheresis more frequently than once every eight weeks, based on the test results and collection records for the donor that have been made or received by the fabricator within the preceding four months.
-
-- **(2)** The determination shall be made at least every four months after the date of the initial determination that the donor is suitable under section C.04.404.
-
-- **(3)** If the donor is determined to be temporarily not suitable to participate in plasmapheresis the fabricator shall inform the donor of the reason why they are temporarily not suitable and indicate the date when the donor may continue to participate in plasmapheresis.
-
-- **(4)** If the donor is determined to be not suitable for an indefinite period, the fabricator may not proceed with plasmapheresis and shall inform the donor of the reason why they are not suitable.
-
-- **(5)** If the requirement of subsection (2) is not met, the fabricator may not proceed with plasmapheresis until the determination is made.
-> SOR/78-545, s. 1; SOR/85-1022, s. 3; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Plasmapheresis Procedures
-
-
-**C.04.409** A fabricator who conducts a plasmapheresis session shall
-- **(a)** use aseptic methods and a sterile collection system licensed under the [Medical Devices Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/282.md);
-- **(b)** ensure that all surfaces intended to come into contact with blood or plasma are pyrogen free;
-- **(c)** ensure that the donor’s skin where the phlebotomy is to be made is
-	- **(i)** determined to be free from lesion, rash or other source of infection, and
-	- **(ii)** cleaned and disinfected; and
-- **(d)** ensure that emergency medical personnel are capable of attending to the medical needs of the donor within 10 minutes after being contacted by the fabricator.
-> SOR/78-545, s. 1; SOR/85-1022, s. 4; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Maximum Volumes and Minimum Intervals
-
-
-**C.04.410** 
-
-- **(1)** A fabricator shall not collect plasma from a donor in a total amount, excluding anticoagulant solution, that exceeds
-	- **(a)** if the donor’s weight is 50 kg or more but less than 68 kg,
-		- **(i)** 625 mL or 640 g in respect of a single plasmapheresis session, and
-		- **(ii)** 11.5 L in respect of all plasmapheresis sessions during the preceding six months;
-	- **(b)** if the donor’s weight is 68 kg or more but less than 80 kg,
-		- **(i)** 750 mL or 770 g in respect of a single plasmapheresis session, and
-		- **(ii)** 15.5 L in respect of all plasmapheresis sessions during the preceding six months; and
-	- **(c)** if the donor’s weight is 80 kg or more,
-		- **(i)** 800 Ml or 820 g in respect of a single plasmapheresis session, and
-		- **(ii)** 18.5 L in respect of all plasmapheresis sessions during the preceding six months.
-
-- **(2)** The fabricator shall have written procedures that describe
-	- **(a)** the minimum waiting period for a donor between donations of plasma and between a donation of plasma and a donation of blood or other blood components; and
-	- **(b)** the maximum number of plasma donations a donor may make in a given period.
-> SOR/78-545, s. 1; SOR/85-1022, s. 5; SOR/95-203, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Anticoagulant Solution
-
-
-**C.04.411** 
-
-- **(1)** During plasmapheresis, the fabricator shall mix an anticoagulant solution with the blood collected from the donor.
-
-- **(2)** The anticoagulant solution shall have a valid drug identification number under these Regulations that indicates the solution is suitable for use in plasmapheresis.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Samples for Testing
-
-
-**C.04.412** 
-
-- **(1)** During a plasmapheresis session, the fabricator shall take a sample of blood or plasma in a manner that does not contaminate the sample or the source plasma.
-
-- **(2)** When the sample is taken, the fabricator shall clearly and permanently label the sample container with the unique identifier assigned to the source plasma.
-
-- **(3)** The fabricator shall ensure that the person who labels the sample container is the same person who labels the container holding the source plasma under subsection C.04.416(2).
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-**C.04.413** 
-
-- **(1)** The fabricator shall test a sample taken under section C.04.412 to detect evidence of the following disease agents:
-	- **(a)** HIV types 1 and 2;
-	- **(b)** hepatitis B virus;
-	- **(c)** hepatitis C virus; and
-	- **(d)** syphilis.
-
-- **(2)** The fabricator shall retain the source plasma collected at the plasmapheresis session until all the test results are determined to be negative or non-reactive.
-
-- **(3)** In the case of a positive or reactive test result for any disease agent referred to in subsection (1), the fabricator shall
-	- **(a)** clearly and permanently label the container holding the source plasma collected at the session with
-		- **(i)** the statement “Caution: Not for Manufacturing Use” or “*Précaution : Non destiné à la fabrication*”, and
-		- **(ii)** the hazard symbol for Biohazardous Infectious Material set out in Schedule II to the Controlled Products Regulations; and
-	- **(b)** segregate and dispose of the source plasma.
-
-- **(4)** In the case of a positive or reactive test result for syphilis, the fabricator may not proceed with plasmapheresis until a subsequent test shows that the donor is not infected with syphilis and a physician determines that the donor can continue to participate in plasmapheresis.
-
-- **(5)** In the case of a positive or reactive test result for a disease agent referred to in subsection (1), other than syphilis, the fabricator shall discontinue plasmapheresis and inform the donor of the reason why they are not suitable to participate in plasmapheresis for an indefinite period.
-> SOR/78-545, s. 1; SOR/97-12, s. 48; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Preservatives and Additives
-
-
-**C.04.414** No person shall add a preservative or additive to source plasma.
-> SOR/78-545, s. 1; SOR/85-1022, s. 6; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Containers
-
-
-**C.04.415** A fabricator shall place source plasma in a container
-- **(a)** in respect of which a medical device licence has been issued under the Medical Devices Regulations for the purpose of collecting and storing plasma;
-- **(b)** that permits visual, electronic or automated inspection of the plasma;
-- **(c)** that has been visually inspected at the plasmapheresis session and found to be intact; and
-- **(d)** that has not been previously used for any purpose, including holding source plasma from the same donor.
->  SOR/78-545, s. 1; SOR/85-1022, s. 6; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Labelling
-
-
-**C.04.416** 
-
-- **(1)** Sections C.01.004 and C.04.019 do not apply to source plasma.
-
-- **(2)** A fabricator shall clearly and permanently label the container used to hold source plasma with
-	- **(a)** the unique identifier assigned to the source plasma in the container;
-	- **(b)** the statement “Source Plasma” or “*Plasma destiné au fractionnement*”;
-	- **(c)** the statement “Caution: For Manufacturing Use Only” or “*Précaution : À utiliser uniquement pour la fabrication*”;
-	- **(d)** the quantity of the source plasma;
-	- **(e)** the name and quantity of the anticoagulant solution used during the plasmapheresis;
-	- **(f)** the expiry date of the source plasma, expressed in an unambiguous format;
-	- **(g)** subject to subsection C.04.413(3), a statement indicating that the source plasma tests negative for the disease agents for HIV, hepatitis B and hepatitis C;
-	- **(h)** if the source plasma was collected from a donor who has received specific immunization, a statement indicating the immunogen that was used;
-	- **(i)** the name, address and establishment licence number of the fabricator; and
-	- **(j)** a statement indicating that the source plasma must be stored at a temperature of -20°C or colder.
-
-- **(3)** The unique identifier shall be placed on the container at the time of collection.
-> SOR/78-545, s. 1; SOR/85-1022, s. 7; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Storage
-
-
-**C.04.417** 
-
-- **(1)** In respect of the storage of source plasma, including storage during transportation, a fabricator shall ensure that the storage environment
-	- **(a)** is designed to maintain a temperature of -20°C or colder; and
-	- **(b)** remains consistently at a temperature of -20°C or colder.
-
-- **(2)** If the temperature of the environment rises above -20°C, the fabricator shall record the following information:
-	- **(a)** the reason for the elevated temperature;
-	- **(b)** the source plasma affected; and
-	- **(c)** the final disposition of the source plasma.
-
-- **(3)** If the temperature of the environment rises to between - 20°C and +10°C, the fabricator shall clearly and permanently label the container of the source plasma with the statement “Source Plasma — Salvaged” or “*Plasma destiné au fractionnement — recyclé*”.
-
-- **(4)** Subsection (3) does not apply if the temperature of the environment rises to between -20°C and -5°C for a single period lasting less than 72 hours.
-
-- **(5)** If the temperature of the environment rises above +10°C, the fabricator shall dispose of the source plasma.
-
-- **(6)** Paragraph (1)(b) and subsections (2) to (5) do not apply in respect of the storage of source plasma during transportation, if the transportation is not conducted by the fabricator.
-> SOR/78-545, s. 1; SOR/85-1022, s. 8; SOR/2006-353, s. 1.
-
-
-
-
-**C.04.418** 
-
-- **(1)** A fabricator shall inspect each container of source plasma to determine if the container and its label are intact and if there are any indications that the source plasma has been subject to thawing.
-
-- **(2)** The fabricator shall dispose of the source plasma if the inspection shows that
-	- **(a)** the container is defective or damaged to the extent that it does not provide protection against external factors that could result in deterioration or contamination of the source plasma;
-	- **(b)** the unique identifier assigned to the source plasma is missing or illegible;
-	- **(c)** any information required under paragraphs C.04.416(2)(b) to (i) is missing or illegible, unless the missing or illegible information can be retrieved from the fabricator’s records; or
-	- **(d)** the source plasma has been subject to thawing.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Records
-
-
-**C.04.419** 
-
-- **(1)** A fabricator shall use and maintain a recordkeeping system according to which the fabricator shall
-	- **(a)** assign a personal identifier to each donor;
-	- **(b)** keep on the donor’s file a photograph of the donor or some other reliable means of identification; and
-	- **(c)** assign a unique identifier to the source plasma collected by the fabricator at each plasmapheresis session.
-
-- **(2)** The system shall be structured so that a fabricator may, based on a personal identifier or a unique identifier, identify the donor and retrieve sufficient records to permit the traceability and recall of source plasma.
-
-- **(3)** The fabricator shall keep the records referred to in subsection (2) indefinitely.
-> SOR/78-545, s. 1; SOR/85-1022, s. 9; SOR/2006-353, s. 1.
-
-
-
-
-**C.04.420** 
-
-- **(1)** For each donor, the fabricator shall keep
-	- **(a)** the original or a copy of the donor’s acknowledgement and consent under paragraphs C.04.403(1)(b) and (2)(b), if any;
-	- **(b)** the original or a copy of any determinations, examinations, test results, reports and written notices made under sections C.04.401 to C.04.423;
-	- **(c)** for each specific immunization given by the fabricator to the donor, a record indicating
-		- **(i)** the date and location of the immunization,
-		- **(ii)** the physician or physician substitute who administered the immunogen, and
-		- **(iii)** for the immunogen injected, its name and manufacturer’s name, the quantity and expiry date and either the immunogen’s lot number and drug identification number or, if the immunogen is red blood cells, its unique identifier;
-	- **(d)** for each plasmapheresis session held by the fabricator for the donor, a record indicating
-		- **(i)** the date and location of the session,
-		- **(ii)** the volume of source plasma collected,
-		- **(iii)** the unique identifier assigned to the source plasma,
-		- **(iv)** the volume of red blood cells collected that was not returned to the donor, including the volume of red blood cells collected during sampling,
-		- **(v)** for the anticoagulant solution used, its name, its manufacturer’s name and its lot number and drug identification number, and
-		- **(vi)** for the container used, the manufacturer’s name and the container’s lot number and expiry date.
-
-- **(2)** The fabricator shall maintain a summary of all accidents, errors, serious adverse reactions and recalls of source plasma involving the fabricator.
-
-- **(3)** The fabricator shall maintain temperature records made under subsection C.04.417(2).
-> SOR/78-545, s. 1; SOR/85-1022, s. 10; SOR/97-12, s. 61; SOR/2006-353, s. 1.
-
-
-
-
-
-##### Information to the Minister
-
-
-**C.04.421** 
-
-- **(1)** A fabricator shall notify the Minister of any serious adverse reaction
-	- **(a)** within 24 hours after the fabricator becomes aware of the occurrence, in the case of a fatality; and
-	- **(b)** within 15 days after the fabricator becomes aware of the occurrence, in any other case.
-
-- **(2)** In the case of a verbal notice under subsection (1), the fabricator shall submit a written report of the serious adverse reaction to the Minister within 24 hours after submitting the notice.
-
-- **(3)** The notice, if in writing, or the written report shall include a description of the serious adverse reaction and any steps taken to address it.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-**C.04.422** If a fabricator recalls source plasma for a reason involving product safety, the fabricator shall provide the Minister with a written report stating the reason for the recall, the number of units involved and the location from which the units were recalled.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
-
-
-
-**C.04.423** In order to prevent injury to the health and safety of donors and recipients of products manufactured from source plasma, a fabricator shall, on request, provide the Minister with a copy of any record pertaining to plasmapheresis, specific immunization or source plasma that is required by sections C.04.401 to C.04.422 to be kept by the fabricator.
-> SOR/78-545, s. 1; SOR/2006-353, s. 1.
-
+**C.04.423** [Repealed, SOR/2013-179, s. 4]
 
 
 
