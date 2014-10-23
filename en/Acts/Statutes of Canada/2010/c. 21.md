@@ -1406,4 +1406,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **15** Polycarbonate baby bottles that contain 4,4′-isopropylidenediphenol (bisphenol A).
 
 
+**16** Products that are made, in whole or in part, of polyurethane foam that contains tris (2-chloroethyl) phosphate and that are intended for a child under three years of age.
+
+
+> 2010, c. 21, Sch. 2; SOR/2014-79.
+
 
