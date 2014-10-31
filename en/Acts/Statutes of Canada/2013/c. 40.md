@@ -1014,7 +1014,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndFA2D_hq_13115'>[*]</a></sup>**203** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndFA2D_hq_13115'><sup>*</sup></a>: [Note: Division 5 not in force.]<br />
+<a name='fn_IndFA2D_hq_13115'><sup>*</sup></a>: [Note: Division 5 in force October 31, 2014, *see* SI/2014-52.]<br />
 
 
 
