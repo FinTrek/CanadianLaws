@@ -630,7 +630,7 @@ may, if the employer considers such information to be confidential business info
 - **(2)** A person who has obtained information from a supplier or employer for the purposes of this Act may communicate the information or allow it to be communicated, or allow inspection of or access to any book, record, writing or other document containing that information, to or by
 	- **(a)** [Repealed, 2012, c. 31, s. 278]
 	- **(b)** [Repealed, 1996, c. 8, s. 24]
-	- **(c)** any official of the Department of Employment and Social Development, or any appeals officer, health and safety officer or regional health and safety officer within the meaning of subsection 122(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), for the purposes of the administration or enforcement of Part II of that Act;
+	- **(c)** any official of the Department of Employment and Social Development, any appeals officer within the meaning of subsection 122(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), or any person to whom powers, duties or functions have been delegated by the Minister of Labour under subsection 140(1) of that Act, or under an agreement entered into under subsection 140(2), of that Act, for the purposes of the administration or enforcement of Part II of that Act;
 	- **(d)** any official of the Department of Transport, for the purpose of making the information available in cases of medical emergency through the Canadian Transport Emergency Centre (CANUTEC) of the Department of Transport; and
 	- **(e)** any official of the government of a province, for the purposes of the administration or enforcement of any law of the province relating to occupational safety and health where under the law of that province similar provisions exist to protect the confidentiality of the information obtained as a result of such communication, inspection or access.
 
@@ -645,7 +645,7 @@ may, if the employer considers such information to be confidential business info
 **Definition of official**
 
 - **(5)** In this section, ***official*** means any person employed in or occupying a position of responsibility in the service of Her Majesty, or any person formerly so employed or formerly occupying such a position.
-> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, s. 237.
+> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, ss. 201, 237.
 
 
 
