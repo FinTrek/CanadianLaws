@@ -900,7 +900,7 @@ REMARQUE : Dans la présente annexe, le terme « Âge » s’entend de l’âge
 
 ### **ANNEXE III** 
 **(art. 2 et 27)**
-- Sociétés d’État et offices publics exclus de l’application de la partie II de la Loi :
+Sociétés d’État et offices publics exclus de l’application de la partie II de la Loi :
 - Commission canadienne du blé
 - Conseil des arts du Canada
 - Construction de défense (1951) Limitée
@@ -909,14 +909,17 @@ REMARQUE : Dans la présente annexe, le terme « Âge » s’entend de l’âge
 - Eldorado Nucléaire Limitée
 - Énergie atomique du Canada, Limitée
 - Institut international du Canada pour le grain
+- Laboratoires Nucléaires Canadiens Ltée
 - Les ponts Jacques-Cartier et Champlain Inc.
 - Office de commercialisation du poisson d’eau douce
-- *Polymer Corporation Limited*
+- Polymer Corporation Limited
 - Société canadienne des télécommunications transmarines
 - Société des transports du Nord Limitée
 - Société Radio-Canada
-- *The Seaway International Bridge Corporation Limited*
-> DORS/78-288, art. 1; DORS/78-760, art. 1; DORS/79-500, art. 1; DORS/79-794, art. 1; DORS/90-201, art. 1; DORS/92-716, art. 10(F); DORS/99-378, art. 13; 2001, ch. 34, art. 17.
+- The Seaway International Bridge Corporation Limited
+
+
+> DORS/78-288, art. 1; DORS/78-760, art. 1; DORS/79-500, art. 1; DORS/79-794, art. 1; DORS/90-201, art. 1; DORS/92-716, art. 10(F); DORS/99-378, art. 13; 2001, ch. 34, art. 17; DORS/2014-249, art. 1.
 
 
 
