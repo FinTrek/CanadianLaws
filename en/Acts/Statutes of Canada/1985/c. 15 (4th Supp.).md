@@ -37,7 +37,7 @@
 - **(c)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, in relation to employees thereof or employees of a committee of the Senate or House of Commons, as the case may be, or
 - **(d)** a member of the Senate or House of Commons, in relation to employees on the staff of the member, including persons employed in the office of a Minister, or in relation to employees on the staff of a political party housed in accommodation provided by the Senate or House of Commons who are under the direction and control of the member;
 
-***inspector*** means a person who is designated as an inspector pursuant to section 9, and includes a health and safety officer as defined in subsection 122(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md);
+***inspector*** means a person who is designated as an inspector under section 9;
 
 ***smoke*** means to smoke, hold or otherwise have control over an ignited tobacco product;
 
@@ -56,7 +56,7 @@
 **Non-application to commuter trains**
 
 - **(4)** This Act does not apply in respect of a work space on a passenger train operated in commuter service by or for the account of the government of a province or an agency thereof.
-> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2001, c. 26, s. 312; 2003, c. 22, s. 176; 2004, c. 7, s. 25; 2006, c. 9, s. 19.
+> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2001, c. 26, s. 312; 2003, c. 22, s. 176; 2004, c. 7, s. 25; 2006, c. 9, s. 19; 2013, c. 40, s. 202.
 
 
 
