@@ -35,7 +35,7 @@
 
 ***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer.
 
-***inspecteur*** Personne désignée à ce titre conformément à l’article 9; en outre, agent de santé et de sécurité au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
+***inspecteur*** Personne désignée à ce titre conformément à l’article 9.
 
 ***lieu de travail*** Sous réserve du paragraphe 3(7), espace clos où des employés exercent leurs fonctions; y sont assimilés les secteurs avoisinants communs — notamment couloirs, vestibules, escaliers, ascenseurs, cafétérias, toilettes — fréquentés par eux en cours d’emploi.
 
@@ -56,7 +56,7 @@
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202.
 
 
 
