@@ -1014,7 +1014,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind2119_hq_13116'>[*]</a></sup>**203** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind2119_hq_13116'><sup>*</sup></a>: [Note : Section 5 non en vigueur.]<br />
+<a name='fn_Ind2119_hq_13116'><sup>*</sup></a>: [Note : Section 5 en vigueur le 31 octobre 2014, *voir* TR/2014-52.]<br />
 
 
 
