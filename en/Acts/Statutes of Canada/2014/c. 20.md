@@ -2811,7 +2811,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_IndA855_hq_14298'>[*]</a></sup>**482** This Division, except sections 471 to 481, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA855_hq_14298'><sup>*</sup></a>: [Note: Division 29, except sections 471 to 481, not in force.]<br />
+<a name='fn_IndA855_hq_14298'><sup>*</sup></a>: [Note: Division 29, except sections 471 to 481, in force November 1, 2014, *see* SI/2014-83.]<br />
 
 
 
