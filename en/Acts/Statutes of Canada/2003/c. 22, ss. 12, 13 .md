@@ -65,6 +65,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
+***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act.
+
 ***Commission*** means the Public Service Commission continued by subsection 4(1).
 
 ***department*** means
@@ -102,7 +104,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***statutory deputy head*** means any officer who, by any Act of Parliament, is or is deemed to be a deputy head or who has, or is deemed to have, the rank of a deputy head.
 
-***Tribunal*** means the Public Service Staffing Tribunal continued by subsection 88(1).
+***Tribunal***[Repealed, 2013, c. 40, s. 403]
 
 **References to deputy head**
 
@@ -117,7 +119,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to abuse of authority**
 
 - **(4)** For greater certainty, a reference in this Act to abuse of authority shall be construed as including bad faith and personal favouritism.
-> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17.
+> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17; 2013, c. 40, s. 403.
 
 
 
@@ -599,11 +601,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Mobility — separate agencies**
+**Mobility  — separate agencies**
 
 **35** 
 
-- **(1)** Unless otherwise provided in any other Act, a person employed in a separate agency to which the Commission does not have the exclusive authority to make appointments
+- **(1)** Unless otherwise provided in this or any other Act, a person employed in a separate agency to which the Commission does not have the exclusive authority to make appointments
 	- **(a)** may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as the person meets the other criteria, if any, established under that section; and
 	- **(b)** has the right to make a complaint under section 77.
 
@@ -613,9 +615,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all persons employed in the public service to be considered, as long as the person meets the other criteria, if any, established under that section; and
 	- **(b)** has the right to make a complaint under section 77.
 
-**Mobility — employees of Tribunal**
-
-- **(3)** A person employed by the Tribunal under subsection 95(1) may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as the person meets the other criteria, if any, established under that section.
+- **(3)** [Repealed, 2013, c. 40, s. 404]
 
 **Designation**
 
@@ -624,6 +624,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Revocation**
 
 - **(5)** The Governor in Council may, on the recommendation of the Commission, revoke any designation under subsection (4).
+> 2003, c. 22, s. 12 "35"; 2013, c. 40, s. 404.
+
 
 
 
@@ -693,8 +695,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exceptions to merit**
 
-**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102.
+**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made pursuant to paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102; 2013, c. 40, s. 414.
 
 
 
@@ -1075,11 +1077,11 @@ and the employee ceases to be an employee at the end of that notice period.
 
 
 
-**Complaint to Tribunal re lay-off**
+**Complaint to Board re lay-off**
 
 **65** 
 
-- **(1)** Where some but not all of the employees in a part of an organization are informed by the deputy head that they will be laid off, any employee selected for lay-off may make a complaint to the Tribunal, in the manner and within the time fixed by the Tribunal’s regulations, that his or her selection constituted an abuse of authority.
+- **(1)** Where some but not all of the employees in a part of an organization are informed by the deputy head that they will be laid off, any employee selected for lay-off may make a complaint to the Board, in the manner and within the time fixed by the Board’s regulations, that his or her selection constituted an abuse of authority.
 
 **Limitation**
 
@@ -1087,27 +1089,29 @@ and the employee ceases to be an employee at the end of that notice period.
 
 **Right to be heard**
 
-- **(3)** A complainant, every other employee in the part of the organization referred to in subsection (1), the deputy head and the Commission — or their representatives — are entitled to be heard by the Tribunal.
+- **(3)** A complainant, every other employee in the part of the organization referred to in subsection (1), the deputy head and the Commission — or their representatives — are entitled to be heard by the Board.
 
 **Lay-off set aside**
 
-- **(4)** Where the Tribunal finds a complaint under subsection (1) to be substantiated, it may set aside the decision of the deputy head to lay off the complainant and order the deputy head to take any corrective action that it considers appropriate, other than the lay-off of any employee.
+- **(4)** Where the Board finds a complaint under subsection (1) to be substantiated, it may set aside the decision of the deputy head to lay off the complainant and order the deputy head to take any corrective action that it considers appropriate, other than the lay-off of any employee.
 
 **Notice to Canadian Human Rights Commission**
 
-- **(5)** Where a complaint raises an issue involving the interpretation or application of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), the complainant shall, in accordance with the regulations of the Tribunal, notify the Canadian Human Rights Commission of the issue.
+- **(5)** Where a complaint raises an issue involving the interpretation or application of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), the complainant shall, in accordance with the regulations of the Board, notify the Canadian Human Rights Commission of the issue.
 
 **Canadian Human Rights Commission**
 
-- **(6)** Where the Canadian Human Rights Commission is notified of an issue pursuant to subsection (5), it may make submissions to the Tribunal with respect to that issue.
+- **(6)** Where the Canadian Human Rights Commission is notified of an issue pursuant to subsection (5), it may make submissions to the Board with respect to that issue.
 
 **Application of [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)**
 
-- **(7)** In considering whether a complaint is substantiated, the Tribunal may interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), other than its provisions relating to the right to equal pay for work of equal value.
+- **(7)** In considering whether a complaint is substantiated, the Board may interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), other than its provisions relating to the right to equal pay for work of equal value.
 
 **Relief for discrimination**
 
 - **(8)** Corrective action may include an order for relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+> 2003, c. 22, s. 12 "65"; 2013, c. 40, s. 414.
+
 
 
 
@@ -1209,32 +1213,38 @@ and the employee ceases to be an employee at the end of that notice period.
 
 
 
-### Complaints to Tribunal — Revocation of Appointment
+### Complaints to Board — Revocation of Appointment
 
 
 
 **Complaint**
 
-**74** A person whose appointment is revoked by the Commission under subsection 67(1) or by the deputy head under subsection 15(3) or 67(2) may, in the manner and within the period provided by the Tribunal’s regulations, make a complaint to the Tribunal that the revocation was unreasonable.
+**74** A person whose appointment is revoked by the Commission under subsection 67(1) or by the deputy head under subsection 15(3) or 67(2) may, in the manner and within the period provided by the Board’s regulations, make a complaint to the Board that the revocation was unreasonable.
+> 2003, c. 22, s. 12 "74"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Right to be heard**
 
-**75** Where a complaint is made under section 74, the complainant, the deputy head and the Commission — or their representatives — are entitled to be heard by the Tribunal.
+**75** Where a complaint is made under section 74, the complainant, the deputy head and the Commission — or their representatives — are entitled to be heard by the Board.
+> 2003, c. 22, s. 12 "75"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Revocation set aside**
 
-**76** Where the Tribunal finds a complaint under section 74 to be substantiated, it may order the Commission or the deputy head, as the case may be, to set aside the revocation.
+**76** Where the Board finds a complaint under section 74 to be substantiated, it may order the Commission or the deputy head, as the case may be, to set aside the revocation.
+> 2003, c. 22, s. 12 "76"; 2013, c. 40, s. 414.
 
 
 
 
-### Complaints to Tribunal — Internal Appointments
+
+### Complaints to Board — Internal Appointments
 
 
 
@@ -1242,7 +1252,7 @@ and the employee ceases to be an employee at the end of that notice period.
 
 **77** 
 
-- **(1)** When the Commission has made or proposed an appointment in an internal appointment process, a person in the area of recourse referred to in subsection (2) may — in the manner and within the period provided by the Tribunal’s regulations — make a complaint to the Tribunal that he or she was not appointed or proposed for appointment by reason of
+- **(1)** When the Commission has made or proposed an appointment in an internal appointment process, a person in the area of recourse referred to in subsection (2) may — in the manner and within the period provided by the Board’s regulations — make a complaint to the Board that he or she was not appointed or proposed for appointment by reason of
 	- **(a)** an abuse of authority by the Commission or the deputy head in the exercise of its or his or her authority under subsection 30(2);
 	- **(b)** an abuse of authority by the Commission in choosing between an advertised and a non-advertised internal appointment process; or
 	- **(c)** the failure of the Commission to assess the complainant in the official language of his or her choice as required by subsection 37(1).
@@ -1255,14 +1265,18 @@ and the employee ceases to be an employee at the end of that notice period.
 
 **Excluded grounds**
 
-- **(3)** The Tribunal may not consider an allegation that fraud occurred in an appointment process or that an appointment or proposed appointment was not free from political influence.
+- **(3)** The Board may not consider an allegation that fraud occurred in an appointment process or that an appointment or proposed appointment was not free from political influence.
+> 2003, c. 22, s. 12 "77"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Notice to Canadian Human Rights Commission**
 
-**78** Where a complaint raises an issue involving the interpretation or application of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), the complainant shall, in accordance with the regulations of the Tribunal, notify the Canadian Human Rights Commission of the issue.
+**78** Where a complaint raises an issue involving the interpretation or application of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), the complainant shall, in accordance with the regulations of the Board, notify the Canadian Human Rights Commission of the issue.
+> 2003, c. 22, s. 12 "78"; 2013, c. 40, s. 414.
+
 
 
 
@@ -1271,18 +1285,22 @@ and the employee ceases to be an employee at the end of that notice period.
 
 **79** 
 
-- **(1)** A person making a complaint under section 77, the person appointed or proposed for appointment, the deputy head and the Commission — or their representatives — are entitled to be heard by the Tribunal.
+- **(1)** A person making a complaint under section 77, the person appointed or proposed for appointment, the deputy head and the Commission — or their representatives — are entitled to be heard by the Board.
 
 **Canadian Human Rights Commission**
 
-- **(2)** Where the Canadian Human Rights Commission is notified of an issue pursuant to section 78, it may make submissions to the Tribunal with respect to that issue.
+- **(2)** Where the Canadian Human Rights Commission is notified of an issue pursuant to section 78, it may make submissions to the Board with respect to that issue.
+> 2003, c. 22, s. 12 "79"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Application of [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)**
 
-**80** In considering whether a complaint under section 77 is substantiated, the Tribunal may interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), other than its provisions relating to the right to equal pay for work of equal value.
+**80** In considering whether a complaint under section 77 is substantiated, the Board may interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md), other than its provisions relating to the right to equal pay for work of equal value.
+> 2003, c. 22, s. 12 "80"; 2013, c. 40, s. 414.
+
 
 
 
@@ -1291,45 +1309,55 @@ and the employee ceases to be an employee at the end of that notice period.
 
 **81** 
 
-- **(1)** If the Tribunal finds a complaint under section 77 to be substantiated, the Tribunal may order the Commission or the deputy head to revoke the appointment or not to make the appointment, as the case may be, and to take any corrective action that the Tribunal considers appropriate.
+- **(1)** If the Board finds a complaint under section 77 to be substantiated, the Board may order the Commission or the deputy head to revoke the appointment or not to make the appointment, as the case may be, and to take any corrective action that the Board considers appropriate.
 
 **Relief for discrimination**
 
 - **(2)** Corrective action taken under subsection (1) may include an order for relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+> 2003, c. 22, s. 12 "81"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Restrictions**
 
-**82** The Tribunal may not order the Commission to make an appointment or to conduct a new appointment process.
+**82** The Board may not order the Commission to make an appointment or to conduct a new appointment process.
+> 2003, c. 22, s. 12 "82"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Failure of corrective action**
 
-**83** Where the Commission has made or proposed an appointment as a result of the implementation of corrective action ordered under section 81, a complaint may be made to the Tribunal, in the manner and within the period provided by its regulations, by
+**83** Where the Commission has made or proposed an appointment as a result of the implementation of corrective action ordered under section 81, a complaint may be made to the Board, in the manner and within the period provided by its regulations, by
 - **(a)** the person who made the complaint under section 77,
 - **(b)** the person who was the subject of the appointment or proposed appointment referred to in subsection 77(1), or
 - **(c)** any other person directly affected by the implementation of the corrective action,
 on the grounds that the person was not appointed or proposed for appointment by reason of an abuse of authority by the Commission or deputy head in the implementation of the corrective action.
+> 2003, c. 22, s. 12 "83"; 2013, c. 40, s. 414.
 
 
 
 
-**Powers of Tribunal**
 
-**84** Where the Tribunal finds a complaint under section 83 to be substantiated, it may
+**Powers of Board**
+
+**84** Where the Board finds a complaint under section 83 to be substantiated, it may
 - **(a)** order the Commission or the deputy head to revoke the appointment made as a result of the implementation of the corrective action, or not to make the appointment, as the case may be; and
 - **(b)** give the Commission or the deputy head any directions that it considers appropriate with respect to the implementation of the corrective action.
+> 2003, c. 22, s. 12 "84"; 2013, c. 40, s. 414.
+
 
 
 
 
 **Right to be heard**
 
-**85** In the consideration of a complaint made under section 83, the persons entitled to be heard by the Tribunal are the persons entitled to make a complaint under that section in respect of the corrective action, the person appointed or proposed for appointment as a result of the corrective action, the deputy head and the Commission, or their representatives.
+**85** In the consideration of a complaint made under section 83, the persons entitled to be heard by the Board are the persons entitled to make a complaint under that section in respect of the corrective action, the person appointed or proposed for appointment as a result of the corrective action, the deputy head and the Commission, or their representatives.
+> 2003, c. 22, s. 12 "85"; 2013, c. 40, s. 414.
+
 
 
 
@@ -1343,165 +1371,103 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 **Where no right to complain**
 
-**87** No complaint may be made under section 77 in respect of an appointment under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105.
+**87** No complaint may be made under section 77 in respect of an appointment under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made pursuant to paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105; 2013, c. 40, s. 414.
 
 
 
 
 
 **PART 6** 
-## Public Service Staffing Tribunal
+## Public Service Labour Relations and Employment Board
 
 
 
-### Composition and Mandate
+### Powers, Duties and Functions
 
 
 
-**Tribunal continued**
+**Complaints**
 
-**88** 
+**88** The Board is to consider and dispose of complaints made under subsection 65(1) and sections 74, 77 and 83.
+> 2003, c. 22, s. 12 "88"; 2013, c. 40, s. 405.
 
-- **(1)** The Public Service Staffing Tribunal is continued, consisting of between five and seven permanent members appointed by the Governor in Council and any temporary members that are appointed under section 90.
 
-**Mandate**
 
-- **(2)** The mandate of the Tribunal is to consider and dispose of complaints made under subsection 65(1) and sections 74, 77 and 83.
 
-**Eligibility**
 
-- **(3)** In order to be eligible to hold office as a member, a person must
-	- **(a)** be a Canadian citizen within the meaning of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) or a permanent resident within the meaning of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md); and
-	- **(b)** have knowledge of or experience in employment matters in the public sector.
+**Powers**
 
-**Full-time or part-time**
+**89** Subject to any limitations that the Governor in Council may establish in the interests of defence or security, the Board has, in relation to a complaint, the power to enter any premises of an employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliances or articles in the premises and require any person in the premises to answer all questions relating to the complaint.
+> 2003, c. 22, s. 12 "89"; 2013, c. 40, s. 405.
 
-- **(4)** Members shall be appointed on a full-time or part-time basis.
 
-**Chairperson and Vice-Chairperson**
 
-- **(5)** The Governor in Council shall designate a full-time permanent member to be Chairperson of the Tribunal and a full-time or part-time permanent member to be its Vice-Chairperson.
 
-**Residence of Chairperson**
+**90** [Repealed, 2013, c. 40, s. 405]
 
-- **(6)** The Chairperson shall reside in the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or within the distance of it specified by the Governor in Council.
 
 
+**91** [Repealed, 2013, c. 40, s. 405]
 
 
-**Tenure**
 
-**89** 
+**92** [Repealed, 2013, c. 40, s. 405]
 
-- **(1)** A permanent member of the Tribunal holds office during good behaviour for a term not exceeding five years, but may be removed for cause by the Governor in Council.
 
-**Reappointment**
 
-- **(2)** A permanent member is eligible to be reappointed.
+**93** [Repealed, 2013, c. 40, s. 405]
 
 
 
+**94** [Repealed, 2013, c. 40, s. 405]
 
-**Temporary members**
 
-**90** 
 
-- **(1)** The Governor in Council may appoint temporary members of the Tribunal whenever, in the Governor in Council’s opinion, the workload of the Tribunal so requires.
+**95** [Repealed, 2013, c. 40, s. 405]
 
-**Tenure**
 
-- **(2)** A temporary member of the Tribunal holds office during good behaviour for a term not exceeding two years, but may be removed for cause by the Governor in Council.
 
-**Reappointment**
+**96** [Repealed, 2013, c. 40, s. 405]
 
-- **(3)** A temporary member is eligible to be reappointed.
 
 
 
+### Mediation Services
 
-**Carrying out functions**
 
-**91** Members shall not accept or hold any office or employment or carry on any activity inconsistent with their functions, and full-time members shall devote the whole of their time to the performance of their functions.
 
+**Mediation services**
 
+**97** 
 
+- **(1)** The Board may provide mediation services at any stage of a proceeding in order to resolve a complaint.
 
-**Remuneration**
+**Member as mediator**
 
-**92** 
+- **(2)** The provision of mediation services by a member at any stage of hearing a complaint does not prevent that member from continuing to hear the complaint with respect to any issues that have not been resolved, unless the Commission or any person entitled to be heard objects to that member continuing.
+> 2003, c. 22, s. 12 "97"; 2013, c. 40, s. 414.
 
-- **(1)** A member shall be paid the remuneration fixed by the Governor in Council.
 
-**Expenses**
 
-- **(2)** Members are entitled to be paid reasonable travel and other expenses incurred by them in the course of their duties while absent from, in the case of full-time members, their ordinary place of work and, in the case of part-time members, their ordinary place of residence.
 
-**Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
+**98** [Repealed, 2013, c. 40, s. 407]
 
-- **(3)** Full-time members are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
-**Application of other Acts**
 
-- **(4)** All members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+**99** [Repealed, 2013, c. 40, s. 407]
 
 
 
+**100** [Repealed, 2013, c. 40, s. 407]
 
-**Offices**
 
-**93** 
 
-- **(1)** The head office of the Tribunal shall be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) and the Tribunal may, with the approval of the Governor in Council, establish any regional offices that it considers necessary to carry out its mandate.
+**101** [Repealed, 2013, c. 40, s. 407]
 
-**Services and facilities**
 
-- **(2)** In executing its mandate, the Tribunal may use any services and facilities of departments, boards and agencies of the Government of Canada that are appropriate for the operation of the Tribunal.
 
-
-
-
-**Chief executive officer**
-
-**94** 
-
-- **(1)** The Chairperson of the Tribunal is its chief executive officer and has supervision over and direction of the work of the Tribunal, including the assignment of complaints to members and the determination of the date, time and place of hearings.
-
-**Delegation by Chairperson**
-
-- **(2)** The Chairperson may authorize the Vice-Chairperson to exercise any of the Chairperson’s powers or perform any of the Chairperson’s functions.
-
-**Absence of Chairperson**
-
-- **(3)** If the Chairperson is absent or unable to act or the office of Chairperson is vacant, the Vice-Chairperson shall act as the Chairperson and, while so acting, has all the powers and shall perform all the duties of the Chairperson.
-
-**Acting Chairperson**
-
-- **(4)** If both the Chairperson and the Vice-Chairperson are absent or unable to act or if both of their offices are vacant, the minister designated under section 110 may authorize a permanent member or other qualified person to act as Chairperson for a period not exceeding 60 days and the Governor in Council may authorize a permanent member or other qualified person to act as Chairperson for any longer period.
-
-
-
-
-**Human resources**
-
-**95** 
-
-- **(1)** The Chairperson may employ persons for the proper conduct of the Tribunal’s work, fix their period of employment, establish their probationary periods, reject them on probation and lay them off.
-
-**Experts and advisers**
-
-- **(2)** The Chairperson may retain on a temporary basis the services of mediators and other experts or persons having technical or special knowledge to assist the Tribunal in an advisory capacity and, subject to the approval of the Treasury Board, fix their remuneration.
-
-**Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
-
-- **(3)** Persons retained under subsection (2) are not employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-
-
-
-
-**Political activities**
-
-**96** Part 7 applies to persons employed by the Tribunal as if they were employees as defined in subsection 2(1).
+**102** [Repealed, 2013, c. 40, s. 407]
 
 
 
@@ -1510,91 +1476,32 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 
 
-**Mediation services**
+**Filing of order in Federal Court**
 
-**97** 
+**103** 
 
-- **(1)** The Tribunal may provide mediation services at any stage of a proceeding in order to resolve a complaint.
+- **(1)** The Board must, on the request in writing of the Commission or any person to whom an order of the Board applies, file a certified copy of the order in the Federal Court unless, in the Board’s opinion
+	- **(a)** there is no indication, or likelihood, of failure to comply with the order; or
+	- **(b)** there is another good reason why the filing of the order in the Federal Court would serve no useful purpose.
 
-**Member as mediator**
+**Non-application**
 
-- **(2)** The provision of mediation services by a member at any stage of hearing a complaint does not prevent that member from continuing to hear the complaint with respect to any issues that have not been resolved, unless the Commission or any person entitled to be heard objects to that member continuing.
+- **(2)** Section 35 of the Public Service Labour Relations and Employment Board Act does not apply to an order of the Board referred to in subsection (1).
 
+**Effect of filing**
 
+- **(3)** An order of the Board becomes an order of the Federal Court when a certified copy of it is filed in that court, and it may subsequently be enforced as such.
+> 2003, c. 22, s. 12 "103"; 2013, c. 40, s. 407.
 
-
-**Hearing by single member**
-
-**98** 
-
-- **(1)** A complaint shall be determined by a single member of the Tribunal, who shall proceed as informally and expeditiously as possible.
-
-**Decision of member**
-
-- **(2)** A decision made by a member is a decision of the Tribunal.
-
-
-
-
-**Powers of Tribunal**
-
-**99** 
-
-- **(1)** The Tribunal has, in relation to a complaint, the power to
-	- **(a)** summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath in the same manner and to the same extent as a superior court of record;
-	- **(b)** order that a hearing be conducted using any means of telecommunication that permits all persons participating to communicate adequately with each other;
-	- **(c)** administer oaths and solemn affirmations;
-	- **(d)** accept any evidence, whether admissible in a court of law or not;
-	- **(e)** compel, at any stage of a proceeding, any person to produce any documents and things that may be relevant; and
-	- **(f)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of an employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliances or articles in the premises and require any person in the premises to answer all proper questions relating to the complaint.
-
-**Dismissing complaint**
-
-- **(2)** The Tribunal may summarily dismiss any complaint that, in its opinion, is frivolous or vexatious.
-
-**Decision without oral hearing**
-
-- **(3)** The Tribunal may decide a complaint without holding an oral hearing.
-
-
-
-
-**Former member continuing to act**
-
-**100** At any time within eight weeks after a person resigns or otherwise ceases to hold office as a member of the Tribunal, the person may, at the request of the Chairperson, dispose of any matter previously heard by that person and, for that purpose, the person is deemed to be a part-time member.
 
 
 
 
 **Copy of decision provided**
 
-**101** The Tribunal shall render a decision on a complaint made under subsection 65(1) or section 74, 77 or 83 and provide a copy of it — including any written reasons — and any accompanying order to the Commission and to each person who exercised the right to be heard on the complaint.
+**103.1** The Board shall render a decision on a complaint made under subsection 65(1) or section 74, 77 or 83 and provide a copy of it  —  including any written reasons  —  and any accompanying order to the Commission and to each person who exercised the right to be heard on the complaint.
+> 2013, c. 40, s. 407.
 
-
-
-
-**Decisions final**
-
-**102** 
-
-- **(1)** Every decision of the Tribunal is final and may not be questioned or reviewed in any court.
-
-**No review by certiorari, etc.**
-
-- **(2)** No order may be made, process entered or proceeding taken in any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise, to question, review, prohibit or restrain the Tribunal in relation to a complaint.
-
-
-
-
-**Filing of order in Federal Court**
-
-**103** 
-
-- **(1)** The Commission or any person to whom an order of the Tribunal applies may, after the day specified for compliance or, if no such day is specified in the order, not sooner than 30 days after the day the order was made, file in the Federal Court a certified true copy of the order.
-
-**Effect of filing**
-
-- **(2)** On the filing of an order, it becomes an order of the Federal Court and may be enforced as such.
 
 
 
@@ -1603,9 +1510,11 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 
 
-**Members not compellable as witnesses**
+**Certain persons not compellable as witnesses**
 
-**104** Members of the Tribunal, persons employed by the Tribunal and persons retained under subsection 95(2) are not competent or compellable to appear as a witness in any civil proceedings respecting information obtained in the discharge of their functions.
+**104** Persons providing mediation services under this Part are not competent or compellable to appear as witnesses in any civil action, suit or other proceeding respecting information obtained in the discharge of their functions under this Part.
+> 2003, c. 22, s. 12 "104"; 2013, c. 40, s. 407.
+
 
 
 
@@ -1613,60 +1522,43 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Notes and drafts not to be disclosed**
 
 **105** None of the following may be disclosed without the consent of the person who made them:
-- **(a)** notes or draft orders or decisions of the members of the Tribunal; and
+- **(a)** [Repealed, 2013, c. 40, s. 408]
 - **(b)** notes of any person providing mediation services under this Part.
+> 2003, c. 22, s. 12 "105"; 2013, c. 40, s. 408.
 
 
 
 
-**Immunity from proceedings**
-
-**106** No criminal or civil proceedings lie against a member of the Tribunal, or any person acting on behalf of the Tribunal for anything done or omitted to be done by that member or that person in good faith under this Part.
+**106** [Repealed, 2013, c. 40, s. 409]
 
 
 
+**107** [Repealed, 2013, c. 40, s. 409]
 
-**Oath or affirmation**
 
-**107** Before commencing his or her functions, a person appointed as a member of the Tribunal shall take an oath or make a solemn affirmation in the following form before a commissioner of oaths or other person having authority to administer oaths or solemn affirmations:I, ____________, do swear (or solemnly affirm) that I will faithfully, truly and impartially, to the best of my judgement, skill and ability, execute and perform the office of member (or Chairperson or Vice-Chairperson) of the Public Service Staffing Tribunal. (*Add, in the case where an oath is taken*, “So help me God” (*or name of deity*).)
 
+**108** [Repealed, 2013, c. 40, s. 409]
 
 
 
 
-
-**Payment of witness fees**
-
-**108** A person who is summoned by a member of the Tribunal to attend as a witness at any proceeding of the Tribunal is entitled to receive fees and allowances for so attending equal to those to which the person would be entitled if summoned to attend before the Federal Court.
+### Regulations
 
 
 
+**Regulations of Board**
 
-### Regulations and Report
-
-
-
-**Regulations of Tribunal**
-
-**109** The Tribunal may make regulations respecting
+**109** The Board may make regulations respecting
 - **(a)** the manner in which and the time within which a complaint may be made under subsection 65(1) or section 74, 77 or 83;
-- **(b)** the procedure for the hearing of complaints by the Tribunal;
-- **(c)** the time within which, and the persons to whom, notices and other documents must be given in relation to complaints and when the notices are deemed to have been sent, given or received;
+- **(b) and (c)** [Repealed, 2013, c. 40, s. 411]
 - **(d)** the manner of giving notice of an issue to the Canadian Human Rights Commission under subsection 65(5) or section 78; and
 - **(e)** the disclosure of information obtained in the course of an appointment process or a complaint proceeding under this Act.
+> 2003, c. 22, s. 12 "109"; 2013, c. 40, ss. 411, 414.
 
 
 
 
-**Annual report**
-
-**110** 
-
-- **(1)** The Chairperson shall, as soon as possible after the end of each fiscal year, prepare and transmit to the minister designated by the Governor in Council for the purposes of this section a report for that fiscal year in respect of matters under the Tribunal’s jurisdiction.
-
-**Tabling in Parliament**
-
-- **(2)** The minister to whom the report is transmitted shall cause the report to be laid before each House of Parliament within the first fifteen days on which that House is sitting after the minister receives it.
+**110** [Repealed, 2013, c. 40, s. 412]
 
 
 
@@ -1686,29 +1578,29 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 - **(1)** The following definitions apply in this Part.
 
-***election*** means a federal, provincial, territorial or municipal election.
+***election*** means a federal, provincial, territorial or municipal election. (*élection*)
 
-***federal election*** means an election to the House of Commons.
+***federal election*** means an election to the House of Commons. (*élection fédérale*)
 
-***municipal election*** means an election as the mayor or a member of the council of a municipality.
+***municipal election*** means an election as the mayor or a member of the council of a municipality. (*élection municipale*)
 
-***municipality*** means
+***municipality*** means
 - **(a)** an incorporated or unincorporated regional municipality, city, town, village, rural municipality, township, county, district or other municipality, however designated; or
-- **(b)** any other local or regional authority that is determined by the Governor in Council to be a municipality for the purposes of this Part.
+- **(b)** any other local or regional authority that is determined by the Governor in Council to be a municipality for the purposes of this Part. (*municipalité*)
 
-***political activity*** means
+***political activity*** means
 - **(a)** carrying on any activity in support of, within or in opposition to a political party;
 - **(b)** carrying on any activity in support of or in opposition to a candidate before or during an election period; or
-- **(c)** seeking nomination as or being a candidate in an election before or during the election period.
+- **(c)** seeking nomination as or being a candidate in an election before or during the election period. (*activité politique*)
 
-***provincial election*** means an election to the legislature of a province.
+***provincial election*** means an election to the legislature of a province. (*élection provinciale*)
 
-***territorial election*** means an election to the Legislative Assembly of Yukon, the Northwest Territories or Nunavut.
+***territorial election*** means an election to the Legislative Assembly of Yukon, the Northwest Territories or Nunavut. (*élection territoriale*)
 
 **Meaning of deputy head**
 
-- **(2)** For the purposes of this Part, ***deputy head*** includes a Commissioner appointed under subsection 4(5) and the Chairperson of the Tribunal designated under subsection 88(5).
-> 2003, c. 22, ss. 12 “111”, 272; 2014, c. 2, s. 55.
+- **(2)** For the purposes of this Part, ***deputy head*** includes a Commissioner appointed under subsection 4(5).
+> 2003, c. 22, ss. 12 “111”, 272; 2013, c. 40, s. 413; 2014, c. 2, s. 55, c. 20, s. 474.
 
 
 
