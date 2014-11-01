@@ -782,22 +782,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 #### Administration
 
 
-
-**Greffe**
-
-**20.8** 
-
-- **(1)** Le greffe du Tribunal est constitué d’un bureau situé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-**Personnel**
-
-- **(2)** Le registraire du Tribunal et les autres membres du personnel nécessaire au bon fonctionnement du Tribunal sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Experts**
-
-- **(3)** Le registraire peut, sur demande du président du Tribunal, engager des experts pour aider et conseiller les membres et, avec l’approbation du Conseil du Trésor, fixer et payer leur rémunération et leurs indemnités.
-> 2006, ch. 9, art. 201.
-
+**20.8** [Abrogé, 2014, ch. 20, art. 468]
 
 
 
