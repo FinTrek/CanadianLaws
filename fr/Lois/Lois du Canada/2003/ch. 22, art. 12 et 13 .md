@@ -66,80 +66,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
 ***administrateur général*** S’entend :
-
-- **a)
-** dans une administration figurant à l’annexe I de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), du sous-ministre;
-- **b)
-** dans une administration ou partie d’administration désignée comme ministère en vertu de la présente loi, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)
-** dans toute administration figurant aux annexes IV ou V de la  
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de son administrateur général au titre de la loi ou, à défaut de l’un et l’autre, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+- **a)** dans une administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), du sous-ministre;
+- **b)** dans une administration ou partie d’administration désignée comme ministère en vertu de la présente loi, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
+- **c)** dans toute administration figurant aux annexes IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de son administrateur général au titre de la loi ou, à défaut de l’un et l’autre, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
 
 ***administrateur général au titre de la loi*** Toute personne qui, au titre d’une loi fédérale, est ou est réputée être administrateur général ou en a ou est réputée en avoir le rang ou le statut.
 
-
-***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-
+***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 ***Commission*** La Commission de la fonction publique maintenue par le paragraphe 4(1).
 
+***Commission des relations de travail et de l’emploi*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 ***employeur***
-- **a)
-** Le Conseil du Trésor, dans le cas d’une administration figurant aux annexes I ou IV de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)
-** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission.
+- **a)** Le Conseil du Trésor, dans le cas d’une administration figurant aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission.
 
 ***fonctionnaire*** Personne employée dans la fonction publique et dont la nomination à celle-ci relève exclusivement de la Commission.
 
-
 ***fonction publique*** L’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
-
-- **a)
-** les ministères figurant à l’annexe I de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)
-** les administrations figurant à l’annexe IV de cette loi;
-- **c)
-** les organismes distincts figurant à l’annexe V de la même loi.
+- **a)** les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** les administrations figurant à l’annexe IV de cette loi;
+- **c)** les organismes distincts figurant à l’annexe V de la même loi.
 
 ***ministère***
-- **a)
-** Administration figurant à l’annexe I de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)
-** toute autre administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)
-** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+- **a)** Administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** toute autre administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
+- **c)** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
 
-***ministre*** S’entend, sauf à l’article 131, de tout ministre visé à l’article 4.1 de la 
-[Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la 
-[Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md).
+***ministre*** S’entend, sauf à l’article 131, de tout ministre visé à l’article 4.1 de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la [Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md).
 
 ***mutation*** Transfert d’une personne d’un poste à un autre sous le régime de la partie 3.
 
-
 French version only***nomination externe*** Nomination d’une personne ne faisant pas partie de la fonction publique.
-
 
 French version only***nomination interne*** Nomination d’une personne faisant déjà partie de la fonction publique.
 
-
-***organisme distinct*** Administration figurant à l’annexe V de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-
+***organisme distinct*** Administration figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 ***processus de nomination externe*** Processus de nomination dans lequel peuvent être prises en compte tant les personnes appartenant à la fonction publique que les autres.
 
-
 ***processus de nomination interne*** Processus de nomination dans lequel seules peuvent être prises en compte les personnes employées dans la fonction publique.
 
-
-***Tribunal*** Le Tribunal de la dotation de la fonction publique maintenu par le paragraphe 88(1).
-
+***Tribunal***[Abrogée, 2013, ch. 40, art. 403]
 
 **Mention d’un administrateur général**
 
@@ -153,8 +122,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Abus de pouvoir**
 
-- **(4)** Il est entendu que, pour l’application de la présente loi, on entend notamment par « abus de pouvoir » la mauvaise foi et le favoritisme personnel.
-> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17.
+- **(4)** Il est entendu que, pour l’application de la présente loi, on entend notamment par ***abus de pouvoir*** la mauvaise foi et le favoritisme personnel.
+> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17; 2013, ch. 40, art. 403.
 
 
 
@@ -634,11 +603,11 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
-**Mobilité — organismes distincts**
+**Mobilité  — organismes distincts**
 
 **35** 
 
-- **(1)** Sauf disposition contraire de toute autre loi, les employés d’un organisme distinct dans lequel les nominations ne relèvent pas exclusivement de la Commission :
+- **(1)** Sauf disposition contraire de la présente loi ou de toute autre loi, les employés d’un organisme distinct dans lequel les nominations ne relèvent pas exclusivement de la Commission :
 	- **a)** peuvent participer à un processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’ils satisfassent aux autres critères fixés, le cas échéant, en vertu de l’article 34;
 	- **b)** ont le droit de présenter une plainte en vertu de l’article 77.
 
@@ -648,9 +617,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 	- **a)** peuvent participer à un processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise toutes les personnes appartenant à la fonction publique, pourvu qu’elles satisfassent aux autres critères fixés, le cas échéant, en vertu de l’article 34;
 	- **b)** ont le droit de présenter une plainte en vertu de l’article 77.
 
-**Mobilité — employés du Tribunal**
-
-- **(3)** Les personnes employées par le Tribunal au titre du paragraphe 95(1) peuvent participer à un processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elles satisfassent aux autres critères fixés, le cas échéant, en vertu de l’article 34.
+- **(3)** [Abrogé, 2013, ch. 40, art. 404]
 
 **Désignation de secteurs**
 
@@ -659,6 +626,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Annulation**
 
 - **(5)** Le gouverneur en conseil peut, sur recommandation de la Commission, annuler toute mesure prise en vertu du paragraphe (4).
+> 2003, ch. 22, art. 12 « 35 »; 2013, ch. 40, art. 404.
+
 
 
 
@@ -728,8 +697,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Exceptions au mérite**
 
-**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités) ou des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal), ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102.
+**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités) ou des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi ), ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102; 2013, ch. 40, art. 414.
 
 
 
@@ -1110,11 +1079,11 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 
 
-**Plainte au Tribunal — mise en disponibilité**
+**Plainte à la Commission des relations de travail et de l’emploi  — mise en disponibilité**
 
 **65** 
 
-- **(1)** Dans les cas où seulement certains des fonctionnaires d’une partie de l’administration sont informés par l’administrateur général qu’ils seront mis en disponibilité, l’un ou l’autre de ces fonctionnaires peut présenter au Tribunal, dans le délai et selon les modalités fixés par règlement de celui-ci, une plainte selon laquelle la décision de le mettre en disponibilité constitue un abus de pouvoir.
+- **(1)** Dans les cas où seulement certains des fonctionnaires d’une partie de l’administration sont informés par l’administrateur général qu’ils seront mis en disponibilité, l’un ou l’autre de ces fonctionnaires peut présenter à la Commission des relations de travail et de l’emploi , dans le délai et selon les modalités fixés par règlement de celle-ci, une plainte selon laquelle la décision de le mettre en disponibilité constitue un abus de pouvoir.
 
 **Précision**
 
@@ -1122,27 +1091,29 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Droit de se faire entendre**
 
-- **(3)** Le plaignant, les autres fonctionnaires de la partie de l’administration en cause, l’administrateur général et la Commission, ou leurs représentants, ont le droit de se faire entendre par le Tribunal.
+- **(3)** Le plaignant, les autres fonctionnaires de la partie de l’administration en cause, l’administrateur général et la Commission, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi .
 
 **Annulation de la mise en disponibilité**
 
-- **(4)** S’il juge la plainte fondée, le Tribunal peut annuler la décision de mettre le plaignant en disponibilité et ordonner à l’administrateur général de prendre les mesures correctives qu’il estime indiquées; il ne peut toutefois ordonner la mise en disponibilité d’un fonctionnaire.
+- **(4)** Si elle juge la plainte fondée, la Commission des relations de travail et de l’emploi  peut annuler la décision de mettre le plaignant en disponibilité et ordonner à l’administrateur général de prendre les mesures correctives qu’elle estime indiquées; elle ne peut toutefois ordonner la mise en disponibilité d’un fonctionnaire.
 
 **Avis à la Commission canadienne des droits de la personne**
 
-- **(5)** Le plaignant qui soulève une question liée à l’interprétation ou à l’application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) en donne avis à la Commission canadienne des droits de la personne conformément aux règlements du Tribunal.
+- **(5)** Le plaignant qui soulève une question liée à l’interprétation ou à l’application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) en donne avis à la Commission canadienne des droits de la personne conformément aux règlements de la Commission des relations de travail et de l’emploi .
 
 **Commission canadienne des droits de la personne**
 
-- **(6)** Dans les cas où elle est avisée dans le cadre du paragraphe (5), la Commission canadienne des droits de la personne peut présenter ses observations au Tribunal relativement à la question soulevée.
+- **(6)** Dans les cas où elle est avisée dans le cadre du paragraphe (5), la Commission canadienne des droits de la personne peut présenter ses observations à la Commission des relations de travail et de l’emploi  relativement à la question soulevée.
 
 **Application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)**
 
-- **(7)** Lorsqu’il décide si la plainte est fondée, le Tribunal peut interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes.
+- **(7)** Lorsqu’elle décide si la plainte est fondée, la Commission des relations de travail et de l’emploi  peut interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes.
 
 **Précision**
 
 - **(8)** Les ordonnances prévues à l’alinéa 53(2)e) et au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) peuvent faire partie des mesures correctives.
+> 2003, ch. 22, art. 12 « 65 »; 2013, ch. 40, art. 414.
+
 
 
 
@@ -1244,32 +1215,38 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 
 
-### Plaintes relatives aux révocations devant le Tribunal
+### Plaintes relatives aux révocations devant la Commission des relations de travail et de l’emploi 
 
 
 
-**Plaintes au Tribunal**
+**Plaintes à la Commission des relations de travail et de l’emploi **
 
-**74** La personne dont la nomination est révoquée par la Commission en vertu du paragraphe 67(1) ou par l’administrateur général en vertu des paragraphes 15(3) ou 67(2) peut, selon les modalités et dans le délai fixés par règlement du Tribunal, présenter à celui-ci une plainte selon laquelle la révocation n’était pas raisonnable.
+**74** La personne dont la nomination est révoquée par la Commission en vertu du paragraphe 67(1) ou par l’administrateur général en vertu des paragraphes 15(3) ou 67(2) peut, selon les modalités et dans le délai fixés par règlement de la Commission des relations de travail et de l’emploi , présenter à celle-ci une plainte selon laquelle la révocation n’était pas raisonnable.
+> 2003, ch. 22, art. 12 « 74 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Droit de se faire entendre**
 
-**75** Le plaignant, la Commission et l’administrateur général, ou leurs représentants, ont le droit de se faire entendre par le Tribunal.
+**75** Le plaignant, la Commission et l’administrateur général, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi .
+> 2003, ch. 22, art. 12 « 75 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Annulation de la révocation**
 
-**76** S’il juge la plainte fondée, le Tribunal peut ordonner à la Commission ou à l’administrateur général, selon le cas, d’annuler la révocation.
+**76** Si elle juge la plainte fondée, la Commission des relations de travail et de l’emploi  peut ordonner à la Commission ou à l’administrateur général, selon le cas, d’annuler la révocation.
+> 2003, ch. 22, art. 12 « 76 »; 2013, ch. 40, art. 414.
 
 
 
 
-### Plaintes relatives aux nominations internes devant le Tribunal
+
+### Plaintes relatives aux nominations internes devant la Commission des relations de travail et de l’emploi 
 
 
 
@@ -1277,7 +1254,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **77** 
 
-- **(1)** Lorsque la Commission a fait une proposition de nomination ou une nomination dans le cadre d’un processus de nomination interne, la personne qui est dans la zone de recours visée au paragraphe (2) peut, selon les modalités et dans le délai fixés par règlement du Tribunal, présenter à celui-ci une plainte selon laquelle elle n’a pas été nommée ou fait l’objet d’une proposition de nomination pour l’une ou l’autre des raisons suivantes :
+- **(1)** Lorsque la Commission a fait une proposition de nomination ou une nomination dans le cadre d’un processus de nomination interne, la personne qui est dans la zone de recours visée au paragraphe (2) peut, selon les modalités et dans le délai fixés par règlement de la Commission des relations de travail et de l’emploi , présenter à celle-ci une plainte selon laquelle elle n’a pas été nommée ou fait l’objet d’une proposition de nomination pour l’une ou l’autre des raisons suivantes :
 	- **a)** abus de pouvoir de la part de la Commission ou de l’administrateur général dans l’exercice de leurs attributions respectives au titre du paragraphe 30(2);
 	- **b)** abus de pouvoir de la part de la Commission du fait qu’elle a choisi un processus de nomination interne annoncé ou non annoncé, selon le cas;
 	- **c)** omission de la part de la Commission d’évaluer le plaignant dans la langue officielle de son choix, en contravention du paragraphe 37(1).
@@ -1290,14 +1267,18 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Exclusion**
 
-- **(3)** Le Tribunal ne peut entendre les allégations portant qu’il y a eu fraude dans le processus de nomination ou que la nomination ou la proposition de nomination a résulté de l’exercice d’une influence politique.
+- **(3)** La Commission des relations de travail et de l’emploi  ne peut entendre les allégations portant qu’il y a eu fraude dans le processus de nomination ou que la nomination ou la proposition de nomination a résulté de l’exercice d’une influence politique.
+> 2003, ch. 22, art. 12 « 77 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Avis à la Commission canadienne des droits de la personne**
 
-**78** Le plaignant qui soulève une question liée à l’interprétation ou à l’application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) en donne avis à la Commission canadienne des droits de la personne conformément aux règlements du Tribunal.
+**78** Le plaignant qui soulève une question liée à l’interprétation ou à l’application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) en donne avis à la Commission canadienne des droits de la personne conformément aux règlements de la Commission des relations de travail et de l’emploi .
+> 2003, ch. 22, art. 12 « 78 »; 2013, ch. 40, art. 414.
+
 
 
 
@@ -1306,18 +1287,22 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **79** 
 
-- **(1)** Le plaignant visé à l’article 77, la personne qui a fait l’objet de la proposition de nomination ou qui a été nommée, la Commission et l’administrateur général, ou leurs représentants, ont le droit de se faire entendre par le Tribunal.
+- **(1)** Le plaignant visé à l’article 77, la personne qui a fait l’objet de la proposition de nomination ou qui a été nommée, la Commission et l’administrateur général, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi .
 
 **Commission canadienne des droits de la personne**
 
-- **(2)** Dans les cas où elle est avisée dans le cadre de l’article 78, la Commission canadienne des droits de la personne peut présenter ses observations au Tribunal relativement à la question soulevée.
+- **(2)** Dans les cas où elle est avisée dans le cadre de l’article 78, la Commission canadienne des droits de la personne peut présenter ses observations à la Commission des relations de travail et de l’emploi  relativement à la question soulevée.
+> 2003, ch. 22, art. 12 « 79 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Application de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)**
 
-**80** Lorsqu’il décide si la plainte est fondée, le Tribunal peut interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes.
+**80** Lorsqu’elle décide si la plainte est fondée, la Commission des relations de travail et de l’emploi peut interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes.
+> 2003, ch. 22, art. 12 « 80 »; 2013, ch. 40, art. 414.
+
 
 
 
@@ -1326,44 +1311,54 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **81** 
 
-- **(1)** S’il juge la plainte fondée, le Tribunal peut ordonner à la Commission ou à l’administrateur général de révoquer la nomination ou de ne pas faire la nomination, selon le cas, et de prendre les mesures correctives qu’il estime indiquées.
+- **(1)** Si elle juge la plainte fondée, la Commission des relations de travail et de l’emploi peut ordonner à la Commission ou à l’administrateur général de révoquer la nomination ou de ne pas faire la nomination, selon le cas, et de prendre les mesures correctives qu’elle estime indiquées.
 
 **Précision**
 
 - **(2)** Les ordonnances prévues à l’alinéa 53(2)e) et au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md) peuvent faire partie des mesures correctives.
+> 2003, ch. 22, art. 12 « 81 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Restriction**
 
-**82** Le Tribunal ne peut ordonner à la Commission de faire une nomination ou d’entreprendre un nouveau processus de nomination.
+**82** La Commission des relations de travail et de l’emploi ne peut ordonner à la Commission de faire une nomination ou d’entreprendre un nouveau processus de nomination.
+> 2003, ch. 22, art. 12 « 82 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Plainte — application des mesures correctives**
 
-**83** Dans le cas où la Commission fait une nomination ou une proposition de nomination en conséquence de l’application des mesures ordonnées en vertu de l’article 81, les personnes ci-après peuvent, selon les modalités et dans le délai fixés par règlement du Tribunal, présenter à celui-ci une plainte selon laquelle le fait qu’elles n’ont pas été nommées ou fait l’objet d’une proposition de nomination constitue un abus de pouvoir de la part de la Commission ou de l’administrateur général dans l’application des mesures correctives :
+**83** Dans le cas où la Commission fait une nomination ou une proposition de nomination en conséquence de l’application des mesures ordonnées en vertu de l’article 81, les personnes ci-après peuvent, selon les modalités et dans le délai fixés par règlement de la Commission des relations de travail et de l’emploi, présenter à celle-ci une plainte selon laquelle le fait qu’elles n’ont pas été nommées ou fait l’objet d’une proposition de nomination constitue un abus de pouvoir de la part de la Commission ou de l’administrateur général dans l’application des mesures correctives :
 - **a)** la personne qui a présenté la plainte en vertu de l’article 77;
 - **b)** la personne qui a fait l’objet de la proposition de nomination ou de la nomination visées au paragraphe 77(1);
 - **c)** toute autre personne qui est directement touchée par l’application des mesures correctives.
+> 2003, ch. 22, art. 12 « 83 »; 2013, ch. 40, art. 414.
 
 
 
 
-**Pouvoirs du Tribunal**
 
-**84** S’il juge la plainte visée à l’article 83 fondée, le Tribunal peut :
+**Pouvoirs de la Commission des relations de travail et de l’emploi**
+
+**84** Si elle juge la plainte visée à l’article 83 fondée, la Commission des relations de travail et de l’emploi peut :
 - **a)** ordonner à la Commission ou à l’administrateur général de révoquer la nomination consécutive à la prise des mesures correctives ou de ne pas faire la nomination, selon le cas;
-- **b)** donner à la Commission ou à l’administrateur général les directives qu’il estime indiquées pour l’application des mesures correctives.
+- **b)** donner à la Commission ou à l’administrateur général les directives qu’elle estime indiquées pour l’application des mesures correctives.
+> 2003, ch. 22, art. 12 « 84 »; 2013, ch. 40, art. 414.
+
 
 
 
 
 **Droit de se faire entendre**
 
-**85** Dans le cas d’une plainte présentée en vertu de l’article 83, les personnes mentionnées à cet article, la personne qui a été nommée ou qui a fait l’objet d’une proposition de nomination en conséquence de l’application des mesures correctives, l’administrateur général et la Commission, ou leurs représentants, ont le droit de se faire entendre par le Tribunal.
+**85** Dans le cas d’une plainte présentée en vertu de l’article 83, les personnes mentionnées à cet article, la personne qui a été nommée ou qui a fait l’objet d’une proposition de nomination en conséquence de l’application des mesures correctives, l’administrateur général et la Commission, ou leurs représentants, ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi.
+> 2003, ch. 22, art. 12 « 85 »; 2013, ch. 40, art. 414.
+
 
 
 
@@ -1377,165 +1372,103 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Absence du droit de présenter une plainte**
 
-**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal) ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105.
+**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105; 2013, ch. 40, art. 414.
 
 
 
 
 
 **PARTIE 6** 
-## Tribunal de la dotation de la fonction publique
+## Commission des relations de travail et de l’emploi dans la fonction publique
 
 
 
-### Composition et mission
+### Attributions
 
 
 
-**Maintien**
+**Plaintes**
 
-**88** 
+**88** La Commission des relations de travail et de l’emploi instruit les plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et statue sur elles.
+> 2003, ch. 22, art. 12 « 88 »; 2013, ch. 40, art. 405.
 
-- **(1)** Est maintenu le Tribunal de la dotation de la fonction publique, composé de cinq à sept membres titulaires nommés par le gouverneur en conseil et des membres vacataires nommés en vertu de l’article 90.
 
-**Mission**
 
-- **(2)** Le Tribunal a pour mission d’instruire les plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et de statuer sur elles.
 
-**Qualités requises**
 
-- **(3)** Il faut, pour être membre du Tribunal :
-	- **a)** être citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) ou résident permanent au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-	- **b)** avoir de l’expérience ou des connaissances en matière d’emploi dans le secteur public.
+**Pouvoirs**
 
-**Temps plein ou temps partiel**
+**89** La Commission des relations de travail et de l’emploi peut, dans le cadre de toute plainte qui lui est présentée, sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout ouvrage, matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’elle lui pose relativement à la plainte.
+> 2003, ch. 22, art. 12 « 89 »; 2013, ch. 40, art. 405.
 
-- **(4)** Les membres sont nommés soit à temps plein, soit à temps partiel.
 
-**Désignation du président et du vice-président**
 
-- **(5)** Le gouverneur en conseil désigne le président parmi les membres titulaires à temps plein et le vice-président parmi les membres titulaires à temps plein ou à temps partiel.
 
-**Résidence**
+**90** [Abrogé, 2013, ch. 40, art. 405]
 
-- **(6)** Le président réside dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md) ou dans la périphérie de cette région définie par le gouverneur en conseil.
 
 
+**91** [Abrogé, 2013, ch. 40, art. 405]
 
 
-**Mandat**
 
-**89** 
+**92** [Abrogé, 2013, ch. 40, art. 405]
 
-- **(1)** Les membres titulaires du Tribunal sont nommés à titre inamovible pour un mandat maximal de cinq ans, sous réserve de révocation motivée de la part du gouverneur en conseil.
 
-**Renouvellement de mandat**
 
-- **(2)** Le mandat des membres titulaires peut être reconduit.
+**93** [Abrogé, 2013, ch. 40, art. 405]
 
 
 
+**94** [Abrogé, 2013, ch. 40, art. 405]
 
-**Membres vacataires**
 
-**90** 
 
-- **(1)** Le gouverneur en conseil peut nommer des membres vacataires du Tribunal lorsqu’il estime que la charge de travail du Tribunal le justifie.
+**95** [Abrogé, 2013, ch. 40, art. 405]
 
-**Mandat**
 
-- **(2)** Les membres vacataires du Tribunal sont nommés à titre inamovible pour un mandat maximal de deux ans, sous réserve de révocation motivée de la part du gouverneur en conseil.
 
-**Renouvellement de mandat**
+**96** [Abrogé, 2013, ch. 40, art. 405]
 
-- **(3)** Le mandat des membres vacataires peut être reconduit.
 
 
 
+### Services de médiation
 
-**Exercice des fonctions**
 
-**91** Les membres ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec leurs fonctions. Ceux nommés à temps plein se consacrent exclusivement à l’exécution de leurs fonctions.
 
+**Services de médiation**
 
+**97** 
 
+- **(1)** La Commission des relations de travail et de l’emploi peut, en tout état de cause, offrir des services de médiation en vue de régler une plainte.
 
-**Rémunération**
+**Médiation par un membre**
 
-**92** 
+- **(2)** Le fait pour un membre d’agir à titre de médiateur au cours de l’instruction de la plainte ne l’empêche de continuer à agir pour trancher les questions qui n’ont pas été réglées que si la Commission ou les personnes qui ont le droit de se faire entendre par la Commission des relations de travail et de l’emploi s’y opposent.
+> 2003, ch. 22, art. 12 « 97 »; 2013, ch. 40, art. 414.
 
-- **(1)** Les membres reçoivent la rémunération fixée par le gouverneur en conseil.
 
-**Frais de déplacement**
 
-- **(2)** Ils ont droit aux frais de déplacement et autres entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel soit de travail, s’ils sont nommés à temps plein, soit de résidence, s’ils sont nommés à temps partiel.
 
-**Application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)**
+**98** [Abrogé, 2013, ch. 40, art. 407]
 
-- **(3)** Les membres à temps plein sont réputés être employés dans la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
 
-**Application d’autres lois**
 
-- **(4)** Tous les membres sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+**99** [Abrogé, 2013, ch. 40, art. 407]
 
 
 
+**100** [Abrogé, 2013, ch. 40, art. 407]
 
-**Siège et bureaux régionaux**
 
-**93** 
 
-- **(1)** Le siège du Tribunal est fixé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md). Le Tribunal peut, avec l’agrément du gouverneur en conseil, créer des bureaux régionaux s’il l’estime nécessaire à l’exécution de sa mission.
+**101** [Abrogé, 2013, ch. 40, art. 407]
 
-**Usage des services fédéraux**
 
-- **(2)** Dans l’exécution de sa mission, le Tribunal peut faire usage, en tant que de besoin, des installations et services des ministères et organismes fédéraux.
 
-
-
-
-**Premier dirigeant**
-
-**94** 
-
-- **(1)** Le président est le premier dirigeant du Tribunal; à ce titre, il en assure la direction et en contrôle les activités, notamment en ce qui a trait à l’assignation des plaintes aux membres et la fixation des dates, heures et lieux des audiences.
-
-**Délégation**
-
-- **(2)** Le président peut déléguer ses attributions au vice-président.
-
-**Intérim**
-
-- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président.
-
-**Choix d’un autre intérimaire**
-
-- **(4)** En cas d’absence ou d’empêchement du président et du vice-président ou de vacance de leurs postes, le ministre désigné pour l’application de l’article 110 peut autoriser un membre titulaire ou une autre personne qualifiée à assumer la présidence pour une période maximale de soixante jours; pour une période plus longue, l’autorisation est donnée par le gouverneur en conseil.
-
-
-
-
-**Ressources humaines**
-
-**95** 
-
-- **(1)** Le président a, en matière de personnel du Tribunal, les pouvoirs suivants : nomination, fixation de la durée des fonctions et de la période de stage, renvoi au cours de la période de stage et mise en disponibilité.
-
-**Assistance technique**
-
-- **(2)** Le président peut retenir temporairement les services de médiateurs et d’autres experts chargés d’assister le Tribunal à titre consultatif, et, sous réserve de l’approbation du Conseil du Trésor, fixer leur rémunération.
-
-**Application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)**
-
-- **(3)** Ces médiateurs ou experts ne sont pas employés dans la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-
-
-
-
-**Activités politiques**
-
-**96** La partie 7 s’applique aux membres du personnel du Tribunal comme s’ils étaient des fonctionnaires au sens du paragraphe 2(1).
+**102** [Abrogé, 2013, ch. 40, art. 407]
 
 
 
@@ -1544,91 +1477,32 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 
 
-**Services de médiation**
+**Dépôt à la Cour fédérale**
 
-**97** 
+**103** 
 
-- **(1)** Le Tribunal peut, en tout état de cause, offrir des services de médiation en vue de régler une plainte.
+- **(1)** Sur demande écrite de la Commission ou de toute personne à laquelle s’applique l’ordonnance de la Commission des relations de travail et de l’emploi, cette dernière dépose à la Cour fédérale une copie certifiée conforme de son ordonnance sauf si, à son avis :
+	- **a)** ou bien rien ne laisse croire que l’ordonnance n’a pas été exécutée ou ne le sera pas;
+	- **b)** ou bien, pour d’autres motifs valables, le dépôt ne serait d’aucune utilité.
 
-**Médiation par un membre**
+**Non-application**
 
-- **(2)** Le fait pour un membre d’agir à titre de médiateur au cours de l’instruction de la plainte ne l’empêche de continuer à agir pour trancher les questions qui n’ont pas été réglées que si la Commission ou les personnes qui ont le droit de se faire entendre par le Tribunal s’y opposent.
+- **(2)** L’article 35 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique ne s’applique pas aux ordonnances de la Commission des relations de travail et de l’emploi visées au paragraphe (1).
 
+**Effet**
 
+- **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
+> 2003, ch. 22, art. 12 « 103 »; 2013, ch. 40, art. 407.
 
-
-**Instruction par un membre unique**
-
-**98** 
-
-- **(1)** Les plaintes sont instruites par un membre agissant seul qui procède, dans la mesure du possible, sans formalisme et avec célérité.
-
-**Valeur de la décision**
-
-- **(2)** La décision du membre constitue une décision du Tribunal.
-
-
-
-
-**Pouvoirs**
-
-**99** 
-
-- **(1)** Le Tribunal peut, pour l’instruction d’une plainte :
-	- **a)** de la même façon et dans la même mesure qu’une cour supérieure d’archives, convoquer des témoins et les contraindre à comparaître et à faire sous serment des dépositions orales ou écrites;
-	- **b)** ordonner l’utilisation de tout moyen de communication permettant à tous les participants à une audience de communiquer adéquatement entre eux;
-	- **c)** faire prêter serment et recevoir les affirmations solennelles;
-	- **d)** accepter des éléments de preuve, qu’ils soient admissibles ou non en justice;
-	- **e)** obliger, en tout état de cause, toute personne à produire les documents ou pièces qui peuvent être liés à toute question dont il est saisi;
-	- **f)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout ouvrage, matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’il estime utile de lui poser relativement à la plainte.
-
-**Rejet des plaintes**
-
-- **(2)** Le Tribunal peut rejeter de façon sommaire les plaintes qu’il estime frustratoires.
-
-**Décision sans audience**
-
-- **(3)** Le Tribunal peut statuer sur une plainte sans tenir d’audience.
-
-
-
-
-**Participation des anciens membres**
-
-**100** Le membre du Tribunal qui cesse d’exercer sa charge par suite de démission ou pour tout autre motif peut, à la demande du président et dans un délai de huit semaines après la cessation de ses fonctions, statuer sur toute question qu’il avait préalablement entendue. Il a à cette fin la qualité de membre à temps partiel.
 
 
 
 
 **Transmission de la décision**
 
-**101** Le Tribunal statue sur la plainte présentée en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et transmet à la Commission et à toute personne qui a exercé son droit de se faire entendre à l’égard de la plainte copie de la décision et, le cas échéant, des motifs écrits de celle-ci, ainsi que de toute ordonnance qu’il rend en l’espèce.
+**103.1** La Commission des relations de travail et de l’emploi statue sur la plainte présentée en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83 et transmet à la Commission et à toute personne qui a exercé son droit de se faire entendre à l’égard de la plainte copie de la décision et, le cas échéant, des motifs écrits de celle-ci, ainsi que de toute ordonnance qu’elle rend en l’espèce.
+> 2013, ch. 40, art. 407.
 
-
-
-
-**Caractère définitif de la décision**
-
-**102** 
-
-- **(1)** La décision du Tribunal est définitive et n’est pas susceptible d’examen ou de révision devant un autre tribunal.
-
-**Interdiction de recours extraordinaires**
-
-- **(2)** Il n’est admis aucun recours ni aucune décision judiciaire — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action du Tribunal en ce qui touche une plainte.
-
-
-
-
-**Exécution des ordonnances**
-
-**103** 
-
-- **(1)** La Commission ou toute personne à laquelle s’applique l’ordonnance du Tribunal peut, après la date fixée dans l’ordonnance ou, en l’absence d’une telle date, à compter du trentième jour suivant la date de celle-ci, déposer à la Cour fédérale une copie certifiée conforme de l’ordonnance.
-
-**Effet**
-
-- **(2)** Dès le dépôt, l’ordonnance est assimilée à une ordonnance de la Cour fédérale.
 
 
 
@@ -1639,7 +1513,9 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Inhabilité à témoigner**
 
-**104** Les membres et le personnel du Tribunal et les personnes dont les services ont été retenus au titre du paragraphe 95(2) ne sont pas habiles à témoigner ni contraignables au civil quant aux renseignements qu’ils ont obtenus dans l’accomplissement de leurs fonctions.
+**104** Les personnes qui offrent des services de médiation au titre de la présente partie ne sont pas habiles à témoigner ni contraignables au civil quant aux renseignements qu’ils ont obtenus dans l’accomplissement des fonctions que leur confère la présente partie.
+> 2003, ch. 22, art. 12 « 104 »; 2013, ch. 40, art. 407.
+
 
 
 
@@ -1647,60 +1523,43 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Non-communication de documents**
 
 **105** Les documents ci-après ne peuvent être communiqués sans le consentement de leur auteur :
-- **a)** les notes ou les avant-projets d’ordonnance ou de décision des membres du Tribunal;
+- **a)** [Abrogé, 2013, ch. 40, art. 408]
 - **b)** les notes de quiconque offre des services de médiation au titre de la présente partie.
+> 2003, ch. 22, art. 12 « 105 »; 2013, ch. 40, art. 408.
 
 
 
 
-**Immunité**
-
-**106** Les membres du Tribunal ou les personnes agissant au nom du Tribunal bénéficient de l’immunité civile et pénale pour les faits — actes ou omissions — accomplis de bonne foi dans le cadre de la présente partie.
+**106** [Abrogé, 2013, ch. 40, art. 409]
 
 
 
+**107** [Abrogé, 2013, ch. 40, art. 409]
 
-**Serment ou affirmation solennelle**
 
-**107** Avant leur entrée en fonctions, les membres du Tribunal prêtent ou font, selon le cas, le serment ou l’affirmation solennelle ci-après, devant un commissaire aux serments ou toute autre personne autorisée à recevoir les serments ou affirmations solennelles :Moi, ____________, je jure (ou j’affirme solennellement) que j’exercerai de mon mieux, fidèlement, sincèrement et impartialement les fonctions de membre (ou président ou vice-président) du Tribunal de la dotation de la fonction publique. (*Dans le cas du serment, ajouter :* Ainsi Dieu *(ou le nom d’une divinité)* me soit en aide.)
 
+**108** [Abrogé, 2013, ch. 40, art. 409]
 
 
 
 
-
-**Paiement des indemnités des témoins**
-
-**108** Quiconque est assigné devant le Tribunal a droit pour sa comparution aux frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
-
-
-
-
-### Règlements et rapports
+### Règlements
 
 
 
 **Règlements**
 
-**109** Le Tribunal peut, par règlement, régir :
+**109** La Commission des relations de travail et de l’emploi peut, par règlement, régir :
 - **a)** les modalités et le délai de présentation des plaintes présentées en vertu du paragraphe 65(1) ou des articles 74, 77 ou 83;
-- **b)** la procédure à suivre pour l’audition des plaintes;
-- **c)** le délai d’envoi des avis et autres documents au titre des plaintes, ainsi que leurs destinataires et la date où ces avis sont réputés avoir été donnés et reçus;
+- **b) et c)** [Abrogés, 2013, ch. 40, art. 411]
 - **d)** les modalités applicables aux avis donnés à la Commission canadienne des droits de la personne en application du paragraphe 65(5) ou de l’article 78;
 - **e)** la communication de renseignements obtenus dans le cadre de la présente loi au cours d’un processus de nomination ou de l’instruction de plaintes.
+> 2003, ch. 22, art. 12 « 109 »; 2013, ch. 40, art. 411 et 414.
 
 
 
 
-**Rapport annuel**
-
-**110** 
-
-- **(1)** Dans les meilleurs délais suivant la fin de l’exercice, le président établit et transmet au ministre désigné par le gouverneur en conseil pour l’application du présent article un rapport — pour l’exercice — sur les questions qui relèvent du Tribunal.
-
-**Dépôt**
-
-- **(2)** Ce ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+**110** [Abrogé, 2013, ch. 40, art. 412]
 
 
 
@@ -1723,26 +1582,26 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 ***activité politique***
 - **a)** Toute activité exercée au sein d’un parti politique, ou exercée pour soutenir un tel parti ou pour s’y opposer;
 - **b)** toute activité exercée pour soutenir un candidat avant ou pendant la période électorale ou pour s’y opposer;
-- **c)** le fait d’être candidat à une élection ou de tenter de le devenir, avant ou pendant la période électorale.
+- **c)** le fait d’être candidat à une élection ou de tenter de le devenir, avant ou pendant la période électorale. (*political activity*)
 
-***élection*** Élection fédérale, provinciale, territoriale ou municipale. 
+***élection*** Élection fédérale, provinciale, territoriale ou municipale.  (*election*)
 
-***élection fédérale*** Élection à la Chambre des communes. 
+***élection fédérale*** Élection à la Chambre des communes.  (*federal election*)
 
-***élection municipale*** Élection à la charge de maire ou de conseiller d’une municipalité. 
+***élection municipale*** Élection à la charge de maire ou de conseiller d’une municipalité.  (*municipal election*)
 
-***élection provinciale*** Élection à l’assemblée législative d’une province. 
+***élection provinciale*** Élection à l’assemblée législative d’une province.  (*provincial election*)
 
-***élection territoriale*** Élection à l’Assemblée législative du Yukon, à l’Assemblée législative des Territoires du Nord-Ouest ou à l’Assemblée législative du Nunavut.
+***élection territoriale*** Élection à l’Assemblée législative du Yukon, à l’Assemblée législative des Territoires du Nord-Ouest ou à l’Assemblée législative du Nunavut. (*territorial election*)
 
 ***municipalité***
 - **a)** Municipalité régionale, ville, village, canton, district, comté, municipalité rurale — ou autre municipalité, quelle qu’en soit la désignation — dotés ou non de la personnalité morale;
-- **b)** telle autre administration locale ou régionale à laquelle le gouverneur en conseil confère le statut de municipalité pour l’application de la présente partie.
+- **b)** telle autre administration locale ou régionale à laquelle le gouverneur en conseil confère le statut de municipalité pour l’application de la présente partie. (*municipality*)
 
 **Administrateur général**
 
-- **(2)** Pour l’application de la présente partie, les commissaires nommés aux termes du paragraphe 4(5) et le président du Tribunal désigné en vertu du paragraphe 88(5) sont considérés comme des administrateurs généraux.
-> 2003, ch. 22, art. 12 « 111 » et 272; 2014, ch. 2, art. 55.
+- **(2)** Pour l’application de la présente partie, les commissaires nommés aux termes du paragraphe 4(5) sont considérés comme des administrateurs généraux.
+> 2003, ch. 22, art. 12 « 111 » et 272; 2013, ch. 40, art. 413; 2014, ch. 2, art. 55, ch. 20, art. 474.
 
 
 
