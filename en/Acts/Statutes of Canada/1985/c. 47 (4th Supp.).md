@@ -259,10 +259,10 @@ Peru
 
 **Duties of Chairperson**
 
-**7** The Chairperson is the chief executive officer of the Tribunal and has supervision over and direction of the work of the Tribunal including, without restricting the generality of the foregoing,
-- **(a)** the allocation of work among the members and the assignment of members to sit at hearings of the Tribunal and to preside thereat; and
-- **(b)** generally, the conduct of the work of the Tribunal, the management of its internal affairs and the duties of the staff of the Tribunal.
-> R.S., 1985, c. 47 (4th Supp.), s. 7; 1999, c. 12, s. 61(E).
+**7** The Chairperson has supervision over and direction of the work of the Tribunal including, without restricting the generality of the foregoing,
+- **(a)** the allocation of work among the members and the assignment of members to sit at, and to preside at, hearings of the Tribunal; and
+- **(b)** generally, the conduct of the work of the Tribunal and the management of its internal affairs.
+> R.S., 1985, c. 47 (4th Supp.), s. 7; 1999, c. 12, s. 61(E); 2014, c. 20, s. 452.
 
 
 
@@ -347,39 +347,11 @@ Peru
 
 
 
-
-### Staff
-
-
-
-**Appointment of Secretary**
-
-**14** 
-
-- **(1)** There shall be a Secretary of the Tribunal, who shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Acting Secretary**
-
-- **(2)** In the event of the absence or incapacity of the Secretary or if the office of Secretary is vacant, the Chairperson may authorize any officer or employee of the Tribunal to act as Secretary for the time being.
-> R.S., 1985, c. 47 (4th Supp.), s. 14; 1999, c. 12, s. 61(E).
+**14** [Repealed, 2014, c. 20, s. 453]
 
 
 
-
-
-**Other staff**
-
-**15** 
-
-- **(1)** Such other officers and employees as are necessary for the proper conduct of the work of the Tribunal shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Technical experts**
-
-- **(2)** The Tribunal may appoint and, subject to the approval of the Treasury Board, fix the remuneration of persons having technical or special knowledge to assist the Tribunal in any matter in an advisory capacity.
-
-**Secondment**
-
-- **(3)** Subject to any directive of the Treasury Board in relation thereto, any department or agency of the Government of Canada may, on the request of the Tribunal, second to the Tribunal, for specified periods, such officers or employees of the department or agency as are necessary for the proper conduct of the work of the Tribunal.
+**15** [Repealed, 2014, c. 20, s. 453]
 
 
 
@@ -2378,12 +2350,12 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **44.1** 
 
-- **(1)** Where information is provided to the Tribunal for the purposes of proceedings before the Tribunal under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) in respect of goods imported from a NAFTA country, other than proceedings under section 33, subsection 34(1), section 35 or subsection 45(1) or 61(1) of that Act, the Secretary of the Tribunal shall, on request, provide the government of that country with copies of any such information that is in documentary form or in any other form in which it may be readily and accurately copied, unless the information is information to which subsection 45(1) of this Act or subsection 84(1) of that Act applies.
+- **(1)** Where information is provided to the Tribunal for the purposes of proceedings before the Tribunal under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) in respect of goods imported from a NAFTA country, other than proceedings under section 33, subsection 34(1), section 35 or subsection 45(1) or 61(1) of that Act, the Tribunal shall, on request, provide the government of that country with copies of any such information that is in documentary form or in any other form in which it may be readily and accurately copied, unless the information is information to which subsection 45(1) of this Act or subsection 84(1) of that Act applies.
 
 **Definition of government**
 
 - **(2)** For the purposes of subsection (1), ***government*** has the meaning assigned to the expression government of a NAFTA country by subsection 2(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1993, c. 44, s. 47; 1994, c. 47, s. 43.
+> 1993, c. 44, s. 47; 1994, c. 47, s. 43; 2014, c. 20, s. 454.
 
 
 
@@ -2407,7 +2379,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **Disclosure to Tribunal’s experts**
 
-- **(3.1)** Notwithstanding subsection (1), the Tribunal may disclose information to which that subsection applies to an expert retained by the Tribunal for use, notwithstanding any other Act or law, by the expert only in proceedings before the Tribunal under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or this Act, subject to any conditions that the Tribunal considers reasonably necessary or desirable to ensure that the information will not, without the written consent of the person who provided the information to the Tribunal, be disclosed by the expert to any person in any manner that is calculated or likely to make it available to
+- **(3.1)** Despite subsection (1), the Tribunal may disclose information to which that subsection applies to an expert engaged to advise or assist the Tribunal for use, despite any other Act or law, by the expert only in proceedings before the Tribunal under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or this Act, subject to any conditions that the Tribunal considers reasonably necessary or desirable to ensure that the information will not, without the written consent of the person who provided the information to the Tribunal, be disclosed by the expert to any person in any manner that is calculated or likely to make it available to
 	- **(a)** any party to the proceedings; or
 	- **(b)** any business competitor or rival of any person to whose business or affairs the information relates.
 
@@ -2423,7 +2395,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 - **(5)** In subsections (3) and (3.1), “expert” includes any of the following persons whom the Tribunal recognizes as an expert:
 	- **(a)** persons whose duties involve the carrying out of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) and who are referred to in section 25 of that Act, other than persons authorized by the Governor in Council to exercise the powers and perform the duties of the Director of Investigation and Research;
-	- **(b)** in respect of the determination of damages and costs in procurement review proceedings, persons employed in the government institution involved in the procurement under review; and
+	- **(b)** in respect of the determination of damages and costs in procurement review proceedings, persons employed in the government institution involved in the procurement under review;
+	- **(b.1)** persons engaged under subsection 11(2) of the [Administrative Tribunals Support Service of Canada Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20376.md) to advise or assist the Tribunal; and
 	- **(c)** any prescribed person.
 
 **Offence**
@@ -2445,7 +2418,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Bar from appearing before Tribunal**
 
 - **(9)** In addition to any punishment imposed under subsection (7), counsel or an expert who commits an offence under subsection (6) may be barred by the Tribunal from any further appearance before it in respect of any proceedings before the Tribunal for the period that the Tribunal considers appropriate.
-> R.S., 1985, c. 47 (4th Supp.), s. 45; 1994, c. 47, s. 44; 1999, c. 12, s. 59; 2003, c. 22, s. 224(E).
+> R.S., 1985, c. 47 (4th Supp.), s. 45; 1994, c. 47, s. 44; 1999, c. 12, s. 59; 2003, c. 22, s. 224(E); 2014, c. 20, s. 455.
 
 
 
@@ -2518,9 +2491,9 @@ and, where the person does neither of those things within those fifteen days, th
 
 **49** If
 - **(a)** information or material given or elicited in the course of any proceedings before the Tribunal is, in the opinion of the Tribunal, in its nature confidential, or
-- **(b)** the President indicates to the Tribunal in writing that subsection 84(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) applies to information or material filed with the Secretary under paragraph 37(a) or 38(3)(b) or subsection 76.03(9) of that Act,
+- **(b)** the President indicates to the Tribunal in writing that subsection 84(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) applies to information or material filed with it under paragraph 37(a) or 38(3)(b) or subsection 76.03(9) of that Act,
 the information or material shall not knowingly be disclosed by any member or person employed in the federal public administration who comes into possession of the information in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
-> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115; 2003, c. 22, s. 224(E); 2005, c. 38, s. 55.
+> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115; 2003, c. 22, s. 224(E); 2005, c. 38, s. 55; 2014, c. 20, s. 456.
 
 
 
