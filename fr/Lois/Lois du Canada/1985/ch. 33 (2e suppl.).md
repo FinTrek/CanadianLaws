@@ -55,7 +55,7 @@
 
 ***commissaire*** Membre, à temps plein ou partiel, de la Commission.
 
-***Commission*** La Commission des relations de travail dans la fonction publique, constituée en vertu de l’article 12 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique. 
 
 ***conciliateur*** Personne nommée par le président en application de l’article 40.
 
@@ -110,7 +110,7 @@
 ***unité de négociation*** Groupe d’employés déclaré constituer, sous le régime de la présente partie, une unité habile à négocier collectivement.
 
 ***vice-président*** Un vice-président de la Commission.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33; 2006, ch. 9, art. 31
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33; 2006, ch. 9, art. 31; 2013, ch. 40, art. 425
 
 
 
@@ -219,47 +219,38 @@
 
 
 **SECTION I** 
-### Commission des relations de travail dans la fonction publique
+### Commission des relations de travail et de l’emploi dans la fonction publique
 
 
 
-#### Dispositions de la Loi sur les relations de travail dans la fonction publique
+#### Application de certaines lois
 
 
 
-**Application de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
+**Application de certaines lois**
 
-**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
-- **a)** toute mention de cette loi dans les dispositions en cause vaut mention de la présente partie;
+**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
+- **a)** toute mention de ces lois dans les dispositions en cause vaut mention de la présente partie;
 - **b)** les termes employés dans les mêmes dispositions et qui sont définis dans la présente partie s’entendent au sens de celle-ci.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 9; 2003, ch. 22, art. 184
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 9; 2003, ch. 22, art. 184; 2013, ch. 40, art. 426
 
 
 
 
 
-#### Attributions de la Commission
+#### Attributions
 
 
 
-**Pouvoirs et fonctions de la Commission**
+**Attributions de la Commission**
 
-**10** La Commission met en oeuvre la présente partie et exerce les pouvoirs et fonctions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en prenant des ordonnances qui exigent l’observation de la présente partie, des règlements pris sous le régime de celle-ci ou des décisions qu’elle rend sur les questions qui lui sont soumises.
+**10** La Commission met en oeuvre la présente partie et exerce les attributions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui en exigent l’observation, celle des règlements pris sous son régime ou des décisions qu’elle rend sur les questions dont elle est saisie sous son régime.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 10; 2013, ch. 40, art. 426
 
 
 
 
-**Délégation par la Commission**
-
-**11** 
-
-- **(1)** Le président peut exercer les attributions que la présente loi confère à la Commission et que celle-ci lui délègue, à l’exception du pouvoir de prendre les règlements d’application générale visés à l’article 12.
-
-**Délégation par le président**
-
-- **(2)** Le président peut déléguer à tout vice-président les attributions que lui confère la présente loi ou que lui délègue la Commission.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 11; 2003, ch. 22, art. 185
-
+**11** [Abrogé, 2013, ch. 40, art. 426]
 
 
 
@@ -274,19 +265,18 @@
 	- **c)** l’accréditation d’agents négociateurs d’unités de négociation;
 	- **d)** l’audition — et la décision prise à leur égard — des questions relatives ou consécutives à la révocation de l’accréditation d’un agent négociateur, notamment de celles qui touchent aux droits et privilèges qu’un employé a acquis et qu’il conserve malgré cette révocation;
 	- **e)** les droits, privilèges et fonctions acquis ou conservés par une organisation syndicale relativement à une unité de négociation ou à un employé en faisant partie, dans le cas d’une fusion ou d’un transfert de compétence entre plusieurs organisations syndicales;
-	- **f)** l’établissement de règles de procédure pour ses auditions et pour celles d’un arbitre;
-	- **g)** la spécification du délai d’envoi des avis et autres documents, ainsi que de leurs destinataires et de la date où ces avis sont censés avoir été donnés et reçus;
-	- **h)** les circonstances lui permettant d’admettre la preuve de l’adhésion d’employés à une organisation syndicale comme preuve de la volonté de ceux-ci d’être représentés par cette organisation à titre d’agent négociateur, de même que la forme dans laquelle et le moment à compter duquel doit lui être présentée, à la suite d’une demande d’accréditation ou de révocation d’accréditation comme agent négociateur, la preuve :
-		- **(i)** de l’adhésion d’employés à une organisation syndicale,
-		- **(ii)** de l’opposition par des employés à l’accréditation d’une organisation syndicale,
-		- **(iii)** de l’expression du désir de ces employés de ne plus être représentés par une organisation syndicale;
-	- **i)** l’audition des plaintes visées à l’article 13;
+	- **f)** l’établissement de règles de procédure des auditions d’un arbitre;
+	- **g)** [Abrogé, 2013, ch. 40, art. 427]
+	- **h)** les circonstances lui permettant de recevoir la preuve de l’adhésion d’employés à une organisation syndicale comme preuve de la volonté de ceux-ci d’être représentés ou non par cette organisation syndicale à titre d’agent négociateur;
+	- **i)** [Abrogé, 2013, ch. 40, art. 427]
 	- **j)** l’autorité dévolue à un regroupement d’organisations syndicales ayant valeur d’autorité suffisante au sens de l’alinéa 19(2)b);
-	- **k)** les autres questions et sujets pouvant se rattacher ou contribuer à l’accomplissement de la mission de la Commission ainsi qu’à la réalisation des objets de la présente partie.
+	- **k)** toute mesure utile ou connexe à la réalisation des objets de la présente partie.
 
 **Entrée en vigueur des règlements**
 
 - **(2)** Les règlements d’application générale pris en vertu du paragraphe (1) prennent effet dès leur publication dans la [Gazette du Canada](http://www.gazette.gc.ca/).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 12; 2013, ch. 40, art. 427
+
 
 
 
@@ -320,12 +310,12 @@
 **Pouvoirs de la Commission lors des procédures**
 
 **15** En ce qui concerne l’audition ou le règlement de toute affaire dont elle est saisie, la Commission peut :
-- **a)** de la même façon et dans la même mesure qu’une cour supérieure d’archives, convoquer des témoins et les contraindre à comparaître et à déposer sous serment oralement ou par écrit, ainsi qu’à produire les documents et objets qu’elle estime indispensables pour mener à bien ses enquêtes et examens sur les questions de sa compétence;
-- **b)** faire prêter serment et recevoir les affirmations solennelles;
-- **c)** recevoir et accepter, sous serment, par affidavit ou sous toute autre forme, les éléments de preuve et les renseignements qu’elle juge appropriés, qu’ils soient admissibles ou non en justice, et notamment refuser tout élément de preuve qui n’est pas présenté dans la forme et au moment prévus par règlement;
+- **a) à c)** [Abrogés, 2013, ch. 40, art. 428]
 - **d)** exiger de l’employeur qu’il affiche et maintienne affichés aux endroits appropriés les avis qu’elle estime nécessaire de porter à l’attention des employés au sujet de toute question ou affaire dont elle est saisie;
 - **e)** pénétrer dans les locaux ou terrains de l’employeur pour y diriger des scrutins de représentation pendant les heures de travail;
-- **f)** déléguer à quiconque les pouvoirs qu’elle détient aux termes des alinéas b) à e), en exigeant éventuellement un rapport sur l’exercice d’une telle délégation.
+- **f)** déléguer à quiconque les pouvoirs qu’elle détient en vertu des alinéas d) et e) et exiger éventuellement un rapport sur l’exercice de ces pouvoirs.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 15; 2013, ch. 40, art. 428
+
 
 
 
@@ -868,12 +858,12 @@
 
 **Pouvoirs de l’arbitre**
 
-- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission énumérés aux alinéas 15 b) à d).
+- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 **Application circonstancielle des art. 52 à 61**
 
 - **(4)** Les articles 52 à 61 s’appliquent, compte tenu des adaptations de circonstance, aux différends renvoyés à un arbitre nommé en application du paragraphe (1).
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 49; 2003, ch. 22, art. 187(A)
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 49; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 429
 
 
 
@@ -887,7 +877,7 @@
 
 **50** 
 
-- **(1)** Dans les cas où les parties à des négociations collectives ont négocié collectivement de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi visant les employés de l’unité de négociation en cause et susceptible d’être incluse dans une décision arbitrale, l’une ou l’autre des parties peut, par avis écrit adressé au secrétaire de la Commission, demander l’arbitrage sur cette condition d’emploi.
+- **(1)** Dans le cas où les parties à des négociations collectives ont négocié collectivement de bonne foi en vue de conclure une convention collective, mais n’ont pu s’entendre sur une condition d’emploi visant les employés de l’unité de négociation en cause et susceptible d’être incluse dans une décision arbitrale, l’une ou l’autre des parties peut, par avis écrit adressé à la Commission, demander l’arbitrage sur cette condition d’emploi.
 
 **Moment de la demande**
 
@@ -900,6 +890,8 @@
 - **(3)** La partie qui demande l’arbitrage au titre du paragraphe (1) :
 	- **a)** précise dans l’avis les conditions d’emploi pour lesquelles elle demande l’arbitrage et ses propositions quant à la décision arbitrale que la Commission doit rendre en l’espèce;
 	- **b)** annexe à l’avis une copie de toute convention collective conclue par les parties.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 50; 2013, ch. 40, art. 430
+
 
 
 
@@ -908,11 +900,13 @@
 
 **51** 
 
-- **(1)** Sur réception de l’avis que lui adresse, aux termes de l’article 50, l’une des parties, le secrétaire de la Commission en envoie copie à l’autre partie. Celle-ci, dans les sept jours suivant la réception de cette pièce, signale par écrit au secrétaire toute autre question susceptible d’être incluse dans une décision arbitrale et au sujet de laquelle elle demande l’arbitrage, pour le motif que cette question a fait l’objet de négociations avant la première demande d’arbitrage sans que les parties puissent s’entendre à son sujet.
+- **(1)** Dès que possible après réception par la Commission de l’avis que lui adresse, en vertu de l’article 50, l’une des parties, le président en envoie copie à l’autre partie. Celle-ci, dans les sept jours suivant la réception de cette pièce, signale par écrit au président toute autre question susceptible d’être incluse dans une décision arbitrale et au sujet de laquelle elle demande l’arbitrage, pour le motif que cette question a fait l’objet de négociations avant la première demande d’arbitrage sans que les parties puissent s’entendre à son sujet.
 
 **Proposition de décision arbitrale dans l’avis**
 
 - **(2)** La partie qui demande l’arbitrage au titre du paragraphe (1) formule, dans l’avis qu’elle envoie à cette fin, sa proposition au sujet de la décision que la Commission doit rendre en l’espèce.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 51; 2013, ch. 40, art. 431
+
 
 
 
@@ -1194,8 +1188,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Précision sur l’arbitre**
 
-- **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs d’un commissaire, sauf celui de prendre des règlements d’application générale au titre de l’article 12.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A)
+- **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs de la Commission, sauf celui de prendre des règlements en vertu de l’article 12 de la présente loi ou de l’article 36 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 432
 
 
 
@@ -1203,8 +1197,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Pouvoirs de l’arbitre**
 
-**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre des alinéas 63(1)a), b) ou c), l’arbitre est investi des pouvoirs de la Commission prévus aux alinéas 15a) à d) pour l’audition ou le règlement de tout grief qui lui est soumis.
-> 1992, ch. 1, art. 111
+**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre des alinéas 63(1)a), b) ou c), l’arbitre est investi des pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique pour l’audition ou le règlement de tout grief qui lui est soumis.
+> 1992, ch. 1, art. 111; 2013, ch. 40, art. 433
 
 
 
@@ -1245,7 +1239,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 - **(2)** Après étude du grief, l’arbitre rend une décision à son sujet, dont il transmet copie :
 	- **a)** à chaque partie et à son représentant ainsi que, s’il y a lieu, à l’agent négociateur de l’unité de négociation à laquelle appartient l’employé qui a déposé le grief;
-	- **b)** au secrétaire de la Commission.
+	- **b)** à la Commission.
 
 **Décision du conseil d’arbitrage**
 
@@ -1262,7 +1256,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Pouvoirs de la Commission relativement à une décision au sujet d’un grief**
 
 - **(6)** La Commission peut prendre toute mesure prévue par l’article 13 pour donner effet à la décision rendue par un arbitre sur un grief, sans toutefois discuter le fondement ou la substance de cette décision.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 68; 2003, ch. 22, art. 187(A)
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 68; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 434
 
 
 
@@ -1280,7 +1274,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Cas où la convention ne désigne pas d’arbitre**
 
-- **(2)** Dans les cas où un grief est renvoyé à un arbitre qui n’est pas désigné dans une convention collective et où l’employé qui l’a déposé est représenté dans la procédure d’arbitrage par l’agent négociateur de l’unité de négociation à laquelle il appartient, c’est l’agent qui est tenu de payer à la Commission la partie des frais d’arbitrage déterminée par le secrétaire de la Commission avec l’approbation de celle-ci.
+- **(2)** Dans le cas où un grief est renvoyé à un arbitre qui n’est pas désigné dans une convention collective et où l’employé qui l’a déposé est représenté dans la procédure d’arbitrage par l’agent négociateur de l’unité de négociation à laquelle il appartient, c’est l’agent qui est tenu de payer à la Commission la partie des frais d’arbitrage déterminée par le président avec l’approbation de celle-ci.
 
 **Exception**
 
@@ -1293,6 +1287,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Frais**
 
 - **(5)** Les parties supportent à part égale la rémunération et les indemnités de l’arbitre dans les cas d’arbitrage de griefs portant sur les points visés aux alinéas 63(1)d), e) ou f).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 69; 2013, ch. 40, art. 435
+
 
 
 
@@ -1357,7 +1353,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 
 
-#### Révision des ordonnances
+#### Révision des décisions
 
 
 
@@ -1365,11 +1361,13 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **72** 
 
-- **(1)** Sauf exception dans la présente partie, toute ordonnance, décision arbitrale ou autre, instruction ou déclaration de la Commission, d’un arbitre nommé en vertu de l’article 49 ou d’un arbitre de griefs est définitive et non susceptible de recours judiciaire.
+- **(1)** Sauf exception dans la présente partie, toute décision arbitrale ou autre d’un arbitre nommé en vertu de l’article 49 ou d’un arbitre de griefs est définitive et non susceptible de recours judiciaire.
 
 **Interdiction de recours extraordinaires**
 
-- **(2)** Il n’est admis aucun recours ou décision judiciaire — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de la Commission, d’un arbitre nommé en vertu de l’article 49 ou d’un arbitre des griefs.
+- **(2)** Il n’est admis aucun recours ou décision judiciaire  —  notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto*  —  visant à contester, à réviser, à empêcher ou à limiter l’action d’un arbitre nommé en vertu de l’article 49 ou d’un arbitre de griefs.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 72; 2013, ch. 40, art. 436
+
 
 
 
@@ -1427,13 +1425,15 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 
 
-#### Immunité des commissaires et du personnel
+#### Immunité
 
 
 
 **Preuve concernant les renseignements obtenus**
 
-**78** Les commissaires, les conciliateurs, les arbitres de griefs, le personnel de la Commission, ou les personnes qu’elle nomme, et les arbitres nommés en vertu de l’article 49 ne sont pas tenus de déposer, dans une action — ou toute autre procédure — au civil, relativement à des renseignements obtenus dans l’accomplissement de leurs fonctions aux termes de la présente partie.
+**78** Les conciliateurs, les arbitres de griefs, les personnes que la Commission nomme et les arbitres nommés en vertu de l’article 49 ne sont pas tenus de déposer, dans une action  —  ou toute autre instance  —  au civil, relativement à des renseignements obtenus dans l’accomplissement des fonctions que leur confère la présente partie.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 78; 2013, ch. 40, art. 437
+
 
 
 
@@ -1466,7 +1466,9 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Installations et personnel**
 
-**81** La Commission fournit aux arbitres nommés en vertu de l’article 49 et aux arbitres des griefs les locaux, le personnel et les autres installations qui sont nécessaires à l’exercice de leurs fonctions.
+**81** L’administrateur en chef du Service canadien d’appui aux tribunaux administratifs fournit aux arbitres nommés en vertu de l’article 49 et aux arbitres des griefs le personnel, les locaux et les autres installations qui sont nécessaires à l’exercice de leurs fonctions.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 81; 2014, ch. 20, art. 481
+
 
 
 
@@ -1483,14 +1485,7 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 
 
-
-#### Dispositions financières
-
-
-
-**Affectation de crédits**
-
-**83** Sauf disposition contraire expresse, les sommes nécessaires à l’application de la présente partie sont prélevées sur les crédits affectés par le Parlement à cette fin.
+**83** [Abrogé, 2014, ch. 20, art. 481]
 
 
 
