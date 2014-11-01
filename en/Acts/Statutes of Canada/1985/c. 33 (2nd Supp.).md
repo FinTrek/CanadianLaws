@@ -62,7 +62,7 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 ***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining;
 
-***Board*** means the Public Service Labour Relations Board established under section 12 of the Public Service Labour Relations Act;
+***Board*** means the Public Service Labour Relations and Employment Board established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act;
 
 ***Chairman***[Repealed, 2003, c. 22, s. 182]
 
@@ -121,7 +121,7 @@ and for the purposes of this definition a person does not cease to be employed b
 ***Vice-Chairman***[Repealed, 2003, c. 22, s. 182]
 
 ***Vice-Chairperson*** means a Vice-Chairperson of the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31; 2013, c. 40, s. 425
 
 
 
@@ -230,47 +230,38 @@ and for the purposes of this definition a person does not cease to be employed b
 
 
 **DIVISION I** 
-### Public Service Labour Relations Board
+### Public Service Labour Relations and Employment Board
 
 
 
-#### Public Service Labour Relations Act Provisions
+#### Application of Certain Acts
 
 
 
-**Application of Public Service Labour Relations Act**
+**Application**
 
-**9** Unless otherwise provided in this Part, the provisions the Public Service Labour Relations Act respecting the Public Service Labour Relations Board apply also in respect of this Part except that, for the purpose of that application,
-- **(a)** a reference to that Act in any of those provisions shall be read as a reference to this Part; and
+**9** Unless otherwise provided in this Part, the provisions of the Public Service Labour Relations and Employment Board Act and the Public Service Labour Relations Act respecting the Board apply also in respect of this Part except that, for the purpose of that application,
+- **(a)** a reference to either of those Acts in any of those provisions shall be read as a reference to this Part; and
 - **(b)** words and expressions used in those provisions that are defined by this Part shall have the meaning given to them by this Part.
-> R.S., 1985, c. 33 (2nd Supp.), s. 9; 2003, c. 22, s. 184
+> R.S., 1985, c. 33 (2nd Supp.), s. 9; 2003, c. 22, s. 184; 2013, c. 40, s. 426
 
 
 
 
 
-#### Powers and Duties of the Board
+#### Powers, Duties and Functions
 
 
 
-**Powers and duties of the Board**
+**Powers, duties and functions**
 
-**10** The Board shall administer this Part and shall exercise such powers and perform such duties as are conferred or imposed on it by, or as may be incidental to the attainment of the purposes of, this Part including, without restricting the generality of the foregoing, the making of orders requiring compliance with this Part, with any regulation made hereunder or with any decision made in respect of a matter coming before it.
+**10** The Board shall administer this Part and shall exercise the powers and perform the duties and functions that are conferred or imposed on it by, or are incidental to the attainment of the objects of, this Part including the making of orders requiring compliance with this Part, with any regulation made under this Part or with any decision made in respect of a matter coming before the Board under this Part.
+> R.S., 1985, c. 33 (2nd Supp.), s. 10; 2013, c. 40, s. 426
 
 
 
 
-**Delegation by Board**
-
-**11** 
-
-- **(1)** The Board may authorize the Chairperson to exercise any of its powers or perform any of its functions, other than the power to make regulations of general application under section 12.
-
-**Delegation by Chairperson**
-
-- **(2)** The Chairperson may authorize a Vice-Chairperson to exercise any of the Chairperson’s powers or perform any of the Chairperson’s functions, including powers or functions delegated to the Chairperson by the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 11; 2003, c. 22, s. 185
-
+**11** [Repealed, 2013, c. 40, s. 426]
 
 
 
@@ -285,20 +276,18 @@ and for the purposes of this definition a person does not cease to be employed b
 	- **(c)** the certification of bargaining agents for bargaining units;
 	- **(d)** the hearing or determination of any matter relating to or arising out of the revocation of certification of a bargaining agent, including the rights and privileges that have accrued to and are retained by any employee notwithstanding the revocation;
 	- **(e)** the rights, privileges and duties that are acquired or retained by an employee organization in respect of a bargaining unit or any employee included in the unit where there is any merger, amalgamation or transfer of jurisdiction between two or more such organizations;
-	- **(f)** the establishment of rules of procedure for its hearings and those of an adjudicator;
-	- **(g)** the specification of the time within which and the persons to whom notices and other documents shall be sent and when the notices shall be deemed to have been given and received;
-	- **(h)** the determination of the form in which, and the time as of which, evidence
-		- **(i)** as to membership of employees in an employee organization,
-		- **(ii)** of objection by employees to certification of an employee organization, or
-		- **(iii)** of signification by employees that they no longer wish to be represented by an employee organization
-shall be presented to the Board on an application for certification of or for revocation of certification of a bargaining agent, and the circumstances in which evidence as to membership of employees in an employee organization may be received by the Board as evidence that the employees wish that employee organization to represent them as their bargaining agent;
-	- **(i)** the hearing of complaints under section 13;
+	- **(f)** the establishment of rules of procedure for the hearings of an adjudicator;
+	- **(g)** [Repealed, 2013, c. 40, s. 427]
+	- **(h)** the circumstances in which evidence as to membership of employees in an employee organization may be received by the Board as evidence that any employees wish or do not wish to have that employee organization represent them as their bargaining agent;
+	- **(i)** [Repealed, 2013, c. 40, s. 427]
 	- **(j)** the authority vested in a council of employee organizations that shall be considered appropriate authority within the meaning of paragraph 19(2)(b); and
-	- **(k)** such other matters and things as may be incidental or conducive to the objects and purposes of the Board, the exercise of its powers and the attainment of the purpose of this Part.
+	- **(k)** any other matter that is incidental or conducive to the attainment of the objects of this Part.
 
 **When regulations effective**
 
 - **(2)** Regulations of general application made under subsection (1) have effect on publication in the [Canada Gazette](http://www.gazette.gc.ca/).
+> R.S., 1985, c. 33 (2nd Supp.), s. 12; 2013, c. 40, s. 427
+
 
 
 
@@ -332,12 +321,12 @@ shall be presented to the Board on an application for certification of or for re
 **Powers of Board in proceedings**
 
 **15** The Board has, in relation to the hearing or determination of any proceeding before it, power
-- **(a)** to summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath, and to produce such documents and things as the Board deems requisite to the full investigation and consideration of matters within its jurisdiction, in the same manner and to the same extent as a superior court of record;
-- **(b)** to administer oaths and solemn affirmations;
-- **(c)** to receive and accept such evidence and information on oath, affidavit or otherwise as in its discretion it sees fit, whether admissible in a court of law or not and, without limiting the generality of the foregoing, the Board may refuse to accept any evidence that is not presented in the form and within the time prescribed;
+- **(a) to (c)** [Repealed, 2013, c. 40, s. 428]
 - **(d)** to require an employer to post and keep posted in appropriate places any notices that the Board deems necessary to bring to the attention of any employees any matter or proceeding before the Board;
 - **(e)** to enter on the premises of an employer for the purpose of conducting representation votes during working hours; and
-- **(f)** to authorize any person to do anything that the Board may do under paragraphs (b) to (e) and to require the person to report to the Board thereon.
+- **(f)** to authorize any person to do anything that the Board may do under paragraphs (d) and (e) and to require the person to report to the Board on it.
+> R.S., 1985, c. 33 (2nd Supp.), s. 15; 2013, c. 40, s. 428
+
 
 
 
@@ -882,12 +871,12 @@ any money for activities carried on by or on behalf of any political party.
 
 **Powers of arbitrator**
 
-- **(3)** An arbitrator appointed under this section has all the powers of the Board set out in paragraphs 15(b) to (d).
+- **(3)** An arbitrator appointed under this section has all the powers of the Board set out in paragraph 15(d) of this Act and paragraphs 20(d) and (e) of the Public Service Labour Relations and Employment Board Act.
 
 **Sections 52 to 61 apply**
 
 - **(4)** Sections 52 to 61 apply, with such modifications as the circumstances require, in respect of matters in dispute referred to an arbitrator appointed under subsection (1).
-> R.S., 1985, c. 33 (2nd Supp.), s. 49; 2003, c. 22, s. 187(E)
+> R.S., 1985, c. 33 (2nd Supp.), s. 49; 2003, c. 22, s. 187(E); 2013, c. 40, s. 429
 
 
 
@@ -901,7 +890,7 @@ any money for activities carried on by or on behalf of any political party.
 
 **50** 
 
-- **(1)** Where the parties to collective bargaining have bargained collectively in good faith with a view to concluding a collective agreement but have been unable to reach agreement on any term or condition of employment of employees in the relevant bargaining unit that may be embodied in an arbitral award, either party may, by notice in writing to the Secretary of the Board given in accordance with subsection (2), request arbitration in respect of that term or condition of employment.
+- **(1)** If the parties to collective bargaining have bargained collectively in good faith with a view to concluding a collective agreement but have been unable to reach agreement on any term or condition of employment of employees in the relevant bargaining unit that may be embodied in an arbitral award, either party may, by notice in writing to the Board given in accordance with subsection (2), request arbitration in respect of that term or condition of employment.
 
 **When notice may be given**
 
@@ -914,6 +903,8 @@ any money for activities carried on by or on behalf of any political party.
 - **(3)** Where arbitration is requested by notice under subsection (1), the party making the request shall
 	- **(a)** specify in the notice the terms and conditions of employment in respect of which it requests arbitration and its proposals concerning the award to be made by the Board in respect thereof; and
 	- **(b)** annex to the notice a copy of any collective agreement entered into by the parties.
+> R.S., 1985, c. 33 (2nd Supp.), s. 50; 2013, c. 40, s. 430
+
 
 
 
@@ -922,11 +913,13 @@ any money for activities carried on by or on behalf of any political party.
 
 **51** 
 
-- **(1)** Where notice under section 50 is received by the Secretary of the Board from any party requesting arbitration, the Secretary shall forthwith send a copy of the notice to the other party, who shall within seven days after receipt thereof advise the Secretary, by notice in writing, of any matter, additional to the matters specified in the notice under section 50, that was a subject of negotiation between the parties during the period before the arbitration was requested but on which the parties were unable to reach agreement and in respect of which, being a matter that may be embodied in an arbitral award, that other party requests arbitration.
+- **(1)** If notice under section 50 is received by the Board from any party requesting arbitration, the Chairperson shall as soon as feasible send a copy of the notice to the other party, who shall within seven days after receipt of it advise the Chairperson, by notice in writing, of any matter, additional to the matters specified in the notice under section 50, that was a subject of negotiation between the parties during the period before the arbitration was requested but on which the parties were unable to reach agreement and in respect of which, being a matter that may be embodied in an arbitral award, that other party requests arbitration.
 
 **Notice to include proposal concerning award**
 
 - **(2)** Where arbitration in respect of any matter is requested by notice under subsection (1), the party making the request shall include in the notice its proposal concerning the award to be made by the Board in respect thereof.
+> R.S., 1985, c. 33 (2nd Supp.), s. 51; 2013, c. 40, s. 431
+
 
 
 
@@ -1213,9 +1206,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Adjudicator re certain matters**
 
 - **(4)** A person selected to adjudicate a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f)
-	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations of general application under section 12; and
+	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations under section 12 of this Act or section 36 of the Public Service Labour Relations and Employment Board Act; and
 	- **(b)** shall not have any direct interest in or in connection with the grievance, its handling or its disposition.
-> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E)
+> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E); 2013, c. 40, s. 432
 
 
 
@@ -1223,8 +1216,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Powers of adjudicator**
 
-**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under section 15, other than paragraph 15(e) or (f), in relation to the hearing or determination of a proceeding before it.
-> 1992, c. 1, s. 111
+**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the Public Service Labour Relations and Employment Board Act, in relation to the hearing or determination of a proceeding before it.
+> 1992, c. 1, s. 111; 2013, c. 40, s. 433
 
 
 
@@ -1265,7 +1258,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 - **(2)** After considering the grievance, the adjudicator shall render a decision thereon and
 	- **(a)** send a copy thereof to each party, to the representative of each party and to the bargaining agent, if any, for the bargaining unit to which the employee whose grievance it is belongs; and
-	- **(b)** deposit a copy of the decision with the Secretary of the Board.
+	- **(b)** deposit a copy of the decision with the Board.
 
 **Decision of board of adjudication**
 
@@ -1282,7 +1275,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Powers of Board with respect to decision on grievance**
 
 - **(6)** The Board may, in accordance with section 13, take such action as is contemplated by that section to give effect to the decision of an adjudicator on a grievance but shall not inquire into the basis or substance of the decision.
-> R.S., 1985, c. 33 (2nd Supp.), s. 68; 2003, c. 22, s. 187(E)
+> R.S., 1985, c. 33 (2nd Supp.), s. 68; 2003, c. 22, s. 187(E); 2013, c. 40, s. 434
 
 
 
@@ -1298,9 +1291,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 - **(1)** Where an adjudicator is named in a collective agreement, the method of determining the adjudicator’s remuneration and of defraying such expenses as the adjudicator may incur shall be as established in the collective agreement naming the adjudicator, but if the agreement does not specify the method, the named adjudicator’s remuneration and expenses shall be borne equally by the parties.
 
-**Where no adjudicator named in agreement**
+**If no adjudicator named in agreement**
 
-- **(2)** Where a grievance is referred to adjudication but is not referred to an adjudicator named in a collective agreement, and the employee, whose grievance it is, is represented in the adjudication proceedings by the bargaining agent for the bargaining unit to which the employee belongs, the bargaining agent, subject to subsection (3), is liable to pay and shall remit to the Board such part of the costs of the adjudication as may be determined by the Secretary of the Board with the approval of the Board.
+- **(2)** If a grievance is referred to adjudication but is not referred to an adjudicator named in a collective agreement, and the employee, whose grievance it is, is represented in the adjudication proceedings by the bargaining agent for the bargaining unit to which the employee belongs, the bargaining agent, subject to subsection (3), is liable to pay and shall remit to the Board any part of the costs of the adjudication that may be determined by the Chairperson with the Board’s approval.
 
 **Exception**
 
@@ -1313,6 +1306,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Adjudicator re certain grievances**
 
 - **(5)** Where a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f) is referred to adjudication, the adjudicator’s remuneration and expenses shall be borne equally by the parties.
+> R.S., 1985, c. 33 (2nd Supp.), s. 69; 2013, c. 40, s. 435
+
 
 
 
@@ -1377,19 +1372,21 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 
 
-#### Review of Orders
+#### Review of Decisions
 
 
 
-**Orders not subject to review by court**
+**No review by court**
 
 **72** 
 
-- **(1)** Except as provided in this Part, every order, award, direction, decision, declaration or ruling of the Board, an arbitrator appointed under section 49 or an adjudicator is final and shall not be questioned or reviewed in any court.
+- **(1)** Except as provided in this Part, every award or decision of an arbitrator appointed under section 49 or an adjudicator is final and shall not be questioned or reviewed in any court.
 
 **No review by injunction, etc.**
 
-- **(2)** No order shall be made or process entered, or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise, to question, review, prohibit or restrain the Board, an arbitrator appointed under section 49 or an adjudicator in any of the proceedings of the Board, arbitrator or adjudicator.
+- **(2)** No order shall be made or process entered, or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise, to question, review, prohibit or restrain an arbitrator appointed under section 49 or an adjudicator in any of the proceedings of the arbitrator or adjudicator.
+> R.S., 1985, c. 33 (2nd Supp.), s. 72; 2013, c. 40, s. 436
+
 
 
 
@@ -1447,13 +1444,15 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 
 
-#### Protection of Members and Staff
+#### Protection
 
 
 
 **Evidence respecting information obtained**
 
-**78** No member of the Board and no adjudicator, conciliator or officer or employee of or person appointed by the Board and no arbitrator appointed under section 49 shall be required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of his duties under this Part.
+**78** No adjudicator, conciliator or person appointed by the Board and no arbitrator appointed under section 49 shall be required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of his or her duties under this Part.
+> R.S., 1985, c. 33 (2nd Supp.), s. 78; 2013, c. 40, s. 437
+
 
 
 
@@ -1486,7 +1485,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Facilities and staff**
 
-**81** The Board shall provide an arbitrator appointed under section 49 and an adjudicator with quarters and staff and such other facilities as are necessary to enable the arbitrator or adjudicator to carry out their respective functions under this Part.
+**81** The Chief Administrator of the Administrative Tribunals Support Service of Canada shall provide an arbitrator appointed under section 49 and an adjudicator with the staff, the quarters and the other facilities that are necessary to enable the arbitrator or adjudicator to carry out their respective functions under this Part.
+> R.S., 1985, c. 33 (2nd Supp.), s. 81; 2014, c. 20, s. 481
+
 
 
 
@@ -1503,14 +1504,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 
 
-
-#### Financial
-
-
-
-**Expenditures**
-
-**83** All expenditures required for the purposes of this Part shall, unless otherwise specifically provided for, be paid out of money appropriated by Parliament therefor.
+**83** [Repealed, 2014, c. 20, s. 481]
 
 
 
