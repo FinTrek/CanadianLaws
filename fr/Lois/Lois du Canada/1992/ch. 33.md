@@ -162,16 +162,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Assimilation**
 
-- **(2)** Pour l’application du paragraphe 4(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) :
+- **(2)** Pour l’application du paragraphe 4(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) :
 	- **a)** les associations d’artistes accréditées en application de la présente partie et formées en vue de donner aux artistes une protection professionnelle convenable sont assimilées, pour les activités qu’elles mènent à cette fin, à des coalitions d’employés;
 	- **b)** les contrats, accords ou arrangements entre deux producteurs au moins, directement entre eux ou par l’intermédiaire d’une personne morale ou d’une association dont ils font partie, au sujet des négociations portant sur la rémunération et les conditions d’engagement des artistes sont assimilés à des contrats, accords ou arrangements conclus entre deux employeurs.
 
 **Exclusion**
 
-- **(3)** La présente partie ne s’applique pas, pour les activités qui relèvent de leurs fonctions :
-	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — notamment déterminés par la Commission des relations de travail dans la fonction publique ou faisant partie d’une unité de négociation accréditée par celle-ci;
+- **(3)** La présente partie ne s’applique pas, pour les activités qui relèvent de leurs fonctions :
+	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — notamment déterminés par la Commission des relations de travail et de l’emploi dans la fonction publique ou faisant partie d’une unité de négociation accréditée par celle-ci;
 	- **b)** aux employés — au sens de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — notamment déterminés par le Conseil ou faisant partie d’une unité de négociation accréditée par celui-ci.
-> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A); 2012, ch. 19, art. 533.
+> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A); 2012, ch. 19, art. 533; 2013, ch. 40, art. 466.
 
 
 
@@ -290,7 +290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, les membres peuvent, dans le cadre des affaires dont le Conseil est saisi, consulter d’autres membres, de même que son personnel.
+- **(2)** Afin d’assurer la réalisation de l’objet de la présente partie, les membres peuvent, dans le cadre des affaires dont le Conseil est saisi, consulter d’autres membres, de même que le personnel du Service canadien d’appui aux tribunaux administratifs.
 
 **Intervention et comparution**
 
@@ -311,7 +311,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conclusions**
 
 - **(7)** Le cas échéant, le Conseil peut, après avoir donné aux parties et aux intervenants la possibilité de présenter leurs observations, se fonder sur le rapport pour rendre sa décision ou procéder à toute audience qu’il estime indiquée en l’espèce.
-> 1992, ch. 33, art. 19; 2012, ch. 19, art. 538.
+> 1992, ch. 33, art. 19; 2012, ch. 19, art. 538; 2014, ch. 20, art. 460.
 
 
 
@@ -944,12 +944,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs du Conseil**
 
-- **(4)** Le Conseil peut, après avoir statué sur la recevabilité de la plainte, l’instruire lui-même ou charger un membre qui n’a pas été saisi de l’affaire ou l’un de ses fonctionnaires d’aider les parties à régler le point en litige; il l’instruit toutefois lui-même si les parties ne sont pas parvenues à s’entendre dans le délai qu’il juge raisonnable en l’espèce.
+- **(4)** Le Conseil peut, après avoir statué sur la recevabilité de la plainte, l’instruire lui-même ou charger un membre qui n’a pas été saisi de l’affaire ou l’un des membres du personnel du Service canadien d’appui aux tribunaux administratifs d’aider les parties à régler le point en litige; il l’instruit toutefois lui-même si les parties ne sont pas parvenues à s’entendre dans le délai qu’il juge raisonnable en l’espèce.
 
 **Charge de la preuve**
 
 - **(5)** En matière d’allégation de contravention à l’article 50, la simple présentation d’une plainte écrite constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
-> 1992, ch. 33, art. 53; 2012, ch. 19, art. 556.
+> 1992, ch. 33, art. 53; 2012, ch. 19, art. 556; 2014, ch. 20, art. 461.
 
 
 
@@ -1119,8 +1119,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dépositions en justice**
 
-**65** Les membres du Conseil et de son personnel, ainsi que toutes les personnes nommées par lui ou le ministre au titre de la présente partie, ne sont pas tenus de déposer en justice relativement à des renseignements obtenus dans l’exercice des fonctions que leur confère la présente partie.
-> 1992, ch. 33, art. 65; 2012, ch. 19, art. 563.
+**65** 
+
+- **(1)** Les membres du Conseil ainsi que toutes les personnes nommées par le Conseil ou le ministre au titre de la présente partie ne sont pas tenus de déposer en justice relativement à des renseignements obtenus dans l’exercice des fonctions que leur confère la présente partie.
+
+**Administrateur en chef et personnel**
+
+- **(2)** L’administrateur en chef et les membres du personnel du Service canadien d’appui aux tribunaux administratifs ne sont pas tenus de déposer en justice relativement à des renseignements obtenus dans l’exercice de leurs fonctions dans le cadre de la prestation de services au Conseil.
+> 1992, ch. 33, art. 65; 2012, ch. 19, art. 563; 2014, ch. 20, art. 462.
 
 
 
