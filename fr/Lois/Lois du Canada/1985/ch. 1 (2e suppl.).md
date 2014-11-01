@@ -2427,7 +2427,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Modalités**
 
-- **(2)** La demande se fait par dépôt, auprès du président et du secrétaire du Tribunal canadien du commerce extérieur, d’une copie de la demande de prorogation visée à l’article 60.1 et, si un avis a été donné en application du paragraphe 60.1(4), d’une copie de l’avis.
+- **(2)** La demande se fait par dépôt, auprès du président et du Tribunal canadien du commerce extérieur, d’une copie de la demande de prorogation visée à l’article 60.1 et, si un avis a été donné en application du paragraphe 60.1(4), d’une copie de l’avis.
 
 **Pouvoirs du Tribunal canadien du commerce extérieur**
 
@@ -2441,7 +2441,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(i)** au cours du délai prévu à l’article 60, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de présenter une demande de révision ou de réexamen,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85.
+> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
 
 
 
@@ -2552,16 +2552,16 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **67** 
 
-- **(1)** Toute personne qui s’estime lésée par une décision du président rendue conformément aux articles 60 ou 61 peut en interjeter appel devant le Tribunal canadien du commerce extérieur en déposant par écrit un avis d’appel auprès du président et du secrétaire de ce Tribunal dans les quatre-vingt-dix jours suivant la notification de l’avis de décision.
+- **(1)** Toute personne qui s’estime lésée par une décision du président rendue conformément aux articles 60 ou 61 peut en interjeter appel devant le Tribunal canadien du commerce extérieur en déposant par écrit un avis d’appel auprès du président et du Tribunal dans les quatre-vingt-dix jours suivant la notification de l’avis de décision.
 
 **Publication de l’avis d’appel**
 
-- **(2)** Avant de se prononcer sur l’appel prévu par le présent article, le Tribunal canadien du commerce extérieur tient une audience sur préavis d’au moins vingt et un jours publié dans la Gazette du Canada, et toute personne peut être entendue à l’appel si, au plus tard le jour de l’audience, elle a remis un acte de comparution au secrétaire de ce Tribunal.
+- **(2)** Avant de se prononcer sur l’appel prévu par le présent article, le Tribunal canadien du commerce extérieur tient une audience sur préavis d’au moins vingt et un jours publié dans la Gazette du Canada, et toute personne peut être entendue à l’appel si, au plus tard le jour de l’audience, elle a remis un acte de comparution au Tribunal.
 
 **Recours judiciaire**
 
 - **(3)** Le Tribunal canadien du commerce extérieur peut statuer sur l’appel prévu au paragraphe (1), selon la nature de l’espèce, par ordonnance, constatation ou déclaration, celles-ci n’étant susceptibles de recours, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues à l’article 68.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F); 2005, ch. 38, art. 85.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F); 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
 
 
 
@@ -2579,7 +2579,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Modalités**
 
-- **(3)** La demande de prorogation se fait par dépôt, auprès du président et du secrétaire du Tribunal canadien du commerce extérieur, de la demande et de l’avis d’appel.
+- **(3)** La demande de prorogation se fait par dépôt, auprès du président et du Tribunal canadien du commerce extérieur, de la demande et de l’avis d’appel.
 
 **Conditions d’acceptation de la demande**
 
@@ -2590,7 +2590,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible,
 		- **(iv)** l’appel est fondé sur des motifs raisonnables.
-> 2001, ch. 25, art. 49; 2005, ch. 38, art. 85.
+> 2001, ch. 25, art. 49; 2005, ch. 38, art. 85; 2014, ch. 20, art. 446.
 
 
 
@@ -2656,13 +2656,13 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 - **(1)** En cas de refus de dédouanement de marchandises fondé sur une décision de classement parmi les marchandises prohibées classées dans le n<sup>o</sup> tarifaire 9899.00.00 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), cette décision peut faire l’objet des révisions ou réexamens prévus aux articles 60 ou 61, ainsi que des appels ou recours prévus aux articles 67 et 68, sous réserve des modifications suivantes :
 	- **a)** le sous-alinéa 61(1)a)(iii) et l’alinéa 61(1)c) sont réputés faire mention du tribunal;
-	- **b)** aux articles 67 et 68, les expressions « tribunal » et « greffier du tribunal » sont réputées remplacer respectivement les expressions « Tribunal canadien du commerce extérieur » et « secrétaire du Tribunal canadien du commerce extérieur ».
+	- **b)** aux articles 67 et 68, l’expression « tribunal » est réputée remplacer l’expression « Tribunal canadien du commerce extérieur ».
 
 **Définitions**
 
 - **(2)** Les définitions qui suivent s’appliquent au présent article.
 
-***greffier du tribunal*** Selon le cas, le greffier de la Cour suprême, de la Cour supérieure de justice de l’Ontario, de la Cour supérieure, de la Cour du Banc de la Reine ou de la cour de district ou de comté.
+***greffier du tribunal***[Abrogée, 2014, ch. 20, art. 445]
 
 ***tribunal***
 - **a)** Dans la province d’Ontario, la Cour supérieure de justice;
@@ -2672,7 +2672,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 - **e)** [Abrogé, 1992, ch. 51, art. 44]
 - **f)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, la Section de première instance de la Cour suprême;
 - **g)** au Nunavut, la Cour de justice.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152; 2014, ch. 20, art. 445.
 
 
 
