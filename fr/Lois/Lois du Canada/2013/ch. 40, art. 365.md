@@ -8,7 +8,7 @@
 Sanctionnée sur le 12 décembre 2013
 
 ```
-[Édictée par l’article 365 du chapitre 40 des Lois du Canada (2013), non en vigueur.]
+[Édictée par l’article 365 du chapitre 40 des Lois du Canada (2013), en vigueur le 1<sup>er</sup> novembre 2014, voir TR/2014-84.]
 ```
 ----------
 
