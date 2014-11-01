@@ -76,13 +76,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** 
 
-- **(1)** The Chairperson is the chief executive officer of the Tribunal and has supervision over, and direction of, the work of the members and staff of the Tribunal, including
+- **(1)** The Chairperson has supervision over, and direction of, the work of the Tribunal, including
 	- **(a)** the apportionment of work among members and the assignment of members to hear matters brought before the Tribunal and, when the Tribunal sits in panels, the assignment of members to panels and to preside over panels; and
 	- **(b)** generally, the conduct of the work of the Tribunal and the management of its internal affairs.
 
 **Absence of Chairperson**
 
 - **(2)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-Chairperson shall act as Chairperson during the continuance of that absence or incapacity or until a new Chairperson is designated.
+> 2001, c. 29, s. 5; 2014, c. 20, s. 464.
+
 
 
 
@@ -150,22 +152,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Employees**
-
-**10** 
-
-- **(1)** The employees that are necessary for the proper conduct of the work of the Tribunal shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Status**
-
-- **(2)** Employees appointed under subsection (1) are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-
-**Experts**
-
-- **(3)** The Tribunal may engage experts or persons having technical or specialized knowledge to assist the Tribunal in any matter in an advisory capacity and may, subject to the approval of the Treasury Board, fix their remuneration.
-> 2001, c. 29, s. 10; 2003, c. 22, s. 225(E).
-
+**10** [Repealed, 2014, c. 20, s. 465]
 
 
 
