@@ -57,7 +57,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 ***bargaining unit*** means a group of two or more employees that is determined by the Board to constitute a unit of employees appropriate for collective bargaining.
 
-***Board*** means the Public Service Labour Relations Board.
+***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act.
 
 ***collective agreement*** means an agreement in writing, entered into under Part 1 of the Public Service Labour Relations Act between the employer and a bargaining agent, containing provisions respecting terms and conditions of employment and related matters.
 
@@ -96,6 +96,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** For the purposes of this Act,
 	- **(a)** officers and non-commissioned members of the Canadian Forces are deemed to be employees; and
 	- **(b)** Her Majesty in right of Canada, as represented by the Treasury Board, is deemed to be the employer of those officers and members.
+> 2009, c. 2, s. 394 "2"; 2013, c. 40, s. 441.
+
 
 
 
@@ -441,7 +443,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Public Service Labour Relations Board
+## Public Service Labour Relations and Employment Board
 
 
 
@@ -457,7 +459,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(2)** The Board may make regulations concerning the procedure in respect of the making or hearing of complaints under this Act and any other matter that is incidental or conducive to the exercise of its powers and the performance of its functions under this Act.
+- **(2)** The Board may make regulations concerning the procedure in respect of the making of complaints under this Act and any other matter that is incidental or conducive to the exercise of its powers and the performance of its duties and functions under this Act.
+> 2009, c. 2, s. 394 "25"; 2013, c. 40, s. 443.
+
 
 
 
@@ -476,15 +480,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Obligation to deal with every complaint**
-
-**28** 
-
-- **(1)** The Board shall deal with every complaint filed with it under this Act unless it appears to the Board that the complaint is trivial, frivolous or vexatious or was made in bad faith.
-
 **Notice to employee**
 
-- **(2)** If the Board decides not to deal with a complaint, it shall send a written notice of its decision and the reasons for it to the employee who filed the complaint and to the employer or bargaining agent, as the case may be — or, in the case of a complaint filed under section 24, to the employer and the bargaining agent — to whom the complaint relates.
+**28** If the Board decides not to deal with a complaint filed with it under this Act, it shall send a written notice of its decision and the reasons for it to the employee who filed the complaint and to the employer or bargaining agent, as the case may be  —  or, in the case of a complaint filed under section 24, to the employer and the bargaining agent  —  to whom the complaint relates.
+> 2009, c. 2, s. 394 "28"; 2013, c. 40, s. 444.
+
 
 
 
