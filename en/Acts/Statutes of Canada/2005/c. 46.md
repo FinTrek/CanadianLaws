@@ -784,22 +784,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 #### Administration
 
 
-
-**Registry**
-
-**20.8** 
-
-- **(1)** There shall be a Registry of the Tribunal consisting of an office in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
-
-**Registrar and other staff**
-
-- **(2)** The registrar of the Tribunal and the other officers and employees necessary for the proper conduct of the work of the Tribunal are to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Technical experts**
-
-- **(3)** If requested to do so by the Chairperson, the registrar of the Tribunal may engage persons having technical or special knowledge to assist or advise members of the Tribunal in any matter and may, with the approval of the Treasury Board, fix and pay their remuneration and reimburse their expenses.
-> 2006, c. 9, s. 201.
-
+**20.8** [Repealed, 2014, c. 20, s. 468]
 
 
 
