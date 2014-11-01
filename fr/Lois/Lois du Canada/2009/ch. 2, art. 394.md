@@ -61,7 +61,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***catégorie d’emplois*** Au sein d’un même groupe d’emplois, ensemble de postes qui comportent des fonctions et des responsabilités semblables, exigent des compétences semblables, relèvent du même régime de rémunération et offrent la même gamme de taux de salaire.
 
-***Commission*** La Commission des relations de travail dans la fonction publique.
+***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 ***convention collective*** Convention écrite renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes conclue entre un employeur et un agent négociateur sous le régime de la partie 1 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
 
@@ -96,6 +96,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Pour l’application de la présente loi :
 	- **a)** les officiers et militaires du rang des Forces canadiennes sont réputés être des employés;
 	- **b)** Sa Majesté du chef du Canada, représentée par le Conseil du Trésor, est réputée être l’employeur des personnes visées à l’alinéa a).
+> 2009, ch. 2, art. 394 « 2 »; 2013, ch. 40, art. 441.
+
 
 
 
@@ -441,7 +443,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Commission des relations de travail dans la fonction publique
+## Commission des relations de travail et de l’emploi dans la fonction publique
 
 
 
@@ -457,7 +459,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(2)** La Commission peut prendre des règlements concernant la procédure de dépôt et d’audition des plaintes au titre de la présente loi et les autres questions pouvant se rattacher ou contribuer à l’exercice de ses pouvoirs et fonctions.
+- **(2)** La Commission peut prendre des règlements concernant la procédure de dépôt des plaintes au titre de la présente loi et les autres questions pouvant se rattacher ou contribuer à l’exercice de ses attributions.
+> 2009, ch. 2, art. 394 « 25 »; 2013, ch. 40, art. 443.
+
 
 
 
@@ -476,15 +480,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Obligation de statuer sur une plainte**
+**Plainte irrecevable**
 
-**28** 
+**28** Dans le cas où elle décide que la plainte dont elle est saisie en vertu de la présente loi est irrecevable, la Commission motive par écrit sa décision auprès du plaignant et auprès de l’employeur ou de l’agent négociateur concerné, selon le cas, ou auprès des trois s’il s’agit de la plainte visée à l’article 24.
+> 2009, ch. 2, art. 394 « 28 »; 2013, ch. 40, art. 444.
 
-- **(1)** La Commission statue sur toute plainte dont elle est saisie en vertu de la présente loi à moins qu’elle estime celle-ci irrecevable pour le motif qu’elle est futile ou vexatoire ou entachée de mauvaise foi.
-
-**Avis**
-
-- **(2)** Dans le cas où elle décide que la plainte est irrecevable, la Commission motive par écrit sa décision auprès du plaignant et auprès de l’employeur ou de l’agent négociateur concerné, selon le cas, ou auprès des trois s’il s’agit de la plainte visée à l’article 24.
 
 
 
