@@ -2811,7 +2811,7 @@ où :
 
 <sup><a href='#fn_Ind3779_hq_14281'>[*]</a></sup>**482** La présente section, exception faite des articles 471 à 481, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3779_hq_14281'><sup>*</sup></a>: [Note : Section 29, exception faite des articles 471 à 481, non en vigueur.]<br />
+<a name='fn_Ind3779_hq_14281'><sup>*</sup></a>: [Note : Section 29, exception faite des articles 471 à 481, en vigueur le 1<sup>er</sup> novembre 2014, *voir* TR/2014-83.]<br />
 
 
 
