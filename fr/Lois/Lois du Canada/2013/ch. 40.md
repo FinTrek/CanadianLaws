@@ -2586,7 +2586,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind3515_hq_13123'>[*]</a></sup>**470** Les articles 365 à 466, ou les dispositions de toute loi édictées par ces articles, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind3515_hq_13123'><sup>*</sup></a>: [Note : Articles 365 à 466, ou les dispositions de toute loi édictées par ces articles, non en vigueur.]<br />
+<a name='fn_Ind3515_hq_13123'><sup>*</sup></a>: [Note : Articles 365 à 466, ou les dispositions de toute loi édictées par ces articles, en vigueur le 1<sup>er</sup> novembre 2014, *voir* TR/2014-84.]<br />
 
 
 
