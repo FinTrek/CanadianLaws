@@ -312,20 +312,7 @@
 ### Administration of Tribunal
 
 
-
-**Registry**
-
-**14** 
-
-- **(1)** There shall be a Registry of the Tribunal consisting of an office in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
-
-**Staff**
-
-- **(2)** Such officers, clerks and employees as are required for the proper conduct of the work of the Tribunal shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Organization**
-
-- **(3)** The employees of the Tribunal shall be organized and the offices shall be operated in such manner as may be provided by the rules.
+**14** [Repealed, 2014, c. 20, s. 447]
 
 
 
@@ -347,7 +334,7 @@
 
 - **(1)** Subject to the approval of the Governor in Council, the Tribunal may make general rules that are not inconsistent with this Part or the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md)
 	- **(a)** for regulating the practice and procedure of the Tribunal; and
-	- **(b)** for carrying out the work of the Tribunal, the management of its internal affairs and the duties of its officers and employees.
+	- **(b)** for carrying out the work of the Tribunal and the management of its internal affairs.
 
 **When effective**
 
@@ -360,6 +347,8 @@
 **Quorum**
 
 - **(4)** Five members of the Tribunal, at least three of whom are judicial members, constitute a quorum of the Tribunal for the purpose of making rules under this section.
+> R.S., 1985, c. 19 (2nd Supp.), s. 16; 2014, c. 20, s. 448.
+
 
 
 
