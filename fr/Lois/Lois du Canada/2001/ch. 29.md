@@ -76,13 +76,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Le président est le premier dirigeant du Tribunal; à ce titre, il en assure la direction et contrôle la gestion de son personnel. Il est notamment chargé :
+- **(1)** Le président assure la direction du Tribunal et en contrôle les activités. Il est notamment chargé :
 	- **a)** de la répartition des affaires et du travail entre les conseillers et, le cas échéant, de la constitution et de la présidence des comités;
 	- **b)** de la conduite des travaux du Tribunal et de son administration.
 
 **Intérim du président**
 
 - **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président jusqu’au retour du président, jusqu’à la fin de cet empêchement ou jusqu’à la désignation d’un nouveau président.
+> 2001, ch. 29, art. 5; 2014, ch. 20, art. 464.
+
 
 
 
@@ -150,22 +152,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Personnel**
-
-**10** 
-
-- **(1)** Le personnel nécessaire à l’exécution des travaux du Tribunal est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Statut**
-
-- **(2)** Ce personnel est réputé faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-
-**Experts**
-
-- **(3)** Le Tribunal peut engager des experts compétents dans des domaines relevant de son champ d’activité et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
-> 2001, ch. 29, art. 10; 2003, ch. 22, art. 225(A).
-
+**10** [Abrogé, 2014, ch. 20, art. 465]
 
 
 
