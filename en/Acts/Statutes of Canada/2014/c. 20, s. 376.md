@@ -8,7 +8,7 @@
 Assented to on 19 June 2014
 
 ```
-[Enacted by section 376 of chapter 20 of the Statutes of Canada, 2014, not in force.]
+[Enacted by section 376 of chapter 20 of the Statutes of Canada, 2014, in force November 1, 2014, see SI/2014-83.]
 ```
 ----------
 
@@ -40,13 +40,13 @@ Assented to on 19 June 2014
 
 **2** The following definitions apply in this Act.
 
-***administrative tribunal*** means a body referred to in the schedule to this Act.
+***administrative tribunal*** means a body referred to in the schedule to this Act. (*tribunal administratif*)
 
-***Chief Administrator*** means the person appointed under subsection 5(1).
+***Chief Administrator*** means the person appointed under subsection 5(1). (*administrateur en chef*)
 
-***Minister*** means the Minister of Justice.
+***Minister*** means the Minister of Justice. (*ministre*)
 
-***Service*** means the Administrative Tribunals Support Service of Canada established by section 3.
+***Service*** means the Administrative Tribunals Support Service of Canada established by section 3. (*Service*)
 
 
 
@@ -199,7 +199,7 @@ Assented to on 19 June 2014
 
 
 
-**Deeming  — amounts payable**
+**Deeming — amounts payable**
 
 **17** Any provision of an Act of Parliament, or of a regulation, that requires an amount to be paid to an administrative tribunal is deemed to require that amount to be paid to the Service.
 
@@ -229,6 +229,8 @@ Competition Tribunal<br />- <i>Tribunal de la concurrence</i>
 
 Public Servants Disclosure Protection Tribunal<br />- <i>Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles</i>
 
+Public Service Labour Relations and Employment Board<br />- <i>Commission des relations de travail et de l’emploi dans la fonction publique</i>
+
 Review Tribunal<br />- <i>Commission de révision</i>
 
 Specific Claims Tribunal<br />- <i>Tribunal des revendications particulières</i>
@@ -236,4 +238,6 @@ Specific Claims Tribunal<br />- <i>Tribunal des revendications particulières</i
 Social Security Tribunal<br />- <i>Tribunal de la sécurité sociale</i>
 
 Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d’appel des transports du Canada</i>
+> 2014, c. 20, ss. 376 “Sch.”, 481.
+
 
