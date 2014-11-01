@@ -2586,7 +2586,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndE839_hq_13129'>[*]</a></sup>**470** Sections 365 to 466, and the provisions of any Act as they are enacted by this Division, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndE839_hq_13129'><sup>*</sup></a>: [Note: Sections 365 to 466, and the provisions of any Act as they are enacted by this Division, not in force.]<br />
+<a name='fn_IndE839_hq_13129'><sup>*</sup></a>: [Note: Sections 365 to 466, and the provisions of any Act as they are enacted by this Division, in force November 1, 2014, *see* SI/2014-84.]<br />
 
 
 
