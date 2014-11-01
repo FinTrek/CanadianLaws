@@ -253,8 +253,8 @@ Pérou
 
 **Président**
 
-**7** Le président est le premier dirigeant du Tribunal; à ce titre, il en assure la direction et en contrôle les activités, notamment en ce qui a trait à la répartition des tâches et des séances entre les membres, à la désignation des présidents de séance, à la conduite des travaux du Tribunal, à la gestion de ses affaires internes et à l’exécution des fonctions de son personnel.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 12, art. 61(A).
+**7** Le président assure la direction du Tribunal et en contrôle les activités, notamment en ce qui a trait à la répartition des tâches et des séances entre les membres, à la désignation des présidents de séance, à la conduite des travaux du Tribunal et à la gestion de ses affaires internes.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 12, art. 61(A); 2014, ch. 20, art. 452.
 
 
 
@@ -339,39 +339,11 @@ Pérou
 
 
 
-
-### Personnel
-
-
-
-**Secrétaire**
-
-**14** 
-
-- **(1)** Est nommé, en conformité avec la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), un secrétaire auprès du Tribunal.
-
-**Intérim du secrétaire**
-
-- **(2)** En cas d’absence ou d’empêchement du secrétaire ou de vacance de son poste, le président peut autoriser un membre du personnel du Tribunal à assurer l’intérim.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 14; 1999, ch. 12, art. 61(A).
+**14** [Abrogé, 2014, ch. 20, art. 453]
 
 
 
-
-
-**Personnel**
-
-**15** 
-
-- **(1)** Le personnel nécessaire à l’exécution des travaux du Tribunal est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Experts**
-
-- **(2)** Le Tribunal peut nommer, à titre consultatif, des experts et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
-
-**Détachement**
-
-- **(3)** Sous réserve des instructions du Conseil du Trésor en la matière, les ministères ou les organismes fédéraux peuvent, à la demande du Tribunal, détacher auprès de lui, pour une période déterminée, le personnel nécessaire à ses travaux.
+**15** [Abrogé, 2014, ch. 20, art. 453]
 
 
 
@@ -2308,12 +2280,12 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 
 **44.1** 
 
-- **(1)** Dans le cas de procédures engagées en vertu de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) relativement à des marchandises importées d’un pays ALÉNA, et ce à l’exclusion des procédures prévues à l’article 33, au paragraphe 34(1), à l’article 35 ou aux paragraphes 45(1) ou 61(1) de cette loi, le secrétaire fait parvenir au gouvernement de ce pays, à sa demande, copie de tout renseignement fourni au Tribunal sous forme documentaire ou sous toute autre forme permettant de le reproduire facilement et fidèlement, sauf s’il s’agit d’un renseignement visé au paragraphe 84(1) de cette loi ou au paragraphe 45(1) de la présente loi.
+- **(1)** Dans le cas de procédures engagées en vertu de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) relativement à des marchandises importées d’un pays ALÉNA, et ce à l’exclusion des procédures prévues à l’article 33, au paragraphe 34(1), à l’article 35 ou aux paragraphes 45(1) ou 61(1) de cette loi, le Tribunal fait parvenir au gouvernement de ce pays, à sa demande, copie de tout renseignement fourni au Tribunal sous forme documentaire ou sous toute autre forme permettant de le reproduire facilement et fidèlement, sauf s’il s’agit d’un renseignement visé au paragraphe 84(1) de cette loi ou au paragraphe 45(1) de la présente loi.
 
 **Définition de gouvernement**
 
 - **(2)** Pour l’application du paragraphe (1), ***gouvernement*** s’entend au sens de la définition de gouvernement d’un pays ALÉNA au paragraphe 2(1) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1993, ch. 44, art. 47; 1994, ch. 47, art. 43.
+> 1993, ch. 44, art. 47; 1994, ch. 47, art. 43; 2014, ch. 20, art. 454.
 
 
 
@@ -2337,7 +2309,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 
 **Communication à l’expert du Tribunal**
 
-- **(3.1)** Nonobstant le paragraphe (1), les renseignements auxquels ce paragraphe s’applique peuvent être communiqués par le Tribunal à l’expert dont il a retenu les services dans le cadre de la procédure engagée devant lui au titre de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou au titre de la présente loi et pour laquelle ils ont été fournis; malgré toute autre loi ou règle de droit, les renseignements ne peuvent être utilisés par l’expert que dans le cadre de cette procédure, sous réserve des conditions que le Tribunal juge indiquées pour empêcher que les renseignements ne soient divulgués, sans le consentement écrit de la personne qui les a fournis, de manière à pouvoir être utilisés par :
+- **(3.1)** Malgré le paragraphe (1), les renseignements auxquels ce paragraphe s’applique peuvent être communiqués par le Tribunal à l’expert dont les services sont retenus afin de l’aider ou de le conseiller dans le cadre de la procédure engagée devant lui au titre de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou au titre de la présente loi et pour laquelle ils ont été fournis; malgré toute autre loi ou règle de droit, les renseignements ne peuvent être utilisés par l’expert que dans le cadre de cette procédure, sous réserve des conditions que le Tribunal juge indiquées pour empêcher que les renseignements ne soient divulgués, sans le consentement écrit de la personne qui les a fournis, de manière à pouvoir être utilisés par :
 	- **a)** toute partie à cette procédure;
 	- **b)** tout concurrent de la personne à l’entreprise ou aux activités de laquelle ils se rapportent.
 
@@ -2354,6 +2326,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 - **(5)** Pour l’application des paragraphes (3) et (3.1), sont notamment des experts celles des personnes suivantes que le Tribunal considère comme des experts :
 	- **a)** les personnes chargées de l’application de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) et visées à l’article 25 de cette loi, autres que les personnes autorisées par le gouverneur en conseil à exercer les pouvoirs et fonctions du directeur;
 	- **b)** à l’égard de la détermination des dommages-intérêts et des frais dans la procédure de révision des marchés publics, les personnes employées dans l’institution fédérale partie aux marchés publics faisant l’objet de la révision;
+	- **b.1)** les personnes dont les services sont retenus en vertu du paragraphe 11(2) de la [Loi sur le Service canadien d’appui aux tribunaux administratifs](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20376.md) afin d’aider ou de conseiller le Tribunal;
 	- **c)** les personnes visées par règlement.
 
 **Infractions**
@@ -2375,7 +2348,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 **Interdiction de comparaître devant le Tribunal**
 
 - **(9)** Le Tribunal peut interdire à l’avocat ou à l’expert qui a commis une infraction prévue au paragraphe (6) — même si celui-ci a été condamné à une peine prévue au paragraphe (7) — de comparaître, pour la période qu’il juge indiquée, dans le cadre de toute procédure engagée devant lui.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 45; 1994, ch. 47, art. 44; 1999, ch. 12, art. 59; 2003, ch. 22, art. 224(A).
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 45; 1994, ch. 47, art. 44; 1999, ch. 12, art. 59; 2003, ch. 22, art. 224(A); 2014, ch. 20, art. 455.
 
 
 
@@ -2447,8 +2420,8 @@ Si elle fait défaut d’agir dans le délai, le Tribunal ne peut tenir compte d
 
 **49** Ne peuvent être sciemment fournis par les agents de l’administration publique fédérale et les membres de manière à pouvoir être utilisés par des concurrents ou rivaux de la personne dont l’entreprise ou les activités sont concernées par eux les pièces ou renseignements suivants en leur possession :
 - **a)** ceux qui sont, de l’avis du Tribunal, confidentiels de nature et qui sont fournis ou obtenus au cours d’une procédure devant lui;
-- **b)** ceux qui sont déposés auprès du secrétaire conformément à l’alinéa 37a) ou 38(3)b) ou au paragraphe 76.03(9) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) et à propos desquels le président des douanes et du revenu a indiqué par écrit au Tribunal qu’ils faisaient l’objet de l’application du paragraphe 84(1) de cette loi.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115; 2003, ch. 22, art. 224(A); 2005, ch. 38, art. 55.
+- **b)** ceux qui sont déposés auprès du Tribunal conformément aux alinéas 37a) ou 38(3)b) ou au paragraphe 76.03(9) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) et à propos desquels le président de l’Agence des services frontaliers du Canada a indiqué par écrit au Tribunal qu’ils faisaient l’objet de l’application du paragraphe 84(1) de cette loi.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115; 2003, ch. 22, art. 224(A); 2005, ch. 38, art. 55; 2014, ch. 20, art. 456.
 
 
 
