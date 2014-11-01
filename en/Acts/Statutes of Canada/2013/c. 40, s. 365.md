@@ -8,7 +8,7 @@
 Assented to on 12 December 2013
 
 ```
-[Enacted by section 365 of chapter 40 of the Statutes of Canada, 2013, not in force.]
+[Enacted by section 365 of chapter 40 of the Statutes of Canada, 2013, in force November 1, 2014, see SI/2014-84.]
 ```
 ----------
 
