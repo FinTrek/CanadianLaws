@@ -164,8 +164,8 @@
 
 **Assistance contractuelle**
 
-**4.3** Le Conseil et la Commission peuvent chacun, pour des travaux déterminés, engager à contrat des experts dans les domaines relevant de leur champ d’activité.
-> 1995, ch. 40, art. 29.
+**4.3** Le Conseil peut, pour des travaux déterminés, engager à contrat des experts dans les domaines relevant de son champ d’activité.
+> 1995, ch. 40, art. 29; 2014, ch. 20, art. 449.
 
 
 
@@ -190,10 +190,14 @@
 
 - **(2)** En cas d’absence ou d’empêchement du président de la Commission, ou de vacance de son poste, les autres membres confient l’intérim à l’un des membres dotés de la formation juridique prévue au paragraphe 4.1(2).
 
-**Fonctions du président**
+**Fonctions du président du Conseil**
 
-- **(3)** Le président de chacun des organismes en est le premier dirigeant; à ce titre, il en assure la direction et répartit les affaires et le travail entre les membres.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 5; 1995, ch. 40, art. 29.
+- **(3)** Le président du Conseil en est le premier dirigeant; à ce titre, il en assure la direction et répartit les affaires et le travail entre les membres.
+
+**Fonctions du président de la Commission**
+
+- **(4)** Le président de la Commission répartit les affaires et le travail entre les membres.
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 5; 1995, ch. 40, art. 29; 2014, ch. 20, art. 450.
 
 
 
@@ -215,8 +219,8 @@
 
 **Personnel et installations**
 
-- **(4)** Le ministre peut mettre à la disposition du Conseil et de la Commission les cadres et agents de l’administration publique fédérale, les conseillers techniques et professionnels, ainsi que les installations et fournitures nécessaires à leur bon fonctionnement.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 6; 1995, ch. 40, art. 30; 2003, ch. 22, art. 224(A).
+- **(4)** Le ministre peut mettre à la disposition du Conseil les cadres et agents de l’administration publique fédérale, les conseillers techniques et professionnels, ainsi que les installations et fournitures nécessaires au bon fonctionnement du Conseil.
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 6; 1995, ch. 40, art. 30; 2003, ch. 22, art. 224(A); 2014, ch. 20, art. 451.
 
 
 
