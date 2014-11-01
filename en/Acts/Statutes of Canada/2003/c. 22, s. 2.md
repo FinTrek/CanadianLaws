@@ -61,7 +61,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***adjudicator*** means a member assigned to hear and determine a grievance referred to adjudication under subsection 209(1) or section 216 or 221 and includes, if the context permits, a board of adjudication established under paragraph 223(2)(c), a person named as an adjudicator in a collective agreement and a person otherwise selected as an adjudicator by the parties to the grievance.
+***adjudicator*** means a person or board of adjudication to whom a grievance is referred under paragraph 223(2)(a), (b) or (c).
 
 ***arbitral award*** means an award made by an arbitration board in respect of a dispute.
 
@@ -71,7 +71,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***bargaining unit*** means a group of two or more employees that is determined by the Board to constitute a unit of employees appropriate for collective bargaining.
 
-***Board*** means the Public Service Labour Relations Board established by section 12.
+***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act.
 
 ***Chairperson*** means the Chairperson of the Board.
 
@@ -93,7 +93,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(e)** a person employed in the Canadian Security Intelligence Service who does not perform duties of a clerical or secretarial nature;
 - **(f)** a person employed on a casual basis;
 - **(g)** a person employed on a term basis, unless the term of employment is for a period of three months or more or the person has been so employed for a period of three months or more;
-- **(h)** a person employed by the Board;
+- **(h)** an employee of the Administrative Tribunals Support Service of Canada who provides any of the following services exclusively to the Board:
+	- **(i)** mediation and dispute resolution services,
+	- **(ii)** legal services,
+	- **(iii)** advisory services relating to the Board’s exercise of its powers and performance of its duties and functions;
 - **(i)** a person who occupies a managerial or confidential position; or
 - **(j)** a person who is employed under a program designated by the employer as a student employment program.
 
@@ -129,7 +132,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Persons who are not employees**
 
 - **(3)** For greater certainty, a person is not an employee if
-	- **(a)** the person is engaged under subsection 50(1); or
+	- **(a)** the person is engaged under section 30 of the Public Service Labour Relations and Employment Board Act; or
 	- **(b)** the person’s compensation for the performance of the regular duties of the person’s position or office consists of fees of office or is related to the revenue of the office in which the person is employed.
 
 **Casual employment**
@@ -139,7 +142,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to occupants of positions**
 
 - **(5)** Every reference to a person who occupies a position, or to the occupant of a position, includes a person who is acting in that position or who has assumed wholly or substantially the duties and responsibilities of that position, and a reference to a person’s position includes the position of a person who is acting in that position or who has assumed wholly or substantially the duties and responsibilities of that position.
-> 2003, c. 22, ss. 2 “2”, 243.
+> 2003, c. 22, ss. 2 “2”, 243; 2013, c. 40, s. 366; 2014, c. 20, ss. 472, 481.
 
 
 
@@ -247,35 +250,28 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **National Joint Council**
 
-**11** Co-development of workplace improvements by the employer and a bargaining agent may take place under the auspices of the National Joint Council or any other body they may agree on.
+**11** 
+
+- **(1)** Co-development of workplace improvements by the employer and a bargaining agent may take place under the auspices of the National Joint Council or any other body they may agree on.
+
+**Facilities and administrative support**
+
+- **(2)** The Chief Administrator of the Administrative Tribunals Support Service of Canada is to provide facilities and administrative support to the National Joint Council.
+> 2003, c. 22, s. 2 “11”; 2014, c. 20, s. 481.
+
 
 
 
 
 **DIVISION 4** 
-### Public Service Labour Relations Board
+### Public Service Labour Relations and Employment Board
 
 
 
-#### Establishment and Composition
+**Administration of Act**
 
-
-
-**Board established**
-
-**12** A Board is established, to be called the Public Service Labour Relations Board, consisting of a Chairperson, up to three Vice-Chairpersons and any other members that the Governor in Council may appoint.
-
-
-
-
-#### Mandate
-
-
-
-**Mandate**
-
-**13** The Board’s mandate is to provide adjudication services and mediation services in accordance with this Act.
-> 2003, c. 22, s. 2 “13”; 2013, c. 40, s. 295.
+**12** The Board administers this Act and it may exercise the powers and perform the duties and functions that are conferred or imposed on it by this Act, or as are incidental to the attainment of the objects of this Act, including the making of orders requiring compliance with this Act, with regulations made under it or with decisions made in respect of a matter coming before the Board.
+> 2003, c. 22, s. 2 “12”; 2013, c. 40, s. 367.
 
 
 
@@ -283,264 +279,129 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Adjudication services**
 
-**14** The adjudication services to be provided by the Board consist of the hearing of applications and complaints made under this Part, the referral of grievances to adjudication in accordance with Part 2 and the hearing of matters brought before the Board under Part 3.
+**13** The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part, the referral of grievances to adjudication in accordance with Part 2 and the hearing of matters brought before the Board under Part 3.
+> 2003, c. 22, s. 2 “13”; 2013, c. 40, ss. 295, 367.
+
 
 
 
 
 **Mediation services**
 
-**15** The mediation services to be provided by the Board consist of
+**14** The Board is to provide mediation services that consist of
 - **(a)** assisting parties in the negotiation of collective agreements and their renewal;
 - **(b)** assisting parties in the management of the relations resulting from the implementation of collective agreements;
 - **(c)** mediating in relation to grievances; and
 - **(d)** assisting the Chairperson in discharging his or her responsibilities under this Act.
+> 2003, c. 22, s. 2 “14”; 2013, c. 40, s. 367.
 
 
 
-**16** [Repealed, 2013, c. 40, s. 296]
 
+**15** [Repealed, 2014, c. 20, s. 481]
 
 
 
-**National Joint Council**
 
-**17** The Board’s mandate includes the provision of facilities and administrative support to the National Joint Council.
+**Powers**
 
+**16** The Board has, in relation to any matter before it, the power to
+- **(a)** examine any evidence that is submitted to it respecting membership of employees in an employee organization seeking certification and, in the case of a council of employee organizations seeking certification, in any employee organization forming part of the council;
+- **(b)** examine documents forming or relating to the constitution or articles of association of any employee organization seeking certification and, in the case of a council of employee organizations seeking certification, those of any employee organization forming part of the council;
+- **(c)** require the employer to post and keep posted in appropriate places any notice that the Board considers necessary to bring matters or proceedings before the Board to the attention of employees;
+- **(d)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliance or article in the premises and require any person in the premises to answer all questions relating to the matter before it;
+- **(e)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer for the purpose of conducting representation votes during working hours; and
+- **(f)** authorize any person to do anything that the Board may do under paragraphs (a) to (e) and require the person to report to it on what the person has done.
+> 2003, c. 22, s. 2 “16”; 2013, c. 40, ss. 296, 367.
 
 
 
-#### Appointment of Members
 
+**17** [Repealed, 2013, c. 40, s. 367]
 
 
-**Qualifications**
 
-**18** 
+**18** [Repealed, 2013, c. 40, s. 367]
 
-- **(1)** To be eligible to hold office as a member, a person must
-	- **(a)** be a Canadian citizen within the meaning of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
-	- **(b)** not hold any other office or employment under the employer;
-	- **(c)** not be a member of or hold an office or employment under an employee organization certified as a bargaining agent;
-	- **(d)** not carry on any activity inconsistent with the person’s functions; and
-	- **(e)** have knowledge of or experience in labour relations.
 
-**Exception**
 
-- **(2)** Despite paragraph (1)(b), a person is not ineligible to hold office as a member by reason only of holding office as a member of any board that may be constituted by the Legislature of Yukon, of the Northwest Territories or for Nunavut with powers and functions similar to those of the Board.
-> 2003, c. 22, ss. 2 “18”, 273; 2014, c. 2, s. 54.
+**19** [Repealed, 2013, c. 40, s. 367]
 
 
 
+**20** [Repealed, 2013, c. 40, s. 367]
 
 
-**Appointments of other members from list**
 
-**19** 
+**21** [Repealed, 2013, c. 40, s. 367]
 
-- **(1)** Every member, other than the Chairperson or a Vice-Chairperson, must be appointed from among eligible persons whose names are included on a list prepared by the Chairperson after consultation with the employer and the bargaining agents.
 
-**Contents**
 
-- **(2)** The Chairperson must set out on the list
-	- **(a)** the names of all eligible persons recommended by the employer;
-	- **(b)** the names of all eligible persons recommended by the bargaining agents; and
-	- **(c)** the names of any other eligible persons whom the Chairperson considers suitable for appointment.
+**22** [Repealed, 2013, c. 40, s. 367]
 
-**Equal numbers**
 
-- **(3)** The appointment of members, other than the Chairperson and the Vice-Chairpersons, is to be made so as to ensure that, to the extent possible, an equal number are appointed from among persons recommended by the employer and from among persons recommended by the bargaining agents.
 
-**Non-representative Board**
+**23** [Repealed, 2013, c. 40, s. 367]
 
-- **(4)** Despite being recommended by the employer or the bargaining agents, a member does not represent either the employer or the employees and must act impartially in respect of all powers and functions under this Act.
 
 
+**24** [Repealed, 2013, c. 40, s. 367]
 
 
-**Full or part-time members**
 
-**20** The Chairperson and the Vice-Chairpersons are each full-time members and the other members may be appointed as full-time or part-time members.
+**25** [Repealed, 2013, c. 40, s. 367]
 
 
 
+**26** [Repealed, 2013, c. 40, s. 367]
 
-**Residence of full-time members**
 
-**21** The full-time members must reside in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or within any distance of it that the Governor in Council may determine.
 
+**27** [Repealed, 2013, c. 40, s. 367]
 
 
 
-**Tenure**
+**28** [Repealed, 2013, c. 40, s. 367]
 
-**22** 
 
-- **(1)** Each member is to be appointed to hold office during good behaviour and may be removed by the Governor in Council for cause.
 
-**Term of office**
+**29** [Repealed, 2013, c. 40, s. 367]
 
-- **(2)** A member may be appointed for a term of office that is not more than five years.
 
-**Reappointment**
 
-- **(3)** A member is eligible for reappointment on the expiry of any term of office.
+**30** [Repealed, 2013, c. 40, s. 367]
 
-**Completion of duties**
 
-- **(4)** A person who ceases to be a member for any reason other than removal may, at the request of the Chairperson, within eight weeks after ceasing to be a member, carry out and complete any functions or responsibilities that the person would otherwise have had in connection with any matter that came before the Board while the person was still a member and in respect of which there was any proceeding in which the person participated as a member. For that purpose, the person is deemed to be a part-time member.
 
+**31** [Repealed, 2013, c. 40, s. 367]
 
 
 
-#### Remuneration
+**32** [Repealed, 2013, c. 40, s. 367]
 
 
 
-**Remuneration**
+**33** [Repealed, 2013, c. 40, s. 367]
 
-**23** Every member and former member referred to in subsection 22(4)
-- **(a)** is to be paid the remuneration that may be determined by the Governor in Council; and
-- **(b)** is entitled to be paid reasonable travel and other expenses incurred by them in the course of their duties under this Act while absent from, in the case of full-time members, their ordinary place of work and, in the case of part-time members, their ordinary place of residence.
 
 
+**34** [Repealed, 2013, c. 40, s. 367]
 
 
-#### Application of Acts
 
+**35** [Repealed, 2013, c. 40, s. 367]
 
 
-**Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
 
-**24** A full-time member is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+**36** [Repealed, 2013, c. 40, s. 367]
 
 
 
+**37** [Repealed, 2013, c. 40, s. 367]
 
-**Application of other Acts**
 
-**25** Members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
-
-
-
-#### Head Office and Meetings
-
-
-
-**Head office**
-
-**26** The head office of the Board is to be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
-
-
-
-
-**Time and place of meetings**
-
-**27** 
-
-- **(1)** Meetings of the Board may be held at any date, time and place that the Chairperson considers appropriate for the proper conduct of the Board’s business.
-
-**Off-site participation**
-
-- **(2)** A meeting of the Board may be held by any means of telecommunication that permits all persons participating in the meeting to communicate adequately with each other during the meeting. A person participating by such means is deemed to be present at the meeting.
-
-
-
-
-**Quorum**
-
-**28** The Chairperson, one Vice-Chairperson and a majority of the other full-time members of the Board constitute a quorum at a meeting of the Board.
-
-
-
-
-**Attendance of part-time members at meetings**
-
-**29** A part-time member is not entitled to attend a meeting of the Board, but may attend at the invitation of the Chairperson.
-
-
-
-
-**Decision of majority**
-
-**30** A decision of a majority of the Board’s members who are present at a Board meeting is a decision of the Board.
-
-
-
-
-#### Panels
-
-
-
-**Composition**
-
-**31** Proceedings brought before the Board under this Part are to be heard and determined by a panel of not less than three members, at least one of whom is the Chairperson or a Vice-Chairperson, or, if the Chairperson considers it appropriate in the circumstances, by a panel consisting of a single member.
-
-
-
-
-**Powers, rights and privileges**
-
-**32** A panel has all the powers, rights and privileges of the Board with respect to any matter assigned to the panel under this Part.
-
-
-
-
-**Chairperson of the panel**
-
-**33** The chairperson of a panel that consists of three or more members is the Chairperson or, if the Chairperson is not a member of the panel, a Vice-Chairperson designated by the Chairperson.
-
-
-
-
-**Death or incapacity of member**
-
-**34** 
-
-- **(1)** In the event of the death or incapacity of a member of a panel consisting of three or more members, other than the death or incapacity of the chairperson, the chairperson may determine any matter that was before the panel and the chairperson’s decision is deemed to be the decision of the panel.
-
-**Death or incapacity of chairperson**
-
-- **(2)** In the event of the death or incapacity of the chairperson of a panel, or of the member when the panel consists of a single member, the Chairperson must establish a new panel to hear and determine the matter on any terms and conditions that the Chairperson may specify for the protection and preservation of the rights and interests of the parties.
-
-
-
-
-**Decision of panel**
-
-**35** 
-
-- **(1)** A decision made by a majority of the members of a panel is the decision of the panel or, if no decision is supported by the majority of the members of the panel, the decision of the chairperson of the panel is the decision of the panel.
-
-**Decision of Board**
-
-- **(2)** A decision of a panel is a decision of the Board.
-
-
-
-
-#### Powers and Functions of the Board
-
-
-
-**Powers and functions of the Board**
-
-**36** The Board administers this Act and it may exercise the powers and perform the functions that are conferred or imposed on it by this Act, or as are incidental to the attainment of the objects of this Act, including the making of orders requiring compliance with this Act, regulations made under it or decisions made in respect of a matter coming before the Board.
-
-
-
-
-**Provision of assistance to parties**
-
-**37** The Board, or any member or employee of the Board designated by the Board, may, if the parties agree, assist the parties in resolving any issue in dispute at any stage of a proceeding by any means that the Board considers appropriate, without prejudice to its power to determine issues that have not been settled.
-
-
-
-
-**Delegation by Board**
-
-**38** The Board may authorize the Chairperson to exercise any of its powers or perform any of its functions, other than the power to make regulations.
+**38** [Repealed, 2013, c. 40, s. 367]
 
 
 
@@ -556,48 +417,22 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(f)** the rights, privileges and duties that are acquired or retained by an employee organization in respect of a bargaining unit or any employee included in a bargaining unit when there is a merger, an amalgamation or a transfer of jurisdiction between two or more employee organizations;
 - **(g)** the revocation of certification of a bargaining agent, including the rights and privileges that have accrued to and are retained by any employee despite the revocation;
 - **(h)** [Repealed, 2013, c. 40, s. 297]
-- **(i)** the procedure for hearings;
-- **(j)** the specification of the times within which notices, other than those referred to in subsections 124(1) and (2), and other documents are to be sent or given under this Part, the persons to whom they are to be sent or given and when they are deemed to have been sent, given or received;
-- **(k)** the determination of the form in which, and the time as of which, the following evidence is to be presented to the Board on an application for certification or revocation of certification of a bargaining agent:
+- **(i) to (k)** [Repealed, 2013, c. 40, s. 368]
+- **(l)** the circumstances in which the following evidence may be received by it as evidence that any employees wish or do not wish to have a particular employee organization represent them as their bargaining agent, and the circumstances in which it must not make public any evidence so received:
 	- **(i)** evidence as to membership of employees in an employee organization,
 	- **(ii)** evidence of objection by employees to certification of an employee organization, and
-	- **(iii)** evidence of signification by employees that they no longer wish to be represented by an employee organization;
-- **(l)** the circumstances in which evidence referred to in paragraph (k) may be received by it as evidence that any employees wish or do not wish to have a particular employee organization represent them as their bargaining agent, and the circumstances in which it must not make public any evidence so received; and
-- **(m)** any other matter that is incidental or conducive to the exercise of its powers, the performance of its functions or the attainment of the objects of this Part.
-> 2003, c. 22, s. 2 “39”; 2013, c. 40, s. 297.
+	- **(iii)** evidence of signification by employees that they no longer wish to be represented by an employee organization; and
+- **(m)** any other matter that is incidental or conducive to the attainment of the objects of this Part.
+> 2003, c. 22, s. 2 “39”; 2013, c. 40, ss. 297, 368.
 
 
 
 
-
-**Powers of Board**
-
-**40** 
-
-- **(1)** The Board has, in relation to any matter before it, the power to
-	- **(a)** summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath in the same manner as a superior court of record;
-	- **(b)** order pre-hearing procedures, including pre-hearing conferences that are held in private, and direct the date, time and place of the hearings for those procedures;
-	- **(c)** order that a hearing or a pre-hearing conference be conducted using any means of telecommunication that permits all persons participating in the conference to communicate adequately with each other;
-	- **(d)** administer oaths and solemn affirmations;
-	- **(e)** accept any evidence, whether admissible in a court of law or not;
-	- **(f)** examine any evidence that is submitted to it respecting membership of employees in an employee organization seeking certification and, in the case of a council of employee organizations seeking certification, in any employee organization forming part of the council;
-	- **(g)** examine documents forming or relating to the constitution or articles of association of any employee organization seeking certification and, in the case of a council of employee organizations seeking certification, those of any employee organization forming part of the council;
-	- **(h)** compel, at any stage of a proceeding, any person to produce the documents and things that may be relevant;
-	- **(i)** require the employer to post and keep posted in appropriate places any notice that the Board considers necessary to bring matters or proceedings before the Board to the attention of employees;
-	- **(j)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliance or article in the premises and require any person in the premises to answer all questions relating to the matter before it;
-	- **(k)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer for the purpose of conducting representation votes during working hours; and
-	- **(l)** authorize any person to do anything that the Board may do under paragraphs (d) to (k) and require the person to report to it on what the person has done.
-
-**Frivolous applications**
-
-- **(2)** The Board may dismiss summarily any application or complaint that in its opinion is frivolous or vexatious.
+**40** [Repealed, 2013, c. 40, s. 369]
 
 
 
-
-**Determination without oral hearing**
-
-**41** The Board may decide any matter before it without holding an oral hearing.
+**41** [Repealed, 2013, c. 40, s. 369]
 
 
 
@@ -621,121 +456,39 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**44** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
-#### Chairperson
 
 
+**45** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
-**Chief executive officer**
 
-**44** The Chairperson is the chief executive officer of the Board and has supervision over and direction of the work of the Board, including
-- **(a)** the assignment and reassignment of matters that the Board is seized of to panels;
-- **(b)** the composition of panels and the assignment of Vice-Chairpersons to preside over panels; and
-- **(c)** the determination of the date, time and place of hearings.
 
+**46** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
 
 
-**Delegation by Chairperson**
+**47** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
-**45** The Chairperson may authorize a Vice-Chairperson to exercise any of the Chairperson’s powers or perform any of the Chairperson’s functions, including powers or functions delegated to the Chairperson by the Board.
 
 
+**48** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
 
-**Absence of Chairperson**
 
-**46** 
+**49** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
-- **(1)** If the Chairperson is absent or unable to act, or the office of Chairperson is vacant, a Vice-Chairperson designated by the Minister is to act as Chairperson.
 
-**Absence of Chairperson and the Vice-Chairperson**
 
-- **(2)** In the event of the absence or incapacity of both the Chairperson and the Vice-Chairperson designated by the Minister, or if both of those offices are vacant, the Minister may designate a member or any qualified person to act as Chairperson but no person so designated by the Minister has authority to act as Chairperson for more than 60 days without the approval of the Governor in Council.
+**50** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
 
 
+**51** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
-#### Human Resources
 
 
-
-**Responsibility for human resources management**
-
-**47** The Chairperson is authorized, in respect of persons employed by the Board, to exercise the powers and perform the functions of the Treasury Board under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) that relate to human resources management within the meaning of paragraph 7(1)(e) and section 11.1 of that Act, and those of deputy heads under subsection 12(2) of that Act, including the determination of terms and conditions of employment of persons employed by the Board.
-
-
-
-
-**Executive Director of Board**
-
-**48** 
-
-- **(1)** An Executive Director of the Board is to be appointed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Supervision of work**
-
-- **(2)** The Executive Director of the Board assists the Chairperson in the exercise of the Chairperson’s functions and, subject to the Chairperson’s direction, directs and supervises the day-to-day conduct of the work of the Board, the management of the Board’s internal affairs and the work of persons employed by the Board.
-
-
-
-
-**Other persons**
-
-**49** All other persons that the Board considers necessary for it to employ are to be appointed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-
-
-
-**Experts and advisers**
-
-**50** 
-
-- **(1)** The Chairperson may engage on a temporary basis the services of mediators and other experts or persons having technical or special knowledge to assist the Board in an advisory capacity and, subject to the approval of the Governor in Council, fix their remuneration.
-
-**Non-application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
-
-- **(2)** A person engaged under subsection (1) is not to be considered as being employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) by reason only of being so engaged.
-
-
-
-
-#### Judicial Review and Enforcement of Orders
-
-
-
-**Orders not to be reviewed by court**
-
-**51** 
-
-- **(1)** Subject to this Part, every order or decision of the Board is final and may not be questioned or reviewed in any court, except in accordance with the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on the grounds referred to in paragraph 18.1(4)(a), (b) or (e) of that Act.
-
-**Standing of Board**
-
-- **(2)** The Board has standing to appear in proceedings referred to in subsection (1) for the purpose of making submissions regarding the standard of review to be used with respect to decisions of the Board and the Board’s jurisdiction, policies and procedures.
-
-**No review by certiorari, etc.**
-
-- **(3)** Except as permitted by subsection (1), no order, decision or proceeding of the Board made or carried on under or purporting to be made or carried on under this Part may, on any ground, including the ground that the order, decision or proceeding is beyond the jurisdiction of the Board to make or carry on or that, in the course of any proceeding, the Board for any reason exceeded or lost its jurisdiction,
-	- **(a)** be questioned, reviewed, prohibited or restrained; or
-	- **(b)** be made the subject of any proceedings in or any process of any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise.
-> 2003, c. 22, ss. 2 “51”, 274.
-
-
-
-
-
-**Filing of Board’s orders in Federal Court**
-
-**52** 
-
-- **(1)** The Board must, on the request in writing of any person or organization affected by any order of the Board, file a certified copy of the order, exclusive of the reasons for the order, in the Federal Court, unless, in its opinion,
-	- **(a)** there is no indication of failure or likelihood of failure to comply with the order; or
-	- **(b)** there is other good reason why the filing of the order in the Federal Court would serve no useful purpose.
-
-**Effect of filing**
-
-- **(2)** An order of the Board becomes an order of the Federal Court when a certified copy of the order is filed in that court, and it may subsequently be enforced as such.
+**52** [Repealed, 2013, c. 40, s. 370, as amended by 2013, c. 40, s. 467]
 
 
 
@@ -1920,11 +1673,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **147** 
 
-- **(1)** The arbitration board has all the powers of the Board set out in paragraphs 40(1)(a), (d), (e) and (h) to (j).
+- **(1)** The arbitration board has all the powers of the Board set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(a) and (d) to (f) of the Public Service Labour Relations and Employment Board Act.
 
 **Delegation**
 
-- **(2)** The arbitration board may authorize any person to exercise any of its powers set out in paragraphs 40(1)(d), (e), (i) and (j) and require that person to report to it on the exercise of those powers.
+- **(2)** The arbitration board may authorize any person to exercise any of its powers set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(d) and (e) of the Public Service Labour Relations and Employment Board Act, and require that person to report to it on the exercise of those powers.
+> 2003, c. 22, s. 2 "147"; 2013, c. 40, s. 371.
+
 
 
 
@@ -2349,11 +2104,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **174** 
 
-- **(1)** The public interest commission has all the powers of the Board set out in paragraphs 40(1)(a), (d), (e) and (h) to (j).
+- **(1)** The public interest commission has all the powers of the Board set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(a) and (d) to (f) of the Public Service Labour Relations and Employment Board Act.
 
 **Delegation**
 
-- **(2)** The public interest commission may authorize any person to exercise any of its powers set out in paragraphs 40(1)(d), (e), (i) and (j) and require that person to report to it on the exercise of those powers.
+- **(2)** The public interest commission may authorize any person to exercise any of its powers set out in paragraphs 16(c) and (d) of this Act and paragraphs 20(d) and (e) of the Public Service Labour Relations and Employment Board Act, and require that person to report to it on the exercise of those powers.
+> 2003, c. 22, s. 2 "174"; 2013, c. 40, s. 372.
+
 
 
 
@@ -2957,7 +2714,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Part.
 
-***employee*** has the meaning that would be assigned by the definition ***employee*** in subsection 2(1) if that definition were read without reference to paragraphs (e) and (i) and without reference to the words “except in Part 2”.
+***employee*** has the meaning that would be assigned by the definition ***employee*** in subsection 2(1) if that definition were read without reference to paragraphs (e), (h) and (i) and without reference to the words “except in Part 2”.
 
 ***group grievance*** means a grievance presented in accordance with section 215.
 
@@ -2970,6 +2727,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** Every reference in this Part to an ***employee*** includes a former employee for the purposes of any provisions of this Part respecting grievances with respect to
 	- **(a)** any disciplinary action resulting in suspension, or any termination of employment, under paragraph 12(1)(c), (d) or (e) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 	- **(b)** in the case of a separate agency, any disciplinary action resulting in suspension, or any termination of employment, under paragraph 12(2)(c) or (d) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or under any provision of any Act of Parliament, or any regulation, order or other instrument made under the authority of an Act of Parliament, respecting the powers or functions of the separate agency.
+> 2003, c. 22, s. 2 "206"; 2014, c. 20, s. 481.
+
 
 
 
@@ -3256,7 +3015,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-#### Referral by Chairperson
+#### Notice to Board
 
 
 
@@ -3264,19 +3023,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **223** 
 
-- **(1)** A party who refers a grievance to adjudication must, in accordance with the regulations, give notice of the reference to the Board and specify in the notice whether an adjudicator is named in any applicable collective agreement or has otherwise been selected by the parties and, if no adjudicator is so named or has been selected, whether the party requests the establishment of a board of adjudication.
+- **(1)** A party who refers a grievance to adjudication must, in accordance with the regulations, give notice of the reference to the Board.
 
 **Action to be taken by Chairperson**
 
-- **(2)** On receipt of the notice by the Board, the Chairperson must
+- **(2)** If the party specifies in the notice that an adjudicator is named in an applicable collective agreement, that an adjudicator has otherwise been selected by the parties or, if no adjudicator is so named or has been selected, that the party requests the establishment of a board of adjudication, then the Chairperson must, on receipt of the notice by the Board,
 	- **(a)** if the grievance is one arising out of a collective agreement and an adjudicator is named in the agreement, refer the matter to the adjudicator;
-	- **(b)** if the parties have selected an adjudicator, refer the matter to the adjudicator;
-	- **(c)** if a board of adjudication has been requested and the other party has not objected in the time provided for in the regulations, establish the board and refer the matter to it; and
-	- **(d)** in any other case, refer the matter to an adjudicator designated by the Chairperson from amongst the members of the Board.
+	- **(b)** if the parties have selected an adjudicator, refer the matter to the adjudicator; and
+	- **(c)** if a board of adjudication has been requested and the other party has not objected in the time provided for in the regulations, establish the board and refer the matter to it.
+
+**Board seized of grievance**
+
+- **(2.1)** If the notice does not specify any of the things described in subsection (2), or if a board of adjudication has been requested and the other party has objected in the time provided for in the regulations, the Board is seized of the grievance.
 
 **Conference**
 
 - **(3)** The Chairperson may, at any time after receipt of the notice, direct the parties to attend a conference in order to attempt to settle or simplify the issues in dispute.
+> 2003, c. 22, s. 2 “223”; 2013, c. 40, s. 374.
+
 
 
 
@@ -3304,7 +3068,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Compliance with procedures**
 
-**225** No grievance may be referred to adjudication, and no adjudicator may hear or render a decision on a grievance, until the grievance has been presented at all required levels in accordance with the applicable grievance process.
+**225** No grievance may be referred to adjudication until the grievance has been presented at all required levels in accordance with the applicable grievance process.
+> 2003, c. 22, s. 2 “225”; 2013, c. 40, s. 375.
+
 
 
 
@@ -3313,37 +3079,29 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Powers**
+**Powers of adjudicator**
 
 **226** 
 
-- **(1)** An adjudicator may, in relation to any matter referred to adjudication,
-	- **(a)** summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath in the same manner as a superior court of record;
-	- **(b)** order that a hearing or a pre-hearing conference be conducted using a means of telecommunication that permits the parties and the adjudicator to communicate with each other simultaneously;
-	- **(c)** administer oaths and solemn affirmations;
-	- **(d)** accept any evidence, whether admissible in a court of law or not;
-	- **(e)** compel, at any stage of a proceeding, any person to produce the documents and things that may be relevant;
-	- **(f)** subject to any limitations that the Governor in Council may establish in the interests of defence or security, enter any premises of the employer where work is being or has been done by employees, inspect and view any work, material, machinery, appliance or article in the premises and require any person in the premises to answer all questions relating to the matter being adjudicated;
-	- **(g)** interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) and any other Act of Parliament relating to employment matters, other than the provisions of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) related to the right to equal pay for work of equal value, whether or not there is a conflict between the Act being interpreted and applied and the collective agreement, if any;
-	- **(h)** give relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md);
-	- **(i)** award interest in the case of grievances involving termination, demotion, suspension or financial penalty at a rate and for a period that the adjudicator considers appropriate; and
-	- **(j)** summarily dismiss grievances that in the opinion of the adjudicator are frivolous or vexatious.
+- **(1)** An adjudicator may, in relation to any matter referred to adjudication, exercise any of the powers set out in paragraph 16(d) of this Act and sections 20 to 23 of the Public Service Labour Relations and Employment Board Act.
 
-**Power to mediate**
+**Powers of adjudicator and Board**
 
-- **(2)** At any stage of a proceeding before an adjudicator, the adjudicator may, if the parties agree, assist the parties in resolving the difference at issue without prejudice to the power of the adjudicator to continue the adjudication with respect to the issues that have not been resolved.
+- **(2)** An adjudicator or the Board may, in relation to any matter referred to adjudication,
+	- **(a)** interpret and apply the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) and any other Act of Parliament relating to employment matters, other than the provisions of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md) that are related to the right to equal pay for work of equal value, whether or not there is a conflict between the Act being interpreted and applied and the collective agreement, if any;
+	- **(b)** give relief in accordance with paragraph 53(2)(e) or subsection 53(3) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md); and
+	- **(c)** award interest in the case of grievances involving termination, demotion, suspension or financial penalty at a rate and for a period that the adjudicator or the Board, as the case may be, considers appropriate.
+> 2003, c. 22, s. 2 "226"; 2013, c. 40, s. 376.
 
 
 
 
-**Determination without oral hearing**
-
-**227** An adjudicator may decide any matter referred to adjudication without holding an oral hearing.
+**227** [Repealed, 2013, c. 40, s. 376]
 
 
 
 
-#### Decision of Adjudicator
+#### Decision
 
 
 
@@ -3351,13 +3109,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **228** 
 
-- **(1)** If a grievance is referred to adjudication, the adjudicator must give both parties to the grievance an opportunity to be heard.
+- **(1)** If a grievance is referred to adjudication, the adjudicator or the Board, as the case may be, must give both parties to the grievance an opportunity to be heard.
 
 **Decision on grievance**
 
-- **(2)** After considering the grievance, the adjudicator must render a decision and make the order that he or she considers appropriate in the circumstances. The adjudicator must then
-	- **(a)** send a copy of the order and, if there are written reasons for the decision, a copy of the reasons, to each party, to the representative of each party and to the bargaining agent, if any, for the bargaining unit to which the employee whose grievance it is belongs; and
-	- **(b)** deposit a copy of the order and, if there are written reasons for the decision, a copy of the reasons, with the Executive Director of the Board.
+- **(2)** After considering the grievance, the adjudicator or the Board, as the case may be, must render a decision, make the order that the adjudicator or the Board consider appropriate in the circumstances, and then send a copy of the order  —  and, if there are written reasons for the decision, a copy of the reasons  —  to each party, to the representative of each party and to the bargaining agent, if any, for the bargaining unit to which the employee whose grievance it is belongs. The adjudicator must also deposit a copy of the order and, if there are written reasons for the decision, a copy of the reasons, with the Chairperson.
 
 **Decision of board of adjudication**
 
@@ -3366,59 +3122,79 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Decision where majority cannot agree**
 
 - **(4)** If a majority of members of the board of adjudication cannot agree on the making of a decision, the decision of the chairperson of the board is deemed to be the decision of the board.
+> 2003, c. 22, s. 2 “228”; 2013, c. 40, s. 378.
+
 
 
 
 
 **Decision requiring amendment**
 
-**229** An adjudicator’s decision may not have the effect of requiring the amendment of a collective agreement or an arbitral award.
+**229** An adjudicator’s or the Board’s decision may not have the effect of requiring the amendment of a collective agreement or an arbitral award.
+> 2003, c. 22, s. 2 “229”; 2013, c. 40, s. 379.
+
 
 
 
 
 **Determination of reasonableness of opinion**
 
-**230** In the case of an employee in the core public administration or an employee of a separate agency designated under subsection 209(3), in making a decision in respect of an employee’s individual grievance relating to a termination of employment or demotion for unsatisfactory performance, an adjudicator must determine the termination or demotion to have been for cause if the opinion of the deputy head that the employee’s performance was unsatisfactory is determined by the adjudicator to have been reasonable.
+**230** In the case of an employee in the core public administration or an employee of a separate agency designated under subsection 209(3), in making a decision in respect of an employee’s individual grievance relating to a termination of employment or demotion for unsatisfactory performance, an adjudicator or the Board, as the case may be, must determine the termination or demotion to have been for cause if the opinion of the deputy head that the employee’s performance was unsatisfactory is determined by the adjudicator or the Board to have been reasonable.
+> 2003, c. 22, s. 2 “230”; 2013, c. 40, s. 379.
+
 
 
 
 
 **Determination of consent requirement**
 
-**231** An adjudicator seized of a grievance referred to in subparagraph 209(1)(c)(ii) may determine any question relating to whether
+**231** An adjudicator or the Board, when seized of a grievance referred to in subparagraph 209(1)(c)(ii), may determine any question relating to whether
 - **(a)** consent to being deployed was a condition of the employee’s employment; or
 - **(b)** the employee harassed another person in the course of the employee’s employment.
+> 2003, c. 22, s. 2 “231”; 2013, c. 40, s. 380.
+
 
 
 
 
 **Decision in respect of certain policy grievances**
 
-**232** If a policy grievance relates to a matter that was or could have been the subject of an individual grievance or a group grievance, an adjudicator’s decision in respect of the policy grievance is limited to one or more of the following:
+**232** If a policy grievance relates to a matter that was or could have been the subject of an individual grievance or a group grievance, an adjudicator’s or the Board’s decision in respect of the policy grievance is limited to one or more of the following:
 - **(a)** declaring the correct interpretation, application or administration of a collective agreement or an arbitral award;
 - **(b)** declaring that the collective agreement or arbitral award has been contravened; and
 - **(c)** requiring the employer or bargaining agent, as the case may be, to interpret, apply or administer the collective agreement or arbitral award in a specified manner.
+> 2003, c. 22, s. 2 “232”; 2013, c. 40, s. 381.
 
 
 
 
-**Decisions not to be reviewed by court**
 
-**233** 
+**No review by court**
 
-- **(1)** Every decision of an adjudicator is final and may not be questioned or reviewed in any court.
+**233** Subsections 34(1) and (3) of the Public Service Labour Relations and Employment Board Act apply, with any necessary modifications, to an adjudicator’s orders and decisions.
+> 2003, c. 22, s. 2 "233"; 2013, c. 40, s. 382.
 
-**No review by certiorari, etc.**
-
-- **(2)** No order may be made, process entered or proceeding taken in any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise, to question, review, prohibit or restrain an adjudicator in any of the adjudicator’s proceedings under this Part.
 
 
 
 
 **Filing of order in Federal Court**
 
-**234** For the purpose of enforcing an adjudicator’s order, any person who was a party to the proceedings that resulted in the order being made may, after the day provided in the order for compliance or, if no such day is provided for, after 30 days have elapsed since the day the order was made, file in the Federal Court a copy of the order that is certified to be a true copy, and an order so filed becomes an order of that Court and may be enforced as such.
+**234** 
+
+- **(1)** The Board must, on the request in writing of any person who was a party to the proceedings that resulted in an order of an adjudicator or the Board, as the case may be, file a certified copy of the order, exclusive of the reasons for it, in the Federal Court, unless, in the opinion of the Board,
+	- **(a)** there is no indication, or likelihood, of failure to comply with the order; or
+	- **(b)** there is another good reason why the filing of the order in the Federal Court would serve no useful purpose.
+
+**Non-application**
+
+- **(2)** Section 35 of the Public Service Labour Relations and Employment Board Act does not apply to an order of the Board referred to in subsection (1).
+
+**Effect of filing**
+
+- **(3)** An order of an adjudicator or the Board becomes an order of the Federal Court when a certified copy of it is filed in that court, and it may subsequently be enforced as such.
+> 2003, c. 22, s. 2 "234"; 2013, c. 40, s. 382.
+
 
 
 
@@ -3435,11 +3211,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Aggrieved employee represented by agent**
 
-- **(2)** If an aggrieved employee is represented in the adjudication by a bargaining agent, the bargaining agent is liable to pay and must remit to the Board any part of the costs of the adjudication that may be determined by the Executive Director of the Board with the approval of the Board.
+- **(2)** If an aggrieved employee is represented in the adjudication by a bargaining agent, the bargaining agent is liable to pay and must remit to the Board any part of the costs of the adjudication that may be determined by the Chairperson with the Board’s approval.
 
 **Recovery**
 
 - **(3)** Any amount that by subsection (2) is payable to the Board by a bargaining agent may be recovered as a debt due to Her Majesty in right of Canada. The bargaining agent is deemed to be a person for the purposes of this subsection.
+> 2003, c. 22, s. 2 “235”; 2013, c. 40, s. 383.
+
 
 
 
@@ -3525,12 +3303,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **240** Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) applies to and in respect of the public service and persons employed in it as if the public service were a federal work, undertaking or business referred to in that Part except that, for the purpose of that application,
 - **(a)** any reference in that Part to
 	- **(i)** “arbitration” is to be read as a reference to adjudication under Part 2,
-	- **(ii)** the “Board” is to be read as a reference to the Public Service Labour Relations Board,
+	- **(ii)** the “Board” is to be read as a reference to the Public Service Labour Relations and Employment Board,
 	- **(iii)** a “collective agreement” is to be read as a reference to a collective agreement within the meaning of subsection 2(1),
 	- **(iv)** “employee” is to be read as a reference to a person employed in the public service, and
 	- **(v)** a “trade union” is to be read as a reference to an employee organization within the meaning of subsection 2(1);
-- **(b)** section 156 of that Act does not apply in respect of the Public Service Labour Relations Board; and
-- **(c)** the provisions of this Act apply, with any modifications that the circumstances require, in respect of matters brought before the Public Service Labour Relations Board.
+- **(b)** section 156 of that Act does not apply in respect of the Public Service Labour Relations and Employment Board; and
+- **(c)** the provisions of this Act apply, with any necessary modifications, in respect of matters brought before the Public Service Labour Relations and Employment Board.
+> 2003, c. 22, s. 2 "240"; 2013, c. 40, s. 384.
+
 
 
 
@@ -3576,7 +3356,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Evidence respecting information obtained**
 
-**243** Members of the Board, members of arbitration boards, members of public interest commissions, mediators, adjudicators, persons seized of referrals under subsection 182(1), persons employed by the Board and persons engaged under subsection 50(1) are not required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of functions under this Act.
+**243** Members of arbitration boards, members of public interest commissions, mediators, adjudicators and persons seized of referrals under subsection 182(1) are not competent or compellable to appear as witnesses in any civil action, suit or other proceeding respecting information obtained in the discharge of their functions under this Act.
+> 2003, c. 22, s. 2 “243”; 2013, c. 40, s. 385.
+
 
 
 
@@ -3584,16 +3366,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **No disclosure of notes and drafts**
 
 **244** The following may not be disclosed without the consent of the person who made them:
-- **(a)** notes or draft orders or decisions of the Board or any of its members or of an adjudicator;
+- **(a)** notes or draft orders or decisions of an adjudicator;
 - **(b)** notes or draft reports of a mediator, a public interest commission or a person authorized or designated by the Board to assist in resolving a complaint or issue in dispute before the Board; and
 - **(c)** notes or a draft arbitral award of an arbitration board.
+> 2003, c. 22, s. 2 “244”; 2013, c. 40, s. 386.
+
 
 
 
 
 **Criminal or civil proceedings**
 
-**245** No criminal or civil proceedings lie against a member of the Board, a member of an arbitration board, a member of a public interest commission, a mediator, an adjudicator, a person seized of a referral under subsection 182(1), a person employed by the Board or a person engaged under subsection 50(1) for anything done, reported or said in good faith in the course of the exercise or performance or purported exercise or performance of any power, duty or function under this Act.
+**245** No criminal or civil proceedings lie against a member of an arbitration board, a member of a public interest commission, a mediator, an adjudicator or a person seized of a referral under subsection 182(1) for anything done  —  or omitted to be done  —  or reported or said in good faith in the course of the exercise or performance or purported exercise or performance of any power, duty or function under this Act.
+> 2003, c. 22, s. 2 “245”; 2013, c. 40, s. 387.
+
 
 
 
@@ -3638,7 +3424,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Payment of witness fees**
 
-**248** A person who is summoned by the Board, an arbitration board, a public interest commission or an adjudicator to attend as a witness at any proceeding under this Act is entitled to receive fees and allowances for so attending equal to those to which the person would be entitled if summoned to attend before the Federal Court.
+**248** A person who is summoned by an arbitration board, a public interest commission or an adjudicator to attend as a witness at any proceeding under this Act is entitled to receive fees and allowances for so attending that are equal to those to which the person would be entitled if summoned to attend before the Federal Court.
+> 2003, c. 22, s. 2 “248”; 2013, c. 40, s. 389.
+
 
 
 
@@ -3649,7 +3437,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Facilities and human resources**
 
-**249** The Board must provide members of arbitration boards, members of public interest commissions, mediators, adjudicators and persons seized of referrals under subsection 182(1) with the facilities and human resources that it considers necessary to enable them to carry out their functions under this Act.
+**249** The Chief Administrator of the Administrative Tribunals Support Service of Canada must provide members of arbitration boards, members of public interest commissions, mediators, adjudicators and persons seized of referrals under subsection 182(1) with the facilities and human resources necessary to enable them to carry out their functions under this Act.
+> 2003, c. 22, s. 2 “249”; 2014, c. 20, s. 481.
+
 
 
 
@@ -3670,20 +3460,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-### Annual Report
-
-
-
-**Obligation to prepare**
-
-**251** 
-
-- **(1)** As soon as possible after the end of each fiscal year, the Board must prepare and submit to the Minister a report on the administration of this Act during the year.
-
-**Tabling in Parliament**
-
-- **(2)** The Minister must cause the report to be tabled in each House of Parliament within the first 15 days on which that House is sitting after he or she receives it.
+**251** [Repealed, 2013, c. 40, s. 390]
 
 
 
