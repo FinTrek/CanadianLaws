@@ -637,9 +637,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 - **(6)** Les membres ont droit aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de leur résidence habituelle, des fonctions qui leur sont confiées en application de la présente loi et prévus au paragraphe 48.6(2) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
 
-**Experts**
-
-- **(7)** Le président peut engager des experts pour aider et conseiller le tribunal et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
+- **(7)** [Abrogé, 2014, ch. 20, art. 463]
 
 **Services de l’administration publique fédérale**
 
@@ -652,7 +650,7 @@ La présente définition vise également les personnes dont les limitations fonc
 **Respect des normes de sécurité**
 
 - **(10)** Les membres du tribunal et les personnes agissant au nom du tribunal ou sous son autorité qui sont appelés à recevoir ou à recueillir des renseignements dans le cadre des demandes visées au paragraphe (1) doivent, quant à l’accès à ces renseignements et à leur utilisation, respecter les normes de sécurité applicables et prêter les serments imposés à leurs usagers habituels.
-> 1995, ch. 44, art. 28; 1998, ch. 9, art. 39.
+> 1995, ch. 44, art. 28; 1998, ch. 9, art. 39; 2014, ch. 20, art. 463.
 
 
 
