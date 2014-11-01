@@ -312,20 +312,7 @@
 ### Administration du Tribunal
 
 
-
-**Greffe**
-
-**14** 
-
-- **(1)** Le greffe du Tribunal se compose d’un bureau situé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-**Personnel**
-
-- **(2)** La nomination du personnel nécessaire au fonctionnement du Tribunal se fait conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Organisation**
-
-- **(3)** Le personnel du Tribunal de même que le fonctionnement de ses bureaux sont régis selon ce que prévoient les règles.
+**14** [Abrogé, 2014, ch. 20, art. 447]
 
 
 
@@ -345,9 +332,9 @@
 
 **16** 
 
-- **(1)** Sous réserve de l’approbation du gouverneur en conseil, le Tribunal peut établir des règles d’application générale qui ne sont pas incompatibles avec la présente partie ou avec la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) :
+- **(1)** Sous réserve de l’approbation du gouverneur en conseil, le Tribunal peut établir des règles d’application générale qui ne sont pas incompatibles avec la présente partie ou avec la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) :
 	- **a)** afin de régir la pratique et la procédure devant lui;
-	- **b)** concernant l’accomplissement de ses travaux, la gestion de ses affaires internes et les responsabilités de son personnel.
+	- **b)** concernant l’accomplissement de ses travaux et la gestion de ses affaires internes.
 
 **Prise d’effet**
 
@@ -360,6 +347,8 @@
 **Quorum**
 
 - **(4)** Pour l’établissement des règles prévues au présent article, le quorum est constitué par cinq membres dont au moins trois sont des juges.
+> L.R. (1985), ch. 19 (2<sup>e</sup> suppl.), art. 16; 2014, ch. 20, art. 448.
+
 
 
 
