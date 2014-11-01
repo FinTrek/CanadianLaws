@@ -8,7 +8,7 @@
 Sanctionnée sur le 19 juin 2014
 
 ```
-[Édictée par l’article 376 du chapitre 20 des Lois du Canada (2014), non en vigueur.]
+[Édictée par l’article 376 du chapitre 20 des Lois du Canada (2014), en vigueur le 1<sup>er</sup> novembre 2014, voir TR/2014-83.]
 ```
 ----------
 
@@ -40,13 +40,13 @@ Sanctionnée sur le 19 juin 2014
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur en chef*** L’administrateur en chef du Service, nommé au titre du paragraphe 5(1).
+***administrateur en chef*** L’administrateur en chef du Service, nommé au titre du paragraphe 5(1). (*Chief Administrator*)
 
-***ministre*** Le ministre de la Justice.
+***ministre*** Le ministre de la Justice. (*Minister*)
 
-***Service*** Le Service canadien d’appui aux tribunaux administratifs constitué par l’article 3.
+***Service*** Le Service canadien d’appui aux tribunaux administratifs constitué par l’article 3. (*Service*)
 
-***tribunal administratif*** Tout organisme énuméré à l’annexe.
+***tribunal administratif*** Tout organisme énuméré à l’annexe. (*administrative tribunal*)
 
 
 
@@ -221,6 +221,8 @@ Commission canadienne d’examen des exportations de biens culturels<br />- <i>C
 
 Commission de révision<br />- <i>Review Tribunal</i>
 
+Commission des relations de travail et de l’emploi dans la fonction publique<br />- <i>Public Service Labour Relations and Employment Board</i>
+
 Conseil canadien des relations industrielles<br />- <i>Canada Industrial Relations Board</i>
 
 Tribunal canadien des droits de la personne<br />- <i>Canadian Human Rights Tribunal</i>
@@ -236,4 +238,6 @@ Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensi
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des revendications particulières<br />- <i>Specific Claims Tribunal</i>
+> 2014, ch. 20, art. 376 « ann. » et 481.
+
 
