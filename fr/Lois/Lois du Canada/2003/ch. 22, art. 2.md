@@ -67,11 +67,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation.
 
-***arbitre de grief*** Commissaire chargé d’entendre et de régler un grief renvoyé à l’arbitrage en vertu du paragraphe 209(1) ou des articles 216 ou 221 ou, selon le contexte, le conseil d’arbitrage de grief institué en vertu de l’alinéa 223(2)c) ou la personne soit ainsi désignée dans une convention collective, soit choisie d’une autre façon en cette qualité par les parties.
+***arbitre de grief*** La personne ou le conseil d’arbitrage de grief à qui est renvoyé un grief en application des alinéas 223(2)a), b) ou c). 
 
 ***commissaire*** Membre à temps plein ou à temps partiel de la Commission.
 
-***Commission*** La Commission des relations de travail dans la fonction publique, créée par l’article 12.
+***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 ***conseil d’arbitrage*** Conseil établi en application de la section 9 de la partie 1.
 
@@ -95,7 +95,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** employée par le Service canadien du renseignement de sécurité et n’exerçant pas des fonctions de commis ou de secrétaire;
 - **f)** employée à titre occasionnel;
 - **g)** employée pour une durée déterminée de moins de trois mois ou ayant travaillé à ce titre pendant moins de trois mois;
-- **h)** employée par la Commission;
+- **h)** qui est membre du personnel du Service canadien d’appui aux tribunaux administratifs et fournit, exclusivement à la Commission, l’un ou l’autre des services suivants :
+	- **(i)** des services de médiation ou de résolution de conflits,
+	- **(ii)** des services juridiques,
+	- **(iii)** des conseils portant sur l’exercice des attributions de celle-ci;
 - **i)** occupant un poste de direction ou de confiance;
 - **j)** employée dans le cadre d’un programme désigné par l’employeur comme un programme d’embauche des étudiants.
 
@@ -129,7 +132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(3)** Il est entendu que n’est pas considérée comme un fonctionnaire :
-	- **a)** la personne dont les services sont retenus au titre du paragraphe 50(1);
+	- **a)** la personne dont les services sont retenus en vertu de l’article 30 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique;
 	- **b)** la personne dont la rétribution pour l’exercice des fonctions normales de son poste ou de sa charge consiste en honoraires ou dépend des recettes du bureau où elle est employée.
 
 **Emploi à titre occasionnel**
@@ -139,7 +142,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention des titulaires des postes**
 
 - **(5)** La mention du titulaire d’un poste — ainsi que toute mention équivalente — vaut également mention de l’intérimaire ou de toute autre personne qui assume la totalité ou l’essentiel des attributions du poste; de même, la mention d’un poste vaut mention du poste occupé par une telle personne.
-> 2003, ch. 22, art. 2 « 2 » et 243.
+> 2003, ch. 22, art. 2 « 2 » et 243; 2013, ch. 40, art. 366; 2014, ch. 20, art. 472 et 481.
 
 
 
@@ -247,35 +250,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conseil national mixte**
 
-**11** L’employeur et l’agent négociateur peuvent travailler à l’amélioration conjointe du milieu de travail sous l’égide du Conseil national mixte ou de tout autre organisme dont ils conviennent.
+**11** 
+
+- **(1)** L’employeur et l’agent négociateur peuvent travailler à l’amélioration conjointe du milieu de travail sous l’égide du Conseil national mixte ou de tout autre organisme dont ils conviennent.
+
+**Installations et soutien administratif**
+
+- **(2)** L’administrateur en chef du Service canadien d’appui aux tribunaux administratifs fournit des installations et des services de soutien administratif au Conseil national mixte.
+> 2003, ch. 22, art. 2 « 11 »; 2014, ch. 20, art. 481.
+
 
 
 
 
 **SECTION 4** 
-### Commission des relations de travail dans la fonction publique
+### Commission des relations de travail et de l’emploi dans la fonction publique
 
 
 
-#### Création et composition
+**Attributions de la Commission**
 
-
-
-**Création de la Commission**
-
-**12** Est créée la Commission des relations de travail dans la fonction publique composée du président, d’au plus trois vice-présidents et des autres commissaires nommés par le gouverneur en conseil.
-
-
-
-
-#### Mission
-
-
-
-**Mission**
-
-**13** La Commission est chargée de la prestation de services en matière d’arbitrage et de médiation en conformité avec la présente loi.
-> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295.
+**12** La Commission met en oeuvre la présente loi et exerce les attributions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui en exigent l’observation, celle des règlements pris sous son régime ou des décisions qu’elle rend sur les questions dont elle est saisie.
+> 2003, ch. 22, art. 2 « 12 »; 2013, ch. 40, art. 367.
 
 
 
@@ -283,264 +279,129 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Services d’arbitrage**
 
-**14** Les services d’arbitrage offerts par la Commission comprennent l’audition des demandes et des plaintes au titre de la présente partie, le renvoi des griefs à l’arbitrage au titre de la partie 2 ainsi que l’instruction des affaires dont la Commission est saisie au titre de la partie 3.
+**13** La Commission offre des services d’arbitrage comprenant l’audition des demandes et des plaintes au titre de la présente partie, le renvoi des griefs à l’arbitrage au titre de la partie 2 ainsi que l’instruction des affaires dont elle est saisie au titre de la partie 3.
+> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295 et 367.
+
 
 
 
 
 **Services de médiation**
 
-**15** Les services de médiation offerts par la Commission comprennent :
+**14** La Commission offre des services de médiation comprenant :
 - **a)** l’appui apporté aux parties dans le cadre de la négociation et du renouvellement des conventions collectives;
 - **b)** l’appui apporté aux parties dans le cadre de la gestion des relations qui découlent de leur mise en oeuvre;
 - **c)** la médiation relative aux griefs;
 - **d)** l’appui apporté au président dans le cadre de l’exercice des fonctions que lui confère la présente loi.
+> 2003, ch. 22, art. 2 « 14 »; 2013, ch. 40, art. 367.
 
 
 
-**16** [Abrogé, 2013, ch. 40, art. 296]
 
+**15** [Abrogé, 2014, ch. 20, art. 481]
 
 
 
-**Conseil national mixte**
 
-**17** La Commission a également pour mandat de fournir des installations et des services de soutien administratif au Conseil national mixte.
+**Pouvoirs de la Commission**
 
+**16** Dans le cadre de toute affaire dont elle est saisie, la Commission peut :
+- **a)** examiner les éléments de preuve qui lui sont présentés sur l’adhésion des fonctionnaires à l’organisation syndicale sollicitant l’accréditation et, dans le cas d’un regroupement d’organisations syndicales sollicitant l’accréditation, à toute organisation syndicale membre du regroupement;
+- **b)** examiner les documents constitutifs ou les statuts de l’organisation syndicale sollicitant l’accréditation et, dans le cas d’un regroupement d’organisations syndicales sollicitant l’accréditation, de toute organisation syndicale membre du regroupement, ainsi que tout document connexe;
+- **c)** exiger de l’employeur qu’il affiche et maintienne affichés aux endroits appropriés les avis qu’elle estime nécessaire de porter à l’attention des fonctionnaires au sujet de toute question ou affaire dont elle est saisie;
+- **d)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout ouvrage, matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’elle lui pose relativement à l’affaire dont elle est saisie;
+- **e)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans les locaux ou sur des terrains de l’employeur pour y tenir des scrutins de représentation pendant les heures de travail;
+- **f)** déléguer à quiconque les pouvoirs qu’elle détient en vertu des alinéas a) à e) et exiger éventuellement un rapport sur l’exercice de ces pouvoirs.
+> 2003, ch. 22, art. 2 « 16 »; 2013, ch. 40, art. 296 et 367.
 
 
 
-#### Nomination des commissaires
 
+**17** [Abrogé, 2013, ch. 40, art. 367]
 
 
-**Qualités requises**
 
-**18** 
+**18** [Abrogé, 2013, ch. 40, art. 367]
 
-- **(1)** Pour être admissible à la charge de commissaire, il faut :
-	- **a)** être citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-	- **b)** ne pas occuper une autre charge ou un autre emploi relevant de l’employeur;
-	- **c)** ne pas adhérer à une organisation syndicale accréditée à titre d’agent négociateur, ni occuper une charge ou un emploi relevant d’une telle organisation;
-	- **d)** ne pas accepter de charge ou d’emploi — ni exercer d’activité — incompatibles avec leurs fonctions;
-	- **e)** avoir de l’expérience ou des connaissances en matière de relations de travail.
 
-**Compatibilité**
 
-- **(2)** Malgré l’alinéa (1)b), le seul fait d’être membre d’un organisme ou d’une commission constitué par la Législature du Yukon, la Législature des Territoires du Nord-Ouest ou la Législature du Nunavut, et d’être doté de pouvoirs et fonctions semblables à ceux de la Commission n’est pas incompatible avec la charge de commissaire.
-> 2003, ch. 22, art. 2 « 18 » et 273; 2014, ch. 2, art. 54.
+**19** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
+**20** [Abrogé, 2013, ch. 40, art. 367]
 
 
-**Établissement d’une liste de candidats commissaires par le président**
 
-**19** 
+**21** [Abrogé, 2013, ch. 40, art. 367]
 
-- **(1)** Les commissaires, à l’exception du président et des vice-présidents, sont choisis parmi les personnes dont les noms figurent sur une liste dressée par le président après consultation de l’employeur et des agents négociateurs.
 
-**Contenu de la liste**
 
-- **(2)** La liste contient :
-	- **a)** les noms des personnes admissibles recommandées au président par l’employeur;
-	- **b)** les noms des personnes admissibles recommandées au président par les agents négociateurs;
-	- **c)** les noms d’autres personnes admissibles que le président estime compétentes.
+**22** [Abrogé, 2013, ch. 40, art. 367]
 
-**Nombre égal**
 
-- **(3)** Les commissaires, à l’exception du président et des vice-présidents, sont nommés de façon à ce que, dans la mesure du possible, un nombre égal de ceux-ci soit, d’une part, des personnes dont la nomination a été recommandée par l’employeur et, d’autre part, des personnes dont la nomination a été recommandée par les agents négociateurs.
 
-**Impartialité**
+**23** [Abrogé, 2013, ch. 40, art. 367]
 
-- **(4)** Malgré son éventuelle nomination sur recommandation de l’employeur ou des agents négociateurs, le commissaire ne représente ni l’employeur ni les fonctionnaires et est tenu d’agir avec impartialité dans l’exercice de ses attributions.
 
 
+**24** [Abrogé, 2013, ch. 40, art. 367]
 
 
-**Exercice des fonctions**
 
-**20** Le président et les vice-présidents exercent leurs fonctions à temps plein, et les autres commissaires soit à temps plein, soit à temps partiel.
+**25** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
+**26** [Abrogé, 2013, ch. 40, art. 367]
 
-**Résidence des membres à temps plein**
 
-**21** Les membres à temps plein résident dans la région de la capitale nationale délimitée à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md) ou dans la périphérie de cette région définie par le gouverneur en conseil.
 
+**27** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
-**Inamovibilité**
+**28** [Abrogé, 2013, ch. 40, art. 367]
 
-**22** 
 
-- **(1)** Les commissaires sont nommés à titre inamovible, sous réserve de révocation motivée par le gouverneur en conseil.
 
-**Durée du mandat**
+**29** [Abrogé, 2013, ch. 40, art. 367]
 
-- **(2)** Les commissaires sont nommés pour un mandat d’au plus cinq ans.
 
-**Renouvellement de mandat**
 
-- **(3)** Le mandat des commissaires peut être reconduit.
+**30** [Abrogé, 2013, ch. 40, art. 367]
 
-**Conclusion des affaires en cours**
 
-- **(4)** Le commissaire qui, pour tout motif autre que la révocation, cesse de faire partie de la Commission peut, sur demande du président et dans un délai de huit semaines après la cessation de ses fonctions, s’acquitter intégralement des fonctions ou des responsabilités qui auraient été alors les siennes en ce qui concerne toute affaire soumise à la Commission avant qu’il ne cesse d’y siéger et ayant déjà fait l’objet d’une procédure à laquelle il a participé en sa qualité de membre. Il est alors réputé être un commissaire à temps partiel.
 
+**31** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
-#### Rémunération
+**32** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
-**Rémunération**
+**33** [Abrogé, 2013, ch. 40, art. 367]
 
-**23** Les commissaires qui sont en fonctions ou qui sont visés au paragraphe 22(4) :
-- **a)** reçoivent la rémunération fixée par le gouverneur en conseil;
-- **b)** ont droit aux frais de déplacement et autres entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel.
 
 
+**34** [Abrogé, 2013, ch. 40, art. 367]
 
 
-#### Application d’autres lois
 
+**35** [Abrogé, 2013, ch. 40, art. 367]
 
 
-**Application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)**
 
-**24** Les commissaires à temps plein sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+**36** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
+**37** [Abrogé, 2013, ch. 40, art. 367]
 
-**Application d’autres lois**
 
-**25** Les commissaires sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en application de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
 
-
-
-
-#### Siège et réunions
-
-
-
-**Siège**
-
-**26** Le siège de la Commission est fixé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-
-
-
-**Réunions**
-
-**27** 
-
-- **(1)** La Commission tient ses réunions aux date, heure et lieu que le président estime utiles pour l’exécution de ses travaux.
-
-**Moyen de télécommunication**
-
-- **(2)** Les réunions de la Commission peuvent se tenir par tout moyen de télécommunication permettant à tous les participants de communiquer adéquatement entre eux. Les personnes qui participent ainsi à ces réunions sont réputées y être présentes.
-
-
-
-
-**Quorum**
-
-**28** Le président, un vice-président et la majorité des autres commissaires à temps plein constituent le quorum de la Commission.
-
-
-
-
-**Participation des commissaires à temps partiel sur invitation**
-
-**29** Les commissaires à temps partiel ne participent aux réunions de la Commission que s’ils y ont été invités par le président.
-
-
-
-
-**Décision de la majorité**
-
-**30** La décision prise par la majorité des commissaires présents constitue la décision de la Commission.
-
-
-
-
-#### Formations
-
-
-
-**Formation d’au moins trois membres**
-
-**31** Les affaires dont est saisie la Commission dans le cadre de la présente partie sont instruites par une formation composée d’au moins trois membres dont le président ou au moins un vice-président fait obligatoirement partie ou, si le président l’estime indiqué dans les circonstances, d’un membre unique.
-
-
-
-
-**Attributions**
-
-**32** La formation exerce, relativement à l’affaire dont elle est saisie, toutes les attributions que la présente partie confère à la Commission.
-
-
-
-
-**Président de la formation**
-
-**33** Le président de la Commission préside la formation s’il en fait partie; sinon, il désigne un vice-président de la Commission comme président de la formation.
-
-
-
-
-**Décès ou empêchement d’un membre**
-
-**34** 
-
-- **(1)** Le président de la formation peut, en cas de décès ou d’empêchement d’un autre membre de celle-ci, trancher seul l’affaire dont elle était saisie, sa décision étant alors réputée celle de la formation.
-
-**Décès ou empêchement du président de la formation**
-
-- **(2)** En cas de décès ou d’empêchement du président de la formation ou du membre unique, le président de la Commission constitue une autre formation et lui renvoie l’affaire selon les modalités et aux conditions qu’il fixe dans l’intérêt des parties.
-
-
-
-
-**Décisions à la majorité**
-
-**35** 
-
-- **(1)** Les décisions de la formation sont prises à la majorité des membres. Lorsqu’il n’y a pas de majorité, la décision du président de la formation constitue la décision de celle-ci.
-
-**Valeur de la décision**
-
-- **(2)** Les décisions rendues par la formation constituent des décisions de la Commission.
-
-
-
-
-#### Pouvoirs et fonctions de la Commission
-
-
-
-**Pouvoirs et fonctions de la Commission**
-
-**36** La Commission met en oeuvre la présente loi et exerce les pouvoirs et fonctions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui exigent l’observation de la présente loi, des règlements pris sous le régime de celle-ci ou des décisions qu’elle rend sur les questions qui lui sont soumises.
-
-
-
-
-**Pouvoir général d’aider les parties**
-
-**37** La Commission ou n’importe lequel de ses membres ou employés qu’elle désigne peut, en tout état de cause et avec le consentement des parties, aider celles-ci à régler les questions en litige de la façon qu’elle juge indiquée sans qu’il soit porté atteinte à la compétence de la Commission pour trancher les questions qui n’auront pas été réglées.
-
-
-
-
-**Délégation**
-
-**38** Le président peut exercer les pouvoirs et fonctions que la présente loi confère à la Commission et que celle-ci lui délègue, à l’exception du pouvoir de prendre les règlements.
+**38** [Abrogé, 2013, ch. 40, art. 367]
 
 
 
@@ -556,48 +417,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** les droits, privilèges et obligations acquis ou conservés par toute organisation syndicale relativement à toute unité de négociation ou à tout fonctionnaire en faisant partie, dans le cas d’une fusion ou d’un transfert de compétence entre plusieurs organisations syndicales;
 - **g)** la révocation de l’accréditation de tout agent négociateur, ainsi que les droits et privilèges que le fonctionnaire a acquis et qu’il conserve malgré cette révocation;
 - **h)** [Abrogé, 2013, ch. 40, art. 297]
-- **i)** la procédure pour ses audiences;
-- **j)** l’établissement des délais d’envoi des avis, à l’exception des avis mentionnés aux paragraphes 124(1) et (2), et autres documents au titre de la présente partie, la désignation de leurs destinataires et la fixation de la date à laquelle ces avis sont réputés avoir été donnés et reçus;
-- **k)** les modalités de forme et de temps applicables à la présentation à la Commission, à la suite d’une demande d’accréditation ou de révocation d’accréditation comme agent négociateur, de la preuve :
-	- **(i)** de l’adhésion de fonctionnaires à une organisation syndicale,
-	- **(ii)** de l’opposition des fonctionnaires à l’accréditation d’une organisation syndicale,
-	- **(iii)** de l’expression de la volonté de ces fonctionnaires de ne plus être représentés par une organisation syndicale;
-- **l)** les circonstances lui permettant de recevoir les éléments visés à l’alinéa k) comme preuve de la volonté de fonctionnaires d’être représentés ou non par une organisation syndicale donnée à titre d’agent négociateur, ainsi que les cas où elle ne peut rendre ces éléments publics;
-- **m)** les autres questions pouvant se rattacher ou contribuer à l’exercice des pouvoirs et fonctions de la Commission ainsi qu’à la réalisation des objets de la présente partie.
-> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297.
+- **i) à k)** [Abrogés, 2013, ch. 40, art. 368]
+- **l)** les circonstances lui permettant de recevoir les éléments mentionnés ci-après comme preuve de la volonté de fonctionnaires d’être représentés ou non par une organisation syndicale donnée à titre d’agent négociateur, ainsi que les cas où elle ne peut rendre ces éléments publics :
+	- **(i)** la preuve de l’adhésion de fonctionnaires à une organisation syndicale,
+	- **(ii)** la preuve de l’opposition des fonctionnaires à l’accréditation d’une organisation syndicale,
+	- **(iii)** la preuve de l’expression de la volonté de ces fonctionnaires de ne plus être représentés par une organisation syndicale;
+- **m)** toute mesure utile ou connexe à la réalisation des objets de la présente partie.
+> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297 et 368.
 
 
 
 
-
-**Pouvoirs de la Commission lors des procédures**
-
-**40** 
-
-- **(1)** Dans le cadre de toute affaire dont elle est saisie, la Commission peut :
-	- **a)** de la même façon et dans la même mesure qu’une cour supérieure d’archives, convoquer des témoins et les contraindre à comparaître et à déposer sous serment, oralement ou par écrit;
-	- **b)** ordonner des procédures préparatoires, notamment la tenue de conférences préparatoires à huis clos, et en fixer les date, heure et lieu;
-	- **c)** ordonner l’utilisation de tout moyen de télécommunication permettant à tous les participants de communiquer adéquatement entre eux lors des audiences et des conférences préparatoires;
-	- **d)** faire prêter serment et recevoir les affirmations solennelles;
-	- **e)** accepter des éléments de preuve, qu’ils soient admissibles ou non en justice;
-	- **f)** examiner les éléments de preuve qui lui sont présentés sur l’adhésion des fonctionnaires à l’organisation syndicale sollicitant l’accréditation et, dans le cas d’un regroupement d’organisations syndicales sollicitant l’accréditation, à toute organisation syndicale membre du regroupement;
-	- **g)** examiner les documents constitutifs ou les statuts de l’organisation syndicale sollicitant l’accréditation et, dans le cas d’un regroupement d’organisations syndicales sollicitant l’accréditation, de toute organisation syndicale membre du regroupement, ainsi que tout document connexe;
-	- **h)** obliger, en tout état de cause, toute personne à produire les documents ou pièces qui peuvent être liés à toute question dont elle est saisie;
-	- **i)** exiger de l’employeur qu’il affiche et maintienne affichés aux endroits appropriés les avis qu’elle estime nécessaire de porter à l’attention des fonctionnaires au sujet de toute question ou affaire dont elle est saisie;
-	- **j)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans des locaux ou sur des terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’elle lui pose relativement à l’affaire dont elle est saisie;
-	- **k)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans les locaux ou sur des terrains de l’employeur pour y tenir des scrutins de représentation pendant les heures de travail;
-	- **l)** déléguer à quiconque les pouvoirs qu’elle détient en vertu des alinéas d) à k) en exigeant éventuellement un rapport sur l’exercice de ces pouvoirs.
-
-**Demande frivole**
-
-- **(2)** La Commission peut rejeter de façon sommaire toute demande ou plainte qu’elle estime frustratoire.
+**40** [Abrogé, 2013, ch. 40, art. 369]
 
 
 
-
-**Décision sans audience**
-
-**41** La Commission peut trancher toute affaire ou question dont elle est saisie sans tenir d’audience.
+**41** [Abrogé, 2013, ch. 40, art. 369]
 
 
 
@@ -621,121 +456,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**44** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
-#### Président
 
 
+**45** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
-**Premier dirigeant**
 
-**44** Le président est le premier dirigeant de la Commission; à ce titre, il en assure la direction et en contrôle les activités, notamment en ce qui a trait à :
-- **a)** l’assignation et la réassignation aux formations des affaires dont la Commission est saisie;
-- **b)** la composition des formations et la désignation des vice-présidents chargés de les présider;
-- **c)** la fixation des date, heure et lieu des audiences.
 
+**46** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
 
 
-**Délégation**
+**47** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
-**45** Le président peut déléguer à tout vice-président les attributions que lui confère la présente loi ou que lui délègue la Commission.
 
 
+**48** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
 
-**Vice-président**
 
-**46** 
+**49** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
-- **(1)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président désigné par le ministre.
 
-**Choix d’un autre intérimaire**
 
-- **(2)** En cas d’absence ou d’empêchement du président et du vice-président désigné par le ministre ou de vacance de leurs postes, la présidence est assumée par le membre que désigne le ministre, sous réserve toutefois de l’agrément du gouverneur en conseil lorsque l’intérim dépasse soixante jours.
+**50** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
 
 
+**51** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
-#### Ressources humaines
 
 
-
-**Attributions en matière de gestion des ressources humaines**
-
-**47** Le président est autorisé, en ce qui a trait au personnel de la Commission, à assumer les responsabilités et à exercer les attributions conférées au Conseil du Trésor par la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) en matière de gestion des ressources humaines, au sens de l’alinéa 7(1)e) et de l’article 11.1 de cette loi, et les attributions conférées aux administrateurs généraux en vertu du paragraphe 12(2) de cette loi, notamment la fixation des conditions d’emploi de son personnel.
-
-
-
-
-**Directeur général**
-
-**48** 
-
-- **(1)** Est nommé, conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), un directeur général de la Commission.
-
-**Surveillance des travaux et du personnel**
-
-- **(2)** Le directeur général assiste le président dans l’exercice de ses fonctions et, sous la direction de celui-ci, dirige et surveille la conduite des affaires courantes de la Commission, la gestion de ses affaires internes et l’exécution des fonctions de son personnel.
-
-
-
-
-**Personnel supplémentaire**
-
-**49** Le personnel supplémentaire que la Commission estime nécessaire est nommé sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-
-
-
-**Assistance technique**
-
-**50** 
-
-- **(1)** Le président peut retenir temporairement les services de médiateurs et d’autres experts chargés d’assister la Commission à titre consultatif, et, sous réserve de l’agrément du gouverneur en conseil, fixer leur rémunération.
-
-**Non-application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)**
-
-- **(2)** Les personnes dont les services sont retenus au titre du paragraphe (1) ne font pas partie, de ce seul fait, de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-
-
-
-
-#### Révision judiciaire et exécution des ordonnances
-
-
-
-**Impossibilité de révision par un tribunal**
-
-**51** 
-
-- **(1)** Sous réserve des autres dispositions de la présente partie, les ordonnances et les décisions de la Commission sont définitives et ne sont susceptibles de contestation ou de révision par voie judiciaire qu’en conformité avec la  [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et pour les motifs visés aux alinéas 18.1(4) a),  b) ou  e) de cette loi.
-
-**Qualité de la Commission**
-
-- **(2)** La Commission a qualité pour comparaître dans les procédures visées au paragraphe (1) pour présenter ses observations à l’égard de la norme de contrôle judiciaire applicable à ses décisions ou à l’égard de sa compétence, de ses procédures et de ses lignes directrices.
-
-**Interdiction de recours extraordinaire**
-
-- **(3)** Sauf exception prévue au paragraphe (1), l’action — décision, ordonnance ou procédure — de la Commission, dans la mesure où elle est censée s’exercer dans le cadre de la présente partie, ne peut, pour quelque motif, notamment celui de l’excès de pouvoir ou de l’incompétence à une étape quelconque de la procédure :
-	- **a)** être contestée, révisée, empêchée ou limitée;
-	- **b)** faire l’objet d’un recours judiciaire, notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto*.
-> 2003, ch. 22, art. 2 « 51 » et 274.
-
-
-
-
-
-**Dépôt à la Cour fédérale**
-
-**52** 
-
-- **(1)** Sur demande écrite de la personne ou de l’organisation touchée, la Commission dépose à la Cour fédérale une copie certifiée conforme du dispositif de l’ordonnance sauf si, à son avis :
-	- **a)** soit rien ne laisse croire qu’elle n’a pas été exécutée ou ne le sera pas;
-	- **b)** soit, pour d’autres motifs valables, le dépôt ne serait d’aucune utilité.
-
-**Exécution des ordonnances**
-
-- **(2)** En vue de son exécution, l’ordonnance rendue par la Commission, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
+**52** [Abrogé, 2013, ch. 40, art. 370, modifié par 2013, ch. 40, art. 467]
 
 
 
@@ -1920,11 +1673,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **147** 
 
-- **(1)** Le conseil d’arbitrage est investi de tous les pouvoirs de la Commission énumérés aux alinéas 40(1)a), d), e) et h) à j).
+- **(1)** Le conseil d’arbitrage est investi de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 **Délégation**
 
-- **(2)** Le conseil d’arbitrage peut déléguer les pouvoirs énumérés aux alinéas 40(1)d), e), i) et j), en assortissant ou non cette délégation d’une obligation de faire rapport.
+- **(2)** Le conseil d’arbitrage peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et assortir ou non cette délégation d’une obligation de faire rapport.
+> 2003, ch. 22, art. 2 « 147 »; 2013, ch. 40, art. 371.
+
 
 
 
@@ -2349,11 +2104,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **174** 
 
-- **(1)** La commission de l’intérêt public est investie de tous les pouvoirs de la Commission énumérés aux alinéas 40(1)a), d), e) et h) à j).
+- **(1)** La commission de l’intérêt public est investie de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
 **Délégation**
 
-- **(2)** La commission de l’intérêt public peut déléguer les pouvoirs énumérés aux alinéas 40(1)d), e), i) et j), en assortissant ou non cette délégation d’une obligation de faire rapport.
+- **(2)** La commission de l’intérêt public peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et assortir ou non cette délégation d’une obligation de faire rapport.
+> 2003, ch. 22, art. 2 « 174 »; 2013, ch. 40, art. 372.
+
 
 
 
@@ -2955,7 +2712,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***fonctionnaire*** S’entend au sens de la définition de ce terme au paragraphe 2(1), compte non tenu des exceptions prévues aux alinéas e) et i) de celle-ci et des mots « sauf à la partie 2 ».
+***fonctionnaire*** S’entend au sens de la définition de ce terme au paragraphe 2(1), compte non tenu des exceptions prévues aux alinéas e), h) et i) de celle-ci et des mots « sauf à la partie 2 ».
 
 ***grief collectif*** Grief déposé conformément à l’article 215.
 
@@ -2968,6 +2725,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs aux anciens fonctionnaires en ce qui concerne :
 	- **a)** les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(1)c), d) ou e) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **b)** dans le cas d’un organisme distinct, les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(2)c) ou d) de cette loi ou à toute loi fédérale ou à tout texte d’application de celle-ci, concernant les attributions de l’organisme.
+> 2003, ch. 22, art. 2 « 206 »; 2014, ch. 20, art. 481.
+
 
 
 
@@ -3254,7 +3013,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-#### Renvoi par le président
+#### Avis à la Commission
 
 
 
@@ -3262,19 +3021,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **223** 
 
-- **(1)** La partie qui a renvoyé un grief à l’arbitrage en avise la Commission en conformité avec les règlements. Elle précise dans son avis si un arbitre de grief particulier est déjà désigné dans la convention collective applicable ou a été autrement choisi par les parties, ou, à défaut, si elle demande l’établissement d’un conseil d’arbitrage de grief.
+- **(1)** La partie qui a renvoyé un grief à l’arbitrage en avise la Commission en conformité avec les règlements.
 
 **Mesure à prendre par le président**
 
-- **(2)** Sur réception de l’avis par la Commission, le président :
+- **(2)** Si la partie précise dans son avis qu’un arbitre de grief particulier est déjà désigné dans la convention collective applicable ou a été autrement choisi par les parties, ou, à défaut, si elle demande l’établissement d’un conseil d’arbitrage de grief, le président, sur réception de l’avis par la Commission :
 	- **a)** soit renvoie l’affaire à l’arbitre de grief désigné dans la convention collective au titre de laquelle le grief est présenté;
 	- **b)** soit, dans le cas où les parties ont choisi un arbitre de grief, renvoie l’affaire à celui-ci;
-	- **c)** soit institue, sur demande d’une partie et à condition que l’autre ne s’y oppose pas dans le délai éventuellement fixé par règlement, un conseil d’arbitrage de grief auquel il renvoie le grief;
-	- **d)** soit, dans tout autre cas, renvoie le grief à un arbitre de grief qu’il choisit parmi les membres de la Commission.
+	- **c)** soit établit, sur demande d’une partie et à condition que l’autre ne s’y oppose pas dans le délai éventuellement fixé par règlement, un conseil d’arbitrage de grief auquel il renvoie le grief.
+
+**Commission saisie du grief**
+
+- **(2.1)** À défaut de précisions dans l’avis ou en cas d’opposition par une partie à la demande d’établissement d’un conseil d’arbitrage de grief, la Commission est saisie du grief.
 
 **Réunion**
 
 - **(3)** Après réception de l’avis, le président peut ordonner aux parties de participer à une réunion en vue de régler ou de simplifier les questions en litige.
+> 2003, ch. 22, art. 2 « 223 »; 2013, ch. 40, art. 374.
+
 
 
 
@@ -3302,7 +3066,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Observation de la procédure**
 
-**225** Le renvoi d’un grief à l’arbitrage de même que son audition et la décision de l’arbitre de grief à son sujet ne peuvent avoir lieu qu’après la présentation du grief à tous les paliers requis conformément à la procédure applicable.
+**225** Le renvoi d’un grief à l’arbitrage ne peut avoir lieu qu’après la présentation du grief à tous les paliers requis conformément à la procédure applicable.
+> 2003, ch. 22, art. 2 « 225 »; 2013, ch. 40, art. 375.
+
 
 
 
@@ -3311,37 +3077,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Pouvoirs**
+**Pouvoirs de l’arbitre de grief**
 
 **226** 
 
-- **(1)** Pour instruire toute affaire dont il est saisi, l’arbitre de grief peut :
-	- **a)** de la même façon et dans la même mesure qu’une cour supérieure d’archives, convoquer des témoins et les contraindre à comparaître et à déposer sous serment, oralement ou par écrit;
-	- **b)** ordonner l’utilisation de moyens de télécommunication permettant aux parties et à l’arbitre de grief de communiquer les uns avec les autres simultanément lors des audiences et des conférences préparatoires;
-	- **c)** faire prêter serment et recevoir les affirmations solennelles;
-	- **d)** accepter des éléments de preuve, qu’ils soient admissibles ou non en justice;
-	- **e)** obliger, en tout état de cause, toute personne à produire les documents ou pièces qui peuvent être liés à toute question dont il est saisi;
-	- **f)** sous réserve des restrictions que le gouverneur en conseil peut imposer en matière de défense ou de sécurité, pénétrer dans les locaux ou sur les terrains de l’employeur où des fonctionnaires exécutent ou ont exécuté un travail, procéder à l’examen de tout matériau, outillage, appareil ou objet s’y trouvant, ainsi qu’à celui du travail effectué dans ces lieux, et obliger quiconque à répondre aux questions qu’il lui pose relativement à l’affaire dont il est saisi;
-	- **g)** interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de celle-ci sur le droit à la parité salariale pour l’exécution de fonctions équivalentes, ainsi que toute autre loi fédérale relative à l’emploi, même si la loi en cause entre en conflit avec une convention collective;
-	- **h)** rendre les ordonnances prévues à l’alinéa 53(2)e) et au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md);
-	- **i)** dans le cas du grief portant sur le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire, adjuger des intérêts au taux et pour la période qu’il estime justifiés;
-	- **j)** rejeter de façon sommaire les griefs qu’il estime frustratoires.
+- **(1)** Pour instruire toute affaire dont il est saisi, l’arbitre de grief peut exercer les pouvoirs prévus à l’alinéa 16d) de la présente loi et aux articles 20 à 23 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
 
-**Médiation**
+**Pouvoirs de l’arbitre de grief et de la Commission**
 
-- **(2)** En tout état de cause, l’arbitre de grief peut, avec le consentement des parties, les aider à régler tout désaccord entre elles, sans qu’il soit porté atteinte à sa compétence à titre d’arbitre chargé de trancher les questions qui n’auront pas été réglées.
+- **(2)** L’arbitre de grief et la Commission peuvent, pour instruire toute affaire dont ils sont saisis :
+	- **a)** interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de cette loi sur le droit à la parité salariale pour l’exécution de fonctions équivalentes, ainsi que toute autre loi fédérale relative à l’emploi, même si la loi en cause entre en conflit avec une convention collective;
+	- **b)** rendre les ordonnances prévues à l’alinéa 53(2)e) ou au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md);
+	- **c)** dans le cas du grief portant sur le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire, adjuger des intérêts au taux et pour la période qu’ils estiment justifiés.
+> 2003, ch. 22, art. 2 « 226 »; 2013, ch. 40, art. 376.
 
 
 
 
-**Décision sans audience**
-
-**227** L’arbitre de grief peut trancher toute affaire dont il est saisi sans tenir d’audience.
+**227** [Abrogé, 2013, ch. 40, art. 376]
 
 
 
 
-#### Décision de l’arbitre de grief
+#### Décision
 
 
 
@@ -3349,13 +3107,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **228** 
 
-- **(1)** L’arbitre de grief donne à chaque partie au grief l’occasion de se faire entendre.
+- **(1)** L’arbitre de grief ou la Commission, selon le cas, donne à chaque partie au grief l’occasion de se faire entendre.
 
 **Décision au sujet du grief**
 
-- **(2)** Après étude du grief, il tranche celui-ci par l’ordonnance qu’il juge indiquée. Il transmet copie de l’ordonnance et, le cas échéant, des motifs de sa décision :
-	- **a)** à chaque partie et à son représentant ainsi que, s’il y a lieu, à l’agent négociateur de l’unité de négociation à laquelle appartient le fonctionnaire qui a présenté le grief;
-	- **b)** au directeur général de la Commission.
+- **(2)** Après étude du grief, l’arbitre de grief ou la Commission, selon le cas, tranche celui-ci par l’ordonnance qu’il juge indiquée. Il transmet copie de l’ordonnance et, le cas échéant, des motifs de la décision à chaque partie et à son représentant ainsi que, s’il y a lieu, à l’agent négociateur de l’unité de négociation à laquelle appartient le fonctionnaire qui a présenté le grief. L’arbitre de grief doit en outre transmettre copie de ces documents au président.
 
 **Décision du conseil d’arbitrage de grief**
 
@@ -3364,59 +3120,79 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision en cas de partage**
 
 - **(4)** Lorsqu’il n’y a pas de majorité, la décision du président du conseil constitue la décision du conseil.
+> 2003, ch. 22, art. 2 « 228 »; 2013, ch. 40, art. 378.
+
 
 
 
 
 **Décision entraînant une modification**
 
-**229** La décision de l’arbitre de grief ne peut avoir pour effet d’exiger la modification d’une convention collective ou d’une décision arbitrale.
+**229** La décision de l’arbitre de grief ou de la Commission ne peut avoir pour effet d’exiger la modification d’une convention collective ou d’une décision arbitrale.
+> 2003, ch. 22, art. 2 « 229 »; 2013, ch. 40, art. 379.
+
 
 
 
 
 **Décision sur le caractère raisonnable de l’avis**
 
-**230** L’arbite de grief saisi d’un grief individuel portant sur le licenciement ou la rétrogradation pour rendement insuffisant d’un fonctionnaire de l’administration publique centrale ou d’un organisme distinct désigné au titre du paragraphe 209(3) doit décider que le licenciement ou la rétrogradation étaient motivés s’il conclut qu’il était raisonnable que l’administrateur général estime le rendement du fonctionnaire insuffisant.
+**230** Saisi d’un grief individuel portant sur le licenciement ou la rétrogradation pour rendement insuffisant d’un fonctionnaire de l’administration publique centrale ou d’un organisme distinct désigné au titre du paragraphe 209(3), l’arbitre de grief ou la Commission, selon le cas, doit décider que le licenciement ou la rétrogradation étaient motivés s’il conclut qu’il était raisonnable que l’administrateur général estime le rendement du fonctionnaire insuffisant.
+> 2003, ch. 22, art. 2 « 230 »; 2013, ch. 40, art. 379.
+
 
 
 
 
 **Décision sur la nécessité du consentement**
 
-**231** L’arbitre de grief saisi du grief mentionné au sous-alinéa 209(1)c)(ii) peut décider de la question de savoir si :
+**231** Saisi du grief mentionné au sous-alinéa 209(1)c)(ii), l’arbitre de grief ou la Commission peut décider de la question de savoir si :
 - **a)** soit l’acceptation d’être muté faisait partie des conditions d’emploi du poste du fonctionnaire;
 - **b)** soit le fonctionnaire a harcelé une autre personne dans l’exercice de ses fonctions.
+> 2003, ch. 22, art. 2 « 231 »; 2013, ch. 40, art. 380.
+
 
 
 
 
 **Portée de la décision sur certains griefs de principe**
 
-**232** Dans sa décision sur un grief de principe qui porte sur une question qui a fait ou aurait pu faire l’objet d’un grief individuel ou d’un grief collectif, l’arbitre de grief ne peut prendre que les mesures suivantes :
+**232** Dans sa décision sur un grief de principe qui porte sur une question qui a fait ou aurait pu faire l’objet d’un grief individuel ou d’un grief collectif, l’arbitre de grief ou la Commission ne peut prendre que les mesures suivantes :
 - **a)** donner l’interprétation ou l’application exacte de la convention collective ou de la décision arbitrale;
 - **b)** conclure qu’il a été contrevenu à la convention collective ou à la décision arbitrale;
 - **c)** enjoindre à l’employeur ou à l’agent négociateur, selon le cas, d’interpréter ou d’appliquer la convention collective ou la décision arbitrale selon les modalités qu’il fixe.
+> 2003, ch. 22, art. 2 « 232 »; 2013, ch. 40, art. 381.
 
 
 
 
-**Caractère définitif des décisions**
 
-**233** 
+**Impossibilité de révision par un tribunal**
 
-- **(1)** La décision de l’arbitre de grief est définitive et ne peut être ni contestée ni révisée par voie judiciaire.
-
-**Interdiction de recours extraordinaires**
-
-- **(2)** Il n’est admis aucun recours ni aucune décision judiciaire — notamment par voie d’injonction, de *certiorari*, de prohibition ou de*quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre de grief exercée dans le cadre de la présente partie.
+**233** Les paragraphes 34(1) et (3) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique s’appliquent, avec les adaptations nécessaires, à la décision ou à l’ordonnance de l’arbitre de grief.
+> 2003, ch. 22, art. 2 « 233 »; 2013, ch. 40, art. 382.
 
 
 
 
-**Exécution des ordonnances**
 
-**234** Toute partie à l’affaire qui a donné lieu à l’ordonnance peut, après la date d’exécution qui y est fixée ou, à défaut d’une telle date, après un délai de trente jours suivant la date de l’ordonnance, déposer à la Cour fédérale une copie certifiée conforme du dispositif de l’ordonnance. En vue de son exécution, celle-ci, dès le dépôt de la copie certifiée conforme, est assimilée à une ordonnance rendue par la Cour fédérale.
+**Dépôt à la Cour fédérale**
+
+**234** 
+
+- **(1)** Sur demande écrite de toute partie à l’affaire qui a donné lieu à l’ordonnance, la Commission dépose à la Cour fédérale une copie certifiée conforme du dispositif de son ordonnance ou de l’ordonnance de l’arbitre de grief, selon le cas, sauf si, à son avis :
+	- **a)** ou bien rien ne laisse croire que l’ordonnance n’a pas été exécutée ou ne le sera pas;
+	- **b)** ou bien, pour d’autres motifs valables, le dépôt ne serait d’aucune utilité.
+
+**Non-application**
+
+- **(2)** L’article 35 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique ne s’applique pas aux ordonnances de la Commission visées au paragraphe (1).
+
+**Effet de l’enregistrement**
+
+- **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
+> 2003, ch. 22, art. 2 « 234 »; 2013, ch. 40, art. 382.
+
 
 
 
@@ -3433,11 +3209,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fonctionnaire représenté par l’agent négociateur**
 
-- **(2)** Dans le cas contraire, l’agent négociateur est tenu de payer à la Commission la partie des frais d’arbitrage déterminée par le directeur général de la Commission avec l’approbation de celle-ci.
+- **(2)** Dans le cas contraire, l’agent négociateur est tenu de payer à la Commission la partie des frais d’arbitrage déterminée par le président avec l’approbation de celle-ci.
 
 **Recouvrement**
 
 - **(3)** Toute somme que l’agent négociateur est tenu de payer à la Commission aux termes du paragraphe (2) constitue une créance de Sa Majesté du chef du Canada et peut être recouvrée à ce titre. L’agent négociateur est réputé être une personne pour l’application du présent paragraphe.
+> 2003, ch. 22, art. 2 « 235 »; 2013, ch. 40, art. 383.
+
 
 
 
@@ -3523,12 +3301,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **240** La partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique à la fonction publique et aux personnes qui y sont employées comme si la fonction publique était une entreprise fédérale visée par cette partie, sous réserve de ce qui suit :
 - **a)** en ce qui concerne la terminologie :
 	- **(i)** « arbitrage » renvoie à l’arbitrage des griefs sous le régime de la partie 2,
-	- **(ii)** « Conseil » s’entend de la Commission des relations de travail dans la fonction publique,
+	- **(ii)**  ***Conseil*** s’entend de la Commission des relations de travail et de l’emploi dans la fonction publique,
 	- **(iii)** « convention collective » s’entend au sens du paragraphe 2(1),
 	- **(iv)** « employé » s’entend d’une personne employée dans la fonction publique,
 	- **(v)** « syndicat » s’entend de l’organisation syndicale au sens du paragraphe 2(1);
-- **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail dans la fonction publique;
-- **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail dans la fonction publique.
+- **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail et de l’emploi dans la fonction publique;
+- **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail et de l’emploi dans la fonction publique.
+> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384.
+
 
 
 
@@ -3574,7 +3354,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve concernant les renseignements obtenus**
 
-**243** Les commissaires, les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs, les personnes employées par la Commission, les personnes dont les services sont retenus au titre du paragraphe 50(1) et les personnes saisies d’un renvoi aux termes du paragraphe 182(1) ne sont tenus de déposer dans aucune action — ou autre procédure — au civil relativement à des renseignements obtenus dans l’accomplissement de leurs fonctions aux termes de la présente loi.
+**243** Les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs et les personnes saisies d’un renvoi en vertu du paragraphe 182(1) ne sont pas habiles à témoigner ni contraignables au civil relativement à des renseignements obtenus dans l’accomplissement des fonctions que leur confère la présente loi.
+> 2003, ch. 22, art. 2 « 243 »; 2013, ch. 40, art. 385.
+
 
 
 
@@ -3582,16 +3364,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-communication**
 
 **244** Les documents ci-après ne peuvent être communiqués sans le consentement de leur auteur :
-- **a)** les notes ou les avant-projets d’ordonnance ou de décision de la Commission, de tout commissaire ou de tout arbitre de grief;
+- **a)** les notes ou les avant-projets d’ordonnance ou de décision de tout arbitre de grief;
 - **b)** les notes ou les avant-projets de rapport de tout médiateur, de toute commission de l’intérêt public ou de toute personne autorisée ou désignée par la Commission pour aider à régler des plaintes ou des questions en litige devant la Commission;
 - **c)** les notes ou les avant-projets de décision arbitrale d’un conseil d’arbitrage.
+> 2003, ch. 22, art. 2 « 244 »; 2013, ch. 40, art. 386.
+
 
 
 
 
 **Poursuites civiles ou pénales**
 
-**245** Les commissaires, les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs, les personnes employées par la Commission, les personnes dont les services sont retenus au titre du paragraphe 50(1) et les personnes saisies d’un renvoi aux termes du paragraphe 182(1) bénéficient de l’immunité civile ou pénale pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel de leurs attributions.
+**245** Les membres d’une commission de l’intérêt public ou d’un conseil d’arbitrage, les arbitres de grief, les médiateurs et les personnes saisies d’un renvoi en vertu du paragraphe 182(1) bénéficient de l’immunité civile ou pénale pour les actes accomplis ou omis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel de leurs attributions.
+> 2003, ch. 22, art. 2 « 245 »; 2013, ch. 40, art. 387.
+
 
 
 
@@ -3636,7 +3422,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Paiement des indemnités des témoins**
 
-**248** Quiconque est assigné devant la Commission, l’arbitre de grief, le conseil d’arbitrage ou la commission de l’intérêt public, dans le cadre de toute instance entamée sous le régime de la présente loi, a droit pour sa comparution aux frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
+**248** Quiconque est assigné devant l’arbitre de grief, le conseil d’arbitrage ou la commission de l’intérêt public, dans le cadre de toute instance entamée sous le régime de la présente loi, a droit pour sa comparution aux frais et indemnités accordés aux témoins assignés devant la Cour fédérale.
+> 2003, ch. 22, art. 2 « 248 »; 2013, ch. 40, art. 389.
+
 
 
 
@@ -3647,7 +3435,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Installations et ressources humaines**
 
-**249** La Commission fournit aux commissions de l’intérêt public, aux conseils d’arbitrage, aux arbitres de griefs, aux médiateurs et aux personnes saisies d’un renvoi aux termes du paragraphe 182(1) les installations et les ressources humaines qui, selon elle, sont nécessaires à l’accomplissement de leurs fonctions en application de la présente loi.
+**249** L’administrateur en chef du Service canadien d’appui aux tribunaux administratifs fournit aux commissions de l’intérêt public, aux conseils d’arbitrage, aux arbitres de griefs, aux médiateurs et aux personnes saisies d’un renvoi aux termes du paragraphe 182(1) les installations et les ressources humaines qui sont nécessaires à l’accomplissement de leurs fonctions en application de la présente loi.
+> 2003, ch. 22, art. 2 « 249 »; 2014, ch. 20, art. 481.
+
 
 
 
@@ -3668,20 +3458,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Rapport annuel
-
-
-
-**Établissement du rapport**
-
-**251** 
-
-- **(1)** Dans les meilleurs délais suivant la fin de chaque exercice, la Commission établit un rapport sur l’application de la présente loi au cours de l’exercice précédent et le transmet au ministre.
-
-**Dépôt devant le Parlement**
-
-- **(2)** Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+**251** [Abrogé, 2013, ch. 40, art. 390]
 
 
 
