@@ -181,28 +181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Administration du Tribunal
-
-
-
-**Greffe**
-
-**10** 
-
-- **(1)** Le greffe du Tribunal se compose d’un bureau situé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-**Personnel**
-
-- **(2)** La nomination du greffier et des autres membres du personnel nécessaire au bon fonctionnement du Tribunal se fait conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Rôle du greffier**
-
-- **(3)** Le greffier est chargé de la gestion des affaires administratives du Tribunal et de l’exécution des fonctions de son personnel.
-
-**Organisation**
-
-- **(4)** Le personnel du Tribunal de même que le fonctionnement de ses bureaux sont régis selon ce que prévoient les règles établies au titre du paragraphe 12(1).
+**10** [Abrogé, 2014, ch. 20, art. 469]
 
 
 
@@ -232,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Un comité formé d’au plus six membres du Tribunal nommés par le président peut établir des règles d’application générale concernant l’accomplissement des travaux du Tribunal, la gestion de ses affaires internes et les responsabilités de son personnel ainsi que des règles de procédure pour régir ses activités, notamment en ce qui concerne :
+- **(1)** Un comité formé d’au plus six membres du Tribunal nommés par le président peut établir des règles d’application générale concernant l’accomplissement des travaux du Tribunal et la gestion de ses affaires internes ainsi que des règles de procédure pour régir ses activités, notamment en ce qui concerne :
 	- **a)** l’envoi d’avis;
 	- **b)** la présentation de la position des parties à l’égard des questions dont il est saisi et des moyens de droit et de fait invoqués à l’appui de leur position;
 	- **c)** l’assignation des témoins;
@@ -260,6 +239,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(5)** La non-publication des règles dans la First Nations Gazette ne porte pas atteinte à leur validité.
+> 2008, ch. 22, art. 12; 2014, ch. 20, art. 470.
+
 
 
 
