@@ -2437,7 +2437,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **How application made**
 
-- **(2)** The application must be made by filing with the President and the Secretary of the Canadian International Trade Tribunal a copy of the application referred to in section 60.1 and, if notice has been given under subsection 60.1(4), a copy of the notice.
+- **(2)** The application must be made by filing with the President and the Canadian International Trade Tribunal a copy of the application referred to in section 60.1 and, if notice has been given under subsection 60.1(4), a copy of the notice.
 
 **Powers of Canadian International Trade Tribunal**
 
@@ -2451,7 +2451,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(i)** within the time set out in section 60, the person was unable to act or to give a mandate to act in the person’s name or the person had a *bona fide* intention to make a request,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 43; 2005, c. 38, s. 85.
+> 2001, c. 25, s. 43; 2005, c. 38, s. 85; 2014, c. 20, s. 446.
 
 
 
@@ -2562,16 +2562,16 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **67** 
 
-- **(1)** A person aggrieved by a decision of the President made under section 60 or 61 may appeal from the decision to the Canadian International Trade Tribunal by filing a notice of appeal in writing with the President and the Secretary of the Canadian International Trade Tribunal within ninety days after the time notice of the decision was given.
+- **(1)** A person aggrieved by a decision of the President made under section 60 or 61 may appeal from the decision to the Canadian International Trade Tribunal by filing a notice of appeal in writing with the President and the Canadian International Trade Tribunal within ninety days after the time notice of the decision was given.
 
 **Publication of notice of appeal**
 
-- **(2)** Before making a decision under this section, the Canadian International Trade Tribunal shall provide for a hearing and shall publish a notice thereof in the Canada Gazette at least twenty-one days prior to the day of the hearing, and any person who, on or before the day of the hearing, enters an appearance with the Secretary of the Canadian International Trade Tribunal may be heard on the appeal.
+- **(2)** Before making a decision under this section, the Canadian International Trade Tribunal shall provide for a hearing and shall publish a notice thereof in the Canada Gazette at least twenty-one days prior to the day of the hearing, and any person who, on or before the day of the hearing, enters an appearance with the Canadian International Trade Tribunal may be heard on the appeal.
 
 **Judicial review**
 
 - **(3)** On an appeal under subsection (1), the Canadian International Trade Tribunal may make such order, finding or declaration as the nature of the matter may require, and an order, finding or declaration made under this section is not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by section 68.
-> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F); 2005, c. 38, s. 85.
+> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F); 2005, c. 38, s. 85; 2014, c. 20, s. 446.
 
 
 
@@ -2589,7 +2589,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **How application made**
 
-- **(3)** The application must be made by filing with the President and the Secretary of the Canadian International Trade Tribunal the application accompanied by the notice of appeal.
+- **(3)** The application must be made by filing with the President and the Canadian International Trade Tribunal the application accompanied by the notice of appeal.
 
 **Conditions for granting application**
 
@@ -2600,7 +2600,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(ii)** it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted, and
 		- **(iv)** there are reasonable grounds for the appeal.
-> 2001, c. 25, s. 49; 2005, c. 38, s. 85.
+> 2001, c. 25, s. 49; 2005, c. 38, s. 85; 2014, c. 20, s. 446.
 
 
 
@@ -2667,13 +2667,13 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 - **(1)** If the release of goods is refused because the goods have been determined to be prohibited goods classified under tariff item No. 9899.00.00 of the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), re-determination or further re-determination may be requested under section 60 or made under section 61 and appeals may be taken under sections 67 and 68 in respect of the determination, subject to the following modifications:
 	- **(a)** subparagraph 61(1)(a)(iii) and paragraph 61(1)(c) are deemed to include a reference to the court; and
-	- **(b)** in sections 67 and 68, the expression “court” is deemed to be substituted for the expression “Canadian International Trade Tribunal” and the expression “clerk of the court” is deemed to be substituted for the expression “Secretary of the Canadian International Trade Tribunal”.
+	- **(b)** in sections 67 and 68, the expression “court” is deemed to be substituted for the expression “Canadian International Trade Tribunal”.
 
 **Definitions**
 
 - **(2)** In this section,
 
-***clerk of the court*** means the clerk of the Supreme Court, Superior Court of Justice in and for the Province of Ontario, Superior Court, Court of Queen’s Bench or county or district court, as the case may be;
+***clerk of the court***[Repealed, 2014, c. 20, s. 445]
 
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
@@ -2683,7 +2683,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 - **(e)** [Repealed, 1992, c. 51, s. 44]
 - **(f)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court, and
 - **(g)** in Nunavut, the Nunavut Court of Justice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152.
+> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152; 2014, c. 20, s. 445.
 
 
 
