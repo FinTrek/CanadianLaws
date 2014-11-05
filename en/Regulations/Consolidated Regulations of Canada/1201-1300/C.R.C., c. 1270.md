@@ -91,7 +91,9 @@ Enabling authorities:
 	- **(ii)** all waters enclosed within a line extending from Cape Caution Light in position Latitude 51°09′50″ N., Longitude 127°47′06″ W., to a position in Latitude 50°58′00″ N., Longitude 127°44′33″ W., and THENCE, to Cape James on Hope Island in position Latitude 50°56′00″ N., Longitude 127°50′12″ W., and THENCE, from Nahwitti Point Light on Hope Island in position Latitude 50°54′18″ N., Longitude 127°59′02″ W., to Cape Sutil on Vancouver Island in position Latitude 50°52′30″ N., Longitude 128°02′54″ W., except those waters eastward of a line from Point Grey in position Latitude 49°15′57″ N., Longitude 123°15′48″ W., THENCE, to position Latitude 49°15′57″ N., Longitude 123°16′39″ W., THENCE, to position Latitude 49°05′15″ N., Longitude 123°18′54″ W., THENCE, to position Latitude 49°02′15″ N., Longitude 123°15′18″ W., THENCE, to position Latitude 49°02′15″ N., Longitude 123°05′45″ W.;
 - **(c)** Area 3, being all waters enclosed within a line extending from Christopher Point in position Latitude 48°18′36″ N., Longitude 123°33′45″ W., to a position Latitude 48°15′54″ N., Longitude 123°31′48″ W., and THENCE, to a position Latitude 48°20′48″ N., Longitude 123°56′00″ W., and THENCE, to a position Latitude 48°30′12″ N., Longitude 124°28′30″ W., and THENCE, to a position Latitude 48°33′45″ N., Longitude 124°43′48″ W., and THENCE, to a position Latitude 48°41′33″ N., Longitude 125°07′00″ W., and THENCE, to a position Latitude 48°50′36″ N., Longitude 125°30′00″ W., and THENCE, to a position Latitude 49°21′24″ N., Longitude 126°34′24″ W., and THENCE, to a position Latitude 50°05′06″ N., Longitude 127°58′18″ W., and THENCE, to a position Latitude 50°38′39″ N., Longitude 128°24′36″ W., and THENCE, to a position Latitude 50°46′51″ N., Longitude 128°28′42″ W., and THENCE, to a position Latitude 50°48′36″ N., Longitude 128°27′36″ W., and THENCE, to a position Latitude 50°58′27″ N., Longitude 127°56′06″ W., and THENCE, to a position Latitude 50°58′00″ N., Longitude 127°44′33″ W., and THENCE, to Cape James on Hope Island in position Latitude 50°56′00″ N., Longitude 127°50′12″ W., and THENCE, from Nahwitti Point Light on Hope Island in position Latitude 50°54′18″ N., Longitude 127°59′02″ W., to Cape Sutil on Vancouver Island in position Latitude 50°52′30″ N., Longitude 128°02′54″ W.;
 - **(d)** Area 4, being all waters enclosed within a line extending from Cape Caution Light in position Latitude 51°09′50″ N., Longitude 127°47′06″ W., and THENCE, to a position Latitude 50°58′00″ N., Longitude 127°44′33″ W., THENCE, to a position Latitude 51°15′00″ N., Longitude 128°16′00″ W., THENCE, to a position Latitude 52°15′12″ N., Longitude 128°46′30″ W., THENCE, to a position Latitude 52°23′00″ N., Longitude 129°24′45″ W., THENCE, to a position Latitude 53°23′15″ N., Longitude 130°38′12″ W., THENCE, to a position Latitude 53°29′30″ N., Longitude 130°41′30″ W., THENCE, to a position Latitude 54°02′06″ N., Longitude 130°57′15″ W., THENCE, to a position Latitude 54°15′24″ N., Longitude 131°02′30″ W., THENCE, to a position Latitude 54°18′21″ N., Longitude 130°57′51″ W., THENCE, to a position Latitude 54°35′15″ N., Longitude 131°16′45″ W., THENCE, to a position Latitude 54°41′57″ N., Longitude 131°07′21″ W., THENCE, a line following the International Boundary between the Province of British Columbia and the State of Alaska, terminating in a position Latitude 55°54′42″ N., Longitude 130°00′48″ W.; and
-- **(e)** Area 5, being all waters enclosed within a line extending from a position Latitude 54°17′24″ N., Longitude 131°28′00″ W., and THENCE, to a position Latitude 53°46′36″ N., Longitude 131°18′30″ W., THENCE, to a position Latitude 52°52′12″ N., Longitude 131°25′18″ W., THENCE, to a position Latitude 52°13′18″ N., Longitude 130°54′24″ W., THENCE, to a position Latitude 52°05′42″ N., Longitude 130°52′42″ W., THENCE, to a position Latitude 51°46′36″ N., Longitude 130°52′12″ W., THENCE, to a position Latitude 52°11′50″ N., Longitude 131°28′12″ W., THENCE, to a position Latitude 52°32′12″ N., Longitude 131°53′24″ W., THENCE, to a position Latitude 52°47′00″ N., Longitude 132°17′00″ W., THENCE, to a position Latitude 52°55′48″ N., Longitude 132°28′24″ W., THENCE, to a position Latitude 53°25′12″ N., Longitude 132°59′00″ W., THENCE, to a position Latitude 52°31′24″ N., Longitude 133°04′36″ W., THENCE, to a position Latitude 53°45′18″ N., Longitude 133°13′24″ W., THENCE, to a position Latitude 53°56′21″ N., Longitude 133°15′24″ W., THENCE, to a position Latitude 54°10′12″ N., Longitude 133°10′54″ W., THENCE, to a position Latitude 54°16′36″ N., Longitude 133°07′21″ W., THENCE, to a position Latitude 54°18′24″ N., Longitude 133°00′00″ W., THENCE, to a position Latitude 54°09′06″ N., Longitude 132°18′48″ W., THENCE, to a position Latitude 54°17′24″ N., Longitude 131°28′00″ W.
+- **(e)** Area 5, being all waters enclosed within a line extending from a position Latitude 54°17′24″ N., Longitude 131°28′00″ W., and THENCE, to a position Latitude 53°46′36″ N., Longitude 131°18′30″ W., THENCE, to a position Latitude 52°52′12″ N., Longitude 131°25′18″ W., THENCE, to a position Latitude 52°13′18″ N., Longitude 130°54′24″ W., THENCE, to a position Latitude 52°05′42″ N., Longitude 130°52′42″ W., THENCE, to a position Latitude 51°46′36″ N., Longitude 130°52′12″ W., THENCE, to a position Latitude 52°11′50″ N., Longitude 131°28′12″ W., THENCE, to a position Latitude 52°32′12″ N., Longitude 131°53′24″ W., THENCE, to a position Latitude 52°47′00″ N., Longitude 132°17′00″ W., THENCE, to a position Latitude 52°55′48″ N., Longitude 132°28′24″ W., THENCE, to a position Latitude 53°25′12″ N., Longitude 132°59′00″ W., THENCE, to a position Latitude 53°31′24″ N., Longitude 133°04′36″ W., THENCE, to a position Latitude 53°45′18″ N., Longitude 133°13′24″ W., THENCE, to a position Latitude 53°56′21″ N., Longitude 133°15′24″ W., THENCE, to a position Latitude 54°10′12″ N., Longitude 133°10′54″ W., THENCE, to a position Latitude 54°16′36″ N., Longitude 133°07′21″ W., THENCE, to a position Latitude 54°18′24″ N., Longitude 133°00′00″ W., THENCE, to a position Latitude 54°09′06″ N., Longitude 132°18′48″ W., THENCE, to a position Latitude 54°17′24″ N., Longitude 131°28′00″ W.
+> SOR/2014-240, s. 1.
+
 
 
 
@@ -141,10 +143,10 @@ Enabling authorities:
 ## Certificates
 
 
-**5** In addition to the certificates required by subsection 10(4) and section 11 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), an applicant for or a holder of a licence or a pilotage certificate shall hold a training certificate indicating that they have successfully completed a course approved in accordance with section 114 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md)
+**5** In addition to the certificates required by subsection 10(1) of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), an applicant for or a holder of a licence or a pilotage certificate shall hold a training certificate indicating that they have successfully completed a course approved in accordance with section 114 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md)
 - **(a)** in simulated electronic navigation, level 2; and
 - **(b)** in automatic radar plotting aids.
-> SOR/2003-224, s. 2; SOR/2009-329, s. 3.
+> SOR/2003-224, s. 2; SOR/2009-329, s. 3; SOR/2014-240, s. 2.
 
 
 
@@ -292,15 +294,7 @@ Enabling authorities:
 
 
 
-
-## Source Cards
-
-
-**14** If a licensed pilot boards a ship, the person in charge of the deck watch shall
-- **(a)** inform the pilot of the draft and gross tons of the ship and give the pilot any other information that the pilot requires to complete the source card supplied by the Authority; and
-- **(b)** sign and return the completed source card when it is presented to them by the pilot on completion of the pilotage service.
-> SOR/2003-224, s. 3.
-
+**14** [Repealed, SOR/2014-240, s. 3]
 
 
 
@@ -540,8 +534,18 @@ and may have an endorsement thereon setting out any requirements or restrictions
 ## Marine Occurrence Report
 
 
-**29** If a ship that is subject to compulsory pilotage or in respect of which a waiver has been granted is involved in a marine occurrence, the person in charge of the deck watch at the time of the marine occurrence shall, at the earliest opportunity, submit to the Authority a full report of the marine occurrence on a report form provided by the Authority for that use.
-> SOR/2003-224, s. 7.
+**29** 
+
+- **(1)** If a ship that is subject to compulsory pilotage or a ship in respect of which a waiver of compulsory pilotage has been granted is involved in a marine occurrence in a compulsory pilotage area, the person who has the conduct of the ship at the time of the marine occurrence shall submit a full report on the marine occurrence to the Authority on a form provided by the Authority for that use.
+
+- **(2)** If the person who has the conduct of the ship at the time of the marine occurrence is not the master, the master shall also submit a full report on the marine occurrence to the Authority on a form provided by the Authority for that use.
+
+- **(3)** A person who is required to submit a full report on the marine occurrence shall do so
+	- **(a)** within 72 hours after the marine occurrence; or
+	- **(b)** within an additional period of time granted to the person by the Authority under subsection (4).
+
+- **(4)** The Authority shall grant an additional period of time if the Authority is notified within 72 hours after the marine occurrence that the person is unable to submit the report within those 72 hours because the person was injured in the marine occurrence or because the person is in a remote location that does not have a scheduled transportation service or a communication system that can be used to submit the report.
+> SOR/2003-224, s. 7; SOR/2014-240, s. 4.
 
 
 
