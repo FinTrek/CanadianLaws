@@ -91,7 +91,9 @@ Autorités habilitantes :
 	- **(ii)** toutes les eaux en deçà d’une ligne allant du phare de cap Caution situé par 51°09′50″ de latitude N. et 127°47′06″ de longitude O., jusqu’au point 50°58′00″ de latitude N. et 127°44′33″ de longitude O., DE LÀ, jusqu’au cap James sur l’île Hope situé au point 50°56′00″ de latitude N. et 127°50′12″ de longitude O., et DE LÀ, du phare de Nahwitti Point sur l’île Hope situé au point 50°54′18″ de latitude N. et 127°59′02″ de longitude O., jusqu’au cap Sutil sur l’île de Vancouver au point 50°52′30″ de latitude N. et 128°02′54″ de longitude O., à l’exception des eaux à l’est d’une ligne allant de la pointe Grey située au point 49°15′57″ de latitude N. et 123°15′48″ de longitude O., DE LÀ, au point 49°15′57″ de latitude N. et 123°16′39″ de longitude O., DE LÀ, au point 49°05′15″ de latitude N. et 123°18′54″ de longitude O., DE LÀ, au point 49°02′15″ de latitude N. et 123°15′18″ de longitude O., DE LÀ, au point 49°02′15″ de latitude N. et 123°05′45″ de longitude O.;
 - **c)** la zone 3 comprend toutes les eaux en deçà d’une ligne allant de Christopher Point situé par 48°18′36″ de latitude N. et 123°33′45″ de longitude O., jusqu’au point 48°15′54″ de latitude N. et 123°31′48″ de longitude O., DE LÀ, au point 48°20′48″ de latitude N. et 123°56′00″ de longitude O., DE LÀ, au point 48°30′12″ de latitude N. et 124°28′30″ de longitude O., DE LÀ, au point 48°33′45″ de latitude N. et 124°43′48″ de longitude O., DE LÀ, au point 48°41′33″ de latitude N. et 125°07′00″ de longitude O., DE LÀ, au point 48°50′36″ de latitude N. et 125°30′00″ de longitude O., DE LÀ, au point 49°21′24″ de latitude N. et 126°34′24″ de longitude O., DE LÀ, au point 50°05′06″ de latitude N. et 127°58′18″ de longitude O., DE LÀ, au point 50°38′39″ de latitude N. et 128°24′36″ de longitude O., DE LÀ, au point 50°46′51″ de latitude N. et 128°28′42″ de longitude O., DE LÀ, au point 50°48′36″ de latitude N. et 128°27′36″ de longitude O., DE LÀ, au point 50°58′27″ de latitude N. et 127°56′06″ de longitude O., DE LÀ, au point 50°58′00″ de latitude N. et 127°44′33″ de longitude O., DE LÀ, au cap James sur l’île Hope situé par 50°56′00″ de latitude N. et 127°50′12″ de longitude O., DE LÀ, du feu de la pointe Nahwitti sur l’île Hope situé par 50°54′18″ de latitude N. et 127°59′02″ de longitude O., au cap Sutil sur l’île de Vancouver situé par 50°52′30″ de latitude N. et 128°02′54″ de longitude O.;
 - **d)** la zone 4 comprend toutes les eaux en deçà d’une ligne allant du feu de cap Caution situé par 51°09′50″ de latitude N. et 127°47′06″ de longitude O., DE LÀ, au point 50°58′00″ de latitude N. et 127°44′33″ de longitude O., DE LÀ, au point 51°15′00″ de latitude N. et 128°16′00″ de longitude O., DE LÀ, au point 52°15′12″ de latitude N. et 128°46′30″ de longitude O., DE LÀ, au point 52°23′00″ de latitude N. et 129°24′45″ de longitude O., DE LÀ, au point 53°23′15″ de latitude N. et 130°38′12″ de longitude O., DE LÀ, au point 53°29′30″ de latitude N. et 130°41′30″ de longitude O., DE LÀ, au point 54°02′06″ de latitude N. et 130°57′15″ de longitude O., DE LÀ, au point 54°15′24″ de latitude N. et 131°02′30″ de longitude O., DE LÀ, au point 54°18′21″ de latitude N. et 130°57′51″ de longitude O., DE LÀ, au point 54°35′15″ de latitude N. et 131°16′45″ de longitude O., DE LÀ, au point 54°41′57″ de latitude N. et 131°07′21″ de longitude O., DE LÀ, une ligne suivant la frontière internationale entre la province de la Colombie-Britannique et l’État d’Alaska et se terminant en un point situé par 55°54′42″ de latitude N. et 130°00′48″ de longitude O.; et
-- **e)** la zone 5 comprend toutes les eaux en deçà d’une ligne allant d’un point situé par 54°17′24″ de latitude N, et 131°28′00″ de longitude O., DE LÀ, au point 53°46′36″ de latitude N. et 131°18′30″ de longitude O., DE LÀ, au point 52°52′12″ de latitude N. et 131°25′18″ de longitude O., DE LÀ, au point 52°13′18″ de latitude N. et 130°54′24″ de longitude O., DE LÀ, au point 52°05′42″ de latitude N. et 130°52′42″ de longitude O., DE LÀ, au point 51°46′36″ de latitude N. et 130°52′12″ de longitude O., DE LÀ, au point 52°11′50″ de latitude N. et 131°28′12″ de longitude O., DE LÀ, au point 52°32′12″ de latitude N. et 131°53′24″ de longitude O., DE LÀ, au point 52°47′00″ de latitude N. et 132°17′00″ de longitude O., DE LÀ, au point 52°55′48″ de latitude N. et 132°28′24″ de longitude O., DE LÀ, au point 53°25′12″ de latitude N, et 132°59′00″ de longitude O., DE LÀ, au point 52°31′24″ de latitude N. et 133°04′36″ de longitude O., DE LÀ, au point 53°45′18″ de latitude N. et 133°13′24″ de longitude O., DE LÀ, au point 53°56′21″ de latitude N. et 133°15′24″ de longitude O., DE LÀ, au point 54°10′12″ de latitude N. et 133°10′54″ de longitude O., DE LÀ, au point 54°16′36″ de latitude N. et 133°07′21″ de longitude O., DE LÀ, au point 54°18′24″ de latitude N. et 133°00′00″ de longitude O., DE LÀ, au point 54°09′06″ de latitude N. et 132°18′48″ de longitude O., DE LÀ, au point 54°17′24″ de latitude N. et 131°28′00″ de longitude O.
+- **e)** la zone 5 comprend toutes les eaux en deçà d’une ligne allant d’un point situé par 54°17′24″ de latitude N, et 131°28′00″ de longitude O., DE LÀ, au point 53°46′36″ de latitude N. et 131°18′30″ de longitude O., DE LÀ, au point 52°52′12″ de latitude N. et 131°25′18″ de longitude O., DE LÀ, au point 52°13′18″ de latitude N. et 130°54′24″ de longitude O., DE LÀ, au point 52°05′42″ de latitude N. et 130°52′42″ de longitude O., DE LÀ, au point 51°46′36″ de latitude N. et 130°52′12″ de longitude O., DE LÀ, au point 52°11′50″ de latitude N. et 131°28′12″ de longitude O., DE LÀ, au point 52°32′12″ de latitude N. et 131°53′24″ de longitude O., DE LÀ, au point 52°47′00″ de latitude N. et 132°17′00″ de longitude O., DE LÀ, au point 52°55′48″ de latitude N. et 132°28′24″ de longitude O., DE LÀ, au point 53°25′12″ de latitude N, et 132°59′00″ de longitude O., DE LÀ, au point 53°31′24″ de latitude N. et 133°04′36″ de longitude O., DE LÀ, au point 53°45′18″ de latitude N. et 133°13′24″ de longitude O., DE LÀ, au point 53°56′21″ de latitude N. et 133°15′24″ de longitude O., DE LÀ, au point 54°10′12″ de latitude N. et 133°10′54″ de longitude O., DE LÀ, au point 54°16′36″ de latitude N. et 133°07′21″ de longitude O., DE LÀ, au point 54°18′24″ de latitude N. et 133°00′00″ de longitude O., DE LÀ, au point 54°09′06″ de latitude N. et 132°18′48″ de longitude O., DE LÀ, au point 54°17′24″ de latitude N. et 131°28′00″ de longitude O.
+> DORS/2014-240, art. 1.
+
 
 
 
@@ -141,10 +143,10 @@ Autorités habilitantes :
 ## Certificats
 
 
-**5** En plus des certificats et des brevets exigés au paragraphe 10(4) et l’article 11 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md), le demandeur ou le titulaire d’un brevet ou d’un certificat de pilotage doit être titulaire d’un certificat de cours de formation attestant qu’il a suivi avec succès un cours approuvé conformément à l’article 114 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md) portant sur les aspects suivants :
+**5** En plus d’être titulaire des brevets exigés au paragraphe 10(1) du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md), le demandeur ou le titulaire d’un brevet ou d’un certificat de pilotage doit être titulaire d’un certificat de formation attestant qu’il a terminé avec succès un cours approuvé conformément à l’article 114 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md) portant sur les aspects suivants :
 - **a)** la navigation électronique simulée, niveau 2;
 - **b)** les aides au pointage de radar automatiques.
-> DORS/2003-224, art. 2; DORS/2009-329, art. 3.
+> DORS/2003-224, art. 2; DORS/2009-329, art. 3; DORS/2014-240, art. 2.
 
 
 
@@ -292,15 +294,7 @@ Autorités habilitantes :
 
 
 
-
-## Fiches de pilotage
-
-
-**14** Lorsqu’un pilote breveté monte à bord d’un navire, la personne responsable du quart à la passerelle doit, à la fois :
-- **a)** informer le pilote du tirant d’eau et de la jauge brute du navire et lui donner tout autre renseignement dont il a besoin pour remplir la fiche de pilotage fournie par l’Administration;
-- **b)** signer la fiche de pilotage remplie que le pilote lui présente et la lui remettre une fois le service de pilotage terminé.
-> DORS/2003-224, art. 3.
-
+**14** [Abrogé, DORS/2014-240, art. 3]
 
 
 
@@ -540,8 +534,18 @@ et ledit certificat peut porter aussi une inscription indiquant toute exigence o
 ## Compte rendu d’accident maritime
 
 
-**29** Lorsqu’un navire qui est assujetti au pilotage obligatoire ou pour lequel une dispense a été accordée est mis en cause dans un accident maritime, la personne responsable du quart à la passerelle au moment de celui-ci doit présenter à l’Administration, à la première occasion, un compte rendu complet de l’accident maritime sur un formulaire de compte rendu que fournit l’Administration à cette fin.
-> DORS/2003-224, art. 7.
+**29** 
+
+- **(1)** Si un navire qui est assujetti au pilotage obligatoire ou à l’égard duquel une dispense de pilotage obligatoire a été accordée est mis en cause dans un accident maritime dans une zone de pilotage obligatoire, la personne qui en assure la conduite au moment de l’accident maritime présente à l’Administration, sur un formulaire que celle-ci fournit à cette fin, un compte rendu complet de l’accident maritime.
+
+- **(2)** Si la personne qui assure la conduite du navire au moment de l’accident maritime n’est pas le capitaine, celui-ci présente aussi à l’Administration, sur un formulaire que celle-ci fournit à cette fin, un compte rendu complet de l’accident maritime.
+
+- **(3)** La personne tenue de présenter un compte rendu complet de l’accident maritime le fait :
+	- **a)** dans un délai de 72 heures suivant l’accident maritime;
+	- **b)** dans un délai supplémentaire accordé à la personne par l’Administration en vertu du paragraphe (4).
+
+- **(4)** L’Administration accorde un délai supplémentaire si elle est avisée, dans un délai de 72 heures suivant l’accident maritime, que la personne est incapable de présenter le compte rendu dans ce délai parce qu’elle a subi une blessure lors de l’accident maritime ou qu’elle se trouve dans une région éloignée qui ne dispose pas d’un service de transport régulier ou d’un système de communication qui peut être utilisé pour la présentation du compte rendu.
+> DORS/2003-224, art. 7; DORS/2014-240, art. 4.
 
 
 
