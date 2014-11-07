@@ -263,7 +263,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii).
-> SOR/2004-237, s. 4; SOR/2010-221, s. 2; SOR/2012-230, s. 16; SOR/2013-119, s. 205.
+> SOR/2004-237, s. 4; SOR/2010-221, s. 2; SOR/2012-230, s. 16; SOR/2013-119, s. 205; SOR/2014-260, s. 26(F).
 
 
 
@@ -291,11 +291,11 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(ii)** the narcotic in each product or compound,
 		- **(iii)** the strength per unit of the narcotic in each product or compound,
 		- **(iv)** the quantity or package sizes of each product or compound, and
-		- **(v)** if the product or compound would be made or assembled by or for another licensed dealer under a custom order, the name, address and licence number of the other dealer;
+		- **(v)** if the product or compound would be made or assembled by or for another licensed dealer under a custom order, the name, address and dealer’s licence number of the other licensed dealer;
 	- **(h)** if the licence is sought to produce a narcotic other than a product or compound that contains a narcotic,
 		- **(i)** the name of the narcotic to be produced,
 		- **(ii)** the quantity that the applicant expects to produce under the dealer’s licence and the period during which that quantity would be produced, and
-		- **(iii)** if the narcotic would be produced for another licensed dealer under a custom order, the name, address and dealer’s licence number of the other dealer;
+		- **(iii)** if the narcotic would be produced for another licensed dealer under a custom order, the name, address and dealer’s licence number of the other licensed dealer;
 	- **(i)** a detailed description of the security measures at the premises, determined in accordance with the Security Directive;
 	- **(j)** a detailed description of the method that the applicant proposes to use for recording their narcotic transactions; and
 	- **(k)** for any activity referred to in section 8, other than the activities described in paragraphs (g) and (h), the name of the narcotic and the purpose for carrying out the activity.
@@ -328,7 +328,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(a)** to having a criminal record check carried out for them, as an adult, in respect of the offences referred to in those paragraphs during the preceding 10 years;
 	- **(b)** to provide all necessary information and to submit to any means of identification required to obtain the criminal record check; and
 	- **(c)** to pay the fee established by the [Royal Canadian Mounted Police, Criminal Record Verification for Civil Purposes Fee Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/485.md).
-> SOR/85-588, s. 3(F); SOR/2004-237, s. 4; SOR/2010-221, s. 3; SOR/2012-230, s. 17.
+> SOR/85-588, s. 3(F); SOR/2004-237, s. 4; SOR/2010-221, s. 3; SOR/2012-230, s. 17; SOR/2014-260, ss. 17, 27(F).
 
 
 
@@ -341,14 +341,14 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **9.2** Subject to section 9.4, the Minister shall, after examining the information and documents required under sections 9 and 9.1, issue a dealer’s licence that contains
 - **(a)** the licence number;
-- **(b)** the name of the holder of the licence or the title of the position they hold, as the case may be, or, if the holder of the licence is a corporation, its corporate name;
+- **(b)** the name of the licensed dealer or the title of the position they hold, or, if the licensed dealer is a corporation, its corporate name;
 - **(c)** a list of the activities that are permitted;
 - **(d)** the address of the premises at which the licensed dealer may carry on the permitted activities;
 - **(e)** the name of the narcotic for which the activities are permitted;
 - **(f)** the security level at the premises, determined in accordance with the Security Directive;
 - **(g)** the effective date of the licence;
 - **(h)** the expiry date of the licence, which may not be later than three years after its effective date;
-- **(i)** any conditions to be met by the holder of the licence to
+- **(i)** any conditions to be met by the licensed dealer to
 	- **(i)** ensure that an international obligation is respected,
 	- **(ii)** provide the security level referred to in paragraph (f), or
 	- **(iii)** reduce the potential security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use;
@@ -359,7 +359,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(iii)** the narcotic in each product or compound,
 	- **(iv)** the strength per unit of the narcotic in each product or compound, and
 	- **(v)** the quantity or package sizes of each product or compound.
-> SOR/2004-237, s. 4; SOR/2010-221, ss. 4, 18(F).
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 4, 18(F); SOR/2014-260, s. 18.
 
 
 
@@ -415,7 +415,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(ii)** the individual in charge has the authority to bind the applicant.
 
 - **(3)** Subject to section 9.4, the Minister shall, after examining the information and documents required under subsections (1) and (2) and section 9.1, issue a renewed dealer’s licence that contains the information specified in paragraphs 9.2(a) to (k).
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2014-260, s. 27(F).
 
 
 
@@ -432,11 +432,11 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(i)** all information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
 		- **(ii)** the individual in charge has the authority to bind the applicant.
 
-- **(3)** Subject to section 9.4, the Minister shall, after examining the application for amendment and the supporting documentation, amend the dealer’s licence in accordance with the application and may add any conditions to be met by the holder of the licence to
+- **(3)** Subject to section 9.4, the Minister shall, after examining the application for amendment and the supporting documentation, amend the dealer’s licence in accordance with the application and may add any conditions to be met by the licensed dealer to
 	- **(a)** ensure that an international obligation is respected;
 	- **(b)** provide the security level referred to in paragraph 9.2(f) or the new level required as a result of the amendment being implemented; or
 	- **(c)** reduce the potential security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
-> SOR/2004-237, s. 4; SOR/2010-221, ss. 6(F), 18(F).
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 6(F), 18(F); SOR/2014-260, ss. 19, 27(F).
 
 
 
@@ -467,13 +467,13 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(i)** the information specified in paragraph 9(1)(d), and
 		- **(ii)** the documents specified in paragraphs 9(3)(a), (d) and (e) and, subject to section 9(5), the documents specified in paragraphs 9(3)(b) and (c); and
 	- **(c)** in the case of the replacement or addition of an individual who is authorized to place an order for a narcotic on behalf of the licensed dealer, the individual’s name and gender.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2014-260, s. 26(F).
 
 
 
 
 **9.8** The Minister shall revoke a dealer’s licence at the request of the licensed dealer or on being notified by the licensed dealer that the licence has been lost or stolen.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2014-260, s. 28(F).
 
 
 
@@ -493,7 +493,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not revoke a dealer’s licence under paragraph (1)(a) or (b) if the licensed dealer
 	- **(a)** has no history of non-compliance with the Act and the regulations made or continued under it; and
 	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, these Regulations and the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md).
-> SOR/2004-237, s. 4; SOR/2010-221, ss. 7, 18(F); SOR/2013-119, s. 207.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 7, 18(F); SOR/2013-119, s. 207; SOR/2014-260, ss. 26(F), 28(F).
 
 
 
@@ -507,13 +507,13 @@ the Minister may issue a registration number for the test kit, which shall be a 
 **9.92** 
 
 - **(1)** If the Minister proposes to refuse to issue, amend or renew, or proposes to revoke, a dealer’s licence under these Regulations, the Minister shall
-	- **(a)** send a notice to the applicant or to the holder of the licence, together with a written report that sets out the reasons for the proposed refusal or revocation; and
-	- **(b)** give the applicant or holder an opportunity to be heard in respect of the proposed refusal or revocation.
+	- **(a)** send a notice to the applicant or to the licensed dealer, together with a written report that sets out the reasons for the proposed refusal or revocation; and
+	- **(b)** give the applicant or the licensed dealer an opportunity to be heard in respect of the proposed refusal or revocation.
 
-- **(2)** The suspension of a dealer’s licence under these Regulations takes effect as soon as the Minister notifies the holder of the licence of the decision to suspend and provides a written report that sets out the reasons for the suspension.
+- **(2)** The suspension of a dealer’s licence under these Regulations takes effect as soon as the Minister notifies the licensed dealer of the decision to suspend and provides a written report that sets out the reasons for the suspension.
 
 - **(3)** A person who receives a notice of suspension referred to in subsection (2) may, within 10 days after receiving the notice, provide the Minister with reasons why the suspension of the licence is unfounded.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2014-260, s. 20.
 
 
 
@@ -546,8 +546,10 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not revoke a permit under paragraph 9.9(1)(a) or (b), or 13.1(1)(b) if the holder meets the conditions set out in paragraphs 9.9(2)(a) and (b).
 
-- **(3)** The Minister may revoke a permit if the holder fails to comply with the decision of the Minister to suspend the permit under section 13.2 or if the situation giving rise to the suspension is not rectified.
-> SOR/2010-221, s. 8.
+- **(3)** The Minister may revoke a permit if the holder
+	- **(a)** fails to comply with the Minister’s decision to suspend the permit under section 13.2; or
+	- **(b)** fails to rectify the situation giving rise to the suspension within the period referred to in subsection 13.2(3).
+> SOR/2010-221, s. 8; SOR/2014-260, s. 21.
 
 
 
@@ -666,7 +668,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2.1)** For the purpose of subsection (2), for greater certainty, a licensed dealer may sell or provide a narcotic to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the narcotic, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
 
-- **(2.2)** No licensed dealer shall sell or provide dried marihuana to a person referred to in paragraph (2)(b), (c) or (d) unless the dealer produced it under contract with Her Majesty in right of Canada.
+- **(2.2)** No licensed dealer shall sell or provide dried marihuana to any person referred to in paragraphs (2)(b) to (d) unless the licensed dealer produced it under contract with Her Majesty in right of Canada.
 
 - **(3)** Subject to section 25, a licensed dealer may sell or provide methadone to
 	- **(a)** another licensed dealer;
@@ -679,7 +681,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(4)** [Repealed, SOR/2013-172, s. 5]
 
 - **(5)** A licensed dealer may sell or provide cannabis to a licensed producer.
-> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5.
+> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5; SOR/2014-260, s. 22.
 
 
 
@@ -747,10 +749,10 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(b)** the date the pharmacist or practitioner received the narcotic; and
 	- **(c)** the name and quantity of the narcotic.
 
-- **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
+- **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the licensed dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
 	- **(a)** order sent through a computer from a remote input device referred to in paragraph (1)(b), or
 	- **(b)** verbal order referred to in paragraph (1)(c) from that pharmacist or practitioner who placed the order for which no receipt has been received.
-> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6.
+> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6; SOR/2014-260, ss. 23(E), 26(F).
 
 
 
@@ -934,13 +936,13 @@ that specifies the name and quantity of the narcotic to be supplied.
 **45** 
 
 - **(1)** A pharmacist may, on receiving a written order for a narcotic
-	- **(a)** return the narcotic to the licensed dealer who sold or provided it to the pharmacist, if the order is signed and dated by the dealer; or
+	- **(a)** return the narcotic to the licensed dealer who sold or provided it to the pharmacist, if the order is signed and dated by the licensed dealer; or
 	- **(b)** sell or provide to another pharmacist the quantity of the narcotic that is specified in the order as being required for emergency purposes, if the order is signed and dated by the other pharmacist.
 
 - **(2)** A pharmacist shall, immediately after returning, selling or providing a narcotic under subsection (1) or after receiving a narcotic under paragraph (1)(b) or subsection 65(4), enter the details of the transaction in a book, register or other record maintained for the purpose of recording such transactions.
 
 - **(3)** A pharmacist shall forthwith after removing, transporting or transferring a narcotic from his place of business to any other place of business operated by him notify the Minister setting out the details thereof.
-> SOR/81-361, s. 5; SOR/85-588, s. 18; SOR/2004-237, s. 19; SOR/2013-119, s. 213(E).
+> SOR/81-361, s. 5; SOR/85-588, s. 18; SOR/2004-237, s. 19; SOR/2013-119, s. 213(E); SOR/2014-260, s. 24(E).
 
 
 
@@ -1265,8 +1267,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 **65.3** The person in charge of a hospital may, on receiving a written order for dried marihuana, permit it to be
 - **(a)** returned to the licensed producer who sold or provided it to them, if the order is signed and dated by the producer;
 - **(b)** sold or provided, for destruction, to a licensed producer who is authorized to destroy dried marihuana other than dried marihuana that the producer produces, sells or provides, if the order is signed and dated by the producer; or
-- **(c)** sold or provided, for destruction, to a licensed dealer who is authorized to destroy dried marihuana, if the order is signed and dated by the dealer.
-> SOR/2013-119, s. 226.
+- **(c)** sold or provided, for destruction, to a licensed dealer who is authorized to destroy dried marihuana, if the order is signed and dated by the licensed dealer.
+> SOR/2013-119, s. 226; SOR/2014-260, s. 25(E).
 
 
 
